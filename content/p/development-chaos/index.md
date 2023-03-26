@@ -1,0 +1,74 @@
+---
+title: "DEVELOPMENT CHAOS"
+date: 2022-01-08
+categories: 
+  - saturday-special
+authors: 
+  - admin
+---
+
+Baldwin County is spinning out of control. [Development in Fairhope and Daphne are under a building moratorium](https://rippreport.com/2021/12/20/%F0%9F%8E%89/). Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
+
+That is poor planning and a failure of the politicians.
+
+[Schools in the lower south half of Baldwin are stretched to the max](https://utv44.com/news/local/baldwin-schools-fight-to-keep-up-with-population-boom). Portables are being added and any new construction to schools will be at full occupancy the first day at school. School campus’s are a hodgepodge of portable classrooms and sport utility buildings. Some municipalities are forming their own school districts, which only adds another level of tax and duplicity.
+
+[Baldwin County is the only county in Alabama that has an unregulated sewer system](https://rippreport.com/2019/09/11/baldwin-county-sewer-regulation-a-litmus-test/). Spanish Fort is entirely dependent on Baldwin County Sewer Service. Consumers with Baldwin County Sewer should read [the history of the company](https://lagniappemobile.com/series/bcss/). The FBI should step in because the County Commission has had a no see, no hear, no talk approach to a problem that smells worse than the sewage.
+
+### [Baldwin County Sewer Service - Lagniappe Series](https://lagniappemobile.com/series/bcss/)
+
+In the middle of all this development chaos, the County Commission, and the way-to-powerful County Sheriff, Boss Hoss, in their infinite wisdom, are going to turn Bay Minette into a jail town. The county has numerous infrastructure and social needs. To spend 65 million dollars on a jail that can boast it has 951 inmates without spending a penny on social programs aimed at preventing crime is shortsighted to say the least.
+
+Bay Minette will become a shadow of the jail, surrounded by attorney offices and void of it’s proud history.
+
+D.R. Horton has built over 4000 homes in Baldwin and Mobile County. They are now facing a class action lawsuits due to inferior construction. D.R. Horton will not be the last sued for shoddy construction in such a fast paced construction environment.
+
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmynbc15%2Fposts%2F10158351478146587&amp;show_text=true&amp;width=500" width="500" height="418" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D131706812565899%26id%3D103525868717327&amp;show_text=true&amp;width=500" width="500" height="816" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+It is estimated that Baldwin County needs approximately 6000 workers, most being in the service industry. If that is true, and the rumor that the [Baldwin County “blackhole” Megasite](https://rippreport.com/2021/07/30/mega-lost-opportunity/), may have an electric car manufacturer interested in the site. Expect the development in north Baldwin to rival that of south Baldwin.
+
+The mega site, like the 65 million dollar jail, are dream projects of very few people, advocating for those who have a connection and benefit to the projects.
+
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159679934072317&amp;show_text=true&amp;width=500" width="500" height="571" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+
+Ten years ago, people across the county said Hell No to any kind of zoning, screaming all the while about their property rights. This was exactly what the developers, some Baldwin County lawyers, Judges and Councilman, wanted. They did not want to pick pecans. They wanted to knock them down. The result is Baldwin County is a sprawl of municipalities and a patchwork of subdivisions, apartments and commercial property all lacking cohesive planning.
+
+Today citizens are defining property rights differently. Zoning can protect your property from storage buildings, gas stations or dollar stores, becoming your neighbor.
+
+It is not Hell No! It is now Hell Yes to zoning.
+
+The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://lagniappemobile.com/rsa-sues-baldwin-county-over-point-clear-planning-district/), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/2019/08/30/rsa-%E2%81%A0-no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
+
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159680909127317&amp;show_text=true&amp;width=500" width="500" height="615" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+
+“Three elections are scheduled in February for two new planning districts outside of Fairhope (8 and 37), plus Planning District 36 in Seminole. A petition has been received to create yet another district outside Foley — Planning District 35 — and it is currently being evaluated by probate court”
+
+What connects Mobile and Baldwin county is the Mobile Basin, America’s Amazon, the cradle of biodiversity. This Jewell of Alabama is under environmental threat.
+
+The Berry Steam Plant has 21 tons of toxic coal ash in a pond on 600 acres surrounded on three sides by the river. A breach could be 5 times worse than the B.P. oil spill.
+
+The Alabama Port Authority now proposes to cover up 1200 acres of the bay to store dredging spoils. The location is the best site for the Port Authority to save money. Forget about the 1200 acres of America’s Amazon and biodiversity being covered with mud and silt.
+
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159655826507317&amp;show_text=true&amp;width=500" width="500" height="609" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+
+Let’s not forget about that bridge that will span the entire bay.
+
+Is it all about traffic? Or developing the Eastern Shore and Baldwin County?
+
+First, no toll. Then all the politicians decided on a coup for tolls. The cost and design has changed so many times that even the double talking flip flopping politicians don’t know.
+
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159644995547317&amp;show_text=true&amp;width=500" width="500" height="571" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+
+All of the above has an effect on the quality of life in Baldwin County.
+
+The Baldwin County planning department is trying to put brakes on a runaway train. Zoning is necessary for any kind of development planning. Without zoning, there can be no brake.
+
+[The County Planning Department needs your help please fill out the questionnaire;](https://www.surveymonkey.com/r/BaldwinOurVision)
+
+<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D288864423286063%26set%3Da.227735429398963%26type%3D3&amp;show_text=true&amp;width=500" width="500" height="367" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe>
+
+Please attend these citizen driven meeting or shut up about problems that face all of Baldwin county.
+
+[![](https://cdn.rippreport.com/71d4985f-271135783_288864413286064_5157243368581731532_n.jpg)](https://www.facebook.com/photo/?fbid=288864423286063&set=a.227735429398963)
