@@ -1,0 +1,89 @@
+baseURL = 'https://rippreport.com/'
+languageCode = 'en-us'
+title = 'Ripp Report'
+theme = 'mainroad'
+
+[Author] # Used in authorbox
+  name = "Francis Ripp"
+  bio = ""
+  avatar = "img/eagle.png"
+
+[Params]
+  description = "Reporting on the political corruption in Fairhope, AL and Baldwin County." # Site description. Used in meta description
+  copyright = "Rippreport"
+  twitter_cards = true 
+  readmore = true 
+  authorbox = false 
+  toc = false 
+  pager = true 
+  post_meta = ["date", "categories"]
+  mainSections = ["p"]
+  customCSS = ["css/custom.css"]
+  mathjax = false
+
+[Params.sidebar]
+  home = "right"   # layout for home page
+  list = "right"   # layout for list pages
+  single = "right" # layout for single pages
+  widgets = ["search", "recent", "taglist"]
+
+[Params.widgets]
+  recent_num = 10 # Number of articles in the "Recent articles" widget
+  tags_counter = false
+
+[Params.style.vars]
+  highlightColor = "#176898"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = []
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'unsafe'
+    sectionNumbers = false
+    trace = false
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
