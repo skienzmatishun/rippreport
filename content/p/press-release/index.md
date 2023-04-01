@@ -2,7 +2,7 @@
 title: "PRESS RELEASE"
 date: 2022-01-29
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

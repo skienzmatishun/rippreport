@@ -2,7 +2,7 @@
 title: "Frances J. Neumann Celebration  Of  Life"
 date: 2021-10-14
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

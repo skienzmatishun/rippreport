@@ -2,7 +2,7 @@
 title: "Never Forget"
 date: 2021-09-11
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

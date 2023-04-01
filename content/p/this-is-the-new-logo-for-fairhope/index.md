@@ -2,7 +2,7 @@
 title: "THIS IS THE NEW LOGO FOR FAIRHOPE"
 date: 2022-10-28
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

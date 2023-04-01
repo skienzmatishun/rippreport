@@ -2,7 +2,7 @@
 title: "NAPPI AWARD"
 date: 2020-08-06
 categories: 
-  - special-report
+  - Special-Report
 tags: 
   - nappi
   - wilson

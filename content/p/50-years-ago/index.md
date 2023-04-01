@@ -2,7 +2,7 @@
 title: "50 YEARS AGO"
 date: 2018-11-11
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - ripp-report
 ---

@@ -2,7 +2,7 @@
 title: "DEAL WITH THE DEVIL"
 date: 2022-03-14
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

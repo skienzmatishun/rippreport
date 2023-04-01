@@ -2,7 +2,7 @@
 title: "Happy New Year!"
 date: 2019-01-01
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

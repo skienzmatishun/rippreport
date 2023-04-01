@@ -2,7 +2,7 @@
 title: "Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th"
 date: 2020-06-04
 categories: 
-  - special-report
+  - Special-Report
 tags: 
   - chris-warner
   - football

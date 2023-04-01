@@ -2,7 +2,7 @@
 title: "CATALYST COUNCIL LAWSUITS"
 date: 2020-08-22
 categories: 
-  - special-report
+  - Special-Report
 tags: 
   - breland
   - burell

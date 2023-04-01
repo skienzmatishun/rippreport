@@ -3,6 +3,7 @@ title: "Alabama's Ethics Director Should Resign"
 date: 2023-03-04
 categories: 
   - podcast
+thumbnail: "img/bsp2.jpg"
 authors: 
   - admin
 ---

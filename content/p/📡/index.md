@@ -2,7 +2,7 @@
 title: "Baldwin County seeks public input on land use plan - Lagniappe"
 date: 2022-01-13
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

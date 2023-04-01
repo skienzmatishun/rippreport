@@ -3,6 +3,7 @@ title: "STEPHEN NODINE"
 date: 2023-01-27
 categories: 
   - podcast
+thumbnail: "img/bsp.jpg"
 authors: 
   - admin
 ---

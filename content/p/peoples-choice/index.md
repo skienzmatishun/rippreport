@@ -2,7 +2,7 @@
 title: "PEOPLE'S CHOICE"
 date: 2018-07-13
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - ripp-report
 ---

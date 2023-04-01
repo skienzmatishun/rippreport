@@ -2,7 +2,7 @@
 title: "🎉 2022 🎉"
 date: 2022-01-01
 categories: 
-  - special-report
+  - Special-Report
 authors: 
   - admin
 ---

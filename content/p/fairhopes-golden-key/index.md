@@ -2,7 +2,7 @@
 title: "FAIRHOPE'S GOLDEN KEY"
 date: 2020-08-24
 categories: 
-  - special-report
+  - Special-Report
 tags: 
   - boone
   - brown

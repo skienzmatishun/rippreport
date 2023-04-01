@@ -2,7 +2,7 @@
 title: "PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE"
 date: 2018-07-12
 categories: 
-  - special-report
+  - Special-Report
 tags: 
   - thomason
 authors: 
