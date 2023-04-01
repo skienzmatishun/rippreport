@@ -19,6 +19,7 @@ logo = "img/eagle.png"
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["p"] # Specify section pages to show on home page and the "Recent articles" widget
+  customCSS = ["css/custom.css"] # Include custom CSS files
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -33,3 +34,4 @@ logo = "img/eagle.png"
 
 [Params.logo]
   image = "img/eagle.png" # Logo image. Path relative to "static"
+  customCSS = ["css/custom.css"] # Include custom CSS files
