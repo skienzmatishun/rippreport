@@ -74,7 +74,7 @@ Alan is running neck to neck with Matt McKenzie, NOT an attorney.
 
 Matt served 5 and half years in the United States Marine Corp and has dedicated his life to law enforcement. Baldwin County needs a “Few Good Men.” Semper Fi oorah.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k0A26mbgaFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=k0A26mbgaFM
 
 Catalyst Candidate Lynn Perry:
 

@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RNj7UWh8rmE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=RNj7UWh8rmE
 
 The lack of Leadership in Alabama is unimaginable. This is the most ineffective and quite frankly unintelligent bunch of legislators to ever occupy our Statehouse. And the Kung-Flu response should have convinced you that our Federal, State and Local Leadership is totally unprepared for much of anything (reminiscent of a Marx Brothers bit).
 

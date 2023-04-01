@@ -39,7 +39,7 @@ https://rippreport.com/2021/01/24/redneck-renovations/
 
 The [medical marijuana](https://rippreport.com/tag/medical-cannabis/) bill looks as if it is going to pass, it is headed for Governor Ivy’s signature.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/773DBogYwSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=773DBogYwSQ
 
 The Alabama gaming bill is moving through the Senate and we could have an answer soon.
 

@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xp6L1EJZEak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=xp6L1EJZEak
 
 37.2 Million infected with SARS-COV-2 in the USA with 625,000 deaths on the eve of the arrival of former President Donald J Trump in Cullman, Alabama.
 

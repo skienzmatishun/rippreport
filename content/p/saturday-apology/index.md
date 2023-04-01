@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-[Backstory Podcast](<iframe width="560" height="315" src="https://www.youtube.com/embed/7wbnB77HAI4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[Backstory Podcast](https://www.youtube.com/watch?v=7wbnB77HAI4)
 
 @BackstoryPodcast
 
@@ -16,7 +16,7 @@ The Ripp Report/Backstory Podcast
 
 We are sorry that the Freaky Friday post, Backstory Podcast #9, had some difficulties in posting to our pages. The link is up now and we encourage you to join our Facebook page.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7wbnB77HAI4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=7wbnB77HAI4
 
 The podcast is a new venture and we expected some difficulties, please join us on Facebook. We cover political corruption and consumer issues. Our forum is the Court of Public Opinion, and we use it to expose those elected and appointed officials that use their positions for personal gain, regardless of political affiliation.
 

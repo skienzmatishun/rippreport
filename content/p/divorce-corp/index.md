@@ -9,7 +9,7 @@ authors:
   - ripp-report
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=REOuslPVZD4
 
 Divorce corp. has many videos related to divorce, custody, visitation and money. Baldwin County fits perfectly into the picture portrayed by Divorce Corp.
 

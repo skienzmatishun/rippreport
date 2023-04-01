@@ -53,7 +53,7 @@ Source: [rippreport.com/2017/09/20/baldwin-county-family-court/](https://ripprep
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/09/divorce-money-tug-war.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Divorce corp. has many videos related to divorce, custody, visitation and money. Baldwin County fits perfectly into the picture portrayed by Divorce Corp.
+https://www.youtube.com/watch?v=REOuslPVZD4 Divorce corp. has many videos related to divorce, custody, visitation and money. Baldwin County fits perfectly into the picture portrayed by Divorce Corp.
 
 Source: [rippreport.com/2017/09/06/divorce-corp/](https://rippreport.com/2017/09/06/divorce-corp/)
 

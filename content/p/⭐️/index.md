@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJB31uJz7lE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=gJB31uJz7lE
 
 This week for our 100th Episode we have a special guest: Alabama State Auditor Jim Zeigler(R). He is poised to announce that he will challenge Alabama Governor Kay Ivey for the Republican nomination (we talk prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).
 

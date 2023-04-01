@@ -19,7 +19,7 @@ If you missed the last council meeting in Fairhope here is the highlight:
 
 This is Jack Burrell hard at work as President of the city council denying a citizen the Freedom Of Speech our US constitution guarantees:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDUoTFc1gOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>?t=3602
+https://youtu.be/kDUoTFc1gOs?t=3602
 
 The latest move by Burrell to deny free speech may be the last straw for his support group Catalyst.
 

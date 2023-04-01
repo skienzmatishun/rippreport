@@ -55,7 +55,7 @@ The Ripp Report, so far, has had no response from any of the agencies. It was in
 
 He should not be lecturing anyone about ethics. He needs to be investigated, thrown off the trust and refund the money he “legally” skimmed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8euLWxcoE1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=8euLWxcoE1s
 
 One thing that did happen is Leigh Manning, the grandniece of Mabel Amos, Former Sec of State. Has retained an attorney. Not just any attorney, a very good attorney. This is a game changer.
 

@@ -23,7 +23,7 @@ This intersection is going to be impacted by an additional 400 to 600 vehicles w
 
 So let’s go fly
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EXhn9jVszBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/EXhn9jVszBw
 
 This is what the developer does not want you to see. The Kant-Corte Apartments are the responsibility of the last council, Mr Burrell and Mr Boone played a very important part in the success of the apartments.
 

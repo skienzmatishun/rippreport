@@ -94,4 +94,4 @@ Qualification for Fairhope municipal elections is July 7th to July 21.
 
 ## LIAR LIAR PANTS ON FIRE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/czzmqpkkKwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/czzmqpkkKwM

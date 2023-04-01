@@ -40,4 +40,4 @@ Don Seigelman is the only one in the history of Alabama to serve as Sec. Of Stat
 
 You can gleam more information by watching Atticus and the Architect on u-tube. This video exposes the cast of characters involved and the raw corruption they displayed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e-iEBe7W26I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=e-iEBe7W26I

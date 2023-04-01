@@ -21,7 +21,7 @@ Last week’s “special” meeting was a prime example of yet another occasion 
 
 The Police Chief made the decision to retire, not the Mayor. Sherry Sullivan, a fired disgruntled employee who sued the city and collected her bonus, orchestrated a dog and pony show that had everything but violins. Be sure to watch Mr. Burrell’s grandstanding around the 40 min mark.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/floTnfOgaBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t=2513s
+https://www.youtube.com/watch?v=floTnfOgaBk&t=2513s
 
 The Chief retired after 36 years of service. The Chief had mentioned to many people, me included, that he probably would retire in a couple of years, this was around the time of the last election. Chief Pettis was recruited by the sour grape crowd to blame the Mayor for his retirement. The reasons given by the Chief, that he had been “bullied and intimidated” by the Mayor. Those X employees played the Chief like a fiddle for their own agenda. The Chief has recalled his original signed letter.
 
@@ -35,7 +35,7 @@ The Fairhope City Council has supported Mr Burrell in his effort to maintain con
 
 Mr. Burrell has a horrible record as a councilman and Council President. During his tenure the sewer infrastructure was ignored. Please do not forget the sweetheart deal Jack worked out for his friends, the same friends he was accepting free jet transportation from, while he served on the Airport Board. The soccer fields were a disaster and millions were wasted. He supported the developers of the Fly Creek Apartments by accepting as a gift, the wetlands and drainage from the development. Mr Burrell ran for office and never made public his police record. Maybe that is why he wants control of the police!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/floTnfOgaBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t=2513s
+https://www.youtube.com/watch?v=floTnfOgaBk&t=2513s
 
 In an effort to silence any critics he used his position as an elected official to deny, yours truly, their Constitutional right to free speech. That case is now in a Federal Court. Guess what! the citizens of Fairhope are now paying for Jack’s Attorney fees, just as we did for his defense of the Airport.
 

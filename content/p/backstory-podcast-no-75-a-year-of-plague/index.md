@@ -40,4 +40,4 @@ The Ripp Report and Lagniappe were replete with quality stories from the Fairhop
 
 The public intoxication appeal from Fairhope Municipal Court will be heard by Judge Clarke Stankoski on Tuesday (2018 incident). The Assault Charges related to the injuries sustained by Paula DiNardi were dismissed because the original pleading/charging document was defective (or sabotaged or worse).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Di-bGbcEBM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Di-bGbcEBM4

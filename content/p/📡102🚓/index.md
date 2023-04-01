@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5RqyM9wHIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Y5RqyM9wHIg
 
 This week we focus our attention on the Unimaginable Decision from the Alabama Supreme Court that guts the Open Records Act related to body cam footage or any other investigative material in the possession of Law Enforcement...even after the investigation is concluded
 

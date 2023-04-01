@@ -25,7 +25,7 @@ It is no secret that the Fairhope City Council is CATALYST through and through. 
 
 After 3 and half years, The Fairhope Waterfront Project is finally on the drawing board. This $6.2 million project has had a wealth of planning and public participation. In the work session, prior to the council meeting, a detailed, 48 min presentation was given to the council.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kcNC-nybnJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=kcNC-nybnJk
 
 Timing is important with the permitting phase of this project and the council was asked to give some guidance or the OK to proceed. The mayor was passionate about the project, however it fell on deaf ears.
 

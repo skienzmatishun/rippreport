@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-MQLAyNxCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=m-MQLAyNxCY
 
 Sleepy Joe has a $1T infrastructure package to sell you as Afghanistan falls to the Taliban (The graveyard of Empires).
 

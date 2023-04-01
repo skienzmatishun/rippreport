@@ -16,13 +16,13 @@ authors:
 
 Congratulations to the Mayor, Department heads, employees and the production staff who produced the 2019 State of the City booklet. The State of the City was presented by the Mayor last night in the civic center. It was not just a speech but an expo. Tables lined the walls representing different departments, with department heads and employees present to answer questions. The atmosphere was positive, the employees moral was high and their sense of pride was obvious.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f1KNKtjwigw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&list=PLEIyHeNjDeQDj7q1XyltvUgzkswXHLS8H
+https://www.youtube.com/watch?v=f1KNKtjwigw&list=PLEIyHeNjDeQDj7q1XyltvUgzkswXHLS8H
 
 The booklet produced, State of the City 2019, is an excellent window for citizens to review the City’s operations, financial position and projections. It also lists departments and staff and provides a wealth of statistical data.
 
 The Ripp Report suggests that you drop by city hall and pick up a copy. Compare it to the 2018 State of the City report and you can see the progress Fairhope has made in the last year.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LYbxMnvg8to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=LYbxMnvg8to
 
 Since 2014 I have attended countless public meetings, last night’s meeting should make citizens of Fairhope very proud. It was the best public meeting I have had the pleasure of attending and the booklet is the most comprehensive report Fairhope has ever produced.
 

@@ -68,4 +68,4 @@ Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10
 
 ## BE HEARD
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VWq-Nax1IkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=VWq-Nax1IkA

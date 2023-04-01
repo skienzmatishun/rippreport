@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C26QSW7rBaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=C26QSW7rBaI
 
 From the ill fated Alabama Port Authority "wetlands habitat/spoilage disposal" to allegations of a boat accident coverup by the City of Fairhope Police Department for a prominent Judge, Gambling America's Amazon (Alabama Power Company's cap-in-place of million of tons of Coal Ash in the Delta), the amphibious boat landing assault caught on video related to a local football coach (not guilty btw), a bridge battle at the beach, a mullet bonanza, and an initiative to protect a 10,000 year old cypress forest 30 miles offshore in 50 feet of water...this podcast has it all.
 

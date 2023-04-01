@@ -25,7 +25,7 @@ Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com
 
 This is no way to run a municipal government. The city council should be encouraging public participation from all it’s citizens. It certainly reflects a lack of leadership when the public is discouraged from participation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDUoTFc1gOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>?t=3602
+https://youtu.be/kDUoTFc1gOs?t=3602
 
 Fairhope now has a new problem that also can be identified as a lack of leadership. The first city council meeting of the new year had two agenda items that were very important. First was the change of zoning for property on Greeno road.
 

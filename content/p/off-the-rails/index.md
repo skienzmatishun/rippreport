@@ -19,7 +19,7 @@ This council has slowed down infrastructure projects and misused city funds. The
 
 ## CRIMINAL ENTERPRISE
 
-![](https://cdn.rippreport.com/wp-content/uploads/2020/01/fairhope-alabama.jpg) WATCH UNTIL MINUTE 2:07–9:03 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ZMpLW8xzec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>?t=127
+![](https://cdn.rippreport.com/wp-content/uploads/2020/01/fairhope-alabama.jpg) WATCH UNTIL MINUTE 2:07–9:03 https://youtu.be/3ZMpLW8xzec?t=127
 
 Think about this, three councilmen Boone Brown and Burrell, without any community involvement or public participation paid 2.75 million for land for recreation. They have no money for development so their solution is to lease the 2.75 million in land for farming??????? This is the same three councilmen who have ignored the sewer infrastructure for years. If it were not for city staff and the mayor, who obtained BP funds, nothing would have been done. This is the first time in 20 plus years where sewer infrastructure is being seriously addressed, WITHOUT THE HELP OF THE COUNCIL.
 

@@ -9,4 +9,4 @@ authors:
 
 "Festivus is a state of mind!" -Frank Costanza. Beginning with the absurdity of priorities of the Alabama Legislature in the upcoming session to the flight of candidates that we will again be "stuck" having to cast a vote for ... this podcast has it all, we even worked in a Fight Club reference or two.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTLHTMuPuqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=PTLHTMuPuqo

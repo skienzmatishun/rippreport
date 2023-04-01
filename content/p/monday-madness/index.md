@@ -11,7 +11,7 @@ authors:
 
 Fairhope City Council has lost it’s moral compass. The Council recognizes wrong for right, they have created a new norm that defies logic. The Council along with the Police Chief, used their elected positions to attack the Mayor in a special meeting.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/floTnfOgaBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=floTnfOgaBk
 
 The Police Chief was on duty the night of the ambush “special” meeting. He nor Mr Burrell controlled the crowd, quite the opposite they instigated and encouraged the crowd to be unruly.
 

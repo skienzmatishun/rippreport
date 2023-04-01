@@ -19,7 +19,7 @@ The so called trial, that found the Mayor not guilty, was a sham. It took going 
 
 So in Spanish Fort we are not to believe what we see! The city attorney says, “no city funds will be involved”, he failed to mention that the city pays for the insurance. The insurance company will pay. Insult upon insult.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qxubdHvsdlo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=qxubdHvsdlo
 
 SUMMERDALE: Copping out on Cops
 

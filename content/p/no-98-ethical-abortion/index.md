@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EoKcyj-qdh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=EoKcyj-qdh8
 
 39.5 Million SARS-COV-2 infected in the USA with 643,00 deaths. The Delta variant has Gulf Coastal Hospitals are out of ICU beds and the Feds are in Foley helping out.
 

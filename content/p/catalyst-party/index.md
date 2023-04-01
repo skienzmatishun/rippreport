@@ -9,7 +9,7 @@ authors:
 
 The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting subjects. To save you a little time check in at 12:40 minute mark, beginning of #7.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VUCFE3AdxL4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t=728s
+https://www.youtube.com/watch?v=VUCFE3AdxL4&t=728s
 
 7\. Resolution – That due to the limitations on public gatherings and social distancing protocol pursuant to advisement of the Alabama Department of Public Health and Orders of the Governor: all public hearings of the City Council, Planning Commission, and Board of Adjustments and Appeals are postponed until further notice. Prior to resuming public hearings, an announcement will be made by the City Council at a future meeting.
 

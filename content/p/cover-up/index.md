@@ -1,15 +1,13 @@
 ---
 title: "COVER UP"
 date: 2023-03-21
-thumbnail: "img/bob-wills.png"
 categories: 
   - terrific-tuesday
 authors: 
   - admin
 ---
 
-
-The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
+![](https://rippreport.com/wp-content/uploads/bob-wills.jpg) The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
 
 ![](https://rippreport.com/wp-content/uploads/bay-minette.jpg)
 

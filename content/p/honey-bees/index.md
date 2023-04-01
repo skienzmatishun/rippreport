@@ -17,7 +17,7 @@ Watch the first hour and tell me who is representing the citizens? The Mayor mad
 
 They failed on the conservation easement, but be prepared for them to try again to give away city property.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O4Lv316ByaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t=4332s
+https://www.youtube.com/watch?v=O4Lv316ByaI&t=4332s
 
 Fast forward to September and the council, the 3 b’s, without any public participation or any plan to pay for 2.6 million in property, passed a resolution to purchase the property, despite a very questionable appraisal. It is the ultimate lie. The B’s say it was discussed and it was, between the council members and the Rec. board. The citizens were denied any public comment.
 

@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vkVGPQGUcXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=vkVGPQGUcXg
 
 The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are benefiting, with an insurance package, from a part time job, that other part time employees are exempt from.
 

@@ -12,7 +12,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/773DBogYwSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=773DBogYwSQ
 
 The Alabama House of Representatives has passed SB 46 establishing a statewide medical marijuana program. The bill now heads back to Senate for final approval.
 

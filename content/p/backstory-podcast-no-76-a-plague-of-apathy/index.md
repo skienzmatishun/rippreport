@@ -25,7 +25,7 @@ Fairhope Bar Owner Ronan McSharry, of McSharry Irish Pub fame, dare I say: our m
 
 If you aren't disgusted maybe you don't understand what happened here in Baldwin County, Alabama.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcGclWOqLSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=XcGclWOqLSs
 
 121,958,204 SARS-COV-2 cases confirmed worldwide with a total of 2,693,889 deaths; with 29,674,098 cases in the USA with 539,835 deaths; 510,579 cases in Alabama with 10,429 deaths; 1.7 M vaccine doses delivered, 1.2 M administered (updated information not available this week).
 

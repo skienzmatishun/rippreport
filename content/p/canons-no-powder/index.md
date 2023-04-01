@@ -25,7 +25,7 @@ What about the way the judge renders his decisions? The appearance of impropriet
 
 A judge interfering, using his position, in a police investigation involving his son, is certainly improper.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/orh4BGzsef4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t=240s
+https://www.youtube.com/watch?v=orh4BGzsef4&t=240s
 
 Ask yourself do you think that the fox news release did NOT know that Judge Norton’s son was driving the boat. It was never made public, what else do we NOT know?
 
@@ -79,4 +79,4 @@ Last but not least is Canon 7: Judge Snedeker and Judge Norton are supporters of
 
 BACKSTORY PODCAST:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C26QSW7rBaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t
+https://www.youtube.com/watch?v=C26QSW7rBaI&t

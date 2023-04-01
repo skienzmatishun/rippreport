@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xRQLqYt04wQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/xRQLqYt04wQ
 
 Bruce Willis, the Star of the greatest Christmas Movie of all times: DIE HARD has Aphasia. We have have a crime problem in Alabama that begins and ends with the Ethics Laws and those who wrote them, but also those who enforce (and it's kind of a joke) as is the 3 percent of the Alabama General Fund Budget allocated to the Court System. That they then spend on secret no bid contacts. (The Patriot Act says the Court's computer system is critical infrastructure and does not have to be disclosed) And convenient for our former Lt. Governor turned mega-lobbyist Steve Windom, one third owner of said software firm; and his bride Presiding Judge of the Alabama Court of Criminal Appeals Mary Edna Windom (R-Mobile). Instead the Alabama Legislature spent it's time and resources passing laws related to transgender medications for children, don't say gay, "decisive issues prohibition" for teachers, and other issues important to get THE BASE to the polls May 24, 2022.
 

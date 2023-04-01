@@ -28,7 +28,7 @@ Please go to minutes 31 to 37 of the council meeting and listen to the mayor. Th
 
 Notice Jack Ass is very good with semantics and blustering. However, he is grasping at straws. First off, it has never been ruled legal; and secondly, an ethics opinion about this contract was never issued. A new contract would require a new ethics opinion, which was not requested.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnhhCwNleKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=xnhhCwNleKQ
 
 Why is Alabama number 50 in the US?
 

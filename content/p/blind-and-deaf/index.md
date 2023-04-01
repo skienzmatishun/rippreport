@@ -12,7 +12,7 @@ authors:
 
 You would think an editor of a newspaper would look at the video and be able to understand the subject at hand, Not Chuckee! Makes ya wonder what he knows about freedom of the press!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDUoTFc1gOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>?t=3602
+https://youtu.be/kDUoTFc1gOs?t=3602
 
 ## Blogger Paul Ripp files federal lawsuit against Fairhope Council President Jack Burrell
 
@@ -24,7 +24,7 @@ In late December, blogger Paul Ripp filed a lawsuit in federal court against Fai
 
 Source: [www.gulfcoastnewstoday.com/the-courier/stories/blogger-paul-ripp-files-federal-lawsuit-against-fairhope-council-president-jack-burrell,56849](http://www.gulfcoastnewstoday.com/the-courier/stories/blogger-paul-ripp-files-federal-lawsuit-against-fairhope-council-president-jack-burrell,56849)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kDUoTFc1gOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>?t=3602
+https://youtu.be/kDUoTFc1gOs?t=3602
 
 Is this the way to conduct a public meeting? Just last night a citizen in Louisiana was thrown out of a public meeting, handcuffed and arrested. Her crime challenging a School Board.
 

@@ -19,7 +19,7 @@ authors:
 
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on the Triangle property 109 acres.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jg-jJYKcAU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&t=1817s
+https://www.youtube.com/watch?v=8Jg-jJYKcAU&t=1817s
 
 Hats off to Councilman Conyers for speaking up for the citizens and encouraging Community Engagement aka Public participation. Mr Conyers is also the Councilman who has encourage the Council, unsuccessfully, to establish a pay grade for the position of Mayor, which has been in limbo since the election of Mayor Wilson. Mayor Wilson refused the duel salaries of Mayor and Utility Director, a position, and salary, the former Mayor enjoyed for over 10 years.
 

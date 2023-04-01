@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gj1hdAb3nIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Gj1hdAb3nIc
 
 "The Ivey Gambit", playing to the base related to an Executive Order against Biden's vaccine mandate- and all the grandstanders want a shot at this one.
 

@@ -40,11 +40,11 @@ Source: [rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/](https://r
 
 A petition rejecting the Fairhope Single Tax plan to be developers on the banks of the gully has over 925 signatures to date.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/64ur8nwpttQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&feature=youtu.be
+https://www.youtube.com/watch?v=64ur8nwpttQ&feature=youtu.be
 
 The proposed 12 homes will be fully responsible for the detention pond maintenance and most likely are going to have to ask for special permission to use grinder pumps to push sewage to the city’s main sewer line. This particular area of the Fruit and Nut section has had major problems with sewer backup into homes. The culprit is suspected to be the grinder pumps and the pressure that they produce to force the sewer uphill. Buyer beware, if you purchase one of these homes, you are guaranteed additional expenses in the future. Real Estate agents beware, you have a fiduciary responsibility to expose all these details to prospective buyers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/64ur8nwpttQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&feature=youtu.be
+https://www.youtube.com/watch?v=64ur8nwpttQ&feature=youtu.be
 
 Two of the council members Boone and Brown have direct ties to the Single Tax, Boone has recused himself already Brown needs to follow suit as his business partner is a member of Single Tax and is pushing the project.
 
