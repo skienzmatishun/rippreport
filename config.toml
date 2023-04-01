@@ -2,7 +2,6 @@ baseURL = 'https://rippreport.com/'
 languageCode = 'en-us'
 title = 'Ripp Report'
 theme = 'mainroad'
-logo = "img/eagle.png"
 
 [Author] # Used in authorbox
   name = "Francis Ripp"
@@ -12,26 +11,31 @@ logo = "img/eagle.png"
 [Params]
   description = "Reporting on the political corruption in Fairhope, AL and Baldwin County." # Site description. Used in meta description
   copyright = "Rippreport"
-  twitter_cards = true # Enable Twitter Cards if true
-  readmore = true # Show "Read more" button in list if true
-  authorbox = false # Show authorbox at bottom of pages if true
-  toc = false # Enable Table of Contents
-  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
-  post_meta = ["date", "categories"] # Order of post meta information
-  mainSections = ["p"] # Specify section pages to show on home page and the "Recent articles" widget
-  customCSS = ["css/custom.css"] # Include custom CSS files
+  twitter_cards = true 
+  readmore = true 
+  authorbox = false 
+  toc = false 
+  pager = true 
+  post_meta = ["date", "categories"]
+  mainSections = ["p"]
+  customCSS = ["css/custom.css"]
+  mathjax = false
 
 [Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
+  home = "right"   # layout for home page
+  list = "right"   # layout for list pages
+  single = "right" # layout for single pages
   widgets = ["search", "recent", "taglist"]
 
 [Params.widgets]
-  recent_num = 10 # Set the number of articles in the "Recent articles" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  recent_num = 10 # Number of articles in the "Recent articles" widget
+  tags_counter = false
 
-[Params.logo]
-  image = "img/eagle.png" # Logo image. Path relative to "static"
-  customCSS = ["css/custom.css"] # Include custom CSS files
+[Params.style.vars]
+  highlightColor = "#176898" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
