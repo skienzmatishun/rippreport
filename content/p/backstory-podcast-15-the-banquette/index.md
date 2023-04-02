@@ -2,7 +2,7 @@
 title: "BACKSTORY PODCAST 15 - The Banquette"
 date: 2019-12-28
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

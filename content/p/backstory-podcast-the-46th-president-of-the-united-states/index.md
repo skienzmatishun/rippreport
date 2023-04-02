@@ -2,7 +2,7 @@
 title: "BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES"
 date: 2020-11-08
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - biden

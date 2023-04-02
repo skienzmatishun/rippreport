@@ -2,7 +2,7 @@
 title: "Special Legislative Alert: Alabama Medical Cannabis"
 date: 2021-05-07
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - chey-garrigan

@@ -2,7 +2,7 @@
 title: "BACKSTORY PODCAST 55"
 date: 2020-10-12
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - covid-19
   - elberta

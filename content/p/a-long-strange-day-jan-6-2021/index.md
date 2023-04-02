@@ -2,7 +2,7 @@
 title: "A long strange day Jan 6, 2021"
 date: 2021-01-08
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - insurrection

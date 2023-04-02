@@ -2,7 +2,7 @@
 title: "Delta hits Baldwin County"
 date: 2021-08-02
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

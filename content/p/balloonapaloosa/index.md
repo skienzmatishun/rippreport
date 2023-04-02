@@ -3,7 +3,7 @@ title: "Balloonapaloosa"
 date: 2023-02-14
 thumbnail: "img/Balloonapaloosa.jpg"
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

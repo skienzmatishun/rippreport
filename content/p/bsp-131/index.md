@@ -2,7 +2,7 @@
 title: "Welcome To The Party Pal"
 date: 2022-07-24
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

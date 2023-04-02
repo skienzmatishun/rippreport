@@ -2,7 +2,7 @@
 title: "Tali-whacked"
 date: 2021-08-21
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

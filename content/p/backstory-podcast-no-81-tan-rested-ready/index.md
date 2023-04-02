@@ -2,7 +2,7 @@
 title: "Tan Rested & Ready"
 date: 2021-05-03
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - art-fest
   - covid-19

@@ -2,7 +2,7 @@
 title: "Backstory Podcast No. 75 A Year of Plague"
 date: 2021-03-19
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - brandon-hughes

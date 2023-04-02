@@ -2,7 +2,7 @@
 title: "The McSharry Will Out"
 date: 2022-08-01
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

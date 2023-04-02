@@ -2,7 +2,7 @@
 title: "BACKSTORY PODCAST 58 - The Rushin Prognostication"
 date: 2020-10-31
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - covid-19

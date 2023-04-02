@@ -2,7 +2,7 @@
 title: "Afghan Evacuation"
 date: 2021-08-14
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

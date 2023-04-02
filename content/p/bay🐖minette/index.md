@@ -1,6 +1,7 @@
 ---
 title: "BAY MINETTE CHRISTMAS AND THE HOG FARM"
 date: 2022-12-10
+thumbnail: "img/bayminette.jpg"
 categories: 
   - freaky-friday
 authors: 

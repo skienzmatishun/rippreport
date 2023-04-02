@@ -2,7 +2,7 @@
 title: "Alabama's Ethical Decay and Delta"
 date: 2021-08-07
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

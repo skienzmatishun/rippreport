@@ -1,6 +1,7 @@
 ---
 title: "Marine Corp Birthday"
 date: 2022-11-11
+thumbnail: "img/marine-logo.jpg"
 categories: 
   - holiday
 authors: 

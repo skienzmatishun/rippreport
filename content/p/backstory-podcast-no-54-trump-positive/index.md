@@ -2,7 +2,7 @@
 title: "Backstory Podcast No 54 Trump Positive"
 date: 2020-10-03
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - catalyst
   - chris-elliott

@@ -2,7 +2,7 @@
 title: "BACKSTORY PODCAST 6"
 date: 2019-10-16
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

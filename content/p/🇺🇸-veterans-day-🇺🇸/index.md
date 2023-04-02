@@ -1,6 +1,7 @@
 ---
 title: "Veterans Day"
 date: 2022-11-11
+thumbnail: "img/veteransday.jpg"
 categories: 
   - holiday
 authors: 

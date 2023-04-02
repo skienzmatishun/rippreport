@@ -2,7 +2,7 @@
 title: "January 22nd Qualifying Deadline"
 date: 2022-01-08
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

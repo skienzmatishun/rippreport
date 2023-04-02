@@ -1,6 +1,7 @@
 ---
 title: "SUNDAY SERMON"
 date: 2022-12-18
+thumbnail: "img/sermon.jpg"
 categories: 
   - sunday-sermon
 authors: 

@@ -2,7 +2,7 @@
 title: "Backstory Podcast No 64 - 300,000 Dead"
 date: 2020-12-21
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - covid-19

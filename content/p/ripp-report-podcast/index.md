@@ -2,7 +2,7 @@
 title: "RIPP REPORT PODCAST"
 date: 2019-09-02
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

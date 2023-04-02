@@ -2,7 +2,7 @@
 title: "Pussy Galore"
 date: 2021-12-07
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

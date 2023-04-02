@@ -3,7 +3,7 @@ title: "Bonum Est Faciet 2022"
 date: 2022-12-31
 thumbnail: "img/bsp139.jpg"
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---

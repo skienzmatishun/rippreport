@@ -2,7 +2,7 @@
 title: "BACKSTORY PODCAST - SENATE IMPEACHMENT"
 date: 2021-02-13
 categories: 
-  - podcast
+  - backstory-podcast
 tags: 
   - backstory-podcast
   - bay-minette

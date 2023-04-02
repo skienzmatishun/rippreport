@@ -2,7 +2,7 @@
 title: "Let's Talk About The Bama Loss"
 date: 2021-10-18
 categories: 
-  - podcast
+  - backstory-podcast
 authors: 
   - admin
 ---
