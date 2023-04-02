@@ -1,6 +1,7 @@
 ---
 title: "🎉 2022 🎉"
 date: 2022-01-01
+thumbnail: "img/2023-rip.jpg"
 categories: 
   - Special-Report
 authors: 

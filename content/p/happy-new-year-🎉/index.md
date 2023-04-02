@@ -1,6 +1,7 @@
 ---
 title: "HAPPY NEW YEAR 🎉"
 date: 2023-01-01
+thumbnail: "img/2023-rip.jpg"
 categories: 
   - holiday
 authors: 

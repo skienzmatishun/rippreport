@@ -1,6 +1,7 @@
 ---
 title: "EYES ON YOU 👀"
 date: 2022-12-30
+thumbnail: "img/eyes.png"
 categories: 
   - freaky-friday
 authors: 
