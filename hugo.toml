@@ -62,9 +62,9 @@ theme = 'mainroad'
       autoHeadingID = true
       autoHeadingIDType = 'github'
       wrapStandAloneImageWithinParagraph = true
-      [markup.goldmark.parser.attribute]
-        block = false
-        title = true
+    [markup.goldmark.parser.attribute]
+      block = false
+      title = true
     [markup.goldmark.renderer]
       hardWraps = false
       unsafe = true
