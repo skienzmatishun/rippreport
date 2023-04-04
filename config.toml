@@ -6,7 +6,7 @@ theme = 'mainroad'
 [Author] # Used in authorbox
   name = "Francis Ripp"
   bio = ""
-  avatar = "img/eagle.png"
+  avatar = "img/eagle.svg"
 
 [Params]
   description = "Reporting on the political corruption in Fairhope, AL and Baldwin County." # Site description. Used in meta description
