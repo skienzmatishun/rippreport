@@ -20,6 +20,8 @@ theme = 'mainroad'
   mainSections = ["p"]
   customCSS = ["css/custom.css"]
   mathjax = false
+  IntenseDebateAcct = "dd57812c68e47355019f6ae4d2143236"
+  comments = true
 
 [Params.sidebar]
   home = "right"   # layout for home page

@@ -1,0 +1,43 @@
+package main
+
+import (
+	"errors"
+	"io/ioutil"
+	"os"
+)
+
+// Define the partial function
+func comments() (string, error) {
+	dir, err := os.Getwd()
+	if err != nil {
+		return "", err
+	}
+
+	files, err := ioutil.ReadDir(dir)
+	if err != nil {
+		return "", err
+	}
+
+	count := 0
+	for _, file := range files {
+		if !file.IsDir() {
+			count++
+		}
+	}
+
+	if count == 1 {
+		return `<section class="comments">
+    <div id="IDCommentsWrapper">
+        <script>
+        var idcomments_acct = 'dd57812c68e47355019f6ae4d2143236';
+        var idcomments_post_id;
+        var idcomments_post_url;
+        </script>
+        <span id="IDCommentsPostTitle" style="display:none"></span>
+        <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+    </div>
+</section>`, nil
+	} else {
+		return "", errors.New("There are no files in the current directory or more than one file.")
+	}
+}
