@@ -6,9 +6,6 @@
     max-width: none;
     height: 75px;
     width: 292px;
-    background-image: url("../img/eagle.png");
-    background-size:contain;
-    background-repeat:no-repeat;
 }
 
 h2.list__title {
