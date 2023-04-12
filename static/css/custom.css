@@ -11,3 +11,8 @@
 h2.list__title {
     font-size:3em;
 }
+
+.list__thumbnail img {
+    max-width:none;
+    margin-bottom:2em;
+}
