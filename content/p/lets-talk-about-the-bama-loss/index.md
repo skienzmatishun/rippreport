@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=21cQc9nHddY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/21cQc9nHddY" frameborder="0" allowfullscreen></iframe>
 
 44,700,000 SARS-COV-2 cases in the USA with 721,000 deaths.
 

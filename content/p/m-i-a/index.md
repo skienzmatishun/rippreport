@@ -41,7 +41,7 @@ That being said, a new hurricane, Delta, may be headed in our direction. Delta n
 
 Fairhope is going into the dark ages, by that I mean you will not get the council, city attorney or future Mayor to address any complaints brought before the council. Two meetings ago the council refused to comment on the loss of the Breland lawsuit that holds the city responsible for law fees.
 
-https://www.youtube.com/watch?v=BsTKe9vWnn0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BsTKe9vWnn0" frameborder="0" allowfullscreen></iframe>
 
 MIN:34:15 to MIN: 38:15
 

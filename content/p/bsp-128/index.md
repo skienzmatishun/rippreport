@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=UfpIMUet0Zs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UfpIMUet0Zs" frameborder="0" allowfullscreen></iframe>
 
 Novelis is Building a New, Low-Carbon, $2.5 Billion Aluminum Plant Recycling & Rolling facility in Bay Minette, Alabama, is the first of its kind and first fully integrated, U.S. mill built in 40 year and they are building it on the Baldwin County Megasite!
 

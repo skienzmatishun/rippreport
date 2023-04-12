@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=k7zFLkkpXHQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k7zFLkkpXHQ" frameborder="0" allowfullscreen></iframe>
 
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.
 

@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=uxIJ9Kwc0ok
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uxIJ9Kwc0ok" frameborder="0" allowfullscreen></iframe>
 
 Mobile Bay Magazine this week profiles the most endangered species in South Alabama. The Biden Administration has created the Department of Homeland Security’s Disinformation Governance Board (as dystopian and vague as possible) to the delight of the Trump crowd. This week, the typically liberal comedian Bill Maher skewered the Government for blowing our hard earned money that was supposed to go for Covid-19 relief.
 

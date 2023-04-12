@@ -9,4 +9,4 @@ authors:
 
 Veterans Day is November 11th.
 
-https://www.youtube.com/watch?v=9avZjJbYkus
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9avZjJbYkus" frameborder="0" allowfullscreen></iframe>

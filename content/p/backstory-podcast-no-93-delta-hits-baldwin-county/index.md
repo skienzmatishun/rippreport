@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=z-WdA2isvw8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-WdA2isvw8" frameborder="0" allowfullscreen></iframe>
 
 34,700,000 SARS-COV-2 cases in the USA with 612,125 deaths. The Delta variant of Covid-19 has hit Baldwin County hard as you will hear from a local business owner who was not vaccinated pleading with others on social media from her hospital bed before being life flighted to UAB.
 

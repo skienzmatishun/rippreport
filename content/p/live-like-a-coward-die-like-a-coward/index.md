@@ -121,7 +121,7 @@ Nanette represented everything McAfee hated about women. Independent, gutsy, sma
 
 He finally met his match.
 
-https://www.youtube.com/watch?v=TjBgNwAVLWQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TjBgNwAVLWQ" frameborder="0" allowfullscreen></iframe>
 
 Be sure to watch it.
 

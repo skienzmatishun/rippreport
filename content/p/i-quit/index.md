@@ -29,7 +29,7 @@ https://rippreport.com/the-fairhope-jester/
 
 Mr Brown announced Monday night that he was resigning from office, however what he actually did was quit. When a person resigns from office or a job they give a notice, 2 weeks or a month. Mr Brown quit, no notice, no notice of time, no real explanation. He quit, announced it was his last meeting, color me and my bible gone!
 
-https://www.youtube.com/watch?v=a8lreb\_1Pnk Minute 23;30/32;00 and 147:55/150:00
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8lreb" frameborder="0" allowfullscreen></iframe> Minute 23;30/32;00 and 147:55/150:00
 
 Council President Jack Burrell announced the “resignation” is effective immediately and admits that he knew about the possibility of Mr Brown leaving the council for a couple of months or several months. Then in closing he says that he knows that this announcement, “is a shock to everyone”. The council did appear to be a bit shocked, but who knows? Quitting after only serving 5 months, B.S.
 

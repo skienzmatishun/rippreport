@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=3Me-IZCU-o0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Me-IZCU-o0" frameborder="0" allowfullscreen></iframe>
 
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.
 

@@ -9,4 +9,4 @@ authors:
 
 Remembering 9/11.
 
-https://www.youtube.com/watch?v=RNXLP3WH7KQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RNXLP3WH7KQ" frameborder="0" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Co
 
 The first 1 hour and 15 minutes has the Mayor’s comments and public participation.
 
-https://www.youtube.com/watch?v=O4Lv316ByaI&t=8s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4Lv316ByaI" frameborder="0" allowfullscreen></iframe>
 
 Three major issues were on the agenda: Strike one
 

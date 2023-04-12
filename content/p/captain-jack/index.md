@@ -9,7 +9,7 @@ authors:
 
 Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”.
 
-https://www.youtube.com/watch?v=g4glwEIDhm0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g4glwEIDhm0" frameborder="0" allowfullscreen></iframe>
 
 The notice covers many issues and the final draft, particularly the issue of leases, bidding procedures and fuel farms, are all issues being revisited from the “failed” process in late 2016. This was the subject of a series of Ripp Report articles covering the infamous lease in question at the time. The first article was posted Nov. 2016.
 

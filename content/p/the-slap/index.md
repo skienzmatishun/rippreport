@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=vLknO7zKjxk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLknO7zKjxk" frameborder="0" allowfullscreen></iframe>
 
 From the Oscars in LA to the Streets of Mobile, Alabama to beaches of Panama City and Miami, violence is on the rise. All the while Alabama Republicans all seem to be running against Joe Biden. The US House of Representatives passed the MORE ACT (removing marijuana from the Federal Schedule of Controlled Substances, but —spoiler alert- we wont get it without some social justice woven in) but it is expected to be submarined in the Senate.
 

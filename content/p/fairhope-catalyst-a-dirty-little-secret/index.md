@@ -29,7 +29,7 @@ Source: [lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-o
 
 The most obvious reason for Fairhope to change the form of Government and to go to districts is the present council members. Watch the meeting and see if you think the “At Large” system is working! Districts will take out as many as 3 or 4 of the present Catalyst Council members, which is, in itself, reason enough to go to districts.
 
-https://www.youtube.com/watch?v=6ALL43krbuw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ALL43krbuw" frameborder="0" allowfullscreen></iframe>
 
 This Catalyst City Council did nothing to inform the general public as to the details of the proposed change of Government. Why? Because they thought they had control of the issue and they, The Catalyst Council, would make the decision of districts or at large. They wrote a letter and waited in silence while Fairhope First pushed ahead with their related petition, which created more questions than answers.
 

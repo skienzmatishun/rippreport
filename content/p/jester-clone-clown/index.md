@@ -92,6 +92,6 @@ Politics first.
 
 Let’s not forget how Pittman helped sheriff Hoss Mack get reelected by establishing legislative conditions for running for sheriff in Baldwin County, only Baldwin County.
 
-https://www.youtube.com/watch?v=PEa9p2emWbo&feature=youtu.be
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEa9p2emWbo" frameborder="0" allowfullscreen></iframe>
 
 Our devoted Senator has used his position to enrich himself any way possible. He has maintained municipal contracts within his district, particularly Fairhope, where he is known as the established “low bidder”. State Senator Tripp Pittman is a disgrace to his office and his running for US Senate is a shinning example of what is wrong with Alabama Politics.

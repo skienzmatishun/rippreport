@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=HgDzN6pDwgc Baldwin County is the only county in Alabama where sewer regulations do not exist. It is also the fastest growing county in Alabama. Baldwin County also has regular sewer spills throughout the county, most spills end up in the Bay.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgDzN6pDwgc" frameborder="0" allowfullscreen></iframe> Baldwin County is the only county in Alabama where sewer regulations do not exist. It is also the fastest growing county in Alabama. Baldwin County also has regular sewer spills throughout the county, most spills end up in the Bay.
 
 How to fix it! Overdevelop, maintain low impact fees, promote density, and sprawl. Developers, “down home boys” and a Catalyst Council want you to understand that nothing can be done to curb the greed. The defense of developers is property rights and the argument that no one can tell anyone what they can do with their property. Forget the property rights of the citizens of the community.
 

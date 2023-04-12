@@ -24,7 +24,7 @@ Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/
 
 Listen and think. The Airport has cost us millions while we invest little in our schools.
 
-https://www.youtube.com/watch?v=w6uT08gfiWc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6uT08gfiWc" frameborder="0" allowfullscreen></iframe>
 
 It’s alright for “come fly with me” Jack to hire an attorney, read the letter, but not alright for the Mayor. Karma and Fate are going to catch Jack and then he will really need an attorney
 

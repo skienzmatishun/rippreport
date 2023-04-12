@@ -18,7 +18,7 @@ authors:
 
 Instead of a lot of links and dialog, this Freaky Friday is going to feature a portion of lasts nights Fairhope City Council Meeting:
 
-https://www.youtube.com/watch?v=I-uDFcLyJXQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-uDFcLyJXQ" frameborder="0" allowfullscreen></iframe>
 
 The City Attorney is appointed by the City Council as is the Municipal Judge. Replace the Council and you can reappoint a new City Attorney and Municipal Judge, that are not CATALYST.
 

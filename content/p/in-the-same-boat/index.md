@@ -41,7 +41,7 @@ Normal procedure is for Public Participation to be at the beginning of the counc
 
 Does Casi Callaway contact the Mayor, NO she contacts the Council President Burrell. They both keep the agenda appearance secret from the Mayor. Then Mr Burrell allowed Casi to speak in the first Public Participation under an agenda item she never addresses. Casi speaks well over the three minute rule and Burrell remains silent.
 
-http://www.youtube.com/watch?v=dAXz\_lGrzjs&t=8m0s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dAXz" frameborder="0" allowfullscreen></iframe>
 
 Jack and Casi know the time allocated and agenda procedure was politically motivated to blind side the Mayor. The Mayor has produced a Timeline, dating back to 2016, that outlines the Mayor and staff’s due diligence.
 

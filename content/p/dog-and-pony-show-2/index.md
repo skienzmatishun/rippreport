@@ -100,4 +100,4 @@ Source: [rippreport.com/2019/05/03/dirty-hands/](https://rippreport.com/dirty-ha
 
 Watch for yourself how the council follows Jack:
 
-https://www.youtube.com/watch?v=Qe8z\_vL0EX4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qe8z" frameborder="0" allowfullscreen></iframe>

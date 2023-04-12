@@ -29,4 +29,4 @@ Weeks Bay Foundation sheds skin to become “SALT”... watch out Fairhope Trian
 
 Go check out Operation BBQ Relief and their good works, they are activated and working in Lake Charles in the wake of Hurricane Laura.
 
-https://www.youtube.com/watch?v=d6FYUlEFneo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6FYUlEFneo" frameborder="0" allowfullscreen></iframe>

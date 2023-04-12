@@ -36,7 +36,7 @@ Rumors will soon be fact and it is up to the citizens to ferret out the CATALYST
 
 People read this blog and sometime cannot believe the corruption outlined. Baldwin County has a history of rigging elections and corruption throughout the judiciary. Don’t believe me, then just go get the popcorn and watch this:
 
-https://www.youtube.com/watch?v=e-iEBe7W26I
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-iEBe7W26I" frameborder="0" allowfullscreen></iframe>
 
 In 10 years the only thing that has changed in Alabama is the calendar. Think about it nothing has changed, the same corrupt goat hill, and Baldwin County has maintained a level of corruption that is costing taxpayer millions.
 

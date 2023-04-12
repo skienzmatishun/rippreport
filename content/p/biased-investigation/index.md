@@ -23,7 +23,7 @@ Unlike Kenneth Sikes’ shooting, there’s been backlash stemming from French b
 
 Lagniappe reporter Scott Johnson called law enforcement officials, Bay Minette City Council members and even Mayor Bob Wills seeking the officer’s identity. In most cases, those he contacted either hung up on him or pretended there was something that prohibited them from answering.
 
-https://www.youtube.com/watch?v=7tfBjn\_E63I
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tfBjn" frameborder="0" allowfullscreen></iframe>
 
 The County Commission should intervene and insist that the Major Crimes Division not be charged with investigating fellow officers.
 

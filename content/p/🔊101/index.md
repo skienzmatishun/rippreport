@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=0wkLSGQVdrs&t=155s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wkLSGQVdrs" frameborder="0" allowfullscreen></iframe>
 
 42.6 Million SARS-COV-2 infected in the USA with 684,617 deaths. The Delta variant has Gulf Coastal Hospitals out of ICU beds. Biden purchases 500 Million Shots for Other Countries.
 

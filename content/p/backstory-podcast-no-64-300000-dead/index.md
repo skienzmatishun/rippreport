@@ -19,4 +19,4 @@ Huge hack this week that Trump has said mum about, more than likely Russia. Some
 
 Columbia, Alabama corruption, illegal wine at the Sewer Plant, and much more.
 
-https://www.youtube.com/watch?v=xFzjUeSPN-0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xFzjUeSPN-0" frameborder="0" allowfullscreen></iframe>

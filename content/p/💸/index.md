@@ -25,7 +25,7 @@ Baldwin County is now in a very dangerous situation. The Alabama Supreme Court h
 
 “Ponder the scope of today’s decision: The statute will now hide from the public eye ‘any materials related to a particular investigation;’ all ‘items of substantive evidence that existed before the investigation began, such as video recordings or documentary evidence relevant to the crime.’” Chief Justice Tom Parker.
 
-https://www.youtube.com/watch?v=DGq1Gy2VRw0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DGq1Gy2VRw0" frameborder="0" allowfullscreen></iframe>
 
 “The Alabama Supreme Court rejected a request from the Lagniappe in Mobile, which wanted Baldwin County Sheriff Huey Hoss Mack to release all the details, about a 2017 traffic stop and fatal shooting, to the public.”
 

@@ -10,4 +10,4 @@ authors:
 
 Have a happy 2022!
 
-https://www.youtube.com/watch?v=H6dMKkGT1iI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H6dMKkGT1iI" frameborder="0" allowfullscreen></iframe>

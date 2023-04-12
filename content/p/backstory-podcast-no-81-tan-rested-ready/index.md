@@ -17,7 +17,7 @@ authors:
   - admin
 ---
 
-https://www.youtube.com/watch?v=aRsdPzQ0kpc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRsdPzQ0kpc" frameborder="0" allowfullscreen></iframe>
 
 Texas had a milestone this week with 50,000 deaths contributed to the SARS-COV-2 Pandemic.
 
