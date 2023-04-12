@@ -1,17 +1,14 @@
 .header {
     background-color: black;
 }
-
 #eagle {
     max-width: none;
     height: 75px;
     width: 292px;
 }
-
 h2.list__title {
     font-size:3em;
 }
-
 .list__thumbnail img {
     max-width:none;
     margin-bottom:2em;
