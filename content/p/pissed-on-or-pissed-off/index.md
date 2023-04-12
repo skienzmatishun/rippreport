@@ -19,7 +19,7 @@ A curfew, 10pm to 5am, adopted across the state, including Mobile.
 
 Fairhope being run as a Criminal Enterprise? WATCH UNTIL MINUTE 2:07–9:
 
-Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/2019/12/27/criminal-enterprise/)
+Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/criminal-enterprise/)
 
 This council has cost Fairhope millions of dollars and made mistake after mistake with Burrell being at the helm.
 
@@ -33,7 +33,7 @@ The council raises the flag of civil liberties while the same council wound up i
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 The same council who paid council President Burrell’s attorney fees every time they needed to extract his foot from his mouth. The same Burrell who used taxpayer money to derail allegations of his involvement in bid-rigging while he served on the Airport Board.
 
@@ -41,11 +41,11 @@ Burrell used the Airport Authority and your tax dollars to hire lawyers to inves
 
 ## YOU DON’T KNOW JACK
 
-[![Jack Burrell Fairhope Alabama](https://cdn.rippreport.com/wp-content/uploads/2020/04/jack-burrell.jpg)](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+[![Jack Burrell Fairhope Alabama](https://cdn.rippreport.com/wp-content/uploads/2020/04/jack-burrell.jpg)](https://rippreport.com/you-dont-know-jack/)
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 The same council president that has a police record with two sealed juvenile charges that he never exposed prior to the last election.
 
@@ -55,7 +55,7 @@ The same council president that has a police record with two sealed juvenile cha
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 Councilman Brown has enjoyed lucrative contracts he acquired by using his elected position for personal gain.
 
@@ -69,7 +69,7 @@ Brown has a pending complaint on the desk of Alabama Attorney General. To review
 
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic. Fairhope has a CATALYST City Council and true to form…
 
-Source: [rippreport.com/2020/04/08/the-fairhope-jester/](https://rippreport.com/2020/04/08/the-fairhope-jester/)
+Source: [rippreport.com/2020/04/08/the-fairhope-jester/](https://rippreport.com/the-fairhope-jester/)
 
 Council Boone has more LLC's than a red head has freckles.
 
@@ -79,7 +79,7 @@ Council Boone has more LLC's than a red head has freckles.
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/01/doc.png)
 
-Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/)
+Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
 Please remember Scott Boone is Kevin Boone’s son who runs CATALYST. This family connection has fueled CATALYST attempt to political control Fairhope and Baldwin County.
 
@@ -91,7 +91,7 @@ Please remember Scott Boone is Kevin Boone’s son who runs CATALYST. This famil
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
 
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/2017/01/25/conflict-of-interest/)
+Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
 The three B's spent 2.65 million for recreation land that "only they" wanted then leased it for 9 thousand a year for farmland. The city's first analysis of budget cuts, due to coronavirus, is $2.65 million, let that sink in.
 
@@ -103,7 +103,7 @@ The three B's spent 2.65 million for recreation land that "only they" wanted the
 
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19. The staff, police, fire and other cuts came up to 2.6 million.
 
-Source: [rippreport.com/2020/03/26/lost-opportunity/](https://rippreport.com/2020/03/26/lost-opportunity/)
+Source: [rippreport.com/2020/03/26/lost-opportunity/](https://rippreport.com/lost-opportunity/)
 
 The council has politicized coronavirus, to distract you. Some take the bait, hook, line and sinker. All this under your nose and the curfew has you pissed off, not the corruption.
 

@@ -27,19 +27,19 @@ Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one o
 
 That leaves the infamous three B’s, Burrell, Boone and Brown trying to convince everyone that they are better than slice bread. Each one of them has used his office for personal gain. They are CATALYST make no mistake they have cost taxpayers millions. Why any woman would vote for anyone of these three sexist hypocrites is beyond me.
 
-https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/
+https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
 
 Jack Burrell, the absolute worst elected official in Baldwin County will face Deb Hopkins. Jack facing a woman, how sweet it is. Jack the bully of women is now going to feel their wrath. Jack was also the major supporter of Sen. Pittman getting city debris removal contracts.
 
-https://rippreport.com/2018/05/23/police-report/
+https://rippreport.com/police-report/
 
 Kevin Boone, grandfather CATALYST has so many LLC’s that link him to developers, and good ole boys that it is obvious, his interest, is his personal gain. His opponent is Joshua Gammon a young man with Fairhope at heart, not LLC’s. Trade the old for the new.
 
-https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/
+https://rippreport.com/investigative-reporting-business-entity-records/
 
 Robert Brown, who fleeces his hometown, will face off against Howell Gibbens. Brown has a pending Attorney General Complaint and Ethics complaint lodged against him for using his office for personal gain. He is an avid supporter of developers, not citizens. A true blue CATALYST supporter.
 
-https://rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/
+https://rippreport.com/fairhope-jester-and-fly-creek/
 
 These three councilmen have run rouge on the council for four years and have cost the city millions. Make no mistake if you want to escape the CATALYST good ole boys, the three B’s need to go.
 

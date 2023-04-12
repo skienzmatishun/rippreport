@@ -63,7 +63,7 @@ Guess who owns the wetlands?
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 Good ole Jack Burrell and Kevin Boone gladly accepted the gift and made sure no one in Fairhope knew exactly what the gift was and from whom, when caught they played dumb, an honest excuse.
 

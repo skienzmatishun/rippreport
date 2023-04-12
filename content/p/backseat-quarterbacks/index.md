@@ -21,7 +21,7 @@ People seize on the opportunity to be critical of some things and are more than 
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 One thing no one can take from Mayor Wilson is the excellent hires she has made, they far exceed the previous administrations staff. She has also NOT used her office for personal gain.
 

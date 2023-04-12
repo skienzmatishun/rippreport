@@ -58,4 +58,4 @@ FAIRNESS will not exist while Burrell, aka Beavis and Boone aka Butthead are ste
 
 BEAVIS AND BUTTHEAD invade Fairhope Everyone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The mainstream news...
 
-Source: [rippreport.com/2017/03/31/beavis-and-butthead/](https://rippreport.com/2017/03/31/beavis-and-butthead/)
+Source: [rippreport.com/2017/03/31/beavis-and-butthead/](https://rippreport.com/beavis-and-butthead/)

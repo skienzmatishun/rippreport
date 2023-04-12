@@ -21,7 +21,7 @@ Please read this article written almost a year ago:
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 The apartments will soon be completed and another 48 units have been approved on Parker Road. The neighborhood of 16 houses and roughly 50 people will grow to 500 to 700 more people and 400 plus cars exiting Parker Road and Publix. These cars will represent several trips daily, impacting the intersection by an equivalent of over a 1000 cars, a day, once construction is complete.
 

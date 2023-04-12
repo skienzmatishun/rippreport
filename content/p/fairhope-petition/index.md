@@ -37,7 +37,7 @@ to transfer control and management of city property, 106 acres, valued at 20 mil
 
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is.
 
-Source: [rippreport.com/2019/05/31/three-strikes/](https://rippreport.com/2019/05/31/three-strikes/)
+Source: [rippreport.com/2019/05/31/three-strikes/](https://rippreport.com/three-strikes/)
 
 The Council almost succeeded in the transfer had it not been for several citizens and a couple of lawyers paying attention. This council is the worst Fairhope has seen in 25 years. It is no coincidence that they all have CATALYST and Can’t connections.
 
@@ -49,7 +49,7 @@ The Council almost succeeded in the transfer had it not been for several citizen
 
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members.
 
-Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/2019/06/12/disposal/)
+Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/disposal/)
 
 The Council is using the narrative that the land was purchased for a park. This is categorically untrue, it was part of a legal settlement where the city LOST and had to buy the property.
 
@@ -61,7 +61,7 @@ The Council is using the narrative that the land was purchased for a park. This 
 
 The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. True they also have no lease or title to the land.
 
-Source: [rippreport.com/2019/06/14/deliberate-distortion-or-twisting-of-meaning/](https://rippreport.com/2019/06/14/deliberate-distortion-or-twisting-of-meaning/)
+Source: [rippreport.com/2019/06/14/deliberate-distortion-or-twisting-of-meaning/](https://rippreport.com/deliberate-distortion-or-twisting-of-meaning/)
 
 The Council and Weeks Bay are now trying to claim that the best use of this city land is to insure that the city has little or no control over it for ETERNITY. Stand up Fairhope you are being robbed without a gun.
 
@@ -73,7 +73,7 @@ The Council and Weeks Bay are now trying to claim that the best use of this city
 
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council. The director of Weeks Bay…
 
-Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/2019/06/21/fairhope-un-armed-robbery/)
+Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
 The petition had 325 names at the last council meeting it is at 527 now, HELP us convenience the City Council and Weeks Bay that the citizens of the community want city property managed by the City of Fairhope.
 

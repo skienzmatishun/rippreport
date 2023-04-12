@@ -41,7 +41,7 @@ SAVE OUR NEIGHBORHOOD STOP REGENCY PLACE APARTMENTS, is the basis for a petition
 
 ### Gulf Shores council denies citizens' appeal on apartment complex proposal
 
-![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/2018/10/29/Gulf_Shores_council_denies_citizens__app_1_60657208_ver1.0_1280_720.jpg)
+![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/Gulf_Shores_council_denies_citizens__app_1_60657208_ver1.0_1280_720.jpg)
 
 The Gulf Shores City Council has unanimously denied an appeal against a new 206-unit apartment complex in Gulf Shores.
 

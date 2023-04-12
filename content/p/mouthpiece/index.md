@@ -21,7 +21,7 @@ https://lagniappemobile.com/interested-firms-meet-with-aldot-begin-competing-for
 
 If Jack’s nose keeps growing the bridge will need another lane.
 
-https://rippreport.com/2022/07/29/liars-bridge/
+https://rippreport.com/liars-bridge/
 
 “Fairhope infrastructure is 10 years behind. Jack Burrell has been on the council 10 years and kicked the infrastructure can down the road. He was directly involved in slowing down or not even approving projects. A true politician, Jack now talks about infrastructure, what B.S.“
 
@@ -31,7 +31,7 @@ If his mouth is moving he is lying! NO TOLLS.
 
 Burrell is the last person you should, EVER, believe:
 
-https://rippreport.com/2016/11/25/you-dont-know-jack/
+https://rippreport.com/you-dont-know-jack/
 
 I hope you read the above and understand Burrell is a consummate liar. He is the political mouthpiece representing Baldwin County and his job is to support tolls and development, while pretending that the population of the county is all warm and fuzzy and are now supporting tolls.
 

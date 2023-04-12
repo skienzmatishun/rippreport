@@ -50,7 +50,7 @@ Exactly what SBC wants because engineering companies can be manipulated and awar
 
 SBC moved quickly to kill the waterfront project and radically changed the project to their satisfaction.
 
-https://rippreport.com/2021/01/24/redneck-renovations/
+https://rippreport.com/redneck-renovations/
 
 Whats next?
 
@@ -70,7 +70,7 @@ The developer has lied through his teeth since the project started and has had 5
 
 SBC, “A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members.” Fairhope citizens are the “non-members”.
 
-https://rippreport.com/2018/04/20/catalyst-does-fairhope/
+https://rippreport.com/catalyst-does-fairhope/
 
 Fairhope SBC has total control of your city, in months and years to come you are going to witness wholesale corruption on a scale beyond your imagination.
 

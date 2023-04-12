@@ -19,7 +19,7 @@ The Fairhope City Council is on a roundabout and doesn’t know where to exit. T
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 The Council is trying to say that they knew nothing until this last week, they can play dumb at the drop of a dime. Mayor Wilson however posted June 21st, support for Fresh Start Fairhope.
 
@@ -55,7 +55,7 @@ The Courier has gone from a reputable paper to a Catalyst political tabloid.
 
 Baldwin County politics has always been a good ole boys club and Catalyst hopes to swell those ranks with a slate of candidates that are like minded. Catalyst is a Fairhope based operation that has…
 
-Source: [rippreport.com/2018/04/25/catalyst-intimidation-a-pig-pen/](https://rippreport.com/2018/04/25/catalyst-intimidation-a-pig-pen/)
+Source: [rippreport.com/2018/04/25/catalyst-intimidation-a-pig-pen/](https://rippreport.com/catalyst-intimidation-a-pig-pen/)
 
 Pay attention to the track record of the 3 B’s and you will realize this is another reason to get rid of “at large” and the good ole boys who have been running the city in THEIR best interests.
 
@@ -67,7 +67,7 @@ Pay attention to the track record of the 3 B’s and you will realize this is an
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 The Catalyst Council wishes to silence anyone who questions their actions.
 

@@ -19,7 +19,7 @@ https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-bus
 
 What makes this case of particular interest is not only Bass’ claims that Burke, the president of Baldwin County Sewer Service and a well-known developer in Baldwin County, and Delaney, a prominent South Alabama lender, conspired to use a Ponzi scheme to defraud Bass, but also that those sealed records reveal many of the business and political connections between some of the major players in Baldwin County development over the past two decades, according to charts entered as exhibits in the case that provide a guide through the labyrinth of intermingled companies involved in the case.
 
-https://rippreport.com/2020/06/06/strawman-spiderweb/
+https://rippreport.com/strawman-spiderweb/
 
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 
@@ -29,7 +29,7 @@ https://lagniappemobile.com/lawsuit-contests-perpetual-appointment-to-baldwin-co
 
 In the motion, Burdick claimed state law limits the duration of special court appointments to 180 consecutive days and “the successive reappointment's of Thomason to hear circuit court cases for more than a decade is a blatant act of voter disenfranchisement.”
 
-https://rippreport.com/2021/08/21/%f0%9f%94%97/
+https://rippreport.com/%f0%9f%94%97/
 
 The good, honest and ethical members of our legal community, and politicians, are absent and silent. They are to scared to challenge the corruption of the good ole boys, aka The Machine, adopting a “just go along attitude”.
 
@@ -37,7 +37,7 @@ Judge Thomason is the worst of the worst when it comes to corrupt Judges in Bald
 
 ABSOLUTELY NO ETHICS
 
-https://rippreport.com/2021/07/28/license-to-steal/
+https://rippreport.com/license-to-steal/
 
 “As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition”
 
@@ -47,7 +47,7 @@ https://lagniappemobile.com/mabel-amos-memorial-fund-more-scholarship-money-for-
 
 This is exactly what the Executive Director of Alabama Ethics Commission, Tom Albritton is guilty of: “Self-Dealing”.
 
-https://rippreport.com/2021/07/24/striking-oil/
+https://rippreport.com/striking-oil/
 
 Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to tell the citizens of the county or the relatives of Mabel Amos.
 
@@ -57,7 +57,7 @@ BALDWIN COUNTY SHERIFFS OFFICE HIDING THE TRUTH
 
 It was Sheriff “Boss” Mack who said body cameras were for the public and the police. Mack said he needed close to700 thousand dollars for body cameras and car cameras., that these cameras would increase transparency and accountability. Now he says no to public being able to see any footage he wishes to keep secret. What’s he hiding? We will soon find out in Federal Court.
 
-https://rippreport.com/2021/09/27/%f0%9f%92%b8/
+https://rippreport.com/%f0%9f%92%b8/
 
 “Ponder the scope of today’s decision: The statute will now hide from the public eye ‘any materials related to a particular investigation;’ all ‘items of substantive evidence that existed before the investigation began, such as video recordings or documentary evidence relevant to the crime.’” Chief Justice Tom Parker.
 
@@ -69,7 +69,7 @@ U of A SACRED COW
 
 U of A has the same philosophy as Baldwin County, just be quite, say nothing and nothing will change.
 
-[https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement](https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement)
+[https://www.insidehighered.com/news/alabama-system-has-employees-sign-confidentiality-agreement](https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement)
 
 “Without limitation, ‘confidential information’ includes information or data concerning: operations; trade secrets; audit matters; compliance matters; ongoing, threatened or potential litigation; intercollegiate athletics; internal or external communications; financial plans, budgets, reports or operations; employee matters; contracts, grants and other agreements; negotiations; intellectual property (patents, trademarks, copyrights, etc.); research; academic matters; notes, plans and any other information that is generally not available to the public or to people outside”
 

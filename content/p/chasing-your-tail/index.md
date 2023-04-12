@@ -17,7 +17,7 @@ Fairhope is being held back by a City Council that is chasing its tail. The Cata
 
 I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done. Fairhope voters reject council-manager form of government -…
 
-Please Read: [rippreport.com/2018/11/16/ignorance-is-bliss/](https://rippreport.com/2018/11/16/ignorance-is-bliss/)
+Please Read: [rippreport.com/2018/11/16/ignorance-is-bliss/](https://rippreport.com/ignorance-is-bliss/)
 
 Strange the city attorney for Fairhope takes his orders from the council and keeps the Mayor in the dark. The same attorney who has been paid, with your tax dollars, to represent the council president on legal issues.
 
@@ -29,7 +29,7 @@ Strange the city attorney for Fairhope takes his orders from the council and kee
 
 AND SOME SHOULD NEVER BEEN SCHEDULED The proposed change of government for Fairhope started out with good intentions and then went completely off the rails. SKUNKED What started out to be a “Fresh…
 
-Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/2018/11/07/you-win-some-you-lose-some/)
+Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/you-win-some-you-lose-some/)
 
 The at large council insists that they represent the people of Fairhope as a whole, all 5 of them. They did not deliver a budget for the city on time and have drug the process out for no apparent reason. No reason that is except that, “ they had not had time to get together” or better yet “ I don’t understand it enough to approve it” Wow.
 
@@ -55,7 +55,7 @@ The same council president handled the Dyas lawsuit, that resulted in a loss, 11
 
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20…
 
-Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/2018/12/05/russian-roulette-fairhope-style/)
+Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/russian-roulette-fairhope-style/)
 
 How about the K-1 center ?
 

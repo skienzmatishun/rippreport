@@ -13,6 +13,6 @@ authors:
 
 PLEASE support Mr CARL his opponent is CATALYST. A vote for CATALYST is a vote against your best interest. Baldwin County needs to pull together and vote out all CATALYST “Players”
 
-https://rippreport.com/2020/06/10/a-decade-of-corruption/
+https://rippreport.com/a-decade-of-corruption/
 
 VOTE JULY 14th FIRST CONGRESSIONAL DISTRICT JERRY CARL

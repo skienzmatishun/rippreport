@@ -36,7 +36,7 @@ Remember Fly Creek? the Mayor was behind the citizens, the council favored the d
 
 FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION Save Big Head Gulley in Fairhope, AL Fairhope watershed known as Tatumville Gulley or Big Head Gulley is being threatened by land…
 
-Source: [rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/](https://rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/)
+Source: [rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/](https://rippreport.com/big-head-gully-and-the-fruit-nuts/)
 
 A petition rejecting the Fairhope Single Tax plan to be developers on the banks of the gully has over 925 signatures to date.
 

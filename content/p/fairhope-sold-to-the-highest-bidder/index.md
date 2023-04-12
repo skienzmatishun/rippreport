@@ -21,7 +21,7 @@ The council has had no public participation related to the recreation land purch
 
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 
-Source: [rippreport.com/2019/10/09/honey-bees](https://rippreport.com/2019/10/09/honey-bees)
+Source: [rippreport.com/2019/10/09/honey-bees](https://rippreport.com/honey-bees)
 
 Mr Martin is not alone, the council has ignored any advise from the Mayor or staff.
 
@@ -57,7 +57,7 @@ Fairhope is being sold out to developers and those with the good ole boy connect
 
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
 
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10/02/quid-quo-pro/)
+Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
 On top of all the budget issues, Fairhope now has come to the crossroad of density. 566 apartments are coming, 300 to ? new homes, and commercial locations that will be key to draining downtown business.
 
@@ -71,7 +71,7 @@ Fairhope has been sold out.
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 Fairhope needs candidates, not related to Catalyst, for the 2020 municipal elections. The municipal judge and the city attorney need to be replaced. To do that you got to get rid of the absolute most corrupt city council ever to be elected to office in Fairhope.
 

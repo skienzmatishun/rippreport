@@ -19,7 +19,7 @@ The citizens of Baldwin County are finally beginning to understand the dangers o
 
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County…
 
-Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
+Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
 Congratulations to Mayor Karin Wilson for winning the Politicos Nappie Award for the hardest working elected official on the Eastern Shore. This is significant because the Mayor is operating in the shadows of Catalyst headquarters and the three bees. The City Council is working on being awarded the onion award for the WORST City Council in Fairhope’s history, so far it looks like they will win, hands down.
 
@@ -31,7 +31,7 @@ Congratulations to Mayor Karin Wilson for winning the Politicos Nappie Award for
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Catalyst is reeling after getting stung by the People’s Choice. They lost their queen bee Thomasson and their most worthless bee, Dorsey. Catalyst also had the true colors of their number one lying bee, Elliott, exposed to the public. His less than stellar performance garnered him only a 700 vote margin against the better man, David Northcutt.
 
@@ -43,7 +43,7 @@ Catalyst is reeling after getting stung by the People’s Choice. They lost thei
 
 ASK CHRIS! Public records from the Probate office, record, Mr. Elliott, and his wife, purchased property, from Christopher G Stradtman Jan 3, 2018, in Elberta on Key Hole Rd. This “waterfront…
 
-Source: [rippreport.com/2018/07/16/ask-chris-elliott-catalyst-red-flags/](https://rippreport.com/2018/07/16/ask-chris-elliott-catalyst-red-flags/)
+Source: [rippreport.com/2018/07/16/ask-chris-elliott-catalyst-red-flags/](https://rippreport.com/ask-chris-elliott-catalyst-red-flags/)
 
 Elliott now has to run for the third time for State Senate Seat 32, against a Democrat. It ain’t going to be easy, he has burnt to many bridges,or promised to build them, and has a closet full of baggage. Their is a rumor that he may even have some very serious issues, can you say indictment, coming his way, not counting his real estate deals.
 
@@ -65,7 +65,7 @@ Don’t forget about that Million dollar swimming pool, The Mayor and planning a
 
 Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what…
 
-Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/2018/07/06/million-dollar-swimming-pool/)
+Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/million-dollar-swimming-pool/)
 
 GULF SHORES
 

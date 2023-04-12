@@ -38,11 +38,11 @@ Our website is](https://www.facebook.com/BaldwinCountyLegalEagle) [https://rippr
 
 A week after election and some things are the same. In Fairhope, the infamous McSharry, is being represented by no less than BP, Boom Boom Pittman’s brother, James. The apple does not fall far from the tree. Mr Pittman is blaming Lagniappe, the Mayor and attorneys for his client's actions.
 
-https://rippreport.com/2020/08/22/women-stand-together/
+https://rippreport.com/women-stand-together/
 
 James Pittman is now including the business in which the assault took place, Little Whiskey Christmas Club, to his list of legal intimidation by requesting two years of video footage.
 
-https://rippreport.com/2020/04/18/judicial-trick/
+https://rippreport.com/judicial-trick/
 
 WTH Why doesn’t he look at the video of the assault?
 

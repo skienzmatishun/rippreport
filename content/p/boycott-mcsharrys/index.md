@@ -19,13 +19,13 @@ The last edition of the Ripp Report we exposed, again, how the Fairhope City Cou
 
 This is nothing new. In fact it is quite common. Only this time it was publicly documented. Four of the council sat on the last council. They were the least productive, obstructive and corrupt of any council that has ever represented Fairhope.
 
-https://rippreport.com/2018/10/19/loser/
+https://rippreport.com/loser/
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys. We can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.
 
 What they did with the council appointment was unethical and a deliberate effort on the council’s part to eliminate public participation. A federal lawsuit is evidence, and a precedent, to the council’s history of suppressing free speech and making a mockery of Public Participation.
 
-https://rippreport.com/2021/03/12/csb-railroad-nomination/
+https://rippreport.com/csb-railroad-nomination/
 
 “Without any public participation the Fairhope City Council President, Jack Burrell, decided who would be the next councilperson and publicly declared that, “I made the decision.”
 
@@ -73,27 +73,27 @@ It is a perfect example of judicial corruption and the stranglehold Catalyst/Sco
 
 It is about political power, control limiting or eliminating any public participation and how to maintain the status quo.
 
-https://rippreport.com/2021/01/11/quarterback-sneak/
+https://rippreport.com/quarterback-sneak/
 
 Judges in Alabama are subject to 7 Canons of Judicial Ethics. Number 2. “A judge should avoid impropriety and the appearance of impropriety in ALL his activities.”
 
 How clear is that? “appearance of impropriety”.
 
-https://rippreport.com/2020/04/18/judicial-trick/
+https://rippreport.com/judicial-trick/
 
 Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes.
 
 Some Judges and lawyers feel insulated from any accountability, they are shielded by an inept system that abuses it’s citizens. Ethics laws are designed to PROTECT the very elected and appointed officials that use their positions, to their advantage/
 
-https://rippreport.com/2020/08/22/women-stand-together/
+https://rippreport.com/women-stand-together/
 
 To be victimized by the City Of Fairhope is like being hit twice. The city council didn’t stand up & say "this is wrong", or "I’m sorry this has happened to you"…but the mayor did. Then she was crucified for having a compassionate heart & calling them out for their unlawful & unethical behavior.
 
-https://rippreport.com/2019/10/25/watering-hole/
+https://rippreport.com/watering-hole/
 
 McSharry’s was the watering hole for Judges, Attorneys and of course McSharry’s best friend, Council President Jack Burrell, who was honored with a sandwich on the menu named after him. Jack also has a police report that he never disclosed prior to the last election.
 
-https://rippreport.com/2019/05/01/one-woman-2/
+https://rippreport.com/one-woman-2/
 
 Ronan McSharry was found guilty In Fairhope Municipal Court, this last week, of public intoxication and assault, sentenced to 180 days in jail, with time served during his re-hab stay.
 

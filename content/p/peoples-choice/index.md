@@ -31,7 +31,7 @@ Elliott said his money is coming from Realtor’s, Contractors and Road Builders
 
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
 
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
 Orange Beach and Gulf Shores voters, for Jeff “Judas” Boyd, were sold out. Boyd campaigned hard against Elliott only to lose the primary and become Kennon’s yard boy. He back stabbed Big Earl, he should get jail time for that, and many residents of both communities. Judas is now knocking on doors for Elliott and leaving sticky notes asking for votes for Elliott. He has become a member of Catalyst.
 
@@ -43,7 +43,7 @@ Orange Beach and Gulf Shores voters, for Jeff “Judas” Boyd, were sold out. B
 
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey, Fully support maximum development without regards to infrastructure. They mask the…
 
-Source: [rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/](https://rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/)
+Source: [rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/](https://rippreport.com/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/)
 
 Baldwin County can do better than a bought and paid for Catalyst Candidate.
 
@@ -55,7 +55,7 @@ Baldwin County can do better than a bought and paid for Catalyst Candidate.
 
 The plot thickens as runoffs approach – Lagniappe Mobile The plot thickens as runoffs approach – Lagniappe Mobile BaCo senate One race where the mudslinging is firmly out in the open is in Baldwin…
 
-Source: [rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/](https://rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/)
+Source: [rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/](https://rippreport.com/catalyst-candidate-elliott-panic-mode/)
 
 ## PLEASE VOTE JULY 17th RUN-OFF YOUR VOTE WILL HAVE A POWERFUL EFFECT IN REMOVING CATALYST CANDIDATES FROM BALDWIN COUNTY
 

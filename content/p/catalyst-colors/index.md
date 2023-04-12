@@ -29,7 +29,7 @@ They closed on the property last Friday, Nov. 1st, less than a week before the s
 
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements.
 
-Source: [rippreport.com/2019/07/10/gold-mine-for-sale/](https://rippreport.com/2019/07/10/gold-mine-for-sale/)
+Source: [rippreport.com/2019/07/10/gold-mine-for-sale/](https://rippreport.com/gold-mine-for-sale/)
 
 The same council not 2 months ago tried to convert the triangle into a conservation easement, taking the land out of the control of the city. That failed but you can be sure they will try it again, when everyone is asleep.
 
@@ -53,7 +53,7 @@ Is anyone covering you with full family insurance?
 
 Backstory Podcast @BackstoryPodcast Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of: Backstory Podcast @
 
-Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/2019/09/25/documents/)
+Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/documents/)
 
 Let's not forget the Attorney General complaint against Councilman Brown involving the Eastern Shore Art Center, using his office for personal gain.
 
@@ -65,7 +65,7 @@ Let's not forget the Attorney General complaint against Councilman Brown involvi
 
 The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for personal gain by securing the Fairhope Art Center…
 
-Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/2019/07/12/the-jester/)
+Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
 Robert Brown For Our Hometown is a perfect example of what CATALYST stands for. Wake up Fairhope the present council needs to be voted out of office in 2020.
 
@@ -79,7 +79,7 @@ We need candidates to oust the CATALYST tumor.
 
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 
-Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/2019/10/09/honey-bees/)
+Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/honey-bees/)
 
 So let’s get this straight 3 of the 5 Fairhope Council have used their office for personal gain. The Jester Robert Brown, Captain Jack Burrell and LLC Kevin Boone.
 
@@ -91,7 +91,7 @@ So let’s get this straight 3 of the 5 Fairhope Council have used their office 
 
 Well if you read the wonderful Wednesday this week, Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night…
 
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/2017/01/13/boone-doggle/)
+Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
 
 ALL five of the city council appointed the Municipal Judge and City Attorney for the City of Fairhope. The Mayor when elected, encouraged the council to consider replacements for both positions.
 
@@ -117,7 +117,7 @@ Only in Alabama.
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 This is exactly why Alabama and Baldwin County are so corrupt. You are going to be told by Council and the good Judge “**That nothing is wrong with the council approving a development for the Judge they appointed.**"
 
@@ -131,4 +131,4 @@ I hope the Junior Council of Fairhope is paying attention to their “leaders”
 
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process…
 
-Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/fairhope-sold-to-the-highest-bidder/)

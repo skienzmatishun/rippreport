@@ -60,7 +60,7 @@ In the McSharry case the Municipal Attorney failed in his duties. He not only fa
 
 15 months ago we reported on an incident that should have been resolved in 6 months.
 
-Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/2020/01/24/bar-stool-continued/)
+Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/bar-stool-continued/)
 
 McSharry’s was the watering hole for CATALYST, Attorneys, Judges and especially Councilman Burrell, who had a sandwich, on stale bread, named after him.
 
@@ -74,7 +74,7 @@ They ran like rats from McSharry’s after publicity exposed the CATALYST drinki
 
 How does a bar owner, continuously break the law and walk? If you are Ronan McSharry it appears not to be a problem.
 
-Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/2019/10/25/watering-hole/)
+Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/watering-hole/)
 
 Baldwin County Judicial System is broken, the good ole boys have dug themselves into a hole. Citizens have no confidence in the system.
 
@@ -88,7 +88,7 @@ The McSharry case is a perfect example of CATALYST JUSTICE.
 
 Is it just a coincidence that Fairhope City Council canceled public participation at the same time that justice slipped through the cracks? The last Fairhope’s City Council meeting was only 30 minutes…
 
-Source: [rippreport.com/2020/04/25/where-is-justice/](https://rippreport.com/2020/04/25/where-is-justice/)
+Source: [rippreport.com/2020/04/25/where-is-justice/](https://rippreport.com/where-is-justice/)
 
 CATALYST is the common denominator when it comes to political corruption. They are planning to expand their stranglehold on Baldwin County, Fairhope and US Congress.
 
@@ -102,7 +102,7 @@ If they succeed, kiss what ever quality of life you may have goodbye.
 
 Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mostly secret, political group that represent the Status Quo, the good ole boys. Good ole boys exist in many places however…
 
-Source: [rippreport.com/2020/05/15/catalyst-players/](https://rippreport.com/2020/05/15/catalyst-players/)
+Source: [rippreport.com/2020/05/15/catalyst-players/](https://rippreport.com/catalyst-players/)
 
 The Fairhope City Council should fire the city attorney, Marcus McDowell, but wait ! they appointed him to cover their ass.
 
@@ -118,7 +118,7 @@ Can you say CATALYST?
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 Paula DiNardi is a victim of physical assault and the city attorney, has exhibited total incompetence in his handling of the case. Now he is suggesting that the intoxication charge and the assault charge carry the “identical punishments”.
 

@@ -18,7 +18,7 @@ Fairhope is seeing the results of a Council and Mayor more dedicated to special 
 
 It is an absolute shame the Fairhope Waterfront Project became such a divisive tool, used by elected officials, to distort the project and lie to the public. The vast majority of Fairhope citizens have no idea what the original plan was and the opportunity they have lost.
 
-https://rippreport.com/2021/01/24/redneck-renovations/
+https://rippreport.com/redneck-renovations/
 
 Fairhope’s, $6.2 million waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions.
 
@@ -46,7 +46,7 @@ Mayor Wilson held 10 fold the public participation, regarding the Waterfront Pro
 
 Howling Raines could have seen this coming, if he had been reading the Ripp Report. Howling is a part time resident and he got fleas hanging with the dogs, it up to him to get treated!
 
-https://rippreport.com/2020/11/21/howling-rains-passing-gas/
+https://rippreport.com/howling-rains-passing-gas/
 
 Howling attacks the plan, the grant, the engineering firm, that the council approved, the landscape architect, public works, community development and city employees.
 

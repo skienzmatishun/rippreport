@@ -13,7 +13,7 @@ On Monday the 25th of November, Judge Johnny Hardwick, Circuit Judge, Montgomery
 
 In the simplest way possible without a lot of legal jargon, I want you to know this is a test. A test of our states ethics and our states elected officers to do their job. Any citizen should be able to file a complaint against an elected official, Lawyer or Judge, and have an expect ion of justice. Not in Alabama.
 
-https://rippreport.com/2021/07/28/license-to-steal/
+https://rippreport.com/license-to-steal/
 
 Alabama citizens have many options to file complaints, The Governor, The Ethics Commission, Attorney General, Bar Association, Judiciary and District Attorney. What do you do if no agency does it’s job? File a Writ of Mandamus, is an option.
 
@@ -23,7 +23,7 @@ https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from
 
 You would think that the media would be on this story like a dog in heat! However so far the Ethics Commission and the Bar Association see no problem with Mr Albritton receiving more than 120,000 dollars for his children’s education, from a trust where he is a trustee. The absurdity of their justifications of Mr. Albritton, further exposes the depth of corruption.
 
-https://rippreport.com/2021/08/06/where-is-the-media/
+https://rippreport.com/where-is-the-media/
 
 Lagniappe, Rob Holbert, broke the story surrounding the Mabel Amos Memorial Trust. The rest of the media sat on it’s hands. Mr Holbert followed up with another article which exposed the fact that Mr Albritton had also rewarded his law partners and a sitting judge with thousands of dollars from the trust.
 
@@ -43,12 +43,12 @@ We know how the trustees and Regions Bank are benefiting from the Mabel Amos Mem
 
 A parallel problem exists in the Baldwin County Family Court, especially Judge Michelle Thomasson.
 
-https://rippreport.com/2018/05/29/catalyst-judges/
+https://rippreport.com/catalyst-judges/
 
 She has had more complaints filed against her than their are stars in the sky. Judges, Lawyers and law clerks are all aware of her dysfunctional and corrupt court. Citizens are advised that if they are headed to a divorce in Baldwin County, be sure to hire the lowest bottom feeding attorneys possible. They have a track record of always winning in Judge Thomassons court, where kids are considered last and money first.
 
 The point is that all the stars in heaven cannot convince the proper, Alabama, authority's to step in. So the only alternative is Federal Court.
 
-https://rippreport.com/2021/08/21/%f0%9f%94%97/
+https://rippreport.com/%f0%9f%94%97/
 
 THIS IS A TEST

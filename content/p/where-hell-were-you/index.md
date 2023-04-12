@@ -56,7 +56,7 @@ It might shock you to know that this decision by 3 councilmen was based on race.
 
 Why do you not write about that?
 
-https://rippreport.com/2019/10/09/honey-bees/
+https://rippreport.com/honey-bees/
 
 These are the men you support?
 
@@ -80,11 +80,11 @@ Where were you during the Federal Lawsuit against the council for denying citize
 
 They lost that lawsuit and now the same lawsuit is used a precedent in similar cases around the U.S.
 
-https://rippreport.com/2018/10/19/loser/
+https://rippreport.com/loser/
 
 Your comments display a true ignorance of Fairhope politics. Sir Baldwin County is a cesspool of political corruption and Fairhope is home to CATALYST.
 
-https://rippreport.com/2020/06/10/a-decade-of-corruption/
+https://rippreport.com/a-decade-of-corruption/
 
 Mr. Rains where the hell have you been, New York?
 
@@ -102,6 +102,6 @@ Where were you when it was discovered that the council voted themselves full fam
 
 Let me leave you with a little known fact. Mayor Wilson refused to take two paychecks, like the former Mayor, from the city. One as Mayor and one as utility director, she felt that was wrong. That is what you call a public servant, she sacrificed over 250,000 dollars in salary over 4 years, while the council took out full family insurance, that no one else employed in the city has.
 
-https://rippreport.com/2019/08/07/fairhope-sewer-backstory/
+https://rippreport.com/fairhope-sewer-backstory/
 
 Fairhope welcomes your comments in a public forum but you got to show up, WHERE THE HELL WERE YOU?

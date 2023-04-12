@@ -25,6 +25,6 @@ A basic political ethic is that no elected official can use his elected office f
 
 This is it for ethics in Alabama. The Mike Hubbard appeal that sits before the Alabama Supreme Court is the line in the sand. Either we’re going to have laws that forbid pay-for-play politics in this state, or we’re going to once and for all toss in the towel and just let the political elite \[…\]
 
-Source: [www.alreporter.com/2019/06/05/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/](https://www.alreporter.com/2019/06/05/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/)
+Source: [www.alreporter.com/2019/06/05/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/](https://www.alreporter.com/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/)
 
 If Mike Hubbard does not go to Jail, Alabama will maintain the U.S. Title as the Most Political Corrupt State and Education will share the title.

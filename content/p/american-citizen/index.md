@@ -26,7 +26,7 @@ A good example of Baldwin County incompetence, political interference, lack of e
 
 Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes. Some Judges and lawyers feel…
 
-Source: [rippreport.com/2020/04/18/judicial-trick/](https://rippreport.com/2020/04/18/judicial-trick/)
+Source: [rippreport.com/2020/04/18/judicial-trick/](https://rippreport.com/judicial-trick/)
 
 The McSharry case is a classic example of Baldwin County justice. Fairhope City prosecutor, Marcus McDowell dropped the ball, or kicked it out of site, when it came to Ronan McSharry. Municipal Judge Snedeker, shares in this miscarriage of justice.
 
@@ -64,7 +64,7 @@ The incident with McSharry started a spiraling sequence of events that has left 
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Next came 17 months of constant stress with having to deal with a corrupt judicial system, that favored the criminal, not the Victim. Dinardi is now trying to save her home.
 

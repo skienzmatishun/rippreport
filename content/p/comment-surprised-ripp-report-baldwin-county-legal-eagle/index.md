@@ -19,7 +19,7 @@ The last two Ripp Report posts,
 
 FAIRNESS IS THE DEFINITION OF ANYBODY THAT WE GIVE ANY OF OUR TRUST TO!!!!!!! Let me simply explain to all of you that have actually shown an interest in and am proud to say that...
 
-Source: [rippreport.com/2017/04/30/comment-are-you-surprised-at-all/](https://rippreport.com/2017/04/30/comment-are-you-surprised-at-all/)
+Source: [rippreport.com/2017/04/30/comment-are-you-surprised-at-all/](https://rippreport.com/comment-are-you-surprised-at-all/)
 
 a comment submitted under
 
@@ -27,7 +27,7 @@ a comment submitted under
 
 The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for “Fairness”. First, the council implements a hiring freeze to punish the mayor for firing two employees. Then they side with the developer...
 
-Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/2017/04/28/help-fairness-killing-us/)
+Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/help-fairness-killing-us/)
 
 seem have to hit a nerve among our readership.
 
@@ -59,6 +59,6 @@ Who’s Responsible?
 
 FAIRNESS IS THE DEFINITION OF ANYBODY THAT WE GIVE ANY OF OUR TRUST TO!!!!!!! Let me simply explain to all of you that have actually shown an interest in and am proud to say that...
 
-Source: [rippreport.com/2017/04/30/comment-are-you-surprised-at-all/](https://rippreport.com/2017/04/30/comment-are-you-surprised-at-all/)
+Source: [rippreport.com/2017/04/30/comment-are-you-surprised-at-all/](https://rippreport.com/comment-are-you-surprised-at-all/)
 
 Who’s responsible? Think it is a rant? Or do ya think the individual is beyond disgusted because no one is responsible? Nothing will change if no one is responsible and no one asks questions. Read it again, it is not a rant it is disgust, with those who are not responsible.

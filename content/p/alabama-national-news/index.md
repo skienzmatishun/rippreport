@@ -17,11 +17,11 @@ First are the conditions of the Alabama Prison System.
 
 ### Alabama prison horrors show need for federal interventions to safeguard inmates
 
-![](https://www.gannett-cdn.com/presto/2019/04/11/USAT/87575d37-2f66-4f1b-b1e1-b45e5132388d-AP_Alabama_Prisons.JPG?crop=5183,2915,x0,y0&width=3200&height=1680&fit=bounds)
+![](https://www.gannett-cdn.com/presto/USAT/87575d37-2f66-4f1b-b1e1-b45e5132388d-AP_Alabama_Prisons.JPG?crop=5183,2915,x0,y0&width=3200&height=1680&fit=bounds)
 
 When local officials fail to protect constitutional rights, the federal government must. Barr needs to return to consent decrees Sessions avoided.
 
-Source: [www.usatoday.com/story/opinion/policing/spotlight/2019/04/11/alabama-prison-horrors-need-federal-solution/3439193002/](https://www.usatoday.com/story/opinion/policing/spotlight/2019/04/11/alabama-prison-horrors-need-federal-solution/3439193002/)
+Source: [www.usatoday.com/story/opinion/policing/spotlight/2019/04/11/alabama-prison-horrors-need-federal-solution/3439193002/](https://www.usatoday.com/story/opinion/policing/spotlight/alabama-prison-horrors-need-federal-solution/3439193002/)
 
 Second is Alabama’s National ranking in Education with the sad but not surprising results: DEAD LAST.
 
@@ -51,7 +51,7 @@ The third Alabama headline is Abortion. Yes, Alabama is last in education and fi
 
 This is who we are. We are the state that just told rape victims they have to carry their rape babies to term. We are the state that just told pre-teen girls that they have to carry their incest babies to term. This is who we are. Stop telling me otherwise. Please. Subscribe to APR's \[…\]
 
-Source: [www.alreporter.com/2019/05/15/opinion-stop-telling-people-that-alabama-is-better-than-this-its-not/](https://www.alreporter.com/2019/05/15/opinion-stop-telling-people-that-alabama-is-better-than-this-its-not/)
+Source: [www.alreporter.com/2019/05/15/opinion-stop-telling-people-that-alabama-is-better-than-this-its-not/](https://www.alreporter.com/opinion-stop-telling-people-that-alabama-is-better-than-this-its-not/)
 
 Governor Kay Ivey will bear the burden of the decision to sign the bill or veto it. Most likely she will celebrate signing the bill into law.
 

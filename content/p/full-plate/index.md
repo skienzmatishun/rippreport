@@ -63,7 +63,7 @@ Another item on the plate is the recent lawsuit that accomplished what the counc
 
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
 
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/2018/09/05/victory/)
+Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
 
 What about that Party where over 40 kids were caught, identified and questioned, out of over 100? Where is the council statement? What action can we expect from the new Police Chief? We know plenty more than last week and are on pins and needles waiting to see how those INVOLVED spin the story, then we will fill in the blanks.
 
@@ -75,7 +75,7 @@ What about that Party where over 40 kids were caught, identified and questioned,
 
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B. FACT and…
 
-Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/2018/08/31/pop-up-target/)
+Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
 Last but certainly not the least is the pending lawsuit against the President of the Council and the Council. The evidence in the case is a video of the entire incident yet the council president refuses to apologize to the citizens of Fairhope. Instead he continues, with the assistance of the city attorney,
 
@@ -89,6 +89,6 @@ Ignoring the obvious, while attorney fees mount. Got to get those billable hours
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 Fairhope City Council has a full plate, but the drama that may be heading their way will set their hair on fire.

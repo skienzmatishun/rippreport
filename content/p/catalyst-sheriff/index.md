@@ -21,7 +21,7 @@ Hoss Mack is supporting several Catalyst candidates:
 
 Catalyst represents the good ole boys and they want total control over Baldwin County Government. That means control of the County Commission, Probate Judge, Circuit Judge, Sheriff, District Attorney…
 
-Source: [rippreport.com/2018/05/14/cooking-for-the-judge/](https://rippreport.com/2018/05/14/cooking-for-the-judge/)
+Source: [rippreport.com/2018/05/14/cooking-for-the-judge/](https://rippreport.com/cooking-for-the-judge/)
 
 ## CATALYST JUDGES
 
@@ -31,7 +31,7 @@ Source: [rippreport.com/2018/05/14/cooking-for-the-judge/](https://rippreport.co
 
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment.
 
-Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/2018/05/29/catalyst-judges/)
+Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
 
 Hoss is now climbing in bed with Elliott
 
@@ -43,7 +43,7 @@ Hoss is now climbing in bed with Elliott
 
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values. Chris Elliott…
 
-Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/2018/05/18/catalyst-alabama-values/)
+Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/catalyst-alabama-values/)
 
 Hoss wants to be with the top dogs of Catalyst.
 
@@ -55,7 +55,7 @@ Hoss wants to be with the top dogs of Catalyst.
 
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to…
 
-Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/2018/05/04/catalyst-top-dogs/)
+Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/catalyst-top-dogs/)
 
 Why would Hoss support Catalyst? That is an easy answer, because Chris Elliott will protect Hoss and keep the qualifications for Sheriff, in favor of Hoss. Boom Boom Pittman put them in place and Elliott will not change anything if he is elected.
 
@@ -69,7 +69,7 @@ The other candidates for State Senate Seat 32 have said they will introduce legi
 
 Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on tips to the Rippster in the hopes of finding out who’s in hot water. Something tells me that…
 
-Source: [rippreport.com/2018/05/21/state-senate-seat-district-32-bombs-away/](https://rippreport.com/2018/05/21/state-senate-seat-district-32-bombs-away/)
+Source: [rippreport.com/2018/05/21/state-senate-seat-district-32-bombs-away/](https://rippreport.com/state-senate-seat-district-32-bombs-away/)
 
 Please vote for the People's Choice
 
@@ -81,4 +81,4 @@ Please vote for the People's Choice
 
 Read yesterday’s Terrible Tuesday. CATALYST JUDGES CATALYST JUDGES | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In…
 
-Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/2018/05/30/catalyst-vs-the-people/)
+Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/catalyst-vs-the-people/)

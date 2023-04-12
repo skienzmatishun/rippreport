@@ -25,7 +25,7 @@ F.B.I. Mobile Alabama White Collar Crime Division Reference Fairhope Airport Aut
 
 Dear Sirs; Fairhope recently elected a new mayor defeating a 16 year incumbent. This was a blindside to the previous administration and almost immediately sins of the past started to appear.
 
-The Fairhope Airport Authority and the actions of some board members has come into question regarding past airplane hanger leases. Several articles have been written about the subject: https://rippreport.com/2016/11/25/you-dont-know-jack/ and https://rippreport.com/2016/12/02/fairhope-airport-un\_authorized/. These basically outline the allegations.
+The Fairhope Airport Authority and the actions of some board members has come into question regarding past airplane hanger leases. Several articles have been written about the subject: https://rippreport.com/you-dont-know-jack/ and https://rippreport.com/2016/12/02/fairhope-airport-un\_authorized/. These basically outline the allegations.
 
 As a result of these articles and additional information an Ethics Complaint was filed by the Mayor of Fairhope in early December, I am not aware of a response. The Ripp Report has no confidence in the Alabama Ethics Commission and appeals to your authority for an independent investigation in what we allege is criminal activity.
 

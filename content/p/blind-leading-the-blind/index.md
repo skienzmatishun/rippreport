@@ -19,7 +19,7 @@ authors:
 
 The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are benefiting, with an insurance package…
 
-Source: [rippreport.com/2019/09/13/down-home-fairhope-jester/](https://rippreport.com/2019/09/13/down-home-fairhope-jester/)
+Source: [rippreport.com/2019/09/13/down-home-fairhope-jester/](https://rippreport.com/down-home-fairhope-jester/)
 
 The Jester, Burrell and Boone do not know what Transparency, Accountability, Ethics or what constitutes a Conflict of interest. I promised that I would follow through on a complaint against Councilman Robert Brown this week.
 
@@ -41,4 +41,4 @@ What will the Attorney General do? I do not know, however you as citizens should
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)

@@ -11,7 +11,7 @@ authors:
 
 The Ripp Report and Baldwin County Legal Eagle had a record posting:
 
-[BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY](https://rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/)
+[BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
 A total of 48,200 people reached through 112 shares, 109 likes, 28 comments and 9 phone calls.
 

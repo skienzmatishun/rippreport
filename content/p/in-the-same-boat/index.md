@@ -21,7 +21,7 @@ Private citizens sued the City over some of these issues while Baykeeper’s pho
 
 The Ripp Report is a consumer, citizen, group. The intent of the Ripp Report is to inform the public of current political events as well as consumer complaints. The Ripp Report is a non profit and for…
 
-Source: [rippreport.com/2019/08/07/fairhope-sewer-backstory/](https://rippreport.com/2019/08/07/fairhope-sewer-backstory/)
+Source: [rippreport.com/2019/08/07/fairhope-sewer-backstory/](https://rippreport.com/fairhope-sewer-backstory/)
 
 Now the Director of Baykeeper Casi Callaway is in damage control for grabbing headlines and NOT using the phone. This is a typical Casi trick, it is strictly a political Baykeeper promotion She said she sent everyone a letter, I am hurt not to have received my copy, but not surprised, she did not answer the phone either.
 
@@ -67,7 +67,7 @@ Fairhope Council President Jack Burrell has been Council President for seven yea
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 Council President Burrell now has the dubious honor of being found guilty in Federal court for violating the Constitutional rights of an American Citizen and veteran. That case is now being used as a precedent case involving the same constitutional rights being violated by other Council Presidents in the United States.
 
@@ -81,7 +81,7 @@ Let’s not forget about the Police Report Councilman Burrell has yet to explain
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 So Casi and Jack appear to be in the same political boat and at the same council meeting Debbie Quinn and Sherry Sullivan, past political shipwreck survivors, were floating and yelling that they wanted in the same boat.
 

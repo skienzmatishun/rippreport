@@ -7,13 +7,13 @@ authors:
   - admin
 ---
 
-Baldwin County is spinning out of control. [Development in Fairhope and Daphne are under a building moratorium](https://rippreport.com/2021/12/20/%F0%9F%8E%89/). Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
+Baldwin County is spinning out of control. [Development in Fairhope and Daphne are under a building moratorium](https://rippreport.com/%F0%9F%8E%89/). Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
 
 That is poor planning and a failure of the politicians.
 
 [Schools in the lower south half of Baldwin are stretched to the max](https://utv44.com/news/local/baldwin-schools-fight-to-keep-up-with-population-boom). Portables are being added and any new construction to schools will be at full occupancy the first day at school. School campus’s are a hodgepodge of portable classrooms and sport utility buildings. Some municipalities are forming their own school districts, which only adds another level of tax and duplicity.
 
-[Baldwin County is the only county in Alabama that has an unregulated sewer system](https://rippreport.com/2019/09/11/baldwin-county-sewer-regulation-a-litmus-test/). Spanish Fort is entirely dependent on Baldwin County Sewer Service. Consumers with Baldwin County Sewer should read [the history of the company](https://lagniappemobile.com/series/bcss/). The FBI should step in because the County Commission has had a no see, no hear, no talk approach to a problem that smells worse than the sewage.
+[Baldwin County is the only county in Alabama that has an unregulated sewer system](https://rippreport.com/baldwin-county-sewer-regulation-a-litmus-test/). Spanish Fort is entirely dependent on Baldwin County Sewer Service. Consumers with Baldwin County Sewer should read [the history of the company](https://lagniappemobile.com/series/bcss/). The FBI should step in because the County Commission has had a no see, no hear, no talk approach to a problem that smells worse than the sewage.
 
 ### [Baldwin County Sewer Service - Lagniappe Series](https://lagniappemobile.com/series/bcss/)
 
@@ -27,7 +27,7 @@ D.R. Horton has built over 4000 homes in Baldwin and Mobile County. They are now
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D131706812565899%26id%3D103525868717327&amp;show_text=true&amp;width=500" width="500" height="816" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-It is estimated that Baldwin County needs approximately 6000 workers, most being in the service industry. If that is true, and the rumor that the [Baldwin County “blackhole” Megasite](https://rippreport.com/2021/07/30/mega-lost-opportunity/), may have an electric car manufacturer interested in the site. Expect the development in north Baldwin to rival that of south Baldwin.
+It is estimated that Baldwin County needs approximately 6000 workers, most being in the service industry. If that is true, and the rumor that the [Baldwin County “blackhole” Megasite](https://rippreport.com/mega-lost-opportunity/), may have an electric car manufacturer interested in the site. Expect the development in north Baldwin to rival that of south Baldwin.
 
 The mega site, like the 65 million dollar jail, are dream projects of very few people, advocating for those who have a connection and benefit to the projects.
 
@@ -39,7 +39,7 @@ Today citizens are defining property rights differently. Zoning can protect your
 
 It is not Hell No! It is now Hell Yes to zoning.
 
-The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://lagniappemobile.com/rsa-sues-baldwin-county-over-point-clear-planning-district/), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/2019/08/30/rsa-%E2%81%A0-no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
+The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://lagniappemobile.com/rsa-sues-baldwin-county-over-point-clear-planning-district/), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/rsa-%E2%81%A0-no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159680909127317&amp;show_text=true&amp;width=500" width="500" height="615" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 

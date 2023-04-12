@@ -18,7 +18,7 @@ Baldwin County Commissioners have their Mega “dump” Site.
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
 
-Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/2018/01/17/dead-last/)
+Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
 Fairhope’s Mega-Site is the Triangle property and just like the County’s Mega-Site, politicians have saddled the tax payers with the debt while satisfying a few good ole boys and select developers.
 

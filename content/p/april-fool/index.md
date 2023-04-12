@@ -75,6 +75,6 @@ In Alabama the virus and politics are a lot alike. Either you educate yourself o
 
 To prevent the virus do not vote for any CATALYST candidates March 3, TOMORROW
 
-Source: [rippreport.com/2020/03/02/catalyst-virus/](https://rippreport.com/2020/03/02/catalyst-virus/)
+Source: [rippreport.com/2020/03/02/catalyst-virus/](https://rippreport.com/catalyst-virus/)
 
 Catch us on [Backstory Podcast](https://www.facebook.com/BackstoryPodcast/), [The Ripp Report](https://rippreport.com/), [Baldwin County Legal Eagle](https://www.facebook.com/BaldwinCountyLegalEagle/) or the Ripp Report [Facebook page](https://www.facebook.com/TheRippReport/).

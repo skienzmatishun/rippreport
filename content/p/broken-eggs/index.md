@@ -27,7 +27,7 @@ Hello! Is it not the responsibility of the City Council to review the budget and
 
 Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is calling the shots. One thing that is perfectly clear…
 
-Source: [rippreport.com/2017/09/15/opposition-obstruction/](https://rippreport.com/2017/09/15/opposition-obstruction/ )
+Source: [rippreport.com/2017/09/15/opposition-obstruction/](https://rippreport.com/opposition-obstruction/ )
 
 Why is this committee not made up of volunteers? Because the council cannot control volunteers. A familiar name has popped up on the newly appointed committee Mr. Chunk Zunk, formally of the Fairhope Airport Authority, FAA. He resigned from this position about the time President of the Council, Burrell, was accepting free jet service provided by another board member Ray Hix, who is partners with Fairhope Municipal Judge Snedeker. Zunk has defended Mr. Burrell’s free airplane flights, flawed RFP’s and any conflicts of interest Burrell may have as a council president or his position as the city’s liaison to the FAA. All this is under investigation.
 
@@ -81,7 +81,7 @@ Jack Burrell was council president when the triangle lawsuit, sewer plant, gift 
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Jack also has said the sewer spills are unavoidable and he and Boone said nothing when 10 million dollars was transferred from utilities to the general budget, in 15 and 16, for non-utility expenses, damn the infrastructure.
 
@@ -93,6 +93,6 @@ Jack also has said the sewer spills are unavoidable and he and Boone said nothin
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 From your observation point you should see by now Jack is not a leader and has a poor track record as council president. The council is putting all it’s eggs in Burrell’s basket, if he falls all the eggs break.

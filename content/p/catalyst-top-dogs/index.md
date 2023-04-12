@@ -37,7 +37,7 @@ Pay attention to that Summerdale address and you will see a Catalyst connection 
 
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such…
 
-Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/2017/01/18/a-spiders-web/)
+Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spiders-web/)
 
 Summerdale 13040 Underwood Rd. has more LLC’s than fleas on a dog.
 
@@ -49,7 +49,7 @@ Summerdale 13040 Underwood Rd. has more LLC’s than fleas on a dog.
 
 Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL North Ridge, LLC Entity ID Number 420 – 935 Entity Type Domestic Limited…
 
-Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/)
+Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
 Tucker Dorsey uses the LLC’s to hide his many business interests and you can bet Chris Elliott is covering for him.
 

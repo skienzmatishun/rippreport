@@ -19,7 +19,7 @@ Qualifications for the mid-term elections in Baldwin County are final on Februar
 
 Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide general information can be found on:…
 
-Source: [rippreport.com/2018/01/19/qualification/](https://rippreport.com/2018/01/19/qualification/)
+Source: [rippreport.com/2018/01/19/qualification/](https://rippreport.com/qualification/)
 
 Place one of the County Commissioner’s race has an 8 time incumbent, Mr Frank Burt, seeking yet another term. The 86 year old Burt has held office since 1989.
 
@@ -49,7 +49,7 @@ District one is the site of the infamous mega site that cost us 35 million, plus
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
 
-Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/2018/01/17/dead-last/)
+Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
 This is going to be a very interesting race as the Catalyst group has selected Mr Burt’s replacement, Jeb Ball.
 

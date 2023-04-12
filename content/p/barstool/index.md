@@ -13,7 +13,7 @@ Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan Mc
 
 ### Owner of Irish pub in Fairhope arrested on assault charges
 
-![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/2018/11/28/Irish_Pub_owner_arrested_0_63473267_ver1.0_1280_720.jpg)
+![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/Irish_Pub_owner_arrested_0_63473267_ver1.0_1280_720.jpg)
 
 FAIRHOPE, Ala. (WKRG) -- Fairhope police say Ronan McSharry was arrested for an assault charge stemming from an incident on November 22rd.
 
@@ -73,4 +73,4 @@ Where are the checks and balances? How do we hold elected officials accountable 
 
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption.
 
-Source: [rippreport.com/2018/11/23/no-guardrails/](https://rippreport.com/2018/11/23/no-guardrails/)
+Source: [rippreport.com/2018/11/23/no-guardrails/](https://rippreport.com/no-guardrails/)

@@ -20,7 +20,7 @@ Publisher correction: With over 300 single publications, without a single correc
 
 Congratulations Fairhope citizens your 2276 signatures on a petition convinced the Fairhope Single Tax to back off the proposed Tuberville subdivision.
 
-Source: [rippreport.com/2018/02/16/people-power-2/](https://rippreport.com/2018/02/16/people-power-2/)
+Source: [rippreport.com/2018/02/16/people-power-2/](https://rippreport.com/people-power-2/)
 
 The sentence, in the last paragraph, “You see Mr Nix was facing criminal charges and choose the back door instead of court.” We apologize to Mr Nix for any pain and suffering for the statement it was inaccurate.
 
@@ -86,4 +86,4 @@ CATALYST IS A POLITICAL CANCER
 
 Qualifications for Mid Term elections are over and now it is a race to the primary June 9 2018. QUALIFICATION QUALIFICATION | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Mid Term Elections are upon…
 
-Source: [rippreport.com/2018/03/16/catalyst-candidates/](https://rippreport.com/2018/03/16/catalyst-candidates/)
+Source: [rippreport.com/2018/03/16/catalyst-candidates/](https://rippreport.com/catalyst-candidates/)

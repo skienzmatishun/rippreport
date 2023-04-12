@@ -45,7 +45,7 @@ Why don’t the bees investigate:
 
 The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes Mayor Karin Wilson and…
 
-Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/30/hi-jack-ed/)
+Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
 
 The airport gets millions of dollars and education gets thousands while the airport produces not one dime for the city. The city pays all the bills and the airport authority hold the title to the land. Insanity.
 
@@ -55,7 +55,7 @@ The airport gets millions of dollars and education gets thousands while the airp
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Listed are only 6 items that represent over 50 million dollars and the busy bees want to look at a trumped up bias claim, that they think will deflect attention away from the bees.
 

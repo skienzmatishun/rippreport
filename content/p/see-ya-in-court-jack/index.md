@@ -24,7 +24,7 @@ This is the first time Ripp has sued the City of Fairhope over refusing to allow
 
 \[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/12/Fairhope-Complaint.pdf" download="all"\]
 
-Comments from Ripp: The official recorded video of the meeting speaks for itself. https://rippreport.com/2017/08/30/now-you-know-jack/
+Comments from Ripp: The official recorded video of the meeting speaks for itself. https://rippreport.com/now-you-know-jack/
 
 For More Information, contact: [fpripp1@gmail.com](mailto:fpripp1@gmail.com)
 

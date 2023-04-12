@@ -24,7 +24,7 @@ Fairhope citizens were never afforded the opportunity of public participation by
 
 The Council approved the $500,000.00 for an engineering design for the Waterfront project and the council only pushed back for political capital prior to the Municipal elections. Those who, recently, opposed the project and started screaming, admitted, they never attended a Waterfront meeting.
 
-https://rippreport.com/2020/06/19/where-hell-were-you/
+https://rippreport.com/where-hell-were-you/
 
 Like many municipal projects, many citizens do not read or watch city council meetings or read city bulletins. I can’t blame them. The Waterfront project has been transparent from it’s inception. The City and Mayor have announced, and written, about the project, welcoming all comments.
 

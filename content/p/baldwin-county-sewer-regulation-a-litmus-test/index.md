@@ -19,7 +19,7 @@ The biggest consumer issue in Baldwin County, the $6.00 toll, was defeated by a 
 
 After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy. It was a sight to behold every politician in Baldwin County showed…
 
-Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/2019/08/28/fingerprint/)
+Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/fingerprint/)
 
 The NEW consumer issue that faces every citizen in Baldwin County is sewer regulation. Lagniappe has written three in depth articles about Baldwin County Sewer Service, BC$$. The three articles will be soon available in a combined format, on line. The Ripp Report will publish the link when available.
 

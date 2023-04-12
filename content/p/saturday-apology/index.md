@@ -28,7 +28,7 @@ The podcast is a new venture and we expected some difficulties, please join us o
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 Baldwin County is under siege from unbridled development. In certain areas such as Fairhope and Daphne the development and approved projects are popping up faster than corn. Judges and Attorneys are developers and the City Council that appointed them, now approve their developments. Thousands of houses and apartments will change the landscape radically in just a few years.
 
@@ -38,7 +38,7 @@ Baldwin County is under siege from unbridled development. In certain areas such 
 
 Without any public participation at council meetings or any community engagement, the Fairhope City council bullied the community into a 2.65 million dollar land purchase for recreation. This property will remain vacant for years and required the council to raid city accounts in order to purchase the property.
 
-Source: [rippreport.com/2019/10/30/nail-in-the-coffin/](https://rippreport.com/2019/10/30/nail-in-the-coffin/)
+Source: [rippreport.com/2019/10/30/nail-in-the-coffin/](https://rippreport.com/nail-in-the-coffin/)
 
 Traffic will be overwhelmed due to limited added roads and insufficient impact fees from development. Schools will see class sizes balloon out of control and portables will become permanent while politicians brag about recreation land. Quality of life will become more stressful and the threat of a housing crash will become real.
 

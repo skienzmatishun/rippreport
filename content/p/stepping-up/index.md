@@ -25,7 +25,7 @@ I do not want the Ripp Report readers thinking I am getting soft for complimenti
 
 Congratulations to the Mayor, Department heads, employees and the production staff who produced the 2019 State of the City booklet. The State of the City was presented by the Mayor last night in the…
 
-Please Read: [rippreport.com/2019/01/25/state-of-the-city-2019/](https://rippreport.com/2019/01/25/state-of-the-city-2019/)
+Please Read: [rippreport.com/2019/01/25/state-of-the-city-2019/](https://rippreport.com/state-of-the-city-2019/)
 
 The Ripp Report has been a harsh critic, over many issues, of Mayor Haygood in Daphne. However The Ripp Report agrees with the Mayor about getting a fair share of the gas tax.
 

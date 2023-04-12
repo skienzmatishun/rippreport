@@ -22,7 +22,7 @@ Many people have been following the Ripp Report and the comments made by Jester 
 
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council’s attorney. This is a…
 
-Source: [rippreport.com/2017/07/07/hate/](https://rippreport.com/2017/07/07/hate/)
+Source: [rippreport.com/2017/07/07/hate/](https://rippreport.com/hate/)
 
 and that of the comments from the Jester 666, were the same subjects. Mr. Brown also took the time a couple of months ago, during a council meeting, to express his deep respect and loyalty to the Corte family and “former” Mayor Kant. This is fine, with the exception that Mr. Brown should not vote on any Corte project.
 
@@ -80,7 +80,7 @@ Senator Pittman showed no compassion for autism
 
 ## Pittman holds back autism bill, threatening session
 
-![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery/2014/04/05//1396731877012-autism13.jpg)
+![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery//1396731877012-autism13.jpg)
 
 Chairman refuses to report bill out after approval; supporters warn they'll filibuster or move to adjourn
 

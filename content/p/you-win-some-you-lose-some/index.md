@@ -15,7 +15,7 @@ The proposed change of government for Fairhope started out with good intentions 
 
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a…
 
-Source: [rippreport.com/2018/08/24/skunked/](https://rippreport.com/2018/08/24/skunked/)
+Source: [rippreport.com/2018/08/24/skunked/](https://rippreport.com/skunked/)
 
 When the Ripp Report first saw the effort of Fresh Start Fairhope and how they had successfully filed a petition with 800 names, for a change of government, the Fairhope City Council came to mind immediately. I could not figure out what the hell was going on.
 
@@ -35,7 +35,7 @@ This fallout caused a flood of false and misleading information starting with fr
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 The Catalyst council then instructed the city attorney to do what ever was possible to cancel the Oct. special election. True to Baldwin politics and elections and a good push from the good ole boys and Catalyst, they did just that.
 

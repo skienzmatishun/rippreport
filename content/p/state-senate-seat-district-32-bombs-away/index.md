@@ -28,7 +28,7 @@ Five candidates are lined up for the seat, 4 Republicans and one Democrat. The C
 
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values. Chris Elliott…
 
-Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/2018/05/18/catalyst-alabama-values/)
+Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/catalyst-alabama-values/)
 
 Some early polls suggest that Elliott may be beat out in the first round and not even make the run off.
 

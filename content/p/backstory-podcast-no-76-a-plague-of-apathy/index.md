@@ -43,7 +43,7 @@ We hope that you will act to intervene if you ever witness the public display of
 
  
 
-[https://www.forbes.com/sites/joewalsh/2021/03/18/fbi-director-says-atlanta-shooting-does-not-appear-racially-motivated/](https://www.forbes.com/sites/joewalsh/2021/03/18/fbi-director-says-atlanta-shooting-does-not-appear-racially-motivated/)
+[https://www.forbes.com/sites/joewalsh/fbi-director-says-atlanta-shooting-does-not-appear-racially-motivated/](https://www.forbes.com/sites/joewalsh/2021/03/18/fbi-director-says-atlanta-shooting-does-not-appear-racially-motivated/)
 
 https://lagniappemobile.com/ags-office-sues-mawss-for-sewer-overflows/
 
@@ -55,14 +55,14 @@ https://lagniappemobile.com/ags-office-sues-mawss-for-sewer-overflows/
 
 [https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses](https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses)
 
-[https://www.politico.com/news/2021/03/19/anthony-fauci-rand-paul-feud-477146](https://www.politico.com/news/2021/03/19/anthony-fauci-rand-paul-feud-477146)
+[https://www.politico.com/news/anthony-fauci-rand-paul-feud-477146](https://www.politico.com/news/2021/03/19/anthony-fauci-rand-paul-feud-477146)
 
-https://rippreport.com/2020/01/24/bar-stool-continued/
-
-https://lagniappemobile.com/medical-marijuana-bill-set-to-move-out-of-one-committee/
+https://rippreport.com/bar-stool-continued/
 
 https://lagniappemobile.com/medical-marijuana-bill-set-to-move-out-of-one-committee/
 
-[https://www.cnn.com/2021/03/17/us/robert-durst-trial-resume-may/index.html](https://www.cnn.com/2021/03/17/us/robert-durst-trial-resume-may/index.html)
+https://lagniappemobile.com/medical-marijuana-bill-set-to-move-out-of-one-committee/
+
+[https://www.cnn.com/us/robert-durst-trial-resume-may/index.html](https://www.cnn.com/2021/03/17/us/robert-durst-trial-resume-may/index.html)
 
 [https://slate.com/culture/2021/03/justice-league-snyder-cut-vs-whedon-original-breakdown.html](https://slate.com/culture/2021/03/justice-league-snyder-cut-vs-whedon-original-breakdown.html)

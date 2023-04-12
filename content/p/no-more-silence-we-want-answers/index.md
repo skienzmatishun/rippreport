@@ -112,7 +112,7 @@ The city has “sealed” lawsuits that the citizens of the community have no id
 
 ## 11\. Fixing the Elections???
 
-In the document titled "[OBSERVATIONS OF FAIRHOPE MUNICIPAL ELECTIONS-9/11/2012,](https://rippreport.com/2016/08/09/pay-off-and-election-fraud/)" this first hand account supports previous allegations of VOTER FRAUD.
+In the document titled "[OBSERVATIONS OF FAIRHOPE MUNICIPAL ELECTIONS-9/11/2012,](https://rippreport.com/pay-off-and-election-fraud/)" this first hand account supports previous allegations of VOTER FRAUD.
 
 These OBSERVATIONS are not allegations they were witnessed by a Fairhope certified poll watcher, who is an attorney. The observations support multiple other complaints however those complaints were allegations, now we have reason to believe VOTER FRAUD existed.
 

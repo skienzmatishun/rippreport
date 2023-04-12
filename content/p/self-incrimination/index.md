@@ -29,7 +29,7 @@ Now you would think Mr Burrell would keep his head down, but you,
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Jack’s flying high these days and doubling down on his attack against the Mayor, problem is that his latest move incriminates him even further and makes the council look complicit.
 
@@ -41,7 +41,7 @@ The mayor’s attorney wrote a “confidential” letter to the Fairhope City Co
 
 BEAVIS AND BUTTHEAD invade Fairhope Everyone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The…
 
-Source: [rippreport.com/2017/03/31/beavis-and-butthead/](https://rippreport.com/2017/03/31/beavis-and-butthead/)
+Source: [rippreport.com/2017/03/31/beavis-and-butthead/](https://rippreport.com/beavis-and-butthead/)
 
 Fairhope loves holes and now Jack is digging one for himself and at the same time dragging the council with him,
 
@@ -51,7 +51,7 @@ Fairhope loves holes and now Jack is digging one for himself and at the same tim
 
 Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The…
 
-Source: [rippreport.com/2017/06/09/holes/](https://rippreport.com/2017/06/09/holes/)
+Source: [rippreport.com/2017/06/09/holes/](https://rippreport.com/holes/)
 
 The mayor posted this comment on June 11th, Mayor Karin Wilson of Fairhope, Alabama June 11 at 7:30pm.
 
@@ -77,4 +77,4 @@ The mayor’s letter is transparent, the published, GCN article, supports the cl
 
 Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and…
 
-Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/)
+Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/caught-trap-like-rat/)

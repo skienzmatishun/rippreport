@@ -31,7 +31,7 @@ Please remember Fairhope just went through a referendum vote to change the gover
 
 AND SOME SHOULD NEVER BEEN SCHEDULED The proposed change of government for Fairhope started out with good intentions and then went completely off the rails. SKUNKED What started out to be a “Fresh…
 
-Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/2018/11/07/you-win-some-you-lose-some/)
+Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/you-win-some-you-lose-some/)
 
 Tim Kant’s legacy lives on, bogus lawsuits, that cost the city millions while the council spins false narratives, never accepting any responsibility themselves. The Dyas lawsuit could have been settled for under a million dollars. Mayor Kant drove that price to 8.25 million and a 3 million dollar legal bill from attorney O’Rear. What an appropriate name for an attorney that shafted Fairhope.
 
@@ -75,4 +75,4 @@ Is this the “at large” council you voted for? It is the same council that co
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Please Read: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Please Read: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)

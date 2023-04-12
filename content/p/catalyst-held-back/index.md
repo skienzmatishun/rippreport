@@ -33,7 +33,7 @@ Catalyst lost the Probate Judge race which will be one of 5 races in the run off
 
 CATALYST VS THE PEOPLE
 
-Source: [rippreport.com/2018/05/31/share-share-share/](https://rippreport.com/2018/05/31/share-share-share/)
+Source: [rippreport.com/2018/05/31/share-share-share/](https://rippreport.com/share-share-share/)
 
 County Commission District 3 will have Billie Joe Underwood the People’s Choice facing down the infamous Tucker Dorsey who trails by 10%.
 

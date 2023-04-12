@@ -21,13 +21,13 @@ https://lagniappemobile.com/fairhope-reopening-public-participation-on-proposed-
 
 Today Goodwyn Mills & Cawood held a press conference, at Fairhope City Hall, in order to dispel the numerous misconceptions that are being promoted through social media or the CATALYST Council. The greater majority of negative comments are coming from people who did not attend the meetings and appear to have a political agenda.
 
-https://rippreport.com/2020/06/19/where-hell-were-you/
+https://rippreport.com/where-hell-were-you/
 
 CATALYST politicians and their advocates wish to make this issue a political tool for the upcoming election and care less about the citizens of the community. The project is a 6.2 million dollar grant from BP, Fairhope is the only municipality on the Eastern Shores to be awarded such a grant. This will be the first major project on Fairhope’s Waterfront in 50 years.
 
 The same CATALYST Council is now playing games with the Waterfront project. The CATALYST Council spent $2,650,000 for recreation property, without any public participation. Now they want to some how blame the Mayor and tank a $6,200,000 grant? The CATALYST council has run rouge for 4 years. They all need to be replaced.
 
-https://rippreport.com/2020/06/24/invitation/
+https://rippreport.com/invitation/
 
 Please watch the video provided by Fairhope Now. What ever your views, please attend the meetings and be well informed before passing judgment on rumors and political antics.
 

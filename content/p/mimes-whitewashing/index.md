@@ -40,7 +40,7 @@ The council says it does not want another attorney; however, they have moved for
 
 Today the phrase “to open Pandora’s box” means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open…
 
-Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/2017/05/31/pandoras-box/)
+Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/pandoras-box/)
 
 was brought against the city by an employee and within 30 days the council wishes to settle it and bury it. No lawsuits should be settled by employees or past employees that have made allegations against the mayor without the mayor having the opportunity to represent the people, and herself. Who encouraged these frivolous claims? Did someone on the council encourage the lawsuit and tell the employee “it will never go to court, the council will settle it in executive session, you will never have to take the stand.” That my friends is a serious crime.
 

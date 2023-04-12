@@ -33,6 +33,6 @@ Source: [blog.al.com/live/2010/11/senators\_company\_awarded\_63900.html](http:/
 
 The Representatives also sat by and said nothing when Pittman also took municipal contracts, within his own district, from Fairhope, with the help of Fairhope Mayor Can’t and his water carrying City Council.
 
-http://www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/
+http://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/
 
 Catalyst is crying because they are all gone except for Joe Faust, maybe his time has come!

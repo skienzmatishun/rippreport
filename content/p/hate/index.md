@@ -17,7 +17,7 @@ The mayor tried to mediate the impasse the council and her office are experienci
 
 The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for “Fairness”. First, the council implements a hiring freeze to punish the mayor for firing two employees. Then…
 
-Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/2017/04/28/help-fairness-killing-us/)
+Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/help-fairness-killing-us/)
 
 Politics invites dissent and debate and has led to more than one war. Our democracy depends on free speech, which is something we should cherish. What is now going on in the Fairhope is not free speech, debate or democracy. It is hate. While your children are being taught in school and church about bullying or cyberbullying, sexism, and how to love instead of hate, some in Fairhope have nevertheless turned to Hate. The degree of vile, nasty and personal attacks on Mayor Wilson and her family and friends are not politics. These are personal and meant to hurt people’s feelings while weaponizing distrust among the community. The saddest part is that the people responsible are long time “entitled” residents who all went to school together and played together growing up in Fairhope. Today their jealousy and selfishness is dividing Fairhope while the council shows no leadership.
 

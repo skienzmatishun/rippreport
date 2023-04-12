@@ -29,7 +29,7 @@ As I was leaving the building a police officer commented to me that “Jack Suck
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 I really expected that an apology would be forthcoming and that would be that. After a couple of weeks and many friends and emails saying Burrell should apologize and hearing nothing from the council, I consulted an attorney.
 
@@ -41,7 +41,7 @@ I really expected that an apology would be forthcoming and that would be that. A
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 For over a year the case moved forward through mediation and beyond to depositions. From a no money apology the case expanded monetary with attorney fees stacking up, yet no apology. The apology requested was from Mr. Burrell to the City Of Fairhope citizens, not to Francis Paul Ripp nor the Ripp Report. Instead of an apology Mr. Burrell ran his mouth all over town about how the lawsuit would go nowhere and the “Insurance company would pay any damages.” Think about that.
 

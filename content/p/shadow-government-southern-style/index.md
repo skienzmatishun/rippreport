@@ -14,7 +14,7 @@ authors:
 
 9/11 let us never forget, over 3000 lives lost. Today we face another tragedy, Covid-19, which is claiming in the United States, 6000 lives a week, 192,000 to date, Think about that.
 
-[https://www.cnn.com/2020/09/11/us/911-attack-anniversary/index.html](https://www.cnn.com/2020/09/11/us/911-attack-anniversary/index.html)
+[https://www.cnn.com/us/911-attack-anniversary/index.html](https://www.cnn.com/2020/09/11/us/911-attack-anniversary/index.html)
 
 For years I have provided documents and other evidence that implicates Attorneys, Judges, Mayors and Council members involved in illegal activity, and in most cases, using their elected office for personal gain. Complaints to the Ethics Commission, Bar Association, Judiciary, Attorney General, and in some cases FBI, all fall on deaf ears.
 

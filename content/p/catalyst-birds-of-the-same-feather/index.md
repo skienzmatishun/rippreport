@@ -41,7 +41,7 @@ Kant supporting Davis! a loser supporting a quitter.
 
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the: PEOPLE POWER PEOPLE POWER | THE RIPP REPORT / BALDWIN COUNTY LEGAL…
 
-Source: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/2018/03/21/i-quit-and-will-quit-again/)
+Source: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/i-quit-and-will-quit-again/)
 
 Please support John Lake for District two, a proven public servant, not a Catalyst hack.
 

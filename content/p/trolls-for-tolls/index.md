@@ -17,7 +17,7 @@ Over 50,000 people liked the site and faster than a politician could tell a lie,
 
 The number one reason to be suspicious of anything dealing with the bridge is, take it or leave it, Jack Burrell. His track record as a councilman has been horrible and currently he is involved in yet another controversy at the Fairhope Airport Authority.
 
-https://rippreport.com/2022/01/13/lego-rocket-scientist/
+https://rippreport.com/lego-rocket-scientist/
 
 Mr. Burrell being the spokesman for the I-10 project, in light of his failures, is reason enough to oppose tolls.
 

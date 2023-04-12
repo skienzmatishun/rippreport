@@ -17,7 +17,7 @@ Fairhope in 2018 is IN THE DARK, refusing to look forward and recognize the ligh
 
 Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government. IGNORANCE IS BLISS IGNORANCE IS BLISS |…
 
-Please Read: [rippreport.com/2018/12/14/chasing-your-tail/](https://rippreport.com/2018/12/14/chasing-your-tail/)
+Please Read: [rippreport.com/2018/12/14/chasing-your-tail/](https://rippreport.com/chasing-your-tail/)
 
 The council was in full re-election mode and decided that Fairhope was for non drinking “Christians”. It should be noted the good Baptist led the charge to kill the entertainment District. What the good non-drinking Baptist are not telling you is how their Minister with the help of former Mayor Can’t, broke every planning and zoning rule there is to expand their Church and parking. Sorry they do not call it a parking lot, it is a grass lot where a house was destroyed so people could “put their car” on Sunday, while in Church. They destroyed the neighbor hood around the Church and continue to expand further into the neighborhood. What the hell! they are the largest voting block in Fairhope and delivered the NO vote on Change of Government, so they have the council indebted to them.
 
@@ -43,7 +43,7 @@ The Council also swore in Fairhope Municipal Judge Snedecker for another two yea
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Please Read: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Please Read: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 It is a small world in Fairhope, Ronan McSharry, of McSharry’s is a close friend of Jack Burrell and a frequent flier in Judge Snedecker’s court. If Fairhope cannot have an entertainment district then how is a rouge bar owner allowed to break the law over and over again?
 
@@ -57,7 +57,7 @@ If the police chief has to approve liquor serving establishments then the chief 
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
 
-Please Read: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/2018/11/30/barstool/)
+Please Read: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
 The council last action of the year, was deliberately last on the agenda was:
 
@@ -73,7 +73,7 @@ The Council spent the majority of the meeting kissing the feet of the non-drinki
 
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20…
 
-Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/2018/12/05/russian-roulette-fairhope-style/)
+Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/russian-roulette-fairhope-style/)
 
 The council has been taking the position of character assassination and blaming the property owner, that has been their defense! They did not pay attention when the Alabama Supreme Court ruled unanimously, 9-0, in favor of the owner and sent the case back to Baldwin County. This case started, about 11 years ago, before the Mayor or Council were elected to office, however the council ignored the serious position the city is in, just like the triangle lawsuit, and the need to settle the case.
 

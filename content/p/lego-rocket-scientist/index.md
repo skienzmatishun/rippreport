@@ -29,7 +29,7 @@ In November he resigned from the Fairhope Council Presidency abruptly and slithe
 
 Please remember, it was Jack and his two worker B’s that spent 2.65 million dollars on recreation land. Don’t forget the town clock that cost six thousand dollars or the K-1 that is leaking and rotting since his great deal.“
 
-https://rippreport.com/2017/02/08/5000-00-cash-reward/
+https://rippreport.com/5000-00-cash-reward/
 
 “The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.”
 
@@ -41,7 +41,7 @@ He then begins to distance himself from the council presidency, by withdrawing f
 
 Christmas, Covid and Football was the perfect time for the Airport Authority to file a lawsuit to eliminate the FBO, Fixed Based Operator, Continental Motors.
 
-https://fairhopetimes.wordpress.com/2022/01/12/airport-authority-votes-to-terminate-airport-operators-lease/
+https://fairhopetimes.wordpress.com/airport-authority-votes-to-terminate-airport-operators-lease/
 
 “The lawsuit alleges various shortcomings by Continental on its own FBO (fixed base operator) lease agreement, including: failure to secure proper insurance and inadequate fuel farm maintenance; failure to install required office/hangar space; et al. “
 
@@ -65,7 +65,7 @@ Pay attention. The 1% who use the airport are the ones creating the issues that 
 
 The Ripp Report knows more about this story, however we are going to wait and see how deep Jack digs a hole for himself, and the taxpayers.
 
-Remember when Jack was on his soapbox screaming about NO TOLLS on the proposed Bay Bridge and how it could be built without federal government money? [He now is on his knees begging](https://www.alreporter.com/2022/01/11/eastern-shore-mobile-mpos-announce-aldot-support-of-i-10-bridge-and-bayway-framework/) the federal government for money and has become an advocate FOR TOLLS.
+Remember when Jack was on his soapbox screaming about NO TOLLS on the proposed Bay Bridge and how it could be built without federal government money? [He now is on his knees begging](https://www.alreporter.com/eastern-shore-mobile-mpos-announce-aldot-support-of-i-10-bridge-and-bayway-framework/) the federal government for money and has become an advocate FOR TOLLS.
 
 Jack claims to be a rocket scientist and some actually believe him. The only rockets Jack knows anything about are Lego’s.
 

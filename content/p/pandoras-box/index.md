@@ -36,7 +36,7 @@ Guess what is in the box?
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 If you think Jack Burrell, come fly with me, had nothing to do with the all the above, then you also probably think you can jump out of an airplane without a parachute and you don’t know Jack.
 
@@ -46,7 +46,7 @@ If you think Jack Burrell, come fly with me, had nothing to do with the all the 
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Now we will have lawyers involved and “cross examination”. Swearing to the truth and all that legal stuff will bring all the dirt to the surface. They are going to wish they never opened that box.
 
@@ -60,7 +60,7 @@ The “gift” is in the box as well, free wet lands for the city and new liabil
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 The evil will come out of the jar leaving the good to prevail. Mayor Wilson is no saint but the city council, particularly the three new members, have refused to inspect the contents of the box. Jack’s conflict of interest, Boone’s LLC’s and all the past deeds of the last administration. The council, led by Jack, supports the efforts of the HR director and Sullivan while refusing to support the Mayor or City.
 

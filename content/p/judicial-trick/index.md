@@ -19,7 +19,7 @@ The 18th through the 20th is the estimated time Alabama should peak in the coron
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 Newspapers and Lagniappe are having to scale back their business limiting news coverage. Everybody is distracted, perfect timing for Judicial trickery.
 
@@ -47,7 +47,7 @@ This case involves Ronan McSherry, who owns McSherry’s Bar in Fairhope.
 
 15 months ago we reported on an incident that should have been resolved in 6 months.
 
-Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/2020/01/24/bar-stool-continued/)
+Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/bar-stool-continued/)
 
 Mr McSherry has a notorious reputation for alcohol related incidents. Arrested multiple times, and on probation from a previous incident, McSherry shoved Paula Dinardi off a bar stool, November 22nd 2018. The assault was captured on film.
 
@@ -59,7 +59,7 @@ Mr McSherry has a notorious reputation for alcohol related incidents. Arrested m
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story. FAIRHOPE, Ala.
 
-Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/2018/11/30/barstool/)
+Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
 Baldwin County Circuit Judge Clark Stankoski, who “requested” to hear the case, dismissed the most serious charge, which is on video, of assault, which McSherry already plead guilty to in municipal court.
 
@@ -77,7 +77,7 @@ does protect the newspapers sources, but does not protect the information they p
 
 15 months ago we reported on an incident that should have been resolved in 6 months.
 
-Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/2020/01/24/bar-stool-continued/)
+Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/bar-stool-continued/)
 
 The assault charge, Stankoski dropped was based on the fact that the municipal attorney, Marcus McDowell, failed to amend the charge of assault, to include: ”did cause bodily harm”, on the Fairhope charging document. It seems a year went by and McDowell failed to amend the original complaint. If you believe this I have some stock in a gold mine in Belize that you may be interested in investing in.
 
@@ -97,6 +97,6 @@ Four years ago we elected a new Mayor and council. The Mayor wanted a fresh star
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 This next election Fairhope needs a new council. With a new council the City attorney and Municipal Judge, appointed positions, can be replaced.

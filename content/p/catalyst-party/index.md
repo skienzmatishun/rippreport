@@ -39,7 +39,7 @@ Please remember it was the great negotiator Burrell along with Boone and Brown, 
 
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19. The staff, police, fire and other cuts came up to 2.6 million.
 
-Source: [rippreport.com/2020/03/26/lost-opportunity/](https://rippreport.com/2020/03/26/lost-opportunity/)
+Source: [rippreport.com/2020/03/26/lost-opportunity/](https://rippreport.com/lost-opportunity/)
 
 12\. Resolution – That Mayor Karin Wilson is hereby authorized to execute a contract for Extension No. 2 of Bid Number 020-18, Disaster Debris Removal and Disposal 2018, with Crowder Gulf, LLC for an additional one year, as per the terms and conditions of the original contract; and based on per unit cost as specified in Bid Tabulation.
 
@@ -51,7 +51,7 @@ Source: [rippreport.com/2020/03/26/lost-opportunity/](https://rippreport.com/202
 
   By Bill Britt Alabama Political Reporter MONTGOMERY— In an unbroken stream dating back to July 2007, Sen. Lee Davidson Marbury “Trip” Pittman (R-Daphne) and former Baldwin County Commissioner Bob James, have held a lucrative debris removal contract awarded by the city of Fairhope. The million plus contract mostly being held by Pittman Tractor Co., \[…\]
 
-Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/)
+Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/)
 
 This is the same contract that the city gave to Sen Tripp Pittman for years, under the previous Mayor. Burrell fought tooth and nail to continue giving the contract to his “bible buddy”, however the newly elected Mayor said no dice. Pittman could not get the bid in an honest bidding process.
 
@@ -65,7 +65,7 @@ LET’S HAVE A PARTY Go to minute 22 and listen to Mr Brown bring up the fact th
 
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic. Fairhope has a CATALYST City Council and true to form…
 
-Source: [rippreport.com/2020/04/08/the-fairhope-jester/](https://rippreport.com/2020/04/08/the-fairhope-jester/)
+Source: [rippreport.com/2020/04/08/the-fairhope-jester/](https://rippreport.com/the-fairhope-jester/)
 
 This is the same Mr Brown who thinks we should all go to work NOW and that the stay at home order was not necessary. Why is Mr. Brown bringing up Sherry Sullivan? The same Sherry Sullivan along with Brown and Burrell who wanted to “Take a chance” on the Arts and Craft Show.
 
@@ -77,7 +77,7 @@ This is the same Mr Brown who thinks we should all go to work NOW and that the s
 
 The current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope. Yet people get riled up over a curfew meant to mitigate a virus that we know little about. A curfew…
 
-Source: [rippreport.com/2020/04/10/pissed-on-or-pissed-off/](https://rippreport.com/2020/04/10/pissed-on-or-pissed-off/)
+Source: [rippreport.com/2020/04/10/pissed-on-or-pissed-off/](https://rippreport.com/pissed-on-or-pissed-off/)
 
 CATALYST wants Sherry Sullivan as their next candidate for Mayor of Fairhope. This is their way of injecting her name, otherwise most would not even know who she is. A former city employee who had numerous jobs, none for long. She briefly was in charge of the recreation center, she failed miserable.
 
@@ -101,6 +101,6 @@ COVID-19 should be taken seriously and it is not the time or place to be talking
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 ## LET’S HAVE A CATALYST PARTY

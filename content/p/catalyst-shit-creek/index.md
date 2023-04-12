@@ -60,7 +60,7 @@ This is the same CATALYST Council that now wants to drag up all the habits and b
 
 Baldwin County, you want an example how CATALYST works? All you have to do is pay attention to the Fairhope Municipal Election Aug. 25. Qualification is July 7-21st.
 
-Source: [https://rippreport.com/2020/05/13/catalyst-candidates-%e2%81%a0-excess-baggage/](https://rippreport.com/2020/05/13/catalyst-candidates-%e2%81%a0-excess-baggage/)
+Source: [https://rippreport.com/catalyst-candidates-%e2%81%a0-excess-baggage/](https://rippreport.com/2020/05/13/catalyst-candidates-%e2%81%a0-excess-baggage/)
 
 This is the same CATALYST Council that has it’s own justice system. The same CATALYST Council that disparages and bullies women, while at the same time supports it’s CATALYST friends who are accused of domestic abuse, assault and liquor violations.
 
@@ -72,7 +72,7 @@ This is the same CATALYST Council that has it’s own justice system. The same C
 
 How many people remember Sen Tripp Pittman and his theft of BP money to the tune of $750,000 dollars?
 
-Source: [rippreport.com/2020/05/21/catalyst-justice/](https://rippreport.com/2020/05/21/catalyst-justice/)
+Source: [rippreport.com/2020/05/21/catalyst-justice/](https://rippreport.com/catalyst-justice/)
 
 Please listen to Backstory Podcast #37 — [Facebook](https://www.facebook.com/BackstoryPodcast/) or Youtube.
 

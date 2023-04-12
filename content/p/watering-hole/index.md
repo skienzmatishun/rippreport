@@ -23,7 +23,7 @@ McSharry’s was the watering hole for Judges, Attorneys and of course McSharry�
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 The Watering hole became taboo after the last election and McSharry’s multiple arrests, only then did politicians and members of the Judiciary come to the conclusion that drinking with the good ole boys, in public, was not cool.
 
@@ -37,7 +37,7 @@ They may have left the Bar but they sure have had McSharry’s back.
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story. FAIRHOPE, Ala.
 
-Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/2018/11/30/barstool/)
+Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
 ## Fairhope restaurateur found guilty of assault
 
@@ -57,7 +57,7 @@ Source: [lagniappemobile.com/fairhope-restaurateur-found-guilty-of-assault-2/](h
 
 A well known Fairhope businessman was found guilty of public intoxication and third-degree assault earlier this month after an incident at a bar late last year. Ronan McSharry, owner of McSharry’s…
 
-Source: [rippreport.com/2019/05/01/one-woman-2/](https://rippreport.com/2019/05/01/one-woman-2/)
+Source: [rippreport.com/2019/05/01/one-woman-2/](https://rippreport.com/one-woman-2/)
 
 Now ask yourself, How the hell can a person with multiple convictions, and be on probation, get arrested again and walk.
 
@@ -107,7 +107,7 @@ Baldwin County should be renamed “Quid Quo Pro County”
 
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
 
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10/02/quid-quo-pro/)
+Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
 Be sure and listen to Backstory Podcast and join us on Facebook.
 

@@ -48,7 +48,7 @@ When you have a city council president argue before the citizens of the communit
 
   By Bill Britt Alabama Political Reporter MONTGOMERY— In an unbroken stream dating back to July 2007, Sen. Lee Davidson Marbury “Trip” Pittman (R-Daphne) and former Baldwin County Commissioner Bob James, have held a lucrative debris removal contract awarded by the city of Fairhope. The million plus contract mostly being held by Pittman Tractor Co., Read More
 
-Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/)
+Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/)
 
 Mayor Wilson had the contracts re-bid with fresh eyes giving others, not elected officials, new opportunity and a fair chance to bid.
 

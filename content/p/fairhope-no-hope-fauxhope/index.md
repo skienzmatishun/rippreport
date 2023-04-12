@@ -53,7 +53,7 @@ The Mayor fought passionately for a location that favored the most kids, her mis
 
 Fairhope being run as a Criminal Enterprise? WATCH UNTIL MINUTE 2:07–9:
 
-Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/2019/12/27/criminal-enterprise/)
+Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/criminal-enterprise/)
 
  
 

@@ -21,13 +21,13 @@ https://lagniappemobile.com/mabel-amos-memorial-fund-more-scholarship-money-for-
 
 Regions Bank, the Ethics Director, lawyers and now a circuit court Judge, all have their fingers in the pie. The Mabel Amos Memorial Trust has been their secret piggy bank. Speaking of banks the trust, and it’s millions, are harbored at Regions Bank. That could make some potential charges federal, such as money laundering, tax evasion, wire fraud, and conspiracy. What about banking laws and mismanagement of the trust?
 
-https://rippreport.com/2021/09/03/court-of-public-opinion-2/
+https://rippreport.com/court-of-public-opinion-2/
 
 It is your responsibility to something too!
 
 Mr. Tommy Gallion, well known and respected Montgomery attorney, has been hired by Leigh Manning, a relative of Mabel Amos. If a lawsuit is filed then you can expect for it to get much uglier.
 
-https://rippreport.com/2020/09/11/shadow-government-southern-style/
+https://rippreport.com/shadow-government-southern-style/
 
 Mr. Gallions book is about greed power and political corruption, in Alabama. The Mabel Amos Memorial Trust has all the elements of the book, Greed, Power and Political Corruption.
 

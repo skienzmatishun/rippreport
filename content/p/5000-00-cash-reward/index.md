@@ -13,7 +13,7 @@ authors:
 
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.
 
-The entire complaint can be reviewed, [https://rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/).
+The entire complaint can be reviewed, [https://rippreport.com/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/).
 
 Mr. Burrell has been dodging any questions related to the allegations set forth in the complaint. His weak kneed explanations never address the facts. He uses his position as Council President and Airport Authority Board member to limit any public comment or questions directed towards him.
 

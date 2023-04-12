@@ -34,6 +34,6 @@ Source: [thefairhopetimes.blogspot.com/2015/11/city-council-to-get-addtional-eth
 
 The next month after the illegal meeting, Fairhope City Council got additional training in Alabama Ethics.  I am sorry to report that they failed the course.
 
-Today, [YOU DON'T KNOW JACK](https://rippreport.com/2016/11/25/you-dont-know-jack/), and the accompanying article, [FAIRHOPE AIRPORT "UN\_AUTHORIZED"](https://rippreport.com/2016/12/02/fairhope-airport-un_authorized/) are the results of the previous bad behavior that became much worse. You will get the condensed narrative as soon as we have all the documents, after New Years. No sense in ruining our Christmas and New Year with another story of inside trading and political corruption.
+Today, [YOU DON'T KNOW JACK](https://rippreport.com/you-dont-know-jack/), and the accompanying article, [FAIRHOPE AIRPORT "UN\_AUTHORIZED"](https://rippreport.com/2016/12/02/fairhope-airport-un_authorized/) are the results of the previous bad behavior that became much worse. You will get the condensed narrative as soon as we have all the documents, after New Years. No sense in ruining our Christmas and New Year with another story of inside trading and political corruption.
 
 HAVE A WONDERFUL WEDNESDAY

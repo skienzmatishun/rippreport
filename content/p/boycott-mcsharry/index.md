@@ -27,7 +27,7 @@ https://lagniappemobile.com/mcsharry-settles-civil-suit-but-arrested-on-new-comp
 
 Despite pleading guilty, McSharry then appealed those convictions to Baldwin County Circuit Court, where Judge Clark Stankoski determined that Fairhope City Prosecutor Marcus McDowell had made an error on the charging document by failing to include the fact that McSharry “did cause physical harm to another person,” and voided the conviction.”
 
-https://rippreport.com/2020/05/29/catalyst-train-wreck/
+https://rippreport.com/catalyst-train-wreck/
 
 Be sure to watch the video and watch the city attorney lie to everyone in attendance of the council meeting.
 
@@ -43,13 +43,13 @@ https://lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-pr
 
 “McSharry, the owner of McSharry’s Irish Pub, was on probation at the time. Roughly two months earlier, he pleaded guilty to “breach of peace,” a charge stemming from his alleged harassment of artist Nall Hollis. Hollis’ gallery is across the street from McSharry’s bar, and McSharry was accused of directing “abusive, offensive and or vulgar language and/or gestures toward Mr. Hollis” on March 19, 2017. His sentence in that case was 12 months of probation, with an order to have no contact with Hollis and to have “no distilled liquors and shall not become inebriated.”
 
-https://rippreport.com/2020/04/22/american-citizen/
+https://rippreport.com/american-citizen/
 
 “McSharry has been free to continue his business while his attorneys try to blame everyone for McSharry’s actions. McSharry is not an American citizen, he is a green card holder from Ireland.
 
 A Green Card holder with an extensive police record that has a liquor license. WTH”
 
-https://rippreport.com/2019/02/06/communication/
+https://rippreport.com/communication/
 
 “Now let’s cut to the chase, Ripp Report style, McDowell is a holdover from the Mayor Can’t era. Captain Jack and the Council selected McDowell to carry their water and help pave the way to a Catalyst overthrowing the present Fairhope Government, in 2020. Capt Jack or Sherry Sullivan may be the Catalyst choice for Mayor but McDowell will be secure in his job as the Catalyst City Attorney.”
 

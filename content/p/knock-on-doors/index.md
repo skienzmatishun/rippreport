@@ -29,7 +29,7 @@ Booming Baldwin has a gain of 200 jobs. Think about that, 200 jobs, four new or 
 
 Here we go again, a lot of hot air and no results. Baldwin County Economic Development Alliance, BCEDA, sounds important doesn’t it? The CEO Lee Lawson sure can blow smoke when it comes to the mega…
 
-Source: [rippreport.com/2019/01/16/shovel-ready/](https://rippreport.com/2019/01/16/shovel-ready/)
+Source: [rippreport.com/2019/01/16/shovel-ready/](https://rippreport.com/shovel-ready/)
 
 North Baldwin still has the, onion, mega site. Who is knocking on doors, FULL TIME, trying to sell the mega site? NOBODY they are waiting on the phone to ring.
 
@@ -41,7 +41,7 @@ North Baldwin still has the, onion, mega site. Who is knocking on doors, FULL TI
 
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. ECONOMIC DEVELOPMENT In 2012 the Baldwin County…
 
-Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/2018/03/02/cattle-gate-mega-site/)
+Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
 The 200 job gain has now been offset by a 200 job loss. No gain in a booming economy! Something is wrong! A lack of manufacturing. Let’s hope that when the mega site sells that the county does not pay someone to buy it by offering ridiculous incentives.
 
@@ -49,7 +49,7 @@ The 200 job gain has now been offset by a 200 job loss. No gain in a booming eco
 
 ### Almost 200 workers lose jobs at Standard Furniture
 
-![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/2019/01/30/standard_1548889540298_69659313_ver1.0_1280_720.jpg)
+![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/standard_1548889540298_69659313_ver1.0_1280_720.jpg)
 
 Almost 200 employees at Bay Minette's largest employer will lose their jobs at the end of March. Standard Furniture says it will cease manufacturing laminated case goods as of March 31st.
 

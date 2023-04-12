@@ -55,4 +55,4 @@ So if you wonder why Alabama is number one in corruption, 46th in education and 
 
 While states like Louisiana, Mississippi, Tennessee, and Kentucky also made the losers list, according to the article, no state was worse than Alabama.
 
-Source: [wkrg.com/2017/07/25/cnbc-labels-alabama-as-the-worst-state-to-live/](http://wkrg.com/2017/07/25/cnbc-labels-alabama-as-the-worst-state-to-live/)
+Source: [wkrg.com/2017/07/25/cnbc-labels-alabama-as-the-worst-state-to-live/](http://wkrg.com/cnbc-labels-alabama-as-the-worst-state-to-live/)

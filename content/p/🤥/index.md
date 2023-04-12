@@ -15,7 +15,7 @@ The biggest bare face liars were the then Mayor and his benefactor developer Art
 
 The academy award for lying, goes hands down to Mr. Stewart “The Liar” Speed of the Leaf River Group, the developers from Mississippi. Mr. Speed , told the Fairhope audience, 250 to 300 citizens, that the apartments would be a luxury apartments. That they were going to be the signature apartments of Leaf River and would never be sold to any other apartment management group. He said it would be environmental sound and never contaminate Fly Creek. Everything he told the audience was lies and he knew it when he said it. This was all recorded live so there is no denying it.
 
-https://rippreport.com/2018/05/02/eagles-eye-catalyst-kant-corte/
+https://rippreport.com/eagles-eye-catalyst-kant-corte/
 
 Since construction their has been 5 lawsuits, contamination of the creek, destruction of easements and right-a-ways and failure to provide infrastructure for traffic on Parker Road, these are just a few of the issues. The apartments, since completion, have suffered poor management, partial flooding, electric and water pressure issues. Management by Leaf River Group was poor and soon replaced only to be replaced again when the project was sold. That’s right they sold the apartments just as predicted.
 
@@ -23,7 +23,7 @@ A lawyer and an employee of the Grand Hotel gave me a little insight into Mr Spe
 
 Another thing that has come to light, and not a surprise, was the behind the scenes communications Speedy had with Council President Jack Burrell. Burrell was responsible for the gift.
 
-https://rippreport.com/2017/05/05/re-gift-gift/
+https://rippreport.com/re-gift-gift/
 
 Speed is still working on town homes being built in the same Fly Creek project. Overpriced with a view of the Publix loading dock and surrounded by red clay, they are not selling well.
 

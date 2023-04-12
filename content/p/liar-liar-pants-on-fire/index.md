@@ -27,7 +27,7 @@ Last week they wanted to legalize corruption.
 
 Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama and our elected officials are more interested in…
 
-Source: [rippreport.com/2019/04/12/legal-corruption/](https://rippreport.com/2019/04/12/legal-corruption/)
+Source: [rippreport.com/2019/04/12/legal-corruption/](https://rippreport.com/legal-corruption/)
 
 This week they, your elected Baldwin County officials, want you to swallow the whole stupid pill and believe that Economic Development lobbyist are not really lobbyist. What is a few “ dinners or incentives” thrown to the feet of legislators? It is the way business is conducted in the “third world” of Alabama.
 

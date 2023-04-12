@@ -17,7 +17,7 @@ Sorry I missed the Roy Moore protest but could not be prouder of the women and p
 
 The Moore and Bannon show did not count on any protesters, no they thought everyone would just roll over as usual. Wrong, and thank God for it. Fairhope should be proud that many women in Baldwin…
 
-Source: [rippreport.com/2017/12/06/protester-pride/](https://rippreport.com/2017/12/06/protester-pride/)
+Source: [rippreport.com/2017/12/06/protester-pride/](https://rippreport.com/protester-pride/)
 
 I still am fascinated that voters are willing to dismiss the fact that Mr Moore violated his Oath of Office, twice, and was disbarred. In the military you would be dishonorable discharge for violating your oath.
 
@@ -27,7 +27,7 @@ I still am fascinated that voters are willing to dismiss the fact that Mr Moore 
 
 Roy Moore disqualified himself long before the sexual allegations were levied at him, by multiple and creditable sources. Moore violated his oath of office, twice, and was removed from office for…
 
-Source: [rippreport.com/2017/12/01/ayatollah-of-alabama/](https://rippreport.com/2017/12/01/ayatollah-of-alabama/)
+Source: [rippreport.com/2017/12/01/ayatollah-of-alabama/](https://rippreport.com/ayatollah-of-alabama/)
 
 Next Tuesday is going to establish the “Moore Factor” those who choose party over country. This will be useful in mid term elections, of the County Commissioners and State Senate races. You can bet your bottom dollar candidates are going to own their positions that they take now with Moore. Many a vote is going to be swayed by the candidates support of Moore.
 

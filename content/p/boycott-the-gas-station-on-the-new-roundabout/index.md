@@ -44,7 +44,7 @@ This was all done in the last administration. Beavis and Butthead (Boone and Com
 
 Baldwin County has recently been introduced to the traffic intersection known as a roundabout.” The modern roundabout is a beautiful thing. Traffic flow is improved, they look nice and they are safer…
 
-Source: [rippreport.com/2016/09/16/round-and-round-we-go/](https://rippreport.com/2016/09/16/round-and-round-we-go/)
+Source: [rippreport.com/2016/09/16/round-and-round-we-go/](https://rippreport.com/round-and-round-we-go/)
 
  
 

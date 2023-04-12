@@ -29,7 +29,7 @@ I read the article while I was in Puerto Rico and wondered how many people in Fa
 
 AND SOME SHOULD NEVER BEEN SCHEDULED The proposed change of government for Fairhope started out with good intentions and then went completely off the rails. SKUNKED What started out to be a “Fresh…
 
-Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/2018/11/07/you-win-some-you-lose-some/)
+Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/you-win-some-you-lose-some/)
 
 The Lagniappe article sure clears up some of the suspected backroom motives of some. First off Forever Fairhope was backed by Can’t loyalist who invested in a political PAC. These are some of the same individuals who support Catalyst.
 
@@ -55,6 +55,6 @@ If you were duped then you will be active in combating corruption, if you were w
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Ignorance is bliss.

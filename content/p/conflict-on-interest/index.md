@@ -32,7 +32,7 @@ Source: [www.al.com/news/2019/11/coastal-alabama-water-center-stage-in-courts-an
 
 Alabama developer Hix Snedeker Companies is heading to the Fort Lauderdale City Commission later this month seeking final approval of a roughly $25 million marina project. Hix Snedeker is under contract to purchase the site of the planned South Fork Marina at 1500 Southwest 17th Street. On Tuesda
 
-Source: [therealdeal.com/miami/2018/11/08/marina-project-in-fort-lauderdale-heads-to-commission-for-final-approval/](https://therealdeal.com/miami/2018/11/08/marina-project-in-fort-lauderdale-heads-to-commission-for-final-approval/)
+Source: [therealdeal.com/miami/2018/11/08/marina-project-in-fort-lauderdale-heads-to-commission-for-final-approval/](https://therealdeal.com/miami/marina-project-in-fort-lauderdale-heads-to-commission-for-final-approval/)
 
 ## Daphne lawyers settle $10.2 million judgment from failed Gulf Shores project
 
@@ -52,7 +52,7 @@ Source: [www.al.com/live/2012/02/daphne\_lawyers\_settle\_102\_mill.html](https:
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 ## QUID PRO QUO
 
@@ -62,7 +62,7 @@ Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/20
 
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
 
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10/02/quid-quo-pro/)
+Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
 ## PLEASE ATTEND CITY COUNCIL MEETING NOV. 13
 

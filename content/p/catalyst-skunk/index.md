@@ -78,7 +78,7 @@ Another skunk smell is coming from the Mega “dump” Site, a Dorsey bonanza fo
 
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. ECONOMIC DEVELOPMENT ECONOMIC DEVELOPMENT – BALDWIN…
 
-Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/2018/03/02/cattle-gate-mega-site/)
+Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
 BOTTOM LINE IS A VOTE FOR DORSEY IS A VOTE FOR CATALYST AND BALDWIN COUNTY SEWER. PLEASE RUN OVER THE SKUNK.
 

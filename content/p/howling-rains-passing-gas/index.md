@@ -63,7 +63,7 @@ For his part, Burrell described himself as "adamantly" opposed to the new beach 
 
 Under the GMC proposal, visitors would have to walk the length of two football fields to reach the pier from a new parking lot carved out of the North Beach picnic area. Burrell said he favored expenditures to improve the heavily used North Beach and the existing Magnolia Beach, a crescent of sand between the state boat ramp and the American Legion Hall on Scenic 98.
 
-https://rippreport.com/2020/07/06/howling-rains/
+https://rippreport.com/howling-rains/
 
 Howling Rains did not write a constructive op-ed with suggestions, nor did he attend any meetings.
 
@@ -71,6 +71,6 @@ Howling admitted he was 6 weeks in the rear about reading anything about the pro
 
 Howling Raines showed his journalistic mettle.
 
-https://www.nytimes.com/2003/06/05/national/executive-editor-of-the-times-and-top-deputy-step-down.html
+https://www.nytimes.com/national/executive-editor-of-the-times-and-top-deputy-step-down.html
 
 "Howell Raines and Gerald M. Boyd, the top-ranking editors of The New York Times, resigned yesterday morning, five weeks after the resignation of a reporter set off a chain of events that exposed fissures in the management and morale of the newsroom."

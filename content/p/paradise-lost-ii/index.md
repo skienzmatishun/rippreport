@@ -46,7 +46,7 @@ Chris Warner is a concerned citizen, speaker, author and publisher. A former pro
 
 Visit his web page: [chriswarnerauthor.com](https://www.etsy.com/market/trump_sex_toy)
 
-[https://rippreport.com/2018/06/07/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/) This article was published June 7 2018, This was the original article.
+[https://rippreport.com/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/) This article was published June 7 2018, This was the original article.
 
 Join Chris this Saturday June 6th at Page and Palett:
 

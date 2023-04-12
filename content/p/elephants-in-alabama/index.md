@@ -23,7 +23,7 @@ https://lagniappemobile.com/alabamas-recipe-for-corruption/
 
 The Ethics Commission didn’t offer a single detail about what laws he’d been found guilty of breaking or how they were broken. Using state payroll data, it’s clear the person known simply as “Employee 1” in the Examiners’ report is McCallum, and he was paid his salary for a couple of months after resigning. He also continued receiving perks for an even longer time. For some reason, about 10 months after his resignation, the State Bar paid him another $37,000.
 
-https://rippreport.com/2022/07/09/top-shelf-corruption/
+https://rippreport.com/top-shelf-corruption/
 
 “The Ethics Commission’s Executive Director, Tom Albritton, has got a pass from the Ethics Commission, Alabama Bar and the Attorney General. The only recourse for any justice is to file a civil suit against Mr Albrittion the trustees and the bank. This is blatant in your face corruption, at the highest level of our state’s government.”
 

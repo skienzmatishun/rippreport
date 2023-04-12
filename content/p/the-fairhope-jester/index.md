@@ -55,7 +55,7 @@ Brown is the April Fool.
 
 In Alabama some citizens are participating a 100%, at the potential risk of others.
 
-Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/2020/04/01/april-fool/)
+Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/april-fool/)
 
 This is the same Brown who along with Boone and Burrell spent 2.65 million on recreation land, no one wanted, and then they leased the land for farming for 9000 dollars a year.
 
@@ -71,7 +71,7 @@ Brown also was on board to give away the triangle property that cost taxpayers $
 
 The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for personal gain by securing the Fairhope Art Center…
 
-Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/2019/07/12/the-jester/)
+Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
 This is the worst city council that Fairhope has had since it’s founding and three people keep taking credit.
 
@@ -83,7 +83,7 @@ This is the worst city council that Fairhope has had since it’s founding and t
 
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 
-Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/2019/10/09/honey-bees/)
+Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/honey-bees/)
 
 However it takes the whole council to operate a criminal enterprise.
 
@@ -95,7 +95,7 @@ However it takes the whole council to operate a criminal enterprise.
 
 Fairhope being run as a Criminal Enterprise? WATCH UNTIL MINUTE 2:07–9:
 
-Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/2019/12/27/criminal-enterprise/)
+Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/criminal-enterprise/)
 
 Nothing stopped Councilman Brown from using his office for personal gain. The council just held it’s nose, put their fingers in their ears and looked the other way.
 
@@ -107,7 +107,7 @@ Nothing stopped Councilman Brown from using his office for personal gain. The co
 
 Backstory Podcast @BackstoryPodcast Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of: Backstory Podcast @
 
-Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/2019/09/25/documents/)
+Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/documents/)
 
 Mr Brown has always said he had permission from the Ethics Commission, he did not, that is a lie.
 

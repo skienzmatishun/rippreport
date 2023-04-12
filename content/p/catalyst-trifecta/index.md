@@ -55,7 +55,7 @@ They all have one thing in common, Elliott OWES them and Montgomery has his test
 
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
 
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
 Elliott has raised 500,000 dollars in his campaign and the figure could go as high as 700,000 for a job that pays 42,000. That should be reason enough NOT to vote for him.
 
@@ -73,7 +73,7 @@ PLEASE VOTE BILLIE JO UNDERWOOD, She is not a lemon.
 
 Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what…
 
-Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/2018/07/06/million-dollar-swimming-pool/)
+Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/million-dollar-swimming-pool/)
 
 CATALYST “QUEEN” CANDIDATE Judge Michelle Thomason, the most infamous and incompetent Family Court Judge in Baldwin County.
 
@@ -85,7 +85,7 @@ CATALYST “QUEEN” CANDIDATE Judge Michelle Thomason, the most infamous and in
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/2018/04/27/catalyst-queen-remember-family-court/)
+Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
 Please, this is a Judge that needs to be kicked to the curb. You will be preforming a public service to Not vote for her. If you, or your children, have been a victim of this, so called Judge, do your best to use social media or whatever means possible to let other victims know that now is their opportunity to flush her away with Elliott and Dorsey.
 
@@ -97,7 +97,7 @@ Please, this is a Judge that needs to be kicked to the curb. You will be preform
 
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment.
 
-Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/2018/05/29/catalyst-judges/)
+Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
 
 Vote for Christy Olinger Edwards for Court of Civil Appeals, Judge Place 1, Christy does not have the baggage Michelle has.
 

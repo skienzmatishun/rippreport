@@ -19,7 +19,7 @@ For 12 years The Ripp Report has been reporting on issues related to Fairhope. O
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Fairhope has come a long way in the last two years with the first FAIR election, monitored by the Sec. of State. The election of a new Mayor and a revamp of city supervisors and department heads. The back pocket accounting of our utilities has been replaced with accounting management that may deliver the city debt free by 2020.
 
@@ -33,7 +33,7 @@ The current Fairhope City Council is composed of Catalyst candidates and their l
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 THE FACE OF NO : Media, I use that term lightly, is Chuckee Cheeze, the editor of the Catalyst tabloid. Please boycott the Courier they have cost Fairhope a lot of money and embarrassment with their dishonest FAKE reporting.
 
@@ -45,7 +45,7 @@ THE FACE OF NO : Media, I use that term lightly, is Chuckee Cheeze, the editor o
 
 CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of Catalyst, the Good ole boys, special interest and elected…
 
-Source: [rippreport.com/2018/10/30/chuckee-cheeze/](https://rippreport.com/2018/10/30/chuckee-cheeze/)
+Source: [rippreport.com/2018/10/30/chuckee-cheeze/](https://rippreport.com/chuckee-cheeze/)
 
 THE FACE OF NO: The Catalyst Council and the Catalyst attorney panicked when they realized that the citizens were waking up. They postponed the election hoping for THE FACE OF NO:
 
@@ -57,7 +57,7 @@ THE FACE OF NO: The Catalyst Council and the Catalyst attorney panicked when the
 
 The Fairhope Special Election, Oct. 3, was canceled due to a technicality, and a lot of help from people related to Catalyst, Tim Can’t and the good ole boys. The Fairhope City Council Attorney…
 
-Source: [rippreport.com/2018/10/05/raising-eyebrows/](https://rippreport.com/2018/10/05/raising-eyebrows/)
+Source: [rippreport.com/2018/10/05/raising-eyebrows/](https://rippreport.com/raising-eyebrows/)
 
 The new FACE OF NO: recruited by Catalyst and special interest is COLBY COOPER.
 
@@ -123,7 +123,7 @@ Colby you sold out to the 1% when you went to work for Special interests.
 
 Last week we featured, YOU DON’T KNOW JACK, this week we peel back the onion a little more. What we do know is that a lawyer paid a lawyer to write a letter to lawyers, Ethics Commission…
 
-Source: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/2016/12/02/fairhope-airport-un_authorized/)
+Source: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/fairhope-airport-un_authorized/)
 
 The RFP “bid” was handled by Airport Authority Board member Jack Burrell. This is the same Jack Burrell who flew on that private jet, BEFORE THE BID. Colby you may have even seen Jack in the passenger seat on one of the junkets to attend golf tournaments.
 
@@ -135,7 +135,7 @@ The RFP “bid” was handled by Airport Authority Board member Jack Burrell. Th
 
 The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes Mayor Karin Wilson and…
 
-Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/30/hi-jack-ed/)
+Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
 
 Maybe you don’t know Jack:
 
@@ -147,7 +147,7 @@ Maybe you don’t know Jack:
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Jack Burrell is President of the Fairhope Catalyst “At Large” Council and board member of the Fairhope Airport Authority. He is responsible for holding the city hostage over the Airport. You see Jack thinks the taxpayers should pay for the Airport but that the Authority should hold the title.
 

@@ -31,7 +31,7 @@ The Judge and Jack have a special bond:
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Three years later and the Judge and Jack are at it again:
 
@@ -43,7 +43,7 @@ Three years later and the Judge and Jack are at it again:
 
 How can a city council approve the largest development in Fairhope when the Municipal Judge is the developer…
 
-Source: [rippreport.com/2019/11/08/conflict-on-interest/](https://rippreport.com/2019/11/08/conflict-on-interest/)
+Source: [rippreport.com/2019/11/08/conflict-on-interest/](https://rippreport.com/conflict-on-interest/)
 
 Go back to May of 2016 on the Ripp Report and read the articles about Councilmen Burrell and the airport scam.
 

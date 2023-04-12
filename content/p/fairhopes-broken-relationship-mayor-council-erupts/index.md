@@ -69,7 +69,7 @@ The council had yet one more thing on the agenda to reject. The airport authorit
 
 The Ripp Report has been reporting on the Airport scandal since Nov. 2016, YOU DON’T KNOW JACK Well folks if you were watching football this last Monday night and have no idea what is going...
 
-Source: [rippreport.com/2017/03/24/nuff-said/](https://rippreport.com/2017/03/24/nuff-said/)
+Source: [rippreport.com/2017/03/24/nuff-said/](https://rippreport.com/nuff-said/)
 
 At the end of the meeting in public participation Mr.Boone was asked to recuse himself from voting on any issue involving the Fly Creek PUD, Angelo Corte, or Preble Rish engineering due to a conflict of interest. He explained he had no conflict or llc’s that involved any of the parties mentioned.
 
@@ -79,7 +79,7 @@ At the end of the meeting in public participation Mr.Boone was asked to recuse h
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering company Preble-Rish that are conflicts of...
 
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/2017/01/25/conflict-of-interest/)
+Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
 and
 
@@ -89,7 +89,7 @@ and
 
 Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have...
 
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/2017/01/13/boone-doggle/)
+Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
 
 maybe he can remember now.
 

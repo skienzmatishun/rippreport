@@ -7,7 +7,7 @@ authors:
   - admin
 ---
 
-https://rippreport.com/2021/08/03/baldwin-county-un-family-court/
+https://rippreport.com/baldwin-county-un-family-court/
 
 I started the The Ripp Report 16 years ago as a consumer organization, handling complaints about simple consumer issues and political corruption. Political corruption and legal and ethical complaints soon overwhelmed any common consumer complaints.
 
@@ -31,7 +31,7 @@ No accountability.
 
 The silent good guys, Judiciary, Bar, Attorney General and laughable Ethics Commission are toothless titles. In addition to the toothless titles, Baldwin County has no print media other than Lagniappe, Mobile, that is willing to expose corruption.
 
-https://rippreport.com/2021/08/06/where-is-the-media/
+https://rippreport.com/where-is-the-media/
 
 The Executive Director of the Ethics Commission, Tom Albritton is a classic example of blatant corruption. Where is the outrage? Where is the media? Where are the authorities?
 
@@ -85,7 +85,7 @@ It is soon discovered Chey’s common law husband had the child in north Alabama
 
 At this point I want you to put on Chey’s shoes and imagine what your state of mind would be if this happened to you. She is slapped with “threatening phone calls” which paves the way to the bank for the cockroach attorneys. Charges are ultimately expunged.
 
-https://rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/
+https://rippreport.com/baldwin-county-family-court-a-cottage-industry/
 
 To shorten a long story Chey finds out her daughter is back in Baldwin County and goes to the home of her ex husband. A domestic dispute ensues where Chey is assaulted by her ex and drug out of the house. Here is where the cockroaches appear, she immediately goes to Fairhope Police, and guess what? With no Miranda right every read to her, they arrest her.
 

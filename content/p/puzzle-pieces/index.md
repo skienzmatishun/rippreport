@@ -81,13 +81,13 @@ All the info is online leading to this story, I am shocked nobody uncovered it l
 
 [https://whyy.org/articles/uae-based-gulftainer-signs-50-year-lease-for-port-of-wilmington/](https://whyy.org/articles/uae-based-gulftainer-signs-50-year-lease-for-port-of-wilmington/)
 
-[https://www.centerforsecuritypolicy.org/2018/04/17/president-trump-just-say-no-to-gulftainer/](https://www.centerforsecuritypolicy.org/2018/04/17/president-trump-just-say-no-to-gulftainer/)
+[https://www.centerforsecuritypolicy.org/president-trump-just-say-no-to-gulftainer/](https://www.centerforsecuritypolicy.org/2018/04/17/president-trump-just-say-no-to-gulftainer/)
 
 [https://www.joc.com/port-news/us-ports/trump-asked-review-gulftainer-lease-delaware-port\_20180412.html](https://www.joc.com/port-news/us-ports/trump-asked-review-gulftainer-lease-delaware-port_20180412.html)
 
-[https://www.breitbart.com/national-security/2016/11/04/saddam-hussein-port-canaveral/](https://www.breitbart.com/national-security/2016/11/04/saddam-hussein-port-canaveral/)
+[https://www.breitbart.com/national-security/saddam-hussein-port-canaveral/](https://www.breitbart.com/national-security/2016/11/04/saddam-hussein-port-canaveral/)
 
-[https://theamericanreport.org/2018/03/23/former-dhs-nyc-chief-gulftainer-port-canaveral-secret-project-pelican-deal-worse-than-iran-contra-and-whitewater-combined-gulftainer-connects-to-jonathan-winer-gulftainer-taking/](https://theamericanreport.org/2018/03/23/former-dhs-nyc-chief-gulftainer-port-canaveral-secret-project-pelican-deal-worse-than-iran-contra-and-whitewater-combined-gulftainer-connects-to-jonathan-winer-gulftainer-taking/)
+[https://theamericanreport.org/former-dhs-nyc-chief-gulftainer-port-canaveral-secret-project-pelican-deal-worse-than-iran-contra-and-whitewater-combined-gulftainer-connects-to-jonathan-winer-gulftainer-taking/](https://theamericanreport.org/2018/03/23/former-dhs-nyc-chief-gulftainer-port-canaveral-secret-project-pelican-deal-worse-than-iran-contra-and-whitewater-combined-gulftainer-connects-to-jonathan-winer-gulftainer-taking/)
 
 [https://www.al.com/news/2019/03/alabama-widens-mobile-shipping-channel-to-boost-entire-state-economy.html](https://www.al.com/news/2019/03/alabama-widens-mobile-shipping-channel-to-boost-entire-state-economy.html)
 
@@ -95,7 +95,7 @@ All the info is online leading to this story, I am shocked nobody uncovered it l
 
 [https://www.al.com/news/mobile/2018/03/in\_mobile\_transformative\_effor.html](https://www.al.com/news/mobile/2018/03/in_mobile_transformative_effor.html)
 
-[https://www.alabamanews.net/2018/06/20/alabama-balks-at-funding-for-restored-coastal-amtrak-service/](https://www.alabamanews.net/2018/06/20/alabama-balks-at-funding-for-restored-coastal-amtrak-service/)
+[https://www.alabamanews.net/alabama-balks-at-funding-for-restored-coastal-amtrak-service/](https://www.alabamanews.net/2018/06/20/alabama-balks-at-funding-for-restored-coastal-amtrak-service/)
 
 [https://www.al.com/news/2019/06/birmingham-and-mobile-ranked-among-the-top-american-cities-of-the-future.html](https://www.al.com/news/2019/06/birmingham-and-mobile-ranked-among-the-top-american-cities-of-the-future.html)
 
@@ -107,7 +107,7 @@ All the info is online leading to this story, I am shocked nobody uncovered it l
 
 [https://www.facebook.com/groups/blockthetolls/permalink/1373668276174737/](https://www.facebook.com/groups/blockthetolls/permalink/1373668276174737/)
 
-[https://www.alreporter.com/2019/06/26/maritime-executive-named-deputy-director-of-the-alabama-state-port-authority/](https://www.alreporter.com/2019/06/26/maritime-executive-named-deputy-director-of-the-alabama-state-port-authority/)
+[https://www.alreporter.com/maritime-executive-named-deputy-director-of-the-alabama-state-port-authority/](https://www.alreporter.com/2019/06/26/maritime-executive-named-deputy-director-of-the-alabama-state-port-authority/)
 
 [TVNEWS.VANDERBILT.EDU](https://tvnews.vanderbilt.edu)
 

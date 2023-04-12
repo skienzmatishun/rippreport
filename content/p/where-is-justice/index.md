@@ -23,7 +23,7 @@ Is it just a coincidence that Fairhope City Council canceled public participatio
 
 The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting subjects. To save you a little time check in at 12:
 
-Source: [rippreport.com/2020/04/16/catalyst-party/](https://rippreport.com/2020/04/16/catalyst-party/)
+Source: [rippreport.com/2020/04/16/catalyst-party/](https://rippreport.com/catalyst-party/)
 
 The McSharry case in Fairhope is a classic example of good ole boy politics topped with judicial tricks.
 
@@ -35,7 +35,7 @@ The McSharry case in Fairhope is a classic example of good ole boy politics topp
 
 Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes. Some Judges and lawyers feel…
 
-Source: [rippreport.com/2020/04/18/judicial-trick/](https://rippreport.com/2020/04/18/judicial-trick/)
+Source: [rippreport.com/2020/04/18/judicial-trick/](https://rippreport.com/judicial-trick/)
 
 The antics of Fairhope City Attorney Marcus McDowell and how Fairhope judicial system has handled the McSharry case demands an investigation. The Ripp Report is asking for the Baldwin County District Attorney, among others, to investigate the recent ruling of Judge Stankowski as well as the actions of the Municipal Judge Snedeker and City Attorney McDowell, in reference to the McSharry case.
 

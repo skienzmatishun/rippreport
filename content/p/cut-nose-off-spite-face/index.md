@@ -27,7 +27,7 @@ The mayor is being transparent when she addresses the community and explains the
 
 COFAIRHOPE: ATTENTION MAYOR AND COUNCIL Dear Mayor and Council please take your positions seriously and understand that a part of your responsibilities is to discipline yourselves. The Fairhope City Council in the past has ignored...
 
-Source: [rippreport.com/2017/04/19/recuse-yourself/](https://rippreport.com/2017/04/19/recuse-yourself/)
+Source: [rippreport.com/2017/04/19/recuse-yourself/](https://rippreport.com/recuse-yourself/)
 
 Fairhope is in reverse:
 

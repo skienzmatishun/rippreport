@@ -21,7 +21,7 @@ Fairhope wake the ---- up. This is insanity, and corrupt. Stop the Conservation 
 
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is.
 
-Source: [rippreport.com/2019/05/31/three-strikes/](https://rippreport.com/2019/05/31/three-strikes/)
+Source: [rippreport.com/2019/05/31/three-strikes/](https://rippreport.com/three-strikes/)
 
 Please remember it was Council President Burrell that led the City Council to override the Mayor’s veto over the Fly Creek extension of the zoning. It was also Burrell who settled the Triangle lawsuit and then told citizens it was a purchase of a park, another bare face lie.
 
@@ -33,7 +33,7 @@ Please remember it was Council President Burrell that led the City Council to ov
 
 Baldwin County Commissioners have their Mega “dump” Site. Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks…
 
-Source: [rippreport.com/2018/03/30/fairhopes-triangle-mega-site/](https://rippreport.com/2018/03/30/fairhopes-triangle-mega-site/)
+Source: [rippreport.com/2018/03/30/fairhopes-triangle-mega-site/](https://rippreport.com/fairhopes-triangle-mega-site/)
 
 The Fairhope City Council avoids public participation or community engagement when at all possible. Refusing citizens the opportunity to speak at public meetings got Mr Burrell and the City in a Federal Lawsuit, that they lost.
 
@@ -45,7 +45,7 @@ The Fairhope City Council avoids public participation or community engagement wh
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 It does not make any difference what issue is before the Fairhope Council, conservation easement, Twin Beech land for recreation, the airport or K-1, the Council President time and time again represents special interests, opposes the Mayor and quashes community engagement.
 
@@ -59,7 +59,7 @@ Burrell and Councilman Boone favored the developer of Fly Creek apartments, over
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 Conservation Easement? What a joke! Remember how the council wanted to develop a drainage gully?
 
@@ -71,7 +71,7 @@ Conservation Easement? What a joke! Remember how the council wanted to develop a
 
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has…
 
-Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/2018/02/09/bend-over-fairhope/)
+Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/bend-over-fairhope/)
 
 It took a petition of over 2000 names to get the Council attention before they reluctantly withdrew their support. Fairhope citizens need to convince the City Council not to dispose of any City property until the scheduled land use plan is completed.
 
@@ -83,7 +83,7 @@ It took a petition of over 2000 names to get the Council attention before they r
 
 FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION Fairhope watershed known as Tatumville Gulley or Big Head Gulley is being threatened by land development. Source: https://www.change.org/
 
-Source: [rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/](https://rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/)
+Source: [rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/](https://rippreport.com/big-head-gully-and-the-fruit-nuts/)
 
 If Fairhope was keen to establish a Conservation Easement for a park or the maximum conservation protection of the land then they ignored a much better location closer to the bay, the Breland property. However Fairhope Council President Burrell and the council do not want you to know that story or the fact that they are in Court over the issue.
 
@@ -125,6 +125,6 @@ Last but certainly not least is the Police Report Mr. Burrell conveniently hid b
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 DISPOSE of the Fairhope City Council President Burrell. NOW

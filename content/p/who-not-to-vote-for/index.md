@@ -83,7 +83,7 @@ Now Mr Elliott want us to elect him to a State Senate seat.
 
 Elliott is running for the Alabama State Senate District 32 seat as a Republican in the June 2018 primary.
 
-Source: [wkrg.com/2017/04/13/chris-elliott-announces-run-for-state-senate/](https://wkrg.com/2017/04/13/chris-elliott-announces-run-for-state-senate/)
+Source: [wkrg.com/2017/04/13/chris-elliott-announces-run-for-state-senate/](https://wkrg.com/chris-elliott-announces-run-for-state-senate/)
 
 > “Commissioner Elliott is President and Owner of The Elliott Companies, Inc. which owns and operates Service Master Restore franchises in Mobile and Baldwin County, Alabama, providing multidisciplinary disaster mitigation, catastrophe restoration, and construction services.“
 

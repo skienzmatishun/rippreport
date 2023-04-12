@@ -43,7 +43,7 @@ Elliott, The TAX MAN, has increase taxes, supported the infrastructure bill, wit
 
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County…
 
-Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/2018/06/21/snakes-in-the-schools/)
+Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/snakes-in-the-schools/)
 
 Baldwin County made a serious mistake by electing a Catalyst candidate to represent Baldwin County. Orange Beach gets the credit of pushing THE TAX MAN into office, thanks for nothing.
 
@@ -55,7 +55,7 @@ Baldwin County made a serious mistake by electing a Catalyst candidate to repres
 
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business…
 
-Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/2018/06/29/catalyst-does-baldwin-county/)
+Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/catalyst-does-baldwin-county/)
 
 Chris Elliott and Fairhope City Councilman Burrell are very much alike, if their lips are moving they are lying.
 

@@ -29,7 +29,7 @@ All the hell raising the council did over the firing of two employees and the hi
 
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp…
 
-Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/2017/10/20/job-with-benefits/)
+Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/job-with-benefits/)
 
 This is the council overriding the Mayor and then rewarding those who got fired. But what do you expect when the Council President himself “come fly with me” Burrell has the ethics commission to hide behind.
 
@@ -39,7 +39,7 @@ This is the council overriding the Mayor and then rewarding those who got fired.
 
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport.
 
-Source: [rippreport.com/2017/10/25/bonus-money/](https://rippreport.com/2017/10/25/bonus-money/ )
+Source: [rippreport.com/2017/10/25/bonus-money/](https://rippreport.com/bonus-money/ )
 
 Fairhope has a history of lawsuits that has cost the taxpayers millions. Good ole Jack help settle the triangle lawsuit behind everyone’s back. He used the change of agenda trick to be sure none of the public was aware of what was going on, until it was to late.
 
@@ -49,7 +49,7 @@ Fairhope has a history of lawsuits that has cost the taxpayers millions. Good ol
 
 FRAUD Webster’s Dictionary’s definition of fraud reads: “Deceit; trickery; cheating, intentional deception to cause a person to give up property or some lawful right. Something said to deceive; trick.
 
-Source: [rippreport.com/2016/07/15/freaky-friday-fraud/](https://rippreport.com/2016/07/15/freaky-friday-fraud/ )
+Source: [rippreport.com/2016/07/15/freaky-friday-fraud/](https://rippreport.com/freaky-friday-fraud/ )
 
 Fairhope City Council now is looking at a light at the end of a tunnel. Due to their obstruction of the Mayor and recent decisions of the council, lawsuits are the light. Potentially four suits are being considered, again I stress this is due to council actions. A fifth lawsuit is pending related to Fly Creek Apartments. Three involve planning and zoning, however unlike in the past, planning and zoning made the right decision and council overrode their decision. The first lawsuit may be announced as early as next week.
 

@@ -13,11 +13,11 @@ The irony is, the same individuals want to blame the last administration, which 
 
 This council enjoys full medical insurance on top of their salary. The Mayor is a double dipper, thanks to the council. She gets a check for being Mayor and a check for heading up utilities. She has no experience with utilities, think about that.
 
-https://rippreport.com/2016/09/02/showing-your-true-colors/
+https://rippreport.com/showing-your-true-colors/
 
 Never mind the fact that our infrastructure is maxed out; and that each project will cost taxpayers millions. It will negatively impact your quality of life. School enrollment will balloon. Residents will experience lengthy commute times, snarled traffic and subsequent road rage. These efforts disregard the outcome of the election. Also, the Mayor is putting a few city employees in the precarious position of possibly losing their jobs. The question is: “Will the employees become lemmings and follow him off the cliff?”
 
-https://rippreport.com/2017/01/27/court-public-opinion-now-session/
+https://rippreport.com/court-public-opinion-now-session/
 
 That is exactly the situation Fairhope tax payers find themselves in today. The Mayor wants the property at the Airport in the name of the City of Fairhope. The Airport Authority wants the city to appropriate the tax dollars, 310,000 a year, to pay down the 8 million dollar debt and leave the property in the name of the Authority.
 
@@ -29,7 +29,7 @@ It's all part of a total re-vamp costing $11 million dollars. Fairhope chose to 
 
 The truth is it cost over 13 million and not one damn dime was spent on transmission lines. The council turned down a proposal to move the sewer plant from the bay inland for around 20 million.
 
-https://rippreport.com/2019/08/14/in-the-same-boat/
+https://rippreport.com/in-the-same-boat/
 
 On August 28th 2017 I attended a Fairhope City Council meeting with the intent of addressing the City Council during public participation. I have done this many times over the last 10 years, however this time the Council President, Jack Burrell refused to allow me to speak. GO TO 1:00 MARK
 

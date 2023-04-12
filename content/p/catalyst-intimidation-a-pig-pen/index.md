@@ -21,7 +21,7 @@ Baldwin County politics has always been a good ole boys club and Catalyst hopes 
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Catalyst wants you to believe they are a Consultant/Public Relations firm and the candidates they support have no connection to any other Catalyst Candidate. Bull-hit they are the driving force of a slate of candidates, that if elected could hijack the County Commission, Probate Judge, State Senate seat as well as District Judge.
 
@@ -33,7 +33,7 @@ Catalyst wants you to believe they are a Consultant/Public Relations firm and th
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/)
+Source: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
 
 Political Intimidation of candidates, running against any Catalyst candidate, is supported by all Catalyst candidates. Political signs disappear from non-catalyst candidates where as the Catalyst candidates are not missing any signs. This is Baldwin County politics in the pig pen. Catalyst wants to own the pig pen.
 
@@ -49,7 +49,7 @@ The last post of the Ripp Report upset “baby” Boone so bad he needed to chan
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 The Ripp Report hopes this post will convince Catalyst that Freedom of the Press, Expression and Speech are Constitutional freedoms and threats against those rights will be met with our own legal defense.
 
@@ -61,4 +61,4 @@ The Ripp Report hopes this post will convince Catalyst that Freedom of the Press
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)

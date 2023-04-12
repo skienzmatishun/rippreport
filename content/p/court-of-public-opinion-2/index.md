@@ -31,7 +31,7 @@ Should this not be the foundation of the Ethics Commission? Or is it their posit
 
 For the Ethics Commission to allow Mr. Albritton to remain Executive Director, would be tantamount to aiding and abetting political corruption in Alabama.
 
-https://rippreport.com/2021/08/06/where-is-the-media/
+https://rippreport.com/where-is-the-media/
 
 The Ripp Report also filed a Alabama Bar complaint against Mr. Albritton, below is Mr. Albritton's responce to the Bar addressing my complaint.
 
@@ -41,7 +41,7 @@ The Ripp Report will respond to the letter Mr. Albritton submitted to the Bar an
 
 Mr John Bell, Regions Bank and Rick Clifton are the other two trustees, they should account f r any "scholorships"that they, or their friends, have recieved. What about employees of Regions Bank? The trust should have a forensic audit. I bet Mr Albritton is not the only trustee to use the trust as their piggy bank.
 
-https://rippreport.com/2021/07/24/striking-oil/
+https://rippreport.com/striking-oil/
 
 How did Conecuh County citizens not know about the discovery of oil. Did the county get any taxes or royalities? Where was the Conecuh County Commission?
 

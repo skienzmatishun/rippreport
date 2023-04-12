@@ -27,7 +27,7 @@ Burrell first promised no federal money was needed, and no tools, if his mouth i
 
 Burrell is the last person you can believe:
 
-https://rippreport.com/2016/11/25/you-dont-know-jack/
+https://rippreport.com/you-dont-know-jack/
 
 SWAMP FOOTBALL
 

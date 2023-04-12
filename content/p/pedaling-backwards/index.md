@@ -21,7 +21,7 @@ The Fairhope City Council is in full re-election mode, for 2020, and are trying 
 
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
 
-Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/2018/08/31/pop-up-target/)
+Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
 They recently failed miserably on a federal grant for the K-1 center, as predicted.
 
@@ -33,7 +33,7 @@ They recently failed miserably on a federal grant for the K-1 center, as predict
 
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options…
 
-Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/2019/02/15/jack-gets-an-f-again/)
+Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
 
 The Fairhope council uses the city attorney as their tool to obstruct the Mayor and push through half baked ideas that are not financial responsible. The latest is a proposed bike trail on the 11.25 million dollar property, the triangle, that was purchased through a LEGAL SETTLEMENT. The council tried to convenience the citizens of the community that the purchase was for a park, a total lie. They LOST the lawsuit.
 
@@ -71,7 +71,7 @@ Council President Burrell and Councilman Boone get full credit for pulling the w
 
 Baldwin County Commissioners have their Mega “dump” Site. DEAD LAST Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians…
 
-Source: [rippreport.com/2018/03/30/fairhopes-triangle-mega-site/](https://rippreport.com/2018/03/30/fairhopes-triangle-mega-site/)
+Source: [rippreport.com/2018/03/30/fairhopes-triangle-mega-site/](https://rippreport.com/fairhopes-triangle-mega-site/)
 
 The council and city attorney have worked in concert to obstruct the Mayor, committees or anyone else that does not share their agenda. Their lack of communication with the Mayor is by design and that is costing the city valuable resources.
 
@@ -83,7 +83,7 @@ The council and city attorney have worked in concert to obstruct the Mayor, comm
 
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City…
 
-Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/2019/02/06/communication/)
+Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/communication/)
 
 Citizens of Fairhope get ready because another subject, dear to all our hearts, is going to be the focus of the council, education and our schools. I predict the council will, again, elect to shelter themselves from any decision and relegate that responsibility to anyone other than themselves. They care about one thing and one thing only, returning to the good ole days of Can’t.
 
@@ -95,4 +95,4 @@ Citizens of Fairhope get ready because another subject, dear to all our hearts, 
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)

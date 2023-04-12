@@ -24,7 +24,7 @@ Here is a picture of the four Baldwin County Commissioners that need to be put t
 
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. South Alabama Mega Site – Shovel Ready in…
 
-Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/2017/05/17/economic-development-baldwin-county-style/)
+Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
 
 Four seats and already over 10 candidates have signed up. Now all we need to do is figure out who are faux candidates or who is carrying water for Catalyst.
 
@@ -46,7 +46,7 @@ Seat 2 is Chris Elliott who is going to run for Sen Trip Pittman’s seat. I wil
 
 A Baldwin County Commissioner was arrested for driving under the influence over the weekend in Fairhope.
 
-Source: [wkrg.com/2016/05/16/baldwin-county-commissioner-charged-with-dui-in-fairhope/](http://wkrg.com/2016/05/16/baldwin-county-commissioner-charged-with-dui-in-fairhope/)
+Source: [wkrg.com/2016/05/16/baldwin-county-commissioner-charged-with-dui-in-fairhope/](http://wkrg.com/baldwin-county-commissioner-charged-with-dui-in-fairhope/)
 
 John Lake from Daphne is running for that seat. John has a long history of being a public servant and has never used his position to his advantage, he is an excellent replacement.
 

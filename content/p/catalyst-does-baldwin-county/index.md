@@ -17,7 +17,7 @@ One of the architects of Catalyst, Chris Elliott, is now going down and dirty on
 
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values. Chris Elliott…
 
-Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/2018/05/18/catalyst-alabama-values/)
+Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/catalyst-alabama-values/)
 
 He was the anointed one, now he finds himself in the race of his life.
 
@@ -29,7 +29,7 @@ He was the anointed one, now he finds himself in the race of his life.
 
 Read today’s FREAKY FRIDAY. CATALYST SHERIFF | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE CATALYST SHERIFF | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE When Police Chiefs or Sheriff’s get wrapped…
 
-Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/2018/05/30/catalyst-vs-the-people/)
+Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/catalyst-vs-the-people/)
 
 <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2016964721850634&autoLogAppEvents=1'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -43,7 +43,7 @@ Mr. Elliott’s wife is employed by none other than Sheriff Hoss Mack. The Sheri
 
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County…
 
-Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/2018/06/21/snakes-in-the-schools/)
+Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/snakes-in-the-schools/)
 
 Elliott is all important to the Catalyst political equation. Catalyst needs the County Commission, State Senate Seat and Fairhope to make that corrupt wheel to turn at maximum speed. Catalyst lost Fairhope and ever since has been at war with the duly elected Mayor, Karin Wilson. Catalyst lost their “threesome” on the County Commission and now face the real prospect of losing the Senate seat.
 
@@ -55,7 +55,7 @@ Elliott is all important to the Catalyst political equation. Catalyst needs the 
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 Baldwin County must move forward of the Catalyst mindset of the good ole boys. The County is changing at such a pace that municipalities and the county commission must work in sync. Corruption does not allow that to happen.
 
@@ -77,7 +77,7 @@ Fairhope nothing will change under the rule of Catalyst and losers. Living in th
 
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
 
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/2018/06/27/fairhopes-blast-from-the-past/)
+Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
 
 Please support the Council/Mayor form of Government for Fairhope. The Mayor and one council person to be elected at large and three elected by districts.
 

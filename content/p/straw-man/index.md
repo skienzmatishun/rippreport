@@ -49,7 +49,7 @@ Straw buying is when an individual makes a purchase on behalf of someone, who ot
 
 This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper.
 
-Source: [rippreport.com/2019/07/31/lagniappe/](https://rippreport.com/2019/07/31/lagniappe/)
+Source: [rippreport.com/2019/07/31/lagniappe/](https://rippreport.com/lagniappe/)
 
 This type of corruption is, unfortunately, common in Baldwin County. The Fairhope Airport Authority, Fairhope City Council, where three members have used their elected position for personal gain, The Mega-site and the Wharf in Orange Beach all have similar stories.
 

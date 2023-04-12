@@ -31,7 +31,7 @@ In question was why the accused wanted to speak with the Mayor and Police Chief 
 
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was…
 
-Source: [rippreport.com/2019/04/19/one-woman/](https://rippreport.com/2019/04/19/one-woman/)
+Source: [rippreport.com/2019/04/19/one-woman/](https://rippreport.com/one-woman/)
 
 The Fairhope Council has made no public statements about the continued bad acts and convictions of McSharry.
 
@@ -41,11 +41,11 @@ Another issue the Council has failed at, is making the complaints of former empl
 
 ### PANDORA’S BOX | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
-[![Fairhope](https://cdn.rippreport.com/35275143-pandoras-box.png)](https://rippreport.com/2017/05/31/pandoras-box/)
+[![Fairhope](https://cdn.rippreport.com/35275143-pandoras-box.png)](https://rippreport.com/pandoras-box/)
 
 Today the phrase “to open Pandora’s box” means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences.
 
-Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/2017/05/31/pandoras-box/)
+Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/pandoras-box/)
 
 Here comes the third sour grapes lawsuit and you better believe the Catalyst group has their dirty hands in on it. This article only covers one side of the story, the Catalyst side.
 
@@ -93,6 +93,6 @@ In what was considered a political move by those attending,100 plus, the good Ju
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/2018/04/27/catalyst-queen-remember-family-court/)
+Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
 Like I said the worst thing about Fairhope is the politics. Let’s hope Fairhope stands strong, in 2020, against the Catalyst Council, and fresh new faces in the community, public servants, decide to run for Council positions.

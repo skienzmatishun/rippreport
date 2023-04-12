@@ -21,7 +21,7 @@ In the next three years you are going to be shocked at the results of the unbrid
 
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process…
 
-Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/fairhope-sold-to-the-highest-bidder/)
 
 Over 566 apartments are under construction or proposed in Fairhope alone. Schools are going to be negatively impacted and an Independent School System will HAVE to be formed in order to hold down class size. Impact fees will fall far short of what is needed in infrastructure and your taxes will go up. You can also look forward to annexation and rezoning. Thank this Catalyst Council.
 
@@ -33,7 +33,7 @@ Over 566 apartments are under construction or proposed in Fairhope alone. School
 
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/2019/10/11/corridor-of-chaos/)
+Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
 The Corridor of Chaos, 181/Fairhope at Wal- Mart will develop into a density and traffic nightmare. This intersection and development will negatively impact Fairhope more than any development to date. The developers will make millions and citizens will be taxed to correct the issues that arise after the developers have cashed the check.
 
@@ -49,7 +49,7 @@ To add insult to injury the three B’s are spending 2.65 million on recreation 
 
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
 
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10/02/quid-quo-pro/)
+Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
 Please follow us on Backstory Podcast where Baldwin County issues are discussed and political corruption is exposed. Tomorrow podcast #7 around noon.
 
@@ -61,4 +61,4 @@ Please follow us on Backstory Podcast where Baldwin County issues are discussed 
 
 Political Corruption Has No Place in a Civilized Society
 
-Source: [rippreport.com/2019/10/16/backstory-podcast-6/](https://rippreport.com/2019/10/16/backstory-podcast-6/)
+Source: [rippreport.com/2019/10/16/backstory-podcast-6/](https://rippreport.com/backstory-podcast-6/)

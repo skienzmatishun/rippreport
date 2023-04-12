@@ -20,7 +20,7 @@ Fairhope set the stage for citizens to fight back against City Government and el
 
 Gulf Shores City Council to Hear Appeal of Planning Commission’s Decision to Approve Regency Place Apartments Site Plan Application Monday, October 29, 2018 4:00 p.m. Gulf Shores City Council Chambers…
 
-Source: [rippreport.com/2018/10/28/people-power-wake-up-gulf-shores/](https://rippreport.com/2018/10/28/people-power-wake-up-gulf-shores/)
+Source: [rippreport.com/2018/10/28/people-power-wake-up-gulf-shores/](https://rippreport.com/people-power-wake-up-gulf-shores/)
 
 This has been brewing for over a year and the City of Gulf Shores and the Mayor basically told the residents that the “Apartments are a done deal, get over it, there is nothing you can do.”
 

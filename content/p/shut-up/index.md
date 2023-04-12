@@ -153,6 +153,6 @@ All this information and the Fairhope Airport Authority has yet to answer any of
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head...
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 SHUT UP

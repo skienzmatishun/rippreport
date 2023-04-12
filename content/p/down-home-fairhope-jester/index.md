@@ -39,7 +39,7 @@ It should be mentioned that Councilman Brown got the soccer field clubhouse/bath
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 This Council was found guilty, in Federal Court for violating the right of free speech. That case is now is being used in similar cases as a precedent around the country. Fairhope Council President Burrell and Council now have the dubious reputation of this case around their necks.
 
@@ -67,7 +67,7 @@ Mr Brown’s reputation is based on HIS actions. The EASC being a non-profit is 
 
 The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The Jester supports the developer…
 
-Source: [rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/](https://rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/)
+Source: [rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/](https://rippreport.com/fairhope-jester-and-fly-creek/)
 
 The Ethics Complaint has been in a limbo status since May 2 2018. The Ethics letter below will show you the contempt and condescending attitude that they had to the allegations in the complaint. The Ethics Commission could make three telephone calls and see enough red flags to investigate the complaint. The Ethics Commission’s inaction and dismissals of complaints, actually encourage elected officials, to use their office for personal gain. \[embeddoc url="https://cdn.rippreport.com/ethics-complaint.pdf" download="all"\]
 
@@ -85,7 +85,7 @@ The second choice is the opposite, elected officials who use their office for pe
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/2018/02/23/fairhope-jester/)
+Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
 You have to ask yourself, How can citizens of a community ignore the most basic common sense public policy. “Public Officials cannot use their office for personal gain.” This is a policy of the Ethics Commission as well, they do not enforce their own policy.
 
@@ -101,7 +101,7 @@ THE COMPLAINT AGAINST MR. BROWN INVOLVING THE EASTERN SHORE ART CENTER WILL BE S
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Councilman Brown also was all in on giving away 102 acres of municipal property.
 
@@ -113,7 +113,7 @@ Councilman Brown also was all in on giving away 102 acres of municipal property.
 
 The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for personal gain by securing the Fairhope Art Center…
 
-Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/2019/07/12/the-jester/)
+Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
 The Council almost got away with the give away, but do not go to sleep because the three BBB’s will sting ya and try this give away again, while you are sleeping.
 
@@ -125,7 +125,7 @@ The Council almost got away with the give away, but do not go to sleep because t
 
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council. The director of Weeks Bay…
 
-Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/2019/06/21/fairhope-un-armed-robbery/)
+Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
 ## PLEASE SIGN PETITION
 
@@ -137,7 +137,7 @@ Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://ripprepor
 
 If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose of any city property until the scheduled land use…
 
-Source: [rippreport.com/2019/06/26/fairhope-petition/](https://rippreport.com/2019/06/26/fairhope-petition/)
+Source: [rippreport.com/2019/06/26/fairhope-petition/](https://rippreport.com/fairhope-petition/)
 
 Fairhope City Council is a Catalyst Council, it does not listen or respect community involvement.
 
@@ -149,7 +149,7 @@ Fairhope City Council is a Catalyst Council, it does not listen or respect commu
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 Fairhope has had one City Council President in office for over 7 years, Jack Burrell. Burrell leads the dog and pony show.
 
@@ -161,6 +161,6 @@ Fairhope has had one City Council President in office for over 7 years, Jack Bur
 
 Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time… Source:
 
-Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/2019/05/10/dog-and-pony-show-2/)
+Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/dog-and-pony-show-2/)
 
 Burrell ,Boone and Brown, who have all used their office for personal gain, should not be trusted to make a 2.6 million dollar purchase, using tax money, without community involvement.

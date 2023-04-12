@@ -51,7 +51,7 @@ Medicaid expansion, gambling and medical marijuana legalization.
 
 It feels wrong to call it a “special” session. Maybe “other” session. Or “equally idiotic” session. But whatever you call it, there will be a special session inside a regular session in Alabama this year to hash out the dire situation with Alabama’s … um, roads. Yes, you read that correctly. Subscribe to APR's daily \[…\]
 
-Source: [www.alreporter.com/2019/03/06/opinion-the-state-of-this-state-is-as-usual-weird/](https://www.alreporter.com/2019/03/06/opinion-the-state-of-this-state-is-as-usual-weird/)
+Source: [www.alreporter.com/2019/03/06/opinion-the-state-of-this-state-is-as-usual-weird/](https://www.alreporter.com/opinion-the-state-of-this-state-is-as-usual-weird/)
 
 The Business Council of Alabama has it’s hands on the puppet strings. This tax is designed by Business lobbyists who will profit from the tax.
 

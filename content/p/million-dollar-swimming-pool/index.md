@@ -46,7 +46,7 @@ One name not mentioned is John Avant, however he is in the deep end of the pool.
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
 
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/2017/01/25/conflict-of-interest/)
+Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
 Boone has Catalyst tattooed on his ass, and his son Scott,”baby” Boone is the Catalyst chieftain. Now guess who contributes to Catalyst and put Boone in office? John Avant and all the people in the pool.
 
@@ -58,7 +58,7 @@ Boone has Catalyst tattooed on his ass, and his son Scott,”baby” Boone is th
 
 Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL North Ridge, LLC Entity ID Number 420 – 935 Entity Type Domestic Limited…
 
-Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/)
+Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
 “FOR SALE: BELLATON HOMES COME WITH A MILLION DOLLAR POOL
 

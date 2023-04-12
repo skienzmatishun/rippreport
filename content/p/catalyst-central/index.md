@@ -39,11 +39,11 @@ Some CATALYST candidates were elected, but many lost and CATALYST became the ide
 
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment.
 
-Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/2018/05/29/catalyst-judges/)
+Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
 
 Do not make the mistake of thinking they are weak, they are dangerous. CATALYST has representatives in the District Attorney’s office, Sheriff’s office and Baldwin County Judiciary.
 
-https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/
+https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/
 
 Fairhope is the central “political” base of Baldwin County, not Bay Minette. The money, judges, CATALYST, and some of the worst cockroach attorneys in Alabama, live in Fairhope. The entire Fairhope council has sworn allegiance to CATALYST. Fairhope Councilman Boone has been the official conduit to his son feeding him information that has been used to obstruct city business and prepare for the 2020 CATALYST takeover of Fairhope. The City Attorney and Municipal Judge/Developer are appointed by the Catalyst Council and carry water for CATALYST.
 
@@ -59,7 +59,7 @@ CATALYST is now running a CATALYST CANDIDATE for First Congressional District. T
 
 Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat. Only one is CATALYST. GUESS. The GOP hopefuls vying for the party’s nomination in Alabama’s…
 
-Source: [rippreport.com/2020/01/22/congressional-catalyst/](https://rippreport.com/2020/01/22/congressional-catalyst/)
+Source: [rippreport.com/2020/01/22/congressional-catalyst/](https://rippreport.com/congressional-catalyst/)
 
 On the county level County Commissioner Joe Davis and Jeb Ball ran under the CATALYST banner and true to form are now voting in CATALYST developers favor, not their constituents.
 

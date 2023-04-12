@@ -47,7 +47,7 @@ Baldwin County is out of control when it comes to growth however BCEDA, along wi
 
 I apologize that The Ripp Report missed the last two Wonderful Wednesday’s, we should be back on schedule by the first of the new year. Baldwin County has 14 municipalities, 14 Mayors…
 
-Please Read: [rippreport.com/2018/12/20/run-away-train/](https://rippreport.com/2018/12/20/run-away-train/)
+Please Read: [rippreport.com/2018/12/20/run-away-train/](https://rippreport.com/run-away-train/)
 
 Warm weather and inexpensive housing has brought thousands to Baldwin county with many thousands following. We can expect that our quality of life will be degraded, traffic will become a nightmare and schools will not be able to be built fast enough to keep up with demand.
 
@@ -63,7 +63,7 @@ The Ripp Report does hope a buyer for the Mega-Site comes along, however each ye
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
 
-Please Read: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/2018/01/17/dead-last/)
+Please Read: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
 The Mega Site purchase, 34 million plus lost interest and lost opportunity, probably represents closer to 50 million today. Baldwin County infrastructure has suffered and the late Baldwin County Commission, along with the School Board passed a 1% tax, without a public vote, to make up some much needed infrastructure money. We took money from the schools for needed county infrastructure while ignoring school infrastructure. How smart was that? Thank the Tax man Chris Elliott.
 
@@ -75,6 +75,6 @@ The Mega Site purchase, 34 million plus lost interest and lost opportunity, prob
 
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. ECONOMIC DEVELOPMENT In 2012 the Baldwin County…
 
-Please Read: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/2018/03/02/cattle-gate-mega-site/)
+Please Read: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
 The BCEDA is promoting the mega-site as being “shovel ready.” Guess what you need the shovel for!

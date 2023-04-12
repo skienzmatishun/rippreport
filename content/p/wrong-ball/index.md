@@ -56,7 +56,7 @@ Mr. Ball should not be allowed to hold the position of Director of BCSA, if Cata
 
 Qualifications for the mid-term elections in Baldwin County are final on February 9th at 5:00 pm. Baldwin County residents need to reject the incumbents and Catalyst candidates. QUALIFICATION…
 
-Source: [rippreport.com/2018/01/24/the-pot-and-the-kettle-are-black/](https://rippreport.com/2018/01/24/the-pot-and-the-kettle-are-black/)
+Source: [rippreport.com/2018/01/24/the-pot-and-the-kettle-are-black/](https://rippreport.com/the-pot-and-the-kettle-are-black/)
 
 Mr Burt becomes the exception in the effort to replace all four incumbent commissioners, with only one challenging candidate, who is Catalyst, the voters must vote Burt.
 
@@ -68,7 +68,7 @@ Mr Burt becomes the exception in the effort to replace all four incumbent commis
 
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their…
 
-Source: [rippreport.com/2017/11/03/say-goodbye-incumbents/](https://rippreport.com/2017/11/03/say-goodbye-incumbents/)
+Source: [rippreport.com/2017/11/03/say-goodbye-incumbents/](https://rippreport.com/say-goodbye-incumbents/)
 
 Baldwin County citizens should hold Mr. Burt and the other commissioners responsible and accountable for the Mega-Site Dump, as it is referred to in District one, however Mr Ball is not the answer.
 
@@ -80,6 +80,6 @@ Baldwin County citizens should hold Mr. Burt and the other commissioners respons
 
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. ECONOMIC DEVELOPMENT ECONOMIC DEVELOPMENT – BALDWIN…
 
-Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/2018/03/02/cattle-gate-mega-site/)
+Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
 Jeb is playing with the wrong balls.

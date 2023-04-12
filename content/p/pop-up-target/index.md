@@ -17,7 +17,7 @@ Jack Burrell is like a pop up target. He is involved in one controversy after th
 
 Hard to tell what the truth is these days but some information leaking out, if true, will set Fairhope’s hair on fire. A. Jack Burrell denied, on WACO radio, any party was held at his house. He…
 
-Source: [rippreport.com/2018/08/30/fact-and-fiction-a-b-c/](https://rippreport.com/2018/08/30/fact-and-fiction-a-b-c/)
+Source: [rippreport.com/2018/08/30/fact-and-fiction-a-b-c/](https://rippreport.com/fact-and-fiction-a-b-c/)
 
 The council, led by Jack have been discussing, in private and in secrete meetings, plans for the K-1 Center. Jack, without disclosing anything with the public, wrote a letter of intent to the School Board. The Mayor nor the public have been informed about any details or letter of intent.
 
@@ -51,7 +51,7 @@ Baldwin County Economic Development Alliance is aware of both projects, it will 
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
 
-Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/2018/01/17/dead-last/)
+Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
 BCEDA is funded by:
 

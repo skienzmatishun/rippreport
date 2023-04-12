@@ -28,7 +28,7 @@ Baldwin County leads the list of the most corrupt counties in Alabama, Elected o
 
 The Ripp Report is a non-profit organization, politically non-partisan. The focus of The Ripp Report is political corruption and exposing the elected officials involved. In the past we specialized on…
 
-Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/2019/01/02/exposure-2/)
+Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/exposure-2/)
 
 Former Baldwin County State Senator, Tripp Pittman who was appointed the “trustee” of BP funds awards himself $750,000.00 in contracts from Fairhope, with the assistance of the Mayor and no one is held accountable.
 
@@ -46,7 +46,7 @@ In Fairhope Councilman Burrell flies in a private jet of the municipal judge and
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Many Many Many more examples could be given pointing out corruption. Now they want to make corruption legal.
 

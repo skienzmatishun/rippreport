@@ -16,7 +16,7 @@ authors:
 
 Sally kicked Baldwin County’s ass, however we missed the Delta bullet. Poor Lake Charles is getting what some of us expected last Monday, round two of a direct hit by a hurricane. In Lake Charles they have picked up 1.5 million cubic yards of debris, so far, and they are now facing the possibility of doing it all over again.
 
-[https://www.washingtonpost.com/weather/2020/10/09/hurricane-delta-live-updates/](https://www.washingtonpost.com/weather/2020/10/09/hurricane-delta-live-updates/)
+[https://www.washingtonpost.com/weather/hurricane-delta-live-updates/](https://www.washingtonpost.com/weather/2020/10/09/hurricane-delta-live-updates/)
 
 Count your lucky stars Baldwin County and do not complain about debris pickup. The county as a whole lost thousands of trees and cleanup will take months, if not a year. Fairhope is doing a good job at 11,000 cu yards a day, now divide that into 1.5 million cubic yards and guess how many truck loads it will take to clean the county?
 

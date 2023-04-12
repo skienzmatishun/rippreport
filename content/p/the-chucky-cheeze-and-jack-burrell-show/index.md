@@ -34,7 +34,7 @@ Think of the message this will set for future employees that are fired! This has
 
 Fairhope City Council has decided to pay fired employees rather than going to court, so we the public never know the whole truth surrounding the firing in the first place. Remember it was the council…
 
-Source: [rippreport.com/2017/10/27/fairhope-lawsuits/](https://rippreport.com/2017/10/27/fairhope-lawsuits/)
+Source: [rippreport.com/2017/10/27/fairhope-lawsuits/](https://rippreport.com/fairhope-lawsuits/)
 
 The three B’s are also supporting and encouraging Pandora Heathcoat, a current employee, to file a lawsuit, they are just waiting on getting Sullivan paid first.
 
@@ -44,7 +44,7 @@ The three B’s are also supporting and encouraging Pandora Heathcoat, a current
 
 Today the phrase “to open Pandora’s box” means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open…
 
-Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/2017/05/31/pandoras-box/)
+Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/pandoras-box/)
 
 Come fly with me Burrell is still hiding behind the Alabama Unethical Commission and his activities at the Fairhope Airport. But we are not going to forget.
 
@@ -54,7 +54,7 @@ Come fly with me Burrell is still hiding behind the Alabama Unethical Commission
 
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport.
 
-Source: [rippreport.com/2017/10/25/bonus-money/](https://rippreport.com/2017/10/25/bonus-money/)
+Source: [rippreport.com/2017/10/25/bonus-money/](https://rippreport.com/bonus-money/)
 
 It is not about the firings it is about Burrell hiding in plain site and using any means possible to obstruct the Mayor. His obstruction is costing us all, he should step down from the Airport Authority and Council President.
 
@@ -64,6 +64,6 @@ It is not about the firings it is about Burrell hiding in plain site and using a
 
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp…
 
-Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/2017/10/20/job-with-benefits/)
+Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/job-with-benefits/)
 
 Wake up Fairhope we elected a new Mayor and have a dozen new employees dedicated to their jobs, let’s support them, not obstruct them.

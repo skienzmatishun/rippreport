@@ -17,7 +17,7 @@ The Catalyst Fairhope Council may be in it’s last days. The Council and the co
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 Fairhope please vote for a change of government and put a stop to the most obstructionist council in Fairhope history.
 
@@ -45,4 +45,4 @@ Now is the time for Fairhope to move forward, Please vote Oct.2nd for a CHANGE I
 
 FAIRHOPE CHANGE OF GOVERNMENT The Fairhope City Council is on a roundabout and doesn’t know where to exit. The present Council is an “at Large” council, they are not going to vote for change.
 
-Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/2018/09/24/hell-yea/)
+Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/hell-yea/)

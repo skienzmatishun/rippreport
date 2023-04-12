@@ -20,7 +20,7 @@ Mid-Term elections are less than 60 days away. Is Baldwin County going to elect 
 
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County…
 
-Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
+Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
 A vote for Elliott is a vote for CATALYST.
 
@@ -34,7 +34,7 @@ Elliott just barely squeaked by the better republican candidate, David Northcutt
 
 The plot thickens as runoffs approach – Lagniappe Mobile The plot thickens as runoffs approach – Lagniappe Mobile BaCo senate One race where the mudslinging is firmly out in the open is in Baldwin…
 
-Source: [rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/](https://rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/)
+Source: [rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/](https://rippreport.com/catalyst-candidate-elliott-panic-mode/)
 
 Let’s not forget those good ole christian values.
 
@@ -46,7 +46,7 @@ Let’s not forget those good ole christian values.
 
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values. Chris Elliott…
 
-Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/2018/05/18/catalyst-alabama-values/)
+Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/catalyst-alabama-values/)
 
 Best yet don’t forget the “behind closed door penny tax”
 
@@ -58,7 +58,7 @@ Best yet don’t forget the “behind closed door penny tax”
 
 Penny Sales Tax Debacle David Peterson: “I would like to clarify what transpired that led to the Penny Sales Tax being levied by the County Commission in January of 2017. When the BCBOE requested that…
 
-Source: [rippreport.com/2018/07/13/baldwin-county-citizens-for-government-accountability-cga/](https://rippreport.com/2018/07/13/baldwin-county-citizens-for-government-accountability-cga/)
+Source: [rippreport.com/2018/07/13/baldwin-county-citizens-for-government-accountability-cga/](https://rippreport.com/baldwin-county-citizens-for-government-accountability-cga/)
 
 A lot of republicans and independents are going to vote for Jason Fisher, the better candidate. Let’s get off the insanity track and do something different. The State Senate Seat 32, in the past, has been a joke and the people of Baldwin County paid the price. Let's not make the same mistake again.
 

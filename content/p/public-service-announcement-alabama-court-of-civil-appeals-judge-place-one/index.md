@@ -25,7 +25,7 @@ These are just a few of the articles about our Queen of the Court:
 
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment.
 
-Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/2018/05/29/catalyst-judges/)
+Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
 
 ## CATALYST QUEEN – REMEMBER FAMILY COURT
 
@@ -35,7 +35,7 @@ Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/2018
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/2018/04/27/catalyst-queen-remember-family-court/)
+Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
 ## BALDWIN COUNTY FAMILY COURT
 
@@ -45,7 +45,7 @@ Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https:
 
 Just when you thought there was no hope for the Baldwin County Family Court, Judge Thomason announces she is running for Court of Appeals position vacated by Craig Pittman who is retiring. Of course…
 
-Source: [rippreport.com/2017/09/20/baldwin-county-family-court/](https://rippreport.com/2017/09/20/baldwin-county-family-court/)
+Source: [rippreport.com/2017/09/20/baldwin-county-family-court/](https://rippreport.com/baldwin-county-family-court/)
 
 ## DIVORCE CORP
 
@@ -55,13 +55,13 @@ Source: [rippreport.com/2017/09/20/baldwin-county-family-court/](https://ripprep
 
 https://www.youtube.com/watch?v=REOuslPVZD4 Divorce corp. has many videos related to divorce, custody, visitation and money. Baldwin County fits perfectly into the picture portrayed by Divorce Corp.
 
-Source: [rippreport.com/2017/09/06/divorce-corp/](https://rippreport.com/2017/09/06/divorce-corp/)
+Source: [rippreport.com/2017/09/06/divorce-corp/](https://rippreport.com/divorce-corp/)
 
 ## EXPOSURE![](https://cdn.rippreport.com/wp-content/uploads/2016/11/ladyjustice.jpg)
 
 The Ripp Report and Baldwin County Legal Eagle had a record posting: BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY A total of 48,200 people reached through 112 shares, 109 likes, 28 comments and 9…
 
-Source: [rippreport.com/2016/11/02/exposure/](https://rippreport.com/2016/11/02/exposure/)
+Source: [rippreport.com/2016/11/02/exposure/](https://rippreport.com/exposure/)
 
 ## BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY
 
@@ -71,7 +71,7 @@ Source: [rippreport.com/2016/11/02/exposure/](https://rippreport.com/2016/11/02/
 
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree. They were so plentiful and consistent…
 
-Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/)
+Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
 ## FLIES IN THE OINTMENT
 
@@ -81,7 +81,7 @@ Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industr
 
 There is no arguing that Alabama is in very sad shape when it comes to the state’s political structure and the lack of any leadership. Alabama’s republican and democrat’s are in an abyss, wandering…
 
-Source: [rippreport.com/2016/10/14/flies-in-the-ointment/](https://rippreport.com/2016/10/14/flies-in-the-ointment/)
+Source: [rippreport.com/2016/10/14/flies-in-the-ointment/](https://rippreport.com/flies-in-the-ointment/)
 
 YOU can make a difference and vote for someone who has no baggage or dark closets.
 

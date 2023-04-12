@@ -46,7 +46,7 @@ The 70% who did not vote are even more responsible for the corruption.
 
 Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam…
 
-Source: [rippreport.com/2017/12/18/do-your-job-pass-the-budget/](https://rippreport.com/2017/12/18/do-your-job-pass-the-budget/)
+Source: [rippreport.com/2017/12/18/do-your-job-pass-the-budget/](https://rippreport.com/do-your-job-pass-the-budget/)
 
 The last Ripp Report advised everyone to watch Burrell and the budget.
 

@@ -9,7 +9,7 @@ authors:
 
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.
 
-[https://www.alreporter.com/2022/02/18/how-tallassee-went-crazy/](https://www.alreporter.com/2022/02/18/how-tallassee-went-crazy/)
+[https://www.alreporter.com/how-tallassee-went-crazy/](https://www.alreporter.com/2022/02/18/how-tallassee-went-crazy/)
 
 Politicians always deflect questions about corruption by saying another state is worse, or corruption is everywhere.
 
@@ -33,6 +33,6 @@ Why don’t they cover the ethics director?
 
 The media should be ashamed but they have no shame.
 
-https://rippreport.com/2021/08/06/where-is-the-media/
+https://rippreport.com/where-is-the-media/
 
 Lagniappe is the only publication who has the balls for investigative journalism and publishing the story regardless the stature of the individual. Alabama will not solve any of it’s problems without getting serious about prosecution of political corruption.

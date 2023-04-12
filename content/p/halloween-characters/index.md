@@ -47,7 +47,7 @@ Sen. Pittman your legacy is the BP dollars you stole from your constituents.
 
 The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political life, covered in BP oil, and a legacy that is as dark as the oil. Baldwin County should have a holiday marking the good…
 
-Source: [rippreport.com/2018/10/17/dont-let-the-door-hit-you-in-the-ass/](https://rippreport.com/2018/10/17/dont-let-the-door-hit-you-in-the-ass/)
+Source: [rippreport.com/2018/10/17/dont-let-the-door-hit-you-in-the-ass/](https://rippreport.com/dont-let-the-door-hit-you-in-the-ass/)
 
 PITTMAN, FAUST and DAVIS are all singing the same ole song and the have maintained office by straight ticket voting. Pittman says he believes in term limits and at the same time he has used his office for personal gain. DAVIS is indicted for the same reason and Joe Faust never said a word. He just kept carrying Pittman’s water.
 
@@ -71,7 +71,7 @@ A VOTE for Chris Elliott, to replace Pittman, will change nothing. Elliott is al
 
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business…
 
-Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/2018/06/29/catalyst-does-baldwin-county/)
+Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/catalyst-does-baldwin-county/)
 
 You have an option:
 

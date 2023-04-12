@@ -26,7 +26,7 @@ IN YOUR FACE
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
 Councilman Brown is following in the footsteps of Burrell.
 
@@ -38,7 +38,7 @@ Councilman Brown is following in the footsteps of Burrell.
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/2018/02/23/fairhope-jester/)
+Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
 As a result of his actions an Ethics Complaint has now been filed:
 

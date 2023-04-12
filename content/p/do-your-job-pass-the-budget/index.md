@@ -41,7 +41,7 @@ I bet Burrell and council will not bring that up during budget discussions.
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 The Fairhope City Budget is the responsibility of the City Council, the Mayor and the city employees and citizens are waiting for them to do their jobs.
 

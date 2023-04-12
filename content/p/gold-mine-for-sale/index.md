@@ -17,7 +17,7 @@ The Fairhope Conservation Easement is in limbo while Weeks Bay and the city coun
 
 In Fairhope, a conservation easement involving city property has become an issue for the entire county, all 14 municipalities. A conservation easement in a municipality is radically different than one…
 
-Source: [rippreport.com/2019/06/28/baldwin-county-municipal-alert-municipal-conservation-easement/](https://rippreport.com/2019/06/28/baldwin-county-municipal-alert-municipal-conservation-easement/)
+Source: [rippreport.com/2019/06/28/baldwin-county-municipal-alert-municipal-conservation-easement/](https://rippreport.com/baldwin-county-municipal-alert-municipal-conservation-easement/)
 
 Weeks Bay is now doing damage control due to the push back from Fairhope citizens, over 600. Today Weeks Bay had a lecture at the Graham Creek Nature Reserve. Invited were representatives of the 14 municipalities in Baldwin County. I could not make it but wish I were a fly on the wall. Weeks Bay is trying to convince municipalities in Baldwin county that they can manage municipal property better than the municipality.
 
@@ -33,7 +33,7 @@ The council wishes to give away the rights and control of 106 acres on one side 
 
 The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. True they also have no lease or title to the land.
 
-Source: [rippreport.com/2019/06/14/deliberate-distortion-or-twisting-of-meaning/](https://rippreport.com/2019/06/14/deliberate-distortion-or-twisting-of-meaning/)
+Source: [rippreport.com/2019/06/14/deliberate-distortion-or-twisting-of-meaning/](https://rippreport.com/deliberate-distortion-or-twisting-of-meaning/)
 
 It is all about planning and a land use plan that works with a comprehensive plan, not a conservation easement. The council wants the cart before the horse. They do not want to wait because they know no plan is going to give away 106 acres of municipal property.
 
@@ -45,7 +45,7 @@ It is all about planning and a land use plan that works with a comprehensive pla
 
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members.
 
-Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/2019/06/12/disposal/)
+Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/disposal/)
 
 Please sign the petition:
 

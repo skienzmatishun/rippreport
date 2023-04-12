@@ -35,11 +35,11 @@ Elliott is the epitome of the hypocritical politician that uses religion, guns, 
 
 By now you have seen the slick ads of Elliott and Tucker. However, when you read them you do not recognize any similarity between the written fluff and the candidates. These guys are dumping tens of…
 
-Source: [rippreport.com/2018/05/24/elliotttuckercatalyst-selling-your-soul/](https://rippreport.com/2018/05/24/elliotttuckercatalyst-selling-your-soul/)
+Source: [rippreport.com/2018/05/24/elliotttuckercatalyst-selling-your-soul/](https://rippreport.com/elliotttuckercatalyst-selling-your-soul/)
 
 Chris Elliott is a political animal whose VALUES are rooted with Catalyst, the worst of the worst.
 
-https://rippreport.com/2018/05/18/catalyst-alabama-values/
+https://rippreport.com/catalyst-alabama-values/
 
 Elliott forced the penny tax down the throat of Baldwin County, without any one voting on it.
 

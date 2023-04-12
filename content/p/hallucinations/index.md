@@ -33,7 +33,7 @@ The Alabama Press Association awarded Chuckee the award for an article that turn
 
 April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good…
 
-Source: [rippreport.com/2018/04/04/chuckie-cheeze/](https://rippreport.com/2018/04/04/chuckie-cheeze/)
+Source: [rippreport.com/2018/04/04/chuckie-cheeze/](https://rippreport.com/chuckie-cheeze/)
 
 One thing Chuckee loves to do while practicing journalism and attacking Fairhope and the Mayor is to call Fairhope City Hall for an official comment on his article’s. Problem is, he calls 10 minutes before publication, then he reports the Mayor had no comment.
 

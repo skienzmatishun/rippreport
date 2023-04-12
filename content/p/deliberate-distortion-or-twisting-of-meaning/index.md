@@ -19,7 +19,7 @@ The city is simply “disposing” of the property and any control of the proper
 
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members.
 
-Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/2019/06/12/disposal/)
+Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/disposal/)
 
 Why would the City of Fairhope “dispose” of prime city property?
 
@@ -31,7 +31,7 @@ Why would the City of Fairhope “dispose” of prime city property?
 
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is.
 
-Source: [rippreport.com/2019/05/31/three-strikes/](https://rippreport.com/2019/05/31/three-strikes/)
+Source: [rippreport.com/2019/05/31/three-strikes/](https://rippreport.com/three-strikes/)
 
 The Fairhope City Council has been striking out since they were elected. Citizens had better come together and prevent the council from “politically disposing” of 106 acres of City of Fairhope Property.
 

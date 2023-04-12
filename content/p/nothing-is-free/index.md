@@ -36,7 +36,7 @@ In Fairhope, Mayor Wilson is in favor of Elliott’s proposal. Of course the Cit
 
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City…
 
-Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/2019/02/06/communication/)
+Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/communication/)
 
 We are one of three states that allows this taxation without representation to exist. Captain Jack knows the good ole boys do not want to see any annexation, mainly because they know they would be voted out of office.
 

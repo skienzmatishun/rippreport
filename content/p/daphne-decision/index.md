@@ -31,7 +31,7 @@ Catalyst has its candidate in place with Johnathan Armstrong. When Joe Davis won
 
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the: PEOPLE POWER PEOPLE POWER | THE RIPP REPORT /
 
-Please Read: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/2018/03/21/i-quit-and-will-quit-again/)
+Please Read: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/i-quit-and-will-quit-again/)
 
 Catalyst wasted no time recruiting Armstrong, who works for Jeb Ball, newly elected to the same County Commission.
 
@@ -43,7 +43,7 @@ Catalyst wasted no time recruiting Armstrong, who works for Jeb Ball, newly elec
 
 Place one in the County Commissioner’s race is a classic example of getting what you wished for and it backfiring. Mr Frank Burt has solidly held this position since 1988, wow, 29 years. Mr.
 
-Please Read: [rippreport.com/2018/03/09/wrong-ball/](https://rippreport.com/2018/03/09/wrong-ball/)
+Please Read: [rippreport.com/2018/03/09/wrong-ball/](https://rippreport.com/wrong-ball/)
 
 Both Ball and Armstrong operate the Baldwin County Substance Abuse, a non profit formed by the infamous Judge Michelle Thomasson. The Ripp Report will be detailing this dubious money making scheme, set up by Judges and Lawyers, in the future.
 
@@ -55,7 +55,7 @@ Both Ball and Armstrong operate the Baldwin County Substance Abuse, a non profit
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Please Read: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/2018/04/27/catalyst-queen-remember-family-court/)
+Please Read: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
 The Mayor of Daphne is one of the three grandfathers of Catalyst, Elliott, Haygood and Stacy, that morphed into Catalyst once Elliott and Haygood were elected to office.
 
@@ -67,6 +67,6 @@ The Mayor of Daphne is one of the three grandfathers of Catalyst, Elliott, Haygo
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Please Read: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/)
+Please Read: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
 
 ## BEWARE DAPHNE, CATALYST, IS A POLITICAL CANCER AND THEY WANT CONTROL OF BALDWIN COUNTY.

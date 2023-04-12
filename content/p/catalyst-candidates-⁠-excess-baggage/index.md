@@ -33,7 +33,7 @@ The current Fairhope Council are all CATALYST and represent the worst city counc
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 A vote for Jack is not in the best interest of Fairhope citizens.
 
@@ -63,7 +63,7 @@ Sherry, Cant’s travel companion, supported Cant’s efforts to obstruct any tr
 
 Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor…
 
-Source: [rippreport.com/2016/09/02/showing-your-true-colors/](https://rippreport.com/2016/09/02/showing-your-true-colors/)
+Source: [rippreport.com/2016/09/02/showing-your-true-colors/](https://rippreport.com/showing-your-true-colors/)
 
 CATALYST is doubling down with Sherry, Jack and Cant, betting Fairhope is a bunch of dumb asses that will not be aware of their baggage.
 
@@ -81,7 +81,7 @@ Please vote for Jerry Carl July 14th, the runoff election for First Congressiona
 
 The last Monday night Fairhope City Council meeting and the work session were unnecessary long. Many people have begun to watch the council meeting in their homes, on Youtube. It is convenient and you…
 
-Source: [rippreport.com/2020/02/12/catalyst-kiss/](https://rippreport.com/2020/02/12/catalyst-kiss/)
+Source: [rippreport.com/2020/02/12/catalyst-kiss/](https://rippreport.com/catalyst-kiss/)
 
 CATALYST will do anything possible to regain Fairhope as their power base, including fixing elections, if the can.
 
@@ -93,4 +93,4 @@ CATALYST will do anything possible to regain Fairhope as their power base, inclu
 
 KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC Why did a judge suddenly seal a case against the City of Fairhope after details of the case were made public? The case is a land dispute…
 
-Source: [rippreport.com/2016/08/09/pay-off-and-election-fraud/](https://rippreport.com/2016/08/09/pay-off-and-election-fraud/)
+Source: [rippreport.com/2016/08/09/pay-off-and-election-fraud/](https://rippreport.com/pay-off-and-election-fraud/)

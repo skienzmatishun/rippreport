@@ -26,7 +26,7 @@ To dismiss a complaint and not answer any questions nor offer any explanation as
 
 The Ripp Report is no longer operating as a non profit. It will operate as a cooperation in the future. The change allows The Ripp Report more latitude when it comes to endorsing and supporting…
 
-Source: [rippreport.com/2017/10/19/ethics-comedians/](https://rippreport.com/2017/10/19/ethics-comedians/ )
+Source: [rippreport.com/2017/10/19/ethics-comedians/](https://rippreport.com/ethics-comedians/ )
 
 The Ethics Commission is suppose to be looking out for the citizens of the state. Instead we have a faux organization that protects the connected and convicts the weak. They have become the Unethical Commission.
 
@@ -50,7 +50,7 @@ The Alabama Ethics Commission, when mentioned in public meetings, is meet with l
 
 By Josh Moon Alabama Political Reporter The Alabama Ethics Commission has become a joke. Let’s all stop pretending that this five-man panel, along with its Executive Director and legal counsel, are any sort of a defense against corrupt public servants or a means to punish public corruption. They’re not. Not consistently. And not without an Read More
 
-Source: [www.alreporter.com/2017/08/01/alabama-ethics-commission-failing-us/](http://www.alreporter.com/2017/08/01/alabama-ethics-commission-failing-us/)
+Source: [www.alreporter.com/2017/08/01/alabama-ethics-commission-failing-us/](http://www.alreporter.com/alabama-ethics-commission-failing-us/)
 
 Some commission members are embarrassed about the blatant unethical behavior of it’s members.
 
@@ -78,7 +78,7 @@ Most recently Mr Burrell is defending the Fairhope sewer system saying the infra
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/ )
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/ )
 
 A job with benefits is city council president, liaison to the Airport Authority and Airport Authority Board member. This position allows you inside information about the Fairhope Airport Authority which will help if you want a good ole boy deal on an aircraft hanger to keep your jet. Free plane flights are provided by other board members, guaranteed, and all bids are controlled for “proper Placement.”
 

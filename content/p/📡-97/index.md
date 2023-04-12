@@ -19,7 +19,7 @@ We are here to speak to Whitney Hibbett Trotman (wife of an Auburn Football play
 
 [https://almonline.org/Assets/Files/LegalServices/OrientationConference2016Resources/The-Public-Purpose-Doctrine-2016-Orientation.pdf](https://almonline.org/Assets/Files/LegalServices/OrientationConference2016Resources/The-Public-Purpose-Doctrine-2016-Orientation.pdf)
 
-https://www.alreporter.com/2015/03/10/five-elected-officials-switch-to-gop/
+https://www.alreporter.com/five-elected-officials-switch-to-gop/
 
 [https://www.alabamaag.gov/](https://www.alabamaag.gov/)
 

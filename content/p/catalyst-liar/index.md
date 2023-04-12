@@ -38,7 +38,7 @@ Freaky Friday gives you the unfiltered truth:
 
 …interesting that all the complaints about Fly Creek and Publix were ignored by ADEM, Alabama Department of Environmental Management…
 
-Source: [rippreport.com/2020/05/22/catalyst-shit-creek/](https://rippreport.com/2020/05/22/catalyst-shit-creek/)
+Source: [rippreport.com/2020/05/22/catalyst-shit-creek/](https://rippreport.com/catalyst-shit-creek/)
 
 Be sure to read the Fairhope timeline of sewer upgrades and water quality, especially the first two years.
 
@@ -64,7 +64,7 @@ Talk about lying. Burrell never let voters know about his Police record which li
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 Let’s not forget the bid rigging at the airport and that he voted for council full family insurance.
 
@@ -78,11 +78,11 @@ Great negotiator, my ass.
 
 ### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
-[![](https://cdn.rippreport.com/jack-burrell.jpg)](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+[![](https://cdn.rippreport.com/jack-burrell.jpg)](https://rippreport.com/you-dont-know-jack/)
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 CATALYST is bad enough but Burrell represents the worst of CATALYST.
 

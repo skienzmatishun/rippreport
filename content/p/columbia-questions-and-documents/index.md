@@ -20,7 +20,7 @@ If the allegations did not have supporting documents I can see where the complai
 
 Their defense is to shoot the messenger, the concerned citizen.
 
-https://rippreport.com/2020/12/17/alabama-corruption-insurance/
+https://rippreport.com/alabama-corruption-insurance/
 
 Those of you that are followers of the Ripp Report know, first hand, of much more egregious actions by the Fairhope City Council. Everything from bid rigging, inside information, FEMA fraud, fraudulent bids and land fraud is on the present city council’s resume.
 

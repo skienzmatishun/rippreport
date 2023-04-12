@@ -24,7 +24,7 @@ Mr. Burrell was certain that Mayor Kant was going to win reelection and that his
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 The elected council has accomplished nothing in 10 months except to obstruct the Mayor and her efforts to do her job. Not one major issue has been addressed since being elected. They have hitched their wagon with Mr. Burrell who has become a clone of Mayor Kant and worked against the best interests of it’s citizens.
 
@@ -34,7 +34,7 @@ The elected council has accomplished nothing in 10 months except to obstruct the
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
 This is about FREE SPEECH and the rule of law. If Mr Burrell is allowed to use his elected office as a weapon to silence others and deny them their constitutional rights, then we are not living in a democracy.
 
@@ -48,7 +48,7 @@ Mr Burrell is scared to death of any thing I may say on the record, particularly
 
 The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes Mayor Karin Wilson and…
 
-Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/30/hi-jack-ed/)
+Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
 
  
 
@@ -60,7 +60,7 @@ Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/3
 
 Fairhope City Council President, Fairhope Authority board member and Fairhope Authority Board Member who is on two man committee to review bids at the airport, Jack Burrell is double down. He insists…
 
-Source: [rippreport.com/2016/12/21/double-down-and-i-call/](https://rippreport.com/2016/12/21/double-down-and-i-call/)
+Source: [rippreport.com/2016/12/21/double-down-and-i-call/](https://rippreport.com/double-down-and-i-call/)
 
  
 
@@ -72,7 +72,7 @@ Source: [rippreport.com/2016/12/21/double-down-and-i-call/](https://rippreport.c
 
 These are two articles that were covered by The Fairhope Times one year ago. These were not written by the Ripp Report. They are important because they show, prior to today’s airport controversy…
 
-Source: [rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/](https://rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/)
+Source: [rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/](https://rippreport.com/fairhope-airport-authority-flying-without-a-compass/)
 
 The Mayor has held her ground and has never wavered in support of the citizens, be it the Airport or Fly Creek or the sewer issues.
 
@@ -86,7 +86,7 @@ I am a combat veteran of Vietnam and a citizen of the United States and the Cons
 
 Well folks, as they often say, “You can’t make this stuff up!” Monday night’s city council meeting showed the true colors of council president “come fly with me” “Jack” Burrell. It was a tough night…
 
-Source: [rippreport.com/2017/07/26/jack-ass/](https://rippreport.com/2017/07/26/jack-ass/)
+Source: [rippreport.com/2017/07/26/jack-ass/](https://rippreport.com/jack-ass/)
 
 I have filed a Verified Notice Of Claim To The City Of Fairhope:
 
@@ -104,6 +104,6 @@ Mr. Burrell approved Airport funds to hire an attorney to investigate The Ripp R
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 So NOW you know the real Jack

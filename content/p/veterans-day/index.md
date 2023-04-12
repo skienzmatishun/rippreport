@@ -20,7 +20,7 @@ We are all ready to raise the flag several times a year in remembrance and respe
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 We, the citizens, have the responsibility to defend our rights and demand elected officials respect those rights, regardless of political party. We have a right to question, and expect an answer, of elected officials without having our rights threatened, denied or silenced.
 

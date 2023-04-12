@@ -51,7 +51,7 @@ Congressman Mo Brooks: Not as bad as Luther or Moore but a career politician who
 
 Congressman Mo Brooks (R-AL) said he will give up his candidacy for the Senate and calls for other candidates to drop out of the race if President Trump fires US Attorney General Jeff Sessions.
 
-Source: [www.cnn.com/videos/politics/2017/07/28/will-give-sessions-seat-mo-brooks-sot-newday.cnn](http://www.cnn.com/videos/politics/2017/07/28/will-give-sessions-seat-mo-brooks-sot-newday.cnn)
+Source: [www.cnn.com/videos/politics/2017/07/28/will-give-sessions-seat-mo-brooks-sot-newday.cnn](http://www.cnn.com/videos/politics/will-give-sessions-seat-mo-brooks-sot-newday.cnn)
 
 Sen Trip Pittman:
 
@@ -75,7 +75,7 @@ When it comes to compassion he has none, but he’s a “Christian”.
 
 ## Pittman holds back autism bill, threatening session
 
-![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery/2014/04/05//1396731877012-autism13.jpg)
+![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery//1396731877012-autism13.jpg)
 
 Chairman refuses to report bill out after approval; supporters warn they'll filibuster or move to adjourn
 
@@ -91,7 +91,7 @@ The only other person who is active in the race on the republican side is Dr. Ra
 
 By Josh Moon Alabama Political Reporter U.S. Senate candidate Randy Brinson on Monday called for Gov. Kay Ivey to require the Alabama Ethics Commission to hold a special meeting to take up allegations that Sen. Luther Strange violated campaign finance laws. Brinson held a brief press conference outside of the Alabama Capitol building before entering Read More
 
-Source: [www.alreporter.com/2017/08/01/brinson-asks-governor-call-ethics-commission-meeting/](http://www.alreporter.com/2017/08/01/brinson-asks-governor-call-ethics-commission-meeting/)
+Source: [www.alreporter.com/2017/08/01/brinson-asks-governor-call-ethics-commission-meeting/](http://www.alreporter.com/brinson-asks-governor-call-ethics-commission-meeting/)
 
 [http://local15tv.com/news/election/candidates/know-your-candidates-randy-brinson](http://local15tv.com/news/election/candidates/know-your-candidates-randy-brinson)
 

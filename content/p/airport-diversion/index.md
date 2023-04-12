@@ -24,7 +24,7 @@ Councilman Brown in his letter states that:
 
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council’s attorney. This is a…
 
-Source: [rippreport.com/2017/07/07/hate/](https://rippreport.com/2017/07/07/hate/)
+Source: [rippreport.com/2017/07/07/hate/](https://rippreport.com/hate/)
 
 “The Ethics complaint against Council President Jack Burrell and Airport board member, Mr. Ray Hix, have both been 'ruled baseless.'" This is yet another attempt to quash the FACT that both men ARE under investigation, which is on going. Chucky and the am lady never ask jack about his free flights, ethics complaint or his role in securing the airport bid for board member Hix.
 
@@ -66,6 +66,6 @@ Investigate this:
 
 The Fairhope City Council should be recognized for it’s political spin. City council members, Burrell, Boone and Brown, the busy bees, scurried to Bone and Barrel restaurant immediately after the…
 
-Source: [rippreport.com/2017/07/14/investigations/](https://rippreport.com/2017/07/14/investigations/)
+Source: [rippreport.com/2017/07/14/investigations/](https://rippreport.com/investigations/)
 
 CHUCKY WHAT CHEESE YOU PRINT!

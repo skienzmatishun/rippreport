@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=7tfBjn\_E63I
 
 The County Commission should intervene and insist that the Major Crimes Division not be charged with investigating fellow officers.
 
-https://rippreport.com/2022/09/19/the-law-enforcement-narrative/
+https://rippreport.com/the-law-enforcement-narrative/
 
 This podcast covers the death of 8 individuals killed by BCSO and Mr O J French of Bay Minette.
 

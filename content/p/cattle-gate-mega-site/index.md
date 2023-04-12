@@ -17,7 +17,7 @@ The Ripp Report has written about the Baldwin County Mega-site numerous times. I
 
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. South Alabama Mega Site – Shovel Ready in…
 
-Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/2017/05/17/economic-development-baldwin-county-style/)
+Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
 
 Then, in February, we got a little more serious about the coverage due to mid term elections. The commissioners should be held responsible and incumbents voted out over their failure to generate any interest in the Mega-site.
 
@@ -27,7 +27,7 @@ Then, in February, we got a little more serious about the coverage due to mid te
 
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their…
 
-Source: [rippreport.com/2017/11/03/say-goodbye-incumbents/](https://rippreport.com/2017/11/03/say-goodbye-incumbents/)
+Source: [rippreport.com/2017/11/03/say-goodbye-incumbents/](https://rippreport.com/say-goodbye-incumbents/)
 
 Now you would think the commissioners would be a little sensitive of all the critical comments. No way they are like ducks in water, just remain silent and most voters will not realize 32 million is in an undeveloped piece of land, cattle could not live on.
 
@@ -37,7 +37,7 @@ Then in January the commissioners and Baldwin County Economic Development Allian
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
 
-Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/2018/01/17/dead-last/)
+Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
 Now folks you would think the commissioners and those hot shot salesmen of the alliance would have a new and dynamic sale plan. Not a chance, presently there is NO SIGN at the mega site. The worst real estate salesperson in the world would at least maintain a sign on the property. Maybe they took it down due to overwhelming interest? Or maybe it rotted away and no one knows it! It was a rotten deal.
 

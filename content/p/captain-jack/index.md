@@ -19,7 +19,7 @@ The notice covers many issues and the final draft, particularly the issue of lea
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Please Read: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Please Read: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Have no fear Fairhope, the people involved with, You Don’t Know Jack, are now going to set the rules for everyone else. Council President Burrell, the City liaison on the board, showed up late, without pen, paper or notes, which he had to borrow, but he let Airport Authority Chairman Joe McEnerney know who was Captain.
 
@@ -39,6 +39,6 @@ Captain Jack has dominated the position of Council President, going on 7 years. 
 
 Last week we featured, YOU DON’T KNOW JACK, this week we peel back the onion a little more. What we do know is that a lawyer paid a lawyer to write a letter to lawyers, Ethics Commission…
 
-Please Read: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/2016/12/02/fairhope-airport-un_authorized/)
+Please Read: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/fairhope-airport-un_authorized/)
 
 Captain Jack needs to be demoted to private.

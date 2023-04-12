@@ -38,7 +38,7 @@ The HR director, one in the same seeking 100,000 dollars for alleged assault has
 
 Today the phrase “to open Pandora’s box” means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open…
 
-Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/2017/05/31/pandoras-box/)
+Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/pandoras-box/)
 
 The coverage by Gulf Coast News, The Courier, is being influence by the likes of Catalyst and Jack Burrell, certain lawyers and judges as well as supported by county commissioners. Fairhope has been controlled by the GOB’s for over 40 years they are in panic mode. If they lose Fairhope they lose the county commission and the mid term elections will result in many elected officials defeated.
 
@@ -52,4 +52,4 @@ What irony that GOB’s own greed and corruption for unbridled development produ
 
 Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and…
 
-Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/)
+Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/caught-trap-like-rat/)

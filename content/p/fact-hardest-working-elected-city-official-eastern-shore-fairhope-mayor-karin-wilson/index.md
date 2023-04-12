@@ -37,11 +37,11 @@ It is embarrassing to be rated as a dirty beach but maybe it will wake up the Ea
 
 ### There's 'poop in the water' at America's dirtiest beaches. Is yours on the list?
 
-![](https://www.gannett-cdn.com/presto/2019/07/23/USAT/2faecc7a-66ae-46f3-8513-0e633a437bb8-IMG_1069.jpg?crop=1955,1100,x931,y989&width=3200&height=1680&fit=bounds)
+![](https://www.gannett-cdn.com/presto/USAT/2faecc7a-66ae-46f3-8513-0e633a437bb8-IMG_1069.jpg?crop=1955,1100,x931,y989&width=3200&height=1680&fit=bounds)
 
 A new report lists beaches in 29 coastal and Great Lakes states prone to bacteria counts that can make you sick.
 
-Source: [www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/](https://www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/)
+Source: [www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/](https://www.usatoday.com/story/news/nation/americas-dirtiest-beaches-prone-bacteria-report/1801372001/)
 
 FACT :Mayor Karin Wilson of Fairhope, Alabama
 

@@ -16,7 +16,7 @@ authors:
 
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 
-https://lagniappemobile.com/fairhope-discusses-revisions-to-drastic-park-proposal/ It was Fairhope’s big lie and the believers in false facts and rumors, won out. https://rippreport.com/2021/01/15/the-big-lie-%f0%9f%a4%a5/
+https://lagniappemobile.com/fairhope-discusses-revisions-to-drastic-park-proposal/ It was Fairhope’s big lie and the believers in false facts and rumors, won out. https://rippreport.com/the-big-lie-%f0%9f%a4%a5/
 
 The lies were amplified by the newly elected council that is under the command of CATALYST/Scott Boone Consulting. Citizens have lost their voice to a political organization who directs the council and mayor. Jack Burrell, the great negotiator, is going to rob Fairhope from an opportunity to move forward on a project that would have benefited all the citizens of Fairhope.
 
@@ -32,7 +32,7 @@ Howelling Raines gets the credit for the most outlandish lies. A part time resid
 
 Howlimg Rains was like a bad fart, nobody wanted to smell it so they just held their noses and hid.
 
-https://rippreport.com/2020/11/21/howling-rains-passing-gas/
+https://rippreport.com/howling-rains-passing-gas/
 
 The entire project has been gutted and all the previous public comments trashed. The swimming area was very popular in the first 18 months but that changed in 2 weeks. The jetty was also thrown out as well. The jetty had a multiple purpose’s, protection of the infrastructure and a recreation area for kids, canoes, and kayaks. The same jetty system most likely saved the Grand Hotel from flooding during the last two hurricanes.
 

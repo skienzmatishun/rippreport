@@ -18,7 +18,7 @@ authors:
 
 The City of Fairhope’s 6.2 million dollar waterfront project became a political hot potato during the last municipal election. Politicians put their feet in their mouths and now are trying to spin a new narrative. The new narrative will be what Mayor Sullivan and the, other Mayor, Jack Burrell want.
 
-https://rippreport.com/2020/11/21/howling-rains-passing-gas/
+https://rippreport.com/howling-rains-passing-gas/
 
 The Ripp Report has filed a foia, freedom of information request, for the past results of a charrette where 164 participants, and the 570 people participated. We also requested a copy of the 6.2 million dollar grant. This information originated with the Wilson administration. Please be aware that this project spanned over several years and the public comments were gleamed from multiple public events, over several months.
 
@@ -32,7 +32,7 @@ Point being what some people are calling historic bluffs are cut back banks from
 
 Fairhope has been hammered by the general public and health care workers over how the city has handled the covid virus.
 
-https://rippreport.com/2020/11/27/jackass-jack/
+https://rippreport.com/jackass-jack/
 
 Maybe they have learned a lesson because now they have been forced to cancel the Christmas Parade.
 
@@ -40,7 +40,7 @@ To date, 278,000 lives lost and 14.3 million cases, in the United States. 3157 l
 
 Scientists, Doctors, CDC and World Health Organization have been making predictions for months and each month they are proven right. Yet we have people that still will not even wear a mask.
 
-https://rippreport.com/2020/11/18/take-a-chance/
+https://rippreport.com/take-a-chance/
 
 When you see someone NOT wearing a mask then you know that person has no respect for others, especially our health care workers. When you see a Mayor, Councilperson or Council President Not wearing a mask then you know your city has a lack of leadership.
 

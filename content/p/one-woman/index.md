@@ -36,7 +36,7 @@ One women is:
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story. FAIRHOPE, Ala.
 
-Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/2018/11/30/barstool/)
+Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
 The VICTIM, Paula DiNardi, in this case had to endure several postponements of the case and over 8 hours in the Fairhope Municipal Court, only to be victimized again. Paula was the latest victim of McSharry and has had her life turned upside down since the incident.
 
@@ -84,7 +84,7 @@ Since Mr Beck appears to be ignorant about what the Ripp Report is all about we 
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 ## EXPOSURE
 
@@ -94,7 +94,7 @@ Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/los
 
 The Ripp Report is a non-profit organization, politically non-partisan. The focus of The Ripp Report is political corruption and exposing the elected officials involved. In the past we specialized on…
 
-Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/2019/01/02/exposure-2/)
+Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/exposure-2/)
 
 It is women like Paula DiNardi that make a difference.
 

@@ -38,7 +38,7 @@ If you’ve been here for 75 years and are upset about development, that’s und
 
 If you were here when Scenic 98 was still actual 98 or when 83 was 83 and not the Baldwin Beach Express, you’ve got a legitimate beef. ... Otherwise, sit down and shut the hell up because you are a part of the problem you’ve been bitching about.
 
-Source:[https://thebaldwininsider.wordpress.com/2017/03/31/a-developing-dilemma/](https://thebaldwininsider.wordpress.com/2017/03/31/a-developing-dilemma)
+Source:[https://thebaldwininsider.wordpress.com/a-developing-dilemma/](https://thebaldwininsider.wordpress.com/2017/03/31/a-developing-dilemma)
 
 ## Who is The Baldwin Insider?
 
@@ -48,7 +48,7 @@ We are a collective of Baldwin County citizens who are tired of how things are b
 
 We are...Spartacus
 
-Source: [https://thebaldwininsider.wordpress.com/2017/03/29/who-is-the-baldwin-insider/](https://thebaldwininsider.wordpress.com/2017/03/29/who-is-the-baldwin-insider/)
+Source: [https://thebaldwininsider.wordpress.com/who-is-the-baldwin-insider/](https://thebaldwininsider.wordpress.com/2017/03/29/who-is-the-baldwin-insider/)
 
 Then be sure to read and watch the video:
 

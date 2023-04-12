@@ -51,7 +51,7 @@ THAT IS ALL FAKE NEWS
 
 First let me announce that no longer will the Ripp Report accept comments from Jester 666 and the Truth teller, most likely one in the same. Their comments add nothing to the subjects at hand and the…
 
-Source: [rippreport.com/2017/08/09/fake-news-and-retaliation/](https://rippreport.com/2017/08/09/fake-news-and-retaliation/)
+Source: [rippreport.com/2017/08/09/fake-news-and-retaliation/](https://rippreport.com/fake-news-and-retaliation/)
 
 Chuckee only cover one side of the lawsuits filed by former employees of Fairhope. He also did not cover the fact that the Catalyst Fairhope City Council assisted the former employees in suing the City ,for the sole purpose of humiliating the Mayor. Chuckee is on call for Catalyst.
 
@@ -105,7 +105,7 @@ Three Bee’s have been stinging Fairhope long enough: Its YOUR tax dollars.
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 ## A NO VOTE SUPPORTS SPECIAL INTEREST CATALYST AND THE GOOD OLE BOYS
 

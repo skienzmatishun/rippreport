@@ -15,7 +15,7 @@ Joshua Brown, one of the BMJL organizers, said the police account makes no sense
 
 “We just want transparency. We want justice. We want a thorough investigation. And we’ll see where everything lies,” Brown said.
 
-https://rippreport.com/2022/08/25/cameras/
+https://rippreport.com/cameras/
 
 “The Baldwin County Major Crimes Unit of the Sheriff’s Office is conducting an investigation.”
 

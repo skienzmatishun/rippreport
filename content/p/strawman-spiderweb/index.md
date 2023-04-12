@@ -13,7 +13,7 @@ authors:
 
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 
-https://rippreport.com/2020/05/29/catalyst-train-wreck/
+https://rippreport.com/catalyst-train-wreck/
 
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting.
 
@@ -47,7 +47,7 @@ Now look at the spider graph and you will see how all these people in one lawsui
 
 Boone has already been linked to LLC’s that show a conflict of interest, yet he voted as a councilman to assist the developers and John Avant, behind his constituents back.
 
-https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/
+https://rippreport.com/investigative-reporting-business-entity-records/
 
 The CATALYST council turned a blind eye to Boone’s conflicts of interests and now we see his connections to the “Strawmam” case.
 

@@ -55,11 +55,11 @@ has used his elected office to garner many a contract within Baldwin County. He 
 
 ## Pittman holds back autism bill, threatening session
 
-![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery/2014/04/05//1396731877012-autism13.jpg)
+![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery//1396731877012-autism13.jpg)
 
 Chairman refuses to report bill out after approval; supporters warn they'll filibuster or move to adjourn
 
-Source: [www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/](http://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/)
+Source: [www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/](http://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/autism-bill-passes-senate-committee-after-large-changes/101514376/)
 
 Folks have you ever asked yourself “Who elected these people, how did they get elected?” Well, we the citizens are responsible for that. None of the above is really much of a choice.
 

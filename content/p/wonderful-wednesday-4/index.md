@@ -15,7 +15,7 @@ The recent US Senate primary statistics indicate 84% of Fairhope eligible voters
 
 Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote. Alabama Senate special election results: Who will succeed Jeff Sessions? Voting results from…
 
-Source: [rippreport.com/2017/08/18/look-in-the-mirror/](https://rippreport.com/2017/08/18/look-in-the-mirror/)
+Source: [rippreport.com/2017/08/18/look-in-the-mirror/](https://rippreport.com/look-in-the-mirror/)
 
 That explains why Fairhope is as political dysfunctional as it is. The present city council has accomplished absolutely nothing, except to obstruct the Mayor. The citizens are paying the price for this obstruction by major infrastructure projects that have been slowed down or have yet to begin.
 
@@ -57,4 +57,4 @@ The 84% in Fairhope better wake the F up, Burrell is the architect of the obstru
 
 Jack, come fly with me, has more passengers. The Courier, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, “come fly with me” Jack to cover the most mundane of…
 
-Source: [rippreport.com/2017/07/19/airport-diversion/](https://rippreport.com/2017/07/19/airport-diversion/)
+Source: [rippreport.com/2017/07/19/airport-diversion/](https://rippreport.com/airport-diversion/)

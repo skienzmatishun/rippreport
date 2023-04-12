@@ -17,7 +17,7 @@ Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only
 
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters. Election Results Election Results Source: www.fox10tv.com/category/298869/election-results Catalyst…
 
-Source: [rippreport.com/2018/06/06/catalyst-held-back/](https://rippreport.com/2018/06/06/catalyst-held-back/)
+Source: [rippreport.com/2018/06/06/catalyst-held-back/](https://rippreport.com/catalyst-held-back/)
 
 The average age of voters was 61. WOW think about that! Over 76% of the voters did not vote and with an average age of 61. It is more than apparent that most people below the age of 60 just do not give a damn about politics. With voter participation that low, Baldwin County is ripe for political corruption which leads to loss of quality of life and property values.
 
@@ -29,7 +29,7 @@ The average age of voters was 61. WOW think about that! Over 76% of the voters d
 
 Submitted by: Chris Warner Dear Editor: The citizens of Myrtle Beach, South Carolina and Destin, Florida were bushwhacked. They never saw it coming. Or did they? Ongoing costs of residential growth…
 
-Source: [rippreport.com/2018/06/07/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/)
+Source: [rippreport.com/2018/06/07/paradise-lost/](https://rippreport.com/paradise-lost/)
 
 If that is not embarrassing enough, this is. The ballot was a single page with the four commission seats on the back of the ballot. District one was Burt and Ball with Ball winning with 1016 votes. In district two, Davis and Lake, Davis won by 1314 and district four, Gruber and Johnson, Gruber won by 675.
 
@@ -55,7 +55,7 @@ In the primary Catalyst won three of 8 positions they sponsored. They lost 2 and
 
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters. Election Results Election Results Source: www.fox10tv.com/category/298869/election-results Catalyst…
 
-Source: [rippreport.com/2018/06/06/catalyst-held-back/](https://rippreport.com/2018/06/06/catalyst-held-back/)
+Source: [rippreport.com/2018/06/06/catalyst-held-back/](https://rippreport.com/catalyst-held-back/)
 
 JULY 17th is the RUNOFF PLEASE VOTE
 

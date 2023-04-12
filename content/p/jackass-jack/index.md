@@ -22,7 +22,7 @@ The Mayor of Fairhope and the City Council got hammered by the public, medical p
 
 I must say that it was quite satisfying to see such a response from a community that often is not paying attention to city affairs.
 
-https://rippreport.com/2020/11/18/take-a-chance/
+https://rippreport.com/take-a-chance/
 
 Baldwin County Doctors and Nurses are advising the general public about masks, social distancing, and to avoid large public gatherings.
 
@@ -30,7 +30,7 @@ Our school teachers and administrations are very concerned about the Covid cases
 
 Schools may close after Thanksgiving until 2021 if cases keep rising.
 
-https://rippreport.com/2020/03/12/fairhope-council-asleep-at-the-wheel/
+https://rippreport.com/fairhope-council-asleep-at-the-wheel/
 
 Former Mayor Wilson took the unpopular decision to put public safety and health before money:
 
@@ -58,11 +58,11 @@ Now as a bullshit artist to the uninformed he gets A.
 
 Jack was re-elected without one person asking him publicly to explain his police record.
 
-https://rippreport.com/2018/05/23/police-report/
+https://rippreport.com/police-report/
 
 Jack is infamous for one blunder after another and most people really do not know Jack.
 
-https://rippreport.com/2016/11/25/you-dont-know-jack/
+https://rippreport.com/you-dont-know-jack/
 
 Mayor Sullivan is going to find out fast that she needs to have her back against the wall when dealing with Jackass Jack. Let’s pray the lighting of the trees does not cause people to contract covid.
 
@@ -72,7 +72,7 @@ Mayor Sullivan and Jackass Jack are now going to decide how they want to spend $
 
 Let’s hope the people that condemned the Mayor and Jack over the lighting of the trees are paying attention to the Waterfront project.
 
-https://rippreport.com/2020/11/21/howling-rains-passing-gas/
+https://rippreport.com/howling-rains-passing-gas/
 
 This project, $6.2 million, is driven by citizen participation. Hundreds have already filled out surveys and attended meetings. However, recent quotes by the Mayor and Jackass Jack are totally contrary to the data already received by the surveys. The swimming area and jetty were overwhelming endorsed by the public.
 
@@ -80,4 +80,4 @@ However, since the election, Jack and the Mayor have been making statements that
 
 Pay Attention Fairhope Jackass Jack is the worst negotiator ever and if Mayor Sullivan does not separate herself from him, he will take her down while he pisses away $6.2 million.
 
-https://rippreport.com/2017/08/02/alabama-ethics-a-political-tool/
+https://rippreport.com/alabama-ethics-a-political-tool/

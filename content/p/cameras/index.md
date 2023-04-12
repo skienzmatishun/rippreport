@@ -37,7 +37,7 @@ https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inma
 
 "She said they are calling for Baldwin County to release the security and bodycam videos that may have captured the incident and are asking why authorities have not taken any action against the multiple perpetrators, as far as they know”.
 
-https://rippreport.com/2022/08/16/get-out-of-jail-card/
+https://rippreport.com/get-out-of-jail-card/
 
 “In an order filed April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack, but denied to grant the defendants’ broader motion for summary judgment. Reviewed “in a light most favorable to the plaintiff,” Cassady wrote, videotapes, audio, and witness statements from the incident leave cause to believe a jury could find that Hunady violated Victor’s constitutional rights, while Mack failed to adequately train his deputies to respond to mental health crises.”
 
@@ -49,7 +49,7 @@ By Gabriel Tynes | gabe@lagniappemobile.com
 
 The high court ruled the records Lagniappe sought, including dash and body camera footage from the shooting, are all exempted from open records law due to their "investigative" nature, even though the investigation in the shooting has been closed
 
-https://rippreport.com/2021/10/03/%f0%9f%93%a1102%f0%9f%9a%93/
+https://rippreport.com/%f0%9f%93%a1102%f0%9f%9a%93/
 
 “This week we focus our attention on the Unimaginable Decision from the Alabama Supreme Court that guts the Open Records Act related to body cam footage or any other investigative material in the possession of Law Enforcement…even after the investigation is concluded”.
 
@@ -69,7 +69,7 @@ No drag marks were found on the body and it was declared a suicide immediately.
 
 The rumors surrounding this case are the only information available because the case was quickly sealed. This case was sealed without it ever being reported Mr. Little was a confidential informant for the Bay Minette police.
 
-https://rippreport.com/2022/03/14/deal-with-the-devil/
+https://rippreport.com/deal-with-the-devil/
 
 Baldwin County has it’s own wrongfully convicted man, Murray “Bubba” Lawrence. His conviction defies logic, evidence, and any basic investigation. Most amazing is the fact that the prosecution, defense, jury, nor judge, ever established any timeline. The timeline established by the 2000 plus page transcript, establishes a timeline that proves Mr. Lawrence had multiple witness alibi’s. How this was overlooked is highly suspicious.
 
@@ -77,7 +77,7 @@ Baldwin County has it’s own wrongfully convicted man, Murray “Bubba” Lawre
 
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeil. The murderer, was threatened with the death penalty if he did not give up an accomplice.
 
-https://rippreport.com/2021/10/01/sheriff-huey-boss-mack-secret-police/
+https://rippreport.com/sheriff-huey-boss-mack-secret-police/
 
 “This is a very long post however it documents the abuse of power and a police department running without a throttle, any accountability or transparency. The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.”
 

@@ -27,7 +27,7 @@ Some strongly feel that the Airport Authority needs a face lift, like taking Cap
 
 Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”. The notice covers many issues and the final draft, particularly the issue of leases…
 
-Source: [rippreport.com/2019/01/11/captain-jack/](https://rippreport.com/2019/01/11/captain-jack/)
+Source: [rippreport.com/2019/01/11/captain-jack/](https://rippreport.com/captain-jack/)
 
 The Airport Authority, piloted by Captain Jack is again playing games when it comes to leases of hangers at the Airport. The Authority Board President Joe McEnerney, was soundly reminded by Captain Jack that he is at the controls.
 
@@ -51,7 +51,7 @@ After the defeat of former Fairhope Mayor Can’t, in 2016, documents were prese
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
 Of course their was no accountability because Captain Jack was at the controls.
 
@@ -63,7 +63,7 @@ Of course their was no accountability because Captain Jack was at the controls.
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 NO ACCOUNTABILITY NO TRANSPARENCY Please read the documents and you will see why the Ripp Report still has it’s 5000.00 dollars
 
@@ -75,7 +75,7 @@ NO ACCOUNTABILITY NO TRANSPARENCY Please read the documents and you will see why
 
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents…
 
-Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/2017/02/08/5000-00-cash-reward/)
+Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/5000-00-cash-reward/)
 
 The Authority receives 7cents on the dollar as a fuel income, from lease holders. Here is the kicker, no one has any record of what is being used. Some board members say the fuel used is a personal business and the board has no right to that information. The Fixed Based Operator does not share his info on gallons consumed, with the Authority. So how do you pay your bill? Do you just send the Authority
 
@@ -91,4 +91,4 @@ Also ask him to explain the Police Report that he never revealed during the last
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)

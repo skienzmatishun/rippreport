@@ -19,7 +19,7 @@ Baldwin County has been run by old white men, all politically connected to one g
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 Mayor KARIN WILSON shattered the glass ceiling by becoming the first female Mayor in Fairhope’s history and she has battled a Catalyst Council that cannot even deliver the budget on time. The council has done everything in their power to obstruct the Mayor. The original plan of making her quit, only solidified her determination of representing Fairhope as a Public Servant.
 
@@ -39,7 +39,7 @@ County Commission District 2, AMBER SMITH is running against Joe Davis. Davis is
 
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the: PEOPLE POWER PEOPLE POWER | THE RIPP REPORT /
 
-Source: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/2018/03/21/i-quit-and-will-quit-again/)
+Source: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/i-quit-and-will-quit-again/)
 
 AMBER SMITH would be beholding to no one except her constituency. A woman who has answered the calling of Public Service. A vote for AMBER is a vote for change, a vote for Joe is a vote for Catalyst and the good ole boys.
 

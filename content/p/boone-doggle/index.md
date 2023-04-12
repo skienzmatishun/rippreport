@@ -17,7 +17,7 @@ Well if you read the wonderful Wednesday this week,
 
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple...
 
-Source: [rippreport.com/2017/01/11/bit-dogs-bark-first/](https://rippreport.com/2017/01/11/bit-dogs-bark-first/)
+Source: [rippreport.com/2017/01/11/bit-dogs-bark-first/](https://rippreport.com/bit-dogs-bark-first/)
 
 you realize that Mr Boone, our councilman, has many conflicts of interest that he has failed to share with the citizens. Mr. Boone is the epitome of the good ole boy who has convinced himself that he is entitled to any little side deal or llc. that may come his way.
 

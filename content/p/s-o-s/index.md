@@ -35,7 +35,7 @@ https://lagniappemobile.com/fairhope-pier-and-park-improvements-approved-with-co
 
 Please remember The Ripp Report predicted these problems.
 
-https://rippreport.com/2021/01/24/redneck-renovations/
+https://rippreport.com/redneck-renovations/
 
 The [medical marijuana](https://rippreport.com/tag/medical-cannabis/) bill looks as if it is going to pass, it is headed for Governor Ivy’s signature.
 

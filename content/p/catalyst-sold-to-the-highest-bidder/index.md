@@ -26,7 +26,7 @@ Chris Elliott is in full blown attack mode against his opponent David Northcutt.
 
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business, in what…
 
-Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/2018/06/29/catalyst-does-baldwin-county/)
+Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/catalyst-does-baldwin-county/)
 
 Elliott, whose wife works for Sheriff’s Department, has the backing of Sheriff Hoss Mack. Hoss needs Elliott because he knows David Northcutt would move to change the qualifications for Sheriff, to be more fair. Hoss still has Pittman oil all over him and employing Elliott’s wife secures his qualification pillow stays in place.
 
@@ -40,7 +40,7 @@ The Superintendent of Education, Eddie Tyler has also jumped in bed with Elliott
 
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County…
 
-Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/2018/06/21/snakes-in-the-schools/)
+Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/snakes-in-the-schools/)
 
 The teachers are being conned by their own Superintendent and Stragtegy as well as paying the bill for the Con!
 

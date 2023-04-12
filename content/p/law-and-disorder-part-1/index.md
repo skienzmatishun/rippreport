@@ -85,7 +85,7 @@ Fairhope pay attention and let’s see if the “appointed by council” Police 
 
 While the Chief and Attorney are doing their job will they please explain Mr. Burrell’s police record, part of which Mr Burrell has blamed his son for:
 
-https://rippreport.com/2018/05/23/police-report/
+https://rippreport.com/police-report/
 
 The Police Chief, City Attorney and the City Council need to make a public statement where each one of them stands on this issue.
 

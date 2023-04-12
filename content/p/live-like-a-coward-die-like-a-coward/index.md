@@ -87,9 +87,9 @@ McAfee became belligerent and escalated incidents on the beach. Faull made the f
 
 The dogs were poisoned. No one knew who did it. It was common that someone would use poison to solve the issue if you did not contain your dogs around the public.
 
-<iframe scrolling="no" style="background-color:#bbb;height:4000px;width:99%;overflow:hidden;position:relative;max-width:621px;top:-392px;" src="https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/"></iframe>
+<iframe scrolling="no" style="background-color:#bbb;height:4000px;width:99%;overflow:hidden;position:relative;max-width:621px;top:-392px;" src="https://www.sanpedrosun.com/crime-and-violence/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/"></iframe>
 
-[Read Full Article](https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/) [https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/](https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/)
+[Read Full Article](https://www.sanpedrosun.com/crime-and-violence/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/) [https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/](https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/)
 
 Greg Faull turned up dead. Shot and killed in his house — executed.
 

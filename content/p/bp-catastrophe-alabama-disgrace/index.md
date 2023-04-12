@@ -20,7 +20,7 @@ Alabama has wasted the chance to protect the very environment that provides us s
 
 In 2010 the BP oil spill spelled disaster for the economy of Baldwin County. Since then there have been claims and lawsuits over clean up and recovery. With the announcement earlier this week of a …
 
-Source: [wkrg.com/2016/06/30/breaking-down-the-bp-settlement-numbers-in-baldwin-county](http://wkrg.com/2016/06/30/breaking-down-the-bp-settlement-numbers-in-baldwin-county)
+Source: [wkrg.com/2016/06/30/breaking-down-the-bp-settlement-numbers-in-baldwin-county](http://wkrg.com/breaking-down-the-bp-settlement-numbers-in-baldwin-county)
 
 The first money available to Baldwin County from BP went to the appointed trustee, Sen. Trip Pittman.
 

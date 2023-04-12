@@ -17,7 +17,7 @@ The Ripp Report has been covering the Baldwin County Mega-Site since it was purc
 
 You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources…
 
-Source: [rippreport.com/2019/07/20/mega-mistake/](https://rippreport.com/2019/07/20/mega-mistake/)
+Source: [rippreport.com/2019/07/20/mega-mistake/](https://rippreport.com/mega-mistake/)
 
 For years the site has been promoted as “shovel ready”. I guess that means you can use a shovel on the property because without a rail head and utilities, it can be hardly described as “shovel ready”.
 

@@ -21,7 +21,7 @@ I respect Chief Pettis and have known him for years. He has always treated me wi
 
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
 
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/2018/06/27/fairhopes-blast-from-the-past/)
+Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
 
 The Ripp Report receives many e-mails, text’s and face book messages each week, this is an example of two, you make up your mind. I can see the shadow.
 
@@ -61,7 +61,7 @@ Let’s not leave out the Catalyst media outlet:
 
 I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations. One real…
 
-Source: [rippreport.com/2018/08/01/hallucinations/](https://rippreport.com/2018/08/01/hallucinations/)
+Source: [rippreport.com/2018/08/01/hallucinations/](https://rippreport.com/hallucinations/)
 
 Second Comment:
 

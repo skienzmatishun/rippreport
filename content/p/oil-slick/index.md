@@ -47,7 +47,7 @@ So the ultimate cover your ass move is to come up with a pledge that eliminates 
 
 This Pledge is nothing more than a mask meant to conceal, any past history, of those running for office. It eliminates any mentioning of past bad acts or police reports, candidates and incumbents have in their closet.
 
-https://rippreport.com/2018/05/23/police-report/
+https://rippreport.com/police-report/
 
 Please read this while on a paddle board, with wine, while listing to a Jimmy Buffet song, at sunset.
 
@@ -73,11 +73,11 @@ Fairhope “Good Vibes” Pledge?
 
 Think about it folks what is it “good Vibes” does not want exposed? Hey “good vibes” read this, it is what happens when you deny Free Speech.
 
-https://rippreport.com/2017/12/29/see-ya-in-court-jack/
+https://rippreport.com/see-ya-in-court-jack/
 
 This is what happens when you deny or alter Free Speech:
 
-https://rippreport.com/2018/10/19/loser/
+https://rippreport.com/loser/
 
 So lets walk on eggs and not discuss the BP history, BP Fraud, or how Alabama is number one in political corruption?
 

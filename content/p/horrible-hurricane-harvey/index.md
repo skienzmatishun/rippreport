@@ -31,7 +31,7 @@ Wonderful Wednesday:
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 had a very interesting comment which we have heard once before:
 

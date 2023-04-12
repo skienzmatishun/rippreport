@@ -32,6 +32,6 @@ Is this the way to conduct a public meeting? Just last night a citizen in Louisi
 
 Deyshia Hargrave, a Louisiana middle school teacher, was charged with “remaining where forbidden and resisting an officer” after a confrontation at a school board meeting over educators' pay.
 
-Source: [https://www.nytimes.com/2018/01/09/us/teacher-arrested-louisiana.html](https://www.nytimes.com/2018/01/09/us/teacher-arrested-louisiana.html)
+Source: [https://www.nytimes.com/us/teacher-arrested-louisiana.html](https://www.nytimes.com/2018/01/09/us/teacher-arrested-louisiana.html)
 
 Believe what you see and hear cuz Chuckee is blind and deaf

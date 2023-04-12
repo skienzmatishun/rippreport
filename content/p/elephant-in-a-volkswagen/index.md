@@ -60,7 +60,7 @@ Here are a few of the articles posted by the Ripp Report in the last year:
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 ## Hi-JACK-ed
 
@@ -68,7 +68,7 @@ Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2
 
 The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes Mayor Karin Wilson and…
 
-Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/30/hi-jack-ed/)
+Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
 
 ## Fairhope Airport Authority – FLYING WITHOUT A COMPASS
 
@@ -76,7 +76,7 @@ Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/3
 
 These are two articles that were covered by The Fairhope Times one year ago. These were not written by the Ripp Report. They are important because they show, prior to today’s airport controversy…
 
-Source: [rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/](https://rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/)
+Source: [rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/](https://rippreport.com/fairhope-airport-authority-flying-without-a-compass/)
 
 ## JACK IN THE BOX – AIRPORT
 
@@ -84,7 +84,7 @@ Source: [rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-c
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 ## $5000.00 CASH REWARD
 
@@ -92,7 +92,7 @@ Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/201
 
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents…
 
-Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/2017/02/08/5000-00-cash-reward/)
+Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/5000-00-cash-reward/)
 
 ## CAUGHT IN A TRAP LIKE A RAT
 
@@ -100,7 +100,7 @@ Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/
 
 Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and…
 
-Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/)
+Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/caught-trap-like-rat/)
 
 ## JACK ASS
 
@@ -108,7 +108,7 @@ Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com
 
 Well folks, as they often say, “You can’t make this stuff up!” Monday night’s city council meeting showed the true colors of council president “come fly with me” “Jack” Burrell. It was a tough night…
 
-Source: [rippreport.com/2017/07/26/jack-ass/](https://rippreport.com/2017/07/26/jack-ass/)
+Source: [rippreport.com/2017/07/26/jack-ass/](https://rippreport.com/jack-ass/)
 
 ## AIRPORT DIVERSION
 
@@ -116,7 +116,7 @@ Source: [rippreport.com/2017/07/26/jack-ass/](https://rippreport.com/2017/07/26/
 
 Jack, come fly with me, has more passengers. The Courier, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, “come fly with me” Jack to cover the most mundane of…
 
-Source: [rippreport.com/2017/07/19/airport-diversion/](https://rippreport.com/2017/07/19/airport-diversion/)
+Source: [rippreport.com/2017/07/19/airport-diversion/](https://rippreport.com/airport-diversion/)
 
 ## SEE YA IN COURT JACK
 
@@ -124,7 +124,7 @@ Source: [rippreport.com/2017/07/19/airport-diversion/](https://rippreport.com/20
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 Now do not forget the reward that nobody even attempted to claim and that includes the Airport Board, who want you to believe that they know best. They also want the city to butt out of Airport business, while the city keeps paying the mortgage, and the authority holds the title. Just how is that beneficial to the city?
 
@@ -134,6 +134,6 @@ Now do not forget the reward that nobody even attempted to claim and that includ
 
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents…
 
-Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/2017/02/08/5000-00-cash-reward/)
+Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/5000-00-cash-reward/)
 
 If you believe all the BS from the Fairhope City Council about these two issues then you could not find an elephant in a Volkswagen.

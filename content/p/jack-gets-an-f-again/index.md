@@ -49,7 +49,7 @@ The current Fairhope City council has not one accomplishment, in their term, to 
 
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
 
-Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/2018/08/31/pop-up-target/)
+Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
 The council continues to find itself embroiled in one controversy after another. The council has no leadership! The four other councilmen have given Captain Jack full rein to drag them through the mud with him. Catalyst will be their undoing.
 
@@ -61,6 +61,6 @@ The council continues to find itself embroiled in one controversy after another.
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 P.S. Don’t forget it was Captain Jack, as council president, who made the “legal Settlement” of the triangle, that cost taxpayers 11.25 million.

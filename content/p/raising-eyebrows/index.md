@@ -39,7 +39,7 @@ The District Attorney also “assisted” in the decision to delay the election.
 
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County…
 
-Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
+Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
 They are not called good ole boys for nothing. Catalyst has a strong throat hold on Baldwin County and they want Fairhope back in their pocket.
 
@@ -55,6 +55,6 @@ Fairhope has a chance to break the cycle of at large council’s, that are often
 
 The Fairhope election to vote on change of government has been delayed to the same day as the general election, November 6th. The vote is for the citizens of Fairhope only. On the day of the election…
 
-Source: [rippreport.com/2018/10/03/crystal-ball/](https://rippreport.com/2018/10/03/crystal-ball/)
+Source: [rippreport.com/2018/10/03/crystal-ball/](https://rippreport.com/crystal-ball/)
 
 Please vote Nov. 6th for, a change of government in Fairhope. No Change, means just that NO CHANGE.

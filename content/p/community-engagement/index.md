@@ -33,7 +33,7 @@ First off let’s set the record straight. The Baldwin County School Board has b
 
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options…
 
-Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/2019/02/15/jack-gets-an-f-again/)
+Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
 
 The Mayor had a back up plan and now the sale is on track again. The first effort by the council to determine the use of K-1 had restricted public participation. The Jack Plan went heads first into failure.
 
@@ -45,7 +45,7 @@ The Mayor had a back up plan and now the sale is on track again. The first effor
 
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
 
-Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/2018/08/31/pop-up-target/)
+Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
 The mayor is trying to maximize Community Engagement discussions for the K-1 Center, the Triangle property and the Comprehensive Land Use Plan.
 
@@ -85,7 +85,7 @@ Burrell, Boone and Brown all favor a Conservation Easement and they want to rush
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 WHY because Catalyst does not want anything done on the property and a Conservation Easement will accomplish that. The Citizens of Fairhope better not let that happen.
 
@@ -97,7 +97,7 @@ WHY because Catalyst does not want anything done on the property and a Conservat
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 President of the Fairhope Council famously said he was tired of hearing from the citizens, citizens, citizens. The CITIZENS better be sure Burrell gets the message.
 
@@ -109,4 +109,4 @@ President of the Fairhope Council famously said he was tired of hearing from the
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)

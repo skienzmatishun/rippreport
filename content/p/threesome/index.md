@@ -41,11 +41,11 @@ Who the hell knows what is going on at the Fairhope Airport?
 
 A Times reporter was the only citizen present.
 
-https://rippreport.com/2017/03/03/investigating-the-investigators/
+https://rippreport.com/investigating-the-investigators/
 
 Jack Burrell put the airport center stage years ago with his slight of hand trick involving the municipal Judge. He topped that off with refusing to allow a citizen to address the council during public participation, where the municipal attorney just sat on his hands.
 
-https://rippreport.com/2017/12/29/see-ya-in-court-jack/
+https://rippreport.com/see-ya-in-court-jack/
 
 Fauxhope citizens can rest easy because the municipal attorney said no city funds were paid to settle the lawsuit. Just insurance money.
 

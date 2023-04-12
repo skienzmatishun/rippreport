@@ -33,7 +33,7 @@ Councilman Robert Brown is pushing past the Eastern Shore Art Center contract, i
 
 Backstory Podcast @BackstoryPodcast Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of: Backstory Podcast @
 
-Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/2019/09/25/documents/)
+Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/documents/)
 
 Brown is going from art to the gully
 
@@ -43,7 +43,7 @@ Brown is going from art to the gully
 
 Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 – 6:00 P.M. – CITY COUNCIL CHAMBER 5. Final Adoption – An Ordinance Directing the Transfer of an Acre of Land to Fairhope Single…
 
-Source: [rippreport.com/2018/02/14/big-heads/](https://rippreport.com/2018/02/14/big-heads/)
+Source: [rippreport.com/2018/02/14/big-heads/](https://rippreport.com/big-heads/)
 
 Well here we go again, the Fairhope merry go round with the same cast of characters, Fairhope Single Tax, Lee Turner, and of course Cliff Pittman, Councilman Robert Brown’s business partner and inside contact for FSTC.
 
@@ -55,7 +55,7 @@ Well here we go again, the Fairhope merry go round with the same cast of charact
 
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has…
 
-Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/2018/02/09/bend-over-fairhope/)
+Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/bend-over-fairhope/)
 
 Lets have a lotto! We will all place bets on Brown/Pittman. That they will get the contract to build the subdivision in the gully. They will assure the community that they are “down home boys” and all contracts they get are due to their outstanding reputation and that under no circumstances have they used their elected or appointed office as an advantage in getting contracts that personally enrich themselves. Winners will be awarded a large size of KY personal lubricant compliments of the “down home boys”.
 
@@ -71,7 +71,7 @@ It is game on, for the Fairhope Municipal Elections and the Council is acting li
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 CATALYST and Quid quo pro are synonymous.
 
@@ -85,4 +85,4 @@ So here we go again the Mayor out front defending the citizens and the Quid quo 
 
 Backstory Podcast @BackstoryPodcast CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger.
 
-Source: [rippreport.com/2019/09/20/crazy/](https://rippreport.com/2019/09/20/crazy/)
+Source: [rippreport.com/2019/09/20/crazy/](https://rippreport.com/crazy/)

@@ -17,7 +17,7 @@ It took Mayor Sullivan close to a year to understand the provisions of the grant
 
 The Mayor and Council have now conceded to the inevitable decision that ADA compliance is mandatory. The swim area and rock jetties designed to protect the pier foundation and bulkheads has been eliminated by Council President Burrell, because HE does not like the look. When the citizens see what they get for 6.2 million they will be sorely disappointed.
 
-https://rippreport.com/2021/04/01/got-fleas/
+https://rippreport.com/got-fleas/
 
 “Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.”
 
@@ -27,7 +27,7 @@ https://rippreport.com/2021/04/01/got-fleas/
 
 Jay, aka Marble mouth, did not fail in making a scripted comment while ignoring the time the council wasted in proceeding with a project a year behind schedule.
 
-https://rippreport.com/2021/03/07/selected-not-elected/
+https://rippreport.com/selected-not-elected/
 
 “The plan was hatched during the election, to replace Brown, after the election, with jay Robinson, who chose not to run for office. The citizens of Fairhope of course did not know the plan.”
 
@@ -37,7 +37,7 @@ To add insult to injury the Alabama legislature passed legislation that moves mu
 
 “. If a city has good leadership, it’s a good change. If a city has bad leadership, it’s not so good.” This is called voter disenfranchisement, Alabama style.
 
-https://rippreport.com/2021/09/17/%f0%9f%a4%a5/
+https://rippreport.com/%f0%9f%a4%a5/
 
 “The academy award for lying, goes hands down to Mr. Stewart “The Liar” Speed of the Leaf River Group, the developers from Mississippi. Mr. Speed , told the Fairhope audience, 250 to 300 citizens, that the apartments would be a luxury apartments. That they were going to be the signature apartments of Leaf River and would never be sold to any other apartment management group. He said it would be environmental sound and never contaminate Fly Creek. Everything he told the audience was lies and he knew it when he said it. This was all recorded live so there is no denying it.”
 
@@ -47,7 +47,7 @@ https://rippreport.com/2021/09/17/%f0%9f%a4%a5/
 
 Burrell is known for his liability land gifts. The real gift is city liability, just like what he did for his developer buddy Arthur Corti.
 
-https://rippreport.com/2017/05/05/re-gift-gift/
+https://rippreport.com/re-gift-gift/
 
 Mayor Wilson appropriately expressed shock and concern that the City should not have taken ownership of this property. She was right.
 

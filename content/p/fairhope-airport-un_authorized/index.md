@@ -11,7 +11,7 @@ authors:
   - ripp-report
 ---
 
-Last week we featured, [YOU DON'T KNOW JACK](https://rippreport.com/2016/11/25/you-dont-know-jack/), this week we peel back the onion a little more.
+Last week we featured, [YOU DON'T KNOW JACK](https://rippreport.com/you-dont-know-jack/), this week we peel back the onion a little more.
 
 What we do know is that a lawyer paid a lawyer to write a letter to lawyers, Ethics Commission, for an advisory ethics opinion { no. 2016-04} that would allow a lawyer— who is also a member of the Fairhope Airport Board, to enter into a lease with the same airport authority, whose partner is the Municipal Judge for Fairhope. The opinion is 6 pages. For simplicity sake we will address page 1.
 

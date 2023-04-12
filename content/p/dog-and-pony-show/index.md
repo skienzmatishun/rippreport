@@ -22,7 +22,7 @@ authors:
 
 Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time… Source:
 
-Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/2019/05/10/dog-and-pony-show-2/)
+Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/dog-and-pony-show-2/)
 
 Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time, where transparency and accountability will not be an issue, because only a few people will attend.
 
@@ -60,7 +60,7 @@ The Ripp Report will update this post today after the “special” meeting.
 
 Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time… Source:
 
-Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/2019/05/10/dog-and-pony-show-2/)
+Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/dog-and-pony-show-2/)
 
 Did you notice in the Mayor’s statement about the forecast that the city could be debt free in June 2019, next month? That is the Mayor and her staff’s accomplishment not the Council who has fought the present administration at every turn.
 
@@ -76,6 +76,6 @@ The Mayor had a plan for education that was immediate and required no taxes. The
 
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
 
-Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/2019/02/27/pedaling-forward/)
+Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
 
 The Ripp Report favored the Mayor’s education plan, however we will not penalize our children's education by adamantly opposing the 3 mil tax. You as citizens of the community should ask yourself why the council favored taxes when it was not necessary?

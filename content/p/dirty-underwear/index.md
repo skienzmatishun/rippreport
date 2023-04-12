@@ -37,7 +37,7 @@ The Internal Revenue Service Section 4941(d) description of self-dealing would a
 
 The Bar and the Attorney General saw nothing wrong with the Ethics Executive Director “self Dealing”
 
-https://rippreport.com/2021/10/26/writ-of-mandamus-update/
+https://rippreport.com/writ-of-mandamus-update/
 
 You would think that the media would be on this story like a dog in heat! However so far the Ethics Commission and the Bar Association see no problem with Mr Albritton receiving more than 120,000 dollars for his children’s education, from a trust where he is a trustee. The absurdity of their justifications of Mr. Albritton, further exposes the depth of corruption.
 

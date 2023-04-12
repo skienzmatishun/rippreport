@@ -20,7 +20,7 @@ Who”s telling the truth? “come fly with me” Burrell has no answers.
 
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents…
 
-Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/2017/02/08/5000-00-cash-reward/)
+Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/5000-00-cash-reward/)
 
 Listen and think. The Airport has cost us millions while we invest little in our schools.
 
@@ -34,6 +34,6 @@ It’s alright for “come fly with me” Jack to hire an attorney, read the let
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 THINK ABOUT IT ! SEE YA FREAKY FRIDAY

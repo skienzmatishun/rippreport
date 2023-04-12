@@ -31,7 +31,7 @@ Consider just a “few” of the incidents Mr Burrell has been involved with. Th
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Mr Burrell has led the charge for the Airport Authority to maintain ownership of the title to the Airport, instead of the city who has made all the mortgage payments.
 
@@ -45,7 +45,7 @@ Mr Burrell ran for office and never acknowledged a police record, he lied to the
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law. What was…
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 Mr. Burrell is also currently involved in a Federal lawsuit involving his actions as Council President. The City of Fairhope is paying his legal bills, that means YOU the taxpayer.
 
@@ -57,6 +57,6 @@ Mr. Burrell is also currently involved in a Federal lawsuit involving his action
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 Tonight is a regularly scheduled City Council meeting, beginning at 6 pm. Please plan to attend, support the Mayor. As a citizen you can choose to have a moral compass or Fairhope will return to the criminal enterprise that it was prior to Mayor Wilson.

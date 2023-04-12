@@ -35,7 +35,7 @@ This is what the developer does not want you to see. The Kant-Corte Apartments a
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 This little deal smells more than a sewer spill or 1000 geese. Boone and Burrell facilitated this deal in the last meeting of the Fairhope City Council, it was the last agenda item under Mayor Kant. The “Gift” was approved by the last council because they had no balls. They refused to legally defend the citizens and instead succumbed to the developers threat to sue the city. They bent over for the developer Angelo Corte, and Tim Kant did not even attend the last meeting, leaving Boone and Burrell to carry his water.
 
@@ -49,7 +49,7 @@ Fairhope has a new Mayor, Mayor Wilson who won her position due to her oppositio
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 This new council and Mayor now have to handle the sins of the past councils, except for Boone and Burrell who caved to the developers threats and now have the citizens of Fairhope holding the bag.
 
@@ -71,4 +71,4 @@ THIS AIN’T NO JOKE
 
 The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The Jester supports the developer, who is responsible…
 
-Source: [rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/](https://rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/)
+Source: [rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/](https://rippreport.com/fairhope-jester-and-fly-creek/)

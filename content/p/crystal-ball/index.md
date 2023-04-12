@@ -29,7 +29,7 @@ The City Council, for the last three months, has taken a position of not voicing
 
 Last week, I knew that the Fairhope City Council was going to do what ever was necessary to stop the Oct. 2 2018 vote, to change the Government in Fairhope. The Council instructed the City Attorney…
 
-Source: [rippreport.com/2018/10/01/bury-the-body/](https://rippreport.com/2018/10/01/bury-the-body/)
+Source: [rippreport.com/2018/10/01/bury-the-body/](https://rippreport.com/bury-the-body/)
 
 Looking into the crystal ball, and knowing the tricks of the council, be prepared for a council campaign to kill any efforts to change Fairhope’s government. At Large will be their mission statement and do not be surprised if they do not have the full support of WACO radio and The Courier tabloid. Catalyst will be in the background stoking the fire and supporting THEIR City Council.
 
@@ -41,7 +41,7 @@ Looking into the crystal ball, and knowing the tricks of the council, be prepare
 
 The present Fairhope City Council is going to try and pull every dirty trick they can to derail the Oct. 2nd election. The City Attorney is carrying out the Catalyst Council’s instructions as we speak.
 
-Source: [rippreport.com/2018/09/28/fairhope-council-shows-its-colors/](https://rippreport.com/2018/09/28/fairhope-council-shows-its-colors/)
+Source: [rippreport.com/2018/09/28/fairhope-council-shows-its-colors/](https://rippreport.com/fairhope-council-shows-its-colors/)
 
 Look for Councilman Jay Robinson to take the lead in the opposition, word is Council President Jack Burrell is damaged goods and maybe J Boy is Catalyst new pick for Mayor in 2020. Keep in mind J Boy, an attorney, just learned himself the peril they face.
 
@@ -53,6 +53,6 @@ Look for Councilman Jay Robinson to take the lead in the opposition, word is Cou
 
 The Catalyst Fairhope Council may be in it’s last days. The Council and the council’s legal representative has been asleep at the wheel. Instead of checking out all the legal ramifications of a change…
 
-Source: [rippreport.com/2018/09/26/catalyst-panic-and-confusion/](https://rippreport.com/2018/09/26/catalyst-panic-and-confusion/)
+Source: [rippreport.com/2018/09/26/catalyst-panic-and-confusion/](https://rippreport.com/catalyst-panic-and-confusion/)
 
 Let’s see how accurate the crystal ball is.

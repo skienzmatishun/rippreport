@@ -22,7 +22,7 @@ In Fairhope the City Council believes that the citizens elected them to make all
 
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on…
 
-Source: [rippreport.com/2019/03/27/community-engagement/](https://rippreport.com/2019/03/27/community-engagement/)
+Source: [rippreport.com/2019/03/27/community-engagement/](https://rippreport.com/community-engagement/)
 
 Think about that! Three votes and a decision can be made by a Council, without hearing a word from their constituents.
 

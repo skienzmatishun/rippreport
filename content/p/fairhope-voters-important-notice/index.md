@@ -23,7 +23,7 @@ Fairhope voters, we did it once and now we have to do it again. And that is show
 
 Open Letter to Fairhope Airport Authority Attention Josh Myrick, Attorney Joe McEnerney, Chairman Jack Burrell, City Council Dear Sirs; Thank you for providing the Ripp Report with the information we requested. The summary outlined in...
 
-Source: [rippreport.com/2017/03/17/whos-on-first/](https://rippreport.com/2017/03/17/whos-on-first/)
+Source: [rippreport.com/2017/03/17/whos-on-first/](https://rippreport.com/whos-on-first/)
 
  
 

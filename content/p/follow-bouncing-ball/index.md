@@ -28,7 +28,7 @@ Councilman Boone of Fairhope has been featured in previous articles,
 
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as...
 
-Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/2017/01/18/a-spiders-web/)
+Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spiders-web/)
 
 and
 
@@ -38,7 +38,7 @@ and
 
 Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have...
 
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/2017/01/13/boone-doggle/)
+Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
 
 Following up on documents that show Mr. Boone being in business through LLC’s connected to the engineering company of Preble-Rish; as well as campaign contributions, now documents support Mr. Boone voted on and supported projects represented by the same firm.
 

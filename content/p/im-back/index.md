@@ -21,7 +21,7 @@ The Ripp Report receives regular complaints about Family Court, in particular Ju
 
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree. They were so plentiful and consistent…
 
-Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/)
+Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
 Gulf Shores is embroiled in a very similar situation that mirror’s Fairhope’s controversy surrounding apartments. Apartments are not the issue as much as the location, location, location.
 
@@ -45,7 +45,7 @@ Gulf Shores officials are taking a page out of Fairhope’s playbook on how to f
 
 It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhope. It is expected after an election to be gracious and heap accolades on the departing Mayor, I will reserve my comments…
 
-Source: [rippreport.com/2016/08/26/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/](https://rippreport.com/2016/08/26/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/)
+Source: [rippreport.com/2016/08/26/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/](https://rippreport.com/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/)
 
 Gulf Shores elected officials better be paying attention, all those angry voters may do the same thing Fairhope did, Vote the Mayor and Council OUT OF OFFICE.
 
@@ -59,7 +59,7 @@ The Fairhope Airport Authority announced that Mr Ray Hix, Treasurer, has resigne
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
 Pay attention Fairhope Jack and friends have “confidential” plans for the airport, and you are going to pay for it. Mr. Burrell has fought hard for the Airport Authority to maintain the title to the land, while citizens pay for it. The City of Fairhope pays for it and Fairhope should have the title.
 

@@ -20,7 +20,7 @@ Just when you thought there was no hope for the Baldwin County Family Court, Jud
 
 BALDWIN COUNTY, Alabama (WKRG) – Judge Michelle Thomason announced Monday that she’s running for the Alabama Court of Civil Appeals. Thomason is currently the Presiding District Judge i…
 
-Source: [wkrg.com/2017/09/18/baldwin-county-judge-running-for-al-court-of-civil-appeals/](http://wkrg.com/2017/09/18/baldwin-county-judge-running-for-al-court-of-civil-appeals/)
+Source: [wkrg.com/2017/09/18/baldwin-county-judge-running-for-al-court-of-civil-appeals/](http://wkrg.com/baldwin-county-judge-running-for-al-court-of-civil-appeals/)
 
 We will now have two opportunities to vote out Judge Thomason and eliminate her from the court system all together.
 
@@ -44,7 +44,7 @@ Judge Thomason is infamous for her courtroom antics and gets credit for turning 
 
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree. They were so plentiful and consistent…
 
-Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/)
+Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
 This is a sample post that explains some of the problems in Judge Thomason’s court,
 

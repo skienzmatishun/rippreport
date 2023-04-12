@@ -21,7 +21,7 @@ Fairhope entered the new year hoping there would be change and cooperation among
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 This is no way to run a municipal government. The city council should be encouraging public participation from all it’s citizens. It certainly reflects a lack of leadership when the public is discouraged from participation.
 

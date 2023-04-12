@@ -40,11 +40,11 @@ Nothing will change, Alabama makes the Washington Swamp look like a puddle.
 
 In Fairhope the McSherry case has been lingering for years, however the municipal attorney for Fairhope, Marcus McDowell, failed to even file charges. Another video that shows a woman, Paula DiNiardi being knocked off a bar stool.
 
-https://rippreport.com/2020/04/25/where-is-justice/
+https://rippreport.com/where-is-justice/
 
 If this was your wife how would you feel?
 
-https://rippreport.com/2020/08/22/women-stand-together/
+https://rippreport.com/women-stand-together/
 
 This case has been in the media for almost two years.
 
@@ -54,7 +54,7 @@ McDowell insisted he would file charges and then did nothing.
 
 He cares less that he is on the record. In Baldwin County the two best places to assault a women are in Fairhope and Spanish Fort.
 
-https://rippreport.com/2020/05/29/catalyst-train-wreck/
+https://rippreport.com/catalyst-train-wreck/
 
 Gabriel Tynes of Lagniappe spent the day in court, here is his report.
 

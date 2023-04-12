@@ -21,7 +21,7 @@ To compound the situation even more is the Fire station at the head of Highridge
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Please Read: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Please Read: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 The gateway to Fairhope, Parker Road, is going to be malfunction junction and the frog will boil before Anyone addresses the issue. Remember this at election time.
 

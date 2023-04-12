@@ -30,7 +30,7 @@ Fairhope’s City Council agenda, March 8th, was loaded with resolutions that sh
 
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options…
 
-Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/2019/02/15/jack-gets-an-f-again/)
+Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
 
 This is the second round of purchasing the K1 center, the first failed. Let’s hope the Council is willing to listen to the options they ignored last time. The Council promises public hearings, let’s pray the Council lives up to their promise and that this time they listen to all options.
 
@@ -50,7 +50,7 @@ Everyone agrees that our schools need more money. How to provide it is the quest
 
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
 
-Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/2019/02/27/pedaling-forward/)
+Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
 
 The Council never explained or discussed, with the public, the Mayor’s option of a more expedient and equitable solution, not involving taxes.. The Council could have provided the funds last night instead they chose the more difficult path of a referendum and tax. The Council is playing political games with our kids and is not considering the best interest of the community, when it withholds information from the public, to satisfy their agenda. The Ripp Report will support the 3 mil tax, our kids and teachers desperately need it. It is unfortunate that the Council rejected even talking about options to a tax. If the tax fails will the Council then be willing to listen to the Mayor’s options?
 
@@ -80,4 +80,4 @@ This could be a legitimate issue however the history of this Council, with the a
 
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City…
 
-Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/2019/02/06/communication/)
+Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/communication/)

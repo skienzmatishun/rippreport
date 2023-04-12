@@ -19,7 +19,7 @@ And what can you say about the total intelligence/military/political failure tha
 
 A true shame.
 
-[https://nypost.com/2021/08/19/fedora-guy-jerry-messing-fighting-for-his-life-with-covid-19/](https://nypost.com/2021/08/19/fedora-guy-jerry-messing-fighting-for-his-life-with-covid-19/)
+[https://nypost.com/fedora-guy-jerry-messing-fighting-for-his-life-with-covid-19/](https://nypost.com/2021/08/19/fedora-guy-jerry-messing-fighting-for-his-life-with-covid-19/)
 
 [https://alabamaatj.org/wp-content/uploads/2013/08/Alabamas-Court-System.pdf](https://alabamaatj.org/wp-content/uploads/2013/08/Alabamas-Court-System.pdf)
 
@@ -29,8 +29,8 @@ https://lagniappemobile.com/latest-proposed-zoning-district-encompasses-area-out
 
 [https://www.al.com/news/2021/08/tarrant-mayor-arrested-for-alleged-sexual-harassing-comments-about-councilmans-wife.html](https://www.al.com/news/2021/08/tarrant-mayor-arrested-for-alleged-sexual-harassing-comments-about-councilmans-wife.html)
 
-[https://nypost.com/2021/08/19/gulf-coasts-beloved-redneck-riviera-now-a-virus-hotspot/](https://nypost.com/2021/08/19/gulf-coasts-beloved-redneck-riviera-now-a-virus-hotspot/)
+[https://nypost.com/gulf-coasts-beloved-redneck-riviera-now-a-virus-hotspot/](https://nypost.com/2021/08/19/gulf-coasts-beloved-redneck-riviera-now-a-virus-hotspot/)
 
-https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html
+https://www.nytimes.com/world/asia/biden-afghanistan-evacuation-kabul-airport.html
 
 [https://www.pbs.org/newshour/politics/watch-live-defense-secretary-lloyd-austin-gen-mark-milley-give-news-briefing](https://www.pbs.org/newshour/politics/watch-live-defense-secretary-lloyd-austin-gen-mark-milley-give-news-briefing)

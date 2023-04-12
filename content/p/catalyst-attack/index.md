@@ -24,17 +24,17 @@ Baldwin County tax payers are their victims.
 
 Baldwin County has been under political siege by the good ole boys under numerous names. CATALYST was the name of choice until a few weeks ago, when a new name Scott Boone Consulting appeared. This was after CATALYST suffered a bitter defeat in the congressional race.
 
-https://rippreport.com/2020/07/17/catalyst-ass-whoopin/
+https://rippreport.com/catalyst-ass-whoopin/
 
 The CATALYST name had become infamous and so toxic in Baldwin County that the principal of Catalyst decided to change it to his own name, Scott Boone Consulting. Mr Boone is the son of Fairhope councilman Kevin Boone. Both Boone’s have been implicated in the land fraud known as “Strawman” featured in Lagniappe under series. Be sure to study the spider graph of CATALYST players.
 
-https://rippreport.com/2020/06/06/strawman-spiderweb/
+https://rippreport.com/strawman-spiderweb/
 
 That “SPIDER GRAPH” identifies people in one of the largest land fraud deals in Baldwin County. Scott is the money distributor, the bank, for CATALYST candidates. Where does the money come from? Over a million dollars so far, not counting the dark money passed under the table.
 
 CATALYST/Scott Boone Consulting, CSB, is a threat to everyone's quality of life in Baldwin County. They represent the dirty ugly side of politics where Christianity is turned on it’s head for a vote.
 
-https://rippreport.com/2020/08/05/catalyst-aka-scott-boone-consulting/
+https://rippreport.com/catalyst-aka-scott-boone-consulting/
 
 WARNING: CATALYST/Scott B??ne Consulting, CSB, is a county wide threat. Fairhope, Daphne Spanish Fort and Bay Minette all have CSB candidates.
 
@@ -46,7 +46,7 @@ That is CSB.
 
 They are organized and represent money, not people. Do not be confused by signs. Identify CATALYST by studying the signs. CSB Candidates run in a block position supporting one another, this is obvious in Daphne and Fairhope, where all CATALYST candidates place their signs side by side.
 
-https://rippreport.com/2020/08/07/catalyst-signs/
+https://rippreport.com/catalyst-signs/
 
 Here is an accurate post from Daphne, explaining CATALYST and how to identify them.
 
@@ -60,6 +60,6 @@ CATALYST, CSB, lost to Jerry Carl in the congressional race last month. Now with
 
 With your help, share, share, share, we can expose and defeat a stigma of corruption that has stuck to Baldwin County like a blood sucking bat.
 
-https://rippreport.com/2020/07/22/catalyst-last-stand/
+https://rippreport.com/catalyst-last-stand/
 
 SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE SHARE

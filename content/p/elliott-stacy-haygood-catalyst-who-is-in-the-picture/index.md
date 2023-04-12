@@ -30,7 +30,7 @@ CATALYST stands naked today, the citizens of Baldwin County have had enough of t
 
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey, Fully support maximum development without regards to infrastructure. They mask the…
 
-Source: [rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/](https://rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/)
+Source: [rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/](https://rippreport.com/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/)
 
 Baldwin County’s quality of life and property values will deteriorate if CATALYST is allowed to go unchecked. Baldwin County beaches will be off limits to residents.
 
@@ -42,7 +42,7 @@ Baldwin County’s quality of life and property values will deteriorate if CATAL
 
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
 
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/2018/06/27/fairhopes-blast-from-the-past/)
+Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
 
 Who is in the picture? Let me give a few names: The CATALYST Queen Michelle Thomasson, Chris Elliott, Tucker Dorsey, Lynn Stacy, Tim Can’t and Scott “baby” Boone. OH I almost forgot, District Attorney Robert Wilters. Judge Wilters walked into the office without a vote being cast, while citizens sleep, thanks to CATALYST. WHO do you recognize?
 
@@ -58,7 +58,7 @@ Chris Elliott has collected over half a million dollars for his campaign. He cou
 
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
 
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
 A vote for Elliott is an endorsement for unbridled growth, limited infrastructure and the promotion of CATALYST and the good ole boys.
 
@@ -72,7 +72,7 @@ A vote for Tucker Dorsey is a vote for Baldwin County Sewer, both stink.
 
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
 
-Source: [rippreport.com/2018/03/28/catalyst-skunk](https://rippreport.com/2018/03/28/catalyst-skunk)
+Source: [rippreport.com/2018/03/28/catalyst-skunk](https://rippreport.com/catalyst-skunk)
 
 A vote for the infamous CATALYST Queen Judge Michelle Thomasson is a vote against the families and children that she has damaged. She represents CATALYST in Family court.
 
@@ -84,7 +84,7 @@ A vote for the infamous CATALYST Queen Judge Michelle Thomasson is a vote agains
 
 ALABAMA BEWARE OF THE CATALYST QUEEN Alabama Beware, the absolute worst Family Court Judge in the state is Michelle Thomasson of Baldwin County. We the citizens of Baldwin County beg you to help us…
 
-Source: [rippreport.com/2018/07/12/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/](https://rippreport.com/2018/07/12/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/)
+Source: [rippreport.com/2018/07/12/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/](https://rippreport.com/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/)
 
 VOTERS NEED TO UNITE AND REJECT ALL THREE CATALYST CANDIDATES.
 
@@ -100,7 +100,7 @@ The Ripp Report will be also writing a complaint to the District Attorney, howev
 
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
 
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/2018/06/27/fairhopes-blast-from-the-past/)
+Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
 
 PLEASE VOTE JULY 17th IT MAY BE THE MOST IMPORTANT POLITICAL ELECTION IN BALDWIN COUNTY HISTORY.
 

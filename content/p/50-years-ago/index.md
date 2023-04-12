@@ -77,7 +77,7 @@ Special interest. The, at large council, displayed a complete lack of transparen
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 If this happens to any other citizen in any of the 14 municipalities of Baldwin County, The Ripp Report will offer it’s services to prosecute those responsible in Federal Court.
 

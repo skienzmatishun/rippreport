@@ -23,7 +23,7 @@ Mr. Dorsey may have made a few million, however Baldwin County Citizens are left
 
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to…
 
-Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/2018/05/04/catalyst-top-dogs/)
+Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/catalyst-top-dogs/)
 
 Tucker Dorsey should be thrown out the exit door, over the mega-site and loss of 35 million, now in undeveloped scrub. Most important should be the lost opportunity of that money. County infrastructure and county employees were ignored for this good ole boy deal.
 
@@ -35,7 +35,7 @@ Tucker Dorsey should be thrown out the exit door, over the mega-site and loss of
 
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. South Alabama Mega Site – Shovel Ready in…
 
-Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/2017/05/17/economic-development-baldwin-county-style/)
+Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
 
 Tucker Dorsey and Chris Elliott then lied to the taxpayers and passed a 1% tax for schools, WITHOUT A VOTE FROM THE PEOPLE, that the county skimmed 4 million a year off, for infrastructure. They spent the money on a good ole boy deal and then robbed the schools to make up the difference. 4 million a year is 40 million every 10 years! Think about that!
 
@@ -55,6 +55,6 @@ https://www.facebook.com/BillieJo4CountyCommission/videos/2092939134365078/
 
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
 
-Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/2018/03/28/catalyst-skunk/)
+Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/catalyst-skunk/)
 
 ## DO NOT FORGET TO VOTE< THIS SKUNK NEEDS TO BE ROADKILL

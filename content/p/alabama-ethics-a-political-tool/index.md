@@ -48,7 +48,7 @@ This ethics complaint against “very” Strange is going to be addressed by the
 
 SENATE RACE: Before we get into the ugliness of the Senate race, let me address the ugliness of some comments we have been receiving. Some comments are just ignorant but the name calling, senseless…
 
-Source: [rippreport.com/2017/07/28/scratch-my-back-i-scratch-yours/](https://rippreport.com/2017/07/28/scratch-my-back-i-scratch-yours/)
+Source: [rippreport.com/2017/07/28/scratch-my-back-i-scratch-yours/](https://rippreport.com/scratch-my-back-i-scratch-yours/)
 
 Alabama Reporter has been pointing out obvious problems with the ethics commission and questions the effectiveness of the commission and its ability to keep politics out of their decisions.
 
@@ -58,7 +58,7 @@ Alabama Reporter has been pointing out obvious problems with the ethics commissi
 
 By Bill Britt Alabama Political Reporter The State Legislature begins its four-day sprint to the finish this Tuesday. To-date, 1025 bills were introduced over the 27 days, and still, there is much more to be accomplished. The Legislative leadership hopes to sine die on Friday, ending a drama-filled Session that saw Governor Robert Bentley resign, Read More
 
-Source: [www.alreporter.com/2017/05/15/politics-continue-overrule-ethics/](http://www.alreporter.com/2017/05/15/politics-continue-overrule-ethics/)
+Source: [www.alreporter.com/2017/05/15/politics-continue-overrule-ethics/](http://www.alreporter.com/politics-continue-overrule-ethics/)
 
 The ethics commission will soon be run solely by attorneys and the commission will become moot.
 

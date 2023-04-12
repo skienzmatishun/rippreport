@@ -27,7 +27,7 @@ When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senat
 
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican…
 
-Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/2019/04/26/what-education-lottery/)
+Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/what-education-lottery/)
 
 Fairhope was proud in March of 2017 to welcome 3 highly qualified people to a new administration. The Fairhope Catalyst Council was not happy with the Mayor’s choices and set out to oppose them, obstruct them and generally not support them.
 
@@ -81,7 +81,7 @@ Chuckee takes dictation from the dirty hands of Baldwin County. Chuckee is know 
 
 Well Chucky Cheeze and “come fly with me” Burrell have come up with their new hit piece on the Mayor of Fairhope. They are reminding the general public of their support for fired employees and how…
 
-Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/)
+Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/the-chucky-cheeze-and-jack-burrell-show/)
 
 Dirty Hands Chuckee is now going to political heaven. He is going to have the easiest job in journalism, print what he is told, and his dirty hands qualify him for the job.
 

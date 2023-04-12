@@ -26,7 +26,7 @@ The Jester also is dismissing any Ethics Complaint exists. The case number for t
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/2018/02/23/fairhope-jester/)
+Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
 ## Ethics complaint filed against Fairhope Councilman Robert Brown
 

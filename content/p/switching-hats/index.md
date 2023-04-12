@@ -24,7 +24,7 @@ Mr Burrell is responsible for the obstruction of the Mayor and he is responsible
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 Mr. Burrell should be removed from the Fairhope Airport Authority and his position of President of the Council.
 

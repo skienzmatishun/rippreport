@@ -44,7 +44,7 @@ In the coming weeks you will learn more about Mr. Elliott and his history as a q
 
 Please remember he was first appointed by the Luv Gov., not elected, to the State Senate.
 
-https://rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/
+https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/
 
 Who is in the picture? Let me give a few names: The [CATALYST](https://rippreport.com/tag/catalyst/) Queen [Michelle Thomasson](https://rippreport.com/tag/thomasson/), Chris Elliott, [Tucker Dorsey](https://rippreport.com/tag/tucker-dorsey/), [Lynn Stacy](https://rippreport.com/tag/lynn-stacy/), [Tim Can’t](https://rippreport.com/tag/kant/) and [Scott “baby” Boone](https://rippreport.com/tag/scott-boone/). OH I almost forgot, District Attorney Robert Wilters. Judge Wilters walked into the office without a vote being cast, while citizens sleep, thanks to CATALYST. WHO do you recognize?
 

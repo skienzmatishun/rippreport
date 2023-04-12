@@ -41,7 +41,7 @@ They had made up their minds in June but strung the citizens out for months expl
 
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process…
 
-Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/fairhope-sold-to-the-highest-bidder/)
 
 The 3B’s then move to close on the property without any public input on the proposed property.
 
@@ -65,7 +65,7 @@ Millions of dollars are now not available for city infrastructure projects and t
 
 Fairhope’s City Council started out, day one, as being obstructionist. They have stayed the course for over 3 years and the taxpayers have paid dearly. The three new councilman aligned themselves with…
 
-Source: [rippreport.com/2020/01/15/marble-mouth/](https://rippreport.com/2020/01/15/marble-mouth/)
+Source: [rippreport.com/2020/01/15/marble-mouth/](https://rippreport.com/marble-mouth/)
 
 In January 2020 the City Council declared the same 2.65 million dollar property:
 

@@ -19,7 +19,7 @@ Mr Zunk was appointed to the finance committee by the council, Jack Burrell, to 
 
 Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.
 
-Source: [rippreport.com/2018/05/25/flying-high/](https://rippreport.com/2018/05/25/flying-high/)
+Source: [rippreport.com/2018/05/25/flying-high/](https://rippreport.com/flying-high/)
 
 Please remember Zunk’s connection to the Airport scandal and dubious airplane hanger lease. He stands firmly behind Jack’s efforts to be sure the Airport property stays with the Airport Authority, instead of the city who paid for it.
 
@@ -31,7 +31,7 @@ Please remember Zunk’s connection to the Airport scandal and dubious airplane 
 
 The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes Mayor Karin Wilson and…
 
-Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/2016/12/30/hi-jack-ed/)
+Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
 
 It is well known around City Hall and the Community that Mr Zunk will use every opportunity, public and private, to attack the Mayor. This animosity comes from the Airport Scandal, hopefully Mr Zunk will have to raise his hand in court one day and answer some very difficult questions involving Jack and the Airport. Fairhope breeds bullies, especially bullies that pick on women.
 
@@ -43,7 +43,7 @@ It is well known around City Hall and the Community that Mr Zunk will use every 
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 Something just was not right so I went to the public meeting, called by Mr Zunk, last night at the library, but first I read From the desk of Mayor Wilson, the City’s position and petition.
 
@@ -107,7 +107,7 @@ Zunk the skunk has his own variation of the petition,
 
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
 
-Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/2018/03/28/catalyst-skunk/)
+Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/catalyst-skunk/)
 
 You should smell a foul smell about this time. Mr Zunk through his survey of 65 people has now decided that the 39 people is all he needs to change the petition from districts to at large. WOW 39 people out of 20,000 is all the skunk needs to push HIS agenda and petition, which HAS NOT been approved by the Probate Judge or Sec. Of State.
 
@@ -121,7 +121,7 @@ Zunk slipped this in last night to an unsuspecting crowd. Mr Zunk asked the crow
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 ## FEDERAL COURT
 
@@ -143,7 +143,7 @@ Fairhope’s needs to replace the self serving B’s, they are the problem.
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 ## PLEASE SIGN THE APPROVED PETITION, NOT THE ONE THAT STINKS
 

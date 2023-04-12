@@ -20,7 +20,7 @@ Who does the Gas Tax hurt the most?
 
 ### U.N. officials touring rural Alabama are shocked at the level of poverty and environmental degradation
 
-![](https://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2017/12/10/gettyimages-465399026.jpg)
+![](https://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/gettyimages-465399026.jpg)
 
 “I think it’s very uncommon in the First World. This is not a sight that one normally sees. I’d have to say that I haven’t seen this.”
 
@@ -38,7 +38,7 @@ Baldwin County is a piggy-bank for Goat Hill, we supply as much as 35% of the ge
 
 Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money for infrastructure two paragraphs later we find out…
 
-Source: [rippreport.com/2019/03/06/faux-tax-gas-tax/](https://rippreport.com/2019/03/06/faux-tax-gas-tax/)
+Source: [rippreport.com/2019/03/06/faux-tax-gas-tax/](https://rippreport.com/faux-tax-gas-tax/)
 
 Alabama is the most corrupt state in the United States. Our politicians rarely are held accountable, unless it is political motivated.
 

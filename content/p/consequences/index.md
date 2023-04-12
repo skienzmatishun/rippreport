@@ -81,7 +81,7 @@ If Randy Davis can be indicted for his bad deeds then the three B’s of Fairhop
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Randy Davis did not have a police record. The Council President of Fairhope has a police report, which he never divulged to the public while he ran for office, nor has he publicly, on the record, ever explained the police report to his constituents.
 
@@ -91,6 +91,6 @@ Randy Davis did not have a police record. The Council President of Fairhope has 
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Please Read: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Please Read: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 Let’s hope Randy is not the last to be indicted, there are far more deserving corrupt elected officials in Fairhope.

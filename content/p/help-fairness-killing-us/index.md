@@ -48,7 +48,7 @@ At the last council meeting, Mr Boone was again asked to recuse himself on votin
 
 Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have...
 
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/2017/01/13/boone-doggle/)
+Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
 
 and
 
@@ -58,7 +58,7 @@ and
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering company Preble-Rish that are conflicts of...
 
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/2017/01/25/conflict-of-interest/)
+Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
 were dissolved by Mr Boone only 6 days after we published them.
 

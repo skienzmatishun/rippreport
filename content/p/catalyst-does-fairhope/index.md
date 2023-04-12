@@ -41,7 +41,7 @@ Fairhope’s former Mayor Tim Kant and his former subordinates and entitled deve
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/)
+Source: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
 
 Mayor Kant bent over for the developer’s every request and each time taxpayers paid.
 
@@ -67,7 +67,7 @@ Fly Creek has become the drainage ditch for development.
 
 The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal arguments. It went to trial because our city council let…
 
-Source: [rippreport.com/2017/08/25/fly-creek-a-drainage-ditch/](https://rippreport.com/2017/08/25/fly-creek-a-drainage-ditch/)
+Source: [rippreport.com/2017/08/25/fly-creek-a-drainage-ditch/](https://rippreport.com/fly-creek-a-drainage-ditch/)
 
 The entire Publix property drains into the wetlands next to fly creek. The Last City Council meeting of Tim Kant’s administration, which he did not attend, had a surprise for unsuspecting citizens. The last item on the agenda was a gift of land, wetlands, to be donated by the owner, Angelo Corte, to the City of Fairhope. He gave Fairhope the land that is the recipient of all the water that drains from the Publix property, he developed, into Fly Creek. Councilmen Burrell and Boone voted to accept the “Gift.” Now the taxpayers are responsible for the developers drainage? This “Gift” is going to cost us all.
 
@@ -79,7 +79,7 @@ The entire Publix property drains into the wetlands next to fly creek. The Last 
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 Taxpayers paid for a Fire Station, a sewer lift station and accepted the “GIFT” of liability of the wetlands, all for the developer. Taxpayers paid for the infrastructure for the developer while Mayor Kant ignored the infrastructure of Fairhope.
 

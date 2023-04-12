@@ -33,13 +33,13 @@ That’s right Pittman had been working through May without a contract, without 
 
 Pittman resurfaced the road of corruption in Baldwin County for the next 10 years. Politicians felt emboldened by Pittman’s success of garnering a total close to, 750,000.00 of BP money under the noses of the Public. Judges, Attorneys, District Attorney and Sheriff said nothing. Pittman, with the help of Mayor Kant and Jack Burrell maintained a debris contract with the City of Fairhope for over 8 years. The contracts only ended when Fairhope elected Karin Wilson. Pittman as a Senator legislatively passed the qualifications for Sheriff in Baldwin County, which are different than any other county in Alabama. Those qualifications enabled the Baldwin County Sheriff to be re elected twice with no opposition.
 
-https://www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/
+https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/
 
 In Baldwin County you can run for office unopposed yet you are still asked to donate to the only candidate running. A donation for a political race with opposing candidates is a donation. A donation to a candidate with no opposition is a bribe.
 
 In the last 10 years corruption has flourished, Judges and Attorneys are involved in insulating those accused and condemning the victims. Speculation and allegations are abound about Judges accepting bribes to influence cases. Conflicts of Interests between Judges Attorneys and clients are dismissed without the least bit of moral consciousness.
 
-https://rippreport.com/2020/05/21/catalyst-justice/
+https://rippreport.com/catalyst-justice/
 
 Hear are just a few of the issues, in the last 10 years, glossed over by politicians and the courts for the benefit of a few, mostly CATALYST.
 
@@ -49,4 +49,4 @@ The common denominator in all these issues are CATALYST. Voting is the only way 
 
 In 10 years not one politician, attorney or judge has been held accountable, arrested or indicted for a crime.
 
-https://rippreport.com/2020/06/06/strawman-spiderweb/
+https://rippreport.com/strawman-spiderweb/

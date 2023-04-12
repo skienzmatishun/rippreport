@@ -17,7 +17,7 @@ Mid term elections will again bring up all the advantages of the Baldwin County 
 
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. South Alabama Mega Site – Shovel Ready in…
 
-Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/2017/05/17/economic-development-baldwin-county-style/)
+Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
 
 This is a 32 million dollar investment with tens of millions of lost opportunity. The county commission still has the original sign advertising the project. That sign is now faded as the promises of the commission have faded.
 

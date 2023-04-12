@@ -49,7 +49,7 @@ This is one block from the triangle and it has become a very serious problem. Th
 
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council. The director of Weeks Bay…
 
-Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/2019/06/21/fairhope-un-armed-robbery/)
+Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
 Former Tim Kant, aka Can’t, fueled the lawsuit during his entire 16 years as Mayor.
 
@@ -71,7 +71,7 @@ That also was the courts opinion and resulted in the legal settlement, AGAINST t
 
 The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for personal gain by securing the Fairhope Art Center…
 
-Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/2019/07/12/the-jester/)
+Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
 In 2014, around Feb, the City Council had a council meeting, Councilman Ford asks at the beginning of the meeting to add an agenda item, the council agreed. The addition to the agenda was to authorize Mayor, Can't, to enter into "settlement talks to reach a legal settlement over the Triangle lawsuit." This was revealed through fioa requests.
 
@@ -93,7 +93,7 @@ The SPIN, was park land, this was the cover for the LOSS of the lawsuit and Lega
 
 … the 3 B’s, ? Burrell, ? Brown and ? Boone, approved and purchased, 2.65 million in land for recreation, that did NOT have the approval of National Park Service.
 
-Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/2019/11/06/catalyst-colors/)
+Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/catalyst-colors/)
 
 This is political and the political machine is still driving the same plan to obstruct development of the triangle. Be it a park or conservation easement or what ever else they dream up.
 

@@ -45,7 +45,7 @@ Fairhope Economic Development is just as fickle. Last week the city council appr
 
 Well, Wonderful Wednesday had some very interesting commentary. HAPPY DAYS ARE HERE AGAIN Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite...
 
-Source: [rippreport.com/2017/05/12/how-the-pendulum-swings/](https://rippreport.com/2017/05/12/how-the-pendulum-swings/)
+Source: [rippreport.com/2017/05/12/how-the-pendulum-swings/](https://rippreport.com/how-the-pendulum-swings/)
 
  
 

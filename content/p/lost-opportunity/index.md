@@ -41,6 +41,6 @@ Now we need 2.6 million not 9000 dollars a year for a farming lease.
 
 … the 3 B’s,  Burrell,  Brown and  Boone, approved and purchased, 2.65 million in land for recreation, that did NOT have the approval of National Park Service.
 
-Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/2019/11/06/catalyst-colors/)
+Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/catalyst-colors/)
 
 This CATALYST council has been the worst Fairhope has ever seen. Please remember Aug 25th is the municipal election and vote the CATALYST council OUT.

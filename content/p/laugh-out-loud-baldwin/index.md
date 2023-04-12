@@ -53,7 +53,7 @@ The TAX MAN is trying to divert your attention from the GAS TAX he just rammed u
 
 Baldwin County is the piggy-Bank for Goat Hill supported by the same elected officials, we elected, to represent us. The Tax Man Chris Elliott, as a county commissioner, taxed the citizens of Baldwin…
 
-Source: [rippreport.com/2019/03/13/goat-hill-piggy-bank/](https://rippreport.com/2019/03/13/goat-hill-piggy-bank/)
+Source: [rippreport.com/2019/03/13/goat-hill-piggy-bank/](https://rippreport.com/goat-hill-piggy-bank/)
 
 You can always count on the CATALYST tabloid and the editor, Chucky Cheese to spin things the way CATALYST wants.
 
@@ -77,7 +77,7 @@ Jack has no idea what it means to be vetted for office. Jack must be drinking if
 
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options…
 
-Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/2019/02/15/jack-gets-an-f-again/)
+Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
 
 What about that police report he refuses to explain? Captain Jack has a big closet. He claims to work as an engineer however no one knows where he works, much less as an engineer.
 
@@ -89,7 +89,7 @@ What about that police report he refuses to explain? Captain Jack has a big clos
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 The last laugh is the CATALYST pick for Mayor of Fairhope in 2020. Sherry Sullivan, one of former Mayor Cant’s staff. Her position was Community Affairs and later head of the recreation department, where she failed miserably. Sherry and her two cohorts in lawsuits, Jennifer Fidler and Pandora Heathcoat, all were fired from their Fairhope positions and sued the city when they got fired, for not doing their jobs. Now with the help of CATALYST and the backing of the CATALYST council, they wish to go back to the days of the good ole boys and the jobs they did so poorly, but got paid big bucks for. Sherry will enjoy the backing of the CATALYST tabloid and the CATALYST am radio station, she will not enjoy, just like Jack, the vetting process. Fairhope employees are not laughing they do not want Sherry back, they know Sherry will be a puppet of Can’t and CATALYST and the employees fear corruption will return.
 

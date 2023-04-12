@@ -17,7 +17,7 @@ The wheels of justice move slow, especially when the good ole boys knock out the
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story. FAIRHOPE, Ala.
 
-Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/2018/11/30/barstool/)
+Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
 How does someone with multiple convictions, on probation, with a 180 day jail sentence hanging over their head, continue to avoid justice?
 
@@ -31,7 +31,7 @@ Fairhope Municipal Court and the City Attorney dropped the ball, or hid the ball
 
 How does a bar owner, continuously break the law and walk? If you are Ronan McSharry it appears not to be a problem.
 
-Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/2019/10/25/watering-hole/)
+Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/watering-hole/)
 
 Now the case has moved to Circuit Court and the wheels are coming off.
 

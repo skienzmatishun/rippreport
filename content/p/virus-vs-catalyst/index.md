@@ -19,7 +19,7 @@ site. It has updates as well general information. Dr Gupta was actually ringing 
 
 President Trump tweeted on Tuesday, "The world is at war with a hidden enemy. WE WILL WIN!"
 
-Source: [www.cnn.com/2020/03/18/media/coronavirus-reliable-sources/index.html](https://www.cnn.com/2020/03/18/media/coronavirus-reliable-sources/index.html)
+Source: [www.cnn.com/2020/03/18/media/coronavirus-reliable-sources/index.html](https://www.cnn.com/media/coronavirus-reliable-sources/index.html)
 
 Another site with valuable information is:
 
@@ -37,7 +37,7 @@ The Alabama primary runoff elections, March 31, have been delayed to July 14 202
 
 Gov. Kay Ivey is using powers granted to her under the Alabama Emergency Management Act of 1955 to postpone the stateâs upcoming primary runoff elections.
 
-Source: [www.wsfa.com/2020/03/18/alabama-primary-runoff-election-delayed-covid-precaution/](https://www.wsfa.com/2020/03/18/alabama-primary-runoff-election-delayed-covid-precaution/)
+Source: [www.wsfa.com/2020/03/18/alabama-primary-runoff-election-delayed-covid-precaution/](https://www.wsfa.com/alabama-primary-runoff-election-delayed-covid-precaution/)
 
 This unexpected delay effects several political runoff races. The one, The Ripp Report is focused on is the First Congressional seat. Mr. Jerry Carl won the primary over Hightower, the CATALYST candidate. Mr. Carl has since gotten the support of his former opponents Chris Pringle and Wes Lambert who had garnered about 22% of the vote.
 
@@ -51,7 +51,7 @@ Carl actually won the counties of Mobile Escambia, Monroe and a portion of Clark
 
 The last Monday night Fairhope City Council meeting and the work session were unnecessary long. Many people have begun to watch the council meeting in their homes, on Youtube. It is convenient and you…
 
-Source: [rippreport.com/2020/02/12/catalyst-kiss/](https://rippreport.com/2020/02/12/catalyst-kiss/)
+Source: [rippreport.com/2020/02/12/catalyst-kiss/](https://rippreport.com/catalyst-kiss/)
 
 CATALYST hot spots like Daphne, where the Mayor is CATALYST, went for the CATALYST candidate. Then we have Gulf Shores and Orange beach going for CATALYST. That figures because they both gave us the TAX MAN Elliott, look how that has worked out!
 

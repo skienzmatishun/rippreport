@@ -49,7 +49,7 @@ Petitions work, remember the Tatumville, Big Head Gully Petition? It garnered ov
 
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has…
 
-Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/2018/02/09/bend-over-fairhope/)
+Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/bend-over-fairhope/)
 
 PLEASE TAKE JUST A MINUTE OR TWO AND SIGN THE PETITION. LET’S SEND A CLEAR MESSAGE TO THE COUNTY COMMISSION, LEAVE ZUNDEL ROAD PUBLIC ACCESS ALONE.
 

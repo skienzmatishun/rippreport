@@ -29,7 +29,7 @@ A service station with 24 hour service and food facilities is now proposed next 
 
 Fairhope has been cited for many national awards for its beauty. But, it deserves awards for more than just flowers. Placing a gas station located on a safety roundabout in a residential area on the…
 
-Source: [rippreport.com/2017/05/24/boycott-the-gas-station-on-the-new-roundabout/](https://rippreport.com/2017/05/24/boycott-the-gas-station-on-the-new-roundabout/)
+Source: [rippreport.com/2017/05/24/boycott-the-gas-station-on-the-new-roundabout/](https://rippreport.com/boycott-the-gas-station-on-the-new-roundabout/)
 
 The apartment complex has caused a traffic jams each morning for residents and the school buses are overcrowded.
 

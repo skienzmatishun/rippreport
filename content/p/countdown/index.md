@@ -45,7 +45,7 @@ Congressman Mo Brooks:
 
 Congressman Mo Brooks (R-AL) said he will give up his candidacy for the Senate and calls for other candidates to drop out of the race if President Trump fires US Attorney General Jeff Sessions.
 
-Source: [www.cnn.com/videos/politics/2017/07/28/will-give-sessions-seat-mo-brooks-sot-newday.cnn](http://www.cnn.com/videos/politics/2017/07/28/will-give-sessions-seat-mo-brooks-sot-newday.cnn)
+Source: [www.cnn.com/videos/politics/2017/07/28/will-give-sessions-seat-mo-brooks-sot-newday.cnn](http://www.cnn.com/videos/politics/will-give-sessions-seat-mo-brooks-sot-newday.cnn)
 
 Sen Trip Pittman:
 

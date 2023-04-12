@@ -33,7 +33,7 @@ What this council did was to simply delay the budget with the next agenda item.
 
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
 
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10/02/quid-quo-pro/)
+Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
 The council has used a very questionable appraisal to boost the purchase of the land. Fact is the council first promised on Oct. 29,2019, that only an appraisal was being sought, not a sale. They approved the appraisal and then moved forward to purchase.
 
@@ -51,7 +51,7 @@ Because they could not get public support through legitimate public engagement.
 
 he Fairhope Council is made up of all ?Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 
-Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/2019/10/09/honey-bees/)
+Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/honey-bees/)
 
 Let’s look at some of the parks and purchases of the Fairhope City Council:
 
@@ -75,7 +75,7 @@ Do not be surprised to see the City Council come up with another bright idea to 
 
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements.
 
-Source: [rippreport.com/2019/07/10/gold-mine-for-sale/](https://rippreport.com/2019/07/10/gold-mine-for-sale/)
+Source: [rippreport.com/2019/07/10/gold-mine-for-sale/](https://rippreport.com/gold-mine-for-sale/)
 
 ## 2.Soccer Fields purchase.
 
@@ -123,7 +123,7 @@ But they approve 2.65 million for dirt???
 
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process…
 
-Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/fairhope-sold-to-the-highest-bidder/)
 
 You will hear much more about this good ole boy deal because people are already coming forward with details and information never made public. This should be the nail in the coffin for the city council in 2020.
 
@@ -139,4 +139,4 @@ Be aware folks the Fairhope City Council is 100% ?CATALYST. For those of you who
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)

@@ -17,7 +17,7 @@ The Fairhope Police have responded and given further information about the recen
 
 The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. In fact, Council President Jack Burrell has fully…
 
-Source: [rippreport.com/2018/08/28/law-and-disorder-part-1](https://rippreport.com/2018/08/28/law-and-disorder-part-1)
+Source: [rippreport.com/2018/08/28/law-and-disorder-part-1](https://rippreport.com/law-and-disorder-part-1)
 
 No information about the home owner is being disclosed, a minor related to the owners prevents that. No indication, or denial has been released by Councilman Burrell. The Ripp Report requested the Mayor Council and Police Dept. to investigate and make public the facts:
 
@@ -41,7 +41,7 @@ WKRG, and Fairhope Police, responded, no comment thus far from the City Council.
 
 ### 40-50 teens detained at Fairhope underage drinking party
 
-![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/2017/11/30/ap_281177328332_31258485_ver1.0_1280_720.png)
+![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/ap_281177328332_31258485_ver1.0_1280_720.png)
 
 WKRG News 5 has received several emails and messages about a house party involving underage drinking. Viewers claim that dozens of underage kids were let off easy because their parents are prominent members of the community.
 
@@ -89,7 +89,7 @@ Kids drinking is one thing. An undisclosed Police report by a City Council presi
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law. What was…
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 A Councilman, much less the Council President should not have the reputation of a juvenile.
 
@@ -101,4 +101,4 @@ A Councilman, much less the Council President should not have the reputation of 
 
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
 
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/2018/06/27/fairhopes-blast-from-the-past/)
+Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)

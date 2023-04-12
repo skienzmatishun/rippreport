@@ -25,15 +25,15 @@ https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from
 
 It’s kind of hard to believe isn’t it, that newspapers and TV stations across Alabama haven’t told their readers and viewers any of this? One might start to wonder if corruption in Alabama doesn’t all work hand in glove — unethical behavior at the big school is overlooked by the unethical director of the Ethics Commission and the unethical members of the state media look the other way and find something easier to beat on.”
 
-https://rippreport.com/2021/08/06/where-is-the-media/
+https://rippreport.com/where-is-the-media/
 
 “Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.”
 
-https://rippreport.com/2021/10/08/black-cloud/
+https://rippreport.com/black-cloud/
 
 “Listed below are articles exposing land fraud, Judicial voter disenfranchisement, Ethics violations, by no less than the Executive Director of Ethics, Baldwin County Sheriff Office Lawsuits and nine innocent lives lost. Then there is the scared cow of Alabama, the U of A and a culture of silence.”
 
-https://rippreport.com/2021/10/26/writ-of-mandamus-update/
+https://rippreport.com/writ-of-mandamus-update/
 
 “UPDATE: Judge Johnny Hardwick, Montgomery Circuit Judge, explained that he had been selected by the Chief Justice Tom Parker to preside over some ethics cases on November 1st. He explained that he read the evidence to my Writ of Mandamus and found it very interesting and wished he could delve into the case. The Judge however decided to recuse himself from hearing our case, due to a potential conflict of interest.”
 

@@ -36,7 +36,7 @@ Elliott speaks of Alabama values, “fighting for our fair share”, stopping co
 
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to…
 
-Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/2018/05/04/catalyst-top-dogs/)
+Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/catalyst-top-dogs/)
 
 Alabama Values, what the hell does that mean? Is it a reflection of our dubious reputation of being number one in the United States, when it comes to political corruption? No one wants to admit they are dead last however things will never change until we accept the obvious truth.
 

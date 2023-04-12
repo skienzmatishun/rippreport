@@ -22,7 +22,7 @@ https://www.youtube.com/watch?t=2040&v=6jG57XNm3Vk&feature=youtu.be
 
 The council denies they knew anything about Robert Brown purchasing his ”family” property July 21 2020. Once it was made public and on the record, Council President Burrell got all tongue tied trying to defend his railroad nomination process. He contradicts himself numerous times and ends up with one of his episodes of gibberish.
 
-https://rippreport.com/2021/03/07/selected-not-elected/
+https://rippreport.com/selected-not-elected/
 
 Without any public participation the Fairhope City Council President, Jack Burrell, decided who would be the next councilperson and publicly declared that, “I made the decision.”
 
@@ -36,7 +36,7 @@ They take their orders from special interests while suppressing free speech and 
 
 This cost the city thousands of dollars.
 
-https://rippreport.com/2018/10/19/loser/
+https://rippreport.com/loser/
 
 The council seat in question, pays $11,500 a year but the cherry on top is full family insurance, something no employees have. In the case of Robinson, a family of 6, the value of such insurance far exceeds the salary. It would be safe to say such insurance would be around $1000 to $1200 a month. With 42 months remaining in the term that would be $40,000 plus. That would make the council seat have a value of around $80,000 to $100,000 dollars. Nice raise for a family of 6. The council did not want to discuss that. Another fact is Jay Robinson and his wife and the Mayor are long time best friends, something else the council did not want to discuss. I guess it is all in who you know and how far you can bend over. The hell with any conflict of interest and a few pesky lies.
 
@@ -50,7 +50,7 @@ Now he has a bigger family but wants his old job back, without being elected!
 
 [![Jay Robinson and Robert Brown Fairhope Alabama](https://cdn.rippreport.com/wp-content/uploads/2021/03/de693fa9-jay-robinson-fairhope-al.png)](https://cdn.rippreport.com/wp-content/uploads/2021/03/de693fa9-jay-robinson-fairhope-al.png)
 
-https://rippreport.com/2021/02/26/i-quit/
+https://rippreport.com/i-quit/
 
 The Fairhope Mayor Pledged to “embrace development”, with that comes special interests and they are represented by CSB, Catalyst/Scott Boone. Scott Boone’s father sits on the council as the liaison to CSB. Jay replaces Robert to insure the council has not lost a CSB vote. Jack continues to make uneducated decisions, denying public participation on important issues, manipulates the council agenda, and lying to the citizens of Fairhope.
 

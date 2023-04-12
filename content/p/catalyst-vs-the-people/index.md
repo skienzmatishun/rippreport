@@ -17,4 +17,4 @@ authors:
 
 When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, Bill Press. Maybe you could ask the current Fairhope…
 
-Source: [rippreport.com/2018/06/01/catalyst-sheriff/](https://rippreport.com/2018/06/01/catalyst-sheriff/)
+Source: [rippreport.com/2018/06/01/catalyst-sheriff/](https://rippreport.com/catalyst-sheriff/)

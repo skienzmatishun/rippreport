@@ -32,7 +32,7 @@ This is the same old obstruction process Burrell has been pushing since Tim Kant
 
 Well Chucky Cheeze and “come fly with me” Burrell have come up with their new hit piece on the Mayor of Fairhope. They are reminding the general public of their support for fired employees and how…
 
-Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/)
+Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/the-chucky-cheeze-and-jack-burrell-show/)
 
 The Fairhope City Council has been a disaster and is the most corrupt in recent memory. The silent council members are equally guilty by remaining silent and putting friends before their elected office.
 
@@ -44,7 +44,7 @@ The Fairhope City Council has been a disaster and is the most corrupt in recent 
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Councilman Robert Brown:
 
@@ -56,7 +56,7 @@ Councilman Robert Brown:
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/2018/02/23/fairhope-jester/)
+Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
 supports Mr Burrell’s financial committee, why won’t he? He sure has enjoyed the fruits of elected office. Jack taught Brown everything he knows about how to control bid committees and how to secure a contract, while being an elected official.
 
@@ -70,7 +70,7 @@ The City Budget is the responsibility of the Mayor. Mr. Burell, with the assista
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 The Mayor prepares a budget, and it takes the council over 4 months to approve it and now the council wants to appoint a Jack Burrell finance committee, that wishes the Mayor step aside and let them do the budget. Clearly the boys are flying high.
 
@@ -86,6 +86,6 @@ Wake up Fairhope it is time for Jack and Brown to step down.
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law. What was…
 
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 The stink around the Airport is not the sewer, or geese.

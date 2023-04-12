@@ -27,7 +27,7 @@ Please note it says for the “Council President to execute a Real Estate Purcha
 
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B. FACT and…
 
-Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/2018/08/31/pop-up-target/)
+Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
 Mayor Karin Wilson of Fairhope, Alabama 2 hrs ·
 

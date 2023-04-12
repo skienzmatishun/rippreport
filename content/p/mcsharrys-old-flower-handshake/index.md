@@ -48,14 +48,14 @@ McSharry has made a mockery of flower town Fauxhope. McSharry and Marcus McDowel
 
 In addition to the Lagniappe articles, here are a few of the Ripp Report articles:
 
-https://rippreport.com/2021/12/04/%f0%9f%8f%b3%ef%b8%8f/
+https://rippreport.com/%f0%9f%8f%b3%ef%b8%8f/
 
-https://rippreport.com/2022/08/16/get-out-of-jail-card/
+https://rippreport.com/get-out-of-jail-card/
 
-https://rippreport.com/2022/08/05/boycott-mcsharry/
+https://rippreport.com/boycott-mcsharry/
 
-https://rippreport.com/2022/08/01/the-mcsharry-will-out/
+https://rippreport.com/the-mcsharry-will-out/
 
-https://rippreport.com/2019/05/01/one-woman-2/
+https://rippreport.com/one-woman-2/
 
 We have said it three times already and will say it again. Ronan McSharry will do it again, Just wait and see, let’s pray no-one is seriously injured or killed.

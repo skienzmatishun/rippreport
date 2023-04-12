@@ -27,7 +27,7 @@ Source: [blog.al.com/live/2010/11/senators\_company\_awarded\_63900.html](http:/
 
 Fairhope was the good Senator’s honey hole and Fairhope City Council President Jack Burrell is his bible buddy and mentor, that is not a joke. Jack has learned from the worst.
 
-http://www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/
+http://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/
 
 Pittman was the “trustee” of the BP funds for Baldwin County and he got the first contract in Alabama, compliments of Fairhope and now departed, Mayor Can’t. The Baldwin delegation, Pittman speaks of, only secured 10% of the total BP State award, about 120 million. They should be ashamed, but they are not.
 
@@ -53,11 +53,11 @@ That Gulf Beach Hotel Pittman is bragging about used BP funds:
 
 ### Plan To Use Gulf Oil Spill Funds For Beach Hotel Sparks Lawsuit
 
-![](https://media.npr.org/assets/img/2014/11/24/beach-restoration-01-edit_wide-ff8f3f6141550fe8eeaf2a0cbfbbded2b1eafac0.jpg?s=1400)
+![](https://media.npr.org/assets/img/beach-restoration-01-edit_wide-ff8f3f6141550fe8eeaf2a0cbfbbded2b1eafac0.jpg?s=1400)
 
 Environmentalists are suing to stop Alabama from using nearly $60 million in BP oil spill recovery funds to build a new hotel on the beach. The project is one of dozens underway across the region.
 
-Source: [www.npr.org/2014/11/25/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate](https://www.npr.org/2014/11/25/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate)
+Source: [www.npr.org/2014/11/25/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate](https://www.npr.org/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate)
 
 Rumor is Pittman is going to be the Hotel Manager, it would not surprise me.
 
@@ -71,7 +71,7 @@ The down side of Pittman leaving, is that, bought and paid for, Chris Elliott, i
 
 The Eastern Shore was blessed that Hurricane Michael spared us. Please pray for those in the storm’s path and if you have the opportunity to donate time or items for those impacted from the storm…
 
-Source: [rippreport.com/2018/10/10/insanity/](https://rippreport.com/2018/10/10/insanity/)
+Source: [rippreport.com/2018/10/10/insanity/](https://rippreport.com/insanity/)
 
 A VOTE for Chris Elliott is a VOTE for Catalyst.
 
@@ -83,7 +83,7 @@ A VOTE for Chris Elliott is a VOTE for Catalyst.
 
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business…
 
-Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/2018/06/29/catalyst-does-baldwin-county/)
+Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/catalyst-does-baldwin-county/)
 
 VOTE for the candidate not the party. The alternative to Elliott is Jason Fisher. Fisher is not bought and paid for nor is he affiliated with Catalyst.
 

@@ -56,7 +56,7 @@ Well I do not know the donor but I was told by a councilman that Diana Brewer of
 
 Be sure you read According to Executive Director of Finance Paul Wesch, GulfQuest National Maritime Museum has not been holding up its end of an agreement with the city to pay its utility bills.
 
-Source: [rippreport.com/2016/09/30/going-down-with-the-ship/](https://rippreport.com/2016/09/30/going-down-with-the-ship/)
+Source: [rippreport.com/2016/09/30/going-down-with-the-ship/](https://rippreport.com/going-down-with-the-ship/)
 
 In the meeting the Director of Weeks Bay said several times that Weeks Bay did not seek out Fairhope for the Conservation Easement. The Director may not have known Diana was going rouge and trying to advance her political agenda, at the expense of Fairhope Citizens. As a former councilwoman she knew damn well that a conservation easement was not in the best interest of the city.
 
@@ -68,7 +68,7 @@ In the meeting the Director of Weeks Bay said several times that Weeks Bay did n
 
 Jimmy Conyers steamed rolled incumbent Diana Brewer for a Fairhope City Council seat with 66% of the vote. Diana now joins Tim Kant, as the second person to lose their job because they refused to…
 
-Source: [rippreport.com/2016/10/05/hello-can-you-hear-me-now/](https://rippreport.com/2016/10/05/hello-can-you-hear-me-now/)
+Source: [rippreport.com/2016/10/05/hello-can-you-hear-me-now/](https://rippreport.com/hello-can-you-hear-me-now/)
 
 Councilman Boone and Burrell also are in bed with the developers. They saddled the City with the responsibility of wet lands the developer screwed up.
 
@@ -80,7 +80,7 @@ Councilman Boone and Burrell also are in bed with the developers. They saddled t
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
 Councilman Brown also gets credit with VOTING to satisfy the developer, not surprising when he is a developer and contractor and close friend of Arthur Corte. Mr Brown was the contractor for the soccer field building and the Art Center contract, where he is a Board member. Down home Robert Brown doing the town.
 

@@ -43,6 +43,6 @@ ELLIOTT IS NOW APPROACHING 600,000 DOLLARS IN POLITICAL CONTRIBUTIONS, FOR A JOB
 
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
 
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
 [https://www.facebook.com/groups/1593293237549165/permalink/2123895317822285/](https://www.facebook.com/groups/1593293237549165/permalink/2123895317822285/)

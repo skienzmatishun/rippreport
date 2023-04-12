@@ -31,7 +31,7 @@ The Council has been found guilty, in Federal Court, for violating the Constitut
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 Last week in a city council work session, the Mayor was discussing the free family insurance, around 17,000 thousand dollars for each part time councilman, no city employees have such insurance. Council President Burrell the most prolific honey bee, threatened the Mayor with arrest, if she did not “shut up”. The Mayor was representing the citizens.
 
@@ -47,6 +47,6 @@ Tonight the three B’s are going to vote to approve the closing costs, around 9
 
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
 
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/2019/10/02/quid-quo-pro/)
+Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
 Tonight the b’s are going to sting Fairhope and they do not give a damn what you think or your constitutional right to free speech. They want the honey. Follow the money.

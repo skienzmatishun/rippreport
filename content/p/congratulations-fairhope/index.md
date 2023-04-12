@@ -31,7 +31,7 @@ Mayor Can’t proposals were not acceptable. Can’t had proposed at one time to
 
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20…
 
-Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/2018/12/05/russian-roulette-fairhope-style/)
+Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/russian-roulette-fairhope-style/)
 
 Mayor Wilson, Economic Director, Sherry Botop and Fairhope staff worked hard and long, they deserve a pat on the back for securing 20 million in BP funds. This is a major accomplishment with 6.2 million going into a waterfront project, 10 million in sewer projects, that have been neglected for years, and $650,000 for an updated comprehensive land use plan.
 
@@ -71,7 +71,7 @@ Let’s not forget the former Luv Gov and his beach mansion:
 
 ### State's Beach Mansion Getting Facelift With BP Funds
 
-![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/2015/12/22/66422417594640D09F9BB5D91477576F_33301515_ver1.0_1280_720.jpg)
+![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/66422417594640D09F9BB5D91477576F_33301515_ver1.0_1280_720.jpg)
 
 The boarded up, run down Governor's mansion on the beach in Fort Morgan has been an eyesore for years. Now, new life and new controversy as money from the 2010 oil spill is being used to pay for renovations.
 

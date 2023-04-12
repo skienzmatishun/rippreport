@@ -55,7 +55,7 @@ Johnathan Armstrong would be a terrible choice and tantamount to voters shooting
 
 In 2007, Ball started Baldwin Substance Abuse Services Inc. (BSAS), a company certified by the Administrative Office of Courts to provide court-ordered Level 1, Level 2 and educational classes involving drug or alcohol related crimes. BSAS also provides anger management and life skills classes if deemed necessary by the judge
 
-https://rippreport.com/2018/01/24/the-pot-and-the-kettle-are-black/
+https://rippreport.com/the-pot-and-the-kettle-are-black/
 
 Mr Ball is the director of Baldwin County Substance Abuse, BCSA, this infamous LLC was formed by Judges and Lawyers. He is a Catalyst candidate “selected” to replace Burt. BCSA was founded by Judge Michell Thomason, among others, she also was the first client of Catalyst after their name change from Elliott Haygood and Stacy, those names should sound familiar. Many are asking if Mr. Ball was successful in defeating Mr Burt, would he resign from BCSA. Many conflicts of interest are apparent but hell this is Baldwin County what’s a little conflict of interest if it serves the connected few?
 

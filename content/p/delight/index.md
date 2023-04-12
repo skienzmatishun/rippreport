@@ -13,7 +13,7 @@ Fairhope is regressing back to Mayor Can’t days and it is not surprising when 
 
 Fairhope taxpayers are now facing a 10 million dollar lawsuit in federal court. Why? Because Fairhope has an infamous reputation of changing rules after the fact. The last multi million dollar case involved the Triangle where taxpayers had to pay almost 3 million dollars in law fees and a judgment against the city that included the city buying the Triangle for 8.25 million. A total of 11.25 Million taxpayer money.
 
-https://rippreport.com/2021/01/27/secret-society/
+https://rippreport.com/secret-society/
 
 “To top it off they hire a law firm, Hand Anderall Sale, as additional counsel, Hand Anderall was the law firm that lied to the citizens of Fairhope over the triangle lawsuit costing taxpayers 3 million in legal fees. It was Attorney Cain O’Rear who raised his right hand in Fairhope City Council Chambers and promised the citizens in attendance that “the city would not have to pay any legal fees”, that turned out to be bullshi-.
 

@@ -40,7 +40,7 @@ Catalyst candidates are financed by Prebble -Rish, an engineering company, and l
 
 Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL North Ridge, LLC Entity ID Number 420 – 935 Entity Type Domestic Limited…
 
-Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/)
+Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
 ## CONFLICT OF INTEREST
 
@@ -50,7 +50,7 @@ Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-recor
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
 
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/2017/01/25/conflict-of-interest/)
+Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
 ## A SPIDER’S WEB
 
@@ -60,7 +60,7 @@ Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com
 
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such…
 
-Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/2017/01/18/a-spiders-web/)
+Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spiders-web/)
 
 ## BOONE-DOGGLE
 
@@ -70,7 +70,7 @@ Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/2017/0
 
 Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have no idea…
 
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/2017/01/13/boone-doggle/)
+Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
 
 Then we have Jack Burrell, who has completely gone off the rails since he entered politics almost seven years ago. Mr. Burrell was represented by an attorney, paid for by the Airport Board, involving an Ethics complaint. He now is being represented by the city’s insurance carrier in a case involving public participation. He is using your tax money to defend his unconstitutional actions. He denied the mayor that same privilege.
 
@@ -84,7 +84,7 @@ That’s your money taxpayers! Here are some of “come fly with me” Burrell�
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 ## NOW! YOU KNOW JACK
 
@@ -94,7 +94,7 @@ Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com
 
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
 
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/2017/08/30/now-you-know-jack/)
+Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
 ## IN YOUR FACE
 
@@ -104,7 +104,7 @@ Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/20
 
 Well it seems Mr. Jack Burrell is now worried about the accountability of school funds donated by the city, approximately $350,000 a year. He is demanding accountability or he no longer will support…
 
-Source: [rippreport.com/2018/02/27/in-your-face/](https://rippreport.com/2018/02/27/in-your-face/)
+Source: [rippreport.com/2018/02/27/in-your-face/](https://rippreport.com/in-your-face/)
 
 The last bee is Robert Brown who stung himself and he doesn’t even know it
 
@@ -116,7 +116,7 @@ The last bee is Robert Brown who stung himself and he doesn’t even know it
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/2018/02/23/fairhope-jester/)
+Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
 ## Ethics complaint filed against Fairhope Councilman Robert Brown
 

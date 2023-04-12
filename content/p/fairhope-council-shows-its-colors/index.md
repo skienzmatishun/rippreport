@@ -39,6 +39,6 @@ Anonymous
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 From Facebook: Mayor Karin Wilson of Fairhope, Alabama Your special election for the Council-Manager form of government scheduled on 10/2 will NOW be delayed until the general election on 11/6. This is a decision which will be announced directly from the Judge of Probate’s office and I will share more details when these become available. Rest assured, I will make certain municipal voters are well-informed and that this change will not disenfranchise citizens on YOUR referendum to vote on a new form of government.

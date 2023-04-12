@@ -70,7 +70,7 @@ Why have you not gone into great detail about Catalyst and their ability to seed
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
 
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Why have you ignored the Majority of citizens and represented the Minority?
 
@@ -84,6 +84,6 @@ Why did you sit on your ass and witness the Fairhope City Council President Jack
 
 Well Chucky Cheeze and “come fly with me” Burrell have come up with their new hit piece on the Mayor of Fairhope. They are reminding the general public of their support for fired employees and how…
 
-Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/)
+Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/the-chucky-cheeze-and-jack-burrell-show/)
 
 Chuckee as far as journalism goes you are a disgrace, however you have your Catalyst followers. It is up to the citizens to disseminate your writings and my bet is they will see you as Chuckee Cheese.

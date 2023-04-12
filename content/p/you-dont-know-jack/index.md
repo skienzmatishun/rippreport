@@ -21,7 +21,7 @@ Fairhope's last mayor doubled down and refused to cooperate in any transition wi
 
 Fairhope has elected a Mayor who ran a campaign on a platform of transparency, accountability and the elimination of conflict of interests in hiring and city contracts. She will be faced with the effects of decisions made in her absence. These are deals and contracts that have more red flags than the Soviet Union.
 
-[The Shux restaurant on the Municipal Pier, a contract of 30 years](https://rippreport.com/2016/07/22/freaky-friday-elected-or-selected/), is a glaring example. [Another is the triangle lawsuit settlement](https://rippreport.com/2016/07/15/freaky-friday-fraud/), among others.
+[The Shux restaurant on the Municipal Pier, a contract of 30 years](https://rippreport.com/freaky-friday-elected-or-selected/), is a glaring example. [Another is the triangle lawsuit settlement](https://rippreport.com/2016/07/15/freaky-friday-fraud/), among others.
 
 Several weeks ago I was given information, by concerned citizens and city employees, regarding a lease involving the Fairhope Airport Authority.
 

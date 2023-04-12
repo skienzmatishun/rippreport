@@ -50,7 +50,7 @@ Where did all the money go, 5 to 6 million, and who benefited? GOB’S
 
 Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The…
 
-Source: [rippreport.com/2017/06/09/holes/](https://rippreport.com/2017/06/09/holes/)
+Source: [rippreport.com/2017/06/09/holes/](https://rippreport.com/holes/)
 
 The soccer fields were negotiated for construction under Mr Boone and Mr Burrell’s last term in office, remember that.
 

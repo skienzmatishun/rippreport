@@ -31,7 +31,7 @@ Seven years and Mr Lawson’s plan is now to transfer title of the 50 million me
 
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council. The director of Weeks Bay…
 
-Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/2019/06/21/fairhope-un-armed-robbery/)
+Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
 Our elected officials appear to be ready to transfer title of County and municipal lands to third parties, without full public participation. In Fairhope the council is on thin ice about their slick proposal to give Weeks Bay full and total control of municipal land, 106 acres, valued at 20 million dollars.
 
@@ -43,7 +43,7 @@ Our elected officials appear to be ready to transfer title of County and municip
 
 If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose of any city property until the scheduled land use…
 
-Source: [rippreport.com/2019/06/26/fairhope-petition/](https://rippreport.com/2019/06/26/fairhope-petition/)
+Source: [rippreport.com/2019/06/26/fairhope-petition/](https://rippreport.com/fairhope-petition/)
 
 Over 600 people have signed a petition in Fairhope in opposition to this secret deal that was keep from the public, until the last minute. If you have not signed the petition, please do so. This issue as well as the Mega-Mistake may wind up in class action lawsuits if the County Commission and Fairhope Council do not make every effort to inform the public of their intentions.
 
@@ -57,7 +57,7 @@ Now, back to Mr. Lawson and the Mega-Mistake, here is a little back story for ya
 
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. Baldwin County is one of the fastest growing…
 
-Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/2017/05/17/economic-development-baldwin-county-style/)
+Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
 
 ## DEAD LAST
 
@@ -69,7 +69,7 @@ Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](h
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
 
-Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/2018/01/17/dead-last/)
+Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
 TURN AT THE CATTLE GATE
 
@@ -81,7 +81,7 @@ TURN AT THE CATTLE GATE
 
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. In 2012 the Baldwin County Commission convinced…
 
-Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/2018/03/02/cattle-gate-mega-site/)
+Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
 Mr Lawson can give a good speech but he never delivers. In Fairhope he failed when it came to the K-1 center and again he failed to produce any results at the Fairhope Airport, aka Jack Burrell International.
 

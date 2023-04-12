@@ -41,7 +41,7 @@ Kick the can!
 
 The politicians again kicked the can down the gaming road. Big politics, lot’s of money and corruption stand in the way to a lottery or gaming bill. Alabama citizens are the losers, our neighbors are the winners.
 
-https://www.alreporter.com/2021/05/18/opinion-the-2021-legislative-session-lots-of-talk-little-action/?fbclid=IwAR2EW0M2w-FXJFfVRj-nmDa-xlUYWhqj7v3E-oVv5I4COJyPz\_Qyewfehbs
+https://www.alreporter.com/opinion-the-2021-legislative-session-lots-of-talk-little-action/?fbclid=IwAR2EW0M2w-FXJFfVRj-nmDa-xlUYWhqj7v3E-oVv5I4COJyPz\_Qyewfehbs
 
 “Gambling was going to pay for health care. It was going to pay for broadband expansion. It was going to cut taxes.
 
@@ -49,7 +49,7 @@ But gambling is a big thing. And if the 2021 legislative session proved anything
 
 Baldwin County’s State Senator “DUI” [Elliott](https://rippreport.com/tag/elliott/), flip lopped on the gaming bill and was in favor for tolls. While some serious issues were falling through the cracks Elliott decided that now he was a State Senator he would even an old score. Trouble is his little vendetta will cost a very good program millions and deprive homeowners assistance in fortifying their roofs.
 
-https://rippreport.com/2021/05/14/weasel-contractor/
+https://rippreport.com/weasel-contractor/
 
 Lagniappe's previous articles have exposed Elliott’s attempts to halt funding for SAH. Elliott has seized the opportunity to settle an old score, where he was dismissed, as a contractor, for wanting personal information that would favor him in the bidding process.
 

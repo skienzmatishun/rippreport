@@ -9,7 +9,7 @@ authors:
 
 Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.
 
-https://rippreport.com/2020/03/12/fairhope-council-asleep-at-the-wheel/
+https://rippreport.com/fairhope-council-asleep-at-the-wheel/
 
 Remember the 2020 Arts and Craft show, where the city council and then candidate Sherry Sullivan, made Covid a political issue? They wanted to “TAKE A CHANCE” with the communities health and proceed with the scheduled Arts and Craft Show. They pushed the mask debate, defending everyone’s right to do what ever the hell they wanted. How about the Christmas parade, where Mayor Sullivan turned a bind eye to masks, health experts, and the Covid Pandemic.
 

@@ -19,7 +19,7 @@ authors:
 
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.
 
-https://rippreport.com/2021/03/05/honeymoon/
+https://rippreport.com/honeymoon/
 
 The next Fairhope City Council meeting March 8th is going to start with one of the best examples of how CSB, CATALYST, Scott Boone Consulting and the good ole boys, SELECT not ELECT public officials from City Councils, Judges, District Attorneys and even the Sheriff. At the same time they will tell ya they are all Christians.
 
@@ -51,7 +51,7 @@ Fairhope is being run by CSB because it was CSB who put them in office. Fairhope
 
 Fairhope made a fatal error by electing Jack Burrell, who is well known for his police report, bid rigging, denying free speech and bulling women, now Jack is adding to his list, fixing an election. He has the dubious reputation of being the most corrupt public official in Baldwin County, hands down.
 
-https://rippreport.com/2017/08/30/now-you-know-jack/
+https://rippreport.com/now-you-know-jack/
 
 Robert Brown quit, that was the plan, LAST YEAR, he bought his family property in July LAST YEAR, while he was campaigning for office.
 
@@ -61,7 +61,7 @@ Brown then acts like nobody knows he is lying.
 
 The plan was hatched during the election, to replace Brown, after the election, with jay Robinson, who chose not to run for office. The citizens of Fairhope of course did not know the plan.
 
-https://rippreport.com/2020/01/15/marble-mouth/
+https://rippreport.com/marble-mouth/
 
 Why in the hell would you appoint someone who did not want to serve another term?
 

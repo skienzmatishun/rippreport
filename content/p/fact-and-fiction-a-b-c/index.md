@@ -19,7 +19,7 @@ A. Jack Burrell denied, on WACO radio, any party was held at his house. He omitt
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 B. Mr. Burrell is also involved in another one of his secret deals. He is making up your mind on this one and will tell you the facts so late in the game that you have no voice in the matter, so he thinks! Trouble is he has fiction blended in the details. The Ripp Report will be covering this story very soon.
 
@@ -35,4 +35,4 @@ P.S. You guessed it, Jack is involved AGAIN.
 
 ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
 
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/2017/05/05/re-gift-gift/)
+Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)

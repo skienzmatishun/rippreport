@@ -20,7 +20,7 @@ The mayor is also the Utilities Director and draws a salary for the position. Wi
 
 The mayor masks the problem of city infrastructure problems and various department needs, continuing to kick the can down the road. Fairhope has a sewer system that just got a 10 million dollar “band aid” upgrade, it is expected to last a couple of years before needing additional upgrades. The mayor refused to move the sewer system inland which would eliminate dumping in the bay and also would have qualified for a “legitimate” BP grant.
 
-The mayor has over 50,000 dollars donated to him for his upcoming election; over 50% are from people who do not live in Fairhope.  They play a part in controlling Fairhope — not us. That has to change. Many more issues need to be listed; however, lets not forget [the mayor is still under a cloud of investigations involving his participation in BP Grant fraud](https://rippreport.com/2016/06/21/investigative-reporting/).
+The mayor has over 50,000 dollars donated to him for his upcoming election; over 50% are from people who do not live in Fairhope.  They play a part in controlling Fairhope — not us. That has to change. Many more issues need to be listed; however, lets not forget [the mayor is still under a cloud of investigations involving his participation in BP Grant fraud](https://rippreport.com/investigative-reporting/).
 
 The cost of the soccer fields, which no one knows the total, dwarfs any money we spend on education.
 

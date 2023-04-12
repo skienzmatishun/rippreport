@@ -23,4 +23,4 @@ In the mean time you may wish to read a past post that is going to affect everyo
 
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water…
 
-Source: [rippreport.com/2019/01/18/boiling-frog/](https://rippreport.com/2019/01/18/boiling-frog/)
+Source: [rippreport.com/2019/01/18/boiling-frog/](https://rippreport.com/boiling-frog/)

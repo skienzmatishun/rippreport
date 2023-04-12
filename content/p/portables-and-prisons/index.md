@@ -39,7 +39,7 @@ The media is so poor that very few people even know anything about the details o
 
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican…
 
-Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/2019/04/26/what-education-lottery/)
+Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/what-education-lottery/)
 
 Alabama’s answer to education is portables. Our prisons are so deplorable that we need to build more. Now, our sold out politicians have come up with a state lottery that pays off debt from the general fund as far back as 2013. Not one damn dime for education, only prisons and past debt.
 
@@ -49,7 +49,7 @@ Alabama’s answer to education is portables. Our prisons are so deplorable that
 
 We have a vision problem in Alabama. We’ve always had a vision problem in this state. We are perpetually satisfied with how things are, with keeping things how they are, with resisting any change whatsoever. “Nah, we’re good,” should be our state motto. Even when making a change would benefit us, we resist. Even when \[…\]
 
-Source: [www.alreporter.com/2019/05/01/opinion-other-states-use-lotteries-to-give-kids-a-brighter-future-alabama-wants-to-use-a-lottery-to-build-more-prisons/](https://www.alreporter.com/2019/05/01/opinion-other-states-use-lotteries-to-give-kids-a-brighter-future-alabama-wants-to-use-a-lottery-to-build-more-prisons/)
+Source: [www.alreporter.com/2019/05/01/opinion-other-states-use-lotteries-to-give-kids-a-brighter-future-alabama-wants-to-use-a-lottery-to-build-more-prisons/](https://www.alreporter.com/opinion-other-states-use-lotteries-to-give-kids-a-brighter-future-alabama-wants-to-use-a-lottery-to-build-more-prisons/)
 
 The Indians have scalped Alabama politicians, they did not even need a knife, just money.
 
@@ -75,7 +75,7 @@ The TAXMAN Senator Elliott got 27,000 from the Indians to get elected. This is t
 
 Former Poarch Creek Band of Indians’ attorney general in the fall of 2016 bragged to the magazine “Indian Gaming Lawyer” that the state of Alabama played into the tribe’s hands giving the Indians a de facto monopoly of gaming in the state. Last summer, PCI tribal chief Stephanie Bryan wrote the Bureau of Indian Affairs \[…\]
 
-Source: [www.alreporter.com/2019/04/09/opinion-pci-tribe-admits-state-played-into-their-hands-still-calls-alabama-their-deadliest-enemies/](https://www.alreporter.com/2019/04/09/opinion-pci-tribe-admits-state-played-into-their-hands-still-calls-alabama-their-deadliest-enemies/)
+Source: [www.alreporter.com/2019/04/09/opinion-pci-tribe-admits-state-played-into-their-hands-still-calls-alabama-their-deadliest-enemies/](https://www.alreporter.com/opinion-pci-tribe-admits-state-played-into-their-hands-still-calls-alabama-their-deadliest-enemies/)
 
 “Why senators like Marsh and Albritton continue to do PCI’s bidding even after they called the state their deadliest enemies is a mystery.”
 

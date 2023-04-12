@@ -35,7 +35,7 @@ The US Senate has already announced plans to kick Moore out of the Senate if he 
 
 Before Roy Moore’s sexual assault allegations came to light, the Republican senate candidate was already a polarizing figure.
 
-Source: [www.foxnews.com/politics/2017/11/30/roy-moores-sexual-assault-allegations-cloud-alabama-special-senate-election.html](http://www.foxnews.com/politics/2017/11/30/roy-moores-sexual-assault-allegations-cloud-alabama-special-senate-election.html)
+Source: [www.foxnews.com/politics/2017/11/30/roy-moores-sexual-assault-allegations-cloud-alabama-special-senate-election.html](http://www.foxnews.com/politics/roy-moores-sexual-assault-allegations-cloud-alabama-special-senate-election.html)
 
 Moore has been shunned by fellow republicans and asked to step down by the Republican leadership.
 

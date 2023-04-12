@@ -29,15 +29,15 @@ https://lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-pr
 
 But when police were called to the Little Whiskey Christmas Club in response to DiNardi’s assault claim, they found McSharry had a “strong odor of alcohol,” “slurred his speech” and was so intoxicated “he couldn’t hardly walk,” according to officers’ testimony. Plus, the surveillance video that captured the attack was shown to the court. Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of both counts and imposed a sentence of 180 days
 
-https://rippreport.com/2020/04/18/judicial-trick/
+https://rippreport.com/judicial-trick/
 
 Baldwin County Circuit Judge Clark Stankoski, who “requested” to hear the case, dismissed the most serious charge, which is on video, of assault, which McSherry already plead guilty to in municipal court.
 
-https://rippreport.com/2020/01/24/bar-stool-continued/
+https://rippreport.com/bar-stool-continued/
 
 McSherry’s attorney James Pittman wants to float conspiracy theories and challenge the state’s Shield Law. Pittman is blaming everyone else, except McSherry.
 
-https://rippreport.com/2021/03/20/boycott-mcsharrys/
+https://rippreport.com/boycott-mcsharrys/
 
 This week the Fauxhope city attorney, Marcus McDowell represented Paula DiNardi in a case that was suppose to be an assault and intoxication charge against Ronan McSharry, owner of McSharry’s bar in Fairhope.
 
@@ -45,7 +45,7 @@ This has been a high profile case and another failure of the city attorney, city
 
 Judge Stankowski, after a one day trial where McSharry was found guilty, rendering a sentence of one year, unsupervised probation, without addressing the assault charge or the fact McSharry had already been sentenced to 6 months in jail and was on probation at the time of the assault on DiNardi.
 
-https://rippreport.com/2019/10/25/watering-hole/
+https://rippreport.com/watering-hole/
 
 How does a bar owner, continuously break the law and walk?
 

@@ -29,7 +29,7 @@ In 2018 CATALYST made a move to take over the County.
 
 Read today’s FREAKY FRIDAY. When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, Bill Press.
 
-Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/2018/05/30/catalyst-vs-the-people/)
+Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/catalyst-vs-the-people/)
 
 CATALYST should be feared, they threaten honest government and represent the very opposite, political corruption.
 
@@ -41,7 +41,7 @@ CATALYST should be feared, they threaten honest government and represent the ver
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 CATALYST candidates occupy the Fairhope City Council. The Fairhope City Attorney is a hand me down, as is the Faihope Municipal Judge, of the good ole boy CATALYST network of past Fairhope administrations. CATALYST and the Fairhope City Council operate like a criminal enterprise.
 
@@ -57,7 +57,7 @@ CATALYST is an organization that in no way is looking out for citizens best inte
 
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County…
 
-Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
+Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
 CATALYST wants to regain control of Fairhope and Baldwin County and now the First Congressional District. Fairhope needs to remove the CATALYST cancer from it’s government and it’s judiciary.
 
@@ -69,7 +69,7 @@ CATALYST wants to regain control of Fairhope and Baldwin County and now the Firs
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 Bill Hightower IS the CATALYST candidate, supported by Fairhope Municipal Judge/ developer Snedeker and former State Senator BP Boom Boom Pittman and of course the CATALYST Fairhope City Council. Birds of a feather flock together.
 
@@ -79,7 +79,7 @@ Bill Hightower IS the CATALYST candidate, supported by Fairhope Municipal Judge/
 
 How can a city council approve the largest development in Fairhope when the Municipal Judge is the developer…
 
-Source: [rippreport.com/2019/11/08/conflict-on-interest/](https://rippreport.com/2019/11/08/conflict-on-interest/)
+Source: [rippreport.com/2019/11/08/conflict-on-interest/](https://rippreport.com/conflict-on-interest/)
 
 You have four other choices for Congressmen, that are NOT CATALYST. Please tell your friends and family, the last thing we need is for CATALYST to be our congressional representative.
 

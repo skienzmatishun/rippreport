@@ -36,11 +36,11 @@ Our Former Mayor and former State Senator, while Sullivan was employed, stole 63
 
 Most of all let’s not forget “good vibes” pledge not to have anything to do with CATALYST. We will see if he is covered in oil or clean on Aug. 26th.
 
-https://rippreport.com/2020/07/29/oil-slick/
+https://rippreport.com/oil-slick/
 
 Mayor Wilson has a degree in finance, is a small business owner, where she has made good use of the degree for 25 years. Mayor Wilson has also been Mayor for 4 grueling years subjected to bullying, lying and deceit, delivered by a CATALYST council.
 
-https://rippreport.com/2020/08/05/catalyst-aka-scott-boone-consulting/
+https://rippreport.com/catalyst-aka-scott-boone-consulting/
 
 The citizens of Fairhope had better use their education and decide on a Mayor with experience and education.
 
@@ -52,7 +52,7 @@ Mayor Wilson, who has had the same job for 4 years, reversed an annual 6 million
 
 CATALYST and the three B's have never received any awards.
 
-https://rippreport.com/2020/08/06/nappi-award/
+https://rippreport.com/nappi-award/
 
 The thing that has this election so hot is that Mayor Wilson, in addition to the above, Scrutinized, Identified and Eliminated wasteful contractors. She successfully stopped the majority of corruption within city hall. These wasteful contractors represent CATALYST, who has been supported by the three B’s, Burrell Boone and Brown. They want control and they want Sullivan to carry the water.
 
@@ -60,7 +60,7 @@ Re- electing the 3 B’s and electing a high school graduate, who is a fired emp
 
 Study the signs in Fairhope, CATALYST/ Scott Boone candidates all have their signs together, they want a CATALYST block vote. If you have a Catalyst Mayor and a Catalyst council you are guaranteed corruption. Think how stupid this is: CATALYST is run by councilman Boone’s son, Scott, talk about an inside deal!
 
-https://rippreport.com/2020/08/07/catalyst-signs/
+https://rippreport.com/catalyst-signs/
 
 The three incumbent city councilmen, 3 B’s, also face challengers next week. Jack Burrell, Robert Brown and Kevin Boone will face Deb Hokpkins, Howell Gibbens and Joshua Gammon on the ballot, respectively.
 

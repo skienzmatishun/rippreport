@@ -61,4 +61,4 @@ So the question is: Why did the City stop using the "Land Use Plan" criteria whe
 
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
 
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/2018/09/05/victory/)
+Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)

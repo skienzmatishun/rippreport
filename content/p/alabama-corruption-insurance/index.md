@@ -74,7 +74,7 @@ Below are past articles addressing the same Political Corruption that keeps Alab
 
 “Before you answer — before your tribalism shines through and you pull on the Republican jersey and start chanting for your favorite team — let’s run through a few things. “
 
-https://www.alreporter.com/2019/04/30/opinion-politicians-didnt-corrupt-alabamas-government-you-did/
+https://www.alreporter.com/opinion-politicians-didnt-corrupt-alabamas-government-you-did/
 
 “Quite frankly, it’s been pretty sticky, especially states like Alabama,” he said. “Once a state becomes corrupt, it stays corrupt for a while.
 
@@ -86,7 +86,7 @@ https://www.alreporter.com/2019/04/30/opinion-politicians-didnt-corrupt-alabamas
 
 Columbia you got problems but that pretty little town on the bay, Fairhope, aka Fauxhope, aka No hope, has you beat, they have made political corruption a cottage industry.
 
-https://rippreport.com/2020/05/02/fairhope-no-hope-fauxhope/
+https://rippreport.com/fairhope-no-hope-fauxhope/
 
 Pastor Chris Bell 3 Circle Church:
 

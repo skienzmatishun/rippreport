@@ -33,11 +33,11 @@ Our politicians are now trying to pass a lottery, that for the last 20 years has
 
 ### WHAT EDUCATION LOTTERY? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
-[![](https://cdn.rippreport.com/3af90989-money-22.jpg)](https://rippreport.com/2019/04/26/what-education-lottery/)
+[![](https://cdn.rippreport.com/3af90989-money-22.jpg)](https://rippreport.com/what-education-lottery/)
 
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican…
 
-Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/2019/04/26/what-education-lottery/)
+Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/what-education-lottery/)
 
 In Fairhope a special school tax was favored by the City Council over a Mayor’s proposal push for impact fees and making the contribution more equitable. The Council President made it perfectly clear in his statement that “the City Council wants out of any School business.”
 
@@ -49,7 +49,7 @@ In Fairhope a special school tax was favored by the City Council over a Mayor’
 
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
 
-Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/2019/02/27/pedaling-forward/)
+Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
 
 These are the same micromanaging Christian conservatives who pound their chest every time the word taxes comes up, yet they favor taxing their constituency even when municipal funds, already collected taxes, are available. Welcome to Baldwin County we need your taxes. Doesn’t make sense.
 

@@ -20,7 +20,7 @@ Well, Wonderful Wednesday had some very interesting commentary.
 
 Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite and cordial among council and mayor. They are going to have difficult times...
 
-Source: [rippreport.com/2017/05/10/happy-days-are-here-again/](https://rippreport.com/2017/05/10/happy-days-are-here-again/)
+Source: [rippreport.com/2017/05/10/happy-days-are-here-again/](https://rippreport.com/happy-days-are-here-again/)
 
 Let me set the record straight on a few issues. First The Ripp Report is written by myself and sometimes does not get any grammatical edit. I apologize. Had I known 60 years ago that I would be writing the Ripp Report, I would have paid more attention in English class. I hope you get the message.
 
@@ -34,7 +34,7 @@ The mayor will not sell out to the GOB, good ole boys, or the 1%. Nor can she be
 
 The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for “Fairness”. First, the council implements a hiring freeze to punish the mayor for firing two employees. Then they side with the developer...
 
-Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/2017/04/28/help-fairness-killing-us/)
+Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/help-fairness-killing-us/)
 
 Please do not forget Mayor Kant did not participate in any transition nor did he attend the swearing in ceremonies. In fact he made it as difficult as possible.
 

@@ -49,7 +49,7 @@ Why fire the chief executive officer, combating political corruption, and not ap
 
 The Attorney General's Office confirmed Prosecutor Matt Hart is no longer with the office. He reportedly resigned from his duties Monday morning.
 
-Please Read: [www.wsfa.com/2018/11/19/public-corruption-prosecutor-matt-hart-out-attorney-generals-office/](https://www.wsfa.com/2018/11/19/public-corruption-prosecutor-matt-hart-out-attorney-generals-office/)
+Please Read: [www.wsfa.com/2018/11/19/public-corruption-prosecutor-matt-hart-out-attorney-generals-office/](https://www.wsfa.com/public-corruption-prosecutor-matt-hart-out-attorney-generals-office/)
 
 For the time being, any guardrail that may have been in place, with the Alabama Attorney General’s office, has disappeared.
 
@@ -93,6 +93,6 @@ What about you the citizens ? Are you just going to ignore the obvious and blata
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/)
+Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
 Alabama is number 1 in political corruption and will remain number 1 until the citizens of every community wake up and hold their elected officials accountable.

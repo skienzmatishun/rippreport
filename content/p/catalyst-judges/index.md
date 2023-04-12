@@ -23,7 +23,7 @@ A good example of this “insider Judge selection process”, is the appointment
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/2018/04/27/catalyst-queen-remember-family-court/)
+Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
 Thomason helped Scully acquire a position as the Veterans Court Judge as she was undoubtedly too busy campaigning in other parts of the State to carry out her duties to the citizens of Baldwin County. Scully used his time on the Veterans Court to schmooze with the “good ole boys” of Catalyst and parlay that connection into a District Court appointment. The “chosen ones,” AKA appointed Judges, are able to skate right through the election process, UNCONTESTED, much like a lifetime appointment in Federal Court.
 
@@ -51,7 +51,7 @@ The Alabama Legislature passed the interlock law in 2011, making it the 50th sta
 
 ### Alabama goes all in on ignition controls for drunken drivers, but do they work?
 
-![](https://image.al.com/home/bama-media/width620/img/alphotos/photo/2014/07/25/male-testing-on-2020jpg-53a0ddb9f5cf2d4d.jpg)
+![](https://image.al.com/home/bama-media/width620/img/alphotos/photo/male-testing-on-2020jpg-53a0ddb9f5cf2d4d.jpg)
 
 Taking effect this month, a revised law provides for people convicted of driving under the influence of alcohol to install ignition interlock devices that prevent their vehicles from starting if they have a blood-alcohol content of .02 or more.
 
@@ -65,7 +65,7 @@ Judge Scully was reminded of the law by counsel and continued to ignore it. Cata
 
 Catalyst represents the good ole boys and they want total control over Baldwin County Government. That means control of the County Commission, Probate Judge, Circuit Judge, Sheriff, District Attorney…
 
-Source: [rippreport.com/2018/05/14/cooking-for-the-judge/](https://rippreport.com/2018/05/14/cooking-for-the-judge/)
+Source: [rippreport.com/2018/05/14/cooking-for-the-judge/](https://rippreport.com/cooking-for-the-judge/)
 
 Is anyone willing to challenge the silent code and Catalyst? Unlike every other sitting Judge in Mobile or Baldwin county, Scully has such a challenger. Despite the fact that Scully’s black signs dot the county alongside the other Catalyst candidates signs on countless developer owed properties, Fairhope attorney, Brian Dasinger apparently didn’t get the memo that attorney’s aren’t suppose to run against sitting Judges. Dasinger has mounted a campaign against this status quo. Further despite the fact that local domestic relations bar has given Scully the majority of his contributions, no doubt to achieve favoritism in his courtroom, Dasinger has put together an impressive independent campaign. If elected, Dasinger will owe no one - except the hardworking taxpayers of Baldwin County.
 

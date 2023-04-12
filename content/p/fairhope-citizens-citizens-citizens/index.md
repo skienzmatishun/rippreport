@@ -65,7 +65,7 @@ For more information please read:
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer...
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 ## Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes
 
@@ -89,7 +89,7 @@ Source: [www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-
 
 Last week we featured, YOU DON’T KNOW JACK, this week we peel back the onion a little more. What we do know is that a lawyer paid a lawyer to write a letter to lawyers,...
 
-Source: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/2016/12/02/fairhope-airport-un_authorized/)
+Source: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/fairhope-airport-un_authorized/)
 
 ## Fairhope Airport land remains in Airport Authority's hands
 

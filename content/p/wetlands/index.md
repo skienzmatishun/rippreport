@@ -34,7 +34,7 @@ Fly Creek has gotten little attention from authorities in the past.
 
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For…
 
-Source: [rippreport.com/2017/10/06/can-you-smell-it/](https://rippreport.com/2017/10/06/can-you-smell-it/)
+Source: [rippreport.com/2017/10/06/can-you-smell-it/](https://rippreport.com/can-you-smell-it/)
 
 During public participation of the same meeting a resident from Sandy Ford, Rock Creek area, produced photographs of the wetlands by the subdivision of Firefly. This is the same Fly Creek Watershed. The resident said she, as well as other neighbors have smelled foul odors and have seen discolored water which appeared to be contaminated. The city lift stations have also been problematic in the same area. Baykeepers was given a copy of the photo’s and even acknowledged that they were familiar with the location. However Casi Callaway was too occupied with talking to the council and not the citizen complaining. These complaints have been fallen on deaf ears in the past, no city official or state agency has taken any time to answer any of the citizens complaints living in the area.
 
@@ -54,6 +54,6 @@ What a small world it is! Firefly was another Arthur Corte project with none oth
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
 
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/2017/01/25/conflict-of-interest/)
+Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
 Please remind Baykeepers that many people live along Fly Creek and that the proposed apartments to be built on the banks of the creek will only add to the already existing problems with sewage, water quality and quality of life. Baykeepers has remained mute on Fly Creek and its watershed, let’s hope maybe they are waking up.

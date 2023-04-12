@@ -27,7 +27,7 @@ The Jan. 28th meeting of the Fairhope City Council is a prime example of the lac
 
 Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”. The notice covers many issues and the final draft, particularly the issue of leases…
 
-Please Read: [rippreport.com/2019/01/11/captain-jack/](https://rippreport.com/2019/01/11/captain-jack/)
+Please Read: [rippreport.com/2019/01/11/captain-jack/](https://rippreport.com/captain-jack/)
 
 State law defines the distinct roles of mayor and council. The city cannot run effectively with a city attorney who refuses to work with the mayor.
 
@@ -53,7 +53,7 @@ McDowell and Capt Jack also get credit for the Federal lawsuit, that cost taxpay
 
 A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
 
-Please Read: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/2018/05/23/police-report/)
+Please Read: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
 The City Attorney nor Capt. Jack ever explained the police report Mr Burrell had been hiding for years. Again the Council and City Attorney just ignored the issue. He is the CITY attorney and should have released a statement about the Captain’s police report, when it came to light.
 
@@ -65,7 +65,7 @@ The City Attorney nor Capt. Jack ever explained the police report Mr Burrell had
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack Burrell…
 
-Please Read: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Please Read: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 The City Council did not want to listen to the Mayor about her concerns as to the Council selecting McDowell as City Attorney. However they said nothing when they lost the lawsuit. There was no accountability, Capt Jack and McDowell suddenly did not want to talk about it.
 
@@ -77,7 +77,7 @@ The City Council did not want to listen to the Mayor about her concerns as to th
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
-Please Read: [rippreport.com/2018/10/19/loser/](https://rippreport.com/2018/10/19/loser/)
+Please Read: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
 Then we have the very suspicious connection between the City Attorney Jack Burrell and Ronan McSharry.
 
@@ -93,7 +93,7 @@ Let’s see what surprises Mr. McDowell comes up with as a “Public Prosecutor�
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
 
-Please Read: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/2018/11/30/barstool/)
+Please Read: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
 This was suppose to go to court today I predict they will postpone the case until a later date. This is the same thing they did when McSharry threatened Nall, the artist. It will be postpone, postpone, postpone, then blame the victim or anyone else other than the guilty party.
 

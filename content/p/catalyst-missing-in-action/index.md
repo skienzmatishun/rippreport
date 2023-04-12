@@ -33,7 +33,7 @@ This was very disrespectful to the other attendees and especially the host, Comm
 
 That is absolutely false, the Mayor showed up, by invitation, just like everyone else. Sullivan just made a bad situation worse by not taking responsibility for her actions.
 
-https://rippreport.com/2020/07/25/fly-on-the-wall/
+https://rippreport.com/fly-on-the-wall/
 
 Does this sound like Mayor material? I think not. Not only did Sherry not show at the scheduled forum, she showed up at the football game and gave fans to attendees NOT wearing masks. So the stands are full of people not practicing social distancing and not wearing masks.
 
@@ -43,13 +43,13 @@ Giving them a damn fan.
 
 Give me a break if I read this not knowing anyone I would cross Sherry off the list, first.
 
-https://rippreport.com/2020/08/20/fairhope-voters-guide/
+https://rippreport.com/fairhope-voters-guide/
 
 Let’s not forget Burrell, Brown and Sherry wanted to “take a chance” with the Arts and Craft Show. Over 200,000 people attend that show. Doctors from Thomas advised against it, but Sherry Brown and Burrell wanted to push forward. This is another example of poor judgment on Sherry’s part as well as Burrell and Boone.
 
 Truth is Sullivan does not want to answer questions or have any “high anxiety”, public forum.
 
-https://rippreport.com/2020/08/17/questions-for-fairhope/
+https://rippreport.com/questions-for-fairhope/
 
 Mayor Wilson adamantly opposed “taking a chance” and the Arts and Crafts show was finally canceled. That is what I call a Mayor, putting the safety of the citizens before profits.
 
@@ -61,7 +61,7 @@ The below was a post recently sent to the Mayor Wilson:
 
 All the other Mayoral Candidates have displayed common sense when it comes to Covid. All agree on social distancing and masks and put the citizens before profits. Sullivan is not Mayor material and her actions display a lack of education as well as judgment.
 
-https://rippreport.com/2020/08/20/fairhope-voters-guide/
+https://rippreport.com/fairhope-voters-guide/
 
 The football game may result in yet more Covid cases.
 

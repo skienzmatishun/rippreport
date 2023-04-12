@@ -17,7 +17,7 @@ It is easy to see that people with special interests, Catalyst connections, or a
 
 FAIRHOPE CHANGE OF GOVERNMENT The Fairhope City Council is on a roundabout and doesn’t know where to exit. The present Council is an “at Large” council, they are not going to vote for change.
 
-Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/2018/09/24/hell-yea/)
+Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/hell-yea/)
 
 Fairhope will go to districts anyway in just a few years when the benchmark in population is reached.
 
@@ -55,7 +55,7 @@ Two more independent citizen groups are being formed in support of the YES vote
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
 
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/)
+Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
 Don’t be fooled by deliberate confusion, fear or intimidation, Fairhope deserves better.
 

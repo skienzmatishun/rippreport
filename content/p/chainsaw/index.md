@@ -24,7 +24,7 @@ Sometimes you have to send a strong public message to politicians, elected offic
 
 Congratulations Fairhope citizens your 2276 signatures on a petition convinced the Fairhope Single Tax to back off the proposed Tuberville subdivision.
 
-Source: [rippreport.com/2018/02/16/people-power-2/](https://rippreport.com/2018/02/16/people-power-2/)
+Source: [rippreport.com/2018/02/16/people-power-2/](https://rippreport.com/people-power-2/)
 
 Baldwin County Commissioner Chris Elliott, supported by Tucker Dorsey, both are Catalyst candidates, recently tried, again, to deny the Zundle’s Road public access to Mobile Bay. They did not count on the chainsaw or Lagniappe.
 

@@ -37,7 +37,7 @@ During the public participation in last night’s city council meeting Mr. Burre
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head...
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 The Ethics Commission “The commission has constantly held that when a public official wishes to do business with the entity on which they serve, it must be done through some type of bid process, regardless of whether the bid laws apply.”
 
@@ -49,7 +49,7 @@ The Airport Authority was compelled to bid the lease due to Mr. Hix being on the
 
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents...
 
-Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/2017/02/08/5000-00-cash-reward/)
+Source: [rippreport.com/2017/02/08/5000-00-cash-reward/](https://rippreport.com/5000-00-cash-reward/)
 
 Mr. Burrell’s next statement defied logic or common sense. He explained to another public participant that the hanger in question does not profit “anyone.” So, a hanger that cost 750,000 dollars and houses a million dollar airplane; has it’s own fuel farm, and a 30 year lease has no real profit being made? I thought the intent of the Airport was to make money and that the bid was going to the best bidder for the economic engine of the Authority?
 

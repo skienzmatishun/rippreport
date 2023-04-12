@@ -35,7 +35,7 @@ The same thing happened in Fairhope where citizens were able to do what their el
 
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
 
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/2018/09/05/victory/)
+Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
 
 In Fairhope the “Catalyst” Council President mocked the citizens and Mayor when the citizens started asking questions.
 
@@ -47,7 +47,7 @@ In Fairhope the “Catalyst” Council President mocked the citizens and Mayor w
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
 The same “Catalyst” Council and Council President even took the extreme move of not allowing, yours truly, the ability to speak at a public forum.
 
@@ -59,7 +59,7 @@ The same “Catalyst” Council and Council President even took the extreme move
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 These small town municipalities have counted on the citizens NOT participating. The table is shifting and the good ole boy mentality is eroding with each new resident to Baldwin County.
 

@@ -33,7 +33,7 @@ Sheriff Hoss Mack is a seasoned politician who had the previous State Senator Tr
 
 Now ask yourself how can a person qualify to run for the position of Alabama Attorney General, the top law enforcement officer in the state, but does not qualify to run for sheriff? Sheriff Mack has to maintain a monopoly on the job to protect the dismal record he has, that few are aware of. The Sheriff also investigates all major incidents involving loss of life, with his own Major Crimes Division. You will be happy to learn that there has not been a single officer ever found guilty by one of these “Investigations”, not one.
 
-https://rippreport.com/2022/01/29/press-release/
+https://rippreport.com/press-release/
 
 State Senator Elliott is also running unopposed, the new redistricting eliminated his competition. Elliott and Mack are connected by Elliott’s wife who has a high paying job with guess who? Sheriff Mack. How damn cozy is that? Elliott is far worse than Mack and he knows he needs Mack as Mack needs him. That’s why Mack and Elliott are always on the same page. This cozy relationship is not by chance but design. Mack can, and has, jerked Elliott’s chain, when he needs him to heel.
 

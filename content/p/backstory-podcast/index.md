@@ -21,7 +21,7 @@ The tables have turned on the status quo in Baldwin County, they have shrunk in 
 
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars…
 
-Source: [rippreport.com/2019/09/04/transparency/](https://rippreport.com/2019/09/04/transparency/)
+Source: [rippreport.com/2019/09/04/transparency/](https://rippreport.com/transparency/)
 
 Exposure and the Court of Public Opinion will lead to the council’s removal in 2020. Monday night Fairhope City Council will vote themselves a free health insurance coverage. Additional they will set the Mayor’s salary, ignoring an Auburn Study, that was suppose to give guidance to these issues.
 
@@ -37,6 +37,6 @@ Backstory Podcast is a production of Backwoods Media, LLC an Alabama Domestic Li
 
 Political Corruption Has No Place in a Civilized Society
 
-Source: [rippreport.com/2019/09/02/ripp-report-podcast/](https://rippreport.com/2019/09/02/ripp-report-podcast/)
+Source: [rippreport.com/2019/09/02/ripp-report-podcast/](https://rippreport.com/ripp-report-podcast/)
 
 We invite all citizens to follow the Podcasts and to share any information on any subject you would like to see covered.

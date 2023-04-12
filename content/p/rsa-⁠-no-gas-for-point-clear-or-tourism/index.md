@@ -29,7 +29,7 @@ This is a dispute between the Point Clear Properties Association and RSA, Retire
 
 After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy. It was a sight to behold every politician in Baldwin County showed…
 
-Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/2019/08/28/fingerprint/)
+Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/fingerprint/)
 
 The piece of property in question is the quaint marina next to the Grand Hotel, 1.27 acres. The homeowners association has done an excellent job of opposing the 12 unit condo project. A petition of over 400 signatures and an additional 100 letters have been submitted to the Baldwin County Planning Commission.
 

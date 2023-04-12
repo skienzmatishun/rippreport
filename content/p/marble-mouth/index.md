@@ -29,7 +29,7 @@ Read this article printed 11/11/16
 
 Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and…
 
-Source: [rippreport.com/2016/11/11/dont-throw-rocks-if-you-live-in-a-glass-house/](https://rippreport.com/2016/11/11/dont-throw-rocks-if-you-live-in-a-glass-house/)
+Source: [rippreport.com/2016/11/11/dont-throw-rocks-if-you-live-in-a-glass-house/](https://rippreport.com/dont-throw-rocks-if-you-live-in-a-glass-house/)
 
 Council President Burrell has been Council President for over 7 years, and there lies the problem. The Council votes in opposition of the Mayor and staff regardless the issue.
 
@@ -95,7 +95,7 @@ Don’t forget how Burrell is controlling the Airport and refusing to allow the 
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 New Year Prediction: The City Council, Catalyst, and the status quo are now going to obstruct the use of the Triangle.
 

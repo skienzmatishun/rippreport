@@ -13,7 +13,7 @@ The Fairhope City Council is an “at Large” elected Council. Each of the memb
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/2018/04/20/catalyst-does-fairhope/)
+Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
 This council will NEVER vote for districts and will do everything possible to stop that from happening. They are lying to the public; they got caught. What happens next is their undoing.
 
@@ -41,7 +41,7 @@ This Catalyst City Council did nothing to inform the general public as to the de
 
 I could smell the skunk through my computer, the first time that I read, Chuck Zunk, was agreeing with the Mayor of Fairhope, on the Council-manager form of government. Mr Zunk was appointed to the…
 
-Source: [rippreport.com/2018/06/22/zunk-the-skunk/](https://rippreport.com/2018/06/22/zunk-the-skunk/)
+Source: [rippreport.com/2018/06/22/zunk-the-skunk/](https://rippreport.com/zunk-the-skunk/)
 
 ## SKUNKED
 
@@ -51,7 +51,7 @@ Source: [rippreport.com/2018/06/22/zunk-the-skunk/](https://rippreport.com/2018/
 
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a…
 
-Source: [rippreport.com/2018/08/24/skunked/](https://rippreport.com/2018/08/24/skunked/)
+Source: [rippreport.com/2018/08/24/skunked/](https://rippreport.com/skunked/)
 
 The Council stayed silent, until yet another special meeting was called, again at the close of a workday around 5:00 p.m. on a Monday--for a Wednesday meeting. The City Attorney is now going to be paid your tax dollars to research the entire issue, 11 days before the special called the election to be held Oct. 2, 2018. Councilman Jay Robinson, an attorney, as well as the council President, Jack Burrell, did nothing to clarify any facts with the Attorney General, prior to the meeting. Mr. Burrell stated he had Nick Saban’s cell phone number on speed dial; but did not know the Attorney General’s phone number. That was their excuse and all they had to do was go to face book or the Internet to get the number. They chose not too—out of laziness and sheer stupidity.
 
@@ -93,7 +93,7 @@ The Catalyst Council never made a statement or offered any information to the pu
 
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
 
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/2018/09/05/victory/)
+Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
 
 The Council and City Attorney sat back and remained silent while the Council President refused to even allow a citizen, yours truly, to even speak.
 
@@ -105,7 +105,7 @@ The Council and City Attorney sat back and remained silent while the Council Pre
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/2017/12/29/see-ya-in-court-jack/)
+Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 If Fairhope goes to a Mayor/Manager District form of Government then the present City Attorney and Municipal Judge should be replaced in 2020 or as soon as possible.
 
@@ -117,7 +117,7 @@ If Fairhope goes to a Mayor/Manager District form of Government then the present
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Fairhope City Council is in goosestep with one another and have supported the Airport Authority over the City’s best interest. Fairhope taxpayers pay for the Fairhope Airport but the Council supports the Authority holding the title, that’s a Catalyst move.
 

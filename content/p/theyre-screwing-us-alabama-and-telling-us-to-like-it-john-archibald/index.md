@@ -33,4 +33,4 @@ Source: [www.al.com/opinion/index.ssf/2018/03/fighting\_corruption\_in\_alabama.
 
 It’s the bad ethics bill that just won’t die. For most of the 2018 Legislative session, HB317 — a bill that would implant a broad exception into Alabama’s ethics laws to allow fulltime and part-time economic development professionals to not register as lobbyists — has been pushed down the throats of wary lawmakers. And it’s \[…\]
 
-Source: [www.alreporter.com/2018/03/21/hb317-the-ethics-bill-that-just-wont-die/](http://www.alreporter.com/2018/03/21/hb317-the-ethics-bill-that-just-wont-die/)
+Source: [www.alreporter.com/2018/03/21/hb317-the-ethics-bill-that-just-wont-die/](http://www.alreporter.com/hb317-the-ethics-bill-that-just-wont-die/)

@@ -19,7 +19,7 @@ authors:
 
 FAIRHOPE For 12 years The Ripp Report has been reporting on issues related to Fairhope. One thing that is perfectly obvious is that the way Fairhope has been governed, has not worked.
 
-Source: [rippreport.com/2018/11/01/the-face-of-no/](https://rippreport.com/2018/11/01/the-face-of-no/)
+Source: [rippreport.com/2018/11/01/the-face-of-no/](https://rippreport.com/the-face-of-no/)
 
 Mr. Gary Thorson, of Forever Fairhope, a political action committee, is another NO vote.
 
@@ -37,7 +37,7 @@ Well Gary you need to play the lotto because you are the winner. You are absolut
 
 VOTE “Yes” ON NOV 6TH on THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
-Source: [rippreport.com/2018/10/30/vote-yes-on-nov-6th/](https://rippreport.com/2018/10/30/vote-yes-on-nov-6th/)
+Source: [rippreport.com/2018/10/30/vote-yes-on-nov-6th/](https://rippreport.com/vote-yes-on-nov-6th/)
 
 Alabama is the most corrupt State in the United States and Baldwin County is in competition with Jefferson County as the most corrupt county in Alabama. THAT IS A FACT
 
@@ -63,7 +63,7 @@ VOTING YES moves Fairhope forward, not backwards. VOTING YES means that Fairhope
 
 VOTE “Yes” ON NOV 6TH on THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
-Source: [rippreport.com/2018/10/30/vote-yes-on-nov-6th/](https://rippreport.com/2018/10/30/vote-yes-on-nov-6th/)
+Source: [rippreport.com/2018/10/30/vote-yes-on-nov-6th/](https://rippreport.com/vote-yes-on-nov-6th/)
 
  
 

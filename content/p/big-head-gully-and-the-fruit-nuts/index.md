@@ -30,4 +30,4 @@ THIS IS AN INSIDE DEAL HEADED BY “TWO HAT” MR. LEE TURNER, HEAD OF BOTH SING
 
 Some people will believe anything they are told without question. The last Fairhope City Council meeting is a perfect example, items 5 and 13, smell like a pig pen. It was all smoke and mirrors…
 
-Source: [rippreport.com/2018/01/27/elephant-in-a-volkswagen/](https://rippreport.com/2018/01/27/elephant-in-a-volkswagen/)
+Source: [rippreport.com/2018/01/27/elephant-in-a-volkswagen/](https://rippreport.com/elephant-in-a-volkswagen/)

@@ -37,7 +37,7 @@ MR. Hix and Mr. Snedeker use the words exonerated, baseless and malicious compla
 
 The Ripp Report is no longer operating as a non profit. It will operate as a cooperation in the future. The change allows The Ripp Report more latitude when it comes to endorsing and supporting…
 
-Source: [rippreport.com/2017/10/19/ethics-comedians/](https://rippreport.com/2017/10/19/ethics-comedians/)
+Source: [rippreport.com/2017/10/19/ethics-comedians/](https://rippreport.com/ethics-comedians/)
 
 The Ethics Commission stated “The Commission concluded, upon review of the evidence from the investigation, that their was not probable cause to believe that Jack Burrell, or Hix, committed a violation of the Alabama Ethics Act”.
 
@@ -51,7 +51,7 @@ Jack is hiding behind the Ethics Commission however the Court of Public Opinion,
 
 In Fairhope, “come fly with me” Jack Burrell is facing ethics complaints as well as Fairhope Airport Authority board member Ray Hix, Fairhope Municipal Judge Snedeker’s partner. The airport authority…
 
-Source: [rippreport.com/2017/08/02/alabama-ethics-a-political-tool/](https://rippreport.com/2017/08/02/alabama-ethics-a-political-tool/)
+Source: [rippreport.com/2017/08/02/alabama-ethics-a-political-tool/](https://rippreport.com/alabama-ethics-a-political-tool/)
 
 BONUS MONEY COMPLIMENTS OF FAIRHOPE CITY COUNCIL
 
@@ -65,7 +65,7 @@ Chucky and the tabloid did their part in supporting the fired employees:
 
 First let me announce that no longer will the Ripp Report accept comments from Jester 666 and the Truth teller, most likely one in the same. Their comments add nothing to the subjects at hand and the…
 
-Source: [rippreport.com/2017/08/09/fake-news-and-retaliation/](https://rippreport.com/2017/08/09/fake-news-and-retaliation/)
+Source: [rippreport.com/2017/08/09/fake-news-and-retaliation/](https://rippreport.com/fake-news-and-retaliation/)
 
 Fairhope elected a new Mayor and council over one year ago
 
@@ -87,4 +87,4 @@ The council is quick to obstruct the Mayor and that is their only accomplishment
 
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp…
 
-Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/2017/10/20/job-with-benefits/)
+Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/job-with-benefits/)

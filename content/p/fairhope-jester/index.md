@@ -67,7 +67,7 @@ Mr. Brown has also developed houses that should have been connected to city sewe
 
 Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily. Developers love them because it saves them money in construction and the poor consumer, most…
 
-Source: [rippreport.com/2018/02/02/grinder-pumps/](https://rippreport.com/2018/02/02/grinder-pumps/)
+Source: [rippreport.com/2018/02/02/grinder-pumps/](https://rippreport.com/grinder-pumps/)
 
 Mayor’s response:
 

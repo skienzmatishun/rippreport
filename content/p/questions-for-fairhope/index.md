@@ -53,13 +53,13 @@ If you made it this far then educate yourself on what has been going on in Fairh
 
 Read the links of the past.
 
-https://rippreport.com/2019/12/04/triangle-roaches/
+https://rippreport.com/triangle-roaches/
 
-https://rippreport.com/2018/12/05/russian-roulette-fairhope-style/
+https://rippreport.com/russian-roulette-fairhope-style/
 
 Do you feel elected officials should be able to profit in any way with city contracts or city related contracts? Such as soccer fields or Art center contracts or debris removal?
 
-https://rippreport.com/2017/07/26/jack-ass/
+https://rippreport.com/jack-ass/
 
 What would your position if the city attorney only represented the council and ignored the Mayor?
 
@@ -71,15 +71,15 @@ If elected would you promise former Mayor Cant would not be hired in the positio
 
 What would you do if council disrespected you and bullied you during council meetings?
 
-https://rippreport.com/2019/04/19/one-woman/
+https://rippreport.com/one-woman/
 
-https://rippreport.com/2020/05/29/catalyst-train-wreck/
+https://rippreport.com/catalyst-train-wreck/
 
 Would you leave the utility department as is and not use utility funds to prop up general funds?
 
 What would you do with the recreation land we paid $2,650,000 for and now have on a lease for $9000 a year?
 
-https://rippreport.com/2020/03/26/lost-opportunity/
+https://rippreport.com/lost-opportunity/
 
 Are you in favor of full family insurance for the city council?
 
@@ -91,23 +91,23 @@ During the previous administration the Mayor and State Senator were involved in 
 
 Would you explain your connection with Kevin Boone, Scott Boone and Catalyst?
 
-https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/
+https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/
 
-https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/
+https://rippreport.com/investigative-reporting-business-entity-records/
 
 What would you do with the K-1 center and Nix center considering the council has done nothing since purchase?
 
-https://rippreport.com/2019/03/27/community-engagement/
+https://rippreport.com/community-engagement/
 
 What would be your long range plans with city hall which is in need of major repairs such as a roof?
 
 What would your position be if you found out a council person was voting on issues he had a financial interest in? Would you file an ethics complaint?
 
-https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/
+https://rippreport.com/investigative-reporting-business-entity-records/
 
 Do you think board members, be it the airport or art center, should be able to bid on issues related to the same board?
 
-https://rippreport.com/2017/03/10/listening-not-reading/
+https://rippreport.com/listening-not-reading/
 
 Do you favor districts? Over open seats without specific representation for city council?
 
@@ -121,9 +121,9 @@ What would be your position on employee insubordination to the Mayor?
 
 What is your position on public participation? Should anyone be denied the right to speak?
 
-https://rippreport.com/2017/08/30/now-you-know-jack/
+https://rippreport.com/now-you-know-jack/
 
-https://rippreport.com/2020/04/18/judicial-trick/
+https://rippreport.com/judicial-trick/
 
 What is your position on the council making decisions that affect the whole community, without any public participation? An example is the recreation land purchase.
 
@@ -131,13 +131,13 @@ What is your position on the city council president? Should it rotate every 6 mo
 
 CATALYST/Scott Boone supported you and Boone Brown and Burrell. Do you not think it is a conflict to have a councilman’s son supporting a block vote that includes his father?
 
-https://rippreport.com/2019/12/04/triangle-roaches/
+https://rippreport.com/triangle-roaches/
 
-https://rippreport.com/2018/12/05/russian-roulette-fairhope-style/
+https://rippreport.com/russian-roulette-fairhope-style/
 
 Do you feel elected officials should be able to profit in any way with city contracts or city related contracts? Such as soccer fields or Art center contracts or debris removal?
 
-https://rippreport.com/2017/07/26/jack-ass/
+https://rippreport.com/jack-ass/
 
 What would your position be once in office as to people you would fire or hire?
 
@@ -145,79 +145,79 @@ If elected would you promise former Mayor Cant, would not be hired, in the posit
 
 What would you do if council disrespected you and bullied you during council meetings?
 
-https://rippreport.com/2019/04/19/one-woman/
+https://rippreport.com/one-woman/
 
-https://rippreport.com/2020/05/29/catalyst-train-wreck/
+https://rippreport.com/catalyst-train-wreck/
 
 Would you leave the utility department as is and not use utility funds to prop up general funds?
 
-https://rippreport.com/2020/03/26/lost-opportunity/
+https://rippreport.com/lost-opportunity/
 
 Are you in favor of full family insurance for the city council?
 
 Would you leave the Airport authority as is or try and get the title to the land in the name of the city?
 
-https://rippreport.com/2017/02/10/jack-box-airport/
+https://rippreport.com/jack-box-airport/
 
-https://rippreport.com/2017/02/08/5000-00-cash-reward/
+https://rippreport.com/5000-00-cash-reward/
 
 Would you explain your connection with Kevin Boone, Scott Boone and Catalyst?
 
-https://rippreport.com/2020/07/22/catalyst-last-stand/
+https://rippreport.com/catalyst-last-stand/
 
-https://rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/
+https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/
 
-https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/
+https://rippreport.com/investigative-reporting-business-entity-records/
 
 What would you do with the K-1 center and Nix center, considering the council has done nothing since purchase?
 
-https://rippreport.com/2019/03/27/community-engagement/
+https://rippreport.com/community-engagement/
 
-https://rippreport.com/2018/02/23/fairhope-jester/
+https://rippreport.com/fairhope-jester/
 
 > “What’s important is that you cannot use your office to create a benefit for yourself or any business with which you’re associated or your family. You may bid on the work but you cannot have used or use in the future your position to get it awarded.” ETHICS COMMISSION
 
-https://rippreport.com/2017/01/25/investigative-reporting-business-entity-records/
+https://rippreport.com/investigative-reporting-business-entity-records/
 
 Do you think board members, be it the airport or art center, should be able to bid on issues related to the same board?
 
-https://rippreport.com/2017/03/10/listening-not-reading/
+https://rippreport.com/listening-not-reading/
 
 What is your position on public participation? Should anyone be denied the right to speak?
 
-https://rippreport.com/2017/08/30/now-you-know-jack/
+https://rippreport.com/now-you-know-jack/
 
-https://rippreport.com/2020/04/18/judicial-trick/
+https://rippreport.com/judicial-trick/
 
 CATALYST/Scott Boone supported you and Boone Brown and Burrell. Do you not think it is a conflict to have a councilman’s son supporting a block vote that includes his father?
 
-https://rippreport.com/2017/06/02/leaks-and-collusion/
+https://rippreport.com/leaks-and-collusion/
 
 How do you explain CATALYST?
 
-https://rippreport.com/2018/04/20/catalyst-does-fairhope/
+https://rippreport.com/catalyst-does-fairhope/
 
 What action would you take if you found out a councilman had an undisclosed police report where two incidents involved juveniles?
 
-https://rippreport.com/2018/05/23/police-report/
+https://rippreport.com/police-report/
 
 What would be your position if a citizen came to you as Mayor and explained how they were assaulted in a public business and the individual had a reputation of assault?
 
-https://rippreport.com/2018/11/30/barstool/
+https://rippreport.com/barstool/
 
-https://rippreport.com/2017/06/02/leaks-and-collusion/
+https://rippreport.com/leaks-and-collusion/
 
 How do you explain CATALYST?
 
-https://rippreport.com/2018/04/20/catalyst-does-fairhope/
+https://rippreport.com/catalyst-does-fairhope/
 
 What action would you take if you found out a councilman had an undisclosed police report where two incidents involved juveniles?
 
-https://rippreport.com/2018/05/23/police-report/
+https://rippreport.com/police-report/
 
 What would be your position if a citizen came to you as Mayor and explained how they were assaulted in a public business and the individual had a reputation of assault?
 
-https://rippreport.com/2018/11/30/barstool/
+https://rippreport.com/barstool/
 
 Robert Brown Ethics and Attorney General complaint, what would your position be as Mayor?
 

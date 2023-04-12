@@ -26,7 +26,7 @@ Recently we published copies of LLC’s connecting Fairhope city councilman Kevi
 
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple...
 
-Source: [rippreport.com/2017/01/11/bit-dogs-bark-first/ and https://rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/2017/01/11/bit-dogs-bark-first/ and https://rippreport.com/2017/01/13/boone-doggle/)
+Source: [rippreport.com/2017/01/11/bit-dogs-bark-first/ and https://rippreport.com/boone-doggle/](https://rippreport.com/2017/01/11/bit-dogs-bark-first/ and https://rippreport.com/2017/01/13/boone-doggle/)
 
 Mr. Boone has been voting and advocating for particular engineer firms while eliminating others. He also has enjoyed handsome campaign contributions from the same LLC’s that he has a financial interest in.
 

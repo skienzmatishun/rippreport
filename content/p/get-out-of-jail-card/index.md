@@ -21,7 +21,7 @@ We all remember lying “Tax Man” Elliott. He pledged to do the right thing an
 
 "On the advice of counsel, I declined the breathalyzer requested which automatically resulted in the issuance of a citation for driving under the influence of alcohol." Chris Elliott
 
-https://rippreport.com/2021/03/26/a-slap-on-the-wrist/
+https://rippreport.com/a-slap-on-the-wrist/
 
 Paula DiNardi case: “At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he allegedly harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.
 

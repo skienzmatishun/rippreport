@@ -23,7 +23,7 @@ Those of you new to the Ripp Report may wish to read the link below. You will se
 
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
 
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/2017/02/10/jack-box-airport/)
+Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
 Fairhope is being held hostage by Burrell and his persistent fight for the Airport Authority to maintain control, and hold the title of the Airport. Burrell is the city liaison to the Airport Authority Board as well as City Council President. Fairhope pays for the mortgage yet cannot claim it as an asset. The title to the Airport should be held by the city, Jack we want our Airport back.
 
@@ -33,7 +33,7 @@ Fairhope is being held hostage by Burrell and his persistent fight for the Airpo
 
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
 Mr Burrell has never disclosed the fact that he has a police record. Just like the Airport, and many other issues, he is lying through his teeth.
 
@@ -53,7 +53,7 @@ Just thinking out loud “I wonder if Jack’s good friend Judge Michelle Thomas
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/2018/04/27/catalyst-queen-remember-family-court/)
+Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
 The Fairhope City Council was made aware of the police report weeks ago and choose to ignore it.
 
@@ -67,6 +67,6 @@ The council has refused to answer to any accountability, transparency is a black
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/2018/02/23/fairhope-jester/)
+Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
 Mr. Jack Burrell should immediately step down from the position of President of the Fairhope City Council, as well as his board position with the Fairhope Airport Authority. These are the actions of a Catalyst mindset, elect Catalyst candidates and you will get more of the same.

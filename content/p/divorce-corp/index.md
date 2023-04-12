@@ -23,7 +23,7 @@ Wonderful Wednesday will begin to focus in on our judicial system in particularl
 
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree. They were so plentiful and consistent…
 
-Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/)
+Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
 The attorney who gets complained about the most hands down is Stephen “bottom feeder” Johnson. Avoid Judge Thomason, a good friend of Jack Burrell, and Steven Johnson at all costs.
 

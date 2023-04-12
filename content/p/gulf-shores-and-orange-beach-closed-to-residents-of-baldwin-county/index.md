@@ -30,7 +30,7 @@ Both Mayor’s just pulled off a major coup. They gave into their disdain for Ch
 
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
 
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/)
+Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
 We will give you Jeff Boyd’s endorsement for your unconditional support for a bridge or two and what ever the hell else we want while you are in office, let’s hope that does not happen. Jeff Boyd proved he could not make a decision without the consent of the Mayor. He forgot about those who voted for him and against Elliott.
 
@@ -68,7 +68,7 @@ Closed to residents of Baldwin County
 
 Submitted by: Chris Warner Dear Editor: The citizens of Myrtle Beach, South Carolina and Destin, Florida were bushwhacked. They never saw it coming. Or did they? Ongoing costs of residential growth…
 
-Source: [rippreport.com/2018/06/07/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/)
+Source: [rippreport.com/2018/06/07/paradise-lost/](https://rippreport.com/paradise-lost/)
 
 ## PLEASE VOTE THE PEOPLE’S CHOICE DAVID NORTHCUTT FOR SENATE SEAT 32
 

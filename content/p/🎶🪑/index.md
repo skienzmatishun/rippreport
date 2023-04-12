@@ -19,7 +19,7 @@ The current council has one member, Jay Robinson, that was appointed by council,
 
 One member, Cory Martin won, when his opposition dropped out of the race. Cory replaces Jimmy as being the most gullible. Cory has been enjoying his status as council member, however he has forgotten the African American community in Fairhope. Get a map Cory and find Young Street.
 
-https://rippreport.com/2021/11/04/%f0%9f%8d%97%f0%9f%8d%89/
+https://rippreport.com/%f0%9f%8d%97%f0%9f%8d%89/
 
 Let’s hope he wakes up and does something other than agreeing 100% of the time with council and rubber stamping what the Mayor wants.
 

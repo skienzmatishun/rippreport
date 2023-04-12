@@ -33,7 +33,7 @@ We are all in this together that means we ALL need to cooperate and work with on
 
 In Alabama some citizens are participating 100%, at the potential risk of others.
 
-Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/2020/04/01/april-fool/)
+Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/april-fool/)
 
 In Baldwin County each of the 14 municipalities is handling the virus independently.
 

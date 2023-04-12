@@ -13,7 +13,7 @@ One thing that is a fact, Fairhope has a dismal and embarrassing reputation abou
 
 Fairhope spent 2.6 million on farmland for recreation then rented it for farming for 9000 dollars a year. Jack Burrell was behind this purchase, that is still farmland today. How much did the Park in the African American neighbor get? ZERO
 
-https://rippreport.com/2020/03/26/lost-opportunity/
+https://rippreport.com/lost-opportunity/
 
 Absolutely no one wanted the recreation land to be located next to the airport. Burrell Boone and Brown pushed the purchase down the throats of the citizens.
 

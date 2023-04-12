@@ -19,7 +19,7 @@ Those few opposed are the hold outs from the past. Good ole Boys and Club Cataly
 
 The Fairhope election to vote on change of government has been delayed to the same day as the general election, November 6th. The vote is for the citizens of Fairhope only. On the day of the election…
 
-Source: [rippreport.com/2018/10/03/crystal-ball/](https://rippreport.com/2018/10/03/crystal-ball/)
+Source: [rippreport.com/2018/10/03/crystal-ball/](https://rippreport.com/crystal-ball/)
 
 VOTE “YES” ON NOV 06, 2018
 
@@ -109,4 +109,4 @@ Why spend money again? There are two reasons. Firstly, the opposition has had mo
 
 FAIRHOPE CHANGE OF GOVERNMENT The Fairhope City Council is on a roundabout and doesn’t know where to exit. The present Council is an “at Large” council, they are not going to vote for change.
 
-Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/2018/09/24/hell-yea/)
+Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/hell-yea/)

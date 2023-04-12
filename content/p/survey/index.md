@@ -21,7 +21,7 @@ The CATALYST City Council has been a huge disappointment, their efforts centered
 
 Fairhope’s City Council started out, day one, as being obstructionist. They have stayed the course for over 3 years and the taxpayers have paid dearly. The three new councilman aligned themselves with…
 
-Source: [rippreport.com/2020/01/15/marble-mouth/](https://rippreport.com/2020/01/15/marble-mouth/)
+Source: [rippreport.com/2020/01/15/marble-mouth/](https://rippreport.com/marble-mouth/)
 
 While the city was working hard on financial improvements and in the mist of the budget process the council elected, against public outcry, to purchase 2.65 million worth of farmland for recreation. Within weeks of purchase and no money for development of the property, they decided to call it “surplus” and lease it out for farming at 9 thousand dollars a year, which hardly pays the interest.
 

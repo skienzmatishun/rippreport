@@ -18,19 +18,19 @@ Be sure to read the New York Times Article, the last link on this article.
 
 Baldwin County has seen its share of political commentary from Baldwin Insider, The Jester and the Infamous “Chuckie Cheeze” who quite appropriately now works as Aid De Camp for the Baldwin County legislative delegation.
 
-https://rippreport.com/2018/04/04/chuckie-cheeze/
+https://rippreport.com/chuckie-cheeze/
 
 Many people who follow the Baldwin County political trail have anxiously awaited “Chuckie Cheeze’s” replacement. All of the above represent the Status Quo, aka Catalyst or Scott Boone Consulting. Good ole Boys plain and simple.
 
-https://rippreport.com/2020/06/10/a-decade-of-corruption/
+https://rippreport.com/a-decade-of-corruption/
 
 The 2008 and 2012 municipal elections in Fairhope, were suspected of being rigged. In 2016, after numerous complaints, the Alabama Secretary Of State stepped in to supervise the election. Long story short, Mayor Wilson beat a 16-year, CORRUPT incumbent, and became Fairhope’s first female Mayor.
 
-https://rippreport.com/2018/04/11/alabama-sec-of-state-the-only-one/
+https://rippreport.com/alabama-sec-of-state-the-only-one/
 
 The City Council, their true intentions masked, led by a loser, planned for total control of Fairhope. From the first day of their 2016 administration the council has obstructed, bullied, lied, colluded, conspired and undermined anything the Mayor or her staff has proposed.
 
-https://rippreport.com/2017/12/29/see-ya-in-court-jack/
+https://rippreport.com/see-ya-in-court-jack/
 
 So it is no surprise that six (6) weeks before municipal elections that a replacement for “Chuckie Cheeze” has now raised his head, from whatever coma he has been in, to carry the CATALYST flag into political battle.
 
@@ -48,7 +48,7 @@ Chuckie’s replacement, Howling Rains, attacked the Fairhope Waterfront Grant o
 
 Howling Rains did not write a constructive op-ed with suggestions, nor did he attend any meetings. Howling admitted he was 6 weeks in the rear about reading anything about the project. Howling Raines showed his journalistic mettle.
 
-https://rippreport.com/2020/06/19/where-hell-were-you/
+https://rippreport.com/where-hell-were-you/
 
 Howling was howling at the moon and missed the details, he also did not know:
 
@@ -72,11 +72,11 @@ Howling made this political by his statement in his slanted op-ed.
 
 Howling needs to read Strawman. Why is Howling not writing an op-ed about corruption? I can tell ya why, because they are all CATALYST and Howling does not even know that CATALYST has him on a leash!
 
-https://rippreport.com/2020/06/06/strawman-spiderweb/
+https://rippreport.com/strawman-spiderweb/
 
 That is YOUR conclusion Howling, Let me give you mine. You sir are dealing with some of the most corrupt politicians in Baldwin County! These are crooked politicians! Especially the former Mayor CANT.
 
-https://rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/
+https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
 
 Now, I realize you have been in hibernation and woke up in the rain with CATALYST stroking your ego and giving you the scent they wish you to follow down the nearest rabbit hole. But PLEASE, Howling Rains...challenge me to defend my accusations of corruption, let me give you the painful Backstory of 16 years of observing Fairhope politics.
 
@@ -90,7 +90,7 @@ It’s political folks! Howling is “Chuckie Cheeze’s replacement and it look
 
 In closing, take a look for yourself what a simple GOOGLE search of Mr. Raines produced:
 
-https://www.nytimes.com/2003/06/05/national/executive-editor-of-the-times-and-top-deputy-step-down.html
+https://www.nytimes.com/national/executive-editor-of-the-times-and-top-deputy-step-down.html
 
 SYNOPSIS: Mr. Howling Raines plagiarized. He and more specifically, journalists working under him, manufactured quotes and generally plagiarized other newspapers, leading to his embarrassing resignation.
 
