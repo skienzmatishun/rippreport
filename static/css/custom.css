@@ -14,3 +14,4 @@ h2.list__title {
     max-width:none;
     margin-bottom:2em;
 }
+.container--outer {max-width:1400px;}
