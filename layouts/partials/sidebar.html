@@ -9,6 +9,7 @@
 
 {{- if $sidebar -}}
 <aside class="sidebar{{ if eq $sidebar "left" }} sidebar--left{{ end }}">
+	<div id="backstory"></div>
 {{- $root := . }}
 {{- with (default .Site.Params.sidebar.widgets .Params.widgets) -}}
 	{{- range $widget := . }}
