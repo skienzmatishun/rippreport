@@ -29,7 +29,16 @@ h2.list__title {
 
 .post {
     margin: auto;
+    margin-bottom:4em;
     max-width: 800px;
+}
+
+.list__footer-readmore {
+    display:block;
+    margin:auto;
+    width:115px;
+    float:none;
+    margin-top:15px;
 }
 
 
