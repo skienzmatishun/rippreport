@@ -22,7 +22,7 @@ theme = 'mainroad'
   mathjax = false
   IntenseDebateAcct = "dd57812c68e47355019f6ae4d2143236"
   comments = true
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Libre+Baskerville&display=swap"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap"
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
