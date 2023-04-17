@@ -22,7 +22,7 @@ theme = 'mainroad'
   mathjax = false
   IntenseDebateAcct = "dd57812c68e47355019f6ae4d2143236"
   comments = true
-
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Libre+Baskerville&display=swap"
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
@@ -35,6 +35,8 @@ theme = 'mainroad'
 
 [Params.style.vars]
   highlightColor = "#176898"
+  fontFamilyPrimary =  "'Libre Baskerville', serif;"
+
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
