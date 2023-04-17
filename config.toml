@@ -9,8 +9,7 @@ theme = 'mainroad'
   avatar = "img/eagle.svg"
 
 [Params]
-  description = "Reporting on the political corruption in Fairhope, AL and Baldwin County." # Site description. Used in meta description
-  copyright = "Rippreport"
+  description = "Reporting on the political corruption in Fairhope, AL and Baldwin County." 
   twitter_cards = true 
   readmore = true 
   authorbox = false 
