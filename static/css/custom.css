@@ -1,9 +1,9 @@
 body {
-    background: #003558;
+    background: linear-gradient(90deg, rgba(0,72,120,1) 14%, rgba(0,62,103,1) 89%); 
 }
 
 .header {
-    background-color: black;
+    background: linear-gradient(347deg, rgba(17,17,17,1) 14%, rgba(27,27,27,1) 89%); 
     max-height:125px;
 }
 
