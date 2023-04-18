@@ -20,6 +20,7 @@ h2.list__title {
 .list__thumbnail img {
     max-width: none;
     margin-bottom: 2em;
+    padding:2em;
 }
 
 .container--outer,
@@ -31,6 +32,7 @@ h2.list__title {
     margin: auto;
     margin-bottom:4em;
     max-width: 800px;
+    padding:2em;
 }
 
 .list__footer-readmore {
@@ -41,6 +43,11 @@ h2.list__title {
     margin-top:15px;
 }
 
+.main__title {display:none;}
+
+body > div > div > div > main > article > div > iframe {
+    margin:2em;
+}
 
 @media screen and (max-width: 620px){
 	.list__thumbnail {
