@@ -51,3 +51,8 @@ Mayor Bob Wills is the bit dog barking first. His mention of a COVER UP seems mo
 Mayor Wills is shameless, you should not be suspicious of a COVER UP because the COVER UP is well under way.
 
 My deepest condolences to the French family and friends of O.J.
+
+
+### Comments
+
+{{< chat cover-up >}}
