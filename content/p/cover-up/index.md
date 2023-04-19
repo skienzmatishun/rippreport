@@ -43,7 +43,8 @@ One month later, lips remain sealed regarding the identity of the Bay Minette po
 
 According to Wills, Bay Minette officers are also scheduled to attend training on mental health crisis intervention de-escalation techniques from AltaPoine Health. The department will also be attending training to sharpen their “conflict resolution abilities using firearms training systems.” This was after the killing of Mr. French.
 
-https://rippreport.com/rumors/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02yDVchXF5JjvTxx8oT8aSELKVFHvo8gDLj2jRG5BWML9otXVfAWrUf1orxaFuciJKl&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 Rumors is all the public has because Baldwin County Major Crimes Unit, BCMCU, the County Commission and the City of bay Minette, Mayor and Council have all swallowed their tongue. They are solely responsible for the lack of information, misinformation and rumors circulating throughout Baldwin County.
 
@@ -51,15 +52,19 @@ BCMCU consists of Bay Minette Police Chief Al Tolbert, who is the current chairm
 
 BCMCU has no credibility. They are investigating themselves and Chief Tolbert of Bay Minette is the Chairman? It is prosperous to believe BCMCU could conduct an unbiased investigation of their own members.
 
-https://rippreport.com/go-to-hell-ethics/
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02XdmMv5QzUYCdDDrdvUdBgwHLMPwh7c7991FaHgQuPwgAUwLwYAHqd1GtHkaH65DCl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 “The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions.” Sounds like a COVER UP!
 
-https://rippreport.com/bay%f0%9f%90%96minette/
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02AxRKxNv389Je5yYgM5RsnNXLycY9a8JSnHjJjQ3ihQRcZTrkL6rHkpxkgQw1FiH6l&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 “Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.”
 
-https://rippreport.com/eyes-on-you-%f0%9f%91%80/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0dGxeGVVwJd4xsSYNJzmWG8YE5NGAK3atpNzrwBh1UcP6rhWjacQq7qyzoVSrZ9A2l&show_text=true&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 “Instead they live up to Alabama’s title of being the most political corrupt state in the United States. I must admit when it comes to corruption in Alabama, all elected officials appear to be on board. This new delegation is going to rent offices in Bay Minette from the Mayor of Bay Minette. YES you read that right. If you think that is bad the rent for the first 5 years is $245,000.00. That’s just to start. Mayor “GREEDY” Wills sweetened the deal for himself by adding two 5 year lease extensions. The second 5 years .will cost around $283.00.00 and the third 5 year extension for $339.000.00, that totals $867.000.00 in Mayor Wills family bank account, for a building worth far less. It should be noted greedy Bob has an Ethics complaint and a Bar complaint pending. Those complaints will be filed in the corruption file of both agencies, who are equally corrupt.”
 
