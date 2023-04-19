@@ -10,7 +10,7 @@ authors:
 
 The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
 
-![](https://rippreport.com/bay-minette.jpg)
+![](https://rippreport.com/img/bay-minette.jpg)
 
 The Mayor’s letter makes no mention of the fact that Alabama is the most politically corrupt and racist State in the United States. So why would you not have the expectation of a COVER UP?
 
