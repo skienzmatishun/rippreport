@@ -10,36 +10,19 @@ authors:
 
 The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
 
-![](https://rippreport.com/wp-content/uploads/bay-minette.jpg)
+![](https://rippreport.com/bay-minette.jpg)
 
 The Mayor’s letter makes no mention of the fact that Alabama is the most politically corrupt and racist State in the United States. So why would you not have the expectation of a COVER UP?
 
 Mayor Bob Wills message is that “the allegations of a “cover up” and other allegations are without merit”. The letter itself is part of a potential “cover up”. Mayor Wills is more interested in his golf game than consoling the citizens of Bay Minette. He has done everything that would make you suspicious of a “cover up”. Mayor Wills reputation of questionable self serving deals that he has been involved in, have resulted in ethics complaints and Alabama Bar complaints. Those complaints fell on deaf ears but we all know the primary duty of the Alabama Bar and the Ethics Commission is to “cover up” for corrupt politicians.
 
-<div class="link-preview">
-<a href="https://www.lagniappemobile.com/opinion/what-was-he-thinking/article_35b1c65a-bd2d-11ed-a14f-c736e95701c3.html">
-<h3>What was he Thinking?</h3>
-<h4>Lagniappe</h4>
-<img loading="lazy" src="https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/bd/8bd05ee2-7a3a-11ed-98a9-9398c668ca2c/639757addf442.image.png?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" />
-<p>
-“In a court document last week, Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing in his oversight of a charitable trust called the Mabel Amos Memorial Fund (MAMF). Marshall’s damning words came as part of a motion in a civil suit filed by Amos’s relatives, who have been trying to find a way to make their great aunt’s fund run as she intended.”
-</p>
-</a>
-</div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid02BgFKZzyigvubJvzuNXzzUJwoUNM6YniD27V9C8fvwAEiJ1PZoCCBNsTNxiUjMmyTl&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+“In a court document last week, Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing in his oversight of a charitable trust called the Mabel Amos Memorial Fund (MAMF). Marshall’s damning words came as part of a motion in a civil suit filed by Amos’s relatives, who have been trying to find a way to make their great aunt’s fund run as she intended.”
 
 Mr. Albritton is the Executive Director of the Ethics Commission. He now has three lawsuits against him, and is still being paid as Executive Director. The Ethics Commission and the Alabama Bar both dismissed complaints against Mr. Albritton. My point is that Mr. Albritton and the Alabama Bar also dismissed Mr. Wills complaints. That is what I call a COVER UP.
 
-<div class="link-preview">
-<a href="https://www.lagniappemobile.com/news/bay-minette-officials-still-withholding-name-of-officer-who-killed-otis-french-jr/article_115add60-3b87-5fca-b807-457bab24701f.html">
-<h3>Bay Minette Officials Still Withholding Name of Officer Who Killed Otis French jr</h3>
-<h4>Lagniappe</h4>
-<img loading="lazy" src="https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/84/88498547-0257-55b4-a703-c0746923ad71/633449f06e243.image.png?resize=400%2C210" />
-<p>
-One month later, lips remain sealed regarding the identity of the Bay Minette police officer involved in the shooting death of 32-year-old Otis French Jr. No public officials contacted by...
-</p>
-</a>
-</div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid02FjA9ywQwcSEJnKA3ob9Zeu4Bpp5ndkcjmHsg5GTi42v1wBbu8u988uozzSi7t2zsl&show_text=true&width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 According to Wills, Bay Minette officers are also scheduled to attend training on mental health crisis intervention de-escalation techniques from AltaPoine Health. The department will also be attending training to sharpen their “conflict resolution abilities using firearms training systems.” This was after the killing of Mr. French.
 
