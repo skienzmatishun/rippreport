@@ -18,7 +18,7 @@ Mayor Bob Wills message is that “the allegations of a “cover up” and other
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid02BgFKZzyigvubJvzuNXzzUJwoUNM6YniD27V9C8fvwAEiJ1PZoCCBNsTNxiUjMmyTl&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-“In a court document last week, Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing in his oversight of a charitable trust called the Mabel Amos Memorial Fund (MAMF). Marshall’s damning words came as part of a motion in a civil suit filed by Amos’s relatives, who have been trying to find a way to make their great aunt’s fund run as she intended.”
+> “In a court document last week, Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing in his oversight of a charitable trust called the Mabel Amos Memorial Fund (MAMF). Marshall’s damning words came as part of a motion in a civil suit filed by Amos’s relatives, who have been trying to find a way to make their great aunt’s fund run as she intended.”
 
 Mr. Albritton is the Executive Director of the Ethics Commission. He now has three lawsuits against him, and is still being paid as Executive Director. The Ethics Commission and the Alabama Bar both dismissed complaints against Mr. Albritton. My point is that Mr. Albritton and the Alabama Bar also dismissed Mr. Wills complaints. That is what I call a COVER UP.
 
@@ -39,7 +39,9 @@ BCMCU has no credibility. They are investigating themselves and Chief Tolbert of
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02XdmMv5QzUYCdDDrdvUdBgwHLMPwh7c7991FaHgQuPwgAUwLwYAHqd1GtHkaH65DCl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
-“The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions.” Sounds like a COVER UP!
+> “The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions.”
+
+Sounds like a COVER UP!
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02AxRKxNv389Je5yYgM5RsnNXLycY9a8JSnHjJjQ3ihQRcZTrkL6rHkpxkgQw1FiH6l&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
