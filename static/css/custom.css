@@ -45,6 +45,15 @@ h2.list__title {
 
 .main__title {display:none;}
 
+.link-preview {
+    box-shadow: #5e5e5e10 1px 1px 30px;
+    padding:2em;
+    margin:2em;
+}
+
+.link-preview img {margin-bottom:1em;}
+.link-preview p {padding:1em;}
+
 body > div > div > div > main > article > div > iframe {
     margin:2em;
 }

@@ -16,9 +16,17 @@ The Mayor’s letter makes no mention of the fact that Alabama is the most polit
 
 Mayor Bob Wills message is that “the allegations of a “cover up” and other allegations are without merit”. The letter itself is part of a potential “cover up”. Mayor Wills is more interested in his golf game than consoling the citizens of Bay Minette. He has done everything that would make you suspicious of a “cover up”. Mayor Wills reputation of questionable self serving deals that he has been involved in, have resulted in ethics complaints and Alabama Bar complaints. Those complaints fell on deaf ears but we all know the primary duty of the Alabama Bar and the Ethics Commission is to “cover up” for corrupt politicians.
 
-[What Was He Thinking](https://www.lagniappemobile.com/opinion/what-was-he-thinking/article_35b1c65a-bd2d-11ed-a14f-c736e95701c3.html)
-
+<div class="link-preview">
+<a href="https://www.lagniappemobile.com/opinion/what-was-he-thinking/article_35b1c65a-bd2d-11ed-a14f-c736e95701c3.html">
+<h3>What was he Thinking?</h3>
+<h4>Lagniappe</h4>
+<img src="https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/bd/8bd05ee2-7a3a-11ed-98a9-9398c668ca2c/639757addf442.image.png?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" />
+<p>
 “In a court document last week, Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing in his oversight of a charitable trust called the Mabel Amos Memorial Fund (MAMF). Marshall’s damning words came as part of a motion in a civil suit filed by Amos’s relatives, who have been trying to find a way to make their great aunt’s fund run as she intended.”
+</p>
+</a>
+</div>
+
 
 Mr. Albritton is the Executive Director of the Ethics Commission. He now has three lawsuits against him, and is still being paid as Executive Director. The Ethics Commission and the Alabama Bar both dismissed complaints against Mr. Albritton. My point is that Mr. Albritton and the Alabama Bar also dismissed Mr. Wills complaints. That is what I call a COVER UP.
 
@@ -52,7 +60,5 @@ Mayor Wills is shameless, you should not be suspicious of a COVER UP because the
 
 My deepest condolences to the French family and friends of O.J.
 
-
-### Comments
 
 {{< chat cover-up >}}
