@@ -27,6 +27,7 @@ theme = 'mainroad'
   list = "right"   # layout for list pages
   single = "right" # layout for single pages
   widgets = ["search", "recent", "taglist"]
+  logo = "https://rippreport.com/img/eagle.png"
 
 [Params.widgets]
   recent_num = 10 # Number of articles in the "Recent articles" widget
