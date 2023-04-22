@@ -3,6 +3,7 @@ title: "RUMORS"
 date: 2022-10-15
 categories: 
   - saturday-sunshine
+thumbnail: "img/rumors.png" 
 authors: 
   - admin
 ---
@@ -52,3 +53,6 @@ For more on this case please listen to our podcast:
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F792458071865153%2F&amp;show_text=true&amp;width=560&amp;t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 You know you have a police problem when the police are feared by the public and have no confidence in police investigating police.
+
+
+
