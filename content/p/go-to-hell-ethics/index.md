@@ -13,7 +13,7 @@ The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZHR3C9ua5Y?start=3413" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid037WTUK1ewCqTiPamSihRjh7R8acJ5VnAr1nktMBbvzQepB52aPasHmZJBKW1Q6PDml&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid037WTUK1ewCqTiPamSihRjh7R8acJ5VnAr1nktMBbvzQepB52aPasHmZJBKW1Q6PDml&show_text=true&width=500" width="500" height="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
 
 “Members of the Baldwin County Legislative Delegation decided to cut in half the monthly rent they would pay with taxpayer money to Bay Minette Mayor Bob Wills for offices in his longtime law building, according to a revised lease agreement the county commission approved on Tuesday."
 
