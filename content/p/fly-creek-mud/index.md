@@ -3,6 +3,7 @@ title: "FLY CREEK MUD"
 date: 2022-08-28
 categories: 
   - 💩-muddy-sunday-💩
+thumbnail: "/img/fly-creek-mud.jpg"
 authors: 
   - admin
 ---

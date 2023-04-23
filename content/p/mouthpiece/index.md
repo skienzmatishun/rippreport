@@ -1,6 +1,7 @@
 ---
 title: "MOUTHPIECE"
 date: 2022-08-20
+thumbnail: "/img/toll-troll.jpg"
 categories: 
   - stormy-saturday
 authors: 

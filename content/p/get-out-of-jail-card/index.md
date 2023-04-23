@@ -3,6 +3,7 @@ title: "GET OUT OF JAIL CARD"
 date: 2022-08-16
 categories: 
   - terrible-tuesday
+thumbnail: "/img/get-out-of-jail-card.jpg"
 authors: 
   - admin
 ---

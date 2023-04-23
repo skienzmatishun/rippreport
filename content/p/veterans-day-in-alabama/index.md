@@ -3,6 +3,7 @@ title: "Veterans Day In Alabama"
 date: 2022-11-04
 categories: 
   - freaky-friday
+thumbnail: "/img/veterans-day-in-alabama.jpg"
 authors: 
   - admin
 ---

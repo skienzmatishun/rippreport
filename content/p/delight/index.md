@@ -3,6 +3,7 @@ title: "FAIRHOPE TAXPAYERS DELIGHT"
 date: 2022-11-04
 categories: 
   - freaky-friday
+thumbnail: "/img/fairhope-tax-payers-delight.png"
 authors: 
   - admin
 ---

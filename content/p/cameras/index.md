@@ -3,6 +3,7 @@ title: "CAMERAS"
 date: 2022-08-25
 categories: 
   - thursday-thunder
+thumbnail: "/img/cameras.jpg"
 authors: 
   - admin
 ---
