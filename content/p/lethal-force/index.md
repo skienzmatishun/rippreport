@@ -15,7 +15,7 @@ Joshua Brown, one of the BMJL organizers, said the police account makes no sense
 
 “We just want transparency. We want justice. We want a thorough investigation. And we’ll see where everything lies,” Brown said.
 
-https://rippreport.com/cameras/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0m9u16dWUoPJSUMYoSQXCB7MqS1fMmn4PjezpCgihj6MysCUbAbcJdPvvFJArcFyNl&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 “The Baldwin County Major Crimes Unit of the Sheriff’s Office is conducting an investigation.”
 
@@ -30,3 +30,4 @@ Baldwin County Commissioners have allowed Sheriff Hoss Mack to become the most p
 The County Commission better get involved before they have to start writing multi million dollar checks to cover the asses of a few bad police officers.
 
 Something has to give! Baldwin County citizens, ALL citizens, deserve better.
+
