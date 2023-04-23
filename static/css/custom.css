@@ -55,4 +55,7 @@ body > div > div > div > main > article > div > iframe {
 		max-width: none;
         width:97%;
 	}
+    h2.list__title {
+        font-size:2em;
+    }
 }
