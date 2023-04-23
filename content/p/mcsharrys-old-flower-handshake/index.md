@@ -50,12 +50,13 @@ In addition to the Lagniappe articles, here are a few of the Ripp Report article
 
 https://rippreport.com/%f0%9f%8f%b3%ef%b8%8f/
 
-https://rippreport.com/get-out-of-jail-card/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02iyed788rAtzGfukLonYwv1joNyZWnYnT6ED214YBCCGK1tBoGimoMtaf76gX62JAl&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-https://rippreport.com/boycott-mcsharry/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02EpCCVpZkYiZXv4KEHY9ZPjufF7tiMrTKeZugGuV6dt39MTAarLnhGuon4NzZYHSMl&show_text=true&width=500" width="500" height="584" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 https://rippreport.com/the-mcsharry-will-out/
 
 https://rippreport.com/one-woman-2/
 
 We have said it three times already and will say it again. Ronan McSharry will do it again, Just wait and see, let’s pray no-one is seriously injured or killed.
+

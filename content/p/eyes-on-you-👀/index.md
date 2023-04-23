@@ -14,7 +14,7 @@ https://rippreport.com/sunday-sermon/
 
 > “Instead they live up to Alabama’s title of being the most political corrupt state in the United States. I must admit when it comes to corruption in Alabama, all elected officials appear to be on board. This new delegation is going to rent offices in Bay Minette from the Mayor of Bay Minette. YES you read that right. If you think that is bad the rent for the first 5 years is $245,000.00. That’s just to start. Mayor “GREEDY” Wills sweetened the deal for himself by adding two 5 year lease extensions. The second 5 years .will cost around $283.00.00 and the third 5 year extension for $339.000.00, that totals $867.000.00 in Mayor Wills family bank account, for a building worth far less. It should be noted greedy Bob has an Ethics complaint and a Bar complaint pending. Those complaints will be filed in the corruption file of both agencies, who are equally corrupt.”
 
-https://rippreport.com/bay%f0%9f%90%96minette/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02Ac7KN6NZUx2ZFX2VMj3wiBocFLLNMJs4wjyTPqDwewSXMH6fd9ho8WNffemBUJz4l&show_text=true&width=500" width="500" height="558" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 “I just simply wanted to have an opportunity to look at what was there,” Underwood said. “This showed up on the agenda very quickly. And it’s like, OK, we’re going to enter into a five-year lease for something.”
 
@@ -51,3 +51,4 @@ EYES ARE ON YOU 👀 👀 👀 👀
 You can be the Baldwin County Legislative Delegation or the Dirty Delegation of the most corrupt county in the United States! YOUR choice.
 
 🎉 HAPPY NEW YEAR 🎉
+
