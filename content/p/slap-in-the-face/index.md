@@ -1,6 +1,7 @@
 ---
 title: "SLAP IN THE FACE"
 date: 2020-10-17
+thumbnail: "/img/slap.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -77,3 +78,61 @@ The author, Thomas Gallion III, will be at Page and Palette Bookstore in Fairhop
 If you can not attend tomorrow, please get the book, Shadow Government Southern Style.
 
 ## IT IS ANOTHER SLAP IN THE FACE OF ALABAMA.
+
+
+### Comments
+
+
+##### Francis Ripp
+2020-10-17 09:31:30
+Ripp
+Holiday
+
+
+##### 2020-10-17 20:40:45
+Ripp
+Holiday
+
+
+##### 2020-10-17 20:38:45
+Ripp
+Holiday
+
+
+##### Robert Owens
+2020-10-17 11:05:27
+Ripp
+Holiday
+
+
+##### 2020-10-17 12:32:04
+Ripp
+Holiday
+
+
+##### Francis Ripp
+2020-10-19 09:56:36
+Ripp
+Holiday
+
+
+##### 2020-10-17 16:39:13
+Ripp
+Holiday
+
+
+##### 2020-10-17 12:37:06
+Ripp
+Holiday
+
+
+##### 2020-10-17 12:34:44
+Ripp
+Holiday
+
+
+##### Sweet Home Alabama
+2020-10-17 08:39:26
+Ripp
+Holiday
+

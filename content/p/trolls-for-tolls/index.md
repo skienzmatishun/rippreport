@@ -1,6 +1,7 @@
 ---
 title: "TROLLS FOR TOLLS"
 date: 2022-01-28
+thumbnail: "/img/toll-troll.jpg"
 categories: 
   - thursday-thunder
 authors: 
@@ -46,3 +47,4 @@ Give it hell Dean Young:
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FYoungforAL%2Fvideos%2F928526607793749%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Put 100,000 signatures on a NO TOLLS PETITION and you will see the same politicians advocating for a toll, running for election on the platform of NO TOLLS>
+

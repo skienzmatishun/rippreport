@@ -1,6 +1,7 @@
 ---
 title: "The Slap"
 date: 2022-04-05
+thumbnail: "the-slap.jpg"
 categories: 
   - backstory-podcast
 authors: 
