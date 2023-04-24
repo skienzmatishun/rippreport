@@ -53,9 +53,14 @@ body > div > div > div > main > article > div > iframe {
 @media screen and (max-width: 620px){
 	.list__thumbnail {
 		max-width: none;
-        width:97%;
+        width:99%;
 	}
+    .list__thumbnail img {
+        padding:0;
+
+    }
     h2.list__title {
         font-size:2em;
     }
+    .post {padding:0;}
 }
