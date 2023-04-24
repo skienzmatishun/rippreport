@@ -63,4 +63,5 @@ body > div > div > div > main > article > div > iframe {
         font-size:2em;
     }
     .post {padding:0;}
+    .list__footer-readmore  {margin-bottom:2em;}
 }
