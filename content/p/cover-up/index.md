@@ -36,7 +36,7 @@ BCMCU consists of Bay Minette Police Chief Al Tolbert, who is the current chairm
 BCMCU has no credibility. They are investigating themselves and Chief Tolbert of Bay Minette is the Chairman? It is prosperous to believe BCMCU could conduct an unbiased investigation of their own members.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02XdmMv5QzUYCdDDrdvUdBgwHLMPwh7c7991FaHgQuPwgAUwLwYAHqd1GtHkaH65DCl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02XdmMv5QzUYCdDDrdvUdBgwHLMPwh7c7991FaHgQuPwgAUwLwYAHqd1GtHkaH65DCl&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 > “The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions.”
