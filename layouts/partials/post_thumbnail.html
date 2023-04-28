@@ -1,5 +1,35 @@
-{{- if $youtube := .page.Params.youtube }}
-<iframe loading="lazy" style="display:block; margin:auto; margin-bottom:2em;" width="560" height="315" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen></iframe>
-{{- else if $thumbnail := .page.Params.thumbnail }}
-<img loading="lazy" class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+{{- if $thumbnail := .page.Params.thumbnail }}
+  {{- $class := .class }}
+  {{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+
+  {{- $valueType := printf "%T" $thumbnail -}}
+  {{- $isMap := in $valueType "map" -}}
+  {{- if $isMap }}
+    {{ $visibility = default (slice "list" "post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
+    {{ $thumbnail = $thumbnail.src }}
+  {{- end }}
+
+  {{- if in $visibility $class }}
+    <figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
+      {{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
+      {{ if $thumbnail }}
+        <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+      {{ else if .page.Params.youtube }}
+        <div class="thumbnail__video">
+          <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+            <iframe class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ .page.Params.youtube }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+          </div>
+        </div>
+      {{ end }}
+      {{ if eq $class "list" }}</a>{{ end }}
+    </figure>
+  {{- end }}
+{{- else if $youtube := .page.Params.youtube }}
+  <figure class="thumbnail">
+    <div class="thumbnail__video">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+        <iframe class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+      </div>
+    </div>
+  </figure>
 {{- end }}
