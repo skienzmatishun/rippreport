@@ -14,25 +14,53 @@ A couple of weeks ago the Mayor of Fairhope went on TV News to announce that the
 
 So let’s get back to McSharry and his ability to manipulate the judicial system:
 
+### Supreme Court Rejects Mandamus in McSharry Case
 [https://www.lagniappemobile.com/news/supreme-court-rejects-mandamus-in-mcsharry-case/article\_36c6ff1a-747d-59da-8c98-e76c65dffd13.html](https://www.lagniappemobile.com/news/supreme-court-rejects-mandamus-in-mcsharry-case/article_36c6ff1a-747d-59da-8c98-e76c65dffd13.html)
 
+---------------
+
+### Judge Tosses out McSharrys Assault Charge
 [https://www.lagniappemobile.com/news/judge-tosses-out-mcsharry-s-assault-charge/article\_c6cecbd1-3f16-506e-a04e-633f16946248.html](https://www.lagniappemobile.com/news/judge-tosses-out-mcsharry-s-assault-charge/article_c6cecbd1-3f16-506e-a04e-633f16946248.html)
 
+---------------
+
+### McSharry Settles Civil Suit but Arrested on new Complaint
 [https://www.lagniappemobile.com/news/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/article\_7156a9b8-8ff3-509d-8e15-55682892367c.html](https://www.lagniappemobile.com/news/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/article_7156a9b8-8ff3-509d-8e15-55682892367c.html)
 
+---------------
+
+### McSharry Seeks to hold Christmas Bar Liable for Lawsuit
 [https://www.lagniappemobile.com/news/local/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/article\_d76c67ee-19b4-5a60-9515-6f4352b3ab4e.html](https://www.lagniappemobile.com/news/local/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/article_d76c67ee-19b4-5a60-9515-6f4352b3ab4e.html)
 
+---------------
+
+### McSharry Convicted of Public Intoxication Civil Case Proceeds
 [https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article\_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html](https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html)
 
+---------------
+
+### Fairhope Prosecutor Claims Assault Charge Against McSharry will be Refiled
 [https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/video\_1d9026b5-295c-54e8-ae3f-b87969a6959f.html](https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/video_1d9026b5-295c-54e8-ae3f-b87969a6959f.html)
+
 
 [https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article\_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html](https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html)
 
+---------------
+
+### Attorney Asks High Court to Intervene in Lawsuit Against McSharrys Owner
 [https://www.lagniappemobile.com/news/local/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharry-s-owner/article\_b747acad-7b88-5d12-8808-fbcd0384826a.html](https://www.lagniappemobile.com/news/local/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharry-s-owner/article_b747acad-7b88-5d12-8808-fbcd0384826a.html)
 
+---------------
+
+### Defense Attorney for Ronan McSharry Seeks Two Years Worth of Camera Footage
 [https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article\_bc4c3880-359f-5d85-913c-420545868593.html](https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article_bc4c3880-359f-5d85-913c-420545868593.html)
 
+---------------
+
+### Appeals Court Drops McSharry Assault Charge After Prosecutor Fails to Act
 [https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article\_04668a01-aa5b-504a-a551-9922ed8ff5f4.html](https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article_04668a01-aa5b-504a-a551-9922ed8ff5f4.html)
+
+---------------
 
 The above are Lagniappe articles about Mr McSharry and his history of judicial abuse. Judges, lawyers and police have not done their job. In fact they have brought tremendous skepticism upon themselves and their actions and inaction. One has to ask themselves, What the hell is going on? What leverage does McSharry have over the City of Fairhope? The City Attorney Marcus McDowell has lied to the city council and the general public in the last case involving Paula Dinardi. He dropped the ball then and this time he did not even attempt to pick the ball up.
 
