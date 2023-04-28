@@ -1,5 +1,5 @@
 {{- if $youtube := .page.Params.youtube }}
-<iframe style="display:block; margin:auto; margin-bottom:2em;" width="560" height="315" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" style="display:block; margin:auto; margin-bottom:2em;" width="560" height="315" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen></iframe>
 {{- else if $thumbnail := .page.Params.thumbnail }}
-<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+<img loading="lazy" class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
 {{- end }}
