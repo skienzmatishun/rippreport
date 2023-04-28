@@ -164,3 +164,4 @@ Get ready Fairhope! The Catalyst Council has called a special meeting at a speci
 Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/dog-and-pony-show-2/)
 
 Burrell ,Boone and Brown, who have all used their office for personal gain, should not be trusted to make a 2.6 million dollar purchase, using tax money, without community involvement.
+

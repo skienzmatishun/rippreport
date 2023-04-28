@@ -80,10 +80,6 @@ If you can not attend tomorrow, please get the book, Shadow Government Southern 
 ## IT IS ANOTHER SLAP IN THE FACE OF ALABAMA.
 
 
-### Comments
-
-
-##### Francis Ripp
 2020-10-17 09:31:30
 Ripp
 Holiday

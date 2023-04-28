@@ -50,3 +50,4 @@ It should scare the hell out of you that Jack Burrell has anything to do with th
 The one common denominator in all the stories above is Jack Burrell and the do nothing city council. They, along with the Mayor were supported and financed by CATALYST and developers, and they have pledged to “embrace” development and they are doing just that.
 
 Fairhope’s quality of life has diminished greatly in the last few years. Fairhope will be FAUXHOPE until the good ole boy “Catalyst” council and Mayor are replaced with public servants.
+

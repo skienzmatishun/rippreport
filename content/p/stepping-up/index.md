@@ -60,3 +60,4 @@ The citizens of Baldwin County would appreciate the Baldwin County Commission an
 The newly elected State Senator, for District 32, is Chris Elliott, aka The Tax Man. Senator Elliott should be yelling louder than the Mayors. The Senator has been busy decorating his office and hopefully will be singing the same tune as the Mayors, as soon as the décor is in place. Senator Elliott has already said he would vote for the tax so let’s hope he can secure Baldwin County its share. Listen to the Mayors, Senator, all 14 of them.
 
 Baldwin County cannot wait for a check to be mailed from Montgomery! They need to go to Montgomery and collect the check, or it will be lost in the mail.
+
