@@ -12,9 +12,9 @@ body {
     height: 75px;
     width: 292px;
 }
-
-h2.list__title {
-    font-size: 3em;
+ 
+.list__title {
+    font-size: 3.5em;
 }
 
 .list__thumbnail img {
@@ -50,7 +50,7 @@ h2.list__title {
 
 .backstory__title {
     font-family: 'Amatic SC', cursive;
-    font-size: 50px;
+    font-size: 4em;
     background-color: #5083df;
     text-align: center;
 }
