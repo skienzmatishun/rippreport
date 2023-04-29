@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(90deg, rgba(0, 72, 120, 1) 14%, rgba(0, 62, 103, 1) 89%);
+    background: #1d1c1c;
 }
 
 .header {
@@ -83,7 +83,29 @@ body {
     background-repeat: no-repeat;
 }
 
+.sidebar {
+    padding:1em;
+    background:black;
+    margin:0;
+}
 
+.widget__item {
+border: none;
+}
+
+.widget__item a {
+color:white;
+}
+
+.widget__title {color:white;
+border:none;
+font-size:2em;
+}
+
+.wrapper {
+    padding:0;
+}
+.divider {background-color:transparent;}
 
 @media screen and (max-width: 620px) {
     .list__thumbnail {
@@ -105,6 +127,7 @@ body {
     h2.list__title {
         font-size: 60px;
         word-wrap:normal;
+        max-width:100%;
     }
 
     .post {
