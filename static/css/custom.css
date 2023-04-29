@@ -50,9 +50,15 @@ h2.list__title {
     font-family: 'Amatic SC', cursive;
     font-size:50px;
     background-color: #5083df;
-text-align: center;
-
+    text-align: center;
 }
+.backstory__btn {
+    font-family: 'Amatic SC', cursive;
+    font-size:20px;
+    background-color: #5083df !important;
+    text-align: center;
+}
+.btn {text-align:center;}
 .thumbnail__video {
     background-image:url("https://rippreport.com/img/backstory-loading.jpg");
 }
