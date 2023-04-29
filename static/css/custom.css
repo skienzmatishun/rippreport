@@ -119,11 +119,15 @@ font-size:2em;
         padding:1em;
         margin:0;
     }
-
+.backstory__post {
+    padding-top:10px;
+}
     .list__thumbnail img {
         padding: 0;
 
     }
+
+    
 
     h2.list__title {
         font-size: 60px;
