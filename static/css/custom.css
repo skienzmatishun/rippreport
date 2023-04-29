@@ -90,6 +90,8 @@ body {
         max-width: none;
         width: 99%;
     }
+    .post__title {font-size:45px;word-wrap:normal;}
+
     .backstory__post .content{
         padding:1em;
         margin:0;
