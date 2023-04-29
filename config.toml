@@ -20,7 +20,7 @@ theme = 'mainroad'
   customCSS = ["css/custom.css"]
   mathjax = false
   comments = true
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Libre+Baskerville&display=swap"
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages

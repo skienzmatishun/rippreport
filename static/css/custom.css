@@ -46,6 +46,11 @@ h2.list__title {
 
 .main__title {display:none;}
 
+.backstory__title {
+    font-family: 'Amatic SC', cursive;
+    font-size:50px;
+}
+
 body > div > div > div > main > article > div > iframe {
     margin:2em;
 }
