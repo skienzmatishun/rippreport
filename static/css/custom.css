@@ -50,7 +50,9 @@ h2.list__title {
     font-family: 'Amatic SC', cursive;
     font-size:50px;
 }
-
+.thumbnail__video {
+    background-image:url("https://rippreport.com/img/backstory-loading.jpg");
+}
 body > div > div > div > main > article > div > iframe {
     margin:2em;
 }
