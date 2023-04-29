@@ -61,6 +61,7 @@ h2.list__title {
 .btn {text-align:center;}
 .thumbnail__video {
     background-image:url("https://rippreport.com/img/backstory-loading.jpg");
+    background-size:cover;
 }
 
 body > div > div > div > main > article > div > iframe {
