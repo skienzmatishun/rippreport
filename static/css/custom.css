@@ -85,7 +85,7 @@ body {
 
 .sidebar {
     padding:1em;
-    background:black;
+    background: linear-gradient(347deg, rgba(17, 17, 17, 1) 14%, rgba(27, 27, 27, 1) 89%);
     margin:0;
 }
 
