@@ -7,6 +7,7 @@ body {
     max-height: 125px;
 }
 
+.list__meta{text-align:center;}
 #eagle {
     max-width: none;
     height: 75px;
@@ -14,7 +15,9 @@ body {
 }
  
 .list__title {
-    font-size: 3.5em;
+    font-size: 90px;
+    text-align:center;
+    font-family: 'Vina Sans', cursive;
 }
 
 .list__thumbnail img {
@@ -50,7 +53,7 @@ body {
 
 .backstory__title {
     font-family: 'Amatic SC', cursive;
-    font-size: 4em;
+    font-size: 70px;
     background-color: #5083df;
     text-align: center;
 }
@@ -88,7 +91,7 @@ body {
     }
 
     h2.list__title {
-        font-size: 2em;
+        font-size: 60px;
     }
 
     .post {
