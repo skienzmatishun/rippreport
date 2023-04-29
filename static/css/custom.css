@@ -1,10 +1,10 @@
 body {
-    background: linear-gradient(90deg, rgba(0,72,120,1) 14%, rgba(0,62,103,1) 89%); 
+    background: linear-gradient(90deg, rgba(0, 72, 120, 1) 14%, rgba(0, 62, 103, 1) 89%);
 }
 
 .header {
-    background: linear-gradient(347deg, rgba(17,17,17,1) 14%, rgba(27,27,27,1) 89%); 
-    max-height:125px;
+    background: linear-gradient(347deg, rgba(17, 17, 17, 1) 14%, rgba(27, 27, 27, 1) 89%);
+    max-height: 125px;
 }
 
 #eagle {
@@ -20,7 +20,7 @@ h2.list__title {
 .list__thumbnail img {
     max-width: none;
     margin-bottom: 2em;
-    padding:2em;
+    padding: 2em;
 }
 
 
@@ -31,56 +31,69 @@ h2.list__title {
 
 .post {
     margin: auto;
-    margin-bottom:4em;
+    margin-bottom: 4em;
     max-width: 1200px;
-    padding:2em;
+    padding: 2em;
 }
 
 .list__footer-readmore {
-    display:block;
-    margin:auto;
-    width:115px;
-    float:none;
-    margin-top:15px;
+    display: block;
+    margin: auto;
+    width: 215px;
+    float: none;
+    margin-top: 15px;
 }
 
-.main__title {display:none;}
+.main__title {
+    display: none;
+}
 
 .backstory__title {
     font-family: 'Amatic SC', cursive;
-    font-size:50px;
+    font-size: 50px;
     background-color: #5083df;
     text-align: center;
 }
+
 .backstory__btn {
     font-family: 'Amatic SC', cursive;
-    font-size:20px;
+    font-size: 20px;
     background-color: #5083df !important;
     text-align: center;
 }
-.btn {text-align:center;}
+
+.btn {
+    text-align: center;
+}
+
 .thumbnail__video {
-    background-image:url("https://rippreport.com/img/backstory-loading.jpg");
-    background-size:contain;
-    background-repeat:no-repeat;
+    background-image: url("https://rippreport.com/img/backstory-loading.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
-body > div > div > div > main > article > div > iframe {
-    margin:2em;
-}
 
-@media screen and (max-width: 620px){
-	.list__thumbnail {
-		max-width: none;
-        width:99%;
-	}
+
+@media screen and (max-width: 620px) {
+    .list__thumbnail {
+        max-width: none;
+        width: 99%;
+    }
+
     .list__thumbnail img {
-        padding:0;
+        padding: 0;
 
     }
+
     h2.list__title {
-        font-size:2em;
+        font-size: 2em;
     }
-    .post {padding:0;}
-    .list__footer-readmore  {margin-bottom:2em;}
+
+    .post {
+        padding: 0;
+    }
+
+    .list__footer-readmore {
+        margin-bottom: 2em;
+    }
 }
