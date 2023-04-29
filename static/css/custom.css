@@ -131,9 +131,10 @@ font-size:2em;
         max-width:100%;
     }
 
-    .post {
-        padding: 0;
+    .post .content{
+        padding: 1em;
     }
+
     .backstory__post {
         padding-top: 10px !important;
     }
