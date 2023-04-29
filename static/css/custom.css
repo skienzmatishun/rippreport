@@ -119,15 +119,11 @@ font-size:2em;
         padding:1em;
         margin:0;
     }
-.backstory__post {
-    padding-top:10px;
-}
+
     .list__thumbnail img {
         padding: 0;
 
     }
-
-    
 
     h2.list__title {
         font-size: 60px;
@@ -137,6 +133,9 @@ font-size:2em;
 
     .post {
         padding: 0;
+    }
+    .backstory__post {
+        padding-top: 10px !important;
     }
 
     .list__footer-readmore {
