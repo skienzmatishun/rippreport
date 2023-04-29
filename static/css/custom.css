@@ -108,6 +108,10 @@ font-size:2em;
     padding:0;
 }
 .divider {background-color:transparent;}
+.widget-search__form {
+    background:transparent;
+
+}
 
 @media screen and (max-width: 620px) {
     .list__thumbnail {
