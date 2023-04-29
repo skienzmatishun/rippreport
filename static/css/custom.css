@@ -81,6 +81,7 @@ body {
     background-image: url("https://rippreport.com/img/backstory-loading.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+    margin-top:10px;
 }
 
 .sidebar {
