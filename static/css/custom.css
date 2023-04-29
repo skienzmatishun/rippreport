@@ -31,7 +31,7 @@ body {
 .container {
     max-width: 1400px;
 }
-.post__title {font-size:65px;word-wrap:normal;}
+.post__title {font-size:65px;word-wrap:normal;font-weight:900;}
 .post {
     margin: auto;
     margin-bottom: 4em;
