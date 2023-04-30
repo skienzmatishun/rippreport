@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(347deg, rgba(17, 17, 17, 1) 14%, rgba(27, 27, 27, 1) 89%);
+    background: #232222;
     max-height: 125px;
 }
 
@@ -109,6 +109,7 @@ font-size:2em;
 .wrapper {
     padding:0;
 }
+
 .divider {background-color:transparent;}
 .widget-search__form {
     background:transparent;
