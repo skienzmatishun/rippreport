@@ -152,6 +152,8 @@ font-size:2.5rem;
 
     .backstory__post {
         padding-top: 10px !important;
+        padding-left:0 !important;
+        padding-right:0 !important
     }
 
     .list__footer-readmore {
