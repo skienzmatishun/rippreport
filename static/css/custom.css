@@ -6,6 +6,9 @@ body {
     background: #232222;
     max-height: 125px;
 }
+.post__meta{
+border:none;
+}
 
 .list__meta{text-align:center;}
 #eagle {
