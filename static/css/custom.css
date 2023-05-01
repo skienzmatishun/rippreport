@@ -33,7 +33,6 @@ body {
     padding: 2em;
 }
 
-
 .container--outer,
 .container {
     max-width: 1400px;
@@ -88,10 +87,6 @@ body {
     background: #5083df36
 }
 
-
-
-
-
 .thumbnail__video {
     background-image: url("https://rippreport.com/img/backstory-loading.gif");
     background-repeat: no-repeat;
@@ -140,7 +135,6 @@ body {
 
 .widget-search__form {
     background: transparent;
-
 }
 
 .sticky {
@@ -148,35 +142,34 @@ body {
     top: 0;
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
-        width: 99%;
+        width: 99%
     }
 
     .post__title {
         font-size: 45px;
-        word-wrap: normal;
+        word-wrap: normal
     }
 
     .backstory__post .content {
         padding: 1em;
-        margin: 0;
+        margin: 0
     }
 
     .list__thumbnail img {
-        padding: 0;
-
+        padding: 0
     }
 
     h2.list__title {
         font-size: 60px;
         word-wrap: normal;
-        max-width: 100%;
+        max-width: 100%
     }
 
     .post .content {
-        padding: 1em;
+        padding: 1em
     }
 
     .backstory__post {
@@ -186,6 +179,6 @@ body {
     }
 
     .list__footer-readmore {
-        margin-bottom: 2em;
+        margin-bottom: 2em
     }
 }
