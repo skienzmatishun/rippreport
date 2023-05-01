@@ -3,11 +3,10 @@ title: "Open Records Macked"
 date: 2021-10-03
 categories: 
   - backstory-podcast
+youtube: "Y5RqyM9wHIg"
 authors: 
   - admin
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5RqyM9wHIg" frameborder="0" allowfullscreen></iframe>
 
 This week we focus our attention on the Unimaginable Decision from the Alabama Supreme Court that guts the Open Records Act related to body cam footage or any other investigative material in the possession of Law Enforcement...even after the investigation is concluded
 

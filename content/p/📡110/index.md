@@ -3,11 +3,11 @@ title: "Pussy Galore"
 date: 2021-12-07
 categories: 
   - backstory-podcast
+youtube: "A0gJiwJlt_U"
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A0gJiwJlt" frameborder="0" allowfullscreen></iframe>
 
 The title has nothing to do with the trial of Jeffrey Epstein madam Ghislaine Maxwell which began this week indicating that Epstein visited President Clinton some 17 times at the White House- Baldwin County has a feral cat population of 70,000 and counting.
 

@@ -6,20 +6,24 @@ body {
     background: #232222;
     max-height: 125px;
 }
-.post__meta{
-border:none;
+
+.post__meta {
+    border: none;
 }
 
-.list__meta{text-align:center;}
+.list__meta {
+    text-align: center;
+}
+
 #eagle {
     max-width: none;
     height: 75px;
     width: 292px;
 }
- 
+
 .list__title {
     font-size: 90px;
-    text-align:center;
+    text-align: center;
     font-family: Sans;
 }
 
@@ -34,7 +38,13 @@ border:none;
 .container {
     max-width: 1400px;
 }
-.post__title {font-size:65px;word-wrap:normal;font-weight:900;}
+
+.post__title {
+    font-size: 65px;
+    word-wrap: normal;
+    font-weight: 900;
+}
+
 .post {
     margin: auto;
     margin-bottom: 4em;
@@ -60,21 +70,22 @@ border:none;
     background-color: #5083df;
     text-align: center;
 }
+
 .btn {
     text-align: center;
-    font-size:1.5rem;
+    font-size: 1.5rem;
 }
 
 .backstory__btn {
     font-family: 'Amatic SC', cursive;
     font-size: 2rem;
     background-color: #5083df !important;
-    color:black !important;
+    color: black !important;
     text-align: center;
 }
 
-.backstory__post{
-    background:#5083df36
+.backstory__post {
+    background: #5083df36
 }
 
 
@@ -84,43 +95,57 @@ border:none;
 .thumbnail__video {
     background-image: url("https://rippreport.com/img/backstory-loading.gif");
     background-repeat: no-repeat;
-    margin-top:10px;
-    background-position:center;
-    background-size:50px;
-    background-color:black;
+    margin-top: 10px;
+    background-position: center;
+    background-size: 50px;
+    background-color: black;
 }
 
 .sidebar {
-    padding:1em;
-    background:rgb(5 8 11 / 84%);
-    margin:0;
+    padding: 1em;
+    background: rgb(5 8 11 / 84%);
+    margin: 0;
 }
+
 .pagination {
-    padding:10px;
+    padding: 10px;
 }
+
 .widget__item {
-border: none;
+    border: none;
 }
 
 .widget__item a {
-color:white;
-font-size:1.3rem;
+    color: white;
+    font-size: 1.3rem;
 }
 
-.widget__title {color:white;
-border:none;
-font-size:2.5rem;
+.widget__title {
+    color: white;
+    border: none;
+    font-size: 2.5rem;
 }
-.pager {margin:2em;}
+
+.pager {
+    margin: 2em;
+}
 
 .wrapper {
-    padding:0;
+    padding: 0;
 }
 
-.divider {background-color:transparent;}
-.widget-search__form {
-    background:transparent;
+.divider {
+    background-color: transparent;
+}
 
+.widget-search__form {
+    background: transparent;
+
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
 }
 
 @media screen and (max-width: 620px) {
@@ -128,11 +153,15 @@ font-size:2.5rem;
         max-width: none;
         width: 99%;
     }
-    .post__title {font-size:45px;word-wrap:normal;}
 
-    .backstory__post .content{
-        padding:1em;
-        margin:0;
+    .post__title {
+        font-size: 45px;
+        word-wrap: normal;
+    }
+
+    .backstory__post .content {
+        padding: 1em;
+        margin: 0;
     }
 
     .list__thumbnail img {
@@ -142,18 +171,18 @@ font-size:2.5rem;
 
     h2.list__title {
         font-size: 60px;
-        word-wrap:normal;
-        max-width:100%;
+        word-wrap: normal;
+        max-width: 100%;
     }
 
-    .post .content{
+    .post .content {
         padding: 1em;
     }
 
     .backstory__post {
         padding-top: 10px !important;
-        padding-left:0 !important;
-        padding-right:0 !important
+        padding-left: 0 !important;
+        padding-right: 0 !important
     }
 
     .list__footer-readmore {

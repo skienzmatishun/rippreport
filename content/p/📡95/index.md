@@ -3,11 +3,11 @@ title: "Afghan Evacuation"
 date: 2021-08-14
 categories: 
   - backstory-podcast
+youtube: "m-MQLAyNxCY"
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-MQLAyNxCY" frameborder="0" allowfullscreen></iframe>
 
 Sleepy Joe has a $1T infrastructure package to sell you as Afghanistan falls to the Taliban (The graveyard of Empires).
 

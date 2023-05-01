@@ -3,11 +3,11 @@ title: "The (Law Enforcement) Narrative"
 date: 2022-09-20
 categories: 
   - backstory-podcast
+youtube: "YQAxXGPpcc"
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-YQAxXGPpcc" frameborder="0" allowfullscreen></iframe>
 
 With the death of a beloved member of the Bay Minette Community shot dead after a 10am traffic stop one month ago, the people of this small southern town in Alabama have created the Bay Minette Justice League. Scott Johnson's article in the Lagniappe Newspaper is all about the narrative fed to the press by the Baldwin County Major Crimes Unit, a fiction of Sheriff Huey Mack's imagination that has a long history of cover-ups and disinformation.
 

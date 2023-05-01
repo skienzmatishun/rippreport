@@ -3,11 +3,11 @@ title: "Florence 360"
 date: 2021-08-29
 categories: 
   - backstory-podcast
+youtube: "_mpMHrf_-Ec"
 authors: 
   - admin
 ---
 
-https://www.youtube.com/watch?v=\_mpMHrf\_-Ec
 
 Coming to you from The 360 Grille, a sky needle revolving restaurant at Marriott's Shoals Hotel and Spa on the Tennessee River- Florence, Alabama.
 
