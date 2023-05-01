@@ -17,6 +17,8 @@ theme = 'mainroad'
   pager = true 
   post_meta = ["date", "categories"]
   mainSections = ["p"]
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
   mathjax = false
   comments = true
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans"
