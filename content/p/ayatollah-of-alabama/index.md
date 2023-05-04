@@ -11,7 +11,7 @@ authors:
 
 Roy Moore disqualified himself long before the sexual allegations were levied at him, by multiple and creditable sources. Moore violated his oath of office, twice, and was removed from office for violating the same constitutional rights he swore to protect. Yet he uses the same Constitution as his rally cry for votes. This is a fact not fake news, yet some voters are willing to overlook Moore’s defiance for the law, putting party first, at all costs.
 
-\[embeddoc url="http://www.alabamacounties.org/wp-content/uploads/2014/10/OathofOffice.pdf" download="all"\]
+![]http://www.alabamacounties.org/wp-content/uploads/2014/10/OathofOffice.pdf
 
 How can an individual who has violated the oath of office for The Alabama Supreme Court, twice, be expected to honor the Oath Of Office for the US Senate? Better yet how can he even be a viable candidate?
 

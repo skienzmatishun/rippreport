@@ -3,6 +3,7 @@ title: "Special Legislative Alert: Alabama Medical Cannabis"
 date: 2021-05-07
 categories: 
   - backstory-podcast
+youtube: "773DBogYwSQ"
 tags: 
   - backstory-podcast
   - chey-garrigan
@@ -12,7 +13,6 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/773DBogYwSQ" frameborder="0" allowfullscreen></iframe>
 
 The Alabama House of Representatives has passed SB 46 establishing a statewide medical marijuana program. The bill now heads back to Senate for final approval.
 

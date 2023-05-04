@@ -1,13 +1,12 @@
 ---
 title: "'Tard and Feathered"
 date: 2021-12-19
+youtube: "RNj7UWh8rmE"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RNj7UWh8rmE" frameborder="0" allowfullscreen></iframe>
 
 The lack of Leadership in Alabama is unimaginable. This is the most ineffective and quite frankly unintelligent bunch of legislators to ever occupy our Statehouse. And the Kung-Flu response should have convinced you that our Federal, State and Local Leadership is totally unprepared for much of anything (reminiscent of a Marx Brothers bit).
 

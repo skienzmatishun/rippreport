@@ -3,6 +3,7 @@ title: "Backstory Podcast 9/11, 2001 Remembered"
 date: 2020-09-12
 categories: 
   - backstory-podcast
+youtube: "d6FYUlEFneo"
 tags: 
   - alabama-correctional-facilities
   - backstory-podcast
@@ -28,5 +29,3 @@ Absentee voting, Bass Pro Shops shooter; Baldwin County’s new proposed zoning 
 Weeks Bay Foundation sheds skin to become “SALT”... watch out Fairhope Triangle; Municipal runoff elections; a Tennessee lawyer wanted for rape kills himself in Mobile; and we explore the trifecta of Nick Saban-The Houston Texans Game- and BLM, And finally, the house is on the market, message received.
 
 Go check out Operation BBQ Relief and their good works, they are activated and working in Lake Charles in the wake of Hurricane Laura.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6FYUlEFneo" frameborder="0" allowfullscreen></iframe>
