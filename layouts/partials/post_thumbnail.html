@@ -6,7 +6,15 @@
       </div>
     </div>
   </figure>
-{{- else }}
+{{- else if $rumble := .page.Params.rumble }}
+<figure class="thumbnail">
+  <div class="thumbnail__video">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+      <iframe class="thumbnail__iframe" src="https://www.rumble.com/embed/{{ $rumble }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+  </div>
+</figure>
+{{- else}}
   {{- if $thumbnail := .page.Params.thumbnail }}
     {{- $class := .class }}
     {{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}

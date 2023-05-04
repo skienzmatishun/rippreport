@@ -3,7 +3,7 @@ title: "No Boomers"
 date: 2023-04-30
 categories: 
   - backstory-podcast
-youtube: "SmeAHcVAs3U"
+rumble: "v2jb1oo"
 thumbnail: "img/backstory-153.jpg"
 authors: 
   - admin
