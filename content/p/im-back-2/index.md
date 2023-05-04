@@ -23,6 +23,8 @@ Thanks for staying with us and get ready for some reports that will curl your ha
 
 Francis Paul Ripp
 
+
+
 ![](https://rippreport.com/img/im-back-3.jpg)
 
 
@@ -43,3 +45,4 @@ Francis Paul Ripp
 
 ![](https://rippreport.com/img/im-back-10.jpg)
 
+{{< chat im-back >}}
