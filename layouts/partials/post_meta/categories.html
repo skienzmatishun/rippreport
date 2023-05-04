@@ -7,7 +7,7 @@
 			{{- $path := $url.Path -}}
 			{{- with $.Site.GetPage (printf "/%s/%s" $taxo $path) }}
 				{{- if gt $index 0 }}, {{ end -}}
-				<a class="meta__link" href="{{ .RelPermalink }}" rel="category">{{ .Title }}</a>
+				{{ .Title }}
 			{{- end }}
 		{{- end }}
 	</span>
