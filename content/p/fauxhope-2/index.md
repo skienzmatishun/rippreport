@@ -1,6 +1,7 @@
 ---
 title: "FAUXHOPE"
 date: 2022-06-29
+thumbnail: "img/faux-hope.png"
 categories: 
   - wonderful-wednesday
 authors: 
