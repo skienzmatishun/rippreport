@@ -24,7 +24,7 @@ theme = 'mainroad'
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
   single = "right" # layout for single pages
-  widgets = ["search", "recent", "taglist"]
+  widgets = ["search", "recent"]
   logo = "https://rippreport.com/img/eagle.png"
 
 [Params.widgets]
