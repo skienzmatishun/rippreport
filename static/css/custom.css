@@ -158,6 +158,12 @@ body {
         width: 99%
     }
 
+    .title-logo, a.logo__link span  {
+        font-size:1.9em;
+        color:white;
+        font-weight:600;
+    }
+
     .post__title {
         font-size: 45px;
         word-wrap: normal
