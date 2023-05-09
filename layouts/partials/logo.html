@@ -1,16 +1,18 @@
 {{- $logoTitle := .Site.Params.logo.title | default .Site.Title -}}
 {{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}
 {{- $logoImage := .Site.Params.logo.image -}}
-
 {{- if or $logoTitle $logoImage }}
 	{{/* Defined when logo is mixed (image + text) */}}
 	{{- $logoMix := and $logoImage $logoTitle -}}
 
 	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
 		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
+			<span style="font-size:3em;color:white">RIPP</span>
 			<div class="logo__item logo__imagebox">
-				<div class="logo__img"><img id=eagle src="https://rippreport.com/img/eagle.png"></div>
+				<div class="logo__img">{{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
+				</div>
 			</div>
+			<span style="color:white;font-size:3em;">REPORT</span>
 		</a>
 	</div>
 {{- end }}

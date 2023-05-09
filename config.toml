@@ -22,7 +22,6 @@ logo = "https://rippreport.com/img/eagle.png"
   mathjax = false
   comments = true
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans"
-
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages

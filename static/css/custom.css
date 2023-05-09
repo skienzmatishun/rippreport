@@ -142,6 +142,16 @@ body {
     top: 0;
 }
 
+.logo__link span {
+    font-size:3em;
+    color:white;
+    font-weight:600;
+}
+
+.logo__link {
+    min-width:406px;
+}
+
 @media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
