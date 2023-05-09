@@ -3,6 +3,7 @@ title: "HONEY BEES"
 date: 2019-10-10
 categories: 
   - wonderful-wednesday
+thumbnail: "img/honey-bees.png"
 authors: 
   - admin
 ---

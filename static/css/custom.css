@@ -24,7 +24,6 @@ body {
 .list__title {
     font-size: 90px;
     text-align: center;
-    font-family: Sans;
 }
 
 .list__thumbnail img {
@@ -87,13 +86,18 @@ body {
     background: #5083df36
 }
 
+.loader { 
+    text-align: center;
+    margin: 0 auto 1em;
+    display: block;
+    vertical-align: top;
+  }
+
 .thumbnail__video {
-    background-image: url("https://rippreport.com/img/backstory-loading.gif");
-    background-repeat: no-repeat;
     margin-top: 10px;
     background-position: center;
     background-size: 50px;
-    background-color: black;
+    background-color: #284170;
 }
 
 .sidebar {
