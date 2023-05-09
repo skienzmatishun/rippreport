@@ -142,7 +142,7 @@ body {
     top: 0;
 }
 
-.title-logo {
+a.logo__link span {
     font-size:3em;
     color:white;
     font-weight:600;
