@@ -7,12 +7,12 @@
 
 	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
 		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
-			<span>RIPP</span>
+			<span class="title-logo">RIPP</span>
 			<div class="logo__item logo__imagebox">
 				<div class="logo__img">{{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
 				</div>
 			</div>
-			<span>REPORT</span>
+			<span class="title-logo">REPORT</span>
 		</a>
 	</div>
 {{- end }}
