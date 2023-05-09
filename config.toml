@@ -2,6 +2,8 @@ baseURL = 'https://rippreport.com/'
 languageCode = 'en-us'
 title = 'Ripp Report'
 theme = 'mainroad'
+disableHugoGeneratorInject = true
+logo = "https://rippreport.com/img/eagle.png"
 
 [Author] # Used in authorbox
   name = "Francis Ripp"
@@ -20,12 +22,12 @@ theme = 'mainroad'
   mathjax = false
   comments = true
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans"
+
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
   single = "right" # layout for single pages
   widgets = ["search", "recent"]
-  logo = "https://rippreport.com/img/eagle.png"
 
 [Params.widgets]
   recent_num = 10 # Number of articles in the "Recent articles" widget
