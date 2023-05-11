@@ -156,6 +156,15 @@ body {
     min-width:351px;
 }
 
+@media screen and (max-width: 900px) {
+
+    .wrapper, .logo {
+        padding: 0;
+        padding-top:10px;
+    }
+
+}
+
 @media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
