@@ -3,7 +3,6 @@ title: "What the hell is ESG?"
 date: 2023-05-13
 thumbnail: "img/backstory-155.jpg"
 rumble: "v2ky1o6"
-thumbnail: "backstory-155"
 categories: 
   - backstory-podcast
 authors: 
