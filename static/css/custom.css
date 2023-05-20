@@ -208,7 +208,4 @@ body {
         margin-bottom: 2em
     }
 }
-:root {
-    --cactus-text-color:white;
-  }
-  
+.cactus-login-client-title, .cactus-login-credentials-title {color:white !important;}
