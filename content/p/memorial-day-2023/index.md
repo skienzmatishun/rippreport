@@ -9,3 +9,5 @@ authors:
 ---
 
 Remember those who died for our country and freedom on this Memorial Day.
+
+{{< chat memorial-day-2023 >}}
