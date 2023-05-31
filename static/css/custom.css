@@ -29,7 +29,11 @@ body {
 .list__thumbnail img {
     max-width: none;
     margin-bottom: 2em;
-    padding: 2em;
+}
+
+.list__thumbnail {
+    
+    margin: 0;
 }
 
 .container--outer,
@@ -47,7 +51,6 @@ body {
     margin: auto;
     margin-bottom: 4em;
     max-width: 1200px;
-    padding: 2em;
 }
 
 .list__footer-readmore {
@@ -89,7 +92,7 @@ body {
 .loader { 
     text-align: center;
     margin: 0 auto 1em;
-    display: block;
+    display: inline-block;
     vertical-align: top;
   }
 
@@ -156,6 +159,9 @@ body {
     min-width:351px;
 }
 
+.list__excerpt {
+    padding:2em;
+}
 
 @media screen and (max-width:620px) {
     .list__thumbnail {
