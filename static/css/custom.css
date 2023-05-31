@@ -163,6 +163,8 @@ body {
     padding:2em;
 }
 
+.post__header, .main__header, .post__content {padding:2em;}
+
 @media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
