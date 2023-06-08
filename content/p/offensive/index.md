@@ -9,6 +9,8 @@ authors:
   - admin
 ---
 
-From the Capital Police stopping the school children from singing the National Anthem, to the antics of the Alabama Legislature, to the newly released Hunter Biden laptop websites (plural), to the annoying arrogance of State Senator "The Taxman" Chris Elliott, to the prices being paid for the proxy war in The Ukraine, and finally to the falls and fails of our Commander In Chief, it's all pretty Offensive.
+From the Capital Police stopping the school children from singing the National Anthem to the antics of the Alabama Legislature, the range of recent events has left many feeling frustrated and disheartened. Additionally, the emergence of multiple Hunter Biden laptop websites, the seemingly unending arrogance of State Senator "The Taxman" Chris Elliott, the high costs paid for the proxy war in Ukraine, and the numerous falls and fails of our Commander In Chief have all contributed to a growing sense of offense and concern among the public.
+
+
 
 {{< chat offensive >}}
