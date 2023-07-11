@@ -50,4 +50,4 @@ Elliott was bombastic in his defense of Mayor Bob, cover-up, Wills sleazy deal t
 
 Politicians like Mr Elliott are the foundation of Alabama political corruption. In addition to the corruption is the reputation of the state. Alabama is the laughing stock of the United States and Baldwin County is viewed, by Goat Hill, as a piggy bank, only. Why ? Because Senator Chris Elliott has alienated the Governor and the big goats on the hill. He has a lone wolf reputation of promoting himself rather than the interests of the people.
 
-{{< chat all-mouth >}}
+{{< chat fascism >}}
