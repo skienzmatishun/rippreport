@@ -67,7 +67,7 @@ bear.
 Ripp Report: This article reminds me of the injustice and corruption in the Baldwin County Family Court. The worst abuser of the court is Judge Michelle Thomason. In her court all the attorney has to say is “Your Honor she is crazy”. Why wouldn’t the mama bear be a little crazy when the judge takes her children away?
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0BXEPZWEmFuCE7GqsRMDMRyA7bnnQW1rMGzErgC7uLkEWGvuDRVZwsaHueyzY1A8kl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0BXEPZWEmFuCE7GqsRMDMRyA7bnnQW1rMGzErgC7uLkEWGvuDRVZwsaHueyzY1A8kl&show_text=true&width=500" width="500" height="502" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 
