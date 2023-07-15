@@ -1,9 +1,9 @@
 ---
-title: "ELLIOTT FASCISM"
-date: 2023-07-11
-thumbnail: "img/elliot-fascism.jpg"
+title: "ELLIOTT HISTORY LESSON"
+date: 2023-07-15
+thumbnail: "img/elliot-history-lesson.jpg"
 categories: 
-  - terrific-tuesday
+  - saturday-sunshine
 authors: 
   - admin
 ---
@@ -43,7 +43,7 @@ Guess who is one of the major architects of this dirty lease? None other than Se
 
 Senator Elliott has a direct link to the Porch Indians.
 
-<iframe style="width:98%; height:800px;" src=https://web.archive.org/web/20230327110101/http://www.rolinbuilds.com/About-Us></iframe>
+http://www.rolinbuilds.com/About-Us
 
 Elliott was bombastic in his defense of Mayor Bob, cover-up, Wills sleazy deal to rent office space to the Baldwin County Delegation. So if cover up Bob can do it why can’t Senator Elliott. It is reported that he rents property to Rolin construction, a Porch Creek Indian company? Clear that up for us Chris.
 
