@@ -1,5 +1,5 @@
 ---
-title: "MAMA BEAR"
+title: "MOTHER BEAR"
 date: 2023-07-12
 thumbnail: "img/moma-bear.jpg"
 categories: 
