@@ -42,6 +42,6 @@ It all goes back to a fight between Albritton and Marshall last year over whethe
 So that fight is over, but it was nice leverage for Marshall when things were still uncertain. Now, we’re just back to the basics and the incestuous ties between Regions, Marshall and their shared lawyers.
 And we wonder why so many sketchy things happen in this state.”
 
-Alabama makes Washington D. C. look like a bunch of angles.
+Alabama makes Washington D. C. look like a bunch of angels.
 
 {{< chat top >}}
