@@ -1,6 +1,6 @@
 ---
 title: "TOP TO BOTTOM CORRUPTION"
-date: 2023-07-12
+date: 2023-07-21
 thumbnail: "img/top-to-down-corruption.jpg"
 categories: 
   - freaky-friday
@@ -43,3 +43,5 @@ So that fight is over, but it was nice leverage for Marshall when things were st
 And we wonder why so many sketchy things happen in this state.”
 
 Alabama makes Washington D. C. look like a bunch of angles.
+
+{{< chat top >}}
