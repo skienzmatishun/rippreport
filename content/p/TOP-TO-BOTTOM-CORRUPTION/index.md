@@ -12,6 +12,8 @@ authors:
 
 Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt from top to bottom. An absent Governor, a Bar Association in the septic tank. A judiciary with its head in the sand and an Attorney General giving them all a pass.
 
+----
+
 [Sunday Brunch - Lagniappe Newsletter - Jul 15, 2023](https://archive.is/dWKmH#selection-371.0-445.62)
 
 ## AG does 180
@@ -41,6 +43,8 @@ It all goes back to a fight between Albritton and Marshall last year over whethe
 
 So that fight is over, but it was nice leverage for Marshall when things were still uncertain. Now, we’re just back to the basics and the incestuous ties between Regions, Marshall and their shared lawyers.
 And we wonder why so many sketchy things happen in this state.”
+
+----
 
 Alabama makes Washington D. C. look like a bunch of angels.
 
