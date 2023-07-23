@@ -23,8 +23,6 @@ Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt f
 
 ### By Rob Holbert
 
-Alabama Attorney General Steve Marshall (left) and Alabama Ethics Commission Chairman Tom Albritton
-
 The firm — with a value of about $500,000 — doled out a few small scholarships each year. Nothing too interesting. But then, in 2011, Jed Clampit was shooting at a rabbit on some land in Conecuh County that was owned by the trust, and up from the ground come a-bubblin’ crude. OK, Jed had nothing to do with it. A wildcatter from Canada, believe it or not, hit the mother load and by 2013, millions started pouring into the trust.
 All of the sudden, there were more and bigger scholarships awarded by the MAMF, and old Tom Albritton’s kids were beneficiaries. All told, his two children received $120,000 in tuition to attend the University of Texas over about six years. It would look sketchy for any tax exempt trust to hand out money to a board member — it’s called self-dealing and is forbidden by law and also by the language that created the MAMF — but it looks even worse because shortly after his kids started getting that scholarship money, Albritton was appointed executive director of the Alabama Ethics Commission.
 
