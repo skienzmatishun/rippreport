@@ -2,7 +2,8 @@
 title: "NOT A HARD LIQUOR"
 date: 2023-08-01
 authors: Ripp
-categories: backstory-podcast
+categories: 
+  - backstory-podcast
 rumble: "v2zy9vi"
 thumbnail: "img/not-a-hard-liquor.jpg"
 ---
