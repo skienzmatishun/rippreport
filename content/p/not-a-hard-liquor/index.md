@@ -1,6 +1,6 @@
 ---
-title: NOT A HARD LIQUOR
-date: 2023-08-01 14:15:04
+title: "NOT A HARD LIQUOR"
+date: 2023-08-01
 authors: Ripp
 categories: backstory-podcast
 rumble: "v2zy9vi"
