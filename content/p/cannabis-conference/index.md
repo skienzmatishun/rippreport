@@ -45,7 +45,7 @@ Phone: (205)644-1824
 
 Email: info@alabamacannaconference.com
 
-Website: [!](alabamacannaconference.com)
+Website: alabamacannaconference.com
 
 
 {{< chat cannabis >}}
