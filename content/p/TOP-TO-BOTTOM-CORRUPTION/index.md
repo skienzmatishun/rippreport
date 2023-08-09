@@ -14,7 +14,7 @@ Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt f
 
 ----
 
-[Sunday Brunch - Lagniappe Newsletter - Jul 15, 2023](https://archive.is/dWKmH#selection-371.0-445.62)
+[Sunday Brunch - Lagniappe Newsletter - Jul 15, 2023](https://archive.is/dWKmH#selection-371.0-374.0)
 
 ## AG does 180
 
