@@ -11,11 +11,11 @@ authors:
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 
 
-good old boy
-
-noun
-
-a man who embodies some or all of the qualities considered characteristic of many white men of the southern US, including an unpretentious, convivial manner, conservative or intolerant attitudes, and a strong sense of fellowship with and loyalty to other members of his peer group.
+>good old boy
+>
+>noun
+>
+>a man who embodies some or all of the qualities considered characteristic of many white men of the southern US, including an unpretentious, convivial manner, conservative or intolerant attitudes, and a strong sense of fellowship with and loyalty to other members of his peer group.
 
 
 In the 19 years that the Ripp Report has been following Fairhope politics, only 4 years had proper management, 2016–2000, Mayor Karen Wilson. She neutered the good ole boy connections for city contracts. Wilson also refused to take two positions Mayor/utility Director and two salaries. This was promptly changed by the current administration.
