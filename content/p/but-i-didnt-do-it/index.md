@@ -1,7 +1,7 @@
 ---
 title: "But, I Didn’t Do It…"
 date: 2023-08-16
-thumbnail: "img/false-arrest.png"
+thumbnail: "img/false-arrest.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
