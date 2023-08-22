@@ -29,7 +29,7 @@ The first sign of corruption or a cover up is to suppress any media coverage, be
 Sadly this happens all over Alabama. The District Attorney, Prosecutor and Judge are all paid politicians and the last thing they will ever do is admit to a mistake. Their position is to unconditionally back the police version of the events, obtain the harshest sentence, and paint the accused as a threat to society. They then all beat their chest and run for office again.
 
 
-> “A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice and that guilt is decided upon the basis of sufficient evidence.”
+>A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice and that guilt is decided upon the basis of sufficient evidence.
 
 
 If any of these three elected officials make comments about this article, then ask them why they blocked the media from investigating?
