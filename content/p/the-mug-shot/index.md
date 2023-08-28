@@ -1,6 +1,6 @@
 ---
 title: "The Mugshot"
-date: 2023-08-25
+date: 2023-08-28
 thumbnail: "img/the-mugshot.jpg"
 categories: 
   - backstory-podcast
