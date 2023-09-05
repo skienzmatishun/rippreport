@@ -1,7 +1,7 @@
 ---
 title: "FAUXHOPE CRIER"
 date: 2023-09-05
-thumbnail: "img/fauxhope-crier.jpg"
+thumbnail: "img/town-crier.jpg"
 categories: 
   - terrific-tuesday
 authors: 
