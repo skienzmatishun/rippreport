@@ -20,7 +20,7 @@ Cory has not been seen in the African American community, which he pledged to su
 Cory the Crier is yapping about water, infrastructure issues, and his avid support for the Municipal Judges project. The rest of the council is sitting back letting him make a fool of himself. These issues have existed, and been ignored, for 20 years and they know it.
 
 
-The below article is not rocket science. Why was this not done 20 even 30 years ago? Truth is, that Fauxhope did not want an increase in the African American residents in Fauxhope. Same thing with the duck pond and beach, those fees started to eliminate or restrict non resident African Americans from Mobile picnicking on the beach.
+The below video is not rocket science. Why was this not done 20 even 30 years ago? Truth is, that Fauxhope did not want an increase in the African American residents in Fauxhope. Same thing with the duck pond and beach, those fees started to eliminate or restrict non resident African Americans from Mobile picnicking on the beach.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PSyTKV36Tgs?si=AgjrZtYpo3KsQ89G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -28,7 +28,7 @@ The below article is not rocket science. Why was this not done 20 even 30 years 
 The Fairhope City Council could soon vote on an ordinance that would require people to annex inside city limits before tapping into Fairhope water. Councilman Corey Martin introduced the ordinance during the council's regular meeting rescheduled for Tuesday night.
 
 
-Cory the Crier went on TV supporting the Fauxhope Municipal Judges east side project. Read the article the priority is infrastructure for commercial projects. It is obvious that Cory has bitten the poison apple of developers. The council will have to approve the Judges project and the council appoints the Judge. It will pass with flying colors.
+Cory the Crier went on TV supporting the Fauxhope Municipal Judges east side project. Watch the video, the priority is infrastructure for commercial projects. It is obvious that Cory has bitten the poison apple of developers. The council will have to approve the Judges project and the council appoints the Judge. It will pass with flying colors.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Ke3hkDIdKA?si=uesLGAzffDH1Y_7i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
