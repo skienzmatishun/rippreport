@@ -49,3 +49,5 @@ Website: alabamacannaconference.com
 
 
 {{< chat cannabis >}}
+
+{{< mailchimp >}}

@@ -21,3 +21,5 @@ The FBI has been notified of citizens concerns. This is not new news but a patte
 You can research this page for past articles related to the same subject.
 
 {{< chat boss-sheriff >}}
+
+{{< mailchimp >}}

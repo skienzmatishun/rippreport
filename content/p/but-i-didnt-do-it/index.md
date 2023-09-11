@@ -37,3 +37,5 @@ It is a twisted tale of greed, violence, and treachery – one you will never fo
 Please check out <a href=https://deal-with-the-devil.com>deal-with-the-devil.com</a> for the FULL STORY. Please DONATE to our <a href="https://spot.fund/7p2k2se">fundraiser</a>, sign the <a href=https://chng.it/pv4xJVYLPR>PETITION</a>, and then stay tuned to <a href=https://rippreport.com>The Ripp Report</a> for further developments – as we, the social justice advocates for Murray “Bubba” Lawrence, Jr. continue to pursue his vindication and exoneration. 
 
 {{< chat false-arrest >}}
+
+{{< mailchimp >}}
