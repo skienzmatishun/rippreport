@@ -86,3 +86,5 @@ It’s called FAUXHOPE for a reason.
 
 
 {{< chat tunnel >}}
+
+{{< mailchimp >}}
