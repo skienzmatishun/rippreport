@@ -47,3 +47,5 @@ And we wonder why so many sketchy things happen in this state.”
 Alabama makes Washington D. C. look like a bunch of angels.
 
 {{< chat top >}}
+
+{{< mailchimp >}}
