@@ -14,7 +14,7 @@ Historic preservation, water, infrastructure, annexing, and continuously lying t
 
 The discussion of Historic preservation has been addressed in the last 6 councils and each time it dies a slow death. This time it will be a heart attack. The city government of Fauxhope is 100% pro development and will provide all city services to developers first.
 
-[Fairhope Crier - Ripp Report]https://rippreport.com/p/fauxhope-crier/
+[Fairhope Crier - Ripp Report](https://rippreport.com/p/fauxhope-crier/)
 
 
 “Cory the Crier went on TV supporting the Fauxhope Municipal Judges east side project. Watch the video. The priority is infrastructure for commercial projects. It is obvious that Cory has bitten the poison apple of developers. The council will have to approve the Judges project and the council appoints the Judge. It will pass with flying colors.”
