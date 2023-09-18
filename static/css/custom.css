@@ -170,6 +170,7 @@ p {margin-top:1em;}
 @media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
+        width: 99%;
 		min-height:none;
     }
 	p {
