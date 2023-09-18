@@ -32,7 +32,6 @@ body {
 }
 
 .list__thumbnail {
-    min-height: 630px;
     margin: 0;
 }
 
@@ -171,7 +170,6 @@ p {margin-top:1em;}
     .list__thumbnail {
         max-width: none;
         width: 99%;
-		min-height:none;
     }
 	p {
 		font-size:16px;
