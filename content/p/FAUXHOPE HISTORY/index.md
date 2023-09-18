@@ -18,15 +18,15 @@ The discussion of Historic preservation has been addressed in the last 6 council
 
 > “Cory the Crier went on TV supporting the Fauxhope Municipal Judges east side project. Watch the video. The priority is infrastructure for commercial projects. It is obvious that Cory has bitten the poison apple of developers. The council will have to approve the Judges project and the council appoints the Judge. It will pass with flying colors.”
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope could soon have new policies for maintaining historic homes and buildings after city councilors discussed the first draft of a preservation ordinance in a Monday night work session. <a href="https://t.co/9gosGTERb7">https://t.co/9gosGTERb7</a></p>&mdash; Lagniappe Weekly (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1702408145639702580?ref_src=twsrc%5Etfw">September 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope could soon have new policies for maintaining historic homes and buildings after city councilors discussed the first draft of a preservation ordinance in a Monday night work session. <a href="https://t.co/9gosGTERb7">https://t.co/9gosGTERb7</a></p>&mdash; Lagniappe Weekly (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1702408145639702580?ref_src=twsrc%5Etfw">September 14, 2023</a></blockquote>
 
 > The draft ordinance comes months after the demolition of historic buildings around Fairhope, including the home of Nancy Lewis, a woman who lived in Fairhope after being freed from slavery.
 
-Mayor Sherry Sullivan called the draft “a good start.” If the ordinance were up for a vote that night, Sullivan said she would advise the council not to pass it because of the workload it could put on city employees and the extra government body it could create.”
+Mayor Sherry Sullivan called the draft “a good start.” If the ordinance were up for a vote that night, Sullivan said she would advise the council not to pass it because of the workload it could put on city employees and the extra government body it could create.
 
 “I guess the bottom line I have and always had is money,” Councilman Kevin Boone said. Councilman Boone is a developer and works with developers when he is not a councilman??? He has a rich history of supporting back room good ole boy politics.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.<a href="https://t.co/TkIjd5cmET">https://t.co/TkIjd5cmET</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1703483296015860141?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.<a href="https://t.co/TkIjd5cmET">https://t.co/TkIjd5cmET</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1703483296015860141?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote>  
 
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 
