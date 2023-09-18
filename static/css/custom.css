@@ -32,7 +32,7 @@ body {
 }
 
 .list__thumbnail {
-    
+    min-height: 630px;
     margin: 0;
 }
 
