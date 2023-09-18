@@ -170,7 +170,8 @@ p {margin-top:1em;}
 @media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
-        width: 99%
+        width: 99%;
+		min-width:none;
     }
 	p {
 		font-size:16px;
