@@ -130,7 +130,7 @@ body {
 	text-align:center;
 	margin-top:1em;
 }
- 
+ .cactus-comment-avatar {display:none !important;}
 .pager {
     margin: 2em;
 }
