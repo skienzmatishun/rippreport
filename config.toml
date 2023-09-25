@@ -26,7 +26,7 @@ logo = "https://rippreport.com/img/eagle.png"
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
   single = "right" # layout for single pages
-  widgets = ["search", "recent"]
+  widgets = ["recent"]
 
 [Params.widgets]
   recent_num = 10 # Number of articles in the "Recent articles" widget
