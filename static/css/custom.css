@@ -120,12 +120,14 @@ body {
 .widget__item a {
     color: white;
     font-size: 1.3rem;
+	margin-left:1em;
 }
 
 .widget__title {
     color: white;
     border: none;
     font-size: 2.5rem;
+	text-align:center;
 }
 
 .pager {
