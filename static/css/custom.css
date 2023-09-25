@@ -177,6 +177,19 @@ p {margin-top:1em;}
 	opacity:.9;
 }
 
+.backstory-social {
+filter:invert(1);
+float:right;
+margin-top: 75px;
+  margin-right: 80px;
+}
+.backstory-sidebar{
+}
+
+.backstory-logo {
+float:left;
+}
+
 .icon-facebook {
 margin-right:10px;
 }
