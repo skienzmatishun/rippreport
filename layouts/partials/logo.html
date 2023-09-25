@@ -16,8 +16,8 @@
 		</a>
 	</div>
 	<div class="top-social"><a href="https://facebook.com/therippreport">{{ partial "svg/facebook.svg" (dict "id" "facebook") -}}</a><a href="https://twitter.com/rippreport">{{ partial "svg/twitter.svg" (dict "id" "twitter") -}}</a><a href="mailto:contact@rippreport.com">{{ partial "svg/email.svg" (dict "id" "email") -}}</div>
-{	{{- range $widget := . }}
+	{{- range $widget := . }}
 		{{- $p := printf "widgets/%s.html" $widget }}
 		{{- partial $p $root }}
 	{{- end }}
-{
+{{- end }}
