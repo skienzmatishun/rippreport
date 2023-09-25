@@ -21,6 +21,7 @@ logo = "https://rippreport.com/img/eagle.png"
   mainSections = ["p"]
   mathjax = false
   comments = true
+  customCSS = ["css/custom.css"] 
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans"
 [Params.sidebar]
   home = "right"   # layout for home page
