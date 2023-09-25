@@ -120,12 +120,14 @@ body {
 .widget__item a {
     color: white;
     font-size: 1.3rem;
+	margin-left:1em;
 }
 
 .widget__title {
     color: white;
     border: none;
-    font-size: 2.5rem;
+    font-size: 2rem;
+	text-align:center;
 }
 
 .pager {
@@ -170,9 +172,12 @@ p {margin-top:1em;}
 @media screen and (max-width:620px) {
     .list__thumbnail {
         max-width: none;
-        width: 99%
+        width: 99%;
+		min-height:none;
     }
-
+	p {
+		font-size:16px;
+	}
     .wrapper, .logo {
         padding: 0;
         padding-top:10px;
