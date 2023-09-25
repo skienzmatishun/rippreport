@@ -130,6 +130,10 @@ body {
 	text-align:center;
 }
 
+#mc-embedded-subscribe-form {
+	margin-top:-134px;
+}
+
 .pager {
     margin: 2em;
 }
@@ -182,6 +186,10 @@ p {margin-top:1em;}
         padding: 0;
         padding-top:10px;
     }
+
+#mc-embedded-subscribe-form {
+	margin-top:10px;
+}
 
     .title-logo, a.logo__link span  {
         font-size:1.9em;
