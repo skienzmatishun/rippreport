@@ -169,6 +169,13 @@ p {margin-top:1em;}
 
 .post__header, .main__header, .post__content {padding:2em;}
 
+.top-social {
+	position:absolute;
+	top:10px;
+	right:40px;
+	filter:invert(1);
+}
+
 .icon-facebook {
 margin-right:5px;
 }
