@@ -200,6 +200,13 @@ margin-right:10px;
 margin-right:10px;
 }
 @media screen and (max-width:620px) {
+.backstory-logo {
+float:none;
+}
+.backstory-social {
+float:none;
+margin-top: 10px;
+}
     .list__thumbnail {
         max-width: none;
         width: 99%;
