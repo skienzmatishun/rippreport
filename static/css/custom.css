@@ -178,6 +178,7 @@ p {margin-top:1em;}
 }
 
 .backstory-social {
+filter:invert(1);
 }
 
 .icon-facebook {
