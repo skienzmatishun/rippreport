@@ -209,6 +209,7 @@ margin-right:10px;
 }
 
 @media screen and (max-width:620px) {
+	.search-bar {display:none;}
 	.header-search {
 	display: inline-block;
   POSITION: relative;
