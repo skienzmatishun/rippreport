@@ -128,9 +128,8 @@ body {
     border: none;
     font-size: 2rem;
 	text-align:center;
-	margin-top:1em;
 }
- .cactus-comment-avatar {display:none !important;}
+
 .pager {
     margin: 2em;
 }
@@ -203,15 +202,20 @@ margin-right:10px;
 .header-search {
 	display: inline-block;
   POSITION: relative;
- left: 953px;
-  top: -44px;
+  left: 584px;
+  top: 10px;
   width: 404px;
   max-width: 99%;
 }
 
 @media screen and (max-width:620px) {
 	.header-search {
-	display: none;
+	display: inline-block;
+  POSITION: relative;
+  left: 584px;
+  top: 10px;
+  width: 404px;
+  max-width: 99%;
 }
 
 .backstory-logo {
