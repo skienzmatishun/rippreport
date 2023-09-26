@@ -6,33 +6,23 @@
     <div class="widget__content">
         <ul class="widget__list">
             {{- if .IsHome }}
-                {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections | first (add $offset $recent_num) }}
-                {{- range first $recent_num (after $recent $offset) }}
-                <li class="widget__item">
-                    <a class="widget__link" href="{{ .RelPermalink }}">
-                        {{ .Title }}
-                    </a>
-                    {{- with .Params.thumbnail }}
-                    <div class="widget__thumbnail">
-                        <img src="{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
-                    </div>
-                    {{- end }}
-                </li>
-                {{- end }}
-            {{- else }}
                 {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-                {{- range first $recent_num $recent }}
-                <li class="widget__item">
-                    <a class="widget__link" href="{{ .RelPermalink }}">
-                        {{ .Title }}
-                    </a>
-                    {{- with .Params.thumbnail }}
-                    <div class="widget__thumbnail">
-                        <img src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
-                    </div>
-                    {{- end }}
-                </li>
+                {{- $recent = $recent | first $recent_num }}
+            {{- else }}
+                {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections | first (add $offset $recent_num) }}
+            {{- end }}
+            
+            {{- range $recent }}
+            <li class="widget__item">
+                <a class="widget__link" href="{{ .RelPermalink }}">
+                    {{ .Title }}
+                </a>
+                {{- with .Params.thumbnail }}
+                <div class="widget__thumbnail">
+                    <img src="{{ if .IsHome }}{{ . }}{{ else }}../../{{ . }}{{ end }}" alt="Thumbnail" class="widget__thumbnail-image">
+                </div>
                 {{- end }}
+            </li>
             {{- end }}
         </ul>
     </div>
