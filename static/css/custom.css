@@ -32,7 +32,6 @@ body {
 }
 
 .list__thumbnail {
-    
     margin: 0;
 }
 
@@ -86,15 +85,15 @@ body {
 }
 
 .backstory__post {
-    background: #5083df36
+    background: #5083df36;
 }
 
-.loader { 
+.loader {
     text-align: center;
     margin: 0 auto 1em;
     display: inline-block;
     vertical-align: top;
-  }
+}
 
 .thumbnail__video {
     margin-top: 10px;
@@ -120,17 +119,21 @@ body {
 .widget__item a {
     color: white;
     font-size: 1.3rem;
-	margin-left:1em;
+    margin-left: 1em;
 }
 
 .widget__title {
     color: white;
     border: none;
     font-size: 2rem;
-	text-align:center;
-	margin-top:1em;
+    text-align: center;
+    margin-top: 1em;
 }
- .cactus-comment-avatar {display:none !important;}
+
+.cactus-comment-avatar {
+    display: none !important;
+}
+
 .pager {
     margin: 2em;
 }
@@ -152,129 +155,144 @@ body {
     top: 0;
 }
 
-.title-logo, a.logo__link span  {
-    font-size:3em;
-    color:white;
-    font-weight:600;
+.title-logo, a.logo__link span {
+    font-size: 3em;
+    color: white;
+    font-weight: 600;
 }
 
 .logo__link {
-    min-width:351px;
+    min-width: 351px;
 }
 
 .list__excerpt {
-    padding:2em;
+    padding: 2em;
 }
 
-p {margin-top:1em;}
+p {
+    margin-top: 1em;
+}
 
-.post__header, .main__header, .post__content {padding:2em;}
+.post__header, .main__header, .post__content {
+    padding: 2em;
+}
 
 .top-social {
-	position:absolute;
-	top:15px;
-	right:15px;
-	filter:invert(1);
-	opacity:.9;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    filter: invert(1);
+    opacity: .9;
 }
 
 .backstory-social {
-filter:invert(1);
-float:right;
-margin-top: 75px;
-  margin-right: 80px;
+    filter: invert(1);
+    float: right;
+    margin-top: 75px;
+    margin-right: 80px;
 }
-.backstory-sidebar{
+
+.backstory-sidebar {
 }
 
 .backstory-logo {
-float:left;
+    float: left;
 }
 
 .icon-facebook {
-margin-right:10px;
+    margin-right: 10px;
 }
+
 .icon-twitter {
-margin-right:10px;
+    margin-right: 10px;
 }
+
 .icon-email {
-margin-right:10px;
+    margin-right: 10px;
 }
+
 .header-search {
-	display: inline-block;
-  POSITION: relative;
- left: 953px;
-  top: -44px;
-  width: 404px;
-  max-width: 99%;
+    display: inline-block;
+    POSITION: relative;
+    left: 953px;
+    top: -44px;
+    width: 404px;
+    max-width: 99%;
 }
 
-@media screen and (max-width:620px) {
-	.header-search {
-	display: none;
-}
+@media screen and (max-width: 620px) {
+    .header-search {
+        display: none;
+    }
 
-.backstory-logo {
-float:none;
-text-align:center;
-}
-.backstory-social {
-float:none;
-text-align:center;
-margin:0;
-margin-top: 10px;
-}
+    .backstory-logo {
+        float: none;
+        text-align: center;
+    }
+
+    .backstory-social {
+        float: none;
+        text-align: center;
+        margin: 0;
+        margin-top: 10px;
+    }
+
     .list__thumbnail {
         max-width: none;
         width: 99%;
-		min-height:none;
-    }
-.top-social {display:none;}
-	p {
-		font-size:16px;
-	}
-    .wrapper, .logo {
-        padding: 0;
-        padding-top:10px;
+        min-height: none;
     }
 
-    .title-logo, a.logo__link span  {
-        font-size:1.9em;
-        color:white;
-        font-weight:600;
+    .top-social {
+        display: none;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .wrapper, .logo {
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    .title-logo, a.logo__link span {
+        font-size: 1.9em;
+        color: white;
+        font-weight: 600;
     }
 
     .post__title {
         font-size: 45px;
-        word-wrap: normal
+        word-wrap: normal;
     }
 
     .backstory__post .content {
         padding: 1em;
-        margin: 0
+        margin: 0;
     }
 
     .list__thumbnail img {
-        padding: 0
+        padding: 0;
     }
 
     h2.list__title {
         font-size: 60px;
         word-wrap: normal;
-        max-width: 100%
+        max-width: 100%;
     }
 
     .post .content {
-        padding: 1em
+        padding: 1em;
     }
 
     .backstory__post {
         padding-top: 10px !important;
         padding-left: 0 !important;
-        padding-right: 0 !important
+        padding-right: 0 !important;
     }
 
     .list__footer-readmore {
-        margin-bottom: 2em
+        margin-bottom: 2em;
     }
 }
