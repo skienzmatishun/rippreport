@@ -200,10 +200,10 @@ margin-right:10px;
 margin-right:10px;
 }
 .header-search {
-	display: inline-block;
+  display: inline-block;
   POSITION: relative;
-  left: 584px;
-  top: 10px;
+  left: 902px;
+  top: -50px;
   width: 404px;
   max-width: 99%;
 }
@@ -281,4 +281,9 @@ margin-top: 10px;
     .list__footer-readmore {
         margin-bottom: 2em
     }
+}
+@media screen and (max-width: 1475px) {
+  .container--outer {
+    width: 99%;
+  }
 }
