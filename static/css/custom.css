@@ -282,8 +282,3 @@ margin-top: 10px;
         margin-bottom: 2em
     }
 }
-@media screen and (max-width: 1475px) {
-  .container--outer {
-    width: 99%;
-  }
-}
