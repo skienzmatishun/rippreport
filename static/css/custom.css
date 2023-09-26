@@ -42,7 +42,6 @@ body {
   display: block;
   margin: auto;
   width: 215px;
-  float: none;
   margin-top: 15px;
 }
 
@@ -65,66 +64,35 @@ body {
 }
 
 /* Other */
-.btn {
-  text-align: center;
-  font-size: 1.5rem;
-}
-.sidebar {
-  padding: 1em;
-  background: rgb(5 8 11 / 84%);
-  margin: 0;
-}
-.widget__item a {
-  color: white;
-  font-size: 1.3rem;
-  margin-left: 1em;
-}
-.widget__title {
-  color: white;
+.post__meta {
   border: none;
-  font-size: 2rem;
+}
+.list__meta {
   text-align: center;
-  margin-top: 1em;
 }
-.title-logo, a.logo__link span {
-  font-size: 3em;
-  color: white;
-  font-weight: 600;
+.cactus-comment-avatar {
+  display: none !important;
 }
-.list__excerpt {
-  padding: 2em;
+.divider {
+  background-color: transparent;
 }
-p {
-  margin-top: 1em;
+.widget-search__form {
+  background: transparent;
 }
-.top-social {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  filter: invert(1);
-  opacity: .9;
+.backstory-sidebar {
 }
-.backstory-social {
-  filter: invert(1);
-  float: right;
-  margin-top: 75px;
-  margin-right: 80px;
+.icon-facebook {
+  margin-right: 10px;
 }
-.header-search {
-  display: inline-block;
-  POSITION: relative;
-  left: 953px;
-  top: -44px;
-  width: 404px;
-  max-width: 99%;
+.icon-twitter {
+  margin-right: 10px;
+}
+.icon-email {
+  margin-right: 10px;
 }
 
 /* Media queries */
 @media screen and (max-width: 620px) {
-  .header-search {
-    display: none;
-  }
-
   .backstory-logo {
     float: none;
     text-align: center;
@@ -143,15 +111,48 @@ p {
     min-height: none;
   }
 
-  .top-social {
-    display: none;
-  }
-
   p {
     font-size: 16px;
   }
 
   .wrapper, .logo {
     padding: 0;
-    padding-top: 10
+    padding-top: 10px;
   }
+
+  .title-logo, a.logo__link span {
+    font-size: 1.9em;
+  }
+
+  .post__title {
+    font-size: 45px;
+  }
+
+  .backstory__post .content {
+    padding: 1em;
+    margin: 0;
+  }
+
+  .list__thumbnail img {
+    padding: 0;
+  }
+
+  h2.list__title {
+    font-size: 60px;
+    max-width: 100%;
+  }
+
+  .post .content {
+    padding: 1em;
+  }
+
+  .backstory__post {
+    padding-top: 10px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .list__footer-readmore {
+    margin-bottom: 2em;
+  }
+}
