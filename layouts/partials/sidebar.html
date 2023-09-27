@@ -74,7 +74,7 @@
 	<section class="sidebar-section">
   <h3>RSS Feed</h3>
   <ul>
-    {{ range (limit (parseRSS "https://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt&l=50&s=start_time&sd=desc" 10)) .Items -}}
+    {{ range (where (parseRSS "https://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt&l=50&s=start_time&sd=desc") ".Items" | limit 10) -}}
       <li><a href="{{ .Link }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
