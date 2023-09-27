@@ -188,6 +188,7 @@ margin-top: 75px;
 
 .backstory-logo {
 float:left;
+margin-left:9px;
 }
 
 .backstory-logo img {
@@ -228,6 +229,7 @@ margin-right:10px;
 .backstory-logo {
 float:none;
 text-align:center;
+margin:auto;
 }
 .backstory-social {
 float:none;
