@@ -188,11 +188,12 @@ margin-top: 75px;
 
 .backstory-logo {
 float:left;
-margin-bottom:20px;
 }
 
 .backstory-logo img {
 	border-radius:20px;
+margin-bottom:20px;
+
 }
 
 .icon-facebook {
