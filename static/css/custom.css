@@ -191,6 +191,10 @@ float:left;
 margin-bottom:20px;
 }
 
+.backstory-logo img {
+	border-radius:20px;
+}
+
 .icon-facebook {
 margin-right:10px;
 }
