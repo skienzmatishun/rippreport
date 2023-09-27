@@ -71,10 +71,10 @@
         </div>
     </div>
     <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" style="opacity: .8" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/696620853&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false"></iframe>
-	<section class="sidebar-section">
+<section class="sidebar-section">
   <h3>RSS Feed</h3>
   <ul>
-    {{ range (where (parseRSS "https://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt&l=50&s=start_time&sd=desc") ".Items" | limit 10) -}}
+    {{ range (where (read "https://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt&l=50&s=start_time&sd=desc") ".Items" | limit 10) -}}
       <li><a href="{{ .Link }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
