@@ -214,6 +214,10 @@ margin-right:10px;
   width: 404px;
   max-width: 99%;
 }
+.torpedo-widget {
+padding:1em;
+}
+
 .torpedo-widget ul {
 	color:white;
 	list-style:none;
