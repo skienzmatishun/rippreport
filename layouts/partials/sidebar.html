@@ -72,29 +72,34 @@
     </div>
     <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" style="opacity: .8" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/696620853&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false"></iframe>
 
-    {{- $rssURL := "http://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt&l=50&s=start_time&sd=desc" -}}
+    {{- $rssURL := "https://www.lagniappemobile.com/opinion/columnists/dtt/?f=rss&t=article&sd=desc" -}}
     {{- $numArticles := 8 -}}
 
-    {{- $xmlString := `
-    <?xml version="1.0" encoding="utf-8"?>
-    <!-- The rest of your XML content -->
-    ` -}}
+    {{- if eq .Kind "home" -}}
+        {{- with getXml $rssURL -}}
+            <div class="torpedo-widget">
+                <h2>Damn the Torpedoes - Lagniappe</h2>
+                <ul>
+                    {{- range first $numArticles .Root.Element "channel/item" -}}
+                        <li>
+                            <a href="{{ .SelectElement "link" | html }}">{{ .SelectElement "title" | html }}</a>
+                            <p>{{ .SelectElement "description" | html }}</p>
+                            <p>Published on {{ .SelectElement "pubDate" | html }}</p>
+                        </li>
+                    {{- end -}}
+                </ul>
+            </div>
+        {{- end -}}
+    {{- end -}}
 
-    {{- with .Site.GetPage $rssURL -}}
-        <div class="torpedo-widget">
-            <h2>{{ .Content.GetElement "channel/title" }}</h2>
-            <ul>
-                {{- range first $numArticles .Content.GetElements "channel/item" -}}
-                    <li>
-                        <a href="{{ .GetElement "link" }}">{{ .GetElement "title" }}</a>
-                        <p>{{ .GetElement "description" }}</p>
-                        <p>Published on {{ .GetElement "pubDate" }}</p>
-                    </li>
-                {{- end -}}
-            </ul>
-        </div>
+    {{- $root := . }}
+    {{- with default .Site.Params.sidebar.widgets .Params.widgets }}
+        {{- range $widget := . }}
+            {{- $p := printf "widgets/%s.html" $widget }}
+            {{- partial $p $root }}
+        {{- end }}
+    {{- else }}
+        <p class="sidebar__warning"><strong>{{ T "sidebar_warning" }}:</strong><br>{{ T "sidebar_recommendation" }}</p>
     {{- end }}
-
-    <!-- The rest of your sidebar content -->
 </aside>
-{{ end }}
+{{- end }}
