@@ -216,6 +216,7 @@ margin-right:10px;
 }
 .torpedo-widget {
 padding:1em;
+display:none;
 }
 
 .torpedo-widget ul {
