@@ -75,19 +75,21 @@
 {{- $numArticles := 8 -}}
 
 {{- if eq .Kind "home" -}}
-    {{- with index .Site.RegularPages "http://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt" -}}
-        <div class="torpedo-widget">
-            <h2>Damn the Torpedoes - Lagniappe</h2>
-            <ul>
-                {{- range first $numArticles .Pages -}}
-                    <li>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        <p>{{ .Description }}</p>
-                        <p>Published on {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</p>
-                    </li>
-                {{- end -}}
-            </ul>
-        </div>
+    {{- with where .Site.Pages "Type" "in" (slice "page" "home") "Params.sidebar" "!=" nil -}}
+        {{- with index .Site.Pages 0 -}}
+            <div class="torpedo-widget">
+                <h2>Damn the Torpedoes - Lagniappe</h2>
+                <ul>
+                    {{- range first $numArticles .Pages -}}
+                        <li>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            <p>{{ .Description }}</p>
+                            <p>Published on {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</p>
+                        </li>
+                    {{- end -}}
+                </ul>
+            </div>
+        {{- end -}}
     {{- end -}}
 {{- end -}}
     {{- $root := . }}
