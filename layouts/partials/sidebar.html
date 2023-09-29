@@ -15,19 +15,22 @@
     {{- $rssURL := "https://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt" -}}
     {{- $numArticles := 8 -}}
 
-    {{- with getRSS $rssURL -}}
-        <div class="torpedo-widget">
-            <h2>Damn the Torpedoes - Lagniappe</h2>
-            <ul>
-                {{- range first $numArticles .Items -}}
-                    <li>
-                        <a href="{{ .URL }}">{{ .Title }}</a>
-                        <p>{{ .Description }}</p>
-                        <p>Published on {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</p>
-                    </li>
-                {{- end -}}
-            </ul>
-        </div>
+    {{- $content, $err := getGeneric $rssURL -}}
+    {{- if not $err -}}
+        {{- with .Site.Process "shortcode" $content -}}
+            <div class="torpedo-widget">
+                <h2>Damn the Torpedoes - Lagniappe</h2>
+                <ul>
+                    {{- range first $numArticles .Data.Page.RegularPages -}}
+                        <li>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            <p>{{ .Description }}</p>
+                            <p>Published on {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</p>
+                        </li>
+                    {{- end -}}
+                </ul>
+            </div>
+        {{- end -}}
     {{- end -}}
 
     <!-- The rest of your sidebar content -->
