@@ -214,6 +214,26 @@ margin-right:10px;
   width: 404px;
   max-width: 99%;
 }
+.torpedo-widget ul {
+	color:white;
+	list-style:none;
+}
+.torpedo-widget a {
+		color:white;
+	font-size:1.5em;
+	font-weight:600;
+}
+
+.torpedo-widget h2 {
+	color:white;
+	font-size:2em;
+	margin-top:2em;
+}
+.torpedo-widget ul li {
+border-bottom-color:gray;
+	border-bottom-width:2px;
+	border-bottom-style:solid;
+}
 
 @media screen and (max-width:620px) {
 	.search-bar {display:none;}

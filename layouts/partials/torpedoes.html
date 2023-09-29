@@ -1,0 +1,17 @@
+{{- $rssURL := "https://api.rss2json.com/v1/api.json?rss_url=https://www.lagniappemobile.com/search/?f=rss&t=article&c=site&l=50&s=start_time&sd=desc" -}}
+{{- $numArticles := 8 -}}
+
+{{- with getJSON $rssURL -}}
+    <div class="torpedo-widget">
+        <h2>Damn the Torpedoes - Lagniappe</h2>
+        <ul>
+            {{- range first $numArticles .items -}}
+                <li>
+                    <a href="{{ .link }}">{{ .title }}</a>
+                    <p>{{ .description }}</p>
+                    <p>Published on {{ .pubDate }}</p>
+                </li>
+            {{- end -}}
+        </ul>
+    </div>
+{{- end -}}
