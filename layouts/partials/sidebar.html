@@ -75,15 +75,15 @@
 {{- $numArticles := 8 -}}
 
 {{- if eq .Kind "home" -}}
-    {{- with getJSON $rssURL -}}
+    {{- with index .Site.RegularPages "http://www.lagniappemobile.com/search/?f=rss&t=article&c=opinion/columnists/dtt" -}}
         <div class="torpedo-widget">
             <h2>Damn the Torpedoes - Lagniappe</h2>
             <ul>
-                {{- range first $numArticles .items -}}
+                {{- range first $numArticles .Pages -}}
                     <li>
-                        <a href="{{ .link }}">{{ .title }}</a>
-                        <p>{{ .description }}</p>
-                        <p>Published on {{ .pubDate }}</p>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <p>{{ .Description }}</p>
+                        <p>Published on {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</p>
                     </li>
                 {{- end -}}
             </ul>
