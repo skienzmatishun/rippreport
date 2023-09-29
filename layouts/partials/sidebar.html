@@ -58,7 +58,7 @@
             {{ with getJSON $rssURL }}
                 <!-- Torpedo Widget -->
 				
-                <div class="torpedo-widget">
+                <div style="display:none;" class="torpedo-widget">
                     <h2>Damn the Torpedoes - Lagniappe</h2>
                     <ul>
                         {{ range first $numArticles .items }}
