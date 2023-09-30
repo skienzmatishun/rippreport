@@ -219,6 +219,8 @@ padding:1em;
 display:none;
 }
 
+.icon-files {display:none;}
+
 .torpedo-widget ul {
 	color:white;
 	list-style:none;
