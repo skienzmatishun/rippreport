@@ -249,14 +249,18 @@ background-position: center center;
 background-size: contain;
 height:250px;
 width:250px;
+margin:auto;
   }
   
   .dwtd-sidebar {
 	  color:white;
   }
   .dwtd-sidebar h3 {
-	  font-size:1.25;
-
+  font-size: 1.55em;
+  text-align: center;
+  color: white;
+  margin-top: -20px;
+  }
 @media screen and (max-width:620px) {
 	.search-bar {display:none;}
 	.header-search {
