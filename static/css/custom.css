@@ -255,8 +255,13 @@ margin:auto;
   .dwtd-sidebar {
 	  text-align:center;
   }
+  .dwtd-sidebar h4 {margin-top:1em;}
   .dwtd-sidebar p, .dwtd-sidebar h4 {color:white;}
-  
+.dwtd-sidebar h5 { color:white; font-size:2em;}
+.dwtd-sidebar p {
+text-align:left;
+}
+	
   .dwtd-sidebar h3 {
   font-size: 1.55em;
   text-align: center;
