@@ -255,6 +255,7 @@ margin:auto;
   .dwtd-sidebar {
 	  text-align:center;
   }
+  .dwtd-sidebar btn { font-size:1.5em;}
   .dwtd-sidebar h4 {margin-top:1em;}
   .dwtd-sidebar p, .dwtd-sidebar h4 {color:white; margin-top:1em;}
 .dwtd-sidebar h5 { color:white; font-size:2em; margin-top:1em;}
