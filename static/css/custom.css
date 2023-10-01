@@ -247,9 +247,15 @@ background-image: url("data:image/svg+xml,%3Csvg width='118.7' height='88' viewB
 background-repeat: no-repeat no-repeat;
 background-position: center center;
 background-size: contain;
-height:50px;
-width:50px;
+height:250px;
+width:250px;
   }
+  
+  .dwtd-sidebar {
+	  color:white;
+  }
+  .dwtd-sidebar h3 {
+	  font-size:1.25;
 
 @media screen and (max-width:620px) {
 	.search-bar {display:none;}
