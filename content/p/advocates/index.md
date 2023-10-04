@@ -12,6 +12,8 @@ authors:
 
 Criminal rights advocates have unearthed a second autopsy of a 2003 murder that was never revealed during the trial of Murray “Bubba” Lawrence Jr., who was convicted and sentenced to life in prison without parole.
 
+**Get the entire article at local newsstand, Lagniappe is free.
+
 
 {{< chat advocates >}}
 
