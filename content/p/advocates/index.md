@@ -1,6 +1,6 @@
 ---
 title: "Advocates discover autopsy never included in Baldwin man’s murder trial"
-date: 2023-10-04
+date: 2023-10-04T00:00:00Z
 thumbnail: "img/advocates.jpg"
 categories: 
   - wonderful-wednesday

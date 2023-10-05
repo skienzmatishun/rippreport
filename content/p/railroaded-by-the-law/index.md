@@ -1,6 +1,6 @@
 ---
 title: "RAILROADED BY THE LAW"
-date: 2023-10-04
+date: 2023-10-04T00:10:00Z
 thumbnail: "img/railroaded-by-the-law.jpg"
 categories: 
   - wonderful-wednesday
