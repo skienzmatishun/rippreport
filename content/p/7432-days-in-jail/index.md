@@ -24,7 +24,7 @@ Nancy R Koerner
 Brady vs. Maryland---The 1963 United States Supreme Court ruling that:
 
 
-“Suppression of evidence favorable to the accused by the prosecution violates constitutional due process, where the evidence is material, either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.”
+>Suppression of evidence favorable to the accused by the prosecution violates constitutional due process, where the evidence is material, either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.
 
 
 What should be the sentence of the Sheriff, Prosecutor and Judge, if indeed, they are found guilty of false prosecution of a man that spent:
