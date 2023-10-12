@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge {currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.
+That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge, currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.
 
 Please read and share this post.
 
