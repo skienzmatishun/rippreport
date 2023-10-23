@@ -23,3 +23,7 @@ For further information:
 [deal-with-the-devil.com](https://deal-with-the-devil.com/)
 
 
+
+{{< chat ear >}}
+
+{{< mailchimp >}}
