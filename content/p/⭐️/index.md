@@ -17,4 +17,5 @@ The FDA’s advisory panel hosted an 8 hr Skype meeting and suggested that we no
 
 The City of Fairhope entered into a consent agreement with ADEM related to the operation of their waste water treatment collection system and treatment plant. Seeing as the effluent outfall is within eyesight of the Public Beach. And some Norm McDonald.
 
+
 Thanks for watching and be sure to share.
