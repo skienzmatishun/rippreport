@@ -12,7 +12,7 @@ authors:
 NO state is as corrupt as Alabama! The case below involves the Executive Director of the Alabama Ethics Commission Tom Albritton who has been able to maintain his position despite his criminal behavior. How do politicians in Alabama keep a straight face when they accuse Washington of corruption when they proudly wear the United States gold star of corruption?
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbyron.b.mathews%2Fposts%2Fpfbid02Wf66Hs3RjUGcN6Vm2pg32DdhTZJq2gx2Zht8W4ZchJKhmpQoyqR5LGuZa5TCfirtl&show_text=true&width=500" width="500" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbyron.b.mathews%2Fposts%2Fpfbid02Wf66Hs3RjUGcN6Vm2pg32DdhTZJq2gx2Zht8W4ZchJKhmpQoyqR5LGuZa5TCfirtl&show_text=true&width=500" width="500" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 "This attorney general can not be trusted to represent the best interest of the fiduciaries who are financially needy children in the state of Alabama," Mathews said. "This is going to be the sweetest settlement you ever saw."
 
