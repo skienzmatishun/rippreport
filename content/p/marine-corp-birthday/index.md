@@ -1,11 +1,15 @@
 ---
-title: "Marine Corp Birthday"
-date: 2022-11-11
-thumbnail: "img/marine-logo.jpg"
+title: "MARINE CORPS BIRTHDAY"
+date: 2023-11-10
+thumbnail: "img/marine-corps-birthday-23.jpg"
 categories: 
   - holiday
 authors: 
   - admin
 ---
 
-November 10, 1775
+Happy Birthday to the proud and brave United States Marine Corps! Semper Fi to the few, the proud, and the incredibly resilient!
+
+{{< chat marinez >}}
+
+{{< mailchimp >}}
