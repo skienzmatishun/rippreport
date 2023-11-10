@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-Happy Birthday to the proud and brave United States Marine Corps! Semper Fi to the few, the proud, and the incredibly resilient!
+Happy Birthday to the US Marine Corps, an embodiment of honor and courage! Semper Fi to the dedicated men and women who defend our freedom with unwavering commitment. May the Marine Corps legacy continue to inspire and thrive. Here's to another year of strength and triumph
 
 {{< chat marinez >}}
 
