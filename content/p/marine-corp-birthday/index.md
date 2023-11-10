@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-Happy Birthday to the US Marine Corps, an embodiment of honor and courage! Semper Fi to the dedicated men and women who defend our freedom with unwavering commitment. May the Marine Corps legacy continue to inspire and thrive. Here's to another year of strength and triumph
+Happy Birthday to the US Marine Corps, a symbol of unwavering courage and dedication. Semper Fi to the brave men and women who embody the spirit of honor. May the legacy of the Marine Corps continue to inspire, leading with strength, triumph, and a steadfast commitment to protecting our nation. Here's to another year of resilience and service!
 
 {{< chat marinez >}}
 
