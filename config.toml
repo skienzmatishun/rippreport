@@ -20,8 +20,7 @@ logo = "https://rippreport.com/img/eagle.png"
   post_meta = ["date"]
   mainSections = ["p"]
   mathjax = false
-  comments = true
-    customCSS = ["css/custom.css"] # Include custom CSS files
+  customCSS = ["css/custom.css"] # Include custom CSS files
   googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans"
 [Params.sidebar]
   home = "right"   # layout for home page
