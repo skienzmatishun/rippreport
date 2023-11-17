@@ -137,6 +137,9 @@ body {
  .post__header, .main__header, .post__content {
     padding:2em;
 }
+.post__title {
+margin:10px;
+}
  .top-social {
      position:absolute;
      top:15px;
@@ -227,7 +230,7 @@ body {
     }
      .post__title {
          font-size: 45px;
-         word-wrap: normal 
+         word-wrap: normal;
     }
      .backstory__post .content {
          padding: 1em;
