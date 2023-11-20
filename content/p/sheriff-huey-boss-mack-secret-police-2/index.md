@@ -143,3 +143,6 @@ Nine lives lost and an innocent man incarcerated for over 16 years. The only exp
 What you have read on this page has been described as “SECRET POLICE”, not my words.
 
 Baldwin County has become a POLICE STATE, my words.
+
+
+{{< chat alag >}}
