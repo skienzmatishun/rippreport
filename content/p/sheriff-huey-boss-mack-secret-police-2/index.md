@@ -1,7 +1,7 @@
 ---
 title: "SHERIFF HUEY “BOSS” MACK - SECRET POLICE"
 date: 2023-11-20
-thumbnail: "img/sheriff-huey-mack-secret-police.jpg"
+thumbnail: "sheriff-huey-boss-mac-secret-police.jpg"
 categories: 
   - monday-madness
 authors: 
