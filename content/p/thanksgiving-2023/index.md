@@ -1,7 +1,7 @@
 ---
 title: "HAPPY THANKSGIVING"
 date: 2023-11-23
-thumbnail: "img/new-year-2024.jpg"
+thumbnail: "img/thanksgiving-2023.jpg"
 categories: 
   - holiday
 authors: 
