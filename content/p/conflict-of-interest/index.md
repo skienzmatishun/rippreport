@@ -1,6 +1,7 @@
 ---
 title: "CONFLICT OF INTEREST"
 date: 2017-01-25
+thumbnail: "img/conflict-of-interest.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -22,7 +23,7 @@ Recently several articles have been written in reference to Councilman Kevin Boo
 
 ## FOLLOW THE BOUNCING BALL
 
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/ball1.jpg)
+![](https://cdn.rippreport.com/ball1.jpg)
 
 The Ripp Report and Baldwin County Legal Eagle is a non-profit exposing political and judicial corruption. We also have helped consumers with complaints about consumer products or services. There are no paid staff and no...
 
