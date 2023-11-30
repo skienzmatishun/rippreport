@@ -22,14 +22,6 @@ The rest of the City Council has remained mute and allowed Councilman Brown to u
 
 Councilman Brown’s defense rests entirely on him calling others CRAZY?
 
-## CRAZY
-
-### CRAZY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/cropped-hoss-mack.jpg)
-
-Backstory Podcast @BackstoryPodcast CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger.
-
-Source: [rippreport.com/2019/09/20/crazy/](https://rippreport.com/crazy/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0ndCwcB83xknkDxUdeCFTiv1WqQmqvZnCbWbxz9W6kNXyJXZKwPXuAN9UypJWZ6eJl&show_text=true&width=500" width="500" height="483" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Show us some DOCUMENTS, Down Home Brown

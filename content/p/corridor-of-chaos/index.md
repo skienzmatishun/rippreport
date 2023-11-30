@@ -12,7 +12,7 @@ authors:
 
 "KLUMP PUD" ON HWY 181
 
-[City Judge's Project Up For Final Approval -Fairhope Times](thefairhopetimes.blogspot.com/2019/10/city-judges-project-up-for-final.html)
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/SIQXG31tW8">https://t.co/SIQXG31tW8</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1730775012099907951?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 On Monday, October 28th the city council will hold a public hearing and begin considering final approval of the application submitted by owner Gayfer Village Partners for a three part planned unit development on 76 acres of mostly farm land on the northwest corner of Fairhope Avenue and Hwy 181 consisting of:
 
