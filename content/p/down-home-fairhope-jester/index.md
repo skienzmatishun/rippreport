@@ -12,15 +12,7 @@ authors:
 
 The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are benefiting, with an insurance package, from a part time job, that other part time employees are exempt from.
 
-## Fairhope City Council approves raises for elected officials, property purchase, boutique hotel - Lagniappe Mobile
-
-### Fairhope City Council approves raises for elected officials, property purchase, boutique hotel - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/09/Burmeister-property.jpg)
-
-Against Mayor Karin Willson’s request, the Fairhope City Council declined to table two contentious agenda items Monday night and voted to pass them instead. But neither vote was unanimous. For the first, a resolution to increase both the mayor’s and council’s salary for the next term, Wilson urged the council to wait until the city …
-
-Source: [lagniappemobile.com/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/](https://lagniappemobile.com/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/)
+[Fairhope City Council approves raises for elected officials, property purchase, boutique hotel - Lagniappe Mobile](https://lagniappemobile.com/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/)
 
 Wake up Fairhope the last recreation piece of property Burrell and Council had authority over was the soccer fields. Millions was spent on a soccer field complex that had no plan, did not meet specifications, and was across from a gun range. Now Council wishes to locate another recreation property, in an area that is in an aircraft flight pattern???? This deal stinks so much that Councilman Conyers and Robinson jumped ship, for the first time. Burrell, Boone and Brown were all in to purchase 2.6 million in property without any public hearing. FOLLOW THE MONEY.
 

@@ -1,6 +1,7 @@
 ---
 title: "LOSER"
 date: 2018-10-19
+thumbnail: "img/loser.jpg"
 categories: 
   - freaky-friday
 authors: 
