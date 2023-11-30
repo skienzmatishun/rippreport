@@ -1,5 +1,6 @@
 ---
 title: "SEE YA IN COURT JACK"
+thumbnail: "img/see-ya-in-court-jack.jpg"
 date: 2017-12-29
 categories: 
   - freaky-friday
@@ -22,9 +23,11 @@ The meeting in question, along with Ripp’s nasty confrontation with Council Pr
 
 This is the first time Ripp has sued the City of Fairhope over refusing to allow him to address the city council. The city had denied him in the past, several times, the ability to speak at public meetings, forcing the council to adopt a new set of rules regarding public participation. These are the rules City Councilman Jack Burrell ignored when he allegedly denied Mr. Ripp, a Marine Corps veteran who served in Viet Nam, his constitutional right to free speech.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/12/Fairhope-Complaint.pdf" download="all"\]
+<iframe src="https://cdn.rippreport.com/wp-content/uploads/2017/12/Fairhope-Complaint.pdf" style="height:1000px;width:100%;"></iframe>
 
-Comments from Ripp: The official recorded video of the meeting speaks for itself. https://rippreport.com/now-you-know-jack/
+Comments from Ripp: The official recorded video of the meeting speaks for itself. 
+
+https://rippreport.com/now-you-know-jack/
 
 For More Information, contact: [fpripp1@gmail.com](mailto:fpripp1@gmail.com)
 
