@@ -37,29 +37,13 @@ Pay particular attention to the chart below.
 
 Fairhope is being sold out to developers and those with the good ole boy connections. Follow the money. The Catalyst Council refuses to pay for a city administrator position for only one reason, to spite the Mayor, however their spite is costing us all.
 
-## QUID PRO QUO
-
-### THE RIPP REPORT – QUID PRO QUO
-
-![](https://cdn.rippreport.com/cropped-handshake.jpg)
-
-Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something.
-
-Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid035J9nvcHY9y6tSSXeZdkr2LkST9XhxE7tuLj2f5aJGe1cJeZNraPJAZwNrQFWb68fl&show_text=true&width=500" width="500" height="541" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 On top of all the budget issues, Fairhope now has come to the crossroad of density. 566 apartments are coming, 300 to ? new homes, and commercial locations that will be key to draining downtown business.
 
 Fairhope has been sold out.
 
-## CORRIDOR OF CHAOS
-
-### CORRIDOR OF CHAOS
-
-![](https://cdn.rippreport.com/cropped-catalyst-logo-fb.png)
-
-PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
-
-Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02NahgYKen1zJLULv5NnfQCEocswy9aS6DvRT3MfX1B3xdnCWFPEQWWXyxpHtA1MESl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Fairhope needs candidates, not related to Catalyst, for the 2020 municipal elections. The municipal judge and the city attorney need to be replaced. To do that you got to get rid of the absolute most corrupt city council ever to be elected to office in Fairhope.
 
