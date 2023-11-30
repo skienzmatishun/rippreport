@@ -1,6 +1,7 @@
 ---
 title: "Investigative Reporting - Business Entity Records"
 date: 2017-01-25
+thumbnail: "img/business-entity-records.png"
 categories: 
   - investigative-reporting
 tags: 
