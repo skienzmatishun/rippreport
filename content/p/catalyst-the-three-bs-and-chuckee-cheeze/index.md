@@ -21,15 +21,7 @@ Catalyst’s plan is simple: Place as many candidates in as many positions as po
 
 A classic example is Chuckee’s latest article where he gives the Three Bees press coverage to criticize the hiring of a police officer, a highly qualified individual; but hey he ain’t Catalyst.
 
-## Questions arise about new police hire made by Fairhope mayor
-
-### Questions arise about new police hire made by Fairhope mayor
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/1520289667_a05a.jpg)
-
-Questions have arisen about the announced hiring of Alabama Ethics Commission Chief Special Agent Tony Goubil by Fairhope Mayor Karin Wilson for the city’s police department, after it was …
-
-Source: [www.gulfcoastnewstoday.com/stories/questions-arise-about-new-police-hire-made-by-fairhope-mayor,58186](http://www.gulfcoastnewstoday.com/stories/questions-arise-about-new-police-hire-made-by-fairhope-mayor,58186)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Questions arise about new police hire made by Fairhope mayor <a href="https://t.co/QsPqzbTKyj">https://t.co/QsPqzbTKyj</a></p>&mdash; £€€ ₩€₿₿ (@elwebb3) <a href="https://twitter.com/elwebb3/status/970832704840392704?ref_src=twsrc%5Etfw">March 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Please be advised Mr Goubil was an investigator for the Alabama Ethics Commission and had no voice in any decision the Ethics Commission made. He also investigated the Airport scandal involving Mr. Jack Burrell and Mr. Ray Hix, and that my friends is the problem the Three Bees really have. The Three Bees carry the Catalyst cancer cells and they will spread the cancer throughout Baldwin County, unless the court of public opinion wakes up and votes them out. Here is three classic examples of Catalyst members that are presently stinging the s--- out of the citizens of Fairhope. First up is grandpa Catalyst, Kevin Boone the Fairhope conduit to Chuckee Cheeze and Catalyst.
 
@@ -37,17 +29,14 @@ Catalyst candidates are financed by Prebble -Rish, an engineering company, and l
 
 ## Investigative Reporting – Business Entity Records
 
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/doc.png)
+![](https://cdn.rippreport.com/doc.png)
 
-Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL North Ridge, LLC Entity ID Number 420 – 935 Entity Type Domestic Limited…
-
-Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
+[rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
 ## CONFLICT OF INTEREST
 
-### CONFLICT OF INTEREST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/balance.jpg)
+![](https://cdn.rippreport.com/balance.jpg)
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
 
@@ -55,9 +44,7 @@ Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com
 
 ## A SPIDER’S WEB
 
-### A SPIDER’S WEB | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/spider-web-with-water-beads-network-dewdrop-1.jpg)
+![](https://cdn.rippreport.com/spider-web-with-water-beads-network-dewdrop-1.jpg)
 
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such…
 
@@ -65,9 +52,7 @@ Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spid
 
 ## BOONE-DOGGLE
 
-### BOONE-DOGGLE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/domino-1.jpg)
+![](https://cdn.rippreport.com/domino-1.jpg)
 
 Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have no idea…
 
@@ -79,8 +64,6 @@ That’s your money taxpayers! Here are some of “come fly with me” Burrell�
 
 ## SEE YA IN COURT JACK
 
-### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/03/court.jpg)
 
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
@@ -88,8 +71,6 @@ PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTA
 Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
 ## NOW! YOU KNOW JACK
-
-### NOW! YOU KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/03/jackinthebox-2.jpg)
 
@@ -99,9 +80,7 @@ Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/no
 
 ## IN YOUR FACE
 
-### IN YOUR FACE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/ethics.jpg)
+![](https://cdn.rippreport.com/ethics.jpg)
 
 Well it seems Mr. Jack Burrell is now worried about the accountability of school funds donated by the city, approximately $350,000 a year. He is demanding accountability or he no longer will support…
 
@@ -111,9 +90,7 @@ The last bee is Robert Brown who stung himself and he doesn’t even know it
 
 ## THE FAIRHOPE JESTER
 
-### THE FAIRHOPE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/robjester.jpg)
+![](https://cdn.rippreport.com/robjester.jpg)
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
@@ -121,12 +98,8 @@ Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fair
 
 ## Ethics complaint filed against Fairhope Councilman Robert Brown
 
-### Ethics complaint filed against Fairhope Councilman Robert Brown
+![](https://cdn.rippreport.com/1520289808_7b60.jpg)
 
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/1520289808_7b60.jpg)
-
-Local blogger Francis Paul Ripp, who writes The Ripp Report blog, has filed a complaint with the Alabama Ethics Commission against Fairhope Councilman Robert Brown regarding his private business …
-
-Source: [www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187](http://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187)
+>Local blogger Francis Paul Ripp, who writes The Ripp Report blog, has filed a complaint with the Alabama Ethics Commission against Fairhope Councilman Robert Brown regarding his private business … Source: [www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187](http://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187)
 
 If you vote for Catalyst you’ll get the cancer.
