@@ -15,37 +15,15 @@ Please read the Mayor’s comments and file written complaints to those listed a
 >City of Fairhope
 >“A Favor for a Favor” Quid quo pro “Something for Something” The Fairhope City Council voted 3 to 2, Burrell Boone and Brown to purchase 2.6 million in recreation property. Burrell said that the appraisal was not a purchase and public comment will come up if they decide to purchase land. Instead they voted for the purchase based upon an appraisal with questionable comps., or a plan as to how they were going to pay for it. This was a bold face, documented, lie and the community got bent over, again. Red flags everywhere! “something for something”. Wake up Fairhope this is how a CATALYST Council rolls. Do not be surprised to see the Council make another attempt at giving away, 102 acres around the triangle, that’s 20 million in city property. When the council sees resistance they back off then they resurrect the issue over and over again until they catch enough people asleep, that it passes. Councilman Robert Brown is pushing past the Eastern Shore Art Center contract, ignoring requests for documentation, on the ESAC contract, he claims to have. Councilman Brown said he had permission from the Ethics Commission and multiple bids were submitted, he has not provided any documentation to back up his claims.
 
-## DOCUMENTS
-
-### DOCUMENTS – THE RIPP REPORT – WONDERFUL WEDNESDAY
-
-![](https://cdn.rippreport.com/cropped-documents-fb.png)
-
-Backstory Podcast @BackstoryPodcast Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of: Backstory Podcast @
-
-Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/documents/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02xJBewCE8Qfj2zCBoukKUdv1bYbHKf1fsxmrE5FxS5NuvUYVMNf4Z2BRUopu2wvql&show_text=true&width=500" width="500" height="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Brown is going from art to the gully
 
-## BIG HEADS
-
-## ![](https://cdn.rippreport.com/path564-2.png)
-
-Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 – 6:00 P.M. – CITY COUNCIL CHAMBER 5. Final Adoption – An Ordinance Directing the Transfer of an Acre of Land to Fairhope Single…
-
-Source: [rippreport.com/2018/02/14/big-heads/](https://rippreport.com/big-heads/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02Ti5eUx9z8ZXHw2u7etCNuDzKgBAMacZLD1X3nAZ3m3uFfPrt5cyR1yx9BM8JQdkAl&show_text=true&width=500" width="500" height="502" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Well here we go again, the Fairhope merry go round with the same cast of characters, Fairhope Single Tax, Lee Turner, and of course Cliff Pittman, Councilman Robert Brown’s business partner and inside contact for FSTC.
 
-## BEND OVER FAIRHOPE
-
-### BEND OVER FAIRHOPE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/gully.jpg)
-
-The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has…
-
-Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/bend-over-fairhope/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid037MC2kHJnEf6euS9mr7U27YZXjc1UCBPL5Rao6e5VaUMwJdb7iNMM6Qnv5cgMBus7l&show_text=true&width=500" width="500" height="503" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Lets have a lotto! We will all place bets on Brown/Pittman. That they will get the contract to build the subdivision in the gully. They will assure the community that they are “down home boys” and all contracts they get are due to their outstanding reputation and that under no circumstances have they used their elected or appointed office as an advantage in getting contracts that personally enrich themselves. Winners will be awarded a large size of KY personal lubricant compliments of the “down home boys”.
 
@@ -53,26 +31,10 @@ If you think this is business as usual and that no Quid quo pro exists and every
 
 It is game on, for the Fairhope Municipal Elections and the Council is acting like a wrecking ball, voting themselves a raise and full family insurance for their part time job, ignoring the citizens and restricting public participation. They have already been sued for violating constitutional rights and free speech.
 
-## LOSER
-
-### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/loser.jpg)
-
-The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
-
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0ihcXH3tq5fZwc7qP6PKnDYax2TbAyoFRhbBCnoS7NeiPo23RPo3PT7w7STHgPMBbl&show_text=true&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 CATALYST and Quid quo pro are synonymous.
 
 So here we go again the Mayor out front defending the citizens and the Quid quo pro group, CATALYST, assuring everyone what the Mayor is saying is “CRAZY”. Wake up Fairhope.
 
-## CRAZY
-
-### CRAZY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/cropped-hoss-mack.jpg)
-
-Backstory Podcast @BackstoryPodcast CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger.
-
-Source: [rippreport.com/2019/09/20/crazy/](https://rippreport.com/crazy/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0ndCwcB83xknkDxUdeCFTiv1WqQmqvZnCbWbxz9W6kNXyJXZKwPXuAN9UypJWZ6eJl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
