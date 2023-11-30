@@ -15,7 +15,7 @@ authors:
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate seats and all four Baldwin County commission races.
 
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/chucky-225x3001.jpg)
+![](https://cdn.rippreport.com/chucky-225x3001.jpg)
 
 Catalyst’s plan is simple: Place as many candidates in as many positions as possible. That’s how shady deals like the county Mega-Site are made. At the helm of Catalyst is Mr. Scott Boone, Fairhope Councilman Kevin Boone’s son. That bad apple did not fall far from the tree. Catalyst boldly uses intimidation and bully tactics to discourage viable candidates or elected officials who may not agree with them. A lot of that information is fed to Chuckee Cheeze of the failing Gulf Coast News, who will print anything Catalyst wishes.
 
