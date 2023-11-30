@@ -24,7 +24,7 @@ The square head city council and mayor decide the best councilman to handle loca
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/vZVAslDgGF">https://t.co/vZVAslDgGF</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1730691844802019415?ref_src=twsrc%5Etfw">December 1, 2023</a></blockquote>
 
-“Boone and Council President Corey Martin agreed the cost of relocating Stuart’s home is an issue, but Brewer said there are “some rich folks in town” who could donate money to move Stuart’s home. Mayor Sherry Sullivan added Niemeyer himself already donated $5,000 to the city to fund the relocation project.”
+>Boone and Council President Corey Martin agreed the cost of relocating Stuart’s home is an issue, but Brewer said there are “some rich folks in town” who could donate money to move Stuart’s home. Mayor Sherry Sullivan added Niemeyer himself already donated $5,000 to the city to fund the relocation project.
 
 
 These same square heads voted to destroy the Lewis home:
@@ -44,7 +44,8 @@ Remember Boone Burrell and Brown the 3 B’s of the council and how they bullied
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0TUDGLSCmfA5SLbxYRuzfsP2EM23LFhYYd2vccodwYfxgAf6Nd3Yzo6BGCXns1mnUl&show_text=true&width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-Mayor Wilson: “The purchase of 113 acres on 13/32 for future parkland will close in Nov. It will drain all capital improvement funds needed for urgent facility needs and prevent adding four ballparks to fill an immediate capacity need for up to ten years. No thought about re-purposing K-1 Center.
+Mayor Wilson: 
+>The purchase of 113 acres on 13/32 for future parkland will close in Nov. It will drain all capital improvement funds needed for urgent facility needs and prevent adding four ballparks to fill an immediate capacity need for up to ten years. No thought about re-purposing K-1 Center.
 
 
 BEWARE DO NOT BECOME A FAUXHOPE SQUAREHEAD IN A ROUNDHOUSE
