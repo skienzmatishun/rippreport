@@ -1,13 +1,16 @@
 ---
 title: "FAIRHOPE SOLD TO THE HIGHEST BIDDER"
 date: 2019-10-16
+thumbnail: "img/fairhope-sold-to-the-highest-bidder.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HgDzN6pDwgc" frameborder="0" allowfullscreen></iframe> The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgDzN6pDwgc" frameborder="0" allowfullscreen></iframe> 
+
+The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
 
 The purchase of the soccer fields was a corrupt from day one. The end result was Fairhope drained 5 accounts for the purchase, let it sit idle for years and then blew 5 plus million on a sub standard complex. They are now going to repeat the same reckless process all over again in the middle of the budget process. In four years the Catalyst Council has not approved one budget on a timely manner.
 
@@ -19,7 +22,7 @@ The council has had no public participation related to the recreation land purch
 
 ![](https://cdn.rippreport.com/3bs1.png)
 
-he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
+The Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 
 Source: [rippreport.com/2019/10/09/honey-bees](https://rippreport.com/honey-bees)
 
