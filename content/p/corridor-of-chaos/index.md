@@ -12,15 +12,7 @@ authors:
 
 "KLUMP PUD" ON HWY 181
 
-## City Judge's Project Up For Final Approval
-
-### City Judge's Project Up For Final Approval
-
-![](https://1.bp.blogspot.com/-EhkWsDelPUw/XZpjKgYEuQI/AAAAAAAASjo/D2nhwFEsSsY6ggQAtpq8HWY7oSAzHInqQCLcBGAsYHQ/w1200-h630-p-k-no-nu/klump2.jpeg)
-
-News and information for Fairhope and Baldwin County, Alabama.
-
-Source: [thefairhopetimes.blogspot.com/2019/10/city-judges-project-up-for-final.html](https://thefairhopetimes.blogspot.com/2019/10/city-judges-project-up-for-final.html)
+[City Judge's Project Up For Final Approval -Fairhope Times](thefairhopetimes.blogspot.com/2019/10/city-judges-project-up-for-final.html)
 
 On Monday, October 28th the city council will hold a public hearing and begin considering final approval of the application submitted by owner Gayfer Village Partners for a three part planned unit development on 76 acres of mostly farm land on the northwest corner of Fairhope Avenue and Hwy 181 consisting of:
 
