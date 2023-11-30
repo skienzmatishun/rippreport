@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-You wonder why Fairhope is called FAUXHOPE? It is because nothing is what it seems. The Montrose Hut is a classic example. The city council and mayor are dancing around pretending to support Sonny Brewer who has proposed moving the hut. He is the author of The Poet Of Tolstoy Park, a novel he pinned 20 years ago. Now you would think he would be the strongest advocate that it NOT be moved. The city will have to issues a permit to move the structure. The city is trying to figure a way around having to issue such a permit.
+You wonder why Fairhope is called FAUXHOPE? It is because nothing is what it seems. The Montrose Hut is a classic example. The city council and mayor are dancing around pretending to support Sonny Brewer who has proposed moving the hut. He is the author of The Poet Of Tolstoy Park, a novel he penned 20 years ago. Now you would think he would be the strongest advocate that it NOT be moved. The city will have to issues a permit to move the structure. The city is trying to figure a way around having to issue such a permit.
 
 
 The property is owned by Niemeyer Realty. Wake up! this is yet more more real estate deal disguised to finance the removal from the property, with donations, sparing the owner the expense. The owner Ken Niemeyer, is quoted by Mr Brewer as saying he has “vowed to preserve it but has “zero confidence” his heirs will do the same.” IT IS A REAL ESTATE DEAL.
