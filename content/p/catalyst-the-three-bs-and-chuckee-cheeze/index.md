@@ -1,6 +1,7 @@
 ---
 title: "CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE"
 date: 2018-03-07
+thumbnail: "img/catalyst-the-three-bees-and-chucky-cheese.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
