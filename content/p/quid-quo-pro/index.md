@@ -12,19 +12,8 @@ Please read the Mayor’s comments and file written complaints to those listed a
 
 ## From the Desk of Mayor Karin Wilson
 
-### From the Desk of Mayor Karin Wilson
-
-City of Fairhope
-
-Source: [www.mayorkarinwilson.com/](http://www.mayorkarinwilson.com/)
-
-“A Favor for a Favor” Quid quo pro “Something for Something”
-
-The Fairhope City Council voted 3 to 2, Burrell Boone and Brown to purchase 2.6 million in recreation property. Burrell said that the appraisal was not a purchase and public comment will come up if they decide to purchase land. Instead they voted for the purchase based upon an appraisal with questionable comps., or a plan as to how they were going to pay for it. This was a bold face, documented, lie and the community got bent over, again. Red flags everywhere! “something for something”.
-
-Wake up Fairhope this is how a CATALYST Council rolls. Do not be surprised to see the Council make another attempt at giving away, 102 acres around the triangle, that’s 20 million in city property. When the council sees resistance they back off then they resurrect the issue over and over again until they catch enough people asleep, that it passes.
-
-Councilman Robert Brown is pushing past the Eastern Shore Art Center contract, ignoring requests for documentation, on the ESAC contract, he claims to have. Councilman Brown said he had permission from the Ethics Commission and multiple bids were submitted, he has not provided any documentation to back up his claims.
+>City of Fairhope
+>“A Favor for a Favor” Quid quo pro “Something for Something” The Fairhope City Council voted 3 to 2, Burrell Boone and Brown to purchase 2.6 million in recreation property. Burrell said that the appraisal was not a purchase and public comment will come up if they decide to purchase land. Instead they voted for the purchase based upon an appraisal with questionable comps., or a plan as to how they were going to pay for it. This was a bold face, documented, lie and the community got bent over, again. Red flags everywhere! “something for something”. Wake up Fairhope this is how a CATALYST Council rolls. Do not be surprised to see the Council make another attempt at giving away, 102 acres around the triangle, that’s 20 million in city property. When the council sees resistance they back off then they resurrect the issue over and over again until they catch enough people asleep, that it passes. Councilman Robert Brown is pushing past the Eastern Shore Art Center contract, ignoring requests for documentation, on the ESAC contract, he claims to have. Councilman Brown said he had permission from the Ethics Commission and multiple bids were submitted, he has not provided any documentation to back up his claims.
 
 ## DOCUMENTS
 

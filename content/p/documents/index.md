@@ -1,6 +1,7 @@
 ---
 title: "DOCUMENTS"
 date: 2019-09-25
+thumbnail: "img/documents.png"
 categories: 
   - wonderful-wednesday
 authors: 

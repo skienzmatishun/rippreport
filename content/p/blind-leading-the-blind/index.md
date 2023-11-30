@@ -1,6 +1,7 @@
 ---
 title: "BLIND LEADING THE BLIND"
 date: 2019-09-18
+thumbnail: "img/blind-leading-the-blind.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
