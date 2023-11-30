@@ -24,23 +24,13 @@ The Council rejected land that had the most public support, for a piece of land 
 
 It should be mentioned that Councilman Brown got the soccer field clubhouse/bathroom contract over $750,000. This was just a warm up to the ESAC contract. You as a citizen of the community should be asking how the hell this was allowed to happen?
 
-## LOSER
-
-### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/loser.jpg)
-
-The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
-
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0ihcXH3tq5fZwc7qP6PKnDYax2TbAyoFRhbBCnoS7NeiPo23RPo3PT7w7STHgPMBbl&show_text=true&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 This Council was found guilty, in Federal Court for violating the right of free speech. That case is now is being used in similar cases as a precedent around the country. Fairhope Council President Burrell and Council now have the dubious reputation of this case around their necks.
 
 Councilman Brown now has his eyes on the new recreation property and the potential contracts it may yield.
 
 ## Ethics complaint filed against Fairhope Councilman Robert Brown
-
-### Ethics complaint filed against Fairhope Councilman Robert Brown
 
 ![](http://cdn2.creativecirclemedia.com/gulfcoast/original/1520289808_7b60.jpg)
 
@@ -53,8 +43,6 @@ Source: [www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairh
 Mr Brown’s reputation is based on HIS actions. The EASC being a non-profit is moot. Councilman Mr. Brown holds a board position with EASC, His sole responsibility is to be Ethical, Transparent and Accountable to EASC and the Citizens of Fairhope. He has failed. The EASC Board made a horrible mistake by awarding the sole bid to Mr. Brown.
 
 ## FAIRHOPE JESTER AND FLY CREEK
-
-### FAIRHOPE JESTER AND FLY CREEK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 ![](https://cdn.rippreport.com/robjester1.jpg)
 
@@ -72,8 +60,6 @@ The second choice is the opposite, elected officials who use their office for pe
 
 ## THE FAIRHOPE JESTER
 
-### THE FAIRHOPE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
 ![](https://cdn.rippreport.com/robjester.jpg)
 
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
@@ -88,8 +74,6 @@ THE COMPLAINT AGAINST MR. BROWN INVOLVING THE EASTERN SHORE ART CENTER WILL BE S
 
 ## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
 
-### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
 ![](https://cdn.rippreport.com/3bs.png)
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
@@ -99,8 +83,6 @@ Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](ht
 Councilman Brown also was all in on giving away 102 acres of municipal property.
 
 ## THE JESTER
-
-### THE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 ![](https://cdn.rippreport.com/robjester1.jpg)
 
@@ -112,8 +94,6 @@ The Council almost got away with the give away, but do not go to sleep because t
 
 ## FAIRHOPE UN-ARMED ROBBERY
 
-### FAIRHOPE UN-ARMED ROBBERY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
 ![](https://cdn.rippreport.com/money.png)
 
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council. The director of Weeks Bay…
@@ -123,8 +103,6 @@ Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://ripprepor
 ## PLEASE SIGN PETITION
 
 ## FAIRHOPE PETITION
-
-### FAIRHOPE PETITION | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 ![](https://cdn.rippreport.com/pen-1.png)
 
@@ -136,8 +114,6 @@ Fairhope City Council is a Catalyst Council, it does not listen or respect commu
 
 ## CATALYST DOES FAIRHOPE
 
-### CATALYST DOES FAIRHOPE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
 ![](https://cdn.rippreport.com/cross-out.jpg)
 
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
@@ -147,8 +123,6 @@ Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.c
 Fairhope has had one City Council President in office for over 7 years, Jack Burrell. Burrell leads the dog and pony show.
 
 ## DOG AND PONY SHOW
-
-### DOG AND PONY SHOW | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 ![](https://cdn.rippreport.com/follow-up.jpg)
 
