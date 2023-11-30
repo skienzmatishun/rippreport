@@ -1,13 +1,12 @@
 ---
 title: "CORRIDOR OF CHAOS"
 date: 2019-10-11
+thumbnail: "img/corridor-of-chaos.png"
 categories: 
   - freaky-friday
 authors: 
   - admin
 ---
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F561081931320132%2F&amp;show_text=1&amp;width=600" width="620" height="422" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true" data-autoplay="true" data-show-captions="true" data-width="620"></iframe>
 
 ## North is up
 
