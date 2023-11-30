@@ -1,6 +1,7 @@
 ---
 title: "QUID QUO PRO"
 date: 2019-10-03
+thumbnail: "img/quid-quo-pro.png"
 categories: 
   - wonderful-wednesday
 authors: 

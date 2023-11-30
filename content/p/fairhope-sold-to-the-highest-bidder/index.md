@@ -16,15 +16,7 @@ The purchase of the soccer fields was a corrupt from day one. The end result was
 
 The council has had no public participation related to the recreation land purchase. Mr Cory Martin has pleaded for the council to listen to reason. His pleas have drawn dead silence. It is financially reckless of the council, and very suspicious, that they, the three B’s, are pushing so hard to close on the property.
 
-## HONEY BEES
-
-### HONEY BEES | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/3bs1.png)
-
-The Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
-
-Source: [rippreport.com/2019/10/09/honey-bees](https://rippreport.com/honey-bees)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0vMWn28JtvNaUrxkmsNiue2MfpYgWNepZKcXkDfiq8n76Rhy9Qio9sq3tuxv6tiTZl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Mr Martin is not alone, the council has ignored any advise from the Mayor or staff.
 
@@ -38,15 +30,8 @@ This is the same council that voted themselves full family insurance. The same c
 
 Read the complete budget:
 
-## 2020 Budget Waiting Approval: Fiscal Year 2020 Started Oct 1st
 
-### 2020 Budget Waiting Approval: Fiscal Year 2020 Started Oct 1st
-
-![](http://www.mayorkarinwilson.com/wp-content/uploads/2019/10/image-to-post.jpg)
-
-The fiscal year started Oct 1st. After two work sessions on Monday and Wednesday, we are now waiting on Council to pass. The next regularly scheduled Council meeting is not until Oct 28th. If you…
-
-Source: [www.mayorkarinwilson.com/2020-budget-waiting-approval-fiscal-year-2020-started-oct-1st/](http://www.mayorkarinwilson.com/2020-budget-waiting-approval-fiscal-year-2020-started-oct-1st/)
+[2020 Budget Waiting Approvial Fiscal Year 2020 (Archive)](http://web.archive.org/web/20200924014726/http://mayorkarinwilson.com/2020-budget-waiting-approval-fiscal-year-2020-started-oct-1st/)
 
 Pay particular attention to the chart below.
 
