@@ -1,6 +1,7 @@
 ---
 title: "“DOWN HOME” FAIRHOPE JESTER"
 date: 2019-09-13
+thumbnail: "img/down-home-jester.jpg"
 categories: 
   - freaky-friday
 authors: 
