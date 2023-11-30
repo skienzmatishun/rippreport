@@ -37,8 +37,7 @@ First Baptist Church demolished several houses for the purpose of Grass parking 
 
 The square heads have yet to tell the citizens of Fauxhope where the 6.2 million dollar waterfront project stands, it is going on 4 years overdue.
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkarin.w.wilson%2Fposts%2Fpfbid034QiNBvAb3wS6Cx74Sr2Z7MRWrAkQtmQW49aUNYCmSsZqA5CTepZDioJ1NgpoDPkpl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/dMjhqFqG6q">https://t.co/dMjhqFqG6q</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1730729810370904102?ref_src=twsrc%5Etfw">December 1, 2023</a></blockquote> 
 
 Remember Boone Burrell and Brown the 3 B’s of the council and how they bullied the city into buying recreation land by the airport? This cost the city 2.65 million and nothing has been done with the property, but rent it to farmers for 9,000 dollars a year. Wonder what the 3 B’s got???
 
