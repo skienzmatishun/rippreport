@@ -1,5 +1,5 @@
 ---
-title: "ROUNDHOUSE SQUARE HEADS"
+title: "ROUND HOUSE SQUARE HEADS"
 date: 2023-12-01T00:00:00Z
 thumbnail: "img/round-house-blockheads.jpg"
 categories: 
