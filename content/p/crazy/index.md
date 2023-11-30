@@ -1,15 +1,12 @@
 ---
 title: "CRAZY"
 date: 2019-09-20
+thumbnail: "img/crazy.jpg"
 categories: 
   - freaky-friday
 authors: 
   - admin
 ---
-
-[Backstory Podcast](https://www.facebook.com/BackstoryPodcast/)
-
-[@BackstoryPodcast](https://www.facebook.com/BackstoryPodcast/)
 
 CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger. While covering the Family Court in Baldwin County I interviewed over three dozen women and men entangled in a corrupt inept system. Every attorney defending his or her client would sooner or later say that the spouse was CRAZY. That was ultimately the main argument.
 
@@ -23,7 +20,7 @@ https://www.facebook.com/BackstoryPodcast/videos/2350802131670730/
 
 Take a moment and consider that this young man was your son, brother or relative. You would think that the sheriff would immediately open an investigation, make a statement, or explain the allegations of suicide. Instead the whistle blower, an attorney, is CRAZY.
 
-\[embeddoc url="https://cdn.rippreport.com/sherrif-courthouse-security-revocation.pdf" download="all"\]
+<iframe src="https://cdn.rippreport.com/sherrif-courthouse-security-revocation.pdf" style="width:100%;height:1000px;"></iframe>
 
 Why would the Sheriff retaliate against an attorney instead of conducting an investigation or answering the allegations publicly?
 
