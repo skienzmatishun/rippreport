@@ -170,14 +170,9 @@ margin:10px;
  .icon-email {
      margin-right:10px;
 }
- .header-search {
-     display: inline-block;
-     POSITION: relative;
-     left: 902px;
-     top: -50px;
-     width: 404px;
-     max-width: 99%;
-}
+
+
+
  .icon-files {
     display:none;
 }
