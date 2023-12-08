@@ -22,4 +22,13 @@ This last Monday, September 16, 2019 I personally delivered a complaint against 
 
 What will the Attorney General do? I do not know, however you as citizens should have enough common sense to see through the Jester’s Bull Sh-- interpretation of “transparency”.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0iKSf8g3UnJWS47LuobJmsRMuumVrZJpK2tx9kssUP63jmpav8LzYG6w2mgy2mJVUl&show_text=true&width=500" width="500" height="488" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+
+### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
+
+![](https://cdn.rippreport.com/3bs.png)
+
+Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
+
+Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
