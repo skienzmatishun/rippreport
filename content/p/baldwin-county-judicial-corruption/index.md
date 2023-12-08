@@ -1,6 +1,6 @@
 ---
-title: "HAPPY THANKSGIVING"
-date: 2024-12-07
+title: "Baldwin County Judicial Corruption"
+date: 2023-12-07
 thumbnail: "img/baldwin-county-judicial-corruption.jpg"
 categories: 
   - thursday-thunder
