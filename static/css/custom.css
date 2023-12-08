@@ -175,6 +175,11 @@ margin:10px;
      width: 404px;
      max-width: 99%;
 }
+
+.search-bar {
+padding:15px;
+}
+
  .icon-files {
     display:none;
 }
