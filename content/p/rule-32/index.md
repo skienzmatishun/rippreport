@@ -21,7 +21,8 @@ A “Rule 32 petition” is a petition that people can file to challenge their c
 
 During the trial, Mack explained his involvement in more detail. 
 
-“Primarily in this case at the first part of the case, (I) served as the coordinator for the sheriff's department coordinating our resources and our assistance with the Foley Police Department. Later in the case, I became more involved when I was asked to process certain items for fingerprints, to document a couple of areas of interest that were evaluated and ultimately conducting an interview with Jarius McNeil,” he testified. 
+> Primarily in this case at the first part of the case, (I) served as the coordinator for the sheriff's department coordinating our resources and our assistance with the Foley Police Department. Later in the case, I became more involved when I was asked to process certain items for fingerprints, to document a couple of areas of interest that were evaluated and ultimately conducting an interview with Jarius McNeil
+he testified. 
 
 Hoss the Boss was the “LEAD INVESTIGATOR”
 
