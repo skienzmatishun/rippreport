@@ -25,7 +25,7 @@ During the trial, Mack explained his involvement in more detail.
 
 Hoss the Boss was the “LEAD INVESTIGATOR”
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02ubwoD39NLpGeKiikkL5Zkp3JuodXzCuxg3ryRvGK24ui2Js3D8wDzw49EG5GiTQVl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02ubwoD39NLpGeKiikkL5Zkp3JuodXzCuxg3ryRvGK24ui2Js3D8wDzw49EG5GiTQVl&show_text=true&width=500" width="500" height="250" style="height:555px;border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 The new evidence was “suppressed willfully rather than inadvertently” and was never divulged to the defense of Murray Lawrence. Mr. Lawrence has been incarcerated for 20 years. The evidence suppressed proves he was innocent. Sheriff Hoss, Mack District Attorney Robert Wilters who was the Judge, and David Whetstone the prosecutor, knowingly and willfully withheld the newly found evidence. Their signatures appear in the evidence. Not only does this prove Mr. Lawrence was innocent but it also supports allegations against authorities in previous cases alleging judicial misconduct.
 
