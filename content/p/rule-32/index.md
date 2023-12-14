@@ -14,7 +14,7 @@ The wrongful conviction of Murray Lawrence has cost him over 7500 days in Jail. 
 A “Rule 32 petition” is a petition that people can file to challenge their conviction in court where they were convicted. It’s called a “Rule 32 petition” because it’s filed under Rule 32 of the Alabama Rules of Criminal Procedure. Generally speaking, someone would use a Rule 32 petition to attack their conviction once they’ve been convicted and once their appeals have gone final. A Rule 32 petition is how someone can get back into court.
 
 
-<a href="img/rule-32.pdf" <img src="img/rule-32.png"></a>
+<a href="img/rule-32.pdf"> <img src="img/rule-32.png"></a>
 
 https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html
 
