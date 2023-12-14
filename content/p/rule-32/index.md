@@ -29,14 +29,11 @@ Hoss the Boss was the “LEAD INVESTIGATOR”
 
 The new evidence was “suppressed willfully rather than inadvertently” and was never divulged to the defense of Murray Lawrence. Mr. Lawrence has been incarcerated for 20 years. The evidence suppressed proves he was innocent. Sheriff Hoss, Mack District Attorney Robert Wilters who was the Judge, and David Whetstone the prosecutor, knowingly and willfully withheld the newly found evidence. Their signatures appear in the evidence. Not only does this prove Mr. Lawrence was innocent but it also supports allegations against authorities in previous cases alleging judicial misconduct.
 
-The local Baldwin County press and Alabama independent internet journalists sites, have been reluctant, scared, to cover the blatant corruption of the Baldwin County Sheriff or any elected officials involved with this case. Only Lagniappe and the The Ripp Report as well as social media sites, facebook and .coms have been covering the wrongful conviction of Murray Lawrence who is being represented by Attorneys Maxwell/Tillman, Birmingham,Al.
+The local Baldwin County press and Alabama independent internet journalists sites, have been reluctant, scared, to cover the blatant corruption of the Baldwin County Sheriff or any elected officials involved with this case. Only Lagniappe and the The Ripp Report as well as social media sites, facebook and blogs have been covering the wrongful conviction of Murray Lawrence who is being represented by Attorneys Maxwell/Tillman, Birmingham,Al.
 
 
 Stay tuned for legal updates:
 
-“The new evidence was “suppressed willfully rather than inadvertently” and was never divulged to the defense of Murray Lawrence.”
-
-
-
+“The new evidence was 'suppressed willfully rather than inadvertently' and was never divulged to the defense of Murray Lawrence.”
 
 {{< chat rule32 >}}
