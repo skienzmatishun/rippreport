@@ -12,9 +12,11 @@
                     {{ .Title }}
                 </a>
                 {{- with .Params.thumbnail }}
+				 <a href="{{ .RelPermalink }}>
                 <div style="margin-left:15px;" class="widget__thumbnail">
                     <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                 </div>
+				</a>
                 {{- end }}
 		<hr style="margin:1em;">
             </li>
