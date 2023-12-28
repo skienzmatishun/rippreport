@@ -41,10 +41,10 @@
             {{- if ne .Page.Params.index 0 }} <!-- Check if it's not the first post -->
               <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
             {{- else }}
-              <img style="height:630;width:auto;" class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+              <img style="height:630px;width:auto;" class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
             {{- end }}
           {{- else }}
-            <img  style="height:630;width:auto;" class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+            <img  style="height:630px;width:auto;" class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
           {{- end }}
         {{- end }}
         {{- if eq $class "list" }}</a>{{ end }}
