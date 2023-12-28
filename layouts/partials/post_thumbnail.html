@@ -31,10 +31,10 @@
     {{- if in $visibility $class }}
       {{ $lazyLoading := true }}
       {{- if eq $class "list" }}
-        <figure style="min-height:630px;" class="{{ . }}__thumbnail thumbnail">
+        <figure class="{{ . }}__thumbnail thumbnail">
           <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
       {{- else }}
-        <figure  style="min-height:630px;" class="{{ . }}__thumbnail {{ $class }}-thumbnail thumbnail">
+        <figure class="{{ . }}__thumbnail {{ $class }}-thumbnail thumbnail">
       {{- end }}
         {{- if $thumbnail }}
           {{- if eq $lazyLoading true }}
