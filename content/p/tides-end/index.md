@@ -1,6 +1,6 @@
 ---
 title: "Tide's End"
-date: 2024-1-18
+date: 2024-01-18
 thumbnail: "img/tides-end.jpg"
 categories: 
   - backstory-podcast
