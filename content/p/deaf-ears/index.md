@@ -88,18 +88,17 @@ If the above statement is true then it should be in Jarius Ireland statement. Th
 
 I have included:
 
-
-	A. Coroners report and a layman’s interpretation of the potential violations of the law.
-	B. Bound copy of trial transcript synopsis.
-	C. A verbal Lynching in Alabama.
-	D. Copy of Lagniappe article.
+1. Coroners report and a layman’s interpretation of the potential violations of the law.
+2. Bound copy of trial transcript synopsis.
+3. A verbal Lynching in Alabama.
+4. Copy of Lagniappe article.
 
 The Ripp Report, a not for profit, would be happy to provide:
 
-	A. The trial transcript in pdf
-	B. The trial transcript in a word document that correlates with the synopsis.
-	C. Notes, newspaper articles, interview information and more.
-	D. An audio, podcast, of the long version of “A verbal lynching in Alabama.”
+1. The trial transcript in pdf
+2. The trial transcript in a word document that correlates with the synopsis.
+3. Notes, newspaper articles, interview information and more.
+4. An audio, podcast, of the long version of “A verbal lynching in Alabama.”
 
 We are more than willing to cooperate with your office, in person, if requested.
 
@@ -137,7 +136,6 @@ Wrongful Conviction
 The Court of Public Opinion
 
 Sincerely
-
 Francis Paul Ripp
 
 The Ripp Reporter
