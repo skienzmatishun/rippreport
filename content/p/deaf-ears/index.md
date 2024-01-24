@@ -115,25 +115,18 @@ The Ripp Report will use all our resources to expose this injustice.
 What will the Attorney General do?
 
 
-cc: Mobile FBI
+**cc:**
 
-Alabama NAACP
-
-Al.com
-
-1819 News
-
-Redemption Earned
-
-U.S. Justice Department
-
-Alabama Political Reporter
-
-Maxwell and Tillman
-
-Wrongful Conviction
-
-The Court of Public Opinion
+- Mobile FBI
+- Alabama NAACP
+- Al.com
+- 1819 News
+- Redemption Earned
+- U.S. Justice Department
+- Alabama Political Reporter
+- Maxwell and Tillman
+- Wrongful Conviction
+- The Court of Public Opinion
 
 Sincerely
 Francis Paul Ripp
