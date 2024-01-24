@@ -90,77 +90,45 @@ I have included:
 
 
 A. Coroners report and a layman’s interpretation of the potential violations of the law.
-
-
 B. Bound copy of trial transcript synopsis.
-
-
 C. A verbal Lynching in Alabama.
-
-
 D. Copy of Lagniappe article.
-
 
 The Ripp Report, a not for profit, would be happy to provide:
 
-
 A. The trial transcript in pdf
-
-
 B. The trial transcript in a word document that correlates with the synopsis.
-
-
 C. Notes, newspaper articles, interview information and more.
-
-
 D. An audio, podcast, of the long version of “A verbal lynching in Alabama.”
-
 
 We are more than willing to cooperate with your office, in person, if requested.
 
-
 Mr Lawrence is currently being represented by attorneys Maxwell & Tillman in Birmingham. They will handle the wrongful conviction and have nothing to do with this complaint.
-
 
 This complaint, by The Ripp Report, is specifically addressing the coroners report and the fact that the Judge, Prosecution and lead investigator never provided this vital information to the defense. The Judge signed the Motion for Disinterment. The Prosecution filed the Motion to Disinter remains with the excuse of needing DNA for the murder investigation to proceed??? No evidence exists that support the death of Brandon Hastings was shot. The Sheriff, the lead investigator, NEVER found any evidence of a gunshot, a gun, any ballistic evidence, blood, fiber, fingerprints, DNA, witnesses, stolen property or cell phone records, that implicated Mr. Lawrence in the murder of Brandon Hastings, who he had never met nor had any connection to.
 
-
 The Coroners report was withheld from the defense, deliberately. The Judge, Prosecutor and Sheriff never acknowledge the disinterment of Brandon Hastings during the two week trial.
-
 
 Mr Lawrence has been innocently incarcerated for over 18 years, that is 6570 days. During the same time, those responsible for his incarceration, advanced their careers, at the expense of Mr. Lawrence.
 
+The Ripp Report will use all our resources to expose this injustice. 
 
-The Ripp Report will use all our resources to expose this injustice. What will the Attorney General do?
+What will the Attorney General do?
 
 
 cc: Mobile FBI
-
-
 Alabama NAACP
-
-
 Al.com
-
 1819 News
-
 Redemption Earned
-
 U.S. Justice Department
-
 Alabama Political Reporter
-
 Maxwell and Tillman
-
 Wrongful Conviction
-
 The Court of Public Opinion
 
 Sincerely
-
-
 Francis Paul Ripp
-
 
 The Ripp Reporter
 
