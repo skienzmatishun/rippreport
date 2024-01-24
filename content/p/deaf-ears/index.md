@@ -168,4 +168,4 @@ The Ripp Reporter
 
 334-669-0497
 
-{{< chat alagasdasd6 >}}
+{{< chat alagasdasd26 >}}
