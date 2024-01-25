@@ -14,6 +14,10 @@ p {
 .backstory__header h1 {
 	color:black !important;
 }
+.backstory__content {
+	background:#5083df36;
+}
+
 .backstory__btn {
      font-family: 'Amatic SC', cursive;
      font-size: 2rem;
