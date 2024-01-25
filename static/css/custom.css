@@ -84,6 +84,9 @@ body {
 	background:transparent;
 	color:black;
 }
+.backstory__post .list__header a {
+	color:black;
+}
 
  .loader {
      text-align: center;
