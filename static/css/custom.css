@@ -32,12 +32,12 @@ body {
      margin: 0;
 }
  .list__header {
-	 background:black;
+	 background:#292929;
 	 color:white;
 	 padding:.5em;
  }
 .post__header {
-	background:black;
+	background:#292929;
 	color:white;
 }
 .post__header .post__title {
