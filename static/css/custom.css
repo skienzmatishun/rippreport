@@ -8,6 +8,13 @@ p {
      background: #232222;
      max-height: 125px;
 }
+.backstory__header {
+	background:#5083df;
+}
+.backstory__header h1 {
+	color:black;
+}
+
  .post__meta {
      border: none;
 }
@@ -266,12 +273,6 @@ padding-bottom:15px;
 }
  .primary {
     margin-top:20px;
-}
-.backstory__header {
-	background:#5083df;
-}
-.backstory__header h1 {
-	color:black;
 }
 
 
