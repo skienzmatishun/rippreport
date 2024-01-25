@@ -148,6 +148,7 @@ margin-top:20px;
 }
  .post__content {
  margin:2em;
+ margin-top:0px;
  }
 .post__title {
 margin:10px;
