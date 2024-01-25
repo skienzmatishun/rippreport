@@ -54,6 +54,13 @@ p {
 	background:#292929;
 	color:white;
 }
+
+.backstory__post .list__header .list__meta .meta__item-datetime {
+	position:relative;
+  left: 40%;
+  top:initial;
+}
+
 .post__header .post__title {
 color:white;
 }
