@@ -12,7 +12,7 @@ p {
      border: none;
 }
  .list__meta {
-     text-align: center;
+	position:relative;
 }
  #eagle {
      max-width: none;
@@ -23,6 +23,13 @@ p {
      font-size: 90px;
      text-align: center;
 }
+
+.meta__item-datetime {
+  position: absolute;
+  top: -25px;
+  left: 40%;
+}
+
 .list__item {
 	border:none;
 }
@@ -98,13 +105,7 @@ background:	#4c4c4c;
      color: black !important;
      text-align: center;
 }
-.cactus-button {
-	border-radius:none;
-	background:#2a2a2a;
-}
-.cactus-button:hover {
-	background:	#4c4c4c;
-}
+
  .backstory__post {
      background: #5083df36 
 }
@@ -203,7 +204,7 @@ margin:10px;
 }
 .meta__text
 {
-	font-size:22px;
+	font-size:18px;
 }
 
  .top-social {
