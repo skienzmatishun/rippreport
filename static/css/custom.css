@@ -1,6 +1,9 @@
 body {
      background: #1d1c1c;
 }
+p {
+	font-size:1rem;
+}
  .header {
      background: #232222;
      max-height: 125px;
