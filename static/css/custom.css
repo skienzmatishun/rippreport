@@ -31,10 +31,7 @@ body {
 	 background:black;
 	 color:white;
  }
-.list__header .backstory__title a {
-	background:transparent;
-	color:black;
-}
+
 
  .container--outer, .container {
      max-width: 1400px;
@@ -79,6 +76,11 @@ body {
  .backstory__post {
      background: #5083df36 
 }
+.backstory__post .list__header {
+	background:transparent;
+	color:black;
+}
+
  .loader {
      text-align: center;
      margin: 0 auto 1em;
