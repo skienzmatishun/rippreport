@@ -158,7 +158,13 @@ margin:10px;
      filter:invert(1);
      align-items:center;
 	 display:flex;
+	 margin:10px;
 }
+
+.backstory-sidebar {
+	display:flex;
+}
+
 .backstory-logo {
      display:flex;
 }
