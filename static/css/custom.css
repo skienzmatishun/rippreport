@@ -64,6 +64,9 @@ color:white;
      margin-bottom: 4em;
      max-width: 1200px;
 }
+.pagination__item:hover, .pagination__item--current {
+	background:#2a2a2a;
+}
  .list__footer-readmore {
      display: block;
      margin: auto;
