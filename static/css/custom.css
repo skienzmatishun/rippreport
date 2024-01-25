@@ -276,6 +276,13 @@ padding-bottom:15px;
   top:initial;
   text-align:center;
 }
+.backstory__post .list__header .list__meta .meta__item-datetime {
+	position:relative;
+  top:initial;
+  left:initial;
+  color:black;
+  text-align:center;
+}
      .search-bar {
         display:none;
     }
