@@ -121,12 +121,13 @@ color:white;
 }
  .widget__item {
      border: none;
+	 background:#474747;
+	 margin-bottom:15px;
 }
  .widget__item a {
      color: white;
      font-size: 1.3rem;
 	 font-weight:900;
-     margin-left:15px;
 	 display: block;
   margin-bottom: 10px;
     text-align: center;
