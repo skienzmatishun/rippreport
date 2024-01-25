@@ -59,6 +59,7 @@ p {
 	position:relative;
   left: 40%;
   top:initial;
+  color:black;
 }
 
 .post__header .post__title {
