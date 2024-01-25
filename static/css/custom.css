@@ -141,6 +141,9 @@ body {
  .post__header, .main__header, .post__content {
     padding:2em;
 }
+ .post__content {
+ margin:2em;
+ }
 .post__title {
 margin:10px;
 }
@@ -192,19 +195,12 @@ padding-bottom:15px;
     margin-top:20px;
 }
 
-figure.thumbnail {
-	min-height:500px;
-}
 
  @media screen and (max-width:620px) {
      .search-bar {
         display:none;
     }
 	
-figure.thumbnail {
-	min-height:none;
-}
-
      .header-search {
          display: inline-block;
          POSITION: relative;
