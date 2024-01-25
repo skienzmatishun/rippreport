@@ -127,7 +127,6 @@ body {
  .title-logo, a.logo__link span {
      font-size:3em;
      color:white;
-     font-weight:600;
 }
  .logo__link {
      min-width:351px;
@@ -242,7 +241,6 @@ padding-bottom:15px;
      .title-logo, a.logo__link span {
          font-size:2.2em;
          color:white;
-         font-weight:600;
     }
      .post__title {
          font-size: 45px;
