@@ -4,6 +4,7 @@ date: 2023-12-14
 thumbnail: "img/rule-32.jpg"
 categories: 
   - thursday-thunder
+  - dwtd
 authors: 
   - admin
 ---
