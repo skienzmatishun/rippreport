@@ -36,7 +36,13 @@ body {
 	 color:white;
 	 padding:.5em;
  }
-
+.post__header {
+	background:black;
+	color:white;
+}
+.post__header .post__title {
+color:white;
+}
 
  .container--outer, .container {
      max-width: 1400px;
