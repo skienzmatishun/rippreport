@@ -20,7 +20,9 @@ body {
      font-size: 90px;
      text-align: center;
 }
-
+.list__item {
+	border:none;
+}
 .list__title a {
 	color:white;
 }
@@ -36,6 +38,8 @@ body {
 	 color:white;
 	 padding:.5em;
  }
+ .footer { border:none;}
+ 
 .post__header {
 	background:#292929;
 	color:white;
