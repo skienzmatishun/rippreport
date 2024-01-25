@@ -156,13 +156,11 @@ margin:10px;
 }
  .backstory-social {
      filter:invert(1);
-     float:right;
-     margin-top: 75px;
-     margin-right: 80px;
+     align-items:center;
+	 display:flex;
 }
 .backstory-logo {
-     float:left;
-     margin-left:9px;
+     display:flex;
 }
  .backstory-logo img {
      border-radius:20px;
