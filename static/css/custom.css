@@ -23,7 +23,7 @@ p {
 }
 
 .dwtd.list__header {
-	background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000);
+	background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
 }
 
 .backstory__btn {
