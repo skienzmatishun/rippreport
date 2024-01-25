@@ -4,6 +4,7 @@ date: 2024-01-21
 thumbnail: "img/deaf-ears.jpg"
 categories: 
   - saturday-sunshine
+  - dwtd
 authors: 
   - admin
 ---
