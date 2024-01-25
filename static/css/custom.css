@@ -20,6 +20,10 @@ body {
      font-size: 90px;
      text-align: center;
 }
+
+.list__title a {
+	color:white;
+}
  .list__thumbnail img {
      max-width: none;
      margin-bottom: 2em;
