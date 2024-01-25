@@ -31,7 +31,7 @@ body {
 	 background:black;
 	 color:white;
  }
-.list__header .backstory__title {
+.list__header .backstory__title a {
 	background:transparent;
 	color:black;
 }
