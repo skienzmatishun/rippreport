@@ -9,10 +9,17 @@ p {
      max-height: 125px;
 }
 .backstory__header {
-	background:#5083df;
+	background:#5083df !important;
 }
 .backstory__header h1 {
-	color:black;
+	color:black !important;
+}
+.backstory__btn {
+     font-family: 'Amatic SC', cursive;
+     font-size: 2rem;
+     background-color: #5083df !important;
+     color: black !important;
+     text-align: center;
 }
 
  .post__meta {
@@ -113,14 +120,7 @@ background:	#4c4c4c;
      text-align: center;
      font-size: 1.5rem;
 }
- .backstory__btn {
-     font-family: 'Amatic SC', cursive;
-     font-size: 2rem;
-     background-color: #5083df !important;
-     color: black !important;
-     text-align: center;
-}
-
+ 
  .backstory__post {
      background: #5083df36 
 }
