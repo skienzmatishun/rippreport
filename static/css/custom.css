@@ -128,6 +128,9 @@ body {
      font-size:3em;
      color:white;
 }
+.list__excerpt {
+	font-size:20px;
+}
  .logo__link {
      min-width:351px;
 }
