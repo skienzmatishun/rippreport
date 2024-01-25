@@ -67,6 +67,10 @@ color:white;
 .pagination__item:hover, .pagination__item--current {
 	background:#2a2a2a;
 }
+.btn:hover {
+background:	#4c4c4c;
+}
+
  .list__footer-readmore {
      display: block;
      margin: auto;
@@ -93,6 +97,13 @@ color:white;
      background-color: #5083df !important;
      color: black !important;
      text-align: center;
+}
+.cactus-button {
+	border-radius:none;
+	background:#2a2a2a;
+}
+.cactus-button:hover {
+	background:	#4c4c4c;
 }
  .backstory__post {
      background: #5083df36 
