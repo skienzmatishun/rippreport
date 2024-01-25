@@ -27,7 +27,7 @@ body {
  .list__thumbnail {
      margin: 0;
 }
- .list_header {
+ .list__header {
 	 background:black;
 	 color:white;
  }
