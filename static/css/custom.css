@@ -153,6 +153,10 @@ margin-top:20px;
 .post__title {
 margin:10px;
 }
+.meta__text
+{
+	font-size:22px;
+}
  .top-social {
      position:absolute;
      top:15px;
