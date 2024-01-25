@@ -267,6 +267,12 @@ padding-bottom:15px;
  .primary {
     margin-top:20px;
 }
+.backstory__header {
+	background:#5083df;
+}
+.backstory__header h1 {
+	color:black;
+}
 
 
  @media screen and (max-width:620px) {
