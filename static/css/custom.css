@@ -140,6 +140,7 @@ color:white;
 }
  .pager {
      margin: 2em;
+	 color:black;
 }
  .wrapper {
      padding: 0;
@@ -246,7 +247,7 @@ padding-bottom:15px;
      .search-bar {
         display:none;
     }
-	
+	.post__content {margin:0px;}
      .header-search {
          display: inline-block;
          POSITION: relative;
