@@ -270,6 +270,12 @@ padding-bottom:15px;
 
 
  @media screen and (max-width:620px) {
+	 .list__header .list__meta .meta__item-datetime {
+	position:relative;
+  left: initial;
+  top:initial;
+  text-align:center;
+}
      .search-bar {
         display:none;
     }
