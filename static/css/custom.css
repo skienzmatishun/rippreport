@@ -17,7 +17,11 @@ p {
 .backstory__content {
 	background:#5083df36;
 }
-
+.list__item.post.dwtd {
+	background:#15171b;
+	color:white;
+}
+	
 .backstory__btn {
      font-family: 'Amatic SC', cursive;
      font-size: 2rem;
