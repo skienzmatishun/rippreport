@@ -131,6 +131,9 @@ body {
 .list__excerpt {
 	font-size:20px;
 }
+.widget-recent {
+margin-top:20px;
+}
  .logo__link {
      min-width:351px;
 }
