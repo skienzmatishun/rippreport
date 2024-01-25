@@ -137,4 +137,8 @@ The Ripp Reporter
 
 334-669-0497
 
-{{< chat alagasdasd26 >}}
+----
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0917M7bpUf5SCn83TjyWAGSsLGb4LkjA2mXvGe82Ph6m7T6MdQoSp9guNR8dUjSawl&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+{{< chat alagasdasd27 >}}
