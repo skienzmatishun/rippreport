@@ -4,6 +4,7 @@ date: 2023-10-07T00:00:00Z
 thumbnail: "img/baldwin-county-wrongful-conviction.jpg"
 categories: 
   - freaky-friday
+  - dwtd
 authors: 
   - admin
 ---

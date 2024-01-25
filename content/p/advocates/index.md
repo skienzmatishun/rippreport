@@ -4,6 +4,7 @@ date: 2023-10-04T00:00:00Z
 thumbnail: "img/advocates.jpg"
 categories: 
   - wonderful-wednesday
+  - dwtd
 authors: 
   - admin
 ---
