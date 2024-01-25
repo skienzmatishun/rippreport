@@ -29,8 +29,9 @@ background-size:50px;
 position:absolute;
 height:50px;
 content:"";
-top:-60px;
-left:-10px;
+top:10px;
+left:10px;
+width:50px;
 }
 
 html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.list article.list__item.post.dwtd header.list__header {
