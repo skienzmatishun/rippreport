@@ -7,7 +7,7 @@ p {
 }
 
 blockquote {
-    border-left:5px solid #6e6e6e;
+    border-left: 5px solid #6e6e6e;
 }
 
 .header {
@@ -68,15 +68,15 @@ blockquote {
     width: 50px;
 }
 
-html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main article.post div.content.post__content.dwtd-wrapper.clearfix h3 {
+.post__content.dwtd-wrapper h3 {
     color: white;
 }
 
-html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.list article.list__item.post.dwtd header.list__header {
+article.list__item.post.dwtd header.list__header {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
 }
 
-html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.list article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.btn {
+article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.btn {
     background: #830000;
 }
 
@@ -343,11 +343,11 @@ p {
     margin: 10px;
 }
 
-html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
+main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
     display: none;
 }
 
-html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.backstory__article article.post header.post__header.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
+.post__header.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
     display: none;
 }
 
