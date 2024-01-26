@@ -296,6 +296,8 @@ margin-bottom:10px;
 	 margin:10px;
 }
 
+html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {display:none;}
+
 .backstory-sidebar {
 	display:flex;
 }
@@ -342,9 +344,7 @@ padding-bottom:15px;
 		 width:25px;
 	 }
 	 
-	 .meta__item-datetime {
-  display:none;
-}
+
 	 .list__header .list__meta .meta__item-datetime {
 	position:relative;
   left: initial;
