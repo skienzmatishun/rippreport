@@ -12,7 +12,7 @@
 		</header>
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
 		{{- partial "post_toc.html" . -}}
-		<div class="content post__content {{ if in .Params.categories "backstory-podcast" }}backstory__content{{ end }} clearfix">
+		<div class="content post__content {{ if in .Params.categories "backstory-podcast" }}backstory__content{{ end }} {{ if in .Params.categories "dwtd" }}dwtd-wrapper{{ end }} clearfix">
 			{{ .Content }}
 		</div>
 		{{- if .Params.tags }}

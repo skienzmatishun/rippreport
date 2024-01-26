@@ -34,6 +34,11 @@ left:10px;
 width:50px;
 }
 
+.dwtd-wrapper {
+	background:#830000;
+	color:white;
+}
+
 html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.list article.list__item.post.dwtd header.list__header {
 	background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
 }
