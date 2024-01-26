@@ -50,7 +50,7 @@ Haygoods response is riddled with inaccuracies, wrong dates and outright deliber
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A man serving a life sentence for the 2003 murder of Foley resident Brandon Hastings is petitioning for a new trial, claiming prosecutors failed to disclose a second autopsy of<a href="https://t.co/i7JClPX2v1">https://t.co/i7JClPX2v1</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1750906932607570029?ref_src=twsrc%5Etfw">January 26, 2024</a></blockquote>
 
-“(I have) no explanation for why this report was not disclosed. It was certainly a violation of the discovery order in this case for the state not to disclose this second autopsy report,” Hagood stated in the objection.
+“(I have) no explanation for why this report was not disclosed. It was certainly a violation of the discovery order in this case for the state not to disclose this second autopsy report,” Haygood stated in the objection.
 
 I am going to address the issues Haygood stated in the article. There are more errors in her filing however I will specifically target those in the article.
 
