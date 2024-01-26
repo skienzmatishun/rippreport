@@ -29,9 +29,7 @@ A “Rule 32 petition” is a petition that people can file to challenge their c
 The above is part of the mission statement of District Attorney Robert Wilters. The same Robert Wilters, as a Judge suppressed evidence in a capital murder case. “ It is as much his duty to refrain from improper methods calculated to produce a wrongful conviction as it is to use every legitimate means to bring about a just one.”
 
 
-The State has responded to the rule 32 filed by Haygood Kristi Deason. Haygood who is an assistant Baldwin County District Attorney. Haygood works for Robert Wilters, How in the hell can an Assistant District attorney be a filer for the District Attorney when the same District attorney is accused of suppressing evidence while he was the Judge in the case? Haygood was selected to cover the butts
-
-of Wilters, Mack and Whetstone, at any expense or error.
+The State has responded to the rule 32 filed by Haygood Kristi Deason. Haygood who is an assistant Baldwin County District Attorney. Haygood works for Robert Wilters, How in the hell can an Assistant District attorney be a filer for the District Attorney when the same District attorney is accused of suppressing evidence while he was the Judge in the case? Haygood was selected to cover the butts of Wilters, Mack and Whetstone, at any expense or error.
 
 
 Judge Scott P Taylor is the Circuit Court Judge assigned to the Petition for relief from conviction and sentence pursuant to rule 32.
