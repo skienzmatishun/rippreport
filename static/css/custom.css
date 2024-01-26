@@ -331,13 +331,12 @@ padding-bottom:15px;
 
 
  @media screen and (max-width:620px) {
-	 .dwtd__header:before {
+	 .dwtd__post-link {
 		 height:25px;
 		 width:25px;
 		 background-size:contain;
 	 }
 	 
-
 	 .list__header .list__meta .meta__item-datetime {
 	position:relative;
   left: initial;
