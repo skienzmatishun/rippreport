@@ -291,7 +291,7 @@ margin-bottom:10px;
 }
 
 html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {display:none;}
-
+html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main.backstory__article article.post header.post__header.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {display:none;}
 .backstory-sidebar {
 	display:flex;
 }
@@ -336,6 +336,7 @@ padding-bottom:15px;
 	 .dwtd__header:before {
 		 height:25px;
 		 width:25px;
+		 background-size:contain;
 	 }
 	 
 
