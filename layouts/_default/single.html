@@ -1,6 +1,7 @@
 {{ define "main" }}
 <main class="main
 	{{ if in .Params.categories "dwtd" }}dwtd__article{{ end }}
+	{{ if in .Params.categories "backstory-podcast" }}backstory__article{{ end }}
 " role="main">
 	<article class="post">
 		<header class="post__header
