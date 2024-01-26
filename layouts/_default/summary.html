@@ -6,6 +6,10 @@
 			{{ .Title }}
 			</a>
 		</h2>
+		{{- if in .Params.categories "dwtd" }}
+		<a href="https://deal-with-the-devil.com"><div class="dwtd__link">
+		</div></a>
+		{{- end }}
 		{{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
 		{{- end }}
