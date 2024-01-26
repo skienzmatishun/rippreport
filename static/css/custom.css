@@ -12,9 +12,6 @@ p {
 .backstory__header h1 {
 	color:black !important;
 }
-.backstory__content {
-	background:#5083df36;
-}
 .list__item.post.dwtd {
 	background:#15171b;
 	color:white;
@@ -32,8 +29,8 @@ left:10px;
 width:50px;
 }
 
-.dwtd__header {
-		background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
+.backstory__header {
+		background: #5083df !important;
 }
 
 .backstory__article{
@@ -181,9 +178,6 @@ background:	#4c4c4c;
      font-size: 1.5rem;
 }
  
- .backstory__post {
-     background: #5083df36 
-}
 .backstory__post .list__header {
 	background:transparent;
 	color:black;
