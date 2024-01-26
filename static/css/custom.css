@@ -103,6 +103,7 @@ background:#830000;
 
 .list__item {
 	border:none;
+	padding-top:20px;
 }
 .list__title a {
 	color:white;
@@ -147,7 +148,6 @@ color:white;
 }
  .post {
      margin: auto;
-     margin-bottom: 4em;
      max-width: 1200px;
 }
 .pagination__item:hover, .pagination__item--current {
@@ -326,9 +326,6 @@ padding-bottom:15px;
 
  .icon-files {
     display:none;
-}
- .primary {
-    margin-top:20px;
 }
 
 
