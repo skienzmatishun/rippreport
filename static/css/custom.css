@@ -35,7 +35,11 @@ width:50px;
 }
 
 .dwtd-wrapper {
-	background:#830000;
+	background:#333;
+	color:white;
+}
+
+html.js body.body div.container.container--outer div.wrapper.flex div.primary main.main article.post div.content.post__content.dwtd-wrapper.clearfix h3 {
 	color:white;
 }
 
