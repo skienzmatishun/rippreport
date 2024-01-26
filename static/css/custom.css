@@ -6,6 +6,10 @@ p {
     font-size: 1rem;
 }
 
+blockquote {
+    border-left:5px solid #6e6e6e;
+}
+
 .header {
     background: #232222;
     max-height: 125px;
@@ -213,7 +217,7 @@ html.js body.body div.container.container--outer div.wrapper.flex div.primary ma
     color: black;
 }
 
-.loader {
+#loader {
     text-align: center;
     margin: 0 auto 1em;
     display: inline-block;
