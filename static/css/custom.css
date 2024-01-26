@@ -32,6 +32,10 @@ left:10px;
 width:50px;
 }
 
+.dwtd__header {
+		background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
+}
+
 .backstory__article{
 background:#dae5f8 !important;
 margin-top:-20px !important;
@@ -333,6 +337,14 @@ padding-bottom:15px;
 
 
  @media screen and (max-width:620px) {
+	 .dwtd__header:before {
+		 height:25px;
+		 width:25px;
+	 }
+	 
+	 .meta__item-datetime {
+  display:none;
+}
 	 .list__header .list__meta .meta__item-datetime {
 	position:relative;
   left: initial;
