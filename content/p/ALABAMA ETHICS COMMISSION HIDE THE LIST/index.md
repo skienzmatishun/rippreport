@@ -1,13 +1,13 @@
 ---
 title: "ALABAMA ETHICS COMMISION HIDE THE LIST"
 date: 2024-01-29
-thumbnail: "img/alabama-ethics-commision-hide-the-list.jpg"
+thumbnail: "img/alabama-ethics-commission-hide-the-list.jpg"
 categories: 
   - monday-madness
 authors: 
   - admin
 ---
-
+"\\wsl.localhost\Ubuntu\home\ryan\rippreport\content\img\alabama-ethics-commission-hide-the-list.jpg"
 If you are caught stealing 10 dollars from Wal-Mart, YOU are going to jail. If you steal 3.2 Million and distribute those funds to Judges, Bankers, Lawyers and Politicians by using a trust, that you are a trustee of, KNOW, you could get away with it, in Alabama. Especially if you happen to be the Executive Director of the Ethics Commission, Mr. Tom Albritton.
 
 
@@ -49,3 +49,5 @@ WE THE CITIZENS WANT TO SEE THE LIST OF PRIVILEGED POLITICIANS, LAWYERS, BANKERS
 
 
 REMEMBER DO NOT STEAL FROM WAL-MART YOU WILL GO TO JAIL.
+
+{{< chat mljp2332 >}}
