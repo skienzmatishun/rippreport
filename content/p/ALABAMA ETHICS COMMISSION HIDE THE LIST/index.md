@@ -34,7 +34,7 @@ Two things need to Happen:
 With the exception of Lagniappe paper in Mobile, most so called Alabama news organizations have tipped toed around the story. Why is the media not raising hell that the LIST be made public. Why has Governor Kay Ivy been silent on THE LIST.
 
 
-Why are the POLITICIANS so quite?
+Why are the POLITICIANS so quiet?
 
 
 What can you do ? Write or call your state representative, Legislative delegation, Governor Ivy or CALL:
