@@ -7,7 +7,7 @@ categories:
 authors: 
   - admin
 ---
-"\\wsl.localhost\Ubuntu\home\ryan\rippreport\content\img\alabama-ethics-commission-hide-the-list.jpg"
+
 If you are caught stealing 10 dollars from Wal-Mart, YOU are going to jail. If you steal 3.2 Million and distribute those funds to Judges, Bankers, Lawyers and Politicians by using a trust, that you are a trustee of, KNOW, you could get away with it, in Alabama. Especially if you happen to be the Executive Director of the Ethics Commission, Mr. Tom Albritton.
 
 
