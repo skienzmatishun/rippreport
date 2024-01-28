@@ -87,3 +87,5 @@ No timeline was ever established during the trial. The last person to see Hastin
 Haygood says this is a Harmless error. Harmless? Lawrence has been in jail for 20 years, 7300 days for a crime he had nothing to do with! And Haygood says it was Harmless error. Are all her errors Harmless?          
 
 {{< chat nojustice >}}
+
+{{< subscribe >}}
