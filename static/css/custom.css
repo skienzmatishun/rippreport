@@ -391,9 +391,18 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
 .icon-files {
     display: none;
 }
-
+figure.thumbnail {
+    min-height:430px;
+    display: inline-block;
+    width:auto;
+}
 
 @media screen and (max-width:620px) {
+    figure.thumbnail{
+    min-height: 170px;
+  display: inline-block;
+  width:atuo;
+}
     .dwtd__post-link {
         height: 25px;
         width: 25px;
