@@ -40,3 +40,5 @@ https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from
 “Albritton was confirmed by the State Senate as executive director of the Alabama Ethics Commission in March 2015, and that same year, two of his children received $15,000 scholarships to the University of Texas from the trust, according to 990 records. Overall, scholarships to Albritton’s children totaled $105,000 between 2014 and 2018, which is the last year for which the trust’s 990s are available, so it is possible there was more scholarship money distributed to them.”
 
 Ask yourself WHERE THE HELL IS THE PRESS?
+
+{{< subscribe >}}
