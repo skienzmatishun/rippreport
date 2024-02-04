@@ -27,11 +27,7 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                {{- if or (eq (printf "%T" .Page) "page.Page") (eq (printf "%T" .Page) "string") }}
-                                    <img loading="lazy" src="{{ if ge (len (split .Page.RelPermalink "/")) 3 }}../../../{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
-                                {{- else }}
-                                    <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
-                                {{- end }}
+                                <img loading="lazy" src="{{ if .Page }}{{ if ge (len (split .Page.RelPermalink "/")) 3 }}../../../{{ else }}../../{{ end }}{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                             </div>
                         {{- end }}
                     </a>
