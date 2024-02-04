@@ -18,6 +18,9 @@ blockquote {
 .backstory__header h1 {
     color: black !important;
 }
+div.primary.dwtd__primary nav.pager.flex {
+color:white !important;
+}
 
 .list__item.post.dwtd {
     background: #15171b;
@@ -534,7 +537,6 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
     }
 }
 
-@charset "UTF-8";
 
 /*!
  * Pikaday
