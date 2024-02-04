@@ -14,7 +14,10 @@
 	{{- end }}
 	{{- if .NextInSection }}
 	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="{{ .NextInSection.RelPermalink }}" rel="next">
+		<a class="pager__link
+        {{ if in .Params.categories "dwtd" }}dwtd__pager__link{{ end }}
+        {{ if in .Params.categories "backstory-podcast" }}backstory__pager__link{{ end }}
+        " href="{{ .NextInSection.RelPermalink }}" rel="next">
 			<span class="pager__subtitle">{{ T "post_nav_next" }}&thinsp;»</span>
 			<p class="pager__title">{{ .NextInSection.Title }}</p>
 		</a>

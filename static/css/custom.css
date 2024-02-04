@@ -38,6 +38,15 @@ blockquote {
     background: #333 !important;
     color: white !important;
 }
+.dwtd__primary {
+background:#333 !important;
+}
+.dwtd__pager__link {
+color:white !important;
+}
+.backstory__primary {
+    background: #dae5f8 !important;
+}
 
 .dwtd__header {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
