@@ -27,7 +27,11 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                {{- if in .Page.URL "page" }}
+                                    <img loading="lazy" src="../../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                {{- else }}
+                                    <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                {{- end }}
                             </div>
                         {{- end }}
                     </a>
