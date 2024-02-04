@@ -27,7 +27,7 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                <img loading="lazy" src="{{ if eq 1 .PageNumber }}../../{{ else }}{{ .RelPermalink }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                             </div>
                         {{- end }}
                     </a>
