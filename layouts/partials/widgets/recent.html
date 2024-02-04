@@ -1,4 +1,8 @@
+{{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{- $currentPost := . }}
+
 {{- $recent_num := (.Site.Params.widgets.recent_num | default 20) }}
+
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
