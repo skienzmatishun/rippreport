@@ -2,14 +2,19 @@
 <main class="main
 	{{ if in .Params.categories "dwtd" }}dwtd__article{{ end }}
 	{{ if in .Params.categories "backstory-podcast" }}backstory__article{{ end }}
+	{{ if in .Params.categories "dwtd" }}dwtd{{ end }}
+	{{ if in .Params.categories "backstory-podcast" }}backstory{{ end }}
 " role="main">
-	<article class="post">
+	<article class="post {{ if in .Params.categories "dwtd" }}dwtd{{ end }} {{ if in .Params.categories "backstory-podcast" }}backstory{{ end }}">
 		<header class="post__header
 			{{ if in .Params.categories "backstory-podcast" }}backstory__header{{ end }}
 			{{ if in .Params.categories "dwtd" }}dwtd__header{{ end }}
+			{{ if in .Params.categories "dwtd" }}dwtd{{ end }}
+			{{ if in .Params.categories "backstory-podcast" }}backstory{{ end }}
 		">
 			<h1 class="post__title
 				{{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}
+				{{ if in .Params.categories "dwtd" }}dwtd__title{{ end }}
 			">{{ .Title }}</h1>
 			{{- with .Params.lead }}
 			<p class="post__lead">{{ . }}</p>
@@ -18,9 +23,10 @@
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
 			{{ if in .Params.categories "dwtd" }}
-<a href="https://deal-with-the-devil.com">
-			<div class="dwtd__post-link">
-			</div></a>
+				<a href="https://deal-with-the-devil.com">
+					<div class="dwtd__post-link">
+					</div>
+				</a>
 			{{- end }}
 		</header>
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
