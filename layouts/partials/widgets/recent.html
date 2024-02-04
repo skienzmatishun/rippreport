@@ -17,23 +17,28 @@
 {{- end }}
 
 {{- if gt (len $filteredRecent) 0 }}
-<div class="widget-recent widget">
-    <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
-    <div class="widget__content">
-        <ul class="widget__list">
-            {{- range first $recent_num $filteredRecent }}
-                <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
-                    <a class="widget__link" href="{{ .RelPermalink }}">
-                        {{ .Title }}
-                        {{- with .Params.thumbnail }}
-                            <div style="min-height:200px;" class="widget__thumbnail">
-                                <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
-                            </div>
-                        {{- end }}
-                    </a>
-                </li>
-            {{- end }}
-        </ul>
+    {{- $thumbnailPrefix := "" }}
+    {{- if and .IsHome (isset .Paginator "PageNumber") (gt .Paginator.PageNumber 1) }}
+        {{- $thumbnailPrefix = "../../../" }}
+    {{- end }}
+
+    <div class="widget-recent widget">
+        <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
+        <div class="widget__content">
+            <ul class="widget__list">
+                {{- range first $recent_num $filteredRecent }}
+                    <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
+                        <a class="widget__link" href="{{ .RelPermalink }}">
+                            {{ .Title }}
+                            {{- with .Params.thumbnail }}
+                                <div style="min-height:200px;" class="widget__thumbnail">
+                                    <img loading="lazy" src="{{ $thumbnailPrefix }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                </div>
+                            {{- end }}
+                        </a>
+                    </li>
+                {{- end }}
+            </ul>
+        </div>
     </div>
-</div>
 {{- end }}
