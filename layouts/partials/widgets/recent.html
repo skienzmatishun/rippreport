@@ -27,7 +27,7 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                {{- if and (eq (kindOf .Page) "page") (in .Page.URL "page") }}
+                                {{- if eq (printf "%T" .Page) "page.Page" (in .Page.URL "page") }}
                                     <img loading="lazy" src="../../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                                 {{- else }}
                                     <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
