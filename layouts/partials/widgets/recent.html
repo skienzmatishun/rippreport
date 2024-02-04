@@ -27,7 +27,7 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                <img loading="lazy" src="{{ if .Page }}{{ if ge (len (split .Page.RelPermalink "/")) 3 }}../../../{{ else }}../../{{ end }}{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                <img loading="lazy" src="{{ if eq (kindOf .Page) "string" }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                             </div>
                         {{- end }}
                     </a>
