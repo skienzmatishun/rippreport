@@ -32,7 +32,7 @@
                             {{ .Title }}
                             {{- with .Params.thumbnail }}
                                 <div style="min-height:200px;" class="widget__thumbnail">
-                                    <img loading="lazy" src="{{ $thumbnailPrefix }}../../{{ if in .RelPermalink "/p/" }}{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                    <img loading="lazy" src="{{ $thumbnailPrefix }}{{ if in $.URL "/p/" }}{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                                 </div>
                             {{- end }}
                         </a>
