@@ -1,14 +1,14 @@
 {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 {{- $currentPost := . }}
 
-{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 20) }}
 
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
     {{- $recentToShow = $recent }}
 {{- else }}
-    {{- $recentToShow = after 10 $recent }}
+    {{- $recentToShow = slice $recent 10 nil }}
 {{- end }}
 
 {{- if gt (len $recentToShow) 0 }}
