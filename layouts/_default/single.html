@@ -3,34 +3,24 @@
 	{{ if in .Params.categories "dwtd" }}dwtd__article{{ end }}
 	{{ if in .Params.categories "backstory-podcast" }}backstory__article{{ end }}
 " role="main">
-	<article class="post
-		{{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }}
-		{{ if in .Params.categories "dwtd" }}dwtd__post{{ end }}
-	">
+	<article class="post">
 		<header class="post__header
 			{{ if in .Params.categories "backstory-podcast" }}backstory__header{{ end }}
 			{{ if in .Params.categories "dwtd" }}dwtd__header{{ end }}
 		">
 			<h1 class="post__title
 				{{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}
-				{{ if in .Params.categories "dwtd" }}dwtd__title{{ end }}
 			">{{ .Title }}</h1>
 			{{- with .Params.lead }}
-			<p class="post__lead
-				{{ if in .Params.categories "backstory-podcast" }}backstory__lead{{ end }}
-				{{ if in .Params.categories "dwtd" }}dwtd__lead{{ end }}
-			">{{ . }}</p>
+			<p class="post__lead">{{ . }}</p>
 			{{- end }}
 			{{ with partial "post_meta.html" . -}}
-			<div class="post__meta meta
-				{{ if in .Params.categories "backstory-podcast" }}backstory__meta{{ end }}
-				{{ if in .Params.categories "dwtd" }}dwtd__meta{{ end }}
-			">{{ . }}</div>
+			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
 			{{ if in .Params.categories "dwtd" }}
-				<a href="https://deal-with-the-devil.com">
-					<div class="dwtd__post-link"></div>
-				</a>
+<a href="https://deal-with-the-devil.com">
+			<div class="dwtd__post-link">
+			</div></a>
 			{{- end }}
 		</header>
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
@@ -41,19 +31,13 @@
 			{{ .Content }}
 		</div>
 		{{- if .Params.tags }}
-		<footer class="post__footer
-			{{ if in .Params.categories "backstory-podcast" }}backstory__footer{{ end }}
-			{{ if in .Params.categories "dwtd" }}dwtd__footer{{ end }}
-		">
+		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
 		</footer>
 		{{- end }}
 	</article>
 </main>
-<section class="comments
-	{{ if in .Params.categories "backstory-podcast" }}backstory__comments{{ end }}
-	{{ if in .Params.categories "dwtd" }}dwtd__comments{{ end }}
-">
+<section class="comments">
 </section>
 {{ partial "authorbox.html" . }}
 {{ partial "pager.html" . }}
