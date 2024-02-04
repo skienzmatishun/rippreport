@@ -56,7 +56,10 @@
 	<div class="container container--outer">
 		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
 		<div class="wrapper flex">
-			<div class="primary">
+			<div class="primary
+			{{ if in .Params.categories "dwtd" }}dwtd__primary{{ end }}
+			{{ if in .Params.categories "backstory-podcast" }}backstory__primary{{ end }}
+			">
 				{{ block "main" . }}
 				{{ with .Content }}
 				<div class="content main__content clearfix">
