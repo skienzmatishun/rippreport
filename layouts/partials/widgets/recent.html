@@ -11,8 +11,13 @@
     {{- $recentToShow = after 10 $recent }}
 {{- end }}
 
+{{- $categoryClass := "" }}
+{{- if or (eq .Params.categories "dwtd") (eq .Params.categories "backstory-podcast") }}
+    {{- $categoryClass = .Params.categories }}
+{{- end }}
+
 {{- if gt (len $recentToShow) 0 }}
-<div class="widget-recent widget">
+<div class="widget-recent widget {{ $categoryClass }}">
     <h4 class="widget__title">{{ T "recent_title" }}</h4>
     <div class="widget__content">
         <ul class="widget__list">
