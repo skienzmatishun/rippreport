@@ -29,7 +29,7 @@ blockquote {
 }
 
 .backstory__widget__item {
-    background: #5083df
+    background: #5083df !important;
 }
 
 nav.pager.flex {
