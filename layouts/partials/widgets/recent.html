@@ -19,7 +19,7 @@
 {{- if gt (len $filteredRecent) 0 }}
     {{- $thumbnailPrefix := "" }}
     {{- if and .IsHome (isset .Paginator "PageNumber") (gt .Paginator.PageNumber 1) }}
-        {{- $thumbnailPrefix = "../../../" }}
+        {{- $thumbnailPrefix = "../" }}
     {{- end }}
 
     <div class="widget-recent widget">
@@ -32,7 +32,7 @@
                             {{ .Title }}
                             {{- with .Params.thumbnail }}
                                 <div style="min-height:200px;" class="widget__thumbnail">
-                                    <img loading="lazy" src="{{ $thumbnailPrefix }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                    <img loading="lazy" src="{{ $thumbnailPrefix }}../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                                 </div>
                             {{- end }}
                         </a>
