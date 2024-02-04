@@ -11,19 +11,14 @@
     {{- $recentToShow = after 10 $recent }}
 {{- end }}
 
-{{- $categoryClass := "" }}
-{{- if or (eq .Params.categories "dwtd") (eq .Params.categories "backstory-podcast") }}
-    {{- $categoryClass = .Params.categories }}
-{{- end }}
-
 {{- if gt (len $recentToShow) 0 }}
-<div class="widget-recent widget {{ $categoryClass }}">
+<div class="widget-recent widget">
     <h4 class="widget__title">{{ T "recent_title" }}</h4>
     <div class="widget__content">
         <ul class="widget__list">
             {{- range first $recent_num $recentToShow }}
                 {{- if ne . $currentPost }}
-                    <li class="widget__item">
+                    <li class="widget__item {{ with .Params.categories }}{{.}}{{ end }}">
                         <a class="widget__link" href="{{ .RelPermalink }}">
                             {{ .Title }}
                             {{- with .Params.thumbnail }}
