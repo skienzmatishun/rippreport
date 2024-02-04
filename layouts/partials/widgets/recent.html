@@ -18,7 +18,7 @@
         <ul class="widget__list">
             {{- range first $recent_num $recentToShow }}
                 {{- if ne . $currentPost }}
-                    <li class="widget__item {{ with .Params.categories }}{{.}}{{ end }}">
+                    <li class="widget__item">
                         <a class="widget__link" href="{{ .RelPermalink }}">
                             {{ .Title }}
                             {{- with .Params.thumbnail }}
