@@ -6,7 +6,11 @@
 {{- if not .IsHome }}
     {{- $recentToShow = $recent }}
 {{- else }}
-    {{- $recentToShow = after 10 $recent }}
+    {{- if and .IsHome .Paginator.HasNext }}
+        {{- $recentToShow = after 10 $recent }}
+    {{- else }}
+        {{- $recentToShow = $recent }}
+    {{- end }}
 {{- end }}
 
 {{- $filteredRecent := slice }}
@@ -18,7 +22,7 @@
 
 {{- if gt (len $filteredRecent) 0 }}
     {{- $thumbnailPrefix := "" }}
-    {{- if and .IsHome (isset .Paginator "PageNumber") (gt .Paginator.PageNumber 1) }}
+    {{- if and .IsHome .Paginator.HasNext }}
         {{- $thumbnailPrefix = "../" }}
     {{- end }}
 
