@@ -27,7 +27,11 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                <img loading="lazy" src="{{ if ge (len (split .RelPermalink "/")) 3 }}../../../{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                {{- if .Page }}
+                                    <img loading="lazy" src="{{ if ge (len (split .Page.RelPermalink "/")) 3 }}../../../{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                {{- else }}
+                                    <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                {{- end }}
                             </div>
                         {{- end }}
                     </a>
