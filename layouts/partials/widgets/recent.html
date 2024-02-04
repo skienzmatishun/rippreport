@@ -1,26 +1,21 @@
 {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
 
-{{- $recentToShow := $recent }}
-{{- if not .IsHome }}
-    {{- $recentToShow = after 6 $recent }}
-{{- end }}
-
-{{- if $recentToShow }}
+{{- if and (not .IsHome) $recent }}
 <div class="widget-recent widget">
     <h4 class="widget__title">{{ T "recent_title" }}</h4>
     <div class="widget__content">
         <ul class="widget__list">
-            {{- range first $recent_num $recentToShow }}
+            {{- range first $recent_num $recent }}
             <li class="widget__item">
                 <a class="widget__link" href="{{ .RelPermalink }}">
                     {{ .Title }}
-                    {{- with .Params.thumbnail }}
-                    <div style="min-height:200px;" class="widget__thumbnail">
-                        <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
-                    </div>
-                    {{- end }}
-                </a>
+                {{- with .Params.thumbnail }}
+                <div style="min-height:200px;" class="widget__thumbnail">
+                    <img loading="lazy" src="../../{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
+                </div>
+				                </a>
+                {{- end }}
             </li>
             {{- end }}
         </ul>
