@@ -3,7 +3,7 @@ title: "EARFUL"
 date: 2023-10-23T00:00:00Z
 thumbnail: "img/earful.png"
 categories: 
-  - monday-madness
+  - dwtd
 authors: 
   - admin
 ---
