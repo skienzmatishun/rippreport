@@ -31,7 +31,7 @@
                         {{ .Title }}
                         {{- with .Params.thumbnail }}
                             <div style="min-height:200px;" class="widget__thumbnail">
-                                <img loading="lazy" src="{{ if eq 1 $currentPageNum }}../../{{ else }}{{ printf "../%s" . }}{{ end }}" alt="Thumbnail" class="widget__thumbnail-image">
+                                <img loading="lazy" src="{{ if and (eq 1 $currentPageNum) (ne .PageNumber 1) }}../../../{{ else }}../../{{ end }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
                             </div>
                         {{- end }}
                     </a>
