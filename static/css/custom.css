@@ -18,12 +18,22 @@ blockquote {
 .backstory__header h1 {
     color: black !important;
 }
-.dwtd__primary nav.pager.flex div.pager__item.pager__item--prev a.pager__link, .dwtd__primary nav.pager.flex div.pager__item.pager__item--next a.pager__link {
-color:white !important;
+
+.dwtd__primary nav.pager.flex div.pager__item.pager__item--prev a.pager__link,
+.dwtd__primary nav.pager.flex div.pager__item.pager__item--next a.pager__link {
+    color: white !important;
+}
+
+.dwtd__widget__item {
+    background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
+}
+
+.backstory__widget__item {
+    background: #5083df
 }
 
 nav.pager.flex {
-    border:0;
+    border: 0;
 }
 
 .list__item.post.dwtd {
@@ -45,12 +55,15 @@ nav.pager.flex {
     background: #333 !important;
     color: white !important;
 }
+
 .dwtd__primary {
-background:#333 !important;
+    background: #333 !important;
 }
+
 .dwtd__pager__link {
-color:white !important;
+    color: white !important;
 }
+
 .backstory__primary {
     background: #dae5f8 !important;
 }
@@ -239,8 +252,8 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 }
 
 .thumbnail {
-    margin:0;
-    min-height:325px;
+    margin: 0;
+    min-height: 325px;
 }
 
 .thumbnail__video {
@@ -415,9 +428,9 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
 }
 
 @media screen and (min-width:1200px) {
-    .thumbnail{
-        min-height:400px;
-}
+    .thumbnail {
+        min-height: 400px;
+    }
 }
 
 @media screen and (max-width:620px) {
@@ -426,9 +439,11 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
         width: 25px;
         background-size: contain;
     }
-.thumbnail {
-    min-height:271px;
-}
+
+    .thumbnail {
+        min-height: 271px;
+    }
+
     .list__header .list__meta .meta__item-datetime {
         position: relative;
         left: initial;
@@ -537,7 +552,7 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
 
 @media screen and (max-width:400px) {
     .thumbnail {
-        min-height:165px;
+        min-height: 165px;
     }
 }
 
