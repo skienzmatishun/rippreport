@@ -18,7 +18,7 @@ blockquote {
 .backstory__header h1 {
     color: black !important;
 }
-div.primary.dwtd__primary nav.pager.flex {
+.dwtd__primary nav.pager.flex div.pager__item.pager__item--prev a.pager__link, .dwtd__primary nav.pager.flex div.pager__item.pager__item--next a.pager__link {
 color:white !important;
 }
 
