@@ -528,7 +528,7 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
     }
 }
 
-@media screen and (max-width:352px) {
+@media screen and (max-width:400px) {
     .thumbnail {
         min-height:165px;
     }
