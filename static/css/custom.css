@@ -20,13 +20,7 @@ blockquote {
     background: rgb(5 8 11 / 84%);
     margin: 0;
 }
-.btn {
-    text-align: center;
-    font-size: 1.5rem;
-}
-nav.pager.flex {
-    border: 0;
-}
+
 
 .dwtd__primary nav.pager.flex div.pager__item.pager__item--prev a.pager__link,
 .dwtd__primary nav.pager.flex div.pager__item.pager__item--next a.pager__link {
@@ -37,6 +31,9 @@ nav.pager.flex {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
 }
 
+nav.pager.flex {
+    border: 0;
+}
 
 .list__item.post.dwtd {
     background: #15171b;
@@ -57,6 +54,8 @@ nav.pager.flex {
 .dwtd__pager__link {
     color: white !important;
 }
+
+
 
 .dwtd__header {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
@@ -201,14 +200,9 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 }
 
 
-
-
-.backstory__header h1 {
-    color: black !important;
-}
-
-.backstory__widget__item {
-    background: #5083df !important;
+.btn {
+    text-align: center;
+    font-size: 1.5rem;
 }
 
 .backstory__btn {
