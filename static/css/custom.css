@@ -22,6 +22,10 @@ blockquote {
 color:white !important;
 }
 
+.dwtd__primary nav.pager.flex {
+    border:0;
+}
+
 .list__item.post.dwtd {
     background: #15171b;
     color: white;
