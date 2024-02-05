@@ -57,17 +57,20 @@
 		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
 		<div class="wrapper flex">
 			<div class="primary
-			{{ if in .Params.categories " dwtd" }}dwtd__primary{{ end }} {{ if in .Params.categories "backstory-podcast"
-				}}backstory__primary{{ end }} ">
-				{{ block " main" . }} {{ with .Content }} <div class="content main__content clearfix">
-				{{ . }}
+				{{ if in .Params.categories "dwtd" }}dwtd__article{{ end }}
+	{{ if in .Params.categories "backstory-podcast" }}backstory__article{{ end }}
+			">
+				{{ block "main" . }}
+				{{ with .Content }}
+				<div class="content main__content clearfix">
+					{{ . }}
+				</div>
+				{{ end }}
+				{{ end }}
 			</div>
-			{{ end }}
-			{{ end }}
+			{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
 		</div>
-		{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
-	</div>
-	{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
 	</div>
 	{{ range .Site.Params.customJS -}}
 	<script src="{{ . | relURL }}"></script>
