@@ -4,7 +4,6 @@ body {
 
 p {
     font-size: 1rem;
-    margin-top: 1em;
 }
 
 blockquote {
@@ -15,20 +14,21 @@ blockquote {
     background: #232222;
     max-height: 125px;
 }
-.sidebar {
-    padding: 1em;
-    background: rgb(5 8 11 / 84%);
-    margin: 0;
-}
 
+.backstory__header h1 {
+    color: black !important;
+}
 
 .dwtd__primary nav.pager.flex div.pager__item.pager__item--prev a.pager__link,
 .dwtd__primary nav.pager.flex div.pager__item.pager__item--next a.pager__link {
     color: white !important;
 }
-
 .dwtd__widget__item {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
+}
+
+.backstory__widget__item {
+    background: #5083df !important;
 }
 
 nav.pager.flex {
@@ -41,6 +41,14 @@ nav.pager.flex {
     position: relative;
 }
 
+
+.backstory__header {
+    background: #5083df !important;
+}
+
+.backstory__article {
+    background: #dae5f8 !important;
+}
 
 .dwtd__article {
     background: #333 !important;
@@ -55,7 +63,9 @@ nav.pager.flex {
     color: white !important;
 }
 
-
+.backstory__primary {
+    background: #dae5f8 !important;
+}
 
 .dwtd__header {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
@@ -98,9 +108,14 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     background: #830000;
 }
 
-.content.post__content.dwtd-wrapper.clearfix a {
-    color:#f86666;
+.backstory__btn {
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+    background-color: #5083df !important;
+    color: black !important;
+    text-align: center;
 }
+
 .post__meta {
     border: none;
 }
@@ -159,6 +174,12 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     color: white;
 }
 
+.backstory__post .list__header .list__meta .meta__item-datetime {
+    position: relative;
+    left: 40%;
+    top: initial;
+    color: black;
+}
 
 .post__header .post__title {
     color: white;
@@ -201,36 +222,6 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     display: none;
 }
 
-
-.btn {
-    text-align: center;
-    font-size: 1.5rem;
-}
-
-.backstory__btn {
-    font-family: 'Amatic SC', cursive;
-    font-size: 2rem;
-    background-color: #5083df !important;
-    color: black !important;
-    text-align: center;
-}
-.backstory-social {
-    filter: invert(1);
-    align-items: center;
-    display: flex;
-    margin: 10px;
-}
-
-.backstory__header {
-    background: #5083df !important;
-}
-
-.backstory__article {
-    background: #dae5f8 !important;
-}
-.backstory__primary {
-    background: #dae5f8 !important;
-}
 .backstory__title {
     font-family: 'Amatic SC', cursive;
     font-size: 70px;
@@ -238,6 +229,10 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     text-align: center;
 }
 
+.btn {
+    text-align: center;
+    font-size: 1.5rem;
+}
 
 .backstory__post .list__header {
     background: transparent;
@@ -245,13 +240,6 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 }
 
 .backstory__post .list__header a {
-    color: black;
-}
-
-.backstory__post .list__header .list__meta .meta__item-datetime {
-    position: relative;
-    left: 40%;
-    top: initial;
     color: black;
 }
 
@@ -274,6 +262,11 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     background-color: #284170;
 }
 
+.sidebar {
+    padding: 1em;
+    background: rgb(5 8 11 / 84%);
+    margin: 0;
+}
 
 .pagination {
     padding: 10px;
@@ -283,12 +276,10 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     border: none;
     background: #474747;
     margin-bottom: 15px;
-    padding: 0px 0px 20px 0px;
+    padding:0px 0px 20px 0px;
 }
 
-.meta__item-datetime {
-    display: none;
-}
+.meta__item-datetime {display:none;}
 
 .widget__item a {
     color: white;
@@ -323,12 +314,20 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
     background: transparent;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+}
+
 .title-logo,
 a.logo__link span {
     font-size: 3em;
     color: white;
 }
 
+.list__excerpt {
+    font-size: 20px;
+}
 
 .widget-recent {
     margin-top: 20px;
@@ -341,10 +340,10 @@ a.logo__link span {
 .list__excerpt {
     padding: 2em;
 }
-.list__excerpt {
-    font-size: 20px;
-}
 
+p {
+    margin-top: 1em;
+}
 
 .post__header,
 .main__header,
@@ -373,6 +372,12 @@ a.logo__link span {
     opacity: .9;
 }
 
+.backstory-social {
+    filter: invert(1);
+    align-items: center;
+    display: flex;
+    margin: 10px;
+}
 
 main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
     display: none;
