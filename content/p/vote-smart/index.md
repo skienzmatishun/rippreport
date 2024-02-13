@@ -17,7 +17,7 @@ https://rippreport.com/p/catalyst-aka-scott-boone-consulting/
 Whatever name you call it, GOB or Catalyst, the purpose is clear-- Place select candidates in positions that will tow the line for the status quo, the good ole boys.
 
 
-<h4>BOARD OF EDUCATION DISTRICT 2</h4>
+#### BOARD OF EDUCATION DISTRICT 2
 
 
 CARRIE HOSIER, Is not Catalyst. She represents the parents and will answer parents' concerns. She is the candidate that has no baggage. She is not the rubber stamp vote School Superintendent Tyler wants. CARRIE is the polar opposite of her opponent, she did not switch parties in order to run. She has not sold her soul for donations that come with “conditions”. CARRIE represents transparency and parents.
@@ -32,7 +32,7 @@ It is YOUR choice, CARRIE, who will represent the parents and answer your questi
 Or the Catalyst Candidate, the rubber stamp of Eddie and Gray? The party switcher and developers choice?
 
 
-<h4>CIRCUIT CLERK</h4>
+#### CIRCUIT CLERK ####
 
 
 Circuit Clerk of Baldwin County is a position that the GOB, Catalyst, have controlled for years. Baldwin County deserves better. KIM EARL is the answer. New eyes, new ideas, independent thinking that is what Baldwin County deserves. We need to break the corrupt cycle that has had a stranglehold on Baldwin county citizens for decades. Kim has 35 years in the Circuit Clerk's office, she knows what needs to change because she has been a witness to the Good Ole Boys of Baldwin County and their self serving priorities.
