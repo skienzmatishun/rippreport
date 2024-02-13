@@ -1,7 +1,7 @@
 ---
 title: "VOTE SMART"
 date: 2024-02-13
-thumbnail: "vote-smart.jpg"
+thumbnail: "img/vote-smart.jpg"
 categories: 
   - freaky-friday
 authors: 
