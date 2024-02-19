@@ -13,7 +13,7 @@ The one thing that the good ole boys, GOB, of Baldwin have down pat is walking t
 This was submitted to the Ripp Report by a concerned citizen:
 
 
-*** smells bad but is not illegal. ***
+**smells bad but is not illegal.**
 
 >Andrea Lindsey, incumbent Daphne school board member seeking reelection, received a $1000 campaign donation (verified by State campaign finance reports) from Superintendent Tyler’s wife on Jan 17.   On Jan 18 at the school board meeting (video available to verify) Ms Lindsey seconded the motion to give Mrs Tyler a promotion and then voted for the motion.  Additionally and I don’t have documentation on this, the required credentials for this position were changed a few months earlier so Mrs Tyler could qualify."
 
