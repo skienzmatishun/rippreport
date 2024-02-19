@@ -32,3 +32,5 @@ Carrie is the underdog in this race because she is NOT and will NOT be a rubber 
 VOTE MARCH 5th
 
 <img src="img/carrie.jpg" />
+
+{{< chat smell-test >}}
