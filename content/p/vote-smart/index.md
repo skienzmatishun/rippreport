@@ -10,7 +10,8 @@ authors:
 
 How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win. He represented the most hardened of the Baldwin County good ole boys, GOB. Then came Stacy Haygood and Elliott, Haygood became Mayor of Daphne and Elliott became a county commissioner. The name changed again to Catalyst. When that name began to stink the GOB changed the name again to Scott Boone Consulting, the stink remained.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02VnFgCw3wcVLeGmtsLpYZPG4vZwdvtreRiNCHhziTJm9syGEWXjPJm6jfrpHpRK79l&show_text=true&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<span id="rippreport.bsky.social-3klxkajdsfm25"></span>
+<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.bsky.social" data-skeet="3klxkajdsfm25" ></script>
 
 Whatever name you call it, GOB or Catalyst, the purpose is clear-- Place select candidates in positions that will tow the line for the status quo, the good ole boys.
 
