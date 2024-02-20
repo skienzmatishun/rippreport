@@ -244,6 +244,8 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 
 .backstory__post .list__header a {
     color: black;
+    font-family: 'Amatic SC', cursive !important; 
+
 }
 
 #loader {
