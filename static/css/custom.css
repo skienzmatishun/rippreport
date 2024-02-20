@@ -366,6 +366,7 @@ p {
     display: flex;
     justify-content: center;
     margin:0;
+    font-family:"Roboto";
 }
 
 .meta__text {
