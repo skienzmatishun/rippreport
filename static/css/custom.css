@@ -175,6 +175,9 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 .post__header {
     background: #292929;
     color: white;
+    display: flex;
+    justify-content: center;
+  
 }
 
 .backstory__post .list__header .list__meta .meta__item-datetime {
