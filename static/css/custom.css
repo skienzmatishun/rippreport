@@ -100,11 +100,11 @@ nav.pager.flex {
     color: white;
 }
 
-article.list__item.post.dwtd header.list__header {
+.dwtd header.list__header {
     background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
 }
 
-article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.btn {
+.dwtd div.list__footer.clearfix a.list__footer-readmore.btn {
     background: #830000;
 }
 
