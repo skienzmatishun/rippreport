@@ -245,7 +245,7 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 .backstory__post .list__header a {
     color: black;
     font-family: 'Amatic SC', cursive !important; 
-
+display:flex;
 }
 
 #loader {
@@ -363,6 +363,9 @@ p {
 
 .post__title {
     margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    margin:0;
 }
 
 .meta__text {
