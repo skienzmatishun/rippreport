@@ -148,6 +148,9 @@ article.list__item.post.dwtd div.list__footer.clearfix a.list__footer-readmore.b
 
 .list__title a {
     color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .list__thumbnail img {

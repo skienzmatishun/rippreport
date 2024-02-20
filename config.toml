@@ -22,7 +22,7 @@ logo = "https://rippreport.com/img/eagle.png"
   mathjax = false
   opengraph = true
   customCSS = ["css/custom.css"] # Include custom CSS files
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Vina+Sans&?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
