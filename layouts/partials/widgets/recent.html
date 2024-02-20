@@ -26,7 +26,7 @@
             {{- if and .Params.thumbnail (ne .Page nil) (eq (printf "%T" .Page) "*hugolib.page") }}
             {{- $thumbnailURL = "../../" }}
             {{- end }}
-            <li class="widget__item {{ if in .Params.categories " dwtd" }}dwtd__widget__item{{ else if in
+            <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in
                 .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
                 <a class="widget__link" href="{{ .RelPermalink }}">
                     {{ .Title }}
