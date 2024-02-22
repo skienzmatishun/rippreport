@@ -1,7 +1,7 @@
 ---
 title: "ALABAMA ATTORNEY GENERAL"
 date: 2024-02-22
-thumbnail: "img/alabama-attorney-general.jpg"
+thumbnail: "img/alabama-attorney-general1.jpg"
 categories: 
   - freaky-friday
 authors: 
