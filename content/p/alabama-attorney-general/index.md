@@ -11,7 +11,7 @@ authors:
 Reference: Mabel Amos Trust
 
 
-Attention Mr Marshall
+Attention Mr Marshall, 
 
 
 Mr. Marshall if you steal 10 dollars worth of goods from Wal-Mart, and are caught, you will be arrested and taken to jail. A teacher, under current ethics law, can’t be gifted anything worth more than 32 dollars, and they could face ethics charges.
