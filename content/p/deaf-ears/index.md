@@ -140,7 +140,8 @@ The Ripp Reporter
 
 ----
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0917M7bpUf5SCn83TjyWAGSsLGb4LkjA2mXvGe82Ph6m7T6MdQoSp9guNR8dUjSawl&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<span id="rippreport.bsky.social-3km4knktq5t2h"></span>
+<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.bsky.social" data-skeet="3km4knktq5t2h" ></script>
 
 {{< chat alagasdasd27 >}}
 
