@@ -11,7 +11,8 @@ authors:
 
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid02kjbBzsocaGjqDDEe3p3SDPUTbrnvjiRW1vZk8wgYobB6Sn5kRarD7R4Ff3Fd232bl&show_text=true&width=500" width="500" height="519" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<span id="rippreport.bsky.social-3km4jxnw46526"></span>
+<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.bsky.social" data-skeet="3km4jxnw46526" ></script>
 
 More than 18 years after Murray “Bubba” Lawrence Jr. was sentenced to life without parole for the 2003 murder of a Baldwin County man, criminal rights advocates have unearthed a second autopsy of victim Brandon Hastings that was ordered by the district attorney and signed by the judge overseeing the case, but never revealed during the trial. 
 
@@ -46,7 +47,8 @@ The below article was written by Lagniappe’s Scott Johnson and it is accurate 
 
 Haygoods response is riddled with inaccuracies, wrong dates and outright deliberate omissions and misleading statements. These are the same characteristics that the prosecutor and sheriff employed in the wrongful conviction of Murray Lawrence.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A man serving a life sentence for the 2003 murder of Foley resident Brandon Hastings is petitioning for a new trial, claiming prosecutors failed to disclose a second autopsy of<a href="https://t.co/i7JClPX2v1">https://t.co/i7JClPX2v1</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1750906932607570029?ref_src=twsrc%5Etfw">January 26, 2024</a></blockquote>
+<span id="rippreport.bsky.social-3km4k2vudns24"></span>
+<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.bsky.social" data-skeet="3km4k2vudns24" ></script>
 
 “(I have) no explanation for why this report was not disclosed. It was certainly a violation of the discovery order in this case for the state not to disclose this second autopsy report,” Haygood stated in the objection.
 
@@ -76,7 +78,8 @@ Haygood, Fairhope Police, the Judge, Prosecutor and Sheriff all were aware of th
 
 Mr. Hastings was not killed by a gunshot, this was the narrative created by prosecutor David Whetstone, Mr Hastings was suffocated. Mr. Whetstone bragged years later how he proved the autopsy report and coroner in Mississippi were wrong and his theory of gunshot was correct.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Experts: DA&#39;s maneuverings suggest autopsy in Stephen Nodine case could damage prosecution<a href="https://t.co/QvYtxJZjal">https://t.co/QvYtxJZjal</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1750905253627605080?ref_src=twsrc%5Etfw">January 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<span id="rippreport.bsky.social-3km4k4t2ti42a"></span>
+<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.bsky.social" data-skeet="3km4k4t2ti42a" ></script>
 
 The Judge, Robert Wilters and lead investigator Lt. Hoss Mack went along with the prosecution, even to the extent of withholding evidence from the defense.
 
