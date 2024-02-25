@@ -140,7 +140,7 @@ The Ripp Reporter
 
 ----
 
-<span id="rippreport.bsky.social-3km4knktq5t2h"></span>
+<span id="rippreport.com-3km4knktq5t2h"></span>
 <script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.bsky.social" data-skeet="3km4knktq5t2h" ></script>
 
 {{< chat alagasdasd27 >}}
