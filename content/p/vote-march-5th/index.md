@@ -1,7 +1,7 @@
 ---
 title: "VOTE MARCH 5th"
 date: 2024-03-01
-thumbnail: "../../img/vote-march-5th.webp"
+thumbnail: "img/vote-march-5th.jpg"
 categories: 
   - freaky-friday
 authors: 
