@@ -1,7 +1,7 @@
 ---
 title: "LEE COUNTY NO-JUSTICE CENTER"
 date: 2024-03-11
-thumbnail: "lee-county-no-justice-center.jpg"
+thumbnail: "img/lee-county-no-justice-center.jpg"
 categories: 
   - freaky-friday
 authors: 
