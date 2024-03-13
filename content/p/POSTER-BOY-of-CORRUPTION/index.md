@@ -1,5 +1,5 @@
 ---
-title: "FAUXHOPE TUNNEL"
+title: "STEALING FROM KIDS"
 date: 2024-03-13
 thumbnail: "img/stealing-from-kids.jpg"
 categories: 
