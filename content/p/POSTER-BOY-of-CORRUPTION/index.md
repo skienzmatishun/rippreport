@@ -1,5 +1,5 @@
 ---
-title: "STEALING FROM KIDS"
+title: "POSTER BOY OF CORRUPTION"
 date: 2024-03-13
 thumbnail: "img/stealing-from-kids.jpg"
 categories: 
