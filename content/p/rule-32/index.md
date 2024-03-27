@@ -2,6 +2,7 @@
 title: "RULE 32"
 date: 2023-12-14
 thumbnail: "img/rule-32.jpg"
+summary "Murray Lawrence was wrongly convicted and has been in jail for over 20 years. New evidence suggests his innocence, and a legal filing has been submitted to challenge his conviction."
 categories: 
   - thursday-thunder
   - dwtd
