@@ -36,6 +36,9 @@
                             class="widget__thumbnail-image">
                     </div>
                     {{- end }}
+                    {{- if .IsHome }}
+                    <p class="widget__summary">{{ .Summary }}</p>
+                    {{- end }}
                 </a>
             </li>
             {{- end }}
