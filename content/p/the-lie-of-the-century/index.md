@@ -2,6 +2,7 @@
 title: "The Lie of The Century"
 date: 2023-12-12
 thumbnail: "img/the-lie-of-the-century.jpg"
+summary: "Murray Lawrence was convicted of capital murder based on a co-conspirator's testimony, despite no physical evidence and a conflicting autopsy report that was withheld from his defense. The case raises questions about potential misconduct within Baldwin County's legal system. Also, we praise a sleazy documentary"
 categories: 
   - backstory-podcast
 authors: 
