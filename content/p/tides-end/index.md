@@ -2,6 +2,7 @@
 title: "Tide's End"
 date: 2024-01-18
 thumbnail: "img/tides-end.jpg"
+summary: "Alabama Football Drama: Coach Nick Saban left, and Auburn alums hope for a Tubberville-like era. A new coach is already in place. Judge Wilters, a District Attorney, responded to a petition about withheld information. A Federal Court dismissed a lawsuit related to Coal Ash. A winter storm is canceling schools in Alabama after a sunny Martin Luther King Jr parade."
 categories: 
   - backstory-podcast
 authors: 
