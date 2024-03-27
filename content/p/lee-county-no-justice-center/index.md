@@ -2,6 +2,7 @@
 title: "LEE COUNTY NO-JUSTICE CENTER"
 date: 2024-03-11
 thumbnail: "img/lee-county-no-justice-center.jpg"
+summary: "Justice Centers, often hailed as a step toward fairness and efficiency, are cropping up in communities across the country. But what happens when the very institutions meant to uphold justice become entwined in a fraternity-like atmosphere? In this article, we delve into the dynamics of these centers, where police and courts intersect, and explore the potential implications for due process and accountability."
 categories: 
   - freaky-friday
 authors: 
