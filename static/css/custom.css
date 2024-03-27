@@ -443,7 +443,7 @@ main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.
     display: none;
 }
 
-.backstory__widget__item p.widget__summary {color:white;padding:.5rem;}
+.backstory__widget__item p.widget__summary, .dwtd__widget__item p.widget__summary {color:white;padding:1rem;}
 
 @media screen and (min-width:1200px) {
     .thumbnail {
