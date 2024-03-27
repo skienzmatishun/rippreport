@@ -21,10 +21,10 @@
 		{{ .Summary }}
 	</div>
 	{{- if .Site.Params.readmore }}
-	{{- if .Truncated }}
+	
 	<div class="list__footer clearfix">
 		<a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}" href="{{ .RelPermalink }}">More</a>
 	</div>
 	{{- end }}
-	{{- end }}
+	
 </article>
