@@ -2,6 +2,7 @@
 title: "Baldwin County Judicial Corruption"
 date: 2023-12-07
 thumbnail: "img/baldwin-county-judicial-corruption.jpg"
+summary: "Citizens in Baldwin County have questioned the Sheriff's office for mishandling criminal cases and deaths, alleging a cover-up by the department and a corrupt judicial system that has wrongly convicted at least one person. New evidence suggests the Sheriff, District Attorney, and a Judge conspired to suppress evidence that exonerates a man incarcerated for 20 years."
 categories: 
   - thursday-thunder
   - dwtd
