@@ -2,6 +2,7 @@
 title: "SMELL TEST"
 date: 2024-02-19
 thumbnail: "img/smell-test.jpg"
+summary: "The "good ole boys" (GOB), are known for prioritizing getting their preferred candidate elected even if it means bending the rules. They don't mind conflicts of interest, unethical behavior, or questionable tactics as long as they stay on the legal side, barely. Even switching political parties doesn't matter to them."
 categories: 
   - monday-madness
 authors: 

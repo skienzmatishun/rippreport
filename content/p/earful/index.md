@@ -2,6 +2,7 @@
 title: "EARFUL"
 date: 2023-10-23T00:00:00Z
 thumbnail: "img/earful.png"
+summary: "The narrative of the wrongful conviction of Murray Lawrence Jr., A Verbal Lynching in Alabama, has been recorded for a podcast. For further information: deal-with-the-devil.com."
 categories: 
   - dwtd
 authors: 
