@@ -2,6 +2,7 @@
 title: "STEALING FROM KIDS"
 date: 2023-11-04
 thumbnail: "img/stealing-from-kids.jpg"
+summary: "Alabama faces accusations of corruption, particularly concerning the head of the Ethics Commission who remains in his position despite legal issues. The lawsuit against him raises concerns about a potential cover-up and lack of accountability within the state's legal system."
 categories: 
   - saturday-sunshine
 authors: 

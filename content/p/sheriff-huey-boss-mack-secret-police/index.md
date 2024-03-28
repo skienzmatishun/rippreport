@@ -2,6 +2,7 @@
 title: "SHERIFF HUEY “BOSS” MACK - SECRET POLICE"
 date: 2021-10-01
 thumbnail: "sheriff-huey-boss-mac-secret-police.jpg"
+summary:"Sheriff Mack is in hot water.  Reports are swirling that he's mishandled recent deaths involving citizens, and some folks are pointing fingers.  The accusations? A lack of transparency from the Sheriff's office, and a cloud of secrecy surrounding these incidents.  Sounds fishy, right?  Let's dive deeper and see what we can uncover."
 categories: 
   - freaky-friday
 authors: 
