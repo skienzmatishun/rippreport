@@ -1,7 +1,7 @@
 ---
 title: "ROUND HOUSE SQUARE HEADS"
 date: 2023-12-01T00:00:00Z
-summary: "The author of a book about the Montrose Hut is proposing to move it, but the author seems to think it's a real estate deal to benefit the owner and city councilman Boone, who is accused of being part of a political machine. The city is looking for donations to cover the moving cost."
+summary: "The author of a book about the Montrose Hut is proposing to move it, but it's a real estate deal to benefit the owner and city councilman Boone, who is accused of being part of a political machine. The city is looking for donations to cover the moving cost."
 thumbnail: "img/round-house-blockheads.jpg"
 categories: 
   - freaky-friday
