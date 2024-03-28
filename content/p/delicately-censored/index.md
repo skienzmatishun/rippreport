@@ -2,6 +2,7 @@
 title: "Delicately Censored"
 date: 2023-11-23
 thumbnail: "img/delicately-censored.jpg"
+summary: "This week covers controversies surrounding free speech online, with Elon Musk removing content and lawsuits targeting media outlets. It also details legal developments in Alabama, including a car seizure and a lawsuit settlement."
 categories: 
   - backstory-podcast
 authors: 
