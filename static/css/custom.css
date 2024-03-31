@@ -4228,6 +4228,9 @@ textarea.input {
   border-bottom: black 3px solid;
   border-top: black 3px solid;
   }
+  .list__title a {
+    color:black;
+  }
 
   .dwtd header.list__header h2.list__title.post__title {
   background: transparent;
