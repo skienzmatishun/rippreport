@@ -4251,5 +4251,6 @@ textarea.input {
     padding:0;
   transform: none;
   box-shadow: none;
-  min-width:none;
+  min-width:0;
 }
+.main-list {overflow:hidden;}
