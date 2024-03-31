@@ -4257,7 +4257,7 @@ textarea.input {
   min-width:0;
 }
 .main-list {overflow:hidden;}
-.backstory__title {background:transparent;border:none;}
+.backstory__title h1 {background:transparent;border:none;}
 header.post__header h1.post__title {
     background: transparent;
     border-bottom: black 3px solid;
