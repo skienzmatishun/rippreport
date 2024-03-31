@@ -4260,6 +4260,7 @@ textarea.input {
 {
     background:transparent;
 }
+.primary {overflow:hidden};
 .main-list {overflow:hidden;}
 .backstory__title h1 {background:transparent;border:none;}
 header.post__header h1.post__title {
