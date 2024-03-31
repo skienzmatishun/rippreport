@@ -4306,3 +4306,8 @@ h2.backstory__title {
     background: #5083df;
     border:none;   
 }
+.backstory__post .list__header {
+    background:  #5083df;
+    color: black;
+    box-shadow: none;
+}  
