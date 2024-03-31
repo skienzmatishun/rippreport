@@ -4220,9 +4220,6 @@ textarea.input {
     transform: rotate(1deg);
 }
 
-.list__header:nth-child(even) {
-    transform: rotate(-1deg);
-}
 
 .backstory__article article.post header.post__header {
     background: #5083df;
@@ -4242,6 +4239,15 @@ header.post__header h1.post__title {
     background: transparent;
     border: 3px solid black;
 }
+
+.holiday{
+background: transparent;
+box-shadow: none;
+transform: initial;
+background: #1087e3;
+padding-bottom: 0.5px;
+}
+
 .dwtd header.list__header h2.list__title.post__title,
 .dwtd header.list__header h2.list__title.list__title a {
     background: transparent;
