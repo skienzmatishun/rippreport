@@ -1,30 +1,31 @@
-<article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "dwtd" }}dwtd{{ end }}">
+<article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "dwtd" }}dwtd{{ end }} {{ if not in .Params.categories "backstory-podcast"  and not in .Params.categories "dwtd" }}ripp{{ end }}">
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
 	<header class="list__header">
-		<h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}">
-			<a href="{{ .RelPermalink }}" rel="bookmark">
-			{{ .Title }}
-			</a>
-		</h2>
-		{{- if in .Params.categories "dwtd" }}
+	  <h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}">
+		<a href="{{ .RelPermalink }}" rel="bookmark">
+		  {{ .Title }}
+		</a>
+	  </h2>
+	  {{- if in .Params.categories "dwtd" }}
 		<a href="https://deal-with-the-devil.com"><div class="dwtd__link">
 		</div></a>
-		{{- end }}
-		{{- with .Params.lead }}
+	  {{- end }}
+	  {{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
-		{{- end }}
-		{{ with partial "post_meta.html" . -}}
+	  {{- end }}
+	  {{ with partial "post_meta.html" . -}}
 		<div class="list__meta meta">{{ . }}</div>
-		{{- end }}
+	  {{- end }}
 	</header>
 	<div class="content list__excerpt post__content clearfix">
-		{{ .Summary }}
+	  {{ .Summary }}
 	</div>
 	{{- if .Site.Params.readmore }}
 	
 	<div class="list__footer clearfix">
-		<a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}" href="{{ .RelPermalink }}">More</a>
+	  <a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}" href="{{ .RelPermalink }}">More</a>
 	</div>
 	{{- end }}
 	
-</article>
+  </article>
+  
