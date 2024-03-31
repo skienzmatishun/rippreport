@@ -4212,7 +4212,6 @@ textarea.input {
     color: black;
     padding: 0;
     min-width: 105%;
-    height: 108px;
     background: repeating-linear-gradient( 45deg, black, black 50px, #eaea00 50px, #d5be00 100px );
     padding-top: 20px;
     padding-bottom: 20px;
@@ -4241,6 +4240,16 @@ textarea.input {
   .dwtd header.list__header{
     padding:0;
   transform: initial;
-    
   box-shadow: none;
+}
+
+  .dwtd header.list__header h2.list__title.list__title a {
+    color: white;
+  }
+  .dwtd header.list__header{
+    margin:0;
+    padding:0;
+  transform: none;
+  box-shadow: none;
+  min-width:none;
 }
