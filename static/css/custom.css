@@ -4259,6 +4259,8 @@ textarea.input {
 .dwtd__header h1.post__title
 {
     background:transparent;
+    border:none;
+    
 }
 .primary {overflow:hidden};
 .main-list {overflow:hidden;}
