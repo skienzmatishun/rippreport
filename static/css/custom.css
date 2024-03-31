@@ -4293,3 +4293,12 @@ padding-bottom: 0.5px;
     border-width: 0;
 }
 h1.post__title {border:none !important;}
+
+.holiday header.list__header {
+    background: transparent;
+    box-shadow: none;
+}
+.holiday header.list__header h2.list__title.post__title{
+    border:none;
+    background: #79ade4;
+}
