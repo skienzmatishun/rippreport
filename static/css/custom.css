@@ -4207,3 +4207,40 @@ textarea.input {
         transform: rotate(1turn)
     }
 }
+
+.list__header {
+    color: black;
+    padding: 0;
+    min-width: 105%;
+    height: 108px;
+    background: repeating-linear-gradient( 45deg, black, black 50px, #eaea00 50px, #d5be00 100px );
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transform: rotate(1deg);
+    margin-left: -10px;
+    margin-top: -10px;
+    box-shadow: #0006 5px 5px 25px;
+  }
+  .backstory__article article.post header.post__header {
+    background:#5083df;
+  }
+  .post__title {
+  background: #d5be00;
+  border-bottom: black 3px solid;
+  border-top: black 3px solid;
+  }
+
+  .dwtd header.list__header h2.list__title.post__title {
+  background: transparent;
+  border:none;
+  }
+
+  .dwtd header.list__header h2.list__title.list__title a {
+    color: white;
+  }
+  .dwtd header.list__header{
+    padding:0;
+  transform: initial;
+    
+  box-shadow: none;
+}
