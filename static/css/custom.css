@@ -4302,3 +4302,7 @@ h1.post__title {border:none !important;}
     border:none;
     background: #79ade4;
 }
+h2.backstory__title {
+    background: #5083df;
+    border:none;   
+}
