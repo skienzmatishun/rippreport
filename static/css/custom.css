@@ -4256,6 +4256,10 @@ textarea.input {
   box-shadow: none;
   min-width:0;
 }
+.dwtd__header h1.post__title
+{
+    background:transparent;
+}
 .main-list {overflow:hidden;}
 .backstory__title h1 {background:transparent;border:none;}
 header.post__header h1.post__title {
