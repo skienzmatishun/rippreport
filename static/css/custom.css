@@ -4235,6 +4235,7 @@ textarea.input {
 
 .list__title a {
     color: black;
+    max-width:97%;
 }
 
 header.post__header h1.post__title {
