@@ -4214,14 +4214,10 @@ textarea.input {
     background: repeating-linear-gradient(45deg, black, black 50px, #eaea00 50px, #d5be00 100px);
     padding-top: 20px;
     padding-bottom: 20px;
+    transform: rotate(1deg);
     margin-left: -10px;
     margin-top: -10px;
     box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.6);
-    transform: rotate(1deg);
-}
-
-.list__header:nth-child(even) {
-    transform: rotate(-1deg);
 }
 
 .backstory__article article.post header.post__header {
@@ -4286,3 +4282,5 @@ header.post__header h1.post__title {
     border: none;
     border-width: 0;
 }
+
+
