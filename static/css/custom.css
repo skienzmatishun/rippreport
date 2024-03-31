@@ -4257,3 +4257,8 @@ textarea.input {
   min-width:0;
 }
 .main-list {overflow:hidden;}
+header.post__header h1.post__title {
+    background: transparent;
+    border-bottom: black 3px solid;
+    border-top: black 3px solid;
+    }
