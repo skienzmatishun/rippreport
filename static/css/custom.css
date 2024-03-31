@@ -4231,7 +4231,11 @@ textarea.input {
   .list__title a {
     color:black;
   }
-
+  header.post__header h1.post__title {
+    background: transparent;
+    border-bottom: black 3px solid;
+    border-top: black 3px solid;
+    }
   .dwtd header.list__header h2.list__title.post__title {
   background: transparent;
   border:none;
@@ -4248,6 +4252,7 @@ textarea.input {
 
   .dwtd header.list__header h2.list__title.list__title a {
     color: white;
+    border:none;
   }
   .dwtd header.list__header{
     margin:0;
@@ -4260,13 +4265,9 @@ textarea.input {
 {
     background:transparent;
     border:none;
-    
+border-width:0;
 }
 .primary {overflow:hidden};
 .main-list {overflow:hidden;}
 .backstory__title h1 {background:transparent;border:none;}
-header.post__header h1.post__title {
-    background: transparent;
-    border-bottom: black 3px solid;
-    border-top: black 3px solid;
-    }
+
