@@ -4298,10 +4298,12 @@ h1.post__title {border:none !important;}
     box-shadow: none;
     transform:initial;
 }
+.holiday header.list__header h2.list__title.post__title a {color:white;}
 .holiday header.list__header h2.list__title.post__title{
     border:none;
-    background: #79ade4;
+    background: #232222;
 }
+
 h2.backstory__title {
     background: #5083df;
     border:none;   
