@@ -4219,7 +4219,9 @@ textarea.input {
     box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.6);
     transform: rotate(1deg);
 }
-
+.list__footer-readmore {
+    margin-bottom:40px;
+}
 
 .backstory__article article.post header.post__header {
     background: #5083df;
