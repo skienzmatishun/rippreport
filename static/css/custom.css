@@ -4211,7 +4211,7 @@ textarea.input {
     color: black;
     padding: 0;
     min-width: 105%;
-    background: repeating-linear-gradient(45deg, black, black 50px, #eaea00 50px, #d5be00 100px);
+    background: repeating-linear-gradient(45deg, black, black 50px, #d5be00 50px, #d5be00 100px);
     padding-top: 20px;
     padding-bottom: 20px;
     margin-left: -10px;
