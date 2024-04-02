@@ -9,7 +9,7 @@ authors:
   - admin
 ---
 
-This post documents the abuse of power and a police department running without a throttle, any accountability or transparency. The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.
+The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.
 
 Ever notice how local politicians start talking about national issues when they are trying to dodge tough questions?
 
