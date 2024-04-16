@@ -46,8 +46,7 @@ The below article was written by Lagniappe’s Scott Johnson and it is accurate 
 
 Haygoods response is riddled with inaccuracies, wrong dates and outright deliberate omissions and misleading statements. These are the same characteristics that the prosecutor and sheriff employed in the wrongful conviction of Murray Lawrence.
 
-<span id="rippreport.com-3km4k2vudns24"></span>
-<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3km4k2vudns24" ></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4k2vudns24" data-bluesky-cid="bafyreic33p65rwmtd3rxoi653cm2eggjrzescan2ucdorbrknewfkehb54"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k2vudns24?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k2vudns24?ref_src=embed">Feb 23, 2024 at 4:23 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 “(I have) no explanation for why this report was not disclosed. It was certainly a violation of the discovery order in this case for the state not to disclose this second autopsy report,” Haygood stated in the objection.
 
@@ -77,8 +76,7 @@ Haygood, Fairhope Police, the Judge, Prosecutor and Sheriff all were aware of th
 
 Mr. Hastings was not killed by a gunshot, this was the narrative created by prosecutor David Whetstone, Mr Hastings was suffocated. Mr. Whetstone bragged years later how he proved the autopsy report and coroner in Mississippi were wrong and his theory of gunshot was correct.
 
-<span id="rippreport.com-3km4k4t2ti42a"></span>
-<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3km4k4t2ti42a" ></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4k4t2ti42a" data-bluesky-cid="bafyreigzodhraxthr2oeb2gyez67ajbuumypjec4vnkeaa4i4lhezdpavq"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k4t2ti42a?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k4t2ti42a?ref_src=embed">Feb 23, 2024 at 4:24 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 The Judge, Robert Wilters and lead investigator Lt. Hoss Mack went along with the prosecution, even to the extent of withholding evidence from the defense.
 
