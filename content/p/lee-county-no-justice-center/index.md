@@ -17,8 +17,7 @@ Here is another consideration: Let's say it is obvious that the police overstepp
 
 In Baldwin County the Prosecutor, Lead Sheriff Investigator, who is now sheriff, Judge and several sheriff deputies convicted an innocent man of capital murder. He has been in jail for 20 years. How could this happen? The Police Fraternity.
 
-<span id="rippreport.com-3km4jxnw46526"></span>
-<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3km4jxnw46526" ></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4jxnw46526" data-bluesky-cid="bafyreibqosithkddsfiqemki7fghaqeh6le3gyu6dlzbhe4wjhawawztr4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">Feb 23, 2024 at 4:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 The surfacing of this second autopsy and its exclusion from Lawrence’s 2005 trial raises the specter of a “Brady Information” violation in the case that his attorney believes should at least afford him a new trial. Lawrence was convicted in a trial that had no physical evidence identifying him as the killer.
 
