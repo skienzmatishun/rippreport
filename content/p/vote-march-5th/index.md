@@ -16,9 +16,7 @@ Circuit Clerk of Baldwin County is a position that the GOB, Catalyst, have contr
 
 <b>VOTE FOR CARRIE HOSIER AND KIM EARL</b>
 
-
-<span id="rippreport.com-3klxkajdsfm25"></span>
-<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3klxkajdsfm25" ></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3klxkajdsfm25" data-bluesky-cid="bafyreiholgfb322masukzdkgm3balqbqpfazsmbwvh2waf3adhtx223bmi"><p lang="en">How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3klxkajdsfm25?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3klxkajdsfm25?ref_src=embed">Feb 21, 2024 at 4:43 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 
 ### BOARD OF EDUCATION DISTRICT 2
@@ -31,8 +29,7 @@ It is YOUR choice, CARRIE, who will represent the parents and answer your questi
 
 Or the Catalyst Candidate, the rubber stamp of Eddie and Gray? The party switcher and developers choice?
 
-<span id="rippreport.com-3klxixtaxiz22"></span>
-<script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3klxixtaxiz22" ></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3klxixtaxiz22" data-bluesky-cid="bafyreid5sm3tnu3pcfh3sed6efzur7xgwfrqhh22vmtq5omj44ujp7vhq4"><p lang="en">The one thing that the good ole boys, GOB, of Baldwin have down pat is walking the line of legal and illegal. They do not care if it is a conflict of interest, unethical or smells to high heaven, just as long as it is barely legal.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3klxixtaxiz22?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3klxixtaxiz22?ref_src=embed">Feb 21, 2024 at 4:20 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### BOARD OF EDUCATION DISTRICT 2
 
