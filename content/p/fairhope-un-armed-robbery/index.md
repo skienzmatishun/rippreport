@@ -1,5 +1,6 @@
 ---
 title: "FAIRHOPE UN-ARMED ROBBERY"
+thumbnail: "img/fairhope-unarmed-robbery.png"
 date: 2019-06-21
 categories: 
   - freaky-friday
