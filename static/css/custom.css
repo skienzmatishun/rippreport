@@ -34,7 +34,9 @@ blockquote {
 nav.pager.flex {
     border: 0;
 }
-
+.thumbnail {
+text-align:center;    
+}
 .list__item.post.dwtd {
     background: #15171b;
     color: white;
