@@ -1,6 +1,7 @@
 ---
 title: "DOLLARS AND LIVES"
 date: 2020-12-05
+thumbnail: "img/dollars-and-lives.jpg"
 categories: 
   - freaky-friday
 tags: 

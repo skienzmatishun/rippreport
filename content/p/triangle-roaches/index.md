@@ -1,6 +1,7 @@
 ---
 title: "TRIANGLE ROACHES"
 date: 2019-12-05
+thumbnail: "img/triangle-roaches.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
