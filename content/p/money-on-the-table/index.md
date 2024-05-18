@@ -33,6 +33,8 @@ Timing is important with the permitting phase of this project and the council wa
 
 The next meeting is May 11th, another delay and money on the table.
 
+<div class="link-preview">
+
 ## Fairhope unveils design for $6.2 million pier project - Lagniappe Mobile
 
 ### Fairhope unveils design for $6.2 million pier project - Lagniappe Mobile
@@ -43,6 +45,7 @@ The Fairhope City Council got its first peek at a conceptual plan to redesign th
 
 Source: [lagniappemobile.com/fairhope-unveils-design-for-6-2-million-pier-project/](https://lagniappemobile.com/fairhope-unveils-design-for-6-2-million-pier-project/)
 
+</div>
 This article has a paywall, you can subscribe or pick up a free copy at news stands.
 
 The CATALYST Council then refused to consider the Mayor’s Marketing plan for all businesses in Fairhope. The Mayor wished to hire a marketing firm and come up with a helpful strategy for Fairhope business owners who have experienced severe financial difficulties during the Covid-19 Pandemic. Included was a plan to welcome tourist back to Fairhope.

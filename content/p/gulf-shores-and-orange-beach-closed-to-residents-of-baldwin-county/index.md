@@ -22,6 +22,8 @@ The Mayor’s agree” there is no need for additional studies” because the Ma
 
 Both Mayor’s just pulled off a major coup. They gave into their disdain for Chris Elliott and made a deal, with the devil.
 
+<div class="link-preview">
+
 ## CATALYST – SOLD TO THE HIGHEST BIDDER
 
 ### CATALYST – SOLD TO THE HIGHEST BIDDER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -32,9 +34,12 @@ All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones,
 
 Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
+</div>
 We will give you Jeff Boyd’s endorsement for your unconditional support for a bridge or two and what ever the hell else we want while you are in office, let’s hope that does not happen. Jeff Boyd proved he could not make a decision without the consent of the Mayor. He forgot about those who voted for him and against Elliott.
 
 Orange Beach and Gulf Shores residents better wake up or you will not be able to launch a boat or go to the beach. Panama City Beach and Myrtle Beach should be a warning.
+
+<div class="link-preview">
 
 ## ELLIOTT AND DORSEY ARE NOT THE ANSWER.
 
@@ -70,6 +75,7 @@ Submitted by: Chris Warner Dear Editor: The citizens of Myrtle Beach, South Caro
 
 Source: [rippreport.com/2018/06/07/paradise-lost/](https://rippreport.com/paradise-lost/)
 
+</div>
 ## PLEASE VOTE THE PEOPLE’S CHOICE DAVID NORTHCUTT FOR SENATE SEAT 32
 
 ## BILLIE JO UNDERWOOD COUNTY COMMISSION

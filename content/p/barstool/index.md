@@ -9,6 +9,8 @@ authors:
 
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
 
+<div class="link-preview">
+
 ## Owner of Irish pub in Fairhope arrested on assault charges
 
 ### Owner of Irish pub in Fairhope arrested on assault charges
@@ -19,6 +21,7 @@ FAIRHOPE, Ala. (WKRG) -- Fairhope police say Ronan McSharry was arrested for an
 
 Source: [www.wkrg.com/news/crime/owner-of-irish-pub-in-fairhope-arrested-on-assault-charges/1624556533](https://www.wkrg.com/news/crime/owner-of-irish-pub-in-fairhope-arrested-on-assault-charges/1624556533)
 
+</div>
 What is not being discussed is the well known fact that Mr McSharry has a long list of domestic incidents and assault charges at his bar.
 
 In 2010 he allegedly assaulted his wife during divorce settlement procedures. She, till this day, suffers from those injuries. His drinking and violent temper is well known among McSharry fans. The Fairhope Police, Municipal Judge and City Attorney have known of this since 2010. Mayor Kant was well aware of the problems of McSharry, he remained silent.
@@ -28,6 +31,8 @@ McSharry’s past girlfriend had her scalp torn out by McSharry. She regrets the
 Then there is the case of councilman Jack Burrell and McSharry causing quite a drunken scene one night. Burrell ended up getting thrown out of the bar and promising McSharry , he would shut him down. The President of the Council lost his head and he and McSharry deiced they were both drunk and would kiss and makeup. Jack told him he could stay in business. McSharry, to make amends, went a step further and added a J. Burrell sandwich to his menu. I would not recommend it.
 
 Next incident, # 5, this year, involved the artist Nall who has an art studio across the street from McSharry. Long story short, McSharry stumbles into Nall’s business drunk and incoherent. He threatens Nall, knocks over some displays and is dragged out of the building. After several postponements of the court date and other delays the case finally is heard on appeal. McSharry was placed on probation, he still is on probation and was warned by the court to adhere to the probation conditions.
+
+<div class="link-preview">
 
 ## Owner of Irish pub in Fairhope arrested on assault charges
 
@@ -59,11 +64,14 @@ At least we didn’t have to wait long to find out what Steve Marshall is all ab
 
 Source: [lagniappemobile.com/marshall-reveals-a-lot-with-hart-firing/](https://lagniappemobile.com/marshall-reveals-a-lot-with-hart-firing/)
 
+</div>
 Please read carefully the article and think of all the implications, quid pro quo’s, dark money and in your face corruption, that originated in the Governor's office and trickled down through the ranks. Political positions passed out, like candy on Halloween, to cover up crimes of the past administration.
 
 Where are the checks and balances? How do we hold elected officials accountable when those charged with that task appear to be equally corrupt?
 
 2019 looks like Alabama may become even more corrupt. That is what you can expect when 65%, of the 33% voting, vote a “Blind Vote” or straight ticket vote.
+
+<div class="link-preview">
 
 ## NO GUARDRAILS
 
@@ -74,3 +82,5 @@ Where are the checks and balances? How do we hold elected officials accountable 
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption.
 
 Source: [rippreport.com/2018/11/23/no-guardrails/](https://rippreport.com/no-guardrails/)
+
+</div>

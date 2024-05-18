@@ -25,6 +25,8 @@ Hats off to Councilman Conyers for speaking up for the citizens and encouraging 
 
 First off let’s set the record straight. The Baldwin County School Board has been wanting to sell the K1 center for over 10 years. The only buyer considered is the City of Fairhope. The point is the Council cannot beat it’s chest that they put together anything new, it was overdue. The Council had its own plan that failed.
 
+<div class="link-preview">
+
 ## JACK GETS AN F – AGAIN
 
 ### JACK GETS AN F – AGAIN | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -35,7 +37,10 @@ Fairhope Council President fails, again. The Fairhope City Council rushed into a
 
 Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
 
+</div>
 The Mayor had a back up plan and now the sale is on track again. The first effort by the council to determine the use of K-1 had restricted public participation. The Jack Plan went heads first into failure.
+
+<div class="link-preview">
 
 ## POP UP TARGET
 
@@ -47,9 +52,12 @@ Jack Burrell is like a pop up target. He is involved in one controversy after th
 
 Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
+</div>
 The mayor is trying to maximize Community Engagement discussions for the K-1 Center, the Triangle property and the Comprehensive Land Use Plan.
 
 * * *
+
+<div class="link-preview">
 
 ## Important:
 
@@ -87,7 +95,10 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
+</div>
 WHY because Catalyst does not want anything done on the property and a Conservation Easement will accomplish that. The Citizens of Fairhope better not let that happen.
+
+<div class="link-preview">
 
 ## RE-GIFT GIFT ??
 
@@ -99,7 +110,10 @@ ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City 
 
 Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
+</div>
 President of the Fairhope Council famously said he was tired of hearing from the citizens, citizens, citizens. The CITIZENS better be sure Burrell gets the message.
+
+<div class="link-preview">
 
 ## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 
@@ -110,3 +124,5 @@ President of the Fairhope Council famously said he was tired of hearing from the
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
 Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
+
+</div>

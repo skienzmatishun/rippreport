@@ -15,6 +15,8 @@ FREE SPEECH
 
 What does it mean to you? Well on the same day the trade towers fell in New York, Sept 11th 2001, the Fairhope City Council will decide who is allowed to speak and who is silenced. Monday Sept 11th 6:00 pm City Council Chambers. Be Heard or be Silenced.
 
+<div class="link-preview">
+
 ## HORRIBLE HURRICANE HARVEY
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/09/harvey-goes-82517_01.jpg)
@@ -35,9 +37,12 @@ Fairhope, Alabama: newspaper, information, government, events, arts, music, ente
 
 Source: [thefairhopetimes.blogspot.com/2017/09/fly-creek-apartments-approved.html](http://thefairhopetimes.blogspot.com/2017/09/fly-creek-apartments-approved.html)
 
+</div>
 It’s not over till the fat lady sings, Fly Creek Apartments may see yet another legal challenge by citizens concerned over the future health of the creek, the bay ,our quality of life and property values.
 
 This Lagniappe article is a fair assessment of current events in Fairhope and should wake some people up or at least educated them on what is going on:
+
+<div class="link-preview">
 
 ## Eastern Shore tug-of-war - Lagniappe Mobile
 
@@ -49,7 +54,10 @@ Temperatures are reaching a boiling point in Fairhope, where Mayor Karin Wilson 
 
 Source: [lagniappemobile.com/eastern-shore-tug-war/](http://lagniappemobile.com/eastern-shore-tug-war/)
 
+</div>
 A very unfair depiction is the letter to the editor of the Courier. Chuckee, the editor of the tabloid coupon paper, has been on a tear to print anything and everything negative about the Mayor Of Fairhope. His “inside” sources in Fairhope, it is a secret but it’s Jack Burrell, provide him the fodder. Journalism is vacant, misquotes, no quotes, fabrication, anonymous sources and speculation riddle most articles. Chuckee often leaves out certain details and clarifications that may coincide with his agenda to discredit the Mayor.
+
+<div class="link-preview">
 
 ## LETTER TO THE EDITOR: Fairhope Mayor Karin Wilson should resign from office
 
@@ -61,6 +69,7 @@ As a retired Federal law enforcement executive with more than 27 years experienc
 
 Source: [gulfcoastnewstoday.com/stories/letter-to-the-editor-fairhope-mayor-karin-wilson-should-resign-from-office,52965](http://gulfcoastnewstoday.com/stories/letter-to-the-editor-fairhope-mayor-karin-wilson-should-resign-from-office,52965)
 
+</div>
 WHO THE HELL IS MIKE TURNER?
 
 CHUCKEE did not clarify that Mr Turner is married to Pam Caudill a long standing board member of Fairhope Airport Authority, FAA, and dear friend of Jack Burrell another board member. He also failed to mention Pam is friends of Ray Hix another board member who shares ethics charges with Jack. Jack Burrell blocked the Mayors choice for the Airport Authority board member that would have replaced Pam Caudall.
@@ -75,6 +84,8 @@ Mike use those investigative powers and answer these questions and while your at
 
 I AM CHUCKEE AND NOT LUCKEE
 
+<div class="link-preview">
+
 ## Adventures in post-breakup dating
 
 ### Adventures in post-breakup dating
@@ -85,6 +96,7 @@ I submit to you, dear readers, that breakups are not actually the worst thing in
 
 Source: [www.gulfcoastnewstoday.com/stories/adventures-in-post-breakup-dating,52029](www.gulfcoastnewstoday.com/stories/adventures-in-post-breakup-dating,52029)
 
+</div>
 Thanks Mike for giving me the opportunity to again publish the timeline of events that surround the dirty dealings at the Airport that have cost Fairhope Millions. The council knows this to be true but does not want anyone in, public participation, to state the facts for the record.
 
 # Timeline Fairhope Airport Authority

@@ -15,6 +15,8 @@ The last city council meeting, Sept 11, left little doubt as to how far the coun
 
 FREE SPEECH
 
+<div class="link-preview">
+
 ## FREE SPEECH
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/09/WTC_smoking_on_9-111.jpeg)
@@ -47,6 +49,7 @@ Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=ag
 
 Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
+</div>
 ## CONFLICT OF INTEREST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/09/balance.jpg)

@@ -14,6 +14,8 @@ You would think an editor of a newspaper would look at the video and be able to 
 
 https://youtu.be/kDUoTFc1gOs?t=3602
 
+<div class="link-preview">
+
 ## Blogger Paul Ripp files federal lawsuit against Fairhope Council President Jack Burrell
 
 ### Blogger Paul Ripp files federal lawsuit against Fairhope Council President Jack Burrell
@@ -24,6 +26,7 @@ In late December, blogger Paul Ripp filed a lawsuit in federal court against Fai
 
 Source: [www.gulfcoastnewstoday.com/the-courier/stories/blogger-paul-ripp-files-federal-lawsuit-against-fairhope-council-president-jack-burrell,56849](http://www.gulfcoastnewstoday.com/the-courier/stories/blogger-paul-ripp-files-federal-lawsuit-against-fairhope-council-president-jack-burrell,56849)
 
+</div>
 https://youtu.be/kDUoTFc1gOs?t=3602
 
 Is this the way to conduct a public meeting? Just last night a citizen in Louisiana was thrown out of a public meeting, handcuffed and arrested. Her crime challenging a School Board.

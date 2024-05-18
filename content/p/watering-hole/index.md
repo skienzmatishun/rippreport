@@ -15,6 +15,8 @@ If you are Ronan McSharry it appears not to be a problem.
 
 McSharry’s was the watering hole for Judges, Attorneys and of course McSharry’s best friend, Council President Jack Burrell, who was honored with a sandwich on the menu named after him. Jack also has a police report that he never disclosed prior to the last election.
 
+<div class="link-preview">
+
 ## POLICE REPORT
 
 ### POLICE REPORT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -25,9 +27,12 @@ A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp R
 
 Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
+</div>
 The Watering hole became taboo after the last election and McSharry’s multiple arrests, only then did politicians and members of the Judiciary come to the conclusion that drinking with the good ole boys, in public, was not cool.
 
 They may have left the Bar but they sure have had McSharry’s back.
+
+<div class="link-preview">
 
 ## BARSTOOL
 
@@ -39,6 +44,9 @@ Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan Mc
 
 Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
+</div>
+<div class="link-preview">
+
 ## Fairhope restaurateur found guilty of assault
 
 ### Fairhope restaurateur found guilty of assault
@@ -48,6 +56,9 @@ Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 A well known Fairhope businessman was found guilty of public intoxication and third-degree assault earlier this month after an incident at a bar late last year. Ronan McSharry, owner of McSharry’s Irish Pub, was sentenced to 180 days in jail, but credited for two months already served in a rehabilitation facility, according to municipal court…
 
 Source: [lagniappemobile.com/fairhope-restaurateur-found-guilty-of-assault-2/](https://lagniappemobile.com/fairhope-restaurateur-found-guilty-of-assault-2/)
+
+</div>
+<div class="link-preview">
 
 ## ONE WOMAN
 
@@ -59,6 +70,7 @@ A well known Fairhope businessman was found guilty of public intoxication and th
 
 Source: [rippreport.com/2019/05/01/one-woman-2/](https://rippreport.com/one-woman-2/)
 
+</div>
 Now ask yourself, How the hell can a person with multiple convictions, and be on probation, get arrested again and walk.
 
 The Watering Hole.
@@ -75,6 +87,8 @@ Baldwin County needs many more Writ of Mandamus filed and the Judges and politic
 
 Be sure you read this article very carefully and then read the Straw man article and you will see, that in Baldwin County it is all about who you know.
 
+<div class="link-preview">
+
 ## Attorney asks high court to intervene in lawsuit against McSharry’s owner - Lagniappe Mobile
 
 ### Attorney asks high court to intervene in lawsuit against McSharry’s owner - Lagniappe Mobile
@@ -84,6 +98,9 @@ Be sure you read this article very carefully and then read the Straw man article
 An attorney representing a woman who filed a civil suit against a Fairhope restaurateur for committing a 2018 assault is raising questions about a Baldwin County judge’s handling of the case and asking the Alabama Supreme Court to intervene. David McDonald, who is representing Paula DiNardi in a case against McSharry’s Irish Pub owner Ronan …
 
 Source: [lagniappemobile.com/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharrys-owner/](https://lagniappemobile.com/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharrys-owner/)
+
+</div>
+<div class="link-preview">
 
 ## STRAW MAN:
 
@@ -97,7 +114,10 @@ By Rob Holbert & Gabe Tynes If you were nosing through Baldwin County land sales
 
 Source: [lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/](https://lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/)
 
+</div>
 Baldwin County should be renamed “Quid Quo Pro County”
+
+<div class="link-preview">
 
 ## QUID PRO QUO
 
@@ -109,6 +129,7 @@ Please read the Mayor’s comments and file written complaints to those listed a
 
 Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
+</div>
 Be sure and listen to Backstory Podcast and join us on Facebook.
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2F&amp;tabs=timeline&amp;width=340px&amp;height=1200px&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=2016964721850634" width="340px" height="1200px" frameborder="0" scrolling="no"></iframe>

@@ -9,6 +9,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## Opinion:
 
 ## Karin Wilson: We need equal representation
@@ -20,3 +22,5 @@ authors:
 Men and women are different. We think differently, make decisions differently and ultimately complement one another. Constituents will be underserved until thereâs equal representation at the table making the decisions that impact us all.
 
 Source: [www.al.com/opinion/2019/05/karin-wilson-we-need-equal-representation.html](https://www.al.com/opinion/2019/05/karin-wilson-we-need-equal-representation.html)
+
+</div>

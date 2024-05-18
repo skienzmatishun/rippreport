@@ -19,6 +19,8 @@ Governor Kay Ivey is a puppet on a string. In a recent article she announces a s
 
 Besides the tax bill, the special session will include legislation to improve legislative oversight of the Alabama Department of Transportation, Ivey said.
 
+<div class="link-preview">
+
 ## Ivey calls special session to consider Alabama gas tax increase
 
 ### Ivey calls special session to consider Alabama gas tax increase
@@ -29,7 +31,10 @@ The special session begins on Wednesday.
 
 Source: [www.al.com/news/2019/03/ivey-calls-special-session-to-consider-alabama-gas-tax-increase.html](https://www.al.com/news/2019/03/ivey-calls-special-session-to-consider-alabama-gas-tax-increase.html)
 
+</div>
 An added bill to the gas tax, would authorize a bond issue to improve the Alabama State Docks and the Mobile Bay ship channel.
+
+<div class="link-preview">
 
 ## Gas tax hike could fuel ship channel enlargement in Mobile
 
@@ -41,9 +46,12 @@ Within Alabama Gov. Kay Ivey's Rebuild Alabama plan is a dedication of state fun
 
 Source: [www.al.com/news/2019/03/gas-tax-hike-could-fuel-ship-channel-enlargement-in-mobile.html](https://www.al.com/news/2019/03/gas-tax-hike-could-fuel-ship-channel-enlargement-in-mobile.html)
 
+</div>
 Ivey and the Republicans know nothing but tax tax tax. It is the only way to make up for the waste and corruption that drained the transportation funds in the first place. Goat Hill politicians and previous Governors have raided one account after another, transferring funds, and never fixing anything. The Democrats want to look at options that are starring Alabama in the face:
 
 Medicaid expansion, gambling and medical marijuana legalization.
+
+<div class="link-preview">
 
 ## Opinion | The state of this state is, as usual, weird
 
@@ -65,6 +73,7 @@ The Business Council of Alabama (BCA) on Wednesday praised Governor Kay Ivey’s
 
 Source: [altoday.com/archives/28768-bca-backs-kay-iveys-gas-tax-infrastructure-improvement-plan](http://altoday.com/archives/28768-bca-backs-kay-iveys-gas-tax-infrastructure-improvement-plan)
 
+</div>
 “Alabama must be competitive with our sister southeastern states, many of which have already addressed this issue,” said Jim Page, the chairman of the Alliance for Alabama’s Infrastructure,
 
 Hey Jim Page, our sister states have gambling, the lottery and are decriminalizing marijuana. They also are not trying to tell citizens the gas tax is for roads and bridges, then all of a sudden slipping in another bill for dredging the Mobile Ship Channel.

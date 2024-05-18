@@ -9,6 +9,8 @@ authors:
 
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.
 
+<div class="link-preview">
+
 ## Coronavirus Disease 2019 (COVID-19) | Alabama Department of Public Health (ADPH)
 
 ### Coronavirus Disease 2019 (COVID-19) | Alabama Department of Public Health (ADPH)
@@ -35,6 +37,7 @@ In Alabama some citizens are participating 100%, at the potential risk of others
 
 Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/april-fool/)
 
+</div>
 In Baldwin County each of the 14 municipalities is handling the virus independently.
 
 This will not work.

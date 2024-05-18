@@ -19,6 +19,8 @@ If we want our commissioners to listen to the people of Baldwin County and expec
 
 A vote for Tucker Dorsey is a vote for Clarence Burke and Baldwin County Sewer and the many LLC’s Tucker is affiliated with.
 
+<div class="link-preview">
+
 ## Commissioner’s ties to businesses raise questions - Lagniappe Mobile
 
 ### Commissioner’s ties to businesses raise questions - Lagniappe Mobile
@@ -39,7 +41,10 @@ The good ole boy network in Baldwin County is connected by LLC’s. One LLC may 
 
 Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spiders-web/)
 
+</div>
 Summerdale 13040 Underwood Rd. has more LLC’s than fleas on a dog.
+
+<div class="link-preview">
 
 ## Investigative Reporting – Business Entity Records
 
@@ -51,7 +56,10 @@ Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=ag
 
 Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
+</div>
 Tucker Dorsey uses the LLC’s to hide his many business interests and you can bet Chris Elliott is covering for him.
+
+<div class="link-preview">
 
 ## Baldwin Container Co, LLC in Robertsdale AL - Company Profile
 
@@ -63,7 +71,10 @@ View company leaders and background information for Baldwin Container Co, LLC. S
 
 Source: [www.corporationwiki.com/Alabama/Robertsdale/baldwin-container-co-llc/26691761.aspx](http://www.corporationwiki.com/Alabama/Robertsdale/baldwin-container-co-llc/26691761.aspx)
 
+</div>
 Guess what the address is ?
+
+<div class="link-preview">
 
 ## 13040 Underwood Rd Summerdale, AL 36580 Businesses
 
@@ -75,6 +86,7 @@ Discover the businesses found at 13040 Underwood Rd Summerdale, AL 36580. We hav
 
 Source: [www.corporationwiki.com/Alabama/Summerdale/13040-Underwood-Rd-Summerdale-AL-36580-a42817393.aspx](http://www.corporationwiki.com/Alabama/Summerdale/13040-Underwood-Rd-Summerdale-AL-36580-a42817393.aspx)
 
+</div>
 Chris Elliott is not State Senate material. He wants our vote, for what? The Mega “Dump” site that cost taxpayers 32 plus MILLION?
 
 Does this sound like a State Senator?

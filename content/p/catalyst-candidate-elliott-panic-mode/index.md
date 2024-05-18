@@ -9,6 +9,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## The plot thickens as runoffs approach - Lagniappe Mobile
 
 ### The plot thickens as runoffs approach - Lagniappe Mobile
@@ -33,7 +35,10 @@ After Elliott declared he would suffer the “consequences” of running a red l
 
 Source: [lagniappemobile.com/the-plot-thickens-as-runoffs-approach/](https://lagniappemobile.com/the-plot-thickens-as-runoffs-approach/)
 
+</div>
  
+
+<div class="link-preview">
 
 ## CATALYST – SOLD TO THE HIGHEST BIDDER
 
@@ -45,7 +50,10 @@ All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones,
 
 Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
+</div>
 Elliott skimmed 4 million dollars out of the school 1% tax, a year. That is 40 million dollars of school money going into the county general fund, every 10 years. He then explained how he and the Superintendent of Baldwin County Schools, Eddie Tyler did it “for the schools” The teachers and taxpayers got conned.
+
+<div class="link-preview">
 
 ## SNAKES IN THE SCHOOLS
 
@@ -57,7 +65,10 @@ Political campaigns are always dirty, however when the politician uses veterans 
 
 Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/snakes-in-the-schools/)
 
+</div>
 Elliott has panicked and licked the boots of Mayor Kennon and Mayor Craft who want those two bridges. Elliott can deliver with a 12% gas tax, that he is on board for, if elected.
+
+<div class="link-preview">
 
 ## GULF SHORES AND ORANGE BEACH – CLOSED TO RESIDENTS OF BALDWIN COUNTY
 
@@ -68,6 +79,9 @@ Elliott has panicked and licked the boots of Mayor Kennon and Mayor Craft who wa
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey, Fully support maximum development without regards to infrastructure. They mask the…
 
 Source: [rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/](https://rippreport.com/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/)
+
+</div>
+<div class="link-preview">
 
 ## PLEASE VOTE FOR DAVID NORTHCUTT FOR STATE SENATE SEAT 32
 
@@ -86,3 +100,5 @@ Source: [rippreport.com/2018/07/11/gulf-shores-and-orange-beach-closed-to-reside
 Read today’s FREAKY FRIDAY. CATALYST SHERIFF | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE CATALYST SHERIFF | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE When Police Chiefs or Sheriff’s get wrapped…
 
 Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/catalyst-vs-the-people/)
+
+</div>

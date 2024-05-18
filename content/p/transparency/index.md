@@ -9,6 +9,8 @@ authors:
 
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars, a perfect example of a lack of compassion and leadership.
 
+<div class="link-preview">
+
 ## 'Sleeping in cars’ is Fairhope fake snooze; City Council is real problem
 
 ### 'Sleeping in cars’ is Fairhope fake snooze; City Council is real problem
@@ -18,6 +20,9 @@ The Fairhope City Council has not approved a single Fairhope City Budget, on tim
 As far as I know, people sleeping in cars is not a problem in Fairhope. The people driving the City Council clown car? That's another story.
 
 Source: [www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html](https://www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html)
+
+</div>
+<div class="link-preview">
 
 ## Alabama’s homeless veterans: ‘I didn’t care about my life or anyone else’s’
 
@@ -29,6 +34,7 @@ Air Force veteran tells his story of struggles with PTSD, suicide attempt.
 
 Source: [www.al.com/news/2019/09/alabamas-homeless-veterans-ptsd-suicide-i-didnt-care-about-my-life-or-anyone-elses.html](https://www.al.com/news/2019/09/alabamas-homeless-veterans-ptsd-suicide-i-didnt-care-about-my-life-or-anyone-elses.html)
 
+</div>
 Please read the Mayor’s report and take special note on how the City Council address the issues within the report. The Council is comprised of representatives of the status quo, good ole boy politicians. They are not transparent, accountable or ethical. Ask Yourself where is the Council Report?
 
 The Mayor of Fairhope is a PUBLIC SERVANT, Totally transparent. She and her staff should be commended for their hard work and dedication to the citizens of Fairhope. The Clown Car Passengers need to go in 2020.

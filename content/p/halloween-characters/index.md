@@ -7,6 +7,8 @@ authors:
   - admin
 ---
 
+<div class="link-preview">
+
 ## BALDWIN COUNTY
 
 ## ELEVEN YEARS
@@ -37,7 +39,10 @@ Welcome to the home of the campaign to elect Danielle Mashburn-Myrick for Alabam
 
 Source: [danielle4alabama.com/](https://danielle4alabama.com/)
 
+</div>
 Sen. Pittman your legacy is the BP dollars you stole from your constituents.
+
+<div class="link-preview">
 
 ## DON’T LET THE DOOR HIT YOU IN THE ASS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
@@ -49,7 +54,10 @@ The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political l
 
 Source: [rippreport.com/2018/10/17/dont-let-the-door-hit-you-in-the-ass/](https://rippreport.com/dont-let-the-door-hit-you-in-the-ass/)
 
+</div>
 PITTMAN, FAUST and DAVIS are all singing the same ole song and the have maintained office by straight ticket voting. Pittman says he believes in term limits and at the same time he has used his office for personal gain. DAVIS is indicted for the same reason and Joe Faust never said a word. He just kept carrying Pittman’s water.
+
+<div class="link-preview">
 
 ## Trip Pittman: Reflecting on 11 years of representing Baldwin County in the Alabama Legislature - Yellowhammer News
 
@@ -61,7 +69,10 @@ For the past 11 years, I have served the citizens of Alabama, representing Baldw
 
 Source: [yellowhammernews.com/reflecting-on-11-years-of-representing-baldwin-county-in-the-alabama-legislature/](https://yellowhammernews.com/reflecting-on-11-years-of-representing-baldwin-county-in-the-alabama-legislature/)
 
+</div>
 A VOTE for Chris Elliott, to replace Pittman, will change nothing. Elliott is also depending on a straight ticket vote. Elliott is bought and paid for and he will be a mule of the CATALYST machine.
+
+<div class="link-preview">
 
 ## CATALYST DOES BALDWIN COUNTY
 
@@ -73,6 +84,7 @@ One of the architects of Catalyst, Chris Elliott, is now going down and dirty on
 
 Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/catalyst-does-baldwin-county/)
 
+</div>
 You have an option:
 
 ## DO NOT VOTE PARTY, DEMOCRAT OR REPUBLICAN, VOTE CANDIDATE.

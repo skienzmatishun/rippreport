@@ -9,6 +9,8 @@ authors:
 
 The wheels of justice move slow, especially when the good ole boys knock out the spokes. 15 months ago we reported on an incident that should have been resolved in 6 months.
 
+<div class="link-preview">
+
 ## BARSTOOL
 
 ### BARSTOOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -19,9 +21,12 @@ Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan Mc
 
 Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
+</div>
 How does someone with multiple convictions, on probation, with a 180 day jail sentence hanging over their head, continue to avoid justice?
 
 Fairhope Municipal Court and the City Attorney dropped the ball, or hid the ball.
+
+<div class="link-preview">
 
 ## WATERING HOLE
 
@@ -33,11 +38,14 @@ How does a bar owner, continuously break the law and walk? If you are Ronan McSh
 
 Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/watering-hole/)
 
+</div>
 Now the case has moved to Circuit Court and the wheels are coming off.
 
 How does McSherry demand so much obstruction?
 
 Why would a Circuit Judge act in such a way for what has become such a high profile case?
+
+<div class="link-preview">
 
 ## Judicial power run amok in Baldwin - Lagniappe Mobile
 
@@ -49,9 +57,12 @@ Any time I’ve found myself in a courtroom, I’m reminded just how important i
 
 Source: [lagniappemobile.com/judicial-power-run-amok-in-baldwin/](https://lagniappemobile.com/judicial-power-run-amok-in-baldwin/)
 
+</div>
 This case is about an assault case, plain and simple.
 
 McSherry’s attorney James Pittman wants to float conspiracy theories and challenge the state’s Shield Law. Pittman is blaming everyone else, except McSherry.
+
+<div class="link-preview">
 
 ## Judge’s ruling would compel Lagniappe to provide communications with sources - Lagniappe Mobile
 
@@ -63,6 +74,7 @@ In a move that appears to be unprecedented, a Baldwin County Circuit Court judge
 
 Source: [lagniappemobile.com/judges-ruling-would-compel-lagniappe-to-provide-communications-with-sources/](https://lagniappemobile.com/judges-ruling-would-compel-lagniappe-to-provide-communications-with-sources/)
 
+</div>
 Please remember the whole incident is on video tape.
 
 Monday January 27 McSherry is due in court over the criminal issue.

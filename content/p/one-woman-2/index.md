@@ -22,6 +22,8 @@ authors:
   - admin
 ---
 
+<div class="link-preview">
+
 ## Fairhope restaurateur found guilty of assault - Lagniappe Mobile
 
 ### Fairhope restaurateur found guilty of assault - Lagniappe Mobile
@@ -32,6 +34,7 @@ A well known Fairhope businessman was found guilty of public intoxication and th
 
 Source: [lagniappemobile.com/fairhope-restaurateur-found-guilty-of-assault-2/](https://www.usabreakingnews.net/2019/05/fairhope-restaurateur-found-guilty-of-assault/)
 
+</div>
 Note: Link does not go to original source.
 
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.
@@ -41,6 +44,8 @@ Bulling, intimidation, and victimization are one in the same. Intimidation is a 
 Women need to speak up more.
 
 One women is:
+
+<div class="link-preview">
 
 ## BARSTOOL
 
@@ -52,6 +57,7 @@ Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan Mc
 
 Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
+</div>
 The VICTIM, Paula DiNardi, in this case had to endure several postponements of the case and over 8 hours in the Fairhope Municipal Court, only to be victimized again. Paula was the latest victim of McSharry and has had her life turned upside down since the incident.
 
 Paula has for the most part has stood alone in her attempt for justice. The City Attorney has represented her poorly and the defense attorney wants to politicize an assault case into a continued witch hunt against the Mayor.
@@ -61,6 +67,8 @@ Ronan McSharry was found guilty In Fairhope Municipal Court, this last week, of 
 Mr. McSharry, through another attorney attempted to “settle the issue” with DiNardi, providing she remain silent for life and not show up for court, thus the charges would be dropped. It is the Ripp Report’s understanding both offers were rejected. Her reason for not taking the money and running is quite simple. She feels that women should not be beat up by men, and then paid off to remain silent.
 
 Mr Beck not only defended McSharry but he wandered into a line of questioning that politicized, and was not relevant, to the assault and public intoxication case. Mr Beck has a way of victimizing the victim and making the guilty party look innocent.
+
+<div class="link-preview">
 
 ## DA continues pursuit of Spanish Fort rape case - Lagniappe Mobile
 
@@ -72,6 +80,7 @@ The Baldwin County District Attorney’s office has no plans to drop charges aga
 
 Source: [lagniappemobile.com/da-continues-pursuit-spanish-fort-rape-case/](https://web.archive.org/web/20160101160505/https://lagniappemobile.com/da-continues-pursuit-spanish-fort-rape-case/)
 
+</div>
 Note: Archive of original source.
 
 Paula was represented, in court, by the City Attorney Marcus McDowell, who job it is, to vigorously, represent the victim. However Mr. McDowell neither objected or interfered with Mr. Beck’s line of questioning which had no relevant value to the case.
@@ -92,6 +101,8 @@ Get ready folks for 2020 because this is all about politics and politicians, Jud
 
 Since Mr Beck appears to be ignorant about what the Ripp Report is all about we will be sure to sign him up for the newsletter. In the meantime here are two articles that Mr. Beck may find helpful.
 
+<div class="link-preview">
+
 ## LOSER
 
 ### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -101,6 +112,9 @@ Since Mr Beck appears to be ignorant about what the Ripp Report is all about we 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
+
+</div>
+<div class="link-preview">
 
 ## EXPOSURE
 
@@ -112,6 +126,7 @@ The Ripp Report is a non-profit organization, politically non-partisan. The focu
 
 Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/exposure-2/)
 
+</div>
 It is women like Paula DiNardi that make a difference.
 
 Stay tuned this is going to get real interesting.

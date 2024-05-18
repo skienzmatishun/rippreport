@@ -19,6 +19,8 @@ https://lagniappemobile.com/half-million-dollars-contributed-to-senate-district-
 
 The Senate seat Elliott seeks was held by Boom Boom Pittman, electing Elliott would be as bad as having Boom Boom back.
 
+<div class="link-preview">
+
 ## STATE SENATE SEAT – DISTRICT 32 – BOMBS AWAY
 
 ### STATE SENATE SEAT – DISTRICT 32 – BOMBS AWAY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -29,7 +31,10 @@ Heads up, sounds like two different authorities are checking out Fairhope. The R
 
 Source: [rippreport.com/2018/05/21/state-senate-seat-district-32-bombs-away/](https://rippreport.com/state-senate-seat-district-32-bombs-away/)
 
+</div>
 Those slick ads talk about how Elliott can bring home to Baldwin County “our fair share.” Alabama Values is another slogan they love to echo.
+
+<div class="link-preview">
 
 ## CATALYST – ALABAMA VALUES
 
@@ -41,7 +46,10 @@ Chris Elliott was appointed to the Baldwin County Commission by Governor Robert,
 
 Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/catalyst-alabama-values/)
 
+</div>
 Some of those Alabama Values include using County Funds to promote a public relations story for their candidacy.
+
+<div class="link-preview">
 
 ## 'Fake,' 'fraud,' 'flat out lie': Giant boat ramp project triggers beach political uproar
 
@@ -53,7 +61,10 @@ Ahead of the June 5 primaries, politicians in Orange Beach and Baldwin County ar
 
 Source: [www.al.com/news/mobile/index.ssf/2018/05/fake\_fraud\_flat\_out\_lie\_giant.html](https://www.al.com/news/mobile/index.ssf/2018/05/fake_fraud_flat_out_lie_giant.html)
 
+</div>
 I hope you read the previous article and realize you are dealing with political animals, Elliott and Tucker, who want to be the Top Dogs of Baldwin County.
+
+<div class="link-preview">
 
 ## CATALYST TOP DOGS
 
@@ -65,7 +76,10 @@ Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and als
 
 Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/catalyst-top-dogs/)
 
+</div>
 In Orange Beach, they bribe you with a boat ramp. In Fairhope, they deny you access to the bay. Whatever it takes. Selling their Soul is just par for the course.
+
+<div class="link-preview">
 
 ## PUBLIC ACCESS
 
@@ -77,7 +91,10 @@ Once again the voters can see the true colors, and arrogance, of Commissioner’
 
 Source: [rippreport.com/2018/05/11/public-access/](https://rippreport.com/public-access/)
 
+</div>
 A vote for Tucker Dorsey is a vote for Baldwin County Sewer and Clarence Burke. The sewer and a skunk smell the same.
+
+<div class="link-preview">
 
 ## CATALYST SKUNK
 
@@ -89,7 +106,10 @@ County Commission place three has three candidates trying to run over the skunk 
 
 Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/catalyst-skunk/)
 
+</div>
 One thing Elliott and Dorsey did accomplished was the mega-site, paid for on the backs of the taxpayers. A good ole boy deal that made Catalyst proud, 35 million for a cow pasture with a gate to no where. Elliott and Dorsey wanted to use BP money to repair county infrastructure because they spent the county reserves for a good ole boy deal, the Catalyst way.
+
+<div class="link-preview">
 
 ## CATTLE GATE MEGA-SITE
 
@@ -100,3 +120,5 @@ One thing Elliott and Dorsey did accomplished was the mega-site, paid for on the
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. ECONOMIC DEVELOPMENT ECONOMIC DEVELOPMENT – BALDWIN…
 
 Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
+
+</div>

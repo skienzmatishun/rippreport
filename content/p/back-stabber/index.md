@@ -19,6 +19,8 @@ Public Meeting Notice SPECIAL CITY COUNCIL MEETING Date & Time: Tuesday, Septemb
 
 Please note it says for the “Council President to execute a Real Estate Purchase Agreement”. This is for the k-1 Center and the PLAN the Council, has decided they want without any public participation.
 
+<div class="link-preview">
+
 ## POP UP TARGET
 
 ### POP UP TARGET | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -29,6 +31,7 @@ Jack Burrell is like a pop up target. He is involved in one controversy after th
 
 Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
+</div>
 Mayor Karin Wilson of Fairhope, Alabama 2 hrs ·
 
 Please share with your Fairhope friends. I have communicated with Council President Burrell about the K-1 Center property purchase and taking this opportunity to discuss all property owned by BCBE in our City (Nix Center land, K-1 “Fairhoper’s” Park and the Alternative School). I expressed to him the importance of transparency with all possibilities for the best use of the K-1 property and how its future use needs to be communicated with all stakeholders. There should also be a feasibility study done. These decisions have long lasting effects on our City and should not be rushed. We should not repeat past mistakes. This is why I was surprised to receive the notice at 5:05pm on Friday, before the long Labor Day weekend, when people were busy getting ready to spend time with their families and not concerned with City business, about a Special Called City Council meeting to approve a “Resolution to Authorize the Council President to execute a Real Estate Purchase Agreement for properties owned by the Baldwin County Board of Education” for Tuesday 4pm. Rushing the city into real estate deals without public participation and input by stakeholders is an inappropriate way to conduct business. Fairhope citizens are unaware of the developments concerning these properties and alternate opportunities. If the rest of Council truly wants to be transparent and make proper decisions, they will cancel this meeting and make certain all facts are presented in a public forum before we move forward on spending millions of tax dollars. In addition, due to expected weather associated with Tropical Storm Gordon, I will be canceling the specially called work session to discuss the budget at 4:30pm.

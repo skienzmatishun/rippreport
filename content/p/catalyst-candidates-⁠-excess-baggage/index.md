@@ -25,6 +25,8 @@ CATALYST is lining up their candidates for Mayor and City Council and they all h
 
 The current Fairhope Council are all CATALYST and represent the worst city council Fairhope has experienced in 25 years. Jack Burrell, the council president has held on to that position for two terms, 8 years. Burrell is the worst of the worst, his decisions have cost Fairhope millions. Everything from bid rigging at the Airport, to a hidden police report, is in Jack’s baggage.
 
+<div class="link-preview">
+
 ## YOU DON’T KNOW JACK
 
 ### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -35,6 +37,7 @@ I have followed four Fairhope city councils and one thing I can tell you is with
 
 Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
+</div>
 A vote for Jack is not in the best interest of Fairhope citizens.
 
 Burrell led the charge to buy the 2.65 million dollar recreation land that he promptly leased for 9 thousand a year.
@@ -55,6 +58,8 @@ She failed and had to be replaced.
 
 Sherry, Cant’s travel companion, supported Cant’s efforts to obstruct any transition from the Cant administration to the newly elected Mayor Karin Wilson. She also assisted Jack Burrell and CATALYST in every way possible to obstruct Mayor Wilson and her duties as Mayor. Her insubordination got he fired, and her cohorts.
 
+<div class="link-preview">
+
 ## SHOWING YOUR TRUE COLORS
 
 ### SHOWING YOUR TRUE COLORS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -65,6 +70,7 @@ Mayor Kant, after receiving the official news that he lost his re-election bid, 
 
 Source: [rippreport.com/2016/09/02/showing-your-true-colors/](https://rippreport.com/showing-your-true-colors/)
 
+</div>
 CATALYST is doubling down with Sherry, Jack and Cant, betting Fairhope is a bunch of dumb asses that will not be aware of their baggage.
 
 The Ripp Report will do its best to inform every voter of the dangers of CATALYST.
@@ -72,6 +78,8 @@ The Ripp Report will do its best to inform every voter of the dangers of CATALYS
 CATALYST is running Bill “lowtower” Hightower for Congress. CATALYST in Washington will only deepen the swamp.
 
 Please vote for Jerry Carl July 14th, the runoff election for First Congressional District.
+
+<div class="link-preview">
 
 ## CATALYST KISS
 
@@ -83,7 +91,10 @@ The last Monday night Fairhope City Council meeting and the work session were un
 
 Source: [rippreport.com/2020/02/12/catalyst-kiss/](https://rippreport.com/catalyst-kiss/)
 
+</div>
 CATALYST will do anything possible to regain Fairhope as their power base, including fixing elections, if the can.
+
+<div class="link-preview">
 
 ## PAY OFF AND ELECTION FRAUD
 
@@ -94,3 +105,5 @@ CATALYST will do anything possible to regain Fairhope as their power base, inclu
 KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC Why did a judge suddenly seal a case against the City of Fairhope after details of the case were made public? The case is a land dispute…
 
 Source: [rippreport.com/2016/08/09/pay-off-and-election-fraud/](https://rippreport.com/pay-off-and-election-fraud/)
+
+</div>

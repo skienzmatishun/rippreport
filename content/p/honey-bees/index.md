@@ -24,6 +24,8 @@ Fast forward to September and the council, the 3 b’s, without any public parti
 
 The Council has been found guilty, in Federal Court, for violating the Constitution of the United States, the right of free speech.
 
+<div class="link-preview">
+
 ## LOSER
 
 ### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -34,11 +36,14 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
 Last week in a city council work session, the Mayor was discussing the free family insurance, around 17,000 thousand dollars for each part time councilman, no city employees have such insurance. Council President Burrell the most prolific honey bee, threatened the Mayor with arrest, if she did not “shut up”. The Mayor was representing the citizens.
 
 The council has lost in Federal Court, threatened to throw the Mayor in jail, for representing the citizens, and has denied citizens comment on the recreation property. This is just a snapshot of their dismal record. The Council did pass a law that prevented anyone from sleeping in their car and forbid feeding the geese.
 
 Tonight the three B’s are going to vote to approve the closing costs, around 9,000 thousand dollars, for the 2.6 million in property. The B’s, all white, want the hwy 13 property while the community has voiced it’s desire for the twin beech property close to the black community, but that is not where the honey is.
+
+<div class="link-preview">
 
 ## QUID PRO QUO
 
@@ -50,4 +55,5 @@ Please read the Mayor’s comments and file written complaints to those listed a
 
 Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
+</div>
 Tonight the b’s are going to sting Fairhope and they do not give a damn what you think or your constitutional right to free speech. They want the honey. Follow the money.

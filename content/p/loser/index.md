@@ -22,6 +22,8 @@ The entire City Council and the City Attorney sat in stone silence. The City Att
 
 As I was leaving the building a police officer commented to me that “Jack Sucks”. Outside I was approached by a gentleman with a Marine corps Korean War hat, he told me he “did not particularly like me nor some of the things I have said”, however Burrell had no right to deny someone the right to speak and that he should apologize. He said he was pissed off that any combat veteran of a war who had sat in a meeting for an hour, after the Pledge of Allegiance and the Prayer, was denied their Constitutional right to speak at Public Participation. A woman in the parking lot yelled out her window that Jack was an asshole. I agreed with all of them.
 
+<div class="link-preview">
+
 ## SEE YA IN COURT JACK
 
 ### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -32,7 +34,10 @@ PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTA
 
 Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
+</div>
 I really expected that an apology would be forthcoming and that would be that. After a couple of weeks and many friends and emails saying Burrell should apologize and hearing nothing from the council, I consulted an attorney.
+
+<div class="link-preview">
 
 ## NOW! YOU KNOW JACK
 
@@ -44,6 +49,7 @@ Fairhope is at a crossroads and if the community allows Council President Jack B
 
 Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
+</div>
 For over a year the case moved forward through mediation and beyond to depositions. From a no money apology the case expanded monetary with attorney fees stacking up, yet no apology. The apology requested was from Mr. Burrell to the City Of Fairhope citizens, not to Francis Paul Ripp nor the Ripp Report. Instead of an apology Mr. Burrell ran his mouth all over town about how the lawsuit would go nowhere and the “Insurance company would pay any damages.” Think about that.
 
 https://lagniappemobile.com/lawsuit-alleges-fairhope-council-president-denied-citizens-free-speech/

@@ -11,6 +11,8 @@ authors:
 
 Qualifications for Mid Term elections are over and now it is a race to the primary June 9 2018.
 
+<div class="link-preview">
+
 ## QUALIFICATION
 
 ### QUALIFICATION | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -21,11 +23,14 @@ Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it i
 
 Source: [rippreport.com/2018/01/19/qualification/](https://rippreport.com/qualification/)
 
+</div>
 The official list of 2018 Local and State Candidates was provided by the Elections Coordinator for the Baldwin County Probate Office. The only alteration to this list is the reference to Catalyst Candidates and the office of Court of Civil Appeals, Michelle Thomason, The Catalyst Queen, that was added by the Ripp Report.
 
 \[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2018/03/2018-Candidates-for-Locan-and-State-Offices-4.pdf" download="all"\]
 
 As you can see Catalyst has candidates seeded in many offices, it would be a monumental mistake to allow Catalyst control of our county government. Please advise your friends and fellow citizens about this Good Ole Boys plan.
+
+<div class="link-preview">
 
 ## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
 
@@ -37,4 +42,5 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
+</div>
 IF THEY ARE CATALYST CAN THEM

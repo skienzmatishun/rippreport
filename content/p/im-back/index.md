@@ -13,6 +13,8 @@ Thank You for the kind regards and concerns.
 
 The Ripp Report receives regular complaints about Family Court, in particular Judge Thomasson and Attorney Buddy Brackin. The Bar association and the Alabama Judiciary refuse to investigate complaints. Lawyers protecting lawyers, go figure. Sadly the only recourse the public has is the Court of Public Opinion. Vote Thomasson out and spread the word to future victims to avoid these two at all costs.
 
+<div class="link-preview">
+
 ## BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY
 
 ### BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -23,7 +25,10 @@ For years we have been critical of the family court, especially the rulings of D
 
 Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
+</div>
 Gulf Shores is embroiled in a very similar situation that mirror’s Fairhope’s controversy surrounding apartments. Apartments are not the issue as much as the location, location, location.
+
+<div class="link-preview">
 
 ## 'Out of order': Unrest continues in Gulf Shores over apartment complex
 
@@ -35,7 +40,10 @@ The planning commission met in executive session on Friday as residents near a p
 
 Source: [www.al.com/news/index.ssf/2018/08/out\_of\_order\_unrest\_continues.html](https://www.al.com/news/index.ssf/2018/08/out_of_order_unrest_continues.html)
 
+</div>
 Gulf Shores officials are taking a page out of Fairhope’s playbook on how to favor the developer over the citizens. Gulf Shores is pulling all the same stunts Fairhope did when it comes to DEFENDING the developer and limiting public participation of those who are opposed to the project. The similarities are uncanny, maybe there is a Mayor’s playbook on how to keep citizens in the dark while approving projects that the majority are against.
+
+<div class="link-preview">
 
 ## THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
 
@@ -47,9 +55,12 @@ It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhop
 
 Source: [rippreport.com/2016/08/26/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/](https://rippreport.com/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/)
 
+</div>
 Gulf Shores elected officials better be paying attention, all those angry voters may do the same thing Fairhope did, Vote the Mayor and Council OUT OF OFFICE.
 
 The Fairhope Airport Authority announced that Mr Ray Hix, Treasurer, has resigned his post. Many may remember Mr. Hix who is partners with the Fairhope Municipal Judge, Haymes Snedeker, Hix Snedeker companies. The same company awarded a lease on an airplane hanger for their million dollar jet. Jack fly's free.
+
+<div class="link-preview">
 
 ## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 
@@ -61,6 +72,7 @@ FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrel
 
 Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
+</div>
 Pay attention Fairhope Jack and friends have “confidential” plans for the airport, and you are going to pay for it. Mr. Burrell has fought hard for the Airport Authority to maintain the title to the land, while citizens pay for it. The City of Fairhope pays for it and Fairhope should have the title.
 
 Speaking of paying for it, Citizens paid Mr Burrell’s attorney fees and for the “investigation” of the Ripp Report ethics complaint against Mr. Burrell and Mr. Hix. The citizens are now paying for the pending Federal lawsuit against Mr. Burrell’s abuse of the constitutional rights afforded all citizens. Who authorized the City Attorney to defend Jack Burrell?

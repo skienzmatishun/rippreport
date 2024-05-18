@@ -24,6 +24,8 @@ Three major issues were on the agenda: Strike one
 
 The council has chosen to turn its back on the children that were counting on purchasing the Twin Beech road property. It was the staff and Mayor’s recommendation, supported by outside sources. The Council however said they all agree on Twin Beech Road but it cost to much. Remember folks they bought the soccer fields because it was the cheapest. That cost us over a million dollars to correct the grade and then they never built the fields to specifications, such as sanitizing the soil. Council President Burrell wants an appraisal. This is not about money this is about quality of life and supporting a neighborhood that has been ignored.
 
+<div class="link-preview">
+
 ## STRIKE TWO
 
 28\. Resolution – That the City Council hereby authorizes Council President to execute a Conservation Easement Agreement between the City of Fairhope and Weeks Bay Foundation, Inc. for two conservation easements for the properties known collectively as the Dyas/Triangle property and to outline the terms of the easement transaction. The total cost of the conservation easement, due diligence, and closing fees for the property shall be $39,025.00.
@@ -40,6 +42,7 @@ During a three-and-a-half hour meeting Wednesday night, the Fairhope City Counci
 
 Source: [lagniappemobile.com/fairhope-tables-proposed-conservation-easement-for-dyas-triangle/](https://lagniappemobile.com/fairhope-tables-proposed-conservation-easement-for-dyas-triangle/)
 
+</div>
 Weeks Bay Foundation got played by the political machine. The private sector developers, do not want the Triangle in the City’s hands. The same people that caused the lawsuit and resulting legal settlement are now trying, with council help, to do just what the developers want.
 
 The Council wants the citizens to “dispose” of 18 million in property and some anonymous donor is going to pay to make it happen. Who the hell is the donor and who’s idea was this.
@@ -47,6 +50,8 @@ The Council wants the citizens to “dispose” of 18 million in property and so
 What about an appraisal Jack ? let the citizens of Fairhope know just how much tax money you and the council are giving away.
 
 Well I do not know the donor but I was told by a councilman that Diana Brewer of Weeks Bay reached out to the council about the Conservation Easement. Diana Brewer was a Fairhope council woman, who was in favor of the Fly Creek Apartments and pro developer, she was voted out of office. This was, and is her POLITICAL agenda, supported by the Council.
+
+<div class="link-preview">
 
 ## GOING DOWN WITH THE SHIP
 
@@ -58,7 +63,10 @@ Be sure you read According to Executive Director of Finance Paul Wesch, GulfQues
 
 Source: [rippreport.com/2016/09/30/going-down-with-the-ship/](https://rippreport.com/going-down-with-the-ship/)
 
+</div>
 In the meeting the Director of Weeks Bay said several times that Weeks Bay did not seek out Fairhope for the Conservation Easement. The Director may not have known Diana was going rouge and trying to advance her political agenda, at the expense of Fairhope Citizens. As a former councilwoman she knew damn well that a conservation easement was not in the best interest of the city.
+
+<div class="link-preview">
 
 ## HELLO CAN YOU HEAR ME NOW
 
@@ -70,7 +78,10 @@ Jimmy Conyers steamed rolled incumbent Diana Brewer for a Fairhope City Council 
 
 Source: [rippreport.com/2016/10/05/hello-can-you-hear-me-now/](https://rippreport.com/hello-can-you-hear-me-now/)
 
+</div>
 Councilman Boone and Burrell also are in bed with the developers. They saddled the City with the responsibility of wet lands the developer screwed up.
+
+<div class="link-preview">
 
 ## RE-GIFT GIFT ??
 
@@ -82,9 +93,12 @@ ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City 
 
 Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
+</div>
 Councilman Brown also gets credit with VOTING to satisfy the developer, not surprising when he is a developer and contractor and close friend of Arthur Corte. Mr Brown was the contractor for the soccer field building and the Art Center contract, where he is a Board member. Down home Robert Brown doing the town.
 
 Trust me folks the Ripp Report will use the Court of public Opinion and if necessary the Judicial Courts to fight giving away land valued at 18 million dollars plus, while some anonymous donor, Robert Brown and Diana Brewer are laughing at our ignorance.
+
+<div class="link-preview">
 
 ## STRIKE THREE
 
@@ -99,3 +113,5 @@ Council President again is front and center in another controversy. He did not f
 The three-story, 31-room boutique hotel at the corner of Section Street and Fairhope Avenue would be several feet away from the city's iconic street clock. To some council members, the location is unacceptable.
 
 Source: [www.al.com/news/mobile/2019/05/boutique-hotel-at-iconic-fairhope-intersection-in-limbo.html](https://www.al.com/news/mobile/2019/05/boutique-hotel-at-iconic-fairhope-intersection-in-limbo.html)
+
+</div>

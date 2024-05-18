@@ -20,6 +20,8 @@ We are sorry that the Freaky Friday post, Backstory Podcast #9, had some difficu
 
 The podcast is a new venture and we expected some difficulties, please join us on Facebook. We cover political corruption and consumer issues. Our forum is the Court of Public Opinion, and we use it to expose those elected and appointed officials that use their positions for personal gain, regardless of political affiliation.
 
+<div class="link-preview">
+
 ## CORRIDOR OF CHAOS
 
 ### CORRIDOR OF CHAOS
@@ -30,6 +32,7 @@ PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRI
 
 Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
+</div>
 Baldwin County is under siege from unbridled development. In certain areas such as Fairhope and Daphne the development and approved projects are popping up faster than corn. Judges and Attorneys are developers and the City Council that appointed them, now approve their developments. Thousands of houses and apartments will change the landscape radically in just a few years.
 
 ## NAIL IN THE COFFIN

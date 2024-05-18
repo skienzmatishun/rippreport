@@ -29,7 +29,9 @@ Burrell flipped his vote in the end, due to public outrage.
 
 Brown has doubled down, invoking God and abortion, not germane to the virus or “shelter in place”.
 
-### Robert Brown For Our Hometown
+#<div class="link-preview">
+
+## Robert Brown For Our Hometown
 
 #### Curfew for Fairhope
 
@@ -57,11 +59,14 @@ In Alabama some citizens are participating a 100%, at the potential risk of othe
 
 Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/april-fool/)
 
+</div>
 This is the same Brown who along with Boone and Burrell spent 2.65 million on recreation land, no one wanted, and then they leased the land for farming for 9000 dollars a year.
 
 Guess what? This was a colossal mistake, because now Fairhope has had to adjust it’s budget by $2.65 million.
 
 Brown also was on board to give away the triangle property that cost taxpayers $13 million.
+
+<div class="link-preview">
 
 ## THE JESTER
 
@@ -73,7 +78,10 @@ The Jester is back and now he wants to give away 106 acres of municipal land to 
 
 Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
+</div>
 This is the worst city council that Fairhope has had since it’s founding and three people keep taking credit.
+
+<div class="link-preview">
 
 ## HONEY BEES
 
@@ -85,7 +93,10 @@ he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, 
 
 Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/honey-bees/)
 
+</div>
 However it takes the whole council to operate a criminal enterprise.
+
+<div class="link-preview">
 
 ## CRIMINAL ENTERPRISE
 
@@ -97,7 +108,10 @@ Fairhope being run as a Criminal Enterprise? WATCH UNTIL MINUTE 2:07–9:
 
 Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/criminal-enterprise/)
 
+</div>
 Nothing stopped Councilman Brown from using his office for personal gain. The council just held it’s nose, put their fingers in their ears and looked the other way.
+
+<div class="link-preview">
 
 ## DOCUMENTS
 
@@ -109,6 +123,7 @@ Backstory Podcast @BackstoryPodcast Fairhope City Councilman Robert Brown has be
 
 Source: [rippreport.com/2019/09/25/documents/](https://rippreport.com/documents/)
 
+</div>
 Mr Brown has always said he had permission from the Ethics Commission, he did not, that is a lie.
 
 Mr Brown said he was one of many bids.

@@ -14,6 +14,8 @@ First let me apologize for not getting out the Wonderful Wednesday and for the d
 
 In Fairhope the City Council believes that the citizens elected them to make all the decisions for the community. It only takes three votes of the council for a decision to be made. The Fairhope Council does not understand that they are suppose to LISTEN to their constituents. All their constituents.
 
+<div class="link-preview">
+
 ## COMMUNITY ENGAGEMENT
 
 ### COMMUNITY ENGAGEMENT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -24,9 +26,12 @@ Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Sessio
 
 Source: [rippreport.com/2019/03/27/community-engagement/](https://rippreport.com/community-engagement/)
 
+</div>
 Think about that! Three votes and a decision can be made by a Council, without hearing a word from their constituents.
 
 Fairhope is trying a little something different and if it works it will greatly enhance Community Engagement. Let’s hope the Council is listening.
+
+<div class="link-preview">
 
 ## Fairhope to host meeting on future of K-1 Center - Lagniappe Mobile
 
@@ -38,4 +43,5 @@ The city of Fairhope is hosting a community discussion on the future of its K-1 
 
 Source: [lagniappemobile.com/fairhope-to-host-meeting-on-future-of-k-1-center/](https://lagniappemobile.com/fairhope-to-host-meeting-on-future-of-k-1-center/)
 
+</div>
 100 people attended the April 3rd round table discussion on the K-1 Center. There will also be a couple of future public meeting on the subject of K-1 for those who could not attend the April 3rd meeting. The results of all that public input will be presented to the Fairhope City council. Will the Council listen to a hundred voices? Or depend on 3 votes?

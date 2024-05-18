@@ -27,6 +27,8 @@ Over 625 citizens have signed petitions and over 94% of those polled are against
 
 The same thing happened in Fairhope where citizens were able to do what their elected city council could not.
 
+<div class="link-preview">
+
 ## VICTORY
 
 ### VICTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -37,7 +39,10 @@ Never Ever give up. The Ripp Report has been reporting, and going to court, rela
 
 Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
 
+</div>
 In Fairhope the “Catalyst” Council President mocked the citizens and Mayor when the citizens started asking questions.
+
+<div class="link-preview">
 
 ## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 
@@ -49,7 +54,10 @@ FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrel
 
 Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
 
+</div>
 The same “Catalyst” Council and Council President even took the extreme move of not allowing, yours truly, the ability to speak at a public forum.
+
+<div class="link-preview">
 
 ## SEE YA IN COURT JACK
 
@@ -61,6 +69,7 @@ PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTA
 
 Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
+</div>
 These small town municipalities have counted on the citizens NOT participating. The table is shifting and the good ole boy mentality is eroding with each new resident to Baldwin County.
 
 ## REMEMBER YOU VOTED THEM IN SO YOU CAN VOTE THEM OUT

@@ -43,6 +43,8 @@ While I do not oppose the concept of Landmark Districts, I do have serious conce
 
 If passes the Senate, it would allow a 44 square mile area in red known as the “Barnwell Landmark District” to one day attempt to annex your property into its newly formed municipality without your consent.
 
+<div class="link-preview">
+
 ## Alabama HB203 | 2020 | Regular Session
 
 ### Alabama HB203 | 2020 | Regular Session
@@ -53,6 +55,7 @@ Bill Text (2020-03-05) Baldwin Co., Barnwell Landmark District, annexation of pr
 
 Source: [legiscan.com/AL/text/HB203/2020](https://legiscan.com/AL/text/HB203/2020)
 
+</div>
 Since the bill only provides a legal description of the proposed boundary, most would assume it encompass the area known as Barnwell, however, they would be wrong.
 
 This bill allows for an over-inclusive arbitrary boundary to be formed without the use of a legal entity under the laws of Alabama and does not define its powers or authorities specified by any statutory or constitutional provision.

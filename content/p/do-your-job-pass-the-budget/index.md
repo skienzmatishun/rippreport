@@ -19,6 +19,8 @@ The City Council in Fairhope has accomplished very little in their first year, o
 
 Dec. 6th the City council had a special called meeting, again the Mayor explained to the council that the lack of an approved budget is affecting employees and city operations. The Mayor has proposed many ideas to the council that will save money in the long run, however the council has displayed an ultra conservative view of city finances focusing on expenses and ignoring any progressive view. The council is thinking within their term the Mayor and city staff are thinking 20 to 30 years ahead.
 
+<div class="link-preview">
+
 ## Fairhope budget battle continues
 
 ### Fairhope budget battle continues
@@ -29,6 +31,7 @@ The city of Fairhope is already several months in to Fiscal Year 2018, but has y
 
 Source: [gulfcoastnewstoday.com/stories/fairhope-budget-battle-continues,56283](http://gulfcoastnewstoday.com/stories/fairhope-budget-battle-continues,56283)
 
+</div>
 One item in the budget is the sacred cow of council president Burrell, Fairhope Airport. You can bet your bottom dollar “come fly with me “ Burrell will be sure to protect his crony friends at the airport above the best interests of the city. Burrell will not take any questions related to the airport and still hides behind the Alabama Non-Ethics Commission. Fairhope employees are also tiring of Mr Burrell’s micro managing employees and exercising authority he does not have as a council member nor that of council president. Mr Burrell has even gone so far as to silence the public by refusing to allow persons that disagree with him the ability to speak at public meetings
 
 Burrell and the council have sided with fired employees, choosing to aid the disgruntled employees with litigation against the city. They then, as a council, will vote to approve any settlement. Most council members on the council should recuse themselves altogether as they know these employees personally. Instead they are going to set legal precedent for the next fired employee to do the same, with your tax dollars.

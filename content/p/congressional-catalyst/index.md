@@ -9,6 +9,8 @@ authors:
 
 Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat.  Only one is CATALYST. GUESS.
 
+<div class="link-preview">
+
 ## GOP candidates differ on I-10 financing
 
 ### GOP candidates differ on I-10 financing
@@ -19,7 +21,10 @@ The GOP hopefuls vying for the party's nomination in Alabama's 1st congressional
 
 Source: [www.al.com/politics/2020/01/republican-congressional-candidates-differ-on-i-10-financing-during-debate.html](https://www.al.com/politics/2020/01/republican-congressional-candidates-differ-on-i-10-financing-during-debate.html)
 
+</div>
 In 2018 CATALYST made a move to take over the County.
+
+<div class="link-preview">
 
 ## CATALYST VS THE PEOPLE
 
@@ -31,7 +36,10 @@ Read today’s FREAKY FRIDAY. When Police Chiefs or Sheriff’s get wrapped up p
 
 Source: [rippreport.com/2018/05/30/catalyst-vs-the-people/](https://rippreport.com/catalyst-vs-the-people/)
 
+</div>
 CATALYST should be feared, they threaten honest government and represent the very opposite, political corruption.
+
+<div class="link-preview">
 
 ## FAIRHOPE – CATALYST a Dirty Little Secret
 
@@ -43,11 +51,14 @@ The Fairhope City Council is an “at Large” elected Council. Each of the memb
 
 Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
+</div>
 CATALYST candidates occupy the Fairhope City Council. The Fairhope City Attorney is a hand me down, as is the Faihope Municipal Judge, of the good ole boy CATALYST network of past Fairhope administrations. CATALYST and the Fairhope City Council operate like a criminal enterprise.
 
 The FBI defines a criminal enterprise as “a group of individuals with an identified hierarchy, or comparable structure, engaged in significant criminal activity.”
 
 CATALYST is an organization that in no way is looking out for citizens best interests. CATALYST has hijacked the soul of the Baldwin County Republicans and they bank on the party to cover their tracks, while they drag the party and good people, through the mud.
+
+<div class="link-preview">
 
 ## ELLIOTT STACY HAYGOOD = CATALYST – WHO IS IN THE PICTURE?
 
@@ -59,7 +70,10 @@ This telling photo is the core group of Elliott Stacy and Haygood, from a few ye
 
 Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
+</div>
 CATALYST wants to regain control of Fairhope and Baldwin County and now the First Congressional District. Fairhope needs to remove the CATALYST cancer from it’s government and it’s judiciary.
+
+<div class="link-preview">
 
 ## CATALYST DOES FAIRHOPE
 
@@ -71,6 +85,7 @@ Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY
 
 Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
+</div>
 Bill Hightower IS the CATALYST candidate, supported by Fairhope Municipal Judge/ developer Snedeker and former State Senator BP Boom Boom Pittman and of course the CATALYST Fairhope City Council. Birds of a feather flock together.
 
 ## CONFLICT OF INTEREST

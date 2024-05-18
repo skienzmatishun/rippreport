@@ -35,6 +35,8 @@ Or visit the Ripp Report/Baldwin County Legal Eagle on facebook for repeated upd
 
 CHUCKY wasted no time pumping out his latest Jack Burrell story,
 
+<div class="link-preview">
+
 ## Fairhope council passes resolutions involving signing authority
 
 ### Fairhope council passes resolutions involving signing authority
@@ -45,6 +47,7 @@ In a special called meeting held Dec. 29, the Fairhope City Council unanimously 
 
 Source: [gulfcoastnewstoday.com/stories/fairhope-council-passes-resolutions-involving-signing-authority,56579](http://gulfcoastnewstoday.com/stories/fairhope-council-passes-resolutions-involving-signing-authority,56579)
 
+</div>
 In a special meeting, arranged by council president Burrell, his loyal councilmen followed his lead to vote for the well established good ole boy way of doing business. They rejected the Mayor’s suggestion of a full time city attorney, which would save the city 90,000 dollars, plus a year. The same council has been witness to Mr Burrel’s continuous obstruction of the Mayor. They have stood by mute while Burrell denied citizens their constitutional rights and demanded the Mayor be silent. What is he afraid of? What is he so scared of that he feels the need to silence critics? Ask yourself why Chuckee’s reporting always favors Burrell and never mentions Burrell’s antics, be it yelling at the Mayor or denying citizens their constitutional rights?
 
 These questions and many more will be answered in 2018.

@@ -7,6 +7,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## AND SOME SHOULD NEVER BEEN SCHEDULED
 
 The proposed change of government for Fairhope started out with good intentions and then went completely off the rails.
@@ -37,6 +39,7 @@ The Fairhope City Council is an “at Large” elected Council. Each of the memb
 
 Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
 
+</div>
 The Catalyst council then instructed the city attorney to do what ever was possible to cancel the Oct. special election. True to Baldwin politics and elections and a good push from the good ole boys and Catalyst, they did just that.
 
 https://lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/
@@ -44,6 +47,8 @@ https://lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oc
 This dirty trick was intentional and the council knew the odds of the referendum vote being held during the general election had a history of failing. In the interim the council and Catalyst spread fear and misinformation to the voters. I commend them they did a great job. Fresh Start had spent thousands on the first proposed election date and was tapped out by time the general election, Nov.6th arrived.
 
 Fairhope missed a golden opportunity to move forward, instead, the majority elected to not change the government and continue to operate in such a way that has proven to be unsuccessful.
+
+<div class="link-preview">
 
 ## Fairhope rejects changing form of government in contentious election
 
@@ -55,6 +60,7 @@ FAIRHOPE, Ala. (WALA) - In lines that took some Fairhope voters more than an hou
 
 Source: [www.fox10tv.com/news/fairhope-rejects-changing-form-of-government-in-contentious-election/article\_c2fd646e-e245-11e8-a23b-6fb9d887bc0b.html](https://www.fox10tv.com/news/fairhope-rejects-changing-form-of-government-in-contentious-election/article_c2fd646e-e245-11e8-a23b-6fb9d887bc0b.html)
 
+</div>
 The seven precincts were all crowded, however the Baptist Church on Fairhope Av. was a traffic hazard and the one voting booth caused long waits. The civic center had lines that waited for up to two hours. Many people left without voting.
 
 This little misadventure does prove a couple of things, first that the Fairhope “at large Catalyst council” is alive and well. Most of the council’s support came from the same core group that believes in the Can’t doctrine.

@@ -19,6 +19,8 @@ As the fastest growing County in the State, Baldwin County School System has bee
 
 Governor Ivy now wants even more control over a failing education system, by appointing State School Board Members, rather than electing them.
 
+<div class="link-preview">
+
 ## Bill to end election of state school board members
 
 ### Bill to end election of state school board members
@@ -51,7 +53,10 @@ Fairhope City Council has been pedaling backwards their whole term. They now hav
 
 Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
 
+</div>
 These are the same micromanaging Christian conservatives who pound their chest every time the word taxes comes up, yet they favor taxing their constituency even when municipal funds, already collected taxes, are available. Welcome to Baldwin County we need your taxes. Doesn’t make sense.
+
+<div class="link-preview">
 
 ## Special School Tax Will Need Council's Blessing (Updated)
 
@@ -63,4 +68,5 @@ News and information for Fairhope and Baldwin County, Alabama.
 
 Source: [thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html](https://thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html)
 
+</div>
 Teachers need to demand that the Baldwin County School Board address the basic needs of schools. Our teachers are suppose to TEACH not fund-raise.

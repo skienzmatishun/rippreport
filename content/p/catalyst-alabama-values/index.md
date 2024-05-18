@@ -14,6 +14,8 @@ authors:
 
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values.
 
+<div class="link-preview">
+
 ## Chris Elliott appointed to Baldwin County Commission seat
 
 ### Chris Elliott appointed to Baldwin County Commission seat
@@ -24,9 +26,12 @@ Chris Elliott will complete the term of former Baldwin County Commissioner Bob J
 
 Source: [www.al.com/news/mobile/index.ssf/2014/07/chris\_elliott\_appointed\_to\_bal.html](https://www.al.com/news/mobile/index.ssf/2014/07/chris_elliott_appointed_to_bal.html)
 
+</div>
 Elliott, is now running for the State Senate seat vacated by the absolutely worst State Senator to ever serve in Alabama, Sen. Tripp Pittman. Alabama values? Pittman took 750,000 of BP money for himself and maintained municipal contracts with Fairhope during the entire time he served as a Senator, while he represented Fairhope. Baldwin County should declare Pittman’s last day a County holiday.
 
 Elliott speaks of Alabama values, “fighting for our fair share”, stopping corruption, taxes, and let’s not leave out Religion and schools. He is hitting all the bases to get elected, slick bs ads and media spots. It is suppose to makes you think Elliott is a seasoned professional. In reality you are talking about a candidate being “placed” in the position, of top dog, where he could best serve Catalyst and the mindset of Catalyst. Truth is Elliott has accomplished little in the last three years.
+
+<div class="link-preview">
 
 ## CATALYST TOP DOGS
 
@@ -38,6 +43,7 @@ Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and als
 
 Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/catalyst-top-dogs/)
 
+</div>
 Alabama Values, what the hell does that mean? Is it a reflection of our dubious reputation of being number one in the United States, when it comes to political corruption? No one wants to admit they are dead last however things will never change until we accept the obvious truth.
 
 Elliott’s appointment, or may I say orchestration, was convenient to say the least.

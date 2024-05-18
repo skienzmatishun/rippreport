@@ -9,6 +9,8 @@ authors:
 
 The Fairhope City Council is really showing their colors.
 
+<div class="link-preview">
+
 ## CATALYST COLORS
 
 ### CATALYST COLORS
@@ -19,6 +21,7 @@ The Fairhope City Council is really showing their colors.
 
 Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/catalyst-colors/)
 
+</div>
 No ethics, No transparency, No accountability, No good
 
 Please listen for our podcast on Freaky Friday’s around noon, Backstory Podcast.

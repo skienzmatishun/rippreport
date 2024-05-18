@@ -26,6 +26,8 @@ The Tatumville gully is the most sensitive of watersheds in Fairhope. In 1994 th
 
 The curious part of this project is that the Single Tax Colony is going to be the developer, which fly's in the face of what Single Tax stands for. Just like the Fly Creek project, the Tatumville project keeps coming up despite a lack of support. In fact the only people pushing the project are Mr. Lee Turner, President of Single Tax who just happens to be the chair of Fairhope Planning and Zoning, who now is the salesman for the project. Talk about conflict of interest! It get better, the other advocate is Mr Cliff Pittman a member of single tax board and business partner of Councilman Robert Brown, who should recuse himself from any vote in reference to the project.
 
+<div class="link-preview">
+
 ## Pitman Brown Building Company - About Us
 
 ### Pitman Brown Building Company - About Us
@@ -36,6 +38,7 @@ Building custom homes and satisfied customers since 1979.
 
 Source: [pitmanbrown.com/about-us/](http://pitmanbrown.com/about-us/)
 
+</div>
 Mr. Anil Vera, who is a close friend of Mr Turner rents property in the same area. He is a real estate sales person, mostly representing himself, who lives in the fruit and nut section where the Tatumville gully is located. What the hell he has to do with project has yet to be discovered.
 
 Mr. Turner as President of Single Tax has been pushing this project since last year, without any vote from the single tax membership. Turner in his capacity as President has taken on the role of a director of Single Tax, which he is not.

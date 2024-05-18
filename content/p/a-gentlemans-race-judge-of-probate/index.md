@@ -20,6 +20,8 @@ Judge Tim Russell is being “aged out” of the position of Probate Judge. He r
 
 <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2016964721850634&autoLogAppEvents=1'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 
+<div class="link-preview">
+
 ## Five candidates qualify for Baldwin County probate judge - Lagniappe Mobile
 
 ### Five candidates qualify for Baldwin County probate judge - Lagniappe Mobile
@@ -44,6 +46,7 @@ State Rep. Randy Davis (R-Daphne) announced on Friday that he is ending his cand
 
 Source: [www.gulfcoastnewstoday.com/stories/rep-randy-davis-ends-candidacy-for-baldwin-county-probate-judge,55417](www.gulfcoastnewstoday.com/stories/rep-randy-davis-ends-candidacy-for-baldwin-county-probate-judge,55417)
 
+</div>
 When Randy Davis went for the exit door, the good ole boys called on Catalyst and Judge Reid for a replacement, they tapped Lynn Perry.
 
 The five candidates Max Hansen, Alan Lipscomb, Matt McKenzie, Catalyst Candidate Lynn Perry and “little’ Harry D’Olive, have four weeks to go before primary elections.

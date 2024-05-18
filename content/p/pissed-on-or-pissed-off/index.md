@@ -11,6 +11,8 @@ The current Fairhope City Council is the most corrupt and inept council to ever 
 
 A curfew, 10pm to 5am, adopted across the state, including Mobile.
 
+<div class="link-preview">
+
 ## CRIMINAL ENTERPRISE
 
 ### CRIMINAL ENTERPRISE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -21,9 +23,12 @@ Fairhope being run as a Criminal Enterprise? WATCH UNTIL MINUTE 2:07–9:
 
 Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/criminal-enterprise/)
 
+</div>
 This council has cost Fairhope millions of dollars and made mistake after mistake with Burrell being at the helm.
 
 The council raises the flag of civil liberties while the same council wound up in Federal Court for refusing to let a USMC combat veteran speak at a council meeting, they lost.
+
+<div class="link-preview">
 
 ## LOSER
 
@@ -35,9 +40,12 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
 The same council who paid council President Burrell’s attorney fees every time they needed to extract his foot from his mouth. The same Burrell who used taxpayer money to derail allegations of his involvement in bid-rigging while he served on the Airport Board.
 
 Burrell used the Airport Authority and your tax dollars to hire lawyers to investigate the whistle blower and then never supplied any report.
+
+<div class="link-preview">
 
 ## YOU DON’T KNOW JACK
 
@@ -71,7 +79,10 @@ Wake up Fairhope, and Baldwin County, pay attention to what your local municipal
 
 Source: [rippreport.com/2020/04/08/the-fairhope-jester/](https://rippreport.com/the-fairhope-jester/)
 
+</div>
 Council Boone has more LLC's than a red head has freckles.
+
+<div class="link-preview">
 
 ## Investigative Reporting - Business Entity Records
 
@@ -93,7 +104,10 @@ Dear Fairhope City Council: Recently several articles have been written in refer
 
 Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
+</div>
 The three B's spent 2.65 million for recreation land that "only they" wanted then leased it for 9 thousand a year for farmland. The city's first analysis of budget cuts, due to coronavirus, is $2.65 million, let that sink in.
+
+<div class="link-preview">
 
 ## LOST OPPORTUNITY
 
@@ -105,6 +119,7 @@ The Mayor of Fairhope is cutting the city budget to compensate for the anticipat
 
 Source: [rippreport.com/2020/03/26/lost-opportunity/](https://rippreport.com/lost-opportunity/)
 
+</div>
 The council has politicized coronavirus, to distract you. Some take the bait, hook, line and sinker. All this under your nose and the curfew has you pissed off, not the corruption.
 
 This council voted themselves a raise and FULL FAMILY insurance that none of our city employees enjoy.

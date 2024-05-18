@@ -11,6 +11,8 @@ I could smell the skunk through my computer, the first time that I read, Chuck Z
 
 Mr Zunk was appointed to the finance committee by the council, Jack Burrell, to monitor, and financially obstruct the Mayor, and take over the budget process, that did not fly.
 
+<div class="link-preview">
+
 ## FLYING HIGH
 
 ### FLYING HIGH | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -21,7 +23,10 @@ Well after a few weeks rest from Chucky Cheese and his creative articles, gleame
 
 Source: [rippreport.com/2018/05/25/flying-high/](https://rippreport.com/flying-high/)
 
+</div>
 Please remember Zunk’s connection to the Airport scandal and dubious airplane hanger lease. He stands firmly behind Jack’s efforts to be sure the Airport property stays with the Airport Authority, instead of the city who paid for it.
+
+<div class="link-preview">
 
 ## Hi-JACK-ed
 
@@ -33,7 +38,10 @@ The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Spark
 
 Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
 
+</div>
 It is well known around City Hall and the Community that Mr Zunk will use every opportunity, public and private, to attack the Mayor. This animosity comes from the Airport Scandal, hopefully Mr Zunk will have to raise his hand in court one day and answer some very difficult questions involving Jack and the Airport. Fairhope breeds bullies, especially bullies that pick on women.
+
+<div class="link-preview">
 
 ## NOW! YOU KNOW JACK
 
@@ -45,6 +53,7 @@ Fairhope is at a crossroads and if the community allows Council President Jack B
 
 Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
 
+</div>
 Something just was not right so I went to the public meeting, called by Mr Zunk, last night at the library, but first I read From the desk of Mayor Wilson, the City’s position and petition.
 
 Council-Manager Form of Government JUNE 21, 2018 COMMUNITY
@@ -68,6 +77,8 @@ Your friends and neighbors will be circulating the petitions, and copies will al
 I believe Sam Gaston says it best, “If you hire a professional manager, you will have less politics in city government.” He is the City Manager of Mountain Brook for the past 25 years and a descendant of E.B. Gaston, founder of Fairhope.
 
 You can meet Mr Gaston at the meeting Thursday, June 21st at the library to discuss this new form of government more.
+
+<div class="link-preview">
 
 ## READ THIS AGAIN:
 
@@ -95,9 +106,12 @@ There’s a grassroots movement underway in Fairhope to adopt a new form of gove
 
 Source: [lagniappemobile.com/group-gathering-signatures-for-new-government-in-fairhope/](https://lagniappemobile.com/group-gathering-signatures-for-new-government-in-fairhope/)
 
+</div>
 Zunk the skunk has his own variation of the petition,
 
 “Thanks for your votes on At-Large vs Districts, we had 65 total votes with the majority of 39 (60%) for At-Large, so that's how we will move forward. Many of you included an explanation of your reasoning, which I was very pleased to read. You have done your homework!” ZUNK the SKUNK explained. Zunk the Skunk is not the only skunk in Baldwin county.
+
+<div class="link-preview">
 
 ## CATALYST SKUNK
 
@@ -109,9 +123,12 @@ County Commission place three has three candidates trying to run over the skunk 
 
 Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/catalyst-skunk/)
 
+</div>
 You should smell a foul smell about this time. Mr Zunk through his survey of 65 people has now decided that the 39 people is all he needs to change the petition from districts to at large. WOW 39 people out of 20,000 is all the skunk needs to push HIS agenda and petition, which HAS NOT been approved by the Probate Judge or Sec. Of State.
 
 Zunk slipped this in last night to an unsuspecting crowd. Mr Zunk asked the crowd if they had any questions? When the Mayor got up to clarify what was being said, Zunk the Skunk instructed the crowd, “listen to me not her” cut the Mayor off, and did not render the microphone. Zunk has learned well from Burrell, deny people and the Mayor the ability to exercise the right of Free Speech.
+
+<div class="link-preview">
 
 ## SEE YA IN COURT JACK
 
@@ -122,6 +139,9 @@ Zunk slipped this in last night to an unsuspecting crowd. Mr Zunk asked the crow
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
 
 Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
+
+</div>
+<div class="link-preview">
 
 ## FEDERAL COURT
 
@@ -145,6 +165,7 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
+</div>
 ## PLEASE SIGN THE APPROVED PETITION, NOT THE ONE THAT STINKS
 
 ## THIS IS VERY IMPORTANT TO THE FAIRHOPE COMMUNITY

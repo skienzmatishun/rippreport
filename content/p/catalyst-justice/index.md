@@ -28,6 +28,8 @@ All of the above escaped any responsibility for their actions and guess what? Ev
 
 Just when you think it cannot get any more corrupt, our understanding of the law and what is right and wrong is being challenged by the appointed Fairhope Municipal Attorney.
 
+<div class="link-preview">
+
 ## Supreme court drops McSharry assault charge after prosecutor fails to act - Lagniappe Mobile
 
 ### Supreme court drops McSharry assault charge after prosecutor fails to act - Lagniappe Mobile
@@ -38,6 +40,7 @@ Paula DiNardi still believes she is an assault victim. Video shows she was sitti
 
 Source: [lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/](https://lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/)
 
+</div>
 This article has a paywall, you can get a free copy at news stands.
 
 If you are concerned about corruption and the blatant abuse of the law, you need to read this article.
@@ -52,6 +55,8 @@ The McSharry case has been sequence of events in favor of the offender and again
 
 In the McSharry case the Municipal Attorney failed in his duties. He not only failed but his actions favored the bully and may result in litigation against the city.
 
+<div class="link-preview">
+
 ## BAR STOOL “CONTINUED”
 
 ### BAR STOOL “CONTINUED”
@@ -62,9 +67,12 @@ In the McSharry case the Municipal Attorney failed in his duties. He not only fa
 
 Source: [rippreport.com/2020/01/24/bar-stool-continued/](https://rippreport.com/bar-stool-continued/)
 
+</div>
 McSharry’s was the watering hole for CATALYST, Attorneys, Judges and especially Councilman Burrell, who had a sandwich, on stale bread, named after him.
 
 They ran like rats from McSharry’s after publicity exposed the CATALYST drinking headquarters.
+
+<div class="link-preview">
 
 ## WATERING HOLE
 
@@ -76,9 +84,12 @@ How does a bar owner, continuously break the law and walk? If you are Ronan McSh
 
 Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/watering-hole/)
 
+</div>
 Baldwin County Judicial System is broken, the good ole boys have dug themselves into a hole. Citizens have no confidence in the system.
 
 The McSharry case is a perfect example of CATALYST JUSTICE.
+
+<div class="link-preview">
 
 ## WHERE IS JUSTICE?
 
@@ -90,9 +101,12 @@ Is it just a coincidence that Fairhope City Council canceled public participatio
 
 Source: [rippreport.com/2020/04/25/where-is-justice/](https://rippreport.com/where-is-justice/)
 
+</div>
 CATALYST is the common denominator when it comes to political corruption. They are planning to expand their stranglehold on Baldwin County, Fairhope and US Congress.
 
 If they succeed, kiss what ever quality of life you may have goodbye.
+
+<div class="link-preview">
 
 ## CATALYST PLAYERS
 
@@ -104,11 +118,14 @@ Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mos
 
 Source: [rippreport.com/2020/05/15/catalyst-players/](https://rippreport.com/catalyst-players/)
 
+</div>
 The Fairhope City Council should fire the city attorney, Marcus McDowell, but wait ! they appointed him to cover their ass.
 
 Do not forget they also appointed the municipal judge who is now the city’s largest developer — secured by a council vote.
 
 Can you say CATALYST?
+
+<div class="link-preview">
 
 ## CORRIDOR OF CHAOS
 
@@ -120,6 +137,7 @@ PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRI
 
 Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
+</div>
 Paula DiNardi is a victim of physical assault and the city attorney, has exhibited total incompetence in his handling of the case. Now he is suggesting that the intoxication charge and the assault charge carry the “identical punishments”.
 
 So the city attorney wants you to believe even though he dropped the ball a thousand times on the assault charge, and it may disappear, he will pursue the “other” charge, intoxication.

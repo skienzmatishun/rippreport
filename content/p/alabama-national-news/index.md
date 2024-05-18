@@ -13,6 +13,8 @@ In today's National news, Alabama is capturing the headlines.
 
 First are the conditions of the Alabama Prison System.
 
+<div class="link-preview">
+
 ## Alabama prison horrors show need for federal interventions to safeguard inmates
 
 ### Alabama prison horrors show need for federal interventions to safeguard inmates
@@ -23,9 +25,12 @@ When local officials fail to protect constitutional rights, the federal governme
 
 Source: [www.usatoday.com/story/opinion/policing/spotlight/2019/04/11/alabama-prison-horrors-need-federal-solution/3439193002/](https://www.usatoday.com/story/opinion/policing/spotlight/alabama-prison-horrors-need-federal-solution/3439193002/)
 
+</div>
 Second is Alabama’s National ranking in Education with the sad but not surprising results: DEAD LAST.
 
 [https://www.usnews.com/news/best-states/alabama](https://www.usnews.com/news/best-states/alabama)
+
+<div class="link-preview">
 
 ## Alabama next to last in US News ranking of best and worst states
 
@@ -37,6 +42,7 @@ Alabama has a not-so-enviable place on the list of best states.
 
 Source: [www.al.com/news/2019/05/alabama-next-to-last-in-us-news-ranking-of-best-and-worst-states.html](https://www.al.com/news/2019/05/alabama-next-to-last-in-us-news-ranking-of-best-and-worst-states.html)
 
+</div>
 Education is a sham in Alabama and the blame for the deplorable state of Alabama's education system lies squarely on the shoulders of politicians and voters. For twenty years Alabama has talked about an education lottery but what happens when we are finally given the chance? There is not one word about nor one dime toward education.
 
 Politicians have ignored education through lies and manipulation, instead convincing voters that salvation lies in self-imposed property taxes. Teachers donate time and money in fundraisers for school supplies while parents are constantly asked to financially chip in. In Baldwin County “portable” campuses will be a norm.

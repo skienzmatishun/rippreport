@@ -17,6 +17,8 @@ The Alabama Ethics Commission is a joke and the Alabama Bar Association and Judi
 
 A basic political ethic is that no elected official can use his elected office for personal gain. That is basic, yet in Alabama it is acceptable.
 
+<div class="link-preview">
+
 ## Opinion | Alabama Supreme Court’s solution to public corruption: Legalize it
 
 ### Opinion | Alabama Supreme Court’s solution to public corruption: Legalize it
@@ -27,4 +29,5 @@ This is it for ethics in Alabama. The Mike Hubbard appeal that sits before the A
 
 Source: [www.alreporter.com/2019/06/05/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/](https://www.alreporter.com/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/)
 
+</div>
 If Mike Hubbard does not go to Jail, Alabama will maintain the U.S. Title as the Most Political Corrupt State and Education will share the title.

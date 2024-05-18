@@ -55,6 +55,9 @@ text-align:center;
     text-align:center;
 
 }
+.link-preview h3 {
+display:none;
+}
 
 .link-preview p {
     text-align:left;

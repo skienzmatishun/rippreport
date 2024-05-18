@@ -13,6 +13,8 @@ WELCOME TO ALABAMA
 
 Don’t let anyone tell you Louisiana or Mississippi is more corrupt than Alabama. Alabama is first by a long shot. Corruption is a way of life and often involves “good people” that are considered leaders in the community and good Christians. Sometimes the corruption is so blatant it is hard to comprehend why no authorities step in. The local media is virtually non existent, the Ethics Commission lacks any credibility and other authorities seem to be asleep at the wheel.
 
+<div class="link-preview">
+
 ## Alabama Ethics Commission revelations go 'Boom!'
 
 ### Alabama Ethics Commission revelations go 'Boom!'
@@ -23,6 +25,7 @@ Don’t let anyone tell you Louisiana or Mississippi is more corrupt than Alabam
 
 Source: [www.al.com/opinion/index.ssf/2017/08/alabama\_ethics\_commission\_reve.html](http://www.al.com/opinion/index.ssf/2017/08/alabama_ethics_commission_reve.html)
 
+</div>
 An outgoing member - Dr. Stewart Hill Tankersley - says a majority of his colleagues want to weaken the commission and see it fail.
 
 They are more interested, he says, in providing legal cover to powerful politicians than carrying a torch for what is right. For what is ethical.
@@ -35,6 +38,8 @@ It ought to be dynamite. Tankersley says three members -- Jerry Fielding, Frank 
 
 In Birmingham a current corruption trial involves lawyers government agencies, Mayors, City Councils and other elected officials.
 
+<div class="link-preview">
+
 ## Indictment tells dirty secrets about Alabama environmental regulator
 
 ### Indictment tells dirty secrets about Alabama environmental regulator
@@ -45,11 +50,14 @@ This is how it works.
 
 Source: [www.al.com/opinion/index.ssf/2017/10/indictment\_tells\_dirty\_secrets.html](http://www.al.com/opinion/index.ssf/2017/10/indictment_tells_dirty_secrets.html)
 
+</div>
 “I worry too. Because this is how it works. Not just at AEMC and ADEM but in city councils and county commissions across this state. In the Legislature, the governor's office and in regulatory bodies that are supposed to be looking out for your interests.”
 
 Who can you trust?
 
 Four state lawmakers have been convicted since 2014.
+
+<div class="link-preview">
 
 ## Alabama state Rep. Micky Hammon pleads guilty to mail fraud
 
@@ -61,6 +69,7 @@ Hammon, a Republican from Decatur, devised a scheme to use campaign funds for pe
 
 Source: [www.al.com/news/birmingham/index.ssf/2017/09/alabama\_state\_rep\_micky\_hammon.html](http://www.al.com/news/birmingham/index.ssf/2017/09/alabama_state_rep_micky_hammon.html)
 
+</div>
 Let’s not forget the Luv Gov who resigned and Speaker of the House Hubbard who is packing his bags for jail. Then we HAD big Luther as Attorney General who gave the Luv Guv his walking papers and turned a blind eye to Sen. Pittman and the cool 750,000 dollars he skimmed from BP.
 
 From the Governors office to the smallest communities elected officials use their office for personal gain. A good local example is the City Council in Fairhope, who obstruct the Mayor while they ignore any allegations that may arise against their friends or fellow councilmen. They put their political agenda and friends first and constituents last.

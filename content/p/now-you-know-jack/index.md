@@ -18,6 +18,8 @@ Mr Burrell has orchestrated a campaign of obstructing the office of the Mayor fr
 
 Mr. Burrell was certain that Mayor Kant was going to win reelection and that his mentor was going to crown him the next Mayor. The disappointment of their clever plan failing just fueled Mr Burrell’s assault on the Mayor and some female staff, he never complains about any men.
 
+<div class="link-preview">
+
 ## YOU DON’T KNOW JACK
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/08/YOU-DONT-KNOW-JACKLarge.jpg)
@@ -62,7 +64,10 @@ Fairhope City Council President, Fairhope Authority board member and Fairhope Au
 
 Source: [rippreport.com/2016/12/21/double-down-and-i-call/](https://rippreport.com/double-down-and-i-call/)
 
+</div>
  
+
+<div class="link-preview">
 
 ## Fairhope Airport Authority – FLYING WITHOUT A COMPASS
 
@@ -74,9 +79,12 @@ These are two articles that were covered by The Fairhope Times one year ago. The
 
 Source: [rippreport.com/2016/12/14/fairhope-airport-authority-flying-without-a-compass/](https://rippreport.com/fairhope-airport-authority-flying-without-a-compass/)
 
+</div>
 The Mayor has held her ground and has never wavered in support of the citizens, be it the Airport or Fly Creek or the sewer issues.
 
 I am a combat veteran of Vietnam and a citizen of the United States and the Constitution affords me the right of Free Speech and some Jack Ass is not going to deny me that right.
+
+<div class="link-preview">
 
 ## JACK ASS
 
@@ -88,6 +96,7 @@ Well folks, as they often say, “You can’t make this stuff up!” Monday nigh
 
 Source: [rippreport.com/2017/07/26/jack-ass/](https://rippreport.com/jack-ass/)
 
+</div>
 I have filed a Verified Notice Of Claim To The City Of Fairhope:
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/08/IMG-20170829-WA0001-576x10241.jpg)
@@ -95,6 +104,8 @@ I have filed a Verified Notice Of Claim To The City Of Fairhope:
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/08/IMG-20170829-WA0000-576x10241.jpg)
 
 Mr. Burrell approved Airport funds to hire an attorney to investigate The Ripp Report. He however led the charge to deny the Mayor the same right to legal consul.
+
+<div class="link-preview">
 
 ## JACK IN THE BOX
 
@@ -106,4 +117,5 @@ The Airport Authority has a great idea! They are going to use your tax dollars t
 
 Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
+</div>
 So NOW you know the real Jack

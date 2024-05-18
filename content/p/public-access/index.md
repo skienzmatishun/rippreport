@@ -13,6 +13,8 @@ authors:
 
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.
 
+<div class="link-preview">
+
 ## Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
 
 ### Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
@@ -51,7 +53,10 @@ The Fairhope City Council is the worst council in the history of the community. 
 
 Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/bend-over-fairhope/)
 
+</div>
 PLEASE TAKE JUST A MINUTE OR TWO AND SIGN THE PETITION. LET’S SEND A CLEAR MESSAGE TO THE COUNTY COMMISSION, LEAVE ZUNDEL ROAD PUBLIC ACCESS ALONE.
+
+<div class="link-preview">
 
 ## Sign the petition: Save Public Water Accesses
 
@@ -63,4 +68,5 @@ I just signed a petition to Governor Kay Ivey, The United States House of Repres
 
 Source: [petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp](https://petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp)
 
+</div>
 KICK DORSEY, ELLIOTT AND CATALYST TO THE CURB JUNE 5th.

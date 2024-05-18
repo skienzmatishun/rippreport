@@ -17,6 +17,8 @@ https://lagniappemobile.com/uncontested-judicial-elections-anomaly-among-large-c
 
 A good example of this “insider Judge selection process”, is the appointment of Judge Bill Scully. Scully was appointed to his position in a large part due to the backing of Catalyst Queen Michelle Thomason. Bow before the queen and rise a knight Sir Scully!
 
+<div class="link-preview">
+
 ## CATALYST QUEEN – REMEMBER FAMILY COURT
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/04/witch-1.jpg)
@@ -43,9 +45,12 @@ Investigators with the Baldwin County Major Crimes Task Force confirmed in a pre
 
 Source: [www.fox10tv.com/story/37660710/bcso-man-who-was-shot-and-killed-by-deputies-identified](http://www.fox10tv.com/story/37660710/bcso-man-who-was-shot-and-killed-by-deputies-identified)
 
+</div>
 Scully has ignored other laws requiring those convicted of DUI to install the ignition interlock device on their vehicles.
 
 The Alabama Legislature passed the interlock law in 2011, making it the 50th state out of 50 to pass such a law, whereby judges overseeing these cases are REQUIRED to make it mandatory for first time DUI offenders to install the ignition interlock device on their vehicles when: 1. Their BAC, (blood alcohol content) is over .15 or 2. When they refuse to take the breath test. The Ripp Report has recently uncovered well over a dozen cases where defendants met these criteria but Judge Scully totally ignored the law and didn’t require them to have this device installed on their vehicles, thereby putting known offenders back on the roads of Baldwin County endangering our citizens.
+
+<div class="link-preview">
 
 ## Alabama goes all in on ignition controls for drunken drivers, but do they work?
 
@@ -57,6 +62,7 @@ Taking effect this month, a revised law provides for people convicted of driving
 
 Source: [www.al.com/news/index.ssf/2014/07/alabama\_goes\_all\_in\_on\_ignitio.html](https://www.al.com/news/index.ssf/2014/07/alabama_goes_all_in_on_ignitio.html)
 
+</div>
 Judge Scully was reminded of the law by counsel and continued to ignore it. Catalyst works in many ways to protect and promote Judges that are a key ingredients to their floor plan of political control.
 
 ## COOKING FOR THE JUDGE

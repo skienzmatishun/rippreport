@@ -28,6 +28,8 @@ Women need to speak up more.
 
 One women is:
 
+<div class="link-preview">
+
 ## BARSTOOL
 
 ### BARSTOOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -38,6 +40,7 @@ Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan Mc
 
 Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
 
+</div>
 The VICTIM, Paula DiNardi, in this case had to endure several postponements of the case and over 8 hours in the Fairhope Municipal Court, only to be victimized again. Paula was the latest victim of McSharry and has had her life turned upside down since the incident.
 
 Paula has for the most part has stood alone in her attempt for justice. The City Attorney has represented her poorly and the defense attorney wants to politicize an assault case into a continued witch hunt against the Mayor.
@@ -47,6 +50,8 @@ Ronan McSharry was found guilty In Fairhope Municipal Court, this last week, of 
 Mr. McSharry, through another attorney attempted to “settle the issue” with DiNardi, providing she remain silent for life and not show up for court, thus the charges would be dropped. It is the Ripp Report’s understanding both offers were rejected. Her reason for not taking the money and running is quite simple. She feels that women should not be beat up by men, and then paid off to remain silent.
 
 Mr Beck not only defended McSharry but he wandered into a line of questioning that politicized, and was not relevant, to the assault and public intoxication case. Mr Beck has a way of victimizing the victim and making the guilty party look innocent.
+
+<div class="link-preview">
 
 ## DA continues pursuit of Spanish Fort rape case - Lagniappe Mobile
 
@@ -86,6 +91,9 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
+<div class="link-preview">
+
 ## EXPOSURE
 
 ### EXPOSURE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -96,6 +104,7 @@ The Ripp Report is a non-profit organization, politically non-partisan. The focu
 
 Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/exposure-2/)
 
+</div>
 It is women like Paula DiNardi that make a difference.
 
 Stay tuned this is going to get real interesting.

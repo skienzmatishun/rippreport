@@ -7,6 +7,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## PLEASE ATTEND FAIRHOPE CITY COUNCIL MEETING JUNE 11, SUPPORT THE MAYOR
 
 If you live in Fairhope, BEWARE, your government is being hijacked by past employees that have been fired, quit or retired, since the election of Mayor Karin Wilson. Two employees sued the city with the help of the City Council and then sealed the cases so the general public never knew the truth behind their firings. It is the same damn crowd who have been crying in their milk ever since Fairhope had a “fair” election. They are supported by people that were loyal to Kant, including the Courier tabloid and the local AM station W.A.C.O.
@@ -49,6 +51,7 @@ PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTA
 
 Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
+</div>
 Only 24% voted in the mid term, 76% were asleep.
 
 If 76% remain asleep in Fairhope they will lose their quality of life, property values will go down and corruption will be the new norm.

@@ -15,6 +15,8 @@ Tucker is probable ready to go anyway, he came to office with an empty wallet, n
 
 Mr. Dorsey may have made a few million, however Baldwin County Citizens are left with the “dump” Mega Site and countless lost opportunities.
 
+<div class="link-preview">
+
 ## CATALYST TOP DOGS
 
 ### CATALYST TOP DOGS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -25,7 +27,10 @@ Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and als
 
 Source: [rippreport.com/2018/05/04/catalyst-top-dogs/](https://rippreport.com/catalyst-top-dogs/)
 
+</div>
 Tucker Dorsey should be thrown out the exit door, over the mega-site and loss of 35 million, now in undeveloped scrub. Most important should be the lost opportunity of that money. County infrastructure and county employees were ignored for this good ole boy deal.
+
+<div class="link-preview">
 
 ## ECONOMIC DEVELOPMENT – BALDWIN COUNTY STYLE
 
@@ -37,9 +42,12 @@ In 2012 the Baldwin County Commission convinced itself that Baldwin County neede
 
 Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
 
+</div>
 Tucker Dorsey and Chris Elliott then lied to the taxpayers and passed a 1% tax for schools, WITHOUT A VOTE FROM THE PEOPLE, that the county skimmed 4 million a year off, for infrastructure. They spent the money on a good ole boy deal and then robbed the schools to make up the difference. 4 million a year is 40 million every 10 years! Think about that!
 
 [https://www.facebook.com/groups/1593293237549165/permalink/2123895317822285/](https://www.facebook.com/groups/1593293237549165/permalink/2123895317822285/)
+
+<div class="link-preview">
 
 ## PLEASE VOTE JULY 17TH FOR BILLIE JO UNDERWOOD AND SHOW TUCKER THE EXIT DOOR.
 
@@ -57,4 +65,5 @@ County Commission place three has three candidates trying to run over the skunk 
 
 Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/catalyst-skunk/)
 
+</div>
 ## DO NOT FORGET TO VOTE< THIS SKUNK NEEDS TO BE ROADKILL

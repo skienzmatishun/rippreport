@@ -21,6 +21,8 @@ Our District Attorney walked into office without opposition, did not need one si
 
 Sheriff Mack also has no competition for his office. Why? Because Sen Trip Pittman, the BP thief, fixed it for him years ago.
 
+<div class="link-preview">
+
 ## Debate heats up over new qualification rules for Baldwin County sheriff
 
 ### Debate heats up over new qualification rules for Baldwin County sheriff
@@ -31,6 +33,7 @@ A new law meant to raise the bar for candidates seeking the office of sheriff in
 
 Source: [blog.al.com/live/2013/08/debate\_heats\_up\_over\_new\_quali.html](http://blog.al.com/live/2013/08/debate_heats_up_over_new_quali.html)
 
+</div>
 You have to ask yourself why would Sheriff Mack get in bed with Catalyst and openly support Catalyst candidates? In fact why is he even involving the sheriff’s office in any of the political races?
 
 Sheriff Mack attended a BBQ event where he was the cook for Judge Scully, the Catalyst candidate running for District Circuit Court.

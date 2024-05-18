@@ -9,6 +9,8 @@ authors:
 
 Several weeks ago Lagniappe published the story below:
 
+<div class="link-preview">
+
 ## Point Clear residents fight RSA condo proposal - Lagniappe Mobile
 
 ### Point Clear residents fight RSA condo proposal - Lagniappe Mobile
@@ -19,7 +21,10 @@ A controversial condo development in historic Point Clear is likely to be consid
 
 Source: [lagniappemobile.com/point-clear-residents-fight-rsa-condo-proposal/](https://lagniappemobile.com/point-clear-residents-fight-rsa-condo-proposal/)
 
+</div>
 This is a dispute between the Point Clear Properties Association and RSA, Retirement Systems of Alabama. RSA owns the Grand Hotel. They make the decisions, the management of the hotel only follows orders. Just like the toll bridge, Goat Hill telling us what to do.
+
+<div class="link-preview">
 
 ## FINGERPRINT
 
@@ -31,6 +36,7 @@ After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organ
 
 Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/fingerprint/)
 
+</div>
 The piece of property in question is the quaint marina next to the Grand Hotel, 1.27 acres. The homeowners association has done an excellent job of opposing the 12 unit condo project. A petition of over 400 signatures and an additional 100 letters have been submitted to the Baldwin County Planning Commission.
 
 The Homeowners Association, local residents, the Baldwin County Planning Commission and the Fairhope planning Board are all in opposition to the zoning change.

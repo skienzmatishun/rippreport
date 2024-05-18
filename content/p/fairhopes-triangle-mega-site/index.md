@@ -14,6 +14,8 @@ authors:
 
 Baldwin County Commissioners have their Mega “dump” Site.
 
+<div class="link-preview">
+
 ## DEAD LAST![](https://cdn.rippreport.com/wp-content/uploads/2018/03/mega-site2.jpg)
 
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the…
@@ -34,9 +36,12 @@ Fairhope, Alabama: newspaper, information, government, events, arts, music, ente
 
 Source: [thefairhopetimes.blogspot.com/2011/01/dyas-triangle-phony-lawsuit-conspiracy.html](http://thefairhopetimes.blogspot.com/2011/01/dyas-triangle-phony-lawsuit-conspiracy.html)
 
+</div>
 THE TRIANGLE PROPERTY WAS PURCHASED BY THE CITY OF FAIRHOPE TO “SETTLE” A LAWSUIT.
 
 Mr. Burrell and Boone want you to believe it was a voluntary purchase for a City Park, that is absolutely false. They want to declare the property as a conservation easement, insuring nothing can be built on the property.
+
+<div class="link-preview">
 
 ## Fairhope settles with former insurer over 'Dyas Triangle' legal fees - Lagniappe Mobile
 
@@ -62,9 +67,12 @@ Fairhope, Alabama: newspaper, information, government, events, arts, music, ente
 
 Source: [thefairhopetimes.blogspot.com/2016/05/new-plan-for-dyas-triangle-property.html](http://thefairhopetimes.blogspot.com/2016/05/new-plan-for-dyas-triangle-property.html)
 
+</div>
 This Jewell of a project would have a price tag of 16 to 20 million in land cost and 2 million for development, 22 Million for an Archery Range, walking trail and what Kant called a “Arbortorium.”
 
 Burrell and Boone want to have a City Council vote, asap, before any comprehensive plan of Fairhope. This should not happen, without a referendum or being vetted through public participation while developing a current and citizen approved Comprehensive plan.
+
+<div class="link-preview">
 
 ## Vision & Planning: $650,000 Fairhope Area Community-based Comprehensive Land Use Plan
 
@@ -76,6 +84,7 @@ The City of Fairhope will begin the Fairhope Area Community-based Comprehensive 
 
 Source: [www.mayorkarinwilson.com/vision-planning-650000-fairhope-area-community-based-comprehensive-land-use-plan/](www.mayorkarinwilson.com/vision-planning-650000-fairhope-area-community-based-comprehensive-land-use-plan/)
 
+</div>
 Mayor Wilson worked for the last 18 months for the 17.2 million the city got from BP Restore funds. The 650,000 dollars for a Comprehensive Plan must include the Triangle property.
 
 Fairhope you have a decision; Let Burrell and Boone, and most likely the Jester Brown, make a 20 million dollar decision for you or use the $650,000 Comprehensive Plan, that will include public participation, in determining the best use of the property for the community.

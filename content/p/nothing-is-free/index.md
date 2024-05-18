@@ -18,6 +18,8 @@ Well, folks I will have to admit that the newly elected State Senator Chris Elli
 
 Mr Elliott is for the gas tax which is a horse of another color. The Senator is on the mark however when it comes to his proposed legislation.
 
+<div class="link-preview">
+
 ## Elliott introduces bill to roll back extraterritorial jurisdictions - Lagniappe Mobile
 
 ### Elliott introduces bill to roll back extraterritorial jurisdictions - Lagniappe Mobile
@@ -38,6 +40,7 @@ Can you hear me now! How many times in the last 18 months has the Mayor of Fairh
 
 Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/communication/)
 
+</div>
 We are one of three states that allows this taxation without representation to exist. Captain Jack knows the good ole boys do not want to see any annexation, mainly because they know they would be voted out of office.
 
 You want city services? Then you need to be in the City limits? Then you can vote out the Catalyst Council! Nothing is free.

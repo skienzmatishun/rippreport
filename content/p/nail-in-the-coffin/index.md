@@ -15,6 +15,8 @@ This untimely purchase will delay infrastructure, sewer and capital improvements
 
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d6877.787500194032!2d-87.87803721815628!3d30.467447413802194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x889a3fc8489154f5%3A0xf5d2af8df9e16d5a!2s8875%20County%20Road%2032%2C%20Fairhope%2C%20AL!3m2!1d30.473875999999997!2d-87.873177!4m3!3m2!1d30.4724541!2d-87.8754642!5e0!3m2!1sen!2sus!4v1572481621186!5m2!1sen!2sus" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<div class="link-preview">
+
 ## City Council Agenda
 
 > 19\. Resolution – That the City Council authorizes and allocates funding of $2,650,000.00 for the purchase of approximately 114 acres of land located on the northwest corner of County Road 13 and 32 (8875 County Road 32) as follows: Investment CD – Savings: $1,065,146.07; Prepay Debt Reserve: $700,285.37; Impact Fees – Recreation: $884,568.56; for a Total amount of $2,650,000.00.
@@ -35,6 +37,7 @@ Please read the Mayor’s comments and file written complaints to those listed a
 
 Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
+</div>
 The council has used a very questionable appraisal to boost the purchase of the land. Fact is the council first promised on Oct. 29,2019, that only an appraisal was being sought, not a sale. They approved the appraisal and then moved forward to purchase.
 
 They lied, not only did they lie they conspired among themselves to pass the purchase without public input.
@@ -42,6 +45,8 @@ They lied, not only did they lie they conspired among themselves to pass the pur
 WHY?
 
 Because they could not get public support through legitimate public engagement.
+
+<div class="link-preview">
 
 ## HONEY BEES
 
@@ -53,7 +58,10 @@ he Fairhope Council is made up of all ?Catalyst candidates. Three bees, Burrell,
 
 Source: [rippreport.com/2019/10/09/honey-bees/](https://rippreport.com/honey-bees/)
 
+</div>
 Let’s look at some of the parks and purchases of the Fairhope City Council:
+
+<div class="link-preview">
 
 ## 1.The Triangle PARK
 
@@ -77,6 +85,9 @@ The Fairhope Conservation Easement is in limbo while Weeks Bay and the city coun
 
 Source: [rippreport.com/2019/07/10/gold-mine-for-sale/](https://rippreport.com/gold-mine-for-sale/)
 
+</div>
+<div class="link-preview">
+
 ## 2.Soccer Fields purchase.
 
 What an absolute corrupt deal this was. The council, in office at the time, did the same thing this council is doing, draining city accounts for an unnecessary land deal for the good ole boys.
@@ -95,6 +106,9 @@ Years of planning and reeling in costs came together Monday night with the Fairh
 
 Source: [www.al.com/news/mobile/2015/04/fairhope\_soccer\_complex\_constr.html](https://www.al.com/news/mobile/2015/04/fairhope_soccer_complex_constr.html)
 
+</div>
+<div class="link-preview">
+
 ## 3.The purchase of the K1 and Nix center
 
 ## City of Fairhope agrees to purchase former K1 Center from school board - Lagniappe Mobile
@@ -107,11 +121,14 @@ The Fairhope City Council voted today to enter into a purchase agreement with th
 
 Source: [lagniappemobile.com/city-of-fairhope-agrees-to-purchase-former-k1-center-from-school-board/](https://lagniappemobile.com/city-of-fairhope-agrees-to-purchase-former-k1-center-from-school-board/)
 
+</div>
 The City Council screwed up this deal for months. One proposal after another went down the toilet until finally the Mayor secured the sale. Now they own it and have no plan and no money.
 
 The council discussed in the work session prior to the council meeting as to how they could come up with money to do minor repairs, such as a roof, on K1. People wake up! They do not have the money for a roof on a building falling down, or a replacement roof for city hall, or improvements for the Nix Center.
 
 But they approve 2.65 million for dirt???
+
+<div class="link-preview">
 
 ## 4.
 
@@ -125,11 +142,14 @@ The citizens of Fairhope must know that they are being sold out by developers, t
 
 Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/fairhope-sold-to-the-highest-bidder/)
 
+</div>
 You will hear much more about this good ole boy deal because people are already coming forward with details and information never made public. This should be the nail in the coffin for the city council in 2020.
 
 This is in your face corruption with ?CATALYST fingerprints all over it.
 
 Be aware folks the Fairhope City Council is 100% ?CATALYST. For those of you who do not know who ?CATALYST is, just understand that they do not represent the Citizens of Fairhope or Baldwin County.
+
+<div class="link-preview">
 
 ## CATALYST DOES FAIRHOPE
 
@@ -140,3 +160,5 @@ Be aware folks the Fairhope City Council is 100% ?CATALYST. For those of you who
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
 Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
+
+</div>

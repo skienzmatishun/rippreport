@@ -21,6 +21,8 @@ The Mayor of Fairhope has made the city’s position clear:
 
 From the Desk of Mayor Wilson,
 
+<div class="link-preview">
+
 ## Fairhope Standard: Gravity Fed VS Low Pressure Sewer System
 
 ### Fairhope Standard: Gravity Fed VS Low Pressure Sewer System
@@ -31,6 +33,7 @@ At the November 27th Council meeting, a citizen spoke to gravity fed sewer syste
 
 Source: [www.mayorkarinwilson.com/fairhope-standard-gravity-fed-vs-low-pressure-sewer-system/](http://www.mayorkarinwilson.com/fairhope-standard-gravity-fed-vs-low-pressure-sewer-system/)
 
+</div>
 In the past administrations, Fairhope turned a blind to the rules, some developers were allowed to use grinder pumps, it's called good ole boys. To get around the rules a "connected" developer/builder would go see the Mayor who would say that he would see what he could do and that they needed to talk with the utility director.
 
 Guess who the hell was the utility director? the Mayor. That's right, the Mayor wore two hats and collected two checks from the city, not counting what he got from the developer!

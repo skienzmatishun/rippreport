@@ -19,6 +19,8 @@ The Ethics Commission is a toothless tiger, controlled and operated by the same 
 
 Last week they wanted to legalize corruption.
 
+<div class="link-preview">
+
 ## LEGAL CORRUPTION
 
 ### LEGAL CORRUPTION | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -29,7 +31,10 @@ Kyle Whitmire of Al.com has written a series of articles that most people in Ala
 
 Source: [rippreport.com/2019/04/12/legal-corruption/](https://rippreport.com/legal-corruption/)
 
+</div>
 This week they, your elected Baldwin County officials, want you to swallow the whole stupid pill and believe that Economic Development lobbyist are not really lobbyist. What is a few “ dinners or incentives” thrown to the feet of legislators? It is the way business is conducted in the “third world” of Alabama.
+
+<div class="link-preview">
 
 ## Lawmakers pass bill saying economic developers are not lobbyists
 
@@ -41,6 +46,7 @@ Alabama legislators had exempted economic developers from requirements to regist
 
 Source: [www.al.com/news/2019/04/lawmakers-pass-bill-saying-economic-developers-are-not-lobbyists.html](https://www.al.com/news/2019/04/lawmakers-pass-bill-saying-economic-developers-are-not-lobbyists.html)
 
+</div>
 This Facebook post says it best.
 
 ReportTrolls
@@ -51,6 +57,8 @@ It is interesting to see where our newly elected State Senator Elliott, aka the 
 
 We all support the Police, Elliott however, supports and uses the police for public relations and Sheriff Hoss Mack is more than willing to ride the same wave for the very same reason.
 
+<div class="link-preview">
+
 ## Senator Chris Elliott introduces bill to crack down on violent crimes against law enforcement
 
 ### Senator Chris Elliott introduces bill to crack down on violent crimes against law enforcement
@@ -60,6 +68,9 @@ We all support the Police, Elliott however, supports and uses the police for pub
 State Senator Chris Elliott has introduced legislation that would allow for harsher penalties against those who commit acts of violence against a law enforcement officer. “Every day, our …
 
 Source: [www.gulfcoastnewstoday.com/stories/senator-chris-elliott-introduces-bill-to-crack-down-on-violent-crimes-against-law-enforcement,75903](http://www.gulfcoastnewstoday.com/stories/senator-chris-elliott-introduces-bill-to-crack-down-on-violent-crimes-against-law-enforcement,75903)
+
+</div>
+<div class="link-preview">
 
 ## SUPPORT THE POLICE BEWARE OF POLITICIANS
 
@@ -75,4 +86,5 @@ Every now and again, my faith is restored in our lawmakers in Montgomery. They f
 
 Source: [lagniappemobile.com/from-great-to-grotesque-a-tale-of-two-bills/](https://www.usposts.net/2019/04/from-great-to-grotesque-a-tale-of-two-bills/)
 
+</div>
 Note: Link does not go to original source.

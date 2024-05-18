@@ -21,6 +21,8 @@ On a more positive note, Big Luther and Tripp Pittman are history. There is a Go
 
 Only Alabama would vote for someone who rode a horse to the polls, banished a firearm in a political rally and twice put his hand on the Bible swearing he would uphold the laws of the state and country, without prejudice, and then violated that oath once in office.
 
+<div class="link-preview">
+
 ## Roy Moore pulls his gun out in front of the crowd at campaign rally
 
 ### Roy Moore pulls his gun out in front of the crowd at campaign rally
@@ -31,9 +33,12 @@ Moore and Strange's run-off election is Tuesday. The successful candidate will c
 
 Source: [www.washingtonexaminer.com/roy-moore-pulls-his-gun-out-in-front-of-the-crowd-at-campaign-rally/article/2635602](www.washingtonexaminer.com/roy-moore-pulls-his-gun-out-in-front-of-the-crowd-at-campaign-rally/article/2635602)
 
+</div>
 BLOOD IN THE WATER
 
 Hold on to your hats we are going to see a record voter turnout for the Moore/Jones runoff in Dec 2017 for a Senate election. There is blood in the water and the democrats in Alabama are waking up from a long nap and they have a candidate, Doug Jones.
+
+<div class="link-preview">
 
 ## Priorities - Doug Jones for U.S. Senate
 
@@ -45,7 +50,10 @@ The most productive, innovative people I know are entrepreneurs who have had the
 
 Source: [dougjonesforsenate.com/priorities/](https://dougjonesforsenate.com/priorities/)
 
+</div>
 The Republicans in Washington are freaking out as well as President Trump. Moore is right of the Tea Party and splits an already fractured party further. Moore also has alarmed the Republican establishment with his views on many issues as well as his reluctance to recant obvious false claims.
+
+<div class="link-preview">
 
 ## A small taste of Roy Moore's radical comments
 
@@ -57,4 +65,5 @@ Who is Roy Moore, the man who won the special GOP runoff election in Alabama on 
 
 Source: [www.msnbc.com/morning-joe/watch/a-small-taste-of-roy-moore-s-radical-comments-1055997507513](http://www.msnbc.com/morning-joe/watch/a-small-taste-of-roy-moore-s-radical-comments-1055997507513)
 
+</div>
 Then add in the Alabama Republican Party members who have had enough of promises for decades from goat hill and the Swamp. The Republican tolerance for political corruption has held Alabama hostage to any progress. They see reality, Judge Moore may have strong convictions however his beliefs, and statements, are not in step with Washington, or the country, and will be a deficit not an asset. This will only hold Alabama back further! What will the voters decide?

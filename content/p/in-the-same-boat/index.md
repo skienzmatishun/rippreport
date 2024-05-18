@@ -13,6 +13,8 @@ Baykeeper never did a damn thing about the Publix project, flooding of Fly Creek
 
 Private citizens sued the City over some of these issues while Baykeeper’s phone was off the hook. Mayor Can’t and Baykeepers did nothing but use air and talk “crap”.
 
+<div class="link-preview">
+
 ## FAIRHOPE SEWER BACKSTORY
 
 ### FAIRHOPE SEWER BACKSTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -23,7 +25,10 @@ The Ripp Report is a consumer, citizen, group. The intent of the Ripp Report is 
 
 Source: [rippreport.com/2019/08/07/fairhope-sewer-backstory/](https://rippreport.com/fairhope-sewer-backstory/)
 
+</div>
 Now the Director of Baykeeper Casi Callaway is in damage control for grabbing headlines and NOT using the phone. This is a typical Casi trick, it is strictly a political Baykeeper promotion She said she sent everyone a letter, I am hurt not to have received my copy, but not surprised, she did not answer the phone either.
+
+<div class="link-preview">
 
 ## Fairhope mayor brings dispute with Baykeeper into limelight - Lagniappe Mobile
 
@@ -35,6 +40,7 @@ To be fair, maybe Mobile Baykeeper Executive Director Casi Callaway could have t
 
 Source: [lagniappemobile.com/fairhope-mayor-brings-dispute-with-baykeeper-into-limelight/](https://lagniappemobile.com/fairhope-mayor-brings-dispute-with-baykeeper-into-limelight/)
 
+</div>
 So after releasing a very negative media report about Fairhope and receiving, just blow back, Casi decides that she must address the Fairhope City Council and dig her hole a little deeper.
 
 Normal procedure is for Public Participation to be at the beginning of the council meeting, for 3 minutes, on agenda items only. Public participation at the end of the meeting affords citizens 3 minutes to discuss non agenda items.
@@ -44,6 +50,8 @@ Does Casi Callaway contact the Mayor, NO she contacts the Council President Burr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dAXz" frameborder="0" allowfullscreen></iframe>
 
 Jack and Casi know the time allocated and agenda procedure was politically motivated to blind side the Mayor. The Mayor has produced a Timeline, dating back to 2016, that outlines the Mayor and staff’s due diligence.
+
+<div class="link-preview">
 
 ## Timeline for Sewer System Upgrades & Water Quality Initiatives
 
@@ -55,9 +63,12 @@ I decided to dedicate a page for a timeline to keep citizens up-to-date on the C
 
 Source: [mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/](http://mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/)
 
+</div>
 where is the Council’s Timeline? and where is Baykeepers timeline?
 
 Fairhope Council President Jack Burrell has been Council President for seven years. He has refused to yield power to other Council members while he uses the position and agenda for political purposes and bulling tactics.
+
+<div class="link-preview">
 
 ## LOSER
 
@@ -69,9 +80,12 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
 Council President Burrell now has the dubious honor of being found guilty in Federal court for violating the Constitutional rights of an American Citizen and veteran. That case is now being used as a precedent case involving the same constitutional rights being violated by other Council Presidents in the United States.
 
 Let’s not forget about the Police Report Councilman Burrell has yet to explain.
+
+<div class="link-preview">
 
 ## POLICE REPORT
 
@@ -83,6 +97,7 @@ A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp R
 
 Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
+</div>
 So Casi and Jack appear to be in the same political boat and at the same council meeting Debbie Quinn and Sherry Sullivan, past political shipwreck survivors, were floating and yelling that they wanted in the same boat.
 
 ## 2020 is going to be one hell of a year.

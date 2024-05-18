@@ -15,6 +15,8 @@ The common denominator of CATALYST is that all of their candidates, be they appo
 
 The runoff is March 31, ask yourself, Does the First Congressional District of Alabama want a CATALYST Congressman? A CATALYST Congressman represents CATALYST, make no mistake about that.
 
+<div class="link-preview">
+
 ## Carl holds narrow lead over Hightower heading into AL-01 runoff - Yellowhammer News
 
 ### Carl holds narrow lead over Hightower heading into AL-01 runoff - Yellowhammer News
@@ -25,9 +27,12 @@ MOBILE — Mobile County Commissioner Jerry Carl and former State Senator Bill H
 
 Source: [yellowhammernews.com/carl-holds-narrow-lead-over-hightower-heading-into-al-01-runoff/](https://yellowhammernews.com/carl-holds-narrow-lead-over-hightower-heading-into-al-01-runoff/)
 
+</div>
 The First Congressional District covers Baldwin, Mobile, Monroe, Escambia and part of Clark County. Baldwin County citizens are aware of CATALYST, we now need to inform our neighbors in the other counties, just what a threat CATALYST is.
 
 This is a very serious race and the citizens of First Congressional District deserve a congressman that will represent his constituents and not special interest political groups.
+
+<div class="link-preview">
 
 ## BACKWOODS MEDIA AD
 
@@ -38,3 +43,5 @@ This is a very serious race and the citizens of First Congressional District des
 Backwoods Media LLC Ad
 
 Source: [rippreport.com/2020/02/28/backwoods-media-ad/](https://rippreport.com/backwoods-media-ad/)
+
+</div>

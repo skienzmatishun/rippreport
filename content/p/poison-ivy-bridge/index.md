@@ -9,6 +9,8 @@ authors:
 
 Last nights meeting opposing the Mobile Bridge Toll, is just one of many springing up around Mobile and Baldwin County.
 
+<div class="link-preview">
+
 ## Mobile River Bridge and Bayway Project | Tolls
 
 ### Mobile River Bridge and Bayway Project | Tolls
@@ -19,7 +21,10 @@ The tolls to cross Mobile Bay on the Bayway and the New Bridge. News on the ALDO
 
 Source: [www.fox10tv.com/news/mobile\_river\_bridge\_and\_bayway/](https://www.fox10tv.com/news/mobile_river_bridge_and_bayway/)
 
+</div>
 Who is the toll going to affect most? Simple, Mobile and Baldwin County residents. The political architects of the bridge expect to do do business as usual in Alabama, cram it down the citizens throat.
+
+<div class="link-preview">
 
 ## Crowd blasts toll plan, vows to take Ivey to task
 
@@ -31,6 +36,7 @@ SPANISH FORT – On Thursday night as the crowd grew at 5 Rivers Delta Resource 
 
 Source: [www.gulfcoastnewstoday.com/the-courier/stories/crowd-blasts-toll-plan-vows-to-take-ivey-to-task,81626](http://www.gulfcoastnewstoday.com/the-courier/stories/crowd-blasts-toll-plan-vows-to-take-ivey-to-task,81626)
 
+</div>
 State Senator Chris Elliott (R - Daphne ) said the meeting should be moved, not the people. Easy to say, now let’s see if Elliott follows up. The meeting should be held in Mobile or Baldwin County.
 
 Fairhope Mayor Wilson said it best:

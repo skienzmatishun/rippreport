@@ -13,6 +13,8 @@ Fairhope is the home base of Catalyst, a shadow government that has tried every 
 
 I respect Chief Pettis and have known him for years. He has always treated me with respect as he does everyone. What the SHADOW GOVERNMENT, CATALYST did to the Chief, to support their agenda, was disrespectful and played on the Chief’s personal family issues, to boost their agenda.
 
+<div class="link-preview">
+
 ## FAIRHOPE’S BLAST FROM THE PAST
 
 ### FAIRHOPE’S BLAST FROM THE PAST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -23,6 +25,7 @@ The Fairhope’s political Zoo is alive and well. Their is a full blown blast fr
 
 Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
 
+</div>
 The Ripp Report receives many e-mails, text’s and face book messages each week, this is an example of two, you make up your mind. I can see the shadow.
 
 Listen to the Chief:
@@ -53,6 +56,8 @@ https://lagniappemobile.com/fairhope-police-chief-announces-aug-10-retirement/
 
 Let’s not leave out the Catalyst media outlet:
 
+<div class="link-preview">
+
 ## HALLUCINATIONS
 
 ### HALLUCINATIONS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -63,6 +68,7 @@ I had major surgery June 20th and it took a full week of some serious pain medic
 
 Source: [rippreport.com/2018/08/01/hallucinations/](https://rippreport.com/hallucinations/)
 
+</div>
 Second Comment:
 
 A Plea to Alabama Conservatives: “What do you have to lose?” By Anonymous August 3, 2018

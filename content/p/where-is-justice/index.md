@@ -15,6 +15,8 @@ authors:
 
 Is it just a coincidence that Fairhope City Council canceled public participation at the same time that justice slipped through the cracks?
 
+<div class="link-preview">
+
 ## CATALYST PARTY
 
 ### CATALYST PARTY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -25,7 +27,10 @@ The last Fairhope’s City Council meeting was only 30 minutes, maybe the shorte
 
 Source: [rippreport.com/2020/04/16/catalyst-party/](https://rippreport.com/catalyst-party/)
 
+</div>
 The McSharry case in Fairhope is a classic example of good ole boy politics topped with judicial tricks.
+
+<div class="link-preview">
 
 ## JUDICIAL TRICK
 
@@ -37,6 +42,7 @@ Baldwin County has had a reputation of judicial malfeasance, trickery and out ri
 
 Source: [rippreport.com/2020/04/18/judicial-trick/](https://rippreport.com/judicial-trick/)
 
+</div>
 The antics of Fairhope City Attorney Marcus McDowell and how Fairhope judicial system has handled the McSharry case demands an investigation. The Ripp Report is asking for the Baldwin County District Attorney, among others, to investigate the recent ruling of Judge Stankowski as well as the actions of the Municipal Judge Snedeker and City Attorney McDowell, in reference to the McSharry case.
 
 We ask the general public to weigh in and contact Fairhope City Council, Mayor or the District Attorney, to hold someone accountable for the continued miscarriage of justice involved in the McSharry case.

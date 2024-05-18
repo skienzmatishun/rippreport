@@ -13,6 +13,8 @@ There are two types of salesman. The ones that put a sign up and wait for the ph
 
 Baldwin County is experiencing an explosion of growth especially the middle and coastal part of the county. All that growth can be misleading, what may appear to be a booming economy has a dark side as well. Is Baldwin County going to depend on housing as a major industry? Is Baldwin County going to become a job market primarily for the service industry? What jobs are going to be available for the next generation?
 
+<div class="link-preview">
+
 ## Booming Baldwin continues to lead state economically - Lagniappe Mobile
 
 ### Booming Baldwin continues to lead state economically - Lagniappe Mobile
@@ -43,7 +45,10 @@ The Ripp Report has written about the Baldwin County Mega-site numerous times. I
 
 Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
+</div>
 The 200 job gain has now been offset by a 200 job loss. No gain in a booming economy! Something is wrong! A lack of manufacturing. Let’s hope that when the mega site sells that the county does not pay someone to buy it by offering ridiculous incentives.
+
+<div class="link-preview">
 
 ## Almost 200 workers lose jobs at Standard Furniture
 
@@ -55,6 +60,7 @@ Almost 200 employees at Bay Minette's largest employer will lose their jobs at t
 
 Source: [www.wkrg.com/news/baldwin-county/almost-200-workers-lose-jobs-at-standard-furniture/1740614385](https://www.wkrg.com/news/baldwin-county/almost-200-workers-lose-jobs-at-standard-furniture/1740614385)
 
+</div>
 North Baldwin is an excellent location for large scale manufacturing but if you are waiting for that phone to ring, you may have a long wait.
 
 The Baldwin County Commission, State Senator and Representatives and Mayors should look for some sales people who knock on doors. There should be a specific marketing approach that would target large and small scale manufacturing in North Baldwin. This could include some sort of incentive to independent sales people that normally would not operate in that market. The more people knocking on doors the better.

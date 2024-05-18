@@ -20,6 +20,8 @@ Please remember the council voted no for any legal representation of the Mayor.
 
 IN YOUR FACE
 
+<div class="link-preview">
+
 ## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/02/Alarm_Clock_3.jpg)
@@ -40,6 +42,7 @@ The Public Doctrine: Our government is a democracy which means the “people rul
 
 Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
+</div>
 As a result of his actions an Ethics Complaint has now been filed:
 
 > Feb.26 2018
@@ -116,6 +119,8 @@ IN YOUR FACE
 
 On the Baldwin County level we have Mr. Chris Elliott running for Tripp Pittman’s seat. Elliott is an original charter member of Catalyst and a vote for him is a vote for Catalyst and the good ole boys. This Lagniappe article sums up Mr Elliott and his word.
 
+<div class="link-preview">
+
 ## Who’s Chris Elliott trying to fool? - Lagniappe Mobile
 
 ### Who’s Chris Elliott trying to fool? - Lagniappe Mobile
@@ -126,6 +131,7 @@ In terms of sheer political theater, watching Baldwin County Commissioner Chris 
 
 Source: [lagniappemobile.com/whos-chris-elliott-trying-fool/](http://lagniappemobile.com/whos-chris-elliott-trying-fool/)
 
+</div>
 Wake up people they are doing this:
 
 IN YOUR FACE

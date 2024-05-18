@@ -17,6 +17,8 @@ Sorry about no FREAKY FRIDAY, but after 6 weeks confinement and absolutely beaut
 
 Every voting citizen in Fairhope should read the recent cover story in Lagniappe, A TALE OF TWO CITIES. It is a look at the other “side” of Fairhope — the gap between affluent and working poor.
 
+<div class="link-preview">
+
 ## A tale of two cities - Lagniappe Mobile
 
 ### A tale of two cities - Lagniappe Mobile
@@ -27,6 +29,7 @@ By Lynn Oldshue “A century later, Fairhope is still a draw for writers seeking
 
 Source: [lagniappemobile.com/65405-2/](https://lagniappemobile.com/65405-2/)
 
+</div>
 This Lagniappe article has a paywall, however is free at news stands, get your Lagniappe today
 
 The author Lynn Oldshue, an investigative reporter for Lagniappe, a reporter for Alabama Public Radio, storyteller with Our Southern Souls is also an administrator for the Facebook group Fairhope Now.
@@ -45,6 +48,8 @@ The recent action of the City Council to purchase land for recreation, $2.65 mil
 
 The Mayor fought passionately for a location that favored the most kids, her mistake was the kids were minorities.
 
+<div class="link-preview">
+
 ## CRIMINAL ENTERPRISE
 
 ### CRIMINAL ENTERPRISE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -55,6 +60,7 @@ Fairhope being run as a Criminal Enterprise? WATCH UNTIL MINUTE 2:07–9:
 
 Source: [rippreport.com/2019/12/27/criminal-enterprise/](https://rippreport.com/criminal-enterprise/)
 
+</div>
  
 
 After living in Fairhope for 27 years and doing the Ripp Report for 14+ years, I would call it a tale of three cities.

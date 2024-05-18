@@ -16,6 +16,8 @@ Catalyst players have developed a shell game called follow the LLC’s. Daphne M
 
 IF YOU ARE LOOKING TO BUY A HOME IN BALDWIN COUNTY, THIS IS A MUST READ.
 
+<div class="link-preview">
+
 ## Bellaton residents seek resolution of pool mortgage - Lagniappe Mobile
 
 ### Bellaton residents seek resolution of pool mortgage - Lagniappe Mobile
@@ -26,6 +28,7 @@ When homeowners in Bellaton Estates in Baldwin County decide to relax in their c
 
 Source: [lagniappemobile.com/bellaton-residents-seek-resolution-of-pool-mortgage/](https://lagniappemobile.com/bellaton-residents-seek-resolution-of-pool-mortgage/)
 
+</div>
 This is one of the best consumer beware articles I have read in quite a while and anyone looking to buy a home needs to read this several times, or you could be buying a million dollar pool.
 
 IF YOU ARE A VOTER IN BALDWIN COUNTY THIS IS A GOOD EXAMPLE OF WHY TO VOTE OUT TUCKER DORSEY AND CHRIS ELLIOTT, CATALYST REPRESENTATIVES.
@@ -38,6 +41,8 @@ The cast of characters in the million dollar pool are the same individuals that 
 
 One name not mentioned is John Avant, however he is in the deep end of the pool. Avant of Prebble-Rish is business partners, more convoluted LLC’s, of Kevin Boone, City Councilman in Fairhope.
 
+<div class="link-preview">
+
 ## CONFLICT OF INTEREST
 
 ### CONFLICT OF INTEREST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -48,7 +53,10 @@ Dear Fairhope City Council: Recently several articles have been written in refer
 
 Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
 
+</div>
 Boone has Catalyst tattooed on his ass, and his son Scott,”baby” Boone is the Catalyst chieftain. Now guess who contributes to Catalyst and put Boone in office? John Avant and all the people in the pool.
+
+<div class="link-preview">
 
 ## Investigative Reporting – Business Entity Records
 
@@ -60,6 +68,7 @@ Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=ag
 
 Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
 
+</div>
 “FOR SALE: BELLATON HOMES COME WITH A MILLION DOLLAR POOL
 
 Prospective home buyers do your homework, read the facts and stay clear of Bellaton subdivision and D. R. Horton and CATALYST bellatonpoolfacts@gmail.com.

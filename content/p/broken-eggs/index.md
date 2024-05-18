@@ -20,6 +20,8 @@ Fairhope City Council is as dysfunctional as a square bowling ball. Led by Counc
 
 Hello! Is it not the responsibility of the City Council to review the budget and ask questions while developing solutions? They are the elected officials, not the “APPOINTED” finance committee. Is King Jack going to use the finance committee to further obstruct the Mayor and city budget?
 
+<div class="link-preview">
+
 ## OPPOSITION / OBSTRUCTION
 
 ### OPPOSITION / OBSTRUCTION | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -30,7 +32,10 @@ Fairhope should now begin to see the writing on the wall. The Fairhope City Coun
 
 Source: [rippreport.com/2017/09/15/opposition-obstruction/](https://rippreport.com/opposition-obstruction/ )
 
+</div>
 Why is this committee not made up of volunteers? Because the council cannot control volunteers. A familiar name has popped up on the newly appointed committee Mr. Chunk Zunk, formally of the Fairhope Airport Authority, FAA. He resigned from this position about the time President of the Council, Burrell, was accepting free jet service provided by another board member Ray Hix, who is partners with Fairhope Municipal Judge Snedeker. Zunk has defended Mr. Burrell’s free airplane flights, flawed RFP’s and any conflicts of interest Burrell may have as a council president or his position as the city’s liaison to the FAA. All this is under investigation.
+
+<div class="link-preview">
 
 ## Airport Authority Selects New Leadership
 
@@ -42,7 +47,10 @@ Fairhope, Alabama: newspaper, information, government, events, arts, music, ente
 
 Source: [thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html](http://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html)
 
+</div>
 Let’s hope that Mr. Zunk is not carrying Burrell’s water, he was on the Fairhope Finance committee in 2010 when Burrell was not President and Kant was Mayor. That volunteer finance committee did a very good job, let’s hope this committee is not going to follow Jack’s political agenda and looks out for the best interests of the city. Fairhope needs to be progressive because we are behind in infrastructure and many other areas due to poor policies of past administrations, that Burrell and Boone served on.
+
+<div class="link-preview">
 
 ## Fairhope Financial Chairman Warns: "City Not Meeting Financial Goals." Special Council Meeting Called
 
@@ -84,7 +92,10 @@ I have followed four Fairhope city councils and one thing I can tell you is with
 
 Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
+</div>
 Jack also has said the sewer spills are unavoidable and he and Boone said nothing when 10 million dollars was transferred from utilities to the general budget, in 15 and 16, for non-utility expenses, damn the infrastructure.
+
+<div class="link-preview">
 
 ## RE-GIFT GIFT ??
 
@@ -96,4 +107,5 @@ ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City 
 
 Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
+</div>
 From your observation point you should see by now Jack is not a leader and has a poor track record as council president. The council is putting all it’s eggs in Burrell’s basket, if he falls all the eggs break.

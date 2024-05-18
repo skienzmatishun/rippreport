@@ -13,6 +13,8 @@ authors:
 
 Fairhope City Council has decided to pay fired employees rather than going to court, so we the public never know the whole truth surrounding the firing in the first place. Remember it was the council who came to the defense of the those fired, they then assisted them in their efforts to sue the city. Ultimately, in executive session the same council votes to pay up. It’s only insurance money, but we pay the insurance.
 
+<div class="link-preview">
+
 ## Fairhope mayor fires two; council responds with hiring freeze - Lagniappe Mobile
 
 ### Fairhope mayor fires two; council responds with hiring freeze - Lagniappe Mobile
@@ -31,6 +33,7 @@ The Ripp Report recently changed it’s business status from a tax deductible no
 
 Source: [rippreport.com/2017/10/20/job-with-benefits/](https://rippreport.com/job-with-benefits/)
 
+</div>
 This is the council overriding the Mayor and then rewarding those who got fired. But what do you expect when the Council President himself “come fly with me” Burrell has the ethics commission to hide behind.
 
 ## BONUS MONEY

@@ -23,6 +23,8 @@ Let’s not leave out the Attorney General of Alabama who is aware of the proble
 
 Governor Kay Ivey just signed HB 371:
 
+<div class="link-preview">
+
 ## New AL law to help economic developers raises ethics questions
 
 ### New AL law to help economic developers raises ethics questions
@@ -55,4 +57,5 @@ Business Services
 
 Source: [sos.alabama.gov/](http://sos.alabama.gov)
 
+</div>
 IF YOU HAVE ANY SUSPICIONS ABOUT THE UPCOMING PRIMARIES OR ELECTION, IN BALDWIN COUNTY, PLEASE CONTACT THE SEC. OF STATE AND NOTIFY THE RIPP REPORT.

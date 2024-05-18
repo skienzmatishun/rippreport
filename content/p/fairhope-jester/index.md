@@ -45,6 +45,8 @@ Below is Mr Brown’s attempt to mislead you
 
 Spoken by a developer and proud member of the Catalyst clan. Deny the obvious blame the Mayor and pretend you know nothing of the infrastructure report. Truth hell! Mr. Brown is delusional and is trying to blame others for the inaction's of the council. Sounds as if Pittman Brown may have anticipated building the Tatumville project.
 
+<div class="link-preview">
+
 ## In Alabama's fastest growing city, another 3 months added to a lengthy freeze on large developments
 
 ### In Alabama's fastest growing city, another 3 months added to a lengthy freeze on large developments
@@ -57,6 +59,7 @@ Spoken by a developer and proud member of the Catalyst clan. Deny the obvious bl
 
 Source: [www.al.com/news/mobile/index.ssf/2017/06/in\_alabamas\_fastest\_growing\_ci.html](http://www.al.com/news/mobile/index.ssf/2017/06/in_alabamas_fastest_growing_ci.html)
 
+</div>
 Mr Brown’s concern is the developers and praised Aurther Corte and the Fly Creek Apartments.
 
 Mr. Brown has also developed houses that should have been connected to city sewer instead the owners inherited an additional cost, for the lifetime of their house, grinder pumps and all the headache that comes with them.

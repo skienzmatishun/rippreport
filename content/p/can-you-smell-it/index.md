@@ -11,6 +11,8 @@ authors:
 
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For example:
 
+<div class="link-preview">
+
 ## Mobile Baykeeper Awarded $87,000 Grant to Expand Watershed Program into Fairhope
 
 Mobile Baykeeper awarded $87,000 grant from NOAA to expand Watershed Education and Monitoring Program
@@ -29,4 +31,5 @@ By Gabriel Tynes, Dale Liesch and Jason Johnson Mobile Baykeeper’s Sept. 19 no
 
 Source: [lagniappemobile.com/baykeepers-lawsuit-looms-cities-around-bay-struggle-sewage/](http://lagniappemobile.com/baykeepers-lawsuit-looms-cities-around-bay-struggle-sewage/)
 
+</div>
 The focus on the sewer problems of the Eastern Shore were brought to the public’s attention by the general public and by articles in Lagniappe. Let us hope moving forward that Baykeepers is as vigilant in solving the problem of the environment polluters in Fairhope as much as they are fundraising and pretending to be concerned about our non-renewable natural resources.

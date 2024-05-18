@@ -15,6 +15,8 @@ Alabama is going to give the lottery away to the highest bidder, the Poach Creek
 
 Two separate lotto bills were introduced:
 
+<div class="link-preview">
+
 ## Dueling lottery bills: A simple breakdown of what they do
 
 ### Dueling lottery bills: A simple breakdown of what they do
@@ -35,6 +37,7 @@ The lottery bill passes out of the Senate Tourism committee 6-5 on Tuesday.
 
 Source: [www.wbrc.com/2019/04/22/lawmakers-could-vote-lottery-bill-this-week/](http://www.wbrc.com/lawmakers-could-vote-lottery-bill-this-week/)
 
+</div>
 > According to the bill, money from the lottery will first go to pay for its expenses then go into the state’s trust fund to repay transfers made to the general fund from 2013 to 2015. Once everything is repaid, Albritton says half the money will go back into the trust fund and into the state’s general fund.”
 
 This lotto is designed to pay “back debt” as far back as 2013 and allocates nothing for the “future” Education Fund.

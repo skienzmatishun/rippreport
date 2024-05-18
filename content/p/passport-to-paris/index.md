@@ -17,6 +17,8 @@ LET’S GO TO PARIS. Elliott wants to go to the Paris Air Show, which he has att
 
 “Elliott said as a proponent of economic development, he intends to travel more than legislators have typically done in the past. “
 
+<div class="link-preview">
+
 ## Chris Elliott explains negotiations behind contentious local bill - Lagniappe Mobile
 
 ### Chris Elliott explains negotiations behind contentious local bill - Lagniappe Mobile
@@ -27,6 +29,7 @@ State Sen. Chris Elliott this week defended a bill he co-sponsored that, along w
 
 Source: [lagniappemobile.com/chris-elliott-explains-negotiations-behind-contentious-local-bill/](https://lagniappemobile.com/chris-elliott-explains-negotiations-behind-contentious-local-bill/)
 
+</div>
 Elliott thinks his travel expenses are more important than, what he calls “pet” projects. Elliott’s travel expenses sounds more like a “pet’ project.
 
 Elliott’s example of a “pet” project; “the delegation spent $50,000 from the fund on a painting of the Fort Mims Massacre by Fairhope artist Dean Mosher. Reached afterward for rebuttal, Mosher said that money also funded an art show as part of the state’s ongoing bicentennial celebration, and the show was one of the most successful and well attended in the history of the Eastern Shore Art Center. Additional money for the show and nine murals created by Mosher was provided by the state tourism department and the Alabama Community Service Grant Program.”
@@ -34,6 +37,8 @@ Elliott’s example of a “pet” project; “the delegation spent $50,000 from
 Chris Elliott needs a little education when it comes to economic development. The Alabama Tourist Board, Eastern Shore Art Center, The State of Alabama’s Bicentennial Celebration and the Alabama Community Service Grant, all promote economic development.
 
 Elliott, The TAX MAN, has increase taxes, supported the infrastructure bill, without public input, supports bridge tolls and now has increased his travel expenses since being elected. His campaign promises smell like a bad fart.
+
+<div class="link-preview">
 
 ## SNAKES IN THE SCHOOLS
 
@@ -45,7 +50,10 @@ Political campaigns are always dirty, however when the politician uses veterans 
 
 Source: [rippreport.com/2018/06/21/snakes-in-the-schools/](https://rippreport.com/snakes-in-the-schools/)
 
+</div>
 Baldwin County made a serious mistake by electing a Catalyst candidate to represent Baldwin County. Orange Beach gets the credit of pushing THE TAX MAN into office, thanks for nothing.
+
+<div class="link-preview">
 
 ## CATALYST DOES BALDWIN COUNTY
 
@@ -57,6 +65,7 @@ One of the architects of Catalyst, Chris Elliott, is now going down and dirty on
 
 Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippreport.com/catalyst-does-baldwin-county/)
 
+</div>
 Chris Elliott and Fairhope City Councilman Burrell are very much alike, if their lips are moving they are lying.
 
 Be sure to get a free Lagniappe to read the complete story.

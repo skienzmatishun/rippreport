@@ -15,6 +15,8 @@ Fairhope Council President fails, again. The Fairhope City Council rushed into a
 
 The council ignored any issues like lead or asbestos. They did not consider the renovation cost verses new construction. They gave no consideration to a proposal of a boutique hotel, over 100 additional parking spaces for downtown, and saving the facade of the school, and much more.
 
+<div class="link-preview">
+
 ## Fairhope council votes to purchase K-1 Center property
 
 ### Fairhope council votes to purchase K-1 Center property
@@ -39,7 +41,10 @@ News and information for Fairhope and Baldwin County, Alabama.
 
 Source: [thefairhopetimes.blogspot.com/2019/02/k-1-school-purchase-plan-falls-through.html?spref=fb](https://thefairhopetimes.blogspot.com/2019/02/k-1-school-purchase-plan-falls-through.html?spref=fb)
 
+</div>
 The current Fairhope City council has not one accomplishment, in their term, to boast about, not one. The council should not be allowed to make a final decision on the K-1 without public participation and the input from the Mayor and staff.
+
+<div class="link-preview">
 
 ## POP UP TARGET
 
@@ -51,7 +56,10 @@ Jack Burrell is like a pop up target. He is involved in one controversy after th
 
 Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
 
+</div>
 The council continues to find itself embroiled in one controversy after another. The council has no leadership! The four other councilmen have given Captain Jack full rein to drag them through the mud with him. Catalyst will be their undoing.
+
+<div class="link-preview">
 
 ## LOSER
 
@@ -63,4 +71,5 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
 P.S. Don’t forget it was Captain Jack, as council president, who made the “legal Settlement” of the triangle, that cost taxpayers 11.25 million.

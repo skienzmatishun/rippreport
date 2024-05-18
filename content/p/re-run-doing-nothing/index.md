@@ -7,6 +7,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## VICTORY
 
 ### VICTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -17,4 +19,5 @@ Never Ever give up. The Ripp Report has been reporting, and going to court, rela
 
 Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
 
+</div>
 ASK THE CITY COUNCIL WHY THEY DID NOTHING

@@ -12,6 +12,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## READ THE FOLLOW UP
 
 ## DOG AND PONY SHOW - FOLLOW UP
@@ -24,6 +26,7 @@ Get ready Fairhope! The Catalyst Council has called a special meeting at a speci
 
 Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/dog-and-pony-show-2/)
 
+</div>
 Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time, where transparency and accountability will not be an issue, because only a few people will attend.
 
 This Council has a history for “special” or “emergency” meetings. These meetings are usually used to torpedo the Mayor’s suggestions and implementing the Council’s goals for 2020. Be sure you review the video of the meeting, the council will not expect you to.
@@ -52,6 +55,8 @@ Please Join us BY WATCHING live stream or VIEWING recorded meeting.
 
 The Ripp Report will update this post today after the “special” meeting.
 
+<div class="link-preview">
+
 ## DOG AND PONY SHOW - FOLLOW UP
 
 ### DOG AND PONY SHOW | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -62,11 +67,14 @@ Get ready Fairhope! The Catalyst Council has called a special meeting at a speci
 
 Source: [rippreport.com/2019/05/10/dog-and-pony-show-2/](https://rippreport.com/dog-and-pony-show-2/)
 
+</div>
 Did you notice in the Mayor’s statement about the forecast that the city could be debt free in June 2019, next month? That is the Mayor and her staff’s accomplishment not the Council who has fought the present administration at every turn.
 
 The Catalyst Council is fully responsible for the Apartments at Fly Creek, the Mayor opposed the project. When they open, Fairhope will feel the negative impact of a good ole boy deal supported by the Council.
 
 The Mayor had a plan for education that was immediate and required no taxes. The Council plan is a self imposed 3 mil tax.
+
+<div class="link-preview">
 
 ## PEDALING FORWARD
 
@@ -78,4 +86,5 @@ Fairhope City Council has been pedaling backwards their whole term. They now hav
 
 Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
 
+</div>
 The Ripp Report favored the Mayor’s education plan, however we will not penalize our children's education by adamantly opposing the 3 mil tax. You as citizens of the community should ask yourself why the council favored taxes when it was not necessary?

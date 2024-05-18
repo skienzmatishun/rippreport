@@ -62,6 +62,8 @@ Why did you not cover the Tatumville debacle?
 
 Why have you not gone into great detail about Catalyst and their ability to seed mid term elections with candidates that believe in the good ole boys and their entitled right to be corrupt?
 
+<div class="link-preview">
+
 ## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
 
 ### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -72,9 +74,12 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
+</div>
 Why have you ignored the Majority of citizens and represented the Minority?
 
 Why did you sit on your ass and witness the Fairhope City Council President Jack Burrell deny a citizen the right to free speech? This should have aroused ever fiber in your body, you as a “journalist” should have been outraged. Instead you spin it far from any journalist principals because your alliance is with Catalyst.
+
+<div class="link-preview">
 
 ## THE CHUCKY CHEEZE AND JACK BURRELL SHOW
 
@@ -86,4 +91,5 @@ Well Chucky Cheeze and “come fly with me” Burrell have come up with their ne
 
 Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/the-chucky-cheeze-and-jack-burrell-show/)
 
+</div>
 Chuckee as far as journalism goes you are a disgrace, however you have your Catalyst followers. It is up to the citizens to disseminate your writings and my bet is they will see you as Chuckee Cheese.

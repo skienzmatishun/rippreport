@@ -20,6 +20,8 @@ Tim Kant ran Fairhope as his own dynasty which was run like organized crime. Eve
 
 Even the local elections were suspected as being rigged and after the last election, monitored by the Sec. Of State, many now feel vindicated for their suspicions.
 
+<div class="link-preview">
+
 ## Secretary of State clears voter fraud investigation - Lagniappe Mobile
 
 ### Secretary of State clears voter fraud investigation - Lagniappe Mobile
@@ -30,6 +32,7 @@ Alabama Secretary of State John Merrill has found no proof of voter fraud in Ala
 
 Source: [lagniappemobile.com/secretary-state-clears-voter-fraud-investigation/](http://lagniappemobile.com/secretary-state-clears-voter-fraud-investigation/)
 
+</div>
 I used to think that is was low voter turnout, straight ticket voting and Kant loyalists that were responsible for such corrupt government. It was all three, but one other factor has now emerged, the Moore Factor, that gives us an accurate percentage of people that put their Political party ahead of their city or country.
 
 In Fairhope it explains a lot, 30% voted and 62% were for Moore and Jones received 37%. Daphne and Mobile county went with Jones.

@@ -9,6 +9,8 @@ authors:
 
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 
+<div class="link-preview">
+
 ## Election Results
 
 ### Election Results
@@ -35,6 +37,7 @@ CATALYST VS THE PEOPLE
 
 Source: [rippreport.com/2018/05/31/share-share-share/](https://rippreport.com/share-share-share/)
 
+</div>
 County Commission District 3 will have Billie Joe Underwood the People’s Choice facing down the infamous Tucker Dorsey who trails by 10%.
 
 Circuit Clerk, people’s choice Jody Wise Campbell, will face Catalyst Candidate Mark Stejskal. Campbell leads by 16%.

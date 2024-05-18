@@ -15,6 +15,8 @@ authors:
 
 Gulf Shores Mayor and Council are acting the same way the previous Mayor of Fairhope, Tim Kant, acted involving the controversy of the Fairhope Fly Creek Apartments. The Mayor and his buddy developer ignored the sentiments of the community. It cost the Mayor his job as well as a few councilman. The collateral effect in Fairhope resulted in firings, retirements and resignations of over a dozen employees, who needed to go.
 
+<div class="link-preview">
+
 ## Apartment complex causes controversy
 
 ### Apartment complex causes controversy
@@ -35,7 +37,10 @@ A 209-unit apartment complex on Regency Road in Gulf Shores has residents upset,
 
 Source: [www.al.com/news/mobile/2018/08/how\_much\_is\_enough\_new\_apartme.html](https://www.al.com/news/mobile/2018/08/how_much_is_enough_new_apartme.html)
 
+</div>
 SAVE OUR NEIGHBORHOOD STOP REGENCY PLACE APARTMENTS, is the basis for a petition that more than 750 people supported.
+
+<div class="link-preview">
 
 ## Gulf Shores council denies citizens' appeal on apartment complex proposal
 
@@ -75,6 +80,7 @@ News and information for Fairhope and Baldwin County, Alabama.
 
 Source: [thefairhopetimes.blogspot.com/2019/02/changes-coming-to-planning-commission.html](https://thefairhopetimes.blogspot.com/2019/02/changes-coming-to-planning-commission.html)
 
+</div>
 ## Gulf Shores residents’ appeal to halt apartments denied again - Lagniappe Mobile
 
 ### Gulf Shores residents’ appeal to halt apartments denied again - Lagniappe Mobile

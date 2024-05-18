@@ -22,6 +22,8 @@ Not only did Boom Boom Pittman skim 750,000 of BP money for his personal tractor
 
 Five candidates are lined up for the seat, 4 Republicans and one Democrat. The Catalyst candidate should be the first one you eliminate, Chris Elliott. The County employees are praying for Elliott and Dorsey, to be voted out. They are fed up with the whole County Commission.
 
+<div class="link-preview">
+
 ## CATALYST – ALABAMA VALUES
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/05/elliott-mugshot.jpg)
@@ -68,4 +70,5 @@ Jason Fisher is a longtime resident of the Gulf Coast of Alabama running to beco
 
 Source: [fisherforsenate.com/](https://fisherforsenate.com/)
 
+</div>
 You have four candidates to choose from so why choose a Catalyst Candidate?

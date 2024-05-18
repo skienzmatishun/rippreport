@@ -18,6 +18,8 @@ authors:
 
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.
 
+<div class="link-preview">
+
 ## ECONOMIC DEVELOPMENT
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/11/mega-site.jpg)
@@ -48,6 +50,7 @@ A Baldwin County Commissioner was arrested for driving under the influence over 
 
 Source: [wkrg.com/2016/05/16/baldwin-county-commissioner-charged-with-dui-in-fairhope/](http://wkrg.com/baldwin-county-commissioner-charged-with-dui-in-fairhope/)
 
+</div>
 John Lake from Daphne is running for that seat. John has a long history of being a public servant and has never used his position to his advantage, he is an excellent replacement.
 
 https://www.facebook.com/john.lake.5686322
@@ -55,6 +58,8 @@ https://www.facebook.com/john.lake.5686322
 Seat 3 is infamous Tucker Dorsey business partner of Clarence Burke of Baldwin County Sewer who is connected to Catalyst and Summitt Construction. Dorsey and Elliott are smug self centered professional politicians, through and through. They are the good ole boys and represent development and unbridled growth. Dorsey is probably the worst, no he is the worst and do not forget his buddy Trip Pittman helped him into the Commission. In return Dorsey orchestrated the firing of over a dozen good employees.
 
 Billy Joe Underwood is Dorsey’s challenger. The Commission needs a women because so far all men have not done so well. I encourage you to find out more about Mrs. Underwood and support her. It would be sweet for Dorsey’s ego to be beaten by a woman.
+
+<div class="link-preview">
 
 ## Billie Jo Underwood for County Commission District 3 | Baldwin County, Alabama
 
@@ -78,6 +83,7 @@ James E. “Jeb” Ball, Program Director for Baldwin Substance Abuse Services, 
 
 Source: [gulfcoastnewstoday.com/stories/ball-seeks-election-to-commission-district-1,51284](http://gulfcoastnewstoday.com/stories/ball-seeks-election-to-commission-district-1,51284)
 
+</div>
 For Mr Ball to be a serious candidate he will need to be more transparent about Baldwin County Substance Abuse Services inc. Where is the money? It is a non profit that has fund raisers however their has never been a public accounting of all the money collected. It would be interesting to find out who suggested he run for commissioner, maybe Frank Burt?
 
 Last is seat 4 Charles Gruber. Mr Gruber is the quite one that usually stands on the wire and sees how the others vote and chooses the path of least resistance. Mr Gruber is no where as controversial as the other but it is time for change.

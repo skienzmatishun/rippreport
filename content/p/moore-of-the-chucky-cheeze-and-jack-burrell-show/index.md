@@ -15,6 +15,8 @@ authors:
 
 We are talking super stupid, I mean extraordinary ignorance. But I get it, it is part of the moore factor, little m deliberate, the people that will believe fiction for truth.
 
+<div class="link-preview">
+
 ## FAUXHOPE – PARTY BEFORE COUNTRY OR CITY
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/12/Fairhope_Municipal_Pier_Fountain1.jpg)
@@ -53,6 +55,7 @@ Source: [rippreport.com/2016/10/21/bp-catastrophe-alabama-disgrace/](https://rip
 
 Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](http://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/)
 
+</div>
 WE offered the same amount if anyone could prove our allegations against Jack Burrell and the Airport scandal. No one came forward.
 
 ## NOW! YOU KNOW JACK

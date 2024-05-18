@@ -19,6 +19,8 @@ The Restore Act Money, from BP, started a stampede of political entities, State,
 
 Fairhope’s Mayor Kant and Council shot for the moon with a 49 million dollar request. Their plan included private property and the Fly Creek area. Kant’s pie in the sky was frowned on by other municipalities as too expensive, excessive and not complying with the intent of the funds, it was never seriously considered.
 
+<div class="link-preview">
+
 ## COVER STORY: Funding race is on for competing RESTORE Act projects - Lagniappe Mobile
 
 ### COVER STORY: Funding race is on for competing RESTORE Act projects - Lagniappe Mobile
@@ -73,6 +75,7 @@ Mayor Karin Wilson
 
 Source: [www.mayorkarinwilson.com/vision-planning-650000-fairhope-area-community-based-comprehensive-land-use-plan/](http://www.mayorkarinwilson.com/vision-planning-650000-fairhope-area-community-based-comprehensive-land-use-plan/)
 
+</div>
 Fairhope Council President Jack Burrell and Mr Kevin Boone want to have the Triangle property put into a conservation easement or “park” asap. The City Council should not have that authority. It should be the decision of the citizens, Public-Driven Vision, and the end result of the Comprehensive Plan should play a part in that decision.
 
 Mr. Burrell and Mr Boone are advocating the policy of the past and that is to not develop the Triangle. The owners were denied the right to develop it for over 25 years, and we, the taxpayers, paid millions in attorney fees only to wind up having to buy the property. WHY now? after funding for a $650,000 Comprehensive Plan has been approved, are Mr Burrell and Boone pushing to eliminate Fairhope’s most valuable land asset from the Comprehensive Plan? They are supporting the policies of the past administrations, which resulted in millions lost in legal fees, The Mayor’s position is clear, she feels it is a decision of the people which can be achieved through the Comprehensive plan and moving forward not backwards.

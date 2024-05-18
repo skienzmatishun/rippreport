@@ -19,6 +19,8 @@ authors:
 
 Be sure you read
 
+<div class="link-preview">
+
 ## City asking GulfQuest to cough up utility payments, as agreed - Lagniappe Mobile
 
 ### City asking GulfQuest to cough up utility payments, as agreed - Lagniappe Mobile
@@ -29,6 +31,7 @@ According to Executive Director of Finance Paul Wesch, GulfQuest National Mariti
 
 Source: [lagniappemobile.com/city-asking-gulfquest-to-cough-up-utility-payments-as-agreed/](http://lagniappemobile.com/city-asking-gulfquest-to-cough-up-utility-payments-as-agreed/)
 
+</div>
 The Gulf Quest Maritime museum cost 42 million dollars_—_ a project that took 5 years to build. Taxpayers funded 28 million dollars into a concrete building resembling a ship.
 
 It now looks like the ship is sinking in a sea of taxpayer money.

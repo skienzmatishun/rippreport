@@ -15,6 +15,8 @@ Covid-19 is no hoax.
 
 Masks and Social Distancing works.
 
+<div class="link-preview">
+
 ## Coronavirus live updates: US hits 100,000 deaths from coronavirus as states continue to cautiously reopen
 
 ### Coronavirus live updates: US hits 100,000 deaths from coronavirus as states continue to cautiously reopen
@@ -25,6 +27,7 @@ There are more than 5.6 million confirmed cases around the globe, with nearly 1.
 
 Source: [www.usatoday.com/story/news/health/2020/05/27/coronavirus-updates-100-000-deaths-cdc-surface-spread-brazil/5263058002/](https://www.usatoday.com/story/news/health/coronavirus-updates-100-000-deaths-cdc-surface-spread-brazil/5263058002/)
 
+</div>
 Alabama is one of three states who’s Covid-19 cases are up by 50%.
 
 Be safe! The life you save may be your own.

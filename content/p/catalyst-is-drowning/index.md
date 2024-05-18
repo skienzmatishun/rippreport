@@ -9,6 +9,8 @@ authors:
 
 The People’s Choice almost made a clean sweep of Catalyst. PEOPLE’S CHOICE 2 CATALYST ½
 
+<div class="link-preview">
+
 ## CATALYST TRIFECTA
 
 ### CATALYST TRIFECTA | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -19,7 +21,10 @@ The Ripp Report is a non profit consumer protection organization, self funded by
 
 Source: [rippreport.com/2018/07/10/catalyst-trifecta/](https://rippreport.com/catalyst-trifecta/)
 
+</div>
 First off was Billie Jo Underwood who ran a pecan picker over Tucker Dorsey, then backed up over him and finished him of by running over him again. He deserved it. Congratulations to Billie Jo Underwood County Commission Place 3 and thank you for showing Dorsey the exit door.
+
+<div class="link-preview">
 
 ## CATALYST EXIT DOOR
 
@@ -31,7 +36,10 @@ Baldwin County Commission, District No. 3, Please show Tucker Dorsey, not his re
 
 Source: [rippreport.com/2018/07/14/catalyst-exit-door/](https://rippreport.com/catalyst-exit-door/)
 
+</div>
 Second was Christy Olinger Edwards who beat the Catalyst Queen, who lost 34% of the votes in Baldwin County. Congratulations to Christy, she is by far the best choice.
+
+<div class="link-preview">
 
 ## PUBLIC SERVICE ANNOUNCEMENT – ALABAMA COURT OF CIVIL APPEALS, JUDGE – PLACE ONE
 
@@ -43,7 +51,10 @@ ALABAMA BEWARE OF THE CATALYST QUEEN Alabama Beware, the absolute worst Family C
 
 Source: [rippreport.com/2018/07/12/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/](https://rippreport.com/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/)
 
+</div>
 This is step one in removing Michelle Thomasson from the Baldwin County Family Court. She will be running again for the same position, now that her escape has been blocked by defeat.
+
+<div class="link-preview">
 
 ## BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY
 
@@ -55,11 +66,14 @@ For years we have been critical of the family court, especially the rulings of D
 
 Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
+</div>
 Who is willing to step up to the plate and challenge the “Catalyst Queen”?
 
 That is two solid wins for the People’s Choice.
 
 Catalyst has a ½ win, with Elliott barely beating Northcutt. Elliott now has to do it again and it ain’t gonna be easy. Elliott has close to $600,000 in his campaign coffers and had support from Sheriff Mack and Eddie Tyler, who may have shot themselves in the foot. Gulf Shores, Orange Beach and Jeff Boyd all backed Elliott, while they held their noses, and prayed to the bridge God.
+
+<div class="link-preview">
 
 ## CATALYST CANDIDATE ELLIOTT – PANIC MODE
 
@@ -71,7 +85,10 @@ The plot thickens as runoffs approach – Lagniappe Mobile The plot thickens as 
 
 Source: [rippreport.com/2018/07/12/catalyst-candidate-elliott-panic-mode/](https://rippreport.com/catalyst-candidate-elliott-panic-mode/)
 
+</div>
 Elliott claims he is, Baldwin Made, however he ran for office in Virginia, that is not in Baldwin County. His 1% education hat trick tax was shoved down the throats of Baldwin County Citizens, without a vote. That little deal was glossed over by Superintendent Eddie Tyler who said he and Elliott decided on a deal that cost the School Board 4 million a year, 40 million in ten years. That money now goes to the general fund of the county. Teachers pay attention this was your money and you were lied to.
+
+<div class="link-preview">
 
 ## CATALYST – SOLD TO THE HIGHEST BIDDER
 
@@ -83,9 +100,12 @@ All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones,
 
 Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
+</div>
 Let’s not forget that Elliott used the Baldwin County School Board lobbyist as his campaign manager. Talk about double dipping! The fact that the superintendent of schools was in the same bed as Elliott and the lobbyist Jon Gray, of Strategy, should concern everyone. Strategy claims to be a public relations firm, they are responsible for the attacks, mud slinging and negativity injected into the campaign. “Public Relations” that what they call it and they represent our children. What are we teaching them?
 
 Please ask Chris;
+
+<div class="link-preview">
 
 ## ASK CHRIS ELLIOTT – CATALYST RED FLAGS
 
@@ -97,11 +117,14 @@ ASK CHRIS! Public records from the Probate office, record, Mr. Elliott, and his 
 
 Source: [rippreport.com/2018/07/16/ask-chris-elliott-catalyst-red-flags/](https://rippreport.com/ask-chris-elliott-catalyst-red-flags/)
 
+</div>
 Was this the foundation of his campaign money?
 
 YOU GOT ONE MORE CHANCE TO RID BALDWIN COUNTY OF CHRIS ELLIOTT
 
 NOVEMBER 2018
+
+<div class="link-preview">
 
 ## Jason Fisher | State Senate | District 32 | Alabama
 
@@ -113,4 +136,5 @@ Jason Fisher is a longtime resident of the Gulf Coast of Alabama running to beco
 
 Source: [fisherforsenate.com/](https://fisherforsenate.com/)
 
+</div>
 VOTE FOR THE CANDIDATE

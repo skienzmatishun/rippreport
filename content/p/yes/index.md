@@ -11,6 +11,8 @@ The amendment to Change the Government of Fairhope, is just that, a change, from
 
 Those few opposed are the hold outs from the past. Good ole Boys and Club Catalyst are scared to death that their day has come. The Fairhope City Council, an at large council, also is against any change. Ask yourself why? They know for the last 12 years the at large system has failed, miserably.
 
+<div class="link-preview">
+
 ## CRYSTAL BALL
 
 ### CRYSTAL BALL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -21,6 +23,7 @@ The Fairhope election to vote on change of government has been delayed to the sa
 
 Source: [rippreport.com/2018/10/03/crystal-ball/](https://rippreport.com/crystal-ball/)
 
+</div>
 VOTE “YES” ON NOV 06, 2018
 
 COUNCIL-MANAGER FORM OF GOVERNMENT
@@ -101,6 +104,8 @@ Looking ahead, we have created our promotional strategy for the four weeks remai
 
 Why spend money again? There are two reasons. Firstly, the opposition has had more time to prepare and put its own messaging out to the voters, and we must overcome that. Secondly, we have to present a more complicated set of facts than before, because the AG Opinion forces us to explain the District plan plus our own original message about the Council-Manager system. We are working on "content" right now, and we must have our fact-based arguments in a clear, concise format when we execute the meetings, social media advertising, and mailers we are planning. None of this can be left to the last minute, but getting out our complete message depends heavily on successful fundraising over the next 5-10 days. {From Fresh Start Fairhope}
 
+<div class="link-preview">
+
 ## HELL YEA
 
 ### HELL YEA | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -110,3 +115,5 @@ Why spend money again? There are two reasons. Firstly, the opposition has had mo
 FAIRHOPE CHANGE OF GOVERNMENT The Fairhope City Council is on a roundabout and doesn’t know where to exit. The present Council is an “at Large” council, they are not going to vote for change.
 
 Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/hell-yea/)
+
+</div>

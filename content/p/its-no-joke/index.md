@@ -15,6 +15,8 @@ H Bryant Ayers: “There is one certain outcome of the Alabama Senate race if Ro
 
 Read the last paragraph again, it’s not fake news, it’s reality.
 
+<div class="link-preview">
+
 ## H. Brandt Ayers: Roy Moore will shame Alabama
 
 ### H. Brandt Ayers: Roy Moore will shame Alabama
@@ -24,3 +26,5 @@ Read the last paragraph again, it’s not fake news, it’s reality.
 There is one certain outcome of the Alabama Senate race if Roy Moore is elected. He will be compelled to embarrass Alabama because of a set of personal religious beliefs
 
 Source: [www.annistonstar.com/columnists/h\_brandt\_ayers/h-brandt-ayers-roy-moore-will-shame-alabama/article\_ab4eead2-bb67-11e7-9d92-bb3986757312.html](http://www.annistonstar.com/columnists/h_brandt_ayers/h-brandt-ayers-roy-moore-will-shame-alabama/article_ab4eead2-bb67-11e7-9d92-bb3986757312.html)
+
+</div>

@@ -10,6 +10,8 @@ authors:
 
 The question is: How can a city council approve the largest development in Fairhope when the Municipal Judge is the developer, that the same council appointed Judge? “ Who on the council has a vested personal interest in this project”.
 
+<div class="link-preview">
+
 ## The Ripp Report Nov.8 2019 Backstory Production
 
 Related articles:
@@ -24,6 +26,9 @@ Legislation introduced by U.S. Sen. Doug Jones would establish grants to set up 
 
 Source: [www.al.com/news/2019/11/coastal-alabama-water-center-stage-in-courts-and-congress.html](https://www.al.com/news/2019/11/coastal-alabama-water-center-stage-in-courts-and-congress.html)
 
+</div>
+<div class="link-preview">
+
 ## Marina project in Fort Lauderdale heads to commission for final approval
 
 ### Marina project in Fort Lauderdale heads to commission for final approval
@@ -33,6 +38,9 @@ Source: [www.al.com/news/2019/11/coastal-alabama-water-center-stage-in-courts-an
 Alabama developer Hix Snedeker Companies is heading to the Fort Lauderdale City Commission later this month seeking final approval of a roughly $25 million marina project. Hix Snedeker is under contract to purchase the site of the planned South Fork Marina at 1500 Southwest 17th Street. On Tuesda
 
 Source: [therealdeal.com/miami/2018/11/08/marina-project-in-fort-lauderdale-heads-to-commission-for-final-approval/](https://therealdeal.com/miami/marina-project-in-fort-lauderdale-heads-to-commission-for-final-approval/)
+
+</div>
+<div class="link-preview">
 
 ## Daphne lawyers settle $10.2 million judgment from failed Gulf Shores project
 
@@ -44,6 +52,9 @@ Haymes Snedeker and Ray Hix Jr., partners in a Daphne law firm, have agreed to s
 
 Source: [www.al.com/live/2012/02/daphne\_lawyers\_settle\_102\_mill.html](https://www.al.com/live/2012/02/daphne_lawyers_settle_102_mill.html)
 
+</div>
+<div class="link-preview">
+
 ## CORRIDOR OF CHAOS
 
 ### CORRIDOR OF CHAOS
@@ -53,6 +64,9 @@ Source: [www.al.com/live/2012/02/daphne\_lawyers\_settle\_102\_mill.html](https:
 PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRIDOR OF CHAOS”. 232 Apartments, 77 single family houses and 16 commercial units.
 
 Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
+
+</div>
+<div class="link-preview">
 
 ## QUID PRO QUO
 
@@ -64,6 +78,7 @@ Please read the Mayor’s comments and file written complaints to those listed a
 
 Source: [rippreport.com/2019/10/02/quid-quo-pro/](https://rippreport.com/quid-quo-pro/)
 
+</div>
 ## PLEASE ATTEND CITY COUNCIL MEETING NOV. 13
 
 ## BE HEARD

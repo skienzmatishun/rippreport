@@ -31,6 +31,8 @@ CATALYST was not successful in electing their block of candidates of 2018. Socia
 
 Some CATALYST candidates were elected, but many lost and CATALYST became the identity of a party that was not in the best interest of Baldwin County citizens.
 
+<div class="link-preview">
+
 ## CATALYST JUDGES
 
 ### CATALYST JUDGES | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -41,6 +43,7 @@ Alabama has a proud legal system ripe with attorneys who plan a career as a judg
 
 Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
 
+</div>
 Do not make the mistake of thinking they are weak, they are dangerous. CATALYST has representatives in the District Attorney’s office, Sheriff’s office and Baldwin County Judiciary.
 
 https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/
@@ -50,6 +53,8 @@ Fairhope is the central “political” base of Baldwin County, not Bay Minette.
 CATALYST is apposed to a city manager, change of government, districts or anything else that challenges their control. The Fairhope city council is CATALYST shining star. It is rumored that CATALYST is going to polish up and roll out Tim Can’t for Mayor, there is not enough polish.
 
 CATALYST is now running a CATALYST CANDIDATE for First Congressional District. They are foaming at the mouth at just the thought of having a congressman in their pocket.
+
+<div class="link-preview">
 
 ## CONGRESSIONAL CATALYST
 
@@ -61,6 +66,7 @@ Alabama’s first congressional district has 5 Republican candidates running to 
 
 Source: [rippreport.com/2020/01/22/congressional-catalyst/](https://rippreport.com/congressional-catalyst/)
 
+</div>
 On the county level County Commissioner Joe Davis and Jeb Ball ran under the CATALYST banner and true to form are now voting in CATALYST developers favor, not their constituents.
 
 This was posted on face book yesterday by William Rando, a very concerned citizen. You can follow this story on face book through

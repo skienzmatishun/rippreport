@@ -16,6 +16,8 @@ It does not take a chain saw, it only takes a vote.
 
 Sometimes you have to send a strong public message to politicians, elected officials and appointed boards to get their attention. When people do unite and reach a level of frustration that brings them together, then you see results. Petitions are a very good way to send a strong message.
 
+<div class="link-preview">
+
 ## PEOPLE POWER
 
 ### PEOPLE POWER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -26,7 +28,10 @@ Congratulations Fairhope citizens your 2276 signatures on a petition convinced t
 
 Source: [rippreport.com/2018/02/16/people-power-2/](https://rippreport.com/people-power-2/)
 
+</div>
 Baldwin County Commissioner Chris Elliott, supported by Tucker Dorsey, both are Catalyst candidates, recently tried, again, to deny the Zundle’s Road public access to Mobile Bay. They did not count on the chainsaw or Lagniappe.
+
+<div class="link-preview">
 
 ## Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
 
@@ -50,4 +55,5 @@ I just signed a petition to Governor Kay Ivey, The United States House of Repres
 
 Source: [petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp](petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp)
 
+</div>
 A vote is stronger than a petition, Please unite and show Elliott, Dorsey and Catalyst the door, June 5 Primary election.

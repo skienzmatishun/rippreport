@@ -12,6 +12,8 @@ authors:
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott “baby” Boone. The first client that Catalyst signed up was none other than Judge Michelle Thomason.
 
+<div class="link-preview">
+
 ## CATALYST “BIRDS OF THE SAME FEATHER”
 
 ### CATALYST “BIRDS OF THE SAME FEATHER” | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -22,7 +24,10 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
 
+</div>
 The Ripp Report has had well over a hundred complaints about Judge Thomason and her infamous court. Most complaints center around the good Judges poor decisions and her favoritism for certain bottom feeding attorneys. Family’s have been destroyed by the Judges child visitation schedules and her arbitrary and inconsistent decisions. Lawyers financially bankrupt their clients into submission, with the Judges blessing. A child suicide was even credited to her after her decision split up children from their mother.
+
+<div class="link-preview">
 
 ## BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY
 
@@ -34,6 +39,7 @@ For years we have been critical of the family court, especially the rulings of D
 
 Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
 
+</div>
 Judge Michelle Thomason and her good buddy, Judge Buddy Brackin, of Orange Beach easily get the prize for the worst and the most corrupt Judge in Baldwin County. Orange Beach, despite complaints for years, has chosen to cover for Judge Brackin, wonder why? Judge Thomason has no such insurance, the voters decide her fate.
 
 [https://www.facebook.com/JudgeMichelleThomason/](https://cdn.rippreport.com/JudgeMichelleThomason)
@@ -56,6 +62,8 @@ Prevent Judge Thomason from carrying Baldwin County, that will send a powerful m
 
 TAKE HER CROWN AWAY
 
+<div class="link-preview">
+
 ## CATALYST INTIMIDATION
 
 ### CATALYST INTIMIDATION – A PIG PEN | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -65,3 +73,5 @@ TAKE HER CROWN AWAY
 Baldwin County politics has always been a good ole boys club and Catalyst hopes to swell those ranks with a slate of candidates that are like minded. Catalyst is a Fairhope based operation that has…
 
 Source: [rippreport.com/2018/04/25/catalyst-intimidation-a-pig-pen/](https://rippreport.com/catalyst-intimidation-a-pig-pen/)
+
+</div>

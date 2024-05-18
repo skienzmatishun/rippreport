@@ -11,6 +11,8 @@ authors:
 
 Alabamians have got to stop looking right and left, voting a straight party ticket, and putting party before country and that means Republican and Democrat. What is good for your state and community should come before party. Why vote for someone who will divide us? Why vote for someone so different in beliefs and convictions that there is not one Senator or Congressman remotely close to his thinking?
 
+<div class="link-preview">
+
 ## Roy Moore is on the run - Alabama Political Reporter
 
 ### Roy Moore is on the run - Alabama Political Reporter
@@ -21,7 +23,10 @@ By Josh Moon Alabama Political Reporter It was all just a show. I think that dee
 
 Source: [www.alreporter.com/2017/11/08/roy-moore-run/?utm\_content=bufferd75a6](http://www.alreporter.com/roy-moore-run/?utm_content=bufferd75a6)
 
+</div>
 Many Republicans are fearful that Judge Roy Moore as a Senator will be more harmful to the party than helpful. Folks that is what you call a real disconnect. Again, do not get fixated on the party put community and state first.
+
+<div class="link-preview">
 
 ## Roy Moore tried to fit in with Senate Republicans for a day. It didn’t work. - The Washington Post
 
@@ -51,4 +56,5 @@ Speaking at a Tuscaloosa Christian school on Wednesday, the Republican Senate ca
 
 Source: [www.al.com/news/index.ssf/2017/11/roy\_moore\_i\_dont\_hate\_people\_i.html](www.al.com/news/index.ssf/2017/11/roy_moore_i_dont_hate_people_i.html)
 
+</div>
 BEWARE OF THE BLACK HOLE

@@ -7,6 +7,8 @@ authors:
   - admin
 ---
 
+<div class="link-preview">
+
 ## WORST ELECTED OFFICIAL
 
 ## IN BALDWIN COUNTY
@@ -33,7 +35,10 @@ I have followed four Fairhope city councils and one thing I can tell you is with
 
 Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 
+</div>
 Three years later and the Judge and Jack are at it again:
+
+<div class="link-preview">
 
 ## CONFLICT OF INTEREST
 
@@ -45,9 +50,12 @@ How can a city council approve the largest development in Fairhope when the Muni
 
 Source: [rippreport.com/2019/11/08/conflict-on-interest/](https://rippreport.com/conflict-on-interest/)
 
+</div>
 Go back to May of 2016 on the Ripp Report and read the articles about Councilmen Burrell and the airport scam.
 
 If you have the stomach follow through the last 7 years that Burrell has been council president, he has been a disgrace on all levels. In 2020, the people of Fairhope will finally recognize that Burrel is a threat to their quality of life, property values and a horrible example for our children.
+
+<div class="link-preview">
 
 ## WAKE UP FAIRHOPE
 
@@ -62,3 +70,5 @@ If you have the stomach follow through the last 7 years that Burrell has been co
 As far as I know, people sleeping in cars is not a problem in Fairhope. The people driving the City Council clown car? That's another story.
 
 Source: [www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html](https://www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html)
+
+</div>

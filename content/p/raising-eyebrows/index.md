@@ -19,6 +19,8 @@ The article below is from 2011, by former AL.COM reporter Russ Henderson. thefai
 
  
 
+<div class="link-preview">
+
 ## Fairhope Mayor Tim Kant says Alabama court decision means he'll be active in all personnel issues
 
 ### Fairhope Mayor Tim Kant says Alabama court decision means he'll be active in all personnel issues
@@ -29,7 +31,10 @@ FAIRHOPE, Alabama -- In no unclear terms, the mayor told the City Council on Mon
 
 Source: [blog.al.com/live/2011/07/fairhope\_mayor\_i\_cant\_delegate.html](http://blog.al.com/live/2011/07/fairhope_mayor_i_cant_delegate.html)
 
+</div>
 The District Attorney also “assisted” in the decision to delay the election. District Attorney Robert Wilters, a strong supporter of Catalyst, also agreed that the election should be delayed.
+
+<div class="link-preview">
 
 ## ELLIOTT STACY HAYGOOD = CATALYST – WHO IS IN THE PICTURE?
 
@@ -41,11 +46,14 @@ This telling photo is the core group of Elliott Stacy and Haygood, from a few ye
 
 Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
+</div>
 They are not called good ole boys for nothing. Catalyst has a strong throat hold on Baldwin County and they want Fairhope back in their pocket.
 
 This is business as usual in Baldwin County. Elected officials ignore any conflicts of interest and to recuse one self from any conflicts of interest is unheard of.
 
 Fairhope has a chance to break the cycle of at large council’s, that are often Catalyst slate candidates, such as the current council.
+
+<div class="link-preview">
 
 ## CRYSTAL BALL
 
@@ -57,4 +65,5 @@ The Fairhope election to vote on change of government has been delayed to the sa
 
 Source: [rippreport.com/2018/10/03/crystal-ball/](https://rippreport.com/crystal-ball/)
 
+</div>
 Please vote Nov. 6th for, a change of government in Fairhope. No Change, means just that NO CHANGE.

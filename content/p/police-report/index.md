@@ -15,6 +15,8 @@ A police report is a public document, it is not a Ripp Report, it is a police re
 
 Those of you new to the Ripp Report may wish to read the link below. You will see where the Airport Authority investigated The Ripp Report and claimed that they had filed an ethics complaint, that had no merit. Your tax dollars paid for Jack Burrell’s legal defense. The paid attorneys were successful in scrubbing the ethics complaint, however it seems new eyes are looking at the facts again.
 
+<div class="link-preview">
+
 ## JACK IN THE BOX – AIRPORT
 
 ### JACK IN THE BOX – AIRPORT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -25,7 +27,10 @@ The Airport Authority has a great idea! They are going to use your tax dollars t
 
 Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
 
+</div>
 Fairhope is being held hostage by Burrell and his persistent fight for the Airport Authority to maintain control, and hold the title of the Airport. Burrell is the city liaison to the Airport Authority Board as well as City Council President. Fairhope pays for the mortgage yet cannot claim it as an asset. The title to the Airport should be held by the city, Jack we want our Airport back.
+
+<div class="link-preview">
 
 ## YOU DON’T KNOW JACK
 
@@ -55,9 +60,12 @@ Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Sta
 
 Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
+</div>
 The Fairhope City Council was made aware of the police report weeks ago and choose to ignore it.
 
 The council has refused to answer to any accountability, transparency is a black hole and ethics is a fantasy. If you are on the city council in Fairhope then you can act with impunity. Another good example is councilman Robert Brown.
+
+<div class="link-preview">
 
 ## THE FAIRHOPE JESTER
 
@@ -69,4 +77,5 @@ The Public Doctrine: Our government is a democracy which means the “people rul
 
 Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
+</div>
 Mr. Jack Burrell should immediately step down from the position of President of the Fairhope City Council, as well as his board position with the Fairhope Airport Authority. These are the actions of a Catalyst mindset, elect Catalyst candidates and you will get more of the same.

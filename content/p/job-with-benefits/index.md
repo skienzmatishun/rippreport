@@ -18,6 +18,8 @@ One thing you can say about the Alabama Ethics Commission is that they are shame
 
 To dismiss a complaint and not answer any questions nor offer any explanation as to the allegations, is a whitewash of facts.
 
+<div class="link-preview">
+
 ## ETHICS COMEDIANS
 
 ### ETHICS COMEDIANS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -28,7 +30,10 @@ The Ripp Report is no longer operating as a non profit. It will operate as a coo
 
 Source: [rippreport.com/2017/10/19/ethics-comedians/](https://rippreport.com/ethics-comedians/ )
 
+</div>
 The Ethics Commission is suppose to be looking out for the citizens of the state. Instead we have a faux organization that protects the connected and convicts the weak. They have become the Unethical Commission.
+
+<div class="link-preview">
 
 ## Alabama Ethics Commission revelations go 'Boom!'
 
@@ -40,7 +45,10 @@ The Ethics Commission is suppose to be looking out for the citizens of the state
 
 Source: [www.al.com/opinion/index.ssf/2017/08/alabama\_ethics\_commission\_reve.html](http://www.al.com/opinion/index.ssf/2017/08/alabama_ethics_commission_reve.html)
 
+</div>
 The Alabama Ethics Commission, when mentioned in public meetings, is meet with laughter first and disdain second.
+
+<div class="link-preview">
 
 ## The Alabama Ethics Commission is failing us - Alabama Political Reporter
 
@@ -52,7 +60,10 @@ By Josh Moon Alabama Political Reporter The Alabama Ethics Commission has become
 
 Source: [www.alreporter.com/2017/08/01/alabama-ethics-commission-failing-us/](http://www.alreporter.com/alabama-ethics-commission-failing-us/)
 
+</div>
 Some commission members are embarrassed about the blatant unethical behavior of it’s members.
+
+<div class="link-preview">
 
 ## Alabama Ethics Commission revelations go 'Boom!'
 
@@ -64,6 +75,7 @@ Some commission members are embarrassed about the blatant unethical behavior of 
 
 Source: [www.al.com/opinion/index.ssf/2017/08/alabama\_ethics\_commission\_reve.html](http://www.al.com/opinion/index.ssf/2017/08/alabama_ethics_commission_reve.html)
 
+</div>
 JOB WITH BENEFITS & NO ACCOUNTABILITY
 
 The Fairhope City Council President, for the last 5 years?, is truly a shining example of what you do not need in a council president. The Council was approached by the Mayor to mediate their differences, by using an attorney that would represent the Mayor, the request was for 15,000 dollars. Council president Burrell said it was not necessary and that he was the mediator. Eight weeks have passed and Burrell has mediated nothing.

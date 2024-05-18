@@ -16,6 +16,8 @@ Baldwin County is the piggy-Bank for Goat Hill supported by the same elected off
 
 Who does the Gas Tax hurt the most?
 
+<div class="link-preview">
+
 ## U.N. officials touring rural Alabama are shocked at the level of poverty and environmental degradation
 
 ### U.N. officials touring rural Alabama are shocked at the level of poverty and environmental degradation
@@ -26,9 +28,12 @@ Who does the Gas Tax hurt the most?
 
 Source: [www.newsweek.com/alabama-un-poverty-environmental-racism-743601](https://www.newsweek.com/alabama-un-poverty-environmental-racism-743601)
 
+</div>
 Taxes are necessary and in most cases people do not oppose taxes, IF THEY ARE USED FOR THE PURPOSE OF THE TAX. The gas tax, for infrastructure, has been raided by Goat hill for over a decade and it will continue. Former Governor Riley drained every account he could before he left office. Former Governor Bentley used BP funds to build a beach mansion. Former State Senator BP Pittman skimmed 750,000 dollars of BP money for his company. Were any of these elected officials held accountable? Hell no!
 
 Baldwin County is a piggy-bank for Goat Hill, we supply as much as 35% of the general budget for the state. In return our elected officials, in Baldwin County, lie down like dogs, when commanded by Goat Hill, our current Puppet Governor, or the Business Council of Alabama.
+
+<div class="link-preview">
 
 ## FAUX TAX, GAS TAX
 
@@ -40,7 +45,10 @@ Governor Kay Ivey is a puppet on a string. In a recent article she announces a s
 
 Source: [rippreport.com/2019/03/06/faux-tax-gas-tax/](https://rippreport.com/faux-tax-gas-tax/)
 
+</div>
 Alabama is the most corrupt state in the United States. Our politicians rarely are held accountable, unless it is political motivated.
+
+<div class="link-preview">
 
 ## Alabama Supreme Court to hear Mike Hubbard appeal
 
@@ -52,6 +60,7 @@ Hubbard attorney Bill Baxley said the defense will be able to present arguments 
 
 Source: [www.al.com/news/2019/03/alabama-supreme-court-to-hear-mike-hubbard-appeal.html](https://www.al.com/news/2019/03/alabama-supreme-court-to-hear-mike-hubbard-appeal.html)
 
+</div>
 Politicians walk, while we chain and cuff underage kids for drinking.
 
 ## 115 underage drinking arrests already during Spring Break in Okaloosa County

@@ -12,6 +12,8 @@ authors:
 
 Sorry for the delay of Freaky Friday - technical difficulties.
 
+<div class="link-preview">
+
 ## A Southern Town That’s Been Holding On to Its Charm, for More Than a Century
 
 ### A Southern Town That’s Been Holding On to Its Charm, for More Than a Century
@@ -22,6 +24,7 @@ Fairhope, in Alabama, thrives as a place for artists, intellectuals and people o
 
 Source: [www.nytimes.com/2019/03/01/travel/fairhope-alabama-places.html](https://www.nytimes.com/travel/fairhope-alabama-places.html)
 
+</div>
 Fairhope just got a gold star and it deserves it. This article and the movie being shot, The Friend, at the same time, will produce a tremendous amount of National exposure for Fairhope. The cat is out of the bag, expect more tourists and newcomers to Baldwin County. It is to late to bitch about the growth and traffic and schools. It is time to act.
 
 The County Commission and the 14 municipalities of Baldwin County need to get on the same page about Sewers, Zoning, Traffic and Schools, ASAP.
@@ -31,6 +34,8 @@ One issue that stands out in Fairhope, is education. The class size is swelling,
 The Fairhope City Council has the responsibility of deciding if Fairhope is going to support schools through a TAX or use the Equitable School Funding Plan, proposed by the Mayor.
 
 The Council has the ability to vote immediately for the desired funds, 1.88 million. It is their decision and that decision should be made after the community has the ability to weigh in.
+
+<div class="link-preview">
 
 ## PEDALING FORWARD
 
@@ -42,6 +47,7 @@ Fairhope City Council has been pedaling backwards their whole term. They now hav
 
 Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
 
+</div>
 This funding issue is very important and would make a significant difference in all five schools. Principals, teachers, parents and constituents should demand the council holds at least two public forums for public participation, before any decision is made.
 
 What will the council do? Pay attention people, election time is coming up, WATCH the council.

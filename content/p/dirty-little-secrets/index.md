@@ -27,6 +27,8 @@ I think the City was embarrassed (or should have been embarrassed) by this "tech
 
 The City Attorney had an urgent need to explain the nature of the "technical deficiency" to the volunteer members of the Planning Commission outside the eyes of the Press and the public and especially to those of us opposed to the Development.
 
+<div class="link-preview">
+
 ## 'We're not prepared': Political battle brewing in Baldwin County over planning
 
 ### 'We're not prepared': Political battle brewing in Baldwin County over planning
@@ -37,6 +39,7 @@ Some Democrats running in Baldwin County this year are questioning the commitmen
 
 Source: [www.al.com/news/index.ssf/2018/09/post\_191.html](https://www.al.com/news/index.ssf/2018/09/post_191.html)
 
+</div>
 Secret #2 - The City of Gulf Shores is intentionally NOT following its "Land Use Plan"
 
 This dirty little secret has not been admitted to by the City but there is plenty of Public Records Request information uncovered to substantiate this claim.
@@ -53,6 +56,8 @@ The City now claims the "Land Use Plan" is insignificant and has no bearing on r
 
 So the question is: Why did the City stop using the "Land Use Plan" criteria when making Site Plan recommendations? If the "Land Use Plan" requirements were an important consideration in 2014, 2015, and 2016, what caused the "City Staff" to no longer include it? This question has NOT been fully answered and deserves to be.
 
+<div class="link-preview">
+
 ## VICTORY
 
 ### VICTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -62,3 +67,5 @@ So the question is: Why did the City stop using the "Land Use Plan" criteria whe
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
 
 Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
+
+</div>

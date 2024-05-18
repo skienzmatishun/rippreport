@@ -20,6 +20,8 @@ The Ripp Report has written about CATALYST for years. We have filed numerous com
 
 It is also interesting that all the complaints about Fly Creek and Publix were ignored by ADEM, Alabama Department of Environmental Management, aka Alabama Department of Environmental Maniacs, years ago.
 
+<div class="link-preview">
+
 ## State files suit against city of Fairhope for sewage deficiencies - Lagniappe Mobile
 
 ### State files suit against city of Fairhope for sewage deficiencies - Lagniappe Mobile
@@ -30,9 +32,12 @@ The Alabama Department of Environmental Management and Attorney General Steve Ma
 
 Source: [lagniappemobile.com/state-files-suit-against-city-of-fairhope-for-sewage-deficiencies/](https://lagniappemobile.com/state-files-suit-against-city-of-fairhope-for-sewage-deficiencies/)
 
+</div>
 (This article has a paywall, however is free at most news stands.)
 
 The irony of the lawsuit is that Fairhope has done more than any municipality in Baldwin County or the Eastern Shore, to correct sewer deficiencies. The timeline for sewer infrastructure repairs since 2016 was publicly published by the Mayor.
+
+<div class="link-preview">
 
 ## Timeline for Sewer System Upgrades & Water Quality Initiatives
 
@@ -62,7 +67,10 @@ Baldwin County, you want an example how CATALYST works? All you have to do is pa
 
 Source: [https://rippreport.com/catalyst-candidates-%e2%81%a0-excess-baggage/](https://rippreport.com/2020/05/13/catalyst-candidates-%e2%81%a0-excess-baggage/)
 
+</div>
 This is the same CATALYST Council that has it’s own justice system. The same CATALYST Council that disparages and bullies women, while at the same time supports it’s CATALYST friends who are accused of domestic abuse, assault and liquor violations.
+
+<div class="link-preview">
 
 ## CATALYST JUSTICE
 
@@ -74,6 +82,7 @@ How many people remember Sen Tripp Pittman and his theft of BP money to the tune
 
 Source: [rippreport.com/2020/05/21/catalyst-justice/](https://rippreport.com/catalyst-justice/)
 
+</div>
 Please listen to Backstory Podcast #37 — [Facebook](https://www.facebook.com/BackstoryPodcast/) or Youtube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/czzmqpkkKwM" frameborder="0" allowfullscreen></iframe>

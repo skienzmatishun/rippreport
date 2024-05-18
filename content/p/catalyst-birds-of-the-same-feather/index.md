@@ -33,6 +33,8 @@ Joe Davis district two is being supported by Catalyst and Tim Kant. Kant wants t
 
 Kant supporting Davis! a loser supporting a quitter.
 
+<div class="link-preview">
+
 ## I QUIT AND WILL QUIT AGAIN
 
 ### I QUIT AND WILL QUIT AGAIN | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -43,7 +45,10 @@ Publisher correction: With over 300 single publications, without a single correc
 
 Source: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/i-quit-and-will-quit-again/)
 
+</div>
 Please support John Lake for District two, a proven public servant, not a Catalyst hack.
+
+<div class="link-preview">
 
 ## John Lake to run for County Commission District 2
 
@@ -55,4 +60,5 @@ Longtime former Daphne City Councilman John Lake has announced his intent to run
 
 Source: [www.gulfcoastnewstoday.com/stories/john-lake-to-run-for-county-commission-district-2,53995](http://www.gulfcoastnewstoday.com/stories/john-lake-to-run-for-county-commission-district-2,53995)
 
+</div>
 CATALYST wants control of Baldwin County only you can stop that from happening.

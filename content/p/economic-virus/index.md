@@ -19,6 +19,8 @@ Just today some credit cards companies are allowing grace periods on payments. M
 
 All business’s are going to take an economic hit and 2020 profits have already evaporated. Do not count on Federal money bailing you out, it will only allow you to put your finger in the dam.
 
+<div class="link-preview">
+
 ## COVID-19 | USAGov
 
 ### COVID-19 | USAGov
@@ -29,6 +31,7 @@ Learn what the U.S. government is doing in response to Coronavirus (COVID-19).
 
 Source: [www.usa.gov/coronavirus](https://www.usa.gov/coronavirus)
 
+</div>
 Be smart, wait to pay your bills on the last day, so you can see what assistance is available. On credit cards only pay the minimum payment, until the virus scare is behind us.
 
 On the stock market the damage has been done, so cashing out now means big losses.

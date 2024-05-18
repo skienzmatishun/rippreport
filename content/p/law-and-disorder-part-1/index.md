@@ -17,6 +17,8 @@ Last night at the end of Fairhope City Council meeting, at the 1:10 mark, Jack B
 
 That is true the council appointed the City Attorney:
 
+<div class="link-preview">
+
 ## City Attorney Rift Settled?
 
 ### City Attorney Rift Settled?
@@ -27,7 +29,10 @@ Fairhope, Alabama: newspaper, information, government, events, arts, music, ente
 
 Source: [thefairhopetimes.blogspot.com/2017/12/city-attorney-rift-settled.html](https://thefairhopetimes.blogspot.com/2017/12/city-attorney-rift-settled.html)
 
+</div>
 Last night the Council appointed the interim Police Chief:
+
+<div class="link-preview">
 
 ## Fairhope names interim police chief
 
@@ -39,6 +44,7 @@ Click here to view this video from fox10tv.com.
 
 Source: [www.fox10tv.com/fairhope-names-interim-police-chief/video\_c977bf69-7f8a-57b6-b9df-73a7f82248d9.html](https://www.fox10tv.com/fairhope-names-interim-police-chief/video_c977bf69-7f8a-57b6-b9df-73a7f82248d9.html)
 
+</div>
 If the Council President is so passionate about traffic then certainly the Police Chief and the City Attorney will apply Mr. Burrell’s words to his actions.
 
 Last night around 6:00 pm The Ripp Report sent the below e-mail to the City of Fairhope:

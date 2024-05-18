@@ -21,6 +21,8 @@ Fairhope you better turn on the light because these roaches are going to eat you
 
 <div class="link-preview">
 
+<div class="link-preview">
+
 ##  Pine Forest Park Proposed For City's 'Triangle' 
 
 ![](https://1.bp.blogspot.com/-atGEoMP70CY/XeYmsaxGprI/AAAAAAAASw4/5uTdC6XjWJkr4dNamcwEPmGiKp3CvKrYwCLcBGAsYHQ/s400/IMG_4284.JPG)
@@ -57,6 +59,7 @@ Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandit
 Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
 </div>
+</div>
 Former Tim Kant, aka Can’t, fueled the lawsuit during his entire 16 years as Mayor.
 
 He WAS and IS responsible for the lawsuits.
@@ -71,6 +74,8 @@ That also was the courts opinion and resulted in the legal settlement, AGAINST t
 
 <div class="link-preview">
 
+<div class="link-preview">
+
 ## THE JESTER
 
 ### THE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -81,6 +86,7 @@ The Jester is back and now he wants to give away 106 acres of municipal land to 
 
 Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
+</div>
 </div>
 In 2014, around Feb, the City Council had a council meeting, Councilman Ford asks at the beginning of the meeting to add an agenda item, the council agreed. The addition to the agenda was to authorize Mayor, Can't, to enter into "settlement talks to reach a legal settlement over the Triangle lawsuit." This was revealed through fioa requests.
 
@@ -96,6 +102,8 @@ The SPIN, was park land, this was the cover for the LOSS of the lawsuit and Lega
 
 <div class="link-preview">
 
+<div class="link-preview">
+
 ## CATALYST COLORS
 
 ### ? CATALYST COLORS ?
@@ -106,6 +114,7 @@ The SPIN, was park land, this was the cover for the LOSS of the lawsuit and Lega
 
 Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/catalyst-colors/)
 
+</div>
 </div>
 This is political and the political machine is still driving the same plan to obstruct development of the triangle. Be it a park or conservation easement or what ever else they dream up.
 

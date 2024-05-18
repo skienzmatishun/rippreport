@@ -20,6 +20,8 @@ The Ripp Report is following two criminal cases and three civil cases. The commo
 
 Limiting public participation or community engagement by elected officials, is another common practice in Baldwin County.
 
+<div class="link-preview">
+
 ## SEE YA IN COURT JACK
 
 ### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -30,7 +32,10 @@ PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTA
 
 Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
 
+</div>
 The President of the Fairhope City Council has the infamous reputation of being the only Council President in Alabama to be hauled into Federal Court for refusing a citizen, and veteran, from exercising free speech. This case was settled WITHOUT any confidentiality agreement.
+
+<div class="link-preview">
 
 ## LOSER
 
@@ -42,7 +47,10 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
 The same Council President, Jack Burrell, adding to his resume, has a Police record, that is public record. Mr Burrell failed to mention this the last time he ran for office. On “HIS” record several incidents are sealed, how convenient.
+
+<div class="link-preview">
 
 ## POLICE REPORT
 
@@ -54,9 +62,12 @@ A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp R
 
 Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
+</div>
 Fairhope has three very important issues, the K-1 Center, Triangle Conservation Easement and the Comprehensive Land use Plan, that demand, Community Engagement. The Council President feels that three councilman is all it takes to decide these three very important issues.
 
 What do ya want Fairhope? To be silenced, or be a part of the Community?
+
+<div class="link-preview">
 
 ## COMMUNITY ENGAGEMENT
 
@@ -67,3 +78,5 @@ What do ya want Fairhope? To be silenced, or be a part of the Community?
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on…
 
 Source: [rippreport.com/2019/03/27/community-engagement/](https://rippreport.com/community-engagement/)
+
+</div>

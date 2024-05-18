@@ -23,6 +23,8 @@ Last week The Ripp Report was the only source of information that reported on th
 
 In question was why the accused wanted to speak with the Mayor and Police Chief about the incident. Why would the Mayor, any Mayor, refuse to speak to any citizen of the community, about any complaint?
 
+<div class="link-preview">
+
 ## ONE WOMAN
 
 ### ONE WOMAN | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -33,9 +35,12 @@ The Fairhope City Council has bullied the Mayor at Council meetings and other pu
 
 Source: [rippreport.com/2019/04/19/one-woman/](https://rippreport.com/one-woman/)
 
+</div>
 The Fairhope Council has made no public statements about the continued bad acts and convictions of McSharry.
 
 Another issue the Council has failed at, is making the complaints of former employees seem anything more than sour grapes and again political. The same employees are planning to run for office or will be support Catalyst candidates.
+
+<div class="link-preview">
 
 ## PANDORA’S BOX
 
@@ -59,7 +64,10 @@ Former Fairhope Public Works Director Jennifer Fidler has filed a lawsuit agains
 
 Source: [www.gulfcoastnewstoday.com/stories/former-fairhope-public-works-director-sues-city-mayor-karin-wilson,73996?](http://www.gulfcoastnewstoday.com/stories/former-fairhope-public-works-director-sues-city-mayor-karin-wilson,73996?)
 
+</div>
 Now the principal of the “alleged shaking incident” is taking her turn in court. The difference is, it’s Federal Court. The first two of the sour grape three, Sullivan and Pandora got their settlements from the City Council, uncontested. No City Council is going to settle a Federal Lawsuit. Do not be surprised if the case is dismissed, it should be.
+
+<div class="link-preview">
 
 ## Fairhope mayor responds to wrongful termination lawsuit - Lagniappe Mobile
 
@@ -71,7 +79,10 @@ According to a court filing earlier this month, Fairhope Mayor Karin Wilson is d
 
 Source: [lagniappemobile.com/fairhope-mayor-responds-to-wrongful-termination-lawsuit/](https://lagniappemobile.com/fairhope-mayor-responds-to-wrongful-termination-lawsuit/)
 
+</div>
 A tip to the Rippster said our Infamous Family Court Judge Thomasson showed her true colors at the MOJ, last night.
+
+<div class="link-preview">
 
 ## Maids of Jubilee Mardi Gras Parade - Fairhope - Alabama.travel
 
@@ -83,7 +94,10 @@ Enjoy the beautiful colorful floats, manned by masked riders in costumes. Lady M
 
 Source: [alabama.travel/upcoming-events/maids-of-jubilee-mardi-gras-parade](https://web.archive.org/web/20190306162353/https://alabama.travel/upcoming-events/maids-of-jubilee-mardi-gras-parade)
 
+</div>
 In what was considered a political move by those attending,100 plus, the good Judge wanted to turn a family friendly organization into her own selected Board and exclude those serving. The Judge was knocked off her broomstick when people started booing her and then was soundly defeated by a 75% margin vote. This is a great organization and for one I am glad it did not get hijacked.
+
+<div class="link-preview">
 
 ## CATALYST QUEEN – REMEMBER FAMILY COURT
 
@@ -95,4 +109,5 @@ Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Sta
 
 Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
+</div>
 Like I said the worst thing about Fairhope is the politics. Let’s hope Fairhope stands strong, in 2020, against the Catalyst Council, and fresh new faces in the community, public servants, decide to run for Council positions.

@@ -37,6 +37,8 @@ Please contact us through email fpripp1@gmail.com or through Facebook The Ripp R
 
 A special thank you to the Ripp Report’s most loyal contributor, for his latest contribution.
 
+<div class="link-preview">
+
 ## CATALYST TRIFECTA
 
 Catalyst is based out of Fairhope and they are still reeling from losing the Mayor’s election in Fairhope. Catalyst is quite simply a good ole boys club for the entitled, corrupt politicians and the many business that feed off the tax payer. Catalyst is responsible for the obstruction of Fairhope Government and the personal assaults on the Mayor. Their day is coming.
@@ -57,6 +59,7 @@ All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones,
 
 Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
 
+</div>
 Elliott has raised 500,000 dollars in his campaign and the figure could go as high as 700,000 for a job that pays 42,000. That should be reason enough NOT to vote for him.
 
 David Northcutt is the people’s choice and has not sold out to Catalyst.
@@ -64,6 +67,8 @@ David Northcutt is the people’s choice and has not sold out to Catalyst.
 CATALYST CANDIDATE MILLIONAIRE Tucker Dorsey may be the most disliked politician in Baldwin County. County employees are praying every night that they will be rid of him once and for all. When Mr Dorsey was elected he could hardly rub two dimes together, today he is reported to be a millionaire. His slick mail box ads have him standing under a lemon tree, what a subliminal message. He has been a lemon on the County Commission and has used his political position to further his own pocketbook.
 
 PLEASE VOTE BILLIE JO UNDERWOOD, She is not a lemon.
+
+<div class="link-preview">
 
 ## MILLION DOLLAR SWIMMING POOL
 
@@ -75,7 +80,10 @@ Catalyst players have developed a shell game called follow the LLC’s. Daphne M
 
 Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/million-dollar-swimming-pool/)
 
+</div>
 CATALYST “QUEEN” CANDIDATE Judge Michelle Thomason, the most infamous and incompetent Family Court Judge in Baldwin County.
+
+<div class="link-preview">
 
 ## CATALYST QUEEN – REMEMBER FAMILY COURT
 
@@ -87,7 +95,10 @@ Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Sta
 
 Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
 
+</div>
 Please, this is a Judge that needs to be kicked to the curb. You will be preforming a public service to Not vote for her. If you, or your children, have been a victim of this, so called Judge, do your best to use social media or whatever means possible to let other victims know that now is their opportunity to flush her away with Elliott and Dorsey.
+
+<div class="link-preview">
 
 ## CATALYST JUDGES
 
@@ -99,6 +110,7 @@ Alabama has a proud legal system ripe with attorneys who plan a career as a judg
 
 Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
 
+</div>
 Vote for Christy Olinger Edwards for Court of Civil Appeals, Judge Place 1, Christy does not have the baggage Michelle has.
 
 Baldwin County will be a lot better off with these three Catalyst candidates, help flush them down the toilet.

@@ -9,6 +9,8 @@ authors:
 
 The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for personal gain by securing the Fairhope Art Center Contract. The same Jester who favored the Fly Creek Apartments and it’s developer over his constituents.
 
+<div class="link-preview">
+
 ## FAIRHOPE JESTER AND FLY CREEK
 
 ### FAIRHOPE JESTER AND FLY CREEK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -19,6 +21,7 @@ The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same
 
 Source: [rippreport.com/2018/04/30/fairhope-jester-and-fly-creek/](https://rippreport.com/fairhope-jester-and-fly-creek/)
 
+</div>
 The same Jester is 100% behind the conservation easement.
 
 ## DELIBERATE DISTORTION OR TWISTING OF MEANING

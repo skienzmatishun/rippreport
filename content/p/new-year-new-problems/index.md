@@ -15,6 +15,8 @@ authors:
 
 Fairhope entered the new year hoping there would be change and cooperation among the City Council and the Mayor. The City Council has wasted an entire year trying to obstruct the newly elected Mayor and her administration. They are now faced with the city council president being sued for preventing free speech.
 
+<div class="link-preview">
+
 ## SEE YA IN COURT JACK
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/01/court2.jpg)
@@ -39,6 +41,7 @@ Fairhope, Alabama: newspaper, information, government, events, arts, music, ente
 
 Source: [thefairhopetimes.blogspot.com/2018/01/commercialization-of-north-greeno-road.html?spref=fb](http://thefairhopetimes.blogspot.com/2018/01/commercialization-of-north-greeno-road.html?spref=fb)
 
+</div>
 This particular piece of property, Green Nursery, is the oldest established business in Fairhope acting in a commercial capacity before Greeno Road was 4 lane. After one year of meetings finally the council voted for the obvious.
 
 The Mayor was absent as her grandmother is in intensive care, our prayers are with her and her family.

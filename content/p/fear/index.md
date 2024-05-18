@@ -7,6 +7,8 @@ authors:
   - ripp-report
 ---
 
+<div class="link-preview">
+
 ## FAIRHOPE
 
 **FEAR OF CHANGE**, that is what is driving the NO vote in Fairhope. Special interest, Catalyst and the Catalyst “At Large” Council, are relying on a couple of the oldest political tools in the campaign war chest, fear and ignorance. The NO votes efforts are supported by special interests, NOT the citizen’s interest.
@@ -21,6 +23,7 @@ FAIRHOPE For 12 years The Ripp Report has been reporting on issues related to Fa
 
 Source: [rippreport.com/2018/11/01/the-face-of-no/](https://rippreport.com/the-face-of-no/)
 
+</div>
 Mr. Gary Thorson, of Forever Fairhope, a political action committee, is another NO vote.
 
 https://lagniappemobile.com/fairhope-voters-will-decide-on-new-form-of-government/
@@ -28,6 +31,8 @@ https://lagniappemobile.com/fairhope-voters-will-decide-on-new-form-of-governmen
 Gary says that “the whole purpose is to change the whole power structure of the city.”
 
 Well Gary you need to play the lotto because you are the winner. You are absolutely right and here is why:
+
+<div class="link-preview">
 
 ## VOTE “Yes” ON NOV 6TH
 
@@ -39,11 +44,14 @@ VOTE “Yes” ON NOV 6TH on THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 Source: [rippreport.com/2018/10/30/vote-yes-on-nov-6th/](https://rippreport.com/vote-yes-on-nov-6th/)
 
+</div>
 Alabama is the most corrupt State in the United States and Baldwin County is in competition with Jefferson County as the most corrupt county in Alabama. THAT IS A FACT
 
 Let that soak in!
 
 The CATALYST NO vote motto says it all:
+
+<div class="link-preview">
 
 ## “IF YOU DON’T KNOW VOTE NO”
 
@@ -65,6 +73,7 @@ VOTE “Yes” ON NOV 6TH on THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
 
 Source: [rippreport.com/2018/10/30/vote-yes-on-nov-6th/](https://rippreport.com/vote-yes-on-nov-6th/)
 
+</div>
  
 
 ## VOTE NOV. 6th, VOTE YES

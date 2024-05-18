@@ -11,6 +11,8 @@ November is a month of special significance to many who have served in the Unite
 
 Veterans Day celebrates the service of all United States military veterans on Nov. 11.
 
+<div class="link-preview">
+
 ## Veterans Day - Wikipedia
 
 ### Veterans Day - Wikipedia
@@ -29,7 +31,10 @@ Veterans Day follows the Marine Corp Birthday on November 10th.
 
 Source: [en.wikipedia.org/wiki/United\_States\_Marine\_Corps\_birthday](https://en.wikipedia.org/wiki/United_States_Marine_Corps_birthday)
 
+</div>
 The Marines have a motto: SEMPER FI
+
+<div class="link-preview">
 
 ## Semper fidelis - Wikipedia
 
@@ -51,6 +56,7 @@ Fifty years ago, Nov. 11th 1968 I returned from Vietnam or “Nam”, after 13 m
 
 Source: [en.wikipedia.org/wiki/Tet\_Offensive](https://en.wikipedia.org/wiki/Tet_Offensive)
 
+</div>
 My last base of operations was Dong Ha, about 7 miles from the DMZ. I was lucky to return to the United States, alive. I lost my first cousin and many friends in the Vietnam war and returned to a United States protesting the same war and morning the assassination of Robert Kennedy and Martin Luther King.
 
 1968 was one hell of a year. It was the same year I started college and became political active. It also was the first year I became involved in non profit consumer affairs.
@@ -69,6 +75,8 @@ The council was sued by The Ripp Report, which is a consumer association and rep
 
 Special interest. The, at large council, displayed a complete lack of transparency, accountability or an understanding, of what Veteran’s Day, or the American Flag represents.
 
+<div class="link-preview">
+
 ## LOSER
 
 ### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -79,6 +87,7 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
 
+</div>
 If this happens to any other citizen in any of the 14 municipalities of Baldwin County, The Ripp Report will offer it’s services to prosecute those responsible in Federal Court.
 
 Semper Fi

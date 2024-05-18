@@ -9,6 +9,8 @@ authors:
 
 You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources willing to report news. There is other media but the articles published are “fluff” or so mundane and lacking of any back story, that the reader can make little sense out of the content.
 
+<div class="link-preview">
+
 ## Baldwin County seeking improvements to South Alabama Mega Site - Lagniappe Mobile
 
 ### Baldwin County seeking improvements to South Alabama Mega Site - Lagniappe Mobile
@@ -19,9 +21,12 @@ The Baldwin County Commission has advertised a special meeting July 25 to consid
 
 Source: [lagniappemobile.com/baldwin-county-seeking-improvements-to-south-alabama-mega-site/](https://lagniappemobile.com/baldwin-county-seeking-improvements-to-south-alabama-mega-site/)
 
+</div>
 32 million spent, 2 million a year in payments and 7 years later and the Baldwin County Mega-Site is still vacant. Baldwin County Economic Development Alliance under the leadership of Mr Lee Lawson has not been able to find a tenant. The lost opportunity of the 32 million and 7 years of interest has driven the expense of the Mega-Mistake to approximately 50 million.
 
 Seven years and Mr Lawson’s plan is now to transfer title of the 50 million mega-site to BCEDA. Sounds a lot like Fairhope and the City Council wanting to give away 20 million worth of municipal property.
+
+<div class="link-preview">
 
 ## FAIRHOPE UN-ARMED ROBBERY
 
@@ -33,7 +38,10 @@ Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandit
 
 Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
+</div>
 Our elected officials appear to be ready to transfer title of County and municipal lands to third parties, without full public participation. In Fairhope the council is on thin ice about their slick proposal to give Weeks Bay full and total control of municipal land, 106 acres, valued at 20 million dollars.
+
+<div class="link-preview">
 
 ## FAIRHOPE PETITION
 
@@ -45,9 +53,12 @@ If you live in Fairhope this petition is of great importance to you and your fam
 
 Source: [rippreport.com/2019/06/26/fairhope-petition/](https://rippreport.com/fairhope-petition/)
 
+</div>
 Over 600 people have signed a petition in Fairhope in opposition to this secret deal that was keep from the public, until the last minute. If you have not signed the petition, please do so. This issue as well as the Mega-Mistake may wind up in class action lawsuits if the County Commission and Fairhope Council do not make every effort to inform the public of their intentions.
 
 Now, back to Mr. Lawson and the Mega-Mistake, here is a little back story for ya to consider, before the citizens of Baldwin County make the same mistake twice.
+
+<div class="link-preview">
 
 ## ECONOMIC DEVELOPMENT – BALDWIN COUNTY STYLE
 
@@ -58,6 +69,9 @@ Now, back to Mr. Lawson and the Mega-Mistake, here is a little back story for ya
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. Baldwin County is one of the fastest growing…
 
 Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
+
+</div>
+<div class="link-preview">
 
 ## DEAD LAST
 
@@ -71,7 +85,10 @@ Mid term elections will again bring up all the advantages of the Baldwin County 
 
 Source: [rippreport.com/2018/01/17/dead-last/](https://rippreport.com/dead-last/)
 
+</div>
 TURN AT THE CATTLE GATE
+
+<div class="link-preview">
 
 ## CATTLE GATE MEGA-SITE
 
@@ -83,6 +100,7 @@ The Ripp Report has written about the Baldwin County Mega-site numerous times. I
 
 Source: [rippreport.com/2018/03/02/cattle-gate-mega-site/](https://rippreport.com/cattle-gate-mega-site/)
 
+</div>
 Mr Lawson can give a good speech but he never delivers. In Fairhope he failed when it came to the K-1 center and again he failed to produce any results at the Fairhope Airport, aka Jack Burrell International.
 
 Effort is always important however results is what counts and Lawson has produced very little when it comes to results.

@@ -18,6 +18,8 @@ Not only is Council Burrell a bald faced liar, he thinks a hard hat works better
 
 He did approve sewer repairs to the main sewer plant, however allowed no money for transmission lines. That is like having a healthy heart but no arms or legs.
 
+<div class="link-preview">
+
 ## Fairhope City Officials React to State Lawsuit Alleging Wastewater Violations
 
 [![](https://cdn.rippreport.com/20200522_2335261.jpg)](https://mynbc15.com/news/local/fairhope-city-officials-react-to-state-lawsuit-alleging-wastewater-violations )
@@ -40,11 +42,14 @@ Freaky Friday gives you the unfiltered truth:
 
 Source: [rippreport.com/2020/05/22/catalyst-shit-creek/](https://rippreport.com/catalyst-shit-creek/)
 
+</div>
 Be sure to read the Fairhope timeline of sewer upgrades and water quality, especially the first two years.
 
 Burrell is lying through his teeth. The CATALYST council is caught, AGAIN, lying.
 
 The Fairhope City Council has consistently not supported sewer projects. They only get on board when it is apparent the project is going forward, with or without, their approval ⁠— or when cameras show up.
+
+<div class="link-preview">
 
 ## Timeline for Sewer System Upgrades & Water Quality Initiatives
 
@@ -66,6 +71,7 @@ A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp R
 
 Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
+</div>
 Let’s not forget the bid rigging at the airport and that he voted for council full family insurance.
 
 He also “negotiated” buying 2.65 million dollar farmland for future recreation, then promptly leased out the land for farming for 9 thousand a year. Only three of the council, the three B’s, wanted to purchase the land.

@@ -11,6 +11,8 @@ Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGE
 
 The biggest consumer issue in Baldwin County, the $6.00 toll, was defeated by a poll. The poll numbers rose until they reached a figure that terrified every elected official in Baldwin County. When the petition reached the 50,000 mark, elected officials hit their knees.
 
+<div class="link-preview">
+
 ## FINGERPRINT
 
 ### FINGERPRINT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -21,7 +23,10 @@ After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organ
 
 Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/fingerprint/)
 
+</div>
 The NEW consumer issue that faces every citizen in Baldwin County is sewer regulation. Lagniappe has written three in depth articles about Baldwin County Sewer Service, BC$$. The three articles will be soon available in a combined format, on line. The Ripp Report will publish the link when available.
+
+<div class="link-preview">
 
 ## Sept 4
 
@@ -35,6 +40,9 @@ While Baldwin County’s only private sewer provider has operated with limited g
 
 Source: [lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/](https://lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/)
 
+</div>
+<div class="link-preview">
+
 ## Aug 29
 
 ## Judge orders sale of proposed sewer plant property - Lagniappe Mobile
@@ -46,6 +54,9 @@ Source: [lagniappemobile.com/despite-previous-attempts-private-sewer-provider-ha
 A 242-acre Magnolia Springs property at the center of a five-year legal battle involving some of Baldwin County’s biggest movers and shakers will be equitably divided among the two contesting parties, according to a court order Tuesday. In what may be the final hearing in the case of Bass Enterprises vs. Pennstar et al, Baldwin …
 
 Source: [lagniappemobile.com/judge-orders-sale-of-proposed-sewer-plant-property-2/](https://lagniappemobile.com/judge-orders-sale-of-proposed-sewer-plant-property-2/)
+
+</div>
+<div class="link-preview">
 
 ## Aug 21
 
@@ -59,6 +70,7 @@ By Rob Holbert & Gabe Tynes If you were nosing through Baldwin County land sales
 
 Source: [lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/](https://lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/)
 
+</div>
 Baldwin County now has a “NEW” consumer issue that effects every citizen in the county, sewer regulation.
 
 Mr Richard Dayton of GlenLakes subdivision in Foley is leading the charge.

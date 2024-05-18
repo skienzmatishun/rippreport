@@ -16,6 +16,8 @@ It seems as if the public has gotten the attention of elected officials and envi
 
 sewer systems of Fairhope, Daphne and Spanish Fort. It is hard to believe in 2017 that we still have regular sewer spills and that we still dump sewage into the bay.
 
+<div class="link-preview">
+
 ## Mobile Baykeeper awarded $87,000 grant from NOAA to expand Watershed Education and Monitoring Program
 
 (Mobile, Ala.) - Mobile Baykeeper has been awarded a federal grant in the amount of $87,294 from the National Oceanic Atmospheric Administration (NOAA) to expand its Strategic Watershed Awareness and Monitoring Program (SWAMP) into Baldwin County at Fairhope High School.
@@ -36,6 +38,7 @@ For years I have witnessed authorities and non-profit environmental groups ignor
 
 Source: [rippreport.com/2017/10/06/can-you-smell-it/](https://rippreport.com/can-you-smell-it/)
 
+</div>
 During public participation of the same meeting a resident from Sandy Ford, Rock Creek area, produced photographs of the wetlands by the subdivision of Firefly. This is the same Fly Creek Watershed. The resident said she, as well as other neighbors have smelled foul odors and have seen discolored water which appeared to be contaminated. The city lift stations have also been problematic in the same area. Baykeepers was given a copy of the photo’s and even acknowledged that they were familiar with the location. However Casi Callaway was too occupied with talking to the council and not the citizen complaining. These complaints have been fallen on deaf ears in the past, no city official or state agency has taken any time to answer any of the citizens complaints living in the area.
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2017/10/95BDA82D-2BDD-45A2-A799-E0A521D838751.jpg)![](https://cdn.rippreport.com/wp-content/uploads/2017/10/66D1C2F0-D50C-4D4B-B1D1-3A50F91B4659-1-768x10241.jpg)

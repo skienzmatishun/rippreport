@@ -21,6 +21,8 @@ Notice to all citizens traveling on Highway 98 through Fairhope that cross the P
 
 The Fly Creek Apartments are preparing site work for 230 apartments to be built along Fly Creek, behind the Publix. They are clear cutting every living thing off the site, just as they did with the Publix site.
 
+<div class="link-preview">
+
 ## Despite public outcry, Fly Creek apartments win approval - Lagniappe Mobile
 
 ### Despite public outcry, Fly Creek apartments win approval - Lagniappe Mobile
@@ -43,9 +45,12 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
 
+</div>
 Mayor Kant bent over for the developer’s every request and each time taxpayers paid.
 
 The Fire Station on Parker Road, a dead end, was constructed on Corte property, and adjacent to the proposed apartments, not a coincidence.
+
+<div class="link-preview">
 
 ## Updated: Ground Breaking Set For New Fire Station
 
@@ -69,7 +74,10 @@ The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I sp
 
 Source: [rippreport.com/2017/08/25/fly-creek-a-drainage-ditch/](https://rippreport.com/fly-creek-a-drainage-ditch/)
 
+</div>
 The entire Publix property drains into the wetlands next to fly creek. The Last City Council meeting of Tim Kant’s administration, which he did not attend, had a surprise for unsuspecting citizens. The last item on the agenda was a gift of land, wetlands, to be donated by the owner, Angelo Corte, to the City of Fairhope. He gave Fairhope the land that is the recipient of all the water that drains from the Publix property, he developed, into Fly Creek. Councilmen Burrell and Boone voted to accept the “Gift.” Now the taxpayers are responsible for the developers drainage? This “Gift” is going to cost us all.
+
+<div class="link-preview">
 
 ## RE-GIFT GIFT ??
 
@@ -81,7 +89,10 @@ ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City 
 
 Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
+</div>
 Taxpayers paid for a Fire Station, a sewer lift station and accepted the “GIFT” of liability of the wetlands, all for the developer. Taxpayers paid for the infrastructure for the developer while Mayor Kant ignored the infrastructure of Fairhope.
+
+<div class="link-preview">
 
 ## State to fine Shoppes at Fairhope Village/Publix developer $11,000
 
@@ -93,6 +104,7 @@ State environmental regulators have issued a proposed $11,000 fine against the d
 
 Source: [blog.al.com/live/2009/07/state\_to\_fine\_shopping\_center.html](http://blog.al.com/live/2009/07/state_to_fine_shopping_center.html)
 
+</div>
 The Publix project damaged Fly Creek and filled it with mud and debris, now taxpayers along Fly Creek have been asked to help with the dredging of the Creek, not the developer.
 
 This single project is going to radically effect Traffic, Quality of life, Schools, Fly Creek the Environment and your Property Values. That’s right your Property Values.

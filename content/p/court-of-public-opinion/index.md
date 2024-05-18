@@ -15,6 +15,8 @@ In 2017 The Ripp Report covered many different political issues in Baldwin Count
 
 Baldwin County has a mid term election coming up in Nov. 2018 and all four county commissioners are up for re election. They all need to be replaced, a clean sweep. Their last term saw no change in the white elephant, the mega site. The county has been saddled with a 32 million dollar debt that is being paid on the backs of county employees and taxpayers. It is time for a total change and four new commissioners.
 
+<div class="link-preview">
+
 ## ECONOMIC DEVELOPMENT
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/01/mega-site1.jpg)
@@ -65,6 +67,7 @@ From Jack Burrell’s view, Francis Paul Ripp has had plenty of opportunity to s
 
 Source: [lagniappemobile.com/lawsuit-alleges-fairhope-council-president-denied-citizens-free-speech/](http://lagniappemobile.com/lawsuit-alleges-fairhope-council-president-denied-citizens-free-speech/)
 
+</div>
 ## SEE YA IN COURT JACK
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/01/court.jpg)

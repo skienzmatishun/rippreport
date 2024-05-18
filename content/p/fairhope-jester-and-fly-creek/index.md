@@ -18,6 +18,8 @@ It has been reported to The Ripp Report that the Jester is also spinning the Eth
 
 The Jester also is dismissing any Ethics Complaint exists. The case number for the Ethics Complaint against Fairhope City councilman and Eastern Shore Art Center Board member, Robert Brown, is 2018-42. If anyone has any additional information relative to this case please contact the Alabama Ethics Commission.
 
+<div class="link-preview">
+
 ## THE FAIRHOPE JESTER
 
 ### THE FAIRHOPE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -27,6 +29,9 @@ The Jester also is dismissing any Ethics Complaint exists. The case number for t
 The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
 
 Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
+
+</div>
+<div class="link-preview">
 
 ## Ethics complaint filed against Fairhope Councilman Robert Brown
 
@@ -38,6 +43,7 @@ Local blogger Francis Paul Ripp, who writes The Ripp Report blog, has filed a co
 
 Source: [www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187](http://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187)
 
+</div>
 ## Fairhope Standard: Gravity Fed VS Low Pressure Sewer System
 
 ### Fairhope Standard: Gravity Fed VS Low Pressure Sewer System

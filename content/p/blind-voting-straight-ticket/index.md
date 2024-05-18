@@ -13,6 +13,8 @@ Blind Voting known as straight ticket voting. Alabama is one of 8 states that ha
 
 Republican or Democratic, straight ticket voting encourages corruption, by just voting in the same candidate because of his party affiliation.
 
+<div class="link-preview">
+
 ## Elections 2018: How to vote a straight-party ticket in Alabama
 
 ### Elections 2018: How to vote a straight-party ticket in Alabama
@@ -23,4 +25,5 @@ How to vote a straight-party ticket in Alabama.
 
 Source: [www.al.com/election/2018/11/elections-2018-how-to-vote-a-straight-party-ticket-in-alabama.html](https://www.al.com/election/2018/11/elections-2018-how-to-vote-a-straight-party-ticket-in-alabama.html)
 
+</div>
 Alabama elected a Governor that did not even have to debate. All she had to do was wait for the blind to cast their vote. We will remain dead last as long as we put party before candidate.

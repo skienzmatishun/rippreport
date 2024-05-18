@@ -11,6 +11,8 @@ Congratulations to all Nappie nominees and winners.
 
 Fact:
 
+<div class="link-preview">
+
 ## TWO YEARS IN A ROW
 
 2018 Hardest Working Elected Official- Eastern Shore Fairhope Mayor Karin Wilson
@@ -25,6 +27,7 @@ Thanks a million! TOTAL VOTES: 1,075,856 We made some changes to the Nappie Awar
 
 Source: [lagniappemobile.com/complete-list-2018-nappie-award-winners/](https://lagniappemobile.com/complete-list-2018-nappie-award-winners/)
 
+</div>
 Mayor Wilson ran for office with the promise to fix the sewer and utility infrastructure. Fairhope and the Eastern Shore have a sewer problem that was developed over many years of neglect of previous administrations. The Fairhope City Council has hindered the infrastructure projects by simple obstruction and procrastination.
 
 Please read the Mayor’s comments after the article below. Mayor Wilson is doing what she promised and the public needs to know that she is the FIRST Mayor in Fairhope to address the situation.
@@ -32,6 +35,8 @@ Please read the Mayor’s comments after the article below. Mayor Wilson is doin
 Contact your City Councilman and tell them to stop playing politics with crap in the bay, do their job.
 
 It is embarrassing to be rated as a dirty beach but maybe it will wake up the Eastern Shore because one community cannot fix the problem.
+
+<div class="link-preview">
 
 ## There's 'poop in the water' at America's dirtiest beaches. Is yours on the list?
 
@@ -43,6 +48,7 @@ A new report lists beaches in 29 coastal and Great Lakes states prone to bacteri
 
 Source: [www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/](https://www.usatoday.com/story/news/nation/americas-dirtiest-beaches-prone-bacteria-report/1801372001/)
 
+</div>
 FACT :Mayor Karin Wilson of Fairhope, Alabama
 
 July 23 2019
@@ -73,6 +79,8 @@ https://www.fairhopeal.gov/community/faq/what-is-the-city-of-fairhope-doing-to-u
 
 FACT: Councilman Boone and Burrell did nothing for four years, except for spending 13 million on a sewer plant located next to the Bay. For 22 million they could have relocated the sewer plant inland, which is what will eventually happen.
 
+<div class="link-preview">
+
 ## City of Fairhope responds to negative water quality report - Lagniappe Mobile
 
 ### City of Fairhope responds to negative water quality report - Lagniappe Mobile
@@ -82,3 +90,5 @@ FACT: Councilman Boone and Burrell did nothing for four years, except for spendi
 The public beach in the city of Fairhope stood out for all the wrong reasons in a nationwide study released today about bacterial contamination. According to a report by the nonprofit Environment America Research & Policy Center, a sampling site at Fairhope Public Beach in Baldwin County tested as “potentially unsafe” for 21 days, more …
 
 Source: [lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report](https://lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report)
+
+</div>

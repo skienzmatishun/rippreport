@@ -9,6 +9,8 @@ authors:
 
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements. The Fairhope Conservation Easement that is proposed is a political football being thrown around by the City Council. It is an excuse by special interests, developers, that want the property out of the control of the city. The property in question is prime property in the Fairhope municipal city limits, that cost us 13 million.
 
+<div class="link-preview">
+
 ## BALDWIN COUNTY MUNICIPAL ALERT – MUNICIPAL CONSERVATION EASEMENT
 
 ### BALDWIN COUNTY MUNICIPAL ALERT – MUNICIPAL CONSERVATION EASEMENT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -19,6 +21,7 @@ In Fairhope, a conservation easement involving city property has become an issue
 
 Source: [rippreport.com/2019/06/28/baldwin-county-municipal-alert-municipal-conservation-easement/](https://rippreport.com/baldwin-county-municipal-alert-municipal-conservation-easement/)
 
+</div>
 Weeks Bay is now doing damage control due to the push back from Fairhope citizens, over 600. Today Weeks Bay had a lecture at the Graham Creek Nature Reserve. Invited were representatives of the 14 municipalities in Baldwin County. I could not make it but wish I were a fly on the wall. Weeks Bay is trying to convince municipalities in Baldwin county that they can manage municipal property better than the municipality.
 
 If you actually believe that to be true than I have a great business opportunity in a Gold mine in Belize, that is a sure thing.
@@ -26,6 +29,8 @@ If you actually believe that to be true than I have a great business opportunity
 Think about the Fairhope City Council and the reason they insist that they make this decision, without public input. The Council has gone on record saying that they need to make the decision now because Fairhope cannot trust the elected politicians in the future to do the right thing. That is their reason. Think how damn stupid a position that is for an elected official to have.
 
 The council wishes to give away the rights and control of 106 acres on one side of town while they look at buying 40 acres on the other side of town?????
+
+<div class="link-preview">
 
 ## DELIBERATE DISTORTION OR TWISTING OF MEANING
 
@@ -47,6 +52,7 @@ The President of the Fairhope City Council has held on to that title for over 7 
 
 Source: [rippreport.com/2019/06/12/disposal/](https://rippreport.com/disposal/)
 
+</div>
 Please sign the petition:
 
 [https://www.change.org/p/city-of-fairhope-citizens-for-protecting-fairhope-s-quality-of-life](https://www.change.org/p/city-of-fairhope-citizens-for-protecting-fairhope-s-quality-of-life)

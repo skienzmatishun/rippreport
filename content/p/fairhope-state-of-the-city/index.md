@@ -15,6 +15,8 @@ Fairhope this your chance to meet employees and see the different departments of
 
 The Catalyst City Council will be present and I could think of a million questions but lets settle for one. First some info:
 
+<div class="link-preview">
+
 ## Fairhope evaluates properties for expansion of sports facilities - Lagniappe Mobile
 
 ### Fairhope evaluates properties for expansion of sports facilities - Lagniappe Mobile
@@ -25,6 +27,7 @@ In an unusual call to action in Fairhope’s Council chambers last week, Corey M
 
 Source: [lagniappemobile.com/fairhope-evaluates-properties-for-expansion-of-sports-facilities/](https://lagniappemobile.com/fairhope-evaluates-properties-for-expansion-of-sports-facilities/)
 
+</div>
 The piece of land the council rejected was first choice of the State Park Board, the citizens of the community, city staff and the Mayor.
 
 The council ordered the appraisal before citizens knew, and it is dated June 28, 2019.
@@ -32,6 +35,8 @@ The council ordered the appraisal before citizens knew, and it is dated June 28,
 This so called appraisal was highly questionable, and the brain child of councilmen Burrell, Brown and Boone.
 
 They had made up their minds in June but strung the citizens out for months explaining, “we are only getting an appraisal”.
+
+<div class="link-preview">
 
 ## FAIRHOPE SOLD TO THE HIGHEST BIDDER
 
@@ -43,6 +48,7 @@ The citizens of Fairhope must know that they are being sold out by developers, t
 
 Source: [rippreport.com/2019/10/16/fairhope-sold-to-the-highest-bidder/](https://rippreport.com/fairhope-sold-to-the-highest-bidder/)
 
+</div>
 The 3B’s then move to close on the property without any public input on the proposed property.
 
 In December they paid the 2.65 million for the farmland.
@@ -57,6 +63,8 @@ The main city hall needs a new roof and recreation upgrades within the city are 
 
 Millions of dollars are now not available for city infrastructure projects and these projects are now being held up for lack of budgeted funds.
 
+<div class="link-preview">
+
 ## MARBLE MOUTH
 
 ### MARBLE MOUTH
@@ -67,6 +75,7 @@ Fairhope’s City Council started out, day one, as being obstructionist. They ha
 
 Source: [rippreport.com/2020/01/15/marble-mouth/](https://rippreport.com/marble-mouth/)
 
+</div>
 In January 2020 the City Council declared the same 2.65 million dollar property:
 
 > 6\. Ordinance – An Ordinance to declare that certain real property (105 Farmable Acres) of the City of Fairhope is temporarily designated surplus and not needed for public or municipal purposes in response to an offer to lease property yearly from January 1 through December 31 for one year with four one-year options.

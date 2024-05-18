@@ -13,6 +13,8 @@ authors:
 
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport. WRONG First off Chucky keeps calling me a blogger and ignoring that The Ripp Report has been around for over ten years and is a non profit corporation, consumer watchdog organization. But what the hell if I call him Chucky Cheeze he can call me a blogger.
 
+<div class="link-preview">
+
 ## Alabama Ethics Commission dismisses complaints involving Fairhope Airport Authority
 
 ### Alabama Ethics Commission dismisses complaints involving Fairhope Airport Authority
@@ -23,6 +25,7 @@ The Alabama Ethics Commission sent out letters earlier this month dismissing mul
 
 Source: [www.gulfcoastnewstoday.com/the-courier/stories/alabama-ethics-commission-dismisses-complaints-involving-fairhope-airport-authority,54546](http://www.gulfcoastnewstoday.com/the-courier/stories/alabama-ethics-commission-dismisses-complaints-involving-fairhope-airport-authority,54546)
 
+</div>
 One particular part of the article needs a little explanation:
 
 > “On Oct. 19, Hix and Snedeker sent a copy of their letters to Fairhope Mayor Karin Wilson and Burrell, saying they hoped the findings from the Ethics Commission would end some of what they called the “slanderous and conspiratorial behavior” undertaken by some local residents."
@@ -30,6 +33,8 @@ One particular part of the article needs a little explanation:
 > “We humbly share for the public record the attached letters of exoneration from the baseless and malicious complaints against us that were submitted to the Alabama Ethics Commission,” Hix and Snedeker wrote. “Our sincere hope is that the slanderous and conspiratorial behavior by some individuals in our community will stop immediately. Like most citizens, we are committed to collaboratively working with our city officials and staff to protect and enhance the unparalleled quality of life in Fairhope, Alabama.”
 
 MR. Hix and Mr. Snedeker use the words exonerated, baseless and malicious complaints, slanderous and conspiratorial behavior, I love that one, Please note that is THEIR words, nowhere in the Ethics Letters does it use any of these words, especially, Exonerated. The complaints were filed by a non profit, that represents the best interest of the public, The Ripp Report, against Hix and Burrell, not Snedeker, however we are pleased to hear someone did.
+
+<div class="link-preview">
 
 ## ETHICS COMEDIANS
 
@@ -53,11 +58,14 @@ In Fairhope, “come fly with me” Jack Burrell is facing ethics complaints as 
 
 Source: [rippreport.com/2017/08/02/alabama-ethics-a-political-tool/](https://rippreport.com/alabama-ethics-a-political-tool/)
 
+</div>
 BONUS MONEY COMPLIMENTS OF FAIRHOPE CITY COUNCIL
 
 Bonus money for fired employees, only in Fairhope. The city council settled the Sherry Sullivan claim without a trial or any explanation. The council simply went into executive session and voted to use taxpayer money to settle a claim that no one is privy to, other than the council. The council, many are personal friends of Sullivan, supported Sullivan in her claim. Jack Burrell led the charge to reward bad behavior that led to Sullivan’s firing. Next up Jenniffer Fidler, get ready to cut her a taxpayer check for her bad behavior. Oh by the way they will seal all the records so the public cannot tell how their taxes are being spent.
 
 Chucky and the tabloid did their part in supporting the fired employees:
+
+<div class="link-preview">
 
 ## FAKE NEWS AND RETALIATION
 
@@ -79,6 +87,7 @@ The city of Fairhope will have its first new mayor in 16 years, after challenger
 
 Source: [lagniappemobile.com/voters-elect-new-mayors-in-fairhope-elsewhere/](http://lagniappemobile.com/voters-elect-new-mayors-in-fairhope-elsewhere/)
 
+</div>
 The council is quick to obstruct the Mayor and that is their only accomplishment for the first year. Wake up Fairhope this council is costing you money and Jack Burrell’s leadership is non existent.
 
 ## JOB WITH BENEFITS

@@ -22,6 +22,8 @@ Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mos
 
 In 2018, mid-term elections, CATALYST almost pulled off the perfect political coup. CATALYST ran candidates for almost every Baldwin County race. If it had not been for several social media sources and Lagniappe informing the public what was going on, CATALYST would have had control of Baldwin County Government.
 
+<div class="link-preview">
+
 ## ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
 
 ### ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -32,9 +34,12 @@ This telling photo is the core group of Elliott Stacy and Haygood, from a few ye
 
 Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
 
+</div>
 In 2016 Fairhope Municipal Elections represented a full slate of CATALYST candidates. Several of the council said they were there own men and so so forth, however in the following years their lies rose to the surface, exposing their affiliation to CATALYST. The council was the body of the CATALYST snake and Mayor Cant was the head of the snake. The head of the snake got cut off but the body still squirmed. The council immediately hired the same law firm for our city attorney and the same municipal Judge.
 
 The municipal attorney and Judge are appointed by council and are CATALYST. The city attorney just botched up the McSherry case, on purpose. Ask yourself why.
+
+<div class="link-preview">
 
 ## WATERING HOLE
 
@@ -46,7 +51,10 @@ How does a bar owner, continuously break the law and walk? If you are Ronan McSh
 
 Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/watering-hole/)
 
+</div>
 The municipal Judge is the largest developer in the city, approved by the city council, go figure. These positions need a transfusion of new blood and the old thrown away.
+
+<div class="link-preview">
 
 ## CORRIDOR OF CHAOS
 
@@ -58,9 +66,12 @@ PODCAST LIVE TODAY – Old Battles Place will have 94 units and now THE “CORRI
 
 Source: [rippreport.com/2019/10/11/corridor-of-chaos/](https://rippreport.com/corridor-of-chaos/)
 
+</div>
 To read multiple articles on CATALYST just go to https://rippreport.com/ and click on CATALYST on the right side under tags.
 
 CATALYST is going to have a block vote for council, a candidate for every seat. They want the power back and they want to keep their CATALYST legal staff to protect them. Mayor Wilson is not CATALYST and CATALYST will be running a candidate to challenge her.
+
+<div class="link-preview">
 
 ## CATALYST CANDIDATES - EXCESS BAGGAGE
 
@@ -80,7 +91,10 @@ Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY
 
 Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
 
+</div>
 In the coming months you are going to hear more than you wish about CATALYST. Pay attention, CATALYST represents FAUXHOPE and NOHOPE.
+
+<div class="link-preview">
 
 ## FAIRHOPE - NO HOPE - FAUXHOPE
 
@@ -100,9 +114,12 @@ The First Congressional District race is now down to two, Jerry Carl and Bill Hi
 
 Source: [rippreport.com/2020/03/05/runoff/](https://rippreport.com/runoff/)
 
+</div>
 Runoff elections usually see the lowest number of voters, this is one race you better not sleep through.
 
 VOTE JERRY CARL JULY 14th, First Congressional District.
+
+<div class="link-preview">
 
 ## CONGRESSIONAL CATALYST
 
@@ -113,3 +130,5 @@ VOTE JERRY CARL JULY 14th, First Congressional District.
 Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat. Only one is CATALYST. GUESS. The GOP hopefuls vying for the party’s nomination in Alabama’s…
 
 Source: [rippreport.com/2020/01/22/congressional-catalyst/](https://rippreport.com/congressional-catalyst/)
+
+</div>

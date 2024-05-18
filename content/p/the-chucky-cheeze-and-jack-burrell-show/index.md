@@ -16,6 +16,8 @@ Well Chucky Cheeze and “come fly with me” Burrell have come up with their ne
 
 All the BS Chucky Cheeze and Burrell have thrown out has yet to stick to the wall. The citizens of Fairhope and readers of Chucky”s tabloid deserve to here the whole story and all the facts surrounding the firings. Normally this would be a moot issue, however the council has taken upon themselves to make these firing much more than what they were, a firing period.
 
+<div class="link-preview">
+
 ## Fairhope attempts to settle claim with former employee Sherry Sullivan
 
 ### Fairhope attempts to settle claim with former employee Sherry Sullivan
@@ -26,6 +28,7 @@ At its Oct. 23 meeting, the Fairhope City Council voted to instruct attorney Mat
 
 Source: [www.gulfcoastnewstoday.com/the-courier/stories/fairhope-attempts-to-settle-claim-with-former-employee-sherry-sullivan,55135](https://cdn.rippreport.com/wp-content/uploads/2017/11/fairhope-attempts-to-settle-claim-with-former-employee-sherry-sullivan,55135)
 
+</div>
 Think of the message this will set for future employees that are fired! This has never happened in Fairhope before and be assure the council is fully responsible. These lawsuits are unnecessary and only add an additional burden on the city.
 
 ## FAIRHOPE LAWSUITS

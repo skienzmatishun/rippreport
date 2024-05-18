@@ -46,6 +46,8 @@ Today at 4:20 PM millions around the world will light up and celebrate by smokin
 
 April 20 2010 will live in infamy in Baldwin County for the Deepwater Horizon Oil Spill, aka BP Oil Spill. !3 lives were lost and 17 injured in the original explosion. The real damage came with 210,000,000 US gallons of oil released into the Gulf of Mexico.
 
+<div class="link-preview">
+
 ## Deepwater Horizon oil spill response - Wikipedia
 
 ### Deepwater Horizon oil spill respon - Wikipedia
@@ -66,7 +68,10 @@ To a great extent, work funded by billions in penalties and settlements is just 
 
 Source: [www.al.com/news/mobile/2020/04/10-years-after-deepwater-horizon-disaster-along-alabamas-gulf-coast-questions-and-work-go-on.html](https://www.al.com/news/mobile/2020/04/10-years-after-deepwater-horizon-disaster-along-alabamas-gulf-coast-questions-and-work-go-on.html)
 
+</div>
 Baldwin County suffered the most economically, and got screwed by the state and their own legislative representatives.
+
+<div class="link-preview">
 
 ## Alabama House approves division of money from BP Oil settlement - Yellowhammer News
 
@@ -100,4 +105,5 @@ The Ripp Report in the next month will be reminding citizens of Baldwin County o
 
 Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/)
 
+</div>
 Pittman and the Fairhope City Council and CATALYST all back Bill “lowtower” for the First Congressional seat runoff July14 2020. Birds of a feather flock together, be sure they do not poop on you.

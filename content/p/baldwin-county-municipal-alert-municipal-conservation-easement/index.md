@@ -21,6 +21,8 @@ Political corruption is an accurate description of what is happening in Fairhope
 
 looks like and who the players are.
 
+<div class="link-preview">
+
 ## FREAKY FRIDAY – FRAUD
 
 ### FREAKY FRIDAY – FRAUD | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -31,7 +33,10 @@ FRAUD Webster’s Dictionary’s definition of fraud reads: “Deceit; trickery;
 
 Source: [rippreport.com/2016/07/15/freaky-friday-fraud/](https://rippreport.com/freaky-friday-fraud/)
 
+</div>
 Councilman Brown and Burrell live next door to the triangle property, yet they refuse to recuse themselves from voting on the Conservation Easement. Instead they have been the biggest advocates of this un-armed robbery.
+
+<div class="link-preview">
 
 ## RECUSE YOURSELF
 
@@ -43,7 +48,10 @@ COFAIRHOPE: ATTENTION MAYOR AND COUNCIL Dear Mayor and Council please take your 
 
 Source: [rippreport.com/2017/04/19/recuse-yourself/](https://rippreport.com/recuse-yourself/)
 
+</div>
 Councilman Boone and Burrell stuck Fairhope citizens with wetlands while letting the developer off the hook. This dirty trick was at the last council meeting of the Can’t term and was the last item on the agenda. AGAIN they favor the developer over the community and hid the facts from the public.
+
+<div class="link-preview">
 
 ## RE-GIFT GIFT ??
 
@@ -55,7 +63,10 @@ ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City 
 
 Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
 
+</div>
 In bed with the present council is Weeks Bay, Diana Brewer, who gets credit for this sneaky deal. Her track record speaks for itself, she is no friend of Fairhope.
+
+<div class="link-preview">
 
 ## GOING DOWN WITH THE SHIP
 
@@ -66,6 +77,9 @@ In bed with the present council is Weeks Bay, Diana Brewer, who gets credit for 
 Be sure you read According to Executive Director of Finance Paul Wesch, GulfQuest National Maritime Museum has not been holding up its end of an agreement with the city to pay its utility bills.
 
 Source: [rippreport.com/2016/09/30/going-down-with-the-ship/](https://rippreport.com/going-down-with-the-ship/)
+
+</div>
+<div class="link-preview">
 
 ## THIS IS A ROBBERY!-- WE ARE THE FAIRHOPE CITY COUNCIL-- ALL CITIZENS RAISE YOUR HANDS AND BEND OVER.
 
@@ -79,6 +93,9 @@ Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandit
 
 Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
+</div>
+<div class="link-preview">
+
 ## DO NOT BE ROBBED SIGN THE PETITION: 576 HAVE SIGNED HELP US REACH A THOUSAND
 
 ## TRIANGLE, PART 2 “PUBLIC-DRIVEN VISION”
@@ -91,6 +108,7 @@ Fairhope’s Triangle, is Fairhope’s most valuable land asset. This vacant pie
 
 Source: [rippreport.com/2018/04/06/triangle-part-2-public-driven-vision/](https://rippreport.com/triangle-part-2-public-driven-vision/)
 
+</div>
 ## PLEASE SUPPORT MAYOR WILSON, CITIZEN RIGHTS, OUR QUALITY OF LIFE AND FAIRHOPE’S MOST VALUABLE ASSET, OUR LAND
 
 [https://www.change.org/p/city-of-fairhope-citizens-for-protecting-fairhope-s-quality-of-life](https://www.change.org/p/city-of-fairhope-citizens-for-protecting-fairhope-s-quality-of-life)

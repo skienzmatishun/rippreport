@@ -14,6 +14,8 @@ authors:
 
 Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.
 
+<div class="link-preview">
+
 ## Fairhope Financial Advisory Committee at standstill
 
 ### Fairhope Financial Advisory Committee at standstill
@@ -24,7 +26,10 @@ Fairhope’s Financial Advisory Committee is currently at a standstill, as FAC C
 
 Source: [www.gulfcoastnewstoday.com/the-courier/stories/fairhope-financial-advisory-committee-at-standstill,62466](http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-financial-advisory-committee-at-standstill,62466)
 
+</div>
 This is the same old obstruction process Burrell has been pushing since Tim Kant lost.
+
+<div class="link-preview">
 
 ## THE CHUCKY CHEEZE AND JACK BURRELL SHOW
 
@@ -46,7 +51,10 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 
 Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
 
+</div>
 Councilman Robert Brown:
+
+<div class="link-preview">
 
 ## THE FAIRHOPE JESTER
 
@@ -58,6 +66,7 @@ The Public Doctrine: Our government is a democracy which means the “people rul
 
 Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
 
+</div>
 supports Mr Burrell’s financial committee, why won’t he? He sure has enjoyed the fruits of elected office. Jack taught Brown everything he knows about how to control bid committees and how to secure a contract, while being an elected official.
 
 The City Council in Fairhope accomplished very little in the first year, other than obstruct the Mayor. Last year a major obstruction went on for three months, the city budget. It clearly is the responsibility of the council to approve the budget. For three months the Mayor extended an olive branch to the council in an effort to get an approved budget. The council members have been absent for meetings and spent very little effort to approve a budget. The council has offered lame excuses or asked mundane questions that have done little to resolving the issue.

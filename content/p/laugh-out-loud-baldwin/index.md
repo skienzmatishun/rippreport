@@ -21,6 +21,8 @@ First we have the “TAX MAN” Chris Elliott, he prefers the title State Senato
 
 Remember the DUI?
 
+<div class="link-preview">
+
 ## Who’s Chris Elliott trying to fool? - Lagniappe Mobile
 
 ### Who’s Chris Elliott trying to fool? - Lagniappe Mobile
@@ -31,7 +33,10 @@ In terms of sheer political theater, watching Baldwin County Commissioner Chris 
 
 Source: [lagniappemobile.com/whos-chris-elliott-trying-fool/](https://lagniappemobile.com/whos-chris-elliott-trying-fool/)
 
+</div>
 What did it cost Baldwin County taxpayers when Tyler filed a lawsuit where the basis for the suit was Tyler breaking his promise to the taxpayers and teachers. Gulf Shores open your wallet, remember the saying “you may regret what you wish for”.
+
+<div class="link-preview">
 
 ## Gulf Shores, Baldwin County reach agreement on city-county school split
 
@@ -43,7 +48,10 @@ The agreement was announced Thursday during a joint press conference in Robertsd
 
 Source: [www.al.com/education/2019/03/gulf-shores-baldwin-county-reach-agreement-on-city-school-split.html](https://www.al.com/education/2019/03/gulf-shores-baldwin-county-reach-agreement-on-city-school-split.html)
 
+</div>
 The TAX MAN is trying to divert your attention from the GAS TAX he just rammed up our butts.
+
+<div class="link-preview">
 
 ## GOAT HILL PIGGY-BANK
 
@@ -55,7 +63,10 @@ Baldwin County is the piggy-Bank for Goat Hill supported by the same elected off
 
 Source: [rippreport.com/2019/03/13/goat-hill-piggy-bank/](https://rippreport.com/goat-hill-piggy-bank/)
 
+</div>
 You can always count on the CATALYST tabloid and the editor, Chucky Cheese to spin things the way CATALYST wants.
+
+<div class="link-preview">
 
 ## Gas tax amendment means more money for Baldwin County
 
@@ -79,7 +90,10 @@ Fairhope Council President fails, again. The Fairhope City Council rushed into a
 
 Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
 
+</div>
 What about that police report he refuses to explain? Captain Jack has a big closet. He claims to work as an engineer however no one knows where he works, much less as an engineer.
+
+<div class="link-preview">
 
 ## POLICE REPORT
 
@@ -91,6 +105,7 @@ A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp R
 
 Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
 
+</div>
 The last laugh is the CATALYST pick for Mayor of Fairhope in 2020. Sherry Sullivan, one of former Mayor Cant’s staff. Her position was Community Affairs and later head of the recreation department, where she failed miserably. Sherry and her two cohorts in lawsuits, Jennifer Fidler and Pandora Heathcoat, all were fired from their Fairhope positions and sued the city when they got fired, for not doing their jobs. Now with the help of CATALYST and the backing of the CATALYST council, they wish to go back to the days of the good ole boys and the jobs they did so poorly, but got paid big bucks for. Sherry will enjoy the backing of the CATALYST tabloid and the CATALYST am radio station, she will not enjoy, just like Jack, the vetting process. Fairhope employees are not laughing they do not want Sherry back, they know Sherry will be a puppet of Can’t and CATALYST and the employees fear corruption will return.
 
 ## Fairhope attempts to settle claim with former employee Sherry Sullivan
