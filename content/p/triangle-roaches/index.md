@@ -21,7 +21,6 @@ Fairhope you better turn on the light because these roaches are going to eat you
 
 <div class="link-preview">
 
-<div class="link-preview">
 
 ##  Pine Forest Park Proposed For City's 'Triangle' 
 
@@ -71,7 +70,6 @@ Not a park or proposed conservation easement but a political football. This date
 
 That also was the courts opinion and resulted in the legal settlement, AGAINST the city.
 
-<div class="link-preview">
 
 <div class="link-preview">
 
@@ -86,7 +84,7 @@ The Jester is back and now he wants to give away 106 acres of municipal land to 
 Source: [rippreport.com/2019/07/12/the-jester/](https://rippreport.com/the-jester/)
 
 </div>
-</div>
+
 In 2014, around Feb, the City Council had a council meeting, Councilman Ford asks at the beginning of the meeting to add an agenda item, the council agreed. The addition to the agenda was to authorize Mayor, Can't, to enter into "settlement talks to reach a legal settlement over the Triangle lawsuit." This was revealed through fioa requests.
 
 Lawyers, owners and developers were all ready for the meeting, the public knew nothing, that was illegal.
@@ -99,7 +97,6 @@ Then we got a copy of the "Legal Settlement".
 
 The SPIN, was park land, this was the cover for the LOSS of the lawsuit and Legal fees.
 
-<div class="link-preview">
 
 <div class="link-preview">
 
@@ -113,7 +110,6 @@ The SPIN, was park land, this was the cover for the LOSS of the lawsuit and Lega
 
 Source: [rippreport.com/2019/11/06/catalyst-colors/](https://rippreport.com/catalyst-colors/)
 
-</div>
 </div>
 This is political and the political machine is still driving the same plan to obstruct development of the triangle. Be it a park or conservation easement or what ever else they dream up.
 
