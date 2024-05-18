@@ -59,7 +59,6 @@ Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandit
 Source: [rippreport.com/2019/06/21/fairhope-un-armed-robbery/](https://rippreport.com/fairhope-un-armed-robbery/)
 
 </div>
-</div>
 Former Tim Kant, aka Can’t, fueled the lawsuit during his entire 16 years as Mayor.
 
 He WAS and IS responsible for the lawsuits.
