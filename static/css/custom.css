@@ -42,7 +42,11 @@ text-align:center;
     color: white;
     position: relative;
 }
-
+.link-preview {
+    text-align: center;
+  background: #dfdfdf;
+  padding: 1rem;
+}
 
 .backstory__header {
     background: #5083df !important;
