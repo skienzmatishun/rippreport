@@ -69,7 +69,6 @@ Here are some observations by citizens paying attention:
 > Brown is a builder and he wants impact fees as low as they can be because the higher the fees the harder it is to afford to build. You did note that there is a cap on fees which means the more expensive houses pay a lower % impact fee. I was surprised Burrell voted that way. I realize many of the council votes are routine and uncontroversial but I find it amazing that Burrell and Boone have voted the same on every single issue. There has also not been a single issue where they voted on the losing side. Sometimes it’s 3-2 or 4-1 but they have been in the majority.
 
 > Soccer Fields; my son plays in Fairhope youth soccer. The new $6 million fields aren’t level. It is sad because the council said it would be “world class.” The kids are embarrassed by their “new” fields that aren’t even level!!!!!!!!!!!!!
-</div>
 <div class="link-preview">
 ## New soccer complex construction underway in Fairhope
 
