@@ -18,7 +18,7 @@ The City Council and City Attorney will fully back Cant’t. They are like roach
 
 Fairhope you better turn on the light because these roaches are going to eat your lunch.
 
-<div style="link-preview">
+<div class="link-preview">
 
 ## The Fairhope Times
 
@@ -28,7 +28,7 @@ Fairhope you better turn on the light because these roaches are going to eat you
 
 Pine Forest Park Proposed For City's 'Triangle' - News and information for Fairhope and Baldwin County, Alabama.
 
-Source: [thefairhopetimes.blogspot.com/2019/12/pine-forest-park-propsed-for-dyas.html'](https://thefairhopetimes.blogspot.com/2019/12/pine-forest-park-propsed-for-dyas.html')
+Source: ['thefairhopetimes.blogspot.com/2019/12/pine-forest-park-propsed-for-dyas.html'](https://thefairhopetimes.blogspot.com/2019/12/pine-forest-park-propsed-for-dyas.html)
 
 </div>
 
