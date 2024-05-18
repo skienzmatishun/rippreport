@@ -1,6 +1,7 @@
 ---
 title: "QUARTERBACK SNEAK"
 date: 2021-01-11
+thumbnail: "img/quarterback-sneak.jpg"
 categories: 
   - monday-madness
 tags: 

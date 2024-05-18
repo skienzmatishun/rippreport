@@ -1,6 +1,7 @@
 ---
 title: "History repeating itself"
 date: 2020-07-15
+thumbnail: "img/history-repeating-itself.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

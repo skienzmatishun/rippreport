@@ -1,6 +1,7 @@
 ---
-title: "THE BIG LIE ?"
+title: "THE BIG LIE"
 date: 2021-01-15
+thumbnail: "img/the-big-lie.png"
 categories: 
   - freaky-friday
 tags: 

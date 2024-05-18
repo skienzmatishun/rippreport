@@ -1,6 +1,7 @@
 ---
 title: "INSANITY"
 date: 2018-10-10
+thumbnail: "img/insanity.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

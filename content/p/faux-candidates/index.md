@@ -1,6 +1,7 @@
 ---
 title: "FAUX CANDIDATES"
 date: 2020-06-12
+thumbnail: "img/faux-candidates.png"
 categories: 
   - freaky-friday
 tags: 

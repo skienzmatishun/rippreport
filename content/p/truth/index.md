@@ -1,5 +1,6 @@
 ---
 title: "TRUTH"
+thumbnail: "img/truth.jpg"
 date: 2020-07-20
 categories: 
   - post-of-the-week

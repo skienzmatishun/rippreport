@@ -1,5 +1,6 @@
 ---
 title: "CATALYST PARTY"
+thumbnail: "img/catalyst-party.png"
 date: 2020-04-16
 categories: 
   - thursday-thunder

@@ -1,6 +1,7 @@
 ---
 title: "CATALYST ASS WHOOPIN"
 date: 2020-07-17
+thumbnail: "img/catalyst-ass-whoopin.png"
 categories: 
   - freaky-friday
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: "SLAP IN THE FACE"
 date: 2020-10-17
-thumbnail: "/img/slap.jpg"
+thumbnail: "/img/slap-in-the-face.png"
 categories: 
   - freaky-friday
 tags: 

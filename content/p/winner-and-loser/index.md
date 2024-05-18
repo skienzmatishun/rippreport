@@ -1,6 +1,7 @@
 ---
 title: "WINNER AND LOSER"
 date: 2021-01-12
+thumbnail: "img/winner-and-loser.jpg"
 categories: 
   - terrific-tuesday
 tags: 

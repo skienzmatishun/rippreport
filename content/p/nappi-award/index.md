@@ -1,6 +1,7 @@
 ---
 title: "NAPPI AWARD"
 date: 2020-08-06
+thumbnail: "img/nappi-award.jpg"
 categories: 
   - Special-Report
 tags: 

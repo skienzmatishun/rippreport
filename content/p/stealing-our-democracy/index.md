@@ -1,6 +1,7 @@
 ---
 title: "STEALING OUR DEMOCRACY"
 date: 2020-06-17
+thumbnail: "img/stealing-our-democracy.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

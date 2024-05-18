@@ -1,6 +1,7 @@
 ---
 title: "NON-LETHAL"
 date: 2021-02-13
+thumbnail: "img/non-lethal.jpg"
 categories: 
   - saturday-special
 tags: 
