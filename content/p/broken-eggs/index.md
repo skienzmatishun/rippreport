@@ -70,6 +70,7 @@ Here are some observations by citizens paying attention:
 
 > Soccer Fields; my son plays in Fairhope youth soccer. The new $6 million fields aren’t level. It is sad because the council said it would be “world class.” The kids are embarrassed by their “new” fields that aren’t even level!!!!!!!!!!!!!
 <div class="link-preview">
+
 ## New soccer complex construction underway in Fairhope
 
 The City of Fairhope is building a new soccer complex. 40 ACRES, NINE FIELDS. Construction began earlier this year on a 40 acre soccer complex at Manley Road and County Road 13.
