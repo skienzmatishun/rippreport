@@ -59,7 +59,7 @@ Let’s hope that Mr. Zunk is not carrying Burrell’s water, he was on the Fair
 Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel.
 
 Source: [thefairhopetimes.blogspot.com/2010/04/fairhope-financial-chairman-warns-city.html](http://thefairhopetimes.blogspot.com/2010/04/fairhope-financial-chairman-warns-city.html)
-
+</div>
 The council is now going to pass it’s responsibility of overseeing the budget to a select group they appoint. Wake up Fairhope. We elected the council for the job, the finance committee should review the council suggestions to the budget first, then offer it’s opinion. It should not be used as a vehicle by council to further obstruct the city operations and delay the city budget.
 
 Here are some observations by citizens paying attention:
@@ -69,18 +69,21 @@ Here are some observations by citizens paying attention:
 > Brown is a builder and he wants impact fees as low as they can be because the higher the fees the harder it is to afford to build. You did note that there is a cap on fees which means the more expensive houses pay a lower % impact fee. I was surprised Burrell voted that way. I realize many of the council votes are routine and uncontroversial but I find it amazing that Burrell and Boone have voted the same on every single issue. There has also not been a single issue where they voted on the losing side. Sometimes it’s 3-2 or 4-1 but they have been in the majority.
 
 > Soccer Fields; my son plays in Fairhope youth soccer. The new $6 million fields aren’t level. It is sad because the council said it would be “world class.” The kids are embarrassed by their “new” fields that aren’t even level!!!!!!!!!!!!!
-
+</div>
+<div class="link-preview">
 ## New soccer complex construction underway in Fairhope
 
 The City of Fairhope is building a new soccer complex. 40 ACRES, NINE FIELDS. Construction began earlier this year on a 40 acre soccer complex at Manley Road and County Road 13.
 
 Source:[http://www.fox10tv.com/story/30508841/update-new-soccer-complex-in-fairhope](http://www.fox10tv.com/story/30508841/update-new-soccer-complex-in-fairhope)
 
- 
+</div> 
 
 The fields not being level has come up many times and mostly by the kids playing on the fields. What started at an estimated 3.5 million is now approaching 6 million, for a sub standard facility that more resembles practice fields not tournaments fields.
 
 Jack Burrell was council president when the triangle lawsuit, sewer plant, gift of wetlands to the city, soccer fields, golf course, library and city buildings in need of renovation, and all the mess at the Airport occurred, so was his trusted amigo Boone.
+
+<div class="link-preview">
 
 ## YOU DON’T KNOW JACK
 
