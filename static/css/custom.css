@@ -48,6 +48,16 @@ text-align:center;
   padding: 1rem;
 }
 
+.link-preview h2 {
+    text-align:center;
+
+}
+
+.link-preview p {
+    text-align:left;
+    padding:1rem;
+}
+
 .backstory__header {
     background: #5083df !important;
 }
