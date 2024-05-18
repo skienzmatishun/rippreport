@@ -47,6 +47,9 @@ text-align:center;
   background: #dfdfdf;
   padding: 1rem;
 }
+.link-preview img {
+    text-align:center;
+}
 
 .link-preview h2 {
     text-align:center;
