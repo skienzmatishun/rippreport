@@ -1,6 +1,7 @@
 ---
 title: "4-20"
 date: 2020-04-20
+thumbnail: "img/4-20.jpg"
 categories: 
   - monday-madness
 tags: 

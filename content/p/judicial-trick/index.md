@@ -1,5 +1,6 @@
 ---
 title: "JUDICIAL TRICK"
+thumbnail: "img/judicial-trick.png"
 date: 2020-04-18
 categories: 
   - stormy-saturday
