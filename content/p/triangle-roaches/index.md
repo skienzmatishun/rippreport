@@ -22,8 +22,6 @@ Fairhope you better turn on the light because these roaches are going to eat you
 
 ## The Fairhope Times
 
-### The Fairhope Times
-
 ![](https://1.bp.blogspot.com/-atGEoMP70CY/XeYmsaxGprI/AAAAAAAASw4/5uTdC6XjWJkr4dNamcwEPmGiKp3CvKrYwCLcBGAsYHQ/s400/IMG_4284.JPG)
 
 Pine Forest Park Proposed For City's 'Triangle' - News and information for Fairhope and Baldwin County, Alabama.
