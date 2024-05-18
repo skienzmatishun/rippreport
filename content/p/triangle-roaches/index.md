@@ -44,6 +44,7 @@ The piece of property across the street, the other part of the land is in much b
 However, two issues are traffic and parking. Right now, the City of Fairhope, Al. Dot and the County are trying to control traffic at Parker Road and 98.
 
 This is one block from the triangle and it has become a very serious problem. The City Council has approved 230 apartments and over 100 condos/townhouses, behind publix. Parker Road and 98 will be a far worse traffic nightmare in the next 6 months. Thank Can’t and the Council.
+<div class="link-preview">
 
 ## FAIRHOPE UN-ARMED ROBBERY
 
