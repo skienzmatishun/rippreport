@@ -1,6 +1,7 @@
 ---
 title: "HOWELL GIBBENS"
 date: 2020-08-10
+thumbnail: "img/howell-gibbens.png"
 categories: 
   - monday-madness
 tags: 

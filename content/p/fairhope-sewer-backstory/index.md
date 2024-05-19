@@ -1,5 +1,6 @@
 ---
 title: "FAIRHOPE SEWER BACKSTORY"
+thumbnail: "img/fairhope-sewer-backstory.jpg"
 date: 2019-08-07
 categories: 
   - wonderful-wednesday

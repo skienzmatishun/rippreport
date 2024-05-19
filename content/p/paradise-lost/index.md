@@ -1,13 +1,14 @@
 ---
 title: "PARADISE LOST"
 date: 2018-06-07
+thumbnail: "img/paradise-lost.png"
 categories: 
   - thursday-thunder
 authors: 
   - ripp-report
 ---
 
-Submitted by: <a href="https://www.etsy.com/market/trump\_sex\_toy">Chris Warner</a>
+Submitted by: <a href="#">Chris Warner</a>
 
 Dear Editor: The citizens of Myrtle Beach, South Carolina and Destin, Florida were bushwhacked. They never saw it coming. Or did they?
 

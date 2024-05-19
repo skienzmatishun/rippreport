@@ -1,6 +1,7 @@
 ---
 title: "GOLD STAR"
 date: 2019-03-04
+thumbnail: "img/gold-star.png"
 categories: 
   - freaky-friday
 tags: 

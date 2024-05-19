@@ -1,6 +1,7 @@
 ---
 title: "SECRET SOCIETY"
 date: 2021-01-27
+thumbnail: "img/secret-society.png"
 categories: 
   - wonderful-wednesday
 tags: 

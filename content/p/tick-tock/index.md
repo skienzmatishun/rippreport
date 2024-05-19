@@ -1,6 +1,7 @@
 ---
 title: "TICK-TOCK"
 date: 2019-01-23
+thumbnail: "img/tick-tock.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

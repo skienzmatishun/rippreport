@@ -1,6 +1,7 @@
 ---
 title: "GOAT HILL PIGGY-BANK"
 date: 2019-03-13
+thumbnail: "img/goat-hill-piggy-bank.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

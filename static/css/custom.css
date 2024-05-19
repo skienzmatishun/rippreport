@@ -44,7 +44,8 @@ text-align:center;
 }
 .link-preview {
     text-align: center;
-  background: #dfdfdf;
+  background: white;
+  box-shadow:#00000040 1px 1px 10px;
   padding: 1rem;
   margin-bottom:2rem;
   margin-top:2rem;

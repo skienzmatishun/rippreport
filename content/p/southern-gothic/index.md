@@ -1,6 +1,7 @@
 ---
 title: "SOUTHERN GOTHIC"
 date: 2021-04-02
+thumbnail: "img/southern-gothic.jpg"
 categories: 
   - freaky-friday
 tags: 

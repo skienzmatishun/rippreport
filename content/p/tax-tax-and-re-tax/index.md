@@ -1,6 +1,7 @@
 ---
 title: "TAX TAX AND RE-TAX"
 date: 2019-05-17
+thumbnail: "img/tax-tax-and-re-tax.jpg"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Laugh Out Loud Baldwin"
 date: 2019-03-22
+thumbnail: "img/laugh-out-loud-baldwin.png"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "RE-GIFT GIFT ??"
 date: 2017-05-05
+thumbnail: "img/re-gift-gift.png"
 categories: 
   - freaky-friday
 tags: 

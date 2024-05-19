@@ -1,6 +1,7 @@
 ---
 title: "DARK WEDNESDAY"
 date: 2020-05-27
+thumbnail: "img/dark-wednesday.png"
 categories: 
   - wonderful-wednesday
 tags: 

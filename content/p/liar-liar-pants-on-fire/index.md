@@ -1,6 +1,7 @@
 ---
 title: "LIAR LIAR PANTS ON FIRE"
 date: 2019-04-18
+thumbnail: "img/pants-on-fire.jpg"
 categories: 
   - freaky-friday
 tags: 

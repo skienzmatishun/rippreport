@@ -1,6 +1,7 @@
 ---
 title: "CONGRATULATIONS FAIRHOPE"
 date: 2019-01-04
+thumbnail: "img/congratulations-fairhope.jpg"
 categories: 
   - freaky-friday
 authors: 

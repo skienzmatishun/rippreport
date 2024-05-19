@@ -1,6 +1,7 @@
 ---
 title: "NO RADAR"
 date: 2021-04-09
+thumbnail: "img/no-radar.png"
 categories: 
   - freaky-friday
 tags: 

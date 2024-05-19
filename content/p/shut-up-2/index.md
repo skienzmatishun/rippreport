@@ -1,6 +1,7 @@
 ---
 title: "SHUT UP"
 date: 2019-03-29
+thumbnail: "img/shut-up-2.jpg"
 categories: 
   - freaky-friday
 tags: 

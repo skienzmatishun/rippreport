@@ -1,6 +1,7 @@
 ---
 title: "THE GOOD THE BAD AND THE UGLY"
 date: 2019-02-08
+thumbnail: "img/the-good-the-bad-the-ugly.png"
 categories: 
   - freaky-friday
 tags: 

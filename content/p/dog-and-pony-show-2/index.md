@@ -1,6 +1,7 @@
 ---
 title: "DOG AND PONY SHOW"
 date: 2019-05-10
+thumbnail: "img/dog-and-pony-show-follow-up.jpg"
 categories: 
   - follow-up
 tags: 

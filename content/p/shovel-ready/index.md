@@ -1,5 +1,6 @@
 ---
 title: "SHOVEL READY"
+thumbnail: "img/shovel-ready.png"
 date: 2019-01-16
 categories: 
   - wonderful-wednesday

@@ -1,6 +1,7 @@
 ---
 title: "SNAKES IN THE SCHOOLS"
 date: 2018-06-21
+thumbnail: "img/snakes-in-the-schools.jpg"
 categories: 
   - thursday-thunder
 authors: 

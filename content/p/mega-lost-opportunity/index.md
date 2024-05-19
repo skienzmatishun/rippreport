@@ -1,6 +1,7 @@
 ---
 title: "MEGA — LOST OPPORTUNITY"
 date: 2021-07-30
+thumbnail: "img/mega-lost-opportunity.jpg"
 categories: 
   - freaky-friday
 authors: 

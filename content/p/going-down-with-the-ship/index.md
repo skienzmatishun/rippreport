@@ -1,6 +1,7 @@
 ---
 title: "GOING DOWN WITH THE SHIP"
 date: 2016-09-30
+thumbnail: "img/going-down-with-the-ship.jpg"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "DIRTY UNDERWEAR"
 date: 2022-07-01
+thumbnail: "img/dirty-underwear.png"
 categories: 
   - freaky-friday
 authors: 

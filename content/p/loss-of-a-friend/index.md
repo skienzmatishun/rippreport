@@ -1,6 +1,7 @@
 ---
 title: "LOSS OF A FRIEND"
 date: 2019-06-07
+thumbnail: "loss-of-a-friend.png"
 categories: 
   - freaky-friday
 authors: 

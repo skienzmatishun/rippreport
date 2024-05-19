@@ -1,6 +1,7 @@
 ---
 title: "PEDALING BACKWARDS"
 date: 2019-02-22
+thumbnail: "img/pedaling-backwards.jpg"
 categories: 
   - freaky-friday
 tags: 

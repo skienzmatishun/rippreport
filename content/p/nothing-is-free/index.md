@@ -1,6 +1,7 @@
 ---
 title: "NOTHING IS FREE"
 date: 2019-02-13
+thumbnail: "img/nothing-is-free.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

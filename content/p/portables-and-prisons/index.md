@@ -1,6 +1,7 @@
 ---
 title: "PORTABLES AND PRISONS"
 date: 2019-05-08
+thumbnail: "img/portables-and-prisons.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

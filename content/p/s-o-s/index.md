@@ -1,6 +1,7 @@
 ---
 title: "S.O.S"
 date: 2021-05-07
+thumbnail: "img/sos.jpg"
 categories: 
   - freaky-friday
 tags: 

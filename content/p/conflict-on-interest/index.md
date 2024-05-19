@@ -1,6 +1,7 @@
 ---
 title: "CONFLICT OF INTEREST"
 date: 2019-11-09
+thumbnail: "img/conflict-of-interest.jpg"
 categories: 
   - freaky-friday
   - podcast

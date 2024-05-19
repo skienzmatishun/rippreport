@@ -1,6 +1,7 @@
 ---
 title: "LAST CHANCE"
 date: 2022-05-23
+thumbnail: "img/last-chance.png"
 categories: 
   - monday-madness
 authors: 

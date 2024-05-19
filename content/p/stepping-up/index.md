@@ -1,6 +1,7 @@
 ---
 title: "STEPPING UP"
 date: 2019-01-30
+thumbnail: "img/stepping-up.png"
 categories: 
   - wonderful-wednesday
 tags: 

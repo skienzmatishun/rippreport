@@ -1,6 +1,7 @@
 ---
 title: "DAPHNE DECISION"
 date: 2018-12-07
+thumbnail: "img/daphne-decision.jpg"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "THREE STRIKES"
 date: 2019-06-01
+thumbnail: "img/three-strikes.png"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "DEAD LAST"
 date: 2018-01-17
+thumbnail: "img/dead-last.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

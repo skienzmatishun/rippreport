@@ -8,6 +8,7 @@ authors:
   - admin
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgDzN6pDwgc" frameborder="0" allowfullscreen></iframe> 
 
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
 

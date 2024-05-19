@@ -1,6 +1,7 @@
 ---
 title: "HAPPY NEW YEAR"
 date: 2018-01-01
+thumbnail: "img/happy-new-year.jpg"
 authors: 
   - ripp-report
 ---

@@ -1,6 +1,7 @@
 ---
 title: "KNOCK ON DOORS"
 date: 2019-02-01
+thumbnail: "img/knock-on-doors.jpg"
 categories: 
   - freaky-friday
 tags: 

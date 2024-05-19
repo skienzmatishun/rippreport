@@ -1,6 +1,7 @@
 ---
 title: "JACK GETS AN F - AGAIN"
 date: 2019-02-15
+thumbnail: "img/jack-gets-an-f-again.jpg"
 categories: 
   - freaky-friday
 tags: 

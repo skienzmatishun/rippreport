@@ -1,5 +1,6 @@
 ---
 title: "RUSSIAN ROULETTE - FAIRHOPE STYLE"
+thumbnail: "img/russian-roulette-fairhope-style.png"
 date: 2018-12-06
 categories: 
   - wonderful-wednesday

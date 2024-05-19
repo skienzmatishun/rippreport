@@ -1,6 +1,7 @@
 ---
 title: "POLICE REPORT"
 date: 2018-05-23
+thumbnail: "img/police-report.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

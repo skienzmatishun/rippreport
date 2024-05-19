@@ -1,6 +1,7 @@
 ---
 title: "HOWLING RAINS PASSING GAS"
 date: 2020-11-21
+thumbnail: "img/howling-rains-passing-gas.png"
 categories: 
   - saturday-sunshine
 tags: 

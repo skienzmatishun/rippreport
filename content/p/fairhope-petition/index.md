@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE PETITION"
 date: 2019-06-26
+thumbnail: "img/fairhope-petition.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

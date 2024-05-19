@@ -1,6 +1,7 @@
 ---
 title: "MEGA-MISTAKE"
 date: 2019-07-20
+thumbnail: "img/mega-mistake.jpg"
 categories: 
   - freaky-friday
 authors: 

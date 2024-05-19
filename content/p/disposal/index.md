@@ -1,6 +1,7 @@
 ---
 title: "DISPOSAL"
 date: 2019-06-12
+thumbnail: "img/disposal.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

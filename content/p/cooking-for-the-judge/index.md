@@ -1,6 +1,7 @@
 ---
 title: "COOKING FOR THE JUDGE"
 date: 2018-05-14
+thumbnail: "img/cooking-for-the-judge.jpg"
 categories: 
   - monday-madness
 tags: 

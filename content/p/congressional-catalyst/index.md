@@ -1,6 +1,7 @@
 ---
 title: "CONGRESSIONAL CATALYST"
 date: 2020-01-22
+thumbnail: "img/congressional-catalyst.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

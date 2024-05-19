@@ -1,6 +1,7 @@
 ---
 title: "LEGO ROCKET SCIENTIST"
 date: 2022-01-13
+thumbnail: "img/lego-rocket-scientist.jpg"
 categories: 
   - thursday-thunder
 authors: 

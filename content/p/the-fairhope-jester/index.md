@@ -1,6 +1,7 @@
 ---
 title: "THE FAIRHOPE JESTER"
 date: 2020-04-08
+thumbnail: "img/the-fairhope-jester.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "RUN AWAY TRAIN"
 date: 2018-12-20
+thumbnail: "img/run-away-train.jpg"
 categories: 
   - thursday-thunder
 authors: 

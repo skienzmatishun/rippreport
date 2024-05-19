@@ -1,6 +1,7 @@
 ---
 title: "FINGERPRINT"
 date: 2019-08-29
+thumbnail: "img/fingerprint.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

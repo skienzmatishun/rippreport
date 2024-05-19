@@ -1,6 +1,7 @@
 ---
 title: "LEGAL CORRUPTION"
 date: 2019-04-12
+thumbnail: "img/legal-corruption.jpg"
 categories: 
   - freaky-friday
 tags: 

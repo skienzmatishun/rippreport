@@ -1,6 +1,7 @@
 ---
 title: "CSB / RAILROAD- NOMINATION"
 date: 2021-03-12
+thumbnail: "img/csb-railroad-nomination.png"
 categories: 
   - freaky-friday
 tags: 

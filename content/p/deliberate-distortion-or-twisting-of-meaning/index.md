@@ -1,6 +1,7 @@
 ---
 title: "DELIBERATE DISTORTION OR TWISTING OF MEANING"
 date: 2019-06-14
+thumbnail: "img/deliberate-distortion-or-twisting-of-meaning.png"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "MEMORIAL DAY"
 date: 2018-05-28
+thumbnail: "img/memorial-day.jpg"
 categories: 
   - monday-madness
 authors: 
