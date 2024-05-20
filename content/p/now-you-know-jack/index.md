@@ -1,6 +1,7 @@
 ---
 title: "NOW! YOU KNOW JACK"
 date: 2017-08-30
+thumbnail: "img/now-you-know-jack.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

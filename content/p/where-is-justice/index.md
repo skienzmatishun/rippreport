@@ -1,6 +1,7 @@
 ---
 title: "WHERE IS JUSTICE?"
 date: 2020-04-25
+thumbnail: "img/where-is-the-justice.png"
 categories: 
   - saturday-special
 tags: 

@@ -23,10 +23,12 @@ sewer systems of Fairhope, Daphne and Spanish Fort. It is hard to believe in 201
 (Mobile, Ala.) - Mobile Baykeeper has been awarded a federal grant in the amount of $87,294 from the National Oceanic Atmospheric Administration (NOAA) to expand its Strategic Watershed Awareness and Monitoring Program (SWAMP) into Baldwin County at Fairhope High School.
 
 Source: [http://www.mobilebaykeeper.org/bay-blog/2017/9/25/mobile-baykeeper-awarded-87000-to-expand-watershed-program-into-fairhope](http://www.mobilebaykeeper.org/bay-blog/2017/9/25/mobile-baykeeper-awarded-87000-to-expand-watershed-program-into-fairhope)
+</div>
 
 Fairhope City Council, during the last meeting Oct 9th, heard a presentation from Baykeepers involving the testing of water in 12 locations, once a week for 12 weeks. Fly Creek Watershed is one of those locations. They will probably be restricted to certain locations in the Fly Creek Watershed as land owner Arthur Corte has refused testing anywhere on his property. Lets hope they go up Fly Creek behind the Woodlands on the opposite side as Publix. They will find the creek eroding the banks and trees littered in the creek, impeding flow. They should also check out the outfall pipe from Publix that dumps directly into the wetlands.
 
 Fly Creek has gotten little attention from authorities in the past.
+<div class="link-preview">
 
 ## CAN YOU SMELL IT?
 
@@ -52,11 +54,12 @@ The City of Fairhope, the EPA, Jim Graves, Dept of Health, Myron Riley, ADEM Lan
 And ask them to please test this area as well as conducting a visual inspection of the watershed by Firefly.
 
 What a small world it is! Firefly was another Arthur Corte project with none other than Councilman Kevin Boone having an LLC related to the same project, He has dissolved the LLC since it has been exposed.
+<div class="link-preview">
 
 ## CONFLICT OF INTEREST![](https://cdn.rippreport.com/wp-content/uploads/2017/10/balance.jpg)
 
 Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
 
 Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
-
+</div>
 Please remind Baykeepers that many people live along Fly Creek and that the proposed apartments to be built on the banks of the creek will only add to the already existing problems with sewage, water quality and quality of life. Baykeepers has remained mute on Fly Creek and its watershed, let’s hope maybe they are waking up.

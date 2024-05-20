@@ -1,6 +1,7 @@
 ---
 title: "SEMPER FI / VETERANS DAY"
 date: 2020-11-11
+thumbnail: "img/semper-fi-veterans-day.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

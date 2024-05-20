@@ -1,6 +1,7 @@
 ---
 title: "Water"
 date: 2022-07-10
+thumbnail: "img/water.jpg"
 categories: 
   - backstory-podcast
 authors: 

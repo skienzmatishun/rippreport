@@ -1,6 +1,7 @@
 ---
 title: "“TAKE A CHANCE”"
 date: 2020-11-18
+thumbnail: "img/take-a-chance.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

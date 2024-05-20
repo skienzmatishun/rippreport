@@ -1,6 +1,7 @@
 ---
 title: "WIN FOR BALDWIN"
 date: 2022-06-22
+thumbnail: "img/win-for-baldwin.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
