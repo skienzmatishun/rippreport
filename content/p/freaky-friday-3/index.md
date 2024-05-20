@@ -1,6 +1,7 @@
 ---
 title: "YOU'RE FIRED"
 date: 2016-07-29
+thumbnail: "img/you-re-fired.jpg"
 categories: 
   - freaky-friday
 tags: 

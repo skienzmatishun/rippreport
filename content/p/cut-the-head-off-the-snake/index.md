@@ -1,6 +1,7 @@
 ---
 title: "CUT THE HEAD OFF THE SNAKE"
 date: 2016-08-19
+thumbnail: "img/cut-the-head-off-the-snake.gif"
 categories: 
   - freaky-friday
 tags: 
