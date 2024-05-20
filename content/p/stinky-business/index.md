@@ -1,5 +1,6 @@
 ---
 title: "STINKY BUSINESS"
+thumbnail: "img/stinky-business.jpg"
 date: 2022-05-19
 categories: 
   - thursday-thunder

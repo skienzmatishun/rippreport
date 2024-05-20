@@ -1,6 +1,7 @@
 ---
 title: "CATALYST TRAIN WRECK"
 date: 2020-05-29
+thumbnail: "img/catalyst-train-wreck.png"
 categories: 
   - freaky-friday
 tags: 

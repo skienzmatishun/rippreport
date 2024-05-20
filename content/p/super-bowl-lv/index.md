@@ -1,6 +1,7 @@
 ---
 title: "Super Bowl LV"
 date: 2021-02-05
+thumbnail: "img/super-bowl-lv.png"
 categories: 
   - freaky-friday
 tags: 

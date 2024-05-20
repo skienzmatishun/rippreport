@@ -1,6 +1,7 @@
 ---
 title: "CATALYST VIRUS"
 date: 2020-03-02
+thumbnail: "img/catalyst-virus.jpg"
 categories: 
   - monday-madness
 authors: 

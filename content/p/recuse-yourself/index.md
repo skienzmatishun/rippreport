@@ -1,6 +1,7 @@
 ---
 title: "RECUSE YOURSELF"
 date: 2017-04-19
+thumbnail: "img/recuse-yourself.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

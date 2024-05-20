@@ -1,6 +1,7 @@
 ---
 title: "PUBLIC ACCESS"
 date: 2018-05-11
+thumbnail: "img/public-access.png"
 categories: 
   - freaky-friday
 tags: 

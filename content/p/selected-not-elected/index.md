@@ -1,6 +1,7 @@
 ---
 title: "SELECTED NOT ELECTED"
 date: 2021-03-07
+thumbnail: "img/selected-not-elected.png"
 categories: 
   - sunday-sermon
 tags: 

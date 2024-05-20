@@ -1,6 +1,7 @@
 ---
 title: "MORATORIUM PARTY"
 date: 2021-12-20
+thumbnail: "img/moratorium-party.png"
 categories: 
   - monday-madness
 authors: 

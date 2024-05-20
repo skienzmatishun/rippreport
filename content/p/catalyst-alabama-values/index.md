@@ -1,6 +1,7 @@
 ---
 title: "CATALYST - ALABAMA VALUES"
 date: 2018-05-18
+thumbnail: "img/catalyst-alabama-values.jpg"
 categories: 
   - freaky-friday
 tags: 

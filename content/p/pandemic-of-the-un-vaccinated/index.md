@@ -1,6 +1,7 @@
 ---
 title: "PANDEMIC OF THE UN-VACCINATED"
 date: 2021-08-13
+thumbnail: "img/pandemic-of-the-unvaccinated.png"
 categories: 
   - freaky-friday
 authors: 
