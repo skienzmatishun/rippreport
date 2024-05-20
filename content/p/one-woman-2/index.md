@@ -1,7 +1,7 @@
 ---
 title: "ONE WOMAN"
 date: 2019-05-01
-thumbnail: "img/one-woman-2.png"
+thumbnail: "img/one-woman.png"
 categories: 
   - wonderful-wednesday
 tags: 

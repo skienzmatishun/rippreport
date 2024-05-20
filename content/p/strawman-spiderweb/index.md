@@ -1,7 +1,7 @@
 ---
 title: "STRAWMAN SPIDERWEB"
 date: 2020-06-07
-thumbnail: "img/strawman-spiderweb.jpg"
+thumbnail: "img/strawman-spiderweb.png"
 categories: 
   - stormy-saturday
 tags: 

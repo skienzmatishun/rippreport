@@ -1,7 +1,7 @@
 ---
 title: "ONE WOMAN"
 date: 2019-04-19
-thumbnail: "img/one-woman-2.png"
+thumbnail: "img/one-woman.png"
 categories: 
   - freaky-friday
 tags: 
