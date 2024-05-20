@@ -1,6 +1,7 @@
 ---
 title: "FAUX TAX, GAS TAX"
 date: 2019-03-06
+thumbnail: "img/faux-tax-gas-tax.png"
 categories: 
   - wonderful-wednesday
 tags: 

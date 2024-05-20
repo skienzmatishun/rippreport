@@ -1,6 +1,7 @@
 ---
 title: "IN THE DARK"
 date: 2018-12-22
+thumbnail: "img/in-the-dark.jpg"
 categories: 
   - freaky-friday
 authors: 

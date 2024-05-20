@@ -1,6 +1,7 @@
 ---
 title: "BOILING FROG"
 date: 2019-01-18
+thumbnail: "img/boiling-frog.jpg"
 categories: 
   - freaky-friday
 authors: 

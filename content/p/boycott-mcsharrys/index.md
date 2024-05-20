@@ -1,6 +1,7 @@
 ---
 title: "BOYCOTT McSHARRY’S"
 date: 2021-03-20
+thumbnail: "img/boycott-mcsharrys.png"
 categories: 
   - saturday-special
 tags: 

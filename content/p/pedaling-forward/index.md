@@ -1,7 +1,7 @@
 ---
 title: "PEDALING FORWARD"
 date: 2019-02-27
-thumbnail: "img/pedaling-forward.jpg"
+thumbnail: "img/pedaling-forwards.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

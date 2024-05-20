@@ -1,6 +1,7 @@
 ---
 title: "BOYCOTT McSHARRY"
 date: 2022-08-05
+thumbnail: "img/boycott-mcsharrys.png"
 categories: 
   - freaky-friday
 authors: 

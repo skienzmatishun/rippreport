@@ -1,7 +1,7 @@
 ---
 title: "STATE OF THE CITY - 2019"
 date: 2019-01-26
-thumbnail: "img/state-of-the-city.jpg"
+thumbnail: "img/state-of-the-city-2019.jpg"
 categories: 
   - freaky-friday
 tags: 

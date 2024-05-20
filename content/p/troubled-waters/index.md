@@ -1,6 +1,7 @@
 ---
 title: "Troubled Waters"
 date: 2021-12-13
+thumbnail: "img/troubled-waters.jpg"
 categories: 
   - backstory-podcast
 authors: 

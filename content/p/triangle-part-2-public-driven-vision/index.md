@@ -1,6 +1,7 @@
 ---
 title: "TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”"
 date: 2018-04-06
+thumbnail: "img/triangle-part-2-public-driven-vision.png"
 categories: 
   - freaky-friday
 tags: 

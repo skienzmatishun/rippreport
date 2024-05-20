@@ -1,6 +1,7 @@
 ---
 title: "CAPTAIN JACK"
 date: 2019-01-11
+thumbnail: "img/captain-jack.jpg"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "CATALYST TOP DOGS"
 date: 2018-05-04
+thumbnail: "img/catalyst-top-dogs.jpg"
 categories: 
   - freaky-friday
 tags: 

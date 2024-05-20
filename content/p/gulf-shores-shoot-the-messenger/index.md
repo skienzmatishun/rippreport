@@ -1,6 +1,7 @@
 ---
 title: "Gulf Shores - SHOOT THE MESSENGER"
 date: 2019-02-21
+thumbnail: "img/gulf-shores-shoot-the-messenger.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

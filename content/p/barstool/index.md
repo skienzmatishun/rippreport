@@ -1,6 +1,7 @@
 ---
 title: "BARSTOOL"
 date: 2018-11-30
+thumbnail: "img/barstool.jpg"
 categories: 
   - freaky-friday
 authors: 
