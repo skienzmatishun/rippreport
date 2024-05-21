@@ -30,7 +30,7 @@ Burrell flipped his vote in the end, due to public outrage.
 
 Brown has doubled down, invoking God and abortion, not germane to the virus or “shelter in place”.
 
-#<div class="link-preview">
+<div class="link-preview">
 
 ## Robert Brown For Our Hometown
 
@@ -49,6 +49,9 @@ Stay safe and keep your distance
 So while the WORLD is suffering and many lives are lost every day the Jester is more concerned about money and defying science and common sense.
 
 Brown is the April Fool.
+</div>
+
+<div class="link-preview">
 
 ## APRIL FOOL
 

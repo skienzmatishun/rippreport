@@ -30,9 +30,11 @@ City of Fairhope – Fairhope’s Coastal Environmental Education Network ($49,0
 
 Source: [lagniappemobile.com/cover-story-funding-race-competing-restore-act-projects/](http://lagniappemobile.com/cover-story-funding-race-competing-restore-act-projects/)
 
- 
+ </div>
 
 This is what the end result was for Fairhope.
+
+<div class="link-preview">
 
 ## $315 million worth of projects greenlighted by RESTORE Act Council - Lagniappe Mobile
 
@@ -42,7 +44,11 @@ Fairhope • Fairhope Area Community-Based Comprehensive Land Use Plan, $650,000
 
 Source: [lagniappemobile.com/315-million-worth-of-projects-greenlighted-by-restore-act-council/](http://lagniappemobile.com/315-million-worth-of-projects-greenlighted-by-restore-act-council/)
 
+</div>
+
 From the desk of Mayor Karin Wilson, she explains how a comprehensive Land use Plan has been approved and funded. The key words are “Public-Driven vision.” Vision & Planning: $650,000 Fairhope Area Community-based Comprehensive Land Use Plan
+
+<div class="link-preview">
 
 ## Vision & Planning: $650,000 Fairhope Area Community-based Comprehensive Land Use Plan
 
@@ -55,6 +61,7 @@ The City of Fairhope will begin the Fairhope Area Community-based Comprehensive 
 We will forecast population growth, project demand on utilities and transportation coupled with urban design that includes form-based codes in key areas to fulfill the development vision of Fairhope for the next 20 years.
 
 Watershed modelling and analysis of environmentally sensitive areas will be factored in to ensure that areas targeted for growth are suitable. Land use development will coordinate with infrastructure demands to ensure that utilities and transportation are carefully planned so the City’s investment in these assets are prudent and wise. The outcome will provide the City of Fairhope a full and comprehensive blue print for growth and our future.
+
 
 That sounds like a lot – it is. And it is important.
 
