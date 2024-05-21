@@ -30,7 +30,12 @@ Records maintained by the Alabama Secretary of State’s office show that betwee
 
 Source: [https://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/](https://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/)
 
+</div>
+
 Pay attention to that Summerdale address and you will see a Catalyst connection to many a good ole boy.
+
+<div class="link-preview">
+
 
 ## A SPIDER’S WEB
 
@@ -43,6 +48,7 @@ The good ole boy network in Baldwin County is connected by LLC’s. One LLC may 
 Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spiders-web/)
 
 </div>
+
 Summerdale 13040 Underwood Rd. has more LLC’s than fleas on a dog.
 
 <div class="link-preview">
@@ -68,11 +74,14 @@ Tucker Dorsey uses the LLC’s to hide his many business interests and you can b
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/05/26691761.png)
 
+
+
 View company leaders and background information for Baldwin Container Co, LLC. Search our database of over 100 million company and executive profiles.
 
 Source: [www.corporationwiki.com/Alabama/Robertsdale/baldwin-container-co-llc/26691761.aspx](http://www.corporationwiki.com/Alabama/Robertsdale/baldwin-container-co-llc/26691761.aspx)
 
 </div>
+
 Guess what the address is ?
 
 <div class="link-preview">
@@ -92,6 +101,8 @@ Chris Elliott is not State Senate material. He wants our vote, for what? The Meg
 
 Does this sound like a State Senator?
 
+<div class="link-preview">
+
 ## Video cameras were off the night Chris Elliott was arrested for DUI - Lagniappe Mobile
 
 ### Video cameras were off the night Chris Elliott was arrested for DUI - Lagniappe Mobile
@@ -99,6 +110,11 @@ Does this sound like a State Senator?
 Despite the involvement of three police officers with multiple cameras in the arrest of Baldwin County Commission Chairman Chris Elliott for driving under the influence, no police video of the event exists, according to Fairhope Police Chief Joe Petties. “The problem is they’re not always on, but you can turn them on when something like …
 
 Source: [lagniappemobile.com/video-cameras-off-night-chris-elliott-arrested-dui/](http://lagniappemobile.com/video-cameras-off-night-chris-elliott-arrested-dui/)
+
+</div>
+
+<div class="link-preview">
+
 
 ## Who’s Chris Elliott trying to fool? - Lagniappe Mobile
 
@@ -108,7 +124,12 @@ In terms of sheer political theater, watching Baldwin County Commissioner Chris 
 
 Source: [lagniappemobile.com/whos-chris-elliott-trying-fool/](http://lagniappemobile.com/whos-chris-elliott-trying-fool/)
 
+</div>
+
 If I have not convinced you yet that these two political, self serving, Catalyst loving dogs need to go, then read this article about the both of them. Two Commissioners who depend on donations for their re-election. That is the backstory for this article. A couple of people that live on the Bay do not want the public to have access to the Bay. So just give a little money to the right commissioners and they will bar the Public from the Bay. Elliott and Dorsey did not count on the Chainsaw.
+
+<div class="link-preview">
+
 
 ## Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
 
@@ -117,5 +138,7 @@ If I have not convinced you yet that these two political, self serving, Catalyst
 Last week a man walked into Baldwin County Commission Chairman Chris Elliott’s office and dumped debris from a piece of county property he had chainsawed down earlier that day. It was a rather dramatic escalation in a long battle over waterfront access in Point Clear, but Michael Hutchison said he’s tired of history repeating itself …
 
 Source: [lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/](lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/)
+
+</div>
 
 You do not need a chain saw! You need to vote out these Catalyst dogs. June 5 2018
