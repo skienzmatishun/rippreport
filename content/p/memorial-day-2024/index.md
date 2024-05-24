@@ -1,6 +1,6 @@
 ---
 title: "MEMORIAL DAY"
-date: 2024-05-27
+date: 2024-05-24
 thumbnail: "img/memorial-day-2024.jpg"
 categories: 
   - holiday
