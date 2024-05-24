@@ -8,4 +8,5 @@ authors:
   - admin
 ---
 
-On this Memorial Day, we honor and remember those who made the ultimate sacrifice in service to our nation. Their bravery and dedication will never be forgotten. Take a moment today to reflect on the profound impact of their sacrifice and express gratitude for the freedoms we enjoy.
+Memorial day is a day of remembrance of those who have died in service to our country. It is also the day that survived, ask why them and not me?
+
