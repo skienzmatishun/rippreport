@@ -15,4 +15,9 @@ This is just another chapter of a Sheriff's Department that has been run by one 
 
 Much Much More coming on these subjects!
 
+<style>.cactus-comment:has(.cactus-comment-time[title="2024-06-08T23:06:27+00:00"]) {opacity: 0.12;order: 15;}
+.cactus-comment:has(.cactus-comment-time[title="2024-06-08T23:06:12+00:00"]) {opacity: 0.12;order: 15;}
+.cactus-comment:has(.cactus-comment-time[title="2024-06-08T23:06:15+00:00"]) {opacity: 0.12;order: 15;}
+
+</style>
 {{< chat hpbtpp >}}
