@@ -16,9 +16,9 @@ This is just another chapter of a Sheriff's Department that has been run by one 
 Much Much More coming on these subjects!
 
 <style>
-.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:15 2024 UTC"]) {opacity: 0.12;order: 15;}
-.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:12 2024 UTC"]) {opacity: 0.12;order: 15;}
-.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:27 2024 UTC"]) {opacity: 0.12;order: 15;}
+.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:15 2024 UTC"]) {opacity: 0;order: 45;}
+.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:12 2024 UTC"]) {opacity: 0;order: 45;}
+.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:27 2024 UTC"]) {opacity: 0;order: 45;}
 
 </style>
 {{< chat hpbtpp >}}
