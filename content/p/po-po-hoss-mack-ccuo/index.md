@@ -35,33 +35,33 @@ A comment:
 
 >The truth talker 6 days ago
 >
-It may not be a “real news” site, but the statements made are 110% truth. This is fact.
+>It may not be a “real news” site, but the statements made are 110% truth. This is fact.
 >
-Anthony Lowry is a cheater, who cheated on his wife with a reporter. He has an agenda, and if you as a person do not agree with it, then you are labeled a trouble maker as long as you are not in the inside circle of his social or civic group.
+>Anthony Lowry is a cheater, who cheated on his wife with a reporter. He has an agenda, and if you as a person do not agree with it, then you are labeled a trouble maker as long as you are not in the inside circle of his social or civic group.
 >
-Andre Reid is an Insider in the inside group. He has had 3 affairs and then mishandled disciplinary or evidence. He has a mindset of advancing social causes that are ultimately baseless. Nothing happened to him, because he went to them an spilled the beans before it could get in the public.
+>Andre Reid is an Insider in the inside group. He has had 3 affairs and then mishandled disciplinary or evidence. He has a mindset of advancing social causes that are ultimately baseless. Nothing happened to him, because he went to them an spilled the beans before it could get in the public.
 >
-Hoss went along with whatever the recommended action was, based off a biased and skewed investigation(s).
+>Hoss went along with whatever the recommended action was, based off a biased and skewed investigation(s).
 >
-This is not the first time things have come to light. They just try to mitigate the publicity and actions resulting from fallout.
+>This is not the first time things have come to light. They just try to mitigate the publicity and actions resulting from fallout.
 >
-Other administrators are along for the ride, because of the inside influence. If the offending party, is an insider, then all heck breaks loose. If they are not, then they chop the tree down.
+>Other administrators are along for the ride, because of the inside influence. If the offending party, is an insider, then all heck breaks loose. If they are not, then they chop the tree down.
 >
-There have been documented examples of improper behavior and no one ever gets in real trouble as long as they flash the insider or good ole boy card.
+>There have been documented examples of improper behavior and no one ever gets in real trouble as long as they flash the insider or good ole boy card.
 >
-A punishment for one is not the same for a punishment of another there. Where else can you go, be arrested for a felony, and still have your job? While others are banished to the wild?
+>A punishment for one is not the same for a punishment of another there. Where else can you go, be arrested for a felony, and still have your job? While others are banished to the wild?
 >
-Andre caused division when he was caught fucking another deputies wife, who also works for them. He caused tension and a hostile work environment, but all he is getting is moved??
+>Andre caused division when he was caught fucking another deputies wife, who also works for them. He caused tension and a hostile work environment, but all he is getting is moved??
 >
-Then there is the secretary to the Boss who was caught with another deputy who was married. She may still be there, but nothing happened to her. I don’t know about him. This caused a stink.
+>Then there is the secretary to the Boss who was caught with another deputy who was married. She may still be there, but nothing happened to her. I don’t know about him. This caused a stink.
 >
-A deputy was caught on camera expressing his “controversial views”, and nothing happened to him.
+>A deputy was caught on camera expressing his “controversial views”, and nothing happened to him.
 >
-An incident occurred at a family fun day, and it got swept under the rug by Lowry. Again the actors were part of the inside circle.
+>An incident occurred at a family fun day, and it got swept under the rug by Lowry. Again the actors were part of the inside circle.
 >
-Another deputy has been caught multiple times cheating with female deputies, and all that happened to him was demotion and then promotion again. Again an insider.
+>Another deputy has been caught multiple times cheating with female deputies, and all that happened to him was demotion and then promotion again. Again an insider.
 >
-The list can keep going. The point is that it’s not “real news”, but it has real and valid pointed truth.
+>The list can keep going. The point is that it’s not “real news”, but it has real and valid pointed truth.
 
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kuy6ucrbvk2s" data-bluesky-cid="bafyreihlf67ybq4ug4btlk23smvdgbdyomwxyijy6vk3vezqqydxgtss7q"><p lang="en">This article sounds like a press release not an in depth explanation of the problems at the BCSO.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kuy6ucrbvk2s?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kuy6ucrbvk2s?ref_src=embed">Jun 15, 2024 at 12:38 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
