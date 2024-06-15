@@ -35,9 +35,9 @@ A comment:
 
 >The truth talker 6 days ago
 >
->It may not be a “real news” site, but the statements made are 110% truth. This is fact.
+It may not be a “real news” site, but the statements made are 110% truth. This is fact.
 >
->Anthony Lowry is a cheater, who cheated on his wife with a reporter. He has an agenda, and if you as a person do not agree with it, then you are >labeled a trouble maker as long as you are not in the inside circle of his social or civic group.
+Anthony Lowry is a cheater, who cheated on his wife with a reporter. He has an agenda, and if you as a person do not agree with it, then you are labeled a trouble maker as long as you are not in the inside circle of his social or civic group.
 >
 Andre Reid is an Insider in the inside group. He has had 3 affairs and then mishandled disciplinary or evidence. He has a mindset of advancing social causes that are ultimately baseless. Nothing happened to him, because he went to them an spilled the beans before it could get in the public.
 >
