@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-Many people have seen the movie https://www.youtube.com/watch?v=6YzyVklCoAU a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Alabama, Baldwin County.This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the
+Many people have seen the movie https://www.youtube.com/watch?v=6YzyVklCoAU a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Alabama, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the
 wrongful conviction.
 
 
