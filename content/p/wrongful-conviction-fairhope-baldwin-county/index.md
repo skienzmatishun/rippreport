@@ -27,7 +27,7 @@ LISTEN to the Narrative { A Verbal Lynching in Alabama } by: Nancy Koerner
 PLEASE SUPPORT US THROUGH SPOT FUND AND PUBLIC PARTICIPATION
 
 
-<a href=https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97?source=s&share_location=e&SFID=7p2k2se&referral_id=94db72e9-2b46-4eb6-8b>Spotfund Fundraiser</a>
+<a href="https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97?source=s&share_location=e&SFID=7p2k2se&referral_id=94db72e9-2b46-4eb6-8b">Spotfund Fundraiser</a>
 
 
 Any and all funds,100%, will go towards the filing fees, coping documents or such things as expert witnesses.
