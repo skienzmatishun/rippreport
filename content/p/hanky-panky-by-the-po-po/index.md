@@ -15,6 +15,9 @@ This is just another chapter of a Sheriff's Department that has been run by one 
 
 Much Much More coming on these subjects!
 
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/feLHjB7YfN">https://t.co/feLHjB7YfN</a></p>&mdash; 𝐑𝐈𝐏𝐏 𝐑𝐄𝐏𝐎𝐑𝐓 (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1803608778689937632?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <style>
 .cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:15 2024 UTC"]) {opacity: 0;order: 45;}
 .cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:12 2024 UTC"]) {opacity: 0;order: 45;}
