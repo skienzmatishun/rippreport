@@ -14,7 +14,7 @@
   {{- $firstPost := first 1 .Paginator.Pages }}
   {{- range .Paginator.Pages }}
     {{- $isFirst := in $firstPost . }}
-    {{- partial "summary.html" (dict "page" . "class" "list" "isFirst" $isFirst) }}
+    {{- partial "summary" (dict "page" . "class" "list" "isFirst" $isFirst) }}
   {{- end }}
 </main>
 {{ partial "pagination.html" . }}
