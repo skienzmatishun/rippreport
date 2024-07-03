@@ -37,3 +37,9 @@
             <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
           {{- else }}
             <img class="thumbnail__image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAEAAAAAAPAAEAAAACGIF8O+f/YCbKPzG3gLJ9P0ymCkD8SWzvUdma9yvl+3C2A==" alt="{{ .page.Title }}">
+          {{- end }}
+        {{- if eq $class "list" }}</a>{{ end }}
+      </figure>
+    {{- end }}
+  {{- end }}
+{{- end }}
