@@ -1,5 +1,5 @@
 <article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "dwtd" }}dwtd{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }}">
-    {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
+    {{ partial "post_thumbnail.html" (dict "class" "list" "page" . "isFirst" .isFirst) }}
     <header class="list__header">
         <h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}">
             <a href="{{ .RelPermalink }}" rel="bookmark">
