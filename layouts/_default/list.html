@@ -1,21 +1,18 @@
 {{ define "main" }}
 <main class="main list" role="main">
-  {{- with .Title }}
-  <header class="main__header">
-    <h1 class="main__title">{{ . }}</h1>
-  </header>
-  {{- end }}
-  {{- with .Content }}
-  <div class="content main__content clearfix">
-    {{ . }}
-  </div>
-  {{- end }}
-
-  {{- $firstPost := first 1 .Paginator.Pages }}
-  {{- range .Paginator.Pages }}
-    {{- $isFirst := in $firstPost . }}
-    {{- partial "summary.html" (dict "page" . "class" "list" "isFirst" $isFirst) }}
-  {{- end }}
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- range .Paginator.Pages }}
+		{{- .Render "summary" }}
+	{{- end }}
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
