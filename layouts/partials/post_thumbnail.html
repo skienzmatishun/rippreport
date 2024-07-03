@@ -30,6 +30,10 @@
 
     {{- if in $visibility $class }}
       {{ $lazyLoading := true }}
+
+      {{- if eq .Page.IsFirst true }}
+        {{ $lazyLoading = false }} {{- end }}
+
       {{- if eq $class "list" }}
         <figure class="thumbnail">
           <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
@@ -38,8 +42,7 @@
       {{- end }}
         {{- if $thumbnail }}
           {{- if eq $lazyLoading true }}
-            {{- if ne .Page.Params.index 0 }} <!-- Check if it's not the first post -->
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
+            {{- if ne .Page.Params.index 0 }} <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
             {{- else }}
               <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
             {{- end }}

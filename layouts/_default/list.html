@@ -10,16 +10,9 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{ range $i, $post := .Paginator.Pages }}
-  <li>
-    {{ with $post }}{{ .Render "summary" }}{{ end }}
-    {{ if ne $i 2 }}
-      <img loading="lazy" src="{{ .Params.thumbnail }}" alt="{{ .Title }}">
-    {{ else }}
-      <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}">
-    {{ end }}
-  </li>
-{{ end }}
+	{{- range .Paginator.Pages }}
+		{{- .Render "summary" }}
+	{{- end }}
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
