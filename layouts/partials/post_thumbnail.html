@@ -12,13 +12,12 @@
     <div class="thumbnail__video">
       <div style="position: relative; padding-bottom: 56.25%; height: 0;">
         <iframe loading="lazy" class="thumbnail__iframe" src="https://www.rumble.com/embed/{{ $rumble }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-        {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+        {{ partial "svg/loading.svg" (dict "class" "class" "loading") -}}
       </div>
     </div>
   </figure>
 {{- else}}
   {{- if $thumbnail := .page.Params.thumbnail }}
-    {{- $class := .class }}
     {{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
 
     {{- $valueType := printf "%T" $thumbnail -}}
@@ -28,11 +27,7 @@
       {{ $thumbnail = $thumbnail.src }}
     {{- end }}
 
-    {{- if in $visibility $class }}
-      {{ $lazyLoading := true }}
-
-      {{- if eq .Page.IsFirst true }}
-        {{ $lazyLoading = false }} {{- end }}
+      {{ $lazyLoading := true }}  {{= eq .Page.IsFirst true }}
 
       {{- if eq $class "list" }}
         <figure class="thumbnail">
@@ -41,17 +36,8 @@
         <figure class="thumbnail">
       {{- end }}
         {{- if $thumbnail }}
-          {{- if eq $lazyLoading true }}
-            {{- if ne .Page.Params.index 0 }} <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
-            {{- else }}
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
-            {{- end }}
-          {{- else }}
-            <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
-          {{- end }}
-        {{- end }}
+          <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">  {{- end }}
         {{- if eq $class "list" }}</a>{{ end }}
       </figure>
-    {{- end }}
   {{- end }}
 {{- end }}
