@@ -29,15 +29,24 @@
     {{- end }}
 
     {{- if in $visibility $class }}
-      <figure class="thumbnail">
-        {{- if eq $class "list" }}
+      {{ $lazyLoading := true }}
+      {{- if eq $class "list" }}
+        <figure class="thumbnail">
           <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
-        {{- end }}
-          {{- if $thumbnail }}
-            <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
+      {{- else }}
+        <figure class="thumbnail">
+      {{- end }}
+        {{- if $thumbnail }}
+          {{- if eq $lazyLoading true }}
+            {{- if ne .Page.Params.index 0 }} <!-- Check if it's not the first post -->
+              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
+            {{- else }}
+              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+            {{- end }}
           {{- else }}
-            <img class="thumbnail__image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAEAAAAAAPAAEAAAACGIF8O+f/YCbKPzG3gLJ9P0ymCkD8SWzvUdma9yvl+3C2A==" alt="{{ .page.Title }}">
+            <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
           {{- end }}
+        {{- end }}
         {{- if eq $class "list" }}</a>{{ end }}
       </figure>
     {{- end }}
