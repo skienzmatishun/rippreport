@@ -17,30 +17,32 @@
     </div>
   </figure>
 {{- else}}
-  {{- if $thumbnail := .page.Params.thumbnail }}
-    {{- $class := .class }}
-    {{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+{{- if $thumbnail := .page.Params.thumbnail }}
+  {{- $class := .class }}
+  {{- $visibility := default (slice "list" "post") .page.Site.Params.thumbnail.visibility }}
 
-    {{- $valueType := printf "%T" $thumbnail -}}
-    {{- $isMap := in $valueType "map" -}}
-    {{- if $isMap }}
-      {{ $visibility = default (slice "list" "post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
-      {{ $thumbnail = $thumbnail.src }}
-    {{- end }}
-
-    {{- if in $visibility $class }}
-      {{ $lazyLoading := true }}
-      {{- if eq $class "list" }}
-        <figure class="thumbnail">
-          <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
-      {{- else }}
-        <figure class="thumbnail">
-      {{- end }}
-        {{- if $thumbnail }}
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
-            {{- end }}
-        {{- if eq $class "list" }}</a>{{ end }}
-      </figure>
-    {{- end }}
+  {{- $valueType := printf "%T" $thumbnail }}
+  {{- $isMap := in $valueType "map" }}
+  {{- if $isMap }}
+    {{ $visibility = default (slice "list" "post") (default $thumbnail.visibility $visibility) }}
+    {{ $thumbnail = $thumbnail.src }}
   {{- end }}
+
+  {{- if in $visibility $class }}
+    {{- $lazyLoading := true }}
+    <figure class="thumbnail">
+      {{- if eq $class "list" }}
+        <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
+      {{- end }}
+
+      {{- if $thumbnail }}
+        <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}"
+          {{- if and $lazyLoading (ne .Page.Params.index 0) }} loading="lazy"{{- end }}>
+      {{- end }}
+
+      {{- if eq $class "list" }}</a>{{ end }}
+    </figure>
+  {{- end }}
+{{- end }}
+
 {{- end }}
