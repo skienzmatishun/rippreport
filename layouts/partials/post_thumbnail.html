@@ -38,7 +38,7 @@
       {{- end }}
         {{- if $thumbnail }}
           {{- if eq $lazyLoading true }}
-            {{- if ne .Page.Params.index 0 }} <!-- Check if it's not the first post -->
+            {{- if not .IsFirst }} <!-- Check if it's not the first post -->
               <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
             {{- else }}
               <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
