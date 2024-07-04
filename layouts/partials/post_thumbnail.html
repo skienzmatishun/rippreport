@@ -29,15 +29,13 @@
   {{- end }}
 
   {{- if in $visibility $class }}
-    {{- $lazyLoading := true }}
     <figure class="thumbnail">
       {{- if eq $class "list" }}
         <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
       {{- end }}
-
       {{- if $thumbnail }}
         <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}"
-          {{- if and $lazyLoading (ne .Page.Params.index 0) }} loading="lazy"{{- end }}>
+          {{- if ne .Page.Params.index 0) }} loading="lazy"{{- end }}>
       {{- end }}
 
       {{- if eq $class "list" }}</a>{{ end }}
