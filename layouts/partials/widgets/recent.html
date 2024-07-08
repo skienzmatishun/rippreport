@@ -4,19 +4,17 @@
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
-    {{- $currentCategory := first 1 .Params.categories }}
-    {{- if $currentCategory }}
-        {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $currentCategory) }}
-    {{- end }}
+  {{- $category := index .Params.categories 0 }}
+  {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $category) }}
 {{- else }}
-    {{- $recentToShow = after 10 $recent }}
+  {{- $recentToShow = after 10 $recent }}
 {{- end }}
 
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
-    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-        {{- $filteredRecent = $filteredRecent | append . }}
-    {{- end }}
+  {{- if ne . $currentPost }}
+    {{- $filteredRecent = $filteredRecent | append . }}
+  {{- end }}
 {{- end }}
 
 {{- if gt (len $filteredRecent) 0 }}
