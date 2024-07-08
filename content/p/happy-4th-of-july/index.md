@@ -4,7 +4,7 @@ date: 2024-07-03
 thumbnail: "img/happy-4th-of-july-2024.jpg"
 summary: "When your loyalty to a felon is greater than your love for your country, you are the problem."
 categories: 
-  - wonderful-wednesday
+  - holiday
 authors: 
   - admin
 ---
