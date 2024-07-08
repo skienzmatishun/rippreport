@@ -16,16 +16,20 @@
 
 {{- $filteredRecent := slice }}
 
-{{- if in .Params.categories "holiday" }}
-  {{- range $recentToShow }}
-    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-      {{- $filteredRecent = $filteredRecent | append . }}
-    {{- end }}
-  {{- end }}
+{{- if .IsHome }}
+  {{- $filteredRecent = first $recent_num $recentToShow }}
 {{- else }}
-  {{- range $recentToShow }}
-    {{- if and (ne . $currentPost) (in .Params.categories $firstCategory) }}
-      {{- $filteredRecent = $filteredRecent | append . }}
+  {{- if in .Params.categories "holiday" }}
+    {{- range $recentToShow }}
+      {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+        {{- $filteredRecent = $filteredRecent | append . }}
+      {{- end }}
+    {{- end }}
+  {{- else }}
+    {{- range $recentToShow }}
+      {{- if and (ne . $currentPost) (in .Params.categories $firstCategory) }}
+        {{- $filteredRecent = $filteredRecent | append . }}
+      {{- end }}
     {{- end }}
   {{- end }}
 {{- end }}
