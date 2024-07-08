@@ -24,7 +24,7 @@ BCMCU consists of Bay Minette Police Chief Al Tolbert, who is the current chairm
 
 BCMCU has no credibility. They are investigating themselves and Chief Tolbert of Bay Minette is the Chairman? It is prosperous to believe BCMCU could conduct an unbiased investigation of their own members.
 
-https://rippreport.com/biased-investigation/
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBaldwinCountyLegalEagle%2Fposts%2Fpfbid02y1jRsPhh6TcascMFRuqxXQx8hVQps3i2H8VZF6BQGkcPJEVQdyBHn2yNsEZBi6G2l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Rumors say the officer who shot O. J. French was Brandon Thompson. Rumors say he was previously fired by the City of Bay Minette and other police forces. Rumors say The alleged rumored officer actually stopped Mr French early in the day. Rumors say Police Chief Tolbert has also been fired from Bay Minette. Rumors say Mayor Wills wants any investigation sealed from the public. Rumors say that there are many deputies of the Sheriff Department that see the BCMCU as a way to cover up actions of a few bad officers. Rumors say Mr. French was shot in the back. Rumors say that the Bay Minette police department was well aware Mr French suffered with diagnosed mental health issues. Rumors say that elected officials plan to remain silent and not to question the actions of the BCMCU, the sheriff or Police Chief Tolbert. Rumors say the officer was back on duty with a weapon within several weeks of the shooting. Rumors say the camera footage will never be provided to the public. Rumors say the grand Jury is flawed by being secret, that often evidence is left out or the information provided by the police is questionable. Rumors say the Grand Jury is just another vehicle the BCSCU uses to cover up officer malfeasance.
 
@@ -36,7 +36,7 @@ In the case of Johnthan Victor on April 2021 Judge William Cassady DENIED Hunady
 
 Victor like French had issues with mental health. Sheriff Mack said In open court that the sheriff dept did not have any special training for handling cases involving persons with issues of mental health, How in the hell is that possible?
 
-[https://www.montgomeryadvertiser.com/story/news/alabama-supreme-court-ruled-against-media-seeking-police-records/5850859001/](https://www.montgomeryadvertiser.com/story/news/2021/09/24/alabama-supreme-court-ruled-against-media-seeking-police-records/5850859001/)
+[Alabama Supreme Court Chief Justice decries ruling against media seeking police files](https://www.montgomeryadvertiser.com/story/news/2021/09/24/alabama-supreme-court-ruled-against-media-seeking-police-records/5850859001/)
 
 The Alabama Supreme Court on Friday ruled against a Mobile media outlet seeking law enforcement files related to a fatal police shooting, sparking a fervent dissent from the court's own chief justice regarding the state's public records law.
 
