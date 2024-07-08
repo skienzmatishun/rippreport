@@ -1,6 +1,7 @@
 ---
 title: "WRONGFUL CONVICTION"
 date: 2022-10-05
+thumbnail: "img/wrongful-conviction.jpg"
 categories: 
   - bcso
   - mljr
