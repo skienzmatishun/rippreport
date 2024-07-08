@@ -15,9 +15,18 @@
 {{- end }}
 
 {{- $filteredRecent := slice }}
-{{- range $recentToShow }}
-  {{- if and (ne . $currentPost) (or (not (in .Params.categories "holiday")) (in .Params.categories $firstCategory)) }}
-    {{- $filteredRecent = $filteredRecent | append . }}
+
+{{- if in .Params.categories "holiday" }}
+  {{- range $recentToShow }}
+    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+      {{- $filteredRecent = $filteredRecent | append . }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- range $recentToShow }}
+    {{- if and (ne . $currentPost) (in .Params.categories $firstCategory) }}
+      {{- $filteredRecent = $filteredRecent | append . }}
+    {{- end }}
   {{- end }}
 {{- end }}
 
