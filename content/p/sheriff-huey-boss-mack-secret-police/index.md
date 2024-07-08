@@ -41,7 +41,7 @@ No crisis intervention. No DE-escalation techniques. No training in handling the
 
 How is that possible in 2017?
 
-[https://www.gulfcoastnewstoday.com/stories/judge-denies-qualified-immunity-for-sheriff-deputy-in-2017-shooting,106596](https://www.gulfcoastnewstoday.com/stories/judge-denies-qualified-immunity-for-sheriff-deputy-in-2017-shooting,106596)
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjbcdckq2h" data-bluesky-cid="bafyreibaehoqofaidzaa537cn5lvacee6ondrvmtckokciaxyokb7q6dje"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjbcdckq2h?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjbcdckq2h?ref_src=embed">Jul 8, 2024 at 5:19 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 “Without question, ‘the standard for excessive force is clearly established,’” against Hunaday, and that “plaintiff has made an adequate showing that this is the kind of recurring situation presenting an obvious, highly predictable potential for violation that can trigger liability for failure to train, even in the absence of a pattern of violations.” U.S. District Court Judge William Cassady,
 
