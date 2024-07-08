@@ -12,7 +12,7 @@ O.J. French was only 32 years old when he was shot and killed after being pulled
 
 Be sure to read this article very carefully and you will see red flags have been hanging over the Baldwin County Sheriff’s Office and BCSCU, for a number of years.
 
-[https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article\_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html](https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html)
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjnsxlnk2w" data-bluesky-cid="bafyreiaodaxo6lrpzs66v6syc7ozestrjer26emolzkueqddszmtys3n4y"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjnsxlnk2w?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjnsxlnk2w?ref_src=embed">Jul 8, 2024 at 5:26 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 The Rev. Sam White, who graduated high school with French’s older sister, Tamara, spoke during the event on behalf of the family and said there needs to be transparency in the investigation.
 
@@ -30,7 +30,7 @@ Rumors say the officer who shot O. J. French was Brandon Thompson. Rumors say he
 
 Mr French is the 9th loss of life in Baldwin County where the BCMCU has investigated themselves. The first 8 found no police at fault and camera footage was withheld from the public..
 
-[https://www.lagniappemobile.com/news/videos-capture-confusion-leading-to-deadly-2017-shooting-of-jonathan-victor/article\_06afbeac-507d-5b81-aeec-5937c10570a4.html](https://www.lagniappemobile.com/news/videos-capture-confusion-leading-to-deadly-2017-shooting-of-jonathan-victor/article_06afbeac-507d-5b81-aeec-5937c10570a4.html)
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjyr3h5b2l" data-bluesky-cid="bafyreiakdjia3xh6ahemzdxavvnep7eouovvguv5xujqtbbcbzimaa56l4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjyr3h5b2l?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjyr3h5b2l?ref_src=embed">Jul 8, 2024 at 5:32 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 In the case of Johnthan Victor on April 2021 Judge William Cassady DENIED Hunady, the sheriff deputy who shot Victor four times, and sheriff Mack qualified immunity. The Judges ruling is on appeal by the Baldwin County Sheriff Office. The sheriff provided facts about the case that were untrue. Victor was unarmed and shot from 7 yards.
 
