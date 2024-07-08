@@ -3,7 +3,7 @@ title: "SCHOOLS AND TAXES"
 date: 2022-08-15
 thumbnail: "img/schools-and-taxes.png"
 categories: 
-  - monday-mayhem
+  - elections
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "WHERE HELL WERE YOU?"
 date: 2020-06-19
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - boone
   - brown

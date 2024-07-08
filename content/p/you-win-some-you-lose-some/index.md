@@ -2,7 +2,7 @@
 title: "YOU WIN SOME YOU LOSE SOME"
 date: 2018-11-07
 categories: 
-  - wonderful-wednesday
+  - elections
 authors: 
   - ripp-report
 ---

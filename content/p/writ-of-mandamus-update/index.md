@@ -3,7 +3,7 @@ title: "WRIT OF MANDAMUS: UPDATE"
 date: 2021-10-26
 thumbnail: "img/writ-of-mandamus-update.jpg"
 categories: 
-  - follow-up
+  - ethics
 authors: 
   - admin
 ---

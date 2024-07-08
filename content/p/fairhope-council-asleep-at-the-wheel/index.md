@@ -2,7 +2,7 @@
 title: "FAIRHOPE COUNCIL ASLEEP AT THE WHEEL"
 date: 2020-03-13
 categories: 
-  - thursday-thunder
+  - citycouncil
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "FAIRHOPE JESTER AND FLY CREEK"
 date: 2018-04-30
 categories: 
-  - monday-mayhem
+  - ethics
 tags: 
   - ethics-commission
   - ethics-complaint

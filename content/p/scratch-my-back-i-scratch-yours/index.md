@@ -2,7 +2,7 @@
 title: "SCRATCH MY BACK, I SCRATCH YOURS"
 date: 2017-07-28
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - pittman
 authors: 

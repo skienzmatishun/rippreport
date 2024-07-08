@@ -3,7 +3,7 @@ title: "SEE YA IN COURT JACK"
 thumbnail: "img/see-ya-in-court-jack.jpg"
 date: 2017-12-29
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - burrell
   - wilson

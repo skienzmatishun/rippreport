@@ -3,7 +3,7 @@ title: "PO PO Hoss Mack CCUO"
 date: 2024-06-15
 thumbnail: "img/po-po-hoss-mack-ccuo.jpg"
 categories: 
-  - terrific-tuesday
+  - bcso
 authors: 
   - admin
 ---

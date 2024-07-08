@@ -4,7 +4,7 @@ date: 2023-10-30T00:00:00Z
 thumbnail: "img/alabama-ag.jpg"
 summary: "The Ripp Report filed two complaints with the Alabama Attorney General's office. For misconduct by the Alabama Ethics Commission's director and requests a review of past dismissed complaints. And the wrongful conviction of Murray Lawrence in Baldwin County."
 categories: 
-  - monday-madness
+  - ethics
 authors: 
   - admin
 ---

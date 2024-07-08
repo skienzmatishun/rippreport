@@ -3,7 +3,7 @@ title: "ONE WOMAN"
 date: 2019-04-19
 thumbnail: "img/one-woman.png"
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - beck
   - burrell

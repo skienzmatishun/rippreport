@@ -2,7 +2,7 @@
 title: "SAY GOODBYE INCUMBENTS"
 date: 2017-11-03
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - billy-jo-underwood
   - callaghan

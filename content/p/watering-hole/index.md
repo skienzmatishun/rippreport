@@ -3,7 +3,8 @@ title: "WATERING HOLE"
 date: 2019-10-25
 thumbnail: "img/watering-hole.jpg"
 categories: 
-  - freaky-friday
+  - mcsharry
+  - citycouncil
 authors: 
   - admin
 ---

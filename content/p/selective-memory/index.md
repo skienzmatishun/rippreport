@@ -2,7 +2,7 @@
 title: "Selective Memory"
 date: 2017-03-01
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - boone
   - burrell

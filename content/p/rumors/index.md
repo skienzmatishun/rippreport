@@ -2,7 +2,7 @@
 title: "RUMORS"
 date: 2022-10-15
 categories: 
-  - saturday-sunshine
+  - bcso
 thumbnail: "img/rumors.png" 
 authors: 
   - admin

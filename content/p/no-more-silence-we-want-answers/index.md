@@ -2,7 +2,7 @@
 title: "NO MORE SILENCE — WE WANT ANSWERS"
 date: 2016-08-13
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - fairhope-library
   - fairhope-schools

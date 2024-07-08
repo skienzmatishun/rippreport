@@ -3,7 +3,7 @@ title: "Hanky Panky by the Po Po"
 date: 2024-05-31
 thumbnail: "img/hanky-panky-by-the-po-po.jpg"
 categories: 
-  - terrific-tuesday
+  - bcso
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "ALABAMA CORRUPTION INSURANCE"
 date: 2020-12-17
 categories: 
-  - thursday-thunder
+  - ethics
 tags: 
   - alabama
   - columbia

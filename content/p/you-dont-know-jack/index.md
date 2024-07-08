@@ -3,7 +3,7 @@ title: "YOU DON’T KNOW JACK"
 date: 2016-11-25
 thumbnail: "img/you-dont-know-jack.jpg"
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - burrell
   - fairhope-airport

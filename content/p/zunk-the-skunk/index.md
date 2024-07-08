@@ -2,7 +2,7 @@
 title: "ZUNK THE SKUNK"
 date: 2018-06-22
 categories: 
-  - freaky-friday
+  - elections
 authors: 
   - ripp-report
 ---

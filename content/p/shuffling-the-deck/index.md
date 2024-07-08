@@ -3,7 +3,7 @@ title: "SHUFFLING THE DECK"
 date: 2024-07-08
 thumbnail: "img/shuffling-the-deck.jpg"
 categories: 
-  - wonderful-wednesday
+  - bcso
 authors: 
   - admin
 ---

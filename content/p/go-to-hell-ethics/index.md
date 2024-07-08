@@ -2,7 +2,7 @@
 title: "GO TO HELL ETHICS"
 date: 2023-01-28
 categories: 
-  - saturday-sunshine
+  - ethics
 thumbnail: "img/scale-flames.jpg"
 authors: 
   - admin

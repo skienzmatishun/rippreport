@@ -3,7 +3,7 @@ title: "BOSS SHERIFF"
 date: 2023-09-09
 thumbnail: "img/boss-sheriff.jpg"
 categories: 
-  - saturday-sunshine
+  - bcso
 authors: 
   - admin
 ---

@@ -3,7 +3,8 @@ title: "Wrongful Conviction Fairhope, Baldwin County"
 date: 2024-06-17
 thumbnail: "img/wrongful-conviction-fairhope-baldwin-county.jpg"
 categories: 
-  - terrific-tuesday
+  - bcso
+  - mljr
 authors: 
   - admin
 ---

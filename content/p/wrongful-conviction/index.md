@@ -2,7 +2,8 @@
 title: "WRONGFUL CONVICTION"
 date: 2022-10-05
 categories: 
-  - wonderful-wednesday
+  - bcso
+  - mljr
 authors: 
   - admin
 ---
@@ -25,7 +26,7 @@ On the other hand, Neily said there are departments that “play games” when d
 
 WRONGFUL CONVICTION
 
-[Deal with the Devil](https://deal-with-the-devil.com/)
+[Justice For Murray Lawrence Jr](https://justiceformurraylawrencejr.com/)
 
 Please sign the petition and read all the details about Deal With The Devil.
 

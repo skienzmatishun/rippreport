@@ -2,7 +2,7 @@
 title: "FAIRHOPE LAWSUITS"
 date: 2017-10-27
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - burrell
   - fly-creek

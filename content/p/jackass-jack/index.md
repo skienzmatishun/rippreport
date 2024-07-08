@@ -2,7 +2,7 @@
 title: "JACKASS JACK"
 date: 2020-11-27
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - burrell
   - dyas-triangle

@@ -2,7 +2,7 @@
 title: "ROTTEN"
 date: 2020-01-03
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

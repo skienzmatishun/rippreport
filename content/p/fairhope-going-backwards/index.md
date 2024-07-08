@@ -2,7 +2,7 @@
 title: "FAIRHOPE GOING BACKWARDS?"
 date: 2020-08-19
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 tags: 
   - burrell
   - catalyst

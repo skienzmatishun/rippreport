@@ -2,7 +2,7 @@
 title: "PASSPORT TO PARIS"
 date: 2019-07-01
 categories: 
-  - monday-madness
+  - elections
 authors: 
   - admin
 ---

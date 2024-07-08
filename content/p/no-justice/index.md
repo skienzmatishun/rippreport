@@ -3,7 +3,7 @@ title: "NO JUSTICE"
 date: 2024-01-26
 thumbnail: "img/no-justice.jpg"
 categories: 
-  - thursday-thunder
+  - bcso
   - dwtd
 authors: 
   - admin

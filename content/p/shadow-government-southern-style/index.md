@@ -2,7 +2,7 @@
 title: "SHADOW GOVERNMENT SOUTHERN STYLE"
 date: 2020-09-11
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - 9-11
   - don-siegelman

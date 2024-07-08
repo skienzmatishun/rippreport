@@ -2,7 +2,7 @@
 title: "RUNOFF"
 date: 2020-03-05
 categories: 
-  - thursday-thunder
+  - elections
 authors: 
   - admin
 ---

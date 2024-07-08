@@ -2,7 +2,7 @@
 title: "I-10 Toll Bridge State"
 date: 2021-06-11
 categories: 
-  - freaky-friday
+  - elections
 authors: 
   - admin
 ---

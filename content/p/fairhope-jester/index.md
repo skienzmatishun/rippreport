@@ -3,7 +3,7 @@ title: "THE FAIRHOPE JESTER"
 date: 2018-02-23
 thumbnail: "img/fairhope-jester.jpg"
 categories: 
-  - freaky-friday
+  - ethics
 tags: 
   - ethics-complaint
   - pittman

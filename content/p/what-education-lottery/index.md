@@ -3,7 +3,7 @@ title: "WHAT EDUCATION LOTTERY?"
 date: 2019-04-26
 thumbnail: "img/what-education-lottery.jpg"
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - albritton
   - elliott

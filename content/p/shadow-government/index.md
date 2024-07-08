@@ -2,7 +2,7 @@
 title: "SHADOW GOVERNMENT"
 date: 2018-08-03
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - ripp-report
 ---

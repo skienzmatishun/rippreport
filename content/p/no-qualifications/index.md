@@ -2,7 +2,7 @@
 title: "NO QUALIFICATIONS"
 date: 2021-05-28
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - airport
   - bay-bridge

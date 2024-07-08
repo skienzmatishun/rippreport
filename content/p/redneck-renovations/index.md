@@ -2,7 +2,7 @@
 title: "REDNECK RENOVATIONS"
 date: 2021-01-24
 categories: 
-  - saturday-sunshine
+  - citycouncil
 tags: 
   - catalyst
   - csb

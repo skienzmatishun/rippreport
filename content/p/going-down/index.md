@@ -2,7 +2,7 @@
 title: "GOING DOWN"
 date: 2019-10-18
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "POISON IVY BRIDGE"
 date: 2019-08-16
 categories: 
-  - freaky-friday
+  - bridge
 authors: 
   - admin
 ---

@@ -5,6 +5,7 @@ thumbnail: "sheriff-huey-boss-mac-secret-police.jpg"
 summary: "The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser."
 categories: 
   - dwtd
+  - bcso
 authors: 
   - admin
 ---

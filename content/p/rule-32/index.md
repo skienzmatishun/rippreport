@@ -6,6 +6,7 @@ summary: "Murray Lawrence was wrongly convicted and has been in jail for over 20
 categories: 
   - thursday-thunder
   - dwtd
+  - bcso
 authors: 
   - admin
 ---

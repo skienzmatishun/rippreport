@@ -2,7 +2,7 @@
 title: "A SPIDER’S WEB"
 date: 2017-01-18
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 tags: 
   - boone
   - burrell

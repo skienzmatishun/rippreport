@@ -3,7 +3,7 @@ title: "ALABAMA ETHICS COMMISION HIDE THE LIST"
 date: 2024-01-29
 thumbnail: "img/alabama-ethics-commission-hide-the-list.jpg"
 categories: 
-  - monday-madness
+  - ethics
 authors: 
   - admin
 ---

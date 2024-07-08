@@ -3,7 +3,7 @@ title: "WRIT OF MANDAMUS AND BAR COMPLAINT"
 date: 2021-07-15
 thumbnail: "img/write-of-marandamus-and-bar-complaint.png"
 categories: 
-  - thursday-thunder
+  - ethics
 authors: 
   - admin
 ---

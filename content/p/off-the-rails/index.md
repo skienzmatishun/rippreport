@@ -2,14 +2,14 @@
 title: "OFF THE RAILS"
 date: 2020-01-10
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---
 
 JANUARY 10 2020 BACKSTORY PODCAST TODAY
 
-\[embedyt\] https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg\[/embedyt\]
+https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg
 
 Fairhope’s City Council has no priorities, or if they do it is off the rails. Consider Fairhope just had another sewer spill.
 

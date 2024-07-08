@@ -2,7 +2,7 @@
 title: "SCARY"
 date: 2020-08-01
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - bp
   - catalyst

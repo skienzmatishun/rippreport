@@ -4,7 +4,7 @@ date: 2024-05-06
 thumbnail: "img/fairhope-infrastructure.jpg"
 summary: "In Fairhope, Alabama, there’s a water shortage, incomplete infrastructure projects, and an overloaded sewer system. Amidst legal battles and controversy, 68 Ventures proposes a new mixed-use development, “Park City,” which has drawn criticism for its potential impact on the community and local schools."
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "FREE SPEECH"
 date: 2017-09-08
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - ripp-report
 ---

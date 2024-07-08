@@ -3,7 +3,7 @@ title: "PERFECT PUZZLE"
 date: 2021-12-08
 thumbnail: "img/perfect-puzzle.png"
 categories: 
-  - wonderful-wednesday
+  - ethics
 authors: 
   - admin
 ---

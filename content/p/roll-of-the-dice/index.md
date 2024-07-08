@@ -2,7 +2,7 @@
 title: "ROLL OF THE DICE"
 date: 2022-03-04
 categories: 
-  - freaky-friday
+  - elections
 authors: 
   - admin
 ---

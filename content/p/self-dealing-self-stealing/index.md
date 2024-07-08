@@ -2,7 +2,7 @@
 title: "SELF-DEALING-SELF-STEALING"
 date: 2021-07-09
 categories: 
-  - freaky-friday
+  - ethics
 authors: 
   - admin
 ---

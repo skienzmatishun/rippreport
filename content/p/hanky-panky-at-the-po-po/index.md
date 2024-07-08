@@ -4,6 +4,7 @@ date: 2024-06-20
 thumbnail: "img/hanky-panky-at-the-po-po.jpg"
 categories:
   - backstory-podcast
+  - bcso
 authors:
   - admin
 rumble: "v50etd5"

@@ -3,7 +3,7 @@ title: "PEDALING FORWARD"
 date: 2019-02-27
 thumbnail: "img/pedaling-forwards.jpg"
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 tags: 
   - burrell
   - catalyst

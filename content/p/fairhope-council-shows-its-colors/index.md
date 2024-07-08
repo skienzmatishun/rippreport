@@ -2,7 +2,7 @@
 title: "FAIRHOPE COUNCIL SHOWS IT'S COLORS"
 date: 2018-09-28
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - ripp-report
 ---

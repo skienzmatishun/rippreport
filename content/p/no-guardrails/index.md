@@ -2,7 +2,7 @@
 title: "NO GUARDRAILS"
 date: 2018-11-23
 categories: 
-  - freaky-friday
+  - ethics
 authors: 
   - ripp-report
 ---

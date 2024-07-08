@@ -2,7 +2,7 @@
 title: "RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM"
 date: 2019-08-30
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

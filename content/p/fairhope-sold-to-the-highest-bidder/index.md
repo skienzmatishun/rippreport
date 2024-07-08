@@ -3,7 +3,7 @@ title: "FAIRHOPE SOLD TO THE HIGHEST BIDDER"
 date: 2019-10-16
 thumbnail: "img/fairhope-sold-to-the-highest-bidder.jpg"
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "ALABAMA ETHICS, A POLITICAL TOOL"
 date: 2017-08-02
 categories: 
-  - wonderful-wednesday
+  - ethics
 tags: 
   - burrell
   - ethics-commission
