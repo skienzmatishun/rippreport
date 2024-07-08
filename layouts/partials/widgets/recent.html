@@ -16,7 +16,7 @@
 
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
-  {{- if and (ne . $currentPost) (in .Params.categories $firstCategory) }}
+  {{- if and (ne . $currentPost) (or (not (in .Params.categories "holiday")) (in .Params.categories $firstCategory)) }}
     {{- $filteredRecent = $filteredRecent | append . }}
   {{- end }}
 {{- end }}
