@@ -1,8 +1,9 @@
 ---
 title: "BIASED INVESTIGATION"
 date: 2022-09-24
+thumbnail: "img/biased-investigation.jpg"
 categories: 
-  - freaky-friday
+  - bcso
 authors: 
   - admin
 ---
@@ -13,11 +14,11 @@ As long as all the above remains true a very few bad police officers are going t
 
 How many people need to die before citizens can see some justice?
 
-https://lagniappemobile.com/bay-minette-officials-still-withholding-name-of-officer-who-killed-otis-french-jr/
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsiuwn3cm2k" data-bluesky-cid="bafyreigoh5ahg3ychlxj5y2mgg2dui55ym3ao4mo74qloggjtxljsxjsmi"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsiuwn3cm2k?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsiuwn3cm2k?ref_src=embed">Jul 8, 2024 at 5:12 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 Baldwin County MCU Lt. Andre Reid has said officer body camera footage of the incident will not be available during their investigation and the officer will not be named to “respect privacy.” Reid said Bay Minette Police can decide to release footage at the conclusion of the case. An Alabama Supreme Court ruling last summer, however, has effectively stripped the media and the public of any right to sue to see police body camera footage.
 
-https://lagniappemobile.com/a-tale-of-two-shootings/
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsizikkvz2o" data-bluesky-cid="bafyreihlwmvcaakt7mjzgqjdnzdwm5bot7njn2676nlqnjftx2zaub3xdi"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsizikkvz2o?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsizikkvz2o?ref_src=embed">Jul 8, 2024 at 5:15 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 Unlike Kenneth Sikes’ shooting, there’s been backlash stemming from French being killed. Family, friends and the local community have demanded answers — but they’re getting nothing. The city, police department and the Baldwin County Major Crimes Unit (MCU), which is investigating the shooting, all refuse to even release the name of the officer involved.
 
