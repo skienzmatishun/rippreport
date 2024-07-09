@@ -1,8 +1,9 @@
 ---
 title: "BALDWIN COUNTY"
 date: 2020-09-04
-categories: 
-  - freaky-friday
+thumbnail: "img/baldwin-county.png"
+categories:
+  - elections
 tags: 
   - baldwin-county
   - city-attorney

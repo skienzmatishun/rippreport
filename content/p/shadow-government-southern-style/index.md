@@ -1,6 +1,7 @@
 ---
 title: "SHADOW GOVERNMENT SOUTHERN STYLE"
 date: 2020-09-11
+thumbnail: "img/shadow-government-southern-style.png"
 categories: 
   - elections
 tags: 
