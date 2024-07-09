@@ -1,5 +1,6 @@
 ---
 title: "LOST OPPORTUNITY"
+thumbnail: "img/lost-opportunity.jpg"
 date: 2020-03-26
 categories: 
   - thursday-thunder

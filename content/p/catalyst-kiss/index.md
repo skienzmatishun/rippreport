@@ -1,8 +1,9 @@
 ---
 title: "CATALYST KISS"
 date: 2020-02-12
+thumbnail: "img/catalyst-kiss.jpg"
 categories: 
-  - wonderful-wednesday
+  - elections
 authors: 
   - admin
 ---
