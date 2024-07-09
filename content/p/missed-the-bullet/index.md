@@ -1,6 +1,6 @@
 ---
 title: "MISSED THE BULLET"
-thumbnail: "img/jackass-jack.png"
+thumbnail: "img/missed-the-bullet.png"
 date: 2020-10-09
 categories: 
   - freaky-friday
