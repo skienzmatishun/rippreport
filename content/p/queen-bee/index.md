@@ -1,8 +1,9 @@
 ---
 title: "QUEEN BEE"
 date: 2020-10-31
+thumbnail: "img/queen-bee.jpg"
 categories: 
-  - saturday-sunshine
+  - citycouncil
 tags: 
   - csb
   - dyas-triangle

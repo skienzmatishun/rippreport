@@ -1,7 +1,7 @@
 ---
 title: "JACKASS JACK"
 date: 2020-11-27
-thumbnail: "img/jackass-jack.png"
+thumbnail: "img/jackass-jack.jpg"
 categories: 
   - citycouncil
 tags: 

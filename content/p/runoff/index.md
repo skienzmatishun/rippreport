@@ -1,6 +1,7 @@
 ---
 title: "RUNOFF"
 date: 2020-03-05
+thumbnail: "img/runoff.png"
 categories: 
   - elections
 authors: 

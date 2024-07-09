@@ -1,6 +1,7 @@
 ---
 title: "READING IN THE RAIN"
 date: 2020-09-15
+thumbnail: "img/reading-in-the-rain.png"
 categories: 
   - terrific-tuesday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "M.I.A"
 date: 2020-10-05
+thumbnail: "img/m-i-a.jpg"
 categories: 
   - monday-madness
 tags: 

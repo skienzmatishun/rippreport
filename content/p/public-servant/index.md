@@ -1,8 +1,9 @@
 ---
 title: "PUBLIC SERVANT"
 date: 2020-03-07
+thumbnail: "img/public-servant.png"
 categories: 
-  - freaky-friday
+  - elections
 authors: 
   - admin
 ---
