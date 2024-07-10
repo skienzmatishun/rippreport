@@ -1,7 +1,7 @@
 ---
 title: "STRIKING OIL"
 date: 2021-07-24
-thumbnail: "striking-oil.png"
+thumbnail: "img/striking-oil.png"
 categories: 
   - saturday-sunshine
 authors: 

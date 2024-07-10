@@ -1,6 +1,7 @@
 ---
 title: "CANONS — NO POWDER"
 date: 2021-12-13
+thumbnail: "canons-no-powder.png"
 categories: 
   - monday-mayhem
 authors: 
