@@ -1,6 +1,7 @@
 ---
 title: "TOP SHELF CORRUPTION"
 date: 2022-07-09
+thumbnail: "img/top-shelf-corruption.jpg"
 categories: 
   - saturday-sunshine
 authors: 
