@@ -1,6 +1,7 @@
 ---
 title: "GET ZONED or GET SCREWED"
 date: 2021-11-19
+thumbnail: "img/get-zoned-or-get-screwed.png"
 categories: 
   - freaky-friday
 authors: 

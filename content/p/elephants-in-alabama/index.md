@@ -1,6 +1,7 @@
 ---
 title: "Elephants in Alabama"
 date: 2022-07-14
+thumbnail: "img/elephants-in-alabama.jpg"
 categories: 
   - thursday-thunder
 authors: 

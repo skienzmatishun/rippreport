@@ -1,6 +1,7 @@
 ---
 title: "FAUXHOPE MUSICAL CHAIRS"
 date: 2021-11-15
+thumbnail: "img/fairhope-musical-chairs.png"
 categories: 
   - monday-madness
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "FRIED CHICKEN AND WATERMELON"
 date: 2021-11-04
+thumbnail: "img/fried-chicken-and-watermelon.jpg"
 categories: 
   - thursday-thunder
 authors: 

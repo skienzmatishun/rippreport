@@ -1,6 +1,7 @@
 ---
 title: "McSHARRY MADNESS"
 date: 2021-11-26
+thumbnail: "img/mcsharry-madness.gif"
 categories: 
   - freaky-friday
 authors: 
