@@ -1,6 +1,7 @@
 ---
 title: "ABSOLUTE POWER"
 date: 2020-08-28
+thumbnail: "img/absolute-power.png"
 categories: 
   - freaky-friday
 tags: 

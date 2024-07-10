@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE'S GOLDEN KEY"
 date: 2020-08-24
+thumbnail: "img/fairhopes-golden-key.png"
 categories: 
   - Special-Report
 tags: 

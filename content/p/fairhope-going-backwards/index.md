@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE GOING BACKWARDS?"
 date: 2020-08-19
+thumbnail: "img/fairhope-going-backwards.png"
 categories: 
   - citycouncil
 tags: 

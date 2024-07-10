@@ -1,6 +1,7 @@
 ---
 title: "CATALYST MISSING IN ACTION"
 date: 2020-08-22
+thumbnail: "img/catalyst-missing-in-action.png"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "CATALYST BULLIES"
 date: 2020-08-15
+thumbnail: "img/catalyst-bullies.png"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "WOMEN STAND TOGETHER"
 date: 2020-08-22
+thumbnail: "img/women-stand-together.png"
 categories: 
   - saturday-sunshine
 tags: 

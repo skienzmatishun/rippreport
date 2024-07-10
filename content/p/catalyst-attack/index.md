@@ -1,6 +1,7 @@
 ---
 title: "CATALYST ATTACK"
 date: 2020-08-12
+thumbnail: "img/catalyst-attack.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

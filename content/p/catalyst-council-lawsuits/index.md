@@ -1,6 +1,7 @@
 ---
 title: "CATALYST COUNCIL LAWSUITS"
 date: 2020-08-22
+thumbnail: "img/catalyst-council-lawsuits.png"
 categories: 
   - Special-Report
 tags: 
