@@ -26,13 +26,13 @@ He did approve sewer repairs to the main sewer plant, however allowed no money f
 [![](https://cdn.rippreport.com/20200522_2335261.jpg)](https://mynbc15.com/news/local/fairhope-city-officials-react-to-state-lawsuit-alleging-wastewater-violations )
 
 Source: [https://mynbc15.com/news/local/fairhope-city-officials-react-to-state-lawsuit-alleging-wastewater-violations](https://mynbc15.com/news/local/fairhope-city-officials-react-to-state-lawsuit-alleging-wastewater-violations)
-
+</div>
 You cannot make this crap up.
 
 Councilman Burrell of Fairhope gives a news report on sewer improvements in Fairhope and takes credit for the accomplishments **he voted against**!
 
 Freaky Friday gives you the unfiltered truth:
-
+<div class="link-preview">
 ## CATALYST SHIT CREEK
 
 ### CATALYST SHIT CREEK
@@ -59,9 +59,9 @@ The Fairhope City Council has consistently not supported sewer projects. They on
 I decided to dedicate a page for a timeline to keep citizens up-to-date on the City’s progress in fully Updating & Rehabilitating our Sewer System and clean water initiatives. This timeli…
 
 Source: [www.mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/](https://web.archive.org/web/20201021131024/www.mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/)
-
+</div>
 Talk about lying. Burrell never let voters know about his Police record which lists two disturbing incidents involving juveniles:
-
+<div class="link-preview">
 ## POLICE REPORT
 
 ### POLICE REPORT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -80,7 +80,7 @@ He also “negotiated” buying 2.65 million dollar farmland for future recreati
 Prior to the purchase the city had a $1.2 million surplus after the purchase the city went backwards to a $1.7 million deficit.
 
 Great negotiator, my ass.
-
+<div class="link-preview">
 ## YOU DON’T KNOW JACK
 
 ### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -90,7 +90,7 @@ Great negotiator, my ass.
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
 
 Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
-
+</div>
 CATALYST is bad enough but Burrell represents the worst of CATALYST.
 
 Burrell is number one on the list to vote out, Aug. 25th.
