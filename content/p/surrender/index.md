@@ -1,6 +1,7 @@
 ---
 title: "SURRENDER"
 date: 2021-12-04
+thumbnail: "img/surrender.png"
 categories: 
   - saturday-sunshine
 authors: 
