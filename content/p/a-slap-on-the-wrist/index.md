@@ -1,6 +1,7 @@
 ---
 title: "A SLAP ON THE WRIST"
 date: 2021-03-26
+thumbnail: "img/a-slap-on-the-wrist.png"
 categories: 
   - freaky-friday
 tags: 
