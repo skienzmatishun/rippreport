@@ -1,8 +1,9 @@
 ---
 title: "A DECADE OF CORRUPTION"
+thumbnail: "a-decade-of-corruption.png"
 date: 2020-06-10
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 tags: 
   - bp
   - catalyst
