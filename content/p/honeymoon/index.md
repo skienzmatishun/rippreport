@@ -1,6 +1,7 @@
 ---
 title: "HONEYMOON"
 date: 2021-03-05
+thumbnail: "img/honeymoon.png"
 categories: 
   - freaky-friday
 tags: 

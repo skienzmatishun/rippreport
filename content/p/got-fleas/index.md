@@ -1,6 +1,7 @@
 ---
 title: "GOT FLEAS"
 date: 2021-04-01
+thumbnail: "img/got-fleas.png"
 categories: 
   - thursday-thunder
 tags: 
