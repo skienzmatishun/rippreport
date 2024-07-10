@@ -1,6 +1,7 @@
 ---
 title: "WHERE HELL WERE YOU?"
 date: 2020-06-19
+thumbnail: "img/where-the-hell-were-you.png"
 categories: 
   - citycouncil
 tags: 
