@@ -1,8 +1,9 @@
 ---
 title: "Paradise Lost II"
 date: 2020-06-03
+thumbnail: "img/paradise-lost-ii.png"
 categories: 
-  - wonderful-wednesday
+  - authors
 tags: 
   - baldwin-county
   - chris-warner
