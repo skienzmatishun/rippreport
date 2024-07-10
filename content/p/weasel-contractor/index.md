@@ -1,6 +1,7 @@
 ---
 title: "WEASEL CONTRACTOR"
 date: 2021-05-14
+thumbnail: "img/weasel-contractor.jpg"
 categories: 
   - freaky-friday
 tags: 

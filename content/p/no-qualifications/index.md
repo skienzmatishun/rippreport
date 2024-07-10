@@ -1,6 +1,7 @@
 ---
 title: "NO QUALIFICATIONS"
 date: 2021-05-28
+thumbnail: "img/no-qualifications.jpg"
 categories: 
   - citycouncil
 tags: 

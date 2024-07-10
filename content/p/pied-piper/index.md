@@ -1,6 +1,7 @@
 ---
 title: "PIED PIPER"
 date: 2021-06-04
+thumbnail: "img/pied-piper.jpg"
 categories: 
   - citycouncil
 tags: 

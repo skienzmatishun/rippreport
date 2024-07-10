@@ -63,6 +63,7 @@ Source: [www.mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quali
 </div>
 Talk about lying. Burrell never let voters know about his Police record which lists two disturbing incidents involving juveniles:
 <div class="link-preview">
+
 ## POLICE REPORT
 
 ### POLICE REPORT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE

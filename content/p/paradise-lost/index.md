@@ -3,7 +3,7 @@ title: "PARADISE LOST"
 date: 2018-06-07
 thumbnail: "img/paradise-lost.png"
 categories: 
-  - thursday-thunder
+  - authors
 authors: 
   - ripp-report
 ---
