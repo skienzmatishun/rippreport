@@ -1,6 +1,7 @@
 ---
 title: "ALABAMA SUICIDE"
 date: 2021-01-08
+thumbnail: "alabama-suicide.png"
 categories: 
   - freaky-friday
 tags: 

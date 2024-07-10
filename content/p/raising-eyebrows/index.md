@@ -1,6 +1,7 @@
 ---
 title: "RAISING EYEBROWS"
 date: 2018-10-05
+thumbnail: "raising-eyebrows.jpg"
 categories: 
   - freaky-friday
 authors: 
