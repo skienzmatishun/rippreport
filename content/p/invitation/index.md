@@ -1,8 +1,9 @@
 ---
 title: "INVITATION"
 date: 2020-06-25
+thumbnail: "img/invitation.png"
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 tags: 
   - city-council
   - fairhope-pier

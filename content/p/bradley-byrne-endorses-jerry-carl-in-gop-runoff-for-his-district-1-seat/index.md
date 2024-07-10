@@ -1,6 +1,7 @@
 ---
 title: "Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat"
 date: 2020-06-15
+thumbnail: "img/bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat.jpg"
 categories: 
   - monday-madness
 tags: 

@@ -3,7 +3,7 @@ title: "STEALING OUR DEMOCRACY"
 date: 2020-06-17
 thumbnail: "img/stealing-our-democracy.jpg"
 categories: 
-  - wonderful-wednesday
+  - elections
 tags: 
   - catalyst
   - election
@@ -33,7 +33,7 @@ The greatest fix in Alabama involved Governor Siegelman, who was declared the wi
 
 https://lagniappemobile.com/former-gov-don-siegelman-discusses-trial-conviction-and-future-in-new-memoir/
 
-{ This article has a paywall, free copies are at local newsstands}
+This article has a paywall, free copies are at local newsstands.
 
 Don Seigelman is the only one in the history of Alabama to serve as Sec. Of State, Attorney General, Lt. Governor and Governor. His story explains the depth of corruption in Alabama. If you cannot make the book signing then get a copy at Page and Pallette.
 
