@@ -1,6 +1,7 @@
 ---
 title: "CATALYST SIGNS"
 date: 2020-08-07
+thumbnail: "img/catalyst-signs.png"
 categories: 
   - freaky-friday
 tags: 
