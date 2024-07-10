@@ -3,7 +3,7 @@ title: "CORRIDOR OF CHAOS"
 date: 2019-10-11
 thumbnail: "img/corridor-of-chaos.png"
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

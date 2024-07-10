@@ -1,8 +1,9 @@
 ---
 title: "ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?"
 date: 2018-07-13
+thumbnail: "img/elliott-stacy-haygood-catalyst-who-is-in-the-picture.jpg"
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - catalyst
   - chris-elliott

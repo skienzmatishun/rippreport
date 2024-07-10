@@ -1,6 +1,7 @@
 ---
 title: "BAR STOOL “CONTINUED”"
 date: 2020-01-25
+thumbnail: "img/bar-stool-continued.jpg"
 categories: 
   - freaky-friday
 authors: 
