@@ -1,6 +1,7 @@
 ---
 title: "SPECIAL INTEREST"
 date: 2018-10-26
+thumbnail: "img/special-interest.jpg"
 categories: 
   - freaky-friday
 authors: 

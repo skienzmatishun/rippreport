@@ -1,6 +1,7 @@
 ---
 title: "HALLOWEEN CHARACTERS"
 date: 2018-10-31
+thumbnail: "img/halloween-characters.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

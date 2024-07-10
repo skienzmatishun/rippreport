@@ -1,6 +1,7 @@
 ---
 title: "WOMEN OF BALDWIN"
 date: 2018-10-25
+thumbnail: "img/women-of-baldwin.jpg"
 categories: 
   - thursday-thunder
 authors: 
