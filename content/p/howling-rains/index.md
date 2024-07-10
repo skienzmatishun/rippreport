@@ -1,6 +1,7 @@
 ---
 title: "HOWLING RAINS"
 date: 2020-07-06
+thumbnail: "img/howling-rains.png"
 categories: 
   - monday-madness
 tags: 

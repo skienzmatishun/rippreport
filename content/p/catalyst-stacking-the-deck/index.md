@@ -1,6 +1,7 @@
 ---
 title: "CATALYST STACKING THE DECK"
 date: 2020-07-03
+thumbnail: "img/catalyst-stacking-the-deck.jpg"
 categories: 
   - freaky-friday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Sting"
 date: 2020-07-14
+thumbnail: "img/sting.jpg"
 categories: 
   - terrible-tuesday
 tags: 

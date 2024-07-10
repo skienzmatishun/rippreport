@@ -1,7 +1,7 @@
 ---
 title: "FLY ON THE WALL"
 date: 2020-07-25
-thumbnail: "img/fly-on-the-wall.jpg"
+thumbnail: "img/fly-on-the-wall.png"
 categories: 
   - citycouncil
 tags: 
