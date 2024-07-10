@@ -3,6 +3,7 @@ title: "SCARY"
 date: 2020-08-01
 categories: 
   - elections
+thumbnail: "img/scary.png"
 tags: 
   - bp
   - catalyst

@@ -1,8 +1,9 @@
 ---
 title: "FLY ON THE WALL"
 date: 2020-07-25
+thumbnail: "img/fly-on-the-wall.jpg"
 categories: 
-  - stormy-saturday
+  - citycouncil
 tags: 
   - burrell
   - city-council

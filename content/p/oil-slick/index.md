@@ -1,8 +1,9 @@
 ---
 title: "OIL “SLICK”"
 date: 2020-07-29
+thumbnail: "img/oil-slick.jpg"
 categories: 
-  - wonderful-wednesday
+  - elections
 tags: 
   - bp
   - john-manelos

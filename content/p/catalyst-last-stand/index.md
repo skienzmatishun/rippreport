@@ -1,6 +1,7 @@
 ---
 title: "CATALYST LAST STAND"
 date: 2020-07-22
+thumbnail: "img/catalyst-last-stand.png"
 categories: 
   - wonderful-wednesday
 tags: 
