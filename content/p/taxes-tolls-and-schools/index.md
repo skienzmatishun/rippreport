@@ -1,6 +1,7 @@
 ---
 title: "TAXES, TOLLS AND SCHOOLS"
 date: 2019-07-17
+thumbnail: "img/taxes-tolls-and-schools.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

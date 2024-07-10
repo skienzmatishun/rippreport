@@ -1,8 +1,9 @@
 ---
 title: "THE JESTER"
 date: 2019-07-12
+thumbnail: "img/the-jester.jpg"
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

@@ -1,8 +1,9 @@
 ---
 title: "GOLD MINE FOR SALE"
 date: 2019-07-10
+thumbnail: "gold-mine-for-sale.jpg"
 categories: 
-  - wonderful-wednesday
+  - citycouncil
 authors: 
   - admin
 ---

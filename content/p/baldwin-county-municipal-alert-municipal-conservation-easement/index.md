@@ -1,8 +1,9 @@
 ---
 title: "BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT"
 date: 2019-06-28
+thumbnail: "img/baldwin-county-municipal-alert.png"
 categories: 
-  - freaky-friday
+  - citycouncil
 authors: 
   - admin
 ---

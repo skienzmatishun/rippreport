@@ -1,6 +1,7 @@
 ---
 title: "PASSPORT TO PARIS"
 date: 2019-07-01
+thumbnail: "img/passport-to-paris.jpg"
 categories: 
   - elections
 authors: 
