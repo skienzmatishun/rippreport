@@ -1,6 +1,7 @@
 ---
 title: "PISSED ON OR PISSED OFF"
 date: 2020-04-10
+thumbnail: "img/pissed-on-or-pissed-off.png"
 categories: 
   - freaky-friday
 authors: 

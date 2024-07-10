@@ -1,6 +1,7 @@
 ---
 title: "SHELTER IN PLACE"
 date: 2020-04-03
+thumbnail: "img/shelter-in-place.png"
 categories: 
   - freaky-friday
 authors: 
