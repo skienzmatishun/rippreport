@@ -1,6 +1,7 @@
 ---
 title: "PAY OFF AND ELECTION FRAUD"
 date: 2016-08-09
+thumbnail: "img/pay-off-and-election-fraud.jpg"
 tags: 
   - bobby-faust
   - kant

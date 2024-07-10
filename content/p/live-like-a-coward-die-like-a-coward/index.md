@@ -1,6 +1,7 @@
 ---
 title: "LIVE LIKE A COWARD - DIE LIKE A COWARD"
 date: 2021-06-25
+thumbnail: "img/live-like-a-coward-die-like-a-coward.png"
 categories: 
   - freaky-friday
 tags: 

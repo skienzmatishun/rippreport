@@ -1,6 +1,7 @@
 ---
 title: "SHOWING YOUR TRUE COLORS"
 date: 2016-09-02
+thumbnail: "img/showing-your-true-colors.jpg"
 categories: 
   - freaky-friday
 tags: 
