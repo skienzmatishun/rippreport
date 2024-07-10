@@ -1,6 +1,7 @@
 ---
 title: "MONEY ON THE TABLE"
 date: 2020-04-29
+thumbnail: "img/money-on-the-table.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "FREAKY FAIRHOPE"
 date: 2020-07-10
+thumbnail: "img/freaky-fairhope.png"
 categories: 
   - freaky-friday
 tags: 

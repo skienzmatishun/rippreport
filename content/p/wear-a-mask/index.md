@@ -1,6 +1,7 @@
 ---
 title: "WEAR A MASK"
 date: 2020-07-08
+thumbnail: "img/wear-a-mask.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

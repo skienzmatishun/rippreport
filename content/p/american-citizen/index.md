@@ -1,6 +1,7 @@
 ---
 title: "AMERICAN CITIZEN"
 date: 2020-04-22
+thumbnail: "img/american-citizen.png"
 categories: 
   - wonderful-wednesday
 tags: 
