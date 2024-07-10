@@ -1,6 +1,7 @@
 ---
 title: "CATALYST DOES BALDWIN COUNTY"
 date: 2018-06-29
+thumbnail: "img/catalyst-does-baldwin-county.jpg"
 categories: 
   - freaky-friday
 authors: 

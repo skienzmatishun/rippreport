@@ -1,6 +1,7 @@
 ---
 title: "BUSHWHACKED & HIJACKED - FAIRHOPE STYLE"
 date: 2018-06-08
+thumbnail: "img/bushwhacked-and-hijacked-fairhope-style.png"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "AMERICA - THE GOLDEN DOOR"
 date: 2018-06-20
+thumbnail: "img/america-the-golden-door.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

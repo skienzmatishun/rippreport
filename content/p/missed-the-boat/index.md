@@ -1,6 +1,7 @@
 ---
 title: "MISSED THE BOAT"
 date: 2018-06-13
+thumbnail: "img/missed-the-boat.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

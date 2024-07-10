@@ -1,6 +1,7 @@
 ---
 title: "CATALYST HELD BACK"
 date: 2018-06-06
+thumbnail: "img/catalyst-held-back.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -19,6 +20,7 @@ Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only
 
 Source: [www.fox10tv.com/category/298869/election-results](http://www.fox10tv.com/category/298869/election-results)
 
+</div>
 Catalyst felt the pain of the People’s Choice. The Ripp Report was following 8 Catalyst Candidates that were well funded, however they only secured one race by a significant margin. Judge Scully received 60% in the District Court Judge, Baldwin County, Place no. 2.
 
 Catalyst won County Commission District No. 1, With Jeb Ball inching out Frank Burt by only 1000 votes. Congratulations to Mr. Ball. Ball will face conflicts of interest in holding down the County Commission seat and Baldwin County Substance Abuse.
@@ -28,6 +30,8 @@ Catalyst won place 2 again by only 1% approximately 1000 votes. Joe Davis beat J
 Skip Gruber, District 4 beat Jerry Johnson by 700 votes. Since Burt lost in District 1, Skip, an incumbent, can become an asset to the new County Commission.
 
 Catalyst lost the Probate Judge race which will be one of 5 races in the run off. State Senate Seat 32 will have Catalyst Elliott facing David Northcutt the People’s Choice. Elliott needs to go.
+
+<div class="link-preview">
 
 ## SHARE SHARE SHARE
 

@@ -1,8 +1,9 @@
 ---
 title: "CATALYST SHERIFF"
 date: 2018-06-01
+thumbnail: "img/catalyst-sheriff.jpg"
 categories: 
-  - freaky-friday
+  - bcso
 authors: 
   - ripp-report
 ---
