@@ -1,6 +1,7 @@
 ---
 title: "OBITUARY"
 date: 2021-07-20
+thumbnail: "img/obituary.jpg"
 categories: 
   - obituary
 authors: 

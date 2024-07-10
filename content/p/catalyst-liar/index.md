@@ -33,6 +33,7 @@ Councilman Burrell of Fairhope gives a news report on sewer improvements in Fair
 
 Freaky Friday gives you the unfiltered truth:
 <div class="link-preview">
+
 ## CATALYST SHIT CREEK
 
 ### CATALYST SHIT CREEK
@@ -81,6 +82,7 @@ Prior to the purchase the city had a $1.2 million surplus after the purchase the
 
 Great negotiator, my ass.
 <div class="link-preview">
+
 ## YOU DON’T KNOW JACK
 
 ### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
@@ -91,6 +93,7 @@ I have followed four Fairhope city councils and one thing I can tell you is with
 
 Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
 </div>
+
 CATALYST is bad enough but Burrell represents the worst of CATALYST.
 
 Burrell is number one on the list to vote out, Aug. 25th.
