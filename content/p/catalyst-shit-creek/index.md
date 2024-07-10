@@ -1,8 +1,9 @@
 ---
 title: "CATALYST SHIT CREEK"
 date: 2020-05-22
+thumbnail: "img/catalyst-shit-creek.jpg"
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - bp
   - catalyst

@@ -1,6 +1,7 @@
 ---
 title: "CATALYST JUSTICE"
 date: 2020-05-21
+thumbnail: "img/catalyst-justice.png"
 categories: 
   - thursday-thunder
 tags: 

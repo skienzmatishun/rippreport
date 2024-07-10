@@ -1,5 +1,6 @@
 ---
 title: "CATALYST CANDIDATES ⁠— EXCESS BAGGAGE"
+thumbnail: "img/catalyst-candidates-excess-baggage.png"
 date: 2020-05-13
 categories: 
   - wonderful-wednesday

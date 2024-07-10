@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE — NO HOPE — FAUXHOPE"
 date: 2020-05-02
+thumbnail: "img/fairhope-no-hope-fauxhope.png"
 categories: 
   - citycouncil
 tags: 

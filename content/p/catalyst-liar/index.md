@@ -1,6 +1,7 @@
 ---
 title: "CATALYST LIAR"
 date: 2020-05-23
+thumbnail: "catalyst-liar.jpg"
 categories: 
   - saturday-sunshine
 tags: 

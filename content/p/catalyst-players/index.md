@@ -1,6 +1,7 @@
 ---
 title: "CATALYST PLAYERS"
 date: 2020-05-15
+thumbnail: "img/catalyst-players.jpg"
 categories: 
   - freaky-friday
 tags: 
