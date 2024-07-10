@@ -1,6 +1,7 @@
 ---
 title: "DOUBLE RED FLAGS - FAUX HOPE"
 date: 2021-06-18
+thumbnail: "img/double-red-flags-faux-hope.png"
 categories: 
   - freaky-friday
 authors: 

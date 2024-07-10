@@ -1,6 +1,7 @@
 ---
 title: "ALABAMA ETHICS → SELF DEALING → IMMUNITY"
 date: 2021-07-02
+thumbnail: "alabama-ethics-self-dealing-immunity.png"
 categories: 
   - ethics
 authors: 
