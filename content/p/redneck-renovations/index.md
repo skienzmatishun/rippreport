@@ -1,6 +1,7 @@
 ---
 title: "REDNECK RENOVATIONS"
 date: 2021-01-24
+thumbnail: "img/redneck-renovations.jpg"
 categories: 
   - citycouncil
 tags: 
