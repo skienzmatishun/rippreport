@@ -1,32 +1,33 @@
+{{- /* Get all regular pages from main sections */ -}}
 {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 {{- $currentPost := . }}
 {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+{{- $recentToShow := slice }}
 
-{{- $getRecentToShow := func (pages) (slice) }}
-  {{- if .IsHome }}
-    {{- return (after 10 pages) }}
-  {{- else if .Paginator.HasPages }}
-    {{- return (where pages "Params.categories" "not in" (slice "holiday")) }}
+{{- /* Determine posts to show based on page type */ -}}
+{{- if .IsHome }}
+  {{- $recentToShow = after 10 $recent }}
+{{- else if .Paginator.HasPages }}
+  {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+{{- else }}
+  {{- $currentCategories := .Params.categories | default slice }}
+  {{- if gt (len $currentCategories) 0 }}
+    {{- $firstCategory := index $currentCategories 0 }}
+    {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
   {{- else }}
-    {{- $currentCategories := .Params.categories | default slice }}
-    {{- if gt (len $currentCategories) 0 }}
-      {{- $firstCategory := index $currentCategories 0 }}
-      {{- return (where pages "Params.categories" "intersect" (slice $firstCategory)) }}
-    {{- else }}
-      {{- return (where pages "Params.categories" "not in" (slice "holiday")) }}
-    {{- end }}
+    {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
   {{- end }}
 {{- end }}
 
-{{- $recentToShow := $getRecentToShow $recent }}
+{{- /* Filter out the current post and posts in 'holiday' category */ -}}
 {{- $filteredRecent := slice }}
-
 {{- range $recentToShow }}
   {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
     {{- $filteredRecent = $filteredRecent | append . }}
   {{- end }}
 {{- end }}
 
+{{- /* Display the widget if there are filtered recent posts */ -}}
 {{- if gt (len $filteredRecent) 0 }}
 <div class="widget-recent widget">
   <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
@@ -36,19 +37,15 @@
         {{- $thumbnailURL := "" }}
         {{- if .Params.thumbnail }}
           {{- $thumbnailURL = .Params.thumbnail }}
-        {{- else if and .Page (eq (printf "%T" .Page) "*hugolib.page") }}
-          {{- $thumbnailURL = "../../images/default-thumbnail.jpg" }} <!-- Default thumbnail -->
         {{- else }}
-          {{- $thumbnailURL = "../../../images/default-thumbnail.jpg" }} <!-- Default thumbnail -->
+          {{- $thumbnailURL = "path/to/default-thumbnail.jpg" }} <!-- Set a default thumbnail path -->
         {{- end }}
         <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
           <a class="widget__link" href="{{ .RelPermalink }}">
             {{ .Title }}
-            {{- with .Params.thumbnail }}
-              <div style="min-height:200px;" class="widget__thumbnail">
-                <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
-              </div>
-            {{- end }}
+            <div style="min-height:200px;" class="widget__thumbnail">
+              <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
+            </div>
           </a>
           <p class="widget__summary">{{ .Summary }}</p>
         </li>
