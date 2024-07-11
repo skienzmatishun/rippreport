@@ -7,7 +7,7 @@
 {{- /* Determine posts to show based on page type */ -}}
 {{- if .IsHome }}
   {{- $recentToShow = after 10 $recent }}
-{{- else if .Paginator.HasPages }}
+{{- else if .Paginator.PageNumber }}
   {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
 {{- else }}
   {{- $currentCategories := .Params.categories | default slice }}
