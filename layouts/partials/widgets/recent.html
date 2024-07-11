@@ -33,6 +33,19 @@
   {{- end }}
 {{- end }}
 
+<!-- Debug Statements -->
+<div style=display:none>
+  <p>Is Home: {{ .IsHome }}</p>
+  <p>Current Post Permalink: {{ $currentPost.Permalink }}</p>
+  <p>Current Post Categories: {{ $currentPost.Params.categories }}</p>
+  <p>Recent Posts to Show: {{ len $recentToShow }}</p>
+  <ul>
+    {{- range $recentToShow }}
+      <li>{{ .Title }} - {{ .RelPermalink }}</li>
+    {{- end }}
+  </ul>
+</div>
+
 {{- if gt (len $recentToShow) 0 }}
   <div class="widget-recent widget">
     <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
