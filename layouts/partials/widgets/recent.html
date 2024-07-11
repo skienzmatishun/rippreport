@@ -11,8 +11,8 @@
 
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
-{{- if and (ne . $currentPost) (not (range $cat := .Params.categories (not (eq $cat "holiday") (not (eq $cat "another_excluded_category"))))) }}
-  {{- $filteredRecent = $filteredRecent | append . }}
+{{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+{{- $filteredRecent = $filteredRecent | append . }}
 {{- end }}
 {{- end }}
 
@@ -24,10 +24,10 @@
       {{- range first $recent_num $filteredRecent }}
       {{- $thumbnailURL := "../../../" }}
       {{- if and .Params.thumbnail (ne .Page nil) (eq (printf "%T" .Page) "*hugolib.page") }}
-        {{- $thumbnailURL = "../../" }}
+      {{- $thumbnailURL = "../../" }}
       {{- end }}
       <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in
-          .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
+        .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
         <a class="widget__link" href="{{ .RelPermalink }}">
           {{ .Title }}
           {{- with .Params.thumbnail }}
@@ -37,7 +37,7 @@
           </div>
           {{- end }}
         </a>
-        <p class="widget__summary">{{ .Summary }}</p> </li>
+        <p class="widget__summary">{{ .Summary }}</p>  </li>
       {{- end }}
     </ul>
   </div>
