@@ -4,11 +4,11 @@
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
-  {{- if in $currentPost.Params.categories "holiday" }}
+  {{- if and $currentPost.Params.categories (in $currentPost.Params.categories "holiday") }}
     {{- $recentToShow = where $recent "Params.categories" "holiday" | where "Permalink" "ne" $currentPost.Permalink }}
   {{- else }}
     {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
-    {{- if len $currentPost.Params.categories }}
+    {{- if and $currentPost.Params.categories (len $currentPost.Params.categories) }}
       {{- $categories := $currentPost.Params.categories }}
       {{- $filteredRecent := slice }}
       {{- range $recentToShow }}
@@ -20,7 +20,7 @@
     {{- end }}
   {{- end }}
 {{- else }}
-  {{- if in $currentPost.Params.categories "holiday" }}
+  {{- if and $currentPost.Params.categories (in $currentPost.Params.categories "holiday") }}
     {{- $recentToShow = after 10 (where $recent "Params.categories" "holiday") | where "Permalink" "ne" $currentPost.Permalink }}
   {{- else }}
     {{- $recentToShow = after 10 (where $recent "Params.categories" "not in" (slice "holiday")) }}
