@@ -4,7 +4,7 @@
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
-  {{- $currentCategories := .Params.categories }}
+  {{- $currentCategories := .Params.categories | default slice }}
   {{- if gt (len $currentCategories) 0 }}
     {{- $firstCategory := index $currentCategories 0 }}
     {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
