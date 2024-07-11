@@ -4,11 +4,12 @@
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
-  {{- if (isset .Params.categories) }}
-    {{- $relevantCategories := .Params.categories }}
-    {{- $recentToShow = where $recent "Params.categories" (where $relevantCategories "ne" "holiday") }}
+  {{- $currentCategories := .Params.categories }}
+  {{- if gt (len $currentCategories) 0 }}
+    {{- $firstCategory := index $currentCategories 0 }}
+    {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
   {{- else }}
-    {{- $recentToShow = $recent | first $recent_num }}
+    {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
   {{- end }}
 {{- else }}
   {{- $recentToShow = after 10 $recent }}
@@ -16,7 +17,7 @@
 
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
-  {{- if ne . $currentPost }}
+  {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
     {{- $filteredRecent = $filteredRecent | append . }}
   {{- end }}
 {{- end }}
@@ -31,18 +32,17 @@
         {{- if and .Params.thumbnail (ne .Page nil) (eq (printf "%T" .Page) "*hugolib.page") }}
           {{- $thumbnailURL = "../../" }}
         {{- end }}
-        <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in
-          .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
+        <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
           <a class="widget__link" href="{{ .RelPermalink }}">
             {{ .Title }}
             {{- with .Params.thumbnail }}
               <div style="min-height:200px;" class="widget__thumbnail">
-                <img loading="lazy" src="{{ $thumbnailURL }}{{ . }}" alt="Thumbnail"
-                  class="widget__thumbnail-image">
+                <img loading="lazy" src="{{ $thumbnailURL }}{{ . }}" alt="Thumbnail" class="widget__thumbnail-image">
               </div>
             {{- end }}
           </a>
-          <p class="widget__summary">{{ .Summary }}</p> </li>
+          <p class="widget__summary">{{ .Summary }}</p>
+        </li>
       {{- end }}
     </ul>
   </div>
