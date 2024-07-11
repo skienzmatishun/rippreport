@@ -1,4 +1,5 @@
 {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{- $recent = where $recent "Params.categories" "not in" (slice "holiday") }}
 {{- $currentPost := . }}
 {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
 {{- $recentToShow := slice }}
