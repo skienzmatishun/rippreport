@@ -38,10 +38,11 @@
   <p>Is Home: {{ .IsHome }}</p>
   <p>Current Post Permalink: {{ $currentPost.Permalink }}</p>
   <p>Current Post Categories: {{ $currentPost.Params.categories }}</p>
+  <p>Recent Posts Count: {{ len $recent }}</p>
   <p>Recent Posts to Show: {{ len $recentToShow }}</p>
   <ul>
     {{- range $recentToShow }}
-      <li>{{ .Title }} - {{ .RelPermalink }}</li>
+      <li>{{ .Title }} - {{ .RelPermalink }} - Categories: {{ .Params.categories }}</li>
     {{- end }}
   </ul>
 </div>
