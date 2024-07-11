@@ -1,26 +1,24 @@
 {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-{{- $recent = where $recent "Params.categories" "not in" (slice "holiday") }}
 {{- $currentPost := . }}
 {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
-  {{- $category := index .Params.categories 0 }}
-  {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $category) }}
+{{- $recentToShow = $recent }}
 {{- else }}
-  {{- $recentToShow = after 10 $recent }}
+{{- $recentToShow = after 10 $recent }}
 {{- end }}
 
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
-  {{- if ne . $currentPost }}
-    {{- $filteredRecent = $filteredRecent | append . }}
-  {{- end }}
+{{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+{{- $filteredRecent = $filteredRecent | append . }}
+{{- end }}
 {{- end }}
 
 {{- if gt (len $filteredRecent) 0 }}
 <div class="widget-recent widget">
-  <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}Related{{ end }}</h4>
+  <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
   <div class="widget__content">
     <ul class="widget__list">
       {{- range first $recent_num $filteredRecent }}
@@ -39,8 +37,7 @@
           </div>
           {{- end }}
         </a>
-        <p class="widget__summary">{{ .Summary }}</p>
-      </li>
+        <p class="widget__summary">{{ .Summary }}</p>  </li>
       {{- end }}
     </ul>
   </div>
