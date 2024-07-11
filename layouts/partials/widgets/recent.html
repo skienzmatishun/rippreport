@@ -4,11 +4,11 @@
 {{- $recentToShow := slice }}
 
 {{- if not .IsHome }}
-  {{- if (isset .Params.categories) }}
-    {{- $relevantCategories := .Params.categories }}
+  {{- if (isset .Params.categories "") }}  {{- $relevantCategories := .Params.categories }}
     {{- $recentToShow = where $recent "Params.categories" (where $relevantCategories "ne" "holiday") }}
   {{- else }}
-    {{- $recentToShow = $recent | first $recent_num }}  {{- end }}
+    {{- $recentToShow = $recent | first $recent_num }}
+  {{- end }}
 {{- else }}
   {{- $recentToShow = after 10 $recent }}
 {{- end }}
