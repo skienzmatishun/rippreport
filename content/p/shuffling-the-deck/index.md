@@ -33,6 +33,5 @@ Mack’s replacement for Sheriff should in no way have any connection to Mack. W
 
 A special election should be held and the current deputies should lobby for their choice. Mack will try to influence the Governor, if it comes to an appointment, to select his hand picked choice. Pressure should be applied to the county commission to support change within the BCSO. Mack will use the commissioners like puppets, so pay attention.
 
-<style>.cactus-comment:has(.cactus-comment-time[title="Sun Jul 14 17:18:28 2024 UTC"]), .cactus-comment:has(.cactus-comment-time[title="Sun Jul 14 17:16:57 2024 UTC"])  {opacity: 0.12;order: 15;}</style>
-
+<style>.cactus-comment:has(.cactus-comment-time[title="Sun Jul 14 17:18:28 2024 UTC"]), .cactus-comment:has(.cactus-comment-time[title="Sun Jul 14 17:16:57 2024 UTC"]), .cactus-comment:has(.cactus-comment-time[title="Sun Jul 14 17:18:28 2024 UTC"]), .cactus-comment:has(.cactus-comment-time[title="Sun Jul 14 11:23:29 2024 UTC"])    {opacity: 0.12;order: 15;}</style>
 {{< chat h452 >}}
