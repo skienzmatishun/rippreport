@@ -324,7 +324,7 @@ display:flex;
     font-family:Roboto;
 }
 .widget__item a h3 {
-    color: white;
+    color: #fff;
     font-size: 1.4rem;
     font-weight: 900;
     display: block;
@@ -332,7 +332,10 @@ display:flex;
     font-family: Roboto;
     padding: 1.3rem;
     text-transform: capitalize;
+    background: #171717a3;
+    border-bottom: solid #8a8a8a .5px;
 }
+
 .widget__title {
     color: white;
     border: none;
