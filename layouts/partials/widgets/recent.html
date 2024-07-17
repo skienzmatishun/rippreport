@@ -33,7 +33,7 @@
       {{- range first $recent_num $filteredRecent }}
         {{- $thumbnailURL := "" }}
         {{- if .Params.thumbnail }}
-          {{- $thumbnail := .Params.thumbnail }}
+          {{- $thumbnail := .Params.thumbnail | string }}
           {{- $ext := (strings.LastIndex $thumbnail ".") }}
           {{- if gt $ext 0 }}
             {{- $thumbnailBase := (slice $thumbnail 0 $ext) }}
@@ -43,7 +43,7 @@
             {{- $thumbnailURL = (printf "%s-thumb" $thumbnail) | absURL }}
           {{- end }}
         {{- else }}
-          {{- $defaultThumbnail := "path/to/default-thumbnail.jpg" }}
+          {{- $defaultThumbnail := "path/to/default-thumbnail.jpg" | string }}
           {{- $ext := (strings.LastIndex $defaultThumbnail ".") }}
           {{- if gt $ext 0 }}
             {{- $thumbnailBase := (slice $defaultThumbnail 0 $ext) }}
