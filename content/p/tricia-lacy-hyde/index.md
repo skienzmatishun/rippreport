@@ -1,9 +1,9 @@
 ---
-title: "Wonderful Wednesday-6"
+title: "TRICIA LACY HYDE"
 date: 2018-05-16
-thumbnail: "img/wonderful-wednesday-6.png"
+thumbnail: "img/tricia-lacy-hyde.png"
 categories: 
-  - wonderful-wednesday
+  - orbituary
 authors: 
   - ripp-report
 ---

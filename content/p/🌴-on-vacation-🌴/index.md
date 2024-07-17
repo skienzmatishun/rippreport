@@ -3,7 +3,7 @@ title: "ON VACATION"
 date: 2021-04-23
 thumbnail: "img/on-vacation.jpg"
 categories: 
-  - freaky-friday
+  - holiday
 authors: 
   - admin
 ---

@@ -3,7 +3,7 @@ title: "VETERANS DAY"
 date: 2017-11-10
 thumbnail: "img/veteransday.jpg"
 categories: 
-  - freaky-friday
+  - holiday
 authors: 
   - ripp-report
 ---
