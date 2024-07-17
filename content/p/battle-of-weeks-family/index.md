@@ -1,6 +1,7 @@
 ---
 title: "BATTLE OF WEEKS “FAMILY”"
 date: 2020-12-07
+thumbnail: "img/battle-of-weeks-family.jpg"
 categories: 
   - monday-madness
 tags: 
