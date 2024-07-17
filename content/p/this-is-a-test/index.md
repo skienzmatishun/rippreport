@@ -2,7 +2,7 @@
 title: "THIS IS A TEST"
 date: 2021-10-22
 categories: 
-  - freaky-friday
+  - ethics
 authors: 
   - admin
 ---

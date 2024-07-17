@@ -2,6 +2,7 @@
 title: "BALDWIN COUNTY WRONGFUL CONVICTION"
 date: 2023-10-07T00:00:00Z
 thumbnail: "img/baldwin-county-wrongful-conviction.jpg"
+summary: "The following is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system."
 categories: 
   - freaky-friday
   - dwtd
