@@ -34,7 +34,7 @@
         {{- $thumbnailURL := "" }}
         {{- if .Params.thumbnail }}
           {{- $thumbnail := printf "%s" .Params.thumbnail }}
-          {{- $ext := strings.LastIndex $thumbnail "." }}
+          {{- $ext := strings.LastIndex (string $thumbnail) "." }}
           {{- if gt $ext 0 }}
             {{- $thumbnailBase := (slice $thumbnail 0 $ext) }}
             {{- $thumbnailExt := (slice $thumbnail $ext) }}
@@ -44,7 +44,7 @@
           {{- end }}
         {{- else }}
           {{- $defaultThumbnail := "path/to/default-thumbnail.jpg" }}
-          {{- $ext := strings.LastIndex $defaultThumbnail "." }}
+          {{- $ext := strings.LastIndex (string $defaultThumbnail) "." }}
           {{- if gt $ext 0 }}
             {{- $thumbnailBase := (slice $defaultThumbnail 0 $ext) }}
             {{- $thumbnailExt := (slice $defaultThumbnail $ext) }}
