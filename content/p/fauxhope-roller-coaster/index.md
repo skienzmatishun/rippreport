@@ -1,6 +1,7 @@
 ---
 title: "FAUXHOPE ROLLER-COASTER"
 date: 2022-04-12
+thumbnail: "img/fauxhope-roller-coaster.jpg"
 categories: 
   - terrific-tuesday
 authors: 

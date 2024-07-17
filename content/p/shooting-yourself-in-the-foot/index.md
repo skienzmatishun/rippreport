@@ -1,6 +1,7 @@
 ---
 title: "SHOOTING YOURSELF IN THE FOOT"
 date: 2022-05-17
+thumbnail: "img/shooting-yourself-in-the-foot.jpg"
 categories: 
   - terrific-tuesday
 authors: 
