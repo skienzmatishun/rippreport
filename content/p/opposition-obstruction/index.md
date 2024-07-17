@@ -1,6 +1,7 @@
 ---
 title: "OPPOSITION / OBSTRUCTION"
 date: 2017-09-15
+thumbnail: "img/opposition-obstruction.jpg"
 categories: 
   - freaky-friday
 tags: 

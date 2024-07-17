@@ -1,8 +1,9 @@
 ---
 title: "CORRUPTION IS LEGAL IN AMERICA"
 date: 2017-09-13
+thumbnail: "img/corruption-is-legal-in-america.jpg"
 categories: 
-  - wonderful-wednesday
+  - ethics
 tags: 
   - ethics-commission
 authors: 
