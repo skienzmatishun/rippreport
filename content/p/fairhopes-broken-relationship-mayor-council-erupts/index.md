@@ -1,6 +1,7 @@
 ---
 title: "GOOD OLE BOYS ALIVE AND WELL"
 date: 2017-04-26
+thumbnail: "img/good-ole-boys-alive-and-well.png"
 categories: 
   - wonderful-wednesday
 tags: 

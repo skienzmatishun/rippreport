@@ -1,8 +1,9 @@
 ---
 title: "FAIRNESS"
 date: 2017-04-14
+thumbnail: "img/fairness.jpg"
 categories: 
-  - freaky-friday
+  - citycouncil
 tags: 
   - angelo-corte
   - burrell

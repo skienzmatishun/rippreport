@@ -1,8 +1,9 @@
 ---
 title: "MERRY CHRISTMAS"
 date: 2020-12-25
+thumbnail: "img/merry-christmas.jpg"
 categories: 
-  - freaky-friday
+  - holiday
 authors: 
   - admin
 ---
