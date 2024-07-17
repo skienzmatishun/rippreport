@@ -328,9 +328,9 @@ display:flex;
     font-size: 1.3rem;
     font-weight: 900;
     display: block;
-    margin-bottom: 10px;
     text-align: center;
     font-family:Roboto;
+    padding:2rem;
 }
 .widget__title {
     color: white;
