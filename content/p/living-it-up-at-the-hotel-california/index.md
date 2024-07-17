@@ -1,6 +1,7 @@
 ---
 title: "Living it Up at The Hotel California"
 date: 2016-10-07
+thumbnail: "img/living-it-up-at-the-hotel-california.png"
 categories: 
   - freaky-friday
 tags: 
