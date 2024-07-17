@@ -1,6 +1,7 @@
 ---
 title: "FREE SPEECH"
 date: 2017-09-08
+thumbnail: "img/free-speech.jpg"
 categories: 
   - citycouncil
 authors: 

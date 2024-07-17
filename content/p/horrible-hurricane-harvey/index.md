@@ -1,8 +1,9 @@
 ---
 title: "HORRIBLE HURRICANE HARVEY"
 date: 2017-09-01
+thumbnail: "img/horrible-hurricane-harvey.jpg"
 categories: 
-  - freaky-friday
+  - events
 authors: 
   - ripp-report
 ---
