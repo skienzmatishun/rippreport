@@ -1,8 +1,9 @@
 ---
 title: "DIVORCE CORP"
 date: 2017-09-06
+thumbnail: "img/divorce-corp.jpg"
 categories: 
-  - wonderful-wednesday
+  - familycourt
 tags: 
   - thomason
 authors: 
