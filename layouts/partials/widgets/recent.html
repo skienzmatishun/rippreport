@@ -21,11 +21,11 @@
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
   {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-    {{- $thumbnailURL := "" }}
-    {{- if .Params.thumbnail }}
-      {{- $thumbnailURL = printf "%s" .Params.thumbnail | absURL }}
-    {{- else }}
-      {{- $thumbnailURL = "path/to/default-thumbnail.jpg" | absURL }}
+    {{- with .Params.thumbnail }}
+      {{- $thumbnailURL := printf "%s" . | absURL }}
+      <div class="widget__thumbnail">
+        <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
+      </div>
     {{- end }}
     {{- $filteredRecent = $filteredRecent | append . }}
   {{- end }}
@@ -41,10 +41,7 @@
           <a class="widget__link" href="{{ .RelPermalink }}">
             {{ .Title }}
             {{- with .Params.thumbnail }}
-              <div style="min-height: 200px;" class="widget__thumbnail">
-                <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
-              </div>
-            {{- end }}
+              {{- end }}
           </a>
           <p class="widget__summary">{{ .Summary }}</p>
         </li>
