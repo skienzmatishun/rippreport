@@ -343,7 +343,7 @@ display:flex;
     text-align: center;
     font-family: Roboto;
 }
-.widget__title h4{
+h4.widget__title{
     border-bottom: solid #8a8a8a 1px;
 }
 .pager {
