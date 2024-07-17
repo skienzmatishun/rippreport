@@ -34,8 +34,12 @@
         <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
           <a class="widget__link" href="{{ .RelPermalink }}">
             {{ .Title }}
-            {{- if .Params.thumbnail }}  <div style="min-height: 200px;" class="widget__thumbnail">
-                <img loading="lazy" src="{{ .Params.thumbnail | absURL }}" alt="Thumbnail" class="widget__thumbnail-image">
+            {{- if .Params.thumbnail }}
+              <div style="min-height: 200px;" class="widget__thumbnail">
+                {{- $thumbnail := .Params.thumbnail }}
+                {{- $thumb := replace $thumbnail ".jpg" "-thumb.jpg" }}
+                {{- $thumb := replace $thumb ".png" "-thumb.png" }}
+                <img loading="lazy" src="{{ $thumb | absURL }}" alt="Thumbnail" class="widget__thumbnail-image">
               </div>
             {{- end }}
             <p class="widget__summary">{{ .Summary }}</p>
