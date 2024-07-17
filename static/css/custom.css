@@ -331,6 +331,7 @@ display:flex;
     text-align: center;
     font-family:Roboto;
     padding:2rem;
+    text-transform: capitalize;
 }
 .widget__title {
     color: white;
