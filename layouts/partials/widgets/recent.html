@@ -23,8 +23,11 @@
  {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
    {{- $thumbnailURL := "" }}
    {{- if .Params.thumbnail }}
-     {{- $fileName := .Params.thumbnail | absURL | replaceExt "" }}       {{- $thumbnailURL = printf "%s-thumb.%s" $fileName (.Params.thumbnail | ext) | absURL }}       {{- else }}
-     {{- $thumbnailURL = "path/to/default-thumbnail.jpg" | absURL }}      {{- end }}
+     {{- $fileName := substr .Params.thumbnail 0 (sub (len .Params.thumbnail) (len (ext .Params.thumbnail)))) }}
+     {{- $thumbnailURL = printf "%s-thumb.%s" $fileName (ext .Params.thumbnail) | absURL }}
+     {{- else }}
+     {{- $thumbnailURL = "path/to/default-thumbnail.jpg" | absURL }}
+     {{- end }}
    {{- $filteredRecent = $filteredRecent | append . }}
  {{- end }}
 {{- end }}
