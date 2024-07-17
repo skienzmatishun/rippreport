@@ -1,6 +1,7 @@
 ---
 title: "BALDWIN COUNTY FAMILY COURT"
 date: 2017-09-20
+thumbnail: "img/baldwin-county-family-court.png"
 categories: 
   - familycourt
 tags: 
