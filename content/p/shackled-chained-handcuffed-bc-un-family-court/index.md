@@ -1,6 +1,7 @@
 ---
 title: "SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT"
 date: 2021-08-21
+thumbnail: "img/shacked-chained-handcuffed-b-c-un-family-court.png"
 categories: 
   - saturday-sunshine
 authors: 

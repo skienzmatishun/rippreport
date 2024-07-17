@@ -3,7 +3,7 @@ title: "Inaugural Alabama Medical Cannabis Conference"
 date: 2023-08-08
 thumbnail: "img/cannabis-conference.jpg"
 categories: 
-  - terrific-tuesday
+  - events
 authors: 
   - admin
 ---

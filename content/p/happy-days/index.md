@@ -1,6 +1,7 @@
 ---
 title: "HAPPY DAYS"
 date: 2022-02-11
+thumbnail: "img/happy-days.png"
 categories: 
   - freaky-friday
 authors: 
