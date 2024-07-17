@@ -399,7 +399,7 @@ p {
     margin: 2em;
     margin-top: 0px;
 }
-.cactus-comment-avatar-placeholder {display:none;}
+.cactus-comment-avatar-placeholder {display:none !important;}
 .post__title {
     margin-bottom: 10px;
     display: flex;
