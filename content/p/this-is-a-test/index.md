@@ -1,6 +1,7 @@
 ---
 title: "THIS IS A TEST"
 date: 2021-10-22
+thumbnail: "img/this-is-a-test.jpg"
 categories: 
   - ethics
 authors: 
