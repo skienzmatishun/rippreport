@@ -225,6 +225,7 @@ display:none;
     font-size: 65px;
     word-wrap: normal;
     font-weight: 900;
+        text-transform:uppercase;
 }
 
 .post {
@@ -331,7 +332,7 @@ display:flex;
     text-align: center;
     font-family:Roboto;
     padding:2rem;
-    text-transform: capitalize;
+    text-transform:uppercase;
 }
 .widget__title {
     color: white;
