@@ -1,6 +1,7 @@
 ---
 title: "COMMUNITY OR DEVELOPER"
 date: 2017-04-08
+thumbnail: "img/community-or-developer.png"
 categories: 
   - freaky-friday
 tags: 
