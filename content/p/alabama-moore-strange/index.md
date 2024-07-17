@@ -1,8 +1,9 @@
 ---
 title: "ALABAMA MOORE STRANGE"
 date: 2017-09-22
+thumbnail: "img/alabama-moore-strange.jpg"
 categories: 
-  - freaky-friday
+  - national
 tags: 
   - moore
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "SWITCHING HATS"
 date: 2017-09-29
+thumbnail: "img/switching-hats.jpg"
 categories: 
   - freaky-friday
 tags: 
