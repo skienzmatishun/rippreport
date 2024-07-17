@@ -1,6 +1,7 @@
 ---
 title: "MID-TERM ELECTIONS - VOTE INCUMBENTS OUT"
 date: 2018-02-21
+thumbnail: "img/mid-term-elections-vote-incumbents-out.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

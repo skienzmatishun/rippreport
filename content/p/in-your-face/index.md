@@ -1,6 +1,7 @@
 ---
 title: "IN YOUR FACE"
 date: 2018-02-28
+thumbnail: "img/in-your-face.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
