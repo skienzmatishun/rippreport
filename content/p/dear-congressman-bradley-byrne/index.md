@@ -1,5 +1,5 @@
 ---
-title: "FREAKY FRIDAY - Dear Congressman Bradley Byrne"
+title: "Dear Congressman Bradley Byrne"
 date: 2016-06-03
 categories: 
   - freaky-friday

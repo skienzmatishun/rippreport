@@ -1,9 +1,8 @@
 ---
-title: "FREAKY FRIDAY"
+title: "FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS"
 date: 2016-05-27
 categories: 
   - thursday-thunder
-  - freaky-friday
 tags: 
   - fly-creek
   - kant

@@ -2,6 +2,8 @@
 title: "HAPPY NEW YEAR"
 date: 2018-01-01
 thumbnail: "img/happy-new-year.jpg"
+categories:
+  - holiday
 authors: 
   - ripp-report
 ---
