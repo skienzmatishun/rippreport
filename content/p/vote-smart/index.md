@@ -3,7 +3,7 @@ title: "VOTE SMART"
 date: 2024-02-13
 thumbnail: "img/vote-smart.jpg"
 categories: 
-  - freaky-friday
+  - elections
 authors: 
   - admin
 ---
