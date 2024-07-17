@@ -33,24 +33,24 @@
       {{- range first $recent_num $filteredRecent }}
         {{- $thumbnailURL := "" }}
         {{- if .Params.thumbnail }}
-          {{- $thumbnail := .Params.thumbnail | string }}
-          {{- $ext := (strings.LastIndex $thumbnail ".") }}
+          {{- $thumbnail := printf "%s" .Params.thumbnail }}
+          {{- $ext := strings.LastIndex $thumbnail "." }}
           {{- if gt $ext 0 }}
             {{- $thumbnailBase := (slice $thumbnail 0 $ext) }}
             {{- $thumbnailExt := (slice $thumbnail $ext) }}
-            {{- $thumbnailURL = (printf "%s-thumb%s" $thumbnailBase $thumbnailExt) | absURL }}
+            {{- $thumbnailURL = printf "%s-thumb%s" $thumbnailBase $thumbnailExt | absURL }}
           {{- else }}
-            {{- $thumbnailURL = (printf "%s-thumb" $thumbnail) | absURL }}
+            {{- $thumbnailURL = printf "%s-thumb" $thumbnail | absURL }}
           {{- end }}
         {{- else }}
-          {{- $defaultThumbnail := "path/to/default-thumbnail.jpg" | string }}
-          {{- $ext := (strings.LastIndex $defaultThumbnail ".") }}
+          {{- $defaultThumbnail := "path/to/default-thumbnail.jpg" }}
+          {{- $ext := strings.LastIndex $defaultThumbnail "." }}
           {{- if gt $ext 0 }}
             {{- $thumbnailBase := (slice $defaultThumbnail 0 $ext) }}
             {{- $thumbnailExt := (slice $defaultThumbnail $ext) }}
-            {{- $thumbnailURL = (printf "%s-thumb%s" $thumbnailBase $thumbnailExt) | absURL }}
+            {{- $thumbnailURL = printf "%s-thumb%s" $thumbnailBase $thumbnailExt | absURL }}
           {{- else }}
-            {{- $thumbnailURL = (printf "%s-thumb" $defaultThumbnail) | absURL }}
+            {{- $thumbnailURL = printf "%s-thumb" $defaultThumbnail | absURL }}
           {{- end }}
         {{- end }}
         <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
