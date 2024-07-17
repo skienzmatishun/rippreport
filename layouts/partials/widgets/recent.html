@@ -5,67 +5,49 @@
 {{- $recentToShow := slice }}
 
 {{- if .IsHome }}
-  {{- $recentToShow = after 10 $recent }}
+ {{- $recentToShow = after 10 $recent }}
 {{- else if .Paginator }}
-  {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+ {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
 {{- else }}
-  {{- $currentCategories := .Params.categories | default slice }}
-  {{- if gt (len $currentCategories) 0 }}
-    {{- $firstCategory := index $currentCategories 0 }}
-    {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
-  {{- else }}
-    {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
-  {{- end }}
+ {{- $currentCategories := .Params.categories | default slice }}
+ {{- if gt (len $currentCategories) 0 }}
+   {{- $firstCategory := index $currentCategories 0 }}
+   {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
+ {{- else }}
+   {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+ {{- end }}
 {{- end }}
 
 {{- $filteredRecent := slice }}
 {{- range $recentToShow }}
-  {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-    {{- $filteredRecent = $filteredRecent | append . }}
-  {{- end }}
+ {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+   {{- $thumbnailURL := "" }}
+   {{- if .Params.thumbnail }}
+     {{- $fileName := .Params.thumbnail | absURL | replaceExt "" }}       {{- $thumbnailURL = printf "%s-thumb.%s" $fileName (.Params.thumbnail | ext) | absURL }}       {{- else }}
+     {{- $thumbnailURL = "path/to/default-thumbnail.jpg" | absURL }}      {{- end }}
+   {{- $filteredRecent = $filteredRecent | append . }}
+ {{- end }}
 {{- end }}
 
 {{- if gt (len $filteredRecent) 0 }}
 <div class="widget-recent widget">
-  <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
-  <div class="widget__content">
-    <ul class="widget__list">
-      {{- range first $recent_num $filteredRecent }}
-        {{- $thumbnailURL := "" }}
-        {{- if .Params.thumbnail }}
-          {{- $thumbnail := printf "%s" .Params.thumbnail }}
-          {{- $ext := strings.LastIndex (string $thumbnail) "." }}
-          {{- if gt $ext 0 }}
-            {{- $thumbnailBase := (slice $thumbnail 0 $ext) }}
-            {{- $thumbnailExt := (slice $thumbnail $ext) }}
-            {{- $thumbnailURL = printf "%s-thumb%s" $thumbnailBase $thumbnailExt | absURL }}
-          {{- else }}
-            {{- $thumbnailURL = printf "%s-thumb" $thumbnail | absURL }}
-          {{- end }}
-        {{- else }}
-          {{- $defaultThumbnail := "path/to/default-thumbnail.jpg" }}
-          {{- $ext := strings.LastIndex (string $defaultThumbnail) "." }}
-          {{- if gt $ext 0 }}
-            {{- $thumbnailBase := (slice $defaultThumbnail 0 $ext) }}
-            {{- $thumbnailExt := (slice $defaultThumbnail $ext) }}
-            {{- $thumbnailURL = printf "%s-thumb%s" $thumbnailBase $thumbnailExt | absURL }}
-          {{- else }}
-            {{- $thumbnailURL = printf "%s-thumb" $defaultThumbnail | absURL }}
-          {{- end }}
-        {{- end }}
-        <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
-          <a class="widget__link" href="{{ .RelPermalink }}">
-            {{ .Title }}
-            {{- with .Params.thumbnail }}
-              <div style="min-height: 200px;" class="widget__thumbnail">
-                <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
-              </div>
-            {{- end }}
-          </a>
-          <p class="widget__summary">{{ .Summary }}</p>
-        </li>
-      {{- end }}
-    </ul>
-  </div>
+ <h4 class="widget__title">{{ if .IsHome }}More Posts{{ else }}{{ T "recent_title" }}{{ end }}</h4>
+ <div class="widget__content">
+   <ul class="widget__list">
+     {{- range first $recent_num $filteredRecent }}
+       <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
+         <a class="widget__link" href="{{ .RelPermalink }}">
+           {{ .Title }}
+           {{- with .Params.thumbnail }}
+             <div style="min-height: 200px;" class="widget__thumbnail">
+               <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
+             </div>
+           {{- end }}
+         </a>
+         <p class="widget__summary">{{ .Summary }}</p>
+       </li>
+     {{- end }}
+   </ul>
+ </div>
 </div>
 {{- end }}
