@@ -31,22 +31,11 @@
   <div class="widget__content">
     <ul class="widget__list">
       {{- range first $recent_num $filteredRecent }}
-        {{- $thumbnailURL := "" }}
-        {{- if .Params.thumbnail }}
-          {{- $thumbnailURL = .Params.thumbnail | absURL }}
-        {{- else }}
-          {{- $thumbnailURL = "path/to/default-thumbnail.jpg" | absURL }} <!-- Provide a default thumbnail path -->
-        {{- end }}
         <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
           <a class="widget__link" href="{{ .RelPermalink }}">
             {{ .Title }}
-            {{- with .Params.thumbnail }}
-              <div style="min-height: 200px;" class="widget__thumbnail">
-                <img loading="lazy" src="{{ $thumbnailURL }}" alt="Thumbnail" class="widget__thumbnail-image">
-              </div>
-            {{- end }}
+            <p class="widget__summary">{{ .Summary }}</p>
           </a>
-          <p class="widget__summary">{{ .Summary }}</p>
         </li>
       {{- end }}
     </ul>
