@@ -1,6 +1,7 @@
 ---
 title: "COMMUNICATION"
 date: 2019-02-07
+thumbnail: "img/communication.png"
 categories: 
   - wonderful-wednesday
 tags: 
