@@ -1,6 +1,7 @@
 ---
 title: "BP CATASTROPHE/ ALABAMA DISGRACE"
 date: 2016-10-21
+thumbnail: "img/bp-catastrophe-alabama-disgrace.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -76,7 +77,7 @@ Source:[http://www.al.com/news/birmingham/index.ssf/2016/09/plan\_for\_alabamas\
 
 Please read the letter to the editor, going postal, in lagniappe Oct.26 edition, Have we learned nothing? By Myrt Jones.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/10/Lagniappe-10.20.16-page4.pdf" download="all"\]
+[Letter to Editor](https://cdn.rippreport.com/wp-content/uploads/2016/10/Lagniappe-10.20.16-page4.pdf)
 
 He explains how an 11 million dollar BP restoration project of Marsh Island, at the mouth of Fowl River has contributed to the demise of oyster reefs instead of building them. Violations of the clean water act, mismanagement and little oversight has taken 11 million and buried it in the mud.
 

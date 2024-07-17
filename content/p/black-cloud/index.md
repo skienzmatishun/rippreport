@@ -1,6 +1,7 @@
 ---
 title: "BLACK CLOUD"
 date: 2021-10-08
+thumbnail: "img/black-cloud.png"
 categories: 
   - freaky-friday
 authors: 

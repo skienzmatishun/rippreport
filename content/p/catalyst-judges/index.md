@@ -1,6 +1,7 @@
 ---
 title: "CATALYST JUDGES"
 date: 2018-05-29
+thumbnail: "img/catalyst-judges.png"
 categories: 
   - familycourt
 tags: 
