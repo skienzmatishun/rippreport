@@ -3,7 +3,7 @@ title: "BALDWIN COUNTY UN-FAMILY COURT"
 date: 2021-08-03
 thumbnail: "img/baldwin-county-un-family-court.jpg"
 categories: 
-  - terrific-tuesday
+  - familycourt
 authors: 
   - admin
 ---

@@ -2,7 +2,7 @@
 title: "BALDWIN COUNTY FAMILY COURT"
 date: 2017-09-20
 categories: 
-  - wonderful-wednesday
+  - familycourt
 tags: 
   - catalyst
   - thomason

@@ -2,7 +2,7 @@
 title: "BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY"
 date: 2016-10-28
 categories: 
-  - freaky-friday
+  - familycourt
 tags: 
   - thomason
 authors: 

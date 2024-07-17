@@ -2,7 +2,7 @@
 title: "CATALYST JUDGES"
 date: 2018-05-29
 categories: 
-  - terrible-tuesday
+  - familycourt
 tags: 
   - catalyst
   - judge-scully
