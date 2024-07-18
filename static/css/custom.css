@@ -342,6 +342,7 @@ display:flex;
     font-size: 2rem;
     text-align: center;
     font-family: Roboto;
+    text-transform: capitalize;
 }
 h4.widget__title{
     border-bottom: solid #8a8a8a 1px;
