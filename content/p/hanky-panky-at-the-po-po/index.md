@@ -15,5 +15,5 @@ Baldwin Countian of the Year 2023 (Nappie Awards), Commander of the Major Crimes
 
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/feLHjB7YfN">https://t.co/feLHjB7YfN</a></p>&mdash; 𝐑𝐈𝐏𝐏 𝐑𝐄𝐏𝐎𝐑𝐓 (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1803608778689937632?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<style>.cactus-comment:has(.cactus-comment-time[title="Thu Jul 04 17:03:16 2024 UTC"]) {opacity: 0;order: 45;}</style>
 {{< chat jfmfhbcdsa >}}
