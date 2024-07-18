@@ -62,9 +62,7 @@ Page 1591 of the transcript, which is close to the end of the trial, defense att
 >
 >**A** -   I didn’t personally, no.
 >
->**Q** -   ***And you don’t know of anything coming from—any of that stolen property coming from Bubba***
->
->***Lawrence, do you***
+>**Q** -   ***And you don’t know of anything coming from—any of that stolen property coming from Bubba Lawrence, do you***
 >
 >**A** -   Not to my knowledge, no.
 >
