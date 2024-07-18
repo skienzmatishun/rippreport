@@ -54,39 +54,39 @@ The only police officer, not the case officer, that testified during the trial t
 Page 1591 of the transcript, which is close to the end of the trial, defense attorney Willy Huntley asks Officer Fuqua, who had attended the Brandon Hastings autopsy in Mississippi and heard the conclusion of the Dr. Paul McGarry a forensic pathologist who had preformed 12,000 autopsies.
 
 
->Q “Did you have any fingerprints of Bubba Lawrence?
+>**Q** “Did you have any fingerprints of Bubba Lawrence?
 >
->A Not to my knowledge, no.
+>**A** Not to my knowledge, no.
 >
->Q Did you get any stolen property from Bubba Lawrence?
+>**Q** Did you get any stolen property from Bubba Lawrence?
 >
->A I didn’t personally, no.
+>**A** I didn’t personally, no.
 >
->Q And you don’t know of anything coming from—any of that stolen property coming from Bubba
+>**Q** And you don’t know of anything coming from—any of that stolen property coming from Bubba
 >
 >Lawrence, do you
 >
->A Not to my knowledge, no.
+>**A** Not to my knowledge, no.
 >
->Q And you didn’t have anyone tell you that Bubba Lawrence was the last person seen with Brandon
+>**Q** And you didn’t have anyone tell you that Bubba Lawrence was the last person seen with Brandon
 >
 >Hastings?
 >
->A No
+>**A** No
 >
->Q You didn’t have any fingerprints?
+>**Q** You didn’t have any fingerprints?
 >
->A No.
+>**A** No.
 >
->Q Didn’t have any weapon?
+>**Q** Didn’t have any weapon?
 >
->A No
+>**A** No
 >
->Q And his cell phone records of Bubba Lawrence that connected him with Brandon Hastings, did you?
+>**Q** And his cell phone records of Bubba Lawrence that connected him with Brandon Hastings, did you?
 >
->A No sir.
+>**A** No sir.
 >
->Q Actually, you didn’t have anything to connect Bubba Lawrence to Brandon Hastings disappearance excepted. He was friends with Jarius McNeal?”
+>**Q** Actually, you didn’t have anything to connect Bubba Lawrence to Brandon Hastings disappearance excepted. He was friends with Jarius McNeal?”
 >
 >No Answer.
 
