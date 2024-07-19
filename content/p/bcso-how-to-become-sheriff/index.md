@@ -113,5 +113,6 @@ Believe it or not the Ripp Report knows far more, however we will wait till cert
 Baldwin County Sheriff’s Office needs a deep cleaning, starting from the top. Please be pro active in the selection of the new sheriff.
 
 
+<style>.cactus-comment:has(.cactus-comment-time[title="Fri Jul 19 17:09:10 2024 UTC"]) {opacity: 0.12;order: 15;}</style>
 
 {{< chat h4552 >}}
