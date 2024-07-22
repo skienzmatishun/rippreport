@@ -25,6 +25,7 @@
           Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
         </script>
       </div>
+      {{ partial "svg/loading.svg" (dict "class" "loading") -}}
     </div>
   </figure>
 {{- else }}
@@ -47,11 +48,7 @@
       {{- end }}
         {{- if $thumbnail }}
           {{- if eq $lazyLoading true }}
-            {{- if ne .Page.Params.index 0 }} <!-- Check if it's not the first post -->
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
-            {{- else }}
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
-            {{- end }}
+            <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
           {{- else }}
             <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
           {{- end }}
