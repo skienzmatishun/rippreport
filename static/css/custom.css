@@ -131,7 +131,8 @@ nav.pager.flex {
     position: absolute;
     height: 50px;
     content: "";
-    width: 50px
+    width: 50px;
+    display:none;
 }
 
 .dwtd__link {

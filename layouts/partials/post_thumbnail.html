@@ -10,7 +10,7 @@
 {{- else if $rumble := .page.Params.rumble }}
   <figure class="thumbnail">
     <div class="thumbnail__video">
-      <div id="rumble_{{ $rumble }}" style="position: relative; padding-bottom: 56.25%; height: 0;">
+      <div id="rumble_{{ $rumble }}" style="position: relative; padding-bottom: 56.25%; height: 0;background-image:url({{ $thumbnail | relURL }});">
         <script>
           !function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){
             (r[b]._=r[b]._||[]).push(arguments);
