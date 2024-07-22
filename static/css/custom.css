@@ -93,7 +93,7 @@ nav.pager.flex {
     text-align: left;
     padding: 1rem
 }
-#loader {display:none;}
+#loader {display:none !important;}
 #loader,
 .backstory__btn,
 .backstory__title,
