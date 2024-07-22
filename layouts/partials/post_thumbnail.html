@@ -1,6 +1,6 @@
 {{- if $youtube := .page.Params.youtube }}
   <figure class="thumbnail">
-    <div class="thumbnail__video">
+    <div class="thumbnail__video" style="background-image: url('{{ .page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0;">
         <iframe loading="lazy" class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
         {{ partial "svg/loading.svg" (dict "class" "loading") -}}
@@ -9,8 +9,8 @@
   </figure>
 {{- else if $rumble := .page.Params.rumble }}
   <figure class="thumbnail">
-    <div class="thumbnail__video">
-      <div id="rumble_{{ $rumble }}" style="position: relative; padding-bottom: 56.25%; height: 0;background-image:url({{ $thumbnail | relURL }});">
+    <div class="thumbnail__video" style="background-image: url('{{ .page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
+      <div id="rumble_{{ $rumble }}" style="position: relative; padding-bottom: 56.25%; height: 0;">
         <script>
           !function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){
             (r[b]._=r[b]._||[]).push(arguments);
@@ -39,7 +39,6 @@
       {{ $thumbnail = $thumbnail.src }}
     {{- end }}
     {{- if in $visibility $class }}
-      {{ $lazyLoading := true }}
       {{- if eq $class "list" }}
         <figure class="thumbnail">
           <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
@@ -47,13 +46,14 @@
         <figure class="thumbnail">
       {{- end }}
         {{- if $thumbnail }}
-          {{- if eq $lazyLoading true }}
-            <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
-          {{- else }}
-            <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
-          {{- end }}
+          <div class="thumbnail__video" style="background-image: url('{{ $thumbnail | relURL }}'); background-size: cover; background-position: center;">
+            {{- if eq $class "list" }}
+              <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
+            {{- end }}
+              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy" style="visibility: hidden;">
+            {{- if eq $class "list" }}</a>{{ end }}
+          </div>
         {{- end }}
-        {{- if eq $class "list" }}</a>{{ end }}
       </figure>
     {{- end }}
   {{- end }}
