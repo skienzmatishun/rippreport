@@ -16,16 +16,16 @@ Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Fe
 Now is the time for the deputies to put forward who they want as Sheriff. Mack had Andre set up for the position however Andre could not keep his pants up. Next choice would be Anthony Lowery who judging from the comments following the articles, and his checkered history with BCSO, as well as a closet full of cobwebs, Lowery would be the poorest of choices.
 
 
-{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/ >}}
+{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
 
 Also read the comment on this post:
 
-{{< socialpreview url="https://rippreport.com/p/po-po-hoss-mack-ccuo/ >}}
+{{< socialpreview url="https://rippreport.com/p/po-po-hoss-mack-ccuo/" >}}
 
 It should also be noted that Anthony Lowery went along with “Captain Mack” in 04 In the Wrongful Conviction of Murray Lawrence Jr. That case is weaving it way through the courts. The conviction earned Mack the promotion to Sheriff and assured Lowery a cushy Friday paycheck and tenure in BCSO. Lowery would be worse than Mack.
 
 
-{{< socialpreview url="https://rippreport.com/p/wrongful-conviction-fairhope-baldwin-county/ >}}
+{{< socialpreview url="https://rippreport.com/p/wrongful-conviction-fairhope-baldwin-county/" >}}
 
 Mack’s replacement for Sheriff should in no way have any connection to Mack. When he leaves, let the door slam on his ass.
 
