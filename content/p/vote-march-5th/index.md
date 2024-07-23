@@ -16,7 +16,7 @@ Circuit Clerk of Baldwin County is a position that the GOB, Catalyst, have contr
 
 <b>VOTE FOR CARRIE HOSIER AND KIM EARL</b>
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3klxkajdsfm25" data-bluesky-cid="bafyreiholgfb322masukzdkgm3balqbqpfazsmbwvh2waf3adhtx223bmi"><p lang="en">How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3klxkajdsfm25?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3klxkajdsfm25?ref_src=embed">Feb 21, 2024 at 4:43 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://rippreport.com/p/vote-smart/" >}}
 
 
 ### BOARD OF EDUCATION DISTRICT 2
