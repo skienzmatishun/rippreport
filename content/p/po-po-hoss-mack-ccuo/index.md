@@ -16,7 +16,8 @@ FEEL FREE Please comment.
 
 Lets not forget the wrongful conviction of Murray Lawrence Jr.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4jxnw46526" data-bluesky-cid="bafyreibqosithkddsfiqemki7fghaqeh6le3gyu6dlzbhe4wjhawawztr4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">Feb 23, 2024 at 4:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
+
 
 
 >“Letters and documents contained in that second autopsy report indicate Whetstone, Wilters and Mack should all have been aware it had been performed long before Lawrence’s trial. Hoss Mack and his father were both CC’ed in on the May 17, 2004, letter from the Alabama Department of Forensic Sciences to Whetstone, which accompanied the autopsy, forensic biology and toxicology reports. Wilters wrote and signed the order allowing it.”
@@ -26,7 +27,8 @@ Hoss Mack was the lead investigator, he now claims he had little to do with the 
 
 
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3ktt65pjyks2p" data-bluesky-cid="bafyreicxc7hblyz4a453lxglffkhdiu7fjzpupmuredbxp7uqv2evzap7y"><p lang="en">It seems the Baldwin County Sheriff’s Department has internal hanky panky problems.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ktt65pjyks2p?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ktt65pjyks2p?ref_src=embed">May 31, 2024 at 7:17 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
+
 
 Be sure you read all the comments following Po Po article, very telling.
 
@@ -63,8 +65,8 @@ A comment:
 >
 >The list can keep going. The point is that it’s not “real news”, but it has real and valid pointed truth.
 
+{{< socialpreview url="https://1819news.com/news/item/baldwin-county-sheriffs-office-investigating-possible-mishandling-of-evidence-by-fbi-task-force" >}}
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kuy6ucrbvk2s" data-bluesky-cid="bafyreihlf67ybq4ug4btlk23smvdgbdyomwxyijy6vk3vezqqydxgtss7q"><p lang="en">This article sounds like a press release not an in depth explanation of the problems at the BCSO.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kuy6ucrbvk2s?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kuy6ucrbvk2s?ref_src=embed">Jun 15, 2024 at 12:38 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 This article sounds like a press release not an in depth explanation of the problems at the BCSO.
 
@@ -92,10 +94,9 @@ Sheriff Hoss Mack and his good ole boy senior officers need to go. If the Feds a
 
 Be sure to read all the comments:
 
+{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3ktt65pjyks2p" data-bluesky-cid="bafyreicxc7hblyz4a453lxglffkhdiu7fjzpupmuredbxp7uqv2evzap7y"><p lang="en">It seems the Baldwin County Sheriff’s Department has internal hanky panky problems.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ktt65pjyks2p?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ktt65pjyks2p?ref_src=embed">May 31, 2024 at 7:17 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
-
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/feLHjB7YfN">https://t.co/feLHjB7YfN</a></p>&mdash; 𝐑𝐈𝐏𝐏 𝐑𝐄𝐏𝐎𝐑𝐓 (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1803608778689937632?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97" >}}
 
 {{< chat hosscsso >}}
