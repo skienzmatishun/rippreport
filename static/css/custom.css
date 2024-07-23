@@ -258,6 +258,7 @@ width: 292px
     width: 450px;
 max-width: 95%;
 margin: auto;
+background: #eaeaea;
 }
 
 .social-preview a p {
@@ -273,14 +274,15 @@ margin: auto;
 }
 
 .social-preview span {
-    width: 450px;
-    max-width: 95%;
-    margin: auto;
-    margin-bottom: auto;
+    text-align: center;
+    display: block;
     padding: 1rem;
-    background: #eaeaea;
-    margin-bottom: 2rem;
-    }
+    background: black;
+    color: white;
+    width: 60%;
+    margin: auto;
+    margin-bottom:2rem;
+}
 
 .backstory__title {
     font-family: 'Amatic SC', cursive !important;
