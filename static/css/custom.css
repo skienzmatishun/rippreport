@@ -254,6 +254,21 @@ width: 292px
     width: 215px;
     float: none
 }
+.social-preview {
+    width: 450px;
+max-width: 95%;
+margin: auto;
+}
+
+.social-preview a p {
+    color: black;
+    padding: 1rem;
+}
+
+.social-preview h2 {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
 
 .backstory__title {
     font-family: 'Amatic SC', cursive !important;
