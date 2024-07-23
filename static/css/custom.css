@@ -273,15 +273,14 @@ margin: auto;
 }
 
 .social-preview span {
-    text-align: center;
-    display: block;
-    padding: 1rem;
-    background: black;
-    color: white;
-    width: 60%;
+    width: 450px;
+    max-width: 95%;
     margin: auto;
-    margin-bottom:2rem;
-}
+    margin-bottom: auto;
+    padding: 1rem;
+    background: #eaeaea;
+    margin-bottom: 2rem;
+    }
 
 .backstory__title {
     font-family: 'Amatic SC', cursive !important;
