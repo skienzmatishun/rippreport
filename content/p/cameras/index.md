@@ -34,15 +34,15 @@ Reid said he’s watched the officer’s body-cam video several times and there 
 
 Body cameras that are set up to capture every detail of an officer's day. It's a tool for transparency and to prosecute, if necessary.
 
-{{< socialpreview url="https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/" >}}
+https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/
 
 "She said they are calling for Baldwin County to release the security and bodycam videos that may have captured the incident and are asking why authorities have not taken any action against the multiple perpetrators, as far as they know”.
 
-{{< socialpreview url="https://rippreport.com/get-out-of-jail-card/" >}}
+https://rippreport.com/get-out-of-jail-card/
 
 “In an order filed April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack, but denied to grant the defendants’ broader motion for summary judgment. Reviewed “in a light most favorable to the plaintiff,” Cassady wrote, videotapes, audio, and witness statements from the incident leave cause to believe a jury could find that Hunady violated Victor’s constitutional rights, while Mack failed to adequately train his deputies to respond to mental health crises.”
 
-{{< socialpreview url="https://lagniappemobile.com/serial/lagniappe-vs-mack/" >}}
+https://lagniappemobile.com/serial/lagniappe-vs-mack/
 
 Lagniappe vs. Mack A compilation of stories about the May 12, 2017 shooting of Jonathan Victor by a deputy of the Baldwin County Sheriff's Office. The stories led to a 2021 Alabama Supreme Court decision which severely restricted public access to records related to law enforcement investigations.
 
@@ -50,15 +50,15 @@ By Gabriel Tynes | gabe@lagniappemobile.com
 
 The high court ruled the records Lagniappe sought, including dash and body camera footage from the shooting, are all exempted from open records law due to their "investigative" nature, even though the investigation in the shooting has been closed
 
-{{< socialpreview url="https://rippreport.com/%f0%9f%93%a1102%f0%9f%9a%93/" >}}
+https://rippreport.com/%f0%9f%93%a1102%f0%9f%9a%93/
 
 “This week we focus our attention on the Unimaginable Decision from the Alabama Supreme Court that guts the Open Records Act related to body cam footage or any other investigative material in the possession of Law Enforcement…even after the investigation is concluded”.
 
-{{< socialpreview url="https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/" >}}
+https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/
 
 “By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
 
-{{< socialpreview url="https://lagniappemobile.com/texas-man-behind-the-wheel-in-collision-that-killed-five/" >}}
+https://lagniappemobile.com/texas-man-behind-the-wheel-in-collision-that-killed-five/
 
 The deadly crash has called into question the BCSO vehicle pursuit policy, which advises against engaging in pursuits for misdemeanor offenses. According to cell phone video captured by passersby during the pursuit, the deputy was also driving an unmarked SUV, which the policy advises against.
 
@@ -70,7 +70,7 @@ No drag marks were found on the body and it was declared a suicide immediately.
 
 The rumors surrounding this case are the only information available because the case was quickly sealed. This case was sealed without it ever being reported Mr. Little was a confidential informant for the Bay Minette police.
 
-{{< socialpreview url="https://justiceformurraylawrencejr.com/" >}}
+https://rippreport.com/deal-with-the-devil/
 
 Baldwin County has it’s own wrongfully convicted man, Murray “Bubba” Lawrence. His conviction defies logic, evidence, and any basic investigation. Most amazing is the fact that the prosecution, defense, jury, nor judge, ever established any timeline. The timeline established by the 2000 plus page transcript, establishes a timeline that proves Mr. Lawrence had multiple witness alibi’s. How this was overlooked is highly suspicious.
 
@@ -78,7 +78,7 @@ Baldwin County has it’s own wrongfully convicted man, Murray “Bubba” Lawre
 
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeil. The murderer, was threatened with the death penalty if he did not give up an accomplice.
 
-{{< socialpreview url="https://rippreport.com/sheriff-huey-boss-mack-secret-police/" >}}
+https://rippreport.com/sheriff-huey-boss-mack-secret-police/
 
 “This is a very long post however it documents the abuse of power and a police department running without a throttle, any accountability or transparency. The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.”
 
