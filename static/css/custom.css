@@ -259,11 +259,14 @@ width: 292px
 max-width: 95%;
 margin: auto;
 background: #eaeaea;
+padding-bottom:.5rem;
+margin-bottom:2.5rem;
 }
 
 .social-preview a p {
     color: black;
-    padding: 1rem;
+    padding: 2rem;
+    font-weight:300;
 }
 
 .social-preview h2 {
