@@ -94,10 +94,9 @@ Sheriff Hoss Mack and his good ole boy senior officers need to go. If the Feds a
 
 Be sure to read all the comments:
 
-{{< socialpreview url="https://1819news.com/news/item/baldwin-county-sheriffs-office-investigating-possible-mishandling-of-evidence-by-fbi-task-force" >}}
+{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
 
 
-
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/feLHjB7YfN">https://t.co/feLHjB7YfN</a></p>&mdash; 𝐑𝐈𝐏𝐏 𝐑𝐄𝐏𝐎𝐑𝐓 (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1803608778689937632?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97" >}}
 
 {{< chat hosscsso >}}
