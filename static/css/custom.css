@@ -279,7 +279,9 @@ margin: auto;
     background: black;
     color: white;
     width: 60%;
-    margin: auto;}
+    margin: auto;
+    margin-bottom:2rem;
+}
 
 .backstory__title {
     font-family: 'Amatic SC', cursive !important;
