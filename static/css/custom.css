@@ -254,6 +254,9 @@ width: 292px
     width: 215px;
     float: none
 }
+
+.content.post__content.clearfix p {min-width:250px;}
+
 .social-preview {
     width: 381px;
     max-width: 95%;
