@@ -427,7 +427,7 @@ a.logo__link span {
 .post__content {
     margin: 0 2em 2em
 }
-
+.cactus-container {min-width:450px;}
 .cactus-comment-avatar-placeholder {
     display: none !important
 }
