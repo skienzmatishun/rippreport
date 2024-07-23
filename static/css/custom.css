@@ -272,6 +272,15 @@ margin: auto;
     margin-top: 1.25rem;
 }
 
+.social-preview span {
+    text-align: center;
+    display: block;
+    padding: 1rem;
+    background: black;
+    color: white;
+    width: 60%;
+    margin: auto;}
+
 .backstory__title {
     font-family: 'Amatic SC', cursive !important;
     font-size: 70px;
