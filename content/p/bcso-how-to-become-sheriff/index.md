@@ -43,7 +43,7 @@ Sheriff Mack, District Attorney David Whetstone and Judge Robert Wilters ordered
 
 Please read the article Digging Deep, Lagniappe, Below
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4jxnw46526" data-bluesky-cid="bafyreibqosithkddsfiqemki7fghaqeh6le3gyu6dlzbhe4wjhawawztr4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">Feb 23, 2024 at 4:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
 
 Ask yourself: If they did this in 2003/2004 how many more innocent people has Mack convicted?
 
