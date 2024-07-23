@@ -38,7 +38,7 @@ https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inma
 
 "She said they are calling for Baldwin County to release the security and bodycam videos that may have captured the incident and are asking why authorities have not taken any action against the multiple perpetrators, as far as they know”.
 
-https://rippreport.com/get-out-of-jail-card/
+{{< socialpreview url="https://rippreport.com/get-out-of-jail-card/" >}}
 
 “In an order filed April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack, but denied to grant the defendants’ broader motion for summary judgment. Reviewed “in a light most favorable to the plaintiff,” Cassady wrote, videotapes, audio, and witness statements from the incident leave cause to believe a jury could find that Hunady violated Victor’s constitutional rights, while Mack failed to adequately train his deputies to respond to mental health crises.”
 
@@ -78,7 +78,7 @@ Baldwin County has it’s own wrongfully convicted man, Murray “Bubba” Lawre
 
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeil. The murderer, was threatened with the death penalty if he did not give up an accomplice.
 
-https://rippreport.com/sheriff-huey-boss-mack-secret-police/
+{{< socialpreview url="https://rippreport.com/sheriff-huey-boss-mack-secret-police/" >}}
 
 “This is a very long post however it documents the abuse of power and a police department running without a throttle, any accountability or transparency. The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.”
 
