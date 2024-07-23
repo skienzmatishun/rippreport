@@ -70,11 +70,9 @@ No drag marks were found on the body and it was declared a suicide immediately.
 
 The rumors surrounding this case are the only information available because the case was quickly sealed. This case was sealed without it ever being reported Mr. Little was a confidential informant for the Bay Minette police.
 
-https://rippreport.com/deal-with-the-devil/
+{{< socialpreview url="justiceformurraylawrencejr.com" >}}
 
 Baldwin County has it’s own wrongfully convicted man, Murray “Bubba” Lawrence. His conviction defies logic, evidence, and any basic investigation. Most amazing is the fact that the prosecution, defense, jury, nor judge, ever established any timeline. The timeline established by the 2000 plus page transcript, establishes a timeline that proves Mr. Lawrence had multiple witness alibi’s. How this was overlooked is highly suspicious.
-
-[https://rippreport.com/category/deal-with-the-devil/](https://rippreport.com/category/deal-with-the-devil/)
 
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeil. The murderer, was threatened with the death penalty if he did not give up an accomplice.
 
