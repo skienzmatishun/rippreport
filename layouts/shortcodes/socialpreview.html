@@ -1,0 +1,13 @@
+{{- $url := .Get "url" -}}
+{{- $json := getJSON (print "https://social.rippreport.com?q=" $url) -}}
+{{- if $json -}}
+<div class="social-preview">
+    <a href="{{ $json.url }}">
+        <img src="{{ $json.image }}" alt="{{ $json.title }}">
+        <h2>{{ $json.title }}</h2>
+        <p>{{ $json.description }}</p>
+    </a>
+</div>
+{{- else -}}
+<a href="{{ $url }}">{{ $url }}</a>
+{{- end -}}
