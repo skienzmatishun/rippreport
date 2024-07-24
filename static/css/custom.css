@@ -1210,7 +1210,7 @@ textarea.input {
     #sib-container {
     padding: 32px 9px
     }
-    .cactus-container {min-width:0px;}
+    .cactus-container {min-width:300px;}
 
     .form__label-row--horizontal {
         flex-direction: column
