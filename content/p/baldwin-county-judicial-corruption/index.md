@@ -27,7 +27,7 @@ REAL CHRISTIANS WOULD NEVER CONVICT AN INNOCENT MAN.
 
 ### DIGGING DEEP
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Criminal rights advocates have unearthed a second autopsy of a 2003 murder that was never revealed during the trial of Murray “Bubba” Lawrence Jr., who was convicted and sentenced to life in prison without parole. <a href="https://t.co/aZ7DIWDm7X">https://t.co/aZ7DIWDm7X</a></p>&mdash; Lagniappe Weekly (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1709569198718894325?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
 
 Lawyers have been hired to right this horrible wrong and we will be updating this story. Look for RULE 32 coming soon.
 
