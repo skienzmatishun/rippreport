@@ -54,7 +54,7 @@ https://rippreport.com/%f0%9f%93%a1102%f0%9f%9a%93/
 
 “This week we focus our attention on the Unimaginable Decision from the Alabama Supreme Court that guts the Open Records Act related to body cam footage or any other investigative material in the possession of Law Enforcement…even after the investigation is concluded”.
 
-{{< socialpreview url="https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/" >}}
+https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/
 
 “By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
 
