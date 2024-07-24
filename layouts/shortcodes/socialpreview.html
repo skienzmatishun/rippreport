@@ -1,5 +1,6 @@
 {{- $url := .Get "url" -}}
-{{- $json := getJSON (print "https://social.rippreport.com?q=" $url) -}}
+{{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
+{{- $json := getJSON $workerURL -}}
 {{- if $json -}}
 {{- $parsedURL := urls.Parse $url -}}
 {{- $baseURL := $parsedURL.Host -}}
