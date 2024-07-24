@@ -42,7 +42,7 @@ https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inma
 
 “In an order filed April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack, but denied to grant the defendants’ broader motion for summary judgment. Reviewed “in a light most favorable to the plaintiff,” Cassady wrote, videotapes, audio, and witness statements from the incident leave cause to believe a jury could find that Hunady violated Victor’s constitutional rights, while Mack failed to adequately train his deputies to respond to mental health crises.”
 
-{{< socialpreview url=https://lagniappemobile.com/serial/lagniappe-vs-mack/ >}}
+https://lagniappemobile.com/serial/lagniappe-vs-mack/
 
 Lagniappe vs. Mack A compilation of stories about the May 12, 2017 shooting of Jonathan Victor by a deputy of the Baldwin County Sheriff's Office. The stories led to a 2021 Alabama Supreme Court decision which severely restricted public access to records related to law enforcement investigations.
 
