@@ -34,7 +34,7 @@ Reid said he’s watched the officer’s body-cam video several times and there 
 
 Body cameras that are set up to capture every detail of an officer's day. It's a tool for transparency and to prosecute, if necessary.
 
-https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/baldwin-county-corrections-under-review-by-feds-for-inmate-abuse/article_721ab83e-cf57-5ad0-96ff-ca7978dd0aed.html"}}
 
 "She said they are calling for Baldwin County to release the security and bodycam videos that may have captured the incident and are asking why authorities have not taken any action against the multiple perpetrators, as far as they know”.
 
