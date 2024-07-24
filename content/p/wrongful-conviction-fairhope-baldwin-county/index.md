@@ -16,14 +16,12 @@ wrongful conviction.
 The Ripp Report is a not for profit organization and the attorneys Maxwell/Tillman are providing legal representation pro bono. The efforts to free Mr. Lawrence or at least get him a fair trial have been supported by many advocates, in the last 5 years. Thank You
 
 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4jxnw46526" data-bluesky-cid="bafyreibqosithkddsfiqemki7fghaqeh6le3gyu6dlzbhe4wjhawawztr4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">Feb 23, 2024 at 4:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
 
 
 LISTEN to the Narrative *A Verbal Lynching in Alabama* by: Nancy Koerner
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kv53iuu55s2u" data-bluesky-cid="bafyreicfjqp346oanu4xd36jqnzrzepavyy5wmv2gtw3tdckey4ojaqgfq"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kv53iuu55s2u?ref_src=embed" style="color:white;">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kv53iuu55s2u?ref_src=embed">Jun 17, 2024 at 11:22 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://rippreport.com/p/earful/" >}}
 
 PLEASE SUPPORT US THROUGH SPOT FUND AND PUBLIC PARTICIPATION
 
