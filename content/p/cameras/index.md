@@ -34,7 +34,7 @@ Reid said he’s watched the officer’s body-cam video several times and there 
 
 Body cameras that are set up to capture every detail of an officer's day. It's a tool for transparency and to prosecute, if necessary.
 
-{{< socialpreview="https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/" >}}
+https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/
 
 "She said they are calling for Baldwin County to release the security and bodycam videos that may have captured the incident and are asking why authorities have not taken any action against the multiple perpetrators, as far as they know”.
 
@@ -56,7 +56,7 @@ https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-d
 
 “By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
 
-https://www.lagniappemobile.com/news/texas-man-behind-the-wheel-in-collision-that-killed-five/article_9d9491ed-8111-514a-a031-024ccfaa1a94.html
+{{< socialpreview url="https://www.lagniappemobile.com/news/texas-man-behind-the-wheel-in-collision-that-killed-five/article_9d9491ed-8111-514a-a031-024ccfaa1a94.html" >}}
 
 The deadly crash has called into question the BCSO vehicle pursuit policy, which advises against engaging in pursuits for misdemeanor offenses. According to cell phone video captured by passersby during the pursuit, the deputy was also driving an unmarked SUV, which the policy advises against.
 
