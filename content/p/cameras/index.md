@@ -79,3 +79,4 @@ The “investigation” produced no fingerprints, no weapon, no ballistics, no b
 “This is a very long post however it documents the abuse of power and a police department running without a throttle, any accountability or transparency. The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.”
 
 The County Commission needs to insist the Sheriff’s Department return the $600.000.00 or provide the camera footage that TAXPAYERS PAID FOR.
+
