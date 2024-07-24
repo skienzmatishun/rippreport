@@ -34,7 +34,7 @@ Reid said he’s watched the officer’s body-cam video several times and there 
 
 Body cameras that are set up to capture every detail of an officer's day. It's a tool for transparency and to prosecute, if necessary.
 
-https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/
+{{< socialpreview="https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inmate-abuse/"
 
 "She said they are calling for Baldwin County to release the security and bodycam videos that may have captured the incident and are asking why authorities have not taken any action against the multiple perpetrators, as far as they know”.
 
@@ -42,15 +42,13 @@ https://lagniappemobile.com/baldwin-county-corrections-under-review-by-feds-inma
 
 “In an order filed April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack, but denied to grant the defendants’ broader motion for summary judgment. Reviewed “in a light most favorable to the plaintiff,” Cassady wrote, videotapes, audio, and witness statements from the incident leave cause to believe a jury could find that Hunady violated Victor’s constitutional rights, while Mack failed to adequately train his deputies to respond to mental health crises.”
 
-{{< socialpreview url=http://web.archive.org/web/20211102002617/https://lagniappemobile.com/serial/lagniappe-vs-mack/ >}}
+{{< socialpreview url="http://web.archive.org/web/20211102002617/https://lagniappemobile.com/serial/lagniappe-vs-mack/" >}}
 
 Lagniappe vs. Mack A compilation of stories about the May 12, 2017 shooting of Jonathan Victor by a deputy of the Baldwin County Sheriff's Office. The stories led to a 2021 Alabama Supreme Court decision which severely restricted public access to records related to law enforcement investigations.
 
 By Gabriel Tynes | gabe@lagniappemobile.com
 
 The high court ruled the records Lagniappe sought, including dash and body camera footage from the shooting, are all exempted from open records law due to their "investigative" nature, even though the investigation in the shooting has been closed
-
-https://rippreport.com/%f0%9f%93%a1102%f0%9f%9a%93/
 
 “This week we focus our attention on the Unimaginable Decision from the Alabama Supreme Court that guts the Open Records Act related to body cam footage or any other investigative material in the possession of Law Enforcement…even after the investigation is concluded”.
 
