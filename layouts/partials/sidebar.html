@@ -29,7 +29,9 @@
             <a href="mailto:backstory@rippreport.com">{{ partial "svg/email.svg" (dict "id" "email") }}</a>
         </div>
     </div>
-    <iframe style="background-image:url('https://rippreport.com/img/bspsc.png');background-size:contain;" loading="lazy" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/696620853&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false"></iframe>
+    <div style="background-image:url('https://rippreport.com/img/bspsc.png');background-size:contain;" class="bsp_container">
+    <iframe  loading="lazy" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/696620853&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false"></iframe>
+    </div>
     {{- $root := . }}
     {{- with default .Site.Params.sidebar.widgets .Params.widgets }}
         {{- range $widget := . }}
