@@ -30,7 +30,7 @@ Rumors say the officer who shot O. J. French was Brandon Thompson. Rumors say he
 
 Mr French is the 9th loss of life in Baldwin County where the BCMCU has investigated themselves. The first 8 found no police at fault and camera footage was withheld from the public..
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjyr3h5b2l" data-bluesky-cid="bafyreiakdjia3xh6ahemzdxavvnep7eouovvguv5xujqtbbcbzimaa56l4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjyr3h5b2l?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjyr3h5b2l?ref_src=embed">Jul 8, 2024 at 5:32 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html" >}}
 
 In the case of Johnthan Victor on April 2021 Judge William Cassady DENIED Hunady, the sheriff deputy who shot Victor four times, and sheriff Mack qualified immunity. The Judges ruling is on appeal by the Baldwin County Sheriff Office. The sheriff provided facts about the case that were untrue. Victor was unarmed and shot from 7 yards.
 
