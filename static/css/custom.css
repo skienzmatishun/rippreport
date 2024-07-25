@@ -35,8 +35,8 @@ body {
 
 p {
     font-size: 1rem;
-    margin-top: 1em;
-    display:inline-block;
+    margin-top: 1.25em;
+    display:block;
 }
 
 blockquote {
