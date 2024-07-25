@@ -12,7 +12,7 @@ O.J. French was only 32 years old when he was shot and killed after being pulled
 
 Be sure to read this article very carefully and you will see red flags have been hanging over the Baldwin County Sheriff’s Office and BCSCU, for a number of years.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjnsxlnk2w" data-bluesky-cid="bafyreiaodaxo6lrpzs66v6syc7ozestrjer26emolzkueqddszmtys3n4y"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjnsxlnk2w?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjnsxlnk2w?ref_src=embed">Jul 8, 2024 at 5:26 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html" >}}
 
 The Rev. Sam White, who graduated high school with French’s older sister, Tamara, spoke during the event on behalf of the family and said there needs to be transparency in the investigation.
 
@@ -24,13 +24,13 @@ BCMCU consists of Bay Minette Police Chief Al Tolbert, who is the current chairm
 
 BCMCU has no credibility. They are investigating themselves and Chief Tolbert of Bay Minette is the Chairman? It is prosperous to believe BCMCU could conduct an unbiased investigation of their own members.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBaldwinCountyLegalEagle%2Fposts%2Fpfbid02y1jRsPhh6TcascMFRuqxXQx8hVQps3i2H8VZF6BQGkcPJEVQdyBHn2yNsEZBi6G2l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/biased-investigation/" >}}
 
 Rumors say the officer who shot O. J. French was Brandon Thompson. Rumors say he was previously fired by the City of Bay Minette and other police forces. Rumors say The alleged rumored officer actually stopped Mr French early in the day. Rumors say Police Chief Tolbert has also been fired from Bay Minette. Rumors say Mayor Wills wants any investigation sealed from the public. Rumors say that there are many deputies of the Sheriff Department that see the BCMCU as a way to cover up actions of a few bad officers. Rumors say Mr. French was shot in the back. Rumors say that the Bay Minette police department was well aware Mr French suffered with diagnosed mental health issues. Rumors say that elected officials plan to remain silent and not to question the actions of the BCMCU, the sheriff or Police Chief Tolbert. Rumors say the officer was back on duty with a weapon within several weeks of the shooting. Rumors say the camera footage will never be provided to the public. Rumors say the grand Jury is flawed by being secret, that often evidence is left out or the information provided by the police is questionable. Rumors say the Grand Jury is just another vehicle the BCSCU uses to cover up officer malfeasance.
 
-Mr French is the 9th loss of life in Baldwin County where the BCMCU has investigated themselves. The first 8 found no police at fault and camera footage was withheld from the public..
+Mr French is the 9th loss of life in Baldwin County where the BCMCU has investigated themselves. The first 8 found no police at fault and camera footage was withheld from the public.
 
-{{< socialpreview url="https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html" >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/videos-capture-confusion-leading-to-deadly-2017-shooting-of-jonathan-victor/article_06afbeac-507d-5b81-aeec-5937c10570a4.html" >}}
 
 In the case of Johnthan Victor on April 2021 Judge William Cassady DENIED Hunady, the sheriff deputy who shot Victor four times, and sheriff Mack qualified immunity. The Judges ruling is on appeal by the Baldwin County Sheriff Office. The sheriff provided facts about the case that were untrue. Victor was unarmed and shot from 7 yards.
 
