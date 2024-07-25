@@ -6,7 +6,15 @@
 {{- $baseURL := $parsedURL.Host -}}
 <div class="social-preview">
     <a href="{{ $json.url }}">
-        <img src="{{ $json.image }}" alt="{{ $json.title }}">
+        {{- if eq $baseURL "www.lagniappemobile.com" -}}
+            {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe" "title" $json.title) }}
+        {{- else if eq $baseURL "www.al.com" -}}
+            {{ partial "svg/alcom.svg" (dict "id" "alcom" "title" $json.title) }}
+        {{- else if eq $baseURL "rippreport.com" -}}
+            {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo" "title" $json.title) }}
+        {{- else -}}
+            <img src="{{ $json.image }}" alt="{{ $json.title }}">
+        {{- end -}}
         <h2>{{ $json.title }} - {{ $baseURL }}</h2>
         <p>{{ $json.description }}</p>
         <span>Read More</span>
