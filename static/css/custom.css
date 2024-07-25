@@ -254,6 +254,11 @@ width: 292px
     animation: fadeIn 1s ease-in forwards;
     animation-delay: 4s;
 }
+.bsp_container {
+background-image:url('https://rippreport.com/img/bspsc.png');
+background-size:contain;
+}
+
 
 @keyframes fadeIn {
     to {
