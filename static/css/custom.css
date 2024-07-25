@@ -807,6 +807,17 @@ display: unset
 }
 
 @media screen and (max-width:375px) {
+    .social-preview:nth-child(even) {
+        float: none;
+        margin-right: 0rem;
+    }
+
+    /* Float right for odd elements */
+    .social-preview:nth-child(odd) {
+        float: none;
+        margin-left: 0rem;
+    }
+
     .g-recaptcha.sib-visible-recaptcha {
         transform: scale(.8);
         -webkit-transform: scale(.8);
@@ -1217,6 +1228,17 @@ textarea.input {
 }
 .cactus-container {min-width:420px;}
 @media screen and (max-width:500px) {
+    .social-preview:nth-child(even) {
+        float: none;
+        margin-right: 0rem;
+    }
+
+    /* Float right for odd elements */
+    .social-preview:nth-child(odd) {
+        float: none;
+        margin-left: 0rem;
+    }
+
     #sib-container {
     padding: 32px 9px
     }
