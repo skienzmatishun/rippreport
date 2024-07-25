@@ -1205,7 +1205,7 @@ textarea.input {
 .checkbox_tick_positive:before {
     left: 49%
 }
-
+.cactus-container {min-width:420px;}
 @media screen and (max-width:500px) {
     #sib-container {
     padding: 32px 9px
