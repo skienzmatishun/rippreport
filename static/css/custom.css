@@ -252,7 +252,7 @@ width: 292px
 .bsp_iframe {
     opacity: 0;
     animation: fadeIn 2s ease-in forwards;
-    animation-delay: 5s;
+    animation-delay: 4s;
 }
 
 @keyframes fadeIn {
