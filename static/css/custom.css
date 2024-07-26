@@ -261,12 +261,12 @@ background-color:#f5f5f5;
 }
 
 .preview_ripp {
-    background:transparent;
+    background:transparent !important;
     color:black !important;
 }
 
 .preview_report {
-    background:transparent;
+    background:transparent !important;
     color:black !important;
 }
 
