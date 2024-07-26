@@ -12,7 +12,7 @@ The Ripp Report is a consumer organization first. We also maintain a blog site, 
 
 On Monday the 25th of November, Judge Johnny Hardwick, Circuit Judge, Montgomery County, will hear a STATUS REVIEW on all pending motions, relative to the Writ of Mandamus, I, Francis Paul Ripp, filed October 18th.
 
-https://rippreport.com/this-is-a-test/
+{{< socialpreview url="https://rippreport.com/this-is-a-test/" >}}
 
 UPDATE: Judge Johnny Hardwick, Montgomery Circuit Judge, explained that he had been selected by the Chief Justice Tom Parker to preside over some ethics cases on November 1st. He explained that he read the evidence to my Writ of Mandamus and found it very interesting and wished he could delve into the case. The Judge however decided to recuse himself from hearing our case, due to a potential conflict of interest.
 
