@@ -37,7 +37,7 @@ The property already has an approved PUD from the previous owners, but instead o
 
 >“Everybody always wants to say their project’s different, but what we typically see when we go to planning commission meetings is it’ll be like, ‘Oh, we’re going to put in more trees’ or, ‘We’re going to use rear entry for the condo,’” said Gray. “But what I haven’t seen is this kind of architectural application to it. This is really a replication of Downtown Fairhope, maybe old Downtown Mobile or New Orleans — areas where you’re seeing these themes come together.”
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3krtpwrqs4u2o" data-bluesky-cid="bafyreibp4k7zutbvmw66pwmrqpdzpnzrslp7juohrq7mbjwz6u2in67b54"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3krtpwrqs4u2o?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3krtpwrqs4u2o?ref_src=embed">May 6, 2024 at 1:45 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://gulfcoastmedia.com/stories/68-ventures-bold-plan-proposed-village-park-development-in-fairhope-to-offer-mix-of-housing,213105" >}}
 
 68 Ventures wasted no time in name dropping Senator Katie Britt as one of there investors. Politicians cashing in on their elected position, that is nothing new in Alabama.
 
