@@ -11,12 +11,12 @@ authors:
 
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4jxnw46526" data-bluesky-cid="bafyreibqosithkddsfiqemki7fghaqeh6le3gyu6dlzbhe4wjhawawztr4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">Feb 23, 2024 at 4:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html >}}
 
 More than 18 years after Murray “Bubba” Lawrence Jr. was sentenced to life without parole for the 2003 murder of a Baldwin County man, criminal rights advocates have unearthed a second autopsy of victim Brandon Hastings that was ordered by the district attorney and signed by the judge overseeing the case, but never revealed during the trial. 
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0XAjSMsqb78WCbUrbXwXZDk2hjfFmHdzYKdBDeyA63nDFbS4pimgUxGXzF1iqVewkl&show_text=true&width=500" width="500" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/rule-32">}}
 
 A “Rule 32 petition” is a petition that people can file to challenge their conviction in court where they were convicted. It’s called a “Rule 32 petition” because it’s filed under Rule 32 of the Alabama Rules of Criminal Procedure. Generally speaking, someone would use a Rule 32 petition to attack their conviction once they’ve been convicted and once their appeals have gone final. A Rule 32 petition is how someone can get back into court.
 
@@ -76,7 +76,7 @@ Haygood, Fairhope Police, the Judge, Prosecutor and Sheriff all were aware of th
 
 Mr. Hastings was not killed by a gunshot, this was the narrative created by prosecutor David Whetstone, Mr Hastings was suffocated. Mr. Whetstone bragged years later how he proved the autopsy report and coroner in Mississippi were wrong and his theory of gunshot was correct.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4k4t2ti42a" data-bluesky-cid="bafyreigzodhraxthr2oeb2gyez67ajbuumypjec4vnkeaa4i4lhezdpavq"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k4t2ti42a?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k4t2ti42a?ref_src=embed">Feb 23, 2024 at 4:24 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.al.com/live/2010/12/experts_das_maneuverings_indic.html" >}}
 
 The Judge, Robert Wilters and lead investigator Lt. Hoss Mack went along with the prosecution, even to the extent of withholding evidence from the defense.
 
