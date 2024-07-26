@@ -14,8 +14,7 @@ You wonder why Fairhope is called FAUXHOPE? It is because nothing is what it see
 
 The property is owned by Niemeyer Realty. Wake up! this is yet more more real estate deal disguised to finance the removal from the property, with donations, sparing the owner the expense. The owner Ken Niemeyer, is quoted by Mr Brewer as saying he has “vowed to preserve it but has “zero confidence” his heirs will do the same.” IT IS A REAL ESTATE DEAL.
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Famous Hermits Hut Could Be Moved - thefairhopetimes<a href="https://t.co/s03XezNYfK">https://t.co/s03XezNYfK</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1730691637750182284?ref_src=twsrc%5Etfw">December 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2023/11/famous-hermits-hut-could-be-moved.html" >}}
 
 Brewer is now seeking donations from the public. Those donations should be made out to the city of Fairhope, to be held in a restricted account. Brewer is seeking as much as $200,000.00., so the owner does not have to come out of pocket. Oh, by the way one donation has been made by Mr Niemeyer for $5000.00. You got to admit this is a bold plan endorsed by the city that could save the developer $195,000.00. How can the city handle these funds in city accounts?
 
@@ -33,6 +32,8 @@ These same square heads voted to destroy the Lewis home:
 
 [Lewis House Demolition Begins - Fairhope Times](http://thefairhopetimes.blogspot.com/2022/11/lewis-house-demolition-begins.html)
 
+{{< socialpreview url="http://thefairhopetimes.blogspot.com/2022/11/lewis-house-demolition-begins.html" >}}
+
 First Baptist Church demolished several houses for the purpose of Grass parking lots, Mr Boone is a church member, go figure.
 
 
@@ -43,7 +44,8 @@ The square heads have yet to tell the citizens of Fauxhope where the 6.2 million
 Remember Boone Burrell and Brown the 3 B’s of the council and how they bullied the city into buying recreation land by the airport? This cost the city 2.65 million and nothing has been done with the property, but rent it to farmers for 9,000 dollars a year. Wonder what the 3 B’s got???
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0TUDGLSCmfA5SLbxYRuzfsP2EM23LFhYYd2vccodwYfxgAf6Nd3Yzo6BGCXns1mnUl&show_text=true&width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/fairhope-sold-to-the-highest-bidder/" >}}
+
 
 Mayor Wilson: 
 >The purchase of 113 acres on 13/32 for future parkland will close in Nov. It will drain all capital improvement funds needed for urgent facility needs and prevent adding four ballparks to fill an immediate capacity need for up to ten years. No thought about re-purposing K-1 Center.
