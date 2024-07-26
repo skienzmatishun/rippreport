@@ -12,13 +12,13 @@
                 {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "www.al.com" -}}
                 {{ partial "svg/alcom.svg" (dict "id" "alcom") }} <br> {{ $json.title }}
-                {{- else if eq $baseURL "1819news.com" -}}
+            {{- else if eq $baseURL "1819news.com" -}}
                 {{ partial "svg/1819news.svg" (dict "id" "1819 news") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "rippreport.com" -}}
                 {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "gulfcoastmedia.com" -}}
-                <img src="https://rippreport.com/img/gulf-coast-media.png"> <br> {{ $json.title }}
-                {{- else -}}
+                <img src="https://rippreport.com/img/gulf-coast-media.png"> <br> {{ strings.TrimSuffix $json.title "- Gulf Coast Media" }}
+            {{- else -}}
                 {{ $json.title }} <br> {{ $baseURL }}
             {{- end -}}
         </h2>
