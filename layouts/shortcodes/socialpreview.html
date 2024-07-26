@@ -12,16 +12,16 @@
                 {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "www.al.com" -}}
                 {{ partial "svg/alcom.svg" (dict "id" "alcom") }} <br> {{ $json.title }}
-            {{- else if eq $baseURL "1819news.com" -}}
-                {{ partial "svg/1819news.svg" (dict "id" "1819news") }} <br> {{ $json.title }}
-                   {{- else if eq $baseURL "rippreport.com" -}}
-                <span class="preview_ripp">RIPP</span>{{ partial "svg/eagle-logo-preview.svg" (dict "id" "ripp report") }} <span class="preview_report">REPORT</span> <br> {{ $json.title }}
-            {{- else -}}
+            {{- else if eq $baseURL "rippreport.com" -}}
+                {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo") }} <br> {{ $json.title }}
+            {{- else if eq $baseURL "gulf-coast-media.com" -}}
+                <img src="https://rippreport.com/p/gulf-coast-media.png"> <br> {{ $json.title }}
+                {{- else -}}
                 {{ $json.title }} <br> {{ $baseURL }}
             {{- end -}}
         </h2>
         <p>{{ $json.description }}</p>
-        <span class="readmore">Read More</span>
+        <span>Read More</span>
     </a>
 </div>
 {{- else -}}
