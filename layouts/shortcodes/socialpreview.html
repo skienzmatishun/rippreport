@@ -16,7 +16,7 @@
                 {{ partial "svg/1819news.svg" (dict "id" "1819 news") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "rippreport.com" -}}
                 {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo") }} <br> {{ $json.title }}
-            {{- else if eq $baseURL "gulf-coast-media.com" -}}
+            {{- else if eq $baseURL "gulfcoastmedia.com" -}}
                 <img src="https://rippreport.com/p/gulf-coast-media.png"> <br> {{ $json.title }}
                 {{- else -}}
                 {{ $json.title }} <br> {{ $baseURL }}
