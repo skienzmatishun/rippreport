@@ -18,11 +18,11 @@ WAKE up Fauxhope and start getting candidates to replace the developer elected C
 
 Watch his lips!
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3ksg7whtps32j" data-bluesky-cid="bafyreib72f5uhrcobu4v3viaiiqpv3glx6tmaoh4ihmizqeni2tnqmvhpu"><p lang="en">The Alabama legislature thought it necessary to postpone municipal elections in 2024 due to the presidential election. A free year in office, full family insurance and the ability to make decisions for Fairhope’s future, without a single vote cast. Only in Alabama.<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksg7whtps32j?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksg7whtps32j?ref_src=embed">May 13, 2024 at 10:19 PM</a></blockquote>
+{{< socialpreview url="https://rippreport.com/p/fairhope-free-year/" >}}
 
 > I bet only 1 or 2 % of the voters in Fairhope know that not one city council person, the mayor or the appointed municipal attorney and municipal judge have been elected or appointed for there 5th year in office. The Alabama legislature thought it necessary to postpone municipal elections in 2024 due to the presidential election. A free year in office, full family insurance and the ability to make decisions for Fairhope’s future, without a single vote cast. Only in Alabama.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3ksfy2azi742t" data-bluesky-cid="bafyreichx5xo2lu5guzt4cgxclxreqmrxvruakz6jv7qiiarl4bs42rnu4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksfy2azi742t?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksfy2azi742t?ref_src=embed">May 13, 2024 at 7:58 PM</a></blockquote>
+{{< socialpreview url="https://casetext.com/case/ripp-v-burrell" >}}
 
 Full title:FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc., Defendant.
 
