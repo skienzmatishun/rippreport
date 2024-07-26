@@ -36,7 +36,7 @@ Another fun fact: Ask Cory the Crier to explain how the city is paying over $500
 ASK CORY TO MATCH THE REPORTS OF 2020
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.<a href="https://t.co/TkIjd5cmET">https://t.co/TkIjd5cmET</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1703483296015860141?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< socialpreview url="https://rippreport.com/p/fauxhope-crier/" >}}
 
 Ask the Mayor/Utility Director and Council where is there report of the state of the city?
 
