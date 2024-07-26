@@ -28,8 +28,7 @@ Full title:FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc., Defendant.
 
 Court:UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA SOUTHERN
 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kspoj4gac42i" data-bluesky-cid="bafyreiegpch67af2bipw44guuhcpb6racagxinehqfviubbbb6tujoqwey"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspoj4gac42i?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspoj4gac42i?ref_src=embed">May 17, 2024 at 4:34 PM</a></blockquote>
+{{< socialpreview url="https://rippreport.com/p/broken-eggs/" >}}
 
 6 million
 
@@ -37,7 +36,7 @@ The fields not being level has come up many times and mostly by the kids playing
 
 No trees, No shade, No seats, Not enough parking, Sub standard construction, poor drainage. The city promised millions in soccer tournaments which ended up millions short.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kspoorrkdu2y" data-bluesky-cid="bafyreiertsxvxhifckvegvxrfgbqatq4vow3ohpedpucdafe4agvoo56k4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspoorrkdu2y?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspoorrkdu2y?ref_src=embed">May 17, 2024 at 4:37 PM</a></blockquote>
+{{< socialpreview url="https://rippreport.com/p/dollars-and-lives/" >}}
 
 6.2 million
 
@@ -46,8 +45,7 @@ The City of Fairhope’s 6.2 million dollar waterfront project became a politica
 What the hell happened? The Mayor and Council are 4 years behind. Where did the money go? Where did the grant go? How much did it cost in design work that was never utilized?
 
 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kspot7m4pt2t" data-bluesky-cid="bafyreiht5niklc6fkis5akqeuyxnsryf6r4rypq4tssaxeahst6w3dkbqe"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspot7m4pt2t?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspot7m4pt2t?ref_src=embed">May 17, 2024 at 4:40 PM</a></blockquote>
+{{< socialpreview url="https://rippreport.com/p/fairhope-sold-to-the-highest-bidder/" >}}
 
 2.65 million
 
@@ -55,7 +53,7 @@ The citizens of Fairhope must know that they are being sold out by developers, t
 
 This was an absolute scam, just like the soccer fields. Boone Burrell and Brown should have been investigated over this purchase.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kspovaqxks2g" data-bluesky-cid="bafyreifiwon3stdu2a7gf27blmpodldfkpvygwhasvh7lwezm5xy22akii"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspovaqxks2g?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kspovaqxks2g?ref_src=embed">May 17, 2024 at 4:41 PM</a></blockquote>
+{{< socialpreview url="https://rippreport.com/p/triangle-roaches/"  >}}
 
 11.2 million
 
