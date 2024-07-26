@@ -260,7 +260,10 @@ background-size:contain;
 background-color:#f5f5f5;
 }
 
-
+.preview_ripp {
+    background:transparent;
+    color:black;
+}
 
 
 @keyframes fadeIn {
