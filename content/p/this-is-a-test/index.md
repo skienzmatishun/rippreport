@@ -20,7 +20,7 @@ Alabama citizens have many options to file complaints, The Governor, The Ethics 
 
 The Ripp Report has filed complaints to all the above, since the revelation of the Executive Director of the Ethics Commission, and attorney, Tom Albritton was “Self Dealing” the Mabel Amos Memorial Fund. Mr Albritton is doing the very act, which is basic corruption, “self Dealing”, enriching oneself, via the public position they hold.
 
-https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/?fbclid=IwAR2pVkWQl8qjpkhOkm66iJOnGWLxiXroSexIefcIniyRgpcaYXpjDDTAY9Q
+https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/
 
 You would think that the media would be on this story like a dog in heat! However so far the Ethics Commission and the Bar Association see no problem with Mr Albritton receiving more than 120,000 dollars for his children’s education, from a trust where he is a trustee. The absurdity of their justifications of Mr. Albritton, further exposes the depth of corruption.
 
