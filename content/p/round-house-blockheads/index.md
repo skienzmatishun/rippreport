@@ -29,9 +29,6 @@ The square head city council and mayor decide the best councilman to handle loca
 
 These same square heads voted to destroy the Lewis home:
 
-
-[Lewis House Demolition Begins - Fairhope Times](http://thefairhopetimes.blogspot.com/2022/11/lewis-house-demolition-begins.html)
-
 {{< socialpreview url="http://thefairhopetimes.blogspot.com/2022/11/lewis-house-demolition-begins.html" >}}
 
 First Baptist Church demolished several houses for the purpose of Grass parking lots, Mr Boone is a church member, go figure.
