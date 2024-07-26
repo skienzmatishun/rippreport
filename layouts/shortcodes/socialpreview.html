@@ -9,13 +9,13 @@
         <img src="{{ $json.image }}" alt="{{ $json.title }}">
         <h2>
             {{- if eq $baseURL "www.lagniappemobile.com" -}}
-                {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }} {{ $json.title }}
+                {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "www.al.com" -}}
-                {{ partial "svg/alcom.svg" (dict "id" "alcom") }} {{ $json.title }}
+                {{ partial "svg/alcom.svg" (dict "id" "alcom") }} <br> {{ $json.title }}
             {{- else if eq $baseURL "rippreport.com" -}}
-                {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo") }} {{ $json.title }}
+                {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo") }} <br> {{ $json.title }}
             {{- else -}}
-                {{ $json.title }} - {{ $baseURL }}
+                {{ $json.title }} <br> {{ $baseURL }}
             {{- end -}}
         </h2>
         <p>{{ $json.description }}</p>
