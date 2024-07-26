@@ -7,7 +7,17 @@
 <div class="social-preview">
     <a href="{{ $json.url }}">
         <img src="{{ $json.image }}" alt="{{ $json.title }}">
-        <h2>{{ $json.title }} - {{ $baseURL }}</h2>
+        <h2>
+            {{- if eq $baseURL "www.lagniappemobile.com" -}}
+                {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }} {{ $json.title }}
+            {{- else if eq $baseURL "www.al.com" -}}
+                {{ partial "svg/alcom.svg" (dict "id" "alcom") }} {{ $json.title }}
+            {{- else if eq $baseURL "rippreport.com" -}}
+                {{ partial "svg/eagle-logo.svg" (dict "id" "eagle-logo") }} {{ $json.title }}
+            {{- else -}}
+                {{ $json.title }} - {{ $baseURL }}
+            {{- end -}}
+        </h2>
         <p>{{ $json.description }}</p>
         <span>Read More</span>
     </a>
