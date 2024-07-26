@@ -13,7 +13,7 @@ Fairhope has had a water shortage for the last three years running. The sewer an
 
 On top of all this Fairhope and 68 Ventures have been in a legal pissing contest for the last couple of years.
 
-{{< socialpreview url="https://www.lagniappemobile.com/news/68-ventures-fairhope-lawsuit-detail-reactions-to-denied-developments/article_dcc87954-f128-11ee-9a65-c7a3f1685c65.html" >}}
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3krtq7okkrq2h" data-bluesky-cid="bafyreibqeh34ucr4y6wasywlwpfmgsk6mavxtdmc6s6jgkhs2p52zq5kya"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3krtq7okkrq2h?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3krtq7okkrq2h?ref_src=embed">May 6, 2024 at 1:50 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 >“The motion states 68 Ventures started “secretly recording commissioners, private citizens and staff” after the commission denied the Skyline and Gables applications before filing their lawsuit.”
 
