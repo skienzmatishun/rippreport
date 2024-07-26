@@ -263,11 +263,13 @@ background-color:#f5f5f5;
 .preview_ripp {
     background:transparent !important;
     color:black !important;
+    margin:0;
 }
 
 .preview_report {
     background:transparent !important;
     color:black !important;
+    margin:0;
 }
 
 
