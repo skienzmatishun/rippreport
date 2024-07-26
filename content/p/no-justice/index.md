@@ -16,7 +16,7 @@ The Baldwin County District Attorney Robert Wilters, was the presiding Judge in 
 More than 18 years after Murray “Bubba” Lawrence Jr. was sentenced to life without parole for the 2003 murder of a Baldwin County man, criminal rights advocates have unearthed a second autopsy of victim Brandon Hastings that was ordered by the district attorney and signed by the judge overseeing the case, but never revealed during the trial. 
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0XAjSMsqb78WCbUrbXwXZDk2hjfFmHdzYKdBDeyA63nDFbS4pimgUxGXzF1iqVewkl&show_text=true&width=500" width="500" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/rule-32" >}}
 
 A “Rule 32 petition” is a petition that people can file to challenge their conviction in court where they were convicted. It’s called a “Rule 32 petition” because it’s filed under Rule 32 of the Alabama Rules of Criminal Procedure. Generally speaking, someone would use a Rule 32 petition to attack their conviction once they’ve been convicted and once their appeals have gone final. A Rule 32 petition is how someone can get back into court.
 
