@@ -11,7 +11,7 @@ authors:
 
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 
-{{< https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
 
 More than 18 years after Murray “Bubba” Lawrence Jr. was sentenced to life without parole for the 2003 murder of a Baldwin County man, criminal rights advocates have unearthed a second autopsy of victim Brandon Hastings that was ordered by the district attorney and signed by the judge overseeing the case, but never revealed during the trial. 
 
