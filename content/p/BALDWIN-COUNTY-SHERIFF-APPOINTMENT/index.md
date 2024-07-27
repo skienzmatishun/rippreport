@@ -116,3 +116,6 @@ Montgomery Alabama 36130
 <a href="tel:3342423300">334-242-3300</a>
 
 {{< socialpreview url="https://governor.alabama.gov/administration/appointments/" >}}
+
+{{< chat baldwincountysheriffappointment >}}
+
