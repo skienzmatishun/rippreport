@@ -46,7 +46,7 @@ The below article was written by Lagniappe’s Scott Johnson and it is accurate 
 
 Haygoods response is riddled with inaccuracies, wrong dates and outright deliberate omissions and misleading statements. These are the same characteristics that the prosecutor and sheriff employed in the wrongful conviction of Murray Lawrence.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4k2vudns24" data-bluesky-cid="bafyreic33p65rwmtd3rxoi653cm2eggjrzescan2ucdorbrknewfkehb54"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k2vudns24?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4k2vudns24?ref_src=embed">Feb 23, 2024 at 4:23 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin_county/prosecutors-argue-unknown-autopsy-in-2003-murder-trial-harmless-error/article_974671a6-b091-11ee-9f63-27d3fd307b70.html" >}}
 
 “(I have) no explanation for why this report was not disclosed. It was certainly a violation of the discovery order in this case for the state not to disclose this second autopsy report,” Haygood stated in the objection.
 
