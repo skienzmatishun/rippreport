@@ -77,8 +77,7 @@ Five people were killed in a wrong-way BCSO pursuit on I-10 that reached speeds 
 “Roughly 10 months have passed since father and son Joseph L. Andrews, 81, and Kevin J. Andrews, 54, were killed when the Chevy Malibu driven by Dominic Scotti Garcia Jr., 26, smashed into them while being chased by a Baldwin County Sheriff’s Office (BCSO) deputy against traffic on the interstate. But the sheriff’s office has released almost zero information about the accident since just after it happened.”
 
 
-https://www.lagniappemobile.com/opinion/columnists/dtt/baldwin-county-sheriff-hoss-mack-is-tight-lipped-in-tragedies/article_7021434f-7c55-5b5d-972d-1985869646af.html
-
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kycedmqnbv2v" data-bluesky-cid="bafyreicb4522cgqdo2675x3kledbi67mhb6qvqj4oft4h5f72sdia6swhy"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kycedmqnbv2v?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kycedmqnbv2v?ref_src=embed">Jul 27, 2024 at 5:59 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
  “Naturally, the DA’s office also refused to say anything, so four different families, and the public all continue to sit in limbo while something (possibly?) happens.
 
