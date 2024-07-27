@@ -15,8 +15,6 @@ authors:
 
 9/11 let us never forget, over 3000 lives lost. Today we face another tragedy, Covid-19, which is claiming in the United States, 6000 lives a week, 192,000 to date, Think about that.
 
-[https://www.cnn.com/us/911-attack-anniversary/index.html](https://www.cnn.com/2020/09/11/us/911-attack-anniversary/index.html)
-
 For years I have provided documents and other evidence that implicates Attorneys, Judges, Mayors and Council members involved in illegal activity, and in most cases, using their elected office for personal gain. Complaints to the Ethics Commission, Bar Association, Judiciary, Attorney General, and in some cases FBI, all fall on deaf ears.
 
 When the general public is confronted with the allegations of corruption and then there is no accountability, time after time, ultimately they buy in to conspiracy theory's spun by accused elected officials. The ole Shoot the Messenger trick.
@@ -27,7 +25,7 @@ Mr Gallion’s book vindicates my long standing allegations that Baldwin County 
 
 I have provided a book review for you from LEGAL SCHNAUZER
 
-[https://legalschnauzer.blogspot.com/2020/07/tales-of-intrigue-from-tommy-gallion\_29.html](https://legalschnauzer.blogspot.com/2020/07/tales-of-intrigue-from-tommy-gallion_29.html)
+{{< socialpreview url="https://legalschnauzer.blogspot.com/2020/07/tales-of-intrigue-from-tommy-gallion.html"> }}
 
 Shadow Government, Southern Style: A Saga of Political Corruption From D.C. to Dixie (2020), by Thomas T. Gallion III; available from Amazon and Kindle eBooks
 
