@@ -36,8 +36,6 @@ Another fun fact: Ask Cory the Crier to explain how the city is paying over $500
 ASK CORY TO MATCH THE REPORTS OF 2020
 
 
-{{< socialpreview url="https://rippreport.com/p/fauxhope-crier/" >}}
-
 Ask the Mayor/Utility Director and Council where is there report of the state of the city?
 
 
