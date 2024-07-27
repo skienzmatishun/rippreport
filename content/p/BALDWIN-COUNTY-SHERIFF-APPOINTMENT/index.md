@@ -69,8 +69,6 @@ The argument was made in a petition for a rehearing filed with the 11th Circuit 
 
 Contact the Appointment Board
 
-
-
 Five people were killed in a wrong-way BCSO pursuit on I-10 that reached speeds of 110mph. Three people burned to death and the other two died as a result of the accident.
 
 
