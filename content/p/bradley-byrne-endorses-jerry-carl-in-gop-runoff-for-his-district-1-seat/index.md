@@ -13,7 +13,7 @@ authors:
 
 {{< socialpreview url="https://altoday.com/archives/34803-bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat" >}}
 
-PLEASE support Mr CARL his opponent is CATALYST. A vote for CATALYST is a vote against your best interest. Baldwin County needs to pull together and vote out all CATALYST “Players”
+PLEASE support Mr CARL his opponent is CATALYST. A vote for CATALYST is a vote against your best interest. Baldwin County needs to pull together and vote out all CATALYST “Players.”
 
 {{< socialpreview url="https://rippreport.com/p/a-decade-of-corruption/" >}}
 
