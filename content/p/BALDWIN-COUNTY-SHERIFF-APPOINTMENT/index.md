@@ -104,7 +104,7 @@ Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld excu
 
 The Ripp Report has done its part. See the letter to the Appointment office below:
 
-<iframe style="height:800px;width:400px;" src="https://rippreport.com/img/letter2bass.pdf"></iframe>
+<iframe style="height:800px;width:800px;max-width:99%;" src="https://rippreport.com/p/letter2bass.pdf"></iframe>
 
 NOW IT’S YOUR TURN PLEASE WRITE OR EMAIL
 
