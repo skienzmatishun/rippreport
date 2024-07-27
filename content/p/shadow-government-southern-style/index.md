@@ -25,7 +25,7 @@ Mr Gallion’s book vindicates my long standing allegations that Baldwin County 
 
 I have provided a book review for you from LEGAL SCHNAUZER
 
-{{< socialpreview url="https://legalschnauzer.blogspot.com/2020/07/tales-of-intrigue-from-tommy-gallion.html"> }}
+{{< socialpreview url="https://legalschnauzer.blogspot.com/2020/07/tales-of-intrigue-from-tommy-gallion.html" >}}
 
 Shadow Government, Southern Style: A Saga of Political Corruption From D.C. to Dixie (2020), by Thomas T. Gallion III; available from Amazon and Kindle eBooks
 
