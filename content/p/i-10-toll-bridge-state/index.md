@@ -28,7 +28,7 @@ We need a special car tag so the rest of the country will give us the due “cre
 
 Mike Lee of logistics firm Page & Jones, former president of the Build the Bridge coalition, said the area has a “generational opportunity” to pursue federal funding this year, with Congress considering infrastructure proposals and Sen. Richard Shelby as vice chair of the appropriations committee until his retirement next year.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Faldotcom%2Fposts%2F10157885797332483&amp;show_text=true&amp;width=500" width="500" height="526" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.al.com/news/2021/06/coastal-alabama-officials-solidify-plans-to-advance-i-10-truck-bridge-project.html" >}}
 
 Mark Colson, president and CEO with the Alabama Trucking Association
 
@@ -56,6 +56,6 @@ Let’s hope Jack does not take Senator Tommy Tubberville or Rep. Mo Brooks with
 
 In Washington doors close if you are from Alabama, they do not open, thanks to our political leaders.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4651858081509623&amp;show_text=true&amp;width=500" width="500" height="615" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/pied-piper/" >}}
 
 ## You get what ya vote for.
