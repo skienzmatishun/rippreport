@@ -43,13 +43,12 @@ BCMCU has no credibility. They are investigating themselves and Chief Tolbert of
 
 Sounds like a COVER UP!
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02AxRKxNv389Je5yYgM5RsnNXLycY9a8JSnHjJjQ3ihQRcZTrkL6rHkpxkgQw1FiH6l&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/bayminette/" >}}
 
 
 > “Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.”
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0dGxeGVVwJd4xsSYNJzmWG8YE5NGAK3atpNzrwBh1UcP6rhWjacQq7qyzoVSrZ9A2l&show_text=true&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/eyes-on-you-/" >}}
 
 > “Instead they live up to Alabama’s title of being the most political corrupt state in the United States. I must admit when it comes to corruption in Alabama, all elected officials appear to be on board. This new delegation is going to rent offices in Bay Minette from the Mayor of Bay Minette. YES you read that right. If you think that is bad the rent for the first 5 years is $245,000.00. That’s just to start. Mayor “GREEDY” Wills sweetened the deal for himself by adding two 5 year lease extensions. The second 5 years .will cost around $283.00.00 and the third 5 year extension for $339.000.00, that totals $867.000.00 in Mayor Wills family bank account, for a building worth far less. It should be noted greedy Bob has an Ethics complaint and a Bar complaint pending. Those complaints will be filed in the corruption file of both agencies, who are equally corrupt.”
 
