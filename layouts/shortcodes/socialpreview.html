@@ -19,7 +19,7 @@
             {{- else if eq $baseURL "gulfcoastmedia.com" -}}
                 <img src="https://rippreport.com/img/gulf-coast-media.png"> <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
                 {{- else if eq $baseURL "https://altoday.com" -}}
-                <img src="https://rippreport.com/img/al_today.png"> <br> {{ $json.title }}
+                <img src="https://rippreport.com/img/al_today.png"> <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
                    {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                  {{ $json.title | strings.TrimSuffix "thefairhopetimes.blogspot.com" }}
             {{- else -}}
