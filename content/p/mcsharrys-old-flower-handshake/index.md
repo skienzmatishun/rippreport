@@ -77,17 +77,13 @@ McSharry has made a mockery of flower town Fauxhope. McSharry and Marcus McDowel
 In addition to the Lagniappe articles, here are a few of the Ripp Report articles:
 
 
-https://rippreport.com/p/%EF%B8%8F/
+{{<  socialpreview url="https://rippreport.com/p/boycott-mcsharry/" >}}
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02iyed788rAtzGfukLonYwv1joNyZWnYnT6ED214YBCCGK1tBoGimoMtaf76gX62JAl&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02EpCCVpZkYiZXv4KEHY9ZPjufF7tiMrTKeZugGuV6dt39MTAarLnhGuon4NzZYHSMl&show_text=true&width=500" width="500" height="584" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### One Woman
-https://rippreport.com/one-woman-2/
+{{< socialpreview url="https://rippreport.com/one-woman-2/"
 
 We have said it three times already and will say it again. Ronan McSharry will do it again, Just wait and see, let’s pray no-one is seriously injured or killed.
 
