@@ -33,7 +33,7 @@ O.J.French-----Stopped by police in Bay Minette for a simple signal violation. H
 The County Commission listened but as usual did nothing:
 
 
-https://www.facebook.com/reel/1454506281718120
+{{< socialpreview url="https://www.facebook.com/reel/1454506281718120" >}}
 
 
 In memory of O.J. Please attend the check-in and walk in remembrance of Otis French Jr. July 31st
@@ -41,7 +41,7 @@ In memory of O.J. Please attend the check-in and walk in remembrance of Otis Fre
 Bay Minette Courthouse.
 
 
-https://www.facebook.com/bayminettejusticeleague
+{{< socialpreview url="https://www.facebook.com/bayminettejusticeleague" >}}
 
 
 Contact the Appointment Board
@@ -62,8 +62,7 @@ Contact the Appointment Board
 Johnathan Victor----Unarmed and shot 4 times from 7 yards with a high powered rifle. What started as a single vehicle accident ended in the killing of an innocent man.
 
 
-https://www.lagniappemobile.com/news/both-sides-seek-rehearing-in-victor-qualified-immunity-case/article_4b8498d8-13d3-11ef-b233-4bb60e2f9120.html
-
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kyceelkk2v2p" data-bluesky-cid="bafyreieo2iw2vvsm2yzjllyauxu7dnacmgrutctz2eaj42suk6iqnwnytm"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kyceelkk2v2p?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kyceelkk2v2p?ref_src=embed">Jul 27, 2024 at 5:59 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 The argument was made in a petition for a rehearing filed with the 11th Circuit Court of Appeals on May 7, which asks the three-judge panel to reconsider a decision last month that denied qualified immunity to Baldwin County Sheriff’s Deputy Mark Hunady. This just may be the case that holds BCSO accountable and it may cost Millions.
 
