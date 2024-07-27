@@ -22,6 +22,8 @@
                 <img src="https://rippreport.com/img/al_today.png"> <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
                    {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                  {{ $json.title | strings.TrimSuffix "thefairhopetimes.blogspot.com" }}
+                       {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
+                 {{ $json.title | strings.TrimSuffix "thefairhopetimes.blogspot.com" }}
             {{- else -}}
                 {{ $json.title }} <br> {{ $baseURL }}
             {{- end -}}
