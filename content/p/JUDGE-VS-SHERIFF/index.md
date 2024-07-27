@@ -14,11 +14,12 @@ Get this straight, this is not about a car. This is about unbridled power of She
 
 OR will the court grow a set of balls and remind the sheriff he is an elected official and his constituents are the boss. The court has got to be the higher power. If the sheriff is the higher power and dictates to the court, you have the political corruption that exists today in Baldwin County.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Judge rules Baldwin County Sheriff’s Office improperly seized man’s Camaro <a href="https://t.co/pE3k15JE7i">https://t.co/pE3k15JE7i</a></p>&mdash; FOX10News | WALA (@FOX10News) <a href="https://twitter.com/FOX10News/status/1701770434809602481?ref_src=twsrc%5Etfw">September 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< socialpreview url="https://www.fox10tv.com/2023/09/13/judge-rules-baldwin-county-sheriffs-office-improperly-seized-mans-camaro/" >}}
 
 Hoss does not like being told to do his job, so the Judge has been advised his actions are not acceptable to the District Attorney and Boss Hoss. The Judge, must reverse his decision, to the satisfaction of the Sheriff.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Baldwin DA’s Office asks judge to reverse his ruling ordering Sheriff’s Office to return Camaro <a href="https://t.co/c71UfLdt5Y">https://t.co/c71UfLdt5Y</a></p>&mdash; FOX10News | WALA (@FOX10News) <a href="https://twitter.com/FOX10News/status/1702735792341233735?ref_src=twsrc%5Etfw">September 15, 2023</a></blockquote>
+{{< socialpreview url="https://www.fox10tv.com/2023/09/15/baldwin-das-office-asks-judge-reverse-his-ruling-ordering-sheriffs-office-return-camaro/" >}}
+
 
 >Baldwin County District Attorney Robert Wilters and Sheriff Hoss Mack have asked a judge to change his ruling compelling the Sheriff’s Office to return a car that deputies seized earlier this month.
 
@@ -28,14 +29,13 @@ Do ya remember 10 years ago when the infamous Boom Boom Pittman sponsored legisl
 
 Baldwin County was the only county in the state with such qualifications.
 
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/B5eZgKQVr5">https://t.co/B5eZgKQVr5</a><a href="https://t.co/Ol7dj3EOYV">https://t.co/Ol7dj3EOYV</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1705263171643007413?ref_src=twsrc%5Etfw">September 22, 2023</a></blockquote>
-
+{{< socialpreview url="https://www.al.com/live/2013/05/senate_bill_sets_new_standards.html" >}}
 
 "I just felt like at this point with all that's going on... we need somebody that has above the minimum standards in order to adequately do that job," said Sen. Trip Pittman, who sponsored Senate Bill 312.
 
 Three years earlier, then State Senator Pittman awarded himself $750,000.00 of B/P money. Birds of a feather flock together.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wake up Baldwin County you have a serious problem with Baldwin Sheriff Office and Sheriff Hoss the “BOSS” Mack.<a href="https://t.co/d3kscDxcHx">https://t.co/d3kscDxcHx</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1705264661078118431?ref_src=twsrc%5Etfw">September 22, 2023</a></blockquote> 
+{{< socialpreview url="https://rippreport.com/p/boss-sheriff/" >}}
 
 The Baldwin County Sheriff has his own Major Crimes Division. This way any issues, such as a citizen being killed by the sheriff’s office, are investigated by the sheriff’s office. It is no surprise that the BCSO has NEVER been held responsible, for anything. Transparency and accountability do not exist in the Baldwin County Sheriff’s Office, THE BOSS is the BOSS.
 

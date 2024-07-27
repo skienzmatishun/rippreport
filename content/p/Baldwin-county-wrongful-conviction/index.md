@@ -27,7 +27,7 @@ Stay in contact with the Ripp Report for the updates on the wrongful conviction 
 {{< socialpreview url="https://rippreport.com/p/railroaded-by-the-law/" >}}
 
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.
-	
+
 
 
 
