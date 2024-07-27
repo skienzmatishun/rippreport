@@ -10,7 +10,7 @@ authors:
 
 Let’s top off 2022 by the most audacious local political corruption this year. I say audacious however it could be an example of the mental capacity of our elected officials. You would think that Sunday’s Sermon would be hard to beat:
 
-https://rippreport.com/sunday-sermon/
+{{< socialpreview url="https://rippreport.com/sunday-sermon/" >}}
 
 > “Instead they live up to Alabama’s title of being the most political corrupt state in the United States. I must admit when it comes to corruption in Alabama, all elected officials appear to be on board. This new delegation is going to rent offices in Bay Minette from the Mayor of Bay Minette. YES you read that right. If you think that is bad the rent for the first 5 years is $245,000.00. That’s just to start. Mayor “GREEDY” Wills sweetened the deal for himself by adding two 5 year lease extensions. The second 5 years .will cost around $283.00.00 and the third 5 year extension for $339.000.00, that totals $867.000.00 in Mayor Wills family bank account, for a building worth far less. It should be noted greedy Bob has an Ethics complaint and a Bar complaint pending. Those complaints will be filed in the corruption file of both agencies, who are equally corrupt.”
 
@@ -32,7 +32,7 @@ Ask yourself what could possibly exacerbate this idiotic situation to another le
 
 Mr. Simpson has just been elevated to Chairman of the Ethics and Finance Committee by the new Alabama Speaker of the house. The speaker was unaware of the BCLD lease to Mayor Wills.
 
-[https://www.al.com/news/2022/12/incoming-alabama-house-speaker-nathaniel-ledbetter-names-8-committee-chairs.html](https://www.al.com/news/2022/12/incoming-alabama-house-speaker-nathaniel-ledbetter-names-8-committee-chairs.html)
+{{< socialpreview url="https://www.al.com/news/2022/12/incoming-alabama-house-speaker-nathaniel-ledbetter-names-8-committee-chairs.html" >}}
 
 “State Rep. Matt Simpson, R- Daphne, will chair the House Ethics & Campaign Finance Committee. Simpson was elected to the House in 2018. He is a former prosecutor for Baldwin County and also worked with the Mobile County District Attorney’s office. Simpson is an attorney with the Davis, Davis & Associates law firm, where he specializes in adoptions, mediations, civil litigation, probate law, and business law cases.”
 
