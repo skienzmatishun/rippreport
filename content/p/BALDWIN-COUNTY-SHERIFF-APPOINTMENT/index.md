@@ -98,7 +98,7 @@ This is nine people that lost their lives that we know of.
 How about the wrongful convictions:
 
 
-{{< socialpreview="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
 
 Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld exculpatory evidence from the defense and sent an innocent man to jail for 20 years. Anthony Lowery was an investigator in the case and had knowledge of the available evidence. All four remained silent and most enjoyed promotions on the back of an innocent man.
 
