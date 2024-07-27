@@ -3,7 +3,7 @@ title: "JUDGE VS. SHERIFF"
 date: 2023-09-22
 thumbnail: "img/judge-vs-sheriff.jpg"
 categories: 
-  - freaky-friday
+  - bcso
 authors: 
   - admin
 ---
