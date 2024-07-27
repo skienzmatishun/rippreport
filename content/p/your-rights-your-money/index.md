@@ -24,7 +24,7 @@ Sheriff Mack had help with the legislation with then State Senator Tripp Pittman
 
 Baldwin County is now in a very dangerous situation. The Alabama Supreme Court has insulated the Baldwin County Sheriff Department, BCSO, from any transparency or accountability. Your tax dollars and more importantly your rights are now in the hands of the BCSO.
 
-{{< socialpreview url="https://www.al.com/news/2021/09/archibald-alabama-supreme-court-dares-to-trample-your-rights.html"
+{{< socialpreview url="https://www.al.com/news/2021/09/archibald-alabama-supreme-court-dares-to-trample-your-rights.html" >}}
 
 “Ponder the scope of today’s decision: The statute will now hide from the public eye ‘any materials related to a particular investigation;’ all ‘items of substantive evidence that existed before the investigation began, such as video recordings or documentary evidence relevant to the crime.’” Chief Justice Tom Parker.
 
