@@ -16,7 +16,7 @@ The Mayor’s letter makes no mention of the fact that Alabama is the most polit
 
 Mayor Bob Wills message is that “the allegations of a “cover up” and other allegations are without merit”. The letter itself is part of a potential “cover up”. Mayor Wills is more interested in his golf game than consoling the citizens of Bay Minette. He has done everything that would make you suspicious of a “cover up”. Mayor Wills reputation of questionable self serving deals that he has been involved in, have resulted in ethics complaints and Alabama Bar complaints. Those complaints fell on deaf ears but we all know the primary duty of the Alabama Bar and the Ethics Commission is to “cover up” for corrupt politicians.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid02BgFKZzyigvubJvzuNXzzUJwoUNM6YniD27V9C8fvwAEiJ1PZoCCBNsTNxiUjMmyTl&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/what-was-he-thinking/article_35b1c65a-bd2d-11ed-a14f-c736e95701c3.html" >}}
 
 > “In a court document last week, Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing in his oversight of a charitable trust called the Mabel Amos Memorial Fund (MAMF). Marshall’s damning words came as part of a motion in a civil suit filed by Amos’s relatives, who have been trying to find a way to make their great aunt’s fund run as she intended.”
 
@@ -26,7 +26,7 @@ Mr. Albritton is the Executive Director of the Ethics Commission. He now has thr
 
 According to Wills, Bay Minette officers are also scheduled to attend training on mental health crisis intervention de-escalation techniques from AltaPoine Health. The department will also be attending training to sharpen their “conflict resolution abilities using firearms training systems.” This was after the killing of Mr. French.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02yDVchXF5JjvTxx8oT8aSELKVFHvo8gDLj2jRG5BWML9otXVfAWrUf1orxaFuciJKl&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/rumors/" >}}
 
 
 Rumors is all the public has because Baldwin County Major Crimes Unit, BCMCU, the County Commission and the City of bay Minette, Mayor and Council have all swallowed their tongue. They are solely responsible for the lack of information, misinformation and rumors circulating throughout Baldwin County.
