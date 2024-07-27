@@ -24,7 +24,7 @@ One thing you can say about Fairhope City Council, is that they are consistent. 
 
 Mr Burrell and Council was sued, in Federal court, for denying public speech:
 
-https://rippreport.com/see-ya-in-court-jack/
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 The meeting in question, along with Ripp’s nasty confrontation with Council President Burrell—who denied Ripp his right to speak in a public forum sanctioned by City of Fairhope ordinance—and threatened his removal and arrest for trying to address the council—was captured on the official video of the council meeting.
 
@@ -46,7 +46,7 @@ No public participation, no video record, no accountability, no transparency, no
 
 Jack has cost Fairhope millions of dollars in very poor decisions, where he alone or with a few selected friends, made bad deals without any oversight. He has a well established record of suppressing information while providing, bogus B.S.
 
-https://rippreport.com/you-dont-know-jack/
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
 The Airport Authority sent out an RFP on September 21, 2015 and had a submittal date of October 13, 2015.
 
@@ -54,23 +54,23 @@ This was only 22 days?
 
 The next step was an RFP opening of the bids October 20, 2015. This was for a ground lease for a commercial hanger on plat 2, a second commercial hanger. October minutes of the Airport Authority reflect
 
-https://rippreport.com/quarterback-sneak/
+{{< socialpreview url="https://rippreport.com/p/quarterback-sneak/" >}}
 
 In Fairhope, the quarterback is none other than the most sneaky and corrupt politician in Baldwin County. The great negotiator, Sneaky Jack Burrell, who chose tonight to use the City Council meeting, which no-one goes to, to swear in the Municipal Judge Haymes Snedeker.
 
-https://rippreport.com/got-fleas/
+{{< socialpreview url="https://rippreport.com/p/got-fleas/" >}}
 
 In a letter to Sullivan and Council President Jack Burrell last week, Raines expressed concern the proposal will not be fully vetted by citizens prior to council approval.
 
-https://rippreport.com/csb-railroad-nomination/
+{{< socialpreview url="https://rippreport.com/p/csb-railroad-nomination/" >}}
 
 The council denies they knew anything about Robert Brown purchasing his ”family” property July 21 2020. Once it was made public and on the record, Council President Burrell got all tongue tied trying to defend his railroad nomination process. He contradicts himself numerous times and ends up with one of his episodes of gibberish.
 
-https://rippreport.com/selected-not-elected/
+{{< socialpreview url="https://rippreport.com/p/selected-not-elected/" >}}
 
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.
 
-https://rippreport.com/a-slap-on-the-wrist/
+{{< socialpreview url="https://rippreport.com/p/a-slap-on-the-wrist/" >}}
 
 The City attorney, Marcus McDowell, works for the council, Jack Burrell controls the council. McSharry is, or was, Jack’s closest friend. Fairhope councilman “Strawman” Kevin Boone is the father of Scott Boone and the conduit to SBC, this is a very cozy and politically connected Cabal.
 
