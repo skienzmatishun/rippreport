@@ -72,7 +72,7 @@ The citizens of Baldwin County are being challenged by the very people we electe
 
 It’s a tale of two papers, Lagniappe and Gulf Coast Media. Lagniappe provides the Mayor’s name as property owner and much more details that Gulf Coast omitted.
 
-https://www.lagniappemobile.com/lagnia-pod/baldwin-delegation-paying-local-mayor-245k-for-office-space/article\_3c37c120-70d2-11ed-b391-3ba5949701e9.html
+[https://www.lagniappemobile.com/lagnia-pod/baldwin-delegation-paying-local-mayor-245k-for-office-space/article\_3c37c120-70d2-11ed-b391-3ba5949701e9.html](https://www.lagniappemobile.com/lagnia-pod/baldwin-delegation-paying-local-mayor-245k-for-office-space/article\_3c37c120-70d2-11ed-b391-3ba5949701e9.html)
 
 “Baldwin County’s state legislators have decided to use taxpayer money to rent office space in Bay Minette Mayor Bob Wills’ law office, according to a lease agreement presented to the Baldwin County Commission last week. The deal would see the legislative delegation pay $4,090 per month for a term of five years.
 
