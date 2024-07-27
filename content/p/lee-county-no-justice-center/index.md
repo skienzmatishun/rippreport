@@ -17,7 +17,8 @@ Here is another consideration: Let's say it is obvious that the police overstepp
 
 In Baldwin County the Prosecutor, Lead Sheriff Investigator, who is now sheriff, Judge and several sheriff deputies convicted an innocent man of capital murder. He has been in jail for 20 years. How could this happen? The Police Fraternity.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3km4jxnw46526" data-bluesky-cid="bafyreibqosithkddsfiqemki7fghaqeh6le3gyu6dlzbhe4wjhawawztr4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3km4jxnw46526?ref_src=embed">Feb 23, 2024 at 4:21 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
+
 
 The surfacing of this second autopsy and its exclusion from Lawrence’s 2005 trial raises the specter of a “Brady Information” violation in the case that his attorney believes should at least afford him a new trial. Lawrence was convicted in a trial that had no physical evidence identifying him as the killer.
 
@@ -53,7 +54,7 @@ Do you think that the police, city, judge, and prosecutor were not aware of what
 
 I did not attend the trial however I have read many legal documents relative to the case. I did attend the sentencing hearing in the Lee County Justice Center where there was an audience of police officers in the back of the room plus all the other officers working in the courtroom.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3knhjrn2qzh2w" data-bluesky-cid="bafyreiekecugs57lx6krbrv3yypcrhvn2ntzyf5acsfbks2c6wdvg27h2y"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3knhjrn2qzh2w?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3knhjrn2qzh2w?ref_src=embed">Mar 11, 2024 at 7:42 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://1819news.com/news/item/east-alabama-prosecutor-to-run-for-circuit-judge-12-16-2021" >}}
 
 Judge Tickle was the presiding Judge. He was formerly a prosecutor for 15 years and tried hundreds of cases in both Opelika municipal and Lee County Courts. He is also a member of the First Baptist Church where he serves as a Sunday School teacher for high school students. Nothing funny about Judge Tickle who has allegedly bragged about sentencing over 3000 years of prison time. Figure what that would be at a 15 thousand a year for each year incarcerated. If that is true it sure does not sound christian.
 
