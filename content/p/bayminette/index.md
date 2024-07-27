@@ -16,7 +16,7 @@ Mayor Wills priority is to build a justice center and support the 903 bed new ja
 
 Let’s not forget Mr O J French:
 
-{{< socialpreview url="https://rippreport.com/rumors/">}}
+{{< socialpreview url="https://rippreport.com/p/rumors/">}}
 
 Rumors is all the public has because Baldwin County Major Crimes Unit, BCMCU, the County Commission and the City of bay Minette, Mayor and Council have all swallowed their tongue. They are solely responsible for the lack of information, misinformation and rumors circulating throughout Baldwin County.
 
