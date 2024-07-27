@@ -16,7 +16,7 @@ Mayor Wills priority is to build a justice center and support the 903 bed new ja
 
 Let’s not forget Mr O J French:
 
-https://rippreport.com/rumors/
+{{< socialpreview url="https://rippreport.com/rumors/">}}
 
 Rumors is all the public has because Baldwin County Major Crimes Unit, BCMCU, the County Commission and the City of bay Minette, Mayor and Council have all swallowed their tongue. They are solely responsible for the lack of information, misinformation and rumors circulating throughout Baldwin County.
 
@@ -24,7 +24,7 @@ Mayor Wills is one of those people that will speak loud to get attention and bro
 
 Mayor Wills has just pulled off a quarter million dollar deal. Read the article below, printed in it’s entirety.
 
-[https://gulfcoastmedia.com/stories/baldwins-state-legislators-to-move-offices-in-bay-minette,139885](https://gulfcoastmedia.com/stories/baldwins-state-legislators-to-move-offices-in-bay-minette,139885)
+{{< socialpreview url="https://gulfcoastmedia.com/stories/baldwins-state-legislators-to-move-offices-in-bay-minette,139885" >}}
 
 By Guy Busby Government Editor guy@gulfcoastmedia.com
 
