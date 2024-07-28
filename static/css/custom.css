@@ -306,6 +306,7 @@ background-color:#f5f5f5;
     background: #eaeaea;
     padding-bottom: .25rem;
     margin-bottom: 2rem;
+    border:solid gray .5px;
 }
 
 .social-preview:nth-child(even) {
