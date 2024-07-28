@@ -61,8 +61,7 @@ Contact the Appointment Board
 
 Johnathan Victor----Unarmed and shot 4 times from 7 yards with a high powered rifle. What started as a single vehicle accident ended in the killing of an innocent man.
 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kyceelkk2v2p" data-bluesky-cid="bafyreieo2iw2vvsm2yzjllyauxu7dnacmgrutctz2eaj42suk6iqnwnytm"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kyceelkk2v2p?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kyceelkk2v2p?ref_src=embed">Jul 27, 2024 at 5:59 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/both-sides-seek-rehearing-in-victor-qualified-immunity-case/article_4b8498d8-13d3-11ef-b233-4bb60e2f9120.html" >}}
 
 The argument was made in a petition for a rehearing filed with the 11th Circuit Court of Appeals on May 7, which asks the three-judge panel to reconsider a decision last month that denied qualified immunity to Baldwin County Sheriff’s Deputy Mark Hunady. This just may be the case that holds BCSO accountable and it may cost Millions.
 
