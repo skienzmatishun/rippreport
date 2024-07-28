@@ -1,6 +1,7 @@
 ---
 title: "WHERE IS THE MEDIA?"
 date: 2021-08-06
+thumbnail: "img/where-is-the-media.png"
 categories: 
   - freaky-friday
 authors: 
