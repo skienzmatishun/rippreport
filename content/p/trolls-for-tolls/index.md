@@ -10,15 +10,17 @@ authors:
 
 The Bayway Bridge project started years ago with politicians biting their tongue’s and saying little about how they were going to finance the project. Then came the discussion about tolls, again they bit their tongue’s. Next, came Jim Zigler and his Facebook page:
 
-[https://www.facebook.com/groups/blockthetolls/](https://www.facebook.com/groups/blockthetolls/)
+{{< socialpreview url="https://www.facebook.com/groups/blockthetolls/" >}}
 
-Over 50,000 people liked the site and faster than a politician could tell a lie, they all flipped flopped and said no tolls. A year, and several plans later went by, and all of a sudden Mobile and Baldwin MPO’s have married together to give a unified front FOR tolls. This political strategy puts all the politicians in the same pot and insulates them, somewhat, from public opinion, they think. [https://www.al.com/news/2022/01/poll-shows-lack-of-support-for-toll-i-10-bridge-but-officials-unsurprised-by-results.html](https://www.al.com/news/2022/01/poll-shows-lack-of-support-for-toll-i-10-bridge-but-officials-unsurprised-by-results.html)
+Over 50,000 people liked the site and faster than a politician could tell a lie, they all flipped flopped and said no tolls. A year, and several plans later went by, and all of a sudden Mobile and Baldwin MPO’s have married together to give a unified front FOR tolls. This political strategy puts all the politicians in the same pot and insulates them, somewhat, from public opinion, they think.
+
+{{< socialpreview url="https://www.al.com/news/2022/01/poll-shows-lack-of-support-for-toll-i-10-bridge-but-officials-unsurprised-by-results.html" >}}
 
 “We are going to have a toll-free route and if you don’t want to pay the toll, you can take the toll-free route,” Burrell said. “We have done everything we can. We don’t see money coming from the federal infrastructure bill to pay for the bridge. We don’t see (additional) state money coming.”
 
 The number one reason to be suspicious of anything dealing with the bridge is, take it or leave it, Jack Burrell. His track record as a councilman has been horrible and currently he is involved in yet another controversy at the Fairhope Airport Authority.
 
-https://rippreport.com/lego-rocket-scientist/
+{{< socialpreview url="https://rippreport.com/lego-rocket-scientist/" >}}
 
 Mr. Burrell being the spokesman for the I-10 project, in light of his failures, is reason enough to oppose tolls.
 
@@ -32,7 +34,7 @@ Consider this:
 
 David Peterson
 
-[BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)](http://facebook.com/baldwincountycitizen)
+{{< socialpreview url="http://facebook.com/baldwincountycitizen" >}}
 
 FYI: While doing some research on Toll Roads I found and article which I feel relates to the proposed I-10 Toll Bridge. If this applies in Pennsylvania then why shouldn't it apply in Alabama? (In 2007, Pennsylvania legislators passed Act 44, allowing the state to take steps toward tolling Interstate 80, running east to west through the middle of the state. Proceeds from the toll would bring in hundreds of millions of dollars each year for road repairs and public transit systems. The problem with this is states need federal authorization to add tolls to interstates. This year, the U.S. Department of Transportation rejected Pennsylvania’s third request to add tolls to I-80, leaving the state scrambling to fill a $472 million hole in its transportation budget.)
 
