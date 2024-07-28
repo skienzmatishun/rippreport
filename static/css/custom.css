@@ -306,7 +306,6 @@ background-color:#f5f5f5;
     background: #eaeaea;
     padding-bottom: .25rem;
     margin-bottom: 2rem;
-      border: solid #bdbdbd .5px;
 }
 
 .social-preview:nth-child(even) {
@@ -314,6 +313,7 @@ background-color:#f5f5f5;
     margin-right: 2rem;
 }
 
+/* Float right for odd elements */
 .social-preview:nth-child(odd) {
     float: right;
     margin-left: 2rem;
@@ -519,6 +519,12 @@ a.logo__link span {
     margin: 10px
 }
 
+.icon-files,
+.pika-single.is-hidden,
+.post__header.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text,
+main.dwtd__article article.post header.post__header.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
+    display: none
+}
 
 .backstory-logo,
 .backstory-sidebar {
@@ -715,6 +721,121 @@ p.widget__summary {
     outline: 0
 }
 
+.sib-container--medium.sib-container--horizontal .sib-sms-select__calling-code,
+.sib-container--small .sib-sms-select__calling-code {
+    max-width: 50px;
+    padding: 8px 4px
+}
+
+.sib-sms-select__phone-number {
+    width: calc(100% - 70px);
+    height: 100%;
+    padding: 8px;
+    border-radius: 3px;
+    border: 0;
+    outline: 0;
+    font-size: inherit
+}
+
+.sib-sms-select__label-text {
+    margin-left: 8px
+}
+
+.sib-form *,
+.sib-form ::after,
+.sib-form ::before {
+    box-sizing: border-box
+}
+
+.sib-form {
+    background-attachment: fixed;
+    font-size: 16px;
+    padding: 32px 12px;
+    margin: 0
+}
+
+.sib-form__declaration {
+    display: flex;
+    padding: 0 16px;
+    align-items: center
+}
+
+.sib-form__declaration .declaration-block-icon {
+    display: flex;
+    padding: 0 16px 0 0;
+    margin: 0
+}
+
+.sib-form__declaration .declaration-block-icon [class^=svgIcon] {
+    width: 65px;
+    height: 65px
+}
+
+.sib-form__declaration p {
+    line-height: 1.5em;
+    margin: 0
+}
+
+.sib-form--blockPosition {
+    position: relative
+}
+
+.sib-form ol,
+.sib-form ul {
+    padding: 0
+}
+
+#sib-container {
+background: #fff;
+margin: 0 auto;
+padding: 17px;
+display: inline-block;
+width: 100%
+}
+
+#sib-form {
+text-align: left
+}
+
+#sib-form .entry__choice label {
+display: unset
+}
+
+.sib-menu {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    background-color: #fff;
+    border: 1px solid #d1d1d1;
+    border-radius: 3px;
+    margin-top: 8px
+}
+
+.sib-menu .entry__choice {
+    width: 100%;
+    padding: 0;
+    text-indent: 0
+}
+
+.sib-menu__item-list {
+    margin: 8px 0 0;
+    list-style: none;
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-shadow: none;
+    max-height: 360px;
+    border: none;
+    padding: 12px 0
+}
+
+.sib-menu__item {
+    line-height: 1.5em;
+    cursor: pointer;
+    padding: 4px 16px;
+    overflow: hidden
+}
 
 .entry__error,
 .progress-indicator {
@@ -745,6 +866,45 @@ p.widget__summary {
         -webkit-transform-origin: 0 0
     }
 
+    .sib-menu__apply {
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 8px
+    }
+}
+
+.sib-menu__apply button {
+    padding: 8px 16px
+}
+
+.sib-menu__separator {
+    font-size: 20px;
+    vertical-align: sub
+}
+
+.sib-menu__select {
+    padding: 0 7px
+}
+
+.sib-menu__selectTextAlign {
+    padding: 0 15px !important
+}
+
+.sib-menu__select button {
+    padding: 8px 5px
+}
+
+.sib-menu .input_replaced {
+    opacity: 0;
+    position: static;
+    width: 0;
+    margin: 0
+}
+
+#sib-other-container .entry__choice--other,
+.sib-menu .sib-multiselect__label {
+    width: 100%
+}
 
 #sib-other-container .entry__controls--other {
 margin-left: 1.5em
