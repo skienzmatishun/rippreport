@@ -1,6 +1,6 @@
 ---
 title: "Letter to the Alabama Attorney General"
-thumbnail: "img/letter-to-the-attorney-general.png"
+thumbnail: "img/letter-to-the-attorney-general-thumb.png"
 date: 2021-07-16
 categories: 
   - freaky-friday
