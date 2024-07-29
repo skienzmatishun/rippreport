@@ -22,7 +22,7 @@ The delegation will tell you these are not automatic lease renewals they will ha
 
 Guess who is one of the major architects of this dirty lease? None other than Senator Chris Elliott. He has already vehemently defended the lease to greedy Bob Wills, on radio, and I am sure in church today. You may remember him for the 1% tax he shoved down our throats, or maybe the DUI he promised to face up to, only to climb in a hole and have attorneys get him off the hook. He also thinks poor people should be denied access to health care.
 
-[https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article\_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html](https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html)
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html" >}}
 
 “suit argued he would suffer, “irreparable harm and damage by the suspension of his driving privileges. He will be unable to work and serve in his elected capacity as a Baldwin County commissioner.” In layman’s terms Elliott said his elected position is too important for him to lose his license when he breaks the law. Hard to see that as anything more than a textbook example of trying to get “special treatment.”
 
