@@ -18,7 +18,7 @@ Catalyst a shadow political group is responsible to only, the good ole boys. Cat
 
 Steve would be the ear for Tucker and the worst choice. Steve needs to be put to pasture with Tucker.
 
-https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
 Johnathan Armstrong, who is running buddies of Commissioner Jeb Ball. Armstrong also shares a business interest with Mr Ball, Baldwin Substance Abuse Services Inc. BSAS If Mr Armstrong was to win, he and Ball would have a 50% lock vote on the commission. Not only that, they both would be getting two checks a month through the county. Their positions with BSAS makes them Quasi-employees of the county.
 
@@ -52,11 +52,11 @@ Jeb Ball has enjoyed a double paycheck for the last 4 years, now Armstrong wants
 
 Johnathan Armstrong would be a terrible choice and tantamount to voters shooting themselves in the foot.
 
-[https://gulfcoastmedia.com/stories/ball-seeks-election-to-commission-district-1,51284](https://gulfcoastmedia.com/stories/ball-seeks-election-to-commission-district-1,51284)
+{{< socialpreview url="https://gulfcoastmedia.com/stories/ball-seeks-election-to-commission-district-1,51284" >}}
 
 In 2007, Ball started Baldwin Substance Abuse Services Inc. (BSAS), a company certified by the Administrative Office of Courts to provide court-ordered Level 1, Level 2 and educational classes involving drug or alcohol related crimes. BSAS also provides anger management and life skills classes if deemed necessary by the judge
 
-https://rippreport.com/the-pot-and-the-kettle-are-black/
+{{< socialpreview url="https://rippreport.com/p/the-pot-and-the-kettle-are-black/" >}}
 
 Mr Ball is the director of Baldwin County Substance Abuse, BCSA, this infamous LLC was formed by Judges and Lawyers. He is a Catalyst candidate “selected” to replace Burt. BCSA was founded by Judge Michell Thomason, among others, she also was the first client of Catalyst after their name change from Elliott Haygood and Stacy, those names should sound familiar. Many are asking if Mr. Ball was successful in defeating Mr Burt, would he resign from BCSA. Many conflicts of interest are apparent but hell this is Baldwin County what’s a little conflict of interest if it serves the connected few?
 
