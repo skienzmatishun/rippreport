@@ -35,7 +35,7 @@ Howelling Raines gets the credit for the most outlandish lies. A part time resid
 
 Howlimg Rains was like a bad fart, nobody wanted to smell it so they just held their noses and hid.
 
-{{< socialpreview url="https://rippreport.com/p/howling-rains-passing-gas/"
+{{< socialpreview url="https://rippreport.com/p/howling-rains-passing-gas/" >}}
 
 The entire project has been gutted and all the previous public comments trashed. The swimming area was very popular in the first 18 months but that changed in 2 weeks. The jetty was also thrown out as well. The jetty had a multiple purpose’s, protection of the infrastructure and a recreation area for kids, canoes, and kayaks. The same jetty system most likely saved the Grand Hotel from flooding during the last two hurricanes.
 
