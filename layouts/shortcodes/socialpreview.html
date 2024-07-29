@@ -21,7 +21,7 @@
                 {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
                     <br> {{ $json.title }}
             {{- else if eq $baseURL "gulfcoastmedia.com" -}}
-                <img style="height:36px;width:150px;max-width:100%;" src="https://rippreport.com/img/gulf-coast-media.png">
+                <img style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
                     <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
             {{- else if eq $baseURL "www.alreporter.com" -}}
                 <img style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png">
