@@ -22,7 +22,7 @@ We all remember lying “Tax Man” Elliott. He pledged to do the right thing an
 
 "On the advice of counsel, I declined the breathalyzer requested which automatically resulted in the issuance of a citation for driving under the influence of alcohol." Chris Elliott
 
-{{< socialpreview url="https://rippreport.com/a-slap-on-the-wrist/" >}}
+{{< socialpreview url="https://rippreport.com/p/a-slap-on-the-wrist/" >}}
 
 Paula DiNardi case: “At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he allegedly harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.
 
@@ -30,7 +30,7 @@ McSharry has been arrested a total of 9 times, let’s see how he slips out of a
 
 Mayor Mike “Slappin” MCMillan”
 
-{{ socialpreview url="https://mynbc15.com/news/videos/video-of-spanish-fort-mayor-allegedly-slapping-magistrate-surfaces-on-social-media" >}}
+{{< socialpreview url="https://mynbc15.com/news/videos/video-of-spanish-fort-mayor-allegedly-slapping-magistrate-surfaces-on-social-media" >}}
 
 The surveillance video shows Mayor Mike McMillan walk up to the computer at the front desk. He appears to point at it and then turns to City Magistrate Lyndsey Cooper. The video only shows the back of her head. McMillan then raises his hand, moves it toward Cooper's face, and Cooper's head turns.
 
