@@ -7,6 +7,7 @@
     <title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
     <script>(function (d, e) { d[e] = d[e].replace("no-js", "js"); })(document.documentElement, "className");</script>
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
+
     {{- if .Site.Params.opengraph }}
     {{ template "_internal/opengraph.html" . }}
     {{- end }}
@@ -16,6 +17,7 @@
     {{- if .Site.Params.twitter_cards }}
     {{ template "_internal/twitter_cards.html" . }}
     {{- end }}
+
     {{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
     {{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
     <meta name="twitter:image" content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
@@ -28,13 +30,14 @@
     {{ range .Site.Params.customCSS }}
         {{ $customCSS = $customCSS | append (resources.Get .) }}
     {{ end }}
-    {{ $combinedCSS := $style | resources.Concat ($customCSS...) | minify | fingerprint }}
+    {{ $combinedCSS := slice $style | resources.Concat ($customCSS...) | minify | fingerprint }}
 
     <link rel="stylesheet" href="{{ $combinedCSS.Permalink }}">
 
     {{- with .OutputFormats.Get "rss" }}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{- end }}
+
     <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
     {{- if not .Site.IsServer }}
     {{- if hasPrefix .Site.GoogleAnalytics "G-" }}
@@ -43,10 +46,12 @@
     {{ template "_internal/google_analytics_async.html" . }}
     {{- end }}
     {{- end }}
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="stylesheet" {{ printf `href="%s" ` $googleFontsLink | safeHTMLAttr }}>
+
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5539854030915723" crossorigin="anonymous"></script>
 </head>
 <body class="body">
@@ -69,8 +74,9 @@
         </div>
         {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
     </div>
+
     {{ range .Site.Params.customJS -}}
-    <script src="{{ . | relURL }}"></script>
+    <script src="{{ . | relURL }}" defer></script>
     {{- end }}
     {{- partial "mathjax.html" . -}}
 </body>
