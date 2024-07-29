@@ -37,7 +37,7 @@ If any of these three elected officials make comments about this article, then a
 
 This is the first of many posts that will follow in the next few months, maybe years to come.
 
-https://rippreport.com/p/but-i-didnt-do-it/
+{{< socialpreview url="https://rippreport.com/p/but-i-didnt-do-it/" >}}
 
 {{< chat muzzle >}}
 

@@ -34,8 +34,7 @@ I think that Fauxhope Police Department is the best in Baldwin County, and there
 This is a city revenue producing program, paid and fined, by taxpayers and rubber stamped by council.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0stzjm2SYiLKoLEJBGcdufViVUQboiz6sEs1NAapJx2wo3dAGx3SJhLVgG4U9gEZ2l&show_text=true&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://rippreport.com/p/fauxhope-tunnel/" >}}
 
 He says with this project the utilities are already being worked on before the build even starts. “We actually have a water line that is coming for the ALDI store and all of the infrastructure that is coming to the east side, so people have to know that we’re also prepared with the infrastructure. We’re not just developing. The infrastructure is there to develop,” said Martin.
 

@@ -22,7 +22,7 @@ Fairhope paid for the Airport however the Airport holds the title, thanks to Jac
 
 The Airport Authority meetings are no longer video taped for the public, a Jack Burrell move.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4478044045557695&amp;show_text=true&amp;width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/no-radar/" >}}
 
 Jack’s latest stunt involves the Fairhope Airport Authority, FAA, where he already has an infamous reputation for bid rigging.
 
@@ -40,25 +40,19 @@ Source: [https://www.fairhopeal.gov/home/showpublisheddocument/25610/63758998491
 
 Read the resolution and tell me if you can explain it? This is how Fairhope works, write resolutions no one can understand, hide the details and meaning. This is classic Jack and Catalyst.
 
-<iframe src="http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company_18.html" height="1200px" width="600px" style="height:1200px;width:600px;" scrolling="no"></iframe>
-
-Read Full Article:
 
 [http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company\_18.html](http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company_18.html)
 
 2.1 million in tax abatement for a company that is going to hire 5 employees? Does that sound like an economic development plan? Another point is that guess who used to have their office at the same location, allegedly, none other than Capt. Jack. This was another Baldwin County Economic Development plan Mr. Lawson came up with while holding Jack’s hand.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4651858081509623&amp;show_text=true&amp;width=500" width="500" height="615" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/pied-piper/" >}}
 
 The pied piper spent 2.65 million on recreation land that Fairhope now leases for $9,000 dollars a year. Guess where the property is located? By the Airport, Who puts recreational facilities, with elevated lights, next to an Airport?
 
 How about the K-1 purchase for 4 million? Just like any of the purchases the city has made lately, they bought it without a plan. Because they had no plan. The council then had to do about 100,000 worth of “temporary” roof repairs to prevent further damage. Since the purchase, the building has deteriorated to a point that only the front facade may be saved.
 
-<iframe src="https://www.gulfcoastnewstoday.com/stories/fairhope-council-votes-to-purchase-k-1-center-property,67061" height="1200px" width="600px" style="height:1200px;width:600px;" scrolling="no"></iframe>
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/fairhope-council-votes-to-purchase-k-1-center-property,67061" >}}
 
-Read Full Article:
-
-[https://www.gulfcoastnewstoday.com/stories/fairhope-council-votes-to-purchase-k-1-center-property,67061](https://www.gulfcoastnewstoday.com/stories/fairhope-council-votes-to-purchase-k-1-center-property,67061)
 
 Mayor Wilson:
 
@@ -66,15 +60,10 @@ Mayor Wilson:
 
 While the red flags fly Jack and his partner Lee Lawson of Baldwin County Economic Alliance have teamed up with the brain storm of chasing grants for the K-1 center. The first grant was denied, 7 million, now the red flag partners are seeking a 3.5 million dollar grant, supported by a 1 dollar a year lease. WTH
 
-<iframe src="http://www.gulfcoastnewstoday.com/stories/grant-sought-for-k-1-center,107342" height="1200px" width="600px" style="height:1200px;width:600px;" scrolling="no"></iframe>
-
 Read Full Article: [http://www.gulfcoastnewstoday.com/stories/grant-sought-for-k-1-center,107342](http://www.gulfcoastnewstoday.com/stories/grant-sought-for-k-1-center,107342)
 
 Before having the grant or any development plan at all, the city has now leased the k-1 center for a dollar a year to FEEF, who will “maintain” the buildings. How much you want to make a bet that the K-1 will become like the airport, subsidized by the city taxpayers.
 
-<iframe src="http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-leases-pelicans-nest-to-feef,107486" height="1200px" width="600px" style="height:1200px;width:600px;" scrolling="no"></iframe>
-
-Read Full Article:
 
 [http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-leases-pelicans-nest-to-feef,107486](http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-leases-pelicans-nest-to-feef,107486)
 
@@ -86,7 +75,7 @@ What about the hotel that was proposed for the site? That deal was never even co
 
 Another example of red flags flying is the way the city treated the residents of Hawthorn Glenn. Mayor Sullivan and acting Mayor Burrell showed up for the first meeting, then they took the exit door and left the residents high and dry. This is a classic example of the good ole Can’t days, Fauxhope is in reverse.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4630770193618412&amp;show_text=true&amp;width=500" width="500" height="615" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/no-qualifications/" >}}
 
 The subdivision, Hawthorne Glenn, was given less that a week’s notice that their neighborhood had been selected for an electric sub station. For years the electric sub station was proposed to be next next to the ABC store, a commercial location. Instead the city breaks it’s own comprehensive plan for political payback and puts it in a residential area. NO transparency, no ethics, but lots of BS. Think what you would do if this happened to you, your neighborhood.
 
