@@ -11,8 +11,7 @@ authors:
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sewer Upgrades To Purify Discharge Into Bay: <br>Fairhope, Alabama<br>The city council awarded  a $10.8 million cont... <a href="http://t.co/FLqu5fwvYC">http://t.co/FLqu5fwvYC</a></p>&mdash; The Fairhope Times (@Fairhope_Times) <a href="https://twitter.com/Fairhope_Times/status/383050304482058240?ref_src=twsrc%5Etfw">September 26, 2013</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+{{< socialpreview url="http://thefairhopetimes.blogspot.com/2013/09/sewer-upgrades-to-purify-discharge-into.html" >}}
 
 The upgrade should meet the needs of the city for the next 15 years, then a new sewer plant may need to be constructed on city-owned land south of the airport.
 
@@ -20,7 +19,7 @@ The upgrade should meet the needs of the city for the next 15 years, then a new 
 Instead of building a new sewer plant in 2013 for around 20 million Burrell led the charge to upgrade the failing sewer plant, that is still failing to keep up with demand. The council approved 10 million for upgrades that ballooned to 13 million by completion.
 
 
-[ Latest Wastewater Treatment Upgrade Proposal Expensive ](https://thefairhopetimes.blogspot.com/2023/02/latest-wastewater-treatment-upgrade.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2023/02/latest-wastewater-treatment-upgrade.html" >}}
 
 
 > A proposal to replace the head works at the city's wastewater treatment plant at the north end of Church Street met with a cool reception from some council members due to it $5 million estimated price tag.
@@ -38,7 +37,7 @@ FAKE SIGN
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prankster&#39;s sign no cause for concern. A sign erected by the property owner near the Gayfer Road roundabout in east Fairhope is not accurate: the material being stockpiled there is for an upcoming project to enlarge sewer pipes under CR 13. <a href="https://t.co/tMaXNcEOFj">pic.twitter.com/tMaXNcEOFj</a></p>&mdash; The Fairhope Times (@Fairhope_Times) <a href="https://twitter.com/Fairhope_Times/status/1656269034495655937?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Councilman Wants &quot;Second Opinion&quot; On Big Utilities Upgrade ... <a href="https://t.co/G2WTRVi89M">https://t.co/G2WTRVi89M</a> <a href="https://t.co/J3BRAr2yH3">pic.twitter.com/J3BRAr2yH3</a></p>&mdash; The Fairhope Times (@Fairhope_Times) <a href="https://twitter.com/Fairhope_Times/status/1572363598504099840?ref_src=twsrc%5Etfw">September 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2022/09/councilman-wants-second-opinion-on-big.html" >}}
 
 All mouth Burrell is again pulling the wool over taxpayers eyes. The council and Mayor are full steam when it comes to development. They are ignoring the failures of the sewer system and strain on utilities due to out of control development.
 
@@ -54,9 +53,7 @@ Mayor Wilson’s salary was less than half of that of our current Mayor. Mayor S
 
 Here is a little history lesson:
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0PTNuNCT1NMxeK1GkEhSULYJBeUfuCUFzPor9pwqFGGPHvExx2X5Q8MGmt53QWWt9l&show_text=true&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://rippreport.com/p/catalyst-colors/" >}}
 
 Due to the non-budgeted 2.65 million land purchase, the council is now having difficulty approving a budget, which is past due, just like the last three city budget’s. Now the council is talking about police and employee cuts as well as infrastructure and sewer repairs, being delayed.
 

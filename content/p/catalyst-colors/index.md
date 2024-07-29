@@ -1,6 +1,7 @@
 ---
 title: "🚫 CATALYST COLORS 🚫"
 date: 2019-11-07
+thumbnail: "img/catalyst-colors.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
