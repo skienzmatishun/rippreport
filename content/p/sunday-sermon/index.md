@@ -28,8 +28,7 @@ Guess who is one of the major architects of this dirty lease? None other than Se
 
 Must be nice to be a State Senator and not have to worry about DUI, had it been you or I we would be held accountable. Chris will be in Church today shaking hands talking about being a christian and pulling the wool over your Christian eyes.
 
-[https://www.lagniappemobile.com/news/local/video-cameras-were-off-the-night-chris-elliott-was-arrested-for-dui/article\_d49a7980-be1b-516b-98b2-4651b71b6aec.html](https://www.lagniappemobile.com/news/local/video-cameras-were-off-the-night-chris-elliott-was-arrested-for-dui/article_d49a7980-be1b-516b-98b2-4651b71b6aec.html)
-
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/video-cameras-were-off-the-night-chris-elliott-was-arrested-for-dui/article_d49a7980-be1b-516b-98b2-4651b71b6aec.html" >}}
 Our good Senator sold his business when he became a State Senator. He was subsequently fired for not showing up for work, an agreement he made in the sale. This ended up in a lawsuit he had to settle, but Chris “The Tax Man” made sure the settlement was out of the public’s eye.
 
 Here is the kicker many of you may remember back about 10 years ago. At that time Chris was part of the infamous group Stacy, Elliott and Haygood. A political consultant group composed of good ole boys that have used Baldwin County as their piggybank. That group later became Catalyst and then morphed into Scott Boone Consulting. In 2012 Chris’s played a major role in electing none other than Mayor Wills. Think about that!

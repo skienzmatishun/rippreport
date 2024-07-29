@@ -9,7 +9,9 @@ authors:
 
 Baldwin County has a serious problem that continues to escalate without any accountability. Police using excessive force when it is not necessary. The article below is the latest of a string of incidents dating back more than 5 years that has cost 7 lives, Mr. O J French’s death is number 8. Please show up and support the family and get involved.
 
-This article is NOT behind a paywall https://lagniappemobile.com/whats-the-narrative-details-released-by-law-enforcement-can-drive-perception/
+This article is NOT behind a paywall
+
+https://lagniappemobile.com/whats-the-narrative-details-released-by-law-enforcement-can-drive-perception/
 
 Joshua Brown, one of the BMJL organizers, said the police account makes no sense knowing French’s character. He described French as being well read, devoted to his faith and a rising musician who published albums under his artist name, “The Juice.” Those songs were being played during the demonstration at the Bay Minette courthouse square.
 

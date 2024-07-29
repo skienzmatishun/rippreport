@@ -17,7 +17,7 @@ The number one culprit to sprawl is the UN-regulated sewer using right of ways f
 
 BCSS does not care about permits, penalties, or even court, because they ultimately know, you the consumer is paying the price.
 
-[https://www.al.com/news/2022/08/sludge-pond-and-polluted-lagoon-in-gulf-shores-environmental-battle-rages-over-sewer-plant.html](https://www.al.com/news/2022/08/sludge-pond-and-polluted-lagoon-in-gulf-shores-environmental-battle-rages-over-sewer-plant.html?fbclid=IwAR3hYx1fyB3hkdrvliHf3SqzNU7BPpjIKfwGVJ9M29iNef21nZjRAlVYL3I)
+{{< socialpreview url="https://www.al.com/news/2022/08/sludge-pond-and-polluted-lagoon-in-gulf-shores-environmental-battle-rages-over-sewer-plant.html" >}}
 
 “Other questions abound, and there are few answers. One persistent concern is that that sewage is being imported to the Fort Morgan facility from Fairhope and Magnolia Springs.”
 
