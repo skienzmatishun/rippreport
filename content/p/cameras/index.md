@@ -30,7 +30,7 @@ It is also rumored that the Chief of Police in Bay Minette is Sheriff Mack’s p
 
 Reid said he’s watched the officer’s body-cam video several times and there may be other video of the incident. He would not comment on exactly what it shows and it’s MCU policy not to release body-cam footage to the public at this stage of an investigation.
 
-{{ socialpreview url="https://mynbc15.com/news/local/baldwin-county-sheriffs-deputies-to-get-body-cameras" >}}
+{{< socialpreview url="https://mynbc15.com/news/local/baldwin-county-sheriffs-deputies-to-get-body-cameras" >}}
 
 Body cameras that are set up to capture every detail of an officer's day. It's a tool for transparency and to prosecute, if necessary.
 
@@ -60,7 +60,7 @@ The high court ruled the records Lagniappe sought, including dash and body camer
 
 The deadly crash has called into question the BCSO vehicle pursuit policy, which advises against engaging in pursuits for misdemeanor offenses. According to cell phone video captured by passersby during the pursuit, the deputy was also driving an unmarked SUV, which the policy advises against.
 
-[Teen Commits Suicide in Girlfriends Car](https://weartv.com/news/local/teen-commits-suicide-in-girlfriends-car/)
+{{< socialpreview url="https://weartv.com/news/local/teen-commits-suicide-in-girlfriends-car/" >}}
 
 “According to the Baldwin County Sheriff's Office (BCSO), Peyton Little threatened to kill himself hours before it happened. BCSO reports he was riding in the car with his 16-year-old girlfriend when he wrapped his seat belt around his neck and exited the vehicle.”
 
