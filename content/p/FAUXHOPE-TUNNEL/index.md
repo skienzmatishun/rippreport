@@ -26,8 +26,7 @@ Why not develop the property across the street eliminate the tunnel and hold on 
 This week City of Fairhope officials unveiled a new masterplan for the site, including an underground tunnel that will connect two properties and a new purpose for a home that was donated to the city late last year.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGulfCoastMedia%2Fposts%2Fpfbid02ejiabtYbxLAgW4VfLtbN4QMeFEgQXeoZMrEm7n3fDNB2B6azPoZYnLgM31BiJe6sl&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://gulfcoastmedia.com/stories/fairhope-working-waterfront-plan-nearing-completion,122266" >}}
 
 Scott Hutchinson of Goodwyn, Mills and Cawood, told city council members on Monday, March 14 that plans are ready, but the council will need to make final decisions on some details.
 
@@ -35,19 +34,17 @@ Scott Hutchinson of Goodwyn, Mills and Cawood, told city council members on Mond
 The beach has been left out of the plans and it was the number one thing citizens wanted. The project is almost 3 years behind? How much have plans and alterations to the plans cost.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0B1Gk8Di4MmEdK2tMv1kMeAZrnCJG3nYk2qt62NbGgJ5dmWkQfk2Q4rh8Sm9hYga9l&show_text=true&width=500" width="500" height="570" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://rippreport.com/p/double-red-flags-faux-hope/" >}}
 
 Pay attention Fairhope, Jack has plans for the Airport and the citizens are not part of the plan.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0v5EcT5QCoEiN8vzE5HThxyA7wPnFcmK7Lve4x5Z57tvhr4ckXdWrx28yHjdxbEScl&show_text=true&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://rippreport.com/p/honey-bees/" >}}
 
 On May 29th council meeting the Mayor of Fairhope begged the council to reconsider two issues on the agenda. One, the conservation easement involving the triangle property, 102 acres worth 20 million, that the council was willing to give away while at the same time proposing to buy 2.6 million of property on hwy.13. Fairhope paid 8.25 million in a lawsuit plus 3 million in attorney fees as a SETTLEMENT for the property. Burrell and Boone supported the lawsuit that they LOST.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid025Y8CzT4NwiErPHLnt1tuZ9MdbfUbTnko86i1mEczcTKao7hCZorHZ5bxpL77t9Drl&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/pied-piper/" >}}
 
 The pied piper spent 2.65 million on recreation land that Fairhope now leases for $9,000 dollars a year. Guess where the property is located? By the Airport, Who puts recreational facilities, with elevated lights, next to an Airport?
 
@@ -61,16 +58,12 @@ How about the K-1 purchase for 4 million? Just like any of the purchases the cit
 K-1 Listen to facts, because what you have now is BS.
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGulfCoastMedia%2Fposts%2Fpfbid02942A84ni3jKLSJP6AwadBusmw8zcq6ivGhWCcC7jNqsp4j39XabV148QyPxqss5ql&show_text=true&width=500" width="500" height="558" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://gulfcoastmedia.com/stories/fairhope-civic-center-roof-needs-1-million-fix,129798" >}}
 
 Robinson said. "You have to house Mardi Gras here. It's going to take some strategic thinking to do that, if, and when, that decision is made to do something like that, but it's a conversation at this point that's got to be had at some point."
 
 
 The building is over 50 years old and the council keeps putting one million dollar band aids on it.
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWKRGBlakeBrown%2Fposts%2Fpfbid02Zj7JxbCKZdiNpFqdJ8LXKZFFCKAEjTQ5yDJqPeEhmorp2qgdAa2VAcrnjPaXenJVl&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 He says with this project the utilities are already being worked on before the build even starts. “We actually have a water line that is coming for the ALDI store and all of the infrastructure that is coming to the east side, so people have to know that we’re also prepared with the infrastructure. We’re not just developing. The infrastructure is there to develop,” said Martin.
