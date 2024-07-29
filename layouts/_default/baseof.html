@@ -27,10 +27,8 @@
 		content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
 
 	{{- end }}
-	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-	{{ range .Site.Params.customCSS -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
+	{{ $combinedCSS := (slice "css/style.css" "css/custom.css") | resources.Concat "css/main.css" | minify }}
+  <link rel="stylesheet" href="{{ $combinedCSS.RelPermalink }}">
 	{{- end }}
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `
