@@ -12,7 +12,7 @@ O.J. French was only 32 years old when he was shot and killed after being pulled
 
 Be sure to read this article very carefully and you will see red flags have been hanging over the Baldwin County Sheriff’s Office and BCSCU, for a number of years.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjyr3h5b2l" data-bluesky-cid="bafyreiakdjia3xh6ahemzdxavvnep7eouovvguv5xujqtbbcbzimaa56l4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjyr3h5b2l?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjyr3h5b2l?ref_src=embed">Jul 8, 2024 at 5:32 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/videos-capture-confusion-leading-to-deadly-2017-shooting-of-jonathan-victor/article_06afbeac-507d-5b81-aeec-5937c10570a4.html" >}}
 
 The Rev. Sam White, who graduated high school with French’s older sister, Tamara, spoke during the event on behalf of the family and said there needs to be transparency in the investigation.
 
@@ -36,7 +36,7 @@ In the case of Jonathan Victor on April 2021 Judge William Cassady DENIED Hunady
 
 Victor like French had issues with mental health. Sheriff Mack said In open court that the sheriff dept did not have any special training for handling cases involving persons with issues of mental health, How in the hell is that possible?
 
-[Alabama Supreme Court Chief Justice decries ruling against media seeking police files](https://www.montgomeryadvertiser.com/story/news/2021/09/24/alabama-supreme-court-ruled-against-media-seeking-police-records/5850859001/)
+{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/2021/09/24/alabama-supreme-court-ruled-against-media-seeking-police-records/5850859001/" >}}
 
 The Alabama Supreme Court on Friday ruled against a Mobile media outlet seeking law enforcement files related to a fatal police shooting, sparking a fervent dissent from the court's own chief justice regarding the state's public records law.
 

@@ -21,7 +21,7 @@ Baldwin County has become home to it’s own Cabal. They have embedded themselve
 
 Shadow Government Southern Style shines a bright light on how Alabama lost 3 Billion dollars on a scam orchestrated by former Governor Bob Riley and his thieves. The same scam exists today, gambling. The citizens of Alabama have been played like the church organ, while surrounding states have cashed in.
 
-https://rippreport.com/shadow-government-southern-style/
+{{< socialpreview url="https://rippreport.com/p/shadow-government-southern-style/" >}}
 
 This is a book review that will give you a peak inside the Cabal. Baldwin County, especially Fairhope has it’s own Cabal, that the politicians promote every Sunday.
 
