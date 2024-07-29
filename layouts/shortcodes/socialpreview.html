@@ -21,13 +21,13 @@
                 {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
                     <br> {{ $json.title }}
             {{- else if eq $baseURL "gulfcoastmedia.com" -}}
-                <img src="https://rippreport.com/img/gulf-coast-media.png">
+                <img style="height:36px;width:150px;max-width:100%;" src="https://rippreport.com/img/gulf-coast-media.png">
                     <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
             {{- else if eq $baseURL "www.alreporter.com" -}}
-                <img src="https://rippreport.com/img/alreporter.png">
+                <img style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png">
                     <br> {{ $json.title }}
             {{- else if eq $baseURL "www.altoday.com" -}}
-                <img src="https://rippreport.com/img/al_today.png">
+                <img style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
                     <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
             {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                  {{ $json.title }}
