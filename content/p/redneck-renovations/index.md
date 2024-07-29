@@ -27,13 +27,13 @@ https://lagniappemobile.com/planners-aim-to-resolve-misconceptions-about-fairhop
 
 Howelling Raines gets the credit for the most outlandish lies. A part time resident of Fairhope, was recruited by the status quo to criticize the project. He perpetuated the false claim of “bulldozing the Bluff” and what a “grandiose disaster”, the whole project was. The council licked their lips with satisfaction, for every lie their mule told..
 
-[http://www.gulfcoastnewstoday.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288](http://www.gulfcoastnewstoday.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288)
+{{< socialpreview url="https://gulfcoastmedia.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288" >}}
 
 “Plan to bulldoze the historic park at the municipal pier”
 
 Howlimg Rains was like a bad fart, nobody wanted to smell it so they just held their noses and hid.
 
-https://rippreport.com/howling-rains-passing-gas/
+{{< socialpreview url="https://rippreport.com/p/howling-rains-passing-gas/"
 
 The entire project has been gutted and all the previous public comments trashed. The swimming area was very popular in the first 18 months but that changed in 2 weeks. The jetty was also thrown out as well. The jetty had a multiple purpose’s, protection of the infrastructure and a recreation area for kids, canoes, and kayaks. The same jetty system most likely saved the Grand Hotel from flooding during the last two hurricanes.
 
