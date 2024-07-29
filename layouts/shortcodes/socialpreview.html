@@ -32,7 +32,7 @@
             {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                  {{ $json.title }}
             {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
-                {{ partial "svg/montgomeryadvertiser.svg" (dict "id" "montgomeryadvertiser") }} <br> {{ $json.title  }}
+                {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }} <br> {{ $json.title  }}
             {{- else if eq $baseURL "1819news.com" -}}
                 {{ partial "svg/1819news.svg" (dict "id" "1819 news") }} <br> {{ $json.title }}
             {{- else -}}
