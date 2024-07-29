@@ -290,9 +290,8 @@ background-color:#f5f5f5;
 .social-preview a img {
     display: flex;
     margin: auto;
+    min-height:200px;
 }
-
-
 
 .content.post__content.clearfix p {min-width:250px;}
 
