@@ -11,7 +11,7 @@ authors:
 
 Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Federal investigation, the internal investigation, wrongful conviction, federal Lawsuit of Johnathan Victor and a myriad of internal problems within BCSO involving morals, accountability, transparency and of course the GOB, Good ole Boy culture that permeates the entire department.
 
-<img src="https://rippreport.com/img/bcso-letter.png" />
+<img style="min-height:390px;" src="https://rippreport.com/img/bcso-letter.png" />
 
 Now is the time for the deputies to put forward who they want as Sheriff. Mack had Andre set up for the position however Andre could not keep his pants up. Next choice would be Anthony Lowery who judging from the comments following the articles, and his checkered history with BCSO, as well as a closet full of cobwebs, Lowery would be the poorest of choices.
 
