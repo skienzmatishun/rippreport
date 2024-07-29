@@ -39,7 +39,7 @@ Three years earlier, then State Senator Pittman awarded himself $750,000.00 of B
 
 The Baldwin County Sheriff has his own Major Crimes Division. This way any issues, such as a citizen being killed by the sheriff’s office, are investigated by the sheriff’s office. It is no surprise that the BCSO has NEVER been held responsible, for anything. Transparency and accountability do not exist in the Baldwin County Sheriff’s Office, THE BOSS is the BOSS.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Transparency” is a rather fluid concept in Alabama, writes columnist Rob Holbert. <a href="https://t.co/jnIsoqN4Wp">https://t.co/jnIsoqN4Wp</a></p>&mdash; Lagniappe Weekly (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1705220458591748191?ref_src=twsrc%5Etfw">September 22, 2023</a></blockquote>
+{{<  socialpreview url="https://www.lagniappemobile.com/opinion/and-the-band-plays-on/article_792fbeac-5727-11ee-aaae-1fd2590b9fde.html" >}}
 
 That 2021 ruling in Lagniappe v. Mack — our lawsuit against Baldwin County Sheriff Huey “Hoss” Mack for withholding bodycam footage of Deputy Matt Hunady blowing away an unarmed motorist on the side of I-10 — set a precedent for our state that totally shut down the ability of the media and the public to see such video. 
 
