@@ -17,7 +17,9 @@ authors:
 
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 
-https://lagniappemobile.com/fairhope-discusses-revisions-to-drastic-park-proposal/ It was Fairhope’s big lie and the believers in false facts and rumors, won out. https://rippreport.com/the-big-lie-%f0%9f%a4%a5/
+https://lagniappemobile.com/fairhope-discusses-revisions-to-drastic-park-proposal/ It was Fairhope’s big lie and the believers in false facts and rumors, won out.
+
+{{< socialpreview url="https://rippreport.com/p/the-big-lie/" >}}
 
 The lies were amplified by the newly elected council that is under the command of CATALYST/Scott Boone Consulting. Citizens have lost their voice to a political organization who directs the council and mayor. Jack Burrell, the great negotiator, is going to rob Fairhope from an opportunity to move forward on a project that would have benefited all the citizens of Fairhope.
 
