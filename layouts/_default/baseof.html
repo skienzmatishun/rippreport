@@ -36,7 +36,7 @@
 	{{ printf `
 	<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
-	<link rel="shortcut icon" href="{{ " favicon.ico" | relURL }}">
+	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 	{{- if not .Site.IsServer }}
 	{{- if hasPrefix .Site.GoogleAnalytics "G-" }}
 	{{ template "_internal/google_analytics.html" . }}
@@ -77,6 +77,9 @@
 	<script src="{{ . | relURL }}"></script>
 	{{- end }}
 	{{- partial "mathjax.html" . -}}
+    {{ if .IsHome }}
+    <script async type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+    {{ end }}
 </body>
 
 </html>
