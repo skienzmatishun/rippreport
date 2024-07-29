@@ -37,6 +37,9 @@
                 {{- else if eq $baseURL "rippreport.com" -}}
                     {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
                         <br> {{ $json.title }}
+                {{- else if eq $baseURL "www.fox10tv.com" -}}
+                    {{ partial "svg/wala.svg" (dict "id" "Fox10") }}
+                        <br> {{ $json.title }}
                 {{- else if eq $baseURL "gulfcoastmedia.com" -}}
                     <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
                         <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
