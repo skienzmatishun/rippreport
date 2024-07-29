@@ -16,7 +16,8 @@
     {{- $baseURL := $parsedURL.Host -}}
     <div class="social-preview">
         <a href="{{ $json.url }}">
-            <img loading="lazy" src="{{ $json.image }}" alt="{{ $json.title }}">
+            {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
+            <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
             <h2>
                 {{- if eq $baseURL "www.lagniappemobile.com" -}}
                     {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
