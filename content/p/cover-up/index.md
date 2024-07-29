@@ -22,7 +22,7 @@ Mayor Bob Wills message is that “the allegations of a “cover up” and other
 
 Mr. Albritton is the Executive Director of the Ethics Commission. He now has three lawsuits against him, and is still being paid as Executive Director. The Ethics Commission and the Alabama Bar both dismissed complaints against Mr. Albritton. My point is that Mr. Albritton and the Alabama Bar also dismissed Mr. Wills complaints. That is what I call a COVER UP.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid02FjA9ywQwcSEJnKA3ob9Zeu4Bpp5ndkcjmHsg5GTi42v1wBbu8u988uozzSi7t2zsl&show_text=true&width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/bay-minette-officials-still-withholding-name-of-officer-who-killed-otis-french-jr/article_115add60-3b87-5fca-b807-457bab24701f.html" >}}
 
 According to Wills, Bay Minette officers are also scheduled to attend training on mental health crisis intervention de-escalation techniques from AltaPoine Health. The department will also be attending training to sharpen their “conflict resolution abilities using firearms training systems.” This was after the killing of Mr. French.
 
