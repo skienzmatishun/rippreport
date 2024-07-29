@@ -57,11 +57,7 @@ So let’s get back to McSharry and his ability to manipulate the judicial syste
 
 ---------------
 
-### Appeals Court Drops McSharry Assault Charge After Prosecutor Fails to Act
-[https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article\_04668a01-aa5b-504a-a551-9922ed8ff5f4.html](https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article_04668a01-aa5b-504a-a551-9922ed8ff5f4.html)
-
----------------
-
+{{< socialpreview url="https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article_04668a01-aa5b-504a-a551-9922ed8ff5f4.html" >}}
 The above are Lagniappe articles about Mr McSharry and his history of judicial abuse. Judges, lawyers and police have not done their job. In fact they have brought tremendous skepticism upon themselves and their actions and inaction. One has to ask themselves, What the hell is going on? What leverage does McSharry have over the City of Fairhope? The City Attorney Marcus McDowell has lied to the city council and the general public in the last case involving Paula Dinardi. He dropped the ball then and this time he did not even attempt to pick the ball up.
 
 Mr. McSharry’s was let off the hook again last week for beating the hell out of yet another woman, Jennifer Blackwood. McSharry was represented by John Beck. Beck likes theatrics and he did not fail in his presentation to the Judge. At one point he admits to surveillance tactics that involved citizens critical of McSharry and his antics. It is alleged that former Mayor Wilson, Attorney Harry Still. Paula DiNiardi and yours truly had all been under surveillance and some of us filmed by a drone on our private property. These are typical Beck tactics from his bag of dirty tricks. Becks defense concentrates on blaming everyone else and deflecting from the truth. McSharry would have been the one to pay for the surveillance or any of Becks dirty tricks. { Much more to come on surveillance issue}
