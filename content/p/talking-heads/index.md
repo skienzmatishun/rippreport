@@ -16,7 +16,7 @@ Remember the terrible duo, Commissioners Chris Elliott and Tucker Dorsey? They f
 
 Baldwin County is about to make the same damn mistake. Jeb Ball and Johnathan Armstrong as commissioners on a panel of four, will be a huge mistake.
 
-{{< socialpreview url="https://rippreport.com/shooting-yourself-in-the-foot/" >}}
+{{< socialpreview url="https://rippreport.com/p/shooting-yourself-in-the-foot/" >}}
 
 Steve Carey is the third candidate and he is Tucker and Catalyst’s boy. However don’t be distracted, Catalyst and the good ole boys will be just as happy with Armstrong. Either way a block vote will be formed, that is the plan, and Baldwin County will suffer for four more years.
 
