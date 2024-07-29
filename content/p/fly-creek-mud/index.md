@@ -30,7 +30,7 @@ This is Karma. The infrastructure in Fairhope has had failures all over town. El
 
 The damage done through the years has cost millions and will continue to cost millions to consistently repair the damage from the outfall of water from Publix and the apartments. Upstream the banks of Fly Creek are eroding and fallen trees crisscross the creek.
 
-https://rippreport.com/eagles-eye-catalyst-kant-corte/
+{{< socialpreview url="https://rippreport.com/eagles-eye-catalyst-kant-corte/" >}}
 
 This is what the developer does not want you to see. The Kant-Corte Apartments are the responsibility of the last council, Mr Burrell and Mr Boone played a very important part in the success of the apartments.
 
