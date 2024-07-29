@@ -18,11 +18,11 @@ BEN REYNOLDS, MOBILE CITY COUNCILMAN Ben is lucky he was in a county that has Ge
 
 We all remember lying “Tax Man” Elliott. He pledged to do the right thing and accept responsibility for his actions. He forgot the pledge and applied for the get out of jail card.
 
-[https://www.al.com/news/mobile/2016/05/baldwin\_county\_commissioner\_ch.html](https://www.al.com/news/mobile/2016/05/baldwin_county_commissioner_ch.html)
+{{< socialpreview url="https://www.al.com/news/mobile/2016/05/baldwin_county_commissioner_ch.html" >}}
 
 "On the advice of counsel, I declined the breathalyzer requested which automatically resulted in the issuance of a citation for driving under the influence of alcohol." Chris Elliott
 
-https://rippreport.com/a-slap-on-the-wrist/
+{{< socialpreview url="https://rippreport.com/a-slap-on-the-wrist/"
 
 Paula DiNardi case: “At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he allegedly harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.
 
@@ -30,13 +30,13 @@ McSharry has been arrested a total of 9 times, let’s see how he slips out of a
 
 Mayor Mike “Slappin” MCMillan”
 
-[https://mynbc15.com/news/videos/video-of-spanish-fort-mayor-allegedly-slapping-magistrate-surfaces-on-social-media](https://mynbc15.com/news/videos/video-of-spanish-fort-mayor-allegedly-slapping-magistrate-surfaces-on-social-media)
+{{ socialpreview url="https://mynbc15.com/news/videos/video-of-spanish-fort-mayor-allegedly-slapping-magistrate-surfaces-on-social-media" >}}
 
 The surveillance video shows Mayor Mike McMillan walk up to the computer at the front desk. He appears to point at it and then turns to City Magistrate Lyndsey Cooper. The video only shows the back of her head. McMillan then raises his hand, moves it toward Cooper's face, and Cooper's head turns.
 
 Just like the DiNardi case, live video evidence, and Slappin Mike walks just like McSharry. That Get out of Jail card works in Baldwin County.
 
-[https://www.al.com/live/2011/02/trip\_pittman\_oil\_boom\_contract.html](https://www.al.com/live/2011/02/trip_pittman_oil_boom_contract.html)
+{{< socialpreview url="https://www.al.com/live/2011/02/trip_pittman_oil_boom_contract.html" >}}
 
 I know you remember Senator Trip Pittman and his self serving BP contracts:
 
