@@ -31,19 +31,19 @@ If you would like to be a little more informed please check out [Lagniappe](http
 
 Some of the articles below have a paywall, however, free copies are available throughout Baldwin County. Check out their distribution locations.
 
-Another way is to tune into the local news and events is: [Backstory Podcast](https://www.facebook.com/BackstoryPodcast), The Ripp [Report Facebook page](https://www.facebook.com/TheRippReport) or [Baldwin County Legal Eagle.
+Another way is to tune into the local news and events is: [Backstory Podcast](https://www.facebook.com/BackstoryPodcast), The Ripp [Report Facebook page](https://www.facebook.com/TheRippReport) or Baldwin County Legal Eagle.
 
-Our website is](https://www.facebook.com/BaldwinCountyLegalEagle) [https://rippreport.com/](https://rippreport.com/).
+[https://rippreport.com/](https://rippreport.com/).
 
 [Contact](mailto:paul@rippreport.com) us anytime about political corruption or consumer issues. We love TIPS.
 
 A week after election and some things are the same. In Fairhope, the infamous McSharry, is being represented by no less than BP, Boom Boom Pittman’s brother, James. The apple does not fall far from the tree. Mr Pittman is blaming Lagniappe, the Mayor and attorneys for his client's actions.
 
-https://rippreport.com/women-stand-together/
+{{< socialpreview url="https://rippreport.com/p/women-stand-together/" >}}
 
 James Pittman is now including the business in which the assault took place, Little Whiskey Christmas Club, to his list of legal intimidation by requesting two years of video footage.
 
-https://rippreport.com/judicial-trick/
+{{< socialpreview url="https://rippreport.com/p/judicial-trick/" >}}
 
 WTH Why doesn’t he look at the video of the assault?
 
@@ -67,7 +67,7 @@ The soon to be Mayor of Fairhope, Sherry Sullivan, is making her position very c
 
 The Council, Jack Burrell, will run Fairhope and Sullivan will be his rubber stamp and ribbon cutter. Sullivan won with 17% of the registered voters, something tells me those who chose not to vote in 2020, will show up in 2024.
 
-https://lagniappemobile.com/baldwin-county-commission-considers-2021-budget-approves-body-cam-contract/
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-commission-considers-2021-budget-approves-body-cam-contract/article_a4251d12-e891-523e-a4fa-ebb6d4916ff1.html" >}}
 
 Baldwin County Sheriff’s Department just got approval from the County Commission for $662,567.00 for 129 body cameras and related technology. If these funds are tax money, then one would think the video footage should be available to the public. If the footage can be altered, selectively edited or denied to the public, then why would we spend tax dollars on this distorted transparency.
 
