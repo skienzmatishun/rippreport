@@ -42,7 +42,7 @@ The Comprehensive Plan is an annual function that the city goes through for you 
 
 Un-zoned areas in the African American Community are wedged between the Fairhope municipal boundaries and RSA/Point Clear. Now is the time for these un-zoned areas to be zoned and to protect themselves from Fairhope and any plan they may have. Fairhope has done nothing to advance the community. The Fairhope Comprehensive Plan will encourage development and annexation within the un-zoned areas.
 
-{{< socialpreview url="https://www.facebook.com/groups/1277430232715585 >}}
+{{< socialpreview url="https://www.facebook.com/groups/1277430232715585" >}}
 
 VOTE for Planning district 8, Get zoned.
 
