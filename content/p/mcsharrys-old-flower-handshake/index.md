@@ -46,16 +46,9 @@ So let’s get back to McSharry and his ability to manipulate the judicial syste
 [https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article\_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html](https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html)
 
 ---------------
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharry-s-owner/article_b747acad-7b88-5d12-8808-fbcd0384826a.html" >}}
 
-### Attorney Asks High Court to Intervene in Lawsuit Against McSharrys Owner
-[https://www.lagniappemobile.com/news/local/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharry-s-owner/article\_b747acad-7b88-5d12-8808-fbcd0384826a.html](https://www.lagniappemobile.com/news/local/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharry-s-owner/article_b747acad-7b88-5d12-8808-fbcd0384826a.html)
-
----------------
-
-### Defense Attorney for Ronan McSharry Seeks Two Years Worth of Camera Footage
-[https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article\_bc4c3880-359f-5d85-913c-420545868593.html](https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article_bc4c3880-359f-5d85-913c-420545868593.html)
-
----------------
+{{< socialpreview url="https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article_bc4c3880-359f-5d85-913c-420545868593.html">}}
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article_04668a01-aa5b-504a-a551-9922ed8ff5f4.html" >}}
 The above are Lagniappe articles about Mr McSharry and his history of judicial abuse. Judges, lawyers and police have not done their job. In fact they have brought tremendous skepticism upon themselves and their actions and inaction. One has to ask themselves, What the hell is going on? What leverage does McSharry have over the City of Fairhope? The City Attorney Marcus McDowell has lied to the city council and the general public in the last case involving Paula Dinardi. He dropped the ball then and this time he did not even attempt to pick the ball up.
