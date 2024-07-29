@@ -10,36 +10,14 @@ authors:
 
 The wheels of justice move slow, especially when the good ole boys knock out the spokes. 15 months ago we reported on an incident that should have been resolved in 6 months.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/barstool/" >}}
 
-## BARSTOOL
-
-### BARSTOOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/11/barstool.jpg)
-
-Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story. FAIRHOPE, Ala.
-
-Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
-
-</div>
 How does someone with multiple convictions, on probation, with a 180 day jail sentence hanging over their head, continue to avoid justice?
 
 Fairhope Municipal Court and the City Attorney dropped the ball, or hid the ball.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/watering-hole/" >}}
 
-## WATERING HOLE
-
-### WATERING HOLE – THE RIPP REPORT
-
-![](https://cdn.rippreport.com/wp-content/uploads/2019/10/mcsharry-fb.jpg)
-
-How does a bar owner, continuously break the law and walk? If you are Ronan McSharry it appears not to be a problem.
-
-Source: [rippreport.com/2019/10/25/watering-hole/](https://rippreport.com/watering-hole/)
-
-</div>
 Now the case has moved to Circuit Court and the wheels are coming off.
 
 How does McSherry demand so much obstruction?
