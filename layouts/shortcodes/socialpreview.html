@@ -9,23 +9,34 @@
         <img src="{{ $json.image }}" alt="{{ $json.title }}">
         <h2>
             {{- if eq $baseURL "www.lagniappemobile.com" -}}
-                {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }} <br> {{ $json.title }}
+                {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
+                    <br> {{ $json.title }}
             {{- else if eq $baseURL "www.al.com" -}}
-                {{ partial "svg/alcom.svg" (dict "id" "alcom") }} <br> {{ $json.title }}
+                {{ partial "svg/alcom.svg" (dict "id" "alcom") }}
+                    <br> {{ $json.title }}
+            {{- else if eq $baseURL "1819news.com" -}}
+                {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+                    <br> {{ $json.title }}
+            {{- else if eq $baseURL "rippreport.com" -}}
+                {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
+                    <br> {{ $json.title }}
+            {{- else if eq $baseURL "gulfcoastmedia.com" -}}
+                <img src="https://rippreport.com/img/gulf-coast-media.png">
+                    <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
+            {{- else if eq $baseURL "alreporter.com" -}}
+                <img src="https://rippreport.com/img/alreporter.png">
+                    <br> {{ $json.title }}
+            {{- else if eq $baseURL "https://altoday.com" -}}
+                <img src="https://rippreport.com/img/al_today.png">
+                    <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
+            {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
+                 {{ $json.title }}
+            {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
+                {{ partial "svg/montgomeryadvertiser.svg" (dict "id" "montgomeryadvertiser") }} <br> {{ $json.title  }}
             {{- else if eq $baseURL "1819news.com" -}}
                 {{ partial "svg/1819news.svg" (dict "id" "1819 news") }} <br> {{ $json.title }}
-            {{- else if eq $baseURL "rippreport.com" -}}
-                {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }} <br> {{ $json.title }}
-            {{- else if eq $baseURL "gulfcoastmedia.com" -}}
-                <img src="https://rippreport.com/img/gulf-coast-media.png"> <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
-                {{- else if eq $baseURL "https://altoday.com" -}}
-                <img src="https://rippreport.com/img/al_today.png"> <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
-                   {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
-                 {{ $json.title | strings.TrimSuffix "thefairhopetimes.blogspot.com" }}
-                       {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
-                 {{ $json.title | strings.TrimSuffix "thefairhopetimes.blogspot.com" }}
             {{- else -}}
-                {{ $json.title }} <br> {{ $baseURL }}
+                {{ $json.title }} <br> {{ $json.url }}
             {{- end -}}
         </h2>
         <p>{{ $json.description }}</p>
