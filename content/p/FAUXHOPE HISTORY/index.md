@@ -14,7 +14,7 @@ Historic preservation, water, infrastructure, annexing, and continuously lying t
 
 The discussion of Historic preservation has been addressed in the last 6 councils and each time it dies a slow death. This time it will be a heart attack. The city government of Fauxhope is 100% pro development and will provide all city services to developers first.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fauxhope has a new City Council Crier, Councilman Cory Martin. This is no surprise the balance of the council hides from the public and rarely return phone calls. This also goes for the unqualified Utility Director and developer candidate/ Mayor.<a href="https://t.co/taqV9k1gUL">https://t.co/taqV9k1gUL</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1703482862916300830?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< socialpreview url="https://rippreport.com/p/fauxhope-crier/" >}}
 
 > Cory the Crier went on TV supporting the Fauxhope Municipal Judges east side project. Watch the video. The priority is infrastructure for commercial projects. It is obvious that Cory has bitten the poison apple of developers. The council will have to approve the Judges project and the council appoints the Judge. It will pass with flying colors.
 
@@ -26,7 +26,7 @@ Mayor Sherry Sullivan called the draft “a good start.” If the ordinance were
 
 “I guess the bottom line I have and always had is money,” Councilman Kevin Boone said. Councilman Boone is a developer and works with developers when he is not a councilman??? He has a rich history of supporting back room good ole boy politics.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.<a href="https://t.co/TkIjd5cmET">https://t.co/TkIjd5cmET</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1703483296015860141?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote>  
+{{< socialpreview url="https://rippreport.com/p/bull/" >}}
 
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 
