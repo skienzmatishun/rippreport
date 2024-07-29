@@ -61,7 +61,7 @@ The Fairhope City Council has yet to address the issue or explain to the citizen
 
 Why is the city attorney and the city council protecting a green card holder?
 
-https://lagniappemobile.com/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/
+{{< socialpreview url="https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article_bc4c3880-359f-5d85-913c-420545868593.html" >}}
 
 The soon to be Mayor of Fairhope, Sherry Sullivan, is making her position very clear, “She would embrace the city’s growth rather than seek any stringent attempts to regulate it”. Her special interest supporters are licking their lips to provide, “affordable housing with limited building requirements”.
 
