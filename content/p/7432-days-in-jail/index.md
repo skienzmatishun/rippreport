@@ -20,7 +20,7 @@ This 1 hour 35 minute podcast is the audio version of: A VERBAL LYNCHING IN ALAB
 
 Nancy R Koerner
 
-{{< socialpreview url="https://rippreport.com/p/the-murray-lawrence-jr-project/"
+{{< socialpreview url="https://rippreport.com/p/the-murray-lawrence-jr-project/"> }}
 
 Brady vs. Maryland---The 1963 United States Supreme Court ruling that:
 
