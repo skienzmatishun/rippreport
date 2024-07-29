@@ -14,7 +14,7 @@ As a citizen of Alabama you cannot expect any justice, accountability, or invest
 
 The Attorney General was given a pass, by the Ethics Commission for pac to pac contributions. Then the ethics commission said it was illegal for any Democrat to do the same thing.
 
-[https://www.al.com/news/2018/06/political\_money\_laundering\_ag.html](https://www.al.com/news/2018/06/political_money_laundering_ag.html)
+{{< socialpreview url="https://www.al.com/news/2018/06/political_money_laundering_ag.html" >}}
 
 A decade ago, before the Alabama Legislature passed the ban in 2010, tracking campaign finances in this state was nearly impossible. By shifting money from one political action committee to another, a cabal of lobbyists, consultants and political fixers laundered millions in campaign cash every election cycle. The lines from special interest groups to the candidates they sponsored were untraceable.
 
@@ -38,7 +38,7 @@ The Internal Revenue Service Section 4941(d) description of self-dealing would a
 
 The Bar and the Attorney General saw nothing wrong with the Ethics Executive Director “self Dealing”
 
-https://rippreport.com/writ-of-mandamus-update/
+{{< socialpreview url="https://rippreport.com/p/writ-of-mandamus-update/" >}}
 
 You would think that the media would be on this story like a dog in heat! However so far the Ethics Commission and the Bar Association see no problem with Mr Albritton receiving more than 120,000 dollars for his children’s education, from a trust where he is a trustee. The absurdity of their justifications of Mr. Albritton, further exposes the depth of corruption.
 

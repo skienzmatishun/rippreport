@@ -32,7 +32,7 @@ https://lagniappemobile.com/alabamas-recipe-for-corruption/
 
 Needless to say, all of this is made worse by the fact that the State Bar is run by lawyers who are supposed to know and follow the law. McCallum’s behavior not only appears to have been swept under the rug by the attorney general (lawyer), Ethics Commission (run by a lawyer) and the State Bar (lots of lawyers), he received zero punishment from the State Bar.”
 
-https://rippreport.com/dirty-underwear/
+{{< socialpreview url="https://rippreport.com/dirty-underwear/" >}}
 
 “The Ethics Commission’s Executive Director, Tom Albritton, has got a pass from the Ethics Commission, Alabama Bar and the Attorney General. The only recourse for any justice is to file a civil suit against Mr Albrittion the trustees and the bank. This is blatant in your face corruption, at the highest level of our state’s government.”
 
@@ -42,4 +42,4 @@ https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from
 
 Ask yourself WHERE THE HELL IS THE PRESS?
 
-{{< subscribe >}}
+

@@ -16,15 +16,12 @@ Now a civil lawsuit has been filed, outlining the charges against the Ethics Dir
 
 Please read this recently filed lawsuit involving the Executive Director of the Ethics Commission, Tom Albritton, he should be removed from office immediately.
 
-<iframe style="width:99%;height:800px" src="https://rippreport.com/wp-content/uploads/1b766fef-complaint7-7-22.pdf"></iframe>
-
- [Download](https://rippreport.com/wp-content/uploads/1b766fef-complaint7-7-22.pdf)
 
 https://lagniappemobile.com/alabamas-recipe-for-corruption/
 
 The Ethics Commission didn’t offer a single detail about what laws he’d been found guilty of breaking or how they were broken. Using state payroll data, it’s clear the person known simply as “Employee 1” in the Examiners’ report is McCallum, and he was paid his salary for a couple of months after resigning. He also continued receiving perks for an even longer time. For some reason, about 10 months after his resignation, the State Bar paid him another $37,000.
 
-https://rippreport.com/top-shelf-corruption/
+{{< socialpreview url="https://rippreport.com/top-shelf-corruption/" >}}
 
 “The Ethics Commission’s Executive Director, Tom Albritton, has got a pass from the Ethics Commission, Alabama Bar and the Attorney General. The only recourse for any justice is to file a civil suit against Mr Albrittion the trustees and the bank. This is blatant in your face corruption, at the highest level of our state’s government.”
 
