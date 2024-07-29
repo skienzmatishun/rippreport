@@ -35,7 +35,7 @@ Here is the kicker many of you may remember back about 10 years ago. At that tim
 
 Mayor Wills and State Senator Elliott share the same style of dirty Politics. In fact if you wish to go see Mr Elliott at the Fauxhope satellite Courthouse, where he has a refurbished office, at taxpayers expense, you must be approved by staff before you can kneel before him.
 
-[https://www.lagniappemobile.com/news/baldwin-legislative-delegation-leases-office-from-bay-minette-mayor/article\_dba61d4a-7016-11ed-9552-674a32a1cff5.html](https://www.lagniappemobile.com/news/baldwin-legislative-delegation-leases-office-from-bay-minette-mayor/article_dba61d4a-7016-11ed-9552-674a32a1cff5.html)
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-legislative-delegation-leases-office-from-bay-minette-mayor/article_dba61d4a-7016-11ed-9552-674a32a1cff5.html" >}}
 
 “Whether it creates a potential conflict of interest for Wills to act personally as the delegation’s landlord while also calling on them as mayor for the city’s legislative needs was a question neither the Alabama Attorney General’s Office nor the Alabama Ethics Commission would answer. The AG’s office declined comment and deferred to the Alabama Ethics Commission, which did not respond.”
 
