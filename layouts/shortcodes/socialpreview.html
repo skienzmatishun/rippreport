@@ -2,7 +2,7 @@
 {{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
 {{- $json := getJSON $workerURL -}}
 
-{{- if $json.error and strings.HasPrefix $json.error "[Error] https://rippreport.com" and strings.Contains $json.error "404" -}}
+{{- if and (isset $json "error") (strings.HasPrefix $json.error "[Error] https://rippreport.com") (strings.Contains $json.error "404") -}}
     {{- $parsedURL := urls.Parse $url -}}
     {{- if eq $parsedURL.Host "rippreport.com" -}}
         {{- $newURL := print "https://rippreport.com/p" $parsedURL.Path -}}
@@ -11,7 +11,7 @@
     {{- end -}}
 {{- end -}}
 
-{{- if $json -}}
+{{- if $json.url -}}
     {{- $parsedURL := urls.Parse $url -}}
     {{- $baseURL := $parsedURL.Host -}}
     <div class="social-preview">
