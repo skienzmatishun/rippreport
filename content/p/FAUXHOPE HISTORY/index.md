@@ -18,7 +18,7 @@ The discussion of Historic preservation has been addressed in the last 6 council
 
 > Cory the Crier went on TV supporting the Fauxhope Municipal Judges east side project. Watch the video. The priority is infrastructure for commercial projects. It is obvious that Cory has bitten the poison apple of developers. The council will have to approve the Judges project and the council appoints the Judge. It will pass with flying colors.
 
-{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-seeking-historic-preservation-ordinance-tax-incentives/article_c55fa8f4-5336-11ee-9459-376d90edb04a.html" >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fairhope could soon have new policies for maintaining historic homes and buildings after city councilors discussed the first draft of a preservation ordinance in a Monday night work session. <a href="https://t.co/9gosGTERb7">https://t.co/9gosGTERb7</a></p>&mdash; Lagniappe Weekly (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1702408145639702580?ref_src=twsrc%5Etfw">September 14, 2023</a></blockquote>
 
 > The draft ordinance comes months after the demolition of historic buildings around Fairhope, including the home of Nancy Lewis, a woman who lived in Fairhope after being freed from slavery.
 
