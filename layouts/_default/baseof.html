@@ -29,10 +29,13 @@
 	{{- end }}
 
 {{ $style := resources.Get "css/style.css" }}
-{{ $customCSS := resources.Get "css/custom.css" }}
-
-{{ $combinedCSS := slice $style.RelPermalink $customCSS.RelPermalink | resources.Concat "css/main.css" | resources.Minify }}
-<link rel="stylesheet" href="{{ $combinedCSS.RelPermalink }}" integrity="{{ $combinedCSS.Data.Integrity }}">
+{{ with resources.Get "css/custom.css" }}
+  {{ $customCSS := . }}
+  {{ $combinedCSS := $style | resources.Concat $customCSS | resources.Minify }}
+  <link rel="stylesheet" href="{{ $combinedCSS.RelPermalink }}" integrity="{{ $combinedCSS.Data.Integrity }}">
+{{ else }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+{{ end }}
 
 
 
