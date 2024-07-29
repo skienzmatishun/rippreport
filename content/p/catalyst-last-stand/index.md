@@ -28,31 +28,31 @@ Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one o
 
 That leaves the infamous three B’s, Burrell, Boone and Brown trying to convince everyone that they are better than slice bread. Each one of them has used his office for personal gain. They are CATALYST make no mistake they have cost taxpayers millions. Why any woman would vote for anyone of these three sexist hypocrites is beyond me.
 
-https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
 Jack Burrell, the absolute worst elected official in Baldwin County will face Deb Hopkins. Jack facing a woman, how sweet it is. Jack the bully of women is now going to feel their wrath. Jack was also the major supporter of Sen. Pittman getting city debris removal contracts.
 
-https://rippreport.com/police-report/
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 Kevin Boone, grandfather CATALYST has so many LLC’s that link him to developers, and good ole boys that it is obvious, his interest, is his personal gain. His opponent is Joshua Gammon a young man with Fairhope at heart, not LLC’s. Trade the old for the new.
 
-https://rippreport.com/investigative-reporting-business-entity-records/
+{{< socialpreview url="https://rippreport.com/p/investigative-reporting-business-entity-records/" >}}
 
 Robert Brown, who fleeces his hometown, will face off against Howell Gibbens. Brown has a pending Attorney General Complaint and Ethics complaint lodged against him for using his office for personal gain. He is an avid supporter of developers, not citizens. A true blue CATALYST supporter.
 
-https://rippreport.com/fairhope-jester-and-fly-creek/
+{{< socialpreview url="https://rippreport.com/p/fairhope-jester-and-fly-creek/" >}}
 
 These three councilmen have run rouge on the council for four years and have cost the city millions. Make no mistake if you want to escape the CATALYST good ole boys, the three B’s need to go.
 
 The Mayors race is a BP story in itself. First we have a candidate who’s major claim to fame is that he worked for BP during the BP Oil Spill. He was involved in fraud investigation. However he knows nothing of the fraud that Fairhope Mayor Cant pulled off with his mistress of propaganda and Sen. Boom Boom Pittman.
 
-[https://www.al.com/live/2010/11/senators\_company\_awarded\_63900.html](https://www.al.com/live/2010/11/senators_company_awarded_63900.html)
+{{< socialpreview url="https://www.al.com/live/2010/11/senators_company_awarded_63900.html" >}}
 
 This guy with the paddle board wants us to believe he can spread peace and harmony, just with his presence. His campaign sounds like he got mixed up and thought he was running for a position on Jimmy Buffet’s band. His BP connections and Sherry sitting on his paddle board are going to sink him.
 
 The CATALYST entree for mayor is Sherry Sullivan, disgruntled fired employee who sued the city, settled out of court and never explained anything to the citizens of Fairhope. Now she is running on vindictive gas provided by CATALYST. Sherry was the Mistress of propaganda for then Mayor Cant. She lied and help cover up the BP fraud and the issues of infrastructure. Sherry represents CATALYST, she was fired for insubordination and Fairhope city employees do not want to see her return. Sherry has a trunk full of baggage and allegations of her past relationship with the former Mayor have already surfaced on social media. When you burn bridges karma will get ya. Never run for office out of vindictiveness. Sherry represent the status quo, CATALYST, which is a minority in Fairhope.
 
-https://lagniappemobile.com/sherry-sullivan-announces-candidacy-for-mayor-of-fairhope/
+{{< socialpreview url="https://www.lagniappemobile.com/news/sherry-sullivan-announces-candidacy-for-mayor-of-fairhope/article_c4d13d4a-0014-5c54-94fc-ebf69f9b25dc.html" >}}
 
 Sullivan emphasized the importance of focusing on the city’s workforce.
 
