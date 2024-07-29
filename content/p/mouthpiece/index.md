@@ -16,7 +16,7 @@ Jack is all for the toll’s and “increasing the county’s soaring population
 
 Just what we need while infrastructure failures and sewage in the bay are daily occurrences.
 
-{{< socialpreview url="https://lagniappemobile.com/interested-firms-meet-with-aldot-begin-competing-for-the-mobile-river-bridge-and-bayway-project/" >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/interested-firms-meet-with-aldot-begin-competing-for-the-mobile-river-bridge-and-bayway-project/article_bc15a09d-8636-55fb-b3dc-a1e772fdd06d.html" >}}
 
 *Lagniappe papers are available free at news stands*
 
