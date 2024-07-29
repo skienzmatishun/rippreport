@@ -48,11 +48,9 @@ In addition to the Lagniappe articles, here are a few of the Ripp Report article
 
 {{< socialpreview url="https://rippreport.com/p/boycott-mcsharry/" >}}
 
+{{< socialpreview url="https://rippreport.com/p/one-woman-2/" >}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### One Woman
-{{< socialpreview url="https://rippreport.com/p/one-woman-2/" >}}
 
 We have said it three times already and will say it again. Ronan McSharry will do it again, Just wait and see, let’s pray no-one is seriously injured or killed.
 
