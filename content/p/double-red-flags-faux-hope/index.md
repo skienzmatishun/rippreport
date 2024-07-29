@@ -41,7 +41,7 @@ Source: [https://www.fairhopeal.gov/home/showpublisheddocument/25610/63758998491
 Read the resolution and tell me if you can explain it? This is how Fairhope works, write resolutions no one can understand, hide the details and meaning. This is classic Jack and Catalyst.
 
 
-{{< socialpreview url="http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company\_18.html" >}}
+{{< socialpreview url="http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company_18.html" >}}
 
 2.1 million in tax abatement for a company that is going to hire 5 employees? Does that sound like an economic development plan? Another point is that guess who used to have their office at the same location, allegedly, none other than Capt. Jack. This was another Baldwin County Economic Development plan Mr. Lawson came up with while holding Jack’s hand.
 
