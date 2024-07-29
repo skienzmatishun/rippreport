@@ -19,7 +19,7 @@ ESMPO Chairman and Fairhope City Councilman Jack Burrell said in a statement. �
 
 Fairhope infrastructure is 10 years behind. Jack Burrell has been on the council 10 years and kicked the infrastructure can down the road. He was directly involved in slowing down or not even approving projects. A true politician, Jack now talks about infrastructure, what B.S.
 
-[https://mynbc15.com/news/local/mpos-vote-on-new-i-10-mobile-river-bridge-bayway-project](https://mynbc15.com/news/local/mpos-vote-on-new-i-10-mobile-river-bridge-bayway-project)
+{{< socialpreview url="https://mynbc15.com/news/local/mpos-vote-on-new-i-10-mobile-river-bridge-bayway-project" >}}
 
 "The project can move forward now and it will allow , it will secure the federal funding that we already have received", said Burrel, "and it will also allow for us to continue to seek additional federal funding that so many people are asking for."
 
@@ -27,13 +27,13 @@ Burrell first promised no federal money was needed, and no tools, if his mouth i
 
 Burrell is the last person you can believe:
 
-https://rippreport.com/you-dont-know-jack/
+{{< socialpreview url="https://rippreport.com/you-dont-know-jack/" >}}
 
 SWAMP FOOTBALL
 
 This is another example how politicians once elected, forget their promises. Tommy is playing football in the swamp. Politics before Veterans
 
-https://1819news.com/news/item/sen-tommy-tuberville-why-i-voted-no-on-pact-act
+{{< socialpreview url="https://1819news.com/news/item/sen-tommy-tuberville-why-i-voted-no-on-pact-act" >}}
 
 “So, this Congress drafted the Honoring Our Promise to Address Comprehensive Toxins (PACT) Act, a massive piece of legislation that attempts to right size VA healthcare and benefits policies regarding veterans suffering from illnesses related to toxic exposure. The U.S. House of Representative passed one version, but the U.S. Senate considered a slightly different version – and I had several concerns with the bill the Senate considered.”
 
