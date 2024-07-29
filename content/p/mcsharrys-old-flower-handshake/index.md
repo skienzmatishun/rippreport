@@ -14,25 +14,13 @@ A couple of weeks ago the Mayor of Fairhope went on TV News to announce that the
 
 So let’s get back to McSharry and his ability to manipulate the judicial system:
 
-### Supreme Court Rejects Mandamus in McSharry Case
-[https://www.lagniappemobile.com/news/supreme-court-rejects-mandamus-in-mcsharry-case/article\_36c6ff1a-747d-59da-8c98-e76c65dffd13.html](https://www.lagniappemobile.com/news/supreme-court-rejects-mandamus-in-mcsharry-case/article_36c6ff1a-747d-59da-8c98-e76c65dffd13.html)
+{{< socialpreview url="https://www.lagniappemobile.com/news/supreme-court-rejects-mandamus-in-mcsharry-case/article_36c6ff1a-747d-59da-8c98-e76c65dffd13.html" >}}
 
----------------
+{{< socialpreview url="https://www.lagniappemobile.com/news/judge-tosses-out-mcsharry-s-assault-charge/article_c6cecbd1-3f16-506e-a04e-633f16946248.html" >}}
 
-### Judge Tosses out McSharrys Assault Charge
-[https://www.lagniappemobile.com/news/judge-tosses-out-mcsharry-s-assault-charge/article\_c6cecbd1-3f16-506e-a04e-633f16946248.html](https://www.lagniappemobile.com/news/judge-tosses-out-mcsharry-s-assault-charge/article_c6cecbd1-3f16-506e-a04e-633f16946248.html)
+{{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/article_7156a9b8-8ff3-509d-8e15-55682892367c.html" >}}
 
----------------
-
-### McSharry Settles Civil Suit but Arrested on new Complaint
-[https://www.lagniappemobile.com/news/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/article\_7156a9b8-8ff3-509d-8e15-55682892367c.html](https://www.lagniappemobile.com/news/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/article_7156a9b8-8ff3-509d-8e15-55682892367c.html)
-
----------------
-
-### McSharry Seeks to hold Christmas Bar Liable for Lawsuit
-[https://www.lagniappemobile.com/news/local/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/article\_d76c67ee-19b4-5a60-9515-6f4352b3ab4e.html](https://www.lagniappemobile.com/news/local/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/article_d76c67ee-19b4-5a60-9515-6f4352b3ab4e.html)
-
----------------
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/article_d76c67ee-19b4-5a60-9515-6f4352b3ab4e.html" >}}
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html" >}}
 
