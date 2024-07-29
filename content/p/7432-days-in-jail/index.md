@@ -13,14 +13,14 @@ That’s how long Murray Bubba Lawrence has been in jail for a crime he did not 
 
 Please read and share this post.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Criminal rights advocates have unearthed a second autopsy of a 2003 murder that was never revealed during the trial of Murray “Bubba” Lawrence Jr., who was convicted and sentenced to life in prison without parole. <a href="https://t.co/aZ7DIWDm7X">https://t.co/aZ7DIWDm7X</a></p>&mdash; Lagniappe Weekly (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1709569198718894325?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote>
+{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}
 
 This 1 hour 35 minute podcast is the audio version of: A VERBAL LYNCHING IN ALABAMA, read and authored by:
 
 
 Nancy R Koerner
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The State convicted Lawrence on the word of a co-conspirator, a “Deal With The Devil” according to David Whetstone Baldwin County District Attorney circa 2003.<a href="https://t.co/PjdQYFTzsM">https://t.co/PjdQYFTzsM</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1712502712963678656?ref_src=twsrc%5Etfw">October 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< socialpreview url="https://rippreport.com/p/the-murray-lawrence-jr-project/"
 
 Brady vs. Maryland---The 1963 United States Supreme Court ruling that:
 
@@ -40,5 +40,3 @@ WHO WAS INNOCENT AND THEY KNEW IT!
 
 
 {{< chat daysinjail >}}
-
-{{< mailchimp >}}
