@@ -30,7 +30,7 @@ It is also rumored that the Chief of Police in Bay Minette is Sheriff Mack’s p
 
 Reid said he’s watched the officer’s body-cam video several times and there may be other video of the incident. He would not comment on exactly what it shows and it’s MCU policy not to release body-cam footage to the public at this stage of an investigation.
 
-[Baldwin County Sheriffs Deputies to get Body Cameras](https://mynbc15.com/news/local/baldwin-county-sheriffs-deputies-to-get-body-cameras)
+{{ socialpreview url="https://mynbc15.com/news/local/baldwin-county-sheriffs-deputies-to-get-body-cameras" >}}
 
 Body cameras that are set up to capture every detail of an officer's day. It's a tool for transparency and to prosecute, if necessary.
 
