@@ -63,8 +63,6 @@ This was after 3 million in law fees, that was guaranteed by Attorney Cain O rea
 
 That did not happen.
 
-
-
 That’s 27 million dollars on failed or incomplete projects and Fauxhope infrastructure is 20 years behind. That is why they would rather the citizens of Fauxhope NOT have an opportunity to question the UN-elected council and mayor.
 
 <style>.cactus-comment:has(.cactus-comment-time[title="Mon May 20 22:39:51 2024 UTC"]) {opacity: 0.12;order: 15;}</style>
