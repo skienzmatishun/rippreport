@@ -303,6 +303,7 @@ background-color:#f5f5f5;
     padding-bottom: .25rem;
     margin-bottom: 2rem;
     border:solid gray .5px;
+    min-height:550px;
 }
 
 .social-preview:nth-child(even) {
