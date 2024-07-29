@@ -12,7 +12,7 @@ The backwards backpedaling Fauxhope City Council had to eat crow when it came to
 
 WAKE up Fauxhope and start getting candidates to replace the developer elected Council and especially the Mayor.
 
-{{< socialpreview url="https://www.lagniappemobile.com/news/ordinance-to-axe-public-comments-removed-from-fairhope-agenda/article_f93103ce-1197-11ef-bc4e-b72677206d0e.html" >}}
+[https://www.lagniappemobile.com/news/ordinance-to-axe-public-comments-removed-from-fairhope-agenda/article_f93103ce-1197-11ef-bc4e-b72677206d0e.html](https://www.lagniappemobile.com/news/ordinance-to-axe-public-comments-removed-from-fairhope-agenda/article_f93103ce-1197-11ef-bc4e-b72677206d0e.html)
 
 “With all due respect, I was a little surprised that this was on here when I found out last week,” Burrell said. “I am adamantly opposed to changing it whatsoever.” If Jacks lips are moving then he is lying. He got sued in federal court and handed his hat. This is the same Jack that said they would build the estimated 3.2 Billion dollar Bay Bridge, without federal dollars. 
 
