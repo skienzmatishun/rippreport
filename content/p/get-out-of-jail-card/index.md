@@ -46,7 +46,7 @@ At the time, Pittman and state Rep. Steve McMillan, R-Gulf Shores, had been tapp
 
 Pittman happen to have a special pass. The bullshit Get Out of Jail Card.
 
-https://lagniappemobile.com/qualified-immunity-denied-for-baldwin-sheriff-deputy-in-fatal-2017-shooting/
+{{< socialpreview url="https://www.lagniappemobile.com/news/qualified-immunity-denied-for-baldwin-sheriff-deputy-in-fatal-2017-shooting/article_b3531805-43fa-5abf-9b28-b05e815511f7.html" >}}
 
 “In an order filed April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack, but denied to grant the defendants’ broader motion for summary judgment. Reviewed “in a light most favorable to the plaintiff,” Cassady wrote, videotapes, audio, and witness statements from the incident leave cause to believe a jury could find that Hunady violated Victor’s constitutional rights, while Mack failed to adequately train his deputies to respond to mental health crises.”
 
@@ -56,7 +56,7 @@ Sheriff Mack told the county commission he needed $600,000.00 dollars for camera
 
 How about the Strawman case ?
 
-https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
 Read this article and you know you will need a computer to keep up with the crooks involved. This case exposes a judge, council and commissioners, lawyers and local developers. It stinks so bad you will need a close pin to read it. No one faced any criminal charges.
 
