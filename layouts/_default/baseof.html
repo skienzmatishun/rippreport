@@ -28,14 +28,14 @@
 
 	{{- end }}
 
-{{ $style := resources.Get "css/style.css" }}
+	{{ $style := resources.Get "css/style.css" }}
+{{ $combinedCSS := $style }}
+
 {{ with resources.Get "css/custom.css" }}
-  {{ $customCSS := . }}
-  {{ $combinedCSS := $style | resources.Concat $customCSS | resources.Minify }}
-  <link rel="stylesheet" href="{{ $combinedCSS.RelPermalink }}" integrity="{{ $combinedCSS.Data.Integrity }}">
-{{ else }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ $combinedCSS = slice $style.RelPermalink .RelPermalink | resources.Concat "css/main.css" | resources.Minify }}
 {{ end }}
+
+<link rel="stylesheet" href="{{ $combinedCSS.RelPermalink }}" integrity="{{ $combinedCSS.Data.Integrity }}">
 
 {{- with .OutputFormats.Get "rss" }}
 	{{ printf `
