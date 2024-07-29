@@ -37,9 +37,6 @@
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
 {{ end }}
 
-
-
-<link rel="stylesheet" href="{{ $combinedCSS.RelPermalink }}" integrity="{{ $combinedCSS.Data.Integrity }}">
 {{- with .OutputFormats.Get "rss" }}
 	{{ printf `
 	<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
