@@ -41,7 +41,7 @@ Source: [https://www.fairhopeal.gov/home/showpublisheddocument/25610/63758998491
 Read the resolution and tell me if you can explain it? This is how Fairhope works, write resolutions no one can understand, hide the details and meaning. This is classic Jack and Catalyst.
 
 
-[http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company\_18.html](http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company_18.html)
+{{< socialpreview url="http://thefairhopetimes.blogspot.com/2019/08/industrial-board-grants-airport-company\_18.html" >}}
 
 2.1 million in tax abatement for a company that is going to hire 5 employees? Does that sound like an economic development plan? Another point is that guess who used to have their office at the same location, allegedly, none other than Capt. Jack. This was another Baldwin County Economic Development plan Mr. Lawson came up with while holding Jack’s hand.
 
@@ -60,12 +60,12 @@ Mayor Wilson:
 
 While the red flags fly Jack and his partner Lee Lawson of Baldwin County Economic Alliance have teamed up with the brain storm of chasing grants for the K-1 center. The first grant was denied, 7 million, now the red flag partners are seeking a 3.5 million dollar grant, supported by a 1 dollar a year lease. WTH
 
-Read Full Article: [http://www.gulfcoastnewstoday.com/stories/grant-sought-for-k-1-center,107342](http://www.gulfcoastnewstoday.com/stories/grant-sought-for-k-1-center,107342)
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/stories/grant-sought-for-k-1-center,107342" >}}
 
 Before having the grant or any development plan at all, the city has now leased the k-1 center for a dollar a year to FEEF, who will “maintain” the buildings. How much you want to make a bet that the K-1 will become like the airport, subsidized by the city taxpayers.
 
 
-[http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-leases-pelicans-nest-to-feef,107486](http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-leases-pelicans-nest-to-feef,107486)
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-leases-pelicans-nest-to-feef,107486" >}}
 
 “The council voted unanimously May 24 to approve a 25-year lease that would allow FEEF to operate the site at a cost of $1 a year. FEEF will maintain the buildings under the terms of the lease.” Where are they going to get the money if they fail to get the grant? they have already signed a lease.
 
