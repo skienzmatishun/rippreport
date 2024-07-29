@@ -34,18 +34,10 @@ So let’s get back to McSharry and his ability to manipulate the judicial syste
 
 ---------------
 
-### McSharry Convicted of Public Intoxication Civil Case Proceeds
-[https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article\_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html](https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html)
+{{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html" >}}
 
----------------
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html">}}
 
-### Fairhope Prosecutor Claims Assault Charge Against McSharry will be Refiled
-[https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/video\_1d9026b5-295c-54e8-ae3f-b87969a6959f.html](https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/video_1d9026b5-295c-54e8-ae3f-b87969a6959f.html)
-
-
-[https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article\_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html](https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html)
-
----------------
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/attorney-asks-high-court-to-intervene-in-lawsuit-against-mcsharry-s-owner/article_b747acad-7b88-5d12-8808-fbcd0384826a.html" >}}
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/defense-attorney-for-ronan-mcsharry-seeks-two-years-worth-of-camera-footage/article_bc4c3880-359f-5d85-913c-420545868593.html">}}
