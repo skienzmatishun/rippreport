@@ -35,7 +35,7 @@ Be sure to watch the video and watch the city attorney lie to everyone in attend
 
 “After the bully council is lectured about their treatment of women, Councilman Boone, aka llc. Boone, starts yelling at the Mayor and demanding Councilman Burrell immediately adjourn the meeting, which he did. Burrell cut off the Mayor’s comments after he had just pledged to her “she would be given the opportunity to speak.”
 
-https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html" >}}
 
 “The case was raised during public participation last night by Fairhope citizen Paul Ripp, who cited McSharry’s lengthy police record in the city of Fairhope. Ripp called McSharry a “public nuisance” and said he’s advocated for three alleged victims of McSharry over the past 10 years.
 
