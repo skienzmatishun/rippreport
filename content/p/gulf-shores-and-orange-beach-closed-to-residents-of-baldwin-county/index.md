@@ -1,6 +1,7 @@
 ---
 title: "GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY"
 date: 2018-07-11
+thumbnail: "img/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
