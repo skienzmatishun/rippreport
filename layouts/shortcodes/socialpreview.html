@@ -56,7 +56,7 @@
                 {{- else if eq $baseURL "1819news.com" -}}
                     {{ partial "svg/1819news.svg" (dict "id" "1819 news") }} <br> {{ $json.title }}
                 {{- else -}}
-                    {{ $json.title }} <br> {{ $json.url }}
+                    {{ $json.title }} <br> {{ $baseURL }}
                 {{- end -}}
             </h2>
             <p>{{ $json.description }}</p>
