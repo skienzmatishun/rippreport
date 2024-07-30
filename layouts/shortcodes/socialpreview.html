@@ -1,16 +1,14 @@
 {{- $url := .Get "url" -}}
 {{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
 {{- $json := getJSON $workerURL -}}
-
 {{- if and (ne $json "No preview data found") (ne $json "Error processing request") }}
-  {{- $parsedURL := urls.Parse $url -}}
-  {{- $baseURL := $parsedURL.Host -}}
-  <div class="social-preview">
-    <a href="{{ $json.url }}">
-      {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
-      <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
-      <h2>
-        {{- if eq $baseURL "www.lagniappemobile.com" -}}
+{{- $parsedURL := urls.Parse $url -}}
+{{- $baseURL := $parsedURL.Host -}}
+<div class="social-preview">
+<a href="{{ $json.url }}">
+{{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
+<img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
+<h2>        {{- if eq $baseURL "www.lagniappemobile.com" -}}
             {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
             <br> {{ $json.title }}
         {{- else if eq $baseURL "www.al.com" -}}
@@ -34,9 +32,9 @@
         {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
             {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }}
             <br> {{ $json.title }}
-        {{- else if eq $baseURL "1819news.com" -}}
-            {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
-            <br> {{ $json.title }}
+                {{- else if eq $baseURL "1819news.com" -}}
+                    {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+                        <br> {{ $json.title }}
         {{- else if eq $baseURL "gulfcoastmedia.com" -}}
             <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
             <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
