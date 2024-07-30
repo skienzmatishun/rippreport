@@ -42,34 +42,13 @@ The cast of characters in the million dollar pool are the same individuals that 
 
 One name not mentioned is John Avant, however he is in the deep end of the pool. Avant of Prebble-Rish is business partners, more convoluted LLC’s, of Kevin Boone, City Councilman in Fairhope.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/"> }}
 
-## CONFLICT OF INTEREST
-
-### CONFLICT OF INTEREST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/balance.jpg)
-
-Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering…
-
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
-
-</div>
 Boone has Catalyst tattooed on his ass, and his son Scott,”baby” Boone is the Catalyst chieftain. Now guess who contributes to Catalyst and put Boone in office? John Avant and all the people in the pool.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/investigative-reporting-business-entity-records/" >}}
 
-## Investigative Reporting – Business Entity Records
 
-### Investigative Reporting – Business Entity Records | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/doc.png)
-
-Source: http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL North Ridge, LLC Entity ID Number 420 – 935 Entity Type Domestic Limited…
-
-Source: [rippreport.com/2017/01/25/investigative-reporting-business-entity-records/](https://rippreport.com/investigative-reporting-business-entity-records/)
-
-</div>
 “FOR SALE: BELLATON HOMES COME WITH A MILLION DOLLAR POOL
 
 Prospective home buyers do your homework, read the facts and stay clear of Bellaton subdivision and D. R. Horton and CATALYST bellatonpoolfacts@gmail.com.
