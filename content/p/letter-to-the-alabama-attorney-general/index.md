@@ -32,7 +32,7 @@ The Lagniappe article and the Ripp Report have as many as 80,000 readers. I make
 
 The specific complaint against Mr Albritton is spelled out clearly, and I trust your review of the enclosed documents will expose Mr Albritton’s Self Dealing, IRS code violations and his actions as an Alabama Attorney.
 
-{{< socialpreview url="https://rippreport.com/p/self-dealing-self-stealing/" }}
+{{< socialpreview url="https://rippreport.com/p/self-dealing-self-stealing/" >}}
 
 Mr Albritton and the Ethics Commission have dismissed several complaints, listed in the Ethics Complaint and Writ of Mandamus, which include the Fairhope Councilman, they all involved situations where board members or trust attorneys have used their positions the same as Mr. Albritton.
 
