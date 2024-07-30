@@ -16,8 +16,7 @@ The Baldwin County delegation has remained silent. Delegates however have voiced
 
 Baldwin County voters had better be paying attention to Elliott's actions and beware of the Sheriff’s political interference.
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2Fpfbid0pKbyCkMvhj8oiPn1PEXgRsuuFKnKMXarf2zmxaCQ6hWwUNXqyzu9dmoA2yxDs2LDl&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-fifth-commissioner-bill-moves-out-of-senate-committee/article_1524f2ee-f41a-11ed-8e1b-ebed8d799168.html" >}}
 
 Sen. Greg Albritton, R-Range, spoke out against and also voted against Chairman Chris Elliott’s, R-Josephine, Senate Bill 306, saying the committee should not advance the legislation because it does not have the support of the people it would affect.
 
