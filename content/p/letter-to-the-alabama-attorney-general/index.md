@@ -24,15 +24,15 @@ In fact these oversight bodies act as an insulator for corruption and their lack
 
 Enclose you will find a copy of the Lagniappe article, SELF-DEALING, an Ethics Complaint, Alabama Bar Complaint and a Writ of Mandamus. These are all related to the actions of the Director of Alabama Ethics, Tom Albritton. May I suggest that you read the Lagniappe article first.
 
-[https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 The Lagniappe article and the Ripp Report have as many as 80,000 readers. I make note of this because we have found that the Court of Public Opinion is far more effective than those tasked with upholding the law. I assure you we will keep our readers informed on the complaints and actions filed.
 
-[https://rippreport.com/writ-of-mandamus-and-bar-complaint/](https://rippreport.com/2021/07/15/writ-of-mandamus-and-bar-complaint/)
+{{< socialpreview url="https://rippreport.com/2021/07/15/writ-of-mandamus-and-bar-complaint/" >}}
 
 The specific complaint against Mr Albritton is spelled out clearly, and I trust your review of the enclosed documents will expose Mr Albritton’s Self Dealing, IRS code violations and his actions as an Alabama Attorney.
 
-[https://rippreport.com/self-dealing-self-stealing/](https://rippreport.com/2021/07/09/self-dealing-self-stealing/)
+{{< socialpreview url="https://rippreport.com/p/self-dealing-self-stealing/" }}
 
 Mr Albritton and the Ethics Commission have dismissed several complaints, listed in the Ethics Complaint and Writ of Mandamus, which include the Fairhope Councilman, they all involved situations where board members or trust attorneys have used their positions the same as Mr. Albritton.
 
