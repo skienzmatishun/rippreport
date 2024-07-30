@@ -71,7 +71,7 @@ JOSEPH L ANDREWS
 
 KEVIN J ANDREWS: DECEASED-KILLED IN BALDWIN COUNTY SHERIFF OFFICE TRAFFIC PURSUIT
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDreesenLawGroup%2Fposts%2F138243578303162&amp;show_text=true&amp;width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/article_0e3724fe-d77d-5fd3-a6dc-9c5c6ada206b.html" >}}
 
 At the time of the incident, BCSO’s own policy advised: “It is the intent to restrict motor vehicle pursuits to those situations and circumstance in which the immediate apprehension of the violator outweighs the hazards generated to deputies, the public or the occupant\[s\] of the vehicle being pursued … When it becomes apparent that the immediacy of apprehension is outweighed by a clear and unreasonable danger to the deputy and others, the pursuit should be abandoned.”
 
