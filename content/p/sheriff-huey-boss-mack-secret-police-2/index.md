@@ -91,7 +91,7 @@ At the time of this tragedy, Mack told media there would be an investigation and
 
 Where is the accountability and transparency?
 
-https://lagniappemobile.com/same-old-story-in-baldwin/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/same-old-story-in-baldwin/article_9b93a17d-6f9e-5252-b993-b40630e30767.html" >}}
 
 WILLIAM ‘BILL’ SMITH—BALDWIN COUNTY SHERIFF DEPT.--DECEASED
 
