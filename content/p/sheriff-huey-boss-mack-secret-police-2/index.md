@@ -33,7 +33,7 @@ Here are just a few of the skeletons in the BCSO closet, that Sheriff Mack keeps
 
 JONATHAN VICTOR: May 2017—DECEASED- SHOT TO DEATH, UNARMED, BY BALDWIN COUNTY SHERIFF OFFICE
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10158890892652317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/judge-blisters-hoss-and-hunady-in-victor-death/article_db98a31b-48ee-5131-b110-d653827648d0.html" >}}
 
 For his part, Sheriff Mack told Tenenbaum that, at the time, BCSO had no crisis intervention team and deputies had not been specifically trained in DE-escalation techniques.
 
@@ -45,13 +45,11 @@ How is that possible in 2017?
 
 “Without question, ‘the standard for excessive force is clearly established,’” against Hunaday, and that “plaintiff has made an adequate showing that this is the kind of recurring situation presenting an obvious, highly predictable potential for violation that can trigger liability for failure to train, even in the absence of a pattern of violations.” U.S. District Court Judge William Cassady,
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159182743437317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 Cassady’s withering observations about Hunady’s behavior in the minutes before he shot Victor, an unarmed man acting strangely after a one-car accident on the side of the interstate, illustrate exactly why it is so important for the public to be able to see body-camera footage and other information in controversial cases.
 
 ROBERT YATES: March 5 2018⁠— DECEASED- SHOT TO DEATH BY BALDWIN COUNTY SHERIFF’S OFFICE
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fal.ya.5439%2Fposts%2F2790289154580176&amp;show_text=true&amp;width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/article_0e3724fe-d77d-5fd3-a6dc-9c5c6ada206b.html" >}}
 
 “By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
 
