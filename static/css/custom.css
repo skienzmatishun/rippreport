@@ -1,3 +1,22 @@
+
+body {
+    background: #1d1c1c
+}
+
+p {
+    font-size: 1rem;
+    margin-top: 1.25em;
+    display:block;
+}
+
+blockquote {
+    border-left: 5px solid #6e6e6e
+}
+
+.header {
+    background: #232222;
+    max-height: 125px
+}
 .link-preview,
 .link-preview h2,
 .link-preview img {
@@ -18,31 +37,6 @@
     text-transform: uppercase
 }
 
-
-.is-disabled .pika-button,
-.is-selection-disabled {
-    pointer-events: none;
-    cursor: default
-}
-
-body {
-    background: #1d1c1c
-}
-
-p {
-    font-size: 1rem;
-    margin-top: 1.25em;
-    display:block;
-}
-
-blockquote {
-    border-left: 5px solid #6e6e6e
-}
-
-.header {
-    background: #232222;
-    max-height: 125px
-}
 
 .backstory__header h1 {
     color: #000 !important

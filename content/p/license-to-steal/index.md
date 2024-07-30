@@ -1,7 +1,7 @@
 ---
 title: "LICENSE TO STEAL"
 date: 2021-07-28
-thumbnails: "img/license-to-steal.jpg"
+thumbnails: "img/license-to-steal.png"
 categories: 
   - ethics
 authors: 
@@ -18,17 +18,17 @@ This is all campaign talk!
 
 So far he cannot even answer a letter. The Attorney General needs to investigate the Ethics Commission because they act as if they have immunity from prosecution, a license to steal.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4779713858724044&amp;show_text=true&amp;width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/letter-to-the-alabama-attorney-general/" >}}
 
 The Ripp Report has yet to receive a single response from the Ethics Commission, Alabama Bar, Attorney General or the Writ of Mandamus. It does not surprise me since the Ethics Commission Director, Tom Allbritton is facing some serious questions, hopefully in a court of law, about his actions as a lawyer and director of Ethics.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4804756392886457&amp;show_text=true&amp;width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/striking-oil/" >}}
 
 “As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition”
 
 Holding hands with Tom Allbritton is John Plunk, vice chair of ethics.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A BRIDGE TO FAR <a href="https://t.co/H6l0Ak68AK">https://t.co/H6l0Ak68AK</a> <a href="https://t.co/XBoDmgCPpN">https://t.co/XBoDmgCPpN</a></p>— Francis Paul Ripp (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1420183771215810562?ref_src=twsrc%5Etfw">July 28, 2021</a></blockquote>
+{{< socialpreview url="https://www.al.com/news/mobile/2021/07/plan-to-add-lanes-to-i-10-bayway-raises-safety-concerns.html" >}}
 
 John Plunk, The vice-chairman of the Ethics Commission, which polices campaign finance, was helping a sheriff, a Democrat, now accused of corruption, disguise the political money flowing to a Republican campaign consultant who’s now under investigation for crimes not even related to this case — unless the AG’s office has a secret deal for the consultant’s testimony, which the AG’s office and the consultant deny — and the ethics commissioner can’t remember because he was doing the same secret campaign money stuff for at least two other people, and we don’t yet know who they are.
 
@@ -36,17 +36,13 @@ John Plunk, The vice-chairman of the Ethics Commission, which polices campaign f
 
 The Attorney General’s office is looking as bad as Ethics Commission.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4165894803439289&amp;show_text=true&amp;width=500" width="500" height="571" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.al.com/news/2021/07/alabama-lawmaker-testifies-for-defense-in-sheriffs-corruption-trial.html" >}}
 
-Concerned Citizen
-
-“It has been awhile and a long time coming. The investigation has been on going by the Ethics Commission for just less than a year. Columbia Mayor Rhonda Freeman has her case pending before the Alabama Ethics Commission regarding numerous allegations. The case numbers are 2020-0337 & 0361. There will be a hearing on the matter on Wednesday, August 4, 2021, at 9:30 AM at the RSA Building, 9th floor Hearing Room, 100 North Union Street, Montgomery, Alabama.
-
-Thanks for all your help.
-
-Sincerely,
-
-Concerned Citizen”
+>**Concerned Citizen**
+>“It has been awhile and a long time coming. The investigation has been on going by the Ethics Commission for just less than a year. Columbia Mayor Rhonda Freeman has her case pending before the Alabama Ethics Commission regarding numerous allegations. The case numbers are 2020-0337 & 0361. There will be a hearing on the matter on Wednesday, August 4, 2021, at 9:30 AM at the RSA Building, 9th floor Hearing Room, 100 North Union Street, Montgomery, Alabama.
+>Thanks for all your help.
+>Sincerely,
+>Concerned Citizen”
 
 The Columbia case goes before the Ethics Commission next week. Let’s see if the Mayor and police are given a pass by Ethics. Ethics has been provided enough evidence by a concerned citizen that show’s a clear pattern of corruption in Columbia by the Mayor. The city council of Columbia could have solved the problem, however they chose to blame the concerned citizen while remaining blind to the obvious.
 
