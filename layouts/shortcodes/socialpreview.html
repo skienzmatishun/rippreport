@@ -2,51 +2,46 @@
 {{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
 {{- $json := getJSON $workerURL -}}
 
-{{- if and (isset $json "error") (strings.HasPrefix $json.error "Error") -}}
+{{- if (isset $json "error") -}}
     {{- $parsedURL := urls.Parse $url -}}
-    {{- if eq $parsedURL.Host "rippreport.com" -}}
+    {{- if and (eq $parsedURL.Host "rippreport.com") (strings.HasPrefix $json.error "Error") -}}
         {{- $newURL := print "https://rippreport.com/p" $parsedURL.Path -}}
         {{- $workerURL = (print "https://links.rippreport.com?q=" $newURL) -}}
         {{- $json = getJSON $workerURL -}}
-
-        {{- if and (isset $json "error") (strings.HasPrefix $json.error "Error") -}}
-            {{ warnf "Error fetching social preview for %s: %s", $newURL, $json.error }}
-            {{/* Fallback to the original URL if both attempts fail */}}
-            <a href="{{ $url }}">{{ $url }}</a>
-            {{- return -}}
-        {{- end -}}
-    {{- else -}}
-        {{ warnf "Error fetching social preview for %s: %s", $url, $json.error }}
-        {{/* Fallback to the original URL if the first attempt fails */}}
-        <a href="{{ $url }}">{{ $url }}</a>
-        {{- return -}}
     {{- end -}}
 {{- end -}}
+
+{{/* Check for errors again after the potential retry */}}
+{{- if and (isset $json "error") (strings.HasPrefix $json.error "Error") -}}
+    {{ warnf "Error fetching social preview for %s: %s", $url, $json.error }}
+    <a href="{{ $url }}">{{ $url }}</a>  {{/* Fallback if both attempts fail */}}
+    {{- return -}}
+{{- end -}}
+
 
 {{- if $json.url -}}
     {{- $parsedURL := urls.Parse $url -}}
     {{- $baseURL := $parsedURL.Host -}}
+
     <div class="social-preview">
         <a href="{{ $json.url }}">
             {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
             <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
             <h2>
-                {{- if or (eq $baseURL "www.lagniappemobile.com") (eq $baseURL "www.al.com") (eq $baseURL "mynbc15.com") (eq $baseURL "weartv.com") (eq $baseURL "1819news.com") (eq $baseURL "rippreport.com") (eq $baseURL "www.fox10tv.com") (eq $baseURL "www.montgomeryadvertiser.com") (eq $baseURL "gulfcoastmedia.com") (eq $baseURL "www.gulfcoastnewstoday.com") (eq $baseURL "www.alreporter.com") (eq $baseURL "www.altoday.com") -}}
-
-                {{- partial (print "svg/" $baseURL ".svg") (dict "id" $baseURL) }}
-                <br>
-                {{- if or (eq $baseURL "www.gulfcoastnewstoday.com") (eq $baseURL "gulfcoastmedia.com") -}}
-                {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
-                {{- else if eq $baseURL "www.altoday.com" -}}
-                {{ $json.title | strings.TrimSuffix "altoday.com" }}
-                {{- else -}}
-                {{ $json.title }}
-                {{- end -}}
-
+                {{- if in $baseURL (slice "www.lagniappemobile.com" "www.al.com" "mynbc15.com" "weartv.com" "1819news.com" "rippreport.com" "www.fox10tv.com" "www.montgomeryadvertiser.com" "gulfcoastmedia.com" "www.gulfcoastnewstoday.com" "www.alreporter.com" "www.altoday.com") -}}
+                    {{- partial (print "svg/" $baseURL ".svg") (dict "id" $baseURL) }}
+                    <br>
+                    {{- $title := $json.title }}
+                    {{- if or (eq $baseURL "www.gulfcoastnewstoday.com") (eq $baseURL "gulfcoastmedia.com") -}}
+                        {{- $title = $title | strings.TrimSuffix "- Gulf Coast Media" -}}
+                    {{- else if eq $baseURL "www.altoday.com" -}}
+                        {{- $title = $title | strings.TrimSuffix "altoday.com" -}}
+                    {{- end -}}
+                    {{- $title -}}
                 {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
-                {{ $json.title }}
+                    {{ $json.title }}
                 {{- else -}}
-                {{ $json.title }} <br> {{ $baseURL }}
+                    {{ $json.title }} <br> {{ $baseURL }}
                 {{- end -}}
             </h2>
             <p>{{ $json.description }}</p>
