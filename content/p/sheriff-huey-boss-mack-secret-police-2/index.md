@@ -20,20 +20,20 @@ SO FOCUS AND READ:
 
 Citizens should never fear from openly criticizing elected officials, especially when their conduct is costing lives. Baldwin County Sheriffs Office, BCSO, headed by Huey “Hoss” Mack has had funding of over 65 million dollars in 2020 and 2021. Over 700,000.00 dollars went for body and vehicle cameras. The sheriff solicited these “tax payer” funds from the County Commission with the sales pitch “that the cameras would protect the police and citizens alike”. He further stated that the camera’s “would promote accountability and transparency, within the BCSO.” Not only are his words hollow but his actions have generated several lawsuits resulting from deaths that could end up with multi million dollar verdicts against the BCSO.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The general fund swelled 19.2 percent from $39.8 million in 2021 to $47.5 million in 2022. Public safety expenditures represent 19.1 percent of the total budget, but the Sheriff’s Office received flat funding over last year, at $33.6 million: <a href="https://t.co/U8lLCJ2rUT">https://t.co/U8lLCJ2rUT</a></p>— Lagniappe (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1440415260637204495?ref_src=twsrc%5Etfw">September 21, 2021</a></blockquote>
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-commission-passes-second-largest-budget-ever/article_00b8c6d6-297e-5c94-8d1d-67d261de7065.html" >}}
+
 
 The general fund, Baldwin County, swelled 19.2 percent from $39.8 million in 2021 to $47.5 million in 2022. Public safety expenditures represent 19.1 percent of the total budget but the Sheriff’s Office received flat funding over last year at $33.6 million.
 
 Sheriff Mack's second term in office was secured by sheriff Mack himself, with the help of then State Senator Trip, boom boom, Pittman. They wrote and legislatively recorded qualifications for sheriff which eliminated 99.5% of the competition. Some would call this election rigging.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Debate heats up over new qualification rules for Baldwin County sheriff. <a href="http://t.co/jP97igo8gT">http://t.co/jP97igo8gT</a></p>— AL.com (@aldotcom) <a href="https://twitter.com/aldotcom/status/364000387365601280?ref_src=twsrc%5Etfw">August 4, 2013</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.al.com/live/2013/08/debate_heats_up_over_new_quali.html" >}}
 
 Here are just a few of the skeletons in the BCSO closet, that Sheriff Mack keeps locked away from citizens.
 
 JONATHAN VICTOR: May 2017—DECEASED- SHOT TO DEATH, UNARMED, BY BALDWIN COUNTY SHERIFF OFFICE
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10158890892652317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man/article_d84b62b0-b609-5921-ba9b-0ac3cae1b844.html" >}}
 
 For his part, Sheriff Mack told Tenenbaum that, at the time, BCSO had no crisis intervention team and deputies had not been specifically trained in DE-escalation techniques.
 
@@ -41,17 +41,17 @@ No crisis intervention. No DE-escalation techniques. No training in handling the
 
 How is that possible in 2017?
 
-[https://www.gulfcoastnewstoday.com/stories/judge-denies-qualified-immunity-for-sheriff-deputy-in-2017-shooting,106596](https://www.gulfcoastnewstoday.com/stories/judge-denies-qualified-immunity-for-sheriff-deputy-in-2017-shooting,106596)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/judge-denies-qualified-immunity-for-sheriff-deputy-in-2017-shooting,106596" >}}
 
 “Without question, ‘the standard for excessive force is clearly established,’” against Hunaday, and that “plaintiff has made an adequate showing that this is the kind of recurring situation presenting an obvious, highly predictable potential for violation that can trigger liability for failure to train, even in the absence of a pattern of violations.” U.S. District Court Judge William Cassady,
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159182743437317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/judge-blisters-hoss-and-hunady-in-victor-death/article_db98a31b-48ee-5131-b110-d653827648d0.html" >}}
 
 Cassady’s withering observations about Hunady’s behavior in the minutes before he shot Victor, an unarmed man acting strangely after a one-car accident on the side of the interstate, illustrate exactly why it is so important for the public to be able to see body-camera footage and other information in controversial cases.
 
 ROBERT YATES: March 5 2018⁠— DECEASED- SHOT TO DEATH BY BALDWIN COUNTY SHERIFF’S OFFICE
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fal.ya.5439%2Fposts%2F2790289154580176&amp;show_text=true&amp;width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/article_0e3724fe-d77d-5fd3-a6dc-9c5c6ada206b.html" >}}
 
 “By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
 
@@ -73,13 +73,13 @@ JOSEPH L ANDREWS
 
 KEVIN J ANDREWS: DECEASED-KILLED IN BALDWIN COUNTY SHERIFF OFFICE TRAFFIC PURSUIT
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDreesenLawGroup%2Fposts%2F138243578303162&amp;show_text=true&amp;width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/wrongful-death-lawsuit-filed-in-fatal-bcso-vehicle-pursuit/article_68273cf1-4c54-5915-9adf-2d1e15f04575.html" >}}
 
 At the time of the incident, BCSO’s own policy advised: “It is the intent to restrict motor vehicle pursuits to those situations and circumstance in which the immediate apprehension of the violator outweighs the hazards generated to deputies, the public or the occupant\[s\] of the vehicle being pursued … When it becomes apparent that the immediacy of apprehension is outweighed by a clear and unreasonable danger to the deputy and others, the pursuit should be abandoned.”
 
 PEYTON LITTLE-DECEASED- SUICIDE BY HANGING WITH SEAT BELT WHILE CAR IS MOVING???? NO COMMENT FROM BCSO.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fweartv%2Fposts%2F10154327558799347&amp;show_text=true&amp;width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://weartv.com/news/local/teen-commits-suicide-in-girlfriends-car" >}}
 
 I will acknowledge first that little information is available about Peyton Little’s death. I welcome Sheriff Mack to clarify any of my ALLEGATIONS. This “suicide” was witnessed by a minor and details have been conveniently unavailable. What is alleged, is that Peyton was a confidential informant for the Baldwin County drug task force. A division of the very sheriff's department that was assigned to investigate his death. A detail they neglected to tell the deputy who was assigned to investigate. He was found in the front seat of a car, that a minor was driving, with a seat belt wrapped so tight around his neck that it had to be cut free. Within a “few” hours his death, it was declared a suicide⁠— case closed⁠— no comment from the BCSO This may be the only case in the world where someone strangled themselves with a seat belt in a moving car.
 
@@ -87,17 +87,17 @@ No mention that Payton was a confidential informant and had received threats fro
 
 It was declared a suicide⁠ — no questions asked.
 
-https://lagniappemobile.com/hoss-tight-lipped-in-tragedies/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/baldwin-county-sheriff-hoss-mack-is-tight-lipped-in-tragedies/article_7021434f-7c55-5b5d-972d-1985869646af.html" >}}
 
 At the time of this tragedy, Mack told media there would be an investigation and the results would be turned over to the District Attorney’s (DA) office. But first he started covering his butt by telling FOX 10, “Keep in mind, these people ran from us. So, they’re the ones that caused all this and we were the ones that were trying to render the situation safe in that. As to why they were running and everything, and as to the continued pursuit, those are all things that we do look at in the investigation and we will review.”
 
 Where is the accountability and transparency?
 
-https://lagniappemobile.com/same-old-story-in-baldwin/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/same-old-story-in-baldwin/article_9b93a17d-6f9e-5252-b993-b40630e30767.html" >}}
 
 WILLIAM ‘BILL’ SMITH—BALDWIN COUNTY SHERIFF DEPT.--DECEASED
 
-[https://www.gulfcoastnewstoday.com/stories/sheriffs-deputy-drowns-attempting-water-rescue-on-fort-morgan-road,107471](https://www.gulfcoastnewstoday.com/stories/sheriffs-deputy-drowns-attempting-water-rescue-on-fort-morgan-road,107471)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/sheriffs-deputy-drowns-attempting-water-rescue-on-fort-morgan-road,107471" >}}
 
 <iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen="" mozallowfullscreen="" allow="autoplay; fullscreen" src="https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiTElOIiwidiI6IjY2NTEwMjIiLCJhbnZhY2siOiJlMjFWV1F2YUJCbjl6U1psTjdJWlZIcGxEMDN5YTk4MyIsInNoYXJlTGluayI6Imh0dHBzOi8vd3d3LndrcmcuY29tL2JhbGR3aW4tY291bnR5L2Fub3RoZXItZGF5LWFub3RoZXIta2lsby1vZi1jb2NhaW5lLWZvdW5kLW9uLWFsYWJhbWEtYmVhY2hlcy8iLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiNjAzNjQzOSIsImMzIjoid2tyZy5jb20iLCJzY3JpcHQiOiIvL3czLm1wLmx1cmEubGl2ZS9wbGF5ZXIvcHJvZC92My9wbHVnaW5zL2NvbXNjb3JlL2NvbXNjb3JlcGx1Z2luLm1pbi5qcyIsInVzZURlcml2ZWRNZXRhZGF0YSI6dHJ1ZSwibWFwcGluZyI6eyJ2aWRlbyI6eyJjMyI6IndrcmcuY29tIiwibnNfc3Rfc3QiOiJ3a3JnIiwibnNfc3RfcHUiOiJOZXhzdGFyIiwibnNfc3RfZ2UiOiJOZXdzLE5ld3MiLCJjc191Y2ZyIjoiIn0sImFkIjp7ImMzIjoid2tyZy5jb20iLCJuc19zdF9zdCI6IndrcmciLCJuc19zdF9wdSI6Ik5leHN0YXIiLCJuc19zdF9nZSI6Ik5ld3MsTmV3cyIsImNzX3VjZnIiOiIifX19LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHBzOi8vcHViYWRzLmcuZG91YmxlY2xpY2submV0L2dhbXBhZC9hZHM%2Fc3o9MXgxMDAwJml1PS81Njc4L21nLndrcmcvYmFsZHdpbl9jb3VudHkmaW1wbD1zJmdkZnBfcmVxPTEmZW52PXZwJm91dHB1dD12bWFwJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmYWRfcnVsZT0xJmRlc2NyaXB0aW9uX3VybD1odHRwczovL3d3dy53a3JnLmNvbS9iYWxkd2luLWNvdW50eS9hbm90aGVyLWRheS1hbm90aGVyLWtpbG8tb2YtY29jYWluZS1mb3VuZC1vbi1hbGFiYW1hLWJlYWNoZXMvJnZjb25wPTImcHBpZD05YTI5ZGNkZi03YmJiLTRiZDktOTBhNS03YzQ2MzY3NjNjYTcmY3VzdF9wYXJhbXM9dmlkJTNENjY1MTAyMiUyNmNtc2lkJTNEODc2OTIzJTI2cGlkJTNEODc2OTIzJTI2dmlkY2F0JTNEJTJGYmFsZHdpbl9jb3VudHklMjZib2JfY2slM0QlNUJib2JfY2tfdmFsJTVEJTI2ZF9jb2RlJTNEbmEwMDMlMjZwbGF5ZXJ3aWR0aCUzRDg3NiUyNnBsYXllcmhlaWdodCUzRDQ5MyJ9LCJsaWJyYXJ5UmVxdWVzdGVkIjp0cnVlfSwibmllbHNlbiI6eyJhcGlkIjoiUDhGRUZEOUE0LUI1NTEtNDRDNS1CQTM4LUUzNEE5M0RCMDdGNiIsInNmY29kZSI6ImRjciIsInR5cGUiOiJkY3IiLCJhcG4iOiJBbnZhdG8iLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJ1c2VEZXJpdmVkTWV0YWRhdGEiOnRydWUsIm1hcHBpbmciOnsiYWRsb2FkdHlwZSI6MiwiYWRNb2RlbCI6Mn0sIm9wdE91dCI6ZmFsc2V9LCJzZWdtZW50Q3VzdG9tIjp7InNjcmlwdCI6Imh0dHBzOi8vc2VnbWVudC5wc2cubmV4c3RhcmRpZ2l0YWwubmV0L2FudmF0by5qcyIsIndyaXRlS2V5IjoiemlMSFVmbTFzamI3OTJYYkVDcXRDd0dITXdJbW0wV3cifSwiZ29vZ2xlQW5hbHl0aWNzIjp7InRyYWNraW5nSWQiOiJVQS02MDA4ODk1Mi04IiwiZXZlbnRzIjp7IkFEX1NUQVJURUQiOnsiYWxpYXMiOiJWaWRlby1BZCIsImNhdGVnb3J5IjoiVmlkZW8iLCJsYWJlbCI6IltbVElUTEVdXSJ9LCJWSURFT19TVEFSVEVEIjp7ImFsaWFzIjoiVmlkZW8tUGxheSIsImNhdGVnb3J5IjoiVmlkZW8iLCJsYWJlbCI6IltbVElUTEVdXSJ9LCJWSURFT19GSVJTVF9RVUFSVElMRSI6eyJhbGlhcyI6IlZpZGVvLTI1JSIsImNhdGVnb3J5IjoiVmlkZW8iLCJsYWJlbCI6IltbVElUTEVdXSJ9LCJWSURFT19NSURfUE9JTlQiOnsiYWxpYXMiOiJWaWRlby01MCUiLCJjYXRlZ29yeSI6IlZpZGVvIiwibGFiZWwiOiJbW1RJVExFXV0ifSwiVklERU9fVEhJUkRfUVVBUlRJTEUiOnsiYWxpYXMiOiJWaWRlby03NSUiLCJjYXRlZ29yeSI6IlZpZGVvIiwibGFiZWwiOiJbW1RJVExFXV0ifSwiVklERU9fQ09NUExFVEVEIjp7ImFsaWFzIjoiVmlkZW8tMTAwJSIsImNhdGVnb3J5IjoiVmlkZW8iLCJsYWJlbCI6IltbVElUTEVdXSJ9LCJVU0VSX1BBVVNFIjp7ImFsaWFzIjoiUGF1c2UiLCJjYXRlZ29yeSI6IlZpZGVvIiwibGFiZWwiOiJbW1RJVExFXV0ifSwiVVNFUl9SRVNVTUUiOnsiYWxpYXMiOiJSZXN1bWUiLCJjYXRlZ29yeSI6IlZpZGVvIiwibGFiZWwiOiJbW1RJVExFXV0ifX19LCJoZWFsdGhBbmFseXRpY3MiOnt9fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjJhV1FpT2lJMk5qVXhNREl5SWl3aWFYTnpJam9pWlRJeFZsZFJkbUZDUW00NWVsTmFiRTQzU1ZwV1NIQnNSREF6ZVdFNU9ETWlMQ0psZUhBaU9qRTJNek14TlRFeE56RjkuakFDd1FMcnBXRGh2REhoaXdNNG16end3N09VeVNkZ3B2NFFfdG1lbFBZRSJ9" width="640" height="360"></iframe>
 
@@ -117,7 +117,7 @@ If you happen to be an attorney that pisses off Sheriff Hoss then be prepared fo
 
 A letter from Judge Taylor later informed Still the courthouse security committee only sets rules related to courthouse security, but does not have any authority over the sheriff’s enforcement of those rules.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fposts%2F605075757538534&amp;show_text=true&amp;width=500" width="500" height="620" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.al.com/news/2021/09/archibald-alabama-supreme-court-dares-to-trample-your-rights.html" >}}
 
 “With one sweeping stroke, today’s decision spells the end of public access to law-enforcement records that are connected in any way to an investigation,” he wrote. “I cannot sit idly by while this Court shrinks a legal right of the people of Alabama to the vanishing point. And I especially cannot do so when that shrinkage flies in the face of text and precedent.” Chief Justice Tom Parker.
 
@@ -132,7 +132,7 @@ The next two links/articles were published Wednesday Sept. 30 2021, Lagniappe.
 
 “The sweep of these pronouncements is breathtaking,” he wrote. “In essence, all evidence in the possession of law enforcement agencies, whether created by the agency or received from others, is now exempt from citizens’ statutory right to access public records … With one sweeping stroke, today’s decision spells the end of public access to law enforcement records that are connected in any way to an investigation. After today, as to law enforcement agencies at least, the statute might as well be titled the Closed Records Act.” Chief Justice Tom Parker
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBaldwinCountyLegalEagle%2Fposts%2F2924766634451320&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/your-rights-your-money/" >}}
 
 Sheriff Mack is the number one elected official in Baldwin County that needs to be voted out of his position. We need a new Sheriff that is not connected to the good ole boys, or selected, by Sheriff Hoss Mack to be his replacement. Baldwin County deserves more than a secret Police force.
 
