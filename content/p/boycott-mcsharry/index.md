@@ -35,13 +35,14 @@ Be sure to watch the video and watch the city attorney lie to everyone in attend
 
 “After the bully council is lectured about their treatment of women, Councilman Boone, aka llc. Boone, starts yelling at the Mayor and demanding Councilman Burrell immediately adjourn the meeting, which he did. Burrell cut off the Mayor’s comments after he had just pledged to her “she would be given the opportunity to speak.”
 
-https://lagniappemobile.com/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/
+https://www.lagniappemobile.com/news/fairhope-prosecutor-claims-assault-charge-against-mcsharry-will-be-refiled/article_891e7d7d-a635-5a45-b715-38b5e01d1bf5.html
 
 “The case was raised during public participation last night by Fairhope citizen Paul Ripp, who cited McSharry’s lengthy police record in the city of Fairhope. Ripp called McSharry a “public nuisance” and said he’s advocated for three alleged victims of McSharry over the past 10 years.
 
 Speaking directly to McDowell, Ripp said he “finds it interesting” the prosecutor allowed the assault charge to be dismissed on appeal when he alleged only the assault charge, not the public intoxication charge, could threaten McSharry’s state-issued liquor license.”
 
-https://lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/
+{{< socialpreview url="https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article_04668a01-aa5b-504a-a551-9922ed8ff5f4.html" >}}
+
 
 “McSharry, the owner of McSharry’s Irish Pub, was on probation at the time. Roughly two months earlier, he pleaded guilty to “breach of peace,” a charge stemming from his alleged harassment of artist Nall Hollis. Hollis’ gallery is across the street from McSharry’s bar, and McSharry was accused of directing “abusive, offensive and or vulgar language and/or gestures toward Mr. Hollis” on March 19, 2017. His sentence in that case was 12 months of probation, with an order to have no contact with Hollis and to have “no distilled liquors and shall not become inebriated.”
 
