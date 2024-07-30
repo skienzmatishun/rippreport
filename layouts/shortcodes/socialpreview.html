@@ -40,6 +40,12 @@
                 {{- else if eq $baseURL "www.fox10tv.com" -}}
                     {{ partial "svg/wala.svg" (dict "id" "Fox10") }}
                         <br> {{ $json.title }}
+                {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
+                    {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }}
+                        <br> {{ $json.title  }}
+                {{- else if eq $baseURL "1819news.com" -}}
+                    {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+                        <br> {{ $json.title }}
                 {{- else if eq $baseURL "gulfcoastmedia.com" -}}
                     <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
                         <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
@@ -54,10 +60,6 @@
                         <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
                 {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                     {{ $json.title }}
-                {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
-                    {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }} <br> {{ $json.title  }}
-                {{- else if eq $baseURL "1819news.com" -}}
-                    {{ partial "svg/1819news.svg" (dict "id" "1819 news") }} <br> {{ $json.title }}
                 {{- else -}}
                     {{ $json.title }} <br> {{ $baseURL }}
                 {{- end -}}
