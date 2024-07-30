@@ -20,7 +20,7 @@ The last edition of the Ripp Report we exposed, again, how the Fairhope City Cou
 
 This is nothing new. In fact it is quite common. Only this time it was publicly documented. Four of the council sat on the last council. They were the least productive, obstructive and corrupt of any council that has ever represented Fairhope.
 
-https://rippreport.com/p/loser/
+{{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys. We can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.
 

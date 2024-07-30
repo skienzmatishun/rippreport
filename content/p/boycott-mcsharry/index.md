@@ -22,13 +22,14 @@ Why would you support a business that is owned by a serial domestic abuser? Why 
 
 Every citizen in Fairhope should read these articles:
 
-https://lagniappemobile.com/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/
+{{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-settles-civil-suit-but-arrested-on-new-complaint/article_7156a9b8-8ff3-509d-8e15-55682892367c.html" >}}
+
 
 “Meanwhile, DiNardi filed a civil suit against McSharry in Circuit Court, claiming injury from being shoved from the stool. But the case took a soap opera-like turn as Stankoski allowed McSharry’s attorney to pursue a theory that his client was the victim of a political conspiracy that involved then-Mayor Karin Wilson and local media, including this newspaper. Stankoski even allowed McSharry’s attorney, James Pittman, to subpoena any potential communications between Lagniappe, Wilson, “consumer advocate” Paul Ripp and attorney Harry Still, despite state and federal shield laws protecting newspapers from such actions.
 
 Despite pleading guilty, McSharry then appealed those convictions to Baldwin County Circuit Court, where Judge Clark Stankoski determined that Fairhope City Prosecutor Marcus McDowell had made an error on the charging document by failing to include the fact that McSharry “did cause physical harm to another person,” and voided the conviction.”
 
-https://rippreport.com/catalyst-train-wreck/
+{{< socialpreview url="https://rippreport.com/p/catalyst-train-wreck/" >}}
 
 Be sure to watch the video and watch the city attorney lie to everyone in attendance of the council meeting.
 
@@ -44,13 +45,13 @@ https://lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-pr
 
 “McSharry, the owner of McSharry’s Irish Pub, was on probation at the time. Roughly two months earlier, he pleaded guilty to “breach of peace,” a charge stemming from his alleged harassment of artist Nall Hollis. Hollis’ gallery is across the street from McSharry’s bar, and McSharry was accused of directing “abusive, offensive and or vulgar language and/or gestures toward Mr. Hollis” on March 19, 2017. His sentence in that case was 12 months of probation, with an order to have no contact with Hollis and to have “no distilled liquors and shall not become inebriated.”
 
-https://rippreport.com/american-citizen/
+{{< socialpreview url="https://rippreport.com/p/american-citizen/" >}}
 
 “McSharry has been free to continue his business while his attorneys try to blame everyone for McSharry’s actions. McSharry is not an American citizen, he is a green card holder from Ireland.
 
 A Green Card holder with an extensive police record that has a liquor license. WTH”
 
-https://rippreport.com/communication/
+{{< socialpreview url="https://rippreport.com/p/communication/" >}}
 
 “Now let’s cut to the chase, Ripp Report style, McDowell is a holdover from the Mayor Can’t era. Captain Jack and the Council selected McDowell to carry their water and help pave the way to a Catalyst overthrowing the present Fairhope Government, in 2020. Capt Jack or Sherry Sullivan may be the Catalyst choice for Mayor but McDowell will be secure in his job as the Catalyst City Attorney.”
 
