@@ -85,7 +85,7 @@ No mention that Payton was a confidential informant and had received threats fro
 
 It was declared a suicide⁠ — no questions asked.
 
-https://lagniappemobile.com/hoss-tight-lipped-in-tragedies/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/baldwin-county-sheriff-hoss-mack-is-tight-lipped-in-tragedies/article_7021434f-7c55-5b5d-972d-1985869646af.html" >}}
 
 At the time of this tragedy, Mack told media there would be an investigation and the results would be turned over to the District Attorney’s (DA) office. But first he started covering his butt by telling FOX 10, “Keep in mind, these people ran from us. So, they’re the ones that caused all this and we were the ones that were trying to render the situation safe in that. As to why they were running and everything, and as to the continued pursuit, those are all things that we do look at in the investigation and we will review.”
 
