@@ -1,66 +1,68 @@
 {{- $url := .Get "url" -}}
 {{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
-
-{{- /* Check if the cached result exists */ -}}
-{{- $cacheKey := printf "socialpreview_%s" (sha1 $url) -}}
-{{- $json := cacheGet $cacheKey -}}
-
-{{- if not $json -}}
-    {{- $json = getJSON $workerURL -}}
-
-    {{- if not (isset $json "error") -}}
-        {{- /* Cache the result if there's no error */ -}}
-        {{- cacheSet $cacheKey $json 3600 -}} {{/* Cache for 1 hour (3600 seconds) */}}
-    {{- end -}}
-{{- end -}}
+{{- $json := getJSON $workerURL -}}
+{{- $parsedURL := urls.Parse $url -}}
+{{- $baseURL := $parsedURL.Host -}}
 
 
-{{- if (isset $json "error") -}}
-    {{- $parsedURL := urls.Parse $url -}}
-    {{- if and (eq $parsedURL.Host "rippreport.com") -}}
-        {{- $newURL := print "https://rippreport.com/p" $parsedURL.Path -}}
-        {{- $workerURL = (print "https://links.rippreport.com?q=" $newURL) -}}
-        {{- $json = getJSON $workerURL -}}
-    {{- end -}}
-{{- end -}}
-
-{{/* Check for errors again after the potential retry */}}
-{{- if (isset $json "error") -}}
-    {{ warnf "Error fetching social preview for %s: %s", $url, $json.error }}
-    <a href="{{ $url }}">{{ $url }}</a>  {{/* Fallback if both attempts fail */}}
-    {{- return -}}
-{{- end -}}
-
-
-
-{{- if and (isset $json "url") (isset $json "title") (isset $json "description") -}}
-    {{- $parsedURL := urls.Parse $url -}}
-    {{- $baseURL := $parsedURL.Host -}}
-
-    <div class="social-preview">
-        <a href="{{ $json.url }}">
-            <img loading="lazy" src="{{ $json.image | default "https://rippreport.com/img/placeholder.png" }}" alt="{{ $json.title }}">
-            <h2>
-                {{- if in $baseURL (slice "www.lagniappemobile.com" "www.al.com" "mynbc15.com" "weartv.com" "1819news.com" "rippreport.com" "www.fox10tv.com" "www.montgomeryadvertiser.com" "gulfcoastmedia.com" "www.gulfcoastnewstoday.com" "www.alreporter.com" "www.altoday.com") -}}
-                    {{- partial (print "svg/" $baseURL ".svg") (dict "id" $baseURL) }}
-                    <br>
-                    {{- $title := $json.title -}}
-                    {{- if or (eq $baseURL "www.gulfcoastnewstoday.com") (eq $baseURL "gulfcoastmedia.com") -}}
-                        {{- $title = $title | strings.TrimSuffix "- Gulf Coast Media" -}}
-                    {{- else if eq $baseURL "www.altoday.com" -}}
-                        {{- $title = $title | strings.TrimSuffix "altoday.com" -}}
-                    {{- end -}}
-                    {{ $title }}
-                {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
-                    {{ $json.title }}
-                {{- else -}}
-                    {{ $json.title }} <br> {{ $baseURL }}
-                {{- end -}}
-            </h2>
-            <p>{{ $json.description }}</p>
-            <span class="read_more">Read More</span>
-        </a>
-    </div>
+{{- if and (ne $json "No preview data found") (ne $json "Error processing request") }}
+  <div class="social-preview">
+    <a href="{{ $json.url }}">
+      {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
+      <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
+      <h2>
+        {{- if eq $baseURL "www.lagniappemobile.com" -}}
+            {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "www.al.com" -}}
+            {{ partial "svg/alcom.svg" (dict "id" "alcom") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "mynbc15.com" -}}
+            {{ partial "svg/wpmi-logo.svg" (dict "id" "wpmi channel 15 news") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "weartv.com" -}}
+            {{ partial "svg/wear-logo.svg" (dict "id" "WearTV news") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "1819news.com" -}}
+            {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "rippreport.com" -}}
+            {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "www.fox10tv.com" -}}
+            {{ partial "svg/wala.svg" (dict "id" "Fox10") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
+            {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "1819news.com" -}}
+            {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "gulfcoastmedia.com" -}}
+            <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
+            <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
+        {{- else if eq $baseURL "www.gulfcoastnewstoday.com" -}}
+            <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
+            <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
+        {{- else if eq $baseURL "www.alreporter.com" -}}
+            <img loading="lazy" style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png">
+            <br> {{ $json.title }}
+        {{- else if eq $baseURL "www.altoday.com" -}}
+            <img loading="lazy" style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
+            <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
+        {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
+            {{ $json.title }}
+        {{- else -}}
+            {{ $json.title }} <br> {{ $baseURL }}
+        {{- end -}}
+      </h2>
+      <p>{{ $json.description }}</p>
+      <span class="read_more">Read More</span>
+    </a>
+  </div>
 {{- else -}}
+  <div class="error-message">
+    <p>Preview not available.</p>
     <a href="{{ $url }}">{{ $url }}</a>
+  </div>
 {{- end -}}
