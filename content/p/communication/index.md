@@ -20,15 +20,7 @@ Can you hear me now! How many times in the last 18 months has the Mayor of Fairh
 
 The Jan. 28th meeting of the Fairhope City Council is a prime example of the lack of communication the Mayor is talking about. The City Attorney and the Council President, Captain Jack, took it upon themselves to make decisions about the Golf Course equipment, without advising the Mayor of any details or problems.
 
-## CAPTAIN JACK
-
-### CAPTAIN JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/jack_burrell_fairhope.jpg)
-
-Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”. The notice covers many issues and the final draft, particularly the issue of leases…
-
-Please Read: [rippreport.com/2019/01/11/captain-jack/](https://rippreport.com/captain-jack/)
+{{< socialpreview url="https://rippreport.com/p/captain-jack/" >}}
 
 State law defines the distinct roles of mayor and council. The city cannot run effectively with a city attorney who refuses to work with the mayor.
 
@@ -46,39 +38,15 @@ Now let’s cut to the chase, Ripp Report style, McDowell is a holdover from the
 
 McDowell and Capt Jack also get credit for the Federal lawsuit, that cost taxpayers, but not Capt. Jack, thousands of dollars. McDowell and the Captain could not settle a school yard brawl. They compounded the case until the City’s insurance Company took over to settle it. McDowell made an ass of himself and Jack was holding his hand.
 
-## POLICE REPORT
-
-### POLICE REPORT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/police.jpg)
-
-A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law.
-
-Please Read: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
+{{< socialpreview url="https://rippreport.com/police-report/" >}}
 
 The City Attorney nor Capt. Jack ever explained the police report Mr Burrell had been hiding for years. Again the Council and City Attorney just ignored the issue. He is the CITY attorney and should have released a statement about the Captain’s police report, when it came to light.
 
-## SEE YA IN COURT JACK
-
-### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/court.jpg)
-
-PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack Burrell…
-
-Please Read: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 The City Council did not want to listen to the Mayor about her concerns as to the Council selecting McDowell as City Attorney. However they said nothing when they lost the lawsuit. There was no accountability, Capt Jack and McDowell suddenly did not want to talk about it.
 
-## LOSER
-
-### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/loser.jpg)
-
-The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
-
-Please Read: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
+{{< socialpreview url="https//rippreport.com/p/loser/" >}}
 
 Then we have the very suspicious connection between the City Attorney Jack Burrell and Ronan McSharry.
 
@@ -86,15 +54,7 @@ Her we go again:
 
 Let’s see what surprises Mr. McDowell comes up with as a “Public Prosecutor”, in the ongoing antics and assaults by Mr. McSharry.
 
-## BARSTOOL
-
-### BARSTOOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/barstool.jpg)
-
-Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
-
-Please Read: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
+{{< socialpreview url="https://rippreport.com/p/barstool/" >}}
 
 This was suppose to go to court today I predict they will postpone the case until a later date. This is the same thing they did when McSharry threatened Nall, the artist. It will be postpone, postpone, postpone, then blame the victim or anyone else other than the guilty party.
 
