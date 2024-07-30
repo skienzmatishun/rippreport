@@ -33,7 +33,7 @@ Here are just a few of the skeletons in the BCSO closet, that Sheriff Mack keeps
 
 JONATHAN VICTOR: May 2017—DECEASED- SHOT TO DEATH, UNARMED, BY BALDWIN COUNTY SHERIFF OFFICE
 
-{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/judge-blisters-hoss-and-hunady-in-victor-death/article_db98a31b-48ee-5131-b110-d653827648d0.html" >}}
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10158890892652317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 For his part, Sheriff Mack told Tenenbaum that, at the time, BCSO had no crisis intervention team and deputies had not been specifically trained in DE-escalation techniques.
 
