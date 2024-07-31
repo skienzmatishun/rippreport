@@ -3,7 +3,7 @@ title: "BALDWIN COUNTY SHERIFF APPOINTMENT"
 date: 2024-07-27
 thumbnail: "img/baldwin-county-sheriff-appointment.jpg"
 categories:
-  - ethics
+  - bcso
 authors:
   - admin
 ---

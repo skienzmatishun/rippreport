@@ -3,7 +3,7 @@ title: "LETHAL FORCE"
 date: 2022-09-10
 thumbnail: "img/lethal-force.jpg"
 categories: 
-  - freaky-friday
+  - bcso
 authors: 
   - admin
 ---
