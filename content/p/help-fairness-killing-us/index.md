@@ -1,7 +1,7 @@
 ---
 title: "HELP - FAIRNESS IS KILLING US"
 date: 2017-04-28
-thumbnail: "img/help-fairness-is-killing-us.jpg"
+thumbnail: "img/help-fairness-is-killing-us.png"
 categories: 
   - freaky-friday
 tags: 
