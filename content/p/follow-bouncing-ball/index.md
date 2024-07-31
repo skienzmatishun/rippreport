@@ -23,23 +23,11 @@ A friend told me corruption in Baldwin County was like a plate of noodles, every
 
 Councilman Boone of Fairhope has been featured in previous articles,
 
-## A SPIDER’S WEB - THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/spider-web-with-water-beads-network-dewdrop1.jpg)
-
-The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as...
-
-Source: [rippreport.com/2017/01/18/a-spiders-web/](https://rippreport.com/a-spiders-web/)
+{{< socialpreview url="https://rippreport.com/p/a-spiders-web/" >}}
 
 and
 
-## BOONE-DOGGLE - THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/domino1.jpg)
-
-Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have...
-
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
+{{< socialpreview url="https://rippreport.com/p/boone-doggle/" >}}
 
 Following up on documents that show Mr. Boone being in business through LLC’s connected to the engineering company of Preble-Rish; as well as campaign contributions, now documents support Mr. Boone voted on and supported projects represented by the same firm.
 
@@ -79,4 +67,4 @@ The more we look the more you need to follow the bouncing ball of LLC’s and ju
 
  
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/01/Scan-1.pdf" download="all"\]
+<iframe src="https://cdn.rippreport.com/Scan-1.pdf" style="height:1000px;width:100%;"></iframe>
