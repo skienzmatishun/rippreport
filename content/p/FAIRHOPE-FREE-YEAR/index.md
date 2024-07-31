@@ -18,7 +18,7 @@ FREE SPEECH / PUBLIC PARTICIPATION
 
 Not only does the Council and Mayor get a free year they are now considering doing away with public participation. For those that do not follow the council the public is allowed 3 minuets to address the council about a council agenda before the meeting begins and 3 minutes after the meeting for non agenda issues. Three minutes that's all folks! But that seems to be too damn much brain damage for our non-elected municipal government.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3ksfxz3khzp2d" data-bluesky-cid="bafyreiabx5viqg57k72ozfamrx2d6f3unipjw3vkqxm4aqredboemzoh7m"><p lang="en">So now if you have anything to say it has to be on the agenda. The Mayor and Council, UN-elected this year, are now taking away your fundamental rights of free speech<br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksfxz3khzp2d?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksfxz3khzp2d?ref_src=embed">May 13, 2024 at 7:57 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://fairhopeal.portal.civicclerk.com/event/150/files/agenda/644" >}}
 
 >Ordinance - An Ordinance amending Ordinance No. 1692; the Rules of Procedure in all instances for the Meetings of the City Council: Section IX; Remove 12. Public Participation (Non-Agenda Items)
 
@@ -26,7 +26,7 @@ So now if you have anything to say it has to be on the agenda. The Mayor and Cou
 
 Fairhope has already been sued for refusing to allow yours truly from speaking.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3ksfy2azi742t" data-bluesky-cid="bafyreichx5xo2lu5guzt4cgxclxreqmrxvruakz6jv7qiiarl4bs42rnu4"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksfy2azi742t?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3ksfy2azi742t?ref_src=embed">May 13, 2024 at 7:58 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://casetext.com/case/ripp-v-burrell" >}}
 
 Full title:FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc., Defendant.
 
