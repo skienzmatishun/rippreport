@@ -18,13 +18,7 @@ Many county salaries contributed to this must have project at the time. Take int
 
 Please remember the County Commission just skimmed 5 Million from schools with the slight of hand penny tax.
 
-## Baldwin County Commission approves permanent extension of penny sales tax
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/02/21805011-standard.jpg)
-
-The commission, with unanimous approval Tuesday, approved a permanent extension of a tax that was set to expire in 2018. The tax provides $40 million in funding for the Baldwin County School System, among the largest in the state.
-
-Source: [www.al.com/news/mobile/index.ssf/2017/01/baldwin\_county\_commission\_appr\_2.html](www.al.com/news/mobile/index.ssf/2017/01/baldwin_county_commission_appr_2.html)
+{{< socialpreview url="https://www.al.com/news/mobile/2017/01/baldwin_county_commission_appr_2.html" >}}
 
 Fairhope Airport Authority takes the cake. Smoke, mirrors and enough BS to fill a 100 barns. We, the citizens, assume the Airport debt, which is 21% of the city’s debt, pay the mortgage, through appropriation, and the Authority gets to keep control and ownership of the land under the Airport Authority. If you as a private citizen file legitimate complaints against any of the board of the Authority then they will hire attorneys to “investigate” you and try and determine your motives for filing complaints. Oh, and by the way, they, the “Authority”, will pay the attorneys with tax dollars. Please wrap your head around that. You are paying for the defense of the board members accused of wrongdoing in order to discredit the whistle blower! It is all a smokescreen intended to divert your attention and to intimidate any one who may challenge their “Authority”.
 
