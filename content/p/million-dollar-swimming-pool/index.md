@@ -18,6 +18,7 @@ Catalyst players have developed a shell game called follow the LLC’s. Daphne M
 IF YOU ARE LOOKING TO BUY A HOME IN BALDWIN COUNTY, THIS IS A MUST READ.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/bellaton-residents-seek-resolution-of-pool-mortgage/article_fbb538c5-2d77-526d-9f1f-6f558f1a9d80.html" >}}
+
 This is one of the best consumer beware articles I have read in quite a while and anyone looking to buy a home needs to read this several times, or you could be buying a million dollar pool.
 
 IF YOU ARE A VOTER IN BALDWIN COUNTY THIS IS A GOOD EXAMPLE OF WHY TO VOTE OUT TUCKER DORSEY AND CHRIS ELLIOTT, CATALYST REPRESENTATIVES.

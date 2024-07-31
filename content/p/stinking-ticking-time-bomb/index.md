@@ -1,6 +1,7 @@
 ---
 title: "STINKING TICKING TIME BOMB"
 date: 2022-08-12
+thumbnail: "img/stinking-ticking-time-bomb.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -43,7 +44,7 @@ No criminal charges filed.
 
 IT’s a stinky business.
 
-https://rippreport.com/%F0%9F%92%A9/
+{{< socialpreview url="https://rippreport.com/p/stinky-business/" >}}
 
 “Baldwin County Sewer is the only, private, unregulated sewer utility in Alabama. The County commission has refused to tackle the issue of BCSS being unregulated. BCSS uses the county right of ways free and developments on farmland can use BCSS for subdivisions, which expands development sprawl. They have raised rates at will. “
 
