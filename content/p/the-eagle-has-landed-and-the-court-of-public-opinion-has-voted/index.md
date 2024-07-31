@@ -1,6 +1,7 @@
 ---
 title: "THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED"
 date: 2016-08-26
+thumbnail: "img/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted.jpg"
 categories: 
   - freaky-friday
 tags: 

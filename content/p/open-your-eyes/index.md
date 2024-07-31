@@ -47,19 +47,6 @@ A perfect example of the wrong party vote is Chris Elliott, seeking State Senate
 
 Don’t be blind, know your candidates and make an intelligent decision to vote for the best candidate
 
-<div class="link-preview">
-
-## Jason Fisher Welcomes U.S. Senator Doug Jones
-
-### Jason Fisher Welcomes U.S. Senator Doug Jones
-
-![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F48014222%2F266344575868%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C13%2C798%2C399&s=e8842fbea3eb4d5bc0b6e6ea90952348)
-
-Join us Thursday, August 9 as U.S. Senator Doug Jones returns to Baldwin County for a campaign fundraiser for Jason Fisher, candidate for State Senate District 32. The fundraiser will begin at 6:00 PM at LuLu's in Gulf Shores. A minimum donation of $50 per person is suggested and a cash bar will be available.  Attendees are also encouraged to enjoy dinner on their own at Lulu’s following the program. Your donation can be made at the door or through Jason's website.We look forward to spending and evening with you and Senator Jones!
-
-Source: [www.eventbrite.com/e/jason-fisher-welcomes-us-senator-doug-jones-tickets-48771546007](https://www.eventbrite.com/e/jason-fisher-welcomes-us-senator-doug-jones-tickets-48771546007)
-
-</div>
 Jason Fisher is a far better candidate than Chris Elliott. See ya at LULU’s
 
 OPEN YOUR EYES

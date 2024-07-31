@@ -18,7 +18,7 @@ In 2012 the Baldwin County Commission convinced itself that Baldwin County neede
 
 The property remains vacant with no serious buyers, as far as we know. County commissioners sold the project to sleeping citizens and the county employees ended up helping to pay the 32 million dollar price tag. Today’s commissioners say they have greater oversight and that the Mega-site would not be approved by the commission in 2017. However, 18 months ago, a little more insight into the mega site raised more questions than answers.
 
-http://lagniappemobile.com/officials-remain-optimistic-dormant-mega-site/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/officials-remain-optimistic-about-dormant-mega-site/article_5f8085da-94f0-5184-af59-17e4ce036deb.html" >}}
 
 The bottom line is that 32 million in 2012, almost 5 years ago, would probably be a value of 50 million today, taking into consideration lost opportunity. Another example of county commissioners and economic development is the recent penny school tax that they skimmed a cool 5 million dollars off of for county infrastructure projects while telling everyone what a good deal they made. The schools now have 5 million less. A deal with the devil and no one got to vote on it.
 
@@ -28,13 +28,7 @@ Why would you vote for any incumbent for any elected position in mid term?
 
 Fairhope Economic Development is just as fickle. Last week the city council approved an old invoice of our previous mayor. Only problem is there was no invoice, purchase order, or paperwork.
 
-## HOW THE PENDULUM SWINGS
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/pendulum-622706_640-21.png)
-
-Well, Wonderful Wednesday had some very interesting commentary. HAPPY DAYS ARE HERE AGAIN Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite...
-
-Source: [rippreport.com/2017/05/12/how-the-pendulum-swings/](https://rippreport.com/how-the-pendulum-swings/)
+{{< socialpreview url="https://rippreport.com/p/how-the-pendulum-swings/" >}}
 
  
 
