@@ -1,7 +1,7 @@
 ---
 title: "MEGA — LOST OPPORTUNITY"
 date: 2021-07-30
-thumbnail: "img/mega-lost-opportunity.jpg"
+thumbnail: "img/mega-lost-opportunity.png"
 categories: 
   - freaky-friday
 authors: 
@@ -46,15 +46,15 @@ Baldwin County Budget Director Ron Cink said aside from the initial purchase pri
 
 Mr Lawson is now claiming the county will sell the property rather than a joint venture into the future.”This is 100% different than what has been proposed to the county commissioners and citizens. Who and when was this decision made?
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsavannahnow%2Fposts%2F10157838599041816&amp;show_text=true&amp;width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.savannahnow.com/story/news/2021/05/25/kemp-announces-creation-largest-megasite-georgia-history-bryan-county-economic-development-amazon/7436754002/" >}}
 
 Mr. Lawson has said we were dead last in the Mega-site race in the southeast. He explained by being last we are now the last remaining Mega-site available, so we are, by default first. That is his sales pitch? Lee omitted Georgia where not only did they sell their Mega-site they purchased another one with those proceeds.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4823394031022693&amp;show_text=true&amp;width=500" width="500" height="513" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.al.com/live/2013/03/lamar_advertising_expresses_co.html" >}}
 
 “The Growing Alabama Tax Credit program, managed by the Alabama Commerce Department, allows private companies and individuals to get a dollar-for-dollar tax credit for investing in preparation and infrastructure improvements to industrial sites.”
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBusinessAlabamaMagazine%2Fposts%2F4335104746549151&amp;show_text=true&amp;width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://businessalabama.com/south-alabama-mega-site-receives-5-5-million-investment/" >}}
 
 The above article was featured as a, Submitted Article. That means that BCEDA either paid for the article or the Gulf Coast News pushed the propaganda for free.
 
