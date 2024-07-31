@@ -32,4 +32,6 @@ Conflicts of interest by council members should be resolved by the council.
 
 This requires self discipline and in some cases opposing a fellow councilman or friend. We live in a small community where it is possible to know many different people and maintain a large scope of friends. This can be tough on city council members who often see the same friends involved in municipal business. They must put the best interest of the city first, and stay clear of any potential conflict of interest.
 
-Such as this \[embeddoc url="http://bellatoral.com/wp-content/uploads/2013/05/Covenant-Amendment-3.pdf" download="all"\] Mr. Boone should not be voting on any projects where the principal of the project is a business partner of his, in any respect, and he knows it. He also knows it is a conflict of interest but hell, he’s entitled.
+Such as this
+
+<iframe src="http://bellatoral.com/wp-content/uploads/2013/05/Covenant-Amendment-3.pdf" style="height:1000px;width:100%;"></iframe>
