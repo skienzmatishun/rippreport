@@ -42,7 +42,7 @@ The cast of characters in the million dollar pool are the same individuals that 
 
 One name not mentioned is John Avant, however he is in the deep end of the pool. Avant of Prebble-Rish is business partners, more convoluted LLC’s, of Kevin Boone, City Councilman in Fairhope.
 
-{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/"> }}
+{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/" >}}
 
 Boone has Catalyst tattooed on his ass, and his son Scott,”baby” Boone is the Catalyst chieftain. Now guess who contributes to Catalyst and put Boone in office? John Avant and all the people in the pool.
 
