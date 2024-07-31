@@ -15,7 +15,7 @@ authors:
 
 Well, Wonderful Wednesday had some very interesting commentary.
 
-{{< socialpreview url="https://rippreport.com/happy-days-are-here-again/" >}}
+{{< socialpreview url="https://rippreport.com/p/happy-days-are-here-again/" >}}
 
 Let me set the record straight on a few issues. First The Ripp Report is written by myself and sometimes does not get any grammatical edit. I apologize. Had I known 60 years ago that I would be writing the Ripp Report, I would have paid more attention in English class. I hope you get the message.
 
@@ -23,7 +23,7 @@ The mayor extended an olive branch to the council and the council accepted the o
 
 The mayor will not sell out to the GOB, good ole boys, or the 1%. Nor can she be bought or will she be flying in any jets for free. She is, however, the mayor and must put the city before any of her personal feelings. Mayor Wilson is working 10 to 16 hour days, sometimes 7 days a week, while the council is part time. The mayor is also grossly underpaid and the council has done nothing to try and bring that salary to a “fair” amount.
 
-{{< socialpreview url="https://rippreport.com/help-fairness-killing-us/" >}}
+{{< socialpreview url="https://rippreport.com/p/help-fairness-killing-us/" >}}
 
 Please do not forget Mayor Kant did not participate in any transition nor did he attend the swearing in ceremonies. In fact he made it as difficult as possible.
 
