@@ -31,17 +31,12 @@ The Pied Piper is costing Fairhope millions.
 
 His latest antics contributions are:
 
-<iframe src="http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-bluff-parks-not-ada-compliant,107344" height="1200px" width="550px" scrolling="no" style="height:1200px;width:550px;"></iframe>
-
-Read Full Article:
-
-[http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-bluff-parks-not-ada-compliant,107344](http://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-bluff-parks-not-ada-compliant,107344)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-bluff-parks-not-ada-compliant,107344" >}}
 
 “Compliance got triggered in 1992,” he said. “We’re just now tackling it in 2021. We have the ability now with the federal grant funds that we to maybe take a real good look at this because now we’ve got an opportunity we didn’t have before.”
 
-<iframe src="http://thefairhopetimes.blogspot.com/2021/06/seawall-getting-temporary-repairs.html" height="1200px" width="550px" scrolling="no" style="height:1200px;width:550px;"></iframe>
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2021/06/seawall-getting-temporary-repairs.html" >}}
 
-Read Full Article: [http://thefairhopetimes.blogspot.com/2021/06/seawall-getting-temporary-repairs.html](http://thefairhopetimes.blogspot.com/2021/06/seawall-getting-temporary-repairs.html)
 
 The rocks may be used again in the working [waterfront project](http://rippreport.com/tag/waterfront-project/) when it is finalized.
 
@@ -61,9 +56,7 @@ That’s Jack’s plan.
 
 The swimming area had overwhelming citizen support prior to the election.
 
-<iframe src="http://www.gulfcoastnewstoday.com/stories/fairhope-bluff-parks-not-ada-compliant,107344" height="1200px" width="550px" scrolling="no" style="height:1200px;width:550px;"></iframe>
-
-Read Full Article: [http://www.gulfcoastnewstoday.com/stories/fairhope-bluff-parks-not-ada-compliant,107344](http://www.gulfcoastnewstoday.com/stories/fairhope-bluff-parks-not-ada-compliant,107344)
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/stories/fairhope-bluff-parks-not-ada-compliant,107344" >}}
 
 “Compliance got triggered in 1992,” he said. “We’re just now tackling it in 2021. We have the ability now with the federal grant funds that we to maybe take a real good look at this because now we’ve got an opportunity we didn’t have before.”
 
@@ -101,21 +94,21 @@ Who owned the house and lot at 8300 Morphy that the city bought prior to any not
 
 Tim [Kant](http://rippreport.com/tag/kant/) taught [Sherry](http://rippreport.com/tag/sullivan/) and Jack everything they know.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4630770193618412&amp;show_text=true&amp;width=500" width="500" height="615" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/no-qualifications/" >}}
 
 Let’s not forget the [Airport](http://rippreport.com/tag/airport) and millions it has sucked out of Fairhope for a select few.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F1838003556228437&amp;show_text=true&amp;width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
 Council President Burrell has a police record that he forgot to mention in previous elections.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F2161367893892000&amp;show_text=true&amp;width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 Then there is Jack’s hat trick of slipping in Jay Robinson to replace the quitter, jester, Robert Brown — all the while lying to the community.
 
 Jack get Jay’s vote and Jay gets full family insurance and salary, estimated at around $100,000, and Brown, without any public explanation, disappears.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4478044045557695&amp;show_text=true&amp;width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/no-radar/" >}}
 
 The council denies they knew anything about [Robert Brown](https://rippreport.com/tag/robert-brown/) purchasing his ”family” property July 21 2020.
 
@@ -127,9 +120,7 @@ First, Jack says absolutely No [Tolls](https://rippreport.com/tag/tolls/) on the
 
 The new plan is for a “Truckers toll bridge”. Jack now says that you may use the truckers bridge if you wish, but that their will be a toll, so it is your decision to pay the toll. What BS.
 
-<iframe src="http://www.gulfcoastnewstoday.com/the-courier/stories/eastern-shore-mpo-to-vote-on-mobile-river-bridge-bayway-projects-in-june,107253" height="1200px" width="550px" scrolling="no" style="height:1200px;width:550px;"></iframe>
-
-Read Full Article: [http://www.gulfcoastnewstoday.com/the-courier/stories/eastern-shore-mpo-to-vote-on-mobile-river-bridge-bayway-projects-in-june,107253](http://www.gulfcoastnewstoday.com/the-courier/stories/eastern-shore-mpo-to-vote-on-mobile-river-bridge-bayway-projects-in-june,107253)
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/the-courier/stories/eastern-shore-mpo-to-vote-on-mobile-river-bridge-bayway-projects-in-june,107253" >}}
 
 Fairhope City Council President Jack Burrell, chairman of the Eastern Shore MPO, said the phased approach would work, but still leaves questions.
 
