@@ -17,19 +17,7 @@ Catalyst players have developed a shell game called follow the LLC’s. Daphne M
 
 IF YOU ARE LOOKING TO BUY A HOME IN BALDWIN COUNTY, THIS IS A MUST READ.
 
-<div class="link-preview">
-
-## Bellaton residents seek resolution of pool mortgage - Lagniappe Mobile
-
-### Bellaton residents seek resolution of pool mortgage - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2018/06/Bellaton.jpg)
-
-When homeowners in Bellaton Estates in Baldwin County decide to relax in their community pool, they’re enjoying an amenity that will ultimately cost them $1 million. But several residents are now seeking recourse for being stuck paying a $625,000 mortgage on the lot encompassing the pool, with at least 35 homeowners signing affidavits claiming they …
-
-Source: [lagniappemobile.com/bellaton-residents-seek-resolution-of-pool-mortgage/](https://lagniappemobile.com/bellaton-residents-seek-resolution-of-pool-mortgage/)
-
-</div>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/bellaton-residents-seek-resolution-of-pool-mortgage/article_fbb538c5-2d77-526d-9f1f-6f558f1a9d80.html" >}}
 This is one of the best consumer beware articles I have read in quite a while and anyone looking to buy a home needs to read this several times, or you could be buying a million dollar pool.
 
 IF YOU ARE A VOTER IN BALDWIN COUNTY THIS IS A GOOD EXAMPLE OF WHY TO VOTE OUT TUCKER DORSEY AND CHRIS ELLIOTT, CATALYST REPRESENTATIVES.
