@@ -23,7 +23,7 @@ Recently we published copies of LLC’s connecting Fairhope city councilman Kevi
 
 
 
-{{< socialpreview url="ttps://rippreport.com/p/boone-doggle/" >}}
+{{< socialpreview url="https://rippreport.com/p/boone-doggle/" >}}
 {{< socialpreview url="https://rippreport.com/p/bit-dogs-bark-first/" >}}
 
 Mr. Boone has been voting and advocating for particular engineer firms while eliminating others. He also has enjoyed handsome campaign contributions from the same LLC’s that he has a financial interest in.
