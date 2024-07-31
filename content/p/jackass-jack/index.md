@@ -73,7 +73,7 @@ Mayor Sullivan and Jackass Jack are now going to decide how they want to spend $
 
 Let’s hope the people that condemned the Mayor and Jack over the lighting of the trees are paying attention to the Waterfront project.
 
-{{< socialpreview url="https://rippreport.com/howling-rains-passing-gas/" >}}
+{{< socialpreview url="https://rippreport.com/p/howling-rains-passing-gas/" >}}
 
 This project, $6.2 million, is driven by citizen participation. Hundreds have already filled out surveys and attended meetings. However, recent quotes by the Mayor and Jackass Jack are totally contrary to the data already received by the surveys. The swimming area and jetty were overwhelming endorsed by the public.
 
