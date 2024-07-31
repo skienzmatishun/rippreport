@@ -18,22 +18,12 @@ Consider that the apartments and townhouses approved on Fly Creek, around 300 un
 
 To compound the situation even more is the Fire station at the head of Highridge Road off Parker. How will the Fire truck get through a blocked intersection? To make it even more complicated Parker Road on the Publix side is only about 1000 feet long, half in the county and half in Fairhope, neither one has done any maintenance on Parker for years.
 
-## CATALYST DOES FAIRHOPE![](https://cdn.rippreport.com/wp-content/uploads/2018/03/cross-out.jpg)
-
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
 
-Please Read: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
+{{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
 The gateway to Fairhope, Parker Road, is going to be malfunction junction and the frog will boil before Anyone addresses the issue. Remember this at election time.
 
-## Hwy 98 Adaptive Traffic Signal Project Completed
-
-### Hwy 98 Adaptive Traffic Signal Project Completed
-
-![](https://3.bp.blogspot.com/-5DA2nXqk8hk/XD-c8F-FnCI/AAAAAAAARFE/eX-YzhIfzjsh-688SHz99KjWu7HFPCuEQCLcBGAs/w1200-h630-p-k-no-nu/fullsizeoutput_338.jpeg)
-
-News and information for Fairhope and Baldwin County, Alabama.
-
-Please Read: [thefairhopetimes.blogspot.com/2019/01/hwy-98-adaptive-traffic-signal-project.html](https://thefairhopetimes.blogspot.com/2019/01/hwy-98-adaptive-traffic-signal-project.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2019/01/hwy-98-adaptive-traffic-signal-project.html" >}}
 
 ## PLEASE REMEMBER FAIRHOPE VOTERS: IT WAS THE FAIRHOPE, CATALYST, CITY COUNCIL WHO APPROVED THE APARTMENTS
