@@ -1,6 +1,7 @@
 ---
 title: "HAPPY DAYS ARE HERE AGAIN"
 date: 2017-05-10
+thumbnail: "img/happy-days-are-here-again.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -15,12 +16,6 @@ Fairhope still has baggage from the last administration that will come up time t
 
 The issues that have come up since taking office should be as transparent as possible. The council should adopt a policy of conducting an internal review into subjects that are controversial and have generated citizen complaints. The results of the internal review would be made public. Leaving the public hanging for answers will only create more questions and distrust of our municipal government.
 
-## It's reigning cat vs dogs in Fairhope politics
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/22647206-standard.jpg)
-
-In the charming town of Fairhope, cats and dogs get along better than its elected leaders.
-
-Source: [www.al.com/opinion/index.ssf/2017/05/its\_reigning\_cat\_vs\_dogs\_in\_fa.html](www.al.com/opinion/index.ssf/2017/05/its_reigning_cat_vs_dogs_in_fa.html)
+{{< socialpreview url="https://www.al.com/opinion/2017/05/its_reigning_cat_vs_dogs_in_fa.html" >}}
 
 Cats and dawgs can get along. If they want to.

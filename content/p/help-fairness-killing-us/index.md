@@ -1,6 +1,7 @@
 ---
 title: "HELP - FAIRNESS IS KILLING US"
 date: 2017-04-28
+thumbnail: "img/help-fairness-is-killing-us.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -34,7 +35,7 @@ Source: [lagniappemobile.com/community-groups-assist-city-officials-neighborhood
 
 This “Fairness is killing us”, the citizens who are suffering the consequences, while Council wages war, with the Mayor at our expense.
 
-[http://local15tv.com/news/local/baldwin-co-home-sales-surging-bringing-millions-in-extra-revenue](http://local15tv.com/news/local/baldwin-co-home-sales-surging-bringing-millions-in-extra-revenue)
+{{< socialpreview url="https://web.archive.org/web/20170426094455/http://local15tv.com/news/local/baldwin-co-home-sales-surging-bringing-millions-in-extra-revenue" >}}
 
 HELP!
 
@@ -42,23 +43,11 @@ Please contact Councilmen Conyers, Brown and Robinson. Do not waste your time wi
 
 At the last council meeting, Mr Boone was again asked to recuse himself on voting on issues related to Angelo Corte, Preeble-Rish or the Fly Creek Pud. He responded that he was not a partner in any Llc. that would be a conflict of interest. Damn he was telling the truth, the llc’s made public January 25,
 
-## BOONE-DOGGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/domino-12.jpg)
-
-Well if you read the wonderful Wednesday this week, BIT DOGS BARK FIRST – THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE Well folks if you were watching football this last Monday night and have...
-
-Source: [rippreport.com/2017/01/13/boone-doggle/](https://rippreport.com/boone-doggle/)
+{{< socialpreview url="https://rippreport.com/p/boone-doggle/" >}}
 
 and
 
-## CONFLICT OF INTEREST
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/balance2.jpg)
-
-Dear Fairhope City Council: Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering company Preble-Rish that are conflicts of...
-
-Source: [rippreport.com/2017/01/25/conflict-of-interest/](https://rippreport.com/conflict-of-interest/)
+{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/" >}}
 
 were dissolved by Mr Boone only 6 days after we published them.
 
@@ -102,11 +91,5 @@ Our council has ignored Mr. Boone’s conflict of interest and the controversy i
 \[caption id="attachment\_1376" align="aligncenter" width="300"\]![Boone and Burrell Fairhope](https://cdn.rippreport.com/wp-content/uploads/2017/04/BeavisandButthead-2-300x1691.jpg) "I swear Beavis, I have covered my tracks, don't you have a plane to catch?"\[/caption\]
 
 On Wonderful Wednesday, the Ripp Report will cover what we know about the “gift” of the lift station property. I am leaving you with 3 documents I have acquired through public domain for your consideration. Please contact the city council for an explanation or wait till Wonderful Wednesday.
-
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/04/resolution2606-16-1.pdf" download="all"\]
-
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/04/resolution2606-16-2.pdf" download="all"\]
-
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/04/resolution2606-16-3.pdf" download="all"\]
 
 Thanks for the "gift" Jack, come fly with me.

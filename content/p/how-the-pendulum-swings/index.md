@@ -1,6 +1,7 @@
 ---
 title: "HOW THE PENDULUM SWINGS"
 date: 2017-05-12
+thumbnail: "img/how-the-pendulum-swings.png"
 categories: 
   - freaky-friday
 tags: 
@@ -14,13 +15,7 @@ authors:
 
 Well, Wonderful Wednesday had some very interesting commentary.
 
-## HAPPY DAYS ARE HERE AGAIN
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/640px-Fairhope_Pier_and_walkway1.jpg)
-
-Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite and cordial among council and mayor. They are going to have difficult times...
-
-Source: [rippreport.com/2017/05/10/happy-days-are-here-again/](https://rippreport.com/happy-days-are-here-again/)
+{{< socialpreview url="https://rippreport.com/happy-days-are-here-again/" >}}
 
 Let me set the record straight on a few issues. First The Ripp Report is written by myself and sometimes does not get any grammatical edit. I apologize. Had I known 60 years ago that I would be writing the Ripp Report, I would have paid more attention in English class. I hope you get the message.
 
@@ -28,23 +23,13 @@ The mayor extended an olive branch to the council and the council accepted the o
 
 The mayor will not sell out to the GOB, good ole boys, or the 1%. Nor can she be bought or will she be flying in any jets for free. She is, however, the mayor and must put the city before any of her personal feelings. Mayor Wilson is working 10 to 16 hour days, sometimes 7 days a week, while the council is part time. The mayor is also grossly underpaid and the council has done nothing to try and bring that salary to a “fair” amount.
 
-## HELP - FAIRNESS IS KILLING US
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/help-153094_6401.png)
-
-The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for “Fairness”. First, the council implements a hiring freeze to punish the mayor for firing two employees. Then they side with the developer...
-
-Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/help-fairness-killing-us/)
+{{< socialpreview url="https://rippreport.com/help-fairness-killing-us/" >}}
 
 Please do not forget Mayor Kant did not participate in any transition nor did he attend the swearing in ceremonies. In fact he made it as difficult as possible.
 
 Is the Ripp Report giving up on exposing corruption in Baldwin County and Fairhope? You gotta be kidding, with such a target rich environment of corruption, I think not.
 
-## Peace breaks out at Fairhope council meeting - Lagniappe Mobile
-
-Mayor Karin Wilson and the Fairhope City Council on Monday night proved they can play nicely together. After months of increasingly contentious and divisive interaction that had citizens demanding the council and mayor figure out how to get along and work together, at least some of them agreed to try. On Saturday, Wilson invited City …
-
-Source: [lagniappemobile.com/peace-breaks-fairhope-council-meeting/](lagniappemobile.com/peace-breaks-fairhope-council-meeting/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/peace-breaks-out-at-fairhope-council-meeting/article_6809d3fb-9983-5412-9643-9c512f2b9c0d.html" >}}
 
 > “The council approved $32,510.97 in payments to Walcott, Adams, Verneuille Architects for exterior repairs and maintenance on the Fairhope Public Library, although no paperwork could be found showing the work had been authorized.
 > 
