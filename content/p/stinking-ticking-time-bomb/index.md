@@ -29,13 +29,13 @@ What will the county do if Mr. Burke just says screw it one day and leaves the c
 
 LLPS should also be aware of two high profile lawsuits where BCSS came out stinking worse than untreated sewage. First the Straw-man case:
 
-https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
 “What makes this case of particular interest is not only Bass’ claims that Burke, the president of Baldwin County Sewer Service and a well-known developer in Baldwin County, and Delaney, a prominent South Alabama lender, conspired to use a Ponzi scheme to defraud Bass, but also that those sealed records reveal many of the business and political connections between some of the major players in Baldwin County development over the past two decades, according to charts entered as exhibits in the case that provide a guide through the labyrinth of intermingled companies involved in the case.”
 
 No criminal charges were filed.
 
-https://lagniappemobile.com/trial-begins-over-alleged-fraudulent-pool-mortgage-at-bellaton/
+{{< socialpreview url="https://www.lagniappemobile.com/news/trial-begins-over-alleged-fraudulent-pool-mortgage-at-bellaton/article_8736727e-0a11-58d8-a96b-04e70df66ae9.html" >}}
 
 “According to testimony in a civil trial that began in Judge Jody Bishop’s courtroom Friday, Burke and Corte remained obligated to the debt even as, over the next few years, their obligation was allegedly “hidden” by a series of “secret” documents. Further muddying the waters, management of the Bellaton Property Owners Association (BPOA) was assumed by DR Horton in 2012, which purchased dozens of lots, including A1, out of foreclosure or default. “.
 
