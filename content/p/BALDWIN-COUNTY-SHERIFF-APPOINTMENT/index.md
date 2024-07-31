@@ -113,5 +113,13 @@ Montgomery Alabama 36130
 
 <iframe loading="lazy" style="margin-bottom:2rem;" width="560" height="315" src="https://www.youtube.com/embed/Xu5kx2MxvkQ?si=aI7oHf45VsrK1Xla" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<style>
+.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 17:22:04 2024 UTC"]) {opacity: 0.62;order: 15;}
+.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 17:18:13 2024 UTC"]) {opacity: 0.62;order: 15;}
+.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 13:57:20 2024 UTC"]) {opacity: 0.62;order: 15;}
+.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 09:57:10 2024 UTC"]) {opacity: 0.62;order: 15;}
+
+</style>
 {{< chat baldwincountysheriffappointment >}}
 
