@@ -1,6 +1,7 @@
 ---
 title: "CATALYST - Open letter to Baldwin County District Attorney"
 date: 2018-08-10
+thumbnail: "img/catalyst-open-letter-to-baldwin-county-district-attorney.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -19,7 +20,7 @@ http://gulfcoastnewstoday.com/stories/fairhope-councilman-accuses-mayor-wilson-o
 
 It should be noted that this is just another attempt to unseat a duly elected official to satisfy the needs of a shadow government, Catalyst. Catalyst should be investigated as well as the Courier and WACO radio for their part in obstructing Fairhope Government.
 
-https://rippreport.com/shadow-government/
+https://rippreport.com/p/shadow-government/
 
 Mr. Boone, WACO radio and the tabloid news, Courier, are representatives of the group Catalyst. Mr Boone’s son Scott runs the dubious group and uses these media outlets to further their cause. Mr Kevin Boone says he is acting as a concerned citizen not a council person, yet the title of the article says “Fairhope Councilman accuses Mayor Wilson of violating the law.”
 
@@ -29,7 +30,7 @@ Mr. Wilters many people believe your position as District Attorney was aided by 
 
 Fairhope City Councilman and Catalyst member, Kevin Boone should be the one investigated for his relationship with John Avant and the many LLC’s they share. Mr. Jack Burrell is another Councilman with plenty of baggage. Investigate the Fairhope Airport. Let’s not forget Mr Robert Brown, another Fairhope City Councilman who secured a no bid contract with the Fairhope Art Center, where he is a board member.
 
-https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
+https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/
 
 The Ripp Report has considerable documentation that raises many red flags. We, however do not have the investigative powers of your office. We cannot put them on the stand a swear them in, nor can we convene a grand jury.
 
