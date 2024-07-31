@@ -1,6 +1,7 @@
 ---
 title: "POT CALLING THE KETTLE BLACK"
 date: 2022-02-19
+thumbnail: "img/pot-calling-the-kettle-black.png"
 categories: 
   - freaky-friday
 authors: 
@@ -9,13 +10,13 @@ authors:
 
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.
 
-[https://www.alreporter.com/how-tallassee-went-crazy/](https://www.alreporter.com/2022/02/18/how-tallassee-went-crazy/)
+{{< socialpreview url="https://www.alreporter.com/2022/02/18/how-tallassee-went-crazy/" >}}
 
 Politicians always deflect questions about corruption by saying another state is worse, or corruption is everywhere.
 
 Some media outlets in Alabama avoid corruption stories because it will affect their bottom line, be it money or access to fluff stories. The same media will flock like vultures to a story “acceptable”, to run with. To be acceptable it has to be a vulnerable target, not particularly politically connected.
 
-[https://lagniappemobile.com/prichard-water-board-financial-manager-received-pay-raise-after-alleged-fraud/](https://lagniappemobile.com/prichard-water-board-financial-manager-received-pay-raise-after-alleged-fraud/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/prichard-water-board-financial-manager-received-pay-raise-after-alleged-fraud/article_3bb7ce5a-1dcf-5a3d-b16d-bf77048eca98.html" >}}
 
 “My report represents approximately 20 percent of what I believe could be a $1.5 million or more fraud,” they wrote. “In my professional opinion, this may eventually lead to embezzlement, mail fraud, wire fraud and credit card fraud charges.”
 
@@ -27,12 +28,12 @@ Former State Senator Tripp Pittman is often the political spokesman for the Jeff
 
 Why don’t they cover the ethics director?
 
-[https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 “As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition is raising questions about his own principles.”
 
 The media should be ashamed but they have no shame.
 
-https://rippreport.com/where-is-the-media/
+{{< socialpreview url="https://rippreport.com/p/where-is-the-media/" >}}
 
 Lagniappe is the only publication who has the balls for investigative journalism and publishing the story regardless the stature of the individual. Alabama will not solve any of it’s problems without getting serious about prosecution of political corruption.
