@@ -115,17 +115,7 @@ This resolution should be reconsidered and Mr. Boone should not vote on any engi
 
 It should be noted he opposes any in house engineer hire, or any resolution of the Mayor, who has the best interests of the community at heart.
 
-## City Council Place Five Campaign Contributions
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/IMG_0283.JPG)
-
-BOONE v. GOVER
-
-Incumbent Kevin Boone has reported a total of $10,425 so far including:
-
-$2500 from Dewberry Engineering (formerly Preble Risch) $500 Summit Industries Inc. $250 Tony's Towing $750 Michael Boothe $250 James Reid $150 Sawgrass Consulting, Inc $200 Terry Thompson $100 Marion Wynne  city attorney $300 Oliver Gilmore $500 Angus Cooper II $200 Eastern Shore Mobile Home Village $250 WAS Design Inc $200 Arthur Tonsmeire III
-
-Source: [thefairhopetimes.blogspot.com/2016/08/city-council-place-five-campaign.html](thefairhopetimes.blogspot.com/2016/08/city-council-place-five-campaign.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2016/08/city-council-place-five-campaign.html" >}}
 
 A contribution for $2500.00 from Preble-Rish?? No conflict right? The second item # 16. was a resolution for a part-time Administrative Assistant to the Mayor. Mr. Burrell led this charge. He had nothing to say in the work session but waited for the council meeting to oppose any part time assistant. Then as if it were rehearsed, which was obvious, Mr. Boone supports Mr. Burrell in blocking the Mayor. Think how this works folks we have a new Mayor and the realization that we have a serious infrastructure problem which leads to a building moratorium for 6 months so we may identify the problems.
 
