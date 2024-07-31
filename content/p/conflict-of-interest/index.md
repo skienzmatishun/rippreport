@@ -21,13 +21,7 @@ Dear Fairhope City Council:
 
 Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering company Preble-Rish that are conflicts of interest. Mr. Boone has had these connections through the LLC’s for many years and has never acknowledged them or recuse himself from voting on any issues that came before him as a councilman or during his participation with planning and zoning.
 
-## FOLLOW THE BOUNCING BALL
-
-![](https://cdn.rippreport.com/ball1.jpg)
-
-The Ripp Report and Baldwin County Legal Eagle is a non-profit exposing political and judicial corruption. We also have helped consumers with complaints about consumer products or services. There are no paid staff and no...
-
-Source: [rippreport.com/2017/01/20/follow-bouncing-ball/](https://rippreport.com/follow-bouncing-ball/)
+{{< socialpreview url="https://rippreport.com/p/follow-bouncing-ball/" >}}
 
 His direct business connection with Mr John Avent of Dewberry Preble-Rish, LLC dates back prior to his being on the council. Mr. Boone has voted for the last four and half years on Preble Rish projects, such as Firefly, where is listed on another LLC with Mr. Avent.
 
