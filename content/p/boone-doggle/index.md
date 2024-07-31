@@ -12,7 +12,7 @@ authors:
 
 Well if you read the wonderful Wednesday this week,
 
-{{< socialpreview url="rippreport.com/p/bit-dogs-bark-first/" >}}
+{{< socialpreview url="https://rippreport.com/p/bit-dogs-bark-first/" >}}
 
 you realize that Mr Boone, our councilman, has many conflicts of interest that he has failed to share with the citizens. Mr. Boone is the epitome of the good ole boy who has convinced himself that he is entitled to any little side deal or llc. that may come his way.
 
