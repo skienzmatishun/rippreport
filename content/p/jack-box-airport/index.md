@@ -1,6 +1,7 @@
 ---
 title: "JACK IN THE BOX - AIRPORT"
 date: 2017-02-10
+thumbnail: "img/jack-in-the-box-airport.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -16,7 +17,7 @@ The Airport Authority has a great idea! They are going to use your tax dollars t
 
 Right now you should be thinking WTF, but wait there is more. The “top ethics attorney of Alabama is Ray Hix’s Attorney who prepared the lease in question and was paid by Mr. Hix to prepare a request of the Ethics Commission for an Advisory Opinion. The Ripp Report is still requesting a copy of that letter for our “investigation”. The Authority is hiring Mr. Hix attorney to represent the authority while Mr. Hix holds the position of Sec. Treasurer for the Authority, to investigate a legitimate complaint already in the hands of authorities.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/02/copy.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2017/02/copy.pdf
 
 Now your head should be really spinning but just keep turning that crank because here comes Jack in the box. A Fairhope resident who inquired with the Ethics Commission Chief Council, Mr. Hugh Evens, sought information relative to the Fairhope Airport Authority. At the time I had no knowledge of the request and the Fairhope resident had every expectation of confidentially. Mr. Evens blind copied Mr. Bailey, Mr. Hix's attorney. Hey Hey Jack in the box, attorney talking with attorney who is. to be paid by an attorney. Ethics what the hell is that? It is not in the box with Jack.
 
@@ -26,6 +27,3 @@ The local print media has been given a copy of the complaint as it was submitted
 
 Someone please put Jack back in the box. Before it's too late.
 
-<iframe src="https://cdn.rippreport.com/wp-content/uploads/2017/02/preview1" width="640" height="840"></iframe>
-
-[Download](https://cdn.rippreport.com/wp-content/uploads/2017/02/view?usp=sharing1)

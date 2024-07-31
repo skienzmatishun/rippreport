@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE VOTERS IMPORTANT NOTICE"
 date: 2017-03-22
+thumbnail: "img/fairhope-voters-important-notice.png"
 categories: 
   - wonderful-wednesday
 tags: 

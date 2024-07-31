@@ -1,6 +1,7 @@
 ---
 title: "NUFF SAID"
 date: 2017-03-25
+thumbnails: "img/nuff-said.jpg"
 categories: 
   - freaky-friday
 tags: 

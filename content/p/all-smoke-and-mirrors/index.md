@@ -1,6 +1,7 @@
 ---
 title: "ALL SMOKE AND MIRRORS"
 date: 2017-02-17
+thumbnail: "img/all-smoke-and-mirrors.jpg"
 categories: 
   - freaky-friday
 tags: 

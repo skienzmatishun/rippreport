@@ -1,6 +1,7 @@
 ---
 title: "RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE"
 date: 2017-03-31
+thumbnail: "img/rude-crude-and-sociably-unacceptable.jpg"
 categories: 
   - freaky-friday
 tags: 

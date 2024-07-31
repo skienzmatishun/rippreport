@@ -1,6 +1,7 @@
 ---
 title: "$5000.00 CASH REWARD"
 date: 2017-02-08
+thumbnail: "img/5000-00-cash-reward.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
