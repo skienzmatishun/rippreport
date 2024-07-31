@@ -26,7 +26,7 @@ SUMMERDALE: Copping out on Cops
 
 Baldwin County’s own speed trap, feeding upon the tourists, who unfortunately traveled through Summerdale. Don’t blame the police. You cannot operate a speed trap like Summerdale’s without the Baldwin County Sheriff ignoring it. Mayor David Wilson admitted to the well circulated rumor of Summerdale being a speed trap. Wilson has been Mayor for 28 years, he knows damn right well what is going on. How about the Municipal Judge Robert Stankowski or municipal attorney Spencer Davis? They knew what was going on. So don't blame the police. They are just pawns of the city. If the city Mayor, Judge and Municipal attorney, are involved in a speed trap, then you must wonder what else is going on. Lawsuits will follow but don’t worry the insurance company will pay.
 
-{{< https://www.lagniappemobile.com/news/baldwin-county-town-writes-more-than-4-000-traffic-citations-per-year/article_83ed31b7-0d7c-5c29-b90e-9d7293048891.html >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-town-writes-more-than-4-000-traffic-citations-per-year/article_83ed31b7-0d7c-5c29-b90e-9d7293048891.html" >}}
 
 “According to its 2019 annual report, the 10-officer Summerdale Police Department, patrolling a town with a population of just 1,468 people according to the 2020 Census, wrote nearly 4,000 traffic citations that year. The town’s land area only covers about 10 square miles, but its 1.5-mile police jurisdiction encompasses at least seven miles of State Highway 59 and the parallel Baldwin Beach Express, two of three main corridors to the state’s most heavily visited tourist attraction. The police jurisdiction nearly triples the town’s total land area.
 
