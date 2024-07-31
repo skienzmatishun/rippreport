@@ -28,19 +28,8 @@ From the Desk of Mayor Karin Wilson City of Fairhope
 
 The Mayor has over 55 dates on her timeline. The Catalyst Council has NO timeline.
 
-<div class="link-preview">
+{{< socialpreview url="https://web.archive.org/web/20200804165655/http://mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/" >}}
 
-## Timeline for Sewer System Upgrades & Water Quality Initiatives
-
-### Timeline for Sewer System Upgrades & Water Quality Initiatives
-
-![](http://mayorkarinwilson.com/wp-content/uploads/2019/08/DONT-PUT-OFF-TODAY-300x180.jpg)
-
-I decided to dedicate a page for a timeline to keep citizens up-to-date on the City’s progress in fully Updating & Rehabilitating our Sewer System and clean water initiatives. This timeli…
-
-Source: [mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/](http://mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/)
-
-</div>
 While the entire Mobile Bay has been degraded year after year by municipal spills and environmental damage, https://www.mobilebaykeeper.org/ has done nothing but fundraisers in Fairhope. https://www.mobilebaykeeper.org/ has had complaints about sewer spills in Fairhope and the enormous damage done to Fly Creek for over 10 years and NEVER did a damn thing.
 
 The Executive Director, Casi Callaway told me years ago that Baykeepers could do little in Fairhope because their two biggest fundraisers were in Fairhope and Mayor Can’t would surely cancel them if Baykeepers did their job.

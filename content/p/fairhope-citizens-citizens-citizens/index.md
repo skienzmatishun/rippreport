@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE “CITIZENS CITIZENS CITIZENS”"
 date: 2017-01-06
+thumbnail: "img/fairhope-citizens-citizens-citizens.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -59,21 +60,9 @@ Please attend the City Council meeting Jan. 9th at 6pm and stay for public parti
 
 For more information please read:
 
-## YOU DON’T KNOW JACK - THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/YOU-DONT-KNOW-JACKLarge.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer...
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
-
-## Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/21757883-standard.jpg)
-
-Mayor Karin Wilson and Council President Jack Burrell dispute the future of the city's airport and hiring decisions.
-
-Source: [www.al.com/news/mobile/index.ssf/2016/12/sparks\_fly\_in\_fairhope\_new\_may.html](www.al.com/news/mobile/index.ssf/2016/12/sparks_fly_in_fairhope_new_may.html)
+{{< socialpreview url="www.al.com/news/mobile/index.ssf/2016/12/sparks_fly_in_fairhope_new_may.html" >}}
 
 ## Fairhope Council President, Mayor clash over airport land deal - Lagniappe Mobile
 
@@ -83,18 +72,6 @@ Fairhope Mayor Karin Wilson has failed in her attempt to gain control of much of
 
 Source: [www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/](www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/)
 
-## FAIRHOPE AIRPORT “UN\_AUTHORIZED”
+{{< socialpreview url="https://rippreport.com/p/fairhope-airport-un_authorized/" >}}
 
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/planecrash.jpg)
-
-Last week we featured, YOU DON’T KNOW JACK, this week we peel back the onion a little more. What we do know is that a lawyer paid a lawyer to write a letter to lawyers,...
-
-Source: [rippreport.com/2016/12/02/fairhope-airport-un\_authorized/](https://rippreport.com/fairhope-airport-un_authorized/)
-
-## Fairhope Airport land remains in Airport Authority's hands
-
-![](http://gulfcoast.ostsubmedia.communityq.com/uploads/original/1468616510_8f1f.jpg)
-
-After tense discussion during their last city council work session, Fairhope’s city leaders reached a deal involving the land and continued funding for the H.L. Callahan Airport. Earlier in …
-
-Source: [www.gulfcoastnewstoday.com/stories/fairhope-airport-land-remains-in-airport-authoritys-hands,45365](www.gulfcoastnewstoday.com/stories/fairhope-airport-land-remains-in-airport-authoritys-hands,45365)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/fairhope-airport-land-remains-in-airport-authoritys-hands,45365" >}}

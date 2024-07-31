@@ -69,7 +69,6 @@ DEB HOPKINS is running against Jack, she is a fresh face and not CATALYST. Deb i
 
 Kevin Boone is the father of, Scott Boone, the self-proclaimed head of the local machine, formerly known as "CATALYST." The new name Scott Boone Consulting is one in the same. Son and father make a good team, just remember it is not your team. This outfit is known for recruiting and electing local candidates so that they can control things. Boone and his son have been featured in the spider graph detailing the Strawman fraud, in Lagniappe. This land fraud story will tell you just what CATALYST is all about. Boone has numerous llc’s. All related to developments, some he voted on. Please read the whole story. You can vote Kevin, Scott and CATALYST out with one vote. Boone has many more llc’s than he has declared, this is just two. Notice the name John Avant, his name also appears in the “Strawman” series, Boone’s partner in llc’s.
 
-[Document](https://cdn.rippreport.com/wp-content/uploads/2020/08/Straw-man-consolidated-stories-ties-in-Scott-Kevin-Boone-Catalyst-compressed.pdf)
 
 JOSHUA GAMMON a young man NOT connected with CATALYST, is Boone’s challenger. Joshua brings youth to the table. Who has more at stake in Fairhope than the younger generation? This is an addition to the council that is long over due.
 
