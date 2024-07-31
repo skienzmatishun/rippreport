@@ -17,7 +17,9 @@ authors:
 
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 
-https://lagniappemobile.com/fairhope-discusses-revisions-to-drastic-park-proposal/ It was Fairhope’s big lie and the believers in false facts and rumors, won out.
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-discusses-revisions-to-drastic-park-proposal/article_f6e510e9-00e3-54c1-a4e3-b9513ead991b.html" >}}
+
+It was Fairhope’s big lie and the believers in false facts and rumors, won out.
 
 {{< socialpreview url="https://rippreport.com/p/the-big-lie/" >}}
 
