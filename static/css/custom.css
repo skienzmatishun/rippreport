@@ -13,6 +13,8 @@ blockquote {
     border-left: 5px solid #6e6e6e
 }
 
+
+
 .header {
     background: #232222;
     max-height: 125px
@@ -555,6 +557,9 @@ p.widget__summary {
 }
 
 @media screen and (max-width:620px) {
+    .wrapper.flex .google-auto-placed:first-of-type {
+        display:none;
+    }
     .social-preview:nth-child(even) {
         float: none;
         margin-right: 0rem;
