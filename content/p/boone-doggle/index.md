@@ -1,6 +1,7 @@
 ---
 title: "BOONE-DOGGLE"
 date: 2017-01-13
+thumbnail: "img/boone-doggle.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -11,13 +12,7 @@ authors:
 
 Well if you read the wonderful Wednesday this week,
 
-## BIT DOGS BARK FIRST
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/dog-e14851304001801.jpg)
-
-Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple...
-
-Source: [rippreport.com/2017/01/11/bit-dogs-bark-first/](https://rippreport.com/bit-dogs-bark-first/)
+{{< socialpreview url="rippreport.com/p/bit-dogs-bark-first/" >}}
 
 you realize that Mr Boone, our councilman, has many conflicts of interest that he has failed to share with the citizens. Mr. Boone is the epitome of the good ole boy who has convinced himself that he is entitled to any little side deal or llc. that may come his way.
 
