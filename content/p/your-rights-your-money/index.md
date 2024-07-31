@@ -3,7 +3,7 @@ title: "YOUR RIGHTS YOUR MONEY"
 date: 2021-09-27
 thumbnail: "img/your-rights-your-money.jpg"
 categories: 
-  - bsco
+  - bcso
   - ethics
 authors: 
   - admin
