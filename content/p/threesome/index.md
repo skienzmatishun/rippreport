@@ -1,6 +1,7 @@
 ---
 title: "THREESOME"
 date: 2022-02-25
+thumbnail: "img/threesome.png"
 categories: 
   - freaky-friday
 authors: 
@@ -11,7 +12,7 @@ Baldwin County has 14 municipalities and at any given time several are embroiled
 
 SPANISH FORT:
 
-[https://mynbc15.com/news/local/settlement-reached-in-alleged-slapping-incident-involving-spanish-fort-mayor](https://mynbc15.com/news/local/settlement-reached-in-alleged-slapping-incident-involving-spanish-fort-mayor)
+{{< socialpreview url="https://mynbc15.com/news/local/settlement-reached-in-alleged-slapping-incident-involving-spanish-fort-mayor" >}}
 
 The so called trial, that found the Mayor not guilty, was a sham. It took going to federal court to get any justice. The Mayor should have had to make a public apology.
 
@@ -25,7 +26,7 @@ SUMMERDALE: Copping out on Cops
 
 Baldwin County’s own speed trap, feeding upon the tourists, who unfortunately traveled through Summerdale. Don’t blame the police. You cannot operate a speed trap like Summerdale’s without the Baldwin County Sheriff ignoring it. Mayor David Wilson admitted to the well circulated rumor of Summerdale being a speed trap. Wilson has been Mayor for 28 years, he knows damn right well what is going on. How about the Municipal Judge Robert Stankowski or municipal attorney Spencer Davis? They knew what was going on. So don't blame the police. They are just pawns of the city. If the city Mayor, Judge and Municipal attorney, are involved in a speed trap, then you must wonder what else is going on. Lawsuits will follow but don’t worry the insurance company will pay.
 
-https://lagniappemobile.com/baldwin-county-town-writes-more-than-4000-traffic-citations-per-year/
+{{< https://www.lagniappemobile.com/news/baldwin-county-town-writes-more-than-4-000-traffic-citations-per-year/article_83ed31b7-0d7c-5c29-b90e-9d7293048891.html >}}
 
 “According to its 2019 annual report, the 10-officer Summerdale Police Department, patrolling a town with a population of just 1,468 people according to the 2020 Census, wrote nearly 4,000 traffic citations that year. The town’s land area only covers about 10 square miles, but its 1.5-mile police jurisdiction encompasses at least seven miles of State Highway 59 and the parallel Baldwin Beach Express, two of three main corridors to the state’s most heavily visited tourist attraction. The police jurisdiction nearly triples the town’s total land area.
 
@@ -37,15 +38,15 @@ FAIRHOPE aka FAUXHOPE
 
 Who the hell knows what is going on at the Fairhope Airport?
 
-[http://thefairhopetimes.blogspot.com/2022/02/airport-attorney-objects-to-private.html](http://thefairhopetimes.blogspot.com/2022/02/airport-attorney-objects-to-private.html)
+{{< socialpreview url="http://thefairhopetimes.blogspot.com/2022/02/airport-attorney-objects-to-private.html" >}}
 
 A Times reporter was the only citizen present.
 
-https://rippreport.com/investigating-the-investigators/
+{{< socialpreview url="https://rippreport.com/p/investigating-the-investigators/" >}}
 
 Jack Burrell put the airport center stage years ago with his slight of hand trick involving the municipal Judge. He topped that off with refusing to allow a citizen to address the council during public participation, where the municipal attorney just sat on his hands.
 
-https://rippreport.com/see-ya-in-court-jack/
+{{< socialpreview url="https://rippreport.com/see-ya-in-court-jack/" >}}
 
 Fauxhope citizens can rest easy because the municipal attorney said no city funds were paid to settle the lawsuit. Just insurance money.
 
