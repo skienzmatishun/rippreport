@@ -51,7 +51,7 @@ There are four races up for grabs. The results of these contests will determine 
 
 ## THE 3 B’s
 
-https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
 ## COUNCIL RACE ONE:
 
@@ -59,7 +59,7 @@ Incumbent Jack Burrell versus. Deb Hopkins. Burrell is a dubious character on an
 
 Burrell’s last four years have left a trail of corruption from the Airport, bid rigging, to lying about the Triangle lawsuit, voting himself full family insurance and the insane purchase of 2.65 million for farmland as recreational property and then leasing it for 9000 a year back to farmers because no funds were available for development. Burrell has held the position of council president for an unprecedented 8 years, with the expectation that he might replace the Mayor. Burrell bragged shortly after the election that he “was going to drive the Mayor nuts and out of office. He did a damn good job but he could not break her. Burrell is the absolute worst kind of elected official, with a police record he never disclosed prior to the last election.
 
-https://rippreport.com/police-report/
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 DEB HOPKINS is running against Jack, she is a fresh face and not CATALYST. Deb is honest, a quality Jack knows nothing about. This is Fairhope’s opportunity to vote out Burrell and CATALYST .Please check out Deb’s site for more information. Fairhope needs a woman on the council and who would better to replace Jack than a woman? That would be fate and karma rolled into one.
 
@@ -69,7 +69,7 @@ DEB HOPKINS is running against Jack, she is a fresh face and not CATALYST. Deb i
 
 Kevin Boone is the father of, Scott Boone, the self-proclaimed head of the local machine, formerly known as "CATALYST." The new name Scott Boone Consulting is one in the same. Son and father make a good team, just remember it is not your team. This outfit is known for recruiting and electing local candidates so that they can control things. Boone and his son have been featured in the spider graph detailing the Strawman fraud, in Lagniappe. This land fraud story will tell you just what CATALYST is all about. Boone has numerous llc’s. All related to developments, some he voted on. Please read the whole story. You can vote Kevin, Scott and CATALYST out with one vote. Boone has many more llc’s than he has declared, this is just two. Notice the name John Avant, his name also appears in the “Strawman” series, Boone’s partner in llc’s.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2020/08/Straw-man-consolidated-stories-ties-in-Scott-Kevin-Boone-Catalyst-compressed.pdf" download="all"\]
+[Document](https://cdn.rippreport.com/wp-content/uploads/2020/08/Straw-man-consolidated-stories-ties-in-Scott-Kevin-Boone-Catalyst-compressed.pdf)
 
 JOSHUA GAMMON a young man NOT connected with CATALYST, is Boone’s challenger. Joshua brings youth to the table. Who has more at stake in Fairhope than the younger generation? This is an addition to the council that is long over due.
 
@@ -79,23 +79,22 @@ https://lagniappemobile.com/city-council-candidate-joshua-gammon-is-focused-on-f
 
 Incumbent Robert Brown is fleecing our hometown. Brown has landed several large public contracts while serving just four years on the city council. He currently has an ethics complaint filed against him for using his public office for personal gain. This complaint has been filed with the Alabama Attorney General. Brown used his office and inside information to land a contract for the concession building at the soccer fields and the Fairhope Art Center contract, both totaled close to a million dollars. Not bad for a councilman, that is what CATALYST is about.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2020/08/Francis-Paul-Ripp\_compressed.pdf" download="all"\]
 
 Make a change from a self serving politician, who loves to use semantics to avoid telling the truth, to a fresh face on the council that can speak with a straight tongue.
 
 HOWELL GIBBENS is running against Brown and he would be a huge improvement over the CATALYST Brown who has fleeced his hometown.
 
-https://rippreport.com/howell-gibbens/
+{{< socialpreview url="https://rippreport.com/p/howell-gibbens/" >}}
 
 ## THE MAYORS RACE
 
 Incumbent, one term, Karin Wilson has accomplished more in 4 years than the past administration did in 16 years. She has had to fight the CATALYST council for 4 years and now they have political ads claiming accomplishments of the Mayor.
 
-https://rippreport.com/catalyst-aka-scott-boone-consulting/
+{{< socialpreview url="https://rippreport.com/p/catalyst-aka-scott-boone-consulting/" >}}
 
 Fairhope cannot afford to go backwards and backwards we will go if we allow CATALYST in office. The CATALYST candidate for Mayor is a fired disgruntled employee who sued the city. She has limited experience, no accomplishment to speak of, a high school education and is sponsored by CATALYST, Scott Boone and Kevin Boone. CATALYST is running Sherry for THEIR Mayor, Karin is running to be YOUR Mayor. Sherry was part of a corrupt administration we voted out in 2016.
 
-https://rippreport.com/fairhope-going-backwards/
+{{< socialpreview url="https://rippreport.com/p/fairhope-going-backwards/" >}}
 
 MAYOR KARIN WILSON
 
