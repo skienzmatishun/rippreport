@@ -1,6 +1,7 @@
 ---
 title: "SAY GOODBYE INCUMBENTS"
 date: 2017-11-03
+thumbnail: "img/say-goodbye-incumbents.png"
 categories: 
   - elections
 tags: 
@@ -18,15 +19,7 @@ authors:
 
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.
 
-<div class="link-preview">
-
-## ECONOMIC DEVELOPMENT
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/11/mega-site.jpg)
-
-In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site. South Alabama Mega Site – Shovel Ready in…
-
-Source: [rippreport.com/2017/05/17/economic-development-baldwin-county-style/](https://rippreport.com/economic-development-baldwin-county-style/)
+{{< socialpreview url="https://rippreport.com/economic-development-baldwin-county-style/" >}}
 
 Four seats and already over 10 candidates have signed up. Now all we need to do is figure out who are faux candidates or who is carrying water for Catalyst.
 
@@ -48,7 +41,7 @@ Seat 2 is Chris Elliott who is going to run for Sen Trip Pittman’s seat. I wil
 
 A Baldwin County Commissioner was arrested for driving under the influence over the weekend in Fairhope.
 
-Source: [wkrg.com/2016/05/16/baldwin-county-commissioner-charged-with-dui-in-fairhope/](http://wkrg.com/baldwin-county-commissioner-charged-with-dui-in-fairhope/)
+{{< socialpreview url="https://www.wkrg.com/news/baldwin-county-commissioner-charged-with-dui-in-fairhope/" >}}
 
 </div>
 John Lake from Daphne is running for that seat. John has a long history of being a public servant and has never used his position to his advantage, he is an excellent replacement.
@@ -59,31 +52,14 @@ Seat 3 is infamous Tucker Dorsey business partner of Clarence Burke of Baldwin C
 
 Billy Joe Underwood is Dorsey’s challenger. The Commission needs a women because so far all men have not done so well. I encourage you to find out more about Mrs. Underwood and support her. It would be sweet for Dorsey’s ego to be beaten by a woman.
 
-<div class="link-preview">
-
-## Billie Jo Underwood for County Commission District 3 | Baldwin County, Alabama
-
-### Billie Jo Underwood for County Commission District 3 | Baldwin County, Alabama
-
-Billie Jo Underwood for County Commission District 3 which includes areas in and around Loxley, Robertsdale, Silverhill, and Summerdale, Alabama in Baldwin County.
-
-Source: [billiejounderwood.com/](http://billiejounderwood.com)
+{{< socialpreview url="https://web.archive.org/web/20180805144029/http://billiejounderwood.com/" >}}
 
 Seat one is occupied by a political dinosaur, Frank Burt, best friend to the good ole boys and architect of many a sweet heart deal, including the mega site. Mr. Burt has been on the Commission to long, way to long.
 
 Mr Jeb Ball is challenging Burt.
 
-## Jeb Ball seeks election to Commission District 1
+{{< socialpreview url="https://gulfcoastmedia.com/stories/ball-seeks-election-to-commission-district-1,51284" >}}
 
-### Jeb Ball seeks election to Commission District 1
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/11/1499908030_ee25.jpg)
-
-James E. “Jeb” Ball, Program Director for Baldwin Substance Abuse Services, Inc. in Bay Minette, has announced his candidacy for Baldwin County Commissioner, District 1. A lifelong resident …
-
-Source: [gulfcoastnewstoday.com/stories/ball-seeks-election-to-commission-district-1,51284](http://gulfcoastnewstoday.com/stories/ball-seeks-election-to-commission-district-1,51284)
-
-</div>
 For Mr Ball to be a serious candidate he will need to be more transparent about Baldwin County Substance Abuse Services inc. Where is the money? It is a non profit that has fund raisers however their has never been a public accounting of all the money collected. It would be interesting to find out who suggested he run for commissioner, maybe Frank Burt?
 
 Last is seat 4 Charles Gruber. Mr Gruber is the quite one that usually stands on the wire and sees how the others vote and chooses the path of least resistance. Mr Gruber is no where as controversial as the other but it is time for change.

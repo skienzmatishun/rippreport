@@ -64,13 +64,7 @@ For more information please read:
 
 {{< socialpreview url="www.al.com/news/mobile/index.ssf/2016/12/sparks_fly_in_fairhope_new_may.html" >}}
 
-## Fairhope Council President, Mayor clash over airport land deal - Lagniappe Mobile
-
-![](http://cdn.lagniappemobile.com/wp-content/uploads/2016/12/BB_Airport.jpg)
-
-Fairhope Mayor Karin Wilson has failed in her attempt to gain control of much of H.L. “Sonny” Callahan Airport land for the city. Following a discussion marked by sharp personal criticism of Wilson from Council President Jack Burrell, the council voted Dec. 22 to allow the Fairhope Airport Authority to maintain control of the land …
-
-Source: [www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/](www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-council-president-mayor-clash-over-airport-land-deal/article_99540473-7208-57ca-ab2d-f262d5ff5949.html" >}}
 
 {{< socialpreview url="https://rippreport.com/p/fairhope-airport-un_authorized/" >}}
 
