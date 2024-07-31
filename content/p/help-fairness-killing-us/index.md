@@ -27,11 +27,7 @@ On a kitchen table Councilmen Boone and Councilmen Brown decided to cut money go
 
 Community affairs engages citizens, helps organizations and neighborhood associations, something Fairhope has always ignored. Economic development is self explanatory and desperately, needed at this time of rapid growth.
 
-## Community groups assist city officials with neighborhood projects - Lagniappe Mobile
-
-Whether it’s completing a sidewalk project or arguing in favor of new zoning rules, a number of community groups have sprouted around Mobile to help accomplish neighborhood goals. Based on the success of the Village of Spring Hill, members of groups such as Mobile Midtown Movement, The Peninsula of Mobile and the Africatown Community Development …
-
-Source: [lagniappemobile.com/community-groups-assist-city-officials-neighborhood-projects/](http://lagniappemobile.com/community-groups-assist-city-officials-neighborhood-projects/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/community-groups-assist-city-officials-with-neighborhood-projects/article_f5ab1aae-b2fc-5918-96f5-882ddc1637f1.html" >}}
 
 This “Fairness is killing us”, the citizens who are suffering the consequences, while Council wages war, with the Mayor at our expense.
 
