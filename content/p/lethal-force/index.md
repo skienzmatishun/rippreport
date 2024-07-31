@@ -12,7 +12,7 @@ Baldwin County has a serious problem that continues to escalate without any acco
 
 This article is NOT behind a paywall
 
-{{< socialpreview url="https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html"}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html" >}}
 
 Joshua Brown, one of the BMJL organizers, said the police account makes no sense knowing French’s character. He described French as being well read, devoted to his faith and a rising musician who published albums under his artist name, “The Juice.” Those songs were being played during the demonstration at the Bay Minette courthouse square.
 
