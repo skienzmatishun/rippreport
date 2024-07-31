@@ -27,7 +27,7 @@ The lies were amplified by the newly elected council that is under the command o
 
 Misconceptions about the waterfront project were published however the citizens chose to listen to rumors spread by politicos with their own agenda.
 
-https://lagniappemobile.com/planners-aim-to-resolve-misconceptions-about-fairhope-pier-plan/
+{{< socialpreview url="https://www.lagniappemobile.com/news/planners-aim-to-resolve-misconceptions-about-fairhope-pier-plan/article_324a3d70-e42c-5917-93f8-18598b98d95c.html" >}}
 
 Howelling Raines gets the credit for the most outlandish lies. A part time resident of Fairhope, was recruited by the status quo to criticize the project. He perpetuated the false claim of “bulldozing the Bluff” and what a “grandiose disaster”, the whole project was. The council licked their lips with satisfaction, for every lie their mule told..
 
