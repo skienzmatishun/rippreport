@@ -557,9 +557,7 @@ p.widget__summary {
 }
 
 @media screen and (max-width:620px) {
-    .wrapper.flex .google-auto-placed:first-of-type {
-        display:none;
-    }
+
     .social-preview:nth-child(even) {
         float: none;
         margin-right: 0rem;
@@ -696,7 +694,9 @@ p.widget__summary {
 
 .cactus-container {min-width:420px;}
 @media screen and (max-width:500px) {
-
+    .wrapper.flex .google-auto-placed:first-of-type {
+        display:none;
+    }
     .cactus-container {min-width:300px;max-width:80%}
 
     .form__label-row--horizontal {
