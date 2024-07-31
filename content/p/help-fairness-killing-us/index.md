@@ -84,7 +84,6 @@ Source: [http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=451082&page=
 
 Our council has ignored Mr. Boone’s conflict of interest and the controversy involving Mr. Burrell and the airport. The ethics commission compels the council to report suspected illegal activity. They remain mute.
 
-\[caption id="attachment\_1376" align="aligncenter" width="300"\]![Boone and Burrell Fairhope](https://cdn.rippreport.com/wp-content/uploads/2017/04/BeavisandButthead-2-300x1691.jpg) "I swear Beavis, I have covered my tracks, don't you have a plane to catch?"\[/caption\]
 
 On Wonderful Wednesday, the Ripp Report will cover what we know about the “gift” of the lift station property. I am leaving you with 3 documents I have acquired through public domain for your consideration. Please contact the city council for an explanation or wait till Wonderful Wednesday.
 
