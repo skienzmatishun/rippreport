@@ -1,6 +1,7 @@
 ---
 title: "OPEN YOUR EYES"
 date: 2018-08-08
+thumbnail: "img/open-your-eyes.png"
 categories: 
   - wonderful-wednesday
 authors: 

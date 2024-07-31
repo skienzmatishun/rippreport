@@ -1,6 +1,7 @@
 ---
 title: "CATTLE GATE MEGA-SITE"
 date: 2018-03-02
+thumbnail: "img/cattle-gate-mega-site.jpg"
 categories: 
   - freaky-friday
 tags: 

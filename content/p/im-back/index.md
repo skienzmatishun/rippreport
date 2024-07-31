@@ -1,6 +1,7 @@
 ---
 title: "I'M BACK"
 date: 2018-08-22
+thumbnail: "img/im-back.png"
 categories: 
   - wonderful-wednesday
 authors: 

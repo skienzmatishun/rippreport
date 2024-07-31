@@ -1,6 +1,7 @@
 ---
 title: "FACT and FICTION A B C"
 date: 2018-08-30
+thumbnail: "img/fact-and-fiction-abc.jpg"
 categories: 
   - thursday-thunder
 authors: 
