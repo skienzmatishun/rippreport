@@ -23,11 +23,11 @@ The meeting in question, along with Ripp’s nasty confrontation with Council Pr
 
 This is the first time Ripp has sued the City of Fairhope over refusing to allow him to address the city council. The city had denied him in the past, several times, the ability to speak at public meetings, forcing the council to adopt a new set of rules regarding public participation. These are the rules City Councilman Jack Burrell ignored when he allegedly denied Mr. Ripp, a Marine Corps veteran who served in Viet Nam, his constitutional right to free speech.
 
-<iframe src="https://cdn.rippreport.com/wp-content/uploads/2017/12/Fairhope-Complaint.pdf" style="height:1000px;width:100%;"></iframe>
+<iframe src="https://cdn.rippreport.com/Fairhope-Complaint.pdf" style="height:1000px;width:100%;"></iframe>
 
 Comments from Ripp: The official recorded video of the meeting speaks for itself. 
 
-https://rippreport.com/now-you-know-jack/
+{{< socialpreview url="https://rippreport.com/now-you-know-jack/" >}}
 
 For More Information, contact: [fpripp1@gmail.com](mailto:fpripp1@gmail.com)
 
@@ -35,19 +35,8 @@ Or visit the Ripp Report/Baldwin County Legal Eagle on facebook for repeated upd
 
 CHUCKY wasted no time pumping out his latest Jack Burrell story,
 
-<div class="link-preview">
+{{< socialpreview url="https://gulfcoastmedia.com/stories/fairhope-council-passes-resolutions-involving-signing-authority,56579" >}}
 
-## Fairhope council passes resolutions involving signing authority
-
-### Fairhope council passes resolutions involving signing authority
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/12/1470163322_577e1.jpg)
-
-In a special called meeting held Dec. 29, the Fairhope City Council unanimously voted on two resolutions involving the ability to sign resolutions for the city, despite protests from Mayor Karin …
-
-Source: [gulfcoastnewstoday.com/stories/fairhope-council-passes-resolutions-involving-signing-authority,56579](http://gulfcoastnewstoday.com/stories/fairhope-council-passes-resolutions-involving-signing-authority,56579)
-
-</div>
 In a special meeting, arranged by council president Burrell, his loyal councilmen followed his lead to vote for the well established good ole boy way of doing business. They rejected the Mayor’s suggestion of a full time city attorney, which would save the city 90,000 dollars, plus a year. The same council has been witness to Mr Burrel’s continuous obstruction of the Mayor. They have stood by mute while Burrell denied citizens their constitutional rights and demanded the Mayor be silent. What is he afraid of? What is he so scared of that he feels the need to silence critics? Ask yourself why Chuckee’s reporting always favors Burrell and never mentions Burrell’s antics, be it yelling at the Mayor or denying citizens their constitutional rights?
 
 These questions and many more will be answered in 2018.

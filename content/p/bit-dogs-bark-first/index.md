@@ -1,6 +1,7 @@
 ---
 title: "BIT DOGS BARK FIRST"
 date: 2017-01-11
+thumbnail: "img/bit-dogs-bark-first.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
