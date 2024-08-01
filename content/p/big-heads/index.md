@@ -1,6 +1,7 @@
 ---
 title: "BIG HEADS"
 date: 2018-02-14
+thumbnail: "img/big-heads.png"
 categories: 
   - wonderful-wednesday
 tags: 
