@@ -22,7 +22,7 @@ blockquote {
 .link-preview,
 .link-preview h2,
 .link-preview img {
-    text-align: center
+    text-align: center;
 }
 
 .dwtd-wrapper,
@@ -76,7 +76,9 @@ nav.pager.flex {
     margin-bottom: 2rem;
     margin-top: 2rem
 }
-
+.social-preview a img {
+        color:transparent;
+}
 .link-preview h3,
 .main__title {
     display: none
