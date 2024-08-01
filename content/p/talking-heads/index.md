@@ -1,7 +1,7 @@
 ---
 title: "TALKING HEADS"
 date: 2022-05-18
-thumbnail: "img/talking-heads-thumb.png"
+thumbnail: "img/talking-heads.png"
 categories: 
   - wonderful-wednesday
 authors: 
