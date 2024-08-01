@@ -1,6 +1,7 @@
 ---
 title: "CATALYST  “BIRDS OF THE SAME FEATHER”"
 date: 2018-04-13
+thumbnail: "img/catalyst-birds-of-the-same-feather.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -33,32 +34,10 @@ Joe Davis district two is being supported by Catalyst and Tim Kant. Kant wants t
 
 Kant supporting Davis! a loser supporting a quitter.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/i-quit-and-will-quit-again/" >}}
 
-## I QUIT AND WILL QUIT AGAIN
-
-### I QUIT AND WILL QUIT AGAIN | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/04/I-quit.jpg)
-
-Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the: PEOPLE POWER PEOPLE POWER | THE RIPP REPORT / BALDWIN COUNTY LEGAL…
-
-Source: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/i-quit-and-will-quit-again/)
-
-</div>
 Please support John Lake for District two, a proven public servant, not a Catalyst hack.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/john-lake-to-run-for-county-commission-district-2,53995" >}}
 
-## John Lake to run for County Commission District 2
-
-### John Lake to run for County Commission District 2
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/04/1507587832_dc48.jpg)
-
-Longtime former Daphne City Councilman John Lake has announced his intent to run for County Commission District 2. Lake, a 43-year Daphne resident, has lived through two dramatic growth eras and …
-
-Source: [www.gulfcoastnewstoday.com/stories/john-lake-to-run-for-county-commission-district-2,53995](http://www.gulfcoastnewstoday.com/stories/john-lake-to-run-for-county-commission-district-2,53995)
-
-</div>
 CATALYST wants control of Baldwin County only you can stop that from happening.

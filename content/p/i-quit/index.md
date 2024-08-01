@@ -1,7 +1,7 @@
 ---
 title: "I QUIT"
 date: 2021-02-26
-thumbnail: "img/i-quit.jpg"
+thumbnail: "img/i-quit-and-will-quit-again.jpg"
 categories: 
   - freaky-friday
 tags: 
