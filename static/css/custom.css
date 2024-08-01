@@ -78,6 +78,10 @@ nav.pager.flex {
 }
 .social-preview a img {
         color:transparent;
+
+}
+.social-preview a img:hover{
+    text-decoration:none;
 }
 .link-preview h3,
 .main__title {
