@@ -18,7 +18,7 @@ Baldwin County politics has always been a good ole boys club and Catalyst hopes 
 
 Catalyst wants you to believe they are a Consultant/Public Relations firm and the candidates they support have no connection to any other Catalyst Candidate. Bull-hit they are the driving force of a slate of candidates, that if elected could hijack the County Commission, Probate Judge, State Senate seat as well as District Judge.
 
-{{< socialpreview url="https://rippreport.com/catalyst-birds-of-the-same-feather/" >}}
+{{< socialpreview url="https://rippreport.com/p/catalyst-birds-of-the-same-feather/" >}}
 
 Political Intimidation of candidates, running against any Catalyst candidate, is supported by all Catalyst candidates. Political signs disappear from non-catalyst candidates where as the Catalyst candidates are not missing any signs. This is Baldwin County politics in the pig pen. Catalyst wants to own the pig pen.
 

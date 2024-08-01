@@ -34,7 +34,7 @@ This article has a paywall, free copies are available at news stands
 
 You really can’t make this crap up, if you read it in a book you would have to believe it was fiction.
 
-https://rippreport.com/secret-society/
+{{ socialpreview url="https://rippreport.com/p/secret-society/" >}}
 
 “Baldwin County has its own secret society. A political cabal of politicians, developers, judges, lawyers, even a sheriff. The Cabal operated for years under the banner CATALYST.
 
@@ -42,7 +42,7 @@ The name catalyst became so toxic and controversial among the public that the na
 
 It is not fiction, it is real life and Fairhope citizens are to busy with society, keeping up with the Jones’s or drinking the cool aid, the council serves ,to see or care, that the good ole boys ,SBC , have a stranglehold on Fairhope and Baldwin County.
 
-https://rippreport.com/quarterback-sneak/
+{{< socialpreview url="https://rippreport.com/p/quarterback-sneak/" >}}
 
 “In Fairhope the quarterback is none other than the most sneaky and corrupt politician in Baldwin County. The great negotiator, sneaky Jack Burrell who chose tonight to use the City Council meeting, which no-one goes to, to swear in the Municipal Judge Haymes Snedeker.”
 
@@ -50,7 +50,7 @@ The Fairhope Municipal Judge is one of the largest land owners in Fairhope. He i
 
 The City attorney, Marcus McDowell, works for the council, Jack Burrell controls the council. McSharry is, or was, Jack’s closest friend. Fairhope councilman “Strawman” Kevin Boone is the father of Scott Boone and the conduit to SBC, this is a very cozy and politically connected Cabal.
 
-https://rippreport.com/boycott-mcsharrys/
+{{< socialpreview url="https://rippreport.com/p/boycott-mcsharrys/" >}}
 
 Mr. McSharry has offered no apology nor has he paid any of the medical expenses DiNiardi incurred from the assault. Watch the video again, Paula is lucky she did not break her neck. McSharry turned his back on her and offered no assistance. This is Mr. McSharry’s forth alcohol related incident, two settled out of court, who will be his next victim?
 
