@@ -26,7 +26,7 @@ Catalyst and Chuckee have done a good job of beating up on the Mayor of Fairhope
 
 The last post of the Ripp Report upset “baby” Boone so bad he needed to change diapers. He called the Ripp Report and said he had been reading all my articles and Catalyst was going to sue me. Well I was elated to know he was such an avid fan of the Ripp Report and read every article. “Baby” Boone has been to court before and Catalyst has it’s favorite Judges. Maybe “baby” Boone plans to use “their” judges to exact punishment on the Ripp Report. I did ask “baby” Boone if he could hold off filing a lawsuit until The Ripp Report and Jack Burrell’s Freedom Of Speech lawsuit was concluded.
 
-{{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/"
+{{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
 The Ripp Report hopes this post will convince Catalyst that Freedom of the Press, Expression and Speech are Constitutional freedoms and threats against those rights will be met with our own legal defense.
 
