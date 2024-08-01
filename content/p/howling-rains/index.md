@@ -19,19 +19,19 @@ Be sure to read the New York Times Article, the last link on this article.
 
 Baldwin County has seen its share of political commentary from Baldwin Insider, The Jester and the Infamous “Chuckie Cheeze” who quite appropriately now works as Aid De Camp for the Baldwin County legislative delegation.
 
-https://rippreport.com/chuckie-cheeze/
+{{< socialpreview url="https://rippreport.com/p/chuckie-cheeze/" >}}
 
 Many people who follow the Baldwin County political trail have anxiously awaited “Chuckie Cheeze’s” replacement. All of the above represent the Status Quo, aka Catalyst or Scott Boone Consulting. Good ole Boys plain and simple.
 
-https://rippreport.com/a-decade-of-corruption/
+{{< socialpreview url="https://rippreport.com/p/a-decade-of-corruption/" >}}
 
 The 2008 and 2012 municipal elections in Fairhope, were suspected of being rigged. In 2016, after numerous complaints, the Alabama Secretary Of State stepped in to supervise the election. Long story short, Mayor Wilson beat a 16-year, CORRUPT incumbent, and became Fairhope’s first female Mayor.
 
-https://rippreport.com/alabama-sec-of-state-the-only-one/
+{{< socialpreview url="https://rippreport.com/p/alabama-sec-of-state-the-only-one/" >}}
 
 The City Council, their true intentions masked, led by a loser, planned for total control of Fairhope. From the first day of their 2016 administration the council has obstructed, bullied, lied, colluded, conspired and undermined anything the Mayor or her staff has proposed.
 
-https://rippreport.com/see-ya-in-court-jack/
+https://rippreport.com/p/see-ya-in-court-jack/
 
 So it is no surprise that six (6) weeks before municipal elections that a replacement for “Chuckie Cheeze” has now raised his head, from whatever coma he has been in, to carry the CATALYST flag into political battle.
 
@@ -49,13 +49,13 @@ Chuckie’s replacement, Howling Rains, attacked the Fairhope Waterfront Grant o
 
 Howling Rains did not write a constructive op-ed with suggestions, nor did he attend any meetings. Howling admitted he was 6 weeks in the rear about reading anything about the project. Howling Raines showed his journalistic mettle.
 
-https://rippreport.com/where-hell-were-you/
+{{< socialpreview url="https://rippreport.com/p/where-hell-were-you/" >}}
 
 Howling was howling at the moon and missed the details, he also did not know:
 
 “the plan was conceived in cooperation with a steering committee and is the result of a design charrette in which 164 participants provided input, 570 responses to a survey. It also passed reviews by the Alabama Gulf Coast Recovery Council, Alabama Department of Conservation and Natural Resources, U.S. Department of the Treasury and Fairhope City Council. The project was proposed by Mayor Karin Wilson and is funded by Restore Act grant money available as the result of the 2010 BP Deepwater Horizon oil spill."
 
-https://lagniappemobile.com/planners-aim-to-resolve-misconceptions-about-fairhope-pier-plan/
+{{< socialpreview url="https://www.lagniappemobile.com/news/planners-aim-to-resolve-misconceptions-about-fairhope-pier-plan/article_324a3d70-e42c-5917-93f8-18598b98d95c.html" >}}
 
 Howling has been using the moon as cover to circulate fliers encouraging citizens to kill a 6.2 million dollar grant. The flier is full of inaccuracies, but that does not matter, this is political--journalism be damned.
 
@@ -73,11 +73,11 @@ Howling made this political by his statement in his slanted op-ed.
 
 Howling needs to read Strawman. Why is Howling not writing an op-ed about corruption? I can tell ya why, because they are all CATALYST and Howling does not even know that CATALYST has him on a leash!
 
-https://rippreport.com/strawman-spiderweb/
+{{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}
 
 That is YOUR conclusion Howling, Let me give you mine. You sir are dealing with some of the most corrupt politicians in Baldwin County! These are crooked politicians! Especially the former Mayor CANT.
 
-https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
 Now, I realize you have been in hibernation and woke up in the rain with CATALYST stroking your ego and giving you the scent they wish you to follow down the nearest rabbit hole. But PLEASE, Howling Rains...challenge me to defend my accusations of corruption, let me give you the painful Backstory of 16 years of observing Fairhope politics.
 
