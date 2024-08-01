@@ -53,12 +53,12 @@ The Ripp Report has enclosed just one of the complaints filed in Columbia:
 
 * * *
 
-Concerned Citizen
-
-FYI
-
-Did you know that Ben Freeman (Columbia's local municipal prosecutor & the town's lawyer) was the personal lawyer for Lori Mock (Columbia Officer Jim Mock's wife) and recently defended her. This fact was recently revealed. Isn't that a conflict of interest, being that officer Mock is a Columbia Police officer? So now, not only do we have an ethical issue of Ben Freeman being the son of the mayor, the personal lawyer for the chief of police and having documented (by bankruptcy court records) loans with the mayor of Columbia and his mother-in-law (Senior Center Director), but now we have him representing police officer Mock's wife. I know that the Alabama Bar Association was contacted (by complaint). To my knowledge, nothing was done. Can you say cronyism and conflict of interest?
-
+>Concerned Citizen
+>
+>FYI
+>
+>Did you know that Ben Freeman (Columbia's local municipal prosecutor & the town's lawyer) was the personal lawyer for Lori Mock (Columbia Officer Jim Mock's wife) and recently defended her. This fact was recently revealed. Isn't that a conflict of interest, being that officer Mock is a Columbia Police officer? So now, not only do we have an ethical issue of Ben Freeman being the son of the mayor, the personal lawyer for the chief of police and having documented (by bankruptcy court records) loans with the mayor of Columbia and his mother-in-law (Senior Center Director), but now we have him representing police officer Mock's wife. I know that the Alabama Bar Association was contacted (by complaint). To my knowledge, nothing was done. Can you say cronyism and conflict of interest?
+>
 Let's not forget the mayor giving out illegal work to her crony friends, including her live in boy friend. Let's not forget about about the mayor loaning out town equipment (fork lift) to the same crony friend. Let's not forget the free water (no account setup) to this same crony friend. Let's not forget this same crony friend delivers water melons to the town hall as a gift to the mayor. Let's not forget that the mayor instructs town employees to illegally mow private property, including the aforementioned crony friend's private property. Let's not forget the town's property that the mayor illegally gave to an individual. Let's not forget the illegal hams the mayor has been giving to the employees. Let's not forget the flowers and gifts to citizens and herself using tax payer money. Let's not forget that the council has knowledge of all the aforementioned and has chosen to remain silent. Remember it is not me saying all this...rather the documents say it!
 
 Can you say buying votes? Can you say using the office of mayor for personal gain? Can you say ethics violations galore? Can you say felony theft of property?

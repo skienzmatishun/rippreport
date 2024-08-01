@@ -47,13 +47,16 @@
                     {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
                         <br> {{ $json.title }}
                 {{- else if eq $baseURL "gulfcoastmedia.com" -}}
-                    <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
+                    <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
                         <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
                 {{- else if eq $baseURL "www.gulfcoastnewstoday.com" -}}
-                    <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png">
+                    <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
                         <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
                 {{- else if eq $baseURL "www.alreporter.com" -}}
-                    <img loading="lazy"  style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png">
+                    <img loading="lazy"  style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png" alt="AL Reporter logo">
+                        <br> {{ $json.title }}
+                        {{- else if eq $baseURL "yellowhammernews.com" -}}
+                    <img loading="lazy"  style="height:32px;width:290px;max-width:100%;" src="https://rippreport.com/img/yellow-hammer-logo.png" alt="Yellow Hammer News Logo">
                         <br> {{ $json.title }}
                 {{- else if eq $baseURL "www.altoday.com" -}}
                     <img loading="lazy"  style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
