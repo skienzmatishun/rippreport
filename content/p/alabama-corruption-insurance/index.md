@@ -75,19 +75,19 @@ Below are past articles addressing the same Political Corruption that keeps Alab
 
 “Before you answer — before your tribalism shines through and you pull on the Republican jersey and start chanting for your favorite team — let’s run through a few things. “
 
-https://www.alreporter.com/opinion-politicians-didnt-corrupt-alabamas-government-you-did/
+{{< socialpreview url="https://www.alreporter.com/opinion-politicians-didnt-corrupt-alabamas-government-you-did/" >}}
 
 “Quite frankly, it’s been pretty sticky, especially states like Alabama,” he said. “Once a state becomes corrupt, it stays corrupt for a while.
 
-[https://yellowhammernews.com/alabama-leads-nation-political-corruption-new-study-shows/](https://yellowhammernews.com/alabama-leads-nation-political-corruption-new-study-shows/)
+{{< socialpreview url="https://yellowhammernews.com/alabama-leads-nation-political-corruption-new-study-shows/" >}}
 
 “Alabama State Representative Mike Ball proposed an ethics bill as a check and balance for prosecutors. The republican said he introduced the bill, AL HB179, as a tweak to the state’s ethics reform of 2010. Part of the bill would force district attorneys and Alabama’s Attorney General Office to get the approval of the Alabama Ethics Commission before prosecuting elected officials for corruption.”
 
-[https://mynbc15.com/news/local/proposed-alabama-bill-could-make-prosecuting-government-corruption-harder](https://mynbc15.com/news/local/proposed-alabama-bill-could-make-prosecuting-government-corruption-harder)
+{{< socialpreview url="https://mynbc15.com/news/local/proposed-alabama-bill-could-make-prosecuting-government-corruption-harder" >}}
 
 Columbia you got problems but that pretty little town on the bay, Fairhope, aka Fauxhope, aka No hope, has you beat, they have made political corruption a cottage industry.
 
-https://rippreport.com/fairhope-no-hope-fauxhope/
+{{< socialpreview url="https://rippreport.com/p/fairhope-no-hope-fauxhope/" >}}
 
 Pastor Chris Bell 3 Circle Church:
 
