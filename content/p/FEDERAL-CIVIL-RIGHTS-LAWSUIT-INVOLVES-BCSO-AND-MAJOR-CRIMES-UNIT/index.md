@@ -8,7 +8,7 @@ authors:
   - admin
 ---
 
-The Lawsuit is included at the end of this post, read it and imagine it was your son!}
+***The Lawsuit is included at the end of this post, read it and imagine it was your son!***
 
 
 The past is catching up with Sheriff Mack and his self investigating team, Major Crimes Unit. This is the second federal lawsuit and more one is pending. The Ripp Report has been covering the O J French case since he was murdered by Bay Minette police officer Brandon Thompson.
