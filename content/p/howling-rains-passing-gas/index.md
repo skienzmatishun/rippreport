@@ -56,7 +56,7 @@ Hold your nose and read the letter to the editor by gas passing Rains. Read it r
 
 Howling Rains is no friend to Fairhope and his reputation proceeds him. Howling makes Chuckee Cheeze look like a Pulitzer prize winning journalist.
 
-[http://www.gulfcoastnewstoday.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288](http://www.gulfcoastnewstoday.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288)
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288" >}}
 
 Sullivan also said she is opposed to the plan by GMC engineer Scott Hutchinson to install a new sand beach north of the pier and to put fill dirt in front of the bluffs to create pedestrian ramps. These are the items that people feel passionately about, she said. Her vision is to refresh and repair the park and reopen it with pretty much what is there.
 
@@ -64,7 +64,7 @@ For his part, Burrell described himself as "adamantly" opposed to the new beach 
 
 Under the GMC proposal, visitors would have to walk the length of two football fields to reach the pier from a new parking lot carved out of the North Beach picnic area. Burrell said he favored expenditures to improve the heavily used North Beach and the existing Magnolia Beach, a crescent of sand between the state boat ramp and the American Legion Hall on Scenic 98.
 
-https://rippreport.com/howling-rains/
+{{< socialpreview url="https://rippreport.com/p/howling-rains/" >}}
 
 Howling Rains did not write a constructive op-ed with suggestions, nor did he attend any meetings.
 
@@ -72,6 +72,6 @@ Howling admitted he was 6 weeks in the rear about reading anything about the pro
 
 Howling Raines showed his journalistic mettle.
 
-https://www.nytimes.com/national/executive-editor-of-the-times-and-top-deputy-step-down.html
+{{< socialpreview url="https://archive.nytimes.com/www.nytimes.com/national/executive-editor-of-the-times-and-top-deputy-step-down.html" >}}
 
 "Howell Raines and Gerald M. Boyd, the top-ranking editors of The New York Times, resigned yesterday morning, five weeks after the resignation of a reporter set off a chain of events that exposed fissures in the management and morale of the newsroom."

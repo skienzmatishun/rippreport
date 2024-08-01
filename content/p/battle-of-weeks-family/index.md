@@ -19,7 +19,7 @@ All of us have read news articles that have driven us up the wall, but this arti
 
 That someone, is stepping on the feet of county commissioners and the Zoning department. The County Commissioners are now going to have to take a stand in a situation that should never have reached the controversy it has.
 
-[http://utv44.com/news/local/tough-battle-ahead-for-baldwin-county-business-proposal](http://utv44.com/news/local/tough-battle-ahead-for-baldwin-county-business-proposal)
+{{< socialpreview url="https://utv44.com/news/local/tough-battle-ahead-for-baldwin-county-business-proposal" >}}
 
 “A small business venture on family land”, a venture by a young entrepreneur, Grant Weeks, from a family, The Weeks family of Weeks Bay, that is part of History in Baldwin County. That alone should get your attention.
 
