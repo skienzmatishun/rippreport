@@ -20,7 +20,7 @@ If the allegations did not have supporting documents I can see where the complai
 
 Their defense is to shoot the messenger, the concerned citizen.
 
-https://rippreport.com/alabama-corruption-insurance/
+{{< socialpreview url="https://rippreport.com/p/alabama-corruption-insurance/" >}}
 
 Those of you that are followers of the Ripp Report know, first hand, of much more egregious actions by the Fairhope City Council. Everything from bid rigging, inside information, FEMA fraud, fraudulent bids and land fraud is on the present city council’s resume.
 
@@ -51,7 +51,5 @@ The Mayor is not doing her job. To claim she did not know she was doing anything
 Below you will find some of the supporting documents.
 
 Ask the Mayor and City Council to explain to the citizens of Columbia. Why taxpayer dollars are being misappropriated? And ask for an independent investigation of the police chief and his questionable actions.
-
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2020/12/columbia-compressed.pdf" download="all"\]
 
 Do nothing and nothing will change.
