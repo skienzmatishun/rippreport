@@ -1,6 +1,7 @@
 ---
 title: "BEND OVER FAIRHOPE"
 date: 2018-02-09
+thumbnail: "img/bend-over-fairhope.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -30,13 +31,7 @@ IT AIN’T THE MAYOR.
 
 Remember Fly Creek? the Mayor was behind the citizens, the council favored the developer. The council ignored the vast majority of people who came to numerous meetings. Well here we go again.
 
-## BIG HEAD GULLY AND THE FRUIT NUTS
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/wrsBAuJIrgsyBad-800x450-noPad2.jpg)
-
-FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION Save Big Head Gulley in Fairhope, AL Fairhope watershed known as Tatumville Gulley or Big Head Gulley is being threatened by land…
-
-Source: [rippreport.com/2018/02/06/big-head-gully-and-the-fruit-nuts/](https://rippreport.com/big-head-gully-and-the-fruit-nuts/)
+{{< socialpreview url="https://rippreport.com/big-head-gully-and-the-fruit-nuts/" >}}
 
 A petition rejecting the Fairhope Single Tax plan to be developers on the banks of the gully has over 925 signatures to date.
 
