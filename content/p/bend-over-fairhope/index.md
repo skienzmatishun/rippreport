@@ -31,7 +31,7 @@ IT AIN’T THE MAYOR.
 
 Remember Fly Creek? the Mayor was behind the citizens, the council favored the developer. The council ignored the vast majority of people who came to numerous meetings. Well here we go again.
 
-{{< socialpreview url="https://rippreport.com/big-head-gully-and-the-fruit-nuts/" >}}
+{{< socialpreview url="https://rippreport.com/p/big-head-gully-and-the-fruit-nuts/" >}}
 
 A petition rejecting the Fairhope Single Tax plan to be developers on the banks of the gully has over 925 signatures to date.
 
