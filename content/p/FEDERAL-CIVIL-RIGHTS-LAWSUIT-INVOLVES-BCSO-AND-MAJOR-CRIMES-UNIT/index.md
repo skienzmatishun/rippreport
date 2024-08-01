@@ -1,6 +1,6 @@
 ---
 title: "FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT"
-date: 2024-01-29
+date: 2024-08-24
 thumbnail: "img/federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit.jpg"
 categories: 
   - bcso
