@@ -77,7 +77,7 @@ FOR THE SOUTHERN DISTRICT OF ALABAMA
 
 SOUTHERN DIVISION
 
-<iframe style="width:100%;height:800px;" src="https://rippreport.com/img/FRENCH.pdf"></iframe>
+<iframe style="width:100%;height:800px;" src="https://rippreport.com/FRENCH.pdf"></iframe>
 
 
 
