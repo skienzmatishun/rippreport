@@ -1,12 +1,9 @@
 {{/* layouts/partials/inline-critical-css.html */}}
 {{ $pageContent := .Content }}
 {{ $criticalCSS := resources.Get "css/critical.css" }}
-{{ printf "Critical CSS type: %T" $criticalCSS | safeHTML }}
-{{ printf "Critical CSS content: %s" $criticalCSS.Content | safeHTML }}
 {{ $cssMap := dict }}
 {{ $classRegex := `class="([^"]+)"` }}
 {{ $matches := findRE $classRegex $pageContent }}
-{{ printf "Matches: %v" $matches | safeHTML }}
 
 {{ range $matches }}
   {{ $classes := (index . 1) | split " " }}
@@ -20,8 +17,9 @@
 
 {{ $inlineCSS := slice }}
 {{ range $cssMap }}
-  {{ printf "Appending to inlineCSS: %s" (string .) | safeHTML }}
-  {{ $inlineCSS = $inlineCSS | append (printf ".%s" (string .)) }}
+  {{ $class := printf ".%s" (string .) }}
+  {{ printf "Appending to inlineCSS: %s" $class | safeHTML }}
+  {{ $inlineCSS = $inlineCSS | append $class }}
 {{ end }}
 
 {{ printf "Inline CSS: %v" $inlineCSS | safeHTML }}
