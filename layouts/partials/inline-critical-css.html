@@ -1,0 +1,36 @@
+{{/* layouts/partials/inline-critical-css.html */}}
+{{ $pageContent := .Content }}
+{{ $criticalCSS := resources.Get "css/critical.css" | resources.ExecuteAsTemplate "critical.css" . }}
+{{ $cssMap := dict }}
+{{ $classRegex := `class="([^"]+)"` }}
+{{ $matches := findRE $classRegex $pageContent }}
+
+{{ range $matches }}
+  {{ $classes := (index . 1) | split " " }}
+  {{ range $classes }}
+    {{ $cssMap = $cssMap | merge (dict . true) }}
+  {{ end }}
+{{ end }}
+
+{{ $inlineCSS := slice }}
+{{ range $cssMap }}
+  {{ $inlineCSS = $inlineCSS | append (printf ".%s" .) }}
+{{ end }}
+
+{{ $filteredCSS := $criticalCSS.Content | split "\n" }}
+{{ $inlinedRules := slice }}
+
+{{ range $filteredCSS }}
+  {{ $rule := . }}
+  {{ range $inlineCSS }}
+    {{ if (findRE (printf "^%s" .) $rule) }}
+      {{ $inlinedRules = $inlinedRules | append $rule }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<style>
+{{ range $inlinedRules }}
+  {{ . }}
+{{ end }}
+</style>
