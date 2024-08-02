@@ -63,7 +63,7 @@ Here are a few of the articles posted by the Ripp Report in the last year:
 
 {{< socialpreview url="https://rippreport.com/p/airport-diversion/" >}}
 
-{{< socialpreview url="https://rippreport.com/see-ya-in-court-jack/" >}}
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 Now do not forget the reward that nobody even attempted to claim and that includes the Airport Board, who want you to believe that they know best. They also want the city to butt out of Airport business, while the city keeps paying the mortgage, and the authority holds the title. Just how is that beneficial to the city?
 

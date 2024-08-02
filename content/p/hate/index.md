@@ -1,6 +1,7 @@
 ---
 title: "HATE"
 date: 2017-07-07
+thumbnail: "img/hate.png"
 categories: 
   - freaky-friday
 tags: 
@@ -11,13 +12,7 @@ authors:
 
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council's attorney. This is a common practice and is the way the city of Mobile handles similar situations. The threat of a lawsuit only arises if the council refuses and continues to obstruct the mayor. The council refused; however, when it came to “come fly with me” Burrell, when his plane was caught in an ethics investigation, the airport authority approved funds to hire an attorney for Jack. This is the council's definition of FAIRNESS. Take note.
 
-## HELP – FAIRNESS IS KILLING US
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/help-153094_640.png)
-
-The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for “Fairness”. First, the council implements a hiring freeze to punish the mayor for firing two employees. Then…
-
-Source: [rippreport.com/2017/04/28/help-fairness-killing-us/](https://rippreport.com/help-fairness-killing-us/)
+{{< socialpreview url="https://rippreport.com/p/help-fairness-killing-us/" >}}
 
 Politics invites dissent and debate and has led to more than one war. Our democracy depends on free speech, which is something we should cherish. What is now going on in the Fairhope is not free speech, debate or democracy. It is hate. While your children are being taught in school and church about bullying or cyberbullying, sexism, and how to love instead of hate, some in Fairhope have nevertheless turned to Hate. The degree of vile, nasty and personal attacks on Mayor Wilson and her family and friends are not politics. These are personal and meant to hurt people’s feelings while weaponizing distrust among the community. The saddest part is that the people responsible are long time “entitled” residents who all went to school together and played together growing up in Fairhope. Today their jealousy and selfishness is dividing Fairhope while the council shows no leadership.
 
@@ -117,7 +112,7 @@ In response to the mayor’s attorney addressing the council, Councilman Mr. Rob
 
 Read this letter and see if you see some similarities to the Jester 666
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/07/Satterwhite.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2017/07/Satterwhite.pdf
 
 Now is the time for the Jester or Mr Brown to step up and push back. We anxiously await their reply and denials. One thing is for sure the other comments on the Ripp Reports are free to speculate on the Jester’s identity. If Mr. Brown is the Jester, his comments reflect his mindset, that mindset is not that of a councilperson. A councilperson who calls his constituents carpetbaggers and Yankees insisting they go home if they do not agree with him and his good ole boys.
 
