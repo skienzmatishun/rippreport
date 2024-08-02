@@ -30,7 +30,7 @@ logo = "https://rippreport.com/img/eagle.png"
   widgets = ["recent"]
 
 [Params.widgets]
-  recent_num = 15 # Number of articles in the "Recent articles" widget
+  recent_num = 12 # Number of articles in the "Recent articles" widget
   tags_counter = false
 
 [Params.style.vars]
