@@ -1,58 +1,32 @@
-{{/* layouts/partials/inline-critical-css.html */}}
-{{ $pageContent := .Content }}
+{{/* inline-critical-css.html */}}
+{{ $usedClasses := slice }}
+{{ range $class := (split (dict " " $ "class") " ") }}
+    {{ $usedClasses = $usedClasses | append $class }}
+{{ end }}
+
 {{ $criticalCSS := resources.Get "css/critical.css" }}
+{{ $parsedCSS := $criticalCSS | resources.PostCSS }}
 
-{{ printf "Debug: $criticalCSS = %T" $criticalCSS | safeHTML }}
-{{ printf "Debug: $criticalCSS.Content = %s" $criticalCSS.Content | safeHTML }}
+{{ range $rule := $parsedCSS.Root.Nodes }}
+    {{ if eq $rule.Type "rule" }}
+        {{ $selector := $rule.Selector }}
+        {{ $selectorClasses := split (strings.Trim $selector ".") " " }}
+        {{ $isUsed := false }}
+        {{ range $class := $selectorClasses }}
+            {{ if in $usedClasses $class }}
+                {{ $isUsed = true }}
+                {{ break }}
+            {{ end }}
+        {{ end }}
 
-{{ $cssMap := dict }}
-{{ $classRegex := `class="([^"]+)"` }}
-{{ $matches := findRE $classRegex $pageContent }}
-
-{{ printf "Debug: $matches = %v" $matches | safeHTML }}
-
-{{ range $matches }}
-  {{ $classes := (index . 1) | split " " }}
-  {{ printf "Debug: $classes = %v" $classes | safeHTML }}
-  {{ range $classes }}
-    {{ printf "Debug: Processing class: %s" . | safeHTML }}
-    {{ $cssMap = merge $cssMap (dict . true) }}
-  {{ end }}
-{{ end }}
-
-{{ printf "Debug: $cssMap = %v" $cssMap | safeHTML }}
-
-{{/*
-{{ $inlineCSS := slice }}
-{{ range $cssMap }}
-  {{ $class := printf ".%s" (string .) }}
-  {{ printf "Debug: Appending to inlineCSS: %s" $class | safeHTML }}
-  {{ $inlineCSS = $inlineCSS | append $class }}
-{{ end }}
-
-{{ printf "Debug: $inlineCSS = %v" $inlineCSS | safeHTML }}
-
-{{ $filteredCSS := split ($criticalCSS.Content | safeCSS) "\n" }}
-{{ $inlinedRules := slice }}
-
-{{ range $filteredCSS }}
-  {{ $rule := . | string }}
-  {{ range $inlineCSS }}
-    {{ $class := . | string }}
-    {{ printf "Debug: Checking rule: %s against class: %s" $rule $class | safeHTML }}
-    {{ if (findRE (printf "^%s" $class) $rule) }}
-      {{ $inlinedRules = $inlinedRules | append $rule }}
-      {{ printf "Debug: Appending rule to inlinedRules: %s" $rule | safeHTML }}
-      {{ break }}
+        {{ if $isUsed }}
+            <style>
+                {{ $rule.Selector }} {
+                    {{ range $decl := $rule.Nodes }}
+                        {{ $decl.Prop }}: {{ $decl.Value }};
+                    {{ end }}
+                }
+            </style>
+        {{ end }}
     {{ end }}
-  {{ end }}
 {{ end }}
-
-{{ printf "Debug: $inlinedRules = %v" $inlinedRules | safeHTML }}
-*/}}
-
-<style>
-{{/* {{ range $inlinedRules }} */}}
-  {{/* {{ . }} */}}
-{{/* {{ end }} */}}
-</style>
