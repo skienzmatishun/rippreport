@@ -266,7 +266,8 @@ h2.list__title {
     border: none;
     background: #474747;
     margin-bottom: 15px;
-    padding: 0 0 20px
+    padding: 0 0 20px;
+    height:675px;
 }
 
 .widget__item a h3 {
