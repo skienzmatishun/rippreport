@@ -1,6 +1,7 @@
 ---
 title: "VICTORY"
 date: 2018-09-05
+thumbnail: "img/victory.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -23,6 +24,6 @@ Let us all see what action the council takes now that they have to revisit the a
 
 “The Fairhope Planning Commission, when it approved the MOP Site Plan acted inconsistent with Ordinance 1572 and therefore, acted arbitrary, capriciously, and not in compliance with applicable law.”
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2018/09/Fly-Creek.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2018/09/Fly-Creek.pdf
 
 Francis Paul Ripp President Fly Creek Watershed Preservation Association,Inc.

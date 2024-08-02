@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE - CATALYST a Dirty Little Secret"
 date: 2018-09-21
+thumbnail: "img/fairhope-catalyst-a-dirty-little-secret.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -9,13 +10,7 @@ authors:
 
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was hand-picked for the last election by the former Mayor, Tim Kant. They were a slate of Catalyst candidates, who had pledged their loyalty to Tim; who lost to Mayor Karin Wilson when we demanded the head of the legal division for the Elections Department drove down and oversaw the election, allowing for the first legitimate election in decades.
 
-<div class="link-preview">
-
-## CATALYST DOES FAIRHOPE![](https://cdn.rippreport.com/wp-content/uploads/2018/03/cross-out.jpg)
-
-Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
-
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
+{{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
 This council will NEVER vote for districts and will do everything possible to stop that from happening. They are lying to the public; they got caught. What happens next is their undoing.
 
@@ -36,32 +31,10 @@ The most obvious reason for Fairhope to change the form of Government and to go 
 
 This Catalyst City Council did nothing to inform the general public as to the details of the proposed change of Government. Why? Because they thought they had control of the issue and they, The Catalyst Council, would make the decision of districts or at large. They wrote a letter and waited in silence while Fairhope First pushed ahead with their related petition, which created more questions than answers.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/zunk-the-skunk/" >}}
 
-## ZUNK THE SKUNK
+{{< socialpreview url="https://rippreport.com/p/skunked/" >}}
 
-### ZUNK THE SKUNK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/06/Chuck-zunk-fairhope.jpg)
-
-I could smell the skunk through my computer, the first time that I read, Chuck Zunk, was agreeing with the Mayor of Fairhope, on the Council-manager form of government. Mr Zunk was appointed to the…
-
-Source: [rippreport.com/2018/06/22/zunk-the-skunk/](https://rippreport.com/zunk-the-skunk/)
-
-</div>
-<div class="link-preview">
-
-## SKUNKED
-
-### SKUNKED | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/08/skunk-1239764_1280.jpg)
-
-What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a…
-
-Source: [rippreport.com/2018/08/24/skunked/](https://rippreport.com/skunked/)
-
-</div>
 The Council stayed silent, until yet another special meeting was called, again at the close of a workday around 5:00 p.m. on a Monday--for a Wednesday meeting. The City Attorney is now going to be paid your tax dollars to research the entire issue, 11 days before the special called the election to be held Oct. 2, 2018. Councilman Jay Robinson, an attorney, as well as the council President, Jack Burrell, did nothing to clarify any facts with the Attorney General, prior to the meeting. Mr. Burrell stated he had Nick Saban’s cell phone number on speed dial; but did not know the Attorney General’s phone number. That was their excuse and all they had to do was go to face book or the Internet to get the number. They chose not too—out of laziness and sheer stupidity.
 
 [https://www.facebook.com/AGSteveMarshall/](https://www.facebook.com/AGSteveMarshall/)
@@ -94,54 +67,21 @@ Over 1000 people have signed petitions for a change of Government. That is the o
 
 The Catalyst Council never made a statement or offered any information to the public for the last four months. They even filed a complaint against the Mayor, who was trying to inform the public. The Mayor’s information never changed; she explained that it would be districts, only to have the Council try to silence her and others, insisting—as always that they knew better. Well not this time boys. You should have listened to the mayor! The same Catalyst Council and the same City Attorney firm did nothing to enforce their own ordinances.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/victory/" >}}
 
-## VICTORY
-
-### VICTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/09/Confetti_5879576562.jpg)
-
-Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
-
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
-
-</div>
 The Council and City Attorney sat back and remained silent while the Council President refused to even allow a citizen, yours truly, to even speak.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
-## SEE YA IN COURT JACK
-
-### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/court.jpg)
-
-PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
-
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
-
-</div>
 If Fairhope goes to a Mayor/Manager District form of Government then the present City Attorney and Municipal Judge should be replaced in 2020 or as soon as possible.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
-## YOU DON’T KNOW JACK
-
-### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/11/YOU-DONT-KNOW-JACKLarge.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
-
-</div>
 Fairhope City Council is in goosestep with one another and have supported the Airport Authority over the City’s best interest. Fairhope taxpayers pay for the Fairhope Airport but the Council supports the Authority holding the title, that’s a Catalyst move.
 
 ## THE OCTOBER 2 ELECTION GIVES THE COMMUNITY OF FAIRHOPE THE OPPORTUNITY TO SEND A CLEAR MESSAGE TO THE FOLKS OF CATALYST AND THE “AT LARGE” COUNCIL.
 
-https://thefairhopetimes.blogspot.com/2018/09/opinion-dont-deny-citizens-timely-vote.html
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2018/09/opinion-dont-deny-citizens-timely-vote.html" >}}
 
 ## THE ELECTION SHOULD GO FORWARD AND ANY ATTEMPT BY THE COUNCIL TO INTERFERE WITH A FAIR ELECTION, WILL BE THEIR OWN DEMISE.
 

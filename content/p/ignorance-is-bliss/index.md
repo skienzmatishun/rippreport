@@ -1,6 +1,7 @@
 ---
 title: "IGNORANCE IS BLISS"
 date: 2018-11-16
+thumbnail: "img/ignorance-is-bliss.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -21,15 +22,7 @@ Please Read: [lagniappemobile.com/fairhope-voters-reject-council-manager-form-of
 
 I read the article while I was in Puerto Rico and wondered how many people in Fairhope actually have any understanding of what motivated the no vote. The Ripp Report posted it’s thoughts after the election:
 
-## YOU WIN SOME YOU LOSE SOME
-
-### YOU WIN SOME YOU LOSE SOME | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/11/win-some-lose-some.jpg)
-
-AND SOME SHOULD NEVER BEEN SCHEDULED The proposed change of government for Fairhope started out with good intentions and then went completely off the rails. SKUNKED What started out to be a “Fresh…
-
-Please Read: [rippreport.com/2018/11/07/you-win-some-you-lose-some/](https://rippreport.com/you-win-some-you-lose-some/)
+{{< socialpreview url="https://rippreport.com/p/you-win-some-you-lose-some/" >}}
 
 The Lagniappe article sure clears up some of the suspected backroom motives of some. First off Forever Fairhope was backed by Can’t loyalist who invested in a political PAC. These are some of the same individuals who support Catalyst.
 
@@ -47,14 +40,6 @@ Knowing or unwittingly your efforts succeeded in holding Fairhope in the grasp o
 
 If you were duped then you will be active in combating corruption, if you were willing partners of Catalyst then you will remain silent. Time will tell and we will be paying attention so I leave you with a little nugget of corruption, that I am sure you had no idea about.
 
-## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-
-### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/3bs.png)
-
-Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
-
-Please Read: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
 Ignorance is bliss.
