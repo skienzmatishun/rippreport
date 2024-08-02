@@ -1,6 +1,6 @@
 ---
 title: "Sheriff Mack Out OJ French Lawsuit In"
-date: 2024-08-24
+date: 2024-08-02
 thumbnail: "img/sheriff-mack-out-oj-french-lawsuit-in.jpg"
 categories: 
   - backstory-podcast
