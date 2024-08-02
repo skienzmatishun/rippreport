@@ -43,6 +43,6 @@ Mr Burt becomes the exception in the effort to replace all four incumbent commis
 
 Baldwin County citizens should hold Mr. Burt and the other commissioners responsible and accountable for the Mega-Site Dump, as it is referred to in District one, however Mr Ball is not the answer.
 
-{{< socialpreview url="https://rippreport.com/p/cattle-gate-mega-site/"
+{{< socialpreview url="https://rippreport.com/p/cattle-gate-mega-site/" >}}
 
 Jeb is playing with the wrong balls.
