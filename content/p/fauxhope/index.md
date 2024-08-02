@@ -46,7 +46,7 @@ To add insult to injury the Alabama legislature passed legislation that moves mu
 
 Burrell is known for his liability land gifts. The real gift is city liability, just like what he did for his developer buddy Arthur Corti.
 
-{{ socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
+{{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
 Mayor Wilson appropriately expressed shock and concern that the City should not have taken ownership of this property. She was right.
 
