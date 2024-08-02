@@ -31,7 +31,7 @@ Baldwin County is now in a very dangerous situation. The Alabama Supreme Court h
 
 “The Alabama Supreme Court rejected a request from the Lagniappe in Mobile, which wanted Baldwin County Sheriff Huey Hoss Mack to release all the details, about a 2017 traffic stop and fatal shooting, to the public.”
 
-https://lagniappemobile.com/baldwin-county-commission-considers-2021-budget-approves-body-cam-contract/
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-commission-considers-2021-budget-approves-body-cam-contract/article_a4251d12-e891-523e-a4fa-ebb6d4916ff1.html" >}}
 
 “the commission also approved a $662,597 expenditure for 129 body cameras and related technology for the Baldwin County Sheriff’s Office (BCSO). “
 
@@ -41,7 +41,7 @@ Now the Sheriff can “LEGALLY” refuse to produce any taxpayer camera footage 
 
 The Supreme Court decision, comes on the heels of the revelation that the Executive Director of the Ethics Commission and his former law partners, Judge, and Regions Bank awarding their children scholarship money, hundreds of thousands of dollars from a trust where they were trustees.
 
-https://lagniappemobile.com/mabel-amos-memorial-fund-more-scholarship-money-for-ethics-chiefs-kids/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/mabel-amos-memorial-fund-more-scholarship-money-for-ethics-chief-s-kids/article_c4129e00-75ad-53d2-a891-cdee4e6a1106.html" >}}
 
 “Albritton is not the only former member of the firm that drafted Amos’ will to have benefitted from the Mabel Amos Memorial Foundation. Covington County Circuit Court Judge Ben Bowden said last week that his child was a scholarship recipient. According to 990 records, scholarships awarded to SMU totaled $45,000 between 2014 and 2017. Bowden said he couldn’t remember how much money was awarded, but did confirm his child attended SMU. “
 
