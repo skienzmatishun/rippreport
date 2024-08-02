@@ -1,6 +1,7 @@
 ---
 title: "100 VOICES"
 date: 2019-04-06
+thumbnail: "img/100-voices.jpg"
 categories: 
   - freaky-friday
 tags: 

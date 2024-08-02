@@ -1,6 +1,7 @@
 ---
 title: "RANDOM ACTS OF KINDNESS"
 date: 2018-12-26
+thumbnail: "img/kindness.png"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -9,15 +10,11 @@ authors:
 
 ## RANDOM ACTS OF KINDNESS
 
-1\. Do something nice for someone you know or don't know.
-
-2\. Do something nice for someone in your family.
-
-3\. Do something in your community to help a school.
-
-4\. Do something nice for someone who helps others — a teacher, law enforcement, fireman, or military personnel.
-
-5\. Encourage people who create music, art or short stories and make the world a better place.
+1. Do something nice for someone you know or don't know.
+2. Do something nice for someone in your family.
+3. Do something in your community to help a school.
+4. Do something nice for someone who helps others — a teacher, law enforcement, fireman, or military personnel.
+5. Encourage people who create music, art or short stories and make the world a better place.
 
 Pass this message on so others too can enjoy the joy of giving and caring!
 
