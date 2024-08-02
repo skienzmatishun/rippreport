@@ -1,32 +1,34 @@
 {{/* inline-critical-css.html */}}
 {{ $usedClasses := slice }}
-{{ range $class := (split .Class " ") }}
-    {{ $usedClasses = $usedClasses | append $class }}
-{{ end }}
+{{ with .Page }}
+    {{ range $class := (split .Params.class " ") }}
+        {{ $usedClasses = $usedClasses | append $class }}
+    {{ end }}
 
-{{ $criticalCSS := resources.Get "css/critical.css" }}
-{{ $parsedCSS := $criticalCSS | resources.PostCSS }}
+    {{ $criticalCSS := resources.Get "css/critical.css" }}
+    {{ $parsedCSS := $criticalCSS | resources.PostCSS }}
 
-{{ range $rule := $parsedCSS.Root.Nodes }}
-    {{ if eq $rule.Type "rule" }}
-        {{ $selector := $rule.Selector }}
-        {{ $selectorClasses := split (strings.Trim $selector ".") " " }}
-        {{ $isUsed := false }}
-        {{ range $class := $selectorClasses }}
-            {{ if in $usedClasses $class }}
-                {{ $isUsed = true }}
-                {{ break }}
+    {{ range $rule := $parsedCSS.Root.Nodes }}
+        {{ if eq $rule.Type "rule" }}
+            {{ $selector := $rule.Selector }}
+            {{ $selectorClasses := split (strings.Trim $selector ".") " " }}
+            {{ $isUsed := false }}
+            {{ range $class := $selectorClasses }}
+                {{ if in $usedClasses $class }}
+                    {{ $isUsed = true }}
+                    {{ break }}
+                {{ end }}
             {{ end }}
-        {{ end }}
 
-        {{ if $isUsed }}
-            <style>
-                {{ $rule.Selector }} {
-                    {{ range $decl := $rule.Nodes }}
-                        {{ $decl.Prop }}: {{ $decl.Value }};
-                    {{ end }}
-                }
-            </style>
+            {{ if $isUsed }}
+                <style>
+                    {{ $rule.Selector }} {
+                        {{ range $decl := $rule.Nodes }}
+                            {{ $decl.Prop }}: {{ $decl.Value }};
+                        {{ end }}
+                    }
+                </style>
+            {{ end }}
         {{ end }}
     {{ end }}
 {{ end }}
