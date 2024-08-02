@@ -1,6 +1,6 @@
 {{/* inline-critical-css.html */}}
 {{ $usedClasses := slice }}
-{{ range $class := (split (dict " " $ "class") " ") }}
+{{ range $class := (split .Class " ") }}
     {{ $usedClasses = $usedClasses | append $class }}
 {{ end }}
 
