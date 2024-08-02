@@ -1,28 +1,36 @@
 {{/* layouts/partials/inline-critical-css.html */}}
 {{ $pageContent := .Content }}
 {{ $criticalCSS := resources.Get "css/critical.css" }}
+
+{{ printf "Debug: $criticalCSS = %T" $criticalCSS | safeHTML }}
+{{ printf "Debug: $criticalCSS.Content = %s" $criticalCSS.Content | safeHTML }}
+
 {{ $cssMap := dict }}
 {{ $classRegex := `class="([^"]+)"` }}
 {{ $matches := findRE $classRegex $pageContent }}
 
+{{ printf "Debug: $matches = %v" $matches | safeHTML }}
+
 {{ range $matches }}
   {{ $classes := (index . 1) | split " " }}
+  {{ printf "Debug: $classes = %v" $classes | safeHTML }}
   {{ range $classes }}
-    {{ printf "Processing class: %s" . | safeHTML }}
+    {{ printf "Debug: Processing class: %s" . | safeHTML }}
     {{ $cssMap = merge $cssMap (dict . true) }}
   {{ end }}
 {{ end }}
 
-{{ printf "CSS Map: %v" $cssMap | safeHTML }}
+{{ printf "Debug: $cssMap = %v" $cssMap | safeHTML }}
 
+{{/*
 {{ $inlineCSS := slice }}
 {{ range $cssMap }}
   {{ $class := printf ".%s" (string .) }}
-  {{ printf "Appending to inlineCSS: %s" $class | safeHTML }}
+  {{ printf "Debug: Appending to inlineCSS: %s" $class | safeHTML }}
   {{ $inlineCSS = $inlineCSS | append $class }}
 {{ end }}
 
-{{ printf "Inline CSS: %v" $inlineCSS | safeHTML }}
+{{ printf "Debug: $inlineCSS = %v" $inlineCSS | safeHTML }}
 
 {{ $filteredCSS := split ($criticalCSS.Content | safeCSS) "\n" }}
 {{ $inlinedRules := slice }}
@@ -31,19 +39,20 @@
   {{ $rule := . | string }}
   {{ range $inlineCSS }}
     {{ $class := . | string }}
-    {{ printf "Checking rule: %s against class: %s" $rule $class | safeHTML }}
+    {{ printf "Debug: Checking rule: %s against class: %s" $rule $class | safeHTML }}
     {{ if (findRE (printf "^%s" $class) $rule) }}
       {{ $inlinedRules = $inlinedRules | append $rule }}
-      {{ printf "Appending rule to inlinedRules: %s" $rule | safeHTML }}
+      {{ printf "Debug: Appending rule to inlinedRules: %s" $rule | safeHTML }}
       {{ break }}
     {{ end }}
   {{ end }}
 {{ end }}
 
-{{ printf "Inlined Rules: %v" $inlinedRules | safeHTML }}
+{{ printf "Debug: $inlinedRules = %v" $inlinedRules | safeHTML }}
+*/}}
 
 <style>
-{{ range $inlinedRules }}
-  {{ . }}
-{{ end }}
+{{/* {{ range $inlinedRules }} */}}
+  {{/* {{ . }} */}}
+{{/* {{ end }} */}}
 </style>
