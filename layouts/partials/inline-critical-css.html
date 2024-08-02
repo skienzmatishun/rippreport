@@ -1,6 +1,6 @@
 {{/* layouts/partials/inline-critical-css.html */}}
 {{ $pageContent := .Content }}
-{{ $criticalCSS := resources.Get "critical.css" | resources.ExecuteAsTemplate "critical.css" . }}
+{{ $criticalCSS := resources.Get "css/critical.css" | resources.ToCSS }}
 {{ $cssMap := dict }}
 {{ $classRegex := `class="([^"]+)"` }}
 {{ $matches := findRE $classRegex $pageContent }}
