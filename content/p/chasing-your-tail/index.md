@@ -1,6 +1,7 @@
 ---
 title: "CHASING YOUR TAIL"
 date: 2018-12-14
+thumbnail: "img/chasing-your-tail.jpg"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "REPEAT"
 date: 2018-01-06
+thumbnail: "img/repeat.png"
 categories: 
   - freaky-friday
 authors: 
