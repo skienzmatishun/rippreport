@@ -1,6 +1,7 @@
 ---
 title: "CATALYST SKUNK"
 date: 2018-03-28
+thumbnail: "img/catalyst-skunk.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

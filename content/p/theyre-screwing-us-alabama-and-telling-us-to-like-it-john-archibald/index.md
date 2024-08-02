@@ -1,6 +1,7 @@
 ---
 title: "“They're screwing us, Alabama. And telling us to like it.” -  John Archibald"
 date: 2018-03-23
+thumbnail: "img/theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald.png"
 categories: 
   - freaky-friday
 tags: 
@@ -15,29 +16,7 @@ These changes send us backwards and turn a blind eye to elected officials using 
 
 Please read the article linked and the links in the article. The Ethics Commission has held no one in Baldwin County accountable, despite the fact that dozens of complaints have been filed through the years. If the changes suggested to the Ethics law are approved then filing a legitimate complaint will be moot.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.al.com/opinion/index.ssf/2018/03/fighting_corruption_in_alabama.html" >}}
 
-## Fighting corruption in Alabama is painful; just ask this guy
+{{< socialpreview url="https://www.alreporter.com/2018/03/21/hb317-the-ethics-bill-that-just-wont-die/" >}}
 
-### Fighting corruption in Alabama is painful; just ask this guy
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/24290911-standard.jpg)
-
-It's about to get worse.
-
-Source: [www.al.com/opinion/index.ssf/2018/03/fighting\_corruption\_in\_alabama.html](http://www.al.com/opinion/index.ssf/2018/03/fighting_corruption_in_alabama.html)
-
-</div>
-<div class="link-preview">
-
-## HB317: The ethics bill that just won’t die
-
-### HB317: The ethics bill that just won’t die
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/AdobeStock_36030982-e1521333736858-1000x600.jpeg)
-
-It’s the bad ethics bill that just won’t die. For most of the 2018 Legislative session, HB317 — a bill that would implant a broad exception into Alabama’s ethics laws to allow fulltime and part-time economic development professionals to not register as lobbyists — has been pushed down the throats of wary lawmakers. And it’s \[…\]
-
-Source: [www.alreporter.com/2018/03/21/hb317-the-ethics-bill-that-just-wont-die/](http://www.alreporter.com/hb317-the-ethics-bill-that-just-wont-die/)
-
-</div>

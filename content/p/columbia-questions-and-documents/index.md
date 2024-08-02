@@ -1,6 +1,7 @@
 ---
 title: "COLUMBIA — QUESTIONS AND DOCUMENTS"
 date: 2020-12-23
+thumbnail: "img/columbia-questions-and-documents.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

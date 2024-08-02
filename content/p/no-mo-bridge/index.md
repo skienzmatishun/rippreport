@@ -2,7 +2,7 @@
 title: "NO MO BRIDGE"
 date: 2021-06-30
 categories: 
-  - wonderful-wednesday
+  - other
 authors: 
   - admin
 ---
@@ -15,9 +15,7 @@ MO for U.S. Senate means NO More for Alabama.
 
 I-10 IS A FEDERAL HIGHWAY
 
-<iframe style="background-color:#bbb;height:2000px;width:99%;overflow:hidden;position:relative;top:-22.3%;max-width:767px;" scrolling="no" src="https://web.archive.org/web/20210702030015/http://www.gulfcoastnewstoday.com/the-courier/stories/brooks-says-bridge-funding-local-issue,107847"></iframe>
-
-[Read Full Article](http://www.gulfcoastnewstoday.com/the-courier/stories/brooks-says-bridge-funding-local-issue,107847) [http://www.gulfcoastnewstoday.com/the-courier/stories/brooks-says-bridge-funding-local-issue,107847](http://www.gulfcoastnewstoday.com/the-courier/stories/brooks-says-bridge-funding-local-issue,107847)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/brooks-says-bridge-funding-local-issue,107847" >}}
 
 Brooks said that he would help project supporters, but funding decisions should not be made in Washington.
 
@@ -31,9 +29,7 @@ Mark Colson, president and CEO with the Alabama Trucking Association “reiterat
 
 Jack has said “he is opposed to federal assistance, however, if it was offered he would take the money.”
 
-<iframe src="https://web.archive.org/web/20210702051350/https://yellowhammernews.com/fairhope-mayor-sherry-sullivan-i-10-mobile-river-truck-bridge-proposal-a-starting-point-expects-new-bridge-will-have-a-small-toll/?amp" style="background-color:#bbb;height:4000px;width:99%;overflow:hidden;position:relative;max-width:767px;" scrolling="no"></iframe>
-
-[Read Full Article](https://yellowhammernews.com/fairhope-mayor-sherry-sullivan-i-10-mobile-river-truck-bridge-proposal-a-starting-point-expects-new-bridge-will-have-a-small-toll/) [https://yellowhammernews.com/fairhope-mayor-sherry-sullivan-i-10-mobile-river-truck-bridge-proposal-a-starting-point-expects-new-bridge-will-have-a-small-toll/](https://yellowhammernews.com/fairhope-mayor-sherry-sullivan-i-10-mobile-river-truck-bridge-proposal-a-starting-point-expects-new-bridge-will-have-a-small-toll/)
+{{< socialpreview url="https://yellowhammernews.com/fairhope-mayor-sherry-sullivan-i-10-mobile-river-truck-bridge-proposal-a-starting-point-expects-new-bridge-will-have-a-small-toll/" >}}
 
 “Obviously, there’s going to be a toll. We don’t know what that toll is going to look like right now. I think it’s going to be a small toll. But I do think as a passenger vehicle, if you choose to use the bridge, you will pay a toll. But we will maintain those legacy routes.”
 
