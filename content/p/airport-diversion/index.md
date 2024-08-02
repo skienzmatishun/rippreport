@@ -21,7 +21,7 @@ Councilman Brown in his letter states that:
 
 ## HATE
 
-{{< socialpreview url="https://rippreport.com/p/hate/" > }}
+{{< socialpreview url="https://rippreport.com/p/hate/" >}}
 
 “The Ethics complaint against Council President Jack Burrell and Airport board member, Mr. Ray Hix, have both been 'ruled baseless.'" This is yet another attempt to quash the FACT that both men ARE under investigation, which is on going. Chucky and the am lady never ask jack about his free flights, ethics complaint or his role in securing the airport bid for board member Hix.
 
