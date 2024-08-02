@@ -37,6 +37,10 @@ logo = "https://rippreport.com/img/eagle.png"
   highlightColor = "#176898"
   fontFamilyPrimary =  "sans;"
 
+[module]
+  [[module.imports]]
+    path = "postcss"
+
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
