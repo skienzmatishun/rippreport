@@ -11,6 +11,7 @@
 {{ range $matches }}
   {{ $classes := (index . 1) | split " " }}
   {{ range $classes }}
+    {{ printf "Processing class: %s" . | safeHTML }}
     {{ $cssMap = merge $cssMap (dict . true) }}
   {{ end }}
 {{ end }}
@@ -19,6 +20,7 @@
 
 {{ $inlineCSS := slice }}
 {{ range $cssMap }}
+  {{ printf "Appending to inlineCSS: %s" (string .) | safeHTML }}
   {{ $inlineCSS = $inlineCSS | append (printf ".%s" (string .)) }}
 {{ end }}
 
@@ -31,8 +33,10 @@
   {{ $rule := . | string }}
   {{ range $inlineCSS }}
     {{ $class := . | string }}
+    {{ printf "Checking rule: %s against class: %s" $rule $class | safeHTML }}
     {{ if (findRE (printf "^%s" $class) $rule) }}
       {{ $inlinedRules = $inlinedRules | append $rule }}
+      {{ printf "Appending rule to inlinedRules: %s" $rule | safeHTML }}
       {{ break }}
     {{ end }}
   {{ end }}
