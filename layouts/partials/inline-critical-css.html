@@ -1,6 +1,6 @@
 {{/* layouts/partials/inline-critical-css.html */}}
 {{ $pageContent := .Content }}
-{{ $criticalCSS := resources.Get "css/critical.css" | resources.ExecuteAsTemplate "critical.css" . }}
+{{ $criticalCSS := resources.Get "critical.css" | resources.ExecuteAsTemplate "critical.css" . }}
 {{ $cssMap := dict }}
 {{ $classRegex := `class="([^"]+)"` }}
 {{ $matches := findRE $classRegex $pageContent }}
@@ -8,7 +8,7 @@
 {{ range $matches }}
   {{ $classes := (index . 1) | split " " }}
   {{ range $classes }}
-    {{ $cssMap = $cssMap | merge (dict . true) }}
+    {{ $cssMap = merge $cssMap (dict . true) }}
   {{ end }}
 {{ end }}
 
@@ -21,10 +21,13 @@
 {{ $inlinedRules := slice }}
 
 {{ range $filteredCSS }}
-  {{ $rule := . }}
+  {{ $rule := . | string }}
+  {{ $ruleTrimmed := $rule | trim }}
   {{ range $inlineCSS }}
-    {{ if (findRE (printf "^%s" .) $rule) }}
-      {{ $inlinedRules = $inlinedRules | append $rule }}
+    {{ $class := . | string }}
+    {{ if (findRE (printf "^%s" $class) $ruleTrimmed) }}
+      {{ $inlinedRules = $inlinedRules | append $ruleTrimmed }}
+      {{ break }}
     {{ end }}
   {{ end }}
 {{ end }}
