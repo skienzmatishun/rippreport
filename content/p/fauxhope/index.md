@@ -1,6 +1,7 @@
 ---
 title: "FAUXHOPE"
 date: 2021-09-24
+thumbnail: "img/fauxhope.png"
 categories: 
   - freaky-friday
 authors: 
