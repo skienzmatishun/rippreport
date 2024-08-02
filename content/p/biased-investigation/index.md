@@ -14,11 +14,11 @@ As long as all the above remains true a very few bad police officers are going t
 
 How many people need to die before citizens can see some justice?
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsiuwn3cm2k" data-bluesky-cid="bafyreigoh5ahg3ychlxj5y2mgg2dui55ym3ao4mo74qloggjtxljsxjsmi"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsiuwn3cm2k?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsiuwn3cm2k?ref_src=embed">Jul 8, 2024 at 5:12 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/bay-minette-officials-still-withholding-name-of-officer-who-killed-otis-french-jr/article_115add60-3b87-5fca-b807-457bab24701f.html" >}}
 
 Baldwin County MCU Lt. Andre Reid has said officer body camera footage of the incident will not be available during their investigation and the officer will not be named to “respect privacy.” Reid said Bay Minette Police can decide to release footage at the conclusion of the case. An Alabama Supreme Court ruling last summer, however, has effectively stripped the media and the public of any right to sue to see police body camera footage.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsizikkvz2o" data-bluesky-cid="bafyreihlwmvcaakt7mjzgqjdnzdwm5bot7njn2676nlqnjftx2zaub3xdi"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsizikkvz2o?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsizikkvz2o?ref_src=embed">Jul 8, 2024 at 5:15 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/a-tale-of-two-shootings/article_a04cd5dc-3144-5ed7-b33d-1aef846b953d.html" >}}
 
 Unlike Kenneth Sikes’ shooting, there’s been backlash stemming from French being killed. Family, friends and the local community have demanded answers — but they’re getting nothing. The city, police department and the Baldwin County Major Crimes Unit (MCU), which is investigating the shooting, all refuse to even release the name of the officer involved.
 
@@ -28,7 +28,7 @@ Lagniappe reporter Scott Johnson called law enforcement officials, Bay Minette C
 
 The County Commission should intervene and insist that the Major Crimes Division not be charged with investigating fellow officers.
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjnsxlnk2w" data-bluesky-cid="bafyreiaodaxo6lrpzs66v6syc7ozestrjer26emolzkueqddszmtys3n4y"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjnsxlnk2w?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjnsxlnk2w?ref_src=embed">Jul 8, 2024 at 5:26 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/what-s-the-narrative-details-released-by-law-enforcement-can-drive-perception/article_f439f2dd-0d08-55e2-91e1-b9b1a8e001ee.html" >}}
 
 This podcast covers the death of 8 individuals killed by BCSO and Mr O J French of Bay Minette.
 
@@ -38,7 +38,7 @@ This case was over an eviction?
 
 No bank robbers, no car thefts, no big time drug dealers, no felons. These were people that encountered the police on the wrong day and paid with their lives. The fact that this has been going on for so long calls into question police protocol and training. Why were these incidents meet with lethal force and not some type of non-lethal weapon?
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:un3ytah35jazaxhelhbk66jf/app.bsky.feed.post/3kwsjprea6h2u" data-bluesky-cid="bafyreid5s5yv4alyikmeyjtcu3dacl7o2d2dwyy5iodgq4s47fe2kjvnku"><p lang="en"><br><br><a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjprea6h2u?ref_src=embed">[image or embed]</a></p>&mdash; Rippreport.com (<a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf?ref_src=embed">@rippreport.com</a>) <a href="https://bsky.app/profile/did:plc:un3ytah35jazaxhelhbk66jf/post/3kwsjprea6h2u?ref_src=embed">Jul 8, 2024 at 5:27 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.facebook.com/bayminettejusticeleague" >}}
 
 The citizens of Bay Minette have had enough and formed the Bay Minette Justice League. If you think this does not involve you as a citizen of Baldwin County you are sadly mistaken. The Mayor and his yes sir council have acted as indifferent to Mr French’s death as they have to the numerous complaints filed against Bay Minette Police prior to his death.
 

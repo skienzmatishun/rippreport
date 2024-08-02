@@ -11,11 +11,11 @@ authors:
 
 The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Johanthan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.
 
-https://rippreport.com/biased-investigation/
+{{< socialpreview url="https://rippreport.com/p/biased-investigation/" >}}
 
 Baldwin County MCU Lt. Andre Reid has said officer body camera footage of the incident will not be available during their investigation and the officer will not be named to “respect privacy.” Reid said Bay Minette Police can decide to release footage at the conclusion of the case. An Alabama Supreme Court ruling last summer, however, has effectively stripped the media and the public of any right to sue to see police body camera footage.
 
-https://lagniappemobile.com/naming-officers-in-lethal-force/
+{{< socialpreview url="https://www.lagniappemobile.com/news/bay-minette-officials-still-withholding-name-of-officer-who-killed-otis-french-jr/article_115add60-3b87-5fca-b807-457bab24701f.html" >}}
 
 The rationale for when or when not to identify officers is arbitrary and abused, argues Clark Neily, a senior vice president for legal studies at the Cato Institute, a public policy think tank based in Washington, D.C.
 
