@@ -24,7 +24,7 @@ In Fairhope the city council spent a whole year obstructing the newly elected Ma
 
 The council failed us in their first year the Mayor did not.
 
-{{< socialpreview url="https://rippreport.com/p/hardest-working-elected-official-eastern-shore/"
+{{< socialpreview url="https://rippreport.com/p/hardest-working-elected-official-eastern-shore/" >}}
 
 Early on the Fairhope city council showed signs of limiting public participation and using silence as a weapon against anyone who challenged them. That is how Kant ran Fairhope, Kant is gone.
 

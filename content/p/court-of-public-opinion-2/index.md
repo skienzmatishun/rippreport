@@ -21,7 +21,7 @@ The above, is no concern of the ethics commission nor is it relevant that Mr. Al
 
 This is the response from the Ethics Commission, General Council
 
-\[embeddoc url="https://cdn.rippreport.com/668ea96d-ethics-com-min.pdf" download="all" viewer="google"\]
+https://cdn.rippreport.com/668ea96d-ethics-com-min.pdf
 
 The Alabama Ethics Commission forgot what the definition of Ethics's is:
 
@@ -31,17 +31,17 @@ Should this not be the foundation of the Ethics Commission? Or is it their posit
 
 For the Ethics Commission to allow Mr. Albritton to remain Executive Director, would be tantamount to aiding and abetting political corruption in Alabama.
 
-https://rippreport.com/where-is-the-media/
+{{< socialpreview url="https://rippreport.com/p/where-is-the-media/" >}}
 
 The Ripp Report also filed a Alabama Bar complaint against Mr. Albritton, below is Mr. Albritton's responce to the Bar addressing my complaint.
 
-\[embeddoc url="https://cdn.rippreport.com/2a1177a2-skm\_558e2109031024011\_compressed.pdf" download="all" viewer="google"\]
+https://cdn.rippreport.com/2a1177a2-skm\_558e2109031024011\_compressed.pdf
 
 The Ripp Report will respond to the letter Mr. Albritton submitted to the Bar and post it. Mr Albritton's letter is a sad comentaryof his interpertation of has actions. His omessions of certain facts will be corrected.
 
 Mr John Bell, Regions Bank and Rick Clifton are the other two trustees, they should account f r any "scholorships"that they, or their friends, have recieved. What about employees of Regions Bank? The trust should have a forensic audit. I bet Mr Albritton is not the only trustee to use the trust as their piggy bank.
 
-https://rippreport.com/striking-oil/
+{{< socialpreview url="https://rippreport.com/p/striking-oil/" >}}
 
 How did Conecuh County citizens not know about the discovery of oil. Did the county get any taxes or royalities? Where was the Conecuh County Commission?
 
