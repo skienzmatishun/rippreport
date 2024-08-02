@@ -1,6 +1,7 @@
 ---
 title: "LIAR LIAR PANTS ON FIRE"
 date: 2021-09-17
+thumbnail: "img/liar-liar-pants-on-fire.jpg"
 categories: 
   - freaky-friday
 authors: 
