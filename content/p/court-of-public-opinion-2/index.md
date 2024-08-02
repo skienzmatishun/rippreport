@@ -11,7 +11,7 @@ The Executive Director of the Alabama Ethics Commission, Mr Tom Albritton should
 
 If you are not familiar with this case please read this article first:
 
-https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 "While the parts of Mabel Amos’s will that established the trust appear to give great latitude to its three trustees in terms of making expenditures and selecting scholarship recipients, it does contain very strict language against “self-dealing” by trustees."
 
