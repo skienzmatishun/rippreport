@@ -38,11 +38,7 @@
               <div style="min-height: 200px;" class="widget__thumbnail">
                 {{- $thumbnail := .Params.thumbnail }}
 
-                {{- if in $thumbnail "rippreport.com" }}
-                  <img loading="lazy" src="/cdn-cgi/image/width=431,quality=75,format=auto/{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
-                {{- else }}
-                  <img loading="lazy" src="{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
-                {{- end }}
+                <img loading="lazy" src="{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
               </div>
             {{- end }}
             <p style="text-align:left;" class="widget__summary">{{ .Summary }}</p>
