@@ -1,6 +1,7 @@
 ---
 title: "STRAW MAN"
 date: 2019-08-21
+thumbnail: "img/straw-man.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -9,19 +10,8 @@ authors:
 
 Well folks you are going to have to get a Lagniappe paper or go on line to read this article, this is called investigative reporting. The article is a little long but tells a big story.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
-## ‘Straw man’ — Lawsuit reveals complex Baldwin business partnerships - Lagniappe Mobile
-
-### ‘Straw man’ — Lawsuit reveals complex Baldwin business partnerships - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-21-at-12.30.23-PM.png)
-
-By Rob Holbert & Gabe Tynes If you were nosing through Baldwin County land sales records and happened across a particular sale of 247 acres of real estate near Magnolia Springs, you’d have reason to believe Oct. 28, 2005 was a very good day for Hopper Land Development South LLC.  On that day, a company …
-
-Source: [lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/](https://lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/)
-
-</div>
 If you ever had any doubt about just how low down and corrupt Baldwin County is then here is the
 
 Proof. Businessman, lawyers, county commissioners, mortgage companies, real estate agents and developers pooled their greed to take advantage of an honest man who thought he was dealing with “friends.”
@@ -44,19 +34,8 @@ Dorsey went on to say, “That was the only time we built a straw company like t
 
 Straw buying is when an individual makes a purchase on behalf of someone, who otherwise would be unable to make the purchase, and this purchaser has no intention of using or controlling the purchased item. In many cases, straw buying is an illegal activity.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/lagniappe/"
 
-## LAGNIAPPE
-
-### LAGNIAPPE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/lagniappe-logo.png)
-
-This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper.
-
-Source: [rippreport.com/2019/07/31/lagniappe/](https://rippreport.com/lagniappe/)
-
-</div>
 This type of corruption is, unfortunately, common in Baldwin County. The Fairhope Airport Authority, Fairhope City Council, where three members have used their elected position for personal gain, The Mega-site and the Wharf in Orange Beach all have similar stories.
 
 THANKS Lagniappe

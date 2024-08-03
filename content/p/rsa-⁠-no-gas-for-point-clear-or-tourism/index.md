@@ -1,6 +1,7 @@
 ---
 title: "RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM"
 date: 2019-08-30
+thumbnail: "img/rsa-no-gas-for-point-clear-or-tourism.png"
 categories: 
   - citycouncil
 authors: 
@@ -9,34 +10,12 @@ authors:
 
 Several weeks ago Lagniappe published the story below:
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/point-clear-residents-fight-rsa-condo-proposal/article_05648c0a-523c-5ee1-925f-1f00f3d08c4c.html" >}}
 
-## Point Clear residents fight RSA condo proposal - Lagniappe Mobile
-
-### Point Clear residents fight RSA condo proposal - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/08/RSA-Condo-web.jpg)
-
-A controversial condo development in historic Point Clear is likely to be considered by the Baldwin County Planning & Zoning Commission Sept. 5, two months after the applicant tabled the request amid concerns from nearby homeowners. The Retirement Systems of Alabama (RSA), which purchased The Grand Hotel Golf Resort & Spa and nearby properties in …
-
-Source: [lagniappemobile.com/point-clear-residents-fight-rsa-condo-proposal/](https://lagniappemobile.com/point-clear-residents-fight-rsa-condo-proposal/)
-
-</div>
 This is a dispute between the Point Clear Properties Association and RSA, Retirement Systems of Alabama. RSA owns the Grand Hotel. They make the decisions, the management of the hotel only follows orders. Just like the toll bridge, Goat Hill telling us what to do.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/fingerprint/" >}}
 
-## FINGERPRINT
-
-### FINGERPRINT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/finger.jpg)
-
-After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy. It was a sight to behold every politician in Baldwin County showed…
-
-Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/fingerprint/)
-
-</div>
 The piece of property in question is the quaint marina next to the Grand Hotel, 1.27 acres. The homeowners association has done an excellent job of opposing the 12 unit condo project. A petition of over 400 signatures and an additional 100 letters have been submitted to the Baldwin County Planning Commission.
 
 The Homeowners Association, local residents, the Baldwin County Planning Commission and the Fairhope planning Board are all in opposition to the zoning change.

@@ -1,6 +1,7 @@
 ---
 title: "PUZZLE PIECES"
 date: 2019-08-24
+thumbnail: "img/puzzle-pieces.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -31,7 +32,7 @@ During his term, Bob Riley tried to impose the largest tax increase in the state
 
 One has to ask, why would Bob Riley and "investors", invest 300 million into modifying, and moving the container terminal farther south so it could handle ships that couldn't even make it up the Mobile ship channel at that time? It makes one wonder if the state didn't actually turn down the United Arab Emirates back in 2006, but maybe put the project on a shelf for a later date in the future...like today?
 
-[https://www.al.com/news/mobile/2019/06/alabama-state-port-authority-picks-new-deputy-director.html](https://www.al.com/news/mobile/2019/06/alabama-state-port-authority-picks-new-deputy-director.html)
+{{< socialpreview url="https://www.al.com/news/mobile/2019/06/alabama-state-port-authority-picks-new-deputy-director.html" >}}
 
 After watching this bridge controversy unfold, we have to question Kay Iveys involvement in this over the years.. I cant help but wonder if Kay Ivey was deliberately boosted into power to pass the high taxes needed to make such a port deal go down. It had to be done in such a way to minimize the risk of political fallout sticking to any republican candidate's that may follow after her term. Notice how many of Ivey's administration are ex Riley administrators? Notice how ex congressman Jo Bonner left a great job at the University of Alabama to become Kay Iveys Chief of Staff? Am i the only person to find that kinda strange? How about the fact that she ran for governor in 2010, only to mysteriously pull out of the race to run for the lieutenant governor's position? Did Bentley's victory get in the way of the port plan some how? How convenient wast it having Kay Ivey in that position after Bentley was "pressured" out of office by his fellow republicans? Did we possibly witness a political coup in our state?
 
