@@ -1,6 +1,7 @@
 ---
 title: "FOR THE RECORD — MEGA-MONEY"
 date: 2019-08-02
+thumbnail: "for-the-record-mega-money.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -9,19 +10,8 @@ authors:
 
 The Ripp Report has been covering the Baldwin County Mega-Site since it was purchased.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/mega-mistake/" >}}
 
-## MEGA-MISTAKE
-
-### MEGA-MISTAKE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/mega-oops-1.jpg)
-
-You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources…
-
-Source: [rippreport.com/2019/07/20/mega-mistake/](https://rippreport.com/mega-mistake/)
-
-</div>
 For years the site has been promoted as “shovel ready”. I guess that means you can use a shovel on the property because without a rail head and utilities, it can be hardly described as “shovel ready”.
 
 A special meeting of the County Commission, July 25th, has now taken action to qualify the site as “shovel ready”, by authorizing the Baldwin County Economic Development Alliance, big title lot of smoke, to proceed with 7 million dollars of needed infrastructure. Presently there is no contract or letter of intent, for the mega-site.

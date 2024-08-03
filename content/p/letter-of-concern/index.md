@@ -1,6 +1,7 @@
 ---
 title: "Letter of Concern"
 date: 2019-08-09
+thumbnail: "img/letter-of-concern.png"
 categories: 
   - thursday-thunder
 authors: 
