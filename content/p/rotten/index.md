@@ -26,7 +26,7 @@ Fairhope deserves better.
 
 The Judge and Jack have a special bond:
 
-{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/"
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
 Three years later and the Judge and Jack are at it again:
 
