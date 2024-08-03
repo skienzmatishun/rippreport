@@ -24,7 +24,7 @@ Four Fairhope city councilors effectively undermined the intent of more than 1,0
 
 Source: [lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/](https://lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/)
 
-</div>
+
 The most obvious reason for Fairhope to change the form of Government and to go to districts is the present council members. Watch the meeting and see if you think the “At Large” system is working! Districts will take out as many as 3 or 4 of the present Catalyst Council members, which is, in itself, reason enough to go to districts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ALL43krbuw" frameborder="0" allowfullscreen></iframe>
