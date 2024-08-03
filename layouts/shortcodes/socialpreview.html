@@ -2,16 +2,20 @@
 {{- $parsedURL := urls.Parse $url -}}
 {{- $baseURL := $parsedURL.Host -}}
 
-{{- $image := "" -}}  {{- /* Initialize $image as an empty string */ -}}
-{{- $title := "" -}} {{- /* Initialize $title as an empty string */ -}}
-{{- $description := "" -}} {{- /* Initialize $description as an empty string */ -}}
+{{- $image := "" -}}
+{{- $title := "" -}}
+{{- $description := "" -}}
 {{- if eq $baseURL "rippreport.com" -}}
     {{- $json := .Site.GetPage (printf "/p%s" $parsedURL.Path) -}}
     {{- if not $json -}}
         {{- $newURL := print "rippreport.com/p" $parsedURL.Path -}}
         {{- $json := .Site.GetPage $newURL -}}
     {{- end -}}
-    {{- $image = $json.Params.featured_image | absURL -}}
+    {{- with $json.Params.featured_image }}
+        {{- $image = . | absURL -}}
+    {{- else }}
+        {{- $image = "https://rippreport.com/img/placeholder.png" -}}
+    {{- end }}
     {{- $title = $json.Title -}}
     {{- $description = $json.Description -}}
 {{- else -}}
@@ -31,7 +35,9 @@
     {{- $description = $json.description -}}
 {{- end -}}
 
-{{- if $image -}}  {{- /* Check if $image is not empty before using it */ -}}
+
+
+{{- if $image -}}
     <div class="social-preview">
         <a href="{{ $url }}">
             <img loading="lazy" src="{{ $image }}" alt="{{ $title }}">
