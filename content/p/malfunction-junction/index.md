@@ -1,6 +1,7 @@
 ---
 title: "MALFUNCTION JUNCTION"
 date: 2020-01-08
+thumbnail: "img/malfunction-junction.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -13,19 +14,8 @@ This is a very dangerous intersection and accidents are common. Use extreme caut
 
 Please read this article written almost a year ago:
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/"
 
-## CATALYST DOES FAIRHOPE
-
-### CATALYST DOES FAIRHOPE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/cross-out.jpg)
-
-Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to…
-
-Source: [rippreport.com/2018/04/20/catalyst-does-fairhope/](https://rippreport.com/catalyst-does-fairhope/)
-
-</div>
 The apartments will soon be completed and another 48 units have been approved on Parker Road. The neighborhood of 16 houses and roughly 50 people will grow to 500 to 700 more people and 400 plus cars exiting Parker Road and Publix. These cars will represent several trips daily, impacting the intersection by an equivalent of over a 1000 cars, a day, once construction is complete.
 
 Please remember this when the 2020 Fairhope Municipal Elections are held Aug. 25th. It is in your best interest to vote this council out. Replace the 5 Catalyst Council members with women, young candidates and minorities.

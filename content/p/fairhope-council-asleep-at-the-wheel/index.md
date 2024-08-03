@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE COUNCIL ASLEEP AT THE WHEEL"
 date: 2020-03-13
+thumbnail: "img/fairhope-council-asleep-at-the-wheel.png"
 categories: 
   - citycouncil
 authors: 
