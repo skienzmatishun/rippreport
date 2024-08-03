@@ -5,19 +5,22 @@
 {{- $image := "" -}}
 {{- $title := "" -}}
 {{- $description := "" -}}
+
 {{- if eq $baseURL "rippreport.com" -}}
     {{- $json := .Site.GetPage (printf "/p%s" $parsedURL.Path) -}}
     {{- if not $json -}}
         {{- $newURL := print "rippreport.com/p" $parsedURL.Path -}}
         {{- $json := .Site.GetPage $newURL -}}
     {{- end -}}
-    {{- with $json.Params.featured_image }}
-        {{- $image = . | absURL -}}
+
+    {{- with $json.Resources.GetMatch "featured-image*" -}}
+        {{- $image = .Permalink -}}
     {{- else }}
         {{- $image = "https://rippreport.com/img/placeholder.png" -}}
     {{- end }}
     {{- $title = $json.Title -}}
     {{- $description = $json.Description -}}
+
 {{- else -}}
     {{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
     {{- $json := getJSON $workerURL -}}
