@@ -11,23 +11,8 @@ Congratulations to all Nappie nominees and winners.
 
 Fact:
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/complete-list-2018-nappie-award-winners/article_5217d9c6-250c-5d1f-ad19-26716fe23fe3.html" >}}
 
-## TWO YEARS IN A ROW
-
-2018 Hardest Working Elected Official- Eastern Shore Fairhope Mayor Karin Wilson
-
-## COMPLETE LIST — 2018 Nappie Award Winners - Lagniappe Mobile
-
-### COMPLETE LIST — 2018 Nappie Award Winners - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2018/07/Cover_071818web.jpg)
-
-Thanks a million! TOTAL VOTES: 1,075,856 We made some changes to the Nappie Awards this year and, quite honestly, we wondered if it would curb your enthusiasm. We cut 32 categories and limited voting to once per day, instead of once per hour or unlimited voting as it had been in years past.  But after …
-
-Source: [lagniappemobile.com/complete-list-2018-nappie-award-winners/](https://lagniappemobile.com/complete-list-2018-nappie-award-winners/)
-
-</div>
 Mayor Wilson ran for office with the promise to fix the sewer and utility infrastructure. Fairhope and the Eastern Shore have a sewer problem that was developed over many years of neglect of previous administrations. The Fairhope City Council has hindered the infrastructure projects by simple obstruction and procrastination.
 
 Please read the Mayor’s comments after the article below. Mayor Wilson is doing what she promised and the public needs to know that she is the FIRST Mayor in Fairhope to address the situation.

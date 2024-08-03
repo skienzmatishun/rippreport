@@ -30,7 +30,7 @@ The Council almost succeeded in the transfer had it not been for several citizen
 
 The Council is using the narrative that the land was purchased for a park. This is categorically untrue, it was part of a legal settlement where the city LOST and had to buy the property.
 
-{{< socialpreview url="https://rippreport.com/p/deliberate-distortion-or-twisting-of-meaning/"
+{{< socialpreview url="https://rippreport.com/p/deliberate-distortion-or-twisting-of-meaning/" >}}
 
 The Council and Weeks Bay are now trying to claim that the best use of this city land is to insure that the city has little or no control over it for ETERNITY. Stand up Fairhope you are being robbed without a gun.
 
