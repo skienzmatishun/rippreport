@@ -37,9 +37,8 @@
             {{- if .Params.thumbnail }}
               <div style="min-height: 200px;" class="widget__thumbnail">
                 {{- $thumbnail := .Params.thumbnail }}
-                {{- $thumb := replace $thumbnail ".jpg" "-thumb.jpg" }}
-                {{- $thumb := replace $thumb ".png" "-thumb.png" }}
-                <img loading="lazy" src="{{ $thumb | absURL }}" alt="Thumbnail" class="widget__thumbnail-image">
+
+                <img loading="lazy" src="/cdn-cgi/image/width=400,quality=70/{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
               </div>
             {{- end }}
             <p style="text-align:left;" class="widget__summary">{{ .Summary }}</p>
