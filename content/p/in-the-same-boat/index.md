@@ -14,9 +14,8 @@ Baykeeper never did a damn thing about the Publix project, flooding of Fly Creek
 
 Private citizens sued the City over some of these issues while Baykeeper’s phone was off the hook. Mayor Can’t and Baykeepers did nothing but use air and talk “crap”.
 
-{{< socialpreview url="https://rippreport.com/p/fairhope-sewer-backstory/"
+{{< socialpreview url="https://rippreport.com/p/fairhope-sewer-backstory/" >}}
 
-</div>
 Now the Director of Baykeeper Casi Callaway is in damage control for grabbing headlines and NOT using the phone. This is a typical Casi trick, it is strictly a political Baykeeper promotion She said she sent everyone a letter, I am hurt not to have received my copy, but not surprised, she did not answer the phone either.
 
 <div class="link-preview">
