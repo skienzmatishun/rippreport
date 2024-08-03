@@ -34,7 +34,7 @@ Dorsey went on to say, “That was the only time we built a straw company like t
 
 Straw buying is when an individual makes a purchase on behalf of someone, who otherwise would be unable to make the purchase, and this purchaser has no intention of using or controlling the purchased item. In many cases, straw buying is an illegal activity.
 
-{{< socialpreview url="https://rippreport.com/p/lagniappe/"
+{{< socialpreview url="https://rippreport.com/p/lagniappe/" >}}
 
 This type of corruption is, unfortunately, common in Baldwin County. The Fairhope Airport Authority, Fairhope City Council, where three members have used their elected position for personal gain, The Mega-site and the Wharf in Orange Beach all have similar stories.
 
