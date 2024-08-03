@@ -1,6 +1,7 @@
 ---
 title: "BACKWOODS MEDIA AD"
 date: 2020-02-28
+thumbnail: "img/backwoods-media-ad.jpg"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "LAGNIAPPE"
 date: 2019-08-01
+thumbnail: "img/lagniappe.png"
 categories: 
   - wonderful-wednesday
 authors: 
