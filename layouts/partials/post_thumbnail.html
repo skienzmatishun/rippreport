@@ -46,7 +46,7 @@
       <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
         <figure class="thumbnail">
           {{- if $thumbnail }}
-            <div class="thumbnail__video" style="background-image: url('{{ $thumbnail | relURL }}'); background-size: cover; background-position: center;">
+            <div class="thumbnail__video" style="background-image: url('{{ $thumbnail | relURL }}'); background-size: contain; background-position: center;">
               <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy" style="visibility: hidden;">
             </div>
           {{- end }}
