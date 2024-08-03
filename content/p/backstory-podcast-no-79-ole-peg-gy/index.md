@@ -1,6 +1,7 @@
 ---
 title: "Backstory Podcast No 79 'Ole Peg-gy"
 date: 2021-04-11
+youtube: "WX0IQXc12g"
 categories: 
   - backstory-podcast
 tags: 
@@ -21,8 +22,6 @@ authors:
 ---
 
 134,200,000 SARS-COV-2 cases confirmed worldwide with a total of 2,906,785 deaths; with 31,280,000 cases in the USA with 560,000 deaths.
-
-https://www.youtube.com/watch?v=\_WX0IQXc12g
 
 Alabama Secretary of State and Senate hopeful John Merrill blew his political wad this week when he announced that he “did in fact have an affair” with the raunchiest texting woman since Raines had that embarrassing incident with…
 

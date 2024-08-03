@@ -1,13 +1,13 @@
 ---
 title: "A Vintage Year"
 date: 2021-07-23
+youtube: "mBEOAwxxRSA"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBEOAwxxRSA" frameborder="0" allowfullscreen></iframe>
 
 192,939,490 SARS-COV-2 cases confirmed worldwide with a total of 4,140,700 deaths; with 34,316,321cases in the USA with 610,387 deaths.
 

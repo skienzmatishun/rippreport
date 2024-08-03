@@ -1,6 +1,7 @@
 ---
 title: "Backstory Podcast No. 76 A Plague of Apathy"
 date: 2021-03-21
+youtube: "XcGclWOqLSs"
 categories: 
   - backstory-podcast
 tags: 
@@ -25,7 +26,6 @@ Fairhope Bar Owner Ronan McSharry, of McSharry Irish Pub fame, dare I say: our m
 
 If you aren't disgusted maybe you don't understand what happened here in Baldwin County, Alabama.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcGclWOqLSs" frameborder="0" allowfullscreen></iframe>
 
 121,958,204 SARS-COV-2 cases confirmed worldwide with a total of 2,693,889 deaths; with 29,674,098 cases in the USA with 539,835 deaths; 510,579 cases in Alabama with 10,429 deaths; 1.7 M vaccine doses delivered, 1.2 M administered (updated information not available this week).
 

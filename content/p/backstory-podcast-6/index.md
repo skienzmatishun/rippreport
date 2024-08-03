@@ -7,4 +7,4 @@ authors:
   - admin
 ---
 
-\[embedyt\] https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg&layout=gallery\[/embedyt\]
+https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg&layout=gallery

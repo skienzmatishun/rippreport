@@ -30,4 +30,4 @@ Dr. Robert Bentley got the vaccine to the amusement of no one.
 
 The Nashville Christmas Day bombing tragedy (5G) and The Pope's new Instagram Bikini Model pal.
 
-\[embedyt\] https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg\[/embedyt\]
+https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg\

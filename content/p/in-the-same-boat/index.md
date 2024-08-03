@@ -18,19 +18,8 @@ Private citizens sued the City over some of these issues while Baykeeper’s pho
 
 Now the Director of Baykeeper Casi Callaway is in damage control for grabbing headlines and NOT using the phone. This is a typical Casi trick, it is strictly a political Baykeeper promotion She said she sent everyone a letter, I am hurt not to have received my copy, but not surprised, she did not answer the phone either.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-mayor-brings-dispute-with-baykeeper-into-limelight/article_0cfeb7a2-076d-51ce-91a2-42bbeefcb27d.html" >}}
 
-## Fairhope mayor brings dispute with Baykeeper into limelight - Lagniappe Mobile
-
-### Fairhope mayor brings dispute with Baykeeper into limelight - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2017/12/Karin-Wilson-web.jpg)
-
-To be fair, maybe Mobile Baykeeper Executive Director Casi Callaway could have toned down the rhetoric in a July 30 news release about a viral video purporting to show untreated sewage floating on the surface of Mobile Bay. To be equally fair, maybe Fairhope Mayor Karin Wilson could’ve used a different approach than to — …
-
-Source: [lagniappemobile.com/fairhope-mayor-brings-dispute-with-baykeeper-into-limelight/](https://lagniappemobile.com/fairhope-mayor-brings-dispute-with-baykeeper-into-limelight/)
-
-</div>
 So after releasing a very negative media report about Fairhope and receiving, just blow back, Casi decides that she must address the Fairhope City Council and dig her hole a little deeper.
 
 Normal procedure is for Public Participation to be at the beginning of the council meeting, for 3 minutes, on agenda items only. Public participation at the end of the meeting affords citizens 3 minutes to discuss non agenda items.

@@ -1,13 +1,14 @@
 ---
 title: "No 98 - Ethical Abortion"
 date: 2021-09-04
+youtube: "EoKcyj-qdh8"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EoKcyj-qdh8" frameborder="0" allowfullscreen></iframe>
+
 
 39.5 Million SARS-COV-2 infected in the USA with 643,00 deaths. The Delta variant has Gulf Coastal Hospitals are out of ICU beds and the Feds are in Foley helping out.
 
