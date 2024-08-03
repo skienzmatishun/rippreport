@@ -13,11 +13,7 @@
         {{- $json := .Site.GetPage $newURL -}}
     {{- end -}}
 
-    {{- with $json.Resources.GetMatch "featured-image*" -}}
-        {{- $image = .Permalink -}}
-    {{- else }}
-        {{- $image = "https://rippreport.com/img/placeholder.png" -}}
-    {{- end }}
+    {{- $image = $json.Params.thumbnail | absURL -}}
     {{- $title = $json.Title -}}
     {{- $description = $json.Description -}}
 
