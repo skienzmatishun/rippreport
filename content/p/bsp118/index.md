@@ -1,13 +1,14 @@
 ---
 title: "The Smokey and The Bandit Run"
 date: 2022-03-09
+youtube: "KXxEGDFOCqc"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KXxEGDFOCqc" frameborder="0" allowfullscreen></iframe>
+
 
 For the Record: 1. Harry Still is a Republican 2. Francis Paul Ripp is an Independent 3. Raines Rushin is a Democrat. The purpose of Backstory Podcast was to create a space for honest debate with a range of opinions and learned debate. And to highlight the level of public corruption in Alabama that Mr. Ripp runs across in his Not For Profit Consumer Protection Agency and Mr. Still observes in his Law Practice.
 

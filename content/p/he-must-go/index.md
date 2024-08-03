@@ -1,13 +1,12 @@
 ---
 title: "He Must Go"
 date: 2022-03-31
+youtube: "k7zFLkkpXHQ"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k7zFLkkpXHQ" frameborder="0" allowfullscreen></iframe>
 
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.
 

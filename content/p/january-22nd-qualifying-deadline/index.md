@@ -1,13 +1,12 @@
 ---
 title: "January 22nd Qualifying Deadline"
 date: 2022-01-08
+youtube: "-1maB8qyziM"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-1maB8qyziM" frameborder="0" allowfullscreen></iframe>
 
 58.6 Million infected in the USA with SARS-COV-2 with 834,321 deaths, 2,000 new cases in Baldwin County this week alone. The Omicron variant is rampant in Alabama with UAB projecting a long January for our health care workers.
 

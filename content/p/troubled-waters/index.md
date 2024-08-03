@@ -2,13 +2,12 @@
 title: "Troubled Waters"
 date: 2021-12-13
 thumbnail: "img/troubled-waters.jpg"
+youtube: "C26QSW7rBaI"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C26QSW7rBaI" frameborder="0" allowfullscreen></iframe>
 
 From the ill fated Alabama Port Authority "wetlands habitat/spoilage disposal" to allegations of a boat accident coverup by the City of Fairhope Police Department for a prominent Judge, Gambling America's Amazon (Alabama Power Company's cap-in-place of million of tons of Coal Ash in the Delta), the amphibious boat landing assault caught on video related to a local football coach (not guilty btw), a bridge battle at the beach, a mullet bonanza, and an initiative to protect a 10,000 year old cypress forest 30 miles offshore in 50 feet of water...this podcast has it all.
 
