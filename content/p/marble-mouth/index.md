@@ -1,6 +1,7 @@
 ---
 title: "MARBLE MOUTH"
 date: 2020-01-15
+thumbnail: "img/marble-mouth.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -21,19 +22,8 @@ Councilman Conyers is the nice guy who refuses to see anything clearly for fear 
 
 Read this article printed 11/11/16
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/dont-throw-rocks-if-you-live-in-a-glass-house/" >}}
 
-## DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
-
-### DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/11/broken-glass.jpg)
-
-Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and…
-
-Source: [rippreport.com/2016/11/11/dont-throw-rocks-if-you-live-in-a-glass-house/](https://rippreport.com/dont-throw-rocks-if-you-live-in-a-glass-house/)
-
-</div>
 Council President Burrell has been Council President for over 7 years, and there lies the problem. The Council votes in opposition of the Mayor and staff regardless the issue.
 
 The council represents a unit, CATALYST, and vote as a unit.
@@ -52,19 +42,8 @@ That is like 15 million for an acre. What they are not telling you is that the o
 
 The owner, Mr Bowers, is fed up with the Council and their lies.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/article_5f773383-66ba-541f-9aad-c3858f4da9da.html" >}}
 
-## Fairhope City Council approves raises for elected officials, property purchase, boutique hotel - Lagniappe Mobile
-
-### Fairhope City Council approves raises for elected officials, property purchase, boutique hotel - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/09/Burmeister-property.jpg)
-
-Against Mayor Karin Willson’s request, the Fairhope City Council declined to table two contentious agenda items Monday night and voted to pass them instead. But neither vote was unanimous. For the first, a resolution to increase both the mayor’s and council’s salary for the next term, Wilson urged the council to wait until the city …
-
-Source: [lagniappemobile.com/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/](https://lagniappemobile.com/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/)
-
-</div>
 “I”, MARBLE MOUTH, “was told today from Mr. Bowers that he didn’t feel it was appropriate to hold up this purchase while he was forced to listen to the city discuss what was the best use of his property. And I don’t know any other way to say it than that.”
 
 Jay Robinson’s quotes in the article sound just like a lawyer with his mouth full of marbles.
@@ -89,23 +68,8 @@ $2.65 million for land that is now going to be leased for farmland at $9,000 tho
 
 > 6\. Ordinance – An Ordinance to declare that certain real property (105 Farmable Acres) of the City of Fairhope is temporarily designated surplus and not needed for public or municipal purposes in response to an offer to lease property yearly from January 1 through December 31 for one year with four one-year options.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
-## THAT IS YOUR TAX MONEY!
-
-Don’t forget how Burrell is controlling the Airport and refusing to allow the city title of the land that TAXPAYERS have paid for.
-
-## YOU DON’T KNOW JACK
-
-### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/11/YOU-DONT-KNOW-JACKLarge.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
-
-</div>
 New Year Prediction: The City Council, Catalyst, and the status quo are now going to obstruct the use of the Triangle.
 
 Get ready folks this is going to be so much BS you will need boots. Marble Mouth will be at his best.
