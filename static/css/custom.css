@@ -371,7 +371,7 @@ background-color:#f5f5f5;
     margin-top: 10px;
     background-position: center;
     background-size: 50px;
-
+background-color:transparent !important;
 }
 
 .sidebar {
