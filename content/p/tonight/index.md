@@ -1,8 +1,9 @@
 ---
 title: "TONIGHT"
 date: 2019-10-23
+thumbnail: "img/tonight.jpg"
 categories: 
-  - wonderful-wednesday
+  - event
 authors: 
   - admin
 ---
