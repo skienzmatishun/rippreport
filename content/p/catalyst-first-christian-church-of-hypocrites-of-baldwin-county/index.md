@@ -1,6 +1,7 @@
 ---
 title: "CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY"
 date: 2018-07-15
+thumbnail: "img/catalyst-first-christian-church-of-hypocrites-of-baldwin-county.jpg"
 categories: 
   - sunday-sermon
 authors: 

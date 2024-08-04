@@ -1,6 +1,7 @@
 ---
 title: "BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)"
 date: 2018-07-13
+thumbnail: "img/baldwin-county-citizens-for-government-accountability-cga.jpg"
 categories: 
   - Special-Report
 authors: 
@@ -35,17 +36,6 @@ ALABAMA ACTION COMMITTEE FOR RURAL ELECTRIFICATION (Baldwin County EMC) 19600 ST
 
 ELLIOTT IS NOW APPROACHING 600,000 DOLLARS IN POLITICAL CONTRIBUTIONS, FOR A JOB THAT PAYS 42,000 A YEAR CAN YOU SAY BOUGHT AND PAID FOR? (The Ripp Report)
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/catalyst-sold-to-the-highest-bidder/" >}}
 
-## CATALYST – SOLD TO THE HIGHEST BIDDER
-
-### CATALYST – SOLD TO THE HIGHEST BIDDER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/07/chris-elliott-fairhope.jpg)
-
-All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
-
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
-
-</div>
 [https://www.facebook.com/groups/1593293237549165/permalink/2123895317822285/](https://www.facebook.com/groups/1593293237549165/permalink/2123895317822285/)

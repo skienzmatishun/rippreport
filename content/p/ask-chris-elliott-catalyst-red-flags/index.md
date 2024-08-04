@@ -1,6 +1,7 @@
 ---
 title: "ASK CHRIS ELLIOTT - CATALYST RED FLAGS"
 date: 2018-07-16
+thumbnail: "img/ask-chris-elliott-red-flags.jpg"
 categories: 
   - monday-madness
 authors: 
