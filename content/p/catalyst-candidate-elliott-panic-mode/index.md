@@ -56,4 +56,4 @@ Elliott has panicked and licked the boots of Mayor Kennon and Mayor Craft who wa
 
 ## CATALYST IS A CANCER
 
-{{< socialpreview url="https://rippreport.com/catalyst-vs-the-people/" >}}
+{{< socialpreview url="https://rippreport.com/p/catalyst-vs-the-people/" >}}

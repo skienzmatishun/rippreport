@@ -1,6 +1,7 @@
 ---
 title: "BURY THE BODY"
 date: 2018-10-01
+thumbnail: "img/bury-the-body.jpg"
 categories: 
   - monday-madness
 authors: 
@@ -13,6 +14,6 @@ The Council has already started blaming the City Clerk and the Mayor. The Counci
 
 The below documents represent what The Ripp Report has been able to obtain so far.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2018/10/Emergency-Petition.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2018/10/Emergency-Petition.pdf
 
 Fairhope cut the head off the snake, now we need to get rid of the body.
