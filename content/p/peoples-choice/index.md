@@ -20,7 +20,7 @@ Elliott said his money is coming from Realtor’s, Contractors and Road Builders
 
 Orange Beach and Gulf Shores voters, for Jeff “Judas” Boyd, were sold out. Boyd campaigned hard against Elliott only to lose the primary and become Kennon’s yard boy. He back stabbed Big Earl, he should get jail time for that, and many residents of both communities. Judas is now knocking on doors for Elliott and leaving sticky notes asking for votes for Elliott. He has become a member of Catalyst.
 
-{{< socialpreview url="https://rippreport.com/p/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/"
+{{< socialpreview url="https://rippreport.com/p/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/" >}}
 
 Baldwin County can do better than a bought and paid for Catalyst Candidate.
 

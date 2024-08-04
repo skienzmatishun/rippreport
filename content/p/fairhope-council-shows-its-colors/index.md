@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE COUNCIL SHOWS IT'S COLORS"
 date: 2018-09-28
+thumbnail: "img/fairhope-council-showing-its-colors.jpg"
 categories: 
   - citycouncil
 authors: 

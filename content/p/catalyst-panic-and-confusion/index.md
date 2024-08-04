@@ -1,6 +1,7 @@
 ---
 title: "CATALYST PANIC and CONFUSION"
 date: 2018-09-26
+thumbnail: "img/catalyst-panic-and-confusion.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
