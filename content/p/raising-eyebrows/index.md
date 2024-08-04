@@ -22,7 +22,7 @@ The article below is from 2011, by former AL.COM reporter Russ Henderson. thefai
 
 The District Attorney also “assisted” in the decision to delay the election. District Attorney Robert Wilters, a strong supporter of Catalyst, also agreed that the election should be delayed.
 
-{{< socialpreview url="https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/"
+{{< socialpreview url="https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/" >}}
 
 They are not called good ole boys for nothing. Catalyst has a strong throat hold on Baldwin County and they want Fairhope back in their pocket.
 
