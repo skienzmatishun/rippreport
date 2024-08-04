@@ -1,7 +1,7 @@
 ---
 title: "FOR THE RECORD — MEGA-MONEY"
 date: 2019-08-02
-thumbnail: "for-the-record-mega-money.jpg"
+thumbnail: "img/for-the-record-mega-money.jpg"
 categories: 
   - freaky-friday
 authors: 
