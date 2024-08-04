@@ -1,7 +1,7 @@
 ---
 title: "I QUIT"
 date: 2021-02-26
-thumbnail: "img/i-quit-and-will-quit-again.jpg"
+thumbnail: "img/I-quit-and-will-quit-again.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -22,11 +22,11 @@ authors:
 
 The Fairhope City Council that served during the last cycle, 2016/2020 was the least productive of any council in recent memory. Most of the council,3 B’s, used their public office for personal gain.
 
-https://rippreport.com/strawman-spiderweb/
+{{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}
 
 This council is starting out even worse and a prediction I made before the election, that Robert Brown would not serve out his elected term, is now a reality. He QUIT.
 
-https://rippreport.com/the-fairhope-jester/
+{{< socialpreview url="https://rippreport.com/p/the-fairhope-jester/" >}}
 
 Mr Brown announced Monday night that he was resigning from office, however what he actually did was quit. When a person resigns from office or a job they give a notice, 2 weeks or a month. Mr Brown quit, no notice, no notice of time, no real explanation. He quit, announced it was his last meeting, color me and my bible gone!
 
@@ -36,7 +36,7 @@ Council President Jack Burrell announced the “resignation” is effective imme
 
 Mr. Brown quit , then in the same breath he recommends Jay, Marblemouth, Robinson, who was the only councilman NOT to run for office this cycle. So Brown quits and recommends someone who did not run for re-election, WTH. Sounds stupid and it is why some people refer to Fairhope as Fauxhope. The silent majority of Fairhope is soundly asleep.
 
-https://rippreport.com/marble-mouth/
+{{< socialpreview url="https://rippreport.com/p/marble-mouth/" >}}
 
 When Council President Burrell was all for Marblemouth and never mentioned any other individuals, or any of the candidates that ran for City Council in the last election, as a possibility of filling the vacancy. The fix is in, some people are speculating that this plan was hatched before the last election, under the direction of CSB. Read that last sentence again, please.
 
@@ -44,7 +44,7 @@ Some people believe maybe Brown’s Ethics complaint caught with him so he baile
 
 I will bet anyone 1000 dollars that in the next couple of weeks we will find out Brown and Burrell are lying. I know a little more than I am telling you, because I want to see the news trickle out, from citizens, that is if they wake up.
 
-https://rippreport.com/secret-society/
+{{< socialpreview url="https://rippreport.com/p/secret-society/" >}}
 
 This has CATALYST/SCOTT BOONE CONSULTING, CSB, dirty hands all over it. Jack Burrell will tell you who will fill Mr Browns seat, CSB will tell Jack, and the bobble head council will kiss Jack’s ring.
 

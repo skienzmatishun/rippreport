@@ -1,7 +1,7 @@
 ---
 title: "ALABAMA SUICIDE"
 date: 2021-01-08
-thumbnail: "alabama-suicide.png"
+thumbnail: "img/alabama-suicide.png"
 categories: 
   - freaky-friday
 tags: 
@@ -30,7 +30,7 @@ The Electoral College confirmed the Biden/Harris win. This was delayed by the as
 
 Alabama got played again. Politicians in Alabama cannot think more than a few hours ahead in time. Alabama is the prime target for finding political tools that will stand up and make fools of themselves for the benefit of other politicians, on camera, for politicians, that do not even know their names and could care less about Alabama.
 
-[https://www.al.com/opinion/2021/01/forget-how-it-happened-the-future-is-clear.html](https://www.al.com/opinion/2021/01/forget-how-it-happened-the-future-is-clear.html)
+{{< socialpreview url="https://www.al.com/opinion/2021/01/forget-how-it-happened-the-future-is-clear.html" >}}
 
 Congressmen, Barry Moore, Mike Rogers, Jerry Carl, Robert Aderholt and Gary Palmer all raised their hand to contest the Electoral College. They were joined by Alabama’s newly elected Senator Tommy Tuberville. Tuberville and Carl have just been sworn into office and their first days in Washington they decide to etch their names in infamy by blindly following the leader.
 

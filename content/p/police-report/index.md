@@ -38,6 +38,6 @@ The Fairhope City Council was made aware of the police report weeks ago and choo
 
 The council has refused to answer to any accountability, transparency is a black hole and ethics is a fantasy. If you are on the city council in Fairhope then you can act with impunity. Another good example is councilman Robert Brown.
 
-{{< socialpreview url="https://rippreport.com/fairhope-jester/" >}}
+{{< socialpreview url="https://rippreport.com/p/fairhope-jester/" >}}
 
 Mr. Jack Burrell should immediately step down from the position of President of the Fairhope City Council, as well as his board position with the Fairhope Airport Authority. These are the actions of a Catalyst mindset, elect Catalyst candidates and you will get more of the same.

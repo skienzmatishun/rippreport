@@ -1,6 +1,7 @@
 ---
 title: "ROLL OF THE DICE"
 date: 2022-03-04
+thumbnail: "img/roll-of-the-dice.jpg"
 categories: 
   - elections
 authors: 
@@ -9,7 +10,7 @@ authors:
 
 Here we go again, for over 20 years Alabama has been discussing a lottery. All that time while they were discussing gambling, Alabama was exporting dollars to other state’s lottery.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsouthunionstreet%2Fposts%2F5192926497392531&amp;show_text=true&amp;width=500" width="500" height="603" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/2022/03/04/alabama-senator-files-lottery-gambling-bill/9365483002/" >}}
 
 “The Legislative Services Agency estimated last year that a lottery would bring $272 million to $358 million to the state annually.”
 

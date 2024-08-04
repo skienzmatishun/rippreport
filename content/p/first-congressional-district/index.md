@@ -17,7 +17,7 @@ CARL IS NOT CATALYST, HIS OPPONENT, “Lowtower” IS CATALYST, “The status qu
 
 “The AL-1 race has evolved into a battle between the activist and business wings of the Republican Party. The Business Council of Alabama, Alabama Farmers Federation and Byrne himself are backing Carl, while the conservative flame Club for Growth is backing Hightower. The Washington-based Club is expected to spend more than $1 million on the race for ads supporting Hightower and attacking Carl.”
 
-https://www.aldailynews.com/u-s-chamber-endorses-jerry-carl-in-al-1/
+{{< socialpreview url="https://www.aldailynews.com/u-s-chamber-endorses-jerry-carl-in-al-1/" >}}
 
 PLEASE VOTE FOR JERRY CARL JULY 14, 2020
 
