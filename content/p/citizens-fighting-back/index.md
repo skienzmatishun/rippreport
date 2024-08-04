@@ -1,6 +1,7 @@
 ---
 title: "CITIZENS FIGHTING BACK"
 date: 2018-09-19
+thumbnail: "img/citizens-fighting-back.png"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -27,49 +28,16 @@ Over 625 citizens have signed petitions and over 94% of those polled are against
 
 The same thing happened in Fairhope where citizens were able to do what their elected city council could not.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/victory/" >}}
 
-## VICTORY
-
-### VICTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/09/Confetti_5879576562.jpg)
-
-Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
-
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
-
-</div>
 In Fairhope the “Catalyst” Council President mocked the citizens and Mayor when the citizens started asking questions.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/fairhope-citizens-citizens-citizens/" >}}
 
-## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-
-### FAIRHOPE “CITIZENS CITIZENS CITIZENS” | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/Alarm_Clock_3.jpg)
-
-FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
-
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
-
-</div>
 The same “Catalyst” Council and Council President even took the extreme move of not allowing, yours truly, the ability to speak at a public forum.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
-## SEE YA IN COURT JACK
-
-### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/court.jpg)
-
-PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
-
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
-
-</div>
 These small town municipalities have counted on the citizens NOT participating. The table is shifting and the good ole boy mentality is eroding with each new resident to Baldwin County.
 
 ## REMEMBER YOU VOTED THEM IN SO YOU CAN VOTE THEM OUT
