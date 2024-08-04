@@ -48,11 +48,11 @@ MIN:34:15 to MIN: 38:15
 
 The council and the city attorney remained mute, not even passing gas, when asked about when the McSharry assault charges would be filed.
 
-https://rippreport.com/women-stand-together/
+{{< socialpreview url="https://rippreport.com/p/women-stand-together/" >}}
 
 Last week at council meeting, during public participation, Johnathan Lucia complained about the Fly Creek Apartments being flooded, something that was predicted years ago. If you live in Fairhope then you are aware of how controversial the apartments have been. Council President Burrell blew Mr Lucia better than Sally. Burrell played dumb, which was easy, and passed the buck to the City Attorney and current Mayor. It has been reported that Burrell has been boasting that he will remain Council President, as he has for 8 years, and that he will be the next Mayor in 2024. Here we go again.
 
-https://youtu.be/\_VcXYeVh6UY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_VcXYeVh6UY?si=y2o3Tmh2taGi7ikQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 OCTOBER 6th Spanish Fort and Daphne have runoff elections for Mayor. Spanish Fort has Rebecca Cornelius running for Mayor against “Slappin” McMillian. In this election you have a choice to vote for a “man”?, that assaults women or a women to replace him. Use your head.
 
