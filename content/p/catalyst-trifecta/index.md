@@ -1,6 +1,7 @@
 ---
 title: "CATALYST TRIFECTA"
 date: 2018-07-10
+thumbnail: "img/catalyst-trifecta.jpg"
 categories: 
   - terrible-tuesday
 tags: 
@@ -37,8 +38,6 @@ Please contact us through email fpripp1@gmail.com or through Facebook The Ripp R
 
 A special thank you to the Ripp Report’s most loyal contributor, for his latest contribution.
 
-<div class="link-preview">
-
 ## CATALYST TRIFECTA
 
 Catalyst is based out of Fairhope and they are still reeling from losing the Mayor’s election in Fairhope. Catalyst is quite simply a good ole boys club for the entitled, corrupt politicians and the many business that feed off the tax payer. Catalyst is responsible for the obstruction of Fairhope Government and the personal assaults on the Mayor. Their day is coming.
@@ -49,17 +48,8 @@ CATALYST CANDIDATE Chris Elliott running against David Northcutt, has hit the po
 
 They all have one thing in common, Elliott OWES them and Montgomery has his testicles. Elliott, The Tax Man, has a 12% gas tax coming your way, if elected, to pay for two bridges.
 
-## CATALYST – SOLD TO THE HIGHEST BIDDER
+{{< socialpreview url="https://rippreport.com/p/catalyst-sold-to-the-highest-bidder/" >}}
 
-### CATALYST – SOLD TO THE HIGHEST BIDDER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/07/chris-elliott-fairhope.jpg)
-
-All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and…
-
-Source: [rippreport.com/2018/07/09/catalyst-sold-to-the-highest-bidder/](https://rippreport.com/catalyst-sold-to-the-highest-bidder/)
-
-</div>
 Elliott has raised 500,000 dollars in his campaign and the figure could go as high as 700,000 for a job that pays 42,000. That should be reason enough NOT to vote for him.
 
 David Northcutt is the people’s choice and has not sold out to Catalyst.
@@ -68,49 +58,16 @@ CATALYST CANDIDATE MILLIONAIRE Tucker Dorsey may be the most disliked politician
 
 PLEASE VOTE BILLIE JO UNDERWOOD, She is not a lemon.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/million-dollar-swimming-pool/" >}}
 
-## MILLION DOLLAR SWIMMING POOL
-
-### MILLION DOLLAR SWIMMING POOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/07/tucker-dorsey-chris-elliott.jpg)
-
-Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what…
-
-Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/million-dollar-swimming-pool/)
-
-</div>
 CATALYST “QUEEN” CANDIDATE Judge Michelle Thomason, the most infamous and incompetent Family Court Judge in Baldwin County.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/catalyst-queen-remember-family-court/" >}}
 
-## CATALYST QUEEN – REMEMBER FAMILY COURT
-
-### CATALYST QUEEN – REMEMBER FAMILY COURT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/04/witch-1.jpg)
-
-Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
-
-Source: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
-
-</div>
 Please, this is a Judge that needs to be kicked to the curb. You will be preforming a public service to Not vote for her. If you, or your children, have been a victim of this, so called Judge, do your best to use social media or whatever means possible to let other victims know that now is their opportunity to flush her away with Elliott and Dorsey.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/catalyst-judges/" >}}
 
-## CATALYST JUDGES
-
-### CATALYST JUDGES | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/05/judge-thomason-fairhope.jpg)
-
-Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment.
-
-Source: [rippreport.com/2018/05/29/catalyst-judges/](https://rippreport.com/catalyst-judges/)
-
-</div>
 Vote for Christy Olinger Edwards for Court of Civil Appeals, Judge Place 1, Christy does not have the baggage Michelle has.
 
 Baldwin County will be a lot better off with these three Catalyst candidates, help flush them down the toilet.

@@ -40,7 +40,7 @@ Let’s not forget that Elliott used the Baldwin County School Board lobbyist as
 
 Please ask Chris;
 
-{{< socialpreview url="https://rippreport.com/p/ask-chris-elliott-catalyst-red-flags/"
+{{< socialpreview url="https://rippreport.com/p/ask-chris-elliott-catalyst-red-flags/" >}}
 
 Was this the foundation of his campaign money?
 
