@@ -1,6 +1,7 @@
 ---
 title: "LAW and DisORDER - Part 2"
 date: 2018-08-29
+thumbnail: "img/law-and-disorder-part-2.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -9,36 +10,14 @@ authors:
 
 The Fairhope Police have responded and given further information about the recent “party” busted in Fairhope.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/law-and-disorder-part-1" >}}
 
-## LAW and DisORDER Part 1
-
-### LAW and DisORDER Part 1 | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/08/accident-barrier-caution-923681.jpg)
-
-The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. In fact, Council President Jack Burrell has fully…
-
-Source: [rippreport.com/2018/08/28/law-and-disorder-part-1](https://rippreport.com/law-and-disorder-part-1)
-
-</div>
 No information about the home owner is being disclosed, a minor related to the owners prevents that. No indication, or denial has been released by Councilman Burrell. The Ripp Report requested the Mayor Council and Police Dept. to investigate and make public the facts:
 
 “This information is being passed on to you for investigation and explanation, to the public. If true the City Council President should resign immediately.”
 
-<div class="link-preview">
+{{< socialpreview url="https://blog.al.com/live/2014/05/fairhope_house_party_bust_poli.html" >}}
 
-## Fairhope house party bust: Police release names of over 30 arrested
-
-### Fairhope house party bust: Police release names of over 30 arrested
-
-![](http://image.al.com/home/bama-media/width620/img/live/photo/fairhope-policejpg-869554ee123ea0d9.jpg)
-
-According to Fairhope police, about 4:30 p.m. officers responded to a party at a residence on Mary Ann Beach Road/Baldwin County 27, just south of U.S. 98 near Weeks Bay. About 60 people were at the party, "openly possessing and consuming alcoholic beverages," according to Fairhope police spokesman Sgt. Craig Sawyer.
-
-Source: [blog.al.com/live/2014/05/fairhope\_house\_party\_bust\_poli.html](http://blog.al.com/live/2014/05/fairhope_house_party_bust_poli.html)
-
-</div>
 This has happened in Fairhope in the past and the names of individuals were listed with exception on juveniles.
 
 WKRG, and Fairhope Police, responded, no comment thus far from the City Council.
@@ -90,31 +69,8 @@ A more disturbing piece of information should be the Police report of Council Pr
 
 Kids drinking is one thing. An undisclosed Police report by a City Council president is yet another.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
-## POLICE REPORT
-
-### POLICE REPORT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/05/police.jpg)
-
-A DOCUMENT FOR CATALYST A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law. What was…
-
-Source: [rippreport.com/2018/05/23/police-report/](https://rippreport.com/police-report/)
-
-</div>
 A Councilman, much less the Council President should not have the reputation of a juvenile.
 
-<div class="link-preview">
-
-## FAIRHOPE’S BLAST FROM THE PAST
-
-### FAIRHOPE’S BLAST FROM THE PAST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/06/blast.png)
-
-The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
-
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
-
-</div>
+{{< socialpreview url="https://rippreport.com/p/fairhopes-blast-from-the-past/" >}}

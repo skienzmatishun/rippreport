@@ -1,6 +1,7 @@
 ---
 title: "LAW and DisORDER Part 1"
 date: 2018-08-28
+thumbnail: "img/law-and-disorder.jpg"
 categories: 
   - terrible-tuesday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "DIRTY LITTLE SECRETS"
 date: 2018-09-21
+thumbnail: "img/dirty-little-secrets.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -27,19 +28,8 @@ I think the City was embarrassed (or should have been embarrassed) by this "tech
 
 The City Attorney had an urgent need to explain the nature of the "technical deficiency" to the volunteer members of the Planning Commission outside the eyes of the Press and the public and especially to those of us opposed to the Development.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.al.com/news/index.ssf/2018/09/post_191.html" >}}
 
-## 'We're not prepared': Political battle brewing in Baldwin County over planning
-
-### 'We're not prepared': Political battle brewing in Baldwin County over planning
-
-![](https://expo.advance.net/img/84274cf668/width960/1b1_daphnecouncilsept17.jpeg)
-
-Some Democrats running in Baldwin County this year are questioning the commitment from county and city leaders toward planning for future growth and infrastructure needs. But Baldwin County officials say that planning structures are in place, such as the Metropolitan Planning Organization that includes the Eastern Shore.
-
-Source: [www.al.com/news/index.ssf/2018/09/post\_191.html](https://www.al.com/news/index.ssf/2018/09/post_191.html)
-
-</div>
 Secret #2 - The City of Gulf Shores is intentionally NOT following its "Land Use Plan"
 
 This dirty little secret has not been admitted to by the City but there is plenty of Public Records Request information uncovered to substantiate this claim.
@@ -48,24 +38,12 @@ In our Public Records Request we asked the City for a sample of Site Plan docume
 
 This is what we found:
 
-\- The "Land Use Plan" was a critical part of the "City Staff's" consideration when making recommendations to the Planning Commission as recent as 2016
+- The "Land Use Plan" was a critical part of the "City Staff's" consideration when making recommendations to the Planning Commission as recent as 2016
 
-\- Specific references to the "Land Use Plan" were made by "City Staff' when making recommendations to the Planning Commission in 2014, 2015, and 2016
+- Specific references to the "Land Use Plan" were made by "City Staff' when making recommendations to the Planning Commission in 2014, 2015, and 2016
 
 The City now claims the "Land Use Plan" is insignificant and has no bearing on recommendations the "City Staff" makes to the Planning Commission. The City claims the "Land Use Plan" is simply a "strategy to guide planning".
 
 So the question is: Why did the City stop using the "Land Use Plan" criteria when making Site Plan recommendations? If the "Land Use Plan" requirements were an important consideration in 2014, 2015, and 2016, what caused the "City Staff" to no longer include it? This question has NOT been fully answered and deserves to be.
 
-<div class="link-preview">
-
-## VICTORY
-
-### VICTORY | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/09/Confetti_5879576562.jpg)
-
-Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused…
-
-Source: [rippreport.com/2018/09/05/victory/](https://rippreport.com/victory/)
-
-</div>
+{{< socialpreview url="https://rippreport.com/p/victory/" >}}
