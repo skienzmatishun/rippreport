@@ -1,6 +1,7 @@
 ---
 title: "JACK ASS"
 date: 2017-07-26
+thumbnail: "img/jack-ass.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

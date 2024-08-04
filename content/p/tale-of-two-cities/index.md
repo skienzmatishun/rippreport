@@ -1,6 +1,7 @@
 ---
 title: "TALE OF TWO CITIES"
 date: 2017-06-23
+thumbnail: "img/tale-of-two-cities.jpg"
 categories: 
   - freaky-friday
 tags: 

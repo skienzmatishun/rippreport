@@ -1,6 +1,7 @@
 ---
 title: "HOLES"
 date: 2017-06-09
+thumbnail: "img/holes.jpg"
 categories: 
   - freaky-friday
 tags: 

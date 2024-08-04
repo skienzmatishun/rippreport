@@ -1,6 +1,7 @@
 ---
 title: "LITTLE CHOICE"
 date: 2017-08-11
+thumbnail: "img/little-choice.png"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "FAKE NEWS AND RETALIATION"
 date: 2017-08-09
+thumbnail: "img/fake-news-and-retaliation.png"
 categories: 
   - wonderful-wednesday
 tags: 

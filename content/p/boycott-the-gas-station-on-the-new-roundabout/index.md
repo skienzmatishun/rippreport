@@ -1,6 +1,7 @@
 ---
 title: "BOYCOTT: The Gas Station on the New Roundabout"
 date: 2017-05-24
+thumbnail: "img/boycott-the-gas-station-on-the-new-roundabout.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

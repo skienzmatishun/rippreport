@@ -1,6 +1,7 @@
 ---
 title: "MIME'S WHITEWASHING"
 date: 2017-07-05
+thumbnail: "img/mimes-whitewashing.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

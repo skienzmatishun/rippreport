@@ -1,6 +1,7 @@
 ---
 title: "COUNTDOWN"
 date: 2017-08-04
+thumbnail: "img/countdown.png"
 categories: 
   - freaky-friday
 authors: 

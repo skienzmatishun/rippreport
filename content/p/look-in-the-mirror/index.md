@@ -1,6 +1,7 @@
 ---
 title: "LOOK IN THE MIRROR"
 date: 2017-08-18
+thumbnail: "img/look-in-the-mirror.jpg"
 categories: 
   - freaky-friday
 authors: 

@@ -1,6 +1,7 @@
 ---
 title: "SCRATCH MY BACK, I SCRATCH YOURS"
 date: 2017-07-28
+thumbnail: "img/scratch-my-back-i-scratch-yours.jpg"
 categories: 
   - citycouncil
 tags: 

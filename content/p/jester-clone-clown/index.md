@@ -1,6 +1,7 @@
 ---
 title: "The Jester The Clone and the Clown"
 date: 2017-07-12
+thumbnail: "img/the-jester-the-clone-and-the-clown.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

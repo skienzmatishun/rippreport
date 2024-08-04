@@ -1,6 +1,7 @@
 ---
 title: "WONDERFUL WEDNESDAY"
 date: 2017-08-23
+thumbnail: "img/wonderful-wednesday-4.png"
 categories: 
   - wonderful-wednesday
 authors: 

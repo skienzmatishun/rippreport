@@ -1,6 +1,7 @@
 ---
 title: "INVESTIGATIONS"
 date: 2017-07-14
+thumbnail: "img/investigations.jpg"
 categories: 
   - freaky-friday
 tags: 

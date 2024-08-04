@@ -1,6 +1,7 @@
 ---
 title: "SELF INCRIMINATION"
 date: 2017-06-15
+thumbnail: "img/self-incrimination"
 categories: 
   - citycouncil
 tags: 

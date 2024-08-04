@@ -1,6 +1,7 @@
 ---
 title: "“Hardest Working Elected Official- Eastern Shore.”"
 date: 2017-07-21
+thumbnail: "img/hardest-working-elected-official-eastern-shore.png"
 categories: 
   - freaky-friday
 tags: 

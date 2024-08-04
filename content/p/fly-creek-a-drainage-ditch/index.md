@@ -1,6 +1,7 @@
 ---
 title: "FLY CREEK - A DRAINAGE DITCH ?"
 date: 2017-08-25
+thumbnail: "fly-creek-a-drainage-ditch.jpg"
 categories: 
   - freaky-friday
 tags: 

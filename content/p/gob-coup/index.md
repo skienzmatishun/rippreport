@@ -1,6 +1,7 @@
 ---
 title: "GOB COUP"
 date: 2017-05-26
+thumbnail: "img/gob-coup.jpg"
 categories: 
   - freaky-friday
 tags: 
