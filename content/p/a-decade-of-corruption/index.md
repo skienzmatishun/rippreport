@@ -30,17 +30,17 @@ On June 4th 2010 the Fairhope City Council calls a special council meeting where
 
 That’s right Pittman had been working through May without a contract, without a general contractors license, without marine insurance, without county approval or any Ethics approval.
 
-[https://www.al.com/live/2010/11/senators\_company\_awarded\_63900.html](https://www.al.com/live/2010/11/senators_company_awarded_63900.html)
+{{< socialpreview url="https://www.al.com/live/2010/11/senators_company_awarded_63900.html" >}}
 
 Pittman resurfaced the road of corruption in Baldwin County for the next 10 years. Politicians felt emboldened by Pittman’s success of garnering a total close to, 750,000.00 of BP money under the noses of the Public. Judges, Attorneys, District Attorney and Sheriff said nothing. Pittman, with the help of Mayor Kant and Jack Burrell maintained a debris contract with the City of Fairhope for over 8 years. The contracts only ended when Fairhope elected Karin Wilson. Pittman as a Senator legislatively passed the qualifications for Sheriff in Baldwin County, which are different than any other county in Alabama. Those qualifications enabled the Baldwin County Sheriff to be re elected twice with no opposition.
 
-https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/
+{{< socialpreview url="https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/" >}}
 
 In Baldwin County you can run for office unopposed yet you are still asked to donate to the only candidate running. A donation for a political race with opposing candidates is a donation. A donation to a candidate with no opposition is a bribe.
 
 In the last 10 years corruption has flourished, Judges and Attorneys are involved in insulating those accused and condemning the victims. Speculation and allegations are abound about Judges accepting bribes to influence cases. Conflicts of Interests between Judges Attorneys and clients are dismissed without the least bit of moral consciousness.
 
-https://rippreport.com/catalyst-justice/
+{{< socialpreview url="https://rippreport.com/p/catalyst-justice/" >}}
 
 Hear are just a few of the issues, in the last 10 years, glossed over by politicians and the courts for the benefit of a few, mostly CATALYST.
 
@@ -50,4 +50,4 @@ The common denominator in all these issues are CATALYST. Voting is the only way 
 
 In 10 years not one politician, attorney or judge has been held accountable, arrested or indicted for a crime.
 
-https://rippreport.com/strawman-spiderweb/
+{{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}

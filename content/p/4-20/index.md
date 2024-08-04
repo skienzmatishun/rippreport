@@ -33,56 +33,30 @@ A promising sign is the sheer number of medical trials being conducted, around t
 
 On a much lighter note is :
 
-420 (cannabis culture) - Wikipediaen.wikipedia.org › wiki › 420\_(cannabis\_culture)
-
+>420 (cannabis culture) - Wikipediaen.wikipedia.org › wiki › 420\_(cannabis\_culture)
+>
 420, 4:20, or 4/20 (pronounced four-twenty) is cannabis culture slang for marijuana consumption, especially smoking around the time 4:20 PM, and also refers to cannabis-oriented celebrations that take place annually on April 20 (which is 4/20 in U.S. form).
-
+>
 Significance‎: ‎Time/date to smoke/celebrate Ca...
-
+>
 Date‎: ‎4:20 / April 20
-
+>
 4/20 started at San Rafael High School, California of course, in 1971 at Benny Bufano at the 1940 statue of Louis Pasteur. Today it is celebrated around the world by the “Cannabis counter culture, legal reformers, entheogenic spiritualists and general users of cannabis.
-
+>
 Today at 4:20 PM millions around the world will light up and celebrate by smoking a little bud, no one will die from it.
 
 April 20 2010 will live in infamy in Baldwin County for the Deepwater Horizon Oil Spill, aka BP Oil Spill. !3 lives were lost and 17 injured in the original explosion. The real damage came with 210,000,000 US gallons of oil released into the Gulf of Mexico.
 
-<div class="link-preview">
-
-## Deepwater Horizon oil spill response - Wikipedia
-
-### Deepwater Horizon oil spill respon - Wikipedia
-
-![](https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/30px-Wiktionary-logo-v2.svg.png)
-
-Source: [en.wikipedia.org/wiki/Deepwater\_Horizon\_oil\_spill\_respon](https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill_respon)
+{{< socialpreview url="https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill_respon" >}}
 
 Ten years later and Alabama is still dealing with collateral damage from the spill.
 
-## Deepwater Horizon disaster + 10: Alabama work goes on
+{{< socialpreview url="https://www.al.com/news/mobile/2020/04/10-years-after-deepwater-horizon-disaster-along-alabamas-gulf-coast-questions-and-work-go-on.html" >}}
 
-### Deepwater Horizon disaster + 10: Alabama work goes on
-
-![](https://www.al.com/resizer/lKQ0T1Q43IN4UgVcWhiAepcmA2A=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/OAE5ZW2FCZAZXIEE4YMGTTDQBY.jpg)
-
-To a great extent, work funded by billions in penalties and settlements is just getting started.
-
-Source: [www.al.com/news/mobile/2020/04/10-years-after-deepwater-horizon-disaster-along-alabamas-gulf-coast-questions-and-work-go-on.html](https://www.al.com/news/mobile/2020/04/10-years-after-deepwater-horizon-disaster-along-alabamas-gulf-coast-questions-and-work-go-on.html)
-
-</div>
 Baldwin County suffered the most economically, and got screwed by the state and their own legislative representatives.
 
-<div class="link-preview">
+{{< socialpreview url="https://yellowhammernews.com/alabama-house-approves-division-money-bp-oil-settlement/" >}}
 
-## Alabama House approves division of money from BP Oil settlement - Yellowhammer News
-
-### Alabama House approves division of money from BP Oil settlement - Yellowhammer News
-
-MONTGOMERY, Ala. — On Friday, the Alabama House of Representatives passed a bill that will establish the distribution of funds
-
-Source: [yellowhammernews.com/alabama-house-approves-division-money-bp-oil-settlement/](https://yellowhammernews.com/alabama-house-approves-division-money-bp-oil-settlement/)
-
- 
 
 4/20/2010 marks the day of the spill. On May 8th, Alabama Governor Bob Riley forms a task force and appoints State Senator Tripp Pittman to be the “trustee”, the banker, to represent his district and be sure necessary funds are dis-pursed to those in need. Little did the Governor know that the good senator was already planning with the then Mayor of Fairhope on May 3rd to submit his own personal contract for the very funds that were entrusted to Pittman to oversee.
 
@@ -96,15 +70,6 @@ The LEGITIMATE Hemp farmers and their lobbyist had best stay clear of the tracto
 
 The Ripp Report in the next month will be reminding citizens of Baldwin County of the facts surrounding Pittman’s despicable behavior as our State Representative and “trustee”.
 
-## Pittman Renews Million Dollar Contract with Fairhope
+{{< socialpreview url="https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/" >}}
 
-### Pittman Renews Million Dollar Contract with Fairhope
-
-![](https://i2.wp.com/www.alreporter.com/wp-content/uploads/2015/10/money.jpg?resize=1000%2C500&ssl=1)
-
-  By Bill Britt Alabama Political Reporter MONTGOMERY— In an unbroken stream dating back to July 2007, Sen. Lee Davidson Marbury “Trip” Pittman (R-Daphne) and former Baldwin County Commissioner Bob James, have held a lucrative debris removal contract awarded by the city of Fairhope. The million plus contract mostly being held by Pittman Tractor Co., \[…\]
-
-Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/)
-
-</div>
 Pittman and the Fairhope City Council and CATALYST all back Bill “lowtower” for the First Congressional seat runoff July14 2020. Birds of a feather flock together, be sure they do not poop on you.

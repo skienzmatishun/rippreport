@@ -1,6 +1,7 @@
 ---
 title: "FIRST CONGRESSIONAL DISTRICT"
 date: 2020-07-02
+thumbnail: "img/first-congressional-district.jpg"
 categories: 
   - thursday-thunder
 tags: 

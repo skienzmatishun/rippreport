@@ -1,6 +1,7 @@
 ---
 title: "STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY"
 date: 2018-05-21
+thumbnail: "img/state-senate-seat-district-32-bombs-away.jpg"
 categories: 
   - monday-madness
 tags: 
@@ -22,15 +23,7 @@ Not only did Boom Boom Pittman skim 750,000 of BP money for his personal tractor
 
 Five candidates are lined up for the seat, 4 Republicans and one Democrat. The Catalyst candidate should be the first one you eliminate, Chris Elliott. The County employees are praying for Elliott and Dorsey, to be voted out. They are fed up with the whole County Commission.
 
-<div class="link-preview">
-
-## CATALYST – ALABAMA VALUES
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/05/elliott-mugshot.jpg)
-
-Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values. Chris Elliott…
-
-Source: [rippreport.com/2018/05/18/catalyst-alabama-values/](https://rippreport.com/catalyst-alabama-values/)
+{{< socialpreview url="https://rippreport.com/p/catalyst-alabama-values/" >}}
 
 Some early polls suggest that Elliott may be beat out in the first round and not even make the run off.
 
