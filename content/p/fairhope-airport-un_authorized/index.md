@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE AIRPORT “UN_AUTHORIZED”"
 date: 2016-12-02
+thumbnail: "img/fairhope-airport-un_authorized.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -31,7 +32,7 @@ On August 7, 2015 three board members resigned— why?
 
 FOUNDING OFFICERS RESIGNING At its July meeting, Airport Authority members unanimously voted to appoint Joe McEnerney as next chairman, Pam Caudill vice chair, and Ray Hix secretary/treasurer: to be finalized at the August 18th meeting: previously-announced resignations of Chuck Zunk, Rod Platt and Charlie Bassett become effective in September.
 
-Source: [thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html](http://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html" >}}
 
 Joe McEnerey was unanimously appointed as Chairman, Pam Caudill as Vice Chair and Ray Hix as Secretary/Treasure, by the Airport Authority. From that day forward, board member Hix was privileged to confidential information regarding airport leases, bids, and financial information the general public is not privy to. Mr. Hix should not have proceeded as a board member to secure a lease as Mid Bay Air LLC. Mr Burrell and the new board members turned a blind eye to the obvious conflict of interest.
 
