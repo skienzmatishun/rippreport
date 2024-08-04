@@ -14,19 +14,8 @@ Many thought that the Trump/Clinton campaign left little choice as two polarizin
 
 Well hold your nose, cover your eyes and close your mouth because Alabama Republicans have to make a decision as who to vote for in the Alabama’s Senate race. You want to know why Alabama is last in almost every category, except football and political corruption? It is our elected officials that WE elect. This election is going to impact the Republicans negatively in the mid-term 2018 elections.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.cnbc.com/americas-10-worst-states-to-live-in-2017.html" >}}
 
-## America’s 10 worst states to live in 2017
-
-### America’s 10 worst states to live in 2017
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/102842707-GettyImages-480982684.1910x1000.jpg)
-
-These are the 10 worst states in the US for quality of life, including crime, health, social tolerance and the environment.
-
-Source: [www.cnbc.com/2017/07/11/americas-10-worst-states-to-live-in-2017.html](http://www.cnbc.com/americas-10-worst-states-to-live-in-2017.html)
-
-</div>
 BIG LUTHER STRANGE is going to Washington to clean up the swamp. He is the epitome of the swamp, exactly what you do not want to see in Washington. As Alabama Attorney General he did little other than let Sen. Trip Pittman off on BP fraud charges and then gave our Luv Gov a pass on all his lies and sordid affair. The Republicans in Alabama have been given their marching orders, and millions of dollars, from Washington, THE SWAMP, and Mitch McConnell.
 
 <div class="link-preview">

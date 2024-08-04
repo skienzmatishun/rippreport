@@ -1,6 +1,7 @@
 ---
 title: "ALABAMA SHUFFLE"
 date: 2022-07-27
+thumbnail: "img/alabama-shuffle.png"
 categories: 
   - freaky-friday
 authors: 
@@ -17,13 +18,13 @@ This is the letter the Attorney General sent me back about a complaint, I filed 
 
 [![](https://rippreport.com/wp-content/uploads/24eb704d-alletter.png)](https://rippreport.com/wp-content/uploads/24eb704d-alletter.png) This is your Attorney General:
 
-https://www.alreporter.com/opinion-please-pay-attention-to-steve-marshall/
+{{< socialpreview url="https://www.alreporter.com/opinion-please-pay-attention-to-steve-marshall/" >}}
 
 “Here’s what that’s gotten you: An AG who files, or signs onto, frivolous lawsuits that mean nothing and usually go nowhere, while ignoring cases that do matter to Alabamians – cases that could protect the citizens of this state.”
 
 Attorney General Marshall did the Alabama Shuffle when the complaint hit his desk related to the Ethics Executive Director Tom Albritton.
 
-https://rippreport.com/elephants-in-alabama/
+{{< socialpreview url="https://rippreport.com/p/elephants-in-alabama/" >}}
 
 The Attorney General has only covered the backs of the Bar and Ethics, no criminal charges have been filed.
 

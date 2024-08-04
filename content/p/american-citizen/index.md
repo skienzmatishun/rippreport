@@ -19,19 +19,8 @@ authors:
 
 A good example of Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure, is all exposed in one incident, the McSharry assault case.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/judicial-trick/" >}}
 
-## JUDICIAL TRICK
-
-### JUDICIAL TRICK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/trick.png)
-
-Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes. Some Judges and lawyers feel…
-
-Source: [rippreport.com/2020/04/18/judicial-trick/](https://rippreport.com/judicial-trick/)
-
-</div>
 The McSharry case is a classic example of Baldwin County justice. Fairhope City prosecutor, Marcus McDowell dropped the ball, or kicked it out of site, when it came to Ronan McSharry. Municipal Judge Snedeker, shares in this miscarriage of justice.
 
 How the hell can you read the facts, such as McSharry’s past convictions, pleading guilty, the incident on video, and accept Judge Stankowski’s ruling?
@@ -50,8 +39,6 @@ A Green Card holder with an extensive police record that has a liquor license. W
 
 Here is a legal question, How much money has McSharry transferred from profits of McSharry’s to Ireland since the assault ?
 
-<div class="link-preview">
-
 ## WHAT ABOUT THE VICTIM?
 
 Paula Dinardi went to a restaurant/bar in Fairhope and gets assaulted by a drunk. This happened in November of 2018. An evening of relaxation turned into assault and physical injury. McSharry was arrested and Dinardi went to the hospital.
@@ -62,17 +49,8 @@ In spite of the success of the Tiki Bar, the American Legion in January 2019, wi
 
 The incident with McSharry started a spiraling sequence of events that has left Dinardi without a job. Many people believe politicians used their influence to remove Dinardi from the American Legion, me for one.
 
-## YOU DON’T KNOW JACK
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
-### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![Jack Burrell Fairhope Alabama](https://cdn.rippreport.com/jack-burrell.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
-
-</div>
 Next came 17 months of constant stress with having to deal with a corrupt judicial system, that favored the criminal, not the Victim. Dinardi is now trying to save her home.
 
 The Fairhope Municipal Judge and City Attorneys actions has resulted in the GREEN CARD holder, McSharry, who plead guilty in court, to escape prosecution. The CATALYST City Council appointed both the City Attorney and Municipal Judge.

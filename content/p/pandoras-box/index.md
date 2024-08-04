@@ -1,6 +1,7 @@
 ---
 title: "PANDORA'S BOX"
 date: 2017-05-31
+thumbnail: "img/pandoras-box.png"
 categories: 
   - citycouncil
 tags: 
@@ -20,9 +21,7 @@ Today the phrase "to open Pandora's box" means to perform an action that may see
 
 Fairhope has opened Pandora’s box thanks to the HR director and her $100,000 lawsuit against the city. Now the contents are slowly going to be public. The latest item out of the box is the claim of Sherry Sullivan and her wrongful termination.
 
-## Second Claim Filed with City of Fairhope
-
-Source: [www.gulfcoastnewstoday.com/stories/second-claim-filed-with-city-of-fairhope,5016](www.gulfcoastnewstoday.com/stories/second-claim-filed-with-city-of-fairhope,5016)
+{{< socialpreview url="www.gulfcoastnewstoday.com/stories/second-claim-filed-with-city-of-fairhope,5016" >}}
 
 Sullivan and Jennifer Fidler were fired, and no one knows why. Now we will find out. Fidler is the witness for the HR director. Want to make a bet that Fidler doesn’t jump in with her own lawsuit?
 
@@ -30,23 +29,11 @@ The mayor is constrained by liability not to comment on the firings and she has 
 
 Guess what is in the box?
 
-## JACK IN THE BOX – AIRPORT
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/jackinthebox-2.jpg)
-
-The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any…
-
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
+{{< socialpreview url="https://rippreport.com/p/jack-box-airport/" >}}
 
 If you think Jack Burrell, come fly with me, had nothing to do with the all the above, then you also probably think you can jump out of an airplane without a parachute and you don’t know Jack.
 
-## YOU DON’T KNOW JACK
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/YOU-DONT-KNOW-JACKLarge.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
 Now we will have lawyers involved and “cross examination”. Swearing to the truth and all that legal stuff will bring all the dirt to the surface. They are going to wish they never opened that box.
 
@@ -54,13 +41,7 @@ Also in the box is the airport scandal involving none other than Jack, however h
 
 The “gift” is in the box as well, free wet lands for the city and new liability.
 
-## RE-GIFT GIFT ??
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/present-150291_6401.png)
-
-ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
-
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
+{{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
 The evil will come out of the jar leaving the good to prevail. Mayor Wilson is no saint but the city council, particularly the three new members, have refused to inspect the contents of the box. Jack’s conflict of interest, Boone’s LLC’s and all the past deeds of the last administration. The council, led by Jack, supports the efforts of the HR director and Sullivan while refusing to support the Mayor or City.
 
@@ -70,13 +51,7 @@ Please remember we only had two mayors in 40 years and both left office under a 
 
 Another take on the situation is:
 
-## What is wrong with Fairhope? Fast growing city's politics filled with tension and division
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/22796054-standard.jpg)
-
-The fastest growing city in Alabama's fastest growing county has generated plenty of headlines in the past six months, but none of it positive from city hall. Most of the attention has been on the ongoing bickering between the new mayor and the city council. The attention might swell in the coming weeks after a claim of harassment surfaced last week involving the mayor.
-
-Source: [www.al.com/news/mobile/index.ssf/2017/05/what\_is\_wrong\_with\_fairhope\_fa.html](www.al.com/news/mobile/index.ssf/2017/05/what_is_wrong_with_fairhope_fa.html)
+{{< socialpreview url="www.al.com/news/mobile/index.ssf/2017/05/what_is_wrong_with_fairhope_fa.html" >}}
 
 A good article, however it should be mentioned that a few quotes seem to be very misleading. Diana Brewer, who lost her council seat then went down with the ship, Maritime Museum, is weighing in on “Vision”. Give me a break she has no vision and she supports the Corte Apartments and the destruction of the wetlands. Her new job is with Weeks Bay Foundation who have made their position on wetlands very clear. Diana takes to social media defending her position which is opposite of her employer and board, she should stay in the box.
 
