@@ -1,6 +1,7 @@
 ---
 title: "CATALYST BUSTED"
 date: 2018-07-27
+thumbnail: "img/catalyst-busted.jpg"
 categories: 
   - freaky-friday
 authors: 
@@ -21,21 +22,10 @@ Now Randy is gone we should show Joe Faust, Baldwin County Representative since 
 
 Both State Representatives ignored Senator Tripp Pittman, the trustee of Baldwin County BP funds, as he skimmed 750,000 dollars for himself. Neither man had enough balls to stand up to Pittman. To add insult to injury this threesome left millions of BP dollars in Montgomery while Baldwin County got 10%.
 
-<div class="link-preview">
+{{< socialpreview url="https://blog.al.com/live/2010/11/senators_company_awarded_63900.html" >}}
 
-## Senator's company awarded $639,000 while he supervised grants for boom work
-
-### Senator's company awarded $639,000 while he supervised grants for boom work
-
-![](http://image.al.com/home/bama-media/width620/img/live/photo/8421284-standard.jpg)
-
-Of $1.15 million paid to Fairhope from BP grant funds overseen in part by state Sen. Trip Pittman for oil spill response work, the city awarded Pittmans company $639,000, according to city records reviewed by a Fairhope councilwoman.
-
-Source: [blog.al.com/live/2010/11/senators\_company\_awarded\_63900.html](http://blog.al.com/live/2010/11/senators_company_awarded_63900.html)
-
-</div>
 The Representatives also sat by and said nothing when Pittman also took municipal contracts, within his own district, from Fairhope, with the help of Fairhope Mayor Can’t and his water carrying City Council.
 
-http://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/
+{{< socialpreview url="http://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/" >}}
 
 Catalyst is crying because they are all gone except for Joe Faust, maybe his time has come!

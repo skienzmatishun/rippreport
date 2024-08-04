@@ -1,6 +1,7 @@
 ---
 title: "CATALYST MEETS SOCIAL MEDIA"
 date: 2018-07-20
+thumbnail: "img/catalyst-meets-social-media.png"
 categories: 
   - freaky-friday
 authors: 
@@ -11,47 +12,15 @@ Today I enter V.A. for my 14th shoulder operation, so if ya do not see a Wonderf
 
 The citizens of Baldwin County are finally beginning to understand the dangers of a group like Catalyst. The Baldwin county Republican Party is coming to terms that Baldwin county has been hijacked by a few so called “Christian Republicans” called CATALYST. In the past CATALYST has worked in the shadows, today social media has exposed their goals as well as players.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/" >}}
 
-## ELLIOTT STACY HAYGOOD = CATALYST – WHO IS IN THE PICTURE?
-
-### ELLIOTT STACY HAYGOOD = CATALYST – WHO IS IN THE PICTURE? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/07/catalysts.jpg)
-
-This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County…
-
-Source: [rippreport.com/2018/07/13/elliott-stacy-haygood-catalyst-who-is-in-the-picture/](https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/)
-
-</div>
 Congratulations to Mayor Karin Wilson for winning the Politicos Nappie Award for the hardest working elected official on the Eastern Shore. This is significant because the Mayor is operating in the shadows of Catalyst headquarters and the three bees. The City Council is working on being awarded the onion award for the WORST City Council in Fairhope’s history, so far it looks like they will win, hands down.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
-## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-
-### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/3bs.png)
-
-Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
-
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
-
-</div>
 Catalyst is reeling after getting stung by the People’s Choice. They lost their queen bee Thomasson and their most worthless bee, Dorsey. Catalyst also had the true colors of their number one lying bee, Elliott, exposed to the public. His less than stellar performance garnered him only a 700 vote margin against the better man, David Northcutt.
 
-<div class="link-preview">
-
-## ASK CHRIS ELLIOTT – CATALYST RED FLAGS
-
-### ASK CHRIS ELLIOTT – CATALYST RED FLAGS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/07/redflags.jpg)
-
-ASK CHRIS! Public records from the Probate office, record, Mr. Elliott, and his wife, purchased property, from Christopher G Stradtman Jan 3, 2018, in Elberta on Key Hole Rd. This “waterfront…
-
-Source: [rippreport.com/2018/07/16/ask-chris-elliott-catalyst-red-flags/](https://rippreport.com/ask-chris-elliott-catalyst-red-flags/)
+{{< socialpreview url="https://rippreport.com/p/ask-chris-elliott-catalyst-red-flags/" >}}
 
 </div>
 Elliott now has to run for the third time for State Senate Seat 32, against a Democrat. It ain’t going to be easy, he has burnt to many bridges,or promised to build them, and has a closet full of baggage. Their is a rumor that he may even have some very serious issues, can you say indictment, coming his way, not counting his real estate deals.
@@ -66,19 +35,8 @@ Speaking of Daphne, it has also been reported that Mayor Haygood was so upset wi
 
 Don’t forget about that Million dollar swimming pool, The Mayor and planning and zoning say their hands are tied, not so, they are sitting on their hands.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/million-dollar-swimming-pool/" >}}
 
-## MILLION DOLLAR SWIMMING POOL
-
-### MILLION DOLLAR SWIMMING POOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/07/tucker-dorsey-chris-elliott.jpg)
-
-Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what…
-
-Source: [rippreport.com/2018/07/06/million-dollar-swimming-pool/](https://rippreport.com/million-dollar-swimming-pool/)
-
-</div>
 GULF SHORES
 
 https://lagniappemobile.com/gulf-shores-residents-rally-against-apartment-complex/
