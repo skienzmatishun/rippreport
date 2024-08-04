@@ -1,6 +1,7 @@
 ---
 title: "PEOPLE POWER - WAKE UP GULF SHORES"
 date: 2018-10-28
+thumbnail: "img/people-power-wake-up-gulf-shores.jpg"
 categories: 
   - sunday-sunrise
 authors: 

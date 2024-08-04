@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE - CHANGE OF GOVERNMENT"
 date: 2018-10-24
+thumbnail: "img/fairhope-change-of-government.png"
 categories: 
   - wonderful-wednesday
 authors: 
