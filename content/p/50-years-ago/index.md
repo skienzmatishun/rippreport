@@ -20,7 +20,7 @@ Veterans Day follows the Marine Corp Birthday on November 10th.
 
 The Marines have a motto: SEMPER FI
 
-{{< socialpreviewe url="https://en.wikipedia.org/wiki/Semper_fidelis" >}}
+{{< socialpreview url="https://en.wikipedia.org/wiki/Semper_fidelis" >}}
 
 “always faithful” “always loyal”
 
