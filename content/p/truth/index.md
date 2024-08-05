@@ -19,7 +19,7 @@ In response to Councilman Brown about his position on the Waterfront,
 
 [https://www.facebook.com/groups/FairhopeNow/](https://www.facebook.com/groups/FairhopeNow/)
 
-[http://www.gulfcoastnewstoday.com/stories/op-ed-positive-change-always-met-with-stubborn-opposition,95207](http://www.gulfcoastnewstoday.com/stories/op-ed-positive-change-always-met-with-stubborn-opposition,95207)
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/stories/op-ed-positive-change-always-met-with-stubborn-opposition,95207" >}}
 
 Leslie Callies Hollis
 

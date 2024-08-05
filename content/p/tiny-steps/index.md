@@ -42,7 +42,7 @@ Kick the can!
 
 The politicians again kicked the can down the gaming road. Big politics, lot’s of money and corruption stand in the way to a lottery or gaming bill. Alabama citizens are the losers, our neighbors are the winners.
 
-https://www.alreporter.com/opinion-the-2021-legislative-session-lots-of-talk-little-action/?fbclid=IwAR2EW0M2w-FXJFfVRj-nmDa-xlUYWhqj7v3E-oVv5I4COJyPz\_Qyewfehbs
+{{< socialpreview url="https://www.alreporter.com/opinion-the-2021-legislative-session-lots-of-talk-little-action/" >}}
 
 “Gambling was going to pay for health care. It was going to pay for broadband expansion. It was going to cut taxes.
 
@@ -50,11 +50,11 @@ But gambling is a big thing. And if the 2021 legislative session proved anything
 
 Baldwin County’s State Senator “DUI” [Elliott](https://rippreport.com/tag/elliott/), flip lopped on the gaming bill and was in favor for tolls. While some serious issues were falling through the cracks Elliott decided that now he was a State Senator he would even an old score. Trouble is his little vendetta will cost a very good program millions and deprive homeowners assistance in fortifying their roofs.
 
-https://rippreport.com/weasel-contractor/
+{{< socialpreview url="https://rippreport.com/p/weasel-contractor/" >}}
 
 Lagniappe's previous articles have exposed Elliott’s attempts to halt funding for SAH. Elliott has seized the opportunity to settle an old score, where he was dismissed, as a contractor, for wanting personal information that would favor him in the bidding process.
 
-https://lagniappemobile.com/grant-director-discusses-status-of-fortified-roof-program/
+{{< socialpreview url="https://www.lagniappemobile.com/news/grant-director-discusses-status-of-fortified-roof-program/article_75d8dc8a-fc21-5c63-a562-ca04e3d2bd42.html" >}}
 
 In February, State Rep. Chip Brown of Mobile County introduced a bill to increase the amount of funding to the program. It passed the House by a vote of 96-1 but was subsequently stalled by State Sen. Chris Elliott, R-Fairhope, and others, citing concerns of transparency and equitability. Elliott, a licensed contractor, had been removed from the program in 2016 after being accused of “profiling” and “cherry-picking” applicants.
 
