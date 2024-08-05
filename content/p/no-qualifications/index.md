@@ -95,7 +95,7 @@ They are looking out for your tax dollars. Ha Ha
 
 What about the $6.2 million Waterfront project. Tens of thousands wasted in design and changes to the plan that Jack used as a political weapon in the last election, against the best interests of the community.
 
-{{< socialpreview url="https://rippreport.com/p/nail-in-the-coffin/"}}
+{{< socialpreview url="https://rippreport.com/p/nail-in-the-coffin/" >}}
 
 What about the toll Jack proposes for all citizens crossing the proposed new Bay Bridge, after he pledged “No Toll” ?
 
