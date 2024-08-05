@@ -21,7 +21,7 @@ Just like tea leaves if you look close enough at the local political signs they 
 
 Catalyst has been around for a long time, under various names. Recently Catalyst became Scott Boone Consulting. The name CATALYST had to be abandoned, it had become politically toxic. The other reason is elected officials, elected under the CATALYST banner, were disassociating with the brand.
 
-https://rippreport.com/catalyst-aka-scott-boone-consulting/
+{{< socialpreview url="https://rippreport.com/p/catalyst-aka-scott-boone-consulting/" >}}
 
 Make no mistake CATALYST/ Scott B??ne, CSB, are one in the same. CSB operates much like the Club for Growth pac, they help you get elected but they own you from that day. They support each other and share among themselves any gratuity they feel entitled to. They form a political alliance that spans the county.
 
@@ -33,7 +33,7 @@ The intention is to sell your eyes on their popularity, the trick is to use your
 
 Check out this combination of signs in Fairhope, Sherry, Boone { father of Scott B??ne } Brown and Burrell. This cocktail of candidates is 100% CSB. Voting for these four is going backwards and handing Fairhope over to developers and corrupt politicians.
 
-https://rippreport.com/catalyst-aka-scott-boone-consulting/
+{{< socialpreview url="https://rippreport.com/p/catalyst-aka-scott-boone-consulting/" >}}
 
 Watch the signs, Sherry is usually hugged up to Boone signs and in most locations they are all represented. These signs appear in the yards of the core group of the past administration. They want back their power that they lost in 2016. Do not get confused by seeing a sign, this election is a hell of a lot more important than signs. But the signs speak.
 
@@ -43,15 +43,15 @@ SHERRY SNEDEKER BBB
 
 This picture speaks a thousand words. Sherry snuggled up to the Municipal Judges property sign, with Boone Brown and Burrel accompanying signs.
 
-https://rippreport.com/scary/
+{{< socialpreview url="https://rippreport.com/p/scary/" >}}
 
 The municipal judge is a devout supporter of CSB and the city council has voted in favor of the judge multiple times. Burrell also arranged himself to be on a bid committee that awarded the good judge a prime location for his jet airplane hanger.
 
-https://rippreport.com/catalyst-aka-scott-boone-consulting/
+{{< socialpreview url="https://rippreport.com/p/catalyst-aka-scott-boone-consulting/" >}}
 
 Last month the judge had club for growth candidate, “lowtower” signs, on his property, provided by CSB. Thank God Jerry Carl defeated CATALYST/SCOTT BOONE and sent “lowtower” into the shadows.
 
-https://rippreport.com/catalyst-ass-whoopin/
+{{< socialpreview url="https://rippreport.com/p/catalyst-ass-whoopin/" >}}
 
 Daphne is another example of saturated signs by CSB. Check this one out CATALYST/Scott Boone candidates shoulder to shoulder. What should that tell ya, they are a unit not individuals.
 
@@ -67,4 +67,4 @@ Use your eyes to see, use your brain to think.
 
 ## VOTE AUG 25th
 
-https://rippreport.com/nappi-award/
+{{< socialpreview url="https://rippreport.com/p/nappi-award/" >}}

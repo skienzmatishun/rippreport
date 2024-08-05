@@ -1,6 +1,7 @@
 ---
 title: "TOTAL DARKNESS"
 date: 2022-01-26
+thumbnail: "img/total-darkness.png"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -19,7 +20,7 @@ The sad truth is he may be re-elected without any opposition. You get what you v
 
 This article is a few months old but the facts are the same.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F304331331728817&amp;show_text=true&amp;width=500" width="500" height="513" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://www.al.com/news/2021/06/whitmire-alabama-deserves-a-better-ag-than-steve-marshall.html" >}}
 
 In Fairhope, Jack Burrell is the master of dark. The Fairhope Airport Authority, FAA, has been a thorn in the side of Fairhope taxpayers from day one. The Airport Authority has cost taxpayers millions of dollars, represents a tremendous debt and services less than 1% of Fairhope.
 
@@ -29,15 +30,15 @@ Mr. Burrell and Mayor Sullivan took down the on line meetings of the Authority l
 
 Get ready for the Jack Burrell scuffle. He has his own agenda when it comes to the development of the Airport. Jack is a front man for special interests that want total control of the airport. It looks like Jack’s new plan is to force the FBO, fixed base operator, via a lawsuit, out of the lease. This is an interesting since the FBO renewed a lease with the FAA in 2018. At that time Jack was defending the FBO.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F297258609102756&amp;show_text=true&amp;width=500" width="500" height="565" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://rippreport.com/p/lego-rocket-scientist/" >}}
 
 Mr. Burrell has an infamous reputation for “extending the truth” so everything he says needs to be taken with a grain of salt.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159703763527317&amp;show_text=true&amp;width=500" width="500" height="545" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-airport-authority-in-standoff-with-general-aviation-tenant/article_8c3d6f18-2f13-5216-900b-5b16d284a09b.html" >}}
 
 The question is did Jack use federal money for the Airport, to further his plans to evict the lease holding FBO, by creating a new FBO? One thing is for sure, the City of Fairhope does not want you to see the committee meetings of the Fairhope Airport Authority. The second thing, is if the meetings were on line then the FAA may not be in the situation they find them selves in today. The FAA is in violation of open meeting laws using executive sessions to avoid public scrunity.
 
-[http://thefairhopetimes.blogspot.com/2022/01/airport-authority-votes-to-extend-lease.html](http://thefairhopetimes.blogspot.com/2022/01/airport-authority-votes-to-extend-lease.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2022/01/airport-authority-votes-to-extend-lease.html" >}}
 
 Of course Captain Jack was a no show at the meeting where the authority started swimming backwards.
 
@@ -47,7 +48,7 @@ This maybe the third or forth fiasco Jack has created through the Authority. Eac
 
 The FAA now finds itself in a protracted negotiation to unwind the legal issues created by Councilman Burrell and Mayor Sullivan, who have gone dark.
 
-[https://lagniappemobile.com/parties-in-fairhope-airport-dispute-agree-to-negotiate/](https://lagniappemobile.com/parties-in-fairhope-airport-dispute-agree-to-negotiate/)
+https://lagniappemobile.com/parties-in-fairhope-airport-dispute-agree-to-negotiate/
 
 “The construction of a new FBO will depend on whether the Authority can secure as much as $1.5 million in additional funds to match a $600,000 grant from the Alabama Department of Transportation. Lagarde said bids for the project will be opened next week, but any financing will have to be approved by the Fairhope City Council. “
 
@@ -55,7 +56,7 @@ Judicial darkness:
 
 Another example about keeping things in the dark, happened in the dark. A boating accident with 5 juveniles, January 22, 2021,around 2:45 am, it was covered briefly by several news agencies.
 
-[https://www.thehulltruth.com/gulf-coast/1195939-mobile-bay-23-seahunt-hits-wharf.html](https://www.thehulltruth.com/gulf-coast/1195939-mobile-bay-23-seahunt-hits-wharf.html)
+{{< socialpreview url="https://www.thehulltruth.com/gulf-coast/1195939-mobile-bay-23-seahunt-hits-wharf.html" >}}
 
 Fairhope Police were called to the scene by property owners reporting damage to their pier. The Fairhope Police handed the case over to the Marine patrol and ALEA, Alabama Law Enforcement Agency. What makes this story more interesting is that the driver of the boat is, alleged , the son of a local Judge.
 

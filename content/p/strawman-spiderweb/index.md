@@ -14,7 +14,7 @@ authors:
 
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 
-https://rippreport.com/catalyst-train-wreck/
+{{< socialpreview url="https://rippreport.com/p/catalyst-train-wreck/" >}}
 
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting.
 
@@ -44,11 +44,11 @@ https://lagniappemobile.com/burke-delaney-implicated-in-new-civil-lawsuit/
 
 Now look at the spider graph and you will see how all these people in one lawsuit are connected to the Judge. Look close and you will see Mr. Boone, aka LLC Boone, linked to Scott Boone his son and Catalyst front man, are connected to Tucker Dorsey, The Strawman, John Avant and the Judge.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2020/06/connections.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2020/06/connections.pdf
 
 Boone has already been linked to LLC’s that show a conflict of interest, yet he voted as a councilman to assist the developers and John Avant, behind his constituents back.
 
-https://rippreport.com/investigative-reporting-business-entity-records/
+{{< socialpreview url="https://rippreport.com/p/investigative-reporting-business-entity-records/" >}}
 
 The CATALYST council turned a blind eye to Boone’s conflicts of interests and now we see his connections to the “Strawmam” case.
 
@@ -56,7 +56,7 @@ Boone has lied to his constituents from the day he was elected, his loyalties li
 
 Now let’s jump back to “Strawman” and the updated information submitted to the Alabama Judicial Inquiry Commission. Perhaps the best narrators of the deal and the years of litigation since, is Phillip Bass’ wife, Nell “Boots” Bass, and their daughter, Karen Bass.
 
-\[embeddoc url="https://cdn.rippreport.com/Judicial-Inquiry-Commission-part2-3-29.pdf" download="all"\]
+https://cdn.rippreport.com/Judicial-Inquiry-Commission-part2-3-29.pdf
 
 Outright corruption involving lawyers, judges, County commissioner developers and third rate con men. Do you see the District Attorney or Sheriff doing anything ? Hell no these people are their friends.
 
