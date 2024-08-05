@@ -35,13 +35,7 @@ Source: [lagniappemobile.com/despite-threat-suit-fairhope-council-refuses-funds-
 
 The council says it does not want another attorney; however, they have moved forward to settle lawsuits without anyone knowing what is going on. The 100,000 dollar lawsuit,
 
-## PANDORA’S BOX
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/pandoras-box.jpg)
-
-Today the phrase “to open Pandora’s box” means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open…
-
-Source: [rippreport.com/2017/05/31/pandoras-box/](https://rippreport.com/pandoras-box/)
+{{< socialpreview url="https://rippreport.com/p/pandoras-box/" >}}
 
 was brought against the city by an employee and within 30 days the council wishes to settle it and bury it. No lawsuits should be settled by employees or past employees that have made allegations against the mayor without the mayor having the opportunity to represent the people, and herself. Who encouraged these frivolous claims? Did someone on the council encourage the lawsuit and tell the employee “it will never go to court, the council will settle it in executive session, you will never have to take the stand.” That my friends is a serious crime.
 

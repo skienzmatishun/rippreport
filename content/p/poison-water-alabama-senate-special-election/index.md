@@ -14,13 +14,7 @@ In fact Mr. Sessions has considered resigning as Attorney General after assuming
 
 11 Republicans and 8 Democrats have qualified for the primary,
 
-## Alabama Senate race updated list: 11 Republicans, 8 Democrats qualify
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/22567953-standard.jpg)
-
-Today is the deadline for candidates hoping to be elected Alabama's next U.S. Senator.
-
-Source: [www.al.com/news/index.ssf/2017/05/deadline\_today\_for\_us\_senate\_r.html](www.al.com/news/index.ssf/2017/05/deadline_today_for_us_senate_r.html)
+{{< socialpreview url="https://www.al.com/news/index.ssf/2017/05/deadline_today_for_us_senate_r.html" >}}
 
 Everyone should read the bio’s of all the candidates then compare them with other articles and see how the bio’s compare. Some candidates stand out for their infamous reputations or political ambitions that drive them into becoming professional long term politicians.
 

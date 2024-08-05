@@ -1,6 +1,7 @@
 ---
 title: "BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST"
 date: 2019-09-11
+thumbnail: "img/baldwin-county-sewer-regulation-a-litmus-test.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -11,19 +12,8 @@ Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGE
 
 The biggest consumer issue in Baldwin County, the $6.00 toll, was defeated by a poll. The poll numbers rose until they reached a figure that terrified every elected official in Baldwin County. When the petition reached the 50,000 mark, elected officials hit their knees.
 
-<div class="link-preview">
+{{< socialpreviewe url="https://rippreport.com/p/fingerprint/" >}}
 
-## FINGERPRINT
-
-### FINGERPRINT | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/finger.jpg)
-
-After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy. It was a sight to behold every politician in Baldwin County showed…
-
-Source: [rippreport.com/2019/08/28/fingerprint/](https://rippreport.com/fingerprint/)
-
-</div>
 The NEW consumer issue that faces every citizen in Baldwin County is sewer regulation. Lagniappe has written three in depth articles about Baldwin County Sewer Service, BC$$. The three articles will be soon available in a combined format, on line. The Ripp Report will publish the link when available.
 
 <div class="link-preview">

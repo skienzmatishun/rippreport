@@ -10,13 +10,7 @@ authors:
 
 Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote.
 
-## Alabama Senate special election results: Who will succeed Jeff Sessions?
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/twp-social-share.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517)
-
-Voting results from the special election primary to determine who will vie for Jeff Sessions's Senate seat.
-
-Source: [www.washingtonpost.com/special-election-results/alabama/](www.washingtonpost.com/special-election-results/alabama/)
+{{< socialpreview url="https://web.archive.org/web/20180130190321/www.washingtonpost.com/special-election-results/alabama/" >}}
 
 What are we left with, Luther Strange who as our leading law enforcement officer allowed the Luv Gov. to walk in exchange for Jeff Sessions seat. Mr Strange, as Attorney General also allowed Sen. Pittman to walk with 750,000 dollars of BP money and never mentioned the anchors he left in the Bay, while others were prosecuted for far less BP crimes. Strange as it may seem big Luther now faces multiple ethics complaints.
 
@@ -24,23 +18,11 @@ Then we have Roy Moore the states supreme court justice who was thrown off the b
 
 Let’s not forget the conviction of the Alabama speaker of the house.
 
-## Alabama House Speaker Mike Hubbard convicted on 12 counts
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/20551661-large.jpg)
-
-Hubbard faces up to 20 years in prison for each ethics count.
-
-Source: [www.al.com/news/index.ssf/2016/06/house\_speaker\_mike\_hubbard\_con.html](http://www.al.com/news/index.ssf/2016/06/house_speaker_mike_hubbard_con.html)
+{{< socialpreview url="https://www.al.com/news/index.ssf/2016/06/house_speaker_mike_hubbard_con.html" >}}
 
 What about the recent revelations of the Alabama Ethics Commission,
 
-## Alabama Ethics Commission revelations go 'Boom!'
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/23176718-standard.jpg)
-
-"They haven't been corrupted by it. They're a part of it."
-
-Source: [www.al.com/opinion/index.ssf/2017/08/alabama\_ethics\_commission\_reve.html](http://www.al.com/opinion/index.ssf/2017/08/alabama_ethics_commission_reve.html)
+{{< socialpreview url="https://www.al.com/opinion/index.ssf/2017/08/alabama_ethics_commission_reve.html" >}}
 
 The above should concern you as citizens of the state because their actions, and ours for not voting, have firmly secured Alabama as number one in political corruption.
 
@@ -50,10 +32,4 @@ Baldwin County provides almost 35% of Alabama’s income and is the fastest grow
 
 So if you wonder why Alabama is number one in corruption, 46th in education and the least desirable state to live in, LOOK IN THE MIRROR.
 
-## CNBC Labels Alabama as the Worst State to Live
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/img_0771.jpg?w=1200)
-
-While states like Louisiana, Mississippi, Tennessee, and Kentucky also made the losers list, according to the article, no state was worse than Alabama.
-
-Source: [wkrg.com/2017/07/25/cnbc-labels-alabama-as-the-worst-state-to-live/](http://wkrg.com/cnbc-labels-alabama-as-the-worst-state-to-live/)
+{{< socialpreview url="https://www.wkrg.com/news/cnbc-labels-alabama-as-the-worst-state-to-live/" >}}

@@ -33,23 +33,11 @@ Notice Jack Ass is very good with semantics and blustering. However, he is grasp
 
 Why is Alabama number 50 in the US?
 
-## America's 10 worst states to live in (yep, you guessed it)
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/american-flagjpg-f6cd5e86dc941528.jpg)
-
-America's 10 worst states to live in (yep, you guessed it)
-
-Source: [www.al.com/news/index.ssf/2017/07/americas\_10\_worst\_states\_to\_li.html](www.al.com/news/index.ssf/2017/07/americas_10_worst_states_to_li.html)
+{{< socialpreview url="https://www.al.com/news/index.ssf/2017/07/americas_10_worst_states_to_li.html" >}}
 
 When you have a city council president argue before the citizens of the community that it is ok for an elected official to be awarded municipal contracts, then you must realize that’s why we are dead last. Politicians like Jack Burrell and Trip Pittman are the very reasons why Alabama cannot have nice things. To abandon all ethical standards just to give a friend and fellow elected official a contract is the epitome of corruption and public betrayal.
 
-## Pittman Renews Million Dollar Contract with Fairhope - Alabama Political Reporter
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/money.jpg)
-
-  By Bill Britt Alabama Political Reporter MONTGOMERY— In an unbroken stream dating back to July 2007, Sen. Lee Davidson Marbury “Trip” Pittman (R-Daphne) and former Baldwin County Commissioner Bob James, have held a lucrative debris removal contract awarded by the city of Fairhope. The million plus contract mostly being held by Pittman Tractor Co., Read More
-
-Source: [www.alreporter.com/2015/09/29/pittman-renews-million-dollar-contract-with-fairhope/](https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/)
+{{< socialpreview url="https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/" >}}
 
 Mayor Wilson had the contracts re-bid with fresh eyes giving others, not elected officials, new opportunity and a fair chance to bid.
 

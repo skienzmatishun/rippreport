@@ -19,13 +19,7 @@ Two area’s lacking in leadership in Fairhope are the City Council and Planning
 
 Mr Burrell is responsible for the obstruction of the Mayor and he is responsible for the Airport debacle. He is responsible for leaking information that may assist disgruntled employees in their attempt to sue the city. His “leadership” has been to influence other council members to carry his water. Mr. Burrell has been involved in some of the worst decisions the city of Fairhope has made, triangle lawsuit, soccer fields, sewer plant, the gift of wetlands from Corte, and let’s not forget the Airport. Yet Mr. Burrell huffs and puffs and the council follows him down the rat hole. They sit in silence while he denies citizens the right to free speech or he publicly bullies the Mayor.
 
-## NOW! YOU KNOW JACK
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/jackinthebox-21.jpg)
-
-Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
-
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
+{{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
 Mr. Burrell should be removed from the Fairhope Airport Authority and his position of President of the Council.
 

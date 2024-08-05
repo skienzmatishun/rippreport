@@ -24,35 +24,17 @@ Mr Burrell now is complaining about the mayor hiring an attorney to represent he
 
 Now you would think Mr Burrell would keep his head down, but you,
 
-## YOU DON’T KNOW JACK
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/YOU-DONT-KNOW-JACKLarge.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
 Jack’s flying high these days and doubling down on his attack against the Mayor, problem is that his latest move incriminates him even further and makes the council look complicit.
 
 The mayor’s attorney wrote a “confidential” letter to the Fairhope City Council outlining complaints the mayor wanted addressed. What does Jack do? He leaks it to the press. He now realizes his mistake and is developing a spin story which I am sure will blame someone else. That someone else HAS to be on the council so take your pick Beavis or Butthead. I am picking Beavis.
 
-## RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/BeavisandButthead-2.jpg)
-
-BEAVIS AND BUTTHEAD invade Fairhope Everyone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The…
-
-Source: [rippreport.com/2017/03/31/beavis-and-butthead/](https://rippreport.com/beavis-and-butthead/)
+{{< socialpreview url="https://rippreport.com/beavis-and-butthead/" >}}
 
 Fairhope loves holes and now Jack is digging one for himself and at the same time dragging the council with him,
 
-## HOLES
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/maxpixel.freegreatpicture.com-Pokes-Fun-At-Digging-Blade-Sand-Construction-Work-12672601.jpg)
-
-Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The…
-
-Source: [rippreport.com/2017/06/09/holes/](https://rippreport.com/holes/)
+{{< socialpreview url="https://rippreport.com/p/holes/" >}}
 
 The mayor posted this comment on June 11th, Mayor Karin Wilson of Fairhope, Alabama June 11 at 7:30pm.
 
@@ -62,20 +44,10 @@ I am posting this statement to provide the citizens of Fairhope an accurate acco
 
 The Gulf Coast News on June 12th published portions of the “confidential” letter, without naming their source or printing the whole letter.
 
-## Fairhope mayor retains own attorney, threatens suit against council, current city attorney
-
-![](http://gulfcoast.ostsubmedia.communityq.com/uploads/original/1488563012_5ac1.jpg)
-
-An outside attorney retained by Fairhope Mayor Karin Wilson has threatened legal action against the city council and City Attorney Marion “Tut” Wynne if a written settlement can not be …
-
-Source: [www.gulfcoastnewstoday.com/stories/fairhope-mayor-retains-own-attorney-threatens-suit-against-council-current-city-attorney,50581](www.gulfcoastnewstoday.com/stories/fairhope-mayor-retains-own-attorney-threatens-suit-against-council-current-city-attorney,50581)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/fairhope-mayor-retains-own-attorney-threatens-suit-against-council-current-city-attorney,50581" >}}
 
 It should be noted that those who have been fired or brought lawsuits against the city, hail this as transparency. The local AM radio station has also adopted the same view and commends GCN for transparency of a “confidential” letter between attorney and client to council. Oddly enough all of these “concerned” citizens are friends and support the overthrow of the first, legally elected, Mayor of Fairhope. They will all fade away with egg on their face or lock jaw from having both feet in their mouth’s.
 
 The mayor’s letter is transparent, the published, GCN article, supports the claims outlined by the mayor’s attorney. These people are not smart and now are facing going to court raising their right hand and testifying. Please ask Jack when you see him if he leaked the letter, the more he denies it the deeper the hole, also ask why he supports disgruntled employees over the best interest of the community? Be sure to ask him why he would be willing to settle frivolous lawsuits against the city?
 
-## CAUGHT IN A TRAP LIKE A RAT ![](https://cdn.rippreport.com/wp-content/uploads/2017/06/burrell-rat-21.jpg)
-
-Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and…
-
-Source: [rippreport.com/2017/02/03/caught-trap-like-rat/](https://rippreport.com/caught-trap-like-rat/)
+{{< socialpreview url="https://rippreport.com/p/caught-trap-like-rat/" >}}

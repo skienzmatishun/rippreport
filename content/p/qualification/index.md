@@ -28,16 +28,4 @@ The Alabama Attorney General needs to have a commitment to exposing and prosecut
 
 Alabama is first in political corruption, until that changes we will remain last in every thing else.
 
-<div class="link-preview">
-
-## 2018 Alabama Elections, Candidates, Races and Voting
-
-### 2018 Alabama Elections, Candidates, Races and Voting
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/01/USE-logo-boonex.png)
-
-Directory of Alabama elections. Alabama candidates for Governor, state reps and Congress (Senators / House of Representatives). AL primary and election races. Voting info. AL political parties. AL state election office.
-
-Source: [uselections.com/al/al.htm](http://uselections.com/al/al.htm)
-
-</div>
+{{< socialpreview url="https://web.archive.org/web/20190115064654/http://uselections.com/al/al.htm" >}}

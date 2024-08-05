@@ -13,13 +13,7 @@ authors:
 
 On Wonderful Wednesday we posted a story about Daphmont Neighborhood in Daphne.
 
-## MISERY LOVES COMPANY
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/comic-characters-2026645_6401.png)
-
-Daphne and Fairhope have a lot more in common than some think. One thing is that, if you allow the developers full rein, they will develop every square inch of land. Fairhope has Fly Creek Apartments…
-
-Source: [rippreport.com/2017/06/21/misery-loves-company/](https://rippreport.com/misery-loves-company/)
+{{< socialpreview url="https://rippreport.com/p/misery-loves-company/" >}}
 
 I attended the Daphne Planning and Zoning Board meeting, along with over 100 other people, all concerned about a request to change the zoning on a parcel that is located at the entrance to Daphmont Subdivision. Now I admit that I have become a little jaded when it comes to city officials doing the right thing, listing to citizens, so I was little negative when I got to the meeting.
 
@@ -35,13 +29,7 @@ The neighborhood came out in force and were very direct about their rejection of
 
 Then I witnessed something I have never seen in Fairhope. The planning and zoning board rejected the request and recommended to the Daphne City Council do the same. They listened to the CITIZENS, CITIZENS, CITIZENS.
 
-## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/Alarm_Clock_3.jpg)
-
-FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
-
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
+{{< socialpreview url="https://rippreport.com/p/fairhope-citizens-citizens-citizens/" >}}
 
 That is the power of people however in Fairhope, 9 meetings have been held in relation to Fly Creek Apartments, with a total of over 1000 attending, 99% opposed the project.
 
@@ -49,7 +37,7 @@ That is the power of people however in Fairhope, 9 meetings have been held in re
 
 For nearly three hours on Monday and for the second time in nearly two months, Fairhope residents railed against a proposed apartment development behind the Publix on U.S. Highway 98 at Parker Road. But unlike a similar meeting in early December, this time the Fairhope Planning Commission voted to recommend its approval to the Fairhope …
 
-Source: [lagniappemobile.com/despite-public-outcry-fly-creek-apartments-win-approval/](https://cdn.rippreport.com/wp-content/uploads/2017/06/despite-public-outcry-fly-creek-apartments-win-approval)
+lagniappemobile.com/despite-public-outcry-fly-creek-apartments-win-approval/
 
 Fairhope Planning and Zoning as well as the council have yet to listen to the Citizens Citizens Citizens.
 

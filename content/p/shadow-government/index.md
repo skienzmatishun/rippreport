@@ -1,6 +1,7 @@
 ---
 title: "SHADOW GOVERNMENT"
 date: 2018-08-03
+thumbnail: "img/shadow-government.png"
 categories: 
   - citycouncil
 authors: 
@@ -13,24 +14,15 @@ Fairhope is the home base of Catalyst, a shadow government that has tried every 
 
 I respect Chief Pettis and have known him for years. He has always treated me with respect as he does everyone. What the SHADOW GOVERNMENT, CATALYST did to the Chief, to support their agenda, was disrespectful and played on the Chief’s personal family issues, to boost their agenda.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/fairhopes-blast-from-the-past/"
 
-## FAIRHOPE’S BLAST FROM THE PAST
-
-### FAIRHOPE’S BLAST FROM THE PAST | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/06/blast.png)
-
-The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired…
-
-Source: [rippreport.com/2018/06/27/fairhopes-blast-from-the-past/](https://rippreport.com/fairhopes-blast-from-the-past/)
-
-</div>
 The Ripp Report receives many e-mails, text’s and face book messages each week, this is an example of two, you make up your mind. I can see the shadow.
 
 Listen to the Chief:
 
-http://newsite.wabfradio.com/audio-archives/ Fairhope Police Chief Retires.
+{{< socialpreview url="https://web.archive.org/web/20190107010710/http://newsite.wabfradio.com/audio-archives/" >}}
+
+Fairhope Police Chief Retires.
 
 Now read the comment:
 
@@ -56,45 +48,34 @@ https://lagniappemobile.com/fairhope-police-chief-announces-aug-10-retirement/
 
 Let’s not leave out the Catalyst media outlet:
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/hallucinations/" >}}
 
-## HALLUCINATIONS
-
-### HALLUCINATIONS | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/10/Chucky-chucky-the-killer-doll-25650727-409-268.png)
-
-I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations. One real…
-
-Source: [rippreport.com/2018/08/01/hallucinations/](https://rippreport.com/hallucinations/)
-
-</div>
 Second Comment:
 
-A Plea to Alabama Conservatives: “What do you have to lose?” By Anonymous August 3, 2018
-
+>A Plea to Alabama Conservatives: “What do you have to lose?” By Anonymous August 3, 2018
+?
 Dear Mr. Ripp: I read your site on the regular and wanted to write in to your many readers. I am a long-time Baldwin County resident.
-
+?
 To all of you conservatives out there: To borrow a phrase from President Trump (who is not really a republican):
-
+?
 “What do you have to lose?”
-
+?
 What exactly motivates you to vote for Alabama republicans?
-
+?
 What exactly is lost when and if you vote for a democrat over a republican?
-
+?
 Would it possibly be more useless, hypocritical candidates like Robert Bentley, “The Luv Guv”?
-
+?
 Recall the former pastor admonishing the electorate during his inaugural address: “If you are not a Christian, you are not my brother, and…I don’t want you.” This is not what Jesus said to do.
-
+?
 Many of you have grandparents who “only voted Democrat.” Ask yourself a question: “Were they bad people?”
-
+?
 Please consider voting for democrats Walt Maddox and Jason Fisher.
-
+?
 Chris Elliott is corrupted by the ill-fated machine that runs Montgomery. This is the same machine that has repeatedly put its own special pecuniary interests over the common interests of the people.
-
+>
 Thank you Mr. Ripp.
-
+>
 Anonymous
 
 A VOTE FOR ELLIOTT IS A VOTE FOR A BALDWIN COUNTY SHADOW GOVERNMENT

@@ -1,6 +1,7 @@
 ---
 title: "ROUND AND ROUND WE GO"
 date: 2016-09-16
+thumbnail: "img/round-and-round-we-go.png"
 categories: 
   - citycouncil
 tags: 

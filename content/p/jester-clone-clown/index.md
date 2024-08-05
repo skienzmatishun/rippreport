@@ -17,13 +17,7 @@ authors:
 
 Many people have been following the Ripp Report and the comments made by Jester 666. During public participation of the Fairhope city Council I asked Mr. Robert Brown if he was the Jester, he said no. I then made a comparison to Mr. Brown’s letter,
 
-## HATE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/clown-1295112_6401.png)
-
-The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council’s attorney. This is a…
-
-Source: [rippreport.com/2017/07/07/hate/](https://rippreport.com/hate/)
+{{< socialpreview url="https://rippreport.com/p/hate/" >}}
 
 and that of the comments from the Jester 666, were the same subjects. Mr. Brown also took the time a couple of months ago, during a council meeting, to express his deep respect and loyalty to the Corte family and “former” Mayor Kant. This is fine, with the exception that Mr. Brown should not vote on any Corte project.
 

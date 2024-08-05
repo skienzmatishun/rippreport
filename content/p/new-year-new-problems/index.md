@@ -16,15 +16,7 @@ authors:
 
 Fairhope entered the new year hoping there would be change and cooperation among the City Council and the Mayor. The City Council has wasted an entire year trying to obstruct the newly elected Mayor and her administration. They are now faced with the city council president being sued for preventing free speech.
 
-<div class="link-preview">
-
-## SEE YA IN COURT JACK
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/01/court2.jpg)
-
-PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
-
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 This is no way to run a municipal government. The city council should be encouraging public participation from all it’s citizens. It certainly reflects a lack of leadership when the public is discouraged from participation.
 
@@ -32,17 +24,8 @@ https://youtu.be/kDUoTFc1gOs?t=3602
 
 Fairhope now has a new problem that also can be identified as a lack of leadership. The first city council meeting of the new year had two agenda items that were very important. First was the change of zoning for property on Greeno road.
 
-## Commercialization of North Greeno Road Continues
+{{< socialpreview url="http://thefairhopetimes.blogspot.com/2018/01/commercialization-of-north-greeno-road.html" >}}
 
-### Commercialization of North Greeno Road Continues
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/01/green%2Brezone.JPG)
-
-Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel.
-
-Source: [thefairhopetimes.blogspot.com/2018/01/commercialization-of-north-greeno-road.html?spref=fb](http://thefairhopetimes.blogspot.com/2018/01/commercialization-of-north-greeno-road.html?spref=fb)
-
-</div>
 This particular piece of property, Green Nursery, is the oldest established business in Fairhope acting in a commercial capacity before Greeno Road was 4 lane. After one year of meetings finally the council voted for the obvious.
 
 The Mayor was absent as her grandmother is in intensive care, our prayers are with her and her family.

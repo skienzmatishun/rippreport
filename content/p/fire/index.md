@@ -1,6 +1,7 @@
 ---
 title: "FIRE"
 date: 2016-09-23
+thumbnail: "img/fire.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -15,13 +16,7 @@ authors:
 
 You began your political life as a commissioner by firing the county manager, EMA director county attorneys and others.
 
-## Outgoing Baldwin County commissioners fire county administrator and planning, personnel directors
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/09/baldwincountysealjpg-33952f3c6967244e.jpg)
-
-BAY MINETTE, Alabama -- In the last meeting for the current board of commissioners, officials fired three directors and demoted a fourth upon the employees; request and voted to support the Baldwin County Watershed Coalition's stormwater initiative.
-
-Source: [blog.al.com/live/2010/11/baldwin\_department\_heads\_fired.html](blog.al.com/live/2010/11/baldwin_department_heads_fired.html)
+{{< socialpreview url="https://blog.al.com/live/2010/11/baldwin_department_heads_fired.html" >}}
 
 Those fired just so happen to be the same county employees who tried to prevent Sen. Pittman from facing ethics charges related to the BP Grant. They were rewarded for their ethics by you, who fired them. As a County Commissioner you turned a blind eye to Sen. Pittman’s company receiving $750, 000, combined, contracts for BP Boom deployment. You closed your other eye by ignoring the fact that Sen. Pittman was  designated by Governor Riley as the “trustee” of the very funds he was suppose to oversee.
 
@@ -29,13 +24,7 @@ The Mega Site is a Mega Bust and has cost the county over 50 MILLION dollars, wh
 
 Let’s not forget your stance on lowering the American Flag, or that CNN interview.
 
-## Alabama county refuses to lower flags to honor Orlando victims
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/09/flag17n-1-web.jpg)
-
-The Baldwin County commissioner cited the U.S. Flag Code as a reason to not lower flags at public buildings.
-
-Source: [www.nydailynews.com/news/national/alabama-county-refuses-flags-honor-orlando-victims-article-1.2676317](www.nydailynews.com/news/national/alabama-county-refuses-flags-honor-orlando-victims-article-1.2676317)
+{{< socialpreview url="https://www.nydailynews.com/2016/06/16/alabama-county-officials-refuse-to-lower-flags-to-honor-orlando-shooting-victims-claiming-it-doesnt-meet-the-test/" >}}
 
 That really made Alabama and Baldwin County proud.
 

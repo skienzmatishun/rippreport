@@ -1,6 +1,7 @@
 ---
 title: "HALLUCINATIONS"
 date: 2018-08-01
+thumbnail: "img/hallucinations.png"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -13,34 +14,12 @@ I had major surgery June 20th and it took a full week of some serious pain medic
 
 One real bad hallucination was that Chuckee Cheeze, the editor of tabloid news and media outlet for Catalyst, received an award for Freedom of information requests and First Amendment Rights.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/courier-wins-freedom-of-information-first-amendment-award-for-fairhope-reporting,65005" >}}
 
-## Courier wins Freedom of Information - First Amendment award for Fairhope reporting
-
-### Courier wins Freedom of Information - First Amendment award for Fairhope reporting
-
-![](http://cdn1.creativecirclemedia.com/gulfcoast/original/20180723-164414-Logo-GCMedia%20copy.jpg)
-
-The Courier has won the Alabama Press Association’s prestigious Freedom of Information - First Amendment Award for its reporting on the city of Fairhope. Managing Editor Cliff McCollum won the …
-
-Source: [www.gulfcoastnewstoday.com/the-courier/stories/courier-wins-freedom-of-information-first-amendment-award-for-fairhope-reporting,65005](http://www.gulfcoastnewstoday.com/the-courier/stories/courier-wins-freedom-of-information-first-amendment-award-for-fairhope-reporting,65005)
-
-</div>
 The Alabama Press Association awarded Chuckee the award for an article that turned out to be bogus. All allegations Chuckee listed turned out not to hold any water. In fact Chuckee has written numerous articles about the Fairhope and the Mayor and every damn article has fallen on it’s face. That does not matter, what matters, is that Chuckee is the official print media representative of Catalyst.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/chuckie-cheeze/" >}}
 
-## CHUCKIE CHEEZE
-
-### CHUCKIE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/Chucky-chucky-the-killer-doll-25650727-409-268.png)
-
-April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good…
-
-Source: [rippreport.com/2018/04/04/chuckie-cheeze/](https://rippreport.com/chuckie-cheeze/)
-
-</div>
 One thing Chuckee loves to do while practicing journalism and attacking Fairhope and the Mayor is to call Fairhope City Hall for an official comment on his article’s. Problem is, he calls 10 minutes before publication, then he reports the Mayor had no comment.
 
 Part of the award was for freedom of information request he made from Fairhope. When I heard this I knew I was hallucinating. Chuckee has been provided information on many topics of corruption in Fairhope, by the Ripp Report, and he never attempted to research any of them. A closer look reveals that the persons in question were all Catalyst.
