@@ -1,6 +1,7 @@
 ---
 title: "BONUS MONEY"
 date: 2017-10-25
+thumbnail: "img/bonus-money.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

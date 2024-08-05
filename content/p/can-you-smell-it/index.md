@@ -1,6 +1,7 @@
 ---
 title: "CAN YOU SMELL IT?"
 date: 2017-10-06
+thumbnail: "img/can-you-smell-it.jpg"
 categories: 
   - freaky-friday
 tags: 
