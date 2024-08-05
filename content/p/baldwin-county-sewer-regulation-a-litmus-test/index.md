@@ -12,7 +12,7 @@ Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGE
 
 The biggest consumer issue in Baldwin County, the $6.00 toll, was defeated by a poll. The poll numbers rose until they reached a figure that terrified every elected official in Baldwin County. When the petition reached the 50,000 mark, elected officials hit their knees.
 
-{{< socialpreviewe url="https://rippreport.com/p/fingerprint/" >}}
+{{< socialpreview url="https://rippreport.com/p/fingerprint/" >}}
 
 The NEW consumer issue that faces every citizen in Baldwin County is sewer regulation. Lagniappe has written three in depth articles about Baldwin County Sewer Service, BC$$. The three articles will be soon available in a combined format, on line. The Ripp Report will publish the link when available.
 
