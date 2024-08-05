@@ -16,33 +16,15 @@ The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I sp
 
 This was back in 2016 nothing has changed except the jury did not agree. The burden of proof is on the plaintiff and they are seeking to overturn legislative action by the city, such as planning and zoning and city council actions. This is very hard to do because most people would think the safeguards such as city council and planning and zoning would prevent such an issue.
 
-## Fly Creek group files apartment development complaint - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/160412-MFV-SD-Mplan-336x228.jpg)
-
-Friends of Fly Creek LLC has filed a complaint in Baldwin County Circuit Court against Fairhope city officials and the developer of the proposed 240-unit Retreat at Fairhope Village luxury apartment development. The complaint filed by attorney Adam Milam alleges that the Fairhope City Council’s April 11 approval of a change to the Fly Creek …
-
-Source: [lagniappemobile.com/fly-creek-group-files-apartment-development-complaint/](lagniappemobile.com/fly-creek-group-files-apartment-development-complaint/)
+lagniappemobile.com/fly-creek-group-files-apartment-development-complaint/
 
 Not in Fairhope, the city council and planning and zoning rejected the public’s concerns in favor of the developer. The mayor lost his job and the new city council exacerbated the problem by playing politics and not listening to their constituents.
 
-## City Wins Fly Creek PUD Apartment Lawsuit
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/fly%2Bcreek%2Bvedict.jpeg)
-
-Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel.
-
-Source: [thefairhopetimes.blogspot.com/2017/08/city-wins-fly-creek-pud-apartment.html](http://thefairhopetimes.blogspot.com/2017/08/city-wins-fly-creek-pud-apartment.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2017/08/city-wins-fly-creek-pud-apartment.html" >}}
 
 In Oct. 2016 the council endorsed the project.
 
-## How an apartment project led to political upheaval in one of Alabama's fastest growing cities
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/21258445-standard.jpg)
-
-Fairhope, which is the fastest growing city in Alabama's fastest growing county, will see a significant changing of the guard next month when a new mayor and new council members take office. The newcomers arrive on a wave of voter anger over an apartment complex project.
-
-Source: [www.al.com/news/mobile/index.ssf/2016/10/how\_an\_apartment\_project\_led\_t.html](http://www.al.com/news/mobile/index.ssf/2016/10/how_an_apartment_project_led_t.html)
+{{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2016/10/how_an_apartment_project_led_t.html" >}}
 
 In April of 2017 the newly elected city council, with exception of Mr. Jimmy Conyers, granted an extension of time to get the project going.
 
@@ -58,13 +40,7 @@ In simple English they are going to dump any excess storm water from the apartme
 
 Guess who owns the wetlands?
 
-## RE-GIFT GIFT ??
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/08/present-150291_640.png)
-
-ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
-
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
+{{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
 Good ole Jack Burrell and Kevin Boone gladly accepted the gift and made sure no one in Fairhope knew exactly what the gift was and from whom, when caught they played dumb, an honest excuse.
 

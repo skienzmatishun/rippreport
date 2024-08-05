@@ -24,19 +24,11 @@ Judge Snedeker is Mr Ray Hix partner with Hix/Snedeker companies. This is the sa
 
 The newest issue is the HR Director and her allegations. The story should be how the allegations were secret for months. The mayor did not know a complaint had been filed, Jack did.
 
-## Fairhope HR restructure could cause demotion for current director
-
-Changes to the Human Resources department for the city of Fairhope could be coming soon, as Mayor Karin Wilson said the department is being changed to suit the city’s needs. “It’s just a …
-
-Source: [www.gulfcoastnewstoday.com/stories/fairhope-hr-restructure-could-cause-demotion-for-current-director,49685](https://cdn.rippreport.com/wp-content/uploads/2017/05/fairhope-hr-restructure-could-cause-demotion-for-current-director,49685)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/fairhope-hr-restructure-could-cause-demotion-for-current-director,49685">}}
 
 The incident happened Dec.29,17, the HR director filed an incident report to police a month later Jan. 25th, she did not file a claim until May 19,17, the above article is dated May 12. The director saw it coming so she played her trump card and filed a claim, witnessed by Fidler, who was fired. These people are not very smart.
 
-## Claim alleges assault by Fairhope mayor on city HR director
-
-Editor’s note: The following article may contain language that could be seen as offensive to some readers, but there is a relevant reason for doing so. Reader discretion is advised.A claim has …
-
-Source: [www.gulfcoastnewstoday.com/stories/claim-alleges-assault-by-fairhope-mayor-on-city-hr-director,49966](www.gulfcoastnewstoday.com/stories/claim-alleges-assault-by-fairhope-mayor-on-city-hr-director,49966)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/claim-alleges-assault-by-fairhope-mayor-on-city-hr-director,49966" >}}
 
 The HR director now “is receiving medication for 'her nerves' and the alleged assault continues to affect her ability to work.” She is now seeking damages in the amount of $100,000. If successful, she will not need medication. If this is the case she should be fired immediately or given an unpaid leave of absence until the legal issue is resolved.
 

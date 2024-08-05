@@ -12,49 +12,16 @@ I could smell the skunk through my computer, the first time that I read, Chuck Z
 
 Mr Zunk was appointed to the finance committee by the council, Jack Burrell, to monitor, and financially obstruct the Mayor, and take over the budget process, that did not fly.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/flying-high/" >}}
 
-## FLYING HIGH
-
-### FLYING HIGH | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/05/flyinghigh.jpg)
-
-Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.
-
-Source: [rippreport.com/2018/05/25/flying-high/](https://rippreport.com/flying-high/)
-
-</div>
 Please remember Zunk’s connection to the Airport scandal and dubious airplane hanger lease. He stands firmly behind Jack’s efforts to be sure the Airport property stays with the Airport Authority, instead of the city who paid for it.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/hi-jack-ed/" >}}
 
-## Hi-JACK-ed
-
-### Hi-JACK-ed | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/12/dbcooper.jpg)
-
-The Ripp Report closes out 2016 with congratulations to John Sharp Al.com. Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes Mayor Karin Wilson and…
-
-Source: [rippreport.com/2016/12/30/hi-jack-ed/](https://rippreport.com/hi-jack-ed/)
-
-</div>
 It is well known around City Hall and the Community that Mr Zunk will use every opportunity, public and private, to attack the Mayor. This animosity comes from the Airport Scandal, hopefully Mr Zunk will have to raise his hand in court one day and answer some very difficult questions involving Jack and the Airport. Fairhope breeds bullies, especially bullies that pick on women.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
-## NOW! YOU KNOW JACK
-
-### NOW! YOU KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/02/jackinthebox-2.jpg)
-
-Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
-
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
-
-</div>
 Something just was not right so I went to the public meeting, called by Mr Zunk, last night at the library, but first I read From the desk of Mayor Wilson, the City’s position and petition.
 
 Council-Manager Form of Government JUNE 21, 2018 COMMUNITY
@@ -79,7 +46,6 @@ I believe Sam Gaston says it best, “If you hire a professional manager, you wi
 
 You can meet Mr Gaston at the meeting Thursday, June 21st at the library to discuss this new form of government more.
 
-<div class="link-preview">
 
 ## READ THIS AGAIN:
 
@@ -94,6 +60,7 @@ Mayor Karin Wilson
 Fairhope City Council meeting June 25th at 6:00pm
 
 How could anyone not understand what the position of the Mayor is?
+<div class="link-preview">
 
 ## HERE COMES THE SKUNK
 
@@ -112,37 +79,13 @@ Zunk the skunk has his own variation of the petition,
 
 “Thanks for your votes on At-Large vs Districts, we had 65 total votes with the majority of 39 (60%) for At-Large, so that's how we will move forward. Many of you included an explanation of your reasoning, which I was very pleased to read. You have done your homework!” ZUNK the SKUNK explained. Zunk the Skunk is not the only skunk in Baldwin county.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/catalyst-skunk/" >}}
 
-## CATALYST SKUNK
-
-### CATALYST SKUNK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/dorsey-1.jpg)
-
-County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
-
-Source: [rippreport.com/2018/03/28/catalyst-skunk/](https://rippreport.com/catalyst-skunk/)
-
-</div>
 You should smell a foul smell about this time. Mr Zunk through his survey of 65 people has now decided that the 39 people is all he needs to change the petition from districts to at large. WOW 39 people out of 20,000 is all the skunk needs to push HIS agenda and petition, which HAS NOT been approved by the Probate Judge or Sec. Of State.
 
 Zunk slipped this in last night to an unsuspecting crowd. Mr Zunk asked the crowd if they had any questions? When the Mayor got up to clarify what was being said, Zunk the Skunk instructed the crowd, “listen to me not her” cut the Mayor off, and did not render the microphone. Zunk has learned well from Burrell, deny people and the Mayor the ability to exercise the right of Free Speech.
 
-<div class="link-preview">
-
-## SEE YA IN COURT JACK
-
-### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/court.jpg)
-
-PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
-
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
-
-</div>
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 ## FEDERAL COURT
 
@@ -156,17 +99,8 @@ If this does not work we go back to the drawing board. Fairhope needs citizens t
 
 Fairhope’s needs to replace the self serving B’s, they are the problem.
 
-## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+{{< socialpreview url="https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
-### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/3bs.png)
-
-Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when…
-
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
-
-</div>
 ## PLEASE SIGN THE APPROVED PETITION, NOT THE ONE THAT STINKS
 
 ## THIS IS VERY IMPORTANT TO THE FAIRHOPE COMMUNITY
