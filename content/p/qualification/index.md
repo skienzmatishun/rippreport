@@ -1,6 +1,7 @@
 ---
 title: "QUALIFICATION"
 date: 2018-01-19
+thumbnail: "img/qualification.png"
 categories: 
   - freaky-friday
 tags: 

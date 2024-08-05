@@ -1,6 +1,7 @@
 ---
 title: "LIARS BRIDGE"
 date: 2022-07-29
+thumbnail: "img/liars-bridge.jpg"
 categories: 
   - freaky-friday
 authors: 

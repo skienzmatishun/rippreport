@@ -1,6 +1,7 @@
 ---
 title: "NEW YEAR NEW PROBLEMS"
 date: 2018-01-12
+thumbnail: "img/new-year-new-problems.jpg"
 categories: 
   - freaky-friday
 tags: 

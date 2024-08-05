@@ -1,6 +1,7 @@
 ---
 title: "DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE"
 date: 2016-11-11
+thumbnail: "img/dont-throw-rocks-if-you-live-in-a-glass-house.jpg"
 categories: 
   - freaky-friday
 tags: 

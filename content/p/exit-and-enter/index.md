@@ -1,6 +1,7 @@
 ---
 title: "EXIT AND ENTER"
 date: 2016-11-04
+thumbnail: "img/exit-and-enter.jpg"
 categories: 
   - freaky-friday
 tags: 
