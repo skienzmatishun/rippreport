@@ -52,7 +52,7 @@ When it comes to compassion he has none, but he’s a “Christian”.
 
 ## Pittman holds back autism bill, threatening session
 
-{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/ >}}
+{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/" >}}
 
 If you endorse political corruption then Pittman is your tool.
 
