@@ -1,6 +1,7 @@
 ---
 title: "WETLANDS"
 date: 2017-10-11
+thumbnail: "img/wetlands.jpg"
 categories: 
   - citycouncil
 tags: 

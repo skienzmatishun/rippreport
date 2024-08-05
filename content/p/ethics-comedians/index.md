@@ -1,6 +1,7 @@
 ---
 title: "ETHICS COMEDIANS"
 date: 2017-10-19
+thumbnail: "img/ethics-comedians.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

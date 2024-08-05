@@ -1,6 +1,7 @@
 ---
 title: "MISERY LOVES COMPANY"
 date: 2017-06-22
+thumbnail: "img/misery-loves-company.png"
 categories: 
   - wonderful-wednesday
 tags: 
