@@ -1,7 +1,7 @@
 ---
 title: "FAIRHOPE LAWSUITS"
 date: 2017-10-27
-thumbnail "img/fairhope-lawsuits.jpg"
+thumbnail: "img/fairhope-lawsuits.jpg"
 categories: 
   - citycouncil
 tags: 
