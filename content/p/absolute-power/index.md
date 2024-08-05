@@ -22,7 +22,7 @@ Between 1837 and 1869, he was known as Sir John Dalberg-Acton, 8th Baronet. He i
 
 There will be no Golden Key for Fairhope. Special interests now have total control. Catalyst/Scott Boone Consulting did a good job of running what turned out to be a popularity contest, Wilson lost.
 
-https://rippreport.com/fairhopes-golden-key/
+{{< socialpreview url="https://rippreport.com/p/fairhopes-golden-key/" >}}
 
 Sherry Sullivan is the new Mayor and she will enjoy a honeymoon time before being sworn in. One thing I hope resonates with her is that the three B’s have been running the show and Jack is the king B.
 
@@ -34,17 +34,17 @@ I do wish Sherry all the luck in the world and would like to suggest that she no
 
 Sherry will inherit many issues that the council created and many more she is not aware of.
 
-https://rippreport.com/catalyst-council-lawsuits/
+{{< socialpreview url="https://rippreport.com/p/catalyst-council-lawsuits/" >}}
 
 Lawsuits were all but eliminated during Wilson term, except for a couple that the council keep kicking down the road, now the road ends at Sherry’s desk.
 
 Another issue the council has ignored and the city attorney is trying to make disappear is the McSherry case. As the new Mayor, Sherry will need to address the issue or accept the blow back from women of the community.
 
-https://rippreport.com/women-stand-together/
+{{< socialpreview url="https://rippreport.com/p/women-stand-together/" >}}
 
 Sherry’s biggest problem will be the three B’s. They will feel empowered and will consider their past transgressions are no more than water under the bridge. If Sherry ignores the continued corruption of the 3 B’s. It will be her undoing.
 
-https://rippreport.com/catalyst-last-stand/
+{{< socialpreview url="https://rippreport.com/p/catalyst-last-stand/" >}}
 
 Sherry Sullivan is the new Mayor of Fairhope I wish her well and sincerely hope the City Council treats her with respect that a Woman and Mayor deserve. It has been absent the last four years.
 
