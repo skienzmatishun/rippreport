@@ -24,19 +24,8 @@ Some strongly feel that the Airport Authority needs a face lift, like taking Cap
 
 The Airport Authority, piloted by Captain Jack is again playing games when it comes to leases of hangers at the Airport. The Authority Board President Joe McEnerney, was soundly reminded by Captain Jack that he is at the controls.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-airport-authority-seeks-applicants-for-hangar-leases/article_2effa4af-12a2-5402-9cd9-bfbe51ab6d8d.html" >}}
 
-## Fairhope Airport Authority seeks applicants for hangar leases - Lagniappe Mobile
-
-### Fairhope Airport Authority seeks applicants for hangar leases - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/03/Fairhope-Airport-courtesy-of-Fairhope-Times.jpg)
-
-How does the Fairhope Airport Authority’s latest notice of availability for airport hangar leases differ from its last? To begin with, it was publicly advertised. For the past two weeks, the Authority published a notice in the Mobile Press-Register soliciting applications from private developers to build hangars on one of five available hangar pads at …
-
-Source: [lagniappemobile.com/fairhope-airport-authority-seeks-applicants-for-hangar-leases/](https://lagniappemobile.com/fairhope-airport-authority-seeks-applicants-for-hangar-leases/)
-
-</div>
 After the defeat of former Fairhope Mayor Can’t, in 2016, documents were presented to the Ripp Report pertaining to leases of hangers at the Airport and the suspicious nature in which the bids were handled. Captain Jack was getting free air miles and golf vacations from a board member while overseeing the bid process for the same board member.
 
 {{< socialpreview url="https://rippreport.com/p/fairhope-citizens-citizens-citizens/" >}}
