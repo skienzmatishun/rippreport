@@ -26,7 +26,7 @@ CATALYST named and unnamed individuals, ”form an integral part of an intricate
 
 Read the Strawman series and focus in on the spider web graph. You want to know who is CATALYST and just how corrupt they are ? Read it and take note of the players, Scott Boone and his father, Fairhope councilman Kevin Boone. Strawman is land fraud, and CATALYST/Scott Boone have their fingerprints all over it along with Baldwin County sewer and past County Commissioner Tucker Dorsey. This Lagniappe series exposes just a small segment of corruption that is eating away at Baldwin County resources, for the benefit of a few.
 
-https://rippreport.com/strawman-spiderweb/
+{{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}
 
 CATALYST associates operate very similar to a criminal enterprise.
 
@@ -34,14 +34,14 @@ The FBI defines a criminal enterprise as “a group of individuals with an ident
 
 If you want to find out more about CATALYST/ Scott Boone Consulting you can go to:
 
-https://rippreport.com/ Go to tags on right side of page and click CATALYST, here are two past posts:
+https://rippreport.com/tags/catalyst/
 
-https://rippreport.com/elliott-stacy-haygood-catalyst-who-is-in-the-picture/
+{{< socialpreview url="https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/" >}}
 
-https://rippreport.com/catalyst-does-fairhope/
+{{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
 CATALYST recently lost the First Congressional Race to Mr Jerry Carl. This was a victory for the citizens of Baldwin County. Please help, VOTE, in your municipal election in Baldwin County AUG. 25th.
 
-https://rippreport.com/catalyst-ass-whoopin/
+{{< socialpreview url="https://rippreport.com/p/catalyst-ass-whoopin/" >}}
 
 ## REJECT CATALYST CANDIDATES
