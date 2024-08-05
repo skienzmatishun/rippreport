@@ -14,7 +14,7 @@ Fairhope is the home base of Catalyst, a shadow government that has tried every 
 
 I respect Chief Pettis and have known him for years. He has always treated me with respect as he does everyone. What the SHADOW GOVERNMENT, CATALYST did to the Chief, to support their agenda, was disrespectful and played on the Chief’s personal family issues, to boost their agenda.
 
-{{< socialpreview url="https://rippreport.com/p/fairhopes-blast-from-the-past/"
+{{< socialpreview url="https://rippreport.com/p/fairhopes-blast-from-the-past/" >}}
 
 The Ripp Report receives many e-mails, text’s and face book messages each week, this is an example of two, you make up your mind. I can see the shadow.
 
