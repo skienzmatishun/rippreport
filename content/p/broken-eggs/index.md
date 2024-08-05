@@ -20,46 +20,16 @@ Fairhope City Council is as dysfunctional as a square bowling ball. Led by Counc
 
 Hello! Is it not the responsibility of the City Council to review the budget and ask questions while developing solutions? They are the elected officials, not the “APPOINTED” finance committee. Is King Jack going to use the finance committee to further obstruct the Mayor and city budget?
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/opposition-obstruction/" >}}
 
-## OPPOSITION / OBSTRUCTION
-
-### OPPOSITION / OBSTRUCTION | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/10/OA-500x500.jpg)
-
-Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is calling the shots. One thing that is perfectly clear…
-
-Source: [rippreport.com/2017/09/15/opposition-obstruction/](https://rippreport.com/opposition-obstruction/ )
-
-</div>
 Why is this committee not made up of volunteers? Because the council cannot control volunteers. A familiar name has popped up on the newly appointed committee Mr. Chunk Zunk, formally of the Fairhope Airport Authority, FAA. He resigned from this position about the time President of the Council, Burrell, was accepting free jet service provided by another board member Ray Hix, who is partners with Fairhope Municipal Judge Snedeker. Zunk has defended Mr. Burrell’s free airplane flights, flawed RFP’s and any conflicts of interest Burrell may have as a council president or his position as the city’s liaison to the FAA. All this is under investigation.
 
-<div class="link-preview">
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html" >}}
 
-## Airport Authority Selects New Leadership
-
-### Airport Authority Selects New Leadership
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/10/airport%2Baugust.jpg)
-
-Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel.
-
-Source: [thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html](http://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html)
-
-</div>
 Let’s hope that Mr. Zunk is not carrying Burrell’s water, he was on the Fairhope Finance committee in 2010 when Burrell was not President and Kant was Mayor. That volunteer finance committee did a very good job, let’s hope this committee is not going to follow Jack’s political agenda and looks out for the best interests of the city. Fairhope needs to be progressive because we are behind in infrastructure and many other areas due to poor policies of past administrations, that Burrell and Boone served on.
 
-<div class="link-preview">
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2010/04/fairhope-financial-chairman-warns-city.html" >}}
 
-## Fairhope Financial Chairman Warns: "City Not Meeting Financial Goals." Special Council Meeting Called
-
-### Fairhope Financial Chairman Warns: "City Not Meeting Financial Goals." Special Council Meeting Called
-
-Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel.
-
-Source: [thefairhopetimes.blogspot.com/2010/04/fairhope-financial-chairman-warns-city.html](http://thefairhopetimes.blogspot.com/2010/04/fairhope-financial-chairman-warns-city.html)
-</div>
 The council is now going to pass it’s responsibility of overseeing the budget to a select group they appoint. Wake up Fairhope. We elected the council for the job, the finance committee should review the council suggestions to the budget first, then offer it’s opinion. It should not be used as a vehicle by council to further obstruct the city operations and delay the city budget.
 
 Here are some observations by citizens paying attention:
@@ -69,46 +39,17 @@ Here are some observations by citizens paying attention:
 > Brown is a builder and he wants impact fees as low as they can be because the higher the fees the harder it is to afford to build. You did note that there is a cap on fees which means the more expensive houses pay a lower % impact fee. I was surprised Burrell voted that way. I realize many of the council votes are routine and uncontroversial but I find it amazing that Burrell and Boone have voted the same on every single issue. There has also not been a single issue where they voted on the losing side. Sometimes it’s 3-2 or 4-1 but they have been in the majority.
 
 > Soccer Fields; my son plays in Fairhope youth soccer. The new $6 million fields aren’t level. It is sad because the council said it would be “world class.” The kids are embarrassed by their “new” fields that aren’t even level!!!!!!!!!!!!!
-<div class="link-preview">
 
-## New soccer complex construction underway in Fairhope
-
-The City of Fairhope is building a new soccer complex. 40 ACRES, NINE FIELDS. Construction began earlier this year on a 40 acre soccer complex at Manley Road and County Road 13.
-
-Source:[http://www.fox10tv.com/story/30508841/update-new-soccer-complex-in-fairhope](http://www.fox10tv.com/story/30508841/update-new-soccer-complex-in-fairhope)
-
-</div> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HYZhZMGnpEY?si=ztD24XfgFL2lcCyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The fields not being level has come up many times and mostly by the kids playing on the fields. What started at an estimated 3.5 million is now approaching 6 million, for a sub standard facility that more resembles practice fields not tournaments fields.
 
 Jack Burrell was council president when the triangle lawsuit, sewer plant, gift of wetlands to the city, soccer fields, golf course, library and city buildings in need of renovation, and all the mess at the Airport occurred, so was his trusted amigo Boone.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
-## YOU DON’T KNOW JACK
-
-### YOU DON’T KNOW JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/11/YOU-DONT-KNOW-JACKLarge.jpg)
-
-I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by…
-
-Source: [rippreport.com/2016/11/25/you-dont-know-jack/](https://rippreport.com/you-dont-know-jack/)
-
-</div>
 Jack also has said the sewer spills are unavoidable and he and Boone said nothing when 10 million dollars was transferred from utilities to the general budget, in 15 and 16, for non-utility expenses, damn the infrastructure.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
-## RE-GIFT GIFT ??
-
-### RE-GIFT GIFT ?? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/present-150291_640.png)
-
-ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
-
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
-
-</div>
 From your observation point you should see by now Jack is not a leader and has a poor track record as council president. The council is putting all it’s eggs in Burrell’s basket, if he falls all the eggs break.

@@ -36,7 +36,7 @@ The 1993 Alabama ban on Yoga has been embarrassing this state for almost 30 year
 
 The state Board of Education passed a regulation barring yoga from public schools in 1993 because of yoga’s ties to the Hindu religion. 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcindy.obrien.56%2Fposts%2F10226709989396762&amp;show_text=true&amp;width=500" width="500" height="487" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.al.com/news/2021/05/lawmakers-approve-bill-to-allow-yoga-in-alabama-public-schools.html" >}}
 
 Kick the can!
 

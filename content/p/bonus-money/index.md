@@ -42,17 +42,8 @@ Chucky and the tabloid did their part in supporting the fired employees:
 
 Fairhope elected a new Mayor and council over one year ago
 
-## Voters elect new mayors in Fairhope, elsewhere - Lagniappe Mobile
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/voters-elect-new-mayors-in-fairhope-elsewhere/article_55a1ea9d-8ec9-5af5-84c3-4ba59926468f.html" >}}
 
-### Voters elect new mayors in Fairhope, elsewhere - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/10/13901534_1777611435818565_115139740496685078_n.jpg)
-
-The city of Fairhope will have its first new mayor in 16 years, after challenger Karin Wilson defeated four-term incumbent Tim Kant by earning 3,523 votes of 6,589 ballots cast, or roughly 53.3 percent. Wilson, the owner of Page & Palette bookstore and coffeeshop, was a relatively late candidate in the race, having launched her …
-
-Source: [lagniappemobile.com/voters-elect-new-mayors-in-fairhope-elsewhere/](http://lagniappemobile.com/voters-elect-new-mayors-in-fairhope-elsewhere/)
-
-</div>
 The council is quick to obstruct the Mayor and that is their only accomplishment for the first year. Wake up Fairhope this council is costing you money and Jack Burrell’s leadership is non existent.
 
 {{< socialpreview url="https://rippreport.com/p/job-with-benefits/" >}}

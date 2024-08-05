@@ -45,7 +45,7 @@ The subdivision was given less that a week’s notice that previous plans, discu
 
 Exercising no transparency, little notice, and a whole lot of bullshit, the city purchased property within the subdivision and proceed to bulldoze their latest plan to “Enhance Development” and provide the “Developers” their electric demands, while ignoring the citizens investment in their property as well as their Quality of Life.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159250287032317&amp;show_text=true&amp;width=500" width="500" height="615" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-residents-fight-proposed-electrical-substation/article_34255f09-c0cf-58c3-b712-c50ef4d98848.html" >}}
 
 Citizens showed up and voiced their disgust with the city’s lack of transparency and deaf attitude. The issue was tabled until June 10th meeting. The public should support Hawthorne Glenn citizens that oppose putting an electric sub station in a residential neighborhood.
 
@@ -95,9 +95,9 @@ They are looking out for your tax dollars. Ha Ha
 
 What about the $6.2 million Waterfront project. Tens of thousands wasted in design and changes to the plan that Jack used as a political weapon in the last election, against the best interests of the community.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F3039966172698830&amp;show_text=true&amp;width=500" width="500" height="305" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/nail-in-the-coffin/"}}
 
-What about the toll Jack proposes for all citizens crossing the proposed new Bay Bridge, after he pledged “No [Toll](https://rippreport.com/tag/tolls/)” ?
+What about the toll Jack proposes for all citizens crossing the proposed new Bay Bridge, after he pledged “No Toll” ?
 
 Jack fought against districts and district representation as well as opposing a city manager, all so he can maintain control and power. Jack wants citizens powerless and ignorant.
 
