@@ -16,51 +16,12 @@ The biggest consumer issue in Baldwin County, the $6.00 toll, was defeated by a 
 
 The NEW consumer issue that faces every citizen in Baldwin County is sewer regulation. Lagniappe has written three in depth articles about Baldwin County Sewer Service, BC$$. The three articles will be soon available in a combined format, on line. The Ripp Report will publish the link when available.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/article_bd637b03-34fe-5c27-a861-a99b4c8821be.html" >}}
 
-## Sept 4
+{{< socialpreview url="https://www.lagniappemobile.com/news/judge-orders-sale-of-proposed-sewer-plant-property/article_73ffdbad-a2ce-52e6-9ce2-719a3d3da421.html" >}}
 
-## Despite previous attempts, private sewer provider has escaped local regulation - Lagniappe Mobile
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
-### Despite previous attempts, private sewer provider has escaped local regulation - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2017/05/Baldwin-County-Sewer-Service-logoweb.jpg)
-
-While Baldwin County’s only private sewer provider has operated with limited government regulation since its founding, records indicate it has, at times, been under scrutiny both by elected officials and the law. Baldwin County Commission meeting minutes over the past two decades are ripe with approvals for extensions of Baldwin County Sewer Service’s (BCSS) service …
-
-Source: [lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/](https://lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/)
-
-</div>
-<div class="link-preview">
-
-## Aug 29
-
-## Judge orders sale of proposed sewer plant property - Lagniappe Mobile
-
-### Judge orders sale of proposed sewer plant property - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2017/05/Baldwin-County-Sewer-Service-logoweb.jpg)
-
-A 242-acre Magnolia Springs property at the center of a five-year legal battle involving some of Baldwin County’s biggest movers and shakers will be equitably divided among the two contesting parties, according to a court order Tuesday. In what may be the final hearing in the case of Bass Enterprises vs. Pennstar et al, Baldwin …
-
-Source: [lagniappemobile.com/judge-orders-sale-of-proposed-sewer-plant-property-2/](https://lagniappemobile.com/judge-orders-sale-of-proposed-sewer-plant-property-2/)
-
-</div>
-<div class="link-preview">
-
-## Aug 21
-
-## ‘Straw man’ — Lawsuit reveals complex Baldwin business partnerships - Lagniappe Mobile
-
-### ‘Straw man’ — Lawsuit reveals complex Baldwin business partnerships - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-21-at-12.30.23-PM.png)
-
-By Rob Holbert & Gabe Tynes If you were nosing through Baldwin County land sales records and happened across a particular sale of 247 acres of real estate near Magnolia Springs, you’d have reason to believe Oct. 28, 2005 was a very good day for Hopper Land Development South LLC. On that day, a company …
-
-Source: [lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/](https://lagniappemobile.com/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/)
-
-</div>
 Baldwin County now has a “NEW” consumer issue that effects every citizen in the county, sewer regulation.
 
 Mr Richard Dayton of GlenLakes subdivision in Foley is leading the charge.
