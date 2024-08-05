@@ -46,11 +46,11 @@ Well I do not know the donor but I was told by a councilman that Diana Brewer of
 
 In the meeting the Director of Weeks Bay said several times that Weeks Bay did not seek out Fairhope for the Conservation Easement. The Director may not have known Diana was going rouge and trying to advance her political agenda, at the expense of Fairhope Citizens. As a former councilwoman she knew damn well that a conservation easement was not in the best interest of the city.
 
-{{< socialpreview url="https://rippreport.com/p/hello-can-you-hear-me-now/"
+{{< socialpreview url="https://rippreport.com/p/hello-can-you-hear-me-now/" >}}
 
 Councilman Boone and Burrell also are in bed with the developers. They saddled the City with the responsibility of wet lands the developer screwed up.
 
-{{< socialpreview url="https://rippreport.com/p/re-gift-gift/"
+{{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
 Councilman Brown also gets credit with VOTING to satisfy the developer, not surprising when he is a developer and contractor and close friend of Arthur Corte. Mr Brown was the contractor for the soccer field building and the Art Center contract, where he is a Board member. Down home Robert Brown doing the town.
 
