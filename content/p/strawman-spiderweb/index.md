@@ -20,7 +20,7 @@ Many people watched the bully council in their last meeting where Councilman Boo
 
 What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 
-https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
 Boone panicked and did not know what I may say next.
 
@@ -28,17 +28,17 @@ He realized that the subject had switched from McSharry to “Strawman” and he
 
 It will take a little reading but the “Strawman” case demonstrates the depth of corruption and the spider graph links the players.
 
-https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
 Some of the links are on a Lagniappe Paywall
 
-https://lagniappemobile.com/sale-pending-on-magnolia-springs-property-central-to-straw-man-case/
+{{< socialpreview url="https://www.lagniappemobile.com/news/sale-pending-on-magnolia-springs-property-central-to-straw-man-case/article_9bf0868e-0065-5b71-9eea-bd1c34a7b307.html" >}}
 
 You will see how a conspiracy works, how attorneys and judges disregarded any conflict of interest that they may have for favors from a few.
 
 The latest article outlines a new lawsuit filed by a Baldwin County Property Association, Daphne’s Bellaton.
 
-https://lagniappemobile.com/burke-delaney-implicated-in-new-civil-lawsuit/
+{{< socialpreview url="https://www.lagniappemobile.com/news/burke-delaney-implicated-in-new-civil-lawsuit/article_8078d5b1-2ebe-547e-b26d-02679e3a828e.html" >}}
 
 > “The complaint alleges the defendants, named and unnamed,”form an integral part of of an intricate web of multiple concentric layers of companies that are intermingled around and intended, among other things, to conceal the interrelationships among and between, and to insulate from liability, the defendants, DeLaney and Burke as the principal actors who have ultimately owned, controlled, managed or directed the operations and financial transactions of these defendants and non- defendants.”
 
