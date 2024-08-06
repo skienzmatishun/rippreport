@@ -1,6 +1,7 @@
 ---
 title: "ALABAMA SEC. OF STATE: \"THE ONLY ONE\""
 date: 2018-04-11
+thumbnail: "img/alabama-sec-of-state-the-only-one.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -23,15 +24,7 @@ Let’s not leave out the Attorney General of Alabama who is aware of the proble
 
 Governor Kay Ivey just signed HB 371:
 
-<div class="link-preview">
-
-## New AL law to help economic developers raises ethics questions
-
-### New AL law to help economic developers raises ethics questions
-
-Opponents expressed concern this law would create two classifications of lobbyists, those who are registered and have to obey state ethics laws and those who don't.
-
-Source: [www.wsfa.com/story/37914583/new-al-law-to-help-economic-developers-raises-ethics-questions](http://www.wsfa.com/story/37914583/new-al-law-to-help-economic-developers-raises-ethics-questions)
+{{< socialpreview url="https://www.wsfa.com/story/37914583/new-al-law-to-help-economic-developers-raises-ethics-questions" >}}
 
 Alabama is going backwards.
 
@@ -46,6 +39,7 @@ The Ripp Report had submitted complaints to the Alabama Sec, of State for the pa
 John Merrill, Sec. of State took the unprecedented move to have the 2016 Fairhope election monitored by his office. Karin Wilson, facing an Incumbent Mayor of 16 years with four times as much campaign money, won by approximately 600 votes. Many citizens of Fairhope believe this outcome was only possible due to the polling places being monitored by the Sec. Of State.
 
 John Merrill Sec. Of State for Alabama will be getting my vote I encourage you to do the same.
+<div class="link-preview">
 
 ## Home | Alabama Secretary of State
 

@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE JESTER AND FLY CREEK"
 date: 2018-04-30
+thumbnail: "img/fairhope-jester-and-fly-creek.jpg"
 categories: 
   - ethics
 tags: 
@@ -18,33 +19,9 @@ It has been reported to The Ripp Report that the Jester is also spinning the Eth
 
 The Jester also is dismissing any Ethics Complaint exists. The case number for the Ethics Complaint against Fairhope City councilman and Eastern Shore Art Center Board member, Robert Brown, is 2018-42. If anyone has any additional information relative to this case please contact the Alabama Ethics Commission.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/fairhope-jester/" >}}
 
-## THE FAIRHOPE JESTER
-
-### THE FAIRHOPE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/04/robjester.jpg)
-
-The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
-
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
-
-</div>
-<div class="link-preview">
-
-## Ethics complaint filed against Fairhope Councilman Robert Brown
-
-### Ethics complaint filed against Fairhope Councilman Robert Brown
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/04/1520289808_7b60.jpg)
-
-Local blogger Francis Paul Ripp, who writes The Ripp Report blog, has filed a complaint with the Alabama Ethics Commission against Fairhope Councilman Robert Brown regarding his private business …
-
-Source: [www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187](http://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187)
-
-</div>
-## Fairhope Standard: Gravity Fed VS Low Pressure Sewer System
+{{< socialpreview url="http://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187" >}}
 
 ### Fairhope Standard: Gravity Fed VS Low Pressure Sewer System
 
@@ -64,6 +41,6 @@ Future land use planning will be a component of a new and reality-based Comprehe
 
 Fairhope Utilities must operate efficiently and effectively. We have determined that the gravity fed sewer system allows us to do that while providing the best possible sewer service to our customers. Land use planning helps our utilities to plan sewer services into the future using our standard to determine whether we can serve the site economically. If not, other plans will be made for the site. Maintaining the standard keeps costs down for the city’s utilities company and the consumer. Deviating from the set standard costs the utilities company and our consumer. You can read more about this from [Water Environment & Reuse Foundation](https://cdn.rippreport.com/wp-content/uploads/2018/04/Water-Environment-Reuse-Foundation.pdf).
 
-Source: [www.mayorkarinwilson.com/fairhope-standard-gravity-fed-vs-low-pressure-sewer-system/](http://www.mayorkarinwilson.com/fairhope-standard-gravity-fed-vs-low-pressure-sewer-system/)
+{{< socialpreview url="https://web.archive.org/web/20200823044740/http://www.mayorkarinwilson.com/fairhope-standard-gravity-fed-vs-low-pressure-sewer-system/" >}}
 
 Don’t miss Wonderful Wednesday the Eagle will be flying.

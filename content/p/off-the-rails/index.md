@@ -1,6 +1,7 @@
 ---
 title: "OFF THE RAILS"
 date: 2020-01-10
+thumbnail: "img/off-the-rails.jpg"
 categories: 
   - citycouncil
 authors: 

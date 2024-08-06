@@ -1,6 +1,7 @@
 ---
 title: "HELL YEA"
 date: 2018-09-24
+thumbnail: "img/hell-yea.png"
 categories: 
   - monday-madness
 authors: 

@@ -1,7 +1,7 @@
 ---
 title: "I QUIT AND WILL QUIT AGAIN"
 date: 2018-03-21
-thumbnail: "img/i-quit-and-will-quit-again.jpg"
+thumbnail: "img/I-quit-and-will-quit-again.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

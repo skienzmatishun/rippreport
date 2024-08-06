@@ -1,6 +1,7 @@
 ---
 title: "PEOPLE POWER"
 date: 2018-02-16
+thumbnail: "img/people-power.png"
 categories: 
   - freaky-friday
 tags: 

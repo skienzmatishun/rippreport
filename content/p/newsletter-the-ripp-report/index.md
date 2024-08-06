@@ -1,6 +1,7 @@
 ---
 title: "NEWSLETTER - THE RIPP REPORT"
 date: 2018-02-07
+thumbnail: "img/newsletter-the-ripp-report.png"
 categories: 
   - wonderful-wednesday
 authors: 

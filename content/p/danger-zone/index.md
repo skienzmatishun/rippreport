@@ -1,6 +1,7 @@
 ---
 title: "DANGER ZONE"
 date: 2020-02-15
+thumbnail: "img/danger-zone.png"
 categories: 
   - freaky-friday
 authors: 
@@ -11,4 +12,4 @@ Highway 98 and Parker Road are becoming more dangerous with every passing day. Y
 
 The below listed complaint effects every motorist traveling through the intersection. Please read this, it is what happens when you have politicians and developers in the same bed.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2020/02/DOC004\_compressed.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2020/02/DOC004\_compressed.pdf

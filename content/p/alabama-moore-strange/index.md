@@ -18,19 +18,8 @@ Well hold your nose, cover your eyes and close your mouth because Alabama Republ
 
 BIG LUTHER STRANGE is going to Washington to clean up the swamp. He is the epitome of the swamp, exactly what you do not want to see in Washington. As Alabama Attorney General he did little other than let Sen. Trip Pittman off on BP fraud charges and then gave our Luv Gov a pass on all his lies and sordid affair. The Republicans in Alabama have been given their marching orders, and millions of dollars, from Washington, THE SWAMP, and Mitch McConnell.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/strange-sold-his-soul-in-this-race/article_f1c79b7f-a579-55e0-8839-a58772049ccb.html" >}}
 
-## Strange sold his soul in this race - Lagniappe Mobile
-
-### Strange sold his soul in this race - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/Luther-Strange.jpg)
-
-With the Republican runoff for the United States Senate less than a week away, it is evident Luther Strange is becoming exponentially more desperate each day. The current placeholder for Jeff Sessions’ old seat is running behind former Alabama Supreme Court Chief Justice Roy Moore in all the polls, so the Republican Senate Leadership Fund …
-
-Source: [lagniappemobile.com/strange-sold-soul-race/](http://lagniappemobile.com/strange-sold-soul-race/)
-
-</div>
 MOORE STRANGE
 
 Roy Moore has been thrown off the Alabama Supreme Court, TWICE. Mr. Moore would not have a chance in any other state in the U.S. with such an infamous claim. Many say how they respect his religious beliefs, while they ignore the rule of law and put religion, their religion, ahead of any oath of office or constitutional rights.
