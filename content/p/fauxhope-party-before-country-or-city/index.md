@@ -1,6 +1,7 @@
 ---
 title: "FAUXHOPE - PARTY BEFORE COUNTRY OR CITY"
 date: 2017-12-22
+thumbnail: "img/fauxhope-party-before-country-or-city.jpg"
 categories: 
   - freaky-friday
 tags: 
