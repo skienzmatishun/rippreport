@@ -10,15 +10,7 @@ authors:
 
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.
 
-<div class="link-preview">
-
-## Coronavirus Disease 2019 (COVID-19) | Alabama Department of Public Health (ADPH)
-
-### Coronavirus Disease 2019 (COVID-19) | Alabama Department of Public Health (ADPH)
-
-![](https://cdn.rippreport.com/wp-content/uploads/2020/04/health-300x49.png)
-
-Source: [www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html](https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html)
+{{< socialpreview url="https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html" >}}
 
 The Governor has resisted giving the statewide order for “stay at home” or “Shelter in Place”. Her foolish decision is based on the people pulling her strings.
 
@@ -28,17 +20,8 @@ News Flash! You can catch the coronavirus in Church or at the Beach.
 
 We are all in this together that means we ALL need to cooperate and work with one another. Our health depends on it.
 
-## APRIL FOOL
+{{< socialpreview url="https://rippreport.com/p/april-fool/" >}}
 
-### APRIL FOOL
-
-![](https://cdn.rippreport.com/wp-content/uploads/2020/04/april-fools.jpg)
-
-In Alabama some citizens are participating 100%, at the potential risk of others.
-
-Source: [rippreport.com/2020/04/01/april-fool/](https://rippreport.com/april-fool/)
-
-</div>
 In Baldwin County each of the 14 municipalities is handling the virus independently.
 
 This will not work.

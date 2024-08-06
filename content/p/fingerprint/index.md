@@ -22,17 +22,6 @@ You would have thought election day was tomorrow. Not one person in a standing r
 
 POISON IVY got the message it only took 38 minutes after the meeting for her to throw in the towel.
 
-<div class="link-preview">
+{{< socialpreview url="https://yellowhammernews.com/ivey-i-10-mobile-river-bridge-and-bayway-project-is-dead/" >}}
 
-## Ivey: I-10 Mobile River Bridge and Bayway project is 'dead' - Yellowhammer News
-
-### Ivey: I-10 Mobile River Bridge and Bayway project is 'dead' - Yellowhammer News
-
-![](https://yellowhammernews.com/wp-content/uploads/2019/07/Interstate-10-Mobile-River-Bridge-Toll-Kay-Ivey-2.jpg)
-
-The I-10 Mobile River Bridge and Bayway project, which ALDOT was proposing to partially pay for with a toll, is "dead," according to Governor Kay Ivey.
-
-Source: [yellowhammernews.com/ivey-i-10-mobile-river-bridge-and-bayway-project-is-dead/](https://yellowhammernews.com/ivey-i-10-mobile-river-bridge-and-bayway-project-is-dead/)
-
-</div>
 Baldwin County citizens need to learn from this experience. Strength is in numbers not in a political party.
