@@ -1,7 +1,7 @@
 ---
 title: "THE POT AND THE KETTLE ARE BLACK"
 date: 2018-01-24
-thumbnail: "img/the-pot-and-the-kettle-are-black.png"
+thumbnail: "img/the-pot-and-kettle-are-black.png"
 categories: 
   - wonderful-wednesday
 tags: 

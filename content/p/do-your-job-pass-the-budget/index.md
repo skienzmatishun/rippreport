@@ -1,6 +1,7 @@
 ---
 title: "DO YOUR JOB, PASS THE BUDGET"
 date: 2017-12-18
+thumbnail: "img/do-your-job-pass-the-budget.png"
 categories: 
   - monday-madness
 tags: 
@@ -19,32 +20,15 @@ The City Council in Fairhope has accomplished very little in their first year, o
 
 Dec. 6th the City council had a special called meeting, again the Mayor explained to the council that the lack of an approved budget is affecting employees and city operations. The Mayor has proposed many ideas to the council that will save money in the long run, however the council has displayed an ultra conservative view of city finances focusing on expenses and ignoring any progressive view. The council is thinking within their term the Mayor and city staff are thinking 20 to 30 years ahead.
 
-<div class="link-preview">
+{{< socialpreview url="https://gulfcoastnewstoday.com/stories/fairhope-budget-battle-continues,56283" >}}
 
-## Fairhope budget battle continues
-
-### Fairhope budget battle continues
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/12/1470163322_577e.jpg)
-
-The city of Fairhope is already several months in to Fiscal Year 2018, but has yet to pass a budget - a point Mayor Karin Wilson continually mentioned during a special called Fairhope City Council …
-
-Source: [gulfcoastnewstoday.com/stories/fairhope-budget-battle-continues,56283](http://gulfcoastnewstoday.com/stories/fairhope-budget-battle-continues,56283)
-
-</div>
 One item in the budget is the sacred cow of council president Burrell, Fairhope Airport. You can bet your bottom dollar “come fly with me “ Burrell will be sure to protect his crony friends at the airport above the best interests of the city. Burrell will not take any questions related to the airport and still hides behind the Alabama Non-Ethics Commission. Fairhope employees are also tiring of Mr Burrell’s micro managing employees and exercising authority he does not have as a council member nor that of council president. Mr Burrell has even gone so far as to silence the public by refusing to allow persons that disagree with him the ability to speak at public meetings
 
 Burrell and the council have sided with fired employees, choosing to aid the disgruntled employees with litigation against the city. They then, as a council, will vote to approve any settlement. Most council members on the council should recuse themselves altogether as they know these employees personally. Instead they are going to set legal precedent for the next fired employee to do the same, with your tax dollars.
 
 I bet Burrell and council will not bring that up during budget discussions.
 
-## NOW! YOU KNOW JACK
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/12/jackinthebox-2.jpg)
-
-Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the…
-
-Source: [rippreport.com/2017/08/30/now-you-know-jack/](https://rippreport.com/now-you-know-jack/)
+{{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
 The Fairhope City Budget is the responsibility of the City Council, the Mayor and the city employees and citizens are waiting for them to do their jobs.
 

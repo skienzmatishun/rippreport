@@ -1,6 +1,7 @@
 ---
 title: "ALABAMA THE BEAUTIFUL"
 date: 2017-12-13
+thumbnail: "img/alabama-the-beautiful.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
