@@ -14,7 +14,7 @@ CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money 
 
 Mr. McCollum, aka Chuckee Cheeze, has single highhandedly taken a historic newspaper, The Fairhope Courier, founded In Fairhope in 1894. and turned it into a political print media source for Catalyst and special interest.
 
-https://lagniappemobile.com/five-baldwin-newspapers-new-ownership/
+{{< socialpreview url="https://www.lagniappemobile.com/style/media/five-baldwin-newspapers-under-new-ownership/article_67cea0a6-aff4-56e6-b146-ddb6c2fc1148.html" >}}
 
 The Courier even received an award for a totally bogus story that ended up costing the city thousands of dollars,
 

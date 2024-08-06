@@ -21,29 +21,12 @@ Please remember the council voted no for any legal representation of the Mayor.
 
 IN YOUR FACE
 
-<div class="link-preview">
-
-## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/Alarm_Clock_3.jpg)
-
-FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
-
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
+{{< socialpreview url="https://rippreport.com/p/fairhope-citizens-citizens-citizens/" >}}
 
 Councilman Brown is following in the footsteps of Burrell.
 
-## THE FAIRHOPE JESTER
+{{< socialpreview url="https://rippreport.com/p/fairhope-jester/" >}}
 
-### THE FAIRHOPE JESTER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/robjester1.jpg)
-
-The Public Doctrine: Our government is a democracy which means the “people rule.” At this time in our democracy it seems there are less people involved, which results in a serious challenge to the…
-
-Source: [rippreport.com/2018/02/23/fairhope-jester/](https://rippreport.com/fairhope-jester/)
-
-</div>
 As a result of his actions an Ethics Complaint has now been filed:
 
 > Feb.26 2018
@@ -120,19 +103,8 @@ IN YOUR FACE
 
 On the Baldwin County level we have Mr. Chris Elliott running for Tripp Pittman’s seat. Elliott is an original charter member of Catalyst and a vote for him is a vote for Catalyst and the good ole boys. This Lagniappe article sums up Mr Elliott and his word.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html" >}}
 
-## Who’s Chris Elliott trying to fool? - Lagniappe Mobile
-
-### Who’s Chris Elliott trying to fool? - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/DTT.jpg)
-
-In terms of sheer political theater, watching Baldwin County Commissioner Chris “I Have Sinned” Elliott trying to fool voters into believing he hasn’t attempted to use political clout to keep his license after a May 2016 DUI is Tony Award worthy. Elliott took it up a notch last Thursday when he spoke at a luncheon …
-
-Source: [lagniappemobile.com/whos-chris-elliott-trying-fool/](http://lagniappemobile.com/whos-chris-elliott-trying-fool/)
-
-</div>
 Wake up people they are doing this:
 
 IN YOUR FACE
