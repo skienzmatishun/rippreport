@@ -15,11 +15,7 @@ authors:
 
 The last time Baldwin County saw a conviction was Mayor Steve Russo in 2006.
 
-## Former Orange Beach Mayor Convicted
-
-A federal court jury in Mobile has convicted former Orange Beach Mayor Steve Russo and two others. The jury reached a verdict Friday afternoon.
-
-Source: [www.wsfa.com/story/5360017/former-orange-beach-mayor-convicted](www.wsfa.com/story/5360017/former-orange-beach-mayor-convicted)
+{{< socialpreview url="https://www.wsfa.com/story/5360017/former-orange-beach-mayor-convicted/" >}}
 
 Ten years and not one FBI, Ethics or Attorney General investigation resulted in even a TRIAL. It would make one think that Baldwin County is free of political corruption and that our elected officials are putting their constituents first. That is not the case. What we have is a failing by authorities to do their job. The burden is on us the citizens of this county to EXPOSE those who choose to manipulate our judiciary and Ethics.
 
@@ -43,10 +39,6 @@ If you have every tried to reach Senator Pittman for any County issue you wish t
 
 A political sequence of events has resulted in State Senator Pittman as a candidate to replace Jeff Sessions as a United States Senator, to be decided by Luv Gov. Bentley who used BP funds to renovate a beach mansion into his poody pad.
 
-## Alabama Governor’s Use of Oil Spill Funds for Mansion Draws Criticism
-
-In a capital where almost anything can turn contentious, there has mostly been a consensus on a matter of housekeeping for close to two decades: A rehabilitation of a ramshackle governor’s mansion on the gulf coast would be political folly.
-
-Source: [www.nytimes.com/2016/01/12/us/alabama-governors-mansion-bp.html?\_r=0](www.nytimes.com/2016/01/12/us/alabama-governors-mansion-bp.html?_r=0)
+{{< socialpreview url="https://www.nytimes.com/2016/01/12/us/alabama-governors-mansion-bp.html" >}}
 
 Folks I know drugs are illegal but if the Luv Gov. appoints Pittman, then someone’s doing acid. We be Trippin!

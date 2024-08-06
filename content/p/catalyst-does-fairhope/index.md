@@ -22,16 +22,8 @@ Notice to all citizens traveling on Highway 98 through Fairhope that cross the P
 
 The Fly Creek Apartments are preparing site work for 230 apartments to be built along Fly Creek, behind the Publix. They are clear cutting every living thing off the site, just as they did with the Publix site.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/despite-public-outcry-fly-creek-apartments-win-approval/article_ea287e36-5958-52ee-a88b-f9889226344f.html" >}}
 
-## Despite public outcry, Fly Creek apartments win approval - Lagniappe Mobile
-
-### Despite public outcry, Fly Creek apartments win approval - Lagniappe Mobile
-
-For nearly three hours on Monday and for the second time in nearly two months, Fairhope residents railed against a proposed apartment development behind the Publix on U.S. Highway 98 at Parker Road. But unlike a similar meeting in early December, this time the Fairhope Planning Commission voted to recommend its approval to the Fairhope …
-
-Source: [lagniappemobile.com/despite-public-outcry-fly-creek-apartments-win-approval/](http://lagniappemobile.com/despite-public-outcry-fly-creek-apartments-win-approval/)
-</div>
 This project is a classic example of what you can expect from a Catalyst candidate or supporter.
 
 Fairhope’s former Mayor Tim Kant and his former subordinates and entitled developer, Angelo Corte are to thank for a development no one wanted, except those who would profit. Catalyst supported the developer not the community. The City Council aided and abetted Mayor Kant and the developer while ignoring the overwhelming public outcry against the project.

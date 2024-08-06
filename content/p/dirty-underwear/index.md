@@ -20,13 +20,13 @@ A decade ago, before the Alabama Legislature passed the ban in 2010, tracking ca
 
 Please get a Lagniappe and read this article and you will see why Alabama is number one in the United States for being the most politically corrupt. The Ethics Commission sugarcoats 17 violations. The Bar Association and the Attorney General do nothing, no criminal charges are filed.
 
-https://lagniappemobile.com/noncompliance-and-ethics-violations-lawsuit-and-examiners-report-allege-issues-state-bar/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/noncompliance-and-ethics-violations-lawsuit-and-examiners-report-allege-issues-at-state-bar/article_4582380f-cc7e-506b-adbd-a10d1ab4530a.html" >}}
 
 “The Bar Association also paid McCallum $37,437 in August 2021, roughly 10 months after he resigned. The Bar has not explained why he received those perks after resigning while under investigation by the Ethics Commission
 
 McCallum was fined $100,000 by the Alabama Ethics Commission for his violations, but faced no criminal prosecution from the Attorney General’s Office.”
 
-https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 The Ethics Commission’s Executive Director, Tom Albritton, has got a pass from the Ethics Commission, Alabama Bar and the Attorney General. The only recourse for any justice is to file a civil suit against Mr Albrittion the trustees and the bank. This is blatant in your face corruption.
 

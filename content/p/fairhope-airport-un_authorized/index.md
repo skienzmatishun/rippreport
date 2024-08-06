@@ -26,12 +26,6 @@ The third paragraph:
 
 On August 7, 2015 three board members resigned— why?
 
-## Airport Authority Selects New Leadership
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/12/airport%2Baugust.jpg)
-
-FOUNDING OFFICERS RESIGNING At its July meeting, Airport Authority members unanimously voted to appoint Joe McEnerney as next chairman, Pam Caudill vice chair, and Ray Hix secretary/treasurer: to be finalized at the August 18th meeting: previously-announced resignations of Chuck Zunk, Rod Platt and Charlie Bassett become effective in September.
-
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html" >}}
 
 Joe McEnerey was unanimously appointed as Chairman, Pam Caudill as Vice Chair and Ray Hix as Secretary/Treasure, by the Airport Authority. From that day forward, board member Hix was privileged to confidential information regarding airport leases, bids, and financial information the general public is not privy to. Mr. Hix should not have proceeded as a board member to secure a lease as Mid Bay Air LLC. Mr Burrell and the new board members turned a blind eye to the obvious conflict of interest.
@@ -54,7 +48,7 @@ On Dec. 2 2016 the Alabama Ethics Commission replied,
 
 On Dec 23 2015, prior to any Ethics Opinion, the Airport Authority signed a memorandum of lease with Mid-Bay Air LLC.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/12/lease-ripp.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2016/12/lease-ripp.pdf
 
 The only conclusion to make is that the lease is null and void and that the Airport Board failed miserably to oversee an obvious conflict of interest or even their own due diligence of complying with Ethics rules. Mr Burrell should resign his position immediately.
 

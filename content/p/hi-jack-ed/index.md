@@ -13,33 +13,15 @@ authors:
 
 The Ripp Report closes out 2016 with congratulations to John Sharp [Al.com](al.com).
 
-## Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/12/21757883-standard.jpg)
-
-Mayor Karin Wilson and Council President Jack Burrell dispute the future of the city's airport and hiring decisions.
-
-Source: [www.al.com/news/mobile/index.ssf/2016/12/sparks\_fly\_in\_fairhope\_new\_may.html](www.al.com/news/mobile/index.ssf/2016/12/sparks_fly_in_fairhope_new_may.html)
+{{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2016/12/sparks_fly_in_fairhope_new_may.html" >}}
 
 and Lagniappe Jane Nicholes,
 
-## Fairhope Council President, Mayor clash over airport land deal - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/12/BB_Airport.jpg)
-
-Fairhope Mayor Karin Wilson has failed in her attempt to gain control of much of H.L. “Sonny” Callahan Airport land for the city. Following a discussion marked by sharp personal criticism of Wilson from Council President Jack Burrell, the council voted Dec. 22 to allow the Fairhope Airport Authority to maintain control of the land …
-
-Source: [www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/](www.lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-council-president-mayor-clash-over-airport-land-deal/article_99540473-7208-57ca-ab2d-f262d5ff5949.html" >}}
 
 and Lagniappi Ron Sivak,
 
-## Continental Motors ditching Mobile for Fairhope - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2016/12/REALDEAL.jpg)
-
-Continental Motors Group Ltd., an AVIC International Holding Corp. company, recently announced its operating division, Southern Avionics and Interiors, will relocate to the H.L. “Sonny” Callahan Airport in Fairhope from its current location at Brookley Aeroplex. The goal of the move is to integrate maintenance, repair and overhaul services (MRO) across divisions, according to a …
-
-Source: [www.lagniappemobile.com/continental-motors-ditching-mobile-fairhope/](www.lagniappemobile.com/continental-motors-ditching-mobile-fairhope/)
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/editorials/continental-motors-ditching-mobile-for-fairhope-updated/article_91118dc9-15eb-5a5e-8db7-080a9f5f39af.html" >}}
 
 for their articles covering the Fairhope Airport Authority. Please watch for follow up articles that are sure to come.
 

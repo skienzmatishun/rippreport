@@ -32,13 +32,7 @@ The Airport Authority has a Board of Directors who are supposed to handle Airpor
 
 Please see related article:
 
-## Fairhope Airport Authority to accept $2.9 Million in grant funding
-
-![](http://gulfcoast.ostsubmedia.communityq.com/uploads/original/1468616510_8f1f.jpg)
-
-FAIRHOPE -- The Fairhope City Council accepted a resolution at last week’s council meeting for the Fairhope Airport Authority to accept $2.9 million in grant funding for the construction of an …
-
-Source: [www.gulfcoastnewstoday.com/stories/fairhope-airport-authority-to-accept-29-million-in-grant-funding,41800](www.gulfcoastnewstoday.com/stories/fairhope-airport-authority-to-accept-29-million-in-grant-funding,41800)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/fairhope-airport-authority-to-accept-29-million-in-grant-funding,41800](www.gulfcoastnewstoday.com/stories/fairhope-airport-authority-to-accept-29-million-in-grant-funding,41800" >}}
 
 A request for proposal ( RFP ) is a type of bidding solicitation in which a company or organization announces that funding is available for a particular project or program, and companies can place bids for the project's completion. These proposals can take weeks or months to properly construct.
 
@@ -92,4 +86,4 @@ To the new members of the city council I say this is not what we expect of you, 
 
 **YOU DON’T KNOW JACK**
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/11/FOIA.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2016/11/FOIA.pdf

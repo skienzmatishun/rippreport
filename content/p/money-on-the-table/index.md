@@ -34,19 +34,8 @@ Timing is important with the permitting phase of this project and the council wa
 
 The next meeting is May 11th, another delay and money on the table.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-unveils-design-for-6-2-million-pier-project/article_cacbc89c-b062-5ce8-abc0-d1322012ac61.html" >}}
 
-## Fairhope unveils design for $6.2 million pier project - Lagniappe Mobile
-
-### Fairhope unveils design for $6.2 million pier project - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-28-at-6.48.25-AM-e1588078594604.png)
-
-The Fairhope City Council got its first peek at a conceptual plan to redesign the space surrounding its landmark pier and parks around its public beaches Monday. As part of a $6.2 million working waterfront and bluff stabilization project funded by the RESTORE Act through the Alabama Gulf Coast Recovery Council, the design and engineering …
-
-Source: [lagniappemobile.com/fairhope-unveils-design-for-6-2-million-pier-project/](https://lagniappemobile.com/fairhope-unveils-design-for-6-2-million-pier-project/)
-
-</div>
 This article has a paywall, you can subscribe or pick up a free copy at news stands.
 
 The CATALYST Council then refused to consider the Mayor’s Marketing plan for all businesses in Fairhope. The Mayor wished to hire a marketing firm and come up with a helpful strategy for Fairhope business owners who have experienced severe financial difficulties during the Covid-19 Pandemic. Included was a plan to welcome tourist back to Fairhope.
@@ -71,17 +60,12 @@ What irony the CATALYST council turns down economic development for Fairhope bus
 
 Think that is stupid? Then consider this. The Council will not support the Mayor and the Marketing Plan for $65,000 but they did support:
 
-1\. Raising their salary and full family insurance for the entire council, approximately $125,000.
-
-2\. Councilman Burrell, Brown and Boone, the 3 B’s, without public participation, purchased 2.65 million for recreation land then leased it for 9000 a year. Fairhope desperately needs that money now. The council has no plan and no money for development of this property. This deal stinks of CATALYST.
-
-3\. The CATALYST council has made repeated efforts to give away the Triangle property that cost taxpayers 13 million in a legal settlement. Beware they will try it again before municipal elections.
-
-4\. The CATALYST council paid 2.5 million for the K-1 Center, Fairhope Community Park and the Nix Center. They however allowed nothing for immediate repairs and have elected to put a temporary roof on the K-1 Center and have no renovation plans, or money, for the properties.
-
-5\. The CATALYST council, especially, the great negotiator, Burrell, have spent over half a million dollars on the clock property, the final price may exceed $600,000.00 for 1000 sq, feet of property. Burrell, and council oppose spending $65,000 for Fairhope business interest while ignoring the trillions the federal government is spending to protect business and employees.
-
-6\. Baldwin County Economic Development Alliance, BCEDA, is run by Lee Lawson, brother in law to Mayor Dane Haygood and very close friend of Burrell, all are CATALYST, “Status Quo” players. CATALYST taking care of CATALYST.
+1. Raising their salary and full family insurance for the entire council, approximately $125,000.
+2. Councilman Burrell, Brown and Boone, the 3 B’s, without public participation, purchased 2.65 million for recreation land then leased it for 9000 a year. Fairhope desperately needs that money now. The council has no plan and no money for development of this property. This deal stinks of CATALYST.
+3. The CATALYST council has made repeated efforts to give away the Triangle property that cost taxpayers 13 million in a legal settlement. Beware they will try it again before municipal elections.
+4. The CATALYST council paid 2.5 million for the K-1 Center, Fairhope Community Park and the Nix Center. They however allowed nothing for immediate repairs and have elected to put a temporary roof on the K-1 Center and have no renovation plans, or money, for the properties.
+5. The CATALYST council, especially, the great negotiator, Burrell, have spent over half a million dollars on the clock property, the final price may exceed $600,000.00 for 1000 sq, feet of property. Burrell, and council oppose spending $65,000 for Fairhope business interest while ignoring the trillions the federal government is spending to protect business and employees.
+6. Baldwin County Economic Development Alliance, BCEDA, is run by Lee Lawson, brother in law to Mayor Dane Haygood and very close friend of Burrell, all are CATALYST, “Status Quo” players. CATALYST taking care of CATALYST.
 
 This is the same council that now rejects a $65,000 economic plan for the businesses in Fairhope. The Mayor has a plan and how to pay for it.
 
