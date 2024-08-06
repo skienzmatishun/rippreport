@@ -20,19 +20,8 @@ Tim Kant ran Fairhope as his own dynasty which was run like organized crime. Eve
 
 Even the local elections were suspected as being rigged and after the last election, monitored by the Sec. Of State, many now feel vindicated for their suspicions.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/secretary-of-state-clears-voter-fraud-investigation/article_c7ff9a15-ba0b-51a8-aef7-e4f3c9505cf2.html" >}}
 
-## Secretary of State clears voter fraud investigation - Lagniappe Mobile
-
-### Secretary of State clears voter fraud investigation - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/12/sed-me-.jpg)
-
-Alabama Secretary of State John Merrill has found no proof of voter fraud in Alabama’s Dec. 12 special Senate race after investigating a Doug Jones supporter who made a single statement on a confusing election night news report. Jones is the first Democratic senator Alabama has elected in 25 years, and since he bested Republican …
-
-Source: [lagniappemobile.com/secretary-state-clears-voter-fraud-investigation/](http://lagniappemobile.com/secretary-state-clears-voter-fraud-investigation/)
-
-</div>
 I used to think that is was low voter turnout, straight ticket voting and Kant loyalists that were responsible for such corrupt government. It was all three, but one other factor has now emerged, the Moore Factor, that gives us an accurate percentage of people that put their Political party ahead of their city or country.
 
 In Fairhope it explains a lot, 30% voted and 62% were for Moore and Jones received 37%. Daphne and Mobile county went with Jones.
@@ -43,13 +32,7 @@ That 62% will stand behind Jack Burrell and the council while their noses are sh
 
 The 70% who did not vote are even more responsible for the corruption.
 
-## DO YOUR JOB, PASS THE BUDGET
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/12/Exclamation_mark1.png)
-
-Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam…
-
-Source: [rippreport.com/2017/12/18/do-your-job-pass-the-budget/](https://rippreport.com/do-your-job-pass-the-budget/)
+{{< socialpreview url="https://rippreport.com/p/do-your-job-pass-the-budget/" >}}
 
 The last Ripp Report advised everyone to watch Burrell and the budget.
 
