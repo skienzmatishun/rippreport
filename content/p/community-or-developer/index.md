@@ -17,7 +17,7 @@ Sorry for the delay of the Ripp Report.
 
 CITY OF FAIRHOPE CITY COUNCIL AGENDA MONDAY, 10 APRIL 2017 - 6:00 PM. - CITY COUNCIL CHAMBER
 
-5\. Final Adoption – An Ordinance Amending Ordinance No. 1572: Fly Creek PUD Sunset Provision; Paragraph 3 (a).
+5. Final Adoption – An Ordinance Amending Ordinance No. 1572: Fly Creek PUD Sunset Provision; Paragraph 3 (a).
 
 This will be the 10th time this subject has come up and it cost the previous mayor and others their jobs. No one is for the project except those married to it. Thousands are against it, however the city council keeps kicking the can down the road. Monday night, they can kill it or they will be forever be considered cowards who bowed down to the developer. A cross they will bare throughout their term.
 
@@ -29,34 +29,10 @@ Please read the Good ole Boy articles below, especially the highlighted parts. T
 
  
 
-## A 'Developing' Dilemma
+{{< socialpreview url="https://thebaldwininsider.wordpress.com/2017/03/31/a-developing-dilemma" >}}
 
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/29257df78a1e7611f050b73ad5aa2a09c9679a471.jpeg)
-
-New apartments near Fly Creek could impact the watershed, but with the new environmental regulations placed by the city before the Era of Bad Feelings, they stand to make less of an impact than the Rock Creek Subdivision did and new single family homes going up in the area do.
-
-If you’ve been here for 75 years and are upset about development, that’s understandable.
-
-If you were here when Scenic 98 was still actual 98 or when 83 was 83 and not the Baldwin Beach Express, you’ve got a legitimate beef. ... Otherwise, sit down and shut the hell up because you are a part of the problem you’ve been bitching about.
-
-Source:[https://thebaldwininsider.wordpress.com/a-developing-dilemma/](https://thebaldwininsider.wordpress.com/2017/03/31/a-developing-dilemma)
-
-## Who is The Baldwin Insider?
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/266e42aaf88a4af9d7b102ed0f2df62f389d85eb1.png)
-
-We are a collective of Baldwin County citizens who are tired of how things are being done here. We see injustice. We see insanity. We see stupidity, waste and general idiocy, and we call it out. ... We remain anonymous because there is no one author, no lone person or group that’s putting all of this together.
-
-We are...Spartacus
-
-Source: [https://thebaldwininsider.wordpress.com/who-is-the-baldwin-insider/](https://thebaldwininsider.wordpress.com/2017/03/29/who-is-the-baldwin-insider/)
+{{< socialpreview url="https://thebaldwininsider.wordpress.com/2017/03/29/who-is-the-baldwin-insider/" >}}
 
 Then be sure to read and watch the video:
 
-## 'Fearless' Fairhope mayor battles City Council bull
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/3-29fairhopegirlbulljpg-57513a22423de5ef.jpg)
-
-That "Fearless Girl" reminds me Fairhope's new mayor, Karin Wilson, as she takes on the good ol' boy politics of this charming Alabama town.
-
-Source: [www.al.com/opinion/index.ssf/2017/03/fairhope\_mayor\_battles\_city\_co.html](www.al.com/opinion/index.ssf/2017/03/fairhope_mayor_battles_city_co.html)
+{{< socialpreview url="https://www.al.com/opinion/index.ssf/2017/03/fairhope_mayor_battles_city_co.html" >}}
