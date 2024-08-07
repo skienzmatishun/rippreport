@@ -44,9 +44,9 @@ Public Participation is AFTER the Oath, If this does not wake up people in Fairh
 
 Jack Burrell is giving Fairhope the finger and the Mayor and Council, directed by CSB, are going to SELECT not ELECT who THEY want and the hell with anyone else that ran for office.
 
-https://lagniappemobile.com/fairhope-city-council-to-consider-vacant-seat-monday/
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-city-council-to-consider-vacant-seat-monday/article_04eb3f4e-6ca2-5000-bd89-b099ac102ad5.html" >}}
 
-“I reached out to \[Place 2 City Councilman Corey Martin\] and my basic premise is ‘let’s choose from the people who ran,” Gammon said. “It sort of irks me. If you hold a public office you have every right to resign, but I think every other candidate ran a campaign with the intent to serve a full term if elected. We had a lot of qualified candidates and even if \[the City Council\] isn’t choosing from those whose did run, what’s the metric we are using to choose a replacement?”
+>“I reached out to \[Place 2 City Councilman Corey Martin\] and my basic premise is ‘let’s choose from the people who ran,” Gammon said. “It sort of irks me. If you hold a public office you have every right to resign, but I think every other candidate ran a campaign with the intent to serve a full term if elected. We had a lot of qualified candidates and even if \[the City Council\] isn’t choosing from those whose did run, what’s the metric we are using to choose a replacement?”
 
 Fairhope is being run by CSB because it was CSB who put them in office. Fairhope is going to pay big time for the corrupt officials they elected. Mayor Wilson is history and she was the closed door between the good ole boys, CSB and out right corruption. The door has been taken off its hinges.
 

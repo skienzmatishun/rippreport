@@ -28,9 +28,9 @@ Thank You Nick Saban and the Alabama Football team for diminishing the negative 
 
 What Irony is it that Tommy Tuberville is going in the opposite direction of Saban. Tuberville was elected by straight ticket voting. Alabama is one of only six states that still has straight ticket voting.
 
-“Tuberville was forced out, of Auburn, because he has been frustrating Auburn's fans, powerful boosters, and administration with his machinations for years. And there is more evidence that he was simply losing control of his situation at Auburn: it was filtering down to the players.” He was paid over 5 million to just leave with a 85/40 record.
+>“Tuberville was forced out, of Auburn, because he has been frustrating Auburn's fans, powerful boosters, and administration with his machinations for years. And there is more evidence that he was simply losing control of his situation at Auburn: it was filtering down to the players.” He was paid over 5 million to just leave with a 85/40 record.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpaul.porter.129%2Fposts%2F10226314797682645&amp;show_text=true&amp;width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.theringer.com/2020/11/3/21547185/tommy-tuberville-alabama-senate-election-campaign" >}}
 
 Take your pick who do you want your kids to emulate.
 

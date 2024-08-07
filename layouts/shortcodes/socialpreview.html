@@ -58,6 +58,9 @@
                         {{- else if eq $baseURL "yellowhammernews.com" -}}
                     <img loading="lazy"  style="height:32px;width:290px;max-width:100%;" src="https://rippreport.com/img/yellow-hammer-logo.png" alt="Yellow Hammer News Logo">
                         <br> {{ $json.title | strings.TrimSuffix " - Yellowhammer News"}}
+                                                {{- else if eq $baseURL "theringer.com" -}}
+                    <img loading="lazy"  style="height:95px;width:200px;max-width:100%;" src="https://rippreport.com/img/the-ringer-logo.png" alt="The Ringer Logo">
+                        <br> {{ $json.title }}
                 {{- else if eq $baseURL "www.altoday.com" -}}
                     <img loading="lazy"  style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
                         <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}

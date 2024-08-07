@@ -28,7 +28,7 @@ It is disturbing that police departments are prioritizing lethal combat weapons 
 
 Recently the sheriff’s office has refused to turn over critical footage of body camera and vehicle footage in the Johnathan Victor case. Lagniappe has had to hire an attorney and take legal action in order to acquire “missing” footage in the Victor case. The issue is still in court.
 
-https://lagniappemobile.com/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man-2/
+{{< socialpreview url="https://www.lagniappemobile.com/news/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man/article_d84b62b0-b609-5921-ba9b-0ac3cae1b844.html" >}}
 
 This is one of several incidents, in the last couple of years where excessive force was used and NO non lethal weapons were used by the BCSO. This case has now found it’s way to federal court, with another case soon to follow. In a deposition Sheriff Hoss Mack made an absolutely astonishing statement, “ that at the time, may 2017, BCSO had no crisis intervention team and deputies had not been trained in de-escalation techniques”.
 

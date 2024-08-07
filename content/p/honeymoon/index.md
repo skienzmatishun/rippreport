@@ -22,7 +22,7 @@ authors:
 
 Catalyst/Scott Boone Consulting, CSB, and “acting” Mayor Burrell along with the “actual” mayor are going through their honeymoon, and I mean honey. Since Robert Brown quit, Burrell has been on fire to replace him with Jay Marblemouth Robinson who did not seek re-election.
 
-https://rippreport.com/i-quit/
+{{< socialpreview url="https://rippreport.com/p/i-quit/" >}}
 
 In Baldwin County they like to select rather than elect. Burrell, Sullivan and Boone are now paying back CSB and their backers.
 
@@ -38,7 +38,7 @@ Brown quits and walks away on a Monday night, without any notice and Jack, the n
 
 Jack is going to give Fairhope a lesson on who is in charge.
 
-https://lagniappemobile.com/fairhope-city-council-to-consider-vacant-seat-monday/
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-city-council-to-consider-vacant-seat-monday/article_04eb3f4e-6ca2-5000-bd89-b099ac102ad5.html" >}}
 
 “I don’t think anyone is trying to pull the wool over our eyes,” Gammon said. “But there are a lot more questions than answers and I just want to make sure everything is done in the open and is transparent. We have 60 days to appoint someone so why rush something when you don’t have to?”
 
