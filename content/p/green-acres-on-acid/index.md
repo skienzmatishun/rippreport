@@ -1,6 +1,7 @@
 ---
 title: "GREEN ACRES ON ACID"
 date: 2016-12-16
+thumbnail: "img/green-acres-on-acid.jpg"
 categories: 
   - freaky-friday
 tags: 

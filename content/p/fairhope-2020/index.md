@@ -1,7 +1,7 @@
 ---
 title: "FAIRHOPE 2020"
 date: 2019-04-25
-thumbnail: "img/fairhope-2020.jpg"
+thumbnail: "img/Fairhope-2020.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

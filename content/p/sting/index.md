@@ -26,7 +26,7 @@ JERRY CARL for the First Congressional District.
 
 The Fairhope three B’s are rooting for the CATALYST candidate “Lowtower” Don’t get stung Baldwin County.
 
-https://rippreport.com/vote-jerry-carl-today/
+{{< socialpreview url="https://rippreport.com/p/vote-jerry-carl-today/" >}}
 
 Fairhope municipal election qualifications has 7 days left, July 21. Two very important seats have yet to be challenged, Jack Burrell and Robert Brown.
 
@@ -34,7 +34,7 @@ There are people that are considering running against them, however, they have n
 
 Kevin Boone, grandfather CATALYST is being challenged by Joshua Gammon.
 
-https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
 Freaky Fairhope never ceases to amaze me when it comes to Karma and stupidity. I would not wish the slightest case of Covid on anyone.
 
@@ -48,19 +48,19 @@ Guess which one has hidden his police report?
 
 None Other:
 
-https://rippreport.com/police-report/
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 Fairhope City Council president Jack Burrell acknowledged tonight that he and two other members of his household have tested positive for COVID-19, leading him to quarantine for the past two weeks.
 
 But at the council work session prior to the meeting, the council at large expressed no interest in passing a mask mandate.
 
-https://lagniappemobile.com/fairhope-council-president-in-quarantine-after-positive-covid-19-test/
+{{< socialpreview url="https://lagniappemobile.com/fairhope-council-president-in-quarantine-after-positive-covid-19-test/" >}}
 
 Mr Brown has gone out of his was to discredit the seriousness of Covid. The Jester has been critical of anyone wearing a mask now it is rumored he to has been exposed to Covid.
 
 A vote for Councilman Brown is a vote for corruption. Mr. Brown has used his office for personal gain and he is asking voters for their vote so he can continue using his office to personally enrich himself.
 
-https://rippreport.com/fairhope-jester-and-fly-creek/
+{{< socialpreview url="https://rippreport.com/p/fairhope-jester-and-fly-creek/" >}}
 
 If NO candidates challenge Brown or Burrell, Fairhope will be stung again by the B’s.
 

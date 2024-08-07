@@ -1,7 +1,7 @@
 ---
 title: "TROLLS FOR TOLLS"
 date: 2022-01-28
-thumbnail: "/img/toll-troll.jpg"
+thumbnail: "img/toll-troll.jpg"
 categories: 
   - citycouncil
 authors: 

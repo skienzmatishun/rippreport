@@ -1,6 +1,7 @@
 ---
 title: "A Time for Reflection - Goobers on Notice"
 date: 2016-12-09
+thumbnail: "img/a-time-for-reflection-goobers-on-notice.jpg"
 categories: 
   - freaky-friday
 tags: 

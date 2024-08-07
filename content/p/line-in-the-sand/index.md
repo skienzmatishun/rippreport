@@ -1,6 +1,7 @@
 ---
 title: "LINE IN THE SAND"
 date: 2022-07-24
+thumbnail: "img/line-in-the-sand.jpg"
 categories: 
   - sunday-sunrise
 authors: 
@@ -9,7 +10,7 @@ authors:
 
 The Mabel Amos Charitable Trust was set up to help kids, who may have had the smarts, but not the money, to go to college, in Alabama. What started as a small well intended trust turned out to be a flush vehicle of greed and political corruption.
 
-https://lagniappemobile.com/alabamas-recipe-for-corruption/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/alabama-s-recipe-for-corruption/article_f4b4e13e-8e0d-541a-b6f8-ea506abb1b0b.html" >}}
 
 “If I had to bake an “Alabama Corruption Cake” the recipe would probably go something like this: 2 parts shiftless opportunists, 2 parts complicit appointed boards and agencies, 1 part disinterested Attorney General’s Office, 1 part ineffective Ethics Commission and 2 pinches of one-party rule. Blend thoroughly, bake for 200 years and ice generously with inept and partisan press coverage. Serves 5 million.”
 
@@ -17,7 +18,7 @@ Mabel Amos Charitable Trust is the perfect recipe for corruption. A bank, lawyer
 
 The Attorney General has ignored, what should be front page news as well as obvious criminal conduct. The Bar Association and the Ethics Commission have buried their heads in the sand, which makes them complicit.
 
-https://lagniappemobile.com/ethical-dilemmas-state-ethics-commission-facing-issues-on-several-fronts/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/ethical-dilemmas-state-ethics-commission-facing-issues-on-several-fronts/article_5017fe6c-bfca-529c-9569-d88797661f8b.html" >}}
 
 “Further complicating matters for the Ethics Commission is a lawsuit filed two weeks ago by the relatives of one-time Alabama Secretary of State Mabel Amos regarding the handling of a charitable trust established by her will. The will was created by the family law firm of current Ethics Commission Executive Director Tom Albritton.
 
