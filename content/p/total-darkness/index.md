@@ -48,7 +48,7 @@ This maybe the third or forth fiasco Jack has created through the Authority. Eac
 
 The FAA now finds itself in a protracted negotiation to unwind the legal issues created by Councilman Burrell and Mayor Sullivan, who have gone dark.
 
-https://lagniappemobile.com/parties-in-fairhope-airport-dispute-agree-to-negotiate/
+{{< socialpreview url="https://www.lagniappemobile.com/news/parties-in-fairhope-airport-dispute-agree-to-negotiate/article_2d500235-b298-5c9b-bbc6-c03fa5c1072d.html" >}}
 
 “The construction of a new FBO will depend on whether the Authority can secure as much as $1.5 million in additional funds to match a $600,000 grant from the Alabama Department of Transportation. Lagarde said bids for the project will be opened next week, but any financing will have to be approved by the Fairhope City Council. “
 

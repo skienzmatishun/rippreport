@@ -2,7 +2,7 @@
 title: "HAPPY BIRTHDAY 🇺🇸 246 YEARS"
 date: 2021-11-10
 categories: 
-  - wonderful-wednesday
+  - holiday
 authors: 
   - admin
 ---
