@@ -27,29 +27,29 @@ The 2020 municipal election is going to challenge your common sense, it is alrea
 
 Fairhope has a candidate challenging the Mayor who retired from BP. What name could be dirtier than BP. Fairhope was the home of BP Fraud. State Senator Boom Boom Pittman and Mayor Cant back in 2010, orchestrated major fraud of BP funds, to the tune of $639,000.00.
 
-https://www.al.com/live/2010/11/senators\_company\_awarded\_63900.html
+{{< socialpreview url="https://www.al.com/live/2010/11/senators_company_awarded_63900.html" >}}
 
 I cannot wait for the challenger to explain his environmental plan. Mr BP needs to give his opinion on not only on the BP fraud but the hundreds of boom anchors and hundreds of feet of rope and chain, Mayor Cant and the good Senator left in the Bay. The same candidate at a recent council meeting, referred to people on Facebook as “ Facebook Cowards or Empty seats” who do not attend meetings and are critical of the council on social media. Our BP candidate now uses social media to drive his campaign, Stay tuned Facebook Cowards. Freaky.
 
 The good ole boys, aka CATALYST or Scott Boone Consulting have finally found a replacement for “CHUCKIE CHEEZE”. Chuckie was the last political writer for CATALYST.
 
-https://rippreport.com/chuckie-cheeze/
+{{< socialpreview url="https://rippreport.com/p/chuckie-cheeze/" >}}
 
 His home base was the Courier. It is official, “HOWLING RAINS” is the new op-ed replacement. Howling has been absent for years nobody knew of him or ever saw him at any meeting in the last four years.
 
-https://rippreport.com/howling-rains/
+{{< socialpreview url="https://rippreport.com/p/howling-rains/" >}}
 
 What makes this even more freaky is Howling’s infamous reputation. He is not running for office. Howling’s purpose is to distract, confuse, lie and mislead the general public to believe facts are fiction. Howling has made a 6.3 million dollar grant from BP, you cannot make this shit up, a political issue, that is his intent. It is not the least bit surprising, CATALYST always, has some one carrying their water. So when you hear HOWLING, you hear CATALYST.
 
-[https://www.nytimes.com/national/executive-editor-of-the-times-and-top-deputy-step-down.html](https://www.nytimes.com/2003/06/05/national/executive-editor-of-the-times-and-top-deputy-step-down.html)
+[Link No Longer Exists](https://www.nytimes.com/2003/06/05/national/executive-editor-of-the-times-and-top-deputy-step-down.html)
 
 The most Freaky thing about the Waterfront project is what “Howling Rains” is calling Historic Bluffs. Go look at what he is calling a Historic Bluff. It is a cut bank from the original construction of the south park, about 50 years ago. It is a slowly eroding bank covered with kudzu, it is ridiculous to try and say this is the Bluff of Ecor Rouge in Montrose, 2 miles north. A historic marker is located on Scenic 98 in Montrose, celebrating the site. GET THE FACTS
 
-https://rippreport.com/where-hell-were-you/
+{{< socialpreview url="https://rippreport.com/p/where-hell-were-you/" >}}
 
 The three B’s are all running for re-election on the council. Boone, Brown and Burrell have used their office for personal gain and Burrell has a Police Report he never mentioned in the last election.
 
-https://rippreport.com/police-report/
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 They want the full family insurance package that they voted in, and all have used, estimated at $17,500. and all the deals they can get on the side. These three sidewinders pulled of the worst deal in history. They and I mean they, the 3 of them, without public participation and breaking a promise to the black community, purchased farmland for recreation property. The land is farmland and they have no money for development so they promptly leased the land back to a farmer for $9000 dollars a year. Yes you read that correctly, 9 Thousand. They took a city surplus of 1.7 million and drove it to a 1.2 million dollar deficient, overnight. Expect to hear HOWLING telling us that they are all Christians.
 
@@ -57,6 +57,6 @@ Next week July 21st, is the last day of qualification, let’s hope a challenger
 
 Attend the meetings on the Waterfront, do not listen to the HOWLING RAIN. GET THE FACTS
 
-https://rippreport.com/fairhope-waterfront/
+{{< socialpreview url="https://rippreport.com/p/fairhope-waterfront/" >}}
 
 ## GET THE FACTS

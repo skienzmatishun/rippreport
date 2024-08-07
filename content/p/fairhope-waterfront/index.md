@@ -16,19 +16,19 @@ The Fairhope Waterfront project started off with, City Council approval, of $500
 
 The latest article in Lagniappe has the Mayor “citing concerns from citizens who were unfamiliar with the two year old proposal, until recently”. You would never hear the CATALYST council “willing to extend public participation so the whole community had the opportunity to speak”. NEVER.
 
-https://lagniappemobile.com/fairhope-reopening-public-participation-on-proposed-park-project/
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-reopening-public-participation-on-proposed-park-project/article_2bcb077e-4e3c-5ddf-8a66-0c5109cb61d3.html" >}}
 
 {This article has a paywall, you can get a free copy at newsstands}
 
 Today Goodwyn Mills & Cawood held a press conference, at Fairhope City Hall, in order to dispel the numerous misconceptions that are being promoted through social media or the CATALYST Council. The greater majority of negative comments are coming from people who did not attend the meetings and appear to have a political agenda.
 
-https://rippreport.com/where-hell-were-you/
+{{< socialpreview url="https://rippreport.com/p/where-hell-were-you/" >}}
 
 CATALYST politicians and their advocates wish to make this issue a political tool for the upcoming election and care less about the citizens of the community. The project is a 6.2 million dollar grant from BP, Fairhope is the only municipality on the Eastern Shores to be awarded such a grant. This will be the first major project on Fairhope’s Waterfront in 50 years.
 
 The same CATALYST Council is now playing games with the Waterfront project. The CATALYST Council spent $2,650,000 for recreation property, without any public participation. Now they want to some how blame the Mayor and tank a $6,200,000 grant? The CATALYST council has run rouge for 4 years. They all need to be replaced.
 
-https://rippreport.com/invitation/
+{{< socialpreview url="https://rippreport.com/p/invitation/" >}}
 
 Please watch the video provided by Fairhope Now. What ever your views, please attend the meetings and be well informed before passing judgment on rumors and political antics.
 

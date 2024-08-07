@@ -30,13 +30,13 @@ It was predicted that CATALYST may change it’s name, which has become toxic in
 
 Don’t let the name change fool ya, it is still the same self serving individuals.
 
-https://rippreport.com/a-decade-of-corruption/
+{{< socialpreview url="https://rippreport.com/p/a-decade-of-corruption/" >}}
 
 Fairhope and Baldwin County are infamous for “Fixing” elections. Fairhope is also infamous for Faux candidates and stacking the deck.
 
 Faux candidates are candidates that tell you,”no one owns me” or I am not with them. Then after they are elected you find out they are all joined at the hip, like the present Catalyst Council.
 
-https://rippreport.com/faux-candidates/
+{{< socialpreview url="https://rippreport.com/p/faux-candidates/" >}}
 
 Stacking the deck is when several candidates run for the same position to dilute the votes and force a runoff election.
 
@@ -56,21 +56,21 @@ Yep that is Scott Boone’s father, are you connecting the dots?
 
 [Check out BOONE related articles on the Ripp Report.](https://rippreport.com/tag/boone/)
 
-https://www.youtube.com/watch?time\_continue=4&v=I-uDFcLyJXQ&feature=emb\_title
+{{< socialpreview url="https://www.youtube.com/watch?time_continue=4&v=I-uDFcLyJXQ&feature=emb_title" >}}
 
 Be sure to watch the last couple of minutes and see Councilman Boone flip out when “STRAWMAN” is mentioned.
 
 Exposing his and his son, Scott’s involvement in the fraud “Strawman”, a series of Lagniappe articles.
 
-https://rippreport.com/strawman-spiderweb/
+{{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}
 
 Kevin Boone has been bald face lying to the whole community since he was elected.
 
-https://rippreport.com/investigative-reporting-business-entity-records/
+{{< socialpreview url="https://rippreport.com/p/investigative-reporting-business-entity-records/" >}}
 
 Kevin Boone has been voting on the council for 8 years. His conflicts of interest predate his election he never divulged his numerous LLC’s
 
-https://rippreport.com/conflict-of-interest/
+{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/" >}}
 
 PLEASE keep Joshua Gammon in mind for place 5.
 

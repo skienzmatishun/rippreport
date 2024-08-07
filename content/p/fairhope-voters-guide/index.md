@@ -33,27 +33,27 @@ If you share these concerns, and value your home, your property and your rightfu
 
 ## THE RECENT PAST
 
-## KNOW THE STORY
+### KNOW THE STORY
 
 Four years ago, in 2016, on the eve of the municipal election, it was announced that the Alabama Secretary of State's Office Elections Division was sending a legal representative to Fairhope to oversee the voting and the counting of the votes for official tabulation. The result of the chaperoned election was that the incumbent Mayor, Timothy Kant, was defeated by a 400-plus vote margin by current Mayor Wilson, first women Mayor of Fairhope, and bookstore proprietor, Karin Wilson, was at the time, a political novice. After the election it was learned that the Alabama Secretary of State Office had received numerous complaints regarding election tampering during the 2008 and 2012 voting cycles, and decided to send someone to Fairhope to investigate. It proved to be critical, as the incumbent of 16 years was defeated by the city's first woman head of state.
 
-## THE PRESENT
+### THE PRESENT
 
 While the mayor was defeated in historic fashion, the council was nonetheless populated by five individuals selected by the previous mayor and his compromised minions. This created a problem for the new mayor, as she lacked a single friend on the council, which is made up of men friendly to the building and development industry.
 
 During the last four years the current council has done everything possible to thwart the mayor's efforts to improve planning and growth management, as well improve its physical infrastructure used to process and treat wastewater and storm water. The good ole boys on the council, CATALYST, consider it their show; and are more intent on making insider deals that enrich themselves, than they are taking care of public business that will protect and promote our life quality.
 
-## THE FUTURE
+### THE FUTURE
 
 The future of the City of Fairhope lies in your hands. It is new voters like yourself who will determine the outcome. Fairhope is the fastest growing city in the State of Alabama. It has grown too fast, threatening the very quality of life you came here for.
 
 There are four races up for grabs. The results of these contests will determine Fairhope's future--whether or not it remains the sought after, idyllic destination; or becomes an unthinkable glut of prefabricated homes, overcrowded schools, clogged roads and overflowing sewers bleeding into the bay. All four races have CATALYST/Scott Boone Candidates.
 
-## THE 3 B’s
+### THE 3 B’s
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
-## COUNCIL RACE ONE:
+### COUNCIL RACE ONE:
 
 Incumbent Jack Burrell versus. Deb Hopkins. Burrell is a dubious character on an insane power trip. He refused local blogger Paul Ripp his right to free speech during public participation. Ripp sued the City “CATALYST” council in federal court, and was vindicated with a monetary settlement. Burrell has served as President of the council for eight years, refusing to relinquish his grip on the questionable governing body.
 
@@ -63,18 +63,18 @@ Burrell’s last four years have left a trail of corruption from the Airport, bi
 
 DEB HOPKINS is running against Jack, she is a fresh face and not CATALYST. Deb is honest, a quality Jack knows nothing about. This is Fairhope’s opportunity to vote out Burrell and CATALYST .Please check out Deb’s site for more information. Fairhope needs a woman on the council and who would better to replace Jack than a woman? That would be fate and karma rolled into one.
 
-[https://www.facebook.com/moveaheadwithdeb/](https://www.facebook.com/moveaheadwithdeb/)
+[Move Ahead with Deb Facebook Group](https://www.facebook.com/moveaheadwithdeb/)
 
-## COUNCIL RACE TWO
+### COUNCIL RACE TWO
 
 Kevin Boone is the father of, Scott Boone, the self-proclaimed head of the local machine, formerly known as "CATALYST." The new name Scott Boone Consulting is one in the same. Son and father make a good team, just remember it is not your team. This outfit is known for recruiting and electing local candidates so that they can control things. Boone and his son have been featured in the spider graph detailing the Strawman fraud, in Lagniappe. This land fraud story will tell you just what CATALYST is all about. Boone has numerous llc’s. All related to developments, some he voted on. Please read the whole story. You can vote Kevin, Scott and CATALYST out with one vote. Boone has many more llc’s than he has declared, this is just two. Notice the name John Avant, his name also appears in the “Strawman” series, Boone’s partner in llc’s.
 
 
 JOSHUA GAMMON a young man NOT connected with CATALYST, is Boone’s challenger. Joshua brings youth to the table. Who has more at stake in Fairhope than the younger generation? This is an addition to the council that is long over due.
 
-https://lagniappemobile.com/city-council-candidate-joshua-gammon-is-focused-on-fairhopes-families/
+{{< socialpreview url="https://www.lagniappemobile.com/news/city-council-candidate-joshua-gammon-is-focused-on-fairhope-s-families/article_012b3c64-f3fb-5b23-8c1b-0afb19d7f1bb.html" >}}
 
-## COUNCIL RACE THREE
+### COUNCIL RACE THREE
 
 Incumbent Robert Brown is fleecing our hometown. Brown has landed several large public contracts while serving just four years on the city council. He currently has an ethics complaint filed against him for using his public office for personal gain. This complaint has been filed with the Alabama Attorney General. Brown used his office and inside information to land a contract for the concession building at the soccer fields and the Fairhope Art Center contract, both totaled close to a million dollars. Not bad for a councilman, that is what CATALYST is about.
 
@@ -85,7 +85,7 @@ HOWELL GIBBENS is running against Brown and he would be a huge improvement over 
 
 {{< socialpreview url="https://rippreport.com/p/howell-gibbens/" >}}
 
-## THE MAYORS RACE
+### THE MAYORS RACE
 
 Incumbent, one term, Karin Wilson has accomplished more in 4 years than the past administration did in 16 years. She has had to fight the CATALYST council for 4 years and now they have political ads claiming accomplishments of the Mayor.
 

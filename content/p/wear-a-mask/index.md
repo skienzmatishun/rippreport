@@ -10,7 +10,7 @@ authors:
   - admin
 ---
 
-Source: [https://lagniappemobile.com/stop-being-selfish/](https://lagniappemobile.com/stop-being-selfish/)
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/stop-being-selfish/article_ec890f30-e390-5d2c-b8ee-4b10b95cbe5e.html" >}}
 
 To the editor:
 

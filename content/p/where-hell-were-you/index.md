@@ -29,9 +29,9 @@ The latest issue is the plan for the waterfront, pier and parks at the bay. The 
 
 The last three years the waterfront project has been on the table. The City of Fairhope advertised meetings, encouraged public engagement and was transparent through the entire project.
 
-https://lagniappemobile.com/a-plan-for-resilience-on-the-waterfront/
+{{< socialpreview url="https://www.lagniappemobile.com/news/a-plan-for-resilience-on-the-waterfront/article_068ab20d-d852-5cbf-a3a6-da3fef913997.html" >}}
 
-This article has a paywall, free copies are at news stands.
+*This article has a paywall, free copies are at news stands.*
 
 Now just before the elections a few people that did NOT attend meetings, were NOT aware of what the city was proposing, and never voiced any concern, want to kill a 6.2 million dollar grant.
 
@@ -39,13 +39,11 @@ Competing articles in this weeks Lagniappe by Mr Howell Raines and Mayor Wilson 
 
 Mr. Raines is a former executive editor of the New York Times and a commentator for MSMBC news. He is the author of the book “My Soul is Reset” An oral history of the civil rights movement.
 
-https://lagniappemobile.com/a-grandiose-disaster-in-the-making/
+{{< socialpreview url="https://www.lagniappemobile.com/news/a-grandiose-disaster-in-the-making/article_85922a0f-c4d0-5912-822b-e0e5b12271da.html" >}}
 
 This article also has a paywall
 
 Mr Raines is what Councilman Boone and Brown have publicly called “carpetbagger”, both men are also CATALYST and have used their office for personal gain.
-
-https://lagniappemobile.com/a-plan-for-resilience-on-the-waterfront/
 
 Where were you Mr Raines while this obvious corruption was going on?
 
@@ -57,7 +55,7 @@ It might shock you to know that this decision by 3 councilmen was based on race.
 
 Why do you not write about that?
 
-https://rippreport.com/honey-bees/
+{{< socialpreview url="https://rippreport.com/p/honey-bees/" >}}
 
 These are the men you support?
 
@@ -81,11 +79,11 @@ Where were you during the Federal Lawsuit against the council for denying citize
 
 They lost that lawsuit and now the same lawsuit is used a precedent in similar cases around the U.S.
 
-https://rippreport.com/loser/
+{{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
 Your comments display a true ignorance of Fairhope politics. Sir Baldwin County is a cesspool of political corruption and Fairhope is home to CATALYST.
 
-https://rippreport.com/a-decade-of-corruption/
+{{< socialpreview url="https://rippreport.com/p/a-decade-of-corruption/" >}}
 
 Mr. Rains where the hell have you been, New York?
 
@@ -103,6 +101,6 @@ Where were you when it was discovered that the council voted themselves full fam
 
 Let me leave you with a little known fact. Mayor Wilson refused to take two paychecks, like the former Mayor, from the city. One as Mayor and one as utility director, she felt that was wrong. That is what you call a public servant, she sacrificed over 250,000 dollars in salary over 4 years, while the council took out full family insurance, that no one else employed in the city has.
 
-https://rippreport.com/fairhope-sewer-backstory/
+{{< socialpreview url="https://rippreport.com/p/fairhope-sewer-backstory/" >}}
 
 Fairhope welcomes your comments in a public forum but you got to show up, WHERE THE HELL WERE YOU?

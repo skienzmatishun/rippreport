@@ -31,7 +31,7 @@ What he did was write a poison pen letter with the political intent of satisfyin
 
 Mr. Raines, please attend meetings so you can understand what is really happening. And check your sources. This has been a serious problem for you in the past.
 
-[https://rippreport.com/howling-rains/](https://rippreport.com/2020/07/06/howling-rains/)
+{{< socialpreview url="https://rippreport.com/p/howling-rains/" >}}
 
 Francis Paul Ripp
 

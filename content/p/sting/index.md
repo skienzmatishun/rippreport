@@ -54,7 +54,7 @@ Fairhope City Council president Jack Burrell acknowledged tonight that he and tw
 
 But at the council work session prior to the meeting, the council at large expressed no interest in passing a mask mandate.
 
-{{< socialpreview url="https://lagniappemobile.com/fairhope-council-president-in-quarantine-after-positive-covid-19-test/" >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-council-president-in-quarantine-after-positive-covid-19-test/article_ea9210d4-a290-5370-8c31-3cab1935cebd.html" >}}
 
 Mr Brown has gone out of his was to discredit the seriousness of Covid. The Jester has been critical of anyone wearing a mask now it is rumored he to has been exposed to Covid.
 

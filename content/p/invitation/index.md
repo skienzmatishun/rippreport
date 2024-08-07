@@ -17,9 +17,9 @@ Fairhope Mayor Wilson is inviting the citizens of Fairhope, again, to participat
 
 “Wilson told citizens on June 18, 'We are going back to the drawing board and urging those who did not take part in the three month engagement process earlier this year to please participate.'”
 
-https://lagniappemobile.com/fairhope-reopening-public-participation-on-proposed-park-project/
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-reopening-public-participation-on-proposed-park-project/article_2bcb077e-4e3c-5ddf-8a66-0c5109cb61d3.html" >}}
 
-{Lagniappe has a paywall on this article, you can get a free copy at newsstands}
+*Lagniappe has a paywall on this article, you can get a free copy at newsstands.*
 
 Fairhope citizens were never afforded the opportunity of public participation by the City Council when it came to the 2.6 million dollar recreation property. The council avoids any public participation claiming they were voted into office and they will make the decisions, despite any public outrage, remember Fly Creek apartments? The recreation property purchase, by three councilmen, the three B’s, changed the city’s bottom line by driving a 1.7 million dollar surplus to a 1.2 million dollar deficit. Let’s not forget the council voting themselves a raise and FULL family insurance, no other employees have FULL family insurance.
 

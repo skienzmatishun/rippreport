@@ -26,7 +26,7 @@ Tomorrow citizens of Fairhope will go to the polls, rain or shine. Most citizens
 
 The Municipal Judge is appointed by the City Council, as well as the Municipal Attorney. Both these positions are hold overs from the past corrupt administration. Mayor Wilson pleaded with the council to consider a new appointment for each position. The council, led by Burrell for the last 8 years, ignored the citizens seeking change and immediately appointed Marcus McDowell as Attorney and reinstated Judge Snedeker.
 
-{{< socialpreview url="https://rippreport.com/women-stand-together/" >}}
+{{< socialpreview url="https://rippreport.com/p/women-stand-together/" >}}
 
 The council, Burrell, Boone and Brown are all supporting Sherry Sullivan. The judge, the largest land owner and developer in Fairhope, supports Sullivan. The city attorney has a Sullivan sign at his attorney’s office. They are part of the Catalyst/Scott Boone Consulting CABAL. Sullivan, vastly unqualified, is their choice for a ribbon cutting Mayor, she is subject to the CABAL.
 

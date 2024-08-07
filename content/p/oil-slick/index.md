@@ -24,23 +24,21 @@ The BP guy on the paddle board seems to be living up to BP standards. He is bloc
 
 This is a clear violation of FREE SPEECH and a perfect example why people have such bitter feelings towards BP.
 
-[https://www.aclu.org/blog/free-speech/internet-speech/court-rules-public-officials-cant-block-critics-facebook](https://www.aclu.org/blog/free-speech/internet-speech/court-rules-public-officials-cant-block-critics-facebook)
+{{< socialprofile url="https://www.aclu.org/news/free-speech/court-rules-public-officials-cant-block-critics-facebook" >}}
 
 This comment was taken down within a couple hours of being posted on the BP paddle board page.
 
-Lesley PaceyTue, Jul 28, 7:28 PM (12 hours ago)
-
+>Lesley PaceyTue, Jul 28, 7:28 PM (12 hours ago)
+>
 Mayor Karin Wilson already started the process to revamp the aging sewage system in Fairhope – something that would not have been done without her pushing for change. She is relieved that ADEM and the state attorney general is mandating improvements that she started because city leaders can no longer look the other way while they pollute our bay. Her heart is in the right place. That being said, I find it very disingenuous that someone who by his own admission was one of a select few BP employees to be appointed to head the Deepwater Horizon oil spill disaster cleanup is suddenly an environmentalist. Where was your concern for Fairhope and Mobile Bay during the oil spill when BP dumped nearly 2 million gallons of Corexit dispersant on the Gulf of Mexico?
-
+>
 As we now know, Corexit made the oil 52 times more toxic. It causes damage to all organs of the body, wreaks havoc on neurological systems and causes cancer. The oil spill sparked a massive health crisis all along the Gulf Coast and these health effects, exacerbated by BP’s unprecedented use of Corexit and deliberately putting cleanup workers, response personnel, residents and tourists in harm’s way to save face and reduce fines is unconscionable. I know many who are sick and who have died as a result of their exposure. These folks were lied to, told it was safe, denied PPE because of how it looked and families were told the beaches were open for business. I have no patience for this. Let’s talk about that for awhile.
-
+>
 Sincerely, Lesley Pacey
 
 Another post that the guy on the paddle board deleted, within minutes, read as follows:
 
-“Correct me if I’m wrong didn’t BP cause the greatest environmental disaster in US history and changed with gross negligence. Corexit was used during cleanup that you are so proud to be a part of.
-
-Negatively affecting millions of gulf coast citizens”.
+>“Correct me if I’m wrong didn’t BP cause the greatest environmental disaster in US history and changed with gross negligence. Corexit was used during cleanup that you are so proud to be a part of. Negatively affecting millions of gulf coast citizens”.
 
 So the ultimate cover your ass move is to come up with a pledge that eliminates free speech. The Fairhope “good Vibes” Pledge, craps all over Free Speech.
 

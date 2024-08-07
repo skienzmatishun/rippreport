@@ -31,7 +31,7 @@ The 2008 and 2012 municipal elections in Fairhope, were suspected of being rigge
 
 The City Council, their true intentions masked, led by a loser, planned for total control of Fairhope. From the first day of their 2016 administration the council has obstructed, bullied, lied, colluded, conspired and undermined anything the Mayor or her staff has proposed.
 
-https://rippreport.com/p/see-ya-in-court-jack/
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 So it is no surprise that six (6) weeks before municipal elections that a replacement for “Chuckie Cheeze” has now raised his head, from whatever coma he has been in, to carry the CATALYST flag into political battle.
 

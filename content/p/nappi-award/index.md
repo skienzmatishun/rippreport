@@ -35,11 +35,9 @@ In addition, we obtained $11M to offset rehabilitating sewer lines and planning 
 
 I'm extremely proud of my administration for staying the course and accomplishing so much progress. I urge you to read the following timeline most find extremely eyeopening!
 
-[http://www.mayorkarinwilson.com/?s=sewer+timeline](http://www.mayorkarinwilson.com/?s=sewer+timeline)
+{{< socialpreview url="https://web.archive.org/web/20200809195606/https://www.mayorkarinwilson.com/great-news-for-the-future-of-mobile-bay/" >}}
 
-Other Mobile Bay Health Initiatives: [https://www.mayorkarinwilson.com/great-news-for-the-future-of-mobile-bay/](http://www.mayorkarinwilson.com/great-news-for-the-future-of-mobile-bay/)
-
-\[caption id="attachment\_6867" align="aligncenter" width="349"\][![JD Crowe AL.com](https://cdn.rippreport.com/wp-content/uploads/2020/08/jdcrowe1.jpg)](https://www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html) JD Crowe AL.com\[/caption\]
+{{< socialpreview url="www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html" >}}
 
 Promises Made – Promises Kept End Wasteful Spending & Restore Fiscal Health
 
@@ -53,7 +51,7 @@ This is what fiscal responsibility looks like and will continue under my leaders
 
 This is a promise - like the ones I made in 2016 for which I delivered. Let’s stay the course moving forward together.
 
-Vote [KarinForFairhope.org](http://KarinForFairhope.org) August 2th.
+Vote [KarinForFairhope.org](https://web.archive.org/web/20230204122408/https://www.karinforfairhope.org/) August 2th.
 
 In four years Mayor Wilson has accomplished more than the previous Mayor did in 16 years.
 
@@ -62,5 +60,3 @@ CONGRATULATIONS TO A FOUR YEAR WINNER OF NAPPIE AWARD FOR HARDEST
 WORKING ELECTED OFFICIAL ON TH EASTERN SHORE
 
 MAYOR KARIN WILSON FAIRHOPE
-
-.entry-meta-date { display:none }<br />

@@ -26,7 +26,8 @@ The 2020 Arts and Crafts Show was canceled as a precaution to public health by t
 
 They were supporter by councilman Brown who does not even believe in masks. The Local medical community supported Mayor Wilson’s decision.
 
-https://lagniappemobile.com/fairhope-arts-crafts-festival-likely-canceled-due-to-coronavirus/
+
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-arts-crafts-festival-likely-canceled-due-to-coronavirus/article_7ccc391f-1125-51fc-b647-4e5316a67863.html" >}}
 
 Despite State and Federal guidelines, Sullivan, now Mayor, and Burrell, Associate Mayor, are willing to “take a chance”, again, with public safety and public health in order to have the lighting of the trees, November 19th.
 
