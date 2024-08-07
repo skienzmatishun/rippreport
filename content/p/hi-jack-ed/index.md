@@ -1,6 +1,7 @@
 ---
 title: "Hi-JACK-ed"
 date: 2016-12-30
+thumbnail: "img/hi-jack-ed.jpg"
 categories: 
   - freaky-friday
 tags: 

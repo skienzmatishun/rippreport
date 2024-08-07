@@ -1,6 +1,7 @@
 ---
 title: "DOUBLE DOWN AND I CALL"
 date: 2016-12-21
+thumbnail: "img/double-down-and-i-call.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
