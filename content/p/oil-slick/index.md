@@ -24,7 +24,7 @@ The BP guy on the paddle board seems to be living up to BP standards. He is bloc
 
 This is a clear violation of FREE SPEECH and a perfect example why people have such bitter feelings towards BP.
 
-{{< socialprofile url="https://www.aclu.org/news/free-speech/court-rules-public-officials-cant-block-critics-facebook" >}}
+{{< socialpreview url="https://www.aclu.org/news/free-speech/court-rules-public-officials-cant-block-critics-facebook" >}}
 
 This comment was taken down within a couple hours of being posted on the BP paddle board page.
 
