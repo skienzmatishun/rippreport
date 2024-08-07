@@ -1,6 +1,7 @@
 ---
 title: "HELLO CAN YOU HEAR ME NOW"
 date: 2016-10-05
+thumbnail: "img/hello-can-you-hear-me-now.png"
 categories: 
   - wonderful-wednesday
 tags: 

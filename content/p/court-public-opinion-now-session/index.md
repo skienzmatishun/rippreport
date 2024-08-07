@@ -1,6 +1,7 @@
 ---
 title: "COURT OF PUBLIC OPINION IS NOW IN SESSION"
 date: 2017-01-27
+thumbnail: "img/court-of-public-opinion.png"
 categories: 
   - freaky-friday
 tags: 
@@ -74,4 +75,4 @@ Respectfully Francis Paul Ripp The Ripp Report
 
 CC. The Ethics Commission F.B.I. Mobile Office, White Collar Crime United States Attorney’s Office White Collar Crime
 
-[https://rippreport.com/you-dont-know-jack](https://rippreport.com/2016/11/25/you-dont-know-jack/)
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack" >}}

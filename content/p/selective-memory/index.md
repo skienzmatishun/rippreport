@@ -1,6 +1,7 @@
 ---
 title: "Selective Memory"
 date: 2017-03-01
+thumbnail: "img/selective-memory.jpg"
 categories: 
   - citycouncil
 tags: 
@@ -14,13 +15,7 @@ authors:
 
 The Fairhope City Council pounced on Mayor Wilson for exercising her rights and responsibilities as Mayor to hire and fire employees.
 
-## Alabama Supreme Court rules mayors have power to hire and fire municipal employees
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/03/court-icon-efb69d6b615a4cd4.jpg)
-
-In Alabama, mayors alone have the power to hire and fire municipal employees, according to a state Supreme Court ruling in a Birmingham-area case that apparently also resolves the key dispute underpinning long-standing mayor-council power struggles in Fairhope and Daphne.
-
-Source: [blog.al.com/live/2011/06/alabama\_supreme\_court\_mayors\_d.html](blog.al.com/live/2011/06/alabama_supreme_court_mayors_d.html)
+{{< socialpreview url="https://blog.al.com/live/2011/06/alabama_supreme_court_mayors_d.html" >}}
 
 The Council made it a point that they did not know the substance or details of the firing, however their reaction was swift. A special meeting was called. Kevin Boone chaired the meeting and again said they did not know the facts but council wanted a 60 day hiring freeze— effective immediately. I guess the council finds it appropriate to discipline the Mayor for doing her job. Trouble with that theory is it hurts the community as a whole and does nothing for employee relations. Monday night’s meeting was canceled and the next regular council meeting was March 9th, so the special meeting was all about show and power.
 

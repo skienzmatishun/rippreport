@@ -1,6 +1,7 @@
 ---
 title: "SHUT UP"
 date: 2017-02-24
+thumbnail: "img/shut-up.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -13,17 +14,9 @@ authors:
 
 Every Fairhope City council meeting begins with a prayer and the pledge of allegiance. What irony, when the council president then explains to attending citizens that their right to speak is a privilege— not a right. The council president then explained that the 3 minute limit on public participation was at his discretion. This is how our previous Mayor handled critics, complaints or investigations— absolutely no transparency. Make no mistake, as an American, it is your right.
 
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=826483077484358"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-
 The same council president, Jack Burrell, is embroiled in controversy over his participation in the Fairhope Airport Authority. His position is that we do not need to ask questions. Just trust them. Going with Jack is going Back. His position is with the previous administration and the good ole boys that ran it.
 
-## New mayor is a disturbance in the force of good ol' boy politics
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/02/22130668-standard.jpg)
-
-Fairhope's entrenched powers-that-be don't like being questioned and prodded.
-
-Source: [www.al.com/opinion/index.ssf/2017/02/new\_mayor\_is\_disturbance\_in\_th.html](www.al.com/opinion/index.ssf/2017/02/new_mayor_is_disturbance_in_th.html)
+{{< socialpreview url="https://www.al.com/opinion/index.ssf/2017/02/new_mayor_is_disturbance_in_th.html" >}}
 
 His most despicable accomplishment has been his ability to destabilize city government by undermining morale among employees of the city with his constant berating of newly elected Mayor Wilson who has embraced transparency. Those employees who support Mr. Burrell’s destabilizing tactics should be terminated.
 
@@ -147,12 +140,6 @@ How about this for transparency? A complete copy of the complaint filed with aut
 
 All this information and the Fairhope Airport Authority has yet to answer any of the questions related to the complaint. They chose instead to investigate the Ripp Report with taxpayer money.
 
-## JACK IN THE BOX - AIRPORT
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/02/jackinthebox-2.jpg)
-
-The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head...
-
-Source: [rippreport.com/2017/02/10/jack-box-airport/](https://rippreport.com/jack-box-airport/)
+{{< socialpreview url="https://rippreport.com/p/jack-box-airport/" >}}
 
 SHUT UP

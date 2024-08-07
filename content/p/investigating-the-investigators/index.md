@@ -1,6 +1,7 @@
 ---
 title: "Investigating the Investigators"
 date: 2017-03-03
+thumbnail: "img/investigating-the-investigators.png"
 categories: 
   - freaky-friday
 tags: 
@@ -18,13 +19,7 @@ The Ripp Report is being investigated by attorneys hired by the Fairhope Airport
 
 In a recent, well written article,
 
-## The bond, the bid and the blogger: What all the fuss is about in Fairhope - Lagniappe Mobile
-
-![](http://cdn.lagniappemobile.com/wp-content/uploads/2017/03/Cover_030217.jpg)
-
-It’s a one-runway municipal airport named after a beloved former congressman. It has an aviation training academy and a lot of potential to attract suppliers to the massive Airbus assembly operation in Mobile. Yet the H.L. “Sonny” Callahan Airport has become a political football in Fairhope. • Mayor Karin Wilson is fighting with the City …
-
-Source: [www.lagniappemobile.com/bond-bid-blogger-fuss-fairhope/](http://www.lagniappemobile.com/bond-bid-blogger-fuss-fairhope/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/the-bond-the-bid-and-the-blogger-what-all-the-fuss-is-about-in-fairhope/article_fae339f4-2cc9-5121-88ff-03667c435d19.html" >}}
 
 the faa and Mr. Hix were quoted numerous times about specific issues.
 
@@ -86,14 +81,8 @@ The executed date of the lease was Dec. 17, 2015. That's 27 months ago. The hang
 
 It appears that 3 of 5 questions on the bid sheet do not appear to be accurate. Made me wonder if Mr. Hix had made these mistakes before so since they were investigating the Ripp Report why shouldn't we investigate Mr. Hix,
 
-## Daphne lawyers settle $10.2 million judgment from failed Gulf Shores project
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/03/snedeker-mugjpg-277fcca61689404f.jpg)
-
-Haymes Snedeker and Ray Hix Jr., partners in a Daphne law firm, have agreed to settle a multimillion-dollar civil judgment arising from a failed Gulf Shores land deal.
-
-Source: [blog.al.com/live/2012/02/daphne\_lawyers\_settle\_102\_mill.html](blog.al.com/live/2012/02/daphne_lawyers_settle_102_mill.html)
+{{< socialpreview url="https://blog.al.com/live/2012/02/daphne_lawyers_settle_102_mill.html" >}}
 
 The original complaint centered on Mr. Jack Burrell the elected official. After reviewing Mr. Hix’s and the Authorities comments in Lagniappe and considering his personal attorney is investigating the Ripp Report, we feel compelled to file an ethics complaint against Mr. Ray Hix.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2017/03/ethics-complaint-1.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2017/03/ethics-complaint-1.pdf
