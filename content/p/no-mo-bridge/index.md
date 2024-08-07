@@ -22,7 +22,7 @@ Brooks said that he would help project supporters, but funding decisions should 
 
 “I believe in the 10th amendment,” Brooks said. “That means I believe that we ought to shift as much government away from Washington to states and to cities and counties as possible because I believe your best, most responsive government is cities and counties where citizens can get a hold of their people, then state and the worst place is the federal government. So what we have done in Washington is we have sent all of our highway dollars to the states to distribute as they deem best with the exception that we have a certain percentage that has to go to interstates, a certain percentage has to go to U.S. highways, a certain percentage has to be allocated for state roads and so forth.”
 
-{{< socialpreview url="https://rippreport.com/p/the-i-10-toll-bridge-state/" >}}
+{{< socialpreview url="https://rippreport.com/p/i-10-toll-bridge-state/" >}}
 
 Mark Colson, president and CEO with the Alabama Trucking Association “reiterated that the trucking industry believes the plan is unconstitutional because it singles out truckers to finance an interstate project. A federal lawsuit in Rhode Island argues that truck-only tolls discriminate against out-of-state companies, violating the Commerce Clause of the Constitution.”
 

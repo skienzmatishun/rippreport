@@ -32,11 +32,11 @@ This grant has requirements and was awarded on its merits. Changing the plans an
 
 The Fairhope City Council does what they want, opposition be damned.
 
-https://lagniappemobile.com/fairhope-pier-and-park-improvements-approved-with-conditions/
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-pier-and-park-improvements-approved-with-conditions/article_257b95b6-ca22-59f8-9442-19dd14745979.html" >}}
 
 Please remember The Ripp Report predicted these problems.
 
-https://rippreport.com/redneck-renovations/
+{{< socialpreview url="https://rippreport.com/p/redneck-renovations/" >}}
 
 The [medical marijuana](https://rippreport.com/tag/medical-cannabis/) bill looks as if it is going to pass, it is headed for Governor Ivy’s signature.
 
@@ -48,7 +48,7 @@ Alabama prisons are in limbo as to weather the state will have for profit prison
 
 The most interesting news in the last couple of weeks was that of [Sheriff Hoss Mack](https://rippreport.com/tag/mack/) having to face Federal Court, WITHOUT QUALIFIED IMMUNITY
 
-https://lagniappemobile.com/qualified-immunity-denied-for-baldwin-sheriff-deputy-in-fatal-2017-shooting/
+{{< socialpreview url="https://www.lagniappemobile.com/news/qualified-immunity-denied-for-baldwin-sheriff-deputy-in-fatal-2017-shooting/article_b3531805-43fa-5abf-9b28-b05e815511f7.html" >}}
 
 > “Deputy Hunady had time to plan for what would happen if and when Victor did exit the vehicle and behaved erratically (which was entirely foreseeable given the reports of his erratic behavior inside the vehicle before Deputy Hunady arrived on the scene),” Cassady wrote. “He had time to make arrangements for the safety of law enforcement, first responders and members of the public. He had time to speak with witnesses to determine what, exactly, they had seen that might ‘possibly’ have been a gun when they interacted with Victor. He had time to consider non-lethal force options, such as the Taser he was carrying on his person. He had time to consider calling in the BCSO’s negotiation team. All of these elements were within Deputy Hunady’s control, not Victor’s.”
 
@@ -60,15 +60,15 @@ The problem for Sheriff Mack is that he has a well established pattern, and cond
 
 For years the Baldwin County Sheriff Office, headed by Hoss Mack has hidden behind Qualified Immunity and has avoided any accountability. In 2022 Hoss may retire, let’s hope so. If he does not retire he will face a lot of public scrutiny.
 
-https://lagniappemobile.com/judge-blisters-hoss-and-hunady-in-victor-death/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/judge-blisters-hoss-and-hunady-in-victor-death/article_db98a31b-48ee-5131-b110-d653827648d0.html" >}}
 
-{Lagniappe articles may have a paywall} Online subscriptions are available as well as free weekly copies in news stands.
+*Lagniappe articles may have a paywall* **Online subscriptions are available as well as free weekly copies in news stands.**
 
 For 8 months, The Ripp Report has been working on a case involving the Baldwin County Sheriff and will soon go public with a story that should disturb every citizen in Alabama.
 
 This particular case demonstrates what a poor judicial system exists Baldwin County as well as shines a lot of light on Sheriff Hoss Mack.
 
-https://lagniappemobile.com/adem-holds-public-hearing-on-plant-barry-coal-ash-pond/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/adem-holds-public-hearing-on-plant-barry-coal-ash-pond/article_a3a5b235-b6c7-5198-855e-5f2fe908170b.html" >}}
 
 The only other news or lack of news is the Coal Ash Pond at Berry Steam Plant. Alabama Power keeps telling the general public not to worry. I guess they forgot about the BP spill.
 

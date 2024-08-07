@@ -39,7 +39,7 @@ CATALYST has gone back to the drawing board,bleeding from their loss, trying to 
 
 Tip to the Rippster, said that CATALYST has talked Sherry Sullivan into falling on the sword for the status quo. This surprises me as earlier information had Sullivan saying hell no. She has a higher paying job than the Mayor’s salary and Sherry has some serious baggage, that will be opened, publicly! On top of that the city employees do not want her back as an employee much less Mayor.
 
-https://rippreport.com/catalyst-stacking-the-deck/
+{{< socialpreview url="https://rippreport.com/p/catalyst-stacking-the-deck/" >}}
 
 Let’s hope Sherry remembers what happened to Chief Pettis, CATALYST stabbed him in the back.
 
@@ -47,6 +47,6 @@ Watch for Jay Robinson, who is not running for his council seat, help Sherry fal
 
 The three B’s, Boone Brown and Burrell look like they will have opponents. The B’s should be top priority to vote OUT>
 
-https://rippreport.com/sting/
+{{< socialpreview url="https://rippreport.com/p/sting/" >}}
 
 Qualifications close 5pm July 23, Monday and Tuesday are going to be interesting.

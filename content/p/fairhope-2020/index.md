@@ -38,18 +38,7 @@ Here comes the third sour grapes lawsuit and you better believe the Catalyst gro
 
 Now the principal of the “alleged shaking incident” is taking her turn in court. The difference is, it’s Federal Court. The first two of the sour grape three, Sullivan and Pandora got their settlements from the City Council, uncontested. No City Council is going to settle a Federal Lawsuit. Do not be surprised if the case is dismissed, it should be.
 
-<div class="link-preview">
-
-## Fairhope mayor responds to wrongful termination lawsuit - Lagniappe Mobile
-
-### Fairhope mayor responds to wrongful termination lawsuit - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2017/12/Karin-Wilson-web.jpg)
-
-According to a court filing earlier this month, Fairhope Mayor Karin Wilson is denying allegations by former Public Works Director Jennifer Fidler of wrongful termination, civil conspiracy, slander and other charges, and is seeking to have the case dismissed. In late February, Fidler filed a seven-count complaint in state court alleging she was wrongfully terminated …
-
-Source: [lagniappemobile.com/fairhope-mayor-responds-to-wrongful-termination-lawsuit/](https://lagniappemobile.com/fairhope-mayor-responds-to-wrongful-termination-lawsuit/)
-</div>
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-mayor-responds-to-wrongful-termination-lawsuit/article_f9826c1c-0f7e-52d9-a8ae-e52a964f0cc8.html" >}}
 
 A tip to the Rippster said our Infamous Family Court Judge Thomasson showed her true colors at the MOJ, last night.
 

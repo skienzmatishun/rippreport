@@ -30,15 +30,7 @@ I witnessed dozens of people arrested over the years by U.S. authorities and oth
 
 McAfee was running from a wrongful death lawsuit in the U.S. He picked Belize as a new home to avoid any accountability for the wrongful death charge in Arizona.
 
-<iframe scrolling="no" style="background-color: #bbb;
-height: 4000px;
-width: 99%;
-overflow: hidden;
-position: relative;
-max-width: 656px;
-top: -450px;" src="https://web.archive.org/web/20201101045843/https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html"></iframe>
-
-[Read Full Article](https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html) [https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html](https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html)
+{{< socialpreview url="https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html" >}}
 
 My best friend and sometimes business partner is Tom Mangar. Tom lived on the mainland in Belize City. Mariah Reef Resort was the location of the dive resort my family established in 1979 on the island of Ambergris Caye in San Pedro.
 
@@ -88,9 +80,7 @@ McAfee became belligerent and escalated incidents on the beach. Faull made the f
 
 The dogs were poisoned. No one knew who did it. It was common that someone would use poison to solve the issue if you did not contain your dogs around the public.
 
-<iframe scrolling="no" style="background-color:#bbb;height:4000px;width:99%;overflow:hidden;position:relative;max-width:621px;top:-392px;" src="https://www.sanpedrosun.com/crime-and-violence/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/"></iframe>
-
-[Read Full Article](https://www.sanpedrosun.com/crime-and-violence/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/) [https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/](https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/)
+{{< socialpreview url="https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/" >}}
 
 Greg Faull turned up dead. Shot and killed in his house — executed.
 

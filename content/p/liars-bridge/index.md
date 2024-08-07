@@ -14,7 +14,7 @@ The bridge is needed but traffic is second to expanding development, that is the
 
 Another petition needs to start up with a special pledge: No Tolls and NO Votes, for those who support tolls. The politicians got together and decided if all the politicians got in the honey wagon together, then the citizens opposed to tolls would dissipate and come the next election cycle, the voters would have amnesia.
 
-https://lagniappemobile.com/local-mpos-move-bridge-project-forward/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/local-mpos-move-bridge-project-forward/article_77716727-22e8-56cf-a550-dcb908db899f.html" >}}
 
 ESMPO Chairman and Fairhope City Councilman Jack Burrell said in a statement. “The Eastern Shore has grown by leaps and bounds over the past decades and our infrastructure has not kept pace.
 

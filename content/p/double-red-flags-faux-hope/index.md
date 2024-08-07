@@ -79,9 +79,9 @@ Another example of red flags flying is the way the city treated the residents of
 
 The subdivision, Hawthorne Glenn, was given less that a week’s notice that their neighborhood had been selected for an electric sub station. For years the electric sub station was proposed to be next next to the ABC store, a commercial location. Instead the city breaks it’s own comprehensive plan for political payback and puts it in a residential area. NO transparency, no ethics, but lots of BS. Think what you would do if this happened to you, your neighborhood.
 
-https://lagniappemobile.com/board-approves-electrical-substation-in-fairhope-residential-area/
+{{< socialpreview url="https://www.lagniappemobile.com/news/board-approves-electrical-substation-in-fairhope-residential-area/article_b263f558-6169-5bde-a72b-df7e9093d2d1.html" >}}
 
-“Paul Ripp, a consumer advocate who does not live near the project area, alleged the city’s recent purchase of the property and plans to build the substation there was “political payback” for the seller, Kathy Hoffren, who Ripp claims once circulated a petition to ask former Mayor Karin Wilson to resign. Ripp pointed out that the city bought the 2.9-acre property for $40,000 under its $290,000 list price in April. Closing documents indicate Hoffren had a $200,000 mortgage on the property, and netted just $19,000 on the sale. “
+>“Paul Ripp, a consumer advocate who does not live near the project area, alleged the city’s recent purchase of the property and plans to build the substation there was “political payback” for the seller, Kathy Hoffren, who Ripp claims once circulated a petition to ask former Mayor Karin Wilson to resign. Ripp pointed out that the city bought the 2.9-acre property for $40,000 under its $290,000 list price in April. Closing documents indicate Hoffren had a $200,000 mortgage on the property, and netted just $19,000 on the sale. “
 
 Why would anyone reduce the sale 40,000 dollars in a red hot real estate market? The seller made 19,000 dollars and left 40,000 on the table, something stinks, as usual. Ask Jack or Kevin Boone or maybe the Mayor who did not show up for the meeting. She is getting paid as being head of utilities, so where is she?
 

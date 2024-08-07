@@ -20,15 +20,7 @@ Get ready to hear how Regions Bank and the Head of the Alabama Ethics Commission
 
 Please get a Lagniappe and read this article. It explains why corruption flourishes through the entire state, especially Baldwin County.
 
-### [Self-dealing? — Ethics director’s kids’ tuition paid from trust he oversees](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
-
-[**Lagniappe** | Posted by Rob Holbert | Jun 29, 2021](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
-
-[![](https://lagniappemobile.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-29-at-4.09.00-PM.png)](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
-
-As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition is r...
-
-[Read Free Full Article](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 **Lagniappe subscription not required.**
 

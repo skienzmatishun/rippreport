@@ -48,7 +48,7 @@ So the ultimate cover your ass move is to come up with a pledge that eliminates 
 
 This Pledge is nothing more than a mask meant to conceal, any past history, of those running for office. It eliminates any mentioning of past bad acts or police reports, candidates and incumbents have in their closet.
 
-https://rippreport.com/police-report/
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 Please read this while on a paddle board, with wine, while listing to a Jimmy Buffet song, at sunset.
 
@@ -74,11 +74,11 @@ Fairhope “Good Vibes” Pledge?
 
 Think about it folks what is it “good Vibes” does not want exposed? Hey “good vibes” read this, it is what happens when you deny Free Speech.
 
-https://rippreport.com/see-ya-in-court-jack/
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 This is what happens when you deny or alter Free Speech:
 
-https://rippreport.com/loser/
+{{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
 So lets walk on eggs and not discuss the BP history, BP Fraud, or how Alabama is number one in political corruption?
 
@@ -89,5 +89,3 @@ Here is the Ripp Report Pledge:
 > I am going to tell everyone, who will listen, the truth. I am going to expose corruption, CATALYST/ Scott Boone, the good ole boys, backroom deals and the most nasty corrupt politicians to ever be elected to office. I am going to send a message to women, VOTE OUT the BULLIES OF WOMEN, Burrell Boone and Brown. I am going to expose those who trample on Free Speech, like the BP paddle board guy with “good Vibes”. I am going to document complaints and I will never F-----g give up until the good ole boys, the status quo, are shoved out the door.
 
 If you are looking for “Good vibes”, then get on the paddle board and put your head in the sea, I hope you can hold your breath for a very long time. If you want raw truth, as ugly as it is, then stay tuned to the Ripp Report.
-
-https://rippreport.com/
