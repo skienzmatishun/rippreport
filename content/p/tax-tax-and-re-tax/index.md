@@ -32,42 +32,14 @@ Source: [www.wkrg.com/news/local-news/bill-to-end-election-of-state-school-board
 
 Our politicians are now trying to pass a lottery, that for the last 20 years has been referred to as an education lottery. The proposed lottery has NO money for education! The politicians wish to use the lottery to pay back the State General Fund, as far back as 2013. Alabama politicians are supporting a lottery that would pay back the State’s general Fund for the money politicians have already stolen or misappropriated. A proposed amendment to the bill would give education 25%, a far cry from 100%.
 
-## WHAT EDUCATION LOTTERY?
-
-### WHAT EDUCATION LOTTERY? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-[![](https://cdn.rippreport.com/3af90989-money-22.jpg)](https://rippreport.com/what-education-lottery/)
-
-Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican…
-
-Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/what-education-lottery/)
+{{< socialpreview url="https://rippreport.com/p/what-education-lottery/" >}}
 
 In Fairhope a special school tax was favored by the City Council over a Mayor’s proposal push for impact fees and making the contribution more equitable. The Council President made it perfectly clear in his statement that “the City Council wants out of any School business.”
 
-## PEDALING FORWARD
+{{< socialpreview url="https://rippreport.com/p/pedaling-forward/" >}}
 
-### PEDALING FORWARD | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/pedaling-forwards.jpg)
-
-Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
-
-Source: [rippreport.com/2019/02/27/pedaling-forward/](https://rippreport.com/pedaling-forward/)
-
-</div>
 These are the same micromanaging Christian conservatives who pound their chest every time the word taxes comes up, yet they favor taxing their constituency even when municipal funds, already collected taxes, are available. Welcome to Baldwin County we need your taxes. Doesn’t make sense.
 
-<div class="link-preview">
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html" >}}
 
-## Special School Tax Will Need Council's Blessing (Updated)
-
-### Special School Tax Will Need Council's Blessing (Updated)
-
-![](https://1.bp.blogspot.com/-j6oVIauhEbo/XGxa7qNKt6I/AAAAAAAARUY/K0m-Q_ETy-01xFSZiUQlDoIpfOKMsngZQCLcBGAs/w1200-h630-p-k-no-nu/cole.jpeg)
-
-News and information for Fairhope and Baldwin County, Alabama.
-
-Source: [thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html](https://thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html)
-
-</div>
 Teachers need to demand that the Baldwin County School Board address the basic needs of schools. Our teachers are suppose to TEACH not fund-raise.

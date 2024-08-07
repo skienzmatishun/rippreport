@@ -20,19 +20,8 @@ authors:
 
 Be sure you read
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/city-asking-gulfquest-to-cough-up-utility-payments-as-agreed/article_37c740b7-8bc0-5d09-8a65-acb5462548bb.html" >}}
 
-## City asking GulfQuest to cough up utility payments, as agreed - Lagniappe Mobile
-
-### City asking GulfQuest to cough up utility payments, as agreed - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2014/04/GQ2-1170x775.jpg)
-
-According to Executive Director of Finance Paul Wesch, GulfQuest National Maritime Museum has not been holding up its end of an agreement with the city to pay its utility bills. Wesch said the city and GulfQuest had reached an agreement about a year ago where the city would pay the building’s monthly utility costs then …
-
-Source: [lagniappemobile.com/city-asking-gulfquest-to-cough-up-utility-payments-as-agreed/](http://lagniappemobile.com/city-asking-gulfquest-to-cough-up-utility-payments-as-agreed/)
-
-</div>
 The Gulf Quest Maritime museum cost 42 million dollars_—_ a project that took 5 years to build. Taxpayers funded 28 million dollars into a concrete building resembling a ship.
 
 It now looks like the ship is sinking in a sea of taxpayer money.

@@ -28,27 +28,15 @@ Let’s not forget your stance on lowering the American Flag, or that CNN interv
 
 That really made Alabama and Baldwin County proud.
 
-## Commissioner’s ties to businesses raise questions
-
-Records maintained by the Alabama Secretary of State’s office show that between 1998 and 2013, at least 42 business entities and property owners associations were registered at 12940 Underwood Road in Summerdale, the current address for construction company Summit Industries LLC. Those entities were formed by Baldwin County Commissioner Tucker Dorsey, Dorsey’s employer Clarence E. \[…\]
-
-Source: [lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/](http://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/commissioner-s-ties-to-businesses-raise-questions/article_bfb8d7bf-bbd1-530f-b375-87f5b6baab5f.html" >}}
 
 Your rebuttal to that story only raised more questions.
 
-## Commissioner explains complex business ties
-
-Business records maintained by the Alabama Secretary of State’s office reveal that between 1998 and 2013, at least 46 business entities and property owners associations were registered by Baldwin County Commissioner Tucker Dorsey, Dorsey’s employer Clarence E. Burke Jr. and Summit Industries owner Jacob L. Cunningham to 12940 Underwood Road in Summerdale, Summit Industries’ address. \[…\]
-
-Source: [lagniappemobile.com/commissioner-explains-complex-business-ties/](lagniappemobile.com/commissioner-explains-complex-business-ties/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/commissioner-explains-complex-business-ties/article_a60864b1-e038-533e-82e3-1e824492d2aa.html" >}}
 
 It was also interesting that you changed your name?
 
-## Dorsey addresses name rumors
-
-While members of the Baldwin County Commission won’t be up for re-election until 2018, a rumor about current chairman Tucker Dorsey’s name is already circulating. Dorsey believes the rumor is intended to harm his political career. Dorsey, who is currently serving his second four-year term on the commission after being first elected in 2010, said \[…\]
-
-Source: [lagniappemobile.com/dorsey-addresses-name-rumors/](http://lagniappemobile.com/dorsey-addresses-name-rumors/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/dorsey-addresses-name-rumors/article_3aa3718e-267b-5d26-ab18-cca11eafb5d9.html" >}}
 
 Your explanation as usual lacked clarity.
 
@@ -56,11 +44,7 @@ Who are you?
 
 Let’s not forget the Mobile Area Boy Scouts and as a director you have as yet to do anything to stop the financial bleeding.
 
-## Facing budget deficits, Boy Scouts prepare land sale
-
-In an effort to stem the tide of substantial losses in revenue and contributions, the Mobile Area Council of the Boy Scouts of America is preparing to sell approximately 230 acres of land at Camp Maubila, one-third of a property near Jackson the council has owned for 50 years and used a summer camp. The \[…\]
-
-Source: [lagniappemobile.com/facing-budget-deficits-boy-scouts-prepare-land-sale/](lagniappemobile.com/facing-budget-deficits-boy-scouts-prepare-land-sale/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/facing-budget-deficits-boy-scouts-prepare-land-sale/article_074a7022-ff23-5c5d-9d61-2570f832f9a0.html" >}}
 
 A lady recently explained to me that corruption in Baldwin County is like a plate of spaghetti, a tangled pile of noodles that ultimately touch each other. You Mr. Dorsey have called out the media to prove for once and all how many noodles you are touching.
 
@@ -72,14 +56,7 @@ Lagniappe’s most recent article, [http://lagniappemobile.com/dorsey-says-votes
 
 Too Many Connections looks like that plate of spaghetti. It is also clearing the smoke and revealing a FIRE.
 
-## Dorsey says votes have nothing to do with business relationships
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/dorsey-says-votes-have-nothing-to-do-with-business-relationships/article_aa9681d6-63ff-59df-b181-684140ea1818.html" >}}
 
-![](https://cdn.rippreport.com/wp-content/uploads/2016/09/Tucker-Dorsey-140x140.jpeg)
-
-Baldwin County Commissioner Tucker Dorsey says the labyrinth of business entities surrounding him and his part-time employer are simply a method of reducing liabilities or the vestiges of old property associations and do not represent an ethical dilemma for him as an officeholder. Dorsey has been explaining the rather complex layers of businesses and property \[…\]
-
-Source: [lagniappemobile.com/dorsey-says-votes-have-nothing-to-do-with-business-relationships](lagniappemobile.com/dorsey-says-votes-have-nothing-to-do-with-business-relationships)
-
- 
 
 All of this information and more will be part of an existing ethics complaint. If you know of any of Mr. Dorsey’s noodle connections please contact us. Mr. Dorsey is wearing Tim Kant shoes and will soon be leaving the building.
