@@ -27,7 +27,7 @@ Mayor Haygood of Daphne has fallen from grace and CATALYST now plans to run oppo
 
 Jack Burrell also may have a CATALYST opponent. This is not surprising Hard Hat Jack has burned more bridges that General Sherman. Mr. Burrell is absolutely the worst council person to serve as a councilman in Fairhope’s history. The list of his despicable acts runs from bid rigging to bulling women. Lying is second nature to Jack and those who vote for him are not voting in their best interest.
 
-https://rippreport.com/catalyst-liar/
+{{< socialpreview url="https://rippreport.com/p/catalyst-liar/" >}}
 
 Fairhope is a buzz with who will run for Mayor. CATALYST has only damage goods to offer and all the same old players are beginning to think twice before entering the race. A pact formed by former Mayor Can’t, Sherry Sullivan and Jack Burrell consisted of a promise, between the three, that only one of them would run for Mayor.
 
@@ -41,14 +41,14 @@ People read this blog and sometime cannot believe the corruption outlined. Baldw
 
 In 10 years the only thing that has changed in Alabama is the calendar. Think about it nothing has changed, the same corrupt goat hill, and Baldwin County has maintained a level of corruption that is costing taxpayer millions.
 
-https://rippreport.com/a-decade-of-corruption/
+{{< socialpreview url="https://rippreport.com/p/a-decade-of-corruption/" >}}
 
 The Strawman series in Lagniappe outlines how businessmen, a county commissioner, lawyers and Judges, orchestrated a scheme to cheat innocent citizens out of their property. Has anyone been held accountable? Hell no, this how CATALYST rolls in Baldwin County.
 
-https://rippreport.com/strawman-spiderweb/
+{{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}
 
 Last but not least is CATALYST attempt to place their candidate, Bill “Lowtower” in congress. The last thing we need in the First Congressional District is a CATALYST swamp creature. CATALYST in Washington is as close to pig farm as you can get. “lowtower” is being supported by Washington insiders who see Alabama ripe for the pick en, they want the congressional seat and do not give a damn for Alabama.
 
-https://rippreport.com/catalyst-kiss/
+{{< socialpreview url="https://rippreport.com/p/catalyst-kiss/" >}}
 
 Send CATALYST a message July 14th, congressional runoff election, and vote for JERRY CARL.

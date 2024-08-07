@@ -27,18 +27,16 @@ CATALYST will run Faux candidates in the upcoming Fairhope Municipal election. G
 
 The greatest fix in Alabama involved Governor Siegelman, who was declared the winner, only to have Baldwin County creatively come up with mysterious ballots, that flipped the final results in favor of Bob Riley. Those mysterious votes have never seen the light of day. Good ole Baldwin County.
 
-[https://www.tuscaloosanews.com/article/DA/20050703/News/606113203/TL](https://www.tuscaloosanews.com/article/DA/20050703/News/606113203/TL)
+{{< socialpreview url="https://web.archive.org/web/20200811140858/https://www.tuscaloosanews.com/article/DA/20050703/News/606113203/TL" >}}
 
-[![](https://cdn.rippreport.com/wp-content/uploads/2020/06/stealing-democracy.jpg)](https://www.pageandpalette.com/events-master/2020/6/18/don-siegelman-stealing-our-democracy)
-
-https://lagniappemobile.com/former-gov-don-siegelman-discusses-trial-conviction-and-future-in-new-memoir/
+{{< socialpreview url="https://www.lagniappemobile.com/news/former-gov-don-siegelman-discusses-trial-conviction-and-future-in-new-memoir/article_58549564-16ae-5bc8-bd58-55d25f79bb3a.html" >}}
 
 This article has a paywall, free copies are at local newsstands.
 
 Don Seigelman is the only one in the history of Alabama to serve as Sec. Of State, Attorney General, Lt. Governor and Governor. His story explains the depth of corruption in Alabama. If you cannot make the book signing then get a copy at Page and Pallette.
 
-[https://www.amazon.com/Stealing-Our-Democracy-Political-Assassination/dp/1588384292](https://www.amazon.com/Stealing-Our-Democracy-Political-Assassination/dp/1588384292)
+{{< socialpreview url="https://www.amazon.com/Stealing-Our-Democracy-Political-Assassination/dp/1588384292"}}
 
-You can gleam more information by watching Atticus and the Architect on u-tube. This video exposes the cast of characters involved and the raw corruption they displayed.
+You can gleam more information by watching Atticus and the Architect on Youtube. This video exposes the cast of characters involved and the raw corruption they displayed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-iEBe7W26I" frameborder="0" allowfullscreen></iframe>
