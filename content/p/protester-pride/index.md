@@ -1,7 +1,7 @@
 ---
 title: "PROTESTER PRIDE"
 date: 2017-12-06
-thumbnail: "img/protester-pride.jpg"
+thumbnail: "img/protester-pride.png"
 categories: 
   - wonderful-wednesday
 tags: 

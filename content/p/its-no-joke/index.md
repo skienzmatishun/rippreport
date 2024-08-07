@@ -1,6 +1,7 @@
 ---
 title: "IT’S NO JOKE"
 date: 2017-11-01
+thumbnail: "img/its-no-joke.png"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -15,16 +16,4 @@ H Bryant Ayers: “There is one certain outcome of the Alabama Senate race if Ro
 
 Read the last paragraph again, it’s not fake news, it’s reality.
 
-<div class="link-preview">
-
-## H. Brandt Ayers: Roy Moore will shame Alabama
-
-### H. Brandt Ayers: Roy Moore will shame Alabama
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/11/59cae99569c0a.image.jpg?crop=1070%2C553%2C39%2C14&resize=1070%2C553&order=crop%2Cresize)
-
-There is one certain outcome of the Alabama Senate race if Roy Moore is elected. He will be compelled to embarrass Alabama because of a set of personal religious beliefs
-
-Source: [www.annistonstar.com/columnists/h\_brandt\_ayers/h-brandt-ayers-roy-moore-will-shame-alabama/article\_ab4eead2-bb67-11e7-9d92-bb3986757312.html](http://www.annistonstar.com/columnists/h_brandt_ayers/h-brandt-ayers-roy-moore-will-shame-alabama/article_ab4eead2-bb67-11e7-9d92-bb3986757312.html)
-
-</div>
+{{< socialpreview url="https://www.annistonstar.com/columnists/h_brandt_ayers/h-brandt-ayers-roy-moore-will-shame-alabama/article_ab4eead2-bb67-11e7-9d92-bb3986757312.html" >}}
