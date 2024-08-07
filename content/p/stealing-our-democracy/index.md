@@ -35,7 +35,7 @@ This article has a paywall, free copies are at local newsstands.
 
 Don Seigelman is the only one in the history of Alabama to serve as Sec. Of State, Attorney General, Lt. Governor and Governor. His story explains the depth of corruption in Alabama. If you cannot make the book signing then get a copy at Page and Pallette.
 
-{{< socialpreview url="https://www.amazon.com/Stealing-Our-Democracy-Political-Assassination/dp/1588384292"}}
+{{< socialpreview url="https://www.amazon.com/Stealing-Our-Democracy-Political-Assassination/dp/1588384292" >}}
 
 You can gleam more information by watching Atticus and the Architect on Youtube. This video exposes the cast of characters involved and the raw corruption they displayed.
 
