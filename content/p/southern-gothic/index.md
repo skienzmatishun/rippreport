@@ -17,7 +17,7 @@ Mr. Ripp:
 
 Please find my response to the Lagniappe Newspaper's article "Win Some, Lose Some" by Gabriel Tynes submitted for your consideration:
 
-[https://lagniappemobile.com/mcsharry-convicted-of-public-intox-civil-case-proceeds/](https://lagniappemobile.com/mcsharry-convicted-of-public-intox-civil-case-proceeds/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html" >}}
 
 ## SOUTHERN GOTHIC
 
@@ -65,27 +65,27 @@ Baldwin County, AL formerly of Ocean Springs, MS
 
 @backwoodssouth2 @damndirtyrushin
 
-[https://lagniappemobile.com/mcsharry-convicted-of-public-intox-civil-case-proceeds/](https://lagniappemobile.com/mcsharry-convicted-of-public-intox-civil-case-proceeds/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html" >}}
 
-[https://www.blakeleypark.com/Blog/Blog-Detail/incident-of-war-a-letter-to-president-harding-from-charles-hall-of-blakeley-alabama](https://www.blakeleypark.com/Blog/Blog-Detail/incident-of-war-a-letter-to-president-harding-from-charles-hall-of-blakeley-alabama)
+{{< socialpreview url="https://www.blakeleypark.com/Blog/Blog-Detail/incident-of-war-a-letter-to-president-harding-from-charles-hall-of-blakeley-alabama" >}}
 
 [https://en.wikipedia.org/wiki/Fort\_Mims\_massacre](https://en.wikipedia.org/wiki/Fort_Mims_massacre)
 
-[https://lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/](https://lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/)
+{{< socialpreview url="https://lagniappemobile.com/despite-previous-attempts-private-sewer-provider-has-escaped-local-regulation/" >}}
 
 [https://ethics.alabama.gov/docs/pdf/AO2010-09ALL.pdf](https://ethics.alabama.gov/docs/pdf/AO2010-09ALL.pdf)
 
-[https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/](https://lagniappemobile.com/serial/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}
 
-[https://lagniappemobile.com/utility-purchased-property-from-trust-tied-to-mayor/](https://lagniappemobile.com/utility-purchased-property-from-trust-tied-to-mayor/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/utility-purchased-property-from-trust-tied-to-mayor/article_d7c3318e-b6a9-530e-9da1-f41fac0020e0.html" >}}
 
-[https://mynbc15.com/news/local/man-commits-suicide-by-tying-seat-belt-around-neck-and-jumping-from-moving-vehicle](https://mynbc15.com/news/local/man-commits-suicide-by-tying-seat-belt-around-neck-and-jumping-from-moving-vehicle)
+{{< socialpreview url="https://mynbc15.com/news/local/man-commits-suicide-by-tying-seat-belt-around-neck-and-jumping-from-moving-vehicle" >}}
 
 [https://en.wikipedia.org/wiki/Baldwin\_County,\_Alabama](https://en.wikipedia.org/wiki/Baldwin_County,_Alabama)
 
 [http://www.deltacomputersystems.com/TEMP/PDFWEB/AL05/D/1007/D-1007-0000180.PDF](http://www.deltacomputersystems.com/TEMP/PDFWEB/AL05/D/1007/D-1007-0000180.PDF)
 
-[https://www.pbs.org/video/alabama-public-television-presents-americas-amazon/](https://www.pbs.org/video/alabama-public-television-presents-americas-amazon/)
+{{< socialpreview url="https://www.pbs.org/video/alabama-public-television-presents-americas-amazon/" >}}
 
 [http://www.encyclopediaofalabama.org/article/h-3026](http://www.encyclopediaofalabama.org/article/h-3026)
 

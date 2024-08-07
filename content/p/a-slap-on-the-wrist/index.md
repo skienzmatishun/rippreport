@@ -24,7 +24,7 @@ The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles c
 
 Lagniappe has covered the Fairhope, McSharry “Bar stool” incident from the onset, the below article best encapsulates events to date.
 
-https://lagniappemobile.com/mcsharry-convicted-of-public-intox-civil-case-proceeds/
+{{< socialpreview url="https://www.lagniappemobile.com/news/mcsharry-convicted-of-public-intox-civil-case-proceeds/article_8f42b4ad-e5fa-5bf8-82fe-cb59f92853ca.html" >}}
 
 This article has a paywall, free copies are available at news stands
 
@@ -34,7 +34,7 @@ This article has a paywall, free copies are available at news stands
 
 You really can’t make this crap up, if you read it in a book you would have to believe it was fiction.
 
-{{ socialpreview url="https://rippreport.com/p/secret-society/" >}}
+{{< socialpreview url="https://rippreport.com/p/secret-society/" >}}
 
 “Baldwin County has its own secret society. A political cabal of politicians, developers, judges, lawyers, even a sheriff. The Cabal operated for years under the banner CATALYST.
 

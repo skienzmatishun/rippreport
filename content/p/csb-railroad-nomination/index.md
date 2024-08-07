@@ -41,7 +41,7 @@ This cost the city thousands of dollars.
 
 The council seat in question, pays $11,500 a year but the cherry on top is full family insurance, something no employees have. In the case of Robinson, a family of 6, the value of such insurance far exceeds the salary. It would be safe to say such insurance would be around $1000 to $1200 a month. With 42 months remaining in the term that would be $40,000 plus. That would make the council seat have a value of around $80,000 to $100,000 dollars. Nice raise for a family of 6. The council did not want to discuss that. Another fact is Jay Robinson and his wife and the Mayor are long time best friends, something else the council did not want to discuss. I guess it is all in who you know and how far you can bend over. The hell with any conflict of interest and a few pesky lies.
 
-https://lagniappemobile.com/jay-robinson-appointed-to-fairhope-city-council/
+{{< socialpreview url="https://www.lagniappemobile.com/news/jay-robinson-appointed-to-fairhope-city-council/article_42bf7c9e-721c-5cc5-8649-16deab5ec6ce.html" >}}
 
 “In July of 2020, there was a lot going on. We were in the middle of a pandemic and my wife was pregnant with our fourth child and my wife has a history of health scares. There was a lot for me to contemplate and with so many uncertainties at that time, I didn’t feel comfortable making the commitment to serve in this position. It’s been eight months since then and in that time I have a healthy and gorgeous 5-month-old girl, a healthy and happy wife, and we’ve adjusted to life as a family of six. We have a very comfortable work-family balance.” Jay Robinson, after being sworn in.
 

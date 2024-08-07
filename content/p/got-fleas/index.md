@@ -19,13 +19,13 @@ Fairhope is seeing the results of a Council and Mayor more dedicated to special 
 
 It is an absolute shame the Fairhope Waterfront Project became such a divisive tool, used by elected officials, to distort the project and lie to the public. The vast majority of Fairhope citizens have no idea what the original plan was and the opportunity they have lost.
 
-https://rippreport.com/redneck-renovations/
+{{< socialpreview url="https://rippreport.com/p/redneck-renovations/" >}}
 
 Fairhope’s, $6.2 million waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions.
 
 Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 
-[http://www.gulfcoastnewstoday.com/the-courier/stories/plans-progressing-for-working-waterfront,105271](http://www.gulfcoastnewstoday.com/the-courier/stories/plans-progressing-for-working-waterfront,105271)
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/plans-progressing-for-working-waterfront,105271" >}}
 
 The $6.2 million project is being paid for with money from the Resources and Ecosystem Sustainability, Tourist Opportunities and Revived Economy, RESTORE, Act that distribute funds from the BP oil spill. In Fairhope, the work is intended to stabilize the bluff overlooking Mobile Bay and the waterfront.
 
@@ -37,7 +37,7 @@ Howling Raines should also get credit for his contribution of distorting the fac
 
 No shit Sherlock, get in bed with dogs and ya going to get fleas.
 
-https://lagniappemobile.com/fairhope-city-council-to-consider-bayfront-park-improvements/
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-city-council-to-consider-bayfront-park-improvements/article_fd10b28a-d4b8-5a14-ad48-209337b36aff.html" >}}
 
 Howell Raines, who was a vocal critic of the previous plan, said this one also doesn’t pass muster.
 
@@ -47,7 +47,7 @@ Mayor Wilson held 10 fold the public participation, regarding the Waterfront Pro
 
 Howling Raines could have seen this coming, if he had been reading the Ripp Report. Howling is a part time resident and he got fleas hanging with the dogs, it up to him to get treated!
 
-https://rippreport.com/howling-rains-passing-gas/
+{{< socialpreview url="https://rippreport.com/p/howling-rains-passing-gas/" >}}
 
 Howling attacks the plan, the grant, the engineering firm, that the council approved, the landscape architect, public works, community development and city employees.
 
