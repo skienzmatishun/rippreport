@@ -36,9 +36,9 @@ The Courier and WABF AM, yes there is an AM, both cater to the a small minority 
 
 Lagniappe took the approach of caution and their articles informs the public of more than one side of the story.
 
-https://lagniappemobile.com/trumped-charges-wilson-fairhope/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/trumped-up-charges-against-wilson-in-fairhope/article_829b500e-faf3-5ee5-8aa7-ba4cc6f3e2a1.html" >}}
 
-https://lagniappemobile.com/fairhope-employee-files-complaint-mayor-wilson/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-employee-files-complaint-against-mayor-wilson/article_013ee4bd-38b2-536f-933d-50c8bcac6631.html" >}}
 
 THE RIPP REPORT We are deeply involved in supporting good government and eliminating political corruption by exposing elected officials who abuse their office. Jack Burrell is trying to hijack the first honest election Fairhope ever had. It makes no difference if Karin Wilson won or anybody else. They would still be getting the same crap. The fact that she is a woman made it easier for Burrell and Boone to use bullying tactics at public meetings― real Christian men! However, these willing participants and council members being led by the nose by Burrell are now entering uncharted waters. It is obvious that some employees and ex-employees, assisted and encouraged by Mr. Burrell, have colluded with one another in supporting a coup of Fairhope municipal government. Don’t be surprised when the insurance company being asked to fork over $100,000 dollars does a little investigating themselves. Catalyst, the GOB representative, led by Scott Boone, councilman Kevin Boone’s son, has been privileged to confidential city business, supplied by his father and employees following Jack. Jack is the subject of multiple complaints and Kevin Boone has so many conflicts of interest and LLC’s that he should not be on the council.
 

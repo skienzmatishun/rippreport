@@ -16,11 +16,7 @@ authors:
 
 Mid term elections are 18 months away and already we are seeing the GOB "good ole boys", and Catalyst, placing their candidates in strategic elected positions.
 
-## Campaign callouts - Lagniappe
-
-With a special election to permanently fill Jeff Sessions’ U.S. Senate seat set for later this year, Alabamians need to get acquainted with the state politicians that could be running the show come election day. Below are some of the top contenders for the office and a bit of insight on each.
-
-Source: [https://lagniappemobile.com/campaign-callouts/](https://lagniappemobile.com/campaign-callouts/)
+{{< socialpreview url="https://www.lagniappemobile.com/archives/campaign-callouts/article_bec12438-89d3-5432-87c5-83d05531c040.html" >}}
 
 The selection of Jeff Sessions for U. S. Attorney General started a ball rolling for career politicians. State senator and Bible study partner of Jack Burrell, Tripp Pittman first announced that he would not be seeking re-election for state senate. His reason was that he believed in term limits, and God, so he decided to run for Mr. Sessions U. S. Senate seat. This is called good ole Alabama logic coming from a politician who has filled his pockets with BP cash and used his elected office to personally enrich himself during a catastrophe.
 
@@ -46,7 +42,7 @@ You may remember Mr. Elliott’s run in with the law.
 
 Commissioner Elliott then glossed over his previous comments and the serious charge of DUI.
 
-http://lagniappemobile.com/whos-chris-elliott-trying-fool/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html" >}}
 
 Now Mr Elliott want us to elect him to a State Senate seat.
 

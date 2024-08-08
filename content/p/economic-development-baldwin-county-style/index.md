@@ -34,7 +34,7 @@ Fairhope Economic Development is just as fickle. Last week the city council appr
 
 Council President Jack Burrell, come fly with me, explained that it happened on his watch, however had no comment and suggested paying the presented bill for $32,000 dollars. Mr. Burrell two weeks prior, during city budget approval, cut economic and community development funding for a new department, for less money than he approved for a bill without documentation. Mr. Burrell also gets credit for his economic development plans for the Fairhope Airport.
 
-https://lagniappemobile.com/fairhope-council-president-mayor-clash-airport-land-deal/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-council-president-mayor-clash-over-airport-land-deal/article_99540473-7208-57ca-ab2d-f262d5ff5949.html" >}}
 
 Fairhope taxpayers pay for the airport; however, the airport authority has the title to the land? Mr. Burrell has also fought the mayor on any appointments the mayor has suggested for the airport authority board. Keep your eyes on the airport. Jack has his own economic development plan, called the 1% plan.
 

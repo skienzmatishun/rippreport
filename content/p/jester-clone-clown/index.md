@@ -35,13 +35,7 @@ It sure is a coincidence that the Jester 666 posted right after the council meet
 
 We will have to wait for Boone Burrell and Brown to be sworn in under oath in court, the day is coming, and see if they can keep their stories straight. Jester 666 is not fit to hold elected office.
 
-## Alabama Code Title 36. Public Officers and Employees § 36-11-1 | FindLaw
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/findlaw_62x62.png)
-
-Alabama Code Title 36. Public Officers and Employees Section 36-11-1. Read the code on FindLaw
-
-Source: [codes.findlaw.com/al/title-36-public-officers-and-employees/al-code-sect-36-11-1.html](http://codes.findlaw.com/al/title-36-public-officers-and-employees/al-code-sect-36-11-1.html)
+{{< socialpreview url="https://codes.findlaw.com/al/title-36-public-officers-and-employees/al-code-sect-36-11-1.html" >}}
 
 THE CLOWN
 
@@ -55,31 +49,15 @@ The Senator was appointed the “TRUSTEE” of BP funds, and within days was plo
 
 He then fired those who reported the Ethics complaint,
 
-## Ethics complaint names Sen. Trip Pittman, Commissioner Bob James
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/8421284-standard.jpg)
-
-BAY MINETTE, Alabama -- A Fairhope resident and a Silverhill businessman this week filed a 130-page ethics complaint against Sen. Trip Pittman, R-Montrose, and Baldwin County Commissioner Bob James, alleging the men violated state ethics laws in connection with BP PLC grants and other issues.
-
-Source: [blog.al.com/live/2011/01/ethics\_complaint\_names\_sen\_tri.html](http://blog.al.com/live/2011/01/ethics_complaint_names_sen_tri.html)
+{{< socialpreview url="https://blog.al.com/live/2011/01/ethics_complaint_names_sen_tri.html" >}}
 
 Pittman then sought to save money and labor by leaving the boom anchors in the bay:
 
-## Boom retrieval after oil spill leaves anchors in the bay - Lagniappe Mobile
-
-Four years after the crisis, folks along the coast of Mobile Bay are still dealing with the effects of BP’s Deepwater Horizon oil spill, although in this instance it may be for an unexpected reason. The U.S Coast Guard, BP and the U.S. Army Corps of Engineers are currently looking into a complaint related to …
-
-Source: [lagniappemobile.com/boom-retrieval-oil-spill-leaves-anchors-bay/](http://lagniappemobile.com/boom-retrieval-oil-spill-leaves-anchors-bay/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/boom-retrieval-after-oil-spill-leaves-anchors-in-the-bay/article_d12e8edb-4b27-5f07-aec4-55a714a79d8c.html" >}}
 
 Senator Pittman showed no compassion for autism
 
-## Pittman holds back autism bill, threatening session
-
-![](https://www.gannett-cdn.com/-mm-/df7d7bcaa91275c2bc74e76f4fcf063f2f94ced5/c=53-1372-1689-2296&r=x1683&c=3200x1680/local/-/media/Montgomery/Montgomery//1396731877012-autism13.jpg)
-
-Chairman refuses to report bill out after approval; supporters warn they'll filibuster or move to adjourn
-
-Source: [www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/](www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/)
+{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/" >}}
 
  
 

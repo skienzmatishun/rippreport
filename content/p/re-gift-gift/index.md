@@ -42,22 +42,10 @@ In the Fall of 2016, the developer for the first time submitted a site plan to u
 
 This PUD Amendment must be repealed now to not only protect the lower landowners downstream, not only to protect our City’s natural resources, but to the protect the City itself as an upper landowner from all properties downstream, and as the City now owns the wetlands and is a lower landowner to the PUD project.”
 
-## COMMUNITY OR DEVELOPER
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/question-mark-e14916653808131.jpg)
-
-Sorry for the delay of the Ripp Report. CITY OF FAIRHOPE CITY COUNCIL AGENDA MONDAY, 10 APRIL 2017 – 6:00 PM. – CITY COUNCIL CHAMBER 5. Final Adoption – An Ordinance Amending Ordinance No. 1572:...
-
-Source: [rippreport.com/2017/04/08/community-or-developer/](https://rippreport.com/community-or-developer/)
+{{< socialpreview url="https://rippreport.com/p/community-or-developer/" >}}
 
 This “gift” is compliments of Tim Kant ,Corte and the last City Council. Please stay tuned to see how the attorneys and those responsible spin the story. This is a complicated issue with many moving parts and many more questions than answers. A comprehensive investigation into the ”gift” lift station, sewage lines and liability should be conducted. This can only be done by our elected officials. Failing to do this will aid any lawsuit pending or forthcoming and someone else doing the investigating, at taxpayers expense.
 
 Whatever else let’s be fair:
 
-## Fairness
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/05/BB_FlyCreek-777x437.jpg)
-
-For the 10th time citizens packed the city council chambers to discuss the Fly Creek Apartments and again their comments fell on deaf ears. Four councilmen voted for the extension of the sunset clause that allows the developer another 120 days to get a multiple occupancy site plan.
-
-Source: [https://rippreport.com/fairness/](https://rippreport.com/2017/04/14/fairness/)
+{{< socialpreview url="https://rippreport.com/p/fairness/" >}}

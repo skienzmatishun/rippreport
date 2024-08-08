@@ -19,13 +19,7 @@ For the 10th time citizens packed the city council chambers to discuss the Fly C
 
 WHY? Well, three of the council stated they labored over the decision and even prayed about it. You ever notice how many times religion and God come up with political decisions and how God must be responsible! Then throw in the word FAIRNESS, mix it up with a bunch of senseless gibberish and you have the perfect formula of B--- Sh--.
 
-## Controversial Fly Creek apartments get extension - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/BB_FlyCreek1.jpg)
-
-The Fly Creek upscale apartment development was a key issue in last year’s Fairhope municipal elections, costing some city leaders their offices. At least some voters hoped with a new mayor and three new council members the controversial apartments to be built behind Publix would go away. That’s not what happened Monday when a crucial …
-
-Source: [lagniappemobile.com/controversial-fly-creek-apartments-get-extension/](http://lagniappemobile.com/controversial-fly-creek-apartments-get-extension/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/controversial-fly-creek-apartments-get-extension/article_754c0577-2b0a-5018-955c-30293da43df2.html" >}}
 
 Mr Brown spoke, before the vote, about his long term relationship with Mr. Corte and spoke of him in glowing terms. If Mr Brown feels this strongly and has done work for Mr Corte, he should have recuse himself from any vote related to the project. Sound Fair?
 
@@ -53,10 +47,4 @@ Mayor Wilson has stayed the course from beginning until present, she has stood b
 
 FAIRNESS will not exist while Burrell, aka Beavis and Boone aka Butthead are steering a council more interested in keeping the developer happy than the citizens that elected them.
 
-## RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/BeavisandButthead-2.jpg)
-
-BEAVIS AND BUTTHEAD invade Fairhope Everyone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The mainstream news...
-
-Source: [rippreport.com/2017/03/31/beavis-and-butthead/](https://rippreport.com/beavis-and-butthead/)
+{{< socialpreview url="https://rippreport.com/p/beavis-and-butthead/" >}}

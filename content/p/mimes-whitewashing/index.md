@@ -25,11 +25,7 @@ It was denied unanimously while almost 15 thousand was approved for police compu
 
 Please read carefully the explanation by attorney Satterwhite,
 
-## Despite threat of suit, Fairhope council refuses funds for mayor’s lawyer - Lagniappe Mobile
-
-The Fairhope City Council approved close to a dozen resolutions at its latest meeting June 26, but one proposed by Mayor Karin Wilson and pushed by her, according to council members, under threat of legal action failed to gain support. That resolution would have authorized up to $15,000 for Wilson to negotiate agreements to contract …
-
-Source: [lagniappemobile.com/despite-threat-suit-fairhope-council-refuses-funds-mayors-lawyer/](https://cdn.rippreport.com/wp-content/uploads/2017/07/despite-threat-suit-fairhope-council-refuses-funds-mayors-lawyer)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/despite-threat-of-suit-fairhope-council-refuses-funds-for-mayor-s-lawyer/article_4825fe1b-b008-5899-9a3e-fff4204dbe4c.html" >}}
 
 “Come fly with me” Burrell’s response was that no mediation was needed unless they, the council, were the mediators. ”We are the mediators”, declared Burrell. Currently, Jack wears many hats, council president, liaison to city for airport authority, bid committee for airport authority and now he is the city legal mediator.
 

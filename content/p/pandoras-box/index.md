@@ -21,7 +21,7 @@ Today the phrase "to open Pandora's box" means to perform an action that may see
 
 Fairhope has opened Pandora’s box thanks to the HR director and her $100,000 lawsuit against the city. Now the contents are slowly going to be public. The latest item out of the box is the claim of Sherry Sullivan and her wrongful termination.
 
-{{< socialpreview url="www.gulfcoastnewstoday.com/stories/second-claim-filed-with-city-of-fairhope,5016" >}}
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/second-claim-filed-with-city-of-fairhope,5016" >}}
 
 Sullivan and Jennifer Fidler were fired, and no one knows why. Now we will find out. Fidler is the witness for the HR director. Want to make a bet that Fidler doesn’t jump in with her own lawsuit?
 
@@ -51,7 +51,7 @@ Please remember we only had two mayors in 40 years and both left office under a 
 
 Another take on the situation is:
 
-{{< socialpreview url="www.al.com/news/mobile/index.ssf/2017/05/what_is_wrong_with_fairhope_fa.html" >}}
+{{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2017/05/what_is_wrong_with_fairhope_fa.html" >}}
 
 A good article, however it should be mentioned that a few quotes seem to be very misleading. Diana Brewer, who lost her council seat then went down with the ship, Maritime Museum, is weighing in on “Vision”. Give me a break she has no vision and she supports the Corte Apartments and the destruction of the wetlands. Her new job is with Weeks Bay Foundation who have made their position on wetlands very clear. Diana takes to social media defending her position which is opposite of her employer and board, she should stay in the box.
 

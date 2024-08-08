@@ -33,23 +33,13 @@ Then I witnessed something I have never seen in Fairhope. The planning and zonin
 
 That is the power of people however in Fairhope, 9 meetings have been held in relation to Fly Creek Apartments, with a total of over 1000 attending, 99% opposed the project.
 
-## Despite public outcry, Fly Creek apartments win approval - Lagniappe Mobile
-
-For nearly three hours on Monday and for the second time in nearly two months, Fairhope residents railed against a proposed apartment development behind the Publix on U.S. Highway 98 at Parker Road. But unlike a similar meeting in early December, this time the Fairhope Planning Commission voted to recommend its approval to the Fairhope …
-
-lagniappemobile.com/despite-public-outcry-fly-creek-apartments-win-approval/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/despite-public-outcry-fly-creek-apartments-win-approval/article_ea287e36-5958-52ee-a88b-f9889226344f.html" >}}
 
 Fairhope Planning and Zoning as well as the council have yet to listen to the Citizens Citizens Citizens.
 
 The last meeting of the city council to discuss the apartments cowered, held their hands over their ears and closed their eyes. Only one council person was listening, the rest had been castrated.
 
-## Controversial Fly Creek apartments get extension - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/06/BB_FlyCreek.jpg)
-
-The Fly Creek upscale apartment development was a key issue in last year’s Fairhope municipal elections, costing some city leaders their offices. At least some voters hoped with a new mayor and three new council members the controversial apartments to be built behind Publix would go away. That’s not what happened Monday when a crucial …
-
-Source: [lagniappemobile.com/controversial-fly-creek-apartments-get-extension/](http://lagniappemobile.com/controversial-fly-creek-apartments-get-extension/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/controversial-fly-creek-apartments-get-extension/article_754c0577-2b0a-5018-955c-30293da43df2.html" >}}
 
 The mayor of Fairhope has never wavered in her opposition to the project while most of the council has plugged ears, a mouthful of marbles and no balls.
 
