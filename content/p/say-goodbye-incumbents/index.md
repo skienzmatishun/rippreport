@@ -23,30 +23,15 @@ Here is a picture of the four Baldwin County Commissioners that need to be put t
 
 Four seats and already over 10 candidates have signed up. Now all we need to do is figure out who are faux candidates or who is carrying water for Catalyst.
 
-## 10 candidates running for Baldwin County Commission seats - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/11/BB6_Baldwin.jpg)
-
-By John Mullen There will be at least one new face on the Baldwin County Commission after the 2018 elections and three incumbents are seeking to retain their seats. District 1’s Frank Burt and District 4’s Skip Gruber are seeking to retain their seats, as is District 3’s Tucker Dorsey. District 2’s Chris Elliott has …
-
-Source: [lagniappemobile.com/10-candidates-running-baldwin-county-commission-seats/](http://lagniappemobile.com/10-candidates-running-baldwin-county-commission-seats/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/10-candidates-running-for-baldwin-county-commission-seats/article_8070955a-8ce7-5558-8ada-a21dafa593c3.html" >}}
 
 Seat 2 is Chris Elliott who is going to run for Sen Trip Pittman’s seat. I will be first to admit that even Elliott is not as bad as Pittman. However after his DUI he said he would man up instead he got a lawyer and played the privileged card. So Elliott is out and we will have to vote him out in the Senate race.
 
-## Baldwin County Commissioner Charged with DUI in Fairhope
-
-### Baldwin County Commissioner Charged with DUI in Fairhope
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/11/elliott-mug1.jpg)
-
-A Baldwin County Commissioner was arrested for driving under the influence over the weekend in Fairhope.
-
 {{< socialpreview url="https://www.wkrg.com/news/baldwin-county-commissioner-charged-with-dui-in-fairhope/" >}}
 
-</div>
 John Lake from Daphne is running for that seat. John has a long history of being a public servant and has never used his position to his advantage, he is an excellent replacement.
 
-https://www.facebook.com/john.lake.5686322
+{{< socialpreview url="https://www.facebook.com/john.lake.5686322" >}}
 
 Seat 3 is infamous Tucker Dorsey business partner of Clarence Burke of Baldwin County Sewer who is connected to Catalyst and Summitt Construction. Dorsey and Elliott are smug self centered professional politicians, through and through. They are the good ole boys and represent development and unbridled growth. Dorsey is probably the worst, no he is the worst and do not forget his buddy Trip Pittman helped him into the Commission. In return Dorsey orchestrated the firing of over a dozen good employees.
 
@@ -66,7 +51,7 @@ Last is seat 4 Charles Gruber. Mr Gruber is the quite one that usually stands on
 
 Christopher Callaghan is his challenger,
 
-https://www.facebook.com/callaghanforcommission/
+{{< socialpreview url="https://www.facebook.com/callaghanforcommission/" >}}
 
 He will kick off his campaign Nov. 16th in Fairhope.
 

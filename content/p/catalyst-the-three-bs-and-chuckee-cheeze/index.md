@@ -21,32 +21,30 @@ Catalyst’s plan is simple: Place as many candidates in as many positions as po
 
 A classic example is Chuckee’s latest article where he gives the Three Bees press coverage to criticize the hiring of a police officer, a highly qualified individual; but hey he ain’t Catalyst.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Questions arise about new police hire made by Fairhope mayor <a href="https://t.co/QsPqzbTKyj">https://t.co/QsPqzbTKyj</a></p>&mdash; £€€ ₩€₿₿ (@elwebb3) <a href="https://twitter.com/elwebb3/status/970832704840392704?ref_src=twsrc%5Etfw">March 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 Please be advised Mr Goubil was an investigator for the Alabama Ethics Commission and had no voice in any decision the Ethics Commission made. He also investigated the Airport scandal involving Mr. Jack Burrell and Mr. Ray Hix, and that my friends is the problem the Three Bees really have. The Three Bees carry the Catalyst cancer cells and they will spread the cancer throughout Baldwin County, unless the court of public opinion wakes up and votes them out. Here is three classic examples of Catalyst members that are presently stinging the s--- out of the citizens of Fairhope. First up is grandpa Catalyst, Kevin Boone the Fairhope conduit to Chuckee Cheeze and Catalyst.
 
 Catalyst candidates are financed by Prebble -Rish, an engineering company, and long time partner of Kevin Boone, in multiple LLC’s listed on the Alabama Secretary of State website. This is how the cancer spreads. Here are a few articles about Grandpa Boone.
 
 {{< socialpreview url="https://rippreport.com/p/investigative-reporting-business-entity-records/" >}}
 
-{{< socialpreview url="https://rippreport.com/conflict-of-interest/" >}}
+{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/" >}}
 
-{{< socialpreview url="https://rippreport.com/a-spiders-web/" >}}
+{{< socialpreview url="https://rippreport.com/p/a-spiders-web/" >}}
 
-{{< socialpreview url="https://rippreport.com/boone-doggle/" >}}
+{{< socialpreview url="https://rippreport.com/p/boone-doggle/" >}}
 
 
 Then we have Jack Burrell, who has completely gone off the rails since he entered politics almost seven years ago. Mr. Burrell was represented by an attorney, paid for by the Airport Board, involving an Ethics complaint. He now is being represented by the city’s insurance carrier in a case involving public participation. He is using your tax money to defend his unconstitutional actions. He denied the mayor that same privilege.
 
 That’s your money taxpayers! Here are some of “come fly with me” Burrell’s accomplishments.
 
-{{< socialpreview url="https://rippreport.com/see-ya-in-court-jack/" >}}
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
-{{< socialpreview url="https://rippreport.com/now-you-know-jack/" >}}
+{{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
-{{< socialpreview url="https://rippreport.com/in-your-face/" >}}
+{{< socialpreview url="https://rippreport.com/p/in-your-face/" >}}
 
-{{< socialpreview url="https://rippreport.com/fairhope-jester/" >}}
+{{< socialpreview url="https://rippreport.com/p/fairhope-jester/" >}}
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187" >}}
 

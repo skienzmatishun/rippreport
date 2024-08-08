@@ -12,7 +12,7 @@ authors:
 
 The Moore and Bannon show did not count on any protesters, no they thought everyone would just roll over as usual. Wrong, and thank God for it. Fairhope should be proud that many women in Baldwin County did not allow themselves to be silenced and exercised their constitutional right to peacefully protest the candidacy of Roy Moore. Please note I said Roy Moore because he is not a judge, he lost that job twice, by violating his oath of office.
 
-{{< socialpreview url="https://http://www.al.com/news/mobile/index.ssf/2017/12/handmaids_protest_roy_moore_ou.html" >}}
+{{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2017/12/handmaids_protest_roy_moore_ou.html" >}}
 
 Ginger Broadway Poynter, Michele Walker Harmon, Kim Mc Cuiston and as many as 70 other people, women and men, including my daughter, made me proud. They showed people they do not have to be scared of politicians nor accept their word as Gospel.
 

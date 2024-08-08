@@ -30,26 +30,25 @@ Burrell flipped his vote in the end, due to public outrage.
 
 Brown has doubled down, invoking God and abortion, not germane to the virus or “shelter in place”.
 
-<div class="link-preview">
-
-## Robert Brown For Our Hometown
-
-#### Curfew for Fairhope
-
-The council has a teleconference meeting this afternoon to discuss the option of issuing a curfew for the City of Fairhope. I personally am not in favor of these measures for multiple reasons. I was also against the shelter in place order. While this pandemic, epidemic or whatever you want to call has led us where I never imagined, I am against any further restrictions on personal freedoms. I am voting against it.
-
-The news I have been hearing is that we are beginning to turn in favor of “flattening the curve”. Even New York’s cases in the last 2 days have declined. According to one news source. Instead of the federal government issuing more stimulus money, why don’t they lift the closure of businesses to allow them to open up with the safe practices that were in place a month ago. Every entrepreneur’s business is essential to him/her and their families and employees. Open seating, half capacity whatever. Some will continue to stay home, some will go out. They will naturally gain momentum to get their business back on track as we continue to recover.
-
-Were some of the measures we have taken as a city, state or country necessary? Depends on who you ask. Were lives lost, yes. And while as tragic as those deaths from this virus will be, over 850,000 were willingly aborted in 2017. The Corona is no where and never will be near those numbers.
-
-God bless during this Holy Week. There is one that died for all of us!
-
-Stay safe and keep your distance
+>## Robert Brown For Our Hometown
+>
+>#### Curfew for Fairhope
+>
+>The council has a teleconference meeting this afternoon to discuss the option of issuing a curfew for the City of Fairhope. I personally am not in favor of these measures for multiple reasons. I was also against the shelter in place order. While this pandemic, epidemic or whatever you want to call has led us where I never imagined, I am against any further restrictions on personal freedoms. I am voting against it.
+>
+>The news I have been hearing is that we are beginning to turn in favor of “flattening the curve”. Even New York’s cases in the last 2 days have declined. According to one news source. Instead of the federal government issuing more stimulus money, why don’t they lift the closure of businesses to allow them to open up with the safe practices that were in place a month ago. Every entrepreneur’s business is essential to him/her and their families and employees. Open seating, half capacity whatever. Some will continue to stay home, some will go out. They will naturally gain momentum to get their business back on track as we continue to recover.
+>
+>Were some of the measures we have taken as a city, state or country necessary? Depends on who you ask. Were lives lost, yes. And while as tragic as those deaths from this virus will be, over 850,000 were willingly aborted in 2017. The Corona is no where and never will be near those numbers.
+>
+>God bless during this Holy Week. There is one that died for all of us!
+>
+>Stay safe and keep your distance
 
 So while the WORLD is suffering and many lives are lost every day the Jester is more concerned about money and defying science and common sense.
 
 Brown is the April Fool.
-</div>
+
+
 
 {{< socialpreview url="https://rippreport.com/p/april-fool/" >}}
 

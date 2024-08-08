@@ -33,26 +33,26 @@ From the desk of Mayor Karin Wilson, she explains how a comprehensive Land use P
 >
 We will forecast population growth, project demand on utilities and transportation coupled with urban design that includes form-based codes in key areas to fulfill the development vision of Fairhope for the next 20 years.
 >
-Watershed modelling and analysis of environmentally sensitive areas will be factored in to ensure that areas targeted for growth are suitable. Land use development will coordinate with infrastructure demands to ensure that utilities and transportation are carefully planned so the City’s investment in these assets are prudent and wise. The outcome will provide the City of Fairhope a full and comprehensive blue print for growth and our future.
+>Watershed modelling and analysis of environmentally sensitive areas will be factored in to ensure that areas targeted for growth are suitable. Land use development will coordinate with infrastructure demands to ensure that utilities and transportation are carefully planned so the City’s investment in these assets are prudent and wise. The outcome will provide the City of Fairhope a full and comprehensive blue print for growth and our future.
 >
 >
-That sounds like a lot – it is. And it is important.
+>That sounds like a lot – it is. And it is important.
 >
-The current comprehensive plan lacks such vision, clear goals and objectives. There was no guidance for where we should be in 20 years and how we should get there. Now we will have a guide to the overall character, physical form, growth and development of our community.
+>The current comprehensive plan lacks such vision, clear goals and objectives. There was no guidance for where we should be in 20 years and how we should get there. Now we will have a guide to the overall character, physical form, growth and development of our community.
 >
-Population projections will provide us the ability to coordinate land use and growth. Our village concept is good, but it is undefined with no consideration for utilities, transportation needs, physical constraints, etc. Areas outside of the village centers get little to no attention or land-use guidance. The land use plan will first analyze the physical constraints of properties (flood zones, environmental sensitivity, utility availability, transportation constraints and compatibility with existing neighborhoods) along with the community’s vision for growth. Then this will be coordinated with a long-range utility and public services plan. The goal is to ensure that as growth occurs the appropriate level of infrastructure will be available.
+>Population projections will provide us the ability to coordinate land use and growth. Our village concept is good, but it is undefined with no consideration for utilities, transportation needs, physical constraints, etc. Areas outside of the village centers get little to no attention or land-use guidance. The land use plan will first analyze the physical constraints of properties (flood zones, environmental sensitivity, utility availability, transportation constraints and compatibility with existing neighborhoods) along with the community’s vision for growth. Then this will be coordinated with a long-range utility and public services plan. The goal is to ensure that as growth occurs the appropriate level of infrastructure will be available.
 >
-To avoid confusion and misunderstanding or misinterpretations, it is critical that the public and elected officials understand and know how the plan will be implemented. There is no such direction with our current comprehensive plan. Plan monitoring and updating is critical to keeping a 20-year plan up-to-date and relevant, and that will be achieved by producing a report every two years on how well we are following the plan. This is a strategic step in ensuring that the plan is constantly being updated. An amendment process to the plan will be put in place so that formal amendments can be discussed to address changing conditions.
+>To avoid confusion and misunderstanding or misinterpretations, it is critical that the public and elected officials understand and know how the plan will be implemented. There is no such direction with our current comprehensive plan. Plan monitoring and updating is critical to keeping a 20-year plan up-to-date and relevant, and that will be achieved by producing a report every two years on how well we are following the plan. This is a strategic step in ensuring that the plan is constantly being updated. An amendment process to the plan will be put in place so that formal amendments can be discussed to address changing conditions.
 >
-In a nutshell, this plan will be comprehensive in nature, public-vision driven, integrated with public utilities and services, will consider environmental sensitivities, will be data driven, and kept up to date to provide a blueprint for the future.
+>In a nutshell, this plan will be comprehensive in nature, public-vision driven, integrated with public utilities and services, will consider environmental sensitivities, will be data driven, and kept up to date to provide a blueprint for the future.
 >
-Fairhope was founded on a utopian vision in 1894. A vision of a society that simultaneously encourages individual initiative and promotes cooperative ventures and attitudes.
+>Fairhope was founded on a utopian vision in 1894. A vision of a society that simultaneously encourages individual initiative and promotes cooperative ventures and attitudes.
 >
-Fairhope was founded on a vision.
+>Fairhope was founded on a vision.
 >
-We are on target for reclaiming it.
+>We are on target for reclaiming it.
 >
-Mayor Karin Wilson
+>Mayor Karin Wilson
 
 {{< socialpreview url="https://web.archive.org/web/20180827213355/http://www.mayorkarinwilson.com/vision-planning-650000-fairhope-area-community-based-comprehensive-land-use-plan/" >}}
 
