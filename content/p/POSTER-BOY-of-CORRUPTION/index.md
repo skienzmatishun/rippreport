@@ -19,6 +19,6 @@ The Alabama Bar decided that the Ethics Director, who is an attorney, could stea
 
 Mr. Albritton is the classic case of a sociopath. He argues for no changes in the Alabama Ethics Commission while he is biggest offender. The details of Mr Albrittons abuse of the trust is shameful and it is obvious, by the evidence available, that he, and his friends, personally benefited from his UNETHICAL handling of the trust. He should be fired immediately face criminal charges, disbarred and exposed for the FAKE he is.
 
-[Supreme Court Stops Special Master in Mable Amos Case - Lagniappe](https://www.lagniappemobile.com/news/supreme-court-stops-special-master-in-mabel-amos-case/article_3513b1ae-9ec8-11ee-b6b1-6bd4ab21716c.html)
+{{< socialpreview url="https://www.lagniappemobile.com/news/supreme-court-stops-special-master-in-mabel-amos-case/article_3513b1ae-9ec8-11ee-b6b1-6bd4ab21716c.html" >}}
 
 {{< chat agagag >}}

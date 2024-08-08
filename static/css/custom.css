@@ -567,13 +567,13 @@ p.widget__summary {
 
     .social-preview:nth-child(even) {
         float: none;
-        margin-right: 0rem;
+        margin:auto;
     }
 
     /* Float right for odd elements */
     .social-preview:nth-child(odd) {
         float: none;
-        margin-left: 0rem;
+        margin:auto;
     }
 
     .post__content,
