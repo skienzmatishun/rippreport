@@ -18,7 +18,7 @@ Please read the first article, by Rob Holbert, Editor of Lagniappe, who broke th
 
 Please share this information
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159324763307317&amp;show_text=true&amp;width=500" width="500" height="532" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 I can think of many question of the Ethics Commission and Regions Bank, but here are a few:
 
@@ -53,12 +53,12 @@ The below articles have followed the original story, however the major Alabama n
 
 {{< socialpreview url="https://rippreport.com/p/letter-to-the-alabama-attorney-general/" >}}
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159368277107317&amp;show_text=true&amp;width=500" width="500" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/railroaded-family-learns-amos-oil-strike-produced-millions/article_6d09cba5-46d9-5870-821b-3be06924e9dd.html" >}}
 
 {{< socialpreview url="https://rippreport.com/p/striking-oil/" >}}
 
 {{< socialpreview url="https://rippreport.com/p/license-to-steal/" >}}
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159384608002317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/a-question-of-ethics/article_cf23a83f-e7d4-5a3f-9c71-cfbcb842a7ff.html" >}}
 
 Please contact the media in your area and ask why they are not covering the obvious corruption and ethic’s violations, involving Regions Bank and Director of Ethics Tom Albritton.

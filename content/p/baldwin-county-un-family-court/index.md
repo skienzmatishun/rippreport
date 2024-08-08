@@ -16,7 +16,7 @@ In the coming weeks we will be covering the BCFC, publishing former articles and
 
 Please stay tuned and contact us if you wish to be on the Anonymous List.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F2131253230236800&amp;show_text=true&amp;width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/catalyst-queen-remember-family-court/" >}}
 
 The Ripp Report has had well over a hundred complaints about Judge Thomason and her infamous court. Most complaints center around the good Judges poor decisions and her favoritism for certain bottom feeding attorneys. Family’s have been destroyed by the Judges child visitation schedules and her arbitrary and inconsistent decisions. Lawyers financially bankrupt their clients into submission, with the Judges blessing. A child suicide was even credited to her after her decision split up children from their mother.
 

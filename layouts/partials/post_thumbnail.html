@@ -4,7 +4,6 @@
       <div class="thumbnail__video" style="background-image: url('{{ .page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
         <div style="position: relative; padding-bottom: 56.25%; height: 0;">
           <iframe loading="lazy" class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-          {{ partial "svg/loading.svg" (dict "class" "loading") -}}
         </div>
       </div>
     </figure>
@@ -28,7 +27,6 @@
             Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
           </script>
         </div>
-        {{ partial "svg/loading.svg" (dict "class" "loading") -}}
       </div>
     </figure>
   </a>
