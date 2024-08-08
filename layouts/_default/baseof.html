@@ -52,7 +52,7 @@
 <body class="body" style="background:#1d1c1c;">
 	<div class="container container--outer" style="max-width:1400px;margin:25px auto;box-shadow: 0 0 10px rgba(50,50,50,.17);position:relative;width:100%;">
 		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-		<div class="wrapper flex" style="padding: 0;display:flex;">
+		<div class="wrapper flex" style="padding: 0;">
 			<div style="order: 1;min-width: 0;" class="primary
 			{{ if in .Params.categories "dwtd" }}dwtd__primary{{ end }}
 			{{ if in .Params.categories "backstory-podcast" }}backstory__primary{{ end }}
