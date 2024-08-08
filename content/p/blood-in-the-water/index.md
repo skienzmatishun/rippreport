@@ -22,49 +22,16 @@ On a more positive note, Big Luther and Tripp Pittman are history. There is a Go
 
 Only Alabama would vote for someone who rode a horse to the polls, banished a firearm in a political rally and twice put his hand on the Bible swearing he would uphold the laws of the state and country, without prejudice, and then violated that oath once in office.
 
-<div class="link-preview">
+{{< socialpreview url="https://web.archive.org/web/20170927184120/www.washingtonexaminer.com/roy-moore-pulls-his-gun-out-in-front-of-the-crowd-at-campaign-rally/article/2635602" >}}
 
-## Roy Moore pulls his gun out in front of the crowd at campaign rally
-
-### Roy Moore pulls his gun out in front of the crowd at campaign rally
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/1060x600-165a36d219235e17f7ff249f03b540b1.jpg)
-
-Moore and Strange's run-off election is Tuesday. The successful candidate will continue to the general election to determine who will serve...
-
-Source: [www.washingtonexaminer.com/roy-moore-pulls-his-gun-out-in-front-of-the-crowd-at-campaign-rally/article/2635602](www.washingtonexaminer.com/roy-moore-pulls-his-gun-out-in-front-of-the-crowd-at-campaign-rally/article/2635602)
-
-</div>
 BLOOD IN THE WATER
 
 Hold on to your hats we are going to see a record voter turnout for the Moore/Jones runoff in Dec 2017 for a Senate election. There is blood in the water and the democrats in Alabama are waking up from a long nap and they have a candidate, Doug Jones.
 
-<div class="link-preview">
+{{< socialpreview url="https://web.archive.org/web/20171103160153/https://dougjonesforsenate.com/priorities/" >}}
 
-## Priorities - Doug Jones for U.S. Senate
-
-### Priorities - Doug Jones for U.S. Senate
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/logodj-1024x266.png)
-
-The most productive, innovative people I know are entrepreneurs who have had the courage to turn an idea in to a business that makes their community...
-
-Source: [dougjonesforsenate.com/priorities/](https://dougjonesforsenate.com/priorities/)
-
-</div>
 The Republicans in Washington are freaking out as well as President Trump. Moore is right of the Tea Party and splits an already fractured party further. Moore also has alarmed the Republican establishment with his views on many issues as well as his reluctance to recant obvious false claims.
 
-<div class="link-preview">
+<iframe loading='lazy' width='560' height='315' src='https://www.msnbc.com/msnbc/embedded-video/mmvo42520133936' scrolling='no' frameborder='0' allowfullscreen></iframe>
 
-## A small taste of Roy Moore's radical comments
-
-### A small taste of Roy Moore's radical comments
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/2017-09-27T11-05-40-666Z--1280x720.video_1067x600.jpg)
-
-Who is Roy Moore, the man who won the special GOP runoff election in Alabama on Tuesday night and what are some of his positions? The panel takes a quick look.
-
-Source: [www.msnbc.com/morning-joe/watch/a-small-taste-of-roy-moore-s-radical-comments-1055997507513](http://www.msnbc.com/morning-joe/watch/a-small-taste-of-roy-moore-s-radical-comments-1055997507513)
-
-</div>
 Then add in the Alabama Republican Party members who have had enough of promises for decades from goat hill and the Swamp. The Republican tolerance for political corruption has held Alabama hostage to any progress. They see reality, Judge Moore may have strong convictions however his beliefs, and statements, are not in step with Washington, or the country, and will be a deficit not an asset. This will only hold Alabama back further! What will the voters decide?

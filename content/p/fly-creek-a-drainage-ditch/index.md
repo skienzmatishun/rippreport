@@ -16,7 +16,7 @@ The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I sp
 
 This was back in 2016 nothing has changed except the jury did not agree. The burden of proof is on the plaintiff and they are seeking to overturn legislative action by the city, such as planning and zoning and city council actions. This is very hard to do because most people would think the safeguards such as city council and planning and zoning would prevent such an issue.
 
-lagniappemobile.com/fly-creek-group-files-apartment-development-complaint/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fly-creek-group-files-apartment-development-complaint/article_92c8e7f2-5d66-5384-81d4-17f4c608d20f.html" >}}
 
 Not in Fairhope, the city council and planning and zoning rejected the public’s concerns in favor of the developer. The mayor lost his job and the new city council exacerbated the problem by playing politics and not listening to their constituents.
 

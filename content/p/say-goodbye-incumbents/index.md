@@ -19,7 +19,7 @@ authors:
 
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.
 
-{{< socialpreview url="https://rippreport.com/economic-development-baldwin-county-style/" >}}
+{{< socialpreview url="https://rippreport.com/p/economic-development-baldwin-county-style/" >}}
 
 Four seats and already over 10 candidates have signed up. Now all we need to do is figure out who are faux candidates or who is carrying water for Catalyst.
 
@@ -27,7 +27,7 @@ Four seats and already over 10 candidates have signed up. Now all we need to do 
 
 Seat 2 is Chris Elliott who is going to run for Sen Trip Pittman’s seat. I will be first to admit that even Elliott is not as bad as Pittman. However after his DUI he said he would man up instead he got a lawyer and played the privileged card. So Elliott is out and we will have to vote him out in the Senate race.
 
-{{< socialpreview url="https://www.wkrg.com/news/baldwin-county-commissioner-charged-with-dui-in-fairhope/" >}}
+<iframe id="nxs-video-iframe" data-frame-src="962363" width="640" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" src="https://redir1.wkrg.com/nxs-video-player/eyJ2aWRlb19pZCI6Ijk2MjM2MyIsInBvc3RfaWQiOjE0ODc4MCwiYWR0YWdfdXJsIjoiYXR1X3AxP3N6PTF4MTAwMCZpdT1cLzU2NzhcL21nLndrcmdcL25ld3MmaW1wbD1zJmdkZnBfcmVxPTEmZW52PXZwJm91dHB1dD12bWFwJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmYWRfcnVsZT0xJmRlc2NyaXB0aW9uX3VybD1hdHVfcDImdmNvbnA9MiZjdXN0X3BhcmFtcz12aWQ9OTYyMzYzJnN0YXRpb249V0tSRyZjbXNpZD0xNDg3ODAmcGlkPTE0ODc4MCZwZXJzX2NpZD1ueHMtNDktYXJ0aWNsZS0xNDg3ODAmdmlkY2F0PVwvbmV3cyZib2JfY2s9W2JvYl9ja192YWxdJmRfY29kZT0xJnBhZ2V0eXBlPXN0b3J5JmhsbWV0YT1iYWxkd2luIGNvdW50eSBjb21taXNzaW9uZXIgY2hhcmdlZCB3aXRoIGR1aSBpbiBmYWlyaG9wZSZhYT1mIiwicG9zdF90eXBlIjoicG9zdCIsImluamVjdGVkX3ZpYSI6ImFtcCIsImFkX3Byb3ZpZGVyIjoiZ2FtIiwiaW5fd3BfZWRpdG9yIjpmYWxzZX0=" scrolling="no" frameborder="0" allowfullscreen>		</iframe>
 
 John Lake from Daphne is running for that seat. John has a long history of being a public servant and has never used his position to his advantage, he is an excellent replacement.
 
@@ -51,7 +51,7 @@ Last is seat 4 Charles Gruber. Mr Gruber is the quite one that usually stands on
 
 Christopher Callaghan is his challenger,
 
-{{< socialpreview url="https://www.facebook.com/callaghanforcommission/" >}}
+https://www.facebook.com/callaghanforcommission/
 
 He will kick off his campaign Nov. 16th in Fairhope.
 

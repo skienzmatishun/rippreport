@@ -26,7 +26,7 @@ This is the council overriding the Mayor and then rewarding those who got fired.
 
 Fairhope has a history of lawsuits that has cost the taxpayers millions. Good ole Jack help settle the triangle lawsuit behind everyone’s back. He used the change of agenda trick to be sure none of the public was aware of what was going on, until it was to late.
 
-{{< socialpreview url="https://rippreport.com/p/freaky-friday-fraud/" >}}
+{{< socialpreview url="https://rippreport.com/p/fraud/" >}}
 
 Fairhope City Council now is looking at a light at the end of a tunnel. Due to their obstruction of the Mayor and recent decisions of the council, lawsuits are the light. Potentially four suits are being considered, again I stress this is due to council actions. A fifth lawsuit is pending related to Fly Creek Apartments. Three involve planning and zoning, however unlike in the past, planning and zoning made the right decision and council overrode their decision. The first lawsuit may be announced as early as next week.
 

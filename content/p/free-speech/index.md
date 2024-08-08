@@ -16,61 +16,25 @@ FREE SPEECH
 
 What does it mean to you? Well on the same day the trade towers fell in New York, Sept 11th 2001, the Fairhope City Council will decide who is allowed to speak and who is silenced. Monday Sept 11th 6:00 pm City Council Chambers. Be Heard or be Silenced.
 
-<div class="link-preview">
-
-## HORRIBLE HURRICANE HARVEY
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/harvey-goes-82517_01.jpg)
-
-Get down on your knees and pray for the folks in Texas and Louisiana. Thousands of people lost everything and many more thousands will be affected by the devastating effects of flood water. Please…
-
-Source: [rippreport.com/2017/09/01/horrible-hurricane-harvey/](https://rippreport.com/horrible-hurricane-harvey/)
+{{< socialpreview url="https://rippreport.com/p/horrible-hurricane-harvey/" >}}
 
 The City Council has obstructed the Mayor from doing her job, at our expense. The Council also betrayed the entire city with election promises of stopping the development on Fly Creek, they paved the way for the developer.
 
-## Fly Creek Apartments Approved
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2017/09/fly-creek-apartments-approved.html" >}}
 
-### Fly Creek Apartments Approved
 
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/fullsizeoutput_bd.jpeg)
-
-Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel.
-
-Source: [thefairhopetimes.blogspot.com/2017/09/fly-creek-apartments-approved.html](http://thefairhopetimes.blogspot.com/2017/09/fly-creek-apartments-approved.html)
-
-</div>
 It’s not over till the fat lady sings, Fly Creek Apartments may see yet another legal challenge by citizens concerned over the future health of the creek, the bay ,our quality of life and property values.
 
 This Lagniappe article is a fair assessment of current events in Fairhope and should wake some people up or at least educated them on what is going on:
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/eastern-shore-tug-of-war/article_4968b96d-f68e-5463-9c7b-74c84d843b81.html" >}}
 
-## Eastern Shore tug-of-war - Lagniappe Mobile
 
-### Eastern Shore tug-of-war - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/Cover_090717WEB.jpg)
-
-Temperatures are reaching a boiling point in Fairhope, where Mayor Karin Wilson remains at odds with the city attorney and a majority of the City Council after three former employees and now an outspoken citizen have filed notices of claim against the city — precursors to potential lawsuits. Meanwhile, text messages between Wilson and an …
-
-Source: [lagniappemobile.com/eastern-shore-tug-war/](http://lagniappemobile.com/eastern-shore-tug-war/)
-
-</div>
 A very unfair depiction is the letter to the editor of the Courier. Chuckee, the editor of the tabloid coupon paper, has been on a tear to print anything and everything negative about the Mayor Of Fairhope. His “inside” sources in Fairhope, it is a secret but it’s Jack Burrell, provide him the fodder. Journalism is vacant, misquotes, no quotes, fabrication, anonymous sources and speculation riddle most articles. Chuckee often leaves out certain details and clarifications that may coincide with his agenda to discredit the Mayor.
 
-<div class="link-preview">
+{{< socialpreview url="https://gulfcoastnewstoday.com/stories/letter-to-the-editor-fairhope-mayor-karin-wilson-should-resign-from-office,52965" >}}
 
-## LETTER TO THE EDITOR: Fairhope Mayor Karin Wilson should resign from office
 
-### LETTER TO THE EDITOR: Fairhope Mayor Karin Wilson should resign from office
-
-![](http://gulfcoast.ostsubmedia.communityq.com/uploads/original/1470163322_577e.jpg)
-
-As a retired Federal law enforcement executive with more than 27 years experience in investigating white collar crime and government malfeasance, I would say that the disclosures contained in the …
-
-Source: [gulfcoastnewstoday.com/stories/letter-to-the-editor-fairhope-mayor-karin-wilson-should-resign-from-office,52965](http://gulfcoastnewstoday.com/stories/letter-to-the-editor-fairhope-mayor-karin-wilson-should-resign-from-office,52965)
-
-</div>
 WHO THE HELL IS MIKE TURNER?
 
 CHUCKEE did not clarify that Mr Turner is married to Pam Caudill a long standing board member of Fairhope Airport Authority, FAA, and dear friend of Jack Burrell another board member. He also failed to mention Pam is friends of Ray Hix another board member who shares ethics charges with Jack. Jack Burrell blocked the Mayors choice for the Airport Authority board member that would have replaced Pam Caudall.
@@ -85,19 +49,8 @@ Mike use those investigative powers and answer these questions and while your at
 
 I AM CHUCKEE AND NOT LUCKEE
 
-<div class="link-preview">
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/adventures-in-post-breakup-dating,52029" >}}
 
-## Adventures in post-breakup dating
-
-### Adventures in post-breakup dating
-
-![](http://gulfcoast.ostsubmedia.communityq.com/uploads/original/1470424799_8a52.jpg)
-
-I submit to you, dear readers, that breakups are not actually the worst thing in the world. Having been through one rather recently, I can agree that it has been painful and depressing. It …
-
-Source: [www.gulfcoastnewstoday.com/stories/adventures-in-post-breakup-dating,52029](www.gulfcoastnewstoday.com/stories/adventures-in-post-breakup-dating,52029)
-
-</div>
 Thanks Mike for giving me the opportunity to again publish the timeline of events that surround the dirty dealings at the Airport that have cost Fairhope Millions. The council knows this to be true but does not want anyone in, public participation, to state the facts for the record.
 
 # Timeline Fairhope Airport Authority
@@ -114,13 +67,11 @@ Also the signature pages of the two leases are different, as the Dec. 17th, exec
 
 Letter of engagement, from Dennis R. Bailey ESQ, of Rushton, Stankley, Johnston and Garrett dated February 2, 2017, submitted to Mr. Joe McEnereney \[Fairhope Airport Authority Chairman\], regarding representation related to “Potential Claims against Francis Rip \[sp\] by Fairhope Airport authority”. Being as the same Dennis R. Bailey ESQ submitted Exhibit C, Dec. 21st lease to the Ethics Commission, a lease that is absolutely not one in the same, that which was already executed on Dec. 17th and recorded as a memorandum of Lease on 12/28/15. [http://www.deltacomputersystems.com/TEMP/PDFWEB/AL05/AL05/O3022/O3022016.PDF](http://www.deltacomputersystems.com/TEMP/PDFWEB/AL05/AL05/O3022/O3022016.PDF)
 
- 
-
 How can the Fairhope Authority engage Mr. Bailey, as he truly has a major conflict of interest and lacks credibility. Mr. McEnereney said the purpose of hiring Mr. Bailey was “to head off any Ethics complaints involving Fairhope Airport Authority or it’s members”.
 
 The Ethics Commission was contacted by a Fairhope resident who inquired about the lease’s in question. The Resident had every expectation of confidentiality, however later learned their information was shared by the Ethics Commission and Mr Dennis Bailey ESQ. The same Mr. Bailey hired by the Fairhope Airport Authority to quash any investigation involving his client or clients.
 
-Feb. 3 2016 Ethics Advisory Opinion: [http://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf](http://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf) “A copy of any contract/lease agreement entered into between the Board member and the Airport authority must be filed with the Alabama Ethics Commission within 10 days of it’s having been entered into.” Entered into would be signed and notarized which happened Dec 17th 2016. [https://rippreport.com/whos-on-first/](https://rippreport.com/2017/03/17/whos-on-first/)
+Feb. 3 2016 Ethics Advisory Opinion: [http://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf](http://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf) “A copy of any contract/lease agreement entered into between the Board member and the Airport authority must be filed with the Alabama Ethics Commission within 10 days of it’s having been entered into.” Entered into would be signed and notarized which happened Dec 17th 2016. [https://rippreport.com/p/whos-on-first/](https://rippreport.com/p/whos-on-first/)
 
 Feb. 8th 2016 EXHIBIT C was submitted to the Ethics Commission, that lease is dated Dec.21st and is different than the recorded lease Dec.17th
 

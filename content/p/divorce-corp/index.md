@@ -18,13 +18,7 @@ For months the Ripp Report has been following issues in Fairhope and has not cov
 
 Wonderful Wednesday will begin to focus in on our judicial system in particularly the family court system in Baldwin County. Judge Michelle Thomason, District Court Place 1, continues to roll in complaint after complaint while the other judges kick the can down the road and ignore citizens complaints. Her court is responsible for many children being jerked around by the legal system. Her court has developed a cottage industry in Baldwin County out of divorce, at the expense of children.
 
-## BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/family.jpg)
-
-For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree. They were so plentiful and consistent…
-
-Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
+{{< socialpreview url="https://rippreport.com/p/baldwin-county-family-court-a-cottage-industry/" >}}
 
 The attorney who gets complained about the most hands down is Stephen “bottom feeder” Johnson. Avoid Judge Thomason, a good friend of Jack Burrell, and Steven Johnson at all costs.
 

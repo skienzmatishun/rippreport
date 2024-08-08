@@ -13,45 +13,19 @@ authors:
 
 Just when you thought there was no hope for the Baldwin County Family Court, Judge Thomason announces she is running for Court of Appeals position vacated by Craig Pittman who is retiring. Of course another court will inherit her incompetence but at least she won’t be making decisions about the welfare of children. It should be expected if she looses the election Nov. 2018, she probably will re run for her present position again. Judge Thomason will use the republican party to retaliate against any opponent or have them eliminated all together from running, she has a track record of dirty politics, and is loved by the good ole boys.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.wkrg.com/news/baldwin-county-judge-running-for-al-court-of-civil-appeals/" >}}
 
-## Baldwin County Judge Running for AL Court of Civil Appeals
-
-### Baldwin County Judge Running for AL Court of Civil Appeals
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/judge-michelle-thomason.png)
-
-BALDWIN COUNTY, Alabama (WKRG) – Judge Michelle Thomason announced Monday that she’s running for the Alabama Court of Civil Appeals. Thomason is currently the Presiding District Judge i…
-
-Source: [wkrg.com/2017/09/18/baldwin-county-judge-running-for-al-court-of-civil-appeals/](http://wkrg.com/baldwin-county-judge-running-for-al-court-of-civil-appeals/)
-
-</div>
 We will now have two opportunities to vote out Judge Thomason and eliminate her from the court system all together.
 
 Judge Thomason is a charter member of the Board of Baldwin Substance Abuse Services.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.baldwinsubstanceabuseservices.org/" >}}
 
-## Baldwin Substance Abuse Services
-
-### Baldwin Substance Abuse Services
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/09/76d6df_b9810e48251c83c841fc7b5dee4bfe6b.wix_doc_ico)
-
-Baldwin Substance Abuse Services is certified by the Administrative Office of Courts to provide Baldwin County, Alabama with the proper Court Referral Education Programs as ordered by the courts.
-
-Source: [www.baldwinsubstanceabuseservices.org/](http://www.baldwinsubstanceabuseservices.org/)
-
-</div>
 This is a non profit that collects fees that are charged against persons who are instructed by the court to attend for alcohol or drug related convictions. Sounds great but no body knows where the money goes? No audits or transparency exists despite a significant amount of money collected. The organization is a cash machine supported by citizens who get caught up in DUI’s and minor drug cases, the question is where does the cash go?
 
 Judge Thomason is infamous for her courtroom antics and gets credit for turning a divorce procedure and child custody cases, into a cottage industry, that supplies bottom feeding attorneys with cases that often take years to resolve. The one common denominator is that the children suffer the most and the parents spend thousands on attorneys, and not their kids.
 
-## BALDWIN COUNTY FAMILY COURT – A COTTAGE INDUSTRY![](https://cdn.rippreport.com/wp-content/uploads/2017/09/family1.jpg)
-
-For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree. They were so plentiful and consistent…
-
-Source: [rippreport.com/2016/10/28/baldwin-county-family-court-a-cottage-industry/](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)
+{{< socialpreview url="https://rippreport.com/p/baldwin-county-family-court-a-cottage-industry/" >}}
 
 This is a sample post that explains some of the problems in Judge Thomason’s court,
 
