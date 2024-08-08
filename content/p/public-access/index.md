@@ -34,17 +34,6 @@ Petitions work, remember the Tatumville, Big Head Gully Petition? It garnered ov
 
 PLEASE TAKE JUST A MINUTE OR TWO AND SIGN THE PETITION. LET’S SEND A CLEAR MESSAGE TO THE COUNTY COMMISSION, LEAVE ZUNDEL ROAD PUBLIC ACCESS ALONE.
 
-<div class="link-preview">
-
-## Sign the petition: Save Public Water Accesses
-### Sign the petition: Save Public Water Accesses
-
-![](https://petitions.moveon.org/images/050214_MoveOn_ButtonsXL_v3.gif)
-
-I just signed a petition to Governor Kay Ivey, The United States House of Representatives, President Donald Trump, The United States Senate, The Alabama State House, and The Alabama State Senate: The Baldwin County Commission or any private individual shall be prohibited from blocking vehicular access to any public access leading to the waters of the state of Alabama.
-
-Source: [petitions.moveon.org/sign/save-public-water-accesses](https://petitions.moveon.org/sign/save-public-water-accesses)
-
-</div>
+{{< socialpreview url="https://petitions.moveon.org/sign/save-public-water-accesses" >}}
 
 KICK DORSEY, ELLIOTT AND CATALYST TO THE CURB JUNE 5th.

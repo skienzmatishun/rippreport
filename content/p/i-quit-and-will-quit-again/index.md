@@ -21,25 +21,13 @@ The Ripp Report is a non profit consumer organization. We assist people with gen
 
 I QUIT AND WILL QUIT AGAIN
 
-<div class="link-preview">
-
-## Daphne councilman resigns after DISC rejection - Lagniappe Mobile
-
-### Daphne councilman resigns after DISC rejection - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/03/DISC-1.jpg)
-
-Daphne City Councilman Joe Davis III resigned on Monday following the City Council’s 4-3 rejection of the pre-zoning and annexation of a parcel of land connected to the proposed Daphne Innovation and Science Complex (DISC). If approved, the vote would have annexed 75 acres of land at the southwest corner of the intersection of Champions …
-
-Source: [lagniappemobile.com/daphne-councilman-resigns-disc-rejection/](http://lagniappemobile.com/daphne-councilman-resigns-disc-rejection/)
-
-</div>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/daphne-councilman-resigns-after-disc-rejection/article_d19f0da3-fa5d-53c0-a8bf-f4f3ea801325.html" >}}
 
 Candidates for Baldwin County Commission Place Two: CATALYST CANDIDATE Joe Davis, John Lake, representing the people of Daphne for 24 years as councilman, and NEVER quit, and Democrat Amber Smith.
 
 Joe Davis quit,”gave out”, his words because he could not convince the Daphne City Council to side with his views.
 
-{{< socialpreview url="http://www.fox10tv.com/story/30093890/daphne-city-councilman-resigns-im-not-about-giving-up-but-i-think-i-gave-out" >}}
+{{< socialpreview url="https://web.archive.org/web/20160125002342/http://www.fox10tv.com/story/30093890/daphne-city-councilman-resigns-im-not-about-giving-up-but-i-think-i-gave-out" >}}
 
 The irony is that he will have to quit the same City Council again, if he were to win.
 

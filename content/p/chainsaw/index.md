@@ -19,18 +19,10 @@ Sometimes you have to send a strong public message to politicians, elected offic
 
 {{< socialpreview url="https://rippreport.com/p/people-power-2/" >}}
 
-</div>
+
 Baldwin County Commissioner Chris Elliott, supported by Tucker Dorsey, both are Catalyst candidates, recently tried, again, to deny the Zundle’s Road public access to Mobile Bay. They did not count on the chainsaw or Lagniappe.
 
-<div class="link-preview">
-
-## Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
-
-### Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
-
-Last week a man walked into Baldwin County Commission Chairman Chris Elliott’s office and dumped debris from a piece of county property he had chainsawed down earlier that day. It was a rather dramatic escalation in a long battle over waterfront access in Point Clear, but Michael Hutchison said he’s tired of history repeating itself …
-
-Source: [lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/](http://lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/man-chainsaws-public-barricade-dumps-debris-in-county-office/article_02a8acb6-72ff-53c4-89ee-8f7ecad8d146.html" >}}
 
 You have to ask yourself why would an elected official running for office do such a dumb thing. There is an easy answer. Donors to their campaigns, that live on the bay, do not want to be bothered with the common folk using public access on Zundle’s Road.
 

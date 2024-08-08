@@ -19,17 +19,7 @@ authors:
 
 Judge Tim Russell is being “aged out” of the position of Probate Judge. He retires with a stellar reputation and sets the bar high for his successor. Judge of Probate for Baldwin County is a very important position which generated 40 million dollars in 2017. It is not required that the position be filled by an attorney, fact is, it would be best that is was NOT an attorney. There are five candidates, and they have been gentlemen and civil among themselves, so far.
 
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2016964721850634&autoLogAppEvents=1'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-
-<div class="link-preview">
-
-## Five candidates qualify for Baldwin County probate judge - Lagniappe Mobile
-
-### Five candidates qualify for Baldwin County probate judge - Lagniappe Mobile
-
-The 2018 election cycle features statewide campaigns for governor, the Legislature, attorney general and other positions. Locally, county commissions, sheriffs, judges and coroners will be elected. The primary election is June 5, with runoffs July 17. The general election is Nov. 6. Qualifying for the election closes at 5 p.m. on Feb. 9. Thus far, …
-
-Source: [lagniappemobile.com/five-candidates-qualify-baldwin-county-probate-judge/](http://lagniappemobile.com/five-candidates-qualify-baldwin-county-probate-judge)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/five-candidates-qualify-for-baldwin-county-probate-judge/article_c9b31955-9c45-5a3e-ba64-137e6558fdc7.html" >}}
 
 The Probate Judge is a peoples Judge who interacts with the public more often than most judicial Judges. The position has a 3.9 million dollar budget and manages approximately 60 employees, with four separate offices.
 
@@ -37,17 +27,8 @@ The position involves hiring law firms for various probate issues. Electing an a
 
 The first to step into the Probate judge race was Randy Davis.
 
-## Rep. Randy Davis ends candidacy for Baldwin County Probate Judge
+{{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/rep-randy-davis-ends-candidacy-for-baldwin-county-probate-judge,55417" >}}
 
-### Rep. Randy Davis ends candidacy for Baldwin County Probate Judge
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/05/1468594333_911b.jpg)
-
-State Rep. Randy Davis (R-Daphne) announced on Friday that he is ending his candidacy for the office of Baldwin County Probate Judge and will, instead, consider other options to continue his …
-
-Source: [www.gulfcoastnewstoday.com/stories/rep-randy-davis-ends-candidacy-for-baldwin-county-probate-judge,55417](www.gulfcoastnewstoday.com/stories/rep-randy-davis-ends-candidacy-for-baldwin-county-probate-judge,55417)
-
-</div>
 When Randy Davis went for the exit door, the good ole boys called on Catalyst and Judge Reid for a replacement, they tapped Lynn Perry.
 
 The five candidates Max Hansen, Alan Lipscomb, Matt McKenzie, Catalyst Candidate Lynn Perry and “little’ Harry D’Olive, have four weeks to go before primary elections.

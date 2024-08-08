@@ -31,31 +31,12 @@ Can you smell the Skunk? Or is that BS and Skunk.
 
 Dorsey has faced many ethics charges but what the hell the ethics commission has no nose and certainly no ethics. Sadly the Ethics Commission has become the escape route for political corruption.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/can-baldwin-commissioner-dorsey-avoid-ethics-issues/article_9d123964-8191-5442-8247-4d0bc0ff0eb9.html" >}}
 
-## Can Baldwin Commissioner Dorsey avoid ethics issues? - Lagniappe Mobile
-
-### Can Baldwin Commissioner Dorsey avoid ethics issues? - Lagniappe Mobile
-
-As he sought his first elected office in 2010, Baldwin County Commissioner Tucker Dorsey faced tough accusations from his rival that ties to the county’s biggest developers and one of its largest private sewer systems would make it hard for him to avoid conflicts of interest. Six years later those ties and questions about business …
-
-Source: [lagniappemobile.com/can-baldwin-commissioner-dorsey-avoid-ethics-issues/](http://lagniappemobile.com/can-baldwin-commissioner-dorsey-avoid-ethics-issues/)
-
-</div>
 A Skunk and a sewer system have a distinct smell and Mr Dorsey and Baldwin County Sewer are stinking up the whole county.
 
-<div class="link-preview">
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-sewer-service-serves-growth-markets/article_288e75b5-1662-5503-9c23-353ff192c488.html" >}}
 
-## Baldwin County Sewer Service serves growth markets - Lagniappe Mobile
-
-### Baldwin County Sewer Service serves growth markets - Lagniappe Mobile
-
-
-Until they stink, overflow or back up, sewers are easy to ignore. Let someone see it or smell it, though, and everyone wants their sewers fixed yesterday. In a fast-growing place like Baldwin County, money, politics and the environment can also influence public interest in sewer service. It may not be the first thing a …
-
-Source: [lagniappemobile.com/baldwin-county-sewer-service-serves-growth-markets/](http://lagniappemobile.com/baldwin-county-sewer-service-serves-growth-markets/)
-
-</div>
 Another skunk smell is coming from the Mega “dump” Site, a Dorsey bonanza for some. The entire County has been getting a nostril full of BS and Skunk since the purchase, but don’t worry Dorsey says he is protecting your “quality of life.” Trouble is he is talking about HIS quality of life and HIS new home and property, while the rest of us pony up the money for a political corrupt good ole boy deal.
 
 {{< socialpreview url="https://rippreport.com/p/cattle-gate-mega-site/" >}}

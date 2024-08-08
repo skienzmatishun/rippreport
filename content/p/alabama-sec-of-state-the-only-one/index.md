@@ -39,17 +39,7 @@ The Ripp Report had submitted complaints to the Alabama Sec, of State for the pa
 John Merrill, Sec. of State took the unprecedented move to have the 2016 Fairhope election monitored by his office. Karin Wilson, facing an Incumbent Mayor of 16 years with four times as much campaign money, won by approximately 600 votes. Many citizens of Fairhope believe this outcome was only possible due to the polling places being monitored by the Sec. Of State.
 
 John Merrill Sec. Of State for Alabama will be getting my vote I encourage you to do the same.
-<div class="link-preview">
 
-## Home | Alabama Secretary of State
+{{< socialpreview url="https://sos.alabama.gov" >}}
 
-### Home | Alabama Secretary of State
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/04/seal.png)
-
-Business Services
-
-Source: [sos.alabama.gov/](http://sos.alabama.gov)
-
-</div>
 IF YOU HAVE ANY SUSPICIONS ABOUT THE UPCOMING PRIMARIES OR ELECTION, IN BALDWIN COUNTY, PLEASE CONTACT THE SEC. OF STATE AND NOTIFY THE RIPP REPORT.
