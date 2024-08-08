@@ -45,7 +45,7 @@
         <figure class="thumbnail">
           {{- if $thumbnail }}
             <div class="thumbnail__video" >
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy">
+              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" loading="lazy" style="width: auto;max-width: 100%;height:auto;vertical-align:bottom;">
             </div>
           {{- end }}
         </figure>
