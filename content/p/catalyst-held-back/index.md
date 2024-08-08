@@ -10,17 +10,8 @@ authors:
 
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 
-<div class="link-preview">
+{{< socialpreview url="https://web.archive.org/web/20180815012555/http://www.fox10tv.com/category/298869/election-results" >}}
 
-## Election Results
-
-### Election Results
-
-![](http://WALA.images.worldnow.com/images/static/hdr/hdr_branding.jpg)
-
-Source: [www.fox10tv.com/category/298869/election-results](http://www.fox10tv.com/category/298869/election-results)
-
-</div>
 Catalyst felt the pain of the People’s Choice. The Ripp Report was following 8 Catalyst Candidates that were well funded, however they only secured one race by a significant margin. Judge Scully received 60% in the District Court Judge, Baldwin County, Place no. 2.
 
 Catalyst won County Commission District No. 1, With Jeb Ball inching out Frank Burt by only 1000 votes. Congratulations to Mr. Ball. Ball will face conflicts of interest in holding down the County Commission seat and Baldwin County Substance Abuse.
@@ -31,17 +22,8 @@ Skip Gruber, District 4 beat Jerry Johnson by 700 votes. Since Burt lost in Dist
 
 Catalyst lost the Probate Judge race which will be one of 5 races in the run off. State Senate Seat 32 will have Catalyst Elliott facing David Northcutt the People’s Choice. Elliott needs to go.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/share-share-share/" >}}
 
-## SHARE SHARE SHARE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/05/Optimized-lightning-305555_640-2.jpg)
-
-CATALYST VS THE PEOPLE
-
-Source: [rippreport.com/2018/05/31/share-share-share/](https://rippreport.com/share-share-share/)
-
-</div>
 County Commission District 3 will have Billie Joe Underwood the People’s Choice facing down the infamous Tucker Dorsey who trails by 10%.
 
 Circuit Clerk, people’s choice Jody Wise Campbell, will face Catalyst Candidate Mark Stejskal. Campbell leads by 16%.

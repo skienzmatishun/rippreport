@@ -8,7 +8,6 @@ authors:
   - ripp-report
 ---
 
-<div class="link-preview">
 
 ## PLEASE ATTEND FAIRHOPE CITY COUNCIL MEETING JUNE 11, SUPPORT THE MAYOR
 
@@ -42,17 +41,8 @@ Mr. Burrell has a horrible record as a councilman and Council President. During 
 
 In an effort to silence any critics he used his position as an elected official to deny, yours truly, their Constitutional right to free speech. That case is now in a Federal Court. Guess what! the citizens of Fairhope are now paying for Jack’s Attorney fees, just as we did for his defense of the Airport.
 
-## SEE YA IN COURT JACK
+{{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
-### SEE YA IN COURT JACK | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/01/court.jpg)
-
-PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION December 29, 2017 CONTACT: Francis P. Ripp Local Political Activist, Consumer Advocate, & Blogger Files Federal Lawsuit Against Jack…
-
-Source: [rippreport.com/2017/12/29/see-ya-in-court-jack/](https://rippreport.com/see-ya-in-court-jack/)
-
-</div>
 Only 24% voted in the mid term, 76% were asleep.
 
 If 76% remain asleep in Fairhope they will lose their quality of life, property values will go down and corruption will be the new norm.

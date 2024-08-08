@@ -45,9 +45,11 @@ As Baldwin County heads into another summer election season, it does so grapplin
 
 Chris Warner is a concerned citizen, speaker, author and publisher. A former professor and urban planning consultant, he holds a doctorate in urban planning. A previous ten-year resident of Baldwin County, he lives in Perdido Key, Florida.
 
-Visit his web page: [chriswarnerauthor.com](https://www.etsy.com/market/trump_sex_toy)
+Visit his web page: [chriswarnerauthor.com](https://chriswarnerauthor.com)
 
-[https://rippreport.com/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/) This article was published June 7 2018, This was the original article.
+[https://rippreport.com/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/)
+
+This article was published June 7 2018, This was the original article.
 
 Join Chris this Saturday June 6th at Page and Palett:
 

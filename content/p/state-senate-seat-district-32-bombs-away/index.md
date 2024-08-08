@@ -31,37 +31,18 @@ Leading the Field is David Northcutt. Mr Northcutt is definitely qualified and a
 
 ## Dr. David Northcutt for State Senate – Alabama District 32
 
-![](http://www.northcuttforsenate.com/wp-content/uploads/2018/03/northcutt-logo-elephant.jpg)
-
-Not a member? Join today
-
-Source: [www.northcuttforsenate.com/](http://www.northcuttforsenate.com/)
+Source: [Link No Longer Exists](http://www.northcuttforsenate.com/)
 
 Runner up is Jeff Boyd who has been placed a little in front of Elliott, who is third. Jeff is a councilman in Orange Beach and also realizes the importance of the Senate Seat. He saw first hand the devastation of the BP oil spill.
 
-## Meet Jeff – Jeff Boyd for Alabama Senate
-
-![](https://www.facebook.com/tr?id=1780877018881756&ev=PageView&noscript=1)
-
-Boyd has been married for twenty-four years to his wife Kay and together they have three children —Camden, Cade, and Carson.
-
-Source: [boydforalsenate.com/meet-jeff/](http://boydforalsenate.com/meet-jeff/)
+{{< socialpreview url="https://web.archive.org/web/20180807175653/http://boydforalsenate.com/" >}}
 
 Bill Roberts is new to the area, however he has had experience in government. Please take the time and research each one of these candidates yourself. It would be great if Bill beat Elliott.
 
-> [Bill Roberts for Alabama State Senate](https://www.facebook.com/billrobertsstatesenate/)
+> [Link No Longer Exists](https://www.facebook.com/billrobertsstatesenate/)
 
 The top two of the above will face off in a runoff. Then in November the winner of the runoff will face a Democrat, Jason Fisher. All over the state the Democrats and women have been stepping up and running for office. Hopefully people will stop voting party and begin to evaluate the candidates on qualifications, not just party affiliation.
 
-## Jason Fisher | State Senate | District 32 | Alabama
+{{< socialpreview url="https://web.archive.org/web/20180814112601/https://fisherforsenate.com/" >}}
 
-### Jason Fisher | State Senate | District 32 | Alabama
-
-![](https://fisherforsenate.com/wp-content/uploads/2017/06/jason-fisher-pic-Facebook-share.jpg)
-
-Jason Fisher is a longtime resident of the Gulf Coast of Alabama running to become State Senator for District 32 in Baldwin County, Alabama.
-
-Source: [fisherforsenate.com/](https://fisherforsenate.com/)
-
-</div>
 You have four candidates to choose from so why choose a Catalyst Candidate?

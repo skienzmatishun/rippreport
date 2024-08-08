@@ -14,25 +14,11 @@ authors:
 
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.
 
-<div class="link-preview">
-
-## Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
-
-### Man chainsaws public barricade, dumps debris in county office - Lagniappe Mobile
-
-Last week a man walked into Baldwin County Commission Chairman Chris Elliott’s office and dumped debris from a piece of county property he had chainsawed down earlier that day. It was a rather dramatic escalation in a long battle over waterfront access in Point Clear, but Michael Hutchison said he’s tired of history repeating itself …
-
-Source: [lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/](https://lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/man-chainsaws-public-barricade-dumps-debris-in-county-office/article_02a8acb6-72ff-53c4-89ee-8f7ecad8d146.html" >}}
 
 Instead of admitting to a mistake Elliott, supported by Dorsey, doubled down with threats against citizens and defended their actions in a County Commission Meeting.
 
-## Baldwin County Commission discusses Zundel Road barricade - Lagniappe Mobile
-
-### Baldwin County Commission discusses Zundel Road barricade - Lagniappe Mobile
-
-Lagniappe The Baldwin County Commission recently attempted to restrict vehicular access to Zundel Road, leading to a dust-up with a local resident. A conversation between Baldwin County Commissioner Tucker Dorsey and County Engineer Joe Nunnally ultimately led to the chainsawed remains of a newly county-constructed barricade being dumped in Commissioner Chris Elliott’s office last …
-
-Source: [lagniappemobile.com/baldwin-county-commission-discusses-zundel-road-barricade/](https://lagniappemobile.com/baldwin-county-commission-discusses-zundel-road-barricade/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/baldwin-county-commission-discusses-zundel-road-barricade/article_e2a89097-2294-5a81-bc6b-cdbfbe63efdb.html" >}}
 
 Dorsey texted, “Teenagers drinking, making out with their girlfriends, drug buy meets, easy dirt road to go hide down where police don’t patrol.”
 
@@ -44,30 +30,21 @@ Why would you vote for a County Commissioner or candidate for a State Senate sea
 
 Petitions work, remember the Tatumville, Big Head Gully Petition? It garnered over 2200 signatures and convinced the Single Tax corporation and the Fairhope City Council that the PUBLIC should be listened to.
 
-## BEND OVER FAIRHOPE
+{{< socialpreview url="https://rippreport.com/p/bend-over-fairhope/" >}}
 
-### BEND OVER FAIRHOPE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/gully.jpg)
-
-The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has…
-
-Source: [rippreport.com/2018/02/09/bend-over-fairhope/](https://rippreport.com/bend-over-fairhope/)
-
-</div>
 PLEASE TAKE JUST A MINUTE OR TWO AND SIGN THE PETITION. LET’S SEND A CLEAR MESSAGE TO THE COUNTY COMMISSION, LEAVE ZUNDEL ROAD PUBLIC ACCESS ALONE.
 
 <div class="link-preview">
 
 ## Sign the petition: Save Public Water Accesses
-
 ### Sign the petition: Save Public Water Accesses
 
 ![](https://petitions.moveon.org/images/050214_MoveOn_ButtonsXL_v3.gif)
 
 I just signed a petition to Governor Kay Ivey, The United States House of Representatives, President Donald Trump, The United States Senate, The Alabama State House, and The Alabama State Senate: The Baldwin County Commission or any private individual shall be prohibited from blocking vehicular access to any public access leading to the waters of the state of Alabama.
 
-Source: [petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp](https://petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp)
+Source: [petitions.moveon.org/sign/save-public-water-accesses](https://petitions.moveon.org/sign/save-public-water-accesses)
 
 </div>
+
 KICK DORSEY, ELLIOTT AND CATALYST TO THE CURB JUNE 5th.

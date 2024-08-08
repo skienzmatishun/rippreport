@@ -21,13 +21,13 @@ Elliott, is now running for the State Senate seat vacated by the absolutely wors
 
 Elliott speaks of Alabama values, “fighting for our fair share”, stopping corruption, taxes, and let’s not leave out Religion and schools. He is hitting all the bases to get elected, slick bs ads and media spots. It is suppose to makes you think Elliott is a seasoned professional. In reality you are talking about a candidate being “placed” in the position, of top dog, where he could best serve Catalyst and the mindset of Catalyst. Truth is Elliott has accomplished little in the last three years.
 
-{{< socialpreview url="https://rippreport.com/catalyst-top-dogs/" >}}
+{{< socialpreview url="https://rippreport.com/p/catalyst-top-dogs/" >}}
 
 Alabama Values, what the hell does that mean? Is it a reflection of our dubious reputation of being number one in the United States, when it comes to political corruption? No one wants to admit they are dead last however things will never change until we accept the obvious truth.
 
 Elliott’s appointment, or may I say orchestration, was convenient to say the least.
 
-https://lagniappemobile.com/shake-baldwin-commission-days-election/
+{{< socialpreview url="https://www.lagniappemobile.com/news/shake-up-on-baldwin-county-commission-days-after-election/article_3986f1ce-3670-5ccc-a138-fbef03d81be9.html" >}}
 
 “I wasn’t a commissioner yet, so he decided to chair that meeting. As we get up to speed, I’ll take a more active role,” Elliott said. “We just happened to be going over (Baldwin County Probate) Judge (Tim) Russell’s budget so he was there. When the appointment came down we took a quick break, and I was sworn in before lunch time.”
 
@@ -38,21 +38,21 @@ Alabama Values? Let’s not forget the 2015 Build Baldwin Now 8 mil property tax
 Alabama Values? “ Today, the County Commission unanimously voted to approve a license agreement to allow Baldwin County Sewer to use the right-of-way in fish river area to run a sewer line underneath Fish River,” said Baldwin County Commissioner Chris Elliott Thank God the citizens of the community stood up and stopped him. We all know a vote for Tucker Dorsey is a vote for Baldwin county Sewer.
 
 
-{{< socialpreview url="https://www.mobilebaykeeper.org/bay-blog/2017/3/20/fish-river" >}}
+{{< socialpreview url="https://web.archive.org/web/20210915105940/https://mobilebaykeeper.org/bay-blog/2017/3/20/fish-river" >}}
 
 Elliott and Dorsey would sell their souls for votes so a barricade was easy.
 
 Alabama Values?
 
-https://lagniappemobile.com/man-chainsaws-public-barricade-dumps-debris-in-county-office/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/man-chainsaws-public-barricade-dumps-debris-in-county-office/article_02a8acb6-72ff-53c4-89ee-8f7ecad8d146.html" >}}
 
 Instead of admitting any mistake Elliott and Dorsey double down and blamed the chainsaw operator.
 
-https://lagniappemobile.com/baldwin-county-commission-discusses-zundel-road-barricade/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/baldwin-county-commission-discusses-zundel-road-barricade/article_e2a89097-2294-5a81-bc6b-cdbfbe63efdb.html" >}}
 
 Alabama Values: This is the best example so far;
 
-https://lagniappemobile.com/whos-chris-elliott-trying-fool/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html" >}}
 
 “There are consequences for my decisions and I will face these consequences. I apologize for my actions and regret any embarrassment that this may cause the County that I serve, the law enforcement officers that keep us safe and my family that I love dearly.”
 

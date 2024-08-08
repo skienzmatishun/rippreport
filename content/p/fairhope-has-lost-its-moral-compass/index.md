@@ -24,7 +24,7 @@ How does Mr Burrell have any credibility? He has no moral compass, in fact his c
 
 Consider just a “few” of the incidents Mr Burrell has been involved with. The Fairhope Airport and the bid he help secure for another Board member and the Fairhope Municipal Judge. Mr Burrell was accepting free plane transportation from the same bidders, prior to awarding them the Bid.
 
-{{< socialpreview url="https://rippreport.com/you-dont-know-jack/" >}}
+{{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}
 
 Mr Burrell has led the charge for the Airport Authority to maintain ownership of the title to the Airport, instead of the city who has made all the mortgage payments.
 
