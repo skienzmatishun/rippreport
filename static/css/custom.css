@@ -144,13 +144,6 @@ nav.pager.flex {
 }
 
 .footer,
-.post__meta {
-    border: none
-}
-
-.list__meta {
-    position: relative
-}
 
 #eagle {
 max-width: none;
@@ -478,7 +471,7 @@ a.logo__link span {
     position: absolute;
     top: 15px;
     right: 15px;
-    filter: invert(1);
+    filter: invert(1) !important;
     opacity: .9
 }
 
@@ -490,10 +483,9 @@ a.logo__link span {
 }
 
 .backstory-social {
-    filter: invert(1);
     align-items: center;
     display: flex;
-    margin: 10px
+    margin: 10px;
 }
 
 .icon-files,
