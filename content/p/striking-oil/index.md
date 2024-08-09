@@ -16,29 +16,13 @@ It was their oil well.
 
 Please read the Lagniappe articles and follow this story.
 
-### [Self-dealing? — Ethics director’s kids’ tuition paid from trust he oversees](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
-
-[**Lagniappe** | Posted by Rob Holbert | Jun 29, 2021](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
-
-[![](https://lagniappemobile.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-29-at-4.09.00-PM.png)](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
-
-As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition is r...
-
-[Read Free Full Article](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 **Lagniappe subscription not required.**
 
 This is the second Lagniappe article:
 
-### [‘Railroaded’ — Family learns Amos oil strike produced millions](https://lagniappemobile.com/railroaded-family-learns-amos-oil-strike-produced-millions/)
-
-[**Lagniappe** | Posted by Rob Holbert | Jul 21, 2021](https://lagniappemobile.com/railroaded-family-learns-amos-oil-strike-produced-millions/)
-
-[![](https://lagniappemobile.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-21-at-9.49.54-AM.png)](https://lagniappemobile.com/railroaded-family-learns-amos-oil-strike-produced-millions/) Leigh Manning is livid.
-
-The grandniece of former Alabama Secretary of State Mabel Amos is incredulous that her own daughter has been denied college money from a multimillion-dollar charitable trust set up by her beloved great aunt while the children of one of the men tasked with running it had more than $100,000 of tuition paid from the fund...
-
-[Read Article](https://lagniappemobile.com/railroaded-family-learns-amos-oil-strike-produced-millions/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/railroaded-family-learns-amos-oil-strike-produced-millions/article_6d09cba5-46d9-5870-821b-3be06924e9dd.html" >}}
 
 Lagniappe subscription required.
 
@@ -46,7 +30,7 @@ Lagniappe subscription required.
 
 'This is the deal. Obviously, oil was struck in 2010. The only person I ever talked to was John Bell. I talked to John Bell from 1999 on forward all the time about getting these kids through school,' Manning said of one of the trustees who worked in Regions Bank’s trust division.“
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4779713858724044&amp;show_text=true&amp;width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/letter-to-the-alabama-attorney-general/" >}}
 
 In addition to the Lagniappe articles, The Ripp Report has filed an ethics complaint, Writ of Mandamus, filed a Bar complaint and sent the Alabama Attorney General Office a copy of said complaints. No TV news channels or and other news agency is covering the story, other than Lagniappe and the Ripp Report.
 
@@ -62,11 +46,11 @@ One thing that did happen is Leigh Manning, the grandniece of Mabel Amos, Former
 
 “Manning has hired well-known Montgomery attorney Thomas Gallion to look into the matter. Gallion, who has represented Manning’s mother before and knew her father well, also said Amos was close to his parents. He waded right in when it came to offering an assessment of the handling of the Mabel Amos Memorial Fund. “
 
-<iframe scrolling="no" src="https://whoswhopr.com/2016/11/top-attorney-thomas-t-gallion-iii/" height="1200px" width="700px" style="height:1200px;width:700px;"><div></iframe>
+{{< socialpreview url="https://whoswhopr.com/2016/11/top-attorney-thomas-t-gallion-iii/" >}}
 
  Mr Gallion is the author of:
 
-https://www.amazon.com/Shadow-Government-Southern-Style-Corruption/dp/B0892HSYL2
+{{< socialpreview url="https://www.amazon.com/Shadow-Government-Southern-Style-Corruption/dp/B0892HSYL2" >}}
 
 Read his book and you will understand, that Mr. Gallion, has a history of knowledge about Alabama political corruption.
 

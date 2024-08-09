@@ -14,8 +14,6 @@ Baldwin County citizens, especially Baldwin county employees, have waited 10 yea
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lamar Advertising concerned billboard at Baldwin County mega site won't have enough traffic. <a href="http://t.co/QyRulbaUhL">http://t.co/QyRulbaUhL</a></p>— AL.com Mobile (@ALcomMobile) <a href="https://twitter.com/ALcomMobile/status/316721259910152193?ref_src=twsrc%5Etfw">March 27, 2013</a></blockquote>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBellaPropertiesPartners%2Fposts%2F752596504874278&amp;show_text=true&amp;width=500" width="500" height="305" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Baldwin Mega Site still looking for big industry: Baldwin County's 3,009 acre Mega Site cost the county $30... <a href="http://t.co/YUrRGcrAKE">http://t.co/YUrRGcrAKE</a></p>— Pensacola Daily News (@PensacolaDaily) <a href="https://twitter.com/PensacolaDaily/status/506936949760729088?ref_src=twsrc%5Etfw">September 2, 2014</a></blockquote>
 
 In 2015, with no sign, no identity, no infrastructure, no rail, no water or power, and no constructive sales package, the county commission continued to pour good money after bad into the Mega-site, without any audit.
@@ -34,7 +32,7 @@ I have heard Mr. Lawson speak about the Fairhope Airport in the exact same terms
 
 Lawson brags about 55 to 60 inquiries, and the site being, shovel ready. This is the same lecture over and over again. If you show something for sale or lease, 55 to 60 times, and do not sell it, then something is not right or you are full of B.S. Lawson would be a lousy fisherman if he used the same bait 55 to 60 times and never caught a fish and never changed bait.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F4823379474357482&amp;show_text=true&amp;width=500" width="500" height="256" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fruitless-mega-site-receives-additional-investment/article_fe63fd6a-50d1-5a6e-b8e8-dd71c14b2979.html" >}}
 
 “Baldwin County Budget Director Ron Cink said aside from the initial purchase price, taxpayers have invested $150,000 more into the Mega Site to pay for improvements to access and visibility. Around $15 million of the debt remains outstanding, with about $8 million owed to the county’s oil and gas trust fund from the general fund, plus around $7 million in general obligation warrants.
 
@@ -62,17 +60,16 @@ The above article was featured as a, Submitted Article. That means that BCEDA ei
 
 If Commissioner Davis really believes, what he is saying, then he should push for an audit of the Mega-site.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBaldwinCountyLegalEagle%2Fposts%2F1972500523011274&amp;show_text=true&amp;width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://rippreport.com/p/cattle-gate-mega-site/" >}}
 The improvements being made to the Mega-site with the recent 12.5 million from the Growing Alabama Tax Credit Program, are improvements that should have been made at purchase of the property not 10 years later. The site never had a sign or identity until the Ripp Report and Lagniappe, made it an issue.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F1713576962004431&amp;show_text=true&amp;width=500" width="500" height="526" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/economic-development-baldwin-county-style/" >}}
 
 The bottom line is that 32 million in 2012, almost 10 years ago, would probably be a value of 50 million today, taking into consideration LOST OPPORTUNITY. Another example of county commissioners and economic development actions, was the recent penny school tax that they skimmed a cool 5 million dollars for county infrastructure projects while telling everyone what a good deal they made.
 
 What they did not tell you is the schools now have 5 million less. A deal with the devil and no one got to vote on it.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F2009630335732424&amp;show_text=true&amp;width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/dead-last/" >}}
 
 You talk about spin! This is classic, we the citizens of Baldwin County, after investing 32 million, are now being told there are no mega sites in Alabama left except the one in Baldwin County. So we are dead last, but the only choice? That is one hell of a sales pitch.
 
