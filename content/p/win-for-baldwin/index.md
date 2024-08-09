@@ -14,7 +14,7 @@ Thanks for the social media support for Matt, especially, BALDWIN COUNTY CITIZEN
 
 This was a very important political race:
 
-https://rippreport.com/last-chance/
+{{< socialpreview url="https://rippreport.com/p/last-chance/" >}}
 
 It appears the citizens of Baldwin County may be waking up. They rejected the candidate in the primary that would be receiving two payroll checks. Most important citizens have now rejected the CATALYST candidate. This is the second major race CATALYST has lost. The first was Jerry Carl beating CATALYST’s Lowtower in the Republican House Race.
 
