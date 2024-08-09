@@ -1,7 +1,4 @@
-
-body {
-    background: #1d1c1c
-}
+.pager, .backstory-sidebar, .top-social, .search-bar, .backstory__title {opacity:1;}
 
 p {
     font-size: 1rem;
@@ -92,8 +89,7 @@ nav.pager.flex {
     text-align: left;
     padding: 1rem
 }
-#loader {display:none !important;}
-#loader,
+
 .backstory__btn,
 .backstory__title,
 .btn,
@@ -124,23 +120,7 @@ nav.pager.flex {
 
 .dwtd__link,
 .dwtd__post-link {
-    background-repeat: no-repeat;
-    background-size: 50px;
-    position: absolute;
-    height: 50px;
-    content: "";
-    width: 50px;
     display:none;
-}
-
-.dwtd__link {
-    top: 30px;
-    left: 10px
-}
-
-.dwtd__post-link {
-    top: 10px;
-    right: 10px
 }
 
 .post__content.dwtd-wrapper h3 {
