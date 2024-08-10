@@ -1,7 +1,7 @@
 ---
 title: "FAIRHOPE’S  BLAST FROM THE PAST"
 date: 2018-06-27
-thumbnail: "img/fairhopes-blast-from-the-past-png"
+thumbnail: "img/fairhopes-blast-from-the-past.png"
 categories: 
   - wonderful-wednesday
 authors: 
