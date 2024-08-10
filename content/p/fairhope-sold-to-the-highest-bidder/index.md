@@ -8,7 +8,6 @@ authors:
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HgDzN6pDwgc" frameborder="0" allowfullscreen></iframe> 
 
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
 
@@ -16,7 +15,7 @@ The purchase of the soccer fields was a corrupt from day one. The end result was
 
 The council has had no public participation related to the recreation land purchase. Mr Cory Martin has pleaded for the council to listen to reason. His pleas have drawn dead silence. It is financially reckless of the council, and very suspicious, that they, the three B’s, are pushing so hard to close on the property.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid0vMWn28JtvNaUrxkmsNiue2MfpYgWNepZKcXkDfiq8n76Rhy9Qio9sq3tuxv6tiTZl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/honey-bees/" >}}
 
 Mr Martin is not alone, the council has ignored any advise from the Mayor or staff.
 
@@ -37,14 +36,13 @@ Pay particular attention to the chart below.
 
 Fairhope is being sold out to developers and those with the good ole boy connections. Follow the money. The Catalyst Council refuses to pay for a city administrator position for only one reason, to spite the Mayor, however their spite is costing us all.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid035J9nvcHY9y6tSSXeZdkr2LkST9XhxE7tuLj2f5aJGe1cJeZNraPJAZwNrQFWb68fl&show_text=true&width=500" width="500" height="541" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://rippreport.com/p/quid-quo-pro/" >}}
 
 On top of all the budget issues, Fairhope now has come to the crossroad of density. 566 apartments are coming, 300 to ? new homes, and commercial locations that will be key to draining downtown business.
 
 Fairhope has been sold out.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02NahgYKen1zJLULv5NnfQCEocswy9aS6DvRT3MfX1B3xdnCWFPEQWWXyxpHtA1MESl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+{{< socialpreview url="https://rippreport.com/p/corridor-of-chaos/" >}}
 Fairhope needs candidates, not related to Catalyst, for the 2020 municipal elections. The municipal judge and the city attorney need to be replaced. To do that you got to get rid of the absolute most corrupt city council ever to be elected to office in Fairhope.
 
 One last point, the Fly Creek apartments will soon begin to offer apartments as the project is completed. Most apartments open when finished. Fly Creek Apartments is going to rent a building as it gets completed. Why? Because they want to disguise the traffic nightmare on Parker Road, another Corridor of Chaos.

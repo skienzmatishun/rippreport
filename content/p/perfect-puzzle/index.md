@@ -16,13 +16,13 @@ To frame the puzzle Alabama needs, and has, a weak knee media, governed by a set
 
 Please read these lagniappe article’s and ask yourself WTF is going on?
 
-https://lagniappemobile.com/the-many-moving-parts-of-corruption-in-alabama/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/the-many-moving-parts-of-corruption-in-alabama/article_eb6c6147-5a2f-5e3b-beee-55b08bab8d00.html" >}}
 
 “In fact, no other publication or TV station in the state has written or broadcast a word about the millions in wasted payments to “retired” administrators we discovered, or the attempt to use RSA payments to settle a harassment suit, or even the outlandish perks heaped upon members of the UA Board of Trustees by St. John’s office — including spending $4.3 million on a party house.
 
 The rest of the state’s media also haven’t written about the director of the Alabama Ethics Commission having his children’s college tuition paid for from a charitable trust upon which he is a board member. That story sprung from our UA investigation
 
-https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 It’s kind of hard to believe isn’t it, that newspapers and TV stations across Alabama haven’t told their readers and viewers any of this? One might start to wonder if corruption in Alabama doesn’t all work hand in glove — unethical behavior at the big school is overlooked by the unethical director of the Ethics Commission and the unethical members of the state media look the other way and find something easier to beat on.”
 

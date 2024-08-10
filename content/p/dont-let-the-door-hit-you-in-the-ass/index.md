@@ -10,7 +10,7 @@ authors:
 
 The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political life, covered in BP oil, and a legacy that is as dark as the oil.
 
-https://lagniappemobile.com/state-sen-trip-pittman-says-farewell/
+{{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/state-sen-trip-pittman-says-farewell/article_82d8ed23-f0fa-5dde-9ee6-e3c20068c743.html" >}}
 
 Baldwin County should have a holiday marking the good Senator’s exit.
 
