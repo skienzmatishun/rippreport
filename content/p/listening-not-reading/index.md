@@ -1,6 +1,7 @@
 ---
 title: "LISTENING NOT READING"
 date: 2017-03-10
+thumbnail: "img/listening-not-reading.png"
 categories: 
   - freaky-friday
 tags: 

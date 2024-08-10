@@ -1,6 +1,7 @@
 ---
 title: "JOKE LLP"
 date: 2017-06-16
+thumbnail: "img/joke-llp.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -26,7 +27,7 @@ A 130 page report was written and a 40 page supplement by a group of 6 to 8 citi
 
 The purchase of the land stunk worse than the airport authority:
 
-{{< socialpreview url="thefairhopetimes.blogspot.com/2009/10/new-recreation-land-purchase-approved.html" >}}
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2009/10/new-recreation-land-purchase-approved.html" >}}
 
 Please note the document that lists the owners, JOKE LLP, the JOKE is on Fairhope,
 

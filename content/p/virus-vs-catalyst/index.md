@@ -1,6 +1,7 @@
 ---
 title: "VIRUS vs. CATALYST"
 date: 2020-03-19
+thumbnail: "img/virus-vs-catalyst.jpg"
 categories: 
   - wonderful-wednesday
 authors: 
