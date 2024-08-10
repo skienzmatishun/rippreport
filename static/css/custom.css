@@ -556,6 +556,9 @@ p.widget__summary {
     color: #fff;
     padding: 1rem
 }
+blockquote {
+    background:#c6c6c6;
+}
 
 @media screen and (min-width:1200px) {
     .thumbnail {
@@ -564,6 +567,9 @@ p.widget__summary {
 }
 
 @media screen and (max-width:620px) {
+    blockquote {
+        background:transparent;
+    }
 
     .social-preview:nth-child(even) {
         float: none;
