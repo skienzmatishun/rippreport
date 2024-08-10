@@ -1,13 +1,14 @@
 ---
 title: "DEVELOPMENT CHAOS"
 date: 2022-01-08
+thumbnail: "img/development-chaos.jpg"
 categories: 
   - saturday-special
 authors: 
   - admin
 ---
 
-Baldwin County is spinning out of control. [Development in Fairhope and Daphne are under a building moratorium](https://rippreport.com/%F0%9F%8E%89/). Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
+Baldwin County is spinning out of control. Development in Fairhope and Daphne are under a building moratorium. Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
 
 That is poor planning and a failure of the politicians.
 
@@ -23,15 +24,15 @@ Bay Minette will become a shadow of the jail, surrounded by attorney offices and
 
 D.R. Horton has built over 4000 homes in Baldwin and Mobile County. They are now facing a class action lawsuits due to inferior construction. D.R. Horton will not be the last sued for shoddy construction in such a fast paced construction environment.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmynbc15%2Fposts%2F10158351478146587&amp;show_text=true&amp;width=500" width="500" height="418" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://mynbc15.com/news/local/baldwin-county-homeowners-go-after-dr-horton-homes-in-mass-action-lawsuit" >}}
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D131706812565899%26id%3D103525868717327&amp;show_text=true&amp;width=500" width="500" height="816" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-It is estimated that Baldwin County needs approximately 6000 workers, most being in the service industry. If that is true, and the rumor that the [Baldwin County “blackhole” Megasite](https://rippreport.com/mega-lost-opportunity/), may have an electric car manufacturer interested in the site. Expect the development in north Baldwin to rival that of south Baldwin.
+It is estimated that Baldwin County needs approximately 6000 workers, most being in the service industry. If that is true, and the rumor that the [Baldwin County “blackhole” Megasite](https://rippreport.com/p/mega-lost-opportunity/), may have an electric car manufacturer interested in the site. Expect the development in north Baldwin to rival that of south Baldwin.
 
 The mega site, like the 65 million dollar jail, are dream projects of very few people, advocating for those who have a connection and benefit to the projects.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159679934072317&amp;show_text=true&amp;width=500" width="500" height="571" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/construction-begins-on-baldwin-county-jail-addition/article_7307ce3b-f060-5296-8f4e-3117147f1cea.html" >}}
 
 Ten years ago, people across the county said Hell No to any kind of zoning, screaming all the while about their property rights. This was exactly what the developers, some Baldwin County lawyers, Judges and Councilman, wanted. They did not want to pick pecans. They wanted to knock them down. The result is Baldwin County is a sprawl of municipalities and a patchwork of subdivisions, apartments and commercial property all lacking cohesive planning.
 
@@ -39,9 +40,9 @@ Today citizens are defining property rights differently. Zoning can protect your
 
 It is not Hell No! It is now Hell Yes to zoning.
 
-The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://lagniappemobile.com/rsa-sues-baldwin-county-over-point-clear-planning-district/), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/rsa-%E2%81%A0-no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
+The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://lagniappemobile.com/rsa-sues-baldwin-county-over-point-clear-planning-district/), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/p/rsa--no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159680909127317&amp;show_text=true&amp;width=500" width="500" height="615" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/rsa-sues-baldwin-county-over-point-clear-planning-district/article_54d5a28c-9a72-5fb1-8b08-c9432d4583a4.html" >}}
 
 “Three elections are scheduled in February for two new planning districts outside of Fairhope (8 and 37), plus Planning District 36 in Seminole. A petition has been received to create yet another district outside Foley — Planning District 35 — and it is currently being evaluated by probate court”
 
@@ -51,7 +52,7 @@ The Berry Steam Plant has 21 tons of toxic coal ash in a pond on 600 acres surro
 
 The Alabama Port Authority now proposes to cover up 1200 acres of the bay to store dredging spoils. The location is the best site for the Port Authority to save money. Forget about the 1200 acres of America’s Amazon and biodiversity being covered with mud and silt.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159655826507317&amp;show_text=true&amp;width=500" width="500" height="609" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/stakeholders-ask-for-more-time-to-evaluate-port-authority-s-wetlands-project/article_a695f7c4-5d11-5bac-8a59-1af89c1f8d3b.html" >}}
 
 Let’s not forget about that bridge that will span the entire bay.
 
@@ -59,7 +60,7 @@ Is it all about traffic? Or developing the Eastern Shore and Baldwin County?
 
 First, no toll. Then all the politicians decided on a coup for tolls. The cost and design has changed so many times that even the double talking flip flopping politicians don’t know.
 
-<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159644995547317&amp;show_text=true&amp;width=500" width="500" height="571" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local-mpos-send-mobile-river-bridge-bayway-framework-to-state/article_2007d739-c289-5684-a364-8ef8763ec9f1.html" >}}
 
 All of the above has an effect on the quality of life in Baldwin County.
 

@@ -14,11 +14,11 @@ I think Alabama is a beautiful state and Baldwin County shares Beaches, Mobile B
 
 The reality is the Bay is under assault from sewer spills, proposals to put dredging spoils on 1200 acres of a valuable ecosystem, Berry Steam Plant and it’s potential to flood the Bay with coal ash. Let’s not forget the toll Bridge and how the politicians now are in favor of tolls instead of our environment.
 
-[https://www.mobilebaykeeper.org/coalash](https://www.mobilebaykeeper.org/coalash)
+{{< socialpreview url="https://web.archive.org/web/20220616153020/https://mobilebaykeeper.org/coalash" >}}
 
 The elephant in the room is political corruption. A system so corrupt it uses the very agencies designed to administer accountability, transparency and ethics. The Attorney General used pac to pac funds to get elected, clearly illegal, however it is his office that is charged with holding him responsible. The Ethics Executive Director, Tom Albritton has been self serving himself, and friends, by skimming the very trust he has been entrusted to protect. Of course the Ethics Commission is not going to investigate themselves and the Attorney General is defending the Ethics Commission. The Bar Association sees nothing wrong with an attorney and Ethics Commission Director making a little money on the side.
 
-[https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 The States reputation for being corrupt has bolstered Baldwin County to becoming even more corrupt.
 
@@ -34,7 +34,7 @@ Sheriff Hoss Mack is a seasoned politician who had the previous State Senator Tr
 
 Now ask yourself how can a person qualify to run for the position of Alabama Attorney General, the top law enforcement officer in the state, but does not qualify to run for sheriff? Sheriff Mack has to maintain a monopoly on the job to protect the dismal record he has, that few are aware of. The Sheriff also investigates all major incidents involving loss of life, with his own Major Crimes Division. You will be happy to learn that there has not been a single officer ever found guilty by one of these “Investigations”, not one.
 
-https://rippreport.com/press-release/
+{{< socialpreview url="https://rippreport.com/p/press-release/" >}}
 
 State Senator Elliott is also running unopposed, the new redistricting eliminated his competition. Elliott and Mack are connected by Elliott’s wife who has a high paying job with guess who? Sheriff Mack. How damn cozy is that? Elliott is far worse than Mack and he knows he needs Mack as Mack needs him. That’s why Mack and Elliott are always on the same page. This cozy relationship is not by chance but design. Mack can, and has, jerked Elliott’s chain, when he needs him to heel.
 
