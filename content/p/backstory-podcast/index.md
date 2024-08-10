@@ -16,7 +16,6 @@ The tables have turned on the status quo in Baldwin County, they have shrunk in 
 
 {{< socialpreview url="https://rippreport.com/p/transparency/" >}}
 
-</div>
 Exposure and the Court of Public Opinion will lead to the council’s removal in 2020. Monday night Fairhope City Council will vote themselves a free health insurance coverage. Additional they will set the Mayor’s salary, ignoring an Auburn Study, that was suppose to give guidance to these issues.
 
 If you live in Fairhope please attend the City Council Meeting Sept. 9, see for yourself, what has become obvious to many, Fairhope Council is totally out of touch with their constituency.

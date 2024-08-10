@@ -26,39 +26,15 @@ Hats off to Councilman Conyers for speaking up for the citizens and encouraging 
 
 First off let’s set the record straight. The Baldwin County School Board has been wanting to sell the K1 center for over 10 years. The only buyer considered is the City of Fairhope. The point is the Council cannot beat it’s chest that they put together anything new, it was overdue. The Council had its own plan that failed.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/jack-gets-an-f-again/" >}}
 
-## JACK GETS AN F – AGAIN
-
-### JACK GETS AN F – AGAIN | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/jack-burrell-fairhope-council-president.jpg)
-
-Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options…
-
-Source: [rippreport.com/2019/02/15/jack-gets-an-f-again/](https://rippreport.com/jack-gets-an-f-again/)
-
-</div>
 The Mayor had a back up plan and now the sale is on track again. The first effort by the council to determine the use of K-1 had restricted public participation. The Jack Plan went heads first into failure.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/pop-up-target/" >}}
 
-## POP UP TARGET
-
-### POP UP TARGET | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/target-297821_640-1.png)
-
-Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
-
-Source: [rippreport.com/2018/08/31/pop-up-target/](https://rippreport.com/pop-up-target/)
-
-</div>
 The mayor is trying to maximize Community Engagement discussions for the K-1 Center, the Triangle property and the Comprehensive Land Use Plan.
 
 * * *
-
-<div class="link-preview">
 
 ## Important:
 
@@ -86,44 +62,12 @@ Councilman Conyers and Robinson favor the Community Engagement route, along with
 
 Burrell, Boone and Brown all favor a Conservation Easement and they want to rush that decision before the Comprehensive Land use Plan is finished.
 
-## CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+{{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
-### CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/3bs.png)
-
-Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
-
-Source: [rippreport.com/2018/03/07/catalyst-the-three-bs-and-chuckee-cheeze/](https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/)
-
-</div>
 WHY because Catalyst does not want anything done on the property and a Conservation Easement will accomplish that. The Citizens of Fairhope better not let that happen.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
-## RE-GIFT GIFT ??
-
-### RE-GIFT GIFT ?? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/present-150291_640.png)
-
-ATTENTION FAIRHOPE TAXPAYERS FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres Mitsy, “email to all council members and Mayor Wilson would greatly benefit the City.
-
-Source: [rippreport.com/2017/05/05/re-gift-gift/](https://rippreport.com/re-gift-gift/)
-
-</div>
 President of the Fairhope Council famously said he was tired of hearing from the citizens, citizens, citizens. The CITIZENS better be sure Burrell gets the message.
 
-<div class="link-preview">
-
-## FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-
-### FAIRHOPE “CITIZENS CITIZENS CITIZENS” | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/Alarm_Clock_3.jpg)
-
-FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
-
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
-
-</div>
+{{< socialpreview url="https://rippreport.com/fairhope-citizens-citizens-citizens/" >}}

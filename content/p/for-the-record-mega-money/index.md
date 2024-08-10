@@ -22,21 +22,10 @@ This Ripp Report is FOR THE RECORD. Read and listen because the Ripp Report inte
 
 <iframe src="https://baldwincountyal.granicus.com/MediaPlayer.php?view_id=1&amp;clip_id=316&amp;autostart=0&amp;embed=1" width="320" height="240" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<div class="link-preview">
-
 ## FOR THE RECORD:
 
 This article is full of important information about the mega site and was published prior to the meeting. The County, nor the Alliance, provided as much information to the public, as Lagniappe.
 
-## Baldwin County seeking improvements to South Alabama Mega Site - Lagniappe Mobile
+{{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-seeking-improvements-to-south-alabama-mega-site/article_08838719-e893-5f9e-8347-d66306a161d6.html" >}}
 
-### Baldwin County seeking improvements to South Alabama Mega Site - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2018/01/BB5_MegaSite.jpg)
-
-The Baldwin County Commission has advertised a special meeting July 25 to consider an agreement to transfer a portion of the South Alabama Mega Site to the Baldwin County Economic Development Alliance. Today, BCEDA President and CEO Lee Lawson said the Alliance is interested in making infrastructure improvements to 200 acres of the 3,000-acre site …
-
-Source: [lagniappemobile.com/baldwin-county-seeking-improvements-to-south-alabama-mega-site/](https://lagniappemobile.com/baldwin-county-seeking-improvements-to-south-alabama-mega-site/)
-
-</div>
 Baldwin County Economic Development Alliance is known for the smoke they generate, problem is there is little fire. How long will the County Commission be blinded by the smoke? Seven years going on 8 and the alliance always sounds like Mel Fisher, the famous treasure hunter, who said “ Today is the day”. He said that for 30 years before he found the treasure. How long do the citizens of Baldwin County wait for the smoke to clear?

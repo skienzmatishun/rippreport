@@ -65,7 +65,7 @@ Since Mr Beck appears to be ignorant about what the Ripp Report is all about we 
 
 {{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
-{{< socialpreview url="https://rippreport.com/exposure-2/" >}}
+{{< socialpreview url="https://rippreport.com/p/exposure-2/" >}}
 
 It is women like Paula DiNardi that make a difference.
 
