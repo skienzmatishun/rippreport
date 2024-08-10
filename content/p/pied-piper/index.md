@@ -33,7 +33,9 @@ His latest antics contributions are:
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-bluff-parks-not-ada-compliant,107344" >}}
 
-“Compliance got triggered in 1992,” he said. “We’re just now tackling it in 2021. We have the ability now with the federal grant funds that we to maybe take a real good look at this because now we’ve got an opportunity we didn’t have before.”
+“Compliance got triggered in 1992,” he said.
+
+>“We’re just now tackling it in 2021. We have the ability now with the federal grant funds that we to maybe take a real good look at this because now we’ve got an opportunity we didn’t have before.”
 
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2021/06/seawall-getting-temporary-repairs.html" >}}
 

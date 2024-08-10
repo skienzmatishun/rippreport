@@ -28,8 +28,6 @@ Instead of building a new sewer plant in 2013 for around 20 million Burrell led 
 
 Burrell is at his public B.S. podium,again, expressing his “concocted” concern for citizens money. He is responsible for the problem. He’s B.S. depends on the ignorance of voters and lack of information that the council provides the taxpayer.
 
-
-
 It is a joke but the joke is on Fauxhope.
 Prankster's Sign Causing Confusion
 

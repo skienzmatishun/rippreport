@@ -63,7 +63,7 @@ Then we got a copy of the "Legal Settlement".
 
 The SPIN, was park land, this was the cover for the LOSS of the lawsuit and Legal fees.
 
-{{< socialpreview url="https://rippreport.com/catalyst-colors/" >}}
+{{< socialpreview url="https://rippreport.com/p/catalyst-colors/" >}}
 
 This is political and the political machine is still driving the same plan to obstruct development of the triangle. Be it a park or conservation easement or what ever else they dream up.
 

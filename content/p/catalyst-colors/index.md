@@ -48,7 +48,7 @@ Robert Brown For Our Hometown is a perfect example of what CATALYST stands for. 
 
 We need candidates to oust the CATALYST tumor.
 
-{{< socialpreview url="https://rippreport.com/honey-bees/" >}}
+{{< socialpreview url="https://rippreport.com/p/honey-bees/" >}}
 
 So let’s get this straight 3 of the 5 Fairhope Council have used their office for personal gain. The Jester Robert Brown, Captain Jack Burrell and LLC Kevin Boone.
 

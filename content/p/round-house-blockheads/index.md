@@ -21,8 +21,7 @@ Brewer is now seeking donations from the public. Those donations should be made 
 
 The square head city council and mayor decide the best councilman to handle locating a site for the hut was Councilman Kevin Boone. Mr. Boone has been on the council dole for 20 years soaking up free full family insurance. He probably will suggest one of his ancient trailer parks, as a location. Mr Boone. His son, Scott Boone heads up the Catalyst political group in Baldwin County. Catalyst, Scott Boone, are the political strategist for the good ole boys. Mr. Boone is also a developer that has enjoyed lucrative contracts with the city.
 
-
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/vZVAslDgGF">https://t.co/vZVAslDgGF</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1730691844802019415?ref_src=twsrc%5Etfw">December 1, 2023</a></blockquote>
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-council-to-find-new-location-for-montrose-hermits-house/article_cbfa84a8-8da2-11ee-a3ee-cb743b63a746.html" >}}
 
 >Boone and Council President Corey Martin agreed the cost of relocating Stuart’s home is an issue, but Brewer said there are “some rich folks in town” who could donate money to move Stuart’s home. Mayor Sherry Sullivan added Niemeyer himself already donated $5,000 to the city to fund the relocation project.
 
@@ -36,7 +35,7 @@ First Baptist Church demolished several houses for the purpose of Grass parking 
 
 The square heads have yet to tell the citizens of Fauxhope where the 6.2 million dollar waterfront project stands, it is going on 4 years overdue.
 
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/dMjhqFqG6q">https://t.co/dMjhqFqG6q</a></p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1730729810370904102?ref_src=twsrc%5Etfw">December 1, 2023</a></blockquote> 
+{{< socialpreview url="https://www.fairhopeal.gov/Home/Components/News/News/5808/" >}}
 
 Remember Boone Burrell and Brown the 3 B’s of the council and how they bullied the city into buying recreation land by the airport? This cost the city 2.65 million and nothing has been done with the property, but rent it to farmers for 9,000 dollars a year. Wonder what the 3 B’s got???
 
