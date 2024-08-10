@@ -29,19 +29,8 @@ Women need to speak up more.
 
 One women is:
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/barstool/" >}}
 
-## BARSTOOL
-
-### BARSTOOL | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/barstool.jpg)
-
-Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story. FAIRHOPE, Ala.
-
-Source: [rippreport.com/2018/11/30/barstool/](https://rippreport.com/barstool/)
-
-</div>
 The VICTIM, Paula DiNardi, in this case had to endure several postponements of the case and over 8 hours in the Fairhope Municipal Court, only to be victimized again. Paula was the latest victim of McSharry and has had her life turned upside down since the incident.
 
 Paula has for the most part has stood alone in her attempt for justice. The City Attorney has represented her poorly and the defense attorney wants to politicize an assault case into a continued witch hunt against the Mayor.
@@ -52,15 +41,7 @@ Mr. McSharry, through another attorney attempted to “settle the issue” with 
 
 Mr Beck not only defended McSharry but he wandered into a line of questioning that politicized, and was not relevant, to the assault and public intoxication case. Mr Beck has a way of victimizing the victim and making the guilty party look innocent.
 
-<div class="link-preview">
-
-## DA continues pursuit of Spanish Fort rape case - Lagniappe Mobile
-
-### DA continues pursuit of Spanish Fort rape case - Lagniappe Mobile
-
-The Baldwin County District Attorney’s office has no plans to drop charges against 18-year-old Cameron Harrison, the Spanish Fort High School (SFHS) student accused of raping an unconscious 16-year-old female at an open house party in Timber Creek last month. Harrison’s attorney John Beck claims the defendant is falsely accused. Beck said the district attorney’s …
-
-Source: [lagniappemobile.com/da-continues-pursuit-spanish-fort-rape-case/](https://web.archive.org/web/20160101160505/https://lagniappemobile.com/da-continues-pursuit-spanish-fort-rape-case/)
+{{< socialpreview url="https://web.archive.org/web/20160101160505/https://lagniappemobile.com/da-continues-pursuit-spanish-fort-rape-case/" >}}
 
 Note: Archive of original source.
 
@@ -82,30 +63,10 @@ Get ready folks for 2020 because this is all about politics and politicians, Jud
 
 Since Mr Beck appears to be ignorant about what the Ripp Report is all about we will be sure to sign him up for the newsletter. In the meantime here are two articles that Mr. Beck may find helpful.
 
-## LOSER
+{{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
-### LOSER | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
+{{< socialpreview url="https://rippreport.com/exposure-2/" >}}
 
-![](https://cdn.rippreport.com/loser.jpg)
-
-The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption.
-
-Source: [rippreport.com/2018/10/19/loser/](https://rippreport.com/loser/)
-
-</div>
-<div class="link-preview">
-
-## EXPOSURE
-
-### EXPOSURE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/ladyjustice.jpg)
-
-The Ripp Report is a non-profit organization, politically non-partisan. The focus of The Ripp Report is political corruption and exposing the elected officials involved. In the past we specialized on…
-
-Source: [rippreport.com/2019/01/02/exposure-2/](https://rippreport.com/exposure-2/)
-
-</div>
 It is women like Paula DiNardi that make a difference.
 
 Stay tuned this is going to get real interesting.

@@ -20,7 +20,7 @@ Alabama citizens have many options to file complaints, The Governor, The Ethics 
 
 The Ripp Report has filed complaints to all the above, since the revelation of the Executive Director of the Ethics Commission, and attorney, Tom Albritton was “Self Dealing” the Mabel Amos Memorial Fund. Mr Albritton is doing the very act, which is basic corruption, “self Dealing”, enriching oneself, via the public position they hold.
 
-https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/self-dealing-ethics-director-s-kids-tuition-paid-from-trust-he-oversees/article_21349d0e-7f2e-5a35-924d-9d3d9250cfa2.html" >}}
 
 You would think that the media would be on this story like a dog in heat! However so far the Ethics Commission and the Bar Association see no problem with Mr Albritton receiving more than 120,000 dollars for his children’s education, from a trust where he is a trustee. The absurdity of their justifications of Mr. Albritton, further exposes the depth of corruption.
 
@@ -30,7 +30,7 @@ Lagniappe, Rob Holbert, broke the story surrounding the Mabel Amos Memorial Trus
 
 Between 2014 and 2017 Covington County Circuit Court Judge Ben Bowden, a former law partner of Albritton, benefited to the tune of 45,000 dollars for his kids education. Can you smell something like dead fish?
 
-https://lagniappemobile.com/mabel-amos-memorial-fund-more-scholarship-money-for-ethics-chiefs-kids/
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/mabel-amos-memorial-fund-more-scholarship-money-for-ethics-chief-s-kids/article_c4129e00-75ad-53d2-a891-cdee4e6a1106.html" >}}
 
 The Writ of Mandamus is yet another step in the effort to expose the depth of Alabama corruption. It is a test of the system.
 

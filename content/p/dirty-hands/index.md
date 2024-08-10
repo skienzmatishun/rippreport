@@ -20,34 +20,12 @@ authors:
 
 When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senator the TAX MAN, Elliott, hands are as dirty as they can get. The lottery and taxes Elliott supports does nothing for education. The “Education” Lottery has been dissolved into a lottery to pay past debts of the State, as far back as 2013. Be sure to read the comments for the article below.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/what-education-lottery/" >}}
 
-## WHAT EDUCATION LOTTERY?
-
-### WHAT EDUCATION LOTTERY? | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/money-2.jpg)
-
-Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican…
-
-Source: [rippreport.com/2019/04/26/what-education-lottery/](https://rippreport.com/what-education-lottery/)
-
-</div>
 Fairhope was proud in March of 2017 to welcome 3 highly qualified people to a new administration. The Fairhope Catalyst Council was not happy with the Mayor’s choices and set out to oppose them, obstruct them and generally not support them.
 
-<div class="link-preview">
+{{< socialpreview url="https://gulfcoastnewstoday.com/stories/new-fairhope-department-heads-talk-about-plans-for-citys-future,48043" >}}
 
-## New Fairhope department heads talk about plans for city’s future
-
-### New Fairhope department heads talk about plans for city’s future
-
-![](http://cdn2.creativecirclemedia.com/gulfcoast/original/1490824743_5ee6.jpg)
-
-Fairhope’s newest department heads have had a lot on their plates to deal with since coming on the job. Planning Director Wayne Dyess, Operations Director Richard Peterson and Economic and …
-
-Source: [gulfcoastnewstoday.com/stories/new-fairhope-department-heads-talk-about-plans-for-citys-future,48043](https://gulfcoastnewstoday.com/stories/new-fairhope-department-heads-talk-about-plans-for-citys-future,48043)
-
-</div>
 Fairhope has now lost two, of the three original staff hired. The Council did everything possible to discourage the new hires. First the council set it sights on the female of the three, Sherry- Lea Bloodworth Botop. The Council has a well established reputation for bulling women. Sherry-Lea relocated to Fairhope for the position and immediately the council moved to de-fund her position. Fairhope is the loser in her departure and the Fairhope Catalyst Council has dirty hands in her resigning.
 
 Mayor Karin Wilson of Fairhope, Alabama
@@ -68,7 +46,7 @@ One sentence in Sherry Lea’s comment’s sticks out.“The health of Fly Creek
 
 Just last month Wayne Dyess, Fairhope’s planning director, resigned. Did the Fairhope Council try to save either position? Did the council try and talk Wayne and Sherry-lea into staying? Hell No ! The Council’s hands are as dirty as they can be.
 
-[http://thefairhopetimes.blogspot.com/2019/03/citys-planning-director-moving-on.html](http://thefairhopetimes.blogspot.com/2019/03/citys-planning-director-moving-on.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2019/03/citys-planning-director-moving-on.html" >}}
 
 Council President Burrell: "He was a great employee and has provided great input concerning numerous planning projects, and was instrumental in implementing several new ordinances which will help the city in the long run."
 
@@ -80,32 +58,10 @@ The dirty hands council had plenty of help from the Courier and former editor Ch
 
 Chuckee takes dictation from the dirty hands of Baldwin County. Chuckee is know for biased fictional articles that are political hit pieces. His coverage of Fairhope made the flowers wilt.
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/the-chucky-cheeze-and-jack-burrell-show/" >}}
 
-## THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-
-### THE CHUCKY CHEEZE AND JACK BURRELL SHOW | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/chucky.jpg)
-
-Well Chucky Cheeze and “come fly with me” Burrell have come up with their new hit piece on the Mayor of Fairhope. They are reminding the general public of their support for fired employees and how…
-
-Source: [rippreport.com/2017/11/15/the-chucky-cheeze-and-jack-burrell-show/](https://rippreport.com/the-chucky-cheeze-and-jack-burrell-show/)
-
-</div>
 Dirty Hands Chuckee is now going to political heaven. He is going to have the easiest job in journalism, print what he is told, and his dirty hands qualify him for the job.
 
-<div class="link-preview">
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2019/04/shakeup-at-local-newspaper.html" >}}
 
-## Shakeup At Local Newspaper
-
-### Shakeup At Local Newspaper
-
-![](https://1.bp.blogspot.com/-OgEPx1LmxiA/XMa8aKpI1yI/AAAAAAAARwU/9UgGhSOBi9ITiBXdFvDpF-HJU-h9b8PmgCLcBGAs/w1200-h630-p-k-no-nu/Untitled.jpeg)
-
-News and information for Fairhope and Baldwin County, Alabama.
-
-Source: [thefairhopetimes.blogspot.com/2019/04/shakeup-at-local-newspaper.html](https://thefairhopetimes.blogspot.com/2019/04/shakeup-at-local-newspaper.html)
-
-</div>
 Chuckee is now the Baldwin County Legislative Delegation Constituent Services Director, what a B.S. title, and folks that requires DIRTY HANDS.
