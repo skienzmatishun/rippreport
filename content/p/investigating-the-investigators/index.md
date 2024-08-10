@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Investigators"
 date: 2017-03-03
-thumbnail: "img/investigating-the-investigators.png"
+thumbnail: "img/investigating-the-investigators.jpg"
 categories: 
   - freaky-friday
 tags: 

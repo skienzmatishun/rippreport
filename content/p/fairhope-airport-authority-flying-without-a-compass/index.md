@@ -1,7 +1,7 @@
 ---
 title: "Fairhope Airport Authority - FLYING WITHOUT A COMPASS"
 date: 2016-12-14
-thumbnail: "img/fairhope-airport-authority-flying-without-a-compass.jpg"
+thumbnail: "img/fairhope-airport-flying-without-a-compass.jpg"
 categories: 
   - wonderful-wednesday
 tags: 

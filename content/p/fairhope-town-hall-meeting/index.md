@@ -1,7 +1,7 @@
 ---
 title: "Fairhope Town Hall Meeting"
 date: 2017-02-15
-thumbnail: "img/fairhope-town-hall-meeting.jpg"
+thumbnail: "img/fairhope-townhall-meeting.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
