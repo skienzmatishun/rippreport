@@ -18,7 +18,7 @@ See the past articles for [Jack Burrell](https://rippreport.com/tag/burrell/) or
 
 If you wish to be educated and entertained, at the same time, about the infamous Jack Burrell. I have listed a couple archived posts for you:
 
-{{< socialpreview url="https://rippreport.com/p/no-radar/"}}
+{{< socialpreview url="https://rippreport.com/p/no-radar/" >}}
 
 “Jack’s latest stunt involves the Fairhope Airport Authority, FAA, where he already has an infamous reputation for bid rigging. The latest stunt is that there will be NO Airport Authority meetings on line for the public to see. Not since February has their been a recorded meeting, nor has there been any explanation or public notice. “
 
