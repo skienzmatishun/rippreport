@@ -111,7 +111,7 @@ Lead Investigator Hoss Mack⁠— sentenced to life without parole. No gun, no w
 
 If you happen to be an attorney that pisses off Sheriff Hoss then be prepared for retaliation.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10158299300897317&amp;show_text=true&amp;width=500" width="500" height="654" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/sheriff-restricts-communication-of-attorney-in-baldwin-county-courthouse-updated/article_958c40cf-57d7-5424-b5e2-179d79b7fe6e.html" >}}
 
 “Let me be clear, I do not work for the sheriff of Baldwin County. He works for me,” Still told the committee. “The courthouse is where I make my living. Huey Mack is playing politics with that.”
 
@@ -121,14 +121,13 @@ A letter from Judge Taylor later informed Still the courthouse security committe
 
 “With one sweeping stroke, today’s decision spells the end of public access to law-enforcement records that are connected in any way to an investigation,” he wrote. “I cannot sit idly by while this Court shrinks a legal right of the people of Alabama to the vanishing point. And I especially cannot do so when that shrinkage flies in the face of text and precedent.” Chief Justice Tom Parker.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After the Alabama Supreme Court ruling last week regarding police body cam footage, the Alabama Press Association said it is “already at work on preparing a suggested legislative response that will hopefully be pre-filed before the 2022 regular session:" <a href="https://t.co/nBpoDHupOG">https://t.co/nBpoDHupOG</a></p>— Lagniappe (@LagniappeMobile) <a href="https://twitter.com/LagniappeMobile/status/1443677540019748868?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/former-legislator-press-association-say-effort-underway-to-rewrite-records-law/article_f421ca42-3c93-5e9c-bfbc-f45fdaa41b7f.html" >}}
 
 “The Lagniappe decision goes out of its way to interpret the investigative privilege statute so broadly that it will likely lead to Alabama citizens having less access to things such as body cam or surveillance video, 911 transcripts and autopsy information, which are commonly available in other states during investigations,” Alabama Press Association Chief Legal Council Dennis Baily
 
 The next two links/articles were published Wednesday Sept. 30 2021, Lagniappe.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159491157532317&amp;show_text=true&amp;width=500" width="500" height="507" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/closed-records-act-alabama-supreme-court-rules-against-lagniappe-s-body-cam-request/article_1af7a095-8382-5029-b07d-2950fb0bc0a3.html" >}}
 
 “The sweep of these pronouncements is breathtaking,” he wrote. “In essence, all evidence in the possession of law enforcement agencies, whether created by the agency or received from others, is now exempt from citizens’ statutory right to access public records … With one sweeping stroke, today’s decision spells the end of public access to law enforcement records that are connected in any way to an investigation. After today, as to law enforcement agencies at least, the statute might as well be titled the Closed Records Act.” Chief Justice Tom Parker
 
