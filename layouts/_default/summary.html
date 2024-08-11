@@ -16,9 +16,10 @@
     </header>
     <div class="content list__excerpt post__content clearfix">
         {{- $cleanedSummary := .Summary -}}
-        {{- $cleanedSummary = replaceRE "(?i)Newsletter Subscribe.*?SUBSCRIBE" "" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE "(?i)Newsletter Subscribe[\\s\\S]*?SUBSCRIBE" "" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` "" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
         {{ $cleanedSummary }}
     </div>
     {{- if .Site.Params.readmore }}
