@@ -21,7 +21,7 @@
         {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
         {{- $newsletterText := "Newsletter\nSubscribe to our newsletter and stay updated.\nEnter your email address to subscribe\nProvide your email address to subscribe. For e.g abc@xyz.com\nSUBSCRIBE" -}}
-        {{- $cleanedSummary = replace $cleanedSummary $newsletterText "" -}}
+        {{- $cleanedSummary = replace $cleanedSummary (delimit $newsletterText "") "" -}}
         {{ $cleanedSummary }}
     </div>
     {{- if .Site.Params.readmore }}
