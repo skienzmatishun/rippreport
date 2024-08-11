@@ -45,7 +45,6 @@
                         {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
                         {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
                         {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
-                        {{- $cleanedSummary = replaceRE "(?i)Newsletter Subscribe[\\s\\S]*?SUBSCRIBE" "" $cleanedSummary -}}
                         <p style="text-align:left;" class="widget__summary">{{ $cleanedSummary }}</p>
                     </a>
                 </li>
