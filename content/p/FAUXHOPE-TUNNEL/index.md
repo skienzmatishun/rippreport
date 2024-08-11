@@ -39,7 +39,7 @@ The beach has been left out of the plans and it was the number one thing citizen
 Pay attention Fairhope, Jack has plans for the Airport and the citizens are not part of the plan.
 
 
-{{< socialpreview url="https://rippreport.com/p/honey-bees/" >}}
+{{< socialpreview url="https://rippreport.com/p/honey-bees/" noFloat=true >}}
 
 On May 29th council meeting the Mayor of Fairhope begged the council to reconsider two issues on the agenda. One, the conservation easement involving the triangle property, 102 acres worth 20 million, that the council was willing to give away while at the same time proposing to buy 2.6 million of property on hwy.13. Fairhope paid 8.25 million in a lawsuit plus 3 million in attorney fees as a SETTLEMENT for the property. Burrell and Boone supported the lawsuit that they LOST.
 
