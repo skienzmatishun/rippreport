@@ -71,7 +71,7 @@
                     {{ $json.title }} <br> {{ $baseURL }}
                 {{- end -}}
             </h2>
-            <p>partial "format-summary" (dict "Summary" .Page.Summary)</p>
+            <p>{{ partial "format-summary" (dict "Summary" .Page.Summary) }}</p>
 
             <span class="read_more">Read More</span>
         </a>
