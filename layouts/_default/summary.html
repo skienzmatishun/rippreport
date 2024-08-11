@@ -15,7 +15,7 @@
         {{- end }}
     </header>
     <div class="content list__excerpt post__content clearfix">
-{{ partial "format-summary" . }}
+partial "format-summary" (dict "Summary" .Page.Summary)
     </div>
     {{- if .Site.Params.readmore }}
     <div class="list__footer clearfix">
