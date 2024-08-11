@@ -22,7 +22,7 @@ Councilman Conyers is the nice guy who refuses to see anything clearly for fear 
 
 Read this article printed 11/11/16
 
-{{< socialpreview url="https://rippreport.com/dont-throw-rocks-if-you-live-in-a-glass-house/" >}}
+{{< socialpreview url="https://rippreport.com/p/dont-throw-rocks-if-you-live-in-a-glass-house/" >}}
 
 Council President Burrell has been Council President for over 7 years, and there lies the problem. The Council votes in opposition of the Mayor and staff regardless the issue.
 

@@ -559,7 +559,10 @@ p.widget__summary {
 blockquote {
     background:#6e6e6e52;
 }
-
+.social-preview:last-of-type{
+    float:none;
+    margin:auto;
+}
 @media screen and (min-width:1200px) {
     .thumbnail {
         min-height: 400px
