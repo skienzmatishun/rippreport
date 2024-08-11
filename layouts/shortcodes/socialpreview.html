@@ -71,14 +71,7 @@
                     {{ $json.title }} <br> {{ $baseURL }}
                 {{- end -}}
             </h2>
-
-            {{- $cleanedDescription := $json.description -}}
-            {{- $cleanedDescription = replaceRE `https?:\/\/[^\s]+` "" $cleanedDescription -}}
-            {{- $cleanedDescription = replaceRE `&rsquo;` "'" $cleanedDescription -}}
-            {{- $cleanedDescription = replaceRE `&ldquo;` "\"" $cleanedDescription -}}
-            {{- $cleanedDescription = replaceRE `&rdquo;` "\"" $cleanedDescription -}}
-            {{- $cleanedDescription = replaceRE "(?i)Newsletter Subscribe[\\s\\S]*?SUBSCRIBE" "" $cleanedDescription -}}
-            <p>{{ $cleanedDescription }}</p>
+            <p>{{ partial "format-summary" . }}</p>
 
             <span class="read_more">Read More</span>
         </a>

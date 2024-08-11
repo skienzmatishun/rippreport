@@ -40,12 +40,7 @@
                                 <img loading="lazy" src="/cdn-cgi/image/width=431,quality=75,format=auto/{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
                             </div>
                         {{- end }}
-                        {{- $cleanedSummary := .Summary -}}
-                        {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` "" $cleanedSummary -}}
-                        {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
-                        {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
-                        {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
-                        <p style="text-align:left;" class="widget__summary">{{ $cleanedSummary }}</p>
+                        <p style="text-align:left;" class="widget__summary">{{ partial "format-summary" . }}</p>
                     </a>
                 </li>
             {{- end }}
