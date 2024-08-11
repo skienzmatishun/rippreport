@@ -1,7 +1,11 @@
 {{- $summary := .Get "summary" -}}
 {{- if not $summary -}}
     {{- with .context -}}
-        {{- $summary = .Summary -}}
+        {{- if reflect.IsMap .Page -}} {{- /* Check if .Page is a map */ -}}
+            {{- $summary = .Page.Summary -}}
+        {{- else -}}
+            {{- $summary = .Page -}} {{- /* If .Page is not a map, assume it's the summary itself */ -}}
+        {{- end -}}
     {{- end -}}
 {{- end -}}
 
