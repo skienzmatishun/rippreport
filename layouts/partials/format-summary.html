@@ -1,7 +1,11 @@
-{{/* partials/format-summary.html */}}
-    {{- $cleanedSummary := .Summary -}}
-    {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` " " $cleanedSummary -}}
-    {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
-    {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
-    {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
-    {{ $cleanedSummary }}
+{{- $summary := .Get "summary" -}}
+{{- if not $summary -}}
+    {{- $summary = .Summary -}}
+{{- end -}}
+
+{{- $cleanedSummary := $summary -}}
+{{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` " " $cleanedSummary -}}
+{{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
+{{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
+{{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
+<p>{{ $cleanedSummary }}</p>
