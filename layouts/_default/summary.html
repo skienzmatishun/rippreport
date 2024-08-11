@@ -6,13 +6,7 @@
                 {{ .Title }}
             </a>
         </h2>
-        {{- if in .Params.categories "dwtd" }}
-        <a href="https://deal-with-the-devil.com">
-            <div class="dwtd__link">
-                <!-- Add any additional content or styling here -->
-            </div>
-        </a>
-        {{- end }}
+
         {{- with .Params.lead }}
         <p class="list__lead post__lead">{{ . }}</p>
         {{- end }}
@@ -21,7 +15,10 @@
         {{- end }}
     </header>
     <div class="content list__excerpt post__content clearfix">
-        {{ .Summary }}
+        {{- $cleanedSummary := .Summary -}}
+        {{- $cleanedSummary = replaceRE "(?i)Newsletter Subscribe.*SUBSCRIBE" "" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` "" $cleanedSummary -}}
+        {{ $cleanedSummary }}
     </div>
     {{- if .Site.Params.readmore }}
     <div class="list__footer clearfix">
