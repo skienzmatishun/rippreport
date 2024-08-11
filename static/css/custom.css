@@ -559,10 +559,13 @@ p.widget__summary {
 blockquote {
     background:#6e6e6e52;
 }
+
 .sink-preview {
-    margin: auto !important;
+    margin: 3rem auto !important;
     float: none !important;
 }
+
+
 @media screen and (min-width:1200px) {
     .thumbnail {
         min-height: 400px

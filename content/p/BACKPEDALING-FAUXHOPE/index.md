@@ -22,7 +22,7 @@ Watch his lips!
 
 > I bet only 1 or 2 % of the voters in Fairhope know that not one city council person, the mayor or the appointed municipal attorney and municipal judge have been elected or appointed for there 5th year in office. The Alabama legislature thought it necessary to postpone municipal elections in 2024 due to the presidential election. A free year in office, full family insurance and the ability to make decisions for Fairhope’s future, without a single vote cast. Only in Alabama.
 
-{{< socialpreview url="https://casetext.com/case/ripp-v-burrell" >}}
+{{< socialpreview url="https://casetext.com/case/ripp-v-burrell" noFloat=true >}}
 
 Full title:FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL, etc., Defendant.
 
