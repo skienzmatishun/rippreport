@@ -1,6 +1,8 @@
 {{- $summary := .Get "summary" -}}
 {{- if not $summary -}}
-    {{- $summary = .Summary -}}
+    {{- with .context -}}
+        {{- $summary = .Summary -}}
+    {{- end -}}
 {{- end -}}
 
 {{- $cleanedSummary := $summary -}}
