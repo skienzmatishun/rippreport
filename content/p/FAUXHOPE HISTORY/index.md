@@ -26,7 +26,7 @@ Mayor Sherry Sullivan called the draft “a good start.” If the ordinance were
 
 “I guess the bottom line I have and always had is money,” Councilman Kevin Boone said. Councilman Boone is a developer and works with developers when he is not a councilman??? He has a rich history of supporting back room good ole boy politics.
 
-{{< socialpreview url="https://rippreport.com/p/bull/" >}}
+{{< socialpreview url="https://rippreport.com/p/bull/" addLastPreview=true >}}
 
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 
