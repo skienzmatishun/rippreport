@@ -23,7 +23,6 @@
 		content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
 	<meta property="og:image"
 		content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
-	{{- end }}
 
 	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
 	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
