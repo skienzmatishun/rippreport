@@ -32,7 +32,7 @@ The Fairhope City Council can begin pedaling forward by considering the Mayor’
 
 Let’s hope the council does not allow Catalyst or their ego’s to get in the way of what could be the vehicle that spares our teachers from being fundraisers and allows them to teach. Fairhope will be debt free in 2019. The Mayor’s proposal is to use 10% of the income from sales tax, estimated at 800,000 to a million a year, for the bulk of the 1.88 million dollar goal. The Council can do that NOW. If the Council goes ahead with the referendum and it fails then they get another F.
 
-{{< socialpreview url="https://rippreport.com/p/jack-gets-an-f-again/"}}
+{{< socialpreview url="https://rippreport.com/p/jack-gets-an-f-again/" >}}
 
 CONGRATULATIONS to LAGNIAPPE and their new BALDWIN EDITION.
 
