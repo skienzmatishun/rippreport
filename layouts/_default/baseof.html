@@ -18,9 +18,7 @@
 	{{- if .Site.Params.twitter_cards }}
 	{{ template "_internal/twitter_cards.html" . }}
 	{{- end }}
-	{{- $googleFontsLink := .Site.Params.googleFontsLink | default
-	"https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
-	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
+
 	<meta name="twitter:image"
 		content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
 	<meta property="og:image"
@@ -44,10 +42,7 @@
 	{{ template "_internal/google_analytics_async.html" . }}
 	{{- end }}
 	{{- end }}
-	<link  href="https://fonts.gstatic.com" crossorigin>
-	<link  href="//fonts.googleapis.com">
-	<link  href="//fonts.gstatic.com">
-	<link rel="stylesheet" {{ printf `href="%s" ` $googleFontsLink | safeHTMLAttr }}>
+	<link  href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap">
 </head>
 
 <body class="body">
