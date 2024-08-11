@@ -77,8 +77,6 @@
             {{- $cleanedDescription = replaceRE `&rsquo;` "'" $cleanedDescription -}}
             {{- $cleanedDescription = replaceRE `&ldquo;` "\"" $cleanedDescription -}}
             {{- $cleanedDescription = replaceRE `&rdquo;` "\"" $cleanedDescription -}}
-            {{- $cleanedDescription = replaceRE `&#39;` "\'" $cleanedDescription -}}
-            {{- $cleanedDescription = replaceRE `&quot;` "\"" $cleanedDescription -}}
             {{- $cleanedDescription = replaceRE "(?i)Newsletter Subscribe[\\s\\S]*?SUBSCRIBE" "" $cleanedDescription -}}
             <p>{{ $cleanedDescription }}</p>
 

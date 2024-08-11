@@ -10,13 +10,7 @@ authors:
   - ripp-report
 ---
 
-## Complete List — 2017 Nappie Award Winners - Lagniappe Mobile
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/07/WEbbannerWinners.jpg)
-
-Thanks a Million (and a half)! 1,593,808 total votes were cast in the 2017 Nappie Awards! Oops, you guys did it again. We received the most votes we ever have in the Nappies in our 15-year history. We love to see all of the excitement, but, honestly, we hate to see the disappointment too. There …
-
-Source: [lagniappemobile.com/complete-list-2017-nappie-award-winners/](http://lagniappemobile.com/complete-list-2017-nappie-award-winners/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/complete-list-2017-nappie-award-winners/article_374dee96-bedd-5b49-83b5-3736908420f7.html" >}}
 
 The mayor of Fairhope, Karin Wilson, is living up to her promises to the citizens who elected her. She has been assailed by her critics from day one. The city council has taken on an obstructionist position towards the mayor and has even refused to mediate their differences, through attorneys, claiming they are the mediators. Problem with that is, they are not mediating a damn thing, and the city is the loser.
 
@@ -37,5 +31,3 @@ The major obstacle Mayor Wilson faces is cooperation from the council, however t
 It is hard for some to accept the fact that Fairhope is becoming a level playing field and business as usual stopped with the last election. Mayor Wilson is honest and will not sell her soul or betray Fairhope citizens.
 
 Fairhope is changing for the better, get involved with city government contact your council and tell them to do their job and let the “Hardest Working Elected official- on the Eastern Shore” do her job.
-
-<iframe style="border: none; overflow: hidden;" src="https://cdn.rippreport.com/wp-content/uploads/2017/07/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMayorKarinWilson%2Fposts%2F1955742294672144&amp;width=500" width="500" height="243" frameborder="0" scrolling="no"></iframe>
