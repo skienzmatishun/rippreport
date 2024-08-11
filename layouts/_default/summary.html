@@ -16,7 +16,7 @@
     </header>
     <div class="content list__excerpt post__content clearfix">
         {{- $cleanedSummary := .Summary -}}
-        {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` "" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` " " $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
