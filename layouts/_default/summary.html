@@ -18,6 +18,7 @@
         {{- $cleanedSummary := .Summary -}}
         {{- $cleanedSummary = replaceRE "(?i)Newsletter Subscribe.*SUBSCRIBE" "" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` "" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
         {{ $cleanedSummary }}
     </div>
     {{- if .Site.Params.readmore }}
