@@ -54,16 +54,16 @@
                     <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
                     <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
                 {{- else if eq $baseURL "www.alreporter.com" -}}
-                    <img loading="lazy"  style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png" alt="AL Reporter logo">
+                    <img loading="lazy"  style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png" alt="AL Reporter logo">
                     <br> {{ $json.title }}
                 {{- else if eq $baseURL "yellowhammernews.com" -}}
-                    <img loading="lazy"  style="height:32px;width:290px;max-width:100%;" src="https://rippreport.com/img/yellow-hammer-logo.png" alt="Yellow Hammer News Logo">
+                    <img loading="lazy"  style="height:32px;width:290px;max-width:100%;" src="https://rippreport.com/img/yellow-hammer-logo.png" alt="Yellow Hammer News Logo">
                     <br> {{ $json.title | strings.TrimSuffix " - Yellowhammer News"}}
                 {{- else if eq $baseURL "theringer.com" -}}
-                    <img loading="lazy"  style="height:95px;width:200px;max-width:100%;" src="https://rippreport.com/img/the-ringer-logo.png" alt="The Ringer Logo">
+                    <img loading="lazy"  style="height:95px;width:200px;max-width:100%;" src="https://rippreport.com/img/the-ringer-logo.png" alt="The Ringer Logo">
                     <br> {{ $json.title }}
                 {{- else if eq $baseURL "www.altoday.com" -}}
-                    <img loading="lazy"  style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
+                    <img loading="lazy"  style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
                     <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
                 {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                     {{ $json.title }}
@@ -71,7 +71,15 @@
                     {{ $json.title }} <br> {{ $baseURL }}
                 {{- end -}}
             </h2>
-            <p>{{ $json.description }}</p>
+
+            {{- $cleanedDescription := $json.description -}}
+            {{- $cleanedDescription = replaceRE `https?:\/\/[^\s]+` "" $cleanedDescription -}}
+            {{- $cleanedDescription = replaceRE `&rsquo;` "'" $cleanedDescription -}}
+            {{- $cleanedDescription = replaceRE `&ldquo;` "\"" $cleanedDescription -}}
+            {{- $cleanedDescription = replaceRE `&rdquo;` "\"" $cleanedDescription -}}
+            {{- $cleanedDescription = replaceRE "(?i)Newsletter Subscribe[\\s\\S]*?SUBSCRIBE" "" $cleanedDescription -}}
+            <p>{{ $cleanedDescription }}</p>
+
             <span class="read_more">Read More</span>
         </a>
     </div>
