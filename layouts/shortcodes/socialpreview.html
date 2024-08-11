@@ -1,5 +1,5 @@
 {{- $url := .Get "url" -}}
-{{- $addLastPreview := .Get "addLastPreview" | default false -}}
+{{- $noFloat := .Get "noFloat" | default false -}}
 {{- $workerURL := (print "https://links.rippreport.com?q=" $url) -}}
 {{- $json := getJSON $workerURL -}}
 
@@ -15,7 +15,7 @@
 {{- if $json.url -}}
     {{- $parsedURL := urls.Parse $url -}}
     {{- $baseURL := $parsedURL.Host -}}
-    <div class="social-preview{{- if $addLastPreview }} last-preview{{- end }}">
+    <div class="social-preview{{- if $noFloat }} last-preview{{- end }}">
         <a href="{{ $json.url }}">
             {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
             <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
