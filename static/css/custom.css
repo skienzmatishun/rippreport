@@ -559,9 +559,9 @@ p.widget__summary {
 blockquote {
     background:#6e6e6e52;
 }
-.last-preview {
-    margin: auto;
-    float: none;
+.sink-preview {
+    margin: auto !important;
+    float: none !important;
 }
 @media screen and (min-width:1200px) {
     .thumbnail {

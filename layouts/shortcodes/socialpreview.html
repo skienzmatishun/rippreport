@@ -15,7 +15,7 @@
 {{- if $json.url -}}
     {{- $parsedURL := urls.Parse $url -}}
     {{- $baseURL := $parsedURL.Host -}}
-    <div class="social-preview{{- if $noFloat }} last-preview{{- end }}">
+    <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
         <a href="{{ $json.url }}">
             {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
             <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
