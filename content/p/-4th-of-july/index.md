@@ -1,6 +1,7 @@
 ---
-title: "FREAKY FRIDAY - 4th of July"
+title: "4th of July"
 date: 2016-07-01
+thumbnail: "img/4thofjuly.jpg"
 categories: 
   - freaky-friday
 authors: 

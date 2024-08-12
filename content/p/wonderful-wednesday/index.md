@@ -1,6 +1,7 @@
 ---
 title: "WONDERFUL WEDNESDAY"
 date: 2016-07-13
+thumbnail: "img/wonderful-wednesday.png"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -13,7 +14,9 @@ authors:
   - ripp-report
 ---
 
-[The article posted by _Fairhope Times_ that was reposted on Ripp Report](https://thefairhopetimes.blogspot.com/2016/07/this-years-travel-expenses-for-city.html) resulted in many people taking issue with my innuendo, ”The Governor had a special assistant, just saying” was radically misunderstood by some folks. Some took it as having a sexual connotation and even brought up adultery. My reference to the governor assistant was — look at the trouble he has heaped on himself and his assistant. He has yet to be charged with anything. Take your minds out of the gutter.
+The article posted by _Fairhope Times_ that was reposted on Ripp Report resulted in many people taking issue with my innuendo, ”The Governor had a special assistant, just saying” was radically misunderstood by some folks. Some took it as having a sexual connotation and even brought up adultery. My reference to the governor assistant was — look at the trouble he has heaped on himself and his assistant. He has yet to be charged with anything. Take your minds out of the gutter.
+
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2016/07/this-years-travel-expenses-for-city.html" >}}
 
 Since running the article, I have had several Fairhope employees call me and tell me Sherry Sullivan’s title among the Fairhope employees is “Mayor in Training”.  This I have heard for months. Now let me make myself perfectly clear: _The last damn thing we need is the mayor picking or TRAINING our next mayor_, Sherry Sullivan, or anyone else. We, the people elect the mayor.
 

@@ -1,6 +1,7 @@
 ---
 title: "Challengers emerge in Daphne mayoral race"
 date: 2016-07-21
+thumbnail: "img/lagniappe.png"
 tags: 
   - daphne
   - lake
@@ -8,7 +9,7 @@ authors:
   - ripp-report
 ---
 
-By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://cdn.rippreport.com/wp-content/uploads/2016/07/lagniappemobile.com)
+By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://lagniappemobile.com)
 
 As qualifying for municipal election candidates comes to a close this week, three candidates have emerged to challenge incumbent mayor Dane Haygood in Daphne in the Aug. 23 city election.
 
