@@ -1,6 +1,7 @@
 ---
 title: “Observations of a Poll Watcher”
 date: 2016-08-10
+thumbnail: "img/observations-of-a-poll-watcher.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
