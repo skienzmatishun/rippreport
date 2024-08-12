@@ -1,6 +1,7 @@
 ---
-title: "WONDERFUL WEDNESDAY"
+title: "A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS"
 date: 2016-07-27
+thumbnail: "img/a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
@@ -11,17 +12,16 @@ authors:
   - ripp-report
 ---
 
-**A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE _FLY CREEK APARTMENTS_ ON FLY CREEK.**
 
 In June of this year, the Planning and Zoning Board expressed their frustration with citizens of Fairhope who defend themselves by legal means. Friends of Fly Creek, Plaintiffs — and certainly friends of the public, brought a lawsuit against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River group LLC, Defendants. The Defendants in turn moved to dismiss the lawsuit all together. Planning and Zoning doubled down on their decision, calling the lawsuit "frivolous."
 
-[http://thefairhopetimes.blogspot.com/2016/06/controversial-fairhope-apartment.html](http://thefairhopetimes.blogspot.com/2016/06/controversial-fairhope-apartment.html)
+{{< socialpreview url="https://thefairhopetimes.blogspot.com/2016/06/controversial-fairhope-apartment.html" >}}
 
 Mr. George Robards, a contributor of the Mayor and members of the Planning and Zoning, who also enjoys municipal contracts and contracts through Single Tax, was the loudest voice screaming, "frivolous lawsuit!"
 
 Well, Mr Robards, Mayor, Planning and Zoning, Fairhope City Council and Leaf River Group — you were wrong and that is the opinion of the **COURT**. Your motion to dismiss was **DENIED**.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/07/ruling.pdf" download="all"\]
+https://cdn.rippreport.com/wp-content/uploads/2016/07/ruling.pdf
 
 **PLEASE PAY ATTENTION**: What this means is the lawsuit can move forward into a discovery phase.
 

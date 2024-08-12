@@ -1,6 +1,7 @@
 ---
 title: "ABOVE THE LAW"
 date: 2016-08-31
+thumbnail: "img/above-the-law.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

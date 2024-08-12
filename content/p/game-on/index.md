@@ -39,4 +39,4 @@ This is the first day after qualification for municipal elections. During the ca
 
 **PLEASE REGISTER  TO VOTE** _WHEN IN DOUBT WHO TO VOTE FOR_ **VOTE THE INCUMBENT OUT** 
 
-                                HAVE A WONDERFUL WEDNESDAY
+HAVE A WONDERFUL WEDNESDAY

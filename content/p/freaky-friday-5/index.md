@@ -1,6 +1,7 @@
 ---
 title: "FREAKY FRIDAY"
 date: 2016-09-09
+thumbnail: "img/freaky-friday.png"
 categories: 
   - freaky-friday
 tags: 
