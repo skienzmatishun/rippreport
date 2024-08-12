@@ -1,6 +1,7 @@
 ---
 title: "POLITICAL INTIMIDATION"
 date: 2016-06-17
+thumbnail: "img/political-intimidation.jpg"
 categories: 
   - freaky-friday
 tags: 

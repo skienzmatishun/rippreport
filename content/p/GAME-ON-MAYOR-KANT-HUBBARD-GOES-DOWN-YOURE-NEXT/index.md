@@ -1,6 +1,7 @@
 ---
-title: "Freaky Friday on Saturday Morning"
+title: "GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT"
 date: 2016-06-11
+thumbnail: "img/game-on-mayor-kant-hubbard-goes-down-youre-next.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -9,15 +10,6 @@ authors:
   - ripp-report
 ---
 
-Freaky Friday on Saturday Morning
-
-June 11, 2016
-
-The Ripp Report/Baldwin County Legal Eagle, Facebook, [The Ripp Report](https://rippreport.com)
-
-GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-
-I apologize for not posting the recent Freaky Friday, June 10,16, It was a crazy week. The Ripp Report will now be available on our blog site [The Ripp Report](https://rippreport.com).
 
 Originally the Ripp Report was local information about Fairhope politics. The idea came about due to the lack of honest information coming from Fairhope city hall, the mayor in particular. That was over 10 years ago, nothing has changed. Facebook then became our social media site which spawned Baldwin County Legal Eagle. To expand our Gmail connection the blog site [The Ripp Report](https://rippreport.com) will be available. All of these forums will work together to maximize exposure.
 

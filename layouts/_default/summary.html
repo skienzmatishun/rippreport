@@ -21,6 +21,7 @@
         {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&#39;` "\"" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&quot;` "\"" $cleanedSummary -}}
         {{ $cleanedSummary }}
     </div>
     {{- if .Site.Params.readmore }}

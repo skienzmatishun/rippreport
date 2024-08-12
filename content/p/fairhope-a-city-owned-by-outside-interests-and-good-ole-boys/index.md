@@ -1,6 +1,7 @@
 ---
 title: "FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS"
 date: 2016-05-27
+thumbnail: "img/fairhope-a-city-owned-by-outside-interests-and-good-ole-boys.jpg"
 categories: 
   - thursday-thunder
 tags: 
