@@ -1,7 +1,7 @@
 ---
 title: "PAY EXECUTIVES FIRST — BOY SCOUTS COME LAST"
 date: 2016-08-03
-thumbnail "img/pay-executives-first-boy-scouts-last.jpg"
+thumbnail: "img/pay-executives-first-boy-scouts-last.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
