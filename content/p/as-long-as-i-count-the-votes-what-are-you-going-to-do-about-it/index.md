@@ -1,6 +1,7 @@
 ---
 title: "\"As long as I count the Votes, what are you going to do about it?\""
 date: 2016-08-05
+thumbnail: "img/as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -9,11 +10,11 @@ authors:
   - ripp-report
 ---
 
-[STOPVOTERFRAUDNOW.COM](https://cdn.rippreport.com/wp-content/uploads/2016/08/stopvoterfraudnow.com)
+STOPVOTERFRAUDNOW.COM
 
 The observations of a poll watcher is just one of several letters involving Fairhope elections and alleged fraudulent behavior within the polling place.  This is not a conspiracy theory. This is the observation of a poll watcher who witnessed many different violations. The last paragraph of his statement reads, “Because of the issue of not being allowed to observe the final machine opening and tape certification, I could not testify in a court of law that final certification procedures were properly certified and secure."
 
-[PLEASE READ< AND FOLLOW UP> BY REQUESTING THE SECRETARY OF STATE TO PROVIDE STRINGENT OVERSIGHT OF OUR AUG. 23 ELECTIONS, IT WILL ONLY TAKE A FEW MINUTES AND MEANS SO MUCH.](https://cdn.rippreport.com/wp-content/uploads/2016/08/contactus.aspx?sm=voters)
+[PLEASE READ< AND FOLLOW UP> BY REQUESTING THE SECRETARY OF STATE TO PROVIDE STRINGENT OVERSIGHT OF OUR AUG. 23 ELECTIONS, IT WILL ONLY TAKE A FEW MINUTES AND MEANS SO MUCH.
 
 THE NEXT ELECTION WILL DETERMINE WHETHER WE WANT TO BE FAIR-HOPE OR FAUXHOPE?
 
@@ -60,9 +61,9 @@ PLEASE take 5 minutes and make your voice heard and your VOTE count.
 
 For Complaints about voter fraud contact:
 
-[STOPvoterfraudnow.com](https://cdn.rippreport.com/wp-content/uploads/2016/08/STOPvoterfraudnow.com)
+STOPvoterfraudnow.com
 
-- You may file your allegation online via the [web form](https://cdn.rippreport.com/wp-content/uploads/2016/08/reportOnline.aspx).
+- You may file your allegation online via the web form.
 - You may speak to staff members by calling toll free: 1-800-274-VOTE (8683)
 - Allegations may also be filed via fax using the following fax number:  (334) 242-2444
 - If you would prefer to send your allegation via postal mail, it may be sent to the address below. You may [use this printable form](https://cdn.rippreport.com/wp-content/uploads/2016/08/AlabamaElectionComplaintForm.pdf).
