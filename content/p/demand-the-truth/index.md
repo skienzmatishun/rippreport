@@ -1,6 +1,7 @@
 ---
-title: "FREAKY FRIDAY - DEMAND THE TRUTH"
+title: "DEMAND THE TRUTH"
 date: 2016-07-07
+thumbnail: "img/demand-the-truth.png"
 categories: 
   - freaky-friday
 tags: 
@@ -37,4 +38,4 @@ Francis Paul Ripp
 
  
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/07/ripp1-1.pdf" download="all" viewer="google"\]
+https://cdn.rippreport.com/wp-content/uploads/2016/07/ripp1-1.pdf

@@ -1,6 +1,7 @@
 ---
-title: "FREAKY FRIDAY - ELECTED OR SELECTED"
+title: "ELECTED OR SELECTED"
 date: 2016-07-22
+thumbnail: "img/elected-or-selected.png"
 categories: 
   - freaky-friday
 tags: 
@@ -34,7 +35,7 @@ Mayor Kant says he wants a performing arts center. What he does not tell you is 
 
 Kant and "crying Diana Brewer" say the soccer field will be "state of the art." I am not against any sport, I worked all my life in tourism and sports, but the soccer field is going to have a price tag between 5 and 6 million dollars, for one sport. From the dubious purchase of the land from Mike Ford's realty company, to sketchy contractors associated with the "good ole boys.' This deal stinks to high heaven and should be audited by an independent accounting firm. The city is now begging for money to finish the project which is already 8 months behind schedule:
 
-[http://www.al.com/news/mobile/index.ssf/2015/01/fairhope\_council\_endorses\_new.html](http://www.al.com/news/mobile/index.ssf/2015/01/fairhope_council_endorses_new.html)
+{{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2015/01/fairhope_council_endorses_new.html" >}}
 
 The maintenance of the massive property is straining city resources and will require more employees. Water is also a problem and the bathrooms and infrastructure have yet to break ground. The Mayor and _Fairhope City Sketches_ are lying through their teeth.
 
@@ -46,7 +47,7 @@ What follows is a tip from a supporter of the Ripp Report.
 
 This may be the worst Municipal lease ever written. This was a Mayor Kant deal, he decided who got the lease. It was not offered for public bid. This lease is for an established business on a multimillion dollar pier with city services and guaranteed customers, parking and amenities, which included a Marina, for $5000 a year???? That's about $400 a MONTH. This Councilmen Boone's resolution and one sweet deal that will cost every tax payer in Fairhope. Mr. Boone should be voted out of office and never allowed to approve any Municipal leases. Look at the lease terms: 15 years and rent that is about half the rent of a 1 bedroom apartment. TOTALLY CORRUPT.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/07/lease1.pdf" download="all" viewer="google"\]
+https://cdn.rippreport.com/wp-content/uploads/2016/07/lease1.pdf
 
 ![Karin Wilson for Mayor](https://cdn.rippreport.com/wp-content/uploads/2016/07/13692614_10154369197779993_6629729154215325553_n-272x3002.jpg)
 

@@ -1,6 +1,7 @@
 ---
 title: "GAME ON"
 date: 2016-07-20
+thumbnail: "img/game-on.jpg"
 categories: 
   - wonderful-wednesday
 tags: 
