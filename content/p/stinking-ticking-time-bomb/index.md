@@ -3,7 +3,7 @@ title: "STINKING TICKING TIME BOMB"
 date: 2022-08-12
 thumbnail: "img/stinking-ticking-time-bomb.jpg"
 categories: 
-  - freaky-friday
+  - none
 authors: 
   - admin
 ---
