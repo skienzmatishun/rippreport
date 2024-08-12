@@ -1,5 +1,5 @@
 ---
-title: "FREAKY FRIDAY"
+title: "POLITICAL INTIMIDATION"
 date: 2016-06-17
 categories: 
   - freaky-friday
@@ -13,9 +13,6 @@ authors:
   - ripp-report
 ---
 
-_The Ripp Report/Baldwin County Legal Eagle_
-
-**POLITICAL INTIMIDATION**
 
 Fairhope is the core of corruption in Baldwin County and Mayor Kant is the spokesman. Mayor Kant has raised over 50,000 dollars for a mayor’s election in a community of 16,000 people. That’s the first red flag. Over 50% of the mayor’s donations come from donors living outside Fairhope and unidentified PACs. That should alarm every citizen in Fairhope. The mayor is suspected of rigging the last two elections and he has now put in motion his FIX for the upcoming election. First we will see puppet candidates solicited by the mayor to run for Council seats. Former Mayor Jim Nix's son is going to run for Councilmen Ford's position. This is one good ole boy for another and most people in Fairhope don’t know that Jim Nix is a major player in the good ole boy club and management of Kant. Fairhope is a hand-me-down government. Nix handed it to Kant and Kant will pick his successor, NOT the citizens of Fairhope. It is rumored that Sherry Sullivan, a companion on many of Kant’s out of town trips, and Lee Turner are two of Kant’s choices for his replacement. Mr. Kant says this is his last term. But remember, if his lips are moving, he is lying. Mr. Jay Robinson is running for Mr. Mueller's seat. I suspect Mueller will not run for re-election but will wait until the last minute to announce it. Mr. Robinson voted for the apartments at Fly Creek and against the wishes of the community, a sign that he too may be in Kant’s pocket.
 

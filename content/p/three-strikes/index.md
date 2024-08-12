@@ -32,7 +32,7 @@ The council has chosen to turn its back on the children that were counting on pu
 
 This is the most asinine proposal that this council ever came up with. When I asked the Council President "who’s idea was this?" Burrell was silent then I asked again and he said “he could not remember.” He could not remember, who thought giving up 109 acres of City property worth 18 million plus, was a good idea? His nose was growing as he spoke.
 
-{{< socialpreview url="https://lagniappemobile.com/fairhope-tables-proposed-conservation-easement-for-dyas-triangle/" >}}
+{{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-tables-proposed-conservation-easement-for-dyas-triangle/article_7644f7e3-b5df-5742-b2d1-5eef6c0ae5e8.html" >}}
 
 Weeks Bay Foundation got played by the political machine. The private sector developers, do not want the Triangle in the City’s hands. The same people that caused the lawsuit and resulting legal settlement are now trying, with council help, to do just what the developers want.
 

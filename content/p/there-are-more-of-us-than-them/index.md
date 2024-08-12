@@ -1,6 +1,7 @@
 ---
-title: "FREAKY FRIDAY - THERE ARE MORE OF US THAN THEM"
+title: "THERE ARE MORE OF US THAN THEM"
 date: 2016-06-24
+thumbnail: "img/there-are-more-of-us-than-them.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -26,7 +27,7 @@ The cost of the soccer fields, which no one knows the total, dwarfs any money we
 
 The mayor recently took a trip to Washington to see his daughter receive an award; however, he claimed it was for a “horticulturalist vanity award”. The mayor had no previous authorization of the council for the trip? Nor was there any announcement of any award the city recently won? Jennifer Fiddler and Sherry Sullivan, mayor in training, accompanied the mayor, as they have on previous trips. Why Sherry Sullivan is accompanying the mayor is unknown or her title while on the trip? Stay tuned, we know more than they think. Let’s see how the mayor explains tax dollars for unauthorized trips at taxpayers' expense.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2016/06/form.pdf" download="all" viewer="google"\]
+https://cdn.rippreport.com/wp-content/uploads/2016/06/form.pdf
 
 **THERE ARE MORE OF US THAN THEM — VOTE THEM OUT**
 
