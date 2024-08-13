@@ -1,6 +1,7 @@
 ---
 title: "INNOCENT"
 date: 2022-04-22
+thumbnail: "img/innocent.jpg"
 categories: 
   - deal-with-the-devil
 authors: 
@@ -55,7 +56,7 @@ The case will also be discussed on the podcast:
 
 We are researching several potential producers that may be interested in a documentary of the case. Our . Com site is:
 
-[https://deal-with-the-devil.com/](https://deal-with-the-devil.com/)
+[https://justiceformurraylawrencejr.com](https://justiceformurraylawrencejr.com/)
 
 Please sign the petition, 100% of the money donated on the petition page goes towards promoting the petition:
 
