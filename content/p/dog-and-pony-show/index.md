@@ -28,7 +28,7 @@ No one knows the council’s intent, no one is expect to, so today’s meeting w
 What is not news is the Mayor’s position:
 
 > Mayor Karin Wilson of Fairhope, Alabama
-> 
+> file:///home/ryan/rr/rippreport/content/img/fairhope-a-city-owned-by-outside-interests-and-good-ole-boys.jpg
 > 12 hrs ·
 > 
 > A special called meeting is scheduled tomorrow, MAY 10th, at 3:30pm to discuss the structure I proposed to council for the open Treasurer position. As I’ve stated in multiple work sessions, the City of Fairhope’s current organizational structure for the Finance Department has led to a siloed way of doing business.

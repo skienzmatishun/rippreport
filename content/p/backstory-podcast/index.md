@@ -1,7 +1,7 @@
 ---
 title: "BACKSTORY PODCAST"
 date: 2019-09-06
-thumbnail: "backstory-podcast.jpg"
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - freaky-friday
 authors: 
