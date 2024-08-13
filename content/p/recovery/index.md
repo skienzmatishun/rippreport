@@ -1,6 +1,7 @@
 ---
 title: "RECOVERY"
 date: 2018-07-25
+thumbnail: "img/recovery.jpg"
 categories: 
   - wonderful-wednesday
 authors: 

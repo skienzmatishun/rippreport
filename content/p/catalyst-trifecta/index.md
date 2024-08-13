@@ -1,7 +1,7 @@
 ---
 title: "CATALYST TRIFECTA"
 date: 2018-07-10
-thumbnail: "img/catalyst-trifecta.jpg"
+thumbnail: "img/catalyst.jpg"
 categories: 
   - terrible-tuesday
 tags: 
