@@ -1,13 +1,14 @@
 ---
 title: "Ethical Recusal"
 date: 2021-10-31
+youtube: "Gj1hdAb3nIc"
 categories: 
   - backstory-podcast
 authors: 
   - admin
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gj1hdAb3nIc" frameborder="0" allowfullscreen></iframe>
+
 
 "The Ivey Gambit", playing to the base related to an Executive Order against Biden's vaccine mandate- and all the grandstanders want a shot at this one.
 

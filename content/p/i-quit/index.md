@@ -1,7 +1,7 @@
 ---
 title: "I QUIT"
 date: 2021-02-26
-thumbnail: "img/the-fairhope-jester.jpg"
+thumbnail: "img/i-quit.jpg"
 categories: 
   - freaky-friday
 tags: 
