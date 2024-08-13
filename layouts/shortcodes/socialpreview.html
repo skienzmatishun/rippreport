@@ -26,8 +26,8 @@
                {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
            {{- end -}}
 
-           {{- /* Additional modification for specific resize */ -}}
-           {{- $image = replaceRE `\?resize=720%2C479` "?resize=400%2C266" $image -}}
+           {{- /* Additional modification for specific resize and crop removal*/ -}}
+           {{- $image = replaceRE `(\?resize=720%2C479|&crop=1920%2C1008%2C0%2C35)` "?resize=400%2C266" $image -}}
 
            <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
            <h2>
@@ -87,5 +87,3 @@
        </a>
    </div>
 {{- else -}}
-   <a href="{{ $url }}">{{ $url }}</a>
-{{- end -}}
