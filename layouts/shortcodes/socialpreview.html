@@ -40,7 +40,7 @@
                {{- $matches := findRE `\?resize=(\d+)%2C(\d+)` $image -}}
                {{- $width := int (index $matches 1) -}}
                {{- $height := int (index $matches 2) -}}
-               {{- if lt $width 400 -}}
+               {{- if and (gt $width 0) (lt $width 400) -}}
                    {{- $newHeight := div (mul $height 400) $width | int -}}
                    {{- $image = replaceRE `\?resize=\d+%\2C\d+` (printf "?resize=400%2C%d" $newHeight) $image -}}
                {{- end -}}
