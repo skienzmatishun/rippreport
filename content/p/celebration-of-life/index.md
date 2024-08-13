@@ -1,6 +1,7 @@
 ---
 title: "CELEBRATION OF LIFE"
 date: 2022-09-12
+thumbnail: "img/CAROLYN-AMICK.jpg"
 categories: 
   - none
 authors: 
