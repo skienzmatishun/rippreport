@@ -19,32 +19,35 @@
        <a href="{{ $json.url }}">
            {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
 
-           {{- /* Apply all image modifications in one go only if $json.image is not empty */ -}}
-           {{- if and $json.image (findRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image) -}}
-               {{- $matches := findRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image -}}
-               {{- $imagePath := index $matches 1 -}}
-               {{- $imageParams := index $matches 2 -}}
-               {{- $hasResize720x479 := findRE `resize=720%2C479` $imageParams -}}
-               {{- $hasCrop := findRE `crop=1920%2C1008%2C0%2C35` $imageParams -}}
-               {{- if or $hasResize720x479 $hasCrop -}}
-                   {{- $image = print $imagePath "?resize=400%2C266" -}}
-               {{- else -}}
-                   {{- $image = print $imagePath "?crop=1920%2C1008%2C0%2C35&resize=400%2C210&order=crop%2Cresize" -}}
+           {{- /* Apply image modifications only if $json.image is not empty */ -}}
+           {{- if $json.image -}}
+               {{- /* Apply all image modifications in one go */ -}}
+               {{- if findRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image -}}
+                   {{- $matches := findRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image -}}
+                   {{- $imagePath := index $matches 1 -}}
+                   {{- $imageParams := index $matches 2 -}}
+                   {{- $hasResize720x479 := findRE `resize=720%2C479` $imageParams -}}
+                   {{- $hasCrop := findRE `crop=1920%2C1008%2C0%2C35` $imageParams -}}
+                   {{- if or $hasResize720x479 $hasCrop -}}
+                       {{- $image = print $imagePath "?resize=400%2C266" -}}
+                   {{- else -}}
+                       {{- $image = print $imagePath "?crop=1920%2C1008%2C0%2C35&resize=400%2C210&order=crop%2Cresize" -}}
+                   {{- end -}}
+               {{- else if strings.HasPrefix $image "https://rippreport.com/" -}}
+                   {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
                {{- end -}}
-           {{- else if and $json.image (strings.HasPrefix $image "https://rippreport.com/") -}}
-               {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
-           {{- end -}}
 
-           {{- /* Ensure minimum width of 400 while maintaining aspect ratio (if not already modified) */ -}}
-           {{- if and $json.image (findRE `\?resize=(\d+)%2C(\d+)` $image) -}}
-               {{- $matches := findRE `\?resize=(\d+)%2C(\d+)` $image -}}
-               {{- $width := int (index $matches 1) -}}
-               {{- $height := int (index $matches 2) -}}
-               {{- if and (gt $width 0) (lt $width 400) -}}
-                   {{- $newHeight := div (mul $height 400) $width | int -}}
-                   {{- $image = replaceRE `\?resize=\d+%\2C\d+` (printf "?resize=400%2C%d" $newHeight) $image -}}
+               {{- /* Ensure minimum width of 400 while maintaining aspect ratio (if not already modified) */ -}}
+               {{- if findRE `\?resize=(\d+)%2C(\d+)` $image -}}
+                   {{- $matches := findRE `\?resize=(\d+)%2C(\d+)` $image -}}
+                   {{- $width := int (index $matches 1) -}}
+                   {{- $height := int (index $matches 2) -}}
+                   {{- if and (gt $width 0) (lt $width 400) -}}
+                       {{- $newHeight := div (mul $height 400) $width | int -}}
+                       {{- $image = replaceRE `\?resize=\d+%\2C\d+` (printf "?resize=400%2C%d" $newHeight) $image -}}
+                   {{- end -}}
                {{- end -}}
-           {{- end -}}
+           {{- end -}} {{- /* End of $json.image check */ -}}
 
            <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
            <h2>
@@ -91,7 +94,8 @@
                    <img loading="lazy"  style="height:95px;width:200px;max-width:100%;" src="https://rippreport.com/img/the-ringer-logo.png" alt="The Ringer Logo">
                    <br> {{ $json.title }}
                {{- else if eq $baseURL "www.altoday.com" -}}
-                   <img loading="lazy"  style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
+                   <img loading="lazy"
+style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
                    <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
                {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                    {{ $json.title }}
