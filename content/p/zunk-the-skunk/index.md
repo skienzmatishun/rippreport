@@ -1,7 +1,7 @@
 ---
 title: "ZUNK THE SKUNK"
 date: 2018-06-22
-thumbnails: "img/zunk.jpg"
+thumbnail: "img/zunk.jpg"
 categories: 
   - elections
 authors: 
