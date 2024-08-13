@@ -1,6 +1,8 @@
 ---
-title: "Backstory Podcast No. 75 A Year of Plague"
+title: "A Year of Plague"
 date: 2021-03-19
+youtube: "Di-bGbcEBM4"
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - backstory-podcast
 tags: 
@@ -39,5 +41,3 @@ Governor Cuomo now has a sixth woman accusing him of inappropriate sexual activi
 The Ripp Report and Lagniappe were replete with quality stories from the Fairhope Council appointment without Citizen Input; revelations in the Johnathan Victor police officer involved shooting, mandatory diversity training at the University of South Alabama (as a parlay related to the BS picture of a nimrod staff member in Confederate Uniform).
 
 The public intoxication appeal from Fairhope Municipal Court will be heard by Judge Clarke Stankoski on Tuesday (2018 incident). The Assault Charges related to the injuries sustained by Paula DiNardi were dismissed because the original pleading/charging document was defective (or sabotaged or worse).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Di-bGbcEBM4" frameborder="0" allowfullscreen></iframe>

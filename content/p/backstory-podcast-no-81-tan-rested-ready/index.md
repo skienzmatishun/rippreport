@@ -1,6 +1,7 @@
 ---
 title: "Tan Rested & Ready"
 date: 2021-05-03
+youtube: "aRsdPzQ0kpc"
 categories: 
   - backstory-podcast
 tags: 
@@ -16,8 +17,6 @@ tags:
 authors: 
   - admin
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRsdPzQ0kpc" frameborder="0" allowfullscreen></iframe>
 
 Texas had a milestone this week with 50,000 deaths contributed to the SARS-COV-2 Pandemic.
 

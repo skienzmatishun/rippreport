@@ -1,6 +1,7 @@
 ---
 title: "Backstory Podcast No 54 Trump Positive"
 date: 2020-10-03
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - backstory-podcast
 tags: 

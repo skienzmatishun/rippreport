@@ -1,6 +1,7 @@
 ---
 title: "MERRY CHRISTMAS"
 date: 2019-12-21
+thumbnail: "img/merry-christmas.jpg"
 categories: 
   - freaky-friday
 authors: 

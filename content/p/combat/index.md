@@ -1,6 +1,7 @@
 ---
 title: "COMBAT"
 date: 2019-12-06
+thumbnail: "img/combat.jpg"
 categories: 
   - freaky-friday
 authors: 

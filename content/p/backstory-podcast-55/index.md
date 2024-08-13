@@ -1,6 +1,7 @@
 ---
 title: "BACKSTORY PODCAST 55"
 date: 2020-10-12
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - backstory-podcast
 tags: 

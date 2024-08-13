@@ -1,6 +1,7 @@
 ---
-title: "BACKSTORY PODCAST - SENATE IMPEACHMENT"
+title: "SENATE IMPEACHMENT"
 date: 2021-02-13
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - backstory-podcast
 tags: 

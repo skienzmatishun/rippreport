@@ -1,6 +1,7 @@
 ---
 title: "BACKSTORY PODCAST #11"
 date: 2019-11-15
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - freaky-friday
   - podcast

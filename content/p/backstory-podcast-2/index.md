@@ -1,8 +1,8 @@
 ---
 title: "BACKSTORY PODCAST"
 date: 2020-01-17
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
-  - freaky-friday
   - podcast
 authors: 
   - admin

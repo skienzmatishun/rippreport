@@ -1,6 +1,7 @@
 ---
 title: "Backstory Podcast No 65 Happy New Year Goodbye 2020"
 date: 2021-01-02
+thumbnail: "img/backstory-podcast.jpg"
 categories: 
   - backstory-podcast
 tags: 

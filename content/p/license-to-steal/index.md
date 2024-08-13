@@ -1,7 +1,7 @@
 ---
 title: "LICENSE TO STEAL"
 date: 2021-07-28
-thumbnails: "img/license-to-steal.jpg"
+thumbnail: "img/license-to-steal.jpg"
 categories: 
   - ethics
 authors: 
