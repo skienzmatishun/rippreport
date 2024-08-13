@@ -1,7 +1,7 @@
 ---
 title: "THE FAIRHOPE JESTER"
 date: 2018-02-23
-thumbnail: "img/fairhope-jester.jpg"
+thumbnail: "img/the-jester.jpg"
 categories: 
   - ethics
 tags: 
@@ -26,7 +26,7 @@ Mr. Brown told the Board of ESAC that he had “permission”, in all his capaci
 
 Mr Brown asked for an Informal Opinion, the first step prior to the Request for an Advisory opinion which was never given.
 
-\[embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2018/02/brown-1.pdf" download="all"\]
+embeddoc url="https://cdn.rippreport.com/wp-content/uploads/2018/02/brown-1.pdf
 
 > Thanks Mr Brown.
 > 
@@ -46,32 +46,14 @@ Below is Mr Brown’s attempt to mislead you
 
 Spoken by a developer and proud member of the Catalyst clan. Deny the obvious blame the Mayor and pretend you know nothing of the infrastructure report. Truth hell! Mr. Brown is delusional and is trying to blame others for the inaction's of the council. Sounds as if Pittman Brown may have anticipated building the Tatumville project.
 
-<div class="link-preview">
+{{< socialpreview url="http://www.al.com/news/mobile/index.ssf/2017/06/in_alabamas_fastest_growing_ci.html" >}}
 
-## In Alabama's fastest growing city, another 3 months added to a lengthy freeze on large developments
 
-### In Alabama's fastest growing city, another 3 months added to a lengthy freeze on large developments
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/22905236-standard.jpg)
-
-“At least one council member believes the city hasn't done enough with the breathing space afforded by the moratorium. Robert Brown said that those most affected by the moratorium - developers, engineers and architects - haven't been contacted by anyone with the city, nor have they been included in discussions.”
-
-"These are the people who are going to be applying to (build) subdivisions. They need to be given a voice," he said. Brown voted to support the longer moratorium, but said he harbored doubts that "anything will be achieved."
-
-Source: [www.al.com/news/mobile/index.ssf/2017/06/in\_alabamas\_fastest\_growing\_ci.html](http://www.al.com/news/mobile/index.ssf/2017/06/in_alabamas_fastest_growing_ci.html)
-
-</div>
 Mr Brown’s concern is the developers and praised Aurther Corte and the Fly Creek Apartments.
 
 Mr. Brown has also developed houses that should have been connected to city sewer instead the owners inherited an additional cost, for the lifetime of their house, grinder pumps and all the headache that comes with them.
 
-## GRINDER PUMPS
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/grinderpump-11.jpg)
-
-Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily. Developers love them because it saves them money in construction and the poor consumer, most…
-
-Source: [rippreport.com/2018/02/02/grinder-pumps/](https://rippreport.com/grinder-pumps/)
+{{< socialpreview url="https://rippreport.com/p/grinder-pumps/" >}}
 
 Mayor’s response:
 
@@ -80,5 +62,3 @@ Mayor’s response:
 IT AIN’T THE MAYOR
 
 If you believe the Jester you would fail 10th grade civics and you do not comprehend The Public Doctrine you are also the Jesters fool.
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/02/robjester-300x1691.jpg)
