@@ -20,6 +20,8 @@
            {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
            {{- if strings.HasPrefix $image "https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com" -}}
                {{- $image = replaceRE `\?.*` "?crop=1920%2C1008%2C0%2C35&resize=400%2C210&order=crop%2Cresize" $image -}}
+           {{- else if strings.HasPrefix $image "https://rippreport.com/" -}}
+               {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
            {{- end -}}
            <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
            <h2>
