@@ -4,87 +4,89 @@
 {{- $json := getJSON $workerURL -}}
 
 {{- if and (isset $json "error") (strings.HasPrefix $json.error "[Error] https://rippreport.com") (strings.Contains $json.error "404") -}}
-   {{- $parsedURL := urls.Parse $url -}}
-   {{- if eq $parsedURL.Host "rippreport.com" -}}
-       {{- $newURL := print "rippreport.com/p" $parsedURL.Path -}}
-       {{- $workerURL := (print "https://links.rippreport.com?q=" $newURL) -}}
-       {{- $json := getJSON $workerURL -}}
-   {{- end -}}
+  {{- $parsedURL := urls.Parse $url -}}
+  {{- if eq $parsedURL.Host "rippreport.com" -}}
+      {{- $newURL := print "rippreport.com/p" $parsedURL.Path -}}
+      {{- $workerURL := (print "https://links.rippreport.com?q=" $newURL) -}}
+      {{- $json := getJSON $workerURL -}}
+  {{- end -}}
 {{- end -}}
 
 {{- if $json.url -}}
-   {{- $parsedURL := urls.Parse $url -}}
-   {{- $baseURL := $parsedURL.Host -}}
-   <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
-       <a href="{{ $json.url }}">
-           {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
+  {{- $parsedURL := urls.Parse $url -}}
+  {{- $baseURL := $parsedURL.Host -}}
+  <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
+      <a href="{{ $json.url }}">
+          {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
 
-           {{- /* Apply all image modifications in one go */ -}}
-           {{- if matchRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image -}}
-               {{- $imagePath := index (matchRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image) 1 -}}
-               {{- $imageParams := index (matchRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image) 2 -}}
-               {{- $hasResize720x479 := findRE `resize=720%2C479` $imageParams -}}
-               {{- $hasCrop := findRE `crop=1920%2C1008%2C0%2C35` $imageParams -}}
-               {{- if or $hasResize720x479 $hasCrop -}}
-                   {{- $image = print $imagePath "?resize=400%2C266" -}}
-               {{- else -}}
-                   {{- $image = print $imagePath "?crop=1920%2C1008%2C0%2C35&resize=400%2C210&order=crop%2Cresize" -}}
-               {{- end -}}
-           {{- else if strings.HasPrefix $image "https://rippreport.com/" -}}
-               {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
-           {{- end -}}
+          {{- /* Apply all image modifications in one go */ -}}
+          {{- if findRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image -}}
+              {{- $matches := findRE `^(https://bloximages\.chicago2\.vip\.townnews\.com/lagniappemobile\.com/.+)\?(.*)` $image -}}
+              {{- $imagePath := index $matches 1 -}}
+              {{- $imageParams := index $matches 2 -}}
+              {{- $hasResize720x479 := findRE `resize=720%2C479` $imageParams -}}
+              {{- $hasCrop := findRE `crop=1920%2C1008%2C0%2C35` $imageParams -}}
+              {{- if or $hasResize720x479 $hasCrop -}}
+                  {{- $image = print $imagePath "?resize=400%2C266" -}}
+              {{- else -}}
+                  {{- $image = print $imagePath "?crop=1920%2C1008%2C0%2C35&resize=400%2C210&order=crop%2Cresize" -}}
+              {{- end -}}
+          {{- else if strings.HasPrefix $image "https://rippreport.com/" -}}
+              {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
+          {{- end -}}
 
-           {{- /* Ensure minimum width of 400 while maintaining aspect ratio (if not already modified) */ -}}
-           {{- if findRE `\?resize=(\d+)%2C(\d+)` $image -}}
-               {{- $width := int (index (findRE `\?resize=(\d+)%2C(\d+)` $image) 1) -}}
-               {{- $height := int (index (findRE `\?resize=(\d+)%2C(\d+)` $image) 2) -}}
-               {{- if lt $width 400 -}}
-                   {{- $newHeight := div (mul $height 400) $width | int -}}
-                   {{- $image = replaceRE `\?resize=\d+%\2C\d+` (printf "?resize=400%2C%d" $newHeight) $image -}}
-               {{- end -}}
-           {{- end -}}
+          {{- /* Ensure minimum width of 400 while maintaining aspect ratio (if not already modified) */ -}}
+          {{- if findRE `\?resize=(\d+)%2C(\d+)` $image -}}
+              {{- $matches := findRE `\?resize=(\d+)%2C(\d+)` $image -}}
+              {{- $width := int (index $matches 1) -}}
+              {{- $height := int (index $matches 2) -}}
+              {{- if lt $width 400 -}}
+                  {{- $newHeight := div (mul $height 400) $width | int -}}
+                  {{- $image = replaceRE `\?resize=\d+%\2C\d+` (printf "?resize=400%2C%d" $newHeight) $image -}}
+              {{- end -}}
+          {{- end -}}
 
-           <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
-           <h2>
-               {{- if eq $baseURL "www.lagniappemobile.com" -}}
-                   {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "www.al.com" -}}
-                   {{ partial "svg/alcom.svg" (dict "id" "alcom") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "mynbc15.com" -}}
-                   {{ partial "svg/wpmi-logo.svg" (dict "id" "wpmi channel 15 news") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "weartv.com" -}}
-                   {{ partial "svg/wear-logo.svg" (dict "id" "WearTV news") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "1819news.com" -}}
-                   {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "rippreport.com" -}}
-                   {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "www.fox10tv.com" -}}
-                   {{ partial "svg/wala.svg" (dict "id" "Fox10") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
-                   {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "1819news.com" -}}
-                   {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "gulfcoastmedia.com" -}}
-                   <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
-                   <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
-               {{- else if eq $baseURL "www.gulfcoastnewstoday.com" -}}
-                   <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
-                   <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
-               {{- else if eq $baseURL "www.alreporter.com" -}}
-                   <img loading="lazy"  style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png" alt="AL Reporter logo">
-                   <br> {{ $json.title }}
-               {{- else if eq $baseURL "yellowhammernews.com" -}}
-                   <img loading="lazy"  style="height:32px;width:290px;max-width:100%;" src="https://rippreport.com/img/yellow-hammer-logo.png" alt="Yellow Hammer News Logo">
-                   <br> {{ $json.title | strings.TrimSuffix " - Yellowhammer News"}}
+          <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
+          <h2>
+              {{- if eq $baseURL "www.lagniappemobile.com" -}}
+                  {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "www.al.com" -}}
+                  {{ partial "svg/alcom.svg" (dict "id" "alcom") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "mynbc15.com" -}}
+                  {{ partial "svg/wpmi-logo.svg" (dict "id" "wpmi channel 15 news") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "weartv.com" -}}
+                  {{ partial "svg/wear-logo.svg" (dict "id" "WearTV news") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "1819news.com" -}}
+                  {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "rippreport.com" -}}
+                  {{ partial "svg/eagle-logo-preview.svg" (dict "id" "eagle-logo") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "www.fox10tv.com" -}}
+                  {{ partial "svg/wala.svg" (dict "id" "Fox10") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "www.montgomeryadvertiser.com" -}}
+                  {{ partial "svg/montgomery-advertiser.svg" (dict "id" "montgomeryadvertiser") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "1819news.com" -}}
+                  {{ partial "svg/1819news.svg" (dict "id" "1819 news") }}
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "gulfcoastmedia.com" -}}
+                  <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
+                  <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
+              {{- else if eq $baseURL "www.gulfcoastnewstoday.com" -}}
+                  <img loading="lazy" style="height:36px;width:150px;max-width:100%;min-height:36px;" src="https://rippreport.com/img/gulf-coast-media.png" alt="gulf coast media logo">
+                  <br> {{ $json.title | strings.TrimSuffix "- Gulf Coast Media" }}
+              {{- else if eq $baseURL "www.alreporter.com" -}}
+                  <img loading="lazy"  style="height:46px;width:295px;max-width:100%;" src="https://rippreport.com/img/alreporter.png" alt="AL Reporter logo">
+                  <br> {{ $json.title }}
+              {{- else if eq $baseURL "yellowhammernews.com" -}}
+                  <img loading="lazy"  style="height:32px;width:290px;max-width:100%;" src="https://rippreport.com/img/yellow-hammer-logo.png" alt="Yellow Hammer News Logo">
+                     <br> {{ $json.title | strings.TrimSuffix " - Yellowhammer News"}}
                {{- else if eq $baseURL "theringer.com" -}}
                    <img loading="lazy"  style="height:95px;width:200px;max-width:100%;" src="https://rippreport.com/img/the-ringer-logo.png" alt="The Ringer Logo">
                    <br> {{ $json.title }}
