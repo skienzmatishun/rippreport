@@ -60,21 +60,9 @@ Mayor Karin Wilson
 Fairhope City Council meeting June 25th at 6:00pm
 
 How could anyone not understand what the position of the Mayor is?
-<div class="link-preview">
 
-## HERE COMES THE SKUNK
+{{< socialpreview url="https://www.lagniappemobile.com/news/group-gathering-signatures-for-new-government-in-fairhope/article_eb25f147-5c43-5570-8c7a-6e612c72aff4.html" >}}
 
-## Group gathering signatures for new government in Fairhope (updated) - Lagniappe Mobile
-
-### Group gathering signatures for new government in Fairhope (updated) - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2018/06/CoverP3.jpg)
-
-There’s a grassroots movement underway in Fairhope to adopt a new form of government, but the clock is ticking. During a meeting at the Fairhope Public Library last Thursday, a group calling itself “Fresh Start Fairhope” drew about 150 attendees to discuss a recently enacted law allowing cities of a certain population to adopt a …
-
-Source: [lagniappemobile.com/group-gathering-signatures-for-new-government-in-fairhope/](https://lagniappemobile.com/group-gathering-signatures-for-new-government-in-fairhope/)
-
-</div>
 Zunk the skunk has his own variation of the petition,
 
 “Thanks for your votes on At-Large vs Districts, we had 65 total votes with the majority of 39 (60%) for At-Large, so that's how we will move forward. Many of you included an explanation of your reasoning, which I was very pleased to read. You have done your homework!” ZUNK the SKUNK explained. Zunk the Skunk is not the only skunk in Baldwin county.
