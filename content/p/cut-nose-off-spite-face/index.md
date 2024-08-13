@@ -1,6 +1,7 @@
 ---
 title: "CUT YOUR NOSE OFF TO SPITE YOUR FACE"
 date: 2017-04-21
+thumbnail: "img/cut-your-nose-off-to-spite-your-face.jpg"
 categories: 
   - freaky-friday
 tags: 
@@ -21,13 +22,7 @@ They are pursuing revenge for the good ole boy network that lost the election. W
 
 The mayor is being transparent when she addresses the community and explains the repercussion of the council recent actions. In the coming weeks you are going to be made aware of some facts that will prove just how low Mr. Burrell and Boone are willing to stoop.
 
-## RECUSE YOURSELF
-
-![](https://cdn.rippreport.com/wp-content/uploads/2017/04/ethics1.jpg)
-
-COFAIRHOPE: ATTENTION MAYOR AND COUNCIL Dear Mayor and Council please take your positions seriously and understand that a part of your responsibilities is to discipline yourselves. The Fairhope City Council in the past has ignored...
-
-Source: [rippreport.com/2017/04/19/recuse-yourself/](https://rippreport.com/recuse-yourself/)
+{{< socialpreview url="https://rippreport.com/p/recuse-yourself/" >}}
 
 Fairhope is in reverse:
 

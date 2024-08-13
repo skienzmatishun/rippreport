@@ -1,7 +1,7 @@
 ---
 title: "Fourth of July"
 date: 2017-06-30
-thumbnail: "img/fourth-of-july.jpg"
+thumbnail: "img/4thofjuly.jpg"
 categories: 
   - holiday
 authors: 
