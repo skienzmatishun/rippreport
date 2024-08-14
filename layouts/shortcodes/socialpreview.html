@@ -23,6 +23,8 @@
         {{- $image = $image | replaceRE "(resize=)([0-9]+%2C[0-9]+)" "resize=380%2C200" -}}
     {{- else if strings.HasPrefix $image "https://beta.creativecirclecdn.com/gulfcoast/original/" -}}
         {{- $image = (replace $image "https://beta.creativecirclecdn.com/gulfcoast/original/" "https://beta.creativecirclecdn.com/gulfcoast/medium/") -}}
+         {{- else if strings.HasPrefix $image "https://rippreport.com/" -}}
+               {{- $image = replaceRE `https://rippreport.com/` "https://rippreport.com/cdn-cgi/image/width=431,quality=75,format=auto/" $image -}}
     {{- end -}}
 
     <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
