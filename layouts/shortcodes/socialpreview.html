@@ -19,7 +19,7 @@
     <!-- Check if the image is from the specified domain -->
     {{- $image := $json.image | default "https://rippreport.com/img/placeholder.png" -}}
     {{- if strings.HasPrefix $image "https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com" -}}
-        {{- $image = $image | strings.ReplaceRe "(resize=)([0-9]+%2C[0-9]+)" "resize=380%2C200" 1 -}}
+        {{- $image = $image | replaceRE "(resize=)([0-9]+%2C[0-9]+)" "resize=380%2C200" -}}
     {{- end -}}
 
     <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
