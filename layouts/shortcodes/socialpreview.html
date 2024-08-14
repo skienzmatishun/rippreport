@@ -29,8 +29,7 @@
         {{- $image = $image | replaceRE "width=[0-9]+" "width=380" | replaceRE "quality=[0-9]+" "quality=75" -}}
     {{- else if strings.HasPrefix $image "https://www.montgomeryadvertiser.com/gcdn/-mm-/" -}}
         {{- $image = $image | replaceRE "width=[0-9]+" "width=380" | replaceRE "height=[0-9]+" "height=200" -}}
-    {{- else if strings.HasPrefix $image "https://al-news.transforms.svdcdn.com/production/images/" -}}
-        {{- $image = $image | replaceRE "w=[0-9]+" "w=380" | replaceRE "h=[0-9]+" "h=200" -}}
+
     {{- end -}}
 
     <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
