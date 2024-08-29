@@ -29,7 +29,7 @@ Sheriff Lowery will now catch all the bullshit Mack left behind, and it is piled
 It will also be interesting how the new Sheriff is going to handle complaints within the BCSO involving sexual relations between officers of the department and subordinates. This also includes extra marital affairs that violate BCSO personal behavior. Kinda like the pot calling the kettle black, wouldn't ya say.
 
 
-{{< socialpreview url="https://rippreport.com/p/hanky-panky-at-the-po-po/" >}}
+{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
 
 
 The dirty closet of the sheriff’s office is going to spill out all the unethical behavior under Sheriff Mack. Lowery is going to get the karma Mack deserved. Sheriff Lowery has 2 years before he faces an election. He will be voted out of office.
