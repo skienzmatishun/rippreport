@@ -30,6 +30,18 @@
     <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
         <a href="{{ $json.url }}">
             <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
+                   <div class="ripp-comments" style="
+        height:27.4px;
+        margin-left:.5rem;
+        color:black;
+        width:35px;
+        background-image:url('https://comments.rippreport.pages.dev/img/comments.svg');background-size:cover;margin-top:-35px;
+        margin-top:-35px;
+        box-shadow:black 1px 1px 1px;
+        "
+        >
+        1
+        </div>
             <h2>
                 {{- if eq $baseURL "www.lagniappemobile.com" -}}
                     {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
@@ -88,18 +100,7 @@
             <p>{{ $json.description }}</p>
             <span class="read_more">Read More</span>
         </a>
-        <div class="ripp-comments" style="
-        height:27.4px;
-        margin-left:.5rem;
-        color:black;
-        width:35px;
-        background-image:url('https://comments.rippreport.pages.dev/img/comments.svg');background-size:cover;margin-top:-35px;
-        margin-top:-35px;
-        box-shadow:black 1px 1px 1px;
-        "
-        >
-        1
-        </div>
+
     </div>
 {{- else -}}
     <a href="{{ $url }}">{{ $url }}</a>
