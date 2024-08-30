@@ -76,6 +76,9 @@
                 {{- else if eq $baseURL "www.altoday.com" -}}
                     <img loading="lazy"  style="height:50px;width:85px;" src="https://rippreport.com/img/al_today.png">
                     <br> {{ $json.title | strings.TrimSuffix "altoday.com" }}
+                     {{- else if eq $baseURL "www.facebook.com" -}}
+                    <img loading="lazy"  style="height:150px;width:150px;" src="https://rippreport.com/img/fb.png">
+                    <br> {{ $json.title | strings.TrimSuffix "www.facebook.com" }}
                 {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
                     {{ $json.title }}
                 {{- else -}}
