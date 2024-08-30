@@ -30,7 +30,9 @@
     <div class="social-preview{{- if $noFloat }} sink-preview{{- end }}">
         <a href="{{ $json.url }}">
             <img loading="lazy" src="{{ $image }}" alt="{{ $json.title }}">
-                   <div class="ripp-comments" style="
+
+ {{- if eq $parsedURL.Host "rippreport.com" -}}
+ <div class="ripp-comments" style="
         height:27.4px;
         margin-left:.5rem;
         color:black;
@@ -41,6 +43,7 @@
         >
         1
         </div>
+            {{- end -}}
             <h2>
                 {{- if eq $baseURL "www.lagniappemobile.com" -}}
                     {{ partial "svg/lagniappe.svg" (dict "id" "lagniappe") }}
