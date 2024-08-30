@@ -88,6 +88,9 @@
             <p>{{ $json.description }}</p>
             <span class="read_more">Read More</span>
         </a>
+        <div class="ripp-comments">
+        {{ partial "svg/comments.svg" (dict "id" "comments") }}
+        </div>
     </div>
 {{- else -}}
     <a href="{{ $url }}">{{ $url }}</a>
