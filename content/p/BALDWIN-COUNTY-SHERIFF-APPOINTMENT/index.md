@@ -52,7 +52,7 @@ Robert Yates------An eviction that ended in his death.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/article_0e3724fe-d77d-5fd3-a6dc-9c5c6ada206b.html">}}
 
-“By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
+>“By this time, defendants were dead-set on killing Yates and at or about 6:30 p.m., the decision was made to breach the Yates residence with all of the SWAT team’s firepower, although the situation was not an exigent one, nor was there an emergency, nor had Yates threatened anyone’s life since firing a warning shot inside his home,” it reads. “Based on bullet holes in Yates’ home and shell casings found outside the residence, SWAT team members shot the home up with their military style weapons without probable cause, as Yates had been silent for several hours. There were more than 114 shells/bullet casings, along with tear gas canisters and concussion grenades left at the scene.”
 
 
 Contact the Appointment Board
@@ -70,7 +70,7 @@ Contact the Appointment Board
 Five people were killed in a wrong-way BCSO pursuit on I-10 that reached speeds of 110mph. Three people burned to death and the other two died as a result of the accident.
 
 
-“Roughly 10 months have passed since father and son Joseph L. Andrews, 81, and Kevin J. Andrews, 54, were killed when the Chevy Malibu driven by Dominic Scotti Garcia Jr., 26, smashed into them while being chased by a Baldwin County Sheriff’s Office (BCSO) deputy against traffic on the interstate. But the sheriff’s office has released almost zero information about the accident since just after it happened.”
+>“Roughly 10 months have passed since father and son Joseph L. Andrews, 81, and Kevin J. Andrews, 54, were killed when the Chevy Malibu driven by Dominic Scotti Garcia Jr., 26, smashed into them while being chased by a Baldwin County Sheriff’s Office (BCSO) deputy against traffic on the interstate. But the sheriff’s office has released almost zero information about the accident since just after it happened.”
 
 
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/baldwin-county-sheriff-hoss-mack-is-tight-lipped-in-tragedies/article_7021434f-7c55-5b5d-972d-1985869646af.html" >}}
