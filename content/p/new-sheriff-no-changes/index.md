@@ -38,4 +38,8 @@ The dirty closet of the sheriff’s office is going to spill out all the unethic
 
 STARTS AT 50 SECONDS
 
+<style>
+.cactus-comment:has(.cactus-comment-time[title="Fri Aug 30 00:56:11 2024 UTC"]) {display:none;}
+</style>
+
 {{< chat nsnc >}}
