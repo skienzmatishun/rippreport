@@ -40,6 +40,7 @@ STARTS AT 50 SECONDS
 
 <style>
 .cactus-comment:has(.cactus-comment-time[title="Fri Aug 30 00:56:11 2024 UTC"]) {display:none;}
+.cactus-comment:has(.cactus-comment-time[title="Wed Sep 18 13:31:26 2024 UTC"]) {opacity: 0.62;order: 15;}
 </style>
 
 {{< chat nsnc >}}
