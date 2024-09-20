@@ -14,4 +14,3 @@ Nowhere is the “Haitian Immigrant Eating Cats” debate more front and center 
 
 {{< chat hecats >}}
 
-Comments are temporarily unavailable due to a third party server issue. Check back later.
