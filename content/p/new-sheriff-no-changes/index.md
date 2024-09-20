@@ -44,3 +44,5 @@ STARTS AT 50 SECONDS
 </style>
 
 {{< chat nsnc >}}
+
+Comments are temporarily unavailable due to a third party server issue. Check back later.
