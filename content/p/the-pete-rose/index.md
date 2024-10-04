@@ -1,5 +1,5 @@
 ---
-title: "No 184 The Pete Rose"
+title: "The Pete Rose"
 date: 2024-10-04
 thumbnail: "img/nTNWt.qR4e-small-Backstory-Podcast-No-184-Th.jpg"
 categories:
