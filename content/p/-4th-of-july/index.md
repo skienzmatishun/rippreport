@@ -3,7 +3,7 @@ title: "4th of July"
 date: 2016-07-01
 thumbnail: "img/4thofjuly.jpg"
 categories: 
-  - freaky-friday
+  - holiday
 authors: 
   - ripp-report
 ---
