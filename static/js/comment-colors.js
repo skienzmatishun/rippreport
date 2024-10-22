@@ -6,7 +6,7 @@ function getColorForUsername(username) {
     }
     // Convert hash to a color
     const color = Math.abs(hash % 360); // Get a hue value from 0 to 359
-    return `hsl(${color}, 70%, 80%)`; // Light color
+    return `hsl(${color}, 60%, 70%)`; // Light color
 }
 
 document.querySelectorAll('.cactus-comment').forEach(comment => {
