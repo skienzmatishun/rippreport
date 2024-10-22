@@ -16,7 +16,7 @@ function getColorForUsername(username) {
         hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
     const color = Math.abs(hash % 360); // Get a hue value from 0 to 359
-    return `hsl(${color}, 20%, 97%)`; // Light color
+    return `hsl(${color}, 90%, 10%)`; // Light color
 }
 
 // Function to apply colors to comments
