@@ -1,14 +1,3 @@
-<script type="text/javascript" src="https://rippreport.com/js/cactus.js"></script>
-<div id="comment-section"></div>
-<script>
-initComments({
-  node: document.getElementById("comment-section"),
-  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-  serverName: "cactus.chat",
-  siteName: "rippreport.com",
-  pageSize: 15,
-  commentSectionId: "{{ index .Params 0 }}"
-})
 function getColorForUsername(username) {
     // Use a simple hash function to derive a unique color based on the username
     let hash = 0;
@@ -35,4 +24,3 @@ document.querySelectorAll('.reply-button').forEach(button => {
         replyContainer.style.display = replyContainer.style.display === 'none' ? 'block' : 'none';
     });
 });
-</script>
