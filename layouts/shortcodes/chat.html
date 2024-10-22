@@ -10,7 +10,6 @@ initComments({
   commentSectionId: "{{ index .Params 0 }}"
 })
 // Function to generate a unique color based on the username
-// Function to generate a unique color based on the username
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
@@ -52,8 +51,16 @@ if (commentsContainer) {
     observer.observe(commentsContainer, { childList: true, subtree: true });
 }
 
-// Set a timeout to ensure colors are applied after a delay
-setTimeout(applyCommentColors, 8000); // Adjust the delay as necessary
+// Function to apply colors after initial delay, and then again after another 8000ms
+function delayedColorApplication() {
+    setTimeout(() => {
+        applyCommentColors(); // First application after 8000ms
+        setTimeout(applyCommentColors, 5000); // Second application after another 8000ms
+    }, 3000);
+}
+
+// Start the color application process
+delayedColorApplication();
 
 // Create a Mutation Observer for detecting when the button is added to the DOM
 const buttonObserver = new MutationObserver(mutations => {
