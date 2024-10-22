@@ -54,5 +54,14 @@ if (commentsContainer) {
 // Set a timeout to ensure colors are applied after a delay
 setTimeout(applyCommentColors, 3000); // Adjust the delay as necessary
 
+// Add an event listener to the button to reapply colors on click
+const cactusButton = document.querySelector('.cactus-button');
+if (cactusButton) {
+    cactusButton.addEventListener('click', () => {
+        // Reapply colors whenever the button is clicked
+        applyCommentColors();
+    });
+}
+
 
 </script>
