@@ -16,7 +16,11 @@ function getColorForUsername(username) {
         hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
     const color = Math.abs(hash % 360); // Get a hue value from 0 to 359
-    return `hsl(${color}, 90%, 97%)`; // Light color
+
+    // Generate a random lightness value between 70% and 90%
+    const lightness = Math.floor(Math.random() * 20) + 70; // Lightness will range from 70% to 90%
+
+    return `hsl(${color}, 90%, ${lightness}%)`; // Light color with random brightness
 }
 
 // Function to apply colors to comments
@@ -27,9 +31,9 @@ function applyCommentColors() {
 
         // Check if the username exists before applying the color
         if (username) {
-            // Generate and set the background color based on the username
-            const backgroundColor = getColorForUsername(username);
-            comment.style.backgroundColor = backgroundColor;
+            // Generate and set the border-left color based on the username
+            const borderColor = getColorForUsername(username);
+            comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
         }
     });
 }
@@ -58,12 +62,13 @@ setTimeout(applyCommentColors, 3000); // Adjust the delay as necessary
 const cactusButton = document.querySelector('.cactus-button');
 if (cactusButton) {
     cactusButton.addEventListener('click', () => {
-        // Add a delay of 1 second (1000 milliseconds) before reapplying colors
+        // Add a delay of 30 seconds (30000 milliseconds) before reapplying colors
         setTimeout(() => {
             applyCommentColors();
         }, 30000);
     });
 }
+
 
 
 
