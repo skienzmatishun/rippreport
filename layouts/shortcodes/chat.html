@@ -16,11 +16,7 @@ function getColorForUsername(username) {
         hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
     const color = Math.abs(hash % 360); // Get a hue value from 0 to 359
-
-    // Generate a random lightness value between 70% and 90%
-    const lightness = Math.floor(Math.random() * 20) + 70; // Lightness will range from 70% to 90%
-
-    return `hsl(${color}, 90%, ${lightness}%)`; // Light color with random brightness
+    return `hsl(${color}, 90%, 97%)`; // Light color
 }
 
 // Function to apply colors to comments
