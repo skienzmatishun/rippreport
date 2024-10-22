@@ -272,6 +272,11 @@ width: 292px
 
 }
 
+:root {
+    --cactus-border-radius:5px;
+    --cactus-border-color:transparent;
+
+}
 
 @keyframes fadeIn {
     to {
