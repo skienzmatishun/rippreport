@@ -51,4 +51,8 @@ if (commentsContainer) {
     observer.observe(commentsContainer, { childList: true, subtree: true });
 }
 
+// Set a timeout to ensure colors are applied after a delay
+setTimeout(applyCommentColors, 3000); // Adjust the delay as necessary
+
+
 </script>
