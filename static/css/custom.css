@@ -273,6 +273,7 @@ width: 292px
 }
 .cactus-comment {
     border-block-end:transparent !important;
+    box-shadow:#0000008F 0px 0px 1px !important;
 }
 :root {
     --cactus-border-radius:5px;
