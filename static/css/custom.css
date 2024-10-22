@@ -254,7 +254,6 @@ width: 292px
 
 .cactus-comment {
     padding:.5rem !important;
-    border-radius:5px;
 }
 
 .preview_ripp {
@@ -276,7 +275,6 @@ width: 292px
     box-shadow:#0000008F 0px 0px 1px !important;
 }
 :root {
-    --cactus-border-radius:5px;
     --cactus-border-width:0;
 
 }
