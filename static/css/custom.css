@@ -274,7 +274,7 @@ width: 292px
 
 :root {
     --cactus-border-radius:5px;
-    --cactus-border-color:transparent;
+    --cactus-border-width:0;
 
 }
 
