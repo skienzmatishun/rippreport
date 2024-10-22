@@ -251,8 +251,10 @@ width: 292px
     animation: fadeIn .5s ease-in forwards;
     animation-delay: 4s;
 }
-.bsp_container {
 
+.cactus-comment {
+    padding:.5rem !important;
+    border-radius:5px;
 }
 
 .preview_ripp {
