@@ -52,7 +52,7 @@ if (commentsContainer) {
 }
 
 // Set a timeout to ensure colors are applied after a delay
-setTimeout(applyCommentColors, 50000); // Adjust the delay as necessary
+setTimeout(applyCommentColors, 30000); // Adjust the delay as necessary
 
 // Add an event listener to the button to reapply colors on click
 const cactusButton = document.querySelector('.cactus-button');
@@ -61,7 +61,7 @@ if (cactusButton) {
         // Add a delay of 30 seconds (30000 milliseconds) before reapplying colors
         setTimeout(() => {
             applyCommentColors();
-        }, 30000);
+        }, 10000);
     });
 }
 
