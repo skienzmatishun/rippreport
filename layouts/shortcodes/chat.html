@@ -9,30 +9,46 @@ initComments({
   pageSize: 15,
   commentSectionId: "{{ index .Params 0 }}"
 })
+// Function to generate a unique color based on the username
 function getColorForUsername(username) {
-    // Use a simple hash function to derive a unique color based on the username
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
         hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
-    // Convert hash to a color
     const color = Math.abs(hash % 360); // Get a hue value from 0 to 359
     return `hsl(${color}, 70%, 80%)`; // Light color
 }
 
-document.querySelectorAll('.cactus-comment').forEach(comment => {
-    const displayNameLink = comment.querySelector('.cactus-comment-displayname');
-    const username = displayNameLink.href.split('/').pop(); // Extract username from link
+// Function to apply colors to comments
+function applyCommentColors() {
+    document.querySelectorAll('.cactus-comment').forEach(comment => {
+        const displayNameLink = comment.querySelector('.cactus-comment-displayname');
+        const username = displayNameLink.href.split('/').pop(); // Extract username from link
 
-    // Generate and set the background color based on the username
-    const backgroundColor = getColorForUsername(username);
-    comment.style.backgroundColor = backgroundColor;
-});
-
-document.querySelectorAll('.reply-button').forEach(button => {
-    button.addEventListener('click', function() {
-        const replyContainer = this.nextElementSibling; // Get the reply container
-        replyContainer.style.display = replyContainer.style.display === 'none' ? 'block' : 'none';
+        // Check if the username exists before applying the color
+        if (username) {
+            // Generate and set the background color based on the username
+            const backgroundColor = getColorForUsername(username);
+            comment.style.backgroundColor = backgroundColor;
+        }
     });
+}
+
+// Create a Mutation Observer to watch for changes in the comments container
+const commentsContainer = document.querySelector('.cactus-comments-list');
+
+const observer = new MutationObserver(mutations => {
+    for (const mutation of mutations) {
+        if (mutation.addedNodes.length) {
+            // New comments have been added, apply colors
+            applyCommentColors();
+        }
+    }
 });
+
+// Start observing the comments container for child node changes
+if (commentsContainer) {
+    observer.observe(commentsContainer, { childList: true, subtree: true });
+}
+
 </script>
