@@ -10,6 +10,7 @@ initComments({
   commentSectionId: "{{ index .Params 0 }}"
 })
 // Function to generate a unique color based on the username
+// Function to generate a unique color based on the username
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
@@ -52,18 +53,28 @@ if (commentsContainer) {
 }
 
 // Set a timeout to ensure colors are applied after a delay
-setTimeout(applyCommentColors, 10000); // Adjust the delay as necessary
+setTimeout(applyCommentColors, 8000); // Adjust the delay as necessary
 
-// Add an event listener to the button to reapply colors on click
-const cactusButton = document.querySelector('.cactus-button');
-if (cactusButton) {
-    cactusButton.addEventListener('click', () => {
-        // Add a delay of 30 seconds (30000 milliseconds) before reapplying colors
-        setTimeout(() => {
-            applyCommentColors();
-        }, 15000);
+// Create a Mutation Observer for detecting when the button is added to the DOM
+const buttonObserver = new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+        mutation.addedNodes.forEach(node => {
+            if (node.classList && node.classList.contains('cactus-button')) {
+                // Button found, add the event listener
+                node.addEventListener('click', () => {
+                    setTimeout(() => {
+                        applyCommentColors();
+                    }, 15000);
+                });
+                // Once button is found and listener added, disconnect observer
+                buttonObserver.disconnect();
+            }
+        });
     });
-}
+});
+
+// Start observing the document for the addition of the button
+buttonObserver.observe(document.body, { childList: true, subtree: true });
 
 
 
