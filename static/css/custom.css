@@ -148,15 +148,26 @@ nav.pager.flex {
 }
 
 .list__footer-readmore {
-    margin-bottom: 40px;
-    background: transparent;
-    font-family: "Bungee Tint", sans-serif;
-    font-size:2.5rem;
+    margin-bottom: 0px;
+    font-size:1.5rem;
     width:100%;
 }
 
+.bcso__post {
+    background: radial-gradient(circle, rgb(255, 255, 255) 49%, rgb(0, 0, 0) 75%);
+}
+.bcso__post div.list__footer.clearfix a.list__footer-readmore.btn {
+    background: transparent;
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size:1.5rem;
+    margin:auto;
+}
+
 .backstory__btn {
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC', cursive !important;
     font-size: 2rem;
     background-color: #5083df !important;
     color: #000 !important
@@ -300,7 +311,7 @@ background-color:
     margin: 15px auto auto;
     width: 275px;
     float: none;
-    font-size:2.5rem !important;
+    font-size:2.5rem;
 }
 .read_more {
     display:block !important;
