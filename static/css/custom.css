@@ -54,7 +54,9 @@ blockquote {
 
 .backstory__header,
 .backstory__widget__item {
-    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%) !important;
+
+    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(92,92,92,1) 48%, rgba(122,122,122,1) 100%) !important;
+
 }
 
 nav.pager.flex {
