@@ -167,7 +167,7 @@ nav.pager.flex {
 }
 
 .backstory__btn {
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC', cursive !important;
     font-size: 2rem;
     background-color: #5083df !important;
     color: #000 !important
