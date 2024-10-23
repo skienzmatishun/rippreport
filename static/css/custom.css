@@ -132,6 +132,7 @@ nav.pager.flex {
     font-style: normal;
     font-size:1.5rem;
     margin:auto;
+        transition: all .25s ease-out;
 }
 
 .bcso__post div.list__footer.clearfix a.list__footer-readmore.btn:hover {
