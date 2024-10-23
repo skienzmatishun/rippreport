@@ -19,6 +19,7 @@ blockquote {
     background: #232222;
     max-height: 125px
 }
+
 .link-preview,
 .link-preview h2,
 .link-preview img {
@@ -49,10 +50,7 @@ blockquote {
     position: relative !important
 }
 
-.dwtd header.list__header,
-.dwtd__widget__item {
-    background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important
-}
+
 
 .backstory__header,
 .backstory__widget__item {
@@ -109,43 +107,9 @@ nav.pager.flex {
 
 .backstory__article,
 .backstory__primary {
-    background: #dae5f8 !important
+    background: #e0e0e0 !important
 }
 
-.dwtd__article,
-.dwtd__primary {
-    background: #333 !important
-}
-
-.dwtd__header {
-    background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000) !important;
-    position: relative
-}
-
-.dwtd__link,
-.dwtd__post-link {
-    background-repeat: no-repeat;
-    background-size: 50px;
-    position: absolute;
-    height: 50px;
-    content: "";
-    width: 50px;
-    display:none;
-}
-
-.dwtd__link {
-    top: 30px;
-    left: 10px
-}
-
-.dwtd__post-link {
-    top: 10px;
-    right: 10px
-}
-
-.post__content.dwtd-wrapper h3 {
-    color: #fff
-}
 
 .list__footer-readmore {
     margin-bottom: 0px;
@@ -376,6 +340,7 @@ background-color:
     font-family: 'Amatic SC', cursive !important;
     font-size: 70px;
     background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
+    color:#000;
 }
 
 .btn {
@@ -769,7 +734,8 @@ blockquote {
 }
 
 .backstory__article article.post header.post__header {
-    background: #5083df
+background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
+color:#000;
 }
 
 .post__title {
@@ -847,11 +813,12 @@ h1.post__title {
 h2.backstory__title {
     background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
     border: none
+    color:#000;
 }
 
 .backstory__post .list__header {
-    background: #5083df;
-    color: #000;
+background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
+color: #000;
     box-shadow: none;
     transform: none
 }
