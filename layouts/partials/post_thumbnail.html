@@ -44,8 +44,9 @@
       <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
         <figure class="thumbnail">
           {{- if $thumbnail }}
-            <div class="thumbnail__video" >
-              <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+            <div class="thumbnail__video">
+              <!-- Updated src with Cloudflare image optimization -->
+              <img class="thumbnail__image" src="/cdn-cgi/image/width=1000,quality=75,format=auto/{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
             </div>
           {{- end }}
         </figure>
