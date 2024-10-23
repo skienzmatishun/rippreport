@@ -249,7 +249,7 @@ background-color:
 }
 
 .btn:hover {
-    background: #4c4c4c
+    background: transparent;
 }
 
 .bsp_iframe {
