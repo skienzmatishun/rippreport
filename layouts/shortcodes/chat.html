@@ -9,26 +9,16 @@ initComments({
   pageSize: 15,
   commentSectionId: "{{ index .Params 0 }}"
 })
-// Store previously used hues to avoid similar colors
-let usedHues = [];
-
-// Function to generate a unique color based on the username
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
         hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
-    let hue = Math.abs(hash % 360); // Get a hue value from 0 to 359
 
-    // Check if the hue is too close to any previously used hue
-    while (usedHues.some(usedHue => Math.abs(usedHue - hue) < 30)) {
-        hue = (hue + 30) % 360; // Adjust the hue by 30 degrees and loop around if necessary
-    }
-
-    // Add this hue to the list of used hues
-    usedHues.push(hue);
-
-    return `hsl(${hue}, 70%, 80%)`; // Light color with consistent saturation and lightness
+    // Multiply hash by a prime number to spread out the colors
+    const primeMultiplier = 31;
+    const color = Math.abs((hash * primeMultiplier) % 360); // Get a hue value from 0 to 359
+    return `hsl(${color}, 70%, 80%)`; // Light color
 }
 
 // Function to apply colors to comments
@@ -67,8 +57,8 @@ if (commentsContainer) {
 function delayedColorApplication() {
     setTimeout(() => {
         applyCommentColors(); // First application after 8000ms
-        setTimeout(applyCommentColors, 8000); // Second application after another 8000ms
-    }, 8000);
+        setTimeout(applyCommentColors, 5000); // Second application after another 8000ms
+    }, 3000);
 }
 
 // Start the color application process
@@ -83,7 +73,7 @@ const buttonObserver = new MutationObserver(mutations => {
                 node.addEventListener('click', () => {
                     setTimeout(() => {
                         applyCommentColors();
-                    }, 15000);
+                    }, 2000);
                 });
                 // Once button is found and listener added, disconnect observer
                 buttonObserver.disconnect();
@@ -94,5 +84,6 @@ const buttonObserver = new MutationObserver(mutations => {
 
 // Start observing the document for the addition of the button
 buttonObserver.observe(document.body, { childList: true, subtree: true });
+
 
 </script>
