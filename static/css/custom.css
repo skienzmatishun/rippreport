@@ -336,8 +336,8 @@ a.logo__link span {
 
 .icon-files,
 .pika-single.is-hidden,
-.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text,
-.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
+.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text
+ {
     display: none
 }
 
