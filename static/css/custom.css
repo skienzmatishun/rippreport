@@ -154,7 +154,7 @@ nav.pager.flex {
 }
 
 .bcso__post {
-    background: radial-gradient(circle, rgb(255, 255, 255) 49%, rgb(0, 0, 0) 75%);
+    background:radial-gradient(circle,rgb(255, 248, 220) 49%,rgb(0,0,0) 75%);
 }
 .bcso__post div.list__footer.clearfix a.list__footer-readmore.btn {
     background: transparent;
@@ -251,7 +251,7 @@ background-color:
 
 .post {
     margin: auto;
-    max-width: 1100px
+    max-width: 1200px
 }
 
 .pagination__item--current,
