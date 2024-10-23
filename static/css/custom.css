@@ -148,7 +148,7 @@ nav.pager.flex {
 }
 
 .list__footer-readmore {
-    margin-bottom: 40px;
+    margin-bottom: 0px;
     background: transparent;
     font-family: "Bungee Tint", sans-serif;
     font-size:2.5rem;
