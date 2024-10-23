@@ -147,8 +147,10 @@ nav.pager.flex {
     color: #fff
 }
 
-.dwtd div.list__footer.clearfix a.list__footer-readmore.btn {
-    background: #830000
+.list__footer-readmore {
+    margin-bottom: 40px;
+    background: transparent;
+    font-family: "Bungee Tint", sans-serif;
 }
 
 .backstory__btn {
@@ -201,7 +203,9 @@ width: 292px
 .list__thumbnail {
     margin: 0
 }
-
+list__footer-readmore {
+background-color:
+}
 .post__header {
     color: #fff;
     display: flex;
@@ -293,7 +297,7 @@ width: 292px
     display: block;
     margin: 15px auto auto;
     width: 215px;
-    float: none
+    float: none;
 }
 .read_more {
     display:block !important;
