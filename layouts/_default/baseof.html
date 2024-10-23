@@ -22,36 +22,41 @@
 		content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
 	<meta property="og:image"
 		content="{{ if .IsHome }}https://rippreport.com/android-chrome-512x512.png{{ else }}https://rippreport.com/{{ .Params.thumbnail }}{{ end }}">
-<style>
+	<link  href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap&family=Sixtyfour+Convergence:XELA@-60&display=swap" rel="stylesheet">
+	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+	{{ range .Site.Params.customCSS -}}
+	<link rel="stylesheet" href="{{ . | relURL }}">
+	<style>
 
 .logo__link {
-  color: #fff;
-  min-width: 351px;
+  color: #fff !important;
+  min-width: 351px !important;
   }
 .logo__item {  display: inline-block;
   vertical-align: middle;}
 .logo__imagebox {}
-.logo__img {max-height: 256px;}
-.title-logo {  font-size: 3em;
-  color: #fff;}
-  .logo {padding:25px;}
+.logo__img {max-height: 256px !important;}
+.title-logo {  font-size: 3em !important;
+  color: #fff !important;}
+  .logo {padding:25px !important;}
 .container, .container--outer {
-  max-width: 1400px;
+  max-width: 1400px !important;
 }
 @media screen and (max-width: 1475px) {
   .container--outer {
-    width: 95%;
+    width: 95% !important;
   }
 }
 .container--outer {
-  margin: 25px auto;
-  box-shadow: 0 0 10px rgba(50,50,50,.17);
+  margin: 25px auto !important;
+  box-shadow: 0 0 10px rgba(50,50,50,.17) !important;
 }
 
   /* Global settings */
   body {
-    background: #1d1c1c;
-    color: #000;
+    background: #1d1c1c !important;
+    color: #000 !important;
   }
   p {
     font-size: 1rem;
@@ -61,8 +66,8 @@
 
   /* Header and navigation */
   .header {
-    background: #232222;
-    max-height: 125px;
+    background: #232222 !important;
+    max-height: 125px !important;
   }
 
   .header-search {
@@ -73,7 +78,7 @@
 
   .title-logo, a.logo__link span {
     font-size: 3em !important;
-    color: #fff;
+    color: #fff !important;
   }
 
   .top-social {
@@ -86,23 +91,23 @@
 
   /* Typography */
   .post__title, .widget__item a h3, .widget__title {
-    text-transform: uppercase;
+    text-transform: uppercase !important;
   }
-  .post__title {padding:10px;}
+  .post__title {padding:10px !important;}
 
   /* Key post and content styling */
    .backstory__post {
-    margin-bottom: 20px;
-    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px !important;
+    border-bottom: 1px solid #ccc !important;
 
   }
-.bcso__post {    background: radial-gradient(circle, #fff9e1 49%, #000000 75%);}
+.bcso__post {    background: radial-gradient(circle, #fff9e1 49%, #000000 75%) !important;}
 
 .bcso__post div.list__footer.clearfix a.list__footer-readmore.btn {
-    background: #fff0;
-    font-family: "Sixtyfour Convergence", sans-serif;
-    font-size: 1.5rem;
-    transition: all .25s ease-out;
+    background: #fff0 !important;
+    font-family: "Sixtyfour Convergence", sans-serif !important;
+    font-size: 1.5rem !important;
+    transition: all .25s ease-out !important;
     display: block;
     width: 100%;
     margin: auto;
@@ -128,55 +133,55 @@
   }
 
   .backstory__btn {
-    font-family: 'Amatic SC', cursive;
-    font-size: 2rem;
-    background: linear-gradient(90deg, rgb(148 148 148) 0%, rgb(236 236 236) 48%, rgb(122 122 122) 100%);
+    font-family: 'Amatic SC', cursive !important;
+    font-size: 2rem !important;
+    background: linear-gradient(90deg, rgb(148 148 148) 0%, rgb(236 236 236) 48%, rgb(122 122 122) 100%) !important;
   }
 
   /* Thumbnail */
   .thumbnail__video {
-    margin-top: 10px;
-    background-position: center;
-    background-size: 50px;
+    margin-top: 10px !important;
+    background-position: center !important;
+    background-size: 50px !important;
     background-color: transparent !important;
   }
 
   .thumbnail {
-    margin: 0;
-    min-height: 325px;
-    background-color: transparent;
+    margin: 0 !important;
+    min-height: 325px !important ;
+    background-color:transparent !important ;
   }
 
   /* Widget styling */
   .widget__item {
     background: #474747;
-    margin-bottom: 15px;
-    padding: 0 0 20px;
-    border: none;
+    margin-bottom: 15px !important;
+    padding: 0 0 20px !important;
+    border: none !important;
   }
 p.widget__summary {
     color: #fff;
-    padding: 1rem;
-    font-size:.75rem;
+    padding: 1rem !important;
+    font-size:.75rem !important;
 }
   .widget__title {
-    color: #fff;
-    font-size: 2rem;
+    color: #fff ;
+    font-size: 2rem !important;
     font-family: Roboto;
   }
 
   .widget__item a {
     color: #fff;
-    font-size: 1.3rem;
+    font-size: 1.3rem !important;
     font-weight: 500;
-    font-family: Roboto;
+
   }
 
   .widget__item a h3 {
     color: #fff;
     font-size: 1.4rem;
     font-weight: 900;
-    padding: 1.3rem;
+    padding: 1.3rem !important;
     background: #171717a3;
   }
 
@@ -193,21 +198,23 @@ p.widget__summary {
   }
   .post__content {
     padding: 2em;
-    font-size:16px;
-  margin: 0 0 2em;
+    font-size:16px !important;
+  margin: 0 0 2em !important;
   }
-  .backstory__post {background:#999;}
+  .backstory__post {background:#999 !important;}
   .meta__item-datetime {
-    display: none;
+    display: none !important;
   }
-  .post__meta {display:none;}
-</style>
-
-	<link  href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap&family=Sixtyfour+Convergence:XELA@-60&display=swap" rel="stylesheet">
-	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
-	{{ range .Site.Params.customCSS -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
+  .post__meta {display:none !important;}
+  .sidebar {
+  padding: 1em;
+  background: rgb(5 8 11 / 84%) !important;
+  margin: 0 ;
+    flex: 1 0 31.66% ;
+  order: 2;
+  min-width: 0;
+}
+  </style>
 	{{- end }}
 	{{- with .OutputFormats.Get "rss" }}
 	{{ printf `
