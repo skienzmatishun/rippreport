@@ -119,6 +119,8 @@ nav.pager.flex {
     width:100%;
 }
 
+
+
 .bcso__post {
     background: radial-gradient(circle, rgb(255, 255, 255) 49%, rgb(0, 0, 0) 75%);
 }
@@ -233,7 +235,8 @@ width: 292px
 }
 
 .btn:hover {
-    background: transparent;
+    background: #00000012;
+
 }
 
 .bsp_iframe {
