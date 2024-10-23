@@ -26,13 +26,7 @@ blockquote {
     text-align: center;
 }
 
-.dwtd-wrapper,
-.dwtd__article,
-.dwtd__pager__link,
-.dwtd__primary nav.pager.flex div.pager__item.pager__item--next a.pager__link,
-.dwtd__primary nav.pager.flex div.pager__item.pager__item--prev a.pager__link {
-    color: #fff !important
-}
+
 
 .post__title,
 .widget__item a h3,
@@ -55,19 +49,15 @@ blockquote {
 .backstory__header,
 .backstory__widget__item {
 
-    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(92,92,92,1) 48%, rgba(122,122,122,1) 100%) !important;
+    background: #717171;
 
 }
-.bcso__post div.content.list__excerpt.post__content.clearfix {color:black !important;}
+
 nav.pager.flex {
     border: 0
 }
 
-.list__item.post.dwtd {
-    background: #15171b;
-    color: #fff;
-    position: relative
-}
+
 
 .link-preview {
     background: #fff;
