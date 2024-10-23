@@ -9,31 +9,57 @@ initComments({
   pageSize: 15,
   commentSectionId: "{{ index .Params 0 }}"
 })
+// Function to generate color based on username (same as before)
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
         hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
 
-    // Multiply hash by a prime number to spread out the colors
-    const primeMultiplier = 39;
+    const primeMultiplier = 37;
     const color = Math.abs((hash * primeMultiplier) % 360); // Get a hue value from 0 to 359
-    return `hsl(${color}, 100%, 60%)`; // Light color
+    return `hsl(${color}, 70%, 80%)`; // Light color
 }
 
-// Function to apply colors to comments
+// Function to apply colors to comments and add Reply button
 function applyCommentColors() {
     document.querySelectorAll('.cactus-comment').forEach(comment => {
         const displayNameLink = comment.querySelector('.cactus-comment-displayname');
         const username = displayNameLink.href.split('/').pop(); // Extract username from link
 
-        // Check if the username exists before applying the color
         if (username) {
             // Generate and set the border-left color based on the username
             const borderColor = getColorForUsername(username);
             comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
+
+            // Add the reply button if it doesn't exist
+            if (!comment.querySelector('.reply-button')) {
+                const replyButton = document.createElement('button');
+                replyButton.classList.add('reply-button');
+                replyButton.innerText = 'Reply 🗣';
+
+                // Add event listener for reply button
+                replyButton.addEventListener('click', () => {
+                    addReplyToTextarea(username, borderColor);
+                });
+
+                comment.appendChild(replyButton); // Append the button to the comment
+            }
         }
     });
+}
+
+// Function to add the reply to the top of the cactus-editor-textarea
+function addReplyToTextarea(username, color) {
+    const textarea = document.querySelector('.cactus-editor-textarea');
+
+    if (textarea) {
+        // Create the reply string with the username highlighted in the border color
+        const replyText = `<span style="color:${color}; font-weight: bold;">@${username}</span> `;
+
+        // Insert at the top of the textarea
+        textarea.innerHTML = replyText + textarea.innerHTML;
+    }
 }
 
 // Create a Mutation Observer to watch for changes in the comments container
@@ -42,7 +68,7 @@ const commentsContainer = document.querySelector('.cactus-comments-container');
 const observer = new MutationObserver(mutations => {
     for (const mutation of mutations) {
         if (mutation.addedNodes.length || mutation.removedNodes.length) {
-            // New comments have been added or removed, apply colors
+            // New comments have been added or removed, apply colors and buttons
             applyCommentColors();
         }
     }
