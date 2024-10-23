@@ -158,6 +158,10 @@ nav.pager.flex {
     width:100%;
 }
 
+bcso__post {
+    background: radial-gradient(circle, rgba(255,255,255,1) 23%, rgba(0,0,0,1) 100%);
+}
+
 .backstory__btn {
     font-family: 'Amatic SC', cursive;
     font-size: 2rem;
