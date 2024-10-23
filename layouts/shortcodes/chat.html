@@ -9,7 +9,7 @@ initComments({
   pageSize: 15,
   commentSectionId: "{{ index .Params 0 }}"
 })
-// Function to generate two colors for a username
+// Function to generate two opposite colors for a username
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
@@ -19,9 +19,9 @@ function getColorForUsername(username) {
     // Multiply hash by a prime number to spread out the colors
     const primeMultiplier = 29;
     const color1 = Math.abs((hash * primeMultiplier) % 360); // First hue value
-    const color2 = Math.abs(((hash + 137) * primeMultiplier) % 360); // Second hue value (offset by a number to ensure difference)
+    const color2 = (color1 + 180) % 360; // Opposite hue value (180 degrees apart)
 
-    return [`hsl(${color1}, 100%, 60%)`, `hsl(${color2}, 100%, 60%)`]; // Return two light colors
+    return [`hsl(${color1}, 100%, 60%)`, `hsl(${color2}, 100%, 60%)`]; // Return two opposite light colors
 }
 
 // Function to apply gradient colors to the left border of comments
