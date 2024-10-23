@@ -180,9 +180,7 @@ width: 292px
 .list__thumbnail {
     margin: 0
 }
-list__footer-readmore {
-background-color:
-}
+
 .post__header {
     color: #fff;
     display: flex;
@@ -737,7 +735,7 @@ blockquote {
 background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
 color:#000;
 }
-
+.backstory__title {border-width:0 !important;}
 .post__title {
     background: #d5be00;
     border: 3px solid #000
