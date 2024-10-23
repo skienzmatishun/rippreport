@@ -283,10 +283,6 @@ a.logo__link span {
     margin-top: 20px
 }
 
-.logo__link {
-    min-width: 351px
-}
-
 .main__header,
 .post__content,
 .post__header {
@@ -294,7 +290,8 @@ a.logo__link span {
 }
 
 .post__content {
-    margin: 0 0 2em
+    margin: 0 0 2em;
+    font-size:16px;
 }
 .cactus-container {min-width:300px;}
 .cactus-comment-avatar-placeholder {
@@ -605,7 +602,8 @@ h1.post__title {
 }
 p {color:black;}
 .holiday header.list__header h2.list__title.post__title a {
-    color: #fff
+    color: #fff;
+    padding: 10px;
 }
 
 .holiday header.list__header h2.list__title.post__title {
