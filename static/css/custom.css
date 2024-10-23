@@ -132,6 +132,14 @@ nav.pager.flex {
     margin:auto;
 }
 
+.bcso__post div.list__footer.clearfix a.list__footer-readmore.btn:hover {
+    font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" -60,
+    "YELA" 0;
+}
+
 .backstory__btn {
     font-family: 'Amatic SC', cursive !important;
     font-size: 2rem;
