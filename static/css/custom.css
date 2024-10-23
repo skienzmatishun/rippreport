@@ -138,6 +138,7 @@ nav.pager.flex {
     "SCAN" 0,
     "XELA" -60,
     "YELA" 0;
+    transition: all .25s ease-out;
 }
 
 .backstory__btn {
