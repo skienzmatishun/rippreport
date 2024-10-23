@@ -603,11 +603,6 @@ blockquote {
         font-size: 16px
     }
 
-    .dwtd__post-link {
-        height: 25px;
-        width: 25px;
-        background-size: contain
-    }
 
     .thumbnail {
         min-height: 271px
@@ -778,25 +773,7 @@ header.post__header h1.post__title {
     padding-bottom: .5px
 }
 
-.dwtd header.list__header h2.list__title.list__title a,
-.dwtd header.list__header h2.list__title.post__title {
-    background: 0 0;
-    border: none
-}
 
-.dwtd header.list__header {
-    transform: initial;
-    margin: 0;
-    padding: 0;
-    transform: none;
-    box-shadow: none;
-    min-width: 0
-}
-
-.dwtd header.list__header h2.list__title.list__title a {
-    color: #fff;
-    border: none
-}
 
 .backstory__title h1,
 .dwtd__header h1.post__title {
