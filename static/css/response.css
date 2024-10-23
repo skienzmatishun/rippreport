@@ -458,6 +458,7 @@ p.widget__summary {
 .list__title a {
     color: #000;
     max-width: 97%;
+    font-size:2rem;
 }
 
 header.post__header h1.post__title {
@@ -497,6 +498,7 @@ p {
 
 .holiday header.list__header h2.list__title.post__title a {
     color: #fff;
+    font-size:2em;
 }
 
 .holiday header.list__header h2.list__title.post__title {
