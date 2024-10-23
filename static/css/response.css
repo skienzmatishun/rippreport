@@ -136,6 +136,7 @@ blockquote {
     color: #000;
     font-family: 'Amatic SC', cursive !important;
     display: flex;
+    font-size:3rem;
 }
 
 .thumbnail {
@@ -303,6 +304,8 @@ a.logo__link span {
     height: 60px;
 }
 
+.bcso__post header.list__header h2.list__title.post__title a {font-size:2rem;}
+
 .icon-email,
 .icon-facebook,
 .icon-twitter {
@@ -469,7 +472,7 @@ header.post__header h1.post__title {
 }
 
 .backstory__title h1,
-.dwtd__header h1.post__title {
+ {
     border: 0;
 }
 
