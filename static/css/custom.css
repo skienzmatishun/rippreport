@@ -144,7 +144,7 @@ nav.pager.flex {
     float: none;
     font-size: 2.5rem;
 }
-
+.backstory__btn {   box-shadow: #f9f3cfa6 0px 0px 15px; transition:all .25 ease-out; }
 .read_more {
     display: block;
 }
