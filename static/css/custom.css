@@ -252,10 +252,6 @@ width: 292px
     animation-delay: 4s;
 }
 
-.cactus-comment {
-    padding:.5rem !important;
-}
-.cactus-editor-textarea {background:white;}
 .preview_ripp {
     background:transparent !important;
     color:black !important;
@@ -270,15 +266,16 @@ width: 292px
     width:100% !important;
 
 }
-
-.cactus-editor-name > span {
-    background-color:white;
-    border-radius:5px;
-}
-
 .cactus-comment {
     border-block-end:transparent !important;
     box-shadow:#0000008F 0px 0px 1px !important;
+    background:white;
+        padding:.5rem !important;
+}
+.cactus-editor-textarea {background-color:white !important;}
+.cactus-editor-name > span {
+    background-color: white;
+    border-radius: 5px;
 }
 :root {
     --cactus-border-width:0;
