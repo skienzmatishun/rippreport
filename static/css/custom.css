@@ -56,7 +56,7 @@ blockquote {
 
 .backstory__header,
 .backstory__widget__item {
-    background: #5083df !important
+    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%) !important;
 }
 
 nav.pager.flex {
@@ -169,8 +169,8 @@ nav.pager.flex {
 .backstory__btn {
     font-family: 'Amatic SC', cursive !important;
     font-size: 2rem;
-    background-color: #5083df !important;
-    color: #000 !important
+    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
+    color: #000 !important;
 }
 
 .list__header,
@@ -375,7 +375,7 @@ background-color:
 .backstory__title {
     font-family: 'Amatic SC', cursive !important;
     font-size: 70px;
-    background-color: #5083df
+    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
 }
 
 .btn {
