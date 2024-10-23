@@ -9,6 +9,7 @@ initComments({
   pageSize: 15,
   commentSectionId: "{{ index .Params 0 }}"
 })
+// Function to generate a color for a username
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
@@ -17,21 +18,24 @@ function getColorForUsername(username) {
 
     // Multiply hash by a prime number to spread out the colors
     const primeMultiplier = 29;
-    const color = Math.abs((hash * primeMultiplier) % 360); // Get a hue value from 0 to 359
-    return `hsl(${color}, 100%, 60%)`; // Light color
+    const color1 = Math.abs((hash * primeMultiplier) % 360); // First hue value
+    const color2 = Math.abs(((hash + 137) * primeMultiplier) % 360); // Second hue value (offset by a number to ensure difference)
+
+    return [`hsl(${color1}, 100%, 60%)`, `hsl(${color2}, 100%, 60%)`]; // Return two light colors
 }
 
-// Function to apply colors to comments
+// Function to apply gradient colors to comments
 function applyCommentColors() {
     document.querySelectorAll('.cactus-comment').forEach(comment => {
         const displayNameLink = comment.querySelector('.cactus-comment-displayname');
         const username = displayNameLink.href.split('/').pop(); // Extract username from link
 
-        // Check if the username exists before applying the color
+        // Check if the username exists before applying the gradient
         if (username) {
-            // Generate and set the border-left color based on the username
-            const borderColor = getColorForUsername(username);
-            comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
+            // Generate and set the gradient color based on the username
+            const [color1, color2] = getColorForUsername(username);
+            comment.style.borderLeft = `5px solid ${color1}`; // Optionally retain the left border color
+            comment.style.background = `linear-gradient(to bottom, ${color1}, ${color2})`; // Vertical gradient background
         }
     });
 }
@@ -53,7 +57,7 @@ if (commentsContainer) {
     observer.observe(commentsContainer, { childList: true, subtree: true });
 }
 
-// Function to apply colors after initial delay, and then again after another 8000ms
+// Function to apply colors after an initial delay, and then again after another 8000ms
 function delayedColorApplication() {
     setTimeout(() => {
         applyCommentColors(); // First application after 8000ms
@@ -84,6 +88,5 @@ const buttonObserver = new MutationObserver(mutations => {
 
 // Start observing the document for the addition of the button
 buttonObserver.observe(document.body, { childList: true, subtree: true });
-
 
 </script>
