@@ -283,7 +283,9 @@ a.logo__link span {
     margin-top: 20px
 }
 
-
+.logo__link {
+    min-width: 351px
+}
 
 .main__header,
 .post__content,
