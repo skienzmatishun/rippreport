@@ -122,7 +122,7 @@ nav.pager.flex {
 
 
 .bcso__post {
-    background: radial-gradient(circle, rgb(255, 255, 255) 49%, rgb(0, 0, 0) 75%);
+    background: radial-gradient(circle, rgb(255, 249, 225) 49%, rgb(0, 0, 0) 75%);
 }
 .bcso__post div.list__footer.clearfix a.list__footer-readmore.btn {
     background: transparent;
@@ -142,6 +142,7 @@ nav.pager.flex {
     "XELA" -60,
     "YELA" 0;
     transition: all .25s ease-out;
+    filter:hue-rotate(222deg);
 }
 
 .backstory__btn {
