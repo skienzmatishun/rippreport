@@ -33,6 +33,19 @@
 .logo__img {max-height: 256px;}
 .title-logo {  font-size: 3em;
   color: #fff;}
+  .logo {padding:25px;}
+.container, .container--outer {
+  max-width: 1400px;
+}
+@media screen and (max-width: 1475px) {
+  .container--outer {
+    width: 95%;
+  }
+}
+.container--outer {
+  margin: 25px auto;
+  box-shadow: 0 0 10px rgba(50,50,50,.17);
+}
 
   /* Global settings */
   body {
@@ -180,6 +193,8 @@
   }
   .post__content {
     padding: 2em;
+    font-size:16px;
+  margin: 0 0 2em;
   }
   .meta__item-datetime {
     display: none;
