@@ -149,17 +149,21 @@ nav.pager.flex {
 
 .list__footer-readmore {
     margin-bottom: 0px;
+
+    font-size:2.5rem;
+    width:100%;
+}
+
+.bcso__post {
+background:radial-gradient(circle, rgb(255, 255, 255) 39%, rgb(0, 0, 0) 70%);
+
+}
+.bcso__post div.list__footer.clearfix a.list__footer-readmore.btn {
     background: transparent;
     font-family: "Sixtyfour Convergence", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-size:2.5rem;
-    width:100%;
-}
-
-bcso__post {
-    background: radial-gradient(circle, rgba(255,255,255,1) 23%, rgba(0,0,0,1) 100%);
 }
 
 .backstory__btn {
