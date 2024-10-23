@@ -149,14 +149,12 @@ nav.pager.flex {
 
 .list__footer-readmore {
     margin-bottom: 0px;
-
-    font-size:2.5rem;
+    font-size:1.5rem;
     width:100%;
 }
 
 .bcso__post {
-background:radial-gradient(circle, rgb(255, 255, 255) 39%, rgb(0, 0, 0) 70%);
-
+    background: radial-gradient(circle, rgb(255, 255, 255) 49%, rgb(0, 0, 0) 75%);
 }
 .bcso__post div.list__footer.clearfix a.list__footer-readmore.btn {
     background: transparent;
@@ -164,6 +162,8 @@ background:radial-gradient(circle, rgb(255, 255, 255) 39%, rgb(0, 0, 0) 70%);
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    font-size:1.5rem;
+    margin:auto;
 }
 
 .backstory__btn {
@@ -311,7 +311,7 @@ background-color:
     margin: 15px auto auto;
     width: 275px;
     float: none;
-    font-size:2.5rem !important;
+    font-size:2.5rem;
 }
 .read_more {
     display:block !important;
