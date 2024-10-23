@@ -255,7 +255,7 @@ width: 292px
 .cactus-comment {
     padding:.5rem !important;
 }
-
+.cactus-editor-textarea {background:white;}
 .preview_ripp {
     background:transparent !important;
     color:black !important;
@@ -269,6 +269,11 @@ width: 292px
     margin:0;
     width:100% !important;
 
+}
+
+.cactus-editor-name > span {
+    background-color:white;
+    border-radius:5px;
 }
 .cactus-comment {
     border-block-end:transparent !important;
