@@ -58,7 +58,7 @@ blockquote {
     background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(92,92,92,1) 48%, rgba(122,122,122,1) 100%) !important;
 
 }
-
+.bcso__post div.content.list__excerpt.post__content.clearfix {color:black !important;}
 nav.pager.flex {
     border: 0
 }
