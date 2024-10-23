@@ -240,7 +240,8 @@ background-color:
 
 .post {
     margin: auto;
-    max-width: 1200px
+    max-width: 1200px;
+    background: radial-gradient(circle, rgb(255, 255, 255) 50%, rgb(0, 0, 0) 80%);
 }
 
 .pagination__item--current,
