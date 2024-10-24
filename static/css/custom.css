@@ -127,6 +127,7 @@ nav.pager.flex {
     font-size:1.5rem;
     margin:auto;
     transition: all .25s ease-out;
+
 }
 
 .bcso__post div.list__footer.clearfix a.list__footer-readmore.btn:hover {
@@ -143,7 +144,7 @@ nav.pager.flex {
     font-family: 'Amatic SC', cursive !important;
     font-size: 2rem;
     background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
-    color: #000 !important;
+    color: white !important;
 }
 
 .list__header,
