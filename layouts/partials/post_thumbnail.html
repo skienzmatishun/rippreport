@@ -1,52 +1,80 @@
-{{- if $youtube := .page.Params.youtube }}
-  <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
+{{- $class := .class }}
+{{- $page := .page }}
+{{- $defaultVisibility := slice "list" "post" }}
+
+{{- if $youtube := $page.Params.youtube }}
+  <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('{{ .page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
-        <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-          <iframe loading="lazy" class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+      <div class="thumbnail__video" style="background-image: url('{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
+        <div class="video-container">
+          <iframe
+            loading="lazy"
+            class="thumbnail__iframe"
+            src="https://www.youtube.com/embed/{{ $youtube }}"
+            title="{{ $page.Title }} - YouTube video"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
           {{ partial "svg/loading.svg" (dict "class" "loading") -}}
         </div>
       </div>
     </figure>
   </a>
-{{- else if $rumble := .page.Params.rumble }}
-    <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=1000,quality=50,format=auto{{ .page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
-        <div id="rumble_{{ $rumble }}" style="position: relative; padding-bottom: 56.25%; height: 0;">
-          <script>
-            !function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){
-              (r[b]._=r[b]._||[]).push(arguments);
-              if(r[b]._.length==1){
-                l=u.createElement(m),e=u.getElementsByTagName(m)[0],
-                l.async=1,l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+
-                "/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),
-                e.parentNode.insertBefore(l,e)
-              }
-            })}(window, document, "script", "Rumble");
 
-            Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
-          </script>
-        </div>
-        {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+{{- else if $rumble := $page.Params.rumble }}
+  <figure class="thumbnail">
+    <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=1000,quality=50,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
+      <div
+        id="rumble_{{ $rumble }}"
+        class="video-container"
+        data-rumble-id="{{ $rumble }}"
+      >
+        <script>
+          (function(r,u,m,b,l,e){
+            r._Rumble=b;
+            if(!r[b]){
+              r[b]=function(){
+                (r[b]._=r[b]._||[]).push(arguments);
+                if(r[b]._.length==1){
+                  l=u.createElement(m);
+                  e=u.getElementsByTagName(m)[0];
+                  l.async=1;
+                  l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments)));
+                  e.parentNode.insertBefore(l,e);
+                }
+              }
+            }
+          })(window, document, "script", "Rumble");
+          Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
+        </script>
       </div>
-    </figure>
+      {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+    </div>
+  </figure>
+
 {{- else }}
-  {{- if $thumbnail := .page.Params.thumbnail }}
-    {{- $class := .class }}
-    {{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+  {{- if $thumbnail := $page.Params.thumbnail }}
+    {{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility }}
     {{- $valueType := printf "%T" $thumbnail -}}
     {{- $isMap := in $valueType "map" -}}
+
     {{- if $isMap }}
-      {{ $visibility = default (slice "list" "post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
-      {{ $thumbnail = $thumbnail.src }}
+      {{- $visibility = default $defaultVisibility (default $page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
+      {{- $thumbnail = $thumbnail.src }}
     {{- end }}
+
     {{- if in $visibility $class }}
-      <a class="thumbnail__link" href="{{ .page.RelPermalink }}">
+      <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
         <figure class="thumbnail">
           {{- if $thumbnail }}
             <div class="thumbnail__video">
-              <!-- Updated src with Cloudflare image optimization -->
-              <img class="thumbnail__image" src="/cdn-cgi/image/width=1000,quality=75,format=auto{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+              <img
+                class="thumbnail__image"
+                src="/cdn-cgi/image/width=1000,quality=75,format=auto{{ $thumbnail | relURL }}"
+                alt="{{ $page.Title }}"
+                loading="lazy"
+              >
             </div>
           {{- end }}
         </figure>
@@ -54,3 +82,7 @@
     {{- end }}
   {{- end }}
 {{- end }}
+
+<style>
+
+</style>
