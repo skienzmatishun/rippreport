@@ -218,7 +218,8 @@ width: 292px
 .post__title {
     font-size: 65px;
     word-wrap: normal;
-    font-weight: 900
+    font-weight: 900;
+    border:none !important;
 }
 
 .post {
