@@ -810,7 +810,7 @@ h2.backstory__title {
     transform: none
 }
 
-.bsp-container {
+.bsp_container {
     background-image:url("https://rippreport.com/p/bsp-soundcloud.webp");
     height:150px;
 }
