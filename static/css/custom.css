@@ -177,7 +177,6 @@ width: 292px
 }
 
 .list__title a {
-    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-style: normal
 }
@@ -405,7 +404,6 @@ width: 292px
     font-size: 1.3rem;
     font-weight: 500;
     display: block;
-    font-family: Roboto
 }
 
 .widget__item a h3 {
@@ -413,7 +411,6 @@ width: 292px
     font-size: 1.4rem;
     font-weight: 900;
     display: block;
-    font-family: Roboto;
     padding: 1.3rem;
     background: #171717a3;
     border-bottom: .5px solid #8a8a8a
@@ -423,7 +420,7 @@ width: 292px
     color: #fff;
     border: none;
     font-size: 2rem;
-    font-family: Roboto
+
 }
 
 h4.widget__title {
@@ -489,7 +486,7 @@ a.logo__link span {
     display: flex;
     justify-content: center;
     margin: 0;
-    font-family: Roboto
+
 }
 
 .meta__text {
