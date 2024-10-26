@@ -5,7 +5,7 @@
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
+      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;min-height:400px;">
         <div class="video-container">
           <iframe
             loading="lazy"
@@ -23,8 +23,8 @@
   </a>
 
 {{- else if $rumble := $page.Params.rumble }}
-  <figure class="thumbnail" style="background-image: url('/cdn-cgi/image/width=500,quality=50,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;filter:blur(2px);">
-    <div class="thumbnail__video">
+  <figure class="thumbnail">
+    <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;min-height:400px;">
       <div
         id="rumble_{{ $rumble }}"
         class="video-container"
