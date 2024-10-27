@@ -231,17 +231,6 @@ width: 292px
     background: #2a2a2a
 }
 
-.btn:hover {
-    background: #00000012;
-
-}
-
-.bsp_iframe {
-    opacity: 0;
-    animation: fadeIn .5s ease-in forwards;
-    animation-delay: 4s;
-}
-
 .preview_ripp {
     background:transparent !important;
     color:black !important;
@@ -271,13 +260,6 @@ width: 292px
     --cactus-border-width:0;
 
 }
-
-@keyframes fadeIn {
-    to {
-        opacity: 1;
-    }
-}
-
 
 .list__footer-readmore {
     display: block;
@@ -352,37 +334,11 @@ width: 292px
     color:#000;
 }
 
-.btn {
-    font-size: 1.5rem
-}
-
-.backstory__post .list__header a {
-    color: #000;
-    font-family: 'Amatic SC', cursive !important;
-    display: flex
-}
-
-
-.thumbnail {
-    margin: 0;
-    min-height: 325px
-}
-
 .thumbnail__video {
     margin-top: 10px;
     background-position: center;
     background-size: 50px;
     background-color:transparent !important;
-}
-
-.sidebar {
-    padding: 1em;
-    background: rgb(5 8 11 / 84%);
-    margin: 0
-}
-
-.pagination {
-    padding: 10px
 }
 
 .widget__item {
@@ -392,113 +348,9 @@ width: 292px
     padding: 0 0 20px
 }
 
-.meta__item-datetime {
-    position: absolute;
-    top: -20px;
-    left: 40%;
-    display: none
-}
-
-.widget__item a {
-    color: #fff;
-    font-size: 1.3rem;
-    font-weight: 500;
-    display: block;
-}
-
-.widget__item a h3 {
-    color: #fff;
-    font-size: 1.4rem;
-    font-weight: 900;
-    display: block;
-    padding: 1.3rem;
-    background: #171717a3;
-    border-bottom: .5px solid #8a8a8a
-}
-
-.widget__title {
-    color: #fff;
-    border: none;
-    font-size: 2rem;
-
-}
-
-h4.widget__title {
-    border-bottom: 1px solid #8a8a8a
-}
-
-.pager {
-    margin: 2em;
-    color: #000
-}
-
-.wrapper {
-    padding: 0
-}
-
-.divider {
-    background-color: transparent
-}
-
-.widget-search__form {
-    background: 0 0
-}
-
-.sticky {
-    position: fixed;
-    top: 0
-}
-
-.title-logo,
-a.logo__link span {
-    font-size: 3em;
-    color: #fff
-}
-
-.list__excerpt {
-    font-size: 20px;
-    padding: 2em
-}
-
-.widget-recent {
-    margin-top: 20px
-}
-
-.logo__link {
-    min-width: 351px
-}
-
-.main__header,
-.post__content,
-.post__header {
-    padding: 2em
-}
-
-.post__content {
-    margin: 0 0 2em
-}
 .cactus-container {min-width:300px;}
 .cactus-comment-avatar-placeholder {
     display: none !important
-}
-
-.post__title {
-    display: flex;
-    justify-content: center;
-    margin: 0;
-
-}
-
-.meta__text {
-    font-size: 18px
-}
-
-.top-social {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    filter: invert(1);
-    opacity: .9
 }
 
 .pika-label,
@@ -508,16 +360,9 @@ a.logo__link span {
     position: relative
 }
 
-.backstory-social {
-    filter: invert(1);
-    align-items: center;
-    display: flex;
-    margin: 10px
-}
-
 .icon-files,
 .pika-single.is-hidden,
-.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
+.meta__text {
     display: none
 }
 
@@ -705,18 +550,6 @@ blockquote {
 
 
 
-@media screen and (max-width:500px) {
-
-    .cactus-container {min-width:300px;max-width:100%}
-
-    .form__label-row--horizontal {
-        flex-direction: column
-    }
-
-    .form__label-row--horizontal>* {
-        width: 100%
-    }
-}
 
 
 .list__header {
@@ -761,8 +594,6 @@ header.post__header h1.post__title {
     padding-bottom: .5px
 }
 
-
-
 .backstory__title h1 {
     background: 0 0;
     border: 0
@@ -778,7 +609,6 @@ h1.post__title {
 }
 
 .holiday header.list__header {
-    background: 0 0;
     box-shadow: none;
     transform: initial
 }
@@ -792,13 +622,7 @@ p {color:black;}
     background: #235a22
 }
 
-h2.backstory__title {
-    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
-    border: none;
-    color:#000;
-}
-
-.backstory__post .list__header {
+.backstory__post .list__header, h2.backstory__title {
     background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
     color: #000;
     box-shadow: none;
@@ -810,6 +634,7 @@ h2.backstory__title {
     height:150px;
     background-size:cover;
 }
+
 :root,
 :root.light {
     --cactus-text-color--soft: #999;
@@ -1256,3 +1081,15 @@ h2.backstory__title {
     }
 }
 .cactus-container {min-width:420px;}
+@media screen and (max-width:500px) {
+
+    .cactus-container {min-width:300px;max-width:100%}
+
+    .form__label-row--horizontal {
+        flex-direction: column
+    }
+
+    .form__label-row--horizontal>* {
+        width: 100%
+    }
+}
