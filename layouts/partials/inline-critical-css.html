@@ -434,50 +434,7 @@ p.widget__summary {
 	min-width: 250px
 }
 
-.social-preview {
-	width: 381px;
-	max-width: 95%;
-	margin: auto;
-	background: #eaeaea;
-	padding-bottom: .25rem;
-	margin-bottom: 2rem;
-	min-height: 550px
-}
 
-.social-preview:nth-child(even) {
-	float: left;
-	margin-right: 2rem
-}
-
-.social-preview:nth-child(odd) {
-	float: right;
-	margin-left: 2rem
-}
-
-.social-preview a p {
-	color: #000;
-	padding: 2rem;
-	font-weight: 300;
-	font-size: .9rem
-}
-
-.social-preview h2 {
-	font-size: 1.5rem;
-	font-weight: 900;
-	text-align: center;
-	margin-top: 1.25rem;
-	padding: .25rem
-}
-
-.social-preview span {
-	text-align: center;
-	padding: 1rem;
-	background: #000;
-	color: #fff;
-	width: 60%;
-	margin: auto;
-	margin-bottom: 2rem
-}
 
 .backstory__title {
 	font-family: 'Amatic SC', cursive !important;
@@ -639,13 +596,6 @@ a.logo__link span {
 	opacity: .9
 }
 
-.pika-label,
-.pika-single,
-.pika-title,
-.sib-sms-tooltip {
-	position: relative
-}
-
 .backstory-social {
 	filter: invert(1);
 	align-items: center;
@@ -653,10 +603,7 @@ a.logo__link span {
 	margin: 10px
 }
 
-.icon-files,
-.pika-single.is-hidden,
-.backstory__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text,
-.dwtd__header div.post__meta.meta div.meta__item-datetime.meta__item time.meta__text {
+time.meta__text {
 	display: none
 }
 
@@ -776,15 +723,6 @@ p.widget__summary {
 }
 
 @media screen and (max-width:620px) {
-	.social-preview:nth-child(even) {
-		float: none;
-		margin:auto;
-	}
-
-	.social-preview:nth-child(odd) {
-		float: none;
-		margin:auto;
-	}
 
 	.post__content,
 	p {
@@ -793,13 +731,6 @@ p.widget__summary {
 
 	.thumbnail {
 		min-height: 271px
-	}
-
-	.list__header .list__meta .meta__item-datetime {
-		position: relative;
-		left: initial;
-		top: initial;
-		text-align: center
 	}
 
 	.search-bar,
@@ -890,16 +821,8 @@ p.widget__summary {
 	}
 }
 
-.cactus-container {
-	min-width: 420px
-}
 
-@media screen and (max-width:500px) {
-	.cactus-container {
-		min-width: 300px;
-		max-width: 100%
-	}
-}
+
 
 .list__header {
 	color: #000;
