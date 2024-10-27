@@ -21,7 +21,8 @@ logo = "https://rippreport.com/img/eagle.png"
   mainSections = ["p"]
   mathjax = false
   opengraph = true
-  customCSS = ["css/custom.css"] # Include custom CSS files
+  customCSS = ["css/custom.css", "css/sticky-header.css"] # Include custom CSS files
+  customJS = ["js/sticky-header.js" ]
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
