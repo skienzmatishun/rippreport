@@ -591,7 +591,8 @@ header.post__header h1.post__title {
     background: 0 0;
     box-shadow: none;
     transform: initial;
-    padding-bottom: .5px
+    padding-bottom: .5px;
+    border:none;
 }
 
 .backstory__title h1 {
