@@ -2,19 +2,36 @@
 {{- $logoSubtitle := .Site.Params.logo.subtitle | default .Site.Params.subtitle -}}
 {{- $logoImage := .Site.Params.logo.image -}}
 {{- if or $logoTitle $logoImage }}
-	{{/* Defined when logo is mixed (image + text) */}}
-	{{- $logoMix := and $logoImage $logoTitle -}}
+{{- $logoMix := and $logoImage $logoTitle -}}
 
-	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
-		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
-			<span class="title-logo" style="margin-right:8px;">RIPP</span>
-			<div class="logo__item logo__imagebox">
-				<div class="logo__img">{{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
-				</div>
-			</div>
-			<span class="title-logo" style="margin-left:8px;">REPORT</span>
-		</a>
-	</div>
-	<div class="top-social"><a href="https://facebook.com/therippreport">{{ partial "svg/facebook.svg" (dict "id" "facebook") -}}</a><a style="  filter: invert(1); right: 5px; top: 3px; position: relative;" href="https://twitter.com/rippreport">{{ partial "svg/x.svg" (dict "id" "twitter") -}}</a><a style="display:none;" href="https://facebook.com/therippreport">{{ partial "svg/bluesky.svg" (dict "id" "bluesky") -}}</a><a href="mailto:contact@rippreport.com">{{ partial "svg/email.svg" (dict "id" "email") -}}</a></div>
+<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
+  <a href="{{ "/" | relLangURL }}" class="logo__link"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
+    <div class="logo__item logo__imagebox">
+      <div class="logo__img">
+        {{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
+      </div>
+    </div>
+    <div class="site-title">
+      <span class="title-logo ripp">RIPP</span>
+      <span class="title-logo report">REPORT</span>
+    </div>
+    <span class="post-title"></span>
+  </a>
+</div>
+
+<div class="top-social">
+  <a href="https://facebook.com/therippreport">
+    {{ partial "svg/facebook.svg" (dict "id" "facebook") -}}
+  </a>
+  <a href="https://twitter.com/rippreport" style="filter: invert(1); right: 5px; top: 3px; position: relative;">
+    {{ partial "svg/x.svg" (dict "id" "twitter") -}}
+  </a>
+  <a href="https://facebook.com/therippreport" style="display:none;">
+    {{ partial "svg/bluesky.svg" (dict "id" "bluesky") -}}
+  </a>
+  <a href="mailto:contact@rippreport.com">
+    {{ partial "svg/email.svg" (dict "id" "email") -}}
+  </a>
+</div>
 
 {{- end }}

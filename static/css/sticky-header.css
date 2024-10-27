@@ -1,0 +1,64 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  z-index: 1000;
+  transition: transform 0.3s ease;
+}
+
+.header .container {
+  padding: 0.5rem 1rem;
+}
+
+.logo__link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+.logo__imagebox {
+  margin-right: 0.5rem;
+}
+
+.logo__img {
+  width: 45px;
+  height: 35px;
+}
+
+.site-title {
+  display: flex;
+  gap: 8px;
+}
+
+.post-title {
+  display: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+  color: #fff;
+}
+
+.top-social {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .post-title {
+    max-width: 150px;
+  }
+
+  .top-social {
+    gap: 0.5rem;
+  }
+}
+
+/* Add margin to main content to prevent header overlap */
+.wrapper {
+  margin-top: 80px;
+}
