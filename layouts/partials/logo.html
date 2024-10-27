@@ -6,16 +6,27 @@
 
 <div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
   <a href="{{ "/" | relLangURL }}" class="logo__link"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
-    <div class="logo__item logo__imagebox">
-      <div class="logo__img">
-        {{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
+    <div class="mobile-header">
+      <div class="logo__item logo__imagebox">
+        <div class="logo__img">
+          {{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
+        </div>
       </div>
+      <div class="site-title">
+        <span class="title-logo ripp">RIPP</span>
+        <span class="title-logo report">REPORT</span>
+      </div>
+      <span class="post-title"></span>
     </div>
-    <div class="site-title">
-      <span class="title-logo ripp">RIPP</span>
-      <span class="title-logo report">REPORT</span>
+    <div class="desktop-header">
+      <span class="title-logo" style="margin-right:8px">RIPP</span>
+      <div class="logo__item logo__imagebox">
+        <div class="logo__img">
+          {{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
+        </div>
+      </div>
+      <span class="title-logo" style="margin-left:8px">REPORT</span>
     </div>
-    <span class="post-title"></span>
   </a>
 </div>
 
