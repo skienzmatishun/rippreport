@@ -80,6 +80,8 @@
                 alt="{{ $json.title }}"
                 width="380"
                 height="200"
+                srcset="/cdn-cgi/image/width=380,quality=75,format=auto{{ $image }} 380w"
+                sizes="380px"
             >
             <h2>
                 {{- if isset $sources $baseURL -}}
