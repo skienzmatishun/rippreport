@@ -40,21 +40,37 @@
     {{- $baseURL := $parsedURL.Host -}}
     {{- $image := $json.image | default $defaultImage -}}
 
-    {{/* Use Cloudflare images only for rippreport.com */}}
-    {{- if eq $baseURL "rippreport.com" -}}
-        {{/* Process image URL based on domain */}}
-        {{- range $domain, $rules := $processImageURL -}}
-            {{- if strings.HasPrefix $image $domain -}}
-                {{- if isset $rules "pattern" -}}
-                    {{- $image = $image | replaceRE $rules.pattern $rules.replacement -}}
-                {{- else if isset $rules "from" -}}
-                    {{- $image = replace $image $rules.from $rules.to -}}
-                {{- else if isset $rules "width" -}}
-                    {{- $image = $image | replaceRE "width=[0-9]+" $rules.width | replaceRE "quality=[0-9]+" $rules.quality -}}
-                {{- end -}}
+    {{/* Process image URL based on domain */}}
+    {{- range $domain, $rules := $processImageURL -}}
+        {{- if strings.HasPrefix $image $domain -}}
+            {{- if isset $rules "pattern" -}}
+                {{- $image = $image | replaceRE $rules.pattern $rules.replacement -}}
+            {{- else if isset $rules "from" -}}
+                {{- $image = replace $image $rules.from $rules.to -}}
+            {{- else if isset $rules "width" -}}
+                {{- $image = $image | replaceRE "width=[0-9]+" $rules.width | replaceRE "quality=[0-9]+" $rules.quality -}}
             {{- end -}}
         {{- end -}}
     {{- end -}}
+
+    {{/* Define source-specific configurations */}}
+    {{- $sources := dict
+        "www.lagniappemobile.com" (dict "partial" "svg/lagniappe.svg" "id" "lagniappe" "trim" "")
+        "www.al.com" (dict "partial" "svg/alcom.svg" "id" "alcom" "trim" "")
+        "mynbc15.com" (dict "partial" "svg/wpmi-logo.svg" "id" "wpmi channel 15 news" "trim" "")
+        "weartv.com" (dict "partial" "svg/wear-logo.svg" "id" "WearTV news" "trim" "")
+        "1819news.com" (dict "partial" "svg/1819news.svg" "id" "1819 news" "trim" "")
+        "rippreport.com" (dict "partial" "svg/eagle-logo-preview.svg" "id" "eagle-logo" "trim" "")
+        "www.fox10tv.com" (dict "partial" "svg/wala.svg" "id" "Fox10" "trim" "")
+        "www.montgomeryadvertiser.com" (dict "partial" "svg/montgomery-advertiser.svg" "id" "montgomeryadvertiser" "trim" "")
+        "gulfcoastmedia.com" (dict "image" "https://rippreport.com/img/gulf-coast-media.png" "style" "height:36px;width:150px;max-width:100%;min-height:36px;" "alt" "gulf coast media logo" "trim" "- Gulf Coast Media")
+        "www.gulfcoastnewstoday.com" (dict "image" "https://rippreport.com/img/gulf-coast-media.png" "style" "height:36px;width:150px;max-width:100%;min-height:36px;" "alt" "gulf coast media logo" "trim" "- Gulf Coast Media")
+        "www.alreporter.com" (dict "image" "https://rippreport.com/img/alreporter.png" "style" "height:46px;width:295px;max-width:100%;" "alt" "AL Reporter logo" "trim" "")
+        "yellowhammernews.com" (dict "image" "https://rippreport.com/img/yellow-hammer-logo.png" "style" "height:32px;width:290px;max-width:100%;" "alt" "Yellow Hammer News Logo" "trim" " - Yellowhammer News")
+        "theringer.com" (dict "image" "https://rippreport.com/img/the-ringer-logo.png" "style" "height:95px;width:200px;max-width:100%;" "alt" "The Ringer Logo" "trim" "")
+        "www.altoday.com" (dict "image" "https://rippreport.com/img/al_today.png" "style" "height:50px;width:85px;" "alt" "AL Today Logo" "trim" "altoday.com")
+        "www.facebook.com" (dict "image" "https://rippreport.com/img/fb.png" "style" "height:75px;width:75px;" "alt" "Facebook Logo" "trim" "www.facebook.com")
+    -}}
 
     <div class="social-preview{{ if $noFloat }} sink-preview{{ end }}" data-source="{{ $baseURL }}">
         <a href="{{ $json.url }}" rel="noopener">
@@ -64,14 +80,31 @@
                 alt="{{ $json.title }}"
                 width="380"
                 height="200"
-                srcset="
-                    /cdn-cgi/image/width=380,quality=75,format=auto{{ $image }} 380w,
-                    /cdn-cgi/image/width=250,quality=75,format=auto{{ $image }} 250w,
-                    /cdn-cgi/image/width=150,quality=75,format=auto{{ $image }} 150w"
-                sizes="(max-width: 380px) 100vw, 380px"
             >
             <h2>
-                {{ $json.title }}
+                {{- if isset $sources $baseURL -}}
+                    {{- with index $sources $baseURL -}}
+                        {{- if isset . "partial" -}}
+                            {{ partial .partial (dict "id" .id) }}
+                            <br>
+                        {{- else if isset . "image" -}}
+                            <img
+                                loading="lazy"
+                                src="{{ .image }}"
+                                alt="{{ .alt }}"
+                                style="{{ .style }}"
+                            >
+                            <br>
+                        {{- end -}}
+                        {{ $json.title | strings.TrimSuffix .trim }}
+                    {{- end -}}
+                {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
+                    {{ $json.title }}
+                {{- else -}}
+                    {{ $json.title }}
+                    <br>
+                    <span class="source-url">{{ $baseURL }}</span>
+                {{- end -}}
             </h2>
             <p>{{ $json.description }}</p>
             <span class="read_more">Read More</span>
