@@ -445,6 +445,11 @@ blockquote {
 }
 
 @media screen and (max-width:620px) {
+    .meta__item-datetime, .search-bar,
+    .top-social {
+        display:none;
+    }
+
     blockquote {
         background:transparent;
     }
@@ -465,30 +470,6 @@ blockquote {
         font-size: 16px
     }
 
-
-    .thumbnail {
-        min-height: 271px
-    }
-
-    .list__header .list__meta .meta__item-datetime {
-        position: relative;
-        left: initial;
-        top: initial;
-        text-align: center
-    }
-
-    .backstory__post .list__header .list__meta .meta__item-datetime {
-        position: relative;
-        top: initial;
-        left: initial;
-        color: #000;
-        text-align: center
-    }
-
-    .search-bar,
-    .top-social {
-        display: none
-    }
 
     .post__content {
         margin: 0
