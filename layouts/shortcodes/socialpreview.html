@@ -40,15 +40,18 @@
     {{- $baseURL := $parsedURL.Host -}}
     {{- $image := $json.image | default $defaultImage -}}
 
-    {{/* Process image URL based on domain */}}
-    {{- range $domain, $rules := $processImageURL -}}
-        {{- if strings.HasPrefix $image $domain -}}
-            {{- if isset $rules "pattern" -}}
-                {{- $image = $image | replaceRE $rules.pattern $rules.replacement -}}
-            {{- else if isset $rules "from" -}}
-                {{- $image = replace $image $rules.from $rules.to -}}
-            {{- else if isset $rules "width" -}}
-                {{- $image = $image | replaceRE "width=[0-9]+" $rules.width | replaceRE "quality=[0-9]+" $rules.quality -}}
+    {{/* Use Cloudflare images only for rippreport.com */}}
+    {{- if eq $baseURL "rippreport.com" -}}
+        {{/* Process image URL based on domain */}}
+        {{- range $domain, $rules := $processImageURL -}}
+            {{- if strings.HasPrefix $image $domain -}}
+                {{- if isset $rules "pattern" -}}
+                    {{- $image = $image | replaceRE $rules.pattern $rules.replacement -}}
+                {{- else if isset $rules "from" -}}
+                    {{- $image = replace $image $rules.from $rules.to -}}
+                {{- else if isset $rules "width" -}}
+                    {{- $image = $image | replaceRE "width=[0-9]+" $rules.width | replaceRE "quality=[0-9]+" $rules.quality -}}
+                {{- end -}}
             {{- end -}}
         {{- end -}}
     {{- end -}}
@@ -80,8 +83,6 @@
                 alt="{{ $json.title }}"
                 width="380"
                 height="200"
-                srcset="/cdn-cgi/image/width=380,quality=75,format=auto{{ $image }} 380w"
-                sizes="380px"
             >
             <h2>
                 {{- if isset $sources $baseURL -}}
