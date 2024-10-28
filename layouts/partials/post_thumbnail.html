@@ -63,7 +63,9 @@
         <figure class="thumbnail">
           {{- if $thumbnail }}
             <div class="thumbnail__video">
-              <img class="thumbnail__image" src="{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $mobileWidth }}{{ end }}{{ $thumbnail | relURL }}{{ else }}{{ $thumbnail | relURL }}{{ end }}" alt="{{ $page.Title }}">
+              <img class="thumbnail__image" src="{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $mobileWidth }}{{ end }}{{ $thumbnail | relURL }}{{ else }}
+                <script>console.log("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}");</script>
+                {{ $thumbnail | relURL }}{{ end }}" alt="{{ $page.Title }}">
             </div>
           {{- end }}
         </figure>
