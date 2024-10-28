@@ -34,11 +34,6 @@ blockquote {
     text-transform: uppercase
 }
 
-
-.backstory__header h1 {
-    color: #000 !important
-}
-
 .search-bar {
     z-index: 10 !important;
     position: relative !important
@@ -48,9 +43,7 @@ blockquote {
 
 .backstory__header,
 .backstory__widget__item {
-
     background: #717171;
-
 }
 
 nav.pager.flex {
@@ -83,16 +76,7 @@ nav.pager.flex {
     padding: 1rem
 }
 #loader {display:none !important;}
-#loader,
-.backstory__btn,
-.backstory__title,
-.btn,
-.list__title,
-.pika-table th,
-.pika-title,
-.thumbnail,
-.widget__item a,
-.widget__item a h3,
+
 .widget__title {
     text-align: center
 }
@@ -157,10 +141,6 @@ nav.pager.flex {
     border: none
 }
 
-.list__meta {
-    position: relative
-}
-
 #eagle {
 max-width: none;
 height: 75px;
@@ -191,27 +171,96 @@ width: 292px
 }
 
 .post__header {
-    color: #fff;
     display: flex;
     justify-content: center
 }
 
-.backstory__post .list__header .list__meta .meta__item-datetime {
-    position: relative;
-    left: 40%;
-    top: initial;
-    color: #000
+.post__header .post__title {
+    color: #fff
+}
+.list__header {
+    color: #000;
+    padding: 20px 0;
+    min-width: 105%;
+    background: repeating-linear-gradient(45deg, #000, #000 50px, #d5be00 50px, #d5be00 100px);
+    margin-left: -10px;
+    margin-top: -10px;
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, .6);
+    transform: rotate(1deg)
 }
 
-.post__header .post__title,
-.sib-is-selected .pika-button,
-.sib-is-today:hover .pika-button {
+.list__footer-readmore {
+    margin-bottom: 15px
+}
+
+.backstory__article article.post header.post__header {
+    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
+    color:#000;
+}
+.backstory__title {border-width:0 !important;color:black !important;}
+.post__title {
+    background: #d5be00;
+    border: 3px solid #000
+}
+
+.list__title a {
+    color: #000;
+    max-width: 97%
+}
+
+header.post__header h1.post__title {
+    background: 0 0;
+    border: 3px solid #000
+}
+
+.holiday header.list__header {
+    background: 0 0;
+    box-shadow: none;
+    transform: initial;
+    padding-bottom: .5px;
+    border:0;
+}
+
+.backstory__title h1 {
+    background: 0 0;
+    border: 0
+}
+
+.main-list,
+.primary {
+    overflow: hidden
+}
+
+h1.post__title {
+    border: none !important
+}
+
+.holiday header.list__header {
+    box-shadow: none;
+    transform: initial
+}
+p {color:black;}
+.holiday header.list__header h2.list__title.post__title a {
     color: #fff
 }
 
-.container,
-.container--outer {
-    max-width: 1400px
+.holiday header.list__header h2.list__title.post__title {
+    border: none;
+    background: #8d6300;
+    padding-top:10px;
+}
+
+.backstory__post .list__header, h2.backstory__title {
+    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
+    color: #000;
+    box-shadow: none;
+    transform: none
+}
+
+.bsp_container {
+    background-image:url("https://rippreport.com/p/bsp-soundcloud.webp");
+    height:150px;
+    background-size:cover;
 }
 
 .post__title {
@@ -327,13 +376,6 @@ width: 292px
     margin-bottom:2rem;
 }
 
-.backstory__title {
-    font-family: 'Amatic SC', cursive !important;
-    font-size: 70px;
-    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
-    color:#000;
-}
-
 .thumbnail__video {
     margin-top: 10px;
     background-position: center;
@@ -353,12 +395,6 @@ width: 292px
     display: none !important
 }
 
-.pika-label,
-.pika-single,
-.pika-title,
-.sib-sms-tooltip {
-    position: relative
-}
 
 .icon-files,
 .pika-single.is-hidden,
@@ -406,13 +442,6 @@ blockquote {
 .sink-preview {
     margin: 3rem auto !important;
     float: none !important;
-}
-
-
-@media screen and (min-width:1200px) {
-    .thumbnail {
-        min-height: 400px
-    }
 }
 
 @media screen and (max-width:620px) {
@@ -552,90 +581,6 @@ blockquote {
 
 
 
-.list__header {
-    color: #000;
-    padding: 20px 0;
-    min-width: 105%;
-    background: repeating-linear-gradient(45deg, #000, #000 50px, #d5be00 50px, #d5be00 100px);
-    margin-left: -10px;
-    margin-top: -10px;
-    box-shadow: 5px 5px 25px rgba(0, 0, 0, .6);
-    transform: rotate(1deg)
-}
-
-.list__footer-readmore {
-    margin-bottom: 15px
-}
-
-.backstory__article article.post header.post__header {
-    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
-    color:#000;
-}
-.backstory__title {border-width:0 !important;color:black !important;}
-.post__title {
-    background: #d5be00;
-    border: 3px solid #000
-}
-
-.list__title a {
-    color: #000;
-    max-width: 97%
-}
-
-header.post__header h1.post__title {
-    background: 0 0;
-    border: 3px solid #000
-}
-
-.holiday header.list__header {
-    background: 0 0;
-    box-shadow: none;
-    transform: initial;
-    padding-bottom: .5px;
-    border:0;
-}
-
-.backstory__title h1 {
-    background: 0 0;
-    border: 0
-}
-
-.main-list,
-.primary {
-    overflow: hidden
-}
-
-h1.post__title {
-    border: none !important
-}
-
-.holiday header.list__header {
-    box-shadow: none;
-    transform: initial
-}
-p {color:black;}
-.holiday header.list__header h2.list__title.post__title a {
-    color: #fff
-}
-
-.holiday header.list__header h2.list__title.post__title {
-    border: none;
-    background: #8d6300;
-    padding-top:10px;
-}
-
-.backstory__post .list__header, h2.backstory__title {
-    background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
-    color: #000;
-    box-shadow: none;
-    transform: none
-}
-
-.bsp_container {
-    background-image:url("https://rippreport.com/p/bsp-soundcloud.webp");
-    height:150px;
-    background-size:cover;
-}
 
 :root,
 :root.light {

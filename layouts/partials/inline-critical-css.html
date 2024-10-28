@@ -693,11 +693,6 @@ p.widget__summary {
 		font-size: .875rem
 	}
 
-	.list__meta {
-		display: block;
-		font-size: 11px;
-		font-size: .6875rem
-	}
 	.thumbnail__video {
 	min-height:194px !important;
 	}
@@ -838,10 +833,9 @@ header.post__header h1.post__title {
 
 	border:3px solid #000 }
 
-	.backstory__title h1,
+	.backstory__title h1, 	h2.backstory__title {
 	 {
-		background: 0 0;
-		border: 0
+		border: none;
 	}
 
 	.main-list,
@@ -851,11 +845,6 @@ header.post__header h1.post__title {
 
 	h1.post__title {
 		border: none !important
-	}
-
-	h2.backstory__title {
-
-		border: none
 	}
 
 	.backstory__post .list__header {
@@ -879,18 +868,11 @@ header.post__header h1.post__title {
 		height: 100%;
 	}
 .skip-link {
-    position: absolute;
-    top: -40px;
-    left: 0;
-    background: #000;
-    color: white;
-    padding: 8px;
-    z-index: 100;
     display:none;
 }
 
 .skip-link:focus {
-    top: 0;
+display:none;
 }
 .widget__thumbnail {
     aspect-ratio: 16/9;
