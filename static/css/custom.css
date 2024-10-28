@@ -620,7 +620,8 @@ p {color:black;}
 
 .holiday header.list__header h2.list__title.post__title {
     border: none;
-    background: #235a22
+    background: #8d6300;
+    padding-top:10px;
 }
 
 .backstory__post .list__header, h2.backstory__title {
