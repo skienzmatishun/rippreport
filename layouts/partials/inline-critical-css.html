@@ -1,13 +1,9 @@
 <style>
 body {background:#15191e;}
 .clearfix::after {
-    height: 0;
-    padding: 0;
-    margin: 0;
+    content: "";
+    display: table;
     clear: both;
-    line-height: 0;
-    visibility: hidden;
-    content: ""
 }
 
 .btn {
@@ -28,6 +24,8 @@ h6 {
     line-height: 1.3;
     color: #000
 }
+
+figure {margin:0;}
 
 h1 {
     font-size: 2rem
@@ -164,7 +162,14 @@ width: 100px;
       padding:30px;
 
     }
-
+.backstory-social {
+display: flex;
+  position: relative;
+  justify-content: end;
+  filter: invert(1);
+  gap: 5px;
+  margin-left: 10px;
+  }
 .list__footer-readmore {
   float: none;
   margin: auto;
