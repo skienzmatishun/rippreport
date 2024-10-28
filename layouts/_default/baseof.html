@@ -32,11 +32,11 @@
     {{/* Styles */}}
     {{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    {{ range .Site.Params.customCSS -}}
+    {{/* range .Site.Params.customCSS -}}
         <link rel="stylesheet" href="{{ . | relURL }}">
-    {{- end }}
+    {{/*- end }}
     {{/* Critical CSS */}}
-    {{ partial "inline-critical-css.html" }}
+    {{/* partial "inline-critical-css.html" */}}
     {{/* RSS Feed */}}
     {{- with .OutputFormats.Get "rss" }}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
