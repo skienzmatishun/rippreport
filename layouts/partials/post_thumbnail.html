@@ -2,87 +2,72 @@
 {{- $page := .page }}
 {{- $defaultVisibility := slice "list" "post" }}
 
-{{- $desktopWidth := 1920 }}
-{{- $tabletWidth := 960 }}
-{{- $mobileWidth := 640 }}
-
-{{- $isRippreportDomain := strings.Contains .Site.BaseURL "rippreport.com" }}
-
 {{- if $youtube := $page.Params.youtube }}
-  <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
+<a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $mobileWidth }}{{ end }}{{ $page.Params.thumbnail | relURL }}{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center; min-height: 400px;">
-        <div class="video-container">
-          <iframe loading="lazy" class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" title="{{ $page.Title }} - YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+        <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center; min-height: 400px;">
+            <div class="video-container">
+                <iframe loading="lazy" class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" title="{{ $page.Title }} - YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+            </div>
         </div>
-      </div>
     </figure>
-  </a>
+</a>
 
 {{- else if $rumble := $page.Params.rumble }}
-  <figure class="thumbnail">
-    <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $mobileWidth }}{{ end }}{{ $page.Params.thumbnail | relURL }}{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center; min-height: 400px;">
-      <div id="rumble_{{ $rumble }}" class="video-container" data-rumble-id="{{ $rumble }}">
-        <script>
-          (function(r,u,m,b,l,e){
-            r._Rumble=b;
-            if(!r[b]){
-              r[b]=function(){
-                (r[b]._=r[b]._||[]).push(arguments);
-                if(r[b]._.length==1){
-                  l=u.createElement(m);
-                  e=u.getElementsByTagName(m)[0];
-                  l.async=1;
-                  l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments)));
-                  e.parentNode.insertBefore(l,e);
-                }
-              }
-            }
-          })(window, document, "script", "Rumble");
-          Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
-        </script>
-      </div>
-      {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+<figure class="thumbnail">
+    <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center; min-height: 400px;">
+        <div id="rumble_{{ $rumble }}" class="video-container" data-rumble-id="{{ $rumble }}">
+            <script>
+                (function(r,u,m,b,l,e){
+                    r._Rumble=b;
+                    if(!r[b]){
+                        r[b]=function(){
+                            (r[b]._=r[b]._||[]).push(arguments);
+                            if(r[b]._.length==1){
+                                l=u.createElement(m);
+                                e=u.getElementsByTagName(m)[0];
+                                l.async=1;
+                                l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments)));
+                                e.parentNode.insertBefore(l,e);
+                            }
+                        }
+                    }
+                })(window, document, "script", "Rumble");
+                Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
+            </script>
+        </div>
+        {{ partial "svg/loading.svg" (dict "class" "loading") -}}
     </div>
-  </figure>
+</figure>
 
 {{- else }}
-  {{- if $thumbnail := $page.Params.thumbnail }}
-    {{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility }}
-    {{- $valueType := printf "%T" $thumbnail -}}
-    {{- $isMap := in $valueType "map" -}}
+    {{- if $thumbnail := $page.Params.thumbnail }}
+        {{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility }}
+        {{- $valueType := printf "%T" $thumbnail -}}
+        {{- $isMap := in $valueType "map" -}}
 
-    {{- if $isMap }}
-      {{- $visibility = default $defaultVisibility (default $page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
-      {{- $thumbnail = $thumbnail.src }}
-    {{- end }}
+        {{- if $isMap }}
+            {{- $visibility = default $defaultVisibility (default $page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
+            {{- $thumbnail = $thumbnail.src }}
+        {{- end }}
 
-    {{- if in $visibility $class }}
-      <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
-        <figure class="thumbnail">
-          {{- if $thumbnail }}
-            <div class="thumbnail__video">
-              {{- $imgSrc := "" }}
-              {{- if $isRippreportDomain }}
-                {{- if eq (index .Params "CF-Device-Type") "desktop" }}
-                  {{- $imgSrc = printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $desktopWidth }}
-                {{- else if eq (index .Params "CF-Device-Type") "tablet" }}
-                  {{- $imgSrc = printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $tabletWidth }}
-                {{- else }}
-                  {{- $imgSrc = printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $mobileWidth }}
+        {{- if in $visibility $class }}
+        <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
+            <figure class="thumbnail">
+                {{- if $thumbnail }}
+                <div class="thumbnail__video">
+                    {{- $cloudflareImage := printf "/cdn-cgi/image/width=1000,quality=75,format=auto%s" ($thumbnail | relURL) }}
+                    <img class="thumbnail__image" src="{{ if $isRippreportDomain }}{{ $cloudflareImage }}{{ else }}{{ $thumbnail | relURL }}{{ end }}" alt="{{ $page.Title }}">
+                    {{- if not $isRippreportDomain }}
+                    <script>
+                        console.debug("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}; Intended Cloudflare Image URL: {{ $cloudflareImage }}");
+                    </script>
+                    {{- end }}
+                </div>
                 {{- end }}
-                <img class="thumbnail__image" src="{{ $imgSrc | relURL }}" alt="{{ $page.Title }}">
-              {{- else }}
-                <script>
-                  console.log("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}; Intended Cloudflare Image URL: {{ $imgSrc | relURL }}");
-                </script>
-                <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ $page.Title }}">
-              {{- end }}
-            </div>
-          {{- end }}
-        </figure>
-      </a>
+            </figure>
+        </a>
+        {{- end }}
     {{- end }}
-  {{- end }}
 {{- end }}
