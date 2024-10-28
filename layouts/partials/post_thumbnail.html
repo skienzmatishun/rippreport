@@ -6,10 +6,13 @@
 {{- $tabletWidth := 750 -}}
 {{- $mobileWidth := 500 -}}
 
+{{- $deviceType := .Site.Params.CFDeviceType }}
+{{- printf "Device Type: %s" $deviceType | safeHTML }}
+
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width={{ if eq .Site.Params.CFDeviceType "desktop" }}{{ $desktopWidth }}{{ else if eq .Site.Params.CFDeviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height: 400px;">
+      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width={{ if eq $deviceType "desktop" }}{{ $desktopWidth }}{{ else if eq $deviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height: 400px;">
         <div class="video-container">
           <iframe
             loading="lazy"
@@ -28,7 +31,7 @@
 
 {{- else if $rumble := $page.Params.rumble }}
   <figure class="thumbnail">
-    <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width={{ if eq .Site.Params.CFDeviceType "desktop" }}{{ $desktopWidth }}{{ else if eq .Site.Params.CFDeviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height: 400px;">
+    <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width={{ if eq $deviceType "desktop" }}{{ $desktopWidth }}{{ else if eq $deviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height: 400px;">
       <div
         id="rumble_{{ $rumble }}"
         class="video-container"
@@ -75,7 +78,7 @@
             <div class="thumbnail__video">
               <img
                 class="thumbnail__image"
-                src="/cdn-cgi/image/width={{ if eq .Site.Params.CFDeviceType "desktop" }}{{ $desktopWidth }}{{ else if eq .Site.Params.CFDeviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=75,format=auto{{ $thumbnail | relURL }}"
+                src="/cdn-cgi/image/width={{ if eq $deviceType "desktop" }}{{ $desktopWidth }}{{ else if eq $deviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=75,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
               >
             </div>
