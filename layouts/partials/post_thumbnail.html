@@ -75,7 +75,7 @@
                 <img class="thumbnail__image" src="{{ $imgSrc | relURL }}" alt="{{ $page.Title }}">
               {{- else }}
                 <script>
-                  console.log("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}");
+                  console.log("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}; Intended Cloudflare Image URL: {{ $imgSrc | relURL }}");
                 </script>
                 <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ $page.Title }}">
               {{- end }}
