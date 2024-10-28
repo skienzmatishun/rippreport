@@ -35,7 +35,7 @@
           <a class="widget__link" href="{{ .RelPermalink }}">
             <h3>{{ .Title }}</h3>
             {{- if .Params.thumbnail }}
-              <div style="min-height: 200px;" class="widget__thumbnail">
+              <div class="widget__thumbnail">
                 {{- $thumbnail := .Params.thumbnail }}
                 <img loading="lazy" src="/cdn-cgi/image/width=431,quality=75,onerror=redirect,format=auto/{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
               </div>
