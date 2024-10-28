@@ -63,13 +63,22 @@
         <figure class="thumbnail">
           {{- if $thumbnail }}
             <div class="thumbnail__video">
-              {{- $imgSrc := if $isRippreportDomain }}
-                {{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $mobileWidth }}{{ end }}{{ $thumbnail | relURL }}
-              {{ else }}
-                <script>console.log("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}");</script>
-                {{ $thumbnail | relURL }}
-              {{ end }}
-              <img class="thumbnail__image" src="{{ $imgSrc }}" alt="{{ $page.Title }}">
+              {{- $imgSrc := "" }}
+              {{- if $isRippreportDomain }}
+                {{- if eq (index .Params "CF-Device-Type") "desktop" }}
+                  {{- $imgSrc = printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $desktopWidth }}
+                {{- else if eq (index .Params "CF-Device-Type") "tablet" }}
+                  {{- $imgSrc = printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $tabletWidth }}
+                {{- else }}
+                  {{- $imgSrc = printf "/cdn-cgi/image/width=%d,quality=75,format=auto" $mobileWidth }}
+                {{- end }}
+                <img class="thumbnail__image" src="{{ $imgSrc | relURL }}" alt="{{ $page.Title }}">
+              {{- else }}
+                <script>
+                  console.log("Fallback image used for {{ $page.Title }}: {{ $thumbnail | relURL }}");
+                </script>
+                <img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ $page.Title }}">
+              {{- end }}
             </div>
           {{- end }}
         </figure>
