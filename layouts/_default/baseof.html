@@ -55,7 +55,7 @@
         {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
 
         <div class="wrapper flex">
-            <main id="main-content" class="primary{{ if in .Params.categories "backstory-podcast" }} backstory__primary{{ end }}" role="main">
+            <main id="main-content" class="primary {{ if in .Params.categories "backstory-podcast" }} backstory__primary{{ end }}{{ if in .Params.categories "bcso" }} bcso__primary{{ end }}{{ if in .Params.categories "holiday" }} holiday__primary{{ end }}" role="main">
                 {{ block "main" . }}
                     {{ with .Content }}
                         <div class="content main__content clearfix">
