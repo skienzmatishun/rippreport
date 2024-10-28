@@ -33,25 +33,24 @@
     </div>
 </figure>
 {{- else if $thumbnail := $page.Params.thumbnail -}}
-{{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility -}}
-{{- $valueType := printf "%T" $thumbnail -}}
-{{- $isMap := in $valueType "map" -}}
-{{- if $isMap -}}
-    {{- $visibility = default $defaultVisibility (default $page.Site.Params.thumbnail.visibility $thumbnail.visibility) -}}
-    {{- $thumbnail = $thumbnail.src -}}
-{{- end -}}
-{{- if in $visibility $class -}}
-<a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
-    <figure class="thumbnail">
-        {{- if $thumbnail -}}
-        <div class="thumbnail__video">
-            <img class="thumbnail__image"
-                src="{{ if $isRippreportDomain }}/cdn-cgi/image/width={{ if eq .Site.Params.CFDeviceType "desktop" }}{{ $desktopWidth }}{{ else if eq .Site.Params.CFDeviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=75,format=auto{{ end }}{{ $thumbnail | relURL }}"
-                alt="{{ $page.Title }}">
-        </div>
-        {{- end -}}
-    </figure>
-</a>
-{{- end -}}
-{{- end -}}
+    {{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility -}}
+    {{- $valueType := printf "%T" $thumbnail -}}
+    {{- $isMap := in $valueType "map" -}}
+    {{- if $isMap -}}
+        {{- $visibility = default $defaultVisibility (default $page.Site.Params.thumbnail.visibility $thumbnail.visibility) -}}
+        {{- $thumbnail = $thumbnail.src -}}
+    {{- end -}}
+    {{- if in $visibility $class -}}
+    <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
+        <figure class="thumbnail">
+            {{- if $thumbnail -}}
+            <div class="thumbnail__video">
+                <img class="thumbnail__image"
+                    src="{{ if $isRippreportDomain }}/cdn-cgi/image/width={{ if eq .Site.Params.CFDeviceType "desktop" }}{{ $desktopWidth }}{{ else if eq .Site.Params.CFDeviceType "tablet" }}{{ $tabletWidth }}{{ else }}{{ $mobileWidth }}{{ end }},quality=75,format=auto{{ end }}{{ $thumbnail | relURL }}"
+                    alt="{{ $page.Title }}">
+            </div>
+            {{- end -}}
+        </figure>
+    </a>
+    {{- end -}}
 {{- end -}}
