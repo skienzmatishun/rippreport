@@ -380,39 +380,16 @@
 
  /* avatar beside comment content */
  .cactus-comment-avatar {
-     display: flex;
+     display: none;
  }
 
- /* the avatar image */
- /* todo: use a class */
- .cactus-comment-avatar > *:not(#dummy) {
-     width: 2.5rem;
-     height: 2.5rem;
-     border-radius: 50%;
-     /* todo: remove after using all: unset */
-     margin: 0;
- }
-
- /* in case of no avatar */
- .cactus-comment-avatar-placeholder {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     background-color: var(--cactus-border-color);
-     color: var(--cactus-text-color--soft);
- }
- .cactus-comment-avatar-placeholder::before {
-     content: "?"
- }
- .cactus-comment-avatar-placeholder::before {
-     content: "?"
- }
 
  /* header and body */
  .cactus-comment-content {
      display: flex;
      flex-direction: column;
      gap: 0.5em;
+     padding:1rem;
  }
 
  /* user name and posting time */
@@ -461,19 +438,6 @@
      max-width: 100%;
      height: auto;
  }
-
- .cactus-message-audio {
- }
-
- .cactus-message-file {
-     line-height: 3em;
-     margin-left: 1em;
- }
-
- .cactus-message-video {
-     max-width: 100%;
- }
-
 
  /*
   * ***** BUTTONS *****
