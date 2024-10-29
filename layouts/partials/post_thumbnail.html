@@ -11,10 +11,10 @@
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $mobileWidth }}{{ end }}{{ $page.Params.thumbnail | relURL }}{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center;">
+      <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $mobileWidth }}{{ end }}{{ $page.Params.thumbnail | relURL }}{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center;aspect-ratio: 16 / 9;">
         <div class="video-container">
           <iframe loading="lazy" class="thumbnail__iframe" src="https://www.youtube.com/embed/{{ $youtube }}" title="{{ $page.Title }} - YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+          {{ partial "svg/loading.svg" (dict "class" "loading") -}}
         </div>
       </div>
     </figure>
@@ -22,7 +22,7 @@
 
 {{- else if $rumble := $page.Params.rumble }}
   <figure class="thumbnail">
-    <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $mobileWidth }}{{ end }}{{ $page.Params.thumbnail | relURL }}{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center; min-height: 400px;">
+    <div class="thumbnail__video" style="background-image: url('{{ if $isRippreportDomain }}{{ if eq (index .Params "CF-Device-Type") "desktop" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $desktopWidth }}{{ else if eq (index .Params "CF-Device-Type") "tablet" }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $tabletWidth }}{{ else }}{{ printf "/cdn-cgi/image/width=%d,quality=50,blur=5,onerror=redirect,format=auto" $mobileWidth }}{{ end }}{{ $page.Params.thumbnail | relURL }}{{ else }}{{ $page.Params.thumbnail | relURL }}{{ end }}'); background-size: cover; background-position: center; aspect-ratio: 16 / 9;">
       <div id="rumble_{{ $rumble }}" class="video-container" data-rumble-id="{{ $rumble }}">
         <script>
           (function(r,u,m,b,l,e){
