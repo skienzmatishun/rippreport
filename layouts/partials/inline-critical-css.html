@@ -18,7 +18,9 @@ body{font-family: sans;
 0%{opacity:0;}
 100% {opacity:1;}
 }
-
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
 .primary {
   flex: 1 0 65.83%;
   order: 1;
@@ -147,7 +149,15 @@ display: flex;
   }
 .container--outer {
 box-shadow:none;
+margin:25px auto;
 }
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1080px;
+  }
+
+
 .list__title a, .logo__link, .widget__title {
   text-decoration: none;
 }
