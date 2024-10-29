@@ -1,65 +1,34 @@
 {{- $class := .class }}
 {{- $page := .page }}
 {{- $defaultVisibility := slice "list" "post" }}
-{{- $embedRendered := false }} <!-- Tracks if an embed has been rendered -->
 
-<!-- Conditional wrapper to check for YouTube or Rumble embed -->
-{{- if or $page.Params.youtube $page.Params.rumble }}
-  {{- if not $embedRendered }}
-    <!-- Render the first embed if not previously rendered -->
-    {{- if $youtube := $page.Params.youtube }}
-      <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
-        <figure class="thumbnail">
-          <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height:400px;">
-            <div class="video-container">
-              <iframe
-                loading="lazy"
-                class="thumbnail__iframe"
-                src="https://www.youtube.com/embed/{{ $youtube }}"
-                title="{{ $page.Title }} - YouTube video"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-              ></iframe>
-              {{ partial "svg/loading.svg" (dict "class" "loading") -}}
-            </div>
-          </div>
-        </figure>
-      </a>
-    {{- else if $rumble := $page.Params.rumble }}
+<!-- Initialize Scratch variable to control embed rendering -->
+{{- .Scratch.Set "embedRendered" false }}
+
+{{- if $youtube := $page.Params.youtube }}
+  {{- if not (.Scratch.Get "embedRendered") }}
+    <!-- Render YouTube embed for the first instance -->
+    <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
       <figure class="thumbnail">
         <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height:400px;">
-          <div
-            id="rumble_{{ $rumble }}"
-            class="video-container"
-            data-rumble-id="{{ $rumble }}"
-          >
-            <script>
-              (function(r,u,m,b,l,e){
-                r._Rumble=b;
-                if(!r[b]){
-                  r[b]=function(){
-                    (r[b]._=r[b]._||[]).push(arguments);
-                    if(r[b]._.length==1){
-                      l=u.createElement(m);
-                      e=u.getElementsByTagName(m)[0];
-                      l.async=1;
-                      l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments)));
-                      e.parentNode.insertBefore(l,e);
-                    }
-                  }
-                }
-              })(window, document, "script", "Rumble");
-              Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
-            </script>
+          <div class="video-container">
+            <iframe
+              loading="lazy"
+              class="thumbnail__iframe"
+              src="https://www.youtube.com/embed/{{ $youtube }}"
+              title="{{ $page.Title }} - YouTube video"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+            {{ partial "svg/loading.svg" (dict "class" "loading") -}}
           </div>
-          {{ partial "svg/loading.svg" (dict "class" "loading") -}}
         </div>
       </figure>
-    {{- end }}
-    {{- $embedRendered = true }}
+    </a>
+    {{- .Scratch.Set "embedRendered" true }}
   {{- else }}
-    <!-- Render only the thumbnail for additional instances -->
+    <!-- Render only the thumbnail for additional YouTube instances -->
     <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
       <figure class="thumbnail">
         <div class="thumbnail__video">
@@ -77,8 +46,60 @@
     </a>
   {{- end }}
 
-<!-- Fallback if neither YouTube nor Rumble embeds are present -->
+{{- else if $rumble := $page.Params.rumble }}
+  {{- if not (.Scratch.Get "embedRendered") }}
+    <!-- Render Rumble embed for the first instance -->
+    <figure class="thumbnail">
+      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height:400px;">
+        <div
+          id="rumble_{{ $rumble }}"
+          class="video-container"
+          data-rumble-id="{{ $rumble }}"
+        >
+          <script>
+            (function(r,u,m,b,l,e){
+              r._Rumble=b;
+              if(!r[b]){
+                r[b]=function(){
+                  (r[b]._=r[b]._||[]).push(arguments);
+                  if(r[b]._.length==1){
+                    l=u.createElement(m);
+                    e=u.getElementsByTagName(m)[0];
+                    l.async=1;
+                    l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments)));
+                    e.parentNode.insertBefore(l,e);
+                  }
+                }
+              }
+            })(window, document, "script", "Rumble");
+            Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
+          </script>
+        </div>
+        {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+      </div>
+    </figure>
+    {{- .Scratch.Set "embedRendered" true }}
+  {{- else }}
+    <!-- Render only the thumbnail for additional Rumble instances -->
+    <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
+      <figure class="thumbnail">
+        <div class="thumbnail__video">
+          <img
+            class="thumbnail__image"
+            srcset="
+              /cdn-cgi/image/width=1000,quality=75,format=auto{{ $page.Params.thumbnail | relURL }} 1000w,
+              /cdn-cgi/image/width=750,quality=75,format=auto{{ $page.Params.thumbnail | relURL }} 750w,
+              /cdn-cgi/image/width=500,quality=75,format=auto{{ $page.Params.thumbnail | relURL }} 500w"
+            sizes="(max-width: 500px) 100vw, (max-width: 750px) 50vw, 1000px"
+            alt="{{ $page.Title }}"
+          >
+        </div>
+      </figure>
+    </a>
+  {{- end }}
+
 {{- else }}
+  <!-- Fallback: Render only thumbnail if no YouTube or Rumble embed is found -->
   {{- if $thumbnail := $page.Params.thumbnail }}
     {{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility }}
     {{- $valueType := printf "%T" $thumbnail -}}
