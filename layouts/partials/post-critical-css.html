@@ -1,5 +1,13 @@
 <style>
-html {background:#15191e}
+body, html  {background:#15191e;
+animation:fadein;
+animation-duration:.5s;
+}
+
+@keyframes fadein {
+0%{opacity:0;}
+100% {opacity:1;}
+}
 .post__title {
 background: #333;
   color: white;
@@ -121,10 +129,7 @@ p {
     margin: 0 0 1.25rem;
     margin-top: 1.25em
 }
-.btn, .logo__link, .widget__title, .top-social a:first-child, .top-social a:last-child,
-.widget__link h3, .widget__summary, holiday__title a {
-    color: #fff;
-}
+
 .header {
 background:#232222;
 }
@@ -236,5 +241,8 @@ padding:2rem;}
 div.bsp_container div a {
     text-align:center;
 }
-
+.btn, .logo__link, .widget__title, .top-social a:first-child, .top-social a:last-child,
+.widget__link h3, .widget__summary, holiday__title a {
+    color: #fff;
+}
 </style>
