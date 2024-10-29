@@ -286,7 +286,11 @@ min-height: 172px;
 min-height:400px;
 max-height:407px;
 }
+  .backstory__title {
+    font-family: 'Amatic SC', cursive;
+    background:linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(236,236,236,1) 48%, rgba(122,122,122,1) 100%);
 
+    }
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 primary {
@@ -297,6 +301,7 @@ primary {
   .wrapper {
     display: block;
   }
+  .social-preview{max-width: none;}
 .header-search, .top-social{display:none;}
 
   /* Styles for extra small screens */
@@ -305,6 +310,9 @@ primary {
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
   /* Styles for small screens */
+  .primary {
+    flex: 1 0 55.83%;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
