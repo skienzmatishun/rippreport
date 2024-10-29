@@ -1,6 +1,15 @@
 <style>
-html {background:#15191e}
-body {background:#15191e;}
+html {background:#15191e;}
+body {background:#15191e;
+animation:fadein;
+animation-duration:.5s;
+}
+
+@keyframes fadein {
+0%{opacity:0;}
+100% {opacity:1;}
+}
+
 .clearfix::after {
     content: "";
     display: table;
@@ -80,7 +89,7 @@ display: flex;
   justify-content: end;
   gap: 5px;
   position: absolute;
-  right: 10px;
+  right: 5px;
   bottom: 25px;
   height: 40px;
   width:450px;
