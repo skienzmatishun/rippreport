@@ -1,14 +1,15 @@
 {{- $class := .class }}
 {{- $page := .page }}
 {{- $defaultVisibility := slice "list" "post" }}
-{{- $embedRendered := false }} <!-- Variable to check if an embed has already been rendered -->
+{{- $embedRendered := false }} <!-- Variable to control if an embed has already been rendered -->
 
+<!-- Check for YouTube embed -->
 {{- if $youtube := $page.Params.youtube }}
   {{- if not $embedRendered }}
-    <!-- Load YouTube embed for the first instance -->
+    <!-- Render YouTube embed for the first instance -->
     <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
       <figure class="thumbnail">
-        <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;min-height:400px;">
+        <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height:400px;">
           <div class="video-container">
             <iframe
               loading="lazy"
@@ -24,9 +25,9 @@
         </div>
       </figure>
     </a>
-    {{- $embedRendered = true }} <!-- Set embed rendered to true after first instance -->
+    {{- $embedRendered = true }}
   {{- else }}
-    <!-- Only show thumbnail for subsequent instances -->
+    <!-- Render only thumbnail for subsequent YouTube instances -->
     <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
       <figure class="thumbnail">
         <div class="thumbnail__video">
@@ -44,11 +45,12 @@
     </a>
   {{- end }}
 
+<!-- Check for Rumble embed if YouTube is not found -->
 {{- else if $rumble := $page.Params.rumble }}
   {{- if not $embedRendered }}
-    <!-- Load Rumble embed for the first instance -->
+    <!-- Render Rumble embed for the first instance -->
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;min-height:400px;">
+      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=500,quality=50,blur=5,onerror=redirect,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center; min-height:400px;">
         <div
           id="rumble_{{ $rumble }}"
           class="video-container"
@@ -76,9 +78,9 @@
         {{ partial "svg/loading.svg" (dict "class" "loading") -}}
       </div>
     </figure>
-    {{- $embedRendered = true }} <!-- Set embed rendered to true after first instance -->
+    {{- $embedRendered = true }}
   {{- else }}
-    <!-- Only show thumbnail for subsequent instances -->
+    <!-- Render only thumbnail for subsequent Rumble instances -->
     <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
       <figure class="thumbnail">
         <div class="thumbnail__video">
@@ -96,8 +98,8 @@
     </a>
   {{- end }}
 
+<!-- Fallback when no YouTube or Rumble embed is found -->
 {{- else }}
-  <!-- Fallback for when there is no YouTube or Rumble embed -->
   {{- if $thumbnail := $page.Params.thumbnail }}
     {{- $visibility := $page.Site.Params.thumbnail.visibility | default $defaultVisibility }}
     {{- $valueType := printf "%T" $thumbnail -}}
