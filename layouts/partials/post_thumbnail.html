@@ -71,8 +71,11 @@
             <div class="thumbnail__video">
               <img
                 class="thumbnail__image"
-                src="{{ $thumbnail | relURL }}"
-
+                srcset="
+                  /cdn-cgi/image/width=1000,quality=75,format=auto{{ $thumbnail | relURL }} 1000w,
+                  /cdn-cgi/image/width=750,quality=75,format=auto{{ $thumbnail | relURL }} 750w,
+                  /cdn-cgi/image/width=500,quality=75,format=auto{{ $thumbnail | relURL }} 500w"
+                sizes="(max-width: 500px) 100vw, (max-width: 750px) 50vw, 1000px"
                 alt="{{ $page.Title }}"
               >
             </div>
