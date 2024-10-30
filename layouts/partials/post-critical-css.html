@@ -9,6 +9,7 @@ body {
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
+	margin:0;
 }
 
 .flex {
@@ -61,8 +62,12 @@ margin:2rem;
 	width: 100%;
 	max-width: 1080px;
 	overflow: hidden;
+margin: auto;
+  margin-top: 0;
 }
-
+.clearfix {
+  display: block;
+}
 .primary {
 	flex: 1 0 65.83%;
 	order: 1;
@@ -470,6 +475,10 @@ min-height: 250px;
     .thumbnail__video{
 min-height: 375px;
 }
+ .container--outer {
+    width: 100%;
+    margin: 0 auto;
+  }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */

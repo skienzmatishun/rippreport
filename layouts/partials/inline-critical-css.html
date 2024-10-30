@@ -9,6 +9,7 @@ body {
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
+	margin:0;
 }
 
 *,
@@ -16,7 +17,9 @@ body {
 ::after {
 	box-sizing: border-box;
 }
-
+.clearfix {
+  display: block;
+}
 .flex {
 	display: flex;
 }
@@ -191,25 +194,25 @@ holiday__title a {
 }
 
 .container--outer {
-	width: 100%
+	width: 100%;
+	box-shadow: none;
 }
 
 .logo__link:hover {
 	color: white;
 }
 
-.container--outer {
-	box-shadow: none;
-
-}
-
 .container {
 	position: relative;
 	width: 100%;
 	max-width: 1080px;
+	overflow: hidden;
+	margin: auto;
+  margin-top: 0;
 }
-
-
+.post__title {
+margin:0;
+}
 .list__title a,
 .logo__link,
 .widget__title {
