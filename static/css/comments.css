@@ -374,8 +374,7 @@
      flex-direction: row;
      gap: 1em;
      padding-block-end: 0.5em;
-     border-block-end: var(--cactus-border-width) solid var(--cactus-border-color);
-
+     border-block-end: var(--cactus-border-width) solid hsla(0, 0%, 20%, 0.2);
  }
 
  /* avatar beside comment content */
