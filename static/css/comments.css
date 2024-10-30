@@ -509,3 +509,8 @@
          transform: scaleY(1.0);
      }
  }
+ @media (max-width: 575.98px) {
+
+ .cactus-container{min-width:0px;}
+
+ }
