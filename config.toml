@@ -17,12 +17,12 @@ logo = "https://rippreport.com/img/eagle.png"
   authorbox = false 
   toc = false 
   pager = true 
-  post_meta = ["date"]
+  post_meta = [""]
   mainSections = ["p"]
   mathjax = false
   opengraph = true
   #customCSS = ["css/custom.css"] # Include custom CSS files
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+  #googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
 [Params.sidebar]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
