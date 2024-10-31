@@ -29,19 +29,21 @@
 
     <link href="https://rippreport.com/fonts/css2?family=Amatic+SC:wght@700&family=Sixtyfour+Convergence:XELA@-60&display=block" rel="stylesheet">
 
-    {{/* Styles */}}
-    {{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    {{ range .Site.Params.customCSS -}}
-        <link rel="stylesheet" href="{{ . | relURL }}">
-    {{- end }}
+{{/* Styles */}}
+{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{ range .Site.Params.customCSS -}}
+    <link rel="stylesheet" href="{{ . | relURL }}">
+{{- end }}
 
-    {{/* Conditional Critical CSS */}}
-    {{ if .IsHome }}
-        {{ partial "inline-critical-css.html" }}
-    {{ else }}
-        {{ partial "post-critical-css.html" }}
-    {{ end }}
+{{/* Conditional Critical CSS */}}
+{{ if .IsHome }}
+    {{ partial "inline-critical-css.html" }}
+{{ else if .Paginator.HasPagination }}
+    <link rel="stylesheet" href="https://rippreport.com/css/custom.css">
+{{ else }}
+    {{ partial "post-critical-css.html" }}
+{{ end }}
 
     {{/* RSS Feed */}}
     {{- with .OutputFormats.Get "rss" }}
