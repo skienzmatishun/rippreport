@@ -37,7 +37,7 @@
             {{- if .Params.thumbnail }}
               <div class="widget__thumbnail">
                 {{- $thumbnail := .Params.thumbnail }}
-                <img loading="lazy" src="/cdn-cgi/image/width=336,quality=80,onerror=redirect,format=auto/{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
+                <img loading="lazy" src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $thumbnail }}" alt="Thumbnail" class="widget__thumbnail-image">
               </div>
             {{- end }}
             <p style="text-align:left;" class="widget__summary">{{ .Summary }}</p>
