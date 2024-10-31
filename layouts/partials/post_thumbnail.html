@@ -49,7 +49,7 @@
           Rumble("play", {"video":"{{ $rumble }}","div":"rumble_{{ $rumble }}"});
         </script>
       </div>
-      {{ partial "svg/loading.svg" (dict "class" "loading") -}}
+
     </div>
   </figure>
 
@@ -72,12 +72,11 @@
               <img
                 class="thumbnail__image"
                 srcset="
-                  /cdn-cgi/image/width=725,quality=75,format=auto{{ $thumbnail | relURL }} 1000w,
-                  /cdn-cgi/image/width=725,quality=75,format=auto{{ $thumbnail | relURL }} 750w,
+                  /cdn-cgi/image/width=750,quality=75,format=auto{{ $thumbnail | relURL }} 750w,
                   /cdn-cgi/image/width=500,quality=75,format=auto{{ $thumbnail | relURL }} 500w"
-                sizes="(max-width: 500px) 100vw, (max-width: 750px) 50vw, 1000px"
+                sizes="(max-width: 500px) 100vw, 750px"
                 alt="{{ $page.Title }}"
-                onerror="console.log('Fallback image used for {{ $page.Title }}: {{ $thumbnail }}; Intended Cloudflare Image URLs: /cdn-cgi/image/width=725,quality=75,format=auto{{ $thumbnail | relURL }}, /cdn-cgi/image/width=750,quality=75,format=auto{{ $thumbnail | relURL }}, /cdn-cgi/image/width=500,quality=75,format=auto{{ $thumbnail | relURL }}')"
+                onerror="console.log('Fallback image used for {{ $page.Title }}: {{ $thumbnail }}; Intended Cloudflare Image URLs: /cdn-cgi/image/width=750,quality=75,format=auto{{ $thumbnail | relURL }}, /cdn-cgi/image/width=500,quality=75,format=auto{{ $thumbnail | relURL }}')"
               >
             </div>
           {{- end }}
