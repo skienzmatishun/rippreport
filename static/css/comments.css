@@ -409,7 +409,7 @@
 
  /* comment posting time  */
  .cactus-comment-time {
-     color: var(--cactus-text-color--soft)
+     color: hsl(0, 0%, 25.1%);
  }
 
  /* text or media content of comment */
