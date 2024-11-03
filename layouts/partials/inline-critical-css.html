@@ -53,7 +53,10 @@ section {
 	display: inline-block;
 	vertical-align: middle;
 }
-
+.logo__img {
+position: relative;
+  bottom: -12px;
+}
 .clearfix::after {
 	content: "";
 	display: table;
@@ -154,7 +157,9 @@ holiday__title a {
 .header {
 	background: #232222;
 }
-
+.widget__thumbnail-image, .thumbnail__image {
+aspect-ratio:2 / 1;
+}
 .header-search {
 	display: flex;
 	justify-content: end;
@@ -179,10 +184,8 @@ holiday__title a {
 	width: 351px;
 	display: inline-block;
 	color: white;
-	font-size: 40px;
+	font-size: 25px;
 	position: relative;
-
-	animation-duration: 1s;
 }
 
 .container--outer {
@@ -297,10 +300,11 @@ background: linear-gradient(to right, #646464 0%,#dfe2e7 50%,#646464 100%);
 	float: none;
 	margin: auto;
 	display: flex;
-	width: 117px;
+	width: 125px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	font-size: 1.25rem;
+	justify-content:center;
 }
 
 .content {
@@ -456,5 +460,10 @@ font-size:1.25rem !important;
 .thumbnail__video{
 min-height: 355px;
 }
+}
+@media screen and (max-width: 767px) {
+  .logo {
+    text-align: left;
+  }
 }
 </style>
