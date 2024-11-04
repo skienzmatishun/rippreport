@@ -25,7 +25,7 @@ LISTEN to the Narrative *A Verbal Lynching in Alabama* by: Nancy Koerner
 
 PLEASE SUPPORT US THROUGH SPOT FUND AND PUBLIC PARTICIPATION
 
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/feLHjB7YfN">https://t.co/feLHjB7YfN</a></p>&mdash; 𝐑𝐈𝐏𝐏 𝐑𝐄𝐏𝐎𝐑𝐓 (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1803608778689937632?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< twitter id="1803608778689937632" >}}
 
 Any and all funds, 100%, will go towards the filing fees, coping documents or such things as expert witnesses.
 
