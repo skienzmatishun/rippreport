@@ -1,16 +1,8 @@
+<div id="comment-section" data-section="{{ index .Params 0 }}"></div>
 <script type="text/javascript" src="https://rippreport.com/js/cactus.js"></script>
-
 <link href="https://rippreport.com/css/comments.css" rel="stylesheet">
-<div id="comment-section"></div>
 <script>
-initComments({
-  node: document.getElementById("comment-section"),
-  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-  serverName: "cactus.chat",
-  siteName: "rippreport.com",
-  pageSize: 15,
-  commentSectionId: "{{ index .Params 0 }}"
-})
+
 function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
