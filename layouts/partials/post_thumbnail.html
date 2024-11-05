@@ -71,9 +71,8 @@
             <div class="thumbnail__video">
               <img
                 class="thumbnail__image"
-                src="/cdn-cgi/image/width=750,quality=75,format=auto{{ $thumbnail | relURL }}"
+                src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
-                onerror="console.log('Fallback image used for {{ $page.Title }}: {{ $thumbnail }}; Intended Cloudflare Image URL: /cdn-cgi/image/width=750,quality=75,format=auto{{ $thumbnail | relURL }}')"
               >
             </div>
           {{- end }}
