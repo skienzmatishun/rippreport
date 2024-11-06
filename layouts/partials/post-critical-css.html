@@ -422,11 +422,36 @@ font-size:2.5rem
 	/* Styles for extra small screens */
 
 .thumbnail__video{
-	min-height: 175px;
+	min-height: 279px;
 }
 
 	}
+@media (max-width: 575.98px) {
+.thumbnail__video{
+min-height: 175px;
+}
+.logo {
+height:initial;
+}
+.bcso__list__header {
+font-size:1.25rem !important;
+}
+	.primary {
+		flex: 1;
+		order: 1;
+		width: 100%;
+	}
 
+	.wrapper {
+		display: block;
+	}
+
+	.header-search,
+	.top-social {
+		display: none;
+	}
+
+}
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
 
@@ -435,18 +460,7 @@ font-size:2.5rem
 		max-width: 99% !important;
 		min-width:0 !important;
 	}
-	.logo {
-height:initial;
-}
-
-	.header-search,
-	.top-social {
-		display: none;
-	}
-	.primary {
-		flex: 1 0 55.83%;
-	}
-
+	
 	.cactus-container {
 		min-width:0 !important;
 	}
