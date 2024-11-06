@@ -12,7 +12,7 @@
 <aside class="sidebar{{ if eq $sidebar "left" }} sidebar--left{{ end }}">
     <div class="backstory-sidebar">
         <div class="backstory-logo">
-            <img alt="Backstory Podcast" height="54px" width="100px" srcset="/cdn-cgi/image/width=100,format=auto/img/backstory-logo.jpg 1x, /cdn-cgi/image/width=200,format=auto/img/backstory-logo.jpg 2x" src="/cdn-cgi/image/width=100,format=auto/img/backstory-logo.jpg">
+            {{ partial "svg/backstory.svg" (dict "id" "backstorypodcast") }}
         </div>
         <div class="backstory-social">
             <a aria-label="Backstory Podcast Facebook Page" style="height: 24px;width:24px;" href="https://www.facebook.com/BackstoryPodcast/">{{ partial "svg/facebook.svg" (dict "id" "facebook") }}</a>
