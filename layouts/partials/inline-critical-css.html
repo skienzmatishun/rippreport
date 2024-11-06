@@ -85,6 +85,7 @@ h6 {
 
 figure {
 	margin: 0;
+	background-color: #585858;
 }
 
 h1 {
@@ -206,7 +207,13 @@ holiday__title a {
 }
 .post__title {
 margin:0;
+background-color:#232323;
+max-width:725px;
 }
+.post__title a {
+color:white;
+}
+
 .list__title a,
 .logo__link,
 .widget__title {
@@ -239,9 +246,7 @@ margin:0;
 	order: 2;
 	min-width: 0;
 	margin: 0;
-	background: #2c2c2c;
 	padding: 10px;
-	min-width: 350px;
 }
 
 .widget__title {
@@ -254,6 +259,7 @@ margin:0;
 .wrapper {
 	padding: 0;
 	max-width: 1080px;
+	background:#2c2c2c;
 }
 
 
@@ -275,23 +281,28 @@ display: flex;
 
 }
 .backstory-logo svg{
-	transform:scale(5);
-	position:relative;
-	left:100px;
+margin-left:5px;
   }
+<<<<<<< HEAD
 .backstory-logo {height:40px;width:100%;}
 .backstory__title, backstory__btn {
 	font-family: 'Amatic SC', cursive;
 background: linear-gradient(to right, #646464 0%,#dfe2e7 50%,#646464 100%);
 
 }
+=======
+.backstory-logo {height:30px;width:100%;}
+.backstory__title, backstory__btn {
+	font-family: 'Amatic SC', cursive;
+background: linear-gradient(to right, #646464 0%,#dfe2e7 50%,#646464 100%);
+}
+.backstory__title a {color:black;}
+>>>>>>> bspsvg
 .backstory-social {
-	display: flex;
-	position: relative;
-	gap: 5px;
-	  margin-right: 5px;
-  padding-top: 10px;
-  bottom: -10px;
+display:flex;
+gap: 3px;
+transform: scale(65%);
+
 }
 .list__footer-readmore {
 	float: none;
@@ -306,6 +317,7 @@ background: linear-gradient(to right, #646464 0%,#dfe2e7 50%,#646464 100%);
 
 .content {
 	padding: 2rem;
+	max-width:725px;
 }
 
 .widget__item {
@@ -342,7 +354,9 @@ background: linear-gradient(to right, #646464 0%,#dfe2e7 50%,#646464 100%);
 	background-color: #d5be00;
 	font-family: sans-serif;
 }
-
+.bcso__title a {
+color:black;
+}
 .bcso__post {
 	overflow: hidden;
 	background: radial-gradient(circle, rgb(255, 249, 225) 49%, rgb(0, 0, 0) 75%) !important;
@@ -392,7 +406,7 @@ background:transparent !important;
 .primary {
 	background: #404040
 }
-
+.thumbnail__link {max-width:750px;}
 .pagination__item {
 	background: transparent;
 }
