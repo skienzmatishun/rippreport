@@ -2,6 +2,11 @@
 title: "PERFECT PUZZLE"
 date: 2021-12-08
 thumbnail: "img/perfect-puzzle.png"
+tags:
+  - Ethics Commission
+  - Alabama AG
+  - Albritton
+  - Mabel Amos Trust
 categories:
   - ethics
 authors: 

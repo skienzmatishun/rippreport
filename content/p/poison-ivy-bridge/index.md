@@ -2,6 +2,11 @@
 title: "POISON IVY BRIDGE"
 date: 2019-08-16
 thumbnail: "img/poison-ivy-bridge.jpg"
+tags:
+  - Toll Bridge
+  - Mayor Wilson
+  - City Council
+  - Elliott
 categories: 
   - bridge
 authors: 

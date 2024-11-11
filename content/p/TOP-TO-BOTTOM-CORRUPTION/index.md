@@ -2,6 +2,10 @@
 title: "TOP TO BOTTOM CORRUPTION"
 date: 2023-07-21
 thumbnail: "img/top-to-down-corruption.jpg"
+tags:
+  - Ethics Commission
+  - Alabama AG
+  - Steve Marshall
 categories: 
   - freaky-friday
 authors: 
@@ -48,4 +52,3 @@ Alabama makes Washington D. C. look like a bunch of angels.
 
 {{< chat top >}}
 
-{{< mailchimp >}}

@@ -2,6 +2,9 @@
 title: "NAIL IN THE COFFIN"
 date: 2019-10-30
 thumbnail: "img/nail-in-the-coffin.png"
+tags:
+  - City Council
+  - Budget
 categories: 
   - citycouncil
 authors: 

@@ -2,8 +2,13 @@
 title: "LINE IN THE SAND"
 date: 2022-07-24
 thumbnail: "img/line-in-the-sand.jpg"
+tags:
+  - Mabel Amos Trust
+  - Ethics Commission
+  - Alabama AG
+  - Albritton
 categories: 
-  - sunday-sunrise
+  - ethics
 authors: 
   - admin
 ---

@@ -2,13 +2,17 @@
 title: "LIARS BRIDGE"
 date: 2022-07-29
 thumbnail: "img/liars-bridge.jpg"
+tags:
+  - Toll Bridge
+  - Jack Burrell
+  - Jerry Carl
 categories: 
   - freaky-friday
 authors: 
   - admin
 ---
 
-No one denies that a mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”
+No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”
 
 The bridge is needed but traffic is second to expanding development, that is the major motivator.
 

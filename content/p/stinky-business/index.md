@@ -2,6 +2,9 @@
 title: "STINKY BUSINESS"
 thumbnail: "img/stinky-business.jpg"
 date: 2022-05-19
+tags:
+  - Sewer
+  - BCSS
 categories: 
   - thursday-thunder
 authors: 

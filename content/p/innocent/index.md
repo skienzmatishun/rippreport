@@ -2,8 +2,12 @@
 title: "INNOCENT"
 date: 2022-04-22
 thumbnail: "img/innocent.jpg"
+tags:
+  - Murray Lawrence Jr
+  - Hoss Mack
+  - BCSO
 categories: 
-  - deal-with-the-devil
+  - dwtd
 authors: 
   - admin
 ---

@@ -2,6 +2,13 @@
 title: "TOTAL DARKNESS"
 date: 2022-01-26
 thumbnail: "img/total-darkness.png"
+tags:
+  - Alabama AG
+  - Steve Marshall
+  - Burrell
+  - Jack Burrell
+  - Mayor Sullivan
+  - BCSO
 categories: 
   - wonderful-wednesday
 authors: 

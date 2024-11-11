@@ -2,8 +2,10 @@
 title: "FAUXHOPE HISTORY"
 date: 2023-09-17
 thumbnail: "img/fauxhope-history.jpg"
+tags:
+  - Mayor Sullivan
 categories: 
-  - sunday-sunrise
+  - citycouncil
 authors: 
   - admin
 ---

@@ -2,6 +2,15 @@
 title: "TICK-TOCK"
 date: 2019-01-23
 thumbnail: "img/tick-tock.jpg"
+tags:
+  - Fairhope Pier
+  - Fairhope Clock
+  - City Council
+  - Fly Creek Apartments
+  - Tuberville Gully
+  - K1 Center
+  - Matt Bowers
+
 categories: 
   - wonderful-wednesday
 authors: 

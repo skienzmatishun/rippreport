@@ -2,6 +2,13 @@
 title: "NO MO BRIDGE"
 date: 2021-06-30
 thumbnail: "img/no-mo-bridge.png"
+tags:
+  - Toll Bridge
+  - Mo Brooks
+  - Jack Burrell
+  - Burrell
+  - Lottery
+  - Marijuana
 categories: 
   - other
 authors: 

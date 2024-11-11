@@ -2,6 +2,10 @@
 title: "Letter to the Alabama Attorney General"
 thumbnail: "img/letter-to-the-alabama-attorney-general.png"
 date: 2021-07-16
+tags:
+  - Ethics Commission
+  - Alabama AG
+  - Albritton
 categories: 
   - freaky-friday
 authors: 

@@ -2,6 +2,11 @@
 title: "I SEE YOU"
 date: 2023-05-23
 thumbnail: "img/i-see-you.jpg"
+tags:
+  - City Council
+  - Snedeker
+  - Utilities
+  - Infrastructure
 categories: 
   - terrific-tuesday
 authors: 

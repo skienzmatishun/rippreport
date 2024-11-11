@@ -2,6 +2,9 @@
 title: "MALFUNCTION JUNCTION"
 date: 2020-01-08
 thumbnail: "img/malfunction-junction.jpg"
+tags:
+  - Elections
+  - City Council
 categories: 
   - wonderful-wednesday
 authors: 

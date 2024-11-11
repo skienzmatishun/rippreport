@@ -2,6 +2,11 @@
 title: "LAST CHANCE"
 date: 2022-05-23
 thumbnail: "img/last-chance.png"
+tags:
+  - Elections
+  - Catalyst
+  - Matt McKenzie
+  - Johnathan Armstrong
 categories: 
   - monday-madness
 authors: 

@@ -2,6 +2,10 @@
 title: "THIS IS A TEST"
 date: 2021-10-22
 thumbnail: "img/this-is-a-test.jpg"
+tags:
+  - Ethics Commission
+  - Mabel Amos Trust
+  - Albritton
 categories: 
   - ethics
 authors: 

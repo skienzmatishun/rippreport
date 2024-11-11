@@ -2,6 +2,10 @@
 title: "I-10 Toll Bridge State"
 date: 2021-06-11
 thumbnail: "img/i-10-toll-state.png"
+tags:
+  - Toll Bridge
+  - Burrell
+  - MPO
 categories: 
   - elections
 authors: 

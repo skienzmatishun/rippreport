@@ -2,6 +2,11 @@
 title: "SKUNKED"
 date: 2018-08-25
 thumbnail: "img/skunked.jpg"
+tags:
+  - Zunk
+  - Elections
+  - Catalyst
+  - City Council
 categories: 
   - freaky-friday
 authors: 

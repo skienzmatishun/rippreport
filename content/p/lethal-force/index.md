@@ -2,6 +2,10 @@
 title: "LETHAL FORCE"
 date: 2022-09-10
 thumbnail: "img/lethal-force.jpg"
+tags:
+  - BCSO
+  - OJ French
+  - Bay Minette
 categories: 
   - bcso
 authors: 

@@ -2,6 +2,10 @@
 title: "SPECIAL INTEREST"
 date: 2018-10-26
 thumbnail: "img/special-interest.jpg"
+tags:
+  - catalyst
+  - Elections
+  - City Council
 categories: 
   - freaky-friday
 authors: 
@@ -10,36 +14,9 @@ authors:
 
 It is easy to see that people with special interests, Catalyst connections, or are from the Tim Can’t Club, do not want to see any change in Fairhope Government. They represent about 30% of the City’s population. They know a change of Government will cut off their access to slate candidates and greatly reduce their ability to “control” Fairhope, not Govern but “control.” The current Fairhope City Council is an “at Large Catalyst council” that has the most dismal record of any Fairhope Council in 20 years, they cannot even deliver a budget on time. WHY ? Would the citizens of Fairhope want to go backwards rather than forward?
 
-<div class="link-preview">
+{{< socialpreview url="https://rippreport.com/p/hell-yea/" >}}
+{{< socialpreview url="https://www.fox10tv.com/news/town-hall-meeting-to-discuss-a-new-form-of-government/article_1933f438-d7c9-11e8-8afc-4fa22e952630.html" >}}
 
-## HELL YEA
-
-### HELL YEA | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/09/frustration-md.png)
-
-FAIRHOPE CHANGE OF GOVERNMENT The Fairhope City Council is on a roundabout and doesn’t know where to exit. The present Council is an “at Large” council, they are not going to vote for change.
-
-Source: [rippreport.com/2018/09/24/hell-yea/](https://rippreport.com/hell-yea/)
-
-</div>
-Fairhope will go to districts anyway in just a few years when the benchmark in population is reached.
-
-For your convenience the link to the Town Hall meeting and discussion about the new form of Government is below, watch it please:
-
-<div class="link-preview">
-
-## Town hall meeting to discuss a new form of government in Fairhope
-
-### Town hall meeting to discuss a new form of government in Fairhope
-
-![](https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/9/80/98026d63-be2f-5e81-ba4e-2afe752c28d8/5bd140d47c31d.preview.jpg?resize=1120%2C630)
-
-The forum starts at 6 p.m. Wednesday at Centennial Hall on the campus of Coastal Community College.
-
-Source: [www.fox10tv.com/news/town-hall-meeting-to-discuss-a-new-form-of-government/article\_1933f438-d7c9-11e8-8afc-4fa22e952630.html](https://www.fox10tv.com/news/town-hall-meeting-to-discuss-a-new-form-of-government/article_1933f438-d7c9-11e8-8afc-4fa22e952630.html)
-
-</div>
 The Ripp Report predicts that in the next 10 days that we will see just who becomes the spokesman for a no vote. The Ripp Report will be sure to give you the back story.
 
 There are three major groups in Fairhope pushing for a YES VOTE, for the Change of Government. Fresh Start Fairhope has provided information on the voting procedure for Fairhope residents on Nov. 6th.
@@ -50,23 +27,12 @@ FRESH START October 12, 2018: Update - Voting Procedures on November 6 Friends a
 
 Two more independent citizen groups are being formed in support of the YES vote
 
-<div class="link-preview">
-
 ## PLEASE VOTE NOV> 6TH<2018
 
 ## VOTE YES
 
-## FAIRHOPE – CATALYST a Dirty Little Secret
+{{< socialpreview url="https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/" >}}
 
-### FAIRHOPE – CATALYST a Dirty Little Secret | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/09/1600px-Fairhope_Pier_and_walkway.jpg)
-
-The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was…
-
-Source: [rippreport.com/2018/09/21/fairhope-catalyst-a-dirty-little-secret/](https://rippreport.com/fairhope-catalyst-a-dirty-little-secret/)
-
-</div>
 Don’t be fooled by deliberate confusion, fear or intimidation, Fairhope deserves better.
 
 VOTE YES

@@ -2,6 +2,8 @@
 title: "REPEAT"
 date: 2018-01-06
 thumbnail: "img/repeat.png"
+tags:
+  - City Council
 categories: 
   - freaky-friday
 authors: 

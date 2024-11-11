@@ -2,6 +2,9 @@
 title: "MAKE 8 GREAT"
 date: 2021-10-16
 thumbnail: "img/make-8-great.jpg"
+tags:
+  - Elections
+  - Zoning
 categories: 
   - freaky-friday
 authors: 

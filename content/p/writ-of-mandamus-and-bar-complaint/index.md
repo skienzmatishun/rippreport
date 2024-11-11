@@ -2,6 +2,10 @@
 title: "WRIT OF MANDAMUS AND BAR COMPLAINT"
 date: 2021-07-15
 thumbnail: "img/writ-of-marandamus-and-bar-complaint.png"
+tags:
+  - Ethics Commission
+  - Albritton
+  - Mabel Amos Trust
 categories: 
   - ethics
 authors: 

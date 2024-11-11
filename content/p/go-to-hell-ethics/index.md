@@ -4,6 +4,10 @@ date: 2023-01-28
 categories: 
   - ethics
 thumbnail: "img/scale-flames.jpg"
+tags:
+  - Ethics Commission
+  - Brad Hicks
+  - Mayor Bob Wills
 authors: 
   - admin
 ---

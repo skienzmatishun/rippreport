@@ -8,6 +8,7 @@ tags:
   - catalyst
   - fairhope-pier
   - fairhope-waterfront
+  - Waterfront
 authors: 
   - admin
 ---
