@@ -1,6 +1,9 @@
 ---
 title: "McSHARRY’S OLD FLOWER HANDSHAKE"
 date: 2023-01-23
+tags:
+  - McSharry
+  - McSharrys
 categories: 
   - monday-mayhem
 thumbnail: "img/lucky-charms.jpg"

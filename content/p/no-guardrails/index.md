@@ -2,6 +2,9 @@
 title: "NO GUARDRAILS"
 date: 2018-11-23
 thumbnail: "img/no-guardrails.jpg"
+tags:
+  - Alabama AG
+  - Ethics Commission
 categories: 
   - ethics
 authors: 
