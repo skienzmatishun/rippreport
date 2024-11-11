@@ -23,7 +23,7 @@ body {
 .flex {
 	display: flex;
 }
-
+.main__title {display:none;}
 
 article,
 aside,
