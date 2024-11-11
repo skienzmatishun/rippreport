@@ -404,6 +404,9 @@ display: none;
 .widget__summary {
 	font-size:.9rem;
 }
+
+.bsp_container div a {color:black !important; padding-bottom:3px;}
+
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 	.primary {
