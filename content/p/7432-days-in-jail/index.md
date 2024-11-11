@@ -2,8 +2,10 @@
 title: "7432 DAYS IN JAIL"
 date: 2023-10-12T00:00:00Z
 thumbnail: "img/7432-days-in-jail.jpg"
+tags:
+  - Murray Lawrence Jr
+  - Hoss Mack
 categories: 
-  - thursday-thunder
   - dwtd
 authors: 
   - admin

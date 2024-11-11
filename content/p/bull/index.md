@@ -3,7 +3,9 @@ title: "BULL SITTING Fairhope"
 date: 2023-08-09
 thumbnail: "img/bull-tower.jpg"
 categories: 
-  - thursday-thunder
+  - City Council
+  - Utilities
+  - Waterfront
 authors: 
   - admin
 ---

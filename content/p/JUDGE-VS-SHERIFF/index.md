@@ -2,6 +2,10 @@
 title: "JUDGE VS. SHERIFF"
 date: 2023-09-22
 thumbnail: "img/judge-vs-sheriff.jpg"
+tags:
+  - BCSO
+  - Hoss Mack
+  - Pittman
 categories: 
   - bcso
 authors: 

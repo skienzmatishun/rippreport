@@ -2,6 +2,12 @@
 title: "BCSO - HOW TO BECOME SHERIFF"
 date: 2024-07-16
 thumbnail: "img/bcso-how-to-become-sheriff.jpg"
+tags:
+  - Hoss Mack
+  - BCSO
+  - Anthony Lowery
+  - McGowan
+  - Murray Lawrence Jr
 categories: 
   - bcso
 authors: 

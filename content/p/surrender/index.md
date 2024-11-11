@@ -2,6 +2,9 @@
 title: "SURRENDER"
 date: 2021-12-04
 thumbnail: "img/surrender.png"
+tags:
+  - McSharry
+  - Mayor Wilson
 categories: 
   - saturday-sunshine
 authors: 

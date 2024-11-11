@@ -1,9 +1,12 @@
 ---
-title: "ELLIOTT HISTORY LESSON "
+title: "ELLIOTT HISTORY LESSON"
 date: 2023-07-15
 thumbnail: "img/elliot-history-lesson.jpg"
+tags:
+  - Elliott
+  - Mayor Sullivan
 categories: 
-  - saturday-sunshine
+  - ethics
 authors: 
   - admin
 ---

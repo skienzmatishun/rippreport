@@ -2,6 +2,14 @@
 title: "BALDWIN COUNTY SHERIFF APPOINTMENT"
 date: 2024-07-27
 thumbnail: "img/baldwin-county-sheriff-appointment.jpg"
+tags:
+  - Hoss Mack
+  - BCSO
+  - OJ French
+  - Peyton Little
+  - Anthony Lowery
+  - Jonathan Victor
+  - Robert Yates
 categories:
   - bcso
 authors:

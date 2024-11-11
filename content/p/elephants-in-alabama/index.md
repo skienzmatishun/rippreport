@@ -2,8 +2,11 @@
 title: "Elephants in Alabama"
 date: 2022-07-14
 thumbnail: "img/elephants-in-alabama.jpg"
+tags:
+  - Albritton
+  - Ethics Commission
 categories: 
-  - thursday-thunder
+  - ethics
 authors: 
   - admin
 ---

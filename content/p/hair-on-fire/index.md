@@ -1,8 +1,12 @@
 ---
 title: "HAIR ON FIRE"
 date: 2023-05-18
+tags:
+  - Ethics Commission
+  - Albritton
+  - Elliott
 categories: 
-  - thursday-thunder
+  - ethics
 thumbnail: "img/chris-fire.jpg"
 authors: 
   - ripp-report
