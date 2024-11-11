@@ -2,8 +2,13 @@
 title: "WIN FOR BALDWIN"
 date: 2022-06-22
 thumbnail: "img/win-for-baldwin.jpg"
+tags:
+  - Elections
+  - Catalyst
+  - Jerry Carl
+  - Matt McKenzie
 categories: 
-  - wonderful-wednesday
+  - Elections
 authors: 
   - admin
 ---

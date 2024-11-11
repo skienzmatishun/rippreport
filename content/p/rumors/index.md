@@ -3,7 +3,15 @@ title: "RUMORS"
 date: 2022-10-15
 categories: 
   - bcso
-thumbnail: "img/rumors.png" 
+thumbnail: "img/rumors.png"
+tags:
+  - OJ French
+  - BCSO
+  - Bay Minette
+  - MCU
+  - Alabama Supreme Court
+  - Jonathan Victor
+  - Hoss Mack
 authors: 
   - admin
 ---

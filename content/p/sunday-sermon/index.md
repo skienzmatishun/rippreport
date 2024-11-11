@@ -2,6 +2,10 @@
 title: "SUNDAY SERMON"
 date: 2022-12-18
 thumbnail: "img/sermon.jpg"
+tags:
+  - Elliott
+  - Catalyst
+  - Jeb Ball
 categories: 
   - elections
 authors: 

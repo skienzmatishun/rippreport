@@ -2,6 +2,9 @@
 title: "SELF-DEALING-SELF-STEALING"
 date: 2021-07-09
 thumbnail: "img/self-dealing-self-stealing.png"
+tags:
+  - Ethics Commission
+  - Albritton
 categories: 
   - ethics
 authors: 

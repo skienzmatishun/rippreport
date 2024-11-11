@@ -2,8 +2,13 @@
 title: "STRIKING OIL"
 date: 2021-07-24
 thumbnail: "img/striking-oil.png"
+tags:
+  - Albritton
+  - Regions Bank
+  - Ethics Commission
+  - Mabel Amos Trust
 categories: 
-  - saturday-sunshine
+  - ethics
 authors: 
   - admin
 ---

@@ -2,6 +2,10 @@
 title: "YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is."
 date: 2016-08-17
 thumbnail: "img/you-show-me-yours-and-i-will-show-you-mine-letter-that-is.gif"
+tags:
+  - Pittman
+  - Mayor Kant
+  - Ethics Commission
 categories: 
   - citycouncil
 authors: 

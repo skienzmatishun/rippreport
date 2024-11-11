@@ -2,6 +2,14 @@
 title: "NEW SHERIFF - NO CHANGES"
 date: 2024-08-29
 thumbnail: "img/new-sheriff-no-changes.jpg"
+tags:
+  - Hoss Mack
+  - BCSO
+  - Ivey
+  - Nodine
+  - Murray Lawrence Jr
+  - MCU
+  - Anthony Lowery
 categories:
   - bcso
 authors:

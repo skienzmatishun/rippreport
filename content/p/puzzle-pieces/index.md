@@ -2,6 +2,10 @@
 title: "PUZZLE PIECES"
 date: 2019-08-24
 thumbnail: "img/puzzle-pieces.jpg"
+tags:
+  - Bob Riley
+  - Gulftainer
+  - Toll Bridge
 categories: 
   - freaky-friday
 authors: 

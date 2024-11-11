@@ -2,6 +2,11 @@
 title: "SHUFFLING THE DECK"
 date: 2024-07-08
 thumbnail: "img/shuffling-the-deck.jpg"
+tags:
+  - BCSO
+  - Hoss Mack
+  - Anthony Lowery
+  - Murray Lawrence Jr
 categories: 
   - bcso
 authors: 

@@ -5,7 +5,11 @@ thumbnail: "img/wrongful-conviction-fairhope-baldwin-county.jpg"
 categories: 
   - bcso
   - mljr
-authors: 
+tags:
+  - BCSO
+  - Murray Lawrence Jr
+  - Hoss Mack
+authors:
   - admin
 ---
 

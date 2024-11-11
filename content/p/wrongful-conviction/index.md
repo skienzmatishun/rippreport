@@ -2,6 +2,13 @@
 title: "WRONGFUL CONVICTION"
 date: 2022-10-05
 thumbnail: "img/wrongful-conviction.jpg"
+tags:
+  - BCSO
+  - Murray Lawrence Jr
+  - Hoss Mack
+  - Alabama Supreme Court
+  - Nodine
+  - Jonathan Victor
 categories: 
   - bcso
   - mljr
@@ -9,7 +16,7 @@ authors:
   - admin
 ---
 
-The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Johanthan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.
+The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Jonathan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.
 
 {{< socialpreview url="https://rippreport.com/p/biased-investigation/" >}}
 
@@ -29,7 +36,7 @@ WRONGFUL CONVICTION
 
 [Justice For Murray Lawrence Jr](https://justiceformurraylawrencejr.com/)
 
-Please sign the petition and read all the details about Deal With The Devil.
+Please sign the petition and read all the details.
 
 The Prosecutor was District Attorney David Whetstone, since retired. The lead investigator was Lt. Hoss Mack, currently Sheriff of Baldwin County. The Defense Attorney was Willy Huntley, who is still practicing law. The Judge was Robert Wilters, currently the District Attorney of Baldwin County.
 

@@ -1,6 +1,8 @@
 ---
 title: "STEPHEN NODINE"
 date: 2023-01-27
+tags:
+  - Nodine
 categories: 
   - backstory-podcast
 youtube: "ky_vilKcvq0"

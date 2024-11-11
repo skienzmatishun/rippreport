@@ -2,6 +2,12 @@
 title: "TOP SHELF CORRUPTION"
 date: 2022-07-09
 thumbnail: "img/top-shelf-corruption.jpg"
+tags:
+  - Marshall
+  - McCallum
+  - Ethics Commission
+  - Albritton
+  - Regions Bank
 categories: 
   - saturday-sunshine
 authors: 

@@ -4,6 +4,12 @@ date: 2024-05-31
 thumbnail: "img/hanky-panky-by-the-po-po.jpg"
 categories: 
   - bcso
+tags:
+  - BCSO
+  - Murray Lawrence Jr
+  - Hoss Mack
+  - Robert Wilters
+
 authors: 
   - admin
 ---

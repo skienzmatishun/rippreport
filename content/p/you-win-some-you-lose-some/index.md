@@ -2,6 +2,10 @@
 title: "YOU WIN SOME YOU LOSE SOME"
 date: 2018-11-07
 thumbnail: "img/you-win-some-you-lose-some.jpg"
+tags:
+  - Elections
+  - City Council
+  - Catalyst
 categories: 
   - elections
 authors: 

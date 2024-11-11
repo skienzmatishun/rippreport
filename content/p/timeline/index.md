@@ -2,6 +2,12 @@
 title: "TIMELINE"
 date: 2019-08-10
 thumbnail: "img/timeline.png"
+tags:
+  - City Council
+  - Peterson
+  - Robert Brown
+  - Burrell
+  - Sewer
 categories: 
   - freaky-friday
 authors: 

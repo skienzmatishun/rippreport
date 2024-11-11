@@ -2,6 +2,10 @@
 title: "FAUXHOPE"
 date: 2024-11-03
 thumbnail: "img/fauxhope-3.png"
+tags:
+  - City Council
+  - Mayor Sullivan
+  - Infrastructure
 categories: 
   - citycouncil
 authors: 

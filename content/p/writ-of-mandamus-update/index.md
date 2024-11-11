@@ -2,6 +2,10 @@
 title: "WRIT OF MANDAMUS: UPDATE"
 date: 2021-10-26
 thumbnail: "img/writ-of-mandamus-update.jpg"
+tags:
+  - Ethics Commission
+  - Regions Bank
+  - Albritton
 categories: 
   - ethics
 authors: 

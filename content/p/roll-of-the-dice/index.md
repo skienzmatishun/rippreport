@@ -2,6 +2,9 @@
 title: "ROLL OF THE DICE"
 date: 2022-03-04
 thumbnail: "img/roll-of-the-dice.jpg"
+tags:
+  - Elections
+  - Lottery
 categories: 
   - elections
 authors: 

@@ -2,6 +2,9 @@
 title: "SILENCE THE EAGLE"
 date: 2023-08-22
 thumbnail: "img/silence-the-eagle.jpg"
+tags:
+  - Opelika
+  - Auburn PD
 categories: 
   - terrific-tuesday
 authors: 

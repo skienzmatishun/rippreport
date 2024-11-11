@@ -2,6 +2,12 @@
 title: "ZUNK THE SKUNK"
 date: 2018-06-22
 thumbnail: "img/zunk.jpg"
+tags:
+  - Zunk
+  - Burrell
+  - Finance Committee
+  - Airport
+  - Mayor Wilson
 categories: 
   - elections
 authors: 
