@@ -2,6 +2,12 @@
 title: "BACKPEDALING FAUXHOPE"
 date: 2024-05-17
 thumbnail: "img/backpedaling-fauxhope.jpg"
+tags:
+  - Burrell
+  - City Council
+  - Waterfront
+  - Mayor Sullivan
+  - Soccer Fields
 categories: 
   - citycouncil
 authors: 

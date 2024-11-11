@@ -2,9 +2,12 @@
 title: "NO JUSTICE"
 date: 2024-01-26
 thumbnail: "img/no-justice.jpg"
+tags:
+  - BCSO
+  - Murray Lawrence Jr
+  - Hoss Mack
 categories: 
   - bcso
-  - dwtd
 authors: 
   - admin
 ---

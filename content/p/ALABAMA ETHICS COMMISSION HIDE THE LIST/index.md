@@ -2,6 +2,10 @@
 title: "ALABAMA ETHICS COMMISION HIDE THE LIST"
 date: 2024-01-29
 thumbnail: "img/alabama-ethics-commission-hide-the-list.jpg"
+tags:
+  - Albritton
+  - Mabel Amos Trust
+  - Ethics Commission
 categories: 
   - ethics
 authors: 

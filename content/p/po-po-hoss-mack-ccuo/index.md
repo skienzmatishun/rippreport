@@ -2,6 +2,10 @@
 title: "PO PO Hoss Mack CCUO"
 date: 2024-06-15
 thumbnail: "img/po-po-hoss-mack-ccuo.jpg"
+tags:
+  - Hoss Mack
+  - BCSO
+  - Anthony Lowery
 categories: 
   - bcso
 authors: 

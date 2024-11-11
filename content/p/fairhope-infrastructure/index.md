@@ -2,6 +2,14 @@
 title: "Fairhope Infrastructure"
 date: 2024-05-06
 thumbnail: "img/fairhope-infrastructure.jpg"
+tags:
+  - Utilities
+  - City Council
+  - 68 Ventures
+  - Park City
+  - Hix Snedeker
+  - Britt
+  - Gray
 summary: "In Fairhope, Alabama, there’s a water shortage, incomplete infrastructure projects, and an overloaded sewer system. Amidst legal battles and controversy, 68 Ventures proposes a new mixed-use development, “Park City,” which has drawn criticism for its potential impact on the community and local schools."
 categories: 
   - citycouncil

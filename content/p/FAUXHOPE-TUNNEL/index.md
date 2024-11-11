@@ -2,8 +2,11 @@
 title: "FAUXHOPE TUNNEL"
 date: 2023-05-09
 thumbnail: "img/fauxhope-tunnel.jpg"
+tags:
+  - City Council
+  - Triangle
 categories: 
-  - terrific-tuesday
+  - citycouncil
 authors: 
   - admin
 ---
