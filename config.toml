@@ -27,14 +27,14 @@ logo = "https://rippreport.com/img/eagle.png"
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
   single = "right" # layout for single pages
-  widgets = ["recent", "tags"]
+  widgets = ["recent", "taglist"]
 
 [Params.widgets]
   recent_num = 12 # Number of articles in the "Recent articles" widget
   tags_counter = false
 
 [Params.style.vars]
-  highlightColor = "#176898"
+  highlightColor = "#173898"
   fontFamilyPrimary =  "sans;"
 
 [markup]
