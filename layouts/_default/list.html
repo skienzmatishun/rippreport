@@ -10,7 +10,6 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{/* Initialize a counter */}}
 	{{ $.Scratch.Set "imageCount" 0 }}
 	{{- range .Paginator.Pages }}
 		{{- .Render "summary" }}
