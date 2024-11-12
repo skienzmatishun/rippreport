@@ -70,7 +70,6 @@
           {{- if $thumbnail }}
             <div class="thumbnail__video">
               <img
-                loading="lazy"
                 class="thumbnail__image"
                 src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
