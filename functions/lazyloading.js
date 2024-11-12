@@ -25,4 +25,3 @@ export async function onRequest(context) {
     })
     .transform(response);
 }
-
