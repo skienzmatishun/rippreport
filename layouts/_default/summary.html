@@ -1,3 +1,4 @@
+{{/* summary.html */}}
 <article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "bcso" }}bcso__post{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }}">
     {{ partial "post_thumbnail.html" (dict "class" "list" "page" . "firstPage" .firstPage) }}
     <header class="list__header {{ if in .Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in .Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in .Params.categories "holiday" }}holiday__list__header{{ end }}">

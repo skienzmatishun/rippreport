@@ -17,6 +17,7 @@
 
     {{/* Render pages */}}
     {{- range .Paginator.Pages }}
+        {{- /* Ensure firstPage is passed correctly as a string or another valid type */ }}
         {{- .Render "summary" (dict "firstPage" $firstPage) }}
     {{- end }}
 </main>
