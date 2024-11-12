@@ -1,5 +1,7 @@
+{{/* list.html */}}
 {{ define "main" }}
 <main class="main list" role="main">
+    {{/* Ensure the comment block is properly closed */}}
     {{- with .Title }}
     <header class="main__header">
         <h1 class="main__title">{{ . }}</h1>
@@ -11,10 +13,10 @@
     </div>
     {{- end }}
 
-
+    {{/* Get first page */}}
     {{- $firstPage := index .Paginator.Pages 0 }}
 
-
+    {{/* Render pages */}}
     {{- range .Paginator.Pages }}
         {{- /* Ensure firstPage is passed correctly as a string or another valid type */ }}
         {{- .Render "summary" (dict "firstPage" $firstPage) }}
