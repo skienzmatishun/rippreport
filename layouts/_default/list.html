@@ -10,8 +10,13 @@
 		{{ . }}
 	</div>
 	{{- end }}
+	{{/* Create a new variable to track the first image */}}
+	{{ $firstImage := true }}
 	{{- range .Paginator.Pages }}
-		{{- .Render "summary" }}
+		{{/* Pass the firstImage state to the summary template */}}
+		{{- .Render "summary" (dict "firstImage" $firstImage) }}
+		{{/* Set firstImage to false after the first iteration */}}
+		{{ $firstImage = false }}
 	{{- end }}
 </main>
 {{ partial "pagination.html" . }}
