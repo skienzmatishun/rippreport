@@ -10,9 +10,10 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{ $.Scratch.Set "imageCount" 0 }}
+	{{/* Get first page */}}
+	{{- $firstPage := index .Paginator.Pages 0 }}
 	{{- range .Paginator.Pages }}
-		{{- .Render "summary" }}
+		{{- .Render "summary" (dict "firstPage" $firstPage) }}
 	{{- end }}
 </main>
 {{ partial "pagination.html" . }}

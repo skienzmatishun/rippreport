@@ -1,7 +1,8 @@
 {{- $class := .class }}
 {{- $page := .page }}
+{{- $firstPage := .firstPage }}
 {{- $defaultVisibility := slice "list" "post" }}
-{{- $imageCount := $.Scratch.Get "imageCount" }}
+{{- $isFirst := eq $page $firstPage }}
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
@@ -65,7 +66,7 @@
         <figure class="thumbnail">
           {{- if $thumbnail }}
             <div class="thumbnail__video">
-              {{- if eq $imageCount 0 }}
+              {{- if $isFirst }}
               <img class="thumbnail__image" src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}" alt="{{ $page.Title }}">
               {{- else }}
               <img loading="lazy" class="thumbnail__image" src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}" alt="{{ $page.Title }}">
@@ -74,7 +75,6 @@
           {{- end }}
         </figure>
       </a>
-      {{- $.Scratch.Add "imageCount" 1 }}
     {{- end }}
   {{- end }}
 {{- end }}
