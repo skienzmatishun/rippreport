@@ -1,25 +1,25 @@
 {{/* list.html */}}
 {{ define "main" }}
 <main class="main list" role="main">
-    {{/* Ensure the comment block is properly closed */}}
     {{- with .Title }}
     <header class="main__header">
         <h1 class="main__title">{{ . }}</h1>
     </header>
     {{- end }}
+
     {{- with .Content }}
     <div class="content main__content clearfix">
         {{ . }}
     </div>
     {{- end }}
 
-    {{/* Get first page */}}
+    {{- /* Ensure $firstPage is properly handled as a string or page title */ }}
     {{- $firstPage := index .Paginator.Pages 0 }}
+    {{- $firstPageTitle := $firstPage.Title }} <!-- Extracting title to pass as a string -->
 
-    {{/* Render pages */}}
     {{- range .Paginator.Pages }}
-        {{- /* Ensure firstPage is passed correctly as a string or another valid type */ }}
-        {{- .Render "summary" (dict "firstPage" $firstPage) }}
+        <!-- Pass $firstPageTitle as a string -->
+        {{- .Render "summary" (dict "firstPage" $firstPageTitle) }}
     {{- end }}
 </main>
 
