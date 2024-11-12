@@ -1,7 +1,8 @@
 {{- $class := .class }}
 {{- $page := .page }}
-{{- $firstImage := .firstImage | default false }}
 {{- $defaultVisibility := slice "list" "post" }}
+{{/* Get the current image count */}}
+{{- $imageCount := $.Scratch.Get "imageCount" }}
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
@@ -66,9 +67,7 @@
           {{- if $thumbnail }}
             <div class="thumbnail__video">
               <img
-                {{- if not $firstImage }}
-                loading="lazy"
-                {{- end }}
+                {{- if ne $imageCount 0 }}loading="lazy"{{- end }}
                 class="thumbnail__image"
                 src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
@@ -77,6 +76,8 @@
           {{- end }}
         </figure>
       </a>
+      {{/* Increment the counter after using it */}}
+      {{ $.Scratch.Add "imageCount" 1 }}
     {{- end }}
   {{- end }}
 {{- end }}
