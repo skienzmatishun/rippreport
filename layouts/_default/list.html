@@ -1,20 +1,25 @@
+{{/* list.html */}}
 {{ define "main" }}
 <main class="main list" role="main">
-	{{- with .Title }}
-	<header class="main__header">
-		<h1 class="main__title">{{ . }}</h1>
-	</header>
-	{{- end }}
-	{{- with .Content }}
-	<div class="content main__content clearfix">
-		{{ . }}
-	</div>
-	{{- end }}
-	{{/* Get first page */}}
-	{{- $firstPage := index .Paginator.Pages 0 }}
-	{{- range .Paginator.Pages }}
-		{{- .Render "summary" (dict "firstPage" $firstPage) }}
-	{{- end }}
+    {{- with .Title }}
+    <header class="main__header">
+        <h1 class="main__title">{{ . }}</h1>
+    </header>
+    {{- end }}
+    {{- with .Content }}
+    <div class="content main__content clearfix">
+        {{ . }}
+    </div>
+    {{- end }}
+
+    {{/* Get first page */}}
+    {{- $firstPage := index .Paginator.Pages 0 }}
+
+    {{/* Render pages */}}
+    {{- range .Paginator.Pages }}
+        {{- .Render "summary" (dict "firstPage" $firstPage) }}
+    {{- end }}
 </main>
+
 {{ partial "pagination.html" . }}
 {{ end }}
