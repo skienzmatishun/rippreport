@@ -1,5 +1,5 @@
 ---
-title: "MERRY CHRISTMAS 2024"
+title: "MERRY CHRISTMAS"
 date: 2024-12-24
 thumbnail: "img/merry-christmas-2024.jpg"
 categories: 
