@@ -3,7 +3,7 @@ title: "M.I.A."
 date: 2025-01-16
 thumbnail: "img/mia-2.jpg"
 categories: 
-  - ripp
+  - citycouncil
 authors: 
   - admin
 ---
