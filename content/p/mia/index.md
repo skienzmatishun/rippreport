@@ -1,7 +1,7 @@
 ---
 title: "M.I.A."
 date: 2025-01-16
-thumbnail: "img/merry-christmas-2024.jpg"
+thumbnail: "img/mia-2.jpg"
 categories: 
   - ripp
 authors: 
