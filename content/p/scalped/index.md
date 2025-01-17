@@ -7,6 +7,7 @@ categories:
   - backstory-podcast
 authors: 
   - admin
+summary: "Backstory Podcast covers topics like the New Orleans suicide car attack, veterans' mental health crisis, Alabama's political landscape, Bay Minette shooting, local construction projects, and Governor Ivey's potential resignation."
 ---
 
 Backstory Podcast explores diverse topics, from the tragic New Orleans suicide car attack killing 14 to the veterans' mental health crisis. We highlight Alabama's political landscape, focusing on bills affecting municipal police chief appointments and funding, raising concerns about political interference in law enforcement. 
