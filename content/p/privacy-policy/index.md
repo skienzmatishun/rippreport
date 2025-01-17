@@ -7,8 +7,6 @@ authors:
   - admin
 ---
 
-# Privacy Policy
-
 The Ripp Report ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines the types of information we collect, how we use it, and your rights regarding that information. By using our website, you agree to the practices described in this policy.
 
 ## 1. Information We Collect
