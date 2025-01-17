@@ -9,6 +9,10 @@ authors:
   - admin
 ---
 
-Backstory discusses several significant events in Alabama and beyond, including terrorist attacks, political corruption, and a potential gubernatorial succession crisis should Governor Kay Ivey resign. Backstory also examine local news stories, such as a fatal shooting, a reciprocity shoot out in Bay Minette, Alabama on Friday, and the discovery of a submerged car containing a missing woman from Mobile. Furthermore, they analyze a controversial bill that would grant the Governor-Attorney General -Sheriff greater control over municipal police forces and discuss a recent Alabama Supreme Court decision surrounding a mismanaged scholarship fund wherein the Director of the Alabama Ethics Commission is accused of self dealing as a Trustee; he is also a member of the Alabama State Bar. Mr. Ripp and Mr. Still have pursued this case with the Ethics Commission, the State Bar and in Montgomery County Circuit Court in the form of a Writ of Mandamus, to no avail. The conversation incorporates discussions of the impacts of wildfires in California and concerns about mental health among veterans.
+Backstory Podcast explores diverse topics, from the tragic New Orleans suicide car attack killing 14 to the veterans' mental health crisis. We highlight Alabama's political landscape, focusing on bills affecting municipal police chief appointments and funding, raising concerns about political interference in law enforcement. 
+
+We investigate a Bay Minette shooting during a traffic stop, noting the Major Crimes Unit's involvement and lack of transparency, discussing its broader law enforcement implications. Additionally, we cover local construction projects like Bowen County’s new District Attorney office and their economic impacts, along with events such as the Orange Beach Seafood Festival and new airline routes boosting the economy. 
+
+The episode concludes with discussions on Governor Ivey's potential resignation and Lieutenant Governor Will Eisler's possible succession, pondering the effects on state politics and governance. 
 
 {{< chat 3397 >}}
