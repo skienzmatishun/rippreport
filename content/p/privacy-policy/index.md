@@ -1,3 +1,6 @@
+---
+title: "Privacy Policy"
+date: 2015-01-01
 categories: 
   - privacy
 authors: 
