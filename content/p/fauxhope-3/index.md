@@ -2,6 +2,7 @@
 title: "FAUXHOPE"
 date: 2024-11-03
 thumbnail: "img/fauxhope-3.png"
+summary: "Fauxhope is falling apart because of bad leaders and too much construction. The people in charge spend money on parks and moving old houses instead of fixing broken pipes, sewers, and roads. The mayor gets paid for two jobs. One she isn’t trained for. Leaders gave themselves another year in office without asking voters. Now they’re spending $10 million on a waterfront project that’s nothing like what people wanted. It probably helps their friends who build things. The town paper says everything is fine, but the bay is getting dirty, and regular folks are stuck dealing with the mess."
 tags:
   - City Council
   - Mayor Sullivan

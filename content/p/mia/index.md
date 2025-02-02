@@ -2,6 +2,7 @@
 title: "M.I.A."
 date: 2025-01-16
 thumbnail: "img/mia-2.jpg"
+summary: "The Ripp Report has been missing in action for about two months. I had my 14th shoulder operation on Nov.4th and that took me out for about 4 weeks. That operation has been very successful. Then quite unexpected I got vertigo which has taken me about 4 weeks to kick to the curb. At the same time Meta locked me out of my social media pages, The Ripp Report, BCLE and F. Paul Ripp."
 categories: 
   - citycouncil
 authors: 
