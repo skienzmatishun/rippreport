@@ -3,7 +3,7 @@ title: "THE CRIME OF THE CENTURY"
 date: 2025-02-01
 thumbnail: "img/the-crime-of-the-century.jpg"
 rumble: "v6dp8k4"
-summary: "Backstory Podcast explores Trump's controversial executive orders and their impact on military reforms, government censorship, and regulatory freezes. We examine allegations against the Biden Crime Family and pre-emptive pardons for figures like Dr. Fauci. We focus on Alabama’s political landscape, particularly Governor Kay Ivey’s handling of the Veterans Affairs department and her push to politicize its board, sparking backlash among veterans. The episode covers an 11th Circuit case on qualified immunity after a mistaken SWAT raid and previews Alabama’s legislative session, with hundreds of bills pre-filed amid rumors about Ivey’s future."
+summary: "On today's podcast, Trump’s plans for military changes, free speech limits, and business rules. We look at claims Biden protected his family and allies like Dr. Fauci. Alabama Governor Ivey upsets veterans by making their board political. A court case says people can’t sue police over a wrong SWAT raid. Lawmakers will soon debate new laws, with rumors about Ivey’s future."
 categories: 
   - backstory-podcast
 authors: 
