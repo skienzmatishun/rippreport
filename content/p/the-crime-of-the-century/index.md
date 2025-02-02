@@ -2,6 +2,7 @@
 title: "THE CRIME OF THE CENTURY"
 date: 2025-02-01
 thumbnail: "img/the-crime-of-the-century.jpg"
+rumble: "v6dp8k4"
 summary: "Backstory Podcast dives into politically charged topics, exploring President Trump's controversial executive orders and their impact on military reforms, government censorship, and regulatory freezes. It also examines allegations against the Biden Crime Family, including pre-emptive pardons for figures like Dr. Fauci. A key focus is Alabama’s political landscape, particularly Governor Kay Ivey’s handling of the Veterans Affairs department and her push to politicize its board, sparking backlash among veterans. The episode covers an 11th Circuit case on qualified immunity after a mistaken SWAT raid and previews Alabama’s legislative session, with hundreds of bills pre-filed amid rumors about Ivey’s future."
 categories: 
   - backstory-podcast
