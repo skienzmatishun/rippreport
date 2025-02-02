@@ -22,7 +22,5 @@ Additionally, we delve into a true crime story involving a hospice business in C
 
 Finally, we take a deep dive into the state of veterans affairs in Alabama following the ouster of Admiral Kent Davis, examining the rumored plan to convert the Directorship of Veterans Affairs into a purely political position within the Governor's Office. This move has significant implications for the state's veteran community and its relationship with the Republican Party.
 
-Stay tuned for more in-depth analysis and updates on these pressing issues.
-
 {{< chat thecrimeofcentury >}}
 
