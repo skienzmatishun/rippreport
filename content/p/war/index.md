@@ -25,7 +25,7 @@ In the coming days their will be an explosion of press coverage and veteran outr
 PLEASE share this message any way possible.
 
 
-A VETERANS RALLY WILL BE HELD IN MONTGOMERY FEB> 23rd @ 11:30
+A VETERANS RALLY WILL BE HELD IN MONTGOMERY FEB 25rd @ 11:30
 
 
 <b>WE NEED THOUSANDS TO SHOW UP : JAM THE CAPITOL-- FREEZE TRAFFIC AND SEND A MESSAGE TO GOAT HILL THAT THEIR JOBS ARE AT STAKE</b>
