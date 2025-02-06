@@ -17,6 +17,6 @@ So for right now we will be using our .com site, <a href="https://rippreport.com
 
 Even though we have been M.I.A we have stayed up with the absolutely crazy politics of Alabama and especially Baldwin County. Were Back Stay Tuned.
 
-<img src="https://rippreport.com/cdn-cgi/image/width=800,quality=85,format=auto/img/savc_letter.png" alt="letter">
+
 
 {{< chat bpingfhmia >}}
