@@ -1,0 +1,17 @@
+{{ $events := where site.RegularPages "Section" "event" }}
+{{ if $events }}
+<div class="important-events">
+    <h3>Important Events</h3>
+    <ul>
+        {{ range first 5 $events }}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <span>{{ .Date.Format "January 2, 2006" }}</span>
+        </li>
+        {{ end }}
+    </ul>
+    {{ if gt (len $events) 5 }}
+    <p><a href="/event/">View all events →</a></p>
+    {{ end }}
+</div>
+{{ end }}

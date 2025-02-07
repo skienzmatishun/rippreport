@@ -487,4 +487,39 @@ display: none;
 			min-height: 379px;
 		}
 	}
+}
+.important-events {
+background: #404040;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
 
+.important-events h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.important-events ul {
+    list-style: none;
+    padding: 0;
+}
+
+.important-events li {
+    margin-bottom: 0.5rem;
+}
+
+.important-events a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.important-events a:hover {
+    text-decoration: underline;
+}
+
+.important-events span {
+    color: #fff;
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+}
