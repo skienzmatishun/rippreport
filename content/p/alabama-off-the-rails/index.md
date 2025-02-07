@@ -2,7 +2,7 @@
 title: "ALABAMA OFF THE RAILS"
 date: 2025-02-06
 thumbnail: "img/alabama-off-the-rails.png"
-summary: "Lost in all of this debate are the patients. Does anybody remember the patients?... Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing?"
+summary: "Lost in all of this debate are the patients. Does anybody remember the patients? Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing?"
 categories: 
   - ivy
 authors: 
