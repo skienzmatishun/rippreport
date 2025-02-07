@@ -22,8 +22,9 @@
     </div>
     <div class="bsp_container">
   {{ partial "soundcloud.html" . }}
-  {{ partial "important-events.html" . }}
     </div>
+    {{ partial "important-events.html" . }}
+
     {{- $root := . }}
     {{- with default .Site.Params.sidebar.widgets .Params.widgets }}
         {{- range $widget := . }}
@@ -36,3 +37,4 @@
 
 </aside>
 {{- end }}
+VETERANS RALLY WILL BE HELD IN MONTGOMERY FEB 25rd @ 11:30
