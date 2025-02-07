@@ -1,15 +1,20 @@
-{{/* layouts/partials/important-events.html */}}
-{{ with .Site.GetPage "section" "event" }}
-  {{ if .Pages }}
-    <div class="important-events">
-      <h2>Important Events</h2>
-      <ul>
-        {{ range .Pages.ByDate }}
-          <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-      </ul>
-    </div>
-  {{ end }}
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{/* Filter out event-categorized posts */}}
+	{{ $regularPosts := where .Paginator.Pages ".Params.categories" "not intersect" (slice "event") }}
+	{{- range $regularPosts }}
+		{{- .Render "summary" }}
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
 {{ end }}
