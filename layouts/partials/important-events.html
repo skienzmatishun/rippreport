@@ -19,5 +19,45 @@
     </div>
     {{ end }}
   </div>
+  <style>
+    .important-events {
+	margin: 2rem 0;
+	padding: 1.5rem;
+	background: #d5d5d5;
+	color:#000;
+  }
+  
+  .event {
+	display: grid;
+	grid-template-columns: 120px 1fr;
+	gap: 1rem;
+	padding: 1rem 0;
+	border-bottom: 1px solid var(--border-color);
+	color:#000;
+  }
+  .event:last-child {
+	border-bottom: none;
+  }
+  
+  .event-time {
+	font-weight: 500;
+	color: #000;
+  }
+  
+  .event-title {
+	margin: 0 0 0.25rem;
+	font-size: 1.1rem;
+	color:#000;
+  }
+  
+  .event-location {
+	font-size: 0.9rem;
+	color: #000;
+	margin: 0;
+  }
+  .important-events h2 {
+text-align:center;
+  }
+  </style>
 </section>
 {{ end }}
