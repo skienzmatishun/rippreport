@@ -1,6 +1,6 @@
 {{ with site.Data.events }}
 <section class="important-events">
-  <h2 class="widget-title">📅 Important Events</h2>
+  <h2 class="widget-title">Important Events</h2>
   <div class="events-list">
     {{ range sort . "date" }}
     <div class="event-item">
@@ -13,7 +13,7 @@
           {{ .title }}
           {{ if .url }}</a>{{ end }}
         </h3>
-        {{ with .location }}<div class="event-location">📍 {{ . }}</div>{{ end }}
+        {{ with .location }}<div class="event-location">{{ . }}</div>{{ end }}
         {{ with .description }}<p class="event-description">{{ . }}</p>{{ end }}
       </div>
     </div>
