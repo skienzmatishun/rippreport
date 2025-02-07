@@ -1,16 +1,15 @@
-{{ $events := where site.RegularPages "Section" "event" }}
-{{ if $events }}
-<div class="important-events">
-    <h3>Important Events</h3>
-    <ul>
-        {{ range $events }}
-        <li>
+{{/* layouts/partials/important-events.html */}}
+{{ with .Site.GetPage "section" "event" }}
+  {{ if .Pages }}
+    <div class="important-events">
+      <h2>Important Events</h2>
+      <ul>
+        {{ range .Pages.ByDate }}
+          <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <span>{{ .Date.Format "January 2, 2006" }}</span>
-        </li>
+          </li>
         {{ end }}
-    </ul>
-</div>
-{{ else }}
-<p>No events found.</p>
+      </ul>
+    </div>
+  {{ end }}
 {{ end }}
