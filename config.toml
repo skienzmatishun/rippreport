@@ -37,6 +37,9 @@ logo = "https://rippreport.com/img/eagle.png"
   highlightColor = "#173898"
   fontFamilyPrimary =  "sans;"
 
+[permalinks]
+  event = "/event/:slug/"
+
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.asciidocExt]
