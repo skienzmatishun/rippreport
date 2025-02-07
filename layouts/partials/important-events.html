@@ -1,20 +1,18 @@
-{{ define "main" }}
-<main class="main list" role="main">
-	{{- with .Title }}
-	<header class="main__header">
-		<h1 class="main__title">{{ . }}</h1>
-	</header>
-	{{- end }}
-	{{- with .Content }}
-	<div class="content main__content clearfix">
-		{{ . }}
-	</div>
-	{{- end }}
-	{{/* Filter out event-categorized posts */}}
-	{{ $regularPosts := where .Paginator.Pages ".Params.categories" "not intersect" (slice "event") }}
-	{{- range $regularPosts }}
-		{{- .Render "summary" }}
-	{{- end }}
-</main>
-{{ partial "pagination.html" . }}
+{{/* layouts/partials/important-events.html */}}
+{{ $now := now }}
+{{ $events := where (where site.RegularPages "Section" "p") "Params.categories" "intersect" (slice "event") }}
+{{ $futureEvents := where $events ".Date" "ge" $now }}
+
+{{ if $futureEvents }}
+<div class="important-events">
+  <h2>Important Events</h2>
+  <ul>
+    {{ range sort $futureEvents ".Date" "asc" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span class="event-date">{{ .Date.Format "(Jan 2, 2006)" }}</span>
+    </li>
+    {{ end }}
+  </ul>
+</div>
 {{ end }}

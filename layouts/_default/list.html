@@ -1,18 +1,21 @@
+{{/* layouts/_default/list.html */}}
 {{ define "main" }}
 <main class="main list" role="main">
-	{{- with .Title }}
-	<header class="main__header">
-		<h1 class="main__title">{{ . }}</h1>
-	</header>
-	{{- end }}
-	{{- with .Content }}
-	<div class="content main__content clearfix">
-		{{ . }}
-	</div>
-	{{- end }}
-	{{- range .Paginator.Pages }}
-		{{- .Render "summary" }}
-	{{- end }}
+  {{- with .Title }}
+  <header class="main__header">
+    <h1 class="main__title">{{ . }}</h1>
+  </header>
+  {{- end }}
+  {{- with .Content }}
+  <div class="content main__content clearfix">
+    {{ . }}
+  </div>
+  {{- end }}
+  {{/* Show ALL posts EXCEPT those with event category */}}
+  {{ $regularPosts := where .Paginator.Pages ".Params.categories" "not intersect" (slice "event") }}
+  {{ range $regularPosts }}
+    {{ .Render "summary" }}
+  {{ end }}
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
