@@ -511,6 +511,6 @@
  }
  @media (max-width: 575.98px) {
 
- .cactus-container{min-width:0px;}
+ .cactus-container{min-width:100px;}
 
  }
