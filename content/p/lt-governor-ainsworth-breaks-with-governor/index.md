@@ -11,7 +11,7 @@ authors:
 
 <a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley </a>
 
-{{< socialpreview="https://www.alabamagazette.com/story/2025/02/07/news/span-classbrnwsbreaking-news-spanlt-governor-ainsworth-breaks-with-governor-opposes-the-veterans-power-grab-bill/5488.html#readercomments" >}}
+{{< socialpreview url="https://www.alabamagazette.com/story/2025/02/07/news/span-classbrnwsbreaking-news-spanlt-governor-ainsworth-breaks-with-governor-opposes-the-veterans-power-grab-bill/5488.html#readercomments" >}}
 
 February 11, 2025 – MONTGOMERY, AL – Alabama Lieutenant Governor Will Ainsworth shocked many Republican legislators by releasing a statement
 opposing the Governor's takeover of the Department of Veterans Affairs bill – Senate Bill 67.
