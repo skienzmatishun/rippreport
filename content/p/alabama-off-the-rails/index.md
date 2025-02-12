@@ -53,6 +53,8 @@ Chey Garrigan is a lobbyist, realtor, and the founder and President of the Alaba
 
 Opinions expressed in the Alabama Gazette are the opinions and viewpoints of the author and do not necessarily reflect the views and opinions of the Alabama Gazette staff, advertisers, and/ publishers.
 
+<center>
 {{< socialpreview url="https://www.alabamagazette.com/story/2024/12/01/opinion/span-classbrnwsbreaking-news-spanstate-of-medical-cannabis-in-alabama/5396.html">}}
+</center>
 
 {{< chat off-rails >}}
