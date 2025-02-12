@@ -1,7 +1,7 @@
 ---
 title: "Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com"
 date: 2025-02-12
-thumbnail: "https://www.alabamagazette.com/IMG/DX0ZYGvMQCIALPE_PDTieULNSZdKi/XPATH/home/cms_data/dfault/photos/stories/id/8/8/5488/s_topXEXT1371x33798is.jpg"
+thumbnail: "img/s_topXEXT1371x33798is.jpg"
 categories: 
   - ivy
 authors: 
