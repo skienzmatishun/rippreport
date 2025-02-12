@@ -9,7 +9,7 @@ authors:
 ---
 
 
-<a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley </a> | Feb 07, 2025
+<a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley </a> 
 
 {{< socialpreview="https://www.alabamagazette.com/story/2025/02/07/news/span-classbrnwsbreaking-news-spanlt-governor-ainsworth-breaks-with-governor-opposes-the-veterans-power-grab-bill/5488.html#readercomments" >}}
 
