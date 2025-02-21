@@ -23,6 +23,6 @@ A VETERANS RALLY WILL BE HELD IN MONTGOMERY FEB> 23rd @ 11:30
 
 WE NEED THOUSANDS TO SHOW UP : JAM THE CAPITOL-- FREEZE TRAFFIC AND SEND A MESSAGE TO GOAT HILL THAT THEIR JOBS ARE AT STAKE
 
-<iframe src="img/Untitled-test.pdf" style="width:100%;height:1200px;"></iframe>
+<iframe src="/img/Untitled-test.pdf" style="width:100%;height:1200px;"></iframe>
 
 {{< chat war >}}
