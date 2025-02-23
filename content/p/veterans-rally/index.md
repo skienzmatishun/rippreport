@@ -11,7 +11,7 @@ authors:
 
 {{< socialpreview url="https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control" >}}
 
-![Veterans Rally FEB 25th](../../img/Alabama-Political-News-vetrally.webp)
+<img src="../../img/Alabama-Political-News-vetrally.webp">
 
 
 {{< chat rallvet >}}
