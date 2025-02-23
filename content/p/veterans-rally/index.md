@@ -14,4 +14,4 @@ authors:
 ![Veterans Rally FEB 25th](../../img/Alabama-Political-News-vetrally.webp)
 
 
-{{< chat rallvet> }}
+{{< chat rallvet >}}
