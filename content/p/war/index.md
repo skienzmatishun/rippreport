@@ -22,7 +22,7 @@ PLEASE share this message any way possible.
 
 A VETERANS RALLY WILL BE HELD IN MONTGOMERY FEB> 25th @ 11:30
 
-<img src="https://rippreport.com/image/Alabama-Political-News-vetrally.webp">
+<img src="https://rippreport.com/img/rally.webp">
 
 
 {{< chat war >}}
