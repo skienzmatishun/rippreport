@@ -9,7 +9,7 @@ authors:
 ---
 
 
-{{< socialpreview url="https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control" >}}
+<center>{{< socialpreview url="https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control" >}}</center>
 
 <img src="https://rippreport.com/p/rally.webp">
 
