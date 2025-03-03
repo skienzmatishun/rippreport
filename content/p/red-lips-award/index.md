@@ -1,4 +1,4 @@
- --
+---
 title: "RED LIPS AWARD"
 date: 2025-03-03
 thumbnail: "img/red-lips-award.png"
