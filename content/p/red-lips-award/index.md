@@ -25,7 +25,7 @@ The Biden Syndrome Ivey became unglued over the fact that Admiral Kent Davis fil
 
 The Ethics Commission dismissed the complaint and is strongly believed to have run across the street to give our absent minded Governor a copy of the complaint. This is highly illegal and as unethical as you can get. However it is not as despicable and low life as the Ethics Director Tom Albritton who used the trust of Mabel Amos to award himself $120.000 dollars for his kids scholarships. He fleeced the trust of millions and the Attorney General has done his best to bury the whole rotten mess and the involvement of the trustees and the beneficiaries of their actions. Tom Albritton is a fraud and has enjoyed a salary of over $100 thousand dollars for four years while the court cases snake their way through the courts.
 
-https://www.lagniappemobile.com/news/regions-removed-as-mabel-amos-trustee/article_f37d2382-e33c-11ef-8f35-3fa91a562a9a.html
+{{< socialpreview url="https://www.lagniappemobile.com/news/regions-removed-as-mabel-amos-trustee/article_f37d2382-e33c-11ef-8f35-3fa91a562a9a.html" >}}
 
 >“Montgomery County Circuit Court Judge Greg Griffin ordered Special Fiduciary Jim White to begin a process of gathering information related to the operations of the Amos Fund. “During the pendency of the Special Fiduciary Appointment, Regions bank is removed as Trustee of the Mabel Amos Memorial Fund,” Griffin ordered.”
 
