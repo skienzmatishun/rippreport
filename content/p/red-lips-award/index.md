@@ -14,7 +14,7 @@ authors:
 Alabama Veterans are now under siege by our Biden syndrome Governor who cannot make a 3 minute speech without reading every word and exiting the podium as soon as possible. Her vindictiveness is in full throttle to dismantle the Alabama Department of Veterans Affairs.
 
 
-{{< socialpreview https://www.lagniappemobile.com/opinion/columnists/bb/kay-ivey-is-petty-and-vindictive-adva-edition/article_457bcd6a-f3bd-11ef-bb31-47e29b7f155c.html >}}
+{{< socialpreview url=https://www.lagniappemobile.com/opinion/columnists/bb/kay-ivey-is-petty-and-vindictive-adva-edition/article_457bcd6a-f3bd-11ef-bb31-47e29b7f155c.html >}}
 
 
 “Legislation to “restructure” the State Board of Veterans Affairs passed the Alabama State Senate 21-9 earlier this month. Opponents say it is retaliation for an ethics complaint filed against Alabama Department of Mental Health Kimberly Boswell, a member of Ivey’s cabinet last year.
