@@ -20,7 +20,7 @@ The Major Crimes Unit is assisted by Baldwin County District Attorney Robert Wil
 
 It should be mentioned that Wilters, Mack and former District Attorney David Whetstone colluded with one another to convict an innocent man, Murray Lawrence of murder. He was wrongfully convicted and has been in jail for almost 20 years. Anthony Lowery, the current sheriff, was the lead investigator for the District Attorney at the time and knew of the hidden evidence, the coroner's report.
 
-{{< socialpreview url=https://www.lagniappemobile.com/news/ >}}advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html
+{{< socialpreview url=https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html >}}
 
 {{< socialpreview url=https://rippreport.com/p/baldwin-county-wrongful-conviction/ >}}
 
