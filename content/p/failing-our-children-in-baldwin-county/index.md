@@ -63,11 +63,11 @@ ranks 44th among the 50 states in the category of Family &amp; Community.
 Furthermore, the America First Policy Institute (AFPI) reports that children with limited or no contact with one of their biological parents account for:
 
 
-• 63% of youth suicides
-• 71% of all substance abusers
-• 85% of all youths in prison
-• 70% of school dropouts
-• Approximately 70% of teenage pregnancies
+- 63% of youth suicides
+- 71% of all substance abusers
+- 85% of all youths in prison
+- 70% of school dropouts
+- Approximately 70% of teenage pregnancies
 
 
 In instances of divorce or separation:
