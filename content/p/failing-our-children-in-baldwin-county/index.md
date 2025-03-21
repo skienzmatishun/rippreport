@@ -86,7 +86,7 @@ The result of all this is that my daughter and another child were left neglected
 
 You can see more details of this research here:
 
-<iframe style=width:100%;height1200px; src=https://www.sharedparenting.org/s/NPO-Alabama-Polling-Report.pdf></iframe>
+<iframe style=width:100%;height:1200px; src=https://www.sharedparenting.org/s/NPO-Alabama-Polling-Report.pdf></iframe>
 
 As part of my efforts to seek justice and bring widespread awareness to Alabama and beyond, I am preparing a thorough information package to present to national news outlets such as 48 Hours, 60 Minutes, Dateline, and 20/20. It is critical that the public becomes aware of these failures in our legal and child protection systems, as they have left this case unresolved for more than 15 months. Bringing attention to this issue will help hold those responsible accountable and drive the reform needed to prevent such failures from continuing.
 
