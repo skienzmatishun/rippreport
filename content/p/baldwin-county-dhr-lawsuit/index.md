@@ -1,7 +1,7 @@
 ---
 title: "BALDWIN COUNTY DHR LAWSUIT"
 date: 2025-04-03
-thumbnail: "img/baldwdin-county-dhr-lawsuit.png"
+thumbnail: "img/baldwin-county-dhr-lawsuit.png"
 categories: 
   - ivy
 authors: 
