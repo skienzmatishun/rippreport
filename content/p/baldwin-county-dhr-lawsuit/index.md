@@ -16,7 +16,7 @@ They are wicked to the core and harm children.
 
 But there is change in the midst and it's happening now!
 
-There's a federal class action lawsuit forming against DHR with a law firm in Spanish Fort, see more here: {{< socialpreview url=https://www.facebook.com/share/p/16JtQE9UHt/ >}}
+There's a federal class action lawsuit forming against DHR with a law firm in Spanish Fort, see more here: {{< socialpreview url="https://www.facebook.com/share/p/16JtQE9UHt/" >}}
 
 If you've been harmed by Baldwin County "family" court, DHR and GAL or mediation systems it is definitely time to raise your hand and be heard!
 

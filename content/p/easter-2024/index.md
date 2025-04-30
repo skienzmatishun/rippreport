@@ -8,4 +8,4 @@ authors:
   - admin
 ---
 
-Happy Easter! Have a great day filled with fun and good times. 
+Happy Easter! Have a great day filled with fun and good times.
