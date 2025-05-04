@@ -30,7 +30,7 @@
     "bloximages.chicago2.vip.townnews.com/lagniappemobile.com" (dict
         "pattern" `(resize=)([0-9]+%2C[0-9]+)`
         "replacement" `${1}380%2C200`
-    ) {{/* Regex pattern uses backticks; replacement uses capture group */}}
+    ) {{/* <<<<< REMOVE Comment from this line */}}
 
     "beta.creativecirclecdn.com/gulfcoast/original" (dict
         "from" "https://beta.creativecirclecdn.com/gulfcoast/original/"
@@ -41,6 +41,8 @@
         "quality" "quality=75"
     )
 -}}
+{{/* Image Processing Rules Explanation: Regex pattern uses backticks; replacement uses capture group ${1}. */}} {{/* <<<<< MOVE Comment to here */}}
+
 
 {{/* --- API Call --- */}}
 {{/* Construct the worker URL *only if* $url is valid (guaranteed by the check above) */}}
