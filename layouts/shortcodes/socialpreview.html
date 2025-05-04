@@ -22,15 +22,16 @@
 
 
 {{- $noFloat := .Get "noFloat" | default false -}}
-{{- $defaultImage := "https://rippreport.com/img/placeholder.png" -}} {{/* Consider hosting this locally if possible */}}
+{{- $defaultImage := "/img/placeholder.png" | absURL -}} {{/* Use local placeholder + absURL */}}
 {{- $workerBaseURL := "https://links.rippreport.com" -}}
 
 {{/* Helper function for image URL processing */}}
 {{- $processImageURL := dict
     "bloximages.chicago2.vip.townnews.com/lagniappemobile.com" (dict
-        "pattern" `(resize=)([0-9]+%2C[0-9]+)`  {{/* Using backticks for raw string literal for regex */}}
-        "replacement" `${1}380%2C200`          {{/* Use capture group */}}
-    )
+        "pattern" `(resize=)([0-9]+%2C[0-9]+)`
+        "replacement" `${1}380%2C200`
+    ) {{/* Regex pattern uses backticks; replacement uses capture group */}}
+
     "beta.creativecirclecdn.com/gulfcoast/original" (dict
         "from" "https://beta.creativecirclecdn.com/gulfcoast/original/"
         "to" "https://beta.creativecirclecdn.com/gulfcoast/medium/"
@@ -58,8 +59,8 @@
         {{- $json = . | unmarshal -}}
         {{/* Check if the unmarshalled result is actually a map (valid JSON object) */}}
         {{- if not (reflect.IsMap $json) -}}
-            {{- $errorMessage = printf "Error: Received invalid JSON structure from worker for URL: %s. Content: %s" $url . -}}
-            {{- warnf $errorMessage -}}
+            {{- $errorMessage = printf "Error: Received invalid JSON structure from worker for URL: %s." $url -}} {{/* Avoid printing potentially huge invalid content */}}
+            {{- warnf "%s Content: %s" $errorMessage . -}} {{/* Log separately */}}
             {{- $json = "" -}} {{/* Reset $json if invalid */}}
         {{- end -}}
     {{- else -}}
@@ -88,8 +89,8 @@
                 {{- with $newResult.Content -}}
                     {{- $json = . | unmarshal -}}
                      {{- if not (reflect.IsMap $json) -}}
-                        {{- $errorMessage = printf "Error: Received invalid JSON structure from worker for fallback URL: %s. Content: %s" $newURL . -}}
-                        {{- warnf $errorMessage -}}
+                        {{- $errorMessage = printf "Error: Received invalid JSON structure from worker for fallback URL: %s." $newURL -}}
+                        {{- warnf "%s Content: %s" $errorMessage . -}}
                         {{- $json = "" -}}
                     {{- end -}}
                 {{- else -}}
