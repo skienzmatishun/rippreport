@@ -11,7 +11,7 @@
   <p style="color: red; border: 1px solid red; padding: 10px; margin: 1em 0; font-weight: bold;">
     Error: Shortcode 'socialpreview' called without a required 'url' parameter on this page.
   </p>
-  {{- return "" -}}
+  {{- return -}} {{/* Fixed return statement without argument */}}
 {{- end -}}
 {{/* --- END: Robustness Check --- */}}
 
@@ -19,7 +19,7 @@
 {{- $defaultImage := "/img/placeholder.png" | absURL -}}
 {{- $workerBaseURL := "https://links.rippreport.com" -}}
 
-{{/* Helper function for image URL processing - FIXED REGEX SYNTAX */}}
+{{/* Helper function for image URL processing - Fixed regex syntax */}}
 {{- $processImageURL := dict
     "bloximages.chicago2.vip.townnews.com/lagniappemobile.com" (dict
         "pattern" "(resize=)([0-9]+%2C[0-9]+)"
@@ -173,10 +173,10 @@
         </a>
     </div>
 {{- else -}}
-    <div class="social-preview-error">
-      <p>Could not load preview for: <a href="{{ $url }}" rel="noopener noreferrer" target="_blank">{{ $url }}</a></p>
+    <div class="social-preview-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc;">
+      <p style="margin: 0;">Could not load preview for: <a href="{{ $url }}" rel="noopener noreferrer" target="_blank">{{ $url }}</a></p>
       {{- if $errorMessage -}}
-      <p>{{ $errorMessage }}</p>
+      <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #777;">{{ $errorMessage }}</p>
       {{- end -}}
     </div>
 {{- end -}}
