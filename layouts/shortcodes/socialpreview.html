@@ -1,14 +1,35 @@
+{{/* ========================================================================== */}}
+{{/* =                    Social Preview Shortcode                            = */}}
+{{/* ========================================================================== */}}
+
 {{/* Define reusable variables */}}
 {{- $url := .Get "url" -}}
+
+{{/* --- START: Robustness Check --- */}}
+{{/* Check if the 'url' parameter was actually provided */}}
+{{- if not $url -}}
+  {{/* If 'url' is missing or empty, display an error message on the page. */}}
+  <p style="color: red; border: 1px solid red; padding: 10px; margin: 1em 0; font-weight: bold;">
+    Error: Shortcode 'socialpreview' (or your specific shortcode name) was called without a required 'url' parameter on this page. Please edit the content file to add it.
+  </p>
+  {{/* Alternative: Uncomment the line below to halt the Hugo build with an error message in the console */}}
+  {{/* {{- errorf "Shortcode 'socialpreview' called without a 'url' parameter in page: %s" .Page.Path -}} */}}
+
+  {{/* Stop processing the rest of this shortcode for this specific instance */}}
+  {{- return "" -}}
+{{- end -}}
+{{/* --- END: Robustness Check --- */}}
+
+
 {{- $noFloat := .Get "noFloat" | default false -}}
-{{- $defaultImage := "https://rippreport.com/img/placeholder.png" -}}
+{{- $defaultImage := "https://rippreport.com/img/placeholder.png" -}} {{/* Consider hosting this locally if possible */}}
 {{- $workerBaseURL := "https://links.rippreport.com" -}}
 
 {{/* Helper function for image URL processing */}}
 {{- $processImageURL := dict
     "bloximages.chicago2.vip.townnews.com/lagniappemobile.com" (dict
-        "pattern" "(resize=)([0-9]+%2C[0-9]+)"
-        "replacement" "resize=380%2C200"
+        "pattern" `(resize=)([0-9]+%2C[0-9]+)`  {{/* Using backticks for raw string literal for regex */}}
+        "replacement" `${1}380%2C200`          {{/* Use capture group */}}
     )
     "beta.creativecirclecdn.com/gulfcoast/original" (dict
         "from" "https://beta.creativecirclecdn.com/gulfcoast/original/"
@@ -20,35 +41,94 @@
     )
 -}}
 
-{{/* First API call */}}
+{{/* --- API Call --- */}}
+{{/* Construct the worker URL *only if* $url is valid (guaranteed by the check above) */}}
 {{- $workerURL := printf "%s?q=%s" $workerBaseURL $url -}}
-{{- $json := getJSON $workerURL -}}
+{{- $json := "" -}} {{/* Initialize $json */}}
+{{- $errorMessage := "" -}} {{/* Initialize error message variable */}}
 
-{{/* Handle 404 for rippreport.com URLs */}}
-{{- if and (isset $json "error") (strings.HasPrefix $json.error "[Error] https://rippreport.com") (strings.Contains $json.error "404") -}}
-    {{- $parsedURL := urls.Parse $url -}}
-    {{- if eq $parsedURL.Host "rippreport.com" -}}
-        {{- $newURL := printf "rippreport.com/p%s" $parsedURL.Path -}}
-        {{- $workerURL = printf "%s?q=%s" $workerBaseURL $newURL -}}
-        {{- $json = getJSON $workerURL -}}
+{{/* Use try-catch logic for getJSON */}}
+{{- $result := resources.GetRemote $workerURL -}}
+{{- if $result.Err -}}
+    {{- $errorMessage = printf "Error fetching preview data for %s: %s" $url $result.Err -}}
+    {{/* Log the error to the console during build */}}
+    {{- warnf $errorMessage -}}
+{{- else -}}
+    {{- with $result.Content -}}
+        {{- $json = . | unmarshal -}}
+        {{/* Check if the unmarshalled result is actually a map (valid JSON object) */}}
+        {{- if not (reflect.IsMap $json) -}}
+            {{- $errorMessage = printf "Error: Received invalid JSON structure from worker for URL: %s. Content: %s" $url . -}}
+            {{- warnf $errorMessage -}}
+            {{- $json = "" -}} {{/* Reset $json if invalid */}}
+        {{- end -}}
+    {{- else -}}
+        {{- $errorMessage = printf "Error: Empty response received from worker for URL: %s" $url -}}
+        {{- warnf $errorMessage -}}
     {{- end -}}
 {{- end -}}
 
-{{/* Process response */}}
-{{- if $json.url -}}
-    {{- $parsedURL := urls.Parse $url -}}
-    {{- $baseURL := $parsedURL.Host -}}
+
+{{/* --- Handle 404 for rippreport.com URLs --- */}}
+{{/* Check if $json is a map and has the 'error' key before accessing it */}}
+{{- if and (reflect.IsMap $json) (isset $json "error") -}}
+    {{- if and (strings.HasPrefix $json.error "[Error] https://rippreport.com") (strings.Contains $json.error "404") -}}
+        {{- $parsedURL := urls.Parse $url -}}
+        {{- if eq $parsedURL.Host "rippreport.com" -}}
+            {{/* Attempt fetch for the /p/ path */}}
+            {{- $newURL := printf "https://rippreport.com/p%s" $parsedURL.Path -}} {{/* Construct full URL */}}
+            {{- $newWorkerURL := printf "%s?q=%s" $workerBaseURL $newURL -}}
+            {{- $errorMessage = "" -}} {{/* Reset error message */}}
+            {{- $newResult := resources.GetRemote $newWorkerURL -}}
+            {{- if $newResult.Err -}}
+                {{- $errorMessage = printf "Error fetching preview data for fallback rippreport URL %s: %s" $newURL $newResult.Err -}}
+                {{- warnf $errorMessage -}}
+                {{- $json = "" -}} {{/* Keep json empty on retry failure */}}
+            {{- else -}}
+                {{- with $newResult.Content -}}
+                    {{- $json = . | unmarshal -}}
+                     {{- if not (reflect.IsMap $json) -}}
+                        {{- $errorMessage = printf "Error: Received invalid JSON structure from worker for fallback URL: %s. Content: %s" $newURL . -}}
+                        {{- warnf $errorMessage -}}
+                        {{- $json = "" -}}
+                    {{- end -}}
+                {{- else -}}
+                     {{- $errorMessage = printf "Error: Empty response received from worker for fallback URL: %s" $newURL -}}
+                     {{- warnf $errorMessage -}}
+                     {{- $json = "" -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+
+{{/* --- Process Response --- */}}
+{{/* Check if $json is a map and has the 'url' key */}}
+{{- if and (reflect.IsMap $json) (isset $json "url") -}}
+    {{- $previewURL := $json.url -}} {{/* Use the URL from the JSON response */}}
+    {{- $parsedSourceURL := urls.Parse $previewURL -}} {{/* Parse the URL returned by the worker */}}
+    {{- $baseURL := $parsedSourceURL.Host -}}
     {{- $image := $json.image | default $defaultImage -}}
+    {{- $title := $json.title | default "Title not available" -}}
+    {{- $description := $json.description | default "Description not available" -}}
+
 
     {{/* Process image URL based on domain */}}
     {{- range $domain, $rules := $processImageURL -}}
-        {{- if strings.HasPrefix $image $domain -}}
-            {{- if isset $rules "pattern" -}}
-                {{- $image = $image | replaceRE $rules.pattern $rules.replacement -}}
-            {{- else if isset $rules "from" -}}
-                {{- $image = replace $image $rules.from $rules.to -}}
-            {{- else if isset $rules "width" -}}
-                {{- $image = $image | replaceRE "width=[0-9]+" $rules.width | replaceRE "quality=[0-9]+" $rules.quality -}}
+        {{- if $rules -}} {{/* Ensure rules exist */}}
+            {{- if strings.Contains $image $domain -}} {{/* Use Contains for more flexibility */}}
+                {{- if isset $rules "pattern" -}}
+                    {{- $image = $image | replaceRE $rules.pattern $rules.replacement -}}
+                {{- else if isset $rules "from" -}}
+                    {{- $image = replace $image $rules.from $rules.to -}}
+                {{- else if isset $rules "width" -}}
+                    {{- $newImage := $image | replaceRE `width=[0-9]+` $rules.width -}}
+                    {{- if isset $rules "quality" -}}
+                      {{- $newImage = $newImage | replaceRE `quality=[0-9]+` $rules.quality -}}
+                    {{- end -}}
+                    {{- $image = $newImage -}}
+                {{- end -}}
             {{- end -}}
         {{- end -}}
     {{- end -}}
@@ -63,62 +143,72 @@
         "rippreport.com" (dict "partial" "svg/eagle-logo-preview.svg" "id" "eagle-logo" "trim" "")
         "www.fox10tv.com" (dict "partial" "svg/wala.svg" "id" "Fox10" "trim" "")
         "www.montgomeryadvertiser.com" (dict "partial" "svg/montgomery-advertiser.svg" "id" "montgomeryadvertiser" "trim" "")
-        "gulfcoastmedia.com" (dict "image" "https://rippreport.com/img/gulf-coast-media.png" "style" "height:36px;width:150px;max-width:100%;min-height:36px;" "alt" "gulf coast media logo" "trim" "- Gulf Coast Media")
-        "www.gulfcoastnewstoday.com" (dict "image" "https://rippreport.com/img/gulf-coast-media.png" "style" "height:36px;width:150px;max-width:100%;min-height:36px;" "alt" "gulf coast media logo" "trim" "- Gulf Coast Media")
-        "www.alreporter.com" (dict "image" "https://rippreport.com/img/alreporter.png" "style" "height:46px;width:295px;max-width:100%;" "alt" "AL Reporter logo" "trim" "")
-        "yellowhammernews.com" (dict "image" "https://rippreport.com/img/yellow-hammer-logo.png" "style" "height:32px;width:290px;max-width:100%;" "alt" "Yellow Hammer News Logo" "trim" " - Yellowhammer News")
-        "theringer.com" (dict "image" "https://rippreport.com/img/the-ringer-logo.png" "style" "height:95px;width:200px;max-width:100%;" "alt" "The Ringer Logo" "trim" "")
-        "www.altoday.com" (dict "image" "https://rippreport.com/img/al_today.png" "style" "height:50px;width:85px;" "alt" "AL Today Logo" "trim" "altoday.com")
-        "www.facebook.com" (dict "image" "https://rippreport.com/img/fb.png" "style" "height:75px;width:75px;" "alt" "Facebook Logo" "trim" "www.facebook.com")
+        "gulfcoastmedia.com" (dict "image" "/img/gulf-coast-media.png" "style" "height:36px;width:150px;max-width:100%;min-height:36px;" "alt" "gulf coast media logo" "trim" "- Gulf Coast Media")
+        "www.gulfcoastnewstoday.com" (dict "image" "/img/gulf-coast-media.png" "style" "height:36px;width:150px;max-width:100%;min-height:36px;" "alt" "gulf coast media logo" "trim" "- Gulf Coast Media")
+        "www.alreporter.com" (dict "image" "/img/alreporter.png" "style" "height:46px;width:295px;max-width:100%;" "alt" "AL Reporter logo" "trim" "")
+        "yellowhammernews.com" (dict "image" "/img/yellow-hammer-logo.png" "style" "height:32px;width:290px;max-width:100%;" "alt" "Yellow Hammer News Logo" "trim" " - Yellowhammer News")
+        "theringer.com" (dict "image" "/img/the-ringer-logo.png" "style" "height:95px;width:200px;max-width:100%;" "alt" "The Ringer Logo" "trim" "")
+        "www.altoday.com" (dict "image" "/img/al_today.png" "style" "height:50px;width:85px;" "alt" "AL Today Logo" "trim" "altoday.com")
+        "www.facebook.com" (dict "image" "/img/fb.png" "style" "height:75px;width:75px;" "alt" "Facebook Logo" "trim" "www.facebook.com")
     -}}
 
+    {{/* --- HTML Output --- */}}
     <div class="social-preview{{ if $noFloat }} sink-preview{{ end }}" data-source="{{ $baseURL }}">
-        <a href="{{ $json.url }}" rel="noopener">
+        <a href="{{ $previewURL }}" rel="noopener noreferrer" target="_blank"> {{/* Added noreferrer and target blank */}}
             <img
                 loading="lazy"
+                {{/* Use Cloudflare Image Resizing only for images hosted on rippreport.com */}}
                 src="{{ if strings.HasPrefix $image "https://rippreport.com" }}
-                        /cdn-cgi/image/width=380,quality=70,format=auto{{ $image | strings.TrimPrefix "https://rippreport.com" }}
+                        {{ printf "/cdn-cgi/image/width=380,quality=70,format=auto%s" ($image | strings.TrimPrefix "https://rippreport.com") }}
                     {{ else }}
                         {{ $image }}
                     {{ end }}"
-                alt="{{ $json.title }}"
+                alt="{{ $title }}"
                 width="380"
                 height="200"
+                {{/* Add basic error handling for images */}}
+                onerror="this.onerror=null; this.src='{{ $defaultImage }}'; this.style.objectFit='contain';"
+                style="object-fit: cover; background-color: #eee;" {{/* Added background color for loading/error */}}
             >
             <h2>
+                {{- $sourceConfig := "" -}}
                 {{- if isset $sources $baseURL -}}
-                    {{- with index $sources $baseURL -}}
-                        {{- if isset . "partial" -}}
-                            {{ partial .partial (dict "id" .id) }}
-                            <br>
-                        {{- else if isset . "image" -}}
-                            <img
-                                loading="lazy"
-                                src="{{ .image }}"
-                                alt="{{ .alt }}"
-                                style="{{ .style }}"
-                            >
-                            <br>
-                        {{- end -}}
-                        {{ $json.title | strings.TrimSuffix .trim }}
+                    {{- $sourceConfig = index $sources $baseURL -}}
+                {{- end -}}
+
+                {{- if $sourceConfig -}}
+                    {{- if isset $sourceConfig "partial" -}}
+                        {{ partial $sourceConfig.partial (dict "id" $sourceConfig.id) }}
+                        <br>
+                    {{- else if isset $sourceConfig "image" -}}
+                        <img
+                            loading="lazy"
+                            src="{{ $sourceConfig.image | absURL }}" {{/* Use absURL for local images */}}
+                            alt="{{ $sourceConfig.alt }}"
+                            style="{{ $sourceConfig.style | safeCSS }}" {{/* Use safeCSS */}}
+                        >
+                        <br>
                     {{- end -}}
+                    {{ $title | strings.TrimSuffix $sourceConfig.trim | safeHTML }} {{/* Use safeHTML */}}
                 {{- else if eq $baseURL "thefairhopetimes.blogspot.com" -}}
-                    {{ $json.title }}
+                    {{ $title | safeHTML }}
                 {{- else -}}
-                    {{ $json.title }}
+                    {{ $title | safeHTML }}
                     <br>
-                    <span style="background:transparent;
-                    color: black;
-                    text-align: center;
-                    margin: auto;
-                    display: inline;"
-                     class="source-url">{{ $baseURL }}</span>
+                    <span style="background:transparent; color: black; text-align: center; margin: auto; display: inline; font-size: 0.8em; opacity: 0.8;" class="source-url">{{ $baseURL }}</span> {{/* Slightly style the source URL */}}
                 {{- end -}}
             </h2>
-            <p>{{ $json.description }}</p>
+            <p>{{ $description | safeHTML }}</p>
             <span class="read_more">Read More</span>
         </a>
     </div>
 {{- else -}}
-    <a href="{{ $url }}" rel="noopener">{{ $url }}</a>
+    {{/* --- Fallback Link --- */}}
+    {{/* Displayed if API call failed, returned invalid JSON, or JSON lacked a 'url' field */}}
+    <div class="social-preview-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc;">
+      <p style="margin: 0;">Could not load preview for: <a href="{{ $url }}" rel="noopener noreferrer" target="_blank">{{ $url }}</a></p>
+      {{- if $errorMessage -}}
+      <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #777;">{{ $errorMessage }}</p>
+      {{- end -}}
+    </div>
 {{- end -}}
