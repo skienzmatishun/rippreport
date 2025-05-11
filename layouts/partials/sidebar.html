@@ -10,17 +10,7 @@
 
 {{ if $sidebar }}
 <aside class="sidebar{{ if eq $sidebar "left" }} sidebar--left{{ end }}">
-    <div class="backstory-sidebar">
-        <div class="backstory-logo">
-            {{ partial "svg/backstory.svg" (dict "id" "backstorypodcast") }}
-        </div>
-        <div class="backstory-social">
-            <a aria-label="Backstory Podcast Facebook Page" style="height: 24px;width:24px;" href="https://www.facebook.com/BackstoryPodcast/">{{ partial "svg/facebook.svg" (dict "id" "facebook") }}</a>
-            <a aria-label="Backstory Podcast Rumble Page" style="height: 24px;width:24px;" href="https://rumble.com/user/BackstoryPodcast">{{ partial "svg/rumble.svg" (dict "id" "rumble") }}</a>
-            <a aria-label="Contact Backstory Podcast by Email" style="height: 24px;width:24px;" href="mailto:backstory@rippreport.com">{{ partial "svg/email.svg" (dict "id" "email") }}</a>
-        </div>
-    </div>
-    <div class="bsp_container">
+
   {{ partial "soundcloud.html" . }}
     </div>
     {{ partial "important-events.html" . }}
