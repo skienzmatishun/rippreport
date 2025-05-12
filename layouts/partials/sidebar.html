@@ -19,6 +19,7 @@
             {{- $p := printf "widgets/%s.html" $widget }}
             {{- partial $p $root }}
         {{- end }}
+        {{ partial "widgets/related-posts.html" . }}
     {{- else }}
         <p class="sidebar__warning"><strong>{{ T "sidebar_warning" }}:</strong><br>{{ T "sidebar_recommendation" }}</p>
     {{- end }}
