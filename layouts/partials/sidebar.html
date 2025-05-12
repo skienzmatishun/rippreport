@@ -13,14 +13,22 @@
 
     {{ partial "important-events.html" . }}
 
-    {{- $root := . }}
+    {{- $root := . }} {{/* $root is the page context */}}
     {{- with default .Site.Params.sidebar.widgets .Params.widgets }}
         {{- range $widget := . }}
             {{- $p := printf "widgets/%s.html" $widget }}
-            {{- partial $p $root }}
+            {{- partial $p $root }} {{/* Correctly passes page context to widgets from the list */}}
         {{- end }}
-        {{ partial "widgets/related-posts.html" . }}
+
+        {{/* --- CORRECTED LINE --- */}}
+        {{/* Now passing the page context ($root) to related-posts.html */}}
+        {{ partial "widgets/related-posts.html" $root }}
+
     {{- else }}
+        {{/* This 'else' block is for when '.Site.Params.sidebar.widgets' AND '.Params.widgets' are both empty. */}}
+        {{/* If you want related-posts to show even when no other widgets are defined, */}}
+        {{/* you might need to adjust its placement or the logic here. */}}
+        {{/* For now, this just fixes the context error for the existing structure. */}}
         <p class="sidebar__warning"><strong>{{ T "sidebar_warning" }}:</strong><br>{{ T "sidebar_recommendation" }}</p>
     {{- end }}
 
