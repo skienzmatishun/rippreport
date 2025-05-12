@@ -1,0 +1,73 @@
+{{/* layouts/partials/related_posts.html */}}
+{{ $currentPage := . }} {{/* Reference to the current page */}}
+
+{{/* Check if the 'similar' frontmatter exists and is not empty */}}
+{{ with .Params.similar }}
+  {{ $similarLinks := . }} {{/* This is the array from frontmatter */}}
+
+  <aside class="related-posts-container">
+    <h3 class="related-posts-title">Related Posts</h3>
+    <ul class="related-posts-list">
+      {{/* Loop through the first 5 items in the 'similarLinks' array */}}
+      {{ range first 5 $similarLinks }}
+        {{/*
+          Each item (.) in $similarLinks has a 'url' field (e.g., "/p/related-post-slug/").
+          We use this URL to fetch the actual page object for the related post.
+        */}}
+        {{ $relatedPage := $.Site.GetPage .url }}
+
+        {{/* Ensure the related page was found */}}
+        {{ with $relatedPage }}
+          <li class="related-post-item">
+            <a href="{{ .Permalink }}" class="related-post-link">
+              {{ $thumbnailUrl := "" }}
+              {{ $altText := .Title }}
+
+              {{/* --- Thumbnail Logic --- */}}
+              {{/* Option 1: Check for 'image' in related post's frontmatter */}}
+              {{ with .Params.image }}
+                {{ if hasPrefix . "http" }}
+                  {{ $thumbnailUrl = . }}
+                {{ else }}
+                  {{ $thumbnailUrl = (absURL .) }}
+                {{ end }}
+              {{ else }}
+                {{/* Option 2: Look for a common Page Resource (e.g., thumbnail.jpg, feature.png) */}}
+                {{ $resource := "" }}
+                {{ $resource = .Resources.GetMatch "thumbnail.*" }}
+                {{ if not $resource }}{{ $resource = .Resources.GetMatch "feature.*" }}{{ end }}
+                {{ if not $resource }}{{ $resource = .Resources.GetMatch "cover.*" }}{{ end }}
+
+                {{ with $resource }}
+                  {{/* For image processing, you might want a specific size */}}
+                  {{/* Example: $processedImage := .Fill "300x200" */}}
+                  {{ $thumbnailUrl = .RelPermalink }}
+                {{ end }}
+              {{ end }}
+              {{/* --- End Thumbnail Logic --- */}}
+
+              {{ if $thumbnailUrl }}
+                <figure class="related-post-thumbnail-wrapper">
+                  <img src="{{ $thumbnailUrl }}" alt="Thumbnail for {{ $altText }}" class="related-post-thumbnail">
+                </figure>
+              {{ else }}
+                {{/* Optional: Placeholder if no thumbnail found */}}
+                {{ end }}
+
+              <div class="related-post-details">
+                <h4 class="related-post-headline">{{ .Title }}</h4>
+                <p class="related-post-excerpt">
+                  {{ .Summary }}
+                  {{/*
+                    Alternatively, if you have a manual excerpt/description in frontmatter:
+                    {{ .Params.description | default .Summary }}
+                  */}}
+                </p>
+              </div>
+            </a>
+          </li>
+        {{ end }} {{/* End 'with $relatedPage' */}}
+      {{ end }} {{/* End 'range first 5 $similarLinks' */}}
+    </ul>
+  </aside>
+{{ end }} {{/* End 'with .Params.similar' */}}
