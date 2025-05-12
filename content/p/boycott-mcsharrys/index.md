@@ -1,19 +1,30 @@
 ---
-title: "BOYCOTT McSHARRY’S"
+authors:
+- admin
+categories:
+- saturday-special
 date: 2021-03-20
-thumbnail: "img/boycott-mcsharrys.png"
-categories: 
-  - saturday-special
-tags: 
-  - burell
-  - city-attorney
-  - jack-burrell
-  - marcus-mcdowel
-  - mcsharry
-  - mcsharrys
-  - ronan-mcsharry
-authors: 
-  - admin
+similar:
+- title: court-public-opinion-now-session
+  url: /p/court-public-opinion-now-session/
+- title: a-slap-on-the-wrist
+  url: /p/a-slap-on-the-wrist/
+- title: surrender
+  url: /p/surrender/
+- title: exposure-2
+  url: /p/exposure-2/
+- title: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  url: /p/comment-surprised-ripp-report-baldwin-county-legal-eagle/
+tags:
+- burell
+- city-attorney
+- jack-burrell
+- marcus-mcdowel
+- mcsharry
+- mcsharrys
+- ronan-mcsharry
+thumbnail: img/boycott-mcsharrys.png
+title: BOYCOTT McSHARRY’S
 ---
 
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.
