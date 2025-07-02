@@ -76,3 +76,5 @@ SBC, “A secret society is a club or an organization whose activities, events, 
 Fairhope SBC has total control of your city, in months and years to come you are going to witness wholesale corruption on a scale beyond your imagination.
 
 Get ready for some “REDNECK RENOVATIONS”.
+
+{{< chat dejavu >}}
