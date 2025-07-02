@@ -1,6 +1,6 @@
 ---
 title: "Deja Vu"
-date: 2025-02-02
+date: 2025-07-02
 thumbnail: "img/secret-society.png"
 categories: 
   - citycouncil
