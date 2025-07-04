@@ -20,4 +20,5 @@ Please share with your neighbors and encourage them to vote Aug 26th.
 
 <img src="https://rippreport.com/cdn-cgi/image/width=750,quality=85,format=auto/img/candidates.jpg">
 
+
 {{< chat fhofh >}}
