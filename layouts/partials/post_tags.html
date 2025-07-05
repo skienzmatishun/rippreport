@@ -1,0 +1,27 @@
+{{- if .Params.tags }}
+<div class="post__tags tags clearfix">
+    {{ partial "svg/tag.svg" (dict "class" "tags__badge") }}
+    <ul class="tags__list">
+        {{- range .Params.tags }}
+        <li class="tags__item">
+            {{/* 1. Define the site to search. */}}
+            {{- $siteToSearch := "rippreport.com" -}}
+
+            {{/* 2. Construct the search query. 
+              The '.' variable is the tag name (e.g., "Waterfront Project").
+              We use 'urlize' to make it URL-friendly (e.g., "waterfront-project").
+            */}}
+            {{- $searchQuery := printf "site:%s %s" $siteToSearch (. | urlize) -}}
+
+            {{/* 3. Build the final Google search URL. */}}
+            {{- $googleURL := printf "https://www.google.com/search?q=%s" ($searchQuery | replace " " "+") -}}
+
+            {{/* 4. Create the link to the Google search. */}}
+            <a class="tags__link btn" href="{{ $googleURL }}" title="Search for '{{ . }}' on {{ $siteToSearch }}" target="_blank" rel="noopener noreferrer">
+                {{- . -}}
+            </a>
+        </li>
+        {{- end }}
+    </ul>
+</div>
+{{- end }}
