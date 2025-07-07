@@ -4,6 +4,7 @@ title = 'Ripp Report'
 theme = 'mainroad'
 disableHugoGeneratorInject = true
 logo = "https://rippreport.com/img/eagle.png"
+disableKinds = ["taxonomy", "term"]
 
 [Author] # Used in authorbox
   name = "Francis Ripp"
