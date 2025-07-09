@@ -4,6 +4,25 @@ date: 2025-03-14
 thumbnail: "img/go-to-hell-veterans.png"
 categories: 
   - ivy
+tags: 
+  - Ivey
+  - Napoleon Bracy
+  - Chip Brown
+  - Barbara Drummond
+  - Brett Easterbrook
+  - Jennifer Fidler
+  - Donna Givens
+  - Frances Holk-Jones
+  - Chris Pringle
+  - Mark Shirely
+  - Matt Simpson
+  - Shane Stringer
+  - Margie Wilcox
+  - Veterans
+  - Alan Baker
+  - Gret Albritton
+  - Andrew Jones
+  - Ed Oliver
 authors: 
   - ripp-report
 ---

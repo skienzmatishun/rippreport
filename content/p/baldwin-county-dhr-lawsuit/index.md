@@ -4,6 +4,10 @@ date: 2025-04-03
 thumbnail: "img/baldwin-county-dhr-lawsuit.png"
 categories: 
   - ivy
+tags: 
+  - Family Court
+  - DHR
+  - GAL
 authors: 
   - ripp-report
 ---
