@@ -4,6 +4,19 @@ date: 2025-03-08
 thumbnail: "img/justified.png"
 categories: 
   - ivy
+tags:
+  - OJ French
+  - Bay Minette
+  - Baldwin County Major Crimes Unit
+  - Al Tolbert
+  - Johnathan Victor
+  - Bob Willis
+  - Sheriff Hoss Mack
+  - Robert Wilters
+  - David Whetstone
+  - Murray Lawrence JR
+  - Antony Lowery
+  - County Commission
 authors: 
   - ripp-report
 ---

@@ -4,6 +4,19 @@ date: 2025-03-03
 thumbnail: "img/red-lips-award.png"
 categories: 
   - ivy
+tags:
+  - Veterans
+  - Veterans Affairs
+  - Alabama State Senate
+  - Ivey
+  - Kent Davis
+  - Kimberly Boswell
+  - Ethics Commission
+  - Tom Albritton
+  - Mabel Amos Trust
+  - Andrew Jones
+  - Ed Oliver
+  - Cliff McCollum
 authors: 
   - ripp-report
 ---
@@ -40,10 +53,17 @@ Baldwin County representatives that make up the balance of the county’s legisl
 If you are a veteran, a veteran family member or an advocate of veterans contact your Baldwin County Delegation and express your support of veterans. KILL THIS BILL
 State Senators:
 
-Greg AlbrittonChris ElliottVivian Davis Figures
-State Representatives:
+Greg Albritton
+Chris Elliott
+Vivian Davis Figures
 
-Donna GivensAlan BakerJennifer FidlerFrances Holk-JonesMatt SimpsonShane Stringer
+State Representatives:
+Donna Givens
+Alan Baker
+Jennifer Fidler
+Frances Holk-Jones
+Matt SimpsonShane 
+Stringer
 
 A.L.I.S.O.N (Alabama Legislative Information System Online)
 
