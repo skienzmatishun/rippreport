@@ -4,6 +4,15 @@ date: 2025-07-03
 thumbnail: "img/fauxhope-or-fairhope.png"
 categories: 
   - citycouncil
+tags: 
+  - City Council
+  - Mayor Sullivan
+  - Municipal Election
+  - Troy Vickers
+  - Joshua Gammon
+  - Tracy Gatewood
+  - David Luc
+  - George Ferniany
 authors: 
   - ripp-report
 ---
