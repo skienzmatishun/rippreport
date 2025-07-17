@@ -443,9 +443,16 @@ class CactusReplySystem {
     }
 
     scrollToMainForm() {
-        const mainForm = document.querySelector('.cactus-editor, .cactus-comment-form, form');
+        // Target the specific cactus editor textarea
+        let mainForm = document.querySelector('.cactus-editor-textarea');
+        
+        console.log('Scrolling to main form:', mainForm);
         if (mainForm) {
             mainForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            // Focus the textarea after scrolling
+            setTimeout(() => mainForm.focus(), 100);
+        } else {
+            console.log('Could not find .cactus-editor-textarea to scroll to');
         }
     }
 
