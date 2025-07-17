@@ -118,12 +118,18 @@ class CactusReplySystem {
 
     waitForComments() {
         console.log('Waiting for comments to load');
+        
+        // Always try to add the link button first
+        this.addLinkButton();
+        
         const checkForComments = () => {
             const comments = document.querySelectorAll('.cactus-comment');
             console.log(`Found ${comments.length} comments`);
             if (comments.length > 0) {
                 this.addReplyButtons();
             } else {
+                // Still try to add link button even if no comments
+                this.addLinkButton();
                 setTimeout(checkForComments, 1000);
             }
         };
