@@ -166,39 +166,48 @@ class CactusReplySystem {
         console.log(`Adding reply buttons to ${comments.length} comments`);
         
         comments.forEach((comment, index) => {
-            const timestamp = this.extractTimestamp(comment);
-            console.log(`Comment ${index}: timestamp = ${timestamp}`);
-            if (!timestamp || this.replyButtons.has(timestamp)) return;
+            const commentData = this.extractCommentData(comment);
+            console.log(`Comment ${index}: name = ${commentData.name}, timestamp = ${commentData.timestamp}`);
+            if (!commentData.timestamp || this.replyButtons.has(commentData.timestamp)) return;
 
-            const replyButton = this.createReplyButton(timestamp);
-            const replyContainer = this.createReplyContainer(timestamp);
+            const replyButton = this.createReplyButton(commentData);
+            const replyContainer = this.createReplyContainer(commentData);
             
             const commentBody = comment.querySelector('.cactus-comment-body');
             if (commentBody) {
                 commentBody.appendChild(replyButton);
                 commentBody.appendChild(replyContainer);
                 
-                this.replyButtons.set(timestamp, replyButton);
-                this.replyForms.set(timestamp, replyContainer);
-                console.log(`Added reply button for comment with timestamp: ${timestamp}`);
+                this.replyButtons.set(commentData.timestamp, replyButton);
+                this.replyForms.set(commentData.timestamp, replyContainer);
+                console.log(`Added reply button for comment by ${commentData.name}`);
             }
         });
     }
 
-    extractTimestamp(comment) {
+    extractCommentData(comment) {
+        // Extract the display name
+        const displayNameElement = comment.querySelector('.cactus-comment-displayname');
+        const name = displayNameElement ? displayNameElement.textContent.trim() : 'Anonymous';
+        
+        // Extract timestamp for unique identification
         const timeElement = comment.querySelector('.cactus-comment-time');
+        let timestamp;
         if (timeElement && timeElement.dateTime) {
-            return timeElement.dateTime;
-        }
-        if (timeElement) {
-            return timeElement.textContent.trim();
+            timestamp = timeElement.dateTime;
+        } else if (timeElement) {
+            timestamp = timeElement.textContent.trim();
+        } else {
+            const commentId = comment.id || comment.dataset.id;
+            if (commentId) {
+                timestamp = commentId;
+            } else {
+                const content = comment.textContent.trim();
+                timestamp = this.generateHash(content);
+            }
         }
         
-        const commentId = comment.id || comment.dataset.id;
-        if (commentId) return commentId;
-        
-        const content = comment.textContent.trim();
-        return this.generateHash(content);
+        return { name, timestamp };
     }
 
     generateHash(str) {
@@ -211,7 +220,7 @@ class CactusReplySystem {
         return Math.abs(hash).toString();
     }
 
-    createReplyButton(timestamp) {
+    createReplyButton(commentData) {
         const button = document.createElement('button');
         button.className = 'cactus-reply-button';
         button.textContent = 'Reply';
@@ -238,13 +247,13 @@ class CactusReplySystem {
         
         button.addEventListener('click', (e) => {
             e.preventDefault();
-            this.toggleReplyForm(timestamp);
+            this.toggleReplyForm(commentData.timestamp);
         });
         
         return button;
     }
 
-    createReplyContainer(timestamp) {
+    createReplyContainer(commentData) {
         const container = document.createElement('div');
         container.className = 'cactus-reply-container';
         container.style.cssText = `
@@ -256,13 +265,13 @@ class CactusReplySystem {
             border-left: 3px solid #007cba;
         `;
         
-        const form = this.createReplyForm(timestamp);
+        const form = this.createReplyForm(commentData);
         container.appendChild(form);
         
         return container;
     }
 
-    createReplyForm(timestamp) {
+    createReplyForm(commentData) {
         const form = document.createElement('form');
         form.className = 'cactus-reply-form';
         
@@ -273,7 +282,7 @@ class CactusReplySystem {
             margin-bottom: 8px;
             font-style: italic;
         `;
-        replyInfo.textContent = `Replying to comment from ${this.formatTimestamp(timestamp)}`;
+        replyInfo.textContent = `Replying to ${commentData.name}`;
         
         const textarea = document.createElement('textarea');
         textarea.className = 'cactus-reply-textarea';
@@ -342,12 +351,12 @@ class CactusReplySystem {
         });
         
         cancelButton.addEventListener('click', () => {
-            this.hideReplyForm(timestamp);
+            this.hideReplyForm(commentData.timestamp);
         });
         
         form.addEventListener('submit', (e) => {
             e.preventDefault();
-            this.handleReplySubmit(timestamp, textarea.value);
+            this.handleReplySubmit(commentData, textarea.value);
         });
         
         buttonContainer.appendChild(submitButton);
@@ -401,38 +410,20 @@ class CactusReplySystem {
         }
     }
 
-    handleReplySubmit(timestamp, replyText) {
+    handleReplySubmit(commentData, replyText) {
         if (!replyText.trim()) {
             alert('Please enter a reply message.');
             return;
         }
         
-        const formattedReply = this.formatReply(timestamp, replyText);
+        const formattedReply = this.formatReply(commentData, replyText);
         this.insertReplyIntoMainForm(formattedReply);
-        this.hideReplyForm(timestamp);
+        this.hideReplyForm(commentData.timestamp);
         this.scrollToMainForm();
     }
 
-    formatReply(timestamp, replyText) {
-        const timeStr = this.formatTimestamp(timestamp);
-        return `@Reply to comment from ${timeStr}:\n\n${replyText}`;
-    }
-
-    formatTimestamp(timestamp) {
-        try {
-            const date = new Date(timestamp);
-            if (!isNaN(date.getTime())) {
-                return date.toLocaleString();
-            }
-        } catch (e) {
-            // If parsing fails, return the original timestamp
-        }
-        
-        if (timestamp.length > 20) {
-            return timestamp.substring(0, 20) + '...';
-        }
-        
-        return timestamp;
+    formatReply(commentData, replyText) {
+        return `@Reply to ${commentData.name}:\n\n${replyText}`;
     }
 
     insertReplyIntoMainForm(replyText) {
