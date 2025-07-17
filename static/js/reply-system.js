@@ -260,9 +260,9 @@ class CactusReplySystem {
 
     const submitButton = document.createElement("button");
     submitButton.type = "submit";
-    submitButton.textContent = "Add Reply to Comment";
+    submitButton.textContent = "Post Reply";
     submitButton.style.cssText = `
-            background: #28a745;
+            background: hsl(0, 0%, 25.1%);
             color: white;
             border: none;
             padding: 6px 12px;
@@ -276,7 +276,7 @@ class CactusReplySystem {
     cancelButton.type = "button";
     cancelButton.textContent = "Cancel";
     cancelButton.style.cssText = `
-            background: #6c757d;
+            background: hsl(0, 0%, 25.1%);
             color: white;
             border: none;
             padding: 6px 12px;
@@ -288,19 +288,19 @@ class CactusReplySystem {
 
     // Event listeners
     submitButton.addEventListener("mouseenter", () => {
-      submitButton.style.backgroundColor = "#218838";
+      submitButton.style.backgroundColor = "hsl(0, 0%, 25.1%)";
     });
 
     submitButton.addEventListener("mouseleave", () => {
-      submitButton.style.backgroundColor = "#28a745";
+      submitButton.style.backgroundColor = "hsl(0, 0%, 25.1%)";
     });
 
     cancelButton.addEventListener("mouseenter", () => {
-      cancelButton.style.backgroundColor = "#5a6268";
+      cancelButton.style.backgroundColor = "hsl(0, 0%, 25.1%)";
     });
 
     cancelButton.addEventListener("mouseleave", () => {
-      cancelButton.style.backgroundColor = "#6c757d";
+      cancelButton.style.backgroundColor = "hsl(0, 0%, 25.1%)";
     });
 
     cancelButton.addEventListener("click", () => {
