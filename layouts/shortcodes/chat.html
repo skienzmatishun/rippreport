@@ -386,9 +386,9 @@ class CactusReplySystem {
             if (truncatedMessage.length > 200) {
                 truncatedMessage = truncatedMessage.substring(0, 200) + '...';
             }
-            return `@Reply to ${commentData.name}:\n*${truncatedMessage}*\n\n`;
+            return `**@Reply to ${commentData.name}:**\n<span style="color: #888; font-style: italic;">${truncatedMessage}</span>\n\n`;
         } else {
-            return `@Reply to ${commentData.name}:\n\n`;
+            return `**@Reply to ${commentData.name}:**\n\n`;
         }
     }
 
