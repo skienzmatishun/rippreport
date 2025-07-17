@@ -190,6 +190,24 @@ class CactusReplySystem {
         const displayNameElement = comment.querySelector('.cactus-comment-displayname');
         const name = displayNameElement ? displayNameElement.textContent.trim() : 'Anonymous';
         
+        // Extract the original message content
+        const messageElement = comment.querySelector('.cactus-message-text, .cactus-comment-body .cactus-message-text');
+        let originalMessage = '';
+        if (messageElement) {
+            originalMessage = messageElement.textContent.trim();
+        } else {
+            // Fallback: try to get text from comment body, excluding the header
+            const commentBody = comment.querySelector('.cactus-comment-body');
+            if (commentBody) {
+                // Clone the element to avoid modifying the original
+                const bodyClone = commentBody.cloneNode(true);
+                // Remove any reply buttons we might have added
+                const replyButtons = bodyClone.querySelectorAll('.cactus-reply-button, .cactus-reply-container');
+                replyButtons.forEach(btn => btn.remove());
+                originalMessage = bodyClone.textContent.trim();
+            }
+        }
+        
         // Extract timestamp for unique identification
         const timeElement = comment.querySelector('.cactus-comment-time');
         let timestamp;
@@ -207,7 +225,7 @@ class CactusReplySystem {
             }
         }
         
-        return { name, timestamp };
+        return { name, timestamp, originalMessage };
     }
 
     generateHash(str) {
@@ -423,7 +441,11 @@ class CactusReplySystem {
     }
 
     formatReply(commentData, replyText) {
-        return `@Reply to ${commentData.name}:\n\n${replyText}`;
+        if (commentData.originalMessage) {
+            return `@Reply to ${commentData.name}:\n*${commentData.originalMessage}*\n\n${replyText}`;
+        } else {
+            return `@Reply to ${commentData.name}:\n\n${replyText}`;
+        }
     }
 
     insertReplyIntoMainForm(replyText) {
