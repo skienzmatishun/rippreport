@@ -527,4 +527,9 @@
 .cactus-login-button {
   display: none;
 }
-.cactus-reply-button {background:rgb(64, 64, 64) !important}
+.cactus-reply-button {
+  background: rgb(64, 64, 64) !important;
+}
+.cactus-link-button {
+  background:rgb(40, 113, 167);
+}
