@@ -170,16 +170,17 @@ class CactusReplySystem {
             if (!commentData.timestamp || this.replyButtons.has(commentData.timestamp)) return;
 
             const replyButton = this.createReplyButton(commentData);
-            const linkButton = this.createLinkButton();
             
             const commentBody = comment.querySelector('.cactus-comment-body');
             if (commentBody) {
                 commentBody.appendChild(replyButton);
-                commentBody.appendChild(linkButton);
                 this.replyButtons.set(commentData.timestamp, replyButton);
-                console.log(`Added reply and link buttons for comment by ${commentData.name}`);
+                console.log(`Added reply button for comment by ${commentData.name}`);
             }
         });
+        
+        // Add the link button near the comment textarea (only once)
+        this.addLinkButton();
     }
 
     extractCommentData(comment) {
@@ -312,6 +313,52 @@ class CactusReplySystem {
         
         // Scroll to the main comment form
         this.scrollToMainForm();
+    }
+
+    addLinkButton() {
+        // Only add the link button once
+        if (document.querySelector('.cactus-link-button')) {
+            return;
+        }
+        
+        // Try to find the comment textarea or editor area
+        const textarea = document.querySelector('.cactus-editor-textarea');
+        if (!textarea) {
+            console.log('Could not find textarea to add link button');
+            return;
+        }
+        
+        // Find the parent container of the textarea
+        let container = textarea.parentElement;
+        
+        // Look for a suitable container (form, editor, etc.)
+        while (container && !container.classList.contains('cactus-editor') && !container.classList.contains('cactus-composer') && container.tagName !== 'FORM') {
+            container = container.parentElement;
+        }
+        
+        if (!container) {
+            container = textarea.parentElement;
+        }
+        
+        // Create the link button
+        const linkButton = this.createLinkButton();
+        
+        // Create a container for the button
+        const buttonContainer = document.createElement('div');
+        buttonContainer.style.cssText = `
+            margin-top: 8px;
+            margin-bottom: 8px;
+        `;
+        buttonContainer.appendChild(linkButton);
+        
+        // Insert the button container after the textarea
+        if (textarea.nextSibling) {
+            container.insertBefore(buttonContainer, textarea.nextSibling);
+        } else {
+            container.appendChild(buttonContainer);
+        }
+        
+        console.log('Added link button near comment textarea');
     }
 
     handleLinkClick() {
