@@ -1,6 +1,5 @@
 <div id="comment-section" data-section="{{ index .Params 0 }}"></div>
 <script type="text/javascript" src="https://rippreport.com/js/cactus.js"></script>
-<script type="text/javascript" src="https://rippreport.com/js/reply-system.js"></script>
 <link href="https://rippreport.com/css/comments.css" rel="stylesheet">
 <script>
 initComments({
@@ -103,25 +102,390 @@ const buttonObserver = new MutationObserver(mutations => {
 // Start observing the document for the addition of the button
 buttonObserver.observe(document.body, { childList: true, subtree: true });
 
-// Debug function to inspect comment structure
-setTimeout(() => {
-    console.log('=== DEBUGGING COMMENT STRUCTURE ===');
-    const commentSection = document.querySelector('#comment-section');
-    console.log('Comment section:', commentSection);
-    
-    const allComments = document.querySelectorAll('*[class*="comment"]');
-    console.log('All elements with "comment" in class:', allComments);
-    
-    allComments.forEach((el, i) => {
-        console.log(`Element ${i}:`, el.className, el);
-    });
-    
-    const cactusComments = document.querySelectorAll('.cactus-comment');
-    console.log('Cactus comments found:', cactusComments.length);
-    
-    if (cactusComments.length > 0) {
-        console.log('First comment structure:', cactusComments[0]);
-        console.log('First comment HTML:', cactusComments[0].outerHTML);
+// Cactus Comments Reply System
+class CactusReplySystem {
+    constructor() {
+        console.log('CactusReplySystem constructor called');
+        this.replyButtons = new Map();
+        this.replyForms = new Map();
+        this.init();
     }
-}, 5000);
+
+    init() {
+        console.log('Initializing reply system');
+        this.waitForComments();
+        this.setupMutationObserver();
+    }
+
+    waitForComments() {
+        console.log('Waiting for comments to load');
+        const checkForComments = () => {
+            const comments = document.querySelectorAll('.cactus-comment');
+            console.log(`Found ${comments.length} comments`);
+            if (comments.length > 0) {
+                this.addReplyButtons();
+            } else {
+                setTimeout(checkForComments, 1000);
+            }
+        };
+        checkForComments();
+    }
+
+    setupMutationObserver() {
+        const commentsContainer = document.querySelector('#comment-section');
+        if (!commentsContainer) return;
+
+        const observer = new MutationObserver((mutations) => {
+            let shouldUpdate = false;
+            mutations.forEach(mutation => {
+                if (mutation.addedNodes.length > 0) {
+                    mutation.addedNodes.forEach(node => {
+                        if (node.nodeType === 1 && 
+                            (node.classList?.contains('cactus-comment') || 
+                             node.querySelector?.('.cactus-comment'))) {
+                            shouldUpdate = true;
+                        }
+                    });
+                }
+            });
+            
+            if (shouldUpdate) {
+                console.log('New comments detected, adding reply buttons');
+                setTimeout(() => this.addReplyButtons(), 500);
+            }
+        });
+
+        observer.observe(commentsContainer, {
+            childList: true,
+            subtree: true
+        });
+    }
+
+    addReplyButtons() {
+        const comments = document.querySelectorAll('.cactus-comment');
+        console.log(`Adding reply buttons to ${comments.length} comments`);
+        
+        comments.forEach((comment, index) => {
+            const timestamp = this.extractTimestamp(comment);
+            console.log(`Comment ${index}: timestamp = ${timestamp}`);
+            if (!timestamp || this.replyButtons.has(timestamp)) return;
+
+            const replyButton = this.createReplyButton(timestamp);
+            const replyContainer = this.createReplyContainer(timestamp);
+            
+            const commentBody = comment.querySelector('.cactus-comment-body');
+            if (commentBody) {
+                commentBody.appendChild(replyButton);
+                commentBody.appendChild(replyContainer);
+                
+                this.replyButtons.set(timestamp, replyButton);
+                this.replyForms.set(timestamp, replyContainer);
+                console.log(`Added reply button for comment with timestamp: ${timestamp}`);
+            }
+        });
+    }
+
+    extractTimestamp(comment) {
+        const timeElement = comment.querySelector('.cactus-comment-time');
+        if (timeElement && timeElement.dateTime) {
+            return timeElement.dateTime;
+        }
+        if (timeElement) {
+            return timeElement.textContent.trim();
+        }
+        
+        const commentId = comment.id || comment.dataset.id;
+        if (commentId) return commentId;
+        
+        const content = comment.textContent.trim();
+        return this.generateHash(content);
+    }
+
+    generateHash(str) {
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            const char = str.charCodeAt(i);
+            hash = ((hash << 5) - hash) + char;
+            hash = hash & hash;
+        }
+        return Math.abs(hash).toString();
+    }
+
+    createReplyButton(timestamp) {
+        const button = document.createElement('button');
+        button.className = 'cactus-reply-button';
+        button.textContent = 'Reply';
+        button.style.cssText = `
+            background: #007cba;
+            color: white;
+            border: none;
+            padding: 4px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            cursor: pointer;
+            margin-top: 8px;
+            margin-right: 8px;
+            transition: background-color 0.2s;
+        `;
+        
+        button.addEventListener('mouseenter', () => {
+            button.style.backgroundColor = '#005a87';
+        });
+        
+        button.addEventListener('mouseleave', () => {
+            button.style.backgroundColor = '#007cba';
+        });
+        
+        button.addEventListener('click', (e) => {
+            e.preventDefault();
+            this.toggleReplyForm(timestamp);
+        });
+        
+        return button;
+    }
+
+    createReplyContainer(timestamp) {
+        const container = document.createElement('div');
+        container.className = 'cactus-reply-container';
+        container.style.cssText = `
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 5px;
+            border-left: 3px solid #007cba;
+        `;
+        
+        const form = this.createReplyForm(timestamp);
+        container.appendChild(form);
+        
+        return container;
+    }
+
+    createReplyForm(timestamp) {
+        const form = document.createElement('form');
+        form.className = 'cactus-reply-form';
+        
+        const replyInfo = document.createElement('div');
+        replyInfo.style.cssText = `
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 8px;
+            font-style: italic;
+        `;
+        replyInfo.textContent = `Replying to comment from ${this.formatTimestamp(timestamp)}`;
+        
+        const textarea = document.createElement('textarea');
+        textarea.className = 'cactus-reply-textarea';
+        textarea.placeholder = 'Write your reply...';
+        textarea.style.cssText = `
+            width: 100%;
+            min-height: 80px;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            font-family: inherit;
+            font-size: 14px;
+            resize: vertical;
+            box-sizing: border-box;
+        `;
+        
+        const buttonContainer = document.createElement('div');
+        buttonContainer.style.cssText = `
+            margin-top: 8px;
+            display: flex;
+            gap: 8px;
+        `;
+        
+        const submitButton = document.createElement('button');
+        submitButton.type = 'submit';
+        submitButton.textContent = 'Post Reply';
+        submitButton.style.cssText = `
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 3px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        `;
+        
+        const cancelButton = document.createElement('button');
+        cancelButton.type = 'button';
+        cancelButton.textContent = 'Cancel';
+        cancelButton.style.cssText = `
+            background: #6c757d;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 3px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        `;
+        
+        submitButton.addEventListener('mouseenter', () => {
+            submitButton.style.backgroundColor = '#218838';
+        });
+        
+        submitButton.addEventListener('mouseleave', () => {
+            submitButton.style.backgroundColor = '#28a745';
+        });
+        
+        cancelButton.addEventListener('mouseenter', () => {
+            cancelButton.style.backgroundColor = '#5a6268';
+        });
+        
+        cancelButton.addEventListener('mouseleave', () => {
+            cancelButton.style.backgroundColor = '#6c757d';
+        });
+        
+        cancelButton.addEventListener('click', () => {
+            this.hideReplyForm(timestamp);
+        });
+        
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            this.handleReplySubmit(timestamp, textarea.value);
+        });
+        
+        buttonContainer.appendChild(submitButton);
+        buttonContainer.appendChild(cancelButton);
+        
+        form.appendChild(replyInfo);
+        form.appendChild(textarea);
+        form.appendChild(buttonContainer);
+        
+        return form;
+    }
+
+    toggleReplyForm(timestamp) {
+        const container = this.replyForms.get(timestamp);
+        if (!container) return;
+        
+        const isVisible = container.style.display !== 'none';
+        
+        if (isVisible) {
+            this.hideReplyForm(timestamp);
+        } else {
+            this.showReplyForm(timestamp);
+        }
+    }
+
+    showReplyForm(timestamp) {
+        this.replyForms.forEach((container, ts) => {
+            if (ts !== timestamp) {
+                container.style.display = 'none';
+            }
+        });
+        
+        const container = this.replyForms.get(timestamp);
+        if (container) {
+            container.style.display = 'block';
+            const textarea = container.querySelector('.cactus-reply-textarea');
+            if (textarea) {
+                textarea.focus();
+            }
+        }
+    }
+
+    hideReplyForm(timestamp) {
+        const container = this.replyForms.get(timestamp);
+        if (container) {
+            container.style.display = 'none';
+            const textarea = container.querySelector('.cactus-reply-textarea');
+            if (textarea) {
+                textarea.value = '';
+            }
+        }
+    }
+
+    handleReplySubmit(timestamp, replyText) {
+        if (!replyText.trim()) {
+            alert('Please enter a reply message.');
+            return;
+        }
+        
+        const formattedReply = this.formatReply(timestamp, replyText);
+        this.insertReplyIntoMainForm(formattedReply);
+        this.hideReplyForm(timestamp);
+        this.scrollToMainForm();
+    }
+
+    formatReply(timestamp, replyText) {
+        const timeStr = this.formatTimestamp(timestamp);
+        return `@Reply to comment from ${timeStr}:\n\n${replyText}`;
+    }
+
+    formatTimestamp(timestamp) {
+        try {
+            const date = new Date(timestamp);
+            if (!isNaN(date.getTime())) {
+                return date.toLocaleString();
+            }
+        } catch (e) {
+            // If parsing fails, return the original timestamp
+        }
+        
+        if (timestamp.length > 20) {
+            return timestamp.substring(0, 20) + '...';
+        }
+        
+        return timestamp;
+    }
+
+    insertReplyIntoMainForm(replyText) {
+        const mainTextarea = document.querySelector('.cactus-editor-textarea, .cactus-textarea, textarea[placeholder*="comment"], textarea[placeholder*="Comment"]');
+        
+        if (mainTextarea) {
+            const currentValue = mainTextarea.value;
+            const newValue = currentValue ? `${currentValue}\n\n${replyText}` : replyText;
+            mainTextarea.value = newValue;
+            
+            const event = new Event('input', { bubbles: true });
+            mainTextarea.dispatchEvent(event);
+        } else {
+            this.copyToClipboard(replyText);
+            alert('Reply copied to clipboard. Please paste it into the comment box.');
+        }
+    }
+
+    scrollToMainForm() {
+        const mainForm = document.querySelector('.cactus-editor, .cactus-comment-form, form');
+        if (mainForm) {
+            mainForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+    }
+
+    copyToClipboard(text) {
+        if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(text);
+        } else {
+            const textArea = document.createElement('textarea');
+            textArea.value = text;
+            textArea.style.position = 'fixed';
+            textArea.style.left = '-999999px';
+            textArea.style.top = '-999999px';
+            document.body.appendChild(textArea);
+            textArea.focus();
+            textArea.select();
+            
+            try {
+                document.execCommand('copy');
+            } catch (err) {
+                console.error('Failed to copy text: ', err);
+            }
+            
+            document.body.removeChild(textArea);
+        }
+    }
+}
+
+// Initialize the reply system
+console.log('Setting up reply system initialization');
+setTimeout(() => {
+    console.log('Creating CactusReplySystem instance');
+    new CactusReplySystem();
+}, 4000);
 </script>
