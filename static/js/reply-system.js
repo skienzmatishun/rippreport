@@ -173,7 +173,7 @@ class CactusReplySystem {
   createReplyButton(timestamp) {
     const button = document.createElement("button");
     button.className = "cactus-reply-button";
-    button.textContent = "Reply";
+    button.textContent = "Add Reply to Comment";
     button.style.cssText = `
             background: #007cba;
             color: white;
