@@ -531,15 +531,4 @@
   background: rgb(64, 64, 64) !important;
 }
 
-/* Make italicized text in comments appear in a lighter shade */
 
-  .cactus-message-text
-  p
-  em,
-
-  .cactus-message-text
-  p
-  i {
-  color: #888 !important;
-  opacity: 0.8;
-}
