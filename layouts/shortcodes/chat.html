@@ -170,12 +170,14 @@ class CactusReplySystem {
             if (!commentData.timestamp || this.replyButtons.has(commentData.timestamp)) return;
 
             const replyButton = this.createReplyButton(commentData);
+            const linkButton = this.createLinkButton();
             
             const commentBody = comment.querySelector('.cactus-comment-body');
             if (commentBody) {
                 commentBody.appendChild(replyButton);
+                commentBody.appendChild(linkButton);
                 this.replyButtons.set(commentData.timestamp, replyButton);
-                console.log(`Added reply button for comment by ${commentData.name}`);
+                console.log(`Added reply and link buttons for comment by ${commentData.name}`);
             }
         });
     }
@@ -266,6 +268,39 @@ class CactusReplySystem {
         return button;
     }
 
+    createLinkButton() {
+        const button = document.createElement('button');
+        button.className = 'cactus-link-button';
+        button.textContent = 'Link';
+        button.style.cssText = `
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 4px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            cursor: pointer;
+            margin-top: 8px;
+            margin-right: 8px;
+            transition: background-color 0.2s;
+        `;
+        
+        button.addEventListener('mouseenter', () => {
+            button.style.backgroundColor = '#218838';
+        });
+        
+        button.addEventListener('mouseleave', () => {
+            button.style.backgroundColor = '#28a745';
+        });
+        
+        button.addEventListener('click', (e) => {
+            e.preventDefault();
+            this.handleLinkClick();
+        });
+        
+        return button;
+    }
+
     handleReplyClick(commentData) {
         console.log('Reply button clicked for:', commentData.name);
         
@@ -277,6 +312,30 @@ class CactusReplySystem {
         
         // Scroll to the main comment form
         this.scrollToMainForm();
+    }
+
+    handleLinkClick() {
+        console.log('Link button clicked');
+        
+        // Prompt user for the URL
+        const url = prompt('Enter the URL you want to link to:');
+        
+        if (url && url.trim()) {
+            // Prompt user for the link text (optional)
+            const linkText = prompt('Enter the text for the link (or leave blank to use the URL):');
+            
+            // Use the provided text or fall back to the URL
+            const displayText = linkText && linkText.trim() ? linkText.trim() : url.trim();
+            
+            // Create the markdown link with newlines before and after
+            const markdownLink = `\n[${displayText}](${url.trim()})\n`;
+            
+            // Insert the formatted link into the main comment textarea
+            this.insertReplyIntoMainForm(markdownLink);
+            
+            // Scroll to the main comment form
+            this.scrollToMainForm();
+        }
     }
 
     formatReplyTemplate(commentData) {
