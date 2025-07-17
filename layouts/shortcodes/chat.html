@@ -1,252 +1,275 @@
 <div id="comment-section" data-section="{{ index .Params 0 }}"></div>
-<script type="text/javascript" src="https://rippreport.com/js/cactus.js"></script>
-<link href="https://rippreport.com/css/comments.css" rel="stylesheet">
+<script
+  type="text/javascript"
+  src="https://rippreport.com/js/cactus.js"
+></script>
+<link href="https://rippreport.com/css/comments.css" rel="stylesheet" />
 <script>
-initComments({
-  node: document.getElementById("comment-section"),
-  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-  serverName: "cactus.chat",
-  siteName: "rippreport.com",
-  pageSize: 15,
-  commentSectionId: "{{ index .Params 0 }}"
-})
+  initComments({
+    node: document.getElementById("comment-section"),
+    defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+    serverName: "cactus.chat",
+    siteName: "rippreport.com",
+    pageSize: 15,
+    commentSectionId: "{{ index .Params 0 }}",
+  });
 
-// Predefined palette of 15 distinct colors
-const colorPalette = [
-    '#F44336', // Red
-    '#4CAF50', // Green
-    '#2196F3', // Blue
-    '#FFC107', // Amber
-    '#9C27B0', // Purple
-    '#FF9800', // Orange
-    '#00BCD4', // Cyan
-    '#8BC34A', // Light Green
-    '#FFEB3B', // Yellow
-    '#E91E63', // Pink
-    '#607D8B', // Blue Grey
-    '#3F51B5', // Indigo
-    '#009688', // Teal
-    '#795548', // Brown
-    '#673AB7'  // Deep Purple
-];
+  // Predefined palette of 15 distinct colors
+  const colorPalette = [
+    "#F44336", // Red
+    "#4CAF50", // Green
+    "#2196F3", // Blue
+    "#FFC107", // Amber
+    "#9C27B0", // Purple
+    "#FF9800", // Orange
+    "#00BCD4", // Cyan
+    "#8BC34A", // Light Green
+    "#FFEB3B", // Yellow
+    "#E91E63", // Pink
+    "#607D8B", // Blue Grey
+    "#3F51B5", // Indigo
+    "#009688", // Teal
+    "#795548", // Brown
+    "#673AB7", // Deep Purple
+  ];
 
-function getColorForUsername(username) {
+  function getColorForUsername(username) {
     let hash = 0;
     for (let i = 0; i < username.length; i++) {
-        hash = username.charCodeAt(i) + ((hash << 5) - hash);
+      hash = username.charCodeAt(i) + ((hash << 5) - hash);
     }
     // Use the hash to select a color from our palette
     const colorIndex = Math.abs(hash % colorPalette.length);
     return colorPalette[colorIndex];
-}
+  }
 
-// Function to apply colors to comments
-function applyCommentColors() {
-    document.querySelectorAll('.cactus-comment').forEach(comment => {
-        const displayNameLink = comment.querySelector('.cactus-comment-displayname');
-        const username = displayNameLink.href.split('/').pop(); // Extract username from link
-        // Check if the username exists before applying the color
-        if (username) {
-            // Get and set the border-left color based on the username
-            const borderColor = getColorForUsername(username);
-            comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
-        }
+  // Function to apply colors to comments
+  function applyCommentColors() {
+    document.querySelectorAll(".cactus-comment").forEach((comment) => {
+      const displayNameLink = comment.querySelector(
+        ".cactus-comment-displayname"
+      );
+      const username = displayNameLink.href.split("/").pop(); // Extract username from link
+      // Check if the username exists before applying the color
+      if (username) {
+        // Get and set the border-left color based on the username
+        const borderColor = getColorForUsername(username);
+        comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
+      }
     });
-}
+  }
 
-// Create a Mutation Observer to watch for changes in the comments container
-const commentsContainer = document.querySelector('.cactus-comments-container');
-const observer = new MutationObserver(mutations => {
+  // Create a Mutation Observer to watch for changes in the comments container
+  const commentsContainer = document.querySelector(
+    ".cactus-comments-container"
+  );
+  const observer = new MutationObserver((mutations) => {
     for (const mutation of mutations) {
-        if (mutation.addedNodes.length || mutation.removedNodes.length) {
-            // New comments have been added or removed, apply colors
-            applyCommentColors();
-        }
+      if (mutation.addedNodes.length || mutation.removedNodes.length) {
+        // New comments have been added or removed, apply colors
+        applyCommentColors();
+      }
     }
-});
+  });
 
-// Start observing the comments container for child node changes
-if (commentsContainer) {
+  // Start observing the comments container for child node changes
+  if (commentsContainer) {
     observer.observe(commentsContainer, { childList: true, subtree: true });
-}
+  }
 
-// Function to apply colors after initial delay, and then again after another delay
-function delayedColorApplication() {
+  // Function to apply colors after initial delay, and then again after another delay
+  function delayedColorApplication() {
     setTimeout(() => {
-        applyCommentColors(); // First application after 3000ms
-        setTimeout(applyCommentColors, 5000); // Second application after another 5000ms
+      applyCommentColors(); // First application after 3000ms
+      setTimeout(applyCommentColors, 5000); // Second application after another 5000ms
     }, 3000);
-}
+  }
 
-// Start the color application process
-delayedColorApplication();
+  // Start the color application process
+  delayedColorApplication();
 
-// Create a Mutation Observer for detecting when the button is added to the DOM
-const buttonObserver = new MutationObserver(mutations => {
-    mutations.forEach(mutation => {
-        mutation.addedNodes.forEach(node => {
-            if (node.classList && node.classList.contains('cactus-button')) {
-                // Button found, add the event listener
-                node.addEventListener('click', () => {
-                    setTimeout(() => {
-                        applyCommentColors();
-                    }, 2000);
-                });
-                // Once button is found and listener added, disconnect observer
-                buttonObserver.disconnect();
-            }
-        });
+  // Create a Mutation Observer for detecting when the button is added to the DOM
+  const buttonObserver = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+      mutation.addedNodes.forEach((node) => {
+        if (node.classList && node.classList.contains("cactus-button")) {
+          // Button found, add the event listener
+          node.addEventListener("click", () => {
+            setTimeout(() => {
+              applyCommentColors();
+            }, 2000);
+          });
+          // Once button is found and listener added, disconnect observer
+          buttonObserver.disconnect();
+        }
+      });
     });
-});
+  });
 
-// Start observing the document for the addition of the button
-buttonObserver.observe(document.body, { childList: true, subtree: true });
+  // Start observing the document for the addition of the button
+  buttonObserver.observe(document.body, { childList: true, subtree: true });
 
-// Cactus Comments Reply System
-class CactusReplySystem {
+  // Cactus Comments Reply System
+  class CactusReplySystem {
     constructor() {
-        console.log('CactusReplySystem constructor called');
-        this.replyButtons = new Map();
-        this.init();
+      console.log("CactusReplySystem constructor called");
+      this.replyButtons = new Map();
+      this.init();
     }
 
     init() {
-        console.log('Initializing reply system');
-        this.waitForComments();
-        this.setupMutationObserver();
+      console.log("Initializing reply system");
+      this.waitForComments();
+      this.setupMutationObserver();
     }
 
     waitForComments() {
-        console.log('Waiting for comments to load');
-        
-        // Always try to add the link button first
-        this.addLinkButton();
-        
-        const checkForComments = () => {
-            const comments = document.querySelectorAll('.cactus-comment');
-            console.log(`Found ${comments.length} comments`);
-            if (comments.length > 0) {
-                this.addReplyButtons();
-            } else {
-                // Still try to add link button even if no comments
-                this.addLinkButton();
-                setTimeout(checkForComments, 1000);
-            }
-        };
-        checkForComments();
+      console.log("Waiting for comments to load");
+
+      // Always try to add the link button first
+      this.addLinkButton();
+
+      const checkForComments = () => {
+        const comments = document.querySelectorAll(".cactus-comment");
+        console.log(`Found ${comments.length} comments`);
+        if (comments.length > 0) {
+          this.addReplyButtons();
+        } else {
+          // Still try to add link button even if no comments
+          this.addLinkButton();
+          setTimeout(checkForComments, 1000);
+        }
+      };
+      checkForComments();
     }
 
     setupMutationObserver() {
-        const commentsContainer = document.querySelector('#comment-section');
-        if (!commentsContainer) return;
+      const commentsContainer = document.querySelector("#comment-section");
+      if (!commentsContainer) return;
 
-        const observer = new MutationObserver((mutations) => {
-            let shouldUpdate = false;
-            mutations.forEach(mutation => {
-                if (mutation.addedNodes.length > 0) {
-                    mutation.addedNodes.forEach(node => {
-                        if (node.nodeType === 1 && 
-                            (node.classList?.contains('cactus-comment') || 
-                             node.querySelector?.('.cactus-comment'))) {
-                            shouldUpdate = true;
-                        }
-                    });
-                }
+      const observer = new MutationObserver((mutations) => {
+        let shouldUpdate = false;
+        mutations.forEach((mutation) => {
+          if (mutation.addedNodes.length > 0) {
+            mutation.addedNodes.forEach((node) => {
+              if (
+                node.nodeType === 1 &&
+                (node.classList?.contains("cactus-comment") ||
+                  node.querySelector?.(".cactus-comment"))
+              ) {
+                shouldUpdate = true;
+              }
             });
-            
-            if (shouldUpdate) {
-                console.log('New comments detected, adding reply buttons');
-                setTimeout(() => this.addReplyButtons(), 500);
-            }
+          }
         });
 
-        observer.observe(commentsContainer, {
-            childList: true,
-            subtree: true
-        });
+        if (shouldUpdate) {
+          console.log("New comments detected, adding reply buttons");
+          setTimeout(() => this.addReplyButtons(), 500);
+        }
+      });
+
+      observer.observe(commentsContainer, {
+        childList: true,
+        subtree: true,
+      });
     }
 
     addReplyButtons() {
-        const comments = document.querySelectorAll('.cactus-comment');
-        console.log(`Adding reply buttons to ${comments.length} comments`);
-        
-        comments.forEach((comment, index) => {
-            const commentData = this.extractCommentData(comment);
-            console.log(`Comment ${index}: name = ${commentData.name}, timestamp = ${commentData.timestamp}`);
-            if (!commentData.timestamp || this.replyButtons.has(commentData.timestamp)) return;
+      const comments = document.querySelectorAll(".cactus-comment");
+      console.log(`Adding reply buttons to ${comments.length} comments`);
 
-            const replyButton = this.createReplyButton(commentData);
-            
-            const commentBody = comment.querySelector('.cactus-comment-body');
-            if (commentBody) {
-                commentBody.appendChild(replyButton);
-                this.replyButtons.set(commentData.timestamp, replyButton);
-                console.log(`Added reply button for comment by ${commentData.name}`);
-            }
-        });
-        
-        // Add the link button near the comment textarea (only once)
-        this.addLinkButton();
+      comments.forEach((comment, index) => {
+        const commentData = this.extractCommentData(comment);
+        console.log(
+          `Comment ${index}: name = ${commentData.name}, timestamp = ${commentData.timestamp}`
+        );
+        if (
+          !commentData.timestamp ||
+          this.replyButtons.has(commentData.timestamp)
+        )
+          return;
+
+        const replyButton = this.createReplyButton(commentData);
+
+        const commentBody = comment.querySelector(".cactus-comment-body");
+        if (commentBody) {
+          commentBody.appendChild(replyButton);
+          this.replyButtons.set(commentData.timestamp, replyButton);
+          console.log(`Added reply button for comment by ${commentData.name}`);
+        }
+      });
+
+      // Add the link button near the comment textarea (only once)
+      this.addLinkButton();
     }
 
     extractCommentData(comment) {
-        // Extract the display name
-        const displayNameElement = comment.querySelector('.cactus-comment-displayname');
-        const name = displayNameElement ? displayNameElement.textContent.trim() : 'Anonymous';
-        
-        // Extract the original message content
-        const messageElement = comment.querySelector('.cactus-message-text, .cactus-comment-body .cactus-message-text');
-        let originalMessage = '';
-        if (messageElement) {
-            originalMessage = messageElement.textContent.trim();
-        } else {
-            // Fallback: try to get text from comment body, excluding the header
-            const commentBody = comment.querySelector('.cactus-comment-body');
-            if (commentBody) {
-                // Clone the element to avoid modifying the original
-                const bodyClone = commentBody.cloneNode(true);
-                // Remove any reply buttons we might have added
-                const replyButtons = bodyClone.querySelectorAll('.cactus-reply-button, .cactus-reply-container');
-                replyButtons.forEach(btn => btn.remove());
-                originalMessage = bodyClone.textContent.trim();
-            }
+      // Extract the display name
+      const displayNameElement = comment.querySelector(
+        ".cactus-comment-displayname"
+      );
+      const name = displayNameElement
+        ? displayNameElement.textContent.trim()
+        : "Anonymous";
+
+      // Extract the original message content
+      const messageElement = comment.querySelector(
+        ".cactus-message-text, .cactus-comment-body .cactus-message-text"
+      );
+      let originalMessage = "";
+      if (messageElement) {
+        originalMessage = messageElement.textContent.trim();
+      } else {
+        // Fallback: try to get text from comment body, excluding the header
+        const commentBody = comment.querySelector(".cactus-comment-body");
+        if (commentBody) {
+          // Clone the element to avoid modifying the original
+          const bodyClone = commentBody.cloneNode(true);
+          // Remove any reply buttons we might have added
+          const replyButtons = bodyClone.querySelectorAll(
+            ".cactus-reply-button, .cactus-reply-container"
+          );
+          replyButtons.forEach((btn) => btn.remove());
+          originalMessage = bodyClone.textContent.trim();
         }
-        
-        // Extract timestamp for unique identification
-        const timeElement = comment.querySelector('.cactus-comment-time');
-        let timestamp;
-        if (timeElement && timeElement.dateTime) {
-            timestamp = timeElement.dateTime;
-        } else if (timeElement) {
-            timestamp = timeElement.textContent.trim();
+      }
+
+      // Extract timestamp for unique identification
+      const timeElement = comment.querySelector(".cactus-comment-time");
+      let timestamp;
+      if (timeElement && timeElement.dateTime) {
+        timestamp = timeElement.dateTime;
+      } else if (timeElement) {
+        timestamp = timeElement.textContent.trim();
+      } else {
+        const commentId = comment.id || comment.dataset.id;
+        if (commentId) {
+          timestamp = commentId;
         } else {
-            const commentId = comment.id || comment.dataset.id;
-            if (commentId) {
-                timestamp = commentId;
-            } else {
-                const content = comment.textContent.trim();
-                timestamp = this.generateHash(content);
-            }
+          const content = comment.textContent.trim();
+          timestamp = this.generateHash(content);
         }
-        
-        return { name, timestamp, originalMessage };
+      }
+
+      return { name, timestamp, originalMessage };
     }
 
     generateHash(str) {
-        let hash = 0;
-        for (let i = 0; i < str.length; i++) {
-            const char = str.charCodeAt(i);
-            hash = ((hash << 5) - hash) + char;
-            hash = hash & hash;
-        }
-        return Math.abs(hash).toString();
+      let hash = 0;
+      for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = (hash << 5) - hash + char;
+        hash = hash & hash;
+      }
+      return Math.abs(hash).toString();
     }
 
     createReplyButton(commentData) {
-        const button = document.createElement('button');
-        button.className = 'cactus-reply-button';
-        button.textContent = 'Reply';
-        button.style.cssText = `
+      const button = document.createElement("button");
+      button.className = "cactus-reply-button";
+      button.textContent = "Reply";
+      button.style.cssText = `
             background: #007cba;
             color: white;
             border: none;
@@ -258,28 +281,28 @@ class CactusReplySystem {
             margin-right: 8px;
             transition: background-color 0.2s;
         `;
-        
-        button.addEventListener('mouseenter', () => {
-            button.style.backgroundColor = '#005a87';
-        });
-        
-        button.addEventListener('mouseleave', () => {
-            button.style.backgroundColor = '#007cba';
-        });
-        
-        button.addEventListener('click', (e) => {
-            e.preventDefault();
-            this.handleReplyClick(commentData);
-        });
-        
-        return button;
+
+      button.addEventListener("mouseenter", () => {
+        button.style.backgroundColor = "#005a87";
+      });
+
+      button.addEventListener("mouseleave", () => {
+        button.style.backgroundColor = "#007cba";
+      });
+
+      button.addEventListener("click", (e) => {
+        e.preventDefault();
+        this.handleReplyClick(commentData);
+      });
+
+      return button;
     }
 
     createLinkButton() {
-        const button = document.createElement('button');
-        button.className = 'cactus-link-button';
-        button.textContent = 'Link';
-        button.style.cssText = `
+      const button = document.createElement("button");
+      button.className = "cactus-link-button";
+      button.textContent = "Add Link";
+      button.style.cssText = `
             background: #28a745;
             color: white;
             border: none;
@@ -291,171 +314,185 @@ class CactusReplySystem {
             margin-right: 8px;
             transition: background-color 0.2s;
         `;
-        
-        button.addEventListener('mouseenter', () => {
-            button.style.backgroundColor = '#218838';
-        });
-        
-        button.addEventListener('mouseleave', () => {
-            button.style.backgroundColor = '#28a745';
-        });
-        
-        button.addEventListener('click', (e) => {
-            e.preventDefault();
-            this.handleLinkClick();
-        });
-        
-        return button;
+
+      button.addEventListener("mouseenter", () => {
+        button.style.backgroundColor = "#218838";
+      });
+
+      button.addEventListener("mouseleave", () => {
+        button.style.backgroundColor = "#28a745";
+      });
+
+      button.addEventListener("click", (e) => {
+        e.preventDefault();
+        this.handleLinkClick();
+      });
+
+      return button;
     }
 
     handleReplyClick(commentData) {
-        console.log('Reply button clicked for:', commentData.name);
-        
-        // Format the reply template with the original message in italics
-        const replyTemplate = this.formatReplyTemplate(commentData);
-        
-        // Insert the reply template into the main comment textarea
-        this.insertReplyIntoMainForm(replyTemplate);
-        
-        // Scroll to the main comment form
-        this.scrollToMainForm();
+      console.log("Reply button clicked for:", commentData.name);
+
+      // Format the reply template with the original message in italics
+      const replyTemplate = this.formatReplyTemplate(commentData);
+
+      // Insert the reply template into the main comment textarea
+      this.insertReplyIntoMainForm(replyTemplate);
+
+      // Scroll to the main comment form
+      this.scrollToMainForm();
     }
 
     addLinkButton() {
-        // Only add the link button once
-        if (document.querySelector('.cactus-link-button')) {
-            return;
-        }
-        
-        // Try to find the cactus-editor-name div
-        const editorNameDiv = document.querySelector('.cactus-editor-name');
-        if (!editorNameDiv) {
-            console.log('Could not find .cactus-editor-name div to add link button');
-            return;
-        }
-        
-        // Create the link button
-        const linkButton = this.createLinkButton();
-        
-        // Create a container for the button
-        const buttonContainer = document.createElement('div');
-        buttonContainer.style.cssText = `
+      // Only add the link button once
+      if (document.querySelector(".cactus-link-button")) {
+        return;
+      }
+
+      // Try to find the cactus-editor-name div
+      const editorNameDiv = document.querySelector(".cactus-editor-name");
+      if (!editorNameDiv) {
+        console.log(
+          "Could not find .cactus-editor-name div to add link button"
+        );
+        return;
+      }
+
+      // Create the link button
+      const linkButton = this.createLinkButton();
+
+      // Create a container for the button
+      const buttonContainer = document.createElement("div");
+      buttonContainer.style.cssText = `
             margin-top: 8px;
             margin-bottom: 8px;
         `;
-        buttonContainer.appendChild(linkButton);
-        
-        // Insert the button container after the cactus-editor-name div
-        if (editorNameDiv.nextSibling) {
-            editorNameDiv.parentNode.insertBefore(buttonContainer, editorNameDiv.nextSibling);
-        } else {
-            editorNameDiv.parentNode.appendChild(buttonContainer);
-        }
-        
-        console.log('Added link button after .cactus-editor-name div');
+      buttonContainer.appendChild(linkButton);
+
+      // Insert the button container after the cactus-editor-name div
+      if (editorNameDiv.nextSibling) {
+        editorNameDiv.parentNode.insertBefore(
+          buttonContainer,
+          editorNameDiv.nextSibling
+        );
+      } else {
+        editorNameDiv.parentNode.appendChild(buttonContainer);
+      }
+
+      console.log("Added link button after .cactus-editor-name div");
     }
 
     handleLinkClick() {
-        console.log('Link button clicked');
-        
-        // Prompt user for the URL
-        const url = prompt('Enter the URL you want to link to:');
-        
-        if (url && url.trim()) {
-            // Clean up the URL and add https:// if no protocol is present
-            let cleanUrl = url.trim();
-            if (!cleanUrl.match(/^https?:\/\//i)) {
-                cleanUrl = 'https://' + cleanUrl;
-            }
-            
-            // Prompt user for the link text (optional)
-            const linkText = prompt('Enter the text for the link (or leave blank to use the URL):');
-            
-            // Use the provided text or fall back to the original URL (without auto-added https)
-            const displayText = linkText && linkText.trim() ? linkText.trim() : url.trim();
-            
-            // Create the markdown link with newlines before and after
-            const markdownLink = `\n[${displayText}](${cleanUrl})\n`;
-            
-            // Insert the formatted link into the main comment textarea
-            this.insertReplyIntoMainForm(markdownLink);
-            
-            // Scroll to the main comment form
-            this.scrollToMainForm();
+      console.log("Link button clicked");
+
+      // Prompt user for the URL
+      const url = prompt("Enter the URL you want to link to:");
+
+      if (url && url.trim()) {
+        // Clean up the URL and add https:// if no protocol is present
+        let cleanUrl = url.trim();
+        if (!cleanUrl.match(/^https?:\/\//i)) {
+          cleanUrl = "https://" + cleanUrl;
         }
+
+        // Prompt user for the link text (optional)
+        const linkText = prompt(
+          "Enter the text for the link (or leave blank to use the URL):"
+        );
+
+        // Use the provided text or fall back to the original URL (without auto-added https)
+        const displayText =
+          linkText && linkText.trim() ? linkText.trim() : url.trim();
+
+        // Create the markdown link with newlines before and after
+        const markdownLink = `\n[${displayText}](${cleanUrl})\n`;
+
+        // Insert the formatted link into the main comment textarea
+        this.insertReplyIntoMainForm(markdownLink);
+
+        // Scroll to the main comment form
+        this.scrollToMainForm();
+      }
     }
 
     formatReplyTemplate(commentData) {
-        if (commentData.originalMessage) {
-            // Limit the original message to 200 characters
-            let truncatedMessage = commentData.originalMessage;
-            if (truncatedMessage.length > 200) {
-                truncatedMessage = truncatedMessage.substring(0, 200) + '...';
-            }
-            return `**@Reply to ${commentData.name}:**\n*${truncatedMessage}*\n\n`;
-        } else {
-            return `**@Reply to ${commentData.name}:**\n\n`;
+      if (commentData.originalMessage) {
+        // Limit the original message to 200 characters
+        let truncatedMessage = commentData.originalMessage;
+        if (truncatedMessage.length > 200) {
+          truncatedMessage = truncatedMessage.substring(0, 200) + "...";
         }
+        return `**@Reply to ${commentData.name}:**\n*${truncatedMessage}*\n\n`;
+      } else {
+        return `**@Reply to ${commentData.name}:**\n\n`;
+      }
     }
 
     insertReplyIntoMainForm(replyText) {
-        const mainTextarea = document.querySelector('.cactus-editor-textarea, .cactus-textarea, textarea[placeholder*="comment"], textarea[placeholder*="Comment"]');
-        
-        if (mainTextarea) {
-            const currentValue = mainTextarea.value;
-            const newValue = currentValue ? `${currentValue}\n\n${replyText}` : replyText;
-            mainTextarea.value = newValue;
-            
-            const event = new Event('input', { bubbles: true });
-            mainTextarea.dispatchEvent(event);
-        } else {
-            this.copyToClipboard(replyText);
-            alert('Reply copied to clipboard. Please paste it into the comment box.');
-        }
+      const mainTextarea = document.querySelector(
+        '.cactus-editor-textarea, .cactus-textarea, textarea[placeholder*="comment"], textarea[placeholder*="Comment"]'
+      );
+
+      if (mainTextarea) {
+        const currentValue = mainTextarea.value;
+        const newValue = currentValue
+          ? `${currentValue}\n\n${replyText}`
+          : replyText;
+        mainTextarea.value = newValue;
+
+        const event = new Event("input", { bubbles: true });
+        mainTextarea.dispatchEvent(event);
+      } else {
+        this.copyToClipboard(replyText);
+        alert(
+          "Reply copied to clipboard. Please paste it into the comment box."
+        );
+      }
     }
 
     scrollToMainForm() {
-        // Target the specific cactus editor textarea
-        let mainForm = document.querySelector('.cactus-editor-textarea');
-        
-        console.log('Scrolling to main form:', mainForm);
-        if (mainForm) {
-            mainForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            // Focus the textarea after scrolling
-            setTimeout(() => mainForm.focus(), 100);
-        } else {
-            console.log('Could not find .cactus-editor-textarea to scroll to');
-        }
+      // Target the specific cactus editor textarea
+      let mainForm = document.querySelector(".cactus-editor-textarea");
+
+      console.log("Scrolling to main form:", mainForm);
+      if (mainForm) {
+        mainForm.scrollIntoView({ behavior: "smooth", block: "center" });
+        // Focus the textarea after scrolling
+        setTimeout(() => mainForm.focus(), 100);
+      } else {
+        console.log("Could not find .cactus-editor-textarea to scroll to");
+      }
     }
 
     copyToClipboard(text) {
-        if (navigator.clipboard && window.isSecureContext) {
-            navigator.clipboard.writeText(text);
-        } else {
-            const textArea = document.createElement('textarea');
-            textArea.value = text;
-            textArea.style.position = 'fixed';
-            textArea.style.left = '-999999px';
-            textArea.style.top = '-999999px';
-            document.body.appendChild(textArea);
-            textArea.focus();
-            textArea.select();
-            
-            try {
-                document.execCommand('copy');
-            } catch (err) {
-                console.error('Failed to copy text: ', err);
-            }
-            
-            document.body.removeChild(textArea);
-        }
-    }
-}
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(text);
+      } else {
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+        textArea.style.position = "fixed";
+        textArea.style.left = "-999999px";
+        textArea.style.top = "-999999px";
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
 
-// Initialize the reply system
-console.log('Setting up reply system initialization');
-setTimeout(() => {
-    console.log('Creating CactusReplySystem instance');
+        try {
+          document.execCommand("copy");
+        } catch (err) {
+          console.error("Failed to copy text: ", err);
+        }
+
+        document.body.removeChild(textArea);
+      }
+    }
+  }
+
+  // Initialize the reply system
+  console.log("Setting up reply system initialization");
+  setTimeout(() => {
+    console.log("Creating CactusReplySystem instance");
     new CactusReplySystem();
-}, 4000);
+  }, 4000);
 </script>
