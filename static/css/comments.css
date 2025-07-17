@@ -532,10 +532,24 @@
 }
 
 /* Make italicized text in comments appear in a lighter shade */
-.cactus-comment em,
-.cactus-comment i,
-.cactus-message-text em,
-.cactus-message-text i {
-  color: #888;
+.cactus-container
+  .cactus-comments-container
+  .cactus-comments-list
+  .cactus-comment
+  .cactus-comment-content
+  .cactus-comment-body
+  .cactus-message-text
+  p
+  em,
+.cactus-container
+  .cactus-comments-container
+  .cactus-comments-list
+  .cactus-comment
+  .cactus-comment-content
+  .cactus-comment-body
+  .cactus-message-text
+  p
+  i {
+  color: #888 !important;
   opacity: 0.8;
 }
