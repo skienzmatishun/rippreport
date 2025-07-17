@@ -1,6 +1,6 @@
 <div id="comment-section" data-section="{{ index .Params 0 }}"></div>
 <script type="text/javascript" src="https://rippreport.com/js/cactus.js"></script>
-<script type="text/javascript" src="/js/reply-system.js"></script>
+<script type="text/javascript" src="https://rippreport.com/js/reply-system.js"></script>
 <link href="https://rippreport.com/css/comments.css" rel="stylesheet">
 <script>
 initComments({
@@ -102,4 +102,26 @@ const buttonObserver = new MutationObserver(mutations => {
 
 // Start observing the document for the addition of the button
 buttonObserver.observe(document.body, { childList: true, subtree: true });
+
+// Debug function to inspect comment structure
+setTimeout(() => {
+    console.log('=== DEBUGGING COMMENT STRUCTURE ===');
+    const commentSection = document.querySelector('#comment-section');
+    console.log('Comment section:', commentSection);
+    
+    const allComments = document.querySelectorAll('*[class*="comment"]');
+    console.log('All elements with "comment" in class:', allComments);
+    
+    allComments.forEach((el, i) => {
+        console.log(`Element ${i}:`, el.className, el);
+    });
+    
+    const cactusComments = document.querySelectorAll('.cactus-comment');
+    console.log('Cactus comments found:', cactusComments.length);
+    
+    if (cactusComments.length > 0) {
+        console.log('First comment structure:', cactusComments[0]);
+        console.log('First comment HTML:', cactusComments[0].outerHTML);
+    }
+}, 5000);
 </script>
