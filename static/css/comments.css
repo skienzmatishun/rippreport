@@ -532,21 +532,11 @@
 }
 
 /* Make italicized text in comments appear in a lighter shade */
-.cactus-container
-  .cactus-comments-container
-  .cactus-comments-list
-  .cactus-comment
-  .cactus-comment-content
-  .cactus-comment-body
+
   .cactus-message-text
   p
   em,
-.cactus-container
-  .cactus-comments-container
-  .cactus-comments-list
-  .cactus-comment
-  .cactus-comment-content
-  .cactus-comment-body
+
   .cactus-message-text
   p
   i {
