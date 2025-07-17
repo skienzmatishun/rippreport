@@ -107,7 +107,6 @@ class CactusReplySystem {
     constructor() {
         console.log('CactusReplySystem constructor called');
         this.replyButtons = new Map();
-        this.replyForms = new Map();
         this.init();
     }
 
@@ -171,15 +170,11 @@ class CactusReplySystem {
             if (!commentData.timestamp || this.replyButtons.has(commentData.timestamp)) return;
 
             const replyButton = this.createReplyButton(commentData);
-            const replyContainer = this.createReplyContainer(commentData);
             
             const commentBody = comment.querySelector('.cactus-comment-body');
             if (commentBody) {
                 commentBody.appendChild(replyButton);
-                commentBody.appendChild(replyContainer);
-                
                 this.replyButtons.set(commentData.timestamp, replyButton);
-                this.replyForms.set(commentData.timestamp, replyContainer);
                 console.log(`Added reply button for comment by ${commentData.name}`);
             }
         });
@@ -265,186 +260,30 @@ class CactusReplySystem {
         
         button.addEventListener('click', (e) => {
             e.preventDefault();
-            this.toggleReplyForm(commentData.timestamp);
+            this.handleReplyClick(commentData);
         });
         
         return button;
     }
 
-    createReplyContainer(commentData) {
-        const container = document.createElement('div');
-        container.className = 'cactus-reply-container';
-        container.style.cssText = `
-            display: none;
-            margin-top: 10px;
-            padding: 10px;
-            background: #f8f9fa;
-            border-radius: 5px;
-            border-left: 3px solid #007cba;
-        `;
+    handleReplyClick(commentData) {
+        console.log('Reply button clicked for:', commentData.name);
         
-        const form = this.createReplyForm(commentData);
-        container.appendChild(form);
+        // Format the reply template with the original message in italics
+        const replyTemplate = this.formatReplyTemplate(commentData);
         
-        return container;
-    }
-
-    createReplyForm(commentData) {
-        const form = document.createElement('form');
-        form.className = 'cactus-reply-form';
+        // Insert the reply template into the main comment textarea
+        this.insertReplyIntoMainForm(replyTemplate);
         
-        const replyInfo = document.createElement('div');
-        replyInfo.style.cssText = `
-            font-size: 12px;
-            color: #666;
-            margin-bottom: 8px;
-            font-style: italic;
-        `;
-        replyInfo.textContent = `Replying to ${commentData.name}`;
-        
-        const textarea = document.createElement('textarea');
-        textarea.className = 'cactus-reply-textarea';
-        textarea.placeholder = 'Write your reply...';
-        textarea.style.cssText = `
-            width: 100%;
-            min-height: 80px;
-            padding: 8px;
-            border: 1px solid #ddd;
-            border-radius: 3px;
-            font-family: inherit;
-            font-size: 14px;
-            resize: vertical;
-            box-sizing: border-box;
-        `;
-        
-        const buttonContainer = document.createElement('div');
-        buttonContainer.style.cssText = `
-            margin-top: 8px;
-            display: flex;
-            gap: 8px;
-        `;
-        
-        const submitButton = document.createElement('button');
-        submitButton.type = 'submit';
-        submitButton.textContent = 'Post Reply';
-        submitButton.style.cssText = `
-            background: #28a745;
-            color: white;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 3px;
-            font-size: 12px;
-            cursor: pointer;
-            transition: background-color 0.2s;
-        `;
-        
-        const cancelButton = document.createElement('button');
-        cancelButton.type = 'button';
-        cancelButton.textContent = 'Cancel';
-        cancelButton.style.cssText = `
-            background: #6c757d;
-            color: white;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 3px;
-            font-size: 12px;
-            cursor: pointer;
-            transition: background-color 0.2s;
-        `;
-        
-        submitButton.addEventListener('mouseenter', () => {
-            submitButton.style.backgroundColor = '#218838';
-        });
-        
-        submitButton.addEventListener('mouseleave', () => {
-            submitButton.style.backgroundColor = '#28a745';
-        });
-        
-        cancelButton.addEventListener('mouseenter', () => {
-            cancelButton.style.backgroundColor = '#5a6268';
-        });
-        
-        cancelButton.addEventListener('mouseleave', () => {
-            cancelButton.style.backgroundColor = '#6c757d';
-        });
-        
-        cancelButton.addEventListener('click', () => {
-            this.hideReplyForm(commentData.timestamp);
-        });
-        
-        form.addEventListener('submit', (e) => {
-            e.preventDefault();
-            this.handleReplySubmit(commentData, textarea.value);
-        });
-        
-        buttonContainer.appendChild(submitButton);
-        buttonContainer.appendChild(cancelButton);
-        
-        form.appendChild(replyInfo);
-        form.appendChild(textarea);
-        form.appendChild(buttonContainer);
-        
-        return form;
-    }
-
-    toggleReplyForm(timestamp) {
-        const container = this.replyForms.get(timestamp);
-        if (!container) return;
-        
-        const isVisible = container.style.display !== 'none';
-        
-        if (isVisible) {
-            this.hideReplyForm(timestamp);
-        } else {
-            this.showReplyForm(timestamp);
-        }
-    }
-
-    showReplyForm(timestamp) {
-        this.replyForms.forEach((container, ts) => {
-            if (ts !== timestamp) {
-                container.style.display = 'none';
-            }
-        });
-        
-        const container = this.replyForms.get(timestamp);
-        if (container) {
-            container.style.display = 'block';
-            const textarea = container.querySelector('.cactus-reply-textarea');
-            if (textarea) {
-                textarea.focus();
-            }
-        }
-    }
-
-    hideReplyForm(timestamp) {
-        const container = this.replyForms.get(timestamp);
-        if (container) {
-            container.style.display = 'none';
-            const textarea = container.querySelector('.cactus-reply-textarea');
-            if (textarea) {
-                textarea.value = '';
-            }
-        }
-    }
-
-    handleReplySubmit(commentData, replyText) {
-        if (!replyText.trim()) {
-            alert('Please enter a reply message.');
-            return;
-        }
-        
-        const formattedReply = this.formatReply(commentData, replyText);
-        this.insertReplyIntoMainForm(formattedReply);
-        this.hideReplyForm(commentData.timestamp);
+        // Scroll to the main comment form
         this.scrollToMainForm();
     }
 
-    formatReply(commentData, replyText) {
+    formatReplyTemplate(commentData) {
         if (commentData.originalMessage) {
-            return `@Reply to ${commentData.name}:\n*${commentData.originalMessage}*\n\n${replyText}`;
+            return `@Reply to ${commentData.name}:\n*${commentData.originalMessage}*\n\n`;
         } else {
-            return `@Reply to ${commentData.name}:\n\n${replyText}`;
+            return `@Reply to ${commentData.name}:\n\n`;
         }
     }
 
