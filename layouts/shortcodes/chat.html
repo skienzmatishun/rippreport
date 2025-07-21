@@ -367,6 +367,9 @@
       buttonContainer.style.cssText = `
             margin-top: 8px;
             margin-bottom: 8px;
+            clear: both;
+            z-index: 1;
+            position: relative;
         `;
       buttonContainer.appendChild(linkButton);
 
@@ -402,8 +405,13 @@
         );
 
         // Use the provided text or fall back to the original URL (without auto-added https)
-        const displayText =
+        let displayText =
           linkText && linkText.trim() ? linkText.trim() : url.trim();
+
+        // Truncate display text if it's longer than the URL
+        if (displayText.length > cleanUrl.length) {
+          displayText = displayText.substring(0, cleanUrl.length) + "...";
+        }
 
         // Create the markdown link with newlines before and after
         const markdownLink = `\n[${displayText}](${cleanUrl})\n`;
