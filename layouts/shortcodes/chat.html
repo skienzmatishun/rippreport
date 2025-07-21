@@ -129,10 +129,7 @@
       const checkForComments = () => {
         const comments = document.querySelectorAll(".cactus-comment");
         console.log(`Found ${comments.length} comments`);
-        
-        // Always try to add the link button, but only after a delay to let cactus.js initialize
-        setTimeout(() => this.addLinkButton(), 2000);
-        
+
         if (comments.length > 0) {
           this.addReplyButtons();
         } else {
@@ -198,9 +195,6 @@
           console.log(`Added reply button for comment by ${commentData.name}`);
         }
       });
-
-      // Add the link button near the comment textarea (only once)
-      this.addLinkButton();
     }
 
     extractCommentData(comment) {
@@ -297,39 +291,6 @@
       return button;
     }
 
-    createLinkButton() {
-      const button = document.createElement("button");
-      button.className = "cactus-link-button";
-      button.textContent = "Add Link";
-      button.style.cssText = `
-            background: #28a745;
-            color: white;
-            border: none;
-            padding: 4px 8px;
-            border-radius: 3px;
-            font-size: 12px;
-            cursor: pointer;
-            margin-top: 8px;
-            margin-right: 8px;
-            transition: background-color 0.2s;
-        `;
-
-      button.addEventListener("mouseenter", () => {
-        button.style.backgroundColor = "#218838";
-      });
-
-      button.addEventListener("mouseleave", () => {
-        button.style.backgroundColor = "#28a745";
-      });
-
-      button.addEventListener("click", (e) => {
-        e.preventDefault();
-        this.handleLinkClick();
-      });
-
-      return button;
-    }
-
     handleReplyClick(commentData) {
       console.log("Reply button clicked for:", commentData.name);
 
@@ -341,75 +302,6 @@
 
       // Scroll to the main comment form
       this.scrollToMainForm();
-    }
-
-    addLinkButton() {
-      // Only add the link button once
-      if (document.querySelector(".cactus-link-button")) {
-        return;
-      }
-
-      // Wait for cactus editor to be fully loaded
-      const editorContainer = document.querySelector(".cactus-editor");
-      if (!editorContainer) {
-        console.log("Cactus editor not ready yet, retrying...");
-        setTimeout(() => this.addLinkButton(), 1000);
-        return;
-      }
-
-      // Create the link button
-      const linkButton = this.createLinkButton();
-
-      // Create a container for the button that won't interfere with cactus layout
-      const buttonContainer = document.createElement("div");
-      buttonContainer.style.cssText = `
-            margin: 8px 0;
-            text-align: left;
-        `;
-      buttonContainer.appendChild(linkButton);
-
-      // Append to the editor container at the end, after all cactus elements are loaded
-      editorContainer.appendChild(buttonContainer);
-
-      console.log("Added link button to cactus editor container");
-    }
-
-    handleLinkClick() {
-      console.log("Link button clicked");
-
-      // Prompt user for the URL
-      const url = prompt("Enter the URL you want to link to:");
-
-      if (url && url.trim()) {
-        // Clean up the URL and add https:// if no protocol is present
-        let cleanUrl = url.trim();
-        if (!cleanUrl.match(/^https?:\/\//i)) {
-          cleanUrl = "https://" + cleanUrl;
-        }
-
-        // Prompt user for the link text (optional)
-        const linkText = prompt(
-          "Enter the text for the link (or leave blank to use the URL):"
-        );
-
-        // Use the provided text or fall back to the original URL (without auto-added https)
-        let displayText =
-          linkText && linkText.trim() ? linkText.trim() : url.trim();
-
-        // Truncate display text if it's longer than the URL
-        if (displayText.length > cleanUrl.length) {
-          displayText = displayText.substring(0, cleanUrl.length) + "...";
-        }
-
-        // Create the markdown link with newlines before and after
-        const markdownLink = `\n[${displayText}](${cleanUrl})\n`;
-
-        // Insert the formatted link into the main comment textarea
-        this.insertReplyIntoMainForm(markdownLink);
-
-        // Scroll to the main comment form
-        this.scrollToMainForm();
-      }
     }
 
     formatReplyTemplate(commentData) {
@@ -487,12 +379,12 @@
 
   // Initialize the reply system after cactus is fully loaded
   console.log("Setting up reply system initialization");
-  
+
   // Wait for cactus to be fully initialized before adding our functionality
   function waitForCactusReady() {
     const cactusEditor = document.querySelector(".cactus-editor");
     const cactusTextarea = document.querySelector(".cactus-editor-textarea");
-    
+
     if (cactusEditor && cactusTextarea) {
       console.log("Cactus is ready, creating CactusReplySystem instance");
       new CactusReplySystem();
@@ -501,7 +393,7 @@
       setTimeout(waitForCactusReady, 1000);
     }
   }
-  
+
   // Start checking after a delay to let cactus initialize
   setTimeout(waitForCactusReady, 5000);
 </script>
