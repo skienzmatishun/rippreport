@@ -126,17 +126,16 @@
     waitForComments() {
       console.log("Waiting for comments to load");
 
-      // Always try to add the link button first
-      this.addLinkButton();
-
       const checkForComments = () => {
         const comments = document.querySelectorAll(".cactus-comment");
         console.log(`Found ${comments.length} comments`);
+        
+        // Always try to add the link button, but only after a delay to let cactus.js initialize
+        setTimeout(() => this.addLinkButton(), 2000);
+        
         if (comments.length > 0) {
           this.addReplyButtons();
         } else {
-          // Still try to add link button even if no comments
-          this.addLinkButton();
           setTimeout(checkForComments, 1000);
         }
       };
@@ -350,38 +349,29 @@
         return;
       }
 
-      // Try to find the cactus-editor-name div first
-      let targetElement = document.querySelector(".cactus-editor-name");
-
-      // If not found, try to find the textarea and place it before
-      if (!targetElement) {
-        const textarea = document.querySelector(".cactus-editor-textarea");
-        if (textarea) {
-          targetElement = textarea;
-        }
-      }
-
-      if (!targetElement) {
-        console.log("Could not find suitable location to add link button");
+      // Wait for cactus editor to be fully loaded
+      const editorContainer = document.querySelector(".cactus-editor");
+      if (!editorContainer) {
+        console.log("Cactus editor not ready yet, retrying...");
+        setTimeout(() => this.addLinkButton(), 1000);
         return;
       }
 
       // Create the link button
       const linkButton = this.createLinkButton();
 
-      // Create a container for the button with non-interfering styling
+      // Create a container for the button that won't interfere with cactus layout
       const buttonContainer = document.createElement("div");
       buttonContainer.style.cssText = `
-            margin: 4px 0;
-            display: inline-block;
-            width: auto;
+            margin: 8px 0;
+            text-align: left;
         `;
       buttonContainer.appendChild(linkButton);
 
-      // Insert the button container before the target element to avoid interfering with buttons below
-      targetElement.parentNode.insertBefore(buttonContainer, targetElement);
+      // Append to the editor container at the end, after all cactus elements are loaded
+      editorContainer.appendChild(buttonContainer);
 
-      console.log("Added link button before target element");
+      console.log("Added link button to cactus editor container");
     }
 
     handleLinkClick() {
@@ -495,10 +485,23 @@
     }
   }
 
-  // Initialize the reply system
+  // Initialize the reply system after cactus is fully loaded
   console.log("Setting up reply system initialization");
-  setTimeout(() => {
-    console.log("Creating CactusReplySystem instance");
-    new CactusReplySystem();
-  }, 4000);
+  
+  // Wait for cactus to be fully initialized before adding our functionality
+  function waitForCactusReady() {
+    const cactusEditor = document.querySelector(".cactus-editor");
+    const cactusTextarea = document.querySelector(".cactus-editor-textarea");
+    
+    if (cactusEditor && cactusTextarea) {
+      console.log("Cactus is ready, creating CactusReplySystem instance");
+      new CactusReplySystem();
+    } else {
+      console.log("Cactus not ready yet, retrying...");
+      setTimeout(waitForCactusReady, 1000);
+    }
+  }
+  
+  // Start checking after a delay to let cactus initialize
+  setTimeout(waitForCactusReady, 5000);
 </script>
