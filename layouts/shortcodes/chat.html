@@ -350,40 +350,38 @@
         return;
       }
 
-      // Try to find the cactus-editor-name div
-      const editorNameDiv = document.querySelector(".cactus-editor-name");
-      if (!editorNameDiv) {
-        console.log(
-          "Could not find .cactus-editor-name div to add link button"
-        );
+      // Try to find the cactus-editor-name div first
+      let targetElement = document.querySelector(".cactus-editor-name");
+
+      // If not found, try to find the textarea and place it before
+      if (!targetElement) {
+        const textarea = document.querySelector(".cactus-editor-textarea");
+        if (textarea) {
+          targetElement = textarea;
+        }
+      }
+
+      if (!targetElement) {
+        console.log("Could not find suitable location to add link button");
         return;
       }
 
       // Create the link button
       const linkButton = this.createLinkButton();
 
-      // Create a container for the button
+      // Create a container for the button with non-interfering styling
       const buttonContainer = document.createElement("div");
       buttonContainer.style.cssText = `
-            margin-top: 8px;
-            margin-bottom: 8px;
-            clear: both;
-            z-index: 1;
-            position: relative;
+            margin: 4px 0;
+            display: inline-block;
+            width: auto;
         `;
       buttonContainer.appendChild(linkButton);
 
-      // Insert the button container after the cactus-editor-name div
-      if (editorNameDiv.nextSibling) {
-        editorNameDiv.parentNode.insertBefore(
-          buttonContainer,
-          editorNameDiv.nextSibling
-        );
-      } else {
-        editorNameDiv.parentNode.appendChild(buttonContainer);
-      }
+      // Insert the button container before the target element to avoid interfering with buttons below
+      targetElement.parentNode.insertBefore(buttonContainer, targetElement);
 
-      console.log("Added link button after .cactus-editor-name div");
+      console.log("Added link button before target element");
     }
 
     handleLinkClick() {
