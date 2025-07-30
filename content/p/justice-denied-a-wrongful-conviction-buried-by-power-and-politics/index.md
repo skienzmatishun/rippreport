@@ -25,11 +25,11 @@ FOUR KEY FIGURES STILL CAST A LONG SHADOW OVER THIS CASE
 
 ### Robert Wilters
 
-Role in 2005: Presiding Circuit Court Judge in Baldwin County for Murray Lawrence Jr’s capital murder trial.Role Today: Baldwin County District Attorney (since approximately 2015).Relevance: As trial judge, he made critical rulings that allowed the prosecution’s case to proceed despite major evidentiary inconsistencies. Today, he holds the top prosecutorial position in the county and continues to influence how the DA’s office handles cases and postconviction relief including rejecting the filing of Rule 32 in 2023.
+Role in 2005: Presiding Circuit Court Judge in Baldwin County for Murray Lawrence Jr’s capital murder trial. Role Today: Baldwin County District Attorney (since approximately 2015).Relevance: As trial judge, he made critical rulings that allowed the prosecution’s case to proceed despite major evidentiary inconsistencies. Today, he holds the top prosecutorial position in the county and continues to influence how the DA’s office handles cases and postconviction relief including rejecting the filing of Rule 32 in 2023.
 
 ### Anthony Lowery
 
-Role in 2005: Chief Investigator with the Baldwin County District Attorney’s Office. He testified during Murray’s trial.Role Today: Current Baldwin County Sheriff, appointed by Governor Kay Ivey.Relevance: Lowery played a direct role in building the case against Murray. His rise to sheriff places him in control of law enforcement operations across Baldwin County and in a position of power over local investigations and institutional accountability. He is currently seeking election to retain that office in 2026.
+Role in 2005: Chief Investigator with the Baldwin County District Attorney’s Office. He testified during Murray’s trial. Role Today: Current Baldwin County Sheriff, appointed by Governor Kay Ivey.Relevance: Lowery played a direct role in building the case against Murray. His rise to sheriff places him in control of law enforcement operations across Baldwin County and in a position of power over local investigations and institutional accountability. He is currently seeking election to retain that office in 2026.
 
 ### Huey 'Hoss' Mack
 
