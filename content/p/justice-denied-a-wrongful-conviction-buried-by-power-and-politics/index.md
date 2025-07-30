@@ -1,6 +1,6 @@
 ---
 title: "Justice Denied: A Wrongful Conviction Buried by Power and Politics"
-date: 2025-07-30
+date: 2025-08-30
 thumbnail: "img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png"
 tags:
   - Murray Lawrence Jr
