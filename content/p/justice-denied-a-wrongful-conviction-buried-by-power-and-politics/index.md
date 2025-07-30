@@ -25,19 +25,19 @@ FOUR KEY FIGURES STILL CAST A LONG SHADOW OVER THIS CASE
 
 ### Robert Wilters
 
-Role in 2005: Presiding Circuit Court Judge in Baldwin County for Murray Lawrence Jr’s capital murder trial. Role Today: Baldwin County District Attorney (since approximately 2015).Relevance: As trial judge, he made critical rulings that allowed the prosecution’s case to proceed despite major evidentiary inconsistencies. Today, he holds the top prosecutorial position in the county and continues to influence how the DA’s office handles cases and postconviction relief including rejecting the filing of Rule 32 in 2023.
+Role in 2005: Presiding Circuit Court Judge in Baldwin County for Murray Lawrence Jr’s capital murder trial. Role Today: Baldwin County District Attorney (since approximately 2015). Relevance: As trial judge, he made critical rulings that allowed the prosecution’s case to proceed despite major evidentiary inconsistencies. Today, he holds the top prosecutorial position in the county and continues to influence how the DA’s office handles cases and postconviction relief including rejecting the filing of Rule 32 in 2023.
 
 ### Anthony Lowery
 
-Role in 2005: Chief Investigator with the Baldwin County District Attorney’s Office. He testified during Murray’s trial. Role Today: Current Baldwin County Sheriff, appointed by Governor Kay Ivey.Relevance: Lowery played a direct role in building the case against Murray. His rise to sheriff places him in control of law enforcement operations across Baldwin County and in a position of power over local investigations and institutional accountability. He is currently seeking election to retain that office in 2026.
+Role in 2005: Chief Investigator with the Baldwin County District Attorney’s Office. He testified during Murray’s trial. Role Today: Current Baldwin County Sheriff, appointed by Governor Kay Ivey. Relevance: Lowery played a direct role in building the case against Murray. His rise to sheriff places him in control of law enforcement operations across Baldwin County and in a position of power over local investigations and institutional accountability. He is currently seeking election to retain that office in 2026.
 
 ### Huey 'Hoss' Mack
 
-Role in 2005: Lead Investigator and Captain in the Baldwin County Sheriff’s Office. Testified at trial. Allegedly coerced the real killer, Jarius McNeil, into shifting blame onto Murray.Role Today: Serving in a newly appointed state level position after retiring as Baldwin County Sheriff.Relevance: Mack orchestrated the original investigation, controlled access to evidence including the body’s handling at his own funeral home, and played a powerful role in shaping the narrative of guilt. His leadership established a law enforcement culture that remains in place.
+Role in 2005: Lead Investigator and Captain in the Baldwin County Sheriff’s Office. Testified at trial. Allegedly coerced the real killer, Jarius McNeil, into shifting blame onto Murray. Role Today: Serving in a newly appointed state level position after retiring as Baldwin County Sheriff. Relevance: Mack orchestrated the original investigation, controlled access to evidence including the body’s handling at his own funeral home, and played a powerful role in shaping the narrative of guilt. His leadership established a law enforcement culture that remains in place.
 
 ### David Whetstone
 
-Role in 2005: District Attorney for Baldwin County. Prosecuted Murray and offered a plea deal to the real killer, Jarius McNeil.Role Today: Retired.Relevance: Whetstone is the architect of the prosecution’s strategy. He openly admitted in court that he made a deal with the devil to secure Jarius’ testimony, despite knowing it was unreliable. His tactics and decisions are central to the prosecutorial misconduct claims.
+Role in 2005: District Attorney for Baldwin County. Prosecuted Murray and offered a plea deal to the real killer, Jarius McNeil. Role Today: Retired. Relevance: Whetstone is the architect of the prosecution’s strategy. He openly admitted in court that he made a deal with the devil to secure Jarius’ testimony, despite knowing it was unreliable. His tactics and decisions are central to the prosecutorial misconduct claims.
 
 Murray was at home with his girlfriend at the time of the murder. He did not know the victim, Brandon Hastings. There was no physical evidence tying him to the crime. No DNA. No fingerprints. No murder weapon. Just the word of a confessed killer, who had already admitted to the crime but changed his story after being threatened with the death penalty.
 
