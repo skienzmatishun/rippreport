@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2025-08-30
-thumbnail: ""
+thumbnail: "img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png"
 tags:
   - Murray Lawrence Jr
   - David Whetstone
@@ -15,4 +15,4 @@ authors:
   - admin
 ---
 
-Nothing Found
+Nothing Found.
