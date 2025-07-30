@@ -52,7 +52,12 @@ Download the full case file here:
  <a href="https://spaces.hightail.com/receive/qEcJI662NB"> https://spaces.hightail.com/receive/qEcJI662NB </a>
 
 MEDIA CONTACT:
-Karin Wilson, <a href="mailto:karin@pageandpalette.com">karin@pageandpalette.com</a>, <a href="tel:2516806595"> 251-680-6595 </a>
+
+Karin Wilson
+
+<a href="mailto:karin@pageandpalette.com">karin@pageandpalette.com</a>
+
+<a href="tel:2516806595"> 251-680-6595 </a>
 
 Former Mayor of Fairhope, Alabama
 
