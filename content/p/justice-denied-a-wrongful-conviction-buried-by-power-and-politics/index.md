@@ -8,8 +8,9 @@ tags:
   - Sheriff Lowery
   - Sheriff Hoss Mack
   - Robert Wilters
+  - BCSO
 categories: 
-  - dwtd
+  - bcso
 authors: 
   - admin
 ---
