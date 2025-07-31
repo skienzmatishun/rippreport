@@ -48,9 +48,6 @@ Jurors were improperly influenced. Alibi witnesses were never called. Forensic e
 This is not just about a wrongful conviction. It is about a pattern of suppressed evidence and prosecutorial misconduct that has never been addressed. Those responsible have only risen in rank, and without public pressure, they will never be held accountable.
 This is an egregious injustice. Murray Lawrence Jr has lost two decades of his life. If the media and public do not act now, he may never get the justice he is owed.
 
-Download the full case file here:
- <a href="https://spaces.hightail.com/receive/qEcJI662NB"> https://spaces.hightail.com/receive/qEcJI662NB </a>
-
 MEDIA CONTACT:
 Karin Wilson, <a href="mailto:karin@pageandpalette.com">karin@pageandpalette.com</a>, <a href="tel:2516806595"> 251-680-6595 </a>
 Former Mayor of Fairhope, Alabama
