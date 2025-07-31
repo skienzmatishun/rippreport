@@ -49,7 +49,13 @@ This is not just about a wrongful conviction. It is about a pattern of suppresse
 This is an egregious injustice. Murray Lawrence Jr has lost two decades of his life. If the media and public do not act now, he may never get the justice he is owed.
 
 MEDIA CONTACT:
-Karin Wilson, <a href="mailto:karin@pageandpalette.com">karin@pageandpalette.com</a>, <a href="tel:2516806595"> 251-680-6595 </a>
+
+Karin Wilson
+
+<a href="mailto:karin@pageandpalette.com">karin@pageandpalette.com</a>, 
+
+<a href="tel:2516806595"> 251-680-6595 </a>
+
 Former Mayor of Fairhope, Alabama
 
 {{< chat mlpr >}}
