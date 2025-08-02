@@ -19,7 +19,7 @@ FOR IMMEDIATE RELEASE
 
 ## Justice Denied: A Wrongful Conviction Buried by Power and Politics
 
-I served as the mayor of Fairhope, Alabama, and I am speaking out because the truth in this case was never hidden. It was suppressed. Murray Lawrence Jr has spent more than 20 years in prison for a murder he did not commit. The reason he is still there is because the four men who built the case against him, despite a lack of evidence, now hold higher office today. Court records and the Innocence Project findings show that key exculpatory evidence was suppressed during the trial.
+I am speaking out because the truth in this case was never hidden. It was suppressed. Murray Lawrence Jr has spent more than 20 years in prison for a murder he did not commit. The reason he is still there is because the four men who built the case against him, despite a lack of evidence, now hold higher office today. Court records and the Innocence Project findings show that key exculpatory evidence was suppressed during the trial.
 
 FOUR KEY FIGURES STILL CAST A LONG SHADOW OVER THIS CASE
 
