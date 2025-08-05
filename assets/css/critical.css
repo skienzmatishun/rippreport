@@ -1188,92 +1188,83 @@ h2.backstory__title {
 }
 /* VHS Effect for List Items (Post Previews) */
 .rerun__post {
-  background: #1a1a1a !important;
-  border: 2px solid #2b52ff !important;
-  box-shadow: 0 0 20px rgba(43, 82, 255, 0.3) !important;
-}
-
-.rerun__list__header {
-  position: relative;
-  background: #2b52ff !important;
-  overflow: hidden;
-  padding: 1.5rem !important;
-  min-height: 120px;
-}
-
-.rerun__list__title {
-  font-family: "Press Start 2P", cursive !important;
-  color: #fff !important;
-  font-size: 1rem !important;
-  position: relative;
-  z-index: 100;
-  will-change: text-shadow;
-  animation: rgbText 2s steps(9) 0s infinite alternate;
-  text-transform: uppercase;
-  line-height: 1.4;
-  margin: 0 !important;
-  background: transparent !important;
-  max-width: none !important;
-}
-
-.rerun__list__title a {
-  color: #fff !important;
-  text-decoration: none;
-}
-
-.rerun__list__content {
-  background: #1a1a1a !important;
-  color: #00ff00 !important;
-  font-family: "Courier New", monospace !important;
-  padding: 1rem !important;
-  border-top: 1px solid #2b52ff;
-}
-
-.rerun__btn {
-  background: #2b52ff !important;
-  color: #fff !important;
-  font-family: "Press Start 2P", cursive !important;
-  font-size: 0.7rem !important;
-  text-transform: uppercase;
-  border: 2px solid #fff !important;
-  padding: 0.5rem 1rem !important;
-  transition: all 0.3s ease !important;
-}
-
-.rerun__btn:hover {
-  background: #fff !important;
-  color: #2b52ff !important;
-  box-shadow: 0 0 10px rgba(43, 82, 255, 0.5) !important;
-}
-
-/* Responsive adjustments for list items */
-@media (max-width: 768px) {
-  .rerun__list__title {
-    font-size: 0.8rem !important;
+    background: #1a1a1a !important;
+    border: 2px solid #2b52ff !important;
+    box-shadow: 0 0 20px rgba(43, 82, 255, 0.3) !important;
   }
 
   .rerun__list__header {
-    padding: 1rem !important;
-    min-height: 100px;
+    position: relative;
+    background: #2b52ff !important;
+    overflow: hidden;
+
   }
+
+  .rerun__list__title {
+    font-family: "monospace";
+    color: #fff !important;
+    position: relative;
+    z-index: 100;
+    will-change: text-shadow;
+    animation: rgbText 2s steps(9) 0s infinite alternate;
+    text-transform: uppercase;
+    margin: 0 !important;
+    background: transparent !important;
+    max-width: none !important;
+  }
+
+  .rerun__list__title a {
+    color: #fff !important;
+    text-decoration: none;
+  }
+
+
 
   .rerun__btn {
-    font-size: 0.6rem !important;
-  }
-}
-
-@media (max-width: 480px) {
-  .rerun__list__title {
+    background: #2b52ff !important;
+    color: #fff !important;
+    font-family: "monospace";
     font-size: 0.7rem !important;
+    text-transform: uppercase;
+    border: 2px solid #fff !important;
+    padding: 0.5rem 1rem !important;
+    transition: all 0.3s ease !important;
   }
 
-  .rerun__list__header {
-    padding: 0.75rem !important;
-    min-height: 80px;
+  .rerun__btn:hover {
+    background: #fff !important;
+    color: #2b52ff !important;
+    box-shadow: 0 0 10px rgba(43, 82, 255, 0.5) !important;
   }
 
-  .rerun__btn {
-    font-size: 0.5rem !important;
-    padding: 0.4rem 0.8rem !important;
+  /* Responsive adjustments for list items */
+  @media (max-width: 768px) {
+    .rerun__list__title {
+      font-size: 0.8rem !important;
+    }
+
+    .rerun__list__header {
+      padding: 1rem !important;
+      min-height: 100px;
+    }
+
+    .rerun__btn {
+      font-size: 0.6rem !important;
+    }
   }
-}
+
+  @media (max-width: 480px) {
+    .rerun__list__title {
+      font-size: 0.7rem !important;
+    }
+
+    .rerun__list__header {
+      padding: 0.75rem !important;
+      min-height: 80px;
+    }
+
+    .rerun__btn {
+      font-size: 0.5rem !important;
+      padding: 0.4rem 0.8rem !important;
+    }
+  }
