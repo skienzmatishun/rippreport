@@ -29,3 +29,10 @@ I am providing the complete 32 page complaint sent to all authorities as well as
 Read the complaint and tell me who is crazy?
 
 <iframe style="width:100%;height:800px;" src="img/complaint-airport.pdf"></iframe>
+
+<style>
+.thumbnail__image {
+  margin: auto;
+  display: flex;
+}
+</style>
