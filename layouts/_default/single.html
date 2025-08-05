@@ -6,6 +6,11 @@
 		<header class="post__header
 			{{ if in .Params.categories " backstory-podcast" }}backstory__header{{ end }} {{ if in .Params.categories "dwtd"
 			}}dwtd__header{{ end }} {{ if in .Params.categories "repost" }}rerun__header{{ end }} ">
+			{{ if in .Params.categories "repost" }}
+			<div class="vhs-scanlines"></div>
+			<div class="vhs-noise"></div>
+			<div class="vhs-noise vhs-noise-moving"></div>
+			{{ end }}
 			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} {{ if in .Params.categories "repost" }}rerun__title{{ end }} ">{{ .Title }}</h1>
 			{{- with .Params.lead }}
 			<p class=" post__lead">{{ . }}</p>
