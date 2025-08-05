@@ -55,7 +55,7 @@ The City Attorney, Marcus McDowell, has done a poor job of protecting the commun
 
 The City Attorney has done a good job protecting the council, especially Mr. Burrell, with our tax dollars. Don’t forget how the council and city attorney, when faced with a potential change of government, changed an establish voting date, at the last minute, and then topped it off by providing 1 voting booth per precinct, ensuring long waits to vote.
 
-{{< socialpreview url=https://rippreport.com/you-win-some-you-lose-some/" >}}
+{{< socialpreview url="https://rippreport.com/you-win-some-you-lose-some/" >}}
 
 The Ripp Report will be paying attention to both the Breland case and what creative legal maneuvers the City Attorney comes up with, in the bar stool incident. Be prepared, Catalyst has a bid bag of dirty tricks and they protect their own.
 
