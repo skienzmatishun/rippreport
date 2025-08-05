@@ -1,12 +1,12 @@
 {{ define "main" }}
 <main class="main
 	{{ if in .Params.categories " dwtd" }}dwtd__article{{ end }} {{ if in .Params.categories "backstory-podcast"
-	}}backstory__article{{ end }} " role=" main">
+	}}backstory__article{{ end }} {{ if in .Params.categories "repost" }}rerun{{ end }} " role=" main">
 	<article class="post">
 		<header class="post__header
 			{{ if in .Params.categories " backstory-podcast" }}backstory__header{{ end }} {{ if in .Params.categories "dwtd"
-			}}dwtd__header{{ end }} ">
-			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} ">{{ .Title }}</h1>
+			}}dwtd__header{{ end }} {{ if in .Params.categories "repost" }}rerun__header{{ end }} ">
+			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} {{ if in .Params.categories "repost" }}rerun__title{{ end }} ">{{ .Title }}</h1>
 			{{- with .Params.lead }}
 			<p class=" post__lead">{{ . }}</p>
 			{{- end }}
@@ -24,7 +24,7 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content
 			{{ if in .Params.categories " backstory-podcast" }}backstory__content{{ end }} {{ if in .Params.categories "dwtd"
-			}}dwtd-wrapper{{ end }} clearfix">
+			}}dwtd-wrapper{{ end }} {{ if in .Params.categories "repost" }}rerun__content{{ end }} clearfix">
 			{{ .Content }}
 		</div>
 		{{- if .Params.tags }}
