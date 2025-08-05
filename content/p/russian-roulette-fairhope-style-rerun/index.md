@@ -14,7 +14,7 @@ Tim Kant’s past bad deeds are catching up with Fairhope. First was the Dyas, T
 
 [Link expired]  Fairhope to assume entire cost of Dyas Triangle settlement - Lagniappe Mobile
 
-   <a href="https://www.google.com/search?q=Fairhope+to+assume+entire+cost+of+Dyas+Triangle+settlement" target="_blank">Updated source for "Fairhope to assume entire cost of Dyas Triangle settlement" - Lagniappe</a>
+<a href="https://www.google.com/search?q=Fairhope+to+assume+entire+cost+of+Dyas+Triangle+settlement" target="_blank">Updated source for "Fairhope to assume entire cost of Dyas Triangle settlement" - Lagniappe</a>
 
 Please remember Fairhope just went through a referendum vote to change the government from at large to districts. The present Catalyst Council said they represented everyone in town, not true they are for special interest, Catalyst, and keeping the citizens in the dark.
 
@@ -36,12 +36,14 @@ Make no mistake the Breland case is the sole responsibility of the Fairhope City
 
 Kant has always used lawsuits to beat people back and it works about 90% of the time, until you run into a Breland, Dyas or Ripp. Kant used our insurance company to cover those costs and even that resulted in yet more lawsuits by the city’s insurance carrier. One insurance company dropped the city as a carrier due to the unethical practices of city hired attorneys and the mayor.
 
-[Link Expired] Fairhope settles with former insurer over 'Dyas Triangle' legal fees - Lagniappe Mobile
+[Link Expired] High court rules against Fairhope in development suit - Lagniappe Mobile
 
-<a href="https://www.google.com/search?q=Fairhope+settles+with+former+insurer+over+%27Dyas+Triangle%27+legal+fees"> Updated source for "Fairhope settles with former insurer over 'Dyas Triangle' legal fees - Lagniappe Mobile"</a>
+<a href="https://www.google.com/search?q=Fairhope+settles+with+former+insurer+over+%27Dyas+Triangle%27+legal+fees">Updated source for "High court rules against Fairhope in development suit - Lagniappe Mobile"</a>
 
 Fairhope City Council is playing Russian Roulette with the chamber full. If they do not settle the case and the appeal process favors Mr Breland, taxpayers are going to cover the mistakes of a failed council.
 
 Is this the “at large” council you voted for? It is the same council that continues to cost the city money on lawsuits, that they create or turn a blind eye too.
 
 {{< socialpreview url="https://rippreport.com/loser/" >}}
+
+{{< chat rrrerun >}}
