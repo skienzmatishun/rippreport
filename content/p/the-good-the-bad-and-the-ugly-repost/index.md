@@ -3,7 +3,7 @@ title: "THE GOOD THE BAD AND THE UGLY"
 date: 2025-08-05
 thumbnail: "img/the-good-the-bad-and-the-ugly.png"
 categories: 
-  - ivy
+  - repost
 tags: 
   - boone
   - breland
