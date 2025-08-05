@@ -1,5 +1,5 @@
 ---
-title: "THE GOOD THE BAD AND THE UGLY"
+title: "THE GOOD THE BAD AND THE UGLY (Rerun)"
 date: 2025-08-05
 thumbnail: "img/the-good-the-bad-and-the-ugly.png"
 categories: 
