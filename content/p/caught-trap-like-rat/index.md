@@ -20,8 +20,6 @@ Mayor Wilson has from day one in office supported the repeal of ordinance 1572 a
 
 Mr. Burrell has resisted the Mayor at every turn. He has demeaned her to employees and called her crazy at every opportunity. He has boasted that he would run her out of office in a year by making her life as Mayor unbearable. Those of you who have watched him in council meetings and work sessions have witnessed his actions and have every reason to believe his self proclaimed motivation.
 
-https://cdn.rippreport.com/wp-content/uploads/2017/02/document.pdf
-
 Wake up Fairhope,…... it’s ….. Jack caught in a trap, of his making. The Ripp Report is filing an Ethics complaint against Mr. Burrell involving his participation in the Airport Authority and the alleged “bid rigging”. Reliable sources have told us that as many as four complaints have been filed with the Ethics Commission.
 
 Jack will tell you nothing, except that everyone is crazy! I’ll tell ya who is crazy, the citizens of Fairhope if you believe his B.S.
