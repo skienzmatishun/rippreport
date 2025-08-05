@@ -1,7 +1,7 @@
 ---
 title: "RUSSIAN ROULETTE - FAIRHOPE STYLE (Rerun)"
 thumbnail: "img/russian-roulette-fairhope-style-rerun.png"
-date: 2018-12-06
+date: 2025-08-05
 categories: 
   - citycouncil
 authors: 
