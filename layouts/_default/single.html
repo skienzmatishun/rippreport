@@ -6,7 +6,18 @@
 		<header class="post__header
 			{{ if in .Params.categories " backstory-podcast" }}backstory__header{{ end }} {{ if in .Params.categories "dwtd"
 			}}dwtd__header{{ end }} ">
-			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} ">{{ .Title }}</h1>
+			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} {{ if in .Params.categories "repost" }}repost__title{{ end }}">
+				{{ .Title }}
+				{{ if in .Params.categories "repost" }}
+				<div class="repost__film-effect">
+					<div class='film'>
+						<div class="effect">
+							<div class="grain"></div>
+						</div>
+					</div>
+				</div>
+				{{ end }}
+			</h1>
 			{{- with .Params.lead }}
 			<p class=" post__lead">{{ . }}</p>
 			{{- end }}

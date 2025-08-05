@@ -1,10 +1,19 @@
 <article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "bcso" }}bcso__post{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }}">
     {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
     <header class="list__header {{ if in .Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in .Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in .Params.categories "holiday" }}holiday__list__header{{ end }}">
-        <h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in .Params.categories "bcso" }}bcso__title{{ end }}{{ if in .Params.categories "holiday" }}holiday__title{{ end }}">
+        <h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in .Params.categories "bcso" }}bcso__title{{ end }}{{ if in .Params.categories "holiday" }}holiday__title{{ end }}{{ if in .Params.categories "repost" }}repost__title{{ end }}">
             <a href="{{ .RelPermalink }}" rel="bookmark">
                 {{ .Title }}
             </a>
+            {{ if in .Params.categories "repost" }}
+            <div class="repost__film-effect">
+                <div class='film'>
+                    <div class="effect">
+                        <div class="grain"></div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
         </h2>
     </header>
     <div class="content list__excerpt post__content clearfix {{ if in .Params.categories "backstory-podcast" }}backstory__content{{ end }}{{ if in .Params.categories "bcso" }}bcso__content{{ end }}{{ if in .Params.categories "holiday" }}holiday__content{{ end }}">
