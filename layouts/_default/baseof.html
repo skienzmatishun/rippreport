@@ -23,11 +23,11 @@
     {{/* Social Media Images */}}
     {{- $defaultImage := "android-chrome-512x512.png" -}}
     {{- $thumbnail := cond .IsHome $defaultImage .Params.thumbnail -}}
-    {{- $imageUrl := printf "https://rippreport.com/%s" $thumbnail -}}
+    {{- $imageUrl := printf "%s/%s" .Site.BaseURL $thumbnail -}}
     <meta name="twitter:image" content="{{ $imageUrl }}">
     <meta property="og:image" content="{{ $imageUrl }}">
 
-    <link href="https://rippreport.com/fonts/css2?family=Amatic+SC:wght@700&family=Sixtyfour+Convergence:XELA@-60&display=block" rel="stylesheet">
+    <link href="{{ "fonts/css2?family=Amatic+SC:wght@700&family=Sixtyfour+Convergence:XELA@-60&display=block" | relURL }}" rel="stylesheet">
 
 {{/* Styles */}}
 {{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
@@ -40,7 +40,7 @@
 {{ if .IsHome }}
     {{ partial "inline-critical-css.html" }}
 {{ else if .Paginator }}
-    <link rel="stylesheet" href="https://rippreport.com/css/custom.css">
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 {{ else }}
     {{ partial "post-critical-css.html" }}
 {{ end }}
