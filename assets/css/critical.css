@@ -910,13 +910,13 @@ p.widget__summary {
 
 header.post__header h1.post__title {
     background: 0 0;
-    border: 3px solid #000
-
+    border: 3px solid #000;
+}
 
 .backstory__title h1,
 .dwtd__header h1.post__title {
     background: 0 0;
-    border: 0
+    border: 0;
 }
 
 .main-list,
