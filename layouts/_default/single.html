@@ -1,12 +1,21 @@
 {{ define "main" }}
 <main class="main
 	{{ if in .Params.categories " dwtd" }}dwtd__article{{ end }} {{ if in .Params.categories "backstory-podcast"
-	}}backstory__article{{ end }} " role=" main">
+	}}backstory__article{{ end }} {{ if in .Params.categories "repost" }}repost{{ end }} " role=" main"></main>
 	<article class="post">
 		<header class="post__header
 			{{ if in .Params.categories " backstory-podcast" }}backstory__header{{ end }} {{ if in .Params.categories "dwtd"
-			}}dwtd__header{{ end }} ">
+			}}dwtd__header{{ end }} {{ if in .Params.categories "repost" }}repost__header{{ end }} ">
+			{{ if in .Params.categories "repost" }}
+			<div class="scanlines"></div>
+			<div class="intro-wrap">
+				<div class="noise"></div>
+				<div class="noise noise-moving"></div>
+				<div class="recordSpeed">{{ .Title }}</div>
+			</div>
+			{{ else }}
 			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} ">{{ .Title }}</h1>
+			{{ end }}
 			{{- with .Params.lead }}
 			<p class=" post__lead">{{ . }}</p>
 			{{- end }}

@@ -1,13 +1,24 @@
-<article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "bcso" }}bcso__post{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }}">
+<article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "bcso" }}bcso__post{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }} {{ if in .Params.categories "repost" }}repost{{ end }}">
     {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
-    <header class="list__header {{ if in .Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in .Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in .Params.categories "holiday" }}holiday__list__header{{ end }}">
+    <header class="list__header {{ if in .Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in .Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in .Params.categories "holiday" }}holiday__list__header{{ end }}{{ if in .Params.categories "repost" }}repost__list__header{{ end }}">
+        {{ if in .Params.categories "repost" }}
+        <div class="scanlines"></div>
+        <div class="intro-wrap">
+            <div class="noise"></div>
+            <div class="noise noise-moving"></div>
+            <div class="recordSpeed">
+                <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+            </div>
+        </div>
+        {{ else }}
         <h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in .Params.categories "bcso" }}bcso__title{{ end }}{{ if in .Params.categories "holiday" }}holiday__title{{ end }}">
             <a href="{{ .RelPermalink }}" rel="bookmark">
                 {{ .Title }}
             </a>
         </h2>
+        {{ end }}
     </header>
-    <div class="content list__excerpt post__content clearfix {{ if in .Params.categories "backstory-podcast" }}backstory__content{{ end }}{{ if in .Params.categories "bcso" }}bcso__content{{ end }}{{ if in .Params.categories "holiday" }}holiday__content{{ end }}">
+    <div class="content list__excerpt post__content clearfix {{ if in .Params.categories "backstory-podcast" }}backstory__content{{ end }}{{ if in .Params.categories "bcso" }}bcso__content{{ end }}{{ if in .Params.categories "holiday" }}holiday__content{{ end }}{{ if in .Params.categories "repost" }}repost__content{{ end }}">
         {{- $cleanedSummary := .Summary -}}
         {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` " " $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
@@ -21,7 +32,7 @@
     </div>
     {{- if and .Site.Params.readmore (not (in .Params.categories "holiday")) }}
     <div class="list__footer clearfix">
-        <a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in .Params.categories "bcso" }}bcso__btn{{ end }}{{ if in .Params.categories "holiday" }}holiday__btn{{ end }}" href="{{ .RelPermalink }}">Read More</a>
+        <a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in .Params.categories "bcso" }}bcso__btn{{ end }}{{ if in .Params.categories "holiday" }}holiday__btn{{ end }}{{ if in .Params.categories "repost" }}repost__btn{{ end }}" href="{{ .RelPermalink }}">Read More</a>
     </div>
     {{- end }}
 </article>
