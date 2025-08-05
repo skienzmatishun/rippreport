@@ -1,7 +1,7 @@
 ---
-title: "RUSSIAN ROULETTE - FAIRHOPE STYLE (Rerun)"
-thumbnail: "img/russian-roulette-fairhope-style-rerun.png"
-date: 2025-08-05
+title: "RUSSIAN ROULETTE - FAIRHOPE STYLE"
+thumbnail: "img/russian-roulette-fairhope-style.png"
+date: 2018-12-06
 categories: 
   - citycouncil
 authors: 
@@ -26,7 +26,7 @@ For almost 11 years the city has been engulfed in yet another lawsuit that the p
 
 [Link Expired] High court rules against Fairhope in development suit - Lagniappe Mobile
 
-<a href=https://www.google.com/search?q=High+court+rules+against+Fairhope+in+development+suit+dyas>Updated source for "High court rules against Fairhope in development suit - Lagniappe Mobile"</a>
+<a href="https://www.google.com/search?q=High+court+rules+against+Fairhope+in+development+suit+dyas">Updated source for "High court rules against Fairhope in development suit - Lagniappe Mobile"</a>
 
 I hope you read the above article, written 2 years ago. This particular article touches on many legal issues that most citizens are unaware of. Fairhope City Council has no leadership in fact they are guilty of dereliction of duty. They have yet to deliver an approved budget. Their excuses vary from not having enough time or not understanding the budget! How can they represent us all and not deliver a budget? Do ya think they run their households or personal business, 3 months behind? Delay in the budget and ignoring the pending litigation, is costing the taxpayers, plenty, and the council is 110% responsible.
 
