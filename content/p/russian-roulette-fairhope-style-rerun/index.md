@@ -26,7 +26,7 @@ For almost 11 years the city has been engulfed in yet another lawsuit that the p
 
 [Link Expired] High court rules against Fairhope in development suit - Lagniappe Mobile
 
-<a href=https://www.google.com/search?q=High+court+rules+against+Fairhope+in+development+suit+dyas>Updated source for "Fairhope to assume entire cost of Dyas Triangle settlement - Lagniappe Mobile"</a>
+<a href=https://www.google.com/search?q=High+court+rules+against+Fairhope+in+development+suit+dyas>Updated source for "High court rules against Fairhope in development suit - Lagniappe Mobile"</a>
 
 I hope you read the above article, written 2 years ago. This particular article touches on many legal issues that most citizens are unaware of. Fairhope City Council has no leadership in fact they are guilty of dereliction of duty. They have yet to deliver an approved budget. Their excuses vary from not having enough time or not understanding the budget! How can they represent us all and not deliver a budget? Do ya think they run their households or personal business, 3 months behind? Delay in the budget and ignoring the pending litigation, is costing the taxpayers, plenty, and the council is 110% responsible.
 
@@ -36,9 +36,9 @@ Make no mistake the Breland case is the sole responsibility of the Fairhope City
 
 Kant has always used lawsuits to beat people back and it works about 90% of the time, until you run into a Breland, Dyas or Ripp. Kant used our insurance company to cover those costs and even that resulted in yet more lawsuits by the city’s insurance carrier. One insurance company dropped the city as a carrier due to the unethical practices of city hired attorneys and the mayor.
 
-[Link Expired] High court rules against Fairhope in development suit - Lagniappe Mobile
+[Link Expired]  Fairhope settles with former insurer over ‘Dyas Triangle’ legal fees  - Lagniappe Mobile
 
-<a href="https://www.google.com/search?q=Fairhope+settles+with+former+insurer+over+%27Dyas+Triangle%27+legal+fees">Updated source for "High court rules against Fairhope in development suit - Lagniappe Mobile"</a>
+<a href="https://www.google.com/search?q=Fairhope+settles+with+former+insurer+over+%27Dyas+Triangle%27+legal+fees"> Fairhope settles with former insurer over ‘Dyas Triangle’ legal fees "</a>
 
 Fairhope City Council is playing Russian Roulette with the chamber full. If they do not settle the case and the appeal process favors Mr Breland, taxpayers are going to cover the mistakes of a failed council.
 
