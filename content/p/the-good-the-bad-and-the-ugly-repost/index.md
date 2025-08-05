@@ -60,3 +60,5 @@ The City Attorney has done a good job protecting the council, especially Mr. Bur
 The Ripp Report will be paying attention to both the Breland case and what creative legal maneuvers the City Attorney comes up with, in the bar stool incident. Be prepared, Catalyst has a bid bag of dirty tricks and they protect their own.
 
 Pay attention ladies, what if this happened to you?
+
+{{< chat gbaurerun >}}
