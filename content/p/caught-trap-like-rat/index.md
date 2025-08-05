@@ -36,3 +36,5 @@ Read the complaint and tell me who is crazy?
   display: flex;
 }
 </style>
+
+{{< chat ctlrrerun >}}

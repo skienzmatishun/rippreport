@@ -35,3 +35,5 @@ One of the major allegations involved in the complaint is that Mr. Burrell, as w
 In the interest of fair play we would like to challenge Mr Burrell to post the same reward in his own defense.
 
 Stop blowing smoke Jack and blaming everyone else for YOUR actions, put your money where your mouth is.
+
+{{< chat 5000rerun >}}
