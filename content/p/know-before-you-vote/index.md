@@ -3,6 +3,7 @@ title: "MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Pub
 date: 2025-08-05
 categories: 
   - ivy
+  - elections
 thumbnail: "img/know-before-you-vote.jpg"
 authors: 
   - admin
