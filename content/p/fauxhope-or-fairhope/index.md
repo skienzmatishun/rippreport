@@ -3,7 +3,7 @@ title: "FAUXHOPE OR FAIRHOPE"
 date: 2025-07-03
 thumbnail: "img/fauxhope-or-fairhope.png"
 categories: 
-  - citycouncil
+  - election
 tags: 
   - City Council
   - Mayor Sullivan
