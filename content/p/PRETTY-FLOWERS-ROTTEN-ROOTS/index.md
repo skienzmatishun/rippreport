@@ -9,6 +9,7 @@ tags:
   - Mayor
 categories: 
   - ivy
+  - elections
 authors: 
   - admin
 ---
