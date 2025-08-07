@@ -32,7 +32,7 @@
     <ul class="widget__list">
       {{- range first $recent_num $filteredRecent }}
         <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ else if in .Params.categories "bcso" }}bcso__widget__item{{ else if in .Params.categories "elections" }}elections__widget__item{{ else if in .Params.categories "repost" }}repost__widget__item{{ end }}">
-          <a class="widget__link" href="{{ .RelPermalink }}">
+          <a class="widget__link{{ if in .Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in .Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ .RelPermalink }}">
             <h4>{{ .Title }}</h4>
             {{- if .Params.thumbnail }}
               <div class="widget__thumbnail">

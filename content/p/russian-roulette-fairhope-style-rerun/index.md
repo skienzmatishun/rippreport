@@ -44,6 +44,6 @@ Fairhope City Council is playing Russian Roulette with the chamber full. If they
 
 Is this the “at large” council you voted for? It is the same council that continues to cost the city money on lawsuits, that they create or turn a blind eye too.
 
-{{< socialpreview url="https://rippreport.com/loser/" >}}
+{{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
 {{< chat rrrerun >}}
