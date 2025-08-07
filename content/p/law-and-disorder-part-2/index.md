@@ -3,7 +3,7 @@ title: "LAW and DisORDER - Part 2"
 date: 2018-08-29
 thumbnail: "img/law-and-disorder-part-2.jpg"
 categories: 
-  - wonderful-wednesday
+  - bcso
 authors: 
   - ripp-report
 ---
