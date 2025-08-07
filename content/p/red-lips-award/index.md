@@ -4,6 +4,7 @@ date: 2025-03-03
 thumbnail: "img/red-lips-award.png"
 categories: 
   - ivy
+  - alabama
 tags:
   - Veterans
   - Veterans Affairs
