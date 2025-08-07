@@ -31,4 +31,5 @@ Please share with your neighbors and encourage them to vote Aug 26th.
 
 <style>.cactus-comment:has(.cactus-comment-time[title="Thu Jul 03 22:49:03 2025 UTC"]) {display:none;}</style>
 
+{{< subscribe >}}
 {{< chat fhofh >}}

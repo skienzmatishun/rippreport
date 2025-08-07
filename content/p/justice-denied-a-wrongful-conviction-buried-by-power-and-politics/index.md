@@ -49,5 +49,5 @@ This is not just about a wrongful conviction. It is about a pattern of suppresse
 This is an egregious injustice. Murray Lawrence Jr has lost two decades of his life. If the media and public do not act now, he may never get the justice he is owed.
 
 
-
+{{< subscribe >}}
 {{< chat mlpr >}}

@@ -50,4 +50,6 @@ Captain Jack has an infamous reputation. The Publix Project, Triangle, The Airpo
 
 YOUR DECISION FAIRHOPE OR FAUXHOPE ?
 
+{{< subscribe >}}
+
 {{< chat pfrr >}}
