@@ -3,7 +3,7 @@ title: "WRONG BALL"
 date: 2018-03-09
 thumbnail: "img/wrong-ball.jpg"
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - catalyst
   - jeb-ball

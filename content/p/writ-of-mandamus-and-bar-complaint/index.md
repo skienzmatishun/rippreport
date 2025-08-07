@@ -8,6 +8,7 @@ tags:
   - Mabel Amos Trust
 categories: 
   - ethics
+  - alabama
 authors: 
   - admin
 ---

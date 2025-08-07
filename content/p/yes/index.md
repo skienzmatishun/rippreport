@@ -3,7 +3,7 @@ title: "YES"
 date: 2018-10-12
 thumbnail: "img/yes.png"
 categories: 
-  - freaky-friday
+  - elections
 authors: 
   - ripp-report
 ---

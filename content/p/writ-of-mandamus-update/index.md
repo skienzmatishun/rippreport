@@ -8,6 +8,7 @@ tags:
   - Albritton
 categories: 
   - ethics
+  - alabama
 authors: 
   - admin
 ---

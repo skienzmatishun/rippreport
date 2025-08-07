@@ -3,7 +3,7 @@ title: "WHO NOT TO VOTE FOR"
 date: 2017-05-19
 thumbnail: "img/who-not-to-vote-for.png"
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - burrell
   - catalyst

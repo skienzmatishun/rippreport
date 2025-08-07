@@ -3,7 +3,7 @@ title: "TINY STEPS"
 date: 2021-05-21
 thumbnail: "img/tiny-steps.png"
 categories: 
-  - freaky-friday
+  - alabama
 tags: 
   - alabama
   - board-of-education

@@ -7,7 +7,7 @@ tags:
   - Alabama AG
   - Steve Marshall
 categories: 
-  - freaky-friday
+  - alabama
 authors: 
   - admin
 ---

@@ -8,7 +8,7 @@ tags:
   - Jerry Carl
   - Matt McKenzie
 categories: 
-  - Elections
+  - elections
 authors: 
   - admin
 ---
