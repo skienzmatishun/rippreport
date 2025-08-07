@@ -6,7 +6,7 @@
 		<header class="post__header
 			{{ if in .Params.categories " backstory-podcast" }}backstory__header{{ end }} {{ if in .Params.categories "dwtd"
 			}}dwtd__header{{ end }} {{ if in .Params.categories "bcso" }}bcso__list__header{{ end }} {{ if in .Params.categories "repost" }}repost__header{{ end }}">
-			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} {{ if in .Params.categories "bcso" }}bcso__title{{ end }} {{ if in .Params.categories "repost" }}repost__title{{ end }} {{ if in .Params.categories "elections" }}elections__title{{ end }}">
+			<h1 class=" post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }} {{ if in .Params.categories "bcso" }}bcso__title{{ end }} {{ if in .Params.categories "repost" }}repost__title{{ end }} {{ if in .Params.categories "elections" }}elections__title{{ end }} {{ if in .Params.categories "alabama" }}alabama__title{{ end }}">
 				{{ .Title }}
 				{{ if in .Params.categories "repost" }}
 				<div class="repost__film-effect">
