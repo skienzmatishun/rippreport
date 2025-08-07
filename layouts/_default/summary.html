@@ -1,4 +1,4 @@
-<article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "bcso" }}bcso__post{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }}">
+<article class="list__item post {{ if in .Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in .Params.categories "bcso" }}bcso__post{{ end }} {{ if in .Params.categories "holiday" }}holiday{{ end }}{{ if in .Params.categories "repost" }}repost__article{{ end }}{{ if in .Params.categories "elections" }}elections__article{{ end }}">
     {{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
     <header class="list__header {{ if in .Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in .Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in .Params.categories "holiday" }}holiday__list__header{{ end }}">
         <h2 class="list__title post__title {{ if in .Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in .Params.categories "bcso" }}bcso__title{{ end }}{{ if in .Params.categories "holiday" }}holiday__title{{ end }}{{ if in .Params.categories "repost" }}repost__title{{ end }}{{ if in .Params.categories "elections" }}elections__title{{ end }}">
@@ -30,7 +30,7 @@
     </div>
     {{- if and .Site.Params.readmore (not (in .Params.categories "holiday")) }}
     <div class="list__footer clearfix">
-        <a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in .Params.categories "bcso" }}bcso__btn{{ end }}{{ if in .Params.categories "holiday" }}holiday__btn{{ end }}" href="{{ .RelPermalink }}">Read More</a>
+        <a class="list__footer-readmore btn {{ if in .Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in .Params.categories "bcso" }}bcso__btn{{ end }}{{ if in .Params.categories "holiday" }}holiday__btn{{ end }}{{ if in .Params.categories "repost" }}repost__btn{{ end }}{{ if in .Params.categories "elections" }}elections__btn{{ end }}" href="{{ .RelPermalink }}">Read More</a>
     </div>
     {{- end }}
 </article>
