@@ -3,7 +3,7 @@ title: "CRAZY"
 date: 2019-09-20
 thumbnail: "img/crazy.jpg"
 categories: 
-  - freaky-friday
+  - bcso
 authors: 
   - admin
 ---
