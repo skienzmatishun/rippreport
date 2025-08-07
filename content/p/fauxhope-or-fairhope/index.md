@@ -29,7 +29,7 @@ Please share with your neighbors and encourage them to vote Aug 26th.
 
 <img src="https://rippreport.com/cdn-cgi/image/width=750,quality=85,format=auto/img/candidates.jpg">
 
-<style>.cactus-comment:has(.cactus-comment-time[title="Thu Jul 03 22:49:03 2025 UTC"]) {display:none;}</style>
+<style>.cactus-comment:has(.cactus-comment-time[title="Thu Jul 03 22:49:03 2025 UTC"]), .cactus-comment:has(.cactus-comment-time[title="Thu Aug 07 17:18:15 2025 UTC"]) {display:none;}</style>
 
 {{< subscribe >}}
 {{< chat fhofh >}}
