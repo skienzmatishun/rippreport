@@ -31,7 +31,7 @@
   <div class="widget__content">
     <ul class="widget__list">
       {{- range first $recent_num $filteredRecent }}
-        <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ end }}">
+        <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ else if in .Params.categories "bcso" }}bcso__widget__item{{ else if in .Params.categories "elections" }}elections__widget__item{{ else if in .Params.categories "repost" }}repost__widget__item{{ end }}"></li>
           <a class="widget__link" href="{{ .RelPermalink }}">
             <h4>{{ .Title }}</h4>
             {{- if .Params.thumbnail }}
