@@ -1,5 +1,5 @@
 ---
-title: "$5000.00 CASH REWARD (Rerun)"
+title: "$5000.00 CASH REWARD"
 date: 2025-08-05
 thumbnail: "img/5000-00-cash-reward.jpg"
 categories: 
