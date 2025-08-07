@@ -4,6 +4,7 @@ date: 2025-03-14
 thumbnail: "img/go-to-hell-veterans.png"
 categories: 
   - ivy
+  - alabama
 tags: 
   - Ivey
   - Napoleon Bracy
