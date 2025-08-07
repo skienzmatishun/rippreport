@@ -35,7 +35,7 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content
 			{{ if in .Params.categories " backstory-podcast" }}backstory__content{{ end }} {{ if in .Params.categories "dwtd"
-			}}dwtd-wrapper{{ end }} clearfix">
+			}}dwtd-wrapper{{ end }} {{ if in .Params.categories "repost" }}repost__content{{ end }} clearfix">
 			{{ .Content }}
 		</div>
 		{{- if .Params.tags }}
