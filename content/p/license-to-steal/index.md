@@ -4,6 +4,7 @@ date: 2021-07-28
 thumbnail: "img/license-to-steal.jpg"
 categories: 
   - ethics
+  - alabama
 authors: 
   - admin
 ---

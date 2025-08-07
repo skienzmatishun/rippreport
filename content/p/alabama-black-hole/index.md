@@ -3,6 +3,7 @@ title: "ALABAMA BLACK HOLE"
 date: 2022-10-21
 categories: 
   - ethics
+  - alabama
 thumbnail: "/img/alabama-blackhole.png"
 authors: 
   - admin

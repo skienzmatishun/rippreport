@@ -4,6 +4,7 @@ date: 2017-08-02
 thumbnail: "img/alabama-ethics-a-political-tool.jpg"
 categories: 
   - ethics
+  - alabama
 tags: 
   - burrell
   - ethics-commission

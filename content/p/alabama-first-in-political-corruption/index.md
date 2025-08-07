@@ -3,7 +3,7 @@ title: "ALABAMA -  FIRST IN POLITICAL CORRUPTION"
 date: 2019-06-05
 thumbnail: "img/alabama-first-in-political-corruption.png"
 categories: 
-  - wonderful-wednesday
+  - alabama
 authors: 
   - admin
 ---

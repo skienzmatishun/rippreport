@@ -4,6 +4,7 @@ date: 2025-02-12
 thumbnail: "img/s_topXEXT1371x33798is.jpg"
 categories: 
   - ivy
+  - alabama
 authors: 
   - admin
 ---

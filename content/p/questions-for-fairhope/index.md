@@ -3,7 +3,7 @@ title: "QUESTIONS FOR FAIRHOPE"
 date: 2020-08-17
 thumbnail: "img/questions-for-fairhope.jpg"
 categories: 
-  - monday-madness
+  - elections
 tags: 
   - city-council
   - dyas-triangle

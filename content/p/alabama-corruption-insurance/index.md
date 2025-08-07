@@ -4,6 +4,7 @@ date: 2020-12-17
 thumbnail: "img/alabama-corruption-insurance.jpg"
 categories: 
   - ethics
+  - alabama
 tags: 
   - alabama
   - columbia

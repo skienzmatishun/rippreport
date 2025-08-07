@@ -3,7 +3,7 @@ title: "PEOPLE POWER"
 date: 2016-11-16
 thumbnail: "img/people-power.png"
 categories: 
-  - wonderful-wednesday
+  - elections
 tags: 
   - wilson
 authors: 

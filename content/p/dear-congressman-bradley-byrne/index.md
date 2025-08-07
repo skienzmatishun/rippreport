@@ -3,7 +3,7 @@ title: "Dear Congressman Bradley Byrne"
 date: 2016-06-03
 thumbnail: "img/dear-congressman-bradley-byrne.png"
 categories: 
-  - freaky-friday
+  - alabama
 tags: 
   - corte
   - kant

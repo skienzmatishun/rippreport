@@ -3,7 +3,7 @@ title: "ALABAMA SUICIDE"
 date: 2021-01-08
 thumbnail: "img/alabama-suicide.png"
 categories: 
-  - freaky-friday
+  - alabama
 tags: 
   - barry-moore
   - covid-19

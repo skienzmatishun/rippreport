@@ -11,6 +11,7 @@ tags:
   - Kent Davis
 categories: 
   - ethics
+  - alabama
 authors: 
   - admin
 ---

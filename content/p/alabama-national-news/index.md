@@ -3,7 +3,7 @@ title: "ALABAMA NATIONAL NEWS"
 date: 2019-05-15
 thumbnail: "img/alabama-national-news.jpg"
 categories: 
-  - wonderful-wednesday
+  - alabama
 tags: 
   - alabama
 authors: 

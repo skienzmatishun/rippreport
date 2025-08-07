@@ -3,6 +3,7 @@ title: "GO TO HELL ETHICS"
 date: 2023-01-28
 categories: 
   - ethics
+  - alabama
 thumbnail: "img/scale-flames.jpg"
 tags:
   - Ethics Commission

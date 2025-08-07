@@ -3,7 +3,7 @@ title: "ALABAMA SEC. OF STATE: \"THE ONLY ONE\""
 date: 2018-04-11
 thumbnail: "img/alabama-sec-of-state-the-only-one.jpg"
 categories: 
-  - wonderful-wednesday
+  - alabama
 tags: 
   - john-merrill
   - kant

@@ -3,7 +3,7 @@ title: "ALABAMA SHUFFLE"
 date: 2022-07-27
 thumbnail: "img/alabama-shuffle.png"
 categories: 
-  - freaky-friday
+  - alabama
 authors: 
   - admin
 ---

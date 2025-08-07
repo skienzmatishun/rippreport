@@ -7,7 +7,7 @@ tags:
   - Jack Burrell
   - Jerry Carl
 categories: 
-  - freaky-friday
+  - alabama
 authors: 
   - admin
 ---

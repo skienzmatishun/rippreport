@@ -7,7 +7,7 @@ tags:
   - Burrell
   - MPO
 categories: 
-  - elections
+  - alabama
 authors: 
   - admin
 ---

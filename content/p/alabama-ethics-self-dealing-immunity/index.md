@@ -4,6 +4,7 @@ date: 2021-07-02
 thumbnail: "img/alabama-ethics-self-dealing-immunity.png"
 categories: 
   - ethics
+  - alabama
 authors: 
   - admin
 ---

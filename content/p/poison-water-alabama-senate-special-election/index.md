@@ -3,7 +3,7 @@ title: "POISON WATER - Alabama Senate Special Election"
 date: 2017-06-07
 thumbnail: "img/poison-water-alabama-senate-special-election.png"
 categories: 
-  - wonderful-wednesday
+  - elections
 authors: 
   - ripp-report
 ---

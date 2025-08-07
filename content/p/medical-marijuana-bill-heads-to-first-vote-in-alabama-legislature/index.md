@@ -3,7 +3,7 @@ title: "Medical Marijuana Bill"
 date: 2020-02-19
 thumbnail: "img/medical-marijuana-bill.png"
 categories: 
-  - wonderful-wednesday
+  - alabama
 authors: 
   - admin
 ---

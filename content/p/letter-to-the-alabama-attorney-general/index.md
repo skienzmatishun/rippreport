@@ -7,7 +7,7 @@ tags:
   - Alabama AG
   - Albritton
 categories: 
-  - freaky-friday
+  - alabama
 authors: 
   - admin
 ---

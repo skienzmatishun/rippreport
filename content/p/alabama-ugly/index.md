@@ -3,7 +3,7 @@ title: "ALABAMA UGLY"
 date: 2021-09-10
 thumbnail: "img/alabama-ugly.png"
 categories: 
-  - freaky-friday
+  - alabama
 authors: 
   - admin
 ---

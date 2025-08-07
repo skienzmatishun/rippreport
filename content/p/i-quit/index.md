@@ -3,7 +3,7 @@ title: "I QUIT"
 date: 2021-02-26
 thumbnail: "img/i-quit.jpg"
 categories: 
-  - freaky-friday
+  - elections
 tags: 
   - brown
   - burrell
