@@ -71,7 +71,7 @@
             <div class="thumbnail__video">
               <img
 
-                class="thumbnail__image"
+                class="thumbnail__image{{ if in $page.Params.categories "repost" }} repost__thumbnail__image{{ end }}"
                 src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
               >
