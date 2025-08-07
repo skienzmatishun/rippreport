@@ -4,6 +4,7 @@ date: 2025-02-22
 thumbnail: "img/war.png"
 categories: 
   - ivy
+  - alabama
 authors: 
   - admin
 ---

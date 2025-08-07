@@ -4,6 +4,7 @@ date: 2025-02-23
 thumbnail: "img/veterans-rally.png"
 categories: 
   - ivy
+  - alabama
 authors: 
   - admin
 ---
