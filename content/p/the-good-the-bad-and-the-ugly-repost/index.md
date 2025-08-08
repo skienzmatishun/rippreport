@@ -43,7 +43,7 @@ If Mr Breland wins his lawsuit, and all his previous project permits expire, Fai
 
 ## FAIRHOPE THE UGLY
 
-{{< socialpreview url="<https://rippreport.com/p/communication/>" >}}
+{{< socialpreview url=<"https://rippreport.com/p/communication/"> >}}
 
 The charges against Ronan McSharry, McSharry Bar and Restaurant, were never heard on the scheduled date and the case has been delayed until March. This is the typical way many cases are handled, delay delay, appeal and then blame the victim or anyone else, other than the guilty party.
 
