@@ -226,42 +226,43 @@
     }
 
     extractCommentData(comment) {
-      // Extract the display name with multiple fallback methods
+      // Extract the display name - focus on the actual display name from the Name field
       let name = "Anonymous";
       
-      // Try multiple selectors for the display name
-      const displayNameElement = comment.querySelector(
-        ".cactus-comment-displayname"
-      );
+      // First, try to get the display name element
+      const displayNameElement = comment.querySelector(".cactus-comment-displayname");
       
       if (displayNameElement) {
-        // Get the text content, but clean it up
+        // Get the text content directly - this should be the display name from the Name field
         let nameText = displayNameElement.textContent.trim();
         
-        // If it's a link, try to get a better name from the href
-        if (displayNameElement.href) {
-          const urlParts = displayNameElement.href.split('/');
-          const lastPart = urlParts[urlParts.length - 1];
-          if (lastPart && lastPart !== '' && lastPart.length > 1) {
-            // Use the last part of the URL as the name if it looks valid
-            name = lastPart.replace(/[@#]/g, ''); // Remove @ and # symbols
-          } else if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
-            name = nameText;
-          }
-        } else if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
-          name = nameText;
+        // Clean up the name text and use it if it's valid
+        if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
+          // Remove any extra whitespace and special characters that might interfere
+          name = nameText.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
         }
       }
       
-      // If we still don't have a good name, try other methods
-      if (name === "Anonymous" || name.toLowerCase() === 'reply') {
-        // Try to find any element with user info
-        const userElements = comment.querySelectorAll('[class*="user"], [class*="name"], [class*="author"]');
-        for (let elem of userElements) {
-          const text = elem.textContent.trim();
-          if (text && text.length > 1 && text.toLowerCase() !== 'reply') {
-            name = text;
-            break;
+      // If we still don't have a good name, try alternative selectors
+      if (name === "Anonymous" || name.toLowerCase() === 'reply' || name.length === 0) {
+        // Try other possible selectors for the display name
+        const alternativeSelectors = [
+          '.cactus-comment-header .cactus-comment-displayname',
+          '.cactus-comment-content .cactus-comment-displayname', 
+          '[class*="displayname"]',
+          '[class*="username"]',
+          '.comment-author',
+          '.author-name'
+        ];
+        
+        for (let selector of alternativeSelectors) {
+          const element = comment.querySelector(selector);
+          if (element) {
+            let text = element.textContent.trim();
+            if (text && text.length > 0 && text.toLowerCase() !== 'reply') {
+              name = text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
+              break;
+            }
           }
         }
       }
