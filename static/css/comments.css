@@ -531,4 +531,44 @@
   background: rgb(64, 64, 64) !important;
 }
 
+/* Reply quote container styles */
+.reply-quote-container {
+  background: var(--cactus-background-color--strong) !important;
+  border-color: var(--cactus-border-color) !important;
+  color: var(--cactus-text-color) !important;
+}
+
+.reply-quote-container .quote-close-btn:hover {
+  color: #666 !important;
+}
+
+/* Dark mode adjustments for quote container */
+@media (prefers-color-scheme: dark) {
+  .reply-quote-container {
+    background: hsl(0, 0%, 15%) !important;
+    border-color: hsl(0, 0%, 25%) !important;
+  }
+  
+  .reply-quote-container .quote-close-btn {
+    color: #ccc !important;
+  }
+  
+  .reply-quote-container .quote-close-btn:hover {
+    color: #fff !important;
+  }
+}
+
+:root.dark .reply-quote-container {
+  background: hsl(0, 0%, 15%) !important;
+  border-color: hsl(0, 0%, 25%) !important;
+}
+
+:root.dark .reply-quote-container .quote-close-btn {
+  color: #ccc !important;
+}
+
+:root.dark .reply-quote-container .quote-close-btn:hover {
+  color: #fff !important;
+}
+
 

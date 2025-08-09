@@ -114,6 +114,8 @@
     constructor() {
       console.log("CactusReplySystem constructor called");
       this.replyButtons = new Map();
+      this.currentQuote = null;
+      this.quoteContainer = null;
       this.init();
     }
 
@@ -121,6 +123,7 @@
       console.log("Initializing reply system");
       this.waitForComments();
       this.setupMutationObserver();
+      this.createQuoteContainer();
     }
 
     waitForComments() {
@@ -294,49 +297,165 @@
     handleReplyClick(commentData) {
       console.log("Reply button clicked for:", commentData.name);
 
-      // Format the reply template with the original message in italics
-      const replyTemplate = this.formatReplyTemplate(commentData);
+      // Show the quote in the visual container
+      this.showQuote(commentData);
 
-      // Insert the reply template into the main comment textarea
-      this.insertReplyIntoMainForm(replyTemplate);
+      // Clear the textarea (don't put quote text in it)
+      this.clearMainTextarea();
 
       // Scroll to the main comment form
       this.scrollToMainForm();
     }
 
-    formatReplyTemplate(commentData) {
-      if (commentData.originalMessage) {
-        // Limit the original message to 200 characters
-        let truncatedMessage = commentData.originalMessage;
-        if (truncatedMessage.length > 200) {
-          truncatedMessage = truncatedMessage.substring(0, 200) + "...";
+    createQuoteContainer() {
+      // Wait for the cactus editor to be available
+      const checkForEditor = () => {
+        const cactusEditor = document.querySelector(".cactus-editor");
+        if (cactusEditor) {
+          this.quoteContainer = document.createElement("div");
+          this.quoteContainer.className = "reply-quote-container";
+          this.quoteContainer.style.cssText = `
+            display: none;
+            margin-bottom: 10px;
+            padding: 12px;
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-left: 4px solid #007cba;
+            border-radius: 4px;
+            font-size: 14px;
+            position: relative;
+          `;
+
+          // Insert before the textarea
+          const textarea = cactusEditor.querySelector(
+            ".cactus-editor-textarea"
+          );
+          if (textarea) {
+            cactusEditor.insertBefore(this.quoteContainer, textarea);
+          }
+        } else {
+          setTimeout(checkForEditor, 1000);
         }
-        return `**@Reply to ${commentData.name}:**\n*${truncatedMessage}*\n\n`;
-      } else {
-        return `**@Reply to ${commentData.name}:**\n\n`;
+      };
+      setTimeout(checkForEditor, 2000);
+    }
+
+    showQuote(commentData) {
+      if (!this.quoteContainer) return;
+
+      this.currentQuote = commentData;
+
+      // Limit the original message to 200 characters
+      let truncatedMessage =
+        commentData.originalMessage || "No message content";
+      if (truncatedMessage.length > 200) {
+        truncatedMessage = truncatedMessage.substring(0, 200) + "...";
+      }
+
+      this.quoteContainer.innerHTML = `
+        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+          <div>
+            <div style="font-weight: bold; color: #007cba; margin-bottom: 4px;">
+              Replying to ${commentData.name}:
+            </div>
+            <div style="font-style: italic; color: #666; line-height: 1.4;">
+              "${truncatedMessage}"
+            </div>
+          </div>
+          <button class="quote-close-btn" style="
+            background: none;
+            border: none;
+            font-size: 18px;
+            color: #999;
+            cursor: pointer;
+            padding: 0;
+            margin-left: 10px;
+            line-height: 1;
+          ">&times;</button>
+        </div>
+      `;
+
+      // Add close button functionality
+      const closeBtn = this.quoteContainer.querySelector(".quote-close-btn");
+      closeBtn.addEventListener("click", () => this.hideQuote());
+
+      this.quoteContainer.style.display = "block";
+    }
+
+    hideQuote() {
+      if (this.quoteContainer) {
+        this.quoteContainer.style.display = "none";
+        this.currentQuote = null;
       }
     }
 
-    insertReplyIntoMainForm(replyText) {
-      const mainTextarea = document.querySelector(
-        '.cactus-editor-textarea, .cactus-textarea, textarea[placeholder*="comment"], textarea[placeholder*="Comment"]'
-      );
-
+    clearMainTextarea() {
+      const mainTextarea = document.querySelector(".cactus-editor-textarea");
       if (mainTextarea) {
-        const currentValue = mainTextarea.value;
-        const newValue = currentValue
-          ? `${currentValue}\n\n${replyText}`
-          : replyText;
-        mainTextarea.value = newValue;
-
+        mainTextarea.value = "";
         const event = new Event("input", { bubbles: true });
         mainTextarea.dispatchEvent(event);
-      } else {
-        this.copyToClipboard(replyText);
-        alert(
-          "Reply copied to clipboard. Please paste it into the comment box."
-        );
       }
+    }
+
+    interceptSubmit() {
+      // Find the cactus editor and intercept form submission
+      const checkForEditor = () => {
+        const cactusEditor = document.querySelector(".cactus-editor");
+        const sendButton = document.querySelector(".cactus-send-button");
+
+        if (cactusEditor && sendButton && !sendButton.dataset.intercepted) {
+          sendButton.dataset.intercepted = "true";
+
+          sendButton.addEventListener("click", (e) => {
+            if (this.currentQuote) {
+              e.preventDefault();
+              this.handleSubmitWithQuote();
+            }
+          });
+        } else {
+          setTimeout(checkForEditor, 1000);
+        }
+      };
+      setTimeout(checkForEditor, 3000);
+    }
+
+    handleSubmitWithQuote() {
+      const mainTextarea = document.querySelector(".cactus-editor-textarea");
+      if (!mainTextarea || !this.currentQuote) return;
+
+      const userText = mainTextarea.value.trim();
+      const quoteText = this.formatQuoteForPost(this.currentQuote);
+
+      // Combine quote and user text
+      const finalText = quoteText + (userText ? `\n\n${userText}` : "");
+
+      // Set the combined text
+      mainTextarea.value = finalText;
+
+      // Trigger the input event
+      const event = new Event("input", { bubbles: true });
+      mainTextarea.dispatchEvent(event);
+
+      // Hide the quote container
+      this.hideQuote();
+
+      // Trigger the actual submit after a brief delay
+      setTimeout(() => {
+        const sendButton = document.querySelector(".cactus-send-button");
+        if (sendButton) {
+          sendButton.click();
+        }
+      }, 100);
+    }
+
+    formatQuoteForPost(commentData) {
+      let truncatedMessage =
+        commentData.originalMessage || "No message content";
+      if (truncatedMessage.length > 200) {
+        truncatedMessage = truncatedMessage.substring(0, 200) + "...";
+      }
+      return `**@Reply to ${commentData.name}:**\n*${truncatedMessage}*`;
     }
 
     scrollToMainForm() {
@@ -387,7 +506,8 @@
 
     if (cactusEditor && cactusTextarea) {
       console.log("Cactus is ready, creating CactusReplySystem instance");
-      new CactusReplySystem();
+      const replySystem = new CactusReplySystem();
+      replySystem.interceptSubmit();
     } else {
       console.log("Cactus not ready yet, retrying...");
       setTimeout(waitForCactusReady, 1000);
