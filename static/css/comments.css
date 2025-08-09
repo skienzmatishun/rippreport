@@ -597,4 +597,117 @@
   border-radius: 1px;
 }
 
+/* Quote Box Styles - Separate quote display above textarea */
+.cactus-quote-box {
+  background: rgba(0, 124, 186, 0.08);
+  border: 1px solid rgba(0, 124, 186, 0.2);
+  border-radius: 8px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  animation: slideDown 0.3s ease-out;
+}
+
+.cactus-quote-header {
+  background: rgba(0, 124, 186, 0.15);
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 1px solid rgba(0, 124, 186, 0.2);
+}
+
+.cactus-quote-icon {
+  font-size: 14px;
+}
+
+.cactus-quote-title {
+  flex: 1;
+  font-size: 13px;
+  color: #007cba;
+  font-weight: 500;
+}
+
+.cactus-quote-close {
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: #666;
+  cursor: pointer;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+
+.cactus-quote-close:hover {
+  background: rgba(255, 0, 0, 0.1);
+  color: #d32f2f;
+}
+
+.cactus-quote-content {
+  padding: 12px;
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--cactus-text-color--soft);
+  font-style: italic;
+  border-left: 3px solid #007cba;
+  margin-left: 8px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 0 4px 4px 0;
+}
+
+.cactus-quote-footer {
+  padding: 6px 12px;
+  background: rgba(0, 124, 186, 0.05);
+  border-top: 1px solid rgba(0, 124, 186, 0.1);
+  text-align: center;
+}
+
+.cactus-quote-footer small {
+  color: var(--cactus-text-color--soft);
+  font-size: 11px;
+}
+
+/* Animation for quote box appearance */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+    max-height: 0;
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    max-height: 200px;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+    max-height: 200px;
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-10px);
+    max-height: 0;
+  }
+}
+
+/* Dark mode adjustments for quote box */
+@media (prefers-color-scheme: dark) {
+  .cactus-quote-content {
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
+
+:root.dark .cactus-quote-content {
+  background: rgba(0, 0, 0, 0.3);
+}
+
 

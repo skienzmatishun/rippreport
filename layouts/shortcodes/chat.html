@@ -121,7 +121,88 @@
       console.log("Initializing reply system");
       this.waitForComments();
       this.setupMutationObserver();
+      this.setupCommentSubmissionHandler();
+
+      // Set up textarea listener after a delay to ensure cactus is ready
+      setTimeout(() => this.setupTextareaListener(), 3000);
     }
+
+    setupCommentSubmissionHandler() {
+      // Wait for cactus editor to be ready
+      const checkForEditor = () => {
+        const cactusEditor = document.querySelector(".cactus-editor");
+
+        if (cactusEditor) {
+          this.interceptCommentSubmission();
+        } else {
+          setTimeout(checkForEditor, 1000);
+        }
+      };
+
+      setTimeout(checkForEditor, 2000);
+    }
+
+    interceptCommentSubmission() {
+      const cactusEditor = document.querySelector(".cactus-editor");
+      if (!cactusEditor) return;
+
+      // Find the submit button
+      const submitButton = cactusEditor.querySelector(".cactus-send-button, .cactus-button");
+
+      if (submitButton) {
+        // Remove any existing listeners and add our own
+        const newSubmitButton = submitButton.cloneNode(true);
+        submitButton.parentNode.replaceChild(newSubmitButton, submitButton);
+
+        newSubmitButton.addEventListener("click", (e) => {
+          this.handleCommentSubmit(e);
+        });
+
+        console.log("Comment submission interceptor set up");
+      }
+    }
+
+    handleCommentSubmit(e) {
+      const quoteBox = document.getElementById("cactus-active-quote");
+      const textarea = document.querySelector(".cactus-editor-textarea");
+
+      if (quoteBox && textarea) {
+        // Get quote data
+        const quoteName = quoteBox.querySelector(".cactus-quote-title strong").textContent;
+        const quoteContent = quoteBox.querySelector(".cactus-quote-content").textContent;
+
+        // Get user's message
+        const userMessage = textarea.value.trim();
+
+        if (userMessage) {
+          // Format the final message with quote
+          const finalMessage = `**@Reply to ${quoteName}:**\n\n> ${quoteContent}\n\n---\n\n${userMessage}`;
+
+          // Update textarea with formatted message
+          textarea.value = finalMessage;
+
+          // Trigger input event
+          const inputEvent = new Event("input", { bubbles: true });
+          textarea.dispatchEvent(inputEvent);
+
+          // Hide quote box
+          this.hideQuoteBox();
+
+          console.log("Quote merged with user message");
+        } else {
+          // If no user message, prevent submission and show warning
+          e.preventDefault();
+          e.stopPropagation();
+          this.showNotification("Please enter your reply message", "warning");
+          return false;
+        }
+      }
+
+      // Let the original submission continue
+      return true;
+        if (cactusEditor) {
+          this.interceptCommentSubmission();
+
 
     waitForComments() {
       console.log("Waiting for comments to load");
@@ -287,61 +368,142 @@
     handleReplyClick(commentData) {
       console.log("Reply button clicked for:", commentData.name);
 
-      // Format the reply template with the original message in italics
-      const replyTemplate = this.formatReplyTemplate(commentData);
-
-      // Insert the reply template into the main comment textarea
-      this.insertReplyIntoMainForm(replyTemplate);
+      // Show the quote box instead of inserting text
+      this.showQuoteBox(commentData);
 
       // Scroll to the main comment form
       this.scrollToMainForm();
     }
 
-    formatReplyTemplate(commentData) {
-      if (commentData.originalMessage) {
-        // Limit the original message to 150 characters for better readability
-        let truncatedMessage = commentData.originalMessage;
-        if (truncatedMessage.length > 150) {
-          truncatedMessage = truncatedMessage.substring(0, 150) + "...";
-        }
+    showQuoteBox(commentData) {
+      // Remove any existing quote box
+      this.hideQuoteBox();
 
-        // Create a more visually distinct quote block
-        return `📝 **Replying to ${
-          commentData.name
-        }:**\n\n> ${truncatedMessage.replace(/\n/g, "\n> ")}\n\n---\n\n`;
-      } else {
-        return `📝 **Replying to ${commentData.name}:**\n\n---\n\n`;
+      // Find the cactus editor
+      const cactusEditor = document.querySelector(".cactus-editor");
+      if (!cactusEditor) {
+        this.showNotification("Could not find comment editor", "warning");
+        return;
+      }
+
+      // Create the quote box
+      const quoteBox = this.createQuoteBox(commentData);
+
+      // Insert the quote box before the textarea
+      const textarea = cactusEditor.querySelector(".cactus-editor-textarea");
+      if (textarea) {
+        cactusEditor.insertBefore(quoteBox, textarea);
+
+        // Focus the textarea
+        textarea.focus();
+
+        // Show notification
+        this.showNotification(`Replying to ${commentData.name}`);
       }
     }
 
-    insertReplyIntoMainForm(replyText) {
-      const mainTextarea = document.querySelector(
-        '.cactus-editor-textarea, .cactus-textarea, textarea[placeholder*="comment"], textarea[placeholder*="Comment"]'
-      );
+    createQuoteBox(commentData) {
+      const quoteContainer = document.createElement("div");
+      quoteContainer.className = "cactus-quote-box";
+      quoteContainer.id = "cactus-active-quote";
 
-      if (mainTextarea) {
-        const currentValue = mainTextarea.value;
-        const newValue = currentValue
-          ? `${currentValue}\n\n${replyText}`
-          : replyText;
-        mainTextarea.value = newValue;
+      // Truncate message for display
+      let displayMessage = commentData.originalMessage || "No message content";
+      if (displayMessage.length > 200) {
+        displayMessage = displayMessage.substring(0, 200) + "...";
+      }
 
-        // Trigger input event to notify cactus of the change
-        const event = new Event("input", { bubbles: true });
-        mainTextarea.dispatchEvent(event);
+      quoteContainer.innerHTML = `
+        <div class="cactus-quote-header">
+          <span class="cactus-quote-icon">💬</span>
+          <span class="cactus-quote-title">Replying to <strong>${commentData.name}</strong></span>
+          <button class="cactus-quote-close" title="Cancel reply">×</button>
+        </div>
+        <div class="cactus-quote-content">
+          "${displayMessage}"
+        </div>
+        <div class="cactus-quote-footer">
+          <small>💡 Your reply will be posted with this quote. Click × to cancel.</small>
+        </div>
+      `;
 
-        // Auto-resize textarea if needed
-        mainTextarea.style.height = "auto";
-        mainTextarea.style.height = mainTextarea.scrollHeight + "px";
+      // Add close button functionality
+      const closeButton = quoteContainer.querySelector(".cactus-quote-close");
+      closeButton.addEventListener("click", () => {
+        this.hideQuoteBox();
+      });
 
-        // Show a subtle notification
-        this.showNotification("Reply template added to comment box");
-      } else {
-        this.copyToClipboard(replyText);
-        this.showNotification(
-          "Reply copied to clipboard. Please paste it into the comment box.",
-          "warning"
-        );
+      return quoteContainer;
+    }
+
+    hideQuoteBox() {
+      const existingQuote = document.getElementById("cactus-active-quote");
+      if (existingQuote) {
+        existingQuote.style.animation = "slideUp 0.3s ease-in";
+        setTimeout(() => existingQuote.remove(), 300);
+      }
+    }
+
+    setupTextareaListener() {
+      const textarea = document.querySelector(".cactus-editor-textarea");
+      if (textarea) {
+        // Add listener to clear quote box when user starts typing a fresh comment
+        textarea.addEventListener("focus", () => {
+          // Only clear if textarea is empty (indicating a fresh comment, not editing)
+          if (!textarea.value.trim()) {
+            const quoteBox = document.getElementById("cactus-active-quote");
+            if (quoteBox) {
+              // Ask user if they want to cancel the reply
+              if (confirm("Cancel reply and start a new comment?")) {
+                this.hideQuoteBox();
+              }
+            }
+          }
+        });
+      }
+    }
+
+    // Modified to handle quote box data when submitting
+    interceptCommentSubmission() {
+      const cactusEditor = document.querySelector(".cactus-editor");
+      if (!cactusEditor) return;
+
+      const form = cactusEditor.closest("form") || cactusEditor.querySelector("form");
+      const submitButton = cactusEditor.querySelector(".cactus-send-button, .cactus-button");
+
+      if (submitButton) {
+        submitButton.addEventListener("click", (e) => {
+          this.handleCommentSubmit(e);
+        });
+      }
+    }
+
+    handleCommentSubmit(e) {
+      const quoteBox = document.getElementById("cactus-active-quote");
+      const textarea = document.querySelector(".cactus-editor-textarea");
+
+      if (quoteBox && textarea) {
+        // Get quote data
+        const quoteName = quoteBox.querySelector(".cactus-quote-title strong").textContent;
+        const quoteContent = quoteBox.querySelector(".cactus-quote-content").textContent;
+
+        // Get user's message
+        const userMessage = textarea.value.trim();
+
+        if (userMessage) {
+          // Format the final message with quote
+          const finalMessage = `**@Reply to ${quoteName}:**\n\n> ${quoteContent}\n\n---\n\n${userMessage}`;
+
+          // Update textarea with formatted message
+          textarea.value = finalMessage;
+
+          // Trigger input event
+          const event = new Event("input", { bubbles: true });
+          textarea.dispatchEvent(event);
+
+          // Hide quote box
+          this.hideQuoteBox();
+        }
       }
     }
 
@@ -456,7 +618,7 @@
 
     if (cactusEditor && cactusTextarea) {
       console.log("Cactus is ready, creating CactusReplySystem instance");
-      new CactusReplySystem();
+      window.cactusReplySystem = new CactusReplySystem();
     } else {
       console.log("Cactus not ready yet, retrying...");
       setTimeout(waitForCactusReady, 1000);
