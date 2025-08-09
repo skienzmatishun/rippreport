@@ -5,9 +5,9 @@ thumbnail: "img/surrender.png"
 tags:
   - McSharry
   - Mayor Wilson
-categories: 
+categories:
   - saturday-sunshine
-authors: 
+authors:
   - admin
 ---
 
@@ -31,4 +31,3 @@ One very positive note is that Paula DiNardi’s attorney waived her attorney fe
 
 The justice system in Fairhope failed Paula, however they underestimated her fierce determination for justice. Justice sometimes is money but one thing is for sure Paula WON in the Court of Public Opinion.
 
-{{< chat testing >}}
