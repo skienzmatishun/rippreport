@@ -179,7 +179,7 @@
       console.log(`Adding reply buttons to ${comments.length} comments`);
 
       comments.forEach((comment, index) => {
-        const commentData = this.extractCommentData(comment);
+        const commentData = this.extractCommentData(comment, index);
         console.log(
           `Comment ${index}: name = ${commentData.name}, timestamp = ${commentData.timestamp}`
         );
@@ -225,7 +225,7 @@
       });
     }
 
-    extractCommentData(comment) {
+    extractCommentData(comment, index = 0) {
       // Extract the display name - focus on the actual display name from the Name field
       let name = "Anonymous";
       
@@ -311,20 +311,29 @@
         }
       }
       
-      // Final fallback for timestamp
-      if (!timestamp) {
+      // Create a unique identifier using position and content to ensure every comment gets a unique ID
+      let uniqueId;
+      
+      // Always include the index to ensure uniqueness
+      const baseId = `comment_${index}`;
+      
+      if (timestamp) {
+        // Combine position, timestamp, and content hash
+        const contentHash = this.generateHash(name + originalMessage + comment.textContent.trim());
+        uniqueId = `${baseId}_${timestamp}_${contentHash}`;
+      } else {
         const commentId = comment.id || comment.dataset.id;
         if (commentId) {
-          timestamp = commentId;
+          uniqueId = `${baseId}_${commentId}`;
         } else {
-          // Use a combination of name and message content for uniqueness
-          const content = name + originalMessage + comment.textContent.trim();
-          timestamp = this.generateHash(content);
+          // Use position and content hash
+          const contentHash = this.generateHash(name + originalMessage + comment.textContent.trim());
+          uniqueId = `${baseId}_${contentHash}`;
         }
       }
 
-      console.log(`Extracted comment data: name="${name}", timestamp="${timestamp}", message="${originalMessage.substring(0, 50)}..."`);
-      return { name, timestamp, originalMessage };
+      console.log(`Extracted comment data: name="${name}", uniqueId="${uniqueId}", message="${originalMessage.substring(0, 50)}..."`);
+      return { name, timestamp: uniqueId, originalMessage };
     }
 
     generateHash(str) {
