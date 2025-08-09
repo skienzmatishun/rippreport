@@ -454,9 +454,6 @@
 
       this.currentQuote = commentData;
 
-      // Get the user's color from their comment
-      const userColor = this.getUserColor(commentData);
-
       // Limit the original message to 200 characters
       let truncatedMessage =
         commentData.originalMessage || "No message content";
@@ -485,7 +482,7 @@
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
               ">REPLY MODE</span>
-              <span>Replying to <span style="color: ${userColor}; font-weight: bold;">${commentData.name}</span></span>
+              <span>Replying to ${commentData.name}</span>
             </div>
             <div style="
               font-style: italic; 
@@ -494,7 +491,7 @@
               padding: 8px;
               background: rgba(0, 124, 186, 0.05);
               border-radius: 4px;
-              border-left: 3px solid ${userColor};
+              border-left: 3px solid #007cba;
             ">
               "${truncatedMessage}"
             </div>
@@ -555,13 +552,16 @@
       if (!cactusEditor || !textarea) return;
 
       if (isReplyMode && this.currentQuote) {
+        // Get the user's color from their comment
+        const userColor = this.getUserColor(this.currentQuote);
+        
         // Add reply mode styling
         cactusEditor.classList.add("reply-mode");
         textarea.placeholder = `Write your reply to ${this.currentQuote.name} here...`;
         
-        // Add subtle glow effect
-        textarea.style.boxShadow = "0 0 0 2px rgba(0, 124, 186, 0.2)";
-        textarea.style.borderColor = "#007cba";
+        // Add glow effect with the user's color
+        textarea.style.boxShadow = `0 0 0 2px ${userColor}40`; // 40 is hex for 25% opacity
+        textarea.style.borderColor = userColor;
         
       } else {
         // Remove reply mode styling
