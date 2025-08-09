@@ -646,6 +646,30 @@
               this.handleSubmitWithQuote();
             }
           });
+
+          // Also listen for when the textarea gets cleared (indicates successful submission)
+          const textarea = cactusEditor.querySelector(".cactus-editor-textarea");
+          if (textarea) {
+            const observer = new MutationObserver(() => {
+              // If textarea is empty and we're in reply mode, clear it
+              if (textarea.value === "" && this.currentQuote) {
+                console.log("Textarea cleared, ending reply mode");
+                setTimeout(() => {
+                  this.hideQuote();
+                }, 500);
+              }
+            });
+
+            // Observe changes to the textarea value
+            textarea.addEventListener("input", () => {
+              if (textarea.value === "" && this.currentQuote) {
+                console.log("Textarea cleared via input event, ending reply mode");
+                setTimeout(() => {
+                  this.hideQuote();
+                }, 500);
+              }
+            });
+          }
         } else {
           setTimeout(checkForEditor, 1000);
         }
@@ -678,16 +702,21 @@
       const event = new Event("input", { bubbles: true });
       mainTextarea.dispatchEvent(event);
 
-      // Hide the quote container
-      this.hideQuote();
-
-      // Trigger the actual submit after a brief delay
-      setTimeout(() => {
-        const sendButton = document.querySelector(".cactus-send-button");
-        if (sendButton) {
-          sendButton.click();
-        }
-      }, 100);
+      // Trigger the actual submit
+      const sendButton = document.querySelector(".cactus-send-button");
+      if (sendButton) {
+        sendButton.click();
+        
+        // Clear reply mode after submission with a longer delay to ensure it processes
+        setTimeout(() => {
+          this.hideQuote();
+          this.clearMainTextarea();
+          console.log("Reply mode cleared after submission");
+        }, 1000);
+      } else {
+        // If no send button found, clear immediately
+        this.hideQuote();
+      }
     }
 
     formatQuoteForPost(commentData) {
