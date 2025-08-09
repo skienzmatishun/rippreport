@@ -261,30 +261,23 @@
     createReplyButton(commentData) {
       const button = document.createElement("button");
       button.className = "cactus-reply-button";
-      button.textContent = "Reply";
-      button.style.cssText = `
-            background: #007cba;
-            color: white;
-            border: none;
-            padding: 4px 8px;
-            border-radius: 3px;
-            font-size: 12px;
-            cursor: pointer;
-            margin-top: 8px;
-            margin-right: 8px;
-            transition: background-color 0.2s;
-        `;
-
-      button.addEventListener("mouseenter", () => {
-        button.style.backgroundColor = "#005a87";
-      });
-
-      button.addEventListener("mouseleave", () => {
-        button.style.backgroundColor = "#007cba";
-      });
+      button.innerHTML = "↩️ Reply";
+      button.title = `Reply to ${commentData.name}`;
 
       button.addEventListener("click", (e) => {
         e.preventDefault();
+
+        // Visual feedback
+        const originalText = button.innerHTML;
+        button.innerHTML = "✓ Added to comment";
+        button.style.background = "#28a745";
+
+        // Reset after 2 seconds
+        setTimeout(() => {
+          button.innerHTML = originalText;
+          button.style.background = "";
+        }, 2000);
+
         this.handleReplyClick(commentData);
       });
 
@@ -306,14 +299,18 @@
 
     formatReplyTemplate(commentData) {
       if (commentData.originalMessage) {
-        // Limit the original message to 200 characters
+        // Limit the original message to 150 characters for better readability
         let truncatedMessage = commentData.originalMessage;
-        if (truncatedMessage.length > 200) {
-          truncatedMessage = truncatedMessage.substring(0, 200) + "...";
+        if (truncatedMessage.length > 150) {
+          truncatedMessage = truncatedMessage.substring(0, 150) + "...";
         }
-        return `**@Reply to ${commentData.name}:**\n*${truncatedMessage}*\n\n`;
+
+        // Create a more visually distinct quote block
+        return `📝 **Replying to ${
+          commentData.name
+        }:**\n\n> ${truncatedMessage.replace(/\n/g, "\n> ")}\n\n---\n\n`;
       } else {
-        return `**@Reply to ${commentData.name}:**\n\n`;
+        return `📝 **Replying to ${commentData.name}:**\n\n---\n\n`;
       }
     }
 
@@ -329,12 +326,21 @@
           : replyText;
         mainTextarea.value = newValue;
 
+        // Trigger input event to notify cactus of the change
         const event = new Event("input", { bubbles: true });
         mainTextarea.dispatchEvent(event);
+
+        // Auto-resize textarea if needed
+        mainTextarea.style.height = "auto";
+        mainTextarea.style.height = mainTextarea.scrollHeight + "px";
+
+        // Show a subtle notification
+        this.showNotification("Reply template added to comment box");
       } else {
         this.copyToClipboard(replyText);
-        alert(
-          "Reply copied to clipboard. Please paste it into the comment box."
+        this.showNotification(
+          "Reply copied to clipboard. Please paste it into the comment box.",
+          "warning"
         );
       }
     }
@@ -346,11 +352,74 @@
       console.log("Scrolling to main form:", mainForm);
       if (mainForm) {
         mainForm.scrollIntoView({ behavior: "smooth", block: "center" });
-        // Focus the textarea after scrolling
-        setTimeout(() => mainForm.focus(), 100);
+
+        // Focus the textarea and position cursor at the end after scrolling
+        setTimeout(() => {
+          mainForm.focus();
+          // Position cursor at the end of the text
+          const textLength = mainForm.value.length;
+          mainForm.setSelectionRange(textLength, textLength);
+        }, 500);
       } else {
         console.log("Could not find .cactus-editor-textarea to scroll to");
       }
+    }
+
+    showNotification(message, type = "success") {
+      // Remove any existing notifications
+      const existingNotification = document.querySelector(
+        ".cactus-reply-notification"
+      );
+      if (existingNotification) {
+        existingNotification.remove();
+      }
+
+      const notification = document.createElement("div");
+      notification.className = "cactus-reply-notification";
+      notification.textContent = message;
+
+      const bgColor = type === "success" ? "#28a745" : "#ffc107";
+      const textColor = type === "success" ? "white" : "#212529";
+
+      notification.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: ${bgColor};
+        color: ${textColor};
+        padding: 12px 20px;
+        border-radius: 6px;
+        font-size: 14px;
+        font-weight: 500;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        z-index: 10000;
+        animation: slideInRight 0.3s ease-out;
+      `;
+
+      // Add animation keyframes if not already added
+      if (!document.querySelector("#reply-notification-styles")) {
+        const style = document.createElement("style");
+        style.id = "reply-notification-styles";
+        style.textContent = `
+          @keyframes slideInRight {
+            from { transform: translateX(100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+          }
+          @keyframes slideOutRight {
+            from { transform: translateX(0); opacity: 1; }
+            to { transform: translateX(100%); opacity: 0; }
+          }
+        `;
+        document.head.appendChild(style);
+      }
+
+      document.body.appendChild(notification);
+
+      // Auto-remove after 3 seconds
+      setTimeout(() => {
+        notification.style.animation = "slideOutRight 0.3s ease-in";
+        setTimeout(() => notification.remove(), 300);
+      }, 3000);
     }
 
     copyToClipboard(text) {
@@ -396,4 +465,61 @@
 
   // Start checking after a delay to let cactus initialize
   setTimeout(waitForCactusReady, 5000);
+
+  // Function to style quote blocks in comments
+  function styleQuoteBlocks() {
+    document
+      .querySelectorAll(".cactus-comment-body, .cactus-message-text")
+      .forEach((element) => {
+        const paragraphs = element.querySelectorAll("p");
+        paragraphs.forEach((p) => {
+          const text = p.textContent.trim();
+          // Check if paragraph starts with > (markdown quote)
+          if (text.startsWith(">")) {
+            p.style.cssText = `
+            background: rgba(0, 124, 186, 0.05);
+            border-left: 4px solid #007cba;
+            padding: 8px 12px;
+            margin: 8px 0;
+            border-radius: 0 4px 4px 0;
+            font-style: italic;
+            color: var(--cactus-text-color--soft);
+          `;
+            // Remove the > character for cleaner display
+            p.textContent = text.substring(1).trim();
+          }
+        });
+      });
+  }
+
+  // Apply quote styling when comments load
+  const quoteObserver = new MutationObserver((mutations) => {
+    let shouldStyle = false;
+    mutations.forEach((mutation) => {
+      if (mutation.addedNodes.length > 0) {
+        mutation.addedNodes.forEach((node) => {
+          if (
+            node.nodeType === 1 &&
+            (node.classList?.contains("cactus-comment") ||
+              node.querySelector?.(".cactus-comment"))
+          ) {
+            shouldStyle = true;
+          }
+        });
+      }
+    });
+
+    if (shouldStyle) {
+      setTimeout(styleQuoteBlocks, 100);
+    }
+  });
+
+  // Start observing for quote styling
+  const commentSection = document.querySelector("#comment-section");
+  if (commentSection) {
+    quoteObserver.observe(commentSection, { childList: true, subtree: true });
+  }
+
+  // Apply initial quote styling
+  setTimeout(styleQuoteBlocks, 6000);
 </script>
