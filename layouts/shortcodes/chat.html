@@ -228,6 +228,7 @@
     extractCommentData(comment, index = 0) {
       // Extract the display name - focus on the actual display name from the Name field
       let name = "Anonymous";
+      let matrixUsername = null;
       
       // First, try to get the display name element
       const displayNameElement = comment.querySelector(".cactus-comment-displayname");
@@ -235,6 +236,11 @@
       if (displayNameElement) {
         // Get the text content directly - this should be the display name from the Name field
         let nameText = displayNameElement.textContent.trim();
+        
+        // Also extract the Matrix username from the href for unique identification
+        if (displayNameElement.href) {
+          matrixUsername = displayNameElement.href.split("/").pop();
+        }
         
         // Clean up the name text and use it if it's valid
         if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
@@ -261,6 +267,11 @@
             let text = element.textContent.trim();
             if (text && text.length > 0 && text.toLowerCase() !== 'reply') {
               name = text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
+              
+              // Also try to get Matrix username from this element
+              if (element.href && !matrixUsername) {
+                matrixUsername = element.href.split("/").pop();
+              }
               break;
             }
           }
@@ -332,8 +343,8 @@
         }
       }
 
-      console.log(`Extracted comment data: name="${name}", uniqueId="${uniqueId}", message="${originalMessage.substring(0, 50)}..."`);
-      return { name, timestamp: uniqueId, originalMessage };
+      console.log(`Extracted comment data: name="${name}", matrixUsername="${matrixUsername}", uniqueId="${uniqueId}", message="${originalMessage.substring(0, 50)}..."`);
+      return { name, matrixUsername, timestamp: uniqueId, originalMessage };
     }
 
     generateHash(str) {
@@ -403,36 +414,47 @@
     }
 
     getUserColor(commentData) {
-      console.log("Getting color for user:", commentData.name);
+      console.log("Getting color for user:", commentData.name, "Matrix username:", commentData.matrixUsername);
       
-      // Find the comment that matches this data to get its border color
+      // Find the comment that matches this data using the unique Matrix username
       const comments = document.querySelectorAll(".cactus-comment");
       for (let comment of comments) {
         const displayNameElement = comment.querySelector(".cactus-comment-displayname");
-        if (displayNameElement && displayNameElement.textContent.trim() === commentData.name) {
-          console.log("Found matching comment for:", commentData.name);
+        if (displayNameElement && displayNameElement.href) {
+          const commentMatrixUsername = displayNameElement.href.split("/").pop();
           
-          // Try to get the computed border color
-          const computedStyle = window.getComputedStyle(comment);
-          const borderColor = computedStyle.borderLeftColor;
-          
-          if (borderColor && borderColor !== 'rgba(0, 0, 0, 0)' && borderColor !== 'transparent') {
-            console.log("Found border color:", borderColor);
-            return borderColor;
-          }
-          
-          // If no computed border color, calculate it from the username
-          const username = displayNameElement.href.split("/").pop();
-          if (username) {
-            const calculatedColor = getColorForUsername(username);
-            console.log("Calculated color from username:", calculatedColor);
-            return calculatedColor;
+          // Match by Matrix username (unique) instead of display name (not unique)
+          if (commentMatrixUsername === commentData.matrixUsername) {
+            console.log("Found matching comment by Matrix username:", commentMatrixUsername);
+            
+            // Try to get the computed border color
+            const computedStyle = window.getComputedStyle(comment);
+            const borderColor = computedStyle.borderLeftColor;
+            
+            if (borderColor && borderColor !== 'rgba(0, 0, 0, 0)' && borderColor !== 'transparent') {
+              console.log("Found border color:", borderColor);
+              return borderColor;
+            }
+            
+            // If no computed border color, calculate it from the Matrix username
+            if (commentMatrixUsername) {
+              const calculatedColor = getColorForUsername(commentMatrixUsername);
+              console.log("Calculated color from Matrix username:", calculatedColor);
+              return calculatedColor;
+            }
           }
         }
       }
       
+      // Fallback: if we have a Matrix username, calculate color from it
+      if (commentData.matrixUsername) {
+        const fallbackColor = getColorForUsername(commentData.matrixUsername);
+        console.log("Using fallback color from Matrix username:", fallbackColor);
+        return fallbackColor;
+      }
+      
       console.log("No matching comment found, using default color");
-      // Fallback: return default blue color
+      // Final fallback: return default blue color
       return "#007cba";
     }
 
