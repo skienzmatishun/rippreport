@@ -55,12 +55,6 @@
         // Get and set the border-left color based on the username
         const borderColor = getColorForUsername(username);
         comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
-        
-        // Also set the username color to match the border color
-        if (displayNameLink) {
-          displayNameLink.style.color = borderColor;
-          displayNameLink.style.fontWeight = "bold";
-        }
       }
     });
   }
