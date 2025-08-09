@@ -559,18 +559,20 @@
         cactusEditor.classList.add("reply-mode");
         textarea.placeholder = `Write your reply to ${this.currentQuote.name} here...`;
         
-        // Add glow effect with the user's color
+        // Add glow effect with the user's color and remove default focus styles
         textarea.style.boxShadow = `0 0 0 2px ${userColor}40`; // 40 is hex for 25% opacity
         textarea.style.borderColor = userColor;
+        textarea.style.outline = "none"; // Remove default focus outline
         
       } else {
         // Remove reply mode styling
         cactusEditor.classList.remove("reply-mode");
         textarea.placeholder = "Leave a comment";
         
-        // Remove glow effect
+        // Remove glow effect and reset outline
         textarea.style.boxShadow = "";
         textarea.style.borderColor = "";
+        textarea.style.outline = ""; // Reset outline
       }
     }
 

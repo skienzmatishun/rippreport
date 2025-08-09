@@ -642,4 +642,14 @@
   box-shadow: 0 2px 8px rgba(0, 124, 186, 0.2);
 }
 
+/* Remove unwanted focus styles from textarea in reply mode */
+.cactus-editor.reply-mode .cactus-editor-textarea:focus {
+  outline: none !important;
+  border-color: inherit !important;
+}
+
+.cactus-editor-textarea:focus {
+  outline: none !important;
+}
+
 
