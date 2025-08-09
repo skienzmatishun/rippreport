@@ -403,25 +403,35 @@
     }
 
     getUserColor(commentData) {
+      console.log("Getting color for user:", commentData.name);
+      
       // Find the comment that matches this data to get its border color
       const comments = document.querySelectorAll(".cactus-comment");
       for (let comment of comments) {
         const displayNameElement = comment.querySelector(".cactus-comment-displayname");
         if (displayNameElement && displayNameElement.textContent.trim() === commentData.name) {
-          // Get the border-left color from the comment
-          const borderColor = comment.style.borderLeftColor;
-          if (borderColor) {
+          console.log("Found matching comment for:", commentData.name);
+          
+          // Try to get the computed border color
+          const computedStyle = window.getComputedStyle(comment);
+          const borderColor = computedStyle.borderLeftColor;
+          
+          if (borderColor && borderColor !== 'rgba(0, 0, 0, 0)' && borderColor !== 'transparent') {
+            console.log("Found border color:", borderColor);
             return borderColor;
           }
           
-          // If no border color is set, calculate it from the username
+          // If no computed border color, calculate it from the username
           const username = displayNameElement.href.split("/").pop();
           if (username) {
-            return getColorForUsername(username);
+            const calculatedColor = getColorForUsername(username);
+            console.log("Calculated color from username:", calculatedColor);
+            return calculatedColor;
           }
         }
       }
       
+      console.log("No matching comment found, using default color");
       // Fallback: return default blue color
       return "#007cba";
     }
