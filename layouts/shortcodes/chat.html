@@ -354,38 +354,111 @@
 
       this.quoteContainer.innerHTML = `
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-          <div>
-            <div style="font-weight: bold; color: #007cba; margin-bottom: 4px;">
-              Replying to ${commentData.name}:
+          <div style="flex: 1;">
+            <div style="
+              display: flex; 
+              align-items: center; 
+              gap: 8px; 
+              margin-bottom: 8px;
+              font-weight: bold; 
+              color: #007cba; 
+              font-size: 16px;
+            ">
+              <span style="
+                background: #007cba;
+                color: white;
+                padding: 2px 8px;
+                border-radius: 12px;
+                font-size: 12px;
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+              ">REPLY MODE</span>
+              <span>Replying to ${commentData.name}</span>
             </div>
-            <div style="font-style: italic; color: #666; line-height: 1.4;">
+            <div style="
+              font-style: italic; 
+              color: #666; 
+              line-height: 1.4;
+              padding: 8px;
+              background: rgba(0, 124, 186, 0.05);
+              border-radius: 4px;
+              border-left: 3px solid #007cba;
+            ">
               "${truncatedMessage}"
             </div>
           </div>
           <button class="quote-close-btn" style="
             background: none;
             border: none;
-            font-size: 18px;
+            font-size: 20px;
             color: #999;
             cursor: pointer;
-            padding: 0;
+            padding: 4px;
             margin-left: 10px;
             line-height: 1;
-          ">&times;</button>
+            border-radius: 50%;
+            width: 28px;
+            height: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+          " title="Cancel reply">&times;</button>
         </div>
       `;
 
       // Add close button functionality
       const closeBtn = this.quoteContainer.querySelector(".quote-close-btn");
       closeBtn.addEventListener("click", () => this.hideQuote());
+      
+      // Add hover effect to close button
+      closeBtn.addEventListener("mouseenter", () => {
+        closeBtn.style.backgroundColor = "rgba(255, 0, 0, 0.1)";
+        closeBtn.style.color = "#ff4444";
+      });
+      
+      closeBtn.addEventListener("mouseleave", () => {
+        closeBtn.style.backgroundColor = "transparent";
+        closeBtn.style.color = "#999";
+      });
 
       this.quoteContainer.style.display = "block";
+      
+      // Add visual indication to the editor
+      this.setReplyMode(true);
     }
 
     hideQuote() {
       if (this.quoteContainer) {
         this.quoteContainer.style.display = "none";
         this.currentQuote = null;
+        this.setReplyMode(false);
+      }
+    }
+
+    setReplyMode(isReplyMode) {
+      const cactusEditor = document.querySelector(".cactus-editor");
+      const textarea = document.querySelector(".cactus-editor-textarea");
+      
+      if (!cactusEditor || !textarea) return;
+
+      if (isReplyMode) {
+        // Add reply mode styling
+        cactusEditor.classList.add("reply-mode");
+        textarea.placeholder = "Write your reply here...";
+        
+        // Add subtle glow effect
+        textarea.style.boxShadow = "0 0 0 2px rgba(0, 124, 186, 0.2)";
+        textarea.style.borderColor = "#007cba";
+        
+      } else {
+        // Remove reply mode styling
+        cactusEditor.classList.remove("reply-mode");
+        textarea.placeholder = "Leave a comment";
+        
+        // Remove glow effect
+        textarea.style.boxShadow = "";
+        textarea.style.borderColor = "";
       }
     }
 
@@ -425,10 +498,18 @@
       if (!mainTextarea || !this.currentQuote) return;
 
       const userText = mainTextarea.value.trim();
+      
+      // Don't allow empty replies
+      if (!userText) {
+        alert("Please write a reply before posting.");
+        mainTextarea.focus();
+        return;
+      }
+
       const quoteText = this.formatQuoteForPost(this.currentQuote);
 
       // Combine quote and user text
-      const finalText = quoteText + (userText ? `\n\n${userText}` : "");
+      const finalText = quoteText + `\n\n${userText}`;
 
       // Set the combined text
       mainTextarea.value = finalText;

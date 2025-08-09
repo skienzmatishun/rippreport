@@ -571,4 +571,75 @@
   color: #fff !important;
 }
 
+/* Reply mode styling */
+.cactus-editor.reply-mode {
+  position: relative;
+  background: rgba(0, 124, 186, 0.02);
+  border-radius: 8px;
+  padding: 8px;
+  border: 1px solid rgba(0, 124, 186, 0.1);
+  transition: all 0.3s ease;
+}
+
+.cactus-editor.reply-mode::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg, #007cba, #005a87, #007cba);
+  border-radius: 10px;
+  z-index: -1;
+  opacity: 0.1;
+  animation: replyGlow 2s ease-in-out infinite alternate;
+}
+
+@keyframes replyGlow {
+  0% {
+    opacity: 0.05;
+  }
+  100% {
+    opacity: 0.15;
+  }
+}
+
+/* Enhanced quote container styling */
+.reply-quote-container {
+  animation: slideDown 0.3s ease-out;
+  box-shadow: 0 2px 8px rgba(0, 124, 186, 0.1);
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Dark mode adjustments for reply mode */
+@media (prefers-color-scheme: dark) {
+  .cactus-editor.reply-mode {
+    background: rgba(0, 124, 186, 0.05);
+    border-color: rgba(0, 124, 186, 0.2);
+  }
+  
+  .reply-quote-container {
+    box-shadow: 0 2px 8px rgba(0, 124, 186, 0.2);
+  }
+}
+
+:root.dark .cactus-editor.reply-mode {
+  background: rgba(0, 124, 186, 0.05);
+  border-color: rgba(0, 124, 186, 0.2);
+}
+
+:root.dark .reply-quote-container {
+  box-shadow: 0 2px 8px rgba(0, 124, 186, 0.2);
+}
+
 
