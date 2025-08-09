@@ -382,14 +382,24 @@
     handleReplyClick(commentData) {
       console.log("Reply button clicked for:", commentData.name);
 
-      // Show the quote in the visual container
-      this.showQuote(commentData);
-
-      // Clear the textarea (don't put quote text in it)
-      this.clearMainTextarea();
-
-      // Scroll to the main comment form
-      this.scrollToMainForm();
+      // Ensure quote container exists before trying to show quote
+      if (!this.quoteContainer) {
+        console.log("Quote container not ready, creating it now...");
+        this.createQuoteContainer();
+        // Wait a bit for container to be created, then try again
+        setTimeout(() => {
+          this.showQuote(commentData);
+          this.clearMainTextarea();
+          this.scrollToMainForm();
+        }, 100);
+      } else {
+        // Show the quote in the visual container
+        this.showQuote(commentData);
+        // Clear the textarea (don't put quote text in it)
+        this.clearMainTextarea();
+        // Scroll to the main comment form
+        this.scrollToMainForm();
+      }
     }
 
     getUserColor(commentData) {
@@ -417,10 +427,13 @@
     }
 
     createQuoteContainer() {
+      // Don't create if it already exists
+      if (this.quoteContainer) return;
+      
       // Wait for the cactus editor to be available
       const checkForEditor = () => {
         const cactusEditor = document.querySelector(".cactus-editor");
-        if (cactusEditor) {
+        if (cactusEditor && !this.quoteContainer) {
           this.quoteContainer = document.createElement("div");
           this.quoteContainer.className = "reply-quote-container";
           this.quoteContainer.style.cssText = `
@@ -441,12 +454,13 @@
           );
           if (textarea) {
             cactusEditor.insertBefore(this.quoteContainer, textarea);
+            console.log("Quote container created and inserted");
           }
-        } else {
-          setTimeout(checkForEditor, 1000);
+        } else if (!cactusEditor) {
+          setTimeout(checkForEditor, 500);
         }
       };
-      setTimeout(checkForEditor, 2000);
+      checkForEditor();
     }
 
     showQuote(commentData) {
@@ -560,7 +574,7 @@
         textarea.placeholder = `Write your reply to ${this.currentQuote.name} here...`;
         
         // Add glow effect with the user's color and remove default focus styles
-        textarea.style.boxShadow = `0 0 0 2px ${userColor}40`; // 40 is hex for 25% opacity
+        textarea.style.boxShadow = `0 0 0 3px ${userColor}40`; // 40 is hex for 25% opacity, 3px border
         textarea.style.borderColor = userColor;
         textarea.style.outline = "none"; // Remove default focus outline
         
