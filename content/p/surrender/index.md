@@ -30,3 +30,5 @@ One very positive note is that Paula DiNardi’s attorney waived her attorney fe
 [![McSharry Settlement](https://cdn.rippreport.com/71483ae7-mcsharry-doc.png)](https://cdn.rippreport.com/71483ae7-mcsharry-doc.png)
 
 The justice system in Fairhope failed Paula, however they underestimated her fierce determination for justice. Justice sometimes is money but one thing is for sure Paula WON in the Court of Public Opinion.
+
+{{< chat testing >}}
