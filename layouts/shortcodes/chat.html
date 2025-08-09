@@ -183,31 +183,88 @@
         console.log(
           `Comment ${index}: name = ${commentData.name}, timestamp = ${commentData.timestamp}`
         );
-        if (
-          !commentData.timestamp ||
-          this.replyButtons.has(commentData.timestamp)
-        )
+        
+        // Skip if we already have a button for this comment
+        if (this.replyButtons.has(commentData.timestamp)) {
+          console.log(`Skipping comment ${index} - already has reply button`);
           return;
+        }
 
         const replyButton = this.createReplyButton(commentData);
 
-        const commentBody = comment.querySelector(".cactus-comment-body");
-        if (commentBody) {
-          commentBody.appendChild(replyButton);
+        // Try multiple locations to insert the reply button
+        let insertLocation = comment.querySelector(".cactus-comment-body");
+        if (!insertLocation) {
+          insertLocation = comment.querySelector(".cactus-comment-content");
+        }
+        if (!insertLocation) {
+          insertLocation = comment.querySelector(".cactus-message-text");
+        }
+        if (!insertLocation) {
+          // Find any container within the comment that has text content
+          const textContainers = comment.querySelectorAll("div, p, span");
+          for (let container of textContainers) {
+            if (container.textContent.trim().length > 10) { // Has substantial content
+              insertLocation = container;
+              break;
+            }
+          }
+        }
+        if (!insertLocation) {
+          // Last resort: append to the comment itself
+          insertLocation = comment;
+        }
+
+        if (insertLocation) {
+          insertLocation.appendChild(replyButton);
           this.replyButtons.set(commentData.timestamp, replyButton);
-          console.log(`Added reply button for comment by ${commentData.name}`);
+          console.log(`Added reply button for comment by ${commentData.name} at location:`, insertLocation.className);
+        } else {
+          console.log(`Could not find suitable location for reply button in comment ${index}`);
         }
       });
     }
 
     extractCommentData(comment) {
-      // Extract the display name
+      // Extract the display name with multiple fallback methods
+      let name = "Anonymous";
+      
+      // Try multiple selectors for the display name
       const displayNameElement = comment.querySelector(
         ".cactus-comment-displayname"
       );
-      const name = displayNameElement
-        ? displayNameElement.textContent.trim()
-        : "Anonymous";
+      
+      if (displayNameElement) {
+        // Get the text content, but clean it up
+        let nameText = displayNameElement.textContent.trim();
+        
+        // If it's a link, try to get a better name from the href
+        if (displayNameElement.href) {
+          const urlParts = displayNameElement.href.split('/');
+          const lastPart = urlParts[urlParts.length - 1];
+          if (lastPart && lastPart !== '' && lastPart.length > 1) {
+            // Use the last part of the URL as the name if it looks valid
+            name = lastPart.replace(/[@#]/g, ''); // Remove @ and # symbols
+          } else if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
+            name = nameText;
+          }
+        } else if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
+          name = nameText;
+        }
+      }
+      
+      // If we still don't have a good name, try other methods
+      if (name === "Anonymous" || name.toLowerCase() === 'reply') {
+        // Try to find any element with user info
+        const userElements = comment.querySelectorAll('[class*="user"], [class*="name"], [class*="author"]');
+        for (let elem of userElements) {
+          const text = elem.textContent.trim();
+          if (text && text.length > 1 && text.toLowerCase() !== 'reply') {
+            name = text;
+            break;
+          }
+        }
+      }
 
       // Extract the original message content
       const messageElement = comment.querySelector(
@@ -231,23 +288,41 @@
         }
       }
 
-      // Extract timestamp for unique identification
-      const timeElement = comment.querySelector(".cactus-comment-time");
+      // Extract timestamp for unique identification - be more flexible
       let timestamp;
+      const timeElement = comment.querySelector(".cactus-comment-time, time, [class*='time'], [class*='date']");
+      
       if (timeElement && timeElement.dateTime) {
         timestamp = timeElement.dateTime;
       } else if (timeElement) {
         timestamp = timeElement.textContent.trim();
       } else {
+        // Try to find any timestamp-like content
+        const timestampElements = comment.querySelectorAll('[datetime], [data-timestamp], [class*="timestamp"]');
+        for (let elem of timestampElements) {
+          if (elem.dateTime) {
+            timestamp = elem.dateTime;
+            break;
+          } else if (elem.dataset.timestamp) {
+            timestamp = elem.dataset.timestamp;
+            break;
+          }
+        }
+      }
+      
+      // Final fallback for timestamp
+      if (!timestamp) {
         const commentId = comment.id || comment.dataset.id;
         if (commentId) {
           timestamp = commentId;
         } else {
-          const content = comment.textContent.trim();
+          // Use a combination of name and message content for uniqueness
+          const content = name + originalMessage + comment.textContent.trim();
           timestamp = this.generateHash(content);
         }
       }
 
+      console.log(`Extracted comment data: name="${name}", timestamp="${timestamp}", message="${originalMessage.substring(0, 50)}..."`);
       return { name, timestamp, originalMessage };
     }
 
