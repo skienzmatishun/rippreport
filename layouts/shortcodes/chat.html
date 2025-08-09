@@ -55,6 +55,12 @@
         // Get and set the border-left color based on the username
         const borderColor = getColorForUsername(username);
         comment.style.borderLeft = `5px solid ${borderColor}`; // Adjust the width as necessary
+        
+        // Also set the username color to match the border color
+        if (displayNameLink) {
+          displayNameLink.style.color = borderColor;
+          displayNameLink.style.fontWeight = "bold";
+        }
       }
     });
   }
@@ -392,6 +398,30 @@
       this.scrollToMainForm();
     }
 
+    getUserColor(commentData) {
+      // Find the comment that matches this data to get its border color
+      const comments = document.querySelectorAll(".cactus-comment");
+      for (let comment of comments) {
+        const displayNameElement = comment.querySelector(".cactus-comment-displayname");
+        if (displayNameElement && displayNameElement.textContent.trim() === commentData.name) {
+          // Get the border-left color from the comment
+          const borderColor = comment.style.borderLeftColor;
+          if (borderColor) {
+            return borderColor;
+          }
+          
+          // If no border color is set, calculate it from the username
+          const username = displayNameElement.href.split("/").pop();
+          if (username) {
+            return getColorForUsername(username);
+          }
+        }
+      }
+      
+      // Fallback: return default blue color
+      return "#007cba";
+    }
+
     createQuoteContainer() {
       // Wait for the cactus editor to be available
       const checkForEditor = () => {
@@ -430,6 +460,9 @@
 
       this.currentQuote = commentData;
 
+      // Get the user's color from their comment
+      const userColor = this.getUserColor(commentData);
+
       // Limit the original message to 200 characters
       let truncatedMessage =
         commentData.originalMessage || "No message content";
@@ -458,7 +491,7 @@
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
               ">REPLY MODE</span>
-              <span>Replying to ${commentData.name}</span>
+              <span>Replying to <span style="color: ${userColor}; font-weight: bold;">${commentData.name}</span></span>
             </div>
             <div style="
               font-style: italic; 
@@ -467,7 +500,7 @@
               padding: 8px;
               background: rgba(0, 124, 186, 0.05);
               border-radius: 4px;
-              border-left: 3px solid #007cba;
+              border-left: 3px solid ${userColor};
             ">
               "${truncatedMessage}"
             </div>
