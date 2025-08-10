@@ -654,7 +654,7 @@
 
 /* Smaller placeholder text in reply mode */
 .cactus-editor.reply-mode .cactus-editor-textarea::placeholder {
-  font-size: .8rem !important;
+  font-size: 1rem !important;
   line-height: 1.5 !important;
   text-align: left !important;
 }
