@@ -4,7 +4,7 @@ date: 2025-08-11
 categories: 
   - ivy
   - elections
-thumbnail: "img/know-before-you-vote.jpg"
+thumbnail: "img/know-before-you-vote-2.jpg"
 authors: 
   - admin
 ---
