@@ -61,4 +61,6 @@ The Ripp Report will be paying attention to both the Breland case and what creat
 
 Pay attention ladies, what if this happened to you?
 
+{{< subscribe >}}
+
 {{< chat gbaurerun >}}

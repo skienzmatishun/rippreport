@@ -46,4 +46,7 @@ Is this the “at large” council you voted for? It is the same council that co
 
 {{< socialpreview url="https://rippreport.com/p/loser/" >}}
 
+{{< subscribe >}}
+
+
 {{< chat rrrerun >}}

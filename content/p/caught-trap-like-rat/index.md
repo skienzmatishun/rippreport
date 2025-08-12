@@ -37,4 +37,6 @@ Read the complaint and tell me who is crazy?
 }
 </style>
 
+{{< subscribe >}}
+
 {{< chat ctlrrerun >}}
