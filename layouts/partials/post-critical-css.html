@@ -651,11 +651,32 @@
 
     .thumbnail__video {
       min-height: 279px;
+      position: relative;
+    }
+    
+    .video-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    }
+    
+    .thumbnail__iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
     }
   }
   @media (max-width: 575.98px) {
     .thumbnail__video {
       min-height: 175px;
+    }
+    
+    .video-container {
+      padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio on mobile */
     }
     .logo {
       height: initial;
@@ -696,6 +717,10 @@
     .thumbnail__video {
       min-height: 200px;
     }
+    
+    .video-container {
+      padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio */
+    }
     .list__header {
       font-size: 1.5rem !important;
     }
@@ -718,6 +743,10 @@
     .thumbnail__video {
       min-height: 250px;
     }
+    
+    .video-container {
+      padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio */
+    }
     .widget__summary {
       font-size: 0.85rem;
     }
@@ -731,6 +760,10 @@
     /* Styles for large screens */
     .thumbnail__video {
       min-height: 375px;
+    }
+    
+    .video-container {
+      padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio */
     }
     .container--outer {
       width: 100%;
@@ -746,6 +779,10 @@
   @media (min-width: 1200px) {
     .thumbnail__video {
       min-height: 379px;
+    }
+    
+    .video-container {
+      padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio */
     }
     /* Styles for extra large screens */
   }
