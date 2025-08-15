@@ -4,6 +4,7 @@ date: 2025-08-15
 categories:
   - bcso
 thumbnail: "img/food-for-thought.png"
+summary: "There’s a parcel of land in Baldwin County that’s never been talked about publicly — until now. It’s publicly owned, strategically placed, and tied to a zoning designation that doesn’t match what’s actually there."
 authors:
   - admin
 ---
