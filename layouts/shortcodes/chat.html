@@ -242,15 +242,19 @@
           matrixUsername = displayNameElement.href.split("/").pop();
         }
         
-        // Clean up the name text and use it if it's valid
-        if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
+        // Clean up the name text and use it if it's valid and not empty
+        if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply' && nameText !== '') {
           // Remove any extra whitespace and special characters that might interfere
           name = nameText.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
+          // Double check that after cleaning it's still not empty
+          if (name === '' || name.trim() === '') {
+            name = "Anonymous";
+          }
         }
       }
       
       // If we still don't have a good name, try alternative selectors
-      if (name === "Anonymous" || name.toLowerCase() === 'reply' || name.length === 0) {
+      if (name === "Anonymous" || name.toLowerCase() === 'reply' || name.length === 0 || name.trim() === '') {
         // Try other possible selectors for the display name
         const alternativeSelectors = [
           '.cactus-comment-header .cactus-comment-displayname',
@@ -265,17 +269,27 @@
           const element = comment.querySelector(selector);
           if (element) {
             let text = element.textContent.trim();
-            if (text && text.length > 0 && text.toLowerCase() !== 'reply') {
+            if (text && text.length > 0 && text.toLowerCase() !== 'reply' && text !== '' && text.trim() !== '') {
               name = text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
               
-              // Also try to get Matrix username from this element
-              if (element.href && !matrixUsername) {
-                matrixUsername = element.href.split("/").pop();
+              // Double check that after cleaning it's still not empty
+              if (name === '' || name.trim() === '') {
+                name = "Anonymous";
+              } else {
+                // Also try to get Matrix username from this element
+                if (element.href && !matrixUsername) {
+                  matrixUsername = element.href.split("/").pop();
+                }
+                break;
               }
-              break;
             }
           }
         }
+      }
+      
+      // Final check to ensure we never have an empty name
+      if (!name || name.trim() === '' || name.length === 0) {
+        name = "Anonymous";
       }
 
       // Extract the original message content
