@@ -224,6 +224,7 @@ class CactusReplySystem {
   createReplyForm(timestamp) {
     const form = document.createElement("form");
     form.className = "cactus-reply-form";
+    form.autocomplete = "on"; // Make sure autocomplete is enabled
 
     const replyInfo = document.createElement("div");
     replyInfo.style.cssText = `
@@ -251,6 +252,23 @@ class CactusReplySystem {
             box-sizing: border-box;
         `;
 
+    // New name input field
+    const nameInput = document.createElement("input");
+    nameInput.type = "text";
+    nameInput.className = "cactus-reply-name";
+    nameInput.placeholder = "Name";
+    nameInput.value = "Anonymous"; // Set the default value
+    nameInput.style.cssText = `
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            font-family: inherit;
+            font-size: 14px;
+            box-sizing: border-box;
+            margin-bottom: 8px;
+        `;
+    
     const buttonContainer = document.createElement("div");
     buttonContainer.style.cssText = `
             margin-top: 8px;
@@ -309,13 +327,15 @@ class CactusReplySystem {
 
     form.addEventListener("submit", (e) => {
       e.preventDefault();
-      this.handleReplySubmit(timestamp, textarea.value);
+      const username = nameInput.value.trim() || "Anonymous";
+      this.handleReplySubmit(timestamp, textarea.value, username);
     });
 
     buttonContainer.appendChild(submitButton);
     buttonContainer.appendChild(cancelButton);
 
     form.appendChild(replyInfo);
+    form.appendChild(nameInput); // Add the new name input field
     form.appendChild(textarea);
     form.appendChild(buttonContainer);
 
@@ -364,14 +384,14 @@ class CactusReplySystem {
     }
   }
 
-  handleReplySubmit(timestamp, replyText) {
+  handleReplySubmit(timestamp, replyText, username) {
     if (!replyText.trim()) {
       alert("Please enter a reply message.");
       return;
     }
 
-    // Format the reply with reference to original comment
-    const formattedReply = this.formatReply(timestamp, replyText);
+    // Format the reply with reference to original comment and the new username
+    const formattedReply = this.formatReply(timestamp, replyText, username);
 
     // Insert the reply into the main comment textarea
     this.insertReplyIntoMainForm(formattedReply);
@@ -383,9 +403,10 @@ class CactusReplySystem {
     this.scrollToMainForm();
   }
 
-  formatReply(timestamp, replyText) {
+  formatReply(timestamp, replyText, username) {
     const timeStr = this.formatTimestamp(timestamp);
-    return `@Reply to comment from ${timeStr}:\n\n${replyText}`;
+    // Add the username to the formatted reply
+    return `@${username} @Reply to comment from ${timeStr}:\n\n${replyText}`;
   }
 
   formatTimestamp(timestamp) {
@@ -483,17 +504,3 @@ setTimeout(() => {
     window.cactusReplySystem = new CactusReplySystem();
   }
 }, 3000);
-interceptSubmit() {
-  const mainForm = document.querySelector(".cactus-editor, .cactus-comment-form, form");
-  if (mainForm) {
-    mainForm.addEventListener("submit", (event) => {
-      // Find the username input field within the form
-      const usernameInput = mainForm.querySelector("input[type=text][name=username]");
-      
-      // If the input exists and its value is blank, set it to "Anonymous"
-      if (usernameInput && !usernameInput.value.trim()) {
-        usernameInput.value = "Anonymous";
-      }
-    });
-  }
-}
