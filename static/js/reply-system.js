@@ -388,60 +388,6 @@ class CactusReplySystem {
     return `@Reply to comment from ${timeStr}:\n\n${replyText}`;
   }
 
-  extractDisplayName(comment) {
-    // Extract display name with proper anonymous handling
-    let name = "Anonymous";
-    
-    const displayNameElement = comment.querySelector(".cactus-comment-displayname");
-    if (displayNameElement) {
-      let nameText = displayNameElement.textContent.trim();
-      
-      // Check if the name is valid and not empty
-      if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply' && nameText !== '' && nameText.trim() !== '') {
-        name = nameText.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
-        // Double check that after cleaning it's still not empty
-        if (name === '' || name.trim() === '') {
-          name = "Anonymous";
-        }
-      }
-    }
-    
-    // Try alternative selectors if still anonymous
-    if (name === "Anonymous") {
-      const alternativeSelectors = [
-        '.cactus-comment-header .cactus-comment-displayname',
-        '.cactus-comment-content .cactus-comment-displayname', 
-        '[class*="displayname"]',
-        '[class*="username"]',
-        '.comment-author',
-        '.author-name'
-      ];
-      
-      for (let selector of alternativeSelectors) {
-        const element = comment.querySelector(selector);
-        if (element) {
-          let text = element.textContent.trim();
-          if (text && text.length > 0 && text.toLowerCase() !== 'reply' && text !== '' && text.trim() !== '') {
-            name = text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
-            // Double check that after cleaning it's still not empty
-            if (name !== '' && name.trim() !== '') {
-              break;
-            } else {
-              name = "Anonymous";
-            }
-          }
-        }
-      }
-    }
-    
-    // Final check to ensure we never have an empty name
-    if (!name || name.trim() === '' || name.length === 0) {
-      name = "Anonymous";
-    }
-    
-    return name;
-  }
-
   formatTimestamp(timestamp) {
     // Try to parse and format the timestamp nicely
     try {
@@ -537,3 +483,17 @@ setTimeout(() => {
     window.cactusReplySystem = new CactusReplySystem();
   }
 }, 3000);
+interceptSubmit() {
+  const mainForm = document.querySelector(".cactus-editor, .cactus-comment-form, form");
+  if (mainForm) {
+    mainForm.addEventListener("submit", (event) => {
+      // Find the username input field within the form
+      const usernameInput = mainForm.querySelector("input[type=text][name=username]");
+      
+      // If the input exists and its value is blank, set it to "Anonymous"
+      if (usernameInput && !usernameInput.value.trim()) {
+        usernameInput.value = "Anonymous";
+      }
+    });
+  }
+}

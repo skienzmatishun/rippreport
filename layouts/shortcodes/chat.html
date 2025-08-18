@@ -183,7 +183,7 @@
         console.log(
           `Comment ${index}: name = ${commentData.name}, timestamp = ${commentData.timestamp}`
         );
-
+        
         // Skip if we already have a button for this comment
         if (this.replyButtons.has(commentData.timestamp)) {
           console.log(`Skipping comment ${index} - already has reply button`);
@@ -204,8 +204,7 @@
           // Find any container within the comment that has text content
           const textContainers = comment.querySelectorAll("div, p, span");
           for (let container of textContainers) {
-            if (container.textContent.trim().length > 10) {
-              // Has substantial content
+            if (container.textContent.trim().length > 10) { // Has substantial content
               insertLocation = container;
               break;
             }
@@ -219,37 +218,63 @@
         if (insertLocation) {
           insertLocation.appendChild(replyButton);
           this.replyButtons.set(commentData.timestamp, replyButton);
-          console.log(
-            `Added reply button for comment by ${commentData.name} at location:`,
-            insertLocation.className
-          );
+          console.log(`Added reply button for comment by ${commentData.name} at location:`, insertLocation.className);
         } else {
-          console.log(
-            `Could not find suitable location for reply button in comment ${index}`
-          );
+          console.log(`Could not find suitable location for reply button in comment ${index}`);
         }
       });
     }
 
     extractCommentData(comment, index = 0) {
-      // Extract the display name
+      // Extract the display name - focus on the actual display name from the Name field
       let name = "Anonymous";
       let matrixUsername = null;
-
-      const displayNameElement = comment.querySelector(
-        ".cactus-comment-displayname"
-      );
+      
+      // First, try to get the display name element
+      const displayNameElement = comment.querySelector(".cactus-comment-displayname");
+      
       if (displayNameElement) {
+        // Get the text content directly - this should be the display name from the Name field
         let nameText = displayNameElement.textContent.trim();
-
-        // Extract Matrix username from href
+        
+        // Also extract the Matrix username from the href for unique identification
         if (displayNameElement.href) {
           matrixUsername = displayNameElement.href.split("/").pop();
         }
-
-        // Use the display name if it exists and isn't empty
-        if (nameText && nameText.length > 0) {
-          name = nameText;
+        
+        // Clean up the name text and use it if it's valid
+        if (nameText && nameText.length > 0 && nameText.toLowerCase() !== 'reply') {
+          // Remove any extra whitespace and special characters that might interfere
+          name = nameText.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
+        }
+      }
+      
+      // If we still don't have a good name, try alternative selectors
+      if (name === "Anonymous" || name.toLowerCase() === 'reply' || name.length === 0) {
+        // Try other possible selectors for the display name
+        const alternativeSelectors = [
+          '.cactus-comment-header .cactus-comment-displayname',
+          '.cactus-comment-content .cactus-comment-displayname', 
+          '[class*="displayname"]',
+          '[class*="username"]',
+          '.comment-author',
+          '.author-name'
+        ];
+        
+        for (let selector of alternativeSelectors) {
+          const element = comment.querySelector(selector);
+          if (element) {
+            let text = element.textContent.trim();
+            if (text && text.length > 0 && text.toLowerCase() !== 'reply') {
+              name = text.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
+              
+              // Also try to get Matrix username from this element
+              if (element.href && !matrixUsername) {
+                matrixUsername = element.href.split("/").pop();
+              }
+              break;
+            }
+          }
         }
       }
 
@@ -277,19 +302,15 @@
 
       // Extract timestamp for unique identification - be more flexible
       let timestamp;
-      const timeElement = comment.querySelector(
-        ".cactus-comment-time, time, [class*='time'], [class*='date']"
-      );
-
+      const timeElement = comment.querySelector(".cactus-comment-time, time, [class*='time'], [class*='date']");
+      
       if (timeElement && timeElement.dateTime) {
         timestamp = timeElement.dateTime;
       } else if (timeElement) {
         timestamp = timeElement.textContent.trim();
       } else {
         // Try to find any timestamp-like content
-        const timestampElements = comment.querySelectorAll(
-          '[datetime], [data-timestamp], [class*="timestamp"]'
-        );
+        const timestampElements = comment.querySelectorAll('[datetime], [data-timestamp], [class*="timestamp"]');
         for (let elem of timestampElements) {
           if (elem.dateTime) {
             timestamp = elem.dateTime;
@@ -300,18 +321,16 @@
           }
         }
       }
-
+      
       // Create a unique identifier using position and content to ensure every comment gets a unique ID
       let uniqueId;
-
+      
       // Always include the index to ensure uniqueness
       const baseId = `comment_${index}`;
-
+      
       if (timestamp) {
         // Combine position, timestamp, and content hash
-        const contentHash = this.generateHash(
-          name + originalMessage + comment.textContent.trim()
-        );
+        const contentHash = this.generateHash(name + originalMessage + comment.textContent.trim());
         uniqueId = `${baseId}_${timestamp}_${contentHash}`;
       } else {
         const commentId = comment.id || comment.dataset.id;
@@ -319,19 +338,12 @@
           uniqueId = `${baseId}_${commentId}`;
         } else {
           // Use position and content hash
-          const contentHash = this.generateHash(
-            name + originalMessage + comment.textContent.trim()
-          );
+          const contentHash = this.generateHash(name + originalMessage + comment.textContent.trim());
           uniqueId = `${baseId}_${contentHash}`;
         }
       }
 
-      console.log(
-        `Extracted comment data: name="${name}", matrixUsername="${matrixUsername}", uniqueId="${uniqueId}", message="${originalMessage.substring(
-          0,
-          50
-        )}..."`
-      );
+      console.log(`Extracted comment data: name="${name}", matrixUsername="${matrixUsername}", uniqueId="${uniqueId}", message="${originalMessage.substring(0, 50)}..."`);
       return { name, matrixUsername, timestamp: uniqueId, originalMessage };
     }
 
@@ -402,69 +414,45 @@
     }
 
     getUserColor(commentData) {
-      console.log(
-        "Getting color for user:",
-        commentData.name,
-        "Matrix username:",
-        commentData.matrixUsername
-      );
-
+      console.log("Getting color for user:", commentData.name, "Matrix username:", commentData.matrixUsername);
+      
       // Find the comment that matches this data using the unique Matrix username
       const comments = document.querySelectorAll(".cactus-comment");
       for (let comment of comments) {
-        const displayNameElement = comment.querySelector(
-          ".cactus-comment-displayname"
-        );
+        const displayNameElement = comment.querySelector(".cactus-comment-displayname");
         if (displayNameElement && displayNameElement.href) {
-          const commentMatrixUsername = displayNameElement.href
-            .split("/")
-            .pop();
-
+          const commentMatrixUsername = displayNameElement.href.split("/").pop();
+          
           // Match by Matrix username (unique) instead of display name (not unique)
           if (commentMatrixUsername === commentData.matrixUsername) {
-            console.log(
-              "Found matching comment by Matrix username:",
-              commentMatrixUsername
-            );
-
+            console.log("Found matching comment by Matrix username:", commentMatrixUsername);
+            
             // Try to get the computed border color
             const computedStyle = window.getComputedStyle(comment);
             const borderColor = computedStyle.borderLeftColor;
-
-            if (
-              borderColor &&
-              borderColor !== "rgba(0, 0, 0, 0)" &&
-              borderColor !== "transparent"
-            ) {
+            
+            if (borderColor && borderColor !== 'rgba(0, 0, 0, 0)' && borderColor !== 'transparent') {
               console.log("Found border color:", borderColor);
               return borderColor;
             }
-
+            
             // If no computed border color, calculate it from the Matrix username
             if (commentMatrixUsername) {
-              const calculatedColor = getColorForUsername(
-                commentMatrixUsername
-              );
-              console.log(
-                "Calculated color from Matrix username:",
-                calculatedColor
-              );
+              const calculatedColor = getColorForUsername(commentMatrixUsername);
+              console.log("Calculated color from Matrix username:", calculatedColor);
               return calculatedColor;
             }
           }
         }
       }
-
+      
       // Fallback: if we have a Matrix username, calculate color from it
       if (commentData.matrixUsername) {
         const fallbackColor = getColorForUsername(commentData.matrixUsername);
-        console.log(
-          "Using fallback color from Matrix username:",
-          fallbackColor
-        );
+        console.log("Using fallback color from Matrix username:", fallbackColor);
         return fallbackColor;
       }
-
+      
       console.log("No matching comment found, using default color");
       // Final fallback: return default blue color
       return "#007cba";
@@ -473,7 +461,7 @@
     createQuoteContainer() {
       // Don't create if it already exists
       if (this.quoteContainer) return;
-
+      
       // Wait for the cactus editor to be available
       const checkForEditor = () => {
         const cactusEditor = document.querySelector(".cactus-editor");
@@ -577,20 +565,20 @@
       // Add close button functionality
       const closeBtn = this.quoteContainer.querySelector(".quote-close-btn");
       closeBtn.addEventListener("click", () => this.hideQuote());
-
+      
       // Add hover effect to close button
       closeBtn.addEventListener("mouseenter", () => {
         closeBtn.style.backgroundColor = "rgba(255, 0, 0, 0.1)";
         closeBtn.style.color = "#ff4444";
       });
-
+      
       closeBtn.addEventListener("mouseleave", () => {
         closeBtn.style.backgroundColor = "transparent";
         closeBtn.style.color = "#999";
       });
 
       this.quoteContainer.style.display = "block";
-
+      
       // Add visual indication to the editor
       this.setReplyMode(true);
     }
@@ -606,34 +594,31 @@
     setReplyMode(isReplyMode) {
       const cactusEditor = document.querySelector(".cactus-editor");
       const textarea = document.querySelector(".cactus-editor-textarea");
-
+      
       if (!cactusEditor || !textarea) return;
 
       if (isReplyMode && this.currentQuote) {
         // Get the user's color from their comment
         const userColor = this.getUserColor(this.currentQuote);
-
+        
         // Add reply mode styling
         cactusEditor.classList.add("reply-mode");
         textarea.placeholder = `Write your reply to ${this.currentQuote.name} here...`;
-
+        
         // Add glow effect with the user's color and remove default focus styles
-        textarea.style.setProperty(
-          "box-shadow",
-          `0 0 0 3px ${userColor}40`,
-          "important"
-        ); // 40 is hex for 25% opacity, 3px border
-        textarea.style.setProperty("border-color", userColor, "important");
-        textarea.style.setProperty("outline", "none", "important"); // Remove default focus outline
+        textarea.style.setProperty('box-shadow', `0 0 0 3px ${userColor}40`, 'important'); // 40 is hex for 25% opacity, 3px border
+        textarea.style.setProperty('border-color', userColor, 'important');
+        textarea.style.setProperty('outline', 'none', 'important'); // Remove default focus outline
+        
       } else {
         // Remove reply mode styling
         cactusEditor.classList.remove("reply-mode");
         textarea.placeholder = "Leave a comment";
-
+        
         // Remove glow effect and reset outline
-        textarea.style.removeProperty("box-shadow");
-        textarea.style.removeProperty("border-color");
-        textarea.style.removeProperty("outline");
+        textarea.style.removeProperty('box-shadow');
+        textarea.style.removeProperty('border-color');
+        textarea.style.removeProperty('outline');
       }
     }
 
@@ -673,7 +658,7 @@
       if (!mainTextarea || !this.currentQuote) return;
 
       const userText = mainTextarea.value.trim();
-
+      
       // Don't allow empty replies
       if (!userText) {
         alert("Please write a reply before posting.");
