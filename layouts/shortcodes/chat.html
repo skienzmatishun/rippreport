@@ -850,7 +850,7 @@
   }
 
   // Initialize the reply system after cactus is fully loaded
-  console.log("Setting up reply system initialization");
+  console.log("Setting up reply system initialization from chat.html");
 
   // Wait for cactus to be fully initialized before adding our functionality
   function waitForCactusReady() {
@@ -858,9 +858,10 @@
     const cactusTextarea = document.querySelector(".cactus-editor-textarea");
 
     if (cactusEditor && cactusTextarea) {
-      console.log("Cactus is ready, creating CactusReplySystem instance");
+      console.log("Cactus is ready, creating CactusReplySystem instance from chat.html");
       const replySystem = new CactusReplySystem();
       replySystem.interceptSubmit();
+      console.log("Chat.html reply system initialized");
     } else {
       console.log("Cactus not ready yet, retrying...");
       setTimeout(waitForCactusReady, 1000);
