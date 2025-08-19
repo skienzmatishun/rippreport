@@ -72,3 +72,4 @@ Catalyst candidate, strike one, Lynn Perry, an attorney, strike two is running f
 [https://www.facebook.com/Harry-DOlive-For-Judge-Of-Probate-June-5-2018-292304961232342/](https://cdn.rippreport.com/wp-content/uploads/2018/05/Harry-DOlive-For-Judge-Of-Probate-June-5-2018-292304961232342)
 
 You have four choices, excluding Catalyst, just be sure to EXCLUDE Catalyst.
+{{< chat test >}}
