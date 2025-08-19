@@ -10,6 +10,8 @@ class CactusReplySystem {
     console.log("CactusReplySystem constructor called");
     this.replyButtons = new Map();
     this.replyForms = new Map();
+    this.pendingReply = null;
+    this.monitorAttempts = 0;
     this.init();
   }
 
@@ -390,23 +392,105 @@ class CactusReplySystem {
       return;
     }
 
-    // Format the reply with reference to original comment and the new username
-    const formattedReply = this.formatReply(timestamp, replyText, username);
+    // Store the reply data for post-submission processing
+    this.pendingReply = {
+      timestamp,
+      replyText,
+      username,
+      originalComment: this.getOriginalCommentText(timestamp)
+    };
 
-    // Insert the reply into the main comment textarea
-    this.insertReplyIntoMainForm(formattedReply);
+    // Insert just the reply text into the main comment textarea
+    this.insertReplyIntoMainForm(replyText);
 
     // Hide the reply form
     this.hideReplyForm(timestamp);
 
     // Scroll to main comment form
     this.scrollToMainForm();
+
+    // Set up post-submission monitoring
+    this.monitorForNewComment();
   }
 
-  formatReply(timestamp, replyText, username) {
-    const timeStr = this.formatTimestamp(timestamp);
-    // Add the username to the formatted reply
-    return `@${username} @Reply to comment from ${timeStr}:\n\n${replyText}`;
+  getOriginalCommentText(timestamp) {
+    // Find the original comment by timestamp and extract its text
+    const comments = document.querySelectorAll(".cactus-comment");
+    for (let comment of comments) {
+      const commentTimestamp = this.extractTimestamp(comment);
+      if (commentTimestamp === timestamp) {
+        const messageElement = comment.querySelector(".cactus-message-text, .cactus-comment-body");
+        if (messageElement) {
+          let text = messageElement.textContent.trim();
+          // Remove any existing reply buttons from the text
+          text = text.replace(/Reply$/, '').trim();
+          return text.substring(0, 100); // First 100 characters
+        }
+      }
+    }
+    return "";
+  }
+
+  monitorForNewComment() {
+    if (!this.pendingReply) return;
+
+    const checkForNewComment = () => {
+      const comments = document.querySelectorAll(".cactus-comment");
+      const lastComment = comments[comments.length - 1];
+      
+      if (lastComment && !lastComment.dataset.replyProcessed) {
+        // Check if this is likely our new comment by looking for our reply text
+        const messageElement = lastComment.querySelector(".cactus-message-text, .cactus-comment-body");
+        if (messageElement && messageElement.textContent.includes(this.pendingReply.replyText)) {
+          this.addQuoteToComment(lastComment);
+          lastComment.dataset.replyProcessed = "true";
+          this.pendingReply = null;
+          return;
+        }
+      }
+      
+      // Keep checking for up to 10 seconds
+      if (this.monitorAttempts < 20) {
+        this.monitorAttempts++;
+        setTimeout(checkForNewComment, 500);
+      } else {
+        this.pendingReply = null;
+        this.monitorAttempts = 0;
+      }
+    };
+
+    this.monitorAttempts = 0;
+    setTimeout(checkForNewComment, 1000); // Wait a bit for the comment to appear
+  }
+
+  addQuoteToComment(commentElement) {
+    if (!this.pendingReply) return;
+
+    const messageElement = commentElement.querySelector(".cactus-message-text, .cactus-comment-body");
+    if (!messageElement) return;
+
+    // Create the quote element
+    const quoteElement = document.createElement("div");
+    quoteElement.style.cssText = `
+      font-style: italic;
+      color: #666;
+      border-left: 3px solid #007cba;
+      padding-left: 10px;
+      margin-bottom: 10px;
+      font-size: 0.9em;
+      background: rgba(0, 124, 186, 0.05);
+      padding: 8px 10px;
+      border-radius: 3px;
+    `;
+    
+    const truncatedText = this.pendingReply.originalComment.length > 100 
+      ? this.pendingReply.originalComment + "..."
+      : this.pendingReply.originalComment;
+    
+    quoteElement.textContent = `"${truncatedText}"`;
+
+    // Insert the quote at the beginning of the message
+    messageElement.insertBefore(quoteElement, messageElement.firstChild);
   }
 
   formatTimestamp(timestamp) {
