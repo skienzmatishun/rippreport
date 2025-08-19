@@ -3,13 +3,13 @@
  * This file is disabled to prevent conflicts with the chat.html reply system
  */
 
-console.log("Reply system script disabled - using chat.html version instead");
-// Early return to prevent this system from running
-if (true) {
-  console.log("Standalone reply system disabled");
-  // Don't execute the rest of the file
-}
+(function() {
+  console.log("Reply system script disabled - using chat.html version instead");
+  return; // Exit early to prevent execution
+})();
 
+// The rest of this file is disabled
+if (false) {
 class CactusReplySystem {
   constructor() {
     console.log("CactusReplySystem constructor called");
@@ -679,3 +679,4 @@ setTimeout(() => {
     window.cactusReplySystem = new CactusReplySystem();
   }
 }, 3000);
+} // End of disabled code block

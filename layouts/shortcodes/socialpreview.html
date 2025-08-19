@@ -131,7 +131,7 @@
         <a href="{{ $previewURL }}" rel="noopener noreferrer" target="_blank">
             <img
                 loading="lazy"
-                src="{{ if strings.HasPrefix $image "https://rippreport.com" }}
+                src="{{ if and (eq .Site.BaseURL "https://rippreport.com/") (strings.HasPrefix $image "https://rippreport.com") }}
                         {{ printf "/cdn-cgi/image/width=380,quality=70,format=auto%s" ($image | strings.TrimPrefix "https://rippreport.com") }}
                     {{ else }}
                         {{ $image }}

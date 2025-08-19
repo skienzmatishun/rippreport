@@ -643,9 +643,13 @@
           sendButton.dataset.intercepted = "true";
 
           sendButton.addEventListener("click", (e) => {
+            console.log("Send button clicked, currentQuote:", this.currentQuote);
             if (this.currentQuote) {
+              console.log("Preventing default and calling handleSubmitWithQuote");
               e.preventDefault();
               this.handleSubmitWithQuote();
+            } else {
+              console.log("No currentQuote, allowing normal submission");
             }
           });
         } else {
