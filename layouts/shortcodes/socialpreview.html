@@ -45,7 +45,7 @@
     {{- $errorMessage = printf "Error fetching preview data for %s" $url -}}
     {{- warnf $errorMessage -}}
 {{- else -}}
-    {{- with $result.Content -}}
+    {{- with $result.Value.Content -}}
         {{- $json = . | unmarshal -}}
         {{- if not (reflect.IsMap $json) -}}
             {{- $errorMessage = printf "Invalid JSON structure from worker for: %s" $url -}}
@@ -70,7 +70,7 @@
                 {{- $errorMessage = printf "Error fetching fallback: %s" $newURL -}}
                 {{- warnf $errorMessage -}}
             {{- else -}}
-                {{- with $newResult.Content -}}
+                {{- with $newResult.Value.Content -}}
                     {{- $json = . | unmarshal -}}
                     {{- if not (reflect.IsMap $json) -}}
                         {{- $json = "" -}}
