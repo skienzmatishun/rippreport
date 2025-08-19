@@ -410,42 +410,80 @@ class CactusReplySystem {
     this.scrollToMainForm();
 
     // Set up post-submission monitoring
-    this.monitorForNewComment();
+    this.setupSubmissionInterceptor();
   }
 
   getOriginalCommentText(timestamp) {
+    console.log("Getting original comment text for timestamp:", timestamp);
+    
     // Find the original comment by timestamp and extract its text
     const comments = document.querySelectorAll(".cactus-comment");
     for (let comment of comments) {
       const commentTimestamp = this.extractTimestamp(comment);
+      console.log("Checking comment with timestamp:", commentTimestamp);
+      
       if (commentTimestamp === timestamp) {
-        const messageElement = comment.querySelector(".cactus-message-text, .cactus-comment-body");
+        console.log("Found matching comment");
+        
+        const messageElement = comment.querySelector(".cactus-message-text");
         if (messageElement) {
-          let text = messageElement.textContent.trim();
+          // Get only the paragraph text, not the reply button
+          const paragraphs = messageElement.querySelectorAll("p");
+          let text = "";
+          
+          if (paragraphs.length > 0) {
+            text = Array.from(paragraphs).map(p => p.textContent.trim()).join(" ");
+          } else {
+            text = messageElement.textContent.trim();
+          }
+          
           // Remove any existing reply buttons from the text
           text = text.replace(/Reply$/, '').trim();
+          
+          console.log("Extracted original comment text:", text);
           return text.substring(0, 100); // First 100 characters
         }
       }
     }
+    
+    console.log("Could not find original comment text");
     return "";
   }
 
   monitorForNewComment() {
     if (!this.pendingReply) return;
 
+    console.log("Starting to monitor for new comment with pending reply:", this.pendingReply);
+    
+    // Store the current comment count
+    const initialCommentCount = document.querySelectorAll(".cactus-comment").length;
+    console.log("Initial comment count:", initialCommentCount);
+
     const checkForNewComment = () => {
       const comments = document.querySelectorAll(".cactus-comment");
-      const lastComment = comments[comments.length - 1];
+      console.log("Current comment count:", comments.length);
       
-      if (lastComment && !lastComment.dataset.replyProcessed) {
-        // Check if this is likely our new comment by looking for our reply text
-        const messageElement = lastComment.querySelector(".cactus-message-text, .cactus-comment-body");
-        if (messageElement && messageElement.textContent.includes(this.pendingReply.replyText)) {
-          this.addQuoteToComment(lastComment);
-          lastComment.dataset.replyProcessed = "true";
-          this.pendingReply = null;
-          return;
+      // Check if we have a new comment
+      if (comments.length > initialCommentCount) {
+        const lastComment = comments[comments.length - 1];
+        console.log("Found new comment, checking if it's ours");
+        
+        if (!lastComment.dataset.replyProcessed) {
+          // Check if this is likely our new comment by looking for our reply text
+          const messageElement = lastComment.querySelector(".cactus-message-text, .cactus-comment-body");
+          if (messageElement) {
+            const commentText = messageElement.textContent.trim();
+            console.log("New comment text:", commentText);
+            console.log("Looking for reply text:", this.pendingReply.replyText);
+            
+            if (commentText.includes(this.pendingReply.replyText.trim())) {
+              console.log("Found matching comment, adding quote");
+              this.addQuoteToComment(lastComment);
+              lastComment.dataset.replyProcessed = "true";
+              this.pendingReply = null;
+              return;
+            }
+          }
         }
       }
       
@@ -454,6 +492,7 @@ class CactusReplySystem {
         this.monitorAttempts++;
         setTimeout(checkForNewComment, 500);
       } else {
+        console.log("Monitoring timeout reached, clearing pending reply");
         this.pendingReply = null;
         this.monitorAttempts = 0;
       }
@@ -464,18 +503,28 @@ class CactusReplySystem {
   }
 
   addQuoteToComment(commentElement) {
-    if (!this.pendingReply) return;
+    if (!this.pendingReply) {
+      console.log("No pending reply to add quote for");
+      return;
+    }
 
-    const messageElement = commentElement.querySelector(".cactus-message-text, .cactus-comment-body");
-    if (!messageElement) return;
+    console.log("Adding quote to comment with pending reply:", this.pendingReply);
+
+    const messageElement = commentElement.querySelector(".cactus-message-text");
+    if (!messageElement) {
+      console.log("Could not find message element in comment");
+      return;
+    }
+
+    console.log("Found message element:", messageElement);
 
     // Create the quote element
     const quoteElement = document.createElement("div");
+    quoteElement.className = "reply-quote";
     quoteElement.style.cssText = `
       font-style: italic;
       color: #666;
       border-left: 3px solid #007cba;
-      padding-left: 10px;
       margin-bottom: 10px;
       font-size: 0.9em;
       background: rgba(0, 124, 186, 0.05);
@@ -484,13 +533,50 @@ class CactusReplySystem {
     `;
     
     const truncatedText = this.pendingReply.originalComment.length > 100 
-      ? this.pendingReply.originalComment + "..."
+      ? this.pendingReply.originalComment.substring(0, 100) + "..."
       : this.pendingReply.originalComment;
     
     quoteElement.textContent = `"${truncatedText}"`;
+    
+    console.log("Created quote element with text:", quoteElement.textContent);
 
-    // Insert the quote at the beginning of the message
-    messageElement.insertBefore(quoteElement, messageElement.firstChild);
+    // Insert the quote at the beginning of the message element
+    if (messageElement.firstChild) {
+      messageElement.insertBefore(quoteElement, messageElement.firstChild);
+    } else {
+      messageElement.appendChild(quoteElement);
+    }
+    
+    console.log("Quote element inserted into message");
+  }
+
+  setupSubmissionInterceptor() {
+    if (!this.pendingReply) return;
+    
+    console.log("Setting up submission interceptor");
+    
+    // Find the send button and add a click listener
+    const sendButton = document.querySelector(".cactus-send-button");
+    if (sendButton && !sendButton.dataset.intercepted) {
+      sendButton.dataset.intercepted = "true";
+      
+      const originalClickHandler = sendButton.onclick;
+      sendButton.onclick = (e) => {
+        console.log("Send button clicked, pending reply exists");
+        
+        // Call original handler if it exists
+        if (originalClickHandler) {
+          originalClickHandler.call(sendButton, e);
+        }
+        
+        // Start monitoring after a short delay
+        setTimeout(() => {
+          this.monitorForNewComment();
+        }, 500);
+      };
+      
+      console.log("Submission interceptor set up");
+    }
   }
 
   formatTimestamp(timestamp) {
