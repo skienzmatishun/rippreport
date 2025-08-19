@@ -40,9 +40,9 @@
 {{- $json := "" -}}
 {{- $errorMessage := "" -}}
 
-{{- $result := resources.GetRemote $workerURL -}}
-{{- if $result.Err -}}
-    {{- $errorMessage = printf "Error fetching preview data for %s: %s" $url $result.Err -}}
+{{- $result := try (resources.GetRemote $workerURL) -}}
+{{- if not $result -}}
+    {{- $errorMessage = printf "Error fetching preview data for %s" $url -}}
     {{- warnf $errorMessage -}}
 {{- else -}}
     {{- with $result.Content -}}
@@ -65,8 +65,8 @@
         {{- if eq $parsedURL.Host "rippreport.com" -}}
             {{- $newURL := printf "https://rippreport.com/p%s" $parsedURL.Path -}}
             {{- $newWorkerURL := printf "%s?q=%s" $workerBaseURL $newURL -}}
-            {{- $newResult := resources.GetRemote $newWorkerURL -}}
-            {{- if $newResult.Err -}}
+            {{- $newResult := try (resources.GetRemote $newWorkerURL) -}}
+            {{- if not $newResult -}}
                 {{- $errorMessage = printf "Error fetching fallback: %s" $newURL -}}
                 {{- warnf $errorMessage -}}
             {{- else -}}
