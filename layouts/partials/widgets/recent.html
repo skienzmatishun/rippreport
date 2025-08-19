@@ -39,8 +39,8 @@
                 {{- $thumbnail := .Params.thumbnail }}
                 <img width="336px" height="174px" loading="lazy" src="{{ $thumbnail | relURL }}" alt="{{ .Title }}" class="widget__thumbnail-image">
               </div> 
-            {{- end }}
-            <p style="text-align:left;" class="widget__summary">{{ .Summary | plainify }}</p>
+            {{- end }} 
+            <p style="text-align:left;" class="widget__summary">{{ .Summary | plainify }}</p> 
           </a>
         </li>
       {{- end }}
