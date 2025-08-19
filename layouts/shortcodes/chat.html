@@ -116,6 +116,8 @@
       this.replyButtons = new Map();
       this.currentQuote = null;
       this.quoteContainer = null;
+      this.pendingReply = null;
+      this.monitorAttempts = 0;
       this.init();
     }
 
@@ -666,13 +668,14 @@
         return;
       }
 
-      const quoteText = this.formatQuoteForPost(this.currentQuote);
+      // Store the reply data for post-submission processing
+      this.pendingReply = {
+        userText: userText,
+        originalComment: this.currentQuote.originalMessage.substring(0, 100)
+      };
 
-      // Combine quote and user text
-      const finalText = quoteText + `\n\n${userText}`;
-
-      // Set the combined text
-      mainTextarea.value = finalText;
+      // Set just the user text (no quote in input)
+      mainTextarea.value = userText;
 
       // Trigger the input event
       const event = new Event("input", { bubbles: true });
@@ -681,6 +684,9 @@
       // Hide the quote container
       this.hideQuote();
 
+      // Set up monitoring for the new comment
+      this.monitorForNewComment();
+
       // Trigger the actual submit after a brief delay
       setTimeout(() => {
         const sendButton = document.querySelector(".cactus-send-button");
@@ -688,6 +694,106 @@
           sendButton.click();
         }
       }, 100);
+    }
+
+    monitorForNewComment() {
+      if (!this.pendingReply) return;
+
+      console.log("Starting to monitor for new comment with pending reply:", this.pendingReply);
+      
+      // Store the current comment count
+      const initialCommentCount = document.querySelectorAll(".cactus-comment").length;
+      console.log("Initial comment count:", initialCommentCount);
+
+      const checkForNewComment = () => {
+        const comments = document.querySelectorAll(".cactus-comment");
+        console.log("Current comment count:", comments.length);
+        
+        // Check if we have a new comment
+        if (comments.length > initialCommentCount) {
+          const lastComment = comments[comments.length - 1];
+          console.log("Found new comment, checking if it's ours");
+          
+          if (!lastComment.dataset.replyProcessed) {
+            // Check if this is likely our new comment by looking for our reply text
+            const messageElement = lastComment.querySelector(".cactus-message-text");
+            if (messageElement) {
+              const commentText = messageElement.textContent.trim();
+              console.log("New comment text:", commentText);
+              console.log("Looking for reply text:", this.pendingReply.userText);
+              
+              if (commentText.includes(this.pendingReply.userText.trim())) {
+                console.log("Found matching comment, adding quote");
+                this.addQuoteToComment(lastComment);
+                lastComment.dataset.replyProcessed = "true";
+                this.pendingReply = null;
+                return;
+              }
+            }
+          }
+        }
+        
+        // Keep checking for up to 10 seconds
+        if (this.monitorAttempts < 20) {
+          this.monitorAttempts++;
+          setTimeout(checkForNewComment, 500);
+        } else {
+          console.log("Monitoring timeout reached, clearing pending reply");
+          this.pendingReply = null;
+          this.monitorAttempts = 0;
+        }
+      };
+
+      this.monitorAttempts = 0;
+      setTimeout(checkForNewComment, 1000); // Wait a bit for the comment to appear
+    }
+
+    addQuoteToComment(commentElement) {
+      if (!this.pendingReply) {
+        console.log("No pending reply to add quote for");
+        return;
+      }
+
+      console.log("Adding quote to comment with pending reply:", this.pendingReply);
+
+      const messageElement = commentElement.querySelector(".cactus-message-text");
+      if (!messageElement) {
+        console.log("Could not find message element in comment");
+        return;
+      }
+
+      console.log("Found message element:", messageElement);
+
+      // Create the quote element
+      const quoteElement = document.createElement("div");
+      quoteElement.className = "reply-quote";
+      quoteElement.style.cssText = `
+        font-style: italic;
+        color: #666;
+        border-left: 3px solid #007cba;
+        margin-bottom: 10px;
+        font-size: 0.9em;
+        background: rgba(0, 124, 186, 0.05);
+        padding: 8px 10px;
+        border-radius: 3px;
+      `;
+      
+      const truncatedText = this.pendingReply.originalComment.length > 100 
+        ? this.pendingReply.originalComment.substring(0, 100) + "..."
+        : this.pendingReply.originalComment;
+      
+      quoteElement.textContent = `"${truncatedText}"`;
+      
+      console.log("Created quote element with text:", quoteElement.textContent);
+
+      // Insert the quote at the beginning of the message element
+      if (messageElement.firstChild) {
+        messageElement.insertBefore(quoteElement, messageElement.firstChild);
+      } else {
+        messageElement.appendChild(quoteElement);
+      }
+      
+      console.log("Quote element inserted into message");
     }
 
     formatQuoteForPost(commentData) {
