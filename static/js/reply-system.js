@@ -1,9 +1,14 @@
 /**
- * Cactus Comments Reply System
- * Adds reply functionality to existing cactus comments using timestamps for targeting
+ * Cactus Comments Reply System - DISABLED
+ * This file is disabled to prevent conflicts with the chat.html reply system
  */
 
-console.log("Reply system script loaded");
+console.log("Reply system script disabled - using chat.html version instead");
+// Early return to prevent this system from running
+if (true) {
+  console.log("Standalone reply system disabled");
+  // Don't execute the rest of the file
+}
 
 class CactusReplySystem {
   constructor() {

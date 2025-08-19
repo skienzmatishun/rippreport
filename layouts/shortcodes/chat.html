@@ -673,6 +673,8 @@
         userText: userText,
         originalComment: this.currentQuote.originalMessage.substring(0, 100)
       };
+      
+      console.log("Stored pending reply:", this.pendingReply);
 
       // Set just the user text (no quote in input)
       mainTextarea.value = userText;
