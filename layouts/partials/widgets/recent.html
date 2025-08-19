@@ -37,7 +37,7 @@
             {{- if .Params.thumbnail }}
               <div class="widget__thumbnail">
                 {{- $thumbnail := .Params.thumbnail }}
-                <img width="336px" height="174px" loading="lazy" src="{{ if and (strings.Contains .Site.BaseURL "rippreport.com") (not (strings.Contains .Site.BaseURL "pages.dev")) }}/cdn-cgi/image/width=336,onerror=redirect,format=auto{{ $thumbnail | relURL }}{{ else }}{{ $thumbnail | relURL }}{{ end }}" alt="{{ .Title }}" class="widget__thumbnail-image">
+                <img width="336px" height="174px" loading="lazy" src="{{ $thumbnail | relURL }}" alt="{{ .Title }}" class="widget__thumbnail-image">
               </div> 
             {{- end }}
             <p style="text-align:left;" class="widget__summary">{{ .Summary | plainify }}</p>
