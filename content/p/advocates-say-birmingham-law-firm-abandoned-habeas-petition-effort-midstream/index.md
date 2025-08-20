@@ -10,7 +10,7 @@ authors:
 
 <a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>
 
-Following the Alabama Gazette's recent coverage of the wrongful conviction claims surrounding inmate Murray "Bubba" Lawrence, Jr., his longtime advocacy team is drawing attention to another troubling chapter: the unexpected disengagement of a Birmingham law firm during a critical moment in his post-conviction fight.
+Following the Alabama Gazette's <a href="https://www.alabamagazette.com/story/2025/07/15/news/the-murray-lawrence-case-a-deepening-controversy-in-baldwin-county/7273.html">recent coverage</a> of the wrongful conviction claims surrounding inmate Murray "Bubba" Lawrence, Jr., his longtime advocacy team is drawing attention to another troubling chapter: the unexpected disengagement of a Birmingham law firm during a critical moment in his post-conviction fight.
 
 Lawrence, now having just completed his second decade of imprisonment, has maintained his innocence from the outset-as does the original court transcript. According to lead advocate Francis Paul Ripp, the firm of Maxwell-Tillman had agreed-verbally and through a formal invoice-and with three advocacy witnesses present-to assist in drafting a federal writ of habeas corpus, after all district, appeal, and state-level avenues were exhausted. Nearly half of the firm's stated fee was promptly rendered as a down-payment.
 
