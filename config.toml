@@ -31,6 +31,12 @@ disableKinds = ["taxonomy", "term"]
   single = "right" # layout for single pages
   widgets = ["subscribe", "recent"]
 
+[Params.widgets.homepage]
+  widgets = ["subscribe", "recent"]
+
+[Params.widgets.pages]
+  widgets = ["subscribe", "recent"]
+
 [Params.widgets]
   recent_num = 12 # Number of articles in the "Recent articles" widget
   tags_counter = false
