@@ -2,8 +2,38 @@
 	<div class="container footer__container flex">
 		{{ partial "footer_links.html" . }}
 		<div class="footer__copyright">
-			&copy; Ripp Report
+			&copy; {{ now.Format "2006" }} {{ .Site.Params.copyright | default .Site.Title }}.
+			<span class="footer__copyright-credits">{{ T "footer_credits" | safeHTML }}</span>
 		</div>
-		<div><a style="margin-right:10px;" href="https://rippreport.com/p/privacy-policy/">Privacy Policy</a><a href="mailto:info@rippreport.com">Contact</a></div>
 	</div>
 </footer>
+<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.LOCALE = 'en';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+
+
+
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected',
+      selectedOption: '{quantity} selected',
+      selectedOptions: '{quantity} selected',
+    }
+  };
+
+  var AUTOHIDE = Boolean(0);
+</script>
+
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+
+<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
