@@ -26,9 +26,7 @@ During the firm's two-year involvement, advocates Ripp and Koerner say phone and
 
 Ripp emphasized that none of their original hard-earned research-including Koerner's counter-arguments to the State's responses-was ever able to be brought forth into an evidentiary hearing. "Among other things, we uncovered a suppressed Alabama State Coroners' Report detailing the exhumation of the murder victim, and the removal of all seven cervical vertebrae. How bad does this have to be to get attention? Evidence tampering, pure and simple."
 
-Other pressing concerns-like Murray's deteriorating medical condition and the prison's wall-phone failure to connect him to counsel? They ignored it all – even when other Holman inmates,
-
-represented by the firm, verified the same wall-phone failures. But when Koerner had pressed the issues, she says she was removed from portal access.
+Other pressing concerns-like Murray's deteriorating medical condition and the prison's wall-phone failure to connect him to counsel? They ignored it all – even when other Holman inmates, represented by the firm, verified the same wall-phone failures. But when Koerner had pressed the issues, she says she was removed from portal access.
 
 "I asked hard questions, and they didn't like it," Koerner said. "Later, when Paul and Mr. Lawrence, Sr. requested that I be reinstated, it coincided precisely with the firm cutting ties."
 
