@@ -4,12 +4,11 @@ date: 2025-08-19
 thumbnail: "img/innocent.jpg"
 categories: 
   - bcso
-
 authors: 
   - nancy-koerner
 ---
 
-<a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a> by guest writer Nancy Koerner.
+<a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>
 
 Following the Alabama Gazette's recent coverage of the wrongful conviction claims surrounding inmate Murray "Bubba" Lawrence, Jr., his longtime advocacy team is drawing attention to another troubling chapter: the unexpected disengagement of a Birmingham law firm during a critical moment in his post-conviction fight.
 
