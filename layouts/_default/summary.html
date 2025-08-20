@@ -18,8 +18,19 @@
         </h2>
     </header>
     <div class="content list__excerpt post__content clearfix {{ if in .Params.categories "backstory-podcast" }}backstory__content{{ end }}{{ if in .Params.categories "bcso" }}bcso__content{{ end }}{{ if in .Params.categories "holiday" }}holiday__content{{ end }}{{ if in .Params.categories "alabama" }}alabama__content{{ end }}">
-        {{- $cleanedSummary := .Summary | plainify -}}
+        {{- $cleanedSummary := .Summary -}}
         {{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` " " $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&lsquo;` "'" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&hellip;` "..." $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&mdash;` "—" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&ndash;` "–" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&amp;` "&" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
         {{ $cleanedSummary }}
     </div>
     {{- if and .Site.Params.readmore (not (in .Params.categories "holiday")) }}

@@ -40,7 +40,21 @@
                 <img width="336px" height="174px" loading="lazy" src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $thumbnail }}" alt="{{ .Title }}" class="widget__thumbnail-image">
               </div>
             {{- end }}
-            <p style="text-align:left;" class="widget__summary">{{ .Summary | plainify }}</p>
+            <p style="text-align:left;" class="widget__summary">
+              {{- $cleanedSummary := .Summary -}}
+              {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&lsquo;` "'" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&hellip;` "..." $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&mdash;` "—" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&ndash;` "–" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&amp;` "&" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary -}}
+              {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
+              {{ $cleanedSummary }}
+            </p>
           </a>
         </li>
       {{- end }}

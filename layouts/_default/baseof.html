@@ -13,7 +13,7 @@
     <script>(function(d,e){d[e]=d[e].replace("no-js","js")})(document.documentElement,"className");</script>
 
     {{/* Meta Description */}}
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}{{ end }}">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ $cleanedSummary := .Summary }}{{ $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&lsquo;` "'" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&hellip;` "..." $cleanedSummary }}{{ $cleanedSummary = replaceRE `&mdash;` "—" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&ndash;` "–" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&amp;` "&" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary }}{{ $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary }}{{ $cleanedSummary | truncate 150 }}{{ end }}{{ end }}">
 
     {{/* Open Graph, Twitter Cards, and Schema */}}
     {{- if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{- end }}
