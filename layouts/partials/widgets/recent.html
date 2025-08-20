@@ -55,7 +55,7 @@
               {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `<[^>]*>` "" $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `\s+` " " $cleanedSummary -}}
-              {{- $cleanedSummary = trim $cleanedSummary -}}
+              {{- $cleanedSummary = trim $cleanedSummary " " -}}
               {{ $cleanedSummary }}
             </p>
           </a>
