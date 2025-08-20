@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="main" role="main">
+    <header class="page-header">
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <div class="page-description">{{ . }}</div>
+        {{ end }}
+    </header>
+
+    <div class="content">
+        {{ range .Pages }}
+            {{ .Render "summary" }}
+        {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+</main>
+{{ end }}
