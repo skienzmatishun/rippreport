@@ -3,7 +3,7 @@ title: "Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midst
 date: 2025-08-19
 thumbnail: "img/innocent.jpg"
 categories: 
-  - bcso
+  - dwtd
 authors: 
   - nancy-koerner
 ---
