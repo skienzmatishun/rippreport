@@ -31,6 +31,9 @@
         {{- $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary -}}
         {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `<[^>]*>` "" $cleanedSummary -}}
+        {{- $cleanedSummary = replaceRE `\s+` " " $cleanedSummary -}}
+        {{- $cleanedSummary = trim $cleanedSummary -}}
         {{ $cleanedSummary }}
     </div>
     {{- if and .Site.Params.readmore (not (in .Params.categories "holiday")) }}
