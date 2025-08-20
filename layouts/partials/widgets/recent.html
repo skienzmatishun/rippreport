@@ -41,7 +41,11 @@
               </div>
             {{- end }}
             <p style="text-align:left;" class="widget__summary">
-              {{- $cleanedSummary := .Summary -}}
+              {{- $summary := .Summary -}}
+              {{- if not $summary -}}
+                {{- $summary = .Content -}}
+              {{- end -}}
+              {{- $cleanedSummary := $summary | plainify | truncate 150 -}}
               {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
@@ -53,7 +57,6 @@
               {{- $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `<[^>]*>` "" $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `\s+` " " $cleanedSummary -}}
               {{- $cleanedSummary = trim $cleanedSummary " " -}}
               {{ $cleanedSummary }}
