@@ -59,7 +59,7 @@
               {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
               {{- $cleanedSummary = replaceRE `\s+` " " $cleanedSummary -}}
               {{- $cleanedSummary = trim $cleanedSummary " " -}}
-              {{ $cleanedSummary }}
+              {{ $cleanedSummary | truncate 400 }}
             </p>
           </a>
         </li>
