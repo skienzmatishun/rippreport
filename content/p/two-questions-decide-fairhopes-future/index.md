@@ -4,6 +4,11 @@ date: 2025-08-21
 categories:
   - elections
 thumbnail: "img/two-questions-decide-fairhopes-future.png"
+tags:
+  - Wilson
+  - City Council
+  - Sullivan
+  - BP
 summary: "Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?"
 authors:
   - admin
