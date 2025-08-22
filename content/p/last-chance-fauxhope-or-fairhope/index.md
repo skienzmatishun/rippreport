@@ -69,7 +69,7 @@ Fauxhope keep Jack-- Fairhope-- vote Jack OUT make a needed change vote for Troy
 
 <style>
 .source-url {background:transparent !important;color:black !important;}
-.social-preview a p {display:none;}
+
 </style>
 
 {{< chat lcfhofh >}}
