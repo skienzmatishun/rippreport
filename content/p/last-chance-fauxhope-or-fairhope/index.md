@@ -60,16 +60,16 @@ Fauxhope keep Jack-- Fairhope-- vote Jack OUT make a needed change vote for Troy
 
 {{< socialpreview url="https://troyvickers.com/" >}}
 
-{{< chat lcfhofh >}}
-
-<a href="https://troyvickers.com/"><img src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-1.png" alt="Troy Vickers Website"></a>
-<a href="https://troyvickers.com/#65bb8506-b55b-4854-baeb-7c4107352ae3"><img src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-2.png" alt="Troy Vickers Website"></a>
-<a href="https://troyvickers.com/#bs-3"><img src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-3.png" alt="Troy Vickers Website">
-<a href="https://troyvickers.com/#08f44bd4-53eb-4e60-993c-9ea9168240e1"><img src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-4.png" alt="Troy Vickers Website">
-<a href="https://troyvickers.com/#2edc5d7a-fb6c-456d-90fc-873176621443"><img src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-5.png" alt="Troy Vickers Website">
-<a href="https://troyvickers.com/#a8ae31fc-b16a-434a-9f11-a65ef8a8d258"><img src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-6.png" alt="Troy Vickers Website">
+<a href="https://troyvickers.com/"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-1.png" alt="Troy Vickers Website"></a>
+<a href="https://troyvickers.com/#65bb8506-b55b-4854-baeb-7c4107352ae3"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-2.png" alt="Troy Vickers Website"></a>
+<a href="https://troyvickers.com/#bs-3"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-3.png" alt="Troy Vickers Website">
+<a href="https://troyvickers.com/#08f44bd4-53eb-4e60-993c-9ea9168240e1"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-4.png" alt="Troy Vickers Website">
+<a href="https://troyvickers.com/#2edc5d7a-fb6c-456d-90fc-873176621443"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-5.png" alt="Troy Vickers Website">
+<a href="https://troyvickers.com/#a8ae31fc-b16a-434a-9f11-a65ef8a8d258"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/vickers-6.png" alt="Troy Vickers Website">
 
 <style>
 .source-url {background:transparent !important;color:black !important;}
 .social-preview a p {display:none;}
 </style>
+
+{{< chat lcfhofh >}}
