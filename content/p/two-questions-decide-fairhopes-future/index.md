@@ -28,7 +28,7 @@ These two issues shaped my time as mayor.
 I refused the double pay and used those funds to hire a professional engineer dedicated to city utilities. Fairhope has had engineers before, but never one in place to manage a city that owns all of its utilities in need of major upgrades.
 
 I also secured 40 million dollars in BP funding for utility upgrades and more. Has anyone seen an update on those projects that should have been completed by now?
-After I left office, Mayor Sherry Sullivan fired the utilities engineer, took the second salary herself, and now a high school graduate manages all of it. 
+After I left office, Mayor Sherry Sullivan fired the utilities engineer, took the second salary herself, and now a high school graduate manages all of it.
 On districts, I pushed hard for accountability. Five council members are still elected at-large. That means no one represents you directly. If you have a concern, you have to chase all five. It protects special interests and makes it easy for them to dodge responsibility. I tried to put districts on the ballot. The council spread misinformation and the vote failed. A district system with a city manager would let the mayor be a figure head like in most cities, while professionals manage operations like a business. Which is exactly why the incumbents fight it.
 If you want these things to change, you cannot keep voting for the same people and expect a different result.
 
