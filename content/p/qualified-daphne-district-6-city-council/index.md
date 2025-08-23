@@ -8,6 +8,7 @@ tags:
   - Elections
   - City Council
   - Daphne
+  - Ramsey
 summary: "Every now and then you get a candidate interested in public service that is highly skilled and over qualified. Someone who is willing to use his skills he learned in private business to a position of public servant. Dr. Byrian Ramsey is one of those candidates."
 authors:
   - admin
