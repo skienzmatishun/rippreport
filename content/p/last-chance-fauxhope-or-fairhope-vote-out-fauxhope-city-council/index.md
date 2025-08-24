@@ -3,7 +3,7 @@ title: "LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL"
 date: 2025-08-24
 categories:
   - elections
-thumbnail: "img/last-chance-fauxhope-or-fairhope.png"
+thumbnail: "img/last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council.png"
 tags:
   - Elections
   - City Council
