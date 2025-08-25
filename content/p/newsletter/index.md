@@ -16,11 +16,7 @@ We will be covering all 14 municipalities and encourage citizens in these commun
 
 We will work with you and keep you anonymous if so desired. This is a not for profit organization and our assistance is free, no charge at all.
 
-Baldwin County has 4 county commissioners, those incumbents need to be shown the door. The district 32 State Senate seat is being vacated, thank God, by BP Pittman. This is an important position and in the past district 32 has had no identity on goat hill, other than carrying water for someone else. Pittman is the Baldwin County poster child for corruption and his legacy will forever be his greed and $750,000 he skimmed from BP.
-
 The Ripp Report will be covering the candidates and we will provide you with facts about candidates and there history, that you may not read elsewhere.
-
-Feb 9th @ 5:00 pm is the cut off time for qualification, then it is game on.
 
 Don’t let anyone tell you that you cannot make a difference and that corruption is an acceptable flaw in government.
 
