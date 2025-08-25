@@ -8,7 +8,7 @@ authors:
   - ripp-report
 ---
 
-Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The mid term election are going to be very important to the citizens of Baldwin County which has 14 municipalities.
+Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The upcoming elections are going to be very important to the citizens of Baldwin County.
 
 [http://baldwincountyal.gov/Government/municipalities](http://baldwincountyal.gov/Government/municipalities)
 
