@@ -25,3 +25,5 @@ Please tell your neighbors and friends to sign up for the Newsletter: [https://r
 Think about this, roughly 30 % vote, 20% of them vote straight ticket. That leaves 10% of the population who actually participate in some way with there municipal government. That is why we have such a high level of corruption throughout Baldwin County.
 
 Get involved You can make a difference.
+
+{{< chat newsletter >}}
