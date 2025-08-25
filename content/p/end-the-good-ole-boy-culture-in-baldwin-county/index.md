@@ -3,7 +3,7 @@ title: "END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY"
 date: 2025-08-25
 categories:
   - elections
-thumbnail: "img/last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council.png"
+thumbnail: "img/end-the-good-ole-boy-culture-in-baldwin-county.png"
 tags:
   - Elections
   - City Council
