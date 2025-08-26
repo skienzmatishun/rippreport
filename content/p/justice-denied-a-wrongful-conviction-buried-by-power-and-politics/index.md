@@ -2,6 +2,7 @@
 title: "Justice Denied: A Wrongful Conviction Buried by Power and Politics"
 date: 2025-07-30
 thumbnail: "img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png"
+gif: "img/test.gif"
 tags:
   - Murray Lawrence Jr
   - David Whetstone
