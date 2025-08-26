@@ -1,30 +1,18 @@
-document.addEventListener('DOMContentLoaded', function() {
+function loadGifs() {
   const gifImages = document.querySelectorAll('.thumbnail__gif[data-src]');
   
-  if ('IntersectionObserver' in window) {
-    const imageObserver = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const img = entry.target;
-          img.src = img.dataset.src;
-          img.removeAttribute('data-src');
-          
-          img.onload = function() {
-            img.classList.add('loaded');
-          };
-          
-          observer.unobserve(img);
-        }
-      });
-    });
-
-    gifImages.forEach(img => imageObserver.observe(img));
-  } else {
-    // Fallback for browsers without IntersectionObserver
-    gifImages.forEach(img => {
-      img.src = img.dataset.src;
-      img.removeAttribute('data-src');
+  gifImages.forEach(img => {
+    img.src = img.dataset.src;
+    img.removeAttribute('data-src');
+    
+    img.onload = function() {
       img.classList.add('loaded');
-    });
-  }
+    };
+  });
+}
+
+// Wait for everything to finish loading before loading GIFs
+window.addEventListener('load', function() {
+  // Add a small delay to ensure all resources are truly loaded
+  setTimeout(loadGifs, 100);
 });
