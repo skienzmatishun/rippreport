@@ -351,7 +351,26 @@
      	color:white;
      	margin-bottom:0;
      }
-
+     .thumbnail__image {min-width:100%;}
+     
+     .thumbnail__video--with-gif {
+       position: relative;
+     }
+     
+     .thumbnail__gif {
+       position: absolute;
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 100%;
+       object-fit: cover;
+       opacity: 0;
+       transition: opacity 0.3s ease;
+     }
+     
+     .thumbnail__gif.loaded {
+       opacity: 1;
+     }
      .widget__summary {
      	padding: 1rem;
      }
@@ -593,6 +612,7 @@
 
      .bcso__list__header a{
      font-size:1.25rem !important;
+     }
      }
 
      @media screen and (max-width: 767px) {

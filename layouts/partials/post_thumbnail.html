@@ -64,17 +64,29 @@
       {{- $thumbnail = $thumbnail.src }}
     {{- end }}
 
-    {{- if in $visibility $class }}
+    {{- $isGif := strings.HasSuffix $thumbnail ".gif" }}
+    {{- $showThumbnail := and (in $visibility $class) (or (ne $class "post") (not $isGif)) }}
+    {{- $gif := $page.Params.gif }}
+    {{- $showGif := and $gif (eq $class "list") }}
+
+    {{- if $showThumbnail }}
       <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
         <figure class="thumbnail">
           {{- if $thumbnail }}
-            <div class="thumbnail__video">
+            <div class="thumbnail__video{{ if $showGif }} thumbnail__video--with-gif{{ end }}">
               <img
-
                 class="thumbnail__image{{ if in $page.Params.categories "repost" }} repost__thumbnail__image{{ end }}"
                 src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
               >
+              {{- if $showGif }}
+                <img
+                  class="thumbnail__gif"
+                  data-src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $gif | relURL }}"
+                  alt="{{ $page.Title }} - Animated"
+                  loading="lazy"
+                >
+              {{- end }}
             </div>
           {{- end }}
         </figure>

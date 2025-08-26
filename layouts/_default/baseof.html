@@ -83,5 +83,8 @@
     {{ range .Site.Params.customJS -}}
         <script src="{{ . | relURL }}" defer></script>
     {{- end }}
+    
+    {{/* Lazy GIF Loading */}}
+    <script src="{{ "js/lazy-gif.js" | relURL }}" defer></script>
 </body>
 </html>
