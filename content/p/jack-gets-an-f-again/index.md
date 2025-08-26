@@ -2,6 +2,7 @@
 title: "JACK GETS AN F - AGAIN"
 date: 2019-02-15
 thumbnail: "img/jack-gets-an-f-again.jpg"
+gif: "img/jack-gets-an-f.gif"
 categories: 
   - citycouncil
 tags: 
