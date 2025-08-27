@@ -2,8 +2,11 @@
 title: "LEGO ROCKET SCIENTIST"
 date: 2022-01-13
 thumbnail: "img/lego-rocket-scientist.jpg"
+gif: "img/lego-rocket-scientist.gif"
 categories: 
-  - thursday-thunder
+  - city council
+  - Burrell
+  - Airport
 authors: 
   - admin
 ---
