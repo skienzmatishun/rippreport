@@ -4,7 +4,8 @@ date: 2022-01-13
 thumbnail: "img/lego-rocket-scientist.jpg"
 gif: "img/lego-rocket-scientist.gif"
 categories: 
-  - city council
+  - citycouncil
+tags:
   - Burrell
   - Airport
 authors: 
