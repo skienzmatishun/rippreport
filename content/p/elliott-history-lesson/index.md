@@ -2,6 +2,7 @@
 title: "ELLIOTT HISTORY LESSON"
 date: 2023-07-15
 thumbnail: "img/elliot-history-lesson.jpg"
+gif: "img/elliot-history-lesson.gif"
 tags:
   - Elliott
   - Mayor Sullivan

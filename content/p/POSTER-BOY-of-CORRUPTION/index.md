@@ -2,6 +2,7 @@
 title: "POSTER BOY OF CORRUPTION"
 date: 2024-03-13
 thumbnail: "img/stealing-from-kids.jpg"
+gif: "img/stealing-from-kids.gif"
 summary: "Tom Albritton, the head of the Alabama Ethics Commission, is accused of unethical behavior related to a trust. Despite this, he remains in office with a high salary and even teaches ethics. Some people think he’s a classic case of a sociopath."
 tags:
   - Albritton
