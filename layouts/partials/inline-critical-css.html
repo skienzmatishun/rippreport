@@ -372,6 +372,11 @@
        opacity: 1;
      }
      
+     .widget__thumbnail {
+       position: relative;
+       display: block;
+     }
+     
      .widget__thumbnail--with-gif {
        position: relative;
      }
@@ -385,10 +390,16 @@
        object-fit: cover;
        opacity: 0;
        transition: opacity 0.3s ease;
+       z-index: 2;
      }
      
      .widget__gif.loaded {
        opacity: 1;
+     }
+     
+     .widget__thumbnail-image {
+       position: relative;
+       z-index: 1;
      }
      .widget__summary {
      	padding: 1rem;
