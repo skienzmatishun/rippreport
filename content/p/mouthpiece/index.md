@@ -2,7 +2,7 @@
 title: "MOUTHPIECE"
 date: 2022-08-20
 thumbnail: "/img/toll-troll.jpg"
-gif: "/img/toll-troll.jpg"
+gif: "/img/toll-troll.gif"
 tags:
   - Toll Bridge
   - Jack Burrell
