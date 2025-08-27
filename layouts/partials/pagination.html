@@ -1,0 +1,17 @@
+{{- if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<div class="pagination">
+	{{- if .Paginator.HasPrev }}
+	<a class="pagination__item pagination__item--prev btn" href="{{ .Paginator.Prev.URL }}">«</a>
+	{{- end }}
+	<span class="pagination__item pagination__item--current">
+		{{- .Paginator.PageNumber }}/{{ .Paginator.TotalPages -}}
+	</span>
+	<div class="pagination__item pagination__item--jump">
+		<input type="number" id="page-jump" min="1" max="{{ .Paginator.TotalPages }}" placeholder="Go to" class="pagination__input">
+		<button onclick="jumpToPage()" class="pagination__button btn">Go</button>
+	</div>
+	{{- if .Paginator.HasNext }}
+	<a class="pagination__item pagination__item--next btn" href="{{ .Paginator.Next.URL }}">»</a>
+	{{- end }}
+</div>
+{{- end }}
