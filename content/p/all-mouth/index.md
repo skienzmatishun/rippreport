@@ -2,6 +2,7 @@
 title: "ALL MOUTH"
 date: 2023-05-25
 thumbnail: "img/all-mouth.jpg"
+gif: "img/all-mouth.gif"
 categories: 
   - freaky-friday
 authors: 
