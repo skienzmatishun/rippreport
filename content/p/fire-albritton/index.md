@@ -2,6 +2,7 @@
 title: "FIRE ALBRITTON"
 date: 2024-11-03
 thumbnail: "img/stealing-from-kids.jpg"
+gif: "img/stealing-from-kids.gif"
 summary: "The news lately has been focused on our Me Ma Governor firing one of the very few reputable individuals working in our corrupt alabama system. She used 'extreme Executive Power' to fire Alabama Department of Veterans Affairs Director Kent Davis."
 tags:
   - Ivey
