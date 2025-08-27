@@ -2,10 +2,12 @@
 title: "TROLLS FOR TOLLS"
 date: 2022-01-28
 thumbnail: "img/toll-troll.jpg"
+gif: "img/toll-troll.gif"
 tags:
   - City Council
   - Jack Burrell
   - Toll Bridge
+  - Airport
 categories: 
   - citycouncil
 authors: 
