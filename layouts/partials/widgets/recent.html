@@ -35,9 +35,18 @@
           <a class="widget__link{{ if in .Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in .Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ .RelPermalink }}">
             <h4>{{ .Title }}</h4>
             {{- if .Params.thumbnail }}
-              <div class="widget__thumbnail">
+              <div class="widget__thumbnail{{ if .Params.gif }} widget__thumbnail--with-gif{{ end }}">
                 {{- $thumbnail := .Params.thumbnail }}
                 <img width="336px" height="174px" loading="lazy" src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $thumbnail }}" alt="{{ .Title }}" class="widget__thumbnail-image">
+                {{- if .Params.gif }}
+                  <img
+                    class="widget__gif"
+                    data-src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ .Params.gif }}"
+                    alt="{{ .Title }} - Animated"
+                    width="336px"
+                    height="174px"
+                  >
+                {{- end }}
               </div>
             {{- end }}
             <p style="text-align:left;" class="widget__summary">

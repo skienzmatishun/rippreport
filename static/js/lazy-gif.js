@@ -1,5 +1,5 @@
 function loadGifs() {
-  const gifImages = document.querySelectorAll('.thumbnail__gif[data-src]');
+  const gifImages = document.querySelectorAll('.thumbnail__gif[data-src], .widget__gif[data-src]');
   
   gifImages.forEach(img => {
     img.src = img.dataset.src;
