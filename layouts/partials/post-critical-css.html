@@ -662,14 +662,13 @@
       order: 1;
       width: 100%;
     }
-
+    .pager__item {
+    min-width:none;
+  }
     .wrapper {
       display: block;
     }
-    .pager__item {
-      margin: 2rem;
-    }
-    .pager {border:0 !important;}
+    
     .social-preview {
       max-width: none;
     }
@@ -744,6 +743,13 @@
     .top-social {
       display: none;
     }
+    .pager__link {margin:0;}
+
+  }
+  @media screen and (max-width: 620px) {
+    .pager__item {
+      min-width:0;
+    }
   }
   /* Small devices (landscape phones, 576px and up) */
   @media (min-width: 576px) and (max-width: 767.98px) {
@@ -751,6 +757,8 @@
     .social-preview {
       width: 100%;
     }
+    .pager__link {margin:0;}
+    .pager__item {min-width:0 !important;}
 
     .cactus-container {
       min-width: 0 !important;
