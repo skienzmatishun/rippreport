@@ -5,7 +5,11 @@
 {{- $recentToShow := slice }}
 
 {{- if .IsHome }}
-  {{- $recentToShow = after 10 $recent }}
+  {{- if .Paginator.HasPrev }}
+    {{- $recentToShow = $recent }}
+  {{- else }}
+    {{- $recentToShow = after 10 $recent }}
+  {{- end }}
 {{- else if and (ne .Kind "page") .Paginator }}
   {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
 {{- else }}
