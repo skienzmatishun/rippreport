@@ -1,8 +1,0 @@
-{{- $paginator := .Paginate .Site.RegularPages -}}
-{{- $pages := $paginator.Pages -}}
-{{- $scratch := newScratch -}}
-{{- $scratch.Add "index" slice -}}
-{{- range $pages -}}
-    {{- $scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary) -}}
-{{- end -}}
-{{- $scratch.Get "index" | jsonify -}}
