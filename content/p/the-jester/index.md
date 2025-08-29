@@ -2,7 +2,7 @@
 title: "THE JESTER"
 date: 2019-07-12
 thumbnail: "img/the-jester.jpg"
-gif: "img/the-jester.gif"
+gif: "img/the-jester1.gif"
 categories: 
   - citycouncil
 authors: 
