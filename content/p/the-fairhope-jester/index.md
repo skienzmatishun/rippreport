@@ -2,8 +2,9 @@
 title: "THE FAIRHOPE JESTER"
 date: 2020-04-08
 thumbnail: "img/the-jester.jpg"
+gif: "img/the-jester-1.gif"
 categories: 
-  - wonderful-wednesday
+  - city-council
 authors: 
   - admin
 ---

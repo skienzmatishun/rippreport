@@ -6,6 +6,10 @@ disableHugoGeneratorInject = true
 logo = "https://rippreport.com/img/eagle.png"
 disableKinds = ["taxonomy", "term"]
 
+[outputs]
+  home = ["HTML", "JSON"]
+
+
 [Author] # Used in authorbox
   name = "Francis Ripp"
   bio = ""

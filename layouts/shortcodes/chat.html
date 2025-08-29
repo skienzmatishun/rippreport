@@ -757,4 +757,67 @@
 
   // Start checking after a delay to let cactus initialize
   setTimeout(waitForCactusReady, 5000);
+
+  // New script for infinite scroll
+  const commentsContainerForScroll = document.querySelector("#comment-section");
+  let isLoading = false;
+  let page = 1;
+  let allPosts = [];
+
+  async function fetchAndInjectPosts() {
+    if (isLoading) return;
+    isLoading = true;
+
+    try {
+      const response = await fetch(`/page/${page}/index.json`);
+      if (!response.ok) {
+        console.error("Failed to fetch posts");
+        isLoading = false;
+        return;
+      }
+      const newPosts = await response.json();
+      
+      if (newPosts.length > 0) {
+        const newPostsContainer = document.createElement("div");
+        let newPostsHtml = '';
+        newPosts.forEach(post => {
+          newPostsHtml += `
+            <div class="post-placeholder">
+              <h3><a href="${post.permalink}">${post.title}</a></h3>
+              <p>${post.summary}</p>
+            </div>
+          `;
+        });
+        newPostsContainer.innerHTML = newPostsHtml;
+        document.querySelector('.main-content').appendChild(newPostsContainer); // Adjust selector if needed
+        page++;
+      }
+    } catch (error) {
+      console.error("Error fetching posts:", error);
+    } finally {
+      isLoading = false;
+    }
+  }
+
+  function checkWhitespaceAndLoad() {
+    const viewportHeight = window.innerHeight;
+    const contentHeight = document.body.scrollHeight;
+    const scrollPosition = window.scrollY;
+
+    if (contentHeight - (scrollPosition + viewportHeight) < 200) { // Load when 200px from bottom
+      fetchAndInjectPosts();
+    }
+  }
+
+  const scrollObserver = new MutationObserver(() => {
+    checkWhitespaceAndLoad();
+    window.addEventListener("scroll", checkWhitespaceAndLoad);
+  });
+
+  if (commentsContainerForScroll) {
+    scrollObserver.observe(commentsContainerForScroll, {
+      childList: true,
+      subtree: true,
+    });
+  }
 </script>
