@@ -4,7 +4,7 @@ date: 2020-04-08
 thumbnail: "img/the-jester.jpg"
 gif: "img/the-jester-1.gif"
 categories: 
-  - city-council
+  - citycouncil
 authors: 
   - admin
 ---
