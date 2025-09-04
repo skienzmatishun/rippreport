@@ -2,6 +2,7 @@
 title: "ZUNK THE SKUNK"
 date: 2018-06-22
 thumbnail: "img/zunk.jpg"
+gif: "img/zunk.gif"
 tags:
   - Zunk
   - Burrell
