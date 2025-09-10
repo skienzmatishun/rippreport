@@ -4,6 +4,7 @@ date: 2025-09-10
 categories:
   - repost
 youtube: "-YQAxXGPpcc"
+thumbnail: "img/the-law-enforcement-narrative.png"
 authors:
   - admin
 ---
