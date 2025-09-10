@@ -10,11 +10,12 @@
           <iframe
             loading="lazy"
             class="thumbnail__iframe"
-            src="https://www.youtube.com/embed/{{ $youtube }}"
+            src="https://www.youtube.com/embed/{{ $youtube }}?rel=0&modestbranding=1"
             title="{{ $page.Title }} - YouTube video"
             frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
+            referrerpolicy="strict-origin-when-cross-origin"
           ></iframe>
           {{ partial "svg/loading.svg" (dict "class" "loading") -}}
         </div>
