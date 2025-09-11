@@ -1,8 +1,9 @@
 ---
 title: "HAPPY JULY 4TH"
 date: 2019-07-04
+thumbnail: "img/happy-july-4th.png"
 categories: 
-  - wonderful-wednesday
+  - holiday
 authors: 
   - admin
 ---
