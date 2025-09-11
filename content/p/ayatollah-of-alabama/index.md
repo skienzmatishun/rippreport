@@ -1,9 +1,9 @@
 ---
 title: "“Ayatollah of Alabama”"
 date: 2017-12-01
-thumbnail: "img/ayatollah-of-alabama.jpg"
+thumbnail: "img/ayatollah-of-alabama.png"
 categories: 
-  - freaky-friday
+  - alabama
 tags: 
   - moore
 authors: 
