@@ -2,7 +2,7 @@
 title: "Fourth of July"
 date: 2020-07-04
 categories: 
-  - Special-Report
+  - Holiday
 authors: 
   - admin
 ---
