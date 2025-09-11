@@ -1,7 +1,7 @@
 ---
 title: "APRIL FOOL"
 date: 2020-04-01
-thumbnail: "img/april-fool.jpg"
+thumbnail: "img/april-fool.png"
 categories: 
   - wonderful-wednesday
 authors: 
