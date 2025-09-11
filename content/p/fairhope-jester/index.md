@@ -2,7 +2,7 @@
 title: "THE FAIRHOPE JESTER"
 date: 2018-02-23
 thumbnail: "img/the-jester.jpg"
-gif: "img/the-jester1.gif"
+gif: "img/the-jester-1.gif"
 categories: 
   - ethics
 tags: 
