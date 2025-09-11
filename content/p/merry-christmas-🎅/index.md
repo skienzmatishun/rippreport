@@ -1,7 +1,7 @@
 ---
 title: "MERRY CHRISTMAS 🎅"
 date: 2022-12-24
-thumbnail: "img/christmas.jpg"
+thumbnail: "img/christmas.png"
 categories: 
   - holiday
 authors: 
