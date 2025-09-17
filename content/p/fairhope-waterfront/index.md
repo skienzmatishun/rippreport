@@ -1,7 +1,7 @@
 ---
 title: "FAIRHOPE WATERFRONT"
 date: 2020-06-27
-thumbnail: "img/fairhope-waterfront.jpg"
+thumbnail: "img/fairhope-waterfront.png"
 categories: 
   - citycouncil
 tags: 
