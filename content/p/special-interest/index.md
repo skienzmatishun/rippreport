@@ -1,7 +1,7 @@
 ---
 title: "SPECIAL INTEREST"
 date: 2018-10-26
-thumbnail: "img/special-interest.jpg"
+thumbnail: "img/special-interest.png"
 tags:
   - catalyst
   - Elections
