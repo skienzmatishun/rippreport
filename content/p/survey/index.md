@@ -1,7 +1,7 @@
 ---
 title: "SURVEY"
 date: 2020-02-08
-thumbnail: "img/survey.jpg"
+thumbnail: "img/fairhope-waterfront.png"
 categories: 
   - freaky-friday
 authors: 

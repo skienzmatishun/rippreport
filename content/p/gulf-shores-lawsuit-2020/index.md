@@ -1,7 +1,7 @@
 ---
 title: "GULF SHORES LAWSUIT & 2020"
 date: 2019-05-29
-thumbnail: "img/gulf-shores-lawsuit-2020.jpg"
+thumbnail: "img/gulf-shores-lawsuit-2020.png"
 categories: 
   - wonderful-wednesday
 tags: 
