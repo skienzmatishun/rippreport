@@ -1,7 +1,7 @@
 ---
 title: "DIRTY LITTLE SECRETS"
 date: 2018-09-21
-thumbnail: "img/dirty-little-secrets.jpg"
+thumbnail: "img/dirty-little-secrets.png"
 categories: 
   - freaky-friday
 authors: 
