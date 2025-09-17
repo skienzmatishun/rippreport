@@ -3,9 +3,10 @@ title: "PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - P
 date: 2018-07-12
 thumbnail: "img/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one.jpg"
 categories: 
-  - Special-Report
+  - family-court
 tags: 
   - thomason
+  - family court
 authors: 
   - ripp-report
 ---
