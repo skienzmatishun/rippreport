@@ -2,8 +2,9 @@
 title: "FAUXHOPE ROLLER-COASTER"
 date: 2022-04-12
 thumbnail: "img/fauxhope-roller-coaster.jpg"
+gif: "img/fauxhope-roller-coaster.gif"
 categories: 
-  - terrific-tuesday
+  - citycouncil
 authors: 
   - admin
 ---
