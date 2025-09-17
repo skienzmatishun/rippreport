@@ -3,7 +3,7 @@ title: "FAILING OUR CHILDREN IN BALDWIN COUNTY"
 date: 2025-03-21
 thumbnail: "img/failing-our-children-in-baldwin-county.png"
 categories: 
-  - ivy
+  - family-court
 authors: 
   - ripp-report
 ---
