@@ -1,9 +1,9 @@
 ---
 title: "GRINDER PUMPS"
 date: 2018-02-02
-thumbnail: "img/grinder-pumps.jpg"
+thumbnail: "img/grinder-pumps.png"
 categories: 
-  - freaky-friday
+  - wonderful-wednesday
 tags: 
   - sewer
   - turner
