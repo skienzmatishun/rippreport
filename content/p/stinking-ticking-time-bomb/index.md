@@ -4,7 +4,7 @@ date: 2022-08-12
 thumbnail: "img/stinking-ticking-time-bomb.jpg"
 gif: "img/stinking-ticking-time-bomb.gif"
 categories: 
-  - none
+  - citycouncil
 authors: 
   - admin
 ---
