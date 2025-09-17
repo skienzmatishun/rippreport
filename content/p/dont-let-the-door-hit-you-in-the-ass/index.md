@@ -1,7 +1,7 @@
 ---
 title: "DON’T LET THE DOOR HIT YOU IN THE ASS"
 date: 2018-10-17
-thumbnail: "img/dont-let-the-door-hit-you-in-the-ass.jpg"
+thumbnail: "img/dont-let-the-door-hit-you-in-the-ass.png"
 categories: 
   - wonderful-wednesday
 authors: 
@@ -46,7 +46,6 @@ A VOTE for Chris Elliott is a VOTE for Catalyst.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-baldwin-county/" >}}
 
-</div>
 VOTE for the candidate not the party. The alternative to Elliott is Jason Fisher. Fisher is not bought and paid for nor is he affiliated with Catalyst.
 
 [https://www.facebook.com/jason.fisher.3367](https://www.facebook.com/jason.fisher.3367)
