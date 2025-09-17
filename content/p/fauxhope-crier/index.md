@@ -1,13 +1,14 @@
 ---
 title: "FAUXHOPE CRIER"
 date: 2023-09-05
-thumbnail: "img/town-crier.jpg"
+thumbnail: "img/town-crier.png"
+gif: "img/town-crier.gif"
 tags:
   - Cory Martin
   - City Council
   - Utilities
 categories: 
-  - terrific-tuesday
+  - citycouncil
 authors: 
   - admin
 ---
