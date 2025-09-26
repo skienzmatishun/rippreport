@@ -2,6 +2,7 @@
 title: "BCSO - NO CLONES"
 date: 2025-09-26
 thumbnail: "img/bcso-no-clones.png"
+gif: "img/bcso-no-clones.gif"
 tags:
   - Elections
   - Hoss Mack
