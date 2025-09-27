@@ -13,12 +13,17 @@
 {{- else if and (ne .Kind "page") .Paginator }}
   {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
 {{- else }}
-  {{- $currentCategories := .Params.categories | default slice }}
-  {{- if gt (len $currentCategories) 0 }}
-    {{- $firstCategory := index $currentCategories 0 }}
-    {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
+  {{- $recentCategoryOverride := .Params.recent_category_override }}
+  {{- if $recentCategoryOverride }}
+    {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $recentCategoryOverride) }}
   {{- else }}
-    {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+    {{- $currentCategories := .Params.categories | default slice }}
+    {{- if gt (len $currentCategories) 0 }}
+      {{- $firstCategory := index $currentCategories 0 }}
+      {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
+    {{- else }}
+      {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+    {{- end }}
   {{- end }}
 {{- end }}
 
