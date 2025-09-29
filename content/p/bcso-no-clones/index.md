@@ -3,14 +3,15 @@ title: "BCSO - NO CLONES"
 date: 2025-09-26
 thumbnail: "img/bcso-no-clones.png"
 gif: "img/bcso-no-clones.gif"
-recent_category_override: "bcso" 
+recent_category_override: "bcso"
+shorturl: "bcso"
 tags:
   - Elections
   - Hoss Mack
   - Lowery
-categories: 
+categories:
   - elections
-authors: 
+authors:
   - admin
 ---
 

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <link rel="canonical" href="{{ .Params.target }}">
+    <meta http-equiv="refresh" content="1; url={{ .Params.target }}">
+    <meta name="robots" content="noindex">
+    <script>
+        window.location.href = "{{ .Params.target }}";
+    </script>
+</head>
+<body>
+    <h1>Redirecting...</h1>
+    <p>If you are not redirected automatically, <a href="{{ .Params.target }}">click here</a>.</p>
+    <script>
+        // Fallback redirect
+        setTimeout(function() {
+            window.location.href = "{{ .Params.target }}";
+        }, 100);
+    </script>
+</body>
+</html>
