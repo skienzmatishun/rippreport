@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comment System Test - Loading and Display</title>
+    <link rel="stylesheet" href="comments.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f7fafc;
+            line-height: 1.6;
+        }
+        .test-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .test-header {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .test-title {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #2d3748;
+            margin: 0 0 10px 0;
+        }
+        .test-description {
+            color: #718096;
+            font-size: 1.1rem;
+        }
+        .test-controls {
+            background: #edf2f7;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .test-controls h3 {
+            margin: 0 0 15px 0;
+            color: #2d3748;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .test-button {
+            background: #3182ce;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: background 0.2s ease;
+        }
+        .test-button:hover {
+            background: #2c5aa0;
+        }
+        .test-button.secondary {
+            background: #718096;
+        }
+        .test-button.secondary:hover {
+            background: #4a5568;
+        }
+        .status-indicator {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            margin-left: 10px;
+        }
+        .status-success {
+            background: #c6f6d5;
+            color: #22543d;
+        }
+        .status-error {
+            background: #fed7d7;
+            color: #c53030;
+        }
+        .status-loading {
+            background: #bee3f8;
+            color: #2a69ac;
+        }
+        .mock-post {
+            background: #f7fafc;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3182ce;
+        }
+        .mock-post h2 {
+            margin: 0 0 10px 0;
+            color: #2d3748;
+        }
+        .mock-post p {
+            color: #4a5568;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <div class="test-header">
+            <h1 class="test-title">Comment System Test</h1>
+            <p class="test-description">
+                Testing comment loading and display functionality with nested comments and user colors.
+            </p>
+        </div>
+
+        <div class="test-controls">
+            <h3>Test Controls</h3>
+            <div class="button-group">
+                <button class="test-button" onclick="initializeCommentSystem()">
+                    Initialize Comment System
+                    <span id="init-status"></span>
+                </button>
+                <button class="test-button" onclick="loadMockComments()">
+                    Load Mock Comments
+                    <span id="load-status"></span>
+                </button>
+                <button class="test-button secondary" onclick="clearComments()">
+                    Clear Comments
+                </button>
+                <button class="test-button secondary" onclick="testUserColors()">
+                    Test User Colors
+                </button>
+                <button class="test-button secondary" onclick="testResponsive()">
+                    Test Responsive Design
+                </button>
+                <button class="test-button secondary" onclick="testCommentSubmission()">
+                    Test Comment Submission
+                </button>
+                <button class="test-button secondary" onclick="testUIEnhancements()">
+                    Test UI Enhancements
+                </button>
+                <button class="test-button secondary" onclick="testErrorStates()">
+                    Test Error States
+                </button>
+            </div>
+        </div>
+
+        <div class="mock-post">
+            <h2>Sample Blog Post</h2>
+            <p>This is a sample blog post to demonstrate the comment system. The comments will appear below this content.</p>
+        </div>
+
+        <!-- Comments will be inserted here by the comment system -->
+    </div>
+
+    <script src="comments.js"></script>
+    <script>
+        let commentSystem;
+        
+        // Mock comment data for testing
+        const mockComments = [
+            {
+                id: 'comment-1',
+                postId: 'test-post',
+                content: 'This is a great article! Thanks for sharing your insights.',
+                name: 'Alice Johnson',
+                userFingerprint: 'user1-fingerprint-abc123',
+                parentId: null,
+                timestamp: new Date(Date.now() - 3600000).toISOString(), // 1 hour ago
+                level: 0,
+                children: [
+                    {
+                        id: 'comment-2',
+                        postId: 'test-post',
+                        content: 'I completely agree with Alice. This really helped me understand the topic better.',
+                        name: 'Bob Smith',
+                        userFingerprint: 'user2-fingerprint-def456',
+                        parentId: 'comment-1',
+                        timestamp: new Date(Date.now() - 3000000).toISOString(), // 50 minutes ago
+                        level: 1,
+                        children: [
+                            {
+                                id: 'comment-3',
+                                postId: 'test-post',
+                                content: 'Same here! The examples were particularly helpful.',
+                                name: 'Charlie Brown',
+                                userFingerprint: 'user3-fingerprint-ghi789',
+                                parentId: 'comment-2',
+                                timestamp: new Date(Date.now() - 2700000).toISOString(), // 45 minutes ago
+                                level: 2,
+                                children: []
+                            }
+                        ]
+                    },
+                    {
+                        id: 'comment-4',
+                        postId: 'test-post',
+                        content: 'Alice, do you have any recommendations for further reading on this topic?',
+                        name: 'Diana Prince',
+                        userFingerprint: 'user4-fingerprint-jkl012',
+                        parentId: 'comment-1',
+                        timestamp: new Date(Date.now() - 1800000).toISOString(), // 30 minutes ago
+                        level: 1,
+                        children: []
+                    }
+                ]
+            },
+            {
+                id: 'comment-5',
+                postId: 'test-post',
+                content: 'I have a different perspective on this. While the points are valid, I think there are some considerations that weren\'t addressed. For example, the impact on smaller organizations might be different.',
+                name: 'Eve Wilson',
+                userFingerprint: 'user5-fingerprint-mno345',
+                parentId: null,
+                timestamp: new Date(Date.now() - 1200000).toISOString(), // 20 minutes ago
+                level: 0,
+                children: [
+                    {
+                        id: 'comment-6',
+                        postId: 'test-post',
+                        content: 'That\'s a really good point, Eve. Could you elaborate on what specific considerations you\'re thinking of?',
+                        name: 'Frank Miller',
+                        userFingerprint: 'user6-fingerprint-pqr678',
+                        parentId: 'comment-5',
+                        timestamp: new Date(Date.now() - 900000).toISOString(), // 15 minutes ago
+                        level: 1,
+                        children: []
+                    }
+                ]
+            },
+            {
+                id: 'comment-7',
+                postId: 'test-post',
+                content: 'Just wanted to say thanks for this post! Bookmarked for future reference. 📚',
+                name: 'Grace Lee',
+                userFingerprint: 'user7-fingerprint-stu901',
+                parentId: null,
+                timestamp: new Date(Date.now() - 300000).toISOString(), // 5 minutes ago
+                level: 0,
+                children: []
+            }
+        ];
+
+        function initializeCommentSystem() {
+            const statusEl = document.getElementById('init-status');
+            statusEl.className = 'status-indicator status-loading';
+            statusEl.textContent = 'Initializing...';
+            
+            try {
+                // Initialize comment system with test configuration
+                commentSystem = new CommentSystem('test-post', 'http://localhost:8787');
+                
+                // Override loadComments to use mock data for testing
+                commentSystem.originalLoadComments = commentSystem.loadComments;
+                commentSystem.loadComments = async function() {
+                    // Simulate API delay
+                    await new Promise(resolve => setTimeout(resolve, 500));
+                    this.displayComments([]);
+                    return [];
+                };
+                
+                // Initialize the system
+                commentSystem.init();
+                
+                statusEl.className = 'status-indicator status-success';
+                statusEl.textContent = 'Ready';
+                
+                console.log('Comment system initialized:', commentSystem);
+            } catch (error) {
+                console.error('Failed to initialize comment system:', error);
+                statusEl.className = 'status-indicator status-error';
+                statusEl.textContent = 'Failed';
+            }
+        }
+
+        function loadMockComments() {
+            if (!commentSystem) {
+                alert('Please initialize the comment system first');
+                return;
+            }
+            
+            const statusEl = document.getElementById('load-status');
+            statusEl.className = 'status-indicator status-loading';
+            statusEl.textContent = 'Loading...';
+            
+            try {
+                // Display mock comments
+                commentSystem.displayComments(mockComments);
+                
+                statusEl.className = 'status-indicator status-success';
+                statusEl.textContent = 'Loaded';
+                
+                console.log('Mock comments loaded:', mockComments);
+            } catch (error) {
+                console.error('Failed to load mock comments:', error);
+                statusEl.className = 'status-indicator status-error';
+                statusEl.textContent = 'Failed';
+            }
+        }
+
+        function clearComments() {
+            if (!commentSystem) {
+                alert('Please initialize the comment system first');
+                return;
+            }
+            
+            commentSystem.displayComments([]);
+            
+            // Clear status indicators
+            document.getElementById('load-status').textContent = '';
+            document.getElementById('load-status').className = '';
+        }
+
+        function testUserColors() {
+            if (!commentSystem) {
+                alert('Please initialize the comment system first');
+                return;
+            }
+            
+            console.log('Testing user color system...');
+            
+            // Test color generation for different users
+            const testUsers = [
+                'user1-fingerprint-abc123',
+                'user2-fingerprint-def456',
+                'user3-fingerprint-ghi789',
+                'user4-fingerprint-jkl012',
+                'user5-fingerprint-mno345'
+            ];
+            
+            testUsers.forEach((fingerprint, index) => {
+                const color = commentSystem.getUserColor(fingerprint);
+                console.log(`User ${index + 1} (${fingerprint}):`, color);
+            });
+            
+            // Test color consistency
+            const testFingerprint = 'consistency-test-fingerprint';
+            const color1 = commentSystem.getUserColor(testFingerprint);
+            const color2 = commentSystem.getUserColor(testFingerprint);
+            
+            console.log('Color consistency test:');
+            console.log('Color 1:', color1);
+            console.log('Color 2:', color2);
+            console.log('Consistent:', JSON.stringify(color1) === JSON.stringify(color2));
+        }
+
+        function testResponsive() {
+            // Toggle viewport size simulation
+            const container = document.querySelector('.test-container');
+            
+            if (container.style.maxWidth === '400px') {
+                container.style.maxWidth = '1000px';
+                container.style.padding = '30px';
+                alert('Switched to desktop view');
+            } else {
+                container.style.maxWidth = '400px';
+                container.style.padding = '15px';
+                alert('Switched to mobile view. Check how comments adapt!');
+            }
+        }
+
+        function testCommentSubmission() {
+            if (!commentSystem) {
+                alert('Please initialize the comment system first');
+                return;
+            }
+            
+            // Override submitComment to simulate API responses
+            commentSystem.originalSubmitComment = commentSystem.submitComment;
+            commentSystem.submitComment = async function(content, name, parentId) {
+                console.log('Mock submission:', { content, name, parentId });
+                
+                // Simulate validation
+                const validation = this.validateCommentInput(content, name);
+                if (!validation.isValid) {
+                    this.displayValidationErrors(validation.errors, parentId);
+                    return null;
+                }
+                
+                // Simulate API delay
+                this.setSubmissionLoading(true, parentId);
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                
+                // Create mock comment
+                const newComment = {
+                    id: 'comment-' + Date.now(),
+                    postId: this.postId,
+                    content: content.trim(),
+                    name: name.trim() || 'Anonymous',
+                    userFingerprint: this.userIdentity.fingerprint,
+                    parentId: parentId,
+                    timestamp: new Date().toISOString(),
+                    level: parentId ? 1 : 0,
+                    children: []
+                };
+                
+                // Add to mock comments
+                if (parentId) {
+                    // Find parent and add as child
+                    const findAndAddChild = (comments) => {
+                        for (let comment of comments) {
+                            if (comment.id === parentId) {
+                                comment.children.push(newComment);
+                                return true;
+                            }
+                            if (comment.children && findAndAddChild(comment.children)) {
+                                return true;
+                            }
+                        }
+                        return false;
+                    };
+                    findAndAddChild(mockComments);
+                } else {
+                    mockComments.push(newComment);
+                }
+                
+                // Clear form and refresh
+                this.clearCommentForm(parentId);
+                this.setSubmissionLoading(false, parentId);
+                this.displayComments(mockComments);
+                
+                return newComment;
+            };
+            
+            alert('Comment submission testing enabled! Try submitting comments and replies.');
+        }
+
+        function testUIEnhancements() {
+            if (!commentSystem) {
+                alert('Please initialize the comment system first');
+                return;
+            }
+            
+            console.log('Testing UI enhancements...');
+            
+            // Test loading state
+            commentSystem.showLoadingState('Testing loading state...');
+            
+            setTimeout(() => {
+                // Test empty state
+                commentSystem.showEmptyState();
+                
+                setTimeout(() => {
+                    // Load mock comments to test animations
+                    loadMockComments();
+                    
+                    // Test responsive layout
+                    commentSystem.updateResponsiveLayout();
+                    
+                    console.log('UI enhancements tested');
+                }, 2000);
+            }, 2000);
+        }
+
+        function testErrorStates() {
+            if (!commentSystem) {
+                alert('Please initialize the comment system first');
+                return;
+            }
+            
+            console.log('Testing error states...');
+            
+            // Test error state
+            commentSystem.showErrorState('This is a test error message to demonstrate error handling.', true);
+            
+            setTimeout(() => {
+                // Test validation errors
+                commentSystem.displayValidationErrors([
+                    'Comment must be at least 3 characters long',
+                    'Comments can contain at most 2 links',
+                    'Name must be no more than 50 characters long'
+                ]);
+                
+                setTimeout(() => {
+                    // Clear errors and load comments
+                    commentSystem.clearErrors();
+                    loadMockComments();
+                }, 3000);
+            }, 3000);
+        }
+
+        // Auto-initialize on page load
+        window.addEventListener('load', () => {
+            console.log('Page loaded, ready for testing');
+        });
+    </script>
+</body>
+</html>
