@@ -161,9 +161,9 @@ class CommentAPIClient {
 
   // Comment API methods
   async getComments(pageId, orderingMode = 'chronological') {
-    const endpoint = orderingMode === 'similarity' 
-      ? `/comments/similar/${encodeURIComponent(pageId)}`
-      : `/comments/${encodeURIComponent(pageId)}`;
+    // Always use the chronological endpoint to preserve reply threading
+    // We'll handle similarity ordering on the client side
+    const endpoint = `/comments/${encodeURIComponent(pageId)}`;
     
     return this.request(endpoint);
   }
@@ -1119,8 +1119,9 @@ class CommentSystem {
       html = this.renderSimilarityGroupedComments();
     } else {
       // Standard chronological threading with proper ordering
-      const sortedComments = this.sortCommentsChronologically([...this.comments]);
-      html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
+      const threads = this.buildCommentThreads(this.comments);
+      const sortedThreads = this.sortCommentsChronologically([...threads]);
+      html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
     }
     
     commentsList.innerHTML = html;
@@ -1142,17 +1143,21 @@ class CommentSystem {
   }
 
   renderSimilarityGroupedComments() {
-    // Order comments by relevance without showing topic groups
-    // Comments are already properly nested from API, just sort root comments
-    const sortedComments = [...this.comments].sort((a, b) => {
+    // Build proper comment threads first to preserve reply structure
+    const threads = this.buildCommentThreads(this.comments);
+    
+    // Order threads by relevance while preserving reply threading
+    const sortedThreads = [...threads].sort((a, b) => {
       if (a.relevanceScore && b.relevanceScore) {
         return b.relevanceScore - a.relevanceScore; // Higher relevance first
       }
-      // Fallback to chronological order
-      return new Date(b.createdAt) - new Date(a.createdAt);
+      // Fallback: simple heuristic based on content length and recency
+      const scoreA = (a.content?.length || 0) * 0.1 + (new Date(a.createdAt).getTime() / 1000000);
+      const scoreB = (b.content?.length || 0) * 0.1 + (new Date(b.createdAt).getTime() / 1000000);
+      return scoreB - scoreA;
     });
     
-    return sortedComments.map(comment => this.renderCommentThread(comment)).join('');
+    return sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
   }
 
   groupCommentsByTopic(threads) {
