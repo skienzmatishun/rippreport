@@ -2,9 +2,9 @@
 title: "NEWSLETTER"
 date: 2025-08-25
 thumbnail: "img/newsletter.png"
-categories: 
+categories:
   - ivy
-authors: 
+authors:
   - ripp-report
 ---
 
@@ -26,4 +26,4 @@ Think about this, roughly 30 % vote, 20% of them vote straight ticket. That leav
 
 Get involved You can make a difference.
 
-{{< aicomments "newsletter" "similarity" >}}
+{{< aicomments "newsletter" >}}
