@@ -946,51 +946,10 @@ class CommentSystem {
       return;
     }
     
-    // For similarity mode, show Recent first then load Relevant in background
-    if (mode === 'similarity') {
-      // Immediately show Recent comments while processing
-      setTimeout(() => {
-        this.renderComments();
-      }, 150);
-      
-      // Show loading indicator
-      this.setLoading(true);
-      
-      try {
-        // Get the base chronological comments if we don't have them
-        if (!this.comments || this.comments.length === 0) {
-          const data = await this.api.getComments(this.pageId, 'chronological');
-          this.comments = data.comments || [];
-        }
-        
-        // Apply relevance ordering
-        await this.orderCommentsByRelevance();
-        
-        // Cache the results
-        this.orderingCache.set(cacheKey, [...this.comments]);
-        this.savePersistentCache(); // Save to localStorage
-        
-        // Render the ordered comments
-        setTimeout(() => {
-          this.renderComments();
-        }, 150);
-        
-      } catch (error) {
-        console.error('Failed to order comments by relevance:', error);
-        // Fallback to chronological order
-        this.orderingMode = 'chronological';
-        buttons.forEach(btn => {
-          btn.classList.toggle('active', btn.dataset.mode === 'chronological');
-        });
-      } finally {
-        this.setLoading(false);
-      }
-    } else {
-      // For chronological mode, just re-render existing comments
-      setTimeout(() => {
-        this.renderComments();
-      }, 150);
-    }
+    // For both modes, just re-render existing comments with different sorting
+    setTimeout(() => {
+      this.renderComments();
+    }, 150);
   }
 
   async loadComments() {
