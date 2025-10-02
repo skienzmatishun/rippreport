@@ -1,0 +1,34 @@
+{{/* Simple AI Comments Shortcode for Testing */}}
+{{- $pageId := .Page.RelPermalink -}}
+{{- if .Params -}}
+  {{- $pageId = index .Params 0 -}}
+{{- end -}}
+
+<!-- AI Comment System Container -->
+<div id="ai-comment-system-{{ $pageId | urlize }}" data-page-id="{{ $pageId }}">
+  <p>AI Comment System Loading for page: {{ $pageId }}</p>
+</div>
+
+<!-- Load CSS and JS -->
+<link rel="stylesheet" href="/css/ai-comments.css">
+<script src="/js/ai-comments.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const pageId = '{{ $pageId }}';
+    const containerId = '#ai-comment-system-{{ $pageId | urlize }}';
+    
+    console.log('Initializing AI Comments for:', pageId);
+    
+    try {
+        window.aiCommentSystem = new CommentSystem({
+            container: containerId,
+            pageId: pageId,
+            apiBase: 'https://ai-comment-system.rdunphy.workers.dev/api'
+        });
+    } catch (error) {
+        console.error('AI Comments error:', error);
+        document.querySelector(containerId).innerHTML = '<p>AI Comments failed to load: ' + error.message + '</p>';
+    }
+});
+</script>

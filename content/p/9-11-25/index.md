@@ -13,3 +13,9 @@ Never Forget.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bByePUvldwQ?si=lJHwRP8B8eZTjKlP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{< chat 911-25 >}}
+
+---
+
+## Try the New AI Comment System
+
+{{< aicomments "911-25-ai" "similarity" >}}
