@@ -161,9 +161,9 @@ class CommentAPIClient {
 
   // Comment API methods
   async getComments(pageId, orderingMode = 'chronological') {
-    // Always use the chronological endpoint to preserve reply threading
-    // We'll handle similarity ordering on the client side
-    const endpoint = `/comments/${encodeURIComponent(pageId)}`;
+    const endpoint = orderingMode === 'similarity' 
+      ? `/comments/similar/${encodeURIComponent(pageId)}`
+      : `/comments/${encodeURIComponent(pageId)}`;
     
     return this.request(endpoint);
   }
@@ -946,21 +946,35 @@ class CommentSystem {
       return;
     }
     
-    // For similarity mode, try to get AI relevance but fallback gracefully
+    // For similarity mode, reload comments with similarity API
     if (mode === 'similarity') {
-      // Immediately show comments while processing
-      setTimeout(() => {
-        this.renderComments();
-      }, 150);
+      console.log('🔄 Loading similarity comments from API');
+      this.setLoading(true);
       
-      // Try to get AI relevance in background (non-blocking)
-      this.tryGetAIRelevance(cacheKey).catch(error => {
-        console.warn('AI relevance failed, using fallback sorting:', error);
-        // Just re-render with fallback sorting - don't clear comments
-        setTimeout(() => {
-          this.renderComments();
-        }, 100);
-      });
+      this.api.getComments(this.pageId, 'similarity')
+        .then(data => {
+          console.log('🔄 Similarity API response:', data);
+          this.comments = data.comments || [];
+          this.lastCommentCount = this.countAllComments(this.comments);
+          
+          // Cache the results
+          this.orderingCache.set(cacheKey, [...this.comments]);
+          this.savePersistentCache();
+          
+          setTimeout(() => {
+            this.renderComments();
+          }, 150);
+        })
+        .catch(error => {
+          console.error('🔄 Similarity API failed:', error);
+          // Fallback to current comments with local sorting
+          setTimeout(() => {
+            this.renderComments();
+          }, 150);
+        })
+        .finally(() => {
+          this.setLoading(false);
+        });
     } else {
       // For chronological mode, just re-render existing comments
       setTimeout(() => {
