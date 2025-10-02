@@ -52,4 +52,7 @@ This is an egregious injustice. Murray Lawrence Jr has lost two decades of his l
 
 
 {{< subscribe >}}
-{{< chat mlpr >}}
+
+{{< aicomments "mlpr" "similarity" >}}
+
+[Original Comments](https://rippreport.com/p/justice-denied-a-wrongful-conviction-buried-by-power-and-politics/)

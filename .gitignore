@@ -1,3 +1,6 @@
 public/
 comment_cloudflare_worker/
 cloudflare_comments/
+.kiro/
+.env.example
+.env

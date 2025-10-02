@@ -200,6 +200,7 @@ class CommentSystem {
     this.container = null;
     this.comments = [];
     this.orderingMode = 'chronological'; // 'chronological' or 'similarity'
+    this.chronologicalOrder = 'newest'; // 'newest' (recent) or 'oldest'
     this.isLoading = false;
     this.isOnline = navigator.onLine;
     this.updateInterval = null;
@@ -207,6 +208,9 @@ class CommentSystem {
     this.cachedOrderedComments = null;
     this.lastCommentCount = 0;
     this.orderingCache = new Map(); // Cache for different ordering modes
+    
+    // Load persistent cache from localStorage
+    this.loadPersistentCache();
     
     // Initialize API client
     this.api = new CommentAPIClient({
@@ -358,7 +362,15 @@ class CommentSystem {
     orderingButtons.forEach(button => {
       button.addEventListener('click', (e) => {
         const mode = e.target.dataset.mode;
-        this.setOrderingMode(mode);
+        
+        // Handle chronological toggle behavior
+        if (mode === 'chronological' && this.orderingMode === 'chronological') {
+          // Toggle between newest and oldest
+          this.toggleChronologicalOrder();
+        } else {
+          // Switch to different mode
+          this.setOrderingMode(mode);
+        }
       });
     });
 
@@ -835,6 +847,66 @@ class CommentSystem {
     return findInComments(this.comments);
   }
 
+  /**
+   * Load persistent cache from localStorage
+   */
+  loadPersistentCache() {
+    try {
+      const cacheKey = `commentCache_${this.pageId}`;
+      const cached = localStorage.getItem(cacheKey);
+      if (cached) {
+        const { cache, lastCommentCount, timestamp } = JSON.parse(cached);
+        
+        // Check if cache is not too old (24 hours)
+        const maxAge = 24 * 60 * 60 * 1000; // 24 hours
+        if (Date.now() - timestamp < maxAge) {
+          // Restore cache
+          this.orderingCache = new Map(Object.entries(cache));
+          this.lastCommentCount = lastCommentCount;
+        }
+      }
+    } catch (error) {
+      console.error('Failed to load persistent cache:', error);
+    }
+  }
+
+  /**
+   * Save cache to localStorage
+   */
+  savePersistentCache() {
+    try {
+      const cacheKey = `commentCache_${this.pageId}`;
+      const cacheData = {
+        cache: Object.fromEntries(this.orderingCache),
+        lastCommentCount: this.lastCommentCount,
+        timestamp: Date.now()
+      };
+      localStorage.setItem(cacheKey, JSON.stringify(cacheData));
+    } catch (error) {
+      console.error('Failed to save persistent cache:', error);
+    }
+  }
+
+  toggleChronologicalOrder() {
+    // Toggle between newest and oldest
+    this.chronologicalOrder = this.chronologicalOrder === 'newest' ? 'oldest' : 'newest';
+    
+    // Update button text
+    const chronologicalButton = this.container.querySelector('[data-mode="chronological"]');
+    if (chronologicalButton) {
+      chronologicalButton.textContent = this.chronologicalOrder === 'newest' ? 'Recent' : 'Oldest';
+    }
+    
+    // Add transition effect
+    const commentsList = this.container.querySelector('#comments-list');
+    commentsList.classList.add('transitioning');
+    
+    // Re-render comments with new order after transition
+    setTimeout(() => {
+      this.renderComments();
+    }, 150);
+  }
+
   async setOrderingMode(mode) {
     if (this.orderingMode === mode || this.isLoading) return;
     
@@ -847,12 +919,24 @@ class CommentSystem {
       btn.classList.toggle('active', btn.dataset.mode === mode);
     });
     
+    // Reset chronological button text when switching to similarity mode
+    if (mode === 'similarity') {
+      this.chronologicalOrder = 'newest'; // Reset to default
+      const chronologicalButton = this.container.querySelector('[data-mode="chronological"]');
+      if (chronologicalButton) {
+        chronologicalButton.textContent = 'Recent';
+      }
+    }
+    
     // Add transition effect
     const commentsList = this.container.querySelector('#comments-list');
     commentsList.classList.add('transitioning');
     
     // Check if we have cached results for this mode
-    const cacheKey = `${mode}_${this.pageId}_${this.lastCommentCount}`;
+    const cacheKey = mode === 'chronological' 
+      ? `${mode}_${this.chronologicalOrder}_${this.pageId}_${this.lastCommentCount}`
+      : `${mode}_${this.pageId}_${this.lastCommentCount}`;
+    
     if (this.orderingCache.has(cacheKey)) {
       // Use cached results instantly
       this.comments = this.orderingCache.get(cacheKey);
@@ -862,8 +946,13 @@ class CommentSystem {
       return;
     }
     
-    // For similarity mode, show loading and process in background
+    // For similarity mode, show Recent first then load Relevant in background
     if (mode === 'similarity') {
+      // Immediately show Recent comments while processing
+      setTimeout(() => {
+        this.renderComments();
+      }, 150);
+      
       // Show loading indicator
       this.setLoading(true);
       
@@ -879,6 +968,7 @@ class CommentSystem {
         
         // Cache the results
         this.orderingCache.set(cacheKey, [...this.comments]);
+        this.savePersistentCache(); // Save to localStorage
         
         // Render the ordered comments
         setTimeout(() => {
@@ -921,19 +1011,26 @@ class CommentSystem {
       
       // Check if we need to invalidate cache (new comments added)
       const currentCommentCount = this.countAllComments(newComments);
-      const hasNewComments = currentCommentCount !== this.lastCommentCount;
+      const hasNewComments = this.lastCommentCount > 0 && currentCommentCount !== this.lastCommentCount;
       
       if (hasNewComments) {
-        // Clear cache when new comments are added
+        // Clear cache when new comments are added (but not on initial load)
         this.orderingCache.clear();
-        this.lastCommentCount = currentCommentCount;
       }
+      
+      // Always update the comment count
+      this.lastCommentCount = currentCommentCount;
       
       this.comments = newComments;
       
-      // Store chronological version in cache
-      const chronologicalCacheKey = `chronological_${this.pageId}_${this.lastCommentCount}`;
-      this.orderingCache.set(chronologicalCacheKey, [...this.comments]);
+      // Store chronological versions in cache (both newest and oldest)
+      const chronologicalNewestKey = `chronological_newest_${this.pageId}_${this.lastCommentCount}`;
+      const chronologicalOldestKey = `chronological_oldest_${this.pageId}_${this.lastCommentCount}`;
+      this.orderingCache.set(chronologicalNewestKey, [...this.comments]);
+      this.orderingCache.set(chronologicalOldestKey, [...this.comments]);
+      
+      // Save to localStorage for persistence
+      this.savePersistentCache();
       
       this.renderComments();
       this.updateCommentsCount();
@@ -1021,12 +1118,27 @@ class CommentSystem {
       // Group comments by similarity for AI ordering
       html = this.renderSimilarityGroupedComments();
     } else {
-      // Standard chronological threading - comments are already properly nested from API
-      html = this.comments.map(comment => this.renderCommentThread(comment)).join('');
+      // Standard chronological threading with proper ordering
+      const sortedComments = this.sortCommentsChronologically([...this.comments]);
+      html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
     }
     
     commentsList.innerHTML = html;
     this.completeTransition();
+  }
+
+  sortCommentsChronologically(comments) {
+    // Sort root comments by chronological order, preserving reply structure
+    return comments.sort((a, b) => {
+      const dateA = new Date(a.createdAt);
+      const dateB = new Date(b.createdAt);
+      
+      if (this.chronologicalOrder === 'newest') {
+        return dateB - dateA; // Newest first (Recent)
+      } else {
+        return dateA - dateB; // Oldest first (Oldest)
+      }
+    });
   }
 
   renderSimilarityGroupedComments() {
@@ -1131,10 +1243,7 @@ class CommentSystem {
         }
       });
       
-      // Cache the ordered comments
-      const cacheKey = `similarity_${this.pageId}_${this.lastCommentCount}`;
-      this.orderingCache.set(cacheKey, [...this.comments]);
-      this.cachedOrderedComments = [...this.comments];
+      // Comments are now ordered by relevance (caching handled by caller)
       
     } catch (error) {
       console.error('Failed to order comments by relevance:', error);
@@ -1143,10 +1252,20 @@ class CommentSystem {
   }
 
   /**
-   * Calculate LLM-based relevance scores for comments
+   * Calculate LLM-based relevance scores for comments (with server-side caching)
    */
   async calculateLLMRelevance(comments, pageContext) {
     try {
+      // First, check server-side cache
+      const cacheResponse = await this.api.request(`/comments/cache/${encodeURIComponent(this.pageId)}`);
+      
+      if (cacheResponse.cached) {
+        console.log('Using server-side cached relevance analysis');
+        return cacheResponse.relevanceScores;
+      }
+      
+      // No cache found, perform analysis
+      console.log('No cache found, performing LLM analysis');
       const response = await this.api.request('/comments/analyze-relevance', {
         method: 'POST',
         body: JSON.stringify({
@@ -1156,7 +1275,25 @@ class CommentSystem {
         })
       });
       
-      return response.relevanceScores || [];
+      const relevanceScores = response.relevanceScores || [];
+      
+      // Cache the results on server for future visitors
+      if (relevanceScores.length > 0) {
+        try {
+          await this.api.request(`/comments/cache/${encodeURIComponent(this.pageId)}`, {
+            method: 'POST',
+            body: JSON.stringify({
+              relevanceScores: relevanceScores,
+              commentCount: this.lastCommentCount
+            })
+          });
+          console.log('Cached relevance analysis on server for future visitors');
+        } catch (cacheError) {
+          console.error('Failed to cache analysis on server:', cacheError);
+        }
+      }
+      
+      return relevanceScores;
     } catch (error) {
       console.error('LLM relevance analysis failed:', error);
       // Return default scores (chronological order)
