@@ -946,10 +946,27 @@ class CommentSystem {
       return;
     }
     
-    // For both modes, just re-render existing comments with different sorting
-    setTimeout(() => {
-      this.renderComments();
-    }, 150);
+    // For similarity mode, try to get AI relevance but fallback gracefully
+    if (mode === 'similarity') {
+      // Immediately show comments while processing
+      setTimeout(() => {
+        this.renderComments();
+      }, 150);
+      
+      // Try to get AI relevance in background (non-blocking)
+      this.tryGetAIRelevance(cacheKey).catch(error => {
+        console.warn('AI relevance failed, using fallback sorting:', error);
+        // Just re-render with fallback sorting - don't clear comments
+        setTimeout(() => {
+          this.renderComments();
+        }, 100);
+      });
+    } else {
+      // For chronological mode, just re-render existing comments
+      setTimeout(() => {
+        this.renderComments();
+      }, 150);
+    }
   }
 
   async loadComments() {
@@ -1063,9 +1080,12 @@ class CommentSystem {
   }
 
   renderComments() {
+    console.log('🔄 renderComments called, mode:', this.orderingMode, 'comments:', this.comments.length);
+    
     const commentsList = this.container.querySelector('#comments-list');
     
     if (this.comments.length === 0) {
+      console.log('🔄 No comments, showing empty state');
       commentsList.innerHTML = this.getEmptyStateHTML();
       this.completeTransition();
       return;
@@ -1074,15 +1094,18 @@ class CommentSystem {
     let html = '';
     
     if (this.orderingMode === 'similarity') {
+      console.log('🔄 Rendering in similarity mode');
       // Group comments by similarity for AI ordering
       html = this.renderSimilarityGroupedComments();
     } else {
+      console.log('🔄 Rendering in chronological mode');
       // Standard chronological threading with proper ordering
       const threads = this.buildCommentThreads(this.comments);
       const sortedThreads = this.sortCommentsChronologically([...threads]);
       html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
     }
     
+    console.log('🔄 Final HTML length:', html.length);
     commentsList.innerHTML = html;
     this.completeTransition();
   }
@@ -1102,8 +1125,12 @@ class CommentSystem {
   }
 
   renderSimilarityGroupedComments() {
+    console.log('🎯 renderSimilarityGroupedComments called');
+    console.log('🎯 Raw comments count:', this.comments.length);
+    
     // Build proper comment threads first to preserve reply structure
     const threads = this.buildCommentThreads(this.comments);
+    console.log('🎯 Built threads count:', threads.length);
     
     // Order threads by relevance while preserving reply threading
     const sortedThreads = [...threads].sort((a, b) => {
@@ -1116,7 +1143,11 @@ class CommentSystem {
       return scoreB - scoreA;
     });
     
-    return sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
+    console.log('🎯 Sorted threads count:', sortedThreads.length);
+    const html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
+    console.log('🎯 Generated HTML length:', html.length);
+    
+    return html;
   }
 
   groupCommentsByTopic(threads) {
@@ -1170,6 +1201,34 @@ class CommentSystem {
     );
     
     return commonWords.length / Math.max(words1.length, words2.length);
+  }
+
+  /**
+   * Try to get AI relevance without breaking the comment system
+   */
+  async tryGetAIRelevance(cacheKey) {
+    try {
+      // Only try if we have comments
+      if (!this.comments || this.comments.length === 0) {
+        return;
+      }
+      
+      // Apply relevance ordering
+      await this.orderCommentsByRelevance();
+      
+      // Cache the results
+      this.orderingCache.set(cacheKey, [...this.comments]);
+      this.savePersistentCache();
+      
+      // Re-render with AI scores
+      setTimeout(() => {
+        this.renderComments();
+      }, 100);
+      
+    } catch (error) {
+      console.warn('AI relevance processing failed:', error);
+      // Don't throw - let the fallback handle it
+    }
   }
 
   /**
