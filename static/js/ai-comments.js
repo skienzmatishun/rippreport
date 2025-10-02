@@ -204,6 +204,9 @@ class CommentSystem {
     this.isOnline = navigator.onLine;
     this.updateInterval = null;
     this.lastUpdateTime = null;
+    this.cachedOrderedComments = null;
+    this.lastCommentCount = 0;
+    this.orderingCache = new Map(); // Cache for different ordering modes
     
     // Initialize API client
     this.api = new CommentAPIClient({
@@ -255,10 +258,10 @@ class CommentSystem {
             <div class="ordering-controls">
               <div class="ordering-toggle">
                 <button class="ordering-button active" data-mode="chronological">
-                  Latest
+                  Recent
                 </button>
                 <button class="ordering-button" data-mode="similarity">
-                  Similar Topics
+                  Relevant
                 </button>
               </div>
               <div class="loading-indicator" id="loading-indicator" style="display: none;">
@@ -821,7 +824,7 @@ class CommentSystem {
     const findInComments = (comments) => {
       for (const comment of comments) {
         if (comment.id === id) return comment;
-        if (comment.replies) {
+        if (comment.replies && comment.replies.length > 0) {
           const found = findInComments(comment.replies);
           if (found) return found;
         }
@@ -832,7 +835,7 @@ class CommentSystem {
     return findInComments(this.comments);
   }
 
-  setOrderingMode(mode) {
+  async setOrderingMode(mode) {
     if (this.orderingMode === mode || this.isLoading) return;
     
     const previousMode = this.orderingMode;
@@ -848,17 +851,56 @@ class CommentSystem {
     const commentsList = this.container.querySelector('#comments-list');
     commentsList.classList.add('transitioning');
     
-    // Show AI processing banner for similarity mode
-    if (mode === 'similarity') {
-      this.showAIProcessingBanner();
-    } else {
-      this.hideAIProcessingBanner();
+    // Check if we have cached results for this mode
+    const cacheKey = `${mode}_${this.pageId}_${this.lastCommentCount}`;
+    if (this.orderingCache.has(cacheKey)) {
+      // Use cached results instantly
+      this.comments = this.orderingCache.get(cacheKey);
+      setTimeout(() => {
+        this.renderComments();
+      }, 150);
+      return;
     }
     
-    // Reload comments with new ordering after transition starts
-    setTimeout(() => {
-      this.loadComments();
-    }, 150);
+    // For similarity mode, show loading and process in background
+    if (mode === 'similarity') {
+      // Show loading indicator
+      this.setLoading(true);
+      
+      try {
+        // Get the base chronological comments if we don't have them
+        if (!this.comments || this.comments.length === 0) {
+          const data = await this.api.getComments(this.pageId, 'chronological');
+          this.comments = data.comments || [];
+        }
+        
+        // Apply relevance ordering
+        await this.orderCommentsByRelevance();
+        
+        // Cache the results
+        this.orderingCache.set(cacheKey, [...this.comments]);
+        
+        // Render the ordered comments
+        setTimeout(() => {
+          this.renderComments();
+        }, 150);
+        
+      } catch (error) {
+        console.error('Failed to order comments by relevance:', error);
+        // Fallback to chronological order
+        this.orderingMode = 'chronological';
+        buttons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.mode === 'chronological');
+        });
+      } finally {
+        this.setLoading(false);
+      }
+    } else {
+      // For chronological mode, just re-render existing comments
+      setTimeout(() => {
+        this.renderComments();
+      }, 150);
+    }
   }
 
   async loadComments() {
@@ -873,26 +915,31 @@ class CommentSystem {
         });
       }
       
-      // Add extra delay for similarity mode to show AI processing
-      if (this.orderingMode === 'similarity') {
-        await new Promise(resolve => setTimeout(resolve, 800));
+      // Always load chronologically first
+      const data = await this.api.getComments(this.pageId, 'chronological');
+      const newComments = data.comments || [];
+      
+      // Check if we need to invalidate cache (new comments added)
+      const currentCommentCount = this.countAllComments(newComments);
+      const hasNewComments = currentCommentCount !== this.lastCommentCount;
+      
+      if (hasNewComments) {
+        // Clear cache when new comments are added
+        this.orderingCache.clear();
+        this.lastCommentCount = currentCommentCount;
       }
       
-      const data = await this.api.getComments(this.pageId, this.orderingMode);
+      this.comments = newComments;
       
-      this.comments = data.comments || [];
+      // Store chronological version in cache
+      const chronologicalCacheKey = `chronological_${this.pageId}_${this.lastCommentCount}`;
+      this.orderingCache.set(chronologicalCacheKey, [...this.comments]);
+      
       this.renderComments();
       this.updateCommentsCount();
       
       // Update last successful load time
       this.lastUpdateTime = new Date();
-      
-      // Hide AI processing banner after successful load
-      if (this.orderingMode === 'similarity') {
-        setTimeout(() => {
-          this.hideAIProcessingBanner();
-        }, 500);
-      }
       
       // Clear any previous error states
       this.clearLoadingErrors();
@@ -974,9 +1021,8 @@ class CommentSystem {
       // Group comments by similarity for AI ordering
       html = this.renderSimilarityGroupedComments();
     } else {
-      // Standard chronological threading
-      const threads = this.buildCommentThreads(this.comments);
-      html = threads.map(thread => this.renderCommentThread(thread)).join('');
+      // Standard chronological threading - comments are already properly nested from API
+      html = this.comments.map(comment => this.renderCommentThread(comment)).join('');
     }
     
     commentsList.innerHTML = html;
@@ -984,24 +1030,17 @@ class CommentSystem {
   }
 
   renderSimilarityGroupedComments() {
-    // Group comments by similarity scores and topics
-    const threads = this.buildCommentThreads(this.comments);
-    const topicGroups = this.groupCommentsByTopic(threads);
+    // Order comments by relevance without showing topic groups
+    // Comments are already properly nested from API, just sort root comments
+    const sortedComments = [...this.comments].sort((a, b) => {
+      if (a.relevanceScore && b.relevanceScore) {
+        return b.relevanceScore - a.relevanceScore; // Higher relevance first
+      }
+      // Fallback to chronological order
+      return new Date(b.createdAt) - new Date(a.createdAt);
+    });
     
-    return topicGroups.map((group, index) => {
-      return `
-        <div class="topic-group">
-          <div class="topic-group-header">
-            <div class="topic-group-icon">${index + 1}</div>
-            <h4 class="topic-group-title">${group.title}</h4>
-            <span class="topic-group-count">${group.comments.length} comment${group.comments.length !== 1 ? 's' : ''}</span>
-          </div>
-          <div class="topic-group-content">
-            ${group.comments.map(comment => this.renderCommentThread(comment)).join('')}
-          </div>
-        </div>
-      `;
-    }).join('');
+    return sortedComments.map(comment => this.renderCommentThread(comment)).join('');
   }
 
   groupCommentsByTopic(threads) {
@@ -1057,29 +1096,129 @@ class CommentSystem {
     return commonWords.length / Math.max(words1.length, words2.length);
   }
 
-  generateTopicTitle(comments) {
-    // Extract key terms from comments to generate topic title
-    const allWords = comments
-      .map(c => c.content.toLowerCase())
-      .join(' ')
-      .split(/\s+/)
-      .filter(word => word.length > 4);
+  /**
+   * Order comments by relevance using LLM-based analysis
+   */
+  async orderCommentsByRelevance() {
+    try {
+      // Get page content for context (if available)
+      const pageContext = this.extractPageContext();
+      
+      // Prepare comments for LLM analysis
+      const commentsForAnalysis = this.comments
+        .filter(c => !c.parentId) // Only analyze root comments
+        .map(c => ({
+          id: c.id,
+          content: c.content,
+          authorName: c.authorName,
+          createdAt: c.createdAt
+        }));
+      
+      if (commentsForAnalysis.length <= 1) {
+        // Not enough comments to reorder
+        return;
+      }
+      
+      // Call LLM-based relevance API
+      const relevanceScores = await this.calculateLLMRelevance(commentsForAnalysis, pageContext);
+      
+      // Apply relevance scores to comments
+      this.comments.forEach(comment => {
+        const score = relevanceScores.find(s => s.commentId === comment.id);
+        if (score) {
+          comment.relevanceScore = score.relevance;
+          comment.topicRelevance = score.topicRelevance;
+        }
+      });
+      
+      // Cache the ordered comments
+      const cacheKey = `similarity_${this.pageId}_${this.lastCommentCount}`;
+      this.orderingCache.set(cacheKey, [...this.comments]);
+      this.cachedOrderedComments = [...this.comments];
+      
+    } catch (error) {
+      console.error('Failed to order comments by relevance:', error);
+      // Fallback to chronological order - no need to throw
+    }
+  }
+
+  /**
+   * Calculate LLM-based relevance scores for comments
+   */
+  async calculateLLMRelevance(comments, pageContext) {
+    try {
+      const response = await this.api.request('/comments/analyze-relevance', {
+        method: 'POST',
+        body: JSON.stringify({
+          pageId: this.pageId,
+          pageContext: pageContext,
+          comments: comments
+        })
+      });
+      
+      return response.relevanceScores || [];
+    } catch (error) {
+      console.error('LLM relevance analysis failed:', error);
+      // Return default scores (chronological order)
+      return comments.map((comment, index) => ({
+        commentId: comment.id,
+        relevance: 1.0 - (index * 0.1), // Slight preference for newer comments
+        topicRelevance: 0.5,
+        reasoning: 'Fallback scoring due to analysis failure'
+      }));
+    }
+  }
+
+  /**
+   * Extract page context for relevance analysis
+   */
+  extractPageContext() {
+    // Try to extract meaningful content from the page
+    const title = document.title || '';
+    const metaDescription = document.querySelector('meta[name="description"]')?.content || '';
     
-    const wordFreq = {};
-    allWords.forEach(word => {
-      wordFreq[word] = (wordFreq[word] || 0) + 1;
-    });
+    // Try to get main content
+    let mainContent = '';
+    const contentSelectors = [
+      'article',
+      '.post-content',
+      '.entry-content', 
+      '.content',
+      'main',
+      '.main-content'
+    ];
     
-    const topWords = Object.entries(wordFreq)
-      .sort(([,a], [,b]) => b - a)
-      .slice(0, 2)
-      .map(([word]) => word);
-    
-    if (topWords.length > 0) {
-      return `Discussion about ${topWords.join(' and ')}`;
+    for (const selector of contentSelectors) {
+      const element = document.querySelector(selector);
+      if (element) {
+        mainContent = element.textContent?.substring(0, 1000) || '';
+        break;
+      }
     }
     
-    return 'General Discussion';
+    return {
+      title: title,
+      description: metaDescription,
+      content: mainContent,
+      url: window.location.pathname
+    };
+  }
+
+  /**
+   * Count all comments including replies
+   */
+  countAllComments(comments) {
+    let count = 0;
+    const countRecursive = (commentList) => {
+      commentList.forEach(comment => {
+        count++;
+        if (comment.replies && comment.replies.length > 0) {
+          countRecursive(comment.replies);
+        }
+      });
+    };
+    countRecursive(comments);
+    return count;
   }
 
   completeTransition() {
@@ -1227,7 +1366,6 @@ class CommentSystem {
             </div>
             <div class="comment-meta">
               <span class="comment-date">${this.formatDate(comment.createdAt)}</span>
-              ${comment.similarityScore ? this.renderSimilarityIndicator(comment.similarityScore) : ''}
             </div>
           </div>
           

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Comment Replies</title>
+    <link rel="stylesheet" href="/css/ai-comments.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .debug-info {
+            background: #f0f0f0;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Comment Replies Debug</h1>
+    
+    <div class="debug-info">
+        <strong>API Response:</strong>
+        <pre id="api-response"></pre>
+    </div>
+    
+    <div class="debug-info">
+        <strong>Processed Comments:</strong>
+        <pre id="processed-comments"></pre>
+    </div>
+    
+    <div id="ai-comment-system" class="ai-comments-container">
+        <div class="comment-system">
+            <div class="comments-container">
+                <div class="comments-header">
+                    <h3 class="comments-title">
+                        Comments
+                        <span class="comments-count" id="comments-count">0</span>
+                    </h3>
+                </div>
+                <div class="comments-list" id="comments-list">
+                    <!-- Comments will be rendered here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/ai-comments.js"></script>
+    <script>
+        // Debug version with logging
+        class DebugCommentSystem extends CommentSystem {
+            constructor(options) {
+                super(options);
+                this.debugMode = true;
+            }
+            
+            async loadComments() {
+                console.log('Loading comments...');
+                
+                try {
+                    const data = await this.api.getComments(this.pageId, 'chronological');
+                    console.log('API Response:', data);
+                    document.getElementById('api-response').textContent = JSON.stringify(data, null, 2);
+                    
+                    this.comments = data.comments || [];
+                    console.log('Processed comments:', this.comments);
+                    document.getElementById('processed-comments').textContent = JSON.stringify(this.comments, null, 2);
+                    
+                    this.renderComments();
+                    this.updateCommentsCount();
+                    
+                } catch (error) {
+                    console.error('Failed to load comments:', error);
+                    document.getElementById('api-response').textContent = 'Error: ' + error.message;
+                }
+            }
+            
+            buildCommentThreads(comments) {
+                console.log('Building comment threads from:', comments);
+                const threads = super.buildCommentThreads(comments);
+                console.log('Built threads:', threads);
+                return threads;
+            }
+            
+            renderCommentThread(comment, depth = 0) {
+                console.log(`Rendering comment ${comment.id} at depth ${depth}:`, comment);
+                const html = super.renderCommentThread(comment, depth);
+                console.log(`Generated HTML for comment ${comment.id}:`, html);
+                return html;
+            }
+        }
+        
+        // Initialize debug system
+        document.addEventListener('DOMContentLoaded', function() {
+            window.debugCommentSystem = new DebugCommentSystem({
+                container: '#ai-comment-system',
+                pageId: 'debug-test',
+                apiBase: 'https://ai-comment-system.rdunphy.workers.dev/api'
+            });
+        });
+    </script>
+</body>
+</html>

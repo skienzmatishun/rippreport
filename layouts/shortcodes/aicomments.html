@@ -1,46 +1,37 @@
-{{/*
-AI Comment System Shortcode for Hugo
-Usage: 
-  {{< aicomments >}} - Uses page permalink as ID
-  {{< aicomments "custom-page-id" >}} - Uses custom page ID
-  {{< aicomments "custom-page-id" "similarity" >}} - Uses custom page ID with AI similarity ordering by default
-*/}}
-
-{{- $pageId := .Page.RelPermalink -}}
-{{- $defaultOrdering := "chronological" -}}
-
-{{- if .Params -}}
-  {{- if ge (len .Params) 1 -}}
-    {{- $pageId = index .Params 0 -}}
-  {{- end -}}
-  {{- if ge (len .Params) 2 -}}
-    {{- $defaultOrdering = index .Params 1 -}}
-  {{- end -}}
-{{- end -}}
+{{/* AI Comment System Shortcode for Hugo Usage: {{< aicomments >}} - Uses page
+permalink as ID {{< aicomments "custom-page-id" >}} - Uses custom page ID {{<
+aicomments "custom-page-id" "similarity" >}} - Uses custom page ID with AI
+similarity ordering by default */}} {{- $pageId := .Page.RelPermalink -}} {{-
+$defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
+.Params) 1 -}} {{- $pageId = index .Params 0 -}} {{- end -}} {{- if ge (len
+.Params) 2 -}} {{- $defaultOrdering = index .Params 1 -}} {{- end -}} {{- end
+-}}
 
 <!-- AI Comment System Container -->
-<div id="ai-comment-system" 
-     data-page-id="{{ $pageId }}" 
-     data-default-ordering="{{ $defaultOrdering }}"
-     class="ai-comments-container">
-</div>
+<div
+  id="ai-comment-system"
+  data-page-id="{{ $pageId }}"
+  data-default-ordering="{{ $defaultOrdering }}"
+  class="ai-comments-container"
+></div>
 
 <!-- Load AI Comment System CSS -->
-<link rel="stylesheet" href="/css/ai-comments.css">
+<link rel="stylesheet" href="/css/ai-comments.css" />
 
 <!-- Load AI Comment System JavaScript -->
 <script src="/js/ai-comments.js"></script>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener("DOMContentLoaded", function () {
     // Get configuration from data attributes
-    const container = document.getElementById('ai-comment-system');
+    const container = document.getElementById("ai-comment-system");
     const pageId = container.dataset.pageId;
-    const defaultOrdering = container.dataset.defaultOrdering || 'chronological';
-    
+    const defaultOrdering =
+      container.dataset.defaultOrdering || "chronological";
+
     // Show loading state
     container.innerHTML = `
-        <div class="ai-comments-loading" style="
+        <div class="comments-loading" style="
             padding: 40px 20px; 
             text-align: center; 
             background: #f8f9fa; 
@@ -58,77 +49,52 @@ document.addEventListener('DOMContentLoaded', function() {
                 animation: spin 1s linear infinite;
                 margin-bottom: 10px;
             "></div>
-            <p style="margin: 0; color: #6c757d;">Loading AI-powered comments...</p>
+            <p style="margin: 0; color: #6c757d;">Loading comments...</p>
         </div>
     `;
-    
+
     // Add loading animation
-    const loadingStyle = document.createElement('style');
+    const loadingStyle = document.createElement("style");
     loadingStyle.textContent = `
         @keyframes spin {
             to { transform: rotate(360deg); }
         }
     `;
     document.head.appendChild(loadingStyle);
-    
+
     try {
-        // Initialize the AI Comment System
-        window.aiCommentSystem = new CommentSystem({
-            container: '#ai-comment-system',
-            pageId: pageId,
-            apiBase: 'https://ai-comment-system.rdunphy.workers.dev/api',
-            autoRefresh: false, // Disable auto-refresh to save API calls
-            retryAttempts: 3,
-            retryDelay: 1000,
-            timeout: 15000
-        });
-        
-        // Set default ordering mode if specified
-        if (defaultOrdering === 'similarity') {
-            // Wait for the system to initialize, then switch to similarity mode
-            setTimeout(() => {
-                if (window.aiCommentSystem && window.aiCommentSystem.setOrderingMode) {
-                    window.aiCommentSystem.setOrderingMode('similarity');
-                }
-            }, 2000);
-        }
-        
-        console.log('AI Comment System initialized for page:', pageId, 'with default ordering:', defaultOrdering);
-        
-        // Add success notification
+      // Initialize the Comment System
+      window.commentSystem = new CommentSystem({
+        container: "#ai-comment-system",
+        pageId: pageId,
+        apiBase: "https://ai-comment-system.rdunphy.workers.dev/api",
+        autoRefresh: false, // Disable auto-refresh to save API calls
+        retryAttempts: 3,
+        retryDelay: 1000,
+        timeout: 15000,
+      });
+
+      // Set default ordering mode if specified (but default to chronological)
+      if (defaultOrdering === "similarity") {
+        // Wait for the system to initialize, then switch to similarity mode
         setTimeout(() => {
-            const notification = document.createElement('div');
-            notification.style.cssText = `
-                position: fixed;
-                top: 20px;
-                right: 20px;
-                background: #28a745;
-                color: white;
-                padding: 10px 15px;
-                border-radius: 4px;
-                font-size: 14px;
-                z-index: 1000;
-                opacity: 0;
-                transition: opacity 0.3s ease;
-            `;
-            notification.textContent = '✓ AI Comments loaded successfully';
-            document.body.appendChild(notification);
-            
-            // Fade in
-            setTimeout(() => notification.style.opacity = '1', 100);
-            
-            // Fade out and remove
-            setTimeout(() => {
-                notification.style.opacity = '0';
-                setTimeout(() => document.body.removeChild(notification), 300);
-            }, 3000);
-        }, 1500);
-        
+          if (window.commentSystem && window.commentSystem.setOrderingMode) {
+            window.commentSystem.setOrderingMode("similarity");
+          }
+        }, 1000);
+      }
+
+      console.log(
+        "Comment System initialized for page:",
+        pageId,
+        "with default ordering:",
+        defaultOrdering
+      );
     } catch (error) {
-        console.error('Failed to initialize AI Comment System:', error);
-        
-        // Show error message with retry option
-        container.innerHTML = `
+      console.error("Failed to initialize AI Comment System:", error);
+
+      // Show error message with retry option
+      container.innerHTML = `
             <div class="ai-comments-error" style="
                 padding: 20px; 
                 background: #f8d7da; 
@@ -141,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h4 style="margin-bottom: 10px; color: #721c24;">
                     <span style="font-size: 1.2em;">⚠️</span> Comments Temporarily Unavailable
                 </h4>
-                <p style="margin-bottom: 15px;">The AI comment system encountered an error while loading.</p>
+                <p style="margin-bottom: 15px;">The comment system encountered an error while loading.</p>
                 <button onclick="location.reload()" style="
                     background: #721c24;
                     color: white;
@@ -154,17 +120,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     Try Again
                 </button>
                 <p style="margin-top: 10px; font-size: 12px; opacity: 0.8;">
-                    Error: ${error.message || 'Unknown error'}
+                    Error: ${error.message || "Unknown error"}
                 </p>
             </div>
         `;
     }
-});
+  });
 
-// Add custom styling for better integration with your site
-const aiCommentsStyle = document.createElement('style');
-aiCommentsStyle.textContent = `
-    /* Custom styling for AI comments to match site theme */
+  // Add custom styling for better integration with your site
+  const aiCommentsStyle = document.createElement("style");
+  aiCommentsStyle.textContent = `
+    /* Custom styling for comments to match site theme */
     .ai-comments-container {
         margin: 2rem 0;
         font-family: inherit;
@@ -255,5 +221,5 @@ aiCommentsStyle.textContent = `
         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
 `;
-document.head.appendChild(aiCommentsStyle);
+  document.head.appendChild(aiCommentsStyle);
 </script>
