@@ -954,12 +954,15 @@ class CommentSystem {
       try {
         const data = await this.api.getComments(this.pageId, 'similarity');
         console.log('🔄 Similarity API response:', data);
-        this.comments = data.comments || [];
-        this.lastCommentCount = this.countAllComments(this.comments);
         
-        // Cache the results
-        this.orderingCache.set(cacheKey, [...this.comments]);
-        this.savePersistentCache();
+        if (data && data.comments) {
+          this.comments = data.comments;
+          this.lastCommentCount = this.countAllComments(this.comments);
+          
+          // Cache the results
+          this.orderingCache.set(cacheKey, [...this.comments]);
+          this.savePersistentCache();
+        }
         
         setTimeout(() => {
           this.renderComments();
@@ -975,7 +978,9 @@ class CommentSystem {
         });
         
         // Show error notification but keep comments visible
-        this.showNotification('Failed to load relevant comments. Showing recent comments instead.', 'warning');
+        if (this.showNotification) {
+          this.showNotification('Failed to load relevant comments. Showing recent comments instead.', 'warning');
+        }
         
         setTimeout(() => {
           this.renderComments();
@@ -1106,7 +1111,7 @@ class CommentSystem {
     
     const commentsList = this.container.querySelector('#comments-list');
     
-    if (this.comments.length === 0) {
+    if (!this.comments || this.comments.length === 0) {
       console.log('🔄 No comments, showing empty state');
       commentsList.innerHTML = this.getEmptyStateHTML();
       this.completeTransition();
@@ -1115,19 +1120,30 @@ class CommentSystem {
     
     let html = '';
     
-    if (this.orderingMode === 'similarity') {
-      console.log('🔄 Rendering in similarity mode');
-      // Group comments by similarity for AI ordering
-      html = this.renderSimilarityGroupedComments();
-    } else {
-      console.log('🔄 Rendering in chronological mode');
-      // Comments are already properly threaded from backend, just sort them
-      const sortedThreads = this.sortCommentsChronologically([...this.comments]);
-      html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
+    try {
+      if (this.orderingMode === 'similarity') {
+        console.log('🔄 Rendering in similarity mode');
+        // Sort by relevance score, keeping reply structure intact
+        const sortedComments = [...this.comments].sort((a, b) => {
+          const scoreA = a.relevanceScore || 0.5;
+          const scoreB = b.relevanceScore || 0.5;
+          return scoreB - scoreA; // Higher relevance first
+        });
+        html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
+      } else {
+        console.log('🔄 Rendering in chronological mode');
+        // Sort chronologically, keeping reply structure intact
+        const sortedComments = this.sortCommentsChronologically([...this.comments]);
+        html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
+      }
+      
+      console.log('🔄 Final HTML length:', html.length);
+      commentsList.innerHTML = html;
+    } catch (error) {
+      console.error('🔄 Error rendering comments:', error);
+      commentsList.innerHTML = `<div class="comments-error">Error rendering comments: ${error.message}</div>`;
     }
     
-    console.log('🔄 Final HTML length:', html.length);
-    commentsList.innerHTML = html;
     this.completeTransition();
   }
 
@@ -1553,6 +1569,8 @@ class CommentSystem {
   }
 
   renderCommentThread(comment, depth = 0) {
+    if (!comment) return '';
+    
     const threadClass = depth > 0 ? `thread-depth-${Math.min(depth, 4)}` : '';
     const isAnonymous = !comment.authorName || comment.authorName === 'Anonymous';
     
@@ -1569,7 +1587,7 @@ class CommentSystem {
           </div>
           
           <div class="comment-content">
-            ${this.processCommentContentSync(comment.content)}
+            ${this.processCommentContentSync ? this.processCommentContentSync(comment.content) : this.escapeHtml(comment.content)}
           </div>
           
           <div class="comment-actions">
@@ -1580,8 +1598,9 @@ class CommentSystem {
         </div>
     `;
     
-    // Render replies
-    if (comment.replies && comment.replies.length > 0) {
+    // Render replies - this is the critical part for showing nested replies
+    if (comment.replies && Array.isArray(comment.replies) && comment.replies.length > 0) {
+      console.log(`🔄 Rendering ${comment.replies.length} replies for comment ${comment.id}`);
       html += '<div class="comment-replies">';
       comment.replies.forEach(reply => {
         html += this.renderCommentThread(reply, depth + 1);
