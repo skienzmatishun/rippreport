@@ -26,4 +26,4 @@ Think about this, roughly 30 % vote, 20% of them vote straight ticket. That leav
 
 Get involved You can make a difference.
 
-{{< aicomments "newsletter" >}}
+{{< aicomments "newsletter-ripp" >}}
