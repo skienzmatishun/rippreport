@@ -20,7 +20,9 @@
     height: 100%;
     border: none;
   }
-  .cactus-reply-button {display:none;}
+  .cactus-reply-button {
+    display: none;
+  }
   body,
   html {
     background: #15191e;
@@ -685,12 +687,12 @@
       width: 100%;
     }
     .pager__item {
-    min-width:none;
-  }
+      min-width: none;
+    }
     .wrapper {
       display: block;
     }
-    
+
     .social-preview {
       max-width: none;
     }
@@ -765,12 +767,13 @@
     .top-social {
       display: none;
     }
-    .pager__link {margin:0;}
-
+    .pager__link {
+      margin: 0;
+    }
   }
   @media screen and (max-width: 620px) {
     .pager__item {
-      min-width:0;
+      min-width: 0;
     }
   }
   /* Small devices (landscape phones, 576px and up) */
@@ -779,8 +782,12 @@
     .social-preview {
       width: 100%;
     }
-    .pager__link {margin:0;}
-    .pager__item {min-width:0 !important;}
+    .pager__link {
+      margin: 0;
+    }
+    .pager__item {
+      min-width: 0 !important;
+    }
 
     .cactus-container {
       min-width: 0 !important;
@@ -873,7 +880,7 @@
       #d5be00 100px
     );
     box-shadow: 5px 5px 25px rgb(0 0 0/0.6);
-    transform: rotate(.1deg);
+    transform: rotate(0.1deg);
     margin-bottom: 0px;
   }
 
@@ -992,6 +999,7 @@
     text-decoration: underline;
     color: #2bb2fc;
   }
+  #ai-comment-system > div > div.comments-container > div.comments-header > div > div.ordering-toggle > button:nth-child(2) {display:none;}
 </style>
 <link
   rel="stylesheet"

@@ -1002,9 +1002,7 @@ class CommentSystem {
           }
         }
         
-        setTimeout(() => {
-          this.renderComments();
-        }, 150);
+        this.renderComments();
       } catch (error) {
         console.error('🔄 Similarity API failed:', error);
         // Revert to previous mode on error and keep current comments visible
@@ -1020,9 +1018,7 @@ class CommentSystem {
           this.showNotification('Failed to load relevant comments. Showing recent comments instead.', 'warning');
         }
         
-        setTimeout(() => {
-          this.renderComments();
-        }, 150);
+        this.renderComments();
       } finally {
         this.setLoading(false);
       }
