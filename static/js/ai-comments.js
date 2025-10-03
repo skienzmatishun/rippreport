@@ -970,13 +970,17 @@ class CommentSystem {
     if (mode === 'similarity') {
       console.log('🔄 Loading similarity comments from API');
       console.log('🔄 Current comments before API call:', this.comments.length);
+      
+      // Preserve current comments in case API fails
+      const preservedComments = [...this.comments];
+      
       this.setLoading(true);
       
       try {
         const data = await this.api.getComments(this.pageId, 'similarity');
         console.log('🔄 Similarity API response:', data);
         
-        if (data && data.comments && data.comments.length > 0) {
+        if (data && data.success && data.comments && Array.isArray(data.comments)) {
           console.log('🔄 Setting comments from similarity API:', data.comments.length);
           this.comments = data.comments;
           this.lastCommentCount = this.countAllComments(this.comments);
@@ -986,26 +990,24 @@ class CommentSystem {
           this.orderingCache.set(cacheKey, [...this.comments]);
           this.savePersistentCache();
         } else {
-          console.log('🔄 No comments returned from similarity API, falling back to chronological');
-          // Fall back to chronological comments if similarity API returns empty
-          this.orderingMode = 'chronological';
-          try {
-            const chronologicalData = await this.api.getComments(this.pageId, 'chronological');
-            if (chronologicalData && chronologicalData.comments) {
-              console.log('🔄 Setting comments from chronological fallback:', chronologicalData.comments.length);
-              this.comments = chronologicalData.comments;
-              this.lastCommentCount = this.countAllComments(this.comments);
-              console.log('🔄 Comments after chronological fallback:', this.comments.length);
-            }
-          } catch (fallbackError) {
-            console.error('🔄 Fallback to chronological also failed:', fallbackError);
+          console.log('🔄 Invalid or empty similarity API response, keeping existing comments');
+          // Keep existing comments instead of clearing them
+          this.comments = preservedComments;
+          
+          // Show warning but don't change mode
+          if (this.showNotification) {
+            this.showNotification('Relevance analysis unavailable. Showing comments in current order.', 'info');
           }
         }
         
         this.renderComments();
       } catch (error) {
         console.error('🔄 Similarity API failed:', error);
-        // Revert to previous mode on error and keep current comments visible
+        
+        // Restore preserved comments
+        this.comments = preservedComments;
+        
+        // Revert to previous mode on error
         this.orderingMode = previousMode;
         
         // Revert button states
