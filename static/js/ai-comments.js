@@ -946,18 +946,35 @@ class CommentSystem {
       return;
     }
     
-    // For similarity mode, use same data but try to get AI relevance scores
+    // For similarity mode, reload from similarity API
     if (mode === 'similarity') {
-      console.log('🔄 Switching to similarity mode with same data');
+      console.log('🔄 Loading similarity comments from API');
+      this.setLoading(true);
       
-      // Always show all comments immediately
-      setTimeout(() => {
-        this.renderComments();
-      }, 150);
-      
-      // Try to get AI relevance scores in background (non-blocking)
-      this.tryGetAIRelevanceScores(cacheKey);
-      
+      this.api.getComments(this.pageId, 'similarity')
+        .then(data => {
+          console.log('🔄 Similarity API response:', data);
+          this.comments = data.comments || [];
+          this.lastCommentCount = this.countAllComments(this.comments);
+          
+          // Cache the results
+          this.orderingCache.set(cacheKey, [...this.comments]);
+          this.savePersistentCache();
+          
+          setTimeout(() => {
+            this.renderComments();
+          }, 150);
+        })
+        .catch(error => {
+          console.error('🔄 Similarity API failed:', error);
+          // Don't change comments on error - keep current ones visible
+          setTimeout(() => {
+            this.renderComments();
+          }, 150);
+        })
+        .finally(() => {
+          this.setLoading(false);
+        });
     } else {
       // For chronological mode, just re-render existing comments
       setTimeout(() => {
