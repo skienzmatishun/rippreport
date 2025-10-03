@@ -362,14 +362,22 @@ class CommentSystem {
     orderingButtons.forEach(button => {
       button.addEventListener('click', (e) => {
         const mode = e.target.dataset.mode;
+        console.log('🔄 Button clicked:', mode, 'current mode:', this.orderingMode);
         
         // Handle chronological toggle behavior
         if (mode === 'chronological' && this.orderingMode === 'chronological') {
           // Toggle between newest and oldest
+          console.log('🔄 Toggling chronological order');
           this.toggleChronologicalOrder();
         } else {
           // Switch to different mode
-          this.setOrderingMode(mode);
+          console.log('🔄 Switching to mode:', mode);
+          console.log('🔄 About to call setOrderingMode');
+          this.setOrderingMode(mode).then(() => {
+            console.log('🔄 setOrderingMode completed');
+          }).catch(error => {
+            console.error('🔄 setOrderingMode failed:', error);
+          });
         }
       });
     });
@@ -908,10 +916,16 @@ class CommentSystem {
   }
 
   async setOrderingMode(mode) {
-    if (this.orderingMode === mode || this.isLoading) return;
+    console.log('🔄 setOrderingMode called with mode:', mode, 'current mode:', this.orderingMode, 'isLoading:', this.isLoading);
+    
+    if (this.orderingMode === mode || this.isLoading) {
+      console.log('🔄 setOrderingMode: Early return - same mode or loading');
+      return;
+    }
     
     const previousMode = this.orderingMode;
     this.orderingMode = mode;
+    console.log('🔄 setOrderingMode: Mode changed from', previousMode, 'to', mode);
     
     // Update button states
     const buttons = this.container.querySelectorAll('.ordering-button');
@@ -930,7 +944,11 @@ class CommentSystem {
     
     // Add transition effect
     const commentsList = this.container.querySelector('#comments-list');
-    commentsList.classList.add('transitioning');
+    if (commentsList) {
+      commentsList.classList.add('transitioning');
+      // Ensure comments are visible during transition
+      commentsList.style.opacity = '0.5';
+    }
     
     // Check if we have cached results for this mode
     const cacheKey = mode === 'chronological' 
@@ -940,6 +958,8 @@ class CommentSystem {
     if (this.orderingCache.has(cacheKey)) {
       // Use cached results instantly
       this.comments = this.orderingCache.get(cacheKey);
+      // Ensure loading state is cleared
+      this.setLoading(false);
       setTimeout(() => {
         this.renderComments();
       }, 150);
@@ -949,19 +969,37 @@ class CommentSystem {
     // For similarity mode, reload from similarity API
     if (mode === 'similarity') {
       console.log('🔄 Loading similarity comments from API');
+      console.log('🔄 Current comments before API call:', this.comments.length);
       this.setLoading(true);
       
       try {
         const data = await this.api.getComments(this.pageId, 'similarity');
         console.log('🔄 Similarity API response:', data);
         
-        if (data && data.comments) {
+        if (data && data.comments && data.comments.length > 0) {
+          console.log('🔄 Setting comments from similarity API:', data.comments.length);
           this.comments = data.comments;
           this.lastCommentCount = this.countAllComments(this.comments);
+          console.log('🔄 Comments after similarity API:', this.comments.length);
           
           // Cache the results
           this.orderingCache.set(cacheKey, [...this.comments]);
           this.savePersistentCache();
+        } else {
+          console.log('🔄 No comments returned from similarity API, falling back to chronological');
+          // Fall back to chronological comments if similarity API returns empty
+          this.orderingMode = 'chronological';
+          try {
+            const chronologicalData = await this.api.getComments(this.pageId, 'chronological');
+            if (chronologicalData && chronologicalData.comments) {
+              console.log('🔄 Setting comments from chronological fallback:', chronologicalData.comments.length);
+              this.comments = chronologicalData.comments;
+              this.lastCommentCount = this.countAllComments(this.comments);
+              console.log('🔄 Comments after chronological fallback:', this.comments.length);
+            }
+          } catch (fallbackError) {
+            console.error('🔄 Fallback to chronological also failed:', fallbackError);
+          }
         }
         
         setTimeout(() => {
@@ -989,9 +1027,19 @@ class CommentSystem {
         this.setLoading(false);
       }
     } else {
-      // For chronological mode, just re-render existing comments
+      // For chronological mode, ensure loading state is cleared and re-render existing comments
+      this.setLoading(false);
       setTimeout(() => {
         this.renderComments();
+        // Fallback: ensure transition completes even if there are timing issues
+        setTimeout(() => {
+          const commentsList = this.container.querySelector('#comments-list');
+          if (commentsList && commentsList.classList.contains('transitioning')) {
+            console.log('🔄 Fallback: Forcing transition completion for chronological mode');
+            commentsList.classList.remove('transitioning', 'loaded', 'loading');
+            commentsList.style.opacity = '';
+          }
+        }, 1000);
       }, 150);
     }
   }
@@ -1116,6 +1164,12 @@ class CommentSystem {
       commentsList.innerHTML = this.getEmptyStateHTML();
       this.completeTransition();
       return;
+    }
+    
+    // Safety check: ensure comments are visible
+    if (commentsList) {
+      commentsList.style.opacity = '1';
+      commentsList.style.transform = 'translateY(0)';
     }
     
     let html = '';
@@ -1455,6 +1509,13 @@ class CommentSystem {
   completeTransition() {
     const commentsList = this.container.querySelector('#comments-list');
     
+    if (!commentsList) {
+      console.log('🔄 completeTransition: No comments list found');
+      return;
+    }
+    
+    console.log('🔄 completeTransition: Starting transition completion');
+    
     // Remove skeleton loading
     const skeleton = commentsList.querySelector('.comments-skeleton');
     if (skeleton) {
@@ -1463,22 +1524,26 @@ class CommentSystem {
     
     // Handle transition animations
     if (commentsList.classList.contains('transitioning')) {
-      // Fade in new content
-      commentsList.style.opacity = '0';
+      console.log('🔄 completeTransition: Handling transition animation');
       
+      // Simple transition: fade in
       setTimeout(() => {
-        commentsList.style.opacity = '1';
         commentsList.classList.add('loaded');
+        commentsList.style.opacity = '1';
+        commentsList.style.transform = 'translateY(0)';
         
         // Animate individual comments
         this.animateCommentsIn();
         
         setTimeout(() => {
+          console.log('🔄 completeTransition: Removing transition classes');
           commentsList.classList.remove('transitioning', 'loaded', 'loading');
           commentsList.style.opacity = '';
+          commentsList.style.transform = '';
         }, 300);
-      }, 50);
+      }, 100);
     } else {
+      console.log('🔄 completeTransition: No transition, just animating comments in');
       // No transition, just animate comments in
       this.animateCommentsIn();
     }

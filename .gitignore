@@ -4,3 +4,4 @@ cloudflare_comments/
 .kiro/
 .env.example
 .env
+node_modules/*

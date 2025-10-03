@@ -119,6 +119,12 @@
   transform: translateY(0);
 }
 
+/* Ensure comments are visible when not transitioning */
+.comments-list:not(.transitioning) {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .comment-thread {
   margin-bottom: 1.5rem;
 }
