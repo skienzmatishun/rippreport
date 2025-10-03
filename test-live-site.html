@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Live Site Comments</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { border: 1px solid #ccc; margin: 20px 0; padding: 15px; }
+        .success { background: #d4edda; border-color: #c3e6cb; }
+        .error { background: #f8d7da; border-color: #f5c6cb; }
+        .info { background: #d1ecf1; border-color: #bee5eb; }
+    </style>
+</head>
+<body>
+    <h1>Live Site Comment System Test</h1>
+    
+    <div class="test-section info">
+        <h3>Test Results:</h3>
+        <div id="test-results"></div>
+    </div>
+
+    <script>
+        async function testCommentSystem() {
+            const results = [];
+            
+            try {
+                // Test 1: Check if API returns comments with replies
+                console.log('Testing chronological API...');
+                const chronResponse = await fetch('https://ai-comment-system.rdunphy.workers.dev/api/comments/newsletter');
+                const chronData = await chronResponse.json();
+                
+                if (chronData.success && chronData.comments.length > 0) {
+                    const hasReplies = chronData.comments.some(c => c.replies && c.replies.length > 0);
+                    results.push({
+                        test: 'Chronological API - Comments with Replies',
+                        status: hasReplies ? 'PASS' : 'FAIL',
+                        details: `Found ${chronData.totalCount} total comments, ${chronData.comments.length} root comments, replies present: ${hasReplies}`
+                    });
+                    
+                    // Count nested replies
+                    let totalReplies = 0;
+                    chronData.comments.forEach(c => {
+                        if (c.replies) {
+                            totalReplies += c.replies.length;
+                            c.replies.forEach(r => {
+                                if (r.replies) totalReplies += r.replies.length;
+                            });
+                        }
+                    });
+                    
+                    results.push({
+                        test: 'Reply Threading Depth',
+                        status: totalReplies > 0 ? 'PASS' : 'FAIL',
+                        details: `Found ${totalReplies} nested replies`
+                    });
+                } else {
+                    results.push({
+                        test: 'Chronological API',
+                        status: 'FAIL',
+                        details: 'No comments returned or API error'
+                    });
+                }
+                
+                // Test 2: Check similarity API
+                console.log('Testing similarity API...');
+                const simResponse = await fetch('https://ai-comment-system.rdunphy.workers.dev/api/comments/similar/newsletter');
+                const simData = await simResponse.json();
+                
+                if (simData.success && simData.comments.length > 0) {
+                    const hasRelevanceScores = simData.comments.some(c => c.relevanceScore !== undefined);
+                    const hasRepliesInSim = simData.comments.some(c => c.replies && c.replies.length > 0);
+                    
+                    results.push({
+                        test: 'Similarity API - Relevance Scores',
+                        status: hasRelevanceScores ? 'PASS' : 'FAIL',
+                        details: `Relevance scores present: ${hasRelevanceScores}`
+                    });
+                    
+                    results.push({
+                        test: 'Similarity API - Preserves Replies',
+                        status: hasRepliesInSim ? 'PASS' : 'FAIL',
+                        details: `Replies preserved in similarity mode: ${hasRepliesInSim}`
+                    });
+                    
+                    results.push({
+                        test: 'Similarity API - Comment Count Match',
+                        status: simData.totalCount === chronData.totalCount ? 'PASS' : 'FAIL',
+                        details: `Chronological: ${chronData.totalCount}, Similarity: ${simData.totalCount}`
+                    });
+                } else {
+                    results.push({
+                        test: 'Similarity API',
+                        status: 'FAIL',
+                        details: 'No comments returned or API error'
+                    });
+                }
+                
+                // Test 3: Check if frontend JavaScript is loaded
+                const jsLoaded = typeof CommentSystem !== 'undefined';
+                results.push({
+                    test: 'Frontend JavaScript Loaded',
+                    status: jsLoaded ? 'PASS' : 'FAIL',
+                    details: `CommentSystem class available: ${jsLoaded}`
+                });
+                
+            } catch (error) {
+                results.push({
+                    test: 'API Connection',
+                    status: 'FAIL',
+                    details: `Error: ${error.message}`
+                });
+            }
+            
+            // Display results
+            const resultsDiv = document.getElementById('test-results');
+            resultsDiv.innerHTML = results.map(r => `
+                <div class="test-section ${r.status === 'PASS' ? 'success' : 'error'}">
+                    <strong>${r.test}:</strong> ${r.status}<br>
+                    <small>${r.details}</small>
+                </div>
+            `).join('');
+            
+            // Summary
+            const passed = results.filter(r => r.status === 'PASS').length;
+            const total = results.length;
+            
+            resultsDiv.innerHTML += `
+                <div class="test-section info">
+                    <h4>Summary: ${passed}/${total} tests passed</h4>
+                    ${passed === total ? '✅ All tests passed! The comment system should be working correctly.' : 
+                      '⚠️ Some tests failed. Check the details above.'}
+                </div>
+            `;
+        }
+        
+        // Load the comment system JavaScript from the live site
+        const script = document.createElement('script');
+        script.src = 'https://rippreport.com/js/ai-comments.js';
+        script.onload = () => {
+            console.log('Comment system JavaScript loaded');
+            testCommentSystem();
+        };
+        script.onerror = () => {
+            console.error('Failed to load comment system JavaScript');
+            testCommentSystem();
+        };
+        document.head.appendChild(script);
+    </script>
+</body>
+</html>
