@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Comment System Fixes</title>
+    <link rel="stylesheet" href="static/css/ai-comments.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .test-info {
+            background: #f0f8ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Comment System Fix Test</h1>
+    
+    <div class="test-info">
+        <h3>Testing Fixes:</h3>
+        <ul>
+            <li>✅ Replies should now show up properly</li>
+            <li>✅ Relevant mode should not remove all comments</li>
+            <li>✅ URL links should be clickable</li>
+            <li>✅ Comment count should include replies</li>
+        </ul>
+    </div>
+
+    <div id="comments-container"></div>
+
+    <script src="static/js/ai-comments.js"></script>
+    <script>
+        // Initialize comment system
+        const commentSystem = new CommentSystem({
+            container: '#comments-container',
+            pageId: '/test-fixes',
+            apiBase: 'https://ai-comment-system-development.rdunphy.workers.dev/api'
+        });
+
+        // Add some test logging
+        console.log('Comment system initialized for testing fixes');
+        
+        // Test URL processing
+        const testContent = "Check out this link: https://example.com and this one too: https://github.com/user/repo";
+        console.log('Test URL processing:', commentSystem.processCommentContentSync(testContent));
+    </script>
+</body>
+</html>

@@ -951,30 +951,38 @@ class CommentSystem {
       console.log('🔄 Loading similarity comments from API');
       this.setLoading(true);
       
-      this.api.getComments(this.pageId, 'similarity')
-        .then(data => {
-          console.log('🔄 Similarity API response:', data);
-          this.comments = data.comments || [];
-          this.lastCommentCount = this.countAllComments(this.comments);
-          
-          // Cache the results
-          this.orderingCache.set(cacheKey, [...this.comments]);
-          this.savePersistentCache();
-          
-          setTimeout(() => {
-            this.renderComments();
-          }, 150);
-        })
-        .catch(error => {
-          console.error('🔄 Similarity API failed:', error);
-          // Don't change comments on error - keep current ones visible
-          setTimeout(() => {
-            this.renderComments();
-          }, 150);
-        })
-        .finally(() => {
-          this.setLoading(false);
+      try {
+        const data = await this.api.getComments(this.pageId, 'similarity');
+        console.log('🔄 Similarity API response:', data);
+        this.comments = data.comments || [];
+        this.lastCommentCount = this.countAllComments(this.comments);
+        
+        // Cache the results
+        this.orderingCache.set(cacheKey, [...this.comments]);
+        this.savePersistentCache();
+        
+        setTimeout(() => {
+          this.renderComments();
+        }, 150);
+      } catch (error) {
+        console.error('🔄 Similarity API failed:', error);
+        // Revert to previous mode on error and keep current comments visible
+        this.orderingMode = previousMode;
+        
+        // Revert button states
+        buttons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.mode === previousMode);
         });
+        
+        // Show error notification but keep comments visible
+        this.showNotification('Failed to load relevant comments. Showing recent comments instead.', 'warning');
+        
+        setTimeout(() => {
+          this.renderComments();
+        }, 150);
+      } finally {
+        this.setLoading(false);
+      }
     } else {
       // For chronological mode, just re-render existing comments
       setTimeout(() => {
@@ -1113,9 +1121,8 @@ class CommentSystem {
       html = this.renderSimilarityGroupedComments();
     } else {
       console.log('🔄 Rendering in chronological mode');
-      // Standard chronological threading with proper ordering
-      const threads = this.buildCommentThreads(this.comments);
-      const sortedThreads = this.sortCommentsChronologically([...threads]);
+      // Comments are already properly threaded from backend, just sort them
+      const sortedThreads = this.sortCommentsChronologically([...this.comments]);
       html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
     }
     
@@ -1142,9 +1149,9 @@ class CommentSystem {
     console.log('🎯 renderSimilarityGroupedComments called');
     console.log('🎯 Raw comments count:', this.comments.length);
     
-    // Build proper comment threads first to preserve reply structure
-    const threads = this.buildCommentThreads(this.comments);
-    console.log('🎯 Built threads count:', threads.length);
+    // Comments from backend are already properly threaded, just use them directly
+    const threads = this.comments; // Already organized by backend
+    console.log('🎯 Using pre-threaded comments count:', threads.length);
     
     // Order threads by relevance while preserving reply threading
     const sortedThreads = [...threads].sort((a, b) => {
@@ -1537,28 +1544,12 @@ class CommentSystem {
   }
 
   buildCommentThreads(comments) {
-    const commentMap = new Map();
-    const threads = [];
-    
-    // First pass: create comment map
-    comments.forEach(comment => {
-      commentMap.set(comment.id, { ...comment, replies: [] });
-    });
-    
-    // Second pass: build hierarchy
-    comments.forEach(comment => {
-      const commentObj = commentMap.get(comment.id);
-      
-      if (comment.parentId && commentMap.has(comment.parentId)) {
-        // This is a reply
-        commentMap.get(comment.parentId).replies.push(commentObj);
-      } else {
-        // This is a top-level comment
-        threads.push(commentObj);
-      }
-    });
-    
-    return threads;
+    // Comments from the backend are already properly threaded with replies nested
+    // We just need to return them as-is since getCommentsWithReplies already organized them
+    return comments.map(comment => ({
+      ...comment,
+      replies: comment.replies || []
+    }));
   }
 
   renderCommentThread(comment, depth = 0) {
@@ -1578,7 +1569,7 @@ class CommentSystem {
           </div>
           
           <div class="comment-content">
-            ${this.escapeHtml(comment.content)}
+            ${this.processCommentContentSync(comment.content)}
           </div>
           
           <div class="comment-actions">
@@ -1730,7 +1721,8 @@ class CommentSystem {
   updateCommentsCount() {
     const countElement = this.container.querySelector('#comments-count');
     if (countElement) {
-      countElement.textContent = this.comments.length;
+      const totalCount = this.countAllComments(this.comments);
+      countElement.textContent = totalCount;
     }
   }
 
@@ -1754,6 +1746,31 @@ class CommentSystem {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
+  }
+
+  processCommentContentSync(content) {
+    // First escape HTML to prevent XSS
+    let processedContent = this.escapeHtml(content);
+    
+    // URL regex pattern to match various URL formats
+    const urlRegex = /(https?:\/\/[^\s<>"{}|\\^`[\]]+)/gi;
+    
+    // Replace URLs with clickable links
+    processedContent = processedContent.replace(urlRegex, (url) => {
+      // Clean up the URL (remove trailing punctuation that might not be part of the URL)
+      const cleanUrl = url.replace(/[.,;:!?]+$/, '');
+      const trailingPunct = url.slice(cleanUrl.length);
+      
+      // Create a safe display version (truncate very long URLs)
+      let displayUrl = cleanUrl;
+      if (displayUrl.length > 50) {
+        displayUrl = displayUrl.substring(0, 47) + '...';
+      }
+      
+      return `<a href="${cleanUrl}" target="_blank" rel="noopener noreferrer" class="comment-link">${displayUrl}</a>${trailingPunct}`;
+    });
+    
+    return processedContent;
   }
 
   // Method to refresh comments (useful for after posting new comments)
