@@ -1751,7 +1751,7 @@ class CommentSystem {
       const loadingText = indicator.querySelector('span');
       if (loadingText) {
         if (this.orderingMode === 'similarity') {
-          loadingText.textContent = 'AI analyzing comments...';
+          loadingText.textContent = 'Analyzing comments...';
         } else {
           loadingText.textContent = 'Loading comments...';
         }
