@@ -946,35 +946,18 @@ class CommentSystem {
       return;
     }
     
-    // For similarity mode, reload comments with similarity API
+    // For similarity mode, use same data but try to get AI relevance scores
     if (mode === 'similarity') {
-      console.log('🔄 Loading similarity comments from API');
-      this.setLoading(true);
+      console.log('🔄 Switching to similarity mode with same data');
       
-      this.api.getComments(this.pageId, 'similarity')
-        .then(data => {
-          console.log('🔄 Similarity API response:', data);
-          this.comments = data.comments || [];
-          this.lastCommentCount = this.countAllComments(this.comments);
-          
-          // Cache the results
-          this.orderingCache.set(cacheKey, [...this.comments]);
-          this.savePersistentCache();
-          
-          setTimeout(() => {
-            this.renderComments();
-          }, 150);
-        })
-        .catch(error => {
-          console.error('🔄 Similarity API failed:', error);
-          // Fallback to current comments with local sorting
-          setTimeout(() => {
-            this.renderComments();
-          }, 150);
-        })
-        .finally(() => {
-          this.setLoading(false);
-        });
+      // Always show all comments immediately
+      setTimeout(() => {
+        this.renderComments();
+      }, 150);
+      
+      // Try to get AI relevance scores in background (non-blocking)
+      this.tryGetAIRelevanceScores(cacheKey);
+      
     } else {
       // For chronological mode, just re-render existing comments
       setTimeout(() => {
@@ -1218,17 +1201,51 @@ class CommentSystem {
   }
 
   /**
-   * Try to get AI relevance without breaking the comment system
+   * Try to get AI relevance scores without filtering comments
    */
-  async tryGetAIRelevance(cacheKey) {
+  async tryGetAIRelevanceScores(cacheKey) {
     try {
+      console.log('🤖 Trying to get AI relevance scores');
+      
       // Only try if we have comments
       if (!this.comments || this.comments.length === 0) {
+        console.log('🤖 No comments to analyze');
         return;
       }
       
-      // Apply relevance ordering
-      await this.orderCommentsByRelevance();
+      // Get page content for context
+      const pageContext = this.extractPageContext();
+      
+      // Prepare comments for analysis (only root comments)
+      const commentsForAnalysis = this.comments
+        .filter(c => !c.parentId)
+        .map(c => ({
+          id: c.id,
+          content: c.content,
+          authorName: c.authorName,
+          createdAt: c.createdAt
+        }));
+      
+      if (commentsForAnalysis.length <= 1) {
+        console.log('🤖 Not enough root comments to analyze');
+        return;
+      }
+      
+      console.log('🤖 Analyzing', commentsForAnalysis.length, 'root comments');
+      
+      // Call LLM relevance API
+      const relevanceScores = await this.calculateLLMRelevance(commentsForAnalysis, pageContext);
+      
+      // Apply scores to existing comments (don't replace comments)
+      this.comments.forEach(comment => {
+        const score = relevanceScores.find(s => s.commentId === comment.id);
+        if (score) {
+          comment.relevanceScore = score.relevance;
+          comment.topicRelevance = score.topicRelevance;
+        }
+      });
+      
+      console.log('🤖 Applied relevance scores, re-rendering');
       
       // Cache the results
       this.orderingCache.set(cacheKey, [...this.comments]);
@@ -1240,8 +1257,8 @@ class CommentSystem {
       }, 100);
       
     } catch (error) {
-      console.warn('AI relevance processing failed:', error);
-      // Don't throw - let the fallback handle it
+      console.warn('🤖 AI relevance scoring failed:', error);
+      // Don't throw - comments are already visible
     }
   }
 
