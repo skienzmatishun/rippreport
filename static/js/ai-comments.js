@@ -951,9 +951,10 @@ class CommentSystem {
     }
     
     // Check if we have cached results for this mode
+    // Note: Don't include lastCommentCount in cache key to avoid race conditions
     const cacheKey = mode === 'chronological' 
-      ? `${mode}_${this.chronologicalOrder}_${this.pageId}_${this.lastCommentCount}`
-      : `${mode}_${this.pageId}_${this.lastCommentCount}`;
+      ? `${mode}_${this.chronologicalOrder}_${this.pageId}`
+      : `${mode}_${this.pageId}`;
     
     if (this.orderingCache.has(cacheKey)) {
       // Use cached results instantly
@@ -966,7 +967,7 @@ class CommentSystem {
       return;
     }
     
-    // For similarity mode, reload from similarity API
+    // For similarity mode, use background analysis approach
     if (mode === 'similarity') {
       console.log('🔄 Loading similarity comments from API');
       console.log('🔄 Current comments before API call:', this.comments.length);
@@ -989,6 +990,28 @@ class CommentSystem {
           // Cache the results
           this.orderingCache.set(cacheKey, [...this.comments]);
           this.savePersistentCache();
+          
+          // Check if this is background analysis mode
+          if (data.orderingType === 'recent' && data.analysisStatus === 'processing') {
+            console.log('🔄 Background analysis in progress, showing recent comments');
+            this.showAIProcessingBanner();
+            this.updateAIStatusIndicator('processing');
+            
+            // Start polling for analysis completion
+            this.startAnalysisPolling();
+            
+            if (this.showNotification) {
+              this.showNotification('Showing recent comments while AI analyzes for relevance...', 'info');
+            }
+          } else if (data.orderingType === 'similarity') {
+            console.log('🔄 Analysis complete, showing relevance-sorted comments');
+            this.hideAIProcessingBanner();
+            this.updateAIStatusIndicator('complete');
+            
+            if (this.showNotification) {
+              this.showNotification('Comments sorted by relevance using AI analysis', 'success');
+            }
+          }
         } else {
           console.log('🔄 Invalid or empty similarity API response, keeping existing comments');
           // Keep existing comments instead of clearing them
@@ -1073,8 +1096,8 @@ class CommentSystem {
       this.comments = newComments;
       
       // Store chronological versions in cache (both newest and oldest)
-      const chronologicalNewestKey = `chronological_newest_${this.pageId}_${this.lastCommentCount}`;
-      const chronologicalOldestKey = `chronological_oldest_${this.pageId}_${this.lastCommentCount}`;
+      const chronologicalNewestKey = `chronological_newest_${this.pageId}`;
+      const chronologicalOldestKey = `chronological_oldest_${this.pageId}`;
       this.orderingCache.set(chronologicalNewestKey, [...this.comments]);
       this.orderingCache.set(chronologicalOldestKey, [...this.comments]);
       
@@ -2265,6 +2288,86 @@ class CommentSystem {
     // Remove notifications
     const notifications = document.querySelectorAll('.comment-notification');
     notifications.forEach(notification => notification.remove());
+  }
+
+  /**
+   * Start polling for analysis completion
+   */
+  startAnalysisPolling() {
+    // Clear any existing polling
+    this.stopAnalysisPolling();
+    
+    console.log('🔄 Starting analysis polling for', this.pageId);
+    
+    let pollCount = 0;
+    const maxPolls = 30; // Poll for up to 30 times (30 seconds with 1s interval)
+    
+    this.analysisPollingInterval = setInterval(async () => {
+      pollCount++;
+      
+      try {
+        console.log(`🔄 Polling attempt ${pollCount}/${maxPolls}`);
+        
+        const response = await this.api.request(`/comments/status/${encodeURIComponent(this.pageId)}`);
+        
+        if (response.success && response.status === 'complete') {
+          console.log('🔄 Analysis complete! Updating comments');
+          
+          // Stop polling
+          this.stopAnalysisPolling();
+          
+          // Update comments with analyzed results
+          if (response.comments && Array.isArray(response.comments)) {
+            this.comments = response.comments;
+            this.lastCommentCount = this.countAllComments(this.comments);
+            
+            // Update cache
+            const cacheKey = `${this.orderingMode}_${this.pageId}`;
+            this.orderingCache.set(cacheKey, [...this.comments]);
+            this.savePersistentCache();
+            
+            // Update UI
+            this.hideAIProcessingBanner();
+            this.updateAIStatusIndicator('complete');
+            this.renderComments();
+            
+            if (this.showNotification) {
+              this.showNotification('Comments updated with AI relevance analysis!', 'success');
+            }
+          }
+        } else if (pollCount >= maxPolls) {
+          console.log('🔄 Polling timeout, stopping');
+          this.stopAnalysisPolling();
+          
+          // Update UI to show timeout
+          this.hideAIProcessingBanner();
+          this.updateAIStatusIndicator('error');
+          
+          if (this.showNotification) {
+            this.showNotification('AI analysis is taking longer than expected. Comments remain in recent order.', 'warning');
+          }
+        }
+      } catch (error) {
+        console.error('🔄 Polling error:', error);
+        
+        if (pollCount >= maxPolls) {
+          this.stopAnalysisPolling();
+          this.hideAIProcessingBanner();
+          this.updateAIStatusIndicator('error');
+        }
+      }
+    }, 1000); // Poll every second
+  }
+
+  /**
+   * Stop analysis polling
+   */
+  stopAnalysisPolling() {
+    if (this.analysisPollingInterval) {
+      clearInterval(this.analysisPollingInterval);
+      this.analysisPollingInterval = null;
+      console.log('🔄 Stopped analysis polling');
+    }
   }
 }
 
