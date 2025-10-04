@@ -96,15 +96,11 @@ Page 1591 of the transcript, which is close to the end of the trial, defense att
 
 They also had no blood, no witness, no crime scene. Five people testified as to the whereabouts of Murray Lawrence the night of the murder. Whetstone discredited their testimony saying they were all drug users. Jarius McNeal was a suspect immediately and was the sole person responsible for the death of Brandon Hastings. Jarius was told by Mack that he would receive the death sentence unless he could name an accomplice. To save his own life he implicated his best friend Murray Bubba Lawrence. The entire case was surrounded around what the actual killer said, without any other evidence.
 
-
 To become Sheriff, Mack sent an innocent man to jail for life, without the possibility of parole. He had the help of the Judge and prosecutor who hid exculpatory evidence from the defense. The sad irony is the actual killer got life with the possibility of parole. He is eligible now for parole while Murray Bubba Lawrence remains in Holman Prison.
-
 
 Sheriff Mack will not be missed and Anthony Lowery who is alleged to have some of the same habits of Andre Reid should leave through the same door Mack exits.
 
-
 The articles below are not as telling as the comments submitted. These comments, many by sheriff deputies, paint a picture of a good ole boy culture that has many lawyers and judges as members.
-
 
 {{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
 
@@ -114,10 +110,6 @@ The articles below are not as telling as the comments submitted. These comments,
 
 Believe it or not the Ripp Report knows far more, however we will wait till certain people firmly have their foot in their mouth, then we will print it.
 
-
 Baldwin County Sheriff’s Office needs a deep cleaning, starting from the top. Please be pro active in the selection of the new sheriff.
 
-
-<style>.cactus-comment:has(.cactus-comment-time[title="Fri Jul 19 17:09:10 2024 UTC"]) {opacity: 0.12;order: 15;}</style>
-
-{{< chat h4552 >}}
+{{< aicomments "htbs" >}}
