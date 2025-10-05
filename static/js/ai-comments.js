@@ -2332,7 +2332,7 @@ class CommentSystem {
             this.renderComments();
             
             if (this.showNotification) {
-              this.showNotification('Comments updated with AI relevance analysis!', 'success');
+              this.showNotification('Comments updated', 'success');
             }
           }
         } else if (pollCount >= maxPolls) {
@@ -2344,7 +2344,7 @@ class CommentSystem {
           this.updateAIStatusIndicator('error');
           
           if (this.showNotification) {
-            this.showNotification('AI analysis is taking longer than expected. Comments remain in recent order.', 'warning');
+            this.showNotification('Analysis is taking longer than expected. Comments remain in recent order.', 'warning');
           }
         }
       } catch (error) {

@@ -67,7 +67,7 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
       window.commentSystem = new CommentSystem({
         container: "#ai-comment-system",
         pageId: pageId,
-        apiBase: "https://ai-comment-system.rdunphy.workers.dev/api",
+        apiBase: "https://comments.rippreport.com/api",
         autoRefresh: false, // Disable auto-refresh to save API calls
         retryAttempts: 3,
         retryDelay: 1000,

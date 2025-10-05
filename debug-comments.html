@@ -26,7 +26,7 @@
         // Test the API directly
         async function testAPI() {
             try {
-                const response = await fetch('https://ai-comment-system.rdunphy.workers.dev/api/comments/newsletter');
+                const response = await fetch('https://comments.rippreport.com/api/comments/newsletter');
                 const data = await response.json();
                 
                 document.getElementById('api-results').innerHTML = `
