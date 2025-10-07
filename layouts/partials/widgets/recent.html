@@ -39,19 +39,19 @@
   <h3 class="widget__title">{{ if .IsHome }}More Posts{{ else }}Related{{ end }}</h3>
   <div class="widget__content">
     <ul class="widget__list">
-      {{- range first $recent_num $filteredRecent }}
-        <li class="widget__item {{ if in .Params.categories "dwtd" }}dwtd__widget__item{{ else if in .Params.categories "backstory-podcast" }}backstory__widget__item{{ else if in .Params.categories "bcso" }}bcso__widget__item{{ else if in .Params.categories "elections" }}elections__widget__item{{ else if in .Params.categories "repost" }}repost__widget__item{{ end }}">
-          <a class="widget__link{{ if in .Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in .Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ .RelPermalink }}">
-            <h4>{{ .Title }}</h4>
-            {{- if .Params.thumbnail }}
-              <div class="widget__thumbnail{{ if .Params.gif }} widget__thumbnail--with-gif{{ end }}">
-                {{- $thumbnail := .Params.thumbnail }}
-                <img width="336px" height="174px" loading="lazy" src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $thumbnail }}" alt="{{ .Title }}" class="widget__thumbnail-image">
-                {{- if .Params.gif }}
+      {{- range $index, $page := first $recent_num $filteredRecent }}
+        <li class="widget__item {{ if in $page.Params.categories "dwtd" }}dwtd__widget__item{{ else if in $page.Params.categories "backstory-podcast" }}backstory__widget__item{{ else if in $page.Params.categories "bcso" }}bcso__widget__item{{ else if in $page.Params.categories "elections" }}elections__widget__item{{ else if in $page.Params.categories "repost" }}repost__widget__item{{ end }}">
+          <a class="widget__link{{ if in $page.Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in $page.Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ $page.RelPermalink }}">
+            <h4>{{ $page.Title }}</h4>
+            {{- if $page.Params.thumbnail }}
+              <div class="widget__thumbnail{{ if $page.Params.gif }} widget__thumbnail--with-gif{{ end }}">
+                {{- $thumbnail := $page.Params.thumbnail }}
+                <img width="336px" height="174px" {{- if gt $index 0 }} loading="lazy"{{ end }} src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $thumbnail }}" alt="{{ $page.Title }}" class="widget__thumbnail-image">
+                {{- if $page.Params.gif }}
                   <img
                     class="widget__gif"
-                    data-src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ .Params.gif }}"
-                    alt="{{ .Title }} - Animated"
+                    data-src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $page.Params.gif }}"
+                    alt="{{ $page.Title }} - Animated"
                     width="336px"
                     height="174px"
                   >
@@ -59,9 +59,9 @@
               </div>
             {{- end }}
             <p style="text-align:left;" class="widget__summary">
-              {{- $summary := .Summary -}}
+              {{- $summary := $page.Summary -}}
               {{- if not $summary -}}
-                {{- $summary = .Content -}}
+                {{- $summary = $page.Content -}}
               {{- end -}}
               {{- $cleanedSummary := $summary | plainify -}}
               {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
