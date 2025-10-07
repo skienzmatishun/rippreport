@@ -2,6 +2,7 @@
 title: "BCSO CULTURE"
 date: 2025-10-05
 thumbnail: "img/bcso-culture.png"
+summary: "Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop. A culture of lies, wrongful incarceration, deadly shootings, investigating themselves and finding themselves innocent 100 percent of the time. A culture that involves blanket immunity, no transparency and absolutely no accountability."
 tags:
   - Hoss Mack
   - BCSO
@@ -10,12 +11,11 @@ tags:
   - Murray Lawrence Jr
   - Peyton Little
   - Matt McKenzie
-categories: 
+categories:
   - bcso
-authors: 
+authors:
   - admin
 ---
-
 
 Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop.
 
@@ -45,8 +45,8 @@ During trial, Chisesi’s lawyers argued Hunady took unreasonable steps in a “
 
 {{< socialpreview url="https://rippreport.com/p/bcso-no-clones/" >}}
 
->Anonymous 2 days ago
->I am a deputy within the BCSO. For reasons of obvious nature, I will not leave my name. I love my job, but as like other people I need my paycheck. Sheriff Lowrey is NOT the person most of my colleagues want leading this department. He has never been for all of us, only a select few. He is only wanting the power of the position and not to help us and the citizens. He is horrible to work with and has never had to deal with a drugged up agitator at night by himself. He is hiding and covering up issues within our office, to the point that people are leaving and the retired deputies are hoping he doesn’t win the election. Please vote for someone other than him to lead us.
+> Anonymous 2 days ago
+> I am a deputy within the BCSO. For reasons of obvious nature, I will not leave my name. I love my job, but as like other people I need my paycheck. Sheriff Lowrey is NOT the person most of my colleagues want leading this department. He has never been for all of us, only a select few. He is only wanting the power of the position and not to help us and the citizens. He is horrible to work with and has never had to deal with a drugged up agitator at night by himself. He is hiding and covering up issues within our office, to the point that people are leaving and the retired deputies are hoping he doesn’t win the election. Please vote for someone other than him to lead us.
 
 Lying and conspiring. Want a perfect example than it is the wrongful conviction of Murray Lawrence Jr. Lowery was the lead investigator and he never ever produced one shred of evidence against Lawrence. In fact he Hoss Mack, Judge, at the time, Robert Wilters and David Whetstone hid exculpatory evidence from the defense. This is the CULTURE Mack and Lowery have adopted.
 
@@ -58,14 +58,14 @@ Is this another example of the CULTURE? Read the article very carefully.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/article_0e3724fe-d77d-5fd3-a6dc-9c5c6ada206b.html" >}}
 
-Allegedly, one of the SWAT team members was deputy Justin Correa, the son of Robert Correa. Suggesting the plaintiff has seen some evidence subsequently provided by investigators, the complaint claims Robert Correa warned his son about getting involved due to a potential conflict of interest, but the younger deputy said he was “gonna go in and kill this f*cker if I have to.”
+Allegedly, one of the SWAT team members was deputy Justin Correa, the son of Robert Correa. Suggesting the plaintiff has seen some evidence subsequently provided by investigators, the complaint claims Robert Correa warned his son about getting involved due to a potential conflict of interest, but the younger deputy said he was “gonna go in and kill this f\*cker if I have to.”
 
 Mack and Lowery hand in hand exacting their CULTURE on Steve Nodine.
 
 [Stephen Nodine Murder Trial - Search](https://www.bing.com/search?q=stephen+nodine+murder+trial&FORM=QSRE3)
 
->Anonymous3 weeks ago
->Nodine prosecution was a political hit piece against him because Mack, Lowery, and Newcomb wanted it to be a guilty verdict to shore up their existence for the DA’s Office and the Sheriff’s Office. Lowery thought it was a big deal and wanted to try to get him to confess in the interview, but Nodine never wavered. So they took it to a grand jury instead. Lowery has got to go. No more
+> Anonymous3 weeks ago
+> Nodine prosecution was a political hit piece against him because Mack, Lowery, and Newcomb wanted it to be a guilty verdict to shore up their existence for the DA’s Office and the Sheriff’s Office. Lowery thought it was a big deal and wanted to try to get him to confess in the interview, but Nodine never wavered. So they took it to a grand jury instead. Lowery has got to go. No more
 
 Mr French got stoped for a broken taillight and ended up being shot to death. The Baldwin County Major Crimes Unit with the assistance of then Mayor Wills simply ruled the death as a “justified shooting”. A great example of the CULTURE Lowery has employed within the Sheriff department. By the way Mayor Wills is no longer Mayor.
 
