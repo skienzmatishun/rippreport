@@ -1201,7 +1201,7 @@ class CommentSystem {
 
             if (this.showNotification) {
               this.showNotification(
-                "Comments sorted by relevance using AI analysis",
+                "Comments sorted by relevance",
                 "success"
               );
             }
