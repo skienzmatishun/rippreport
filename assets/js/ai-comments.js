@@ -2,7 +2,7 @@
 class CommentError extends Error {
   constructor(code, message, status = 0, options = {}) {
     super(message);
-    this.name = 'CommentError';
+    this.name = "CommentError";
     this.code = code;
     this.status = status;
     this.retryable = options.retryable || false;
@@ -17,7 +17,7 @@ class CommentError extends Error {
 // API Client for comment system
 class CommentAPIClient {
   constructor(options = {}) {
-    this.apiBase = options.apiBase || '/api';
+    this.apiBase = options.apiBase || "/api";
     this.retryAttempts = options.retryAttempts || 3;
     this.retryDelay = options.retryDelay || 1000;
     this.timeout = options.timeout || 10000;
@@ -28,90 +28,95 @@ class CommentAPIClient {
     const config = {
       timeout: this.timeout,
       headers: {
-        'Content-Type': 'application/json',
-        ...options.headers
+        "Content-Type": "application/json",
+        ...options.headers,
       },
-      ...options
+      ...options,
     };
 
     let lastError;
-    
+
     for (let attempt = 1; attempt <= this.retryAttempts; attempt++) {
       try {
         // Check if we're offline
         if (!navigator.onLine) {
-          throw new CommentError('OFFLINE', 'You are currently offline', 0, {
+          throw new CommentError("OFFLINE", "You are currently offline", 0, {
             retryable: true,
-            userMessage: 'Please check your internet connection and try again.'
+            userMessage: "Please check your internet connection and try again.",
           });
         }
 
         const response = await this.fetchWithTimeout(url, config);
-        
+
         if (!response.ok) {
           const errorData = await response.json().catch(() => ({}));
           const error = this.createCommentError(response, errorData);
           throw error;
         }
-        
+
         return await response.json();
-        
       } catch (error) {
         lastError = error;
-        
+
         // Enhanced retry logic
         const shouldRetry = this.shouldRetryRequest(error, attempt);
         if (!shouldRetry) {
           throw this.enhanceError(error);
         }
-        
+
         // Calculate delay with jitter to avoid thundering herd
         const baseDelay = this.retryDelay * Math.pow(2, attempt - 1);
         const jitter = Math.random() * 0.1 * baseDelay;
         const delay = baseDelay + jitter;
-        
-        await new Promise(resolve => setTimeout(resolve, delay));
-        
-        console.warn(`API request failed (attempt ${attempt}/${this.retryAttempts}):`, error.message);
+
+        await new Promise((resolve) => setTimeout(resolve, delay));
+
+        console.warn(
+          `API request failed (attempt ${attempt}/${this.retryAttempts}):`,
+          error.message
+        );
       }
     }
-    
+
     throw this.enhanceError(lastError);
   }
 
   createCommentError(response, errorData) {
     const errorInfo = errorData.error || {};
     const error = new CommentError(
-      errorInfo.code || 'HTTP_ERROR',
-      errorInfo.userMessage || errorInfo.message || `HTTP ${response.status}: ${response.statusText}`,
+      errorInfo.code || "HTTP_ERROR",
+      errorInfo.userMessage ||
+        errorInfo.message ||
+        `HTTP ${response.status}: ${response.statusText}`,
       response.status,
       {
         retryable: errorInfo.retryable || false,
         suggestions: errorInfo.suggestions || [],
         details: errorInfo.details,
-        requestId: response.headers.get('X-Request-ID')
+        requestId: response.headers.get("X-Request-ID"),
       }
     );
-    
+
     return error;
   }
 
   shouldRetryRequest(error, attempt) {
     // Don't retry if it's the last attempt
     if (attempt >= this.retryAttempts) return false;
-    
+
     // Don't retry client errors (4xx) unless specifically marked as retryable
-    if (error.status >= 400 && error.status < 500 && !error.retryable) return false;
-    
+    if (error.status >= 400 && error.status < 500 && !error.retryable)
+      return false;
+
     // Retry server errors (5xx)
     if (error.status >= 500) return true;
-    
+
     // Retry network errors
-    if (error.code === 'NETWORK_ERROR' || error.code === 'TIMEOUT') return true;
-    
+    if (error.code === "NETWORK_ERROR" || error.code === "TIMEOUT") return true;
+
     // Retry rate limiting after delay
-    if (error.code === 'RATE_LIMIT_EXCEEDED') return true;
-    
+    if (error.code === "RATE_LIMIT_EXCEEDED") return true;
+
     // Check if error is explicitly marked as retryable
     return error.retryable || false;
   }
@@ -120,72 +125,77 @@ class CommentAPIClient {
     if (error instanceof CommentError) {
       return error;
     }
-    
+
     // Convert generic errors to CommentError
-    let code = 'UNKNOWN_ERROR';
-    let userMessage = 'An unexpected error occurred. Please try again.';
-    
-    if (error.name === 'TypeError' && error.message.includes('fetch')) {
-      code = 'NETWORK_ERROR';
-      userMessage = 'Network connection failed. Please check your internet connection.';
-    } else if (error.name === 'AbortError' || error.message.includes('timeout')) {
-      code = 'TIMEOUT';
-      userMessage = 'The request took too long. Please try again.';
+    let code = "UNKNOWN_ERROR";
+    let userMessage = "An unexpected error occurred. Please try again.";
+
+    if (error.name === "TypeError" && error.message.includes("fetch")) {
+      code = "NETWORK_ERROR";
+      userMessage =
+        "Network connection failed. Please check your internet connection.";
+    } else if (
+      error.name === "AbortError" ||
+      error.message.includes("timeout")
+    ) {
+      code = "TIMEOUT";
+      userMessage = "The request took too long. Please try again.";
     }
-    
+
     return new CommentError(code, userMessage, 0, {
       retryable: true,
-      originalError: error.message
+      originalError: error.message,
     });
   }
 
   async fetchWithTimeout(url, options) {
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), this.timeout);
-    
+
     try {
       const response = await fetch(url, {
         ...options,
-        signal: controller.signal
+        signal: controller.signal,
       });
       clearTimeout(timeoutId);
       return response;
     } catch (error) {
       clearTimeout(timeoutId);
-      if (error.name === 'AbortError') {
-        throw new Error('Request timeout');
+      if (error.name === "AbortError") {
+        throw new Error("Request timeout");
       }
       throw error;
     }
   }
 
   // Comment API methods
-  async getComments(pageId, orderingMode = 'chronological') {
-    const endpoint = orderingMode === 'similarity' 
-      ? `/comments/similar/${encodeURIComponent(pageId)}`
-      : `/comments/${encodeURIComponent(pageId)}`;
-    
+  async getComments(pageId, orderingMode = "chronological") {
+    const endpoint =
+      orderingMode === "similarity"
+        ? `/comments/similar/${encodeURIComponent(pageId)}`
+        : `/comments/${encodeURIComponent(pageId)}`;
+
     return this.request(endpoint);
   }
 
   async createComment(commentData) {
-    return this.request('/comments', {
-      method: 'POST',
-      body: JSON.stringify(commentData)
+    return this.request("/comments", {
+      method: "POST",
+      body: JSON.stringify(commentData),
     });
   }
 
   async replyToComment(parentId, replyData) {
     return this.request(`/comments/${parentId}/reply`, {
-      method: 'POST',
-      body: JSON.stringify(replyData)
+      method: "POST",
+      body: JSON.stringify(replyData),
     });
   }
 
   // Health check method
   async checkHealth() {
     try {
-      await this.request('/health');
+      await this.request("/health");
       return true;
     } catch (error) {
       return false;
@@ -199,8 +209,8 @@ class CommentSystem {
     this.pageId = options.pageId || window.location.pathname;
     this.container = null;
     this.comments = [];
-    this.orderingMode = 'chronological'; // 'chronological' or 'similarity'
-    this.chronologicalOrder = 'newest'; // 'newest' (recent) or 'oldest'
+    this.orderingMode = "chronological"; // 'chronological' or 'similarity'
+    this.chronologicalOrder = "newest"; // 'newest' (recent) or 'oldest'
     this.isLoading = false;
     this.isOnline = navigator.onLine;
     this.updateInterval = null;
@@ -208,18 +218,18 @@ class CommentSystem {
     this.cachedOrderedComments = null;
     this.lastCommentCount = 0;
     this.orderingCache = new Map(); // Cache for different ordering modes
-    
+
     // Load persistent cache from localStorage
     this.loadPersistentCache();
-    
+
     // Initialize API client
     this.api = new CommentAPIClient({
-      apiBase: options.apiBase || '/api',
+      apiBase: options.apiBase || "/api",
       retryAttempts: options.retryAttempts || 3,
       retryDelay: options.retryDelay || 1000,
-      timeout: options.timeout || 10000
+      timeout: options.timeout || 10000,
     });
-    
+
     // Initialize the system
     this.init(options.container);
     this.setupNetworkHandling();
@@ -227,12 +237,13 @@ class CommentSystem {
   }
 
   init(containerSelector) {
-    this.container = typeof containerSelector === 'string' 
-      ? document.querySelector(containerSelector)
-      : containerSelector;
-    
+    this.container =
+      typeof containerSelector === "string"
+        ? document.querySelector(containerSelector)
+        : containerSelector;
+
     if (!this.container) {
-      console.error('CommentSystem: Container not found');
+      console.error("CommentSystem: Container not found");
       return;
     }
 
@@ -285,16 +296,22 @@ class CommentSystem {
 
   getCommentFormHTML(parentComment = null) {
     const isReply = !!parentComment;
-    const formId = isReply ? `reply-form-${parentComment.id}` : 'main-comment-form';
-    
+    const formId = isReply
+      ? `reply-form-${parentComment.id}`
+      : "main-comment-form";
+
     return `
-      <form class="comment-form ${isReply ? 'reply-form' : ''}" id="${formId}" data-parent-id="${parentComment?.id || ''}">
+      <form class="comment-form ${
+        isReply ? "reply-form" : ""
+      }" id="${formId}" data-parent-id="${parentComment?.id || ""}">
         <div class="form-header">
-          <h4 class="form-title">${isReply ? 'Reply to Comment' : 'Leave a Comment'}</h4>
+          <h4 class="form-title">${
+            isReply ? "Reply to Comment" : "Leave a Comment"
+          }</h4>
           <p class="form-subtitle">Share your thoughts and join the discussion</p>
         </div>
         
-        ${isReply ? this.getReplyContextHTML(parentComment) : ''}
+        ${isReply ? this.getReplyContextHTML(parentComment) : ""}
         
         <div class="anonymous-notice">
           <span class="anonymous-notice-icon">ℹ️</span>
@@ -330,55 +347,88 @@ class CommentSystem {
         </div>
         
         <div class="form-actions">
-          ${isReply ? '<button type="button" class="form-btn form-btn-secondary cancel-reply-btn">Cancel</button>' : ''}
+          ${
+            isReply
+              ? '<button type="button" class="form-btn form-btn-secondary cancel-reply-btn">Cancel</button>'
+              : ""
+          }
           <button type="submit" class="form-btn form-btn-primary">
-            <span class="btn-text">${isReply ? 'Post Reply' : 'Post Comment'}</span>
+            <span class="btn-text">${
+              isReply ? "Post Reply" : "Post Comment"
+            }</span>
           </button>
         </div>
         
         <div class="form-success" id="${formId}-success" style="display: none;">
-          Your ${isReply ? 'reply' : 'comment'} has been posted successfully!
+          Your ${isReply ? "reply" : "comment"} has been posted successfully!
         </div>
       </form>
     `;
   }
 
   getReplyContextHTML(parentComment) {
-    const truncatedContent = parentComment.content.length > 100 
-      ? parentComment.content.substring(0, 100) + '...'
-      : parentComment.content;
-      
+    const truncatedContent =
+      parentComment.content.length > 100
+        ? parentComment.content.substring(0, 100) + "..."
+        : parentComment.content;
+
     return `
       <div class="reply-context">
-        <div class="reply-context-label">Replying to ${this.escapeHtml(parentComment.authorName || 'Anonymous')}:</div>
-        <div class="reply-context-content">"${this.escapeHtml(truncatedContent)}"</div>
+        <div class="reply-context-label">Replying to ${this.escapeHtml(
+          parentComment.authorName || "Anonymous"
+        )}:</div>
+        <div class="reply-context-content">"${this.escapeHtml(
+          truncatedContent
+        )}"</div>
       </div>
     `;
   }
 
   attachEventListeners() {
     // Ordering toggle buttons
-    const orderingButtons = this.container.querySelectorAll('.ordering-button');
-    orderingButtons.forEach(button => {
-      button.addEventListener('click', (e) => {
+    const orderingButtons = this.container.querySelectorAll(".ordering-button");
+    orderingButtons.forEach((button) => {
+      button.addEventListener("click", (e) => {
         const mode = e.target.dataset.mode;
-        
+        console.log(
+          "🔄 Button clicked:",
+          mode,
+          "current mode:",
+          this.orderingMode,
+          "isLoading:",
+          this.isLoading
+        );
+
+        // Prevent race conditions by checking loading state first
+        if (this.isLoading) {
+          console.log("🔄 Button click ignored - already loading");
+          return;
+        }
+
         // Handle chronological toggle behavior
-        if (mode === 'chronological' && this.orderingMode === 'chronological') {
+        if (mode === "chronological" && this.orderingMode === "chronological") {
           // Toggle between newest and oldest
+          console.log("🔄 Toggling chronological order");
           this.toggleChronologicalOrder();
+        } else if (this.orderingMode !== mode) {
+          // Switch to different mode only if not already in that mode
+          console.log("🔄 Switching to mode:", mode);
+          console.log("🔄 About to call setOrderingMode");
+          this.setOrderingMode(mode)
+            .then(() => {
+              console.log("🔄 setOrderingMode completed");
+            })
+            .catch((error) => {
+              console.error("🔄 setOrderingMode failed:", error);
+            });
         } else {
-          // Switch to different mode
-          this.setOrderingMode(mode).then(() => {
-          }).catch(error => {
-            console.error('🔄 setOrderingMode failed:', error);
-          });
+          console.log("🔄 Button click ignored - already in mode:", mode);
         }
       });
     });
 
     // Main comment form
-    const mainForm = this.container.querySelector('#main-comment-form');
+    const mainForm = this.container.querySelector("#main-comment-form");
     if (mainForm) {
       this.attachFormListeners(mainForm);
     }
@@ -392,24 +442,24 @@ class CommentSystem {
     const contentTextarea = form.querySelector('textarea[name="content"]');
     const counter = form.querySelector(`#${formId}-counter`);
     const submitBtn = form.querySelector('button[type="submit"]');
-    const cancelBtn = form.querySelector('.cancel-reply-btn');
+    const cancelBtn = form.querySelector(".cancel-reply-btn");
 
     // Character counter
     if (contentTextarea && counter) {
-      contentTextarea.addEventListener('input', (e) => {
+      contentTextarea.addEventListener("input", (e) => {
         this.updateCharacterCounter(e.target, counter);
       });
     }
 
     // Form submission
-    form.addEventListener('submit', (e) => {
+    form.addEventListener("submit", (e) => {
       e.preventDefault();
       this.handleFormSubmit(form);
     });
 
     // Cancel reply button
     if (cancelBtn) {
-      cancelBtn.addEventListener('click', () => {
+      cancelBtn.addEventListener("click", () => {
         this.cancelReply(form);
       });
     }
@@ -417,13 +467,13 @@ class CommentSystem {
     // Real-time validation
     const nameInput = form.querySelector('input[name="authorName"]');
     if (nameInput) {
-      nameInput.addEventListener('blur', () => {
+      nameInput.addEventListener("blur", () => {
         this.validateField(nameInput);
       });
     }
 
     if (contentTextarea) {
-      contentTextarea.addEventListener('blur', () => {
+      contentTextarea.addEventListener("blur", () => {
         this.validateField(contentTextarea);
       });
     }
@@ -431,9 +481,14 @@ class CommentSystem {
 
   attachReplyButtonListeners() {
     // Use event delegation for reply buttons
-    this.container.addEventListener('click', (e) => {
-      if (e.target.classList.contains('reply-btn') || e.target.closest('.reply-btn')) {
-        const btn = e.target.classList.contains('reply-btn') ? e.target : e.target.closest('.reply-btn');
+    this.container.addEventListener("click", (e) => {
+      if (
+        e.target.classList.contains("reply-btn") ||
+        e.target.closest(".reply-btn")
+      ) {
+        const btn = e.target.classList.contains("reply-btn")
+          ? e.target
+          : e.target.closest(".reply-btn");
         const commentId = btn.dataset.commentId;
         this.showReplyForm(commentId);
       }
@@ -442,17 +497,17 @@ class CommentSystem {
 
   updateCharacterCounter(textarea, counter) {
     const length = textarea.value.length;
-    const maxLength = parseInt(textarea.getAttribute('maxlength'));
-    
+    const maxLength = parseInt(textarea.getAttribute("maxlength"));
+
     counter.textContent = `${length} / ${maxLength}`;
-    
+
     // Update counter styling based on length
-    counter.classList.remove('warning', 'error');
+    counter.classList.remove("warning", "error");
     if (length > maxLength * 0.9) {
-      counter.classList.add('warning');
+      counter.classList.add("warning");
     }
     if (length >= maxLength) {
-      counter.classList.add('error');
+      counter.classList.add("error");
     }
   }
 
@@ -460,45 +515,47 @@ class CommentSystem {
     const value = field.value.trim();
     const fieldName = field.name;
     let isValid = true;
-    let errorMessage = '';
+    let errorMessage = "";
 
     // Clear previous errors
-    field.classList.remove('error');
-    const errorElement = field.closest('.form-group').querySelector('.form-error');
+    field.classList.remove("error");
+    const errorElement = field
+      .closest(".form-group")
+      .querySelector(".form-error");
     if (errorElement) {
-      errorElement.style.display = 'none';
+      errorElement.style.display = "none";
     }
 
     // Validate content field
-    if (fieldName === 'content') {
+    if (fieldName === "content") {
       if (!value) {
         isValid = false;
-        errorMessage = 'Comment content is required';
+        errorMessage = "Comment content is required";
       } else if (value.length < 1) {
         isValid = false;
-        errorMessage = 'Comment must be at least 1 character long';
+        errorMessage = "Comment must be at least 1 character long";
       } else if (value.length > 2000) {
         isValid = false;
-        errorMessage = 'Comment must be less than 2000 characters';
+        errorMessage = "Comment must be less than 2000 characters";
       } else if (!/\S/.test(value)) {
         isValid = false;
-        errorMessage = 'Comment cannot be only whitespace';
+        errorMessage = "Comment cannot be only whitespace";
       }
     }
 
     // Validate name field (optional but has constraints if provided)
-    if (fieldName === 'authorName' && value) {
+    if (fieldName === "authorName" && value) {
       if (value.length > 50) {
         isValid = false;
-        errorMessage = 'Name must be less than 50 characters';
+        errorMessage = "Name must be less than 50 characters";
       }
     }
 
     // Show error if validation failed
     if (!isValid && errorElement) {
-      field.classList.add('error');
+      field.classList.add("error");
       errorElement.textContent = errorMessage;
-      errorElement.style.display = 'block';
+      errorElement.style.display = "block";
     }
 
     return isValid;
@@ -508,17 +565,17 @@ class CommentSystem {
     const formData = new FormData(form);
     const submitBtn = form.querySelector('button[type="submit"]');
     const parentId = form.dataset.parentId || null;
-    
+
     // Clear any previous errors
     this.clearFormErrors(form);
-    
+
     // Validate all fields
     const nameField = form.querySelector('input[name="authorName"]');
     const contentField = form.querySelector('textarea[name="content"]');
-    
+
     const isNameValid = this.validateField(nameField);
     const isContentValid = this.validateField(contentField);
-    
+
     if (!isContentValid) {
       contentField.focus();
       return;
@@ -527,8 +584,8 @@ class CommentSystem {
     // Prepare comment data
     const commentData = {
       pageId: this.pageId,
-      authorName: formData.get('authorName')?.trim() || 'Anonymous',
-      content: formData.get('content').trim()
+      authorName: formData.get("authorName")?.trim() || "Anonymous",
+      content: formData.get("content").trim(),
     };
 
     if (parentId) {
@@ -545,27 +602,37 @@ class CommentSystem {
       } else {
         result = await this.api.createComment(commentData);
       }
-      
+
       // Show success message
-      this.showFormSuccess(form, parentId ? 'Reply posted successfully!' : 'Comment posted successfully!');
-      this.showNotification(parentId ? 'Reply posted successfully!' : 'Comment posted successfully!', 'success');
-      
+      this.showFormSuccess(
+        form,
+        parentId ? "Reply posted successfully!" : "Comment posted successfully!"
+      );
+      this.showNotification(
+        parentId
+          ? "Reply posted successfully!"
+          : "Comment posted successfully!",
+        "success"
+      );
+
       // Reset form
       form.reset();
-      this.updateCharacterCounter(contentField, form.querySelector('.character-counter'));
-      
+      this.updateCharacterCounter(
+        contentField,
+        form.querySelector(".character-counter")
+      );
+
       // Refresh comments to show the new comment
       setTimeout(() => {
         this.loadComments();
-        
+
         // Hide reply form if it was a reply
         if (parentId) {
           this.cancelReply(form);
         }
       }, 1000);
-
     } catch (error) {
-      console.error('Failed to post comment:', error);
+      console.error("Failed to post comment:", error);
       this.handleFormSubmissionError(form, error);
     } finally {
       this.setFormLoading(form, false);
@@ -578,65 +645,70 @@ class CommentSystem {
       this.showFormError(form, error.userMessage, {
         suggestions: error.suggestions,
         retryable: error.retryable,
-        code: error.code
+        code: error.code,
       });
-      
+
       // Handle specific error types
       switch (error.code) {
-        case 'VALIDATION_ERROR':
+        case "VALIDATION_ERROR":
           this.highlightValidationErrors(form, error.details);
           break;
-        case 'RATE_LIMIT_EXCEEDED':
+        case "RATE_LIMIT_EXCEEDED":
           this.showRateLimitMessage(form, error.details);
           break;
-        case 'SPAM_DETECTED':
+        case "SPAM_DETECTED":
           this.showSpamDetectionMessage(form, error.details);
           break;
-        case 'DUPLICATE_CONTENT':
+        case "DUPLICATE_CONTENT":
           this.showDuplicateContentMessage(form, error.details);
           break;
-        case 'OFFLINE':
+        case "OFFLINE":
           this.showOfflineMessage(form);
           break;
       }
     } else {
       // Handle generic errors
-      this.showFormError(form, 'An unexpected error occurred. Please try again.');
+      this.showFormError(
+        form,
+        "An unexpected error occurred. Please try again."
+      );
     }
   }
 
   clearFormErrors(form) {
     // Clear field-level errors
-    const errorElements = form.querySelectorAll('.form-error');
-    errorElements.forEach(el => {
-      el.style.display = 'none';
-      el.textContent = '';
+    const errorElements = form.querySelectorAll(".form-error");
+    errorElements.forEach((el) => {
+      el.style.display = "none";
+      el.textContent = "";
     });
-    
+
     // Clear field error styling
-    const errorFields = form.querySelectorAll('.error');
-    errorFields.forEach(field => field.classList.remove('error'));
-    
+    const errorFields = form.querySelectorAll(".error");
+    errorFields.forEach((field) => field.classList.remove("error"));
+
     // Clear general form errors
-    const generalError = form.querySelector('.form-error-general');
+    const generalError = form.querySelector(".form-error-general");
     if (generalError) {
-      generalError.style.display = 'none';
+      generalError.style.display = "none";
     }
   }
 
   highlightValidationErrors(form, validationDetails) {
     if (!validationDetails || !Array.isArray(validationDetails)) return;
-    
-    validationDetails.forEach(error => {
+
+    validationDetails.forEach((error) => {
       const fieldName = error.path?.[0];
       if (fieldName) {
         const field = form.querySelector(`[name="${fieldName}"]`);
         if (field) {
-          field.classList.add('error');
-          const errorElement = field.closest('.form-group').querySelector('.form-error');
+          field.classList.add("error");
+          const errorElement = field
+            .closest(".form-group")
+            .querySelector(".form-error");
           if (errorElement) {
             errorElement.textContent = error.message;
-            errorElement.style.display = 'block';
+            errorElement.style.display = "block";
           }
         }
       }
@@ -644,48 +716,75 @@ class CommentSystem {
   }
 
   showRateLimitMessage(form, details) {
-    const message = details?.resetTime 
-      ? `Please wait until ${new Date(details.resetTime).toLocaleTimeString()} before posting again.`
-      : 'You are posting too quickly. Please wait a moment before trying again.';
-    
+    const message = details?.resetTime
+      ? `Please wait until ${new Date(
+          details.resetTime
+        ).toLocaleTimeString()} before posting again.`
+      : "You are posting too quickly. Please wait a moment before trying again.";
+
     this.showFormError(form, message, {
-      type: 'warning',
-      suggestions: ['Wait a few minutes before posting again', 'Avoid posting multiple comments quickly']
+      type: "warning",
+      suggestions: [
+        "Wait a few minutes before posting again",
+        "Avoid posting multiple comments quickly",
+      ],
     });
   }
 
   showSpamDetectionMessage(form, details) {
-    const suggestions = details?.reasons || ['Remove excessive links', 'Write more natural content', 'Avoid repetitive text'];
-    
-    this.showFormError(form, 'Your comment was flagged as potential spam. Please revise and try again.', {
-      type: 'warning',
-      suggestions
-    });
+    const suggestions = details?.reasons || [
+      "Remove excessive links",
+      "Write more natural content",
+      "Avoid repetitive text",
+    ];
+
+    this.showFormError(
+      form,
+      "Your comment was flagged as potential spam. Please revise and try again.",
+      {
+        type: "warning",
+        suggestions,
+      }
+    );
   }
 
   showDuplicateContentMessage(form, details) {
-    this.showFormError(form, 'This comment appears to be a duplicate. Please post something different.', {
-      type: 'info',
-      suggestions: ['Modify your comment to make it unique', 'Add additional thoughts or context']
-    });
+    this.showFormError(
+      form,
+      "This comment appears to be a duplicate. Please post something different.",
+      {
+        type: "info",
+        suggestions: [
+          "Modify your comment to make it unique",
+          "Add additional thoughts or context",
+        ],
+      }
+    );
   }
 
   showOfflineMessage(form) {
-    this.showFormError(form, 'You are currently offline. Your comment will be posted when your connection is restored.', {
-      type: 'warning',
-      suggestions: ['Check your internet connection', 'Try again when back online']
-    });
+    this.showFormError(
+      form,
+      "You are currently offline. Your comment will be posted when your connection is restored.",
+      {
+        type: "warning",
+        suggestions: [
+          "Check your internet connection",
+          "Try again when back online",
+        ],
+      }
+    );
   }
 
   setFormLoading(form, loading) {
     const submitBtn = form.querySelector('button[type="submit"]');
-    const cancelBtn = form.querySelector('.cancel-reply-btn');
-    const inputs = form.querySelectorAll('input, textarea');
-    const btnText = submitBtn.querySelector('.btn-text');
+    const cancelBtn = form.querySelector(".cancel-reply-btn");
+    const inputs = form.querySelectorAll("input, textarea");
+    const btnText = submitBtn.querySelector(".btn-text");
 
     // Update button state
     submitBtn.disabled = loading;
-    submitBtn.classList.toggle('form-btn-loading', loading);
+    submitBtn.classList.toggle("form-btn-loading", loading);
 
     // Update button text with loading indicator
     if (loading) {
@@ -707,7 +806,7 @@ class CommentSystem {
       cancelBtn.disabled = loading;
     }
 
-    inputs.forEach(input => {
+    inputs.forEach((input) => {
       input.disabled = loading;
     });
 
@@ -716,11 +815,11 @@ class CommentSystem {
   }
 
   toggleFormLoadingOverlay(form, show) {
-    let overlay = form.querySelector('.form-loading-overlay');
-    
+    let overlay = form.querySelector(".form-loading-overlay");
+
     if (show && !overlay) {
-      overlay = document.createElement('div');
-      overlay.className = 'form-loading-overlay';
+      overlay = document.createElement("div");
+      overlay.className = "form-loading-overlay";
       overlay.innerHTML = `
         <div class="form-loading-content">
           <div class="loading-spinner"></div>
@@ -733,63 +832,68 @@ class CommentSystem {
     }
   }
 
-  showFormSuccess(form, message = 'Comment posted successfully!') {
-    const successElement = form.querySelector('.form-success');
+  showFormSuccess(form, message = "Comment posted successfully!") {
+    const successElement = form.querySelector(".form-success");
     if (successElement) {
       successElement.textContent = message;
-      successElement.style.display = 'flex';
-      
+      successElement.style.display = "flex";
+
       // Add success animation
-      successElement.classList.add('success-animation');
-      
+      successElement.classList.add("success-animation");
+
       setTimeout(() => {
-        successElement.style.display = 'none';
-        successElement.classList.remove('success-animation');
+        successElement.style.display = "none";
+        successElement.classList.remove("success-animation");
       }, 3000);
     }
   }
 
   showFormError(form, message, options = {}) {
     // Create or update error message
-    let errorElement = form.querySelector('.form-error-general');
+    let errorElement = form.querySelector(".form-error-general");
     if (!errorElement) {
-      errorElement = document.createElement('div');
-      errorElement.className = 'form-error form-error-general';
-      errorElement.style.marginBottom = '1rem';
-      form.querySelector('.form-actions').insertAdjacentElement('beforebegin', errorElement);
+      errorElement = document.createElement("div");
+      errorElement.className = "form-error form-error-general";
+      errorElement.style.marginBottom = "1rem";
+      form
+        .querySelector(".form-actions")
+        .insertAdjacentElement("beforebegin", errorElement);
     }
-    
+
     // Set error type styling
-    const errorType = options.type || 'error';
+    const errorType = options.type || "error";
     errorElement.className = `form-error form-error-general form-error-${errorType}`;
-    
+
     // Create error content
-    let errorHTML = `<div class="error-message">${this.escapeHtml(message)}</div>`;
-    
+    let errorHTML = `<div class="error-message">${this.escapeHtml(
+      message
+    )}</div>`;
+
     // Add suggestions if provided
     if (options.suggestions && options.suggestions.length > 0) {
       errorHTML += '<div class="error-suggestions">';
       errorHTML += '<div class="error-suggestions-title">Suggestions:</div>';
       errorHTML += '<ul class="error-suggestions-list">';
-      options.suggestions.forEach(suggestion => {
+      options.suggestions.forEach((suggestion) => {
         errorHTML += `<li>${this.escapeHtml(suggestion)}</li>`;
       });
-      errorHTML += '</ul></div>';
+      errorHTML += "</ul></div>";
     }
-    
+
     // Add retry button for retryable errors
     if (options.retryable) {
-      errorHTML += '<button type="button" class="error-retry-btn" onclick="this.closest(\'form\').dispatchEvent(new Event(\'submit\'))">Try Again</button>';
+      errorHTML +=
+        '<button type="button" class="error-retry-btn" onclick="this.closest(\'form\').dispatchEvent(new Event(\'submit\'))">Try Again</button>';
     }
-    
+
     errorElement.innerHTML = errorHTML;
-    errorElement.style.display = 'block';
-    
+    errorElement.style.display = "block";
+
     // Auto-hide after delay (longer for errors with suggestions)
     const hideDelay = options.suggestions ? 10000 : 5000;
     setTimeout(() => {
-      if (errorElement.style.display !== 'none') {
-        errorElement.style.display = 'none';
+      if (errorElement.style.display !== "none") {
+        errorElement.style.display = "none";
       }
     }, hideDelay);
   }
@@ -800,35 +904,42 @@ class CommentSystem {
     if (!comment) return;
 
     // Check if reply form already exists
-    const existingForm = this.container.querySelector(`#reply-form-${commentId}`);
+    const existingForm = this.container.querySelector(
+      `#reply-form-${commentId}`
+    );
     if (existingForm) {
-      existingForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      existingForm.querySelector('textarea').focus();
+      existingForm.scrollIntoView({ behavior: "smooth", block: "center" });
+      existingForm.querySelector("textarea").focus();
       return;
     }
 
     // Find the comment element and add reply form
-    const commentElement = this.container.querySelector(`[data-comment-id="${commentId}"]`);
+    const commentElement = this.container.querySelector(
+      `[data-comment-id="${commentId}"]`
+    );
     if (!commentElement) return;
 
     const replyFormHTML = this.getCommentFormHTML(comment);
-    const replyContainer = document.createElement('div');
+    const replyContainer = document.createElement("div");
     replyContainer.innerHTML = replyFormHTML;
-    
+
     // Insert after the comment actions
-    const actionsElement = commentElement.querySelector('.comment-actions');
-    actionsElement.insertAdjacentElement('afterend', replyContainer.firstElementChild);
+    const actionsElement = commentElement.querySelector(".comment-actions");
+    actionsElement.insertAdjacentElement(
+      "afterend",
+      replyContainer.firstElementChild
+    );
 
     // Attach event listeners to the new form
     const newForm = commentElement.querySelector(`#reply-form-${commentId}`);
     this.attachFormListeners(newForm);
 
     // Focus on the textarea
-    const textarea = newForm.querySelector('textarea');
+    const textarea = newForm.querySelector("textarea");
     textarea.focus();
 
     // Scroll into view
-    newForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    newForm.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 
   cancelReply(form) {
@@ -846,7 +957,7 @@ class CommentSystem {
       }
       return null;
     };
-    
+
     return findInComments(this.comments);
   }
 
@@ -859,7 +970,7 @@ class CommentSystem {
       const cached = localStorage.getItem(cacheKey);
       if (cached) {
         const { cache, lastCommentCount, timestamp } = JSON.parse(cached);
-        
+
         // Check if cache is not too old (24 hours)
         const maxAge = 24 * 60 * 60 * 1000; // 24 hours
         if (Date.now() - timestamp < maxAge) {
@@ -869,7 +980,7 @@ class CommentSystem {
         }
       }
     } catch (error) {
-      console.error('Failed to load persistent cache:', error);
+      console.error("Failed to load persistent cache:", error);
     }
   }
 
@@ -882,28 +993,32 @@ class CommentSystem {
       const cacheData = {
         cache: Object.fromEntries(this.orderingCache),
         lastCommentCount: this.lastCommentCount,
-        timestamp: Date.now()
+        timestamp: Date.now(),
       };
       localStorage.setItem(cacheKey, JSON.stringify(cacheData));
     } catch (error) {
-      console.error('Failed to save persistent cache:', error);
+      console.error("Failed to save persistent cache:", error);
     }
   }
 
   toggleChronologicalOrder() {
     // Toggle between newest and oldest
-    this.chronologicalOrder = this.chronologicalOrder === 'newest' ? 'oldest' : 'newest';
-    
+    this.chronologicalOrder =
+      this.chronologicalOrder === "newest" ? "oldest" : "newest";
+
     // Update button text
-    const chronologicalButton = this.container.querySelector('[data-mode="chronological"]');
+    const chronologicalButton = this.container.querySelector(
+      '[data-mode="chronological"]'
+    );
     if (chronologicalButton) {
-      chronologicalButton.textContent = this.chronologicalOrder === 'newest' ? 'Recent' : 'Oldest';
+      chronologicalButton.textContent =
+        this.chronologicalOrder === "newest" ? "Recent" : "Oldest";
     }
-    
+
     // Add transition effect
-    const commentsList = this.container.querySelector('#comments-list');
-    commentsList.classList.add('transitioning');
-    
+    const commentsList = this.container.querySelector("#comments-list");
+    commentsList.classList.add("transitioning");
+
     // Re-render comments with new order after transition
     setTimeout(() => {
       this.renderComments();
@@ -911,43 +1026,64 @@ class CommentSystem {
   }
 
   async setOrderingMode(mode) {
-    
+    console.log(
+      "🔄 setOrderingMode called with mode:",
+      mode,
+      "current mode:",
+      this.orderingMode,
+      "isLoading:",
+      this.isLoading
+    );
+
     if (this.orderingMode === mode || this.isLoading) {
+      console.log("🔄 setOrderingMode: Early return - same mode or loading");
       return;
     }
-    
+
+    // Set loading state immediately to prevent race conditions
+    this.setLoading(true);
+
     const previousMode = this.orderingMode;
     this.orderingMode = mode;
-    
+    console.log(
+      "🔄 setOrderingMode: Mode changed from",
+      previousMode,
+      "to",
+      mode
+    );
+
     // Update button states
-    const buttons = this.container.querySelectorAll('.ordering-button');
-    buttons.forEach(btn => {
-      btn.classList.toggle('active', btn.dataset.mode === mode);
+    const buttons = this.container.querySelectorAll(".ordering-button");
+    buttons.forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.mode === mode);
     });
-    
+
     // Reset chronological button text when switching to similarity mode
-    if (mode === 'similarity') {
-      this.chronologicalOrder = 'newest'; // Reset to default
-      const chronologicalButton = this.container.querySelector('[data-mode="chronological"]');
+    if (mode === "similarity") {
+      this.chronologicalOrder = "newest"; // Reset to default
+      const chronologicalButton = this.container.querySelector(
+        '[data-mode="chronological"]'
+      );
       if (chronologicalButton) {
-        chronologicalButton.textContent = 'Recent';
+        chronologicalButton.textContent = "Recent";
       }
     }
-    
+
     // Add transition effect
-    const commentsList = this.container.querySelector('#comments-list');
+    const commentsList = this.container.querySelector("#comments-list");
     if (commentsList) {
-      commentsList.classList.add('transitioning');
+      commentsList.classList.add("transitioning");
       // Ensure comments are visible during transition
-      commentsList.style.opacity = '0.5';
+      commentsList.style.opacity = "0.5";
     }
-    
+
     // Check if we have cached results for this mode
     // Note: Don't include lastCommentCount in cache key to avoid race conditions
-    const cacheKey = mode === 'chronological' 
-      ? `${mode}_${this.chronologicalOrder}_${this.pageId}`
-      : `${mode}_${this.pageId}`;
-    
+    const cacheKey =
+      mode === "chronological"
+        ? `${mode}_${this.chronologicalOrder}_${this.pageId}`
+        : `${mode}_${this.pageId}`;
+
     if (this.orderingCache.has(cacheKey)) {
       // Use cached results instantly
       this.comments = this.orderingCache.get(cacheKey);
@@ -958,75 +1094,115 @@ class CommentSystem {
       }, 150);
       return;
     }
-    
+
     // For similarity mode, use background analysis approach
-    if (mode === 'similarity') {
-      
+    if (mode === "similarity") {
+      console.log("🔄 Loading similarity comments from API");
+      console.log("🔄 Current comments before API call:", this.comments.length);
+
       // Preserve current comments in case API fails
       const preservedComments = [...this.comments];
-      
+
       this.setLoading(true);
-      
+
       try {
-        const data = await this.api.getComments(this.pageId, 'similarity');
-        
-        if (data && data.success && data.comments && Array.isArray(data.comments)) {
+        const data = await this.api.getComments(this.pageId, "similarity");
+        console.log("🔄 Similarity API response:", data);
+
+        if (
+          data &&
+          data.success &&
+          data.comments &&
+          Array.isArray(data.comments)
+        ) {
+          console.log(
+            "🔄 Setting comments from similarity API:",
+            data.comments.length
+          );
           this.comments = data.comments;
           this.lastCommentCount = this.countAllComments(this.comments);
-          
+          console.log(
+            "🔄 Comments after similarity API:",
+            this.comments.length
+          );
+
           // Cache the results
           this.orderingCache.set(cacheKey, [...this.comments]);
           this.savePersistentCache();
-          
+
           // Check if this is background analysis mode
-          if (data.orderingType === 'recent' && data.analysisStatus === 'processing') {
+          if (
+            data.orderingType === "recent" &&
+            data.analysisStatus === "processing"
+          ) {
+            console.log(
+              "🔄 Background analysis in progress, showing recent comments"
+            );
             this.showAIProcessingBanner();
-            this.updateAIStatusIndicator('processing');
-            
+            this.updateAIStatusIndicator("processing");
+
             // Start polling for analysis completion
             this.startAnalysisPolling();
-            
+
             if (this.showNotification) {
-              this.showNotification('Showing recent comments while AI analyzes for relevance...', 'info');
+              this.showNotification(
+                "Showing recent comments while AI analyzes for relevance...",
+                "info"
+              );
             }
-          } else if (data.orderingType === 'similarity') {
+          } else if (data.orderingType === "similarity") {
+            console.log(
+              "🔄 Analysis complete, showing relevance-sorted comments"
+            );
             this.hideAIProcessingBanner();
-            this.updateAIStatusIndicator('complete');
-            
+            this.updateAIStatusIndicator("complete");
+
             if (this.showNotification) {
-              this.showNotification('Comments sorted by relevance using AI analysis', 'success');
+              this.showNotification(
+                "Comments sorted by relevance using AI analysis",
+                "success"
+              );
             }
           }
         } else {
+          console.log(
+            "🔄 Invalid or empty similarity API response, keeping existing comments"
+          );
           // Keep existing comments instead of clearing them
           this.comments = preservedComments;
-          
+
           // Show warning but don't change mode
           if (this.showNotification) {
-            this.showNotification('Relevance analysis unavailable. Showing comments in current order.', 'info');
+            this.showNotification(
+              "Relevance analysis unavailable. Showing comments in current order.",
+              "info"
+            );
           }
         }
-        
+
         this.renderComments();
       } catch (error) {
-        console.error('🔄 Similarity API failed:', error);
-        
+        console.error("🔄 Similarity API failed:", error);
+
         // Restore preserved comments
         this.comments = preservedComments;
-        
+
         // Revert to previous mode on error
         this.orderingMode = previousMode;
-        
+
         // Revert button states
-        buttons.forEach(btn => {
-          btn.classList.toggle('active', btn.dataset.mode === previousMode);
+        buttons.forEach((btn) => {
+          btn.classList.toggle("active", btn.dataset.mode === previousMode);
         });
-        
+
         // Show error notification but keep comments visible
         if (this.showNotification) {
-          this.showNotification('Failed to load relevant comments. Showing recent comments instead.', 'warning');
+          this.showNotification(
+            "Failed to load relevant comments. Showing recent comments instead.",
+            "warning"
+          );
         }
-        
+
         this.renderComments();
       } finally {
         this.setLoading(false);
@@ -1038,10 +1214,16 @@ class CommentSystem {
         this.renderComments();
         // Fallback: ensure transition completes even if there are timing issues
         setTimeout(() => {
-          const commentsList = this.container.querySelector('#comments-list');
-          if (commentsList && commentsList.classList.contains('transitioning')) {
-            commentsList.classList.remove('transitioning', 'loaded', 'loading');
-            commentsList.style.opacity = '';
+          const commentsList = this.container.querySelector("#comments-list");
+          if (
+            commentsList &&
+            commentsList.classList.contains("transitioning")
+          ) {
+            console.log(
+              "🔄 Fallback: Forcing transition completion for chronological mode"
+            );
+            commentsList.classList.remove("transitioning", "loaded", "loading");
+            commentsList.style.opacity = "";
           }
         }, 1000);
       }, 150);
@@ -1050,54 +1232,55 @@ class CommentSystem {
 
   async loadComments() {
     this.setLoading(true);
-    
+
     try {
       // Check if we're offline
       if (!this.isOnline) {
-        throw new CommentError('OFFLINE', 'You are currently offline', 0, {
+        throw new CommentError("OFFLINE", "You are currently offline", 0, {
           retryable: true,
-          userMessage: 'Comments will load when your connection is restored.'
+          userMessage: "Comments will load when your connection is restored.",
         });
       }
-      
+
       // Always load chronologically first
-      const data = await this.api.getComments(this.pageId, 'chronological');
+      const data = await this.api.getComments(this.pageId, "chronological");
       const newComments = data.comments || [];
-      
+
       // Check if we need to invalidate cache (new comments added)
       const currentCommentCount = this.countAllComments(newComments);
-      const hasNewComments = this.lastCommentCount > 0 && currentCommentCount !== this.lastCommentCount;
-      
+      const hasNewComments =
+        this.lastCommentCount > 0 &&
+        currentCommentCount !== this.lastCommentCount;
+
       if (hasNewComments) {
         // Clear cache when new comments are added (but not on initial load)
         this.orderingCache.clear();
       }
-      
+
       // Always update the comment count
       this.lastCommentCount = currentCommentCount;
-      
+
       this.comments = newComments;
-      
+
       // Store chronological versions in cache (both newest and oldest)
       const chronologicalNewestKey = `chronological_newest_${this.pageId}`;
       const chronologicalOldestKey = `chronological_oldest_${this.pageId}`;
       this.orderingCache.set(chronologicalNewestKey, [...this.comments]);
       this.orderingCache.set(chronologicalOldestKey, [...this.comments]);
-      
+
       // Save to localStorage for persistence
       this.savePersistentCache();
-      
+
       this.renderComments();
       this.updateCommentsCount();
-      
+
       // Update last successful load time
       this.lastUpdateTime = new Date();
-      
+
       // Clear any previous error states
       this.clearLoadingErrors();
-      
     } catch (error) {
-      console.error('Failed to load comments:', error);
+      console.error("Failed to load comments:", error);
       this.handleLoadingError(error);
     } finally {
       this.setLoading(false);
@@ -1105,50 +1288,52 @@ class CommentSystem {
   }
 
   handleLoadingError(error) {
-    let errorMessage = 'Failed to load comments. Please try again.';
+    let errorMessage = "Failed to load comments. Please try again.";
     let showRetry = true;
-    
+
     if (error instanceof CommentError) {
       errorMessage = error.userMessage;
       showRetry = error.retryable;
-      
+
       // Handle specific error types
       switch (error.code) {
-        case 'OFFLINE':
+        case "OFFLINE":
           this.renderOfflineState();
           return;
-        case 'TIMEOUT':
-          errorMessage = 'Loading comments is taking longer than expected. Please try again.';
+        case "TIMEOUT":
+          errorMessage =
+            "Loading comments is taking longer than expected. Please try again.";
           break;
-        case 'NETWORK_ERROR':
-          errorMessage = 'Network connection failed. Please check your internet connection.';
+        case "NETWORK_ERROR":
+          errorMessage =
+            "Network connection failed. Please check your internet connection.";
           break;
       }
     }
-    
+
     this.renderError(errorMessage, { showRetry, error });
-    
+
     // Update AI status to error if similarity mode failed
-    if (this.orderingMode === 'similarity') {
-      this.updateAIStatusIndicator('error');
+    if (this.orderingMode === "similarity") {
+      this.updateAIStatusIndicator("error");
       this.hideAIProcessingBanner();
     }
   }
 
   clearLoadingErrors() {
-    const errorElement = this.container.querySelector('.comments-error');
+    const errorElement = this.container.querySelector(".comments-error");
     if (errorElement) {
       errorElement.remove();
     }
-    
-    const offlineElement = this.container.querySelector('.comments-offline');
+
+    const offlineElement = this.container.querySelector(".comments-offline");
     if (offlineElement) {
       offlineElement.remove();
     }
   }
 
   renderOfflineState() {
-    const commentsList = this.container.querySelector('#comments-list');
+    const commentsList = this.container.querySelector("#comments-list");
     commentsList.innerHTML = `
       <div class="comments-offline">
         <div class="comments-offline-icon">📡</div>
@@ -1159,44 +1344,60 @@ class CommentSystem {
   }
 
   renderComments() {
-    
-    const commentsList = this.container.querySelector('#comments-list');
-    
+    console.log(
+      "🔄 renderComments called, mode:",
+      this.orderingMode,
+      "comments:",
+      this.comments.length
+    );
+
+    const commentsList = this.container.querySelector("#comments-list");
+
     if (!this.comments || this.comments.length === 0) {
+      console.log("🔄 No comments, showing empty state");
       commentsList.innerHTML = this.getEmptyStateHTML();
       this.completeTransition();
       return;
     }
-    
+
     // Safety check: ensure comments are visible
     if (commentsList) {
-      commentsList.style.opacity = '1';
-      commentsList.style.transform = 'translateY(0)';
+      commentsList.style.opacity = "1";
+      commentsList.style.transform = "translateY(0)";
     }
-    
-    let html = '';
-    
+
+    let html = "";
+
     try {
-      if (this.orderingMode === 'similarity') {
+      if (this.orderingMode === "similarity") {
+        console.log("🔄 Rendering in similarity mode");
         // Sort by relevance score, keeping reply structure intact
         const sortedComments = [...this.comments].sort((a, b) => {
           const scoreA = a.relevanceScore || 0.5;
           const scoreB = b.relevanceScore || 0.5;
           return scoreB - scoreA; // Higher relevance first
         });
-        html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
+        html = sortedComments
+          .map((comment) => this.renderCommentThread(comment))
+          .join("");
       } else {
+        console.log("🔄 Rendering in chronological mode");
         // Sort chronologically, keeping reply structure intact
-        const sortedComments = this.sortCommentsChronologically([...this.comments]);
-        html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
+        const sortedComments = this.sortCommentsChronologically([
+          ...this.comments,
+        ]);
+        html = sortedComments
+          .map((comment) => this.renderCommentThread(comment))
+          .join("");
       }
-      
+
+      console.log("🔄 Final HTML length:", html.length);
       commentsList.innerHTML = html;
     } catch (error) {
-      console.error('🔄 Error rendering comments:', error);
+      console.error("🔄 Error rendering comments:", error);
       commentsList.innerHTML = `<div class="comments-error">Error rendering comments: ${error.message}</div>`;
     }
-    
+
     this.completeTransition();
   }
 
@@ -1205,8 +1406,8 @@ class CommentSystem {
     return comments.sort((a, b) => {
       const dateA = new Date(a.createdAt);
       const dateB = new Date(b.createdAt);
-      
-      if (this.chronologicalOrder === 'newest') {
+
+      if (this.chronologicalOrder === "newest") {
         return dateB - dateA; // Newest first (Recent)
       } else {
         return dateA - dateB; // Oldest first (Oldest)
@@ -1215,52 +1416,66 @@ class CommentSystem {
   }
 
   renderSimilarityGroupedComments() {
-    
+    console.log("🎯 renderSimilarityGroupedComments called");
+    console.log("🎯 Raw comments count:", this.comments.length);
+
     // Comments from backend are already properly threaded, just use them directly
     const threads = this.comments; // Already organized by backend
-    
+    console.log("🎯 Using pre-threaded comments count:", threads.length);
+
     // Order threads by relevance while preserving reply threading
     const sortedThreads = [...threads].sort((a, b) => {
       if (a.relevanceScore && b.relevanceScore) {
         return b.relevanceScore - a.relevanceScore; // Higher relevance first
       }
       // Fallback: simple heuristic based on content length and recency
-      const scoreA = (a.content?.length || 0) * 0.1 + (new Date(a.createdAt).getTime() / 1000000);
-      const scoreB = (b.content?.length || 0) * 0.1 + (new Date(b.createdAt).getTime() / 1000000);
+      const scoreA =
+        (a.content?.length || 0) * 0.1 +
+        new Date(a.createdAt).getTime() / 1000000;
+      const scoreB =
+        (b.content?.length || 0) * 0.1 +
+        new Date(b.createdAt).getTime() / 1000000;
       return scoreB - scoreA;
     });
-    
-    const html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
-    
+
+    console.log("🎯 Sorted threads count:", sortedThreads.length);
+    const html = sortedThreads
+      .map((thread) => this.renderCommentThread(thread))
+      .join("");
+    console.log("🎯 Generated HTML length:", html.length);
+
     return html;
   }
 
   groupCommentsByTopic(threads) {
     // Simple topic grouping based on similarity scores
     // In a real implementation, this would use more sophisticated AI analysis
-    
+
     const groups = [];
     const processedComments = new Set();
-    
-    threads.forEach(thread => {
+
+    threads.forEach((thread) => {
       if (processedComments.has(thread.id)) return;
-      
+
       const similarComments = [thread];
       processedComments.add(thread.id);
-      
+
       // Find similar comments (simplified logic)
-      threads.forEach(otherThread => {
+      threads.forEach((otherThread) => {
         if (processedComments.has(otherThread.id)) return;
-        
-        if (this.calculateContentSimilarity(thread.content, otherThread.content) > 0.3) {
+
+        if (
+          this.calculateContentSimilarity(thread.content, otherThread.content) >
+          0.3
+        ) {
           similarComments.push(otherThread);
           processedComments.add(otherThread.id);
         }
       });
-      
+
       // Generate topic title based on content
       const topicTitle = this.generateTopicTitle(similarComments);
-      
+
       groups.push({
         title: topicTitle,
         comments: similarComments.sort((a, b) => {
@@ -1269,10 +1484,10 @@ class CommentSystem {
             return b.similarityScore - a.similarityScore;
           }
           return new Date(b.createdAt) - new Date(a.createdAt);
-        })
+        }),
       });
     });
-    
+
     return groups;
   }
 
@@ -1280,11 +1495,11 @@ class CommentSystem {
     // Simple word-based similarity calculation
     const words1 = content1.toLowerCase().split(/\s+/);
     const words2 = content2.toLowerCase().split(/\s+/);
-    
-    const commonWords = words1.filter(word => 
-      words2.includes(word) && word.length > 3
+
+    const commonWords = words1.filter(
+      (word) => words2.includes(word) && word.length > 3
     );
-    
+
     return commonWords.length / Math.max(words1.length, words2.length);
   }
 
@@ -1293,54 +1508,61 @@ class CommentSystem {
    */
   async tryGetAIRelevanceScores(cacheKey) {
     try {
-      
+      console.log("🤖 Trying to get AI relevance scores");
+
       // Only try if we have comments
       if (!this.comments || this.comments.length === 0) {
+        console.log("🤖 No comments to analyze");
         return;
       }
-      
+
       // Get page content for context
       const pageContext = this.extractPageContext();
-      
+
       // Prepare comments for analysis (only root comments)
       const commentsForAnalysis = this.comments
-        .filter(c => !c.parentId)
-        .map(c => ({
+        .filter((c) => !c.parentId)
+        .map((c) => ({
           id: c.id,
           content: c.content,
           authorName: c.authorName,
-          createdAt: c.createdAt
+          createdAt: c.createdAt,
         }));
-      
+
       if (commentsForAnalysis.length <= 1) {
+        console.log("🤖 Not enough root comments to analyze");
         return;
       }
-      
-      
+
+      console.log("🤖 Analyzing", commentsForAnalysis.length, "root comments");
+
       // Call LLM relevance API
-      const relevanceScores = await this.calculateLLMRelevance(commentsForAnalysis, pageContext);
-      
+      const relevanceScores = await this.calculateLLMRelevance(
+        commentsForAnalysis,
+        pageContext
+      );
+
       // Apply scores to existing comments (don't replace comments)
-      this.comments.forEach(comment => {
-        const score = relevanceScores.find(s => s.commentId === comment.id);
+      this.comments.forEach((comment) => {
+        const score = relevanceScores.find((s) => s.commentId === comment.id);
         if (score) {
           comment.relevanceScore = score.relevance;
           comment.topicRelevance = score.topicRelevance;
         }
       });
-      
-      
+
+      console.log("🤖 Applied relevance scores, re-rendering");
+
       // Cache the results
       this.orderingCache.set(cacheKey, [...this.comments]);
       this.savePersistentCache();
-      
+
       // Re-render with AI scores
       setTimeout(() => {
         this.renderComments();
       }, 100);
-      
     } catch (error) {
-      console.warn('🤖 AI relevance scoring failed:', error);
+      console.warn("🤖 AI relevance scoring failed:", error);
       // Don't throw - comments are already visible
     }
   }
@@ -1352,38 +1574,40 @@ class CommentSystem {
     try {
       // Get page content for context (if available)
       const pageContext = this.extractPageContext();
-      
+
       // Prepare comments for LLM analysis
       const commentsForAnalysis = this.comments
-        .filter(c => !c.parentId) // Only analyze root comments
-        .map(c => ({
+        .filter((c) => !c.parentId) // Only analyze root comments
+        .map((c) => ({
           id: c.id,
           content: c.content,
           authorName: c.authorName,
-          createdAt: c.createdAt
+          createdAt: c.createdAt,
         }));
-      
+
       if (commentsForAnalysis.length <= 1) {
         // Not enough comments to reorder
         return;
       }
-      
+
       // Call LLM-based relevance API
-      const relevanceScores = await this.calculateLLMRelevance(commentsForAnalysis, pageContext);
-      
+      const relevanceScores = await this.calculateLLMRelevance(
+        commentsForAnalysis,
+        pageContext
+      );
+
       // Apply relevance scores to comments
-      this.comments.forEach(comment => {
-        const score = relevanceScores.find(s => s.commentId === comment.id);
+      this.comments.forEach((comment) => {
+        const score = relevanceScores.find((s) => s.commentId === comment.id);
         if (score) {
           comment.relevanceScore = score.relevance;
           comment.topicRelevance = score.topicRelevance;
         }
       });
-      
+
       // Comments are now ordered by relevance (caching handled by caller)
-      
     } catch (error) {
-      console.error('Failed to order comments by relevance:', error);
+      console.error("Failed to order comments by relevance:", error);
       // Fallback to chronological order - no need to throw
     }
   }
@@ -1394,48 +1618,58 @@ class CommentSystem {
   async calculateLLMRelevance(comments, pageContext) {
     try {
       // First, check server-side cache
-      const cacheResponse = await this.api.request(`/comments/cache/${encodeURIComponent(this.pageId)}`);
-      
+      const cacheResponse = await this.api.request(
+        `/comments/cache/${encodeURIComponent(this.pageId)}`
+      );
+
       if (cacheResponse.cached) {
+        console.log("Using server-side cached relevance analysis");
         return cacheResponse.relevanceScores;
       }
-      
+
       // No cache found, perform analysis
-      const response = await this.api.request('/comments/analyze-relevance', {
-        method: 'POST',
+      console.log("No cache found, performing LLM analysis");
+      const response = await this.api.request("/comments/analyze-relevance", {
+        method: "POST",
         body: JSON.stringify({
           pageId: this.pageId,
           pageContext: pageContext,
-          comments: comments
-        })
+          comments: comments,
+        }),
       });
-      
+
       const relevanceScores = response.relevanceScores || [];
-      
+
       // Cache the results on server for future visitors
       if (relevanceScores.length > 0) {
         try {
-          await this.api.request(`/comments/cache/${encodeURIComponent(this.pageId)}`, {
-            method: 'POST',
-            body: JSON.stringify({
-              relevanceScores: relevanceScores,
-              commentCount: this.lastCommentCount
-            })
-          });
+          await this.api.request(
+            `/comments/cache/${encodeURIComponent(this.pageId)}`,
+            {
+              method: "POST",
+              body: JSON.stringify({
+                relevanceScores: relevanceScores,
+                commentCount: this.lastCommentCount,
+              }),
+            }
+          );
+          console.log(
+            "Cached relevance analysis on server for future visitors"
+          );
         } catch (cacheError) {
-          console.error('Failed to cache analysis on server:', cacheError);
+          console.error("Failed to cache analysis on server:", cacheError);
         }
       }
-      
+
       return relevanceScores;
     } catch (error) {
-      console.error('LLM relevance analysis failed:', error);
+      console.error("LLM relevance analysis failed:", error);
       // Return default scores (chronological order)
       return comments.map((comment, index) => ({
         commentId: comment.id,
-        relevance: 1.0 - (index * 0.1), // Slight preference for newer comments
+        relevance: 1.0 - index * 0.1, // Slight preference for newer comments
         topicRelevance: 0.5,
-        reasoning: 'Fallback scoring due to analysis failure'
+        reasoning: "Fallback scoring due to analysis failure",
       }));
     }
   }
@@ -1445,33 +1679,34 @@ class CommentSystem {
    */
   extractPageContext() {
     // Try to extract meaningful content from the page
-    const title = document.title || '';
-    const metaDescription = document.querySelector('meta[name="description"]')?.content || '';
-    
+    const title = document.title || "";
+    const metaDescription =
+      document.querySelector('meta[name="description"]')?.content || "";
+
     // Try to get main content
-    let mainContent = '';
+    let mainContent = "";
     const contentSelectors = [
-      'article',
-      '.post-content',
-      '.entry-content', 
-      '.content',
-      'main',
-      '.main-content'
+      "article",
+      ".post-content",
+      ".entry-content",
+      ".content",
+      "main",
+      ".main-content",
     ];
-    
+
     for (const selector of contentSelectors) {
       const element = document.querySelector(selector);
       if (element) {
-        mainContent = element.textContent?.substring(0, 1000) || '';
+        mainContent = element.textContent?.substring(0, 1000) || "";
         break;
       }
     }
-    
+
     return {
       title: title,
       description: metaDescription,
       content: mainContent,
-      url: window.location.pathname
+      url: window.location.pathname,
     };
   }
 
@@ -1481,7 +1716,7 @@ class CommentSystem {
   countAllComments(comments) {
     let count = 0;
     const countRecursive = (commentList) => {
-      commentList.forEach(comment => {
+      commentList.forEach((comment) => {
         count++;
         if (comment.replies && comment.replies.length > 0) {
           countRecursive(comment.replies);
@@ -1493,70 +1728,79 @@ class CommentSystem {
   }
 
   completeTransition() {
-    const commentsList = this.container.querySelector('#comments-list');
-    
+    const commentsList = this.container.querySelector("#comments-list");
+
     if (!commentsList) {
+      console.log("🔄 completeTransition: No comments list found");
       return;
     }
-    
-    
+
+    console.log("🔄 completeTransition: Starting transition completion");
+
     // Remove skeleton loading
-    const skeleton = commentsList.querySelector('.comments-skeleton');
+    const skeleton = commentsList.querySelector(".comments-skeleton");
     if (skeleton) {
       skeleton.remove();
     }
-    
+
     // Handle transition animations
-    if (commentsList.classList.contains('transitioning')) {
-      
+    if (commentsList.classList.contains("transitioning")) {
+      console.log("🔄 completeTransition: Handling transition animation");
+
       // Simple transition: fade in
       setTimeout(() => {
-        commentsList.classList.add('loaded');
-        commentsList.style.opacity = '1';
-        commentsList.style.transform = 'translateY(0)';
-        
+        commentsList.classList.add("loaded");
+        commentsList.style.opacity = "1";
+        commentsList.style.transform = "translateY(0)";
+
         // Animate individual comments
         this.animateCommentsIn();
-        
+
         setTimeout(() => {
-          commentsList.classList.remove('transitioning', 'loaded', 'loading');
-          commentsList.style.opacity = '';
-          commentsList.style.transform = '';
+          console.log("🔄 completeTransition: Removing transition classes");
+          commentsList.classList.remove("transitioning", "loaded", "loading");
+          commentsList.style.opacity = "";
+          commentsList.style.transform = "";
         }, 300);
       }, 100);
     } else {
+      console.log(
+        "🔄 completeTransition: No transition, just animating comments in"
+      );
       // No transition, just animate comments in
       this.animateCommentsIn();
     }
   }
 
   animateCommentsIn() {
-    const comments = this.container.querySelectorAll('.comment-thread');
+    const comments = this.container.querySelectorAll(".comment-thread");
     comments.forEach((comment, index) => {
-      comment.style.opacity = '0';
-      comment.style.transform = 'translateY(20px)';
-      
+      comment.style.opacity = "0";
+      comment.style.transform = "translateY(20px)";
+
       setTimeout(() => {
-        comment.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-        comment.style.opacity = '1';
-        comment.style.transform = 'translateY(0)';
-        
+        comment.style.transition = "opacity 0.3s ease, transform 0.3s ease";
+        comment.style.opacity = "1";
+        comment.style.transform = "translateY(0)";
+
         // Clear inline styles after animation
         setTimeout(() => {
-          comment.style.opacity = '';
-          comment.style.transform = '';
-          comment.style.transition = '';
+          comment.style.opacity = "";
+          comment.style.transform = "";
+          comment.style.transition = "";
         }, 300);
       }, index * 50); // Stagger animations
     });
   }
 
   showAIProcessingBanner() {
-    const existingBanner = this.container.querySelector('.ai-processing-banner');
+    const existingBanner = this.container.querySelector(
+      ".ai-processing-banner"
+    );
     if (existingBanner) return;
-    
-    const banner = document.createElement('div');
-    banner.className = 'ai-processing-banner';
+
+    const banner = document.createElement("div");
+    banner.className = "ai-processing-banner";
     banner.innerHTML = `
       <div class="ai-processing-icon">🤖</div>
       <div class="ai-processing-content">
@@ -1564,96 +1808,114 @@ class CommentSystem {
         <div class="ai-processing-description">Analyzing comment content to group similar topics together...</div>
       </div>
     `;
-    
-    const commentsContainer = this.container.querySelector('.comments-container');
+
+    const commentsContainer = this.container.querySelector(
+      ".comments-container"
+    );
     commentsContainer.insertBefore(banner, commentsContainer.firstChild);
-    
+
     // Add AI status indicator
-    this.updateAIStatusIndicator('processing');
+    this.updateAIStatusIndicator("processing");
   }
 
   hideAIProcessingBanner() {
-    const banner = this.container.querySelector('.ai-processing-banner');
+    const banner = this.container.querySelector(".ai-processing-banner");
     if (banner) {
-      banner.style.animation = 'none';
-      banner.style.opacity = '0';
+      banner.style.animation = "none";
+      banner.style.opacity = "0";
       setTimeout(() => banner.remove(), 300);
     }
-    
-    this.updateAIStatusIndicator('ready');
+
+    this.updateAIStatusIndicator("ready");
   }
 
   updateAIStatusIndicator(status) {
-    const controls = this.container.querySelector('.ordering-controls');
-    let indicator = controls.querySelector('.ai-status-indicator');
-    
+    const controls = this.container.querySelector(".ordering-controls");
+    let indicator = controls.querySelector(".ai-status-indicator");
+
     if (!indicator) {
-      indicator = document.createElement('div');
-      indicator.className = 'ai-status-indicator';
+      indicator = document.createElement("div");
+      indicator.className = "ai-status-indicator";
       controls.appendChild(indicator);
     }
-    
+
     indicator.className = `ai-status-indicator ${status}`;
-    
+
     // Set tooltip based on status
     const tooltips = {
-      ready: 'AI analysis ready',
-      processing: 'Processing with AI...',
-      error: 'AI analysis unavailable'
+      ready: "AI analysis ready",
+      processing: "Processing with AI...",
+      error: "AI analysis unavailable",
     };
-    
-    indicator.title = tooltips[status] || '';
+
+    indicator.title = tooltips[status] || "";
   }
 
   buildCommentThreads(comments) {
     // Comments from the backend are already properly threaded with replies nested
     // We just need to return them as-is since getCommentsWithReplies already organized them
-    return comments.map(comment => ({
+    return comments.map((comment) => ({
       ...comment,
-      replies: comment.replies || []
+      replies: comment.replies || [],
     }));
   }
 
   renderCommentThread(comment, depth = 0) {
-    if (!comment) return '';
-    
-    const threadClass = depth > 0 ? `thread-depth-${Math.min(depth, 4)}` : '';
-    const isAnonymous = !comment.authorName || comment.authorName === 'Anonymous';
-    
+    if (!comment) return "";
+
+    const threadClass = depth > 0 ? `thread-depth-${Math.min(depth, 4)}` : "";
+    const isAnonymous =
+      !comment.authorName || comment.authorName === "Anonymous";
+
     let html = `
       <div class="comment-thread">
         <div class="comment ${threadClass}" data-comment-id="${comment.id}">
           <div class="comment-header">
-            <div class="comment-author ${isAnonymous ? 'anonymous' : ''}">
-              ${this.escapeHtml(comment.authorName || 'Anonymous')}
+            <div class="comment-author ${isAnonymous ? "anonymous" : ""}">
+              ${this.escapeHtml(comment.authorName || "Anonymous")}
             </div>
             <div class="comment-meta">
-              <span class="comment-date">${this.formatDate(comment.createdAt)}</span>
+              <span class="comment-date">${this.formatDate(
+                comment.createdAt
+              )}</span>
             </div>
           </div>
           
           <div class="comment-content">
-            ${this.processCommentContentSync ? this.processCommentContentSync(comment.content) : this.escapeHtml(comment.content)}
+            ${
+              this.processCommentContentSync
+                ? this.processCommentContentSync(comment.content)
+                : this.escapeHtml(comment.content)
+            }
           </div>
           
           <div class="comment-actions">
-            <button class="comment-action-btn reply-btn" data-comment-id="${comment.id}">
+            <button class="comment-action-btn reply-btn" data-comment-id="${
+              comment.id
+            }">
               <span>↳</span> Reply
             </button>
           </div>
         </div>
     `;
-    
+
     // Render replies - this is the critical part for showing nested replies
-    if (comment.replies && Array.isArray(comment.replies) && comment.replies.length > 0) {
+    if (
+      comment.replies &&
+      Array.isArray(comment.replies) &&
+      comment.replies.length > 0
+    ) {
+      console.log(
+        `🔄 Rendering ${comment.replies.length} replies for comment ${comment.id}`
+      );
       html += '<div class="comment-replies">';
-      comment.replies.forEach(reply => {
+      comment.replies.forEach((reply) => {
         html += this.renderCommentThread(reply, depth + 1);
       });
-      html += '</div>';
+      html += "</div>";
     }
-    
-    html += '</div>';
+
+    html += "</div>";
     return html;
   }
 
@@ -1681,14 +1943,14 @@ class CommentSystem {
   }
 
   renderError(message, options = {}) {
-    const commentsList = this.container.querySelector('#comments-list');
-    
+    const commentsList = this.container.querySelector("#comments-list");
+
     let errorHTML = `
       <div class="comments-error">
         <div class="comments-error-icon">⚠️</div>
         <div class="comments-error-text">${this.escapeHtml(message)}</div>
     `;
-    
+
     if (options.showRetry) {
       errorHTML += `
         <button class="comments-error-retry" onclick="this.closest('.comment-system').commentSystem.loadComments()">
@@ -1696,60 +1958,66 @@ class CommentSystem {
         </button>
       `;
     }
-    
+
     // Add error details for debugging (in development)
-    if (options.error && window.location.hostname === 'localhost') {
+    if (options.error && window.location.hostname === "localhost") {
       errorHTML += `
         <details class="comments-error-details">
           <summary>Error Details</summary>
-          <pre>${this.escapeHtml(JSON.stringify({
-            code: options.error.code,
-            message: options.error.message,
-            status: options.error.status
-          }, null, 2))}</pre>
+          <pre>${this.escapeHtml(
+            JSON.stringify(
+              {
+                code: options.error.code,
+                message: options.error.message,
+                status: options.error.status,
+              },
+              null,
+              2
+            )
+          )}</pre>
         </details>
       `;
     }
-    
-    errorHTML += '</div>';
-    
+
+    errorHTML += "</div>";
+
     commentsList.innerHTML = errorHTML;
-    
+
     // Store reference to comment system for retry button
     this.container.commentSystem = this;
   }
 
   setLoading(loading) {
     this.isLoading = loading;
-    const indicator = this.container.querySelector('#loading-indicator');
-    const buttons = this.container.querySelectorAll('.ordering-button');
-    const commentsList = this.container.querySelector('#comments-list');
-    
+    const indicator = this.container.querySelector("#loading-indicator");
+    const buttons = this.container.querySelectorAll(".ordering-button");
+    const commentsList = this.container.querySelector("#comments-list");
+
     // Update loading indicator
     if (indicator) {
-      indicator.style.display = loading ? 'flex' : 'none';
-      
+      indicator.style.display = loading ? "flex" : "none";
+
       // Update loading text based on mode
-      const loadingText = indicator.querySelector('span');
+      const loadingText = indicator.querySelector("span");
       if (loadingText) {
-        if (this.orderingMode === 'similarity') {
-          loadingText.textContent = 'Analyzing comments...';
+        if (this.orderingMode === "similarity") {
+          loadingText.textContent = "Analyzing comments...";
         } else {
-          loadingText.textContent = 'Loading comments...';
+          loadingText.textContent = "Loading comments...";
         }
       }
     }
-    
+
     // Disable ordering buttons during loading
-    buttons.forEach(btn => {
+    buttons.forEach((btn) => {
       btn.disabled = loading;
-      btn.classList.toggle('loading', loading);
+      btn.classList.toggle("loading", loading);
     });
 
     // Add loading state to comments list
     if (commentsList) {
-      commentsList.classList.toggle('loading', loading);
-      
+      commentsList.classList.toggle("loading", loading);
+
       // Add skeleton loading if no comments exist yet
       if (loading && commentsList.children.length === 0) {
         this.showSkeletonLoading(commentsList);
@@ -1760,7 +2028,10 @@ class CommentSystem {
   showSkeletonLoading(container) {
     const skeletonHTML = `
       <div class="comments-skeleton">
-        ${Array(3).fill(0).map(() => `
+        ${Array(3)
+          .fill(0)
+          .map(
+            () => `
           <div class="comment-skeleton">
             <div class="comment-skeleton-header">
               <div class="comment-skeleton-avatar"></div>
@@ -1775,15 +2046,17 @@ class CommentSystem {
               <div class="comment-skeleton-line short"></div>
             </div>
           </div>
-        `).join('')}
+        `
+          )
+          .join("")}
       </div>
     `;
-    
+
     container.innerHTML = skeletonHTML;
   }
 
   updateCommentsCount() {
-    const countElement = this.container.querySelector('#comments-count');
+    const countElement = this.container.querySelector("#comments-count");
     if (countElement) {
       const totalCount = this.countAllComments(this.comments);
       countElement.textContent = totalCount;
@@ -1797,17 +2070,17 @@ class CommentSystem {
     const diffMins = Math.floor(diffMs / 60000);
     const diffHours = Math.floor(diffMs / 3600000);
     const diffDays = Math.floor(diffMs / 86400000);
-    
-    if (diffMins < 1) return 'Just now';
+
+    if (diffMins < 1) return "Just now";
     if (diffMins < 60) return `${diffMins}m ago`;
     if (diffHours < 24) return `${diffHours}h ago`;
     if (diffDays < 7) return `${diffDays}d ago`;
-    
+
     return date.toLocaleDateString();
   }
 
   escapeHtml(text) {
-    const div = document.createElement('div');
+    const div = document.createElement("div");
     div.textContent = text;
     return div.innerHTML;
   }
@@ -1815,25 +2088,25 @@ class CommentSystem {
   processCommentContentSync(content) {
     // First escape HTML to prevent XSS
     let processedContent = this.escapeHtml(content);
-    
+
     // URL regex pattern to match various URL formats
     const urlRegex = /(https?:\/\/[^\s<>"{}|\\^`[\]]+)/gi;
-    
+
     // Replace URLs with clickable links
     processedContent = processedContent.replace(urlRegex, (url) => {
       // Clean up the URL (remove trailing punctuation that might not be part of the URL)
-      const cleanUrl = url.replace(/[.,;:!?]+$/, '');
+      const cleanUrl = url.replace(/[.,;:!?]+$/, "");
       const trailingPunct = url.slice(cleanUrl.length);
-      
+
       // Create a safe display version (truncate very long URLs)
       let displayUrl = cleanUrl;
       if (displayUrl.length > 50) {
-        displayUrl = displayUrl.substring(0, 47) + '...';
+        displayUrl = displayUrl.substring(0, 47) + "...";
       }
-      
+
       return `<a href="${cleanUrl}" target="_blank" rel="noopener noreferrer" class="comment-link">${displayUrl}</a>${trailingPunct}`;
     });
-    
+
     return processedContent;
   }
 
@@ -1846,8 +2119,9 @@ class CommentSystem {
     // Handle online/offline status
     this.handleOnline = () => {
       this.isOnline = true;
-      this.showNetworkStatus('online');
-      
+      console.log("Connection restored");
+      this.showNetworkStatus("online");
+
       // Refresh comments when back online
       setTimeout(() => {
         this.loadComments();
@@ -1856,16 +2130,17 @@ class CommentSystem {
 
     this.handleOffline = () => {
       this.isOnline = false;
-      this.showNetworkStatus('offline');
+      console.log("Connection lost");
+      this.showNetworkStatus("offline");
     };
 
-    window.addEventListener('online', this.handleOnline);
-    window.addEventListener('offline', this.handleOffline);
-    
+    window.addEventListener("online", this.handleOnline);
+    window.addEventListener("offline", this.handleOffline);
+
     // Initial network status check
     if (!navigator.onLine) {
       this.isOnline = false;
-      this.showNetworkStatus('offline');
+      this.showNetworkStatus("offline");
     }
 
     // Check connection health periodically
@@ -1876,14 +2151,14 @@ class CommentSystem {
 
   showNetworkStatus(status) {
     // Remove existing network status
-    const existingStatus = this.container.querySelector('.network-status');
+    const existingStatus = this.container.querySelector(".network-status");
     if (existingStatus) {
       existingStatus.remove();
     }
-    
-    if (status === 'offline') {
-      const statusElement = document.createElement('div');
-      statusElement.className = 'network-status network-status-offline';
+
+    if (status === "offline") {
+      const statusElement = document.createElement("div");
+      statusElement.className = "network-status network-status-offline";
       statusElement.innerHTML = `
         <div class="network-status-icon">📡</div>
         <div class="network-status-message">
@@ -1891,11 +2166,11 @@ class CommentSystem {
           <div class="network-status-subtitle">Comments will be available when your connection is restored</div>
         </div>
       `;
-      
+
       this.container.insertBefore(statusElement, this.container.firstChild);
-    } else if (status === 'online') {
-      const statusElement = document.createElement('div');
-      statusElement.className = 'network-status network-status-online';
+    } else if (status === "online") {
+      const statusElement = document.createElement("div");
+      statusElement.className = "network-status network-status-online";
       statusElement.innerHTML = `
         <div class="network-status-icon">✅</div>
         <div class="network-status-message">
@@ -1903,9 +2178,9 @@ class CommentSystem {
           <div class="network-status-subtitle">Refreshing comments...</div>
         </div>
       `;
-      
+
       this.container.insertBefore(statusElement, this.container.firstChild);
-      
+
       // Auto-remove after 3 seconds
       setTimeout(() => {
         if (statusElement.parentNode) {
@@ -1917,20 +2192,20 @@ class CommentSystem {
 
   async checkConnectionHealth() {
     if (!navigator.onLine) return;
-    
+
     try {
       const isHealthy = await this.api.checkHealth();
       if (!isHealthy && this.isOnline) {
-        this.showNetworkStatus('degraded');
+        this.showNetworkStatus("degraded");
       }
     } catch (error) {
-      console.warn('Health check failed:', error);
+      console.warn("Health check failed:", error);
     }
   }
 
   setupAutoRefresh(autoRefresh = true) {
     if (!autoRefresh) return;
-    
+
     // Refresh comments every 2 minutes
     this.updateInterval = setInterval(() => {
       if (this.isOnline && !this.isLoading) {
@@ -1943,26 +2218,26 @@ class CommentSystem {
     const isHealthy = await this.api.checkHealth();
     if (isHealthy !== this.isOnline) {
       this.isOnline = isHealthy;
-      this.showNetworkStatus(isHealthy ? 'online' : 'offline');
+      this.showNetworkStatus(isHealthy ? "online" : "offline");
     }
   }
 
   showNetworkStatus(status) {
     // Remove existing status
-    const existingStatus = this.container.querySelector('.network-status');
+    const existingStatus = this.container.querySelector(".network-status");
     if (existingStatus) {
       existingStatus.remove();
     }
 
-    if (status === 'offline') {
-      const statusBar = document.createElement('div');
-      statusBar.className = 'network-status offline';
+    if (status === "offline") {
+      const statusBar = document.createElement("div");
+      statusBar.className = "network-status offline";
       statusBar.innerHTML = `
         <div style="background: #ea4335; color: white; padding: 0.5rem 1rem; text-align: center; font-size: 0.875rem;">
           ⚠️ You're offline. Comments will sync when connection is restored.
         </div>
       `;
-      
+
       this.container.insertBefore(statusBar, this.container.firstChild);
     }
   }
@@ -1970,44 +2245,45 @@ class CommentSystem {
   async refreshComments() {
     try {
       const data = await this.api.getComments(this.pageId, this.orderingMode);
-      
+
       // Check if there are new comments
       const newCommentCount = data.comments.length;
       const currentCount = this.comments.length;
-      
+
       if (newCommentCount > currentCount) {
         this.comments = data.comments;
         this.renderComments();
         this.updateCommentsCount();
         this.showNewCommentsNotification(newCommentCount - currentCount);
       }
-      
+
       this.lastUpdateTime = new Date();
-      
     } catch (error) {
-      console.warn('Failed to refresh comments:', error.message);
+      console.warn("Failed to refresh comments:", error.message);
     }
   }
 
   showNewCommentsNotification(count) {
     // Remove existing notification
-    const existing = this.container.querySelector('.new-comments-notification');
+    const existing = this.container.querySelector(".new-comments-notification");
     if (existing) {
       existing.remove();
     }
 
-    const notification = document.createElement('div');
-    notification.className = 'new-comments-notification';
+    const notification = document.createElement("div");
+    notification.className = "new-comments-notification";
     notification.innerHTML = `
       <div style="background: #34a853; color: white; padding: 0.75rem 1rem; border-radius: 4px; margin-bottom: 1rem; display: flex; align-items: center; justify-content: space-between;">
-        <span>🔔 ${count} new comment${count !== 1 ? 's' : ''} added</span>
+        <span>🔔 ${count} new comment${count !== 1 ? "s" : ""} added</span>
         <button onclick="this.parentElement.parentElement.remove()" style="background: none; border: none; color: white; cursor: pointer; font-size: 1.2rem;">×</button>
       </div>
     `;
-    
-    const commentsContainer = this.container.querySelector('.comments-container');
+
+    const commentsContainer = this.container.querySelector(
+      ".comments-container"
+    );
     commentsContainer.insertBefore(notification, commentsContainer.firstChild);
-    
+
     // Auto-hide after 5 seconds
     setTimeout(() => {
       if (notification.parentElement) {
@@ -2019,33 +2295,32 @@ class CommentSystem {
   // Enhanced loadComments method using API client
   async loadComments() {
     this.setLoading(true);
-    
+
     try {
       // Add extra delay for similarity mode to show AI processing
-      if (this.orderingMode === 'similarity') {
-        await new Promise(resolve => setTimeout(resolve, 800));
+      if (this.orderingMode === "similarity") {
+        await new Promise((resolve) => setTimeout(resolve, 800));
       }
-      
+
       const data = await this.api.getComments(this.pageId, this.orderingMode);
       this.comments = data.comments || [];
       this.renderComments();
       this.updateCommentsCount();
       this.lastUpdateTime = new Date();
-      
+
       // Hide AI processing banner after successful load
-      if (this.orderingMode === 'similarity') {
+      if (this.orderingMode === "similarity") {
         setTimeout(() => {
           this.hideAIProcessingBanner();
         }, 500);
       }
-      
     } catch (error) {
-      console.error('Failed to load comments:', error);
+      console.error("Failed to load comments:", error);
       this.renderError(this.getErrorMessage(error));
-      
+
       // Update AI status to error if similarity mode failed
-      if (this.orderingMode === 'similarity') {
-        this.updateAIStatusIndicator('error');
+      if (this.orderingMode === "similarity") {
+        this.updateAIStatusIndicator("error");
         this.hideAIProcessingBanner();
       }
     } finally {
@@ -2058,14 +2333,14 @@ class CommentSystem {
     const formData = new FormData(form);
     const submitBtn = form.querySelector('button[type="submit"]');
     const parentId = form.dataset.parentId || null;
-    
+
     // Validate all fields
     const nameField = form.querySelector('input[name="authorName"]');
     const contentField = form.querySelector('textarea[name="content"]');
-    
+
     const isNameValid = this.validateField(nameField);
     const isContentValid = this.validateField(contentField);
-    
+
     if (!isContentValid) {
       contentField.focus();
       return;
@@ -2073,15 +2348,18 @@ class CommentSystem {
 
     // Check if online
     if (!this.isOnline) {
-      this.showFormError(form, 'You are currently offline. Please check your connection and try again.');
+      this.showFormError(
+        form,
+        "You are currently offline. Please check your connection and try again."
+      );
       return;
     }
 
     // Prepare comment data
     const commentData = {
       pageId: this.pageId,
-      authorName: formData.get('authorName')?.trim() || 'Anonymous',
-      content: formData.get('content').trim()
+      authorName: formData.get("authorName")?.trim() || "Anonymous",
+      content: formData.get("content").trim(),
     };
 
     if (parentId) {
@@ -2092,29 +2370,31 @@ class CommentSystem {
     this.setFormLoading(form, true);
 
     try {
-      const result = parentId 
+      const result = parentId
         ? await this.api.replyToComment(parentId, commentData)
         : await this.api.createComment(commentData);
-      
+
       // Show success message
       this.showFormSuccess(form);
-      
+
       // Reset form
       form.reset();
-      this.updateCharacterCounter(contentField, form.querySelector('.character-counter'));
-      
+      this.updateCharacterCounter(
+        contentField,
+        form.querySelector(".character-counter")
+      );
+
       // Refresh comments to show the new comment
       setTimeout(() => {
         this.loadComments();
-        
+
         // Hide reply form if it was a reply
         if (parentId) {
           this.cancelReply(form);
         }
       }, 1000);
-
     } catch (error) {
-      console.error('Failed to post comment:', error);
+      console.error("Failed to post comment:", error);
       this.showFormError(form, this.getErrorMessage(error));
     } finally {
       this.setFormLoading(form, false);
@@ -2123,22 +2403,25 @@ class CommentSystem {
 
   getErrorMessage(error) {
     if (!this.isOnline) {
-      return 'You are currently offline. Please check your connection and try again.';
+      return "You are currently offline. Please check your connection and try again.";
     }
-    
+
     if (error.status === 429) {
-      return 'You are posting too quickly. Please wait a moment before trying again.';
+      return "You are posting too quickly. Please wait a moment before trying again.";
     }
-    
+
     if (error.status === 400) {
-      return error.data?.error?.message || 'Invalid comment data. Please check your input.';
+      return (
+        error.data?.error?.message ||
+        "Invalid comment data. Please check your input."
+      );
     }
-    
+
     if (error.status >= 500) {
-      return 'Server error. Please try again in a moment.';
+      return "Server error. Please try again in a moment.";
     }
-    
-    return error.message || 'An unexpected error occurred. Please try again.';
+
+    return error.message || "An unexpected error occurred. Please try again.";
   }
 
   // Method to add a new comment to the display without full reload
@@ -2154,82 +2437,87 @@ class CommentSystem {
   }
 
   // Notification system for user feedback
-  showNotification(message, type = 'info', duration = 5000) {
+  showNotification(message, type = "info", duration = 5000) {
     // Remove existing notifications
-    const existingNotifications = document.querySelectorAll('.comment-notification');
-    existingNotifications.forEach(notification => notification.remove());
-    
-    const notification = document.createElement('div');
+    const existingNotifications = document.querySelectorAll(
+      ".comment-notification"
+    );
+    existingNotifications.forEach((notification) => notification.remove());
+
+    const notification = document.createElement("div");
     notification.className = `comment-notification comment-notification-${type}`;
-    
+
     const icons = {
-      success: '✅',
-      error: '❌',
-      warning: '⚠️',
-      info: 'ℹ️'
+      success: "✅",
+      error: "❌",
+      warning: "⚠️",
+      info: "ℹ️",
     };
-    
+
     notification.innerHTML = `
       <div class="notification-icon">${icons[type] || icons.info}</div>
       <div class="notification-message">${this.escapeHtml(message)}</div>
       <button class="notification-close" onclick="this.parentElement.remove()">×</button>
     `;
-    
+
     // Position notification
-    notification.style.position = 'fixed';
-    notification.style.top = '20px';
-    notification.style.right = '20px';
-    notification.style.zIndex = '10000';
-    
+    notification.style.position = "fixed";
+    notification.style.top = "20px";
+    notification.style.right = "20px";
+    notification.style.zIndex = "10000";
+
     document.body.appendChild(notification);
-    
+
     // Auto-remove after duration
     if (duration > 0) {
       setTimeout(() => {
         if (notification.parentNode) {
-          notification.style.opacity = '0';
+          notification.style.opacity = "0";
           setTimeout(() => notification.remove(), 300);
         }
       }, duration);
     }
-    
+
     return notification;
   }
 
   // Progress indicator for long operations
   showProgress(message, progress = 0) {
-    let progressElement = this.container.querySelector('.comment-progress');
-    
+    let progressElement = this.container.querySelector(".comment-progress");
+
     if (!progressElement) {
-      progressElement = document.createElement('div');
-      progressElement.className = 'comment-progress';
+      progressElement = document.createElement("div");
+      progressElement.className = "comment-progress";
       this.container.appendChild(progressElement);
     }
-    
+
     progressElement.innerHTML = `
       <div class="progress-content">
         <div class="progress-message">${this.escapeHtml(message)}</div>
         <div class="progress-bar">
-          <div class="progress-fill" style="width: ${Math.min(100, Math.max(0, progress))}%"></div>
+          <div class="progress-fill" style="width: ${Math.min(
+            100,
+            Math.max(0, progress)
+          )}%"></div>
         </div>
         <div class="progress-percentage">${Math.round(progress)}%</div>
       </div>
     `;
-    
-    progressElement.style.display = 'block';
-    
+
+    progressElement.style.display = "block";
+
     // Auto-hide when complete
     if (progress >= 100) {
       setTimeout(() => {
-        progressElement.style.display = 'none';
+        progressElement.style.display = "none";
       }, 1000);
     }
   }
 
   hideProgress() {
-    const progressElement = this.container.querySelector('.comment-progress');
+    const progressElement = this.container.querySelector(".comment-progress");
     if (progressElement) {
-      progressElement.style.display = 'none';
+      progressElement.style.display = "none";
     }
   }
 
@@ -2238,13 +2526,13 @@ class CommentSystem {
     if (this.updateInterval) {
       clearInterval(this.updateInterval);
     }
-    
-    window.removeEventListener('online', this.handleOnline);
-    window.removeEventListener('offline', this.handleOffline);
-    
+
+    window.removeEventListener("online", this.handleOnline);
+    window.removeEventListener("offline", this.handleOffline);
+
     // Remove notifications
-    const notifications = document.querySelectorAll('.comment-notification');
-    notifications.forEach(notification => notification.remove());
+    const notifications = document.querySelectorAll(".comment-notification");
+    notifications.forEach((notification) => notification.remove());
   }
 
   /**
@@ -2253,60 +2541,69 @@ class CommentSystem {
   startAnalysisPolling() {
     // Clear any existing polling
     this.stopAnalysisPolling();
-    
-    
+
+    console.log("🔄 Starting analysis polling for", this.pageId);
+
     let pollCount = 0;
     const maxPolls = 30; // Poll for up to 30 times (30 seconds with 1s interval)
-    
+
     this.analysisPollingInterval = setInterval(async () => {
       pollCount++;
-      
+
       try {
-        
-        const response = await this.api.request(`/comments/status/${encodeURIComponent(this.pageId)}`);
-        
-        if (response.success && response.status === 'complete') {
-          
+        console.log(`🔄 Polling attempt ${pollCount}/${maxPolls}`);
+
+        const response = await this.api.request(
+          `/comments/status/${encodeURIComponent(this.pageId)}`
+        );
+
+        if (response.success && response.status === "complete") {
+          console.log("🔄 Analysis complete! Updating comments");
+
           // Stop polling
           this.stopAnalysisPolling();
-          
+
           // Update comments with analyzed results
           if (response.comments && Array.isArray(response.comments)) {
             this.comments = response.comments;
             this.lastCommentCount = this.countAllComments(this.comments);
-            
+
             // Update cache
             const cacheKey = `${this.orderingMode}_${this.pageId}`;
             this.orderingCache.set(cacheKey, [...this.comments]);
             this.savePersistentCache();
-            
+
             // Update UI
             this.hideAIProcessingBanner();
-            this.updateAIStatusIndicator('complete');
+            this.updateAIStatusIndicator("complete");
             this.renderComments();
-            
+
             if (this.showNotification) {
-              this.showNotification('Comments updated', 'success');
+              this.showNotification("Comments updated", "success");
             }
           }
         } else if (pollCount >= maxPolls) {
+          console.log("🔄 Polling timeout, stopping");
           this.stopAnalysisPolling();
-          
+
           // Update UI to show timeout
           this.hideAIProcessingBanner();
-          this.updateAIStatusIndicator('error');
-          
+          this.updateAIStatusIndicator("error");
+
           if (this.showNotification) {
-            this.showNotification('Analysis is taking longer than expected. Comments remain in recent order.', 'warning');
+            this.showNotification(
+              "Analysis is taking longer than expected. Comments remain in recent order.",
+              "warning"
+            );
           }
         }
       } catch (error) {
-        console.error('🔄 Polling error:', error);
-        
+        console.error("🔄 Polling error:", error);
+
         if (pollCount >= maxPolls) {
           this.stopAnalysisPolling();
           this.hideAIProcessingBanner();
-          this.updateAIStatusIndicator('error');
+          this.updateAIStatusIndicator("error");
         }
       }
     }, 1000); // Poll every second
@@ -2319,6 +2616,7 @@ class CommentSystem {
     if (this.analysisPollingInterval) {
       clearInterval(this.analysisPollingInterval);
       this.analysisPollingInterval = null;
+      console.log("🔄 Stopped analysis polling");
     }
   }
 }
