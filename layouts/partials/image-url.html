@@ -1,0 +1,29 @@
+{{/*
+  Image URL helper that works for both localhost and production
+  Usage: {{ partial "image-url.html" (dict "path" "/img/example.jpg" "width" 750 "quality" 85) }}
+*/}}
+
+{{- $path := .path -}}
+{{- $width := .width | default 750 -}}
+{{- $quality := .quality | default 85 -}}
+{{- $format := .format | default "auto" -}}
+{{- $blur := .blur | default "" -}}
+{{- $onerror := .onerror | default "" -}}
+
+{{- $site := .Site | default site -}}
+{{- $isLocalhost := or (strings.Contains $site.BaseURL "localhost") (strings.Contains $site.BaseURL "127.0.0.1") -}}
+
+{{- if $isLocalhost -}}
+  {{/* For localhost, use original images without Cloudflare processing */}}
+  {{- $path | relURL -}}
+{{- else -}}
+  {{/* For production, use Cloudflare Images */}}
+  {{- $params := slice (printf "width=%d" $width) (printf "quality=%d" $quality) (printf "format=%s" $format) -}}
+  {{- if $blur -}}
+    {{- $params = $params | append (printf "blur=%s" $blur) -}}
+  {{- end -}}
+  {{- if $onerror -}}
+    {{- $params = $params | append (printf "onerror=%s" $onerror) -}}
+  {{- end -}}
+  {{- printf "/cdn-cgi/image/%s%s" (delimit $params ",") ($path | relURL) -}}
+{{- end -}}

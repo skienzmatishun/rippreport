@@ -6,7 +6,7 @@
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=750,quality=50,blur=5,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
+      <div class="thumbnail__video" style="background-image: url('{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 750 "quality" 50 "blur" "5") }}'); background-size: cover; background-position: center;">
         <div class="video-container">
           <iframe
             loading="lazy"
@@ -25,7 +25,7 @@
 
 {{- else if $rumble := $page.Params.rumble }}
   <figure class="thumbnail">
-    <div class="thumbnail__video" style="background-image: url('/cdn-cgi/image/width=750,quality=50,blur=5,format=auto{{ $page.Params.thumbnail | relURL }}'); background-size: cover; background-position: center;">
+    <div class="thumbnail__video" style="background-image: url('{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 750 "quality" 50 "blur" "5") }}'); background-size: cover; background-position: center;">
       <div
         id="rumble_{{ $rumble }}"
         class="video-container"
@@ -77,7 +77,7 @@
             <div class="thumbnail__video{{ if $showGif }} thumbnail__video--with-gif{{ end }}">
               <img
                 class="thumbnail__image{{ if in $page.Params.categories "repost" }} repost__thumbnail__image{{ end }}"
-                src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
+                src="{{ partial "image-url.html" (dict "path" $thumbnail "width" 750 "quality" 85) }}"
                 alt="{{ $page.Title }}"
                 {{- if and (eq $class "list") (gt $index 0) }}
                 loading="lazy"
@@ -88,7 +88,7 @@
               {{- if $showGif }}
                 <img
                   class="thumbnail__gif"
-                  data-src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $gif | relURL }}"
+                  data-src="{{ partial "image-url.html" (dict "path" $gif "width" 750 "quality" 85) }}"
                   alt="{{ $page.Title }} - Animated"
                   loading="lazy"
                 >

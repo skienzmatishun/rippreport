@@ -81,7 +81,7 @@
         {{- $optimizedImage = printf "%s/?url=%s&w=380&h=200&q=75&f=auto" $imageWorkerURL (urlquery $image) -}}
     {{- else if strings.HasPrefix $image "https://rippreport.com" -}}
         {{/* Keep existing Cloudflare image resizing for rippreport.com images */}}
-        {{- $optimizedImage = printf "/cdn-cgi/image/width=380,quality=70,format=auto%s" ($image | strings.TrimPrefix "https://rippreport.com") -}}
+        {{- $optimizedImage = partial "image-url.html" (dict "path" ($image | strings.TrimPrefix "https://rippreport.com") "width" 380 "quality" 70) -}}
     {{- end -}}
 
     {{/* Source configurations */}}

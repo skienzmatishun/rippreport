@@ -46,11 +46,11 @@
             {{- if $page.Params.thumbnail }}
               <div class="widget__thumbnail{{ if $page.Params.gif }} widget__thumbnail--with-gif{{ end }}">
                 {{- $thumbnail := $page.Params.thumbnail }}
-                <img width="336px" height="174px" {{- if gt $index 0 }} loading="lazy"{{ end }} src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $thumbnail }}" alt="{{ $page.Title }}" class="widget__thumbnail-image">
+                <img width="336px" height="174px" {{- if gt $index 0 }} loading="lazy"{{ end }} src="{{ partial "image-url.html" (dict "path" $thumbnail "width" 336 "onerror" "redirect") }}" alt="{{ $page.Title }}" class="widget__thumbnail-image">
                 {{- if $page.Params.gif }}
                   <img
                     class="widget__gif"
-                    data-src="/cdn-cgi/image/width=336,onerror=redirect,format=auto/{{ $page.Params.gif }}"
+                    data-src="{{ partial "image-url.html" (dict "path" $page.Params.gif "width" 336 "onerror" "redirect") }}"
                     alt="{{ $page.Title }} - Animated"
                     width="336px"
                     height="174px"
