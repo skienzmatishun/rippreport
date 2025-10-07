@@ -47,7 +47,7 @@
               {{- $gif := $page.Params.gif }}
               {{- $webpAnimated := $page.Params.webp_animated }}
               {{- $animatedSrc := $webpAnimated | default $gif }}
-              <div class="widget__thumbnail{{ if $animatedSrc }} widget__thumbnail--with-gif{{ end }}">
+              <div class="widget__thumbnail{{ if $animatedSrc }} widget__thumbnail--with-animation{{ end }}">
                 {{- $thumbnail := $page.Params.thumbnail }}
                 <img 
                   width="336" 
@@ -62,7 +62,7 @@
                   class="widget__thumbnail-image">
                 {{- if $animatedSrc }}
                   <img
-                    class="widget__gif"
+                    class="widget__animated"
                     data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 336 "onerror" "redirect") }}"
                     alt="{{ $page.Title }} - Animated"
                     width="336px"
