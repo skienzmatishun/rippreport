@@ -1,12 +1,4 @@
 
-@media screen and (max-width: 375px) {
-  .g-recaptcha.sib-visible-recaptcha {
-    transform: scale(0.8);
-    -webkit-transform: scale(0.8);
-    transform-origin: 0 0;
-    -webkit-transform-origin: 0 0;
-  }
-}
 .sib-form *,
 .sib-form ::after,
 .sib-form ::before {
@@ -74,53 +66,6 @@
   text-overflow: ellipsis;
   padding: 0;
   text-indent: 0;
-}
-.sib-menu__item-list {
-  margin: 0;
-  list-style: none;
-  overflow-y: auto;
-  overflow-x: hidden;
-  box-shadow: none;
-  margin-top: 8px;
-  max-height: 360px;
-  border: none;
-  padding: 12px 0;
-}
-.sib-menu__item {
-  line-height: 1.5em;
-  cursor: pointer;
-  padding: 4px 16px;
-  overflow: hidden;
-}
-.sib-menu__item:hover {
-  background-color: #8ed8fd;
-}
-.sib-menu__apply {
-  text-align: right;
-  padding: 8px 12px 12px 0;
-}
-@media screen and (max-width: 375px) {
-  .sib-menu__apply {
-    display: flex;
-    flex-direction: column-reverse;
-    padding: 8px;
-  }
-}
-.sib-menu__apply button {
-  padding: 8px 16px;
-}
-.sib-menu__separator {
-  font-size: 20px;
-  vertical-align: sub;
-}
-.sib-menu__select {
-  padding: 0px 7px;
-}
-.sib-menu__selectTextAlign {
-  padding: 0px 15px !important;
-}
-.sib-menu__select button {
-  padding: 8px 5px;
 }
 .sib-menu .input_replaced {
   opacity: 0;
@@ -327,22 +272,6 @@ textarea.input {
 .sib-form-container a {
   text-decoration: underline;
   color: #2bb2fc;
-}
-.sib-sms-input {
-  width: 100%;
-  display: flex;
-  align-items: center;
-}
-.sib-sms-input .sib-smscode-select {
-  width: 70px;
-  margin-right: 10px;
-  flex-shrink: 0;
-}
-.sib-sms-input .entry__controls {
-  width: 100%;
-}
-.sib-sms-input .sib-menu__item {
-  padding: 4px 2px;
 }
 .form__entry {
   position: static;
@@ -816,10 +745,6 @@ textarea.input {
   padding-left: 1.5em;
   text-indent: -1.5em;
 }
-.sib-form .entry__choice .checkbox,
-.sib-form .entry__choice .radio-button {
-  margin-right: 0.5em;
-}
 .sib-form .entry__choice .sib-toggletip {
   text-indent: 0;
 }
@@ -831,20 +756,6 @@ textarea.input {
   max-height: 20rem;
   overflow: auto;
   padding: 0.5rem;
-}
-.sib-form .checkbox,
-.sib-form .radio-button {
-  background: #fff;
-  border: 1px solid #687484;
-  cursor: pointer;
-  display: inline-block;
-  height: 1em;
-  vertical-align: -0.125em;
-  width: 1em;
-  position: relative;
-}
-.sib-form .checkbox {
-  border-radius: 3px;
 }
 .sib-form .radio-button {
   border-radius: 50%;
@@ -858,85 +769,16 @@ textarea.input {
   right: 2px;
   top: 2px;
 }
-.sib-form .checkbox_tick_negative:after,
-.sib-form .checkbox_tick_negative:before {
-  border: solid #fff;
-  border-width: 0 0 0 2px;
-  bottom: 0;
-  content: "";
-  left: 50%;
-  margin-left: -1px;
-  position: absolute;
-  top: 0;
-}
-.sib-form .checkbox_tick_negative:after {
-  -webkit-transform: rotate(-45deg);
-  transform: rotate(-45deg);
-}
-.sib-form .checkbox_tick_negative:before,
-.sib-form .checkbox_tick_positive:before {
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
-}
-.sib-form .checkbox_tick_positive:before {
-  border-color: #fff;
-  border-style: solid;
-  border-width: 0 2px 2px 0;
-  bottom: 1px;
-  content: "";
-  left: 50%;
-  margin-left: -25%;
-  position: absolute;
-  top: 1px;
-  -webkit-transform-origin: 80% 45%;
-  transform-origin: 80% 45%;
-  width: 50%;
-}
 .sib-form .input_replaced {
   opacity: 0;
   position: absolute;
   z-index: -1;
-}
-.sib-form .input_replaced:checked + .checkbox_tick_positive {
-  background: #13ce66;
-  border-color: #13ce66;
-}
-.sib-form .input_replaced:checked + .checkbox_tick_negative {
-  background: #ff4949;
-  border-color: #ff4949;
 }
 .sib-form .input_replaced:checked + .radio-button {
   border-color: #0092ff;
 }
 .sib-form .input_replaced:checked + .radio-button:before {
   background: #0092ff;
-}
-.sib-form .input_replaced:indeterminate + .checkbox {
-  background: #fff;
-  border-color: #687484;
-}
-.sib-form .input_replaced:indeterminate + .checkbox:before {
-  background: #687484;
-  border: 0;
-  content: "";
-  height: 2px;
-  left: 2px;
-  margin: -1px 0 0;
-  position: absolute;
-  right: 2px;
-  -webkit-transform: none;
-  transform: none;
-  top: 50%;
-  width: auto;
-}
-.sib-form .input_replaced:indeterminate + .checkbox:after {
-  content: normal;
-}
-.sib-form .input_replaced:active + .checkbox,
-.sib-form .input_replaced:active + .radio-button,
-.sib-form .input_replaced:focus + .checkbox,
-.sib-form .input_replaced:focus + .radio-button {
-  box-shadow: 0 0 0 2px #c9e1f4;
 }
 .sib-form .choice__form {
   border: 0;
@@ -969,54 +811,6 @@ textarea.input {
 .sib-form .input[type="text"] + .input__password-toggler {
   color: #0092ff;
 }
-.sib-form .sib-ap-nostyle-input-icon {
-  display: none;
-}
-.sib-form .sib-ap-nostyle-dropdown-menu {
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  background: #fff;
-  border: 1px solid #c0ccda;
-  border-radius: 3px;
-  list-style: none;
-  margin: 0;
-  max-width: 100vw;
-  min-width: 100%;
-  padding: calc(0.5rem - 1px) 0;
-}
-.sib-form .sib-ap-nostyle-dropdown-menu.sib-collapsible__content {
-  position: absolute;
-  top: 100%;
-  z-index: 1;
-}
-.sib-form
-  .sib-ap-nostyle-dropdown-menu.sib-collapsible__content:not(
-    .sib-collapsible__content_toggled
-  ) {
-  display: none;
-}
-.sib-form .sib-ap-nostyle-dropdown-menu em {
-  font-style: normal;
-  font-weight: 700;
-}
-.sib-form .sib-ap-nostyle-input {
-  padding-right: 0.5rem;
-}
-.sib-form .sib-ap-nostyle-suggestion {
-  cursor: default;
-  color: inherit;
-  display: block;
-  overflow: hidden;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-.sib-form .sib-ap-nostyle-cursor,
-.sib-form .sib-ap-nostyle-suggestion:focus,
-.sib-form .sib-ap-nostyle-suggestion:hover {
-  background: #eff2f7;
-}
 .sib-form .sib-ap-footer {
   display: none;
 }
@@ -1034,57 +828,6 @@ textarea.input {
   position: absolute;
   top: 100%;
   z-index: 1;
-}
-.sib-form
-  .menu.sib-collapsible__content:not(.sib-collapsible__content_toggled) {
-  display: none;
-}
-.sib-form .menu__content,
-.sib-form .menu__heading {
-  padding: 0;
-  margin: 1rem;
-}
-.sib-form .menu__content:first-child,
-.sib-form .menu__heading:first-child {
-  margin-top: 0.5rem;
-}
-.sib-form .menu__content:last-child,
-.sib-form .menu__heading:last-child {
-  margin-bottom: 0.5rem;
-}
-.sib-form .menu__heading {
-  font-size: 1.31950791rem;
-  line-height: 1.5rem;
-  font-weight: 400;
-}
-.sib-form .menu__content {
-  list-style: none;
-}
-.sib-form .menu__icon {
-  color: #8492a6;
-  height: 1em;
-  vertical-align: -0.125em;
-  width: 1em;
-  margin-right: 0.5rem;
-}
-.sib-form .menu__control {
-  color: inherit;
-  cursor: pointer;
-  display: block;
-  overflow: hidden;
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-.sib-form .menu__control:focus,
-.sib-form .menu__control:hover {
-  background: #eff2f7;
-}
-.sib-form .menu__divider {
-  border: 0;
-  border-top: 1px solid #c0ccda;
-  margin: 0.5rem 0;
 }
 .sib-form .clickable_button,
 .sib-form .clickable_link {
@@ -1214,47 +957,7 @@ textarea.input {
   position: relative;
 }
 .sib-form .clickable__group .clickable_button:not(:first-child),
-.sib-form
-  .clickable__group
-  .clickable_dropdown:not(:first-child)
-  .clickable_button {
-  border-bottom-left-radius: 0;
-  border-top-left-radius: 0;
-  margin-left: -1px;
-}
 .sib-form .clickable__group > .clickable_button:not(:last-child),
-.sib-form
-  .clickable__group
-  > .clickable_dropdown:not(:last-child)
-  .clickable_button {
-  border-bottom-right-radius: 0;
-  border-top-right-radius: 0;
-}
-.sib-form
-  .clickable__group
-  > .clickable_dropdown:not(:last-child)
-  .clickable_link,
-.sib-form .clickable__group > .clickable_link:not(:last-child) {
-  margin-right: 1.5em;
-  position: relative;
-}
-.sib-form
-  .clickable__group
-  > .clickable_dropdown:not(:last-child)
-  .clickable_link:after,
-.sib-form .clickable__group > .clickable_link:not(:last-child):after {
-  background: #c0ccda;
-  border-radius: 50%;
-  content: "";
-  cursor: auto;
-  display: inline-block;
-  height: 0.25rem;
-  pointer-events: none;
-  position: absolute;
-  right: -0.9em;
-  top: 0.7em;
-  width: 0.25rem;
-}
 .sib-form .clickable__icon {
   height: 1.5rem;
   vertical-align: bottom;
