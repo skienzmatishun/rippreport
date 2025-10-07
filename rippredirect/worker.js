@@ -86,11 +86,11 @@ async function handleRequest(request) {
           order: -1;
         }
         .logo__img {
-          width: 45px !important;
-          height: 35px !important;
-          position: absolute;
-          right: 30px;
-          top: -12px;
+width: 45px !important;
+    height: 35px !important;
+    position: absolute;
+    right: 30px;
+    top: 0px;
         }
         .logo__img svg {
           transform: scale(40%) !important;

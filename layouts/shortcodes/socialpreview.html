@@ -81,7 +81,7 @@
     {{/* Optimize image through image worker */}}
     {{- $optimizedImage := $image -}}
     {{- if and $hasValidImage (strings.HasPrefix $image "http") -}}
-        {{- $optimizedImage = printf "%s/?url=%s&w=306&h=161&q=85&f=webp" $imageWorkerURL (urlquery $image) -}}
+        {{- $optimizedImage = printf "%s/?url=%s&w=306&h=161&q=90&f=webp" $imageWorkerURL (urlquery $image) -}}
     {{- else if strings.HasPrefix $image "https://rippreport.com" -}}
         {{/* Keep existing Cloudflare image resizing for rippreport.com images */}}
         {{- $optimizedImage = partial "image-url.html" (dict "path" ($image | strings.TrimPrefix "https://rippreport.com") "width" 306 "quality" 85) -}}
@@ -114,10 +114,11 @@
                     {{/* Generate responsive images for external images */}}
                     <img
                         loading="lazy"
-                        src="{{ $optimizedImage }}"
-                        srcset="{{ printf "%s/?url=%s&w=306&h=161&q=85&f=webp" $imageWorkerURL (urlquery $image) }} 306w,
-                                {{ printf "%s/?url=%s&w=612&h=322&q=85&f=webp" $imageWorkerURL (urlquery $image) }} 612w"
-                        sizes="(max-width: 306px) 306px, 306px"
+                        src="{{ printf "%s/?url=%s&w=306&h=161&q=90&f=webp" $imageWorkerURL (urlquery $image) }}"
+                        srcset="{{ printf "%s/?url=%s&w=200&h=105&q=90&f=webp" $imageWorkerURL (urlquery $image) }} 200w,
+                                {{ printf "%s/?url=%s&w=306&h=161&q=90&f=webp" $imageWorkerURL (urlquery $image) }} 306w,
+                                {{ printf "%s/?url=%s&w=400&h=210&q=90&f=webp" $imageWorkerURL (urlquery $image) }} 400w"
+                        sizes="(max-width: 480px) 200px, (max-width: 768px) 306px, 400px"
                         alt="{{ $title }}"
                         width="306"
                         height="161"
