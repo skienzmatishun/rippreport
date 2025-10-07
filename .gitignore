@@ -5,3 +5,4 @@ cloudflare_comments/
 .env.example
 .env
 node_modules/*
+cloudflare_images/*
