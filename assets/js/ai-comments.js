@@ -362,19 +362,14 @@ class CommentSystem {
     orderingButtons.forEach(button => {
       button.addEventListener('click', (e) => {
         const mode = e.target.dataset.mode;
-        console.log('🔄 Button clicked:', mode, 'current mode:', this.orderingMode);
         
         // Handle chronological toggle behavior
         if (mode === 'chronological' && this.orderingMode === 'chronological') {
           // Toggle between newest and oldest
-          console.log('🔄 Toggling chronological order');
           this.toggleChronologicalOrder();
         } else {
           // Switch to different mode
-          console.log('🔄 Switching to mode:', mode);
-          console.log('🔄 About to call setOrderingMode');
           this.setOrderingMode(mode).then(() => {
-            console.log('🔄 setOrderingMode completed');
           }).catch(error => {
             console.error('🔄 setOrderingMode failed:', error);
           });
@@ -916,16 +911,13 @@ class CommentSystem {
   }
 
   async setOrderingMode(mode) {
-    console.log('🔄 setOrderingMode called with mode:', mode, 'current mode:', this.orderingMode, 'isLoading:', this.isLoading);
     
     if (this.orderingMode === mode || this.isLoading) {
-      console.log('🔄 setOrderingMode: Early return - same mode or loading');
       return;
     }
     
     const previousMode = this.orderingMode;
     this.orderingMode = mode;
-    console.log('🔄 setOrderingMode: Mode changed from', previousMode, 'to', mode);
     
     // Update button states
     const buttons = this.container.querySelectorAll('.ordering-button');
@@ -969,8 +961,6 @@ class CommentSystem {
     
     // For similarity mode, use background analysis approach
     if (mode === 'similarity') {
-      console.log('🔄 Loading similarity comments from API');
-      console.log('🔄 Current comments before API call:', this.comments.length);
       
       // Preserve current comments in case API fails
       const preservedComments = [...this.comments];
@@ -979,13 +969,10 @@ class CommentSystem {
       
       try {
         const data = await this.api.getComments(this.pageId, 'similarity');
-        console.log('🔄 Similarity API response:', data);
         
         if (data && data.success && data.comments && Array.isArray(data.comments)) {
-          console.log('🔄 Setting comments from similarity API:', data.comments.length);
           this.comments = data.comments;
           this.lastCommentCount = this.countAllComments(this.comments);
-          console.log('🔄 Comments after similarity API:', this.comments.length);
           
           // Cache the results
           this.orderingCache.set(cacheKey, [...this.comments]);
@@ -993,7 +980,6 @@ class CommentSystem {
           
           // Check if this is background analysis mode
           if (data.orderingType === 'recent' && data.analysisStatus === 'processing') {
-            console.log('🔄 Background analysis in progress, showing recent comments');
             this.showAIProcessingBanner();
             this.updateAIStatusIndicator('processing');
             
@@ -1004,7 +990,6 @@ class CommentSystem {
               this.showNotification('Showing recent comments while AI analyzes for relevance...', 'info');
             }
           } else if (data.orderingType === 'similarity') {
-            console.log('🔄 Analysis complete, showing relevance-sorted comments');
             this.hideAIProcessingBanner();
             this.updateAIStatusIndicator('complete');
             
@@ -1013,7 +998,6 @@ class CommentSystem {
             }
           }
         } else {
-          console.log('🔄 Invalid or empty similarity API response, keeping existing comments');
           // Keep existing comments instead of clearing them
           this.comments = preservedComments;
           
@@ -1056,7 +1040,6 @@ class CommentSystem {
         setTimeout(() => {
           const commentsList = this.container.querySelector('#comments-list');
           if (commentsList && commentsList.classList.contains('transitioning')) {
-            console.log('🔄 Fallback: Forcing transition completion for chronological mode');
             commentsList.classList.remove('transitioning', 'loaded', 'loading');
             commentsList.style.opacity = '';
           }
@@ -1176,12 +1159,10 @@ class CommentSystem {
   }
 
   renderComments() {
-    console.log('🔄 renderComments called, mode:', this.orderingMode, 'comments:', this.comments.length);
     
     const commentsList = this.container.querySelector('#comments-list');
     
     if (!this.comments || this.comments.length === 0) {
-      console.log('🔄 No comments, showing empty state');
       commentsList.innerHTML = this.getEmptyStateHTML();
       this.completeTransition();
       return;
@@ -1197,7 +1178,6 @@ class CommentSystem {
     
     try {
       if (this.orderingMode === 'similarity') {
-        console.log('🔄 Rendering in similarity mode');
         // Sort by relevance score, keeping reply structure intact
         const sortedComments = [...this.comments].sort((a, b) => {
           const scoreA = a.relevanceScore || 0.5;
@@ -1206,13 +1186,11 @@ class CommentSystem {
         });
         html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
       } else {
-        console.log('🔄 Rendering in chronological mode');
         // Sort chronologically, keeping reply structure intact
         const sortedComments = this.sortCommentsChronologically([...this.comments]);
         html = sortedComments.map(comment => this.renderCommentThread(comment)).join('');
       }
       
-      console.log('🔄 Final HTML length:', html.length);
       commentsList.innerHTML = html;
     } catch (error) {
       console.error('🔄 Error rendering comments:', error);
@@ -1237,12 +1215,9 @@ class CommentSystem {
   }
 
   renderSimilarityGroupedComments() {
-    console.log('🎯 renderSimilarityGroupedComments called');
-    console.log('🎯 Raw comments count:', this.comments.length);
     
     // Comments from backend are already properly threaded, just use them directly
     const threads = this.comments; // Already organized by backend
-    console.log('🎯 Using pre-threaded comments count:', threads.length);
     
     // Order threads by relevance while preserving reply threading
     const sortedThreads = [...threads].sort((a, b) => {
@@ -1255,9 +1230,7 @@ class CommentSystem {
       return scoreB - scoreA;
     });
     
-    console.log('🎯 Sorted threads count:', sortedThreads.length);
     const html = sortedThreads.map(thread => this.renderCommentThread(thread)).join('');
-    console.log('🎯 Generated HTML length:', html.length);
     
     return html;
   }
@@ -1320,11 +1293,9 @@ class CommentSystem {
    */
   async tryGetAIRelevanceScores(cacheKey) {
     try {
-      console.log('🤖 Trying to get AI relevance scores');
       
       // Only try if we have comments
       if (!this.comments || this.comments.length === 0) {
-        console.log('🤖 No comments to analyze');
         return;
       }
       
@@ -1342,11 +1313,9 @@ class CommentSystem {
         }));
       
       if (commentsForAnalysis.length <= 1) {
-        console.log('🤖 Not enough root comments to analyze');
         return;
       }
       
-      console.log('🤖 Analyzing', commentsForAnalysis.length, 'root comments');
       
       // Call LLM relevance API
       const relevanceScores = await this.calculateLLMRelevance(commentsForAnalysis, pageContext);
@@ -1360,7 +1329,6 @@ class CommentSystem {
         }
       });
       
-      console.log('🤖 Applied relevance scores, re-rendering');
       
       // Cache the results
       this.orderingCache.set(cacheKey, [...this.comments]);
@@ -1429,12 +1397,10 @@ class CommentSystem {
       const cacheResponse = await this.api.request(`/comments/cache/${encodeURIComponent(this.pageId)}`);
       
       if (cacheResponse.cached) {
-        console.log('Using server-side cached relevance analysis');
         return cacheResponse.relevanceScores;
       }
       
       // No cache found, perform analysis
-      console.log('No cache found, performing LLM analysis');
       const response = await this.api.request('/comments/analyze-relevance', {
         method: 'POST',
         body: JSON.stringify({
@@ -1456,7 +1422,6 @@ class CommentSystem {
               commentCount: this.lastCommentCount
             })
           });
-          console.log('Cached relevance analysis on server for future visitors');
         } catch (cacheError) {
           console.error('Failed to cache analysis on server:', cacheError);
         }
@@ -1531,11 +1496,9 @@ class CommentSystem {
     const commentsList = this.container.querySelector('#comments-list');
     
     if (!commentsList) {
-      console.log('🔄 completeTransition: No comments list found');
       return;
     }
     
-    console.log('🔄 completeTransition: Starting transition completion');
     
     // Remove skeleton loading
     const skeleton = commentsList.querySelector('.comments-skeleton');
@@ -1545,7 +1508,6 @@ class CommentSystem {
     
     // Handle transition animations
     if (commentsList.classList.contains('transitioning')) {
-      console.log('🔄 completeTransition: Handling transition animation');
       
       // Simple transition: fade in
       setTimeout(() => {
@@ -1557,14 +1519,12 @@ class CommentSystem {
         this.animateCommentsIn();
         
         setTimeout(() => {
-          console.log('🔄 completeTransition: Removing transition classes');
           commentsList.classList.remove('transitioning', 'loaded', 'loading');
           commentsList.style.opacity = '';
           commentsList.style.transform = '';
         }, 300);
       }, 100);
     } else {
-      console.log('🔄 completeTransition: No transition, just animating comments in');
       // No transition, just animate comments in
       this.animateCommentsIn();
     }
@@ -1686,7 +1646,6 @@ class CommentSystem {
     
     // Render replies - this is the critical part for showing nested replies
     if (comment.replies && Array.isArray(comment.replies) && comment.replies.length > 0) {
-      console.log(`🔄 Rendering ${comment.replies.length} replies for comment ${comment.id}`);
       html += '<div class="comment-replies">';
       comment.replies.forEach(reply => {
         html += this.renderCommentThread(reply, depth + 1);
@@ -1887,7 +1846,6 @@ class CommentSystem {
     // Handle online/offline status
     this.handleOnline = () => {
       this.isOnline = true;
-      console.log('Connection restored');
       this.showNetworkStatus('online');
       
       // Refresh comments when back online
@@ -1898,7 +1856,6 @@ class CommentSystem {
 
     this.handleOffline = () => {
       this.isOnline = false;
-      console.log('Connection lost');
       this.showNetworkStatus('offline');
     };
 
@@ -2297,7 +2254,6 @@ class CommentSystem {
     // Clear any existing polling
     this.stopAnalysisPolling();
     
-    console.log('🔄 Starting analysis polling for', this.pageId);
     
     let pollCount = 0;
     const maxPolls = 30; // Poll for up to 30 times (30 seconds with 1s interval)
@@ -2306,12 +2262,10 @@ class CommentSystem {
       pollCount++;
       
       try {
-        console.log(`🔄 Polling attempt ${pollCount}/${maxPolls}`);
         
         const response = await this.api.request(`/comments/status/${encodeURIComponent(this.pageId)}`);
         
         if (response.success && response.status === 'complete') {
-          console.log('🔄 Analysis complete! Updating comments');
           
           // Stop polling
           this.stopAnalysisPolling();
@@ -2336,7 +2290,6 @@ class CommentSystem {
             }
           }
         } else if (pollCount >= maxPolls) {
-          console.log('🔄 Polling timeout, stopping');
           this.stopAnalysisPolling();
           
           // Update UI to show timeout
@@ -2366,7 +2319,6 @@ class CommentSystem {
     if (this.analysisPollingInterval) {
       clearInterval(this.analysisPollingInterval);
       this.analysisPollingInterval = null;
-      console.log('🔄 Stopped analysis polling');
     }
   }
 }

@@ -85,12 +85,7 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
         }, 1000);
       }
 
-      console.log(
-        "Comment System initialized for page:",
-        pageId,
-        "with default ordering:",
-        defaultOrdering
-      );
+
     } catch (error) {
       console.error("Failed to initialize AI Comment System:", error);
 
