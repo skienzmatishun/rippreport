@@ -1,0 +1,156 @@
+/* Post page specific critical CSS */
+.social-preview {
+    width: 306px;
+    max-width: 95%;
+    margin: auto;
+    background: #eaeaea;
+    padding-bottom: 0.25rem;
+    margin-bottom: 2rem;
+    min-height: 550px;
+    max-width: 52%;
+    font-size: 0.85rem;
+}
+
+.social-preview a img:first-child {
+    width: 100%;
+}
+
+.social-preview:nth-child(odd) {
+    float: right;
+    margin-left: 2rem;
+}
+
+.social-preview:nth-child(even) {
+    float: left;
+    margin-right: 2rem;
+}
+
+.social-preview a p {
+    color: black;
+    padding: 1rem;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.social-preview h2 {
+    font-size: 1.5rem;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 1.25rem;
+    padding: 0.25rem;
+}
+
+.social-preview span {
+    text-align: center;
+    padding: 1rem;
+    background: black;
+    color: white;
+    width: 100px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 10px;
+    font-size: 0.85rem;
+}
+
+.pager {
+    border-bottom: none !important;
+}
+
+.pager__link {
+    margin: 2rem;
+}
+
+.pager__title {
+    margin: 1rem;
+}
+
+.pager__title, .pager__subtitle, .pager__link, .pager__link a {
+    color: white;
+}
+
+/* Video thumbnails */
+.thumbnail__video {
+    min-height: 279px;
+    position: relative;
+}
+
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.thumbnail__iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* Category specific post styles */
+.bcso__post {
+    overflow: hidden;
+    background: radial-gradient(circle, rgb(255, 249, 225) 49%, rgb(0, 0, 0) 75%) !important;
+}
+
+.bcso__content {
+    max-width: 600px;
+    margin: auto;
+}
+
+.repost__title {
+    position: relative;
+    overflow: hidden;
+    background: #8c8c8c;
+    font-family: monospace;
+    filter: blur(.7px);
+}
+
+.repost__content {
+    position: relative;
+    overflow: hidden;
+    filter: sepia(0.5);
+}
+
+@media (max-width: 575.98px) {
+    .social-preview {
+        max-width: 99% !important;
+        min-width: 0 !important;
+    }
+    
+    .thumbnail__video {
+        min-height: 175px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .social-preview {
+        width: 100%;
+    }
+    
+    .thumbnail__video {
+        min-height: 200px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .thumbnail__video {
+        min-height: 250px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .thumbnail__video {
+        min-height: 375px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .thumbnail__video {
+        min-height: 379px;
+    }
+}
