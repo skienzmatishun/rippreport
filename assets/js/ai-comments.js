@@ -234,6 +234,7 @@ class CommentSystem {
     this.init(options.container);
     this.setupNetworkHandling();
     this.setupAutoRefresh(options.autoRefresh);
+    this.setupCacheControls();
   }
 
   init(containerSelector) {
@@ -999,6 +1000,47 @@ class CommentSystem {
     } catch (error) {
       console.error("Failed to save persistent cache:", error);
     }
+  }
+
+  /**
+   * Clear all comment cache (both memory and localStorage)
+   */
+  clearCache() {
+    try {
+      // Clear in-memory cache
+      this.orderingCache.clear();
+      
+      // Clear localStorage cache
+      const cacheKey = `commentCache_${this.pageId}`;
+      localStorage.removeItem(cacheKey);
+      
+      // Reset comment count
+      this.lastCommentCount = 0;
+      
+      console.log("🗑️ Comment cache cleared for page:", this.pageId);
+      
+      // Show notification if available
+      if (this.showNotification) {
+        this.showNotification("Comment cache cleared successfully", "success");
+      }
+      
+      return true;
+    } catch (error) {
+      console.error("Failed to clear cache:", error);
+      return false;
+    }
+  }
+
+  /**
+   * Clear cache and reload comments
+   */
+  async clearCacheAndReload() {
+    this.clearCache();
+    
+    // Force reload comments from server
+    await this.loadComments();
+    
+    console.log("🔄 Cache cleared and comments reloaded");
   }
 
   toggleChronologicalOrder() {
@@ -2212,6 +2254,28 @@ class CommentSystem {
         this.refreshComments();
       }
     }, 120000);
+  }
+
+  setupCacheControls() {
+    // Make cache clearing available globally for debugging
+    if (typeof window !== 'undefined') {
+      window.clearCommentCache = () => {
+        return this.clearCacheAndReload();
+      };
+      
+      // Add keyboard shortcut: Ctrl+Shift+C (or Cmd+Shift+C on Mac)
+      document.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'C') {
+          e.preventDefault();
+          console.log('🗑️ Clearing comment cache via keyboard shortcut...');
+          this.clearCacheAndReload();
+        }
+      });
+      
+      console.log('💡 Cache controls available:');
+      console.log('   - clearCommentCache() - Clear cache and reload');
+      console.log('   - Ctrl+Shift+C (Cmd+Shift+C) - Keyboard shortcut');
+    }
   }
 
   async checkConnection() {
