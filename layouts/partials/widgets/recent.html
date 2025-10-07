@@ -44,7 +44,10 @@
           <a class="widget__link{{ if in $page.Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in $page.Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ $page.RelPermalink }}">
             <h4>{{ $page.Title }}</h4>
             {{- if $page.Params.thumbnail }}
-              <div class="widget__thumbnail{{ if $page.Params.gif }} widget__thumbnail--with-gif{{ end }}">
+              {{- $gif := $page.Params.gif }}
+              {{- $webpAnimated := $page.Params.webp_animated }}
+              {{- $animatedSrc := $webpAnimated | default $gif }}
+              <div class="widget__thumbnail{{ if $animatedSrc }} widget__thumbnail--with-gif{{ end }}">
                 {{- $thumbnail := $page.Params.thumbnail }}
                 <img 
                   width="336" 
@@ -57,10 +60,10 @@
                   sizes="(max-width: 480px) 250px, (max-width: 768px) 336px, 450px"
                   alt="{{ $page.Title }}" 
                   class="widget__thumbnail-image">
-                {{- if $page.Params.gif }}
+                {{- if $animatedSrc }}
                   <img
                     class="widget__gif"
-                    data-src="{{ partial "image-url.html" (dict "path" $page.Params.gif "width" 336 "onerror" "redirect") }}"
+                    data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 336 "onerror" "redirect") }}"
                     alt="{{ $page.Title }} - Animated"
                     width="336px"
                     height="174px"

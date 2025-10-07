@@ -68,13 +68,15 @@
     {{- $isGif := strings.HasSuffix $thumbnail ".gif" }}
     {{- $showThumbnail := and (in $visibility $class) (or (ne $class "post") (not $isGif)) }}
     {{- $gif := $page.Params.gif }}
-    {{- $showGif := and $gif (eq $class "list") }}
+    {{- $webpAnimated := $page.Params.webp_animated }}
+    {{- $animatedSrc := $webpAnimated | default $gif }}
+    {{- $showAnimation := and $animatedSrc (eq $class "list") }}
 
     {{- if $showThumbnail }}
       <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
         <figure class="thumbnail">
           {{- if $thumbnail }}
-            <div class="thumbnail__video{{ if $showGif }} thumbnail__video--with-gif{{ end }}">
+            <div class="thumbnail__video{{ if $showAnimation }} thumbnail__video--with-gif{{ end }}">
               <img
                 class="thumbnail__image{{ if in $page.Params.categories "repost" }} repost__thumbnail__image{{ end }}"
                 src="{{ partial "image-url.html" (dict "path" $thumbnail "width" 750 "quality" 85) }}"
@@ -90,10 +92,10 @@
                 fetchpriority="high"
                 {{- end }}
               >
-              {{- if $showGif }}
+              {{- if $showAnimation }}
                 <img
                   class="thumbnail__gif"
-                  data-src="{{ partial "image-url.html" (dict "path" $gif "width" 750 "quality" 85) }}"
+                  data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 750 "quality" 85) }}"
                   alt="{{ $page.Title }} - Animated"
                   loading="lazy"
                 >
