@@ -1,0 +1,66 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+	{{- range $index, $page := $paginator.Pages }}
+		<article class="list__item post {{ if in $page.Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in $page.Params.categories "bcso" }}bcso__post{{ end }} {{ if in $page.Params.categories "holiday" }}holiday{{ end }}{{ if in $page.Params.categories "repost" }}repost__article{{ end }}{{ if in $page.Params.categories "elections" }}elections__article{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__article{{ end }}">
+			{{ partial "post_thumbnail.html" (dict "class" "list" "page" $page "index" $index) }}
+			<header class="list__header {{ if in $page.Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__list__header{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__list__header{{ end }}">
+				<h2 class="list__title post__title {{ if in $page.Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__title{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__title{{ end }}{{ if in $page.Params.categories "repost" }}repost__title{{ end }}{{ if in $page.Params.categories "elections" }}elections__title{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__title{{ end }}">
+					<a href="{{ $page.RelPermalink }}" rel="bookmark">
+						{{ $page.Title }}
+					</a>
+					{{ if in $page.Params.categories "repost" }}
+					<div class="repost__film-effect">
+						<p style="position: absolute;right: 0;top: 0;transform: rotate(45deg);color:white;">RERUN</p>
+						<div class='film'>
+							<div class="effect">
+								<div class="grain"></div>
+							</div>
+						</div>
+					</div>
+					{{ end }}
+				</h2>
+			</header>
+			<div class="content list__excerpt post__content clearfix {{ if in $page.Params.categories "backstory-podcast" }}backstory__content{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__content{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__content{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__content{{ end }}">
+				{{- $cleanedSummary := $page.Summary | plainify -}}
+				{{- $cleanedSummary = replaceRE `https?:\/\/[^\s]+` " " $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&lsquo;` "'" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&hellip;` "..." $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&mdash;` "—" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&ndash;` "–" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&amp;` "&" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
+				{{- $cleanedSummary = replaceRE `\s+` " " $cleanedSummary -}}
+				{{- $cleanedSummary = trim $cleanedSummary " " -}}
+				{{ $cleanedSummary }}
+			</div>
+			{{- if and .Site.Params.readmore (not (in $page.Params.categories "holiday")) }}
+			<div class="list__footer clearfix">
+				<a class="list__footer-readmore btn {{ if in $page.Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__btn{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__btn{{ end }}{{ if in $page.Params.categories "repost" }}repost__btn{{ end }}{{ if in $page.Params.categories "elections" }}elections__btn{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__btn{{ end }}" href="{{ $page.RelPermalink }}">Read More</a>
+			</div>
+			{{- end }}
+		</article>
+	{{- end }}
+	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
+		<div class="warning">
+			{{ partial "svg/files.svg" (dict "class" "warning__icon") }}
+			<h3 class="warning__headline">{{ T "noposts_warning_title" | safeHTML }}</h3>
+			<div class="warning__text">
+				<p class="warning__description">{{ T "noposts_warning_description" | safeHTML }}</p>
+				<p class="warning__tip">{{ T "noposts_warning_tip" | safeHTML }}</p>
+			</div>
+		</div>
+	{{ end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

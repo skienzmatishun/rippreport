@@ -1,5 +1,6 @@
 {{- $class := .class }}
 {{- $page := .page }}
+{{- $index := .index | default 0 }}
 {{- $defaultVisibility := slice "list" "post" }}
 
 {{- if $youtube := $page.Params.youtube }}
@@ -78,6 +79,9 @@
                 class="thumbnail__image{{ if in $page.Params.categories "repost" }} repost__thumbnail__image{{ end }}"
                 src="/cdn-cgi/image/width=750,quality=85,format=auto{{ $thumbnail | relURL }}"
                 alt="{{ $page.Title }}"
+                {{- if and (eq $class "list") (gt $index 0) }}
+                loading="lazy"
+                {{- end }}
               >
               {{- if $showGif }}
                 <img
