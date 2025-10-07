@@ -16,7 +16,7 @@
 {{/* --- END: Robustness Check --- */}}
 
 {{- $noFloat := .Get "noFloat" | default false -}}
-{{- $defaultImage := "/img/placeholder.png" | absURL -}}
+{{- $defaultImage := "/img/placeholder.svg" | absURL -}}
 {{- $workerBaseURL := "https://links.rippreport.com" -}}
 {{- $imageWorkerURL := "https://images.rippreport.com" -}}
 
@@ -74,18 +74,22 @@
     {{- $image := $json.image | default $defaultImage -}}
     {{- $title := $json.title | default "Title not available" -}}
     {{- $description := $json.description | default "Description not available" -}}
+    
+    {{/* Skip rendering if no valid image is available */}}
+    {{- $hasValidImage := and (ne $image $defaultImage) (ne $image "") -}}
+    
+    {{- if $hasValidImage -}}
+        {{/* Optimize image through image worker */}}
+        {{- $optimizedImage := $image -}}
+        {{- if and (ne $image $defaultImage) (strings.HasPrefix $image "http") -}}
+            {{- $optimizedImage = printf "%s/?url=%s&w=306&h=161&q=85&f=webp" $imageWorkerURL (urlquery $image) -}}
+        {{- else if strings.HasPrefix $image "https://rippreport.com" -}}
+            {{/* Keep existing Cloudflare image resizing for rippreport.com images */}}
+            {{- $optimizedImage = partial "image-url.html" (dict "path" ($image | strings.TrimPrefix "https://rippreport.com") "width" 306 "quality" 85) -}}
+        {{- end -}}
 
-    {{/* Optimize image through image worker */}}
-    {{- $optimizedImage := $image -}}
-    {{- if and (ne $image $defaultImage) (strings.HasPrefix $image "http") -}}
-        {{- $optimizedImage = printf "%s/?url=%s&w=380&h=200&q=75&f=auto" $imageWorkerURL (urlquery $image) -}}
-    {{- else if strings.HasPrefix $image "https://rippreport.com" -}}
-        {{/* Keep existing Cloudflare image resizing for rippreport.com images */}}
-        {{- $optimizedImage = partial "image-url.html" (dict "path" ($image | strings.TrimPrefix "https://rippreport.com") "width" 380 "quality" 70) -}}
-    {{- end -}}
-
-    {{/* Source configurations */}}
-    {{- $sources := dict
+        {{/* Source configurations */}}
+        {{- $sources := dict
         "www.lagniappemobile.com" (dict "partial" "svg/lagniappe.svg" "id" "lagniappe" "trim" "")
         "www.al.com" (dict "partial" "svg/alcom.svg" "id" "alcom" "trim" "")
         "mynbc15.com" (dict "partial" "svg/wpmi-logo.svg" "id" "wpmi channel 15 news" "trim" "")
@@ -106,15 +110,32 @@
     {{/* --- HTML Output --- */}}
     <div class="social-preview{{ if $noFloat }} sink-preview{{ end }}" data-source="{{ $baseURL }}">
         <a href="{{ $previewURL }}" rel="noopener noreferrer" target="_blank">
-            <img
-                loading="lazy"
-                src="{{ $optimizedImage }}"
-                alt="{{ $title }}"
-                width="380"
-                height="200"
-                onerror="this.onerror=null; this.src='{{ $defaultImage }}'; this.style.objectFit='contain';"
-                style="object-fit: cover; background-color: #eee;"
-            >
+            {{- if and (ne $image $defaultImage) (strings.HasPrefix $image "http") -}}
+                {{/* Generate responsive images for external images */}}
+                <img
+                    loading="lazy"
+                    src="{{ $optimizedImage }}"
+                    srcset="{{ printf "%s/?url=%s&w=306&h=161&q=85&f=webp" $imageWorkerURL (urlquery $image) }} 306w,
+                            {{ printf "%s/?url=%s&w=612&h=322&q=85&f=webp" $imageWorkerURL (urlquery $image) }} 612w"
+                    sizes="(max-width: 306px) 306px, 306px"
+                    alt="{{ $title }}"
+                    width="306"
+                    height="161"
+                    onerror="this.onerror=null; this.src='/img/placeholder.svg'; this.removeAttribute('srcset'); this.style.objectFit='contain';"
+                    style="object-fit: cover; background-color: #eee;"
+                >
+            {{- else -}}
+                {{/* Use regular img for local images */}}
+                <img
+                    loading="lazy"
+                    src="{{ $optimizedImage }}"
+                    alt="{{ $title }}"
+                    width="306"
+                    height="161"
+                    onerror="this.onerror=null; this.src='/img/placeholder.svg'; this.removeAttribute('srcset'); this.style.objectFit='contain';"
+                    style="object-fit: cover; background-color: #eee;"
+                >
+            {{- end -}}
             <h2>
                 {{- $sourceConfig := "" -}}
                 {{- if isset $sources $baseURL -}}
@@ -144,7 +165,8 @@
             <p>{{ $description | safeHTML }}</p>
             <span class="read_more">Read More</span>
         </a>
-    </div>
+        </div>
+    {{- end -}}
 {{- else -}}
     <div class="social-preview-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc;">
       <p style="margin: 0;">Could not load preview for: <a href="{{ $url }}" rel="noopener noreferrer" target="_blank">{{ $url }}</a></p>
