@@ -20,7 +20,11 @@
 
 {{- if or $isLocalhost $isAnimated $bypassCF -}}
   {{/* For localhost, animated images, or explicitly bypassed images, use original images without Cloudflare processing */}}
-  {{- $path | relURL -}}
+  {{- if strings.HasPrefix $path "/" -}}
+    {{- $path -}}
+  {{- else -}}
+    {{- printf "/%s" $path -}}
+  {{- end -}}
 {{- else -}}
   {{/* For production static images, use Cloudflare Images */}}
   {{- $params := slice (printf "width=%d" $width) (printf "quality=%d" $quality) (printf "format=%s" $format) -}}
@@ -30,5 +34,9 @@
   {{- if $onerror -}}
     {{- $params = $params | append (printf "onerror=%s" $onerror) -}}
   {{- end -}}
-  {{- printf "/cdn-cgi/image/%s%s" (delimit $params ",") ($path | relURL) -}}
+  {{- $absolutePath := $path -}}
+  {{- if not (strings.HasPrefix $path "/") -}}
+    {{- $absolutePath = printf "/%s" $path -}}
+  {{- end -}}
+  {{- printf "/cdn-cgi/image/%s%s" (delimit $params ",") $absolutePath -}}
 {{- end -}}
