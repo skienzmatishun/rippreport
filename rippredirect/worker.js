@@ -11,40 +11,48 @@ async function handleRequest(request) {
     return fetch(rumbleURL);
   }
 
+  // Handle robots.txt explicitly
+  if (pathname === "/robots.txt") {
+    return fetch(request);
+  }
+
   // Redirection Logic
   if (pathname.includes("/categories/") || pathname.includes("/tags/")) {
     return fetch(request);
   }
   if (pathname.match(/^\/\d{4}\/\d{2}\/.+?\.(jpe?g|png|gif|pdf)$/i)) {
-    const destinationURL = 
-`https://storage.googleapis.com/stateless-rippreport-com${pathname}${search}`;
+    const destinationURL = `https://storage.googleapis.com/stateless-rippreport-com${pathname}${search}`;
     return Response.redirect(destinationURL, statusCode);
   }
   if (pathname.match(/^\/\d{4}\/\d{2}\/(.+)/i)) {
-    const destinationURL = `${base}/p/${pathname.substr(12)}${search}`;
+    const destinationURL = `${base}/p/${pathname.substring(12)}${search}`;
     return Response.redirect(destinationURL, statusCode);
   }
-  if (pathname !== "/" && !pathname.startsWith("/p/") && 
-!pathname.match(/\.(jpe?g|png|gif|svg|css|js|txt|ico)$/i)) {
+  if (
+    pathname !== "/" &&
+    !pathname.startsWith("/p/") &&
+    !pathname.match(/\.(jpe?g|png|gif|svg|css|js|txt|ico)$/i)
+  ) {
     const destinationURL = `${base}/p${pathname}${search}`;
     return Response.redirect(destinationURL, statusCode);
   }
 
   // Fetch Response and Mobile Customization
   const response = await fetch(request);
-  const userAgent = request.headers.get('User-Agent') || '';
+  const userAgent = request.headers.get("User-Agent") || "";
 
   // Check if mobile device
-  const isMobile = 
-/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera 
-Mini/i.test(userAgent);
+  const isMobile =
+    /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      userAgent
+    );
   if (!isMobile) {
     return response;
   }
 
   // Only transform text/html responses
-  const contentType = response.headers.get('Content-Type') || '';
-  if (!contentType.includes('text/html')) {
+  const contentType = response.headers.get("Content-Type") || "";
+  if (!contentType.includes("text/html")) {
     return response;
   }
 
@@ -167,20 +175,19 @@ document.querySelector('h1').textContent;
 
   // Inject styles and scripts
   html = html
-    .replace('</head>', `${mobileStyles}</head>`)
-    .replace('</body>', `${mobileScript}</body>`);
+    .replace("</head>", `${mobileStyles}</head>`)
+    .replace("</body>", `${mobileScript}</body>`);
 
   return new Response(html, {
     headers: {
-      'Content-Type': 'text/html',
-      'Cache-Control': 'public, max-age=3600',
-      'Content-Security-Policy': 
-response.headers.get('Content-Security-Policy') || ''
-    }
+      "Content-Type": "text/html",
+      "Cache-Control": "public, max-age=3600",
+      "Content-Security-Policy":
+        response.headers.get("Content-Security-Policy") || "",
+    },
   });
 }
 
-addEventListener('fetch', event => {
+addEventListener("fetch", (event) => {
   event.respondWith(handleRequest(event.request));
 });
-

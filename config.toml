@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Ripp Report'
 theme = 'mainroad'
 disableHugoGeneratorInject = true
+enableRobotsTXT = true
 logo = "https://rippreport.com/img/eagle.png"
 disableKinds = ["taxonomy", "term"]
 
