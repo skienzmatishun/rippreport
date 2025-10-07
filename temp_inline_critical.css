@@ -1,0 +1,90 @@
+
+
+  #sib-container a {
+    text-decoration: underline;
+    color: #2BB2FC;
+  }
+
+.is-selection-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+
+@media screen and (max-width: 375px) {
+  .g-recaptcha.sib-visible-recaptcha {
+    transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+  }
+}
+.sib-form *,
+.sib-form ::after,
+.sib-form ::before {
+  box-sizing: border-box;
+}
+.sib-form {
+  background-attachment: fixed;
+  font-size: 16px;
+  font-family: Roboto, sans-serif;
+  padding: 32px 12px 32px;
+  margin: 0;
+}
+.sib-form__declaration {
+  display: flex;
+  padding: 0 16px;
+  align-items: center;
+}
+.sib-form__declaration .declaration-block-icon {
+  display: flex;
+  padding: 0 16px 0 0;
+  margin: 0;
+}
+.sib-form__declaration .declaration-block-icon [class^="svgIcon"] {
+  width: 65px;
+  height: 65px;
+}
+.sib-form__declaration p {
+  line-height: 1.5em;
+  margin: 0;
+}
+.sib-form--blockPosition {
+  position: relative;
+}
+.sib-form ul,
+.sib-form ol {
+  padding: 0;
+}
+#sib-container {
+  background: #fff;
+  margin: 0 auto;
+  padding: 17px;
+  display: inline-block;
+  width: 100%;
+}
+#sib-form {
+  text-align: left;
+}
+#sib-form .entry__choice label {
+  display: unset;
+}
+.sib-menu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  border-radius: 3px;
+  margin-top: 8px;
+}
+.sib-menu .entry__choice {
+  white-space: nowrap;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0;
+  text-indent: 0;
+}
