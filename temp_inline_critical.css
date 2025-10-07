@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+/* Only CSS classes actually used on the front page */
+
+.clickable__icon {
+  height: 1.5rem;
+  vertical-align: bottom;
+  width: 1.5rem;
+}
+
+.entry__error {
+  display: none;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  background: rgba(0, 0, 0, 0);
+}
+
+.entry__error--primary {
+  color: #ff4949;
+  font-size: 0.87055056rem;
+  line-height: 1rem;
+}
+
+.form__entry {
+  position: static;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.progress-indicator__icon {
+  fill: #0092ff;
+  height: 2rem;
+  width: 2rem;
+  -webkit-animation: indicator-spin 1.3s cubic-bezier(0.46, 0.35, 0.39, 0.85) infinite;
+  animation: indicator-spin 1.3s cubic-bezier(0.46, 0.35, 0.39, 0.85) infinite;
+}
+
+@-webkit-keyframes indicator-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(1turn);
+    transform: rotate(1turn);
+  }
+}
+
+@keyframes indicator-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(1turn);
+    transform: rotate(1turn);
+  }
+}
+
+.sib-form-block {
+  padding: 0 16px;
+  word-wrap: break-word;
+  outline: none;
+}
+
+.sib-form-block p,
+.sib-form-block ol,
+.sib-form-block ul {
+  text-align: inherit;
+  margin: 0;
+  line-height: 1.5em;
+}
+
+.sib-form-block ol,
+.sib-form-block ul {
+  list-style-position: inside;
+}
+
+.sib-form-block__button {
+  display: inline-block;
+  padding: 8px 18px;
+  border: none;
+  overflow-wrap: break-word;
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.sib-form-block__button-with-loader {
+  min-height: 40px;
+  line-height: 23px;
+}
+
+.sib-form-message-panel__text {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.sib-form-message-panel__text .sib-icon {
+  contain: strict;
+  display: inline-block;
+  fill: currentColor;
+}
+
+.sib-form-message-panel__text .sib-notification__icon {
+  height: 1.5em;
+  width: 1.5em;
+  flex-shrink: 0;
+  margin-right: calc(1rem - 1px);
+}
+
+.sib-hide-loader-icon {
+  display: none;
+}
+
+.sib-icon {
+  contain: strict;
+  display: inline-block;
+  fill: currentColor;
+}
+
+.sib-notification__icon {
+  height: 1.5em;
+  width: 1.5em;
+  flex-shrink: 0;
+  margin-right: calc(1rem - 1px);
+}
