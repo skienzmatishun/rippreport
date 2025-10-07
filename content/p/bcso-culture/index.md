@@ -2,7 +2,7 @@
 title: "BCSO CULTURE"
 date: 2025-10-05
 thumbnail: "img/bcso-culture.png"
-summary: "Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop. A culture of lies, wrongful incarceration, deadly shootings, investigating themselves and finding themselves innocent 100 percent of the time. A culture that involves blanket immunity, no transparency and absolutely no accountability."
+summary: "Antony Lowery, Baldwin County’s appointed sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop. A culture of lies, wrongful incarceration, deadly shootings, investigating themselves and finding themselves innocent 100 percent of the time. A culture that involves blanket immunity, no transparency and absolutely no accountability."
 tags:
   - Hoss Mack
   - BCSO
