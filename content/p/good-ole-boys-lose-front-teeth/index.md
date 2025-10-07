@@ -5,6 +5,7 @@ categories:
   - elections
 thumbnail: "img/good-ole-boys-lose-front-teeth.png"
 gif: "img/good-ole-boys-lose-front-teeth.gif"
+webp_animated: "img/good-ole-boys-lose-front-teeth.webp"
 tags:
   - Elections
   - City Council
