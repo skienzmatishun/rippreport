@@ -1,0 +1,11 @@
+name = "rippdirect"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "rippdirect"
+
+# Add any routes or custom domains here
+# [[env.production.routes]]
+# pattern = "links.rippreport.com/*"
+# zone_name = "rippreport.com"

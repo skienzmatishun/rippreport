@@ -6,3 +6,4 @@ cloudflare_comments/
 .env
 node_modules/*
 cloudflare_images/*
+rippredirect/*
