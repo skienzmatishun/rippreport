@@ -95,7 +95,7 @@
               {{- if $showAnimation }}
                 <img
                   class="thumbnail__animated"
-                  data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 750 "quality" 100) }}"
+                  data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 750 "quality" 100 "bypass_cf" true) }}"
                   alt="{{ $page.Title }} - Animated"
                   loading="lazy"
                 >

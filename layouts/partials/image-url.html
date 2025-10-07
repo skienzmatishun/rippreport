@@ -1,6 +1,7 @@
 {{/*
   Image URL helper that works for both localhost and production
   Usage: {{ partial "image-url.html" (dict "path" "/img/example.jpg" "width" 750 "quality" 85) }}
+  Usage: {{ partial "image-url.html" (dict "path" "/img/example.gif" "width" 750 "quality" 85 "bypass_cf" true) }}
 */}}
 
 {{- $path := .path -}}
@@ -9,15 +10,19 @@
 {{- $format := .format | default "auto" -}}
 {{- $blur := .blur | default "" -}}
 {{- $onerror := .onerror | default "" -}}
+{{- $bypassCF := .bypass_cf | default false -}}
 
 {{- $site := .Site | default site -}}
 {{- $isLocalhost := or (strings.Contains $site.BaseURL "localhost") (strings.Contains $site.BaseURL "127.0.0.1") -}}
 
-{{- if $isLocalhost -}}
-  {{/* For localhost, use original images without Cloudflare processing */}}
+{{/* Check if this is an animated image (GIF files are always animated) */}}
+{{- $isAnimated := strings.HasSuffix $path ".gif" -}}
+
+{{- if or $isLocalhost $isAnimated $bypassCF -}}
+  {{/* For localhost, animated images, or explicitly bypassed images, use original images without Cloudflare processing */}}
   {{- $path | relURL -}}
 {{- else -}}
-  {{/* For production, use Cloudflare Images */}}
+  {{/* For production static images, use Cloudflare Images */}}
   {{- $params := slice (printf "width=%d" $width) (printf "quality=%d" $quality) (printf "format=%s" $format) -}}
   {{- if $blur -}}
     {{- $params = $params | append (printf "blur=%s" $blur) -}}
