@@ -444,6 +444,19 @@
 }
 
 /* Comment form styling */
+.comment-form-section {
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  color: #1a1a1a;
+  border-bottom: 2px solid #e1e5e9;
+  padding-bottom: 0.5rem;
+}
+
 .comment-form-container {
   margin-bottom: 2rem;
 }
