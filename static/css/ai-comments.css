@@ -64,8 +64,8 @@
 }
 
 .ordering-button.active {
-  background: #fff;
-  color: #3f3f3f;
+  background: #000;
+  color: #fff;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
@@ -593,13 +593,13 @@
 }
 
 .form-btn-primary {
-  background: #3f3f3f;
-  color: white;
+  background: #000;
+  color: #fff;
 }
 
 .form-btn-primary:hover:not(:disabled) {
-  background: #1557b0;
-  box-shadow: 0 2px 4px rgba(26, 115, 232, 0.3);
+  background: #333;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .form-btn-secondary {
@@ -785,7 +785,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: #fff;
+}
+
+.form-btn-primary .btn-text {
+  color: #fff;
 }
 
 .form-loading-overlay {

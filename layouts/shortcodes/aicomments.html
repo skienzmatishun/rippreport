@@ -140,14 +140,16 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
     
     /* Match your site's color scheme */
     .ai-comments-container .form-btn-primary {
-        background-color: #007bff;
-        border-color: #007bff;
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
         transition: all 0.2s ease;
     }
     
     .ai-comments-container .form-btn-primary:hover {
-        background-color: #0056b3;
-        border-color: #0056b3;
+        background-color: #333 !important;
+        border-color: #333 !important;
+        color: #fff !important;
         transform: translateY(-1px);
     }
     
@@ -160,9 +162,9 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
     }
     
     .ai-comments-container .ordering-button.active {
-        background: #007bff;
-        border-color: #007bff;
-        color: white;
+        background: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
     }
     
     .ai-comments-container .ordering-button:hover {
@@ -171,8 +173,15 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
     }
     
     .ai-comments-container .ordering-button.active:hover {
-        background: #0056b3;
-        border-color: #0056b3;
+        background: #333 !important;
+        border-color: #333 !important;
+        color: #fff !important;
+    }
+    
+    /* Ensure button text is always white on primary buttons */
+    .ai-comments-container .form-btn-primary .btn-text,
+    .ai-comments-container .form-btn-primary span {
+        color: #fff !important;
     }
     
     /* Comment styling */
