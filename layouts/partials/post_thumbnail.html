@@ -6,7 +6,7 @@
 {{- if $youtube := $page.Params.youtube }}
   <a class="thumbnail__link" href="{{ $page.RelPermalink }}" aria-label="View {{ $page.Title }}">
     <figure class="thumbnail">
-      <div class="thumbnail__video" style="background-image: url('{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 750 "quality" 50 "blur" "5") }}'); background-size: cover; background-position: center;">
+      <div class="thumbnail__video" style="background-image: url('{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 750 "quality" 75 "blur" "5") }}'); background-size: cover; background-position: center;">
         <div class="video-container">
           <iframe
             loading="lazy"
@@ -25,7 +25,7 @@
 
 {{- else if $rumble := $page.Params.rumble }}
   <figure class="thumbnail">
-    <div class="thumbnail__video" style="background-image: url('{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 750 "quality" 50 "blur" "5") }}'); background-size: cover; background-position: center;">
+    <div class="thumbnail__video" style="background-image: url('{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 750 "quality" 75 "blur" "5") }}'); background-size: cover; background-position: center;">
       <div
         id="rumble_{{ $rumble }}"
         class="video-container"
@@ -78,6 +78,11 @@
               <img
                 class="thumbnail__image{{ if in $page.Params.categories "repost" }} repost__thumbnail__image{{ end }}"
                 src="{{ partial "image-url.html" (dict "path" $thumbnail "width" 750 "quality" 85) }}"
+                srcset="{{ partial "image-url.html" (dict "path" $thumbnail "width" 400 "quality" 85) }} 400w,
+                        {{ partial "image-url.html" (dict "path" $thumbnail "width" 600 "quality" 85) }} 600w,
+                        {{ partial "image-url.html" (dict "path" $thumbnail "width" 750 "quality" 85) }} 750w,
+                        {{ partial "image-url.html" (dict "path" $thumbnail "width" 1000 "quality" 85) }} 1000w"
+                sizes="(max-width: 480px) 400px, (max-width: 768px) 600px, (max-width: 1024px) 750px, 1000px"
                 alt="{{ $page.Title }}"
                 {{- if and (eq $class "list") (gt $index 0) }}
                 loading="lazy"

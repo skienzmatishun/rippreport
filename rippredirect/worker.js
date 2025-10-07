@@ -92,9 +92,6 @@ width: 45px !important;
     right: 30px;
     top: 0px;
         }
-        .logo__img svg {
-          transform: scale(40%) !important;
-        }
         .site-titles {
           display: flex;
           flex-direction: row !important;
