@@ -81,6 +81,8 @@
                 alt="{{ $page.Title }}"
                 {{- if and (eq $class "list") (gt $index 0) }}
                 loading="lazy"
+                {{- else if or (eq $class "post") (and (eq $class "list") (eq $index 0)) }}
+                fetchpriority="high"
                 {{- end }}
               >
               {{- if $showGif }}
