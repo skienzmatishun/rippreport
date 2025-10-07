@@ -260,9 +260,12 @@ class CommentSystem {
   getHTML() {
     return `
       <div class="comment-system">
-        <!-- Comment Form -->
-        <div class="comment-form-container">
-          ${this.getCommentFormHTML()}
+        <!-- Comment Form Section -->
+        <div class="comment-form-section">
+          <h3 class="section-title">Join the Discussion</h3>
+          <div class="comment-form-container">
+            ${this.getCommentFormHTML()}
+          </div>
         </div>
         
         <div class="comments-container">
@@ -1009,21 +1012,21 @@ class CommentSystem {
     try {
       // Clear in-memory cache
       this.orderingCache.clear();
-      
+
       // Clear localStorage cache
       const cacheKey = `commentCache_${this.pageId}`;
       localStorage.removeItem(cacheKey);
-      
+
       // Reset comment count
       this.lastCommentCount = 0;
-      
+
       console.log("🗑️ Comment cache cleared for page:", this.pageId);
-      
+
       // Show notification if available
       if (this.showNotification) {
         this.showNotification("Comment cache cleared successfully", "success");
       }
-      
+
       return true;
     } catch (error) {
       console.error("Failed to clear cache:", error);
@@ -1036,10 +1039,10 @@ class CommentSystem {
    */
   async clearCacheAndReload() {
     this.clearCache();
-    
+
     // Force reload comments from server
     await this.loadComments();
-    
+
     console.log("🔄 Cache cleared and comments reloaded");
   }
 
@@ -1200,10 +1203,7 @@ class CommentSystem {
             this.updateAIStatusIndicator("complete");
 
             if (this.showNotification) {
-              this.showNotification(
-                "Comments sorted by relevance",
-                "success"
-              );
+              this.showNotification("Comments sorted by relevance", "success");
             }
           }
         } else {
@@ -2258,23 +2258,23 @@ class CommentSystem {
 
   setupCacheControls() {
     // Make cache clearing available globally for debugging
-    if (typeof window !== 'undefined') {
+    if (typeof window !== "undefined") {
       window.clearCommentCache = () => {
         return this.clearCacheAndReload();
       };
-      
+
       // Add keyboard shortcut: Ctrl+Shift+C (or Cmd+Shift+C on Mac)
-      document.addEventListener('keydown', (e) => {
-        if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'C') {
+      document.addEventListener("keydown", (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === "C") {
           e.preventDefault();
-          console.log('🗑️ Clearing comment cache via keyboard shortcut...');
+          console.log("🗑️ Clearing comment cache via keyboard shortcut...");
           this.clearCacheAndReload();
         }
       });
-      
-      console.log('💡 Cache controls available:');
-      console.log('   - clearCommentCache() - Clear cache and reload');
-      console.log('   - Ctrl+Shift+C (Cmd+Shift+C) - Keyboard shortcut');
+
+      console.log("💡 Cache controls available:");
+      console.log("   - clearCommentCache() - Clear cache and reload");
+      console.log("   - Ctrl+Shift+C (Cmd+Shift+C) - Keyboard shortcut");
     }
   }
 
