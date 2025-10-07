@@ -2,7 +2,7 @@
 title: "Justice Denied: A Wrongful Conviction Buried by Power and Politics"
 date: 2025-10-01
 thumbnail: "img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png"
-gif: "img/test.gif"
+webp_animated: "img/test.webp"
 shorturl: "justice-denied"
 tags:
   - Murray Lawrence Jr
@@ -49,7 +49,6 @@ Jurors were improperly influenced. Alibi witnesses were never called. Forensic e
 
 This is not just about a wrongful conviction. It is about a pattern of suppressed evidence and prosecutorial misconduct that has never been addressed. Those responsible have only risen in rank, and without public pressure, they will never be held accountable.
 This is an egregious injustice. Murray Lawrence Jr has lost two decades of his life. If the media and public do not act now, he may never get the justice he is owed.
-
 
 {{< subscribe >}}
 
