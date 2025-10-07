@@ -84,10 +84,30 @@
         <script src="{{ . | relURL }}" defer></script>
     {{- end }}
     
-    {{/* Lazy GIF Loading */}}
-    <script src="{{ "js/lazy-gif.js" | relURL }}" defer></script>
+    {{/* Concatenated and Minified JavaScript */}}
+    {{ $jsFiles := slice }}
     
-    {{/* Pagination Jump */}}
-    <script src="{{ "js/pagination-jump.js" | relURL }}" defer></script>
+    {{/* Minify the non-minified files */}}
+    {{ $lazyGif := resources.Get "js/lazy-gif.js" | resources.Minify }}
+    {{ $pagination := resources.Get "js/pagination-jump.js" | resources.Minify }}
+    {{ $jsFiles = $jsFiles | append $lazyGif }}
+    {{ $jsFiles = $jsFiles | append $pagination }}
+    
+    {{ if resources.Get "js/comment-colors.js" }}
+        {{ $commentColors := resources.Get "js/comment-colors.js" | resources.Minify }}
+        {{ $jsFiles = $jsFiles | append $commentColors }}
+    {{ end }}
+    {{ if resources.Get "js/reply-system.js" }}
+        {{ $replySystem := resources.Get "js/reply-system.js" | resources.Minify }}
+        {{ $jsFiles = $jsFiles | append $replySystem }}
+    {{ end }}
+    
+    {{/* Add cactus.js as-is since it's already minified */}}
+    {{ if resources.Get "js/cactus.js" }}
+        {{ $jsFiles = $jsFiles | append (resources.Get "js/cactus.js") }}
+    {{ end }}
+    
+    {{ $js := $jsFiles | resources.Concat "js/bundle.js" }}
+    <script src="{{ $js.RelPermalink }}" defer></script>
 </body>
 </html>

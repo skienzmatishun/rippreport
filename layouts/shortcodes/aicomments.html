@@ -19,7 +19,8 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
 <link rel="stylesheet" href="/css/ai-comments.css" />
 
 <!-- Load AI Comment System JavaScript -->
-<script src="/js/ai-comments.js"></script>
+{{ $aiJS := resources.Get "js/ai-comments.js" | resources.Minify }}
+<script src="{{ $aiJS.RelPermalink }}"></script>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
