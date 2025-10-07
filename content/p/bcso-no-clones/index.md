@@ -3,6 +3,7 @@ title: "BCSO - NO CLONES"
 date: 2025-09-26
 thumbnail: "img/bcso-no-clones.png"
 gif: "img/bcso-no-clones.gif"
+webp_animated: "img/bcso-no-clones.webp"
 recent_category_override: "bcso"
 shorturl: "bcso"
 tags:
