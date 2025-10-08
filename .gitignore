@@ -6,4 +6,10 @@ cloudflare_comments/
 .env
 node_modules/*
 cloudflare_images/*
-rippdirect/*
+rippredirect/*
+audit.py
+link_checker.py
+audit.py
+analyze_broken_links.py
+broken_links_report.json
+hugo_post_audit_report.json

@@ -35,16 +35,10 @@ On a much lighter note is :
 
 >420 (cannabis culture) - Wikipediaen.wikipedia.org › wiki › 420\_(cannabis\_culture)
 >
-420, 4:20, or 4/20 (pronounced four-twenty) is cannabis culture slang for marijuana consumption, especially smoking around the time 4:20 PM, and also refers to cannabis-oriented celebrations that take place annually on April 20 (which is 4/20 in U.S. form).
->
-Significance‎: ‎Time/date to smoke/celebrate Ca...
->
-Date‎: ‎4:20 / April 20
->
-4/20 started at San Rafael High School, California of course, in 1971 at Benny Bufano at the 1940 statue of Louis Pasteur. Today it is celebrated around the world by the “Cannabis counter culture, legal reformers, entheogenic spiritualists and general users of cannabis.
+>420, 4:20, or 4/20 (pronounced four-twenty) is cannabis culture slang for marijuana consumption, especially smoking around the time 4:20 PM, and also refers to cannabis-oriented celebrations that take place annually on April 20 (which is 4/20 in U.S. form).
+>4/20 started at San Rafael High School, California of course, in 1971 at Benny Bufano at the 1940 statue of Louis Pasteur. Today it is celebrated around the world by the “Cannabis counter culture, legal reformers, entheogenic spiritualists and general users of cannabis.
 >
 Today at 4:20 PM millions around the world will light up and celebrate by smoking a little bud, no one will die from it.
-
 April 20 2010 will live in infamy in Baldwin County for the Deepwater Horizon Oil Spill, aka BP Oil Spill. !3 lives were lost and 17 injured in the original explosion. The real damage came with 210,000,000 US gallons of oil released into the Gulf of Mexico.
 
 {{< socialpreview url="https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill_respon" >}}

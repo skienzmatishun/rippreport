@@ -31,7 +31,7 @@ async function handleRequest(request) {
   if (
     pathname !== "/" &&
     !pathname.startsWith("/p/") &&
-    !pathname.match(/\.(jpe?g|png|gif|svg|css|js|txt|ico)$/i)
+    !pathname.match(/\.(jpe?g|png|gif|webp|svg|css|js|txt|ico)$/i)
   ) {
     const destinationURL = `${base}/p${pathname}${search}`;
     return Response.redirect(destinationURL, statusCode);
