@@ -46,7 +46,7 @@
 			</div>
 			{{- if and .Site.Params.readmore (not (in $page.Params.categories "holiday")) }}
 			<div class="list__footer clearfix">
-				<a class="list__footer-readmore btn {{ if in $page.Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__btn{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__btn{{ end }}{{ if in $page.Params.categories "repost" }}repost__btn{{ end }}{{ if in $page.Params.categories "elections" }}elections__btn{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__btn{{ end }}" href="{{ $page.RelPermalink }}">Read More</a>
+				<a class="list__footer-readmore btn {{ if in $page.Params.categories "backstory-podcast" }}backstory__btn{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__btn{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__btn{{ end }}{{ if in $page.Params.categories "repost" }}repost__btn{{ end }}{{ if in $page.Params.categories "elections" }}elections__btn{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__btn{{ end }}" href="{{ $page.RelPermalink }}">Read More<span class="visually-hidden"> about {{ $page.Title }}</span></a>
 			</div>
 			{{- end }}
 		</article>
