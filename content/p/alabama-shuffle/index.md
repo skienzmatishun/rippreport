@@ -16,7 +16,7 @@ That is why Alabama politics is so corrupt. The Politicians that are corrupt, kn
 
 This is the letter the Attorney General sent me back about a complaint, I filed with his office related to the Ethics Director Tom Albritton: Please note that the letter re: Complaint, no name? The letter is not signed either. Best yet you got to love the sentence “WE cannot, however, disclose to you any decision about your complaint”--ALABAMA SHUFFLE
 
-[![](https://rippreport.com/wp-content/uploads/24eb704d-alletter.png)](https://rippreport.com/wp-content/uploads/24eb704d-alletter.png) This is your Attorney General:
+[![](https://web.archive.org/web/20220727201423/https://rippreport.com/wp-content/uploads/24eb704d-alletter.png)](https://rippreport.com/wp-content/uploads/24eb704d-alletter.png) This is your Attorney General:
 
 {{< socialpreview url="https://www.alreporter.com/opinion-please-pay-attention-to-steve-marshall/" >}}
 

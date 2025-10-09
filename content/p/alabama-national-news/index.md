@@ -18,7 +18,7 @@ First are the conditions of the Alabama Prison System.
 
 Second is Alabama’s National ranking in Education with the sad but not surprising results: DEAD LAST.
 
-[https://www.usnews.com/news/best-states/alabama](https://www.usnews.com/news/best-states/alabama)
+[https://www.usnews.com/news/best-states/alabama](https://web.archive.org/web/20170626154055/https://www.usnews.com/news/best-states/alabama)
 
 {{< socialpreview url="https://www.al.com/news/2019/05/alabama-next-to-last-in-us-news-ranking-of-best-and-worst-states.html" >}}
 

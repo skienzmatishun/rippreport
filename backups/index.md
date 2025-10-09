@@ -53,7 +53,7 @@ https://lagniappemobile.com/ags-office-sues-mawss-for-sewer-overflows/
 
 [https://abcnews.go.com/Politics/anti-asian-hate-hearing-emotional-voice/story](https://abcnews.go.com/Politics/anti-asian-hate-hearing-emotional-voice/story)
 
-[https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses](https://web.archive.org/web/20210422134344/https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses)
+[https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses](https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses)
 
 [https://www.politico.com/news/anthony-fauci-rand-paul-feud-477146](https://www.politico.com/news/2021/03/19/anthony-fauci-rand-paul-feud-477146)
 
