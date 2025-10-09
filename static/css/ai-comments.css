@@ -374,7 +374,6 @@
   position: relative;
 }
 
-/* Disabled gradient borders - using thread-depth indicators instead
 .comment-replies::before {
   content: '';
   position: absolute;
@@ -396,7 +395,6 @@
 .comment-replies .comment-replies .comment-replies::before {
   background: linear-gradient(to bottom, #ea4335 0%, #fce8e6 100%);
 }
-*/
 
 /* Thread depth indicators with unique colors */
 .thread-depth-1 { --thread-color: #3f3f3f; }
