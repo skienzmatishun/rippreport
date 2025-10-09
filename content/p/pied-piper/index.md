@@ -23,9 +23,9 @@ authors:
   - admin
 ---
 
-Fairhope [City Council](http://rippreport.com/tag/city-council/) President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack [Burrell](http://rippreport.com/tag/burrell/) considers himself a genius. He is the only one, because he leaves a trail of poor decisions, confusion, and corruption that affects his own constituents in a negative way.
+Fairhope City Council President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack Burrell considers himself a genius. He is the only one, because he leaves a trail of poor decisions, confusion, and corruption that affects his own constituents in a negative way.
 
-Jack has been busy. He is the Pied Piper of Baldwin County representing the special interests of [Catalyst](https://rippreport.com/tag/catalyst/)/Scott Boone Consulting.
+Jack has been busy. He is the Pied Piper of Baldwin County representing the special interests of Catalyst/Scott Boone Consulting.
 
 The Pied Piper is costing Fairhope millions.
 
@@ -40,7 +40,7 @@ His latest antics contributions are:
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2021/06/seawall-getting-temporary-repairs.html" >}}
 
 
-The rocks may be used again in the working [waterfront project](http://rippreport.com/tag/waterfront-project/) when it is finalized.
+The rocks may be used again in the working waterfront when it is finalized.
 
 This is the exact location, on the original proposal, where a protected swimming area was to be installed flanked by stone jetty’s.
 
@@ -94,11 +94,11 @@ Follow the money.
 
 Who owned the house and lot at 8300 Morphy that the city bought prior to any notice to the subdivision or any application to change the zoning?
 
-Tim [Kant](http://rippreport.com/tag/kant/) taught [Sherry](http://rippreport.com/tag/sullivan/) and Jack everything they know.
+Tim Kant taught Sherry and Jack everything they know.
 
 {{< socialpreview url="https://rippreport.com/p/no-qualifications/" >}}
 
-Let’s not forget the [Airport](http://rippreport.com/tag/airport) and millions it has sucked out of Fairhope for a select few.
+Let’s not forget the Airport and millions it has sucked out of Fairhope for a select few.
 
 {{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
@@ -112,13 +112,13 @@ Jack get Jay’s vote and Jay gets full family insurance and salary, estimated a
 
 {{< socialpreview url="https://rippreport.com/p/no-radar/" >}}
 
-The council denies they knew anything about [Robert Brown](https://rippreport.com/tag/robert-brown/) purchasing his ”family” property July 21 2020.
+The council denies they knew anything about Robert Brown purchasing his ”family” property July 21 2020.
 
 Once it was made public and on the record, Council President Burrell got all tongue tied trying to defend his railroad nomination process. He contradicts himself numerous times and ends up with one of his episodes of gibberish.
 
 BEWARE Baldwin County citizens Jack Burrell is now going to make decisions for YOU.
 
-First, Jack says absolutely No [Tolls](https://rippreport.com/tag/tolls/) on the proposed [Bayway Bridge](https://rippreport.com/tag/bay-bridge/). Then plan two, on a napkin, went down in flames.
+First, Jack says absolutely No Tolls on the proposed Bayway Bridge. Then plan two, on a napkin, went down in flames.
 
 The new plan is for a “Truckers toll bridge”. Jack now says that you may use the truckers bridge if you wish, but that their will be a toll, so it is your decision to pay the toll. What BS.
 
