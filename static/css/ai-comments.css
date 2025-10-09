@@ -397,7 +397,8 @@
   background: linear-gradient(to bottom, #ea4335 0%, #fce8e6 100%);
 }
 
-/* Thread depth indicators */
+/* Thread depth indicators - DISABLED to prevent double borders */
+/*
 .thread-depth-1 { --thread-color: #3f3f3f; }
 .thread-depth-2 { --thread-color: #34a853; }
 .thread-depth-3 { --thread-color: #ea4335; }
@@ -413,6 +414,7 @@
   background: var(--thread-color);
   border-radius: 0 2px 2px 0;
 }
+*/
 
 /* Empty state */
 .comments-empty {
