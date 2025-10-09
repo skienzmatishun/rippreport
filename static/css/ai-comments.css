@@ -132,7 +132,6 @@
 /* Individual comment styling */
 .comment {
   background: #fff;
-  border: 1px solid #e1e5e9;
   border-radius: 8px;
   padding: 1rem;
   margin-bottom: 0.75rem;
@@ -366,7 +365,7 @@
   color: #3f3f3f;
 }
 
-/* Thread hierarchy and nesting */
+/* Thread hierarchy and nesting - DISABLED to prevent double borders */
 .comment-replies {
   margin-top: 1rem;
   margin-left: 1.5rem;
@@ -374,6 +373,7 @@
   position: relative;
 }
 
+/* Disabled gradient borders - using thread-depth indicators instead
 .comment-replies::before {
   content: '';
   position: absolute;
@@ -384,7 +384,6 @@
   background: linear-gradient(to bottom, #3f3f3f 0%, #e8eaed 100%);
 }
 
-/* Nested reply levels with different indentation */
 .comment-replies .comment-replies {
   margin-left: 1rem;
 }
@@ -396,9 +395,9 @@
 .comment-replies .comment-replies .comment-replies::before {
   background: linear-gradient(to bottom, #ea4335 0%, #fce8e6 100%);
 }
+*/
 
-/* Thread depth indicators - DISABLED to prevent double borders */
-/*
+/* Thread depth indicators with unique colors */
 .thread-depth-1 { --thread-color: #3f3f3f; }
 .thread-depth-2 { --thread-color: #34a853; }
 .thread-depth-3 { --thread-color: #ea4335; }
@@ -414,7 +413,6 @@
   background: var(--thread-color);
   border-radius: 0 2px 2px 0;
 }
-*/
 
 /* Empty state */
 .comments-empty {
