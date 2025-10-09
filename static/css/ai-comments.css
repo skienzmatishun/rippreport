@@ -132,6 +132,7 @@
 /* Individual comment styling */
 .comment {
   background: #fff;
+  border: 1px solid #e1e5e9;
   border-radius: 8px;
   padding: 1rem;
   margin-bottom: 0.75rem;
