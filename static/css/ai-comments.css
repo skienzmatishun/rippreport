@@ -371,14 +371,13 @@
   margin-top: 1rem;
   margin-left: 1.5rem;
   padding-left: 1rem;
-  border-left: 2px solid #e8eaed;
   position: relative;
 }
 
 .comment-replies::before {
   content: '';
   position: absolute;
-  left: -2px;
+  left: 0;
   top: 0;
   bottom: 0;
   width: 2px;
@@ -388,15 +387,10 @@
 /* Nested reply levels with different indentation */
 .comment-replies .comment-replies {
   margin-left: 1rem;
-  border-left-color: #f1f3f4;
 }
 
 .comment-replies .comment-replies::before {
   background: linear-gradient(to bottom, #34a853 0%, #f1f3f4 100%);
-}
-
-.comment-replies .comment-replies .comment-replies {
-  border-left-color: #fce8e6;
 }
 
 .comment-replies .comment-replies .comment-replies::before {
