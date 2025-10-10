@@ -93,18 +93,19 @@
                 {{- end }}
               >
               {{- if $showAnimation }}
-              <img
+            <img
               class="thumbnail__animated"
               data-src="{{ $animatedSrc }}"
               data-srcset="
-                {{ replace $animatedSrc ".webp" "-480.webp" }} 480w,
-                {{ $animatedSrc }} 1000w"
-              sizes="(max-width: 480px) 480px, 1000px"
-              alt="{{ $page.Title }} - Animated"
-              loading="lazy"
-            />
-            
-              {{- end }}
+                {{- replace $animatedSrc ".webp" "_480.webp" }} 480w,
+                {{- replace $animatedSrc ".webp" "_768.webp" }} 768w,
+                {{- replace $animatedSrc ".webp" "_1280.webp" }} 1280w"
+              sizes="(max-width: 480px) 480px,
+                    (max-width: 768px) 768px,
+                    1280px"
+              alt="{{ $page.Title }} - animated"
+              loading="lazy" />
+{{- end }}
             </div>
           {{- end }}
         </figure>
