@@ -93,12 +93,17 @@
                 {{- end }}
               >
               {{- if $showAnimation }}
-                <img
-                  class="thumbnail__animated"
-                  data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 750 "quality" 100 "bypass_cf" true) }}"
-                  alt="{{ $page.Title }} - Animated"
-                  loading="lazy"
-                >
+              <img
+              class="thumbnail__animated"
+              data-src="{{ $animatedSrc }}"
+              data-srcset="
+                {{ replace $animatedSrc ".webp" "-480.webp" }} 480w,
+                {{ $animatedSrc }} 1000w"
+              sizes="(max-width: 480px) 480px, 1000px"
+              alt="{{ $page.Title }} - Animated"
+              loading="lazy"
+            />
+            
               {{- end }}
             </div>
           {{- end }}
