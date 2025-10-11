@@ -93,19 +93,16 @@
                 {{- end }}
               >
               {{- if $showAnimation }}
-            <img
-              class="thumbnail__animated"
-              data-src="{{ $animatedSrc }}"
-              data-srcset="
-                {{- replace $animatedSrc ".webp" "_480.webp" }} 480w,
-                {{- replace $animatedSrc ".webp" "_768.webp" }} 768w,
-                {{- replace $animatedSrc ".webp" "_1280.webp" }} 1280w"
-              sizes="(max-width: 480px) 480px,
-                    (max-width: 768px) 768px,
-                    1280px"
-              alt="{{ $page.Title }} - animated"
-              loading="lazy" />
-{{- end }}
+              {{- $baseName := strings.TrimSuffix ".webp" (path.Base $animatedSrc) }}
+              {{- $basePath := strings.TrimSuffix ".webp" $animatedSrc }}
+              <img
+  class="thumbnail__animated"
+  data-src="{{ $animatedSrc | absURL }}"
+  data-srcset="{{ $basePath }}_412.webp 412w, {{ $basePath }}_760.webp 760w, {{ $basePath }}_1200.webp 1200w"
+  sizes="(max-width: 480px) 412px, (max-width: 768px) 760px, 1200px"
+  alt="{{ $page.Title }} - animated"
+  loading="lazy" />
+            {{- end }}
             </div>
           {{- end }}
         </figure>
