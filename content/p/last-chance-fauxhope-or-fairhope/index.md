@@ -4,7 +4,6 @@ date: 2025-08-22
 categories:
   - elections
 thumbnail: "img/last-chance-fauxhope-or-fairhope.png"
-webp_animated: "img/last-chance.webp"
 tags:
   - Elections
   - City Council
