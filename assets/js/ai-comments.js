@@ -1413,12 +1413,32 @@ class CommentSystem {
     try {
       if (this.orderingMode === "similarity") {
         console.log("🔄 Rendering in similarity mode");
-        // Sort by relevance score, keeping reply structure intact
-        const sortedComments = [...this.comments].sort((a, b) => {
-          const scoreA = a.relevanceScore || 0.5;
-          const scoreB = b.relevanceScore || 0.5;
-          return scoreB - scoreA; // Higher relevance first
+        
+        // Get page tags once
+        const pageContext = this.extractPageContext();
+        const pageTags = pageContext.tags || [];
+        
+        // Calculate combined scores for all comments
+        const sortedComments = [...this.comments].map(comment => {
+          // Get Deepseek's relevance score (default 0.5 if not available)
+          const deepseekScore = comment.relevanceScore || 0.5;
+          
+          // Calculate tag-matching score
+          const tagScore = this.calculateTagMatchScore(comment.content, pageTags);
+          
+          // Combined score: 60% Deepseek + 40% tag matching
+          const combinedScore = (deepseekScore * 0.6) + (tagScore * 0.4);
+          
+          return {
+            ...comment,
+            tagMatchScore: tagScore,
+            combinedScore: combinedScore
+          };
+        }).sort((a, b) => {
+          // Sort by combined score (higher is more relevant)
+          return b.combinedScore - a.combinedScore;
         });
+        
         html = sortedComments
           .map((comment) => this.renderCommentThread(comment))
           .join("");
@@ -1744,12 +1764,60 @@ class CommentSystem {
       }
     }
 
+    // Extract post tags
+    const tags = [];
+    const tagElements = document.querySelectorAll('.post__tags .tags__link');
+    tagElements.forEach(el => {
+      const tagText = el.textContent.trim().toLowerCase();
+      if (tagText) {
+        tags.push(tagText);
+      }
+    });
+
     return {
       title: title,
       description: metaDescription,
       content: mainContent,
       url: window.location.pathname,
+      tags: tags  // Add tags to context
     };
+  }
+
+  /**
+   * Calculate tag-matching score for a comment
+   * Returns a score between 0 and 1 based on how many tag words appear in the comment
+   */
+  calculateTagMatchScore(commentText, pageTags) {
+    if (!pageTags || pageTags.length === 0) {
+      return 0.5; // Neutral score if no tags
+    }
+    
+    const commentLower = commentText.toLowerCase();
+    let matchCount = 0;
+    let totalTagWords = 0;
+    
+    // Break tags into individual words and check for partial matches
+    pageTags.forEach(tag => {
+      const tagWords = tag.split(/[\s-]+/); // Split on spaces and hyphens
+      tagWords.forEach(word => {
+        if (word.length <= 2) return; // Skip very short words
+        totalTagWords++;
+        
+        // Check for partial match (word appears in comment)
+        if (commentLower.includes(word)) {
+          matchCount++;
+        }
+      });
+    });
+    
+    if (totalTagWords === 0) {
+      return 0.5; // Neutral score
+    }
+    
+    // Calculate score: 0.5 base + 0.5 * (match ratio)
+    // This ensures scores range from 0.5 (no matches) to 1.0 (all tags match)
+    const matchRatio = matchCount / totalTagWords;
+    return 0.5 + (matchRatio * 0.5);
   }
 
   /**
@@ -1920,6 +1988,9 @@ class CommentSystem {
               <span class="comment-date">${this.formatDate(
                 comment.createdAt
               )}</span>
+              ${this.orderingMode === "similarity" && comment.combinedScore 
+                ? `<span class="comment-score" title="Relevance: ${Math.round(comment.combinedScore * 100)}% (AI: ${Math.round((comment.relevanceScore || 0.5) * 100)}%, Tags: ${Math.round((comment.tagMatchScore || 0.5) * 100)}%)">📊</span>` 
+                : ''}
             </div>
           </div>
           
