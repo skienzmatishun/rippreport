@@ -1988,9 +1988,6 @@ class CommentSystem {
               <span class="comment-date">${this.formatDate(
                 comment.createdAt
               )}</span>
-              ${this.orderingMode === "similarity" && comment.combinedScore 
-                ? `<span class="comment-score" title="Relevance: ${Math.round(comment.combinedScore * 100)}% (AI: ${Math.round((comment.relevanceScore || 0.5) * 100)}%, Tags: ${Math.round((comment.tagMatchScore || 0.5) * 100)}%)">📊</span>` 
-                : ''}
             </div>
           </div>
           
