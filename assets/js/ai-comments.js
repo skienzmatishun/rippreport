@@ -975,8 +975,8 @@ class CommentSystem {
       if (cached) {
         const { cache, lastCommentCount, timestamp } = JSON.parse(cached);
 
-        // Check if cache is not too old (24 hours)
-        const maxAge = 24 * 60 * 60 * 1000; // 24 hours
+        // Check if cache is not too old (3 months)
+        const maxAge = 90 * 24 * 60 * 60 * 1000; // 90 days (3 months)
         if (Date.now() - timestamp < maxAge) {
           // Restore cache
           this.orderingCache = new Map(Object.entries(cache));
