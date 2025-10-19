@@ -28,9 +28,7 @@ Governor Kay Ivey just signed HB 371:
 
 Alabama is going backwards.
 
-Last but certainly not least is the Baldwin County District Attorney’s office. They will listen to complaints however they will never act upon them. It is a total waste of time to expect the DA’s office
-
-to investigate or charge ANY elected official in Baldwin County.
+Last but certainly not least is the Baldwin County District Attorney’s office. They will listen to complaints however they will never act upon them. It is a total waste of time to expect the DA’s office to investigate or charge ANY elected official in Baldwin County.
 
 The Alabama Sec. Of State is the only elected state official that has received complaints from constituents of Baldwin County, Fairhope, and acted on those complaints. Fairhope’s elections in the past had been very suspicious, and many residents believed that the city election process had been compromised. No direct evidence was available of wrong doing, however the end result of the last two elections raised many red flags.
 
