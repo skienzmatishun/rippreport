@@ -19,3 +19,5 @@ archive_fix_report.json
 backups/
 hugo-alt-generator/
 .kiro/
+.hugo_alt_generator_progress.json
+README.md
