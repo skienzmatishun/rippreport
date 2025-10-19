@@ -1,20 +1,20 @@
 ---
-title: "AIRPORT DIVERSION"
+title: AIRPORT DIVERSION
 date: 2017-07-19
-thumbnail: "img/airport-diversion.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - chucky
-  - ethics-complaint
-  - fairhope-airport
-  - robert-brown
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/airport-diversion.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- chucky
+- ethics-complaint
+- fairhope-airport
+- robert-brown
+- wilson
+authors:
+- ripp-report
+alttags: "Airplane flying across a blue sky, leaving contrails—symbolizing pilot Jack’s free flights and coverage for _The Courier_"
 ---
-
 Jack, come fly with me, has more passengers. _The Courier_, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, "come fly with me” Jack to cover the most mundane of articles that amounts to cut and paste. The local AM station, it is hard to find, has also signed on to allow Jack all the time he needs to talk about anything but the airport.
 
 Councilman Brown in his letter states that:

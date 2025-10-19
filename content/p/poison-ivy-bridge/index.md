@@ -1,18 +1,18 @@
 ---
-title: "POISON IVY BRIDGE"
+title: POISON IVY BRIDGE
 date: 2019-08-16
-thumbnail: "img/poison-ivy-bridge.jpg"
+thumbnail: img/poison-ivy-bridge.jpg
 tags:
-  - Toll Bridge
-  - Mayor Wilson
-  - City Council
-  - Elliott
-categories: 
-  - alabama
-authors: 
-  - admin
+- Toll Bridge
+- Mayor Wilson
+- City Council
+- Elliott
+categories:
+- alabama
+authors:
+- admin
+alttags: "Mobile River Bridge overlaid with green leaves, representing local opposition to proposed toll increases for Mobile and Ba..."
 ---
-
 Last nights meeting opposing the Mobile Bridge Toll, is just one of many springing up around Mobile and Baldwin County.
 
 {{< socialpreview url="https://web.archive.org/web/20210414133437/https://www.fox10tv.com/news/mobile_river_bridge_and_bayway/" >}}

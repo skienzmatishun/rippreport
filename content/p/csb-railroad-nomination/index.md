@@ -1,22 +1,22 @@
 ---
-title: "CSB / RAILROAD- NOMINATION"
+title: CSB / RAILROAD- NOMINATION
 date: 2021-03-12
-thumbnail: "img/csb-railroad-nomination.png"
-categories: 
-  - freaky-friday
-tags: 
-  - brown
-  - burell
-  - city-council
-  - csb
-  - jack-burrell
-  - jay-robinson
-  - mayor-sullivan
-  - robinson
-authors: 
-  - admin
+thumbnail: img/csb-railroad-nomination.png
+categories:
+- freaky-friday
+tags:
+- brown
+- burell
+- city-council
+- csb
+- jack-burrell
+- jay-robinson
+- mayor-sullivan
+- robinson
+authors:
+- admin
+alttags: "Council denies knowledge of property purchase; graphic shows a speech bubble crossed out"
 ---
-
 https://www.youtube.com/watch?t=2040&v=6jG57XNm3Vk&feature=youtu.be
 
 [Start at minute 34. Click here to skip to minute 34 on youtube.com](https://www.youtube.com/watch?t=2040&v=6jG57XNm3Vk&feature=youtu.be)

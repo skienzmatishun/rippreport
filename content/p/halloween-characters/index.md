@@ -1,20 +1,19 @@
 ---
-title: "HALLOWEEN CHARACTERS"
+title: HALLOWEEN CHARACTERS
 date: 2018-10-31
-thumbnail: "img/halloween-characters.jpg"
+thumbnail: img/halloween-characters.jpg
 tags:
-  - Pittman
-  - Joe Faust
-  - Davis
-  - Elliott
-  - Jason Fisher
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+- Pittman
+- Joe Faust
+- Davis
+- Elliott
+- Jason Fisher
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Silhouettes of five jack-o-lanterns against an orange sunset; symbolizing empty promises from indicted Alabama politicians"
 ---
-
-
 Sen. Tripp Pittman and the State Representatives Faust, and Randy Davis, INDICTED, did very little in the last 11 years, as far as representing their constituents.
 
 Pittman is going out the back door with his pockets full of BP money, Davis may be headed to jail and Joe Faust, District 94, wants another term, to do nothing.

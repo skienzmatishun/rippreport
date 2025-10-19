@@ -1,13 +1,13 @@
 ---
-title: "IGNORANCE IS BLISS"
+title: IGNORANCE IS BLISS
 date: 2018-11-16
-thumbnail: "img/ignorance-is-bliss.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/ignorance-is-bliss.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Cartoon ostrich head in sand, symbolizing Fairhope voters rejecting a new government system"
 ---
-
 I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done.
 
 ## Fairhope voters reject council-manager form of government - Lagniappe Mobile

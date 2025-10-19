@@ -1,21 +1,21 @@
 ---
-title: "YOU DON’T KNOW JACK"
+title: YOU DON’T KNOW JACK
 date: 2016-11-25
-thumbnail: "img/you-dont-know-jack.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - fairhope-airport
-  - hix
-  - shux
-  - triangle
-  - vince-boothe
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/you-dont-know-jack.jpg
+categories:
+- citycouncil
+tags:
+- burrell
+- fairhope-airport
+- hix
+- shux
+- triangle
+- vince-boothe
+- wilson
+authors:
+- ripp-report
+alttags: "Cover art for You Dont Know Jack, illustrating a lack of transparency and hidden information within Fairhope city counc..."
 ---
-
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer serving members. However, the newer members are usually kept in the dark as to the backstory involving long-term issues concerning the city. Another observation was the utter lack of transparency and accountability. I give our previous Mayor full credit for using the aforementioned tactics.
 
 Fairhope's last mayor doubled down and refused to cooperate in any transition with the new Mayor. Consider for a moment what a daunting task it must be to become Mayor with no cooperation from the previous administration and virtually no information about city operations, until you are sworn in. Then consider that a couple of council members who survived the last election wear the same hat as the defeated Mayor.

@@ -1,17 +1,17 @@
 ---
-title: "SPECIAL INTEREST"
+title: SPECIAL INTEREST
 date: 2018-10-26
-thumbnail: "img/special-interest.png"
+thumbnail: img/special-interest.png
 tags:
-  - catalyst
-  - Elections
-  - City Council
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+- catalyst
+- Elections
+- City Council
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Fairhope, Alabama: American flag flies over a fountain in a public square, representing local government concerns"
 ---
-
 It is easy to see that people with special interests, Catalyst connections, or are from the Tim Can’t Club, do not want to see any change in Fairhope Government. They represent about 30% of the City’s population. They know a change of Government will cut off their access to slate candidates and greatly reduce their ability to “control” Fairhope, not Govern but “control.” The current Fairhope City Council is an “at Large Catalyst council” that has the most dismal record of any Fairhope Council in 20 years, they cannot even deliver a budget on time. WHY ? Would the citizens of Fairhope want to go backwards rather than forward?
 
 {{< socialpreview url="https://rippreport.com/p/hell-yea/" >}}

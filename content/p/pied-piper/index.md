@@ -1,28 +1,28 @@
 ---
-title: "PIED PIPER"
+title: PIED PIPER
 date: 2021-06-04
-thumbnail: "img/pied-piper.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - airport
-  - bay-bridge
-  - burrell
-  - catalyst
-  - city-council
-  - fairhope-pier
-  - jay-robinson
-  - kant
-  - mpo
-  - richard-shelby
-  - robert-brown
-  - sullivan
-  - tolls
-  - waterfront-project
-authors: 
-  - admin
+thumbnail: img/pied-piper.jpg
+categories:
+- citycouncil
+tags:
+- airport
+- bay-bridge
+- burrell
+- catalyst
+- city-council
+- fairhope-pier
+- jay-robinson
+- kant
+- mpo
+- richard-shelby
+- robert-brown
+- sullivan
+- tolls
+- waterfront-project
+authors:
+- admin
+alttags: "Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and..."
 ---
-
 Fairhope City Council President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack Burrell considers himself a genius. He is the only one, because he leaves a trail of poor decisions, confusion, and corruption that affects his own constituents in a negative way.
 
 Jack has been busy. He is the Pied Piper of Baldwin County representing the special interests of Catalyst/Scott Boone Consulting.

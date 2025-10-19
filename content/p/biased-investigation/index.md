@@ -1,13 +1,13 @@
 ---
-title: "BIASED INVESTIGATION"
+title: BIASED INVESTIGATION
 date: 2022-09-24
-thumbnail: "img/biased-investigation.jpg"
-categories: 
-  - bcso
-authors: 
-  - admin
+thumbnail: img/biased-investigation.jpg
+categories:
+- bcso
+authors:
+- admin
+alttags: "Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations"
 ---
-
 When police officers are fired from one department and rehired by another neighboring department, you can be guaranteed problems will follow the officer. When you have police investigating fellow officers then you can be assured their will be no accountability and a BIASED INVESTIGATION. When you have taxpayers paying for police cameras and then the police withhold the footage, you have no transparency. When all of these facts come together you have a police state where the police are no longer public servants. When you have a sheriff that is the most powerful POLITICIAN in the county, 10 to 1 he is also the head of the good ole boys that run the county. When you have a sheriff that eliminates any competition for his office by supporting legislation that disqualifies most candidates for his office, you have corruption, some would say fixing an election.
 
 As long as all the above remains true a very few bad police officers are going to tarnish the reputations of good officers.

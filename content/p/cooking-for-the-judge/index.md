@@ -1,19 +1,19 @@
 ---
-title: "COOKING FOR THE JUDGE"
+title: COOKING FOR THE JUDGE
 date: 2018-05-14
-thumbnail: "img/cooking-for-the-judge.jpg"
-categories: 
-  - bcso
-tags: 
-  - brian-dasinger
-  - catalyst
-  - judge-scully
-  - pittman
-  - sheriff-mack
-authors: 
-  - ripp-report
+thumbnail: img/cooking-for-the-judge.jpg
+categories:
+- bcso
+tags:
+- brian-dasinger
+- catalyst
+- judge-scully
+- pittman
+- sheriff-mack
+authors:
+- ripp-report
+alttags: "Man in cowboy hat & tactical gear holds spatula next to a grill, symbolizing control and influence over Baldwin County gov..."
 ---
-
 Catalyst represents the good ole boys and they want total control over Baldwin County Government. That means control of the County Commission, Probate Judge, Circuit Judge, Sheriff, District Attorney, and the State Senate seat. As a voter you better damn well wake up because if Catalyst succeeds and gets their selected seeded candidates into office, Baldwin County will be run by Catalyst, behind closed doors. The public will be prohibited from participating and development will swallow us whole. 
 
 Our District Attorney walked into office without opposition, did not need one single vote. This was just months after Judge Wilters announced his retirement and how he “was going to spend more time with his grandchildren.” Then Catalyst knocked on his door and said the District Attorney Office needed him and he could be guaranteed the position with no opposition. What is concerning is the connection with the District Attorney with Elliott Haygood and Stacy, who morphed into Catalyst.

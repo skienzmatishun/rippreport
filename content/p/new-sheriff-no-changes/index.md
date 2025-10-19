@@ -1,21 +1,21 @@
 ---
-title: "NEW SHERIFF - NO CHANGES"
+title: NEW SHERIFF - NO CHANGES
 date: 2024-08-29
-thumbnail: "img/new-sheriff-no-changes.jpg"
+thumbnail: img/new-sheriff-no-changes.jpg
 tags:
-  - Hoss Mack
-  - BCSO
-  - Ivey
-  - Nodine
-  - Murray Lawrence Jr
-  - MCU
-  - Anthony Lowery
+- Hoss Mack
+- BCSO
+- Ivey
+- Nodine
+- Murray Lawrence Jr
+- MCU
+- Anthony Lowery
 categories:
-  - bcso
+- bcso
 authors:
-  - admin
+- admin
+alttags: "Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article"
 ---
-
  It is no surprise that Governor Kay Ivey believed all the BS Hoss Mack told her. Someone woke up Ivy and said, “sign here, say this.” She ignored all the letters to the appointment board and 2 pending federal lawsuits involving Baldwin County Sheriff Office, BCSO, and their Major Crimes Unit. She ignored the wrongful conviction of Murray Lawrence. She also ignored the clown show case of Steve Nodine which involved the same Prosecutor, Sheriff and Judge involved in the case of Murray Lawrence’s wrongful conviction. Mr. Nodine is lucky he was not wrongfully convicted. Ivy ignored the 10 innocent lives lost, that we know of, in the last 15 years in Baldwin County. People who just happen to come into contact with BCSO and then become victims of the BCSO. Their deaths were justified by the Major Crimes Unit of the Sheriff Department who investigated themselves. No accountability, No transparency, No camera footage, and certainly no justice.
 
 

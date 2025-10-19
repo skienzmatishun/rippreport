@@ -1,20 +1,20 @@
 ---
-title: "ELEPHANT IN A VOLKSWAGEN"
+title: ELEPHANT IN A VOLKSWAGEN
 date: 2018-01-27
-thumbnail: "img/elephant-in-a-volkswagen.jpg"
-categories: 
-  - saturday-special
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - fairhope-single-tax
-  - pittman
-  - turner
-authors: 
-  - ripp-report
+thumbnail: img/elephant-in-a-volkswagen.jpg
+categories:
+- saturday-special
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- fairhope-single-tax
+- pittman
+- turner
+authors:
+- ripp-report
+alttags: "An elephant’s head emerging from a yellow Volkswagen Beetle, symbolizing deceptive appearances and hidden agendas in Fairh..."
 ---
-
 Some people will believe anything they are told without question. The last Fairhope City Council meeting is a perfect example, items 5 and 13, smell like a pig pen. It was all smoke and mirrors orchestrated to smell like roses. You can go on the city site, the council agenda, and get details.
 
 [http://www.cofairhope.com/home/showdocument?id=17612](http://www.cofairhope.com/home/showdocument?id=17612)

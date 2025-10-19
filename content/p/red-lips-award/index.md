@@ -1,27 +1,27 @@
 ---
-title: "RED LIPS AWARD"
+title: RED LIPS AWARD
 date: 2025-03-03
-thumbnail: "img/red-lips-award.png"
-categories: 
-  - ivy
-  - alabama
+thumbnail: img/red-lips-award.png
+categories:
+- ivy
+- alabama
 tags:
-  - Veterans
-  - Veterans Affairs
-  - Alabama State Senate
-  - Ivey
-  - Kent Davis
-  - Kimberly Boswell
-  - Ethics Commission
-  - Tom Albritton
-  - Mabel Amos Trust
-  - Andrew Jones
-  - Ed Oliver
-  - Cliff McCollum
-authors: 
-  - ripp-report
+- Veterans
+- Veterans Affairs
+- Alabama State Senate
+- Ivey
+- Kent Davis
+- Kimberly Boswell
+- Ethics Commission
+- Tom Albritton
+- Mabel Amos Trust
+- Andrew Jones
+- Ed Oliver
+- Cliff McCollum
+authors:
+- ripp-report
+alttags: "Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete..."
 ---
- 
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!
 
 

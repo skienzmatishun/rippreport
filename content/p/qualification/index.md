@@ -1,15 +1,15 @@
 ---
-title: "QUALIFICATION"
+title: QUALIFICATION
 date: 2018-01-19
-thumbnail: "img/qualification.png"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-authors: 
-  - ripp-report
+thumbnail: img/qualification.png
+categories:
+- freaky-friday
+tags:
+- catalyst
+authors:
+- ripp-report
+alttags: "Ballot box graphic representing upcoming Baldwin County mid-term elections and candidate qualifications"
 ---
-
 Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide general information can be found on:
 
 [http://sos.alabama.gov/sites/default/files/voter-pdfs/2018/2018AdministrativeCalendar.pdf](https://cdn.rippreport.com/wp-content/uploads/2018/01/2018AdministrativeCalendar.pdf)

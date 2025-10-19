@@ -1,16 +1,16 @@
 ---
-title: "TALE OF TWO CITIES"
+title: TALE OF TWO CITIES
 date: 2017-06-23
-thumbnail: "img/tale-of-two-cities.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - daphne
-  - fly-creek
-authors: 
-  - ripp-report
+thumbnail: img/tale-of-two-cities.jpg
+categories:
+- freaky-friday
+tags:
+- daphne
+- fly-creek
+authors:
+- ripp-report
+alttags: "Daphne City Hall building, site of a planning meeting regarding zoning changes near Daphmont Subdivision"
 ---
-
 On Wonderful Wednesday we posted a story about Daphmont Neighborhood in Daphne.
 
 {{< socialpreview url="https://rippreport.com/p/misery-loves-company/" >}}

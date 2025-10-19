@@ -1,19 +1,19 @@
 ---
-title: "WHO NOT TO VOTE FOR"
+title: WHO NOT TO VOTE FOR
 date: 2017-05-19
-thumbnail: "img/who-not-to-vote-for.png"
-categories: 
-  - elections
-tags: 
-  - burrell
-  - catalyst
-  - chris-elliott
-  - pittman
-  - sessions
-authors: 
-  - ripp-report
+thumbnail: img/who-not-to-vote-for.png
+categories:
+- elections
+tags:
+- burrell
+- catalyst
+- chris-elliott
+- pittman
+- sessions
+authors:
+- ripp-report
+alttags: "Political campaign button with red, white, and blue design and VOTE prominently displayed, related to upcoming midterms"
 ---
-
 Mid term elections are 18 months away and already we are seeing the GOB "good ole boys", and Catalyst, placing their candidates in strategic elected positions.
 
 {{< socialpreview url="https://www.lagniappemobile.com/archives/campaign-callouts/article_bec12438-89d3-5432-87c5-83d05531c040.html" >}}

@@ -1,20 +1,19 @@
 ---
-title: "POLITICAL INTIMIDATION"
+title: POLITICAL INTIMIDATION
 date: 2016-06-17
-thumbnail: "img/political-intimidation.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - fairhope-single-tax
-  - fly-creek
-  - kant
-  - pittman
-  - soccer-complex
-authors: 
-  - ripp-report
+thumbnail: img/political-intimidation.jpg
+categories:
+- freaky-friday
+tags:
+- fairhope-single-tax
+- fly-creek
+- kant
+- pittman
+- soccer-complex
+authors:
+- ripp-report
+alttags: "Cartoon bald eagle sleeping on a branch, symbolizing alleged corruption and complacency in Fairhope elections"
 ---
-
-
 Fairhope is the core of corruption in Baldwin County and Mayor Kant is the spokesman. Mayor Kant has raised over 50,000 dollars for a mayor’s election in a community of 16,000 people. That’s the first red flag. Over 50% of the mayor’s donations come from donors living outside Fairhope and unidentified PACs. That should alarm every citizen in Fairhope. The mayor is suspected of rigging the last two elections and he has now put in motion his FIX for the upcoming election. First we will see puppet candidates solicited by the mayor to run for Council seats. Former Mayor Jim Nix's son is going to run for Councilmen Ford's position. This is one good ole boy for another and most people in Fairhope don’t know that Jim Nix is a major player in the good ole boy club and management of Kant. Fairhope is a hand-me-down government. Nix handed it to Kant and Kant will pick his successor, NOT the citizens of Fairhope. It is rumored that Sherry Sullivan, a companion on many of Kant’s out of town trips, and Lee Turner are two of Kant’s choices for his replacement. Mr. Kant says this is his last term. But remember, if his lips are moving, he is lying. Mr. Jay Robinson is running for Mr. Mueller's seat. I suspect Mueller will not run for re-election but will wait until the last minute to announce it. Mr. Robinson voted for the apartments at Fly Creek and against the wishes of the community, a sign that he too may be in Kant’s pocket.
 
 Mayor Kant is going to pull every political dirty trick to stay in office. Intimidation is his favorite. Seven times I have had to hire attorneys to defend myself against various forms of intimidation. Three times the City Council and Planning Board refused to allow me to speak at public participation. Each time the city had to back down. Once the city demanded I remove a gate on my property. Problem was, it was not my property. How dumb can you get? Twice I sued the city. Both times the case involved planning and both times I prevailed. The mayor had metal detectors installed at city hall due to my repeated complaints, referred to as rants, to the City Council in an attempt to get me to shut up. It didn’t work. I have had to sue _Fairhope Times_ for libel for statements that were untrue. The conclusion of that case is attached and it is unclear who motivated the Times. The point I am making is that I will not back down from exposing the corruption in Fairhope. Intimidation only inspires me. If Mike Hubbard is guilty then Tim Kant and Senator Pittman are also guilty. They are guilty of BP fraud and subject of dual complaints. One investigated by the FBI and referred to the Attorney General and another to the BP fraud division. Read the complaint for yourself, especially the introduction letters. Both have lied to their constituents and continue to lie. If Mayor Kant’s lips are moving, he is lying.

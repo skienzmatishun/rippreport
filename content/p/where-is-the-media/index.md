@@ -1,13 +1,13 @@
 ---
-title: "WHERE IS THE MEDIA?"
+title: WHERE IS THE MEDIA?
 date: 2021-08-06
-thumbnail: "img/where-is-the-media.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/where-is-the-media.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Milk carton labeled Missing, featuring a photographer and the question Have you seen me? referencing lack of media cov..."
 ---
-
 Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.
 
 If you are news media, why are you not reporting the actions of the Ethics Commission's Director?

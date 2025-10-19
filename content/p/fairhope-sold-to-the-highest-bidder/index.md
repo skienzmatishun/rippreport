@@ -1,14 +1,13 @@
 ---
-title: "FAIRHOPE SOLD TO THE HIGHEST BIDDER"
+title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
 date: 2019-10-16
-thumbnail: "img/fairhope-sold-to-the-highest-bidder.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/fairhope-sold-to-the-highest-bidder.jpg
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Man in suit speaks at podium near fountain; article discusses Fairhope land purchase concerns and city council decisions"
 ---
-
-
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
 
 The purchase of the soccer fields was a corrupt from day one. The end result was Fairhope drained 5 accounts for the purchase, let it sit idle for years and then blew 5 plus million on a sub standard complex. They are now going to repeat the same reckless process all over again in the middle of the budget process. In four years the Catalyst Council has not approved one budget on a timely manner.

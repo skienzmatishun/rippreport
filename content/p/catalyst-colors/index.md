@@ -1,13 +1,13 @@
 ---
-title: "🚫 CATALYST COLORS 🚫"
+title: 🚫 CATALYST COLORS 🚫
 date: 2019-11-07
-thumbnail: "img/catalyst-colors.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/catalyst-colors.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Controversial land purchase: Glasses obscuring CATALYST, suggesting questionable actions by Fairhope councilmen"
 ---
-
 Incredible, only three Fairhope City Councilmen, the 3 B’s, Burrell, Brown and Boone, approved and purchased, 2.65 million in land for recreation, that did NOT have the approval of National Park Service. They did this without any public participation and a very questionable appraisal. Then they closed the sale with lighting speed.
 
 This land will remain vacant for years and the council robbed multiple city accounts to come up with 2.65 million. The Mayor has warned this will cause delays in capital and infrastructure projects in the city.

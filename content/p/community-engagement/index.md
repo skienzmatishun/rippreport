@@ -1,23 +1,23 @@
 ---
-title: "COMMUNITY ENGAGEMENT"
+title: COMMUNITY ENGAGEMENT
 date: 2019-03-27
-thumbnail: "img/community-engagement.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - catalyst
-  - city-council
-  - conyers
-  - fairhope-community-park
-  - k-1-center
-  - nix-center
-  - robinson
-  - triangle-lawsuit
-authors: 
-  - ripp-report
+thumbnail: img/community-engagement.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- catalyst
+- city-council
+- conyers
+- fairhope-community-park
+- k-1-center
+- nix-center
+- robinson
+- triangle-lawsuit
+authors:
+- ripp-report
+alttags: "Crowd illustration representing Fairhope citizens encouraged by Councilman Conyers to participate in public discussions ab..."
 ---
-
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on the Triangle property 109 acres.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jg-jJYKcAU" frameborder="0" allowfullscreen></iframe>

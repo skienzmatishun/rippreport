@@ -1,13 +1,13 @@
 ---
-title: "AMERICA - THE GOLDEN DOOR"
+title: AMERICA - THE GOLDEN DOOR
 date: 2018-06-20
-thumbnail: "img/america-the-golden-door.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/america-the-golden-door.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "The Statue of Liberty, symbolizing America’s welcoming spirit as described in Emma Lazaruss “New Colossus” poem"
 ---
-
 AMERICA
 
 “Give me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!” Statue of Liberty Poem

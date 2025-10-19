@@ -1,25 +1,25 @@
 ---
-title: "CATALYST STACKING THE DECK"
+title: CATALYST STACKING THE DECK
 date: 2020-07-03
-thumbnail: "img/catalyst-stacking-the-deck.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - airport
-  - boone
-  - catalyst
-  - city-council
-  - election
-  - fairhope-airport
-  - joshua-gammon
-  - kant
-  - kevin-boone
-  - scott-boone
-  - wilson
-authors: 
-  - admin
+thumbnail: img/catalyst-stacking-the-deck.jpg
+categories:
+- freaky-friday
+tags:
+- airport
+- boone
+- catalyst
+- city-council
+- election
+- fairhope-airport
+- joshua-gammon
+- kant
+- kevin-boone
+- scott-boone
+- wilson
+authors:
+- admin
+alttags: "Stack of playing cards, including a Jack of Clubs, symbolizing complex corporate structures and potential concealment"
 ---
-
 Get ready Fairhope, CATALYST is now working under the Scott Boone Consulting banner. CATALYST can be best described as:
 
 > “Intricate web of multiple concentric layers of companies that are intermingled around and intended, among other things, to conceal the interrelationships among and between, and to insulate from liability”

@@ -1,16 +1,16 @@
 ---
-title: "Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th"
+title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
 date: 2020-06-04
-thumbnail: "img/warner-to-sign-copies-of-new-tailgaters-guide-to-sec.jpg"
-categories: 
-  - authors
-tags: 
-  - chris-warner
-  - football
-authors: 
-  - admin
+thumbnail: img/warner-to-sign-copies-of-new-tailgaters-guide-to-sec.jpg
+categories:
+- authors
+tags:
+- chris-warner
+- football
+authors:
+- admin
+alttags: "Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field"
 ---
-
 “This is the book that will get SEC Football fans through the lockdowns! I call it the ‘Bible of SEC Football,’” said Dr. Warner, the “Professor of Tailgating,” and author of more than twenty tomes. “That’s because Southerner’s don’t think—they feel—and there’s nothing they feel more passionate about than SEC Football on Saturdays in the fall!”
 
 Chris Warner will be signing his newest book on SEC Football (Father's Day) along with several others he's written...in Fairhope on Saturday June 6, 2020 in Fairhope, 1 to 4.

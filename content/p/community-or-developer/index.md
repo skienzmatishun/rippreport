@@ -1,18 +1,18 @@
 ---
-title: "COMMUNITY OR DEVELOPER"
+title: COMMUNITY OR DEVELOPER
 date: 2017-04-08
-thumbnail: "img/community-or-developer.png"
-categories: 
-  - freaky-friday
-tags: 
-  - baldwin-insider
-  - catalyst
-  - fly-creek
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/community-or-developer.png
+categories:
+- freaky-friday
+tags:
+- baldwin-insider
+- catalyst
+- fly-creek
+- wilson
+authors:
+- ripp-report
+alttags: "Question mark icon representing ongoing debate over Fly Creek PUD sunset provision in Fairhope city council agenda"
 ---
-
 Sorry for the delay of the Ripp Report.
 
 CITY OF FAIRHOPE CITY COUNCIL AGENDA MONDAY, 10 APRIL 2017 - 6:00 PM. - CITY COUNCIL CHAMBER

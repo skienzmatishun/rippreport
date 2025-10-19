@@ -1,13 +1,13 @@
 ---
-title: "STRAW MAN"
+title: STRAW MAN
 date: 2019-08-21
-thumbnail: "img/straw-man.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/straw-man.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Man dressed as a scarecrow, symbolizing a straw man lawsuit revealing complex Baldwin County business partnerships"
 ---
-
 Well folks you are going to have to get a Lagniappe paper or go on line to read this article, this is called investigative reporting. The article is a little long but tells a big story.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/straw-man-lawsuit-reveals-complex-baldwin-business-partnerships/article_c12ba342-d0ee-53bf-9d15-6a24c5c18c4e.html" >}}

@@ -1,13 +1,13 @@
 ---
-title: "RUN AWAY TRAIN"
+title: RUN AWAY TRAIN
 date: 2018-12-20
-thumbnail: "img/run-away-train.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - ripp-report
+thumbnail: img/run-away-train.jpg
+categories:
+- citycouncil
+authors:
+- ripp-report
+alttags: "Vintage steam train traveling through Baldwin County, illustrating independent municipal systems"
 ---
-
 I apologize that The Ripp Report missed the last two Wonderful Wednesday’s, we should be back on schedule by the first of the new year.
 
 Baldwin County has 14 municipalities, 14 Mayors, a County Commission and 15 different Planning and Zoning departments, throughout Baldwin County, all work independent of each other.

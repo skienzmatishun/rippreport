@@ -1,23 +1,23 @@
 ---
-title: "LISTENING NOT READING"
+title: LISTENING NOT READING
 date: 2017-03-10
-thumbnail: "img/listening-not-reading.png"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - ethics-commission
-  - fairhope-airport
-  - hix
-  - pandora
-  - pittman
-  - rick-kingrea
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/listening-not-reading.png
+categories:
+- freaky-friday
+tags:
+- burrell
+- ethics-commission
+- fairhope-airport
+- hix
+- pandora
+- pittman
+- rick-kingrea
+- sullivan
+- wilson
+authors:
+- ripp-report
+alttags: "Dismissed documents with a large red X symbolize rejection of complaints against Fairhope council members, as discussed in..."
 ---
-
 The Fairhope City Council needs to do more reading of facts than listening to unsubstantiated statements by Council President Burrell. One thing needs to be made perfectly clear the issue of the complaint against Mr. Burrell and Mr. Hix is not going to disappear because Mr. Burrell dismisses it.
 
 We're just getting started.

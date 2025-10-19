@@ -1,16 +1,16 @@
 ---
-title: "GULF SHORES LAWSUIT & 2020"
+title: GULF SHORES LAWSUIT & 2020
 date: 2019-05-29
-thumbnail: "img/gulf-shores-lawsuit-2020.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - gulf-shores
-  - pete-sims
-authors: 
-  - admin
+thumbnail: img/gulf-shores-lawsuit-2020.png
+categories:
+- wonderful-wednesday
+tags:
+- gulf-shores
+- pete-sims
+authors:
+- admin
+alttags: "Gulf Shores skyline along the beach, reflecting citizen concerns over city development approvals and a pending lawsuit"
 ---
-
 Fairhope set the stage for citizens to fight back against City Government and elected officials who stop listening to the citizens. Now Gulf Shores citizens are filing a lawsuit and fighting back about an apartment complex the City of Gulf Shores approved over the objections of the area residents.
 
 {{< socialpreview url="https://rippreport.com/p/people-power-wake-up-gulf-shores/" >}}

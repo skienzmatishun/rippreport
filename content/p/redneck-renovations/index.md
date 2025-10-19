@@ -1,20 +1,20 @@
 ---
-title: "REDNECK RENOVATIONS"
+title: REDNECK RENOVATIONS
 date: 2021-01-24
-thumbnail: "img/redneck-renovations.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - catalyst
-  - csb
-  - elections
-  - fairhope-pier
-  - raines
-  - waterfront-project
-authors: 
-  - admin
+thumbnail: img/redneck-renovations.jpg
+categories:
+- citycouncil
+tags:
+- catalyst
+- csb
+- elections
+- fairhope-pier
+- raines
+- waterfront-project
+authors:
+- admin
+alttags: "A Redneck Repair Kit including WD-40 and duct tape, symbolizing a short-sighted fix for Fairhope’s waterfront park project"
 ---
-
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-discusses-revisions-to-drastic-park-proposal/article_f6e510e9-00e3-54c1-a4e3-b9513ead991b.html" >}}

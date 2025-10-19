@@ -1,23 +1,23 @@
 ---
-title: "CATALYST  “BIRDS OF THE SAME FEATHER”"
+title: CATALYST  “BIRDS OF THE SAME FEATHER”
 date: 2018-04-13
-thumbnail: "img/catalyst-birds-of-the-same-feather.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - chris-elliott
-  - jeb-ball
-  - joe-davis
-  - lake
-  - lynn-perry
-  - skip-gruber
-  - tucker-dorsey
-  - william-scully
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-birds-of-the-same-feather.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+- chris-elliott
+- jeb-ball
+- joe-davis
+- lake
+- lynn-perry
+- skip-gruber
+- tucker-dorsey
+- william-scully
+authors:
+- ripp-report
+alttags: "Orange puppet bird with crossed-out Catalyst label, symbolizing the political group described in this article"
 ---
-
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate and all four Baldwin County commission races.
 
 Catalyst’s plan is simple: Place as many candidates in as many positions as possible. That’s how shady deals like the county Mega-Site are made. At the helm of Catalyst is Mr. Scott Boone, Fairhope Councilman Kevin Boone’s son. That bad apple did not fall far from the tree. Catalyst boldly uses intimidation and bully tactics to discourage viable candidates or elected officials who may not agree with them. Catalyst supports Catalyst and that may why non-Catalyst candidates have seen their campaign signs disappear, in Fairhope.

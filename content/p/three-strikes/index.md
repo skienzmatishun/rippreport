@@ -1,18 +1,18 @@
 ---
-title: "THREE STRIKES"
+title: THREE STRIKES
 date: 2019-06-01
-thumbnail: "img/three-strikes.png"
-categories: 
-  - freaky-friday
-tags: 
-  - brewer
-  - burell
-  - dyas-triangle
-  - wilson
-authors: 
-  - admin
+thumbnail: img/three-strikes.png
+categories:
+- freaky-friday
+tags:
+- brewer
+- burell
+- dyas-triangle
+- wilson
+authors:
+- admin
+alttags: "Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations"
 ---
-
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is. It makes no difference what attorneys, city staff, citizens or the Mayor recommend to the council the council does the opposite and acts like a Dictatorship. It is all political and the Fairhope City Council is holding up the progress of the city.
 
 The first 1 hour and 15 minutes has the Mayor’s comments and public participation.

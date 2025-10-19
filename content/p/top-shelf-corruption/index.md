@@ -1,19 +1,19 @@
 ---
-title: "TOP SHELF CORRUPTION"
+title: TOP SHELF CORRUPTION
 date: 2022-07-09
-thumbnail: "img/top-shelf-corruption.jpg"
+thumbnail: img/top-shelf-corruption.jpg
 tags:
-  - Marshall
-  - McCallum
-  - Ethics Commission
-  - Albritton
-  - Regions Bank
-categories: 
-  - alabama
-authors: 
-  - admin
+- Marshall
+- McCallum
+- Ethics Commission
+- Albritton
+- Regions Bank
+categories:
+- alabama
+authors:
+- admin
+alttags: "Alabama state-shaped shot glass labeled Sweet Home, symbolizing potential blind spots in reporting on local politics"
 ---
-
 Read these articles and you will see why Alabama is head over heels, above any state, when it comes to political corruption. What makes it worse is the small minded press in the state. Journalist in Alabama appear to only cover certain news. They favor their own commentary and shy away from news “scoops” from another local news source. They are ignoring the elephants on Goat Hill.
 
 Where is Kyle Whitmire, John Archabald, John Sharp?

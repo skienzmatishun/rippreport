@@ -1,24 +1,24 @@
 ---
-title: "THE GOOD THE BAD AND THE UGLY"
+title: THE GOOD THE BAD AND THE UGLY
 date: 2019-02-08
-thumbnail: "img/the-good-the-bad-and-the-ugly.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - breland
-  - burrell
-  - catalyst
-  - kant
-  - mcsharry
-  - mcsharrys
-  - ronan
-  - triangle-lawsuit
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/the-good-the-bad-and-the-ugly.png
+categories:
+- freaky-friday
+tags:
+- boone
+- breland
+- burrell
+- catalyst
+- kant
+- mcsharry
+- mcsharrys
+- ronan
+- triangle-lawsuit
+- wilson
+authors:
+- ripp-report
+alttags: "Red die labeled Good, Bad, and Ugly, reflecting Fairhope’s progress despite challenges"
 ---
-
 ## FAIRHOPE THE GOOD
 
 Fairhope has come a long way in the last 2 and ½ years. Infrastructure, sewer problems and planning and zoning all have gotten the attention of the new administration. The employees, supervisors and city staff are the best qualified personal the city has ever employed. These accomplishments did not come easy and did not come with any assistance of the Catalyst Council, who has yet to accomplish anything significant. More and more of the citizens of Fairhope are beginning to understand that the council’s agenda has been obstruction and their goal is to overthrow the present government in 2020. Mayor Wilson and staff deserve to be commended on their accomplishments and their promise to put the city before politics.

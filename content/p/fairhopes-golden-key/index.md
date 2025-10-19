@@ -1,27 +1,27 @@
 ---
-title: "FAIRHOPE'S GOLDEN KEY"
+title: FAIRHOPE'S GOLDEN KEY
 date: 2020-08-24
-thumbnail: "img/fairhopes-golden-key.png"
-categories: 
-  - Special-Report
-tags: 
-  - boone
-  - brown
-  - burrell
-  - city-council
-  - election
-  - jack-burrell
-  - kevin-boone
-  - mayor
-  - municipal-attorney
-  - municipal-judge
-  - robert-brown
-  - sullivan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/fairhopes-golden-key.png
+categories:
+- Special-Report
+tags:
+- boone
+- brown
+- burrell
+- city-council
+- election
+- jack-burrell
+- kevin-boone
+- mayor
+- municipal-attorney
+- municipal-judge
+- robert-brown
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "City of Fairhope, Alabama seal featuring a pelican over water, relevant to municipal appointments discussed in the article"
 ---
-
 Tomorrow citizens of Fairhope will go to the polls, rain or shine. Most citizens do not understand some of the inner political workings of the city, like appointments.
 
 The Municipal Judge is appointed by the City Council, as well as the Municipal Attorney. Both these positions are hold overs from the past corrupt administration. Mayor Wilson pleaded with the council to consider a new appointment for each position. The council, led by Burrell for the last 8 years, ignored the citizens seeking change and immediately appointed Marcus McDowell as Attorney and reinstated Judge Snedeker.

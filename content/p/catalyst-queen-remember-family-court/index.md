@@ -1,16 +1,16 @@
 ---
-title: "CATALYST QUEEN - REMEMBER FAMILY COURT"
+title: CATALYST QUEEN - REMEMBER FAMILY COURT
 date: 2018-04-27
-thumbnail: "img/catalyst-queen-remember-family-court.jpg"
-categories: 
-  - family-court
-tags: 
-  - catalyst
-  - thomason
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-queen-remember-family-court.jpg
+categories:
+- family-court
+tags:
+- catalyst
+- thomason
+authors:
+- ripp-report
+alttags: "Judge Michelle Thomason depicted wearing a crown and black attire, linked to concerns about her court and Catalyst organiz..."
 ---
-
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott “baby” Boone. The first client that Catalyst signed up was none other than Judge Michelle Thomason.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-birds-of-the-same-feather/" >}}

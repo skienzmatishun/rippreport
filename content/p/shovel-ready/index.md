@@ -1,13 +1,13 @@
 ---
-title: "SHOVEL READY"
-thumbnail: "img/shovel-ready.png"
+title: SHOVEL READY
+thumbnail: img/shovel-ready.png
 date: 2019-01-16
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Shovel illustration symbolizing empty promises and lack of progress from Baldwin County Economic Development Alliance init..."
 ---
-
 Here we go again, a lot of hot air and no results. Baldwin County Economic Development Alliance, BCEDA, sounds important doesn’t it? The CEO Lee Lawson sure can blow smoke when it comes to the mega site or when he is recruited by politicians that want a “third party” to back up one of their schemes.
 
 The Ripp Report was present when Mr. Lawson was asked by the Fairhope City Council to render support for the Fairhope Airport and K-1 School. The interesting thing is the general public get 3 minutes to speak, Mr Lawson was allowed all the time he needed, or till he ran out of breath. On both occasions their was more BS than fact. It was a political show to bolster failing elected officials.

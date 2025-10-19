@@ -1,17 +1,17 @@
 ---
-title: "ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE"
+title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
 date: 2017-05-17
-thumbnail: "img/economic-development-baldwin-county-style.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - fairhope-airport
-  - mega-site
-authors: 
-  - ripp-report
+thumbnail: img/economic-development-baldwin-county-style.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- fairhope-airport
+- mega-site
+authors:
+- ripp-report
+alttags: "Sign advertising the vacant South Alabama Mega Site, a 3000-acre industrial property purchased by Baldwin County in 2012"
 ---
-
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site.
 
 {{< socialpreview url="https://web.archive.org/web/20170602023349/southalabamamegasite.com/" >}}

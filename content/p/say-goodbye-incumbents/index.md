@@ -1,22 +1,22 @@
 ---
-title: "SAY GOODBYE INCUMBENTS"
+title: SAY GOODBYE INCUMBENTS
 date: 2017-11-03
-thumbnail: "img/say-goodbye-incumbents.png"
-categories: 
-  - elections
-tags: 
-  - billy-jo-underwood
-  - callaghan
-  - chris-elliott
-  - gruber
-  - jeb-ball
-  - lake
-  - pittman
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/say-goodbye-incumbents.png
+categories:
+- elections
+tags:
+- billy-jo-underwood
+- callaghan
+- chris-elliott
+- gruber
+- jeb-ball
+- lake
+- pittman
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Multiple hands overlapping, symbolizing numerous candidates vying for Baldwin County Commissioner seats amid controversy"
 ---
-
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.
 
 {{< socialpreview url="https://rippreport.com/p/economic-development-baldwin-county-style/" >}}

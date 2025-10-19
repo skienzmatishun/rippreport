@@ -1,22 +1,22 @@
 ---
-title: "A GENTLEMAN’S RACE - JUDGE OF PROBATE"
+title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
 date: 2018-05-09
-thumbnail: "img/a-gentlemans-race-judge-of-probate.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - alan-lipscomb
-  - catalyst
-  - harry-dolive
-  - lynn-perry
-  - matt-mckenzie
-  - max-hansen
-  - probate-judge
-  - randy-davis
-authors: 
-  - ripp-report
+thumbnail: img/a-gentlemans-race-judge-of-probate.png
+categories:
+- wonderful-wednesday
+tags:
+- alan-lipscomb
+- catalyst
+- harry-dolive
+- lynn-perry
+- matt-mckenzie
+- max-hansen
+- probate-judge
+- randy-davis
+authors:
+- ripp-report
+alttags: "Judge Tim Russell retiring as Baldwin County Probate Judge, a vital role handling millions in assets"
 ---
-
 Judge Tim Russell is being “aged out” of the position of Probate Judge. He retires with a stellar reputation and sets the bar high for his successor. Judge of Probate for Baldwin County is a very important position which generated 40 million dollars in 2017. It is not required that the position be filled by an attorney, fact is, it would be best that is was NOT an attorney. There are five candidates, and they have been gentlemen and civil among themselves, so far.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/five-candidates-qualify-for-baldwin-county-probate-judge/article_c9b31955-9c45-5a3e-ba64-137e6558fdc7.html" >}}

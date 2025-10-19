@@ -1,22 +1,22 @@
 ---
-title: "FAUXHOPE OR FAIRHOPE"
+title: FAUXHOPE OR FAIRHOPE
 date: 2025-07-03
-thumbnail: "img/fauxhope-or-fairhope.png"
-categories: 
-  - elections
-tags: 
-  - City Council
-  - Mayor Sullivan
-  - Municipal Election
-  - Troy Vickers
-  - Joshua Gammon
-  - Tracy Gatewood
-  - David Luc
-  - George Ferniany
-authors: 
-  - ripp-report
+thumbnail: img/fauxhope-or-fairhope.png
+categories:
+- elections
+tags:
+- City Council
+- Mayor Sullivan
+- Municipal Election
+- Troy Vickers
+- Joshua Gammon
+- Tracy Gatewood
+- David Luc
+- George Ferniany
+authors:
+- ripp-report
+alttags: "Fairhope city clocks representing a challenge to the status quo in the upcoming municipal election"
 ---
-
 DON’T TAKE THE BAIT — VOTE FOR THE SLATE
 
 The Fairhope City Council and Mayor got a rude awakening the last day of qualifications for the upcoming municipal election on Aug. 26. The entire council has now got challengers and they are taking an approach to the election a little different than the last 5 election cycles. They are running as a slate of candidates. So what we have is the status quo being challenged by candidates representing change.

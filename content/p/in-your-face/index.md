@@ -1,18 +1,18 @@
 ---
-title: "IN YOUR FACE"
+title: IN YOUR FACE
 date: 2018-02-28
-thumbnail: "img/in-your-face.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - ethics-complaint
-  - fairhope-airport
-  - robert-brown
-authors: 
-  - ripp-report
+thumbnail: img/in-your-face.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- ethics-complaint
+- fairhope-airport
+- robert-brown
+authors:
+- ripp-report
+alttags: "Sign pointing Right and Wrong, illustrating concerns over accountability for city school funds versus airport funding"
 ---
-
 Well it seems Mr. Jack Burrell is now worried about the accountability of school funds donated by the city, approximately $350,000 a year. He is demanding accountability or he no longer will support school funds for Fairhope.
 
 Strange he never demanded accountability for the $500,000 the Airport gets for the less than 1% of the population. He made sure that when the appropriation was reduced to $350,000, that it covered the mortgage payment and that the Airport held the mortgage, not the city. But what the hell he gets free plane rides to golf tournaments and Fairhope citizens get the bill. The citizens citizens citizens also paid “come fly with me” Jack’s, attorney bill. The citizens are now paying for the second time for Burrell’s attorney fees.

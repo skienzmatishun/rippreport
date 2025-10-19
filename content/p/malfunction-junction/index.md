@@ -1,16 +1,16 @@
 ---
-title: "MALFUNCTION JUNCTION"
+title: MALFUNCTION JUNCTION
 date: 2020-01-08
-thumbnail: "img/malfunction-junction.jpg"
+thumbnail: img/malfunction-junction.jpg
 tags:
-  - Elections
-  - City Council
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+- Elections
+- City Council
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Dangerous Highway 98/Parker Road intersection in Fairhope, marked with warning signs, highlighted as a source of frequent ..."
 ---
-
 Highway 98 and Parker Road is Fairhope’s Malfunction Junction, compliments of a Catalyst City Council. Fairhope’s City Council supported the developer, and the developer supported them. A good ole boy deal that will impact every citizen in Fairhope and everyone else that goes through that intersection.
 
 This is a very dangerous intersection and accidents are common. Use extreme caution through this intersection. It is going to become more dangerous every month this year.

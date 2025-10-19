@@ -1,24 +1,24 @@
 ---
-title: "JACKASS JACK"
+title: JACKASS JACK
 date: 2020-11-27
-thumbnail: "img/jackass-jack.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - dyas-triangle
-  - fairhope-pier
-  - fly-creek-apartments
-  - jack-burrell
-  - k-1-center
-  - mayor-sullivan
-  - sullivan
-  - waterfront-project
-  - wilson
-authors: 
-  - admin
+thumbnail: img/jackass-jack.jpg
+categories:
+- citycouncil
+tags:
+- burrell
+- dyas-triangle
+- fairhope-pier
+- fly-creek-apartments
+- jack-burrell
+- k-1-center
+- mayor-sullivan
+- sullivan
+- waterfront-project
+- wilson
+authors:
+- admin
+alttags: "Mayor wearing a donkey mask, symbolizing criticism over Fairhope’s public gathering decision during health concerns"
 ---
-
 The Mayor of Fairhope and the City Council got hammered by the public, medical professionals and first responders over the city’s decision to have a large public gathering for the lighting of the trees.
 
 I must say that it was quite satisfying to see such a response from a community that often is not paying attention to city affairs.

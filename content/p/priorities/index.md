@@ -1,12 +1,12 @@
 ---
-title: "Priorities"
+title: Priorities
 date: 2022-04-17
-categories: 
-  - backstory-podcast
-authors: 
-  - admin
+categories:
+- backstory-podcast
+authors:
+- admin
+alttags: "Aerial view of Fort Morgan sewage treatment plant; public hearing scheduled over expansion proposal"
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23UW-uRcHIM" frameborder="0" allowfullscreen></iframe>
 
 If you watched this legislative session unfold in Alabama you have to be asking yourself: "What are our priorities?" And at the local level in Baldwin County: A new County Jail (damn near 1,000 beds) with a hiring plan that none of us have ever seen to include the hiring of 6 new Deputy Sheriffs and 6 new Correction Officers per year for 5 years. With County Commission support of all these new hires and facilities it is only logical that Baldwin Court Services will have increased volume and need to hire more people too (no conflicts of interest there, move along...).

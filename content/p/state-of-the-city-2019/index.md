@@ -1,20 +1,20 @@
 ---
-title: "STATE OF THE CITY - 2019"
+title: STATE OF THE CITY - 2019
 date: 2019-01-26
-thumbnail: "img/state-of-the-city-2019.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - bp-restore-act
-  - fairhope-fire-and-emergency-management
-  - hollinghead
-  - police-chief
-  - public-utilities
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/state-of-the-city-2019.jpg
+categories:
+- freaky-friday
+tags:
+- bp-restore-act
+- fairhope-fire-and-emergency-management
+- hollinghead
+- police-chief
+- public-utilities
+- wilson
+authors:
+- ripp-report
+alttags: "American flag waving above a civic center fountain and landscaped grounds, setting for the State of the City event"
 ---
-
 Congratulations to the Mayor, Department heads, employees and the production staff who produced the 2019 State of the City booklet. The State of the City was presented by the Mayor last night in the civic center. It was not just a speech but an expo. Tables lined the walls representing different departments, with department heads and employees present to answer questions. The atmosphere was positive, the employees moral was high and their sense of pride was obvious.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1KNKtjwigw" frameborder="0" allowfullscreen></iframe>

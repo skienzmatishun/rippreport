@@ -1,13 +1,13 @@
 ---
-title: "BLIND LEADING THE BLIND"
+title: BLIND LEADING THE BLIND
 date: 2019-09-18
-thumbnail: "img/blind-leading-the-blind.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/blind-leading-the-blind.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts"
 ---
-
  In Fairhope Transparency is being promoted by a Jester. His followers do not care about facts only the Jester spin. The Jester, Boone and Burrell are now calling for community engagement in reference to the Greeno Road Overlay District. Citizens agree and the Mayor has already implemented several public meetings, so what the hell are they talking about? DISTRACTION. The same three hypocrites had NO Community Engagement when they voted themselves full family insurance. They had NO community engagement for the 2.6 million dollar recreation land and they unanimously said NO to the black community when it came to recreation land. Remember that in 2020.
 
 {{< socialpreview url="https://rippreport.com/p/down-home-fairhope-jester/" >}}

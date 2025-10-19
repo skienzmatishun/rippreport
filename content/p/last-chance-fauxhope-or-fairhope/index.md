@@ -1,18 +1,18 @@
 ---
-title: "LAST CHANCE - FAUXHOPE OR FAIRHOPE"
+title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
 date: 2025-08-22
 categories:
-  - elections
-thumbnail: "img/last-chance-fauxhope-or-fairhope.png"
+- elections
+thumbnail: img/last-chance-fauxhope-or-fairhope.png
 tags:
-  - Elections
-  - City Council
-  - Burrell
-summary: "I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all."
+- Elections
+- City Council
+- Burrell
+summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
 authors:
-  - admin
+- admin
+alttags: "Fairhope City Council candidate Troy Vickers at a table with constituents, promoting strong values and local solutions"
 ---
-
 I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman <a href="https://www.google.com/search?q=site%3Arippreport.com+jack+burrell">Jack Burrell</a>. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all. But here is a few:
 
 You can go to The Ripp Report.com and use the Search bar for Jack Burrell and go back years and read about one incident after another where Mr. Burrell was the key player.

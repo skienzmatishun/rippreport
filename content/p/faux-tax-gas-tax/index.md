@@ -1,19 +1,19 @@
 ---
-title: "FAUX TAX, GAS TAX"
+title: FAUX TAX, GAS TAX
 date: 2019-03-06
-thumbnail: "img/faux-tax-gas-tax.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burt
-  - business-council-of-alabamama
-  - elliott
-  - page
-  - schools
-authors: 
-  - ripp-report
+thumbnail: img/faux-tax-gas-tax.png
+categories:
+- wonderful-wednesday
+tags:
+- burt
+- business-council-of-alabamama
+- elliott
+- page
+- schools
+authors:
+- ripp-report
+alttags: "Gas pump icon representing Governor Ivey’s announced special session for a gas tax increase"
 ---
-
 Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money for infrastructure two paragraphs later we find out the State Docks are going to get between 400,000 and 600,000 for dredging the ship channel.
 
 “And I want to be crystal clear -- this money will be scrutinized and watched over -- every single penny,” the governor said. “There will be strong accountability measures to make certain these monies are spent solely on transportation infrastructure. Period.”

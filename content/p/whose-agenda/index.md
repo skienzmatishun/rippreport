@@ -1,22 +1,22 @@
 ---
-title: "WHOSE AGENDA?"
+title: WHOSE AGENDA?
 date: 2019-03-08
-thumbnail: "img/whose-agenda.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - board-of-education
-  - burrell
-  - city-council
-  - fairhope-yacht-club
-  - fidler
-  - k-1-center
-  - kant
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/whose-agenda.jpg
+categories:
+- freaky-friday
+tags:
+- board-of-education
+- burrell
+- city-council
+- fairhope-yacht-club
+- fidler
+- k-1-center
+- kant
+- wilson
+authors:
+- ripp-report
+alttags: "Question mark icon representing unanswered questions about Fairhope City Council resolutions"
 ---
-
 Fairhope’s City Council agenda, March 8th, was loaded with resolutions that should catch the eye of the voters and raise many questions about the City Council, NOT informing the public about the facts surrounding each resolution.
 
 https://www.fairhopeal.gov/home/showdocument?id=21593

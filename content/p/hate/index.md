@@ -1,15 +1,15 @@
 ---
-title: "HATE"
+title: HATE
 date: 2017-07-07
-thumbnail: "img/hate.png"
-categories: 
-  - freaky-friday
-tags: 
-  - robert-brown
-authors: 
-  - ripp-report
+thumbnail: img/hate.png
+categories:
+- freaky-friday
+tags:
+- robert-brown
+authors:
+- ripp-report
+alttags: "Jester’s hat illustration referencing “come fly with me” Burrell and an ethics investigation within city council conflict"
 ---
-
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council's attorney. This is a common practice and is the way the city of Mobile handles similar situations. The threat of a lawsuit only arises if the council refuses and continues to obstruct the mayor. The council refused; however, when it came to “come fly with me” Burrell, when his plane was caught in an ethics investigation, the airport authority approved funds to hire an attorney for Jack. This is the council's definition of FAIRNESS. Take note.
 
 {{< socialpreview url="https://rippreport.com/p/help-fairness-killing-us/" >}}

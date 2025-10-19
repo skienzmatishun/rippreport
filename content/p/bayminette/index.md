@@ -1,13 +1,13 @@
 ---
-title: "BAY MINETTE CHRISTMAS AND THE HOG FARM"
+title: BAY MINETTE CHRISTMAS AND THE HOG FARM
 date: 2022-12-10
-thumbnail: "img/bayminette.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/bayminette.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Pigs stand in front of a Bay Minette water tower and American flag, referencing concerns about Mayor Wills’ leadership"
 ---
-
 Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.
 
 Mayor Wills of Bay Minette has seen his downtown area vacant, abandoned and disintegrate to shell of a once vibrant community. He is responsible and his yes sir city council for Bay Minette’s slow demise.

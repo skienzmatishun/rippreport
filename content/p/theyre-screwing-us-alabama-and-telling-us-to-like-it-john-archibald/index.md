@@ -1,15 +1,15 @@
 ---
-title: "“They're screwing us, Alabama. And telling us to like it.” -  John Archibald"
+title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
 date: 2018-03-23
-thumbnail: "img/theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald.png"
-categories: 
-  - freaky-friday
-tags: 
-  - ethics-commission
-authors: 
-  - ripp-report
+thumbnail: img/theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald.png
+categories:
+- freaky-friday
+tags:
+- ethics-commission
+authors:
+- ripp-report
+alttags: "Prohibited handshake with money: Symbolizing concerns over potential corruption and changes to Alabama ethics laws"
 ---
-
 The Alabama Ethics Commission has become the facilitator for corruption in the state, they now want to expand on their role. They want to change existing Ethics laws which would allow things, illegal today, to become legal, all because of the Mike Hubbard conviction.
 
 These changes send us backwards and turn a blind eye to elected officials using their elected office for personal gain. What is sad is who the sponsors of these changes are.

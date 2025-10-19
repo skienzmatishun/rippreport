@@ -1,17 +1,17 @@
 ---
-title: "NOW! YOU KNOW JACK"
+title: NOW! YOU KNOW JACK
 date: 2017-08-30
-thumbnail: "img/now-you-know-jack.jpg"
-categories: 
-  - citycouncil
-  - ethics
-tags: 
-  - burrell
-  - ethics-complaint
-authors: 
-  - ripp-report
+thumbnail: img/now-you-know-jack.jpg
+categories:
+- citycouncil
+- ethics
+tags:
+- burrell
+- ethics-complaint
+authors:
+- ripp-report
+alttags: "Jack Burrell posing in a cardboard box labeled “Jack in the Box” next to a private jet, referencing controversy within Fai..."
 ---
-
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the wrong road.
 
 https://youtu.be/kDUoTFc1gOs?t=3602

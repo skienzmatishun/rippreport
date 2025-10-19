@@ -1,19 +1,19 @@
 ---
-title: "QUESTIONS FOR FAIRHOPE"
+title: QUESTIONS FOR FAIRHOPE
 date: 2020-08-17
-thumbnail: "img/questions-for-fairhope.jpg"
-categories: 
-  - elections
-tags: 
-  - city-council
-  - dyas-triangle
-  - election
-  - kant
-  - sullivan
-authors: 
-  - admin
+thumbnail: img/questions-for-fairhope.jpg
+categories:
+- elections
+tags:
+- city-council
+- dyas-triangle
+- election
+- kant
+- sullivan
+authors:
+- admin
+alttags: "Question mark superimposed over a waterfront scene in Fairhope, referencing questions about mayoral candidate Sherry Sulli..."
 ---
-
 TOP 10 QUESTIONS for Sherry Sullivan and the general public.
 
 By now you all have heard these weak knee interviews of soft ball questions from Fairhope candidates running for office. In Fairhope we have a fired employee who sued the city, running for Mayor, for all the wrong reasons.

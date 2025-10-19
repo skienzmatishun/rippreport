@@ -1,17 +1,17 @@
 ---
-title: "LETHAL FORCE"
+title: LETHAL FORCE
 date: 2022-09-10
-thumbnail: "img/lethal-force.jpg"
+thumbnail: img/lethal-force.jpg
 tags:
-  - BCSO
-  - OJ French
-  - Bay Minette
-categories: 
-  - bcso
-authors: 
-  - admin
+- BCSO
+- OJ French
+- Bay Minette
+categories:
+- bcso
+authors:
+- admin
+alttags: "Sheriff’s SWAT vehicle against a solid background; highlights concerns about excessive police force in Baldwin County"
 ---
-
 Baldwin County has a serious problem that continues to escalate without any accountability. Police using excessive force when it is not necessary. The article below is the latest of a string of incidents dating back more than 5 years that has cost 7 lives, Mr. O J French’s death is number 8. Please show up and support the family and get involved.
 
 This article is NOT behind a paywall

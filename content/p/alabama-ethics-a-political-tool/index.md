@@ -1,19 +1,19 @@
 ---
-title: "ALABAMA ETHICS, A POLITICAL TOOL"
+title: ALABAMA ETHICS, A POLITICAL TOOL
 date: 2017-08-02
-thumbnail: "img/alabama-ethics-a-political-tool.jpg"
-categories: 
-  - ethics
-  - alabama
-tags: 
-  - burrell
-  - ethics-commission
-  - fairhope-airport
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/alabama-ethics-a-political-tool.jpg
+categories:
+- ethics
+- alabama
+tags:
+- burrell
+- ethics-commission
+- fairhope-airport
+- pittman
+authors:
+- ripp-report
+alttags: "Ethics complaints against Fairhope officials prompt investigation; sign points toward Right versus Wrong."
 ---
-
 In Fairhope, “come fly with me” Jack Burrell is facing ethics complaints as well as Fairhope Airport Authority board member Ray Hix, Fairhope Municipal Judge Snedeker’s partner. The airport authority authorized hiring an attorney to investigate those who filed the complaint. The city council has turned a blind eye to any facts or ethical violations refusing to conduct any internal investigation, despite compelling evidence of wrong doing. Instead the council members have issued false statements, “The ethics commission complaints against Airport board members have been ruled baseless.” Frequent flier Jack has been assured that if his bible buddy Pittman can get away with ethics violations, he should be able to as well.
 
 Why would the citizens of a community totally rely on a commission that has NEVER held anyone accountable in Baldwin County? It should be the responsibility of the community to do it’s own investigations and house cleaning, not allowing elected officials to hide behind the ethics commission or other elected officials.

@@ -1,22 +1,22 @@
 ---
-title: "PANDORA'S BOX"
+title: PANDORA'S BOX
 date: 2017-05-31
-thumbnail: "img/pandoras-box.png"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - conyers
-  - fidler
-  - pandora
-  - robert-brown
-  - robertson
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/pandoras-box.png
+categories:
+- citycouncil
+tags:
+- burrell
+- conyers
+- fidler
+- pandora
+- robert-brown
+- robertson
+- sullivan
+- wilson
+authors:
+- ripp-report
+alttags: "A figure opens a box releasing shadowy figures representing negative consequences, symbolizing Fairhope’s legal troubles"
 ---
-
 Today the phrase "to open Pandora's box" means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open all the evils fly out, only leaving the good.
 
 Fairhope has opened Pandora’s box thanks to the HR director and her $100,000 lawsuit against the city. Now the contents are slowly going to be public. The latest item out of the box is the claim of Sherry Sullivan and her wrongful termination.

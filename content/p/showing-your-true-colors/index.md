@@ -1,19 +1,19 @@
 ---
-title: "SHOWING YOUR TRUE COLORS"
+title: SHOWING YOUR TRUE COLORS
 date: 2016-09-02
-thumbnail: "img/showing-your-true-colors.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - fly-creek
-  - kant
-  - perfoming-arts-center
-  - planning-and-zoning
-  - preble-rish
-authors: 
-  - ripp-report
+thumbnail: img/showing-your-true-colors.jpg
+categories:
+- freaky-friday
+tags:
+- fly-creek
+- kant
+- perfoming-arts-center
+- planning-and-zoning
+- preble-rish
+authors:
+- ripp-report
+alttags: "Magnifying glass over a red handprint, symbolizing scrutiny of Mayor Kant’s transition and announcements"
 ---
-
 Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor, like much of the community, is slowly coming out of shock; and he’s still taking orders from his good ole boy club and a remora-like gaggle of entitled attorneys.
 
 The Mayor’s first transition move was his announcement of a Performing Arts Center:

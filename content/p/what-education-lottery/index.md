@@ -1,17 +1,17 @@
 ---
-title: "WHAT EDUCATION LOTTERY?"
+title: WHAT EDUCATION LOTTERY?
 date: 2019-04-26
-thumbnail: "img/what-education-lottery.jpg"
-categories: 
-  - elections
-tags: 
-  - albritton
-  - elliott
-  - lottery
-authors: 
-  - admin
+thumbnail: img/what-education-lottery.jpg
+categories:
+- elections
+tags:
+- albritton
+- elliott
+- lottery
+authors:
+- admin
+alttags: "Scattered US hundred dollar bills against a dark background, symbolizing Alabama lottery negotiations and financial incent..."
 ---
-
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican legislators. Money, baby, is what it is all about. The supporters of this bill feel that they still have the moral high ground by preventing any additional gaming while stuffing their pockets full of Indian money.
 
 Two separate lotto bills were introduced:

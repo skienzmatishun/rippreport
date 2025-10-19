@@ -1,18 +1,18 @@
 ---
-title: "READING IN THE RAIN"
+title: READING IN THE RAIN
 date: 2020-09-15
-thumbnail: "img/reading-in-the-rain.png"
-categories: 
-  - terrific-tuesday
-tags: 
-  - alabama
-  - chris-warner
-  - review
-  - thomas-gallion
-authors: 
-  - admin
+thumbnail: img/reading-in-the-rain.png
+categories:
+- terrific-tuesday
+tags:
+- alabama
+- chris-warner
+- review
+- thomas-gallion
+authors:
+- admin
+alttags: "An open book sheltered by an umbrella, symbolizing reading as protection from corruption and deceptive narratives in politics"
 ---
-
 You're stuck inside. How about doing a little reading? It may educate you on why Alabama is number one, in corruption and religion, in the United States. That combination labels us as hypocrites. You see religion is the tool of crooked politicians and they use the church to lure you into false narratives for their personal gain.
 
 My father told me once that if a politician tells you he is a christian and he wants to be your friend, run like hell.

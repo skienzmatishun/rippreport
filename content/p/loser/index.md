@@ -1,13 +1,13 @@
 ---
-title: "LOSER"
+title: LOSER
 date: 2018-10-19
-thumbnail: "img/loser.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/loser.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Scrabble tiles spelling LOSER amidst a scattered pile, symbolizing challenges to injustice and corruption investigated b..."
 ---
-
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys, we can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.
 
 Our U.S. legal system and Constitution affords us the ability to challenge what we see as illegal, unconstitutional, unethical or corrupt. The Ripp Report utilizes this right to challenge those who consider themselves above the law.

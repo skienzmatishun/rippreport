@@ -1,18 +1,18 @@
 ---
-title: "GOAT HILL PIGGY-BANK"
+title: GOAT HILL PIGGY-BANK
 date: 2019-03-13
-thumbnail: "img/goat-hill-piggy-bank.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - county-commissioner
-  - elliott
-  - gulf-shores
-  - orange-beach
-authors: 
-  - ripp-report
+thumbnail: img/goat-hill-piggy-bank.jpg
+categories:
+- wonderful-wednesday
+tags:
+- county-commissioner
+- elliott
+- gulf-shores
+- orange-beach
+authors:
+- ripp-report
+alttags: "Piggy bank receiving coins, symbolizing Baldwin County funds allegedly diverted for Goat Hill and tax increases"
 ---
-
 Baldwin County is the piggy-Bank for Goat Hill supported by the same elected officials, we elected, to represent us. The Tax Man Chris Elliott, as a county commissioner, taxed the citizens of Baldwin County without any vote of his constituents. Mr Elliott then raided the 1% school tax to the tune of 200,000 dollars a year, for the county. He is living up to his reputation as the Tax Man by supporting the gas tax, again without any vote by the public. Over 80% of the voters opposed the gas tax. Did our elected officials listen? Hell NO. This is the political plan, tax them right after being elected, because the voters will forget in 4 years.
 
 Who does the Gas Tax hurt the most?

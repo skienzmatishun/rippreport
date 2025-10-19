@@ -1,21 +1,21 @@
 ---
-title: "WRONGFUL CONVICTION"
+title: WRONGFUL CONVICTION
 date: 2022-10-05
-thumbnail: "img/wrongful-conviction.jpg"
+thumbnail: img/wrongful-conviction.jpg
 tags:
-  - BCSO
-  - Murray Lawrence Jr
-  - Hoss Mack
-  - Alabama Supreme Court
-  - Nodine
-  - Jonathan Victor
-categories: 
-  - bcso
-  - mljr
-authors: 
-  - admin
+- BCSO
+- Murray Lawrence Jr
+- Hoss Mack
+- Alabama Supreme Court
+- Nodine
+- Jonathan Victor
+categories:
+- bcso
+- mljr
+authors:
+- admin
+alttags: "Jail cell bars viewed from within, referencing Baldwin County’s history of withholding information in cases like Murray Bu..."
 ---
-
 The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Jonathan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.
 
 {{< socialpreview url="https://rippreport.com/p/biased-investigation/" >}}

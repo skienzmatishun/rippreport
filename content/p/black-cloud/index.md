@@ -1,13 +1,13 @@
 ---
-title: "BLACK CLOUD"
+title: BLACK CLOUD
 date: 2021-10-08
-thumbnail: "img/black-cloud.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/black-cloud.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues"
 ---
-
 The most favorite words of a politician or elected official in Baldwin County are Transparency and Accountability, The most lacking quality of life issue, in Baldwin County, is Transparency and Accountability.
 
 Listed below are articles exposing land fraud, Judicial voter disenfranchisement, Ethics violations, by no less than the Executive Director of Ethics, Baldwin County Sheriff Office Lawsuits and nine innocent lives lost. Then there is the scared cow of Alabama, the U of A and a culture of silence.

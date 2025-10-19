@@ -1,13 +1,13 @@
 ---
-title: "RUNOFF"
+title: RUNOFF
 date: 2020-03-05
-thumbnail: "img/runoff.png"
-categories: 
-  - elections
-authors: 
-  - admin
+thumbnail: img/runoff.png
+categories:
+- elections
+authors:
+- admin
+alttags: "Ballot being dropped into a voting box, reflecting the close First Congressional District race between Carl and Hightower"
 ---
-
 The First Congressional District race is now down to two, Jerry Carl and Bill Hightower. Carl edged out Hightower overall by 1226 votes. Hightower the CATALYST candidate scored 3126 votes more than Carl in Baldwin County. CATALYST predicted 10,000 votes and fell short by more than 66%, this is a blow to their ego and evidence to their organization disintegrating.
 
 CATALYST home is Fairhope and they claim all of Baldwin County as their turf. Times are changing and Baldwin County is waking up to CATALYST and their ambitions of total political power.

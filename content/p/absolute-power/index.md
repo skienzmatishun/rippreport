@@ -1,21 +1,21 @@
 ---
-title: "ABSOLUTE POWER"
+title: ABSOLUTE POWER
 date: 2020-08-28
-thumbnail: "img/absolute-power.png"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - catalyst
-  - city-attorney
-  - election
-  - jack-burrell
-  - mayor-sullivan
-  - sullivan
-authors: 
-  - admin
+thumbnail: img/absolute-power.png
+categories:
+- freaky-friday
+tags:
+- burrell
+- catalyst
+- city-attorney
+- election
+- jack-burrell
+- mayor-sullivan
+- sullivan
+authors:
+- admin
+alttags: "Skeleton reaching for a suit on a hanger behind open doors, symbolizing corruption and loss of power in Fairhope politics"
 ---
-
 > Power corrupts absolute power corrupts absolutely
 
 Between 1837 and 1869, he was known as Sir John Dalberg-Acton, 8th Baronet. He is perhaps best known for the remark, "Power tends to corrupt, and absolute power corrupts absolutely."

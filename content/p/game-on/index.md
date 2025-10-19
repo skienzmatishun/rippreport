@@ -1,18 +1,18 @@
 ---
-title: "GAME ON"
+title: GAME ON
 date: 2016-07-20
-thumbnail: "img/game-on.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - harry-still
-  - kant
-  - lake
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/game-on.jpg
+categories:
+- wonderful-wednesday
+tags:
+- harry-still
+- kant
+- lake
+- wilson
+authors:
+- ripp-report
+alttags: "Bald eagle head against an American flag background, symbolizing civic duty and encouraging voters to participate in upcom..."
 ---
-
 This is the first day after qualification for municipal elections. During the campaign, we will endorse certain candidates that we feel put public service before personal interests. Our endorsement does not come lightly and we intend to follow up after elections to see if successful candidates live up to their word. **Please VOTE**. Check and see if you are properly registered to vote. It will only take a few minutes at the satellite courthouse in Fairhope, Board of Registrar’s.
 
 * * *

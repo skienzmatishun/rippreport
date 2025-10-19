@@ -1,16 +1,16 @@
 ---
-title: "YOU'RE FIRED"
+title: YOU'RE FIRED
 date: 2016-07-29
-thumbnail: "img/you-re-fired.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - ethics-commission
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/you-re-fired.jpg
+categories:
+- freaky-friday
+tags:
+- ethics-commission
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Donald Trump pointing while yelling Youre Fired! referencing potential ethics investigations"
 ---
-
 To Alabama Ethics Commission Statement of Facts: July 29, 2016
 
 I reference to: [http://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/](http://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/), in particular paragraphs 15 and 16. I realize the Commission pays little attention to print media and you rely on your own investigation to reach a determination, or not, as to any violations of Ethics. I do however hope the very good investigative reporting of Eric Mann, Lagniappe, assists you in what appears a rather obvious conclusion.

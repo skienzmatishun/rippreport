@@ -1,13 +1,13 @@
 ---
-title: "DAPHNE DECISION"
+title: DAPHNE DECISION
 date: 2018-12-07
-thumbnail: "img/daphne-decision.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/daphne-decision.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat"
 ---
-
 ## NOTICE OF CITY COUNCIL VACANCY
 
 The Daphne City Council is now accepting resumes to fill the Council seat that was vacated on November 13th by District 7 Councilman Joe Davis, III. The City Council intends to interview applicants during a special-called meeting beginning at 6:30pm on December 10, 2018, in Council Chambers at Daphne City Hall.

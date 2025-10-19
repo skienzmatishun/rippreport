@@ -1,16 +1,16 @@
 ---
-title: "LEE COUNTY NO-JUSTICE CENTER"
+title: LEE COUNTY NO-JUSTICE CENTER
 date: 2024-03-11
-thumbnail: "img/lee-county-no-justice-center.jpg"
+thumbnail: img/lee-county-no-justice-center.jpg
 tags:
-  - Lee County
-  - Auburn PD
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+- Lee County
+- Auburn PD
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme..."
 ---
-
 Have you noticed how a lot of communities are now building Justice Centers? Sounds like a good idea until you look a little closer and see the fraternity atmosphere. It is the police domain just like the courthouses. The police are in charge and they are armed to the teeth, where no one is armed? The Judges feel secure with such protection as well as the District Attorney and their minions. Pay attention and you will see all the same people at lunch somewhere, or surly in Church.
 
 Now consider this, let’s say you get sideways from the police. It is your word against the police. Court will be held in the Justice Center. The same Judge is protected by the police and the same prosecutor and District Attorney that work with police on a daily basis. Depending on the charges there may be more police in the courtroom as spectators than witnesses. Police are often allowed in courtrooms as spectators when others may be denied especially when police actions are being challenged.

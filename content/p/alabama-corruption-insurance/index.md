@@ -1,17 +1,17 @@
 ---
-title: "ALABAMA CORRUPTION INSURANCE"
+title: ALABAMA CORRUPTION INSURANCE
 date: 2020-12-17
-thumbnail: "img/alabama-corruption-insurance.jpg"
-categories: 
-  - ethics
-  - alabama
-tags: 
-  - alabama
-  - columbia
-authors: 
-  - admin
+thumbnail: img/alabama-corruption-insurance.jpg
+categories:
+- ethics
+- alabama
+tags:
+- alabama
+- columbia
+authors:
+- admin
+alttags: "Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti..."
 ---
-
 Why is Alabama so corrupt?
 
 Because all the Alabama government agencies or elected officials refuse to do their jobs.

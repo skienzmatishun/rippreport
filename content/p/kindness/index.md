@@ -1,13 +1,13 @@
 ---
-title: "RANDOM ACTS OF KINDNESS"
+title: RANDOM ACTS OF KINDNESS
 date: 2018-12-26
-thumbnail: "img/kindness.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/kindness.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Peace symbol representing kindness and caring, encouraging acts of generosity as described in this article"
 ---
-
 ## RANDOM ACTS OF KINDNESS
 
 1. Do something nice for someone you know or don't know.

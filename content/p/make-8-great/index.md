@@ -1,16 +1,16 @@
 ---
-title: "MAKE 8 GREAT"
+title: MAKE 8 GREAT
 date: 2021-10-16
-thumbnail: "img/make-8-great.jpg"
+thumbnail: img/make-8-great.jpg
 tags:
-  - Elections
-  - Zoning
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+- Elections
+- Zoning
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Map highlighting proposed Planning District 8, potentially avoiding annexation issues faced by Fairhope’s African American..."
 ---
-
 The new proposed planning district 8, is long overdue. For many years Fairhope has had a policy of annexing property, only if a property owner made a request. This was a clever way for Fairhope to avoid any annexation of the African American community. Don’t believe me! Look very carefully at the map, it is clear as day.
 
 One thing that is a fact, Fairhope has a dismal and embarrassing reputation about how it treats their neighbors. Planning District 8 is an option to annexation into Fairhope. Govern yourself you do not need Fairhope.

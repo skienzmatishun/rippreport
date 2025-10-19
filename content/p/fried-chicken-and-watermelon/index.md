@@ -1,13 +1,13 @@
 ---
-title: "FRIED CHICKEN AND WATERMELON"
+title: FRIED CHICKEN AND WATERMELON
 date: 2021-11-04
-thumbnail: "img/fried-chicken-and-watermelon.jpg"
-categories: 
-  - thursday-thunder
-authors: 
-  - admin
+thumbnail: img/fried-chicken-and-watermelon.jpg
+categories:
+- thursday-thunder
+authors:
+- admin
+alttags: "Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu..."
 ---
-
 Tonight the Fairhope Rotary Youth Club will be hosting Fairhope Council and members of the so called the Fairhope Comprehensive Plan.
 
 What a Joke!

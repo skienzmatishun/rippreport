@@ -1,13 +1,13 @@
 ---
-title: "CONGRATULATIONS FAIRHOPE"
+title: CONGRATULATIONS FAIRHOPE
 date: 2019-01-04
-thumbnail: "img/congratulations-fairhope.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/congratulations-fairhope.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Fairhope, Alabama: American flag waves over a fountain in downtown area, celebrating approved BP RESTORE project funding"
 ---
-
 After many years, countless meetings, most very boring, perseverance, and well written proposals, Fairhope will finally see serious BP money.
 
 ## All Fairhope BP 'RESTORE' Projects Approved

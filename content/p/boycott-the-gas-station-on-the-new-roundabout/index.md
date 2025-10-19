@@ -1,20 +1,20 @@
 ---
 title: "BOYCOTT: The Gas Station on the New Roundabout"
 date: 2017-05-24
-thumbnail: "img/boycott-the-gas-station-on-the-new-roundabout.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - chris-elliott
-  - fairhope-schools
-  - kant
-  - pittman
-  - roundabout
-authors: 
-  - ripp-report
+thumbnail: img/boycott-the-gas-station-on-the-new-roundabout.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- chris-elliott
+- fairhope-schools
+- kant
+- pittman
+- roundabout
+authors:
+- ripp-report
+alttags: "New gas station under construction on a roundabout in Fairhope, Alabama; criticized for poor planning and safety concerns"
 ---
-
 Fairhope has been cited for many national awards for its beauty. But, it deserves awards for more than just flowers. Placing a gas station located on a safety roundabout in a residential area on the city’s gateway, Fairhope Avenue and 13, only two blocks from three other filling stations/convenience stores, certainly will be an American oddity; and altogether deserving of an Onion American Planning award. This is so bad in terms of safety negligence that it even beats building a fire station on a dead end road (Parker); or having an open sewer line regularly discharge into Mobile Bay, along with all of Trip Pittman and Tim Kant’s expensive BP anchors.
 
 The Fairhope City Council unanimously refuses to support economic and community development as a department. However, it unanimously approved a $40 thousand handshake deal our previous mayor made, without any invoice, work order or paperwork. Jack “Come Fly With Me” Burrell contends there is no good ole boy network in Fairhope. The council’s actions speak otherwise.

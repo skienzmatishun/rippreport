@@ -1,13 +1,13 @@
 ---
-title: "HORRIBLE HURRICANE HARVEY"
+title: HORRIBLE HURRICANE HARVEY
 date: 2017-09-01
-thumbnail: "img/horrible-hurricane-harvey.jpg"
-categories: 
-  - events
-authors: 
-  - ripp-report
+thumbnail: img/horrible-hurricane-harvey.jpg
+categories:
+- events
+authors:
+- ripp-report
+alttags: "Hurricane over Texas and Louisiana, showing storm clouds impacting coastal areas after devastating floods"
 ---
-
 Get down on your knees and pray for the folks in Texas and Louisiana. Thousands of people lost everything and many more thousands will be affected by the devastating effects of flood water.
 
 Please explore a way that you may contribute to those in desperate need of help. Many agencies, churches and organizations will be formed throughout Baldwin County that will be sending different items to storm victims. The Red Cross is the best agency to contribute cash, check, credit cards or money orders. The magnitude of the storm and amount of damage caused by flooding will literally take years to repair and their will be those who have no resources to put their lives back together, they have lost everything and are dependent on help.

@@ -1,16 +1,16 @@
 ---
-title: "STINKY BUSINESS"
-thumbnail: "img/stinky-business.jpg"
+title: STINKY BUSINESS
+thumbnail: img/stinky-business.jpg
 date: 2022-05-19
 tags:
-  - Sewer
-  - BCSS
-categories: 
-  - thursday-thunder
-authors: 
-  - admin
+- Sewer
+- BCSS
+categories:
+- thursday-thunder
+authors:
+- admin
+alttags: "Baldwin County Sewer mascot: A cartoon water droplet character promoting Crystal Clean, associated with a controversial ..."
 ---
-
 Baldwin County Sewer is the only, private, unregulated sewer utility in Alabama. The County commission has refused to tackle the issue of BCSS being unregulated. BCSS uses the county right of ways free and developments on farmland can use BCSS for subdivisions, which expands development sprawl. They have raised rates at will.
 
 BCSS has been recently involved in several lawsuits that have involved land and business fraud, among other charges. One of the principals of the BCSS resides in Costa Rica, he is not interested in what is happening in Gulf Shores.

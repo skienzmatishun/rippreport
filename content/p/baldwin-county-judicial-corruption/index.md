@@ -1,15 +1,15 @@
 ---
-title: "Baldwin County Judicial Corruption"
+title: Baldwin County Judicial Corruption
 date: 2023-12-07
-thumbnail: "img/baldwin-county-judicial-corruption.jpg"
-summary: "Citizens in Baldwin County have questioned the Sheriff's office for mishandling criminal cases and deaths, alleging a cover-up by the department and a corrupt judicial system that has wrongly convicted at least one person. New evidence suggests the Sheriff, District Attorney, and a Judge conspired to suppress evidence that exonerates a man incarcerated for 20 years."
-categories: 
-  - thursday-thunder
-  - dwtd
-authors: 
-  - admin
+thumbnail: img/baldwin-county-judicial-corruption.jpg
+summary: Citizens in Baldwin County have questioned the Sheriff's office for mishandling criminal cases and deaths, alleging a cover-up by the department and a corrupt judicial system that has wrongly convicted at least one person. New evidence suggests the Sheriff, District Attorney, and a Judge conspired to suppress evidence that exonerates a man incarcerated for 20 years.
+categories:
+- thursday-thunder
+- dwtd
+authors:
+- admin
+alttags: "Close-up portrait of a man, potentially related to concerns about Baldwin County Sheriff’s Office accountability"
 ---
-
 The Baldwin County Sheriffs office has consistently, for 20 years, had criminal cases and loss of life cases, questioned by citizens. The sheriffs office uses its “internal” Major Crimes Division to gloss over all complaints. Sheriff deputies are never found to have been responsible, EVER. No accountability and no transparency. Hoss Mack promised the County Commission that body and car cameras, $600,000.00 worth, were for the public as well as the police. The same Sheriff either does not release any camera footage or releases edited footage.
 
 

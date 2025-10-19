@@ -1,15 +1,15 @@
 ---
-title: "ALL SMOKE AND MIRRORS"
+title: ALL SMOKE AND MIRRORS
 date: 2017-02-17
-thumbnail: "img/all-smoke-and-mirrors.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - fairhope-airport
-authors: 
-  - ripp-report
+thumbnail: img/all-smoke-and-mirrors.jpg
+categories:
+- freaky-friday
+tags:
+- fairhope-airport
+authors:
+- ripp-report
+alttags: "A playing card floats above a magician’s hat, symbolizing misleading promises and empty development claims in Baldwin County"
 ---
-
 The Baldwin County Mega-Site and the Fairhope Airport Authority have a lot in common. They both are all smoke and mirrors. The Representative of each will give all kinds of useless data and tell you how Baldwin is the fastest growing county in Alabama and opportunity is right around the corner.
 
 In the case of the Mega-Site, Baldwins 3000 acres, that cost 32 million, [http://www.lagniappemobile.com/south-alabama-mega-site-remains-vacant-despite-development-coups/](http://www.lagniappemobile.com/south-alabama-mega-site-remains-vacant-despite-development-coups/) five years have gone by with the same sales pitch— just no buyers.

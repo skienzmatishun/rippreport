@@ -1,20 +1,20 @@
 ---
-title: "CHUCKIE CHEEZE"
+title: CHUCKIE CHEEZE
 date: 2018-04-04
-thumbnail: "img/chuckie-cheeze.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - baldwin-insider
-  - burrell
-  - chucky
-  - fairhope-airport
-  - kevin-boone
-  - tatumville
-authors: 
-  - ripp-report
+thumbnail: img/chuckie-cheeze.jpg
+categories:
+- wonderful-wednesday
+tags:
+- baldwin-insider
+- burrell
+- chucky
+- fairhope-airport
+- kevin-boone
+- tatumville
+authors:
+- ripp-report
+alttags: "Chucky doll portrait symbolizing poor journalism and political manipulation in Baldwin County media"
 ---
-
 April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good journalist, Connie Baggett and Mike Odom were two of the best. What we have been left with is more than embarrassing, it is a travesty of free speech and journalism.
 
 The Gulf Coast tabloid, The Courier, has deteriorated into a tool for Catalyst, a political cancer. The editor has bitten the Catalyst apple and has berated and embarrassed Fairhope as a community. Fairhope should ask themselves, who in the Fairhope Public Library thought that Chuckee should be the one to address Freedom of Speech. Who in the Fairhope library has a Catalyst agenda and thought that Chuckee attacking the Mayor and Fairhope was a good idea?

@@ -1,13 +1,13 @@
 ---
-title: "CATALYST PARTY"
-thumbnail: "img/catalyst-party.png"
+title: CATALYST PARTY
+thumbnail: img/catalyst-party.png
 date: 2020-04-16
-categories: 
-  - thursday-thunder
-authors: 
-  - admin
+categories:
+- thursday-thunder
+authors:
+- admin
+alttags: "Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca..."
 ---
-
 The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting subjects. To save you a little time check in at 12:40 minute mark, beginning of #7.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VUCFE3AdxL4" frameborder="0" allowfullscreen></iframe>

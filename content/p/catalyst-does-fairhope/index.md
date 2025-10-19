@@ -1,17 +1,17 @@
 ---
-title: "CATALYST DOES FAIRHOPE"
+title: CATALYST DOES FAIRHOPE
 date: 2018-04-20
-thumbnail: "img/catalyst-does-fairhope.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - fly-creek
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-does-fairhope.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+- fly-creek
+- kant
+authors:
+- ripp-report
+alttags: "No Catalyst symbol: Red circle with a diagonal line through it over the word CATALYST, referencing Facebooks action aga..."
 ---
-
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to Facebook who took us offline for three days to investigate the complaint. Catalyst has no sense of humor.
 
 The Ripp Report would like thank those who made recent donations to our cause.

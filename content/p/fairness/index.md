@@ -1,20 +1,20 @@
 ---
-title: "FAIRNESS"
+title: FAIRNESS
 date: 2017-04-14
-thumbnail: "img/fairness.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - angelo-corte
-  - burrell
-  - fly-creek
-  - pittman
-  - robert-brown
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fairness.jpg
+categories:
+- citycouncil
+tags:
+- angelo-corte
+- burrell
+- fly-creek
+- pittman
+- robert-brown
+- wilson
+authors:
+- ripp-report
+alttags: "Site plan rendering shows proposed Fly Creek Apartments complex, surrounded by trees, awaiting council approval for a mult..."
 ---
-
 For the 10th time citizens packed the city council chambers to discuss the Fly Creek Apartments and again their comments fell on deaf ears. Four councilmen voted for the extension of the sunset clause that allows the developer another 120 days to get a multiple occupancy site plan.
 
 WHY? Well, three of the council stated they labored over the decision and even prayed about it. You ever notice how many times religion and God come up with political decisions and how God must be responsible! Then throw in the word FAIRNESS, mix it up with a bunch of senseless gibberish and you have the perfect formula of B--- Sh--.

@@ -1,17 +1,17 @@
 ---
-title: "NO JUSTICE"
+title: NO JUSTICE
 date: 2024-01-26
-thumbnail: "img/no-justice.jpg"
+thumbnail: img/no-justice.jpg
 tags:
-  - BCSO
-  - Murray Lawrence Jr
-  - Hoss Mack
-categories: 
-  - bcso
-authors: 
-  - admin
+- BCSO
+- Murray Lawrence Jr
+- Hoss Mack
+categories:
+- bcso
+authors:
+- admin
+alttags: "Scales of justice against a dark background, symbolizing questions about fairness in the Murray Lawrence case investigation"
 ---
-
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html" >}}

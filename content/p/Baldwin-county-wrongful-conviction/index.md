@@ -1,15 +1,15 @@
 ---
-title: "BALDWIN COUNTY WRONGFUL CONVICTION"
-date: 2023-10-07T00:00:00Z
-thumbnail: "img/baldwin-county-wrongful-conviction.jpg"
-summary: "The following is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system."
-categories: 
-  - freaky-friday
-  - dwtd
-authors: 
-  - admin
+title: BALDWIN COUNTY WRONGFUL CONVICTION
+date: 2023-10-07 00:00:00+00:00
+thumbnail: img/baldwin-county-wrongful-conviction.jpg
+summary: The following is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system.
+categories:
+- freaky-friday
+- dwtd
+authors:
+- admin
+alttags: "Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption"
 ---
-
 The video below is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system. PLEASE SHARE
 
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3kukqp/?pub=4" frameborder="0" allowfullscreen></iframe>

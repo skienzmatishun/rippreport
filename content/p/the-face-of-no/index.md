@@ -1,13 +1,13 @@
 ---
-title: "THE FACE OF NO"
+title: THE FACE OF NO
 date: 2018-11-01
-thumbnail: "img/the-face-of-no.jpg"
-categories: 
-  - thursday-thunder
-authors: 
-  - ripp-report
+thumbnail: img/the-face-of-no.jpg
+categories:
+- thursday-thunder
+authors:
+- ripp-report
+alttags: "Man in suit hunched over, head resting on knees—symbolizing frustration with Fairhope’s governance issues detailed in this..."
 ---
-
 ## FAIRHOPE
 
 For 12 years The Ripp Report has been reporting on issues related to Fairhope. One thing that is perfectly obvious is that the way Fairhope has been governed, has not worked. It has not worked for the citizens, however it has been an overwhelming success for special interests, including Judges and CORRUPT elected officials.

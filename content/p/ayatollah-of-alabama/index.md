@@ -1,15 +1,15 @@
 ---
-title: "“Ayatollah of Alabama”"
+title: “Ayatollah of Alabama”
 date: 2017-12-01
-thumbnail: "img/ayatollah-of-alabama.png"
-categories: 
-  - alabama
-tags: 
-  - moore
-authors: 
-  - ripp-report
+thumbnail: img/ayatollah-of-alabama.png
+categories:
+- alabama
+tags:
+- moore
+authors:
+- ripp-report
+alttags: "Roy Moore speaking into a microphone, despite past constitutional violations and removal from office"
 ---
-
 Roy Moore disqualified himself long before the sexual allegations were levied at him, by multiple and creditable sources. Moore violated his oath of office, twice, and was removed from office for violating the same constitutional rights he swore to protect. Yet he uses the same Constitution as his rally cry for votes. This is a fact not fake news, yet some voters are willing to overlook Moore’s defiance for the law, putting party first, at all costs.
 
 https://www.alabamacounties.org/wp-content/uploads/2014/10/OathofOffice.pdf

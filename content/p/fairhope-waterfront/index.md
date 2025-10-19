@@ -1,18 +1,18 @@
 ---
-title: "FAIRHOPE WATERFRONT"
+title: FAIRHOPE WATERFRONT
 date: 2020-06-27
-thumbnail: "img/fairhope-waterfront.png"
-categories: 
-  - citycouncil
-tags: 
-  - catalyst
-  - fairhope-pier
-  - fairhope-waterfront
-  - Waterfront
-authors: 
-  - admin
+thumbnail: img/fairhope-waterfront.png
+categories:
+- citycouncil
+tags:
+- catalyst
+- fairhope-pier
+- fairhope-waterfront
+- Waterfront
+authors:
+- admin
+alttags: "Fairhope Waterfront proposal rendering showing parkland, pier, and surrounding area; a citizen-driven plan facing council ..."
 ---
-
 The Fairhope Waterfront project started off with, City Council approval, of $500,000.00 for engineering and conceptual plans based on community input. Now the Council is saying this is the Mayor’s plan. Nothing could be further from the truth, 493 people filled out the questionnaire and dozens attended numerous meetings, this is the citizens plan.
 
 The latest article in Lagniappe has the Mayor “citing concerns from citizens who were unfamiliar with the two year old proposal, until recently”. You would never hear the CATALYST council “willing to extend public participation so the whole community had the opportunity to speak”. NEVER.

@@ -1,13 +1,13 @@
 ---
-title: "HONEY BEES"
+title: HONEY BEES
 date: 2019-10-10
-categories: 
-  - wonderful-wednesday
-thumbnail: "img/honey-bees.png"
-authors: 
-  - admin
+categories:
+- wonderful-wednesday
+thumbnail: img/honey-bees.png
+authors:
+- admin
+alttags: "Fairhope Council members Burrell, Boone, and Brown in bee costumes, referencing concerns about potential personal gain"
 ---
-
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 
 On May 29th council meeting the Mayor of Fairhope begged the council to reconsider two issues on the agenda. One, the conservation easement involving the triangle property, 102 acres worth 20 million, that the council was willing to give away while at the same time proposing to buy 2.6 million of property on hwy.13. Fairhope paid 8.25 million in a lawsuit plus 3 million in attorney fees as a SETTLEMENT for the property. Burrell and Boone supported the lawsuit that they LOST.

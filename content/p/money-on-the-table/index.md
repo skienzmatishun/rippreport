@@ -1,27 +1,27 @@
 ---
-title: "MONEY ON THE TABLE"
+title: MONEY ON THE TABLE
 date: 2020-04-29
-thumbnail: "img/money-on-the-table.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - baldwin-county-economic-development-alliance
-  - boone
-  - brown
-  - burrell
-  - catalyst
-  - city-council
-  - dyas-triangle
-  - hatch
-  - jack-burrell
-  - kevin-boone
-  - robert-brown
-  - tria
-  - wilson
-authors: 
-  - admin
+thumbnail: img/money-on-the-table.jpg
+categories:
+- wonderful-wednesday
+tags:
+- baldwin-county-economic-development-alliance
+- boone
+- brown
+- burrell
+- catalyst
+- city-council
+- dyas-triangle
+- hatch
+- jack-burrell
+- kevin-boone
+- robert-brown
+- tria
+- wilson
+authors:
+- admin
+alttags: "Stack of $100 bills representing the $6.2 million Fairhope Waterfront Project budget finally on the drawing board"
 ---
-
 It is no secret that the Fairhope City Council is CATALYST through and through. It is also well documented that the council opposes, procrastinates or just refuses anything the Mayor may propose. Even projects that have been previously endorsed by the council, are delayed or canceled by the council.
 
 After 3 and half years, The Fairhope Waterfront Project is finally on the drawing board. This $6.2 million project has had a wealth of planning and public participation. In the work session, prior to the council meeting, a detailed, 48 min presentation was given to the council.

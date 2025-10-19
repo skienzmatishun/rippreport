@@ -1,17 +1,17 @@
 ---
-title: "SHOOTING YOURSELF IN THE FOOT"
+title: SHOOTING YOURSELF IN THE FOOT
 date: 2022-05-17
-thumbnail: "img/shooting-yourself-in-the-foot.jpg"
+thumbnail: img/shooting-yourself-in-the-foot.jpg
 tags:
-  - Elections
-  - Catalyst
-  - Steve Carney
-categories: 
-  - terrific-tuesday
-authors: 
-  - admin
+- Elections
+- Catalyst
+- Steve Carney
+categories:
+- terrific-tuesday
+authors:
+- admin
+alttags: "Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic"
 ---
-
 The most important race in Baldwin County is District two. This commission seat is being sought after by three candidates, Steve Carney, Jonathan Armstrong and Matt McKenzie.
 
 VOTERS BETTER BE PAYING ATTENTION:

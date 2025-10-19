@@ -1,15 +1,15 @@
 ---
-title: "BACKSEAT QUARTERBACKS"
+title: BACKSEAT QUARTERBACKS
 date: 2018-03-14
-thumbnail: "img/backseat-quarterbacks.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/backseat-quarterbacks.png
+categories:
+- wonderful-wednesday
+tags:
+- wilson
+authors:
+- ripp-report
+alttags: "Fairhope Mayor Wilson facing challenges; a symbolic representation of obstacles and political opposition"
 ---
-
 Being a Mayor has challenges that most of us cannot relate to. From the mundane to serious issues, everyday brings something different Fairhope’s Mayor Wilson took office with no transition from the last administration. One day she is a businesswomen the next she is Mayor, now that is a learning curve. Her next experience was that the elected City Council went into obstruction mode and made it perfectly clear they would oppose the Mayor’s every effort. The sad thing is that the Council’s actions has hurt the city and they have the dubious reputation of being the worst council in recent history.
 
 People seize on the opportunity to be critical of some things and are more than willing to look the other way on maybe a much more serious issue. Serious issues have come up about three councilmen who have used their elected office for financial or personal gain.

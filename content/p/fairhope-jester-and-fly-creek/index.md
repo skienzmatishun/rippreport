@@ -1,19 +1,19 @@
 ---
-title: "FAIRHOPE JESTER AND FLY CREEK"
+title: FAIRHOPE JESTER AND FLY CREEK
 date: 2018-04-30
-thumbnail: "img/fairhope-jester-and-fly-creek.jpg"
-gif: "img/the-jester1.gif"
-categories: 
-  - ethics
-tags: 
-  - ethics-commission
-  - ethics-complaint
-  - robert-brown
-  - sewer
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-jester-and-fly-creek.jpg
+gif: img/the-jester1.gif
+categories:
+- ethics
+tags:
+- ethics-commission
+- ethics-complaint
+- robert-brown
+- sewer
+authors:
+- ripp-report
+alttags: "The Fairhope Jester in colorful costume, holding a hammer, referenced in an article about local development controversies"
 ---
-
 The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The Jester supports the developer, who is responsible for the damage to the creek from the Publix project. The same developer is now building 230 apartments next to the creek. Jester neighbors are not going to be laughing.
 
 It has been reported to The Ripp Report that the Jester is also spinning the Ethics Complaint against him. The “down home”, Jester is sticking to his story that he had PERMISSION from the Ethics Commission to secure a contract with the Eastern Shore Art Center. Where is that written “PERMISSION”? Did he provide that information to the Art Center Board? NO

@@ -1,16 +1,16 @@
 ---
-title: "ETHICS COMEDIANS"
+title: ETHICS COMEDIANS
 date: 2017-10-19
-thumbnail: "img/ethics-comedians.jpg"
-categories: 
-  - alabama
-tags: 
-  - ethics-commission
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/ethics-comedians.jpg
+categories:
+- alabama
+tags:
+- ethics-commission
+- pittman
+authors:
+- ripp-report
+alttags: "Close-up photo highlights ethics definition, referencing the Ethics Commission’s dismissal of an investigation"
 ---
-
 The Ripp Report is no longer operating as a non profit. It will operate as a cooperation in the future. The change allows The Ripp Report more latitude when it comes to endorsing and supporting candidates for office.
 
 The Ethics Commission came through for the elected officials and the 1% who they represent.

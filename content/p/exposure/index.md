@@ -1,15 +1,15 @@
 ---
-title: "EXPOSURE"
+title: EXPOSURE
 date: 2016-11-02
-thumbnail: "img/exposure.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - thomason
-authors: 
-  - ripp-report
+thumbnail: img/exposure.jpg
+categories:
+- wonderful-wednesday
+tags:
+- thomason
+authors:
+- ripp-report
+alttags: "Statue of Justice holding scales against a dark background, representing concerns about Baldwin County Family Court practices"
 ---
-
 The Ripp Report and Baldwin County Legal Eagle had a record posting:
 
 [BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY](https://rippreport.com/baldwin-county-family-court-a-cottage-industry/)

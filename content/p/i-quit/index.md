@@ -1,25 +1,25 @@
 ---
-title: "I QUIT"
+title: I QUIT
 date: 2021-02-26
-thumbnail: "img/i-quit.jpg"
-categories: 
-  - elections
-tags: 
-  - brown
-  - burrell
-  - catalyst
-  - city-council
-  - csb
-  - jack-burrell
-  - jay-robinson
-  - mayor-sullivan
-  - robert-brown
-  - robinson
-  - sherry-sullivan
-authors: 
-  - admin
+thumbnail: img/i-quit.jpg
+categories:
+- elections
+tags:
+- brown
+- burrell
+- catalyst
+- city-council
+- csb
+- jack-burrell
+- jay-robinson
+- mayor-sullivan
+- robert-brown
+- robinson
+- sherry-sullivan
+authors:
+- admin
+alttags: "Jester in purple costume holding money and staff, circled by a no catalyst symbol; represents unproductive Fairhope city..."
 ---
-
 The Fairhope City Council that served during the last cycle, 2016/2020 was the least productive of any council in recent memory. Most of the council,3 B’s, used their public office for personal gain.
 
 {{< socialpreview url="https://rippreport.com/p/strawman-spiderweb/" >}}

@@ -1,29 +1,29 @@
 ---
-title: "M.I.A"
+title: M.I.A
 date: 2020-10-05
-thumbnail: "img/m-i-a.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - catalyst
-  - city-attorney
-  - city-council
-  - covid-19
-  - daphne
-  - elections
-  - fly-creek-apartments
-  - hurricane
-  - hurricane-delta
-  - mcmillian
-  - rebecca-cornelius
-  - sbc
-  - spanish-fort
-  - steve-carey
-  - trump
-authors: 
-  - admin
+thumbnail: img/m-i-a.jpg
+categories:
+- monday-madness
+tags:
+- catalyst
+- city-attorney
+- city-council
+- covid-19
+- daphne
+- elections
+- fly-creek-apartments
+- hurricane
+- hurricane-delta
+- mcmillian
+- rebecca-cornelius
+- sbc
+- spanish-fort
+- steve-carey
+- trump
+authors:
+- admin
+alttags: "Men in a car looking somber, reflecting grief and loss described in the author’s recent experiences"
 ---
-
 I have been Missing In Action from social media since September 15th and it feels like a year. Right before the storm, I received news of my best friend’s grandson was killed on a motorcycle. Needless to say his daughter was as devastated as he was. While sitting there trying to comprehend the loss, I got a call from the father of a gentleman I was advocating for in a property dispute. He informed me his son had become stressed out over the issue, and he had committed suicide.
 
 My head is now reeling, when I get the third call, another friend, that my family considers family, had just lost his daughter to heart problems. This all happened in the span of 30 minutes.

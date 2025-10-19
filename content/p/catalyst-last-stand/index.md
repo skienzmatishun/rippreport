@@ -1,29 +1,29 @@
 ---
-title: "CATALYST LAST STAND"
+title: CATALYST LAST STAND
 date: 2020-07-22
-thumbnail: "img/catalyst-last-stand.png"
-categories: 
-  - elections
-tags: 
-  - boone
-  - bp
-  - catalyst
-  - city-council
-  - conyers
-  - cory-martin
-  - election
-  - jack-burrell
-  - jimmy-conyers
-  - kant
-  - kevin-boone
-  - pittman
-  - robert-brown
-  - sullivan
-  - tripp-pittman
-authors: 
-  - admin
+thumbnail: img/catalyst-last-stand.png
+categories:
+- elections
+tags:
+- boone
+- bp
+- catalyst
+- city-council
+- conyers
+- cory-martin
+- election
+- jack-burrell
+- jimmy-conyers
+- kant
+- kevin-boone
+- pittman
+- robert-brown
+- sullivan
+- tripp-pittman
+authors:
+- admin
+alttags: "Three men in bee costumes, likely referencing council members Burrell, Boone, and Brown mentioned in the article"
 ---
-
 Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one of the last council will serve 4 more years. Place 2, Cory Martin, the first African American to be elected to council, he had no opposition. Congratulations to both.
 
 That leaves the infamous three B’s, Burrell, Boone and Brown trying to convince everyone that they are better than slice bread. Each one of them has used his office for personal gain. They are CATALYST make no mistake they have cost taxpayers millions. Why any woman would vote for anyone of these three sexist hypocrites is beyond me.

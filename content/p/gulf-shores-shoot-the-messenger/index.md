@@ -1,19 +1,19 @@
 ---
-title: "Gulf Shores - SHOOT THE MESSENGER"
+title: Gulf Shores - SHOOT THE MESSENGER
 date: 2019-02-21
-thumbnail: "img/gulf-shores-shoot-the-messenger.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - fly-creek-apartments
-  - gulf-shores
-  - kant
-  - the-enclave
-  - the-regency-club
-authors: 
-  - ripp-report
+thumbnail: img/gulf-shores-shoot-the-messenger.jpg
+categories:
+- wonderful-wednesday
+tags:
+- fly-creek-apartments
+- gulf-shores
+- kant
+- the-enclave
+- the-regency-club
+authors:
+- ripp-report
+alttags: "Community voices raised in protest against development decisions, mirroring a past controversy"
 ---
-
 Gulf Shores Mayor and Council are acting the same way the previous Mayor of Fairhope, Tim Kant, acted involving the controversy of the Fairhope Fly Creek Apartments. The Mayor and his buddy developer ignored the sentiments of the community. It cost the Mayor his job as well as a few councilman. The collateral effect in Fairhope resulted in firings, retirements and resignations of over a dozen employees, who needed to go.
 
 {{< socialpreview url="http://gulfcoastnewstoday.com/stories/apartment-complex-causes-controversy,65007" >}}

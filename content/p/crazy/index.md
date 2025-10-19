@@ -1,13 +1,13 @@
 ---
-title: "CRAZY"
+title: CRAZY
 date: 2019-09-20
-thumbnail: "img/crazy.jpg"
-categories: 
-  - bcso
-authors: 
-  - admin
+thumbnail: img/crazy.jpg
+categories:
+- bcso
+authors:
+- admin
+alttags: "Custom pillows reading The Real, The Boss, and featuring a man’s face, illustrating claims of labeling individuals as ..."
 ---
-
 CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger. While covering the Family Court in Baldwin County I interviewed over three dozen women and men entangled in a corrupt inept system. Every attorney defending his or her client would sooner or later say that the spouse was CRAZY. That was ultimately the main argument.
 
 All you have to do is get a couple of people to disagree with you, or you stand up with strong conviction over an issue, and someone is going to say your CRAZY. People use the easy way out of constructive criticism by simply saying your CRAZY. Politically disagree with people or protest in a public way and you surly are CRAZY.

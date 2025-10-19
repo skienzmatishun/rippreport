@@ -1,16 +1,16 @@
 ---
-title: "History repeating itself"
+title: History repeating itself
 date: 2020-07-15
-thumbnail: "img/history-repeating-itself.jpg"
-categories: 
-  - elections
-tags: 
-  - election
-  - raines
-authors: 
-  - admin
+thumbnail: img/history-repeating-itself.jpg
+categories:
+- elections
+tags:
+- election
+- raines
+authors:
+- admin
+alttags: "Fairhope Museum of History building facade, referenced in a letter regarding waterfront development controversy"
 ---
-
 Posted by [Lagniappe](http://lagniappemobile.com/) | Jul 15, 2020 | Letters to the Editor
 
 I am writing in response to Mr. Howell Raines’ op-ed and his follow up Letter to the Editor, referencing the Fairhope waterfront. First, let me say Mr. Raines’ reputation precedes him. In 2003, Mr. Raines and the New York Times parted ways after a scandal that resulted in his dismissal. Now his commentary on the waterfront grant in Fairhope looks like, once again, he may be up to his old tricks.

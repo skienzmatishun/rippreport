@@ -1,21 +1,21 @@
 ---
-title: "GOOD OLE BOYS ALIVE AND WELL"
+title: GOOD OLE BOYS ALIVE AND WELL
 date: 2017-04-26
-thumbnail: "img/good-ole-boys-alive-and-well.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - botop
-  - burrell
-  - fairhope-airport
-  - kant
-  - marion-wynne
-  - robert-brown
-  - sewer
-authors: 
-  - ripp-report
+thumbnail: img/good-ole-boys-alive-and-well.png
+categories:
+- wonderful-wednesday
+tags:
+- botop
+- burrell
+- fairhope-airport
+- kant
+- marion-wynne
+- robert-brown
+- sewer
+authors:
+- ripp-report
+alttags: "Fairhope City Council member in suit, standing near US flag and Alabama seal, amid concerns over council dynamics"
 ---
-
 Fairhope City Council has shifted from a rude, loud, and bulling approached, that backfired on them, to a passive aggressive approach when addressing the mayor. The ultimate goal is to prevent her from doing her job and opposing any of her goals. The masked condescending and sarcastic comments remain along with the disrespect.
 
 If you missed the two and half hour council meeting Monday night be sure to go back and look at the video especially the mayor's comments in reference to the veto, an ordinance amending ordinance no.1572 Fly Creek Pud.

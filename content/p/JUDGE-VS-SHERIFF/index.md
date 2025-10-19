@@ -1,17 +1,17 @@
 ---
-title: "JUDGE VS. SHERIFF"
+title: JUDGE VS. SHERIFF
 date: 2023-09-22
-thumbnail: "img/judge-vs-sheriff.jpg"
+thumbnail: img/judge-vs-sheriff.jpg
 tags:
-  - BCSO
-  - Hoss Mack
-  - Pittman
-categories: 
-  - bcso
-authors: 
-  - admin
+- BCSO
+- Hoss Mack
+- Pittman
+categories:
+- bcso
+authors:
+- admin
+alttags: "Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw..."
 ---
-
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.
 
 Get this straight, this is not about a car. This is about unbridled power of Sheriff Mack. He greatly influenced which judges got elected and now is the time for the Judge to bend over for the Sheriff and lackey District Attorney.

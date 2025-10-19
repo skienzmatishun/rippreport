@@ -1,25 +1,25 @@
 ---
-title: "TINY STEPS"
+title: TINY STEPS
 date: 2021-05-21
-thumbnail: "img/tiny-steps.png"
-categories: 
-  - alabama
-tags: 
-  - alabama
-  - board-of-education
-  - brian-powell
-  - chip-brown
-  - chris-elliott
-  - elliott
-  - gambling
-  - healthcare
-  - medicaid
-  - medical-cannabis
-  - prisons
-authors: 
-  - admin
+thumbnail: img/tiny-steps.png
+categories:
+- alabama
+tags:
+- alabama
+- board-of-education
+- brian-powell
+- chip-brown
+- chris-elliott
+- elliott
+- gambling
+- healthcare
+- medicaid
+- medical-cannabis
+- prisons
+authors:
+- admin
+alttags: "Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis..."
 ---
-
 The last session of the Alabama Legislature took tiny steps when it comes to accomplishing any real serious issues plaguing the state. Prisons, health care’ medicaid” and the gambling bill all wound up in the trash can.
 
 A plus was a bill that allowed alcohol to be delivered to your home, that was a top priority.

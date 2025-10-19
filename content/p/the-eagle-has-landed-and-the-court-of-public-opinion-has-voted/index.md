@@ -1,15 +1,15 @@
 ---
-title: "THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED"
+title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
 date: 2016-08-26
-thumbnail: "img/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted.jpg
+categories:
+- freaky-friday
+tags:
+- wilson
+authors:
+- ripp-report
+alttags: "Celebratory graphic announcing a victory, likely related to the Fairhope mayoral election discussed in the article"
 ---
-
 It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhope. It is expected after an election to be gracious and heap accolades on the departing Mayor, I will reserve my comments until Nov. 7th. The transition period between now and Nov. 7th will be telling. I hope it is civil with no surprises or forced through agendas that may impact the city negatively.
 
 Congratulations to all the staff and volunteers who spent countless selfless hours supporting Karin Wilson. It was tough with many highs and lows, scorching heat and long days. It was a grass roots effort where a community came together to replace the status quo and incumbent of four terms. Not many people ever gave us a chance and certainly the odds were against us.

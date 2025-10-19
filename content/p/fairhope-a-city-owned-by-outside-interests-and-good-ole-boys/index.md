@@ -1,18 +1,18 @@
 ---
-title: "FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS"
+title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
 date: 2016-05-27
-thumbnail: "img/fairhope-a-city-owned-by-outside-interests-and-good-ole-boys.jpg"
-categories: 
-  - thursday-thunder
-tags: 
-  - fly-creek
-  - kant
-  - sandy-ford
-  - triangle
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-a-city-owned-by-outside-interests-and-good-ole-boys.jpg
+categories:
+- thursday-thunder
+tags:
+- fly-creek
+- kant
+- sandy-ford
+- triangle
+authors:
+- ripp-report
+alttags: "Fairhope waterfront at sunset; a pier symbolizes concerns over city decisions favoring outside interests and local officials"
 ---
-
 The Ripp Report/ Baldwin County Legal Eagle
 
 FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS

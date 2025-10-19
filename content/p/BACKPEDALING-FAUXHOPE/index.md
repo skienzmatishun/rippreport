@@ -1,19 +1,19 @@
 ---
-title: "BACKPEDALING FAUXHOPE"
+title: BACKPEDALING FAUXHOPE
 date: 2024-05-17
-thumbnail: "img/backpedaling-fauxhope.jpg"
+thumbnail: img/backpedaling-fauxhope.jpg
 tags:
-  - Burrell
-  - City Council
-  - Waterfront
-  - Mayor Sullivan
-  - Soccer Fields
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- Burrell
+- City Council
+- Waterfront
+- Mayor Sullivan
+- Soccer Fields
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Councilman Jack Burrell cycling through town after a public backlash over council meeting participation rules"
 ---
-
 The backwards backpedaling Fauxhope City Council had to eat crow when it came to eliminating public participation at council meetings. Of course the matter of free speech and public participation was front and center when they denied yours truly the right to speak. The public outcry was resounding and the council got the message loud and clear. Councilman Jack Burrell threw Councilman Martin under the bus. Jack said he was surprised to see the item on the agenda. Ask Jack if he had to go to federal court for denying public participation?
 
 WAKE up Fauxhope and start getting candidates to replace the developer elected Council and especially the Mayor.

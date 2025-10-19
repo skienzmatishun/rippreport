@@ -1,13 +1,13 @@
 ---
-title: "DOUBLE RED FLAGS - FAUX HOPE"
+title: DOUBLE RED FLAGS - FAUX HOPE
 date: 2021-06-18
-thumbnail: "img/double-red-flags-faux-hope.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/double-red-flags-faux-hope.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX and HOPE, referencing financial concerns in ..."
 ---
-
 DOUBLE RED FLAGS at the beach this weekend. Rip-currents rough seas and high water.
 
 The same can be said about Faux-Hope. Red flags are going up faster than the American flag on July 4th.

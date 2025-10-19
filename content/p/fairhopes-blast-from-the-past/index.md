@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE’S  BLAST FROM THE PAST"
+title: FAIRHOPE’S  BLAST FROM THE PAST
 date: 2018-06-27
-thumbnail: "img/fairhopes-blast-from-the-past.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/fairhopes-blast-from-the-past.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Comic book style explosion representing a blast from the past reshaping Fairhope’s government"
 ---
-
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired employees, employees who quit, a skunk, W.A.C.O am radio, and of course Chucky Cheeze. This blast from the past now wants to reshape Fairhope’s government. They have all failed at their former positions however have united their wisdom to bless the City of Fairhope with their version of “new” government. Uniting their wisdom was necessary.
 
 As usual they started with a plan that they quickly changed once they saw they would loose control, instead of gaining control, of Fairhope’s government.

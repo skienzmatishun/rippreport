@@ -1,13 +1,13 @@
 ---
-title: "PUBLIC SERVANT"
+title: PUBLIC SERVANT
 date: 2020-03-07
-thumbnail: "img/public-servant.png"
-categories: 
-  - elections
-authors: 
-  - admin
+thumbnail: img/public-servant.png
+categories:
+- elections
+authors:
+- admin
+alttags: "Crowd silhouette cheering, supporting Jerry Carl’s campaign for Alabama’s First Congressional District"
 ---
-
 Today’s Freaky Friday is a post by Doug Snow with the Facebook group [Baldwin County Citizens for Accountability](https://www.facebook.com/groups/1593293237549165/).
 
 No way should the First Congressional District be represented by CATALYST and Hightower is CATALYST.

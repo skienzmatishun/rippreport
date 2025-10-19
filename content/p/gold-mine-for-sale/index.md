@@ -1,13 +1,13 @@
 ---
-title: "GOLD MINE FOR SALE"
+title: GOLD MINE FOR SALE
 date: 2019-07-10
-thumbnail: "img/gold-mine-for-sale.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/gold-mine-for-sale.jpg
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Illustration depicting a mine entrance with a For Sale sign, symbolizing property development concerns in Fairhope"
 ---
-
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements. The Fairhope Conservation Easement that is proposed is a political football being thrown around by the City Council. It is an excuse by special interests, developers, that want the property out of the control of the city. The property in question is prime property in the Fairhope municipal city limits, that cost us 13 million.
 
 {{< socialpreview url="https://rippreport.com/p/baldwin-county-municipal-alert-municipal-conservation-easement/" >}}

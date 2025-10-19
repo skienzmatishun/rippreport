@@ -1,25 +1,25 @@
 ---
-title: "A DECADE OF CORRUPTION"
-thumbnail: "img/a-decade-of-corruption.png"
+title: A DECADE OF CORRUPTION
+thumbnail: img/a-decade-of-corruption.png
 date: 2020-06-10
-categories: 
-  - citycouncil
-tags: 
-  - bp
-  - catalyst
-  - city-council
-  - fidler
-  - kant
-  - mcsharry
-  - mcsharrys
-  - mega-site
-  - spanish-fort
-  - sullivan
-  - tripp-pittman
-authors: 
-  - admin
+categories:
+- citycouncil
+tags:
+- bp
+- catalyst
+- city-council
+- fidler
+- kant
+- mcsharry
+- mcsharrys
+- mega-site
+- spanish-fort
+- sullivan
+- tripp-pittman
+authors:
+- admin
+alttags: "Scale balancing money bag against a person figure, symbolizing alleged corruption and imbalance in Baldwin County politics"
 ---
-
 Baldwin County is a cesspool of political and judicial corruption. In the last 10 years the citizens of Baldwin County, especially Fairhope, have been slapped in the face with blatant corruption. Complaints to the Attorney General do not even generate a response. The Judiciary, Bar and Ethics Commission have a repeated record of one paragraph responses dismissing any and all documented evidence.
 
 !0 years ago this week State Senator Tripp “Boom Boom” Pittman and Fairhope Mayor Tim Kant, using Fairhope Staff, Greg Mims, Sherry Sullivan and Jennifer Fidler, to name a few, secured a bid for $636,000.00, from Fairhope to Senator Pittman for BP Boom work. All those employed by Fairhope, at the time of BP theft have been fired, quit or voted out of office.

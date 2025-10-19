@@ -1,15 +1,15 @@
 ---
-title: "Letter of Concern"
+title: Letter of Concern
 date: 2019-08-09
-thumbnail: "img/letter-of-concern.png"
+thumbnail: img/letter-of-concern.png
 tags:
-  - Mayor Wilson
-categories: 
-  - thursday-thunder
-authors: 
-  - admin
+- Mayor Wilson
+categories:
+- thursday-thunder
+authors:
+- admin
+alttags: "Logos for City of Faux and Mobile Baykeeper, referenced in a mayoral dispute over news releases and transparency"
 ---
-
 August 7, 2019
 
 Dear Casi Calloway:

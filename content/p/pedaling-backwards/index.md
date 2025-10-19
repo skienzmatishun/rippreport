@@ -1,17 +1,17 @@
 ---
-title: "PEDALING BACKWARDS"
+title: PEDALING BACKWARDS
 date: 2019-02-22
-thumbnail: "img/pedaling-backwards.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - city-council
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/pedaling-backwards.jpg
+categories:
+- citycouncil
+tags:
+- burrell
+- city-council
+- wilson
+authors:
+- ripp-report
+alttags: "Silhouette of a cyclist against a blurred background, symbolizing Fairhope City Council’s lack of progress and failed init..."
 ---
-
 The Fairhope City Council is in full re-election mode, for 2020, and are trying desperately to accomplish anything they can claim for a victory. So far, going on three years, they have yet to produce anything they can claim as a major accomplishment.
 
 {{< socialpreview url="https://rippreport.com/p/pop-up-target/" >}}

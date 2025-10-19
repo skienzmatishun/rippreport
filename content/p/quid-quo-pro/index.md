@@ -1,13 +1,13 @@
 ---
-title: "QUID QUO PRO"
+title: QUID QUO PRO
 date: 2019-10-03
-thumbnail: "img/quid-quo-pro.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/quid-quo-pro.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Handshake graphic symbolizing a “favor for a favor” deal, referencing concerns about local council decisions"
 ---
-
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something. The Council and the Single tax Colony are willing to ignore the 2400 plus people who have already signed a petition opposing development of the gully.
 
 ## From the Desk of Mayor Karin Wilson

@@ -1,13 +1,13 @@
 ---
-title: "ALABAMA UGLY"
+title: ALABAMA UGLY
 date: 2021-09-10
-thumbnail: "img/alabama-ugly.png"
-categories: 
-  - alabama
-authors: 
-  - admin
+thumbnail: img/alabama-ugly.png
+categories:
+- alabama
+authors:
+- admin
+alttags: "An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th..."
 ---
-
 Alabama is a beautiful state, with a very ugly side, white collar crime, aka political corruption. The corruption flourishes due to oversight agencies aiding and abetting the corruption by not doing their job. Accountability, ethics and rule of law have been abandoned by the Ethics Commission, Judiciary, Bar Association and the ever silent Attorney General.
 
 The rule of thumb is that if the politician is Republican then protect him from any exposure or prosecution, at all costs.

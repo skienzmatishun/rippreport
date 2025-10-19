@@ -1,15 +1,15 @@
 ---
-title: "KNOCK ON DOORS"
+title: KNOCK ON DOORS
 date: 2019-02-01
-thumbnail: "img/knock-on-doors.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - baldwin-county-commission
-authors: 
-  - ripp-report
+thumbnail: img/knock-on-doors.jpg
+categories:
+- freaky-friday
+tags:
+- baldwin-county-commission
+authors:
+- ripp-report
+alttags: "Door knocker on a weathered door, symbolizing persistent effort needed for success despite potential rejection"
 ---
-
 There are two types of salesman. The ones that put a sign up and wait for the phone to ring, they usually have the most bravado and produce the least. Then you have the ones that knock on doors, they are used to being turned down however they keep knocking on those doors and are the successful ones.
 
 Baldwin County is experiencing an explosion of growth especially the middle and coastal part of the county. All that growth can be misleading, what may appear to be a booming economy has a dark side as well. Is Baldwin County going to depend on housing as a major industry? Is Baldwin County going to become a job market primarily for the service industry? What jobs are going to be available for the next generation?

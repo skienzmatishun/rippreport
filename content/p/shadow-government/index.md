@@ -1,13 +1,13 @@
 ---
-title: "SHADOW GOVERNMENT"
+title: SHADOW GOVERNMENT
 date: 2018-08-03
-thumbnail: "img/shadow-government.png"
-categories: 
-  - citycouncil
-authors: 
-  - ripp-report
+thumbnail: img/shadow-government.png
+categories:
+- citycouncil
+authors:
+- ripp-report
+alttags: "Silhouettes of five men in suits, representing a shadowy group controlling Baldwin County politics, known as Catalyst or G..."
 ---
-
 Baldwin County, especially Fairhope has been run by a shadow government, for many years. Good ole boys that only answer to each other, all connected by the bond to rule within. Call it Catalyst or Gumbo, referred to as the South Baldwin arm of Catalyst. Gumbo convinced Jeff Boyd to throw David Northcutt under the bus, after he had spent weeks telling us what a poor choice Elliott was. Elliott was the choice of CATAYST, the Shadow Government.
 
 Fairhope is the home base of Catalyst, a shadow government that has tried every trick possible to remove the Mayor and take over by use of obstruction, rumor and slanted information.

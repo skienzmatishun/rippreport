@@ -1,16 +1,16 @@
 ---
-title: "SEE YA IN COURT JACK"
-thumbnail: "img/see-ya-in-court-jack.jpg"
+title: SEE YA IN COURT JACK
+thumbnail: img/see-ya-in-court-jack.jpg
 date: 2017-12-29
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - wilson
-authors: 
-  - ripp-report
+categories:
+- citycouncil
+tags:
+- burrell
+- wilson
+authors:
+- ripp-report
+alttags: "Gavel and legal documents representing a federal lawsuit filed by Francis Ripp against Jack Burrell"
 ---
-
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION
 
 December 29, 2017 CONTACT: Francis P. Ripp

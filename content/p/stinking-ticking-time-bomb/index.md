@@ -1,14 +1,14 @@
 ---
-title: "STINKING TICKING TIME BOMB"
+title: STINKING TICKING TIME BOMB
 date: 2022-08-12
-thumbnail: "img/stinking-ticking-time-bomb.jpg"
-gif: "img/stinking-ticking-time-bomb.gif"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/stinking-ticking-time-bomb.jpg
+gif: img/stinking-ticking-time-bomb.gif
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Cartoon water droplet mascot labeled Crystal Clean, representing Baldwin County Sewer Service, a privately operated, unr..."
 ---
-
 The article below omitted some issues, that may have been problematic for Al.com to print. So let me fill ya in on some details. Baldwin County Sewer Service is the only privately operated sewer service in Alabama. They are unregulated and have been given permission to use county right of ways at no charge.
 
 Baldwin County Sewer Service has nothing to do with Baldwin County government. Many people believe this is a county entity. It is very misleading and I am sure it was meant to be.

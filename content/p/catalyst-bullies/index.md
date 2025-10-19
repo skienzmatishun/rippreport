@@ -1,23 +1,23 @@
 ---
-title: "CATALYST BULLIES"
+title: CATALYST BULLIES
 date: 2020-08-15
-thumbnail: "img/catalyst-bullies.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - city-attorney
-  - election
-  - mcdowell
-  - mcsharry
-  - mcsharrys
-  - ronan
-  - scott-boone
-  - wilson
-authors: 
-  - admin
+thumbnail: img/catalyst-bullies.png
+categories:
+- freaky-friday
+tags:
+- boone
+- city-attorney
+- election
+- mcdowell
+- mcsharry
+- mcsharrys
+- ronan
+- scott-boone
+- wilson
+authors:
+- admin
+alttags: "Illustration depicting two figures crossed out with a red circle, labeled “CATALYST,” referencing Fairhope councilmen and ..."
 ---
-
 Fairhope pay attention: The last four years, Mayor Karin Wilson has been standing up to bullies with special interests that do not align with citizens values.
 
 Those bullies are our own councilmen Burrell Boone and Brown who represent CATALYST/ Scott Boone Consulting, CSB.

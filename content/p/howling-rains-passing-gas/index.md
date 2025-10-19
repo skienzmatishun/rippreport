@@ -1,23 +1,23 @@
 ---
-title: "HOWLING RAINS PASSING GAS"
+title: HOWLING RAINS PASSING GAS
 date: 2020-11-21
-thumbnail: "img/howling-rains-passing-gas.png"
-categories: 
-  - saturday-sunshine
-tags: 
-  - burrell
-  - csb
-  - fairhope-pier
-  - fairhope-waterfront
-  - jack-burrell
-  - mayor-sullivan
-  - raines
-  - sullivan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/howling-rains-passing-gas.png
+categories:
+- saturday-sunshine
+tags:
+- burrell
+- csb
+- fairhope-pier
+- fairhope-waterfront
+- jack-burrell
+- mayor-sullivan
+- raines
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "Illustration depicting a wolf howling under a rain cloud with a crossed-out Catalyst symbol, representing concerns about..."
 ---
-
 Fairhope City Council President Jack Burrell said he heard birds, and the sky was blue, that he felt Fairhope was going to have peace and calm in the next 4 years. CSB, Catalyst Scott/Boone, owns Fairhope, the council, the municipal judge, the city attorney and the Mayor. Complete total control, everyone is in bed with one another. They will make the decisions not the citizens of Fairhope. Just watch and see.
 
 First they knocked out Fairhope's in house engineer and appoint the Mayor director over utilities, done. I suggest you track the engineer fees Fairhope will now have to pay. I also suggest you watch the utility checkbook, it will be raided, transfers to the general fund will become common place just as they were in Mayor Cant?s administration.

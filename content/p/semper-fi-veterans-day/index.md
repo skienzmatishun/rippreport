@@ -1,18 +1,18 @@
 ---
-title: "SEMPER FI / VETERANS DAY"
+title: SEMPER FI / VETERANS DAY
 date: 2020-11-11
-thumbnail: "img/semper-fi-veterans-day.jpg"
-categories: 
-  - holiday
-tags: 
-  - biden
-  - covid-19
-  - election
-  - vietnam
-authors: 
-  - admin
+thumbnail: img/semper-fi-veterans-day.jpg
+categories:
+- holiday
+tags:
+- biden
+- covid-19
+- election
+- vietnam
+authors:
+- admin
+alttags: "US flag and Marine Corps emblem waving, honoring veterans and reflecting on military service as described in this remembrance"
 ---
-
 November 10th is the Marine Corp Birthday and November 11th is Veterans Day. On these two days I always reflect on my fathers career in the Army, where he served during WW II and later retired as a Colonel. I think of my first cousin, Freddie, who was killed in Vietnam, while I was in Vietnam. His death impacted my extended family, who has dearly missed him this last 52 years. I think of a high school buddy and fellow Marine, Boogie, who was haunted throughout his life with the experiences of the 1968 Tet offensive and battle of Khe Sahn. I think of John, Iraq War, a multiple amputee, who is embarrassed at how the Veterans Administration has treated him. I think of another Veteran, of Iraq, Willy, or Will Boy. Willy was like a son and his death drove home the meaning of heartache. They were Veterans, they took an OATH, gave their lives, body parts, or were mentally wounded for life. They were VETERANS, not suckers and loser's, not draft dodgers, VETERANS.
 
 I often ask myself how the hell I made it out of Vietnam. I did have kidney cancer, agent orange, and 14 shoulder operations with number 15 coming up Jan 8th. My VA claim is 53 years old and to this day I am fighting for previous claims. I tell you this because thousands of veterans are tied up in VA claims. They served but they are remembered only one day a year. Where are the politicians, judges, elected officials and concerned citizens the other 364 days a year?

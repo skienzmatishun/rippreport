@@ -1,13 +1,13 @@
 ---
-title: "DANGER ZONE"
+title: DANGER ZONE
 date: 2020-02-15
-thumbnail: "img/danger-zone.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/danger-zone.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Warning sign: Red bar with white exclamation point, illustrating dangerous intersection concerns detailed in article"
 ---
-
 Highway 98 and Parker Road are becoming more dangerous with every passing day. You can thank the CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and property owner Angelo Corte, a CATALYST supporter.
 
 The below listed complaint effects every motorist traveling through the intersection. Please read this, it is what happens when you have politicians and developers in the same bed.

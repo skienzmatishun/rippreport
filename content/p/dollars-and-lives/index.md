@@ -1,20 +1,20 @@
 ---
-title: "DOLLARS AND LIVES"
+title: DOLLARS AND LIVES
 date: 2020-12-05
-thumbnail: "img/dollars-and-lives.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - christmas-parade
-  - covid-19
-  - fairhope-pier
-  - raines
-  - waterfront-project
-  - wilson
-authors: 
-  - admin
+thumbnail: img/dollars-and-lives.jpg
+categories:
+- freaky-friday
+tags:
+- christmas-parade
+- covid-19
+- fairhope-pier
+- raines
+- waterfront-project
+- wilson
+authors:
+- admin
+alttags: "Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr..."
 ---
-
 ## DOLLARS
 
 The City of Fairhope’s 6.2 million dollar waterfront project became a political hot potato during the last municipal election. Politicians put their feet in their mouths and now are trying to spin a new narrative. The new narrative will be what Mayor Sullivan and the, other Mayor, Jack Burrell want.

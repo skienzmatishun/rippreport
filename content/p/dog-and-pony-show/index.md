@@ -1,20 +1,19 @@
 ---
-title: "DOG AND PONY SHOW"
+title: DOG AND PONY SHOW
 date: 2019-05-10
-thumbnail: "img/dog-and-pony-show.jpg"
+thumbnail: img/dog-and-pony-show.jpg
 summary: "Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time, where transparency and accountability will not be an issue, because only a few people will attend."
-categories: 
-  - freaky-friday
-tags: 
-  - budget
-  - catalyst
-  - city-council
-  - wilson
-authors: 
-  - ripp-report
+categories:
+- freaky-friday
+tags:
+- budget
+- catalyst
+- city-council
+- wilson
+authors:
+- ripp-report
+alttags: "Group in animal costumes: dog, horse, kangaroo, and others, referencing a “dog and pony show” meeting about local council ..."
 ---
-
-
 ## READ THE FOLLOW UP
 
 {{< socialpreview url="https://rippreport.com/p/dog-and-pony-show-2/" >}}

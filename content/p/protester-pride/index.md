@@ -1,15 +1,15 @@
 ---
-title: "PROTESTER PRIDE"
+title: PROTESTER PRIDE
 date: 2017-12-06
-thumbnail: "img/protester-pride.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - moore
-authors: 
-  - ripp-report
+thumbnail: img/protester-pride.png
+categories:
+- wonderful-wednesday
+tags:
+- moore
+authors:
+- ripp-report
+alttags: "Group of protesters holding signs, demonstrating against Roy Moore’s candidacy in Baldwin County, Alabama"
 ---
-
 The Moore and Bannon show did not count on any protesters, no they thought everyone would just roll over as usual. Wrong, and thank God for it. Fairhope should be proud that many women in Baldwin County did not allow themselves to be silenced and exercised their constitutional right to peacefully protest the candidacy of Roy Moore. Please note I said Roy Moore because he is not a judge, he lost that job twice, by violating his oath of office.
 
 {{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2017/12/handmaids_protest_roy_moore_ou.html" >}}

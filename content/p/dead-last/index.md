@@ -1,15 +1,15 @@
 ---
-title: "DEAD LAST"
+title: DEAD LAST
 date: 2018-01-17
-thumbnail: "img/dead-last.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - mega-site
-authors: 
-  - ripp-report
+thumbnail: img/dead-last.jpg
+categories:
+- wonderful-wednesday
+tags:
+- mega-site
+authors:
+- ripp-report
+alttags: "Sign advertising the South Alabama Mega Site, a 3000-acre certified industrial park in Baldwin County, subject of ongoing ..."
 ---
-
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the mega site, will soon pay off. Never mind that this is the same story since the purchase in mid 2011.
 
 {{< socialpreview url="https://rippreport.com/p/economic-development-baldwin-county-style/" >}}

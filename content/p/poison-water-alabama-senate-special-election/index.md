@@ -1,13 +1,13 @@
 ---
-title: "POISON WATER - Alabama Senate Special Election"
+title: POISON WATER - Alabama Senate Special Election
 date: 2017-06-07
-thumbnail: "img/poison-water-alabama-senate-special-election.png"
-categories: 
-  - elections
-authors: 
-  - ripp-report
+thumbnail: img/poison-water-alabama-senate-special-election.png
+categories:
+- elections
+authors:
+- ripp-report
+alttags: "Alabama election button: red, white, and blue design with stars and VOTE text, related to special election replacing Jef..."
 ---
-
 The primary for the race is Aug.15, 2017 and the special election is Dec. 12, 2017. This election replaces Jeff Sessions, who has become the US Attorney General. However Sessions, who has been saying NO to everything for 8 years, now works for a President that only wants YES for an answer.
 
 In fact Mr. Sessions has considered resigning as Attorney General after assuming the post less than 3 months ago. They better have this election soon or Mr. Sessions may come back to Alabama for fear of drowning in the swamp.

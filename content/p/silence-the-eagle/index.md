@@ -1,16 +1,16 @@
 ---
-title: "SILENCE THE EAGLE"
+title: SILENCE THE EAGLE
 date: 2023-08-22
-thumbnail: "img/silence-the-eagle.jpg"
+thumbnail: img/silence-the-eagle.jpg
 tags:
-  - Opelika
-  - Auburn PD
-categories: 
-  - terrific-tuesday
-authors: 
-  - admin
+- Opelika
+- Auburn PD
+categories:
+- terrific-tuesday
+authors:
+- admin
+alttags: "Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents"
 ---
-
 Opelika are not getting unfiltered news involving police shooting incidents. Case in point is the case of Walker Cole Barkley. On a Sunday evening July 25th, 2021, Nicole Barkley called the Auburn Police and asked for assistance. Her husband, was intoxicated and had a gun in his shirt pocket and Nicole was afraid he might hurt himself. The police arrive and are informed 4 children were inside. Within a few minutes, and children inside, the police officer fires through the door, and slight opening, 10 times, seriously wounding Cole. Cole did return fire, two wild high shots inside the house, after, the officer stopped firing and was retreating. The police officer never announced that he was a police officer and Cole who was totally intoxicated had no idea who had shot him. Wounded and bleeding profusely Cole then made a phone call for medical assistance.
 
 

@@ -1,18 +1,18 @@
 ---
-title: "Investigating the Investigators"
+title: Investigating the Investigators
 date: 2017-03-03
-thumbnail: "img/investigating-the-investigators.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - ethics-commission
-  - fairhope-airport
-  - hix
-authors: 
-  - ripp-report
+thumbnail: img/investigating-the-investigators.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- ethics-commission
+- fairhope-airport
+- hix
+authors:
+- ripp-report
+alttags: "Investigation into Fairhope Airport Authority: Attorney examines details amid Ripp Report complaint and ethics inquiry"
 ---
-
 “The appropriation from city coffers to the airport is more than we spend on all 5 of our public schools and is 21% of our debt and accommodates less than 1% of the population.”
 
 The Ripp Report is being investigated by attorneys hired by the Fairhope Airport Authority because we filed a complaint against them. Please take into consideration that this is the same attorney who was hired by board member Ray Hix to request an advisory opinion from the Ethics Commission. This letter submitted by Mr. Bailey, Mr. Hix’s attorney and the Authority’s, has been requested four times to no avail. The Fairhope Airport Authority, faa, has explained that the attorneys will be paid from profits of the airport and not the appropriation that they receive from the city of Fairhope. The point they are making is the taxpayers are not paying for legal services. It is being paid with profits of the airport. The profits from the airport belong exclusively to the authority, and taxpayers have nothing to say about it. There lies the rub, think about that.

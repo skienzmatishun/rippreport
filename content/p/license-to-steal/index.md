@@ -1,15 +1,14 @@
 ---
-title: "LICENSE TO STEAL"
+title: LICENSE TO STEAL
 date: 2021-07-28
-thumbnail: "img/license-to-steal.jpg"
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+thumbnail: img/license-to-steal.jpg
+categories:
+- ethics
+- alabama
+authors:
+- admin
+alttags: "Alabama Attorney General depicted with a gavel and text License to Steal, referencing claims of pursuing corruption"
 ---
-
-
 The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is my highest priority to ensure that those who serve the people of AL do so with the utmost integrity, and I've worked to bring more transparency to government by building on ethics laws. You deserve honest leaders that HELP you. I'm here to make that happen. <a href="https://t.co/cXERUvBqnt">pic.twitter.com/cXERUvBqnt</a></p>— Steve Marshall (@SteveMarshallAL) <a href="https://twitter.com/SteveMarshallAL/status/978674258963345409?ref_src=twsrc%5Etfw">March 27, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

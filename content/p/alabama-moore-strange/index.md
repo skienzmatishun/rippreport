@@ -1,15 +1,15 @@
 ---
-title: "ALABAMA MOORE STRANGE"
+title: ALABAMA MOORE STRANGE
 date: 2017-09-22
-thumbnail: "img/alabama-moore-strange.jpg"
-categories: 
-  - alabama
-tags: 
-  - moore
-authors: 
-  - ripp-report
+thumbnail: img/alabama-moore-strange.jpg
+categories:
+- alabama
+tags:
+- moore
+authors:
+- ripp-report
+alttags: "Three monkey figurines representing see no evil, hear no evil, and speak no evil, reflecting difficult political cho..."
 ---
-
 Many thought that the Trump/Clinton campaign left little choice as two polarizing candidates split the political parties and beliefs. The Independents eroded the voting pool even further.
 
 Well hold your nose, cover your eyes and close your mouth because Alabama Republicans have to make a decision as who to vote for in the Alabama’s Senate race. You want to know why Alabama is last in almost every category, except football and political corruption? It is our elected officials that WE elect. This election is going to impact the Republicans negatively in the mid-term 2018 elections.

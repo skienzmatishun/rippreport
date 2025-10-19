@@ -1,31 +1,31 @@
 ---
-title: "QUARTERBACK SNEAK"
+title: QUARTERBACK SNEAK
 date: 2021-01-11
-thumbnail: "img/quarterback-sneak.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - airport
-  - alabama-football
-  - burrell
-  - dinardi
-  - faa
-  - fairhope-airport
-  - football
-  - insurrection
-  - jack-burrell
-  - judge-snedeker
-  - marcus-mcdowell
-  - mcsharry
-  - mcsharrys
-  - municipal-attorney
-  - municipal-judge
-  - ronan-mcsharry
-  - snedeker
-authors: 
-  - admin
+thumbnail: img/quarterback-sneak.jpg
+categories:
+- monday-madness
+tags:
+- airport
+- alabama-football
+- burrell
+- dinardi
+- faa
+- fairhope-airport
+- football
+- insurrection
+- jack-burrell
+- judge-snedeker
+- marcus-mcdowell
+- mcsharry
+- mcsharrys
+- municipal-attorney
+- municipal-judge
+- ronan-mcsharry
+- snedeker
+authors:
+- admin
+alttags: "Football represents a distraction from political issues discussed in this article about Fairhope politics"
 ---
-
 Fairhope are you distracted enough between Inciting Insurrection, and the championship football game today? How distracted and worried have you been over Covid-19 and your kids going back to school?
 
 IT IS A PERFECT TIME FOR A QUARTERBACK SNEAK!

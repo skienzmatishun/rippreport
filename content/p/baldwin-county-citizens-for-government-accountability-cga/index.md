@@ -1,13 +1,13 @@
 ---
-title: "BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)"
+title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
 date: 2018-07-13
-thumbnail: "img/baldwin-county-citizens-for-government-accountability-cga.jpg"
-categories: 
-  - Special-Report
-authors: 
-  - ripp-report
+thumbnail: img/baldwin-county-citizens-for-government-accountability-cga.jpg
+categories:
+- Special-Report
+authors:
+- ripp-report
+alttags: "Bald eagle head superimposed on an American flag with We the People text, referencing voter decisions about local taxes"
 ---
-
 Penny Sales Tax Debacle
 
 David Peterson:

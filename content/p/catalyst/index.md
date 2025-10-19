@@ -1,13 +1,13 @@
 ---
-title: "CATALYST"
+title: CATALYST
 date: 2018-11-28
-thumbnail: "img/catalyst.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Illustration depicting a figure pushing a box downwards, while another falls backward, symbolizing Fairhope council dysfun..."
 ---
-
 Sorry for a repeat article. Eye procedures have prevented me from seeing, however this particular post has become more factual, since the General Election.
 
 {{< socialpreview url="https://rippreport.com/p/fairhope-catalyst-a-dirty-little-secret/" >}}

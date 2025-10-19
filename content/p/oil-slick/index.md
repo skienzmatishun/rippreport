@@ -1,19 +1,19 @@
 ---
-title: "OIL “SLICK”"
+title: OIL “SLICK”
 date: 2020-07-29
-thumbnail: "img/oil-slick.jpg"
-categories: 
-  - elections
-tags: 
-  - bp
-  - john-manelos
-  - manelos
-  - sullivan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/oil-slick.jpg
+categories:
+- elections
+tags:
+- bp
+- john-manelos
+- manelos
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "Former BP executive gestures toward a fountain in Fairhope, Alabama, amid criticism over his role in the Mobile Bay cleanup"
 ---
-
 It defies logic that a former BP executive is going to lecture Fairhope citizens about contamination of the Mobile Bay.
 
 Are the citizens of Fairhope suppose to forget about the fact that he personally oversaw the BP “cleanup”?

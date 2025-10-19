@@ -1,14 +1,14 @@
 ---
-title: "THE FAIRHOPE JESTER"
+title: THE FAIRHOPE JESTER
 date: 2020-04-08
-thumbnail: "img/the-jester.jpg"
-gif: "img/the-jester-1.gif"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/the-jester.jpg
+gif: img/the-jester-1.gif
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic"
 ---
-
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic.
 
 Fairhope has a CATALYST City Council and true to form, their message is one of self interest.

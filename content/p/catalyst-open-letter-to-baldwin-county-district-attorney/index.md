@@ -1,13 +1,13 @@
 ---
-title: "CATALYST - Open letter to Baldwin County District Attorney"
+title: CATALYST - Open letter to Baldwin County District Attorney
 date: 2018-08-10
-thumbnail: "img/catalyst-open-letter-to-baldwin-county-district-attorney.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-open-letter-to-baldwin-county-district-attorney.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report"
 ---
-
 Open letter to Baldwin County District Attorney
 
 District Attorney Robert Wilters

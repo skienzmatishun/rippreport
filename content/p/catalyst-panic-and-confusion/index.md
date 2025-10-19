@@ -1,13 +1,13 @@
 ---
-title: "CATALYST PANIC and CONFUSION"
+title: CATALYST PANIC and CONFUSION
 date: 2018-09-26
-thumbnail: "img/catalyst-panic-and-confusion.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-panic-and-confusion.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Red keyboard key labeled PANIC! symbolizing Catalyst Fairhope Councils concern over potential government changes"
 ---
-
 The Catalyst Fairhope Council may be in it’s last days. The Council and the council’s legal representative has been asleep at the wheel. Instead of checking out all the legal ramifications of a change of government they selected to remain silent on the matter. They got bad advise and thought the decisions were that of the council and they were in control. WRONG the citizens are in control and Catalyst is worried.
 
 {{< socialpreview url="https://rippreport.com/p/fairhope-catalyst-a-dirty-little-secret/" >}}

@@ -1,21 +1,21 @@
 ---
 title: "Comment: Are You Surprised at all??????"
 date: 2017-04-30
-thumbnail: "img/comment-are-you-surprised-at-all.jpg"
-categories: 
-  - featured-comment
-tags: 
-  - boy-scouts
-  - bradley-byrne
-  - butler
-  - pittman
-  - russell
-  - thompson
-  - tucker-dorsey
-authors: 
-  - admin
+thumbnail: img/comment-are-you-surprised-at-all.jpg
+categories:
+- featured-comment
+tags:
+- boy-scouts
+- bradley-byrne
+- butler
+- pittman
+- russell
+- thompson
+- tucker-dorsey
+authors:
+- admin
+alttags: "Question mark against a black background, hinting at upcoming changes in Fairhope decision-making processes"
 ---
-
 FAIRNESS IS THE DEFINITION OF ANYBODY THAT WE GIVE ANY OF OUR TRUST TO!!!!!!!
 
 Let me simply explain to all of you that have actually shown an interest in and am proud to say that Fairhope Citizens DO CARE AFTER ALL!!!!!

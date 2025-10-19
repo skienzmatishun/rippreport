@@ -1,18 +1,18 @@
 ---
-title: "JOB WITH BENEFITS"
+title: JOB WITH BENEFITS
 date: 2017-10-20
-thumbnail: "img/job-with-benefits.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - sewer
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/job-with-benefits.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- sewer
+- wilson
+authors:
+- ripp-report
+alttags: "Handshake between two figures in suits, symbolizing Ripp Report’s new ability to support political candidates"
 ---
-
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp Report/Baldwin County Legal Eagle to become more engaged in the election process by sponsoring or contributing to specific candidates.
 
 One thing you can say about the Alabama Ethics Commission is that they are shamelessly predictable.

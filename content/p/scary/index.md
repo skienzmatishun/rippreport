@@ -1,20 +1,20 @@
 ---
-title: "SCARY"
+title: SCARY
 date: 2020-08-01
-categories: 
-  - elections
-thumbnail: "img/scary.png"
-tags: 
-  - bp
-  - catalyst
-  - election
-  - raines
-  - sullivan
-  - wilson
-authors: 
-  - admin
+categories:
+- elections
+thumbnail: img/scary.png
+tags:
+- bp
+- catalyst
+- election
+- raines
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal altered with a shocked emoji face, referencing controversy surrounding local figures and an oi..."
 ---
-
 Some really weird and scary things are going on in Fairhope. After the https://rippreport.com/ published the Oil “Slick”, seems the BP “good Vibes” guy on the paddle board, freaked out and forgot about his good vibes pledge. Some people have no sense of humor.
 
 {{< socialpreview url="https://rippreport.com/p/oil-slick/" >}}

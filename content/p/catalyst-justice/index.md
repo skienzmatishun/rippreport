@@ -1,20 +1,20 @@
 ---
-title: "CATALYST JUSTICE"
+title: CATALYST JUSTICE
 date: 2020-05-21
-thumbnail: "img/catalyst-justice.png"
-categories: 
-  - thursday-thunder
-tags: 
-  - catalyst
-  - city-council
-  - dinardi
-  - mcsharry
-  - mcsharrys
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/catalyst-justice.png
+categories:
+- thursday-thunder
+tags:
+- catalyst
+- city-council
+- dinardi
+- mcsharry
+- mcsharrys
+- ronan-mcsharry
+authors:
+- admin
+alttags: "Prohibition signs: one displays CATALYST, the other a scales of justice, symbolizing corruption among elected officials"
 ---
-
 How many people remember Sen Tripp Pittman and his theft of BP money to the tune of $750,000 dollars?
 
 How many people remember our new Senator, Chris Elliott, and his DUI charge?

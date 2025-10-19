@@ -1,16 +1,16 @@
 ---
-title: "COVERED IN OIL"
+title: COVERED IN OIL
 date: 2017-08-16
-thumbnail: "img/covered-in-oil.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - fairhope-airport
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/covered-in-oil.jpg
+categories:
+- wonderful-wednesday
+tags:
+- fairhope-airport
+- pittman
+authors:
+- ripp-report
+alttags: "Oil-covered hands symbolize failed Senate candidate Trip Pittman’s connection to a BP scandal and rejection by voters"
 ---
-
 Senate candidate, and BP contractor, Trip Pittman could not get the oil off him. He was rejected by his constituents and barely got 7% of the vote. Many in Baldwin County predicted he would receive less than 10%, they were right.
 
 Baldwin County has now voted out 2 of the three most corrupt politicians in the county. Tim Kant and his partner in BP scam Trip Pittman are history. Jack Burrell, Pittman’s Bible study partner will be next. He will be voted out or maybe indicted prior to the next election for his involvement in the Fairhope Airport Authority “bidding” scandal.

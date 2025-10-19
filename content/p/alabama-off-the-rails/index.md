@@ -1,15 +1,15 @@
 ---
-title: "ALABAMA OFF THE RAILS"
+title: ALABAMA OFF THE RAILS
 date: 2025-02-06
-thumbnail: "img/alabama-off-the-rails.png"
-summary: "Lost in all of this debate are the patients. Does anybody remember the patients? Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing?"
-categories: 
-  - ivy
-  - alabama
-authors: 
-  - admin
+thumbnail: img/alabama-off-the-rails.png
+summary: Lost in all of this debate are the patients. Does anybody remember the patients? Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing?
+categories:
+- ivy
+- alabama
+authors:
+- admin
+alttags: "Sign reading Relief with a cannabis leaf symbol hangs below an electronic display showing delay information, referencing..."
 ---
-
 >Lost in all of this debate are the patients. Does anybody remember the patients?... Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing? Of course, you do. It's been the hallmark of getting the Compassion Act, passed in the first place – not making a bunch of the state's wealthy even wealthier. Or, what about the patients that are in serious pain that either live in agonizing pain or resort to taking legal and/or illegal addictive pain medicines? A million Americans have died in the last ten years from drug overdoses. Whether it was from illegal substances like fentanyl and heroin or hydrocodone, Oxycontin, and morphine that unscrupulous doctors over prescribed, hundreds of thousands of Americans have died from drug overdoses in the last decade. Why is Alabama still not allowing cancer patients and other people with a doctor diagnosed need from receiving a non-addictive non-opiate based pain reliever recommended by their doctor? This made no sense four years ago and is even less sense given the suffering that opiates have inflicted on our culture – too often inflicted by the pharmaceutical companies who made out like bandits inventing new ways to get people hooked to their products.
 
 February 3, 2025 - On May 17, 2021, the State of Alabama approved a medical cannabis bill that would allow patients with a qualified illness, upon recommendation from their doctor, receive medical cannabis. After a lengthy rule writing procedure, and an even lengthier application process, the State finally awarded cannabis licenses to dozens of qualified candidates. Then things went completely off the rails.

@@ -1,13 +1,13 @@
 ---
-title: "FEAR"
+title: FEAR
 date: 2018-11-02
-thumbnail: "img/fear.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/fear.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Silhouette of a man gesturing emphatically, representing Gary Thorson’s opposition to Fairhopes proposed government change"
 ---
-
 {{< socialpreview url="https://rippreport.com/p/the-face-of-no/" >}}
 
 Mr. Gary Thorson, of Forever Fairhope, a political action committee, is another NO vote.

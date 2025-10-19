@@ -1,19 +1,19 @@
 ---
-title: "NON-LETHAL"
+title: NON-LETHAL
 date: 2021-02-13
-thumbnail: "img/non-lethal.jpg"
-categories: 
-  - bcso
-tags: 
-  - baldwin-county-police
-  - bay-minette
-  - bay-minette-police
-  - johnathan-victor
-  - sheriff-mack
-authors: 
-  - admin
+thumbnail: img/non-lethal.jpg
+categories:
+- bcso
+tags:
+- baldwin-county-police
+- bay-minette
+- bay-minette-police
+- johnathan-victor
+- sheriff-mack
+authors:
+- admin
+alttags: "Taser X26 device shown; highlights lack of non-lethal equipment acquisition by Baldwin County police departments"
 ---
-
 The citizens of Baldwin County have 14 municipalities, with police departments and a sheriff’s department. For the most part they do a very good job of protecting the citizens of Baldwin County. One disturbing trend among the police and sheriff’s department is the acquisition of military weapons and the lack of any acquisition of non-lethal weapons.
 
 In the small and mostly rural community of Bay Minette the police chief, in a newsletter, outlined the latest grant and equipment purchases for the police department. Keep in mind this is a small police department and one of a total of 15 different police agencies in Baldwin County.

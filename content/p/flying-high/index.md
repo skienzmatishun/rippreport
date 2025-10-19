@@ -1,18 +1,18 @@
 ---
-title: "FLYING HIGH"
+title: FLYING HIGH
 date: 2018-05-25
-thumbnail: "img/flying-high.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - chucky
-  - fairhope-airport
-  - robert-brown
-authors: 
-  - ripp-report
+thumbnail: img/flying-high.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- chucky
+- fairhope-airport
+- robert-brown
+authors:
+- ripp-report
+alttags: "Airplane wing view from above clouds, symbolizing a standstill in Fairhope financial discussions and ongoing obstruction"
 ---
-
 Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-financial-advisory-committee-at-standstill,62466" >}}

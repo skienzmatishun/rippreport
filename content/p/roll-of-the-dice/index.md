@@ -1,16 +1,16 @@
 ---
-title: "ROLL OF THE DICE"
+title: ROLL OF THE DICE
 date: 2022-03-04
-thumbnail: "img/roll-of-the-dice.jpg"
+thumbnail: img/roll-of-the-dice.jpg
 tags:
-  - Elections
-  - Lottery
-categories: 
-  - elections
-authors: 
-  - admin
+- Elections
+- Lottery
+categories:
+- elections
+authors:
+- admin
+alttags: "Two dice against a dark background, representing Alabama’s ongoing debate about establishing a state lottery"
 ---
-
 Here we go again, for over 20 years Alabama has been discussing a lottery. All that time while they were discussing gambling, Alabama was exporting dollars to other state’s lottery.
 
 {{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/2022/03/04/alabama-senator-files-lottery-gambling-bill/9365483002/" >}}

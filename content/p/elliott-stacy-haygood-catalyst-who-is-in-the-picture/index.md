@@ -1,20 +1,20 @@
 ---
-title: "ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?"
+title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
 date: 2018-07-13
-thumbnail: "img/elliott-stacy-haygood-catalyst-who-is-in-the-picture.jpg"
-categories: 
-  - elections
-tags: 
-  - catalyst
-  - chris-elliott
-  - haygood
-  - kant
-  - thomason
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/elliott-stacy-haygood-catalyst-who-is-in-the-picture.jpg
+categories:
+- elections
+tags:
+- catalyst
+- chris-elliott
+- haygood
+- kant
+- thomason
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Group photo from political group “the machine,” including Elliott Stacy and Dane Haygood, later evolving into Catalyst"
 ---
-
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County Commission and Dane Haygood was elected as Mayor of Daphne, Mr Stacy retired. The group then morphed into CATALYST and Haygood and Elliott tried to stay in the shadows while maintaining status in Catalyst.
 
 The major goal of Catalyst is to maintain three positions in Baldwin County, Mayor of Fairhope, control of the County Commission and State Senate Seat 32. In the past they had all three and ran Baldwin County in a dark closet and much the same as a criminal enterprise. The secondary goal was to place as many people on a slate of candidates, throughout the Baldwin County Government. This includes Sheriff, probate Judge, judges, County Clerk and others.

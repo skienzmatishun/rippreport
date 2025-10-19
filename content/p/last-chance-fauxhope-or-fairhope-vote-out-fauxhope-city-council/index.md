@@ -1,24 +1,24 @@
 ---
-title: "LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL"
+title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
 date: 2025-08-24
 categories:
-  - elections
-thumbnail: "img/last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council.png"
-gif: "img/last-chance.gif"
-webp_animated: "img/last-chance.webp"
+- elections
+thumbnail: img/last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council.png
+gif: img/last-chance.gif
+webp_animated: img/last-chance.webp
 tags:
-  - Elections
-  - City Council
-  - Burrell
-  - Mayor Wilson
-  - Publix
-  - Waterfront Project
-  - Ronan McSharry
-summary: "I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all."
+- Elections
+- City Council
+- Burrell
+- Mayor Wilson
+- Publix
+- Waterfront Project
+- Ronan McSharry
+summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
 authors:
-  - admin
+- admin
+alttags: "Fairhope city flag with clock tower design, overlaid with lightning bolts, symbolizing controversy in local politics"
 ---
-
 I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell Fauxhope.s de facto Mayor Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all. Don’t believe Jack when he says if he wins it will be his last term.
 
 {{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}

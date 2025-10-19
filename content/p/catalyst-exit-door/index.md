@@ -1,13 +1,13 @@
 ---
-title: "CATALYST EXIT DOOR"
+title: CATALYST EXIT DOOR
 date: 2018-07-14
-thumbnail: "img/catalyst-exit-door.png"
-categories: 
-  - saturday-sunshine
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-exit-door.png
+categories:
+- saturday-sunshine
+authors:
+- ripp-report
+alttags: "Exit sign depicting a figure running through a doorway, referencing calls for Tucker Dorsey’s removal from office"
 ---
-
 Baldwin County Commission, District No. 3, Please show Tucker Dorsey, not his real name, the exit door. Mr. Dorsey is the equivalent to Mr Burrell in Fairhope. Both men are about both men, they do not represent their constituents and have very poor performance records. Dorsey has burnt so many bridges that it is a miracle that he can find Clarence Burke’s house.
 
 Tucker is probable ready to go anyway, he came to office with an empty wallet, now he’s got the big truck, custom glasses and a few million dollars and a new house, all while holding office. Between his many LLC’s, Baldwin County Sewer and his “private” business, it is a wonder he can keep up with County Business or stays out of the pool.

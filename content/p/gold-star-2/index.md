@@ -1,16 +1,16 @@
 ---
-title: "GOLD STAR"
+title: GOLD STAR
 date: 2019-03-04
-thumbnail: "img/gold-star.png"
-categories: 
-  - freaky-friday
-tags: 
-  - city-council
-  - schools
-authors: 
-  - ripp-report
+thumbnail: img/gold-star.png
+categories:
+- freaky-friday
+tags:
+- city-council
+- schools
+authors:
+- ripp-report
+alttags: "Gold star graphic representing Fairhope, Alabama receiving recognition and increased tourism due to a travel article and f..."
 ---
-
 Sorry for the delay of Freaky Friday - technical difficulties.
 
 {{< socialpreview url="https://www.nytimes.com/travel/fairhope-alabama-places.html" >}}

@@ -1,16 +1,16 @@
 ---
-title: "??? WHO’S ON FIRST ???"
+title: ??? WHO’S ON FIRST ???
 date: 2017-03-17
-thumbnail: "img/whos-on-first.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-authors: 
-  - ripp-report
+thumbnail: img/whos-on-first.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+authors:
+- ripp-report
+alttags: "Vintage airport scene: two men in uniform and a bowler hat discuss ground lease agreements related to Fairhope Airport"
 ---
-
 Open Letter to Fairhope Airport Authority
 
 Attention Josh Myrick, Attorney

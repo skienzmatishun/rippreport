@@ -1,13 +1,13 @@
 ---
-title: "OFF THE RAILS"
+title: OFF THE RAILS
 date: 2020-01-10
-thumbnail: "img/off-the-rails.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/off-the-rails.jpg
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C..."
 ---
-
 JANUARY 10 2020 BACKSTORY PODCAST TODAY
 
 https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg

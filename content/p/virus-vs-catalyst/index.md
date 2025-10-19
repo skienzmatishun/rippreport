@@ -1,13 +1,13 @@
 ---
-title: "VIRUS vs. CATALYST"
+title: VIRUS vs. CATALYST
 date: 2020-03-19
-thumbnail: "img/virus-vs-catalyst.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/virus-vs-catalyst.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "COVID-19 mask crossed out by a red no symbol; emphasizes precautions and warnings related to the virus"
 ---
-
 I do hope people are heeding the warnings related to COVD-19. May I suggest, Dr Sanjay Gupta’s
 
 site. It has updates as well general information. Dr Gupta was actually ringing the bell before the Federal Government even admitted we had a problem.

@@ -1,18 +1,18 @@
 ---
-title: "Selective Memory"
+title: Selective Memory
 date: 2017-03-01
-thumbnail: "img/selective-memory.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - boone
-  - burrell
-  - fidler
-  - sullivan
-authors: 
-  - ripp-report
+thumbnail: img/selective-memory.jpg
+categories:
+- citycouncil
+tags:
+- boone
+- burrell
+- fidler
+- sullivan
+authors:
+- ripp-report
+alttags: "Cartoon figure sits slumped in a chair, questioning authority amid Fairhope City Council debate over mayoral hiring power"
 ---
-
 The Fairhope City Council pounced on Mayor Wilson for exercising her rights and responsibilities as Mayor to hire and fire employees.
 
 {{< socialpreview url="https://blog.al.com/live/2011/06/alabama_supreme_court_mayors_d.html" >}}

@@ -1,13 +1,13 @@
 ---
-title: "LAW and DisORDER Part 1"
+title: LAW and DisORDER Part 1
 date: 2018-08-28
-thumbnail: "img/law-and-disorder.jpg"
-categories: 
-  - bcso
-authors: 
-  - ripp-report
+thumbnail: img/law-and-disorder.jpg
+categories:
+- bcso
+authors:
+- ripp-report
+alttags: "Crime scene tape symbolizes concerns about accountability and transparency within Fairhope City Council leadership"
 ---
-
 The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. In fact, Council President Jack Burrell has fully disgraced his position and the City of Fairhope and should immediately resign.
 
 Last night at the end of Fairhope City Council meeting, at the 1:10 mark, Jack Burrell and Councilman Brown were talking about traffic. Mr. Burrell warned the citizens of the community:

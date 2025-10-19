@@ -1,15 +1,15 @@
 ---
 title: “Observations of a Poll Watcher”
 date: 2016-08-10
-thumbnail: "img/observations-of-a-poll-watcher.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/observations-of-a-poll-watcher.jpg
+categories:
+- wonderful-wednesday
+tags:
+- kant
+authors:
+- ripp-report
+alttags: "Letter regarding alleged election fraud in Fairhope, Alabama, supported by a witness observation"
 ---
-
 This is another letter about election fraud in Fairhope. There are several filed with the Alabama Sec. of State, Election Division.
 
 This letter would normally be easy to dismiss, as it comes from a candidate who ran for office. However, Dr. Warner’s letter came after the [“observations of a poll watcher”](https://rippreport.com/pay-off-and-election-fraud/) and he was not aware of the polls watcher letter at the time he wrote his letter.

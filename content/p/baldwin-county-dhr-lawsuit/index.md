@@ -1,17 +1,17 @@
 ---
-title: "BALDWIN COUNTY DHR LAWSUIT"
+title: BALDWIN COUNTY DHR LAWSUIT
 date: 2025-04-03
-thumbnail: "img/baldwin-county-dhr-lawsuit.png"
-categories: 
-  - ivy
-tags: 
-  - Family Court
-  - DHR
-  - GAL
-authors: 
-  - ripp-report
+thumbnail: img/baldwin-county-dhr-lawsuit.png
+categories:
+- ivy
+tags:
+- Family Court
+- DHR
+- GAL
+authors:
+- ripp-report
+alttags: "Baldwin County Family Court Reform Project logo; highlights concerns about corruption within Alabama’s family court system"
 ---
-
 I have been blasting this message as a post and in comments all over Facebook, and will continue to do so.
 
 A few people know my story and what was allowed to happen with my daughter. I have decided to go public with my experience with the corrupt Baldwin County "family" court, DHR and GAL systems.

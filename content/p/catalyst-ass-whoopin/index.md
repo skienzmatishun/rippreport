@@ -1,24 +1,24 @@
 ---
-title: "CATALYST ASS WHOOPIN"
+title: CATALYST ASS WHOOPIN
 date: 2020-07-17
-thumbnail: "img/catalyst-ass-whoopin.png"
-categories: 
-  - freaky-friday
-tags: 
-  - bp
-  - carl-hightower
-  - catalyst
-  - election
-  - jay-robinson
-  - jerry-carl
-  - jimmy-conyers
-  - kant
-  - melones
-  - sullivan
-authors: 
-  - admin
+thumbnail: img/catalyst-ass-whoopin.png
+categories:
+- freaky-friday
+tags:
+- bp
+- carl-hightower
+- catalyst
+- election
+- jay-robinson
+- jerry-carl
+- jimmy-conyers
+- kant
+- melones
+- sullivan
+authors:
+- admin
+alttags: "Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis"
 ---
-
 Fairhope’s CATALYST group is licking their wounds after the election of Jerry Carl. What is important is the major shift in voting away from CATALYST candidates. Carl’s opponent “Lowtower” made a major mistake by hooking up with CATALYST, aka Scott Boone Consultant.
 
 A statistical analysis of the, district, First Congressional Seat, Jerry Carl, shows as much as a 2500 votes being shifted from CATALYST Lowtower to Carl. That is from the primary to the runoff. Looking even closer at Baldwin County, for both races, it shows a swing of 2652 Catalyst votes from Lowtower to Carl.

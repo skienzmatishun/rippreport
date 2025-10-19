@@ -1,13 +1,13 @@
 ---
-title: "NEWSLETTER"
+title: NEWSLETTER
 date: 2025-08-25
-thumbnail: "img/newsletter.png"
+thumbnail: img/newsletter.png
 categories:
-  - ivy
+- ivy
 authors:
-  - ripp-report
+- ripp-report
+alttags: "Baldwin County: An eagle delivers mail, symbolizing news and information from The Ripp Report consumer group"
 ---
-
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The upcoming elections are going to be very important to the citizens of Baldwin County.
 
 [http://baldwincountyal.gov/Government/municipalities](http://baldwincountyal.gov/Government/municipalities)

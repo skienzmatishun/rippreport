@@ -1,17 +1,17 @@
 ---
-title: "LIARS BRIDGE"
+title: LIARS BRIDGE
 date: 2022-07-29
-thumbnail: "img/liars-bridge.jpg"
+thumbnail: img/liars-bridge.jpg
 tags:
-  - Toll Bridge
-  - Jack Burrell
-  - Jerry Carl
-categories: 
-  - alabama
-authors: 
-  - admin
+- Toll Bridge
+- Jack Burrell
+- Jerry Carl
+categories:
+- alabama
+authors:
+- admin
+alttags: "Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc..."
 ---
-
 No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”
 
 The bridge is needed but traffic is second to expanding development, that is the major motivator.

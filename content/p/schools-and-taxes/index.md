@@ -1,16 +1,16 @@
 ---
-title: "SCHOOLS AND TAXES"
+title: SCHOOLS AND TAXES
 date: 2022-08-15
-thumbnail: "img/schools-and-taxes.png"
+thumbnail: img/schools-and-taxes.png
 tags:
-  - Elections
-  - BCBOE
-categories: 
-  - elections
-authors: 
-  - admin
+- Elections
+- BCBOE
+categories:
+- elections
+authors:
+- admin
+alttags: "Two figures in suits wear bags of money as heads, illustrating tax revenue flow into Baldwin County Schools board coffers"
 ---
-
 Do you really want to know what is going on with Baldwin County Schools. Well just check out the face book page below, they do an excellent job of breaking down your tax dollars that are pouring into the coffers of BCBOE.
 
 BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)

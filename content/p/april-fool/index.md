@@ -1,13 +1,13 @@
 ---
-title: "APRIL FOOL"
+title: APRIL FOOL
 date: 2020-04-01
-thumbnail: "img/april-fool.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/april-fool.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Skull wearing a jester’s hat, symbolizing April Fool’s Day disregard for serious health concerns in Alabama"
 ---
-
 The month of April starts out with a day for fools, APRIL FOOL’S DAY. In Alabama some citizens are participating a 100%, at the potential risk of others.
 
 {{< socialpreview url="https://www.al.com/news/2020/03/when-will-people-in-south-alabama-take-coronavirus-seriously.html" >}}

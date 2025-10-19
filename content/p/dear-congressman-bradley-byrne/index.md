@@ -1,16 +1,16 @@
 ---
-title: "Dear Congressman Bradley Byrne"
+title: Dear Congressman Bradley Byrne
 date: 2016-06-03
-thumbnail: "img/dear-congressman-bradley-byrne.png"
-categories: 
-  - alabama
-tags: 
-  - corte
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/dear-congressman-bradley-byrne.png
+categories:
+- alabama
+tags:
+- corte
+- kant
+authors:
+- ripp-report
+alttags: "Baldwin County political commentary features a stylized eagle stamp referencing Legal Eagle nickname and investigative r..."
 ---
-
 The Ripp Report/Baldwin County Legal Eagle Face book
 
 Fly Creek Full of Political BULLS---

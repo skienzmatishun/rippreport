@@ -1,19 +1,19 @@
 ---
-title: "WINNER AND LOSER"
+title: WINNER AND LOSER
 date: 2021-01-12
-thumbnail: "img/winner-and-loser.jpg"
-categories: 
-  - events
-tags: 
-  - alabama-football
-  - nick-saban
-  - saban
-  - tommy-tuberville
-  - tuberville
-authors: 
-  - admin
+thumbnail: img/winner-and-loser.jpg
+categories:
+- events
+tags:
+- alabama-football
+- nick-saban
+- saban
+- tommy-tuberville
+- tuberville
+authors:
+- admin
+alttags: "Nick Saban, coach of the Alabama Crimson Tide football team, stands on the sidelines during a game"
 ---
-
 Congratulations Nick Saban and the Alabama Football team, you have made Alabama proud.
 
 Saban is successful because of Leadership, Ethics, Transparency and above all PRINCIPLE.

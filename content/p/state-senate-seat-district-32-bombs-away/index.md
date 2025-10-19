@@ -1,20 +1,20 @@
 ---
-title: "STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY"
+title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
 date: 2018-05-21
-thumbnail: "img/state-senate-seat-district-32-bombs-away.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - bill-roberts
-  - catalyst
-  - david-northcutt
-  - elliott
-  - jason-fisher
-  - jeff-boyd
-authors: 
-  - ripp-report
+thumbnail: img/state-senate-seat-district-32-bombs-away.jpg
+categories:
+- monday-madness
+tags:
+- bill-roberts
+- catalyst
+- david-northcutt
+- elliott
+- jason-fisher
+- jeff-boyd
+authors:
+- ripp-report
+alttags: "Vintage photo of a bomber dropping bombs over mountains, hinting at potential political fallout ahead of an election"
 ---
-
 Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on [tips to the Rippster](https://rippreport.com/contact/) in the hopes of finding out who’s in hot water. Something tells me that the next couple of weeks leading up to the primary election June 5, is going to be very interesting. Stay Tuned.
 
 The State Senate Seat for District 32 is one of the more important races of this mid-term. This position was held by boom boom Pittman who was more concerned about his own pocket and covering for the Sheriff. The first thing a new Senator should do is roll back the qualifications for Sheriff that Pittman put in place for Baldwin County. Only Baldwin County has the “structured” qualifications for sheriff in the whole state.

@@ -1,12 +1,12 @@
 ---
-title: "VACATION TIME"
+title: VACATION TIME
 date: 2019-04-10
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Coastal view in Belize: turquoise water, sandy beach lined with palm trees, and a wooden pier. Author exploring before ret..."
 ---
-
 The Ripp Report is expanding it’s reach on social media and email connections in preparations for the 2020 General Elections. Our coverage area will be concentrating on Baldwin County and it’s 14 municipalities.
 
 BUT:

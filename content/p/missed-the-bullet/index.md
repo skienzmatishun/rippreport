@@ -1,20 +1,20 @@
 ---
-title: "MISSED THE BULLET"
-thumbnail: "img/missed-the-bullet.png"
+title: MISSED THE BULLET
+thumbnail: img/missed-the-bullet.png
 date: 2020-10-09
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - daphne
-  - daphne-mayor
-  - hurricane
-  - hurricane-delta
-  - robin-lejeune
-authors: 
-  - admin
+categories:
+- freaky-friday
+tags:
+- catalyst
+- daphne
+- daphne-mayor
+- hurricane
+- hurricane-delta
+- robin-lejeune
+authors:
+- admin
+alttags: "Hurricane Delta approaching a figure, symbolizing Lake Charles facing another direct hit after significant storm damage"
 ---
-
 Sally kicked Baldwin County’s ass, however we missed the Delta bullet. Poor Lake Charles is getting what some of us expected last Monday, round two of a direct hit by a hurricane. In Lake Charles they have picked up 1.5 million cubic yards of debris, so far, and they are now facing the possibility of doing it all over again.
 
 [Link No Longer Exists](https://www.washingtonpost.com/weather/2020/10/09/hurricane-delta-live-updates/)

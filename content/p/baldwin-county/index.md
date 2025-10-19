@@ -1,28 +1,28 @@
 ---
-title: "BALDWIN COUNTY"
+title: BALDWIN COUNTY
 date: 2020-09-04
-thumbnail: "img/baldwin-county.png"
+thumbnail: img/baldwin-county.png
 categories:
-  - elections
-tags: 
-  - baldwin-county
-  - city-attorney
-  - city-council
-  - elections
-  - hoss-mack
-  - little-whiskey-christmas-club
-  - mack
-  - mayor-sullivan
-  - mcsharry
-  - mcsharrys
-  - ronan-mcsharry
-  - sheriff
-  - sullivan
-  - tripp-pittman
-authors: 
-  - admin
+- elections
+tags:
+- baldwin-county
+- city-attorney
+- city-council
+- elections
+- hoss-mack
+- little-whiskey-christmas-club
+- mack
+- mayor-sullivan
+- mcsharry
+- mcsharrys
+- ronan-mcsharry
+- sheriff
+- sullivan
+- tripp-pittman
+authors:
+- admin
+alttags: "Baldwin County, Alabama map highlighted within a circle, representing limited local news coverage and citizen engagement"
 ---
-
 If you live in Baldwin County then you know that local news print is almost non existent. Citizens are at a disadvantage at knowing what the real truth is and politicians are fine with that.
 
 Community engagement or public participation is probably 1 to 3% of the population. Fact is, most councils, Fairhope for one, would be fine with no community engagement or public participation.

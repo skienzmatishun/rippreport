@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE SEWER BACKSTORY"
-thumbnail: "img/fairhope-sewer-backstory.jpg"
+title: FAIRHOPE SEWER BACKSTORY
+thumbnail: img/fairhope-sewer-backstory.jpg
 date: 2019-08-07
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Manhole cover in grass, symbolizing Fairhope infrastructure issues investigated by The Ripp Report due to past mayoral cor..."
 ---
-
 The Ripp Report is a consumer, citizen, group. The intent of the Ripp Report is to inform the public of current political events as well as consumer complaints. The Ripp Report is a non profit and for the greater part, self funded, no-one owns us.
 
 The Ripp Report came about because of the blatant corruption in Fairhope by the previous Mayor of Fairhope. Mayor Can’t was in office 16 years where he enjoyed a double paycheck, one as Mayor and one as utility director.

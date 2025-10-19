@@ -1,13 +1,13 @@
 ---
-title: "JUDICIAL TRICK"
-thumbnail: "img/judicial-trick.png"
+title: JUDICIAL TRICK
+thumbnail: img/judicial-trick.png
 date: 2020-04-18
-categories: 
-  - stormy-saturday
-authors: 
-  - admin
+categories:
+- stormy-saturday
+authors:
+- admin
+alttags: "Illustration depicting a magician’s hat and wand crossed out by a red circle, symbolizing lack of accountability in Baldwi..."
 ---
-
 Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes. Some Judges and lawyers feel insulated from any accountability, they are shielded by an inept system that abuses it’s citizens. Ethics laws are designed to PROTECT the very elected and appointed officials that use their positions, to their advantage/
 
 The 18th through the 20th is the estimated time Alabama should peak in the coronavirus. The Fairhope City Council President Jack Burrell, supported by council, just canceled Public Participation.

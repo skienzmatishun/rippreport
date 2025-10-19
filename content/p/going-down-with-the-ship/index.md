@@ -1,23 +1,21 @@
 ---
-title: "GOING DOWN WITH THE SHIP"
+title: GOING DOWN WITH THE SHIP
 date: 2016-09-30
-thumbnail: "img/going-down-with-the-ship.jpg"
-categories: 
-  - elections
-tags: 
-  - angelo-corte
-  - brewer
-  - fiddler
-  - fly-creek
-  - gulf-quest
-  - hand-arendall
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/going-down-with-the-ship.jpg
+categories:
+- elections
+tags:
+- angelo-corte
+- brewer
+- fiddler
+- fly-creek
+- gulf-quest
+- hand-arendall
+- kant
+authors:
+- ripp-report
+alttags: "Gulf Quest Maritime Museum depicted sinking in water, symbolizing financial struggles and unpaid utility bills"
 ---
-
- 
-
 Be sure you read
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/city-asking-gulfquest-to-cough-up-utility-payments-as-agreed/article_37c740b7-8bc0-5d09-8a65-acb5462548bb.html" >}}

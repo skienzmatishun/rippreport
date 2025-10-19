@@ -1,13 +1,13 @@
 ---
-title: "COMBAT"
+title: COMBAT
 date: 2019-12-06
-thumbnail: "img/combat.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/combat.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Bald eagle portrait against a red background, symbolizing service and sacrifice for a Vietnam veteran’s healthcare journey"
 ---
-
 My first visit to the Veterans Hospital in Birmingham Alabama was in December of 1968, 51 years ago. Since that time I have had 14 shoulder operations and a kidney removed as a result of my tour of duty as a young Marine in Vietnam.
 
 Today I report to the same hospital for my 15th operation, a complete reverse left shoulder replacement. Believe it or not I was one of the lucky ones. You only have to spend a few hours in a VA Hospital to be humbled.

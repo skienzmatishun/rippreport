@@ -1,19 +1,19 @@
 ---
-title: "RE-GIFT GIFT ??"
+title: RE-GIFT GIFT ??
 date: 2017-05-05
-thumbnail: "img/re-gift-gift.png"
-categories: 
-  - freaky-friday
-tags: 
-  - corte
-  - fly-creek
-  - kant
-  - sewer
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/re-gift-gift.png
+categories:
+- freaky-friday
+tags:
+- corte
+- fly-creek
+- kant
+- sewer
+- wilson
+authors:
+- ripp-report
+alttags: "Gift box with red ribbon, symbolizing the deed of land donation discussed in Fairhope council meeting"
 ---
-
 ATTENTION FAIRHOPE TAXPAYERS
 
 FW: Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres

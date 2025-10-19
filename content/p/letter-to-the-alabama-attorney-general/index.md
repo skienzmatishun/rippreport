@@ -1,17 +1,17 @@
 ---
-title: "Letter to the Alabama Attorney General"
-thumbnail: "img/letter-to-the-alabama-attorney-general.png"
+title: Letter to the Alabama Attorney General
+thumbnail: img/letter-to-the-alabama-attorney-general.png
 date: 2021-07-16
 tags:
-  - Ethics Commission
-  - Alabama AG
-  - Albritton
-categories: 
-  - alabama
-authors: 
-  - admin
+- Ethics Commission
+- Alabama AG
+- Albritton
+categories:
+- alabama
+authors:
+- admin
+alttags: "US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et..."
 ---
-
 Alabama Attorney General 501 Washington ave. Montgomery Alabama 36104
 
 Alabama Attorney General Attention Mr Steve Marshall

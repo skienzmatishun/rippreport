@@ -1,13 +1,13 @@
 ---
-title: "CAROLYN AMICK"
+title: CAROLYN AMICK
 date: 2022-09-02
-categories: 
-  - obituary
-thumbnail: "/img/CAROLYN-AMICK.jpg"
-authors: 
-  - admin
+categories:
+- obituary
+thumbnail: /img/CAROLYN-AMICK.jpg
+authors:
+- admin
+alttags: "Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait"
 ---
-
 Carolyn and I were together for 50 years. She was my best friend, fieriest critic and always had my back. We traveled the world together, dove in exotic places and lived a life many would envy. Anyone who knew Carolyn did not forget her. Carolyn, who some called CA, never understood the argument of women’s rights. She was part of women’s lib before there was a women's lib. She could curse like a sailor and do manual labor with the best of them.
 
 In Birmingham we worked in the dive industry, landscape business, retail furniture and antiques shop. We bought around 8 houses in the Southside neighborhood. Carolyn would oversee the renovation and the sale of each property. We always enjoyed working together no matter what the job, we were a team. Our last home renovation job in Birmingham financed our move to Belize in 1979.

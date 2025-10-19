@@ -1,18 +1,18 @@
 ---
-title: "LEAKS AND COLLUSION"
+title: LEAKS AND COLLUSION
 date: 2017-06-02
-thumbnail: "img/leaks-and-collusion.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - chucky
-  - pandora
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/leaks-and-collusion.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- chucky
+- pandora
+- wilson
+authors:
+- ripp-report
+alttags: "Leaking faucet symbolizing confidential information leaks at Fairhope City Hall, as reported by Gulf Coast News"
 ---
-
 Fairhope City Hall has leaks of confidential city information and HR information coming from certain city employees to Gulf Coast News. Congratulations on the news scoop, however your information is coming from unnamed sources or disgruntled employees.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/tracking-software-installed-on-7-fairhope-employees-computers,50355" >}}

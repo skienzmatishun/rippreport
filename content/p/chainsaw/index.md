@@ -1,18 +1,18 @@
 ---
-title: "CHAINSAW"
+title: CHAINSAW
 date: 2018-05-07
-thumbnail: "img/chainsaw.png"
-categories: 
-  - monday-madness
-tags: 
-  - catalyst
-  - chris-elliott
-  - tucker-dorsey
-  - zundel-road
-authors: 
-  - ripp-report
+thumbnail: img/chainsaw.png
+categories:
+- monday-madness
+tags:
+- catalyst
+- chris-elliott
+- tucker-dorsey
+- zundel-road
+authors:
+- ripp-report
+alttags: "Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions"
 ---
-
 It does not take a chain saw, it only takes a vote.
 
 Sometimes you have to send a strong public message to politicians, elected officials and appointed boards to get their attention. When people do unite and reach a level of frustration that brings them together, then you see results. Petitions are a very good way to send a strong message.

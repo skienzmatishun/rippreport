@@ -1,16 +1,16 @@
 ---
-title: "JACK ASS"
+title: JACK ASS
 date: 2017-07-26
-thumbnail: "img/jack-ass.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/jack-ass.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- pittman
+authors:
+- ripp-report
+alttags: "Donkey peering over a fence, possibly symbolizing political absurdity and unexpected events discussed in the city council ..."
 ---
-
 Well folks, as they often say, “You can’t make this stuff up!”
 
 Monday night’s city council meeting showed the true colors of council president “come fly with me” “Jack” Burrell. It was a tough night for Burrell and his faithful Bible study partner, and best friend forever, Senator Tripp Pittman.

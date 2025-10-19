@@ -1,13 +1,13 @@
 ---
-title: "COUNTDOWN"
+title: COUNTDOWN
 date: 2017-08-04
-thumbnail: "img/countdown.png"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/countdown.png
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "US Senate primary deadline approaching; clock illustration symbolizes time running out for candidates"
 ---
-
 The US Senate seat sought by a total of 19 candidates, 11 republicans and 8 democrats primary is less than two weeks away.
 
 {{< socialpreview url="https://www.al.com/news/index.ssf/2017/05/deadline_today_for_us_senate_r.html" >}}

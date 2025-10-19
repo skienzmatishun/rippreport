@@ -1,16 +1,16 @@
 ---
-title: "FAUXHOPE TUNNEL"
+title: FAUXHOPE TUNNEL
 date: 2023-05-09
-thumbnail: "img/fauxhope-tunnel.jpg"
+thumbnail: img/fauxhope-tunnel.jpg
 tags:
-  - City Council
-  - Triangle
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- City Council
+- Triangle
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction"
 ---
-
 Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. The city attorney is put in place to protect “THEIR” agenda. The municipal judge is a major developer in Fauxhope and his developments must meet the approval of the council that “APPOINTED” him as municipal judge.
 
 

@@ -1,21 +1,21 @@
 ---
-title: "RUMORS"
+title: RUMORS
 date: 2022-10-15
-categories: 
-  - bcso
-thumbnail: "img/rumors.png"
+categories:
+- bcso
+thumbnail: img/rumors.png
 tags:
-  - OJ French
-  - BCSO
-  - Bay Minette
-  - MCU
-  - Alabama Supreme Court
-  - Jonathan Victor
-  - Hoss Mack
-authors: 
-  - admin
+- OJ French
+- BCSO
+- Bay Minette
+- MCU
+- Alabama Supreme Court
+- Jonathan Victor
+- Hoss Mack
+authors:
+- admin
+alttags: "Confused faces on phones arranged in a circle, symbolizing confusion surrounding O.J. French’s shooting by Bay Minette Police"
 ---
-
 O.J. French was only 32 years old when he was shot and killed after being pulled over for a vehicle equipment violation by Bay Minette Police, August 20th of this year. Our deepest condolences to his family and friends.
 
 Be sure to read this article very carefully and you will see red flags have been hanging over the Baldwin County Sheriff’s Office and BCSCU, for a number of years.

@@ -1,13 +1,13 @@
 ---
-title: "TRANSPARENCY"
+title: TRANSPARENCY
 date: 2019-09-04
-thumbnail: "img/transparency.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/transparency.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Financial documents overlaid on a tree branch, symbolizing Fairhope City Council’s budget failures and lack of leadership"
 ---
-
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars, a perfect example of a lack of compassion and leadership.
 
 {{< socialpreview url="https://www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html" >}}

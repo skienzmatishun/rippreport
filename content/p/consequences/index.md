@@ -1,13 +1,13 @@
 ---
-title: "CONSEQUENCES"
+title: CONSEQUENCES
 date: 2019-01-09
-thumbnail: "img/consequences.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/consequences.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Falling dominoes represent former State Rep. Randy Davis seeking leniency in a corruption case indictment"
 ---
-
 “According to court records filed Friday, State Rep. Randy Davis of Daphne is attempting to avoid prosecution from federal conspiracy and bribery charges through pretrial diversion regarding an indictment unsealed in Montgomery last year.”
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/former-state-rep-randy-davis-seeks-leniency-in-corruption-case/article_872ed616-fd22-5d9b-954e-bbe86a8a684a.html" >}}

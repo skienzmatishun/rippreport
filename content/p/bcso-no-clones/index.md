@@ -1,21 +1,21 @@
 ---
-title: "BCSO - NO CLONES"
+title: BCSO - NO CLONES
 date: 2025-09-26
-thumbnail: "img/bcso-no-clones.png"
-gif: "img/bcso-no-clones.gif"
-webp_animated: "img/bcso-no-clones.webp"
-recent_category_override: "bcso"
-shorturl: "bcso"
+thumbnail: img/bcso-no-clones.png
+gif: img/bcso-no-clones.gif
+webp_animated: img/bcso-no-clones.webp
+recent_category_override: bcso
+shorturl: bcso
 tags:
-  - Elections
-  - Hoss Mack
-  - Lowery
+- Elections
+- Hoss Mack
+- Lowery
 categories:
-  - elections
+- elections
 authors:
-  - admin
+- admin
+alttags: "Sheriff candidates Lowery and Hoss Mack depicted in a grid within an old television set, suggesting a recurring pattern"
 ---
-
 Lowery is a clone of Hoss Mack and the last thing Baldwin County needs is a clone Sheriff. Pay attention this race can break the mold of the good ole boys. Hoss Mack’s record is the same as Lowery’s, they are joined at the hip, or close to it. Lowery likes it under Hoss’s umbrella however he has rightfully inherited Hoss’s horrible record. Before election time you will see the onion peeled back involving Mack and Lowery and it ain’t “perty”.
 
 We desperately need a new sheriff and that man is Matt Mckenzie.

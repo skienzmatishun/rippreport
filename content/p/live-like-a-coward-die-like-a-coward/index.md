@@ -1,15 +1,15 @@
 ---
-title: "LIVE LIKE A COWARD - DIE LIKE A COWARD"
+title: LIVE LIKE A COWARD - DIE LIKE A COWARD
 date: 2021-06-25
-thumbnail: "img/live-like-a-coward-die-like-a-coward.png"
-categories: 
-  - freaky-friday
-tags: 
-  - mcafee
-authors: 
-  - admin
+thumbnail: img/live-like-a-coward-die-like-a-coward.png
+categories:
+- freaky-friday
+tags:
+- mcafee
+authors:
+- admin
+alttags: "John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ..."
 ---
-
 All of us have experienced people that are narcissist or sociopaths. Maybe psychopaths and the very worst possible murderers.
 
 John McAfee fits every one of those categories.

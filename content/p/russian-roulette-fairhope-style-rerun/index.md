@@ -1,13 +1,13 @@
 ---
-title: "RUSSIAN ROULETTE - FAIRHOPE STYLE"
-thumbnail: "img/russian-roulette-fairhope-style-rerun.png"
+title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+thumbnail: img/russian-roulette-fairhope-style-rerun.png
 date: 2025-08-05
-categories: 
-  - repost
-authors: 
-  - ripp-report
+categories:
+- repost
+authors:
+- ripp-report
+alttags: "Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article"
 ---
-
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.
 
 Tim Kant’s past bad deeds are catching up with Fairhope. First was the Dyas, Triangle, lawsuit. The Mayor, Timmy, and the then council, Boone and Burrell, who were present, pulled a fast one on the city taxpayers. They claimed to settle the lawsuit and the purchase of land, as a “WIN”. This was an absolute lie and cost Fairhope 11.25 million dollars. On top of that the council pledged to the sellers that they were going to build a park. This all turned out to be total B. S. The land remains vacant to this day.

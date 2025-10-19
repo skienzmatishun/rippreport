@@ -1,15 +1,15 @@
 ---
-title: "ALABAMA THE BEAUTIFUL"
+title: ALABAMA THE BEAUTIFUL
 date: 2017-12-13
-thumbnail: "img/alabama-the-beautiful.jpg"
-categories: 
-  - alabama
-tags: 
-  - moore
-authors: 
-  - ripp-report
+thumbnail: img/alabama-the-beautiful.jpg
+categories:
+- alabama
+tags:
+- moore
+authors:
+- ripp-report
+alttags: "Alabama welcome sign reads Sweet Home Alabama, reflecting state politics needing a two-party system for accountability"
 ---
-
 Yesterday Alabama stood on the side of Country before party. Some think the party and straight ticket voting is the only answer, regardless of allegations. Truth is this is the core problem and bad politicians get elected this way. The party will cover up crimes hinder investigations and deny deny deny before admitting the party members guilt.
 
 Alabama needs a two party system currently the single party leadership has been a total failure, for years. Both parties need to be held accountable and candidates elected on credentials. A candidate should be carefully vetted, his or her views will affect us all. If it means crossing party lines so be it, your moral compass should come first.

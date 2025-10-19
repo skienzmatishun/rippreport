@@ -1,13 +1,13 @@
 ---
-title: "SHELTER IN PLACE"
+title: SHELTER IN PLACE
 date: 2020-04-03
-thumbnail: "img/shelter-in-place.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/shelter-in-place.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Stay home icon representing public health guidance amid rising COVID-19 cases and debate over shelter-in-place orders"
 ---
-
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.
 
 {{< socialpreview url="https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html" >}}

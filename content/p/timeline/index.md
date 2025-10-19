@@ -1,19 +1,19 @@
 ---
-title: "TIMELINE"
+title: TIMELINE
 date: 2019-08-10
-thumbnail: "img/timeline.png"
+thumbnail: img/timeline.png
 tags:
-  - City Council
-  - Peterson
-  - Robert Brown
-  - Burrell
-  - Sewer
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+- City Council
+- Peterson
+- Robert Brown
+- Burrell
+- Sewer
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Calendar icon representing repeated council meetings regarding stalled infrastructure funding requests"
 ---
-
 This is a comment that the Ripp Report received. It accurately describes the Fairhope City council and their obstruction in infrastructure repairs.
 
 <div class="link-preview">

@@ -1,13 +1,13 @@
 ---
 title: "FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson"
 date: 2019-07-24
-thumbnail: "img/fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Nappie Award winner Mayor Wilson recognized as “Hardest Working Elected City Official” on Eastern Shore"
 ---
-
 Congratulations to all Nappie nominees and winners.
 
 Fact:

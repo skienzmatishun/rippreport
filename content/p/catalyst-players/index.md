@@ -1,24 +1,24 @@
 ---
-title: "CATALYST PLAYERS"
+title: CATALYST PLAYERS
 date: 2020-05-15
-thumbnail: "img/catalyst-players.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - chris-elliott
-  - city-council
-  - county-commissioner
-  - election
-  - elliott
-  - mcsharry
-  - mcsharrys
-  - municipal-judge
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/catalyst-players.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+- chris-elliott
+- city-council
+- county-commissioner
+- election
+- elliott
+- mcsharry
+- mcsharrys
+- municipal-judge
+- ronan-mcsharry
+authors:
+- admin
+alttags: "Group gathered around a table, possibly members of CATALYST, a Baldwin County political group discussed in the article"
 ---
-
 Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mostly secret, political group that represent the Status Quo, the good ole boys. Good ole boys exist in many places however in Baldwin County they have been bold enough to adopt the title of CATALYST.
 
 In 2018, mid-term elections, CATALYST almost pulled off the perfect political coup. CATALYST ran candidates for almost every Baldwin County race. If it had not been for several social media sources and Lagniappe informing the public what was going on, CATALYST would have had control of Baldwin County Government.

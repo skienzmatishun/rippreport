@@ -1,13 +1,13 @@
 ---
-title: "CHUCKEE CHEEZE"
+title: CHUCKEE CHEEZE
 date: 2018-10-30
-thumbnail: "img/chuckee-cheeze.jpg"
-categories: 
-  - terrible-tuesday
-authors: 
-  - ripp-report
+thumbnail: img/chuckee-cheeze.jpg
+categories:
+- terrible-tuesday
+authors:
+- ripp-report
+alttags: "Chucky doll caricature representing Chuckee Cheeze, a local journalist criticized in an article about Fairhope politics"
 ---
-
 CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of Catalyst, the Good ole boys, special interest and elected officials and Judges who are more concerned with their interest than those of the city.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/fairhope-councilman-comes-out-against-change-of-government-referendum,69165" >}}

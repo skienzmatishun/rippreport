@@ -1,13 +1,13 @@
 ---
-title: "VICTORY"
+title: VICTORY
 date: 2018-09-05
-thumbnail: "img/victory.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/victory.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Confetti falling against a blue background; symbolizing ongoing efforts despite setbacks in Fairhope development disputes"
 ---
-
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused to take any action on behalf of the citizens, which they could have done, involving the Fly Creek Apartments. The council explained there was nothing they could do to stop the apartments or enforce any of the city’s ordinances that may amend the approved MOP Site Plan.
 
 The City Council sided with the developer and the Mayor’s hands were tied because the council rejected her pleas and turned a deaf ear to caution.

@@ -1,19 +1,19 @@
 ---
-title: "MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW"
+title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
 date: 2017-12-24
-thumbnail: "img/moore-of-the-chucky-cheeze-and-jack-burrell-show.jpg"
-categories: 
-  - saturday-special
-tags: 
-  - burrell
-  - chucky
-  - kant
-  - moore
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/moore-of-the-chucky-cheeze-and-jack-burrell-show.jpg
+categories:
+- saturday-special
+tags:
+- burrell
+- chucky
+- kant
+- moore
+- pittman
+authors:
+- ripp-report
+alttags: "Chucky doll riding a bucking horse labeled #MeToo, symbolizing attempts to discredit Fairhopes mayor in an ongoing dispute"
 ---
-
 We are talking super stupid, I mean extraordinary ignorance. But I get it, it is part of the moore factor, little m deliberate, the people that will believe fiction for truth.
 
 {{< socialpreview url="https://rippreport.com/p/fauxhope-party-before-country-or-city/" >}}

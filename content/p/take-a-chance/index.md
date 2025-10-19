@@ -1,21 +1,21 @@
 ---
-title: "“TAKE A CHANCE”"
+title: “TAKE A CHANCE”
 date: 2020-11-18
-thumbnail: "img/take-a-chance.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - arts-and-crafts
-  - brown
-  - covid-19
-  - jack-burrell
-  - mayor-sullivan
-  - robert-brown
-  - sullivan
-authors: 
-  - admin
+thumbnail: img/take-a-chance.jpg
+categories:
+- wonderful-wednesday
+tags:
+- arts-and-crafts
+- brown
+- covid-19
+- jack-burrell
+- mayor-sullivan
+- robert-brown
+- sullivan
+authors:
+- admin
+alttags: "Emotional scene: people embrace amidst concerns over rising COVID-19 cases and calls for safety measures like masking"
 ---
-
 1701 Covid deaths in one day, 250,000 total U.S. deaths, 11 million cases so far in the United States. One person is dying every 50 seconds. Statistics and data that would makes your head spin and yet there are people that still ignore basic health standards, some believe Covid is a hoax.
 
 Baldwin County Doctors and Nurses are advising the general public about masks, social distancing, and to avoid large public gatherings. Our school teachers and administrations are very concerned about the Covid cases in schools. Gatherings of over 8 to 10 are discouraged in restaurants and public places. Schools may close after Thanksgiving until 2021, if cases keep rising.

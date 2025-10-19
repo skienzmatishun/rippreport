@@ -1,15 +1,15 @@
 ---
-title: "DARK WEDNESDAY"
+title: DARK WEDNESDAY
 date: 2020-05-27
-thumbnail: "img/dark-wednesday.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - covid-19
-authors: 
-  - admin
+thumbnail: img/dark-wednesday.png
+categories:
+- wonderful-wednesday
+tags:
+- covid-19
+authors:
+- admin
+alttags: "COVID-19 case, death, and testing data graph showing rising numbers from March to May, reflecting a serious public health ..."
 ---
-
 In 111 days, 100,000 American souls have been lost to Covid-19.
 
 Covid-19 is no hoax.

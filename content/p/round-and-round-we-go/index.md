@@ -1,15 +1,15 @@
 ---
-title: "ROUND AND ROUND WE GO"
+title: ROUND AND ROUND WE GO
 date: 2016-09-16
-thumbnail: "img/round-and-round-we-go.png"
-categories: 
-  - citycouncil
-tags: 
-  - roundabout
-authors: 
-  - ripp-report
+thumbnail: img/round-and-round-we-go.png
+categories:
+- citycouncil
+tags:
+- roundabout
+authors:
+- ripp-report
+alttags: "Roundabout traffic sign: Yellow triangle with black circular arrows indicating a modern intersection improving safety and ..."
 ---
-
 Baldwin County has recently been introduced to the traffic intersection known as a roundabout.” The modern roundabout is a beautiful thing. Traffic flow is improved, they look nice and they are safer than traditional intersections. In the Insurance Institute for Highway Safety Status Report about Roundabouts, they cite research from the University of Maine that found a 39% reduction in crashes, a 76% decrease in injury-producing crashes, and a 90% decrease in collisions involving fatal or incapacitating injuries when studying a sample of 25 intersections turned into roundabouts. Other research finds that while roundabouts are safer than traditional intersections, they also have the potential to reduce traffic delay by up to 75%.”
 
 So why build a gas station on a roundabout? Fairhope has received many accolades that have made our community a Norman Rockwell village sprinkled with flowers. Well folks if we wind up with a gas station at the roundabout located at highway 13 and Fairhope Avenue, we deserve a new award...perhaps a Red Neck Roundabout award or maybe the Good Ole Boy Never-ending Circle Award.

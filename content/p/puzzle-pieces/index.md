@@ -1,17 +1,17 @@
 ---
-title: "PUZZLE PIECES"
+title: PUZZLE PIECES
 date: 2019-08-24
-thumbnail: "img/puzzle-pieces.jpg"
+thumbnail: img/puzzle-pieces.jpg
 tags:
-  - Bob Riley
-  - Gulftainer
-  - Toll Bridge
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+- Bob Riley
+- Gulftainer
+- Toll Bridge
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras..."
 ---
-
 _**This is not a proven fact, it's just a collection of puzzle pieces that needs to be looked into.**_
 
 This is a long narrative but worth the read. One thing I think everyone will agree on is Alabama is the most corrupt state in the United States.

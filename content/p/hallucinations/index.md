@@ -1,15 +1,15 @@
 ---
-title: "HALLUCINATIONS"
+title: HALLUCINATIONS
 date: 2018-08-01
-thumbnail: "img/hallucinations.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - chucky
-authors: 
-  - ripp-report
+thumbnail: img/hallucinations.png
+categories:
+- wonderful-wednesday
+tags:
+- chucky
+authors:
+- ripp-report
+alttags: "Chucky doll depicted in a hallucination after surgery, referencing an imagined award for freedom of information reporting"
 ---
-
 I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations.
 
 One real bad hallucination was that Chuckee Cheeze, the editor of tabloid news and media outlet for Catalyst, received an award for Freedom of information requests and First Amendment Rights.

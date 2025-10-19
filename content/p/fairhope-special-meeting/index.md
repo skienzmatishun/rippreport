@@ -1,15 +1,15 @@
 ---
-title: "Fairhope Special Meeting"
+title: Fairhope Special Meeting
 date: 2017-12-28
-thumbnail: "img/fairhope-special-meeting.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-special-meeting.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+authors:
+- ripp-report
+alttags: "Satirical depiction: Jack Burrell’s face superimposed on a donkey, referencing concerns about his control over Fairhope ci..."
 ---
-
 Jack Burrell is calling a special meeting on Friday the 29th at 8:00 am.
 
 https://cdn.rippreport.com/wp-content/uploads/2017/12/Special-Council-City-Council-Meeting-December-29-2017-1.pdf

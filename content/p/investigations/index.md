@@ -1,21 +1,21 @@
 ---
-title: "INVESTIGATIONS"
+title: INVESTIGATIONS
 date: 2017-07-14
-thumbnail: "img/investigations.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-  - robert-brown
-  - sewer
-  - soccer-complex
-  - triangle
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/investigations.jpg
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+- robert-brown
+- sewer
+- soccer-complex
+- triangle
+- wilson
+authors:
+- ripp-report
+alttags: "Man in a bee costume waving, referencing Fairhope City Council members allegedly meeting secretly after a council session"
 ---
-
 The Fairhope City Council should be recognized for it’s political spin. City council members, Burrell, Boone and Brown, the busy bees, scurried to Bone and Barrel restaurant immediately after the council meeting Monday night. They know that they should not be meeting, as per open meetings rules, with a quorum of the council, but hell they had to get their stories straight over a drink. This is proof that council members are meeting in a quorum, discussing what? Read line 4, page 2, number 1. DELIBERATION
 
 https://www.openmeetings.alabama.gov/generalpublic/downloads/Act2005-40.pdf

@@ -1,17 +1,17 @@
 ---
-title: "INNOCENT"
+title: INNOCENT
 date: 2022-04-22
-thumbnail: "img/innocent.jpg"
+thumbnail: img/innocent.jpg
 tags:
-  - Murray Lawrence Jr
-  - Hoss Mack
-  - BCSO
-categories: 
-  - dwtd
-authors: 
-  - admin
+- Murray Lawrence Jr
+- Hoss Mack
+- BCSO
+categories:
+- dwtd
+authors:
+- admin
+alttags: "Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005"
 ---
-
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.
 
 Early attempts of appeal failed when attorneys dropped the ball.

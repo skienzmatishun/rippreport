@@ -1,23 +1,23 @@
 ---
-title: "DIRTY HANDS"
+title: DIRTY HANDS
 date: 2019-05-03
-thumbnail: "img/dirty-hands.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - alabama
-  - burrell
-  - catalyst
-  - chuckee
-  - city-council
-  - elliott
-  - lottery
-  - schools
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/dirty-hands.jpg
+categories:
+- freaky-friday
+tags:
+- alabama
+- burrell
+- catalyst
+- chuckee
+- city-council
+- elliott
+- lottery
+- schools
+- wilson
+authors:
+- ripp-report
+alttags: "Dirty hand raised against a stark background, symbolizing alleged corruption and misuse of lottery funds discussed in the ..."
 ---
-
 When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senator the TAX MAN, Elliott, hands are as dirty as they can get. The lottery and taxes Elliott supports does nothing for education. The “Education” Lottery has been dissolved into a lottery to pay past debts of the State, as far back as 2013. Be sure to read the comments for the article below.
 
 {{< socialpreview url="https://rippreport.com/p/what-education-lottery/" >}}

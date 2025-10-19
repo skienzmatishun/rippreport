@@ -1,13 +1,13 @@
 ---
-title: "DISPOSAL"
+title: DISPOSAL
 date: 2019-06-12
-thumbnail: "img/disposal.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/disposal.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Metallic trash can icon symbolizing disposal of land, referencing Fairhope council’s controversial sale of 106 acres"
 ---
-
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members. Not Jack Burrell, he has to maintain “control”. His Control has been very costly for the City of Fairhope. His lack of leadership and his favoritism to special interests, CATALYST, is all to apparent.
 
 Ask yourself, How can a Council President not know whose idea it was to “dispose” of 106 acres of city property, worth 20 million dollars? He knows, however Jack chose to lie to the entire council chambers claiming he forgot. WT F 20 million and he forgot who came up with the idea. HA

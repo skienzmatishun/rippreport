@@ -1,13 +1,13 @@
 ---
-title: "BACK STABBER"
+title: BACK STABBER
 date: 2018-09-04
-thumbnail: "img/back-stabber.png"
-categories: 
-  - terrible-tuesday
-authors: 
-  - ripp-report
+thumbnail: img/back-stabber.png
+categories:
+- terrible-tuesday
+authors:
+- ripp-report
+alttags: "Warning sign: Council decisions made without public hearing, mirroring a potentially problematic situation for Fairhope ci..."
 ---
-
 As predicted Mr Jack Burrell plans to make decisions for the whole community without a single public hearing. This is the after hours e-mail, 5:05 pm on a Friday, before a three day vacation. This should prove to you how the entire council, led by Jack Burrell is about to pull off the most rotten trick on Fairhope citizens since the settlement of the triangle lawsuit, Jack was part of that as well.
 
 From: Lisa A. Hanks, MMC Sent: Friday, August 31, 2018 5:05 PM To: Lisa A. Hanks, MMC <lisa.hanks@cofairhope.com> Subject: Special Called Council Meeting - September 4, 2018 at 4:00 p.m.

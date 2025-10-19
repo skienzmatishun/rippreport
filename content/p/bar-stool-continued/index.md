@@ -1,13 +1,13 @@
 ---
-title: "BAR STOOL “CONTINUED”"
+title: BAR STOOL “CONTINUED”
 date: 2020-01-25
-thumbnail: "img/bar-stool-continued.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/bar-stool-continued.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case"
 ---
-
 The wheels of justice move slow, especially when the good ole boys knock out the spokes. 15 months ago we reported on an incident that should have been resolved in 6 months.
 
 {{< socialpreview url="https://rippreport.com/p/barstool/" >}}

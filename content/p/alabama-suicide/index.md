@@ -1,23 +1,23 @@
 ---
-title: "ALABAMA SUICIDE"
+title: ALABAMA SUICIDE
 date: 2021-01-08
-thumbnail: "img/alabama-suicide.png"
-categories: 
-  - alabama
-tags: 
-  - barry-moore
-  - covid-19
-  - electoral-college
-  - gary-palmer
-  - insurrection
-  - jerry-carl
-  - mike-rogers
-  - robert-aderholt
-  - tuberville
-authors: 
-  - admin
+thumbnail: img/alabama-suicide.png
+categories:
+- alabama
+tags:
+- barry-moore
+- covid-19
+- electoral-college
+- gary-palmer
+- insurrection
+- jerry-carl
+- mike-rogers
+- robert-aderholt
+- tuberville
+authors:
+- admin
+alttags: "Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections"
 ---
-
 January 6th will go down in history for several reasons:
 
 Georgia elects two Democrats as Senators and the balance of power in Washington shifts from red to blue. The President gets all the credit for their success in being elected.

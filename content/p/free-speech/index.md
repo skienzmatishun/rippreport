@@ -1,13 +1,13 @@
 ---
-title: "FREE SPEECH"
+title: FREE SPEECH
 date: 2017-09-08
-thumbnail: "img/free-speech.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - ripp-report
+thumbnail: img/free-speech.jpg
+categories:
+- citycouncil
+authors:
+- ripp-report
+alttags: "Smoke billows from New York City skyscrapers after a disaster, reflecting the need for preparedness amid hurricane threats"
 ---
-
 Hard to believe a week later we are expecting another hurricane, IRMA, headed towards the United States. Landfall is expected in the Miami area and the destructive route may travel through the entire state of Florida. Please pray for those in Irma’s path and be prepared to help those in need as the storm passes.
 
 Baldwin County can expect yet another influx of people as a result of hurricane Harvey and hurricane Irma. We are geographically centered between both storms and can certainly expect storm immigrants. We should welcome them with open arms but we should also open our eyes to growth and infrastructure.

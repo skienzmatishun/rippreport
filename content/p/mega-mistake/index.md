@@ -1,13 +1,13 @@
 ---
-title: "MEGA-MISTAKE"
+title: MEGA-MISTAKE
 date: 2019-07-20
-thumbnail: "img/mega-mistake.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/mega-mistake.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Sign advertising the South Alabama Mega Site in Baldwin County; includes QR code & contact info, alongside a humorous OOP..."
 ---
-
 You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources willing to report news. There is other media but the articles published are “fluff” or so mundane and lacking of any back story, that the reader can make little sense out of the content.
 
 <div class="link-preview">

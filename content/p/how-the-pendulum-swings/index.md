@@ -1,18 +1,18 @@
 ---
-title: "HOW THE PENDULUM SWINGS"
+title: HOW THE PENDULUM SWINGS
 date: 2017-05-12
-thumbnail: "img/how-the-pendulum-swings.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-  - kant
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/how-the-pendulum-swings.png
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+- kant
+- wilson
+authors:
+- ripp-report
+alttags: "Golden pendulum suspended from a chain, symbolizing balance and potential shifts in local politics discussed in The Ripp R..."
 ---
-
 Well, Wonderful Wednesday had some very interesting commentary.
 
 {{< socialpreview url="https://rippreport.com/p/happy-days-are-here-again/" >}}

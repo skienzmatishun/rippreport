@@ -1,14 +1,14 @@
 ---
-title: "FAUXHOPE ROLLER-COASTER"
+title: FAUXHOPE ROLLER-COASTER
 date: 2022-04-12
-thumbnail: "img/fauxhope-roller-coaster.jpg"
-gif: "img/fauxhope-roller-coaster.gif"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/fauxhope-roller-coaster.jpg
+gif: img/fauxhope-roller-coaster.gif
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Man in a red boat waves enthusiastically near waterfront development delays impacting Fauxhope city projects"
 ---
-
 The current Fauxhope city council is not listening to anyone. A select few are making, and have been making, crucial decisions without any public participation. Sure you can go to the council meeting but your comments will fall on deaf ears.
 
 The waterfront project was further along 18 months ago than now. The design changes and time delays have taken a substantial amount of money from the project. The Mayor has announced it may be another year before bids are accepted.

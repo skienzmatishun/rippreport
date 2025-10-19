@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE - CATALYST a Dirty Little Secret"
+title: FAIRHOPE - CATALYST a Dirty Little Secret
 date: 2018-09-21
-thumbnail: "img/fairhope-catalyst-a-dirty-little-secret.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-catalyst-a-dirty-little-secret.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Fairhope pier at sunset; a view representing the city council’s connection to local power structures"
 ---
-
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was hand-picked for the last election by the former Mayor, Tim Kant. They were a slate of Catalyst candidates, who had pledged their loyalty to Tim; who lost to Mayor Karin Wilson when we demanded the head of the legal division for the Elections Department drove down and oversaw the election, allowing for the first legitimate election in decades.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}

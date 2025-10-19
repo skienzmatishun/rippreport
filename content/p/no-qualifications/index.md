@@ -1,34 +1,34 @@
 ---
-title: "NO QUALIFICATIONS"
+title: NO QUALIFICATIONS
 date: 2021-05-28
-thumbnail: "img/no-qualifications.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - airport
-  - bay-bridge
-  - burrell
-  - city-council
-  - fairhope-airport
-  - fairhope-pier
-  - fairhope-single-tax
-  - fairhope-waterfront
-  - golf-course
-  - hawthorn-glen
-  - jack-burrell
-  - k1-center
-  - kant
-  - mayor-sullivan
-  - sullivan
-  - tolls
-  - triangle-lawsuit
-  - utilities-director
-  - waterfront-project
-  - wilson
-authors: 
-  - admin
+thumbnail: img/no-qualifications.jpg
+categories:
+- citycouncil
+tags:
+- airport
+- bay-bridge
+- burrell
+- city-council
+- fairhope-airport
+- fairhope-pier
+- fairhope-single-tax
+- fairhope-waterfront
+- golf-course
+- hawthorn-glen
+- jack-burrell
+- k1-center
+- kant
+- mayor-sullivan
+- sullivan
+- tolls
+- triangle-lawsuit
+- utilities-director
+- waterfront-project
+- wilson
+authors:
+- admin
+alttags: "Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership"
 ---
-
 Only in Fairhope can someone with a high school education become the utility director with absolutely no experience at the job. Mayor Sullivan gets a $25,000 utility salary as well as her second check as Mayor.
 
 No other job classification among Fairhope employees exists where “No Experience” is needed.

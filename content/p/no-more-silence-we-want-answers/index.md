@@ -1,24 +1,24 @@
 ---
-title: "NO MORE SILENCE — WE WANT ANSWERS"
+title: NO MORE SILENCE — WE WANT ANSWERS
 date: 2016-08-13
-thumbnail: "img/no-more-silence-we-want-answers.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - fairhope-library
-  - fairhope-schools
-  - fly-creek
-  - geese
-  - pittman
-  - planning-and-zoning
-  - sewer
-  - shux
-  - soccer-complex
-  - triangle
-authors: 
-  - ripp-report
+thumbnail: img/no-more-silence-we-want-answers.jpg
+categories:
+- citycouncil
+tags:
+- fairhope-library
+- fairhope-schools
+- fly-creek
+- geese
+- pittman
+- planning-and-zoning
+- sewer
+- shux
+- soccer-complex
+- triangle
+authors:
+- ripp-report
+alttags: "Podium with microphone against a town backdrop, symbolizing scrutiny of Fairhope’s Planning & Zoning Board and Mayor Kant"
 ---
-
 QUESTIONS FOR MAYOR KANT
 
 ## 1\. Planning and Zoning

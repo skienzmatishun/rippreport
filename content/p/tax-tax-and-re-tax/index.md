@@ -1,19 +1,19 @@
 ---
-title: "TAX TAX AND RE-TAX"
+title: TAX TAX AND RE-TAX
 date: 2019-05-17
-thumbnail: "img/tax-tax-and-re-tax.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - lottery
-  - school-tax
-  - schools
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/tax-tax-and-re-tax.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- lottery
+- school-tax
+- schools
+- wilson
+authors:
+- ripp-report
+alttags: "School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo..."
 ---
-
 Tax, tax and re-tax that is the bottom line for Baldwin County. The developers pay no or little impact fee for their projects which ends up costing you, the taxpayer, to make up the difference in the cost of Schools, Streets/Transportation and Education.
 
 As the fastest growing County in the State, Baldwin County School System has been negatively impacted the most due to the lack of long-term planning from the board.

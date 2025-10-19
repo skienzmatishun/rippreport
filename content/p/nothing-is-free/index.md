@@ -1,18 +1,18 @@
 ---
-title: "NOTHING IS FREE"
+title: NOTHING IS FREE
 date: 2019-02-13
-thumbnail: "img/nothing-is-free.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - bp
-  - elliott
-  - pittman
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/nothing-is-free.jpg
+categories:
+- wonderful-wednesday
+tags:
+- bp
+- elliott
+- pittman
+- wilson
+authors:
+- ripp-report
+alttags: "Pile of U.S. dollar bills, referencing concerns about financial interests influencing local politics and gas tax debates"
 ---
-
 For the last 15 years one complaint in Fairhope has been consistent. Why do I have to comply with Fairhope municipal regulations when I live outside the city limits and I cannot vote in Fairhope elections?
 
 Well, folks I will have to admit that the newly elected State Senator Chris Elliott is not who I thought would tackle the issue. The last State Senator Tripp, BP, Pittman never addressed any of the issues in the county, unless he could make a buck.

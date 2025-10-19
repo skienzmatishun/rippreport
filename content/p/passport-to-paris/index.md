@@ -1,15 +1,15 @@
 ---
-title: "PASSPORT TO PARIS"
+title: PASSPORT TO PARIS
 date: 2019-07-01
-thumbnail: "img/passport-to-paris.jpg"
+thumbnail: img/passport-to-paris.jpg
 tags:
-  - Elliott
-categories: 
-  - elections
-authors: 
-  - admin
+- Elliott
+categories:
+- elections
+authors:
+- admin
+alttags: "State Senator Chris Elliott holds his passport, linked to a bill for travel expenses and potential political leverage"
 ---
-
 State Senator Chris Elliott, aka TAX MAN, needs tax money to travel, so he co-sponsored a bill for his travel expenses. The newly elected State Senator is rumored to have used the proposed travel expenditure to strong arm other legislators, by holding up other bills being considered. It is not nice to piss off Goat Hill, especially when your a lamb.
 
 An extra bonus for the TAX MAN is the air miles he will accumulate, and you can be assured he will use them for future travel.

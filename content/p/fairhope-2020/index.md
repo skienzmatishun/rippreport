@@ -1,23 +1,23 @@
 ---
-title: "FAIRHOPE 2020"
+title: FAIRHOPE 2020
 date: 2019-04-25
-thumbnail: "img/fairhope-2020.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - catalyst
-  - city-council
-  - election
-  - mcsharry
-  - pandora
-  - police-chief
-  - sullivan
-  - thomasson
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-2020.png
+categories:
+- wonderful-wednesday
+tags:
+- catalyst
+- city-council
+- election
+- mcsharry
+- pandora
+- police-chief
+- sullivan
+- thomasson
+- wilson
+authors:
+- ripp-report
+alttags: "Fairhope waterfront scene at sunset; overlaid with 2020, referencing local politics and recent events discussed in the a..."
 ---
-
 Get ready, Fairhope Catalyst Council is making their move to capture the Fairhope general election. Everything and anything in Fairhope is connected to politics. I have said more than once that the major negative in Fairhope is the politics.
 
 Last week The Ripp Report was the only source of information that reported on the arrest of Ronan McSharry. In court the defense attorney made the incident political by raising questions about the Mayor. The Mayor had not one damn thing to do with the incident.

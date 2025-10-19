@@ -1,15 +1,15 @@
 ---
-title: "CAN YOU SMELL IT?"
+title: CAN YOU SMELL IT?
 date: 2017-10-06
-thumbnail: "img/can-you-smell-it.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - sewer
-authors: 
-  - ripp-report
+thumbnail: img/can-you-smell-it.jpg
+categories:
+- freaky-friday
+tags:
+- sewer
+authors:
+- ripp-report
+alttags: "Gas mask against a white background, symbolizing environmental pollution concerns ignored by authorities"
 ---
-
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For example:
 
 {{< socialpreview url="https://web.archive.org/web/20210915025801/https://mobilebaykeeper.org/bay-blog/2017/9/25/mobile-baykeeper-awarded-87000-to-expand-watershed-program-into-fairhope" >}}

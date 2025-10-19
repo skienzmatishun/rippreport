@@ -1,13 +1,13 @@
 ---
-title: "CONGRESSIONAL CATALYST"
+title: CONGRESSIONAL CATALYST
 date: 2020-01-22
-thumbnail: "img/congressional-catalyst.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/congressional-catalyst.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Republican congressional candidate CATALYST speaking, one of five vying for Alabama’s first district seat"
 ---
-
 Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat.  Only one is CATALYST. GUESS.
 
 {{< socialpreview url="https://www.al.com/politics/2020/01/republican-congressional-candidates-differ-on-i-10-financing-during-debate.html" >}}

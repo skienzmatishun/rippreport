@@ -1,15 +1,15 @@
 ---
-title: "PEOPLE POWER"
+title: PEOPLE POWER
 date: 2016-11-16
-thumbnail: "img/people-power.png"
-categories: 
-  - elections
-tags: 
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/people-power.png
+categories:
+- elections
+tags:
+- wilson
+authors:
+- ripp-report
+alttags: "Fairhope City Council meeting: a symbol of cooperation and progress for the city’s future"
 ---
-
 For those who wish for a little good news from the Ripp Report I am pleased to tell you the Fairhope Work Session and City Council Meeting last night was a testament of what we as citizens desire. The Mayor and Council showed respect for each other and genuine cooperation. If last night’s meeting is any indication of the future, Fairhope is finally on track to accomplish great things. The makeup of this council shows great promise. All three of the new councilmen are professionals in their field and appear dedicated to their position of representing the public.
 
 The past four councils debated and fought each other on who had power. A weak Mayor, strong council or a strong Mayor weak council has always been the argument. As soon as you debate power and start pounding your chest the other side begins to undermine you. For 16 years we have been in this situation and the results have always been the same, stagnation and good ole boy deals. The other result was the voting out of councilmen, councilwomen and ultimately the Mayor.

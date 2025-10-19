@@ -1,21 +1,21 @@
 ---
-title: "BROKEN EGGS"
+title: BROKEN EGGS
 date: 2017-10-13
-thumbnail: "img/broken-eggs.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - hix
-  - snedeker
-  - soccer-complex
-  - wilson
-  - zunk
-authors: 
-  - ripp-report
+thumbnail: img/broken-eggs.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- hix
+- snedeker
+- soccer-complex
+- wilson
+- zunk
+authors:
+- ripp-report
+alttags: "Broken eggshells and yolk illustrate Fairhope City Council’s dysfunction and lack of progress"
 ---
-
 Fairhope City Council is as dysfunctional as a square bowling ball. Led by Council President Jack Burrell who has been president for going on 7 years. The council has achieved little in the last year other than obstruct the Mayor’s office. It was more of the same at the last council meeting when it came to light that not one of the council has discussed any issues related to the budget in the last two weeks, with the Mayor, as they said they would. Now the supreme commander and self proclaimed “mediator” of the council has said he wishes the budget be sent to the new “APPOINTED” finance committee.
 
 Hello! Is it not the responsibility of the City Council to review the budget and ask questions while developing solutions? They are the elected officials, not the “APPOINTED” finance committee. Is King Jack going to use the finance committee to further obstruct the Mayor and city budget?

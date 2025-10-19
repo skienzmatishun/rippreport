@@ -1,13 +1,13 @@
 ---
-title: "BOILING FROG"
+title: BOILING FROG
 date: 2019-01-18
-thumbnail: "img/boiling-frog.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/boiling-frog.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "A frog sits on a pot handle, illustrating the boiling frog fable about gradual unnoticed danger"
 ---
-
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.”
 
 This fable reminds me of Parker Road and Hwy.98 and how the traffic seems to get more congested at that intersection every day. To enter the Publix off Parker Road is only 8 car lengths, to exit is also 8 vehicles. As soon as those 8 vehicles stack up for the light on 98, they block the gas station entrance, and usually only those cars make the light.

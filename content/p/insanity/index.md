@@ -1,13 +1,13 @@
 ---
-title: "INSANITY"
+title: INSANITY
 date: 2018-10-10
-thumbnail: "img/insanity.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/insanity.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Political cartoon depicting Kay Ivey wearing a shirt reading No Medicaid Expansion, symbolizing opposition to healthcare..."
 ---
-
 The Eastern Shore was blessed that Hurricane Michael spared us. Please pray for those in the storm’s path and if you have the opportunity to donate time or items for those impacted from the storm, it will be greatly appreciated.
 
 Insanity is doing the same thing over and over again and expecting a different result.

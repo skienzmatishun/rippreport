@@ -1,25 +1,25 @@
 ---
-title: "NO RADAR"
+title: NO RADAR
 date: 2021-04-09
-thumbnail: "img/no-radar.png"
-categories: 
-  - citycouncil
-tags: 
-  - airport
-  - city-attorney
-  - city-council
-  - faa
-  - jack-burrell
-  - kevin-boone
-  - lawsuits
-  - marcus-mcdowel
-  - raines
-  - robert-brown
-  - wilson
-authors: 
-  - admin
+thumbnail: img/no-radar.png
+categories:
+- citycouncil
+tags:
+- airport
+- city-attorney
+- city-council
+- faa
+- jack-burrell
+- kevin-boone
+- lawsuits
+- marcus-mcdowel
+- raines
+- robert-brown
+- wilson
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal featuring radar design with question marks, referencing legal challenges over public speech ac..."
 ---
-
 One thing you can say about Fairhope City Council, is that they are consistent. Council President Jack Burrell, who has stained the seat as President of Fairhope Council for two terms, is now beginning his third term, as President. For 9 years Jack has monopolize a position that is normally shared by the whole council, but they do things different in Fairhope.
 
 Mr Burrell and Council was sued, in Federal court, for denying public speech:

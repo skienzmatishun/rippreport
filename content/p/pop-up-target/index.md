@@ -1,13 +1,13 @@
 ---
-title: "POP UP TARGET"
+title: POP UP TARGET
 date: 2018-08-31
-thumbnail: "img/pop-up-target.png"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/pop-up-target.png
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Target symbol representing Jack Burrell as a recurring focus of controversy surrounding projects like the K-1 Center"
 ---
-
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
 
 {{< socialpreview url="https://rippreport.com/p/fact-and-fiction-a-b-c/" >}}

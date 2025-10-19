@@ -1,13 +1,13 @@
 ---
-title: "BLIND VOTING STRAIGHT TICKET"
+title: BLIND VOTING STRAIGHT TICKET
 date: 2018-11-09
-thumbnail: "img/blind-voting-straight-ticket.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/blind-voting-straight-ticket.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Blindfold representing Alabama’s straight ticket voting system, which encourages uninformed choices based on party affilia..."
 ---
-
 Want to know why Alabama is the most corrupt state in the United States? Want to know why Alabama health care and education is rated as the worst in the United States?
 
 Blind Voting known as straight ticket voting. Alabama is one of 8 states that has straight ticket voting.

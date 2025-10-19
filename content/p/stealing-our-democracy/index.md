@@ -1,20 +1,20 @@
 ---
-title: "STEALING OUR DEMOCRACY"
+title: STEALING OUR DEMOCRACY
 date: 2020-06-17
-thumbnail: "img/stealing-our-democracy.jpg"
-categories: 
-  - elections
-tags: 
-  - catalyst
-  - election
-  - hoss-mack
-  - mack
-  - sheriff-mack
-  - tripp-pittman
-authors: 
-  - admin
+thumbnail: img/stealing-our-democracy.jpg
+categories:
+- elections
+tags:
+- catalyst
+- election
+- hoss-mack
+- mack
+- sheriff-mack
+- tripp-pittman
+authors:
+- admin
+alttags: "Former Governor Don Siegelman in a prison jumpsuit, overlaid with text about stolen democracy, referencing election fixing..."
 ---
-
 When elections are “fixed” you can be assured, politicians, any party, are STEALING OUR DEMOCRACY.
 
 Baldwin County is home to fixing elections, just ask former Governor Don Siegelman. Their are many ways to “FIX” elections. Years ago Judge Michelle Thompsson eliminated her competition by having the Baldwin County Republican Party, declaring her competition, not Republican enough. Baldwin County now suffers under her gavel.

@@ -1,13 +1,13 @@
 ---
-title: "POT CALLING THE KETTLE BLACK"
+title: POT CALLING THE KETTLE BLACK
 date: 2022-02-19
-thumbnail: "img/pot-calling-the-kettle-black.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/pot-calling-the-kettle-black.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics"
 ---
-
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.
 
 {{< socialpreview url="https://www.alreporter.com/2022/02/18/how-tallassee-went-crazy/" >}}

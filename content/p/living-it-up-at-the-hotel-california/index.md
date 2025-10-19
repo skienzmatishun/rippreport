@@ -1,18 +1,18 @@
 ---
-title: "Living it Up at The Hotel California"
+title: Living it Up at The Hotel California
 date: 2016-10-07
-thumbnail: "img/living-it-up-at-the-hotel-california.png"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-  - planning-and-zoning
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/living-it-up-at-the-hotel-california.png
+categories:
+- freaky-friday
+tags:
+- kant
+- planning-and-zoning
+- sullivan
+- wilson
+authors:
+- ripp-report
+alttags: "Mayor Kant and Jennifer Fidler appear in Southern California, reportedly missing a planning meeting for an America in Bloo..."
 ---
-
 **CORRECTION** Mayor Kant was not in California until Wednesday, he and Jennifer just skipped the planning and zoning meeting Monday night for no legitimate reason. Several employees have called the Eagle and informed us that the dynamic duo was in hiding. WOW what leadership. An America in Bloom vanity award in sunny Southern California was the reason Mayor Kant and Public Works Director Jennifer Fidler were conspicuously absent at this week’s planning commission meeting entertaining the controversial Fly Creek Apartment deal for the sixth time.  While Kant and Fidler, Sherry Sullivan did not make this trip, were wining and dining with the fawning politicians of coastal Arroyo Grande, the Fairhope Planning Commission sealed the fate of the dubious high-density project with a 4-2 vote.  Their two votes, in lieu of Commissioner Fogarty’s absence, were crucial.  However, the fact that the mayor turned his back on  the citizens, the developers, and property owner, at the eleventh hour of this costly, tortuous ordeal speaks volumes about his character and even more about the near future of Fairhope politics.  What is the mayor thinking? Fairhope came in second for the same award last year, out of three entries, think about it.
 
 I attended the last meeting of the Planning Commission and watched the losing Mississippi developer plea to the commission, “Is this how y’all do people here in Fairhope?”  I have to wonder what the developer thought when he saw the mayor and Fidler were absent at the commission meeting and if he knew they would be absent.  Tim and Jen were literally California Dreaming on their dime.  I guess in the end Tim felt it would be easier to receive another meaningless vanity award in Cali than to face for the sixth time the music back at home—where he was recently firmly rejected at the polls.  The mayor has always enjoyed the perks of “being mayor,” but for him to tuck and run with a month to go in this fashion is questionable.  What else is the mayor running from?

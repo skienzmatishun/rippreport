@@ -1,13 +1,13 @@
 ---
-title: "BARSTOOL"
+title: BARSTOOL
 date: 2018-11-30
-thumbnail: "img/barstool.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/barstool.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Close-up of a modern bar stool with silver legs and a red circular seat, likely from the Irish pub in Fairhope where the o..."
 ---
-
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
 
 <div class="link-preview">

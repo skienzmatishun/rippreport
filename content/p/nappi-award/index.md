@@ -1,16 +1,16 @@
 ---
-title: "NAPPI AWARD"
+title: NAPPI AWARD
 date: 2020-08-06
-thumbnail: "img/nappi-award.png"
-categories: 
-  - Special-Report
-tags: 
-  - nappi
-  - wilson
-authors: 
-  - admin
+thumbnail: img/nappi-award.png
+categories:
+- Special-Report
+tags:
+- nappi
+- wilson
+authors:
+- admin
+alttags: "Mayor Karin Wilson recognized as “Hardest Working Eastern Shore Public Official” for four consecutive years with a celebra..."
 ---
-
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/08/karin2.jpg)
 
 The Mayor of Fairhope has won four years in a row, The Nappi Award for the

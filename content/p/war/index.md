@@ -1,14 +1,14 @@
 ---
-title: "WAR"
+title: WAR
 date: 2025-02-22
-thumbnail: "img/war.png"
-categories: 
-  - ivy
-  - alabama
-authors: 
-  - admin
+thumbnail: img/war.png
+categories:
+- ivy
+- alabama
+authors:
+- admin
+alttags: "Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation"
 ---
-
 Alabama veterans are facing another war. This time with the state of Alabama and their efforts to strip the veterans representation by creating a cabinet position for the director of veterans affairs and the veterans board to an advisory position. This would strip veterans of their current representation, by the current veteran’s board, and limit it to a cabinet member subservient to the Governor.
 
 This is Governor “poison Ivy’s” way of retaliation against the current veterans board who opposed her using “supreme executive power” to remove the ADVA director Admiral Kent Davis. Alabama is the most corrupt state in the United States. We are now sinking to a level of corruption and vindictiveness that is below any scale.

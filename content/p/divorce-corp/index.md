@@ -1,15 +1,15 @@
 ---
-title: "DIVORCE CORP"
+title: DIVORCE CORP
 date: 2017-09-06
-thumbnail: "img/divorce-corp.jpg"
-categories: 
-  - familycourt
-tags: 
-  - thomason
-authors: 
-  - ripp-report
+thumbnail: img/divorce-corp.jpg
+categories:
+- familycourt
+tags:
+- thomason
+authors:
+- ripp-report
+alttags: "Divorce dispute: A man and woman pull on a rope atop stacks of money, illustrating financial battles in divorce cases"
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allowfullscreen></iframe>
 
 Divorce corp. has many videos related to divorce, custody, visitation and money. Baldwin County fits perfectly into the picture portrayed by Divorce Corp.

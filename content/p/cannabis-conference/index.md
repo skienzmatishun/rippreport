@@ -1,15 +1,13 @@
 ---
-title: "Inaugural Alabama Medical Cannabis Conference"
+title: Inaugural Alabama Medical Cannabis Conference
 date: 2023-08-08
-thumbnail: "img/cannabis-conference.jpg"
-categories: 
-  - events
-authors: 
-  - admin
+thumbnail: img/cannabis-conference.jpg
+categories:
+- events
+authors:
+- admin
+alttags: "Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference"
 ---
-
-
-
 Inaugural Alabama Medical Cannabis Conference to Make History as the State's First Major Cannabis-Focused Event
 
 [Birmingham, AL] - The Alabama Cannabis Industry Association (ACIA) is thrilled to announce the inaugural Alabama Medical Cannabis Conference, scheduled for October 13th and 14th, 2023, at the prestigious Sheraton Hotel in Birmingham, Alabama. This groundbreaking event will mark the first major cannabis-focused conference in the history of the state.

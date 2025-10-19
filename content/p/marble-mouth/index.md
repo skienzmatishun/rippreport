@@ -1,13 +1,13 @@
 ---
-title: "MARBLE MOUTH"
+title: MARBLE MOUTH
 date: 2020-01-15
-thumbnail: "img/marble-mouth.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/marble-mouth.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Fairhope Councilman Robinson depicted with marbles in his mouth, referencing criticism about his speaking style"
 ---
-
 Fairhope’s City Council started out, day one, as being obstructionist. They have stayed the course for over 3 years and the taxpayers have paid dearly.
 
 The three new councilman aligned themselves with Council President Burrell, aka the negotiator, from day one.

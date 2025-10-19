@@ -1,23 +1,23 @@
 ---
-title: "CATALYST MISSING IN ACTION"
+title: CATALYST MISSING IN ACTION
 date: 2020-08-22
-thumbnail: "img/catalyst-missing-in-action.png"
-categories: 
-  - freaky-friday
-tags: 
-  - city-council
-  - covid-19
-  - elections
-  - fairhope-high
-  - football
-  - sherry-sullivan
-  - spanish-fort
-  - sullivan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/catalyst-missing-in-action.png
+categories:
+- freaky-friday
+tags:
+- city-council
+- covid-19
+- elections
+- fairhope-high
+- football
+- sherry-sullivan
+- spanish-fort
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "Mask crossed out, fan checked: Illustration reflects attendees removing masks at crowded football game"
 ---
-
 Last night Spanish Fort played Fairhope in football. The stands were full, social distancing was all but impossible.
 
 When one of the High School Principals was asked why most of those in attendance did not have masks? He explained that they tried to enforce the use of a mask, however once the people got seated they removed their masks.

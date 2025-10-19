@@ -1,13 +1,13 @@
 ---
-title: "HAPPY JULY 4TH"
+title: HAPPY JULY 4TH
 date: 2019-07-04
-thumbnail: "img/happy-july-4th.png"
-categories: 
-  - holiday
-authors: 
-  - admin
+thumbnail: img/happy-july-4th.png
+categories:
+- holiday
+authors:
+- admin
+alttags: "American flag waving against a blue sky, symbolizing military service and oaths of allegiance to defend the nation"
 ---
-
 Please remember all the military personal that gave their life or were wounded defending your rights. All military personal start their military service by swearing an Oath of Enlistment:
 
 I, \_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed ...

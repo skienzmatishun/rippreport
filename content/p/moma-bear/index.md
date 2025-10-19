@@ -1,13 +1,13 @@
 ---
-title: "MOTHER BEAR"
+title: MOTHER BEAR
 date: 2023-07-12
-thumbnail: "img/moma-bear.jpg"
-categories: 
-  - family-court
-authors: 
-  - admin
+thumbnail: img/moma-bear.jpg
+categories:
+- family-court
+authors:
+- admin
+alttags: "A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat..."
 ---
-
 ## Maternal instinct propagates disorder in the court
 
 

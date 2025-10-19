@@ -1,13 +1,13 @@
 ---
-title: "MEGA — LOST OPPORTUNITY"
+title: MEGA — LOST OPPORTUNITY
 date: 2021-07-30
-thumbnail: "img/mega-lost-opportunity.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/mega-lost-opportunity.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011"
 ---
-
 This post is a little long, however I wanted everyone to get a clear picture of the B.S. the citizens of Baldwin County are being forced fed by what is called Baldwin County Economic Development Alliance.
 
 Baldwin County citizens, especially Baldwin county employees, have waited 10 years for a project that started on the wrong track and never got off it. The Ripp Report has been following the Mega-site black hole since the original 32 million dollar purchase of the land.

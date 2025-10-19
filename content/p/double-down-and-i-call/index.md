@@ -1,17 +1,17 @@
 ---
-title: "DOUBLE DOWN AND I CALL"
+title: DOUBLE DOWN AND I CALL
 date: 2016-12-21
-thumbnail: "img/double-down-and-i-call.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - ethics-commission
-  - fairhope-airport
-authors: 
-  - ripp-report
+thumbnail: img/double-down-and-i-call.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- ethics-commission
+- fairhope-airport
+authors:
+- ripp-report
+alttags: "Casino chips representing bids under review at Fairhope Airport, amid claims of legality and investigation calls"
 ---
-
 Fairhope City Council President, Fairhope Authority board member and Fairhope Authority Board Member who is on two man committee to review bids at the airport, Jack Burrell is double down. He insists that everything at the airport is perfectly legal and every one is as happy as larks.
 
 The Ripp Report doubles down and calls. The scope of our ability to investigate the matter is now hindered by our lack of authority. We now call on the proper authorities to fully investigate the matter.

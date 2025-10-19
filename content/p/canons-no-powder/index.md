@@ -1,13 +1,13 @@
 ---
-title: "CANONS — NO POWDER"
+title: CANONS — NO POWDER
 date: 2021-12-13
-thumbnail: "img/canons-no-powder.png"
-categories: 
-  - monday-mayhem
-authors: 
-  - admin
+thumbnail: img/canons-no-powder.png
+categories:
+- monday-mayhem
+authors:
+- admin
+alttags: "Lack of accountability in Baldwin County judicial ethics: a judge/developer facing approval conflicts"
 ---
-
 The Alabama Judicial Canons are the baseline ethics that Alabama Judges are suppose to abide by. In Baldwin County the Canons have NO powder, because there is no accountability.
 
 Canon 2: “avoid impropriety and the appearance of impropriety in all his activities”.

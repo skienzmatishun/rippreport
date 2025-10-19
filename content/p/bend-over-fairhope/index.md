@@ -1,22 +1,22 @@
 ---
-title: "BEND OVER FAIRHOPE"
+title: BEND OVER FAIRHOPE
 date: 2018-02-09
-thumbnail: "img/bend-over-fairhope.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - big-head-gulley
-  - big-head-gully
-  - boone
-  - burrell
-  - fairhope-single-tax
-  - robert-brown
-  - tatumville
-  - triangle
-authors: 
-  - ripp-report
+thumbnail: img/bend-over-fairhope.jpg
+categories:
+- freaky-friday
+tags:
+- big-head-gulley
+- big-head-gully
+- boone
+- burrell
+- fairhope-single-tax
+- robert-brown
+- tatumville
+- triangle
+authors:
+- ripp-report
+alttags: "Vintage postcard depicting a figure head bowed in Fairhope, Alabama; symbolizing community disappointment over City Counci..."
 ---
-
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has been to obstruct the Mayor in any way possible. The Mayor’s office has been reduced to 2500 dollars for discretionary funds, the previous administration was allocated 15 thousand dollars, make no mistake you are the loser.
 
 For over a year the council has waged war with the Mayor using fake and inaccurate news. They have had a policy of using employees, and fired employees, to spread unfounded rumors and encouraged them to demoralize staff. They have assisted disgruntled employees who have sued the city and reached settlements, which are sealed, that’s your tax dollars.

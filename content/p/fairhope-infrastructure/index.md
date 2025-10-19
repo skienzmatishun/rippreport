@@ -1,22 +1,22 @@
 ---
-title: "Fairhope Infrastructure"
+title: Fairhope Infrastructure
 date: 2024-05-06
-thumbnail: "img/fairhope-infrastructure.jpg"
+thumbnail: img/fairhope-infrastructure.jpg
 tags:
-  - Utilities
-  - City Council
-  - 68 Ventures
-  - Park City
-  - Hix Snedeker
-  - Britt
-  - Gray
-summary: "In Fairhope, Alabama, there’s a water shortage, incomplete infrastructure projects, and an overloaded sewer system. Amidst legal battles and controversy, 68 Ventures proposes a new mixed-use development, “Park City,” which has drawn criticism for its potential impact on the community and local schools."
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- Utilities
+- City Council
+- 68 Ventures
+- Park City
+- Hix Snedeker
+- Britt
+- Gray
+summary: In Fairhope, Alabama, there’s a water shortage, incomplete infrastructure projects, and an overloaded sewer system. Amidst legal battles and controversy, 68 Ventures proposes a new mixed-use development, “Park City,” which has drawn criticism for its potential impact on the community and local schools.
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru..."
 ---
-
 Fairhope has had a water shortage for the last three years running. The sewer and infrastructure projects that were approved in 2020 have yet to be completed and we are in year 5. The sewer plant is beyond capacity and still discharges into the Bay. Growth has exploded with over a 1000 homes, condo and townhouses already approved for the future. Schools are bursting at the seams and municipalities are abandoning the public schools. Traffic has increased without any new roads. Lawsuits against the city are now in vogue again, costing taxpayers hundreds of thousands of dollars.
 
 On top of all this Fairhope and 68 Ventures have been in a legal pissing contest for the last couple of years.

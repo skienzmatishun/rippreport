@@ -1,13 +1,13 @@
 ---
-title: "CATALYST IS DROWNING"
+title: CATALYST IS DROWNING
 date: 2018-07-18
-thumbnail: "img/catalyst-is-drowning.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-is-drowning.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Hand reaching from water, symbolizing a political exit after Billie Jo Underwood defeated Tucker Dorsey in an election"
 ---
-
 The People’s Choice almost made a clean sweep of Catalyst. PEOPLE’S CHOICE 2 CATALYST ½
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-trifecta/" >}}

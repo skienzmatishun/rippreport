@@ -1,20 +1,20 @@
 ---
-title: "CATALYST - SOLD TO THE HIGHEST BIDDER"
+title: CATALYST - SOLD TO THE HIGHEST BIDDER
 date: 2018-07-09
-thumbnail: "img/catalyst-sold-to-the-highest-bidder.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - catalyst
-  - chris-elliott
-  - doug-jones
-  - eddie-tyler
-  - pittman
-  - sheriff-mack
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-sold-to-the-highest-bidder.jpg
+categories:
+- monday-madness
+tags:
+- catalyst
+- chris-elliott
+- doug-jones
+- eddie-tyler
+- pittman
+- sheriff-mack
+authors:
+- ripp-report
+alttags: "Chris Elliott and David Northcutt, candidates in a runoff election, pose for a photo amid campaign activity"
 ---
-
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and political ambitions. Elliott is starting out to be worse than Pittman, please spare us the grief vote David Northcutt July 17th run off.
 
 Chris Elliott is in full blown attack mode against his opponent David Northcutt. Elliott has collected almost 500,000 in campaign funds, most coming from Montgomery. Elliott’s final take could reach 750,000 for a State Senate Seat, that has a 42,000 dollar salary! His first mission, if he wins, is to pass a 12% gas tax, that will full fill his obligation to Orange Beach and Gulf Shores, they will be able to build those two bridges not needed. Elliott is the TAX MAN he secured the Education 1% tax, without a public vote, then he skimmed money off the 1% tax for county infrastructure. The County should have had the funds however the “Black Hole” mega-site ate up almost 40 million dollars.

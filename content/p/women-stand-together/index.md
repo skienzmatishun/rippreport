@@ -1,25 +1,25 @@
 ---
-title: "WOMEN STAND TOGETHER"
+title: WOMEN STAND TOGETHER
 date: 2020-08-22
-thumbnail: "img/women-stand-together.png"
-categories: 
-  - saturday-sunshine
-tags: 
-  - boone
-  - burrell
-  - city-council
-  - city-prosecutor
-  - jack-burrell
-  - kevin-boone
-  - marcus-mcdowell
-  - mcsharry
-  - mcsharrys
-  - municipal-judge
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/women-stand-together.png
+categories:
+- saturday-sunshine
+tags:
+- boone
+- burrell
+- city-council
+- city-prosecutor
+- jack-burrell
+- kevin-boone
+- marcus-mcdowell
+- mcsharry
+- mcsharrys
+- municipal-judge
+- ronan-mcsharry
+authors:
+- admin
+alttags: "Scales of justice icon depicting a woman and man, symbolizing Paula DiNardi’s experience with legal proceedings after an a..."
 ---
-
 Paula DiNardi
 
 Hi everyone...I want to say thank you to all of you who have reached out to me with love & support throughout the past 21 months. I will only post about what is already public record. As most of you know, I was assaulted on Thanksgiving night in 2018 by a local businessman. I was led to believe justice would be served, & it was for just a minute...the city judge found the assailant guilty of assault & public intoxication.

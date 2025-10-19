@@ -1,22 +1,21 @@
 ---
-title: "TICK-TOCK"
+title: TICK-TOCK
 date: 2019-01-23
-thumbnail: "img/tick-tock.jpg"
+thumbnail: img/tick-tock.jpg
 tags:
-  - Fairhope Pier
-  - Fairhope Clock
-  - City Council
-  - Fly Creek Apartments
-  - Tuberville Gully
-  - K1 Center
-  - Matt Bowers
-
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+- Fairhope Pier
+- Fairhope Clock
+- City Council
+- Fly Creek Apartments
+- Tuberville Gully
+- K1 Center
+- Matt Bowers
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Fairhope’s iconic downtown clock tower and patio, a popular tourist attraction and central landmark in the city"
 ---
-
 The two most photographed places in Fairhope, are the Pier and the Downtown Clock. The Clock and adjoining patio are subjects of photography by tourists and locals daily. It is not only an iconic location, it is the soul of downtown. Change it and you have changed Fairhope. It is a TOURIST ATTRACTION.
 
 The City of Fairhope should be embarrassed that the patio portion was not purchased years ago.

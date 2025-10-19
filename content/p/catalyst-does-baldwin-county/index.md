@@ -1,13 +1,13 @@
 ---
-title: "CATALYST DOES BALDWIN COUNTY"
+title: CATALYST DOES BALDWIN COUNTY
 date: 2018-06-29
-thumbnail: "img/catalyst-does-baldwin-county.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-does-baldwin-county.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Red circle with a slash through the word CATALYST, symbolizing opposition to the political group discussed in the article"
 ---
-
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business, in what he thought was a shoe in. He is bought and paid for, Goat Hill already owns his ass.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-alabama-values/" >}}

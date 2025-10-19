@@ -1,18 +1,18 @@
 ---
-title: "Wrongful Conviction Fairhope, Baldwin County"
+title: Wrongful Conviction Fairhope, Baldwin County
 date: 2024-06-17
-thumbnail: "img/wrongful-conviction-fairhope-baldwin-county.jpg"
-categories: 
-  - bcso
-  - mljr
+thumbnail: img/wrongful-conviction-fairhope-baldwin-county.jpg
+categories:
+- bcso
+- mljr
 tags:
-  - BCSO
-  - Murray Lawrence Jr
-  - Hoss Mack
+- BCSO
+- Murray Lawrence Jr
+- Hoss Mack
 authors:
-  - admin
+- admin
+alttags: "Murray Lawrence Jr., subject of a wrongful conviction case similar to Just Mercy, in black and white with blurred Alabama ..."
 ---
-
 Many people have seen the movie <a href="https://www.youtube.com/watch?v=6YzyVklCoAU">Just Mercy</a>, a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Alabama, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the
 wrongful conviction.
 

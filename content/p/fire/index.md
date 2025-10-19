@@ -1,17 +1,17 @@
 ---
-title: "FIRE"
+title: FIRE
 date: 2016-09-23
-thumbnail: "img/fire.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boy-scouts
-  - kant
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/fire.jpg
+categories:
+- freaky-friday
+tags:
+- boy-scouts
+- kant
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Burning match with smoke rising, symbolizing controversy surrounding Baldwin County commissioner Dorsey’s firings related ..."
 ---
-
 **Commissioner Tucker Dorsey the citizens of Baldwin County have lost confidence in you.**
 
 You began your political life as a commissioner by firing the county manager, EMA director county attorneys and others.

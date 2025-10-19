@@ -1,17 +1,17 @@
 ---
-title: "LIAR LIAR PANTS ON FIRE"
+title: LIAR LIAR PANTS ON FIRE
 date: 2019-04-18
-thumbnail: "img/pants-on-fire.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - baldwin-county
-  - elliott
-  - ethics-commission
-authors: 
-  - admin
+thumbnail: img/pants-on-fire.jpg
+categories:
+- freaky-friday
+tags:
+- baldwin-county
+- elliott
+- ethics-commission
+authors:
+- admin
+alttags: "Burning pants symbolize corruption and deceit by Alabama legislators detailed in this article"
 ---
-
 Baldwin County legislators are having a field day under, puppet Governor, Poison Ivy. Goat Hill is throwing one bill after another in the pot of corruption. The whole time they are playing the Alabama citizens as patsies. Your elected officials are testing the gullibility of the citizens of the State.
 
 Legislators want you to believe that the only accountability for political corruption is the Ethics Commission, which they control. Spin does not even come close to the outright lies they have been promoting through various legislative bills.

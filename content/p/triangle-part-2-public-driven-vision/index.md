@@ -1,19 +1,19 @@
 ---
-title: "TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”"
+title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
 date: 2018-04-06
-thumbnail: "img/triangle-part-2-public-driven-vision.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-  - kant
-  - triangle
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/triangle-part-2-public-driven-vision.png
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+- kant
+- triangle
+- wilson
+authors:
+- ripp-report
+alttags: "Two arrows pointing right, symbolizing Fairhope’s acquisition of valuable land after years of legal battles and settlement..."
 ---
-
 Fairhope’s Triangle, is Fairhope’s most valuable land asset. This vacant piece of land has been the focus of litigation, on and off for over 25 years. Ultimately, Fairhope purchased the land as part of the legal settlement, for 11.25 Million which included the legal fees of approximately 3 million. Estimated land value today would be between 18 and 20 million.
 
 The Restore Act Money, from BP, started a stampede of political entities, State, County and Municipal, to go for all the money they could grab.

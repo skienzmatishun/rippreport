@@ -1,22 +1,22 @@
 ---
-title: "BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH"
+title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
 date: 2025-08-23
 categories:
-  - elections
-thumbnail: "img/vote-out-mayor-wills-remember-oj-french.png"
+- elections
+thumbnail: img/vote-out-mayor-wills-remember-oj-french.png
 tags:
-  - Elections
-  - City Council
-  - Bay Minette
-  - Mayor Wills
-  - BCMCU
-  - Tolbert
-  - Joshua Brown
-summary: "Of all the Mayors in Baldwin County. Mayor Bob Wills is the most disgusting. Every voter in Bay Minette should remember O. J. French , every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the Sheriff Department. The Baldwin County Major Crimes Unit who investigates themselves."
+- Elections
+- City Council
+- Bay Minette
+- Mayor Wills
+- BCMCU
+- Tolbert
+- Joshua Brown
+summary: Of all the Mayors in Baldwin County. Mayor Bob Wills is the most disgusting. Every voter in Bay Minette should remember O. J. French , every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the Sheriff Department. The Baldwin County Major Crimes Unit who investigates themselves.
 authors:
-  - admin
+- admin
+alttags: "Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom"
 ---
-
 Of all the Mayors in Baldwin County. <a href="https://www.google.com/search?q=mayor+wills&as_sitesearch=rippreport.com">Mayor Bob Wills</a> is the most disgusting. Every voter in Bay Minette should remember <a href="https://www.google.com/search?q=oj+french&as_sitesearch=rippreport.com">O. J. French </a>, every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the <a href="https://www.google.com/search?q=bcso&as_sitesearch=rippreport.com">Sheriff Department</a>. The <a href="https://www.google.com/search?q=BCMCU&as_sitesearch=rippreport.com">Baldwin County Major Crimes Unit</a> who investigates themselves.
 
 {{< socialpreview url="https://rippreport.com/p/federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit/" >}}

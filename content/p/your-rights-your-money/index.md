@@ -1,21 +1,21 @@
 ---
-title: "YOUR RIGHTS YOUR MONEY"
+title: YOUR RIGHTS YOUR MONEY
 date: 2021-09-27
-thumbnail: "img/your-rights-your-money.jpg"
+thumbnail: img/your-rights-your-money.jpg
 tags:
-  - BCSO
-  - Ethics Commission
-  - Elections
-  - Alabama Supreme Court
-  - Hoss Mack
-  - Albritton
-categories: 
-  - bcso
-  - ethics
-authors: 
-  - admin
+- BCSO
+- Ethics Commission
+- Elections
+- Alabama Supreme Court
+- Hoss Mack
+- Albritton
+categories:
+- bcso
+- ethics
+authors:
+- admin
+alttags: "Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ..."
 ---
-
 Corrupt politicians and elected officials in Alabama have been emboldened by the Alabama Supreme Court and the Ethics Commission’s recent rulings. While citizens of Alabama are distracted by national politics, their own state, keeps sinking deeper into the sewer of corruption.
 
 Take all the crime in Baldwin County and the money stolen as a result of crime, add it together and it does not even come close to the amount of money that white collar crime and political corruption costs TAXPAYERS of Baldwin County, every year.

@@ -1,15 +1,15 @@
 ---
-title: "POLICE REPORT"
+title: POLICE REPORT
 date: 2018-05-23
-thumbnail: "img/police-report.jpg"
-categories: 
-  - bcso
-tags: 
-  - burrell
-authors: 
-  - ripp-report
+thumbnail: img/police-report.jpg
+categories:
+- bcso
+tags:
+- burrell
+authors:
+- ripp-report
+alttags: "Blurred police car lights suggest investigation into allegations surrounding Jack Burrell and legal incidents in Fairhope"
 ---
-
 A DOCUMENT FOR CATALYST
 
 A police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several tips involving Mr Jack Burrell and the law. What was alleged was that Mr. Burrell had gotten out of several incidents with the law, by having good connections. They were allegations and I had no evidence to prove other wise. In January of this year it was suggested that I request police report for Jack Burrell in Fairhope. I did so through an attorney in Birmingham.

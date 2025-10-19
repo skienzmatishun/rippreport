@@ -1,20 +1,20 @@
 ---
-title: "NO MO BRIDGE"
+title: NO MO BRIDGE
 date: 2021-06-30
-thumbnail: "img/no-mo-bridge.png"
+thumbnail: img/no-mo-bridge.png
 tags:
-  - Toll Bridge
-  - Mo Brooks
-  - Jack Burrell
-  - Burrell
-  - Lottery
-  - Marijuana
-categories: 
-  - other
-authors: 
-  - admin
+- Toll Bridge
+- Mo Brooks
+- Jack Burrell
+- Burrell
+- Lottery
+- Marijuana
+categories:
+- other
+authors:
+- admin
+alttags: "Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects"
 ---
-
 Talk about shooting yourself in the foot!
 
 Alabama’s Ole Mo probably sunk the Bayway “Truck Bridge” because of his strong conviction of the 10th amendment. Problem is, Alabama has no money and depends on Washington. So the 10th amendment will keep Alabama firmly last place in most major categories?

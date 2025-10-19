@@ -1,13 +1,13 @@
 ---
-title: "FAILING OUR CHILDREN IN BALDWIN COUNTY"
+title: FAILING OUR CHILDREN IN BALDWIN COUNTY
 date: 2025-03-21
-thumbnail: "img/failing-our-children-in-baldwin-county.png"
-categories: 
-  - family-court
-authors: 
-  - ripp-report
+thumbnail: img/failing-our-children-in-baldwin-county.png
+categories:
+- family-court
+authors:
+- ripp-report
+alttags: "Concerned parent, child in distress, and Baldwin County DHR building represent systemic failures impacting vulnerable chil..."
 ---
-
 To all who have an interest in the safety of children in Baldwin County, Alabama and beyond,
 
 I am writing to express my deep concern as a father and long-time resident of Baldwin County, Alabama, regarding a series of systemic failures that have endangered my daughter and left other vulnerable children unprotected. These failures involve law enforcement, the Department of Human Resources (DHR), the family court system, and the court-appointed Guardian Ad Litem (GAL), and I urge you to take immediate action to investigate these matters and hold those responsible accountable.

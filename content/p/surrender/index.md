@@ -1,16 +1,16 @@
 ---
-title: "SURRENDER"
+title: SURRENDER
 date: 2021-12-04
-thumbnail: "img/surrender.png"
+thumbnail: img/surrender.png
 tags:
-  - McSharry
-  - Mayor Wilson
+- McSharry
+- Mayor Wilson
 categories:
-  - saturday-sunshine
+- saturday-sunshine
 authors:
-  - admin
+- admin
+alttags: "Satirical depiction: a man’s face superimposed on an Irish leprechaun mascot holding money and waving a flag, referencing ..."
 ---
-
 What the Ripp Report projected has now come to fruition. Justice is a tricky word and justice can come in many ways. In the McSharry assault case, justice has come in the form of a legal settlement.
 
 Fairhope failed to protect it’s citizens. The Fairhope municipal court failed, the Fairhope city attorney failed and lied to the citizens of Fairhope in city council chambers. The Fairhope city council failed, especially Councilman Jack Burrell, McSharry’s best bud. The ultimate judge that signed off on the settlement, left us with more questions than answers, he gets an F as well.

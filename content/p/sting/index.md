@@ -1,25 +1,25 @@
 ---
-title: "Sting"
+title: Sting
 date: 2020-07-14
-thumbnail: "img/sting.jpg"
-categories: 
-  - terrible-tuesday
-tags: 
-  - brown
-  - burrell
-  - carl
-  - catalyst
-  - city-council
-  - election
-  - hightower
-  - jack-burrell
-  - jerry-carl
-  - kevin-boone
-  - robert-brown
-authors: 
-  - admin
+thumbnail: img/sting.jpg
+categories:
+- terrible-tuesday
+tags:
+- brown
+- burrell
+- carl
+- catalyst
+- city-council
+- election
+- hightower
+- jack-burrell
+- jerry-carl
+- kevin-boone
+- robert-brown
+authors:
+- admin
+alttags: "Political campaign graphic: Two people in bee costumes flank a red circle with CATALYST crossed out, referencing Baldwin..."
 ---
-
 Please vote today. JERRY CARL. Mr. Carl’s opposition is CATALYST and CATALYST home base is Fairhope.
 
 JERRY CARL for the First Congressional District.

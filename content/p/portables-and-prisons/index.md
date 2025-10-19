@@ -1,21 +1,21 @@
 ---
-title: "PORTABLES AND PRISONS"
+title: PORTABLES AND PRISONS
 date: 2019-05-08
-thumbnail: "img/portables-and-prisons.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - alabama
-  - business-council-of-alabama
-  - elliott
-  - lottery
-  - pci-tribe
-  - prisons
-  - schools
-authors: 
-  - ripp-report
+thumbnail: img/portables-and-prisons.jpg
+categories:
+- citycouncil
+tags:
+- alabama
+- business-council-of-alabama
+- elliott
+- lottery
+- pci-tribe
+- prisons
+- schools
+authors:
+- ripp-report
+alttags: "Alabama prison complex, symbolizing state decisions that cost billions and reflect political corruption"
 ---
-
 Alabama is the most political corrupt state in the United States. Why? because it is so easy for lobbyist to buy the needed politicians to keep it corrupt.
 
 Alabama is going to be the laughing stock of all the other states that have lotto’s. It is going to cost us billions, but what the hell Alabama is famous for turning down Billions.

@@ -1,13 +1,13 @@
 ---
-title: "DEVELOPMENT CHAOS"
+title: DEVELOPMENT CHAOS
 date: 2022-01-08
-thumbnail: "img/development-chaos.jpg"
-categories: 
-  - saturday-special
-authors: 
-  - admin
+thumbnail: img/development-chaos.jpg
+categories:
+- saturday-special
+authors:
+- admin
+alttags: "Rapid development in Bay Minette, Alabama, strains infrastructure as Baldwin County communities face building moratoriums"
 ---
-
 Baldwin County is spinning out of control. Development in Fairhope and Daphne are under a building moratorium. Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
 
 That is poor planning and a failure of the politicians.

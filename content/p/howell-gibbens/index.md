@@ -1,20 +1,20 @@
 ---
-title: "HOWELL GIBBENS"
+title: HOWELL GIBBENS
 date: 2020-08-10
-thumbnail: "img/howell-gibbens.png"
-categories: 
-  - monday-madness
-tags: 
-  - brown
-  - catalyst
-  - dyas-triangle
-  - election
-  - gibbens
-  - robert-brown
-authors: 
-  - admin
+thumbnail: img/howell-gibbens.png
+categories:
+- monday-madness
+tags:
+- brown
+- catalyst
+- dyas-triangle
+- election
+- gibbens
+- robert-brown
+authors:
+- admin
+alttags: "Fairhope City Council candidate Howell Gibbons campaign sign urging a slowdown in growth for infrastructure and community ..."
 ---
-
 Where we should be…
 
 The explosive growth that Fairhope has been experiencing has not just overloaded our infrastructure it has put strains on our community in other ways that need to be addressed. We have weakened the foundations that this town was built upon, both physical and social, and they need shoring up.

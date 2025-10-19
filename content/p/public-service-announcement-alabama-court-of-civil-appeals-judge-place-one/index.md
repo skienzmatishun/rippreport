@@ -1,16 +1,16 @@
 ---
-title: "PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE"
+title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
 date: 2018-07-12
-thumbnail: "img/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one.jpg"
-categories: 
-  - family-court
-tags: 
-  - thomason
-  - family court
-authors: 
-  - ripp-report
+thumbnail: img/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one.jpg
+categories:
+- family-court
+tags:
+- thomason
+- family court
+authors:
+- ripp-report
+alttags: "Illustration depicting a woman in judicial robes and a witch hat standing behind scales of justice, marked with a no cata..."
 ---
-
 ALABAMA BEWARE OF THE CATALYST QUEEN
 
 Alabama Beware, the absolute worst Family Court Judge in the state is Michelle Thomasson of Baldwin County. We the citizens of Baldwin County beg you to help us remove this judge from the bench. No words could express the amount of damage this so called judge has inflicted on hundreds of families and children.

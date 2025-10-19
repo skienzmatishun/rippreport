@@ -1,24 +1,24 @@
 ---
-title: "QUEEN BEE"
+title: QUEEN BEE
 date: 2020-10-31
-thumbnail: "img/queen-bee.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - csb
-  - dyas-triangle
-  - hand-arendall
-  - jack-burrell
-  - mayor-sullivan
-  - mcsharry
-  - municipal-attorney
-  - scott-boone
-  - sullivan
-  - triangle-lawsuit
-authors: 
-  - admin
+thumbnail: img/queen-bee.jpg
+categories:
+- citycouncil
+tags:
+- csb
+- dyas-triangle
+- hand-arendall
+- jack-burrell
+- mayor-sullivan
+- mcsharry
+- municipal-attorney
+- scott-boone
+- sullivan
+- triangle-lawsuit
+authors:
+- admin
+alttags: "Fairhope Mayor Sullivan dressed as a bee surrounded by money, referencing the article’s metaphor about rewards and politic..."
 ---
-
 Fairhope you made the biggest mistake voters could make, you let the bees eat the honey. Only 15% of the registered voters decided who would become Mayor of Fairhope.
 
 Well Fairhope “I told ya so”, Queen Bee Sullivan is getting her just reward. The three B’s on the council, Boone Brown and Burrell, are making sure Sullivan gets her share of the honey, right out of the hive. Her honey pot reward has been announced even before the Queen Bee has been sworn in.

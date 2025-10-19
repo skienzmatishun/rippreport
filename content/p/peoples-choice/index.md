@@ -1,13 +1,13 @@
 ---
-title: "PEOPLE'S CHOICE"
+title: PEOPLE'S CHOICE
 date: 2018-07-13
-thumbnail: "img/peoples-choice.jpg"
-categories: 
-  - Special-Report
-authors: 
-  - ripp-report
+thumbnail: img/peoples-choice.jpg
+categories:
+- Special-Report
+authors:
+- ripp-report
+alttags: "Icon depicting a central figure surrounded by a group, representing support for Senate candidate Chris Elliott"
 ---
-
 The people’s choice or the Catalyst choice. The Ripp Report is going for the People’s Choice, David Northcutt. The Catalyst Choice Chris Elliott has raised over one half a million dollars, headed for 600,000 for a Senate Seat salary of 42,000. Damn people WAKE UP.
 
 {{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2018/07/negative_personal_regrettable.html" >}}

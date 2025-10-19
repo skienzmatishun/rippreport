@@ -1,16 +1,16 @@
 ---
-title: "WRONG BALL"
+title: WRONG BALL
 date: 2018-03-09
-thumbnail: "img/wrong-ball.jpg"
-categories: 
-  - elections
-tags: 
-  - catalyst
-  - jeb-ball
-authors: 
-  - ripp-report
+thumbnail: img/wrong-ball.jpg
+categories:
+- elections
+tags:
+- catalyst
+- jeb-ball
+authors:
+- ripp-report
+alttags: "Man in suit juggling red balls, symbolizing shifting political alliances and unexpected outcomes in the County Commissione..."
 ---
-
 Place one in the County Commissioner’s race is a classic example of getting what you wished for and it backfiring. Mr Frank Burt has solidly held this position since 1988, wow, 29 years. Mr. Burt is intent on holding that position. I was hoping for change and that Mr. Burt would retire and the seat open for several new candidates.
 
 Catalyst had other plans, once they learned Mr. Burt was seriously running they recruited Jeb Ball as their new foot solider and abandoned Burt, that say’s a lot. District one voters will not abandon Burt

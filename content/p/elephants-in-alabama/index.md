@@ -1,16 +1,16 @@
 ---
-title: "Elephants in Alabama"
+title: Elephants in Alabama
 date: 2022-07-14
-thumbnail: "img/elephants-in-alabama.jpg"
+thumbnail: img/elephants-in-alabama.jpg
 tags:
-  - Albritton
-  - Ethics Commission
-categories: 
-  - ethics
-authors: 
-  - admin
+- Albritton
+- Ethics Commission
+categories:
+- ethics
+authors:
+- admin
+alttags: "Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence"
 ---
-
 If a herd of elephants were to roam loose in Alabama, most news sources could not find them. Probably the biggest story, political story, is the evidence emerging about the Bar Association and the Ethics Executive Director. Only Lagniappe has had the balls to print the facts.
 
 The Attorney General has only covered the backs of the Bar and Ethics, no criminal charges have been filed.

@@ -1,18 +1,18 @@
 ---
-title: "WETLANDS"
+title: WETLANDS
 date: 2017-10-11
-thumbnail: "img/wetlands.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - boone
-  - corte
-  - fly-creek
-  - sewer
-authors: 
-  - ripp-report
+thumbnail: img/wetlands.jpg
+categories:
+- citycouncil
+tags:
+- boone
+- corte
+- fly-creek
+- sewer
+authors:
+- ripp-report
+alttags: "Discolored water flows through a channel, illustrating concerns about sewer spills and sewage dumping into Mobile Bay"
 ---
-
 It seems as if the public has gotten the attention of elected officials and environmental groups about the
 
 sewer systems of Fairhope, Daphne and Spanish Fort. It is hard to believe in 2017 that we still have regular sewer spills and that we still dump sewage into the bay.

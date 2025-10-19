@@ -1,14 +1,14 @@
 ---
-title: "WATERING HOLE"
+title: WATERING HOLE
 date: 2019-10-25
-thumbnail: "img/watering-hole.jpg"
-categories: 
-  - mcsharry
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/watering-hole.jpg
+categories:
+- mcsharry
+- citycouncil
+authors:
+- admin
+alttags: "Scales of justice illustration atop a landscape, symbolizing legal issues surrounding bar owner Ronan McSharry and associates"
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZvmfU5BegU" frameborder="0" allowfullscreen></iframe>
 
 How does a bar owner, continuously break the law and walk?

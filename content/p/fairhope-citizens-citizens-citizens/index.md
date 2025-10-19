@@ -1,17 +1,17 @@
 ---
-title: "FAIRHOPE “CITIZENS CITIZENS CITIZENS”"
+title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 date: 2017-01-06
-thumbnail: "img/fairhope-citizens-citizens-citizens.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-citizens-citizens-citizens.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- wilson
+authors:
+- ripp-report
+alttags: "Alarm clock ringing, symbolizing Fairhope citizens urged to wake up regarding Airport Authority debt concerns"
 ---
-
 FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 
 WAKE UP!

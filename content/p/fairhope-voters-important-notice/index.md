@@ -1,21 +1,21 @@
 ---
-title: "FAIRHOPE VOTERS IMPORTANT NOTICE"
+title: FAIRHOPE VOTERS IMPORTANT NOTICE
 date: 2017-03-22
-thumbnail: "img/fairhope-voters-important-notice.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - burrell
-  - catalyst
-  - fairhope-airport
-  - pandora
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-voters-important-notice.png
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- burrell
+- catalyst
+- fairhope-airport
+- pandora
+- sullivan
+- wilson
+authors:
+- ripp-report
+alttags: "Warning sign representing concerns about city council decisions and potential falsehoods impacting Fairhope voters"
 ---
-
 Fairhope voters, we did it once and now we have to do it again. And that is show our mayor support and remind the city council the majority won the election. Our council has been under the influence of the minority and turning a blind eye to the majority. They have allowed previous personal friendships to take front seat to city issues, following senior councilmen down a path of falsehoods. The newly elected council, three members, have been convinced— so far, that facts are fiction, such as the airport scandal.
 
 {{< socialpreview url="https://rippreport.com/p/whos-on-first/" >}}

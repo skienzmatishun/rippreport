@@ -1,15 +1,15 @@
 ---
-title: "BOONE-DOGGLE"
+title: BOONE-DOGGLE
 date: 2017-01-13
-thumbnail: "img/boone-doggle.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-authors: 
-  - ripp-report
+thumbnail: img/boone-doggle.jpg
+categories:
+- freaky-friday
+tags:
+- boone
+authors:
+- ripp-report
+alttags: "Hands pushing over a line of dominoes, symbolizing the unfolding consequences of Councilman Boone’s undisclosed conflicts ..."
 ---
-
 Well if you read the wonderful Wednesday this week,
 
 {{< socialpreview url="https://rippreport.com/p/bit-dogs-bark-first/" >}}

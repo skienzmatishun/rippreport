@@ -1,13 +1,13 @@
 ---
-title: "50 YEARS AGO"
+title: 50 YEARS AGO
 date: 2018-11-11
-thumbnail: "img/50-years-ago.jpg"
-categories: 
-  - Special-Report
-authors: 
-  - ripp-report
+thumbnail: img/50-years-ago.jpg
+categories:
+- Special-Report
+authors:
+- ripp-report
+alttags: "U.S. flag waving against a dark background, representing Veterans Day and honoring military service in November"
 ---
-
 November is a month of special significance to many who have served in the United States military.
 
 Veterans Day celebrates the service of all United States military veterans on Nov. 11.

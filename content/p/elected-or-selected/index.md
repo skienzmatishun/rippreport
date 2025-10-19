@@ -1,22 +1,20 @@
 ---
-title: "ELECTED OR SELECTED"
+title: ELECTED OR SELECTED
 date: 2016-07-22
-thumbnail: "img/elected-or-selected.png"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-  - mike-ford
-  - nix
-  - sullivan
-  - triangle
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/elected-or-selected.png
+categories:
+- freaky-friday
+tags:
+- kant
+- mike-ford
+- nix
+- sullivan
+- triangle
+- wilson
+authors:
+- ripp-report
+alttags: "Vote counts matter as Baldwin County residents express concerns about local officials and court system"
 ---
-
- 
-
 Stay tuned folks for some interesting stores that are in the works involving our corrupt Baldwin County family court system. We will share with you how Baldwin County Commissioners and their connections to local Mayors impact **YOUR** quality of life.
 
 Why do you know who has changed their Name? Wait till you hear this one.

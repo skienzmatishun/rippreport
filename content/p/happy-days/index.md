@@ -1,13 +1,13 @@
 ---
-title: "HAPPY DAYS"
+title: HAPPY DAYS
 date: 2022-02-11
-thumbnail: "img/happy-days.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/happy-days.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Smiling yellow emoji face representing the “happy days” posts discussed in the article"
 ---
-
 It is amazing how many Facebook pages, and some media, only publish “happy days’ posts. How great the flowers are and how beautiful the bay is. First Fridays are fun filled with wine and spirited conversations about anything other than reality.
 
 I think Alabama is a beautiful state and Baldwin County shares Beaches, Mobile Bay, Rivers and plenty of woods for the hunters. People do not move to Baldwin County to become involved in politics and it usually takes at least 5 years to acclimate to a new area.

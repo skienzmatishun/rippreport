@@ -1,18 +1,18 @@
 ---
-title: "CATALYST ATTACK"
+title: CATALYST ATTACK
 date: 2020-08-12
-thumbnail: "img/catalyst-attack.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - catalyst
-  - csb
-  - election
-  - scott-boone
-authors: 
-  - admin
+thumbnail: img/catalyst-attack.jpg
+categories:
+- wonderful-wednesday
+tags:
+- catalyst
+- csb
+- election
+- scott-boone
+authors:
+- admin
+alttags: "Political campaign signs for Boone, Sherry, and Jack Burrell in a Baldwin County yard; a sign with Catalyst crossed out ..."
 ---
-
 If you live in Baldwin County, please share this post as much as possible. This is very IMPORTANT.
 
 [The Ripp Report](https://rippreport.com/), [Baldwin County Legal Eagle](https://www.facebook.com/BaldwinCountyLegalEagle/), [the Ripp Report Facebook page](https://www.facebook.com/TheRippReport/) and [Backstory Podcast](https://www.facebook.com/BackstoryPodcast/) are NOT for profit consumer sites. Our intent is to inform the public of corruption, corrupt politicians and to address every day consumer issues.

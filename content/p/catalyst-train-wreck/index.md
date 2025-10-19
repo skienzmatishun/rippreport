@@ -1,22 +1,22 @@
 ---
-title: "CATALYST TRAIN WRECK"
+title: CATALYST TRAIN WRECK
 date: 2020-05-29
-thumbnail: "img/catalyst-train-wreck.png"
-categories: 
-  - freaky-friday
-tags: 
-  - backstory-podcast
-  - catalyst
-  - city-attorney
-  - city-council
-  - mcsharry
-  - mcsharrys
-  - municipal-judge
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/catalyst-train-wreck.png
+categories:
+- freaky-friday
+tags:
+- backstory-podcast
+- catalyst
+- city-attorney
+- city-council
+- mcsharry
+- mcsharrys
+- municipal-judge
+- ronan-mcsharry
+authors:
+- admin
+alttags: "Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city name, related to Fairhope City Council discussion"
 ---
-
 Instead of a lot of links and dialog, this Freaky Friday is going to feature a portion of lasts nights Fairhope City Council Meeting:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-uDFcLyJXQ" frameborder="0" allowfullscreen></iframe>

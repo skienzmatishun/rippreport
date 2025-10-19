@@ -1,13 +1,13 @@
 ---
-title: "READ and LISTEN"
+title: READ and LISTEN
 date: 2019-11-21
-thumbnail: "img/read-and-listen.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/read-and-listen.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Person reading a newspaper titled Lagniappe, referencing scrutiny of Fairhope City Council actions discussed in the article"
 ---
-
 The Fairhope City Council is really showing their colors.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-colors/" >}}

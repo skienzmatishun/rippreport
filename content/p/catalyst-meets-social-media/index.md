@@ -1,13 +1,13 @@
 ---
-title: "CATALYST MEETS SOCIAL MEDIA"
+title: CATALYST MEETS SOCIAL MEDIA
 date: 2018-07-20
-thumbnail: "img/catalyst-meets-social-media.png"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-meets-social-media.png
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Megaphone icon representing concerns about Catalyst group’s influence in Baldwin County politics"
 ---
-
 Today I enter V.A. for my 14th shoulder operation, so if ya do not see a Wonderful Wednesday next week, you will know why. One more operation in December and if I follow the instructions of the doctors, I should be swimming by next summer.
 
 The citizens of Baldwin County are finally beginning to understand the dangers of a group like Catalyst. The Baldwin county Republican Party is coming to terms that Baldwin county has been hijacked by a few so called “Christian Republicans” called CATALYST. In the past CATALYST has worked in the shadows, today social media has exposed their goals as well as players.

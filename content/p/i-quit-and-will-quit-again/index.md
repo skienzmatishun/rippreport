@@ -1,16 +1,16 @@
 ---
-title: "I QUIT AND WILL QUIT AGAIN"
+title: I QUIT AND WILL QUIT AGAIN
 date: 2018-03-21
-thumbnail: "img/I-quit-and-will-quit-again.jpg"
-categories: 
-  - elections
-tags: 
-  - catalyst
-  - joe-davis
-authors: 
-  - ripp-report
+thumbnail: img/I-quit-and-will-quit-again.jpg
+categories:
+- elections
+tags:
+- catalyst
+- joe-davis
+authors:
+- ripp-report
+alttags: "City council member Nix shown in news footage after resigning following a failed vote, related to an inaccurate report cor..."
 ---
-
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the:
 
 {{< socialpreview url="https://rippreport.com/p/people-power-2/" >}}

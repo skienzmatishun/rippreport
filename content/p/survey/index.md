@@ -1,13 +1,13 @@
 ---
-title: "SURVEY"
+title: SURVEY
 date: 2020-02-08
-thumbnail: "img/fairhope-waterfront.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/fairhope-waterfront.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Aerial view highlights Fairhope City Hall and surrounding area, featured in the State of the City report"
 ---
-
 Last night’s, State of the City of Fairhope, was a success and the employees represented the city proudly. A 35 page report was presented and I encourage citizens of Fairhope to drop by City Hall and get a copy.
 
 Employee moral is higher than previous years and Fairhope’s “City debt was paid in full June 2019” one of many financial accomplishments. These accomplishments are the result of the Mayor, Superintendents and staff, not the CATALYST council.

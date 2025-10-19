@@ -1,15 +1,14 @@
 ---
-title: "VETERANS RALLY"
+title: VETERANS RALLY
 date: 2025-02-23
-thumbnail: "img/veterans-rally.png"
-categories: 
-  - ivy
-  - alabama
-authors: 
-  - admin
+thumbnail: img/veterans-rally.png
+categories:
+- ivy
+- alabama
+authors:
+- admin
+alttags: "Alabama State House where veterans are rallying against VA control under the governor"
 ---
-
-
 <center>{{< socialpreview url="https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control" >}}</center>
 
 <img src="https://rippreport.com/p/rally.webp">

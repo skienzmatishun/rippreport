@@ -1,13 +1,13 @@
 ---
-title: "MISSED THE BOAT"
+title: MISSED THE BOAT
 date: 2018-06-13
-thumbnail: "img/missed-the-boat.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/missed-the-boat.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Man gazes at a departing ship, symbolizing low voter turnout in Baldwin County and potential political consequences"
 ---
-
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-held-back/" >}}

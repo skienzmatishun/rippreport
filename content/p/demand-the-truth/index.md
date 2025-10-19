@@ -1,17 +1,17 @@
 ---
-title: "DEMAND THE TRUTH"
+title: DEMAND THE TRUTH
 date: 2016-07-07
-thumbnail: "img/demand-the-truth.png"
-categories: 
-  - freaky-friday
-tags: 
-  - ethics-complaint
-  - kant
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/demand-the-truth.png
+categories:
+- freaky-friday
+tags:
+- ethics-complaint
+- kant
+- pittman
+authors:
+- ripp-report
+alttags: "Vintage U.S. postage stamp featuring an eagle head, referencing government oversight and potential ethical concerns in con..."
 ---
-
 Complaint Statement:
 
 July 7, 2016

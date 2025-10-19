@@ -1,13 +1,13 @@
 ---
-title: "WOMEN OF BALDWIN"
+title: WOMEN OF BALDWIN
 date: 2018-10-25
-thumbnail: "img/women-of-baldwin.png"
-categories: 
-  - thursday-thunder
-authors: 
-  - ripp-report
+thumbnail: img/women-of-baldwin.png
+categories:
+- thursday-thunder
+authors:
+- ripp-report
+alttags: "Feminist symbol representing a call to vote candidate over party, challenging established political networks"
 ---
-
 Vote candidate not party. Straight ticket voting is voting blind and allows corruption to flourish and compromises elected officials. It strengthens the good ole boy network and Catalyst candidates, something all parties should be against.
 
 Baldwin County has been run by old white men, all politically connected to one goal, do what the hell they think is best for them. Well those old white men are disintegrating and groups like Catalyst will soon be history.

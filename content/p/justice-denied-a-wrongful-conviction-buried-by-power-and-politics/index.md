@@ -1,22 +1,22 @@
 ---
-title: "Justice Denied: A Wrongful Conviction Buried by Power and Politics"
+title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
 date: 2025-07-30
-thumbnail: "img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png"
-gif: "img/test.gif"
-webp_animated: "img/test.webp"
+thumbnail: img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png
+gif: img/test.gif
+webp_animated: img/test.webp
 tags:
-  - Murray Lawrence Jr
-  - David Whetstone
-  - Sheriff Lowery
-  - Sheriff Hoss Mack
-  - Robert Wilters
-  - BCSO
-categories: 
-  - bcso
-authors: 
-  - admin
+- Murray Lawrence Jr
+- David Whetstone
+- Sheriff Lowery
+- Sheriff Hoss Mack
+- Robert Wilters
+- BCSO
+categories:
+- bcso
+authors:
+- admin
+alttags: "Four men in suits, likely involved in the wrongful conviction of Murray Lawrence Jr, now holding positions of power"
 ---
-
 FOR IMMEDIATE RELEASE
 
 ## Justice Denied: A Wrongful Conviction Buried by Power and Politics

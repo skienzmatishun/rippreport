@@ -1,13 +1,13 @@
 ---
-title: "CATALYST SHERIFF"
+title: CATALYST SHERIFF
 date: 2018-06-01
-thumbnail: "img/catalyst-sheriff.jpg"
-categories: 
-  - bcso
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-sheriff.jpg
+categories:
+- bcso
+authors:
+- ripp-report
+alttags: "Satirical depiction of a police chief in uniform and another figure in handcuffs, referencing Fairhope’s recent events and..."
 ---
-
 When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, Bill Press. Maybe you could ask the current Fairhope Police Chief who, today, just announced his retirement after 36 years, Chief Joseph Pettis.
 
 Two weeks ago Fairhope got a visit from the FBI, makes you wonder about the Police Chief retiring from the Catalyst stronghold! Catalyst is running scared and pulling every trick they can to gain votes for the June 5th primary.

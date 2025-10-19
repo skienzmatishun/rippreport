@@ -1,20 +1,20 @@
 ---
-title: "TOTAL DARKNESS"
+title: TOTAL DARKNESS
 date: 2022-01-26
-thumbnail: "img/total-darkness.png"
+thumbnail: img/total-darkness.png
 tags:
-  - Alabama AG
-  - Steve Marshall
-  - Burrell
-  - Jack Burrell
-  - Mayor Sullivan
-  - BCSO
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+- Alabama AG
+- Steve Marshall
+- Burrell
+- Jack Burrell
+- Mayor Sullivan
+- BCSO
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Black void representing Alabama Attorney General Steve Marshall’s lack of transparency and responsiveness to public compla..."
 ---
-
 In Alabama politicians and elected officials will always go dark, rather than being transparent, when they have something to hide.
 
 Alabama Attorney General Steve Marshall is the worst Alabama Attorney General appointed in the last 50 years. He has done little for the state of Alabama since his appointment by Love Gov, Bentley.

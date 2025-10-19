@@ -1,15 +1,15 @@
 ---
-title: "CORRUPTION IS LEGAL IN AMERICA"
+title: CORRUPTION IS LEGAL IN AMERICA
 date: 2017-09-13
-thumbnail: "img/corruption-is-legal-in-america.jpg"
-categories: 
-  - ethics
-tags: 
-  - ethics-commission
-authors: 
-  - ripp-report
+thumbnail: img/corruption-is-legal-in-america.jpg
+categories:
+- ethics
+tags:
+- ethics-commission
+authors:
+- ripp-report
+alttags: "Distressed American flag symbolizing corruption in US politics; low voter turnout enables it"
 ---
-
 How do you clean up corruption? Legislatively, or simply vote them out. However one common denominator is the citizens themselves. When elections results show only 17% of the voters are exercising their right to vote, then it is a good indicator political corruption is flourishing.
 
 [https://represent.us/](https://represent.us)

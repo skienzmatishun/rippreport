@@ -1,13 +1,13 @@
 ---
-title: "TRIANGLE ROACHES"
+title: TRIANGLE ROACHES
 date: 2019-12-05
-thumbnail: "img/triangle-roaches.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/triangle-roaches.jpg
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Man in a brown costume resembling a car, holding up a sign reading Keep Cant’t Out, referencing local political controversy"
 ---
-
 A “TRIANGLE CONSERVANCY” has been formed and guess who one of the major players is?
 
 None other than the very person that rigged elections, neglected infrastructure, favored his favorite developer, over citizens, for Publix and Fly Creek Apartments. Tim Can’t.

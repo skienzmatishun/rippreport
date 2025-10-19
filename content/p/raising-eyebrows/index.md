@@ -1,13 +1,13 @@
 ---
-title: "RAISING EYEBROWS"
+title: RAISING EYEBROWS
 date: 2018-10-05
-thumbnail: "img/raising-eyebrows.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/raising-eyebrows.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Fairhope City Council Attorney Marcus McDowell, linked to Catalyst and a long-standing law firm, featured in election cont..."
 ---
-
 The Fairhope Special Election, Oct. 3, was canceled due to a technicality, and a lot of help from people related to Catalyst, Tim Can’t and the good ole boys. The Fairhope City Council Attorney, Marcus McDowell is working overtime to assist the Council, not the Mayor and not the city. Marcus is a direct descendant of the same law firm that has been on the Fairhope payroll for over 20 years. He is a Jack Burrell appointment, backed by the council and approved by Catalyst. The council refused to even consider any other law firm, they knew Marcus would have their back.
 
 The Attorney representing the Probate Judge is David Whetstone and you should see a little conflict of interest if you understand the article below. Whetstone is from the old school and he and Tim Can’t go way back.

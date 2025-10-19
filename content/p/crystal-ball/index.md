@@ -1,13 +1,13 @@
 ---
-title: "CRYSTAL BALL"
+title: CRYSTAL BALL
 date: 2018-10-03
-thumbnail: "img/crystal-ball.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/crystal-ball.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Fairhope election decision delayed; a crystal ball on ornate stand symbolizes the upcoming vote for change of government"
 ---
-
 The Fairhope election to vote on change of government has been delayed to the same day as the general election, November 6th. The vote is for the citizens of Fairhope only. On the day of the election all 7 polling places in Fairhope will be open for the general election. Each location will have a separate room or location, where a separate polling booth and poll pad will be located exclusively for the Fairhope vote. That way people voting in the general election, who reside in Fairhope city limits, will be able to vote in the general election and the separate ballot for the Fairhope vote on change of government, in the same location.
 
 {{< socialpreview url="https://www.al.com/news/index.ssf/2018/10/why_fairhope_isnt_hosting_a_sp.html" >}}

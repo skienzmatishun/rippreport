@@ -1,21 +1,21 @@
 ---
-title: "Laugh Out Loud Baldwin"
+title: Laugh Out Loud Baldwin
 date: 2019-03-22
-thumbnail: "img/laugh-out-loud-baldwin.png"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - catalyst
-  - elliott
-  - kant
-  - schools
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/laugh-out-loud-baldwin.png
+categories:
+- freaky-friday
+tags:
+- burrell
+- catalyst
+- elliott
+- kant
+- schools
+- sullivan
+- wilson
+authors:
+- ripp-report
+alttags: "Emoji depicting a sad face with a long nose, symbolizing dishonesty related to the Baldwin County school lawsuit"
 ---
-
 Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.
 
 First we have the “TAX MAN” Chris Elliott, he prefers the title State Senator, saying he has solved the School separation lawsuit between Gulf Shores and Baldwin County Superintendent Eddie Tyler. The reason there is a lawsuit is that Mr Tyler went back on his published promise to abide by the decision of the State Board of Education. Elliott is also talking down development in public while his record supports all the development his CATALYST friends can get their hands on. Elliott was covering for Tyler, his partner on the penny tax, that no one got to vote on.

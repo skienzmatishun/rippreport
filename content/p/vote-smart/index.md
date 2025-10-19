@@ -1,13 +1,13 @@
 ---
-title: "VOTE SMART"
+title: VOTE SMART
 date: 2024-02-13
-thumbnail: "img/vote-smart.jpg"
-categories: 
-  - elections
-authors: 
-  - admin
+thumbnail: img/vote-smart.jpg
+categories:
+- elections
+authors:
+- admin
+alttags: "Two women in professional attire, likely representing political figures discussed in the Baldwin County candidate selectio..."
 ---
-
 How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win. He represented the most hardened of the Baldwin County good ole boys, GOB. Then came Stacy Haygood and Elliott, Haygood became Mayor of Daphne and Elliott became a county commissioner. The name changed again to Catalyst. When that name began to stink the GOB changed the name again to Scott Boone Consulting, the stink remained.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-aka-scott-boone-consulting/" >}}

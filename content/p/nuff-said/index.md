@@ -1,16 +1,16 @@
 ---
-title: "NUFF SAID"
+title: NUFF SAID
 date: 2017-03-25
-thumbnails: "img/nuff-said.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-authors: 
-  - ripp-report
+thumbnails: img/nuff-said.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+authors:
+- ripp-report
+alttags: "Empty metal can symbolizing the closure of an investigation into the Airport scandal by authorities"
 ---
-
 The Ripp Report has been reporting on the Airport scandal since Nov. 2016,
 
 {{< socialpreview url="https://rippreport.com/p/you-dont-know-jack/" >}}

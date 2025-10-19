@@ -1,18 +1,18 @@
 ---
-title: "SHADOW GOVERNMENT SOUTHERN STYLE"
+title: SHADOW GOVERNMENT SOUTHERN STYLE
 date: 2020-09-11
-thumbnail: "img/shadow-government-southern-style.png"
-categories: 
-  - elections
-tags: 
-  - 9-11
-  - don-siegelman
-  - gallion
-  - thomas-gallion
-authors: 
-  - admin
+thumbnail: img/shadow-government-southern-style.png
+categories:
+- elections
+tags:
+- 9-11
+- don-siegelman
+- gallion
+- thomas-gallion
+authors:
+- admin
+alttags: "Silhouettes of figures in suits, representing officials accused of misconduct and abuse of power as detailed in this article"
 ---
-
 9/11 let us never forget, over 3000 lives lost. Today we face another tragedy, Covid-19, which is claiming in the United States, 6000 lives a week, 192,000 to date, Think about that.
 
 For years I have provided documents and other evidence that implicates Attorneys, Judges, Mayors and Council members involved in illegal activity, and in most cases, using their elected office for personal gain. Complaints to the Ethics Commission, Bar Association, Judiciary, Attorney General, and in some cases FBI, all fall on deaf ears.

@@ -1,26 +1,26 @@
 ---
-title: "FAIRHOPE GOING BACKWARDS?"
+title: FAIRHOPE GOING BACKWARDS?
 date: 2020-08-19
-thumbnail: "img/fairhope-going-backwards.png"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - catalyst
-  - election
-  - gammon
-  - gibbens
-  - hopkins
-  - jack-burrell
-  - kevin-boone
-  - robert-brown
-  - scott-boone
-  - sullivan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/fairhope-going-backwards.png
+categories:
+- citycouncil
+tags:
+- burrell
+- catalyst
+- election
+- gammon
+- gibbens
+- hopkins
+- jack-burrell
+- kevin-boone
+- robert-brown
+- scott-boone
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "Fairhope city seal depicting a seagull, sun, water, and islands; referenced in discussion of local politics and elected of..."
 ---
-
 In 2016 I backed Karin Wilson and the current city council, which includes Burrell Boone and Brown. I got one out of four right, Karin Wilson. I was wrong in trusting Burrell, Boone or Brown but I wanted to believe them when they said that they were independent individuals with only Fairhope’s best interest at heart. What total BS that turned out to be, all three have betrayed Fairhope and used their elected office for personal gain.
 
 In 2020, I am again backing Mayor Wilson who deserves another term to finish many of the projects started in the first term.

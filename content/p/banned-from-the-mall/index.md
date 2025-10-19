@@ -1,13 +1,13 @@
 ---
-title: "BANNED FROM THE MALL"
+title: BANNED FROM THE MALL
 date: 2017-11-17
-thumbnail: "img/banned-from-the-mall.png"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/banned-from-the-mall.png
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Prohibited symbol representing Alabamas concerning political choices and disregard for ethical standards"
 ---
-
 Alabama has now reached a new low. From the most political corrupt state to a state that is considering
 
 Electing a pedophile to the United States Senate. Our national reputation will be forever scarred by a man who champion’s constitutional rights, however he himself was found guilty for NOT upholding the Constitution. Being thrown off the Supreme Court twice did not bother some in Alabama.

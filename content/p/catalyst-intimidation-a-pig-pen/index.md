@@ -1,17 +1,17 @@
 ---
-title: "CATALYST INTIMIDATION - A PIG PEN"
+title: CATALYST INTIMIDATION - A PIG PEN
 date: 2018-04-25
-thumbnail: "img/catalyst-intimidation-a-pig-pen.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - catalyst
-  - chucky
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-intimidation-a-pig-pen.jpg
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- catalyst
+- chucky
+authors:
+- ripp-report
+alttags: "A sow nurses piglets; a reference to Catalyst’s efforts to cultivate new political candidates in Baldwin County"
 ---
-
 Baldwin County politics has always been a good ole boys club and Catalyst hopes to swell those ranks with a slate of candidates that are like minded. Catalyst is a Fairhope based operation that has done it’s best to destabilize Fairhope’s Government by attacking the Mayor, often using the Gulf Coast Courier, editor Chuckee Cheeze, to spread the rumor of the day. Mr Kevin Boone is a councilman in Fairhope and farther to Scott “baby” Boone who is the “brains” of Catalyst. “Baby” Boone wants everyone to believe his father has nothing to do with Catalyst. I guess that means that all those documents and information leaked to Chuckee about Fairhope just fell out of the sky, because he did not get them by formal Freedom of Information requests.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}

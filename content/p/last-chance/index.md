@@ -1,18 +1,18 @@
 ---
-title: "LAST CHANCE"
+title: LAST CHANCE
 date: 2022-05-23
-thumbnail: "img/last-chance.png"
+thumbnail: img/last-chance.png
 tags:
-  - Elections
-  - Catalyst
-  - Matt McKenzie
-  - Johnathan Armstrong
-categories: 
-  - monday-madness
-authors: 
-  - admin
+- Elections
+- Catalyst
+- Matt McKenzie
+- Johnathan Armstrong
+categories:
+- monday-madness
+authors:
+- admin
+alttags: "Don’t delay: Baldwin County primary election reminder—all affiliations can vote tomorrow despite local apathy"
 ---
-
 Tomorrow a very few people in Baldwin County will vote in the primary election. Everyone is encouraged to vote. In the primary all party affiliations can vote. So don’t use the excuse that you are Independent or Democrat. VOTE.
 
 Baldwin County has a history of a good ole boy mentality, which is “We were here first, you are not from here and we maintain control”. Corruption in Baldwin County’s Judiciary and 14 municipal governments is so common that the citizenry just shrugs it off. It is costing taxpayers millions of dollars.

@@ -1,13 +1,13 @@
 ---
-title: "LITTLE CHOICE"
+title: LITTLE CHOICE
 date: 2017-08-11
-thumbnail: "img/little-choice.png"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/little-choice.png
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Alabama US Senate primary election button: red, white, and blue design with stars and VOTE text"
 ---
-
 The US Senate seat sought by a total of 19 candidates, 11 Republicans and 8 Democrats, primary is less than 4 days away.
 
 {{< socialpreview url="https://www.al.com/news/index.ssf/2017/05/deadline_today_for_us_senate_r.html" >}}

@@ -1,13 +1,13 @@
 ---
-title: "CATALYST - EAT THEIR OWN"
+title: CATALYST - EAT THEIR OWN
 date: 2022-05-20
-thumbnail: "img/catalyst.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/catalyst.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork and knife crossed out with catalyst in red"
 ---
-
 {{< socialpreview url="https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html" >}}
 
 In 2017, Jennifer Fidler and Sherry Sullivan were both fired from their longtime Fairhope city posts by then-Mayor Karen Wilson.

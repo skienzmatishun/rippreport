@@ -1,22 +1,22 @@
 ---
-title: "BIT DOGS BARK FIRST"
+title: BIT DOGS BARK FIRST
 date: 2017-01-11
-thumbnail: "img/bit-dogs-bark-first.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - burrell
-  - fairhope-airport
-  - hix
-  - preble-rish
-  - robinson
-  - sewer
-  - triangle
-authors: 
-  - ripp-report
+thumbnail: img/bit-dogs-bark-first.jpg
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- burrell
+- fairhope-airport
+- hix
+- preble-rish
+- robinson
+- sewer
+- triangle
+authors:
+- ripp-report
+alttags: "Labrador Retriever dog grinning mischievously, perhaps distracted like football fans unaware of Fairhope City Council news"
 ---
-
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple of councilmen were hoping you were distracted.
 
 I must preface this commentary by first repeating something that inspired The Ripp Report many years ago. The realization that Baldwin County was extremely corrupt and that of the 14 municipalities of Baldwin County, Fairhope was the center of the corruption and majority of corrupt “connected,” players. The players sometimes appear to be pillars of society: politicians, wealthy, churchgoers— and are always considered a "good person”. Our former Mayor insulated these connected players and “good people” who over many years infected our judiciary and municipal governments, at our expense.

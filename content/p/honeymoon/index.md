@@ -1,25 +1,25 @@
 ---
-title: "HONEYMOON"
+title: HONEYMOON
 date: 2021-03-05
-thumbnail: "img/honeymoon.png"
-categories: 
-  - freaky-friday
-tags: 
-  - brown
-  - burrell
-  - city-council
-  - csb
-  - jack-burrell
-  - jay-robinson
-  - kevin-boone
-  - mayor-sullivan
-  - robert-brown
-  - robinson
-  - sherry-sullivan
-authors: 
-  - admin
+thumbnail: img/honeymoon.png
+categories:
+- freaky-friday
+tags:
+- brown
+- burrell
+- city-council
+- csb
+- jack-burrell
+- jay-robinson
+- kevin-boone
+- mayor-sullivan
+- robert-brown
+- robinson
+- sherry-sullivan
+authors:
+- admin
+alttags: "Silhouettes of figures holding hands, with CSB prominently displayed, referencing consulting firm involved in Baldwin Co..."
 ---
-
 Catalyst/Scott Boone Consulting, CSB, and “acting” Mayor Burrell along with the “actual” mayor are going through their honeymoon, and I mean honey. Since Robert Brown quit, Burrell has been on fire to replace him with Jay Marblemouth Robinson who did not seek re-election.
 
 {{< socialpreview url="https://rippreport.com/p/i-quit/" >}}

@@ -1,19 +1,19 @@
 ---
-title: "FLIES IN THE OINTMENT"
+title: FLIES IN THE OINTMENT
 date: 2016-10-14
-thumbnail: "img/flies-in-the-ointment.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - catalyst
-  - pittman
-  - thomason
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/flies-in-the-ointment.png
+categories:
+- freaky-friday
+tags:
+- boone
+- catalyst
+- pittman
+- thomason
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Illustration of a fly against a black background, symbolizing Alabama’s stagnant political state"
 ---
-
 There is no arguing that Alabama is in very sad shape when it comes to the state’s political structure and the lack of any leadership. Alabama’s republican and democrat’s are in an abyss, wandering aimlessly, clueless as to what it will take to bring Alabama out of not the third world but the dark ages. They have done a good job of selling the voters in the state a bill of goods that serves them the best. Straight ticket voting is their main tool to keep political control; however the downside is corrupt politicians who just ride into office, regardless of vetting or qualifications. The voters are dumb down to believe they must be loyal to their party and not question the candidates selected by party chiefs. The voters not the elected officials are the only ones that can break the cycle.
 
 In Baldwin county straight ticket voting is force feed to the constituents and indeed has determined many elections. County Commissioners, Judges and city Council members have been elected for their political party and not their qualifications. Some of these “elected officials” make a career of holding public office. They are not public servants they are **FLIES IN THE OINTMENT**.

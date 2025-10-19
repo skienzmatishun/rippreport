@@ -1,17 +1,17 @@
 ---
-title: "Hi-JACK-ed"
+title: Hi-JACK-ed
 date: 2016-12-30
-thumbnail: "img/hi-jack-ed.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/hi-jack-ed.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- wilson
+authors:
+- ripp-report
+alttags: "Composite portrait featuring men in suits and sunglasses, alongside an American flag, related to Alabama news coverage"
 ---
-
 The Ripp Report closes out 2016 with congratulations to John Sharp [Al.com](al.com).
 
 {{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2016/12/sparks_fly_in_fairhope_new_may.html" >}}

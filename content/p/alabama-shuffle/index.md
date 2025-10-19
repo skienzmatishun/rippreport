@@ -1,13 +1,13 @@
 ---
-title: "ALABAMA SHUFFLE"
+title: ALABAMA SHUFFLE
 date: 2022-07-27
-thumbnail: "img/alabama-shuffle.png"
-categories: 
-  - alabama
-authors: 
-  - admin
+thumbnail: img/alabama-shuffle.png
+categories:
+- alabama
+authors:
+- admin
+alttags: "Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics"
 ---
-
 The Attorney General of Alabama, Steve Marshall is doing the Alabama Shuffle. It is easy he just mentions key words like Biden, Abortion, Immigration or files frivolous lawsuits. That is all it takes to sidetrack his constituents. Marshall may go down as the worst Alabama A.G. “Always Gone” in the last 25 years.
 
 No white collar crimes or political corruption cases submitted to the A.G.’s office, see the light of day.

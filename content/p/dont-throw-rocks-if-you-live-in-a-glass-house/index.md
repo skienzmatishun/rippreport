@@ -1,20 +1,20 @@
 ---
-title: "DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE"
+title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
 date: 2016-11-11
-thumbnail: "img/dont-throw-rocks-if-you-live-in-a-glass-house.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - conyers
-  - fly-creek
-  - kant
-  - robert-brown
-  - robinson
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/dont-throw-rocks-if-you-live-in-a-glass-house.jpg
+categories:
+- freaky-friday
+tags:
+- conyers
+- fly-creek
+- kant
+- robert-brown
+- robinson
+- wilson
+authors:
+- ripp-report
+alttags: "Broken glass against a dark background, symbolizing former Mayor Kant’s lack of cooperation during the transition of power"
 ---
-
 Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and promised to represent them to the best of her abilities. She was humble and appreciated the trust the citizens had in her ability.
 
 Mayor Kant did not attend the ceremony.  Also, he never cooperated with the transition of power or city information nor did he attend any pre-inauguration functions.  This will be his legacy.

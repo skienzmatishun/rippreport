@@ -1,17 +1,17 @@
 ---
-title: "YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is."
+title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
 date: 2016-08-17
-thumbnail: "img/you-show-me-yours-and-i-will-show-you-mine-letter-that-is.gif"
+thumbnail: img/you-show-me-yours-and-i-will-show-you-mine-letter-that-is.gif
 tags:
-  - Pittman
-  - Mayor Kant
-  - Ethics Commission
-categories: 
-  - citycouncil
-authors: 
-  - ripp-report
+- Pittman
+- Mayor Kant
+- Ethics Commission
+categories:
+- citycouncil
+authors:
+- ripp-report
+alttags: "Ostrich burying its head in sand; symbolizes ignoring consumer complaints, a focus of The Ripp Report’s work"
 ---
-
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.
 
 SENATOR PITTMAN HAS TO HAVE THE FULL COOPERATION OF MAYOR KANT TO BID AND RECEIVE MUNICIPLE CONTRACTS WITH FAIRHOPE.

@@ -1,19 +1,19 @@
 ---
-title: "CATALYST TOP DOGS"
+title: CATALYST TOP DOGS
 date: 2018-05-04
-thumbnail: "img/catalyst-top-dogs.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - chris-elliott
-  - mega-site
-  - sewer
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-top-dogs.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+- chris-elliott
+- mega-site
+- sewer
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Political satire: Candidates Dorsey & Elliott in dog costumes, referencing calls to remove them from Baldwin County elections"
 ---
-
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to go.
 
 If we want our commissioners to listen to the people of Baldwin County and expect the State Senator to represent us, then we must get rid of the dogs.

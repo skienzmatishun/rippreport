@@ -1,13 +1,13 @@
 ---
-title: "ECONOMIC VIRUS"
+title: ECONOMIC VIRUS
 date: 2020-03-21
-thumbnail: "img/economic-virus.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/economic-virus.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Rolled US dollar bills radiating outwards, symbolizing potential economic bailout costs amid the COVID-19 pandemic"
 ---
-
 Again Alabama is dead last in response time for the corona virus, COVD-19. We have a Pandemic on our hands and most people are focused on medical issues.
 
 Of course human lives should come before money, however we cannot escape the economic impact that is going to challenge everyone.

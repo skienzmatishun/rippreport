@@ -1,13 +1,13 @@
 ---
-title: "HELL YEA"
+title: HELL YEA
 date: 2018-09-24
-thumbnail: "img/hell-yea.png"
-categories: 
-  - monday-madness
-authors: 
-  - ripp-report
+thumbnail: img/hell-yea.png
+categories:
+- monday-madness
+authors:
+- ripp-report
+alttags: "Man holding his head in frustration, symbolizing Fairhope City Council’s deadlock over government change"
 ---
-
 FAIRHOPE CHANGE OF GOVERNMENT
 
 The Fairhope City Council is on a roundabout and doesn’t know where to exit. The present Council is an “at Large” council, they are not going to vote for change. A YES vote for a change of government allows for 3 district council persons and the Mayor and one council person being “at large. This should satisfy both camps as a compromise, but not the good ole boy council.

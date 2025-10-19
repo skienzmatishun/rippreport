@@ -1,13 +1,13 @@
 ---
-title: "MORATORIUM PARTY"
+title: MORATORIUM PARTY
 date: 2021-12-20
-thumbnail: "img/moratorium-party.png"
-categories: 
-  - monday-madness
-authors: 
-  - admin
+thumbnail: img/moratorium-party.png
+categories:
+- monday-madness
+authors:
+- admin
+alttags: "City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and..."
 ---
-
 Fairhope, aka Fauxhope, last municipal election fell prey to the political cabal, Catalyst, now branded as Scott Boone Consulting. They did a bang up good job for the special interests, developers and political candidates, they selected and supported.
 
 Mayor Sherry Sullivan has been their darling since Tim Kant was Mayor. Sherry, upon winning the position was rewarded with the additional position of utility director, along with that came a second paycheck from the city. The same model former Mayor Tim Kant followed.

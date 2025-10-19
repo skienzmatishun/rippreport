@@ -1,23 +1,23 @@
 ---
-title: "SELECTED NOT ELECTED"
+title: SELECTED NOT ELECTED
 date: 2021-03-07
-thumbnail: "img/selected-not-elected.png"
-categories: 
-  - citycouncil
-tags: 
-  - brown
-  - burrell
-  - city-council
-  - csb
-  - elections
-  - jack-burrell
-  - jay-robinson
-  - robert-brown
-  - robinson
-authors: 
-  - admin
+thumbnail: img/selected-not-elected.png
+categories:
+- citycouncil
+tags:
+- brown
+- burrell
+- city-council
+- csb
+- elections
+- jack-burrell
+- jay-robinson
+- robert-brown
+- robinson
+authors:
+- admin
+alttags: "Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials"
 ---
-
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.
 
 {{< socialpreview url="https://rippreport.com/p/honeymoon/" >}}

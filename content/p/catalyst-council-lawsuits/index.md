@@ -1,24 +1,24 @@
 ---
-title: "CATALYST COUNCIL LAWSUITS"
+title: CATALYST COUNCIL LAWSUITS
 date: 2020-08-22
-thumbnail: "img/catalyst-council-lawsuits.png"
-categories: 
-  - Special-Report
-tags: 
-  - breland
-  - burell
-  - cain-orear
-  - city-council
-  - election
-  - jack-burrell
-  - kant
-  - triangle-lawsuit
-  - wilson
-  - zoning
-authors: 
-  - admin
+thumbnail: img/catalyst-council-lawsuits.png
+categories:
+- Special-Report
+tags:
+- breland
+- burell
+- cain-orear
+- city-council
+- election
+- jack-burrell
+- kant
+- triangle-lawsuit
+- wilson
+- zoning
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal featuring money bags and a sailboat, related to legal fee dispute discussed in the article"
 ---
-
 When the triangle lawsuit was going on, Fairhope's insurance company, sued the city saying that the city's bad decisions led to the lawsuit and they were not going to cover the legal expenses.
 
 This is a simplification of two long stories.

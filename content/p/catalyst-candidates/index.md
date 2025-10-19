@@ -1,15 +1,15 @@
 ---
-title: "CATALYST CANDIDATES"
+title: CATALYST CANDIDATES
 date: 2018-03-16
-thumbnail: "img/catalyst.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-authors: 
-  - ripp-report
+thumbnail: img/catalyst.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+authors:
+- ripp-report
+alttags: "Suitcase with a no catalyst tag, referencing candidates in Baldwin County’s June 9th primary election"
 ---
-
 Qualifications for Mid Term elections are over and now it is a race to the primary June 9 2018.
 
 {{< socialpreview url="https://rippreport.com/p/qualification/" >}}

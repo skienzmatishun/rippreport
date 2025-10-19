@@ -1,24 +1,24 @@
 ---
-title: "FAUX CANDIDATES"
+title: FAUX CANDIDATES
 date: 2020-06-12
-thumbnail: "img/faux-candidates.png"
-categories: 
-  - freaky-friday
-tags: 
-  - bill-hightower
-  - catalyst
-  - chris-elliott
-  - daphne
-  - election
-  - elliott
-  - haygood
-  - jack-burrell
-  - jerry-carl
-  - lynn-stacy
-authors: 
-  - admin
+thumbnail: img/faux-candidates.png
+categories:
+- freaky-friday
+tags:
+- bill-hightower
+- catalyst
+- chris-elliott
+- daphne
+- election
+- elliott
+- haygood
+- jack-burrell
+- jerry-carl
+- lynn-stacy
+authors:
+- admin
+alttags: "Hand casting a ballot, symbolizing CATALYST’s manipulation of “faux” candidates in upcoming elections"
 ---
-
 It is election time and CATALYST is at work stroking FAUX candidates that are willing to fall on the sword for CATALYST.
 
 Faux candidates are those “selected” by CATALYST to act as if they are not CATALYST. These FAUX candidates may even be strategically positioned to oust CATALYST players presently in office. So far the https://rippreport.com has identified three political races where FAUX candidates may appear.

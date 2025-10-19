@@ -1,26 +1,26 @@
 ---
-title: "JUSTIFIED"
+title: JUSTIFIED
 date: 2025-03-08
-thumbnail: "img/justified.png"
-categories: 
-  - ivy
+thumbnail: img/justified.png
+categories:
+- ivy
 tags:
-  - OJ French
-  - Bay Minette
-  - Baldwin County Major Crimes Unit
-  - Al Tolbert
-  - Johnathan Victor
-  - Bob Willis
-  - Sheriff Hoss Mack
-  - Robert Wilters
-  - David Whetstone
-  - Murray Lawrence JR
-  - Antony Lowery
-  - County Commission
-authors: 
-  - ripp-report
+- OJ French
+- Bay Minette
+- Baldwin County Major Crimes Unit
+- Al Tolbert
+- Johnathan Victor
+- Bob Willis
+- Sheriff Hoss Mack
+- Robert Wilters
+- David Whetstone
+- Murray Lawrence JR
+- Antony Lowery
+- County Commission
+authors:
+- ripp-report
+alttags: "Traffic stop footage shows a man in a car and an officer; related to the O.J. French killing lawsuit"
 ---
-
 The killing of O.J. French of Bay Minette was over a traffic stop by an office who was fully aware who he was stopping. It was JUSTIFIED by the Baldwin County Major Crimes Unit, who investigates themselves. The Chief of police of Bay Minette, Al Tolbert, is on the major crimes unit and the police officer who killed Mr. French, works for him. Sheriff Mack at the time also was on the Major crimes unit. It is now a federal lawsuit as well as the Johnathan Victor case. Johnathan was killed by a sheriff deputy. He was unarmed and gunned down with an assault rifle, another pending federal lawsuit.
 
 This just two of eight unarmed people killed by police in Baldwin County, and ruled justified by the Major Crimes Division.

@@ -1,13 +1,13 @@
 ---
-title: "YES"
+title: YES
 date: 2018-10-12
-thumbnail: "img/yes.png"
-categories: 
-  - elections
-authors: 
-  - ripp-report
+thumbnail: img/yes.png
+categories:
+- elections
+authors:
+- ripp-report
+alttags: "Green checkmark inside a circle, symbolizing support for Fairhope government change and efficient practices"
 ---
-
 The amendment to Change the Government of Fairhope, is just that, a change, from doing business as usual, to doing business smarter and more efficient. Many different blog sites and organizations are in support of the Council-Manager from of Government
 
 Those few opposed are the hold outs from the past. Good ole Boys and Club Catalyst are scared to death that their day has come. The Fairhope City Council, an at large council, also is against any change. Ask yourself why? They know for the last 12 years the at large system has failed, miserably.

@@ -1,22 +1,22 @@
 ---
-title: "4-20"
+title: 4-20
 date: 2020-04-20
-thumbnail: "img/4-20.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - bill-hightower
-  - bp
-  - cannabis
-  - covid-19
-  - election
-  - hemp
-  - medical-cannabis
-  - tripp-pittman
-authors: 
-  - admin
+thumbnail: img/4-20.jpg
+categories:
+- monday-madness
+tags:
+- bill-hightower
+- bp
+- cannabis
+- covid-19
+- election
+- hemp
+- medical-cannabis
+- tripp-pittman
+authors:
+- admin
+alttags: "Coronavirus statistics highlight loss of life; a cannabis leaf floats on a red barrier in water, symbolizing impact"
 ---
-
 This day is significant for many reasons:
 
 Today is predicted to be the peak day for coronavirus in Alabama. To date Alabama has had 4792 cases resulting in 113 souls who lost their fight with the virus. The United States total is 770,564 cases and 41,114 loss of life. Worldwide 2,416,135 cases have been reported with 165,939 scumming to the disease.

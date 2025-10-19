@@ -1,22 +1,22 @@
 ---
-title: "CATALYST SIGNS"
+title: CATALYST SIGNS
 date: 2020-08-07
-thumbnail: "img/catalyst-signs.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - catalyst
-  - city-council
-  - csb
-  - election
-  - municipal-judge
-  - scott-boone
-  - sullivan
-authors: 
-  - admin
+thumbnail: img/catalyst-signs.png
+categories:
+- freaky-friday
+tags:
+- boone
+- catalyst
+- city-council
+- csb
+- election
+- municipal-judge
+- scott-boone
+- sullivan
+authors:
+- admin
+alttags: "Sign displaying a red prohibition symbol over the word CATALYST, referencing a political consulting firm rebranding due ..."
 ---
-
 Just like tea leaves if you look close enough at the local political signs they are sending you a subliminal message. If however you do not allow your eyes to rule your brain, the subliminal message is much clearer.
 
 Catalyst has been around for a long time, under various names. Recently Catalyst became Scott Boone Consulting. The name CATALYST had to be abandoned, it had become politically toxic. The other reason is elected officials, elected under the CATALYST banner, were disassociating with the brand.

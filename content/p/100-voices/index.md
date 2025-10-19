@@ -1,16 +1,16 @@
 ---
-title: "100 VOICES"
+title: 100 VOICES
 date: 2019-04-06
-thumbnail: "img/100-voices.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - city-council
-  - k-1-center
-authors: 
-  - admin
+thumbnail: img/100-voices.jpg
+categories:
+- freaky-friday
+tags:
+- city-council
+- k-1-center
+authors:
+- admin
+alttags: "Community members encircling a central point, symbolizing citizen voices needing to be heard by Fairhope City Council"
 ---
-
 First let me apologize for not getting out the Wonderful Wednesday and for the delay of Freaky Friday this week. The Ripp Report has been following many different issues throughout the County and this last week was especially busy.
 
 In Fairhope the City Council believes that the citizens elected them to make all the decisions for the community. It only takes three votes of the council for a decision to be made. The Fairhope Council does not understand that they are suppose to LISTEN to their constituents. All their constituents.

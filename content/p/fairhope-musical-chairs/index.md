@@ -1,13 +1,13 @@
 ---
-title: "FAUXHOPE MUSICAL CHAIRS"
+title: FAUXHOPE MUSICAL CHAIRS
 date: 2021-11-15
-thumbnail: "img/fairhope-musical-chairs.png"
-categories: 
-  - monday-madness
-authors: 
-  - admin
+thumbnail: img/fairhope-musical-chairs.png
+categories:
+- monday-madness
+authors:
+- admin
+alttags: "Council members celebrating, possibly masking criticism after a controversial president’s departure"
 ---
-
 After 9 years of Jack Burrell tenaciously holding on to, the position of President of the Fairhope Council, it may come to an end tonight. Jack has soiled the seat of council president to a point that a new chair is necessary. Jack’s legacy is infamous and it has cost the taxpayers millions. If you think he is relinquishing the seat out of courtesy, then have another drink.
 
 If Jack falls out of the chair tonight, you will hear more B.S from the rest of the council as to what a good job he did. They will pour it on like syrup on pancakes. The truth of the matter is the last council was the worst in Fairhope history, and this council is barely holding it’s head above water.

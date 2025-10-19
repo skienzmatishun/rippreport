@@ -1,18 +1,18 @@
 ---
-title: "FOLLOW THE BOUNCING BALL"
+title: FOLLOW THE BOUNCING BALL
 date: 2017-01-20
-thumbnail: "img/follow-bouncing-ball.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - fly-creek
-  - planning-and-zoning
-  - preble-rish
-authors: 
-  - ripp-report
+thumbnail: img/follow-bouncing-ball.jpg
+categories:
+- freaky-friday
+tags:
+- boone
+- fly-creek
+- planning-and-zoning
+- preble-rish
+authors:
+- ripp-report
+alttags: "Spotlight on corruption: A single white circle against black background represents uncovering hidden issues"
 ---
-
 The Ripp Report and Baldwin County Legal Eagle is a non-profit exposing political and judicial corruption. We also have helped consumers with complaints about consumer products or services. There are no paid staff and no outer office expenses, 100% of any donation goes towards the non-profit. The majority of operating capital I personally donate, which is not reimbursed.
 
 We are independent and cannot be influenced by money or power. Our objective is to expose issues that make you mad as hell and prompt a reaction.

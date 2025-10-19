@@ -1,20 +1,20 @@
 ---
-title: "WEASEL CONTRACTOR"
+title: WEASEL CONTRACTOR
 date: 2021-05-14
-thumbnail: "img/weasel-contractor.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - elliott
-  - hb-188
-  - kant
-  - lynn-stacy
-  - thomasson
-  - tucker-dorsey
-authors: 
-  - admin
+thumbnail: img/weasel-contractor.jpg
+categories:
+- freaky-friday
+tags:
+- elliott
+- hb-188
+- kant
+- lynn-stacy
+- thomasson
+- tucker-dorsey
+authors:
+- admin
+alttags: "Chris Elliott’s face emerging from a ballot box, symbolizing his election as State Senator in Baldwin County amid politica..."
 ---
-
 Baldwin County really made a mistake when they elected [Chris Elliott](https://rippreport.com/tag/elliott/) to replace [Tripp Boom Boom Pittman](https://rippreport.com/tag/pittman/) as State Senator.
 
 Those that know the history, know Elliott was one of the three general partners involved with the political machine in Baldwin County. First known as Stacy Elliott and Haygood then Catalyst, until that name became toxic and now Scott Boone Consulting.

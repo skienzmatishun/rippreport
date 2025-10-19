@@ -1,15 +1,14 @@
 ---
-title: "EARFUL"
-date: 2023-10-23T00:00:00Z
-thumbnail: "img/earful.png"
+title: EARFUL
+date: 2023-10-23 00:00:00+00:00
+thumbnail: img/earful.png
 summary: "The narrative of the wrongful conviction of Murray Lawrence Jr., A Verbal Lynching in Alabama, has been recorded for a podcast. For further information: deal-with-the-devil.com."
-categories: 
-  - dwtd
-authors: 
-  - admin
+categories:
+- dwtd
+authors:
+- admin
+alttags: "Podcast artwork: stylized ear graphic representing the Verbal Lynching in Alabama podcast about Murray Lawrence Jr.s wr..."
 ---
-
-
 The narrative of the wrongful conviction of Murray Lawrence Jr., A Verbal Lynching in Alabama, has been recorded for a podcast.
 
 

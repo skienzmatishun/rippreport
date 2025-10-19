@@ -1,13 +1,13 @@
 ---
-title: "CAPTAIN JACK"
+title: CAPTAIN JACK
 date: 2019-01-11
-thumbnail: "img/captain-jack.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/captain-jack.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Man in pilot attire discussing Fairhope Airport Authority’s lease & bidding procedures review"
 ---
-
 Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g4glwEIDhm0" frameborder="0" allowfullscreen></iframe>

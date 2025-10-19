@@ -1,15 +1,15 @@
 ---
-title: "OPPOSITION / OBSTRUCTION"
+title: OPPOSITION / OBSTRUCTION
 date: 2017-09-15
-thumbnail: "img/opposition-obstruction.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-authors: 
-  - ripp-report
+thumbnail: img/opposition-obstruction.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+authors:
+- ripp-report
+alttags: "Warning sign reading Obstruction, symbolizing resistance from Fairhope City Council against the mayors recommendations"
 ---
-
 Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is calling the shots. One thing that is perfectly clear is that any recommendations from the mayor will be meet with stiff resistance, regardless of it’s merit.
 
 The last city council meeting, Sept 11, left little doubt as to how far the council will go to oppose the mayor. The city’s insurance was on the agenda and one bid had been received and a second bid came in 23 hours after the deadline. The second bid was with a company the mayor brought to the table. The council in it’s infinite wisdom decided not to open the second bid and refused to allow both bids to be resubmitted. The end result was the council accepted the bid they wanted and rejected the mayors. That cost taxpayers and employees 60 thousand dollars and better coverage, but the council, again, put their agenda before public trust. Burrell insisted that the decision had nothing to do with the Mayor, remember this, it is very important and will come up again.

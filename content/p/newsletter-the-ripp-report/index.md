@@ -1,13 +1,13 @@
 ---
-title: "NEWSLETTER - THE RIPP REPORT"
+title: NEWSLETTER - THE RIPP REPORT
 date: 2018-02-07
-thumbnail: "img/newsletter-the-ripp-report.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/newsletter-the-ripp-report.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Sign up for The Ripp Report newsletter to stay informed about political corruption and consumer issues in Baldwin County"
 ---
-
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The mid term election are going to be very important to the citizens of Baldwin County which has 14 municipalities.
 
 [http://baldwincountyal.gov/Government/municipalities](http://baldwincountyal.gov/Government/municipalities)

@@ -1,20 +1,20 @@
 ---
-title: "RECUSE YOURSELF"
+title: RECUSE YOURSELF
 date: 2017-04-19
-thumbnail: "img/recuse-yourself.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - angelo-corte
-  - boone
-  - catalyst
-  - fly-creek
-  - preble-rish
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/recuse-yourself.jpg
+categories:
+- wonderful-wednesday
+tags:
+- angelo-corte
+- boone
+- catalyst
+- fly-creek
+- preble-rish
+- wilson
+authors:
+- ripp-report
+alttags: "Signpost pointing Right and Wrong, symbolizing conflict of interest concerns within Fairhope City Council decisions"
 ---
-
 COFAIRHOPE: ATTENTION MAYOR AND COUNCIL
 
 Dear Mayor and Council please take your positions seriously and understand that a part of your responsibilities is to discipline yourselves. The Fairhope City Council in the past has ignored any conflicts of interest, they may have, while voting on issues that they are personally involved with or have a business interest related to the applicant.

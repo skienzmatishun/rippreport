@@ -1,18 +1,18 @@
 ---
-title: "CATALYST SKUNK"
+title: CATALYST SKUNK
 date: 2018-03-28
-thumbnail: "img/catalyst-skunk.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - catalyst
-  - mega-site
-  - sewer
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-skunk.jpg
+categories:
+- wonderful-wednesday
+tags:
+- catalyst
+- mega-site
+- sewer
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Person in a skunk costume, referencing County Commissioner Tucker Dorsey’s nickname within the article"
 ---
-
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
 
 Tucker Dorsey showed his stripes before even taking office. He, Bob James and Frank Burt had meetings before being sworn in. As soon as they had been sworn in the three had an alliance and fired over 10 people from the county employment, department heads, lawyers, county manager and the EMA director.

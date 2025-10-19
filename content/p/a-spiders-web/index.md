@@ -1,20 +1,20 @@
 ---
-title: "A SPIDER’S WEB"
+title: A SPIDER’S WEB
 date: 2017-01-18
-thumbnail: "img/a-spiders-web.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - boone
-  - burrell
-  - chris-elliott
-  - ethics-commission
-  - sewer
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/a-spiders-web.jpg
+categories:
+- citycouncil
+tags:
+- boone
+- burrell
+- chris-elliott
+- ethics-commission
+- sewer
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Complex web of interconnected LLCs, symbolizing hidden connections and obscured ownership within Baldwin County politics"
 ---
-
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as city council members and county commissioners hide their business and personal connections to these LLC’S. By doing this, they are able to vote and promote their own interests without being discovered. Or so they thought.
 
 The Ethics commission in Alabama has failed in its mission of enforcing any ethical standards. In fact, in many cases they have turned a blind eye to complaints or procrastinated enough that the complaint evaporates. This has created and encouraged many elected officials to ignore the very rules that were designed to protect the citizens of the state. The Ethics Commission has actually created a path for the elected officials to manipulate the ethics rules through the use of informal and advisory opinions. The bottom line is that the court of public opinion is often the only option citizens have in exposing obvious conflicts of interest involving public officials.

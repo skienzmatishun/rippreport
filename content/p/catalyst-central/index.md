@@ -1,13 +1,13 @@
 ---
-title: "CATALYST CENTRAL"
+title: CATALYST CENTRAL
 date: 2020-02-01
-thumbnail: "img/catalyst-central.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/catalyst-central.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections"
 ---
-
 In the last Fairhope municipal election the Ripp Report supported most of the City Council, even Jack Burell. The focus of the election was to elect a new mayor.
 
 It became perfectly obvious in the three previous elections that the mayor ran the city day by day and decisions were made by a select few, good ole boys.

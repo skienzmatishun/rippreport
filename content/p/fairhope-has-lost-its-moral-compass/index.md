@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE HAS LOST IT’S MORAL COMPASS"
+title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
 date: 2018-06-11
-thumbnail: "img/fairhope-has-lost-its-moral-compass.jpg"
-categories: 
-  - monday-madness
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-has-lost-its-moral-compass.jpg
+categories:
+- monday-madness
+authors:
+- ripp-report
+alttags: "Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope City Council"
 ---
-
 “(ethics) An inner sense which distinguishes what is right from what is wrong, functioning as a guide (like the needle of a compass) for morally appropriate behavior.”
 
 Fairhope City Council has lost it’s moral compass. The Council recognizes wrong for right, they have created a new norm that defies logic. The Council along with the Police Chief, used their elected positions to attack the Mayor in a special meeting.

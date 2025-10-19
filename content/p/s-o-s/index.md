@@ -1,19 +1,19 @@
 ---
-title: "S.O.S"
+title: S.O.S
 date: 2021-05-07
-thumbnail: "img/s-o-s.png"
-categories: 
-  - freaky-friday
-tags: 
-  - city-council
-  - fairhope-waterfront
-  - hoss-mack
-  - mobile-baykeeper
-  - sheriff-mack
-authors: 
-  - admin
+thumbnail: img/s-o-s.png
+categories:
+- freaky-friday
+tags:
+- city-council
+- fairhope-waterfront
+- hoss-mack
+- mobile-baykeeper
+- sheriff-mack
+authors:
+- admin
+alttags: "City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions"
 ---
-
 I am reluctantly back from a three week vacation and trying to get back on the Ripp Report horse. Let’s review a few subjects that have been in the news in my absence.
 
 First the [Fairhope Waterfront](https://rippreport.com/tag/fairhope-waterfront/) project has been getting progressively worse. What started out as a citizen driven grant has turned into a political hot potato. The project has been whittled down to a stub.

@@ -1,21 +1,21 @@
 ---
-title: "EAGLES EYE - CATALYST-KANT-CORTE"
+title: EAGLES EYE - CATALYST-KANT-CORTE
 date: 2018-05-03
-thumbnail: "img/eagles-eye-catalyst-kant-corte.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - burrell
-  - catalyst
-  - corte
-  - fly-creek
-  - kant
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/eagles-eye-catalyst-kant-corte.png
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- burrell
+- catalyst
+- corte
+- fly-creek
+- kant
+- wilson
+authors:
+- ripp-report
+alttags: "Aerial view showing Highway 98 and Parker Road intersection in Fairhope, potentially impacted by new apartment development"
 ---
-
 The Ripp Report has called on the Baldwin county Legal Eagle to dispatch the Eagle for a bird’s eye view of what developers do not want you to see. The Kant Corte Apartments on Fly Creek are busy clearing the property for the Apartments and their entrance and exit.
 
 Highway 98 and Parker Road, is the most dangerous intersection in Fairhope, and has claimed 7 lives.

@@ -1,18 +1,18 @@
 ---
-title: "Super Bowl LV"
+title: Super Bowl LV
 date: 2021-02-05
-thumbnail: "img/super-bowl-lv.png"
-categories: 
-  - freaky-friday
-tags: 
-  - election
-  - football
-  - insurrection
-  - super-bowl
-authors: 
-  - admin
+thumbnail: img/super-bowl-lv.png
+categories:
+- freaky-friday
+tags:
+- election
+- football
+- insurrection
+- super-bowl
+authors:
+- admin
+alttags: "American football resting on a gray background, representing Super Bowl LV competition between Chiefs and Buccaneers"
 ---
-
 Super Bowl LV, the 55th Super Bowl and the 51st modern-era National Football League championship game, will decide the league champion for the 2020 NFL season. The American Football Conference champion Kansas City Chiefs will play the National Football Conference champion Tampa Bay Buccaneers.
 
 Football and politics always compete for the attention of the citizens of the United States. This years Super Bowl will probably have more viewers than voters in the 2020 Presidential election. The Super Bowl is a needed relief from the strain of Covid and politics.

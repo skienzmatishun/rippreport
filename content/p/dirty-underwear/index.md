@@ -1,13 +1,13 @@
 ---
-title: "DIRTY UNDERWEAR"
+title: DIRTY UNDERWEAR
 date: 2022-07-01
-thumbnail: "img/dirty-underwear.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/dirty-underwear.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability"
 ---
-
 The Attorney General, Ethics Commission and the Alabama Bar all wear the same dirty underwear. They protect one another, and politicians, from pesky political complaints and play a legal shuffle that results in whitewashing their culpability. It is perfectly clear that the Attorney General will always side with the Bar or Ethics. The Bar and Ethics depend on the Attorney General to cover their back.
 
 As a citizen of Alabama you cannot expect any justice, accountability, or investigation into any complaint involving political corruption.

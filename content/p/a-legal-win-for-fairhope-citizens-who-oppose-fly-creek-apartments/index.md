@@ -1,18 +1,17 @@
 ---
-title: "A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS"
+title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
 date: 2016-07-27
-thumbnail: "img/a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - fly-creek
-  - kant
-  - planning-and-zoning
-authors: 
-  - ripp-report
+thumbnail: img/a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments.jpg
+categories:
+- wonderful-wednesday
+tags:
+- fly-creek
+- kant
+- planning-and-zoning
+authors:
+- ripp-report
+alttags: "Gavel and legal documents represent a lawsuit filed against Fairhope Planning and Zoning over development decisions"
 ---
-
-
 In June of this year, the Planning and Zoning Board expressed their frustration with citizens of Fairhope who defend themselves by legal means. Friends of Fly Creek, Plaintiffs — and certainly friends of the public, brought a lawsuit against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River group LLC, Defendants. The Defendants in turn moved to dismiss the lawsuit all together. Planning and Zoning doubled down on their decision, calling the lawsuit "frivolous."
 
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2016/06/controversial-fairhope-apartment.html" >}}

@@ -1,13 +1,13 @@
 ---
-title: "FAUXHOPE"
+title: FAUXHOPE
 date: 2021-09-24
-thumbnail: "img/fauxhope.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/fauxhope.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "City of Fairhope, Alabama seal depicting buildings and a For Sale sign, highlighting concerns about municipal spending a..."
 ---
-
 FAUXHOPE is living up to it’s name. Fairhope is not what you think when it comes to municipal government. The waste of taxpayer money is staggering, yet few people are even interested. The delay of the waterfront project is just one example. For close to a year the council has tried to get around any ADA compliance for the project. From day one the then Mayor Wilson explained that the grant, 6.2 million, required ADA compliance.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/fairhope-plans-ada-bluff-access,113651" >}}

@@ -1,14 +1,14 @@
 ---
-title: "SATURDAY APOLOGY"
+title: SATURDAY APOLOGY
 date: 2019-11-03
-youtube: "7wbnB77HAI4"
-categories: 
-  - saturday-special
-  - podcast
-authors: 
-  - admin
+youtube: 7wbnB77HAI4
+categories:
+- saturday-special
+- podcast
+authors:
+- admin
+alttags: "Backstory Podcast logo: Eagle head within radiating sound waves, representing political corruption and consumer issues cov..."
 ---
-
 @BackstoryPodcast
 
 The Ripp Report/Backstory Podcast

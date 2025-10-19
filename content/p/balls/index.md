@@ -1,17 +1,17 @@
 ---
-title: "BALLS"
+title: BALLS
 date: 2017-03-27
-thumbnail: "img/balls.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - burrell
-  - corte
-  - fly-creek
-authors: 
-  - ripp-report
+thumbnail: img/balls.jpg
+categories:
+- monday-madness
+tags:
+- burrell
+- corte
+- fly-creek
+authors:
+- ripp-report
+alttags: "Pile of tennis balls on a court, symbolizing courage and accountability expected from City Council members"
 ---
-
 How many balls are on the City Council? Place your bets and take note how many council members have forgotten what our last election was about— and their promises. How many will stand up for citizens, and how many have no balls. PLEASE make your voice heard!
 
 Monday night’s City Council meeting: Included on this agenda is the request to amend an ordinance (Item #6) that would allow an exception so that the Fly Creek Apartments' prior approval would not expire due to the moratorium. WHY IN THE HELL WOULD THEY EXTEND IT? This is the 9th public meeting— all of which has shown overwhelming opposition to the project.

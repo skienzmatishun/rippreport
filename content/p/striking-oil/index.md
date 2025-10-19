@@ -1,18 +1,18 @@
 ---
-title: "STRIKING OIL"
+title: STRIKING OIL
 date: 2021-07-24
-thumbnail: "img/striking-oil.png"
+thumbnail: img/striking-oil.png
 tags:
-  - Albritton
-  - Regions Bank
-  - Ethics Commission
-  - Mabel Amos Trust
-categories: 
-  - ethics
-authors: 
-  - admin
+- Albritton
+- Regions Bank
+- Ethics Commission
+- Mabel Amos Trust
+categories:
+- ethics
+authors:
+- admin
+alttags: "Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns..."
 ---
-
 Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to tell the citizens of the county or the relatives of Mabel Amos.
 
 Why should they?

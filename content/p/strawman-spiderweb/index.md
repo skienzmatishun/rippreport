@@ -1,17 +1,17 @@
 ---
-title: "STRAWMAN SPIDERWEB"
+title: STRAWMAN SPIDERWEB
 date: 2020-06-07
-thumbnail: "img/strawman-spiderweb.png"
-categories: 
-  - stormy-saturday
-tags: 
-  - boone
-  - kevin-boone
-  - mcsharry
-authors: 
-  - admin
+thumbnail: img/strawman-spiderweb.png
+categories:
+- stormy-saturday
+tags:
+- boone
+- kevin-boone
+- mcsharry
+authors:
+- admin
+alttags: "Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction"
 ---
-
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-train-wreck/" >}}

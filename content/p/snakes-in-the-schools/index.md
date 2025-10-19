@@ -1,13 +1,13 @@
 ---
-title: "SNAKES IN THE SCHOOLS"
+title: SNAKES IN THE SCHOOLS
 date: 2018-06-21
-thumbnail: "img/snakes-in-the-schools.jpg"
-categories: 
-  - thursday-thunder
-authors: 
-  - ripp-report
+thumbnail: img/snakes-in-the-schools.jpg
+categories:
+- thursday-thunder
+authors:
+- ripp-report
+alttags: "Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake, referencing alleged questionable dealings in B..."
 ---
-
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County Superintendent Eddie Tyler into the Barrel. It is interesting that Jonathan Gray works for both. How can a school board consultant be drawing a pay check from the school system while he is lining his pockets with Elliott Campaign money?
 
 Speaking of money, how about the Business Council of Alabama, has contributed 35,000 to Elliott, wonder how much Johnathan gets? Now we hear the BCA has collapsed, the mules of backroom politics. They picked Elliott as their Baldwin County mule, that should convince you who Elliott is indebted to.

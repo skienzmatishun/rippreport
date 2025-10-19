@@ -1,17 +1,17 @@
 ---
-title: "$5000.00 CASH REWARD"
+title: $5000.00 CASH REWARD
 date: 2017-02-08
-thumbnail: "img/5000-00-cash-reward.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - fairhope-airport
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/5000-00-cash-reward.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- fairhope-airport
+- wilson
+authors:
+- ripp-report
+alttags: "$5000 reward poster: Wanted information proving claims against Councilman Burrell are false, per The Ripp Report"
 ---
-
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.
 
 The entire complaint can be reviewed, [https://rippreport.com/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/).

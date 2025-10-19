@@ -1,20 +1,19 @@
 ---
-title: "STEALING FROM KIDS"
+title: STEALING FROM KIDS
 date: 2023-11-04
-thumbnail: "img/stealing-from-kids.jpg"
-gif: "img/stealing-from-kids.gif"
-summary: "Alabama faces accusations of corruption, particularly concerning the head of the Ethics Commission who remains in his position despite legal issues. The lawsuit against him raises concerns about a potential cover-up and lack of accountability within the state's legal system."
+thumbnail: img/stealing-from-kids.jpg
+gif: img/stealing-from-kids.gif
+summary: Alabama faces accusations of corruption, particularly concerning the head of the Ethics Commission who remains in his position despite legal issues. The lawsuit against him raises concerns about a potential cover-up and lack of accountability within the state's legal system.
 tags:
-  - Ethics Commission
-  - Albritton
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+- Ethics Commission
+- Albritton
+categories:
+- ethics
+- alabama
+authors:
+- admin
+alttags: "Man in striped prisoner clothing holds money and a bag, symbolizing corruption within Alabama politics discussed in the ar..."
 ---
-
-
 NO state is as corrupt as Alabama! The case below involves the Executive Director of the Alabama Ethics Commission Tom Albritton who has been able to maintain his position despite his criminal behavior. How do politicians in Alabama keep a straight face when they accuse Washington of corruption when they proudly wear the United States gold star of corruption?
 
 {{< socialpreview url="https://1819news.com/news/item/montgomery-county-circuit-judge-greg-griffin-on-mabel-amos-trust-fund-lawsuit-allegations-it-stinks-to-high-heaven" >}}

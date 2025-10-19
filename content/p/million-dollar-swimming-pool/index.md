@@ -1,18 +1,18 @@
 ---
-title: "MILLION DOLLAR SWIMMING POOL"
+title: MILLION DOLLAR SWIMMING POOL
 date: 2018-07-06
-thumbnail: "img/million-dollar-swimming-pool.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - chris-elliott
-  - kevin-boone
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/million-dollar-swimming-pool.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+- chris-elliott
+- kevin-boone
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Two men in suits stand before a pool backdrop; a life ring labeled Catalyst floats above them, referencing concerns abou..."
 ---
-
 Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what consumers should be aware of.
 
 IF YOU ARE LOOKING TO BUY A HOME IN BALDWIN COUNTY, THIS IS A MUST READ.

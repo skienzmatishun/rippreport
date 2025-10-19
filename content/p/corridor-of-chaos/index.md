@@ -1,13 +1,13 @@
 ---
-title: "CORRIDOR OF CHAOS"
+title: CORRIDOR OF CHAOS
 date: 2019-10-11
-thumbnail: "img/corridor-of-chaos.png"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/corridor-of-chaos.png
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Map highlighting a planned unit development (Catalyst) near Fairhope Avenue and Hwy 181 in Fairhope, Alabama"
 ---
-
 ## North is up
 
 "KLUMP PUD" ON HWY 181

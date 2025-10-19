@@ -1,22 +1,20 @@
 ---
-title: "EXIT AND ENTER"
+title: EXIT AND ENTER
 date: 2016-11-04
-thumbnail: "img/exit-and-enter.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-  - nix
-  - pittman
-  - planning-and-zoning
-  - triangle
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/exit-and-enter.jpg
+categories:
+- freaky-friday
+tags:
+- kant
+- nix
+- pittman
+- planning-and-zoning
+- triangle
+- wilson
+authors:
+- ripp-report
+alttags: "Symbolic exit sign with arrow, representing a turning point for Fairhope as a new mayor takes office after years of leader..."
 ---
-
- 
-
 The City of Fairhope has three days before it swears in a new Mayor and begins another chapter in its history. It is past due time to turn the page.
 
 [In the recent City Sketches, the centerfold article “if they build it they will come”](https://cdn.rippreport.com/wp-content/uploads/2016/11/showdocument?id=13260) is a glowing tribute to Mayor Kant’s accomplishments. This city magazine has been a propaganda tool of the Mayor, paid for with tax dollars, and supported by a disingenuous editorial staff of one person. The publication is outdated and the content is not truthful. Many people will read the magazine and be misled, for the first time, while visiting Fairhope, as well as citizens who are not politically aware or connected to the city. The Ripp Report has had several complaints from long term residents. Some of 30+ years, take offense to the many false claims by the soon-to-be former Mayor. Mayor Kant said in the article that in 1983 that the “the town was dying,” and he was “equipped with his marching orders.” In fact, the town was nowhere near death; in reality it was a self-sufficient community of 7,268 people with over 80 businesses from car dealerships, restaurants, drugstores and grocery stores.

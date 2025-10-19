@@ -1,18 +1,18 @@
 ---
-title: "SKUNKED"
+title: SKUNKED
 date: 2018-08-25
-thumbnail: "img/skunked.jpg"
+thumbnail: img/skunked.jpg
 tags:
-  - Zunk
-  - Elections
-  - Catalyst
-  - City Council
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+- Zunk
+- Elections
+- Catalyst
+- City Council
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "A skunk walks through dry grass, symbolizing how good intentions for Fairhope’s government could be spoiled by politics"
 ---
-
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts
 
 Here is where you got to be careful around skunk’s, they can take a good thing and make it smell.

@@ -1,20 +1,20 @@
 ---
-title: "FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT"
+title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
 date: 2024-08-01
-thumbnail: "img/federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit.jpg"
+thumbnail: img/federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit.jpg
 tags:
-  - BCSO
-  - Hoss Mack
-  - OJ French
-  - Brandon Thompson
-  - Mayor Wills
-  - Bay Minette
-categories: 
-  - bcso
-authors: 
-  - admin
+- BCSO
+- Hoss Mack
+- OJ French
+- Brandon Thompson
+- Mayor Wills
+- Bay Minette
+categories:
+- bcso
+authors:
+- admin
+alttags: "Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ..."
 ---
-
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***
 
 

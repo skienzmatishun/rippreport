@@ -1,17 +1,17 @@
 ---
-title: "CATALYST JUDGES"
+title: CATALYST JUDGES
 date: 2018-05-29
-thumbnail: "img/catalyst-judges.jpg"
-categories: 
-  - familycourt
-tags: 
-  - catalyst
-  - judge-scully
-  - thomason
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-judges.jpg
+categories:
+- familycourt
+tags:
+- catalyst
+- judge-scully
+- thomason
+authors:
+- ripp-report
+alttags: "Satirical depiction of Alabama judicial appointments: a woman in robes balances scales against a figure labeled “Scully,” ..."
 ---
-
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment. When a judgeship is vacated, typically before the term ends, challengers also submit themselves to the closed committees and the approval of presiding judges and the glorious appointment is made. There is then a silent rule among the attorneys and judges. Sitting Judges, even the appointed ones, shall NOT be challenged in elections.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/uncontested-judicial-elections-an-anomaly-among-large-counties/article_6a6dfa90-ebf3-5a9e-9830-f77dfa1b36b3.html" >}}

@@ -1,17 +1,17 @@
 ---
-title: "THIS IS A TEST"
+title: THIS IS A TEST
 date: 2021-10-22
-thumbnail: "img/this-is-a-test.jpg"
+thumbnail: img/this-is-a-test.jpg
 tags:
-  - Ethics Commission
-  - Mabel Amos Trust
-  - Albritton
-categories: 
-  - ethics
-authors: 
-  - admin
+- Ethics Commission
+- Mabel Amos Trust
+- Albritton
+categories:
+- ethics
+authors:
+- admin
+alttags: "Abstract mask resembling a face, overlaid with black and yellow target markings, symbolizing legal scrutiny and ongoing mo..."
 ---
-
 The Ripp Report is a consumer organization first, we also maintain a blog site, Face Book sites and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 
 On Monday the 25th of November, Judge Johnny Hardwick, Circuit Judge, Montgomery County, will hear a STATUS REVIEW on all pending motions, relative to the Writ of Mandamus, I, Francis Paul Ripp, filed October 18th.

@@ -1,13 +1,13 @@
 ---
-title: "CATALYST HELD BACK"
+title: CATALYST HELD BACK
 date: 2018-06-06
-thumbnail: "img/catalyst-held-back.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-held-back.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Red circle with a slash through the word Catalyst, symbolizing the group’s limited success in Baldwin County elections"
 ---
-
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 
 {{< socialpreview url="https://web.archive.org/web/20180815012555/http://www.fox10tv.com/category/298869/election-results" >}}

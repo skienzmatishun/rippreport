@@ -1,23 +1,23 @@
 ---
-title: "A SLAP ON THE WRIST"
+title: A SLAP ON THE WRIST
 date: 2021-03-26
-thumbnail: "img/a-slap-on-the-wrist.png"
-categories: 
-  - freaky-friday
-tags: 
-  - city-attorney
-  - diniardi
-  - fairhope-police
-  - mcsharrys
-  - municipal-judge
-  - ronan
-  - ronan-mcsharry
-  - sbc
-  - stankoski
-authors: 
-  - admin
+thumbnail: img/a-slap-on-the-wrist.png
+categories:
+- freaky-friday
+tags:
+- city-attorney
+- diniardi
+- fairhope-police
+- mcsharrys
+- municipal-judge
+- ronan
+- ronan-mcsharry
+- sbc
+- stankoski
+authors:
+- admin
+alttags: "A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption..."
 ---
-
 <iframe src="https://giphy.com/embed/J7KNNBaqIJTt5EzfDo" width="480" height="350" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
 
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys. We can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.

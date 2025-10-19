@@ -1,13 +1,13 @@
 ---
-title: "PISSED ON OR PISSED OFF"
+title: PISSED ON OR PISSED OFF
 date: 2020-04-10
-thumbnail: "img/pissed-on-or-pissed-off.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/pissed-on-or-pissed-off.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal featuring a pelican, sun, water drops, and a reference to alleged corruption within its council"
 ---
-
 The current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope. Yet people get riled up over a curfew meant to mitigate a virus that we know little about.
 
 A curfew, 10pm to 5am, adopted across the state, including Mobile.

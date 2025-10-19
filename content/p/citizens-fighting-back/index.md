@@ -1,13 +1,13 @@
 ---
-title: "CITIZENS FIGHTING BACK"
+title: CITIZENS FIGHTING BACK
 date: 2018-09-19
-thumbnail: "img/citizens-fighting-back.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/citizens-fighting-back.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Citizens raising fists in solidarity against local government overreach in Baldwin County"
 ---
-
 Baldwin County is changing, for the better, when it comes to public participation and citizens standing up to local municipal governments who have traditionally run roughshod over it’s own citizens. In the past small municipalities in Baldwin County did “their own thing”, when it came down to running city government. Mayors and Councils, sometime just the Mayor or just the council, would bully issues and controversial projects, through the process of approval, crying all the time to the citizens, that their was nothing they could do.
 
 GROWTH is their karma. In the last 10 years Baldwin County has grown in some area’s by 50%. This represents the “carpetbaggers” and those “not from here”, so says the same power brokers stepping on your Constitutional rights of freedom of speech.

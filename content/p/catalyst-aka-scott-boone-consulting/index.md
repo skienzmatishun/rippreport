@@ -1,17 +1,17 @@
 ---
-title: "CATALYST AKA SCOTT BOONE CONSULTING"
+title: CATALYST AKA SCOTT BOONE CONSULTING
 date: 2020-08-05
-thumbnail: "img/catalyst-aka-scott-boone-consulting.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - catalyst
-  - csb
-  - scott-boone
-authors: 
-  - admin
+thumbnail: img/catalyst-aka-scott-boone-consulting.jpg
+categories:
+- wonderful-wednesday
+tags:
+- catalyst
+- csb
+- scott-boone
+authors:
+- admin
+alttags: "CATALYST logo obscured by sunglasses and a red circle, representing controversial Baldwin County political group now calle..."
 ---
-
 Some people new to Baldwin County politics want to know what the hell is CATALYST. CATALYST was the name of the good ole boys until it became so toxic, that they recently changed their name to Scott Boone Consulting. This is the same individual that was running CATALYST, they are just hiding under another name, the smell is the same.
 
 CATALYST/Scott Boone Consulting is financed by developers, land owners and any other group profiting by the unbridled development. They are against regulations, impact fees, infrastructure needs, and spend little on our schools.

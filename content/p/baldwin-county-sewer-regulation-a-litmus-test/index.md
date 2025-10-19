@@ -1,13 +1,13 @@
 ---
-title: "BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST"
+title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
 date: 2019-09-11
-thumbnail: "img/baldwin-county-sewer-regulation-a-litmus-test.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/baldwin-county-sewer-regulation-a-litmus-test.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale graphic, illustrating Baldwin County’s emerging se..."
 ---
-
 Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGET
 
 The biggest consumer issue in Baldwin County, the $6.00 toll, was defeated by a poll. The poll numbers rose until they reached a figure that terrified every elected official in Baldwin County. When the petition reached the 50,000 mark, elected officials hit their knees.

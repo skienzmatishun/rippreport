@@ -1,16 +1,16 @@
 ---
-title: "BIG HEAD GULLY AND THE FRUIT NUTS"
+title: BIG HEAD GULLY AND THE FRUIT NUTS
 date: 2018-02-06
-thumbnail: "img/big-head-gully-and-the-fruit-nuts.jpg"
-categories: 
-  - terrific-tuesday
-tags: 
-  - big-head-gully
-  - turner
-authors: 
-  - ripp-report
+thumbnail: img/big-head-gully-and-the-fruit-nuts.jpg
+categories:
+- terrific-tuesday
+tags:
+- big-head-gully
+- turner
+authors:
+- ripp-report
+alttags: "Historic photo shows a stream flowing through Big Head Gulley in Fairhope, Alabama; threatened by land development"
 ---
-
 FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION
 
 

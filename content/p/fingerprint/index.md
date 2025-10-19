@@ -1,13 +1,13 @@
 ---
-title: "FINGERPRINT"
+title: FINGERPRINT
 date: 2019-08-29
-thumbnail: "img/fingerprint.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/fingerprint.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Politicians united against Poison Ivy: a hand gesture with a green marking on the index finger, symbolizing opposition"
 ---
-
 After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy.
 
 It was a sight to behold every politician in Baldwin County showed up for the cameras and microphone. This is the first time in 20 years that such a unanimous position was shared by almost 100% of the Baldwin County elected officials. Where were they when Goat Hill stole the BP money?

@@ -1,22 +1,22 @@
 ---
-title: "AMERICAN CITIZEN"
+title: AMERICAN CITIZEN
 date: 2020-04-22
-thumbnail: "img/american-citizen.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - city-attorney
-  - city-council
-  - dinardi
-  - mcsharry
-  - mcsharrys
-  - municipal-judge
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/american-citizen.png
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- city-attorney
+- city-council
+- dinardi
+- mcsharry
+- mcsharrys
+- municipal-judge
+- ronan-mcsharry
+authors:
+- admin
+alttags: "American flag symbolizing justice system failings in Baldwin County’s McSharry assault case investigation"
 ---
-
 A good example of Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure, is all exposed in one incident, the McSharry assault case.
 
 {{< socialpreview url="https://rippreport.com/p/judicial-trick/" >}}

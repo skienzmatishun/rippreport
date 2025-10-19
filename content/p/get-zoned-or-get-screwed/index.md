@@ -1,13 +1,13 @@
 ---
-title: "GET ZONED or GET SCREWED"
+title: GET ZONED or GET SCREWED
 date: 2021-11-19
-thumbnail: "img/get-zoned-or-get-screwed.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/get-zoned-or-get-screwed.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Seal of Faux Hope, Alabama: a circular design featuring mountains, water, a screw, and text highlighting concerns about un..."
 ---
-
 Think you do not need zoning then read this article. Un-zoned properties are just what these developers are looking for and they do not give a damn how THEIR development affects your quality of life.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2F263282362500381&amp;show_text=true&amp;width=500" width="500" height="807" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

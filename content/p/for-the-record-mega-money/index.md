@@ -1,13 +1,13 @@
 ---
-title: "FOR THE RECORD — MEGA-MONEY"
+title: FOR THE RECORD — MEGA-MONEY
 date: 2019-08-02
-thumbnail: "img/for-the-record-mega-money.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/for-the-record-mega-money.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "South Alabama Mega Site advertisement placed on US currency, questioning its “shovel ready” status and value"
 ---
-
 The Ripp Report has been covering the Baldwin County Mega-Site since it was purchased.
 
 {{< socialpreview url="https://rippreport.com/p/mega-mistake/" >}}

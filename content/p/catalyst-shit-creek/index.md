@@ -1,22 +1,22 @@
 ---
-title: "CATALYST SHIT CREEK"
+title: CATALYST SHIT CREEK
 date: 2020-05-22
-thumbnail: "img/catalyst-shit-creek.jpg"
-categories: 
-  - elections
-tags: 
-  - bp
-  - catalyst
-  - city-council
-  - fly-creek
-  - mcsharry
-  - mcsharrys
-  - publix
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/catalyst-shit-creek.jpg
+categories:
+- elections
+tags:
+- bp
+- catalyst
+- city-council
+- fly-creek
+- mcsharry
+- mcsharrys
+- publix
+- ronan-mcsharry
+authors:
+- admin
+alttags: "Brown water in a creek, likely polluted, reflecting concerns about environmental violations mentioned in the article"
 ---
-
 The Ripp Report has written about CATALYST for years. We have filed numerous complaints with the Attorney General involving political corruption and have received no reply. It seems that political corruption is not as important as the sewer violations.
 
 It is also interesting that all the complaints about Fly Creek and Publix were ignored by ADEM, Alabama Department of Environmental Management, aka Alabama Department of Environmental Maniacs, years ago.

@@ -1,18 +1,18 @@
 ---
-title: "JACK GETS AN F - AGAIN"
+title: JACK GETS AN F - AGAIN
 date: 2019-02-15
-thumbnail: "img/jack-gets-an-f-again.jpg"
-gif: "img/jack-gets-an-f.gif"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - city-council
-  - k-1-center
-authors: 
-  - ripp-report
+thumbnail: img/jack-gets-an-f-again.jpg
+gif: img/jack-gets-an-f.gif
+categories:
+- citycouncil
+tags:
+- burrell
+- city-council
+- k-1-center
+authors:
+- ripp-report
+alttags: "Fairhope Council President Burrell depicted wearing a dunce cap, referencing criticism over K-1 Center deal decisions"
 ---
-
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options or the best use for the K-1 Center. It was his plan or no plan.
 
 The council ignored any issues like lead or asbestos. They did not consider the renovation cost verses new construction. They gave no consideration to a proposal of a boutique hotel, over 100 additional parking spaces for downtown, and saving the facade of the school, and much more.

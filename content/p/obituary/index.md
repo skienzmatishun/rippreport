@@ -1,13 +1,13 @@
 ---
-title: "OBITUARY"
+title: OBITUARY
 date: 2021-07-20
-thumbnail: "img/obituary.jpg"
-categories: 
-  - obituary
-authors: 
-  - admin
+thumbnail: img/obituary.jpg
+categories:
+- obituary
+authors:
+- admin
+alttags: "Fran Neumann, a Daphne artist known for her sculpture & advertising work, wearing glasses and a white jacket"
 ---
-
 Frances (Fran) J. Neumann of Daphne, Alabama, passed away unexpectedly on Monday, June 28, 2021 from natural causes. She was ninety-three going on a hundred, her oft-expressed goal. [![](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)
 
 Fran was a prominent artist in Daphne whose work literally spanned the nation by virtue of her vast contributions to commercial advertising. She created the “Daphne” sculpture and fountain in front of Daphne City Hall, the Marietta Johnson sculpture in Utopia Park, Fairhope, and the Marie Howland sculpture now in Fairhope Library to mention a few of her public works of art.

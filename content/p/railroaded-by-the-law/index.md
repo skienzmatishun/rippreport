@@ -1,14 +1,13 @@
 ---
-title: "RAILROADED BY THE LAW"
-date: 2023-10-04T00:10:00Z
-thumbnail: "img/railroaded-by-the-law.jpg"
-categories: 
-  - dwtd
-authors: 
-  - admin
+title: RAILROADED BY THE LAW
+date: 2023-10-04 00:10:00+00:00
+thumbnail: img/railroaded-by-the-law.jpg
+categories:
+- dwtd
+authors:
+- admin
+alttags: "Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations"
 ---
-
-
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.
 
 

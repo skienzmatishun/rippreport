@@ -1,20 +1,20 @@
 ---
-title: "BATTLE OF WEEKS “FAMILY”"
+title: BATTLE OF WEEKS “FAMILY”
 date: 2020-12-07
-thumbnail: "img/battle-of-weeks-family.jpg"
-categories: 
-  - monday-madness
-tags: 
-  - bay-minette
-  - county-commissioner
-  - grant-weeks
-  - weeks
-  - weeks-bay
-  - zoning-commission
-authors: 
-  - admin
+thumbnail: img/battle-of-weeks-family.jpg
+categories:
+- monday-madness
+tags:
+- bay-minette
+- county-commissioner
+- grant-weeks
+- weeks
+- weeks-bay
+- zoning-commission
+authors:
+- admin
+alttags: "Vintage newspaper clipping featuring Blanche Weeks and a headline proclaiming her gumbo is now famous; related to politica..."
 ---
-
 All of us have read news articles that have driven us up the wall, but this article and story is insane and most likely a perfect example of someone with power who wants his own way. What the Ripp Report calls political corruption.
 
 That someone, is stepping on the feet of county commissioners and the Zoning department. The County Commissioners are now going to have to take a stand in a situation that should never have reached the controversy it has.

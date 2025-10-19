@@ -1,22 +1,22 @@
 ---
-title: "SLAP IN THE FACE"
+title: SLAP IN THE FACE
 date: 2020-10-17
-thumbnail: "/img/slap-in-the-face.png"
-categories: 
-  - freaky-friday
-tags: 
-  - chris-elliot
-  - elliott
-  - fema-fraud
-  - marcus-mcdowell
-  - mcmillian
-  - mike-mcmillian
-  - pittman
-  - tripp-pittman
-authors: 
-  - admin
+thumbnail: /img/slap-in-the-face.png
+categories:
+- freaky-friday
+tags:
+- chris-elliot
+- elliott
+- fema-fraud
+- marcus-mcdowell
+- mcmillian
+- mike-mcmillian
+- pittman
+- tripp-pittman
+authors:
+- admin
+alttags: "Hand raised in a slapping gesture against a stark background, symbolizing corruption and injustice in the judicial system"
 ---
-
 Baldwin County citizens have just been slapped in the face. Want to know why Alabama is number one in corruption and the butt of jokes? It is because the judicial system stinks and people with power or money, WALK.
 
 “Slappin Mike” McMillian the newly elected Mayor of Spanish Fort, WALKED, NOT GUILTY. Forget the video, it was a figment of our imagination. Slappin Mike joins the Sean Connery Club. The Attorneys and Judge just slapped us in the face.

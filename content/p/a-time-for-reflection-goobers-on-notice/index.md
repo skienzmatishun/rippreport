@@ -1,15 +1,15 @@
 ---
-title: "A Time for Reflection - Goobers on Notice"
+title: A Time for Reflection - Goobers on Notice
 date: 2016-12-09
-thumbnail: "img/a-time-for-reflection-goobers-on-notice.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/a-time-for-reflection-goobers-on-notice.jpg
+categories:
+- freaky-friday
+tags:
+- wilson
+authors:
+- ripp-report
+alttags: "Sunset reflected in a car side mirror, symbolizing reflection on the past year and looking forward to new beginnings"
 ---
-
 Facebook is sending users a personalized “2016 Year in Review” on their news feeds. It has certainly been a year worth reflecting on. Much has happened in American politics this year. However, like former U.S. Speaker of the House Tip O’Neill said, “All politics are local.” In Baldwin County, nothing could be further from the truth.
 
 And that is always our focus here at BCLE/The Ripp Report. Understand that we are as determined as ever moving into the new year, and that 2017 holds many surprises for you, our reading, voting citizens. Hang on folks. The Good Ole Boys—or “Goobers” like so many in town now call them—are going to be fully exposed. It is truly a new day.

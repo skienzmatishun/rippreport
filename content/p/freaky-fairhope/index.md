@@ -1,18 +1,18 @@
 ---
-title: "FREAKY FAIRHOPE"
+title: FREAKY FAIRHOPE
 date: 2020-07-10
-thumbnail: "img/freaky-fairhope.png"
-categories: 
-  - freaky-friday
-tags: 
-  - bp
-  - fairhope-pier
-  - fairhope-waterfront
-  - raines
-authors: 
-  - admin
+thumbnail: img/freaky-fairhope.png
+categories:
+- freaky-friday
+tags:
+- bp
+- fairhope-pier
+- fairhope-waterfront
+- raines
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal depicting a pelican over Mobile Bay; referenced in discussion of local politics and community ..."
 ---
-
 After living in Fairhope for 25 years and spending 16 years of close observation of local politics, nothing surprises me. The corruption and white collar crime in Baldwin County is far worse than most people can comprehend. The political status quo resembles a criminal enterprise.
 
 Just for the record I personally think Fairhope is a fantastic community. The location is perfect and Fairhope has transportation hubs abound. Birmingham Atlanta and New Orleans can be reached with a 4 or 5 hour car ride. Of course the aesthetics, flowers and landscaping, compliment the community.

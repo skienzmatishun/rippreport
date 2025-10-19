@@ -1,21 +1,21 @@
 ---
-title: "COMMUNICATION"
+title: COMMUNICATION
 date: 2019-02-07
-thumbnail: "img/communication.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - city-attorney
-  - kant
-  - mcdowell
-  - mcsharry
-  - mcsharrys
-  - ronan
-authors: 
-  - ripp-report
+thumbnail: img/communication.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- city-attorney
+- kant
+- mcdowell
+- mcsharry
+- mcsharrys
+- ronan
+authors:
+- ripp-report
+alttags: "Communication breakdown: Three figures surrounded by speech bubbles illustrate issues between Fairhope’s Mayor and City Co..."
 ---
-
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City Attorney.
 
 The Jan. 28th meeting of the Fairhope City Council is a prime example of the lack of communication the Mayor is talking about. The City Attorney and the Council President, Captain Jack, took it upon themselves to make decisions about the Golf Course equipment, without advising the Mayor of any details or problems.

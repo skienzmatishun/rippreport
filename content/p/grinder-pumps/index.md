@@ -1,17 +1,17 @@
 ---
-title: "GRINDER PUMPS"
+title: GRINDER PUMPS
 date: 2018-02-02
-thumbnail: "img/grinder-pumps.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - sewer
-  - turner
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/grinder-pumps.png
+categories:
+- wonderful-wednesday
+tags:
+- sewer
+- turner
+- wilson
+authors:
+- ripp-report
+alttags: "Grinder pump installed in a yard; often used by developers despite potential replacement costs and power needs for homeowners"
 ---
-
 Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily.
 
 Developers love them because it saves them money in construction and the poor consumer, most often, does not even know what a grinder pump is.

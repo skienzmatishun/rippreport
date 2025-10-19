@@ -1,17 +1,17 @@
 ---
-title: "PO PO Hoss Mack CCUO"
+title: PO PO Hoss Mack CCUO
 date: 2024-06-15
-thumbnail: "img/po-po-hoss-mack-ccuo.jpg"
+thumbnail: img/po-po-hoss-mack-ccuo.jpg
 tags:
-  - Hoss Mack
-  - BCSO
-  - Anthony Lowery
-categories: 
-  - bcso
-authors: 
-  - admin
+- Hoss Mack
+- BCSO
+- Anthony Lowery
+categories:
+- bcso
+authors:
+- admin
+alttags: "Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office"
 ---
-
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.
 
 

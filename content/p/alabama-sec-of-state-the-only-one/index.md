@@ -1,17 +1,17 @@
 ---
-title: "ALABAMA SEC. OF STATE: \"THE ONLY ONE\""
+title: "ALABAMA SEC. OF STATE: THE ONLY ONE"
 date: 2018-04-11
-thumbnail: "img/alabama-sec-of-state-the-only-one.jpg"
-categories: 
-  - alabama
-tags: 
-  - john-merrill
-  - kant
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/alabama-sec-of-state-the-only-one.jpg
+categories:
+- alabama
+tags:
+- john-merrill
+- kant
+- wilson
+authors:
+- ripp-report
+alttags: "Baldwin County official; one of few who acted on election tampering complaints, amid ongoing judiciary inaction"
 ---
-
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!
 
 Complaints have been filed in Baldwin County with the Alabama Judiciary about certain Judges, Michelle Thomason and Buddy Bracken, in particular. The Judiciary did nothing and the complaints continue.

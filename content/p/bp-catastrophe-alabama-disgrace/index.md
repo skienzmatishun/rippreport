@@ -1,18 +1,18 @@
 ---
-title: "BP CATASTROPHE/ ALABAMA DISGRACE"
+title: BP CATASTROPHE/ ALABAMA DISGRACE
 date: 2016-10-21
-thumbnail: "img/bp-catastrophe-alabama-disgrace.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - bentley
-  - daphne
-  - kant
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/bp-catastrophe-alabama-disgrace.jpg
+categories:
+- freaky-friday
+tags:
+- bentley
+- daphne
+- kant
+- pittman
+authors:
+- ripp-report
+alttags: "BP oil spill funds misused: A hand holds a bag marked with dollar signs, illustrating Alabama’s controversial spending cho..."
 ---
-
 The BP oil spill was an accident that claimed eleven lives and adversely affected millions. BP has had to pay BILLIONS of dollars in damages spread among four states Alabama Louisiana, Texas and Florida. Three of the states used their funds to correct environmental damage done by the spill and to invest in future projects related to environmental issues. Alabama choose to rob and plunder their money on pet projects of Mayors Councils and even the Governor.
 
 Alabama has wasted the chance to protect the very environment that provides us so much in tourist dollars.

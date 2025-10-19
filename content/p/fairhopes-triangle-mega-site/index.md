@@ -1,18 +1,18 @@
 ---
-title: "FAIRHOPE’S “TRIANGLE” MEGA-SITE"
+title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
 date: 2018-03-30
-thumbnail: "img/fairhopes-triangle-mega-site.png"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-  - kant
-  - triangle
-authors: 
-  - ripp-report
+thumbnail: img/fairhopes-triangle-mega-site.png
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+- kant
+- triangle
+authors:
+- ripp-report
+alttags: "Arrow pointing towards a triangle shape, symbolizing controversy surrounding Fairhope’s Triangle Mega-Site development"
 ---
-
 Baldwin County Commissioners have their Mega “dump” Site.
 
 {{< socialpreview url="https://rippreport.com/p/dead-last/" >}}

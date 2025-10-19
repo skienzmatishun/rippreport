@@ -1,19 +1,18 @@
 ---
-title: "SHUFFLING THE DECK"
+title: SHUFFLING THE DECK
 date: 2024-07-08
-thumbnail: "img/shuffling-the-deck.jpg"
+thumbnail: img/shuffling-the-deck.jpg
 tags:
-  - BCSO
-  - Hoss Mack
-  - Anthony Lowery
-  - Murray Lawrence Jr
-categories: 
-  - bcso
-authors: 
-  - admin
+- BCSO
+- Hoss Mack
+- Anthony Lowery
+- Murray Lawrence Jr
+categories:
+- bcso
+authors:
+- admin
+alttags: "Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership"
 ---
-
-
 Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Federal investigation, the internal investigation, wrongful conviction, federal Lawsuit of Johnathan Victor and a myriad of internal problems within BCSO involving morals, accountability, transparency and of course the GOB, Good ole Boy culture that permeates the entire department.
 
 <img style="min-height:390px;" src="https://rippreport.com/img/bcso-letter.png" />

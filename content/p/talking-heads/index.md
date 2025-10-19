@@ -1,13 +1,13 @@
 ---
-title: "TALKING HEADS"
+title: TALKING HEADS
 date: 2022-05-18
-thumbnail: "img/talking-heads.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/talking-heads.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission"
 ---
-
 Baldwin County needs more representation on the county commission. People will say “just more talking heads.” The population of the county is topping 250,000 and the county only has 4 commissioners. The Commission should be an odd number so as to never tie or have a possible deadlock in voting on issues.
 
 Currently only four commissioners represent the entire county. With only four people voting a chance of a deadlock, split vote, is high. A split vote usually results in each commissioner getting in their trenches and nothing being accomplished.

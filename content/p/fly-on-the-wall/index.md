@@ -1,21 +1,21 @@
 ---
-title: "FLY ON THE WALL"
+title: FLY ON THE WALL
 date: 2020-07-25
-thumbnail: "img/fly-on-the-wall.png"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - city-council
-  - election
-  - jack-burrell
-  - kant
-  - sullivan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/fly-on-the-wall.png
+categories:
+- citycouncil
+tags:
+- burrell
+- city-council
+- election
+- jack-burrell
+- kant
+- sullivan
+- wilson
+authors:
+- admin
+alttags: "Illustration of a fly, symbolizing corruption and harmful relationships within city government"
 ---
-
 Comment:
 
 I hope that everyone understands what is really at stake here!

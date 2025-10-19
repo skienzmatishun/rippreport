@@ -1,16 +1,16 @@
 ---
-title: "NAIL IN THE COFFIN"
+title: NAIL IN THE COFFIN
 date: 2019-10-30
-thumbnail: "img/nail-in-the-coffin.png"
+thumbnail: img/nail-in-the-coffin.png
 tags:
-  - City Council
-  - Budget
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- City Council
+- Budget
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Hammer driving a nail into a coffin, symbolizing Fairhope City Council’s controversial land purchase decisions"
 ---
-
 The Fairhope City council just put the final nail in their re-election coffin.
 
 Without any public participation at council meetings or any community engagement, the Fairhope City council bullied the community into a 2.65 million dollar land purchase for recreation. This property will remain vacant for years and required the council to raid city accounts in order to purchase the property.

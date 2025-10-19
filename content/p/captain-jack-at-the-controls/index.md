@@ -1,19 +1,19 @@
 ---
-title: "CAPTAIN JACK AT THE CONTROLS"
+title: CAPTAIN JACK AT THE CONTROLS
 date: 2019-03-15
-thumbnail: "img/captain-jack-at-the-controls.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - airport
-  - airport-authority
-  - burrell
-  - faa
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/captain-jack-at-the-controls.jpg
+categories:
+- freaky-friday
+tags:
+- airport
+- airport-authority
+- burrell
+- faa
+- kant
+authors:
+- ripp-report
+alttags: "Aircraft cockpit view shows runway and fountain; Fairhope Airport expansion raises questions about future development plans"
 ---
-
 The Fairhope Airport Authority, under control of Fairhope Council President Jack Burrell, continues to raise eyebrows,”What the hell is really going on at the Airport.” Millions of development dollars from federal agencies have expanded the airport with additional runways. Hangers are being offered on long term leases and no specific long range plan has been presented to the public.
 
 You just may look up one day and see Southwest flying in, think about it!

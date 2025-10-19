@@ -1,21 +1,21 @@
 ---
-title: "BOYCOTT McSHARRY’S"
+title: BOYCOTT McSHARRY’S
 date: 2021-03-20
-thumbnail: "img/boycott-mcsharrys.png"
-categories: 
-  - saturday-special
-tags: 
-  - burell
-  - city-attorney
-  - jack-burrell
-  - marcus-mcdowel
-  - mcsharry
-  - mcsharrys
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/boycott-mcsharrys.png
+categories:
+- saturday-special
+tags:
+- burell
+- city-attorney
+- jack-burrell
+- marcus-mcdowel
+- mcsharry
+- mcsharrys
+- ronan-mcsharry
+authors:
+- admin
+alttags: "Cartoon leprechaun raising a mug, possibly symbolizing unproductive or corrupt Fairhope council members discussed in the R..."
 ---
-
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.
 
 This is nothing new. In fact it is quite common. Only this time it was publicly documented. Four of the council sat on the last council. They were the least productive, obstructive and corrupt of any council that has ever represented Fairhope.

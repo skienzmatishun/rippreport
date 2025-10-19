@@ -1,13 +1,13 @@
 ---
-title: "RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM"
+title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
 date: 2019-08-30
-thumbnail: "img/rsa-no-gas-for-point-clear-or-tourism.png"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/rsa-no-gas-for-point-clear-or-tourism.png
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management"
 ---
-
 Several weeks ago Lagniappe published the story below:
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/point-clear-residents-fight-rsa-condo-proposal/article_05648c0a-523c-5ee1-925f-1f00f3d08c4c.html" >}}

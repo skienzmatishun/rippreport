@@ -1,20 +1,20 @@
 ---
-title: "SWITCHING HATS"
+title: SWITCHING HATS
 date: 2017-09-29
-thumbnail: "img/switching-hats.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fly-creek
-  - planning-and-zoning
-  - sewer
-  - soccer-complex
-  - turner
-authors: 
-  - ripp-report
+thumbnail: img/switching-hats.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fly-creek
+- planning-and-zoning
+- sewer
+- soccer-complex
+- turner
+authors:
+- ripp-report
+alttags: "Pile of hats symbolizing lack of leadership rotation within Fairhope’s City Council"
 ---
-
 Two area’s lacking in leadership in Fairhope are the City Council and Planning and Zoning. The City Council President for the last 5 years has been Jack Burrell. All the previous councils rotated the position of City Council President every 6 months or after a short term in order to give other council members a chance of leadership. In fact, and it is a fact, this council has accomplished absolutely nothing, except to obstruct the Mayor at every opportunity. Mr. Burrell has not shown any leadership skills, he claimed that the council was the mediator for issues involving the city. The council has not mediated any issues with the Mayor and continues it’s game of obstruction at taxpayers expense.
 
 Mr Burrell is responsible for the obstruction of the Mayor and he is responsible for the Airport debacle. He is responsible for leaking information that may assist disgruntled employees in their attempt to sue the city. His “leadership” has been to influence other council members to carry his water. Mr. Burrell has been involved in some of the worst decisions the city of Fairhope has made, triangle lawsuit, soccer fields, sewer plant, the gift of wetlands from Corte, and let’s not forget the Airport. Yet Mr. Burrell huffs and puffs and the council follows him down the rat hole. They sit in silence while he denies citizens the right to free speech or he publicly bullies the Mayor.

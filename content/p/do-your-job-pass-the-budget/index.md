@@ -1,17 +1,17 @@
 ---
-title: "DO YOUR JOB, PASS THE BUDGET"
+title: DO YOUR JOB, PASS THE BUDGET
 date: 2017-12-18
-thumbnail: "img/do-your-job-pass-the-budget.png"
-categories: 
-  - monday-madness
-tags: 
-  - budget
-  - burrell
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/do-your-job-pass-the-budget.png
+categories:
+- monday-madness
+tags:
+- budget
+- burrell
+- wilson
+authors:
+- ripp-report
+alttags: "Exclamation point graphic representing a recent unexpected shoulder surgery and recovery challenges"
 ---
-
 Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam, on Friday. The first three days of recovery are no fun and the drug fog does not allow you to think. I hope to recover fast enough that I may be able to give a special Christmas present to a well deserving recipient.
 
 The City Council in Fairhope has accomplished very little in their first year, other than obstruct the Mayor. The latest obstruction has been going on for three months, the city budget. It clearly is the responsibility of the council to approve the budget. For three months the Mayor has extended an olive branch to the council in an effort to get an approved budget. The council members have been absent for meetings and spent very little effort to approve a budget. The council has offered lame excuses or asked mundane questions that have done little to resolving the issue.

@@ -1,15 +1,15 @@
 ---
-title: "BLACK HOLE"
+title: BLACK HOLE
 date: 2017-11-08
-thumbnail: "img/black-hole.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - moore
-authors: 
-  - ripp-report
+thumbnail: img/black-hole.jpg
+categories:
+- wonderful-wednesday
+tags:
+- moore
+authors:
+- ripp-report
+alttags: "Artistic rendering of a black hole surrounded by swirling matter, symbolizing divisive forces in Alabama politics"
 ---
-
 Alabamians have got to stop looking right and left, voting a straight party ticket, and putting party before country and that means Republican and Democrat. What is good for your state and community should come before party. Why vote for someone who will divide us? Why vote for someone so different in beliefs and convictions that there is not one Senator or Congressman remotely close to his thinking?
 
 {{< socialpreview url="https://www.alreporter.com/2017/11/08/roy-moore-run/" >}}

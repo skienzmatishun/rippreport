@@ -1,16 +1,16 @@
 ---
-title: "NO GUARDRAILS"
+title: NO GUARDRAILS
 date: 2018-11-23
-thumbnail: "img/no-guardrails.jpg"
+thumbnail: img/no-guardrails.jpg
 tags:
-  - Alabama AG
-  - Ethics Commission
-categories: 
-  - ethics
-authors: 
-  - ripp-report
+- Alabama AG
+- Ethics Commission
+categories:
+- ethics
+authors:
+- ripp-report
+alttags: "Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t..."
 ---
-
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption. Many citizens resist any new taxes for education or infrastructure, claiming to be fiscally conservative or being fiscally responsible, all the while being robbed by elected officials.
 
 Why is Alabama so corrupt? What are the guardrails that Alabama has in place to keep political corruption in check?

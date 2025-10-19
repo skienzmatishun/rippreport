@@ -1,18 +1,18 @@
 ---
-title: "CATALYST - ALABAMA VALUES"
+title: CATALYST - ALABAMA VALUES
 date: 2018-05-18
-thumbnail: "img/catalyst-alabama-values.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - catalyst
-  - chris-elliott
-  - pittman
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-alabama-values.jpg
+categories:
+- freaky-friday
+tags:
+- catalyst
+- chris-elliott
+- pittman
+- tucker-dorsey
+authors:
+- ripp-report
+alttags: "Chris Elliott in striped prison uniform behind bars, related to his connection to former Governor Bentley and Senate race"
 ---
-
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values.
 
 {{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2014/07/chris_elliott_appointed_to_bal.html" >}}

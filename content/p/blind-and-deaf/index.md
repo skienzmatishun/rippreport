@@ -1,16 +1,16 @@
 ---
-title: "BLIND AND DEAF"
+title: BLIND AND DEAF
 date: 2018-01-10
-thumbnail: "img/blind-and-deaf.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - chucky
-authors: 
-  - ripp-report
+thumbnail: img/blind-and-deaf.png
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- chucky
+authors:
+- ripp-report
+alttags: "Two figures cover their eyes and ears, symbolizing a refusal to listen regarding freedom of the press and public meetings"
 ---
-
 You would think an editor of a newspaper would look at the video and be able to understand the subject at hand, Not Chuckee! Makes ya wonder what he knows about freedom of the press!
 
 {{< socialpreview url="https://youtu.be/kDUoTFc1gOs?t=3602" >}}

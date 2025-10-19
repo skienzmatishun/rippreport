@@ -1,20 +1,20 @@
 ---
-title: "GOT FLEAS"
+title: GOT FLEAS
 date: 2021-04-01
-thumbnail: "img/got-fleas.png"
-categories: 
-  - thursday-thunder
-tags: 
-  - fairhope-pier
-  - fairhope-waterfront
-  - mayor-sullivan
-  - raines
-  - restore-act
-  - wilson
-authors: 
-  - admin
+thumbnail: img/got-fleas.png
+categories:
+- thursday-thunder
+tags:
+- fairhope-pier
+- fairhope-waterfront
+- mayor-sullivan
+- raines
+- restore-act
+- wilson
+authors:
+- admin
+alttags: "Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions"
 ---
-
 Fairhope is seeing the results of a Council and Mayor more dedicated to special interests than the majority of their constitutes.
 
 It is an absolute shame the Fairhope Waterfront Project became such a divisive tool, used by elected officials, to distort the project and lie to the public. The vast majority of Fairhope citizens have no idea what the original plan was and the opportunity they have lost.

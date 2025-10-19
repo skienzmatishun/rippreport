@@ -1,13 +1,13 @@
 ---
-title: "LOOK IN THE MIRROR"
+title: LOOK IN THE MIRROR
 date: 2017-08-18
-thumbnail: "img/look-in-the-mirror.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/look-in-the-mirror.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Illustration of an ornate hand mirror, symbolizing scrutiny of Alabama senate primary candidates and questionable politica..."
 ---
-
 Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote.
 
 {{< socialpreview url="https://web.archive.org/web/20180130190321/www.washingtonpost.com/special-election-results/alabama/" >}}

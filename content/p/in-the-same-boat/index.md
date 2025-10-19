@@ -1,13 +1,13 @@
 ---
-title: "IN THE SAME BOAT"
+title: IN THE SAME BOAT
 date: 2019-08-14
-thumbnail: "img/in-the-same-boat.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/in-the-same-boat.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and..."
 ---
-
 Long before Fairhope Mayor Wilson even thought about running for office, Fairhope had major infrastructure and sewer problems. Baykeeper was contacted time and time again through the years about various issues. I know because I called. Now the Director of Baykeeper is claiming that all you got to do, if you have an environmental problem, is to contact Baykeeper.
 
 Baykeeper never did a damn thing about the Publix project, flooding of Fly Creek by the developer, or filling of the creek with development site mud and sand. Then came the Fly Creek Apartments to be built along Fly Creek. Hundreds opposed the project and Baykeeper did NOT answer the phone.

@@ -1,19 +1,19 @@
 ---
-title: "PRETTY FLOWERS ROTTEN ROOTS"
+title: PRETTY FLOWERS ROTTEN ROOTS
 date: 2025-07-18
-thumbnail: "img/pretty-flowers-rotten-roots.png"
+thumbnail: img/pretty-flowers-rotten-roots.png
 tags:
-  - Municipal Elections
-  - Jack Burrell
-  - Sherry Sullivan
-  - Mayor
-categories: 
-  - ivy
-  - elections
-authors: 
-  - admin
+- Municipal Elections
+- Jack Burrell
+- Sherry Sullivan
+- Mayor
+categories:
+- ivy
+- elections
+authors:
+- admin
+alttags: "New candidates taking root in Fauxhope elections, casting a ballot into a marked voting box"
 ---
-
 Fauxhope municipal elections have started off with a bang. Five candidates have qualified for city council positions, and support one another in a solid slate. A very smart move. Who would want to be a minority councilman facing a well entrenched cabal of good ole boys, developers, politicians, lawyers, judges and let’s not leave out the District Attorney’s Office.
 
 The new contenders, running as a solid slate of 5, have caused panic among the current council, who are supported by the developers and special interests, aka Catalyst. In the past 4 election cycles the council has members ran independent of one another, or so they professed. This election is different. The incumbents are united and their message is clear, vote for all of us!

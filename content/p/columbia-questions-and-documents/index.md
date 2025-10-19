@@ -1,20 +1,20 @@
 ---
-title: "COLUMBIA — QUESTIONS AND DOCUMENTS"
+title: COLUMBIA — QUESTIONS AND DOCUMENTS
 date: 2020-12-23
-thumbnail: "img/columbia-questions-and-documents.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - bid-rigging
-  - city-council
-  - columbia
-  - columbia-alabama
-  - columbia-city-council
-  - fema-fraud
-authors: 
-  - admin
+thumbnail: img/columbia-questions-and-documents.jpg
+categories:
+- wonderful-wednesday
+tags:
+- bid-rigging
+- city-council
+- columbia
+- columbia-alabama
+- columbia-city-council
+- fema-fraud
+authors:
+- admin
+alttags: "Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama"
 ---
-
 If every municipality in Alabama had a “Concerned Citizen” such as the one in Columbia, Alabama, Alabama would not be so political corrupt. A concerned citizen is just the first step, where the hell is the Ethics Commission, Attorney General or FBI?
 
 If the allegations did not have supporting documents I can see where the complaint would go no where. But in the case of Columbia documents, witnesses exist and yet the Columbia City Council hides like sheep while the Mayor and Police Chief ignore any and all allegations.

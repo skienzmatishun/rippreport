@@ -1,15 +1,15 @@
 ---
-title: "REPEAT"
+title: REPEAT
 date: 2018-01-06
-thumbnail: "img/repeat.png"
+thumbnail: img/repeat.png
 tags:
-  - City Council
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+- City Council
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Recurring cycle symbol representing repeating issues in Baldwin County politics, referencing the article’s “Freaky Friday”..."
 ---
-
 Freaky Friday is a repeat of Jan 1st. Please read carefully the post it is not fiction or a conspiracy theory.
 
 Watch the video.

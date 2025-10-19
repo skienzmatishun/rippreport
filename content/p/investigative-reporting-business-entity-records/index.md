@@ -1,16 +1,16 @@
 ---
-title: "Investigative Reporting - Business Entity Records"
+title: Investigative Reporting - Business Entity Records
 date: 2017-01-25
-thumbnail: "img/business-entity-records.png"
-categories: 
-  - investigative-reporting
-tags: 
-  - boone
-  - john-avent
-authors: 
-  - ripp-report
+thumbnail: img/business-entity-records.png
+categories:
+- investigative-reporting
+tags:
+- boone
+- john-avent
+authors:
+- ripp-report
+alttags: "Table listing North Ridge, LLC agents and associated details from Alabama business records"
 ---
-
 Source: [http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL](http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL)
 
 | North Ridge, LLC |

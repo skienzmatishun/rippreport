@@ -1,22 +1,22 @@
 ---
-title: "CONFLICT OF INTEREST"
+title: CONFLICT OF INTEREST
 date: 2017-01-25
-thumbnail: "img/conflict-of-interest.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - brown
-  - conyers
-  - fly-creek
-  - john-avent
-  - preble-rish
-  - robinson
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/conflict-of-interest.jpg
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- brown
+- conyers
+- fly-creek
+- john-avent
+- preble-rish
+- robinson
+- wilson
+authors:
+- ripp-report
+alttags: "Scales of justice icon representing conflict of interest allegations against Fairhope Councilman Kevin Boone"
 ---
-
 Dear Fairhope City Council:
 
 Recently several articles have been written in reference to Councilman Kevin Boone and the business connections he has through several LLC to individuals and engineering company Preble-Rish that are conflicts of interest. Mr. Boone has had these connections through the LLC’s for many years and has never acknowledged them or recuse himself from voting on any issues that came before him as a councilman or during his participation with planning and zoning.

@@ -1,17 +1,17 @@
 ---
-title: "GREEN ACRES ON ACID"
+title: GREEN ACRES ON ACID
 date: 2016-12-16
-thumbnail: "img/green-acres-on-acid.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - ethics-commission
-  - pittman
-  - steve-russo
-authors: 
-  - ripp-report
+thumbnail: img/green-acres-on-acid.jpg
+categories:
+- freaky-friday
+tags:
+- ethics-commission
+- pittman
+- steve-russo
+authors:
+- ripp-report
+alttags: "Movie poster for Green Acres, illustrating a lack of accountability in Baldwin County politics despite past convictions"
 ---
-
 - In Baldwin County, the incentive to run for office and become a public servant is that there is no accountability and “conflict of interest” is just a pesky term. Many of our elected officials are in office for personal gain and use their positions to support like minded politicians.
 
 The last time Baldwin County saw a conviction was Mayor Steve Russo in 2006.

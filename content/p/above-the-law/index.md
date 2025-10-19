@@ -1,13 +1,13 @@
 ---
-title: "ABOVE THE LAW"
+title: ABOVE THE LAW
 date: 2016-08-31
-thumbnail: "img/above-the-law.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/above-the-law.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Great blue heron perched atop a No Fishing sign, symbolizing unanswered legal complaints in Alabama"
 ---
-
 The Ripp Report made a complaint against Steven Patrick Johnson to the Alabama State Bar, CSP NO. 2016-296. On March 17, 2016 they responded “Two attorneys in the Office of the General Council of the Alabama State Bar have reviewed your complaint and the attorney’s response to the complaint. In view of the nature and content of the complaint and the response of the attorney, we will take no further action in this matter.” Of course we are not privileged to the response of the attorney.
 
 I followed up with the Alabama State Bar and asked how this was possible. The complaint was that Mr. Johnson, under oath in his own words during his divorce, admitted to purchasing, transporting and selling marijuana, the sale was to another attorney. I was informed that a duplicate complaint had been filed and it was similar and filed prior to the Ripp Report. I asked how was I suppose to find out what disciplinary action was taken and why would their letter indicate, “No further action would be taken”? The response was that I would have to submit a request of The Disciplinary Commission of the Alabama State Bar.

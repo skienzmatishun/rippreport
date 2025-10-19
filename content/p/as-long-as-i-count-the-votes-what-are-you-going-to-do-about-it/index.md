@@ -1,15 +1,15 @@
 ---
-title: "\"As long as I count the Votes, what are you going to do about it?\""
+title: "As long as I count the Votes, what are you going to do about it?"
 date: 2016-08-05
-thumbnail: "img/as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it.jpg
+categories:
+- freaky-friday
+tags:
+- kant
+authors:
+- ripp-report
+alttags: "Eyeglasses resting on a document, symbolizing poll watcher observations and concerns about election integrity"
 ---
-
 STOPVOTERFRAUDNOW.COM
 
 The observations of a poll watcher is just one of several letters involving Fairhope elections and alleged fraudulent behavior within the polling place.  This is not a conspiracy theory. This is the observation of a poll watcher who witnessed many different violations. The last paragraph of his statement reads, “Because of the issue of not being allowed to observe the final machine opening and tape certification, I could not testify in a court of law that final certification procedures were properly certified and secure."

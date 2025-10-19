@@ -1,16 +1,17 @@
 ---
-title: "SMELL TEST"
+title: SMELL TEST
 date: 2024-02-19
-thumbnail: "img/smell-test.jpg"
+thumbnail: img/smell-test.jpg
 tags:
-  - Elections
-  - Catalyst
-  - Carrie Hosier
-  - Andrea Lindsey
-categories: 
-  - monday-madness
-authors: 
-  - ripp-report
+- Elections
+- Catalyst
+- Carrie Hosier
+- Andrea Lindsey
+categories:
+- monday-madness
+authors:
+- ripp-report
+alttags: "Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices"
 ---
 The one thing that the good ole boys, GOB, of Baldwin have down pat is walking the line of legal and illegal. They do not care if it is a conflict of interest, unethical or smells to high heaven, just as long as it is barely legal. It does not even matter if you change political parties, all they care about is that they get their rubber stamp candidate, Andrea Lindsey, elected.
 

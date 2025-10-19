@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE - CHANGE OF GOVERNMENT"
+title: FAIRHOPE - CHANGE OF GOVERNMENT
 date: 2018-10-24
-thumbnail: "img/fairhope-change-of-government.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-change-of-government.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Green checkmark inside a circle, promoting voting yes on November 6th for Move Fairhope Forward"
 ---
-
 ## PLEASE ATTEND TONIGHT'S INFORMATIVE MEETING, MOVE FAIRHOPE FORWARD.  
 VOTE YES NOV 6TH 2018 NEXT TUESDAY
 

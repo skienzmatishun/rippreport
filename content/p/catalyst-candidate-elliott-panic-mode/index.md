@@ -1,15 +1,15 @@
 ---
-title: "CATALYST CANDIDATE ELLIOTT - PANIC MODE"
+title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
 date: 2018-07-12
-thumbnail: "img/catalyst-candidate-elliott-panic-mode.jpg"
-categories: 
-  - thursday-thunder
-tags: 
-  - chris-elliott
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-candidate-elliott-panic-mode.jpg
+categories:
+- thursday-thunder
+tags:
+- chris-elliott
+authors:
+- ripp-report
+alttags: "Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election campaign photo"
 ---
-
 <div class="link-preview">
 
 ## The plot thickens as runoffs approach - Lagniappe Mobile

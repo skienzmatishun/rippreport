@@ -1,17 +1,17 @@
 ---
-title: "BLOOD IN THE WATER"
+title: BLOOD IN THE WATER
 date: 2017-09-27
-thumbnail: "img/blood-in-the-water.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - doug-jones
-  - moore
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/blood-in-the-water.jpg
+categories:
+- wonderful-wednesday
+tags:
+- doug-jones
+- moore
+- pittman
+authors:
+- ripp-report
+alttags: "Unrelated illustration: A great white shark swims through a school of fish, contrasting low Alabama voter turnout"
 ---
-
 Here is the first post I saw this morning:
 
 > “Voter turnout was a disgrace for the State of Alabama yesterday, granted it was a one party run-off which lowered the amount of voters participating. Alabama has 3,134,166 registered voters, 451,161 voted yesterday, 14.39%. Just to show you how the turnout was in several of the larger counties here are the percentage of voter turnout. Baldwin 18.83%, Jefferson 6.19%, Mobile 12.81% Montgomery 11.02%, Shelby, 20.30%, so sad!!!“

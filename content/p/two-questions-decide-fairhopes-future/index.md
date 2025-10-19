@@ -1,19 +1,19 @@
 ---
-title: "TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE"
+title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
 date: 2025-08-21
 categories:
-  - elections
-thumbnail: "img/two-questions-decide-fairhopes-future.png"
+- elections
+thumbnail: img/two-questions-decide-fairhopes-future.png
 tags:
-  - Wilson
-  - City Council
-  - Sullivan
-  - BP
+- Wilson
+- City Council
+- Sullivan
+- BP
 summary: "Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?"
 authors:
-  - admin
+- admin
+alttags: "Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre..."
 ---
-
 <a href="https://www.facebook.com/story.php?story_fbid=10163914426269993&id=775124992&rdid=HYqWtmxN4hd2hZQ2">From Facebook.</a>
 
 Karin Wolff Wilson is in Fairhope, AL.

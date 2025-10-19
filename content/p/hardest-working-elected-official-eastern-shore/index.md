@@ -1,15 +1,15 @@
 ---
-title: "“Hardest Working Elected Official- Eastern Shore.”"
+title: “Hardest Working Elected Official- Eastern Shore.”
 date: 2017-07-21
-thumbnail: "img/hardest-working-elected-official-eastern-shore.png"
-categories: 
-  - freaky-friday
-tags: 
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/hardest-working-elected-official-eastern-shore.png
+categories:
+- freaky-friday
+tags:
+- wilson
+authors:
+- ripp-report
+alttags: "Golden trophy on a pedestal, representing the 2017 Nappie Award winners featured in this article about Fairhope’s mayor"
 ---
-
 {{< socialpreview url="https://www.lagniappemobile.com/news/complete-list-2017-nappie-award-winners/article_374dee96-bedd-5b49-83b5-3736908420f7.html" >}}
 
 The mayor of Fairhope, Karin Wilson, is living up to her promises to the citizens who elected her. She has been assailed by her critics from day one. The city council has taken on an obstructionist position towards the mayor and has even refused to mediate their differences, through attorneys, claiming they are the mediators. Problem with that is, they are not mediating a damn thing, and the city is the loser.

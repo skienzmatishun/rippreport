@@ -1,18 +1,18 @@
 ---
-title: "WIN FOR BALDWIN"
+title: WIN FOR BALDWIN
 date: 2022-06-22
-thumbnail: "img/win-for-baldwin.jpg"
+thumbnail: img/win-for-baldwin.jpg
 tags:
-  - Elections
-  - Catalyst
-  - Jerry Carl
-  - Matt McKenzie
-categories: 
-  - elections
-authors: 
-  - admin
+- Elections
+- Catalyst
+- Jerry Carl
+- Matt McKenzie
+categories:
+- elections
+authors:
+- admin
+alttags: "Matt McKenzie, newly elected Baldwin County Commissioner, smiles against a waterfront backdrop"
 ---
-
 Baldwin County citizens are the winners. The election of Matt McKenzie, County Commission District 2, is one of the best decisions Baldwin voters have made in a long time. Matt and his family fought hard and covered the county, getting his message out.
 
 Thanks for the social media support for Matt, especially, BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA), who supported Matt 100%. Many pages and groups supported Matt on Facebook.

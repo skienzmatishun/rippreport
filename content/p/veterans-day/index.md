@@ -1,13 +1,13 @@
 ---
-title: "VETERANS DAY"
+title: VETERANS DAY
 date: 2017-11-10
-thumbnail: "img/veterans-day.jpg"
-categories: 
-  - holiday
-authors: 
-  - ripp-report
+thumbnail: img/veterans-day.jpg
+categories:
+- holiday
+authors:
+- ripp-report
+alttags: "American flag draped in shadow, symbolizing respect for veterans potentially exploited by political agendas"
 ---
-
 The older I get the more important Veterans Day becomes. A couple of things really grate on me when it comes to veterans and politicians. First, I have watched politicians parade veterans in front of City council meetings and political rallies and forums solely for their own political benefit. Another thing is how at City Council meetings each meeting begins with a prayer and Pledge of Allegiance. In the same meeting you may witness an all male council bully and berate a female Mayor or to deny Free Speech to citizens of their community.
 
 We are all ready to raise the flag several times a year in remembrance and respect for our country and flag, and pledge allegiance to the United States. We are guaranteed Constitutions Rights, that we too often assume elected officials will defend, not offend.

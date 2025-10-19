@@ -1,20 +1,20 @@
 ---
-title: "TRUTH"
-thumbnail: "img/truth.jpg"
+title: TRUTH
+thumbnail: img/truth.jpg
 date: 2020-07-20
-categories: 
-  - citycouncil
-tags: 
-  - bp
-  - city-council
-  - leslie-callies-hollis
-  - robert-brown
-  - soccer-field
-  - wilson
-authors: 
-  - admin
+categories:
+- citycouncil
+tags:
+- bp
+- city-council
+- leslie-callies-hollis
+- robert-brown
+- soccer-field
+- wilson
+authors:
+- admin
+alttags: "Public viewing telescope overlooking water, likely related to discussion about Fairhope waterfront development"
 ---
-
 In response to Councilman Brown about his position on the Waterfront,
 
 [https://www.facebook.com/groups/FairhopeNow/](https://www.facebook.com/groups/FairhopeNow/)

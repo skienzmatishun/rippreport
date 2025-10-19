@@ -1,14 +1,14 @@
 ---
-title: "ALL MOUTH"
+title: ALL MOUTH
 date: 2023-05-25
-thumbnail: "img/all-mouth.jpg"
-gif: "img/all-mouth.gif"
+thumbnail: img/all-mouth.jpg
+gif: img/all-mouth.gif
 categories:
-  - citycouncil
+- citycouncil
 authors:
-  - admin
+- admin
+alttags: "Councilman Jack Burrell depicted with a long nose, suggesting insincerity regarding Fauxhope sewer upgrades"
 ---
-
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.
 
 {{< socialpreview url="http://thefairhopetimes.blogspot.com/2013/09/sewer-upgrades-to-purify-discharge-into.html" >}}

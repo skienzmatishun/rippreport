@@ -1,21 +1,21 @@
 ---
-title: "GOB COUP"
+title: GOB COUP
 date: 2017-05-26
-thumbnail: "img/gob-coup.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - catalyst
-  - fairhope-airport
-  - kant
-  - snedecker
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/gob-coup.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- catalyst
+- fairhope-airport
+- kant
+- snedecker
+- sullivan
+- wilson
+authors:
+- ripp-report
+alttags: "Unexpected political upset: A red exclamation point symbolizes shock and disruption within Fairhope politics"
 ---
-
 Fairhope politics has taken on a coup mentality. Mayor Wilson upset the apple cart of two political groups: Tim Kant followers, and Jack Burrell and his cronies, both supported by Catalyst. Kant followers have fallen off in recent years and Mr Burrell was assured by Kant he would be the next mayor, along with two others. Jack hedged his position by playing both sides to his benefit however mayor Wilson winning was not in the cards.
 
 Shock descended on the old guard and they immediately hatched a plan to oust mayor Wilson by any means possible. Reports surfaced of Mr. Burrell bragging that he could drive her crazy and out of office in a year. Insubordination by certain employees went hand in hand with back biting the mayor and slowing down requests she had made. Mr Burrell became a fixture in city hall stoking the fire at every opportunity. Then two employees, Fiddler and Sullivan are fired and the council imposes a hiring freeze. Jack next move is to assure Judge Snedeker is sworn in immediately as municipal judge, without any comment from the public.

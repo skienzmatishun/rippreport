@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE COUNCIL ASLEEP AT THE WHEEL"
+title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
 date: 2020-03-13
-thumbnail: "img/fairhope-council-asleep-at-the-wheel.png"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/fairhope-council-asleep-at-the-wheel.png
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Fairhope facing crises: Car crash icon symbolizes issues like COVID, festival concerns, and council inaction"
 ---
-
 Fairhope is facing many major issues at one time and the CATALYST council is asleep at the wheel. Coronavirus and the Arts and Craft Festival, HB 203, and Fly Creek Apartments.
 
 The Mayor has been very vocal and the CATALYST Council has been as quite as a mouse.

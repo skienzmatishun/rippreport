@@ -1,13 +1,13 @@
 ---
-title: "CATALYST BUSTED"
+title: CATALYST BUSTED
 date: 2018-07-27
-thumbnail: "img/catalyst-busted.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-busted.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Blurred police car lights suggest investigation into State Representative Randy Davis’ bribery indictment"
 ---
-
 Randy Davis, State Representative, Daphne, since 2002 is about as a good ole boy as they get. Originally Davis was going to run for the Probate Judge for Baldwin County then suddenly pulled out of the race. Catalyst Candidate Lynn Perry took his spot. Now we know why Randy got cold feet.
 
 https://lagniappemobile.com/local-legislator-ensnared-by-sprawling-bribery-scheme/

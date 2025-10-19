@@ -1,16 +1,16 @@
 ---
-title: "CROSS THE LINE"
+title: CROSS THE LINE
 date: 2018-09-12
-thumbnail: "img/cross-the-line.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - catalyst
-  - chris-elliott
-authors: 
-  - ripp-report
+thumbnail: img/cross-the-line.jpg
+categories:
+- wonderful-wednesday
+tags:
+- catalyst
+- chris-elliott
+authors:
+- ripp-report
+alttags: "American flag waving against a dark background; reflects the upcoming midterms and questions about Baldwin County’s politi..."
 ---
-
 Mid-Term elections are less than 60 days away. Is Baldwin County going to elect the Catalyst good ole boy, who is bought and paid for, just because he is republican? That is doing the same thing over and over again and expecting a different outcome, that’s insanity.
 
 {{< socialpreview url="https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/" >}}

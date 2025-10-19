@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE STATE OF THE CITY"
+title: FAIRHOPE STATE OF THE CITY
 date: 2020-02-05
-thumbnail: "img/fairhope-state-of-the-city.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/fairhope-state-of-the-city.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal featuring a seagull over waves and mountains, promoting the State of the City Expo"
 ---
-
 Mayor Karin Wilson of Fairhope, AlabamaHope to See You Thursday for Our State of the City Expo This Thursday, 5pm, Fairhope Civic Center.
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/02/84426288_2556415757938125_6766964379234598912_n.jpg)

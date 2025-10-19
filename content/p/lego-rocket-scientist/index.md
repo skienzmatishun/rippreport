@@ -1,17 +1,17 @@
 ---
-title: "LEGO ROCKET SCIENTIST"
+title: LEGO ROCKET SCIENTIST
 date: 2022-01-13
-thumbnail: "img/lego-rocket-scientist.jpg"
-gif: "img/lego-rocket-scientist.gif"
-categories: 
-  - citycouncil
+thumbnail: img/lego-rocket-scientist.jpg
+gif: img/lego-rocket-scientist.gif
+categories:
+- citycouncil
 tags:
-  - Burrell
-  - Airport
-authors: 
-  - admin
+- Burrell
+- Airport
+authors:
+- admin
+alttags: "Satirical depiction: Jack Burrell’s face superimposed on a toy rocket, symbolizing developer influence in Fairhope politics"
 ---
-
 The good ole boys in Fairhope won the last election and were successful in electing a Mayor and Council that were willing to embrace development and return to the old “corrupt” way of doing business. The municipal attorney is old school and the municipal judge is a major developer in Fairhope. You can thank Catalyst, aka Scott Boone Consulting for this cast of characters. Jack Burrell has been the puppet for developers and special interest groups since first elected. For almost 9 years, Jack was president of the council. His involvement in the Fairhope Airport Authority has been a cluster f--- from day one. In March of last year, he canceled the video online broadcast of the Airport Authority meetings to the public. I knew then he was up to some kind of B.S.
 
 {{< socialpreview url="https://web.archive.org/web/20230320101147/https://rippreport.com/%F0%9F%8E%B6%F0%9F%AA%91/" >}}

@@ -1,18 +1,18 @@
 ---
-title: "PERFECT PUZZLE"
+title: PERFECT PUZZLE
 date: 2021-12-08
-thumbnail: "img/perfect-puzzle.png"
+thumbnail: img/perfect-puzzle.png
 tags:
-  - Ethics Commission
-  - Alabama AG
-  - Albritton
-  - Mabel Amos Trust
+- Ethics Commission
+- Alabama AG
+- Albritton
+- Mabel Amos Trust
 categories:
-  - ethics
-authors: 
-  - admin
+- ethics
+authors:
+- admin
+alttags: "Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns"
 ---
-
 Alabama has earned it’s reputation as the most corrupt state in the United States. What solidifies Alabama’s position is a perfect puzzle, all tightly fit together with inept, lazy, hypocritical elected officials and oversight agencies. These agencies cost taxpayers millions for absolutely nothing.
 
 The Attorney General, Ethics Commission and Bar Association have earned a reputation of “protecting” it’s fellow inept, hypocritical allies, that are accused of political corruption. The FBI and the Federal Courts deserve a piece of the puzzle for turning a blind eye, or maybe not even opening their eyes and reading what is being published. Compound this sad state of affairs and then add in the police state mentality, which is, “Police do no wrong and should never be held accountable.” This tight little puzzle of no accountability, no transparency and no ethics, is why Alabama is the most corrupt state in the United States.

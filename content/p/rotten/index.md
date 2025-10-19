@@ -1,13 +1,13 @@
 ---
-title: "ROTTEN"
+title: ROTTEN
 date: 2020-01-03
-thumbnail: "img/rotten.png"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/rotten.png
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Fairhope, Alabama city seal featuring a bird over hills, relevant to the article about Fairhope City Council President Jac..."
 ---
-
 <div class="link-preview">
 
 ## WORST ELECTED OFFICIAL

@@ -1,13 +1,13 @@
 ---
-title: "OPEN YOUR EYES"
+title: OPEN YOUR EYES
 date: 2018-08-08
-thumbnail: "img/open-your-eyes.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/open-your-eyes.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Cartoon eyes suggesting someone is being manipulated or controlled, referencing the article’s claim about Governor Ivey"
 ---
-
 Alabama has been electing only Republicans for years, regardless of that candidates credentials, just as long as he or she is a republican. The straight ticket voters, unwittingly, are responsible for electing corrupt officials who simply rode the straight ticket into office.
 
 The Ripp Report is Independent and we vote for the candidate. We have supported libertarian, Independent, Republican and Democrat.

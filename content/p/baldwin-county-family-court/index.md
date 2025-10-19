@@ -1,16 +1,16 @@
 ---
-title: "BALDWIN COUNTY FAMILY COURT"
+title: BALDWIN COUNTY FAMILY COURT
 date: 2017-09-20
-thumbnail: "img/baldwin-county-family-court.png"
-categories: 
-  - familycourt
-tags: 
-  - catalyst
-  - thomason
-authors: 
-  - ripp-report
+thumbnail: img/baldwin-county-family-court.png
+categories:
+- familycourt
+tags:
+- catalyst
+- thomason
+authors:
+- ripp-report
+alttags: "Scales of justice silhouette representing Judge Thomason’s run for Court of Appeals amidst concerns about her performance"
 ---
-
 Just when you thought there was no hope for the Baldwin County Family Court, Judge Thomason announces she is running for Court of Appeals position vacated by Craig Pittman who is retiring. Of course another court will inherit her incompetence but at least she won’t be making decisions about the welfare of children. It should be expected if she looses the election Nov. 2018, she probably will re run for her present position again. Judge Thomason will use the republican party to retaliate against any opponent or have them eliminated all together from running, she has a track record of dirty politics, and is loved by the good ole boys.
 
 {{< socialpreview url="https://www.wkrg.com/news/baldwin-county-judge-running-for-al-court-of-civil-appeals/" >}}

@@ -1,13 +1,13 @@
 ---
-title: "DON’T LET THE DOOR HIT YOU IN THE ASS"
+title: DON’T LET THE DOOR HIT YOU IN THE ASS
 date: 2018-10-17
-thumbnail: "img/dont-let-the-door-hit-you-in-the-ass.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/dont-let-the-door-hit-you-in-the-ass.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "State Sen. Tripp Pittman, departing Baldwin County politics after a controversial career marked by accusations of self-int..."
 ---
-
 The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political life, covered in BP oil, and a legacy that is as dark as the oil.
 
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/state-sen-trip-pittman-says-farewell/article_82d8ed23-f0fa-5dde-9ee6-e3c20068c743.html" >}}

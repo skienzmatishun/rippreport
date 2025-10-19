@@ -1,17 +1,17 @@
 ---
-title: "FAIRHOPE LAWSUITS"
+title: FAIRHOPE LAWSUITS
 date: 2017-10-27
-thumbnail: "img/fairhope-lawsuits.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - fly-creek
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-lawsuits.jpg
+categories:
+- citycouncil
+tags:
+- burrell
+- fly-creek
+- wilson
+authors:
+- ripp-report
+alttags: "Fairhope City Council settles lawsuits with former employees; gavel and legal documents symbolize the costly outcome"
 ---
-
 Fairhope City Council has decided to pay fired employees rather than going to court, so we the public never know the whole truth surrounding the firing in the first place. Remember it was the council who came to the defense of the those fired, they then assisted them in their efforts to sue the city. Ultimately, in executive session the same council votes to pay up. It’s only insurance money, but we pay the insurance.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-mayor-fires-two-council-responds-with-hiring-freeze/article_141bafe5-91a1-5678-9af1-7438045c916d.html" >}}

@@ -1,20 +1,19 @@
 ---
-title: "BCSO - HOW TO BECOME SHERIFF"
+title: BCSO - HOW TO BECOME SHERIFF
 date: 2024-07-16
-thumbnail: "img/bcso-how-to-become-sheriff.jpg"
+thumbnail: img/bcso-how-to-become-sheriff.jpg
 tags:
-  - Hoss Mack
-  - BCSO
-  - Anthony Lowery
-  - McGowan
-  - Murray Lawrence Jr
-categories: 
-  - bcso
-authors: 
-  - admin
+- Hoss Mack
+- BCSO
+- Anthony Lowery
+- McGowan
+- Murray Lawrence Jr
+categories:
+- bcso
+authors:
+- admin
+alttags: "Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar..."
 ---
-
-
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.
 
 

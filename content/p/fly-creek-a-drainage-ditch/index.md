@@ -1,15 +1,15 @@
 ---
-title: "FLY CREEK - A DRAINAGE DITCH ?"
+title: FLY CREEK - A DRAINAGE DITCH ?
 date: 2017-08-25
-thumbnail: "fly-creek-a-drainage-ditch.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - fly-creek
-authors: 
-  - ripp-report
+thumbnail: fly-creek-a-drainage-ditch.jpg
+categories:
+- freaky-friday
+tags:
+- fly-creek
+authors:
+- ripp-report
+alttags: "Gavel and legal documents representing the six-day trial over Fly Creek Apartments development in Bay Minette"
 ---
-
 The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal arguments. It went to trial because our city council let us down and ignored their campaign promises. Mr Adam Milam, the plaintiff's attorney, Friends of Fly Creek, put it best:
 
 > “Whether you want apartments or not in the Fairhope area is not the issue. The City Council and Mayor sold out Fairhope and Baldwin County residents when they bowed to political pressure in allowing a large apartment complex, parking lot, and all the attendant runoff, erosion and sedimentation impacts right in the Fly Creek Watershed, an extremely vital watershed that they swore to protect."

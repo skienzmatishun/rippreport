@@ -1,13 +1,13 @@
 ---
-title: "CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY"
+title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
 date: 2018-07-15
-thumbnail: "img/catalyst-first-christian-church-of-hypocrites-of-baldwin-county.jpg"
-categories: 
-  - sunday-sermon
-authors: 
-  - admin
+thumbnail: img/catalyst-first-christian-church-of-hypocrites-of-baldwin-county.jpg
+categories:
+- sunday-sermon
+authors:
+- admin
+alttags: "Interior view of a church sanctuary with rows of pews, an organ loft, and arched windows, reflecting the congregation’s fo..."
 ---
-
 FAIRHOPE MEMBER
 
 We, the First Christian Catalyst Church of Fairhope CCCF, are gathered here today to mentally co-mingle with one another on the subject of Christian Values. Our congregation is in the midst of a political takeover of the church’s selected candidates for political office in Baldwin County.

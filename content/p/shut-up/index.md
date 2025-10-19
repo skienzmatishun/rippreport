@@ -1,17 +1,17 @@
 ---
-title: "SHUT UP"
+title: SHUT UP
 date: 2017-02-24
-thumbnail: "img/shut-up.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/shut-up.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- wilson
+authors:
+- ripp-report
+alttags: "Silenced emoji face symbolizes restricted public comment at Fairhope City Council meetings, limiting citizen participation"
 ---
-
 Every Fairhope City council meeting begins with a prayer and the pledge of allegiance. What irony, when the council president then explains to attending citizens that their right to speak is a privilege— not a right. The council president then explained that the 3 minute limit on public participation was at his discretion. This is how our previous Mayor handled critics, complaints or investigations— absolutely no transparency. Make no mistake, as an American, it is your right.
 
 The same council president, Jack Burrell, is embroiled in controversy over his participation in the Fairhope Airport Authority. His position is that we do not need to ask questions. Just trust them. Going with Jack is going Back. His position is with the previous administration and the good ole boys that ran it.

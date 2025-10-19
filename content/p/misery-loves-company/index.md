@@ -1,15 +1,15 @@
 ---
-title: "MISERY LOVES COMPANY"
+title: MISERY LOVES COMPANY
 date: 2017-06-22
-thumbnail: "img/misery-loves-company.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - daphne
-authors: 
-  - ripp-report
+thumbnail: img/misery-loves-company.png
+categories:
+- wonderful-wednesday
+tags:
+- daphne
+authors:
+- ripp-report
+alttags: "Intersection in Daphne, Alabama, near Johnson Road and Highway 98, showing recent apartment construction impacting develop..."
 ---
-
 Daphne and Fairhope have a lot more in common than some think. One thing is that, if you allow the developers full rein, they will develop every square inch of land.
 
 Fairhope has Fly Creek Apartments and Daphne has the Daphmont neighborhood at Johnson road and highway 98. The intersection has already been impacted by the recent construction of apartments.

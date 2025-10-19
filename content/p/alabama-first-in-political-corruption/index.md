@@ -1,13 +1,13 @@
 ---
-title: "ALABAMA -  FIRST IN POLITICAL CORRUPTION"
+title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
 date: 2019-06-05
-thumbnail: "img/alabama-first-in-political-corruption.png"
-categories: 
-  - alabama
-authors: 
-  - admin
+thumbnail: img/alabama-first-in-political-corruption.png
+categories:
+- alabama
+authors:
+- admin
+alttags: "Gold medal with a number one, symbolizing Alabama’s ranking as first in political corruption"
 ---
-
 You want to know why Alabama is first in political corruption and last in education? CORRUPTION,
 
 Political Corruption.

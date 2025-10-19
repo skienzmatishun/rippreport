@@ -1,21 +1,21 @@
 ---
-title: "ROUND HOUSE SQUARE HEADS"
-date: 2023-12-01T00:00:00Z
-summary: "The author of a book about the Montrose Hut is proposing to move it, but it's a real estate deal to benefit the owner and city councilman Boone, who is accused of being part of a political machine. The city is looking for donations to cover the moving cost."
-thumbnail: "img/round-house-blockheads.jpg"
+title: ROUND HOUSE SQUARE HEADS
+date: 2023-12-01 00:00:00+00:00
+summary: The author of a book about the Montrose Hut is proposing to move it, but it's a real estate deal to benefit the owner and city councilman Boone, who is accused of being part of a political machine. The city is looking for donations to cover the moving cost.
+thumbnail: img/round-house-blockheads.jpg
 tags:
-  - City Council
-  - Sonny Brewer
-  - Boone
-  - Robert Brown
-  - Jack Burrell
-  - Mayor Wilson
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- City Council
+- Sonny Brewer
+- Boone
+- Robert Brown
+- Jack Burrell
+- Mayor Wilson
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Montrose Hut facade features faces representing city officials debating its relocation, as discussed in the article"
 ---
-
 You wonder why Fairhope is called FAUXHOPE? It is because nothing is what it seems. The Montrose Hut is a classic example. The city council and mayor are dancing around pretending to support Sonny Brewer who has proposed moving the hut. He is the author of The Poet Of Tolstoy Park, a novel he penned 20 years ago. Now you would think he would be the strongest advocate that it NOT be moved. The city will have to issues a permit to move the structure. The city is trying to figure a way around having to issue such a permit.
 
 

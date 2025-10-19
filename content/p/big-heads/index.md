@@ -1,23 +1,23 @@
 ---
-title: "BIG HEADS"
+title: BIG HEADS
 date: 2018-02-14
-thumbnail: "img/big-heads.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - art-museum
-  - big-head-gully
-  - boone
-  - catalyst
-  - pittman
-  - robert-brown
-  - robinson
-  - turner
-  - upchurch
-authors: 
-  - ripp-report
+thumbnail: img/big-heads.png
+categories:
+- wonderful-wednesday
+tags:
+- art-museum
+- big-head-gully
+- boone
+- catalyst
+- pittman
+- robert-brown
+- robinson
+- turner
+- upchurch
+authors:
+- ripp-report
+alttags: "Blue stick figure icon representing public discussion regarding land transfer for Tatumville Subdivision in Fairhope"
 ---
-
 Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 - 6:00 P.M. - CITY COUNCIL CHAMBER
 
 5\. Final Adoption - An Ordinance Directing the Transfer of an Acre of Land to Fairhope Single Tax Corporation and Declaring said property to be Surplus and not needed for Public or Municipal Purposes; Property is for the Tatumville Subdivision. (Introduced at the January 22, 2018 City Council Meeting)

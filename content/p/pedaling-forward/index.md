@@ -1,21 +1,21 @@
 ---
-title: "PEDALING FORWARD"
+title: PEDALING FORWARD
 date: 2019-02-27
-thumbnail: "img/pedaling-forwards.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - catalyst
-  - city-council
-  - county-commissioner
-  - eddie-tyler
-  - elliot
-  - schools
-authors: 
-  - ripp-report
+thumbnail: img/pedaling-forwards.jpg
+categories:
+- citycouncil
+tags:
+- burrell
+- catalyst
+- city-council
+- county-commissioner
+- eddie-tyler
+- elliot
+- schools
+authors:
+- ripp-report
+alttags: "Cyclist silhouette blurred in motion, symbolizing Fairhope City Council’s past inaction & potential for progress on educat..."
 ---
-
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
 
 {{< socialpreview url="https://rippreport.com/p/pedaling-backwards/" >}}

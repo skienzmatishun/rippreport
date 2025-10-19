@@ -1,15 +1,15 @@
 ---
-title: "CATTLE GATE MEGA-SITE"
+title: CATTLE GATE MEGA-SITE
 date: 2018-03-02
-thumbnail: "img/cattle-gate-mega-site.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - mega-site
-authors: 
-  - ripp-report
+thumbnail: img/cattle-gate-mega-site.jpg
+categories:
+- freaky-friday
+tags:
+- mega-site
+authors:
+- ripp-report
+alttags: "Cow with open mouth, symbolizing lack of progress on Baldwin County Mega-site development"
 ---
-
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new.
 
 {{< socialpreview url="https://rippreport.com/p/economic-development-baldwin-county-style/" >}}

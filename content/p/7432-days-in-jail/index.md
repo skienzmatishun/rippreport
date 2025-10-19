@@ -1,16 +1,16 @@
 ---
-title: "7432 DAYS IN JAIL"
-date: 2023-10-12T00:00:00Z
-thumbnail: "img/7432-days-in-jail.jpg"
+title: 7432 DAYS IN JAIL
+date: 2023-10-12 00:00:00+00:00
+thumbnail: img/7432-days-in-jail.jpg
 tags:
-  - Murray Lawrence Jr
-  - Hoss Mack
-categories: 
-  - dwtd
-authors: 
-  - admin
+- Murray Lawrence Jr
+- Hoss Mack
+categories:
+- dwtd
+authors:
+- admin
+alttags: "Murray Bubba Lawrence’s face superimposed over a jail cell, illustrating wrongful imprisonment after decades in custody"
 ---
-
 That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge, currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.
 
 Please read and share this post.

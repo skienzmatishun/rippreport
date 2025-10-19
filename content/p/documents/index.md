@@ -1,13 +1,13 @@
 ---
-title: "DOCUMENTS"
+title: DOCUMENTS
 date: 2019-09-25
-thumbnail: "img/documents.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/documents.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Stack of documents representing bids and ethics letters related to a Fairhope city council contract dispute"
 ---
-
 Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of:
 
 {{< socialpreview url="https://rippreport.com/p/blind-leading-the-blind/" >}}

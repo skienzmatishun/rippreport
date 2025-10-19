@@ -1,13 +1,13 @@
 ---
-title: "PARADISE LOST"
+title: PARADISE LOST
 date: 2018-06-07
-thumbnail: "img/paradise-lost.png"
-categories: 
-  - authors
-authors: 
-  - ripp-report
+thumbnail: img/paradise-lost.png
+categories:
+- authors
+authors:
+- ripp-report
+alttags: "Map outline of Florida highlighting coastal areas impacted by population growth and infrastructure challenges"
 ---
-
 Submitted by: <a href="#">Chris Warner</a>
 
 Dear Editor: The citizens of Myrtle Beach, South Carolina and Destin, Florida were bushwhacked. They never saw it coming. Or did they?

@@ -1,13 +1,13 @@
 ---
-title: "BACKWOODS MEDIA AD"
+title: BACKWOODS MEDIA AD
 date: 2020-02-28
-thumbnail: "img/backwoods-media-ad.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/backwoods-media-ad.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "The Ripp Report podcast logo features a microphone and man seated in front of it, streaming facts"
 ---
-
 [![Backstory Podcast Backwoods Media LLC](https://cdn.rippreport.com/wp-content/uploads/2020/02/backwoods-ad-300x168.jpg)](https://drive.google.com/file/d/1553APxlxnKb7OGXZeaCiYTXEQhuHEsNd/view?usp=sharing)
 
 Click above to see Video

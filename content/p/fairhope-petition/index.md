@@ -1,13 +1,13 @@
 ---
-title: "FAIRHOPE PETITION"
+title: FAIRHOPE PETITION
 date: 2019-06-26
-thumbnail: "img/fairhope-petition.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/fairhope-petition.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Petition form with a red pen, representing Fairhope residents urging city council for public participation in land use dec..."
 ---
-
 If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose of any city property until the scheduled land use plan and comprehensive plan is completed. The second thing the citizens ask is to be a part of the decision. The Council and Weeks Bay have attempted to go around public participation. That is not the way a democracy works.
 
 [https://www.change.org/p/city-of-fairhope-citizens-for-protecting-fairhope-s-quality-of-life](https://www.change.org/p/city-of-fairhope-citizens-for-protecting-fairhope-s-quality-of-life)

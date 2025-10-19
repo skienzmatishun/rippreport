@@ -1,19 +1,19 @@
 ---
-title: "SELF INCRIMINATION"
+title: SELF INCRIMINATION
 date: 2017-06-15
-thumbnail: "img/self-incrimination.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - burrell
-  - fairhope-schools
-  - marion-wynne
-  - tut
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/self-incrimination.jpg
+categories:
+- citycouncil
+tags:
+- burrell
+- fairhope-schools
+- marion-wynne
+- tut
+- wilson
+authors:
+- ripp-report
+alttags: "Fairhope’s growth presents a choice: support new leadership or face challenges due to rapid development"
 ---
-
 Fairhope you have two choices. Believe in Mayor Wilson and her ideas on infrastructure and growth or follow a city council who has demonstrated no leadership, has adopted the theme of no action, is in denial of facts, and refuses to adapt to changing demographics, or change period.
 
 FACT: Fairhope is the fastest growing city in Alabama. FACT: Fairhope Schools did not rank in the top 25. FACT: The first two facts are a direct result of the population explosion, unbridled development and greed. Fact: Ignore the above and schools will decline so will the quality of life, commute times will be longer, and property values will decline. FACT: Fairhope infrastructure sewer, electric and water all are in dire need of repairs, after years of neglect, and assets like the Pool and Athletic Center, Nix center, Quail Creek golf course clubhouse and library all need major repairs. FACT: The Council has hindered any progress in addressing major issues and their lack of leadership and reluctance for change will only exacerbate the problems. They harp against change while the whole county is changing daily. If they continue to ignore the obvious and support Mr Boone and Mr Burrell’s campaign to oust the Mayor, at any expense, the Fairhope that once was, will be no more.

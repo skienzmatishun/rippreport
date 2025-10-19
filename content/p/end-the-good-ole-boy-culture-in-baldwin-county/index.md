@@ -1,27 +1,27 @@
 ---
-title: "END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY"
+title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
 date: 2025-08-25
 categories:
-  - elections
-thumbnail: "img/end-the-good-ole-boy-culture-in-baldwin-county.png"
+- elections
+thumbnail: img/end-the-good-ole-boy-culture-in-baldwin-county.png
 tags:
-  - Elections
-  - City Council
-  - Gulf Shores
-  - Orange Beach
-  - Bay Minette
-  - Brad Brass
-  - Summerdale
-  - Craft
-  - Sheriff Hoss Mack
-  - Chris Elliot
-  - Catalyst
-  - Scott Boone Consulting
-summary: "The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood."
+- Elections
+- City Council
+- Gulf Shores
+- Orange Beach
+- Bay Minette
+- Brad Brass
+- Summerdale
+- Craft
+- Sheriff Hoss Mack
+- Chris Elliot
+- Catalyst
+- Scott Boone Consulting
+summary: The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.
 authors:
-  - admin
+- admin
+alttags: "Railway tracks diverging, symbolizing choices in Baldwin County politics; a sign reads “GXB,” referencing the “good ole bo..."
 ---
-
 The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.
 
 <a href="https://www.google.com/search?q=chris+elliott&as_sitesearch=rippreport.com">Chris Elliott</a> became a county commissioner and Haygood became Mayor of Daphne. Once they were elected the name changed to <a href="https://www.google.com/search?q=catalyst&as_sitesearch=rippreport.com">Catalyst</a>. and for years operated under that name. The general public started to catch on to the dirty politics that Catalyst represented, so the name changed again. Today Scott Boone consulting represents the cabal of good ole boys of Baldwin County. They do not operate in the public’s eyes and prefer to stay in the shadows. IF it is a Scott Boone candidate then they are confirmed CATALYST.

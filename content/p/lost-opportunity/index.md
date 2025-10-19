@@ -1,13 +1,13 @@
 ---
-title: "LOST OPPORTUNITY"
-thumbnail: "img/lost-opportunity.jpg"
+title: LOST OPPORTUNITY
+thumbnail: img/lost-opportunity.jpg
 date: 2020-03-26
-categories: 
-  - thursday-thunder
-authors: 
-  - admin
+categories:
+- thursday-thunder
+authors:
+- admin
+alttags: "Aerial view of recreation land in Fairhope, purchased for $2.6 million but leased back for $9,000 annually"
 ---
-
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19.
 
 The staff, police, fire and other cuts came up to 2.6 million.

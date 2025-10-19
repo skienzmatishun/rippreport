@@ -1,20 +1,20 @@
 ---
-title: "CATALYST LIAR"
+title: CATALYST LIAR
 date: 2020-05-23
-thumbnail: "img/catalyst-liar.jpg"
-categories: 
-  - saturday-sunshine
-tags: 
-  - airport
-  - catalyst
-  - election
-  - fairhope-airport
-  - jack-burrell
-  - sewer
-authors: 
-  - admin
+thumbnail: img/catalyst-liar.jpg
+categories:
+- saturday-sunshine
+tags:
+- airport
+- catalyst
+- election
+- fairhope-airport
+- jack-burrell
+- sewer
+authors:
+- admin
+alttags: "Fairhope Council President Jack Burrell wearing a hard hat, criticized for neglecting infrastructure repairs despite sewer..."
 ---
-
 Not only is Council Burrell a bald faced liar, he thinks a hard hat works better than a face mask. This is what you get with CATALYST. Jack Burrell was Council President under Mayor Cant for 4 years and did not do one damn thing about infrastructure repairs.
 
 He did approve sewer repairs to the main sewer plant, however allowed no money for transmission lines. That is like having a healthy heart but no arms or legs.

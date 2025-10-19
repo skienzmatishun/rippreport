@@ -1,16 +1,16 @@
 ---
-title: "Paradise Lost II"
+title: Paradise Lost II
 date: 2020-06-03
-thumbnail: "img/paradise-lost-ii.png"
-categories: 
-  - authors
-tags: 
-  - baldwin-county
-  - chris-warner
-authors: 
-  - admin
+thumbnail: img/paradise-lost-ii.png
+categories:
+- authors
+tags:
+- baldwin-county
+- chris-warner
+authors:
+- admin
+alttags: "Map outline of New Jersey, illustrating planning and growth management discussions in Baldwin County"
 ---
-
 By Chris Warner
 
 Special to the Ripp Report/Baldwin County Legal Eagle

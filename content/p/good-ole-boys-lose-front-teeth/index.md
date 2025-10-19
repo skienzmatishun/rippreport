@@ -1,29 +1,29 @@
 ---
-title: "GOOD OLE BOYS LOSE FRONT TEETH"
+title: GOOD OLE BOYS LOSE FRONT TEETH
 date: 2025-08-27
 categories:
-  - elections
-thumbnail: "img/good-ole-boys-lose-front-teeth.png"
-gif: "img/good-ole-boys-lose-front-teeth.gif"
-webp_animated: "img/good-ole-boys-lose-front-teeth.webp"
+- elections
+thumbnail: img/good-ole-boys-lose-front-teeth.png
+gif: img/good-ole-boys-lose-front-teeth.gif
+webp_animated: img/good-ole-boys-lose-front-teeth.webp
 tags:
-  - Elections
-  - City Council
-  - Burrell
-  - Bay Minette
-  - Spanish Fort
-  - Brad Bass
-  - Bob Willis
-  - Catalyst
-  - Charlie Murphy
-  - Ruthie Campbell
-  - Russell Johnson
-  - Joshua Brown
-summary: "Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption. Catalyst, aka Scott Boone Consulting, the political promoter of GOB now has the attention of the public. A Catalyst candidate is a GOB candidate, plain and simple. The GOB and Catalyst lost some front teeth in this election."
+- Elections
+- City Council
+- Burrell
+- Bay Minette
+- Spanish Fort
+- Brad Bass
+- Bob Willis
+- Catalyst
+- Charlie Murphy
+- Ruthie Campbell
+- Russell Johnson
+- Joshua Brown
+summary: Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption. Catalyst, aka Scott Boone Consulting, the political promoter of GOB now has the attention of the public. A Catalyst candidate is a GOB candidate, plain and simple. The GOB and Catalyst lost some front teeth in this election.
 authors:
-  - admin
+- admin
+alttags: "A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizing the fading influence of old-school politics in..."
 ---
-
 Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption.
 
 Catalyst, aka Scott Boone Consulting, the political promoter of GOB now has the attention of the public. A Catalyst candidate is a GOB candidate, plain and simple. The GOB and Catalyst lost some front teeth in this election.

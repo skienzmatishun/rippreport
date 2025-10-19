@@ -1,11 +1,12 @@
 ---
-title: "VOTE MARCH 5th"
+title: VOTE MARCH 5th
 date: 2024-03-01
-thumbnail: "img/vote-march-5th.jpg"
-categories: 
-  - elections
-authors: 
-  - ripp-report
+thumbnail: img/vote-march-5th.jpg
+categories:
+- elections
+authors:
+- ripp-report
+alttags: "Baldwin County election graphic: An eagle flies over a ballot box against an American flag backdrop, urging voters to part..."
 ---
 When will Baldwin County wake up and vote in new blood. The GOB, Good ole Boys, have a strangle hold on Baldwin County. They determine the candidates that will tow the line or raise their hand when told to do so. Sheriff Hoss Mack calls the shots and Mayors just bend over. The school system, Eddie and Gray, have job security guaranteed, as long as they go along. Their is no accountability or transparency as long as this cabal exists. NEVER vote for selected candidates.
 CIRCUIT CLERK

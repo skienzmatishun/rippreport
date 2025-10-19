@@ -1,30 +1,30 @@
 ---
-title: "SECRET SOCIETY"
+title: SECRET SOCIETY
 date: 2021-01-27
-thumbnail: "img/secret-society.png"
-categories: 
-  - citycouncil
-tags: 
-  - covid-19
-  - dyas-triangle
-  - fairhope-pier
-  - fire-station
-  - hand-anderall
-  - kant
-  - mayor-sullivan
-  - municipal-judge
-  - parker-road
-  - publix
-  - publix-project
-  - sbc
-  - sullivan
-  - triangle-lawsuit
-  - utilities-director
-  - waterfront-project
-authors: 
-  - admin
+thumbnail: img/secret-society.png
+categories:
+- citycouncil
+tags:
+- covid-19
+- dyas-triangle
+- fairhope-pier
+- fire-station
+- hand-anderall
+- kant
+- mayor-sullivan
+- municipal-judge
+- parker-road
+- publix
+- publix-project
+- sbc
+- sullivan
+- triangle-lawsuit
+- utilities-director
+- waterfront-project
+authors:
+- admin
+alttags: "Emoji face with zipper over mouth, symbolizing secrecy and hidden information related to Baldwin County’s political cabal"
 ---
-
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.
 
 The term usually excludes covert groups, such as intelligence agencies or guerrilla warfare insurgencies, that hide their activities and memberships but maintain a public presence.

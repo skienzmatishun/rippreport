@@ -1,18 +1,18 @@
 ---
-title: "FAUXHOPE - PARTY BEFORE COUNTRY OR CITY"
+title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
 date: 2017-12-22
-thumbnail: "img/fauxhope-party-before-country-or-city.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - kant
-  - moore
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fauxhope-party-before-country-or-city.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- kant
+- moore
+- wilson
+authors:
+- ripp-report
+alttags: "American flag waving over a fountain in Fairhope, Alabama, reflecting local voting patterns discussed in the article"
 ---
-
 > “While the State of Alabama's total electorate ultimately denied Roy Moore from taking the oath of office as a United States Senator, the City of Fairhope and Baldwin County as a whole, voted for an alleged pedophile and a man twice removed for being unfit to hold office. It should be noted that the City of Daphne voted for the winner, Doug Jones, providing hope for the future. Alabama needs to move away from straight ticket voting. One third of the ballots cast in the election were straight ticket checkoffs. Straight ticket voting is what gave Alabama Roy Moore. Interestingly, with consideration to the heavy black turnout statewide and that Jones received an unprecedented 97 percent of the black vote, one could argue it was straight ticket voting that elected Jones. Moving forward, Jones must appeal to Alabama's total electorate--not just the left; or he won't be re-elected. His term is only for two years, so he has but a little time to acquaint himself with the voters who put him in office. The republicans are going to come at him hard so it will be interesting to see how Jones defines himself once he takes the oath.”
 
 I use to refer to Fairhope as Fauxhope, before the last election, mainly because the city had this cool reputation that attracted people from all over the country. Quality of life was the magnet, and it worked, our population doubled in ten years. All those new citizens soon found out Fairhope was considered Nohope or Fauxhope, by many, and that the local politics were as rotten as a ton of fish left on the dock for a month.

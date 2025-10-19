@@ -1,13 +1,13 @@
 ---
-title: "DIRTY LITTLE SECRETS"
+title: DIRTY LITTLE SECRETS
 date: 2018-09-21
-thumbnail: "img/dirty-little-secrets.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/dirty-little-secrets.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Gulf Shores beach scene: Buildings overlook a sandy shore with people enjoying the water, hinting at planning & zoning con..."
 ---
-
 This is the early edition of FREAKY FRIDAY, The evening edition will feature the change of government in Fairhope. It is Fairhope’s dirty little secret.
 
 The following is an opinion and commentary piece...by Pete Sims - 9/20/2018

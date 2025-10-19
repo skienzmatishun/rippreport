@@ -1,22 +1,22 @@
 ---
-title: "LEGAL CORRUPTION"
+title: LEGAL CORRUPTION
 date: 2019-04-12
-thumbnail: "img/legal-corruption.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - baldwin-county-commission
-  - boone
-  - bp
-  - burrell
-  - conyers
-  - elliott
-  - pittman
-  - robinson
-authors: 
-  - admin
+thumbnail: img/legal-corruption.jpg
+categories:
+- freaky-friday
+tags:
+- baldwin-county-commission
+- boone
+- bp
+- burrell
+- conyers
+- elliott
+- pittman
+- robinson
+authors:
+- admin
+alttags: "Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials"
 ---
-
 Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama and our elected officials are more interested in special interests than their constituents.
 
 Baldwin County leads the list of the most corrupt counties in Alabama, Elected officials in Baldwin County do not fear the Ethics Commission, Attorney General of even the FBI.

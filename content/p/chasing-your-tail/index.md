@@ -1,13 +1,13 @@
 ---
-title: "CHASING YOUR TAIL"
+title: CHASING YOUR TAIL
 date: 2018-12-14
-thumbnail: "img/chasing-your-tail.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/chasing-your-tail.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article"
 ---
-
 Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government.
 
 {{< socialpreview url="https://rippreport.com/p/ignorance-is-bliss/" >}}

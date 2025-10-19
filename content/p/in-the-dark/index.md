@@ -1,13 +1,13 @@
 ---
-title: "IN THE DARK"
+title: IN THE DARK
 date: 2018-12-22
-thumbnail: "img/in-the-dark.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/in-the-dark.jpg
+categories:
+- freaky-friday
+authors:
+- ripp-report
+alttags: "Stylized white eyes scattered across a black background, illustrating Fairhope City Council’s perceived lack of progress"
 ---
-
 Fairhope in 2018 is IN THE DARK, refusing to look forward and recognize the lighting speed of change. The last city council meeting in Fairhope for 2018 was more of the same:
 
 ## CHASING YOUR TAIL

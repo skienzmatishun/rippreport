@@ -1,13 +1,13 @@
 ---
-title: "FLY CREEK MUD"
+title: FLY CREEK MUD
 date: 2022-08-28
-categories: 
-  - 💩-muddy-sunday-💩
-thumbnail: "/img/fly-creek-mud.jpg"
-authors: 
-  - admin
+categories:
+- 💩-muddy-sunday-💩
+thumbnail: /img/fly-creek-mud.jpg
+authors:
+- admin
+alttags: "Muddy wave cresting near a “Fly Creek” sign, illustrating infrastructure failures impacting the creek with sediment runoff"
 ---
-
 Fly Creek residents are now seeing more mud coming into the creek due to infrastructure failures. The Publix project started the damage by dumping tons of mud into the creek. Then came the fly creek apartments that no one wanted except Mayor Kant, Jack Burrell and the City Council. Now all the predictions are coming true AGAIN.
 
 [![](https://rippreport.com/wp-content/uploads/6ab19fe4-fly-creek-sign.jpg)](https://rippreport.com/wp-content/uploads/6ab19fe4-fly-creek-sign.jpg)

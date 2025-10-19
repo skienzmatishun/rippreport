@@ -1,18 +1,18 @@
 ---
-title: "HELLO CAN YOU HEAR ME NOW"
+title: HELLO CAN YOU HEAR ME NOW
 date: 2016-10-05
-thumbnail: "img/hello-can-you-hear-me-now.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - brewer
-  - conyers
-  - fly-creek
-  - planning-and-zoning
-authors: 
-  - ripp-report
+thumbnail: img/hello-can-you-hear-me-now.png
+categories:
+- wonderful-wednesday
+tags:
+- brewer
+- conyers
+- fly-creek
+- planning-and-zoning
+authors:
+- ripp-report
+alttags: "Cartoon face expressing surprise or disbelief, referencing a politician losing reelection after ignoring constituents"
 ---
-
 Jimmy Conyers steamed rolled incumbent Diana Brewer for a Fairhope City Council seat with 66% of the vote. Diana now joins Tim Kant, as the second person to lose their job because they refused to listen to their constituents, they will soon have company.
 
 People elected to office pledge one thing over and over in their election bids, “I will listen to you.”

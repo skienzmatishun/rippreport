@@ -1,13 +1,13 @@
 ---
-title: "Homeland Security’s Disinformation Governance Board"
+title: Homeland Security’s Disinformation Governance Board
 date: 2022-05-06
-thumbnail: "/img/homeland-securitys-disinformation-governance-board.jpg"
-categories: 
-  - backstory-podcast
-authors: 
-  - admin
+thumbnail: /img/homeland-securitys-disinformation-governance-board.jpg
+categories:
+- backstory-podcast
+authors:
+- admin
+alttags: "Graphic depicting Biden’s Ministry of Truth, referencing criticism of the Disinformation Governance Board. Fox News logo..."
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uxIJ9Kwc0ok" frameborder="0" allowfullscreen></iframe>
 
 Mobile Bay Magazine this week profiles the most endangered species in South Alabama. The Biden Administration has created the Department of Homeland Security’s Disinformation Governance Board (as dystopian and vague as possible) to the delight of the Trump crowd. This week, the typically liberal comedian Bill Maher skewered the Government for blowing our hard earned money that was supposed to go for Covid-19 relief.

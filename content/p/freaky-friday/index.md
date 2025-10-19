@@ -1,18 +1,18 @@
 ---
-title: "FREAKY FRIDAY"
+title: FREAKY FRIDAY
 date: 2016-09-09
-thumbnail: "img/freaky-friday.png"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-  - planning-and-zoning
-  - thomason
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/freaky-friday.png
+categories:
+- freaky-friday
+tags:
+- kant
+- planning-and-zoning
+- thomason
+- wilson
+authors:
+- ripp-report
+alttags: "Sad yellow smiley face emoji representing ongoing complaints against Baldwin County Family Court officials"
 ---
-
 Attention Baldwin County Legal Eagle fans that follow the Family Court issues in Baldwin County. There are multiple complains filed against a particular Judge that are pending as well as pending complaints against certain attorneys. We are refraining from details until we have responses to those complaints. We do wish to advise you that it is an active issue that we are addressing and it is not on a back burner.
 
 The Ripp Report wishes to congratulate John Lake on his persistence in counting and verifying the ballots in Daphne. The re-count did not change the outcome; however it did preserve the integrity of the election. Better to be sure than have lingering questions about the voting process. Daphne is a smaller town than Fairhope; however Fairhope had over 2000 more citizens’ vote, which resulted in the election of a new Mayor, Karen Wilson.

@@ -1,13 +1,13 @@
 ---
-title: "BALDWIN COUNTY UN-FAMILY COURT"
+title: BALDWIN COUNTY UN-FAMILY COURT
 date: 2021-08-03
-thumbnail: "img/baldwin-county-un-family-court.jpg"
-categories: 
-  - familycourt
-authors: 
-  - admin
+thumbnail: img/baldwin-county-un-family-court.jpg
+categories:
+- familycourt
+authors:
+- admin
+alttags: "Allegorical depiction of a figure resembling the Wicked Witch of the West holding scales, symbolizing complaints against B..."
 ---
-
 The below article is from 2018, since that date The Ripp Report has fielded at least another 100 to 150 complaints against Baldwin County Family Court and certain attorneys.
 
 The Ripp Report is accumulating “victims” of the court list. We are compiling an anonymous list where each complaint will be listed by a number, such as anonymous 1 and so on. No information will be shared without the expressed consent of the complainant. The purpose is to establish the extent of damage, emotional and financial, the so called Baldwin County Family Court, BCFC, has inflicted upon families, especially children.

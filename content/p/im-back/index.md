@@ -1,13 +1,13 @@
 ---
-title: "I'M BACK"
+title: I'M BACK
 date: 2018-08-22
-thumbnail: "img/im-back.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/im-back.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+alttags: "Bathroom interior; likely a recovery space after multiple surgeries related to Agent Orange exposure and recent shoulder i..."
 ---
-
 The Ripp Report is back. Sorry for missing a week but some old injuries caught up with me, I suffered a body concussion in Vietnam, 50 years ago, as a result I have had 14 surgeries, two infections, a muscle tear and my kidney removed, Agent Orange. My operation Dec. 2017, a total reverse shoulder, went well for 4 months, then I discovered slippage in the shoulder. July 20th I had surgery to correct that and discovered that the shoulder was infected. Now I am having to deal with recovery and daily infusions for a month. My other shoulder is scheduled for a total reverse Dec. of this year, providing all current conditions are cleared up. That is my excuse for missing last week posts, it is the first weeks posts that The Ripp Report has missed in several years. So I am back, not quite 100%, but getting better every week.
 
 Thank You for the kind regards and concerns.

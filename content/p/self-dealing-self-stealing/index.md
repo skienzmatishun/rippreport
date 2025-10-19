@@ -1,17 +1,17 @@
 ---
-title: "SELF-DEALING-SELF-STEALING"
+title: SELF-DEALING-SELF-STEALING
 date: 2021-07-09
-thumbnail: "img/self-dealing-self-stealing.png"
+thumbnail: img/self-dealing-self-stealing.png
 tags:
-  - Ethics Commission
-  - Albritton
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+- Ethics Commission
+- Albritton
+categories:
+- ethics
+- alabama
+authors:
+- admin
+alttags: "Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ..."
 ---
-
 The state of Alabama is number one in the nation for political corruption. The Alabama Ethics Commission is the main reason for our infamous reputation for corruption.
 
 The below article should be read by every citizen in Alabama. Stay silent, stay corrupt.

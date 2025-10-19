@@ -1,17 +1,17 @@
 ---
-title: "PUBLIC ACCESS"
+title: PUBLIC ACCESS
 date: 2018-05-11
-thumbnail: "img/public-access.png"
-categories: 
-  - freaky-friday
-tags: 
-  - chris-elliott
-  - tucker-dorsey
-  - zundel-road
-authors: 
-  - ripp-report
+thumbnail: img/public-access.png
+categories:
+- freaky-friday
+tags:
+- chris-elliott
+- tucker-dorsey
+- zundel-road
+authors:
+- ripp-report
+alttags: "Red graphic depicting a blocked public access point, referencing county officials’ actions and citizen response"
 ---
-
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/man-chainsaws-public-barricade-dumps-debris-in-county-office/article_02a8acb6-72ff-53c4-89ee-8f7ecad8d146.html" >}}

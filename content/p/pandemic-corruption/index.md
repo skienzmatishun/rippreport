@@ -1,15 +1,15 @@
 ---
-title: "PANDEMIC CORRUPTION"
+title: PANDEMIC CORRUPTION
 date: 2017-10-04
-thumbnail: "img/pandemic-corruption.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - ethics-commission
-authors: 
-  - ripp-report
+thumbnail: img/pandemic-corruption.jpg
+categories:
+- wonderful-wednesday
+tags:
+- ethics-commission
+authors:
+- ripp-report
+alttags: "Road sign pointing towards Corruption, illustrating the article’s claim about widespread corruption in Alabama leadership"
 ---
-
 WELCOME TO ALABAMA
 
 Don’t let anyone tell you Louisiana or Mississippi is more corrupt than Alabama. Alabama is first by a long shot. Corruption is a way of life and often involves “good people” that are considered leaders in the community and good Christians. Sometimes the corruption is so blatant it is hard to comprehend why no authorities step in. The local media is virtually non existent, the Ethics Commission lacks any credibility and other authorities seem to be asleep at the wheel.

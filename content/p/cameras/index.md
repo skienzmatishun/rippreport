@@ -1,16 +1,16 @@
 ---
-title: "CAMERAS"
+title: CAMERAS
 date: 2022-08-25
-categories: 
-  - BCSO
-  - Hoss Mack
-  - MCU
-  - OJ French
-thumbnail: "/img/cameras.jpg"
-authors: 
-  - admin
+categories:
+- BCSO
+- Hoss Mack
+- MCU
+- OJ French
+thumbnail: /img/cameras.jpg
+authors:
+- admin
+alttags: "Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology"
 ---
-
 Let me make one thing perfectly clear, I am pro police. Police are a necessary. Police are responsible to the public, they work for the public. What gives police a bad name are a few officers that think they must use lethal force, when it is not necessary. Firearm training for police teaches how to kill not wound and to many officers are to damn quick on the draw.
 
 Sheriff Hoss Mack requested $600,000.00 from the County Commission for cameras, body, vehicle and jail. His sales pitch was this would provide transparency and accountability for the public. Nothing could be further from the truth. The Sheriff Mack has made it a policy of NOT providing camera footage to the media or public.

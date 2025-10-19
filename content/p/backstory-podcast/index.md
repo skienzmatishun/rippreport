@@ -1,13 +1,13 @@
 ---
-title: "BACKSTORY PODCAST"
+title: BACKSTORY PODCAST
 date: 2019-09-06
-thumbnail: "img/backstory-podcast.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/backstory-podcast.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Backstory Podcast logo: a lamp shining light on text promoting Baldwin County political corruption investigation"
 ---
-
 [Backstory Podcast](https://www.facebook.com/BackstoryPodcast/) @BackstoryPodcast
 
 The Ripp Report is pleased to announce our new Podcast Facebook page and our first Podcast. Future Podcasts will focus on political corruption in Baldwin County, which is a target rich environment. We encourage you to participate in our effort to expose the good ole boy system that has been entrenched in Baldwin County since the first pecan tree was planted.

@@ -1,26 +1,26 @@
 ---
-title: "ONE WOMAN"
+title: ONE WOMAN
 date: 2019-04-19
-thumbnail: "img/one-woman.png"
-categories: 
-  - citycouncil
-tags: 
-  - beck
-  - burrell
-  - city-council
-  - conyers
-  - dinardi
-  - mcdowell
-  - mcsharry
-  - mcsharrys
-  - municipal-court
-  - robinson
-  - ronan
-  - wilson
-authors: 
-  - admin
+thumbnail: img/one-woman.png
+categories:
+- citycouncil
+tags:
+- beck
+- burrell
+- city-council
+- conyers
+- dinardi
+- mcdowell
+- mcsharry
+- mcsharrys
+- municipal-court
+- robinson
+- ronan
+- wilson
+authors:
+- admin
+alttags: "Fairhope Council: Scales of Justice symbolize alleged bullying and intimidation of the Mayor by council members"
 ---
-
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.
 
 Bulling, intimidation, and victimization are one in the same. Intimidation is a major weapon in the Baldwin County political and judicial arena and some “men” find women an easy target.

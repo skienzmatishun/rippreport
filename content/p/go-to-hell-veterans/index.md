@@ -1,33 +1,33 @@
 ---
-title: "GO TO HELL VETERANS"
+title: GO TO HELL VETERANS
 date: 2025-03-14
-thumbnail: "img/go-to-hell-veterans.png"
-categories: 
-  - ivy
-  - alabama
-tags: 
-  - Ivey
-  - Napoleon Bracy
-  - Chip Brown
-  - Barbara Drummond
-  - Brett Easterbrook
-  - Jennifer Fidler
-  - Donna Givens
-  - Frances Holk-Jones
-  - Chris Pringle
-  - Mark Shirely
-  - Matt Simpson
-  - Shane Stringer
-  - Margie Wilcox
-  - Veterans
-  - Alan Baker
-  - Gret Albritton
-  - Andrew Jones
-  - Ed Oliver
-authors: 
-  - ripp-report
+thumbnail: img/go-to-hell-veterans.png
+categories:
+- ivy
+- alabama
+tags:
+- Ivey
+- Napoleon Bracy
+- Chip Brown
+- Barbara Drummond
+- Brett Easterbrook
+- Jennifer Fidler
+- Donna Givens
+- Frances Holk-Jones
+- Chris Pringle
+- Mark Shirely
+- Matt Simpson
+- Shane Stringer
+- Margie Wilcox
+- Veterans
+- Alan Baker
+- Gret Albritton
+- Andrew Jones
+- Ed Oliver
+authors:
+- ripp-report
+alttags: "Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b..."
 ---
-
 It is official our Biden syndrome Governor aka mee ma has successfully got our elected officials to Cut the Throats of Alabama Veterans.
 
 

@@ -1,13 +1,13 @@
 ---
-title: "MEMORIAL DAY"
+title: MEMORIAL DAY
 date: 2018-05-28
-thumbnail: "img/memorial-day.jpg"
-categories: 
-  - monday-madness
-authors: 
-  - ripp-report
+thumbnail: img/memorial-day.jpg
+categories:
+- monday-madness
+authors:
+- ripp-report
+alttags: "Marines raising the American flag on Iwo Jima, honoring military service and sacrifice in remembrance of fallen soldiers l..."
 ---
-
 Memorial Day is an American holiday, observed on the last Monday of May, honoring the men and women who died while serving in the U.S. military.
 
 They died so you could live with rights afforded to you by the Constitution of the United States.

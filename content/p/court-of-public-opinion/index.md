@@ -1,17 +1,17 @@
 ---
-title: "COURT OF PUBLIC OPINION"
+title: COURT OF PUBLIC OPINION
 date: 2018-01-03
-thumbnail: "img/court-of-public-opinion.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - mega-site
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/court-of-public-opinion.png
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- mega-site
+- wilson
+authors:
+- ripp-report
+alttags: "Scales balance one side showing a thumbs up, the other a thumbs down, representing Baldwin County’s upcoming election choices"
 ---
-
 In 2017 The Ripp Report covered many different political issues in Baldwin County. Many of these issues will travel into 2018 and raise their ugly head again.
 
 Baldwin County has a mid term election coming up in Nov. 2018 and all four county commissioners are up for re election. They all need to be replaced, a clean sweep. Their last term saw no change in the white elephant, the mega site. The county has been saddled with a 32 million dollar debt that is being paid on the backs of county employees and taxpayers. It is time for a total change and four new commissioners.

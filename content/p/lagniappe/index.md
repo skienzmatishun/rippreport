@@ -1,13 +1,13 @@
 ---
-title: "LAGNIAPPE"
+title: LAGNIAPPE
 date: 2019-08-01
-thumbnail: "img/lagniappe.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/lagniappe.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+alttags: "Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep..."
 ---
-
 This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper. The Mobile paper has little to offer with more fluff stories than real investigative reporting. The Sunday Paper is $3.00, over $150.00 a year just for Sunday.
 
 Lagniappe recently set up a pay-wall for on line subscribers. Trouble is that all those people who were sharing and reading posts on line now have to pay or get a paper copy. The Ripp Report shares many articles from Lagniappe and since the pay wall has been in effect, many of our readers have complained that they cannot link onto the article.

@@ -1,13 +1,13 @@
 ---
-title: "FULL PLATE"
+title: FULL PLATE
 date: 2018-09-07
-thumbnail: "img/full-plate.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/full-plate.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Bowl of food on grass, possibly representing community discussions around repurposing the former K-1 school site in Fairhope"
 ---
-
 Fairhope always has some political drama going on but the plate is getting full.
 
 First is the K-1 school site, closed and sitting idle for years, has now become a hotbed of controversy.

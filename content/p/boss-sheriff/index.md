@@ -1,13 +1,13 @@
 ---
-title: "BOSS SHERIFF"
+title: BOSS SHERIFF
 date: 2023-09-09
-thumbnail: "img/boss-sheriff.jpg"
-categories: 
-  - bcso
-authors: 
-  - admin
+thumbnail: img/boss-sheriff.jpg
+categories:
+- bcso
+authors:
+- admin
+alttags: "Baldwin County Sheriff Hoss Mack in uniform, facing forward, related to concerns about his office’s actions"
 ---
-
 Wake up Baldwin County you have a serious problem with Baldwin Sheriff Office and Sheriff Hoss the “BOSS” Mack.
 
 Please read BCSO’s latest flex of muscle. The District Attorney takes orders from the “Boss”. Most of the Judges were put in office by the “Boss”.

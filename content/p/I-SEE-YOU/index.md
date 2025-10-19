@@ -1,18 +1,18 @@
 ---
-title: "I SEE YOU"
+title: I SEE YOU
 date: 2023-05-23
-thumbnail: "img/i-see-you.jpg"
+thumbnail: img/i-see-you.jpg
 tags:
-  - City Council
-  - Snedeker
-  - Utilities
-  - Infrastructure
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- City Council
+- Snedeker
+- Utilities
+- Infrastructure
+categories:
+- citycouncil
+authors:
+- admin
+alttags: "Fairhope city clock tower under surveillance cameras, symbolizing a council ignoring public input"
 ---
-
 The Fauxhope City Council agenda looks like business as usual. However a closer look just shows how the council is doing what THEY damn well want to do, without public discussion. Oh sure they have public participation for three minutes per person. Those who have follow the development elected council know the council is deaf when it comes to any public participation.
 
 

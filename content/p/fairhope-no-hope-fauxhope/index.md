@@ -1,19 +1,19 @@
 ---
-title: "FAIRHOPE — NO HOPE — FAUXHOPE"
+title: FAIRHOPE — NO HOPE — FAUXHOPE
 date: 2020-05-02
-thumbnail: "img/fairhope-no-hope-fauxhope.png"
-categories: 
-  - citycouncil
-tags: 
-  - chris-bell
-  - city-council
-  - kelly-wilson
-  - lynn-oldshue
-  - wilson
-authors: 
-  - admin
+thumbnail: img/fairhope-no-hope-fauxhope.png
+categories:
+- citycouncil
+tags:
+- chris-bell
+- city-council
+- kelly-wilson
+- lynn-oldshue
+- wilson
+authors:
+- admin
+alttags: "Silhouettes of families and glasses of wine amidst flowers; illustration representing Fairhope’s wealth gap explored in “A..."
 ---
-
 Sorry about no FREAKY FRIDAY, but after 6 weeks confinement and absolutely beautiful weather, I had to have a “beach fix” on Friday and it took all day.
 
 Every voting citizen in Fairhope should read the recent cover story in Lagniappe, A TALE OF TWO CITIES. It is a look at the other “side” of Fairhope — the gap between affluent and working poor.

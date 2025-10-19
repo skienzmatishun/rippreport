@@ -1,13 +1,13 @@
 ---
-title: "Fourth of July"
+title: Fourth of July
 date: 2017-06-30
-thumbnail: "img/4thofjuly.jpg"
-categories: 
-  - holiday
-authors: 
-  - ripp-report
+thumbnail: img/4thofjuly.jpg
+categories:
+- holiday
+authors:
+- ripp-report
+alttags: "Bald eagle taking flight near fireworks, symbolizing American independence and prompting questions about local governance"
 ---
-
 The Fourth of July is America's premier holiday. Reflect with friends and family on our country's great history and our unforgettable march toward independence as a nation.
 
 Be proud you are an American.

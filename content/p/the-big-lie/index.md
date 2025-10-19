@@ -1,16 +1,16 @@
 ---
-title: "THE BIG LIE"
+title: THE BIG LIE
 date: 2021-01-15
-thumbnail: "img/the-big-lie.png"
-categories: 
-  - freaky-friday
-tags: 
-  - the-big-lie
-  - vietnam
-authors: 
-  - admin
+thumbnail: img/the-big-lie.png
+categories:
+- freaky-friday
+tags:
+- the-big-lie
+- vietnam
+authors:
+- admin
+alttags: "Dejected yellow smiley face with a long nose symbolizing deception related to Vietnam War era political lies"
 ---
-
 Vietnam Veterans were lied to by our politicians. 1968 was the year Martin Luther King was assassinated. The same year Robert Kennedy was assassinated. In Vietnam the Tet Offensive and the battle of Khe Sanh claimed the lives of thousands of young men and women serving in our armed forces.
 
 The streets of cities across the nation were experiencing demonstrations, riots, looting and burning of draft cards. The United States was divided into two camps those against the war and those for the war.

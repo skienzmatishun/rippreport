@@ -1,18 +1,18 @@
 ---
-title: "INVITATION"
+title: INVITATION
 date: 2020-06-25
-thumbnail: "img/invitation.png"
-categories: 
-  - citycouncil
-tags: 
-  - city-council
-  - fairhope-pier
-  - fairhope-waterfront
-  - wilson
-authors: 
-  - admin
+thumbnail: img/invitation.png
+categories:
+- citycouncil
+tags:
+- city-council
+- fairhope-pier
+- fairhope-waterfront
+- wilson
+authors:
+- admin
+alttags: "Fairhope residents encouraged to provide feedback on Waterfront park project through public participation"
 ---
-
 Fairhope Mayor Wilson is inviting the citizens of Fairhope, again, to participate in the next upcoming presentation of the Waterfront project.
 
 “Wilson told citizens on June 18, 'We are going back to the drawing board and urging those who did not take part in the three month engagement process earlier this year to please participate.'”

@@ -1,18 +1,18 @@
 ---
-title: "HOLES"
+title: HOLES
 date: 2017-06-09
-thumbnail: "img/holes.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fly-creek
-  - robert-brown
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/holes.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fly-creek
+- robert-brown
+- wilson
+authors:
+- ripp-report
+alttags: "Shovel in freshly dug earth, symbolizing Fairhope’s controversial development projects and costly grading issues"
 ---
-
 Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The developers now want to locate apartments over the already damaged Fly Creek over the objections of the vast majority of Fairhope citizens.
 
 Fairhope soccer fields required months of grading and an estimated 1.5 million dollars to fill in one end of the property to seek a level grade. The total price tag for the complex is still not really known, somewhere between 5 and 6 million dollars.

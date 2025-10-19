@@ -1,15 +1,15 @@
 ---
-title: "ALABAMA NATIONAL NEWS"
+title: ALABAMA NATIONAL NEWS
 date: 2019-05-15
-thumbnail: "img/alabama-national-news.jpg"
-categories: 
-  - alabama
-tags: 
-  - alabama
-authors: 
-  - ripp-report
+thumbnail: img/alabama-national-news.jpg
+categories:
+- alabama
+tags:
+- alabama
+authors:
+- ripp-report
+alttags: "Map of Alabama marked as “Last Place” in education rankings, overlaid with a red ribbon"
 ---
-
 In today's National news, Alabama is capturing the headlines.
 
 First are the conditions of the Alabama Prison System.

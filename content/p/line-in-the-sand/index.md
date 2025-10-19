@@ -1,18 +1,18 @@
 ---
-title: "LINE IN THE SAND"
+title: LINE IN THE SAND
 date: 2022-07-24
-thumbnail: "img/line-in-the-sand.jpg"
+thumbnail: img/line-in-the-sand.jpg
 tags:
-  - Mabel Amos Trust
-  - Ethics Commission
-  - Alabama AG
-  - Albritton
-categories: 
-  - ethics
-authors: 
-  - admin
+- Mabel Amos Trust
+- Ethics Commission
+- Alabama AG
+- Albritton
+categories:
+- ethics
+authors:
+- admin
+alttags: "A single track in sand, symbolizing a trail of corruption stemming from misused charitable funds in Alabama"
 ---
-
 The Mabel Amos Charitable Trust was set up to help kids, who may have had the smarts, but not the money, to go to college, in Alabama. What started as a small well intended trust turned out to be a flush vehicle of greed and political corruption.
 
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/alabama-s-recipe-for-corruption/article_f4b4e13e-8e0d-541a-b6f8-ea506abb1b0b.html" >}}

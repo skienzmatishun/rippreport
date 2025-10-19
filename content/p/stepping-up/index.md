@@ -1,21 +1,21 @@
 ---
-title: "STEPPING UP"
+title: STEPPING UP
 date: 2019-01-30
-thumbnail: "img/stepping-up.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - bp
-  - daphne
-  - elliott
-  - gas-tax
-  - haygood
-  - kennon
-  - orange-beach
-authors: 
-  - ripp-report
+thumbnail: img/stepping-up.jpg
+categories:
+- wonderful-wednesday
+tags:
+- bp
+- daphne
+- elliott
+- gas-tax
+- haygood
+- kennon
+- orange-beach
+authors:
+- ripp-report
+alttags: "Fairhope Municipal Pier fountain: a view highlighting the city’s positive financial outlook in The Ripp Reports 2019 Stat..."
 ---
-
 I do not want the Ripp Report readers thinking I am getting soft for complimenting some of the Baldwin County Mayors, but they deserve it. Fairhope definitely is on the right track and may be debt free by 2020.
 
 ## STATE OF THE CITY – 2019

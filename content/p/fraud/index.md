@@ -1,17 +1,16 @@
 ---
-title: "FRAUD"
+title: FRAUD
 date: 2016-07-15
-thumbnail: "img/fraud.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-  - triangle
-authors: 
-  - ripp-report
+thumbnail: img/fraud.jpg
+categories:
+- freaky-friday
+tags:
+- kant
+- triangle
+authors:
+- ripp-report
+alttags: "U.S. currency lies atop an American flag, symbolizing potential fraud and deceit related to legal disputes"
 ---
-
-
 Webster’s Dictionary's definition of fraud reads: "Deceit; trickery; cheating, intentional deception to cause a person to give up property or some lawful right. Something said to deceive; trick; artifice. A person who deceives or is not what he pretends to be; imposter; cheat."
 
 Mayor Tim F. Kant fits this definition to a tee; in fact the city has been sued for fraud numerous times.

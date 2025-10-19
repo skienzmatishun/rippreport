@@ -1,18 +1,17 @@
 ---
-title: "YOU WIN SOME YOU LOSE SOME"
+title: YOU WIN SOME YOU LOSE SOME
 date: 2018-11-07
-thumbnail: "img/you-win-some-you-lose-some.jpg"
+thumbnail: img/you-win-some-you-lose-some.jpg
 tags:
-  - Elections
-  - City Council
-  - Catalyst
-categories: 
-  - elections
-authors: 
-  - ripp-report
+- Elections
+- City Council
+- Catalyst
+categories:
+- elections
+authors:
+- ripp-report
+alttags: "Two hands: one giving a thumbs up labeled win some, the other a thumbs down labeled lose some, reflecting political ma..."
 ---
-
-
 {{< socialpreview url="https://rippreport.com/p/skunked/" >}}
 
 When the Ripp Report first saw the effort of Fresh Start Fairhope and how they had successfully filed a petition with 800 names, for a change of government, the Fairhope City Council came to mind immediately. I could not figure out what the hell was going on.

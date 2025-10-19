@@ -1,18 +1,18 @@
 ---
-title: "GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY"
+title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
 date: 2018-07-11
-thumbnail: "img/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - chris-elliott
-  - david-northcutt
-  - doug-jones
-  - jeff-boyd
-authors: 
-  - ripp-report
+thumbnail: img/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county.jpg
+categories:
+- wonderful-wednesday
+tags:
+- chris-elliott
+- david-northcutt
+- doug-jones
+- jeff-boyd
+authors:
+- ripp-report
+alttags: "Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid development discussed in the article"
 ---
-
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey,
 
 Fully support maximum development without regards to infrastructure. They mask the “bridges” as infrastructure, when in fact it will only facilitate further congestion and more development. Mayor’s Craft and Kennon have the City Council’s in lockstep with their every decision and NO is a word not allowed when speaking of development.

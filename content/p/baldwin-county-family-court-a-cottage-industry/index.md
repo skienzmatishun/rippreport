@@ -1,15 +1,15 @@
 ---
-title: "BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY"
+title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
 date: 2016-10-28
-thumbnail: "img/baldwin-county-family-court-a-cottage-industry.jpg"
-categories: 
-  - familycourt
-tags: 
-  - thomason
-authors: 
-  - ripp-report
+thumbnail: img/baldwin-county-family-court-a-cottage-industry.jpg
+categories:
+- familycourt
+tags:
+- thomason
+authors:
+- ripp-report
+alttags: "Family silhouettes holding hands, representing custody disputes and hardships within family court proceedings"
 ---
-
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree.
 
 They were so plentiful and consistent that it was obvious to anyone that the good Judges' court was a malfunction junction in the legal system. Her 50/50 decisions on custody were an easy way out of tough decisions and caused many a family unnecessary hardships. Thomason has had as many as 6 complaints filed against her in the last 18 months; all were dismissed by the Judiciary. Guess they were busy with Judge Roy Moore.

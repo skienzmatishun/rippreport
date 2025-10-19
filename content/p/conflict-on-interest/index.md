@@ -1,15 +1,15 @@
 ---
-title: "CONFLICT OF INTEREST"
+title: CONFLICT OF INTEREST
 date: 2019-11-09
-thumbnail: "img/conflict-of-interest.jpg"
-youtube: "VWq-Nax1IkA"
-categories: 
-  - freaky-friday
-  - podcast
-authors: 
-  - admin
+thumbnail: img/conflict-of-interest.jpg
+youtube: VWq-Nax1IkA
+categories:
+- freaky-friday
+- podcast
+authors:
+- admin
+alttags: "Gavel resting on a sign reading Conflict of Interest, illustrating concerns about a judges role in approving a Fairhope..."
 ---
-
 The question is: How can a city council approve the largest development in Fairhope when the Municipal Judge is the developer, that the same council appointed Judge? “Who on the council has a vested personal interest in this project”.
 
 ## The Ripp Report Nov.8 2019 Backstory Production

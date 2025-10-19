@@ -1,19 +1,19 @@
 ---
-title: "NEW YEAR NEW PROBLEMS"
+title: NEW YEAR NEW PROBLEMS
 date: 2018-01-12
-thumbnail: "img/new-year-new-problems.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-  - conyers
-  - robinson
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/new-year-new-problems.jpg
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+- conyers
+- robinson
+- wilson
+authors:
+- ripp-report
+alttags: "Festive fireworks behind Happy 2018, reflecting Fairhopes hope for change amid political conflict"
 ---
-
 Fairhope entered the new year hoping there would be change and cooperation among the City Council and the Mayor. The City Council has wasted an entire year trying to obstruct the newly elected Mayor and her administration. They are now faced with the city council president being sued for preventing free speech.
 
 {{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}

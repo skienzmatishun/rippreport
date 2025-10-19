@@ -1,13 +1,13 @@
 ---
-title: "PEOPLE POWER - WAKE UP GULF SHORES"
+title: PEOPLE POWER - WAKE UP GULF SHORES
 date: 2018-10-28
-thumbnail: "img/people-power-wake-up-gulf-shores.jpg"
-categories: 
-  - sunday-sunrise
-authors: 
-  - ripp-report
+thumbnail: img/people-power-wake-up-gulf-shores.jpg
+categories:
+- sunday-sunrise
+authors:
+- ripp-report
+alttags: "Urgent: Red alarm clock rings, symbolizing last chance to oppose Regency Place Apartments development at Gulf Shores City ..."
 ---
-
 ## BREAKING NEWS.....
 
 Gulf Shores City Council to Hear Appeal of Planning Commission's Decision to Approve Regency Place Apartments Site Plan Application

@@ -1,13 +1,13 @@
 ---
-title: "THREESOME"
+title: THREESOME
 date: 2022-02-25
-thumbnail: "img/threesome.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/threesome.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor"
 ---
-
 Baldwin County has 14 municipalities and at any given time several are embroiled in some sort of corruption, that they are pulling a blanket over. It truly is amazing how elected officials use the legal system to wash their dirty laundry.
 
 SPANISH FORT:

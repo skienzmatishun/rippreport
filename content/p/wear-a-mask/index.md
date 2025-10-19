@@ -1,15 +1,15 @@
 ---
-title: "WEAR A MASK"
+title: WEAR A MASK
 date: 2020-07-08
-thumbnail: "img/wear-a-mask.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - covid-19
-authors: 
-  - admin
+thumbnail: img/wear-a-mask.jpg
+categories:
+- wonderful-wednesday
+tags:
+- covid-19
+authors:
+- admin
+alttags: "Medical professionals in masks work under bright lights, illustrating concerns about public health safety and responsibili..."
 ---
-
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/stop-being-selfish/article_ec890f30-e390-5d2c-b8ee-4b10b95cbe5e.html" >}}
 
 To the editor:

@@ -1,15 +1,15 @@
 ---
-title: "SCRATCH MY BACK, I SCRATCH YOURS"
+title: SCRATCH MY BACK, I SCRATCH YOURS
 date: 2017-07-28
-thumbnail: "img/scratch-my-back-i-scratch-yours.jpg"
-categories: 
-  - citycouncil
-tags: 
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/scratch-my-back-i-scratch-yours.jpg
+categories:
+- citycouncil
+tags:
+- pittman
+authors:
+- ripp-report
+alttags: "Two monkeys grooming each other, symbolizing divisive behavior and uncivil discourse in the Senate race discussion"
 ---
-
 SENATE RACE:
 
 Before we get into the ugliness of the Senate race, let me address the ugliness of some comments we have been receiving. Some comments are just ignorant but the name calling, senseless rambling about allegations without any facts and violent references to elected officials and their families, will not be tolerated. These comments however do represent the vile nature of the author. It is also a classic example of how some people in Fairhope are convinced they are entitled, and the rest of us are carpetbaggers and Yankees. Please do not act like an idiot or your comments will be deleted.

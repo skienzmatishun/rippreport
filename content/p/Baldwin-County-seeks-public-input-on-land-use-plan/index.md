@@ -1,13 +1,13 @@
 ---
-title: "Baldwin County seeks public input on land use plan - Lagniappe"
+title: Baldwin County seeks public input on land use plan - Lagniappe
 date: 2022-01-13
-thumbnail: "img/baldwin-county-seeks-public-input-on-land-use-plan-lagniappe.jpg"
-categories: 
-  - Special-Report
-authors: 
-  - admin
+thumbnail: img/baldwin-county-seeks-public-input-on-land-use-plan-lagniappe.jpg
+categories:
+- Special-Report
+authors:
+- admin
+alttags: "Baldwin County seeks public input on land use planning; megaphone graphic represents outreach efforts"
 ---
-
 ### Baldwin County Seeks Public Input on Land Use Plan
 
 According to a news release today, the Baldwin County Commission’s Planning and Zoning Department, along with consultants from Design Workshop, will kick off countywide long-range land use planning process this month, and will hold a series of related public meetings.The process will be used to update the existing land use plan and is only for zoned areas of the county. Land use plans are required by law in Baldwin County.

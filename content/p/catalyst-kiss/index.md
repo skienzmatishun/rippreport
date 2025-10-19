@@ -1,13 +1,13 @@
 ---
-title: "CATALYST KISS"
+title: CATALYST KISS
 date: 2020-02-12
-thumbnail: "img/catalyst-kiss.jpg"
-categories: 
-  - elections
-authors: 
-  - admin
+thumbnail: img/catalyst-kiss.jpg
+categories:
+- elections
+authors:
+- admin
+alttags: "Fairhope City Council President Burrell (left) and another councilman, posing for a photo"
 ---
-
 The last Monday night Fairhope City Council meeting and the work session were unnecessary long. Many people have begun to watch the council meeting in their homes, on Youtube. It is convenient and you can moot the council president, when you wish.
 
 Council President Burrell has occupied his position for 7 plus years, never sharing the gavel with other councilman. He has to have control and he never, ever, ever, shuts up, except when you ask him about his Police Report, then he gets real quiet.

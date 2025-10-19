@@ -1,17 +1,17 @@
 ---
-title: "BONUS MONEY"
+title: BONUS MONEY
 date: 2017-10-25
-thumbnail: "img/bonus-money.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - burrell
-  - chucky
-  - fairhope-airport
-authors: 
-  - ripp-report
+thumbnail: img/bonus-money.jpg
+categories:
+- wonderful-wednesday
+tags:
+- burrell
+- chucky
+- fairhope-airport
+authors:
+- ripp-report
+alttags: "Hand receiving a bag labeled with a dollar sign, symbolizing alleged corruption at Fairhope Airport discussed in this article"
 ---
-
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport. WRONG First off Chucky keeps calling me a blogger and ignoring that The Ripp Report has been around for over ten years and is a non profit corporation, consumer watchdog organization. But what the hell if I call him Chucky Cheeze he can call me a blogger.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/alabama-ethics-commission-dismisses-complaints-involving-fairhope-airport-authority,54546" >}}

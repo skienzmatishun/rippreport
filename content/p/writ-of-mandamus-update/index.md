@@ -1,18 +1,18 @@
 ---
 title: "WRIT OF MANDAMUS: UPDATE"
 date: 2021-10-26
-thumbnail: "img/writ-of-mandamus-update.jpg"
+thumbnail: img/writ-of-mandamus-update.jpg
 tags:
-  - Ethics Commission
-  - Regions Bank
-  - Albritton
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+- Ethics Commission
+- Regions Bank
+- Albritton
+categories:
+- ethics
+- alabama
+authors:
+- admin
+alttags: "Crash test dummy head with painted markings, symbolizing legal scrutiny and a status review hearing in Ripp Report case"
 ---
-
 The Ripp Report is a consumer organization first. We also maintain a blog site, Facebook pages and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 
 On Monday the 25th of November, Judge Johnny Hardwick, Circuit Judge, Montgomery County, will hear a STATUS REVIEW on all pending motions, relative to the Writ of Mandamus, I, Francis Paul Ripp, filed October 18th.

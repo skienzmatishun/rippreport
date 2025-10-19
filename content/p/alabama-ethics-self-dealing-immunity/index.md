@@ -1,14 +1,14 @@
 ---
-title: "ALABAMA ETHICS → SELF DEALING → IMMUNITY"
+title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
 date: 2021-07-02
-thumbnail: "img/alabama-ethics-self-dealing-immunity.png"
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+thumbnail: img/alabama-ethics-self-dealing-immunity.png
+categories:
+- ethics
+- alabama
+authors:
+- admin
+alttags: "Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct..."
 ---
-
 Alabama Ethics Commission is an organization that doles out immunity from prosecution to politicians seeking legal graft.
 
 The Ripp Report has filed numerous complaints with the Ethics commission in the last dozen years. Complaints ranging from the BP Oil Spill and our, last State Senator, boom boom Pittman, who skimmed a cool $750.000.00 for his personal company, while being the trustee of the funds. Pittman’s Bible buddy, Jack Burrell, and the lawyers and judges, who all were involved with the “alleged” bid-rigging at the Fairhope, “Jack Burrell Airport.” Former councilman Robert Brown who at the same time was on the Fairhope Art Center board, awarded himself a 300,000 plus contract. The Ethics Commission found nothing wrong, everyone just collected his money and kept on trucking.

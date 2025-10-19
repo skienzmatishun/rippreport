@@ -1,13 +1,13 @@
 ---
-title: "DELIBERATE DISTORTION OR TWISTING OF MEANING"
+title: DELIBERATE DISTORTION OR TWISTING OF MEANING
 date: 2019-06-14
-thumbnail: "img/deliberate-distortion-or-twisting-of-meaning.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/deliberate-distortion-or-twisting-of-meaning.png
+categories:
+- freaky-friday
+authors:
+- admin
+alttags: "Fork in the road graphic representing Fairhope City Council’s decision on property management transfer to Weeks Bay"
 ---
-
 The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. True they also have no lease or title to the land.
 
 The city is simply “disposing” of the property and any control of the property. The City would be signing over management and control for perpetuity to Weeks Bay. That’s forever baby!

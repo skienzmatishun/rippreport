@@ -1,14 +1,14 @@
 ---
-title: "PAY OFF AND ELECTION FRAUD"
+title: PAY OFF AND ELECTION FRAUD
 date: 2016-08-09
-thumbnail: "img/pay-off-and-election-fraud.jpg"
-tags: 
-  - bobby-faust
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/pay-off-and-election-fraud.jpg
+tags:
+- bobby-faust
+- kant
+authors:
+- ripp-report
+alttags: "Suitcase filled with US currency, potentially representing financial interests influencing a land dispute case involving M..."
 ---
-
 KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC
 
 Why did a judge suddenly seal a case against the City of Fairhope after details of the case were made public?

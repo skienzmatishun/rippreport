@@ -1,20 +1,20 @@
 ---
-title: "HOWLING RAINS"
+title: HOWLING RAINS
 date: 2020-07-06
-thumbnail: "img/howling-rains.png"
-categories: 
-  - monday-madness
-tags: 
-  - catalyst
-  - chuckee
-  - covid-19
-  - election
-  - fairhope-pier
-  - raines
-authors: 
-  - admin
+thumbnail: img/howling-rains.png
+categories:
+- monday-madness
+tags:
+- catalyst
+- chuckee
+- covid-19
+- election
+- fairhope-pier
+- raines
+authors:
+- admin
+alttags: "Illustration depicting a wolf howling under a rainstorm, obscured by a “Catalyst” prohibition sign, referencing Baldwin Co..."
 ---
-
 Be sure to read the New York Times Article, the last link on this article.
 
 Baldwin County has seen its share of political commentary from Baldwin Insider, The Jester and the Infamous “Chuckie Cheeze” who quite appropriately now works as Aid De Camp for the Baldwin County legislative delegation.
