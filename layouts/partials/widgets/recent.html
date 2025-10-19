@@ -58,13 +58,13 @@
                           {{ partial "image-url.html" (dict "path" $thumbnail "width" 336 "quality" 85 "onerror" "redirect") }} 336w,
                           {{ partial "image-url.html" (dict "path" $thumbnail "width" 450 "quality" 85 "onerror" "redirect") }} 450w"
                   sizes="(max-width: 480px) 250px, (max-width: 768px) 336px, 450px"
-                  alt="{{ $page.Title }}" 
+                  alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }}{{ else }}{{ $page.Title }}{{ end }}" 
                   class="widget__thumbnail-image">
                 {{- if $animatedSrc }}
                   <img
                     class="widget__animated"
                     data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 336 "onerror" "redirect" "bypass_cf" true) }}"
-                    alt="{{ $page.Title }} - Animated"
+                    alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }} - Animated{{ else }}{{ $page.Title }} - Animated{{ end }}"
                     width="336px"
                     height="174px"
                   >

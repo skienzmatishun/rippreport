@@ -85,7 +85,7 @@
                         {{ partial "image-url.html" (dict "path" $thumbnail "width" 750 "quality" 85) }} 750w,
                         {{ partial "image-url.html" (dict "path" $thumbnail "width" 1000 "quality" 85) }} 1000w"
                 sizes="(max-width: 480px) 400px, (max-width: 768px) 600px, (max-width: 1024px) 750px, 1000px"
-                alt="{{ $page.Title }}"
+                alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }}{{ else }}{{ $page.Title }}{{ end }}"
                 {{- if and (eq $class "list") (gt $index 0) }}
                 loading="lazy"
                 {{- else if or (eq $class "post") (and (eq $class "list") (eq $index 0)) }}
@@ -100,7 +100,7 @@
   data-src="{{ $animatedSrc | absURL }}"
   data-srcset="{{ $basePath }}_412.webp 412w, {{ $basePath }}_760.webp 760w, {{ $basePath }}_1200.webp 1200w"
   sizes="(max-width: 480px) 412px, (max-width: 768px) 760px, 1200px"
-  alt="{{ $page.Title }} - animated"
+  alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }} - animated{{ else }}{{ $page.Title }} - animated{{ end }}"
   loading="lazy" />
             {{- end }}
             </div>
