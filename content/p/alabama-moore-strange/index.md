@@ -8,7 +8,48 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: "Three monkey figurines representing see no evil, hear no evil, and speak no evil, reflecting difficult political cho..."
+alttags: Three monkey figurines representing see no evil, hear no evil, and speak no evil, reflecting difficult political cho...
+related_articles:
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 95
+  rank: 1
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 85
+  rank: 2
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 78
+  rank: 3
+- slug: black-hole
+  title: BLACK HOLE
+  score: 75
+  rank: 4
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 75
+  rank: 5
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 75
+  rank: 6
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 75
+  rank: 7
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 65
+  rank: 8
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 65
+  rank: 9
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 55
+  rank: 10
 ---
 Many thought that the Trump/Clinton campaign left little choice as two polarizing candidates split the political parties and beliefs. The Independents eroded the voting pool even further.
 

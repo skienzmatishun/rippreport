@@ -6,7 +6,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Gold medal with a number one, symbolizing Alabama’s ranking as first in political corruption"
+alttags: Gold medal with a number one, symbolizing Alabama’s ranking as first in political corruption
+related_articles:
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 95
+  rank: 1
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 95
+  rank: 2
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 85
+  rank: 3
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 85
+  rank: 4
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 8
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 82
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 78
+  rank: 10
 ---
 You want to know why Alabama is first in political corruption and last in education? CORRUPTION,
 

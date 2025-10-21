@@ -8,7 +8,48 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: "A playing card floats above a magician’s hat, symbolizing misleading promises and empty development claims in Baldwin County"
+alttags: A playing card floats above a magician’s hat, symbolizing misleading promises and empty development claims in Baldwin County
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 1
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 85
+  rank: 2
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 3
+- slug: flying-high
+  title: FLYING HIGH
+  score: 85
+  rank: 4
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 5
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 6
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 85
+  rank: 7
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 8
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 9
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 75
+  rank: 10
 ---
 The Baldwin County Mega-Site and the Fairhope Airport Authority have a lot in common. They both are all smoke and mirrors. The Representative of each will give all kinds of useless data and tell you how Baldwin is the fastest growing county in Alabama and opportunity is right around the corner.
 

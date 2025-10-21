@@ -16,7 +16,48 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: "Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections"
+alttags: Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections
+related_articles:
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 78
+  rank: 1
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 78
+  rank: 2
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 75
+  rank: 3
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 58
+  rank: 4
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 58
+  rank: 5
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 58
+  rank: 6
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 55
+  rank: 7
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 45
+  rank: 8
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 35
+  rank: 9
+- slug: black-hole
+  title: BLACK HOLE
+  score: 35
+  rank: 10
 ---
 January 6th will go down in history for several reasons:
 

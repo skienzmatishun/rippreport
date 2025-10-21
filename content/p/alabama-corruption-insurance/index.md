@@ -10,7 +10,48 @@ tags:
 - columbia
 authors:
 - admin
-alttags: "Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti..."
+alttags: Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti...
+related_articles:
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 95
+  rank: 1
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 92
+  rank: 2
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 85
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 85
+  rank: 6
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 7
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 82
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 78
+  rank: 9
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 78
+  rank: 10
 ---
 Why is Alabama so corrupt?
 

@@ -6,7 +6,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th..."
+alttags: An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th...
+related_articles:
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 95
+  rank: 1
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 92
+  rank: 2
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 85
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 4
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 5
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 6
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 85
+  rank: 7
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 82
+  rank: 8
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 78
+  rank: 9
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 78
+  rank: 10
 ---
 Alabama is a beautiful state, with a very ugly side, white collar crime, aka political corruption. The corruption flourishes due to oversight agencies aiding and abetting the corruption by not doing their job. Accountability, ethics and rule of law have been abandoned by the Ethics Commission, Judiciary, Bar Association and the ever silent Attorney General.
 

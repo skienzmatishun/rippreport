@@ -7,7 +7,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Councilman Jack Burrell depicted with a long nose, suggesting insincerity regarding Fauxhope sewer upgrades"
+alttags: Councilman Jack Burrell depicted with a long nose, suggesting insincerity regarding Fauxhope sewer upgrades
+related_articles:
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 92
+  rank: 1
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 2
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 85
+  rank: 3
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 85
+  rank: 4
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 85
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 6
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 85
+  rank: 7
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 82
+  rank: 8
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 82
+  rank: 9
+- slug: jack-ass
+  title: JACK ASS
+  score: 78
+  rank: 10
 ---
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.
 

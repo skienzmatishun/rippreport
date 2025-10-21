@@ -7,7 +7,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct..."
+alttags: Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct...
+related_articles:
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 95
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 92
+  rank: 2
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 92
+  rank: 3
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 92
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 5
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 6
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 85
+  rank: 7
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 82
+  rank: 8
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 82
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 78
+  rank: 10
 ---
 Alabama Ethics Commission is an organization that doles out immunity from prosecution to politicians seeking legal graft.
 

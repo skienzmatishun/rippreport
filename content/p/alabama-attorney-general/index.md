@@ -9,7 +9,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values"
+alttags: Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values
+related_articles:
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 100
+  rank: 1
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 85
+  rank: 2
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 3
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 85
+  rank: 4
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 85
+  rank: 5
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 85
+  rank: 6
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 85
+  rank: 7
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 8
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 9
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 10
 ---
 Reference: Mabel Amos Trust
 

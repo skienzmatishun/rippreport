@@ -12,7 +12,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Ethics complaints against Fairhope officials prompt investigation; sign points toward Right versus Wrong."
+alttags: Ethics complaints against Fairhope officials prompt investigation; sign points toward Right versus Wrong.
+related_articles:
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 92
+  rank: 1
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 92
+  rank: 2
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 85
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 4
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 85
+  rank: 5
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 85
+  rank: 6
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 7
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 85
+  rank: 8
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 85
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 82
+  rank: 10
 ---
 In Fairhope, “come fly with me” Jack Burrell is facing ethics complaints as well as Fairhope Airport Authority board member Ray Hix, Fairhope Municipal Judge Snedeker’s partner. The airport authority authorized hiring an attorney to investigate those who filed the complaint. The city council has turned a blind eye to any facts or ethical violations refusing to conduct any internal investigation, despite compelling evidence of wrong doing. Instead the council members have issued false statements, “The ethics commission complaints against Airport board members have been ruled baseless.” Frequent flier Jack has been assured that if his bible buddy Pittman can get away with ethics violations, he should be able to as well.
 

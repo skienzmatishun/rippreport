@@ -1,5 +1,5 @@
 ---
-title: "ALABAMA SEC. OF STATE: THE ONLY ONE"
+title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
 date: 2018-04-11
 thumbnail: img/alabama-sec-of-state-the-only-one.jpg
 categories:
@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "John Merrill; one of few who acted on election tampering complaints, amid ongoing judiciary inaction"
+alttags: John Merrill; one of few who acted on election tampering complaints, amid ongoing judiciary inaction
+related_articles:
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 1
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 78
+  rank: 2
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 78
+  rank: 3
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 75
+  rank: 4
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 72
+  rank: 5
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 62
+  rank: 6
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 58
+  rank: 7
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 58
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 58
+  rank: 9
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 58
+  rank: 10
 ---
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!
 

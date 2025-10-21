@@ -6,7 +6,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics"
+alttags: Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics
+related_articles:
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 95
+  rank: 1
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 85
+  rank: 2
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 82
+  rank: 3
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 82
+  rank: 4
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 78
+  rank: 5
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 78
+  rank: 6
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 78
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 78
+  rank: 8
+- slug: black-hole
+  title: BLACK HOLE
+  score: 75
+  rank: 9
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 35
+  rank: 10
 ---
 The Attorney General of Alabama, Steve Marshall is doing the Alabama Shuffle. It is easy he just mentions key words like Biden, Abortion, Immigration or files frivolous lawsuits. That is all it takes to sidetrack his constituents. Marshall may go down as the worst Alabama A.G. “Always Gone” in the last 25 years.
 
