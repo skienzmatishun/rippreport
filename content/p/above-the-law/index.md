@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Great blue heron perched atop a No Fishing sign, symbolizing unanswered legal complaints in Alabama"
+alttags: Great blue heron perched atop a No Fishing sign, symbolizing unanswered legal complaints in Alabama
+related_articles:
+- slug: exposure
+  title: EXPOSURE
+  score: 85
+  rank: 1
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 82
+  rank: 2
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 78
+  rank: 3
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 78
+  rank: 4
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 75
+  rank: 5
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 75
+  rank: 6
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 72
+  rank: 7
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 65
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 62
+  rank: 9
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 58
+  rank: 10
 ---
 The Ripp Report made a complaint against Steven Patrick Johnson to the Alabama State Bar, CSP NO. 2016-296. On March 17, 2016 they responded “Two attorneys in the Office of the General Council of the Alabama State Bar have reviewed your complaint and the attorney’s response to the complaint. In view of the nature and content of the complaint and the response of the attorney, we will take no further action in this matter.” Of course we are not privileged to the response of the attorney.
 

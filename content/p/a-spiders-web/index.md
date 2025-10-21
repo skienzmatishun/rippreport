@@ -13,7 +13,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Complex web of interconnected LLCs, symbolizing hidden connections and obscured ownership within Baldwin County politics"
+alttags: Complex web of interconnected LLCs, symbolizing hidden connections and obscured ownership within Baldwin County politics
+related_articles:
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 2
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 85
+  rank: 3
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 85
+  rank: 4
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 82
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 82
+  rank: 6
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 78
+  rank: 7
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 78
+  rank: 8
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 78
+  rank: 9
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 78
+  rank: 10
 ---
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as city council members and county commissioners hide their business and personal connections to these LLC’S. By doing this, they are able to vote and promote their own interests without being discovered. Or so they thought.
 

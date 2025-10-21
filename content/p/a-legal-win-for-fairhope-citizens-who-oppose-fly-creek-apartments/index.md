@@ -10,7 +10,48 @@ tags:
 - planning-and-zoning
 authors:
 - ripp-report
-alttags: "Gavel and legal documents represent a lawsuit filed against Fairhope Planning and Zoning over development decisions"
+alttags: Gavel and legal documents represent a lawsuit filed against Fairhope Planning and Zoning over development decisions
+related_articles:
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 85
+  rank: 1
+- slug: fairness
+  title: FAIRNESS
+  score: 85
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 85
+  rank: 3
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 85
+  rank: 5
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 85
+  rank: 6
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 82
+  rank: 7
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 78
+  rank: 8
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 78
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 10
 ---
 In June of this year, the Planning and Zoning Board expressed their frustration with citizens of Fairhope who defend themselves by legal means. Friends of Fly Creek, Plaintiffs — and certainly friends of the public, brought a lawsuit against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River group LLC, Defendants. The Defendants in turn moved to dismiss the lawsuit all together. Planning and Zoning doubled down on their decision, calling the lawsuit "frivolous."
 
