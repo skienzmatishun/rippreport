@@ -28,3 +28,4 @@ link_audit/*
 archive_link_verifier/*
 *.log
 recent_placement/*
+audit/*

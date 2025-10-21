@@ -1,5 +1,5 @@
 ---
-title: "As long as I count the Votes, what are you going to do about it?"
+title: As long as I count the Votes, what are you going to do about it?
 date: 2016-08-05
 thumbnail: img/as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it.jpg
 categories:
@@ -8,7 +8,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "Eyeglasses resting on a document, symbolizing poll watcher observations and concerns about election integrity"
+alttags: Eyeglasses resting on a document, symbolizing poll watcher observations and concerns about election integrity
+related_articles:
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 85
+  rank: 1
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 85
+  rank: 2
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 85
+  rank: 3
+- slug: vote
+  title: VOTE
+  score: 85
+  rank: 4
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 82
+  rank: 5
+- slug: blind-voting-straight-ticket
+  title: BLIND VOTING STRAIGHT TICKET
+  score: 78
+  rank: 6
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 78
+  rank: 7
+- slug: election-ad
+  title: ELECTION AD
+  score: 75
+  rank: 8
+- slug: game-on
+  title: GAME ON
+  score: 75
+  rank: 9
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 58
+  rank: 10
 ---
 STOPVOTERFRAUDNOW.COM
 

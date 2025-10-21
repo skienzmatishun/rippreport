@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Skull wearing a jester’s hat, symbolizing April Fool’s Day disregard for serious health concerns in Alabama"
+alttags: Skull wearing a jester’s hat, symbolizing April Fool’s Day disregard for serious health concerns in Alabama
+related_articles:
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 82
+  rank: 1
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 78
+  rank: 2
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 78
+  rank: 3
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 78
+  rank: 4
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 75
+  rank: 5
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 58
+  rank: 6
+- slug: easter-2024
+  title: HAPPY EASTER
+  score: 58
+  rank: 7
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 58
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 45
+  rank: 9
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 45
+  rank: 10
 ---
 The month of April starts out with a day for fools, APRIL FOOL’S DAY. In Alabama some citizens are participating a 100%, at the potential risk of others.
 
