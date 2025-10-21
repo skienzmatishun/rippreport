@@ -8,7 +8,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Letterbox with U.S. Mail marking, symbolizing complaints submitted to Steve Marshall’s office regarding ethics commissio..."
+alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to Steve Marshall’s office regarding ethics commissio...
+related_articles:
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 98
+  rank: 1
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 92
+  rank: 2
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 92
+  rank: 3
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 4
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 85
+  rank: 5
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 85
+  rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 8
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 78
+  rank: 10
 ---
 ### Mr Steve Marshall
 

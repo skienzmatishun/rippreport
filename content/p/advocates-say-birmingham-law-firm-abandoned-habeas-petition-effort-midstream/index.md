@@ -1,13 +1,53 @@
 ---
-title: "Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream"
+title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
 date: 2025-08-19
-thumbnail: "img/innocent.jpg"
-categories: 
-  - dwtd
-authors: 
-  - nancy-koerner
+thumbnail: img/innocent.jpg
+categories:
+- dwtd
+authors:
+- nancy-koerner
+related_articles:
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 92
+  rank: 1
+- slug: rule-32
+  title: RULE 32
+  score: 85
+  rank: 2
+- slug: innocent
+  title: INNOCENT
+  score: 85
+  rank: 3
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 78
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 78
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 78
+  rank: 6
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 78
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 58
+  rank: 8
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 58
+  rank: 9
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 55
+  rank: 10
 ---
-
 <a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>
 
 Following the Alabama Gazette's <a href="https://www.alabamagazette.com/story/2025/07/15/news/the-murray-lawrence-case-a-deepening-controversy-in-baldwin-county/7273.html">recent coverage</a> of the wrongful conviction claims surrounding inmate Murray "Bubba" Lawrence, Jr., his longtime advocacy team is drawing attention to another troubling chapter: the unexpected disengagement of a Birmingham law firm during a critical moment in his post-conviction fight.
