@@ -3,6 +3,7 @@
 {{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
 
 {{- $recentToShow := slice }}
+{{- $filteredRecent := slice }}
 
 {{- if .IsHome }}
   {{- if .Paginator.HasPrev }}
@@ -10,27 +11,50 @@
   {{- else }}
     {{- $recentToShow = after 10 $recent }}
   {{- end }}
-{{- else if and (ne .Kind "page") .Paginator }}
-  {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
-{{- else }}
-  {{- $recentCategoryOverride := .Params.recent_category_override }}
-  {{- if $recentCategoryOverride }}
-    {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $recentCategoryOverride) }}
-  {{- else }}
-    {{- $currentCategories := .Params.categories | default slice }}
-    {{- if gt (len $currentCategories) 0 }}
-      {{- $firstCategory := index $currentCategories 0 }}
-      {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
-    {{- else }}
-      {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+  {{- range $recentToShow }}
+    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+      {{- $filteredRecent = $filteredRecent | append . }}
     {{- end }}
   {{- end }}
-{{- end }}
-
-{{- $filteredRecent := slice }}
-{{- range $recentToShow }}
-  {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-    {{- $filteredRecent = $filteredRecent | append . }}
+{{- else if and (ne .Kind "page") .Paginator }}
+  {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+  {{- range $recentToShow }}
+    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+      {{- $filteredRecent = $filteredRecent | append . }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- /* Check if we have related_articles from the generator */ -}}
+  {{- $relatedArticles := .Params.related_articles }}
+  {{- if $relatedArticles }}
+    {{- /* Use AI-generated related articles, sorted by rank */ -}}
+    {{- range $relatedArticles }}
+      {{- $slug := .slug }}
+      {{- range $recent }}
+        {{- if eq .File.ContentBaseName $slug }}
+          {{- $filteredRecent = $filteredRecent | append . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- else }}
+    {{- /* Fallback to category-based filtering */ -}}
+    {{- $recentCategoryOverride := .Params.recent_category_override }}
+    {{- if $recentCategoryOverride }}
+      {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $recentCategoryOverride) }}
+    {{- else }}
+      {{- $currentCategories := .Params.categories | default slice }}
+      {{- if gt (len $currentCategories) 0 }}
+        {{- $firstCategory := index $currentCategories 0 }}
+        {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
+      {{- else }}
+        {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+      {{- end }}
+    {{- end }}
+    {{- range $recentToShow }}
+      {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+        {{- $filteredRecent = $filteredRecent | append . }}
+      {{- end }}
+    {{- end }}
   {{- end }}
 {{- end }}
 
@@ -39,7 +63,14 @@
   <h3 class="widget__title">{{ if .IsHome }}More Posts{{ else }}Related{{ end }}</h3>
   <div class="widget__content">
     <ul class="widget__list">
-      {{- range $index, $page := first $recent_num $filteredRecent }}
+      {{- $seenTitles := slice }}
+      {{- $displayedCount := 0 }}
+      {{- range $index, $page := $filteredRecent }}
+        {{- if lt $displayedCount $recent_num }}
+          {{- $pageTitle := $page.Title }}
+          {{- if not (in $seenTitles $pageTitle) }}
+            {{- $seenTitles = $seenTitles | append $pageTitle }}
+            {{- $displayedCount = add $displayedCount 1 }}
         <li class="widget__item {{ if in $page.Params.categories "dwtd" }}dwtd__widget__item{{ else if in $page.Params.categories "backstory-podcast" }}backstory__widget__item{{ else if in $page.Params.categories "bcso" }}bcso__widget__item{{ else if in $page.Params.categories "elections" }}elections__widget__item{{ else if in $page.Params.categories "repost" }}repost__widget__item{{ end }}">
           <a class="widget__link{{ if in $page.Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in $page.Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ $page.RelPermalink }}">
             <h4>{{ $page.Title }}</h4>
@@ -94,6 +125,8 @@
             </p>
           </a>
         </li>
+          {{- end }}
+        {{- end }}
       {{- end }}
     </ul>
   </div>

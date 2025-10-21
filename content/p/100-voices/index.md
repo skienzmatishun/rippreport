@@ -9,7 +9,7 @@ tags:
 - k-1-center
 authors:
 - admin
-alttags: "Community members encircling a central point, symbolizing citizen voices needing to be heard by Fairhope City Council"
+alttags: Community members encircling a central point, symbolizing citizen voices needing to be heard by Fairhope City Council
 ---
 First let me apologize for not getting out the Wonderful Wednesday and for the delay of Freaky Friday this week. The Ripp Report has been following many different issues throughout the County and this last week was especially busy.
 

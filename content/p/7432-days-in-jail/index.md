@@ -9,7 +9,48 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: "Murray Bubba Lawrence’s face superimposed over a jail cell, illustrating wrongful imprisonment after decades in custody"
+alttags: Murray Bubba Lawrence’s face superimposed over a jail cell, illustrating wrongful imprisonment after decades in custody
+related_articles:
+- slug: rule-32
+  title: RULE 32
+  score: 95
+  rank: 1
+- slug: innocent
+  title: INNOCENT
+  score: 95
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 95
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 95
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 95
+  rank: 5
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 95
+  rank: 6
+- slug: earful
+  title: EARFUL
+  score: 95
+  rank: 7
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 95
+  rank: 8
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 92
+  rank: 9
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 92
+  rank: 10
 ---
 That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge, currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.
 

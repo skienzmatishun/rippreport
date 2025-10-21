@@ -1,17 +1,57 @@
 ---
-title: "$5000.00 CASH REWARD"
+title: $5000.00 CASH REWARD
 date: 2025-08-05
-thumbnail: "img/5000-00-cash-reward.jpg"
-categories: 
-  - repost
-tags: 
-  - burrell
-  - fairhope-airport
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/5000-00-cash-reward.jpg
+categories:
+- repost
+tags:
+- burrell
+- fairhope-airport
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 98
+  rank: 1
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 85
+  rank: 2
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 85
+  rank: 3
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 4
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 5
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 85
+  rank: 6
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 85
+  rank: 7
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 85
+  rank: 8
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 9
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 10
 ---
-
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.
 
 The entire complaint can be reviewed, [https://rippreport.com/caught-trap-like-rat/](https://rippreport.com/2017/02/03/caught-trap-like-rat/).

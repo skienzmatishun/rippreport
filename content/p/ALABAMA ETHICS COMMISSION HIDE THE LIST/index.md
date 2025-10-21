@@ -1,17 +1,57 @@
 ---
-title: "ALABAMA ETHICS COMMISION HIDE THE LIST"
+title: ALABAMA ETHICS COMMISION HIDE THE LIST
 date: 2024-01-29
-thumbnail: "img/alabama-ethics-commission-hide-the-list.jpg"
+thumbnail: img/alabama-ethics-commission-hide-the-list.jpg
 tags:
-  - Albritton
-  - Mabel Amos Trust
-  - Ethics Commission
-categories: 
-  - ethics
-authors: 
-  - admin
+- Albritton
+- Mabel Amos Trust
+- Ethics Commission
+categories:
+- ethics
+authors:
+- admin
+related_articles:
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 92
+  rank: 1
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 92
+  rank: 2
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 85
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 6
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 85
+  rank: 7
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 8
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 85
+  rank: 9
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 82
+  rank: 10
 ---
-
 If you are caught stealing 10 dollars from Wal-Mart, YOU are going to jail. If you steal 3.2 Million and distribute those funds to Judges, Bankers, Lawyers and Politicians by using a trust, that you are a trustee of, KNOW, you could get away with it, in Alabama. Especially if you happen to be the Executive Director of the Ethics Commission, Mr. Tom Albritton.
 
 

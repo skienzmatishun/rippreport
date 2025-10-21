@@ -3,7 +3,7 @@ title: FRAUD
 date: 2016-07-15
 thumbnail: img/fraud.jpg
 categories:
-- freaky-friday
+- citycouncil
 tags:
 - kant
 - triangle

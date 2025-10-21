@@ -6,7 +6,48 @@ categories:
 - Special-Report
 authors:
 - admin
-alttags: "Baldwin County seeks public input on land use planning; megaphone graphic represents outreach efforts"
+alttags: Baldwin County seeks public input on land use planning; megaphone graphic represents outreach efforts
+related_articles:
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 85
+  rank: 1
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 82
+  rank: 2
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 82
+  rank: 3
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 78
+  rank: 4
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 78
+  rank: 5
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 78
+  rank: 6
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 78
+  rank: 7
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 8
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 65
+  rank: 9
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 55
+  rank: 10
 ---
 ### Baldwin County Seeks Public Input on Land Use Plan
 

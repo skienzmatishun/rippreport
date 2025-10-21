@@ -10,7 +10,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v..."
+alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
+related_articles:
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 2
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 85
+  rank: 3
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 82
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 78
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 78
+  rank: 6
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 78
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 78
+  rank: 8
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 75
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 10
 ---
 I bet only 1 or 2% of the voters in Fairhope know that not one city council person, the mayor or the appointed municipal attorney and municipal judge have been elected or appointed for there 5th year in office. The Alabama legislature thought it necessary to postpone municipal elections in 2024 due to the presidential election. A free year in office, full family insurance and the ability to make decisions for Fairhope's future, without a single vote cast. Only in Alabama.
 

@@ -12,7 +12,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "New candidates taking root in Fauxhope elections, casting a ballot into a marked voting box"
+alttags: New candidates taking root in Fauxhope elections, casting a ballot into a marked voting box
+related_articles:
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 1
+- slug: i-quit
+  title: I QUIT
+  score: 85
+  rank: 2
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 85
+  rank: 3
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 4
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 82
+  rank: 5
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 82
+  rank: 6
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 82
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 82
+  rank: 8
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 78
+  rank: 9
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 78
+  rank: 10
 ---
 Fauxhope municipal elections have started off with a bang. Five candidates have qualified for city council positions, and support one another in a solid slate. A very smart move. Who would want to be a minority councilman facing a well entrenched cabal of good ole boys, developers, politicians, lawyers, judges and let’s not leave out the District Attorney’s Office.
 

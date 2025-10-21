@@ -9,7 +9,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction"
+alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction
+related_articles:
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 92
+  rank: 1
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 85
+  rank: 2
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 82
+  rank: 3
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 82
+  rank: 4
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 78
+  rank: 5
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 78
+  rank: 6
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 9
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 72
+  rank: 10
 ---
 Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. The city attorney is put in place to protect “THEIR” agenda. The municipal judge is a major developer in Fauxhope and his developments must meet the approval of the council that “APPOINTED” him as municipal judge.
 

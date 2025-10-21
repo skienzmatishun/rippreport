@@ -15,7 +15,48 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: "Coronavirus statistics highlight loss of life; a cannabis leaf floats on a red barrier in water, symbolizing impact"
+alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats on a red barrier in water, symbolizing impact
+related_articles:
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 85
+  rank: 1
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 78
+  rank: 2
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 75
+  rank: 3
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 75
+  rank: 4
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 65
+  rank: 5
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 65
+  rank: 6
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 65
+  rank: 7
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 58
+  rank: 8
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 58
+  rank: 9
+- slug: m-i-a
+  title: M.I.A
+  score: 58
+  rank: 10
 ---
 This day is significant for many reasons:
 

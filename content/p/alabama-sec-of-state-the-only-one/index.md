@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Baldwin County official; one of few who acted on election tampering complaints, amid ongoing judiciary inaction"
+alttags: "John Merrill; one of few who acted on election tampering complaints, amid ongoing judiciary inaction"
 ---
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!
 

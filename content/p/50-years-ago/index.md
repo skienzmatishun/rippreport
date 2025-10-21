@@ -6,7 +6,48 @@ categories:
 - Special-Report
 authors:
 - ripp-report
-alttags: "U.S. flag waving against a dark background, representing Veterans Day and honoring military service in November"
+alttags: U.S. flag waving against a dark background, representing Veterans Day and honoring military service in November
+related_articles:
+- slug: symbol
+  title: Veterans Day
+  score: 85
+  rank: 1
+- slug: veterans-day
+  title: VETERANS DAY
+  score: 85
+  rank: 2
+- slug: memorial-day
+  title: MEMORIAL DAY
+  score: 85
+  rank: 3
+- slug: veterans-day-23
+  title: Veterans Day
+  score: 85
+  rank: 4
+- slug: semper-fi-veterans-day
+  title: SEMPER FI / VETERANS DAY
+  score: 85
+  rank: 5
+- slug: 🇺🇸-veterans-day-🇺🇸
+  title: Veterans Day
+  score: 82
+  rank: 6
+- slug: memorial-day-2023
+  title: MEMORIAL DAY
+  score: 82
+  rank: 7
+- slug: memorial-day-2024
+  title: MEMORIAL DAY
+  score: 78
+  rank: 8
+- slug: happy-thanksgiving-3
+  title: Happy Thanksgiving
+  score: 75
+  rank: 9
+- slug: memorial-day-3
+  title: Memorial Day
+  score: 75
+  rank: 10
 ---
 November is a month of special significance to many who have served in the United States military.
 

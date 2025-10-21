@@ -11,7 +11,48 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: "Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices"
+alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices
+related_articles:
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 78
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 78
+  rank: 2
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 78
+  rank: 3
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 78
+  rank: 4
+- slug: shooting-yourself-in-the-foot
+  title: SHOOTING YOURSELF IN THE FOOT
+  score: 78
+  rank: 5
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 78
+  rank: 6
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 78
+  rank: 7
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 78
+  rank: 8
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 65
+  rank: 9
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 58
+  rank: 10
 ---
 The one thing that the good ole boys, GOB, of Baldwin have down pat is walking the line of legal and illegal. They do not care if it is a conflict of interest, unethical or smells to high heaven, just as long as it is barely legal. It does not even matter if you change political parties, all they care about is that they get their rubber stamp candidate, Andrea Lindsey, elected.
 

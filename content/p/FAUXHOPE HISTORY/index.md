@@ -1,15 +1,55 @@
 ---
-title: "FAUXHOPE HISTORY"
+title: FAUXHOPE HISTORY
 date: 2023-09-17
-thumbnail: "img/fauxhope-history.jpg"
+thumbnail: img/fauxhope-history.jpg
 tags:
-  - Mayor Sullivan
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- Mayor Sullivan
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 1
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 85
+  rank: 2
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 3
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 85
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 85
+  rank: 5
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 85
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 7
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 8
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 82
+  rank: 9
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 65
+  rank: 10
 ---
-
 Historic Preservation what a joke. No one is more responsible for the demolition of historic buildings and houses in Fauxhope than the Mayor and council. Second would be the First Baptist Church who destroyed numerous houses for parking lots. But they are not called parking lots even though they are used for parking lots.
 
 Historic preservation, water, infrastructure, annexing, and continuously lying to their constituents, goes hand in hand with the Mayor and Council, voted in and supported by developers. The current Mayor and Council address subjects like Historic preservation like it is a new idea, knowing past councils all discussed the same issues.

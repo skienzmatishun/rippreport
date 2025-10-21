@@ -10,7 +10,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw..."
+alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw...
+related_articles:
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 92
+  rank: 1
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 3
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 85
+  rank: 4
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 5
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85
+  rank: 6
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 7
+- slug: no-justice
+  title: NO JUSTICE
+  score: 85
+  rank: 8
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 78
+  rank: 9
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 78
+  rank: 10
 ---
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.
 

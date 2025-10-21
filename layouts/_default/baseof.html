@@ -40,7 +40,7 @@
 {{ if .IsHome }}
     {{ partial "inline-critical-css.html" }}
 {{ else if and (ne .Kind "page") .Paginator }}
-    <link rel="stylesheet" href="https://rippreport.com/css/custom.css">
+    {{ partial "post-critical-css.html" }}
 {{ else }}
     {{ partial "post-critical-css.html" }}
 {{ end }}

@@ -1,19 +1,57 @@
 ---
-title: "TOP TO BOTTOM CORRUPTION"
+title: TOP TO BOTTOM CORRUPTION
 date: 2023-07-21
-thumbnail: "img/top-to-down-corruption.jpg"
+thumbnail: img/top-to-down-corruption.jpg
 tags:
-  - Ethics Commission
-  - Alabama AG
-  - Steve Marshall
-categories: 
-  - alabama
-authors: 
-  - admin
+- Ethics Commission
+- Alabama AG
+- Steve Marshall
+categories:
+- alabama
+authors:
+- admin
+related_articles:
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 92
+  rank: 1
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 92
+  rank: 2
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 4
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 5
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 85
+  rank: 6
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 7
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 8
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 82
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 72
+  rank: 10
 ---
-
-
-
 Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt from top to bottom. An absent Governor, a Bar Association in the septic tank. A judiciary with its head in the sand and an Attorney General giving them all a pass.
 
 ----

@@ -13,7 +13,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ..."
+alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
+related_articles:
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 92
+  rank: 1
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 92
+  rank: 2
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 4
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 5
+- slug: rumors
+  title: RUMORS
+  score: 85
+  rank: 6
+- slug: justified
+  title: JUSTIFIED
+  score: 85
+  rank: 7
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 85
+  rank: 8
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 85
+  rank: 9
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 82
+  rank: 10
 ---
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***
 

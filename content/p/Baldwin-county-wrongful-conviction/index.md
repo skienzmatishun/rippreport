@@ -8,7 +8,48 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: "Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption"
+alttags: Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption
+related_articles:
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 95
+  rank: 1
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 95
+  rank: 2
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 95
+  rank: 3
+- slug: earful
+  title: EARFUL
+  score: 95
+  rank: 4
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 95
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 7
+- slug: innocent
+  title: INNOCENT
+  score: 95
+  rank: 8
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 85
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 10
 ---
 The video below is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system. PLEASE SHARE
 
