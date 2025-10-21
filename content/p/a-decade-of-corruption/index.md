@@ -18,7 +18,48 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: "Scale balancing money bag against a person figure, symbolizing alleged corruption and imbalance in Baldwin County politics"
+alttags: Scale balancing money bag against a person figure, symbolizing alleged corruption and imbalance in Baldwin County politics
+related_articles:
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 1
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 85
+  rank: 2
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 85
+  rank: 3
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 4
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 85
+  rank: 5
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 85
+  rank: 6
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 82
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 82
+  rank: 8
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 78
+  rank: 9
+- slug: threesome
+  title: THREESOME
+  score: 75
+  rank: 10
 ---
 Baldwin County is a cesspool of political and judicial corruption. In the last 10 years the citizens of Baldwin County, especially Fairhope, have been slapped in the face with blatant corruption. Complaints to the Attorney General do not even generate a response. The Judiciary, Bar and Ethics Commission have a repeated record of one paragraph responses dismissing any and all documented evidence.
 
