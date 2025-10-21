@@ -40,7 +40,7 @@
 {{ if .IsHome }}
     {{ partial "inline-critical-css.html" }}
 {{ else if and (ne .Kind "page") .Paginator }}
-    {{ partial "post-critical-css.html" }}
+    {{ partial "inline-critical-css.html" }}
 {{ else }}
     {{ partial "post-critical-css.html" }}
 {{ end }}

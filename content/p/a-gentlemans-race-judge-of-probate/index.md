@@ -15,7 +15,48 @@ tags:
 - randy-davis
 authors:
 - ripp-report
-alttags: "Judge Tim Russell retiring as Baldwin County Probate Judge, a vital role handling millions in assets"
+alttags: Judge Tim Russell retiring as Baldwin County Probate Judge, a vital role handling millions in assets
+related_articles:
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 78
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 78
+  rank: 2
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 78
+  rank: 3
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 75
+  rank: 4
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 75
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 6
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 65
+  rank: 7
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 8
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 58
+  rank: 9
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 58
+  rank: 10
 ---
 Judge Tim Russell is being “aged out” of the position of Probate Judge. He retires with a stellar reputation and sets the bar high for his successor. Judge of Probate for Baldwin County is a very important position which generated 40 million dollars in 2017. It is not required that the position be filled by an attorney, fact is, it would be best that is was NOT an attorney. There are five candidates, and they have been gentlemen and civil among themselves, so far.
 
