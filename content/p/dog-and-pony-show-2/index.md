@@ -1,23 +1,63 @@
 ---
-title: "DOG AND PONY SHOW"
+title: DOG AND PONY SHOW
 date: 2019-05-10
-thumbnail: "img/dog-and-pony-show-follow-up.jpg"
-summary: "Jack uses 'special meetings' to eliminate public participation and by passing council meetings. Monday night is a council meeting however Jack did not want any public input. Today’s “special” meeting, May 10 @ 3;30, was a true dog and pony show. Capt. Jack of course commanded the meeting with his typical bulling style. Jack wants to be Mayor and he says he needs to have all the finance people close to each other so he can find them."
-categories: 
-  - follow-up
-tags: 
-  - burrell
-  - catalyst
-  - city-council
-  - dyas-triangle
-  - fly-creek-apartments
-  - kevin-boone
-  - triangle-lawsuit
-  - wilson
-authors: 
-  - admin
+thumbnail: img/dog-and-pony-show-follow-up.jpg
+summary: Jack uses 'special meetings' to eliminate public participation and by passing council meetings. Monday night is a council meeting however Jack did not want any public input. Today’s “special” meeting, May 10 @ 3;30, was a true dog and pony show. Capt. Jack of course commanded the meeting with his typical bulling style. Jack wants to be Mayor and he says he needs to have all the finance people close to each other so he can find them.
+categories:
+- follow-up
+tags:
+- burrell
+- catalyst
+- city-council
+- dyas-triangle
+- fly-creek-apartments
+- kevin-boone
+- triangle-lawsuit
+- wilson
+authors:
+- admin
+related_articles:
+- slug: dog-and-pony-show
+  title: DOG AND PONY SHOW
+  score: 100
+  rank: 1
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 85
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 85
+  rank: 3
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 4
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 85
+  rank: 5
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 6
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 85
+  rank: 7
+- slug: jack-ass
+  title: JACK ASS
+  score: 75
+  rank: 8
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 75
+  rank: 9
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 65
+  rank: 10
 ---
-
 {{< socialpreview url="https://rippreport.com/p/dog-and-pony-show/" >}}
 
 Jack uses “special meetings” to eliminate public participation and by passing council meetings. Monday night is a council meeting however Jack did not want any public input.

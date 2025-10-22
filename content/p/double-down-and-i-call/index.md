@@ -10,7 +10,48 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: "Casino chips representing bids under review at Fairhope Airport, amid claims of legality and investigation calls"
+alttags: Casino chips representing bids under review at Fairhope Airport, amid claims of legality and investigation calls
+related_articles:
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 90
+  rank: 1
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 90
+  rank: 2
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 85
+  rank: 3
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 85
+  rank: 4
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 5
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 85
+  rank: 6
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 7
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 8
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 9
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 75
+  rank: 10
 ---
 Fairhope City Council President, Fairhope Authority board member and Fairhope Authority Board Member who is on two man committee to review bids at the airport, Jack Burrell is double down. He insists that everything at the airport is perfectly legal and every one is as happy as larks.
 

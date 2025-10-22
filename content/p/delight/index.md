@@ -1,13 +1,53 @@
 ---
-title: "FAIRHOPE TAXPAYERS DELIGHT"
+title: FAIRHOPE TAXPAYERS DELIGHT
 date: 2022-11-04
-categories: 
-  - freaky-friday
-thumbnail: "/img/fairhope-tax-payers-delight.png"
-authors: 
-  - admin
+categories:
+- freaky-friday
+thumbnail: /img/fairhope-tax-payers-delight.png
+authors:
+- admin
+related_articles:
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 95
+  rank: 1
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 85
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 3
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 4
+- slug: stepping-up
+  title: STEPPING UP
+  score: 75
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 65
+  rank: 6
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 65
+  rank: 7
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 65
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 9
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 55
+  rank: 10
 ---
-
 In Baldwin County you must pay for the news online to read anything. It explains why so many people in Baldwin County have not a clue what is happening in their municipality. The Ripp Report is free and is unabashed how we explain political shenanigans.
 
 Fairhope is regressing back to Mayor Can’t days and it is not surprising when the current Mayor and council are Can’t mentors. The Fairhope council and Mayor will do what ever the hell they want to, regardless of lawsuits.

@@ -16,7 +16,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Dirty hand raised against a stark background, symbolizing alleged corruption and misuse of lottery funds discussed in the ..."
+alttags: Dirty hand raised against a stark background, symbolizing alleged corruption and misuse of lottery funds discussed in the ...
+related_articles:
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 85
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 2
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 85
+  rank: 3
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 85
+  rank: 4
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 85
+  rank: 5
+- slug: threesome
+  title: THREESOME
+  score: 75
+  rank: 6
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 75
+  rank: 7
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75
+  rank: 8
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 9
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 10
 ---
 When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senator the TAX MAN, Elliott, hands are as dirty as they can get. The lottery and taxes Elliott supports does nothing for education. The “Education” Lottery has been dissolved into a lottery to pay past debts of the State, as far back as 2013. Be sure to read the comments for the article below.
 

@@ -1,13 +1,53 @@
 ---
-title: "COVER UP"
+title: COVER UP
 date: 2023-03-21
-categories: 
-  - terrific-tuesday
-thumbnail: "img/bob-wills.jpg"
-authors: 
-  - admin
+categories:
+- terrific-tuesday
+thumbnail: img/bob-wills.jpg
+authors:
+- admin
+related_articles:
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 70
+  rank: 1
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 2
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 65
+  rank: 3
+- slug: exposure-2
+  title: EXPOSURE
+  score: 65
+  rank: 4
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 65
+  rank: 5
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 50
+  rank: 6
+- slug: shut-up-2
+  title: SHUT UP
+  score: 45
+  rank: 7
+- slug: tonight
+  title: TONIGHT
+  score: 40
+  rank: 8
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 40
+  rank: 9
+- slug: im-back-2
+  title: I'M BACK
+  score: 40
+  rank: 10
 ---
-
 The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
 
 ![](https://rippreport.com/img/bay-minette.jpg)

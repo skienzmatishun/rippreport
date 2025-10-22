@@ -8,7 +8,48 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: "Sign advertising the South Alabama Mega Site, a 3000-acre certified industrial park in Baldwin County, subject of ongoing ..."
+alttags: Sign advertising the South Alabama Mega Site, a 3000-acre certified industrial park in Baldwin County, subject of ongoing ...
+related_articles:
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 85
+  rank: 1
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 85
+  rank: 2
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 85
+  rank: 3
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 85
+  rank: 4
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 5
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 85
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 7
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 71
+  rank: 8
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 65
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 45
+  rank: 10
 ---
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the mega site, will soon pay off. Never mind that this is the same story since the purchase in mid 2011.
 

@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX and HOPE, referencing financial concerns in ..."
+alttags: Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX and HOPE, referencing financial concerns in ...
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 95
+  rank: 1
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 2
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 85
+  rank: 3
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 85
+  rank: 4
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 75
+  rank: 5
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 75
+  rank: 6
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 65
+  rank: 7
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 9
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 50
+  rank: 10
 ---
 DOUBLE RED FLAGS at the beach this weekend. Rip-currents rough seas and high water.
 

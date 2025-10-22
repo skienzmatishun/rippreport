@@ -12,7 +12,48 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: "Headshot of Tom Albritton, Alabama Ethics Commission Executive Director, hands covering ears against a wooden door background"
+alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director, hands covering ears against a wooden door background
+related_articles:
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 90
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 2
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 3
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 85
+  rank: 4
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 75
+  rank: 5
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 75
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 75
+  rank: 7
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 75
+  rank: 8
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 65
+  rank: 9
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 65
+  rank: 10
 ---
 ### Mr Steve Marshall
 

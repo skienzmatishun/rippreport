@@ -9,7 +9,48 @@ tags:
 - chris-elliott
 authors:
 - ripp-report
-alttags: "American flag waving against a dark background; reflects the upcoming midterms and questions about Baldwin County’s politi..."
+alttags: American flag waving against a dark background; reflects the upcoming midterms and questions about Baldwin County’s politi...
+related_articles:
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 1
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 2
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 3
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 85
+  rank: 4
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 5
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 6
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 80
+  rank: 7
+- slug: game-on
+  title: GAME ON
+  score: 75
+  rank: 8
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 9
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 70
+  rank: 10
 ---
 Mid-Term elections are less than 60 days away. Is Baldwin County going to elect the Catalyst good ole boy, who is bought and paid for, just because he is republican? That is doing the same thing over and over again and expecting a different outcome, that’s insanity.
 

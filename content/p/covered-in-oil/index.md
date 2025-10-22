@@ -9,7 +9,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Oil-covered hands symbolize failed Senate candidate Trip Pittman’s connection to a BP scandal and rejection by voters"
+alttags: Oil-covered hands symbolize failed Senate candidate Trip Pittman’s connection to a BP scandal and rejection by voters
+related_articles:
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 95
+  rank: 1
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 85
+  rank: 2
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 85
+  rank: 3
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 75
+  rank: 4
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 65
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 65
+  rank: 6
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 65
+  rank: 7
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 65
+  rank: 8
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 9
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 45
+  rank: 10
 ---
 Senate candidate, and BP contractor, Trip Pittman could not get the oil off him. He was rejected by his constituents and barely got 7% of the vote. Many in Baldwin County predicted he would receive less than 10%, they were right.
 

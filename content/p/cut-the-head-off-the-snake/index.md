@@ -1,16 +1,56 @@
 ---
-title: "CUT THE HEAD OFF THE SNAKE"
+title: CUT THE HEAD OFF THE SNAKE
 date: 2016-08-19
-thumbnail: "img/cut-the-head-off-the-snake.gif"
-categories: 
-  - freaky-friday
-tags: 
-  - kant
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/cut-the-head-off-the-snake.gif
+categories:
+- freaky-friday
+tags:
+- kant
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: dont-throw-rocks-if-you-live-in-a-glass-house
+  title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
+  score: 85
+  rank: 1
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 85
+  rank: 2
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 75
+  rank: 3
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 75
+  rank: 4
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 75
+  rank: 5
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 70
+  rank: 6
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70
+  rank: 7
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 65
+  rank: 8
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 65
+  rank: 9
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 65
+  rank: 10
 ---
-
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.
 
 **CUT THE HEAD OFF THE SNAKE**

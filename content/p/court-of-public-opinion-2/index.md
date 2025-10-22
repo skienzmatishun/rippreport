@@ -1,13 +1,53 @@
 ---
-title: "COURT OF PUBLIC OPINION"
+title: COURT OF PUBLIC OPINION
 date: 2021-09-04
-thumbnail: "img/court-of-public-opinion.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/court-of-public-opinion.png
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 100
+  rank: 1
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 2
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 3
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 65
+  rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 55
+  rank: 6
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 50
+  rank: 7
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 50
+  rank: 8
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 45
+  rank: 9
+- slug: election-ad
+  title: ELECTION AD
+  score: 45
+  rank: 10
 ---
-
 The Executive Director of the Alabama Ethics Commission, Mr Tom Albritton should resign his position. His failure to do so will only further erode the little trust Alabama citizens have in the Ethics Commission.
 
 If you are not familiar with this case please read this article first:

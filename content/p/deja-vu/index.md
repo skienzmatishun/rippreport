@@ -1,30 +1,70 @@
 ---
-title: "Deja Vu"
+title: Deja Vu
 date: 2025-07-02
-thumbnail: "img/secret-society.png"
-categories: 
-  - repost
-tags: 
-  - covid-19
-  - dyas-triangle
-  - fairhope-pier
-  - fire-station
-  - hand-anderall
-  - kant
-  - mayor-sullivan
-  - municipal-judge
-  - parker-road
-  - publix
-  - publix-project
-  - sbc
-  - sullivan
-  - triangle-lawsuit
-  - utilities-director
-  - waterfront-project
-authors: 
-  - admin
+thumbnail: img/secret-society.png
+categories:
+- repost
+tags:
+- covid-19
+- dyas-triangle
+- fairhope-pier
+- fire-station
+- hand-anderall
+- kant
+- mayor-sullivan
+- municipal-judge
+- parker-road
+- publix
+- publix-project
+- sbc
+- sullivan
+- triangle-lawsuit
+- utilities-director
+- waterfront-project
+authors:
+- admin
+related_articles:
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 100
+  rank: 1
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 3
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 75
+  rank: 4
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 75
+  rank: 5
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 65
+  rank: 6
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 65
+  rank: 7
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 65
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 10
 ---
-
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.
 
 The term usually excludes covert groups, such as intelligence agencies or guerrilla warfare insurgencies, that hide their activities and memberships but maintain a public presence.

@@ -9,7 +9,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "Baldwin County political commentary features a stylized eagle stamp referencing Legal Eagle nickname and investigative r..."
+alttags: Baldwin County political commentary features a stylized eagle stamp referencing Legal Eagle nickname and investigative r...
+related_articles:
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 1
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 78
+  rank: 2
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75
+  rank: 3
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 75
+  rank: 4
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 75
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 6
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 65
+  rank: 7
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 8
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 65
+  rank: 9
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 65
+  rank: 10
 ---
 The Ripp Report/Baldwin County Legal Eagle Face book
 

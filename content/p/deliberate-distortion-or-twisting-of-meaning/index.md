@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Fork in the road graphic representing Fairhope City Council’s decision on property management transfer to Weeks Bay"
+alttags: Fork in the road graphic representing Fairhope City Council’s decision on property management transfer to Weeks Bay
+related_articles:
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 75
+  rank: 3
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 65
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 5
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 65
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 8
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 65
+  rank: 9
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 65
+  rank: 10
 ---
 The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. True they also have no lease or title to the land.
 

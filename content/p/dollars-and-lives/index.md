@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr..."
+alttags: Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr...
+related_articles:
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 1
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 85
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 3
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 75
+  rank: 4
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65
+  rank: 5
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 65
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 7
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60
+  rank: 8
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 55
+  rank: 9
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 45
+  rank: 10
 ---
 ## DOLLARS
 

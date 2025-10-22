@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Stack of documents representing bids and ethics letters related to a Fairhope city council contract dispute"
+alttags: Stack of documents representing bids and ethics letters related to a Fairhope city council contract dispute
+related_articles:
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 85
+  rank: 1
+- slug: transparency
+  title: TRANSPARENCY
+  score: 85
+  rank: 2
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 85
+  rank: 3
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 85
+  rank: 4
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 85
+  rank: 5
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 85
+  rank: 6
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 75
+  rank: 7
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 75
+  rank: 8
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 75
+  rank: 9
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 10
 ---
 Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of:
 

@@ -14,7 +14,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Aerial view showing Highway 98 and Parker Road intersection in Fairhope, potentially impacted by new apartment development"
+alttags: Aerial view showing Highway 98 and Parker Road intersection in Fairhope, potentially impacted by new apartment development
+related_articles:
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 95
+  rank: 1
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 75
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 3
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 75
+  rank: 4
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 75
+  rank: 5
+- slug: fairness
+  title: FAIRNESS
+  score: 75
+  rank: 6
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 70
+  rank: 7
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 65
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 9
+- slug: survey
+  title: SURVEY
+  score: 65
+  rank: 10
 ---
 The Ripp Report has called on the Baldwin county Legal Eagle to dispatch the Eagle for a bird’s eye view of what developers do not want you to see. The Kant Corte Apartments on Fly Creek are busy clearing the property for the Apartments and their entrance and exit.
 

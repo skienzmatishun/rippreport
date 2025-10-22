@@ -1,19 +1,59 @@
 ---
-title: "CUT YOUR NOSE OFF TO SPITE YOUR FACE"
+title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
 date: 2017-04-21
-thumbnail: "img/cut-your-nose-off-to-spite-your-face.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-  - pandora
-  - sullivan
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/cut-your-nose-off-to-spite-your-face.jpg
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+- pandora
+- sullivan
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 75
+  rank: 1
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 2
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 70
+  rank: 3
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 70
+  rank: 4
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 70
+  rank: 5
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 6
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 65
+  rank: 7
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 8
+- slug: shut-up-2
+  title: SHUT UP
+  score: 60
+  rank: 9
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 60
+  rank: 10
 ---
-
 The quality of life in Fairhope is now being degraded by a city council that is more interested in failure than success. The current and past council president, Jack Burrell, along with his accomplice Kevin Boone, have successfully slowed city government and services to a point that had best concern us all. They have been engaged in a vindictive campaign to undermine the newly elected mayor.
 
 Mayor Wilson fired two employees, which is her prerogative as well as her responsibility if an employee or employees are not representing the city in the manner expected of them. Mr. Burrell and Mr. Boone then led the council to install a hiring freeze to PUNISH the mayor. They have additionally slowed down the budget process to a stalemate without providing any valid reasons.

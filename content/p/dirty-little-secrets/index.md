@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Gulf Shores beach scene: Buildings overlook a sandy shore with people enjoying the water, hinting at planning & zoning con..."
+alttags: 'Gulf Shores beach scene: Buildings overlook a sandy shore with people enjoying the water, hinting at planning & zoning con...'
+related_articles:
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 95
+  rank: 1
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 85
+  rank: 2
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 85
+  rank: 3
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 75
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 5
+- slug: on-vacation
+  title: ON VACATION
+  score: 65
+  rank: 6
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65
+  rank: 7
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 65
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 10
 ---
 This is the early edition of FREAKY FRIDAY, The evening edition will feature the change of government in Fairhope. It is Fairhope’s dirty little secret.
 

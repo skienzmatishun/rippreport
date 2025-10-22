@@ -1,15 +1,54 @@
 ---
-title: "“DOWN HOME” FAIRHOPE JESTER"
+title: “DOWN HOME” FAIRHOPE JESTER
 date: 2019-09-13
-thumbnail: "img/down-home-jester.jpg"
-gif: "img/the-jester-1.gif"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/down-home-jester.jpg
+gif: img/the-jester-1.gif
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 95
+  rank: 1
+- slug: the-jester
+  title: THE JESTER
+  score: 95
+  rank: 2
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 85
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 75
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 6
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 75
+  rank: 7
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 70
+  rank: 8
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 65
+  rank: 9
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 10
 ---
-
-
 The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are benefiting, with an insurance package, from a part time job, that other part time employees are exempt from.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-city-council-approves-raises-for-elected-officials-property-purchase-boutique-hotel/article_5f773383-66ba-541f-9aad-c3858f4da9da.html" >}}

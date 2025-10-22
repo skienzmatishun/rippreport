@@ -6,7 +6,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Custom pillows reading The Real, The Boss, and featuring a man’s face, illustrating claims of labeling individuals as ..."
+alttags: Custom pillows reading The Real, The Boss, and featuring a man’s face, illustrating claims of labeling individuals as ...
+related_articles:
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 75
+  rank: 1
+- slug: loser
+  title: LOSER
+  score: 65
+  rank: 2
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 65
+  rank: 3
+- slug: hate
+  title: HATE
+  score: 55
+  rank: 4
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 55
+  rank: 5
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 54
+  rank: 6
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 50
+  rank: 7
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 50
+  rank: 8
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 45
+  rank: 9
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 45
+  rank: 10
 ---
 CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger. While covering the Family Court in Baldwin County I interviewed over three dozen women and men entangled in a corrupt inept system. Every attorney defending his or her client would sooner or later say that the spouse was CRAZY. That was ultimately the main argument.
 

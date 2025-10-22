@@ -1,13 +1,53 @@
 ---
-title: "DEAL WITH THE DEVIL"
+title: DEAL WITH THE DEVIL
 date: 2022-03-14
-thumbnail: "img/innocent.jpg"
-categories: 
-  - Special-Report
-authors: 
-  - admin
+thumbnail: img/innocent.jpg
+categories:
+- Special-Report
+authors:
+- admin
+related_articles:
+- slug: earful
+  title: EARFUL
+  score: 85
+  rank: 1
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 75
+  rank: 2
+- slug: im-back-2
+  title: I'M BACK
+  score: 65
+  rank: 3
+- slug: never-forget
+  title: Never Forget
+  score: 65
+  rank: 4
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 5
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 65
+  rank: 6
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 65
+  rank: 7
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 65
+  rank: 8
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 54
+  rank: 9
+- slug: innocent
+  title: INNOCENT
+  score: 40
+  rank: 10
 ---
-
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.
 
 Nothing will stain the legacy of a Prosecutor, Judge or Sheriff, more than convicting an innocent person. It is even more repugnant when the conviction of an innocent man, results in those responsible being rewarded with promotions and self-serving propaganda.

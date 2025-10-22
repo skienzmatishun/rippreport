@@ -6,7 +6,48 @@ categories:
 - saturday-special
 authors:
 - admin
-alttags: "Rapid development in Bay Minette, Alabama, strains infrastructure as Baldwin County communities face building moratoriums"
+alttags: Rapid development in Bay Minette, Alabama, strains infrastructure as Baldwin County communities face building moratoriums
+related_articles:
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 85
+  rank: 1
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 85
+  rank: 2
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 85
+  rank: 3
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 75
+  rank: 4
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 75
+  rank: 5
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 75
+  rank: 6
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 70
+  rank: 7
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 70
+  rank: 8
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 65
+  rank: 9
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 65
+  rank: 10
 ---
 Baldwin County is spinning out of control. Development in Fairhope and Daphne are under a building moratorium. Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
 

@@ -1,16 +1,56 @@
 ---
-title: "COURT OF PUBLIC OPINION IS NOW IN SESSION"
+title: COURT OF PUBLIC OPINION IS NOW IN SESSION
 date: 2017-01-27
-thumbnail: "img/court-of-public-opinion.png"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-authors: 
-  - ripp-report
+thumbnail: img/court-of-public-opinion.png
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+authors:
+- ripp-report
+related_articles:
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 100
+  rank: 1
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 2
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 4
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 85
+  rank: 5
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 85
+  rank: 6
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 85
+  rank: 7
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 85
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 9
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 65
+  rank: 10
 ---
-
 One year ago The Ripp Report had a couple of people contributing time to its publication. A few people would also step forward with information. Today we are very pleased to say that about 8 to 10 people are directly involved and every week we get unsolicited information in various forms from citizens. The Ripp Report is based on documents that are requested through freedom of information or obtained from the public domain.
 
 This report involved several hundred pages of material and about 6 weeks of research where several people provided the typing, editing and time. The final result was a 42 page complaint containing documents that support the allegations and a request for further investigation. This report reflects information obtained on a voluntary basis. A formal investigation has the benefit of putting people under oath and obtaining documents through legal means, not available to the public.

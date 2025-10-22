@@ -2,7 +2,7 @@
 title: DOG AND PONY SHOW
 date: 2019-05-10
 thumbnail: img/dog-and-pony-show.jpg
-summary: "Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time, where transparency and accountability will not be an issue, because only a few people will attend."
+summary: Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I have to agree that is an excellent time, where transparency and accountability will not be an issue, because only a few people will attend.
 categories:
 - freaky-friday
 tags:
@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Group in animal costumes: dog, horse, kangaroo, and others, referencing a “dog and pony show” meeting about local council ..."
+alttags: 'Group in animal costumes: dog, horse, kangaroo, and others, referencing a “dog and pony show” meeting about local council ...'
+related_articles:
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 100
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 85
+  rank: 3
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 85
+  rank: 4
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75
+  rank: 7
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 75
+  rank: 8
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 9
+- slug: skunked
+  title: SKUNKED
+  score: 75
+  rank: 10
 ---
 ## READ THE FOLLOW UP
 

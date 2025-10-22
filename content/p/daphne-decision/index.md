@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat"
+alttags: Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat
+related_articles:
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 75
+  rank: 1
+- slug: challengers-emerge-in-daphne-mayoral-race
+  title: Challengers emerge in Daphne mayoral race
+  score: 75
+  rank: 2
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 3
+- slug: qualified-daphne-district-6-city-council
+  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
+  score: 75
+  rank: 4
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 65
+  rank: 5
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65
+  rank: 6
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 7
+- slug: selective-memory
+  title: Selective Memory
+  score: 65
+  rank: 8
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 10
 ---
 ## NOTICE OF CITY COUNCIL VACANCY
 

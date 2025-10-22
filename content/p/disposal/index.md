@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Metallic trash can icon symbolizing disposal of land, referencing Fairhope council’s controversial sale of 106 acres"
+alttags: Metallic trash can icon symbolizing disposal of land, referencing Fairhope council’s controversial sale of 106 acres
+related_articles:
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 1
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 85
+  rank: 2
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 85
+  rank: 3
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 85
+  rank: 4
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 75
+  rank: 5
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 75
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 7
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 75
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 9
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 65
+  rank: 10
 ---
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members. Not Jack Burrell, he has to maintain “control”. His Control has been very costly for the City of Fairhope. His lack of leadership and his favoritism to special interests, CATALYST, is all to apparent.
 

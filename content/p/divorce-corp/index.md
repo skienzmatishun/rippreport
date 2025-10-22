@@ -8,7 +8,48 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: "Divorce dispute: A man and woman pull on a rope atop stacks of money, illustrating financial battles in divorce cases"
+alttags: 'Divorce dispute: A man and woman pull on a rope atop stacks of money, illustrating financial battles in divorce cases'
+related_articles:
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 85
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 75
+  rank: 2
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 75
+  rank: 3
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 65
+  rank: 4
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65
+  rank: 5
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 6
+- slug: a-gentlemans-race-judge-of-probate
+  title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
+  score: 65
+  rank: 7
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 65
+  rank: 8
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 50
+  rank: 9
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 45
+  rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allowfullscreen></iframe>
 

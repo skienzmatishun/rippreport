@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability"
+alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability
+related_articles:
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 92
+  rank: 1
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 85
+  rank: 2
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 3
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 75
+  rank: 4
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 65
+  rank: 5
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 6
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 7
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65
+  rank: 8
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 65
+  rank: 9
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 65
+  rank: 10
 ---
 The Attorney General, Ethics Commission and the Alabama Bar all wear the same dirty underwear. They protect one another, and politicians, from pesky political complaints and play a legal shuffle that results in whitewashing their culpability. It is perfectly clear that the Attorney General will always side with the Bar or Ethics. The Bar and Ethics depend on the Attorney General to cover their back.
 

@@ -15,7 +15,48 @@ tags:
 - robinson
 authors:
 - admin
-alttags: "Council denies knowledge of property purchase; graphic shows a speech bubble crossed out"
+alttags: Council denies knowledge of property purchase; graphic shows a speech bubble crossed out
+related_articles:
+- slug: honeymoon
+  title: HONEYMOON
+  score: 85
+  rank: 1
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 85
+  rank: 2
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 75
+  rank: 3
+- slug: i-quit
+  title: I QUIT
+  score: 75
+  rank: 4
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 75
+  rank: 5
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 75
+  rank: 6
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 7
+- slug: timeline
+  title: TIMELINE
+  score: 65
+  rank: 8
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 54
+  rank: 10
 ---
 https://www.youtube.com/watch?t=2040&v=6jG57XNm3Vk&feature=youtu.be
 

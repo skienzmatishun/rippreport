@@ -10,7 +10,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Vintage U.S. postage stamp featuring an eagle head, referencing government oversight and potential ethical concerns in con..."
+alttags: Vintage U.S. postage stamp featuring an eagle head, referencing government oversight and potential ethical concerns in con...
+related_articles:
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 89
+  rank: 1
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 85
+  rank: 2
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 3
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 75
+  rank: 4
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 69
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 65
+  rank: 6
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 7
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 65
+  rank: 8
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 9
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 65
+  rank: 10
 ---
 Complaint Statement:
 

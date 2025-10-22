@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "State Sen. Tripp Pittman, departing Baldwin County politics after a controversial career marked by accusations of self-int..."
+alttags: State Sen. Tripp Pittman, departing Baldwin County politics after a controversial career marked by accusations of self-int...
+related_articles:
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 95
+  rank: 1
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 2
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 75
+  rank: 3
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 75
+  rank: 4
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 5
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 75
+  rank: 6
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 70
+  rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 70
+  rank: 8
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 65
+  rank: 9
+- slug: jack-ass
+  title: JACK ASS
+  score: 65
+  rank: 10
 ---
 The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political life, covered in BP oil, and a legacy that is as dark as the oil.
 

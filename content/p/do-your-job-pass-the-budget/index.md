@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Exclamation point graphic representing a recent unexpected shoulder surgery and recovery challenges"
+alttags: Exclamation point graphic representing a recent unexpected shoulder surgery and recovery challenges
+related_articles:
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 85
+  rank: 1
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 65
+  rank: 2
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 3
+- slug: im-back
+  title: I'M BACK
+  score: 65
+  rank: 4
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 65
+  rank: 5
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 65
+  rank: 6
+- slug: transparency
+  title: TRANSPARENCY
+  score: 65
+  rank: 7
+- slug: recovery
+  title: RECOVERY
+  score: 65
+  rank: 8
+- slug: balls
+  title: BALLS
+  score: 65
+  rank: 9
+- slug: i-quit
+  title: I QUIT
+  score: 45
+  rank: 10
 ---
 Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam, on Friday. The first three days of recovery are no fun and the drug fog does not allow you to think. I hope to recover fast enough that I may be able to give a special Christmas present to a well deserving recipient.
 

@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Broken glass against a dark background, symbolizing former Mayor Kant’s lack of cooperation during the transition of power"
+alttags: Broken glass against a dark background, symbolizing former Mayor Kant’s lack of cooperation during the transition of power
+related_articles:
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 85
+  rank: 1
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 85
+  rank: 2
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 85
+  rank: 3
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 85
+  rank: 4
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 75
+  rank: 5
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 75
+  rank: 6
+- slug: communication
+  title: COMMUNICATION
+  score: 70
+  rank: 7
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 65
+  rank: 8
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 65
+  rank: 9
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 65
+  rank: 10
 ---
 Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and promised to represent them to the best of her abilities. She was humble and appreciated the trust the citizens had in her ability.
 
