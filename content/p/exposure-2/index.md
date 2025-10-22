@@ -1,13 +1,53 @@
 ---
-title: "EXPOSURE"
+title: EXPOSURE
 date: 2019-01-02
-thumbnail: "img/exposure-2.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/exposure-2.jpg
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+related_articles:
+- slug: exposure
+  title: EXPOSURE
+  score: 95
+  rank: 1
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 2
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 75
+  rank: 4
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 65
+  rank: 5
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 65
+  rank: 6
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 45
+  rank: 7
+- slug: im-back
+  title: I'M BACK
+  score: 45
+  rank: 8
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 40
+  rank: 9
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 40
+  rank: 10
 ---
-
 The Ripp Report is a non-profit organization, politically non-partisan. The focus of The Ripp Report is political corruption and exposing the elected officials involved.
 
 In the past we specialized on filing legitimate complaints with the Alabama Ethics Commission and the Alabama Attorney General. This method garnered a lot of attention among the public, however complaints fell on deaf ears. In fact many believe the sole purpose of the Ethics Commission is to provide “cover” for the offenders. Every major journalist in the state has condemned the Ethics Commission as worthless, even corrupt.

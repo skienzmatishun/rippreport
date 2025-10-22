@@ -16,7 +16,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Fairhope waterfront scene at sunset; overlaid with 2020, referencing local politics and recent events discussed in the a..."
+alttags: Fairhope waterfront scene at sunset; overlaid with 2020, referencing local politics and recent events discussed in the a...
+related_articles:
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 92
+  rank: 1
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 6
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 85
+  rank: 7
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 75
+  rank: 8
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 75
+  rank: 9
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 75
+  rank: 10
 ---
 Get ready, Fairhope Catalyst Council is making their move to capture the Fairhope general election. Everything and anything in Fairhope is connected to politics. I have said more than once that the major negative in Fairhope is the politics.
 

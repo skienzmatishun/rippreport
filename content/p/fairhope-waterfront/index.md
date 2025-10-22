@@ -11,7 +11,48 @@ tags:
 - Waterfront
 authors:
 - admin
-alttags: "Fairhope Waterfront proposal rendering showing parkland, pier, and surrounding area; a citizen-driven plan facing council ..."
+alttags: Fairhope Waterfront proposal rendering showing parkland, pier, and surrounding area; a citizen-driven plan facing council ...
+related_articles:
+- slug: invitation
+  title: INVITATION
+  score: 85
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 85
+  rank: 3
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 85
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 5
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 85
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 7
+- slug: survey
+  title: SURVEY
+  score: 65
+  rank: 8
+- slug: truth
+  title: TRUTH
+  score: 65
+  rank: 9
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 54
+  rank: 10
 ---
 The Fairhope Waterfront project started off with, City Council approval, of $500,000.00 for engineering and conceptual plans based on community input. Now the Council is saying this is the Mayor’s plan. Nothing could be further from the truth, 493 people filled out the questionnaire and dozens attended numerous meetings, this is the citizens plan.
 

@@ -20,7 +20,48 @@ tags:
 summary: The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.
 authors:
 - admin
-alttags: "Railway tracks diverging, symbolizing choices in Baldwin County politics; a sign reads “GXB,” referencing the “good ole bo..."
+alttags: Railway tracks diverging, symbolizing choices in Baldwin County politics; a sign reads “GXB,” referencing the “good ole bo...
+related_articles:
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 95
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 90
+  rank: 2
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 85
+  rank: 3
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 85
+  rank: 4
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 5
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 75
+  rank: 6
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 75
+  rank: 7
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 8
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 75
+  rank: 9
+- slug: last-chance
+  title: LAST CHANCE
+  score: 75
+  rank: 10
 ---
 The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.
 

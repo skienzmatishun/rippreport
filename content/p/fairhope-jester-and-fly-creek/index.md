@@ -12,7 +12,48 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: "The Fairhope Jester in colorful costume, holding a hammer, referenced in an article about local development controversies"
+alttags: The Fairhope Jester in colorful costume, holding a hammer, referenced in an article about local development controversies
+related_articles:
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 95
+  rank: 1
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 90
+  rank: 2
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 85
+  rank: 3
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 85
+  rank: 4
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 85
+  rank: 5
+- slug: the-jester
+  title: THE JESTER
+  score: 85
+  rank: 6
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 85
+  rank: 7
+- slug: hate
+  title: HATE
+  score: 75
+  rank: 8
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 75
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 10
 ---
 The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The Jester supports the developer, who is responsible for the damage to the creek from the Publix project. The same developer is now building 230 apartments next to the creek. Jester neighbors are not going to be laughing.
 

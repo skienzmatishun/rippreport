@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Symbolic exit sign with arrow, representing a turning point for Fairhope as a new mayor takes office after years of leader..."
+alttags: Symbolic exit sign with arrow, representing a turning point for Fairhope as a new mayor takes office after years of leader...
+related_articles:
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 85
+  rank: 1
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 85
+  rank: 2
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 85
+  rank: 3
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 85
+  rank: 4
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
+  rank: 5
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 65
+  rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 65
+  rank: 7
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 65
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 9
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 65
+  rank: 10
 ---
 The City of Fairhope has three days before it swears in a new Mayor and begins another chapter in its history. It is past due time to turn the page.
 

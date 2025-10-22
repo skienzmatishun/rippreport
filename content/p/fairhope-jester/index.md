@@ -1,18 +1,58 @@
 ---
-title: "THE FAIRHOPE JESTER"
+title: THE FAIRHOPE JESTER
 date: 2018-02-23
-thumbnail: "img/the-jester.jpg"
-gif: "img/the-jester-1.gif"
-categories: 
-  - ethics
-tags: 
-  - ethics-complaint
-  - pittman
-  - robert-brown
-authors: 
-  - ripp-report
+thumbnail: img/the-jester.jpg
+gif: img/the-jester-1.gif
+categories:
+- ethics
+tags:
+- ethics-complaint
+- pittman
+- robert-brown
+authors:
+- ripp-report
+related_articles:
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 95
+  rank: 1
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 95
+  rank: 2
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 85
+  rank: 3
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 4
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 85
+  rank: 5
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 85
+  rank: 6
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 7
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 65
+  rank: 8
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 65
+  rank: 9
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 65
+  rank: 10
 ---
-
 The Public Doctrine: Our government is a democracy which means the "people rule." At this time in our democracy it seems there are less people involved, which results in a serious challenge to the system, as politicians love it when the people "forget to rule" and are allowed to operate with impunity. The Public Doctrine is the often forgotten tenet that elected public officials are held to a slightly higher standard when it comes to scrutiny of their actions on behalf of the public. In other words, public officials understand when getting into politics, that their actions on the purported behalf of the people are fair game. Fairhope's city council should be reminded of this, because it is every voter's right to know all.
 
 Fairhope city councilman Robert Brown has been on a defensive rant over the actions of the Mayor and the failing city infrastructure. Truth is Mr. Brown knows that the infrastructure problems are the legacy of past administrations, and he knows it first hand. He also knows the Mayor has been working on infrastructure problems since entering office.

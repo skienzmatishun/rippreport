@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Fairhope, Alabama city seal featuring a seagull over waves and mountains, promoting the State of the City Expo"
+alttags: Fairhope, Alabama city seal featuring a seagull over waves and mountains, promoting the State of the City Expo
+related_articles:
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 1
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 85
+  rank: 2
+- slug: s-o-s
+  title: S.O.S
+  score: 75
+  rank: 3
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 75
+  rank: 4
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 75
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 6
+- slug: rotten
+  title: ROTTEN
+  score: 65
+  rank: 7
+- slug: survey
+  title: SURVEY
+  score: 65
+  rank: 8
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 65
+  rank: 9
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 65
+  rank: 10
 ---
 Mayor Karin Wilson of Fairhope, AlabamaHope to See You Thursday for Our State of the City Expo This Thursday, 5pm, Fairhope Civic Center.
 

@@ -1,16 +1,56 @@
 ---
-title: "Fairhope Town Hall Meeting"
+title: Fairhope Town Hall Meeting
 date: 2017-02-15
-thumbnail: "img/fairhope-townhall-meeting.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - fairhope-airport
-  - fly-creek
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-townhall-meeting.jpg
+categories:
+- wonderful-wednesday
+tags:
+- fairhope-airport
+- fly-creek
+authors:
+- ripp-report
+related_articles:
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 90
+  rank: 1
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 2
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 3
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 75
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 5
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 70
+  rank: 6
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 65
+  rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 65
+  rank: 8
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 9
+- slug: survey
+  title: SURVEY
+  score: 60
+  rank: 10
 ---
-
 Fairhope’s first town hall meeting is this Thursday, 2/16/2017 at the Fairhope public library. The Ripp Report strongly suggest you attend and demand answers to some very pressing issues. Repealing ordinance 1572, the Fly Creek Apartments and the Airport Authority are issues that effect all of us and our schools.
 
 The Mayor has fought hard to bring up the repeal of ordinance 1572, however the council president refuses to put it on the city council agenda. The Fly Creek Apartments were the number one issue during elections. Now they are elected, our city council is turning its back on the citizens. The same council president is also behind the efforts of the Airport Authority's demand to maintain control and ownership of airport land while the city pays the mortgage. The Airport land is equivalent to 21% of the city debt and represents less than 1% of Fairhope citizens. Fairhope has been spending more on the Airport than schools.

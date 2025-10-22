@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Manhole cover in grass, symbolizing Fairhope infrastructure issues investigated by The Ripp Report due to past mayoral cor..."
+alttags: Manhole cover in grass, symbolizing Fairhope infrastructure issues investigated by The Ripp Report due to past mayoral cor...
+related_articles:
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 85
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 85
+  rank: 3
+- slug: holes
+  title: HOLES
+  score: 85
+  rank: 4
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 75
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 6
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 75
+  rank: 7
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 9
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 65
+  rank: 10
 ---
 The Ripp Report is a consumer, citizen, group. The intent of the Ripp Report is to inform the public of current political events as well as consumer complaints. The Ripp Report is a non profit and for the greater part, self funded, no-one owns us.
 

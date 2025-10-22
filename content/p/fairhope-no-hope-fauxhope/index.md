@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Silhouettes of families and glasses of wine amidst flowers; illustration representing Fairhope’s wealth gap explored in “A..."
+alttags: Silhouettes of families and glasses of wine amidst flowers; illustration representing Fairhope’s wealth gap explored in “A...
+related_articles:
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 90
+  rank: 1
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 85
+  rank: 4
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 75
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 7
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 75
+  rank: 8
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 75
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 70
+  rank: 10
 ---
 Sorry about no FREAKY FRIDAY, but after 6 weeks confinement and absolutely beautiful weather, I had to have a “beach fix” on Friday and it took all day.
 

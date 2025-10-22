@@ -14,7 +14,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Warning sign representing concerns about city council decisions and potential falsehoods impacting Fairhope voters"
+alttags: Warning sign representing concerns about city council decisions and potential falsehoods impacting Fairhope voters
+related_articles:
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 95
+  rank: 1
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 2
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 85
+  rank: 3
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 85
+  rank: 4
+- slug: back-stabber
+  title: BACK STABBER
+  score: 85
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 7
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75
+  rank: 9
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 70
+  rank: 10
 ---
 Fairhope voters, we did it once and now we have to do it again. And that is show our mayor support and remind the city council the majority won the election. Our council has been under the influence of the minority and turning a blind eye to the majority. They have allowed previous personal friendships to take front seat to city issues, following senior councilmen down a path of falsehoods. The newly elected council, three members, have been convinced— so far, that facts are fiction, such as the airport scandal.
 

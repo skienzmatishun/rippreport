@@ -11,7 +11,48 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: "Arrow pointing towards a triangle shape, symbolizing controversy surrounding Fairhope’s Triangle Mega-Site development"
+alttags: Arrow pointing towards a triangle shape, symbolizing controversy surrounding Fairhope’s Triangle Mega-Site development
+related_articles:
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 95
+  rank: 1
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 85
+  rank: 2
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 85
+  rank: 3
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 85
+  rank: 4
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 85
+  rank: 5
+- slug: holes
+  title: HOLES
+  score: 75
+  rank: 6
+- slug: big-heads
+  title: BIG HEADS
+  score: 75
+  rank: 7
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 75
+  rank: 8
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 75
+  rank: 9
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 65
+  rank: 10
 ---
 Baldwin County Commissioners have their Mega “dump” Site.
 

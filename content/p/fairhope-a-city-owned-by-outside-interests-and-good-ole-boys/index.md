@@ -11,7 +11,48 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: "Fairhope waterfront at sunset; a pier symbolizes concerns over city decisions favoring outside interests and local officials"
+alttags: Fairhope waterfront at sunset; a pier symbolizes concerns over city decisions favoring outside interests and local officials
+related_articles:
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 90
+  rank: 1
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 90
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 3
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 4
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 5
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 85
+  rank: 6
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 85
+  rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 85
+  rank: 8
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 85
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 10
 ---
 The Ripp Report/ Baldwin County Legal Eagle
 

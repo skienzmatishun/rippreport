@@ -1,16 +1,56 @@
 ---
-title: "Fairhope Airport Authority - FLYING WITHOUT A COMPASS"
+title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
 date: 2016-12-14
-thumbnail: "img/fairhope-airport-flying-without-a-compass.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - fairhope-airport
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-airport-flying-without-a-compass.jpg
+categories:
+- wonderful-wednesday
+tags:
+- fairhope-airport
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 100
+  rank: 1
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 95
+  rank: 2
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 3
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 85
+  rank: 4
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 85
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 6
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 70
+  rank: 7
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 70
+  rank: 8
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 65
+  rank: 9
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 65
+  rank: 10
 ---
-
 These are two articles that were covered by [The Fairhope Times](https://cdn.rippreport.com/wp-content/uploads/2016/12/thefairhopetimes.blogspot.com) one year ago. These were not written by the Ripp Report. They are important because they show, prior to today’s airport controversy, there was every indication that something stunk at the airport.
 
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2015/10/airport-authoirity-holds-illegal-meeting.html" >}}

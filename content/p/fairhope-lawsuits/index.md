@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Fairhope City Council settles lawsuits with former employees; gavel and legal documents symbolize the costly outcome"
+alttags: Fairhope City Council settles lawsuits with former employees; gavel and legal documents symbolize the costly outcome
+related_articles:
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 95
+  rank: 1
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 2
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 85
+  rank: 3
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 4
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 6
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 65
+  rank: 7
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 65
+  rank: 8
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 9
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 65
+  rank: 10
 ---
 Fairhope City Council has decided to pay fired employees rather than going to court, so we the public never know the whole truth surrounding the firing in the first place. Remember it was the council who came to the defense of the those fired, they then assisted them in their efforts to sue the city. Ultimately, in executive session the same council votes to pay up. It’s only insurance money, but we pay the insurance.
 

@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Man in suit speaks at podium near fountain; article discusses Fairhope land purchase concerns and city council decisions"
+alttags: Man in suit speaks at podium near fountain; article discusses Fairhope land purchase concerns and city council decisions
+related_articles:
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 95
+  rank: 1
+- slug: disposal
+  title: DISPOSAL
+  score: 95
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 90
+  rank: 3
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 85
+  rank: 4
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 5
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 6
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 75
+  rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 75
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 9
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 65
+  rank: 10
 ---
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
 

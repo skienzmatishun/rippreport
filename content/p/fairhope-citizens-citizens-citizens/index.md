@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Alarm clock ringing, symbolizing Fairhope citizens urged to wake up regarding Airport Authority debt concerns"
+alttags: Alarm clock ringing, symbolizing Fairhope citizens urged to wake up regarding Airport Authority debt concerns
+related_articles:
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 1
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 2
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 3
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 85
+  rank: 4
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 85
+  rank: 5
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 85
+  rank: 6
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 8
+- slug: flying-high
+  title: FLYING HIGH
+  score: 75
+  rank: 9
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 65
+  rank: 10
 ---
 FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 

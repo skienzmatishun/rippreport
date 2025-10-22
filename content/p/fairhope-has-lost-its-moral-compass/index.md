@@ -6,7 +6,48 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: "Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope City Council"
+alttags: Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope City Council
+related_articles:
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 1
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 85
+  rank: 2
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 85
+  rank: 3
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 4
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 75
+  rank: 5
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 75
+  rank: 6
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 7
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 9
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 75
+  rank: 10
 ---
 “(ethics) An inner sense which distinguishes what is right from what is wrong, functioning as a guide (like the needle of a compass) for morally appropriate behavior.”
 

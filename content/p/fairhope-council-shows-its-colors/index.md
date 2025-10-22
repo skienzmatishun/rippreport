@@ -1,13 +1,53 @@
 ---
-title: "FAIRHOPE COUNCIL SHOWS IT'S COLORS"
+title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
 date: 2018-09-28
-thumbnail: "img/fairhope-council-showing-its-colors.jpg"
-categories: 
-  - citycouncil
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-council-showing-its-colors.jpg
+categories:
+- citycouncil
+authors:
+- ripp-report
+related_articles:
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 92
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 85
+  rank: 3
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 5
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 75
+  rank: 6
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 75
+  rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 65
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 50
+  rank: 9
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 50
+  rank: 10
 ---
-
 The present Fairhope City Council is going to try and pull every dirty trick they can to derail the Oct. 2nd election. The City Attorney is carrying out the Catalyst Council’s instructions as we speak. The City Attorney is and has been representing the City Council, not the citizens of Fairhope and not the Mayor.
 
 https://lagniappemobile.com/attorney-generals-opinion-fairhope-petition-and-election-are-valid/

@@ -19,7 +19,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Fairhope city seal depicting a seagull, sun, water, and islands; referenced in discussion of local politics and elected of..."
+alttags: Fairhope city seal depicting a seagull, sun, water, and islands; referenced in discussion of local politics and elected of...
+related_articles:
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 95
+  rank: 1
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 85
+  rank: 2
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 6
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 85
+  rank: 7
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 75
+  rank: 8
+- slug: rotten
+  title: ROTTEN
+  score: 75
+  rank: 9
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 10
 ---
 In 2016 I backed Karin Wilson and the current city council, which includes Burrell Boone and Brown. I got one out of four right, Karin Wilson. I was wrong in trusting Burrell, Boone or Brown but I wanted to believe them when they said that they were independent individuals with only Fairhope’s best interest at heart. What total BS that turned out to be, all three have betrayed Fairhope and used their elected office for personal gain.
 

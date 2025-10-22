@@ -6,7 +6,48 @@ categories:
 - family-court
 authors:
 - ripp-report
-alttags: "Concerned parent, child in distress, and Baldwin County DHR building represent systemic failures impacting vulnerable chil..."
+alttags: Concerned parent, child in distress, and Baldwin County DHR building represent systemic failures impacting vulnerable chil...
+related_articles:
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 95
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 85
+  rank: 2
+- slug: exposure
+  title: EXPOSURE
+  score: 85
+  rank: 3
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 75
+  rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 75
+  rank: 5
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 70
+  rank: 7
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 70
+  rank: 8
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 65
+  rank: 9
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 40
+  rank: 10
 ---
 To all who have an interest in the safety of children in Baldwin County, Alabama and beyond,
 

@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Comic book style explosion representing a blast from the past reshaping Fairhope’s government"
+alttags: Comic book style explosion representing a blast from the past reshaping Fairhope’s government
+related_articles:
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 85
+  rank: 1
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 3
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 85
+  rank: 4
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 75
+  rank: 5
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 75
+  rank: 6
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 7
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 70
+  rank: 8
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 65
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 50
+  rank: 10
 ---
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired employees, employees who quit, a skunk, W.A.C.O am radio, and of course Chucky Cheeze. This blast from the past now wants to reshape Fairhope’s government. They have all failed at their former positions however have united their wisdom to bless the City of Fairhope with their version of “new” government. Uniting their wisdom was necessary.
 

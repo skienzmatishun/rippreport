@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Petition form with a red pen, representing Fairhope residents urging city council for public participation in land use dec..."
+alttags: Petition form with a red pen, representing Fairhope residents urging city council for public participation in land use dec...
+related_articles:
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 95
+  rank: 1
+- slug: invitation
+  title: INVITATION
+  score: 85
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 3
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 75
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 5
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 75
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 75
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 8
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 65
+  rank: 9
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 65
+  rank: 10
 ---
 If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose of any city property until the scheduled land use plan and comprehensive plan is completed. The second thing the citizens ask is to be a part of the decision. The Council and Weeks Bay have attempted to go around public participation. That is not the way a democracy works.
 

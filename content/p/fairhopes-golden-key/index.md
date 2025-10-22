@@ -20,7 +20,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "City of Fairhope, Alabama seal featuring a pelican over water, relevant to municipal appointments discussed in the article"
+alttags: City of Fairhope, Alabama seal featuring a pelican over water, relevant to municipal appointments discussed in the article
+related_articles:
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 95
+  rank: 1
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 92
+  rank: 2
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 3
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 85
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 6
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 8
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 75
+  rank: 9
+- slug: selective-memory
+  title: Selective Memory
+  score: 75
+  rank: 10
 ---
 Tomorrow citizens of Fairhope will go to the polls, rain or shine. Most citizens do not understand some of the inner political workings of the city, like appointments.
 

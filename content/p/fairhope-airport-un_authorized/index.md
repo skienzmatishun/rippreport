@@ -1,17 +1,57 @@
 ---
-title: "FAIRHOPE AIRPORT “UN_AUTHORIZED”"
+title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
 date: 2016-12-02
-thumbnail: "img/fairhope-airport-un_authorized.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - hix
-authors: 
-  - ripp-report
+thumbnail: img/fairhope-airport-un_authorized.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- hix
+authors:
+- ripp-report
+related_articles:
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 85
+  rank: 1
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 2
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 85
+  rank: 3
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 85
+  rank: 4
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 85
+  rank: 5
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 6
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 85
+  rank: 7
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 75
+  rank: 8
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 75
+  rank: 9
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 10
 ---
-
 Last week we featured, [YOU DON'T KNOW JACK](https://rippreport.com/you-dont-know-jack/), this week we peel back the onion a little more.
 
 What we do know is that a lawyer paid a lawyer to write a letter to lawyers, Ethics Commission, for an advisory ethics opinion { no. 2016-04} that would allow a lawyer— who is also a member of the Fairhope Airport Board, to enter into a lease with the same airport authority, whose partner is the Municipal Judge for Fairhope. The opinion is 6 pages. For simplicity sake we will address page 1.

@@ -15,7 +15,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru..."
+alttags: Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru...
+related_articles:
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 85
+  rank: 1
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 85
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 75
+  rank: 3
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 75
+  rank: 4
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 65
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 65
+  rank: 6
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 65
+  rank: 7
+- slug: water
+  title: Water
+  score: 65
+  rank: 8
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 60
+  rank: 9
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 50
+  rank: 10
 ---
 Fairhope has had a water shortage for the last three years running. The sewer and infrastructure projects that were approved in 2020 have yet to be completed and we are in year 5. The sewer plant is beyond capacity and still discharges into the Bay. Growth has exploded with over a 1000 homes, condo and townhouses already approved for the future. Schools are bursting at the seams and municipalities are abandoning the public schools. Traffic has increased without any new roads. Lawsuits against the city are now in vogue again, costing taxpayers hundreds of thousands of dollars.
 

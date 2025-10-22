@@ -1,12 +1,53 @@
 ---
-title: "FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson"
+title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
 date: 2019-07-24
 thumbnail: img/fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson.jpg
 categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Nappie Award winner Mayor Wilson recognized as “Hardest Working Elected City Official” on Eastern Shore"
+alttags: Nappie Award winner Mayor Wilson recognized as “Hardest Working Elected City Official” on Eastern Shore
+related_articles:
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 100
+  rank: 1
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 95
+  rank: 2
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 3
+- slug: people-power
+  title: PEOPLE POWER
+  score: 75
+  rank: 4
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 75
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 6
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 65
+  rank: 7
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 65
+  rank: 8
+- slug: challengers-emerge-in-daphne-mayoral-race
+  title: Challengers emerge in Daphne mayoral race
+  score: 65
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65
+  rank: 10
 ---
 Congratulations to all Nappie nominees and winners.
 

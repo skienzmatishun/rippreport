@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Fairhope facing crises: Car crash icon symbolizes issues like COVID, festival concerns, and council inaction"
+alttags: 'Fairhope facing crises: Car crash icon symbolizes issues like COVID, festival concerns, and council inaction'
+related_articles:
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 85
+  rank: 1
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 3
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 75
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 5
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 6
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 75
+  rank: 7
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 75
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 9
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 65
+  rank: 10
 ---
 Fairhope is facing many major issues at one time and the CATALYST council is asleep at the wheel. Coronavirus and the Arts and Craft Festival, HB 203, and Fly Creek Apartments.
 

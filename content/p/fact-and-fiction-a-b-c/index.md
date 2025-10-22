@@ -1,13 +1,53 @@
 ---
-title: "FACT and FICTION A B C"
+title: FACT and FICTION A B C
 date: 2018-08-30
-thumbnail: "img/fact-and-fiction-abc.jpg"
-categories: 
-  - thursday-thunder
-authors: 
-  - ripp-report
+thumbnail: img/fact-and-fiction-abc.jpg
+categories:
+- thursday-thunder
+authors:
+- ripp-report
+related_articles:
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 1
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 75
+  rank: 2
+- slug: exposure-2
+  title: EXPOSURE
+  score: 70
+  rank: 3
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 4
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 65
+  rank: 5
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 55
+  rank: 6
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 55
+  rank: 7
+- slug: fear
+  title: FEAR
+  score: 50
+  rank: 8
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 40
+  rank: 9
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 30
+  rank: 10
 ---
-
 Hard to tell what the truth is these days but some information leaking out, if true, will set Fairhope’s hair on fire.
 
 A. Jack Burrell denied, on WACO radio, any party was held at his house. He omitted the fact that it was his son who sponsored the party at Jack’s in laws. Jack is very clever at covering Jack’s back. The Jack bus just ran over his in laws, WACO radio, the tabloid Courier as well as his son. We just will have to wait and see what is Fact and what is Fiction. The truth will come out, it just won’t be out of Jack’s mouth. Is it truth, fiction or just allegations?

@@ -1,13 +1,53 @@
 ---
-title: "FAIRHOPE UN-ARMED ROBBERY"
-thumbnail: "img/fairhope-unarmed-robbery.png"
+title: FAIRHOPE UN-ARMED ROBBERY
+thumbnail: img/fairhope-unarmed-robbery.png
 date: 2019-06-21
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 85
+  rank: 1
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 85
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 3
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 75
+  rank: 4
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 75
+  rank: 5
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 65
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 7
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 8
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 60
+  rank: 9
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 60
+  rank: 10
 ---
-
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council.
 
 The director of Weeks Bay said they did not want to do anything against the wishes of the citizens of Fairhope. Sound familiar ! that is the same thing that was said about the Fly Creek Apartments. Monday night, Weeks Bay will make another attempt, with the help of the council, to gain control of Fairhope City Property for PERPETUITY, aka ETERNITY.

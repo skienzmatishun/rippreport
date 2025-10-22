@@ -1,13 +1,53 @@
 ---
-title: "EYES ON YOU 👀"
+title: EYES ON YOU 👀
 date: 2022-12-30
-thumbnail: "img/eyes.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/eyes.png
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 75
+  rank: 1
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 2
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 65
+  rank: 3
+- slug: election-ad
+  title: ELECTION AD
+  score: 65
+  rank: 4
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 50
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 50
+  rank: 6
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 50
+  rank: 7
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 50
+  rank: 8
+- slug: on-vacation
+  title: ON VACATION
+  score: 40
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 40
+  rank: 10
 ---
-
 Let’s top off 2022 by the most audacious local political corruption this year. I say audacious however it could be an example of the mental capacity of our elected officials. You would think that Sunday’s Sermon would be hard to beat:
 
 {{< socialpreview url="https://rippreport.com/p/sunday-sermon/" >}}

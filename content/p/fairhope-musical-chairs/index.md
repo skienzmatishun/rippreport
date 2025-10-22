@@ -6,7 +6,48 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: "Council members celebrating, possibly masking criticism after a controversial president’s departure"
+alttags: Council members celebrating, possibly masking criticism after a controversial president’s departure
+related_articles:
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 1
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 2
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 85
+  rank: 3
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 85
+  rank: 4
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 75
+  rank: 5
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 65
+  rank: 6
+- slug: hell-yea
+  title: HELL YEA
+  score: 65
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 8
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 65
+  rank: 9
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 65
+  rank: 10
 ---
 After 9 years of Jack Burrell tenaciously holding on to, the position of President of the Fairhope Council, it may come to an end tonight. Jack has soiled the seat of council president to a point that a new chair is necessary. Jack’s legacy is infamous and it has cost the taxpayers millions. If you think he is relinquishing the seat out of courtesy, then have another drink.
 
