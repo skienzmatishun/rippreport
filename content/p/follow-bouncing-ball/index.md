@@ -11,7 +11,48 @@ tags:
 - preble-rish
 authors:
 - ripp-report
-alttags: "Spotlight on corruption: A single white circle against black background represents uncovering hidden issues"
+alttags: 'Spotlight on corruption: A single white circle against black background represents uncovering hidden issues'
+related_articles:
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 85
+  rank: 1
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 2
+- slug: repeat
+  title: REPEAT
+  score: 85
+  rank: 3
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75
+  rank: 4
+- slug: holes
+  title: HOLES
+  score: 75
+  rank: 5
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 75
+  rank: 6
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 75
+  rank: 7
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 8
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 70
+  rank: 9
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 60
+  rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle is a non-profit exposing political and judicial corruption. We also have helped consumers with complaints about consumer products or services. There are no paid staff and no outer office expenses, 100% of any donation goes towards the non-profit. The majority of operating capital I personally donate, which is not reimbursed.
 

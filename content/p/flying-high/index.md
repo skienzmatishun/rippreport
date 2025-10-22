@@ -11,7 +11,48 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: "Airplane wing view from above clouds, symbolizing a standstill in Fairhope financial discussions and ongoing obstruction"
+alttags: Airplane wing view from above clouds, symbolizing a standstill in Fairhope financial discussions and ongoing obstruction
+related_articles:
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 90
+  rank: 1
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 2
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 85
+  rank: 3
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 85
+  rank: 4
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 85
+  rank: 5
+- slug: nuff-said
+  title: NUFF SAID
+  score: 75
+  rank: 6
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 65
+  rank: 7
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 65
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 65
+  rank: 10
 ---
 Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.
 

@@ -10,7 +10,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Burning match with smoke rising, symbolizing controversy surrounding Baldwin County commissioner Dorsey’s firings related ..."
+alttags: Burning match with smoke rising, symbolizing controversy surrounding Baldwin County commissioner Dorsey’s firings related ...
+related_articles:
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 85
+  rank: 1
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 85
+  rank: 2
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 3
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 4
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 5
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 6
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 7
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 65
+  rank: 8
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 65
+  rank: 9
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 65
+  rank: 10
 ---
 **Commissioner Tucker Dorsey the citizens of Baldwin County have lost confidence in you.**
 

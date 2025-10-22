@@ -1,22 +1,62 @@
 ---
-title: "FIRE ALBRITTON"
+title: FIRE ALBRITTON
 date: 2024-11-03
-thumbnail: "img/stealing-from-kids.jpg"
-gif: "img/stealing-from-kids.gif"
-summary: "The news lately has been focused on our Me Ma Governor firing one of the very few reputable individuals working in our corrupt alabama system. She used 'extreme Executive Power' to fire Alabama Department of Veterans Affairs Director Kent Davis."
+thumbnail: img/stealing-from-kids.jpg
+gif: img/stealing-from-kids.gif
+summary: The news lately has been focused on our Me Ma Governor firing one of the very few reputable individuals working in our corrupt alabama system. She used 'extreme Executive Power' to fire Alabama Department of Veterans Affairs Director Kent Davis.
 tags:
-  - Ivey
-  - Albritton
-  - Ethics Commission
-  - Mabel Amos Trust
-  - Kent Davis
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+- Ivey
+- Albritton
+- Ethics Commission
+- Mabel Amos Trust
+- Kent Davis
+categories:
+- ethics
+- alabama
+authors:
+- admin
+related_articles:
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 95
+  rank: 1
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 95
+  rank: 2
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 95
+  rank: 3
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 90
+  rank: 4
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 85
+  rank: 5
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 85
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 7
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 75
+  rank: 8
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 65
+  rank: 9
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 65
+  rank: 10
 ---
-
 The news lately has been focused on our Me Ma Governor firing one of the very few reputable individuals working in our corrupt alabama system. She used "extreme Executive Power" to fire Alabama Department of Veterans Affairs Director Kent Davis. Please read the article below:
 
 

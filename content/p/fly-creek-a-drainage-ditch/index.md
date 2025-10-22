@@ -8,7 +8,48 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: "Gavel and legal documents representing the six-day trial over Fly Creek Apartments development in Bay Minette"
+alttags: Gavel and legal documents representing the six-day trial over Fly Creek Apartments development in Bay Minette
+related_articles:
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 95
+  rank: 1
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 90
+  rank: 2
+- slug: holes
+  title: HOLES
+  score: 85
+  rank: 3
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 85
+  rank: 4
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 75
+  rank: 5
+- slug: fairness
+  title: FAIRNESS
+  score: 75
+  rank: 6
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 75
+  rank: 7
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 65
+  rank: 8
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 65
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 10
 ---
 The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal arguments. It went to trial because our city council let us down and ignored their campaign promises. Mr Adam Milam, the plaintiff's attorney, Friends of Fly Creek, put it best:
 

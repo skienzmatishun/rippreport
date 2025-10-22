@@ -6,7 +6,48 @@ categories:
 thumbnail: /img/fly-creek-mud.jpg
 authors:
 - admin
-alttags: "Muddy wave cresting near a “Fly Creek” sign, illustrating infrastructure failures impacting the creek with sediment runoff"
+alttags: Muddy wave cresting near a “Fly Creek” sign, illustrating infrastructure failures impacting the creek with sediment runoff
+related_articles:
+- slug: catalyst-shit-creek
+  title: CATALYST SHIT CREEK
+  score: 85
+  rank: 1
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 75
+  rank: 2
+- slug: holes
+  title: HOLES
+  score: 75
+  rank: 3
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 75
+  rank: 4
+- slug: wetlands
+  title: WETLANDS
+  score: 65
+  rank: 5
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 65
+  rank: 6
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 65
+  rank: 7
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 65
+  rank: 8
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 55
+  rank: 9
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 30
+  rank: 10
 ---
 Fly Creek residents are now seeing more mud coming into the creek due to infrastructure failures. The Publix project started the damage by dumping tons of mud into the creek. Then came the fly creek apartments that no one wanted except Mayor Kant, Jack Burrell and the City Council. Now all the predictions are coming true AGAIN.
 

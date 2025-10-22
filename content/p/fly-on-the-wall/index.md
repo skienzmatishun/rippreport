@@ -14,7 +14,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Illustration of a fly, symbolizing corruption and harmful relationships within city government"
+alttags: Illustration of a fly, symbolizing corruption and harmful relationships within city government
+related_articles:
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 92
+  rank: 1
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 85
+  rank: 2
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 3
+- slug: hate
+  title: HATE
+  score: 75
+  rank: 4
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 75
+  rank: 5
+- slug: skunked
+  title: SKUNKED
+  score: 75
+  rank: 6
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 70
+  rank: 7
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 65
+  rank: 8
+- slug: jack-ass
+  title: JACK ASS
+  score: 65
+  rank: 9
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 65
+  rank: 10
 ---
 Comment:
 

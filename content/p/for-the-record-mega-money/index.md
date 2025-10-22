@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "South Alabama Mega Site advertisement placed on US currency, questioning its “shovel ready” status and value"
+alttags: South Alabama Mega Site advertisement placed on US currency, questioning its “shovel ready” status and value
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 90
+  rank: 1
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 85
+  rank: 2
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 85
+  rank: 3
+- slug: dead-last
+  title: DEAD LAST
+  score: 85
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 75
+  rank: 5
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 75
+  rank: 6
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 70
+  rank: 7
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 65
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60
+  rank: 9
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 45
+  rank: 10
 ---
 The Ripp Report has been covering the Baldwin County Mega-Site since it was purchased.
 

@@ -7,7 +7,48 @@ thumbnail: img/food-for-thought.png
 summary: There’s a parcel of land in Baldwin County that’s never been talked about publicly — until now. It’s publicly owned, strategically placed, and tied to a zoning designation that doesn’t match what’s actually there.
 authors:
 - admin
-alttags: "Group of men in suits eating cake, possibly symbolizing a hidden deal related to land ownership in Baldwin County"
+alttags: Group of men in suits eating cake, possibly symbolizing a hidden deal related to land ownership in Baldwin County
+related_articles:
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 85
+  rank: 1
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 82
+  rank: 2
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 75
+  rank: 3
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 75
+  rank: 4
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 75
+  rank: 5
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 65
+  rank: 6
+- slug: newsletter
+  title: NEWSLETTER
+  score: 65
+  rank: 7
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 50
+  rank: 8
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 50
+  rank: 9
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 50
+  rank: 10
 ---
 > There’s a parcel of land in Baldwin County that’s never been talked about publicly — until now. It’s publicly owned, strategically placed, and tied to a zoning designation that doesn’t match what’s actually there.
 

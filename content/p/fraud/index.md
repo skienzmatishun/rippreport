@@ -9,7 +9,48 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: "U.S. currency lies atop an American flag, symbolizing potential fraud and deceit related to legal disputes"
+alttags: U.S. currency lies atop an American flag, symbolizing potential fraud and deceit related to legal disputes
+related_articles:
+- slug: pay-off-and-election-fraud
+  title: PAY OFF AND ELECTION FRAUD
+  score: 85
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 2
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 85
+  rank: 3
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 85
+  rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75
+  rank: 5
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 70
+  rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65
+  rank: 7
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 65
+  rank: 8
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 65
+  rank: 9
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 65
+  rank: 10
 ---
 Webster’s Dictionary's definition of fraud reads: "Deceit; trickery; cheating, intentional deception to cause a person to give up property or some lawful right. Something said to deceive; trick; artifice. A person who deceives or is not what he pretends to be; imposter; cheat."
 

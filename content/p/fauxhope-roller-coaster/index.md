@@ -7,7 +7,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Man in a red boat waves enthusiastically near waterfront development delays impacting Fauxhope city projects"
+alttags: Man in a red boat waves enthusiastically near waterfront development delays impacting Fauxhope city projects
+related_articles:
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 90
+  rank: 1
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 89
+  rank: 2
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 85
+  rank: 3
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 85
+  rank: 4
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 5
+- slug: invitation
+  title: INVITATION
+  score: 85
+  rank: 6
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 82
+  rank: 7
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 8
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 65
+  rank: 9
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 65
+  rank: 10
 ---
 The current Fauxhope city council is not listening to anyone. A select few are making, and have been making, crucial decisions without any public participation. Sure you can go to the council meeting but your comments will fall on deaf ears.
 
