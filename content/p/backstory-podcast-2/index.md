@@ -1,13 +1,53 @@
 ---
-title: "BACKSTORY PODCAST"
+title: BACKSTORY PODCAST
 date: 2020-01-17
-thumbnail: "img/backstory-podcast.jpg"
-categories: 
-  - podcast
-authors: 
-  - admin
+thumbnail: img/backstory-podcast.jpg
+categories:
+- podcast
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 98
+  rank: 1
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 98
+  rank: 2
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 95
+  rank: 3
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 95
+  rank: 4
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 95
+  rank: 5
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 95
+  rank: 6
+- slug: bsp-128
+  title: Big News
+  score: 95
+  rank: 7
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 95
+  rank: 8
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 95
+  rank: 9
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 95
+  rank: 10
 ---
-
 https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg
 
 The Podcast is the court of public opinion. We discuss topics ranging from human interest stories to political corruption.

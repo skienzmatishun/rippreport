@@ -24,35 +24,47 @@
     {{- end }}
   {{- end }}
 {{- else }}
-  {{- /* Check if we have related_articles from the generator */ -}}
-  {{- $relatedArticles := .Params.related_articles }}
-  {{- if $relatedArticles }}
-    {{- /* Use AI-generated related articles, sorted by rank */ -}}
-    {{- range $relatedArticles }}
-      {{- $slug := .slug }}
-      {{- range $recent }}
-        {{- if eq .File.ContentBaseName $slug }}
-          {{- $filteredRecent = $filteredRecent | append . }}
-        {{- end }}
+  {{- /* Check if current post is in holiday category */ -}}
+  {{- $isHoliday := in .Params.categories "holiday" }}
+  {{- if $isHoliday }}
+    {{- /* Show 10 most recent articles for holiday posts */ -}}
+    {{- $recentToShow = first 10 $recent }}
+    {{- range $recentToShow }}
+      {{- if ne . $currentPost }}
+        {{- $filteredRecent = $filteredRecent | append . }}
       {{- end }}
     {{- end }}
   {{- else }}
-    {{- /* Fallback to category-based filtering */ -}}
-    {{- $recentCategoryOverride := .Params.recent_category_override }}
-    {{- if $recentCategoryOverride }}
-      {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $recentCategoryOverride) }}
-    {{- else }}
-      {{- $currentCategories := .Params.categories | default slice }}
-      {{- if gt (len $currentCategories) 0 }}
-        {{- $firstCategory := index $currentCategories 0 }}
-        {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
-      {{- else }}
-        {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+    {{- /* Check if we have related_articles from the generator */ -}}
+    {{- $relatedArticles := .Params.related_articles }}
+    {{- if $relatedArticles }}
+      {{- /* Use AI-generated related articles, sorted by rank */ -}}
+      {{- range $relatedArticles }}
+        {{- $slug := .slug }}
+        {{- range $recent }}
+          {{- if eq .File.ContentBaseName $slug }}
+            {{- $filteredRecent = $filteredRecent | append . }}
+          {{- end }}
+        {{- end }}
       {{- end }}
-    {{- end }}
-    {{- range $recentToShow }}
-      {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-        {{- $filteredRecent = $filteredRecent | append . }}
+    {{- else }}
+      {{- /* Fallback to category-based filtering */ -}}
+      {{- $recentCategoryOverride := .Params.recent_category_override }}
+      {{- if $recentCategoryOverride }}
+        {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $recentCategoryOverride) }}
+      {{- else }}
+        {{- $currentCategories := .Params.categories | default slice }}
+        {{- if gt (len $currentCategories) 0 }}
+          {{- $firstCategory := index $currentCategories 0 }}
+          {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
+        {{- else }}
+          {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
+        {{- end }}
+      {{- end }}
+      {{- range $recentToShow }}
+        {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
+          {{- $filteredRecent = $filteredRecent | append . }}
+        {{- end }}
       {{- end }}
     {{- end }}
   {{- end }}

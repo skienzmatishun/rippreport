@@ -10,6 +10,47 @@ tags:
 authors:
 - admin
 alttags: Community members encircling a central point, symbolizing citizen voices needing to be heard by Fairhope City Council
+related_articles:
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 95
+  rank: 1
+- slug: shut-up
+  title: SHUT UP
+  score: 95
+  rank: 2
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 95
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 92
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 90
+  rank: 5
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 90
+  rank: 6
+- slug: invitation
+  title: INVITATION
+  score: 90
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 90
+  rank: 8
+- slug: back-stabber
+  title: BACK STABBER
+  score: 85
+  rank: 9
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 85
+  rank: 10
 ---
 First let me apologize for not getting out the Wonderful Wednesday and for the delay of Freaky Friday this week. The Ripp Report has been following many different issues throughout the County and this last week was especially busy.
 

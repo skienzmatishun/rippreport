@@ -6,7 +6,48 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: "Warning sign: Council decisions made without public hearing, mirroring a potentially problematic situation for Fairhope ci..."
+alttags: 'Warning sign: Council decisions made without public hearing, mirroring a potentially problematic situation for Fairhope ci...'
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 1
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 4
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 82
+  rank: 5
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 78
+  rank: 6
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 78
+  rank: 7
+- slug: shut-up
+  title: SHUT UP
+  score: 78
+  rank: 8
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 9
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 75
+  rank: 10
 ---
 As predicted Mr Jack Burrell plans to make decisions for the whole community without a single public hearing. This is the after hours e-mail, 5:05 pm on a Friday, before a three day vacation. This should prove to you how the entire council, led by Jack Burrell is about to pull off the most rotten trick on Fairhope citizens since the settlement of the triangle lawsuit, Jack was part of that as well.
 

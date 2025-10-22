@@ -17,45 +17,45 @@ authors:
 - admin
 alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats on a red barrier in water, symbolizing impact
 related_articles:
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 85
-  rank: 1
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 78
+  score: 100
+  rank: 1
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 95
   rank: 2
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 75
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 95
   rank: 3
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 75
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 92
   rank: 4
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 65
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 88
   rank: 5
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 65
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 85
   rank: 6
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 65
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 85
   rank: 7
 - slug: catalyst-virus
   title: CATALYST VIRUS
-  score: 58
+  score: 85
   rank: 8
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 58
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 65
   rank: 9
-- slug: m-i-a
-  title: M.I.A
-  score: 58
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 65
   rank: 10
 ---
 This day is significant for many reasons:

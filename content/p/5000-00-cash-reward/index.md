@@ -14,43 +14,43 @@ alttags: '$5000 reward poster: Wanted information proving claims against Council
 related_articles:
 - slug: 5000-00-cash-reward-rerun
   title: $5000.00 CASH REWARD
-  score: 98
+  score: 100
   rank: 1
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 85
-  rank: 2
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 90
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 90
   rank: 3
-- slug: in-your-face
-  title: IN YOUR FACE
+- slug: bonus-money
+  title: BONUS MONEY
   score: 85
   rank: 4
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
   score: 85
   rank: 5
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 85
-  rank: 6
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 85
-  rank: 7
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
   score: 85
+  rank: 6
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 85
+  rank: 7
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 85
   rank: 8
-- slug: stirring-the-pot
-  title: STIRRING THE POT
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
   score: 85
   rank: 9
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 70
   rank: 10
 ---
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.

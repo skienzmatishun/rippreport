@@ -1,24 +1,64 @@
 ---
-title: "BACKSTORY PODCAST 58 - The Rushin Prognostication"
+title: BACKSTORY PODCAST 58 - The Rushin Prognostication
 date: 2020-10-31
-thumbnail: "img/backstory-podcast.jpg"
-categories: 
-  - backstory-podcast
-tags: 
-  - backstory-podcast
-  - covid-19
-  - election
-  - hurricane
-  - hurricane-zeta
-  - mayor
-  - mobile
-  - mobile-baykeeper
-  - sars-cov-2
-  - sullivan
-authors: 
-  - admin
+thumbnail: img/backstory-podcast.jpg
+categories:
+- backstory-podcast
+tags:
+- backstory-podcast
+- covid-19
+- election
+- hurricane
+- hurricane-zeta
+- mayor
+- mobile
+- mobile-baykeeper
+- sars-cov-2
+- sullivan
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 85
+  rank: 1
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 85
+  rank: 2
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 85
+  rank: 3
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 85
+  rank: 4
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 85
+  rank: 5
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 85
+  rank: 6
+- slug: bsp-tlp
+  title: Backstory Podcast No 56 The Lincoln Project
+  score: 82
+  rank: 7
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 78
+  rank: 8
+- slug: m-i-a
+  title: M.I.A
+  score: 78
+  rank: 9
+- slug: backstory-podcast-9-11-2001-remembered
+  title: Backstory Podcast 9/11, 2001 Remembered
+  score: 75
+  rank: 10
 ---
-
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F458764898429834%2F&amp;show_text=true&amp;width=560" width="560" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 
 90,000 new cases of SARS-COV-2 have been reported in the USA as of 6:00pm-Central Time-- a grim milestone. 43,300,000 confirmed infections worldwide with a total of 1,800,000 deaths; 9,020,000 infections in the USA with 229,000 deaths; 189,000 cases in Alabama with 2,900 deaths.

@@ -1,12 +1,51 @@
 ---
-title: "BACKSTORY PODCAST #12"
+title: 'BACKSTORY PODCAST #12'
 date: 2019-11-24
-youtube: "gNrqpUxZvLw"
-categories: 
-  - freaky-friday
-  - podcast
-authors: 
-  - admin
+youtube: gNrqpUxZvLw
+categories:
+- freaky-friday
+- podcast
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 98
+  rank: 1
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 98
+  rank: 2
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 95
+  rank: 3
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 95
+  rank: 4
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 95
+  rank: 5
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 95
+  rank: 6
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 92
+  rank: 7
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 92
+  rank: 8
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 92
+  rank: 9
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 75
+  rank: 10
 ---
-
-

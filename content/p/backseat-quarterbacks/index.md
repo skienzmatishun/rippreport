@@ -8,7 +8,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Fairhope Mayor Wilson facing challenges; a symbolic representation of obstacles and political opposition"
+alttags: Fairhope Mayor Wilson facing challenges; a symbolic representation of obstacles and political opposition
+related_articles:
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 85
+  rank: 1
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 85
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 3
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 4
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 82
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 82
+  rank: 6
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 78
+  rank: 7
+- slug: victory
+  title: VICTORY
+  score: 78
+  rank: 8
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 78
+  rank: 9
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 10
 ---
 Being a Mayor has challenges that most of us cannot relate to. From the mundane to serious issues, everyday brings something different Fairhope’s Mayor Wilson took office with no transition from the last administration. One day she is a businesswomen the next she is Mayor, now that is a learning curve. Her next experience was that the elected City Council went into obstruction mode and made it perfectly clear they would oppose the Mayor’s every effort. The sad thing is that the Council’s actions has hurt the city and they have the dubious reputation of being the worst council in recent history.
 
