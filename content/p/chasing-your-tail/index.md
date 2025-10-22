@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article"
+alttags: Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article
+related_articles:
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 95
+  rank: 1
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 95
+  rank: 2
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 3
+- slug: skunked
+  title: SKUNKED
+  score: 85
+  rank: 4
+- slug: repeat
+  title: REPEAT
+  score: 85
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 7
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 85
+  rank: 8
+- slug: bit-dogs-bark-first
+  title: BIT DOGS BARK FIRST
+  score: 75
+  rank: 9
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 10
 ---
 Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government.
 

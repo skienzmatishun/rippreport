@@ -11,7 +11,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Person in a skunk costume, referencing County Commissioner Tucker Dorsey’s nickname within the article"
+alttags: Person in a skunk costume, referencing County Commissioner Tucker Dorsey’s nickname within the article
+related_articles:
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 95
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 90
+  rank: 2
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 3
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 85
+  rank: 4
+- slug: skunked
+  title: SKUNKED
+  score: 75
+  rank: 5
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 75
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 7
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 75
+  rank: 8
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 70
+  rank: 9
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 65
+  rank: 10
 ---
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
 

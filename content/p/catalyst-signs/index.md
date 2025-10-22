@@ -15,7 +15,48 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: "Sign displaying a red prohibition symbol over the word CATALYST, referencing a political consulting firm rebranding due ..."
+alttags: Sign displaying a red prohibition symbol over the word CATALYST, referencing a political consulting firm rebranding due ...
+related_articles:
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 95
+  rank: 1
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 3
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 4
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 85
+  rank: 5
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 85
+  rank: 6
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 85
+  rank: 7
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 8
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 75
+  rank: 9
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 70
+  rank: 10
 ---
 Just like tea leaves if you look close enough at the local political signs they are sending you a subliminal message. If however you do not allow your eyes to rule your brain, the subliminal message is much clearer.
 

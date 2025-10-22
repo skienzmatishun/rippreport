@@ -9,7 +9,48 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: "Judge Michelle Thomason depicted wearing a crown and black attire, linked to concerns about her court and Catalyst organiz..."
+alttags: Judge Michelle Thomason depicted wearing a crown and black attire, linked to concerns about her court and Catalyst organiz...
+related_articles:
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 95
+  rank: 1
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 85
+  rank: 2
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 85
+  rank: 3
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 75
+  rank: 4
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 75
+  rank: 5
+- slug: catalyst-2
+  title: CATALYST
+  score: 75
+  rank: 6
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 7
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 65
+  rank: 8
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 9
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 65
+  rank: 10
 ---
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott “baby” Boone. The first client that Catalyst signed up was none other than Judge Michelle Thomason.
 

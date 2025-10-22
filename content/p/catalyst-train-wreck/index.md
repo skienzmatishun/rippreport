@@ -15,7 +15,48 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: "Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city name, related to Fairhope City Council discussion"
+alttags: 'Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city name, related to Fairhope City Council discussion'
+related_articles:
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 77
+  rank: 1
+- slug: catalyst
+  title: CATALYST
+  score: 76
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 76
+  rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 74
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 74
+  rank: 5
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 73
+  rank: 6
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 73
+  rank: 7
+- slug: s-o-s
+  title: S.O.S
+  score: 71
+  rank: 8
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 71
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 71
+  rank: 10
 ---
 Instead of a lot of links and dialog, this Freaky Friday is going to feature a portion of lasts nights Fairhope City Council Meeting:
 

@@ -13,7 +13,48 @@ tags:
 - sheriff-mack
 authors:
 - ripp-report
-alttags: "Chris Elliott and David Northcutt, candidates in a runoff election, pose for a photo amid campaign activity"
+alttags: Chris Elliott and David Northcutt, candidates in a runoff election, pose for a photo amid campaign activity
+related_articles:
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 95
+  rank: 1
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 85
+  rank: 2
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 3
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 4
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 5
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 75
+  rank: 6
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 75
+  rank: 7
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 72
+  rank: 8
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 72
+  rank: 9
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 65
+  rank: 10
 ---
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and political ambitions. Elliott is starting out to be worse than Pittman, please spare us the grief vote David Northcutt July 17th run off.
 

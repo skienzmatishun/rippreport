@@ -8,7 +8,48 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: "Cow with open mouth, symbolizing lack of progress on Baldwin County Mega-site development"
+alttags: Cow with open mouth, symbolizing lack of progress on Baldwin County Mega-site development
+related_articles:
+- slug: dead-last
+  title: DEAD LAST
+  score: 71
+  rank: 1
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 71
+  rank: 2
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 69
+  rank: 3
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 69
+  rank: 4
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 68
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 67
+  rank: 6
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 63
+  rank: 7
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 63
+  rank: 8
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 63
+  rank: 9
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 63
+  rank: 10
 ---
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new.
 

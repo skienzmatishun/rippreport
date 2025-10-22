@@ -12,7 +12,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Political satire: Candidates Dorsey & Elliott in dog costumes, referencing calls to remove them from Baldwin County elections"
+alttags: 'Political satire: Candidates Dorsey & Elliott in dog costumes, referencing calls to remove them from Baldwin County elections'
+related_articles:
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 78
+  rank: 1
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 75
+  rank: 2
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 75
+  rank: 3
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 4
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75
+  rank: 5
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 75
+  rank: 6
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 74
+  rank: 7
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 73
+  rank: 8
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 72
+  rank: 9
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 71
+  rank: 10
 ---
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to go.
 

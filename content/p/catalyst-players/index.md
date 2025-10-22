@@ -17,7 +17,48 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: "Group gathered around a table, possibly members of CATALYST, a Baldwin County political group discussed in the article"
+alttags: Group gathered around a table, possibly members of CATALYST, a Baldwin County political group discussed in the article
+related_articles:
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 95
+  rank: 1
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 95
+  rank: 2
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 3
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 4
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 85
+  rank: 5
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 85
+  rank: 6
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 7
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 75
+  rank: 8
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 9
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 75
+  rank: 10
 ---
 Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mostly secret, political group that represent the Status Quo, the good ole boys. Good ole boys exist in many places however in Baldwin County they have been bold enough to adopt the title of CATALYST.
 

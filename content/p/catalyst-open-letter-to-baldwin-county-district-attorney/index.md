@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report"
+alttags: Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report
+related_articles:
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 90
+  rank: 1
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 90
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 3
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 85
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 5
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 6
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 75
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 8
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 9
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 10
 ---
 Open letter to Baldwin County District Attorney
 

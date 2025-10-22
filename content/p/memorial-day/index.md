@@ -3,7 +3,7 @@ title: MEMORIAL DAY
 date: 2018-05-28
 thumbnail: img/memorial-day.jpg
 categories:
-- monday-madness
+- holiday
 authors:
 - ripp-report
 alttags: "Marines raising the American flag on Iwo Jima, honoring military service and sacrifice in remembrance of fallen soldiers l..."

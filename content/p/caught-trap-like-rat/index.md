@@ -1,17 +1,57 @@
 ---
-title: "CAUGHT IN A TRAP LIKE A RAT"
+title: CAUGHT IN A TRAP LIKE A RAT
 date: 2017-02-03
-thumbnail: "img/caught-in-a-trap-like-a-rat.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - ethics-complaint
-  - kant
-authors: 
-  - ripp-report
+thumbnail: img/caught-in-a-trap-like-a-rat.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- ethics-complaint
+- kant
+authors:
+- ripp-report
+related_articles:
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 69
+  rank: 1
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 68
+  rank: 2
+- slug: hate
+  title: HATE
+  score: 64
+  rank: 3
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 63
+  rank: 4
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 62
+  rank: 5
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 62
+  rank: 6
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 62
+  rank: 7
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 61
+  rank: 8
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 61
+  rank: 9
+- slug: shut-up-2
+  title: SHUT UP
+  score: 60
+  rank: 10
 ---
-
 Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and elected officials that were unethical or criminal. The interesting thing is that it is usually the good employees who come forward with information once they do not have to fear retribution from a Mayor who covered and condoned such behavior.
 
 Jack Burrell took the bait and drank the Mayor’s cool-aid thinking Mayor Kant had his back. Now Jack is in serious trouble and Kant can’t help. However Fairhope is in a pickle because Jack is the Council President and he has been using his authority to control the City Council Agenda and any presentation given in a work session. He has successfully prevented the resolution to repeal ordinance 1572, involving the Fly Creek Apartments. He has prevented individuals time at the work session and council to ask direct questions about his involvement in alleged “bid rigging”. He has used every trick possible, including a power point presentation that said nothing, to insist that the Airport Authority Land remain in the name of the Authority, while the city paid the mortgage. Now we find out Jack has been yelling because he is caught. Why does Jack refuse to put these items on the agenda?

@@ -1,19 +1,59 @@
 ---
-title: "CATALYST TRIFECTA"
+title: CATALYST TRIFECTA
 date: 2018-07-10
-thumbnail: "img/catalyst.jpg"
-categories: 
-  - terrible-tuesday
-tags: 
-  - billy-jo-underwood
-  - chris-elliott
-  - david-northcutt
-  - thomason
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/catalyst.jpg
+categories:
+- terrible-tuesday
+tags:
+- billy-jo-underwood
+- chris-elliott
+- david-northcutt
+- thomason
+- tucker-dorsey
+authors:
+- ripp-report
+related_articles:
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 68
+  rank: 1
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 68
+  rank: 2
+- slug: catalyst-2
+  title: CATALYST
+  score: 67
+  rank: 3
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 67
+  rank: 4
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 67
+  rank: 5
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 66
+  rank: 6
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 65
+  rank: 7
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 64
+  rank: 8
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 63
+  rank: 9
+- slug: million-dollar-swimming-pool
+  title: MILLION DOLLAR SWIMMING POOL
+  score: 63
+  rank: 10
 ---
-
 The Ripp Report is a non profit consumer protection organization, self funded by private donations. The donations are not tax deductible, all donations, 100% are used for advertising on Social Media.
 
 The Ripp Report is supporting three candidates in the run off July 17th.

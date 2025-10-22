@@ -1,18 +1,58 @@
 ---
-title: "CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE"
+title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
 date: 2018-03-07
-thumbnail: "img/catalyst-the-three-bees-and-chucky-cheeze.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - burrell
-  - chucky
-  - robert-brown
-authors: 
-  - ripp-report
+thumbnail: img/catalyst-the-three-bees-and-chucky-cheeze.png
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- burrell
+- chucky
+- robert-brown
+authors:
+- ripp-report
+related_articles:
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 70
+  rank: 1
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 69
+  rank: 2
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 69
+  rank: 3
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 69
+  rank: 4
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 68
+  rank: 5
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 68
+  rank: 6
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 67
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 66
+  rank: 8
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 66
+  rank: 9
+- slug: catalyst-2
+  title: CATALYST
+  score: 66
+  rank: 10
 ---
-
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate seats and all four Baldwin County commission races.
 
 ![](https://cdn.rippreport.com/chucky-225x3001.jpg)

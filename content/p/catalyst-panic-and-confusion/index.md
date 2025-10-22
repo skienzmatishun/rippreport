@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Red keyboard key labeled PANIC! symbolizing Catalyst Fairhope Councils concern over potential government changes"
+alttags: Red keyboard key labeled PANIC! symbolizing Catalyst Fairhope Councils concern over potential government changes
+related_articles:
+- slug: catalyst
+  title: CATALYST
+  score: 100
+  rank: 1
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 3
+- slug: hell-yea
+  title: HELL YEA
+  score: 85
+  rank: 4
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 75
+  rank: 5
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 75
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 75
+  rank: 7
+- slug: fear
+  title: FEAR
+  score: 75
+  rank: 8
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 70
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70
+  rank: 10
 ---
 The Catalyst Fairhope Council may be in it’s last days. The Council and the council’s legal representative has been asleep at the wheel. Instead of checking out all the legal ramifications of a change of government they selected to remain silent on the matter. They got bad advise and thought the decisions were that of the council and they were in control. WRONG the citizens are in control and Catalyst is worried.
 

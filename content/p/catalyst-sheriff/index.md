@@ -6,7 +6,48 @@ categories:
 - bcso
 authors:
 - ripp-report
-alttags: "Satirical depiction of a police chief in uniform and another figure in handcuffs, referencing Fairhope’s recent events and..."
+alttags: Satirical depiction of a police chief in uniform and another figure in handcuffs, referencing Fairhope’s recent events and...
+related_articles:
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 90
+  rank: 1
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 2
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 85
+  rank: 3
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 5
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 75
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 70
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 65
+  rank: 9
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 65
+  rank: 10
 ---
 When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, Bill Press. Maybe you could ask the current Fairhope Police Chief who, today, just announced his retirement after 36 years, Chief Joseph Pettis.
 

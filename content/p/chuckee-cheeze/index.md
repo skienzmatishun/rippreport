@@ -6,7 +6,48 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: "Chucky doll caricature representing Chuckee Cheeze, a local journalist criticized in an article about Fairhope politics"
+alttags: Chucky doll caricature representing Chuckee Cheeze, a local journalist criticized in an article about Fairhope politics
+related_articles:
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 85
+  rank: 1
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 3
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 4
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 75
+  rank: 5
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 75
+  rank: 6
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 9
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 65
+  rank: 10
 ---
 CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of Catalyst, the Good ole boys, special interest and elected officials and Judges who are more concerned with their interest than those of the city.
 

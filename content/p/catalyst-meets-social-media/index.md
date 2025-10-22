@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Megaphone icon representing concerns about Catalyst group’s influence in Baldwin County politics"
+alttags: Megaphone icon representing concerns about Catalyst group’s influence in Baldwin County politics
+related_articles:
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 95
+  rank: 1
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 95
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 90
+  rank: 3
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 90
+  rank: 4
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 5
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 6
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 85
+  rank: 7
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 8
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 9
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 85
+  rank: 10
 ---
 Today I enter V.A. for my 14th shoulder operation, so if ya do not see a Wonderful Wednesday next week, you will know why. One more operation in December and if I follow the instructions of the doctors, I should be swimming by next summer.
 

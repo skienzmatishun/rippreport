@@ -11,7 +11,48 @@ tags:
 - zundel-road
 authors:
 - ripp-report
-alttags: "Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions"
+alttags: Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions
+related_articles:
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 66
+  rank: 1
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 65
+  rank: 2
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 62
+  rank: 3
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 62
+  rank: 4
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 62
+  rank: 5
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 62
+  rank: 6
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 62
+  rank: 7
+- slug: skunked
+  title: SKUNKED
+  score: 61
+  rank: 8
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 61
+  rank: 9
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 61
+  rank: 10
 ---
 It does not take a chain saw, it only takes a vote.
 

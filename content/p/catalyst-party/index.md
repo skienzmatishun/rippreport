@@ -6,7 +6,48 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: "Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca..."
+alttags: 'Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca...'
+related_articles:
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 85
+  rank: 1
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 75
+  rank: 2
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 75
+  rank: 3
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 75
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 5
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 70
+  rank: 6
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 65
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 50
+  rank: 10
 ---
 The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting subjects. To save you a little time check in at 12:40 minute mark, beginning of #7.
 

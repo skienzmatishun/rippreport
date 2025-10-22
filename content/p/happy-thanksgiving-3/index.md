@@ -2,7 +2,7 @@
 title: "Happy Thanksgiving"
 date: 2018-11-22
 categories: 
-  - Special-Report
+  - holiday
 authors: 
   - ripp-report
 ---

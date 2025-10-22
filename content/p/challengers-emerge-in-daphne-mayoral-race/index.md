@@ -1,14 +1,54 @@
 ---
-title: "Challengers emerge in Daphne mayoral race"
+title: Challengers emerge in Daphne mayoral race
 date: 2016-07-21
-thumbnail: "img/lagniappe.png"
-tags: 
-  - daphne
-  - lake
-authors: 
-  - ripp-report
+thumbnail: img/lagniappe.png
+tags:
+- daphne
+- lake
+authors:
+- ripp-report
+related_articles:
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 67
+  rank: 1
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 63
+  rank: 2
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 63
+  rank: 3
+- slug: qualified-daphne-district-6-city-council
+  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
+  score: 63
+  rank: 4
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 62
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 60
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 60
+  rank: 7
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 59
+  rank: 8
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 59
+  rank: 9
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 59
+  rank: 10
 ---
-
 By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://lagniappemobile.com)
 
 As qualifying for municipal election candidates comes to a close this week, three candidates have emerged to challenge incumbent mayor Dane Haygood in Daphne in the Aug. 23 city election.

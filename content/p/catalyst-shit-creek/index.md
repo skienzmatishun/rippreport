@@ -15,7 +15,48 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: "Brown water in a creek, likely polluted, reflecting concerns about environmental violations mentioned in the article"
+alttags: Brown water in a creek, likely polluted, reflecting concerns about environmental violations mentioned in the article
+related_articles:
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 85
+  rank: 1
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 2
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 75
+  rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75
+  rank: 4
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 5
+- slug: wetlands
+  title: WETLANDS
+  score: 75
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 7
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 65
+  rank: 8
+- slug: skunked
+  title: SKUNKED
+  score: 65
+  rank: 9
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 65
+  rank: 10
 ---
 The Ripp Report has written about CATALYST for years. We have filed numerous complaints with the Attorney General involving political corruption and have received no reply. It seems that political corruption is not as important as the sewer violations.
 

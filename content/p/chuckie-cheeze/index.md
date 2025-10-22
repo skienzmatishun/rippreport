@@ -13,7 +13,48 @@ tags:
 - tatumville
 authors:
 - ripp-report
-alttags: "Chucky doll portrait symbolizing poor journalism and political manipulation in Baldwin County media"
+alttags: Chucky doll portrait symbolizing poor journalism and political manipulation in Baldwin County media
+related_articles:
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 85
+  rank: 1
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 2
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 3
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 85
+  rank: 4
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 5
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 75
+  rank: 6
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 7
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 75
+  rank: 8
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 9
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 10
 ---
 April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good journalist, Connie Baggett and Mike Odom were two of the best. What we have been left with is more than embarrassing, it is a travesty of free speech and journalism.
 
