@@ -16,7 +16,48 @@ tags:
 - triangle-lawsuit
 authors:
 - ripp-report
-alttags: "Crowd illustration representing Fairhope citizens encouraged by Councilman Conyers to participate in public discussions ab..."
+alttags: Crowd illustration representing Fairhope citizens encouraged by Councilman Conyers to participate in public discussions ab...
+related_articles:
+- slug: 100-voices
+  title: 100 VOICES
+  score: 95
+  rank: 1
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 2
+- slug: invitation
+  title: INVITATION
+  score: 85
+  rank: 3
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 5
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 7
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 75
+  rank: 8
+- slug: communication
+  title: COMMUNICATION
+  score: 65
+  rank: 9
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 10
 ---
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on the Triangle property 109 acres.
 

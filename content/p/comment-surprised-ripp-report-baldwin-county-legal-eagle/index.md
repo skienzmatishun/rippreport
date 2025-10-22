@@ -1,17 +1,57 @@
 ---
-title: "WHO’S RESPONSIBLE?"
+title: WHO’S RESPONSIBLE?
 date: 2017-05-03
-thumbnail: "img/who-is-responsible.gif"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - burrell
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/who-is-responsible.gif
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- burrell
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 85
+  rank: 1
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 2
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 75
+  rank: 3
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 75
+  rank: 4
+- slug: communication
+  title: COMMUNICATION
+  score: 75
+  rank: 5
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 6
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 7
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 65
+  rank: 8
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65
+  rank: 9
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 52
+  rank: 10
 ---
-
 The last two Ripp Report posts,
 
 {{< socialpreview url="https://rippreport.com/p/comment-are-you-surprised-at-all/" >}}

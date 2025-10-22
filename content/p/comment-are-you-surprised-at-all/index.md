@@ -1,5 +1,5 @@
 ---
-title: "Comment: Are You Surprised at all??????"
+title: 'Comment: Are You Surprised at all??????'
 date: 2017-04-30
 thumbnail: img/comment-are-you-surprised-at-all.jpg
 categories:
@@ -14,7 +14,48 @@ tags:
 - tucker-dorsey
 authors:
 - admin
-alttags: "Question mark against a black background, hinting at upcoming changes in Fairhope decision-making processes"
+alttags: Question mark against a black background, hinting at upcoming changes in Fairhope decision-making processes
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 1
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 75
+  rank: 2
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 75
+  rank: 3
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 65
+  rank: 5
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 6
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 65
+  rank: 7
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 65
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 9
+- slug: scary
+  title: SCARY
+  score: 40
+  rank: 10
 ---
 FAIRNESS IS THE DEFINITION OF ANYBODY THAT WE GIVE ANY OF OUR TRUST TO!!!!!!!
 

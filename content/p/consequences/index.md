@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Falling dominoes represent former State Rep. Randy Davis seeking leniency in a corruption case indictment"
+alttags: Falling dominoes represent former State Rep. Randy Davis seeking leniency in a corruption case indictment
+related_articles:
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 90
+  rank: 1
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 85
+  rank: 2
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 85
+  rank: 3
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 4
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 85
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 6
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 75
+  rank: 7
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75
+  rank: 8
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 75
+  rank: 9
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 65
+  rank: 10
 ---
 “According to court records filed Friday, State Rep. Randy Davis of Daphne is attempting to avoid prosecution from federal conspiracy and bribery charges through pretrial diversion regarding an indictment unsealed in Montgomery last year.”
 

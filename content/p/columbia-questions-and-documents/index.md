@@ -13,7 +13,48 @@ tags:
 - fema-fraud
 authors:
 - admin
-alttags: "Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama"
+alttags: Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama
+related_articles:
+- slug: documents
+  title: DOCUMENTS
+  score: 85
+  rank: 1
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 3
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 75
+  rank: 4
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 6
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65
+  rank: 7
+- slug: threesome
+  title: THREESOME
+  score: 65
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 9
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65
+  rank: 10
 ---
 If every municipality in Alabama had a “Concerned Citizen” such as the one in Columbia, Alabama, Alabama would not be so political corrupt. A concerned citizen is just the first step, where the hell is the Ethics Commission, Attorney General or FBI?
 

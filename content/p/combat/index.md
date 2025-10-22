@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Bald eagle portrait against a red background, symbolizing service and sacrifice for a Vietnam veteran’s healthcare journey"
+alttags: Bald eagle portrait against a red background, symbolizing service and sacrifice for a Vietnam veteran’s healthcare journey
+related_articles:
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 85
+  rank: 1
+- slug: memorial-day
+  title: MEMORIAL DAY
+  score: 85
+  rank: 2
+- slug: recovery
+  title: RECOVERY
+  score: 75
+  rank: 3
+- slug: symbol
+  title: Veterans Day
+  score: 75
+  rank: 4
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 75
+  rank: 5
+- slug: im-back
+  title: I'M BACK
+  score: 75
+  rank: 6
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 65
+  rank: 7
+- slug: christmas
+  title: MERRY CHRISTMAS
+  score: 65
+  rank: 8
+- slug: the-big-lie
+  title: THE BIG LIE
+  score: 65
+  rank: 9
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 50
+  rank: 10
 ---
 My first visit to the Veterans Hospital in Birmingham Alabama was in December of 1968, 51 years ago. Since that time I have had 14 shoulder operations and a kidney removed as a result of my tour of duty as a young Marine in Vietnam.
 

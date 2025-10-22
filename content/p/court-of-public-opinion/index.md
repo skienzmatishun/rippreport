@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Scales balance one side showing a thumbs up, the other a thumbs down, representing Baldwin County’s upcoming election choices"
+alttags: Scales balance one side showing a thumbs up, the other a thumbs down, representing Baldwin County’s upcoming election choices
+related_articles:
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 90
+  rank: 1
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 85
+  rank: 2
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 3
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 85
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 5
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 85
+  rank: 6
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 7
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 8
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 9
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 10
 ---
 In 2017 The Ripp Report covered many different political issues in Baldwin County. Many of these issues will travel into 2018 and raise their ugly head again.
 

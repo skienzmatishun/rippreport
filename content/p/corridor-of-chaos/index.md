@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Map highlighting a planned unit development (Catalyst) near Fairhope Avenue and Hwy 181 in Fairhope, Alabama"
+alttags: Map highlighting a planned unit development (Catalyst) near Fairhope Avenue and Hwy 181 in Fairhope, Alabama
+related_articles:
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 95
+  rank: 1
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
+  rank: 3
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 85
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 5
+- slug: survey
+  title: SURVEY
+  score: 75
+  rank: 6
+- slug: fairness
+  title: FAIRNESS
+  score: 75
+  rank: 7
+- slug: big-heads
+  title: BIG HEADS
+  score: 75
+  rank: 8
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 65
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 10
 ---
 ## North is up
 

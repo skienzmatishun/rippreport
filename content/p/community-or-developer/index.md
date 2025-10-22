@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Question mark icon representing ongoing debate over Fly Creek PUD sunset provision in Fairhope city council agenda"
+alttags: Question mark icon representing ongoing debate over Fly Creek PUD sunset provision in Fairhope city council agenda
+related_articles:
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 90
+  rank: 1
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 90
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 3
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 75
+  rank: 4
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 75
+  rank: 5
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 65
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65
+  rank: 10
 ---
 Sorry for the delay of the Ripp Report.
 

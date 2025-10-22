@@ -14,7 +14,48 @@ tags:
 - ronan
 authors:
 - ripp-report
-alttags: "Communication breakdown: Three figures surrounded by speech bubbles illustrate issues between Fairhope’s Mayor and City Co..."
+alttags: 'Communication breakdown: Three figures surrounded by speech bubbles illustrate issues between Fairhope’s Mayor and City Co...'
+related_articles:
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 85
+  rank: 1
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 2
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 3
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 4
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 75
+  rank: 5
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 65
+  rank: 6
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 7
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 65
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 9
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 10
 ---
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City Attorney.
 

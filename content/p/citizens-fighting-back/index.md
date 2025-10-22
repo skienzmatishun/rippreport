@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Citizens raising fists in solidarity against local government overreach in Baldwin County"
+alttags: Citizens raising fists in solidarity against local government overreach in Baldwin County
+related_articles:
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 85
+  rank: 1
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 85
+  rank: 2
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 3
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 75
+  rank: 4
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 5
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 75
+  rank: 6
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 75
+  rank: 7
+- slug: battle-of-weeks-family
+  title: BATTLE OF WEEKS “FAMILY”
+  score: 70
+  rank: 8
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 65
+  rank: 9
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 10
 ---
 Baldwin County is changing, for the better, when it comes to public participation and citizens standing up to local municipal governments who have traditionally run roughshod over it’s own citizens. In the past small municipalities in Baldwin County did “their own thing”, when it came down to running city government. Mayors and Councils, sometime just the Mayor or just the council, would bully issues and controversial projects, through the process of approval, crying all the time to the citizens, that their was nothing they could do.
 

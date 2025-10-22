@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Fairhope, Alabama: American flag waves over a fountain in downtown area, celebrating approved BP RESTORE project funding"
+alttags: 'Fairhope, Alabama: American flag waves over a fountain in downtown area, celebrating approved BP RESTORE project funding'
+related_articles:
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 75
+  rank: 1
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 75
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 3
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65
+  rank: 4
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 7
+- slug: stepping-up
+  title: STEPPING UP
+  score: 65
+  rank: 8
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 65
+  rank: 9
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 65
+  rank: 10
 ---
 After many years, countless meetings, most very boring, perseverance, and well written proposals, Fairhope will finally see serious BP money.
 
