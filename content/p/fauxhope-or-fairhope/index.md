@@ -15,7 +15,48 @@ tags:
 - George Ferniany
 authors:
 - ripp-report
-alttags: "Fairhope city clocks representing a challenge to the status quo in the upcoming municipal election"
+alttags: Fairhope city clocks representing a challenge to the status quo in the upcoming municipal election
+related_articles:
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 95
+  rank: 1
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 92
+  rank: 2
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 90
+  rank: 3
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 90
+  rank: 4
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 6
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 75
+  rank: 7
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 75
+  rank: 8
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 75
+  rank: 9
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 75
+  rank: 10
 ---
 DON’T TAKE THE BAIT — VOTE FOR THE SLATE
 

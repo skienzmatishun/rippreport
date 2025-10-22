@@ -1,13 +1,53 @@
 ---
-title: "FAUXHOPE"
+title: FAUXHOPE
 date: 2022-06-29
-thumbnail: "img/faux-hope.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/faux-hope.png
+categories:
+- wonderful-wednesday
+authors:
+- admin
+related_articles:
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 97
+  rank: 1
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 95
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 95
+  rank: 3
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 95
+  rank: 4
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 85
+  rank: 5
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 6
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 65
+  rank: 7
+- slug: exposure-2
+  title: EXPOSURE
+  score: 65
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 9
+- slug: victory
+  title: VICTORY
+  score: 65
+  rank: 10
 ---
-
 The citizens of Fairhope need to realize that all the infrastructure problems and electrical and water shortages are the result of neglect during the, Tim Kant, Can’t administration, 2000 to 2016. The second thing is that the same council as today with the exception of Cory Martin were on the council under Kant. Sherry Sullivan worked under Kant. The problems Fairhope has today were predicted years ago.
 
 The irony is, the same individuals want to blame the last administration, which had the same do nothing council. During the Wilson administration, 2016/2020, the council slowed down or denied infrastructure projects and the digging of new needed wells. Their actions were 100% politically motivated and now the quality of life, Fairhope once had, is slipping away.

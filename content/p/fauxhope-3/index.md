@@ -1,18 +1,58 @@
 ---
-title: "FAUXHOPE"
+title: FAUXHOPE
 date: 2024-11-03
-thumbnail: "img/fauxhope-3.png"
-summary: "Fauxhope is falling apart because of bad leaders and too much building. The people in charge spend money on parks and moving old houses. They don’t fix broken pipes, sewers, or roads. The mayor gets paid for two jobs. She isn’t trained for one of them. Leaders gave themselves another year in their jobs without asking voters. Now they’re spending $10 million on a project by the water. It’s not what people wanted. It probably helps their friends who build things. The local news media says everything is fine. But the bay is getting dirty. Regular people have to deal with the mess."
+thumbnail: img/fauxhope-3.png
+summary: Fauxhope is falling apart because of bad leaders and too much building. The people in charge spend money on parks and moving old houses. They don’t fix broken pipes, sewers, or roads. The mayor gets paid for two jobs. She isn’t trained for one of them. Leaders gave themselves another year in their jobs without asking voters. Now they’re spending $10 million on a project by the water. It’s not what people wanted. It probably helps their friends who build things. The local news media says everything is fine. But the bay is getting dirty. Regular people have to deal with the mess.
 tags:
-  - City Council
-  - Mayor Sullivan
-  - Infrastructure
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- City Council
+- Mayor Sullivan
+- Infrastructure
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 95
+  rank: 1
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 2
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 90
+  rank: 3
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 5
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 85
+  rank: 6
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 85
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 85
+  rank: 8
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 85
+  rank: 9
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 75
+  rank: 10
 ---
-
 The quality of life has diminished in Fauxhope. The small quaint town of Fauxhope is disappearing and being swallowed up by development. The disconnect between the City Council and Mayor and the community is a mile wide. It is no secret that both council and Mayor were supported by developers. The result of that has increased traffic and caused further strain on an already taxed infrastructure. City priorities are decided by very few people and council meetings are a waste of time.
 
 

@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Chucky doll portrait representing disruptive online comments unwelcome on The Ripp Report website"
+alttags: Chucky doll portrait representing disruptive online comments unwelcome on The Ripp Report website
+related_articles:
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 75
+  rank: 1
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 75
+  rank: 2
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70
+  rank: 3
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 70
+  rank: 4
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 66
+  rank: 5
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 65
+  rank: 6
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 7
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 65
+  rank: 8
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 65
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 10
 ---
 First let me announce that no longer will the Ripp Report accept comments from Jester 666 and the Truth teller, most likely one in the same. Their comments add nothing to the subjects at hand and the personal attacks, some sexiest, will not be tolerated. Their comments are meant to distract from the subject at hand. They Do represent what is NOT needed in Fairhope or Baldwin County. They will continue to filter into the site from time to time and we will continue to eliminate them. The Ripp Report seeks to have constructive conversations based on documented facts.
 

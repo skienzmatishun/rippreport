@@ -12,7 +12,48 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: "Gas pump icon representing Governor Ivey’s announced special session for a gas tax increase"
+alttags: Gas pump icon representing Governor Ivey’s announced special session for a gas tax increase
+related_articles:
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 85
+  rank: 1
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 85
+  rank: 2
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 75
+  rank: 3
+- slug: stepping-up
+  title: STEPPING UP
+  score: 75
+  rank: 4
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 75
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65
+  rank: 6
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 65
+  rank: 7
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 55
+  rank: 8
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 54
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 50
+  rank: 10
 ---
 Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money for infrastructure two paragraphs later we find out the State Docks are going to get between 400,000 and 600,000 for dredging the ship channel.
 

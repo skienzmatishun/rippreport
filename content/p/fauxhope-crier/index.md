@@ -1,18 +1,58 @@
 ---
-title: "FAUXHOPE CRIER"
+title: FAUXHOPE CRIER
 date: 2023-09-05
-thumbnail: "img/town-crier.png"
-gif: "img/town-crier.gif"
+thumbnail: img/town-crier.png
+gif: img/town-crier.gif
 tags:
-  - Cory Martin
-  - City Council
-  - Utilities
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- Cory Martin
+- City Council
+- Utilities
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 92
+  rank: 1
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 85
+  rank: 2
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 3
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 75
+  rank: 4
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 75
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 7
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 8
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 75
+  rank: 9
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 10
 ---
-
 Fauxhope has a new City Council Crier, Councilman Cory Martin. This is no surprise the balance of the council hides from the public and rarely return phone calls. This also goes for the unqualified Utility Director and developer candidate/ Mayor. So Cory will be the new uninformed spokesperson, and, sacrificial lamb, for the Fauxhope council.
 
 For those that are just catching up, Fauxhope government, Mayor, Council, Municipal Judge and Municipal Attorney all were supported 100% by special interests, developers, and good ole boys. They OWN Fauxhope.

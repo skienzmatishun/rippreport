@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "City of Fairhope, Alabama seal depicting buildings and a For Sale sign, highlighting concerns about municipal spending a..."
+alttags: City of Fairhope, Alabama seal depicting buildings and a For Sale sign, highlighting concerns about municipal spending a...
+related_articles:
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 95
+  rank: 1
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 85
+  rank: 2
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 85
+  rank: 3
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 75
+  rank: 4
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 75
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 75
+  rank: 6
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65
+  rank: 7
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 9
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 65
+  rank: 10
 ---
 FAUXHOPE is living up to it’s name. Fairhope is not what you think when it comes to municipal government. The waste of taxpayer money is staggering, yet few people are even interested. The delay of the waterfront project is just one example. For close to a year the council has tried to get around any ADA compliance for the project. From day one the then Mayor Wilson explained that the grant, 6.2 million, required ADA compliance.
 

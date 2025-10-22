@@ -17,7 +17,48 @@ tags:
 - lynn-stacy
 authors:
 - admin
-alttags: "Hand casting a ballot, symbolizing CATALYST’s manipulation of “faux” candidates in upcoming elections"
+alttags: Hand casting a ballot, symbolizing CATALYST’s manipulation of “faux” candidates in upcoming elections
+related_articles:
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 95
+  rank: 1
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 95
+  rank: 2
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 85
+  rank: 3
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 4
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 5
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 6
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 7
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 85
+  rank: 8
+- slug: election-ad
+  title: ELECTION AD
+  score: 85
+  rank: 9
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 78
+  rank: 10
 ---
 It is election time and CATALYST is at work stroking FAUX candidates that are willing to fall on the sword for CATALYST.
 

@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Site plan rendering shows proposed Fly Creek Apartments complex, surrounded by trees, awaiting council approval for a mult..."
+alttags: Site plan rendering shows proposed Fly Creek Apartments complex, surrounded by trees, awaiting council approval for a mult...
+related_articles:
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 90
+  rank: 1
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 85
+  rank: 2
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 85
+  rank: 3
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 85
+  rank: 4
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 75
+  rank: 5
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 75
+  rank: 6
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 75
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 8
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 65
+  rank: 9
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 65
+  rank: 10
 ---
 For the 10th time citizens packed the city council chambers to discuss the Fly Creek Apartments and again their comments fell on deaf ears. Four councilmen voted for the extension of the sunset clause that allows the developer another 120 days to get a multiple occupancy site plan.
 
