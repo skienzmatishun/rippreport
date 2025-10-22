@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale graphic, illustrating Baldwin County’s emerging se..."
+alttags: Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale graphic, illustrating Baldwin County’s emerging se...
+related_articles:
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 85
+  rank: 1
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 75
+  rank: 2
+- slug: water
+  title: Water
+  score: 75
+  rank: 3
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 4
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 65
+  rank: 5
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 65
+  rank: 6
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 50
+  rank: 7
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 50
+  rank: 8
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 50
+  rank: 9
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 50
+  rank: 10
 ---
 Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGET
 

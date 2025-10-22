@@ -15,7 +15,48 @@ tags:
 summary: Of all the Mayors in Baldwin County. Mayor Bob Wills is the most disgusting. Every voter in Bay Minette should remember O. J. French , every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the Sheriff Department. The Baldwin County Major Crimes Unit who investigates themselves.
 authors:
 - admin
-alttags: "Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom"
+alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
+related_articles:
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 92
+  rank: 1
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 85
+  rank: 2
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 85
+  rank: 3
+- slug: rumors
+  title: RUMORS
+  score: 85
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 75
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 75
+  rank: 6
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 65
+  rank: 7
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 60
+  rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 50
+  rank: 9
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 50
+  rank: 10
 ---
 Of all the Mayors in Baldwin County. <a href="https://www.google.com/search?q=mayor+wills&as_sitesearch=rippreport.com">Mayor Bob Wills</a> is the most disgusting. Every voter in Bay Minette should remember <a href="https://www.google.com/search?q=oj+french&as_sitesearch=rippreport.com">O. J. French </a>, every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the <a href="https://www.google.com/search?q=bcso&as_sitesearch=rippreport.com">Sheriff Department</a>. The <a href="https://www.google.com/search?q=BCMCU&as_sitesearch=rippreport.com">Baldwin County Major Crimes Unit</a> who investigates themselves.
 

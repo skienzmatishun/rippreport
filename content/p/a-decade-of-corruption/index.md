@@ -22,42 +22,42 @@ alttags: Scale balancing money bag against a person figure, symbolizing alleged 
 related_articles:
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 85
+  score: 90
   rank: 1
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 85
-  rank: 2
 - slug: catalyst-justice
   title: CATALYST JUSTICE
+  score: 90
+  rank: 2
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
   score: 85
   rank: 3
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 85
-  rank: 4
 - slug: absolute-power
   title: ABSOLUTE POWER
   score: 85
+  rank: 4
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 85
   rank: 5
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
   score: 85
   rank: 6
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 82
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 85
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 82
-  rank: 8
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 78
+  score: 85
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 75
   rank: 9
-- slug: threesome
-  title: THREESOME
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
   score: 75
   rank: 10
 ---

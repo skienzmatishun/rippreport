@@ -10,7 +10,48 @@ tags:
 - scott-boone
 authors:
 - admin
-alttags: "CATALYST logo obscured by sunglasses and a red circle, representing controversial Baldwin County political group now calle..."
+alttags: CATALYST logo obscured by sunglasses and a red circle, representing controversial Baldwin County political group now calle...
+related_articles:
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 1
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 85
+  rank: 2
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 3
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 85
+  rank: 4
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 5
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 85
+  rank: 6
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 85
+  rank: 7
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 75
+  rank: 8
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 65
+  rank: 9
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 50
+  rank: 10
 ---
 Some people new to Baldwin County politics want to know what the hell is CATALYST. CATALYST was the name of the good ole boys until it became so toxic, that they recently changed their name to Scott Boone Consulting. This is the same individual that was running CATALYST, they are just hiding under another name, the smell is the same.
 

@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "A frog sits on a pot handle, illustrating the boiling frog fable about gradual unnoticed danger"
+alttags: A frog sits on a pot handle, illustrating the boiling frog fable about gradual unnoticed danger
+related_articles:
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 85
+  rank: 1
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 75
+  rank: 2
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 75
+  rank: 3
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 75
+  rank: 4
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 65
+  rank: 5
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 65
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 55
+  rank: 7
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 50
+  rank: 8
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 45
+  rank: 9
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 45
+  rank: 10
 ---
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.”
 

@@ -12,7 +12,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "Aircraft cockpit view shows runway and fountain; Fairhope Airport expansion raises questions about future development plans"
+alttags: Aircraft cockpit view shows runway and fountain; Fairhope Airport expansion raises questions about future development plans
+related_articles:
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 85
+  rank: 1
+- slug: flying-high
+  title: FLYING HIGH
+  score: 85
+  rank: 2
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 85
+  rank: 3
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 75
+  rank: 4
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 75
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 6
+- slug: nuff-said
+  title: NUFF SAID
+  score: 75
+  rank: 7
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 65
+  rank: 8
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 65
+  rank: 9
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 65
+  rank: 10
 ---
 The Fairhope Airport Authority, under control of Fairhope Council President Jack Burrell, continues to raise eyebrows,”What the hell is really going on at the Airport.” Millions of development dollars from federal agencies have expanded the airport with additional runways. Hangers are being offered on long term leases and no specific long range plan has been presented to the public.
 

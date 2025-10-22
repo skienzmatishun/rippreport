@@ -19,43 +19,43 @@ alttags: American flag symbolizing justice system failings in Baldwin County’s
 related_articles:
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 85
+  score: 95
   rank: 1
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 85
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 90
   rank: 2
-- slug: baldwin-county
-  title: BALDWIN COUNTY
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
   score: 85
   rank: 3
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 82
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 85
   rank: 4
-- slug: exposure
-  title: EXPOSURE
-  score: 78
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
   rank: 5
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 78
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
   rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78
+  score: 82
   rank: 7
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 78
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 82
   rank: 8
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 78
+  score: 75
   rank: 9
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 78
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 75
   rank: 10
 ---
 A good example of Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure, is all exposed in one incident, the McSharry assault case.

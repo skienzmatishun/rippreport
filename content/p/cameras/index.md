@@ -9,7 +9,48 @@ categories:
 thumbnail: /img/cameras.jpg
 authors:
 - admin
-alttags: "Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology"
+alttags: Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology
+related_articles:
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 75
+  rank: 1
+- slug: rumors
+  title: RUMORS
+  score: 75
+  rank: 2
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 75
+  rank: 3
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 70
+  rank: 4
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 70
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 65
+  rank: 6
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 65
+  rank: 7
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 65
+  rank: 8
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 65
+  rank: 9
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 50
+  rank: 10
 ---
 Let me make one thing perfectly clear, I am pro police. Police are a necessary. Police are responsible to the public, they work for the public. What gives police a bad name are a few officers that think they must use lethal force, when it is not necessary. Firearm training for police teaches how to kill not wound and to many officers are to damn quick on the draw.
 

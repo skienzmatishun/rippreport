@@ -15,43 +15,43 @@ alttags: Fairhope city clock tower under surveillance cameras, symbolizing a cou
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 85
+  score: 100
   rank: 1
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 95
+  rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 2
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
+  score: 90
   rank: 3
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 85
-  rank: 4
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 82
+  score: 85
+  rank: 4
+- slug: back-stabber
+  title: BACK STABBER
+  score: 85
   rank: 5
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 78
+- slug: 100-voices
+  title: 100 VOICES
+  score: 85
   rank: 6
 - slug: in-the-dark
   title: IN THE DARK
-  score: 75
+  score: 85
   rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 78
+  rank: 8
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
   score: 75
-  rank: 8
-- slug: truth
-  title: TRUTH
-  score: 75
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75
+- slug: invitation
+  title: INVITATION
+  score: 65
   rank: 10
 ---
 The Fauxhope City Council agenda looks like business as usual. However a closer look just shows how the council is doing what THEY damn well want to do, without public discussion. Oh sure they have public participation for three minutes per person. Those who have follow the development elected council know the council is deaf when it comes to any public participation.

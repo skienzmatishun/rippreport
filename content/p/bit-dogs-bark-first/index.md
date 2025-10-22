@@ -15,7 +15,48 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: "Labrador Retriever dog grinning mischievously, perhaps distracted like football fans unaware of Fairhope City Council news"
+alttags: Labrador Retriever dog grinning mischievously, perhaps distracted like football fans unaware of Fairhope City Council news
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 1
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 2
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 75
+  rank: 3
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 75
+  rank: 4
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 5
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 65
+  rank: 6
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 65
+  rank: 7
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 65
+  rank: 8
+- slug: jack-ass
+  title: JACK ASS
+  score: 65
+  rank: 9
+- slug: honey-bees
+  title: HONEY BEES
+  score: 60
+  rank: 10
 ---
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple of councilmen were hoping you were distracted.
 

@@ -16,35 +16,35 @@ related_articles:
   rank: 1
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 85
+  score: 98
   rank: 2
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 3
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
   score: 85
-  rank: 3
+  rank: 4
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
   score: 85
-  rank: 4
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 82
   rank: 5
 - slug: black-hole
   title: BLACK HOLE
-  score: 78
+  score: 85
   rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 78
-  rank: 7
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 78
+  score: 85
+  rank: 7
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 82
   rank: 8
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 75
+  score: 65
   rank: 9
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne

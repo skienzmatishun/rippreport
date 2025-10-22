@@ -10,45 +10,45 @@ authors:
 - ripp-report
 alttags: Map of Alabama marked as “Last Place” in education rankings, overlaid with a red ribbon
 related_articles:
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 85
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 92
   rank: 1
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 82
+  score: 85
   rank: 2
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 85
+  rank: 3
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 85
+  rank: 4
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 82
+  rank: 5
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
   score: 82
-  rank: 3
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 82
+  rank: 7
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
   score: 82
-  rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 78
-  rank: 5
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 78
-  rank: 6
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 75
-  rank: 7
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 75
   rank: 8
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 70
+  rank: 9
 - slug: tiny-steps
   title: TINY STEPS
   score: 65
-  rank: 9
-- slug: insanity-2
-  title: INSANITY
-  score: 58
   rank: 10
 ---
 In today's National news, Alabama is capturing the headlines.

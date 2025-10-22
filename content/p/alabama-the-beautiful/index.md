@@ -18,37 +18,37 @@ related_articles:
   title: ALABAMA UGLY
   score: 85
   rank: 2
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
-  rank: 3
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 85
-  rank: 4
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
   score: 85
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 85
   rank: 5
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 85
+  rank: 6
 - slug: poison-water-alabama-senate-special-election
   title: POISON WATER - Alabama Senate Special Election
-  score: 78
-  rank: 6
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 78
+  score: 85
   rank: 7
-- slug: black-hole
-  title: BLACK HOLE
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
   score: 75
   rank: 8
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 75
+  rank: 9
 - slug: alabama-suicide
   title: ALABAMA SUICIDE
   score: 65
-  rank: 9
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 55
   rank: 10
 ---
 Yesterday Alabama stood on the side of Country before party. Some think the party and straight ticket voting is the only answer, regardless of allegations. Truth is this is the core problem and bad politicians get elected this way. The party will cover up crimes hinder investigations and deny deny deny before admitting the party members guilt.

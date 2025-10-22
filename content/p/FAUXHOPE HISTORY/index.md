@@ -9,44 +9,44 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 85
-  rank: 1
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 85
-  rank: 2
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 3
+  score: 95
+  rank: 1
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 95
+  rank: 2
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 85
-  rank: 4
+  score: 92
+  rank: 3
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 85
+  score: 90
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 90
   rank: 5
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 85
+  score: 90
   rank: 6
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
   score: 85
   rank: 7
 - slug: fauxhope
   title: FAUXHOPE
   score: 85
   rank: 8
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 82
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 70
   rank: 9
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
+- slug: all-mouth
+  title: ALL MOUTH
   score: 65
   rank: 10
 ---

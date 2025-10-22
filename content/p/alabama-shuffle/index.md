@@ -8,45 +8,45 @@ authors:
 - admin
 alttags: Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics
 related_articles:
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 95
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 90
   rank: 1
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 90
+  rank: 2
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
   score: 85
-  rank: 2
+  rank: 3
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 85
+  rank: 4
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 85
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 85
+  rank: 6
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 85
+  rank: 7
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 85
+  rank: 8
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 82
-  rank: 3
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 82
-  rank: 4
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 78
-  rank: 5
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 78
-  rank: 6
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 78
-  rank: 7
+  rank: 9
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 78
-  rank: 8
-- slug: black-hole
-  title: BLACK HOLE
-  score: 75
-  rank: 9
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 35
+  score: 82
   rank: 10
 ---
 The Attorney General of Alabama, Steve Marshall is doing the Alabama Shuffle. It is easy he just mentions key words like Biden, Abortion, Immigration or files frivolous lawsuits. That is all it takes to sidetrack his constituents. Marshall may go down as the worst Alabama A.G. “Always Gone” in the last 25 years.

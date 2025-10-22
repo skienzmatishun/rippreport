@@ -14,45 +14,45 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 98
-  rank: 1
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
   score: 95
+  rank: 1
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 85
   rank: 2
 - slug: backstory-podcast-no-54-trump-positive
   title: Backstory Podcast No 54 Trump Positive
   score: 85
   rank: 3
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 85
-  rank: 4
 - slug: bsp-tlp
   title: Backstory Podcast No 56 The Lincoln Project
   score: 85
-  rank: 5
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 85
-  rank: 6
+  rank: 4
 - slug: backstory-podcast-no-64-300000-dead
   title: Backstory Podcast No 64 - 300,000 Dead
   score: 85
-  rank: 7
+  rank: 5
 - slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
   title: Backstory Podcast No 65 Happy New Year Goodbye 2020
   score: 85
-  rank: 8
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
+  rank: 6
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
   score: 85
+  rank: 7
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 75
+  rank: 8
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 70
   rank: 9
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 75
+  score: 65
   rank: 10
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F1004441039980745%2F&amp;show_text=false&amp;width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>

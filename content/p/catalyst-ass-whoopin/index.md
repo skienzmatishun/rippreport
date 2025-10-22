@@ -17,7 +17,48 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: "Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis"
+alttags: 'Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis'
+related_articles:
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 85
+  rank: 1
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 85
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 4
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 5
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 75
+  rank: 6
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 75
+  rank: 7
+- slug: catalyst
+  title: CATALYST
+  score: 70
+  rank: 8
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 65
+  rank: 9
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 65
+  rank: 10
 ---
 Fairhope’s CATALYST group is licking their wounds after the election of Jerry Carl. What is important is the major shift in voting away from CATALYST candidates. Carl’s opponent “Lowtower” made a major mistake by hooking up with CATALYST, aka Scott Boone Consultant.
 

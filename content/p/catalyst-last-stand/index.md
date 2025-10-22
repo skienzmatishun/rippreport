@@ -22,7 +22,48 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: "Three men in bee costumes, likely referencing council members Burrell, Boone, and Brown mentioned in the article"
+alttags: Three men in bee costumes, likely referencing council members Burrell, Boone, and Brown mentioned in the article
+related_articles:
+- slug: sting
+  title: Sting
+  score: 95
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 2
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 3
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 4
+- slug: i-quit
+  title: I QUIT
+  score: 85
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 6
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 85
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 8
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 75
+  rank: 9
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 70
+  rank: 10
 ---
 Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one of the last council will serve 4 more years. Place 2, Cory Martin, the first African American to be elected to council, he had no opposition. Congratulations to both.
 

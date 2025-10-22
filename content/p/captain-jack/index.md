@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Man in pilot attire discussing Fairhope Airport Authority’s lease & bidding procedures review"
+alttags: Man in pilot attire discussing Fairhope Airport Authority’s lease & bidding procedures review
+related_articles:
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 95
+  rank: 1
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 85
+  rank: 2
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 85
+  rank: 3
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 4
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 85
+  rank: 5
+- slug: flying-high
+  title: FLYING HIGH
+  score: 85
+  rank: 6
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 7
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 8
+- slug: nuff-said
+  title: NUFF SAID
+  score: 75
+  rank: 9
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 65
+  rank: 10
 ---
 Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”.
 

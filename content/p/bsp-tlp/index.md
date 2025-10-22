@@ -1,17 +1,57 @@
 ---
-title: "Backstory Podcast No 56 The Lincoln Project"
+title: Backstory Podcast No 56 The Lincoln Project
 date: 2020-10-17
-thumbnail: "img/backstory-podcast.jpg"
-categories: 
-  - backstory-podcast
-tags: 
-  - covid-19
-  - sars-cov-2
-  - trump
-authors: 
-  - admin
+thumbnail: img/backstory-podcast.jpg
+categories:
+- backstory-podcast
+tags:
+- covid-19
+- sars-cov-2
+- trump
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 85
+  rank: 1
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 85
+  rank: 2
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 85
+  rank: 3
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 75
+  rank: 4
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 75
+  rank: 5
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 75
+  rank: 6
+- slug: backstory-podcast-the-46th-president-of-the-united-states
+  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
+  score: 70
+  rank: 7
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 70
+  rank: 8
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 70
+  rank: 9
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 65
+  rank: 10
 ---
-
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F635796027084010%2F&amp;show_text=false&amp;width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 
 39.068,667 SARS-COV-2 cases worldwide with a total of 1,100,364 deaths. The USA has 7,997,969 cases with 217,987 deaths. Alabama tops the scales at 170,374 cases and 2,786 deaths. University of Alabama Football Coach Nick Saban and several of his staff have tested positive (Trump better hope he lives until the election).

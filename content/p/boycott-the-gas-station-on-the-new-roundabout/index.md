@@ -1,5 +1,5 @@
 ---
-title: "BOYCOTT: The Gas Station on the New Roundabout"
+title: 'BOYCOTT: The Gas Station on the New Roundabout'
 date: 2017-05-24
 thumbnail: img/boycott-the-gas-station-on-the-new-roundabout.jpg
 categories:
@@ -13,7 +13,48 @@ tags:
 - roundabout
 authors:
 - ripp-report
-alttags: "New gas station under construction on a roundabout in Fairhope, Alabama; criticized for poor planning and safety concerns"
+alttags: New gas station under construction on a roundabout in Fairhope, Alabama; criticized for poor planning and safety concerns
+related_articles:
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 1
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 2
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 3
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 65
+  rank: 4
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 65
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 6
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 65
+  rank: 7
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 65
+  rank: 8
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 50
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 40
+  rank: 10
 ---
 Fairhope has been cited for many national awards for its beauty. But, it deserves awards for more than just flowers. Placing a gas station located on a safety roundabout in a residential area on the city’s gateway, Fairhope Avenue and 13, only two blocks from three other filling stations/convenience stores, certainly will be an American oddity; and altogether deserving of an Onion American Planning award. This is so bad in terms of safety negligence that it even beats building a fire station on a dead end road (Parker); or having an open sewer line regularly discharge into Mobile Bay, along with all of Trip Pittman and Tim Kant’s expensive BP anchors.
 

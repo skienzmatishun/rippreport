@@ -8,7 +8,48 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: "Artistic rendering of a black hole surrounded by swirling matter, symbolizing divisive forces in Alabama politics"
+alttags: Artistic rendering of a black hole surrounded by swirling matter, symbolizing divisive forces in Alabama politics
+related_articles:
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 95
+  rank: 1
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 95
+  rank: 2
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 85
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 4
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 75
+  rank: 5
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 75
+  rank: 6
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 75
+  rank: 7
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 75
+  rank: 8
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 70
+  rank: 9
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 65
+  rank: 10
 ---
 Alabamians have got to stop looking right and left, voting a straight party ticket, and putting party before country and that means Republican and Democrat. What is good for your state and community should come before party. Why vote for someone who will divide us? Why vote for someone so different in beliefs and convictions that there is not one Senator or Congressman remotely close to his thinking?
 

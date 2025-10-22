@@ -16,7 +16,48 @@ tags:
 - william-scully
 authors:
 - ripp-report
-alttags: "Orange puppet bird with crossed-out Catalyst label, symbolizing the political group described in this article"
+alttags: Orange puppet bird with crossed-out Catalyst label, symbolizing the political group described in this article
+related_articles:
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 95
+  rank: 1
+- slug: catalyst-2
+  title: CATALYST
+  score: 95
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 85
+  rank: 3
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 85
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 85
+  rank: 5
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 85
+  rank: 6
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 7
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 75
+  rank: 8
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 75
+  rank: 9
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 10
 ---
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate and all four Baldwin County commission races.
 

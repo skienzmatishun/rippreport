@@ -11,36 +11,36 @@ related_articles:
   title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
   score: 92
   rank: 1
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 92
+  rank: 2
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 92
+  rank: 3
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
   score: 85
-  rank: 2
+  rank: 4
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
   score: 85
-  rank: 3
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 85
-  rank: 4
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
   rank: 5
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 85
-  rank: 6
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 85
-  rank: 7
 - slug: million-dollar-swimming-pool
   title: MILLION DOLLAR SWIMMING POOL
   score: 85
+  rank: 6
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 7
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 85
   rank: 8
-- slug: cross-the-line
-  title: CROSS THE LINE
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
   score: 85
   rank: 9
 - slug: catalyst-2

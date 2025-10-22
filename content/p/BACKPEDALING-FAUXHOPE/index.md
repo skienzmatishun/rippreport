@@ -14,45 +14,45 @@ authors:
 - admin
 alttags: Councilman Jack Burrell cycling through town after a public backlash over council meeting participation rules
 related_articles:
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 90
+  rank: 1
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 90
+  rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
-  rank: 1
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 2
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 85
+  score: 90
   rank: 3
 - slug: all-mouth
   title: ALL MOUTH
   score: 85
   rank: 4
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 82
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
   rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 82
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 85
   rank: 6
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 7
 - slug: pedaling-forward
   title: PEDALING FORWARD
-  score: 78
-  rank: 7
+  score: 82
+  rank: 8
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 78
-  rank: 8
-- slug: shut-up-2
-  title: SHUT UP
-  score: 75
+  score: 82
   rank: 9
-- slug: truth
-  title: TRUTH
-  score: 58
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 75
   rank: 10
 ---
 The backwards backpedaling Fauxhope City Council had to eat crow when it came to eliminating public participation at council meetings. Of course the matter of free speech and public participation was front and center when they denied yours truly the right to speak. The public outcry was resounding and the council got the message loud and clear. Councilman Jack Burrell threw Councilman Martin under the bus. Jack said he was surprised to see the item on the agenda. Ask Jack if he had to go to federal court for denying public participation?

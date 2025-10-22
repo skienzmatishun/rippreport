@@ -1,13 +1,53 @@
 ---
-title: "BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT"
+title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
 date: 2019-06-28
-thumbnail: "img/baldwin-county-municipal-alert.png"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+thumbnail: img/baldwin-county-municipal-alert.png
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 85
+  rank: 1
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 75
+  rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 3
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 70
+  rank: 4
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 65
+  rank: 5
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 65
+  rank: 6
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 65
+  rank: 7
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 50
+  rank: 8
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 45
+  rank: 9
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 40
+  rank: 10
 ---
-
 In Fairhope, a conservation easement involving city property has become an issue for the entire county, all 14 municipalities. A conservation easement in a municipality is radically different than one in rural or coastal areas. In a municipality you have limited land and at the rate of growth our county is experiencing, why would a municipality give away control and management to a third party?
 
 Municipal land should remain municipal land and any transfer of land, or management, should be voted on by the citizens of the community.

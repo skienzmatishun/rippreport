@@ -17,43 +17,43 @@ alttags: Airplane flying across a blue sky, leaving contrails—symbolizing pilo
 related_articles:
 - slug: fairhope-airport-authority-flying-without-a-compass
   title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 85
+  score: 95
   rank: 1
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 85
-  rank: 2
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 85
-  rank: 3
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
+  score: 95
+  rank: 2
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 95
+  rank: 3
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 95
   rank: 4
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
+  score: 90
   rank: 5
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 85
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 90
   rank: 6
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 90
+  rank: 7
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 90
+  rank: 8
 - slug: in-your-face
   title: IN YOUR FACE
   score: 85
-  rank: 7
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
-  rank: 8
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 85
   rank: 9
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 85
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 70
   rank: 10
 ---
 Jack, come fly with me, has more passengers. _The Courier_, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, "come fly with me” Jack to cover the most mundane of articles that amounts to cut and paste. The local AM station, it is hard to find, has also signed on to allow Jack all the time he needs to talk about anything but the airport.

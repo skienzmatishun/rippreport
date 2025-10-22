@@ -6,7 +6,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations"
+alttags: Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations
+related_articles:
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 95
+  rank: 1
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 90
+  rank: 2
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
+  rank: 3
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 85
+  rank: 4
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 85
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 85
+  rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 85
+  rank: 7
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 85
+  rank: 8
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 75
+  rank: 9
+- slug: police-report
+  title: POLICE REPORT
+  score: 75
+  rank: 10
 ---
 When police officers are fired from one department and rehired by another neighboring department, you can be guaranteed problems will follow the officer. When you have police investigating fellow officers then you can be assured their will be no accountability and a BIASED INVESTIGATION. When you have taxpayers paying for police cameras and then the police withhold the footage, you have no transparency. When all of these facts come together you have a police state where the police are no longer public servants. When you have a sheriff that is the most powerful POLITICIAN in the county, 10 to 1 he is also the head of the good ole boys that run the county. When you have a sheriff that eliminates any competition for his office by supporting legislation that disqualifies most candidates for his office, you have corruption, some would say fixing an election.
 

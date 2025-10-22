@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Prohibited symbol representing Alabamas concerning political choices and disregard for ethical standards"
+alttags: Prohibited symbol representing Alabamas concerning political choices and disregard for ethical standards
+related_articles:
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 85
+  rank: 1
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 75
+  rank: 2
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 3
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 75
+  rank: 4
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 5
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 70
+  rank: 6
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 65
+  rank: 7
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 8
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 65
+  rank: 9
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 65
+  rank: 10
 ---
 Alabama has now reached a new low. From the most political corrupt state to a state that is considering
 

@@ -1,13 +1,53 @@
 ---
-title: "But, I Didn’t Do It…"
+title: But, I Didn’t Do It…
 date: 2023-08-16
-thumbnail: "img/false-arrest.jpg"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - admin
+thumbnail: img/false-arrest.jpg
+categories:
+- wonderful-wednesday
+authors:
+- admin
+related_articles:
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95
+  rank: 1
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 95
+  rank: 2
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 4
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 65
+  rank: 5
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 65
+  rank: 6
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 65
+  rank: 7
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 65
+  rank: 8
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 9
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 65
+  rank: 10
 ---
-
 by Nancy Koerner
 
 <small>©️2023 - NK Marketing, LLC – All Rights Reserved</small>

@@ -6,7 +6,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Fairhope City Council President Burrell (left) and another councilman, posing for a photo"
+alttags: Fairhope City Council President Burrell (left) and another councilman, posing for a photo
+related_articles:
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 1
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 2
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 85
+  rank: 3
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 75
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 6
+- slug: i-quit
+  title: I QUIT
+  score: 75
+  rank: 7
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 8
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 75
+  rank: 9
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 65
+  rank: 10
 ---
 The last Monday night Fairhope City Council meeting and the work session were unnecessary long. Many people have begun to watch the council meeting in their homes, on Youtube. It is convenient and you can moot the council president, when you wish.
 

@@ -10,45 +10,45 @@ authors:
 - admin
 alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electronic display showing delay information, referencing...
 related_articles:
+- slug: 4-20
+  title: 4-20
+  score: 95
+  rank: 1
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 85
-  rank: 1
+  score: 90
+  rank: 2
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 90
+  rank: 3
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
   score: 85
-  rank: 2
+  rank: 4
 - slug: tiny-steps
   title: TINY STEPS
   score: 85
-  rank: 3
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 85
-  rank: 4
+  rank: 5
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
   score: 82
-  rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 78
   rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 75
-  rank: 7
 - slug: veterans-rally
   title: VETERANS RALLY
   score: 75
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 65
   rank: 8
 - slug: insanity-2
   title: INSANITY
   score: 50
   rank: 9
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 35
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 50
   rank: 10
 ---
 >Lost in all of this debate are the patients. Does anybody remember the patients?... Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing? Of course, you do. It's been the hallmark of getting the Compassion Act, passed in the first place – not making a bunch of the state's wealthy even wealthier. Or, what about the patients that are in serious pain that either live in agonizing pain or resort to taking legal and/or illegal addictive pain medicines? A million Americans have died in the last ten years from drug overdoses. Whether it was from illegal substances like fentanyl and heroin or hydrocodone, Oxycontin, and morphine that unscrupulous doctors over prescribed, hundreds of thousands of Americans have died from drug overdoses in the last decade. Why is Alabama still not allowing cancer patients and other people with a doctor diagnosed need from receiving a non-addictive non-opiate based pain reliever recommended by their doctor? This made no sense four years ago and is even less sense given the suffering that opiates have inflicted on our culture – too often inflicted by the pharmaceutical companies who made out like bandits inventing new ways to get people hooked to their products.

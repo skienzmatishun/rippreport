@@ -10,44 +10,44 @@ tags:
 authors:
 - admin
 related_articles:
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 95
+  rank: 1
 - slug: backstory-podcast-6
   title: BACKSTORY PODCAST 6
   score: 85
-  rank: 1
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 85
   rank: 2
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+- slug: backstory-podcast-35-contrarians
+  title: 'BACKSTORY PODCAST #35 Contrarians'
   score: 85
   rank: 3
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 85
-  rank: 4
 - slug: backstory-podcast-the-46th-president-of-the-united-states
   title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
   score: 82
-  rank: 5
+  rank: 4
 - slug: backstory-podcast-16-the-jack-wilson-complex
   title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
   score: 82
+  rank: 5
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 75
   rank: 6
-- slug: offensive
-  title: Offensive
-  score: 78
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 75
   rank: 7
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 75
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 70
   rank: 8
-- slug: the-180
-  title: THE 180
-  score: 75
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 70
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
   score: 65
   rank: 10
 ---

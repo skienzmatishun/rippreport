@@ -7,40 +7,40 @@ youtube: ZpyCDG50Lhk
 authors:
 - admin
 related_articles:
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 95
+  rank: 1
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 85
-  rank: 1
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 85
+  score: 95
   rank: 2
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 85
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 95
   rank: 3
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 85
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 92
   rank: 4
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
+  score: 90
   rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 85
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 90
   rank: 6
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 85
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 90
   rank: 7
-- slug: deaf-ears
-  title: DEAF EARS
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
   score: 85
   rank: 8
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
   score: 85
   rank: 9
 - slug: pandemic-corruption

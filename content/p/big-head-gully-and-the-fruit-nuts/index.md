@@ -9,7 +9,48 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: "Historic photo shows a stream flowing through Big Head Gulley in Fairhope, Alabama; threatened by land development"
+alttags: Historic photo shows a stream flowing through Big Head Gulley in Fairhope, Alabama; threatened by land development
+related_articles:
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 85
+  rank: 1
+- slug: big-heads
+  title: BIG HEADS
+  score: 75
+  rank: 2
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 75
+  rank: 3
+- slug: water
+  title: Water
+  score: 70
+  rank: 4
+- slug: holes
+  title: HOLES
+  score: 65
+  rank: 5
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 6
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 65
+  rank: 7
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 65
+  rank: 8
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 65
+  rank: 9
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 50
+  rank: 10
 ---
 FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION
 

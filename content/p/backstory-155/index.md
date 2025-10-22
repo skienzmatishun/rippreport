@@ -17,37 +17,37 @@ related_articles:
   title: BACKSTORY PODCAST
   score: 85
   rank: 2
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 85
-  rank: 3
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 85
-  rank: 4
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
   score: 82
-  rank: 5
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 78
-  rank: 6
+  rank: 3
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
   score: 78
+  rank: 4
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 75
+  rank: 5
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 75
+  rank: 6
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 65
   rank: 7
-- slug: bad-faith
-  title: Bad Faith
-  score: 75
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 65
   rank: 8
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 75
+- slug: backstory-podcast-16-the-jack-wilson-complex
+  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
+  score: 65
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 58
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 65
   rank: 10
 ---
 ESG stands for Environmental, Social, and Governance Criteria, a set of standards for a company's behavior used by socially conscious investors to screen potential investments. Alabama Attorney General and all around mouth piece for the Republican Attorney General's Association proclaims that it is Woke Capitalism incarnate and we should all act now to prevent calamity. And we need a million bucks from the education budget to fund the study ESG at the Alabama Mecca of Economic Theory, Troy University. The Alabama Policy Institute is hammering this one hard so you can bet we will continue to see it proliferate on Fox News. Alternatively, CNN gave Former President Donald Trump a forum which he exploited to his political advantage. Good news, bad news, so long as it's all about the spectacle that is DJT.

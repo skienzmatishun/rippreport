@@ -17,7 +17,48 @@ tags:
 - zoning
 authors:
 - admin
-alttags: "Fairhope, Alabama city seal featuring money bags and a sailboat, related to legal fee dispute discussed in the article"
+alttags: Fairhope, Alabama city seal featuring money bags and a sailboat, related to legal fee dispute discussed in the article
+related_articles:
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 1
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 85
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 5
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 65
+  rank: 6
+- slug: no-radar
+  title: NO RADAR
+  score: 65
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 8
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 9
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 65
+  rank: 10
 ---
 When the triangle lawsuit was going on, Fairhope's insurance company, sued the city saying that the city's bad decisions led to the lawsuit and they were not going to cover the legal expenses.
 

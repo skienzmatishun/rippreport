@@ -10,45 +10,45 @@ authors:
 - ripp-report
 alttags: Bald eagle head against a blurred American flag background, symbolizing scrutiny of Fairhope politics and local government
 related_articles:
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 90
+  rank: 1
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 85
-  rank: 1
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 85
+  score: 90
   rank: 2
 - slug: gob-coup
   title: GOB COUP
-  score: 85
+  score: 90
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
+- slug: absolute-power
+  title: ABSOLUTE POWER
   score: 85
   rank: 4
-- slug: game-on
-  title: GAME ON
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
   score: 85
   rank: 5
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
   score: 85
   rank: 6
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 82
   rank: 7
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 78
-  rank: 8
 - slug: skunked
   title: SKUNKED
   score: 78
+  rank: 8
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 65
   rank: 9
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 75
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 65
   rank: 10
 ---
 Originally the Ripp Report was local information about Fairhope politics. The idea came about due to the lack of honest information coming from Fairhope city hall, the mayor in particular. That was over 10 years ago, nothing has changed. Facebook then became our social media site which spawned Baldwin County Legal Eagle. To expand our Gmail connection the blog site [The Ripp Report](https://rippreport.com) will be available. All of these forums will work together to maximize exposure.

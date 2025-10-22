@@ -13,7 +13,48 @@ tags:
 - sewer
 authors:
 - admin
-alttags: "Fairhope Council President Jack Burrell wearing a hard hat, criticized for neglecting infrastructure repairs despite sewer..."
+alttags: Fairhope Council President Jack Burrell wearing a hard hat, criticized for neglecting infrastructure repairs despite sewer...
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 95
+  rank: 1
+- slug: pied-piper
+  title: PIED PIPER
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 6
+- slug: i-quit
+  title: I QUIT
+  score: 75
+  rank: 7
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 75
+  rank: 8
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 65
+  rank: 9
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 65
+  rank: 10
 ---
 Not only is Council Burrell a bald faced liar, he thinks a hard hat works better than a face mask. This is what you get with CATALYST. Jack Burrell was Council President under Mayor Cant for 4 years and did not do one damn thing about infrastructure repairs.
 

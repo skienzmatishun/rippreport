@@ -21,7 +21,48 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: "Baldwin County, Alabama map highlighted within a circle, representing limited local news coverage and citizen engagement"
+alttags: Baldwin County, Alabama map highlighted within a circle, representing limited local news coverage and citizen engagement
+related_articles:
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 85
+  rank: 1
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 85
+  rank: 2
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 75
+  rank: 3
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 75
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 75
+  rank: 5
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 6
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 7
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 70
+  rank: 8
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 9
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 65
+  rank: 10
 ---
 If you live in Baldwin County then you know that local news print is almost non existent. Citizens are at a disadvantage at knowing what the real truth is and politicians are fine with that.
 

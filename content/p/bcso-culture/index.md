@@ -15,7 +15,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "A skull sits atop scales of justice, symbolizing a flawed legal system lacking accountability and transparency within law ..."
+alttags: A skull sits atop scales of justice, symbolizing a flawed legal system lacking accountability and transparency within law ...
+related_articles:
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 1
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 85
+  rank: 2
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 4
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 85
+  rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 6
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85
+  rank: 7
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 85
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 75
+  rank: 9
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 70
+  rank: 10
 ---
 Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop.
 

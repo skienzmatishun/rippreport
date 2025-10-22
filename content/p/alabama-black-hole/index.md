@@ -8,45 +8,45 @@ thumbnail: /img/alabama-blackhole.png
 authors:
 - admin
 related_articles:
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 85
-  rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 2
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 3
+  score: 100
+  rank: 1
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 85
-  rank: 4
+  score: 92
+  rank: 2
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 85
+  score: 90
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 90
+  rank: 4
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 90
   rank: 5
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 82
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 90
   rank: 6
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 78
+  score: 85
   rank: 7
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 78
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 85
   rank: 8
-- slug: black-hole
-  title: BLACK HOLE
-  score: 78
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 85
   rank: 9
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 75
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 70
   rank: 10
 ---
 Two months ago I appealed to the Special Prosecution Office for the Alabama Attorney General, Clark Morris. The letter below was accompanied with a 100 plus page bound copy of information and evidence relative to the complaint. Copies were also given to The Alabama Bar, Governor, Judiciary, and Ethics Commission to name a few others.

@@ -7,45 +7,45 @@ categories:
 authors:
 - nancy-koerner
 related_articles:
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 95
+  rank: 1
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 92
-  rank: 1
+  rank: 2
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 92
+  rank: 3
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 85
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 6
 - slug: rule-32
   title: RULE 32
   score: 85
-  rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 85
-  rank: 3
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 78
-  rank: 4
+  rank: 7
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
   score: 78
-  rank: 5
-- slug: no-justice
-  title: NO JUSTICE
-  score: 78
-  rank: 6
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 78
-  rank: 7
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 58
   rank: 8
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 58
-  rank: 9
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 55
+  score: 70
+  rank: 9
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65
   rank: 10
 ---
 <a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>

@@ -8,7 +8,48 @@ tags:
 - boone
 authors:
 - ripp-report
-alttags: "Hands pushing over a line of dominoes, symbolizing the unfolding consequences of Councilman Boone’s undisclosed conflicts ..."
+alttags: Hands pushing over a line of dominoes, symbolizing the unfolding consequences of Councilman Boone’s undisclosed conflicts ...
+related_articles:
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 95
+  rank: 1
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 85
+  rank: 2
+- slug: how-the-pendulum-swings
+  title: HOW THE PENDULUM SWINGS
+  score: 85
+  rank: 3
+- slug: catalyst
+  title: CATALYST
+  score: 75
+  rank: 4
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 75
+  rank: 5
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 75
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 65
+  rank: 7
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 65
+  rank: 8
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 9
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 65
+  rank: 10
 ---
 Well if you read the wonderful Wednesday this week,
 

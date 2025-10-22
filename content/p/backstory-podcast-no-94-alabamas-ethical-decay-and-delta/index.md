@@ -1,13 +1,53 @@
 ---
-title: "Alabama's Ethical Decay and Delta"
+title: Alabama's Ethical Decay and Delta
 date: 2021-08-07
-youtube: "3Me-IZCU-o0"
-categories: 
-  - backstory-podcast
-authors: 
-  - admin
+youtube: 3Me-IZCU-o0
+categories:
+- backstory-podcast
+authors:
+- admin
+related_articles:
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 95
+  rank: 1
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 90
+  rank: 2
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 85
+  rank: 3
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 75
+  rank: 4
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 75
+  rank: 5
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 75
+  rank: 6
+- slug: bad-faith
+  title: Bad Faith
+  score: 65
+  rank: 7
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65
+  rank: 8
+- slug: backstory-podcast-9-11-2001-remembered
+  title: Backstory Podcast 9/11, 2001 Remembered
+  score: 50
+  rank: 9
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 45
+  rank: 10
 ---
-
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.
 
 Sheriff Huey Mack has a breakthrough case.. in spite of his vaccinations and refusal to enforce the duly issued Stay At Home order last Spring Break. His Deputies removed several people from the Baldwin County School Board meeting where Eddie Tyler announced that all staff, teachers, visitors, and students 2nd grade and up must wear masks.

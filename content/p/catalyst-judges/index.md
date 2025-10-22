@@ -10,7 +10,48 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: "Satirical depiction of Alabama judicial appointments: a woman in robes balances scales against a figure labeled “Scully,” ..."
+alttags: 'Satirical depiction of Alabama judicial appointments: a woman in robes balances scales against a figure labeled “Scully,” ...'
+related_articles:
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 85
+  rank: 1
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 85
+  rank: 2
+- slug: exposure
+  title: EXPOSURE
+  score: 75
+  rank: 3
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 75
+  rank: 4
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 65
+  rank: 5
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 65
+  rank: 6
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 65
+  rank: 7
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 65
+  rank: 8
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 65
+  rank: 9
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 65
+  rank: 10
 ---
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment. When a judgeship is vacated, typically before the term ends, challengers also submit themselves to the closed committees and the approval of presiding judges and the glorious appointment is made. There is then a silent rule among the attorneys and judges. Sitting Judges, even the appointed ones, shall NOT be challenged in elections.
 

@@ -6,7 +6,48 @@ categories:
 thumbnail: /img/CAROLYN-AMICK.jpg
 authors:
 - admin
-alttags: "Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait"
+alttags: Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait
+related_articles:
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 85
+  rank: 1
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 75
+  rank: 2
+- slug: obituary
+  title: OBITUARY
+  score: 70
+  rank: 3
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 65
+  rank: 4
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 65
+  rank: 5
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 65
+  rank: 6
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 50
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 40
+  rank: 8
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 20
+  rank: 9
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 20
+  rank: 10
 ---
 Carolyn and I were together for 50 years. She was my best friend, fieriest critic and always had my back. We traveled the world together, dove in exotic places and lived a life many would envy. Anyone who knew Carolyn did not forget her. Carolyn, who some called CA, never understood the argument of women’s rights. She was part of women’s lib before there was a women's lib. She could curse like a sailor and do manual labor with the best of them.
 

@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Red circle with a slash through the word Catalyst, symbolizing the group’s limited success in Baldwin County elections"
+alttags: Red circle with a slash through the word Catalyst, symbolizing the group’s limited success in Baldwin County elections
+related_articles:
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 1
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 95
+  rank: 2
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 95
+  rank: 3
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 90
+  rank: 4
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 5
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 85
+  rank: 6
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 7
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 75
+  rank: 8
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 9
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 70
+  rank: 10
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 

@@ -6,7 +6,48 @@ categories:
 - saturday-sunshine
 authors:
 - ripp-report
-alttags: "Exit sign depicting a figure running through a doorway, referencing calls for Tucker Dorsey’s removal from office"
+alttags: Exit sign depicting a figure running through a doorway, referencing calls for Tucker Dorsey’s removal from office
+related_articles:
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 95
+  rank: 1
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 2
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 75
+  rank: 3
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 75
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 75
+  rank: 5
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 75
+  rank: 6
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 65
+  rank: 7
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 65
+  rank: 8
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 65
+  rank: 9
+- slug: i-quit
+  title: I QUIT
+  score: 65
+  rank: 10
 ---
 Baldwin County Commission, District No. 3, Please show Tucker Dorsey, not his real name, the exit door. Mr. Dorsey is the equivalent to Mr Burrell in Fairhope. Both men are about both men, they do not represent their constituents and have very poor performance records. Dorsey has burnt so many bridges that it is a miracle that he can find Clarence Burke’s house.
 

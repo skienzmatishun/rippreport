@@ -15,40 +15,40 @@ related_articles:
   title: ALABAMA ATTORNEY GENERAL
   score: 100
   rank: 1
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 85
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 95
   rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 95
   rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 85
-  rank: 4
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 85
+  score: 90
+  rank: 4
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 90
   rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 85
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 90
   rank: 6
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 85
   rank: 7
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
   score: 85
   rank: 8
-- slug: license-to-steal
-  title: LICENSE TO STEAL
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
   score: 85
   rank: 9
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
   score: 85
   rank: 10
 ---

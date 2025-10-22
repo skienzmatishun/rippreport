@@ -14,40 +14,40 @@ authors:
 - ripp-report
 alttags: Ethics complaints against Fairhope officials prompt investigation; sign points toward Right versus Wrong.
 related_articles:
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 92
-  rank: 1
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
+  score: 100
+  rank: 1
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 92
   rank: 2
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 85
-  rank: 3
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 4
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 85
-  rank: 5
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
   score: 85
-  rank: 6
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 85
-  rank: 7
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 85
-  rank: 8
+  rank: 3
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 85
+  rank: 4
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 85
+  rank: 5
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 6
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 85
+  rank: 7
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 85
+  rank: 8
+- slug: license-to-steal
+  title: LICENSE TO STEAL
   score: 85
   rank: 9
 - slug: pandemic-corruption

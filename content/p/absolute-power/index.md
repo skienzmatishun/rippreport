@@ -18,39 +18,39 @@ alttags: Skeleton reaching for a suit on a hanger behind open doors, symbolizing
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+  score: 95
   rank: 1
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 90
+  rank: 2
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 85
+  rank: 3
+- slug: skunked
+  title: SKUNKED
+  score: 85
+  rank: 4
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 5
 - slug: catalyst-bullies
   title: CATALYST BULLIES
   score: 85
-  rank: 2
+  rank: 6
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 85
+  rank: 7
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
   score: 85
-  rank: 3
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85
-  rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 85
-  rank: 5
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 82
-  rank: 6
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 82
-  rank: 7
-- slug: gob-coup
-  title: GOB COUP
-  score: 82
   rank: 8
-- slug: skunked
-  title: SKUNKED
-  score: 78
+- slug: i-quit
+  title: I QUIT
+  score: 85
   rank: 9
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION

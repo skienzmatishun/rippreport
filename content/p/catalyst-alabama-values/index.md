@@ -11,7 +11,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Chris Elliott in striped prison uniform behind bars, related to his connection to former Governor Bentley and Senate race"
+alttags: Chris Elliott in striped prison uniform behind bars, related to his connection to former Governor Bentley and Senate race
+related_articles:
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 1
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 85
+  rank: 2
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 3
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 85
+  rank: 4
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75
+  rank: 6
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 75
+  rank: 7
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 75
+  rank: 8
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 65
+  rank: 9
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 65
+  rank: 10
 ---
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values.
 

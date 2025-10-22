@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues"
+alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues
+related_articles:
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 1
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 85
+  rank: 2
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 85
+  rank: 3
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 85
+  rank: 4
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 85
+  rank: 5
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 75
+  rank: 7
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 8
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 9
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 10
 ---
 The most favorite words of a politician or elected official in Baldwin County are Transparency and Accountability, The most lacking quality of life issue, in Baldwin County, is Transparency and Accountability.
 

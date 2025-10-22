@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Pigs stand in front of a Bay Minette water tower and American flag, referencing concerns about Mayor Wills’ leadership"
+alttags: Pigs stand in front of a Bay Minette water tower and American flag, referencing concerns about Mayor Wills’ leadership
+related_articles:
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 65
+  rank: 1
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65
+  rank: 3
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 4
+- slug: christmas
+  title: MERRY CHRISTMAS
+  score: 65
+  rank: 5
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 6
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 65
+  rank: 7
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 54
+  rank: 8
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 50
+  rank: 9
+- slug: jack-ass
+  title: JACK ASS
+  score: 50
+  rank: 10
 ---
 Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.
 

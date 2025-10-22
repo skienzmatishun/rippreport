@@ -6,7 +6,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Baldwin County Sheriff Hoss Mack in uniform, facing forward, related to concerns about his office’s actions"
+alttags: Baldwin County Sheriff Hoss Mack in uniform, facing forward, related to concerns about his office’s actions
+related_articles:
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 95
+  rank: 1
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 95
+  rank: 2
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 92
+  rank: 3
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 4
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 5
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 6
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 7
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85
+  rank: 8
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 75
+  rank: 9
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 75
+  rank: 10
 ---
 Wake up Baldwin County you have a serious problem with Baldwin Sheriff Office and Sheriff Hoss the “BOSS” Mack.
 

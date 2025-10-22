@@ -1,14 +1,53 @@
 ---
-title: "BUSHWHACKED & HIJACKED - FAIRHOPE STYLE"
+title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
 date: 2018-06-08
-thumbnail: "img/bushwhacked-and-hijacked-fairhope-style.png"
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+thumbnail: img/bushwhacked-and-hijacked-fairhope-style.png
+categories:
+- freaky-friday
+authors:
+- ripp-report
+related_articles:
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 75
+  rank: 1
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 75
+  rank: 2
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 75
+  rank: 3
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 4
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 65
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65
+  rank: 6
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 65
+  rank: 7
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 65
+  rank: 8
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 65
+  rank: 9
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 65
+  rank: 10
 ---
-
-
 ## PLEASE ATTEND FAIRHOPE CITY COUNCIL MEETING JUNE 11, SUPPORT THE MAYOR
 
 If you live in Fairhope, BEWARE, your government is being hijacked by past employees that have been fired, quit or retired, since the election of Mayor Karin Wilson. Two employees sued the city with the help of the City Council and then sealed the cases so the general public never knew the truth behind their firings. It is the same damn crowd who have been crying in their milk ever since Fairhope had a “fair” election. They are supported by people that were loyal to Kant, including the Courier tabloid and the local AM station W.A.C.O.

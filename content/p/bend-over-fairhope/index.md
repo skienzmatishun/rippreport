@@ -15,7 +15,48 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: "Vintage postcard depicting a figure head bowed in Fairhope, Alabama; symbolizing community disappointment over City Counci..."
+alttags: Vintage postcard depicting a figure head bowed in Fairhope, Alabama; symbolizing community disappointment over City Counci...
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 1
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 75
+  rank: 3
+- slug: big-heads
+  title: BIG HEADS
+  score: 75
+  rank: 4
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 75
+  rank: 5
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 75
+  rank: 6
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 75
+  rank: 7
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 65
+  rank: 8
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 65
+  rank: 9
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 10
 ---
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has been to obstruct the Mayor in any way possible. The Mayor’s office has been reduced to 2500 dollars for discretionary funds, the previous administration was allocated 15 thousand dollars, make no mistake you are the loser.
 

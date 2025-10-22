@@ -1,25 +1,65 @@
 ---
-title: "Backstory Podcast No. 76 A Plague of Apathy"
+title: Backstory Podcast No. 76 A Plague of Apathy
 date: 2021-03-21
-youtube: "XcGclWOqLSs"
-categories: 
-  - backstory-podcast
-tags: 
-  - backstory-podcast
-  - biden
-  - city-council
-  - covid-19
-  - hate-crime
-  - mcsharry
-  - mcsharrys
-  - medical-cannabis
-  - mobile-county-sheriff
-  - ronan-mcsharry
-  - sars-cov-2
-authors: 
-  - admin
+youtube: XcGclWOqLSs
+categories:
+- backstory-podcast
+tags:
+- backstory-podcast
+- biden
+- city-council
+- covid-19
+- hate-crime
+- mcsharry
+- mcsharrys
+- medical-cannabis
+- mobile-county-sheriff
+- ronan-mcsharry
+- sars-cov-2
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 95
+  rank: 1
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 85
+  rank: 2
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 85
+  rank: 3
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 85
+  rank: 4
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 85
+  rank: 5
+- slug: backstory-podcast-no-79-ole-peg-gy
+  title: Backstory Podcast No 79 'Ole Peg-gy
+  score: 75
+  rank: 6
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 75
+  rank: 7
+- slug: bsp-tlp
+  title: Backstory Podcast No 56 The Lincoln Project
+  score: 75
+  rank: 8
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 70
+  rank: 9
+- slug: 4-20
+  title: 4-20
+  score: 65
+  rank: 10
 ---
-
 Fairhope Bar Owner Ronan McSharry, of McSharry Irish Pub fame, dare I say: our most famous of Green Card residents, is off the hook (criminally) for Assaulting a woman (the manager of a rival bar) in Fairhope, Alabama at the Little Whiskey Christmas Club on Thanksgiving night 2018.
 
 [https://lagniappemobile.com/judicial-power-run-amok-in-baldwin/​](https://lagniappemobile.com/judicial-power-run-amok-in-baldwin/​)

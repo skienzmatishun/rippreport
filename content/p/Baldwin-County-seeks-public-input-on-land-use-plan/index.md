@@ -12,41 +12,41 @@ related_articles:
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
   score: 85
   rank: 1
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 82
+  rank: 2
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
   score: 82
-  rank: 2
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 82
   rank: 3
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 78
-  rank: 4
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 78
-  rank: 5
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
   score: 78
-  rank: 6
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 78
-  rank: 7
+  rank: 4
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 75
+  rank: 5
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
   score: 75
+  rank: 6
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 7
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 70
   rank: 8
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 65
+  score: 70
   rank: 9
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 55
+  score: 65
   rank: 10
 ---
 ### Baldwin County Seeks Public Input on Land Use Plan

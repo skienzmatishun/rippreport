@@ -11,41 +11,41 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 92
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 95
   rank: 1
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 92
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 95
   rank: 2
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 85
+  score: 95
   rank: 3
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
   score: 85
   rank: 4
-- slug: license-to-steal
-  title: LICENSE TO STEAL
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
   score: 85
   rank: 5
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 85
-  rank: 6
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85
-  rank: 7
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
   score: 85
+  rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 85
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
   rank: 8
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 82
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION

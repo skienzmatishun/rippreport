@@ -14,7 +14,48 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: "Cartoon leprechaun raising a mug, possibly symbolizing unproductive or corrupt Fairhope council members discussed in the R..."
+alttags: Cartoon leprechaun raising a mug, possibly symbolizing unproductive or corrupt Fairhope council members discussed in the R...
+related_articles:
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 100
+  rank: 1
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 85
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 3
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 75
+  rank: 4
+- slug: surrender
+  title: SURRENDER
+  score: 75
+  rank: 5
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 7
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 75
+  rank: 8
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 75
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 10
 ---
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.
 

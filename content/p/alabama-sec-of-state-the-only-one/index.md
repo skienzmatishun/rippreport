@@ -18,39 +18,39 @@ related_articles:
   rank: 1
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 78
+  score: 85
   rank: 2
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
   score: 78
   rank: 3
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 75
   rank: 4
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 72
-  rank: 5
-- slug: observations-of-a-poll-watcher
-  title: “Observations of a Poll Watcher”
-  score: 62
-  rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 58
-  rank: 7
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 58
-  rank: 8
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 58
+  score: 75
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 75
+  rank: 6
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 70
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 65
+  rank: 8
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 65
   rank: 9
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 58
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 65
   rank: 10
 ---
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!

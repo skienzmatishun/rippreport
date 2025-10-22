@@ -1,28 +1,68 @@
 ---
-title: "SENATE IMPEACHMENT"
+title: SENATE IMPEACHMENT
 date: 2021-02-13
-thumbnail: "img/backstory-podcast.jpg"
-categories: 
-  - backstory-podcast
-tags: 
-  - backstory-podcast
-  - bay-minette
-  - bayway-project
-  - covid-19
-  - golden-triangle-project
-  - impeachment
-  - jerry-falwell
-  - larry-flynt
-  - mobile-river-bridge
-  - sars-cov-2
-  - spanish-fort-planning-jurisdiction
-  - stapleton
-  - terminix
-  - vaccines
-authors: 
-  - admin
+thumbnail: img/backstory-podcast.jpg
+categories:
+- backstory-podcast
+tags:
+- backstory-podcast
+- bay-minette
+- bayway-project
+- covid-19
+- golden-triangle-project
+- impeachment
+- jerry-falwell
+- larry-flynt
+- mobile-river-bridge
+- sars-cov-2
+- spanish-fort-planning-jurisdiction
+- stapleton
+- terminix
+- vaccines
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 95
+  rank: 1
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 75
+  rank: 2
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 70
+  rank: 3
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 65
+  rank: 4
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 65
+  rank: 5
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 65
+  rank: 6
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 65
+  rank: 7
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 60
+  rank: 8
+- slug: bsp-tlp
+  title: Backstory Podcast No 56 The Lincoln Project
+  score: 55
+  rank: 9
+- slug: backstory-podcast-9-11-2001-remembered
+  title: Backstory Podcast 9/11, 2001 Remembered
+  score: 55
+  rank: 10
 ---
-
 107,883,016 SARS-COV-2 cases confirmed worldwide with a total of 2,370,735 deaths; with 27,393,896 in the USA with 475,459 deaths; 477,570 cases in Alabama with 9,021 deaths; 1 M vaccine doses delivered, 550,000 administered.
 
 The Senate concluded arguments in the Impeachment of Former-President Donald John Trump today, for the second time. Brandenburg vs Ohio was the case on point and was mostly ignored- defining a 3 prong test for when speech is not protected. Spoiler Alert: The protagonist is a Klansman.

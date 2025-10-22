@@ -16,7 +16,48 @@ tags:
 - upchurch
 authors:
 - ripp-report
-alttags: "Blue stick figure icon representing public discussion regarding land transfer for Tatumville Subdivision in Fairhope"
+alttags: Blue stick figure icon representing public discussion regarding land transfer for Tatumville Subdivision in Fairhope
+related_articles:
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 85
+  rank: 1
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 85
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 3
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 75
+  rank: 4
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 65
+  rank: 5
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65
+  rank: 6
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 7
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 9
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 50
+  rank: 10
 ---
 Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 - 6:00 P.M. - CITY COUNCIL CHAMBER
 

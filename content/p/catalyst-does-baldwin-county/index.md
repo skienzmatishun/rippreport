@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Red circle with a slash through the word CATALYST, symbolizing opposition to the political group discussed in the article"
+alttags: Red circle with a slash through the word CATALYST, symbolizing opposition to the political group discussed in the article
+related_articles:
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 95
+  rank: 1
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 95
+  rank: 2
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 3
+- slug: catalyst
+  title: CATALYST
+  score: 90
+  rank: 4
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 5
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 85
+  rank: 6
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 85
+  rank: 7
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 8
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 85
+  rank: 9
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 85
+  rank: 10
 ---
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business, in what he thought was a shoe in. He is bought and paid for, Goat Hill already owns his ass.
 

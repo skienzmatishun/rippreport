@@ -17,39 +17,39 @@ related_articles:
   rank: 1
 - slug: all-mouth
   title: ALL MOUTH
-  score: 85
+  score: 92
   rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 87
+  rank: 3
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 4
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 5
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
   score: 82
-  rank: 3
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 82
-  rank: 4
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 78
-  rank: 5
+  rank: 6
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
   score: 78
-  rank: 6
+  rank: 7
 - slug: hell-yea
   title: HELL YEA
-  score: 75
-  rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
   score: 75
   rank: 8
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
   score: 75
   rank: 9
-- slug: exit-and-enter
-  title: EXIT AND ENTER
-  score: 72
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 65
   rank: 10
 ---
 Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. The city attorney is put in place to protect “THEIR” agenda. The municipal judge is a major developer in Fauxhope and his developments must meet the approval of the council that “APPOINTED” him as municipal judge.

@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Hand reaching from water, symbolizing a political exit after Billie Jo Underwood defeated Tucker Dorsey in an election"
+alttags: Hand reaching from water, symbolizing a political exit after Billie Jo Underwood defeated Tucker Dorsey in an election
+related_articles:
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 95
+  rank: 1
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 90
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 3
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 85
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 85
+  rank: 5
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 6
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 7
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 65
+  rank: 8
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 65
+  rank: 9
+- slug: i-quit-and-will-quit-again
+  title: I QUIT AND WILL QUIT AGAIN
+  score: 65
+  rank: 10
 ---
 The People’s Choice almost made a clean sweep of Catalyst. PEOPLE’S CHOICE 2 CATALYST ½
 

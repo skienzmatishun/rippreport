@@ -10,7 +10,48 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: "Hand receiving a bag labeled with a dollar sign, symbolizing alleged corruption at Fairhope Airport discussed in this article"
+alttags: Hand receiving a bag labeled with a dollar sign, symbolizing alleged corruption at Fairhope Airport discussed in this article
+related_articles:
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 85
+  rank: 1
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 85
+  rank: 2
+- slug: flying-high
+  title: FLYING HIGH
+  score: 85
+  rank: 3
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 85
+  rank: 4
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 6
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 75
+  rank: 7
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 8
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 70
+  rank: 9
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 65
+  rank: 10
 ---
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport. WRONG First off Chucky keeps calling me a blogger and ignoring that The Ripp Report has been around for over ten years and is a non profit corporation, consumer watchdog organization. But what the hell if I call him Chucky Cheeze he can call me a blogger.
 

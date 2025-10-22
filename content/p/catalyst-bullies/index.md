@@ -16,7 +16,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Illustration depicting two figures crossed out with a red circle, labeled “CATALYST,” referencing Fairhope councilmen and ..."
+alttags: Illustration depicting two figures crossed out with a red circle, labeled “CATALYST,” referencing Fairhope councilmen and ...
+related_articles:
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 1
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 3
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 85
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 75
+  rank: 5
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 75
+  rank: 6
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 75
+  rank: 7
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 75
+  rank: 8
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 75
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 75
+  rank: 10
 ---
 Fairhope pay attention: The last four years, Mayor Karin Wilson has been standing up to bullies with special interests that do not align with citizens values.
 

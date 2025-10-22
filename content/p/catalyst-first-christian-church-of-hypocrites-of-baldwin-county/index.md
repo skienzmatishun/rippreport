@@ -6,7 +6,48 @@ categories:
 - sunday-sermon
 authors:
 - admin
-alttags: "Interior view of a church sanctuary with rows of pews, an organ loft, and arched windows, reflecting the congregation’s fo..."
+alttags: Interior view of a church sanctuary with rows of pews, an organ loft, and arched windows, reflecting the congregation’s fo...
+related_articles:
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 85
+  rank: 1
+- slug: catalyst
+  title: CATALYST
+  score: 85
+  rank: 2
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 75
+  rank: 3
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 70
+  rank: 4
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 65
+  rank: 5
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 65
+  rank: 6
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 65
+  rank: 7
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 65
+  rank: 8
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 60
+  rank: 9
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 40
+  rank: 10
 ---
 FAIRHOPE MEMBER
 

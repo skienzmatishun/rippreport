@@ -1,17 +1,57 @@
 ---
-title: "BULL SITTING Fairhope"
+title: BULL SITTING Fairhope
 date: 2023-08-09
-thumbnail: "img/bull-tower.jpg"
-categories: 
-  - citycouncil
+thumbnail: img/bull-tower.jpg
+categories:
+- citycouncil
 tags:
-  - City Council
-  - Karen Wilson
-  - 
-authors: 
-  - admin
+- City Council
+- Karen Wilson
+- null
+authors:
+- admin
+related_articles:
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 1
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 75
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 75
+  rank: 3
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 65
+  rank: 4
+- slug: one-woman
+  title: ONE WOMAN
+  score: 65
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 65
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 7
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 8
+- slug: invitation
+  title: INVITATION
+  score: 65
+  rank: 9
+- slug: truth
+  title: TRUTH
+  score: 50
+  rank: 10
 ---
-
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 
 

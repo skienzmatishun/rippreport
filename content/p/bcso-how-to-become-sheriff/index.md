@@ -12,7 +12,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar..."
+alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar...
+related_articles:
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 1
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 2
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 4
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 85
+  rank: 5
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 85
+  rank: 6
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 75
+  rank: 7
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 70
+  rank: 8
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 65
+  rank: 9
+- slug: cameras
+  title: CAMERAS
+  score: 65
+  rank: 10
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.
 

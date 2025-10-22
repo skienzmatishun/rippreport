@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Close-up of a modern bar stool with silver legs and a red circular seat, likely from the Irish pub in Fairhope where the o..."
+alttags: Close-up of a modern bar stool with silver legs and a red circular seat, likely from the Irish pub in Fairhope where the o...
+related_articles:
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 85
+  rank: 1
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 75
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 3
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 75
+  rank: 4
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 5
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 65
+  rank: 6
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 65
+  rank: 7
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 65
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 55
+  rank: 9
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 45
+  rank: 10
 ---
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
 

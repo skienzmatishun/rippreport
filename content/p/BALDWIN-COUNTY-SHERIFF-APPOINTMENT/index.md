@@ -16,45 +16,45 @@ authors:
 - admin
 alttags: Baldwin County Sheriffs Office seal, mailbox, phone, and envelope suggest potential replacement controversy and public sc...
 related_articles:
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 85
-  rank: 1
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 85
-  rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 85
-  rank: 3
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 85
-  rank: 4
+  score: 92
+  rank: 1
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 85
+  score: 92
+  rank: 2
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 90
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 90
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 90
   rank: 5
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 85
+  score: 90
   rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 85
-  rank: 7
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
+  score: 90
+  rank: 7
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
   score: 85
   rank: 8
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
   score: 85
   rank: 9
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 78
+- slug: rumors
+  title: RUMORS
+  score: 75
   rank: 10
 ---
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.

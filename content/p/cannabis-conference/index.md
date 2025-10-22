@@ -6,7 +6,48 @@ categories:
 - events
 authors:
 - admin
-alttags: "Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference"
+alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference
+related_articles:
+- slug: 4-20
+  title: 4-20
+  score: 100
+  rank: 1
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 95
+  rank: 2
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 75
+  rank: 3
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 75
+  rank: 4
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 75
+  rank: 5
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 75
+  rank: 6
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 52
+  rank: 7
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 50
+  rank: 8
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 40
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 35
+  rank: 10
 ---
 Inaugural Alabama Medical Cannabis Conference to Make History as the State's First Major Cannabis-Focused Event
 

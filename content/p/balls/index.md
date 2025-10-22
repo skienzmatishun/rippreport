@@ -10,7 +10,48 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: "Pile of tennis balls on a court, symbolizing courage and accountability expected from City Council members"
+alttags: Pile of tennis balls on a court, symbolizing courage and accountability expected from City Council members
+related_articles:
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 75
+  rank: 1
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 75
+  rank: 2
+- slug: jack-ass
+  title: JACK ASS
+  score: 75
+  rank: 3
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 75
+  rank: 4
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 75
+  rank: 5
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 65
+  rank: 6
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 65
+  rank: 7
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 65
+  rank: 8
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 65
+  rank: 10
 ---
 How many balls are on the City Council? Place your bets and take note how many council members have forgotten what our last election was about— and their promises. How many will stand up for citizens, and how many have no balls. PLEASE make your voice heard!
 

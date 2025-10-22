@@ -10,7 +10,48 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: "A sow nurses piglets; a reference to Catalyst’s efforts to cultivate new political candidates in Baldwin County"
+alttags: A sow nurses piglets; a reference to Catalyst’s efforts to cultivate new political candidates in Baldwin County
+related_articles:
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 95
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 2
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 3
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 85
+  rank: 4
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 85
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 85
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 7
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 8
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 9
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 65
+  rank: 10
 ---
 Baldwin County politics has always been a good ole boys club and Catalyst hopes to swell those ranks with a slate of candidates that are like minded. Catalyst is a Fairhope based operation that has done it’s best to destabilize Fairhope’s Government by attacking the Mayor, often using the Gulf Coast Courier, editor Chuckee Cheeze, to spread the rumor of the day. Mr Kevin Boone is a councilman in Fairhope and farther to Scott “baby” Boone who is the “brains” of Catalyst. “Baby” Boone wants everyone to believe his father has nothing to do with Catalyst. I guess that means that all those documents and information leaked to Chuckee about Fairhope just fell out of the sky, because he did not get them by formal Freedom of Information requests.
 

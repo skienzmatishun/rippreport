@@ -17,40 +17,40 @@ related_articles:
   title: STEALING FROM KIDS
   score: 95
   rank: 1
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 95
-  rank: 2
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
+  score: 95
+  rank: 2
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
   score: 95
   rank: 3
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 95
   rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 95
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 95
+  rank: 6
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 95
+  rank: 7
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 92
-  rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 85
-  rank: 6
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
-  rank: 7
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 85
   rank: 8
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
   score: 85
   rank: 9
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
   score: 85
   rank: 10
 ---

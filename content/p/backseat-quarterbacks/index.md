@@ -10,44 +10,44 @@ authors:
 - ripp-report
 alttags: Fairhope Mayor Wilson facing challenges; a symbolic representation of obstacles and political opposition
 related_articles:
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 90
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 90
+  rank: 2
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
   score: 85
-  rank: 1
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
+  rank: 3
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
   score: 85
-  rank: 2
+  rank: 4
 - slug: fairhope-2020
   title: FAIRHOPE 2020
   score: 85
-  rank: 3
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 85
-  rank: 4
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 82
   rank: 5
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 85
+  rank: 6
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 7
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
   score: 82
-  rank: 6
+  rank: 8
 - slug: happy-days-are-here-again
   title: HAPPY DAYS ARE HERE AGAIN
   score: 78
-  rank: 7
-- slug: victory
-  title: VICTORY
-  score: 78
-  rank: 8
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 78
   rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
   score: 65
   rank: 10
 ---

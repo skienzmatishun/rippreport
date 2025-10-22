@@ -1,14 +1,53 @@
 ---
-title: "A Vintage Year"
+title: A Vintage Year
 date: 2021-07-23
-youtube: "mBEOAwxxRSA"
-categories: 
-  - backstory-podcast
-authors: 
-  - admin
+youtube: mBEOAwxxRSA
+categories:
+- backstory-podcast
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 98
+  rank: 1
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 98
+  rank: 2
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 95
+  rank: 3
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 95
+  rank: 4
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 95
+  rank: 5
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 75
+  rank: 6
+- slug: backstory-podcast-16-the-jack-wilson-complex
+  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
+  score: 75
+  rank: 7
+- slug: bsp-128
+  title: Big News
+  score: 75
+  rank: 8
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 70
+  rank: 9
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 65
+  rank: 10
 ---
-
-
 192,939,490 SARS-COV-2 cases confirmed worldwide with a total of 4,140,700 deaths; with 34,316,321cases in the USA with 610,387 deaths.
 
 The Delta Variant is causing infections to rise to levels not seen in months and Governor Ivey is none too happy with the unvaccinated.

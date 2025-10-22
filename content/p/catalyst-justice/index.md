@@ -13,7 +13,48 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: "Prohibition signs: one displays CATALYST, the other a scales of justice, symbolizing corruption among elected officials"
+alttags: 'Prohibition signs: one displays CATALYST, the other a scales of justice, symbolizing corruption among elected officials'
+related_articles:
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 90
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 2
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 75
+  rank: 3
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 4
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75
+  rank: 5
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 75
+  rank: 6
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 70
+  rank: 7
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 65
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 65
+  rank: 9
+- slug: i-quit
+  title: I QUIT
+  score: 60
+  rank: 10
 ---
 How many people remember Sen Tripp Pittman and his theft of BP money to the tune of $750,000 dollars?
 

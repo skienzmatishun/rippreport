@@ -14,7 +14,48 @@ tags:
 - zunk
 authors:
 - ripp-report
-alttags: "Broken eggshells and yolk illustrate Fairhope City Council’s dysfunction and lack of progress"
+alttags: Broken eggshells and yolk illustrate Fairhope City Council’s dysfunction and lack of progress
+related_articles:
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 1
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 85
+  rank: 2
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 3
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 4
+- slug: skunked
+  title: SKUNKED
+  score: 85
+  rank: 5
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 6
+- slug: shut-up
+  title: SHUT UP
+  score: 75
+  rank: 7
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 75
+  rank: 8
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 9
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 10
 ---
 Fairhope City Council is as dysfunctional as a square bowling ball. Led by Council President Jack Burrell who has been president for going on 7 years. The council has achieved little in the last year other than obstruct the Mayor’s office. It was more of the same at the last council meeting when it came to light that not one of the council has discussed any issues related to the budget in the last two weeks, with the Mayor, as they said they would. Now the supreme commander and self proclaimed “mediator” of the council has said he wishes the budget be sent to the new “APPOINTED” finance committee.
 

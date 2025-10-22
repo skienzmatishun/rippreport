@@ -1,23 +1,63 @@
 ---
-title: "CATALYST CANDIDATES ⁠— EXCESS BAGGAGE"
-thumbnail: "img/catalyst-candidates-excess-baggage.png"
+title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+thumbnail: img/catalyst-candidates-excess-baggage.png
 date: 2020-05-13
-categories: 
-  - wonderful-wednesday
-tags: 
-  - bill-hightower
-  - burrell
-  - catalyst
-  - city-council
-  - election
-  - jack-burell
-  - jerry-carl
-  - kant
-  - sullivan
-authors: 
-  - admin
+categories:
+- wonderful-wednesday
+tags:
+- bill-hightower
+- burrell
+- catalyst
+- city-council
+- election
+- jack-burell
+- jerry-carl
+- kant
+- sullivan
+authors:
+- admin
+related_articles:
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 1
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 2
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 3
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 4
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 85
+  rank: 5
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 6
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 7
+- slug: i-quit
+  title: I QUIT
+  score: 75
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75
+  rank: 9
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 65
+  rank: 10
 ---
-
 Baldwin County, you want an example how CATALYST works?
 
 All you have to do is pay attention to the Fairhope Municipal Election Aug. 25. Qualification is July 7-21st.

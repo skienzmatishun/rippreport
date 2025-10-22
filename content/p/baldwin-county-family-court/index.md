@@ -9,7 +9,48 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: "Scales of justice silhouette representing Judge Thomason’s run for Court of Appeals amidst concerns about her performance"
+alttags: Scales of justice silhouette representing Judge Thomason’s run for Court of Appeals amidst concerns about her performance
+related_articles:
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 95
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 85
+  rank: 2
+- slug: exposure
+  title: EXPOSURE
+  score: 85
+  rank: 3
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 85
+  rank: 4
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 85
+  rank: 5
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 85
+  rank: 6
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 75
+  rank: 7
+- slug: a-gentlemans-race-judge-of-probate
+  title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
+  score: 70
+  rank: 8
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 65
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 10
 ---
 Just when you thought there was no hope for the Baldwin County Family Court, Judge Thomason announces she is running for Court of Appeals position vacated by Craig Pittman who is retiring. Of course another court will inherit her incompetence but at least she won’t be making decisions about the welfare of children. It should be expected if she looses the election Nov. 2018, she probably will re run for her present position again. Judge Thomason will use the republican party to retaliate against any opponent or have them eliminated all together from running, she has a track record of dirty politics, and is loved by the good ole boys.
 

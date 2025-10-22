@@ -11,7 +11,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "BP oil spill funds misused: A hand holds a bag marked with dollar signs, illustrating Alabama’s controversial spending cho..."
+alttags: 'BP oil spill funds misused: A hand holds a bag marked with dollar signs, illustrating Alabama’s controversial spending cho...'
+related_articles:
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 85
+  rank: 1
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 75
+  rank: 2
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 3
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 4
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 75
+  rank: 5
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 6
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 65
+  rank: 7
+- slug: insanity-2
+  title: INSANITY
+  score: 65
+  rank: 8
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 65
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 10
 ---
 The BP oil spill was an accident that claimed eleven lives and adversely affected millions. BP has had to pay BILLIONS of dollars in damages spread among four states Alabama Louisiana, Texas and Florida. Three of the states used their funds to correct environmental damage done by the spill and to invest in future projects related to environmental issues. Alabama choose to rob and plunder their money on pet projects of Mayors Councils and even the Governor.
 

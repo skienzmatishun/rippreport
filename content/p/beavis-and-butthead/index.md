@@ -1,16 +1,56 @@
 ---
-title: "RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE"
+title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
 date: 2017-03-31
-thumbnail: "img/rude-crude-and-sociably-unacceptable.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - boone
-  - burrell
-authors: 
-  - ripp-report
+thumbnail: img/rude-crude-and-sociably-unacceptable.jpg
+categories:
+- freaky-friday
+tags:
+- boone
+- burrell
+authors:
+- ripp-report
+related_articles:
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 75
+  rank: 1
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 65
+  rank: 2
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 65
+  rank: 3
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 4
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 65
+  rank: 5
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 60
+  rank: 6
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 54
+  rank: 7
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 50
+  rank: 8
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 45
+  rank: 9
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 40
+  rank: 10
 ---
-
 BEAVIS AND BUTTHEAD invade Fairhope
 
 Everyone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The mainstream news media, as well as social media has covered their bullying and condescending actions leveled at the newly elected mayor for months. Citizens have confronted councilmen Burrell and Boone directly and publicly at city council meetings using public participation, voicing their disgust about the bullying tactics. Preachers and pastors have even weighed in all to no avail.

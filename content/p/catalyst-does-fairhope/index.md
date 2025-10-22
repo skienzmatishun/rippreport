@@ -10,7 +10,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "No Catalyst symbol: Red circle with a diagonal line through it over the word CATALYST, referencing Facebooks action aga..."
+alttags: 'No Catalyst symbol: Red circle with a diagonal line through it over the word CATALYST, referencing Facebooks action aga...'
+related_articles:
+- slug: catalyst-2
+  title: CATALYST
+  score: 100
+  rank: 1
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 95
+  rank: 2
+- slug: catalyst
+  title: CATALYST
+  score: 95
+  rank: 3
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 4
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 90
+  rank: 5
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 85
+  rank: 6
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 85
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 8
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 75
+  rank: 9
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 75
+  rank: 10
 ---
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to Facebook who took us offline for three days to investigate the complaint. Catalyst has no sense of humor.
 

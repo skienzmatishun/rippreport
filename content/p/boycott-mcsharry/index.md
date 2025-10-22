@@ -1,13 +1,53 @@
 ---
-title: "BOYCOTT McSHARRY"
+title: BOYCOTT McSHARRY
 date: 2022-08-05
-thumbnail: "img/boycott-mcsharrys.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/boycott-mcsharrys.png
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 95
+  rank: 1
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 95
+  rank: 2
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 85
+  rank: 3
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 85
+  rank: 4
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 5
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 60
+  rank: 6
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 50
+  rank: 7
+- slug: shut-up-2
+  title: SHUT UP
+  score: 40
+  rank: 8
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 40
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 40
+  rank: 10
 ---
-
 He has done it again. The Ripp Report has predicted numerous times that Ronan McSharry would continue his intoxication fueled assaults on women. The Paula DiNardi case ended up being an example of just how bad the municipal court and the municipal attorney are in Fairhope. Mr McSharry has assaulted yet another woman, racking up his ninth arrest, all involving alcohol.
 
 This would not have happened except for the failing of the city attorney, Marcus McDowell. It should also be noted councilman Jack Burrell is best friends of McSharry. The city council did nothing. I do hope the latest victim realizes the failings of the municipal attorney Marcus McDowell. She needs additional council and should sue the city for allowing McSharry’s to continue his drunken rages against women and the city’s responsibility and it’s incompetence in the DiNardi case.

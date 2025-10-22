@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork and knife crossed out with catalyst in red"
+alttags: Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork and knife crossed out with catalyst in red
+related_articles:
+- slug: catalyst-2
+  title: CATALYST
+  score: 95
+  rank: 1
+- slug: catalyst
+  title: CATALYST
+  score: 90
+  rank: 2
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 90
+  rank: 3
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 90
+  rank: 4
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 85
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 7
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75
+  rank: 8
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 75
+  rank: 9
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 65
+  rank: 10
 ---
 {{< socialpreview url="https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html" >}}
 

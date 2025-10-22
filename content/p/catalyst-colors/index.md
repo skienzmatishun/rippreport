@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Controversial land purchase: Glasses obscuring CATALYST, suggesting questionable actions by Fairhope councilmen"
+alttags: 'Controversial land purchase: Glasses obscuring CATALYST, suggesting questionable actions by Fairhope councilmen'
+related_articles:
+- slug: catalyst
+  title: CATALYST
+  score: 90
+  rank: 1
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 2
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 85
+  rank: 3
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 85
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 7
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 75
+  rank: 8
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 65
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 65
+  rank: 10
 ---
 Incredible, only three Fairhope City Councilmen, the 3 B’s, Burrell, Brown and Boone, approved and purchased, 2.65 million in land for recreation, that did NOT have the approval of National Park Service. They did this without any public participation and a very questionable appraisal. Then they closed the sale with lighting speed.
 

@@ -10,7 +10,7 @@ alttags: American flag waving against a stormy sky; text reads United We Stand D
 related_articles:
 - slug: 9-11-24
   title: 9/11
-  score: 98
+  score: 100
   rank: 1
 - slug: 9-11
   title: 9-11
@@ -24,17 +24,17 @@ related_articles:
   title: Veterans Day
   score: 85
   rank: 4
-- slug: veterans-day-23
-  title: Veterans Day
-  score: 85
-  rank: 5
-- slug: memorial-day-2024
-  title: MEMORIAL DAY
-  score: 82
-  rank: 6
 - slug: memorial-day-3
   title: Memorial Day
-  score: 82
+  score: 85
+  rank: 5
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 85
+  rank: 6
+- slug: memorial-day-2024
+  title: MEMORIAL DAY
+  score: 85
   rank: 7
 - slug: semper-fi-veterans-day
   title: SEMPER FI / VETERANS DAY
@@ -44,9 +44,9 @@ related_articles:
   title: HAPPY JULY 4TH
   score: 75
   rank: 9
-- slug: happy-fourth-of-july
-  title: Happy Fourth of July
-  score: 75
+- slug: 50-years-ago
+  title: 50 YEARS AGO
+  score: 65
   rank: 10
 ---
 We will never forget.

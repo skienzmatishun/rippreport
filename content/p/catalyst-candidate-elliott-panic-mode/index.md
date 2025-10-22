@@ -8,7 +8,48 @@ tags:
 - chris-elliott
 authors:
 - ripp-report
-alttags: "Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election campaign photo"
+alttags: Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election campaign photo
+related_articles:
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 95
+  rank: 1
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 2
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 85
+  rank: 3
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 6
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 85
+  rank: 7
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 75
+  rank: 8
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 9
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 75
+  rank: 10
 ---
 <div class="link-preview">
 

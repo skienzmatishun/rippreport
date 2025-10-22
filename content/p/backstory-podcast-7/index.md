@@ -9,42 +9,42 @@ authors:
 related_articles:
 - slug: backstory-podcast-6
   title: BACKSTORY PODCAST 6
-  score: 88
+  score: 95
   rank: 1
 - slug: backstory-podcast-2
   title: BACKSTORY PODCAST
-  score: 86
+  score: 95
   rank: 2
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 77
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 95
   rank: 3
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 77
+- slug: backstory-podcast-16-the-jack-wilson-complex
+  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
+  score: 95
   rank: 4
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 77
-  rank: 5
-- slug: backstory-alabama-the-ripp-report-podcast-5
-  title: 'BACKSTORY PODCAST #5'
-  score: 76
-  rank: 6
 - slug: backstory-podcast-12
   title: 'BACKSTORY PODCAST #12'
-  score: 76
+  score: 92
+  rank: 5
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 90
+  rank: 6
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 90
   rank: 7
-- slug: he-must-go
-  title: He Must Go
-  score: 75
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 90
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 75
+- slug: backstory-podcast-35-contrarians
+  title: 'BACKSTORY PODCAST #35 Contrarians'
+  score: 90
   rank: 9
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 74
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 70
   rank: 10
 ---

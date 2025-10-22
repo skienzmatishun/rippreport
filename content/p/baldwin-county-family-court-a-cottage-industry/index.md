@@ -8,7 +8,48 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: "Family silhouettes holding hands, representing custody disputes and hardships within family court proceedings"
+alttags: Family silhouettes holding hands, representing custody disputes and hardships within family court proceedings
+related_articles:
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 100
+  rank: 1
+- slug: exposure
+  title: EXPOSURE
+  score: 85
+  rank: 2
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 85
+  rank: 3
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 85
+  rank: 4
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 85
+  rank: 5
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 85
+  rank: 6
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 75
+  rank: 7
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 75
+  rank: 8
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 75
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 10
 ---
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree.
 

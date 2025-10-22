@@ -10,44 +10,44 @@ authors:
 - ripp-report
 alttags: A playing card floats above a magician’s hat, symbolizing misleading promises and empty development claims in Baldwin County
 related_articles:
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 90
+  rank: 1
 - slug: fauxhope
   title: FAUXHOPE
-  score: 85
-  rank: 1
+  score: 90
+  rank: 2
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
   score: 85
-  rank: 2
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
   rank: 3
-- slug: flying-high
-  title: FLYING HIGH
+- slug: shovel-ready
+  title: SHOVEL READY
   score: 85
   rank: 4
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
   score: 85
   rank: 5
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
-  rank: 6
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 85
-  rank: 7
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
   score: 85
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 7
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
   rank: 8
-- slug: broken-eggs
-  title: BROKEN EGGS
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
   score: 85
   rank: 9
-- slug: gold-star-2
-  title: GOLD STAR
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
   score: 75
   rank: 10
 ---

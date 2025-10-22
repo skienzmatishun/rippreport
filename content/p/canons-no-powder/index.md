@@ -6,7 +6,48 @@ categories:
 - monday-mayhem
 authors:
 - admin
-alttags: "Lack of accountability in Baldwin County judicial ethics: a judge/developer facing approval conflicts"
+alttags: 'Lack of accountability in Baldwin County judicial ethics: a judge/developer facing approval conflicts'
+related_articles:
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 85
+  rank: 1
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 85
+  rank: 2
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 85
+  rank: 3
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 85
+  rank: 4
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 85
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 6
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 75
+  rank: 7
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 75
+  rank: 8
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 70
+  rank: 9
+- slug: a-gentlemans-race-judge-of-probate
+  title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
+  score: 65
+  rank: 10
 ---
 The Alabama Judicial Canons are the baseline ethics that Alabama Judges are suppose to abide by. In Baldwin County the Canons have NO powder, because there is no accountability.
 

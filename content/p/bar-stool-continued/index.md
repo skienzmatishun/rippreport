@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case"
+alttags: Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case
+related_articles:
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 85
+  rank: 1
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 85
+  rank: 2
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 3
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75
+  rank: 4
+- slug: barstool
+  title: BARSTOOL
+  score: 75
+  rank: 5
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 75
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75
+  rank: 8
+- slug: catalyst
+  title: CATALYST
+  score: 75
+  rank: 9
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 65
+  rank: 10
 ---
 The wheels of justice move slow, especially when the good ole boys knock out the spokes. 15 months ago we reported on an incident that should have been resolved in 6 months.
 

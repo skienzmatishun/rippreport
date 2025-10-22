@@ -11,7 +11,48 @@ tags:
 - scott-boone
 authors:
 - admin
-alttags: "Political campaign signs for Boone, Sherry, and Jack Burrell in a Baldwin County yard; a sign with Catalyst crossed out ..."
+alttags: Political campaign signs for Boone, Sherry, and Jack Burrell in a Baldwin County yard; a sign with Catalyst crossed out ...
+related_articles:
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 1
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 85
+  rank: 2
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 3
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 85
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 5
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 7
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 8
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 9
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 10
 ---
 If you live in Baldwin County, please share this post as much as possible. This is very IMPORTANT.
 

@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections"
+alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections
+related_articles:
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 85
+  rank: 1
+- slug: catalyst
+  title: CATALYST
+  score: 85
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 85
+  rank: 3
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 75
+  rank: 4
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 5
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 75
+  rank: 6
+- slug: catalyst-2
+  title: CATALYST
+  score: 75
+  rank: 7
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 65
+  rank: 8
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 65
+  rank: 9
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 65
+  rank: 10
 ---
 In the last Fairhope municipal election the Ripp Report supported most of the City Council, even Jack Burell. The focus of the election was to elect a new mayor.
 

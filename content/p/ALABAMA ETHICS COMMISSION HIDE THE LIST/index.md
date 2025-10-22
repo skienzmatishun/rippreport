@@ -15,36 +15,36 @@ related_articles:
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
   score: 92
   rank: 1
-- slug: this-is-a-test
-  title: THIS IS A TEST
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
   score: 92
   rank: 2
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 85
+  score: 92
   rank: 3
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 4
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 85
+  score: 92
+  rank: 4
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 92
   rank: 5
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 85
-  rank: 6
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 85
-  rank: 7
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
   score: 85
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 7
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
   rank: 8
-- slug: fire-albritton
-  title: FIRE ALBRITTON
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
   score: 85
   rank: 9
 - slug: alabama-ethics-a-political-tool

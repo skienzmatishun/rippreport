@@ -8,45 +8,45 @@ authors:
 - ripp-report
 alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described in Emma Lazaruss “New Colossus” poem
 related_articles:
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
+- slug: 45th-of-july-2025
+  title: 4TH OF JULY
   score: 85
   rank: 1
+- slug: happy-fourth-of-july
+  title: Happy Fourth of July
+  score: 85
+  rank: 2
+- slug: fourth-of-july-2023
+  title: 4th of July
+  score: 80
+  rank: 3
+- slug: fourth-of-july-2
+  title: Fourth of July
+  score: 78
+  rank: 4
 - slug: happy-4th-of-july-2
   title: 🇺🇸 HAPPY 4TH OF JULY 🇺🇸
   score: 78
-  rank: 2
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 78
-  rank: 3
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 78
-  rank: 4
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 75
   rank: 5
+- slug: happy-4th-of-july
+  title: Happy 4th of July
+  score: 78
+  rank: 6
 - slug: happy-july-4th
   title: HAPPY JULY 4TH
   score: 75
-  rank: 6
-- slug: game-on
-  title: GAME ON
-  score: 65
   rank: 7
-- slug: memorial-day-2023
-  title: MEMORIAL DAY
-  score: 58
+- slug: -4th-of-july
+  title: 4th of July
+  score: 65
   rank: 8
 - slug: happy-birthday-🇺🇸-246-years
   title: HAPPY BIRTHDAY 🇺🇸 246 YEARS
-  score: 58
+  score: 65
   rank: 9
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 35
+- slug: memorial-day-2023
+  title: MEMORIAL DAY
+  score: 58
   rank: 10
 ---
 AMERICA

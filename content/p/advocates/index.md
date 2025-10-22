@@ -10,44 +10,44 @@ authors:
 - admin
 alttags: Portrait of Murray Lawrence Jr. alongside Baldwin County Courthouse; advocates found a hidden autopsy in his murder trial
 related_articles:
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 100
+  rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 98
-  rank: 1
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 98
+  rank: 3
 - slug: the-lie-of-the-century
   title: The Lie of The Century
   score: 95
-  rank: 2
-- slug: rule-32
-  title: RULE 32
-  score: 95
-  rank: 3
+  rank: 4
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
   score: 95
-  rank: 4
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 6
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 95
-  rank: 5
+  rank: 7
+- slug: rule-32
+  title: RULE 32
+  score: 95
+  rank: 8
 - slug: innocent
   title: INNOCENT
   score: 92
-  rank: 6
-- slug: no-justice
-  title: NO JUSTICE
-  score: 92
-  rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 85
-  rank: 8
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 85
   rank: 9
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
+- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
+  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
   score: 85
   rank: 10
 ---

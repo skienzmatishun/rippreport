@@ -10,45 +10,45 @@ authors:
 - ripp-report
 alttags: Sunset reflected in a car side mirror, symbolizing reflection on the past year and looking forward to new beginnings
 related_articles:
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
+- slug: new-years-2024
+  title: HAPPY NEW YEAR
   score: 85
   rank: 1
+- slug: happy-new-year-2
+  title: Happy New Year!
+  score: 85
+  rank: 2
 - slug: new-year-new-problems
   title: NEW YEAR NEW PROBLEMS
-  score: 78
-  rank: 2
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 75
+  score: 85
   rank: 3
-- slug: happy-new-year-🎉
-  title: HAPPY NEW YEAR 🎉
-  score: 65
-  rank: 4
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 58
-  rank: 5
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 58
-  rank: 6
-- slug: gone-fishing
-  title: GONE FISHING
-  score: 58
-  rank: 7
 - slug: new-years-2025
   title: HAPPY NEW YEAR!
-  score: 58
+  score: 85
+  rank: 4
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 85
+  rank: 5
+- slug: happy-new-year-3
+  title: HAPPY NEW YEAR
+  score: 85
+  rank: 6
+- slug: happy-new-year
+  title: HAPPY NEW YEAR
+  score: 80
+  rank: 7
+- slug: happy-new-year-🎉
+  title: HAPPY NEW YEAR 🎉
+  score: 75
   rank: 8
-- slug: on-vacation
-  title: ON VACATION
-  score: 58
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 65
   rank: 9
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 55
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 65
   rank: 10
 ---
 Facebook is sending users a personalized “2016 Year in Review” on their news feeds. It has certainly been a year worth reflecting on. Much has happened in American politics this year. However, like former U.S. Speaker of the House Tip O’Neill said, “All politics are local.” In Baldwin County, nothing could be further from the truth.

@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts"
+alttags: Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts
+related_articles:
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 85
+  rank: 1
+- slug: april-fool
+  title: APRIL FOOL
+  score: 82
+  rank: 2
+- slug: the-jester
+  title: THE JESTER
+  score: 75
+  rank: 3
+- slug: dog-and-pony-show
+  title: DOG AND PONY SHOW
+  score: 75
+  rank: 4
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 65
+  rank: 5
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 65
+  rank: 6
+- slug: straw-man
+  title: STRAW MAN
+  score: 65
+  rank: 7
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 65
+  rank: 8
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 65
+  rank: 9
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 65
+  rank: 10
 ---
  In Fairhope Transparency is being promoted by a Jester. His followers do not care about facts only the Jester spin. The Jester, Boone and Burrell are now calling for community engagement in reference to the Greeno Road Overlay District. Citizens agree and the Mayor has already implemented several public meetings, so what the hell are they talking about? DISTRACTION. The same three hypocrites had NO Community Engagement when they voted themselves full family insurance. They had NO community engagement for the 2.6 million dollar recreation land and they unanimously said NO to the black community when it came to recreation land. Remember that in 2020.
 

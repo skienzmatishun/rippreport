@@ -14,39 +14,39 @@ alttags: Gavel and legal documents represent a lawsuit filed against Fairhope Pl
 related_articles:
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 85
+  score: 95
   rank: 1
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 90
+  rank: 2
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 90
+  rank: 3
 - slug: fairness
   title: FAIRNESS
   score: 85
-  rank: 2
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
+  rank: 4
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
   score: 85
-  rank: 3
+  rank: 5
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
+  rank: 6
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
   score: 85
-  rank: 4
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 85
-  rank: 5
+  rank: 7
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER
   score: 85
-  rank: 6
+  rank: 8
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
   score: 82
-  rank: 7
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 78
-  rank: 8
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 78
   rank: 9
 - slug: freaky-friday
   title: FREAKY FRIDAY

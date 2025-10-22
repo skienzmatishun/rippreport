@@ -13,7 +13,48 @@ tags:
 - zoning-commission
 authors:
 - admin
-alttags: "Vintage newspaper clipping featuring Blanche Weeks and a headline proclaiming her gumbo is now famous; related to politica..."
+alttags: Vintage newspaper clipping featuring Blanche Weeks and a headline proclaiming her gumbo is now famous; related to politica...
+related_articles:
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 65
+  rank: 1
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 2
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 3
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 65
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 55
+  rank: 6
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 55
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 54
+  rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 40
+  rank: 9
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 40
+  rank: 10
 ---
 All of us have read news articles that have driven us up the wall, but this article and story is insane and most likely a perfect example of someone with power who wants his own way. What the Ripp Report calls political corruption.
 

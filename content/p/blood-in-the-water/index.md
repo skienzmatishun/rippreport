@@ -10,7 +10,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Unrelated illustration: A great white shark swims through a school of fish, contrasting low Alabama voter turnout"
+alttags: 'Unrelated illustration: A great white shark swims through a school of fish, contrasting low Alabama voter turnout'
+related_articles:
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 85
+  rank: 1
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 75
+  rank: 2
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 75
+  rank: 3
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 75
+  rank: 4
+- slug: black-hole
+  title: BLACK HOLE
+  score: 70
+  rank: 5
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 65
+  rank: 6
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 65
+  rank: 7
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 55
+  rank: 8
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 54
+  rank: 9
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 50
+  rank: 10
 ---
 Here is the first post I saw this morning:
 

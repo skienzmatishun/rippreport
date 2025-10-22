@@ -10,7 +10,48 @@ tags:
 - GAL
 authors:
 - ripp-report
-alttags: "Baldwin County Family Court Reform Project logo; highlights concerns about corruption within Alabama’s family court system"
+alttags: Baldwin County Family Court Reform Project logo; highlights concerns about corruption within Alabama’s family court system
+related_articles:
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 95
+  rank: 1
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 85
+  rank: 2
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 85
+  rank: 3
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 85
+  rank: 4
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 85
+  rank: 5
+- slug: exposure
+  title: EXPOSURE
+  score: 75
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 8
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 65
+  rank: 9
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 65
+  rank: 10
 ---
 I have been blasting this message as a post and in comments all over Facebook, and will continue to do so.
 

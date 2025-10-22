@@ -8,7 +8,48 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: "Gas mask against a white background, symbolizing environmental pollution concerns ignored by authorities"
+alttags: Gas mask against a white background, symbolizing environmental pollution concerns ignored by authorities
+related_articles:
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 85
+  rank: 1
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 85
+  rank: 2
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 75
+  rank: 3
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 75
+  rank: 4
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 75
+  rank: 5
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 65
+  rank: 6
+- slug: nuff-said
+  title: NUFF SAID
+  score: 65
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 8
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 65
+  rank: 9
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 65
+  rank: 10
 ---
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For example:
 

@@ -1,14 +1,53 @@
 ---
-title: "Big News"
+title: Big News
 date: 2022-05-15
-youtube: "UfpIMUet0Zs"
-categories: 
-  - backstory-podcast
-authors: 
-  - admin
+youtube: UfpIMUet0Zs
+categories:
+- backstory-podcast
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 100
+  rank: 1
+- slug: backstory-podcast-35-contrarians
+  title: 'BACKSTORY PODCAST #35 Contrarians'
+  score: 98
+  rank: 2
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 98
+  rank: 3
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 75
+  rank: 4
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 75
+  rank: 5
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 75
+  rank: 6
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 75
+  rank: 7
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 75
+  rank: 8
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 70
+  rank: 9
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 65
+  rank: 10
 ---
-
-
 Novelis is Building a New, Low-Carbon, $2.5 Billion Aluminum Plant Recycling & Rolling facility in Bay Minette, Alabama, is the first of its kind and first fully integrated, U.S. mill built in 40 year and they are building it on the Baldwin County Megasite!
 
 From the inception of the Alliance by the Chambers of Commerce at the behest of Baldwin County United, this has been a multi-year-village-wide-effort. From Lance LaCour, former BCEDA Director now in Katy TX (the Godfather of the Project) to Mr. Ingram, and all of the people who believed that this project would change our fortunes- much like the location of "Delta Rockets" on Decatur Alabama's Megasite some 15 years ago.

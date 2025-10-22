@@ -12,41 +12,41 @@ related_articles:
   title: ALABAMA CORRUPTION INSURANCE
   score: 95
   rank: 1
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 95
+  rank: 2
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
   score: 95
-  rank: 2
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 85
   rank: 3
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 85
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 92
   rank: 4
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 92
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 90
+  rank: 6
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
   score: 85
-  rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
-  rank: 6
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 85
   rank: 7
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 85
-  rank: 8
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
   score: 82
-  rank: 9
+  rank: 8
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
   score: 78
+  rank: 9
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 70
   rank: 10
 ---
 You want to know why Alabama is first in political corruption and last in education? CORRUPTION,

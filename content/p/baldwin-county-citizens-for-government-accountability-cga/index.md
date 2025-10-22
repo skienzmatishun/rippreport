@@ -6,7 +6,48 @@ categories:
 - Special-Report
 authors:
 - ripp-report
-alttags: "Bald eagle head superimposed on an American flag with We the People text, referencing voter decisions about local taxes"
+alttags: Bald eagle head superimposed on an American flag with We the People text, referencing voter decisions about local taxes
+related_articles:
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 90
+  rank: 1
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 85
+  rank: 2
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 78
+  rank: 3
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 75
+  rank: 4
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 6
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 70
+  rank: 7
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 8
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 9
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 65
+  rank: 10
 ---
 Penny Sales Tax Debacle
 

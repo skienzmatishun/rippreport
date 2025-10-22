@@ -12,43 +12,43 @@ alttags: Eyeglasses resting on a document, symbolizing poll watcher observations
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”
-  score: 85
+  score: 90
   rank: 1
 - slug: elected-or-selected
   title: ELECTED OR SELECTED
   score: 85
   rank: 2
-- slug: demand-the-truth
-  title: DEMAND THE TRUTH
-  score: 85
-  rank: 3
-- slug: vote
-  title: VOTE
-  score: 85
-  rank: 4
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
   score: 82
-  rank: 5
-- slug: blind-voting-straight-ticket
-  title: BLIND VOTING STRAIGHT TICKET
-  score: 78
-  rank: 6
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 78
-  rank: 7
+  rank: 3
 - slug: election-ad
   title: ELECTION AD
   score: 75
-  rank: 8
-- slug: game-on
-  title: GAME ON
+  rank: 4
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
   score: 75
+  rank: 5
+- slug: vote
+  title: VOTE
+  score: 70
+  rank: 6
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 70
+  rank: 7
+- slug: blind-voting-straight-ticket
+  title: BLIND VOTING STRAIGHT TICKET
+  score: 65
+  rank: 8
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 65
   rank: 9
-- slug: wonderful-wednesday
-  title: WONDERFUL WEDNESDAY
-  score: 58
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 65
   rank: 10
 ---
 STOPVOTERFRAUDNOW.COM

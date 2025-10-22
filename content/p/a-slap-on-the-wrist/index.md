@@ -18,45 +18,45 @@ authors:
 - admin
 alttags: A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption...
 related_articles:
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 95
+  rank: 1
+- slug: surrender
+  title: SURRENDER
+  score: 90
+  rank: 2
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
   score: 85
-  rank: 1
+  rank: 3
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 85
+  rank: 4
 - slug: absolute-power
   title: ABSOLUTE POWER
   score: 85
-  rank: 2
+  rank: 5
 - slug: catalyst-bullies
   title: CATALYST BULLIES
   score: 85
-  rank: 3
-- slug: surrender
-  title: SURRENDER
-  score: 82
-  rank: 4
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 82
-  rank: 5
+  rank: 6
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 85
+  rank: 7
 - slug: catalyst-justice
   title: CATALYST JUSTICE
   score: 82
-  rank: 6
+  rank: 8
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 82
-  rank: 7
+  score: 70
+  rank: 9
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 78
-  rank: 8
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 78
-  rank: 9
-- slug: hate
-  title: HATE
-  score: 58
+  score: 65
   rank: 10
 ---
 <iframe src="https://giphy.com/embed/J7KNNBaqIJTt5EzfDo" width="480" height="350" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
