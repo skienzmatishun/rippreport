@@ -1,17 +1,57 @@
 ---
-title: "ELLIOTT HISTORY LESSON"
+title: ELLIOTT HISTORY LESSON
 date: 2023-07-15
-thumbnail: "img/elliot-history-lesson.jpg"
-gif: "img/elliot-history-lesson.gif"
+thumbnail: img/elliot-history-lesson.jpg
+gif: img/elliot-history-lesson.gif
 tags:
-  - Elliott
-  - Mayor Sullivan
-categories: 
-  - ethics
-authors: 
-  - admin
+- Elliott
+- Mayor Sullivan
+categories:
+- ethics
+authors:
+- admin
+related_articles:
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 75
+  rank: 1
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 75
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 65
+  rank: 3
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 65
+  rank: 4
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 65
+  rank: 5
+- slug: selective-memory
+  title: Selective Memory
+  score: 65
+  rank: 6
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 7
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 65
+  rank: 8
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 65
+  rank: 9
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 54
+  rank: 10
 ---
-
 Senator Chris Elliott is a perfect example of a politician out of touch with his constituents. His grandstanding is political and an attempt to cater to a small base, who vote. He is shameless and uses his church to push his political aspirations, a common practice in the deep south. Professing to be a christian is at the top of criteria to be elected. Ethics, conflicts of interest and accountability are not on the list.
 
 

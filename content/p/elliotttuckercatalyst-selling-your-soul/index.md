@@ -1,19 +1,59 @@
 ---
-title: "ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL"
+title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
 date: 2018-05-24
-thumbnail: "img/elliott-tucker-catalyst-selling-your-soul.jpg"
-categories: 
-  - thursday-thunder
-tags: 
-  - catalyst
-  - chris-elliott
-  - mega-site
-  - pittman
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/elliott-tucker-catalyst-selling-your-soul.jpg
+categories:
+- thursday-thunder
+tags:
+- catalyst
+- chris-elliott
+- mega-site
+- pittman
+- tucker-dorsey
+authors:
+- ripp-report
+related_articles:
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 92
+  rank: 1
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 92
+  rank: 2
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 90
+  rank: 3
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 85
+  rank: 4
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 5
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 6
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 85
+  rank: 7
+- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
+  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
+  score: 85
+  rank: 8
+- slug: million-dollar-swimming-pool
+  title: MILLION DOLLAR SWIMMING POOL
+  score: 75
+  rank: 9
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 65
+  rank: 10
 ---
-
 By now you have seen the slick ads of Elliott and Tucker. However, when you read them you do not recognize any similarity between the written fluff and the candidates. These guys are dumping tens of thousands of dollars, donated by developers and Catalyst, to be elected at all costs. They will do anything, I repeat anything, to get elected.
 
 https://lagniappemobile.com/half-million-dollars-contributed-to-senate-district-32-campaign/

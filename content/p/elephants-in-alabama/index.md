@@ -9,7 +9,48 @@ categories:
 - ethics
 authors:
 - admin
-alttags: "Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence"
+alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence
+related_articles:
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 1
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 2
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 85
+  rank: 3
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 75
+  rank: 4
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75
+  rank: 5
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 75
+  rank: 6
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 75
+  rank: 7
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 75
+  rank: 8
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 65
+  rank: 9
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 65
+  rank: 10
 ---
 If a herd of elephants were to roam loose in Alabama, most news sources could not find them. Probably the biggest story, political story, is the evidence emerging about the Bar Association and the Ethics Executive Director. Only Lagniappe has had the balls to print the facts.
 

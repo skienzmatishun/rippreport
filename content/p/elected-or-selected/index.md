@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Vote counts matter as Baldwin County residents express concerns about local officials and court system"
+alttags: Vote counts matter as Baldwin County residents express concerns about local officials and court system
+related_articles:
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 90
+  rank: 1
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 2
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 85
+  rank: 3
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 4
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 5
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 75
+  rank: 6
+- slug: vote-smart
+  title: VOTE SMART
+  score: 75
+  rank: 7
+- slug: qualification
+  title: QUALIFICATION
+  score: 75
+  rank: 8
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 9
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 10
 ---
 Stay tuned folks for some interesting stores that are in the works involving our corrupt Baldwin County family court system. We will share with you how Baldwin County Commissioners and their connections to local Mayors impact **YOUR** quality of life.
 

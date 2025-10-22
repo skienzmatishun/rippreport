@@ -10,7 +10,48 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: "Sign advertising the vacant South Alabama Mega Site, a 3000-acre industrial property purchased by Baldwin County in 2012"
+alttags: Sign advertising the vacant South Alabama Mega Site, a 3000-acre industrial property purchased by Baldwin County in 2012
+related_articles:
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 95
+  rank: 1
+- slug: dead-last
+  title: DEAD LAST
+  score: 85
+  rank: 2
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 85
+  rank: 3
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 85
+  rank: 4
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 75
+  rank: 5
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 75
+  rank: 6
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 75
+  rank: 7
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 75
+  rank: 8
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 65
+  rank: 9
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 50
+  rank: 10
 ---
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site.
 

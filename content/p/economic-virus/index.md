@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Rolled US dollar bills radiating outwards, symbolizing potential economic bailout costs amid the COVID-19 pandemic"
+alttags: Rolled US dollar bills radiating outwards, symbolizing potential economic bailout costs amid the COVID-19 pandemic
+related_articles:
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 85
+  rank: 1
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 75
+  rank: 2
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 75
+  rank: 3
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 75
+  rank: 4
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 72
+  rank: 5
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 70
+  rank: 6
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 65
+  rank: 7
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 65
+  rank: 8
+- slug: bsp-tlp
+  title: Backstory Podcast No 56 The Lincoln Project
+  score: 65
+  rank: 9
+- slug: 4-20
+  title: 4-20
+  score: 50
+  rank: 10
 ---
 Again Alabama is dead last in response time for the corona virus, COVD-19. We have a Pandemic on our hands and most people are focused on medical issues.
 

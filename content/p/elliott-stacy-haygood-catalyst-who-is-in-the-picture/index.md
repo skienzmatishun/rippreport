@@ -13,7 +13,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Group photo from political group “the machine,” including Elliott Stacy and Dane Haygood, later evolving into Catalyst"
+alttags: Group photo from political group “the machine,” including Elliott Stacy and Dane Haygood, later evolving into Catalyst
+related_articles:
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 95
+  rank: 1
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 2
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 3
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 4
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 85
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 6
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 7
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 8
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 75
+  rank: 9
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 70
+  rank: 10
 ---
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County Commission and Dane Haygood was elected as Mayor of Daphne, Mr Stacy retired. The group then morphed into CATALYST and Haygood and Elliott tried to stay in the shadows while maintaining status in Catalyst.
 

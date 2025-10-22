@@ -13,7 +13,48 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: "An elephant’s head emerging from a yellow Volkswagen Beetle, symbolizing deceptive appearances and hidden agendas in Fairh..."
+alttags: An elephant’s head emerging from a yellow Volkswagen Beetle, symbolizing deceptive appearances and hidden agendas in Fairh...
+related_articles:
+- slug: gob-coup
+  title: GOB COUP
+  score: 85
+  rank: 1
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 75
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 4
+- slug: nuff-said
+  title: NUFF SAID
+  score: 75
+  rank: 5
+- slug: flying-high
+  title: FLYING HIGH
+  score: 75
+  rank: 6
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 75
+  rank: 7
+- slug: jack-ass
+  title: JACK ASS
+  score: 75
+  rank: 8
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 65
+  rank: 9
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 45
+  rank: 10
 ---
 Some people will believe anything they are told without question. The last Fairhope City Council meeting is a perfect example, items 5 and 13, smell like a pig pen. It was all smoke and mirrors orchestrated to smell like roses. You can go on the city site, the council agenda, and get details.
 
