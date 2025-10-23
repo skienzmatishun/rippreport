@@ -9,7 +9,48 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: "Baldwin County Sewer mascot: A cartoon water droplet character promoting Crystal Clean, associated with a controversial ..."
+alttags: 'Baldwin County Sewer mascot: A cartoon water droplet character promoting Crystal Clean, associated with a controversial ...'
+related_articles:
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 95
+  rank: 1
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 90
+  rank: 2
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 90
+  rank: 3
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 85
+  rank: 4
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 70
+  rank: 5
+- slug: sting
+  title: Sting
+  score: 70
+  rank: 6
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 70
+  rank: 7
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 70
+  rank: 8
+- slug: straw-man
+  title: STRAW MAN
+  score: 65
+  rank: 9
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 50
+  rank: 10
 ---
 Baldwin County Sewer is the only, private, unregulated sewer utility in Alabama. The County commission has refused to tackle the issue of BCSS being unregulated. BCSS uses the county right of ways free and developments on farmland can use BCSS for subdivisions, which expands development sprawl. They have raised rates at will.
 

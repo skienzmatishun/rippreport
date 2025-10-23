@@ -14,7 +14,48 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: "Emotional scene: people embrace amidst concerns over rising COVID-19 cases and calls for safety measures like masking"
+alttags: 'Emotional scene: people embrace amidst concerns over rising COVID-19 cases and calls for safety measures like masking'
+related_articles:
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 85
+  rank: 1
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 85
+  rank: 2
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 85
+  rank: 3
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 75
+  rank: 4
+- slug: honeymoon
+  title: HONEYMOON
+  score: 75
+  rank: 5
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 70
+  rank: 6
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 7
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 65
+  rank: 8
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 60
+  rank: 9
+- slug: m-i-a
+  title: M.I.A
+  score: 60
+  rank: 10
 ---
 1701 Covid deaths in one day, 250,000 total U.S. deaths, 11 million cases so far in the United States. One person is dying every 50 seconds. Statistics and data that would makes your head spin and yet there are people that still ignore basic health standards, some believe Covid is a hoax.
 

@@ -7,7 +7,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Cartoon water droplet mascot labeled Crystal Clean, representing Baldwin County Sewer Service, a privately operated, unr..."
+alttags: Cartoon water droplet mascot labeled Crystal Clean, representing Baldwin County Sewer Service, a privately operated, unr...
+related_articles:
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 85
+  rank: 1
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 85
+  rank: 2
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 85
+  rank: 3
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 80
+  rank: 4
+- slug: timeline
+  title: TIMELINE
+  score: 75
+  rank: 5
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 70
+  rank: 6
+- slug: sting
+  title: Sting
+  score: 65
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 65
+  rank: 8
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 60
+  rank: 9
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 50
+  rank: 10
 ---
 The article below omitted some issues, that may have been problematic for Al.com to print. So let me fill ya in on some details. Baldwin County Sewer Service is the only privately operated sewer service in Alabama. They are unregulated and have been given permission to use county right of ways at no charge.
 

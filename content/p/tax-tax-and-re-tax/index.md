@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo..."
+alttags: School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo...
+related_articles:
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 90
+  rank: 1
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 90
+  rank: 2
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 85
+  rank: 3
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 85
+  rank: 4
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 75
+  rank: 5
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 75
+  rank: 6
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 75
+  rank: 7
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 70
+  rank: 8
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 70
+  rank: 9
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 70
+  rank: 10
 ---
 Tax, tax and re-tax that is the bottom line for Baldwin County. The developers pay no or little impact fee for their projects which ends up costing you, the taxpayer, to make up the difference in the cost of Schools, Streets/Transportation and Education.
 

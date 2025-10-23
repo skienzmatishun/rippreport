@@ -13,7 +13,48 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: "Former Governor Don Siegelman in a prison jumpsuit, overlaid with text about stolen democracy, referencing election fixing..."
+alttags: Former Governor Don Siegelman in a prison jumpsuit, overlaid with text about stolen democracy, referencing election fixing...
+related_articles:
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 85
+  rank: 1
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 85
+  rank: 2
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 85
+  rank: 3
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 75
+  rank: 4
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 5
+- slug: scary
+  title: SCARY
+  score: 70
+  rank: 6
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 65
+  rank: 7
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 65
+  rank: 8
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 65
+  rank: 9
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 60
+  rank: 10
 ---
 When elections are “fixed” you can be assured, politicians, any party, are STEALING OUR DEMOCRACY.
 

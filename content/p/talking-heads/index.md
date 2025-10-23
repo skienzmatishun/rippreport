@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission"
+alttags: 'Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission'
+related_articles:
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 1
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 2
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 75
+  rank: 3
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 70
+  rank: 4
+- slug: hell-yea
+  title: HELL YEA
+  score: 70
+  rank: 5
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 65
+  rank: 6
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 7
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 65
+  rank: 8
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 9
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 65
+  rank: 10
 ---
 Baldwin County needs more representation on the county commission. People will say “just more talking heads.” The population of the county is topping 250,000 and the county only has 4 commissioners. The Commission should be an odd number so as to never tie or have a possible deadlock in voting on issues.
 

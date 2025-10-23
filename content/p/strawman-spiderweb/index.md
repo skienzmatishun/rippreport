@@ -10,7 +10,48 @@ tags:
 - mcsharry
 authors:
 - admin
-alttags: "Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction"
+alttags: Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction
+related_articles:
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 90
+  rank: 1
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 85
+  rank: 2
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 85
+  rank: 3
+- slug: straw-man
+  title: STRAW MAN
+  score: 75
+  rank: 4
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 6
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 65
+  rank: 7
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 65
+  rank: 8
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 9
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 55
+  rank: 10
 ---
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 

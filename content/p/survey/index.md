@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Aerial view highlights Fairhope City Hall and surrounding area, featured in the State of the City report"
+alttags: Aerial view highlights Fairhope City Hall and surrounding area, featured in the State of the City report
+related_articles:
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 75
+  rank: 1
+- slug: s-o-s
+  title: S.O.S
+  score: 75
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 75
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 65
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 5
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65
+  rank: 6
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 65
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 8
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 65
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 10
 ---
 Last night’s, State of the City of Fairhope, was a success and the employees represented the city proudly. A 35 page report was presented and I encourage citizens of Fairhope to drop by City Hall and get a copy.
 

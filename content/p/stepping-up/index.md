@@ -14,7 +14,48 @@ tags:
 - orange-beach
 authors:
 - ripp-report
-alttags: "Fairhope Municipal Pier fountain: a view highlighting the city’s positive financial outlook in The Ripp Reports 2019 Stat..."
+alttags: 'Fairhope Municipal Pier fountain: a view highlighting the city’s positive financial outlook in The Ripp Reports 2019 Stat...'
+related_articles:
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 85
+  rank: 1
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 85
+  rank: 2
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 75
+  rank: 4
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 75
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 70
+  rank: 6
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 65
+  rank: 7
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 65
+  rank: 8
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 9
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 65
+  rank: 10
 ---
 I do not want the Ripp Report readers thinking I am getting soft for complimenting some of the Baldwin County Mayors, but they deserve it. Fairhope definitely is on the right track and may be debt free by 2020.
 

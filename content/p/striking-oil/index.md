@@ -11,7 +11,48 @@ categories:
 - ethics
 authors:
 - admin
-alttags: "Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns..."
+alttags: Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns...
+related_articles:
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 95
+  rank: 1
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 95
+  rank: 2
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 95
+  rank: 3
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 90
+  rank: 4
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 5
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 85
+  rank: 6
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 85
+  rank: 7
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 75
+  rank: 8
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 65
+  rank: 9
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 65
+  rank: 10
 ---
 Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to tell the citizens of the county or the relatives of Mabel Amos.
 

@@ -11,7 +11,48 @@ tags:
 - super-bowl
 authors:
 - admin
-alttags: "American football resting on a gray background, representing Super Bowl LV competition between Chiefs and Buccaneers"
+alttags: American football resting on a gray background, representing Super Bowl LV competition between Chiefs and Buccaneers
+related_articles:
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 70
+  rank: 1
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 70
+  rank: 2
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 70
+  rank: 3
+- slug: backstory-podcast-the-46th-president-of-the-united-states
+  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
+  score: 65
+  rank: 4
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 65
+  rank: 5
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 6
+- slug: election-ad
+  title: ELECTION AD
+  score: 60
+  rank: 7
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 60
+  rank: 8
+- slug: countdown
+  title: COUNTDOWN
+  score: 60
+  rank: 9
+- slug: warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th
+  title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
+  score: 50
+  rank: 10
 ---
 Super Bowl LV, the 55th Super Bowl and the 51st modern-era National Football League championship game, will decide the league champion for the 2020 NFL season. The American Football Conference champion Kansas City Chiefs will play the National Football Conference champion Tampa Bay Buccaneers.
 

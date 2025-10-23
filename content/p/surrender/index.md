@@ -9,7 +9,48 @@ categories:
 - saturday-sunshine
 authors:
 - admin
-alttags: "Satirical depiction: a man’s face superimposed on an Irish leprechaun mascot holding money and waving a flag, referencing ..."
+alttags: 'Satirical depiction: a man’s face superimposed on an Irish leprechaun mascot holding money and waving a flag, referencing ...'
+related_articles:
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 90
+  rank: 1
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 90
+  rank: 2
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 85
+  rank: 3
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 75
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 75
+  rank: 5
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 70
+  rank: 6
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 65
+  rank: 7
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 65
+  rank: 8
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 65
+  rank: 9
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 60
+  rank: 10
 ---
 What the Ripp Report projected has now come to fruition. Justice is a tricky word and justice can come in many ways. In the McSharry assault case, justice has come in the form of a legal settlement.
 

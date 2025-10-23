@@ -12,7 +12,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Man in striped prisoner clothing holds money and a bag, symbolizing corruption within Alabama politics discussed in the ar..."
+alttags: Man in striped prisoner clothing holds money and a bag, symbolizing corruption within Alabama politics discussed in the ar...
+related_articles:
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 100
+  rank: 1
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 95
+  rank: 2
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 95
+  rank: 3
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 95
+  rank: 4
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 92
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 90
+  rank: 6
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 85
+  rank: 9
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 85
+  rank: 10
 ---
 NO state is as corrupt as Alabama! The case below involves the Executive Director of the Alabama Ethics Commission Tom Albritton who has been able to maintain his position despite his criminal behavior. How do politicians in Alabama keep a straight face when they accuse Washington of corruption when they proudly wear the United States gold star of corruption?
 

@@ -9,7 +9,48 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: "Daphne City Hall building, site of a planning meeting regarding zoning changes near Daphmont Subdivision"
+alttags: Daphne City Hall building, site of a planning meeting regarding zoning changes near Daphmont Subdivision
+related_articles:
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 85
+  rank: 1
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 85
+  rank: 2
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 75
+  rank: 3
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 70
+  rank: 4
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 70
+  rank: 5
+- slug: fairness
+  title: FAIRNESS
+  score: 70
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 70
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 8
+- slug: survey
+  title: SURVEY
+  score: 65
+  rank: 9
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 65
+  rank: 10
 ---
 On Wonderful Wednesday we posted a story about Daphmont Neighborhood in Daphne.
 

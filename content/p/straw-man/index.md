@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Man dressed as a scarecrow, symbolizing a straw man lawsuit revealing complex Baldwin County business partnerships"
+alttags: Man dressed as a scarecrow, symbolizing a straw man lawsuit revealing complex Baldwin County business partnerships
+related_articles:
+- slug: exposure
+  title: EXPOSURE
+  score: 85
+  rank: 1
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 85
+  rank: 2
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 75
+  rank: 3
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 75
+  rank: 4
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 70
+  rank: 5
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 70
+  rank: 6
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 65
+  rank: 7
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 8
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 9
+- slug: the-jester
+  title: THE JESTER
+  score: 65
+  rank: 10
 ---
 Well folks you are going to have to get a Lagniappe paper or go on line to read this article, this is called investigative reporting. The article is a little long but tells a big story.
 

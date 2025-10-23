@@ -1,17 +1,57 @@
 ---
-title: "SUNDAY SERMON"
+title: SUNDAY SERMON
 date: 2022-12-18
-thumbnail: "img/sermon.jpg"
+thumbnail: img/sermon.jpg
 tags:
-  - Elliott
-  - Catalyst
-  - Jeb Ball
-categories: 
-  - elections
-authors: 
-  - admin
+- Elliott
+- Catalyst
+- Jeb Ball
+categories:
+- elections
+authors:
+- admin
+related_articles:
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 1
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 2
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 85
+  rank: 3
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 4
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 75
+  rank: 5
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 75
+  rank: 6
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 75
+  rank: 7
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 70
+  rank: 8
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 70
+  rank: 9
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 70
+  rank: 10
 ---
-
 Everyone is in church today, including the members of the Baldwin County Legislative Delegation. They all profess to be God fearing Christians, this is a must to be elected in Alabama. This is a new delegation with some newly elected members. You would think the delegation members would be anxious to put the best foot forward after being elected by their constituents.
 
 Instead they live up to Alabama’s title of being the most political corrupt state in the United States. I must admit when it comes to corruption in Alabama, all elected officials appear to be on board. This new delegation is going to rent offices in Bay Minette from the Mayor of Bay Minette. YES you read that right. If you think that is bad the rent for the first 5 years is $245,000.00. That’s just to start. Mayor “GREEDY” Wills sweetened the deal for himself by adding two 5 year lease extensions. The second 5 years .will cost around $283.00.00 and the third 5 year extension for $339.000.00, that totals $867.000.00 in Mayor Wills family bank account, for a building worth far less. It should be noted greedy Bob has an Ethics complaint and a Bar complaint pending. Those complaints will be filed in the corruption file of both agencies, who are equally corrupt.

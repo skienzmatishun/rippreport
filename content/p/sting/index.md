@@ -18,7 +18,48 @@ tags:
 - robert-brown
 authors:
 - admin
-alttags: "Political campaign graphic: Two people in bee costumes flank a red circle with CATALYST crossed out, referencing Baldwin..."
+alttags: 'Political campaign graphic: Two people in bee costumes flank a red circle with CATALYST crossed out, referencing Baldwin...'
+related_articles:
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 95
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 90
+  rank: 3
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 4
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 90
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 6
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 85
+  rank: 7
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 8
+- slug: i-quit
+  title: I QUIT
+  score: 75
+  rank: 9
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 75
+  rank: 10
 ---
 Please vote today. JERRY CARL. Mr. Carl’s opposition is CATALYST and CATALYST home base is Fairhope.
 

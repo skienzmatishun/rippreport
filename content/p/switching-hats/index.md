@@ -13,7 +13,48 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: "Pile of hats symbolizing lack of leadership rotation within Fairhope’s City Council"
+alttags: Pile of hats symbolizing lack of leadership rotation within Fairhope’s City Council
+related_articles:
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 1
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 85
+  rank: 2
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 3
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 4
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 5
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 7
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 75
+  rank: 8
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 9
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 10
 ---
 Two area’s lacking in leadership in Fairhope are the City Council and Planning and Zoning. The City Council President for the last 5 years has been Jack Burrell. All the previous councils rotated the position of City Council President every 6 months or after a short term in order to give other council members a chance of leadership. In fact, and it is a fact, this council has accomplished absolutely nothing, except to obstruct the Mayor at every opportunity. Mr. Burrell has not shown any leadership skills, he claimed that the council was the mediator for issues involving the city. The council has not mediated any issues with the Mayor and continues it’s game of obstruction at taxpayers expense.
 
