@@ -6,7 +6,48 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: "Man in suit hunched over, head resting on knees—symbolizing frustration with Fairhope’s governance issues detailed in this..."
+alttags: Man in suit hunched over, head resting on knees—symbolizing frustration with Fairhope’s governance issues detailed in this...
+related_articles:
+- slug: hell-yea
+  title: HELL YEA
+  score: 95
+  rank: 1
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 2
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 3
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 85
+  rank: 4
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 6
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 75
+  rank: 7
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 75
+  rank: 8
+- slug: fear
+  title: FEAR
+  score: 75
+  rank: 9
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 75
+  rank: 10
 ---
 ## FAIRHOPE
 

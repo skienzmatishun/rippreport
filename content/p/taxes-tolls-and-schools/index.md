@@ -10,7 +10,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "I-10 bridge project: School buses framed by stacks of $100 bills, illustrating rising costs for Baldwin County residents"
+alttags: 'I-10 bridge project: School buses framed by stacks of $100 bills, illustrating rising costs for Baldwin County residents'
+related_articles:
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 90
+  rank: 1
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 85
+  rank: 2
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 85
+  rank: 3
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 75
+  rank: 4
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 75
+  rank: 5
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 75
+  rank: 6
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 75
+  rank: 7
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 75
+  rank: 8
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 65
+  rank: 9
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 65
+  rank: 10
 ---
 Get ready Baldwin County it is going to get a lot more expensive to live in Baldwin County.
 

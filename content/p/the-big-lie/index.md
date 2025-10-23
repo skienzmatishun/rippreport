@@ -9,7 +9,48 @@ tags:
 - vietnam
 authors:
 - admin
-alttags: "Dejected yellow smiley face with a long nose symbolizing deception related to Vietnam War era political lies"
+alttags: Dejected yellow smiley face with a long nose symbolizing deception related to Vietnam War era political lies
+related_articles:
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 1
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75
+  rank: 2
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 3
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 75
+  rank: 4
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 70
+  rank: 5
+- slug: combat
+  title: COMBAT
+  score: 65
+  rank: 6
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 65
+  rank: 7
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 65
+  rank: 8
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 60
+  rank: 9
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 60
+  rank: 10
 ---
 Vietnam Veterans were lied to by our politicians. 1968 was the year Martin Luther King was assassinated. The same year Robert Kennedy was assassinated. In Vietnam the Tet Offensive and the battle of Khe Sanh claimed the lives of thousands of young men and women serving in our armed forces.
 

@@ -1,24 +1,64 @@
 ---
-title: "THE GOOD THE BAD AND THE UGLY"
+title: THE GOOD THE BAD AND THE UGLY
 date: 2025-08-05
-thumbnail: "img/the-good-the-bad-and-the-ugly.png"
+thumbnail: img/the-good-the-bad-and-the-ugly.png
 categories:
-  - repost
+- repost
 tags:
-  - boone
-  - breland
-  - burrell
-  - catalyst
-  - kant
-  - mcsharry
-  - mcsharrys
-  - ronan
-  - triangle-lawsuit
-  - wilson
+- boone
+- breland
+- burrell
+- catalyst
+- kant
+- mcsharry
+- mcsharrys
+- ronan
+- triangle-lawsuit
+- wilson
 authors:
-  - ripp-report
+- ripp-report
+related_articles:
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 100
+  rank: 1
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 90
+  rank: 2
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 85
+  rank: 3
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85
+  rank: 4
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 80
+  rank: 5
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 75
+  rank: 6
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 75
+  rank: 7
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 75
+  rank: 8
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 70
+  rank: 9
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 70
+  rank: 10
 ---
-
 ## FAIRHOPE THE GOOD
 
 Fairhope has come a long way in the last 2 and ½ years. Infrastructure, sewer problems and planning and zoning all have gotten the attention of the new administration. The employees, supervisors and city staff are the best qualified personal the city has ever employed. These accomplishments did not come easy and did not come with any assistance of the Catalyst Council, who has yet to accomplish anything significant. More and more of the citizens of Fairhope are beginning to understand that the council’s agenda has been obstruction and their goal is to overthrow the present government in 2020. Mayor Wilson and staff deserve to be commended on their accomplishments and their promise to put the city before politics.

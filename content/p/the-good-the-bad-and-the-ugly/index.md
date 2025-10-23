@@ -17,7 +17,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Red die labeled Good, Bad, and Ugly, reflecting Fairhope’s progress despite challenges"
+alttags: Red die labeled Good, Bad, and Ugly, reflecting Fairhope’s progress despite challenges
+related_articles:
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 100
+  rank: 1
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 85
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
+  rank: 3
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 4
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 85
+  rank: 5
+- slug: gob-coup
+  title: GOB COUP
+  score: 85
+  rank: 6
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 75
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 8
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 70
+  rank: 9
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 70
+  rank: 10
 ---
 ## FAIRHOPE THE GOOD
 

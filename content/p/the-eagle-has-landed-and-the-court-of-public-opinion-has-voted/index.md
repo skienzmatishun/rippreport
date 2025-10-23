@@ -8,7 +8,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Celebratory graphic announcing a victory, likely related to the Fairhope mayoral election discussed in the article"
+alttags: Celebratory graphic announcing a victory, likely related to the Fairhope mayoral election discussed in the article
+related_articles:
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 95
+  rank: 1
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 90
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 3
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 4
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 6
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 85
+  rank: 7
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 8
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 75
+  rank: 9
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 70
+  rank: 10
 ---
 It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhope. It is expected after an election to be gracious and heap accolades on the departing Mayor, I will reserve my comments until Nov. 7th. The transition period between now and Nov. 7th will be telling. I hope it is civil with no surprises or forced through agendas that may impact the city negatively.
 

@@ -7,7 +7,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic"
+alttags: A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic
+related_articles:
+- slug: the-jester
+  title: THE JESTER
+  score: 95
+  rank: 1
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 95
+  rank: 2
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 95
+  rank: 3
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 90
+  rank: 4
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 85
+  rank: 5
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 85
+  rank: 6
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 85
+  rank: 7
+- slug: april-fool
+  title: APRIL FOOL
+  score: 82
+  rank: 8
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 75
+  rank: 10
 ---
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic.
 
