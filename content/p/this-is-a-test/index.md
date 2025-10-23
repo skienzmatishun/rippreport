@@ -10,7 +10,48 @@ categories:
 - ethics
 authors:
 - admin
-alttags: "Abstract mask resembling a face, overlaid with black and yellow target markings, symbolizing legal scrutiny and ongoing mo..."
+alttags: Abstract mask resembling a face, overlaid with black and yellow target markings, symbolizing legal scrutiny and ongoing mo...
+related_articles:
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 100
+  rank: 1
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 95
+  rank: 2
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 92
+  rank: 3
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 90
+  rank: 4
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 90
+  rank: 5
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 75
+  rank: 7
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 75
+  rank: 8
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 70
+  rank: 9
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65
+  rank: 10
 ---
 The Ripp Report is a consumer organization first, we also maintain a blog site, Face Book sites and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 

@@ -1,17 +1,57 @@
 ---
-title: "THE POT AND THE KETTLE ARE BLACK"
+title: THE POT AND THE KETTLE ARE BLACK
 date: 2018-01-24
-thumbnail: "img/the-pot-and-kettle-are-black.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - frank-burt
-  - jeb-ball
-  - mega-site
-authors: 
-  - ripp-report
+thumbnail: img/the-pot-and-kettle-are-black.png
+categories:
+- wonderful-wednesday
+tags:
+- frank-burt
+- jeb-ball
+- mega-site
+authors:
+- ripp-report
+related_articles:
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 95
+  rank: 1
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 2
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: boiling-frog
+  title: BOILING FROG
+  score: 75
+  rank: 4
+- slug: black-hole
+  title: BLACK HOLE
+  score: 70
+  rank: 5
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 60
+  rank: 6
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 55
+  rank: 7
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 52
+  rank: 8
+- slug: hate
+  title: HATE
+  score: 50
+  rank: 9
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 35
+  rank: 10
 ---
-
 Qualifications for the mid-term elections in Baldwin County are final on February 9th at 5:00 pm. Baldwin County residents need to reject the incumbents and Catalyst candidates.
 
 {{< socialpreview url="https://rippreport.com/p/qualification/" >}}

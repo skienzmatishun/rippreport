@@ -6,7 +6,48 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: "YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry"
+alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry
+related_articles:
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 95
+  rank: 1
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 85
+  rank: 2
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 85
+  rank: 3
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 75
+  rank: 4
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 75
+  rank: 5
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 65
+  rank: 6
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 65
+  rank: 7
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 65
+  rank: 8
+- slug: backstory-podcast-16-the-jack-wilson-complex
+  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
+  score: 65
+  rank: 9
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 50
+  rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" frameborder="0" allowfullscreen></iframe>
 

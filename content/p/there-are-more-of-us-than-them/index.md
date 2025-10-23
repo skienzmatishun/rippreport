@@ -11,7 +11,48 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: "A large fish swims before a school of smaller figures, symbolizing taxpayers being exploited by those in power"
+alttags: A large fish swims before a school of smaller figures, symbolizing taxpayers being exploited by those in power
+related_articles:
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 90
+  rank: 1
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 2
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 75
+  rank: 3
+- slug: loser
+  title: LOSER
+  score: 75
+  rank: 4
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 75
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 75
+  rank: 6
+- slug: fear
+  title: FEAR
+  score: 70
+  rank: 7
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 8
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 65
+  rank: 9
+- slug: million-dollar-swimming-pool
+  title: MILLION DOLLAR SWIMMING POOL
+  score: 65
+  rank: 10
 ---
 **US** are the taxpayers and honest citizens; **THEM** are the good ole boys. In the last Fairhope election, only 5500 people voted in the city elections, of those Mayor Kant “questionably” received 3026 votes. Only 30% to 35% of the registered voters voted, leaving 65 to 70% not voting at all. These are the voters who can stop the mayor’s corruption and end an era of good ole boys who are fleecing taxpayers right and left. The mayor’s base has shrunk and public confidence in the mayor is virtually nonexistent. Several mayoral candidates are planning to run against the mayor; however, they believe it to be prudent to announce their candidacy closer to the qualification date. Look closely at the statistics. They favor **US**. A neighborhood like Rock Creek can swing the election. If Sandy Ford, Plantation Pines and the Woodlands jump on board, a new Fairhope will be born.
 
