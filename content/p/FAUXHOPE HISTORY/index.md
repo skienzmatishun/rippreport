@@ -9,45 +9,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 95
-  rank: 1
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 95
-  rank: 2
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 92
-  rank: 3
+  score: 87.56882643931993
+  llm_score: 92
+  recency_score: 69.84413219659965
+  rank: 1
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 85.97322154942498
+  llm_score: 85
+  recency_score: 89.86610774712484
+  rank: 2
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 90
+  score: 82.27772414553687
+  llm_score: 90
+  recency_score: 51.388620727684355
+  rank: 3
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 79.35315705036788
+  llm_score: 75
+  recency_score: 96.76578525183945
   rank: 4
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 79.32414243184968
+  llm_score: 95
+  recency_score: 16.62071215924841
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 78.89859293447587
+  llm_score: 95
+  recency_score: 14.49296467237936
+  rank: 6
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 90
-  rank: 5
+  score: 74.88275366834506
+  llm_score: 90
+  recency_score: 14.41376834172532
+  rank: 7
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 90
-  rank: 6
+  score: 72.68225627752497
+  llm_score: 90
+  recency_score: 3.4112813876248462
+  rank: 8
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 85
-  rank: 7
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 85
-  rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 70
+  score: 71.19030280407003
+  llm_score: 85
+  recency_score: 15.95151402035018
   rank: 9
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 65
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 60.13850200648934
+  llm_score: 75
+  recency_score: 0.6925100324466957
   rank: 10
 ---
 Historic Preservation what a joke. No one is more responsible for the demolition of historic buildings and houses in Fauxhope than the Mayor and council. Second would be the First Baptist Church who destroyed numerous houses for parking lots. But they are not called parking lots even though they are used for parking lots.

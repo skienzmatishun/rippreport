@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
 related_articles:
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 95
-  rank: 1
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 95
-  rank: 2
+  score: 86.3909761644817
+  llm_score: 95
+  recency_score: 51.95488082240847
+  rank: 1
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 90
+  score: 82.39813310940357
+  llm_score: 95
+  recency_score: 31.990665547017855
+  rank: 2
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 81.84505080688142
+  llm_score: 95
+  recency_score: 29.2252540344071
   rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 81.74975319390109
+  llm_score: 95
+  recency_score: 28.748765969505406
   rank: 4
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 85
+  score: 75.54126400432338
+  llm_score: 85
+  recency_score: 37.70632002161693
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 6
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 85
+  score: 68.48441385193173
+  llm_score: 85
+  recency_score: 2.422069259658703
+  rank: 6
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 68.07769591026369
+  llm_score: 85
+  recency_score: 0.3884795513184073
   rank: 7
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 82
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 68.07195855240818
+  llm_score: 85
+  recency_score: 0.35979276204090305
   rank: 8
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 75
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 68.01572956947558
+  llm_score: 85
+  recency_score: 0.07864784737789618
   rank: 9
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 70
+- slug: people-power
+  title: PEOPLE POWER
+  score: 68.01113771244769
+  llm_score: 85
+  recency_score: 0.05568856223848439
   rank: 10
 ---
 I bet only 1 or 2% of the voters in Fairhope know that not one city council person, the mayor or the appointed municipal attorney and municipal judge have been elected or appointed for there 5th year in office. The Alabama legislature thought it necessary to postpone municipal elections in 2024 due to the presidential election. A free year in office, full family insurance and the ability to make decisions for Fairhope's future, without a single vote cast. Only in Alabama.
