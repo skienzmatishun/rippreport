@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations"
+alttags: Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations
+related_articles:
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 90
+  rank: 1
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 2
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 3
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 4
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 5
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 75
+  rank: 6
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 75
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 8
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 65
+  rank: 9
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 10
 ---
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is. It makes no difference what attorneys, city staff, citizens or the Mayor recommend to the council the council does the opposite and acts like a Dictatorship. It is all political and the Fairhope City Council is holding up the progress of the city.
 

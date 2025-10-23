@@ -6,7 +6,48 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: "Baldwin County election graphic: An eagle flies over a ballot box against an American flag backdrop, urging voters to part..."
+alttags: 'Baldwin County election graphic: An eagle flies over a ballot box against an American flag backdrop, urging voters to part...'
+related_articles:
+- slug: vote-smart
+  title: VOTE SMART
+  score: 85
+  rank: 1
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 2
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 85
+  rank: 3
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 85
+  rank: 4
+- slug: last-chance
+  title: LAST CHANCE
+  score: 75
+  rank: 5
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 6
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 75
+  rank: 7
+- slug: qualification
+  title: QUALIFICATION
+  score: 70
+  rank: 8
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 70
+  rank: 9
+- slug: newsletter
+  title: NEWSLETTER
+  score: 70
+  rank: 10
 ---
 When will Baldwin County wake up and vote in new blood. The GOB, Good ole Boys, have a strangle hold on Baldwin County. They determine the candidates that will tow the line or raise their hand when told to do so. Sheriff Hoss Mack calls the shots and Mayors just bend over. The school system, Eddie and Gray, have job security guaranteed, as long as they go along. Their is no accountability or transparency as long as this cabal exists. NEVER vote for selected candidates.
 CIRCUIT CLERK

@@ -7,7 +7,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Scales of justice illustration atop a landscape, symbolizing legal issues surrounding bar owner Ronan McSharry and associates"
+alttags: Scales of justice illustration atop a landscape, symbolizing legal issues surrounding bar owner Ronan McSharry and associates
+related_articles:
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 95
+  rank: 1
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 95
+  rank: 2
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 95
+  rank: 3
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 85
+  rank: 4
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 85
+  rank: 5
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 85
+  rank: 6
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 85
+  rank: 7
+- slug: no-justice
+  title: NO JUSTICE
+  score: 75
+  rank: 8
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75
+  rank: 9
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 70
+  rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZvmfU5BegU" frameborder="0" allowfullscreen></iframe>
 

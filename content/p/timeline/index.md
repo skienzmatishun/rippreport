@@ -12,7 +12,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Calendar icon representing repeated council meetings regarding stalled infrastructure funding requests"
+alttags: Calendar icon representing repeated council meetings regarding stalled infrastructure funding requests
+related_articles:
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 90
+  rank: 1
+- slug: repeat
+  title: REPEAT
+  score: 85
+  rank: 2
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 3
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 75
+  rank: 4
+- slug: re-run-doing-nothing
+  title: DOING NOTHING
+  score: 75
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 75
+  rank: 6
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 75
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 65
+  rank: 8
+- slug: honeymoon
+  title: HONEYMOON
+  score: 65
+  rank: 9
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 65
+  rank: 10
 ---
 This is a comment that the Ripp Report received. It accurately describes the Fairhope City council and their obstruction in infrastructure repairs.
 

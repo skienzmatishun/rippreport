@@ -8,7 +8,48 @@ tags:
 - covid-19
 authors:
 - admin
-alttags: "Medical professionals in masks work under bright lights, illustrating concerns about public health safety and responsibili..."
+alttags: Medical professionals in masks work under bright lights, illustrating concerns about public health safety and responsibili...
+related_articles:
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 95
+  rank: 1
+- slug: exposure-2
+  title: EXPOSURE
+  score: 95
+  rank: 2
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 85
+  rank: 3
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 85
+  rank: 4
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 75
+  rank: 5
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 75
+  rank: 6
+- slug: april-fool
+  title: APRIL FOOL
+  score: 70
+  rank: 7
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 70
+  rank: 8
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 9
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 60
+  rank: 10
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/stop-being-selfish/article_ec890f30-e390-5d2c-b8ee-4b10b95cbe5e.html" >}}
 

@@ -9,7 +9,48 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: "Vintage airport scene: two men in uniform and a bowler hat discuss ground lease agreements related to Fairhope Airport"
+alttags: 'Vintage airport scene: two men in uniform and a bowler hat discuss ground lease agreements related to Fairhope Airport'
+related_articles:
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 85
+  rank: 1
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 3
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 85
+  rank: 4
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 5
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 6
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 70
+  rank: 7
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 70
+  rank: 8
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 70
+  rank: 9
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 70
+  rank: 10
 ---
 Open Letter to Fairhope Airport Authority
 

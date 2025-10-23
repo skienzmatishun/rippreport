@@ -12,7 +12,48 @@ tags:
 - sessions
 authors:
 - ripp-report
-alttags: "Political campaign button with red, white, and blue design and VOTE prominently displayed, related to upcoming midterms"
+alttags: Political campaign button with red, white, and blue design and VOTE prominently displayed, related to upcoming midterms
+related_articles:
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 85
+  rank: 1
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 85
+  rank: 2
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 3
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 85
+  rank: 4
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 75
+  rank: 5
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 75
+  rank: 6
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 75
+  rank: 7
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 70
+  rank: 8
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 70
+  rank: 9
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 65
+  rank: 10
 ---
 Mid term elections are 18 months away and already we are seeing the GOB "good ole boys", and Catalyst, placing their candidates in strategic elected positions.
 

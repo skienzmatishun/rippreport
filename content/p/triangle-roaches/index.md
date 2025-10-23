@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Man in a brown costume resembling a car, holding up a sign reading Keep Cant’t Out, referencing local political controversy"
+alttags: Man in a brown costume resembling a car, holding up a sign reading Keep Cant’t Out, referencing local political controversy
+related_articles:
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 85
+  rank: 1
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 75
+  rank: 2
+- slug: sting
+  title: Sting
+  score: 75
+  rank: 3
+- slug: hate
+  title: HATE
+  score: 75
+  rank: 4
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 75
+  rank: 5
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 70
+  rank: 6
+- slug: the-jester
+  title: THE JESTER
+  score: 65
+  rank: 7
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 65
+  rank: 8
+- slug: honey-bees
+  title: HONEY BEES
+  score: 65
+  rank: 9
+- slug: jack-ass
+  title: JACK ASS
+  score: 65
+  rank: 10
 ---
 A “TRIANGLE CONSERVANCY” has been formed and guess who one of the major players is?
 

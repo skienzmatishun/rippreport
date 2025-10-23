@@ -14,7 +14,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Fairhope’s iconic downtown clock tower and patio, a popular tourist attraction and central landmark in the city"
+alttags: Fairhope’s iconic downtown clock tower and patio, a popular tourist attraction and central landmark in the city
+related_articles:
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 95
+  rank: 1
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 2
+- slug: survey
+  title: SURVEY
+  score: 75
+  rank: 3
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 75
+  rank: 4
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 75
+  rank: 5
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 75
+  rank: 6
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 75
+  rank: 7
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 70
+  rank: 8
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 70
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60
+  rank: 10
 ---
 The two most photographed places in Fairhope, are the Pier and the Downtown Clock. The Clock and adjoining patio are subjects of photography by tourists and locals daily. It is not only an iconic location, it is the soul of downtown. Change it and you have changed Fairhope. It is a TOURIST ATTRACTION.
 

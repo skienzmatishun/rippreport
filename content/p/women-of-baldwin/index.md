@@ -6,7 +6,48 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: "Feminist symbol representing a call to vote candidate over party, challenging established political networks"
+alttags: Feminist symbol representing a call to vote candidate over party, challenging established political networks
+related_articles:
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 85
+  rank: 1
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 85
+  rank: 2
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 3
+- slug: vote-smart
+  title: VOTE SMART
+  score: 75
+  rank: 4
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 5
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 70
+  rank: 6
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 70
+  rank: 7
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 65
+  rank: 8
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 65
+  rank: 9
+- slug: qualification
+  title: QUALIFICATION
+  score: 65
+  rank: 10
 ---
 Vote candidate not party. Straight ticket voting is voting blind and allows corruption to flourish and compromises elected officials. It strengthens the good ole boy network and Catalyst candidates, something all parties should be against.
 

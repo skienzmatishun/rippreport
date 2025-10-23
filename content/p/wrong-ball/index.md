@@ -9,7 +9,48 @@ tags:
 - jeb-ball
 authors:
 - ripp-report
-alttags: "Man in suit juggling red balls, symbolizing shifting political alliances and unexpected outcomes in the County Commissione..."
+alttags: Man in suit juggling red balls, symbolizing shifting political alliances and unexpected outcomes in the County Commissione...
+related_articles:
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 85
+  rank: 1
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 2
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 85
+  rank: 3
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 85
+  rank: 4
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 85
+  rank: 5
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 75
+  rank: 6
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 75
+  rank: 7
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 8
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 9
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 65
+  rank: 10
 ---
 Place one in the County Commissioner’s race is a classic example of getting what you wished for and it backfiring. Mr Frank Burt has solidly held this position since 1988, wow, 29 years. Mr. Burt is intent on holding that position. I was hoping for change and that Mr. Burt would retire and the seat open for several new candidates.
 

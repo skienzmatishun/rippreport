@@ -1,13 +1,53 @@
 ---
-title: "WONDERFUL WEDNESDAY"
+title: WONDERFUL WEDNESDAY
 date: 2017-08-23
-thumbnail: "img/wonderful-wednesday-4.png"
-categories: 
-  - wonderful-wednesday
-authors: 
-  - ripp-report
+thumbnail: img/wonderful-wednesday-4.png
+categories:
+- wonderful-wednesday
+authors:
+- ripp-report
+related_articles:
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 95
+  rank: 1
+- slug: exposure-2
+  title: EXPOSURE
+  score: 95
+  rank: 2
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 95
+  rank: 3
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 95
+  rank: 4
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 92
+  rank: 5
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 85
+  rank: 6
+- slug: kindness
+  title: RANDOM ACTS OF KINDNESS
+  score: 85
+  rank: 7
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 70
+  rank: 8
+- slug: happy-thanksgiving
+  title: Happy Thanksgiving!
+  score: 65
+  rank: 9
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 65
+  rank: 10
 ---
-
 The recent US Senate primary statistics indicate 84% of Fairhope eligible voters decided NOT to participate or vote.
 
 {{< socialpreview url="https://rippreport.com/p/look-in-the-mirror/" >}}

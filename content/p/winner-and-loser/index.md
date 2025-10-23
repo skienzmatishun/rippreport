@@ -12,7 +12,48 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: "Nick Saban, coach of the Alabama Crimson Tide football team, stands on the sidelines during a game"
+alttags: Nick Saban, coach of the Alabama Crimson Tide football team, stands on the sidelines during a game
+related_articles:
+- slug: tides-end
+  title: Tide's End
+  score: 85
+  rank: 1
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 85
+  rank: 2
+- slug: super-bowl-lv
+  title: Super Bowl LV
+  score: 70
+  rank: 3
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 70
+  rank: 4
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 70
+  rank: 5
+- slug: warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th
+  title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
+  score: 65
+  rank: 6
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 50
+  rank: 7
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 50
+  rank: 8
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 50
+  rank: 9
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 30
+  rank: 10
 ---
 Congratulations Nick Saban and the Alabama Football team, you have made Alabama proud.
 

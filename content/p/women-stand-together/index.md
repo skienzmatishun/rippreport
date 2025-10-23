@@ -18,7 +18,48 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: "Scales of justice icon depicting a woman and man, symbolizing Paula DiNardi’s experience with legal proceedings after an a..."
+alttags: Scales of justice icon depicting a woman and man, symbolizing Paula DiNardi’s experience with legal proceedings after an a...
+related_articles:
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 85
+  rank: 1
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 85
+  rank: 2
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 85
+  rank: 3
+- slug: one-woman
+  title: ONE WOMAN
+  score: 75
+  rank: 4
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75
+  rank: 5
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 6
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 70
+  rank: 7
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 65
+  rank: 8
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 9
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 65
+  rank: 10
 ---
 Paula DiNardi
 

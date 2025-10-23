@@ -14,7 +14,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Cover art for You Dont Know Jack, illustrating a lack of transparency and hidden information within Fairhope city counc..."
+alttags: Cover art for You Dont Know Jack, illustrating a lack of transparency and hidden information within Fairhope city counc...
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 95
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 95
+  rank: 2
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 90
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 4
+- slug: shut-up
+  title: SHUT UP
+  score: 90
+  rank: 5
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 7
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 8
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 85
+  rank: 9
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 75
+  rank: 10
 ---
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer serving members. However, the newer members are usually kept in the dark as to the backstory involving long-term issues concerning the city. Another observation was the utter lack of transparency and accountability. I give our previous Mayor full credit for using the aforementioned tactics.
 

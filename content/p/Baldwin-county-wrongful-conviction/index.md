@@ -12,43 +12,63 @@ alttags: Baldwin County Courthouse, featured in a podcast about wrongful convict
 related_articles:
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 100
+  score: 99.72789538259508
+  llm_score: 100
+  recency_score: 98.63947691297537
   rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 100
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 100
-  rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 100
-  rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 100
-  rank: 5
 - slug: earful
   title: EARFUL
-  score: 100
+  score: 99.14222555805995
+  llm_score: 100
+  recency_score: 95.71112779029973
+  rank: 2
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
+  rank: 3
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 4
+- slug: innocent
+  title: INNOCENT
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 5
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
   rank: 6
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 98
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
   rank: 7
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 8
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 95
-  rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 75
+  score: 70.0
+  llm_score: 75
+  recency_score: 50
   rank: 10
 ---
 The video below is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system. PLEASE SHARE

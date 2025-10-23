@@ -18,43 +18,63 @@ alttags: Baldwin County Sheriffs Office seal, mailbox, phone, and envelope sugge
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 92
+  score: 93.32789538259509
+  llm_score: 92
+  recency_score: 98.63947691297537
   rank: 1
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 92
-  rank: 2
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 90
-  rank: 3
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 90
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 90
-  rank: 5
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 90
-  rank: 6
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 90
-  rank: 7
+  score: 91.40625209818191
+  llm_score: 90
+  recency_score: 97.03126049090956
+  rank: 2
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 90.98553700495827
+  llm_score: 90
+  recency_score: 94.92768502479139
+  rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 85
+  score: 90.27111348555951
+  llm_score: 90
+  recency_score: 91.35556742779755
+  rank: 4
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 89.82610187044024
+  llm_score: 90
+  recency_score: 89.13050935220119
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 84.27749588022975
+  llm_score: 95
+  recency_score: 41.38747940114875
+  rank: 6
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 82.9843887437238
+  llm_score: 95
+  recency_score: 34.921943718618955
+  rank: 7
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 82.17762382000342
+  llm_score: 92
+  recency_score: 42.88811910001705
   rank: 8
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 85
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 82.08249514970656
+  llm_score: 90
+  recency_score: 50.412475748532785
   rank: 9
 - slug: rumors
   title: RUMORS
-  score: 75
+  score: 63.3607717319103
+  llm_score: 75
+  recency_score: 16.8038586595515
   rank: 10
 ---
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.

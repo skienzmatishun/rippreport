@@ -1,19 +1,59 @@
 ---
-title: "TROLLS FOR TOLLS"
+title: TROLLS FOR TOLLS
 date: 2022-01-28
-thumbnail: "img/toll-troll.jpg"
-gif: "img/toll-troll.gif"
+thumbnail: img/toll-troll.jpg
+gif: img/toll-troll.gif
 tags:
-  - City Council
-  - Jack Burrell
-  - Toll Bridge
-  - Airport
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- City Council
+- Jack Burrell
+- Toll Bridge
+- Airport
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 95
+  rank: 1
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 90
+  rank: 2
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 85
+  rank: 3
+- slug: pied-piper
+  title: PIED PIPER
+  score: 85
+  rank: 4
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 85
+  rank: 5
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 85
+  rank: 6
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 7
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 75
+  rank: 8
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 75
+  rank: 9
+- slug: shut-up-2
+  title: SHUT UP
+  score: 70
+  rank: 10
 ---
-
 The Bayway Bridge project started years ago with politicians biting their tongue’s and saying little about how they were going to finance the project. Then came the discussion about tolls, again they bit their tongue’s. Next, came Jim Zigler and his Facebook page:
 
 [https://www.facebook.com/groups/blockthetolls/](https://www.facebook.com/groups/blockthetolls/)

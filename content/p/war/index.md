@@ -7,7 +7,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation"
+alttags: Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation
+related_articles:
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 90
+  rank: 1
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 85
+  rank: 2
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 75
+  rank: 3
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 75
+  rank: 4
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 75
+  rank: 5
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 65
+  rank: 6
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 65
+  rank: 7
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 65
+  rank: 8
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 50
+  rank: 9
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 45
+  rank: 10
 ---
 Alabama veterans are facing another war. This time with the state of Alabama and their efforts to strip the veterans representation by creating a cabinet position for the director of veterans affairs and the veterans board to an advisory position. This would strip veterans of their current representation, by the current veteran’s board, and limit it to a cabinet member subservient to the Governor.
 

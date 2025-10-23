@@ -13,43 +13,63 @@ alttags: Murray Bubba Lawrence’s face superimposed over a jail cell, illustrat
 related_articles:
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 100
+  score: 99.72789538259508
+  llm_score: 100
+  recency_score: 98.63947691297537
   rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 100
-  rank: 2
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 95
-  rank: 3
-- slug: rule-32
-  title: RULE 32
-  score: 95
-  rank: 4
-- slug: innocent
-  title: INNOCENT
-  score: 95
-  rank: 5
 - slug: advocates
   title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 95
+  score: 99.56641283325074
+  llm_score: 100
+  recency_score: 97.83206416625366
+  rank: 2
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 3
+- slug: innocent
+  title: INNOCENT
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 4
+- slug: rule-32
+  title: RULE 32
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 5
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 6
-- slug: no-justice
-  title: NO JUSTICE
-  score: 95
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 7
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 92
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 8
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 92
+- slug: no-justice
+  title: NO JUSTICE
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 9
 - slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
   title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 85
+  score: 83.60000000000001
+  llm_score: 92
+  recency_score: 50
   rank: 10
 ---
 That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge, currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.

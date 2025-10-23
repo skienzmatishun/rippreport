@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Two arrows pointing right, symbolizing Fairhope’s acquisition of valuable land after years of legal battles and settlement..."
+alttags: Two arrows pointing right, symbolizing Fairhope’s acquisition of valuable land after years of legal battles and settlement...
+related_articles:
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 95
+  rank: 1
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 85
+  rank: 2
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 85
+  rank: 3
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 85
+  rank: 4
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 85
+  rank: 5
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 6
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 75
+  rank: 7
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 70
+  rank: 8
+- slug: deja-vu
+  title: Deja Vu
+  score: 65
+  rank: 9
+- slug: big-heads
+  title: BIG HEADS
+  score: 55
+  rank: 10
 ---
 Fairhope’s Triangle, is Fairhope’s most valuable land asset. This vacant piece of land has been the focus of litigation, on and off for over 25 years. Ultimately, Fairhope purchased the land as part of the legal settlement, for 11.25 Million which included the legal fees of approximately 3 million. Estimated land value today would be between 18 and 20 million.
 

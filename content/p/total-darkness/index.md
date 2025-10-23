@@ -13,7 +13,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Black void representing Alabama Attorney General Steve Marshall’s lack of transparency and responsiveness to public compla..."
+alttags: Black void representing Alabama Attorney General Steve Marshall’s lack of transparency and responsiveness to public compla...
+related_articles:
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 95
+  rank: 1
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 90
+  rank: 2
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 90
+  rank: 3
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 85
+  rank: 4
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 5
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 85
+  rank: 6
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 7
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 75
+  rank: 8
+- slug: black-hole
+  title: BLACK HOLE
+  score: 70
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 65
+  rank: 10
 ---
 In Alabama politicians and elected officials will always go dark, rather than being transparent, when they have something to hide.
 

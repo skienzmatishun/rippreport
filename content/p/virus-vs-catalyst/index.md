@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "COVID-19 mask crossed out by a red no symbol; emphasizes precautions and warnings related to the virus"
+alttags: COVID-19 mask crossed out by a red no symbol; emphasizes precautions and warnings related to the virus
+related_articles:
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 85
+  rank: 1
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 85
+  rank: 2
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 82
+  rank: 3
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 75
+  rank: 4
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 75
+  rank: 5
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 75
+  rank: 6
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 75
+  rank: 7
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 70
+  rank: 8
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 65
+  rank: 9
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 60
+  rank: 10
 ---
 I do hope people are heeding the warnings related to COVD-19. May I suggest, Dr Sanjay Gupta’s
 

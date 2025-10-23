@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Public viewing telescope overlooking water, likely related to discussion about Fairhope waterfront development"
+alttags: Public viewing telescope overlooking water, likely related to discussion about Fairhope waterfront development
+related_articles:
+- slug: invitation
+  title: INVITATION
+  score: 85
+  rank: 1
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 85
+  rank: 2
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 85
+  rank: 3
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 5
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 75
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 70
+  rank: 7
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 65
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 9
+- slug: survey
+  title: SURVEY
+  score: 60
+  rank: 10
 ---
 In response to Councilman Brown about his position on the Waterfront,
 

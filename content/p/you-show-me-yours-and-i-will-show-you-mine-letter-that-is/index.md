@@ -10,7 +10,48 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: "Ostrich burying its head in sand; symbolizes ignoring consumer complaints, a focus of The Ripp Report’s work"
+alttags: Ostrich burying its head in sand; symbolizes ignoring consumer complaints, a focus of The Ripp Report’s work
+related_articles:
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 92
+  rank: 1
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 90
+  rank: 2
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 3
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 85
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 5
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 6
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 75
+  rank: 7
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 75
+  rank: 8
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 70
+  rank: 9
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 70
+  rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.
 

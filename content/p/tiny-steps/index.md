@@ -18,7 +18,48 @@ tags:
 - prisons
 authors:
 - admin
-alttags: "Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis..."
+alttags: Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis...
+related_articles:
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 85
+  rank: 1
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 75
+  rank: 2
+- slug: 4-20
+  title: 4-20
+  score: 75
+  rank: 3
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 75
+  rank: 4
+- slug: insanity-2
+  title: INSANITY
+  score: 70
+  rank: 5
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 65
+  rank: 6
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 65
+  rank: 7
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 65
+  rank: 8
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 65
+  rank: 9
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 50
+  rank: 10
 ---
 The last session of the Alabama Legislature took tiny steps when it comes to accomplishing any real serious issues plaguing the state. Prisons, health care’ medicaid” and the gambling bill all wound up in the trash can.
 

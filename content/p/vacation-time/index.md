@@ -5,7 +5,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Coastal view in Belize: turquoise water, sandy beach lined with palm trees, and a wooden pier. Author exploring before ret..."
+alttags: 'Coastal view in Belize: turquoise water, sandy beach lined with palm trees, and a wooden pier. Author exploring before ret...'
+related_articles:
+- slug: on-vacation
+  title: ON VACATION
+  score: 85
+  rank: 1
+- slug: belize-vacation-another-world
+  title: BELIZE VACATION - ANOTHER WORLD
+  score: 75
+  rank: 2
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 75
+  rank: 4
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 75
+  rank: 5
+- slug: exposure-2
+  title: EXPOSURE
+  score: 70
+  rank: 6
+- slug: happy-thanksgiving
+  title: Happy Thanksgiving!
+  score: 70
+  rank: 7
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 8
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 65
+  rank: 9
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 55
+  rank: 10
 ---
 The Ripp Report is expanding it’s reach on social media and email connections in preparations for the 2020 General Elections. Our coverage area will be concentrating on Baldwin County and it’s 14 municipalities.
 

@@ -1,18 +1,58 @@
 ---
-title: "WRIT OF MANDAMUS AND BAR COMPLAINT"
+title: WRIT OF MANDAMUS AND BAR COMPLAINT
 date: 2021-07-15
-thumbnail: "img/writ-of-marandamus-and-bar-complaint.png"
+thumbnail: img/writ-of-marandamus-and-bar-complaint.png
 tags:
-  - Ethics Commission
-  - Albritton
-  - Mabel Amos Trust
-categories: 
-  - ethics
-  - alabama
-authors: 
-  - admin
+- Ethics Commission
+- Albritton
+- Mabel Amos Trust
+categories:
+- ethics
+- alabama
+authors:
+- admin
+related_articles:
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 100
+  rank: 1
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 95
+  rank: 2
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 95
+  rank: 3
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 92
+  rank: 4
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 90
+  rank: 5
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 85
+  rank: 6
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 7
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 8
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 70
+  rank: 10
 ---
-
 I hope you will continue to follow the story of Alabama’s “self-dealing”, Alabama Ethics Director, Tom Albritton. First you need to read the below article.
 
 ### [Self-dealing? — Ethics director’s kids’ tuition paid from trust he oversees](https://lagniappemobile.com/self-dealing-ethics-directors-kids-tuition-paid-from-trust-he-oversees/)

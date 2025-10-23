@@ -9,10 +9,51 @@ tags:
 - City Council
 - Sullivan
 - BP
-summary: "Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?"
+summary: 'Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?'
 authors:
 - admin
-alttags: "Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre..."
+alttags: 'Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre...'
+related_articles:
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 95
+  rank: 1
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 90
+  rank: 2
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 90
+  rank: 3
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 85
+  rank: 4
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 85
+  rank: 5
+- slug: people-power
+  title: PEOPLE POWER
+  score: 85
+  rank: 6
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 85
+  rank: 7
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 9
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 75
+  rank: 10
 ---
 <a href="https://www.facebook.com/story.php?story_fbid=10163914426269993&id=775124992&rdid=HYqWtmxN4hd2hZQ2">From Facebook.</a>
 

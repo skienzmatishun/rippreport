@@ -13,43 +13,63 @@ authors:
 related_articles:
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 100
+  score: 80.00409733543118
+  llm_score: 100
+  recency_score: 0.020486677155934722
   rank: 1
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 100
+  score: 80.0034008843398
+  llm_score: 100
+  recency_score: 0.01700442169897349
   rank: 2
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 90
+  score: 72.00636893813582
+  llm_score: 90
+  recency_score: 0.031844690679118465
   rank: 3
 - slug: fairhope-airport-authority-flying-without-a-compass
   title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 90
+  score: 72.00351455251558
+  llm_score: 90
+  recency_score: 0.017572762577928065
   rank: 4
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 90
+- slug: flying-high
+  title: FLYING HIGH
+  score: 68.01489086334445
+  llm_score: 85
+  recency_score: 0.07445431672220408
   rank: 5
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 90
-  rank: 6
 - slug: bonus-money
   title: BONUS MONEY
-  score: 85
+  score: 68.00833052024575
+  llm_score: 85
+  recency_score: 0.041652601228757115
+  rank: 6
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 68.00396481880439
+  llm_score: 85
+  recency_score: 0.019824094021949453
   rank: 7
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 8
-- slug: nuff-said
-  title: NUFF SAID
-  score: 70
-  rank: 9
 - slug: captain-jack
   title: CAPTAIN JACK
-  score: 70
+  score: 56.02803978904665
+  llm_score: 70
+  recency_score: 0.14019894523325707
+  rank: 8
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 56.006012847989574
+  llm_score: 70
+  recency_score: 0.030064239947851384
+  rank: 9
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 56.00411984820674
+  llm_score: 70
+  recency_score: 0.020599241033720052
   rank: 10
 ---
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.

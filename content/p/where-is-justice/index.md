@@ -1,19 +1,59 @@
 ---
-title: "WHERE IS JUSTICE?"
+title: WHERE IS JUSTICE?
 date: 2020-04-25
-thumbnail: "img/where-is-the-justice.png"
-categories: 
-  - saturday-special
-tags: 
-  - american-legion
-  - dinardi
-  - mcsharry
-  - mcsharrys
-  - ronan-mcsharry
-authors: 
-  - admin
+thumbnail: img/where-is-the-justice.png
+categories:
+- saturday-special
+tags:
+- american-legion
+- dinardi
+- mcsharry
+- mcsharrys
+- ronan-mcsharry
+authors:
+- admin
+related_articles:
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 95
+  rank: 1
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 95
+  rank: 2
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 95
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 85
+  rank: 4
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 85
+  rank: 5
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 85
+  rank: 6
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 85
+  rank: 7
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 65
+  rank: 8
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 65
+  rank: 9
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 65
+  rank: 10
 ---
-
 Is it just a coincidence that Fairhope City Council canceled public participation at the same time that justice slipped through the cracks?
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-party/" >}}

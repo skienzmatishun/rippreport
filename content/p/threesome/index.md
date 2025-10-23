@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor"
+alttags: Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor
+related_articles:
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 90
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 85
+  rank: 3
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 4
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 5
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 75
+  rank: 6
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 75
+  rank: 7
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 65
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 9
+- slug: s-o-s
+  title: S.O.S
+  score: 60
+  rank: 10
 ---
 Baldwin County has 14 municipalities and at any given time several are embroiled in some sort of corruption, that they are pulling a blanket over. It truly is amazing how elected officials use the legal system to wash their dirty laundry.
 

@@ -15,7 +15,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Question mark icon representing unanswered questions about Fairhope City Council resolutions"
+alttags: Question mark icon representing unanswered questions about Fairhope City Council resolutions
+related_articles:
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 95
+  rank: 1
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 2
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 85
+  rank: 3
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 6
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 85
+  rank: 7
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 8
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 75
+  rank: 9
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 75
+  rank: 10
 ---
 Fairhope’s City Council agenda, March 8th, was loaded with resolutions that should catch the eye of the voters and raise many questions about the City Council, NOT informing the public about the facts surrounding each resolution.
 

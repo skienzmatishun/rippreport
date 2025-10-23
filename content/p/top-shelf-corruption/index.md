@@ -12,7 +12,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Alabama state-shaped shot glass labeled Sweet Home, symbolizing potential blind spots in reporting on local politics"
+alttags: Alabama state-shaped shot glass labeled Sweet Home, symbolizing potential blind spots in reporting on local politics
+related_articles:
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 95
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 95
+  rank: 2
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 90
+  rank: 3
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 90
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 90
+  rank: 5
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 85
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 82
+  rank: 8
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 75
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 75
+  rank: 10
 ---
 Read these articles and you will see why Alabama is head over heels, above any state, when it comes to political corruption. What makes it worse is the small minded press in the state. Journalist in Alabama appear to only cover certain news. They favor their own commentary and shy away from news “scoops” from another local news source. They are ignoring the elephants on Goat Hill.
 

@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Financial documents overlaid on a tree branch, symbolizing Fairhope City Council’s budget failures and lack of leadership"
+alttags: Financial documents overlaid on a tree branch, symbolizing Fairhope City Council’s budget failures and lack of leadership
+related_articles:
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 90
+  rank: 1
+- slug: documents
+  title: DOCUMENTS
+  score: 85
+  rank: 2
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 4
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 5
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 85
+  rank: 6
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 85
+  rank: 7
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 85
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 9
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 85
+  rank: 10
 ---
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars, a perfect example of a lack of compassion and leadership.
 

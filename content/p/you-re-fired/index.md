@@ -9,7 +9,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Donald Trump pointing while yelling Youre Fired! referencing potential ethics investigations"
+alttags: Donald Trump pointing while yelling Youre Fired! referencing potential ethics investigations
+related_articles:
+- slug: fire
+  title: FIRE
+  score: 85
+  rank: 1
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 2
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 85
+  rank: 3
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 75
+  rank: 4
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 75
+  rank: 5
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 70
+  rank: 6
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 65
+  rank: 7
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 8
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 9
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 62
+  rank: 10
 ---
 To Alabama Ethics Commission Statement of Facts: July 29, 2016
 

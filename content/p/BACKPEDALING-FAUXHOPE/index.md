@@ -16,43 +16,63 @@ alttags: Councilman Jack Burrell cycling through town after a public backlash ov
 related_articles:
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 90
+  score: 82.27772414553687
+  llm_score: 90
+  recency_score: 51.388620727684355
   rank: 1
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 90
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 81.64053460363517
+  llm_score: 95
+  recency_score: 28.202673018175854
   rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 90
+  score: 77.6097120870809
+  llm_score: 90
+  recency_score: 28.048560435404436
   rank: 3
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 76.77838723901063
+  llm_score: 87
+  recency_score: 35.89193619505306
+  rank: 4
 - slug: all-mouth
   title: ALL MOUTH
-  score: 85
-  rank: 4
+  score: 75.50005501422807
+  llm_score: 85
+  recency_score: 37.500275071140365
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 72.10647083673541
+  llm_score: 90
+  recency_score: 0.5323541836770731
+  rank: 6
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 69.23619065458043
+  llm_score: 75
+  recency_score: 46.18095327290216
+  rank: 7
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 68.62157381675192
+  llm_score: 85
+  recency_score: 3.107869083759611
+  rank: 8
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 5
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85
-  rank: 6
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 7
+  score: 68.10444838563177
+  llm_score: 85
+  recency_score: 0.522241928158863
+  rank: 9
 - slug: pedaling-forward
   title: PEDALING FORWARD
-  score: 82
-  rank: 8
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 82
-  rank: 9
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 75
+  score: 65.70793937687783
+  llm_score: 82
+  recency_score: 0.5396968843891398
   rank: 10
 ---
 The backwards backpedaling Fauxhope City Council had to eat crow when it came to eliminating public participation at council meetings. Of course the matter of free speech and public participation was front and center when they denied yours truly the right to speak. The public outcry was resounding and the council got the message loud and clear. Councilman Jack Burrell threw Councilman Martin under the bus. Jack said he was surprised to see the item on the agenda. Ask Jack if he had to go to federal court for denying public participation?

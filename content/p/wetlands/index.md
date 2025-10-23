@@ -11,7 +11,48 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: "Discolored water flows through a channel, illustrating concerns about sewer spills and sewage dumping into Mobile Bay"
+alttags: Discolored water flows through a channel, illustrating concerns about sewer spills and sewage dumping into Mobile Bay
+related_articles:
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 85
+  rank: 1
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 85
+  rank: 2
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 85
+  rank: 3
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 85
+  rank: 4
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 85
+  rank: 5
+- slug: catalyst-shit-creek
+  title: CATALYST SHIT CREEK
+  score: 75
+  rank: 6
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 75
+  rank: 7
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 65
+  rank: 8
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 65
+  rank: 9
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 50
+  rank: 10
 ---
 It seems as if the public has gotten the attention of elected officials and environmental groups about the
 

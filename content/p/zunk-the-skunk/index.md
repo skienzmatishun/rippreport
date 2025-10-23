@@ -1,20 +1,60 @@
 ---
-title: "ZUNK THE SKUNK"
+title: ZUNK THE SKUNK
 date: 2018-06-22
-thumbnail: "img/zunk.jpg"
-gif: "img/zunk.gif"
+thumbnail: img/zunk.jpg
+gif: img/zunk.gif
 tags:
-  - Zunk
-  - Burrell
-  - Finance Committee
-  - Airport
-  - Mayor Wilson
-categories: 
-  - elections
-authors: 
-  - ripp-report
+- Zunk
+- Burrell
+- Finance Committee
+- Airport
+- Mayor Wilson
+categories:
+- elections
+authors:
+- ripp-report
+related_articles:
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 90
+  rank: 1
+- slug: skunked
+  title: SKUNKED
+  score: 85
+  rank: 2
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 85
+  rank: 3
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 75
+  rank: 4
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 70
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 70
+  rank: 6
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 70
+  rank: 7
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 8
+- slug: i-quit
+  title: I QUIT
+  score: 65
+  rank: 9
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 65
+  rank: 10
 ---
-
 I could smell the skunk through my computer, the first time that I read, Chuck Zunk, was agreeing with the Mayor of Fairhope, on the Council-manager form of government.
 
 Mr Zunk was appointed to the finance committee by the council, Jack Burrell, to monitor, and financially obstruct the Mayor, and take over the budget process, that did not fly.

@@ -1,12 +1,53 @@
 ---
-title: YES
+title: true
 date: 2018-10-12
 thumbnail: img/yes.png
 categories:
 - elections
 authors:
 - ripp-report
-alttags: "Green checkmark inside a circle, symbolizing support for Fairhope government change and efficient practices"
+alttags: Green checkmark inside a circle, symbolizing support for Fairhope government change and efficient practices
+related_articles:
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 95
+  rank: 1
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 90
+  rank: 2
+- slug: vote-yes-today
+  title: Vote YES Today
+  score: 85
+  rank: 3
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 85
+  rank: 4
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 85
+  rank: 5
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 6
+- slug: vote-yes-on-nov-6th
+  title: VOTE "Yes" ON NOV 6TH
+  score: 75
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 75
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 9
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 65
+  rank: 10
 ---
 The amendment to Change the Government of Fairhope, is just that, a change, from doing business as usual, to doing business smarter and more efficient. Many different blog sites and organizations are in support of the Council-Manager from of Government
 

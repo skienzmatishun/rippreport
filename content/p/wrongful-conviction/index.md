@@ -14,7 +14,48 @@ categories:
 - mljr
 authors:
 - admin
-alttags: "Jail cell bars viewed from within, referencing Baldwin County’s history of withholding information in cases like Murray Bu..."
+alttags: Jail cell bars viewed from within, referencing Baldwin County’s history of withholding information in cases like Murray Bu...
+related_articles:
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 100
+  rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 100
+  rank: 2
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 100
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 100
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 95
+  rank: 5
+- slug: innocent
+  title: INNOCENT
+  score: 95
+  rank: 6
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95
+  rank: 7
+- slug: rule-32
+  title: RULE 32
+  score: 95
+  rank: 8
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 95
+  rank: 9
+- slug: rumors
+  title: RUMORS
+  score: 85
+  rank: 10
 ---
 The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Jonathan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.
 

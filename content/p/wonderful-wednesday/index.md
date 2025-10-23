@@ -12,7 +12,48 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: "Vote button with red, white, and blue stripes and stars, referencing political discussion in the article"
+alttags: Vote button with red, white, and blue stripes and stars, referencing political discussion in the article
+related_articles:
+- slug: game-on
+  title: GAME ON
+  score: 85
+  rank: 1
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 2
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 4
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 70
+  rank: 5
+- slug: jack-ass
+  title: JACK ASS
+  score: 70
+  rank: 6
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 70
+  rank: 7
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 70
+  rank: 8
+- slug: communication
+  title: COMMUNICATION
+  score: 70
+  rank: 9
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 65
+  rank: 10
 ---
 The article posted by Fairhope Times that was reposted on Ripp Report resulted in many people taking issue with my innuendo, ”The Governor had a special assistant, just saying” was radically misunderstood by some folks. Some took it as having a sexual connotation and even brought up adultery. My reference to the governor assistant was — look at the trouble he has heaped on himself and his assistant. He has yet to be charged with anything. Take your minds out of the gutter.
 

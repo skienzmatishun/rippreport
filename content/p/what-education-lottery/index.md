@@ -10,7 +10,48 @@ tags:
 - lottery
 authors:
 - admin
-alttags: "Scattered US hundred dollar bills against a dark background, symbolizing Alabama lottery negotiations and financial incent..."
+alttags: Scattered US hundred dollar bills against a dark background, symbolizing Alabama lottery negotiations and financial incent...
+related_articles:
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 90
+  rank: 1
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 75
+  rank: 2
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 75
+  rank: 3
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 75
+  rank: 4
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 70
+  rank: 5
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 70
+  rank: 6
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 65
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 60
+  rank: 8
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 54
+  rank: 9
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 50
+  rank: 10
 ---
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican legislators. Money, baby, is what it is all about. The supporters of this bill feel that they still have the moral high ground by preventing any additional gaming while stuffing their pockets full of Indian money.
 

@@ -1,28 +1,68 @@
 ---
-title: "WHERE HELL WERE YOU?"
+title: WHERE HELL WERE YOU?
 date: 2020-06-19
-thumbnail: "img/where-the-hell-were-you.png"
-categories: 
-  - citycouncil
-tags: 
-  - boone
-  - brown
-  - catalyst
-  - city-council
-  - dyas-triangle
-  - elections
-  - fairhope-pier
-  - fairhope-waterfront
-  - k1-center
-  - kevin-boone
-  - raines
-  - robert-brown
-  - waterfront-project
-  - wilson
-authors: 
-  - admin
+thumbnail: img/where-the-hell-were-you.png
+categories:
+- citycouncil
+tags:
+- boone
+- brown
+- catalyst
+- city-council
+- dyas-triangle
+- elections
+- fairhope-pier
+- fairhope-waterfront
+- k1-center
+- kevin-boone
+- raines
+- robert-brown
+- waterfront-project
+- wilson
+authors:
+- admin
+related_articles:
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 95
+  rank: 1
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 90
+  rank: 2
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 85
+  rank: 3
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 4
+- slug: invitation
+  title: INVITATION
+  score: 85
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 6
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 7
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 85
+  rank: 8
+- slug: truth
+  title: TRUTH
+  score: 85
+  rank: 9
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 70
+  rank: 10
 ---
-
 Fairhope is closing in on another municipal election so get ready for CATALYST and the ill informed to try and convince voters that they know best.
 
 The latest issue is the plan for the waterfront, pier and parks at the bay. The funding comes from the BP oil spill in 2010. The cycle for funding and approval took years and grants were very specific outlining the scope of work.

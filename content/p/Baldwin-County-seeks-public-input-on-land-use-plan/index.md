@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Baldwin County seeks public input on land use planning; megaphone graphic represents outreach efforts
 related_articles:
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 85
-  rank: 1
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 82
+  score: 69.5829933851088
+  llm_score: 82
+  recency_score: 19.91496692554393
+  rank: 1
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 69.56484545462025
+  llm_score: 85
+  recency_score: 7.82422727310126
   rank: 2
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 82
-  rank: 3
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 78
-  rank: 4
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 75
-  rank: 5
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 75
-  rank: 6
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 75
-  rank: 7
+  score: 68.35543790561404
+  llm_score: 85
+  recency_score: 1.7771895280701993
+  rank: 3
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 66.15249614536118
+  llm_score: 82
+  recency_score: 2.76248072680588
+  rank: 4
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 70
+  score: 61.13884406431788
+  llm_score: 70
+  recency_score: 25.694220321589416
+  rank: 5
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 60.59982517482571
+  llm_score: 75
+  recency_score: 2.999125874128549
+  rank: 6
+- slug: newsletter
+  title: NEWSLETTER
+  score: 60.53756473844719
+  llm_score: 75
+  recency_score: 2.6878236922359457
+  rank: 7
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 60.18875952565574
+  llm_score: 75
+  recency_score: 0.9437976282786975
   rank: 8
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 70
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 56.722660548191314
+  llm_score: 70
+  recency_score: 3.6133027409565597
   rank: 9
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 65
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 56.596547449808504
+  llm_score: 70
+  recency_score: 2.9827372490425272
   rank: 10
 ---
 ### Baldwin County Seeks Public Input on Land Use Plan

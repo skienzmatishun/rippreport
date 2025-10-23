@@ -1,5 +1,5 @@
 ---
-title: "WRIT OF MANDAMUS: UPDATE"
+title: 'WRIT OF MANDAMUS: UPDATE'
 date: 2021-10-26
 thumbnail: img/writ-of-mandamus-update.jpg
 tags:
@@ -11,7 +11,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Crash test dummy head with painted markings, symbolizing legal scrutiny and a status review hearing in Ripp Report case"
+alttags: Crash test dummy head with painted markings, symbolizing legal scrutiny and a status review hearing in Ripp Report case
+related_articles:
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 95
+  rank: 1
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 95
+  rank: 2
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 92
+  rank: 3
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 92
+  rank: 4
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 90
+  rank: 5
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 89
+  rank: 6
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 8
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 75
+  rank: 9
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 75
+  rank: 10
 ---
 The Ripp Report is a consumer organization first. We also maintain a blog site, Facebook pages and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 

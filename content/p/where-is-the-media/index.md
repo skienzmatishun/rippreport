@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Milk carton labeled Missing, featuring a photographer and the question Have you seen me? referencing lack of media cov..."
+alttags: Milk carton labeled Missing, featuring a photographer and the question Have you seen me? referencing lack of media cov...
+related_articles:
+- slug: notice
+  title: 'NOTICE:'
+  score: 75
+  rank: 1
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 2
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 3
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 65
+  rank: 4
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 60
+  rank: 5
+- slug: on-vacation
+  title: ON VACATION
+  score: 55
+  rank: 6
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 55
+  rank: 7
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 50
+  rank: 8
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 45
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 30
+  rank: 10
 ---
 Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.
 

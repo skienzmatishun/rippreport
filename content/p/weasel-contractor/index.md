@@ -13,7 +13,48 @@ tags:
 - tucker-dorsey
 authors:
 - admin
-alttags: "Chris Elliott’s face emerging from a ballot box, symbolizing his election as State Senator in Baldwin County amid politica..."
+alttags: Chris Elliott’s face emerging from a ballot box, symbolizing his election as State Senator in Baldwin County amid politica...
+related_articles:
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 1
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 2
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 3
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 75
+  rank: 4
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 75
+  rank: 5
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 75
+  rank: 6
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75
+  rank: 7
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70
+  rank: 8
+- slug: election-ad
+  title: ELECTION AD
+  score: 65
+  rank: 9
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65
+  rank: 10
 ---
 Baldwin County really made a mistake when they elected [Chris Elliott](https://rippreport.com/tag/elliott/) to replace [Tripp Boom Boom Pittman](https://rippreport.com/tag/pittman/) as State Senator.
 

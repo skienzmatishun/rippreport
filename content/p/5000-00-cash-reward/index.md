@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: '$5000 reward poster: Wanted information proving claims against Councilman Burrell are false, per The Ripp Report'
 related_articles:
-- slug: 5000-00-cash-reward-rerun
-  title: $5000.00 CASH REWARD
-  score: 100
-  rank: 1
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 90
+  score: 89.82610187044024
+  llm_score: 90
+  recency_score: 89.13050935220119
+  rank: 1
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 83.46808419803509
+  llm_score: 90
+  recency_score: 57.34042099017541
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 90
-  rank: 3
 - slug: bonus-money
   title: BONUS MONEY
-  score: 85
+  score: 81.8369256908693
+  llm_score: 90
+  recency_score: 49.18462845434644
+  rank: 3
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 80.00409733543118
+  llm_score: 100
+  recency_score: 0.020486677155934722
   rank: 4
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 85
+  score: 77.972605288193
+  llm_score: 85
+  recency_score: 49.86302644096496
   rank: 5
+- slug: zunk-the-skunk
+  title: ZUNK THE SKUNK
+  score: 77.09678009225722
+  llm_score: 90
+  recency_score: 25.48390046128612
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 72.00388950567253
+  llm_score: 90
+  recency_score: 0.019447528362631618
+  rank: 7
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 6
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 85
-  rank: 7
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 85
+  score: 70.65529083578267
+  llm_score: 85
+  recency_score: 13.276454178913294
   rank: 8
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 85
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 68.0039108765292
+  llm_score: 85
+  recency_score: 0.019554382645987366
   rank: 9
 - slug: queen-bee
   title: QUEEN BEE
-  score: 70
+  score: 56.48044868574292
+  llm_score: 70
+  recency_score: 2.402243428714602
   rank: 10
 ---
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.

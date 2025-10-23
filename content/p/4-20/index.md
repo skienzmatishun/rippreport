@@ -19,43 +19,63 @@ alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats o
 related_articles:
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 100
+  score: 96.92190583576996
+  llm_score: 100
+  recency_score: 84.60952917884977
   rank: 1
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 95
-  rank: 2
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 95
-  rank: 3
+  score: 80.73665354209359
+  llm_score: 100
+  recency_score: 3.6832677104679425
+  rank: 2
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 92
+  score: 80.62276440977104
+  llm_score: 92
+  recency_score: 35.11382204885514
+  rank: 3
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 76.1641446131058
+  llm_score: 95
+  recency_score: 0.8207230655290094
   rank: 4
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 88
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 69.89097459752321
+  llm_score: 75
+  recency_score: 49.45487298761609
   rank: 5
 - slug: tiny-steps
   title: TINY STEPS
-  score: 85
+  score: 66.75849861290541
+  llm_score: 75
+  recency_score: 33.792493064527044
   rank: 6
 - slug: backstory-podcast-55
   title: BACKSTORY PODCAST 55
-  score: 85
+  score: 64.3824508821773
+  llm_score: 65
+  recency_score: 61.91225441088648
   rank: 7
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 85
+- slug: backstory-podcast-9-11-2001-remembered
+  title: Backstory Podcast 9/11, 2001 Remembered
+  score: 61.44318114711444
+  llm_score: 60
+  recency_score: 67.21590573557219
   rank: 8
 - slug: backstory-podcast-no-76-a-plague-of-apathy
   title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 65
+  score: 59.987869307981995
+  llm_score: 65
+  recency_score: 39.93934653990996
   rank: 9
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 65
+- slug: backstory-podcast-no-79-ole-peg-gy
+  title: Backstory Podcast No 79 'Ole Peg-gy
+  score: 59.54126400432339
+  llm_score: 65
+  recency_score: 37.70632002161693
   rank: 10
 ---
 This day is significant for many reasons:

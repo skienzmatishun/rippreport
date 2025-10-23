@@ -14,7 +14,48 @@ categories:
 - ethics
 authors:
 - admin
-alttags: "Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ..."
+alttags: Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ...
+related_articles:
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 95
+  rank: 1
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 92
+  rank: 2
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 90
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 90
+  rank: 4
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 90
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 90
+  rank: 6
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 90
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
+  rank: 8
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 75
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 10
 ---
 Corrupt politicians and elected officials in Alabama have been emboldened by the Alabama Supreme Court and the Ethics Commission’s recent rulings. While citizens of Alabama are distracted by national politics, their own state, keeps sinking deeper into the sewer of corruption.
 

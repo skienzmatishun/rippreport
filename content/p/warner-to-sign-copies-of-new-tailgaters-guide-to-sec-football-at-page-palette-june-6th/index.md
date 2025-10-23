@@ -9,7 +9,48 @@ tags:
 - football
 authors:
 - admin
-alttags: "Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field"
+alttags: Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field
+related_articles:
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 65
+  rank: 1
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 65
+  rank: 2
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 54
+  rank: 3
+- slug: super-bowl-lv
+  title: Super Bowl LV
+  score: 50
+  rank: 4
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 50
+  rank: 5
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 45
+  rank: 6
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 45
+  rank: 7
+- slug: game-on
+  title: GAME ON
+  score: 35
+  rank: 8
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 25
+  rank: 9
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 25
+  rank: 10
 ---
 “This is the book that will get SEC Football fans through the lockdowns! I call it the ‘Bible of SEC Football,’” said Dr. Warner, the “Professor of Tailgating,” and author of more than twenty tomes. “That’s because Southerner’s don’t think—they feel—and there’s nothing they feel more passionate about than SEC Football on Saturdays in the fall!”
 

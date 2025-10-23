@@ -6,7 +6,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Two women in professional attire, likely representing political figures discussed in the Baldwin County candidate selectio..."
+alttags: Two women in professional attire, likely representing political figures discussed in the Baldwin County candidate selectio...
+related_articles:
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 85
+  rank: 1
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 2
+- slug: last-chance
+  title: LAST CHANCE
+  score: 85
+  rank: 3
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 4
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 85
+  rank: 5
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 75
+  rank: 6
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 75
+  rank: 7
+- slug: qualification
+  title: QUALIFICATION
+  score: 70
+  rank: 8
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 70
+  rank: 9
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 54
+  rank: 10
 ---
 How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win. He represented the most hardened of the Baldwin County good ole boys, GOB. Then came Stacy Haygood and Elliott, Haygood became Mayor of Daphne and Elliott became a county commissioner. The name changed again to Catalyst. When that name began to stink the GOB changed the name again to Scott Boone Consulting, the stink remained.
 

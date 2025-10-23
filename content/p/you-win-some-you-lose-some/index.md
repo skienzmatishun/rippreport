@@ -10,7 +10,48 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: "Two hands: one giving a thumbs up labeled win some, the other a thumbs down labeled lose some, reflecting political ma..."
+alttags: 'Two hands: one giving a thumbs up labeled win some, the other a thumbs down labeled lose some, reflecting political ma...'
+related_articles:
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 1
+- slug: skunked
+  title: SKUNKED
+  score: 85
+  rank: 2
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 85
+  rank: 3
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 75
+  rank: 4
+- slug: i-quit-and-will-quit-again
+  title: I QUIT AND WILL QUIT AGAIN
+  score: 75
+  rank: 5
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 70
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 7
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 70
+  rank: 8
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 70
+  rank: 9
+- slug: i-quit
+  title: I QUIT
+  score: 65
+  rank: 10
 ---
 {{< socialpreview url="https://rippreport.com/p/skunked/" >}}
 
