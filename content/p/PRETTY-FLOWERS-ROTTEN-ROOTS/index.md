@@ -16,43 +16,63 @@ alttags: New candidates taking root in Fauxhope elections, casting a ballot into
 related_articles:
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 90
+  score: 95.19474191901475
+  llm_score: 95
+  recency_score: 95.97370959507373
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 90
+  score: 90.17127158449026
+  llm_score: 90
+  recency_score: 90.85635792245131
   rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 90
+  score: 90.07197526621852
+  llm_score: 90
+  recency_score: 90.35987633109261
   rank: 3
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 85
+  score: 74.14052568992524
+  llm_score: 85
+  recency_score: 30.702628449626225
   rank: 4
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 5
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 85
-  rank: 6
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 85
-  rank: 7
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 85
-  rank: 8
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 85
-  rank: 9
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 82
+  score: 72.14670430926378
+  llm_score: 90
+  recency_score: 0.7335215463189301
+  rank: 5
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 71.34872778511713
+  llm_score: 89
+  recency_score: 0.7436389255856242
+  rank: 6
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 71.19030280407003
+  llm_score: 85
+  recency_score: 15.95151402035018
+  rank: 7
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 68.14710678996988
+  llm_score: 85
+  recency_score: 0.7355339498494264
+  rank: 8
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 68.14590264837193
+  llm_score: 85
+  recency_score: 0.729513241859674
+  rank: 9
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 68.08741010031308
+  llm_score: 85
+  recency_score: 0.4370505015654081
   rank: 10
 ---
 Fauxhope municipal elections have started off with a bang. Five candidates have qualified for city council positions, and support one another in a solid slate. A very smart move. Who would want to be a minority councilman facing a well entrenched cabal of good ole boys, developers, politicians, lawyers, judges and let’s not leave out the District Attorney’s Office.

@@ -18,45 +18,65 @@ authors:
 - admin
 alttags: A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption...
 related_articles:
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 95
-  rank: 1
-- slug: surrender
-  title: SURRENDER
-  score: 90
-  rank: 2
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 85
-  rank: 3
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 85
+  score: 88.90191963447131
+  llm_score: 95
+  recency_score: 64.50959817235656
+  rank: 1
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 87.67392032634467
+  llm_score: 85
+  recency_score: 98.36960163172333
+  rank: 2
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 82.22156185864796
+  llm_score: 90
+  recency_score: 51.107809293239825
+  rank: 3
+- slug: surrender
+  title: SURRENDER
+  score: 81.99996495634579
+  llm_score: 90
+  recency_score: 49.99982478172893
   rank: 4
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 81.1247843082185
+  llm_score: 95
+  recency_score: 25.623921541092447
+  rank: 5
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 85
-  rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 85
+  score: 79.25024389308274
+  llm_score: 85
+  recency_score: 56.25121946541366
   rank: 6
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 85
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 76.83825535238421
+  llm_score: 90
+  recency_score: 24.19127676192105
   rank: 7
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 75.987869307982
+  llm_score: 85
+  recency_score: 39.93934653990996
+  rank: 8
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 82
-  rank: 8
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 70
+  score: 74.17762382000342
+  llm_score: 82
+  recency_score: 42.88811910001705
   rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 71.2078318963773
+  llm_score: 85
+  recency_score: 16.039159481886507
   rank: 10
 ---
 <iframe src="https://giphy.com/embed/J7KNNBaqIJTt5EzfDo" width="480" height="350" frameborder="0" class="giphy-embed" allowfullscreen></iframe>

@@ -16,45 +16,65 @@ authors:
 - admin
 alttags: Skeleton reaching for a suit on a hanger behind open doors, symbolizing corruption and loss of power in Fairhope politics
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 95
-  rank: 1
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 90
-  rank: 2
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 85
-  rank: 3
-- slug: skunked
-  title: SKUNKED
-  score: 85
-  rank: 4
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 85
-  rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 85
-  rank: 6
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 85
-  rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 8
+  score: 88.10764360478439
+  llm_score: 90
+  recency_score: 80.5382180239219
+  rank: 1
 - slug: i-quit
   title: I QUIT
-  score: 85
-  rank: 9
+  score: 84.14724185949737
+  llm_score: 90
+  recency_score: 60.73620929748681
+  rank: 2
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 83.24877842919904
+  llm_score: 85
+  recency_score: 76.2438921459952
+  rank: 3
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 79.6262621791403
+  llm_score: 85
+  recency_score: 58.1313108957015
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 78.88275366834506
+  llm_score: 95
+  recency_score: 14.41376834172532
+  rank: 5
+- slug: gob-coup
+  title: GOB COUP
+  score: 76.76755764177672
+  llm_score: 95
+  recency_score: 3.837788208883614
+  rank: 6
+- slug: threesome
+  title: THREESOME
+  score: 72.48098040369368
+  llm_score: 85
+  recency_score: 22.404902018468416
+  rank: 7
+- slug: skunked
+  title: SKUNKED
+  score: 70.6772050791888
+  llm_score: 85
+  recency_score: 13.386025395943985
+  rank: 8
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 72
+  score: 68.29991153640955
+  llm_score: 85
+  recency_score: 1.4995576820477703
+  rank: 9
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 68.29502178361366
+  llm_score: 85
+  recency_score: 1.4751089180682964
   rank: 10
 ---
 > Power corrupts absolute power corrupts absolutely

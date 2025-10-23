@@ -17,45 +17,65 @@ authors:
 - ripp-report
 alttags: Judge Tim Russell retiring as Baldwin County Probate Judge, a vital role handling millions in assets
 related_articles:
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 78
-  rank: 1
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 78
-  rank: 2
+  score: 86.93359302371175
+  llm_score: 85
+  recency_score: 94.66796511855877
+  rank: 1
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 75
-  rank: 3
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 75
-  rank: 4
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 70
-  rank: 5
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 2
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 70
+  score: 72.7833916941887
+  llm_score: 70
+  recency_score: 83.91695847094347
+  rank: 3
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 68.7468141206218
+  llm_score: 85
+  recency_score: 3.734070603109041
+  rank: 4
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 66.73605587461525
+  llm_score: 78
+  recency_score: 21.680279373076186
+  rank: 5
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 66.22156185864796
+  llm_score: 70
+  recency_score: 51.107809293239825
   rank: 6
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 70
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 63.92248465976349
+  llm_score: 70
+  recency_score: 39.61242329881746
   rank: 7
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 65
-  rank: 8
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 65
-  rank: 9
 - slug: exposure
   title: EXPOSURE
-  score: 65
+  score: 60.39586260016436
+  llm_score: 70
+  recency_score: 21.979313000821772
+  rank: 8
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 56.78456654095773
+  llm_score: 70
+  recency_score: 3.9228327047886493
+  rank: 9
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 52.54647444894585
+  llm_score: 65
+  recency_score: 2.7323722447292558
   rank: 10
 ---
 Judge Tim Russell is being “aged out” of the position of Probate Judge. He retires with a stellar reputation and sets the bar high for his successor. Judge of Probate for Baldwin County is a very important position which generated 40 million dollars in 2017. It is not required that the position be filled by an attorney, fact is, it would be best that is was NOT an attorney. There are five candidates, and they have been gentlemen and civil among themselves, so far.

@@ -20,45 +20,65 @@ authors:
 - admin
 alttags: Scale balancing money bag against a person figure, symbolizing alleged corruption and imbalance in Baldwin County politics
 related_articles:
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 90
-  rank: 1
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 90
-  rank: 2
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 85
-  rank: 3
+  score: 90.93359302371175
+  llm_score: 90
+  recency_score: 94.66796511855877
+  rank: 1
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 85
+  score: 84.10764360478439
+  llm_score: 85
+  recency_score: 80.5382180239219
+  rank: 2
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
+  rank: 3
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 78.24230004805162
+  llm_score: 90
+  recency_score: 31.21150024025806
   rank: 4
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 85
-  rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 85
-  rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 85
-  rank: 7
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 85
+  score: 74.70317696989248
+  llm_score: 85
+  recency_score: 33.51588484946244
+  rank: 5
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 74.25279266204939
+  llm_score: 90
+  recency_score: 11.263963310246938
+  rank: 6
+- slug: threesome
+  title: THREESOME
+  score: 71.60890176713603
+  llm_score: 85
+  recency_score: 18.044508835680173
+  rank: 7
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 71.12970187685954
+  llm_score: 85
+  recency_score: 15.648509384297702
   rank: 8
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 75
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 68.88994421893925
+  llm_score: 85
+  recency_score: 4.449721094696223
   rank: 9
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 75
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 68.67113278230873
+  llm_score: 85
+  recency_score: 3.355663911543685
   rank: 10
 ---
 Baldwin County is a cesspool of political and judicial corruption. In the last 10 years the citizens of Baldwin County, especially Fairhope, have been slapped in the face with blatant corruption. Complaints to the Attorney General do not even generate a response. The Judiciary, Bar and Ethics Commission have a repeated record of one paragraph responses dismissing any and all documented evidence.

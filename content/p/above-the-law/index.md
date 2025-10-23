@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Great blue heron perched atop a No Fishing sign, symbolizing unanswered legal complaints in Alabama
 related_articles:
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 85
-  rank: 1
 - slug: exposure
   title: EXPOSURE
-  score: 85
-  rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 82
-  rank: 3
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
+  rank: 1
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
-  score: 78
+  score: 78.07232874673902
+  llm_score: 78
+  recency_score: 78.36164373369505
+  rank: 2
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 73.71833385593835
+  llm_score: 85
+  recency_score: 28.59166927969179
+  rank: 3
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 72.0112604408264
+  llm_score: 90
+  recency_score: 0.05630220413199461
   rank: 4
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 78
-  rank: 5
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 75
-  rank: 6
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 72
-  rank: 7
+  score: 69.59392065778451
+  llm_score: 82
+  recency_score: 19.9696032889225
+  rank: 5
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020
-  score: 65
+  score: 69.2882265693973
+  llm_score: 85
+  recency_score: 6.441132846986479
+  rank: 6
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 65.65843243410507
+  llm_score: 82
+  recency_score: 0.2921621705253142
+  rank: 7
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 65.50408372408847
+  llm_score: 78
+  recency_score: 15.520418620442342
   rank: 8
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 65
+  score: 63.5419279024471
+  llm_score: 72
+  recency_score: 29.70963951223547
   rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 65
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 63.24053460363517
+  llm_score: 72
+  recency_score: 28.202673018175854
   rank: 10
 ---
 The Ripp Report made a complaint against Steven Patrick Johnson to the Alabama State Bar, CSP NO. 2016-296. On March 17, 2016 they responded “Two attorneys in the Office of the General Council of the Alabama State Bar have reviewed your complaint and the attorney’s response to the complaint. In view of the nature and content of the complaint and the response of the attorney, we will take no further action in this matter.” Of course we are not privileged to the response of the attorney.

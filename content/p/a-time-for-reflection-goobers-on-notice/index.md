@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Sunset reflected in a car side mirror, symbolizing reflection on the past year and looking forward to new beginnings
 related_articles:
-- slug: new-years-2024
-  title: HAPPY NEW YEAR
-  score: 85
-  rank: 1
-- slug: happy-new-year-2
-  title: Happy New Year!
-  score: 85
-  rank: 2
-- slug: new-year-new-problems
-  title: NEW YEAR NEW PROBLEMS
-  score: 85
-  rank: 3
-- slug: new-years-2025
-  title: HAPPY NEW YEAR!
-  score: 85
-  rank: 4
 - slug: freaky-friday-merry-christmas
   title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 85
+  score: 79.24740235768714
+  llm_score: 75
+  recency_score: 96.23701178843567
+  rank: 1
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 74.70317696989248
+  llm_score: 85
+  recency_score: 33.51588484946244
+  rank: 2
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 65.18782317885686
+  llm_score: 65
+  recency_score: 65.93911589428427
+  rank: 3
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 59.37777423965625
+  llm_score: 65
+  recency_score: 36.88887119828122
+  rank: 4
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 59.1196286005925
+  llm_score: 65
+  recency_score: 35.59814300296249
   rank: 5
-- slug: happy-new-year-3
-  title: HAPPY NEW YEAR
-  score: 85
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 56.04667522826491
+  llm_score: 70
+  recency_score: 0.2333761413245356
   rank: 6
-- slug: happy-new-year
-  title: HAPPY NEW YEAR
-  score: 80
-  rank: 7
-- slug: happy-new-year-🎉
-  title: HAPPY NEW YEAR 🎉
-  score: 75
-  rank: 8
 - slug: happy-days
   title: HAPPY DAYS
-  score: 65
+  score: 52.11277620415708
+  llm_score: 65
+  recency_score: 0.5638810207853779
+  rank: 7
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 52.06291871888191
+  llm_score: 65
+  recency_score: 0.31459359440954926
+  rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 52.04930414233205
+  llm_score: 65
+  recency_score: 0.2465207116602366
   rank: 9
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 65
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 40.13926300461572
+  llm_score: 50
+  recency_score: 0.696315023078613
   rank: 10
 ---
 Facebook is sending users a personalized “2016 Year in Review” on their news feeds. It has certainly been a year worth reflecting on. Much has happened in American politics this year. However, like former U.S. Speaker of the House Tip O’Neill said, “All politics are local.” In Baldwin County, nothing could be further from the truth.

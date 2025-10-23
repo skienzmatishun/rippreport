@@ -13,45 +13,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 95
-  rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 95
-  rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 95
-  rank: 3
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 95
-  rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 95
-  rank: 5
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 95
-  rank: 6
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 95
-  rank: 7
+  score: 90.93359302371175
+  llm_score: 90
+  recency_score: 94.66796511855877
+  rank: 1
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 90.00714967029312
+  llm_score: 95
+  recency_score: 70.03574835146556
+  rank: 2
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 81.37201466601171
+  llm_score: 100
+  recency_score: 6.86007333005856
+  rank: 3
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 92
+  score: 79.88598351645915
+  llm_score: 95
+  recency_score: 19.429917582295765
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 78.08072954482947
+  llm_score: 95
+  recency_score: 10.403647724147305
+  rank: 5
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 77.42957344443643
+  llm_score: 95
+  recency_score: 7.147867222182147
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 75.78096341517434
+  llm_score: 90
+  recency_score: 18.90481707587172
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 75.72952253499894
+  llm_score: 90
+  recency_score: 18.647612674994708
   rank: 8
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 85
+  score: 72.95903777831067
+  llm_score: 85
+  recency_score: 24.795188891553348
   rank: 9
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 85
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 68.05067361499097
+  llm_score: 85
+  recency_score: 0.2533680749548554
   rank: 10
 ---
 The poster “Boy” of corruption in Alabama is hands down the Executive Director of Alabama Ethics Commission Tom Albritton. The Attorney General, State and local Representatives, State senators, Alabama Bar and all of Goat Hill are aware of Mr Albritton’s unethical behavior in relation to the Mabel Amos Trust. However he remains in office with a 100 thousand dollar plus salary???? Teaching ethics????

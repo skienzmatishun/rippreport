@@ -15,45 +15,65 @@ authors:
 - ripp-report
 alttags: Airplane flying across a blue sky, leaving contrails—symbolizing pilot Jack’s free flights and coverage for _The Courier_
 related_articles:
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 95
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 94.88179115997221
+  llm_score: 95
+  recency_score: 94.40895579986105
   rank: 1
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 95
+  score: 88.4504861558908
+  llm_score: 95
+  recency_score: 62.252430779453995
   rank: 2
-- slug: captain-jack
-  title: CAPTAIN JACK
-  score: 95
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 87.03654154157076
+  llm_score: 95
+  recency_score: 55.18270770785375
   rank: 3
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 95
-  rank: 4
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 90
+  score: 82.6795960873464
+  llm_score: 90
+  recency_score: 53.39798043673202
+  rank: 4
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 82.23930710092043
+  llm_score: 85
+  recency_score: 71.19653550460211
   rank: 5
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 80.93731582528929
+  llm_score: 85
+  recency_score: 64.6865791264464
+  rank: 6
+- slug: flying-high
+  title: FLYING HIGH
+  score: 80.55415564363686
+  llm_score: 90
+  recency_score: 42.77077821818432
+  rank: 7
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 80.54278605679045
+  llm_score: 95
+  recency_score: 22.713930283952266
+  rank: 8
 - slug: 5000-00-cash-reward-rerun
   title: $5000.00 CASH REWARD
-  score: 90
-  rank: 6
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 90
-  rank: 7
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 90
-  rank: 8
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 85
+  score: 76.00636893813582
+  llm_score: 95
+  recency_score: 0.031844690679118465
   rank: 9
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 70
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 71.8226265046153
+  llm_score: 85
+  recency_score: 19.113132523076512
   rank: 10
 ---
 Jack, come fly with me, has more passengers. _The Courier_, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, "come fly with me” Jack to cover the most mundane of articles that amounts to cut and paste. The local AM station, it is hard to find, has also signed on to allow Jack all the time he needs to talk about anything but the airport.

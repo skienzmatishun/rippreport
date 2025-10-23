@@ -11,45 +11,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 95
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 89.66599124538808
+  llm_score: 95
+  recency_score: 68.3299562269404
   rank: 1
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 95
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 85.46676333674154
+  llm_score: 95
+  recency_score: 47.33381668370766
   rank: 2
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 95
+  score: 83.11962860059249
+  llm_score: 95
+  recency_score: 35.59814300296249
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 85
-  rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 85
-  rank: 5
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 6
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 85
-  rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
-  rank: 8
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 85
+  score: 82.61916499093418
+  llm_score: 100
+  recency_score: 13.095824954670931
+  rank: 4
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 78.7591160473893
+  llm_score: 95
+  recency_score: 13.795580236946487
+  rank: 5
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 78.56941302796523
+  llm_score: 95
+  recency_score: 12.847065139826096
+  rank: 6
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 77.49773123279229
+  llm_score: 95
+  recency_score: 7.488656163961433
+  rank: 7
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 76.32205438514495
+  llm_score: 95
+  recency_score: 1.6102719257247833
+  rank: 8
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 76.05109182678089
+  llm_score: 95
+  recency_score: 0.2554591339044372
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 72
+  score: 68.06071721577715
+  llm_score: 85
+  recency_score: 0.3035860788857349
   rank: 10
 ---
 Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt from top to bottom. An absent Governor, a Bar Association in the septic tank. A judiciary with its head in the sand and an Attorney General giving them all a pass.

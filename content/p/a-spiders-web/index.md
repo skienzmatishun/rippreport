@@ -15,45 +15,65 @@ authors:
 - ripp-report
 alttags: Complex web of interconnected LLCs, symbolizing hidden connections and obscured ownership within Baldwin County politics
 related_articles:
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 90
-  rank: 1
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 90
-  rank: 2
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 90
-  rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 85
-  rank: 4
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 85
-  rank: 5
-- slug: secret-society
-  title: SECRET SOCIETY
-  score: 85
-  rank: 6
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
+  score: 83.69014258029426
+  llm_score: 90
+  recency_score: 58.450712901471334
+  rank: 1
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 76.28879688043754
+  llm_score: 90
+  recency_score: 21.44398440218775
+  rank: 2
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 74.15027402445422
+  llm_score: 90
+  recency_score: 10.751370122271124
+  rank: 3
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 72.67113278230873
+  llm_score: 90
+  recency_score: 3.355663911543685
+  rank: 4
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 72.22803860842048
+  llm_score: 90
+  recency_score: 1.1401930421023998
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 72.0630913352865
+  llm_score: 90
+  recency_score: 0.31545667643248176
+  rank: 6
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 70.00243193734299
+  llm_score: 85
+  recency_score: 10.01215968671496
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 68.35641304329026
+  llm_score: 85
+  recency_score: 1.782065216451268
   rank: 8
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 82
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 68.08389071583125
+  llm_score: 85
+  recency_score: 0.4194535791561977
   rank: 9
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 82
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 68.02986353698782
+  llm_score: 85
+  recency_score: 0.14931768493906777
   rank: 10
 ---
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as city council members and county commissioners hide their business and personal connections to these LLC’S. By doing this, they are able to vote and promote their own interests without being discovered. Or so they thought.
