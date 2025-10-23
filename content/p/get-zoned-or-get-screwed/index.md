@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Seal of Faux Hope, Alabama: a circular design featuring mountains, water, a screw, and text highlighting concerns about un..."
+alttags: 'Seal of Faux Hope, Alabama: a circular design featuring mountains, water, a screw, and text highlighting concerns about un...'
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 1
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 2
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 85
+  rank: 3
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 75
+  rank: 4
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 75
+  rank: 5
+- slug: s-o-s
+  title: S.O.S
+  score: 75
+  rank: 6
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 65
+  rank: 7
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 65
+  rank: 8
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 55
+  rank: 9
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 50
+  rank: 10
 ---
 Think you do not need zoning then read this article. Un-zoned properties are just what these developers are looking for and they do not give a damn how THEIR development affects your quality of life.
 

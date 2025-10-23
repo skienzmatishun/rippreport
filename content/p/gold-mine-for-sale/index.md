@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Illustration depicting a mine entrance with a For Sale sign, symbolizing property development concerns in Fairhope"
+alttags: Illustration depicting a mine entrance with a For Sale sign, symbolizing property development concerns in Fairhope
+related_articles:
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 1
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 85
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 3
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 75
+  rank: 4
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 5
+- slug: disposal
+  title: DISPOSAL
+  score: 70
+  rank: 6
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 70
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 8
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 65
+  rank: 9
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 60
+  rank: 10
 ---
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements. The Fairhope Conservation Easement that is proposed is a political football being thrown around by the City Council. It is an excuse by special interests, developers, that want the property out of the control of the city. The property in question is prime property in the Fairhope municipal city limits, that cost us 13 million.
 

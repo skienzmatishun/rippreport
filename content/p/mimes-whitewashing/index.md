@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Fairhope City Council depicted as mimes, symbolically obstructing the mayor and supporting Burrell"
+alttags: Fairhope City Council depicted as mimes, symbolically obstructing the mayor and supporting Burrell
+related_articles:
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 1
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 2
+- slug: communication
+  title: COMMUNICATION
+  score: 85
+  rank: 3
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 4
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 85
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 6
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 7
+- slug: jack-ass
+  title: JACK ASS
+  score: 75
+  rank: 8
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 75
+  rank: 9
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 10
 ---
 Fairhope City Council plays to the council TV, like mimes. They smile and say all they want is cooperation from the mayor, then slam the door in her face. The last meeting they made it perfectly clear that they stand united in obstructing the mayor and backing “come fly with me” Burrell. All five council members now have all their cards on Jack. They have vowed to seek revenge for the ethics complaint the mayor filed against Jack. An ethics complaint accompanied by at least 4 other complaints, which now Councilman Brown says has “been ruled baseless.” Mr. Brown knows that what he is saying is not true. Investigations are underway. Mr Brown needs to understand that the Ripp Report does not put all it’s eggs in one basket. We fully intend to expose and expand the scope of authorities that may be interested in exposing corruption at Fairhope Airport.
 

@@ -11,7 +11,48 @@ tags:
 - planning-and-zoning
 authors:
 - ripp-report
-alttags: "Cartoon face expressing surprise or disbelief, referencing a politician losing reelection after ignoring constituents"
+alttags: Cartoon face expressing surprise or disbelief, referencing a politician losing reelection after ignoring constituents
+related_articles:
+- slug: communication
+  title: COMMUNICATION
+  score: 75
+  rank: 1
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 2
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 75
+  rank: 3
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 70
+  rank: 4
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 65
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 65
+  rank: 6
+- slug: jack-ass
+  title: JACK ASS
+  score: 65
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 65
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: hell-yea
+  title: HELL YEA
+  score: 65
+  rank: 10
 ---
 Jimmy Conyers steamed rolled incumbent Diana Brewer for a Fairhope City Council seat with 66% of the vote. Diana now joins Tim Kant, as the second person to lose their job because they refused to listen to their constituents, they will soon have company.
 

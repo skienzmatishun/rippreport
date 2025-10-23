@@ -1,19 +1,59 @@
 ---
-title: "INSANITY"
+title: INSANITY
 date: 2021-02-19
-thumbnail: "img/insanity-2.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - alabama
-  - bentley
-  - governor-ivey
-  - ivey
-  - medicaid
-authors: 
-  - admin
+thumbnail: img/insanity-2.jpg
+categories:
+- freaky-friday
+tags:
+- alabama
+- bentley
+- governor-ivey
+- ivey
+- medicaid
+authors:
+- admin
+related_articles:
+- slug: insanity
+  title: INSANITY
+  score: 95
+  rank: 1
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 2
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 70
+  rank: 3
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 70
+  rank: 4
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 65
+  rank: 5
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 65
+  rank: 6
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 65
+  rank: 7
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 65
+  rank: 8
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 50
+  rank: 9
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 50
+  rank: 10
 ---
-
 Alabama needs a psychiatrist and a financial advisor. The lives lost, hospitals closed and billions of dollars, left on the table, is the result of despicable political motives of several Alabama Republican Governors.
 
 {{< socialpreview url="https://www.al.com/news/2021/02/thaw-your-frozen-heart-kay-ivey-expand-medicaid.html" >}}

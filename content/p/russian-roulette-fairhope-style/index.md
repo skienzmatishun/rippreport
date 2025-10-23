@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: "Revolver cylinder graphic symbolizing Fairhope city council’s legal risks and potential consequences for taxpayers"
+alttags: Revolver cylinder graphic symbolizing Fairhope city council’s legal risks and potential consequences for taxpayers
+related_articles:
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 100
+  rank: 1
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 95
+  rank: 2
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 90
+  rank: 3
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 90
+  rank: 4
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 90
+  rank: 5
+- slug: back-stabber
+  title: BACK STABBER
+  score: 89
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 7
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 8
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 85
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65
+  rank: 10
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.
 

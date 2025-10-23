@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Man gazes at a departing ship, symbolizing low voter turnout in Baldwin County and potential political consequences"
+alttags: Man gazes at a departing ship, symbolizing low voter turnout in Baldwin County and potential political consequences
+related_articles:
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 1
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 2
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 85
+  rank: 3
+- slug: last-chance
+  title: LAST CHANCE
+  score: 85
+  rank: 4
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 5
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 85
+  rank: 6
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 85
+  rank: 7
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 8
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 70
+  rank: 9
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 10
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 

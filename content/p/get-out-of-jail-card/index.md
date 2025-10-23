@@ -6,7 +6,48 @@ categories:
 thumbnail: /img/get-out-of-jail-card.jpg
 authors:
 - admin
-alttags: "Get Out of Jail Free Monopoly card symbolizing how some avoid accountability in Baldwin County politics"
+alttags: Get Out of Jail Free Monopoly card symbolizing how some avoid accountability in Baldwin County politics
+related_articles:
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 95
+  rank: 1
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 90
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 90
+  rank: 3
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 85
+  rank: 4
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 85
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 75
+  rank: 6
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 75
+  rank: 7
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 75
+  rank: 8
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 9
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 10
 ---
 Here are “some examples” of how a Baldwin County, Get Out of Jail Card, has helped, mostly politicians, AVOID any transparency or accountability.
 

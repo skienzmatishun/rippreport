@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Bowl of food on grass, possibly representing community discussions around repurposing the former K-1 school site in Fairhope"
+alttags: Bowl of food on grass, possibly representing community discussions around repurposing the former K-1 school site in Fairhope
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 1
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 75
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 70
+  rank: 3
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 65
+  rank: 4
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 65
+  rank: 5
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 65
+  rank: 6
+- slug: holes
+  title: HOLES
+  score: 65
+  rank: 7
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 8
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 60
+  rank: 9
+- slug: survey
+  title: SURVEY
+  score: 50
+  rank: 10
 ---
 Fairhope always has some political drama going on but the plate is getting full.
 

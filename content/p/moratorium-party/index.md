@@ -6,7 +6,48 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: "City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and..."
+alttags: City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and...
+related_articles:
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 1
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 3
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 75
+  rank: 4
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 5
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 65
+  rank: 6
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 65
+  rank: 7
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 9
+- slug: scary
+  title: SCARY
+  score: 65
+  rank: 10
 ---
 Fairhope, aka Fauxhope, last municipal election fell prey to the political cabal, Catalyst, now branded as Scott Boone Consulting. They did a bang up good job for the special interests, developers and political candidates, they selected and supported.
 

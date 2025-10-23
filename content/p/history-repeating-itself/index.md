@@ -9,7 +9,48 @@ tags:
 - raines
 authors:
 - admin
-alttags: "Fairhope Museum of History building facade, referenced in a letter regarding waterfront development controversy"
+alttags: Fairhope Museum of History building facade, referenced in a letter regarding waterfront development controversy
+related_articles:
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 90
+  rank: 1
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 75
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 75
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 75
+  rank: 7
+- slug: scary
+  title: SCARY
+  score: 65
+  rank: 8
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 65
+  rank: 9
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 65
+  rank: 10
 ---
 Posted by [Lagniappe](http://lagniappemobile.com/) | Jul 15, 2020 | Letters to the Editor
 

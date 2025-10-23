@@ -11,7 +11,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Mobile River Bridge overlaid with green leaves, representing local opposition to proposed toll increases for Mobile and Ba..."
+alttags: Mobile River Bridge overlaid with green leaves, representing local opposition to proposed toll increases for Mobile and Ba...
+related_articles:
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 85
+  rank: 1
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 75
+  rank: 2
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 75
+  rank: 3
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 75
+  rank: 4
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 75
+  rank: 5
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 75
+  rank: 6
+- slug: pied-piper
+  title: PIED PIPER
+  score: 75
+  rank: 7
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 65
+  rank: 8
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 65
+  rank: 9
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 10
 ---
 Last nights meeting opposing the Mobile Bridge Toll, is just one of many springing up around Mobile and Baldwin County.
 

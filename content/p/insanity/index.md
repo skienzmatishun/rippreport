@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Political cartoon depicting Kay Ivey wearing a shirt reading No Medicaid Expansion, symbolizing opposition to healthcare..."
+alttags: Political cartoon depicting Kay Ivey wearing a shirt reading No Medicaid Expansion, symbolizing opposition to healthcare...
+related_articles:
+- slug: insanity-2
+  title: INSANITY
+  score: 95
+  rank: 1
+- slug: open-your-eyes
+  title: OPEN YOUR EYES
+  score: 85
+  rank: 2
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 75
+  rank: 3
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 70
+  rank: 4
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 65
+  rank: 5
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 65
+  rank: 6
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 65
+  rank: 7
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 65
+  rank: 8
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 65
+  rank: 9
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 65
+  rank: 10
 ---
 The Eastern Shore was blessed that Hurricane Michael spared us. Please pray for those in the storm’s path and if you have the opportunity to donate time or items for those impacted from the storm, it will be greatly appreciated.
 

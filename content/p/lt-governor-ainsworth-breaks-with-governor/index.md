@@ -1,15 +1,54 @@
 ---
-title: "Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com"
+title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
 date: 2025-02-12
-thumbnail: "img/s_topXEXT1371x33798is.jpg"
-categories: 
-  - ivy
-  - alabama
-authors: 
-  - admin
+thumbnail: img/s_topXEXT1371x33798is.jpg
+categories:
+- ivy
+- alabama
+authors:
+- admin
+related_articles:
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 90
+  rank: 1
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 85
+  rank: 2
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 70
+  rank: 3
+- slug: war
+  title: WAR
+  score: 65
+  rank: 4
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 65
+  rank: 5
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 65
+  rank: 6
+- slug: insanity-2
+  title: INSANITY
+  score: 65
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 65
+  rank: 8
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 50
+  rank: 9
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 45
+  rank: 10
 ---
-
-
 By <a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley - Alabamagazette.com
 
 {{< socialpreview url="https://www.alabamagazette.com/story/2025/02/07/news/span-classbrnwsbreaking-news-spanlt-governor-ainsworth-breaks-with-governor-opposes-the-veterans-power-grab-bill/5488.html#readercomments" >}}

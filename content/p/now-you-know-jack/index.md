@@ -10,7 +10,48 @@ tags:
 - ethics-complaint
 authors:
 - ripp-report
-alttags: "Jack Burrell posing in a cardboard box labeled “Jack in the Box” next to a private jet, referencing controversy within Fai..."
+alttags: Jack Burrell posing in a cardboard box labeled “Jack in the Box” next to a private jet, referencing controversy within Fai...
+related_articles:
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 90
+  rank: 1
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 90
+  rank: 2
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 89
+  rank: 3
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 85
+  rank: 4
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 5
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 85
+  rank: 6
+- slug: jack-ass
+  title: JACK ASS
+  score: 85
+  rank: 7
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 85
+  rank: 8
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 10
 ---
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the wrong road.
 

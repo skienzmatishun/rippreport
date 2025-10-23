@@ -11,7 +11,48 @@ tags:
 - hix
 authors:
 - ripp-report
-alttags: "Investigation into Fairhope Airport Authority: Attorney examines details amid Ripp Report complaint and ethics inquiry"
+alttags: 'Investigation into Fairhope Airport Authority: Attorney examines details amid Ripp Report complaint and ethics inquiry'
+related_articles:
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 95
+  rank: 1
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 92
+  rank: 2
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 90
+  rank: 3
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 4
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 85
+  rank: 5
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 6
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 85
+  rank: 7
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 8
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 85
+  rank: 9
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 85
+  rank: 10
 ---
 “The appropriation from city coffers to the airport is more than we spend on all 5 of our public schools and is 21% of our debt and accommodates less than 1% of the population.”
 

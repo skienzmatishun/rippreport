@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Former BP executive gestures toward a fountain in Fairhope, Alabama, amid criticism over his role in the Mobile Bay cleanup"
+alttags: Former BP executive gestures toward a fountain in Fairhope, Alabama, amid criticism over his role in the Mobile Bay cleanup
+related_articles:
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 90
+  rank: 1
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 75
+  rank: 2
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 75
+  rank: 3
+- slug: scary
+  title: SCARY
+  score: 75
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 5
+- slug: catalyst-shit-creek
+  title: CATALYST SHIT CREEK
+  score: 70
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 7
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 65
+  rank: 8
+- slug: stepping-up
+  title: STEPPING UP
+  score: 65
+  rank: 9
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 45
+  rank: 10
 ---
 It defies logic that a former BP executive is going to lecture Fairhope citizens about contamination of the Mobile Bay.
 

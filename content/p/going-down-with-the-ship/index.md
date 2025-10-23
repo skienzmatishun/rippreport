@@ -14,7 +14,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "Gulf Quest Maritime Museum depicted sinking in water, symbolizing financial struggles and unpaid utility bills"
+alttags: Gulf Quest Maritime Museum depicted sinking in water, symbolizing financial struggles and unpaid utility bills
+related_articles:
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 75
+  rank: 1
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 75
+  rank: 2
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 65
+  rank: 3
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 65
+  rank: 4
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 65
+  rank: 5
+- slug: history-repeating-itself
+  title: History repeating itself
+  score: 65
+  rank: 6
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 65
+  rank: 7
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 65
+  rank: 8
+- slug: stepping-up
+  title: STEPPING UP
+  score: 50
+  rank: 9
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 35
+  rank: 10
 ---
 Be sure you read
 

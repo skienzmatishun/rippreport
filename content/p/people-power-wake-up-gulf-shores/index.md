@@ -6,7 +6,48 @@ categories:
 - sunday-sunrise
 authors:
 - ripp-report
-alttags: "Urgent: Red alarm clock rings, symbolizing last chance to oppose Regency Place Apartments development at Gulf Shores City ..."
+alttags: 'Urgent: Red alarm clock rings, symbolizing last chance to oppose Regency Place Apartments development at Gulf Shores City ...'
+related_articles:
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 90
+  rank: 1
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 85
+  rank: 2
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 85
+  rank: 3
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 85
+  rank: 4
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 85
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 6
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 75
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 8
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60
+  rank: 10
 ---
 ## BREAKING NEWS.....
 

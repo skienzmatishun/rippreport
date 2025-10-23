@@ -8,7 +8,48 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: "Warning sign reading Obstruction, symbolizing resistance from Fairhope City Council against the mayors recommendations"
+alttags: Warning sign reading Obstruction, symbolizing resistance from Fairhope City Council against the mayors recommendations
+related_articles:
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 90
+  rank: 1
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 2
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 85
+  rank: 3
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 85
+  rank: 4
+- slug: hell-yea
+  title: HELL YEA
+  score: 85
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 6
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 7
+- slug: shut-up
+  title: SHUT UP
+  score: 75
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 9
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 10
 ---
 Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is calling the shots. One thing that is perfectly clear is that any recommendations from the mayor will be meet with stiff resistance, regardless of it’s merit.
 

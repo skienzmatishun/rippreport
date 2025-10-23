@@ -10,7 +10,48 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: "Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005"
+alttags: Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005
+related_articles:
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 100
+  rank: 1
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 100
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 95
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 95
+  rank: 4
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 7
+- slug: earful
+  title: EARFUL
+  score: 95
+  rank: 8
+- slug: rule-32
+  title: RULE 32
+  score: 95
+  rank: 9
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 92
+  rank: 10
 ---
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.
 

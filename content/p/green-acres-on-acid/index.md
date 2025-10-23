@@ -10,7 +10,48 @@ tags:
 - steve-russo
 authors:
 - ripp-report
-alttags: "Movie poster for Green Acres, illustrating a lack of accountability in Baldwin County politics despite past convictions"
+alttags: Movie poster for Green Acres, illustrating a lack of accountability in Baldwin County politics despite past convictions
+related_articles:
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 1
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 85
+  rank: 2
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 85
+  rank: 3
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 4
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 85
+  rank: 5
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 85
+  rank: 6
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 85
+  rank: 7
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 8
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 9
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 75
+  rank: 10
 ---
 - In Baldwin County, the incentive to run for office and become a public servant is that there is no accountability and “conflict of interest” is just a pesky term. Many of our elected officials are in office for personal gain and use their positions to support like minded politicians.
 

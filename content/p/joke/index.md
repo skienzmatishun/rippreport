@@ -1,16 +1,56 @@
 ---
-title: "JOKE LLP"
+title: JOKE LLP
 date: 2017-06-16
-thumbnail: "img/joke-llp.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - pittman
-  - soccer-complex
-authors: 
-  - ripp-report
+thumbnail: img/joke-llp.jpg
+categories:
+- freaky-friday
+tags:
+- pittman
+- soccer-complex
+authors:
+- ripp-report
+related_articles:
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75
+  rank: 1
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 70
+  rank: 2
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 3
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 4
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 65
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 6
+- slug: pop-up-target
+  title: POP UP TARGET
+  score: 65
+  rank: 7
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 65
+  rank: 8
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 60
+  rank: 9
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 50
+  rank: 10
 ---
-
 JOKE llp.
 
 Have you noticed that no one on the Fairhope City Council wants to address any questions about the soccer fields!

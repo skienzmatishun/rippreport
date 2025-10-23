@@ -8,7 +8,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Two monkeys grooming each other, symbolizing divisive behavior and uncivil discourse in the Senate race discussion"
+alttags: Two monkeys grooming each other, symbolizing divisive behavior and uncivil discourse in the Senate race discussion
+related_articles:
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 85
+  rank: 1
+- slug: jack-ass
+  title: JACK ASS
+  score: 85
+  rank: 2
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 85
+  rank: 3
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 85
+  rank: 4
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 75
+  rank: 5
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 75
+  rank: 6
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 70
+  rank: 7
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 70
+  rank: 8
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 70
+  rank: 9
+- slug: skunked
+  title: SKUNKED
+  score: 65
+  rank: 10
 ---
 SENATE RACE:
 

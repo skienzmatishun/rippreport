@@ -9,7 +9,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Map highlighting proposed Planning District 8, potentially avoiding annexation issues faced by Fairhope’s African American..."
+alttags: Map highlighting proposed Planning District 8, potentially avoiding annexation issues faced by Fairhope’s African American...
+related_articles:
+- slug: vote-yes-today
+  title: Vote YES Today
+  score: 85
+  rank: 1
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 75
+  rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 3
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 70
+  rank: 4
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 65
+  rank: 5
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 65
+  rank: 6
+- slug: skunked
+  title: SKUNKED
+  score: 65
+  rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 8
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 65
+  rank: 9
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 65
+  rank: 10
 ---
 The new proposed planning district 8, is long overdue. For many years Fairhope has had a policy of annexing property, only if a property owner made a request. This was a clever way for Fairhope to avoid any annexation of the African American community. Don’t believe me! Look very carefully at the map, it is clear as day.
 

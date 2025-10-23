@@ -15,7 +15,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Four men in suits, likely involved in the wrongful conviction of Murray Lawrence Jr, now holding positions of power"
+alttags: Four men in suits, likely involved in the wrongful conviction of Murray Lawrence Jr, now holding positions of power
+related_articles:
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 100
+  rank: 1
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 100
+  rank: 2
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 100
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 95
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 95
+  rank: 5
+- slug: rule-32
+  title: RULE 32
+  score: 95
+  rank: 6
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95
+  rank: 7
+- slug: innocent
+  title: INNOCENT
+  score: 95
+  rank: 8
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 90
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 10
 ---
 FOR IMMEDIATE RELEASE
 

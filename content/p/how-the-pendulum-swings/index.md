@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Golden pendulum suspended from a chain, symbolizing balance and potential shifts in local politics discussed in The Ripp R..."
+alttags: Golden pendulum suspended from a chain, symbolizing balance and potential shifts in local politics discussed in The Ripp R...
+related_articles:
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 85
+  rank: 1
+- slug: gob-coup
+  title: GOB COUP
+  score: 85
+  rank: 2
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 85
+  rank: 3
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 85
+  rank: 4
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 5
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 75
+  rank: 6
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 7
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 8
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 9
+- slug: jack-ass
+  title: JACK ASS
+  score: 52
+  rank: 10
 ---
 Well, Wonderful Wednesday had some very interesting commentary.
 

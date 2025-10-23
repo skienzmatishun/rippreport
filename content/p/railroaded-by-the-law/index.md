@@ -6,7 +6,48 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: "Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations"
+alttags: Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations
+related_articles:
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 95
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 90
+  rank: 2
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 90
+  rank: 3
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 90
+  rank: 4
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 5
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 85
+  rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 85
+  rank: 7
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 8
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 75
+  rank: 9
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 75
+  rank: 10
 ---
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.
 

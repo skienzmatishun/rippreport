@@ -14,7 +14,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Emoji depicting a sad face with a long nose, symbolizing dishonesty related to the Baldwin County school lawsuit"
+alttags: Emoji depicting a sad face with a long nose, symbolizing dishonesty related to the Baldwin County school lawsuit
+related_articles:
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75
+  rank: 1
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 2
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 75
+  rank: 3
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 70
+  rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 5
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 65
+  rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 65
+  rank: 7
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 8
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 62
+  rank: 9
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 60
+  rank: 10
 ---
 Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.
 

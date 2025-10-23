@@ -11,7 +11,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Two men in suits stand before a pool backdrop; a life ring labeled Catalyst floats above them, referencing concerns abou..."
+alttags: Two men in suits stand before a pool backdrop; a life ring labeled Catalyst floats above them, referencing concerns abou...
+related_articles:
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 85
+  rank: 1
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 85
+  rank: 2
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 3
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 4
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 85
+  rank: 5
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 75
+  rank: 6
+- slug: catalyst-2
+  title: CATALYST
+  score: 65
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 65
+  rank: 8
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 65
+  rank: 9
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 63
+  rank: 10
 ---
 Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what consumers should be aware of.
 

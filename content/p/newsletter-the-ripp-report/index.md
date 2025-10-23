@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Sign up for The Ripp Report newsletter to stay informed about political corruption and consumer issues in Baldwin County"
+alttags: Sign up for The Ripp Report newsletter to stay informed about political corruption and consumer issues in Baldwin County
+related_articles:
+- slug: newsletter
+  title: NEWSLETTER
+  score: 90
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 2
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 85
+  rank: 3
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 4
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 85
+  rank: 5
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 85
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 7
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 8
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 65
+  rank: 9
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 50
+  rank: 10
 ---
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The mid term election are going to be very important to the citizens of Baldwin County which has 14 municipalities.
 

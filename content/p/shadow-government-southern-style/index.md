@@ -11,7 +11,48 @@ tags:
 - thomas-gallion
 authors:
 - admin
-alttags: "Silhouettes of figures in suits, representing officials accused of misconduct and abuse of power as detailed in this article"
+alttags: Silhouettes of figures in suits, representing officials accused of misconduct and abuse of power as detailed in this article
+related_articles:
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 85
+  rank: 1
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 2
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 85
+  rank: 3
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 4
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 75
+  rank: 5
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 75
+  rank: 6
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 65
+  rank: 7
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 65
+  rank: 8
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65
+  rank: 9
+- slug: scary
+  title: SCARY
+  score: 60
+  rank: 10
 ---
 9/11 let us never forget, over 3000 lives lost. Today we face another tragedy, Covid-19, which is claiming in the United States, 6000 lives a week, 192,000 to date, Think about that.
 

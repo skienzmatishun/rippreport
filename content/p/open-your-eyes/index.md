@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Cartoon eyes suggesting someone is being manipulated or controlled, referencing the article’s claim about Governor Ivey"
+alttags: Cartoon eyes suggesting someone is being manipulated or controlled, referencing the article’s claim about Governor Ivey
+related_articles:
+- slug: insanity-2
+  title: INSANITY
+  score: 95
+  rank: 1
+- slug: insanity
+  title: INSANITY
+  score: 85
+  rank: 2
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 85
+  rank: 3
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 85
+  rank: 4
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 5
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 70
+  rank: 6
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65
+  rank: 7
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 65
+  rank: 8
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 65
+  rank: 9
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 50
+  rank: 10
 ---
 Alabama has been electing only Republicans for years, regardless of that candidates credentials, just as long as he or she is a republican. The straight ticket voters, unwittingly, are responsible for electing corrupt officials who simply rode the straight ticket into office.
 

@@ -11,7 +11,48 @@ tags:
 summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
 authors:
 - admin
-alttags: "Fairhope City Council candidate Troy Vickers at a table with constituents, promoting strong values and local solutions"
+alttags: Fairhope City Council candidate Troy Vickers at a table with constituents, promoting strong values and local solutions
+related_articles:
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 100
+  rank: 1
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 100
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 95
+  rank: 3
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 95
+  rank: 4
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 90
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 6
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 8
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 9
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 10
 ---
 I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman <a href="https://www.google.com/search?q=site%3Arippreport.com+jack+burrell">Jack Burrell</a>. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all. But here is a few:
 

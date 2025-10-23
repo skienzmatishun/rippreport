@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Scrabble tiles spelling LOSER amidst a scattered pile, symbolizing challenges to injustice and corruption investigated b..."
+alttags: Scrabble tiles spelling LOSER amidst a scattered pile, symbolizing challenges to injustice and corruption investigated b...
+related_articles:
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 85
+  rank: 1
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75
+  rank: 2
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 3
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75
+  rank: 4
+- slug: hate
+  title: HATE
+  score: 65
+  rank: 5
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 6
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 7
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 60
+  rank: 8
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 60
+  rank: 9
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 55
+  rank: 10
 ---
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys, we can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.
 

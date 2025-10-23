@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Bathroom interior; likely a recovery space after multiple surgeries related to Agent Orange exposure and recent shoulder i..."
+alttags: Bathroom interior; likely a recovery space after multiple surgeries related to Agent Orange exposure and recent shoulder i...
+related_articles:
+- slug: exposure-2
+  title: EXPOSURE
+  score: 95
+  rank: 1
+- slug: im-back-2
+  title: I'M BACK
+  score: 75
+  rank: 2
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: combat
+  title: COMBAT
+  score: 75
+  rank: 4
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 5
+- slug: do-your-job-pass-the-budget
+  title: DO YOUR JOB, PASS THE BUDGET
+  score: 70
+  rank: 6
+- slug: recovery
+  title: RECOVERY
+  score: 65
+  rank: 7
+- slug: backstory-podcast-16-the-jack-wilson-complex
+  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
+  score: 65
+  rank: 8
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 60
+  rank: 9
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 52
+  rank: 10
 ---
 The Ripp Report is back. Sorry for missing a week but some old injuries caught up with me, I suffered a body concussion in Vietnam, 50 years ago, as a result I have had 14 surgeries, two infections, a muscle tear and my kidney removed, Agent Orange. My operation Dec. 2017, a total reverse shoulder, went well for 4 months, then I discovered slippage in the shoulder. July 20th I had surgery to correct that and discovered that the shoulder was infected. Now I am having to deal with recovery and daily infusions for a month. My other shoulder is scheduled for a total reverse Dec. of this year, providing all current conditions are cleared up. That is my excuse for missing last week posts, it is the first weeks posts that The Ripp Report has missed in several years. So I am back, not quite 100%, but getting better every week.
 

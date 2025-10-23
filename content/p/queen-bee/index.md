@@ -17,7 +17,48 @@ tags:
 - triangle-lawsuit
 authors:
 - admin
-alttags: "Fairhope Mayor Sullivan dressed as a bee surrounded by money, referencing the article’s metaphor about rewards and politic..."
+alttags: Fairhope Mayor Sullivan dressed as a bee surrounded by money, referencing the article’s metaphor about rewards and politic...
+related_articles:
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 85
+  rank: 1
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 2
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 85
+  rank: 3
+- slug: one-woman
+  title: ONE WOMAN
+  score: 80
+  rank: 4
+- slug: honey-bees
+  title: HONEY BEES
+  score: 75
+  rank: 5
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 75
+  rank: 6
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 75
+  rank: 7
+- slug: i-quit
+  title: I QUIT
+  score: 70
+  rank: 8
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 70
+  rank: 9
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 70
+  rank: 10
 ---
 Fairhope you made the biggest mistake voters could make, you let the bees eat the honey. Only 15% of the registered voters decided who would become Mayor of Fairhope.
 

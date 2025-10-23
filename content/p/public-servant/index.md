@@ -6,7 +6,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Crowd silhouette cheering, supporting Jerry Carl’s campaign for Alabama’s First Congressional District"
+alttags: Crowd silhouette cheering, supporting Jerry Carl’s campaign for Alabama’s First Congressional District
+related_articles:
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 95
+  rank: 1
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 90
+  rank: 2
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 85
+  rank: 3
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 85
+  rank: 4
+- slug: runoff
+  title: RUNOFF
+  score: 85
+  rank: 5
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 75
+  rank: 6
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 75
+  rank: 7
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 65
+  rank: 8
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 65
+  rank: 9
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 65
+  rank: 10
 ---
 Today’s Freaky Friday is a post by Doug Snow with the Facebook group [Baldwin County Citizens for Accountability](https://www.facebook.com/groups/1593293237549165/).
 

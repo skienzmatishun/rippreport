@@ -13,7 +13,48 @@ tags:
 - jeff-boyd
 authors:
 - ripp-report
-alttags: "Vintage photo of a bomber dropping bombs over mountains, hinting at potential political fallout ahead of an election"
+alttags: Vintage photo of a bomber dropping bombs over mountains, hinting at potential political fallout ahead of an election
+related_articles:
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 1
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 2
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 85
+  rank: 3
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 4
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 5
+- slug: countdown
+  title: COUNTDOWN
+  score: 75
+  rank: 6
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 70
+  rank: 7
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 65
+  rank: 8
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 65
+  rank: 9
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 65
+  rank: 10
 ---
 Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on [tips to the Rippster](https://rippreport.com/contact/) in the hopes of finding out who’s in hot water. Something tells me that the next couple of weeks leading up to the primary election June 5, is going to be very interesting. Stay Tuned.
 

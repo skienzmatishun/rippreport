@@ -15,7 +15,48 @@ tags:
 - robinson
 authors:
 - admin
-alttags: "Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials"
+alttags: Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials
+related_articles:
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 90
+  rank: 1
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 90
+  rank: 2
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 90
+  rank: 3
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 4
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 75
+  rank: 5
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 75
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 70
+  rank: 7
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65
+  rank: 8
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 65
+  rank: 9
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 65
+  rank: 10
 ---
 Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama and our elected officials are more interested in special interests than their constituents.
 

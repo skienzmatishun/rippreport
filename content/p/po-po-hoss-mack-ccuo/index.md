@@ -10,7 +10,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office"
+alttags: Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office
+related_articles:
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 95
+  rank: 1
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 95
+  rank: 2
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 95
+  rank: 3
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 92
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 90
+  rank: 5
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 6
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 7
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 8
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 85
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 10
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.
 

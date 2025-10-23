@@ -6,7 +6,48 @@ categories:
 - authors
 authors:
 - ripp-report
-alttags: "Map outline of Florida highlighting coastal areas impacted by population growth and infrastructure challenges"
+alttags: Map outline of Florida highlighting coastal areas impacted by population growth and infrastructure challenges
+related_articles:
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 85
+  rank: 1
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 85
+  rank: 2
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 75
+  rank: 3
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 75
+  rank: 4
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 70
+  rank: 5
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 70
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 70
+  rank: 7
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 65
+  rank: 8
+- slug: survey
+  title: SURVEY
+  score: 65
+  rank: 9
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 60
+  rank: 10
 ---
 Submitted by: <a href="#">Chris Warner</a>
 

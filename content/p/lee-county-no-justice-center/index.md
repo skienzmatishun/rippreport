@@ -9,7 +9,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme..."
+alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
+related_articles:
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 65
+  rank: 1
+- slug: justified
+  title: JUSTIFIED
+  score: 65
+  rank: 2
+- slug: no-justice
+  title: NO JUSTICE
+  score: 65
+  rank: 3
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 65
+  rank: 4
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 60
+  rank: 5
+- slug: repeat
+  title: REPEAT
+  score: 55
+  rank: 6
+- slug: police-report
+  title: POLICE REPORT
+  score: 50
+  rank: 7
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 50
+  rank: 8
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 50
+  rank: 9
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 45
+  rank: 10
 ---
 Have you noticed how a lot of communities are now building Justice Centers? Sounds like a good idea until you look a little closer and see the fraternity atmosphere. It is the police domain just like the courthouses. The police are in charge and they are armed to the teeth, where no one is armed? The Judges feel secure with such protection as well as the District Attorney and their minions. Pay attention and you will see all the same people at lunch somewhere, or surly in Church.
 

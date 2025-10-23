@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Fairhope’s growth presents a choice: support new leadership or face challenges due to rapid development"
+alttags: 'Fairhope’s growth presents a choice: support new leadership or face challenges due to rapid development'
+related_articles:
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 100
+  rank: 1
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 2
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 3
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 4
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 6
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 7
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 8
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 65
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65
+  rank: 10
 ---
 Fairhope you have two choices. Believe in Mayor Wilson and her ideas on infrastructure and growth or follow a city council who has demonstrated no leadership, has adopted the theme of no action, is in denial of facts, and refuses to adapt to changing demographics, or change period.
 

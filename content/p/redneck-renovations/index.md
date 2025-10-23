@@ -13,7 +13,48 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: "A Redneck Repair Kit including WD-40 and duct tape, symbolizing a short-sighted fix for Fairhope’s waterfront park project"
+alttags: A Redneck Repair Kit including WD-40 and duct tape, symbolizing a short-sighted fix for Fairhope’s waterfront park project
+related_articles:
+- slug: invitation
+  title: INVITATION
+  score: 90
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 2
+- slug: pied-piper
+  title: PIED PIPER
+  score: 90
+  rank: 3
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 4
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 85
+  rank: 5
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 85
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 7
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 8
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 75
+  rank: 9
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 65
+  rank: 10
 ---
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 

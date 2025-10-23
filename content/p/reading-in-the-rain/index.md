@@ -11,7 +11,48 @@ tags:
 - thomas-gallion
 authors:
 - admin
-alttags: "An open book sheltered by an umbrella, symbolizing reading as protection from corruption and deceptive narratives in politics"
+alttags: An open book sheltered by an umbrella, symbolizing reading as protection from corruption and deceptive narratives in politics
+related_articles:
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 85
+  rank: 1
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 2
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 85
+  rank: 3
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 85
+  rank: 4
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 75
+  rank: 5
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 75
+  rank: 6
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 75
+  rank: 7
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 75
+  rank: 8
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 70
+  rank: 9
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 50
+  rank: 10
 ---
 You're stuck inside. How about doing a little reading? It may educate you on why Alabama is number one, in corruption and religion, in the United States. That combination labels us as hypocrites. You see religion is the tool of crooked politicians and they use the church to lure you into false narratives for their personal gain.
 

@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Stay home icon representing public health guidance amid rising COVID-19 cases and debate over shelter-in-place orders"
+alttags: Stay home icon representing public health guidance amid rising COVID-19 cases and debate over shelter-in-place orders
+related_articles:
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 85
+  rank: 1
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 75
+  rank: 2
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 75
+  rank: 3
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 65
+  rank: 4
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 65
+  rank: 5
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 65
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 60
+  rank: 7
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 50
+  rank: 8
+- slug: shut-up-2
+  title: SHUT UP
+  score: 50
+  rank: 9
+- slug: on-vacation
+  title: ON VACATION
+  score: 40
+  rank: 10
 ---
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.
 

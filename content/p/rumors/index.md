@@ -14,7 +14,48 @@ tags:
 - Hoss Mack
 authors:
 - admin
-alttags: "Confused faces on phones arranged in a circle, symbolizing confusion surrounding O.J. French’s shooting by Bay Minette Police"
+alttags: Confused faces on phones arranged in a circle, symbolizing confusion surrounding O.J. French’s shooting by Bay Minette Police
+related_articles:
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 95
+  rank: 1
+- slug: justified
+  title: JUSTIFIED
+  score: 95
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 90
+  rank: 3
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 85
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85
+  rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 7
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 85
+  rank: 8
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 75
+  rank: 9
+- slug: no-justice
+  title: NO JUSTICE
+  score: 75
+  rank: 10
 ---
 O.J. French was only 32 years old when he was shot and killed after being pulled over for a vehicle equipment violation by Bay Minette Police, August 20th of this year. Our deepest condolences to his family and friends.
 

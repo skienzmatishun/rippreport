@@ -1,17 +1,57 @@
 ---
-title: "PAY EXECUTIVES FIRST — BOY SCOUTS COME LAST"
+title: PAY EXECUTIVES FIRST — BOY SCOUTS COME LAST
 date: 2016-08-03
-thumbnail: "img/pay-executives-first-boy-scouts-last.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boy-scouts
-  - phil-webb
-  - tucker-dorsey
-authors: 
-  - ripp-report
+thumbnail: img/pay-executives-first-boy-scouts-last.jpg
+categories:
+- wonderful-wednesday
+tags:
+- boy-scouts
+- phil-webb
+- tucker-dorsey
+authors:
+- ripp-report
+related_articles:
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 75
+  rank: 1
+- slug: fire
+  title: FIRE
+  score: 70
+  rank: 2
+- slug: comment-are-you-surprised-at-all
+  title: 'Comment: Are You Surprised at all??????'
+  score: 70
+  rank: 3
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 70
+  rank: 4
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 65
+  rank: 5
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 55
+  rank: 6
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 50
+  rank: 7
+- slug: do-your-job-pass-the-budget
+  title: DO YOUR JOB, PASS THE BUDGET
+  score: 50
+  rank: 8
+- slug: honey-bees
+  title: HONEY BEES
+  score: 50
+  rank: 9
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 50
+  rank: 10
 ---
-
 "HARD FACTS" Baldwin County Commissioner, Tucker Dorsey, along with fellow Mobile Area Boy Scout Board of Directors, has released that the Local Council again lost almost $200,000 for 2015. Making the average yearly loss since 2008— and for the past 9 years, of over $200,000 each year — along with even having one year topping the $311,000 mark.
 
 When asked about the loss, Baldwin County Commission and Executive Board Member, could not give a reason other than stating it is even hard for him to understand how the Mobile Area Council could lose so much money every year (average of over $200,000) for that length (9 years in a row) without someone doing anything at all about it.

@@ -18,7 +18,48 @@ tags:
 - sherry-sullivan
 authors:
 - admin
-alttags: "Jester in purple costume holding money and staff, circled by a no catalyst symbol; represents unproductive Fairhope city..."
+alttags: Jester in purple costume holding money and staff, circled by a no catalyst symbol; represents unproductive Fairhope city...
+related_articles:
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 92
+  rank: 1
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 90
+  rank: 2
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 3
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 4
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 85
+  rank: 5
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 85
+  rank: 6
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 85
+  rank: 7
+- slug: i-quit-and-will-quit-again
+  title: I QUIT AND WILL QUIT AGAIN
+  score: 75
+  rank: 8
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 75
+  rank: 9
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 65
+  rank: 10
 ---
 The Fairhope City Council that served during the last cycle, 2016/2020 was the least productive of any council in recent memory. Most of the council,3 B’s, used their public office for personal gain.
 

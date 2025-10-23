@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Peace symbol representing kindness and caring, encouraging acts of generosity as described in this article"
+alttags: Peace symbol representing kindness and caring, encouraging acts of generosity as described in this article
+related_articles:
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 85
+  rank: 1
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 85
+  rank: 2
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 70
+  rank: 3
+- slug: happy-thanksgiving-3
+  title: Happy Thanksgiving
+  score: 65
+  rank: 4
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 65
+  rank: 5
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 60
+  rank: 6
+- slug: happy-thanksgiving
+  title: Happy Thanksgiving!
+  score: 54
+  rank: 7
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 50
+  rank: 8
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 40
+  rank: 9
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 40
+  rank: 10
 ---
 ## RANDOM ACTS OF KINDNESS
 

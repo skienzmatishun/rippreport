@@ -1,17 +1,57 @@
 ---
-title: "HAIR ON FIRE"
+title: HAIR ON FIRE
 date: 2023-05-18
 tags:
-  - Ethics Commission
-  - Albritton
-  - Elliott
-categories: 
-  - ethics
-thumbnail: "img/chris-fire.jpg"
-authors: 
-  - ripp-report
+- Ethics Commission
+- Albritton
+- Elliott
+categories:
+- ethics
+thumbnail: img/chris-fire.jpg
+authors:
+- ripp-report
+related_articles:
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 95
+  rank: 1
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 85
+  rank: 2
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 3
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 85
+  rank: 4
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 75
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75
+  rank: 6
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 70
+  rank: 7
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 65
+  rank: 8
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 65
+  rank: 9
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 65
+  rank: 10
 ---
-
 DUI, Tax man and rouge State Senator Chris Elliott has lost more than his hair. He is again carrying the water for Sheriff Hoss Mack. Oh, by the way Elliott's wife has worked for the sheriff since Chris was elected to office in Baldwin County. Sheriff Hoss Mack is the political director behind anything happening in Baldwin County.
 
 The fifth commissioner may be a good idea but allowing Elliott to spearhead this attempt should set fire to your hair. Elliott does not have that problem. The local opposition to this legislation is overwhelming. The voters should decide not Chris Elliott.

@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Floral tribute of white roses and lilies, a memento honoring the memory of dear friend Raymond Watkins"
+alttags: Floral tribute of white roses and lilies, a memento honoring the memory of dear friend Raymond Watkins
+related_articles:
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 75
+  rank: 1
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 75
+  rank: 2
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 75
+  rank: 3
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 75
+  rank: 4
+- slug: memorial-day-3
+  title: Memorial Day
+  score: 65
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 50
+  rank: 6
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 50
+  rank: 7
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 45
+  rank: 8
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 40
+  rank: 9
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 30
+  rank: 10
 ---
 RAYMOND WATKINS
 

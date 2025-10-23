@@ -15,7 +15,48 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: "Hand raised in a slapping gesture against a stark background, symbolizing corruption and injustice in the judicial system"
+alttags: Hand raised in a slapping gesture against a stark background, symbolizing corruption and injustice in the judicial system
+related_articles:
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 90
+  rank: 1
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 85
+  rank: 2
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 85
+  rank: 3
+- slug: loser
+  title: LOSER
+  score: 75
+  rank: 4
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 75
+  rank: 5
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 75
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 7
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 8
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 65
+  rank: 9
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 65
+  rank: 10
 ---
 Baldwin County citizens have just been slapped in the face. Want to know why Alabama is number one in corruption and the butt of jokes? It is because the judicial system stinks and people with power or money, WALK.
 

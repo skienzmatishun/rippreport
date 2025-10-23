@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Fairhope Councilman Robinson depicted with marbles in his mouth, referencing criticism about his speaking style"
+alttags: Fairhope Councilman Robinson depicted with marbles in his mouth, referencing criticism about his speaking style
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 85
+  rank: 1
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 2
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 70
+  rank: 3
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 70
+  rank: 4
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 65
+  rank: 5
+- slug: communication
+  title: COMMUNICATION
+  score: 65
+  rank: 6
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 7
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 65
+  rank: 8
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 65
+  rank: 9
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 65
+  rank: 10
 ---
 Fairhope’s City Council started out, day one, as being obstructionist. They have stayed the course for over 3 years and the taxpayers have paid dearly.
 

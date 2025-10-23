@@ -8,7 +8,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "State Senator Chris Elliott holds his passport, linked to a bill for travel expenses and potential political leverage"
+alttags: State Senator Chris Elliott holds his passport, linked to a bill for travel expenses and potential political leverage
+related_articles:
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 75
+  rank: 1
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 75
+  rank: 2
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 75
+  rank: 3
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 65
+  rank: 4
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 65
+  rank: 5
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 65
+  rank: 6
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 65
+  rank: 7
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 65
+  rank: 8
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 55
+  rank: 9
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 50
+  rank: 10
 ---
 State Senator Chris Elliott, aka TAX MAN, needs tax money to travel, so he co-sponsored a bill for his travel expenses. The newly elected State Senator is rumored to have used the proposed travel expenditure to strong arm other legislators, by holding up other bills being considered. It is not nice to piss off Goat Hill, especially when your a lamb.
 

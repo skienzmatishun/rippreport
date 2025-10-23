@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Illustration of an ornate hand mirror, symbolizing scrutiny of Alabama senate primary candidates and questionable politica..."
+alttags: Illustration of an ornate hand mirror, symbolizing scrutiny of Alabama senate primary candidates and questionable politica...
+related_articles:
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 85
+  rank: 1
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 85
+  rank: 2
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 85
+  rank: 3
+- slug: qualification
+  title: QUALIFICATION
+  score: 85
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 5
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 75
+  rank: 6
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 7
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 75
+  rank: 8
+- slug: countdown
+  title: COUNTDOWN
+  score: 72
+  rank: 9
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 65
+  rank: 10
 ---
 Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote.
 

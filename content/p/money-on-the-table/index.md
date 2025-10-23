@@ -20,7 +20,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Stack of $100 bills representing the $6.2 million Fairhope Waterfront Project budget finally on the drawing board"
+alttags: Stack of $100 bills representing the $6.2 million Fairhope Waterfront Project budget finally on the drawing board
+related_articles:
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 95
+  rank: 1
+- slug: invitation
+  title: INVITATION
+  score: 90
+  rank: 2
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 3
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 85
+  rank: 4
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 85
+  rank: 5
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 85
+  rank: 6
+- slug: water
+  title: Water
+  score: 85
+  rank: 7
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 70
+  rank: 8
+- slug: stepping-up
+  title: STEPPING UP
+  score: 65
+  rank: 9
+- slug: pied-piper
+  title: PIED PIPER
+  score: 65
+  rank: 10
 ---
 It is no secret that the Fairhope City Council is CATALYST through and through. It is also well documented that the council opposes, procrastinates or just refuses anything the Mayor may propose. Even projects that have been previously endorsed by the council, are delayed or canceled by the council.
 

@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Alabama US Senate primary election button: red, white, and blue design with stars and VOTE text"
+alttags: 'Alabama US Senate primary election button: red, white, and blue design with stars and VOTE text'
+related_articles:
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 85
+  rank: 1
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 85
+  rank: 2
+- slug: countdown
+  title: COUNTDOWN
+  score: 85
+  rank: 3
+- slug: election-ad
+  title: ELECTION AD
+  score: 85
+  rank: 4
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 75
+  rank: 5
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 75
+  rank: 6
+- slug: blind-voting-straight-ticket
+  title: BLIND VOTING STRAIGHT TICKET
+  score: 75
+  rank: 7
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65
+  rank: 8
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 9
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 65
+  rank: 10
 ---
 The US Senate seat sought by a total of 19 candidates, 11 Republicans and 8 Democrats, primary is less than 4 days away.
 

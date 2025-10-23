@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and..."
+alttags: Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and...
+related_articles:
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 1
+- slug: s-o-s
+  title: S.O.S
+  score: 85
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 3
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 5
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 6
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 85
+  rank: 7
+- slug: water
+  title: Water
+  score: 75
+  rank: 8
+- slug: survey
+  title: SURVEY
+  score: 75
+  rank: 9
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 70
+  rank: 10
 ---
 Long before Fairhope Mayor Wilson even thought about running for office, Fairhope had major infrastructure and sewer problems. Baykeeper was contacted time and time again through the years about various issues. I know because I called. Now the Director of Baykeeper is claiming that all you got to do, if you have an environmental problem, is to contact Baykeeper.
 

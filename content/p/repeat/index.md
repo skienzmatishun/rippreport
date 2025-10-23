@@ -8,7 +8,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Recurring cycle symbol representing repeating issues in Baldwin County politics, referencing the article’s “Freaky Friday”..."
+alttags: Recurring cycle symbol representing repeating issues in Baldwin County politics, referencing the article’s “Freaky Friday”...
+related_articles:
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 90
+  rank: 1
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 90
+  rank: 2
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 85
+  rank: 3
+- slug: timeline
+  title: TIMELINE
+  score: 85
+  rank: 4
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 75
+  rank: 6
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 7
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 75
+  rank: 8
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 75
+  rank: 9
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 65
+  rank: 10
 ---
 Freaky Friday is a repeat of Jan 1st. Please read carefully the post it is not fiction or a conspiracy theory.
 

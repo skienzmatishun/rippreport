@@ -8,7 +8,48 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: "Chucky doll depicted in a hallucination after surgery, referencing an imagined award for freedom of information reporting"
+alttags: Chucky doll depicted in a hallucination after surgery, referencing an imagined award for freedom of information reporting
+related_articles:
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 1
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 2
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 75
+  rank: 3
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 70
+  rank: 4
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 5
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 65
+  rank: 6
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 65
+  rank: 7
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 8
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 65
+  rank: 9
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 65
+  rank: 10
 ---
 I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations.
 

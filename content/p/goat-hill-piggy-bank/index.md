@@ -11,7 +11,48 @@ tags:
 - orange-beach
 authors:
 - ripp-report
-alttags: "Piggy bank receiving coins, symbolizing Baldwin County funds allegedly diverted for Goat Hill and tax increases"
+alttags: Piggy bank receiving coins, symbolizing Baldwin County funds allegedly diverted for Goat Hill and tax increases
+related_articles:
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 1
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 85
+  rank: 2
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 85
+  rank: 3
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 4
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 5
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 75
+  rank: 6
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 75
+  rank: 7
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 65
+  rank: 8
+- slug: stepping-up
+  title: STEPPING UP
+  score: 65
+  rank: 9
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 65
+  rank: 10
 ---
 Baldwin County is the piggy-Bank for Goat Hill supported by the same elected officials, we elected, to represent us. The Tax Man Chris Elliott, as a county commissioner, taxed the citizens of Baldwin County without any vote of his constituents. Mr Elliott then raided the 1% school tax to the tune of 200,000 dollars a year, for the county. He is living up to his reputation as the Tax Man by supporting the gas tax, again without any vote by the public. Over 80% of the voters opposed the gas tax. Did our elected officials listen? Hell NO. This is the political plan, tax them right after being elected, because the voters will forget in 4 years.
 

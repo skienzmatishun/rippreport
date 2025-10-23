@@ -13,7 +13,48 @@ categories:
 - other
 authors:
 - admin
-alttags: "Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects"
+alttags: Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects
+related_articles:
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 85
+  rank: 1
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 85
+  rank: 2
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 75
+  rank: 3
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 75
+  rank: 4
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 70
+  rank: 5
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 65
+  rank: 6
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 65
+  rank: 7
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 65
+  rank: 8
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 65
+  rank: 9
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 54
+  rank: 10
 ---
 Talk about shooting yourself in the foot!
 

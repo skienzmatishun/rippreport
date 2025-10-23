@@ -11,7 +11,48 @@ tags:
 - k-1-center
 authors:
 - ripp-report
-alttags: "Fairhope Council President Burrell depicted wearing a dunce cap, referencing criticism over K-1 Center deal decisions"
+alttags: Fairhope Council President Burrell depicted wearing a dunce cap, referencing criticism over K-1 Center deal decisions
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 90
+  rank: 1
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 85
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 85
+  rank: 3
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 5
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 6
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 75
+  rank: 7
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 75
+  rank: 8
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 75
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 10
 ---
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options or the best use for the K-1 Center. It was his plan or no plan.
 

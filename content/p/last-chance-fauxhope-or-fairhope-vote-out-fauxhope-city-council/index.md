@@ -17,7 +17,48 @@ tags:
 summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
 authors:
 - admin
-alttags: "Fairhope city flag with clock tower design, overlaid with lightning bolts, symbolizing controversy in local politics"
+alttags: Fairhope city flag with clock tower design, overlaid with lightning bolts, symbolizing controversy in local politics
+related_articles:
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 100
+  rank: 1
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 100
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 90
+  rank: 3
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 4
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 90
+  rank: 5
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 90
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 90
+  rank: 7
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 8
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 75
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 75
+  rank: 10
 ---
 I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell Fauxhope.s de facto Mayor Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all. Don’t believe Jack when he says if he wins it will be his last term.
 

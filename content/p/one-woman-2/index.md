@@ -1,28 +1,68 @@
 ---
-title: "ONE WOMAN"
+title: ONE WOMAN
 date: 2019-05-01
-thumbnail: "img/one-woman.png"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - beck
-  - boone
-  - brown
-  - burrell
-  - city-attorney
-  - city-council
-  - conyers
-  - dinardi
-  - mcdowell
-  - mcsharry
-  - mcsharrys
-  - municipal-court
-  - robinson
-  - ronan
-authors: 
-  - admin
+thumbnail: img/one-woman.png
+categories:
+- wonderful-wednesday
+tags:
+- beck
+- boone
+- brown
+- burrell
+- city-attorney
+- city-council
+- conyers
+- dinardi
+- mcdowell
+- mcsharry
+- mcsharrys
+- municipal-court
+- robinson
+- ronan
+authors:
+- admin
+related_articles:
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 85
+  rank: 1
+- slug: one-woman
+  title: ONE WOMAN
+  score: 85
+  rank: 2
+- slug: honeymoon
+  title: HONEYMOON
+  score: 75
+  rank: 3
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 75
+  rank: 4
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 75
+  rank: 5
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 70
+  rank: 6
+- slug: communication
+  title: COMMUNICATION
+  score: 65
+  rank: 7
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 8
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 50
+  rank: 10
 ---
-
 {{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-restaurateur-found-guilty-of-assault/article_0e5c5049-1acc-5ee1-9c28-6e7bd4dc1cea.html" >}}
 
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.

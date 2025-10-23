@@ -1,13 +1,53 @@
 ---
-title: "GOING DOWN"
+title: GOING DOWN
 date: 2019-10-18
-youtube: "HgDzN6pDwgc"
-categories: 
-  - citycouncil
-authors: 
-  - admin
+youtube: HgDzN6pDwgc
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 75
+  rank: 1
+- slug: timeline
+  title: TIMELINE
+  score: 75
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 75
+  rank: 3
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 70
+  rank: 4
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 5
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 65
+  rank: 6
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 65
+  rank: 7
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 65
+  rank: 8
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 65
+  rank: 9
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 65
+  rank: 10
 ---
-
 Baldwin County is the only county in Alabama where sewer regulations do not exist. It is also the fastest growing county in Alabama. Baldwin County also has regular sewer spills throughout the county, most spills end up in the Bay.
 
 How to fix it! Overdevelop, maintain low impact fees, promote density, and sprawl. Developers, “down home boys” and a Catalyst Council want you to understand that nothing can be done to curb the greed. The defense of developers is property rights and the argument that no one can tell anyone what they can do with their property. Forget the property rights of the citizens of the community.

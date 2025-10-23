@@ -10,7 +10,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras..."
+alttags: Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras...
+related_articles:
+- slug: bad-faith
+  title: Bad Faith
+  score: 85
+  rank: 1
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 85
+  rank: 2
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 75
+  rank: 3
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 75
+  rank: 4
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 75
+  rank: 5
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 75
+  rank: 6
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 75
+  rank: 7
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 8
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 75
+  rank: 9
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 10
 ---
 _**This is not a proven fact, it's just a collection of puzzle pieces that needs to be looked into.**_
 

@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions"
+alttags: Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions
+related_articles:
+- slug: invitation
+  title: INVITATION
+  score: 95
+  rank: 1
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 85
+  rank: 2
+- slug: s-o-s
+  title: S.O.S
+  score: 85
+  rank: 3
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 85
+  rank: 4
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 85
+  rank: 5
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 75
+  rank: 6
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 75
+  rank: 7
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 75
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 70
+  rank: 9
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 65
+  rank: 10
 ---
 Fairhope is seeing the results of a Council and Mayor more dedicated to special interests than the majority of their constitutes.
 

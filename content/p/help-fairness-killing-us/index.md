@@ -1,24 +1,64 @@
 ---
-title: "HELP - FAIRNESS IS KILLING US"
+title: HELP - FAIRNESS IS KILLING US
 date: 2017-04-28
-thumbnail: "img/help-fairness-is-killing-us.png"
-categories: 
-  - freaky-friday
-tags: 
-  - angelo-corte
-  - boone
-  - botop
-  - burrell
-  - conyers
-  - fly-creek
-  - prebble-rish
-  - robert-brown
-  - robinson
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/help-fairness-is-killing-us.png
+categories:
+- freaky-friday
+tags:
+- angelo-corte
+- boone
+- botop
+- burrell
+- conyers
+- fly-creek
+- prebble-rish
+- robert-brown
+- robinson
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: fairness
+  title: FAIRNESS
+  score: 95
+  rank: 1
+- slug: hate
+  title: HATE
+  score: 85
+  rank: 2
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 75
+  rank: 3
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 4
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 5
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 75
+  rank: 6
+- slug: fear
+  title: FEAR
+  score: 70
+  rank: 7
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 8
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 65
+  rank: 9
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 65
+  rank: 10
 ---
-
 The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for "Fairness". First, the council implements a hiring freeze to punish the mayor for firing two employees. Then they side with the developer and reject overwhelming objections from the public. This was done to be “Fair” and because of “the threat of a lawsuit.” Now the Council has moved to remove the Director of Economic and Community Development, Sherry-Lea Bloodworth-Botop, by reducing funds in the budget, thus killing the director’s job.
 
 While the council was being “Fair” by back stabbing her and eliminating her position, she was in Washington D. C. representing Fairhope. She has been working for the city for over 4 months and has relocated in Fairhope after she and her husband quit their jobs and sold their home in Washington D. C. and purchased a home in Fairhope. She has been highly professional and interacted with council and employees while avoiding any controversy whatsoever, an accomplishment in itself.

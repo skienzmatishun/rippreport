@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Fairhope, Alabama city seal featuring a pelican, sun, water drops, and a reference to alleged corruption within its council"
+alttags: Fairhope, Alabama city seal featuring a pelican, sun, water drops, and a reference to alleged corruption within its council
+related_articles:
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 1
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 3
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 85
+  rank: 4
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 75
+  rank: 5
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 6
+- slug: rotten
+  title: ROTTEN
+  score: 65
+  rank: 7
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 65
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60
+  rank: 10
 ---
 The current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope. Yet people get riled up over a curfew meant to mitigate a virus that we know little about.
 

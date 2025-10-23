@@ -9,7 +9,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Mayor Karin Wilson recognized as “Hardest Working Eastern Shore Public Official” for four consecutive years with a celebra..."
+alttags: Mayor Karin Wilson recognized as “Hardest Working Eastern Shore Public Official” for four consecutive years with a celebra...
+related_articles:
+- slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  score: 95
+  rank: 1
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 85
+  rank: 2
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 70
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 4
+- slug: game-on
+  title: GAME ON
+  score: 65
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 50
+  rank: 6
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 50
+  rank: 7
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 50
+  rank: 8
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 50
+  rank: 9
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 35
+  rank: 10
 ---
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/08/karin2.jpg)
 

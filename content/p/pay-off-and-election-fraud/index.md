@@ -7,7 +7,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "Suitcase filled with US currency, potentially representing financial interests influencing a land dispute case involving M..."
+alttags: Suitcase filled with US currency, potentially representing financial interests influencing a land dispute case involving M...
+related_articles:
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 90
+  rank: 1
+- slug: fraud
+  title: FRAUD
+  score: 85
+  rank: 2
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 85
+  rank: 3
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 85
+  rank: 4
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 85
+  rank: 5
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 6
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 75
+  rank: 7
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 75
+  rank: 8
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 65
+  rank: 9
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 65
+  rank: 10
 ---
 KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC
 

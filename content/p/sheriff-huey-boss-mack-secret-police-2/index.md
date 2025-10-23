@@ -1,15 +1,55 @@
 ---
-title: "SHERIFF HUEY “BOSS” MACK - SECRET POLICE"
+title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
 date: 2023-11-20
-thumbnail: "img/sheriff-huey-boss-secret-police.jpg"
-summary: "The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser."
-categories: 
-  - dwtd
-  - bcso
-authors: 
-  - admin
+thumbnail: img/sheriff-huey-boss-secret-police.jpg
+summary: The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.
+categories:
+- dwtd
+- bcso
+authors:
+- admin
+related_articles:
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 100
+  rank: 1
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 95
+  rank: 2
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 92
+  rank: 3
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 90
+  rank: 4
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 90
+  rank: 5
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 6
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 7
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 85
+  rank: 8
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 85
+  rank: 9
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 85
+  rank: 10
 ---
-
 The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.
 
 Ever notice how local politicians start talking about national issues when they are trying to dodge tough questions?

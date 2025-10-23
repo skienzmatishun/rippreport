@@ -1,16 +1,56 @@
 ---
-title: "SHUT UP"
+title: SHUT UP
 date: 2019-03-29
-thumbnail: "img/shut-up-2.png"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - city-council
-authors: 
-  - admin
+thumbnail: img/shut-up-2.png
+categories:
+- freaky-friday
+tags:
+- burrell
+- city-council
+authors:
+- admin
+related_articles:
+- slug: 100-voices
+  title: 100 VOICES
+  score: 95
+  rank: 1
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 90
+  rank: 2
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 3
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 85
+  rank: 4
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 75
+  rank: 5
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 75
+  rank: 6
+- slug: timeline
+  title: TIMELINE
+  score: 75
+  rank: 7
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 70
+  rank: 8
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 65
+  rank: 9
+- slug: honeymoon
+  title: HONEYMOON
+  score: 65
+  rank: 10
 ---
-
 Baldwin County’s legal system relies to much on shutting people up. Criminal acts, political misconduct, court proceedings and civil litigation are “sealed” or CONFIDENTIALITY agreements are required to settle issues. Often this allows the guilty party to go on their merry way, until the next incident. Of course money is also an ingredient to grease the wheel while keeping everything out of the eye of the public domain.
 
 How can you have any accountability or transparency if all the bad deeds are sealed? What incentive is their to do the right thing if you know you can always buy your way out and shut your accuser up.

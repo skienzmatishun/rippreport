@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "American flag waving above a civic center fountain and landscaped grounds, setting for the State of the City event"
+alttags: American flag waving above a civic center fountain and landscaped grounds, setting for the State of the City event
+related_articles:
+- slug: survey
+  title: SURVEY
+  score: 75
+  rank: 1
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 4
+- slug: stepping-up
+  title: STEPPING UP
+  score: 65
+  rank: 5
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 65
+  rank: 6
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 65
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 65
+  rank: 8
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 65
+  rank: 9
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 60
+  rank: 10
 ---
 Congratulations to the Mayor, Department heads, employees and the production staff who produced the 2019 State of the City booklet. The State of the City was presented by the Mayor last night in the civic center. It was not just a speech but an expo. Tables lined the walls representing different departments, with department heads and employees present to answer questions. The atmosphere was positive, the employees moral was high and their sense of pride was obvious.
 

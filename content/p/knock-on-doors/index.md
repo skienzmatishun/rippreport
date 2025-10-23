@@ -8,7 +8,48 @@ tags:
 - baldwin-county-commission
 authors:
 - ripp-report
-alttags: "Door knocker on a weathered door, symbolizing persistent effort needed for success despite potential rejection"
+alttags: Door knocker on a weathered door, symbolizing persistent effort needed for success despite potential rejection
+related_articles:
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 1
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 75
+  rank: 2
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 75
+  rank: 3
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 4
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 70
+  rank: 5
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 6
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 65
+  rank: 7
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 65
+  rank: 8
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 50
+  rank: 9
+- slug: notice
+  title: 'NOTICE:'
+  score: 50
+  rank: 10
 ---
 There are two types of salesman. The ones that put a sign up and wait for the phone to ring, they usually have the most bravado and produce the least. Then you have the ones that knock on doors, they are used to being turned down however they keep knocking on those doors and are the successful ones.
 

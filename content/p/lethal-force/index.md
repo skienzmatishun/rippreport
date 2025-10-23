@@ -10,7 +10,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Sheriff’s SWAT vehicle against a solid background; highlights concerns about excessive police force in Baldwin County"
+alttags: Sheriff’s SWAT vehicle against a solid background; highlights concerns about excessive police force in Baldwin County
+related_articles:
+- slug: justified
+  title: JUSTIFIED
+  score: 90
+  rank: 1
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 85
+  rank: 2
+- slug: rumors
+  title: RUMORS
+  score: 85
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 4
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 85
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
+  rank: 6
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 7
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 75
+  rank: 8
+- slug: cameras
+  title: CAMERAS
+  score: 65
+  rank: 9
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 65
+  rank: 10
 ---
 Baldwin County has a serious problem that continues to escalate without any accountability. Police using excessive force when it is not necessary. The article below is the latest of a string of incidents dating back more than 5 years that has cost 7 lives, Mr. O J French’s death is number 8. Please show up and support the family and get involved.
 

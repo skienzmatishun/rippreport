@@ -9,7 +9,48 @@ tags:
 - gabriel-tynes
 authors:
 - admin
-alttags: "Baldwin County historical marker details Alabama county history and its connection to early political figures"
+alttags: Baldwin County historical marker details Alabama county history and its connection to early political figures
+related_articles:
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 95
+  rank: 1
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 95
+  rank: 2
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 85
+  rank: 3
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 75
+  rank: 4
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 75
+  rank: 5
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 75
+  rank: 6
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 75
+  rank: 7
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 75
+  rank: 8
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 70
+  rank: 9
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 10
 ---
 Several years ago I met Attorney Harry Still, the first attorney I have met in Baldwin County with the guts to confront corruption and he has paid the price for his candor. Harry, unlike myself, has deep roots in Baldwin County and is sickened by the blatant judicial and municipal corruption that stains the legacy of this proud county. At one time there were real good ole boys that put the county first but they changed colors like chameleons. In 2010 the county government eroded into the good ole boys of today, who put special interests, like CSB, Catalyst Scott Boone Consulting, first and constituents last. Harry and I share a weekly podcast, [https://www.facebook.com/BackstoryPodcast](https://www.facebook.com/BackstoryPodcast) where we speak candidly about consumer issues and judicial corruption. This podcast, over 75 episodes, has had a chilling effect on the status quo and that has resulted in further pressure on Mr. Still. The latest issue, The McSharry case prompted Mr. Still to reflect on his heritage and bare his soul, DAMN THE STATUS QUO and DAMN CSB.
 

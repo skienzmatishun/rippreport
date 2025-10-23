@@ -1,18 +1,58 @@
 ---
-title: "GO TO HELL ETHICS"
+title: GO TO HELL ETHICS
 date: 2023-01-28
-categories: 
-  - ethics
-  - alabama
-thumbnail: "img/scale-flames.jpg"
+categories:
+- ethics
+- alabama
+thumbnail: img/scale-flames.jpg
 tags:
-  - Ethics Commission
-  - Brad Hicks
-  - Mayor Bob Wills
-authors: 
-  - admin
+- Ethics Commission
+- Brad Hicks
+- Mayor Bob Wills
+authors:
+- admin
+related_articles:
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 85
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 2
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 75
+  rank: 3
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75
+  rank: 4
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 75
+  rank: 5
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 75
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 70
+  rank: 7
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 70
+  rank: 8
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 65
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65
+  rank: 10
 ---
-
 The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions, he knows best.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZHR3C9ua5Y?start=3413" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

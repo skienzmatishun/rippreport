@@ -12,7 +12,48 @@ tags:
 summary: Every now and then you get a candidate interested in public service that is highly skilled and over qualified. Someone who is willing to use his skills he learned in private business to a position of public servant. Dr. Byrian Ramsey is one of those candidates.
 authors:
 - admin
-alttags: "Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest First” in City Council District 6"
+alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest First” in City Council District 6
+related_articles:
+- slug: qualification
+  title: QUALIFICATION
+  score: 75
+  rank: 1
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 75
+  rank: 2
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 70
+  rank: 3
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 70
+  rank: 4
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 70
+  rank: 5
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 65
+  rank: 6
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 65
+  rank: 7
+- slug: challengers-emerge-in-daphne-mayoral-race
+  title: Challengers emerge in Daphne mayoral race
+  score: 63
+  rank: 8
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 57
+  rank: 9
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 50
+  rank: 10
 ---
 Every now and then you get a candidate interested in public service that is highly skilled and over qualified. Someone who is willing to use his skills he learned in private business to a position of public servant. Dr. Byrian Ramsey is one of those candidates. He is the President of the Lake Forest property owners association and the strongest advocate of Lake Forest. Lake Forest needs someone who protects and promotes “Lake Forest First.” It is the second largest subdivision in Alabama. The Daphne Mayor and council have been stone deaf to some of the issues facing Lake Forest and Daphne, such as flooding and converting park property into commercial property. Lake Forest needs a councilman that will aggressively represent the Lake Forest community. Dr. Ramsey is that candidate, <a href="https://www.facebook.com/VoteForByrian">his Facebook page</a> and <a href="https://www.voteforbyrian.com/">VoteforByrian.com</a> have a wealth of information covering issues within Lake Forest and Daphne. He is articulate. does his research and comes with an impressive resume. Dr. Ramsey would be a breath of fresh air to a council that has ignored issues by kicking the can down the road.
 

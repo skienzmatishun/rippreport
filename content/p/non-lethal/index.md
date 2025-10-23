@@ -12,7 +12,48 @@ tags:
 - sheriff-mack
 authors:
 - admin
-alttags: "Taser X26 device shown; highlights lack of non-lethal equipment acquisition by Baldwin County police departments"
+alttags: Taser X26 device shown; highlights lack of non-lethal equipment acquisition by Baldwin County police departments
+related_articles:
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 85
+  rank: 1
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 85
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 75
+  rank: 4
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 75
+  rank: 5
+- slug: cameras
+  title: CAMERAS
+  score: 70
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 65
+  rank: 7
+- slug: rumors
+  title: RUMORS
+  score: 65
+  rank: 8
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 65
+  rank: 9
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 65
+  rank: 10
 ---
 The citizens of Baldwin County have 14 municipalities, with police departments and a sheriff’s department. For the most part they do a very good job of protecting the citizens of Baldwin County. One disturbing trend among the police and sheriff’s department is the acquisition of military weapons and the lack of any acquisition of non-lethal weapons.
 

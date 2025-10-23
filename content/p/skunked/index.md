@@ -11,7 +11,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "A skunk walks through dry grass, symbolizing how good intentions for Fairhope’s government could be spoiled by politics"
+alttags: A skunk walks through dry grass, symbolizing how good intentions for Fairhope’s government could be spoiled by politics
+related_articles:
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 1
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 2
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 85
+  rank: 3
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 85
+  rank: 4
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 85
+  rank: 5
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 6
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 78
+  rank: 7
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 75
+  rank: 8
+- slug: catalyst
+  title: CATALYST
+  score: 75
+  rank: 9
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 70
+  rank: 10
 ---
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts
 

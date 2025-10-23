@@ -6,7 +6,48 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: "Man holding his head in frustration, symbolizing Fairhope City Council’s deadlock over government change"
+alttags: Man holding his head in frustration, symbolizing Fairhope City Council’s deadlock over government change
+related_articles:
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 95
+  rank: 1
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 95
+  rank: 2
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 95
+  rank: 3
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 95
+  rank: 4
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 90
+  rank: 5
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 85
+  rank: 6
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 7
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 75
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 9
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 75
+  rank: 10
 ---
 FAIRHOPE CHANGE OF GOVERNMENT
 

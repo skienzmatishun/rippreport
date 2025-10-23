@@ -10,7 +10,48 @@ tags:
 - zundel-road
 authors:
 - ripp-report
-alttags: "Red graphic depicting a blocked public access point, referencing county officials’ actions and citizen response"
+alttags: Red graphic depicting a blocked public access point, referencing county officials’ actions and citizen response
+related_articles:
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 75
+  rank: 1
+- slug: notice
+  title: 'NOTICE:'
+  score: 75
+  rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 75
+  rank: 3
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 70
+  rank: 4
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 7
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 65
+  rank: 8
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 9
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 10
 ---
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.
 

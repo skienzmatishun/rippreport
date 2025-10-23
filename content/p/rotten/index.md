@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Fairhope, Alabama city seal featuring a bird over hills, relevant to the article about Fairhope City Council President Jac..."
+alttags: Fairhope, Alabama city seal featuring a bird over hills, relevant to the article about Fairhope City Council President Jac...
+related_articles:
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 90
+  rank: 1
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 75
+  rank: 3
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 75
+  rank: 4
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 75
+  rank: 5
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 70
+  rank: 6
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 70
+  rank: 7
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 9
+- slug: no-radar
+  title: NO RADAR
+  score: 65
+  rank: 10
 ---
 <div class="link-preview">
 

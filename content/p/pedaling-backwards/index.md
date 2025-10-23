@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Silhouette of a cyclist against a blurred background, symbolizing Fairhope City Council’s lack of progress and failed init..."
+alttags: Silhouette of a cyclist against a blurred background, symbolizing Fairhope City Council’s lack of progress and failed init...
+related_articles:
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 1
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 90
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 90
+  rank: 3
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 85
+  rank: 4
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 85
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 6
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 85
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 9
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 75
+  rank: 10
 ---
 The Fairhope City Council is in full re-election mode, for 2020, and are trying desperately to accomplish anything they can claim for a victory. So far, going on three years, they have yet to produce anything they can claim as a major accomplishment.
 

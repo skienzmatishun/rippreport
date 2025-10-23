@@ -6,7 +6,48 @@ categories:
 - stormy-saturday
 authors:
 - admin
-alttags: "Illustration depicting a magician’s hat and wand crossed out by a red circle, symbolizing lack of accountability in Baldwi..."
+alttags: Illustration depicting a magician’s hat and wand crossed out by a red circle, symbolizing lack of accountability in Baldwi...
+related_articles:
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 95
+  rank: 1
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 85
+  rank: 2
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 85
+  rank: 3
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 85
+  rank: 4
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 75
+  rank: 5
+- slug: hate
+  title: HATE
+  score: 75
+  rank: 6
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 75
+  rank: 7
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 65
+  rank: 8
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 65
+  rank: 9
+- slug: the-jester
+  title: THE JESTER
+  score: 65
+  rank: 10
 ---
 Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes. Some Judges and lawyers feel insulated from any accountability, they are shielded by an inept system that abuses it’s citizens. Ethics laws are designed to PROTECT the very elected and appointed officials that use their positions, to their advantage/
 

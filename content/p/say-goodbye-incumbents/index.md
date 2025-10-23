@@ -15,7 +15,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Multiple hands overlapping, symbolizing numerous candidates vying for Baldwin County Commissioner seats amid controversy"
+alttags: Multiple hands overlapping, symbolizing numerous candidates vying for Baldwin County Commissioner seats amid controversy
+related_articles:
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 95
+  rank: 1
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 85
+  rank: 2
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 85
+  rank: 3
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 4
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 75
+  rank: 5
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 75
+  rank: 6
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 7
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 75
+  rank: 8
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 75
+  rank: 9
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 65
+  rank: 10
 ---
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.
 

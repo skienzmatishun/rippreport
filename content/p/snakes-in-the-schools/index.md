@@ -6,7 +6,48 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: "Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake, referencing alleged questionable dealings in B..."
+alttags: Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake, referencing alleged questionable dealings in B...
+related_articles:
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 85
+  rank: 1
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 85
+  rank: 2
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 75
+  rank: 3
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 65
+  rank: 4
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 65
+  rank: 5
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 65
+  rank: 6
+- slug: scary
+  title: SCARY
+  score: 65
+  rank: 7
+- slug: jack-ass
+  title: JACK ASS
+  score: 60
+  rank: 8
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 60
+  rank: 9
+- slug: sting
+  title: Sting
+  score: 50
+  rank: 10
 ---
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County Superintendent Eddie Tyler into the Barrel. It is interesting that Jonathan Gray works for both. How can a school board consultant be drawing a pay check from the school system while he is lining his pockets with Elliott Campaign money?
 

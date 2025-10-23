@@ -6,7 +6,48 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: "Alabama election button: red, white, and blue design with stars and VOTE text, related to special election replacing Jef..."
+alttags: 'Alabama election button: red, white, and blue design with stars and VOTE text, related to special election replacing Jef...'
+related_articles:
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 85
+  rank: 1
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 85
+  rank: 2
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 75
+  rank: 3
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 4
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 65
+  rank: 5
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 65
+  rank: 6
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 65
+  rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 65
+  rank: 8
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 65
+  rank: 9
+- slug: scary
+  title: SCARY
+  score: 50
+  rank: 10
 ---
 The primary for the race is Aug.15, 2017 and the special election is Dec. 12, 2017. This election replaces Jeff Sessions, who has become the US Attorney General. However Sessions, who has been saying NO to everything for 8 years, now works for a President that only wants YES for an answer.
 

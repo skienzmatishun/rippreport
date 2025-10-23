@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Target symbol representing Jack Burrell as a recurring focus of controversy surrounding projects like the K-1 Center"
+alttags: Target symbol representing Jack Burrell as a recurring focus of controversy surrounding projects like the K-1 Center
+related_articles:
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 95
+  rank: 1
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 90
+  rank: 2
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 90
+  rank: 3
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 4
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 85
+  rank: 5
+- slug: jack-ass
+  title: JACK ASS
+  score: 85
+  rank: 6
+- slug: shut-up-2
+  title: SHUT UP
+  score: 75
+  rank: 7
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75
+  rank: 8
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 70
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 70
+  rank: 10
 ---
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
 

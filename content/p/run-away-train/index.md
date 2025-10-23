@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: "Vintage steam train traveling through Baldwin County, illustrating independent municipal systems"
+alttags: Vintage steam train traveling through Baldwin County, illustrating independent municipal systems
+related_articles:
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 85
+  rank: 1
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 75
+  rank: 2
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 75
+  rank: 3
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 70
+  rank: 4
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 70
+  rank: 5
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 65
+  rank: 6
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 65
+  rank: 7
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 65
+  rank: 8
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 9
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 65
+  rank: 10
 ---
 I apologize that The Ripp Report missed the last two Wonderful Wednesday’s, we should be back on schedule by the first of the new year.
 

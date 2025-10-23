@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011"
+alttags: South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011
+related_articles:
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 95
+  rank: 1
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 95
+  rank: 2
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 90
+  rank: 3
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 85
+  rank: 4
+- slug: dead-last
+  title: DEAD LAST
+  score: 85
+  rank: 5
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 85
+  rank: 6
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 7
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 71
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 70
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60
+  rank: 10
 ---
 This post is a little long, however I wanted everyone to get a clear picture of the B.S. the citizens of Baldwin County are being forced fed by what is called Baldwin County Economic Development Alliance.
 

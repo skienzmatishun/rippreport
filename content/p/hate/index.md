@@ -8,7 +8,48 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: "Jester’s hat illustration referencing “come fly with me” Burrell and an ethics investigation within city council conflict"
+alttags: Jester’s hat illustration referencing “come fly with me” Burrell and an ethics investigation within city council conflict
+related_articles:
+- slug: honeymoon
+  title: HONEYMOON
+  score: 85
+  rank: 1
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 75
+  rank: 2
+- slug: the-jester
+  title: THE JESTER
+  score: 75
+  rank: 3
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 75
+  rank: 4
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 5
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 6
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 75
+  rank: 7
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 75
+  rank: 8
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 65
+  rank: 9
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 65
+  rank: 10
 ---
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council's attorney. This is a common practice and is the way the city of Mobile handles similar situations. The threat of a lawsuit only arises if the council refuses and continues to obstruct the mayor. The council refused; however, when it came to “come fly with me” Burrell, when his plane was caught in an ethics investigation, the airport authority approved funds to hire an attorney for Jack. This is the council's definition of FAIRNESS. Take note.
 

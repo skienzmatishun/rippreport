@@ -6,7 +6,48 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: "Man speaks at a podium with cameras present; inset shows individuals watching remotely, related to Alabama court system is..."
+alttags: Man speaks at a podium with cameras present; inset shows individuals watching remotely, related to Alabama court system is...
+related_articles:
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 100
+  rank: 1
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 95
+  rank: 2
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 75
+  rank: 3
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 75
+  rank: 4
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 75
+  rank: 5
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 75
+  rank: 6
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 75
+  rank: 7
+- slug: backstory-podcast-35-contrarians
+  title: 'BACKSTORY PODCAST #35 Contrarians'
+  score: 75
+  rank: 8
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 60
+  rank: 9
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 60
+  rank: 10
 ---
 Bruce Willis, the Star of the greatest Christmas Movie of all times: DIE HARD has Aphasia. We have have a crime problem in Alabama that begins and ends with the Ethics Laws and those who wrote them, but also those who enforce (and it's kind of a joke) as is the 3 percent of the Alabama General Fund Budget allocated to the Court System. That they then spend on secret no bid contacts. (The Patriot Act says the Court's computer system is critical infrastructure and does not have to be disclosed) And convenient for our former Lt. Governor turned mega-lobbyist Steve Windom, one third owner of said software firm; and his bride Presiding Judge of the Alabama Court of Criminal Appeals Mary Edna Windom (R-Mobile). Instead the Alabama Legislature spent it's time and resources passing laws related to transgender medications for children, don't say gay, "decisive issues prohibition" for teachers, and other issues important to get THE BASE to the polls May 24, 2022.
 

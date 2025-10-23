@@ -8,7 +8,48 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: "Letter regarding alleged election fraud in Fairhope, Alabama, supported by a witness observation"
+alttags: Letter regarding alleged election fraud in Fairhope, Alabama, supported by a witness observation
+related_articles:
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 90
+  rank: 1
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 90
+  rank: 2
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 90
+  rank: 3
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 4
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 85
+  rank: 5
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 85
+  rank: 6
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75
+  rank: 7
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 70
+  rank: 8
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 65
+  rank: 9
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 65
+  rank: 10
 ---
 This is another letter about election fraud in Fairhope. There are several filed with the Alabama Sec. of State, Election Division.
 

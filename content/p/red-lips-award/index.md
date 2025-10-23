@@ -20,7 +20,48 @@ tags:
 - Cliff McCollum
 authors:
 - ripp-report
-alttags: "Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete..."
+alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
+related_articles:
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 95
+  rank: 1
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 85
+  rank: 2
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 3
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 85
+  rank: 4
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 75
+  rank: 5
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 75
+  rank: 6
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 75
+  rank: 7
+- slug: war
+  title: WAR
+  score: 65
+  rank: 8
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 65
+  rank: 9
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 65
+  rank: 10
 ---
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!
 

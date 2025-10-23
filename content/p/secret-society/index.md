@@ -23,7 +23,48 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: "Emoji face with zipper over mouth, symbolizing secrecy and hidden information related to Baldwin County’s political cabal"
+alttags: Emoji face with zipper over mouth, symbolizing secrecy and hidden information related to Baldwin County’s political cabal
+related_articles:
+- slug: deja-vu
+  title: Deja Vu
+  score: 100
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 85
+  rank: 3
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 85
+  rank: 4
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 75
+  rank: 5
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 7
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 75
+  rank: 8
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 75
+  rank: 9
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 65
+  rank: 10
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.
 

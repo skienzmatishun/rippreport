@@ -8,7 +8,48 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: "Road sign pointing towards Corruption, illustrating the article’s claim about widespread corruption in Alabama leadership"
+alttags: Road sign pointing towards Corruption, illustrating the article’s claim about widespread corruption in Alabama leadership
+related_articles:
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 89
+  rank: 1
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 85
+  rank: 2
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 85
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 4
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 82
+  rank: 5
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 78
+  rank: 6
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 75
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 70
+  rank: 8
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 70
+  rank: 9
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 65
+  rank: 10
 ---
 WELCOME TO ALABAMA
 

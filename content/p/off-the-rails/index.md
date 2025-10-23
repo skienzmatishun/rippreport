@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C..."
+alttags: Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C...
+related_articles:
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 85
+  rank: 1
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 85
+  rank: 2
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 75
+  rank: 3
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 75
+  rank: 4
+- slug: wetlands
+  title: WETLANDS
+  score: 75
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 8
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 70
+  rank: 9
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 70
+  rank: 10
 ---
 JANUARY 10 2020 BACKSTORY PODCAST TODAY
 

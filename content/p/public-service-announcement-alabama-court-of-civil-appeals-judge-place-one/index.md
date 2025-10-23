@@ -9,7 +9,48 @@ tags:
 - family court
 authors:
 - ripp-report
-alttags: "Illustration depicting a woman in judicial robes and a witch hat standing behind scales of justice, marked with a no cata..."
+alttags: Illustration depicting a woman in judicial robes and a witch hat standing behind scales of justice, marked with a no cata...
+related_articles:
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 85
+  rank: 1
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 85
+  rank: 2
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 85
+  rank: 3
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 78
+  rank: 4
+- slug: exposure
+  title: EXPOSURE
+  score: 70
+  rank: 5
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 65
+  rank: 6
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 65
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 65
+  rank: 8
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65
+  rank: 9
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 65
+  rank: 10
 ---
 ALABAMA BEWARE OF THE CATALYST QUEEN
 

@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Pile of U.S. dollar bills, referencing concerns about financial interests influencing local politics and gas tax debates"
+alttags: Pile of U.S. dollar bills, referencing concerns about financial interests influencing local politics and gas tax debates
+related_articles:
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 90
+  rank: 1
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 85
+  rank: 2
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 85
+  rank: 3
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 85
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 85
+  rank: 5
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 85
+  rank: 6
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 75
+  rank: 7
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 75
+  rank: 8
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 75
+  rank: 9
+- slug: stepping-up
+  title: STEPPING UP
+  score: 65
+  rank: 10
 ---
 For the last 15 years one complaint in Fairhope has been consistent. Why do I have to comply with Fairhope municipal regulations when I live outside the city limits and I cannot vote in Fairhope elections?
 

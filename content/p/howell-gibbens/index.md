@@ -13,7 +13,48 @@ tags:
 - robert-brown
 authors:
 - admin
-alttags: "Fairhope City Council candidate Howell Gibbons campaign sign urging a slowdown in growth for infrastructure and community ..."
+alttags: Fairhope City Council candidate Howell Gibbons campaign sign urging a slowdown in growth for infrastructure and community ...
+related_articles:
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 90
+  rank: 1
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 4
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 75
+  rank: 5
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 75
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 7
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 70
+  rank: 8
+- slug: i-quit
+  title: I QUIT
+  score: 65
+  rank: 9
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 10
 ---
 Where we should be…
 

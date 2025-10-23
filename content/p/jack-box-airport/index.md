@@ -1,18 +1,58 @@
 ---
-title: "JACK IN THE BOX - AIRPORT"
+title: JACK IN THE BOX - AIRPORT
 date: 2017-02-10
-thumbnail: "img/jack-in-the-box-airport.jpg"
-categories: 
-  - freaky-friday
-tags: 
-  - burrell
-  - fairhope-airport
-  - hix
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/jack-in-the-box-airport.jpg
+categories:
+- freaky-friday
+tags:
+- burrell
+- fairhope-airport
+- hix
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 95
+  rank: 1
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 90
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 3
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 85
+  rank: 4
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 5
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 75
+  rank: 6
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 75
+  rank: 7
+- slug: nuff-said
+  title: NUFF SAID
+  score: 75
+  rank: 8
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 75
+  rank: 9
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 65
+  rank: 10
 ---
-
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any investigation with the Attorney General’s office and the Ethics Commission. Your tax dollars are going to pay for the defense of the authority board members, Jack Burrell and Ray Hix, who are the focus of the complaint. Mr. Burrell is an elected official as well as a board member making him far more responsible for his actions. This will be an end run around the investigation and an attempt through judicial means to quash accountability by using attorneys to talk with attorneys who will confer with more attorneys, they are all getting paid, and come up with a very clever explanation, written by another attorney.
 
 Right now you should be thinking WTF, but wait there is more. The “top ethics attorney of Alabama is Ray Hix’s Attorney who prepared the lease in question and was paid by Mr. Hix to prepare a request of the Ethics Commission for an Advisory Opinion. The Ripp Report is still requesting a copy of that letter for our “investigation”. The Authority is hiring Mr. Hix attorney to represent the authority while Mr. Hix holds the position of Sec. Treasurer for the Authority, to investigate a legitimate complaint already in the hands of authorities.

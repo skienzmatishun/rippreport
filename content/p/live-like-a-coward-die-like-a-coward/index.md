@@ -8,7 +8,48 @@ tags:
 - mcafee
 authors:
 - admin
-alttags: "John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ..."
+alttags: John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ...
+related_articles:
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 70
+  rank: 1
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 2
+- slug: notice
+  title: 'NOTICE:'
+  score: 65
+  rank: 3
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 65
+  rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 5
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 55
+  rank: 6
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 50
+  rank: 7
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 50
+  rank: 8
+- slug: loser
+  title: LOSER
+  score: 50
+  rank: 9
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 45
+  rank: 10
 ---
 All of us have experienced people that are narcissist or sociopaths. Maybe psychopaths and the very worst possible murderers.
 

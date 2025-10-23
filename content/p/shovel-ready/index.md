@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: "Shovel illustration symbolizing empty promises and lack of progress from Baldwin County Economic Development Alliance init..."
+alttags: Shovel illustration symbolizing empty promises and lack of progress from Baldwin County Economic Development Alliance init...
+related_articles:
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 95
+  rank: 1
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 90
+  rank: 2
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 85
+  rank: 3
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 85
+  rank: 4
+- slug: holes
+  title: HOLES
+  score: 85
+  rank: 5
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 85
+  rank: 6
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 85
+  rank: 7
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 75
+  rank: 8
+- slug: victory
+  title: VICTORY
+  score: 75
+  rank: 9
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 63
+  rank: 10
 ---
 Here we go again, a lot of hot air and no results. Baldwin County Economic Development Alliance, BCEDA, sounds important doesn’t it? The CEO Lee Lawson sure can blow smoke when it comes to the mega site or when he is recruited by politicians that want a “third party” to back up one of their schemes.
 

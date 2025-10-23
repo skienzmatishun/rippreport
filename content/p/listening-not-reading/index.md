@@ -16,7 +16,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Dismissed documents with a large red X symbolize rejection of complaints against Fairhope council members, as discussed in..."
+alttags: Dismissed documents with a large red X symbolize rejection of complaints against Fairhope council members, as discussed in...
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 90
+  rank: 1
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 85
+  rank: 2
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 3
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 85
+  rank: 4
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 5
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 85
+  rank: 6
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 85
+  rank: 7
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 8
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 9
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 70
+  rank: 10
 ---
 The Fairhope City Council needs to do more reading of facts than listening to unsubstantiated statements by Council President Burrell. One thing needs to be made perfectly clear the issue of the complaint against Mr. Burrell and Mr. Hix is not going to disappear because Mr. Burrell dismisses it.
 

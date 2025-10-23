@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: "Silhouettes of five men in suits, representing a shadowy group controlling Baldwin County politics, known as Catalyst or G..."
+alttags: Silhouettes of five men in suits, representing a shadowy group controlling Baldwin County politics, known as Catalyst or G...
+related_articles:
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 95
+  rank: 1
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 95
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 3
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 95
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 95
+  rank: 5
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 95
+  rank: 6
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 90
+  rank: 7
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 8
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 85
+  rank: 9
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 75
+  rank: 10
 ---
 Baldwin County, especially Fairhope has been run by a shadow government, for many years. Good ole boys that only answer to each other, all connected by the bond to rule within. Call it Catalyst or Gumbo, referred to as the South Baldwin arm of Catalyst. Gumbo convinced Jeff Boyd to throw David Northcutt under the bus, after he had spent weeks telling us what a poor choice Elliott was. Elliott was the choice of CATAYST, the Shadow Government.
 

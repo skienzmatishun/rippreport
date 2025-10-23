@@ -6,7 +6,48 @@ categories:
 - family-court
 authors:
 - admin
-alttags: "A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat..."
+alttags: A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat...
+related_articles:
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 75
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 75
+  rank: 2
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65
+  rank: 3
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 65
+  rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 65
+  rank: 5
+- slug: exposure
+  title: EXPOSURE
+  score: 65
+  rank: 6
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 65
+  rank: 7
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 65
+  rank: 8
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 60
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 60
+  rank: 10
 ---
 ## Maternal instinct propagates disorder in the court
 

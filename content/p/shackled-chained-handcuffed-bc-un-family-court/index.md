@@ -1,13 +1,53 @@
 ---
-title: "SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT"
+title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
 date: 2021-08-21
-thumbnail: "img/shackled-chained-handcuffed-b-c-un-family-court.png"
-categories: 
-  - familycourt
-authors: 
-  - admin
+thumbnail: img/shackled-chained-handcuffed-b-c-un-family-court.png
+categories:
+- familycourt
+authors:
+- admin
+related_articles:
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 95
+  rank: 1
+- slug: exposure
+  title: EXPOSURE
+  score: 90
+  rank: 2
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 85
+  rank: 3
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 85
+  rank: 4
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 75
+  rank: 5
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 75
+  rank: 6
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 70
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 70
+  rank: 8
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 65
+  rank: 9
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 60
+  rank: 10
 ---
-
 https://rippreport.com/baldwin-county-un-family-court/
 
 I started the The Ripp Report 16 years ago as a consumer organization, handling complaints about simple consumer issues and political corruption. Political corruption and legal and ethical complaints soon overwhelmed any common consumer complaints.

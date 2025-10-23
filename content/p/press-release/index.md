@@ -1,15 +1,55 @@
 ---
-title: "PRESS RELEASE"
+title: PRESS RELEASE
 date: 2022-01-29
-categories: 
-  - Special-Report
+categories:
+- Special-Report
 tags:
-  - Harry Still
-  - Elections
-authors: 
-  - admin
+- Harry Still
+- Elections
+authors:
+- admin
+related_articles:
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 1
+- slug: runoff
+  title: RUNOFF
+  score: 75
+  rank: 2
+- slug: primary-election-may-24th
+  title: Primary Election May 24th
+  score: 75
+  rank: 3
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 70
+  rank: 4
+- slug: game-on
+  title: GAME ON
+  score: 70
+  rank: 5
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 65
+  rank: 6
+- slug: i-quit-and-will-quit-again
+  title: I QUIT AND WILL QUIT AGAIN
+  score: 65
+  rank: 7
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 65
+  rank: 8
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 65
+  rank: 9
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 65
+  rank: 10
 ---
-
 I’m Harry Still and I want to restore your faith in Alabama justice by serving as your Attorney General.
 
 I am a practical Republican not a Washington D.C. fundraiser. My home is here and I share it with all of you, my neighbors. I want to protect you from violent crime by keeping criminals locked up in Alabama prisons, not walking the streets in exchange for a few dollars or freed by federal oversight. I have waged a tireless fight against corruption in Alabama my entire adult life. I’ve never served a special interest group. For three decades, I have been serving you from the hallways of your city and county governments and in many of the Courthouses throughout Alabama.

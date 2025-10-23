@@ -15,7 +15,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "A figure opens a box releasing shadowy figures representing negative consequences, symbolizing Fairhope’s legal troubles"
+alttags: A figure opens a box releasing shadowy figures representing negative consequences, symbolizing Fairhope’s legal troubles
+related_articles:
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 90
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 3
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 4
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 85
+  rank: 5
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 6
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 85
+  rank: 7
+- slug: one-woman
+  title: ONE WOMAN
+  score: 85
+  rank: 8
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 65
+  rank: 9
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 65
+  rank: 10
 ---
 Today the phrase "to open Pandora's box" means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open all the evils fly out, only leaving the good.
 

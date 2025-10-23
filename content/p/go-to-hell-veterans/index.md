@@ -26,7 +26,48 @@ tags:
 - Ed Oliver
 authors:
 - ripp-report
-alttags: "Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b..."
+alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
+related_articles:
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 85
+  rank: 1
+- slug: war
+  title: WAR
+  score: 85
+  rank: 2
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 85
+  rank: 3
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 85
+  rank: 4
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 85
+  rank: 5
+- slug: combat
+  title: COMBAT
+  score: 75
+  rank: 6
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 70
+  rank: 7
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 65
+  rank: 8
+- slug: symbol
+  title: Veterans Day
+  score: 60
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 50
+  rank: 10
 ---
 It is official our Biden syndrome Governor aka mee ma has successfully got our elected officials to Cut the Throats of Alabama Veterans.
 

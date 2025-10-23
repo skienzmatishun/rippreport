@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Mayor Kant and Jennifer Fidler appear in Southern California, reportedly missing a planning meeting for an America in Bloo..."
+alttags: Mayor Kant and Jennifer Fidler appear in Southern California, reportedly missing a planning meeting for an America in Bloo...
+related_articles:
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 85
+  rank: 1
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 75
+  rank: 2
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 75
+  rank: 3
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 75
+  rank: 4
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 75
+  rank: 5
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 6
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 65
+  rank: 7
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 65
+  rank: 8
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 55
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 55
+  rank: 10
 ---
 **CORRECTION** Mayor Kant was not in California until Wednesday, he and Jennifer just skipped the planning and zoning meeting Monday night for no legitimate reason. Several employees have called the Eagle and informed us that the dynamic duo was in hiding. WOW what leadership. An America in Bloom vanity award in sunny Southern California was the reason Mayor Kant and Public Works Director Jennifer Fidler were conspicuously absent at this week’s planning commission meeting entertaining the controversial Fly Creek Apartment deal for the sixth time.  While Kant and Fidler, Sherry Sullivan did not make this trip, were wining and dining with the fawning politicians of coastal Arroyo Grande, the Fairhope Planning Commission sealed the fate of the dubious high-density project with a 4-2 vote.  Their two votes, in lieu of Commissioner Fogarty’s absence, were crucial.  However, the fact that the mayor turned his back on  the citizens, the developers, and property owner, at the eleventh hour of this costly, tortuous ordeal speaks volumes about his character and even more about the near future of Fairhope politics.  What is the mayor thinking? Fairhope came in second for the same award last year, out of three entries, think about it.
 

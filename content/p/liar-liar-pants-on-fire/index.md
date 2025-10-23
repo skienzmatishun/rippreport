@@ -10,7 +10,48 @@ tags:
 - ethics-commission
 authors:
 - admin
-alttags: "Burning pants symbolize corruption and deceit by Alabama legislators detailed in this article"
+alttags: Burning pants symbolize corruption and deceit by Alabama legislators detailed in this article
+related_articles:
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 95
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 90
+  rank: 2
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 85
+  rank: 3
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 85
+  rank: 4
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 85
+  rank: 5
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 85
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 7
+- slug: fire
+  title: FIRE
+  score: 75
+  rank: 8
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 75
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65
+  rank: 10
 ---
 Baldwin County legislators are having a field day under, puppet Governor, Poison Ivy. Goat Hill is throwing one bill after another in the pot of corruption. The whole time they are playing the Alabama citizens as patsies. Your elected officials are testing the gullibility of the citizens of the State.
 

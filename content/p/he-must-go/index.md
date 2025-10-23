@@ -1,13 +1,53 @@
 ---
-title: "He Must Go"
+title: He Must Go
 date: 2022-03-31
-youtube: "k7zFLkkpXHQ"
-categories: 
-  - backstory-podcast
-authors: 
-  - admin
+youtube: k7zFLkkpXHQ
+categories:
+- backstory-podcast
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 100
+  rank: 1
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 95
+  rank: 2
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 75
+  rank: 3
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 75
+  rank: 4
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 75
+  rank: 5
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 75
+  rank: 6
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 70
+  rank: 7
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 70
+  rank: 8
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 70
+  rank: 9
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 65
+  rank: 10
 ---
-
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.
 
 Attorney General Steve Marshall appeared before the Senate Judiciary Committee this week to object to the nomination of the President Joe Biden’s Nominee to the Supreme Court of the United States of America Ketanji Brown Jackson. And he got Will Smith’ed.

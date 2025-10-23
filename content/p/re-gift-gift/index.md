@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Gift box with red ribbon, symbolizing the deed of land donation discussed in Fairhope council meeting"
+alttags: Gift box with red ribbon, symbolizing the deed of land donation discussed in Fairhope council meeting
+related_articles:
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 85
+  rank: 1
+- slug: holes
+  title: HOLES
+  score: 85
+  rank: 2
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 85
+  rank: 3
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 75
+  rank: 4
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 7
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65
+  rank: 8
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 65
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 55
+  rank: 10
 ---
 ATTENTION FAIRHOPE TAXPAYERS
 

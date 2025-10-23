@@ -14,7 +14,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Montrose Hut facade features faces representing city officials debating its relocation, as discussed in the article"
+alttags: Montrose Hut facade features faces representing city officials debating its relocation, as discussed in the article
+related_articles:
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 1
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 2
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 75
+  rank: 3
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 75
+  rank: 4
+- slug: honeymoon
+  title: HONEYMOON
+  score: 75
+  rank: 5
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 75
+  rank: 6
+- slug: selective-memory
+  title: Selective Memory
+  score: 65
+  rank: 7
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 65
+  rank: 8
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 65
+  rank: 9
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 65
+  rank: 10
 ---
 You wonder why Fairhope is called FAUXHOPE? It is because nothing is what it seems. The Montrose Hut is a classic example. The city council and mayor are dancing around pretending to support Sonny Brewer who has proposed moving the hut. He is the author of The Poet Of Tolstoy Park, a novel he penned 20 years ago. Now you would think he would be the strongest advocate that it NOT be moved. The city will have to issues a permit to move the structure. The city is trying to figure a way around having to issue such a permit.
 

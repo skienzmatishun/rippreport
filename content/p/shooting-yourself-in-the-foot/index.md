@@ -10,7 +10,48 @@ categories:
 - terrific-tuesday
 authors:
 - admin
-alttags: "Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic"
+alttags: Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic
+related_articles:
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 90
+  rank: 1
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 2
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 85
+  rank: 3
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 85
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 85
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 85
+  rank: 6
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 85
+  rank: 7
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 75
+  rank: 8
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 75
+  rank: 9
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75
+  rank: 10
 ---
 The most important race in Baldwin County is District two. This commission seat is being sought after by three candidates, Steve Carney, Jonathan Armstrong and Matt McKenzie.
 

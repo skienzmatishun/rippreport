@@ -6,7 +6,48 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: "Aerial view of recreation land in Fairhope, purchased for $2.6 million but leased back for $9,000 annually"
+alttags: Aerial view of recreation land in Fairhope, purchased for $2.6 million but leased back for $9,000 annually
+related_articles:
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 95
+  rank: 1
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 90
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 90
+  rank: 3
+- slug: disposal
+  title: DISPOSAL
+  score: 85
+  rank: 4
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 85
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 6
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 75
+  rank: 7
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 75
+  rank: 8
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 65
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 10
 ---
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19.
 

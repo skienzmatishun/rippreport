@@ -9,7 +9,48 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: "Empty metal can symbolizing the closure of an investigation into the Airport scandal by authorities"
+alttags: Empty metal can symbolizing the closure of an investigation into the Airport scandal by authorities
+related_articles:
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 95
+  rank: 1
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 90
+  rank: 2
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 90
+  rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 90
+  rank: 4
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 90
+  rank: 5
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 6
+- slug: flying-high
+  title: FLYING HIGH
+  score: 85
+  rank: 7
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 85
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 9
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 85
+  rank: 10
 ---
 The Ripp Report has been reporting on the Airport scandal since Nov. 2016,
 

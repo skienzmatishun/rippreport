@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Fairhope, Alabama city seal altered with a shocked emoji face, referencing controversy surrounding local figures and an oi..."
+alttags: Fairhope, Alabama city seal altered with a shocked emoji face, referencing controversy surrounding local figures and an oi...
+related_articles:
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 85
+  rank: 1
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 3
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 4
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 85
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 6
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 75
+  rank: 7
+- slug: skunked
+  title: SKUNKED
+  score: 75
+  rank: 8
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 70
+  rank: 9
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 10
 ---
 Some really weird and scary things are going on in Fairhope. After the https://rippreport.com/ published the Oil “Slick”, seems the BP “good Vibes” guy on the paddle board, freaked out and forgot about his good vibes pledge. Some people have no sense of humor.
 

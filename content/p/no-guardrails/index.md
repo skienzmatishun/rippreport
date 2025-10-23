@@ -9,7 +9,48 @@ categories:
 - ethics
 authors:
 - ripp-report
-alttags: "Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t..."
+alttags: Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t...
+related_articles:
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 95
+  rank: 1
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 95
+  rank: 2
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 3
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 85
+  rank: 4
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 85
+  rank: 5
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 75
+  rank: 6
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 75
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 75
+  rank: 8
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 65
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65
+  rank: 10
 ---
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption. Many citizens resist any new taxes for education or infrastructure, claiming to be fiscally conservative or being fiscally responsible, all the while being robbed by elected officials.
 

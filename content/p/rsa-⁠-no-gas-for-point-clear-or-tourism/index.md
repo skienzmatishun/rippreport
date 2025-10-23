@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management"
+alttags: No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management
+related_articles:
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 75
+  rank: 1
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 70
+  rank: 2
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 70
+  rank: 3
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 70
+  rank: 4
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 65
+  rank: 5
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 65
+  rank: 6
+- slug: no-radar
+  title: NO RADAR
+  score: 65
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 8
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 60
+  rank: 9
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 50
+  rank: 10
 ---
 Several weeks ago Lagniappe published the story below:
 

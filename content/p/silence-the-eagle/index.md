@@ -9,7 +9,48 @@ categories:
 - terrific-tuesday
 authors:
 - admin
-alttags: "Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents"
+alttags: Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents
+related_articles:
+- slug: police-report
+  title: POLICE REPORT
+  score: 70
+  rank: 1
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 70
+  rank: 2
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 70
+  rank: 3
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65
+  rank: 4
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 65
+  rank: 5
+- slug: newsletter
+  title: NEWSLETTER
+  score: 65
+  rank: 6
+- slug: lee-county-no-justice-center
+  title: LEE COUNTY NO-JUSTICE CENTER
+  score: 55
+  rank: 7
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 50
+  rank: 8
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 50
+  rank: 9
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 50
+  rank: 10
 ---
 Opelika are not getting unfiltered news involving police shooting incidents. Case in point is the case of Walker Cole Barkley. On a Sunday evening July 25th, 2021, Nicole Barkley called the Auburn Police and asked for assistance. Her husband, was intoxicated and had a gun in his shirt pocket and Nicole was afraid he might hurt himself. The police arrive and are informed 4 children were inside. Within a few minutes, and children inside, the police officer fires through the door, and slight opening, 10 times, seriously wounding Cole. Cole did return fire, two wild high shots inside the house, after, the officer stopped firing and was retreating. The police officer never announced that he was a police officer and Cole who was totally intoxicated had no idea who had shot him. Wounded and bleeding profusely Cole then made a phone call for medical assistance.
 

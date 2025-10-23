@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Sign advertising the South Alabama Mega Site in Baldwin County; includes QR code & contact info, alongside a humorous OOP..."
+alttags: Sign advertising the South Alabama Mega Site in Baldwin County; includes QR code & contact info, alongside a humorous OOP...
+related_articles:
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 100
+  rank: 1
+- slug: dead-last
+  title: DEAD LAST
+  score: 85
+  rank: 2
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 85
+  rank: 3
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 85
+  rank: 4
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 75
+  rank: 5
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 75
+  rank: 6
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 70
+  rank: 7
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 70
+  rank: 8
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 70
+  rank: 9
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 65
+  rank: 10
 ---
 You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources willing to report news. There is other media but the articles published are “fluff” or so mundane and lacking of any back story, that the reader can make little sense out of the content.
 

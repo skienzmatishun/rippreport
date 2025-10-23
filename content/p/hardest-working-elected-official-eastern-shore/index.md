@@ -8,7 +8,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Golden trophy on a pedestal, representing the 2017 Nappie Award winners featured in this article about Fairhope’s mayor"
+alttags: Golden trophy on a pedestal, representing the 2017 Nappie Award winners featured in this article about Fairhope’s mayor
+related_articles:
+- slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  score: 100
+  rank: 1
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 85
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 3
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 4
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 75
+  rank: 5
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 75
+  rank: 6
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 75
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 65
+  rank: 8
+- slug: people-power
+  title: PEOPLE POWER
+  score: 65
+  rank: 9
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 65
+  rank: 10
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/news/complete-list-2017-nappie-award-winners/article_374dee96-bedd-5b49-83b5-3736908420f7.html" >}}
 

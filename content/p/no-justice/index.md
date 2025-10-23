@@ -10,7 +10,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Scales of justice against a dark background, symbolizing questions about fairness in the Murray Lawrence case investigation"
+alttags: Scales of justice against a dark background, symbolizing questions about fairness in the Murray Lawrence case investigation
+related_articles:
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 100
+  rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 2
+- slug: innocent
+  title: INNOCENT
+  score: 95
+  rank: 3
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 95
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 85
+  rank: 6
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 7
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 8
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85
+  rank: 9
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 10
 ---
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 

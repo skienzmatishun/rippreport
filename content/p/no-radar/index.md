@@ -18,7 +18,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Fairhope, Alabama city seal featuring radar design with question marks, referencing legal challenges over public speech ac..."
+alttags: Fairhope, Alabama city seal featuring radar design with question marks, referencing legal challenges over public speech ac...
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 2
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 75
+  rank: 3
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 75
+  rank: 4
+- slug: rotten
+  title: ROTTEN
+  score: 65
+  rank: 5
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 65
+  rank: 6
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 7
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 9
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 65
+  rank: 10
 ---
 One thing you can say about Fairhope City Council, is that they are consistent. Council President Jack Burrell, who has stained the seat as President of Fairhope Council for two terms, is now beginning his third term, as President. For 9 years Jack has monopolize a position that is normally shared by the whole council, but they do things different in Fairhope.
 

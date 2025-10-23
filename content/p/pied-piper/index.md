@@ -21,7 +21,48 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: "Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and..."
+alttags: Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and...
+related_articles:
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 90
+  rank: 1
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 90
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 90
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 4
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 90
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 90
+  rank: 6
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 85
+  rank: 7
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 85
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 9
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 10
 ---
 Fairhope City Council President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack Burrell considers himself a genius. He is the only one, because he leaves a trail of poor decisions, confusion, and corruption that affects his own constituents in a negative way.
 

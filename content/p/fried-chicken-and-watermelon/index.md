@@ -6,7 +6,48 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: "Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu..."
+alttags: Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu...
+related_articles:
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75
+  rank: 1
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 75
+  rank: 2
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 75
+  rank: 3
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 75
+  rank: 4
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 70
+  rank: 5
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 65
+  rank: 6
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 65
+  rank: 7
+- slug: black-hole
+  title: BLACK HOLE
+  score: 65
+  rank: 8
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 65
+  rank: 9
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 50
+  rank: 10
 ---
 Tonight the Fairhope Rotary Youth Club will be hosting Fairhope Council and members of the so called the Fairhope Comprehensive Plan.
 

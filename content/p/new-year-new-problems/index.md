@@ -12,7 +12,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Festive fireworks behind Happy 2018, reflecting Fairhopes hope for change amid political conflict"
+alttags: Festive fireworks behind Happy 2018, reflecting Fairhopes hope for change amid political conflict
+related_articles:
+- slug: fear
+  title: FEAR
+  score: 90
+  rank: 1
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 2
+- slug: victory
+  title: VICTORY
+  score: 85
+  rank: 3
+- slug: gob-coup
+  title: GOB COUP
+  score: 85
+  rank: 4
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 85
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 75
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 7
+- slug: hell-yea
+  title: HELL YEA
+  score: 75
+  rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 70
+  rank: 9
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 65
+  rank: 10
 ---
 Fairhope entered the new year hoping there would be change and cooperation among the City Council and the Mayor. The City Council has wasted an entire year trying to obstruct the newly elected Mayor and her administration. They are now faced with the city council president being sued for preventing free speech.
 

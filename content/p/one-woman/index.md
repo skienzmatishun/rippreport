@@ -19,7 +19,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Fairhope Council: Scales of Justice symbolize alleged bullying and intimidation of the Mayor by council members"
+alttags: 'Fairhope Council: Scales of Justice symbolize alleged bullying and intimidation of the Mayor by council members'
+related_articles:
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 2
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 75
+  rank: 3
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 75
+  rank: 4
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 5
+- slug: selective-memory
+  title: Selective Memory
+  score: 75
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 7
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 70
+  rank: 8
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65
+  rank: 9
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 65
+  rank: 10
 ---
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.
 

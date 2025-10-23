@@ -1,22 +1,62 @@
 ---
-title: "Justice Denied: A Wrongful Conviction Buried by Power and Politics"
+title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
 date: 2025-10-01
-thumbnail: "img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png"
-webp_animated: "img/test.webp"
-shorturl: "justice-denied"
+thumbnail: img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png
+webp_animated: img/test.webp
+shorturl: justice-denied
 tags:
-  - Murray Lawrence Jr
-  - David Whetstone
-  - Sheriff Lowery
-  - Sheriff Hoss Mack
-  - Robert Wilters
-  - BCSO
-categories: 
-  - bcso
-authors: 
-  - admin
+- Murray Lawrence Jr
+- David Whetstone
+- Sheriff Lowery
+- Sheriff Hoss Mack
+- Robert Wilters
+- BCSO
+categories:
+- bcso
+authors:
+- admin
+related_articles:
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 100
+  rank: 1
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 100
+  rank: 2
+- slug: innocent
+  title: INNOCENT
+  score: 100
+  rank: 3
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 85
+  rank: 6
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 85
+  rank: 7
+- slug: rule-32
+  title: RULE 32
+  score: 85
+  rank: 8
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 85
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 10
 ---
-
 FOR IMMEDIATE RELEASE
 
 ## Justice Denied: A Wrongful Conviction Buried by Power and Politics

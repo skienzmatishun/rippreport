@@ -1,18 +1,58 @@
 ---
-title: "PEOPLE POWER"
+title: PEOPLE POWER
 date: 2018-02-16
-thumbnail: "img/people-power.png"
-categories: 
-  - freaky-friday
-tags: 
-  - chucky
-  - robinson
-  - sewer
-  - wilson
-authors: 
-  - ripp-report
+thumbnail: img/people-power.png
+categories:
+- freaky-friday
+tags:
+- chucky
+- robinson
+- sewer
+- wilson
+authors:
+- ripp-report
+related_articles:
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 85
+  rank: 1
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 85
+  rank: 2
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 3
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 75
+  rank: 4
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 70
+  rank: 5
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 70
+  rank: 6
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 65
+  rank: 7
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 60
+  rank: 8
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 60
+  rank: 9
+- slug: shut-up-2
+  title: SHUT UP
+  score: 45
+  rank: 10
 ---
-
 Congratulations Fairhope citizens your 2276 signatures on a petition convinced the Fairhope Single Tax to back off the proposed Tuberville subdivision.
 
 [https://www.change.org/p/fairhope-city-council-save-big-head-gulley-in-fairhope-al](https://cdn.rippreport.com/wp-content/uploads/2018/02/fairhope-city-council-save-big-head-gulley-in-fairhope-al2)

@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Handshake between two figures in suits, symbolizing Ripp Report’s new ability to support political candidates"
+alttags: Handshake between two figures in suits, symbolizing Ripp Report’s new ability to support political candidates
+related_articles:
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 90
+  rank: 1
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 85
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 3
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 75
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 65
+  rank: 5
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 65
+  rank: 6
+- slug: zunk-the-skunk
+  title: ZUNK THE SKUNK
+  score: 65
+  rank: 7
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 50
+  rank: 8
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 50
+  rank: 9
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 45
+  rank: 10
 ---
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp Report/Baldwin County Legal Eagle to become more engaged in the election process by sponsoring or contributing to specific candidates.
 

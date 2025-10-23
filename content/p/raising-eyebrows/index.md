@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Fairhope City Council Attorney Marcus McDowell, linked to Catalyst and a long-standing law firm, featured in election cont..."
+alttags: Fairhope City Council Attorney Marcus McDowell, linked to Catalyst and a long-standing law firm, featured in election cont...
+related_articles:
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 95
+  rank: 1
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 90
+  rank: 2
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 85
+  rank: 3
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 5
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 85
+  rank: 6
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 85
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 9
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 10
 ---
 The Fairhope Special Election, Oct. 3, was canceled due to a technicality, and a lot of help from people related to Catalyst, Tim Can’t and the good ole boys. The Fairhope City Council Attorney, Marcus McDowell is working overtime to assist the Council, not the Mayor and not the city. Marcus is a direct descendant of the same law firm that has been on the Fairhope payroll for over 20 years. He is a Jack Burrell appointment, backed by the council and approved by Catalyst. The council refused to even consider any other law firm, they knew Marcus would have their back.
 

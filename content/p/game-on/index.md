@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Bald eagle head against an American flag background, symbolizing civic duty and encouraging voters to participate in upcom..."
+alttags: Bald eagle head against an American flag background, symbolizing civic duty and encouraging voters to participate in upcom...
+related_articles:
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 90
+  rank: 1
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 85
+  rank: 2
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 3
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 4
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 5
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 75
+  rank: 6
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 7
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 75
+  rank: 8
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 70
+  rank: 9
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 10
 ---
 This is the first day after qualification for municipal elections. During the campaign, we will endorse certain candidates that we feel put public service before personal interests. Our endorsement does not come lightly and we intend to follow up after elections to see if successful candidates live up to their word. **Please VOTE**. Check and see if you are properly registered to vote. It will only take a few minutes at the satellite courthouse in Fairhope, Board of Registrar’s.
 

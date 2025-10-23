@@ -22,7 +22,48 @@ tags:
 summary: Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption. Catalyst, aka Scott Boone Consulting, the political promoter of GOB now has the attention of the public. A Catalyst candidate is a GOB candidate, plain and simple. The GOB and Catalyst lost some front teeth in this election.
 authors:
 - admin
-alttags: "A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizing the fading influence of old-school politics in..."
+alttags: A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizing the fading influence of old-school politics in...
+related_articles:
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 95
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 2
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 95
+  rank: 3
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 92
+  rank: 4
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 90
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 90
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 90
+  rank: 7
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 90
+  rank: 8
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85
+  rank: 9
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 85
+  rank: 10
 ---
 Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption.
 

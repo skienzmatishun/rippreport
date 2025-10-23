@@ -9,7 +9,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Donkey peering over a fence, possibly symbolizing political absurdity and unexpected events discussed in the city council ..."
+alttags: Donkey peering over a fence, possibly symbolizing political absurdity and unexpected events discussed in the city council ...
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 95
+  rank: 1
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 2
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 3
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 4
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 75
+  rank: 5
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 6
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 75
+  rank: 7
+- slug: hate
+  title: HATE
+  score: 70
+  rank: 8
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 65
+  rank: 9
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 10
 ---
 Well folks, as they often say, “You can’t make this stuff up!”
 

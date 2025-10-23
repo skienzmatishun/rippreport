@@ -6,7 +6,48 @@ categories:
 - events
 authors:
 - ripp-report
-alttags: "Hurricane over Texas and Louisiana, showing storm clouds impacting coastal areas after devastating floods"
+alttags: Hurricane over Texas and Louisiana, showing storm clouds impacting coastal areas after devastating floods
+related_articles:
+- slug: missed-the-bullet
+  title: MISSED THE BULLET
+  score: 75
+  rank: 1
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 75
+  rank: 2
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 65
+  rank: 3
+- slug: free-speech
+  title: FREE SPEECH
+  score: 50
+  rank: 4
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 50
+  rank: 5
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 50
+  rank: 6
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 50
+  rank: 7
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 50
+  rank: 8
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 40
+  rank: 9
+- slug: m-i-a
+  title: M.I.A
+  score: 30
+  rank: 10
 ---
 Get down on your knees and pray for the folks in Texas and Louisiana. Thousands of people lost everything and many more thousands will be affected by the devastating effects of flood water.
 

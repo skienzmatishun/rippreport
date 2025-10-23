@@ -9,7 +9,48 @@ tags:
 - joe-davis
 authors:
 - ripp-report
-alttags: "City council member Nix shown in news footage after resigning following a failed vote, related to an inaccurate report cor..."
+alttags: City council member Nix shown in news footage after resigning following a failed vote, related to an inaccurate report cor...
+related_articles:
+- slug: i-quit
+  title: I QUIT
+  score: 85
+  rank: 1
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 85
+  rank: 2
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 80
+  rank: 3
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75
+  rank: 5
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 70
+  rank: 6
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 65
+  rank: 7
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 65
+  rank: 8
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 65
+  rank: 9
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 65
+  rank: 10
 ---
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the:
 

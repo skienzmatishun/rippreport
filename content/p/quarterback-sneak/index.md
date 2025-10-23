@@ -24,7 +24,48 @@ tags:
 - snedeker
 authors:
 - admin
-alttags: "Football represents a distraction from political issues discussed in this article about Fairhope politics"
+alttags: Football represents a distraction from political issues discussed in this article about Fairhope politics
+related_articles:
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 85
+  rank: 1
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 2
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 75
+  rank: 3
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 75
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 75
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 70
+  rank: 6
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 70
+  rank: 7
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 65
+  rank: 8
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 65
+  rank: 9
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 60
+  rank: 10
 ---
 Fairhope are you distracted enough between Inciting Insurrection, and the championship football game today? How distracted and worried have you been over Covid-19 and your kids going back to school?
 

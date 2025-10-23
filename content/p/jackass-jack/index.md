@@ -17,7 +17,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Mayor wearing a donkey mask, symbolizing criticism over Fairhope’s public gathering decision during health concerns"
+alttags: Mayor wearing a donkey mask, symbolizing criticism over Fairhope’s public gathering decision during health concerns
+related_articles:
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 95
+  rank: 1
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 90
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 90
+  rank: 3
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 4
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 85
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 85
+  rank: 6
+- slug: jack-ass
+  title: JACK ASS
+  score: 75
+  rank: 7
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 75
+  rank: 8
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 70
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65
+  rank: 10
 ---
 The Mayor of Fairhope and the City Council got hammered by the public, medical professionals and first responders over the city’s decision to have a large public gathering for the lighting of the trees.
 

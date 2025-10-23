@@ -12,7 +12,48 @@ tags:
 - preble-rish
 authors:
 - ripp-report
-alttags: "Magnifying glass over a red handprint, symbolizing scrutiny of Mayor Kant’s transition and announcements"
+alttags: Magnifying glass over a red handprint, symbolizing scrutiny of Mayor Kant’s transition and announcements
+related_articles:
+- slug: dont-throw-rocks-if-you-live-in-a-glass-house
+  title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
+  score: 90
+  rank: 1
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 85
+  rank: 2
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85
+  rank: 3
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 85
+  rank: 4
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 75
+  rank: 5
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 75
+  rank: 6
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 75
+  rank: 7
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 75
+  rank: 8
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 9
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 70
+  rank: 10
 ---
 Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor, like much of the community, is slowly coming out of shock; and he’s still taking orders from his good ole boy club and a remora-like gaggle of entitled attorneys.
 

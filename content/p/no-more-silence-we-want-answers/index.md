@@ -17,7 +17,48 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: "Podium with microphone against a town backdrop, symbolizing scrutiny of Fairhope’s Planning & Zoning Board and Mayor Kant"
+alttags: Podium with microphone against a town backdrop, symbolizing scrutiny of Fairhope’s Planning & Zoning Board and Mayor Kant
+related_articles:
+- slug: 100-voices
+  title: 100 VOICES
+  score: 92
+  rank: 1
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 90
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 3
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 85
+  rank: 4
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 85
+  rank: 5
+- slug: back-stabber
+  title: BACK STABBER
+  score: 85
+  rank: 6
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 75
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65
+  rank: 8
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 65
+  rank: 9
+- slug: shut-up
+  title: SHUT UP
+  score: 65
+  rank: 10
 ---
 QUESTIONS FOR MAYOR KANT
 

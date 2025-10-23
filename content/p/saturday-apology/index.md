@@ -7,7 +7,48 @@ categories:
 - podcast
 authors:
 - admin
-alttags: "Backstory Podcast logo: Eagle head within radiating sound waves, representing political corruption and consumer issues cov..."
+alttags: 'Backstory Podcast logo: Eagle head within radiating sound waves, representing political corruption and consumer issues cov...'
+related_articles:
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 100
+  rank: 1
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 95
+  rank: 2
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 95
+  rank: 3
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 95
+  rank: 4
+- slug: backstory-podcast-35-contrarians
+  title: 'BACKSTORY PODCAST #35 Contrarians'
+  score: 95
+  rank: 5
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 95
+  rank: 6
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 95
+  rank: 7
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 90
+  rank: 8
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 80
+  rank: 9
+- slug: big-mules
+  title: Big Mules
+  score: 75
+  rank: 10
 ---
 @BackstoryPodcast
 

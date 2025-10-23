@@ -22,7 +22,48 @@ tags:
 - trump
 authors:
 - admin
-alttags: "Men in a car looking somber, reflecting grief and loss described in the author’s recent experiences"
+alttags: Men in a car looking somber, reflecting grief and loss described in the author’s recent experiences
+related_articles:
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 85
+  rank: 1
+- slug: i-quit
+  title: I QUIT
+  score: 75
+  rank: 2
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 75
+  rank: 3
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 75
+  rank: 4
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 70
+  rank: 5
+- slug: missed-the-bullet
+  title: MISSED THE BULLET
+  score: 65
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 7
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 65
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 65
+  rank: 9
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65
+  rank: 10
 ---
 I have been Missing In Action from social media since September 15th and it feels like a year. Right before the storm, I received news of my best friend’s grandson was killed on a motorcycle. Needless to say his daughter was as devastated as he was. While sitting there trying to comprehend the loss, I got a call from the father of a gentleman I was advocating for in a property dispute. He informed me his son had become stressed out over the issue, and he had committed suicide.
 

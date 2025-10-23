@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Shovel in freshly dug earth, symbolizing Fairhope’s controversial development projects and costly grading issues"
+alttags: Shovel in freshly dug earth, symbolizing Fairhope’s controversial development projects and costly grading issues
+related_articles:
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 90
+  rank: 1
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 85
+  rank: 2
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 85
+  rank: 3
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 85
+  rank: 4
+- slug: flying-high
+  title: FLYING HIGH
+  score: 85
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 85
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 7
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 75
+  rank: 8
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 9
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 70
+  rank: 10
 ---
 Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The developers now want to locate apartments over the already damaged Fly Creek over the objections of the vast majority of Fairhope citizens.
 

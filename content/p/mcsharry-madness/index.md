@@ -1,13 +1,53 @@
 ---
-title: "McSHARRY MADNESS"
+title: McSHARRY MADNESS
 date: 2021-11-26
-thumbnail: "img/mcsharry-madness.gif"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/mcsharry-madness.gif
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 95
+  rank: 1
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 85
+  rank: 2
+- slug: on-vacation
+  title: ON VACATION
+  score: 75
+  rank: 3
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 70
+  rank: 4
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 70
+  rank: 5
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 65
+  rank: 6
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 55
+  rank: 7
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 50
+  rank: 8
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 50
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 25
+  rank: 10
 ---
-
 Ronan Mc Sharry should be banned from any club or bar serving alcohol. Because if he claims that your establishment “made him get drunk” and caused him to knock a woman off a bar stool. He then will sue the same establishment.
 
 McSharry has never apologized or acknowledged he has done anything wrong after multiple incidents.

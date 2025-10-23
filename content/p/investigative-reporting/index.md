@@ -1,16 +1,56 @@
 ---
-title: "INVESTIGATIVE REPORTING"
+title: INVESTIGATIVE REPORTING
 date: 2016-06-21
-thumbnail: "img/investigating-the-investigators.jpg"
-categories: 
-  - investigative-reporting
-tags: 
-  - kant
-  - pittman
-authors: 
-  - ripp-report
+thumbnail: img/investigating-the-investigators.jpg
+categories:
+- investigative-reporting
+tags:
+- kant
+- pittman
+authors:
+- ripp-report
+related_articles:
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 75
+  rank: 1
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 75
+  rank: 2
+- slug: pay-off-and-election-fraud
+  title: PAY OFF AND ELECTION FRAUD
+  score: 75
+  rank: 3
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 70
+  rank: 4
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 70
+  rank: 5
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 65
+  rank: 6
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 65
+  rank: 7
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 60
+  rank: 8
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 60
+  rank: 9
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 50
+  rank: 10
 ---
-
 For those who don’t know the details how Mayor Kant and Senator Pittman got caught up in BP Fraud, please read the articles attached.
 
  

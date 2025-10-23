@@ -11,7 +11,48 @@ categories:
 - ethics
 authors:
 - admin
-alttags: "Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns"
+alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns
+related_articles:
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 100
+  rank: 1
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 92
+  rank: 2
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 3
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 85
+  rank: 4
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 85
+  rank: 5
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 85
+  rank: 6
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 82
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 75
+  rank: 8
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 75
+  rank: 9
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75
+  rank: 10
 ---
 Alabama has earned it’s reputation as the most corrupt state in the United States. What solidifies Alabama’s position is a perfect puzzle, all tightly fit together with inept, lazy, hypocritical elected officials and oversight agencies. These agencies cost taxpayers millions for absolutely nothing.
 

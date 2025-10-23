@@ -13,7 +13,48 @@ tags:
 - robin-lejeune
 authors:
 - admin
-alttags: "Hurricane Delta approaching a figure, symbolizing Lake Charles facing another direct hit after significant storm damage"
+alttags: Hurricane Delta approaching a figure, symbolizing Lake Charles facing another direct hit after significant storm damage
+related_articles:
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 75
+  rank: 1
+- slug: m-i-a
+  title: M.I.A
+  score: 70
+  rank: 2
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 70
+  rank: 3
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 70
+  rank: 4
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 70
+  rank: 5
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 65
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 65
+  rank: 7
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 65
+  rank: 8
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 65
+  rank: 9
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 65
+  rank: 10
 ---
 Sally kicked Baldwin County’s ass, however we missed the Delta bullet. Poor Lake Charles is getting what some of us expected last Monday, round two of a direct hit by a hurricane. In Lake Charles they have picked up 1.5 million cubic yards of debris, so far, and they are now facing the possibility of doing it all over again.
 

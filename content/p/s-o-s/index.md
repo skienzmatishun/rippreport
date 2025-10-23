@@ -12,7 +12,48 @@ tags:
 - sheriff-mack
 authors:
 - admin
-alttags: "City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions"
+alttags: City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions
+related_articles:
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 95
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 3
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 75
+  rank: 4
+- slug: survey
+  title: SURVEY
+  score: 75
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65
+  rank: 6
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 65
+  rank: 7
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 65
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65
+  rank: 9
+- slug: rotten
+  title: ROTTEN
+  score: 65
+  rank: 10
 ---
 I am reluctantly back from a three week vacation and trying to get back on the Ripp Report horse. Let’s review a few subjects that have been in the news in my absence.
 

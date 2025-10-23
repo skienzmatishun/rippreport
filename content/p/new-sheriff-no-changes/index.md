@@ -14,7 +14,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article"
+alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article
+related_articles:
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 100
+  rank: 1
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 92
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 89
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85
+  rank: 4
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85
+  rank: 5
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 85
+  rank: 6
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 7
+- slug: no-justice
+  title: NO JUSTICE
+  score: 85
+  rank: 8
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 10
 ---
  It is no surprise that Governor Kay Ivey believed all the BS Hoss Mack told her. Someone woke up Ivy and said, “sign here, say this.” She ignored all the letters to the appointment board and 2 pending federal lawsuits involving Baldwin County Sheriff Office, BCSO, and their Major Crimes Unit. She ignored the wrongful conviction of Murray Lawrence. She also ignored the clown show case of Steve Nodine which involved the same Prosecutor, Sheriff and Judge involved in the case of Murray Lawrence’s wrongful conviction. Mr. Nodine is lucky he was not wrongfully convicted. Ivy ignored the 10 innocent lives lost, that we know of, in the last 15 years in Baldwin County. People who just happen to come into contact with BCSO and then become victims of the BCSO. Their deaths were justified by the Major Crimes Unit of the Sheriff Department who investigated themselves. No accountability, No transparency, No camera footage, and certainly no justice.
 

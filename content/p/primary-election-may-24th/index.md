@@ -5,7 +5,48 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: "Screenshot shows a social media post about Tim James For Governor alongside a man speaking into a microphone"
+alttags: Screenshot shows a social media post about Tim James For Governor alongside a man speaking into a microphone
+related_articles:
+- slug: last-chance
+  title: LAST CHANCE
+  score: 85
+  rank: 1
+- slug: countdown
+  title: COUNTDOWN
+  score: 75
+  rank: 2
+- slug: backstory-153
+  title: No Boomers
+  score: 70
+  rank: 3
+- slug: election-ad
+  title: ELECTION AD
+  score: 70
+  rank: 4
+- slug: backstory-podcast-the-46th-president-of-the-united-states
+  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
+  score: 65
+  rank: 5
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 6
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 65
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 65
+  rank: 8
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 65
+  rank: 9
+- slug: the-180
+  title: THE 180
+  score: 40
+  rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Pb41jaYTkI" frameborder="0" allowfullscreen></iframe>
 

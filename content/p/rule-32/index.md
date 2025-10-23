@@ -11,7 +11,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Legal document filed as a Rule 32 petition seeking relief from conviction for Murray Lawrence, against backdrop of jail fe..."
+alttags: Legal document filed as a Rule 32 petition seeking relief from conviction for Murray Lawrence, against backdrop of jail fe...
+related_articles:
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95
+  rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 95
+  rank: 3
+- slug: innocent
+  title: INNOCENT
+  score: 95
+  rank: 4
+- slug: no-justice
+  title: NO JUSTICE
+  score: 95
+  rank: 5
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 95
+  rank: 6
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 95
+  rank: 7
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 95
+  rank: 8
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 95
+  rank: 9
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85
+  rank: 10
 ---
 The wrongful conviction of Murray Lawrence has cost him over 7500 days in Jail. The Ripp Report is happy to announce that we are a step closer to Mr. Lawrence proving his innocence. A Rule 32 has been filed on his behalf.
 

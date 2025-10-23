@@ -13,7 +13,48 @@ tags:
 - raines
 authors:
 - admin
-alttags: "Illustration depicting a wolf howling under a rainstorm, obscured by a “Catalyst” prohibition sign, referencing Baldwin Co..."
+alttags: Illustration depicting a wolf howling under a rainstorm, obscured by a “Catalyst” prohibition sign, referencing Baldwin Co...
+related_articles:
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 85
+  rank: 1
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 85
+  rank: 2
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 75
+  rank: 3
+- slug: scary
+  title: SCARY
+  score: 75
+  rank: 4
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 5
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 75
+  rank: 6
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 75
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 70
+  rank: 8
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 65
+  rank: 9
+- slug: m-i-a
+  title: M.I.A
+  score: 65
+  rank: 10
 ---
 Be sure to read the New York Times Article, the last link on this article.
 

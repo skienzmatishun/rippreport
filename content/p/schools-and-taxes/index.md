@@ -9,7 +9,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Two figures in suits wear bags of money as heads, illustrating tax revenue flow into Baldwin County Schools board coffers"
+alttags: Two figures in suits wear bags of money as heads, illustrating tax revenue flow into Baldwin County Schools board coffers
+related_articles:
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 85
+  rank: 1
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 85
+  rank: 2
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 85
+  rank: 3
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 85
+  rank: 4
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 75
+  rank: 5
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 75
+  rank: 6
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 7
+- slug: vote-smart
+  title: VOTE SMART
+  score: 75
+  rank: 8
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 75
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 70
+  rank: 10
 ---
 Do you really want to know what is going on with Baldwin County Schools. Well just check out the face book page below, they do an excellent job of breaking down your tax dollars that are pouring into the coffers of BCBOE.
 

@@ -11,7 +11,48 @@ tags:
 - jeff-boyd
 authors:
 - ripp-report
-alttags: "Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid development discussed in the article"
+alttags: Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid development discussed in the article
+related_articles:
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 90
+  rank: 1
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 85
+  rank: 2
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 85
+  rank: 3
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 75
+  rank: 4
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 75
+  rank: 5
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 75
+  rank: 6
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 70
+  rank: 7
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 65
+  rank: 8
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 60
+  rank: 9
+- slug: belize-vacation-another-world
+  title: BELIZE VACATION - ANOTHER WORLD
+  score: 45
+  rank: 10
 ---
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey,
 

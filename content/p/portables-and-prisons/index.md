@@ -14,7 +14,48 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: "Alabama prison complex, symbolizing state decisions that cost billions and reflect political corruption"
+alttags: Alabama prison complex, symbolizing state decisions that cost billions and reflect political corruption
+related_articles:
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 92
+  rank: 1
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 90
+  rank: 2
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 3
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85
+  rank: 4
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 82
+  rank: 5
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 75
+  rank: 6
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 75
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 70
+  rank: 8
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 65
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 10
 ---
 Alabama is the most political corrupt state in the United States. Why? because it is so easy for lobbyist to buy the needed politicians to keep it corrupt.
 

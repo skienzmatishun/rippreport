@@ -12,7 +12,48 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: "Question mark superimposed over a waterfront scene in Fairhope, referencing questions about mayoral candidate Sherry Sulli..."
+alttags: Question mark superimposed over a waterfront scene in Fairhope, referencing questions about mayoral candidate Sherry Sulli...
+related_articles:
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 95
+  rank: 1
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 90
+  rank: 2
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 85
+  rank: 3
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 5
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 85
+  rank: 6
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 75
+  rank: 7
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 70
+  rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 70
+  rank: 9
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 10
 ---
 TOP 10 QUESTIONS for Sherry Sullivan and the general public.
 

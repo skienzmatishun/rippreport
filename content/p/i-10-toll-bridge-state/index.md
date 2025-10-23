@@ -1,17 +1,57 @@
 ---
-title: "I-10 Toll Bridge State"
+title: I-10 Toll Bridge State
 date: 2021-06-11
-thumbnail: "img/i-10-toll-state.png"
+thumbnail: img/i-10-toll-state.png
 tags:
-  - Toll Bridge
-  - Burrell
-  - MPO
-categories: 
-  - alabama
-authors: 
-  - admin
+- Toll Bridge
+- Burrell
+- MPO
+categories:
+- alabama
+authors:
+- admin
+related_articles:
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 85
+  rank: 1
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 85
+  rank: 2
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 85
+  rank: 3
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 85
+  rank: 4
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 75
+  rank: 5
+- slug: pied-piper
+  title: PIED PIPER
+  score: 75
+  rank: 6
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 70
+  rank: 7
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 70
+  rank: 8
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 65
+  rank: 9
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 55
+  rank: 10
 ---
-
 Alabama is known to be last in almost every category. Be it obesity, drugs, education, prisons and much more. Alabama has no lottery and is not even considering the millions, maybe billions, in revenue from decriminalization of marijuana. I am sure Alabama will be last in that category.
 
 Alabama is first in political corruption.

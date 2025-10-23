@@ -12,7 +12,48 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: "Chucky doll riding a bucking horse labeled #MeToo, symbolizing attempts to discredit Fairhopes mayor in an ongoing dispute"
+alttags: 'Chucky doll riding a bucking horse labeled #MeToo, symbolizing attempts to discredit Fairhopes mayor in an ongoing dispute'
+related_articles:
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 90
+  rank: 1
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 2
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 85
+  rank: 3
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 4
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 85
+  rank: 5
+- slug: jack-ass
+  title: JACK ASS
+  score: 85
+  rank: 6
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 85
+  rank: 7
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 75
+  rank: 8
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65
+  rank: 9
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 65
+  rank: 10
 ---
 We are talking super stupid, I mean extraordinary ignorance. But I get it, it is part of the moore factor, little m deliberate, the people that will believe fiction for truth.
 

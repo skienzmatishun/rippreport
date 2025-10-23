@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Grinder pump installed in a yard; often used by developers despite potential replacement costs and power needs for homeowners"
+alttags: Grinder pump installed in a yard; often used by developers despite potential replacement costs and power needs for homeowners
+related_articles:
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 75
+  rank: 1
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 75
+  rank: 2
+- slug: holes
+  title: HOLES
+  score: 65
+  rank: 3
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 65
+  rank: 4
+- slug: wetlands
+  title: WETLANDS
+  score: 65
+  rank: 5
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 60
+  rank: 6
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 60
+  rank: 7
+- slug: priorities
+  title: Priorities
+  score: 55
+  rank: 8
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 54
+  rank: 9
+- slug: timeline
+  title: TIMELINE
+  score: 54
+  rank: 10
 ---
 Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily.
 

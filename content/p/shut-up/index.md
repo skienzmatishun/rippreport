@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Silenced emoji face symbolizes restricted public comment at Fairhope City Council meetings, limiting citizen participation"
+alttags: Silenced emoji face symbolizes restricted public comment at Fairhope City Council meetings, limiting citizen participation
+related_articles:
+- slug: shut-up-2
+  title: SHUT UP
+  score: 85
+  rank: 1
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 3
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 85
+  rank: 4
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 6
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 75
+  rank: 8
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 9
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 70
+  rank: 10
 ---
 Every Fairhope City council meeting begins with a prayer and the pledge of allegiance. What irony, when the council president then explains to attending citizens that their right to speak is a privilege— not a right. The council president then explained that the 3 minute limit on public participation was at his discretion. This is how our previous Mayor handled critics, complaints or investigations— absolutely no transparency. Make no mistake, as an American, it is your right.
 

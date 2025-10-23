@@ -11,7 +11,48 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: "Sign pointing Right and Wrong, illustrating concerns over accountability for city school funds versus airport funding"
+alttags: Sign pointing Right and Wrong, illustrating concerns over accountability for city school funds versus airport funding
+related_articles:
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 90
+  rank: 1
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 90
+  rank: 2
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 85
+  rank: 3
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 5
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85
+  rank: 6
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 85
+  rank: 7
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 8
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 65
+  rank: 9
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 65
+  rank: 10
 ---
 Well it seems Mr. Jack Burrell is now worried about the accountability of school funds donated by the city, approximately $350,000 a year. He is demanding accountability or he no longer will support school funds for Fairhope.
 

@@ -6,7 +6,48 @@ categories:
 - obituary
 authors:
 - admin
-alttags: "Fran Neumann, a Daphne artist known for her sculpture & advertising work, wearing glasses and a white jacket"
+alttags: Fran Neumann, a Daphne artist known for her sculpture & advertising work, wearing glasses and a white jacket
+related_articles:
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 95
+  rank: 1
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 95
+  rank: 2
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 75
+  rank: 3
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 75
+  rank: 4
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 75
+  rank: 5
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 71
+  rank: 6
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 65
+  rank: 7
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 50
+  rank: 8
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 45
+  rank: 9
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 35
+  rank: 10
 ---
 Frances (Fran) J. Neumann of Daphne, Alabama, passed away unexpectedly on Monday, June 28, 2021 from natural causes. She was ninety-three going on a hundred, her oft-expressed goal. [![](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)
 

@@ -10,7 +10,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Fairhope, Alabama: American flag flies over a fountain in a public square, representing local government concerns"
+alttags: 'Fairhope, Alabama: American flag flies over a fountain in a public square, representing local government concerns'
+related_articles:
+- slug: skunked
+  title: SKUNKED
+  score: 90
+  rank: 1
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 90
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 90
+  rank: 3
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 5
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 85
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 7
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 8
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 75
+  rank: 9
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 65
+  rank: 10
 ---
 It is easy to see that people with special interests, Catalyst connections, or are from the Tim Can’t Club, do not want to see any change in Fairhope Government. They represent about 30% of the City’s population. They know a change of Government will cut off their access to slate candidates and greatly reduce their ability to “control” Fairhope, not Govern but “control.” The current Fairhope City Council is an “at Large Catalyst council” that has the most dismal record of any Fairhope Council in 20 years, they cannot even deliver a budget on time. WHY ? Would the citizens of Fairhope want to go backwards rather than forward?
 

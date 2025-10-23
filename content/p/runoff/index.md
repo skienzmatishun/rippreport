@@ -6,7 +6,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Ballot being dropped into a voting box, reflecting the close First Congressional District race between Carl and Hightower"
+alttags: Ballot being dropped into a voting box, reflecting the close First Congressional District race between Carl and Hightower
+related_articles:
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 95
+  rank: 1
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 95
+  rank: 2
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 85
+  rank: 3
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 85
+  rank: 4
+- slug: vote
+  title: VOTE
+  score: 85
+  rank: 5
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 85
+  rank: 6
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 7
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 8
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 75
+  rank: 9
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 75
+  rank: 10
 ---
 The First Congressional District race is now down to two, Jerry Carl and Bill Hightower. Carl edged out Hightower overall by 1226 votes. Hightower the CATALYST candidate scored 3126 votes more than Carl in Baldwin County. CATALYST predicted 10,000 votes and fell short by more than 66%, this is a blow to their ego and evidence to their organization disintegrating.
 

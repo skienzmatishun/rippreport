@@ -6,7 +6,48 @@ categories:
 thumbnail: img/honey-bees.png
 authors:
 - admin
-alttags: "Fairhope Council members Burrell, Boone, and Brown in bee costumes, referencing concerns about potential personal gain"
+alttags: Fairhope Council members Burrell, Boone, and Brown in bee costumes, referencing concerns about potential personal gain
+related_articles:
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 75
+  rank: 1
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 70
+  rank: 2
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 65
+  rank: 3
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 65
+  rank: 4
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 65
+  rank: 5
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 65
+  rank: 6
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 65
+  rank: 7
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 65
+  rank: 8
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 65
+  rank: 9
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 45
+  rank: 10
 ---
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 

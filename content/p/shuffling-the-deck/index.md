@@ -11,7 +11,48 @@ categories:
 - bcso
 authors:
 - admin
-alttags: "Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership"
+alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership
+related_articles:
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 95
+  rank: 1
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 92
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 89
+  rank: 4
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 85
+  rank: 6
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 85
+  rank: 7
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 85
+  rank: 8
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 85
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85
+  rank: 10
 ---
 Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Federal investigation, the internal investigation, wrongful conviction, federal Lawsuit of Johnathan Victor and a myriad of internal problems within BCSO involving morals, accountability, transparency and of course the GOB, Good ole Boy culture that permeates the entire department.
 

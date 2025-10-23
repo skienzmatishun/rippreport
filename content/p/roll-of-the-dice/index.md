@@ -9,7 +9,48 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Two dice against a dark background, representing Alabama’s ongoing debate about establishing a state lottery"
+alttags: Two dice against a dark background, representing Alabama’s ongoing debate about establishing a state lottery
+related_articles:
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 85
+  rank: 1
+- slug: runoff
+  title: RUNOFF
+  score: 85
+  rank: 2
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 70
+  rank: 3
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 70
+  rank: 4
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 70
+  rank: 5
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 65
+  rank: 6
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 65
+  rank: 7
+- slug: blind-voting-straight-ticket
+  title: BLIND VOTING STRAIGHT TICKET
+  score: 65
+  rank: 8
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 65
+  rank: 9
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 60
+  rank: 10
 ---
 Here we go again, for over 20 years Alabama has been discussing a lottery. All that time while they were discussing gambling, Alabama was exporting dollars to other state’s lottery.
 

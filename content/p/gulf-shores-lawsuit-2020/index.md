@@ -9,7 +9,48 @@ tags:
 - pete-sims
 authors:
 - admin
-alttags: "Gulf Shores skyline along the beach, reflecting citizen concerns over city development approvals and a pending lawsuit"
+alttags: Gulf Shores skyline along the beach, reflecting citizen concerns over city development approvals and a pending lawsuit
+related_articles:
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 85
+  rank: 1
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 85
+  rank: 2
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 85
+  rank: 3
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 85
+  rank: 4
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 75
+  rank: 5
+- slug: victory
+  title: VICTORY
+  score: 75
+  rank: 6
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 75
+  rank: 7
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 65
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 9
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 54
+  rank: 10
 ---
 Fairhope set the stage for citizens to fight back against City Government and elected officials who stop listening to the citizens. Now Gulf Shores citizens are filing a lawsuit and fighting back about an apartment complex the City of Gulf Shores approved over the objections of the area residents.
 

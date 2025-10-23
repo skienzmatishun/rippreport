@@ -14,7 +14,48 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: "Cyclist silhouette blurred in motion, symbolizing Fairhope City Council’s past inaction & potential for progress on educat..."
+alttags: Cyclist silhouette blurred in motion, symbolizing Fairhope City Council’s past inaction & potential for progress on educat...
+related_articles:
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 1
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 2
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 85
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 5
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 6
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 82
+  rank: 7
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75
+  rank: 8
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 65
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 60
+  rank: 10
 ---
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
 

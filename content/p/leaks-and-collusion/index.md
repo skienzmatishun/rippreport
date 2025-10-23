@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Leaking faucet symbolizing confidential information leaks at Fairhope City Hall, as reported by Gulf Coast News"
+alttags: Leaking faucet symbolizing confidential information leaks at Fairhope City Hall, as reported by Gulf Coast News
+related_articles:
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 1
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 85
+  rank: 2
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 3
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 4
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 75
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 70
+  rank: 6
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 70
+  rank: 7
+- slug: nuff-said
+  title: NUFF SAID
+  score: 65
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 9
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 65
+  rank: 10
 ---
 Fairhope City Hall has leaks of confidential city information and HR information coming from certain city employees to Gulf Coast News. Congratulations on the news scoop, however your information is coming from unnamed sources or disgruntled employees.
 

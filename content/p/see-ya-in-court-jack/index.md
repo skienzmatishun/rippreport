@@ -9,7 +9,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Gavel and legal documents representing a federal lawsuit filed by Francis Ripp against Jack Burrell"
+alttags: Gavel and legal documents representing a federal lawsuit filed by Francis Ripp against Jack Burrell
+related_articles:
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 90
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 2
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 3
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 4
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 5
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 7
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75
+  rank: 8
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 9
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 65
+  rank: 10
 ---
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION
 

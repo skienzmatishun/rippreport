@@ -14,7 +14,48 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: "Fairhope City Council member in suit, standing near US flag and Alabama seal, amid concerns over council dynamics"
+alttags: Fairhope City Council member in suit, standing near US flag and Alabama seal, amid concerns over council dynamics
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 1
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 85
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 75
+  rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 4
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 75
+  rank: 5
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 75
+  rank: 6
+- slug: rotten
+  title: ROTTEN
+  score: 75
+  rank: 7
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 75
+  rank: 8
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65
+  rank: 9
+- slug: honey-bees
+  title: HONEY BEES
+  score: 65
+  rank: 10
 ---
 Fairhope City Council has shifted from a rude, loud, and bulling approached, that backfired on them, to a passive aggressive approach when addressing the mayor. The ultimate goal is to prevent her from doing her job and opposing any of her goals. The masked condescending and sarcastic comments remain along with the disrespect.
 

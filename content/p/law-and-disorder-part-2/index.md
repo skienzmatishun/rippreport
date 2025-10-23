@@ -1,13 +1,53 @@
 ---
-title: "LAW and DisORDER - Part 2"
+title: LAW and DisORDER - Part 2
 date: 2018-08-29
-thumbnail: "img/law-and-disorder-part-2.jpg"
-categories: 
-  - bcso
-authors: 
-  - ripp-report
+thumbnail: img/law-and-disorder-part-2.jpg
+categories:
+- bcso
+authors:
+- ripp-report
+related_articles:
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 100
+  rank: 1
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 85
+  rank: 2
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 75
+  rank: 3
+- slug: police-report
+  title: POLICE REPORT
+  score: 75
+  rank: 4
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 75
+  rank: 5
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 75
+  rank: 6
+- slug: no-justice
+  title: NO JUSTICE
+  score: 65
+  rank: 7
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 65
+  rank: 8
+- slug: rumors
+  title: RUMORS
+  score: 65
+  rank: 9
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 65
+  rank: 10
 ---
-
 The Fairhope Police have responded and given further information about the recent “party” busted in Fairhope.
 
 {{< socialpreview url="https://rippreport.com/p/law-and-disorder-part-1" >}}

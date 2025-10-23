@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics"
+alttags: Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics
+related_articles:
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 95
+  rank: 1
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 92
+  rank: 2
+- slug: black-hole
+  title: BLACK HOLE
+  score: 85
+  rank: 3
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 85
+  rank: 4
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 85
+  rank: 5
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 85
+  rank: 6
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 85
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 8
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 85
+  rank: 9
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 70
+  rank: 10
 ---
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.
 

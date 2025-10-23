@@ -10,7 +10,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ..."
+alttags: Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ...
+related_articles:
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 100
+  rank: 1
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 100
+  rank: 2
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 100
+  rank: 3
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 95
+  rank: 4
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 90
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 90
+  rank: 6
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 89
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 85
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 9
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 85
+  rank: 10
 ---
 The state of Alabama is number one in the nation for political corruption. The Alabama Ethics Commission is the main reason for our infamous reputation for corruption.
 

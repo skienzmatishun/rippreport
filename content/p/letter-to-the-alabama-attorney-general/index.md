@@ -10,7 +10,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et..."
+alttags: US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et...
+related_articles:
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 95
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 2
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 85
+  rank: 3
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 4
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 85
+  rank: 5
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 85
+  rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 75
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 75
+  rank: 8
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 75
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 70
+  rank: 10
 ---
 Alabama Attorney General 501 Washington ave. Montgomery Alabama 36104
 

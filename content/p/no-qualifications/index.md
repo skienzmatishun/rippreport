@@ -27,7 +27,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership"
+alttags: Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership
+related_articles:
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 90
+  rank: 1
+- slug: pied-piper
+  title: PIED PIPER
+  score: 85
+  rank: 2
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 3
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 85
+  rank: 4
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 5
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 6
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 75
+  rank: 8
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 65
+  rank: 9
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 65
+  rank: 10
 ---
 Only in Fairhope can someone with a high school education become the utility director with absolutely no experience at the job. Mayor Sullivan gets a $25,000 utility salary as well as her second check as Mayor.
 

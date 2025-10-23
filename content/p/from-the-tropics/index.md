@@ -1,12 +1,52 @@
 ---
-title: "FROM THE TROPICS"
+title: FROM THE TROPICS
 date: 2017-12-08
-categories: 
-  - freaky-friday
-authors: 
-  - ripp-report
+categories:
+- freaky-friday
+authors:
+- ripp-report
+related_articles:
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 85
+  rank: 1
+- slug: on-vacation
+  title: ON VACATION
+  score: 75
+  rank: 2
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 75
+  rank: 3
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 75
+  rank: 4
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 70
+  rank: 5
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 6
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 65
+  rank: 7
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 8
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 60
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 40
+  rank: 10
 ---
-
 Well folks I decided that I needed a little rest and relaxation because I am facing my 14th and 15 shoulder operation since my injuries in Vietnam. The first one comes up Dec 15th so if I am a little late on publication, you will know why. I have traveled all of Central America and am a citizen of Belize, however I choose Mahahaul Mexico to chill out before my operation, one of my favorite beaches.
 
 Sorry I missed the Roy Moore protest but could not be prouder of the women and protesters who made it clear that all of Alabama does not agree with Roy Moore or his beliefs.

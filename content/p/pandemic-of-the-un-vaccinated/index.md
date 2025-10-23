@@ -1,13 +1,53 @@
 ---
-title: "PANDEMIC OF THE UN-VACCINATED"
+title: PANDEMIC OF THE UN-VACCINATED
 date: 2021-08-13
-thumbnail: "img/pandemic-of-the-unvaccinated.png"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/pandemic-of-the-unvaccinated.png
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 80
+  rank: 1
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 75
+  rank: 2
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 65
+  rank: 3
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 65
+  rank: 4
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 65
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 6
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 65
+  rank: 7
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 55
+  rank: 8
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 40
+  rank: 9
+- slug: on-vacation
+  title: ON VACATION
+  score: 25
+  rank: 10
 ---
-
 Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.
 
 https://rippreport.com/fairhope-council-asleep-at-the-wheel/

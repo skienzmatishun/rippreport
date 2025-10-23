@@ -18,7 +18,48 @@ tags:
 - sherry-sullivan
 authors:
 - admin
-alttags: "Silhouettes of figures holding hands, with CSB prominently displayed, referencing consulting firm involved in Baldwin Co..."
+alttags: Silhouettes of figures holding hands, with CSB prominently displayed, referencing consulting firm involved in Baldwin Co...
+related_articles:
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 90
+  rank: 1
+- slug: i-quit
+  title: I QUIT
+  score: 85
+  rank: 2
+- slug: hate
+  title: HATE
+  score: 75
+  rank: 3
+- slug: repeat
+  title: REPEAT
+  score: 75
+  rank: 4
+- slug: honey-bees
+  title: HONEY BEES
+  score: 70
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65
+  rank: 6
+- slug: timeline
+  title: TIMELINE
+  score: 65
+  rank: 7
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 55
+  rank: 8
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 54
+  rank: 9
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 45
+  rank: 10
 ---
 Catalyst/Scott Boone Consulting, CSB, and “acting” Mayor Burrell along with the “actual” mayor are going through their honeymoon, and I mean honey. Since Robert Brown quit, Burrell has been on fire to replace him with Jay Marblemouth Robinson who did not seek re-election.
 

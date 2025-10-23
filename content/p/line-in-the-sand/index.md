@@ -11,7 +11,48 @@ categories:
 - ethics
 authors:
 - admin
-alttags: "A single track in sand, symbolizing a trail of corruption stemming from misused charitable funds in Alabama"
+alttags: A single track in sand, symbolizing a trail of corruption stemming from misused charitable funds in Alabama
+related_articles:
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 100
+  rank: 1
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 95
+  rank: 2
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 95
+  rank: 3
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 92
+  rank: 4
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 85
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 6
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 85
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 85
+  rank: 8
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 75
+  rank: 9
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 75
+  rank: 10
 ---
 The Mabel Amos Charitable Trust was set up to help kids, who may have had the smarts, but not the money, to go to college, in Alabama. What started as a small well intended trust turned out to be a flush vehicle of greed and political corruption.
 

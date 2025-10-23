@@ -8,7 +8,48 @@ tags:
 - catalyst
 authors:
 - ripp-report
-alttags: "Ballot box graphic representing upcoming Baldwin County mid-term elections and candidate qualifications"
+alttags: Ballot box graphic representing upcoming Baldwin County mid-term elections and candidate qualifications
+related_articles:
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 95
+  rank: 1
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 90
+  rank: 2
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85
+  rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85
+  rank: 4
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 5
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 85
+  rank: 6
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 75
+  rank: 7
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 75
+  rank: 8
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 65
+  rank: 9
+- slug: vote-smart
+  title: VOTE SMART
+  score: 65
+  rank: 10
 ---
 Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide general information can be found on:
 

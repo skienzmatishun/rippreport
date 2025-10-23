@@ -10,7 +10,48 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: "Hand depositing a ballot into a voting box; Baldwin County commission election coverage"
+alttags: Hand depositing a ballot into a voting box; Baldwin County commission election coverage
+related_articles:
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 85
+  rank: 1
+- slug: qualification
+  title: QUALIFICATION
+  score: 85
+  rank: 2
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 75
+  rank: 3
+- slug: last-chance
+  title: LAST CHANCE
+  score: 75
+  rank: 4
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 75
+  rank: 5
+- slug: runoff
+  title: RUNOFF
+  score: 75
+  rank: 6
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 70
+  rank: 7
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 70
+  rank: 8
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 65
+  rank: 9
+- slug: vote-smart
+  title: VOTE SMART
+  score: 65
+  rank: 10
 ---
 Baldwin County will be voting for all four county commissioners seats. The Ripp Report will be posting meet and greets for many candidates, no charge. Any comments, such as this, is the sole responsibility of the Ripp Report. County commission seat three, presently held by Tucker Dorsey, has several candidates trying to unseat Mr Dorsey.
 

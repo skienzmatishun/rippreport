@@ -6,7 +6,48 @@ categories:
 - privacy
 authors:
 - admin
-alttags: "Eagle with blindfold against black background; symbolizes privacy concerns and limited data collection practices"
+alttags: Eagle with blindfold against black background; symbolizes privacy concerns and limited data collection practices
+related_articles:
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 75
+  rank: 1
+- slug: notice
+  title: 'NOTICE:'
+  score: 65
+  rank: 2
+- slug: shut-up
+  title: SHUT UP
+  score: 55
+  rank: 3
+- slug: newsletter
+  title: NEWSLETTER
+  score: 50
+  rank: 4
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 40
+  rank: 5
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 35
+  rank: 6
+- slug: combat
+  title: COMBAT
+  score: 35
+  rank: 7
+- slug: recovery
+  title: RECOVERY
+  score: 25
+  rank: 8
+- slug: christmas
+  title: MERRY CHRISTMAS
+  score: 25
+  rank: 9
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 25
+  rank: 10
 ---
 The Ripp Report ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines the types of information we collect, how we use it, and your rights regarding that information. By using our website, you agree to the practices described in this policy.
 

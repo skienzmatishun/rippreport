@@ -9,7 +9,48 @@ tags:
 - john-avent
 authors:
 - ripp-report
-alttags: "Table listing North Ridge, LLC agents and associated details from Alabama business records"
+alttags: Table listing North Ridge, LLC agents and associated details from Alabama business records
+related_articles:
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 1
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 85
+  rank: 2
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 85
+  rank: 3
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 75
+  rank: 4
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 75
+  rank: 5
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 65
+  rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65
+  rank: 7
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 65
+  rank: 8
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 65
+  rank: 9
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 65
+  rank: 10
 ---
 Source: [http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL](http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL)
 

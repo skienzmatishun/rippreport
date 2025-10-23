@@ -10,7 +10,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc..."
+alttags: Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc...
+related_articles:
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 90
+  rank: 1
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 85
+  rank: 2
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 85
+  rank: 3
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 75
+  rank: 4
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 75
+  rank: 5
+- slug: pied-piper
+  title: PIED PIPER
+  score: 75
+  rank: 6
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 70
+  rank: 7
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 65
+  rank: 8
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 65
+  rank: 9
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 65
+  rank: 10
 ---
 No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”
 

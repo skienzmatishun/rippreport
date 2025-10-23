@@ -10,7 +10,48 @@ tags:
 - Airport
 authors:
 - admin
-alttags: "Satirical depiction: Jack Burrell’s face superimposed on a toy rocket, symbolizing developer influence in Fairhope politics"
+alttags: 'Satirical depiction: Jack Burrell’s face superimposed on a toy rocket, symbolizing developer influence in Fairhope politics'
+related_articles:
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 90
+  rank: 1
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 2
+- slug: pied-piper
+  title: PIED PIPER
+  score: 85
+  rank: 3
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 85
+  rank: 4
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 85
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 6
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 85
+  rank: 7
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 85
+  rank: 8
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 82
+  rank: 9
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 10
 ---
 The good ole boys in Fairhope won the last election and were successful in electing a Mayor and Council that were willing to embrace development and return to the old “corrupt” way of doing business. The municipal attorney is old school and the municipal judge is a major developer in Fairhope. You can thank Catalyst, aka Scott Boone Consulting for this cast of characters. Jack Burrell has been the puppet for developers and special interest groups since first elected. For almost 9 years, Jack was president of the council. His involvement in the Fairhope Airport Authority has been a cluster f--- from day one. In March of last year, he canceled the video online broadcast of the Airport Authority meetings to the public. I knew then he was up to some kind of B.S.
 

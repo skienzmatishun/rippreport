@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: "Smiling yellow emoji face representing the “happy days” posts discussed in the article"
+alttags: Smiling yellow emoji face representing the “happy days” posts discussed in the article
+related_articles:
+- slug: on-vacation
+  title: ON VACATION
+  score: 75
+  rank: 1
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 75
+  rank: 2
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 65
+  rank: 3
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 4
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 65
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 6
+- slug: a-time-for-reflection-goobers-on-notice
+  title: A Time for Reflection - Goobers on Notice
+  score: 65
+  rank: 7
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 50
+  rank: 8
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 50
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 30
+  rank: 10
 ---
 It is amazing how many Facebook pages, and some media, only publish “happy days’ posts. How great the flowers are and how beautiful the bay is. First Fridays are fun filled with wine and spirited conversations about anything other than reality.
 

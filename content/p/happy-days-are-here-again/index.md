@@ -8,7 +8,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Fairhope pier at sunset; a symbol of hope for a new city council era after past challenges"
+alttags: Fairhope pier at sunset; a symbol of hope for a new city council era after past challenges
+related_articles:
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 85
+  rank: 1
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 85
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 3
+- slug: stepping-up
+  title: STEPPING UP
+  score: 85
+  rank: 4
+- slug: victory
+  title: VICTORY
+  score: 85
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 6
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 85
+  rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 8
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 85
+  rank: 9
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 85
+  rank: 10
 ---
 Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite and cordial among council and mayor. They are going to have difficult times but as long as they put the city first then it will make solving issues easier.
 

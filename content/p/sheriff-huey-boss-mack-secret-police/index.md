@@ -1,19 +1,60 @@
 ---
-title: "SHERIFF HUEY “BOSS” MACK - SECRET POLICE"
+title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
 date: 2021-10-01
-thumbnail: "img/sheriff-huey-boss-secret-police.jpg"
-summary: "Sheriff Mack is in hot water.  Reports are swirling that he's mishandled recent deaths involving citizens, and some folks are pointing fingers.  The accusations? A lack of transparency from the Sheriff's office, and a cloud of secrecy surrounding these incidents.  Sounds fishy, right?  Let's dive deeper and see what we can uncover."
+thumbnail: img/sheriff-huey-boss-secret-police.jpg
+summary: Sheriff Mack is in hot water.  Reports are swirling that he's mishandled recent deaths involving citizens, and some folks are pointing fingers.  The accusations? A lack of transparency from the Sheriff's office, and a cloud of secrecy surrounding these incidents.  Sounds fishy, right?  Let's dive deeper and see what we can uncover.
 tags:
-  - BCSO
-  - Murray Lawrence Jr
-  - Hoss Mack
-  - Jonathan Victor
-  - Yates
-  - Justin Correa
-categories: 
-  - bcso
-authors: 
-  - admin
+- BCSO
+- Murray Lawrence Jr
+- Hoss Mack
+- Jonathan Victor
+- Yates
+- Justin Correa
+categories:
+- bcso
+authors:
+- admin
+related_articles:
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 95
+  rank: 1
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 95
+  rank: 2
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 90
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 90
+  rank: 4
+- slug: no-justice
+  title: NO JUSTICE
+  score: 90
+  rank: 5
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90
+  rank: 6
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85
+  rank: 7
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85
+  rank: 8
+- slug: rumors
+  title: RUMORS
+  score: 85
+  rank: 9
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85
+  rank: 10
 ---
 The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.
 

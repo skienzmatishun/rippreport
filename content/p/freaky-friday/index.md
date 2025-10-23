@@ -11,7 +11,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Sad yellow smiley face emoji representing ongoing complaints against Baldwin County Family Court officials"
+alttags: Sad yellow smiley face emoji representing ongoing complaints against Baldwin County Family Court officials
+related_articles:
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 90
+  rank: 1
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 85
+  rank: 2
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 3
+- slug: exposure
+  title: EXPOSURE
+  score: 75
+  rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 70
+  rank: 5
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 65
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 7
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 65
+  rank: 8
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 65
+  rank: 9
+- slug: repeat
+  title: REPEAT
+  score: 65
+  rank: 10
 ---
 Attention Baldwin County Legal Eagle fans that follow the Family Court issues in Baldwin County. There are multiple complains filed against a particular Judge that are pending as well as pending complaints against certain attorneys. We are refraining from details until we have responses to those complaints. We do wish to advise you that it is an active issue that we are addressing and it is not on a back burner.
 

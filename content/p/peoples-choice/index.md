@@ -6,7 +6,48 @@ categories:
 - Special-Report
 authors:
 - ripp-report
-alttags: "Icon depicting a central figure surrounded by a group, representing support for Senate candidate Chris Elliott"
+alttags: Icon depicting a central figure surrounded by a group, representing support for Senate candidate Chris Elliott
+related_articles:
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 90
+  rank: 1
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 85
+  rank: 2
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85
+  rank: 3
+- slug: countdown
+  title: COUNTDOWN
+  score: 85
+  rank: 4
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 75
+  rank: 5
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 75
+  rank: 6
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 70
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 65
+  rank: 8
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 65
+  rank: 9
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 50
+  rank: 10
 ---
 The people’s choice or the Catalyst choice. The Ripp Report is going for the People’s Choice, David Northcutt. The Catalyst Choice Chris Elliott has raised over one half a million dollars, headed for 600,000 for a Senate Seat salary of 42,000. Damn people WAKE UP.
 

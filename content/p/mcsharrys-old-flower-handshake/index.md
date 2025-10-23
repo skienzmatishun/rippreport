@@ -1,16 +1,56 @@
 ---
-title: "McSHARRY’S OLD FLOWER HANDSHAKE"
+title: McSHARRY’S OLD FLOWER HANDSHAKE
 date: 2023-01-23
 tags:
-  - McSharry
-  - McSharrys
-categories: 
-  - monday-mayhem
-thumbnail: "img/lucky-charms.jpg"
-authors: 
-  - admin
+- McSharry
+- McSharrys
+categories:
+- monday-mayhem
+thumbnail: img/lucky-charms.jpg
+authors:
+- admin
+related_articles:
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 95
+  rank: 1
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 85
+  rank: 2
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 85
+  rank: 3
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 85
+  rank: 4
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 85
+  rank: 5
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 75
+  rank: 6
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 75
+  rank: 7
+- slug: surrender
+  title: SURRENDER
+  score: 55
+  rank: 8
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 45
+  rank: 9
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 40
+  rank: 10
 ---
-
 Ronan McSharry is a public nuisance and the City Of Fairhope has failed to protect the general public, for the forth or fifth time. If you are not suspicious of how Mr McSharry has avoided prosecution then you have not been following his repeated domestic abuse charges and public drunkenness.
 
 A couple of weeks ago the Mayor of Fairhope went on TV News to announce that the city would take away the Little Whiskey, ABC license, if they did not conform to established closing hours. However when the city council was asked to do the same thing to McSharry’s for beating up women, not a word. In fact the position of the city was they had no authority over any ABC issues. This is no surprise since councilman Jack Burrell has a long friendship with Mr. McSharry. Mayor Sullivan’s has remained silent on Mr. McSharry’s assaults on multiple women, while publicly pressuring little whiskey. Fairhope the Mayor and Council attack any critics, political opponents, or vocal citizens, their corrupt political history is infamous.

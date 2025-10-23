@@ -6,7 +6,48 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: "Stylized white eyes scattered across a black background, illustrating Fairhope City Council’s perceived lack of progress"
+alttags: Stylized white eyes scattered across a black background, illustrating Fairhope City Council’s perceived lack of progress
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 95
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 2
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 85
+  rank: 3
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 85
+  rank: 4
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 85
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 85
+  rank: 6
+- slug: shut-up
+  title: SHUT UP
+  score: 75
+  rank: 7
+- slug: survey
+  title: SURVEY
+  score: 65
+  rank: 8
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 50
+  rank: 10
 ---
 Fairhope in 2018 is IN THE DARK, refusing to look forward and recognize the lighting speed of change. The last city council meeting in Fairhope for 2018 was more of the same:
 

@@ -16,7 +16,48 @@ tags:
 - robinson
 authors:
 - admin
-alttags: "Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials"
+alttags: Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials
+related_articles:
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 95
+  rank: 1
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 90
+  rank: 2
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 90
+  rank: 3
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 85
+  rank: 4
+- slug: i-quit
+  title: I QUIT
+  score: 85
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 7
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 85
+  rank: 8
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 85
+  rank: 9
+- slug: selective-memory
+  title: Selective Memory
+  score: 75
+  rank: 10
 ---
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.
 

@@ -1,19 +1,59 @@
 ---
-title: "MOUTHPIECE"
+title: MOUTHPIECE
 date: 2022-08-20
-thumbnail: "/img/toll-troll.jpg"
-gif: "/img/toll-troll.gif"
+thumbnail: /img/toll-troll.jpg
+gif: /img/toll-troll.gif
 tags:
-  - Toll Bridge
-  - Jack Burrell
-  - Burrell
-  - Infrastructure
-categories: 
-  - citycouncil
-authors: 
-  - admin
+- Toll Bridge
+- Jack Burrell
+- Burrell
+- Infrastructure
+categories:
+- citycouncil
+authors:
+- admin
+related_articles:
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 95
+  rank: 1
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 90
+  rank: 2
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 85
+  rank: 3
+- slug: pied-piper
+  title: PIED PIPER
+  score: 85
+  rank: 4
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 75
+  rank: 5
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 75
+  rank: 6
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 75
+  rank: 7
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 75
+  rank: 8
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 75
+  rank: 9
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 65
+  rank: 10
 ---
-
 The infrastructure failures in Fairhope are directly connected to Jack Burrell and his lackeys.
 
 Doesn’t it make you feel more confident knowing Jack is “speaking for the people of Baldwin County.”

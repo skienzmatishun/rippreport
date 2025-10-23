@@ -8,7 +8,48 @@ tags:
 - daphne
 authors:
 - ripp-report
-alttags: "Intersection in Daphne, Alabama, near Johnson Road and Highway 98, showing recent apartment construction impacting develop..."
+alttags: Intersection in Daphne, Alabama, near Johnson Road and Highway 98, showing recent apartment construction impacting develop...
+related_articles:
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 85
+  rank: 1
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 85
+  rank: 2
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 85
+  rank: 3
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 70
+  rank: 4
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 65
+  rank: 5
+- slug: dead-last
+  title: DEAD LAST
+  score: 65
+  rank: 6
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 65
+  rank: 7
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 65
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 60
+  rank: 9
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 45
+  rank: 10
 ---
 Daphne and Fairhope have a lot more in common than some think. One thing is that, if you allow the developers full rein, they will develop every square inch of land.
 

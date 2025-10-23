@@ -6,7 +6,48 @@ categories:
 - bcso
 authors:
 - ripp-report
-alttags: "Crime scene tape symbolizes concerns about accountability and transparency within Fairhope City Council leadership"
+alttags: Crime scene tape symbolizes concerns about accountability and transparency within Fairhope City Council leadership
+related_articles:
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 95
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 90
+  rank: 2
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 85
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 85
+  rank: 5
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 85
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 75
+  rank: 7
+- slug: police-report
+  title: POLICE REPORT
+  score: 75
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 9
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 65
+  rank: 10
 ---
 The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. In fact, Council President Jack Burrell has fully disgraced his position and the City of Fairhope and should immediately resign.
 

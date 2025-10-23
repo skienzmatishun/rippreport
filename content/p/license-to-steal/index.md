@@ -7,7 +7,48 @@ categories:
 - alabama
 authors:
 - admin
-alttags: "Alabama Attorney General depicted with a gavel and text License to Steal, referencing claims of pursuing corruption"
+alttags: Alabama Attorney General depicted with a gavel and text License to Steal, referencing claims of pursuing corruption
+related_articles:
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 100
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 95
+  rank: 2
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 95
+  rank: 3
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 95
+  rank: 4
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 95
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 95
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 90
+  rank: 7
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 89
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 85
+  rank: 9
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 85
+  rank: 10
 ---
 The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.
 

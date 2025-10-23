@@ -8,7 +8,48 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: "Logos for City of Faux and Mobile Baykeeper, referenced in a mayoral dispute over news releases and transparency"
+alttags: Logos for City of Faux and Mobile Baykeeper, referenced in a mayoral dispute over news releases and transparency
+related_articles:
+- slug: communication
+  title: COMMUNICATION
+  score: 85
+  rank: 1
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 85
+  rank: 2
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 85
+  rank: 3
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 75
+  rank: 4
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 70
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 6
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 65
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 65
+  rank: 8
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 65
+  rank: 9
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 55
+  rank: 10
 ---
 August 7, 2019
 

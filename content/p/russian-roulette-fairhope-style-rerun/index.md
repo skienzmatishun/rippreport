@@ -6,7 +6,48 @@ categories:
 - repost
 authors:
 - ripp-report
-alttags: "Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article"
+alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article
+related_articles:
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 100
+  rank: 1
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 90
+  rank: 2
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 90
+  rank: 3
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 85
+  rank: 4
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 85
+  rank: 5
+- slug: police-report
+  title: POLICE REPORT
+  score: 85
+  rank: 6
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 75
+  rank: 7
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 75
+  rank: 8
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 70
+  rank: 9
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 65
+  rank: 10
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.
 

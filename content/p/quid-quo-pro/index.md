@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Handshake graphic symbolizing a “favor for a favor” deal, referencing concerns about local council decisions"
+alttags: Handshake graphic symbolizing a “favor for a favor” deal, referencing concerns about local council decisions
+related_articles:
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 85
+  rank: 1
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 85
+  rank: 2
+- slug: documents
+  title: DOCUMENTS
+  score: 75
+  rank: 3
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 75
+  rank: 4
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 75
+  rank: 5
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 65
+  rank: 6
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 65
+  rank: 7
+- slug: communication
+  title: COMMUNICATION
+  score: 65
+  rank: 8
+- slug: honey-bees
+  title: HONEY BEES
+  score: 65
+  rank: 9
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 65
+  rank: 10
 ---
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something. The Council and the Single tax Colony are willing to ignore the 2400 plus people who have already signed a petition opposing development of the gully.
 

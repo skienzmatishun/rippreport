@@ -1,13 +1,53 @@
 ---
-title: "Frances J. Neumann Celebration  Of  Life"
+title: Frances J. Neumann Celebration  Of  Life
 date: 2021-10-14
-thumbnail: "img/frances-j-neumann-celebration-of-life.jpg"
-categories: 
-  - Special-Report
-authors: 
-  - admin
+thumbnail: img/frances-j-neumann-celebration-of-life.jpg
+categories:
+- Special-Report
+authors:
+- admin
+related_articles:
+- slug: obituary
+  title: OBITUARY
+  score: 95
+  rank: 1
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 75
+  rank: 2
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 75
+  rank: 3
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 71
+  rank: 4
+- slug: never-forget
+  title: Never Forget
+  score: 70
+  rank: 5
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 65
+  rank: 6
+- slug: happy-thanksgiving-3
+  title: Happy Thanksgiving
+  score: 65
+  rank: 7
+- slug: memorial-day-3
+  title: Memorial Day
+  score: 65
+  rank: 8
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 60
+  rank: 9
+- slug: symbol
+  title: Veterans Day
+  score: 50
+  rank: 10
 ---
-
 _**Frances J. Neumann**_
 
 **Artist, Sculptor, Teacher, Musician and Friend**

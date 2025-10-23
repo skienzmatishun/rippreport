@@ -9,7 +9,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Dangerous Highway 98/Parker Road intersection in Fairhope, marked with warning signs, highlighted as a source of frequent ..."
+alttags: Dangerous Highway 98/Parker Road intersection in Fairhope, marked with warning signs, highlighted as a source of frequent ...
+related_articles:
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 85
+  rank: 1
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 78
+  rank: 2
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 75
+  rank: 3
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 75
+  rank: 4
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 75
+  rank: 5
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 75
+  rank: 6
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 75
+  rank: 7
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 70
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 65
+  rank: 9
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 10
 ---
 Highway 98 and Parker Road is Fairhope’s Malfunction Junction, compliments of a Catalyst City Council. Fairhope’s City Council supported the developer, and the developer supported them. A good ole boy deal that will impact every citizen in Fairhope and everyone else that goes through that intersection.
 

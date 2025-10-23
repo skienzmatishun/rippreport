@@ -8,7 +8,48 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: "Blurred police car lights suggest investigation into allegations surrounding Jack Burrell and legal incidents in Fairhope"
+alttags: Blurred police car lights suggest investigation into allegations surrounding Jack Burrell and legal incidents in Fairhope
+related_articles:
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 85
+  rank: 1
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 85
+  rank: 2
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 75
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 75
+  rank: 4
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 75
+  rank: 5
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 75
+  rank: 6
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 75
+  rank: 7
+- slug: rumors
+  title: RUMORS
+  score: 65
+  rank: 8
+- slug: justified
+  title: JUSTIFIED
+  score: 65
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 65
+  rank: 10
 ---
 A DOCUMENT FOR CATALYST
 

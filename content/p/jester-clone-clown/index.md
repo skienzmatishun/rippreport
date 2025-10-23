@@ -1,20 +1,60 @@
 ---
-title: "The Jester The Clone and the Clown"
+title: The Jester The Clone and the Clown
 date: 2017-07-12
-thumbnail: "img/the-jester-the-clone-and-the-clown.jpg"
-categories: 
-  - wonderful-wednesday
-tags: 
-  - boone
-  - burrell
-  - chucky
-  - pittman
-  - robert-brown
-  - sheriff-mack
-authors: 
-  - ripp-report
+thumbnail: img/the-jester-the-clone-and-the-clown.jpg
+categories:
+- wonderful-wednesday
+tags:
+- boone
+- burrell
+- chucky
+- pittman
+- robert-brown
+- sheriff-mack
+authors:
+- ripp-report
+related_articles:
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85
+  rank: 1
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 85
+  rank: 2
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 75
+  rank: 3
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 75
+  rank: 4
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 75
+  rank: 5
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 75
+  rank: 6
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 65
+  rank: 7
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 65
+  rank: 8
+- slug: hate
+  title: HATE
+  score: 60
+  rank: 9
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 54
+  rank: 10
 ---
-
 Many people have been following the Ripp Report and the comments made by Jester 666. During public participation of the Fairhope city Council I asked Mr. Robert Brown if he was the Jester, he said no. I then made a comparison to Mr. Brown’s letter,
 
 {{< socialpreview url="https://rippreport.com/p/hate/" >}}

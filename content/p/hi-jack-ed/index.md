@@ -10,7 +10,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Composite portrait featuring men in suits and sunglasses, alongside an American flag, related to Alabama news coverage"
+alttags: Composite portrait featuring men in suits and sunglasses, alongside an American flag, related to Alabama news coverage
+related_articles:
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 95
+  rank: 1
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 90
+  rank: 2
+- slug: flying-high
+  title: FLYING HIGH
+  score: 90
+  rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85
+  rank: 4
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 85
+  rank: 5
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 85
+  rank: 6
+- slug: nuff-said
+  title: NUFF SAID
+  score: 85
+  rank: 7
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 85
+  rank: 8
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 85
+  rank: 9
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 75
+  rank: 10
 ---
 The Ripp Report closes out 2016 with congratulations to John Sharp [Al.com](al.com).
 

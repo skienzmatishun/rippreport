@@ -6,7 +6,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep..."
+alttags: 'Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep...'
+related_articles:
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 95
+  rank: 1
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 95
+  rank: 2
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 75
+  rank: 3
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 75
+  rank: 4
+- slug: exposure-2
+  title: EXPOSURE
+  score: 65
+  rank: 5
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 65
+  rank: 6
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 65
+  rank: 7
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 45
+  rank: 8
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 40
+  rank: 9
+- slug: happy-thanksgiving
+  title: Happy Thanksgiving!
+  score: 35
+  rank: 10
 ---
 This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper. The Mobile paper has little to offer with more fluff stories than real investigative reporting. The Sunday Paper is $3.00, over $150.00 a year just for Sunday.
 

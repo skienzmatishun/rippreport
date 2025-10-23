@@ -14,7 +14,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Unexpected political upset: A red exclamation point symbolizes shock and disruption within Fairhope politics"
+alttags: 'Unexpected political upset: A red exclamation point symbolizes shock and disruption within Fairhope politics'
+related_articles:
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 95
+  rank: 1
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 90
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 85
+  rank: 3
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 85
+  rank: 4
+- slug: skunked
+  title: SKUNKED
+  score: 75
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 75
+  rank: 6
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75
+  rank: 7
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 75
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 75
+  rank: 9
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 65
+  rank: 10
 ---
 Fairhope politics has taken on a coup mentality. Mayor Wilson upset the apple cart of two political groups: Tim Kant followers, and Jack Burrell and his cronies, both supported by Catalyst. Kant followers have fallen off in recent years and Mr Burrell was assured by Kant he would be the next mayor, along with two others. Jack hedged his position by playing both sides to his benefit however mayor Wilson winning was not in the cards.
 

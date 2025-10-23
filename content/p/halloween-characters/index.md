@@ -12,7 +12,48 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: "Silhouettes of five jack-o-lanterns against an orange sunset; symbolizing empty promises from indicted Alabama politicians"
+alttags: Silhouettes of five jack-o-lanterns against an orange sunset; symbolizing empty promises from indicted Alabama politicians
+related_articles:
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 75
+  rank: 1
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 75
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75
+  rank: 3
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 70
+  rank: 4
+- slug: april-fool
+  title: APRIL FOOL
+  score: 65
+  rank: 5
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 65
+  rank: 6
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 54
+  rank: 7
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 54
+  rank: 8
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 50
+  rank: 9
+- slug: scary
+  title: SCARY
+  score: 50
+  rank: 10
 ---
 Sen. Tripp Pittman and the State Representatives Faust, and Randy Davis, INDICTED, did very little in the last 11 years, as far as representing their constituents.
 

@@ -13,7 +13,48 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: "Signpost pointing Right and Wrong, symbolizing conflict of interest concerns within Fairhope City Council decisions"
+alttags: Signpost pointing Right and Wrong, symbolizing conflict of interest concerns within Fairhope City Council decisions
+related_articles:
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 95
+  rank: 1
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 95
+  rank: 2
+- slug: conflict-on-interest
+  title: CONFLICT OF INTEREST
+  score: 95
+  rank: 3
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 85
+  rank: 4
+- slug: selective-memory
+  title: Selective Memory
+  score: 85
+  rank: 5
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 85
+  rank: 6
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 85
+  rank: 7
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 75
+  rank: 8
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75
+  rank: 9
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 65
+  rank: 10
 ---
 COFAIRHOPE: ATTENTION MAYOR AND COUNCIL
 

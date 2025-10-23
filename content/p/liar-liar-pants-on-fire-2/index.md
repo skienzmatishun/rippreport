@@ -1,13 +1,53 @@
 ---
-title: "LIAR LIAR PANTS ON FIRE"
+title: LIAR LIAR PANTS ON FIRE
 date: 2021-09-17
-thumbnail: "img/liar-liar-pants-on-fire.jpg"
-categories: 
-  - freaky-friday
-authors: 
-  - admin
+thumbnail: img/liar-liar-pants-on-fire.jpg
+categories:
+- freaky-friday
+authors:
+- admin
+related_articles:
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 95
+  rank: 1
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65
+  rank: 2
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65
+  rank: 3
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65
+  rank: 4
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 65
+  rank: 5
+- slug: no-wonderful-wednesday-today
+  title: NO WONDERFUL WEDNESDAY TODAY
+  score: 65
+  rank: 6
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 60
+  rank: 7
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 60
+  rank: 8
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 50
+  rank: 9
+- slug: memorial-day-2
+  title: MEMORIAL DAY
+  score: 25
+  rank: 10
 ---
-
 The Fly Creek apartments, aka, Fairhope Village Apartments at Publix was one of the most blatant acts of corruption in Fairhope. Over 5 lawsuits, resulting from polluting Fly Creek, drainage issues and multiple violations, has cost taxpayers hundreds of thousands of dollars.
 
 Many public meetings were held some with attendance of 250 to 300 people opposing the project being built on the banks of fly Creek. It was one of the reasons Tim Can’t lost his re-election bid and the council was exposed for back door meetings with developers.

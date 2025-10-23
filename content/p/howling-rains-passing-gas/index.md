@@ -16,7 +16,48 @@ tags:
 - wilson
 authors:
 - admin
-alttags: "Illustration depicting a wolf howling under a rain cloud with a crossed-out Catalyst symbol, representing concerns about..."
+alttags: Illustration depicting a wolf howling under a rain cloud with a crossed-out Catalyst symbol, representing concerns about...
+related_articles:
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 85
+  rank: 1
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 75
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 75
+  rank: 3
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75
+  rank: 4
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 75
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 6
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 70
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65
+  rank: 8
+- slug: scary
+  title: SCARY
+  score: 65
+  rank: 9
+- slug: pied-piper
+  title: PIED PIPER
+  score: 65
+  rank: 10
 ---
 Fairhope City Council President Jack Burrell said he heard birds, and the sky was blue, that he felt Fairhope was going to have peace and calm in the next 4 years. CSB, Catalyst Scott/Boone, owns Fairhope, the council, the municipal judge, the city attorney and the Mayor. Complete total control, everyone is in bed with one another. They will make the decisions not the citizens of Fairhope. Just watch and see.
 

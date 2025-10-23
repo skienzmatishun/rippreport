@@ -6,7 +6,48 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: "Smoke billows from New York City skyscrapers after a disaster, reflecting the need for preparedness amid hurricane threats"
+alttags: Smoke billows from New York City skyscrapers after a disaster, reflecting the need for preparedness amid hurricane threats
+related_articles:
+- slug: shut-up
+  title: SHUT UP
+  score: 85
+  rank: 1
+- slug: shut-up-2
+  title: SHUT UP
+  score: 75
+  rank: 2
+- slug: re-run-doing-nothing
+  title: RE-RUN - DOING NOTHING
+  score: 65
+  rank: 3
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 60
+  rank: 4
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 55
+  rank: 5
+- slug: missed-the-bullet
+  title: MISSED THE BULLET
+  score: 55
+  rank: 6
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 45
+  rank: 7
+- slug: m-i-a
+  title: M.I.A
+  score: 45
+  rank: 8
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 35
+  rank: 9
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 25
+  rank: 10
 ---
 Hard to believe a week later we are expecting another hurricane, IRMA, headed towards the United States. Landfall is expected in the Miami area and the destructive route may travel through the entire state of Florida. Please pray for those in Irma’s path and be prepared to help those in need as the storm passes.
 

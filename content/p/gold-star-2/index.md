@@ -9,7 +9,48 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: "Gold star graphic representing Fairhope, Alabama receiving recognition and increased tourism due to a travel article and f..."
+alttags: Gold star graphic representing Fairhope, Alabama receiving recognition and increased tourism due to a travel article and f...
+related_articles:
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 95
+  rank: 1
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 85
+  rank: 2
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 85
+  rank: 3
+- slug: survey
+  title: SURVEY
+  score: 75
+  rank: 4
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 75
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 65
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 65
+  rank: 8
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65
+  rank: 9
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 50
+  rank: 10
 ---
 Sorry for the delay of Freaky Friday - technical difficulties.
 

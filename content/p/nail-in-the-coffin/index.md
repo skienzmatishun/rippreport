@@ -9,7 +9,48 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: "Hammer driving a nail into a coffin, symbolizing Fairhope City Council’s controversial land purchase decisions"
+alttags: Hammer driving a nail into a coffin, symbolizing Fairhope City Council’s controversial land purchase decisions
+related_articles:
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 95
+  rank: 1
+- slug: back-stabber
+  title: BACK STABBER
+  score: 95
+  rank: 2
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 90
+  rank: 3
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 85
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 85
+  rank: 5
+- slug: disposal
+  title: DISPOSAL
+  score: 85
+  rank: 6
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 85
+  rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85
+  rank: 8
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75
+  rank: 9
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 70
+  rank: 10
 ---
 The Fairhope City council just put the final nail in their re-election coffin.
 
