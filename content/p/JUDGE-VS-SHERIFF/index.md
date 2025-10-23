@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw...
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 92
-  rank: 1
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 92
-  rank: 2
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 85
-  rank: 3
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 85
-  rank: 4
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 85
-  rank: 5
+  score: 92.90020726935181
+  llm_score: 92
+  recency_score: 96.50103634675902
+  rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
-  rank: 6
+  score: 90.61488310709093
+  llm_score: 92
+  recency_score: 85.07441553545459
+  rank: 2
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 85
+  score: 83.22366745387794
+  llm_score: 92
+  recency_score: 48.118337269389656
+  rank: 3
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 82.63595596770666
+  llm_score: 92
+  recency_score: 45.179779838533264
+  rank: 4
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 82.17762382000342
+  llm_score: 92
+  recency_score: 42.88811910001705
+  rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 81.43613691258605
+  llm_score: 92
+  recency_score: 39.1806845629302
+  rank: 6
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 76.46092326761413
+  llm_score: 85
+  recency_score: 42.3046163380707
   rank: 7
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 85
-  rank: 8
 - slug: cooking-for-the-judge
   title: COOKING FOR THE JUDGE
-  score: 78
+  score: 62.49386369877199
+  llm_score: 78
+  recency_score: 0.4693184938599064
+  rank: 8
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 60.8400622403612
+  llm_score: 65
+  recency_score: 44.200311201805995
   rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 75
+- slug: rumors
+  title: RUMORS
+  score: 59.83613691258604
+  llm_score: 65
+  recency_score: 39.1806845629302
   rank: 10
 ---
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.

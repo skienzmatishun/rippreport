@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 92
-  rank: 1
 - slug: all-mouth
   title: ALL MOUTH
-  score: 92
+  score: 92.74222555805996
+  llm_score: 92
+  recency_score: 95.71112779029973
+  rank: 1
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 87.56882643931993
+  llm_score: 92
+  recency_score: 69.84413219659965
   rank: 2
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 87
+  score: 76.77838723901063
+  llm_score: 87
+  recency_score: 35.89193619505306
   rank: 3
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 85
-  rank: 4
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 85
+  score: 76.2966427783578
+  llm_score: 95
+  recency_score: 1.4832138917890048
+  rank: 4
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 68.25030136070713
+  llm_score: 85
+  recency_score: 1.251506803535654
   rank: 5
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 82
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 68.21766117429252
+  llm_score: 85
+  recency_score: 1.0883058714626104
   rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 68.07039853716508
+  llm_score: 85
+  recency_score: 0.3519926858253926
+  rank: 7
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 78
-  rank: 7
+  score: 63.11282858459236
+  llm_score: 78
+  recency_score: 3.5641429229617514
+  rank: 8
 - slug: hell-yea
   title: HELL YEA
-  score: 75
-  rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
+  score: 60.196140260537916
+  llm_score: 75
+  recency_score: 0.9807013026895641
   rank: 9
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 65
+- slug: going-down
+  title: GOING DOWN
+  score: 56.569400152657956
+  llm_score: 70
+  recency_score: 2.8470007632897696
   rank: 10
 ---
 Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. The city attorney is put in place to protect “THEIR” agenda. The municipal judge is a major developer in Fauxhope and his developments must meet the approval of the council that “APPOINTED” him as municipal judge.

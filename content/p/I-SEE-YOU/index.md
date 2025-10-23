@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Fairhope city clock tower under surveillance cameras, symbolizing a council ignoring public input
 related_articles:
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 100
-  rank: 1
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 95
+  score: 82.20395356266881
+  llm_score: 100
+  recency_score: 11.019767813344055
+  rank: 1
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 82.16802033974548
+  llm_score: 100
+  recency_score: 10.840101698727413
   rank: 2
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 74.19191013062844
+  llm_score: 90
+  recency_score: 10.959550653142209
+  rank: 3
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 90
-  rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
+  score: 72.1908394994975
+  llm_score: 90
+  recency_score: 0.9541974974875161
   rank: 4
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 70.10942881080481
+  llm_score: 85
+  recency_score: 10.547144054024043
+  rank: 5
 - slug: back-stabber
   title: BACK STABBER
-  score: 85
-  rank: 5
-- slug: 100-voices
-  title: 100 VOICES
-  score: 85
+  score: 68.17869480190573
+  llm_score: 85
+  recency_score: 0.8934740095286622
   rank: 6
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 7
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 78
+  score: 68.02276912293196
+  llm_score: 85
+  recency_score: 0.11384561465983976
+  rank: 7
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 67.54126400432338
+  llm_score: 75
+  recency_score: 37.70632002161693
   rank: 8
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
+  score: 60.041716002692816
+  llm_score: 75
+  recency_score: 0.208580013464076
   rank: 9
-- slug: invitation
-  title: INVITATION
-  score: 65
+- slug: people-power
+  title: PEOPLE POWER
+  score: 60.029538052086
+  llm_score: 75
+  recency_score: 0.1476902604299711
   rank: 10
 ---
 The Fauxhope City Council agenda looks like business as usual. However a closer look just shows how the council is doing what THEY damn well want to do, without public discussion. Oh sure they have public participation for three minutes per person. Those who have follow the development elected council know the council is deaf when it comes to any public participation.
