@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Satirical depiction of a police chief in uniform and another figure in handcuffs, referencing Fairhope’s recent events and...
 related_articles:
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 90
-  rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 85
-  rank: 2
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 85
-  rank: 3
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 5
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 75
-  rank: 6
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 1
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 82.16149687375565
+  llm_score: 85
+  recency_score: 70.80748436877823
+  rank: 2
 - slug: catalyst
   title: CATALYST
-  score: 70
+  score: 80.2139847791858
+  llm_score: 85
+  recency_score: 61.06992389592894
+  rank: 3
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 79.03762349360866
+  llm_score: 75
+  recency_score: 95.18811746804333
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 72.10218401165189
+  llm_score: 90
+  recency_score: 0.5109200582594592
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 70.19792359772774
+  llm_score: 85
+  recency_score: 10.989617988638654
+  rank: 6
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 68.37752037428082
+  llm_score: 85
+  recency_score: 1.887601871404123
   rank: 7
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 68.08389071583125
+  llm_score: 85
+  recency_score: 0.4194535791561977
   rank: 8
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 65
+  score: 63.64866887953505
+  llm_score: 75
+  recency_score: 18.243344397675273
   rank: 9
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 65
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 62.721577636566764
+  llm_score: 75
+  recency_score: 13.607888182833822
   rank: 10
 ---
 When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, Bill Press. Maybe you could ask the current Fairhope Police Chief who, today, just announced his retirement after 36 years, Chief Joseph Pettis.

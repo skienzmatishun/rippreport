@@ -20,43 +20,63 @@ alttags: Blue stick figure icon representing public discussion regarding land tr
 related_articles:
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
-  score: 85
+  score: 91.72789538259508
+  llm_score: 90
+  recency_score: 98.63947691297537
   rank: 1
 - slug: big-head-gully-and-the-fruit-nuts
   title: BIG HEAD GULLY AND THE FRUIT NUTS
-  score: 85
+  score: 87.56641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
   rank: 2
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
+  score: 85.72869172076295
+  llm_score: 85
+  recency_score: 88.64345860381478
   rank: 3
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 75
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 76.1518346432357
+  llm_score: 75
+  recency_score: 80.75917321617852
   rank: 4
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 65
-  rank: 5
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 65
-  rank: 6
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 65
-  rank: 7
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 65
-  rank: 8
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
-  rank: 9
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 50
+  score: 73.39192896735389
+  llm_score: 70
+  recency_score: 86.95964483676948
+  rank: 5
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 63.8226265046153
+  llm_score: 75
+  recency_score: 19.113132523076512
+  rank: 6
+- slug: full-plate
+  title: FULL PLATE
+  score: 59.40541722763621
+  llm_score: 60
+  recency_score: 57.02708613818104
+  rank: 7
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 56.93193927883213
+  llm_score: 65
+  recency_score: 24.659696394160648
+  rank: 8
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 55.55006229161194
+  llm_score: 65
+  recency_score: 17.750311458059702
+  rank: 9
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 53.87500061211332
+  llm_score: 65
+  recency_score: 9.375003060566598
   rank: 10
 ---
 Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 - 6:00 P.M. - CITY COUNCIL CHAMBER

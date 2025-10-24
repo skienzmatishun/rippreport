@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Falling dominoes represent former State Rep. Randy Davis seeking leniency in a corruption case indictment
 related_articles:
-- slug: boone-doggle
-  title: BOONE-DOGGLE
-  score: 90
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 83.50151487477555
+  llm_score: 85
+  recency_score: 77.50757437387774
   rank: 1
 - slug: catalyst-busted
   title: CATALYST BUSTED
-  score: 85
+  score: 80.69156694727452
+  llm_score: 85
+  recency_score: 63.45783473637261
   rank: 2
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 73.3251698208218
+  llm_score: 85
+  recency_score: 26.62584910410898
+  rank: 3
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 85
-  rank: 3
+  score: 73.11076301928001
+  llm_score: 85
+  recency_score: 25.553815096400097
+  rank: 4
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 85
-  rank: 4
+  score: 72.83825535238421
+  llm_score: 85
+  recency_score: 24.19127676192105
+  rank: 5
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 70.53445557051873
+  llm_score: 85
+  recency_score: 12.67227785259367
+  rank: 6
 - slug: get-out-of-jail-card
   title: GET OUT OF JAIL CARD
-  score: 85
-  rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 75
-  rank: 6
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 75
+  score: 68.54497930774862
+  llm_score: 85
+  recency_score: 2.7248965387430797
   rank: 7
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75
-  rank: 8
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 75
-  rank: 9
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 65
+  score: 67.96601468604398
+  llm_score: 75
+  recency_score: 39.83007343021991
+  rank: 8
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 62.82799474546216
+  llm_score: 75
+  recency_score: 14.139973727310823
+  rank: 9
+- slug: threesome
+  title: THREESOME
+  score: 52.87303941455374
+  llm_score: 65
+  recency_score: 4.365197072768688
   rank: 10
 ---
 “According to court records filed Friday, State Rep. Randy Davis of Daphne is attempting to avoid prosecution from federal conspiracy and bribery charges through pretrial diversion regarding an indictment unsealed in Montgomery last year.”

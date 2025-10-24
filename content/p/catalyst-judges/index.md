@@ -14,43 +14,63 @@ alttags: 'Satirical depiction of Alabama judicial appointments: a woman in robes
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 85
+  score: 86.32123996578217
+  llm_score: 85
+  recency_score: 91.60619982891085
   rank: 1
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 85
+  score: 78.05490968089218
+  llm_score: 85
+  recency_score: 50.274548404460894
   rank: 2
-- slug: exposure
-  title: EXPOSURE
-  score: 75
-  rank: 3
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 75
-  rank: 4
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 65
+  score: 73.72869172076295
+  llm_score: 70
+  recency_score: 88.64345860381478
+  rank: 3
+- slug: exposure
+  title: EXPOSURE
+  score: 72.16147367298336
+  llm_score: 85
+  recency_score: 20.807368364916808
+  rank: 4
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 69.67654461491676
+  llm_score: 75
+  recency_score: 48.38272307458382
   rank: 5
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 65
-  rank: 6
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 65
+  score: 64.10485586290197
+  llm_score: 75
+  recency_score: 20.524279314509858
+  rank: 6
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 60.78887733531245
+  llm_score: 75
+  recency_score: 3.94438667656226
   rank: 7
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 65
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 56.828756105589854
+  llm_score: 70
+  recency_score: 4.143780527949273
   rank: 8
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 65
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 55.589181041659295
+  llm_score: 65
+  recency_score: 17.945905208296484
   rank: 9
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 65
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 52.11912815915694
+  llm_score: 65
+  recency_score: 0.5956407957847131
   rank: 10
 ---
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment. When a judgeship is vacated, typically before the term ends, challengers also submit themselves to the closed committees and the approval of presiding judges and the glorious appointment is made. There is then a silent rule among the attorneys and judges. Sitting Judges, even the appointed ones, shall NOT be challenged in elections.

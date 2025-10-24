@@ -12,43 +12,63 @@ alttags: Eyeglasses resting on a document, symbolizing poll watcher observations
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”
-  score: 90
+  score: 91.72789538259508
+  llm_score: 90
+  recency_score: 98.63947691297537
   rank: 1
+- slug: pay-off-and-election-fraud
+  title: PAY OFF AND ELECTION FRAUD
+  score: 87.78201851846809
+  llm_score: 85
+  recency_score: 98.91009259234048
+  rank: 2
 - slug: elected-or-selected
   title: ELECTED OR SELECTED
-  score: 85
-  rank: 2
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 3
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 82
-  rank: 3
-- slug: election-ad
-  title: ELECTION AD
-  score: 75
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
   rank: 4
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 75.23763081530716
+  llm_score: 85
+  recency_score: 36.18815407653578
+  rank: 5
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 69.68018643855639
+  llm_score: 65
+  recency_score: 88.40093219278197
+  rank: 6
 - slug: stealing-our-democracy
   title: STEALING OUR DEMOCRACY
-  score: 75
-  rank: 5
-- slug: vote
-  title: VOTE
-  score: 70
-  rank: 6
+  score: 68.41779647074497
+  llm_score: 85
+  recency_score: 2.088982353724851
+  rank: 7
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 70
-  rank: 7
-- slug: blind-voting-straight-ticket
-  title: BLIND VOTING STRAIGHT TICKET
-  score: 65
+  score: 59.7193186493482
+  llm_score: 70
+  recency_score: 18.596593246741016
   rank: 8
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 65
+- slug: vote
+  title: VOTE
+  score: 58.851334322569194
+  llm_score: 70
+  recency_score: 14.25667161284597
   rank: 9
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 65
+- slug: election-ad
+  title: ELECTION AD
+  score: 56.57409943959583
+  llm_score: 70
+  recency_score: 2.8704971979791183
   rank: 10
 ---
 STOPVOTERFRAUDNOW.COM

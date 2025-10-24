@@ -12,43 +12,63 @@ alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electron
 related_articles:
 - slug: 4-20
   title: 4-20
-  score: 95
+  score: 76.1641446131058
+  llm_score: 95
+  recency_score: 0.8207230655290094
   rank: 1
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 90
-  rank: 2
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 90
-  rank: 3
+  score: 72.46746438732139
+  llm_score: 90
+  recency_score: 2.337321936606922
+  rank: 2
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 85
+  score: 72.4564942330773
+  llm_score: 85
+  recency_score: 22.28247116538646
+  rank: 3
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 72.13888198432126
+  llm_score: 90
+  recency_score: 0.6944099216063174
   rank: 4
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 85
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 71.67392032634467
+  llm_score: 65
+  recency_score: 98.36960163172333
   rank: 5
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 82
+- slug: war
+  title: WAR
+  score: 71.14222555805995
+  llm_score: 65
+  recency_score: 95.71112779029973
   rank: 6
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 75
+  score: 71.0898528806295
+  llm_score: 65
+  recency_score: 95.44926440314748
   rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 65
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 68.48574283286044
+  llm_score: 85
+  recency_score: 2.4287141643022077
   rank: 8
 - slug: insanity-2
   title: INSANITY
-  score: 50
+  score: 52.37855609482353
+  llm_score: 65
+  recency_score: 1.892780474117634
   rank: 9
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 50
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 43.68643798993654
+  llm_score: 52
+  recency_score: 10.432189949682714
   rank: 10
 ---
 >Lost in all of this debate are the patients. Does anybody remember the patients?... Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing? Of course, you do. It's been the hallmark of getting the Compassion Act, passed in the first place – not making a bunch of the state's wealthy even wealthier. Or, what about the patients that are in serious pain that either live in agonizing pain or resort to taking legal and/or illegal addictive pain medicines? A million Americans have died in the last ten years from drug overdoses. Whether it was from illegal substances like fentanyl and heroin or hydrocodone, Oxycontin, and morphine that unscrupulous doctors over prescribed, hundreds of thousands of Americans have died from drug overdoses in the last decade. Why is Alabama still not allowing cancer patients and other people with a doctor diagnosed need from receiving a non-addictive non-opiate based pain reliever recommended by their doctor? This made no sense four years ago and is even less sense given the suffering that opiates have inflicted on our culture – too often inflicted by the pharmaceutical companies who made out like bandits inventing new ways to get people hooked to their products.

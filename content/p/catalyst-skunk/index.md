@@ -15,43 +15,63 @@ alttags: Person in a skunk costume, referencing County Commissioner Tucker Dorse
 related_articles:
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 95
+  score: 95.14222555805995
+  llm_score: 95
+  recency_score: 95.71112779029973
   rank: 1
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 90
+  score: 87.50151487477555
+  llm_score: 90
+  recency_score: 77.50757437387774
   rank: 2
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 85
+  score: 86.07197526621852
+  llm_score: 85
+  recency_score: 90.35987633109261
   rank: 3
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 79.35315705036788
+  llm_score: 75
+  recency_score: 96.76578525183945
+  rank: 4
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 85
-  rank: 4
-- slug: skunked
-  title: SKUNKED
-  score: 75
+  score: 78.52312487593501
+  llm_score: 75
+  recency_score: 92.61562437967505
   rank: 5
-- slug: catalyst-exit-door
-  title: CATALYST EXIT DOOR
-  score: 75
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 74.88179115997221
+  llm_score: 70
+  recency_score: 94.40895579986105
   rank: 6
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
+- slug: catalyst-2
+  title: CATALYST
+  score: 70.81254126082239
+  llm_score: 85
+  recency_score: 14.062706304111916
   rank: 7
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 75
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70.3666742467154
+  llm_score: 85
+  recency_score: 11.833371233577015
   rank: 8
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 70
+  score: 57.89047508264844
+  llm_score: 70
+  recency_score: 9.45237541324223
   rank: 9
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 65
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 56.31680361570459
+  llm_score: 70
+  recency_score: 1.5840180785229494
   rank: 10
 ---
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.

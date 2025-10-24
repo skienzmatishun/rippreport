@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Vintage newspaper clipping featuring Blanche Weeks and a headline proclaiming her gumbo is now famous; related to politica...
 related_articles:
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 65
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 77.89097459752321
+  llm_score: 85
+  recency_score: 49.45487298761609
   rank: 1
-- slug: repeat
-  title: REPEAT
-  score: 65
-  rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 65
-  rank: 3
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 65
-  rank: 4
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 65
+  score: 62.39097616448169
+  llm_score: 65
+  recency_score: 51.95488082240847
+  rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 62.1739682656214
+  llm_score: 75
+  recency_score: 10.869841328106999
+  rank: 3
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 61.06925821416129
+  llm_score: 75
+  recency_score: 5.346291070806423
+  rank: 4
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 53.948315494495255
+  llm_score: 65
+  recency_score: 9.741577472476289
   rank: 5
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 55
+  score: 53.17686669222855
+  llm_score: 65
+  recency_score: 5.884333461142748
   rank: 6
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 55
+- slug: exposure
+  title: EXPOSURE
+  score: 52.33190786506904
+  llm_score: 65
+  recency_score: 1.659539325345199
   rank: 7
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 54
+  score: 52.2862633553631
+  llm_score: 65
+  recency_score: 1.431316776815486
   rank: 8
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 40
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 52.17967663901331
+  llm_score: 65
+  recency_score: 0.8983831950665335
   rank: 9
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 40
+- slug: newsletter
+  title: NEWSLETTER
+  score: 52.178694801905735
+  llm_score: 65
+  recency_score: 0.8934740095286622
   rank: 10
 ---
 All of us have read news articles that have driven us up the wall, but this article and story is insane and most likely a perfect example of someone with power who wants his own way. What the Ripp Report calls political corruption.

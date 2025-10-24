@@ -16,45 +16,65 @@ authors:
 - admin
 alttags: Cartoon leprechaun raising a mug, possibly symbolizing unproductive or corrupt Fairhope council members discussed in the R...
 related_articles:
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 100
-  rank: 1
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 85
+  score: 87.67392032634467
+  llm_score: 85
+  recency_score: 98.36960163172333
+  rank: 1
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 74.67496869450072
+  llm_score: 75
+  recency_score: 73.37484347250358
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 70.46596099775734
+  llm_score: 85
+  recency_score: 12.329804988786655
   rank: 3
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 75
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 70.25897315930858
+  llm_score: 85
+  recency_score: 11.294865796542922
   rank: 4
 - slug: surrender
   title: SURRENDER
-  score: 75
+  score: 69.8369256908693
+  llm_score: 75
+  recency_score: 49.18462845434644
   rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 68.23891080758602
+  llm_score: 85
+  recency_score: 1.1945540379301263
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 68.23760528730483
+  llm_score: 85
+  recency_score: 1.1880264365241602
+  rank: 7
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 60.793211815291016
+  llm_score: 75
+  recency_score: 3.9660590764550863
+  rank: 8
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 56.78456654095773
+  llm_score: 70
+  recency_score: 3.9228327047886493
+  rank: 9
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 75
-  rank: 6
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
-  rank: 7
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 75
-  rank: 8
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 75
-  rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+  score: 52.489751691900906
+  llm_score: 65
+  recency_score: 2.448758459504532
   rank: 10
 ---
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.

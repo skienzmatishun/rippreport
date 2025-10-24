@@ -10,43 +10,63 @@ alttags: Illustration of brown underwear symbolizing Alabama’s legal instituti
 related_articles:
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 92
+  score: 82.53747241426177
+  llm_score: 92
+  recency_score: 44.68736207130882
   rank: 1
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 85
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 73.9764874874451
+  llm_score: 92
+  recency_score: 1.8824374372254367
   rank: 2
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 75
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 71.63868620757778
+  llm_score: 85
+  recency_score: 18.193431037888864
   rank: 3
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 75
+  score: 68.84480344505099
+  llm_score: 85
+  recency_score: 4.224017225254928
   rank: 4
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 68.81078920500241
+  llm_score: 85
+  recency_score: 4.053946025012058
+  rank: 5
+- slug: threesome
+  title: THREESOME
+  score: 66.16149687375565
+  llm_score: 65
+  recency_score: 70.80748436877823
+  rank: 6
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 60.058432434105065
+  llm_score: 75
+  recency_score: 0.2921621705253142
+  rank: 7
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 56.75297761359889
+  llm_score: 70
+  recency_score: 3.764888067994434
+  rank: 8
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 65
-  rank: 5
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 65
-  rank: 6
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 65
-  rank: 7
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65
-  rank: 8
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 65
+  score: 56.196678367911524
+  llm_score: 70
+  recency_score: 0.9833918395576343
   rank: 9
 - slug: judicial-trick
   title: JUDICIAL TRICK
-  score: 65
+  score: 54.21000007071322
+  llm_score: 65
+  recency_score: 11.05000035356611
   rank: 10
 ---
 The Attorney General, Ethics Commission and the Alabama Bar all wear the same dirty underwear. They protect one another, and politicians, from pesky political complaints and play a legal shuffle that results in whitewashing their culpability. It is perfectly clear that the Attorney General will always side with the Bar or Ethics. The Bar and Ethics depend on the Attorney General to cover their back.

@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Baldwin County political commentary features a stylized eagle stamp referencing Legal Eagle nickname and investigative r...
 related_articles:
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 1
 - slug: above-the-law
   title: ABOVE THE LAW
-  score: 78
+  score: 78.07232874673902
+  llm_score: 78
+  recency_score: 78.36164373369505
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 69.14820290291419
+  llm_score: 85
+  recency_score: 5.741014514570984
   rank: 2
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 75
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 68.52591067985281
+  llm_score: 85
+  recency_score: 2.629553399264038
   rank: 3
 - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
   title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 75
+  score: 68.35349562682318
+  llm_score: 85
+  recency_score: 1.7674781341158494
   rank: 4
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 62.24662907448485
+  llm_score: 75
+  recency_score: 11.233145372424257
+  rank: 5
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 75
-  rank: 5
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75
+  score: 60.33281844849064
+  llm_score: 75
+  recency_score: 1.664092242453201
   rank: 6
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 60.119454985177626
+  llm_score: 75
+  recency_score: 0.5972749258881307
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 56.46490994349128
+  llm_score: 70
+  recency_score: 2.3245497174563954
+  rank: 8
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 65
-  rank: 7
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 65
-  rank: 8
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 65
+  score: 55.12970187685954
+  llm_score: 65
+  recency_score: 15.648509384297702
   rank: 9
 - slug: alabama-suicide
   title: ALABAMA SUICIDE
-  score: 65
+  score: 52.20048668318456
+  llm_score: 65
+  recency_score: 1.002433415922802
   rank: 10
 ---
 The Ripp Report/Baldwin County Legal Eagle Face book

@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article
 related_articles:
+- slug: re-run-doing-nothing
+  title: DOING NOTHING
+  score: 95.62944962510568
+  llm_score: 100
+  recency_score: 78.14724812552835
+  rank: 1
 - slug: in-the-dark
   title: IN THE DARK
-  score: 95
-  rank: 1
-- slug: re-run-doing-nothing
-  title: RE-RUN - DOING NOTHING
-  score: 95
+  score: 95.56641283325074
+  llm_score: 95
+  recency_score: 97.83206416625366
   rank: 2
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 85
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 93.77733007636273
+  llm_score: 95
+  recency_score: 88.88665038181365
   rank: 3
-- slug: skunked
-  title: SKUNKED
-  score: 85
-  rank: 4
-- slug: repeat
-  title: REPEAT
-  score: 85
-  rank: 5
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 85
-  rank: 6
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 85
-  rank: 7
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 85
-  rank: 8
-- slug: bit-dogs-bark-first
-  title: BIT DOGS BARK FIRST
-  score: 75
-  rank: 9
+  score: 92.50975554986516
+  llm_score: 95
+  recency_score: 82.54877774932578
+  rank: 4
 - slug: hell-yea
   title: HELL YEA
-  score: 75
+  score: 92.01962391400207
+  llm_score: 95
+  recency_score: 80.0981195700103
+  rank: 5
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 81.74975319390109
+  llm_score: 95
+  recency_score: 28.748765969505406
+  rank: 6
+- slug: repeat
+  title: REPEAT
+  score: 79.83613691258604
+  llm_score: 90
+  recency_score: 39.1806845629302
+  rank: 7
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 78.2081892039405
+  llm_score: 90
+  recency_score: 31.040946019702552
+  rank: 8
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 73.97457577604462
+  llm_score: 85
+  recency_score: 29.872878880223098
+  rank: 9
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 68.244874987816
+  llm_score: 85
+  recency_score: 1.2243749390800314
   rank: 10
 ---
 Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government.

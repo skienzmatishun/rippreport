@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues
 related_articles:
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 84.50741174036145
+  llm_score: 95
+  recency_score: 42.537058701807275
   rank: 1
 - slug: total-darkness
   title: TOTAL DARKNESS
-  score: 85
+  score: 82.79608191931776
+  llm_score: 85
+  recency_score: 73.98040959658876
   rank: 2
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 85
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
   rank: 3
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 85
-  rank: 4
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 85
+  score: 76.16235558880828
+  llm_score: 95
+  recency_score: 0.8117779440414381
+  rank: 4
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 75.64527980108477
+  llm_score: 85
+  recency_score: 38.22639900542388
   rank: 5
-- slug: repeat
-  title: REPEAT
-  score: 75
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 73.29607060479165
+  llm_score: 85
+  recency_score: 26.48035302395829
   rank: 6
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 75
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 69.65298308953878
+  llm_score: 85
+  recency_score: 8.264915447693923
   rank: 7
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 75
+  score: 68.84480344505099
+  llm_score: 85
+  recency_score: 4.224017225254928
   rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 75
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 68.5102977617175
+  llm_score: 85
+  recency_score: 2.5514888085874565
   rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 65
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 56.887509352556116
+  llm_score: 70
+  recency_score: 4.437546762780576
   rank: 10
 ---
 The most favorite words of a politician or elected official in Baldwin County are Transparency and Accountability, The most lacking quality of life issue, in Baldwin County, is Transparency and Accountability.

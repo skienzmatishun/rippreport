@@ -10,43 +10,63 @@ alttags: Hand reaching from water, symbolizing a political exit after Billie Jo 
 related_articles:
 - slug: catalyst-exit-door
   title: CATALYST EXIT DOOR
-  score: 95
+  score: 95.78201851846809
+  llm_score: 95
+  recency_score: 98.91009259234048
   rank: 1
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 90
+  score: 89.82610187044024
+  llm_score: 90
+  recency_score: 89.13050935220119
   rank: 2
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 85
-  rank: 3
 - slug: you-win-some-you-lose-some
   title: YOU WIN SOME YOU LOSE SOME
-  score: 85
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
+  rank: 3
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 79.51287958944485
+  llm_score: 75
+  recency_score: 97.56439794722424
   rank: 4
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 85
+  score: 74.70670566473225
+  llm_score: 90
+  recency_score: 13.53352832366127
   rank: 5
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 71.23430628782093
+  llm_score: 85
+  recency_score: 16.171531439104648
   rank: 6
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75
-  rank: 7
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 65
-  rank: 8
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 65
-  rank: 9
 - slug: i-quit-and-will-quit-again
   title: I QUIT AND WILL QUIT AGAIN
-  score: 65
+  score: 70.43570824436047
+  llm_score: 70
+  recency_score: 72.17854122180232
+  rank: 7
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 62.520606121083915
+  llm_score: 75
+  recency_score: 12.603030605419562
+  rank: 8
+- slug: i-quit
+  title: I QUIT
+  score: 61.465261380703375
+  llm_score: 75
+  recency_score: 7.326306903516857
+  rank: 9
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 60.07436363196031
+  llm_score: 75
+  recency_score: 0.37181815980154354
   rank: 10
 ---
 The People’s Choice almost made a clean sweep of Catalyst. PEOPLE’S CHOICE 2 CATALYST ½

@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described in Emma Lazaruss “New Colossus” poem
 related_articles:
-- slug: 45th-of-july-2025
-  title: 4TH OF JULY
-  score: 85
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 68.18056760504162
+  llm_score: 70
+  recency_score: 60.90283802520807
   rank: 1
-- slug: happy-fourth-of-july
-  title: Happy Fourth of July
-  score: 85
+- slug: kindness
+  title: RANDOM ACTS OF KINDNESS
+  score: 63.916500715178216
+  llm_score: 65
+  recency_score: 59.582503575891096
   rank: 2
-- slug: fourth-of-july-2023
-  title: 4th of July
-  score: 80
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 60.76770197286933
+  llm_score: 65
+  recency_score: 43.83850986434665
   rank: 3
-- slug: fourth-of-july-2
-  title: Fourth of July
-  score: 78
+- slug: combat
+  title: COMBAT
+  score: 56.63074876314147
+  llm_score: 65
+  recency_score: 23.153743815707337
   rank: 4
-- slug: happy-4th-of-july-2
-  title: 🇺🇸 HAPPY 4TH OF JULY 🇺🇸
-  score: 78
+- slug: never-forget
+  title: Never Forget
+  score: 52.79104160648169
+  llm_score: 65
+  recency_score: 3.955208032408443
   rank: 5
-- slug: happy-4th-of-july
-  title: Happy 4th of July
-  score: 78
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 47.75437397178276
+  llm_score: 45
+  recency_score: 58.77186985891382
   rank: 6
-- slug: happy-july-4th
-  title: HAPPY JULY 4TH
-  score: 75
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 47.6262621791403
+  llm_score: 45
+  recency_score: 58.1313108957015
   rank: 7
-- slug: -4th-of-july
-  title: 4th of July
-  score: 65
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 45.890211753267565
+  llm_score: 57
+  recency_score: 1.4510587663378074
   rank: 8
-- slug: happy-birthday-🇺🇸-246-years
-  title: HAPPY BIRTHDAY 🇺🇸 246 YEARS
-  score: 65
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 40.722660548191314
+  llm_score: 50
+  recency_score: 3.6133027409565597
   rank: 9
-- slug: memorial-day-2023
-  title: MEMORIAL DAY
-  score: 58
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 40.52017874039542
+  llm_score: 50
+  recency_score: 2.6008937019770966
   rank: 10
 ---
 AMERICA

@@ -17,45 +17,65 @@ authors:
 - ripp-report
 alttags: Labrador Retriever dog grinning mischievously, perhaps distracted like football fans unaware of Fairhope City Council news
 related_articles:
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 1
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 1
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 85
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
   rank: 2
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 75
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 71.72789538259508
+  llm_score: 65
+  recency_score: 98.63947691297537
   rank: 3
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 75
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.60890176713603
+  llm_score: 85
+  recency_score: 18.044508835680173
   rank: 4
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
+  score: 67.00016259450726
+  llm_score: 65
+  recency_score: 75.00081297253628
   rank: 5
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 65
+- slug: comment-are-you-surprised-at-all
+  title: 'Comment: Are You Surprised at all??????'
+  score: 66.83667471122875
+  llm_score: 65
+  recency_score: 74.18337355614374
   rank: 6
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 65
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 65.22400374104741
+  llm_score: 65
+  recency_score: 66.12001870523703
   rank: 7
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 60.250988058111595
+  llm_score: 75
+  recency_score: 1.2549402905579714
+  rank: 8
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 65
-  rank: 8
-- slug: jack-ass
-  title: JACK ASS
-  score: 65
+  score: 57.1450614468658
+  llm_score: 70
+  recency_score: 5.7253072343290325
   rank: 9
-- slug: honey-bees
-  title: HONEY BEES
-  score: 60
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 52.027810269549995
+  llm_score: 65
+  recency_score: 0.1390513477499682
   rank: 10
 ---
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple of councilmen were hoping you were distracted.

@@ -7,45 +7,65 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 75
+- slug: flying-high
+  title: FLYING HIGH
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
   rank: 1
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 75
+  score: 80.74635098516816
+  llm_score: 95
+  recency_score: 23.73175492584083
   rank: 2
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 75
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 75.10014946474215
+  llm_score: 85
+  recency_score: 35.500747323710755
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 73.86108660151994
+  llm_score: 85
+  recency_score: 29.305433007599714
   rank: 4
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 65
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 69.28693882755796
+  llm_score: 75
+  recency_score: 46.434694137789805
   rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 65
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 67.77199426882628
+  llm_score: 75
+  recency_score: 38.85997134413138
   rank: 6
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 65
-  rank: 7
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 65
-  rank: 8
 - slug: captain-jack
   title: CAPTAIN JACK
-  score: 65
+  score: 67.03654154157076
+  llm_score: 70
+  recency_score: 55.18270770785375
+  rank: 7
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 61.3251698208218
+  llm_score: 70
+  recency_score: 26.62584910410898
+  rank: 8
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 60.39586260016436
+  llm_score: 70
+  recency_score: 21.979313000821772
   rank: 9
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 65
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 57.12478430821849
+  llm_score: 65
+  recency_score: 25.623921541092447
   rank: 10
 ---
 ## PLEASE ATTEND FAIRHOPE CITY COUNCIL MEETING JUNE 11, SUPPORT THE MAYOR

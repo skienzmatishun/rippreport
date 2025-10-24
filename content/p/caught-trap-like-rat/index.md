@@ -11,45 +11,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: demand-the-truth
-  title: DEMAND THE TRUTH
-  score: 69
-  rank: 1
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 68
+  score: 80.62221429547445
+  llm_score: 85
+  recency_score: 63.11107147737226
+  rank: 1
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 75.88849539476564
+  llm_score: 75
+  recency_score: 79.4424769738282
   rank: 2
-- slug: hate
-  title: HATE
-  score: 64
-  rank: 3
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 63
-  rank: 4
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 62
-  rank: 5
-- slug: fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 62
-  rank: 6
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 62
-  rank: 7
+  score: 73.15530775847412
+  llm_score: 70
+  recency_score: 85.7765387923706
+  rank: 3
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 72.19614691902797
+  llm_score: 70
+  recency_score: 80.98073459513984
+  rank: 4
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 61
+  score: 71.98197582956217
+  llm_score: 75
+  recency_score: 59.9098791478109
+  rank: 5
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 71.21946349126168
+  llm_score: 75
+  recency_score: 56.097317456308396
+  rank: 6
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 69.51650071517822
+  llm_score: 72
+  recency_score: 59.582503575891096
+  rank: 7
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 59.56195333019646
+  llm_score: 65
+  recency_score: 37.809766650982276
   rank: 8
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 61
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 56.5652796209306
+  llm_score: 62
+  recency_score: 34.826398104653
   rank: 9
-- slug: shut-up-2
-  title: SHUT UP
-  score: 60
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 51.9796779187427
+  llm_score: 62
+  recency_score: 11.898389593713517
   rank: 10
 ---
 Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and elected officials that were unethical or criminal. The interesting thing is that it is usually the good employees who come forward with information once they do not have to fear retribution from a Mayor who covered and condoned such behavior.

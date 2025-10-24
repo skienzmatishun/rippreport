@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts
 related_articles:
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
+  rank: 1
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 85
-  rank: 1
+  score: 79.46808419803509
+  llm_score: 85
+  recency_score: 57.34042099017541
+  rank: 2
 - slug: april-fool
   title: APRIL FOOL
-  score: 82
-  rank: 2
+  score: 77.29014258029427
+  llm_score: 82
+  recency_score: 58.450712901471334
+  rank: 3
 - slug: the-jester
   title: THE JESTER
-  score: 75
-  rank: 3
-- slug: dog-and-pony-show
-  title: DOG AND PONY SHOW
-  score: 75
+  score: 76.60046826485723
+  llm_score: 75
+  recency_score: 83.00234132428609
   rank: 4
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 65
-  rank: 5
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 65
-  rank: 6
 - slug: straw-man
   title: STRAW MAN
-  score: 65
-  rank: 7
+  score: 70.52312487593501
+  llm_score: 65
+  recency_score: 92.61562437967505
+  rank: 5
 - slug: ignorance-is-bliss
   title: IGNORANCE IS BLISS
-  score: 65
-  rank: 8
+  score: 68.64841536332693
+  llm_score: 75
+  recency_score: 43.242076816634636
+  rank: 6
 - slug: judicial-trick
   title: JUDICIAL TRICK
-  score: 65
+  score: 67.15815510057
+  llm_score: 70
+  recency_score: 55.79077550285001
+  rank: 7
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 63.69899455443594
+  llm_score: 75
+  recency_score: 18.4949727721797
+  rank: 8
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 54.30271402453601
+  llm_score: 65
+  recency_score: 11.51357012268003
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 65
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 54.20395356266881
+  llm_score: 65
+  recency_score: 11.019767813344055
   rank: 10
 ---
  In Fairhope Transparency is being promoted by a Jester. His followers do not care about facts only the Jester spin. The Jester, Boone and Burrell are now calling for community engagement in reference to the Greeno Road Overlay District. Citizens agree and the Mayor has already implemented several public meetings, so what the hell are they talking about? DISTRACTION. The same three hypocrites had NO Community Engagement when they voted themselves full family insurance. They had NO community engagement for the 2.6 million dollar recreation land and they unanimously said NO to the black community when it came to recreation land. Remember that in 2020.

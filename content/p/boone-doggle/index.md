@@ -12,43 +12,63 @@ alttags: Hands pushing over a line of dominoes, symbolizing the unfolding conseq
 related_articles:
 - slug: conflict-of-interest
   title: CONFLICT OF INTEREST
-  score: 95
+  score: 95.35315705036788
+  llm_score: 95
+  recency_score: 96.76578525183945
   rank: 1
 - slug: follow-bouncing-ball
   title: FOLLOW THE BOUNCING BALL
-  score: 85
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 2
-- slug: how-the-pendulum-swings
-  title: HOW THE PENDULUM SWINGS
-  score: 85
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 83.37462733344732
+  llm_score: 85
+  recency_score: 76.87313666723661
   rank: 3
-- slug: catalyst
-  title: CATALYST
-  score: 75
-  rank: 4
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 75
+  score: 83.29061318606567
+  llm_score: 85
+  recency_score: 76.45306593032835
+  rank: 4
+- slug: how-the-pendulum-swings
+  title: HOW THE PENDULUM SWINGS
+  score: 82.43570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
   rank: 5
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 75
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 68.66746539920652
+  llm_score: 85
+  recency_score: 3.337326996032608
   rank: 6
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 65
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 68.56473933170037
+  llm_score: 85
+  recency_score: 2.82369665850184
   rank: 7
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 65
+  score: 68.19614691902797
+  llm_score: 65
+  recency_score: 80.98073459513984
   rank: 8
-- slug: hate
-  title: HATE
-  score: 65
+- slug: catalyst
+  title: CATALYST
+  score: 63.07025208563967
+  llm_score: 75
+  recency_score: 15.35126042819837
   rank: 9
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 65
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 52.552496145361175
+  llm_score: 65
+  recency_score: 2.76248072680588
   rank: 10
 ---
 Well if you read the wonderful Wednesday this week,

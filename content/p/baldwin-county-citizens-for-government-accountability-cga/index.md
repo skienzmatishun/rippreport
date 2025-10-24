@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Bald eagle head superimposed on an American flag with We the People text, referencing voter decisions about local taxes
 related_articles:
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 90
-  rank: 1
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 85
-  rank: 2
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 78
-  rank: 3
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 75
-  rank: 4
+  score: 84.60046826485723
+  llm_score: 85
+  recency_score: 83.00234132428609
+  rank: 1
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 75
-  rank: 5
+  score: 83.8513833874118
+  llm_score: 90
+  recency_score: 59.25691693705903
+  rank: 2
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 75
+  score: 81.04408811712146
+  llm_score: 85
+  recency_score: 65.22044058560728
+  rank: 3
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 71.66625449247667
+  llm_score: 80
+  recency_score: 38.33127246238332
+  rank: 4
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 70.7742759876368
+  llm_score: 85
+  recency_score: 13.871379938184003
+  rank: 5
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 70.33447509719417
+  llm_score: 85
+  recency_score: 11.672375485970868
   rank: 6
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 70
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 68.33373153008193
+  llm_score: 85
+  recency_score: 1.6686576504096422
   rank: 7
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 65
+  score: 68.07117427081504
+  llm_score: 85
+  recency_score: 0.3558713540751963
   rank: 8
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 65
+- slug: newsletter
+  title: NEWSLETTER
+  score: 68.01612224316096
+  llm_score: 85
+  recency_score: 0.08061121580480553
   rank: 9
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 65
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 56.59982517482571
+  llm_score: 70
+  recency_score: 2.999125874128549
   rank: 10
 ---
 Penny Sales Tax Debacle

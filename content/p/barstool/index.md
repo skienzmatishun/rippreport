@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Close-up of a modern bar stool with silver legs and a red circular seat, likely from the Irish pub in Fairhope where the o...
 related_articles:
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 85
-  rank: 1
 - slug: bar-stool-continued
   title: BAR STOOL “CONTINUED”
-  score: 75
+  score: 82.31108503131156
+  llm_score: 95
+  recency_score: 31.555425156557842
+  rank: 1
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 80.3824508821773
+  llm_score: 85
+  recency_score: 61.91225441088648
   rank: 2
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 75
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 69.99695333081353
+  llm_score: 85
+  recency_score: 9.984766654067629
   rank: 3
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 75
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 67.46808419803509
+  llm_score: 70
+  recency_score: 57.34042099017541
   rank: 4
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 65
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 61.11053014836325
+  llm_score: 65
+  recency_score: 45.55265074181627
   rank: 5
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 60.81181686451524
+  llm_score: 70
+  recency_score: 24.0590843225762
+  rank: 6
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 59.29693268727894
+  llm_score: 70
+  recency_score: 16.48466343639469
+  rank: 7
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 65
-  rank: 6
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 65
-  rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 65
+  score: 57.12478430821849
+  llm_score: 65
+  recency_score: 25.623921541092447
   rank: 8
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 55
+  score: 53.023399095764184
+  llm_score: 65
+  recency_score: 5.11699547882092
   rank: 9
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 45
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 48.18315574704042
+  llm_score: 60
+  recency_score: 0.9157787352021292
   rank: 10
 ---
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.

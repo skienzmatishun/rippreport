@@ -15,45 +15,65 @@ authors:
 - ripp-report
 alttags: Chucky doll portrait symbolizing poor journalism and political manipulation in Baldwin County media
 related_articles:
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 85
-  rank: 1
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
-  rank: 2
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
+  score: 91.16545197903177
+  llm_score: 95
+  recency_score: 75.82725989515886
+  rank: 1
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 90.52312487593501
+  llm_score: 90
+  recency_score: 92.61562437967505
+  rank: 2
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85.62860141581517
+  llm_score: 90
+  recency_score: 68.14300707907584
   rank: 3
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 85
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 85.58357363897636
+  llm_score: 85
+  recency_score: 87.91786819488183
   rank: 4
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 85
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 84.88110874039774
+  llm_score: 92
+  recency_score: 56.40554370198863
   rank: 5
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 75
-  rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75
-  rank: 7
 - slug: hallucinations
   title: HALLUCINATIONS
-  score: 75
+  score: 82.43570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
+  rank: 6
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 78.41948362581483
+  llm_score: 85
+  recency_score: 52.09741812907417
+  rank: 7
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 77.65006981718642
+  llm_score: 85
+  recency_score: 48.25034908593207
   rank: 8
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 67.33256271585593
+  llm_score: 65
+  recency_score: 76.66281357927963
+  rank: 9
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 75
-  rank: 9
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 65
+  score: 65.46676333674154
+  llm_score: 70
+  recency_score: 47.33381668370766
   rank: 10
 ---
 April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good journalist, Connie Baggett and Mike Odom were two of the best. What we have been left with is more than embarrassing, it is a travesty of free speech and journalism.

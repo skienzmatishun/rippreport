@@ -19,45 +19,65 @@ authors:
 - admin
 alttags: 'Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis'
 related_articles:
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 85
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 88.73747273054873
+  llm_score: 90
+  recency_score: 83.68736365274363
   rank: 1
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 85
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
   rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 85
+  score: 86.62490003199702
+  llm_score: 85
+  recency_score: 93.12450015998506
   rank: 3
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 4
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
-  rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 75
-  rank: 6
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 75
-  rank: 7
-- slug: catalyst
-  title: CATALYST
-  score: 70
-  rank: 8
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 65
+  score: 80.6568431195879
+  llm_score: 85
+  recency_score: 63.2842155979395
+  rank: 5
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 70.64078108599944
+  llm_score: 85
+  recency_score: 13.203905429997187
+  rank: 6
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 70.41250054564074
+  llm_score: 85
+  recency_score: 12.0625027282037
+  rank: 7
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 69.92708065959617
+  llm_score: 85
+  recency_score: 9.635403297980877
+  rank: 8
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 57.7750249254482
+  llm_score: 70
+  recency_score: 8.875124627241007
   rank: 9
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 65
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 56.54947704827495
+  llm_score: 70
+  recency_score: 2.7473852413747677
   rank: 10
 ---
 Fairhope’s CATALYST group is licking their wounds after the election of Jerry Carl. What is important is the major shift in voting away from CATALYST candidates. Carl’s opponent “Lowtower” made a major mistake by hooking up with CATALYST, aka Scott Boone Consultant.

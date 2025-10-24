@@ -10,43 +10,63 @@ alttags: 'Lack of accountability in Baldwin County judicial ethics: a judge/deve
 related_articles:
 - slug: get-out-of-jail-card
   title: GET OUT OF JAIL CARD
-  score: 85
+  score: 82.19359590659946
+  llm_score: 90
+  recency_score: 50.96797953299731
   rank: 1
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 85
-  rank: 2
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 85
-  rank: 3
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 85
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
+  rank: 2
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 3
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 74.75156717099011
+  llm_score: 90
+  recency_score: 13.757835854950565
   rank: 4
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 85
+  score: 71.8647486868406
+  llm_score: 85
+  recency_score: 19.323743434203013
   rank: 5
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 75
+  score: 69.37955318921921
+  llm_score: 85
+  recency_score: 6.897765946096069
   rank: 6
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 75
-  rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 75
-  rank: 8
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 70
+  score: 68.73262812294602
+  llm_score: 85
+  recency_score: 3.663140614730139
+  rank: 7
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 68.29021175326756
+  llm_score: 85
+  recency_score: 1.4510587663378074
+  rank: 8
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 60.1354993718602
+  llm_score: 75
+  recency_score: 0.6774968593009955
   rank: 9
 - slug: a-gentlemans-race-judge-of-probate
   title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
-  score: 65
+  score: 52.54647444894585
+  llm_score: 65
+  recency_score: 2.7323722447292558
   rank: 10
 ---
 The Alabama Judicial Canons are the baseline ethics that Alabama Judges are suppose to abide by. In Baldwin County the Canons have NO powder, because there is no accountability.

@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics
 related_articles:
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 90
-  rank: 1
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 90
-  rank: 2
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 85
-  rank: 3
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 85
-  rank: 4
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 85
-  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 85
-  rank: 6
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 85
-  rank: 7
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 85
-  rank: 8
+  score: 87.80167323219754
+  llm_score: 90
+  recency_score: 79.0083661609877
+  rank: 1
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 82
-  rank: 9
+  score: 84.63762349360867
+  llm_score: 82
+  recency_score: 95.18811746804333
+  rank: 2
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 84.32297651271782
+  llm_score: 95
+  recency_score: 41.61488256358909
+  rank: 3
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 79.47953504068688
+  llm_score: 90
+  recency_score: 37.39767520343444
+  rank: 4
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 82
+  score: 76.22123778439706
+  llm_score: 82
+  recency_score: 53.10618892198522
+  rank: 5
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 76.00487790924164
+  llm_score: 90
+  recency_score: 20.024389546208226
+  rank: 6
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 72.8611615117599
+  llm_score: 90
+  recency_score: 4.305807558799547
+  rank: 7
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 68.81301359100283
+  llm_score: 85
+  recency_score: 4.065067955014141
+  rank: 8
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 68.79757011103389
+  llm_score: 85
+  recency_score: 3.9878505551694436
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 68.16235558880828
+  llm_score: 85
+  recency_score: 0.8117779440414381
   rank: 10
 ---
 The Attorney General of Alabama, Steve Marshall is doing the Alabama Shuffle. It is easy he just mentions key words like Biden, Abortion, Immigration or files frivolous lawsuits. That is all it takes to sidetrack his constituents. Marshall may go down as the worst Alabama A.G. “Always Gone” in the last 25 years.

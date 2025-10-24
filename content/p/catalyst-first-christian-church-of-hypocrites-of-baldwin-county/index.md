@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Interior view of a church sanctuary with rows of pews, an organ loft, and arched windows, reflecting the congregation’s fo...
 related_articles:
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 85
-  rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 85
-  rank: 2
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 75
-  rank: 3
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 70
-  rank: 4
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 65
-  rank: 5
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 65
-  rank: 6
+  score: 87.14222555805995
+  llm_score: 85
+  recency_score: 95.71112779029973
+  rank: 1
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
+  rank: 2
+- slug: catalyst
+  title: CATALYST
+  score: 81.77877733062658
+  llm_score: 85
+  recency_score: 68.8938866531329
+  rank: 3
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 81.63181386565738
+  llm_score: 80
+  recency_score: 88.15906932828686
+  rank: 4
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 65
+  score: 77.97322154942498
+  llm_score: 75
+  recency_score: 89.86610774712484
+  rank: 5
+- slug: catalyst-2
+  title: CATALYST
+  score: 71.79133642216175
+  llm_score: 85
+  recency_score: 18.956682110808735
+  rank: 6
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 64.24205296553819
+  llm_score: 75
+  recency_score: 21.21026482769095
   rank: 7
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 65
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 60.4258863318591
+  llm_score: 75
+  recency_score: 2.1294316592954887
   rank: 8
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 60
+  score: 58.548381115638655
+  llm_score: 70
+  recency_score: 12.741905578193274
   rank: 9
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 40
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 58.47951020001508
+  llm_score: 70
+  recency_score: 12.39755100007539
   rank: 10
 ---
 FAIRHOPE MEMBER

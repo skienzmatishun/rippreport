@@ -10,43 +10,63 @@ alttags: A frog sits on a pot handle, illustrating the boiling frog fable about 
 related_articles:
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
-  score: 85
+  score: 77.53339065902054
+  llm_score: 90
+  recency_score: 27.666953295102704
   rank: 1
-- slug: danger-zone
-  title: DANGER ZONE
-  score: 75
-  rank: 2
 - slug: the-pot-and-the-kettle-are-black
   title: THE POT AND THE KETTLE ARE BLACK
-  score: 75
+  score: 67.47953504068688
+  llm_score: 75
+  recency_score: 37.39767520343444
+  rank: 2
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 60.90966517626255
+  llm_score: 75
+  recency_score: 4.548325881312761
   rank: 3
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 75
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 59.492182133936694
+  llm_score: 70
+  recency_score: 17.460910669683468
   rank: 4
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 56.72041470570301
+  llm_score: 65
+  recency_score: 23.60207352851503
+  rank: 5
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 54.82799474546216
+  llm_score: 65
+  recency_score: 14.139973727310823
+  rank: 6
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 53.78477778518496
+  llm_score: 65
+  recency_score: 8.92388892592479
+  rank: 7
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 65
-  rank: 5
+  score: 53.750875301537036
+  llm_score: 65
+  recency_score: 8.754376507685183
+  rank: 8
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 65
-  rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 55
-  rank: 7
-- slug: boone-doggle
-  title: BOONE-DOGGLE
-  score: 50
-  rank: 8
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 45
+  score: 53.390938708264
+  llm_score: 65
+  recency_score: 6.9546935413200295
   rank: 9
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 45
+  score: 43.29693268727894
+  llm_score: 50
+  recency_score: 16.48466343639469
   rank: 10
 ---
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.”

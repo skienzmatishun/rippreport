@@ -19,45 +19,65 @@ authors:
 - admin
 alttags: Group gathered around a table, possibly members of CATALYST, a Baldwin County political group discussed in the article
 related_articles:
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 95
-  rank: 1
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 95
+  score: 94.52312487593501
+  llm_score: 95
+  recency_score: 92.61562437967505
+  rank: 1
+- slug: catalyst-2
+  title: CATALYST
+  score: 92.82943663570212
+  llm_score: 95
+  recency_score: 84.14718317851063
   rank: 2
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 85
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 87.97579460098616
+  llm_score: 90
+  recency_score: 79.87897300493081
   rank: 3
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 85
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 78.4727263186165
+  llm_score: 95
+  recency_score: 12.36363159308245
   rank: 4
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 85
-  rank: 5
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 85
-  rank: 6
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 7
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 75
-  rank: 8
+  score: 71.23430628782093
+  llm_score: 85
+  recency_score: 16.171531439104648
+  rank: 5
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75
-  rank: 9
+  score: 71.1382881592094
+  llm_score: 85
+  recency_score: 15.691440796046965
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 71.05347479370099
+  llm_score: 85
+  recency_score: 15.267373968504938
+  rank: 7
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 70.29013091918722
+  llm_score: 85
+  recency_score: 11.45065459593608
+  rank: 8
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 75
+  score: 62.721577636566764
+  llm_score: 75
+  recency_score: 13.607888182833822
+  rank: 9
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 58.66988030926577
+  llm_score: 70
+  recency_score: 13.34940154632884
   rank: 10
 ---
 Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mostly secret, political group that represent the Status Quo, the good ole boys. Good ole boys exist in many places however in Baldwin County they have been bold enough to adopt the title of CATALYST.

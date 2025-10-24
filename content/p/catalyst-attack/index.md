@@ -15,43 +15,63 @@ alttags: Political campaign signs for Boone, Sherry, and Jack Burrell in a Baldw
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 90
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
   rank: 1
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 85
+- slug: sting
+  title: Sting
+  score: 90.47244604336203
+  llm_score: 90
+  recency_score: 92.36223021681012
   rank: 2
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 85
-  rank: 3
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 85
-  rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 85
-  rank: 5
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 85
-  rank: 6
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85
+  score: 87.83629014021759
+  llm_score: 85
+  recency_score: 99.18145070108791
+  rank: 3
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
+  rank: 4
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
+  rank: 5
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 70.53445557051873
+  llm_score: 85
+  recency_score: 12.67227785259367
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 70.39275303933815
+  llm_score: 85
+  recency_score: 11.96376519669074
   rank: 7
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 85
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 70.24662907448486
+  llm_score: 85
+  recency_score: 11.233145372424257
   rank: 8
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 85
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 70.00243193734299
+  llm_score: 85
+  recency_score: 10.01215968671496
   rank: 9
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 69.79458423192868
+  llm_score: 85
+  recency_score: 8.972921159643409
   rank: 10
 ---
 If you live in Baldwin County, please share this post as much as possible. This is very IMPORTANT.

@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Baldwin County Family Court Reform Project logo; highlights concerns about corruption within Alabama’s family court system
 related_articles:
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 95
-  rank: 1
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 85
+  score: 95.3002072693518
+  llm_score: 95
+  recency_score: 96.50103634675902
+  rank: 1
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 76.01063086460266
+  llm_score: 95
+  recency_score: 0.05315432301332231
   rank: 2
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 85
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 72.53609397400764
+  llm_score: 90
+  recency_score: 2.6804698700381855
   rank: 3
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 85
+  score: 68.5102977617175
+  llm_score: 85
+  recency_score: 2.5514888085874565
   rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 85
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 68.02385468664882
+  llm_score: 85
+  recency_score: 0.11927343324406557
   rank: 5
 - slug: exposure
   title: EXPOSURE
-  score: 75
+  score: 68.0043998468976
+  llm_score: 85
+  recency_score: 0.02199923448795886
   rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 65
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 68.00433998596476
+  llm_score: 85
+  recency_score: 0.021699929823781466
   rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 65
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 60.02114561928461
+  llm_score: 75
+  recency_score: 0.10572809642305193
   rank: 8
 - slug: canons-no-powder
   title: CANONS — NO POWDER
-  score: 65
+  score: 52.732628122946025
+  llm_score: 65
+  recency_score: 3.663140614730139
   rank: 9
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 65
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 52.05053497317609
+  llm_score: 65
+  recency_score: 0.2526748658804697
   rank: 10
 ---
 I have been blasting this message as a post and in comments all over Facebook, and will continue to do so.

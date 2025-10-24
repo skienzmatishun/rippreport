@@ -10,43 +10,63 @@ alttags: Fork in the road graphic representing Fairhope City Council’s decisio
 related_articles:
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 85
+  score: 87.29061318606567
+  llm_score: 90
+  recency_score: 76.45306593032835
   rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 82.75560018832756
+  llm_score: 85
+  recency_score: 73.7780009416378
   rank: 2
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 75
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 79.3002072693518
+  llm_score: 75
+  recency_score: 96.50103634675902
   rank: 3
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION
-  score: 65
+  score: 71.4921821339367
+  llm_score: 85
+  recency_score: 17.460910669683468
   rank: 4
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
   rank: 5
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 65
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 70.25279266204939
+  llm_score: 85
+  recency_score: 11.263963310246938
   rank: 6
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
-  rank: 7
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
+  score: 70.15027402445422
+  llm_score: 85
+  recency_score: 10.751370122271124
+  rank: 7
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 68.94782746243794
+  llm_score: 85
+  recency_score: 4.7391373121897375
   rank: 8
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 65
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 60.40317792408908
+  llm_score: 75
+  recency_score: 2.0158896204454004
   rank: 9
 - slug: exit-and-enter
   title: EXIT AND ENTER
-  score: 65
+  score: 53.47331224721167
+  llm_score: 65
+  recency_score: 7.366561236058354
   rank: 10
 ---
 The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. True they also have no lease or title to the land.

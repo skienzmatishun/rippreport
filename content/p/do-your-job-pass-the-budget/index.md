@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Exclamation point graphic representing a recent unexpected shoulder surgery and recovery challenges
 related_articles:
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 82.79608191931776
+  llm_score: 85
+  recency_score: 73.98040959658876
+  rank: 1
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 85
-  rank: 1
+  score: 80.48413566258803
+  llm_score: 90
+  recency_score: 42.420678312940126
+  rank: 2
 - slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
   title: WHO’S RESPONSIBLE?
-  score: 65
-  rank: 2
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
+  score: 78.6795960873464
+  llm_score: 85
+  recency_score: 53.39798043673202
   rank: 3
-- slug: im-back
-  title: I'M BACK
-  score: 65
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 72.00965881639365
+  llm_score: 90
+  recency_score: 0.048294081968240025
   rank: 4
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 65
+  score: 69.01488310709092
+  llm_score: 65
+  recency_score: 85.07441553545459
   rank: 5
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 65
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 65.24956745472434
+  llm_score: 60
+  recency_score: 86.24783727362167
   rank: 6
+- slug: zunk-the-skunk
+  title: ZUNK THE SKUNK
+  score: 64.01484817064438
+  llm_score: 65
+  recency_score: 60.07424085322191
+  rank: 7
+- slug: shut-up-2
+  title: SHUT UP
+  score: 57.57905799915855
+  llm_score: 65
+  recency_score: 27.895289995792755
+  rank: 8
+- slug: pay-executives-first-boy-scouts-come-last
+  title: PAY EXECUTIVES FIRST — BOY SCOUTS COME LAST
+  score: 57.05506043454496
+  llm_score: 65
+  recency_score: 25.27530217272481
+  rank: 9
 - slug: transparency
   title: TRANSPARENCY
-  score: 65
-  rank: 7
-- slug: recovery
-  title: RECOVERY
-  score: 65
-  rank: 8
-- slug: balls
-  title: BALLS
-  score: 65
-  rank: 9
-- slug: i-quit
-  title: I QUIT
-  score: 45
+  score: 55.60890176713603
+  llm_score: 65
+  recency_score: 18.044508835680173
   rank: 10
 ---
 Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam, on Friday. The first three days of recovery are no fun and the drug fog does not allow you to think. I hope to recover fast enough that I may be able to give a special Christmas present to a well deserving recipient.

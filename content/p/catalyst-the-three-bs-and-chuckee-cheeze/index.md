@@ -12,45 +12,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 70
-  rank: 1
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 69
-  rank: 2
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 69
-  rank: 3
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 69
-  rank: 4
 - slug: jester-clone-clown
   title: The Jester The Clone and the Clown
-  score: 68
-  rank: 5
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 68
-  rank: 6
+  score: 82.41948362581483
+  llm_score: 90
+  recency_score: 52.09741812907417
+  rank: 1
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
-  score: 67
+  score: 82.20034869269523
+  llm_score: 85
+  recency_score: 71.00174346347615
+  rank: 2
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 78.88179115997221
+  llm_score: 75
+  recency_score: 94.40895579986105
+  rank: 3
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 77.72869172076295
+  llm_score: 75
+  recency_score: 88.64345860381478
+  rank: 4
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 75.88849539476564
+  llm_score: 75
+  recency_score: 79.4424769738282
+  rank: 5
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 73.48748877687456
+  llm_score: 70
+  recency_score: 87.43744388437275
+  rank: 6
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 69.78477778518496
+  llm_score: 85
+  recency_score: 8.92388892592479
   rank: 7
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 69.75087530153704
+  llm_score: 85
+  recency_score: 8.754376507685183
+  rank: 8
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 66
-  rank: 8
+  score: 69.73654352403148
+  llm_score: 85
+  recency_score: 8.6827176201574
+  rank: 9
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 66
-  rank: 9
-- slug: catalyst-2
-  title: CATALYST
-  score: 66
+  score: 63.25024389308273
+  llm_score: 65
+  recency_score: 56.25121946541366
   rank: 10
 ---
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate seats and all four Baldwin County commission races.

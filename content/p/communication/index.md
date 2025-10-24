@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: 'Communication breakdown: Three figures surrounded by speech bubbles illustrate issues between Fairhope’s Mayor and City Co...'
 related_articles:
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 85
-  rank: 1
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 85
-  rank: 2
-- slug: shut-up
-  title: SHUT UP
-  score: 85
-  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 85
-  rank: 4
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 75
-  rank: 5
+  score: 86.47244604336203
+  llm_score: 85
+  recency_score: 92.36223021681012
+  rank: 1
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT
-  score: 65
+  score: 85.53546539641724
+  llm_score: 85
+  recency_score: 87.6773269820862
+  rank: 2
+- slug: 100-voices
+  title: 100 VOICES
+  score: 85.06156314124607
+  llm_score: 85
+  recency_score: 85.30781570623031
+  rank: 3
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 80.11400729240654
+  llm_score: 85
+  recency_score: 60.57003646203266
+  rank: 4
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 76.06011673477846
+  llm_score: 90
+  recency_score: 20.300583673892284
+  rank: 5
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 72.94546996796693
+  llm_score: 85
+  recency_score: 24.727349839834638
   rank: 6
+- slug: shut-up
+  title: SHUT UP
+  score: 70.83575329957493
+  llm_score: 85
+  recency_score: 14.178766497874648
+  rank: 7
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 69.11053014836325
+  llm_score: 75
+  recency_score: 45.55265074181627
+  rank: 8
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 65.33977933106958
+  llm_score: 75
+  recency_score: 26.69889665534791
+  rank: 9
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
-  rank: 7
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 65
-  rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
-  rank: 9
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+  score: 55.35157673975545
+  llm_score: 65
+  recency_score: 16.757883698777256
   rank: 10
 ---
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City Attorney.

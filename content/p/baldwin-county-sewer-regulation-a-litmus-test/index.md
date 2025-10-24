@@ -10,43 +10,63 @@ alttags: Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 85
+  score: 77.36078404958211
+  llm_score: 95
+  recency_score: 6.803920247910508
   rank: 1
+- slug: wetlands
+  title: WETLANDS
+  score: 70.93857289717093
+  llm_score: 85
+  recency_score: 14.692864485854656
+  rank: 2
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 65.65006981718642
+  llm_score: 70
+  recency_score: 48.25034908593207
+  rank: 3
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 75
-  rank: 2
-- slug: water
-  title: Water
-  score: 75
-  rank: 3
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 65
+  score: 65.07808285380278
+  llm_score: 80
+  recency_score: 5.390414269013892
   rank: 4
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 65
-  rank: 5
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 65
-  rank: 6
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 50
-  rank: 7
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 50
-  rank: 8
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 50
-  rank: 9
+  score: 64.28513651399791
+  llm_score: 60
+  recency_score: 81.42568256998956
+  rank: 5
+- slug: grinder-pumps
+  title: GRINDER PUMPS
+  score: 64.01586522172649
+  llm_score: 75
+  recency_score: 20.079326108632408
+  rank: 6
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 50
+  score: 54.20818920394051
+  llm_score: 60
+  recency_score: 31.040946019702552
+  rank: 7
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 53.92180821238457
+  llm_score: 65
+  recency_score: 9.609041061922857
+  rank: 8
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 53.36451733681731
+  llm_score: 65
+  recency_score: 6.822586684086551
+  rank: 9
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 43.69899455443594
+  llm_score: 50
+  recency_score: 18.4949727721797
   rank: 10
 ---
 Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGET

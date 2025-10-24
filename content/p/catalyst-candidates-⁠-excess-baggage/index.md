@@ -17,45 +17,65 @@ tags:
 authors:
 - admin
 related_articles:
+- slug: sting
+  title: Sting
+  score: 88.87560790070712
+  llm_score: 90
+  recency_score: 84.37803950353559
+  rank: 1
 - slug: catalyst-last-stand
   title: CATALYST LAST STAND
-  score: 85
-  rank: 1
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 85
+  score: 88.50975554986516
+  llm_score: 90
+  recency_score: 82.54877774932578
   rank: 2
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 85
-  rank: 3
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 85
-  rank: 4
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 85
-  rank: 5
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85
-  rank: 6
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
-  rank: 7
-- slug: i-quit
-  title: I QUIT
-  score: 75
-  rank: 8
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 75
+  score: 87.5866878197373
+  llm_score: 90
+  recency_score: 77.93343909868652
+  rank: 3
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 86.4219058668791
+  llm_score: 85
+  recency_score: 92.10952933439548
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 84.73747273054873
+  llm_score: 85
+  recency_score: 83.68736365274363
+  rank: 5
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 78.302714024536
+  llm_score: 95
+  recency_score: 11.51357012268003
+  rank: 6
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 72.39586260016435
+  llm_score: 85
+  recency_score: 21.979313000821772
+  rank: 7
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 71.15553145748171
+  llm_score: 85
+  recency_score: 15.777657287408536
+  rank: 8
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 69.48547156428668
+  llm_score: 85
+  recency_score: 7.427357821433388
   rank: 9
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 65
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 68.45984285557822
+  llm_score: 85
+  recency_score: 2.2992142778911093
   rank: 10
 ---
 Baldwin County, you want an example how CATALYST works?

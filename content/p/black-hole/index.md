@@ -12,43 +12,63 @@ alttags: Artistic rendering of a black hole surrounded by swirling matter, symbo
 related_articles:
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 95
+  score: 94.52312487593501
+  llm_score: 95
+  recency_score: 92.61562437967505
   rank: 1
+- slug: its-no-joke
+  title: IT’S NO JOKE
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
+  rank: 2
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 86.77861223075729
+  llm_score: 85
+  recency_score: 93.89306115378648
+  rank: 3
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
-  score: 95
-  rank: 2
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 85
-  rank: 3
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 4
 - slug: alabama-moore-strange
   title: ALABAMA MOORE STRANGE
-  score: 75
+  score: 85.58357363897636
+  llm_score: 85
+  recency_score: 87.91786819488183
   rank: 5
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 75
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 74.87051538361202
+  llm_score: 85
+  recency_score: 34.35257691806009
   rank: 6
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 75
-  rank: 7
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
-  score: 75
-  rank: 8
+  score: 73.82610187044024
+  llm_score: 70
+  recency_score: 89.13050935220119
+  rank: 7
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 70
+  score: 71.51287958944485
+  llm_score: 65
+  recency_score: 97.56439794722424
+  rank: 8
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 68.27549129904675
+  llm_score: 85
+  recency_score: 1.3774564952337773
   rank: 9
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 65
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 68.17869480190573
+  llm_score: 85
+  recency_score: 0.8934740095286622
   rank: 10
 ---
 Alabamians have got to stop looking right and left, voting a straight party ticket, and putting party before country and that means Republican and Democrat. What is good for your state and community should come before party. Why vote for someone who will divide us? Why vote for someone so different in beliefs and convictions that there is not one Senator or Congressman remotely close to his thinking?

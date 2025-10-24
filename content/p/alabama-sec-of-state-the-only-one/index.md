@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: John Merrill; one of few who acted on election tampering complaints, amid ongoing judiciary inaction
 related_articles:
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 82.98553700495827
+  llm_score: 80
+  recency_score: 94.92768502479139
+  rank: 1
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 85
-  rank: 1
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 2
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 78
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 76.41642191956065
+  llm_score: 80
+  recency_score: 62.08210959780326
   rank: 3
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 75
+  score: 68.06022021543309
+  llm_score: 85
+  recency_score: 0.301101077165421
   rank: 4
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 68.05638790447402
+  llm_score: 85
+  recency_score: 0.28193952237011366
+  rank: 5
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 66.02739968526954
+  llm_score: 70
+  recency_score: 50.13699842634772
+  rank: 6
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 64.76545762218078
+  llm_score: 80
+  recency_score: 3.827288110903858
+  rank: 7
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 75
-  rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 75
-  rank: 6
-- slug: observations-of-a-poll-watcher
-  title: “Observations of a Poll Watcher”
-  score: 70
-  rank: 7
+  score: 60.76336334818888
+  llm_score: 75
+  recency_score: 3.816816740944404
+  rank: 8
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 65
-  rank: 8
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 65
+  score: 60.27248869897099
+  llm_score: 75
+  recency_score: 1.3624434948549364
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 65
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 59.77061878848929
+  llm_score: 70
+  recency_score: 18.853093942446446
   rank: 10
 ---
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!

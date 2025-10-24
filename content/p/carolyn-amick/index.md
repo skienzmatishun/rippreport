@@ -10,43 +10,63 @@ alttags: Carolyn, a strong woman described as part of the early women’s libera
 related_articles:
 - slug: celebration-of-life
   title: CELEBRATION OF LIFE
-  score: 85
+  score: 95.4594928113308
+  llm_score: 95
+  recency_score: 97.29746405665401
   rank: 1
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life
-  score: 75
+  score: 68.25484884682434
+  llm_score: 75
+  recency_score: 41.27424423412174
   rank: 2
 - slug: obituary
   title: OBITUARY
-  score: 70
+  score: 66.52202120293505
+  llm_score: 75
+  recency_score: 32.61010601467527
   rank: 3
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 65
+- slug: vote-smart
+  title: VOTE SMART
+  score: 56.6946201541873
+  llm_score: 65
+  recency_score: 23.473100770936487
   rank: 4
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 65
-  rank: 5
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 65
+  score: 54.62635062426856
+  llm_score: 65
+  recency_score: 13.13175312134279
+  rank: 5
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 52.4224002422755
+  llm_score: 65
+  recency_score: 2.112001211377513
   rank: 6
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 50
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 52.174342507642315
+  llm_score: 65
+  recency_score: 0.8717125382115642
   rank: 7
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 42.31536626765281
+  llm_score: 50
+  recency_score: 11.57683133826407
+  rank: 8
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 40
-  rank: 8
-- slug: nappi-award
-  title: NAPPI AWARD
-  score: 20
+  score: 41.65751801972854
+  llm_score: 50
+  recency_score: 8.287590098642712
   rank: 9
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 20
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 40.70699373121072
+  llm_score: 50
+  recency_score: 3.5349686560536235
   rank: 10
 ---
 Carolyn and I were together for 50 years. She was my best friend, fieriest critic and always had my back. We traveled the world together, dove in exotic places and lived a life many would envy. Anyone who knew Carolyn did not forget her. Carolyn, who some called CA, never understood the argument of women’s rights. She was part of women’s lib before there was a women's lib. She could curse like a sailor and do manual labor with the best of them.

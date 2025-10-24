@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: 'Divorce dispute: A man and woman pull on a rope atop stacks of money, illustrating financial battles in divorce cases'
 related_articles:
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 85
-  rank: 1
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 75
-  rank: 2
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 75
+  score: 95.24740235768714
+  llm_score: 95
+  recency_score: 96.23701178843567
+  rank: 1
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 82.5631983784823
+  llm_score: 90
+  recency_score: 52.81599189241148
+  rank: 2
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 80.48413566258803
+  llm_score: 90
+  recency_score: 42.420678312940126
   rank: 3
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 65
-  rank: 4
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 65
-  rank: 5
-- slug: exposure
-  title: EXPOSURE
-  score: 65
-  rank: 6
-- slug: a-gentlemans-race-judge-of-probate
-  title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
-  score: 65
-  rank: 7
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 65
+  score: 77.67654461491676
+  llm_score: 85
+  recency_score: 48.38272307458382
+  rank: 4
+- slug: exposure
+  title: EXPOSURE
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
+  rank: 5
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 72.40097477153124
+  llm_score: 90
+  recency_score: 2.0048738576562246
+  rank: 6
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 68.38168033654237
+  llm_score: 85
+  recency_score: 1.908401682711899
+  rank: 7
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 68.01023082642088
+  llm_score: 85
+  recency_score: 0.051154132104394186
   rank: 8
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 50
+- slug: a-gentlemans-race-judge-of-probate
+  title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
+  score: 66.22156185864796
+  llm_score: 70
+  recency_score: 51.107809293239825
   rank: 9
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 45
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 64.57762382000341
+  llm_score: 70
+  recency_score: 42.88811910001705
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allowfullscreen></iframe>

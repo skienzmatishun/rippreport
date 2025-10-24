@@ -10,43 +10,63 @@ alttags: 'Gulf Shores beach scene: Buildings overlook a sandy shore with people 
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 95
+  score: 96.0
+  llm_score: 95
+  recency_score: 100.0
   rank: 1
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 85
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 86.07197526621852
+  llm_score: 85
+  recency_score: 90.35987633109261
   rank: 2
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020
-  score: 85
+  score: 78.08249514970656
+  llm_score: 85
+  recency_score: 50.412475748532785
   rank: 3
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 75
+  score: 76.41953853153237
+  llm_score: 75
+  recency_score: 82.09769265766185
   rank: 4
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 75
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 72.2304468087236
+  llm_score: 85
+  recency_score: 21.152234043618023
   rank: 5
-- slug: on-vacation
-  title: ON VACATION
-  score: 65
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 68.84480344505099
+  llm_score: 85
+  recency_score: 4.224017225254928
   rank: 6
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 65
+- slug: s-o-s
+  title: S.O.S
+  score: 61.44532616133365
+  llm_score: 75
+  recency_score: 7.226630806668228
   rank: 7
 - slug: tale-of-two-cities
   title: TALE OF TWO CITIES
-  score: 65
+  score: 57.749753193901086
+  llm_score: 65
+  recency_score: 28.748765969505406
   rank: 8
-- slug: s-o-s
-  title: S.O.S
-  score: 65
+- slug: survey
+  title: SURVEY
+  score: 57.01368227279841
+  llm_score: 65
+  recency_score: 25.06841136399206
   rank: 9
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 65
+- slug: threesome
+  title: THREESOME
+  score: 52.64587813482652
+  llm_score: 65
+  recency_score: 3.229390674132577
   rank: 10
 ---
 This is the early edition of FREAKY FRIDAY, The evening edition will feature the change of government in Fairhope. It is Fairhope’s dirty little secret.

@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 91.72789538259508
+  llm_score: 90
+  recency_score: 98.63947691297537
+  rank: 1
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 90.08411183802811
+  llm_score: 95
+  recency_score: 70.42055919014051
+  rank: 2
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
-  score: 95
-  rank: 1
+  score: 80.15008797921179
+  llm_score: 95
+  recency_score: 20.750439896058943
+  rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 90
-  rank: 2
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 85
-  rank: 3
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 75
+  score: 77.99096692017021
+  llm_score: 90
+  recency_score: 29.95483460085101
   rank: 4
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 75
+  score: 76.73062366968936
+  llm_score: 95
+  recency_score: 3.653118348446851
   rank: 5
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 75
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 75.96601468604398
+  llm_score: 85
+  recency_score: 39.83007343021991
   rank: 6
-- slug: bad-faith
-  title: Bad Faith
-  score: 65
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 74.1227513524759
+  llm_score: 75
+  recency_score: 70.6137567623795
   rank: 7
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 72.62221429547445
+  llm_score: 75
+  recency_score: 63.11107147737226
+  rank: 8
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 65
-  rank: 8
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 50
+  score: 68.42822636077862
+  llm_score: 85
+  recency_score: 2.141131803893106
   rank: 9
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 45
+- slug: bad-faith
+  title: Bad Faith
+  score: 63.3607717319103
+  llm_score: 75
+  recency_score: 16.8038586595515
   rank: 10
 ---
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.

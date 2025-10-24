@@ -10,45 +10,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 100
-  rank: 1
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 2
+  score: 97.15530775847412
+  llm_score: 100
+  recency_score: 85.7765387923706
+  rank: 1
 - slug: nuff-said
   title: NUFF SAID
-  score: 85
+  score: 93.10837124125831
+  llm_score: 95
+  recency_score: 85.54185620629158
+  rank: 2
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 90.52312487593501
+  llm_score: 90
+  recency_score: 92.61562437967505
   rank: 3
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 4
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 85
-  rank: 5
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 85
-  rank: 6
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 85
-  rank: 7
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 4
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 86.98553700495827
+  llm_score: 85
+  recency_score: 94.92768502479139
+  rank: 5
 - slug: whos-on-first
   title: ??? WHO’S ON FIRST ???
-  score: 85
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
+  rank: 6
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 81.18782317885686
+  llm_score: 85
+  recency_score: 65.93911589428427
+  rank: 7
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 62.82799474546216
+  llm_score: 75
+  recency_score: 14.139973727310823
   rank: 8
-- slug: shut-up
-  title: SHUT UP
-  score: 85
+- slug: flying-high
+  title: FLYING HIGH
+  score: 57.3251698208218
+  llm_score: 65
+  recency_score: 26.62584910410898
   rank: 9
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
-  score: 65
+  score: 54.3796779187427
+  llm_score: 65
+  recency_score: 11.898389593713517
   rank: 10
 ---
 One year ago The Ripp Report had a couple of people contributing time to its publication. A few people would also step forward with information. Today we are very pleased to say that about 8 to 10 people are directly involved and every week we get unsolicited information in various forms from citizens. The Ripp Report is based on documents that are requested through freedom of information or obtained from the public domain.

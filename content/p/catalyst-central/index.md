@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections
 related_articles:
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 85
-  rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 85
-  rank: 2
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 85
-  rank: 3
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 75
-  rank: 4
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
-  rank: 5
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 75
-  rank: 6
 - slug: catalyst-2
   title: CATALYST
-  score: 75
-  rank: 7
+  score: 85.87500746908161
+  llm_score: 85
+  recency_score: 89.37503734540803
+  rank: 1
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
+  rank: 2
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 65
+  score: 76.6568431195879
+  llm_score: 80
+  recency_score: 63.2842155979395
+  rank: 3
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 76.06011673477846
+  llm_score: 90
+  recency_score: 20.300583673892284
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75.40625209818191
+  llm_score: 70
+  recency_score: 97.03126049090956
+  rank: 5
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 74.00792557433363
+  llm_score: 90
+  recency_score: 10.039627871668154
+  rank: 6
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 71.81216788870066
+  llm_score: 85
+  recency_score: 19.060839443503276
+  rank: 7
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 71.35157673975544
+  llm_score: 85
+  recency_score: 16.757883698777256
   rank: 8
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 65
-  rank: 9
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 65
+  score: 71.04512055871784
+  llm_score: 85
+  recency_score: 15.225602793589186
+  rank: 9
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 63.73975441483146
+  llm_score: 75
+  recency_score: 18.69877207415731
   rank: 10
 ---
 In the last Fairhope municipal election the Ripp Report supported most of the City Council, even Jack Burell. The focus of the election was to elect a new mayor.

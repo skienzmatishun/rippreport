@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 100
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 83.10408372408847
+  llm_score: 100
+  recency_score: 15.520418620442342
   rank: 1
 - slug: backstory-podcast-35-contrarians
   title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 98
+  score: 82.6625755797404
+  llm_score: 100
+  recency_score: 13.312877898702032
   rank: 2
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 81.95366066397163
+  llm_score: 100
+  recency_score: 9.768303319858143
+  rank: 3
 - slug: backstory-podcast-11
   title: 'BACKSTORY PODCAST #11'
-  score: 98
-  rank: 3
+  score: 80.04395041759872
+  llm_score: 98
+  recency_score: 8.219752087993566
+  rank: 4
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 69.52673204660475
+  llm_score: 85
+  recency_score: 7.633660233023765
+  rank: 5
 - slug: backstory-podcast-6
   title: BACKSTORY PODCAST 6
-  score: 75
-  rank: 4
+  score: 69.514234992141
+  llm_score: 85
+  recency_score: 7.57117496070502
+  rank: 6
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 62.19191013062844
+  llm_score: 75
+  recency_score: 10.959550653142209
+  rank: 7
 - slug: backstory-podcast-12
   title: 'BACKSTORY PODCAST #12'
-  score: 75
-  rank: 5
-- slug: backstory-alabama-the-ripp-report-podcast-5
-  title: 'BACKSTORY PODCAST #5'
-  score: 75
-  rank: 6
+  score: 61.68499007034101
+  llm_score: 75
+  recency_score: 8.424950351705032
+  rank: 8
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 75
-  rank: 7
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 75
-  rank: 8
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 70
+  score: 61.342270268422986
+  llm_score: 75
+  recency_score: 6.711351342114945
   rank: 9
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 65
+- slug: im-back-2
+  title: I'M BACK
+  score: 59.582699416873126
+  llm_score: 65
+  recency_score: 37.913497084365645
   rank: 10
 ---
 Novelis is Building a New, Low-Carbon, $2.5 Billion Aluminum Plant Recycling & Rolling facility in Bay Minette, Alabama, is the first of its kind and first fully integrated, U.S. mill built in 40 year and they are building it on the Baldwin County Megasite!

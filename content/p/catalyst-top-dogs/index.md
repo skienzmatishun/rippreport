@@ -14,45 +14,65 @@ authors:
 - ripp-report
 alttags: 'Political satire: Candidates Dorsey & Elliott in dog costumes, referencing calls to remove them from Baldwin County elections'
 related_articles:
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 78
-  rank: 1
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 75
-  rank: 2
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 75
-  rank: 3
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75
-  rank: 4
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 75
-  rank: 5
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 75
-  rank: 6
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 74
-  rank: 7
+  score: 88.84740235768714
+  llm_score: 87
+  recency_score: 96.23701178843567
+  rank: 1
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 73
+  score: 87.6817911599722
+  llm_score: 86
+  recency_score: 94.40895579986105
+  rank: 2
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 86.87197526621853
+  llm_score: 86
+  recency_score: 90.35987633109261
+  rank: 3
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
+  rank: 4
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 84.69167940010973
+  llm_score: 85
+  recency_score: 83.45839700054867
+  rank: 5
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 84.55504977540349
+  llm_score: 85
+  recency_score: 82.7752488770174
+  rank: 6
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70.61916499093418
+  llm_score: 85
+  recency_score: 13.095824954670931
+  rank: 7
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
   rank: 8
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 68.96618039997618
+  llm_score: 85
+  recency_score: 4.830901999880929
+  rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 72
-  rank: 9
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 71
+  score: 68.06055109490751
+  llm_score: 85
+  recency_score: 0.30275547453758156
   rank: 10
 ---
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to go.

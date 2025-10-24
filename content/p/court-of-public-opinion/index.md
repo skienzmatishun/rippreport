@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Scales balance one side showing a thumbs up, the other a thumbs down, representing Baldwin County’s upcoming election choices
 related_articles:
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 90
-  rank: 1
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 85
-  rank: 2
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 85
-  rank: 3
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 85
-  rank: 4
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 85
-  rank: 5
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 85
-  rank: 6
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
-  rank: 7
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 1
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 83.8513833874118
+  llm_score: 90
+  recency_score: 59.25691693705903
+  rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 81.8369256908693
+  llm_score: 90
+  recency_score: 49.18462845434644
+  rank: 3
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
+  score: 77.15294239311218
+  llm_score: 90
+  recency_score: 25.764711965560906
+  rank: 4
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 72.68177578422373
+  llm_score: 85
+  recency_score: 23.408878921118657
+  rank: 5
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 69.38333796926068
+  llm_score: 85
+  recency_score: 6.916689846303398
+  rank: 6
+- slug: newsletter
+  title: NEWSLETTER
+  score: 68.00955354423829
+  llm_score: 85
+  recency_score: 0.047767721191407035
+  rank: 7
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 60.042175678537426
+  llm_score: 75
+  recency_score: 0.2108783926871264
   rank: 8
-- slug: exposure
-  title: EXPOSURE
-  score: 65
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 56.542786056790455
+  llm_score: 65
+  recency_score: 22.713930283952266
   rank: 9
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 65
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 52.35543790561404
+  llm_score: 65
+  recency_score: 1.7771895280701993
   rank: 10
 ---
 In 2017 The Ripp Report covered many different political issues in Baldwin County. Many of these issues will travel into 2018 and raise their ugly head again.

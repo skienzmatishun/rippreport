@@ -14,45 +14,65 @@ authors:
 - ripp-report
 alttags: Man in cowboy hat & tactical gear holds spatula next to a grill, symbolizing control and influence over Baldwin County gov...
 related_articles:
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 85
-  rank: 1
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 85
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
-  rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 78
-  rank: 4
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 75
+  score: 75.03762349360866
+  llm_score: 70
+  recency_score: 95.18811746804333
+  rank: 1
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 72.09386369877198
+  llm_score: 90
+  recency_score: 0.4693184938599064
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 69.64516565114863
+  llm_score: 87
+  recency_score: 0.22582825574312954
+  rank: 3
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 69.6424074124535
+  llm_score: 87
+  recency_score: 0.21203706226742583
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 68.09726703704476
+  llm_score: 85
+  recency_score: 0.4863351852238095
   rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 75
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 68.04025637492101
+  llm_score: 85
+  recency_score: 0.20128187460504293
   rank: 6
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75
+  score: 68.0397086776462
+  llm_score: 85
+  recency_score: 0.19854338823104525
   rank: 7
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 75
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 60.07985399313022
+  llm_score: 75
+  recency_score: 0.3992699656511135
   rank: 8
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 60.03677643973495
+  llm_score: 75
+  recency_score: 0.1838821986747448
+  rank: 9
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 70
-  rank: 9
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 65
+  score: 56.04148804696274
+  llm_score: 70
+  recency_score: 0.2074402348137073
   rank: 10
 ---
 Catalyst represents the good ole boys and they want total control over Baldwin County Government. That means control of the County Commission, Probate Judge, Circuit Judge, Sheriff, District Attorney, and the State Senate seat. As a voter you better damn well wake up because if Catalyst succeeds and gets their selected seeded candidates into office, Baldwin County will be run by Catalyst, behind closed doors. The public will be prohibited from participating and development will swallow us whole. 

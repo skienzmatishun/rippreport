@@ -19,43 +19,63 @@ alttags: American flag symbolizing justice system failings in Baldwin County’s
 related_articles:
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 95
+  score: 95.83629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
   rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 90
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
   rank: 2
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 85
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 85
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 77.71761680752583
+  llm_score: 95
+  recency_score: 8.588084037629146
   rank: 4
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 76.53170578054188
+  llm_score: 95
+  recency_score: 2.658528902709438
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 85
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 76.3133507496293
+  llm_score: 95
+  recency_score: 1.566753748146461
   rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 76.1024643517003
+  llm_score: 95
+  recency_score: 0.512321758501535
+  rank: 7
+- slug: no-justice
+  title: NO JUSTICE
+  score: 72.4636379608563
+  llm_score: 90
+  recency_score: 2.318189804281508
+  rank: 8
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82
-  rank: 7
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 82
-  rank: 8
+  score: 68.55705592271107
+  llm_score: 85
+  recency_score: 2.7852796135553795
+  rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 75
-  rank: 9
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75
+  score: 67.13916117711129
+  llm_score: 75
+  recency_score: 35.69580588555647
   rank: 10
 ---
 A good example of Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure, is all exposed in one incident, the McSharry assault case.

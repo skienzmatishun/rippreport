@@ -21,43 +21,63 @@ authors:
 related_articles:
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 95
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
   rank: 1
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 85
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 85.77733007636273
+  llm_score: 85
+  recency_score: 88.88665038181365
   rank: 2
 - slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
   title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 85
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
   rank: 3
 - slug: backstory-podcast-no-64-300000-dead
   title: Backstory Podcast No 64 - 300,000 Dead
-  score: 85
+  score: 83.62944962510568
+  llm_score: 85
+  recency_score: 78.14724812552835
   rank: 4
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 85
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 81.5913138839337
+  llm_score: 85
+  recency_score: 67.95656941966844
   rank: 5
 - slug: backstory-podcast-no-79-ole-peg-gy
   title: Backstory Podcast No 79 'Ole Peg-gy
-  score: 75
+  score: 78.88179115997221
+  llm_score: 75
+  recency_score: 94.40895579986105
   rank: 6
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 75
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 77.44318114711444
+  llm_score: 80
+  recency_score: 67.21590573557219
   rank: 7
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 74.39275303933815
+  llm_score: 90
+  recency_score: 11.96376519669074
+  rank: 8
 - slug: bsp-tlp
   title: Backstory Podcast No 56 The Lincoln Project
-  score: 75
-  rank: 8
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 70
+  score: 73.07987434468455
+  llm_score: 75
+  recency_score: 65.39937172342279
   rank: 9
-- slug: 4-20
-  title: 4-20
-  score: 65
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 68.90191963447131
+  llm_score: 70
+  recency_score: 64.50959817235656
   rank: 10
 ---
 Fairhope Bar Owner Ronan McSharry, of McSharry Irish Pub fame, dare I say: our most famous of Green Card residents, is off the hook (criminally) for Assaulting a woman (the manager of a rival bar) in Fairhope, Alabama at the Little Whiskey Christmas Club on Thanksgiving night 2018.

@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions
 related_articles:
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 66
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 84.64601135914225
+  llm_score: 85
+  recency_score: 83.23005679571122
   rank: 1
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 65
-  rank: 2
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 62
-  rank: 3
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 62
-  rank: 4
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 62
-  rank: 5
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 62
-  rank: 6
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 62
-  rank: 7
-- slug: skunked
-  title: SKUNKED
-  score: 61
-  rank: 8
+  score: 79.83629014021759
+  llm_score: 75
+  recency_score: 99.18145070108791
+  rank: 2
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 76.82943663570212
+  llm_score: 75
+  recency_score: 84.14718317851063
+  rank: 3
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 75.60350242007569
+  llm_score: 85
+  recency_score: 38.0175121003784
+  rank: 4
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 70.65529083578267
+  llm_score: 85
+  recency_score: 13.276454178913294
+  rank: 5
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 70.44577589129874
+  llm_score: 85
+  recency_score: 12.22887945649371
+  rank: 6
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 61
+  score: 63.511369899719135
+  llm_score: 75
+  recency_score: 17.55684949859567
+  rank: 7
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 62.222142897779406
+  llm_score: 75
+  recency_score: 11.110714488897043
+  rank: 8
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 60.19721795157331
+  llm_score: 75
+  recency_score: 0.986089757866536
   rank: 9
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 61
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 60.06105082601585
+  llm_score: 75
+  recency_score: 0.3052541300792452
   rank: 10
 ---
 It does not take a chain saw, it only takes a vote.

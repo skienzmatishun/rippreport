@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 90
-  rank: 1
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 90
-  rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 3
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 85
-  rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75
-  rank: 5
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 75
-  rank: 6
+  score: 85.92404723937733
+  llm_score: 85
+  recency_score: 89.62023619688662
+  rank: 1
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 75
-  rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 65
-  rank: 8
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
+  rank: 2
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 3
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 79.37777423965625
+  llm_score: 90
+  recency_score: 36.88887119828122
+  rank: 4
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 65
+  score: 78.22156185864796
+  llm_score: 85
+  recency_score: 51.107809293239825
+  rank: 5
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 6
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 76.08086365430704
+  llm_score: 80
+  recency_score: 60.404318271535175
+  rank: 7
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 74.05698242024913
+  llm_score: 85
+  recency_score: 30.284912101245666
+  rank: 8
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 70.24662907448486
+  llm_score: 85
+  recency_score: 11.233145372424257
   rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
+- slug: threesome
+  title: THREESOME
+  score: 68.57567447136537
+  llm_score: 85
+  recency_score: 2.87837235682685
   rank: 10
 ---
 Open letter to Baldwin County District Attorney

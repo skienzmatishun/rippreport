@@ -17,43 +17,63 @@ alttags: Chris Elliott and David Northcutt, candidates in a runoff election, pos
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 95
+  score: 95.83629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
   rank: 1
 - slug: ask-chris-elliott-catalyst-red-flags
   title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 85
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
   rank: 2
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 93.63181386565738
+  llm_score: 95
+  recency_score: 88.15906932828686
   rank: 3
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 91.78201851846809
+  llm_score: 90
+  recency_score: 98.91009259234048
+  rank: 4
+- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
+  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
+  score: 87.78201851846809
+  llm_score: 85
+  recency_score: 98.91009259234048
+  rank: 5
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 85
-  rank: 4
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 75
+  score: 85.34434506009411
+  llm_score: 85
+  recency_score: 86.72172530047058
   rank: 6
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 75
-  rank: 7
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 72
-  rank: 8
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 72
-  rank: 9
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 65
+  score: 78.90654517348518
+  llm_score: 95
+  recency_score: 14.532725867425949
+  rank: 7
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 71.15553145748171
+  llm_score: 85
+  recency_score: 15.777657287408536
+  rank: 8
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 68.23437261251506
+  llm_score: 85
+  recency_score: 1.1718630625752924
+  rank: 9
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 57.67255242981376
+  llm_score: 72
+  recency_score: 0.3627621490688241
   rank: 10
 ---
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and political ambitions. Elliott is starting out to be worse than Pittman, please spare us the grief vote David Northcutt July 17th run off.

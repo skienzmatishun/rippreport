@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology
 related_articles:
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 75
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 75.14222555805995
+  llm_score: 70
+  recency_score: 95.71112779029973
   rank: 1
 - slug: rumors
   title: RUMORS
-  score: 75
+  score: 73.39192896735389
+  llm_score: 70
+  recency_score: 86.95964483676948
   rank: 2
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 72.33605587461524
+  llm_score: 85
+  recency_score: 21.680279373076186
   rank: 3
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 70
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 71.27891670661879
+  llm_score: 85
+  recency_score: 16.39458353309393
   rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 70
-  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 65
+  score: 67.0613509305972
+  llm_score: 75
+  recency_score: 35.306754652986015
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 62.814276828107815
+  llm_score: 70
+  recency_score: 34.071384140539074
   rank: 6
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 65
-  rank: 7
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 65
+  score: 59.01193156417621
+  llm_score: 70
+  recency_score: 15.05965782088104
+  rank: 7
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 58.92251516184374
+  llm_score: 70
+  recency_score: 14.612575809218715
   rank: 8
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 65
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 58.88275366834506
+  llm_score: 70
+  recency_score: 14.41376834172532
   rank: 9
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 50
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 54.66988030926577
+  llm_score: 65
+  recency_score: 13.34940154632884
   rank: 10
 ---
 Let me make one thing perfectly clear, I am pro police. Police are a necessary. Police are responsible to the public, they work for the public. What gives police a bad name are a few officers that think they must use lethal force, when it is not necessary. Firearm training for police teaches how to kill not wound and to many officers are to damn quick on the draw.

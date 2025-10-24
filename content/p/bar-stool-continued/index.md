@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case
 related_articles:
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 85
-  rank: 1
 - slug: watering-hole
   title: WATERING HOLE
-  score: 85
-  rank: 2
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
-  rank: 3
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 75
-  rank: 4
+  score: 83.54404300965939
+  llm_score: 85
+  recency_score: 77.72021504829691
+  rank: 1
 - slug: barstool
   title: BARSTOOL
-  score: 75
+  score: 82.31108503131156
+  llm_score: 95
+  recency_score: 31.555425156557842
+  rank: 2
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 77.65006981718642
+  llm_score: 85
+  recency_score: 48.25034908593207
+  rank: 3
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 74.41568627566375
+  llm_score: 85
+  recency_score: 32.0784313783187
+  rank: 4
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 71.00634582434073
+  llm_score: 75
+  recency_score: 55.031729121703655
   rank: 5
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 75
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 68.0792003488293
+  llm_score: 85
+  recency_score: 0.39600174414651
   rank: 6
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 67.88849539476564
+  llm_score: 65
+  recency_score: 79.4424769738282
   rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 75
-  rank: 8
-- slug: catalyst
-  title: CATALYST
-  score: 75
-  rank: 9
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 65
+  score: 67.64527980108477
+  llm_score: 75
+  recency_score: 38.22639900542388
+  rank: 8
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 58.03562066342376
+  llm_score: 70
+  recency_score: 10.178103317118776
+  rank: 9
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 57.40626570232502
+  llm_score: 70
+  recency_score: 7.031328511625108
   rank: 10
 ---
 The wheels of justice move slow, especially when the good ole boys knock out the spokes. 15 months ago we reported on an incident that should have been resolved in 6 months.

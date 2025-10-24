@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: A sow nurses piglets; a reference to Catalyst’s efforts to cultivate new political candidates in Baldwin County
 related_articles:
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 95
-  rank: 1
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 85
-  rank: 2
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 85
+  score: 93.92404723937733
+  llm_score: 95
+  recency_score: 89.62023619688662
+  rank: 1
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 93.82610187044024
+  llm_score: 95
+  recency_score: 89.13050935220119
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 92.73747273054873
+  llm_score: 95
+  recency_score: 83.68736365274363
   rank: 3
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 85
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
   rank: 4
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 85
+  score: 78.0412053531038
+  llm_score: 95
+  recency_score: 10.20602676551906
   rank: 5
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 85
-  rank: 6
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85
+  score: 77.98604104475868
+  llm_score: 95
+  recency_score: 9.930205223793392
+  rank: 6
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 76.01291361360444
+  llm_score: 95
+  recency_score: 0.06456806802217216
   rank: 7
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70.55537255464941
+  llm_score: 85
+  recency_score: 12.776862773247046
   rank: 8
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 85
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 70.03005125332288
+  llm_score: 85
+  recency_score: 10.150256266614415
   rank: 9
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 65
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 70.00243193734299
+  llm_score: 85
+  recency_score: 10.01215968671496
   rank: 10
 ---
 Baldwin County politics has always been a good ole boys club and Catalyst hopes to swell those ranks with a slate of candidates that are like minded. Catalyst is a Fairhope based operation that has done it’s best to destabilize Fairhope’s Government by attacking the Mayor, often using the Gulf Coast Courier, editor Chuckee Cheeze, to spread the rumor of the day. Mr Kevin Boone is a councilman in Fairhope and farther to Scott “baby” Boone who is the “brains” of Catalyst. “Baby” Boone wants everyone to believe his father has nothing to do with Catalyst. I guess that means that all those documents and information leaked to Chuckee about Fairhope just fell out of the sky, because he did not get them by formal Freedom of Information requests.

@@ -13,45 +13,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 75
-  rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
-  rank: 2
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 70
-  rank: 3
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 70
-  rank: 4
-- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
-  title: WHO’S RESPONSIBLE?
-  score: 70
-  rank: 5
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 65
-  rank: 6
+  score: 88.89061318606568
+  llm_score: 92
+  recency_score: 76.45306593032835
+  rank: 1
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 65
-  rank: 7
+  score: 86.22156185864796
+  llm_score: 95
+  recency_score: 51.107809293239825
+  rank: 2
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 76.19614691902797
+  llm_score: 75
+  recency_score: 80.98073459513984
+  rank: 3
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 74.88179115997221
+  llm_score: 70
+  recency_score: 94.40895579986105
+  rank: 4
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 65
-  rank: 8
-- slug: shut-up-2
-  title: SHUT UP
-  score: 60
-  rank: 9
+  score: 70.79608191931776
+  llm_score: 70
+  recency_score: 73.98040959658876
+  rank: 5
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 60
+  score: 64.32297651271782
+  llm_score: 70
+  recency_score: 41.61488256358909
+  rank: 6
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 61.33796583595118
+  llm_score: 65
+  recency_score: 46.6898291797559
+  rank: 7
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 60.004990804611616
+  llm_score: 75
+  recency_score: 0.024954023058067983
+  rank: 8
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 56.722660548191314
+  llm_score: 70
+  recency_score: 3.6133027409565597
+  rank: 9
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 54.93857289717093
+  llm_score: 65
+  recency_score: 14.692864485854656
   rank: 10
 ---
 The quality of life in Fairhope is now being degraded by a city council that is more interested in failure than success. The current and past council president, Jack Burrell, along with his accomplice Kevin Boone, have successfully slowed city government and services to a point that had best concern us all. They have been engaged in a vindictive campaign to undermine the newly elected mayor.

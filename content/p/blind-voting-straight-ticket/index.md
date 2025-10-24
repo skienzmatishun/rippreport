@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Blindfold representing Alabama’s straight ticket voting system, which encourages uninformed choices based on party affilia...
 related_articles:
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 75
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 1
 - slug: vote
   title: VOTE
-  score: 75
+  score: 82.59477780883036
+  llm_score: 85
+  recency_score: 72.97388904415178
   rank: 2
-- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
-  title: As long as I count the Votes, what are you going to do about it?
-  score: 75
-  rank: 3
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 75
-  rank: 4
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 75
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
+  rank: 3
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 73.74975319390109
+  llm_score: 85
+  recency_score: 28.748765969505406
+  rank: 4
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 71.19474191901475
+  llm_score: 65
+  recency_score: 95.97370959507373
   rank: 5
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 70.08072954482947
+  llm_score: 85
+  recency_score: 10.403647724147305
+  rank: 6
 - slug: poison-water-alabama-senate-special-election
   title: POISON WATER - Alabama Senate Special Election
-  score: 65
-  rank: 6
+  score: 64.81181686451524
+  llm_score: 75
+  recency_score: 24.0590843225762
+  rank: 7
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 62.43570824436046
+  llm_score: 60
+  recency_score: 72.17854122180232
+  rank: 8
 - slug: roll-of-the-dice
   title: ROLL OF THE DICE
-  score: 65
-  rank: 7
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 65
-  rank: 8
-- slug: vote-smart
-  title: VOTE SMART
-  score: 65
+  score: 52.72464315476344
+  llm_score: 65
+  recency_score: 3.623215773817211
   rank: 9
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 45
+  score: 48.09860863022477
+  llm_score: 60
+  recency_score: 0.49304315112384334
   rank: 10
 ---
 Want to know why Alabama is the most corrupt state in the United States? Want to know why Alabama health care and education is rated as the worst in the United States?

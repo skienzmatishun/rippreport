@@ -10,45 +10,65 @@ authors:
 - admin
 alttags: Close-up portrait of a man, potentially related to concerns about Baldwin County Sheriff’s Office accountability
 related_articles:
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 100
-  rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 95
-  rank: 2
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 95
-  rank: 3
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 95
-  rank: 4
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+  score: 91.0898528806295
+  llm_score: 90
+  recency_score: 95.44926440314748
+  rank: 1
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 2
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 87.7866218911497
+  llm_score: 95
+  recency_score: 58.93310945574846
+  rank: 3
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.24317955054237
+  llm_score: 100
+  recency_score: 16.215897752711804
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 82.1912037447723
+  llm_score: 95
+  recency_score: 30.95601872386148
   rank: 5
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 85
-  rank: 6
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 85
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
+  rank: 6
+- slug: innocent
+  title: INNOCENT
+  score: 79.92880384054972
+  llm_score: 95
+  recency_score: 19.644019202748584
   rank: 7
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 85
-  rank: 8
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 85
+  score: 79.85417482562934
+  llm_score: 95
+  recency_score: 19.270874128146687
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 76.53170578054188
+  llm_score: 95
+  recency_score: 2.658528902709438
   rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 75
+  score: 72.18979666330452
+  llm_score: 90
+  recency_score: 0.9489833165225753
   rank: 10
 ---
 The Baldwin County Sheriffs office has consistently, for 20 years, had criminal cases and loss of life cases, questioned by citizens. The sheriffs office uses its “internal” Major Crimes Division to gloss over all complaints. Sheriff deputies are never found to have been responsible, EVER. No accountability and no transparency. Hoss Mack promised the County Commission that body and car cameras, $600,000.00 worth, were for the public as well as the police. The same Sheriff either does not release any camera footage or releases edited footage.

@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 95
-  rank: 1
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 95
-  rank: 2
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 85
-  rank: 3
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 85
+  score: 88.51889524885166
+  llm_score: 95
+  recency_score: 62.594476244258324
+  rank: 1
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 86.02739968526954
+  llm_score: 95
+  recency_score: 50.13699842634772
+  rank: 2
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 85.0412299084796
+  llm_score: 100
+  recency_score: 25.20614954239798
+  rank: 3
+- slug: surrender
+  title: SURRENDER
+  score: 82.24960453479669
+  llm_score: 90
+  recency_score: 51.24802267398346
   rank: 4
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 81.1247843082185
+  llm_score: 95
+  recency_score: 25.623921541092447
+  rank: 5
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 75
-  rank: 5
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 60
+  score: 67.987869307982
+  llm_score: 75
+  recency_score: 39.93934653990996
   rank: 6
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 61.369721324142674
+  llm_score: 60
+  recency_score: 66.84860662071335
+  rank: 7
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 52.094897999093824
+  llm_score: 65
+  recency_score: 0.4744899954691276
+  rank: 8
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 50
-  rank: 7
-- slug: shut-up-2
-  title: SHUT UP
-  score: 40
-  rank: 8
+  score: 48.27749588022975
+  llm_score: 50
+  recency_score: 41.38747940114875
+  rank: 9
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 40
-  rank: 9
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 40
+  score: 46.5758477586611
+  llm_score: 50
+  recency_score: 32.87923879330549
   rank: 10
 ---
 He has done it again. The Ripp Report has predicted numerous times that Ronan McSharry would continue his intoxication fueled assaults on women. The Paula DiNardi case ended up being an example of just how bad the municipal court and the municipal attorney are in Fairhope. Mr McSharry has assaulted yet another woman, racking up his ninth arrest, all involving alcohol.

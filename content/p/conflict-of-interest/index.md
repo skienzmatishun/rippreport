@@ -17,45 +17,65 @@ authors:
 - ripp-report
 alttags: Scales of justice icon representing conflict of interest allegations against Fairhope Councilman Kevin Boone
 related_articles:
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 95
-  rank: 1
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 95
+  score: 95.35315705036788
+  llm_score: 95
+  recency_score: 96.76578525183945
+  rank: 1
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 91.88849539476564
+  llm_score: 95
+  recency_score: 79.4424769738282
   rank: 2
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 3
-- slug: conflict-on-interest
-  title: CONFLICT OF INTEREST
-  score: 85
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 83.5866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
   rank: 4
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 85
+  score: 78.27772414553687
+  llm_score: 85
+  recency_score: 51.388620727684355
   rank: 5
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 75
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 73.05506043454497
+  llm_score: 85
+  recency_score: 25.27530217272481
   rank: 6
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 75
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 69.31317071028812
+  llm_score: 85
+  recency_score: 6.565853551440616
   rank: 7
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 60.68977417738036
+  llm_score: 75
+  recency_score: 3.4488708869018017
   rank: 8
 - slug: documents
   title: DOCUMENTS
-  score: 75
+  score: 53.390938708264
+  llm_score: 65
+  recency_score: 6.9546935413200295
   rank: 9
 - slug: honey-bees
   title: HONEY BEES
-  score: 65
+  score: 53.334935476514765
+  llm_score: 65
+  recency_score: 6.674677382573833
   rank: 10
 ---
 Dear Fairhope City Council:

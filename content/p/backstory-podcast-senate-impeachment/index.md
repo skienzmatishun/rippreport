@@ -22,45 +22,65 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 95
-  rank: 1
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 75
-  rank: 2
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 70
-  rank: 3
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 65
-  rank: 4
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 65
-  rank: 5
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 65
-  rank: 6
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 65
-  rank: 7
+  score: 74.22112415020392
+  llm_score: 70
+  recency_score: 91.10562075101957
+  rank: 1
 - slug: backstory-podcast-no-64-300000-dead
   title: Backstory Podcast No 64 - 300,000 Dead
-  score: 60
-  rank: 8
+  score: 73.24956745472434
+  llm_score: 70
+  recency_score: 86.24783727362167
+  rank: 2
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 70.12155541422004
+  llm_score: 65
+  recency_score: 90.60777707110016
+  rank: 3
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 69.89249424486937
+  llm_score: 70
+  recency_score: 69.4624712243468
+  rank: 4
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 69.82610187044024
+  llm_score: 65
+  recency_score: 89.13050935220119
+  rank: 5
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 67.00016259450726
+  llm_score: 65
+  recency_score: 75.00081297253628
+  rank: 6
 - slug: bsp-tlp
   title: Backstory Podcast No 56 The Lincoln Project
-  score: 55
-  rank: 9
+  score: 66.43570824436047
+  llm_score: 65
+  recency_score: 72.17854122180232
+  rank: 7
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 66.23930710092043
+  llm_score: 65
+  recency_score: 71.19653550460211
+  rank: 8
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 55
+  score: 61.11575875113695
+  llm_score: 60
+  recency_score: 65.57879375568477
+  rank: 9
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 52.73336508087172
+  llm_score: 60
+  recency_score: 23.666825404358608
   rank: 10
 ---
 107,883,016 SARS-COV-2 cases confirmed worldwide with a total of 2,370,735 deaths; with 27,393,896 in the USA with 475,459 deaths; 477,570 cases in Alabama with 9,021 deaths; 1 M vaccine doses delivered, 550,000 administered.

@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director, hands covering ears against a wooden door background
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 90
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 91.56641283325074
+  llm_score: 90
+  recency_score: 97.83206416625366
   rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 75.50005501422807
+  llm_score: 85
+  recency_score: 37.500275071140365
   rank: 2
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 85
+  score: 69.61272299947794
+  llm_score: 85
+  recency_score: 8.063614997389708
   rank: 3
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 85
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 69.58208875718051
+  llm_score: 85
+  recency_score: 7.9104437859025545
   rank: 4
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 75
+  score: 64.30056311965313
+  llm_score: 75
+  recency_score: 21.50281559826569
   rank: 5
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 75
+  score: 62.132672971502366
+  llm_score: 75
+  recency_score: 10.663364857511832
   rank: 6
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 62.10942881080481
+  llm_score: 75
+  recency_score: 10.547144054024043
+  rank: 7
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 75
-  rank: 7
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 75
+  score: 60.35988029766957
+  llm_score: 70
+  recency_score: 21.799401488347854
   rank: 8
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 65
-  rank: 9
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 65
+  score: 60.038214444787414
+  llm_score: 75
+  recency_score: 0.19107222393707068
+  rank: 9
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 58.39931751544405
+  llm_score: 70
+  recency_score: 11.996587577220225
   rank: 10
 ---
 ### Mr Steve Marshall

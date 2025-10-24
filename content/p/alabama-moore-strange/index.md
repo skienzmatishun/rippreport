@@ -12,43 +12,63 @@ alttags: Three monkey figurines representing see no evil, hear no evil, and spea
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”
-  score: 98
+  score: 94.90975554986517
+  llm_score: 98
+  recency_score: 82.54877774932578
   rank: 1
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
-  score: 92
+  score: 89.57579460098617
+  llm_score: 92
+  recency_score: 79.87897300493081
   rank: 2
-- slug: black-hole
-  title: BLACK HOLE
-  score: 85
+- slug: its-no-joke
+  title: IT’S NO JOKE
+  score: 85.92404723937733
+  llm_score: 85
+  recency_score: 89.62023619688662
   rank: 3
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 85
+  score: 84.28513651399791
+  llm_score: 85
+  recency_score: 81.42568256998956
   rank: 4
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 85
+- slug: black-hole
+  title: BLACK HOLE
+  score: 77.58357363897636
+  llm_score: 75
+  recency_score: 87.91786819488183
   rank: 5
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 82
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
   rank: 6
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 75
+  score: 73.15530775847412
+  llm_score: 70
+  recency_score: 85.7765387923706
   rank: 7
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 68.37752037428082
+  llm_score: 85
+  recency_score: 1.887601871404123
+  rank: 8
 - slug: pot-calling-the-kettle-black
   title: POT CALLING THE KETTLE BLACK
-  score: 75
-  rank: 8
+  score: 56.24220607718429
+  llm_score: 70
+  recency_score: 1.2110303859214708
+  rank: 9
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 70
-  rank: 9
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 65
+  score: 52.15710466041059
+  llm_score: 65
+  recency_score: 0.7855233020529357
   rank: 10
 ---
 Many thought that the Trump/Clinton campaign left little choice as two polarizing candidates split the political parties and beliefs. The Independents eroded the voting pool even further.

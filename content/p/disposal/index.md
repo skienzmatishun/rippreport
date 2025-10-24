@@ -10,43 +10,63 @@ alttags: Metallic trash can icon symbolizing disposal of land, referencing Fairh
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 90.16149687375565
+  llm_score: 95
+  recency_score: 70.80748436877823
   rank: 1
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 87.89071065521195
+  llm_score: 85
+  recency_score: 99.45355327605971
+  rank: 2
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 85
-  rank: 2
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 85
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
   rank: 3
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 85
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 81.33314208208326
+  llm_score: 85
+  recency_score: 66.66571041041625
   rank: 4
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE
-  score: 75
+  score: 78.52312487593501
+  llm_score: 75
+  recency_score: 92.61562437967505
   rank: 5
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 75
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 77.08560395285723
+  llm_score: 85
+  recency_score: 45.42801976428615
   rank: 6
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 74.12372535653473
+  llm_score: 85
+  recency_score: 30.618626782673648
+  rank: 7
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
-  rank: 7
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 75
+  score: 74.00740303311295
+  llm_score: 85
+  recency_score: 30.037015165564775
   rank: 8
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
+- slug: big-heads
+  title: BIG HEADS
+  score: 61.3251698208218
+  llm_score: 70
+  recency_score: 26.62584910410898
   rank: 9
 - slug: re-gift-gift
   title: RE-GIFT GIFT ??
-  score: 65
+  score: 58.43908430617278
+  llm_score: 70
+  recency_score: 12.195421530863895
   rank: 10
 ---
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members. Not Jack Burrell, he has to maintain “control”. His Control has been very costly for the City of Fairhope. His lack of leadership and his favoritism to special interests, CATALYST, is all to apparent.

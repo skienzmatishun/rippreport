@@ -12,43 +12,63 @@ authors:
 related_articles:
 - slug: dont-throw-rocks-if-you-live-in-a-glass-house
   title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
-  score: 85
+  score: 83.88849539476564
+  llm_score: 85
+  recency_score: 79.4424769738282
   rank: 1
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 85
-  rank: 2
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 75
+  score: 80.62221429547445
+  llm_score: 85
+  recency_score: 63.11107147737226
+  rank: 2
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 79.02156185864797
+  llm_score: 86
+  recency_score: 51.107809293239825
   rank: 3
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 75
+  score: 75.56195333019646
+  llm_score: 85
+  recency_score: 37.809766650982276
   rank: 4
-- slug: re-gift-gift
-  title: RE-GIFT GIFT ??
-  score: 75
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 71.24740235768714
+  llm_score: 65
+  recency_score: 96.23701178843567
   rank: 5
 - slug: wonderful-wednesday
   title: WONDERFUL WEDNESDAY
-  score: 70
+  score: 70.07197526621852
+  llm_score: 65
+  recency_score: 90.35987633109261
   rank: 6
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 70
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 62.826898541613794
+  llm_score: 65
+  recency_score: 54.13449270806896
   rank: 7
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 65
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 52.772429771305816
+  llm_score: 60
+  recency_score: 23.862148856529085
   rank: 8
-- slug: demand-the-truth
-  title: DEMAND THE TRUTH
-  score: 65
+- slug: fact-and-fiction-a-b-c
+  title: FACT and FICTION A B C
+  score: 50.62635062426856
+  llm_score: 60
+  recency_score: 13.13175312134279
   rank: 9
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 65
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 48.156246167140615
+  llm_score: 60
+  recency_score: 0.7812308357030797
   rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.

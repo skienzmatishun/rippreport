@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: 'Unrelated illustration: A great white shark swims through a school of fish, contrasting low Alabama voter turnout'
 related_articles:
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 85
-  rank: 1
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 75
-  rank: 2
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 75
-  rank: 3
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 75
-  rank: 4
 - slug: black-hole
   title: BLACK HOLE
-  score: 70
+  score: 85.82610187044024
+  llm_score: 85
+  recency_score: 89.13050935220119
+  rank: 1
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 2
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 81.8369256908693
+  llm_score: 90
+  recency_score: 49.18462845434644
+  rank: 3
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 77.58357363897636
+  llm_score: 75
+  recency_score: 87.91786819488183
+  rank: 4
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 74.71522921439812
+  llm_score: 75
+  recency_score: 73.57614607199059
   rank: 5
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 65
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 73.06074595483393
+  llm_score: 80
+  recency_score: 45.30372977416965
   rank: 6
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 65
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 69.92404723937733
+  llm_score: 65
+  recency_score: 89.62023619688662
   rank: 7
-- slug: halloween-characters
-  title: HALLOWEEN CHARACTERS
-  score: 55
-  rank: 8
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 54
-  rank: 9
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 50
+  score: 57.101972919605075
+  llm_score: 70
+  recency_score: 5.50986459802539
+  rank: 8
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 53.73654352403148
+  llm_score: 65
+  recency_score: 8.6827176201574
+  rank: 9
+- slug: scary
+  title: SCARY
+  score: 49.16085514917728
+  llm_score: 60
+  recency_score: 5.804275745886385
   rank: 10
 ---
 Here is the first post I saw this morning:

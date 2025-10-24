@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: earful
-  title: EARFUL
-  score: 85
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 73.07987434468455
+  llm_score: 75
+  recency_score: 65.39937172342279
   rank: 1
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 71.88389745041349
+  llm_score: 75
+  recency_score: 59.41948725206741
+  rank: 2
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 75
-  rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 65
+  score: 70.6795960873464
+  llm_score: 75
+  recency_score: 53.39798043673202
   rank: 3
-- slug: never-forget
-  title: Never Forget
-  score: 65
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 68.6064347521116
+  llm_score: 85
+  recency_score: 3.032173760557979
   rank: 4
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 65
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 68.57883750997557
+  llm_score: 85
+  recency_score: 2.894187549877844
   rank: 5
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 65
+- slug: consequences
+  title: CONSEQUENCES
+  score: 60.83330969914109
+  llm_score: 75
+  recency_score: 4.16654849570544
   rank: 6
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 65
+  score: 60.12077128030803
+  llm_score: 75
+  recency_score: 0.6038564015401426
   rank: 7
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 65
+- slug: im-back-2
+  title: I'M BACK
+  score: 58.398133109403574
+  llm_score: 65
+  recency_score: 31.990665547017855
   rank: 8
-- slug: hallucinations
-  title: HALLUCINATIONS
-  score: 54
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 54.18591311623324
+  llm_score: 65
+  recency_score: 10.929565581166187
   rank: 9
-- slug: innocent
-  title: INNOCENT
-  score: 40
+- slug: loser
+  title: LOSER
+  score: 52.66563922962438
+  llm_score: 65
+  recency_score: 3.328196148121898
   rank: 10
 ---
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.

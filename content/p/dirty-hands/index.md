@@ -20,43 +20,63 @@ alttags: Dirty hand raised against a stark background, symbolizing alleged corru
 related_articles:
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 85
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
   rank: 1
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
-  rank: 2
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 85
-  rank: 3
-- slug: tax-tax-and-re-tax
-  title: TAX TAX AND RE-TAX
-  score: 85
-  rank: 4
-- slug: bp-catastrophe-alabama-disgrace
-  title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 85
-  rank: 5
-- slug: threesome
-  title: THREESOME
-  score: 75
-  rank: 6
 - slug: what-education-lottery
   title: WHAT EDUCATION LOTTERY?
-  score: 75
-  rank: 7
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 75
-  rank: 8
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
+  rank: 2
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 87.35315705036788
+  llm_score: 85
+  recency_score: 96.76578525183945
+  rank: 3
 - slug: liar-liar-pants-on-fire
   title: LIAR LIAR PANTS ON FIRE
-  score: 75
+  score: 87.19474191901475
+  llm_score: 85
+  recency_score: 95.97370959507373
+  rank: 4
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
+  rank: 5
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 74.61197869965298
+  llm_score: 85
+  recency_score: 33.05989349826491
+  rank: 6
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 74.5758477586611
+  llm_score: 85
+  recency_score: 32.87923879330549
+  rank: 7
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 69.59078153074029
+  llm_score: 85
+  recency_score: 7.953907653701443
+  rank: 8
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 68.78671898553806
+  llm_score: 85
+  recency_score: 3.933594927690323
   rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 65
+- slug: threesome
+  title: THREESOME
+  score: 53.19309908067218
+  llm_score: 65
+  recency_score: 5.965495403360867
   rank: 10
 ---
 When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senator the TAX MAN, Elliott, hands are as dirty as they can get. The lottery and taxes Elliott supports does nothing for education. The “Education” Lottery has been dissolved into a lottery to pay past debts of the State, as far back as 2013. Be sure to read the comments for the article below.

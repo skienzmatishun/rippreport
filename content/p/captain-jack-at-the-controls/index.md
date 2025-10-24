@@ -16,43 +16,63 @@ alttags: Aircraft cockpit view shows runway and fountain; Fairhope Airport expan
 related_articles:
 - slug: captain-jack
   title: CAPTAIN JACK
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 1
 - slug: flying-high
   title: FLYING HIGH
-  score: 85
+  score: 76.93747241426176
+  llm_score: 85
+  recency_score: 44.68736207130882
   rank: 2
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 85
+  score: 71.8226265046153
+  llm_score: 85
+  recency_score: 19.113132523076512
   rank: 3
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 75
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 71.60890176713603
+  llm_score: 85
+  recency_score: 18.044508835680173
   rank: 4
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 75
+  score: 70.4727263186165
+  llm_score: 85
+  recency_score: 12.36363159308245
   rank: 5
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 75
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 70.10942881080481
+  llm_score: 85
+  recency_score: 10.547144054024043
   rank: 6
-- slug: nuff-said
-  title: NUFF SAID
-  score: 75
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 70.0412053531038
+  llm_score: 85
+  recency_score: 10.20602676551906
   rank: 7
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 65
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 62.20395356266881
+  llm_score: 75
+  recency_score: 11.019767813344055
   rank: 8
 - slug: whos-on-first
   title: ??? WHO’S ON FIRST ???
-  score: 65
+  score: 58.721577636566764
+  llm_score: 70
+  recency_score: 13.607888182833822
   rank: 9
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 65
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 54.3796779187427
+  llm_score: 65
+  recency_score: 11.898389593713517
   rank: 10
 ---
 The Fairhope Airport Authority, under control of Fairhope Council President Jack Burrell, continues to raise eyebrows,”What the hell is really going on at the Airport.” Millions of development dollars from federal agencies have expanded the airport with additional runways. Hangers are being offered on long term leases and no specific long range plan has been presented to the public.

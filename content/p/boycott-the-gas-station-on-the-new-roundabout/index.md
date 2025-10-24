@@ -15,45 +15,65 @@ authors:
 - ripp-report
 alttags: New gas station under construction on a roundabout in Fairhope, Alabama; criticized for poor planning and safety concerns
 related_articles:
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 72.82943663570212
+  llm_score: 70
+  recency_score: 84.14718317851063
   rank: 1
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 75
-  rank: 2
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
+  score: 70.52312487593501
+  llm_score: 65
+  recency_score: 92.61562437967505
+  rank: 2
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 70.47244604336203
+  llm_score: 65
+  recency_score: 92.36223021681012
   rank: 3
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 65
+  score: 70.17127158449026
+  llm_score: 65
+  recency_score: 90.85635792245131
   rank: 4
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 68.55415564363686
+  llm_score: 75
+  recency_score: 42.77077821818432
+  rank: 5
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 67.29061318606567
+  llm_score: 65
+  recency_score: 76.45306593032835
+  rank: 6
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 65
-  rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
-  rank: 6
+  score: 63.793316599143736
+  llm_score: 70
+  recency_score: 38.96658299571869
+  rank: 7
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 61.84443063272825
+  llm_score: 75
+  recency_score: 9.22215316364123
+  rank: 8
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 65
-  rank: 7
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 65
-  rank: 8
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 50
+  score: 61.44532616133365
+  llm_score: 75
+  recency_score: 7.226630806668228
   rank: 9
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 40
+- slug: rsa-⁠-no-gas-for-point-clear-or-tourism
+  title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
+  score: 58.069359466397685
+  llm_score: 70
+  recency_score: 10.34679733198841
   rank: 10
 ---
 Fairhope has been cited for many national awards for its beauty. But, it deserves awards for more than just flowers. Placing a gas station located on a safety roundabout in a residential area on the city’s gateway, Fairhope Avenue and 13, only two blocks from three other filling stations/convenience stores, certainly will be an American oddity; and altogether deserving of an Onion American Planning award. This is so bad in terms of safety negligence that it even beats building a fire station on a dead end road (Parker); or having an open sewer line regularly discharge into Mobile Bay, along with all of Trip Pittman and Tim Kant’s expensive BP anchors.

@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: 'Controversial land purchase: Glasses obscuring CATALYST, suggesting questionable actions by Fairhope councilmen'
 related_articles:
-- slug: catalyst
-  title: CATALYST
-  score: 90
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 87.56641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
   rank: 1
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 86.83013102490949
+  llm_score: 85
+  recency_score: 94.15065512454748
   rank: 2
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 85
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 81.23619065458043
+  llm_score: 90
+  recency_score: 46.18095327290216
   rank: 3
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 85
+- slug: catalyst
+  title: CATALYST
+  score: 79.79331659914374
+  llm_score: 90
+  recency_score: 38.96658299571869
   rank: 4
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+  score: 78.46863524410352
+  llm_score: 90
+  recency_score: 32.34317622051765
   rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 85
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 76.24205296553819
+  llm_score: 90
+  recency_score: 21.21026482769095
   rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75.33256271585593
+  llm_score: 75
+  recency_score: 76.66281357927963
   rank: 7
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 75
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 74.72156701864763
+  llm_score: 85
+  recency_score: 33.60783509323819
   rank: 8
 - slug: catalyst-panic-and-confusion
   title: CATALYST PANIC and CONFUSION
-  score: 65
+  score: 74.55785639436276
+  llm_score: 85
+  recency_score: 32.789281971813786
   rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 65
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 72.73336508087172
+  llm_score: 85
+  recency_score: 23.666825404358608
   rank: 10
 ---
 Incredible, only three Fairhope City Councilmen, the 3 B’s, Burrell, Brown and Boone, approved and purchased, 2.65 million in land for recreation, that did NOT have the approval of National Park Service. They did this without any public participation and a very questionable appraisal. Then they closed the sale with lighting speed.

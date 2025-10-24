@@ -18,45 +18,65 @@ authors:
 - admin
 alttags: Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections
 related_articles:
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 85
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 79.88389745041349
+  llm_score: 85
+  recency_score: 59.41948725206741
   rank: 1
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 82
-  rank: 2
 - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
   title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 78
+  score: 79.34309269884407
+  llm_score: 85
+  recency_score: 56.715463494220344
+  rank: 2
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 73.22436249595361
+  llm_score: 82
+  recency_score: 38.121812479767996
   rank: 3
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 75
+  score: 72.04900835119811
+  llm_score: 85
+  recency_score: 20.245041755990528
   rank: 4
-- slug: first-congressional-district
-  title: FIRST CONGRESSIONAL DISTRICT
-  score: 70
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 65.80048668318457
+  llm_score: 82
+  recency_score: 1.002433415922802
   rank: 5
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 70
+  score: 64.25369096364096
+  llm_score: 75
+  recency_score: 21.268454818204823
   rank: 6
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
-  score: 65
+  score: 60.924742157306035
+  llm_score: 75
+  recency_score: 4.623710786530182
   rank: 7
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 58
-  rank: 8
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 50
+  score: 60.624753502968304
+  llm_score: 65
+  recency_score: 43.12376751484153
+  rank: 8
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 60.55098452894464
+  llm_score: 75
+  recency_score: 2.7549226447232087
   rank: 9
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 50
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 55.8226265046153
+  llm_score: 65
+  recency_score: 19.113132523076512
   rank: 10
 ---
 January 6th will go down in history for several reasons:

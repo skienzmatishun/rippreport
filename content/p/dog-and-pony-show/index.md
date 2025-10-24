@@ -16,43 +16,63 @@ alttags: 'Group in animal costumes: dog, horse, kangaroo, and others, referencin
 related_articles:
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
-  score: 100
+  score: 100.0
+  llm_score: 100
+  recency_score: 100.0
   rank: 1
+- slug: catalyst
+  title: CATALYST
+  score: 80.79631106175715
+  llm_score: 85
+  recency_score: 63.98155530878573
+  rank: 2
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 80.18056760504162
+  llm_score: 85
+  recency_score: 60.90283802520807
+  rank: 3
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
+  rank: 4
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 79.03654154157076
+  llm_score: 85
+  recency_score: 55.18270770785375
+  rank: 5
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 2
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 85
-  rank: 3
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 6
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 85
-  rank: 4
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 5
+  score: 74.9652796209306
+  llm_score: 85
+  recency_score: 34.826398104653
+  rank: 7
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85
-  rank: 6
+  score: 73.62510223405853
+  llm_score: 85
+  recency_score: 28.125511170292626
+  rank: 8
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 75
-  rank: 7
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 75
-  rank: 8
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 75
+  score: 69.33796583595118
+  llm_score: 75
+  recency_score: 46.6898291797559
   rank: 9
-- slug: skunked
-  title: SKUNKED
-  score: 75
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 68.96618039997618
+  llm_score: 85
+  recency_score: 4.830901999880929
   rank: 10
 ---
 ## READ THE FOLLOW UP

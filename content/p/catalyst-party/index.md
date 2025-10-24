@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: 'Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca...'
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
-  rank: 1
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 75
+  score: 88.28513651399791
+  llm_score: 90
+  recency_score: 81.42568256998956
+  rank: 1
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
   rank: 2
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 75
-  rank: 3
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 75
-  rank: 4
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 70
-  rank: 5
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 70
-  rank: 6
+  score: 84.7833916941887
+  llm_score: 85
+  recency_score: 83.91695847094347
+  rank: 3
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 65
-  rank: 7
+  score: 73.28411183802811
+  llm_score: 74
+  recency_score: 70.42055919014051
+  rank: 4
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 72.2188724060802
+  llm_score: 85
+  recency_score: 21.094362030400973
+  rank: 5
+- slug: dog-and-pony-show
+  title: DOG AND PONY SHOW
+  score: 67.83613691258604
+  llm_score: 75
+  recency_score: 39.1806845629302
+  rank: 6
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 65
+  score: 67.5206312839577
+  llm_score: 75
+  recency_score: 37.60315641978851
+  rank: 7
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 66.94622278024646
+  llm_score: 75
+  recency_score: 34.73111390123228
   rank: 8
-- slug: shut-up
-  title: SHUT UP
-  score: 65
+- slug: catalyst
+  title: CATALYST
+  score: 65.0136822727984
+  llm_score: 75
+  recency_score: 25.06841136399206
   rank: 9
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 50
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 64.58027788934189
+  llm_score: 75
+  recency_score: 22.901389446709434
   rank: 10
 ---
 The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting subjects. To save you a little time check in at 12:40 minute mark, beginning of #7.

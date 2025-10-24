@@ -15,43 +15,63 @@ alttags: 'BP oil spill funds misused: A hand holds a bag marked with dollar sign
 related_articles:
 - slug: covered-in-oil
   title: COVERED IN OIL
-  score: 85
+  score: 84.81587603866927
+  llm_score: 95
+  recency_score: 44.079380193346374
   rank: 1
-- slug: oil-slick
-  title: OIL “SLICK”
-  score: 75
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 72.83825535238421
+  llm_score: 85
+  recency_score: 24.19127676192105
   rank: 2
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 75
+  score: 69.684990070341
+  llm_score: 85
+  recency_score: 8.424950351705032
   rank: 3
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 75
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 69.59078153074029
+  llm_score: 85
+  recency_score: 7.953907653701443
   rank: 4
 - slug: for-the-record-mega-money
   title: FOR THE RECORD — MEGA-MONEY
-  score: 75
+  score: 69.23975075545263
+  llm_score: 85
+  recency_score: 6.198753777263179
   rank: 5
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 68.52591067985281
+  llm_score: 85
+  recency_score: 2.629553399264038
+  rank: 6
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 68.45984285557822
+  llm_score: 85
+  recency_score: 2.2992142778911093
+  rank: 7
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 65
-  rank: 6
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 65
-  rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 65
+  score: 62.20395356266881
+  llm_score: 75
+  recency_score: 11.019767813344055
   rank: 8
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 65
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 57.56913858075044
+  llm_score: 70
+  recency_score: 7.845692903752216
   rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
+- slug: threesome
+  title: THREESOME
+  score: 52.094897999093824
+  llm_score: 65
+  recency_score: 0.4744899954691276
   rank: 10
 ---
 The BP oil spill was an accident that claimed eleven lives and adversely affected millions. BP has had to pay BILLIONS of dollars in damages spread among four states Alabama Louisiana, Texas and Florida. Three of the states used their funds to correct environmental damage done by the spill and to invest in future projects related to environmental issues. Alabama choose to rob and plunder their money on pet projects of Mayors Councils and even the Governor.

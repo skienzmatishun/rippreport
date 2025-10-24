@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama
 related_articles:
-- slug: documents
-  title: DOCUMENTS
-  score: 85
-  rank: 1
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 2
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 85
-  rank: 3
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
+  rank: 1
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 72.27706283337481
+  llm_score: 85
+  recency_score: 21.385314166874046
+  rank: 2
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 75
+  score: 71.9180547259494
+  llm_score: 85
+  recency_score: 19.590273629747017
+  rank: 3
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 71.21663252706894
+  llm_score: 85
+  recency_score: 16.083162635344685
   rank: 4
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 75
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 70.45248583467144
+  llm_score: 85
+  recency_score: 12.262429173357202
   rank: 5
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 68.67113278230873
+  llm_score: 85
+  recency_score: 3.355663911543685
   rank: 6
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 65
-  rank: 7
 - slug: threesome
   title: THREESOME
-  score: 65
+  score: 62.174264757419564
+  llm_score: 70
+  recency_score: 30.871323787097815
+  rank: 7
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 60.75297761359889
+  llm_score: 75
+  recency_score: 3.764888067994434
   rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 59.64866887953505
+  llm_score: 70
+  recency_score: 18.243344397675273
   rank: 9
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 65
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 56.79757011103389
+  llm_score: 70
+  recency_score: 3.9878505551694436
   rank: 10
 ---
 If every municipality in Alabama had a “Concerned Citizen” such as the one in Columbia, Alabama, Alabama would not be so political corrupt. A concerned citizen is just the first step, where the hell is the Ethics Commission, Attorney General or FBI?

@@ -19,43 +19,63 @@ alttags: 'Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city 
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 77
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
   rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 76
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 82.91819469742386
+  llm_score: 85
+  recency_score: 74.59097348711927
   rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 76
-  rank: 3
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 74
-  rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 74
-  rank: 5
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 73
-  rank: 6
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 73
-  rank: 7
-- slug: s-o-s
-  title: S.O.S
-  score: 71
-  rank: 8
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 71
+  score: 82.4753123573984
+  llm_score: 85
+  recency_score: 72.37656178699199
+  rank: 3
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 78.7742759876368
+  llm_score: 95
+  recency_score: 13.871379938184003
+  rank: 4
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 5
+- slug: catalyst
+  title: CATALYST
+  score: 76.4564942330773
+  llm_score: 90
+  recency_score: 22.28247116538646
+  rank: 6
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 71.84362989425284
+  llm_score: 85
+  recency_score: 19.21814947126418
+  rank: 7
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 65.88483723587679
+  llm_score: 74
+  recency_score: 33.42418617938393
   rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 71
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 64.49899455443594
+  llm_score: 76
+  recency_score: 18.4949727721797
   rank: 10
 ---
 Instead of a lot of links and dialog, this Freaky Friday is going to feature a portion of lasts nights Fairhope City Council Meeting:

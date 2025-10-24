@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr...
 related_articles:
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 85
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 78.94620200815808
+  llm_score: 85
+  recency_score: 54.731010040790416
   rank: 1
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 78.51502512362764
+  llm_score: 80
+  recency_score: 72.57512561813819
+  rank: 2
 - slug: economic-virus
   title: ECONOMIC VIRUS
-  score: 85
-  rank: 2
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 75
+  score: 77.8369256908693
+  llm_score: 85
+  recency_score: 49.18462845434644
   rank: 3
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 72.58768021500666
+  llm_score: 75
+  recency_score: 62.93840107503325
+  rank: 4
 - slug: for-the-record-mega-money
   title: FOR THE RECORD — MEGA-MONEY
-  score: 75
-  rank: 4
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 65
+  score: 65.20972355606835
+  llm_score: 75
+  recency_score: 26.048617780341775
   rank: 5
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 65
+- slug: stepping-up
+  title: STEPPING UP
+  score: 55.14689799787467
+  llm_score: 65
+  recency_score: 15.734489989373342
   rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
-  rank: 7
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 60
-  rank: 8
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 55
-  rank: 9
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 45
+  score: 55.0613509305972
+  llm_score: 60
+  recency_score: 35.306754652986015
+  rank: 7
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 54.946634820508514
+  llm_score: 65
+  recency_score: 14.733174102542575
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 54.930533031065366
+  llm_score: 65
+  recency_score: 14.652665155326813
+  rank: 9
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 54.66988030926577
+  llm_score: 65
+  recency_score: 13.34940154632884
   rank: 10
 ---
 ## DOLLARS

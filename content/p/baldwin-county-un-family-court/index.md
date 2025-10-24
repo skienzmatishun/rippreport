@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Allegorical depiction of a figure resembling the Wicked Witch of the West holding scales, symbolizing complaints against B...
 related_articles:
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 95
-  rank: 1
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 95
+  score: 95.03762349360866
+  llm_score: 95
+  recency_score: 95.18811746804333
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 76.17009621794732
+  llm_score: 95
+  recency_score: 0.8504810897365797
   rank: 2
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 92
+  score: 74.0166533894597
+  llm_score: 92
+  recency_score: 2.083266947298482
   rank: 3
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 72.75919197418094
+  llm_score: 90
+  recency_score: 3.795959870904708
+  rank: 4
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 85
-  rank: 4
-- slug: exposure
-  title: EXPOSURE
-  score: 75
+  score: 72.5102977617175
+  llm_score: 90
+  recency_score: 2.5514888085874565
   rank: 5
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 75
+  score: 68.52880029172312
+  llm_score: 85
+  recency_score: 2.644001458615577
   rank: 6
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 65
-  rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 65
-  rank: 8
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 65
+  score: 60.828756105589854
+  llm_score: 75
+  recency_score: 4.143780527949273
+  rank: 7
+- slug: exposure
+  title: EXPOSURE
+  score: 60.17244233573682
+  llm_score: 75
+  recency_score: 0.8622116786841
+  rank: 8
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 52.93493205098632
+  llm_score: 65
+  recency_score: 4.674660254931597
   rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 55
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 52.148727785117124
+  llm_score: 65
+  recency_score: 0.7436389255856242
   rank: 10
 ---
 The below article is from 2018, since that date The Ripp Report has fielded at least another 100 to 150 complaints against Baldwin County Family Court and certain attorneys.

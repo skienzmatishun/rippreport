@@ -17,45 +17,65 @@ authors:
 - admin
 alttags: Sign displaying a red prohibition symbol over the word CATALYST, referencing a political consulting firm rebranding due ...
 related_articles:
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 95
-  rank: 1
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 90
-  rank: 2
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
+  rank: 1
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 85
-  rank: 3
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
+  rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85
-  rank: 4
+  score: 87.56641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
+  rank: 3
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 85
-  rank: 5
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 85
-  rank: 6
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 85
-  rank: 7
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 85
-  rank: 8
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 75
-  rank: 9
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
+  rank: 4
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 70
+  score: 79.9491934264295
+  llm_score: 85
+  recency_score: 59.74596713214747
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
+  rank: 6
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 70.27761657380537
+  llm_score: 85
+  recency_score: 11.388082869026867
+  rank: 7
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 70.23435244350824
+  llm_score: 85
+  recency_score: 11.171762217541199
+  rank: 8
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 70.03005125332288
+  llm_score: 85
+  recency_score: 10.150256266614415
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 62.00243193734299
+  llm_score: 75
+  recency_score: 10.01215968671496
   rank: 10
 ---
 Just like tea leaves if you look close enough at the local political signs they are sending you a subliminal message. If however you do not allow your eyes to rule your brain, the subliminal message is much clearer.

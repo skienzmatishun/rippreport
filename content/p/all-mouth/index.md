@@ -9,45 +9,65 @@ authors:
 - admin
 alttags: Councilman Jack Burrell depicted with a long nose, suggesting insincerity regarding Fauxhope sewer upgrades
 related_articles:
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 88.68258086352162
+  llm_score: 92
+  recency_score: 75.41290431760807
+  rank: 1
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 86.59477780883036
+  llm_score: 90
+  recency_score: 72.97388904415178
+  rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 80.70749976245517
+  llm_score: 95
+  recency_score: 23.53749881227582
+  rank: 3
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 78.11521599184604
+  llm_score: 95
+  recency_score: 10.576079959230228
+  rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 95
-  rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 92
-  rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 85
-  rank: 3
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 4
+  score: 78.10365746335434
+  llm_score: 95
+  recency_score: 10.518287316771712
+  rank: 5
 - slug: catalyst-liar
   title: CATALYST LIAR
-  score: 85
-  rank: 5
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 85
+  score: 76.99030017127643
+  llm_score: 95
+  recency_score: 4.951500856382183
   rank: 6
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 75.50005501422807
+  llm_score: 85
+  recency_score: 37.500275071140365
+  rank: 7
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 85
-  rank: 7
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 85
+  score: 73.65751801972854
+  llm_score: 90
+  recency_score: 8.287590098642712
   rank: 8
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 82
+  score: 70.7247843082185
+  llm_score: 82
+  recency_score: 25.623921541092447
   rank: 9
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 75
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 68.27852698529178
+  llm_score: 85
+  recency_score: 1.392634926458906
   rank: 10
 ---
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.

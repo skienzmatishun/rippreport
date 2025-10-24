@@ -13,43 +13,63 @@ alttags: Oil-covered hands symbolize failed Senate candidate Trip Pittman’s co
 related_articles:
 - slug: dont-let-the-door-hit-you-in-the-ass
   title: DON’T LET THE DOOR HIT YOU IN THE ASS
-  score: 95
+  score: 82.2081892039405
+  llm_score: 95
+  recency_score: 31.040946019702552
   rank: 1
-- slug: oil-slick
-  title: OIL “SLICK”
-  score: 85
-  rank: 2
 - slug: bp-catastrophe-alabama-disgrace
   title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 85
+  score: 76.81587603866927
+  llm_score: 85
+  recency_score: 44.079380193346374
+  rank: 2
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 71.60890176713603
+  llm_score: 85
+  recency_score: 18.044508835680173
   rank: 3
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 75
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 69.0432153391477
+  llm_score: 85
+  recency_score: 5.216076695738494
   rank: 4
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
-  score: 65
+  score: 68.64841536332693
+  llm_score: 75
+  recency_score: 43.242076816634636
   rank: 5
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 65
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 61.33796583595118
+  llm_score: 65
+  recency_score: 46.6898291797559
   rank: 6
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 65
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 60.09804508090537
+  llm_score: 65
+  recency_score: 40.49022540452686
   rank: 7
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 65
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 60.07588902065245
+  llm_score: 65
+  recency_score: 40.37944510326223
   rank: 8
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 53.652983089538786
+  llm_score: 65
+  recency_score: 8.264915447693923
   rank: 9
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 45
+  score: 52.73747273054873
+  llm_score: 45
+  recency_score: 83.68736365274363
   rank: 10
 ---
 Senate candidate, and BP contractor, Trip Pittman could not get the oil off him. He was rejected by his constituents and barely got 7% of the vote. Many in Baldwin County predicted he would receive less than 10%, they were right.

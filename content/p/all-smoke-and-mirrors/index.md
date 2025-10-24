@@ -12,43 +12,63 @@ alttags: A playing card floats above a magician’s hat, symbolizing misleading 
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 90
+  score: 89.43964342023084
+  llm_score: 90
+  recency_score: 87.19821710115417
   rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 90
-  rank: 2
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 85
-  rank: 3
+  score: 83.67232874673901
+  llm_score: 85
+  recency_score: 78.36164373369505
+  rank: 2
 - slug: shovel-ready
   title: SHOVEL READY
-  score: 85
-  rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 5
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 6
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 7
+  score: 78.95471886159174
+  llm_score: 95
+  recency_score: 14.773594307958726
+  rank: 3
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 85
-  rank: 8
+  score: 78.5758477586611
+  llm_score: 90
+  recency_score: 32.87923879330549
+  rank: 4
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 75.10014946474215
+  llm_score: 85
+  recency_score: 35.500747323710755
+  rank: 5
 - slug: money-on-the-table
   title: MONEY ON THE TABLE
-  score: 85
+  score: 68.81748068743818
+  llm_score: 85
+  recency_score: 4.087403437190892
+  rank: 6
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 68.23373137457767
+  llm_score: 85
+  recency_score: 1.1686568728883742
+  rank: 7
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 68.14995524270496
+  llm_score: 85
+  recency_score: 0.7497762135248415
+  rank: 8
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 60.74273317932575
+  llm_score: 75
+  recency_score: 3.7136658966287337
   rank: 9
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 75
+  score: 56.147915067007766
+  llm_score: 70
+  recency_score: 0.7395753350388166
   rank: 10
 ---
 The Baldwin County Mega-Site and the Fairhope Airport Authority have a lot in common. They both are all smoke and mirrors. The Representative of each will give all kinds of useless data and tell you how Baldwin is the fastest growing county in Alabama and opportunity is right around the corner.

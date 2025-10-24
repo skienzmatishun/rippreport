@@ -15,43 +15,63 @@ alttags: Chris Elliott in striped prison uniform behind bars, related to his con
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
+  score: 93.20237304520383
+  llm_score: 95
+  recency_score: 86.01186522601911
   rank: 1
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 85
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 91.67392032634467
+  llm_score: 90
+  recency_score: 98.36960163172333
   rank: 2
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 85
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
   rank: 3
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 4
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75
+  score: 85.34434506009411
+  llm_score: 85
+  recency_score: 86.72172530047058
   rank: 5
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 75
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 6
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 85.01488310709092
+  llm_score: 85
+  recency_score: 85.07441553545459
+  rank: 7
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 75
-  rank: 7
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 75
+  score: 70.52060612108392
+  llm_score: 85
+  recency_score: 12.603030605419562
   rank: 8
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 65
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 69.00395926891434
+  llm_score: 85
+  recency_score: 5.0197963445716995
   rank: 9
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 65
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 60.20325197320484
+  llm_score: 75
+  recency_score: 1.0162598660242268
   rank: 10
 ---
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values.

@@ -17,43 +17,63 @@ alttags: 'Prohibition signs: one displays CATALYST, the other a scales of justic
 related_articles:
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 90
+  score: 90.93359302371175
+  llm_score: 90
+  recency_score: 94.66796511855877
   rank: 1
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 85
-  rank: 2
 - slug: catalyst-signs
   title: CATALYST SIGNS
-  score: 75
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 83.93208520393644
+  llm_score: 85
+  recency_score: 79.6604260196822
   rank: 3
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 83.24877842919904
+  llm_score: 85
+  recency_score: 76.2438921459952
   rank: 4
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 75
-  rank: 5
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 75
+  score: 79.56641283325074
+  llm_score: 75
+  recency_score: 97.83206416625366
+  rank: 5
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 77.77733007636273
+  llm_score: 75
+  recency_score: 88.88665038181365
   rank: 6
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 70
+  score: 76.24058076477368
+  llm_score: 75
+  recency_score: 81.20290382386844
   rank: 7
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 65
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75.80167323219754
+  llm_score: 75
+  recency_score: 79.0083661609877
   rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 65
+- slug: consequences
+  title: CONSEQUENCES
+  score: 73.11076301928001
+  llm_score: 85
+  recency_score: 25.553815096400097
   rank: 9
-- slug: i-quit
-  title: I QUIT
-  score: 60
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 63.24317955054236
+  llm_score: 75
+  recency_score: 16.215897752711804
   rank: 10
 ---
 How many people remember Sen Tripp Pittman and his theft of BP money to the tune of $750,000 dollars?

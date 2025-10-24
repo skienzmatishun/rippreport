@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat
 related_articles:
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 75
-  rank: 1
-- slug: challengers-emerge-in-daphne-mayoral-race
-  title: Challengers emerge in Daphne mayoral race
-  score: 75
-  rank: 2
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
-  rank: 3
-- slug: qualified-daphne-district-6-city-council
-  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 75
-  rank: 4
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 65
-  rank: 5
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 65
-  rank: 6
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
-  rank: 7
-- slug: selective-memory
-  title: Selective Memory
-  score: 65
-  rank: 8
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 65
-  rank: 9
+  score: 73.82610187044024
+  llm_score: 70
+  recency_score: 89.13050935220119
+  rank: 1
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 72.65619237382862
+  llm_score: 85
+  recency_score: 23.280961869143056
+  rank: 2
+- slug: challengers-emerge-in-daphne-mayoral-race
+  title: Challengers emerge in Daphne mayoral race
+  score: 69.84949079590366
+  llm_score: 85
+  recency_score: 9.247453979518323
+  rank: 3
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
+  score: 68.50975554986516
+  llm_score: 65
+  recency_score: 82.54877774932578
+  rank: 4
+- slug: qualified-daphne-district-6-city-council
+  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
+  score: 68.02425005921862
+  llm_score: 85
+  recency_score: 0.12125029609309805
+  rank: 5
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 59.5990278970599
+  llm_score: 70
+  recency_score: 17.995139485299486
+  rank: 6
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 55.66871646044381
+  llm_score: 65
+  recency_score: 18.34358230221904
+  rank: 7
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 55.63868620757777
+  llm_score: 65
+  recency_score: 18.193431037888864
+  rank: 8
+- slug: selective-memory
+  title: Selective Memory
+  score: 55.40712647419586
+  llm_score: 65
+  recency_score: 17.035632370979314
+  rank: 9
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 54.04120535310381
+  llm_score: 65
+  recency_score: 10.20602676551906
   rank: 10
 ---
 ## NOTICE OF CITY COUNCIL VACANCY

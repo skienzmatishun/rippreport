@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 85
-  rank: 1
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 75
+  score: 75.66625449247667
+  llm_score: 85
+  recency_score: 38.33127246238332
+  rank: 1
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 69.56484545462025
+  llm_score: 85
+  recency_score: 7.82422727310126
   rank: 2
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 75
+  score: 69.23619065458043
+  llm_score: 75
+  recency_score: 46.18095327290216
   rank: 3
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 70
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 61.58642919000963
+  llm_score: 75
+  recency_score: 7.932145950048156
   rank: 4
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 65
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 60.542786056790455
+  llm_score: 70
+  recency_score: 22.713930283952266
   rank: 5
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 65
+  score: 59.6243624959536
+  llm_score: 65
+  recency_score: 38.121812479767996
   rank: 6
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 65
+  score: 58.41250054564074
+  llm_score: 70
+  recency_score: 12.0625027282037
   rank: 7
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 50
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 58.090262459940845
+  llm_score: 65
+  recency_score: 30.451312299704224
   rank: 8
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 45
+  score: 56.28513651399791
+  llm_score: 50
+  recency_score: 81.42568256998956
   rank: 9
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 40
+  score: 55.85763521712458
+  llm_score: 60
+  recency_score: 39.2881760856229
   rank: 10
 ---
 In Fairhope, a conservation easement involving city property has become an issue for the entire county, all 14 municipalities. A conservation easement in a municipality is radically different than one in rural or coastal areas. In a municipality you have limited land and at the rate of growth our county is experiencing, why would a municipality give away control and management to a third party?

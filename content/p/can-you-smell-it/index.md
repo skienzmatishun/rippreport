@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Gas mask against a white background, symbolizing environmental pollution concerns ignored by authorities
 related_articles:
-- slug: stinky-business
-  title: STINKY BUSINESS
-  score: 85
+- slug: wetlands
+  title: WETLANDS
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
   rank: 1
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 85
+  score: 75.19030280407003
+  llm_score: 90
+  recency_score: 15.95151402035018
   rank: 2
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 75
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 71.12970187685954
+  llm_score: 85
+  recency_score: 15.648509384297702
   rank: 3
-- slug: re-run-doing-nothing
-  title: RE-RUN - DOING NOTHING
-  score: 75
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 70.89859293447587
+  llm_score: 85
+  recency_score: 14.49296467237936
   rank: 4
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 68.19721795157331
+  llm_score: 85
+  recency_score: 0.986089757866536
+  rank: 5
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 75
-  rank: 5
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 65
+  score: 68.15624616714062
+  llm_score: 85
+  recency_score: 0.7812308357030797
   rank: 6
-- slug: nuff-said
-  title: NUFF SAID
-  score: 65
-  rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
-  rank: 8
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 65
+  score: 68.1495449686994
+  llm_score: 85
+  recency_score: 0.7477248434970013
+  rank: 7
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 62.08072954482946
+  llm_score: 75
+  recency_score: 10.403647724147305
+  rank: 8
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 58.85171781564504
+  llm_score: 65
+  recency_score: 34.2585890782252
   rank: 9
 - slug: howling-rains-passing-gas
   title: HOWLING RAINS PASSING GAS
-  score: 65
+  score: 52.875434582915084
+  llm_score: 65
+  recency_score: 4.377172914575434
   rank: 10
 ---
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For example:

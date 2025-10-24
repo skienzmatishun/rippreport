@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election campaign photo
 related_articles:
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 95
-  rank: 1
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 95.83629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
+  rank: 1
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 93.20237304520383
+  llm_score: 95
+  recency_score: 86.01186522601911
   rank: 2
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 85
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
   rank: 3
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 4
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 85
+  score: 86.4753123573984
+  llm_score: 90
+  recency_score: 72.37656178699199
+  rank: 4
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 85.34434506009411
+  llm_score: 85
+  recency_score: 86.72172530047058
   rank: 5
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
-  rank: 6
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 85
-  rank: 7
-- slug: say-goodbye-incumbents
-  title: SAY GOODBYE INCUMBENTS
-  score: 75
-  rank: 8
 - slug: cross-the-line
   title: CROSS THE LINE
-  score: 75
+  score: 84.87560790070712
+  llm_score: 85
+  recency_score: 84.37803950353559
+  rank: 6
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 84.55504977540349
+  llm_score: 85
+  recency_score: 82.7752488770174
+  rank: 7
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 69.16723345817019
+  llm_score: 85
+  recency_score: 5.836167290850916
+  rank: 8
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 68.23630690099644
+  llm_score: 85
+  recency_score: 1.1815345049822292
   rank: 9
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 75
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 64.32419252805958
+  llm_score: 75
+  recency_score: 21.62096264029795
   rank: 10
 ---
 <div class="link-preview">

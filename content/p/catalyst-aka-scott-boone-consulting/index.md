@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: CATALYST logo obscured by sunglasses and a red circle, representing controversial Baldwin County political group now calle...
 related_articles:
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 85
-  rank: 1
 - slug: catalyst-signs
   title: CATALYST SIGNS
-  score: 85
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 91.62009294457451
+  llm_score: 90
+  recency_score: 98.10046472287257
   rank: 2
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 85
-  rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 85
-  rank: 4
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85
-  rank: 5
+  score: 91.4594928113308
+  llm_score: 90
+  recency_score: 97.29746405665401
+  rank: 3
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 78.29013091918722
+  llm_score: 95
+  recency_score: 11.45065459593608
+  rank: 4
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 85
+  score: 78.24662907448486
+  llm_score: 95
+  recency_score: 11.233145372424257
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 74.43908430617277
+  llm_score: 90
+  recency_score: 12.195421530863895
   rank: 6
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 73.04408811712146
+  llm_score: 75
+  recency_score: 65.22044058560728
+  rank: 7
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 85
-  rank: 7
+  score: 70.58353064654526
+  llm_score: 85
+  recency_score: 12.9176532327263
+  rank: 8
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 75
-  rank: 8
+  score: 70.0412053531038
+  llm_score: 85
+  recency_score: 10.20602676551906
+  rank: 9
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 65
-  rank: 9
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 50
+  score: 61.82933305871513
+  llm_score: 75
+  recency_score: 9.146665293575648
   rank: 10
 ---
 Some people new to Baldwin County politics want to know what the hell is CATALYST. CATALYST was the name of the good ole boys until it became so toxic, that they recently changed their name to Scott Boone Consulting. This is the same individual that was running CATALYST, they are just hiding under another name, the smell is the same.

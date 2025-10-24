@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Pigs stand in front of a Bay Minette water tower and American flag, referencing concerns about Mayor Wills’ leadership
 related_articles:
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 65
-  rank: 1
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 65
-  rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 65
-  rank: 3
 - slug: fauxhope
   title: FAUXHOPE
-  score: 65
+  score: 73.95822947770259
+  llm_score: 85
+  recency_score: 29.79114738851293
+  rank: 1
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 70.12155541422004
+  llm_score: 65
+  recency_score: 90.60777707110016
+  rank: 2
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 61.571079238353306
+  llm_score: 65
+  recency_score: 47.85539619176654
+  rank: 3
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60.39120862176472
+  llm_score: 75
+  recency_score: 1.9560431088235848
   rank: 4
-- slug: christmas
-  title: MERRY CHRISTMAS
-  score: 65
-  rank: 5
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
-  rank: 6
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 65
-  rank: 7
+  score: 60.138881984321266
+  llm_score: 75
+  recency_score: 0.6944099216063174
+  rank: 5
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 54
+  score: 59.56195333019646
+  llm_score: 65
+  recency_score: 37.809766650982276
+  rank: 6
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 57.77989467527984
+  llm_score: 70
+  recency_score: 8.899473376399213
+  rank: 7
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 56.14710678996988
+  llm_score: 70
+  recency_score: 0.7355339498494264
   rank: 8
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 50
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 53.38713313277998
+  llm_score: 65
+  recency_score: 6.935665663899902
   rank: 9
-- slug: jack-ass
-  title: JACK ASS
-  score: 50
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 52.071958552408184
+  llm_score: 65
+  recency_score: 0.35979276204090305
   rank: 10
 ---
 Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.

@@ -11,45 +11,65 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 86.57394274499862
+  llm_score: 85
+  recency_score: 92.86971372499306
   rank: 1
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 75
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 85.97322154942498
+  llm_score: 85
+  recency_score: 89.86610774712484
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 75
-  rank: 3
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 65
-  rank: 4
-- slug: one-woman
-  title: ONE WOMAN
-  score: 65
-  rank: 5
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 65
+  score: 81.02339909576419
+  llm_score: 100
+  recency_score: 5.11699547882092
+  rank: 3
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 74.60485264964663
+  llm_score: 90
+  recency_score: 13.024263248233176
+  rank: 4
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 72.15412040196408
+  llm_score: 90
+  recency_score: 0.7706020098203834
+  rank: 5
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 68.75919197418094
+  llm_score: 85
+  recency_score: 3.795959870904708
   rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 68.23055140526492
+  llm_score: 85
+  recency_score: 1.152757026324628
   rank: 7
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 62.59061851767917
+  llm_score: 75
+  recency_score: 12.953092588395847
+  rank: 8
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 60.402074838802505
+  llm_score: 75
+  recency_score: 2.0103741940125253
+  rank: 9
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
-  rank: 8
-- slug: invitation
-  title: INVITATION
-  score: 65
-  rank: 9
-- slug: truth
-  title: TRUTH
-  score: 50
+  score: 52.03707995746683
+  llm_score: 65
+  recency_score: 0.18539978733415308
   rank: 10
 ---
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.

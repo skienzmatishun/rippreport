@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Vintage U.S. postage stamp featuring an eagle head, referencing government oversight and potential ethical concerns in con...
 related_articles:
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 89
-  rank: 1
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 85
-  rank: 2
-- slug: fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 75
-  rank: 3
+  score: 89.87500746908161
+  llm_score: 90
+  recency_score: 89.37503734540803
+  rank: 1
 - slug: investigative-reporting
   title: INVESTIGATIVE REPORTING
-  score: 75
+  score: 87.14222555805995
+  llm_score: 85
+  recency_score: 95.71112779029973
+  rank: 2
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 78.3909761644817
+  llm_score: 85
+  recency_score: 51.95488082240847
+  rank: 3
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 78.05171781564505
+  llm_score: 89
+  recency_score: 34.2585890782252
   rank: 4
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 69
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 77.21880272600201
+  llm_score: 92
+  recency_score: 18.094013630009982
   rank: 5
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 65
-  rank: 6
-- slug: hate
-  title: HATE
-  score: 65
-  rank: 7
-- slug: you-re-fired
-  title: YOU'RE FIRED
-  score: 65
-  rank: 8
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 65
-  rank: 9
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 65
+  score: 73.53339065902054
+  llm_score: 85
+  recency_score: 27.666953295102704
+  rank: 6
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 71.90733502067299
+  llm_score: 85
+  recency_score: 19.53667510336496
+  rank: 7
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 69.03524565340774
+  llm_score: 82
+  recency_score: 17.176228267038702
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 68.13111703119183
+  llm_score: 85
+  recency_score: 0.6555851559591579
+  rank: 9
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 68.0281938534351
+  llm_score: 85
+  recency_score: 0.14096926717550023
   rank: 10
 ---
 Complaint Statement:

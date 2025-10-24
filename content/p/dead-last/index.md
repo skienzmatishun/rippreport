@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Sign advertising the South Alabama Mega Site, a 3000-acre certified industrial park in Baldwin County, subject of ongoing ...
 related_articles:
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 85
-  rank: 1
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 85
-  rank: 2
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 85
-  rank: 3
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 85
-  rank: 4
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 85
-  rank: 5
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 85
-  rank: 6
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
-  rank: 7
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 71
+  score: 85.72869172076295
+  llm_score: 85
+  recency_score: 88.64345860381478
+  rank: 1
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 78.22156185864796
+  llm_score: 85
+  recency_score: 51.107809293239825
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 76.41953853153237
+  llm_score: 75
+  recency_score: 82.09769265766185
+  rank: 3
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 76.00978388769298
+  llm_score: 85
+  recency_score: 40.048919438464885
+  rank: 4
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 75.37777423965625
+  llm_score: 85
+  recency_score: 36.88887119828122
+  rank: 5
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 72.44430137001486
+  llm_score: 85
+  recency_score: 22.221506850074306
+  rank: 6
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 72.28879688043754
+  llm_score: 85
+  recency_score: 21.44398440218775
+  rank: 7
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 68.5836146838788
+  llm_score: 85
+  recency_score: 2.9180734193940348
   rank: 8
-- slug: misery-loves-company
-  title: MISERY LOVES COMPANY
-  score: 65
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 62.04120535310381
+  llm_score: 75
+  recency_score: 10.20602676551906
   rank: 9
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 45
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 58.240482350350455
+  llm_score: 70
+  recency_score: 11.20241175175226
   rank: 10
 ---
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the mega site, will soon pay off. Never mind that this is the same story since the purchase in mid 2011.

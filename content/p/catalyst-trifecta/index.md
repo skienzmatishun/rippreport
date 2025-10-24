@@ -13,45 +13,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 68
-  rank: 1
-- slug: elliotttuckercatalyst-selling-your-soul
-  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 68
-  rank: 2
-- slug: catalyst-2
-  title: CATALYST
-  score: 67
-  rank: 3
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 67
-  rank: 4
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 67
-  rank: 5
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 66
-  rank: 6
+  score: 95.9452804719372
+  llm_score: 95
+  recency_score: 99.72640235968593
+  rank: 1
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 93.27392032634468
+  llm_score: 92
+  recency_score: 98.36960163172333
+  rank: 2
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 85.58357363897636
+  llm_score: 85
+  recency_score: 87.91786819488183
+  rank: 3
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 65
-  rank: 7
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 64
-  rank: 8
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 63
-  rank: 9
+  score: 85.29689134128176
+  llm_score: 85
+  recency_score: 86.48445670640884
+  rank: 4
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 83.71532550649245
+  llm_score: 85
+  recency_score: 78.57662753246225
+  rank: 5
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 82.20034869269523
+  llm_score: 85
+  recency_score: 71.00174346347615
+  rank: 6
 - slug: million-dollar-swimming-pool
   title: MILLION DOLLAR SWIMMING POOL
-  score: 63
+  score: 79.78201851846809
+  llm_score: 75
+  recency_score: 98.91009259234048
+  rank: 7
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 75.04131527818056
+  llm_score: 75
+  recency_score: 75.2065763909028
+  rank: 8
+- slug: catalyst-2
+  title: CATALYST
+  score: 71.73975441483147
+  llm_score: 85
+  recency_score: 18.69877207415731
+  rank: 9
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 60.235015609677504
+  llm_score: 75
+  recency_score: 1.1750780483875294
   rank: 10
 ---
 The Ripp Report is a non profit consumer protection organization, self funded by private donations. The donations are not tax deductible, all donations, 100% are used for advertising on Social Media.

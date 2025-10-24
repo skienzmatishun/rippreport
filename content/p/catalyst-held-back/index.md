@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Red circle with a slash through the word Catalyst, symbolizing the group’s limited success in Baldwin County elections
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 95
-  rank: 1
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 95
-  rank: 2
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 95
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 94.77861223075729
+  llm_score: 95
+  recency_score: 93.89306115378648
+  rank: 2
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 93.82610187044024
+  llm_score: 95
+  recency_score: 89.13050935220119
   rank: 3
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 90
+  score: 91.97579460098616
+  llm_score: 95
+  recency_score: 79.87897300493081
   rank: 4
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 85
-  rank: 5
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 85
-  rank: 6
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 85
-  rank: 7
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 75
+  score: 89.72869172076295
+  llm_score: 90
+  recency_score: 88.64345860381478
+  rank: 5
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 78.29013091918722
+  llm_score: 95
+  recency_score: 11.45065459593608
+  rank: 6
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 78.24662907448486
+  llm_score: 95
+  recency_score: 11.233145372424257
+  rank: 7
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 73.6144884324103
+  llm_score: 92
+  recency_score: 0.07244216205141384
   rank: 8
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 75
-  rank: 9
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 70
+  score: 63.81216788870066
+  llm_score: 75
+  recency_score: 19.060839443503276
+  rank: 9
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 60.06628068393902
+  llm_score: 75
+  recency_score: 0.3314034196950972
   rank: 10
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.

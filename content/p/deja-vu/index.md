@@ -26,43 +26,63 @@ authors:
 related_articles:
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 100
+  score: 80.23825715325401
+  llm_score: 100
+  recency_score: 1.1912857662700727
   rank: 1
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 2
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
-  rank: 3
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 75
-  rank: 4
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 75
-  rank: 5
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 65
-  rank: 6
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 65
-  rank: 7
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 65
+  score: 72.00611250619076
+  llm_score: 90
+  recency_score: 0.030562530953826647
+  rank: 2
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 71.33326215846071
+  llm_score: 85
+  recency_score: 16.666310792303566
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 68.02264470180563
+  llm_score: 85
+  recency_score: 0.11322350902818136
+  rank: 4
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 68.0142913139424
+  llm_score: 85
+  recency_score: 0.07145656971196458
+  rank: 5
+- slug: history-repeating-itself
+  title: History repeating itself
+  score: 60.13926300461572
+  llm_score: 75
+  recency_score: 0.696315023078613
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 60.01401984539249
+  llm_score: 75
+  recency_score: 0.07009922696246068
+  rank: 7
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 56.201588255603156
+  llm_score: 70
+  recency_score: 1.0079412780157604
   rank: 8
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 52.09915043452601
+  llm_score: 65
+  recency_score: 0.4957521726300432
   rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 52.03323114546348
+  llm_score: 65
+  recency_score: 0.1661557273173934
   rank: 10
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.

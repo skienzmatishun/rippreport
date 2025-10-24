@@ -17,45 +17,65 @@ authors:
 - admin
 alttags: A skull sits atop scales of justice, symbolizing a flawed legal system lacking accountability and transparency within law ...
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 77.76552754120547
+  llm_score: 90
+  recency_score: 28.827637706027392
   rank: 1
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 85
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 74.6483081618006
+  llm_score: 85
+  recency_score: 33.241540809002984
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 73.89329029325975
+  llm_score: 85
+  recency_score: 29.466451466298754
   rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 85
+  score: 73.41343030010246
+  llm_score: 85
+  recency_score: 27.067151500512303
   rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 85
-  rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 85
-  rank: 6
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 85
-  rank: 7
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 85
-  rank: 8
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 75
-  rank: 9
+  score: 73.19546987535206
+  llm_score: 85
+  recency_score: 25.977349376760323
+  rank: 5
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 71.06185194838167
+  llm_score: 85
+  recency_score: 15.30925974190835
+  rank: 6
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 70.60485264964663
+  llm_score: 85
+  recency_score: 13.024263248233176
+  rank: 7
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 70
+  score: 70.51370980221502
+  llm_score: 85
+  recency_score: 12.568549011075072
+  rank: 8
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 68.96353695320067
+  llm_score: 85
+  recency_score: 4.817684766003371
+  rank: 9
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 68.36132900786234
+  llm_score: 85
+  recency_score: 1.8066450393116897
   rank: 10
 ---
 Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop.

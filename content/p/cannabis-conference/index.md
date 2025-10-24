@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference
 related_articles:
-- slug: 4-20
-  title: 4-20
-  score: 100
-  rank: 1
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 95
+  score: 78.09790190617431
+  llm_score: 95
+  recency_score: 10.489509530871569
+  rank: 1
+- slug: 4-20
+  title: 4-20
+  score: 76.73665354209359
+  llm_score: 95
+  recency_score: 3.6832677104679425
   rank: 2
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 75
+  score: 68.62327909364471
+  llm_score: 85
+  recency_score: 3.116395468223524
   rank: 3
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 75
-  rank: 4
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 75
-  rank: 5
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 75
+  score: 65.41343030010246
+  llm_score: 75
+  recency_score: 27.067151500512303
+  rank: 4
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 64.4564942330773
+  llm_score: 75
+  recency_score: 22.28247116538646
+  rank: 5
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 62.17993250952791
+  llm_score: 75
+  recency_score: 10.899662547639538
   rank: 6
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 52
+  score: 50.96358438186879
+  llm_score: 52
+  recency_score: 46.817921909343944
   rank: 7
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 44.383835623818854
+  llm_score: 50
+  recency_score: 21.919178119094283
+  rank: 8
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 50
-  rank: 8
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 40
+  score: 44.25369096364096
+  llm_score: 50
+  recency_score: 21.268454818204823
   rank: 9
 - slug: insanity-2
   title: INSANITY
-  score: 35
+  score: 33.6988963747054
+  llm_score: 40
+  recency_score: 8.494481873527002
   rank: 10
 ---
 Inaugural Alabama Medical Cannabis Conference to Make History as the State's First Major Cannabis-Focused Event

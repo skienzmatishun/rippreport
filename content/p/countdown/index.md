@@ -10,43 +10,63 @@ alttags: US Senate primary deadline approaching; clock illustration symbolizes t
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 75
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
   rank: 1
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 75
-  rank: 2
-- slug: qualification
-  title: QUALIFICATION
-  score: 75
-  rank: 3
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 75
-  rank: 4
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 75
-  rank: 5
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 65
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 2
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
+  rank: 3
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 78.82689854161379
+  llm_score: 85
+  recency_score: 54.13449270806896
+  rank: 4
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 77.03595596770666
+  llm_score: 85
+  recency_score: 45.179779838533264
+  rank: 5
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
   rank: 6
 - slug: election-ad
   title: ELECTION AD
-  score: 65
+  score: 69.55629440789875
+  llm_score: 85
+  recency_score: 7.781472039493755
   rank: 7
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 65
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 67.83613691258604
+  llm_score: 75
+  recency_score: 39.1806845629302
   rank: 8
 - slug: primary-election-may-24th
   title: Primary Election May 24th
-  score: 65
+  score: 60.164144613105805
+  llm_score: 75
+  recency_score: 0.8207230655290094
   rank: 9
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 54
+- slug: last-chance
+  title: LAST CHANCE
+  score: 60.164144613105805
+  llm_score: 75
+  recency_score: 0.8207230655290094
   rank: 10
 ---
 The US Senate seat sought by a total of 19 candidates, 11 republicans and 8 democrats primary is less than two weeks away.

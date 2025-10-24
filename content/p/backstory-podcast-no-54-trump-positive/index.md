@@ -21,43 +21,63 @@ authors:
 related_articles:
 - slug: backstory-podcast-55
   title: BACKSTORY PODCAST 55
-  score: 95
+  score: 95.51287958944485
+  llm_score: 95
+  recency_score: 97.56439794722424
   rank: 1
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 85
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 84.10764360478439
+  llm_score: 85
+  recency_score: 80.5382180239219
   rank: 2
 - slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
   title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 85
+  score: 83.5866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
   rank: 3
 - slug: bsp-tlp
   title: Backstory Podcast No 56 The Lincoln Project
-  score: 75
+  score: 79.24740235768714
+  llm_score: 75
+  recency_score: 96.23701178843567
   rank: 4
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 75
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 78.52312487593501
+  llm_score: 75
+  recency_score: 92.61562437967505
   rank: 5
 - slug: backstory-podcast-the-46th-president-of-the-united-states
   title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 75
+  score: 78.12155541422004
+  llm_score: 75
+  recency_score: 90.60777707110016
   rank: 6
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 75
-  rank: 7
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 65
-  rank: 8
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 65
-  rank: 9
+  score: 72.6568431195879
+  llm_score: 75
+  recency_score: 63.2842155979395
+  rank: 7
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 60
+  score: 70.88179115997221
+  llm_score: 65
+  recency_score: 94.40895579986105
+  rank: 8
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 67.18876730389368
+  llm_score: 70
+  recency_score: 55.94383651946845
+  rank: 9
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 65.89249424486937
+  llm_score: 65
+  recency_score: 69.4624712243468
   rank: 10
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F265996207915089%2F&amp;show_text=true&amp;width=560" width="560" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>

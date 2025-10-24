@@ -10,43 +10,63 @@ alttags: Chucky doll caricature representing Chuckee Cheeze, a local journalist 
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 85
+  score: 87.28110874039773
+  llm_score: 95
+  recency_score: 56.40554370198863
   rank: 1
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
-  rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 3
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
-  rank: 4
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 75
-  rank: 5
+  score: 79.68728672756747
+  llm_score: 90
+  recency_score: 38.436433637837325
+  rank: 2
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 77.91811031330417
+  llm_score: 85
+  recency_score: 49.59055156652082
+  rank: 3
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 75
-  rank: 6
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 65
-  rank: 7
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
-  rank: 8
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
-  rank: 9
+  score: 76.64841536332693
+  llm_score: 85
+  recency_score: 43.242076816634636
+  rank: 4
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 76.55415564363686
+  llm_score: 85
+  recency_score: 42.77077821818432
+  rank: 5
 - slug: hallucinations
   title: HALLUCINATIONS
-  score: 65
+  score: 75.62944962510568
+  llm_score: 75
+  recency_score: 78.14724812552835
+  rank: 6
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 73.4431743480055
+  llm_score: 85
+  recency_score: 27.215871740027474
+  rank: 7
+- slug: jack-ass
+  title: JACK ASS
+  score: 69.65600931164778
+  llm_score: 80
+  recency_score: 28.280046558238915
+  rank: 8
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 65.87716639008053
+  llm_score: 75
+  recency_score: 29.385831950402675
+  rank: 9
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 61.33977933106958
+  llm_score: 70
+  recency_score: 26.69889665534791
   rank: 10
 ---
 CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of Catalyst, the Good ole boys, special interest and elected officials and Judges who are more concerned with their interest than those of the city.

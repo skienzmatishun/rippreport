@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Hand receiving a bag labeled with a dollar sign, symbolizing alleged corruption at Fairhope Airport discussed in this article
 related_articles:
-- slug: 5000-00-cash-reward-rerun
-  title: $5000.00 CASH REWARD
-  score: 85
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 83.29061318606567
+  llm_score: 85
+  recency_score: 76.45306593032835
   rank: 1
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 85
-  rank: 2
-- slug: flying-high
-  title: FLYING HIGH
-  score: 85
-  rank: 3
 - slug: in-your-face
   title: IN YOUR FACE
-  score: 85
+  score: 82.16149687375565
+  llm_score: 85
+  recency_score: 70.80748436877823
+  rank: 2
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 81.8369256908693
+  llm_score: 90
+  recency_score: 49.18462845434644
+  rank: 3
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 80.43777438120516
+  llm_score: 90
+  recency_score: 42.18887190602582
   rank: 4
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
+- slug: flying-high
+  title: FLYING HIGH
+  score: 79.18876730389368
+  llm_score: 85
+  recency_score: 55.94383651946845
   rank: 5
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 76.81587603866927
+  llm_score: 85
+  recency_score: 44.079380193346374
   rank: 6
 - slug: double-down-and-i-call
   title: DOUBLE DOWN AND I CALL
-  score: 75
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
   rank: 7
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 75
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 69.89097459752321
+  llm_score: 75
+  recency_score: 49.45487298761609
   rank: 8
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 70
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 68.00833052024575
+  llm_score: 85
+  recency_score: 0.041652601228757115
   rank: 9
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 65
+- slug: zunk-the-skunk
+  title: ZUNK THE SKUNK
+  score: 66.36254669889007
+  llm_score: 70
+  recency_score: 51.81273349445037
   rank: 10
 ---
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport. WRONG First off Chucky keeps calling me a blogger and ignoring that The Ripp Report has been around for over ten years and is a non profit corporation, consumer watchdog organization. But what the hell if I call him Chucky Cheeze he can call me a blogger.

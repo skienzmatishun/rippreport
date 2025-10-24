@@ -10,45 +10,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 75
-  rank: 1
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 65
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
+  rank: 1
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 86.52312487593501
+  llm_score: 85
+  recency_score: 92.61562437967505
   rank: 2
-- slug: boone-doggle
-  title: BOONE-DOGGLE
-  score: 65
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 68.00471176651983
+  llm_score: 85
+  recency_score: 0.02355883259917855
   rank: 3
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
-  rank: 4
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 65
-  rank: 5
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 60
-  rank: 6
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 54
-  rank: 7
+  score: 65.96882643931993
+  llm_score: 65
+  recency_score: 69.84413219659965
+  rank: 4
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 63.112599723484344
+  llm_score: 75
+  recency_score: 15.562998617421716
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 54.721577636566764
+  llm_score: 65
+  recency_score: 13.607888182833822
+  rank: 6
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 50
+  score: 52.23760528730483
+  llm_score: 65
+  recency_score: 1.1880264365241602
+  rank: 7
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 52.189277384112316
+  llm_score: 65
+  recency_score: 0.9463869205615951
   rank: 8
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 45
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 48.22929156466386
+  llm_score: 60
+  recency_score: 1.1464578233192855
   rank: 9
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 40
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 48.094897999093824
+  llm_score: 60
+  recency_score: 0.4744899954691276
   rank: 10
 ---
 BEAVIS AND BUTTHEAD invade Fairhope

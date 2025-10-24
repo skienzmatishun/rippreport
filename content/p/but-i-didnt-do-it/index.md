@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 95
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 90.67496869450072
+  llm_score: 95
+  recency_score: 73.37484347250358
   rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 95
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
   rank: 2
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 75
+- slug: no-justice
+  title: NO JUSTICE
+  score: 88.79631106175715
+  llm_score: 95
+  recency_score: 63.98155530878573
   rank: 3
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 75
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 4
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 65
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 84.64841536332693
+  llm_score: 95
+  recency_score: 43.242076816634636
   rank: 5
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 65
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 84.43777438120516
+  llm_score: 95
+  recency_score: 42.18887190602582
   rank: 6
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 65
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
   rank: 7
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 65
+- slug: innocent
+  title: INNOCENT
+  score: 81.35442892225316
+  llm_score: 95
+  recency_score: 26.772144611265798
   rank: 8
-- slug: exposure
-  title: EXPOSURE
-  score: 65
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 78.82799474546216
+  llm_score: 95
+  recency_score: 14.139973727310823
   rank: 9
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 65
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 78.3796779187427
+  llm_score: 95
+  recency_score: 11.898389593713517
   rank: 10
 ---
 by Nancy Koerner

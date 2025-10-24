@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th...
 related_articles:
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 95
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 92.82943663570212
+  llm_score: 95
+  recency_score: 84.14718317851063
   rank: 1
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 92
-  rank: 2
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 90
-  rank: 3
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 90
-  rank: 4
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 89
+  score: 92.50975554986516
+  llm_score: 95
+  recency_score: 82.54877774932578
+  rank: 2
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 83.22366745387794
+  llm_score: 92
+  recency_score: 48.118337269389656
+  rank: 3
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 82.5758477586611
+  llm_score: 95
+  recency_score: 32.87923879330549
+  rank: 4
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 78.06935946639769
+  llm_score: 95
+  recency_score: 10.34679733198841
   rank: 5
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 85
-  rank: 6
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 85
-  rank: 7
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 85
-  rank: 8
+  score: 76.32297651271782
+  llm_score: 85
+  recency_score: 41.61488256358909
+  rank: 6
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 85
+  score: 75.11259972348434
+  llm_score: 90
+  recency_score: 15.562998617421716
+  rank: 7
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 72.47261545821016
+  llm_score: 90
+  recency_score: 2.363077291050805
+  rank: 8
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 69.95366066397163
+  llm_score: 85
+  recency_score: 9.768303319858143
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 85
+  score: 68.39013828420687
+  llm_score: 85
+  recency_score: 1.9506914210343174
   rank: 10
 ---
 Alabama is a beautiful state, with a very ugly side, white collar crime, aka political corruption. The corruption flourishes due to oversight agencies aiding and abetting the corruption by not doing their job. Accountability, ethics and rule of law have been abandoned by the Ethics Commission, Judiciary, Bar Association and the ever silent Attorney General.

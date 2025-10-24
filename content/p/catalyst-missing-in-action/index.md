@@ -20,43 +20,63 @@ alttags: 'Mask crossed out, fan checked: Illustration reflects attendees removin
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 85
+- slug: m-i-a
+  title: M.I.A
+  score: 85.72869172076295
+  llm_score: 85
+  recency_score: 88.64345860381478
   rank: 2
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 85
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 83.84502484628416
+  llm_score: 85
+  recency_score: 79.22512423142078
   rank: 3
+- slug: catalyst-2
+  title: CATALYST
+  score: 80.83141751730334
+  llm_score: 85
+  recency_score: 64.15708758651667
+  rank: 4
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 65
-  rank: 4
+  score: 79.81895828211927
+  llm_score: 85
+  recency_score: 59.09479141059637
+  rank: 5
 - slug: catalyst-party
   title: CATALYST PARTY
-  score: 65
-  rank: 5
+  score: 74.08411183802811
+  llm_score: 75
+  recency_score: 70.42055919014051
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 71.53066309252159
+  llm_score: 85
+  recency_score: 17.653315462607935
+  rank: 7
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 71.50176287453081
+  llm_score: 85
+  recency_score: 17.508814372654022
+  rank: 8
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 65
-  rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
-  rank: 7
-- slug: skunked
-  title: SKUNKED
-  score: 65
-  rank: 8
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 65
+  score: 71.46808419803509
+  llm_score: 75
+  recency_score: 57.34042099017541
   rank: 9
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 50
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 69.58357363897636
+  llm_score: 65
+  recency_score: 87.91786819488183
   rank: 10
 ---
 Last night Spanish Fort played Fairhope in football. The stands were full, social distancing was all but impossible.
