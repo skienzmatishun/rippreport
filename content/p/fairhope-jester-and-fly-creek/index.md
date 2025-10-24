@@ -16,43 +16,63 @@ alttags: The Fairhope Jester in colorful costume, holding a hammer, referenced i
 related_articles:
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 95
+  score: 92.69167940010973
+  llm_score: 95
+  recency_score: 83.45839700054867
   rank: 1
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 90
-  rank: 2
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 85
-  rank: 3
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 85
-  rank: 4
 - slug: fairhope-has-lost-its-moral-compass
   title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 85
-  rank: 5
+  score: 89.82610187044024
+  llm_score: 90
+  recency_score: 89.13050935220119
+  rank: 2
 - slug: the-jester
   title: THE JESTER
-  score: 85
+  score: 82.02388423824404
+  llm_score: 95
+  recency_score: 30.119421191220212
+  rank: 3
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 81.06892890441665
+  llm_score: 95
+  recency_score: 25.34464452208322
+  rank: 4
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 78.37150396712644
+  llm_score: 75
+  recency_score: 91.85751983563217
+  rank: 5
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 75.44467018976354
+  llm_score: 90
+  recency_score: 17.223350948817675
   rank: 6
+- slug: fairness
+  title: FAIRNESS
+  score: 75.0420312410768
+  llm_score: 85
+  recency_score: 35.21015620538397
+  rank: 7
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 74.92721807862874
+  llm_score: 85
+  recency_score: 34.63609039314372
+  rank: 8
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 85
-  rank: 7
+  score: 70.91451922932312
+  llm_score: 85
+  recency_score: 14.572596146615592
+  rank: 9
 - slug: hate
   title: HATE
-  score: 75
-  rank: 8
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 75
-  rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
+  score: 68.86431479647436
+  llm_score: 75
+  recency_score: 44.32157398237182
   rank: 10
 ---
 The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The Jester supports the developer, who is responsible for the damage to the creek from the Publix project. The same developer is now building 230 apartments next to the creek. Jester neighbors are not going to be laughing.

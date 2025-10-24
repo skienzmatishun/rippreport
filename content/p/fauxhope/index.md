@@ -10,43 +10,63 @@ alttags: City of Fairhope, Alabama seal depicting buildings and a For Sale sign,
 related_articles:
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 95
+  score: 91.29061318606567
+  llm_score: 95
+  recency_score: 76.45306593032835
   rank: 1
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 85
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 2
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 85
+- slug: s-o-s
+  title: S.O.S
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
   rank: 3
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 78.7591160473893
+  llm_score: 95
+  recency_score: 13.795580236946487
+  rank: 4
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 75
-  rank: 4
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 75
+  score: 75.75844022710412
+  llm_score: 75
+  recency_score: 78.79220113552056
   rank: 5
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 75
+  score: 74.5758477586611
+  llm_score: 85
+  recency_score: 32.87923879330549
   rank: 6
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 65
+  score: 73.97457577604462
+  llm_score: 85
+  recency_score: 29.872878880223098
   rank: 7
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 72.65619237382862
+  llm_score: 85
+  recency_score: 23.280961869143056
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 69.31317071028812
+  llm_score: 85
+  recency_score: 6.565853551440616
+  rank: 9
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 65
-  rank: 8
-- slug: s-o-s
-  title: S.O.S
-  score: 65
-  rank: 9
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 65
+  score: 63.896644644257265
+  llm_score: 75
+  recency_score: 19.483223221286327
   rank: 10
 ---
 FAUXHOPE is living up to it’s name. Fairhope is not what you think when it comes to municipal government. The waste of taxpayer money is staggering, yet few people are even interested. The delay of the waterfront project is just one example. For close to a year the council has tried to get around any ADA compliance for the project. From day one the then Mayor Wilson explained that the grant, 6.2 million, required ADA compliance.

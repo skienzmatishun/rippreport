@@ -15,45 +15,65 @@ authors:
 - ripp-report
 alttags: Group photo from political group “the machine,” including Elliott Stacy and Dane Haygood, later evolving into Catalyst
 related_articles:
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 95
-  rank: 1
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85
-  rank: 2
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 85
-  rank: 3
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
+  score: 95.9452804719372
+  llm_score: 95
+  recency_score: 99.72640235968593
+  rank: 1
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 88.0
+  llm_score: 85
+  recency_score: 100.0
+  rank: 2
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 87.78201851846809
+  llm_score: 85
+  recency_score: 98.91009259234048
+  rank: 3
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 4
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 85
+  score: 83.5866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
   rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 79.17286949891341
+  llm_score: 95
+  recency_score: 15.864347494567099
+  rank: 6
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 72.2369552048455
+  llm_score: 90
+  recency_score: 1.1847760242275227
+  rank: 7
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 85
-  rank: 6
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 7
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 85
+  score: 71.19030280407003
+  llm_score: 85
+  recency_score: 15.95151402035018
   rank: 8
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 75
+  score: 70.93857289717093
+  llm_score: 85
+  recency_score: 14.692864485854656
   rank: 9
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 70
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 61.17043574274372
+  llm_score: 75
+  recency_score: 5.8521787137186125
   rank: 10
 ---
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County Commission and Dane Haygood was elected as Mayor of Daphne, Mr Stacy retired. The group then morphed into CATALYST and Haygood and Elliott tried to stay in the shadows while maintaining status in Catalyst.

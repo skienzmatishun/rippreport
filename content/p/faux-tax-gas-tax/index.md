@@ -16,43 +16,63 @@ alttags: Gas pump icon representing Governor Ivey’s announced special session 
 related_articles:
 - slug: nothing-is-free
   title: NOTHING IS FREE
-  score: 85
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
   rank: 1
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 85
-  rank: 2
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX
-  score: 75
+  score: 84.41953853153237
+  llm_score: 85
+  recency_score: 82.09769265766185
+  rank: 2
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 81.89249424486937
+  llm_score: 85
+  recency_score: 69.4624712243468
   rank: 3
 - slug: stepping-up
   title: STEPPING UP
-  score: 75
+  score: 78.17127158449026
+  llm_score: 75
+  recency_score: 90.85635792245131
   rank: 4
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 75
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 77.39192896735389
+  llm_score: 75
+  recency_score: 86.95964483676948
   rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 65
-  rank: 6
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 65
+  score: 68.79631106175715
+  llm_score: 70
+  recency_score: 63.98155530878573
+  rank: 6
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 68.63709081368816
+  llm_score: 85
+  recency_score: 3.1854540684407837
   rank: 7
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 55
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 66.47673339221254
+  llm_score: 70
+  recency_score: 52.383666961062694
   rank: 8
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 54
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 54.069359466397685
+  llm_score: 65
+  recency_score: 10.34679733198841
   rank: 9
-- slug: insanity-2
-  title: INSANITY
-  score: 50
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 52.51029776171749
+  llm_score: 65
+  recency_score: 2.5514888085874565
   rank: 10
 ---
 Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money for infrastructure two paragraphs later we find out the State Docks are going to get between 400,000 and 600,000 for dredging the ship channel.

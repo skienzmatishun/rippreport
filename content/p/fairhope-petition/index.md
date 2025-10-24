@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Petition form with a red pen, representing Fairhope residents urging city council for public participation in land use dec...
 related_articles:
+- slug: 100-voices
+  title: 100 VOICES
+  score: 89.61962391400206
+  llm_score: 92
+  recency_score: 80.0981195700103
+  rank: 1
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT
-  score: 95
-  rank: 1
-- slug: invitation
-  title: INVITATION
-  score: 85
+  score: 87.5866878197373
+  llm_score: 90
+  recency_score: 77.93343909868652
   rank: 2
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 81.33314208208326
+  llm_score: 85
+  recency_score: 66.66571041041625
   rank: 3
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
+  score: 78.22156185864796
+  llm_score: 85
+  recency_score: 51.107809293239825
   rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 5
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 75
-  rank: 6
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 75
-  rank: 7
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
+  score: 77.51877838940959
+  llm_score: 85
+  recency_score: 47.593891947047986
+  rank: 5
+- slug: invitation
+  title: INVITATION
+  score: 75.35758882342884
+  llm_score: 85
+  recency_score: 36.787944117144235
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 70.08072954482947
+  llm_score: 85
+  recency_score: 10.403647724147305
+  rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 69.13568855442037
+  llm_score: 85
+  recency_score: 5.678442772101867
   rank: 8
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 65
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 68.04346607302023
+  llm_score: 85
+  recency_score: 0.21733036510113413
   rank: 9
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 65
+- slug: people-power
+  title: PEOPLE POWER
+  score: 61.47331224721167
+  llm_score: 75
+  recency_score: 7.366561236058354
   rank: 10
 ---
 If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose of any city property until the scheduled land use plan and comprehensive plan is completed. The second thing the citizens ask is to be a part of the decision. The Council and Weeks Bay have attempted to go around public participation. That is not the way a democracy works.

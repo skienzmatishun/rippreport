@@ -23,43 +23,63 @@ alttags: Fairhope city seal depicting a seagull, sun, water, and islands; refere
 related_articles:
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 95
+  score: 95.72789538259508
+  llm_score: 95
+  recency_score: 98.63947691297537
   rank: 1
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 85
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
   rank: 2
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 87.89071065521195
+  llm_score: 85
+  recency_score: 99.45355327605971
+  rank: 3
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 85
-  rank: 3
+  score: 79.91650071517822
+  llm_score: 85
+  recency_score: 59.582503575891096
+  rank: 4
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 85
-  rank: 4
+  score: 73.33977933106958
+  llm_score: 85
+  recency_score: 26.69889665534791
+  rank: 5
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
-  rank: 5
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85
+  score: 72.13256183242314
+  llm_score: 90
+  recency_score: 0.6628091621157032
   rank: 6
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 85
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.01193156417621
+  llm_score: 85
+  recency_score: 15.05965782088104
   rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.91968893408254
+  llm_score: 85
+  recency_score: 4.598444670412715
+  rank: 8
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 75
-  rank: 8
-- slug: rotten
-  title: ROTTEN
-  score: 75
+  score: 68.15285885049433
+  llm_score: 85
+  recency_score: 0.7642942524715967
   rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 68.13329019231236
+  llm_score: 85
+  recency_score: 0.6664509615618259
   rank: 10
 ---
 In 2016 I backed Karin Wilson and the current city council, which includes Burrell Boone and Brown. I got one out of four right, Karin Wilson. I was wrong in trusting Burrell, Boone or Brown but I wanted to believe them when they said that they were independent individuals with only Fairhope’s best interest at heart. What total BS that turned out to be, all three have betrayed Fairhope and used their elected office for personal gain.

@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope City Council
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 87.12395966027418
+  llm_score: 90
+  recency_score: 75.61979830137088
   rank: 1
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 85
-  rank: 2
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 85
-  rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 4
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 75
-  rank: 5
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 75
-  rank: 6
-- slug: hell-yea
-  title: HELL YEA
-  score: 75
-  rank: 7
+  score: 85.82610187044024
+  llm_score: 85
+  recency_score: 89.13050935220119
+  rank: 2
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 75
+  score: 82.87737886875425
+  llm_score: 85
+  recency_score: 74.38689434377122
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 82.83667471122875
+  llm_score: 85
+  recency_score: 74.18337355614374
+  rank: 4
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 77.19546987535206
+  llm_score: 90
+  recency_score: 25.977349376760323
+  rank: 5
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 74.59772583426354
+  llm_score: 90
+  recency_score: 12.988629171317715
+  rank: 6
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 74.48638183173692
+  llm_score: 85
+  recency_score: 32.43190915868462
+  rank: 7
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 74.36317072063389
+  llm_score: 85
+  recency_score: 31.81585360316948
   rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 71.01193156417621
+  llm_score: 85
+  recency_score: 15.05965782088104
   rank: 9
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 75
+- slug: elliott-history-lesson
+  title: ELLIOTT HISTORY LESSON
+  score: 60.12243706484228
+  llm_score: 75
+  recency_score: 0.6121853242114159
   rank: 10
 ---
 “(ethics) An inner sense which distinguishes what is right from what is wrong, functioning as a guide (like the needle of a compass) for morally appropriate behavior.”

@@ -15,43 +15,63 @@ alttags: Fairhope waterfront at sunset; a pier symbolizes concerns over city dec
 related_articles:
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 90
+  score: 91.19474191901475
+  llm_score: 90
+  recency_score: 95.97370959507373
   rank: 1
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 90
+  score: 88.92190583576996
+  llm_score: 90
+  recency_score: 84.60952917884977
   rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
   rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 78.27772414553687
+  llm_score: 85
+  recency_score: 51.388620727684355
   rank: 4
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 85
+- slug: fairness
+  title: FAIRNESS
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
   rank: 5
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 85
+  score: 76.16487863775171
+  llm_score: 85
+  recency_score: 40.82439318875856
   rank: 6
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 74.59772583426354
+  llm_score: 90
+  recency_score: 12.988629171317715
+  rank: 7
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 73.9643950362927
+  llm_score: 90
+  recency_score: 9.821975181463475
+  rank: 8
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 72.674820315817
+  llm_score: 90
+  recency_score: 3.374101579085013
+  rank: 9
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 85
-  rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 85
-  rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 85
-  rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
+  score: 68.39120862176472
+  llm_score: 85
+  recency_score: 1.9560431088235848
   rank: 10
 ---
 The Ripp Report/ Baldwin County Legal Eagle

@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 1
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 85
+  score: 91.72789538259508
+  llm_score: 90
+  recency_score: 98.63947691297537
+  rank: 1
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 83.24877842919904
+  llm_score: 85
+  recency_score: 76.2438921459952
   rank: 2
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 85
-  rank: 3
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 75
-  rank: 4
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 75
-  rank: 5
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 75
-  rank: 6
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 75
-  rank: 7
+  score: 83.00634582434073
+  llm_score: 90
+  recency_score: 55.031729121703655
+  rank: 3
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 75
+  score: 79.6262621791403
+  llm_score: 85
+  recency_score: 58.1313108957015
+  rank: 4
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 75.64527980108477
+  llm_score: 85
+  recency_score: 38.22639900542388
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75.39801503421995
+  llm_score: 85
+  recency_score: 36.990075171099754
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 75.25748712883775
+  llm_score: 85
+  recency_score: 36.28743564418876
+  rank: 7
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 72.35988029766958
+  llm_score: 85
+  recency_score: 21.799401488347854
   rank: 8
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 68.26804604766923
+  llm_score: 85
+  recency_score: 1.3402302383461302
+  rank: 9
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 65
-  rank: 9
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 65
+  score: 52.52447180064257
+  llm_score: 65
+  recency_score: 2.6223590032128543
   rank: 10
 ---
 If a herd of elephants were to roam loose in Alabama, most news sources could not find them. Probably the biggest story, political story, is the evidence emerging about the Bar Association and the Ethics Executive Director. Only Lagniappe has had the balls to print the facts.

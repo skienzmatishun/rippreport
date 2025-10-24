@@ -14,43 +14,63 @@ alttags: Burning match with smoke rising, symbolizing controversy surrounding Ba
 related_articles:
 - slug: you-re-fired
   title: YOU'RE FIRED
-  score: 85
+  score: 89.15530775847412
+  llm_score: 90
+  recency_score: 85.7765387923706
   rank: 1
 - slug: elected-or-selected
   title: ELECTED OR SELECTED
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 2
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 75
-  rank: 3
-- slug: repeat
-  title: REPEAT
-  score: 75
-  rank: 4
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 75
-  rank: 5
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 65
-  rank: 6
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 65
-  rank: 7
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 65
-  rank: 8
+  score: 83.24740235768714
+  llm_score: 80
+  recency_score: 96.23701178843567
+  rank: 3
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 65
+  score: 75.88849539476564
+  llm_score: 75
+  recency_score: 79.4424769738282
+  rank: 4
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 72.42001563077638
+  llm_score: 85
+  recency_score: 22.100078153881906
+  rank: 5
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 71.05347479370099
+  llm_score: 85
+  recency_score: 15.267373968504938
+  rank: 6
+- slug: repeat
+  title: REPEAT
+  score: 65.5182514327481
+  llm_score: 75
+  recency_score: 27.591257163740508
+  rank: 7
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 61.53512066317722
+  llm_score: 75
+  recency_score: 7.675603315886079
+  rank: 8
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 53.652983089538786
+  llm_score: 65
+  recency_score: 8.264915447693923
   rank: 9
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 65
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 53.56056407438185
+  llm_score: 65
+  recency_score: 7.802820371909244
   rank: 10
 ---
 **Commissioner Tucker Dorsey the citizens of Baldwin County have lost confidence in you.**

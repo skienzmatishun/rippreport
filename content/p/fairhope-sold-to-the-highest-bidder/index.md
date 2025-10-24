@@ -10,43 +10,63 @@ alttags: Man in suit speaks at podium near fountain; article discusses Fairhope 
 related_articles:
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 95
+  score: 95.24740235768714
+  llm_score: 95
+  recency_score: 96.23701178843567
   rank: 1
-- slug: disposal
-  title: DISPOSAL
-  score: 95
-  rank: 2
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 90
-  rank: 3
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 85
-  rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 6
+  score: 86.83013102490949
+  llm_score: 85
+  recency_score: 94.15065512454748
+  rank: 2
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 83.59445300016145
+  llm_score: 90
+  recency_score: 57.97226500080723
+  rank: 3
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE
-  score: 75
+  score: 83.29061318606567
+  llm_score: 85
+  recency_score: 76.45306593032835
+  rank: 4
+- slug: truth
+  title: TRUTH
+  score: 77.33796583595118
+  llm_score: 85
+  recency_score: 46.6898291797559
+  rank: 5
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 77.19546987535206
+  llm_score: 90
+  recency_score: 25.977349376760323
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75.00355029206108
+  llm_score: 85
+  recency_score: 35.01775146030539
   rank: 7
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 75
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 74.87051538361202
+  llm_score: 85
+  recency_score: 34.35257691806009
   rank: 8
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 72.674820315817
+  llm_score: 90
+  recency_score: 3.374101579085013
+  rank: 9
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
-  rank: 9
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 65
+  score: 57.530920609266786
+  llm_score: 70
+  recency_score: 7.654603046333945
   rank: 10
 ---
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.

@@ -10,43 +10,63 @@ alttags: Concerned parent, child in distress, and Baldwin County DHR building re
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 95
+  score: 95.3002072693518
+  llm_score: 95
+  recency_score: 96.50103634675902
   rank: 1
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 85
+  score: 76.00449734648357
+  llm_score: 95
+  recency_score: 0.02248673241788482
   rank: 2
-- slug: exposure
-  title: EXPOSURE
-  score: 85
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 72.55553183085131
+  llm_score: 90
+  recency_score: 2.7776591542565425
   rank: 3
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 75
-  rank: 4
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 75
+  score: 72.52880029172312
+  llm_score: 90
+  recency_score: 2.644001458615577
+  rank: 4
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 68.02471961706514
+  llm_score: 85
+  recency_score: 0.12359808532571412
   rank: 5
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 68.01101632169468
+  llm_score: 85
+  recency_score: 0.055081608473428086
+  rank: 6
+- slug: exposure
+  title: EXPOSURE
+  score: 68.00455937787216
+  llm_score: 85
+  recency_score: 0.022796889360761432
+  rank: 7
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 63.6787815198745
+  llm_score: 75
+  recency_score: 18.393907599372476
+  rank: 8
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 56.02191232352016
+  llm_score: 70
+  recency_score: 0.10956161760080699
+  rank: 9
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 75
-  rank: 6
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 70
-  rank: 7
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 70
-  rank: 8
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 65
-  rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 40
+  score: 56.003932364807866
+  llm_score: 70
+  recency_score: 0.01966182403931709
   rank: 10
 ---
 To all who have an interest in the safety of children in Baldwin County, Alabama and beyond,

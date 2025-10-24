@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 97
-  rank: 1
 - slug: fauxhope
   title: FAUXHOPE
-  score: 95
+  score: 85.33796583595118
+  llm_score: 95
+  recency_score: 46.6898291797559
+  rank: 1
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 84.7391611771113
+  llm_score: 97
+  recency_score: 35.69580588555647
   rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 95
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 78.88638684588861
+  llm_score: 85
+  recency_score: 54.43193422944308
   rank: 3
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 95
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 66.35682478958158
+  llm_score: 65
+  recency_score: 71.78412394790789
   rank: 4
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 85
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 60.11718589559389
+  llm_score: 75
+  recency_score: 0.585929477969449
   rank: 5
 - slug: wonderful-wednesday-5
   title: WONDERFUL WEDNESDAY
-  score: 75
+  score: 56.21706565845578
+  llm_score: 70
+  recency_score: 1.0853282922788892
   rank: 6
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 65
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 53.81933672814583
+  llm_score: 65
+  recency_score: 9.096683640729124
   rank: 7
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 53.08698032362109
+  llm_score: 65
+  recency_score: 5.4349016181054575
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 52.61311716147211
+  llm_score: 65
+  recency_score: 3.0655858073605606
+  rank: 9
 - slug: exposure-2
   title: EXPOSURE
-  score: 65
-  rank: 8
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 65
-  rank: 9
-- slug: victory
-  title: VICTORY
-  score: 65
+  score: 52.609766802829334
+  llm_score: 65
+  recency_score: 3.0488340141466597
   rank: 10
 ---
 The citizens of Fairhope need to realize that all the infrastructure problems and electrical and water shortages are the result of neglect during the, Tim Kant, Can’t administration, 2000 to 2016. The second thing is that the same council as today with the exception of Cory Martin were on the council under Kant. Sherry Sullivan worked under Kant. The problems Fairhope has today were predicted years ago.

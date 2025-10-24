@@ -10,43 +10,63 @@ alttags: Fairhope, Alabama city seal featuring a seagull over waves and mountain
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 85
+  score: 81.04408811712146
+  llm_score: 85
+  recency_score: 65.22044058560728
   rank: 1
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 85
-  rank: 2
-- slug: s-o-s
-  title: S.O.S
-  score: 75
-  rank: 3
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 75
-  rank: 4
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 75
-  rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
-  rank: 6
-- slug: rotten
-  title: ROTTEN
-  score: 65
-  rank: 7
 - slug: survey
   title: SURVEY
-  score: 65
-  rank: 8
+  score: 79.83629014021759
+  llm_score: 75
+  recency_score: 99.18145070108791
+  rank: 2
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
+  rank: 3
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 74.74000752017984
+  llm_score: 85
+  recency_score: 33.70003760089919
+  rank: 4
+- slug: rotten
+  title: ROTTEN
+  score: 70.27111348555951
+  llm_score: 65
+  recency_score: 91.35556742779755
+  rank: 5
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 65
+  score: 68.73747273054873
+  llm_score: 65
+  recency_score: 83.68736365274363
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 65.71833385593835
+  llm_score: 75
+  recency_score: 28.59166927969179
+  rank: 7
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 61.30599493196201
+  llm_score: 75
+  recency_score: 6.529974659810053
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 55.896644644257265
+  llm_score: 65
+  recency_score: 19.483223221286327
   rank: 9
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 65
+  score: 55.07025208563967
+  llm_score: 65
+  recency_score: 15.35126042819837
   rank: 10
 ---
 Mayor Karin Wilson of Fairhope, AlabamaHope to See You Thursday for Our State of the City Expo This Thursday, 5pm, Fairhope Civic Center.

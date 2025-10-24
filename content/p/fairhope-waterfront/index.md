@@ -15,43 +15,63 @@ alttags: Fairhope Waterfront proposal rendering showing parkland, pier, and surr
 related_articles:
 - slug: invitation
   title: INVITATION
-  score: 85
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
   rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 2
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 85
+  score: 91.56641283325074
+  llm_score: 90
+  recency_score: 97.83206416625366
+  rank: 2
+- slug: s-o-s
+  title: S.O.S
+  score: 84.46092326761413
+  llm_score: 95
+  recency_score: 42.3046163380707
   rank: 3
+- slug: pied-piper
+  title: PIED PIPER
+  score: 79.83613691258604
+  llm_score: 90
+  recency_score: 39.1806845629302
+  rank: 4
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 85
-  rank: 4
+  score: 79.21946349126168
+  llm_score: 85
+  recency_score: 56.097317456308396
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 75.41647386607539
+  llm_score: 90
+  recency_score: 17.082369330376963
+  rank: 6
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 85
-  rank: 5
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 85
-  rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 70
+  score: 74.17426475741956
+  llm_score: 85
+  recency_score: 30.871323787097815
   rank: 7
-- slug: survey
-  title: SURVEY
-  score: 65
-  rank: 8
 - slug: truth
   title: TRUTH
-  score: 65
+  score: 70.77861223075729
+  llm_score: 65
+  recency_score: 93.89306115378648
+  rank: 8
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 69.81001209429962
+  llm_score: 75
+  recency_score: 49.0500604714981
   rank: 9
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 54
+- slug: survey
+  title: SURVEY
+  score: 65.62860141581517
+  llm_score: 65
+  recency_score: 68.14300707907584
   rank: 10
 ---
 The Fairhope Waterfront project started off with, City Council approval, of $500,000.00 for engineering and conceptual plans based on community input. Now the Council is saying this is the Mayor’s plan. Nothing could be further from the truth, 493 people filled out the questionnaire and dozens attended numerous meetings, this is the citizens plan.

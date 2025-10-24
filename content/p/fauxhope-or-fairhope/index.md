@@ -17,45 +17,65 @@ authors:
 - ripp-report
 alttags: Fairhope city clocks representing a challenge to the status quo in the upcoming municipal election
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 95
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 97.43964342023084
+  llm_score: 100
+  recency_score: 87.19821710115417
   rank: 1
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 92
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 97.34434506009411
+  llm_score: 100
+  recency_score: 86.72172530047058
   rank: 2
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 90
+  score: 95.19474191901475
+  llm_score: 95
+  recency_score: 95.97370959507373
   rank: 3
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 90
+  score: 82.39813310940357
+  llm_score: 95
+  recency_score: 31.990665547017855
   rank: 4
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 79.32414243184968
+  llm_score: 95
+  recency_score: 16.62071215924841
+  rank: 5
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 71.21663252706894
+  llm_score: 85
+  recency_score: 16.083162635344685
+  rank: 6
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 85
-  rank: 5
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85
-  rank: 6
+  score: 68.1549672152349
+  llm_score: 85
+  recency_score: 0.7748360761745469
+  rank: 7
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 75
-  rank: 7
+  score: 68.15202355831354
+  llm_score: 85
+  recency_score: 0.7601177915677015
+  rank: 8
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 75
-  rank: 8
+  score: 60.15327821607662
+  llm_score: 75
+  recency_score: 0.7663910803831024
+  rank: 9
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 75
-  rank: 9
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 75
+  score: 56.15285885049432
+  llm_score: 70
+  recency_score: 0.7642942524715967
   rank: 10
 ---
 DON’T TAKE THE BAIT — VOTE FOR THE SLATE

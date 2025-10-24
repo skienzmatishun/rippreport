@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Close-up photo highlights ethics definition, referencing the Ethics Commission’s dismissal of an investigation
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 90
-  rank: 1
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
+  rank: 1
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 79.19474191901475
+  llm_score: 75
+  recency_score: 95.97370959507373
   rank: 2
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 68.4924426285117
+  llm_score: 85
+  recency_score: 2.4622131425584706
+  rank: 3
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 3
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
+  score: 68.4830885070635
+  llm_score: 85
+  recency_score: 2.4154425353175037
   rank: 4
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 75
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 68.06326442526117
+  llm_score: 85
+  recency_score: 0.3163221263058459
   rank: 5
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 72
+  score: 68.0373859801452
+  llm_score: 85
+  recency_score: 0.1869299007260029
   rank: 6
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 65
+  score: 66.1227513524759
+  llm_score: 65
+  recency_score: 70.6137567623795
   rank: 7
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 65
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 64.13365587162326
+  llm_score: 80
+  recency_score: 0.6682793581163383
   rank: 8
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 65
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 60.362320307674516
+  llm_score: 75
+  recency_score: 1.811601538372569
   rank: 9
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 65
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 60.101904438607235
+  llm_score: 75
+  recency_score: 0.5095221930361701
   rank: 10
 ---
 The Ripp Report is no longer operating as a non profit. It will operate as a cooperation in the future. The change allows The Ripp Report more latitude when it comes to endorsing and supporting candidates for office.

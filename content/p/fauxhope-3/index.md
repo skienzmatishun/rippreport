@@ -12,45 +12,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 95
-  rank: 1
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 90
-  rank: 2
+  score: 84.55324061896812
+  llm_score: 90
+  recency_score: 62.766203094840556
+  rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 90
+  score: 81.89097459752321
+  llm_score: 90
+  recency_score: 49.45487298761609
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 80.98657928234444
+  llm_score: 90
+  recency_score: 44.932896411722155
   rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
+  score: 80.93747241426176
+  llm_score: 90
+  recency_score: 44.68736207130882
+  rank: 4
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 80.70749976245517
+  llm_score: 95
+  recency_score: 23.53749881227582
   rank: 5
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 85
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 78.30592090193721
+  llm_score: 85
+  recency_score: 51.52960450968603
   rank: 6
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 85
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 74.45093721071514
+  llm_score: 85
+  recency_score: 32.254686053575696
   rank: 7
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 85
+  score: 74.24230004805162
+  llm_score: 85
+  recency_score: 31.21150024025806
   rank: 8
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 85
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 72.50560111337151
+  llm_score: 85
+  recency_score: 22.528005566857594
   rank: 9
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 75
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 69.53933223986208
+  llm_score: 85
+  recency_score: 7.696661199310357
   rank: 10
 ---
 The quality of life has diminished in Fauxhope. The small quaint town of Fauxhope is disappearing and being swallowed up by development. The disconnect between the City Council and Mayor and the community is a mile wide. It is no secret that both council and Mayor were supported by developers. The result of that has increased traffic and caused further strain on an already taxed infrastructure. City priorities are decided by very few people and council meetings are a waste of time.

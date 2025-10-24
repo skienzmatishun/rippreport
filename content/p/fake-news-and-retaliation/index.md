@@ -17,43 +17,63 @@ alttags: Chucky doll portrait representing disruptive online comments unwelcome 
 related_articles:
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 75
+  score: 73.96882643931993
+  llm_score: 75
+  recency_score: 69.84413219659965
   rank: 1
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 70.79608191931776
+  llm_score: 70
+  recency_score: 73.98040959658876
+  rank: 2
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 70.41948362581483
+  llm_score: 75
+  recency_score: 52.09741812907417
+  rank: 3
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 75
-  rank: 2
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 70
-  rank: 3
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 70
+  score: 67.98197582956217
+  llm_score: 70
+  recency_score: 59.9098791478109
   rank: 4
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 66
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 67.8513833874118
+  llm_score: 70
+  recency_score: 59.25691693705903
   rank: 5
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 65
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 67.56195333019646
+  llm_score: 75
+  recency_score: 37.809766650982276
   rank: 6
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+  score: 65.74107892098586
+  llm_score: 65
+  recency_score: 68.70539460492927
   rank: 7
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 65
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 63.25024389308273
+  llm_score: 65
+  recency_score: 56.25121946541366
   rank: 8
 - slug: hallucinations
   title: HALLUCINATIONS
-  score: 65
+  score: 59.520631283957705
+  llm_score: 65
+  recency_score: 37.60315641978851
   rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 57.87716639008053
+  llm_score: 65
+  recency_score: 29.385831950402675
   rank: 10
 ---
 First let me announce that no longer will the Ripp Report accept comments from Jester 666 and the Truth teller, most likely one in the same. Their comments add nothing to the subjects at hand and the personal attacks, some sexiest, will not be tolerated. Their comments are meant to distract from the subject at hand. They Do represent what is NOT needed in Fairhope or Baldwin County. They will continue to filter into the site from time to time and we will continue to eliminate them. The Ripp Report seeks to have constructive conversations based on documented facts.

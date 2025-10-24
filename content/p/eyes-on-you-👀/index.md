@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 75
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 73.36972132414267
+  llm_score: 75
+  recency_score: 66.84860662071335
   rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 65
-  rank: 2
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 65
-  rank: 3
-- slug: election-ad
-  title: ELECTION AD
-  score: 65
-  rank: 4
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 50
-  rank: 5
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 50
+  score: 65.33977933106958
+  llm_score: 75
+  recency_score: 26.69889665534791
+  rank: 2
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 60.93193927883213
+  llm_score: 70
+  recency_score: 24.659696394160648
+  rank: 3
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 60.04850028839997
+  llm_score: 75
+  recency_score: 0.24250144199986415
+  rank: 4
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 58.70317696989249
+  llm_score: 65
+  recency_score: 33.51588484946244
+  rank: 5
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 56.12652929392722
+  llm_score: 70
+  recency_score: 0.632646469636104
   rank: 6
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 53.53339065902054
+  llm_score: 60
+  recency_score: 27.666953295102704
+  rank: 7
+- slug: election-ad
+  title: ELECTION AD
+  score: 53.1513529774923
+  llm_score: 65
+  recency_score: 5.756764887461509
+  rank: 8
 - slug: happy-days
   title: HAPPY DAYS
-  score: 50
-  rank: 7
+  score: 48.27749588022975
+  llm_score: 50
+  recency_score: 41.38747940114875
+  rank: 9
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 50
-  rank: 8
-- slug: on-vacation
-  title: ON VACATION
-  score: 40
-  rank: 9
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 40
+  score: 44.39586260016436
+  llm_score: 50
+  recency_score: 21.979313000821772
   rank: 10
 ---
 Let’s top off 2022 by the most audacious local political corruption this year. I say audacious however it could be an example of the mental capacity of our elected officials. You would think that Sunday’s Sermon would be hard to beat:

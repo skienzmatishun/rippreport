@@ -13,45 +13,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 92
-  rank: 1
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 92
-  rank: 2
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 90
-  rank: 3
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 85
-  rank: 4
+  score: 95.67392032634467
+  llm_score: 95
+  recency_score: 98.36960163172333
+  rank: 1
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
-  rank: 5
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 6
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 85
-  rank: 7
+  score: 93.48748877687456
+  llm_score: 95
+  recency_score: 87.43744388437275
+  rank: 2
 - slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
   title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
-  score: 85
-  rank: 8
+  score: 93.43964342023084
+  llm_score: 95
+  recency_score: 87.19821710115417
+  rank: 3
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 93.29689134128176
+  llm_score: 95
+  recency_score: 86.48445670640884
+  rank: 4
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 92.03181386565738
+  llm_score: 93
+  recency_score: 88.15906932828686
+  rank: 5
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 89.58357363897636
+  llm_score: 90
+  recency_score: 87.91786819488183
+  rank: 6
 - slug: million-dollar-swimming-pool
   title: MILLION DOLLAR SWIMMING POOL
-  score: 75
+  score: 77.77733007636273
+  llm_score: 75
+  recency_score: 88.88665038181365
+  rank: 7
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 77.43964342023084
+  llm_score: 75
+  recency_score: 87.19821710115417
+  rank: 8
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 70.56238317455079
+  llm_score: 85
+  recency_score: 12.811915872753922
   rank: 9
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 65
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 68.20662071395367
+  llm_score: 85
+  recency_score: 1.0331035697683377
   rank: 10
 ---
 By now you have seen the slick ads of Elliott and Tucker. However, when you read them you do not recognize any similarity between the written fluff and the candidates. These guys are dumping tens of thousands of dollars, donated by developers and Catalyst, to be elected at all costs. They will do anything, I repeat anything, to get elected.

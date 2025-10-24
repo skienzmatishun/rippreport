@@ -11,45 +11,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 75
-  rank: 1
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 75
-  rank: 2
+  score: 85.06156314124607
+  llm_score: 85
+  recency_score: 85.30781570623031
+  rank: 1
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 65
-  rank: 3
-- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
-  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 65
-  rank: 4
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 65
-  rank: 5
-- slug: selective-memory
-  title: Selective Memory
-  score: 65
-  rank: 6
-- slug: hate
-  title: HATE
-  score: 65
-  rank: 7
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 65
-  rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 65
-  rank: 9
+  score: 84.7833916941887
+  llm_score: 85
+  recency_score: 83.91695847094347
+  rank: 2
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 54
+  score: 72.62221429547445
+  llm_score: 75
+  recency_score: 63.11107147737226
+  rank: 3
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 70.43241102906582
+  llm_score: 85
+  recency_score: 12.162055145329097
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 70.41911919868473
+  llm_score: 85
+  recency_score: 12.09559599342363
+  rank: 5
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 60.12243706484228
+  llm_score: 75
+  recency_score: 0.6121853242114159
+  rank: 6
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 60.051938633412554
+  llm_score: 75
+  recency_score: 0.25969316706275425
+  rank: 7
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 60.0199087390866
+  llm_score: 75
+  recency_score: 0.09954369543301661
+  rank: 8
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 52.09107713006184
+  llm_score: 65
+  recency_score: 0.4553856503092191
+  rank: 9
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 52.06431298308803
+  llm_score: 65
+  recency_score: 0.321564915440132
   rank: 10
 ---
 Senator Chris Elliott is a perfect example of a politician out of touch with his constituents. His grandstanding is political and an attempt to cater to a small base, who vote. He is shameless and uses his church to push his political aspirations, a common practice in the deep south. Professing to be a christian is at the top of criteria to be elected. Ethics, conflicts of interest and accountability are not on the list.

@@ -18,43 +18,63 @@ alttags: Warning sign representing concerns about city council decisions and pot
 related_articles:
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 95
+  score: 94.52312487593501
+  llm_score: 95
+  recency_score: 92.61562437967505
   rank: 1
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 2
+- slug: people-power
+  title: PEOPLE POWER
+  score: 82.16149687375565
+  llm_score: 85
+  recency_score: 70.80748436877823
+  rank: 3
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 85
-  rank: 3
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 85
+  score: 80.00452205711655
+  llm_score: 100
+  recency_score: 0.022610285582725168
   rank: 4
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 76.00459700663775
+  llm_score: 95
+  recency_score: 0.022985033188782953
+  rank: 5
 - slug: back-stabber
   title: BACK STABBER
-  score: 85
-  rank: 5
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+  score: 72.6689665561533
+  llm_score: 85
+  recency_score: 23.3448327807665
   rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 72.65658305422905
+  llm_score: 90
+  recency_score: 3.2829152711452347
   rank: 7
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 72.37184155299684
+  llm_score: 85
+  recency_score: 21.8592077649842
   rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 75
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 72.04900835119811
+  llm_score: 85
+  recency_score: 20.245041755990528
   rank: 9
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 70
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.01572956947558
+  llm_score: 85
+  recency_score: 0.07864784737789618
   rank: 10
 ---
 Fairhope voters, we did it once and now we have to do it again. And that is show our mayor support and remind the city council the majority won the election. Our council has been under the influence of the minority and turning a blind eye to the majority. They have allowed previous personal friendships to take front seat to city issues, following senior councilmen down a path of falsehoods. The newly elected council, three members, have been convinced— so far, that facts are fiction, such as the airport scandal.

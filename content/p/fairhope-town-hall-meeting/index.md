@@ -12,43 +12,63 @@ authors:
 related_articles:
 - slug: fairhope-citizens-citizens-citizens
   title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 90
+  score: 89.92404723937733
+  llm_score: 90
+  recency_score: 89.62023619688662
   rank: 1
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
+  score: 86.98553700495827
+  llm_score: 85
+  recency_score: 94.92768502479139
   rank: 2
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 75
-  rank: 3
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 75
+  score: 84.28513651399791
+  llm_score: 85
+  recency_score: 81.42568256998956
+  rank: 3
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 81.89249424486937
+  llm_score: 85
+  recency_score: 69.4624712243468
   rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 5
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 70
-  rank: 6
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 65
-  rank: 7
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 65
-  rank: 8
+  score: 80.01484817064438
+  llm_score: 85
+  recency_score: 60.07424085322191
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 78.17127158449026
+  llm_score: 75
+  recency_score: 90.85635792245131
+  rank: 6
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
+  score: 76.50975554986516
+  llm_score: 75
+  recency_score: 82.54877774932578
+  rank: 7
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 74.4219058668791
+  llm_score: 70
+  recency_score: 92.10952933439548
+  rank: 8
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 68.82943663570212
+  llm_score: 65
+  recency_score: 84.14718317851063
   rank: 9
-- slug: survey
-  title: SURVEY
-  score: 60
+- slug: flying-high
+  title: FLYING HIGH
+  score: 61.60971208708089
+  llm_score: 70
+  recency_score: 28.048560435404436
   rank: 10
 ---
 Fairhope’s first town hall meeting is this Thursday, 2/16/2017 at the Fairhope public library. The Ripp Report strongly suggest you attend and demand answers to some very pressing issues. Repealing ordinance 1572, the Fly Creek Apartments and the Airport Authority are issues that effect all of us and our schools.

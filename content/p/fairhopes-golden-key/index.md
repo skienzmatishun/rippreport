@@ -24,43 +24,63 @@ alttags: City of Fairhope, Alabama seal featuring a pelican over water, relevant
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 95
+  score: 95.72789538259508
+  llm_score: 95
+  recency_score: 98.63947691297537
   rank: 1
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 92
+  score: 93.3820185184681
+  llm_score: 92
+  recency_score: 98.91009259234048
   rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 3
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
-  score: 85
+  score: 79.72221428196228
+  llm_score: 85
+  recency_score: 58.61107140981138
+  rank: 3
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 72.1549672152349
+  llm_score: 90
+  recency_score: 0.7748360761745469
   rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
+  score: 72.13439024270181
+  llm_score: 90
+  recency_score: 0.6719512135090356
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.48441385193173
+  llm_score: 85
+  recency_score: 2.422069259658703
   rank: 6
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 85
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 68.14872778511713
+  llm_score: 85
+  recency_score: 0.7436389255856242
   rank: 7
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85
+  score: 68.13512864877615
+  llm_score: 85
+  recency_score: 0.6756432438807459
   rank: 8
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 75
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 60.714784217344345
+  llm_score: 75
+  recency_score: 3.573921086721709
   rank: 9
 - slug: selective-memory
   title: Selective Memory
-  score: 75
+  score: 52.61311716147211
+  llm_score: 65
+  recency_score: 3.0655858073605606
   rank: 10
 ---
 Tomorrow citizens of Fairhope will go to the polls, rain or shine. Most citizens do not understand some of the inner political workings of the city, like appointments.

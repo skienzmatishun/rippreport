@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Statue of Justice holding scales against a dark background, representing concerns about Baldwin County Family Court practices
 related_articles:
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 90
-  rank: 1
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 85
-  rank: 2
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 85
-  rank: 3
-- slug: exposure-2
-  title: EXPOSURE
-  score: 85
-  rank: 4
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 75
-  rank: 5
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 75
-  rank: 6
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
+  rank: 1
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 75
+  score: 85.24956745472434
+  llm_score: 85
+  recency_score: 86.24783727362167
+  rank: 2
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 80.27749588022975
+  llm_score: 90
+  recency_score: 41.38747940114875
+  rank: 3
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 72.54278605679045
+  llm_score: 85
+  recency_score: 22.713930283952266
+  rank: 4
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 72.16147367298336
+  llm_score: 85
+  recency_score: 20.807368364916808
+  rank: 5
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 68.1641446131058
+  llm_score: 85
+  recency_score: 0.8207230655290094
+  rank: 6
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 68.00455937787216
+  llm_score: 85
+  recency_score: 0.022796889360761432
   rank: 7
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 75
+  score: 68.0043998468976
+  llm_score: 85
+  recency_score: 0.02199923448795886
   rank: 8
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 70
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 63.68887419261966
+  llm_score: 75
+  recency_score: 18.444370963098283
   rank: 9
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 65
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 60.17244233573682
+  llm_score: 75
+  recency_score: 0.8622116786841
   rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle had a record posting:

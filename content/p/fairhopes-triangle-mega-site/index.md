@@ -15,43 +15,63 @@ alttags: Arrow pointing towards a triangle shape, symbolizing controversy surrou
 related_articles:
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 95
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
   rank: 1
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 85
-  rank: 2
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 85
-  rank: 3
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 85
-  rank: 4
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 85
-  rank: 5
-- slug: holes
-  title: HOLES
-  score: 75
-  rank: 6
-- slug: big-heads
-  title: BIG HEADS
-  score: 75
-  rank: 7
-- slug: eagles-eye-catalyst-kant-corte
-  title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 75
-  rank: 8
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 75
-  rank: 9
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 65
+  score: 86.37150396712644
+  llm_score: 85
+  recency_score: 91.85751983563217
+  rank: 2
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
+  rank: 3
+- slug: big-heads
+  title: BIG HEADS
+  score: 85.72869172076295
+  llm_score: 85
+  recency_score: 88.64345860381478
+  rank: 4
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 76.43777438120516
+  llm_score: 85
+  recency_score: 42.18887190602582
+  rank: 5
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 75.54126400432338
+  llm_score: 85
+  recency_score: 37.70632002161693
+  rank: 6
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 75.17286949891341
+  llm_score: 90
+  recency_score: 15.864347494567099
+  rank: 7
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 71.75001436564732
+  llm_score: 85
+  recency_score: 18.75007182823656
+  rank: 8
+- slug: full-plate
+  title: FULL PLATE
+  score: 64.86662028679618
+  llm_score: 65
+  recency_score: 64.3331014339809
+  rank: 9
+- slug: fairness
+  title: FAIRNESS
+  score: 59.66625449247667
+  llm_score: 65
+  recency_score: 38.33127246238332
   rank: 10
 ---
 Baldwin County Commissioners have their Mega “dump” Site.

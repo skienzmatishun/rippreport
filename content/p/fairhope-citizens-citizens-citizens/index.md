@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Alarm clock ringing, symbolizing Fairhope citizens urged to wake up regarding Airport Authority debt concerns
 related_articles:
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
-  rank: 1
-- slug: shut-up
-  title: SHUT UP
-  score: 85
-  rank: 2
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 3
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 85
-  rank: 4
+  score: 99.62009294457451
+  llm_score: 100
+  recency_score: 98.10046472287257
+  rank: 1
+- slug: nuff-said
+  title: NUFF SAID
+  score: 92.1518346432357
+  llm_score: 95
+  recency_score: 80.75917321617852
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 90.88179115997221
+  llm_score: 90
+  recency_score: 94.40895579986105
+  rank: 3
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
-  score: 85
+  score: 89.92404723937733
+  llm_score: 90
+  recency_score: 89.62023619688662
+  rank: 4
+- slug: shut-up
+  title: SHUT UP
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
   rank: 5
 - slug: investigating-the-investigators
   title: Investigating the Investigators
-  score: 85
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 6
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
-  rank: 7
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
+  score: 84.28513651399791
+  llm_score: 85
+  recency_score: 81.42568256998956
+  rank: 7
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 80.4504861558908
+  llm_score: 85
+  recency_score: 62.252430779453995
   rank: 8
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 78.36317072063389
+  llm_score: 90
+  recency_score: 31.81585360316948
+  rank: 9
 - slug: flying-high
   title: FLYING HIGH
-  score: 75
-  rank: 9
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 65
+  score: 73.02743722240719
+  llm_score: 85
+  recency_score: 25.13718611203594
   rank: 10
 ---
 FAIRHOPE “CITIZENS CITIZENS CITIZENS”

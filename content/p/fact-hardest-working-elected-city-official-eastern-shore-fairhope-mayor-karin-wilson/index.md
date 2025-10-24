@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Nappie Award winner Mayor Wilson recognized as “Hardest Working Elected City Official” on Eastern Shore
 related_articles:
-- slug: hardest-working-elected-official-eastern-shore
-  title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 100
-  rank: 1
 - slug: nappi-award
   title: NAPPI AWARD
-  score: 95
+  score: 83.08072362334784
+  llm_score: 95
+  recency_score: 35.40361811673922
+  rank: 1
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 82.68454994448997
+  llm_score: 100
+  recency_score: 13.422749722449872
   rank: 2
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
-  rank: 3
-- slug: people-power
-  title: PEOPLE POWER
-  score: 75
-  rank: 4
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 75
-  rank: 5
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 65
-  rank: 6
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 65
-  rank: 7
+  score: 75.62944962510568
+  llm_score: 75
+  recency_score: 78.14724812552835
+  rank: 3
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 74.87051538361202
+  llm_score: 85
+  recency_score: 34.35257691806009
+  rank: 4
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 65
+  score: 74.81427682810781
+  llm_score: 85
+  recency_score: 34.071384140539074
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 69.0899624351239
+  llm_score: 85
+  recency_score: 5.449812175619502
+  rank: 6
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 62.74000752017984
+  llm_score: 70
+  recency_score: 33.70003760089919
+  rank: 7
+- slug: people-power
+  title: PEOPLE POWER
+  score: 61.36451733681731
+  llm_score: 75
+  recency_score: 6.822586684086551
   rank: 8
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 65
+  score: 52.9875907333758
+  llm_score: 65
+  recency_score: 4.937953666878992
   rank: 9
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 65
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 52.16324765024496
+  llm_score: 65
+  recency_score: 0.8162382512248036
   rank: 10
 ---
 Congratulations to all Nappie nominees and winners.

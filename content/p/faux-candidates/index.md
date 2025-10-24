@@ -19,45 +19,65 @@ authors:
 - admin
 alttags: Hand casting a ballot, symbolizing CATALYST’s manipulation of “faux” candidates in upcoming elections
 related_articles:
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 95
-  rank: 1
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 95
+  score: 94.52312487593501
+  llm_score: 95
+  recency_score: 92.61562437967505
+  rank: 1
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 86.4219058668791
+  llm_score: 85
+  recency_score: 92.10952933439548
   rank: 2
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 3
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 4
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 85
-  rank: 5
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 85
+  score: 78.12101904991724
+  llm_score: 95
+  recency_score: 10.605095249586157
+  rank: 4
+- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
+  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
+  score: 74.93857289717093
+  llm_score: 90
+  recency_score: 14.692864485854656
+  rank: 5
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 70.90654517348518
+  llm_score: 85
+  recency_score: 14.532725867425949
   rank: 6
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 85
+  score: 70.52060612108392
+  llm_score: 85
+  recency_score: 12.603030605419562
   rank: 7
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 85
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
   rank: 8
-- slug: election-ad
-  title: ELECTION AD
-  score: 85
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 69.61272299947794
+  llm_score: 85
+  recency_score: 8.063614997389708
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 78
+  score: 68.49923483368241
+  llm_score: 85
+  recency_score: 2.4961741684120615
   rank: 10
 ---
 It is election time and CATALYST is at work stroking FAUX candidates that are willing to fall on the sword for CATALYST.

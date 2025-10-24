@@ -18,45 +18,65 @@ authors:
 - ripp-report
 alttags: Fairhope waterfront scene at sunset; overlaid with 2020, referencing local politics and recent events discussed in the a...
 related_articles:
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 92
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 84.88110874039774
+  llm_score: 92
+  recency_score: 56.40554370198863
   rank: 1
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 85
+  score: 82.561992213483
+  llm_score: 92
+  recency_score: 44.809961067414925
   rank: 2
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 80.18056760504162
+  llm_score: 85
+  recency_score: 60.90283802520807
   rank: 3
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+  score: 79.06682010022277
+  llm_score: 85
+  recency_score: 55.33410050111382
   rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 78.92516982082181
+  llm_score: 92
+  recency_score: 26.62584910410898
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 74.31108503131156
+  llm_score: 85
+  recency_score: 31.555425156557842
   rank: 6
+- slug: scary
+  title: SCARY
+  score: 73.6097120870809
+  llm_score: 85
+  recency_score: 28.048560435404436
+  rank: 7
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 85
-  rank: 7
+  score: 73.36911870433389
+  llm_score: 85
+  recency_score: 26.845593521669393
+  rank: 8
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 73.33977933106958
+  llm_score: 85
+  recency_score: 26.69889665534791
+  rank: 9
 - slug: happy-days-are-here-again
   title: HAPPY DAYS ARE HERE AGAIN
-  score: 75
-  rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 75
-  rank: 9
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
+  score: 70.82025741857038
+  llm_score: 85
+  recency_score: 14.10128709285187
   rank: 10
 ---
 Get ready, Fairhope Catalyst Council is making their move to capture the Fairhope general election. Everything and anything in Fairhope is connected to politics. I have said more than once that the major negative in Fairhope is the politics.

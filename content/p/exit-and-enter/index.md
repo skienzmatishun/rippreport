@@ -17,43 +17,63 @@ alttags: Symbolic exit sign with arrow, representing a turning point for Fairhop
 related_articles:
 - slug: showing-your-true-colors
   title: SHOWING YOUR TRUE COLORS
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 1
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 85
-  rank: 2
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 85
-  rank: 3
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 85
-  rank: 4
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 85
-  rank: 5
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 65
-  rank: 6
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 65
-  rank: 7
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 65
-  rank: 8
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
-  rank: 9
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 2
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 65
+  score: 76.83825535238421
+  llm_score: 90
+  recency_score: 24.19127676192105
+  rank: 3
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 76.12026192592202
+  llm_score: 85
+  recency_score: 40.601309629610085
+  rank: 4
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 73.15294239311218
+  llm_score: 85
+  recency_score: 25.764711965560906
+  rank: 5
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.02074395078674
+  llm_score: 85
+  recency_score: 0.10371975393366079
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 60.93193927883213
+  llm_score: 70
+  recency_score: 24.659696394160648
+  rank: 7
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 60.437774381205166
+  llm_score: 65
+  recency_score: 42.18887190602582
+  rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 60.02970034866829
+  llm_score: 75
+  recency_score: 0.14850174334145472
+  rank: 9
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 53.47331224721167
+  llm_score: 65
+  recency_score: 7.366561236058354
   rank: 10
 ---
 The City of Fairhope has three days before it swears in a new Mayor and begins another chapter in its history. It is past due time to turn the page.

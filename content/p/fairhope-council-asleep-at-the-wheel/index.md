@@ -10,43 +10,63 @@ alttags: 'Fairhope facing crises: Car crash icon symbolizes issues like COVID, f
 related_articles:
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 85
+  score: 86.62490003199702
+  llm_score: 85
+  recency_score: 93.12450015998506
   rank: 1
-- slug: hell-yea
-  title: HELL YEA
-  score: 75
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
   rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 84.73747273054873
+  llm_score: 85
+  recency_score: 83.68736365274363
   rank: 3
+- slug: going-down
+  title: GOING DOWN
+  score: 77.36972132414267
+  llm_score: 80
+  recency_score: 66.84860662071335
+  rank: 4
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 75
-  rank: 4
+  score: 74.9652796209306
+  llm_score: 85
+  recency_score: 34.826398104653
+  rank: 5
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 73.11076301928001
+  llm_score: 85
+  recency_score: 25.553815096400097
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 72.65619237382862
+  llm_score: 85
+  recency_score: 23.280961869143056
+  rank: 7
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 5
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
-  rank: 6
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 75
-  rank: 7
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 75
+  score: 69.01780676493254
+  llm_score: 85
+  recency_score: 5.089033824662729
   rank: 8
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 68.61479923767907
+  llm_score: 85
+  recency_score: 3.073996188395355
+  rank: 9
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 65
-  rank: 9
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 65
+  score: 64.25484884682434
+  llm_score: 70
+  recency_score: 41.27424423412174
   rank: 10
 ---
 Fairhope is facing many major issues at one time and the CATALYST council is asleep at the wheel. Coronavirus and the Arts and Craft Festival, HB 203, and Fly Creek Apartments.

@@ -10,45 +10,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: 5000-00-cash-reward-rerun
-  title: $5000.00 CASH REWARD
-  score: 100
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 95.35315705036788
+  llm_score: 95
+  recency_score: 96.76578525183945
   rank: 1
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 95
+  score: 87.03654154157076
+  llm_score: 95
+  recency_score: 55.18270770785375
   rank: 2
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 3
-- slug: captain-jack
-  title: CAPTAIN JACK
-  score: 85
-  rank: 4
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 85
+  score: 85.06156314124607
+  llm_score: 85
+  recency_score: 85.30781570623031
+  rank: 3
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 83.50151487477555
+  llm_score: 85
+  recency_score: 77.50757437387774
+  rank: 4
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 76.00351455251558
+  llm_score: 95
+  recency_score: 0.017572762577928065
   rank: 5
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 70.5068323515118
+  llm_score: 85
+  recency_score: 12.534161757559053
   rank: 6
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
-  score: 70
+  score: 70.10942881080481
+  llm_score: 85
+  recency_score: 10.547144054024043
   rank: 7
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 70
-  rank: 8
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
-  score: 65
+  score: 68.82943663570212
+  llm_score: 65
+  recency_score: 84.14718317851063
+  rank: 8
+- slug: flying-high
+  title: FLYING HIGH
+  score: 68.720414705703
+  llm_score: 80
+  recency_score: 23.60207352851503
   rank: 9
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 65
+  score: 63.690142580294264
+  llm_score: 65
+  recency_score: 58.450712901471334
   rank: 10
 ---
 These are two articles that were covered by [The Fairhope Times](https://cdn.rippreport.com/wp-content/uploads/2016/12/thefairhopetimes.blogspot.com) one year ago. These were not written by the Ripp Report. They are important because they show, prior to today’s airport controversy, there was every indication that something stunk at the airport.

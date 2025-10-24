@@ -17,43 +17,63 @@ alttags: Site plan rendering shows proposed Fly Creek Apartments complex, surrou
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 90
+  score: 91.67392032634467
+  llm_score: 90
+  recency_score: 98.36960163172333
   rank: 1
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 85
-  rank: 2
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 85
-  rank: 3
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 85
-  rank: 4
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 75
-  rank: 5
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 75
-  rank: 6
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 75
-  rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
-  rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 65
-  rank: 9
+  score: 81.89249424486937
+  llm_score: 85
+  recency_score: 69.4624712243468
+  rank: 2
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 81.78317213269509
+  llm_score: 90
+  recency_score: 48.915860663475456
+  rank: 3
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 65
+  score: 78.24960453479669
+  llm_score: 85
+  recency_score: 51.24802267398346
+  rank: 4
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
+  rank: 5
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 75.66625449247667
+  llm_score: 85
+  recency_score: 38.33127246238332
+  rank: 6
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 75.5206312839577
+  llm_score: 85
+  recency_score: 37.60315641978851
+  rank: 7
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 75.0420312410768
+  llm_score: 85
+  recency_score: 35.21015620538397
+  rank: 8
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 59.121139086375585
+  llm_score: 70
+  recency_score: 15.605695431877937
+  rank: 9
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 52.94523422886647
+  llm_score: 65
+  recency_score: 4.726171144332342
   rank: 10
 ---
 For the 10th time citizens packed the city council chambers to discuss the Fly Creek Apartments and again their comments fell on deaf ears. Four councilmen voted for the extension of the sunset clause that allows the developer another 120 days to get a multiple occupancy site plan.

@@ -14,43 +14,63 @@ authors:
 related_articles:
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 95
+  score: 92.69167940010973
+  llm_score: 95
+  recency_score: 83.45839700054867
   rank: 1
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 95
-  rank: 2
 - slug: fairhope-has-lost-its-moral-compass
   title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 85
-  rank: 3
+  score: 90.87737886875425
+  llm_score: 95
+  recency_score: 74.38689434377122
+  rank: 2
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
+  score: 79.4054172276362
+  llm_score: 85
+  recency_score: 57.02708613818104
+  rank: 3
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 72.37184155299684
+  llm_score: 85
+  recency_score: 21.8592077649842
   rank: 4
 - slug: demand-the-truth
   title: DEMAND THE TRUTH
-  score: 85
+  score: 71.90733502067299
+  llm_score: 85
+  recency_score: 19.53667510336496
   rank: 5
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 85
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 68.14431244459936
+  llm_score: 85
+  recency_score: 0.721562222996788
   rank: 6
-- slug: hate
-  title: HATE
-  score: 65
-  rank: 7
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 65
+  score: 66.1227513524759
+  llm_score: 65
+  recency_score: 70.6137567623795
+  rank: 7
+- slug: hate
+  title: HATE
+  score: 62.621237784397046
+  llm_score: 65
+  recency_score: 53.10618892198522
   rank: 8
 - slug: investigating-the-investigators
   title: Investigating the Investigators
-  score: 65
+  score: 59.520631283957705
+  llm_score: 65
+  recency_score: 37.60315641978851
   rank: 9
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 65
+- slug: elliott-history-lesson
+  title: ELLIOTT HISTORY LESSON
+  score: 52.09107713006184
+  llm_score: 65
+  recency_score: 0.4553856503092191
   rank: 10
 ---
 The Public Doctrine: Our government is a democracy which means the "people rule." At this time in our democracy it seems there are less people involved, which results in a serious challenge to the system, as politicians love it when the people "forget to rule" and are allowed to operate with impunity. The Public Doctrine is the often forgotten tenet that elected public officials are held to a slightly higher standard when it comes to scrutiny of their actions on behalf of the public. In other words, public officials understand when getting into politics, that their actions on the purported behalf of the people are fair game. Fairhope's city council should be reminded of this, because it is every voter's right to know all.

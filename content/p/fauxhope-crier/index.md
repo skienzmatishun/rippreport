@@ -12,45 +12,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 92
-  rank: 1
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 85
-  rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 3
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 75
-  rank: 4
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 75
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
-  rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 7
+  score: 91.35315705036788
+  llm_score: 90
+  recency_score: 96.76578525183945
+  rank: 1
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 88.68258086352162
+  llm_score: 92
+  recency_score: 75.41290431760807
+  rank: 2
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 87.37394274499862
+  llm_score: 86
+  recency_score: 92.86971372499306
+  rank: 3
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 78.05490968089218
+  llm_score: 85
+  recency_score: 50.274548404460894
+  rank: 4
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 75
-  rank: 8
+  score: 76.66019064437701
+  llm_score: 95
+  recency_score: 3.300953221885028
+  rank: 5
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 75
+  score: 75.21663252706894
+  llm_score: 90
+  recency_score: 16.083162635344685
+  rank: 6
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 68.70505941304496
+  llm_score: 85
+  recency_score: 3.5252970652248186
+  rank: 7
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 68.37340575175611
+  llm_score: 85
+  recency_score: 1.867028758780569
+  rank: 8
+- slug: going-down
+  title: GOING DOWN
+  score: 60.410984723903226
+  llm_score: 75
+  recency_score: 2.0549236195161336
   rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 60.14313117609585
+  llm_score: 75
+  recency_score: 0.7156558804792337
   rank: 10
 ---
 Fauxhope has a new City Council Crier, Councilman Cory Martin. This is no surprise the balance of the council hides from the public and rarely return phone calls. This also goes for the unqualified Utility Director and developer candidate/ Mayor. So Cory will be the new uninformed spokesperson, and, sacrificial lamb, for the Fauxhope council.

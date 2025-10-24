@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: American flag waving over a fountain in Fairhope, Alabama, reflecting local voting patterns discussed in the article
 related_articles:
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 78.36254669889007
+  llm_score: 85
+  recency_score: 51.81273349445037
+  rank: 1
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 77.28693882755796
+  llm_score: 85
+  recency_score: 46.434694137789805
+  rank: 2
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 95
-  rank: 1
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 85
-  rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
+  score: 76.60976680282933
+  llm_score: 95
+  recency_score: 3.0488340141466597
   rank: 3
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 75
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
   rank: 4
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 75
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 76.06431298308803
+  llm_score: 95
+  recency_score: 0.321564915440132
   rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 75
-  rank: 6
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
-  rank: 7
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 75
-  rank: 8
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 70
+  score: 75.10014946474215
+  llm_score: 85
+  recency_score: 35.500747323710755
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 72.0093208579187
+  llm_score: 90
+  recency_score: 0.046604289593504926
+  rank: 7
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 69.39858120946477
+  llm_score: 85
+  recency_score: 6.992906047323852
+  rank: 8
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 69.3947547242778
+  llm_score: 85
+  recency_score: 6.973773621388993
   rank: 9
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 70
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 60.36731775047243
+  llm_score: 75
+  recency_score: 1.8365887523621547
   rank: 10
 ---
 > “While the State of Alabama's total electorate ultimately denied Roy Moore from taking the oath of office as a United States Senator, the City of Fairhope and Baldwin County as a whole, voted for an alleged pedophile and a man twice removed for being unfit to hold office. It should be noted that the City of Daphne voted for the winner, Doug Jones, providing hope for the future. Alabama needs to move away from straight ticket voting. One third of the ballots cast in the election were straight ticket checkoffs. Straight ticket voting is what gave Alabama Roy Moore. Interestingly, with consideration to the heavy black turnout statewide and that Jones received an unprecedented 97 percent of the black vote, one could argue it was straight ticket voting that elected Jones. Moving forward, Jones must appeal to Alabama's total electorate--not just the left; or he won't be re-elected. His term is only for two years, so he has but a little time to acquaint himself with the voters who put him in office. The republicans are going to come at him hard so it will be interesting to see how Jones defines himself once he takes the oath.”

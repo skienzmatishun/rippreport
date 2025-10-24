@@ -25,45 +25,65 @@ authors:
 - admin
 alttags: Seal of Fairhope, Alabama featuring a lighthouse, sailboats, and the city name, relevant to new voter engagement
 related_articles:
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 92
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 93.3820185184681
+  llm_score: 92
+  recency_score: 98.91009259234048
   rank: 1
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
   rank: 2
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 3
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 85
-  rank: 4
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 75
-  rank: 5
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 75
-  rank: 6
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
-  rank: 7
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 65
-  rank: 8
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 65
+  score: 87.83629014021759
+  llm_score: 85
+  recency_score: 99.18145070108791
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 78.92516982082181
+  llm_score: 92
+  recency_score: 26.62584910410898
+  rank: 4
+- slug: scary
+  title: SCARY
+  score: 74.98553700495827
+  llm_score: 70
+  recency_score: 94.92768502479139
+  rank: 5
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 71.88389745041349
+  llm_score: 75
+  recency_score: 59.41948725206741
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.00369099048875
+  llm_score: 85
+  recency_score: 15.018454952443735
+  rank: 7
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 68.65658305422905
+  llm_score: 85
+  recency_score: 3.2829152711452347
+  rank: 8
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 68.15327821607661
+  llm_score: 85
+  recency_score: 0.7663910803831024
   rank: 9
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 63
+  score: 52.336485832504835
+  llm_score: 65
+  recency_score: 1.6824291625241752
   rank: 10
 ---
 DEAR NEW FAIRHOPE VOTERS: This municipal elections can be won by the young voters that have not voted before and those of you who have moved to Fairhope in the last 10 years. PLEASE READ
