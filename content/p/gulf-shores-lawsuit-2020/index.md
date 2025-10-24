@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Gulf Shores skyline along the beach, reflecting citizen concerns over city development approvals and a pending lawsuit
 related_articles:
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 85
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 87.15815510057
+  llm_score: 95
+  recency_score: 55.79077550285001
   rank: 1
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
-  score: 85
+  score: 83.68249514970657
+  llm_score: 92
+  recency_score: 50.412475748532785
   rank: 2
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 85
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 83.33256271585593
+  llm_score: 85
+  recency_score: 76.66281357927963
   rank: 3
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 85
-  rank: 4
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 75
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
+  rank: 4
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 71.44467018976354
+  llm_score: 85
+  recency_score: 17.223350948817675
   rank: 5
-- slug: victory
-  title: VICTORY
-  score: 75
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 68.98657928234444
+  llm_score: 75
+  recency_score: 44.932896411722155
   rank: 6
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 61.81311071823457
+  llm_score: 70
+  recency_score: 29.065553591172854
+  rank: 7
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 75
-  rank: 7
+  score: 61.17043574274372
+  llm_score: 75
+  recency_score: 5.8521787137186125
+  rank: 8
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 58.721577636566764
+  llm_score: 70
+  recency_score: 13.607888182833822
+  rank: 9
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 65
-  rank: 8
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
-  rank: 9
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 54
+  score: 56.09362507412278
+  llm_score: 65
+  recency_score: 20.468125370613887
   rank: 10
 ---
 Fairhope set the stage for citizens to fight back against City Government and elected officials who stop listening to the citizens. Now Gulf Shores citizens are filing a lawsuit and fighting back about an apartment complex the City of Gulf Shores approved over the objections of the area residents.

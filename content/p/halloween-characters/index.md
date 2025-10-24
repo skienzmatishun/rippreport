@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: Silhouettes of five jack-o-lanterns against an orange sunset; symbolizing empty promises from indicted Alabama politicians
 related_articles:
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 75
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
   rank: 1
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 75
+- slug: the-jester
+  title: THE JESTER
+  score: 77.972605288193
+  llm_score: 85
+  recency_score: 49.86302644096496
   rank: 2
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 75
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 68.53075167564708
+  llm_score: 75
+  recency_score: 42.653758378235395
   rank: 3
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 70
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 67.5866878197373
+  llm_score: 65
+  recency_score: 77.93343909868652
   rank: 4
-- slug: april-fool
-  title: APRIL FOOL
-  score: 65
-  rank: 5
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 65
+  score: 67.25024389308274
+  llm_score: 70
+  recency_score: 56.25121946541366
+  rank: 5
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 65.42828195143117
+  llm_score: 75
+  recency_score: 27.14140975715586
   rank: 6
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 54
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 64.74635098516816
+  llm_score: 75
+  recency_score: 23.73175492584083
   rank: 7
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 54
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 61.89097459752322
+  llm_score: 65
+  recency_score: 49.45487298761609
   rank: 8
+- slug: april-fool
+  title: APRIL FOOL
+  score: 60.83825535238421
+  llm_score: 70
+  recency_score: 24.19127676192105
+  rank: 9
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 50
-  rank: 9
-- slug: scary
-  title: SCARY
-  score: 50
+  score: 59.66625449247667
+  llm_score: 65
+  recency_score: 38.33127246238332
   rank: 10
 ---
 Sen. Tripp Pittman and the State Representatives Faust, and Randy Davis, INDICTED, did very little in the last 11 years, as far as representing their constituents.

@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Airplane wing view from above clouds, symbolizing a standstill in Fairhope financial discussions and ongoing obstruction
 related_articles:
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 90
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
   rank: 1
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 2
-- slug: captain-jack-at-the-controls
-  title: CAPTAIN JACK AT THE CONTROLS
-  score: 85
-  rank: 3
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 85
-  rank: 4
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 85
-  rank: 5
-- slug: nuff-said
-  title: NUFF SAID
-  score: 75
-  rank: 6
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 65
-  rank: 7
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 65
-  rank: 8
-- slug: shut-up
-  title: SHUT UP
-  score: 65
-  rank: 9
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 65
+  score: 77.53339065902054
+  llm_score: 90
+  recency_score: 27.666953295102704
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 77.3251698208218
+  llm_score: 90
+  recency_score: 26.62584910410898
+  rank: 3
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 76.93747241426176
+  llm_score: 85
+  recency_score: 44.68736207130882
+  rank: 4
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 76.56774635711682
+  llm_score: 90
+  recency_score: 22.8387317855841
+  rank: 5
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 76.55415564363686
+  llm_score: 85
+  recency_score: 42.77077821818432
+  rank: 6
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 76.07588902065244
+  llm_score: 85
+  recency_score: 40.37944510326223
+  rank: 7
+- slug: nuff-said
+  title: NUFF SAID
+  score: 74.22522126241881
+  llm_score: 85
+  recency_score: 31.126106312094088
+  rank: 8
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 72.93193927883213
+  llm_score: 85
+  recency_score: 24.659696394160648
+  rank: 9
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 66.09026245994085
+  llm_score: 75
+  recency_score: 30.451312299704224
   rank: 10
 ---
 Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.

@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Chucky doll depicted in a hallucination after surgery, referencing an imagined award for freedom of information reporting
 related_articles:
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
-  rank: 1
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 75
-  rank: 2
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 75
-  rank: 3
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 70
-  rank: 4
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 65
-  rank: 5
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
-  score: 65
-  rank: 6
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 65
-  rank: 7
+  score: 83.62944962510568
+  llm_score: 85
+  recency_score: 78.14724812552835
+  rank: 1
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 82.43570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
+  rank: 2
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 79.46808419803509
+  llm_score: 85
+  recency_score: 57.34042099017541
+  rank: 3
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 75.5206312839577
+  llm_score: 85
+  recency_score: 37.60315641978851
+  rank: 4
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+  score: 70.94620200815808
+  llm_score: 75
+  recency_score: 54.731010040790416
+  rank: 5
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 69.8369256908693
+  llm_score: 75
+  recency_score: 49.18462845434644
+  rank: 6
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 67.5866878197373
+  llm_score: 65
+  recency_score: 77.93343909868652
+  rank: 7
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 66.9652796209306
+  llm_score: 75
+  recency_score: 34.826398104653
   rank: 8
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 65
+  score: 65.36972132414267
+  llm_score: 65
+  recency_score: 66.84860662071335
   rank: 9
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 65
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 64.69156694727452
+  llm_score: 65
+  recency_score: 63.45783473637261
   rank: 10
 ---
 I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations.

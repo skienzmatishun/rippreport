@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: Gulf Quest Maritime Museum depicted sinking in water, symbolizing financial struggles and unpaid utility bills
 related_articles:
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 75
-  rank: 1
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
-  score: 75
-  rank: 2
-- slug: in-the-same-boat
-  title: IN THE SAME BOAT
-  score: 65
-  rank: 3
-- slug: oil-slick
-  title: OIL “SLICK”
-  score: 65
-  rank: 4
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 65
-  rank: 5
-- slug: history-repeating-itself
-  title: History repeating itself
-  score: 65
-  rank: 6
+  score: 79.31504765659547
+  llm_score: 95
+  recency_score: 16.575238282977313
+  rank: 1
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
-  score: 65
-  rank: 7
+  score: 75.41831135904945
+  llm_score: 85
+  recency_score: 37.09155679524731
+  rank: 2
 - slug: bp-catastrophe-alabama-disgrace
   title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 65
+  score: 74.88179115997221
+  llm_score: 70
+  recency_score: 94.40895579986105
+  rank: 3
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 71.64866887953505
+  llm_score: 85
+  recency_score: 18.243344397675273
+  rank: 4
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 68.43413283827167
+  llm_score: 85
+  recency_score: 2.1706641913583127
+  rank: 5
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 61.13258133733416
+  llm_score: 75
+  recency_score: 5.66290668667081
+  rank: 6
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 60.322976512717815
+  llm_score: 65
+  recency_score: 41.61488256358909
+  rank: 7
+- slug: history-repeating-itself
+  title: History repeating itself
+  score: 52.45110797831716
+  llm_score: 65
+  recency_score: 2.255539891585818
   rank: 8
-- slug: stepping-up
-  title: STEPPING UP
-  score: 50
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 49.17043574274372
+  llm_score: 60
+  recency_score: 5.8521787137186125
   rank: 9
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 35
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 48.48441385193174
+  llm_score: 60
+  recency_score: 2.422069259658703
   rank: 10
 ---
 Be sure you read

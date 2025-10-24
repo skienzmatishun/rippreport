@@ -12,45 +12,65 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 90.17127158449026
+  llm_score: 90
+  recency_score: 90.85635792245131
   rank: 1
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 83.24877842919904
+  llm_score: 85
+  recency_score: 76.2438921459952
+  rank: 2
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 80.41642191956065
+  llm_score: 85
+  recency_score: 62.08210959780326
+  rank: 3
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 79.46808419803509
+  llm_score: 85
+  recency_score: 57.34042099017541
+  rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 76.1387334364297
+  llm_score: 90
+  recency_score: 20.693667182148534
+  rank: 5
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 2
+  score: 72.2188724060802
+  llm_score: 85
+  recency_score: 21.094362030400973
+  rank: 6
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 68.15581868131424
+  llm_score: 85
+  recency_score: 0.7790934065711901
+  rank: 7
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 75
-  rank: 3
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 75
-  rank: 4
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 75
-  rank: 5
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 75
-  rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 70
-  rank: 7
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 70
+  score: 68.10190443860724
+  llm_score: 85
+  recency_score: 0.5095221930361701
   rank: 8
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 65
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 68.08229718208979
+  llm_score: 85
+  recency_score: 0.41148591044895216
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 65
+  score: 56.0978014699734
+  llm_score: 70
+  recency_score: 0.4890073498669849
   rank: 10
 ---
 The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions, he knows best.

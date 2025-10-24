@@ -15,43 +15,63 @@ alttags: 'Spotlight on corruption: A single white circle against black backgroun
 related_articles:
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 85
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
   rank: 1
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
   rank: 2
-- slug: repeat
-  title: REPEAT
-  score: 85
-  rank: 3
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 75
-  rank: 4
-- slug: holes
-  title: HOLES
-  score: 75
-  rank: 5
 - slug: tale-of-two-cities
   title: TALE OF TWO CITIES
-  score: 75
+  score: 81.11575875113695
+  llm_score: 85
+  recency_score: 65.57879375568477
+  rank: 3
+- slug: balls
+  title: BALLS
+  score: 76.69167940010973
+  llm_score: 75
+  recency_score: 83.45839700054867
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 75.00355029206108
+  llm_score: 85
+  recency_score: 35.01775146030539
+  rank: 5
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 73.89249424486937
+  llm_score: 75
+  recency_score: 69.4624712243468
   rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 70.93053303106537
+  llm_score: 85
+  recency_score: 14.652665155326813
+  rank: 7
 - slug: broken-eggs
   title: BROKEN EGGS
-  score: 75
-  rank: 7
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 75
+  score: 69.65006981718642
+  llm_score: 75
+  recency_score: 48.25034908593207
   rank: 8
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 70
+- slug: threesome
+  title: THREESOME
+  score: 68.12176801151256
+  llm_score: 85
+  recency_score: 0.6088400575628192
   rank: 9
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 60
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 60.178694801905735
+  llm_score: 75
+  recency_score: 0.8934740095286622
   rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle is a non-profit exposing political and judicial corruption. We also have helped consumers with complaints about consumer products or services. There are no paid staff and no outer office expenses, 100% of any donation goes towards the non-profit. The majority of operating capital I personally donate, which is not reimbursed.

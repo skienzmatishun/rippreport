@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal depicting a pelican over Mobile Bay; referenced in discussion of local politics and community ...
 related_articles:
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 85
-  rank: 1
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 85
-  rank: 2
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 85
+  score: 83.5866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 83.29693268727894
+  llm_score: 100
+  recency_score: 16.48466343639469
+  rank: 2
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 81.04408811712146
+  llm_score: 85
+  recency_score: 65.22044058560728
   rank: 3
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 85
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 77.97457577604462
+  llm_score: 90
+  recency_score: 29.872878880223098
   rank: 4
 - slug: s-o-s
   title: S.O.S
-  score: 75
+  score: 76.76770197286933
+  llm_score: 85
+  recency_score: 43.83850986434665
   rank: 5
-- slug: rotten
-  title: ROTTEN
-  score: 75
-  rank: 6
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 75
-  rank: 7
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 70
+  score: 73.92404723937733
+  llm_score: 70
+  recency_score: 89.62023619688662
+  rank: 6
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 69.78477778518496
+  llm_score: 85
+  recency_score: 8.92388892592479
+  rank: 7
+- slug: rotten
+  title: ROTTEN
+  score: 67.91650071517822
+  llm_score: 70
+  recency_score: 59.582503575891096
   rank: 8
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 65
-  rank: 9
 - slug: survey
   title: SURVEY
-  score: 65
+  score: 65.15174160583071
+  llm_score: 65
+  recency_score: 65.75870802915355
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60.39586260016436
+  llm_score: 70
+  recency_score: 21.979313000821772
   rank: 10
 ---
 After living in Fairhope for 25 years and spending 16 years of close observation of local politics, nothing surprises me. The corruption and white collar crime in Baldwin County is far worse than most people can comprehend. The political status quo resembles a criminal enterprise.

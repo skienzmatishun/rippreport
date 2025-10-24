@@ -28,45 +28,65 @@ authors:
 - ripp-report
 alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
 related_articles:
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 85
-  rank: 1
 - slug: war
   title: WAR
-  score: 85
-  rank: 2
+  score: 90.93359302371175
+  llm_score: 90
+  recency_score: 94.66796511855877
+  rank: 1
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 85
-  rank: 3
+  score: 90.4219058668791
+  llm_score: 90
+  recency_score: 92.10952933439548
+  rank: 2
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 85
+  score: 87.40625209818191
+  llm_score: 85
+  recency_score: 97.03126049090956
+  rank: 3
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 86.98553700495827
+  llm_score: 85
+  recency_score: 94.92768502479139
   rank: 4
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 85
+  score: 81.96882643931993
+  llm_score: 85
+  recency_score: 69.84413219659965
   rank: 5
-- slug: combat
-  title: COMBAT
-  score: 75
-  rank: 6
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 70
-  rank: 7
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 65
-  rank: 8
+  score: 53.89047508264844
+  llm_score: 65
+  recency_score: 9.45237541324223
+  rank: 6
 - slug: symbol
   title: Veterans Day
-  score: 60
-  rank: 9
+  score: 52.708933356144534
+  llm_score: 65
+  recency_score: 3.544666780722678
+  rank: 7
+- slug: recovery
+  title: RECOVERY
+  score: 48.02611191339561
+  llm_score: 60
+  recency_score: 0.13055956697804186
+  rank: 8
 - slug: insanity-2
   title: INSANITY
-  score: 50
+  score: 40.343001262486766
+  llm_score: 50
+  recency_score: 1.7150063124338188
+  rank: 9
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 36.12583787874573
+  llm_score: 45
+  recency_score: 0.6291893937286536
   rank: 10
 ---
 It is official our Biden syndrome Governor aka mee ma has successfully got our elected officials to Cut the Throats of Alabama Veterans.

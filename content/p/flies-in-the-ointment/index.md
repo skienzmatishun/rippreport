@@ -14,45 +14,65 @@ authors:
 - ripp-report
 alttags: Illustration of a fly against a black background, symbolizing Alabama’s stagnant political state
 related_articles:
-- slug: black-hole
-  title: BLACK HOLE
-  score: 85
-  rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
-  rank: 2
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 85
-  rank: 3
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 75
-  rank: 4
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 75
-  rank: 5
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 75
-  rank: 6
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
+  rank: 1
+- slug: black-hole
+  title: BLACK HOLE
+  score: 74.87051538361202
+  llm_score: 85
+  recency_score: 34.35257691806009
+  rank: 2
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 75
-  rank: 7
+  score: 74.70317696989248
+  llm_score: 85
+  recency_score: 33.51588484946244
+  rank: 3
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 72.48098040369368
+  llm_score: 85
+  recency_score: 22.404902018468416
+  rank: 4
 - slug: fly-on-the-wall
   title: FLY ON THE WALL
-  score: 65
+  score: 68.45607881510779
+  llm_score: 85
+  recency_score: 2.2803940755389456
+  rank: 5
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 68.0946383604076
+  llm_score: 85
+  recency_score: 0.4731918020379976
+  rank: 6
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 68.06138626927324
+  llm_score: 85
+  recency_score: 0.3069313463662092
+  rank: 7
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 66.43570824436047
+  llm_score: 65
+  recency_score: 72.17854122180232
   rank: 8
-- slug: gob-coup
-  title: GOB COUP
-  score: 65
-  rank: 9
 - slug: skunked
   title: SKUNKED
-  score: 65
+  score: 63.10408372408847
+  llm_score: 75
+  recency_score: 15.520418620442342
+  rank: 9
+- slug: gob-coup
+  title: GOB COUP
+  score: 62.826898541613794
+  llm_score: 65
+  recency_score: 54.13449270806896
   rank: 10
 ---
 There is no arguing that Alabama is in very sad shape when it comes to the state’s political structure and the lack of any leadership. Alabama’s republican and democrat’s are in an abyss, wandering aimlessly, clueless as to what it will take to bring Alabama out of not the third world but the dark ages. They have done a good job of selling the voters in the state a bill of goods that serves them the best. Straight ticket voting is their main tool to keep political control; however the downside is corrupt politicians who just ride into office, regardless of vetting or qualifications. The voters are dumb down to believe they must be loyal to their party and not question the candidates selected by party chiefs. The voters not the elected officials are the only ones that can break the cycle.

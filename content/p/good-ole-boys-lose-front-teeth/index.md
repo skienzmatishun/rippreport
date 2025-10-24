@@ -26,43 +26,63 @@ alttags: A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizi
 related_articles:
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 95
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
   rank: 1
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 95
-  rank: 2
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 95
-  rank: 3
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 92
-  rank: 4
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 90
-  rank: 5
+  score: 76.12652929392722
+  llm_score: 95
+  recency_score: 0.632646469636104
+  rank: 2
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 90
+  score: 76.10107030053945
+  llm_score: 95
+  recency_score: 0.5053515026972712
+  rank: 3
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 76.01698371044944
+  llm_score: 95
+  recency_score: 0.08491855224716904
+  rank: 4
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 76.01543078075446
+  llm_score: 95
+  recency_score: 0.07715390377225172
+  rank: 5
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 73.72176801151257
+  llm_score: 92
+  recency_score: 0.6088400575628192
   rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 90
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 72.12897930125474
+  llm_score: 90
+  recency_score: 0.6448965062737357
   rank: 7
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 90
-  rank: 8
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 85
-  rank: 9
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 85
+  score: 72.01291361360444
+  llm_score: 90
+  recency_score: 0.06456806802217216
+  rank: 8
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 72.01157321101385
+  llm_score: 90
+  recency_score: 0.05786605506923713
+  rank: 9
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 68.01448843241029
+  llm_score: 85
+  recency_score: 0.07244216205141384
   rank: 10
 ---
 Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption.

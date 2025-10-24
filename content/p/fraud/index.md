@@ -13,43 +13,63 @@ alttags: U.S. currency lies atop an American flag, symbolizing potential fraud a
 related_articles:
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD
-  score: 85
+  score: 86.67599711942087
+  llm_score: 85
+  recency_score: 93.37998559710435
   rank: 1
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 78.72723439081022
+  llm_score: 75
+  recency_score: 93.63617195405108
+  rank: 2
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 85
-  rank: 2
+  score: 77.53339065902054
+  llm_score: 90
+  recency_score: 27.666953295102704
+  rank: 3
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 85
-  rank: 3
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 85
+  score: 76.32919103556648
+  llm_score: 95
+  recency_score: 1.6459551778324155
   rank: 4
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 75
-  rank: 5
-- slug: demand-the-truth
-  title: DEMAND THE TRUTH
-  score: 70
-  rank: 6
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65
-  rank: 7
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 65
-  rank: 8
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 65
+  score: 76.32297651271782
+  llm_score: 85
+  recency_score: 41.61488256358909
+  rank: 5
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 72.65619237382862
+  llm_score: 85
+  recency_score: 23.280961869143056
+  rank: 6
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 69.824328046633
+  llm_score: 85
+  recency_score: 9.121640233165
+  rank: 7
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 68.4020748388025
+  llm_score: 85
+  recency_score: 2.0103741940125253
+  rank: 8
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 68.28236867632369
+  llm_score: 85
+  recency_score: 1.4118433816184552
   rank: 9
-- slug: the-good-the-bad-and-the-ugly
+- slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY
-  score: 65
+  score: 56.00231746485642
+  llm_score: 70
+  recency_score: 0.011587324282087415
   rank: 10
 ---
 Webster’s Dictionary's definition of fraud reads: "Deceit; trickery; cheating, intentional deception to cause a person to give up property or some lawful right. Something said to deceive; trick; artifice. A person who deceives or is not what he pretends to be; imposter; cheat."

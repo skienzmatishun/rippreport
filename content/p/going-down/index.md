@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 75
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 81.36972132414267
+  llm_score: 85
+  recency_score: 66.84860662071335
   rank: 1
-- slug: timeline
-  title: TIMELINE
-  score: 75
-  rank: 2
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 75
-  rank: 3
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 70
-  rank: 4
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
-  rank: 5
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 65
-  rank: 6
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 65
-  rank: 7
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 65
-  rank: 8
+  score: 78.41948362581483
+  llm_score: 85
+  recency_score: 52.09741812907417
+  rank: 2
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 78.17127158449026
+  llm_score: 75
+  recency_score: 90.85635792245131
+  rank: 3
 - slug: state-of-the-city-2019
   title: STATE OF THE CITY - 2019
-  score: 65
+  score: 69.67654461491676
+  llm_score: 75
+  recency_score: 48.38272307458382
+  rank: 4
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 68.79175600985447
+  llm_score: 75
+  recency_score: 43.95878004927231
+  rank: 5
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.39769259535007
+  llm_score: 85
+  recency_score: 1.9884629767503073
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 66.9652796209306
+  llm_score: 75
+  recency_score: 34.826398104653
+  rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 60.83102978346773
+  llm_score: 75
+  recency_score: 4.155148917338647
+  rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 60.569400152657956
+  llm_score: 75
+  recency_score: 2.8470007632897696
   rank: 9
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 65
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 60.410984723903226
+  llm_score: 75
+  recency_score: 2.0549236195161336
   rank: 10
 ---
 Baldwin County is the only county in Alabama where sewer regulations do not exist. It is also the fastest growing county in Alabama. Baldwin County also has regular sewer spills throughout the county, most spills end up in the Bay.

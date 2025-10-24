@@ -18,43 +18,63 @@ alttags: Fairhope City Council member in suit, standing near US flag and Alabama
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 1
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 85
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
   rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 81.60978388769298
+  llm_score: 92
+  recency_score: 40.048919438464885
+  rank: 3
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 72.81181686451524
+  llm_score: 85
+  recency_score: 24.0590843225762
+  rank: 4
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 72.38383562381885
+  llm_score: 85
+  recency_score: 21.919178119094283
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 72.0048293912728
+  llm_score: 90
+  recency_score: 0.024146956364064574
+  rank: 6
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 75
-  rank: 3
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 75
-  rank: 4
+  score: 68.72464315476344
+  llm_score: 85
+  recency_score: 3.623215773817211
+  rank: 7
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 75
-  rank: 5
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 75
-  rank: 6
+  score: 68.71478421734435
+  llm_score: 85
+  recency_score: 3.573921086721709
+  rank: 8
 - slug: rotten
   title: ROTTEN
-  score: 75
-  rank: 7
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 75
-  rank: 8
+  score: 61.35706097653267
+  llm_score: 75
+  recency_score: 6.785304882663376
+  rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 65
-  rank: 9
-- slug: honey-bees
-  title: HONEY BEES
-  score: 65
+  score: 52.03707995746683
+  llm_score: 65
+  recency_score: 0.18539978733415308
   rank: 10
 ---
 Fairhope City Council has shifted from a rude, loud, and bulling approached, that backfired on them, to a passive aggressive approach when addressing the mayor. The ultimate goal is to prevent her from doing her job and opposing any of her goals. The masked condescending and sarcastic comments remain along with the disrespect.

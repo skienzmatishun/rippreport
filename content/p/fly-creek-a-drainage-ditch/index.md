@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Gavel and legal documents representing the six-day trial over Fly Creek Apartments development in Bay Minette
 related_articles:
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 95
-  rank: 1
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 90
-  rank: 2
+  score: 85.66599124538808
+  llm_score: 90
+  recency_score: 68.3299562269404
+  rank: 1
 - slug: holes
   title: HOLES
-  score: 85
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
+  rank: 2
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 82.79563312750165
+  llm_score: 95
+  recency_score: 33.97816563750821
   rank: 3
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 85
-  rank: 4
-- slug: fly-creek-mud
-  title: FLY CREEK MUD
-  score: 75
-  rank: 5
 - slug: fairness
   title: FAIRNESS
-  score: 75
-  rank: 6
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 75
-  rank: 7
+  score: 81.89249424486937
+  llm_score: 85
+  recency_score: 69.4624712243468
+  rank: 4
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 78.13789333571614
+  llm_score: 85
+  recency_score: 50.689466678580686
+  rank: 5
 - slug: big-head-gully-and-the-fruit-nuts
   title: BIG HEAD GULLY AND THE FRUIT NUTS
-  score: 65
+  score: 72.72638603917497
+  llm_score: 75
+  recency_score: 63.63193019587483
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 71.03654154157076
+  llm_score: 75
+  recency_score: 55.18270770785375
+  rank: 7
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 70.82689854161379
+  llm_score: 75
+  recency_score: 54.13449270806896
   rank: 8
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 65
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 68.13329019231236
+  llm_score: 85
+  recency_score: 0.6664509615618259
   rank: 9
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 65
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 60.49327389504337
+  llm_score: 70
+  recency_score: 22.466369475216847
   rank: 10
 ---
 The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal arguments. It went to trial because our city council let us down and ignored their campaign promises. Mr Adam Milam, the plaintiff's attorney, Friends of Fly Creek, put it best:

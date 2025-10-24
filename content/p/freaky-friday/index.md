@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Sad yellow smiley face emoji representing ongoing complaints against Baldwin County Family Court officials
 related_articles:
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 90
-  rank: 1
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 85
-  rank: 2
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 3
-- slug: exposure
-  title: EXPOSURE
-  score: 75
-  rank: 4
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 70
-  rank: 5
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 65
-  rank: 6
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 65
-  rank: 7
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 65
-  rank: 8
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 65
+  score: 89.48748877687456
+  llm_score: 90
+  recency_score: 87.43744388437275
+  rank: 1
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 89.48748877687456
+  llm_score: 90
+  recency_score: 87.43744388437275
+  rank: 2
+- slug: exposure
+  title: EXPOSURE
+  score: 85.24956745472434
+  llm_score: 85
+  recency_score: 86.24783727362167
+  rank: 3
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 80.7391611771113
+  llm_score: 92
+  recency_score: 35.69580588555647
+  rank: 4
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 75.5891810416593
+  llm_score: 90
+  recency_score: 17.945905208296484
+  rank: 5
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 72.14157117880491
+  llm_score: 90
+  recency_score: 0.7078558940245392
+  rank: 6
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 71.18157421087923
+  llm_score: 85
+  recency_score: 15.90787105439613
+  rank: 7
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 68.14872778511713
+  llm_score: 85
+  recency_score: 0.7436389255856242
+  rank: 8
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 65.35442892225316
+  llm_score: 75
+  recency_score: 26.772144611265798
   rank: 9
-- slug: repeat
-  title: REPEAT
-  score: 65
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 61.59078153074029
+  llm_score: 75
+  recency_score: 7.953907653701443
   rank: 10
 ---
 Attention Baldwin County Legal Eagle fans that follow the Family Court issues in Baldwin County. There are multiple complains filed against a particular Judge that are pending as well as pending complaints against certain attorneys. We are refraining from details until we have responses to those complaints. We do wish to advise you that it is an active issue that we are addressing and it is not on a back burner.

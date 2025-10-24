@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: South Alabama Mega Site advertisement placed on US currency, questioning its “shovel ready” status and value
 related_articles:
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 90
-  rank: 1
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 85
-  rank: 2
 - slug: mega-mistake
   title: MEGA-MISTAKE
-  score: 85
+  score: 87.3002072693518
+  llm_score: 85
+  recency_score: 96.50103634675902
+  rank: 1
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 83.6262621791403
+  llm_score: 90
+  recency_score: 58.1313108957015
+  rank: 2
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 77.51877838940959
+  llm_score: 85
+  recency_score: 47.593891947047986
   rank: 3
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 74.72157763656676
+  llm_score: 90
+  recency_score: 13.607888182833822
+  rank: 4
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 72.83825535238421
+  llm_score: 85
+  recency_score: 24.19127676192105
+  rank: 5
 - slug: dead-last
   title: DEAD LAST
-  score: 85
-  rank: 4
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 75
-  rank: 5
+  score: 72.28879688043754
+  llm_score: 85
+  recency_score: 21.44398440218775
+  rank: 6
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 70.19191013062844
+  llm_score: 85
+  recency_score: 10.959550653142209
+  rank: 7
 - slug: dollars-and-lives
   title: DOLLARS AND LIVES
-  score: 75
-  rank: 6
-- slug: bp-catastrophe-alabama-disgrace
-  title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 70
-  rank: 7
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 65
+  score: 65.20972355606835
+  llm_score: 75
+  recency_score: 26.048617780341775
   rank: 8
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 60
+  score: 59.25024389308273
+  llm_score: 60
+  recency_score: 56.25121946541366
   rank: 9
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 45
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 53.23975075545263
+  llm_score: 65
+  recency_score: 6.198753777263179
   rank: 10
 ---
 The Ripp Report has been covering the Baldwin County Mega-Site since it was purchased.

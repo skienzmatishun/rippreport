@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Movie poster for Green Acres, illustrating a lack of accountability in Baldwin County politics despite past convictions
 related_articles:
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 1
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 85
-  rank: 2
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 85
-  rank: 3
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 4
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 85
-  rank: 5
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 85
-  rank: 6
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 85
-  rank: 7
-- slug: repeat
-  title: REPEAT
-  score: 75
-  rank: 8
+  score: 75.84362989425284
+  llm_score: 90
+  recency_score: 19.21814947126418
+  rank: 2
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 75
+  score: 74.36317072063389
+  llm_score: 85
+  recency_score: 31.81585360316948
+  rank: 3
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 73.9643950362927
+  llm_score: 90
+  recency_score: 9.821975181463475
+  rank: 4
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 73.93236757167448
+  llm_score: 90
+  recency_score: 9.661837858372358
+  rank: 5
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 72.61311716147212
+  llm_score: 90
+  recency_score: 3.0655858073605606
+  rank: 6
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 72.06906129211704
+  llm_score: 90
+  recency_score: 0.34530646058523073
+  rank: 7
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 68.16235558880828
+  llm_score: 85
+  recency_score: 0.8117779440414381
+  rank: 8
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 68.1354993718602
+  llm_score: 85
+  recency_score: 0.6774968593009955
   rank: 9
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 75
+- slug: threesome
+  title: THREESOME
+  score: 68.11063398037491
+  llm_score: 85
+  recency_score: 0.5531699018745336
   rank: 10
 ---
 - In Baldwin County, the incentive to run for office and become a public servant is that there is no accountability and “conflict of interest” is just a pesky term. Many of our elected officials are in office for personal gain and use their positions to support like minded politicians.

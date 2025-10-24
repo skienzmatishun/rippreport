@@ -10,43 +10,63 @@ alttags: Illustration depicting a mine entrance with a For Sale sign, symbolizin
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 91.29061318606567
+  llm_score: 95
+  recency_score: 76.45306593032835
   rank: 1
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 85
-  rank: 2
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 3
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 75
-  rank: 4
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
-  rank: 5
 - slug: disposal
   title: DISPOSAL
-  score: 70
-  rank: 6
+  score: 86.52312487593501
+  llm_score: 85
+  recency_score: 92.61562437967505
+  rank: 2
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
+  rank: 3
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 82.39621248724127
+  llm_score: 85
+  recency_score: 71.98106243620636
+  rank: 4
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 76.86431479647436
+  llm_score: 85
+  recency_score: 44.32157398237182
+  rank: 5
 - slug: fauxhope
   title: FAUXHOPE
-  score: 70
+  score: 70.19191013062844
+  llm_score: 85
+  recency_score: 10.959550653142209
+  rank: 6
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 69.81001209429962
+  llm_score: 75
+  recency_score: 49.0500604714981
   rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 68.88265958677441
+  llm_score: 85
+  recency_score: 4.413297933872045
   rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 65
+- slug: truth
+  title: TRUTH
+  score: 67.13916117711129
+  llm_score: 75
+  recency_score: 35.69580588555647
   rank: 9
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 60
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 65.5637938281211
+  llm_score: 75
+  recency_score: 27.818969140605503
   rank: 10
 ---
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements. The Fairhope Conservation Easement that is proposed is a political football being thrown around by the City Council. It is an excuse by special interests, developers, that want the property out of the control of the city. The property in question is prime property in the Fairhope municipal city limits, that cost us 13 million.

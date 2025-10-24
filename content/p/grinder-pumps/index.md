@@ -14,43 +14,63 @@ alttags: Grinder pump installed in a yard; often used by developers despite pote
 related_articles:
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 75
+  score: 76.42001563077638
+  llm_score: 90
+  recency_score: 22.100078153881906
   rank: 1
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 75
+  score: 72.01586522172649
+  llm_score: 85
+  recency_score: 20.079326108632408
   rank: 2
-- slug: holes
-  title: HOLES
-  score: 65
-  rank: 3
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 65
-  rank: 4
 - slug: wetlands
   title: WETLANDS
-  score: 65
+  score: 70.63481832643573
+  llm_score: 70
+  recency_score: 73.17409163217867
+  rank: 3
+- slug: holes
+  title: HOLES
+  score: 70.41948362581483
+  llm_score: 75
+  recency_score: 52.09741812907417
+  rank: 4
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 68.27323626694985
+  llm_score: 85
+  recency_score: 1.366181334749222
   rank: 5
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 64.86662028679618
+  llm_score: 65
+  recency_score: 64.3331014339809
+  rank: 6
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
-  score: 60
-  rank: 6
+  score: 62.43570824436046
+  llm_score: 60
+  recency_score: 72.17854122180232
+  rank: 7
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 58.88275366834506
+  llm_score: 70
+  recency_score: 14.41376834172532
+  rank: 8
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 57.816471771936314
+  llm_score: 72
+  recency_score: 1.082358859681554
+  rank: 9
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 60
-  rank: 7
-- slug: priorities
-  title: Priorities
-  score: 55
-  rank: 8
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 54
-  rank: 9
-- slug: timeline
-  title: TIMELINE
-  score: 54
+  score: 52.20718757426789
+  llm_score: 65
+  recency_score: 1.0359378713394423
   rank: 10
 ---
 Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily.

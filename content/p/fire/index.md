@@ -113,11 +113,8 @@ Lagniappe deserves the credit for its investigative reporting.
 
 It is obvious many of these articles took considerable time to research.
 
-Lagniappe’s most recent article, [http://lagniappemobile.com/dorsey-says-votes-have-nothing-to-do-with-business-relationships](http://lagniappemobile.com/dorsey-says-votes-have-nothing-to-do-with-business-relationships)
-
-Too Many Connections looks like that plate of spaghetti. It is also clearing the smoke and revealing a FIRE.
+Lagniappe’s most recent article, *Too Many Connections* looks like that plate of spaghetti. It is also clearing the smoke and revealing a FIRE.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/dorsey-says-votes-have-nothing-to-do-with-business-relationships/article_aa9681d6-63ff-59df-b181-684140ea1818.html" >}}
-
 
 All of this information and more will be part of an existing ethics complaint. If you know of any of Mr. Dorsey’s noodle connections please contact us. Mr. Dorsey is wearing Tim Kant shoes and will soon be leaving the building.

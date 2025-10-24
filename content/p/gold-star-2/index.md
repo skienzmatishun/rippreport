@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Gold star graphic representing Fairhope, Alabama receiving recognition and increased tourism due to a travel article and f...
 related_articles:
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 95
-  rank: 1
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 85
+  score: 93.01488310709092
+  llm_score: 95
+  recency_score: 85.07441553545459
+  rank: 1
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 77.54355537093389
+  llm_score: 95
+  recency_score: 7.717776854669439
   rank: 2
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 85
+  score: 77.1670794004249
+  llm_score: 90
+  recency_score: 25.835397002124495
   rank: 3
-- slug: survey
-  title: SURVEY
-  score: 75
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 72.2200596203965
+  llm_score: 90
+  recency_score: 1.100298101982455
   rank: 4
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 75
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 71.7866218911497
+  llm_score: 75
+  recency_score: 58.93310945574846
   rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 69.92404723937733
+  llm_score: 65
+  recency_score: 89.62023619688662
   rank: 6
-- slug: s-o-s
-  title: S.O.S
-  score: 65
-  rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
-  rank: 8
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 65
+  score: 68.50750925631624
+  llm_score: 85
+  recency_score: 2.537546281581227
+  rank: 7
+- slug: survey
+  title: SURVEY
+  score: 67.85763521712458
+  llm_score: 75
+  recency_score: 39.2881760856229
+  rank: 8
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 63.92248465976349
+  llm_score: 70
+  recency_score: 39.61242329881746
   rank: 9
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 50
+- slug: s-o-s
+  title: S.O.S
+  score: 54.26517061265389
+  llm_score: 65
+  recency_score: 11.325853063269467
   rank: 10
 ---
 Sorry for the delay of Freaky Friday - technical difficulties.

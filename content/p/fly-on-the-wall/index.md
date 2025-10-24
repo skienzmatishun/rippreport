@@ -18,43 +18,63 @@ alttags: Illustration of a fly, symbolizing corruption and harmful relationships
 related_articles:
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 92
+  score: 91.82112415020393
+  llm_score: 92
+  recency_score: 91.10562075101957
   rank: 1
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 85.68018643855639
+  llm_score: 85
+  recency_score: 88.40093219278197
+  rank: 2
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 84.73747273054873
+  llm_score: 85
+  recency_score: 83.68736365274363
+  rank: 3
 - slug: queen-bee
   title: QUEEN BEE
-  score: 85
-  rank: 2
+  score: 83.29061318606567
+  llm_score: 85
+  recency_score: 76.45306593032835
+  rank: 4
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 85
-  rank: 3
-- slug: hate
-  title: HATE
-  score: 75
-  rank: 4
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 75
+  score: 69.09595122468718
+  llm_score: 85
+  recency_score: 5.4797561234359335
   rank: 5
-- slug: skunked
-  title: SKUNKED
-  score: 75
-  rank: 6
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 70
-  rank: 7
 - slug: triangle-roaches
   title: TRIANGLE ROACHES
-  score: 65
+  score: 66.5631983784823
+  llm_score: 70
+  recency_score: 52.81599189241148
+  rank: 6
+- slug: skunked
+  title: SKUNKED
+  score: 62.93857289717093
+  llm_score: 75
+  recency_score: 14.692864485854656
+  rank: 7
+- slug: hate
+  title: HATE
+  score: 60.94523422886647
+  llm_score: 75
+  recency_score: 4.726171144332342
   rank: 8
-- slug: jack-ass
-  title: JACK ASS
-  score: 65
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 60.45607881510779
+  llm_score: 75
+  recency_score: 2.2803940755389456
   rank: 9
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 65
+  score: 60.32919103556648
+  llm_score: 75
+  recency_score: 1.6459551778324155
   rank: 10
 ---
 Comment:

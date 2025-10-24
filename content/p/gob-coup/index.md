@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: 'Unexpected political upset: A red exclamation point symbolizes shock and disruption within Fairhope politics'
 related_articles:
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 95
-  rank: 1
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 90
-  rank: 2
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 3
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 85
-  rank: 4
-- slug: skunked
-  title: SKUNKED
-  score: 75
-  rank: 5
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 75
-  rank: 6
+  score: 79.68728672756747
+  llm_score: 90
+  recency_score: 38.436433637837325
+  rank: 1
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
-  rank: 7
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75
-  rank: 8
-- slug: shut-up
-  title: SHUT UP
-  score: 75
-  rank: 9
+  score: 77.46676333674154
+  llm_score: 85
+  recency_score: 47.33381668370766
+  rank: 2
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 76.76755764177672
+  llm_score: 95
+  recency_score: 3.837788208883614
+  rank: 3
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 65
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
+  rank: 4
+- slug: fear
+  title: FEAR
+  score: 72.74635098516816
+  llm_score: 85
+  recency_score: 23.73175492584083
+  rank: 5
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 69.36078404958211
+  llm_score: 85
+  recency_score: 6.803920247910508
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 69.32038591586875
+  llm_score: 85
+  recency_score: 6.601929579343786
+  rank: 7
+- slug: scary
+  title: SCARY
+  score: 68.826488648441
+  llm_score: 85
+  recency_score: 4.13244324220501
+  rank: 8
+- slug: skunked
+  title: SKUNKED
+  score: 65.73402200483869
+  llm_score: 75
+  recency_score: 28.67011002419343
+  rank: 9
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 56.528800291723115
+  llm_score: 70
+  recency_score: 2.644001458615577
   rank: 10
 ---
 Fairhope politics has taken on a coup mentality. Mayor Wilson upset the apple cart of two political groups: Tim Kant followers, and Jack Burrell and his cronies, both supported by Catalyst. Kant followers have fallen off in recent years and Mr Burrell was assured by Kant he would be the next mayor, along with two others. Jack hedged his position by playing both sides to his benefit however mayor Wilson winning was not in the cards.

@@ -10,43 +10,63 @@ alttags: Smoke billows from New York City skyscrapers after a disaster, reflecti
 related_articles:
 - slug: shut-up
   title: SHUT UP
-  score: 85
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
   rank: 1
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 74.34576123569309
+  llm_score: 85
+  recency_score: 31.72880617846543
+  rank: 2
 - slug: shut-up-2
   title: SHUT UP
-  score: 75
-  rank: 2
-- slug: re-run-doing-nothing
-  title: RE-RUN - DOING NOTHING
-  score: 65
+  score: 72.2304468087236
+  llm_score: 85
+  recency_score: 21.152234043618023
   rank: 3
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 60
-  rank: 4
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 55
-  rank: 5
-- slug: missed-the-bullet
-  title: MISSED THE BULLET
-  score: 55
-  rank: 6
 - slug: horrible-hurricane-harvey
   title: HORRIBLE HURRICANE HARVEY
-  score: 45
+  score: 67.62009294457451
+  llm_score: 60
+  recency_score: 98.10046472287257
+  rank: 4
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 58.85171781564504
+  llm_score: 65
+  recency_score: 34.2585890782252
+  rank: 5
+- slug: going-down
+  title: GOING DOWN
+  score: 54.42575600988756
+  llm_score: 65
+  recency_score: 12.128780049437779
+  rank: 6
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 53.01368227279841
+  llm_score: 60
+  recency_score: 25.06841136399206
   rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 52.04984743319901
+  llm_score: 65
+  recency_score: 0.2492371659950575
+  rank: 8
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 49.62158409262805
+  llm_score: 60
+  recency_score: 8.107920463140223
+  rank: 9
 - slug: m-i-a
   title: M.I.A
-  score: 45
-  rank: 8
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 35
-  rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 25
+  score: 44.92221208458466
+  llm_score: 55
+  recency_score: 4.6110604229232885
   rank: 10
 ---
 Hard to believe a week later we are expecting another hurricane, IRMA, headed towards the United States. Landfall is expected in the Miami area and the destructive route may travel through the entire state of Florida. Please pray for those in Irma’s path and be prepared to help those in need as the storm passes.

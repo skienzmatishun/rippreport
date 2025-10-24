@@ -10,43 +10,63 @@ alttags: 'Seal of Faux Hope, Alabama: a circular design featuring mountains, wat
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
-  score: 85
+  score: 93.15530775847412
+  llm_score: 95
+  recency_score: 85.7765387923706
   rank: 1
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 85
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 82.88638684588861
+  llm_score: 90
+  recency_score: 54.43193422944308
   rank: 2
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 85
-  rank: 3
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 75
-  rank: 4
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 75
-  rank: 5
-- slug: s-o-s
-  title: S.O.S
-  score: 75
-  rank: 6
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 65
-  rank: 7
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 65
-  rank: 8
+  score: 81.11575875113695
+  llm_score: 85
+  recency_score: 65.57879375568477
+  rank: 3
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 55
+  score: 78.37150396712644
+  llm_score: 75
+  recency_score: 91.85751983563217
+  rank: 4
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 73.1247843082185
+  llm_score: 85
+  recency_score: 25.623921541092447
+  rank: 5
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 71.9939206577845
+  llm_score: 85
+  recency_score: 19.9696032889225
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 71.69014258029426
+  llm_score: 75
+  recency_score: 58.450712901471334
+  rank: 7
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 68.84480344505099
+  llm_score: 85
+  recency_score: 4.224017225254928
+  rank: 8
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 61.93236757167447
+  llm_score: 75
+  recency_score: 9.661837858372358
   rank: 9
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 50
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 55.34240690488217
+  llm_score: 65
+  recency_score: 16.712034524410825
   rank: 10
 ---
 Think you do not need zoning then read this article. Un-zoned properties are just what these developers are looking for and they do not give a damn how THEIR development affects your quality of life.

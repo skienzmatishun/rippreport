@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions
 related_articles:
-- slug: invitation
-  title: INVITATION
-  score: 95
-  rank: 1
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 85
-  rank: 2
 - slug: s-o-s
   title: S.O.S
-  score: 85
-  rank: 3
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 85
-  rank: 4
+  score: 86.12155541422004
+  llm_score: 85
+  recency_score: 90.60777707110016
+  rank: 1
+- slug: invitation
+  title: INVITATION
+  score: 85.28693882755796
+  llm_score: 95
+  recency_score: 46.434694137789805
+  rank: 2
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 85
-  rank: 5
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 75
-  rank: 6
+  score: 84.64601135914225
+  llm_score: 85
+  recency_score: 83.23005679571122
+  rank: 3
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 75
+  score: 82.20034869269523
+  llm_score: 85
+  recency_score: 71.00174346347615
+  rank: 4
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 81.96882643931993
+  llm_score: 85
+  recency_score: 69.84413219659965
+  rank: 5
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 77.67654461491676
+  llm_score: 85
+  recency_score: 48.38272307458382
+  rank: 6
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 77.33796583595118
+  llm_score: 85
+  recency_score: 46.6898291797559
   rank: 7
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 75
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 77.1355247284506
+  llm_score: 85
+  recency_score: 45.67762364225301
   rank: 8
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 70
-  rank: 9
 - slug: happy-days-are-here-again
   title: HAPPY DAYS ARE HERE AGAIN
-  score: 65
+  score: 60.406505370953056
+  llm_score: 75
+  recency_score: 2.032526854765281
+  rank: 9
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 59.13916117711129
+  llm_score: 65
+  recency_score: 35.69580588555647
   rank: 10
 ---
 Fairhope is seeing the results of a Council and Mayor more dedicated to special interests than the majority of their constitutes.

@@ -14,45 +14,65 @@ authors:
 - ripp-report
 alttags: Community voices raised in protest against development decisions, mirroring a past controversy
 related_articles:
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 90
-  rank: 1
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 90
-  rank: 2
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020
-  score: 85
-  rank: 3
+  score: 87.33256271585593
+  llm_score: 90
+  recency_score: 76.66281357927963
+  rank: 1
 - slug: people-power-wake-up-gulf-shores
   title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 85
-  rank: 4
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 85
-  rank: 5
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 75
-  rank: 6
-- slug: history-repeating-itself
-  title: History repeating itself
-  score: 75
-  rank: 7
+  score: 86.55484684113631
+  llm_score: 90
+  recency_score: 72.77423420568157
+  rank: 2
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 75
-  rank: 8
+  score: 76.86431479647436
+  llm_score: 85
+  recency_score: 44.32157398237182
+  rank: 3
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 76.49327389504337
+  llm_score: 90
+  recency_score: 22.466369475216847
+  rank: 4
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
+  score: 76.14253972246432
+  llm_score: 85
+  recency_score: 40.71269861232158
+  rank: 5
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 75.07025208563968
+  llm_score: 90
+  recency_score: 15.35126042819837
+  rank: 6
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 73.52673204660475
+  llm_score: 90
+  recency_score: 7.633660233023765
+  rank: 7
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 73.2917607964549
+  llm_score: 90
+  recency_score: 6.458803982274494
+  rank: 8
+- slug: fairness
+  title: FAIRNESS
+  score: 71.12113908637559
+  llm_score: 85
+  recency_score: 15.605695431877937
   rank: 9
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 65
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 69.59952206667232
+  llm_score: 85
+  recency_score: 7.997610333361606
   rank: 10
 ---
 Gulf Shores Mayor and Council are acting the same way the previous Mayor of Fairhope, Tim Kant, acted involving the controversy of the Fairhope Fly Creek Apartments. The Mayor and his buddy developer ignored the sentiments of the community. It cost the Mayor his job as well as a few councilman. The collateral effect in Fairhope resulted in firings, retirements and resignations of over a dozen employees, who needed to go.

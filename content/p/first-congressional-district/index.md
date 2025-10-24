@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Carl, a Republican candidate in Alabama’s AL-1 race, opposes “Catalyst,” described as the status quo benefiting from politics
 related_articles:
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 95.35315705036788
+  llm_score: 95
+  recency_score: 96.76578525183945
+  rank: 1
 - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
   title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 95
-  rank: 1
+  score: 95.0898528806295
+  llm_score: 95
+  recency_score: 95.44926440314748
+  rank: 2
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 92
-  rank: 2
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 90
+  score: 93.32789538259509
+  llm_score: 92
+  recency_score: 98.63947691297537
   rank: 3
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 85
-  rank: 4
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 85
+  score: 90.51502512362764
+  llm_score: 95
+  recency_score: 72.57512561813819
+  rank: 4
+- slug: runoff
+  title: RUNOFF
+  score: 90.43570824436047
+  llm_score: 95
+  recency_score: 72.17854122180232
   rank: 5
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 88.83141751730334
+  llm_score: 95
+  recency_score: 64.15708758651667
   rank: 6
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 85
+  score: 85.43964342023084
+  llm_score: 85
+  recency_score: 87.19821710115417
   rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 70.7742759876368
+  llm_score: 85
+  recency_score: 13.871379938184003
+  rank: 8
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 85
-  rank: 8
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 65
+  score: 70.6772050791888
+  llm_score: 85
+  recency_score: 13.386025395943985
   rank: 9
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 65
+  score: 62.00792557433363
+  llm_score: 75
+  recency_score: 10.039627871668154
   rank: 10
 ---
 This is a very important election and the sparks are flying but when the dust settles it is clear that one major distinction stands out in the race CATALYST.

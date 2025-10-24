@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Bald eagle head against an American flag background, symbolizing civic duty and encouraging voters to participate in upcom...
 related_articles:
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 90.07197526621852
+  llm_score: 90
+  recency_score: 90.35987633109261
+  rank: 1
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 90
-  rank: 1
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 85
+  score: 89.97322154942498
+  llm_score: 90
+  recency_score: 89.86610774712484
   rank: 2
 - slug: wonderful-wednesday
   title: WONDERFUL WEDNESDAY
-  score: 75
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 3
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 75
+- slug: people-power
+  title: PEOPLE POWER
+  score: 82.43570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
   rank: 4
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 82.27111348555951
+  llm_score: 80
+  recency_score: 91.35556742779755
   rank: 5
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 75
+  score: 72.81181686451524
+  llm_score: 85
+  recency_score: 24.0590843225762
   rank: 6
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 75
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 71.84362989425284
+  llm_score: 85
+  recency_score: 19.21814947126418
   rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 70.06935946639769
+  llm_score: 85
+  recency_score: 10.34679733198841
+  rank: 8
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 68.33556521520711
+  llm_score: 85
+  recency_score: 1.6778260760355546
+  rank: 9
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
-  rank: 8
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 70
-  rank: 9
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+  score: 62.08072954482946
+  llm_score: 75
+  recency_score: 10.403647724147305
   rank: 10
 ---
 This is the first day after qualification for municipal elections. During the campaign, we will endorse certain candidates that we feel put public service before personal interests. Our endorsement does not come lightly and we intend to follow up after elections to see if successful candidates live up to their word. **Please VOTE**. Check and see if you are properly registered to vote. It will only take a few minutes at the satellite courthouse in Fairhope, Board of Registrar’s.

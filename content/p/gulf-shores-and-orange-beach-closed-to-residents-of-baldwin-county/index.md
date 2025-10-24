@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid development discussed in the article
 related_articles:
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 90
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
   rank: 1
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 85
-  rank: 2
 - slug: people-power-wake-up-gulf-shores
   title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 85
+  score: 82.83667471122875
+  llm_score: 85
+  recency_score: 74.18337355614374
+  rank: 2
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 76.41953853153237
+  llm_score: 75
+  recency_score: 82.09769265766185
   rank: 3
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020
-  score: 75
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
   rank: 4
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 75
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 75.6243624959536
+  llm_score: 85
+  recency_score: 38.121812479767996
   rank: 5
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 74.32839938269227
+  llm_score: 85
+  recency_score: 31.641996913461323
+  rank: 6
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 72.60477556093977
+  llm_score: 90
+  recency_score: 3.0238778046988695
+  rank: 7
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 75
-  rank: 6
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 70
-  rank: 7
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 65
+  score: 62.99547296281644
+  llm_score: 75
+  recency_score: 14.977364814082216
   rank: 8
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 60
+  score: 58.20818920394051
+  llm_score: 65
+  recency_score: 31.040946019702552
   rank: 9
-- slug: belize-vacation-another-world
-  title: BELIZE VACATION - ANOTHER WORLD
-  score: 45
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 52.596547449808504
+  llm_score: 65
+  recency_score: 2.9827372490425272
   rank: 10
 ---
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey,
