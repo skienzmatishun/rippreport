@@ -12,43 +12,63 @@ alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to S
 related_articles:
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 100
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
   rank: 1
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 92
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 2
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 92
+  score: 83.60000000000001
+  llm_score: 92
+  recency_score: 50
   rank: 3
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 83.60000000000001
+  llm_score: 92
+  recency_score: 50
+  rank: 4
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 92
-  rank: 4
+  score: 83.60000000000001
+  llm_score: 92
+  recency_score: 50
+  rank: 5
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
+  rank: 6
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 89
-  rank: 5
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 85
-  rank: 6
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 85
+  score: 81.2
+  llm_score: 89
+  recency_score: 50
   rank: 7
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 8
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 8
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 85
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 65
+  score: 62.0
+  llm_score: 65
+  recency_score: 50
   rank: 10
 ---
 ### Mr Steve Marshall

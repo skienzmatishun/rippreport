@@ -9,45 +9,65 @@ authors:
 - admin
 alttags: Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct...
 related_articles:
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 92
-  rank: 1
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 92
-  rank: 2
+  score: 99.62009294457451
+  llm_score: 100
+  recency_score: 98.10046472287257
+  rank: 1
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 92
+  score: 98.62490003199702
+  llm_score: 100
+  recency_score: 93.12450015998506
+  rank: 2
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 85.25815862604524
+  llm_score: 92
+  recency_score: 58.29079313022616
   rank: 3
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 92
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 79.76030246445875
+  llm_score: 95
+  recency_score: 18.801512322293714
   rank: 4
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 92
-  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 90
+  score: 79.02828195143118
+  llm_score: 92
+  recency_score: 27.14140975715586
+  rank: 5
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 78.5068323515118
+  llm_score: 95
+  recency_score: 12.534161757559053
   rank: 6
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 90
+  score: 76.16941302796523
+  llm_score: 92
+  recency_score: 12.847065139826096
   rank: 7
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 74.04619131904495
+  llm_score: 92
+  recency_score: 2.230956595224708
+  rank: 8
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 8
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 85
+  score: 73.99769259535007
+  llm_score: 92
+  recency_score: 1.9884629767503073
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 78
+  score: 68.47261545821016
+  llm_score: 85
+  recency_score: 2.363077291050805
   rank: 10
 ---
 Alabama Ethics Commission is an organization that doles out immunity from prosecution to politicians seeking legal graft.

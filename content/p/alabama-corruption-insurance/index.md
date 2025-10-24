@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti...
 related_articles:
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 95
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 87.43670779028002
+  llm_score: 95
+  recency_score: 57.18353895140014
   rank: 1
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 95
+  score: 86.85660194836281
+  llm_score: 95
+  recency_score: 54.28300974181401
   rank: 2
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 92
+  score: 85.25815862604524
+  llm_score: 92
+  recency_score: 58.29079313022616
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 92
-  rank: 4
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 92
+  score: 80.30056311965313
+  llm_score: 95
+  recency_score: 21.50281559826569
+  rank: 4
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 78.19191013062844
+  llm_score: 95
+  recency_score: 10.959550653142209
   rank: 5
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 92
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 77.49773123279229
+  llm_score: 95
+  recency_score: 7.488656163961433
   rank: 6
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 76.76545762218078
+  llm_score: 95
+  recency_score: 3.827288110903858
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 76.76418860283415
+  llm_score: 92
+  recency_score: 15.820943014170737
+  rank: 8
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 7
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 8
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 75
+  score: 68.68225627752497
+  llm_score: 85
+  recency_score: 3.4112813876248462
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 65
+  score: 52.810789205002415
+  llm_score: 65
+  recency_score: 4.053946025012058
   rank: 10
 ---
 Why is Alabama so corrupt?

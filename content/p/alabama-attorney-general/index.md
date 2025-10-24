@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values
 related_articles:
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 100
-  rank: 1
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 95
-  rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 95
-  rank: 3
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 90
-  rank: 4
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 90
-  rank: 5
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 90
-  rank: 6
+  score: 90.79608191931776
+  llm_score: 95
+  recency_score: 73.98040959658876
+  rank: 1
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 2
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 85
-  rank: 7
+  score: 86.72723439081022
+  llm_score: 85
+  recency_score: 93.63617195405108
+  rank: 3
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 77.47735425358857
+  llm_score: 95
+  recency_score: 7.3867712679428434
+  rank: 4
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 73.95366066397163
+  llm_score: 90
+  recency_score: 9.768303319858143
+  rank: 5
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 85
-  rank: 8
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 85
-  rank: 9
+  score: 73.47331224721167
+  llm_score: 90
+  recency_score: 7.366561236058354
+  rank: 6
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 85
+  score: 72.10485586290197
+  llm_score: 85
+  recency_score: 20.524279314509858
+  rank: 7
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 69.93236757167448
+  llm_score: 85
+  recency_score: 9.661837858372358
+  rank: 8
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 68.03500680065547
+  llm_score: 85
+  recency_score: 0.1750340032773369
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 56.05638790447402
+  llm_score: 70
+  recency_score: 0.28193952237011366
   rank: 10
 ---
 Reference: Mabel Amos Trust
