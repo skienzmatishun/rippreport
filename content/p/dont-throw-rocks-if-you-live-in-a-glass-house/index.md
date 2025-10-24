@@ -17,43 +17,63 @@ alttags: Broken glass against a dark background, symbolizing former Mayor Kant�
 related_articles:
 - slug: showing-your-true-colors
   title: SHOWING YOUR TRUE COLORS
-  score: 85
+  score: 88.50975554986516
+  llm_score: 90
+  recency_score: 82.54877774932578
   rank: 1
-- slug: exit-and-enter
-  title: EXIT AND ENTER
-  score: 85
-  rank: 2
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 85
-  rank: 3
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 85
+  score: 87.88849539476564
+  llm_score: 90
+  recency_score: 79.4424769738282
+  rank: 2
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
+  rank: 3
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 85.15174160583071
+  llm_score: 90
+  recency_score: 65.75870802915355
   rank: 4
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 75
-  rank: 5
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 75
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
+  rank: 5
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
   rank: 6
-- slug: communication
-  title: COMMUNICATION
-  score: 70
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 69.8369256908693
+  llm_score: 75
+  recency_score: 49.18462845434644
   rank: 7
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 65
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 68.10218401165189
+  llm_score: 85
+  recency_score: 0.5109200582594592
   rank: 8
 - slug: fly-on-the-wall
   title: FLY ON THE WALL
-  score: 65
+  score: 60.4924426285117
+  llm_score: 75
+  recency_score: 2.4622131425584706
   rank: 9
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 65
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 60.44864291354821
+  llm_score: 75
+  recency_score: 2.24321456774108
   rank: 10
 ---
 Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and promised to represent them to the best of her abilities. She was humble and appreciated the trust the citizens had in her ability.

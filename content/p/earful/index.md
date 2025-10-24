@@ -11,43 +11,63 @@ alttags: 'Podcast artwork: stylized ear graphic representing the Verbal Lynching
 related_articles:
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 100
+  score: 99.14222555805995
+  llm_score: 100
+  recency_score: 95.71112779029973
   rank: 1
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 95
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 95.40625209818191
+  llm_score: 95
+  recency_score: 97.03126049090956
   rank: 2
 - slug: innocent
   title: INNOCENT
-  score: 95
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 3
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 95
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 4
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 6
 - slug: the-lie-of-the-century
   title: The Lie of The Century
-  score: 95
-  rank: 5
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 7
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 95
-  rank: 6
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 8
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 85
-  rank: 7
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 75
-  rank: 8
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 75
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 9
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 65
+- slug: no-justice
+  title: NO JUSTICE
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
   rank: 10
 ---
 The narrative of the wrongful conviction of Murray Lawrence Jr., A Verbal Lynching in Alabama, has been recorded for a podcast.

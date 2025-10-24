@@ -10,43 +10,63 @@ alttags: Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
-  score: 95
+  score: 91.29061318606567
+  llm_score: 95
+  recency_score: 76.45306593032835
   rank: 1
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 85
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 84.7391611771113
+  llm_score: 97
+  recency_score: 35.69580588555647
   rank: 2
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 85
+  score: 76.60976680282933
+  llm_score: 95
+  recency_score: 3.0488340141466597
   rank: 3
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 85
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
   rank: 4
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 75
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 73.02743722240719
+  llm_score: 85
+  recency_score: 25.13718611203594
   rank: 5
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 75
-  rank: 6
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 65
+  score: 72.04781069641929
+  llm_score: 75
+  recency_score: 60.23905348209645
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 65.82610187044024
+  llm_score: 60
+  recency_score: 89.13050935220119
   rank: 7
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 65
+  score: 65.11575875113695
+  llm_score: 65
+  recency_score: 65.57879375568477
   rank: 8
-- slug: s-o-s
-  title: S.O.S
-  score: 65
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 57.71761680752583
+  llm_score: 70
+  recency_score: 8.588084037629146
   rank: 9
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 50
+  score: 57.09678009225723
+  llm_score: 65
+  recency_score: 25.48390046128612
   rank: 10
 ---
 DOUBLE RED FLAGS at the beach this weekend. Rip-currents rough seas and high water.

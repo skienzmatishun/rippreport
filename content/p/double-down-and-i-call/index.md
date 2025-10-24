@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Casino chips representing bids under review at Fairhope Airport, amid claims of legality and investigation calls
 related_articles:
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 90
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 90.98553700495827
+  llm_score: 90
+  recency_score: 94.92768502479139
   rank: 1
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 90
+  score: 90.07197526621852
+  llm_score: 90
+  recency_score: 90.35987633109261
   rank: 2
 - slug: investigating-the-investigators
   title: Investigating the Investigators
-  score: 85
+  score: 88.41953853153237
+  llm_score: 90
+  recency_score: 82.09769265766185
   rank: 3
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 85
-  rank: 4
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 5
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 85
-  rank: 6
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 7
 - slug: nuff-said
   title: NUFF SAID
-  score: 85
-  rank: 8
+  score: 87.45910309586523
+  llm_score: 90
+  recency_score: 77.29551547932614
+  rank: 4
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 87.25024389308274
+  llm_score: 95
+  recency_score: 56.25121946541366
+  rank: 5
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 87.14222555805995
+  llm_score: 85
+  recency_score: 95.71112779029973
+  rank: 6
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
+  rank: 7
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 75
+  score: 79.91650071517822
+  llm_score: 85
+  recency_score: 59.582503575891096
+  rank: 8
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 74.09026245994085
+  llm_score: 85
+  recency_score: 30.451312299704224
   rank: 9
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 75
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 66.55537255464941
+  llm_score: 80
+  recency_score: 12.776862773247046
   rank: 10
 ---
 Fairhope City Council President, Fairhope Authority board member and Fairhope Authority Board Member who is on two man committee to review bids at the airport, Jack Burrell is double down. He insists that everything at the airport is perfectly legal and every one is as happy as larks.

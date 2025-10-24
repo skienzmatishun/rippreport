@@ -8,45 +8,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 95
-  rank: 1
 - slug: the-jester
   title: THE JESTER
-  score: 95
+  score: 92.82943663570212
+  llm_score: 95
+  recency_score: 84.14718317851063
+  rank: 1
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 87.31205826488139
+  llm_score: 95
+  recency_score: 56.56029132440696
   rank: 2
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 85
-  rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 75
-  rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75
-  rank: 6
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 75
-  rank: 7
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 70
-  rank: 8
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 65
+  score: 78.59217832844679
+  llm_score: 85
+  recency_score: 52.96089164223393
+  rank: 3
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 73.06892890441665
+  llm_score: 85
+  recency_score: 25.34464452208322
+  rank: 4
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 69.91655019046412
+  llm_score: 85
+  recency_score: 9.582750952320627
+  rank: 5
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 68.37340575175611
+  llm_score: 85
+  recency_score: 1.867028758780569
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 67.5206312839577
+  llm_score: 75
+  recency_score: 37.60315641978851
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.66625449247667
+  llm_score: 70
+  recency_score: 38.33127246238332
+  rank: 8
+- slug: hate
+  title: HATE
+  score: 62.24662907448485
+  llm_score: 75
+  recency_score: 11.233145372424257
   rank: 9
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 65
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 48.402074838802505
+  llm_score: 60
+  recency_score: 2.0103741940125253
   rank: 10
 ---
 The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are benefiting, with an insurance package, from a part time job, that other part time employees are exempt from.

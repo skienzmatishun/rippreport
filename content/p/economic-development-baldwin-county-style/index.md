@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Sign advertising the vacant South Alabama Mega Site, a 3000-acre industrial property purchased by Baldwin County in 2012
 related_articles:
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 95
-  rank: 1
-- slug: dead-last
-  title: DEAD LAST
-  score: 85
-  rank: 2
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 85
-  rank: 3
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 85
-  rank: 4
+  score: 83.67232874673901
+  llm_score: 85
+  recency_score: 78.36164373369505
+  rank: 1
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 75
+  score: 81.06074595483393
+  llm_score: 90
+  recency_score: 45.30372977416965
+  rank: 2
+- slug: dead-last
+  title: DEAD LAST
+  score: 78.22156185864796
+  llm_score: 85
+  recency_score: 51.107809293239825
+  rank: 3
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 76.29827267964413
+  llm_score: 95
+  recency_score: 1.4913633982206251
+  rank: 4
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 73.14506144686581
+  llm_score: 90
+  recency_score: 5.7253072343290325
   rank: 5
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 75
-  rank: 6
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 75
-  rank: 7
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 75
+  score: 72.19136306432593
+  llm_score: 90
+  recency_score: 0.9568153216296585
+  rank: 6
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 71.77061878848929
+  llm_score: 85
+  recency_score: 18.853093942446446
+  rank: 7
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 60.94782746243795
+  llm_score: 75
+  recency_score: 4.7391373121897375
   rank: 8
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 60.18875952565574
+  llm_score: 75
+  recency_score: 0.9437976282786975
+  rank: 9
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 65
-  rank: 9
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 50
+  score: 54.41250054564074
+  llm_score: 65
+  recency_score: 12.0625027282037
   rank: 10
 ---
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site.

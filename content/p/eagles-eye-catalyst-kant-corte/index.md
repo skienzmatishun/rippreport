@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: Aerial view showing Highway 98 and Parker Road intersection in Fairhope, potentially impacted by new apartment development
 related_articles:
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 95
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 90.57394274499862
+  llm_score: 90
+  recency_score: 92.86971372499306
   rank: 1
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 75
-  rank: 2
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
+  rank: 2
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 80.73336508087172
+  llm_score: 95
+  recency_score: 23.666825404358608
   rank: 3
-- slug: misery-loves-company
-  title: MISERY LOVES COMPANY
-  score: 75
-  rank: 4
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 75
-  rank: 5
 - slug: fairness
   title: FAIRNESS
-  score: 75
+  score: 74.9843887437238
+  llm_score: 85
+  recency_score: 34.921943718618955
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 74.87051538361202
+  llm_score: 85
+  recency_score: 34.35257691806009
+  rank: 5
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 74.32171843450436
+  llm_score: 90
+  recency_score: 11.608592172521774
   rank: 6
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 71.70914268128783
+  llm_score: 85
+  recency_score: 18.545713406439127
+  rank: 7
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 64.43777438120516
+  llm_score: 70
+  recency_score: 42.18887190602582
+  rank: 8
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'
-  score: 70
-  rank: 7
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 65
-  rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
+  score: 63.793316599143736
+  llm_score: 70
+  recency_score: 38.96658299571869
   rank: 9
 - slug: survey
   title: SURVEY
-  score: 65
+  score: 59.40712647419586
+  llm_score: 70
+  recency_score: 17.035632370979314
   rank: 10
 ---
 The Ripp Report has called on the Baldwin county Legal Eagle to dispatch the Eagle for a bird’s eye view of what developers do not want you to see. The Kant Corte Apartments on Fly Creek are busy clearing the property for the Apartments and their entrance and exit.
