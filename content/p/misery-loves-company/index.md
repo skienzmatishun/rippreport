@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Intersection in Daphne, Alabama, near Johnson Road and Highway 98, showing recent apartment construction impacting develop...
 related_articles:
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 85
-  rank: 1
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 85
-  rank: 2
-- slug: danger-zone
-  title: DANGER ZONE
-  score: 85
-  rank: 3
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 70
-  rank: 4
+  score: 76.43777438120516
+  llm_score: 85
+  recency_score: 42.18887190602582
+  rank: 1
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 73.56484545462025
+  llm_score: 90
+  recency_score: 7.82422727310126
+  rank: 2
 - slug: tale-of-two-cities
   title: TALE OF TWO CITIES
-  score: 65
+  score: 71.9452804719372
+  llm_score: 65
+  recency_score: 99.72640235968593
+  rank: 3
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 70.47244604336203
+  llm_score: 65
+  recency_score: 92.36223021681012
+  rank: 4
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 69.4101237676789
+  llm_score: 85
+  recency_score: 7.050618838394492
   rank: 5
-- slug: dead-last
-  title: DEAD LAST
-  score: 65
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 68.7833916941887
+  llm_score: 65
+  recency_score: 83.91695847094347
   rank: 6
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 68.21119938101535
+  llm_score: 85
+  recency_score: 1.0559969050767497
+  rank: 7
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 61.26152998206835
+  llm_score: 65
+  recency_score: 46.30764991034176
+  rank: 8
 - slug: mega-mistake
   title: MEGA-MISTAKE
-  score: 65
-  rank: 7
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 65
-  rank: 8
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 60
+  score: 54.50683235151181
+  llm_score: 65
+  recency_score: 12.534161757559053
   rank: 9
 - slug: corridor-of-chaos
   title: CORRIDOR OF CHAOS
-  score: 45
+  score: 49.996953330813525
+  llm_score: 60
+  recency_score: 9.984766654067629
   rank: 10
 ---
 Daphne and Fairhope have a lot more in common than some think. One thing is that, if you allow the developers full rein, they will develop every square inch of land.

@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Blurred police car lights suggest investigation into allegations surrounding Jack Burrell and legal incidents in Fairhope
 related_articles:
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 85
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 85.44318114711444
+  llm_score: 90
+  recency_score: 67.21590573557219
   rank: 1
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 85
-  rank: 2
 - slug: law-and-disorder-part-1
   title: LAW and DisORDER Part 1
-  score: 75
+  score: 83.33256271585593
+  llm_score: 85
+  recency_score: 76.66281357927963
+  rank: 2
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 75.5206312839577
+  llm_score: 85
+  recency_score: 37.60315641978851
   rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 75
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 72.04900835119811
+  llm_score: 85
+  recency_score: 20.245041755990528
   rank: 4
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 75
+  score: 68.26008845874951
+  llm_score: 85
+  recency_score: 1.3004422937475715
   rank: 5
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 75
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 68.08184747183437
+  llm_score: 85
+  recency_score: 0.4092373591718279
   rank: 6
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 75
+- slug: no-justice
+  title: NO JUSTICE
+  score: 68.06812169729359
+  llm_score: 85
+  recency_score: 0.3406084864679812
   rank: 7
 - slug: rumors
   title: RUMORS
-  score: 65
+  score: 60.24554679806137
+  llm_score: 75
+  recency_score: 1.2277339903068436
   rank: 8
-- slug: justified
-  title: JUSTIFIED
-  score: 65
-  rank: 9
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 65
+  score: 56.6935641358793
+  llm_score: 70
+  recency_score: 3.467820679396488
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 56.01341855213961
+  llm_score: 70
+  recency_score: 0.06709276069805299
   rank: 10
 ---
 A DOCUMENT FOR CATALYST

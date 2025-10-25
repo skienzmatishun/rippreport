@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Silhouettes of figures in suits, representing officials accused of misconduct and abuse of power as detailed in this article
 related_articles:
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 85
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
   rank: 1
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 85
-  rank: 2
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 85
-  rank: 3
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
-  rank: 4
 - slug: stealing-our-democracy
   title: STEALING OUR DEMOCRACY
-  score: 75
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 83.50151487477555
+  llm_score: 85
+  recency_score: 77.50757437387774
+  rank: 3
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 83.08258086352161
+  llm_score: 85
+  recency_score: 75.41290431760807
+  rank: 4
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
   rank: 5
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 68.99847316637967
+  llm_score: 85
+  recency_score: 4.992365831898315
+  rank: 6
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 68.52017874039542
+  llm_score: 85
+  recency_score: 2.6008937019770966
+  rank: 7
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 64.83825535238421
+  llm_score: 75
+  recency_score: 24.19127676192105
+  rank: 8
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 75
-  rank: 6
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 65
-  rank: 7
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 65
-  rank: 8
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 65
+  score: 56.28392014867473
+  llm_score: 70
+  recency_score: 1.4196007433736515
   rank: 9
-- slug: scary
-  title: SCARY
-  score: 60
+- slug: open-your-eyes
+  title: OPEN YOUR EYES
+  score: 54.4592141866564
+  llm_score: 65
+  recency_score: 12.296070933282007
   rank: 10
 ---
 9/11 let us never forget, over 3000 lives lost. Today we face another tragedy, Covid-19, which is claiming in the United States, 6000 lives a week, 192,000 to date, Think about that.

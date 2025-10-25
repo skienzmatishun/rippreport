@@ -9,43 +9,63 @@ authors:
 related_articles:
 - slug: backstory-podcast-2
   title: BACKSTORY PODCAST
-  score: 98
+  score: 83.70914268128783
+  llm_score: 100
+  recency_score: 18.545713406439127
   rank: 1
 - slug: backstory-153
   title: No Boomers
-  score: 95
+  score: 80.03793035989311
+  llm_score: 95
+  recency_score: 20.189651799465537
   rank: 2
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 79.12113908637559
+  llm_score: 95
+  recency_score: 15.605695431877937
+  rank: 3
 - slug: backstory-podcast
   title: BACKSTORY PODCAST
-  score: 95
-  rank: 3
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 95
+  score: 78.57646216765951
+  llm_score: 95
+  recency_score: 12.882310838297602
   rank: 4
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 75
+  score: 65.89329029325975
+  llm_score: 75
+  recency_score: 29.466451466298754
   rank: 5
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 75
-  rank: 6
 - slug: backstory-podcast-6
   title: BACKSTORY PODCAST 6
-  score: 75
+  score: 62.874866522332404
+  llm_score: 75
+  recency_score: 14.374332611662021
+  rank: 6
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 59.19905534400357
+  llm_score: 70
+  recency_score: 15.995276720017856
   rank: 7
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 58.89859293447587
+  llm_score: 70
+  recency_score: 14.49296467237936
+  rank: 8
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'
-  score: 70
-  rank: 8
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 70
+  score: 58.72904423720288
+  llm_score: 70
+  recency_score: 13.645221186014394
   rank: 9
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 65
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 58.548381115638655
+  llm_score: 70
+  recency_score: 12.741905578193274
   rank: 10
 ---
 This week for our 100th Episode we have a special guest: Alabama State Auditor Jim Zeigler(R). He is poised to announce that he will challenge Alabama Governor Kay Ivey for the Republican nomination (we talk prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).

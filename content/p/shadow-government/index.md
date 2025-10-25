@@ -10,43 +10,63 @@ alttags: Silhouettes of five men in suits, representing a shadowy group controll
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 95
+  score: 95.24740235768714
+  llm_score: 95
+  recency_score: 96.23701178843567
   rank: 1
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 95
-  rank: 2
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 95
-  rank: 3
+  score: 94.17127158449026
+  llm_score: 95
+  recency_score: 90.85635792245131
+  rank: 2
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 95
+  score: 93.06156314124607
+  llm_score: 95
+  recency_score: 85.30781570623031
+  rank: 3
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 91.20705813124003
+  llm_score: 95
+  recency_score: 76.03529065620016
   rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 95
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 79.3607717319103
+  llm_score: 95
+  recency_score: 16.8038586595515
   rank: 5
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 95
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 78.63355597126228
+  llm_score: 95
+  recency_score: 13.167779856311412
   rank: 6
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 90
+  score: 74.68454994448997
+  llm_score: 90
+  recency_score: 13.422749722449872
   rank: 7
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 72.01698371044944
+  llm_score: 90
+  recency_score: 0.08491855224716904
+  rank: 8
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 85
-  rank: 8
+  score: 71.12970187685954
+  llm_score: 85
+  recency_score: 15.648509384297702
+  rank: 9
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 85
-  rank: 9
-- slug: shadow-government-southern-style
-  title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 75
+  score: 69.66206539141994
+  llm_score: 85
+  recency_score: 8.310326957099722
   rank: 10
 ---
 Baldwin County, especially Fairhope has been run by a shadow government, for many years. Good ole boys that only answer to each other, all connected by the bond to rule within. Call it Catalyst or Gumbo, referred to as the South Baldwin arm of Catalyst. Gumbo convinced Jeff Boyd to throw David Northcutt under the bus, after he had spent weeks telling us what a poor choice Elliott was. Elliott was the choice of CATAYST, the Shadow Government.

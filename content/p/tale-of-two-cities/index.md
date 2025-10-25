@@ -13,43 +13,63 @@ alttags: Daphne City Hall building, site of a planning meeting regarding zoning 
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 85
+  score: 88.24058076477368
+  llm_score: 90
+  recency_score: 81.20290382386844
   rank: 1
 - slug: follow-bouncing-ball
   title: FOLLOW THE BOUNCING BALL
-  score: 85
+  score: 81.11575875113695
+  llm_score: 85
+  recency_score: 65.57879375568477
   rank: 2
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 75
-  rank: 3
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 70
-  rank: 4
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 70
-  rank: 5
 - slug: fairness
   title: FAIRNESS
-  score: 70
+  score: 76.50975554986516
+  llm_score: 75
+  recency_score: 82.54877774932578
+  rank: 3
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 76.07588902065244
+  llm_score: 85
+  recency_score: 40.37944510326223
+  rank: 4
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 72.65619237382862
+  llm_score: 85
+  recency_score: 23.280961869143056
+  rank: 5
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 69.8369256908693
+  llm_score: 75
+  recency_score: 49.18462845434644
   rank: 6
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 70
+  score: 64.46092326761413
+  llm_score: 70
+  recency_score: 42.3046163380707
   rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
-  rank: 8
-- slug: survey
-  title: SURVEY
-  score: 65
-  rank: 9
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
-  score: 65
+  score: 61.749753193901086
+  llm_score: 70
+  recency_score: 28.748765969505406
+  rank: 8
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 61.11053014836325
+  llm_score: 65
+  recency_score: 45.55265074181627
+  rank: 9
+- slug: survey
+  title: SURVEY
+  score: 57.4413717830614
+  llm_score: 70
+  recency_score: 7.206858915306978
   rank: 10
 ---
 On Wonderful Wednesday we posted a story about Daphmont Neighborhood in Daphne.

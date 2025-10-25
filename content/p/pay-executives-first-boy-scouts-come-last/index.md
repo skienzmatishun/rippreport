@@ -11,45 +11,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 75
-  rank: 1
 - slug: fire
   title: FIRE
-  score: 70
+  score: 85.39192896735389
+  llm_score: 85
+  recency_score: 86.95964483676948
+  rank: 1
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 69.59733732681245
+  llm_score: 75
+  recency_score: 47.986686634062245
   rank: 2
 - slug: comment-are-you-surprised-at-all
   title: 'Comment: Are You Surprised at all??????'
-  score: 70
+  score: 65.54489299140458
+  llm_score: 70
+  recency_score: 47.72446495702292
   rank: 3
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 70
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 63.916500715178216
+  llm_score: 65
+  recency_score: 59.582503575891096
   rank: 4
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 65
-  rank: 5
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 55
-  rank: 6
+  score: 57.94192790244709
+  llm_score: 65
+  recency_score: 29.70963951223547
+  rank: 5
 - slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
   title: WHO’S RESPONSIBLE?
-  score: 50
-  rank: 7
+  score: 57.466763336741536
+  llm_score: 60
+  recency_score: 47.33381668370766
+  rank: 6
 - slug: do-your-job-pass-the-budget
   title: DO YOUR JOB, PASS THE BUDGET
-  score: 50
+  score: 57.05506043454496
+  llm_score: 65
+  recency_score: 25.27530217272481
+  rank: 7
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 52.2862633553631
+  llm_score: 65
+  recency_score: 1.431316776815486
   rank: 8
 - slug: honey-bees
   title: HONEY BEES
-  score: 50
+  score: 40.826488648441
+  llm_score: 50
+  recency_score: 4.13244324220501
   rank: 9
-- slug: you-re-fired
-  title: YOU'RE FIRED
-  score: 50
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 40.03831928544819
+  llm_score: 50
+  recency_score: 0.19159642724092793
   rank: 10
 ---
 "HARD FACTS" Baldwin County Commissioner, Tucker Dorsey, along with fellow Mobile Area Boy Scout Board of Directors, has released that the Local Council again lost almost $200,000 for 2015. Making the average yearly loss since 2008— and for the past 9 years, of over $200,000 each year — along with even having one year topping the $311,000 mark.

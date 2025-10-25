@@ -10,43 +10,63 @@ alttags: Aerial view of recreation land in Fairhope, purchased for $2.6 million 
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 95
+  score: 88.83141751730334
+  llm_score: 95
+  recency_score: 64.15708758651667
   rank: 1
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 90
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
   rank: 2
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 90
-  rank: 3
 - slug: disposal
   title: DISPOSAL
-  score: 85
+  score: 85.08560395285723
+  llm_score: 95
+  recency_score: 45.42801976428615
+  rank: 3
+- slug: truth
+  title: TRUTH
+  score: 82.55484684113631
+  llm_score: 85
+  recency_score: 72.77423420568157
   rank: 4
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 85
+  score: 81.33314208208326
+  llm_score: 85
+  recency_score: 66.66571041041625
   rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 85
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 81.20972355606835
+  llm_score: 95
+  recency_score: 26.048617780341775
   rank: 6
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE
-  score: 75
+  score: 69.81001209429962
+  llm_score: 75
+  recency_score: 49.0500604714981
   rank: 7
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 75
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 69.14506144686581
+  llm_score: 85
+  recency_score: 5.7253072343290325
   rank: 8
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 65
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 68.89728897152487
+  llm_score: 85
+  recency_score: 4.486444857624386
   rank: 9
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 65
+- slug: dead-last
+  title: DEAD LAST
+  score: 62.240482350350455
+  llm_score: 75
+  recency_score: 11.20241175175226
   rank: 10
 ---
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19.

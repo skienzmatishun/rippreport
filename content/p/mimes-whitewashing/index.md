@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Fairhope City Council depicted as mimes, symbolically obstructing the mayor and supporting Burrell
 related_articles:
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 85
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 90.17127158449026
+  llm_score: 90
+  recency_score: 90.85635792245131
   rank: 1
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
+  score: 85.89249424486937
+  llm_score: 90
+  recency_score: 69.4624712243468
   rank: 2
-- slug: communication
-  title: COMMUNICATION
-  score: 85
-  rank: 3
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
-  rank: 4
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 85
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 3
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 84.48464384685742
+  llm_score: 90
+  recency_score: 62.42321923428709
+  rank: 4
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 80.3485727887506
+  llm_score: 85
+  recency_score: 61.74286394375304
   rank: 5
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 85
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 71.97209600919327
+  llm_score: 85
+  recency_score: 19.860480045966312
   rank: 6
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 68.66746539920652
+  llm_score: 85
+  recency_score: 3.337326996032608
+  rank: 7
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 68.25375373890918
+  llm_score: 85
+  recency_score: 1.2687686945458914
+  rank: 8
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 75
-  rank: 7
-- slug: jack-ass
-  title: JACK ASS
-  score: 75
-  rank: 8
+  score: 57.263756251262265
+  llm_score: 70
+  recency_score: 6.318781256311327
+  rank: 9
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
-  score: 75
-  rank: 9
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+  score: 56.489751691900906
+  llm_score: 70
+  recency_score: 2.448758459504532
   rank: 10
 ---
 Fairhope City Council plays to the council TV, like mimes. They smile and say all they want is cooperation from the mayor, then slam the door in her face. The last meeting they made it perfectly clear that they stand united in obstructing the mayor and backing “come fly with me” Burrell. All five council members now have all their cards on Jack. They have vowed to seek revenge for the ethics complaint the mayor filed against Jack. An ethics complaint accompanied by at least 4 other complaints, which now Councilman Brown says has “been ruled baseless.” Mr. Brown knows that what he is saying is not true. Investigations are underway. Mr Brown needs to understand that the Ripp Report does not put all it’s eggs in one basket. We fully intend to expose and expand the scope of authorities that may be interested in exposing corruption at Fairhope Airport.

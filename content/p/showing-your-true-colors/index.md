@@ -16,43 +16,63 @@ alttags: Magnifying glass over a red handprint, symbolizing scrutiny of Mayor Ka
 related_articles:
 - slug: dont-throw-rocks-if-you-live-in-a-glass-house
   title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
-  score: 90
+  score: 88.50975554986516
+  llm_score: 90
+  recency_score: 82.54877774932578
   rank: 1
 - slug: exit-and-enter
   title: EXIT AND ENTER
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 2
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 3
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 85
-  rank: 4
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 75
-  rank: 5
 - slug: follow-bouncing-ball
   title: FOLLOW THE BOUNCING BALL
-  score: 75
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
+  rank: 3
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 79.24740235768714
+  llm_score: 75
+  recency_score: 96.23701178843567
+  rank: 4
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 75.62009294457451
+  llm_score: 70
+  recency_score: 98.10046472287257
+  rank: 5
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 74.17127158449026
+  llm_score: 70
+  recency_score: 90.85635792245131
   rank: 6
-- slug: re-run-doing-nothing
-  title: RE-RUN - DOING NOTHING
-  score: 75
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 73.39192896735389
+  llm_score: 70
+  recency_score: 86.95964483676948
   rank: 7
 - slug: tale-of-two-cities
   title: TALE OF TWO CITIES
-  score: 75
+  score: 68.93747241426176
+  llm_score: 75
+  recency_score: 44.68736207130882
   rank: 8
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 68.13365587162326
+  llm_score: 85
+  recency_score: 0.6682793581163383
   rank: 9
-- slug: re-gift-gift
-  title: RE-GIFT GIFT ??
-  score: 70
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 61.996953330813525
+  llm_score: 75
+  recency_score: 9.984766654067629
   rank: 10
 ---
 Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor, like much of the community, is slowly coming out of shock; and he’s still taking orders from his good ole boy club and a remora-like gaggle of entitled attorneys.

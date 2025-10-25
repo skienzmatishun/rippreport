@@ -22,43 +22,63 @@ alttags: 'Political campaign graphic: Two people in bee costumes flank a red cir
 related_articles:
 - slug: catalyst-last-stand
   title: CATALYST LAST STAND
-  score: 95
+  score: 95.56641283325074
+  llm_score: 95
+  recency_score: 97.83206416625366
   rank: 1
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 95
-  rank: 2
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 90
-  rank: 3
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 90
-  rank: 4
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 90
-  rank: 5
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 85
-  rank: 6
+  score: 94.83013102490949
+  llm_score: 95
+  recency_score: 94.15065512454748
+  rank: 2
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 85
+  score: 91.83629014021759
+  llm_score: 90
+  recency_score: 99.18145070108791
+  rank: 3
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 90.47244604336203
+  llm_score: 90
+  recency_score: 92.36223021681012
+  rank: 4
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 84.87560790070712
+  llm_score: 85
+  recency_score: 84.37803950353559
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 78.59061851767918
+  llm_score: 95
+  recency_score: 12.953092588395847
+  rank: 6
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 77.94298494927645
+  llm_score: 95
+  recency_score: 9.714924746382225
   rank: 7
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 74.43241102906582
+  llm_score: 90
+  recency_score: 12.162055145329097
+  rank: 8
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 74.16802033974548
+  llm_score: 90
+  recency_score: 10.840101698727413
+  rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 85
-  rank: 8
-- slug: i-quit
-  title: I QUIT
-  score: 75
-  rank: 9
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 75
+  score: 72.54497930774862
+  llm_score: 90
+  recency_score: 2.7248965387430797
   rank: 10
 ---
 Please vote today. JERRY CARL. Mr. Carl’s opposition is CATALYST and CATALYST home base is Fairhope.

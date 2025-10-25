@@ -18,45 +18,65 @@ authors:
 - admin
 alttags: Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials
 related_articles:
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 95
-  rank: 1
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 90
-  rank: 2
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 90
-  rank: 3
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 85
+  score: 79.72221428196228
+  llm_score: 85
+  recency_score: 58.61107140981138
+  rank: 1
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 79.49954668641594
+  llm_score: 85
+  recency_score: 57.49773343207967
+  rank: 2
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 76.24154340707243
+  llm_score: 95
+  recency_score: 1.2077170353621032
+  rank: 3
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 76.23760528730483
+  llm_score: 95
+  recency_score: 1.1880264365241602
   rank: 4
-- slug: i-quit
-  title: I QUIT
-  score: 85
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 70.19191013062844
+  llm_score: 85
+  recency_score: 10.959550653142209
   rank: 5
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.826488648441
+  llm_score: 85
+  recency_score: 4.13244324220501
   rank: 6
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 68.38063606814806
+  llm_score: 85
+  recency_score: 1.9031803407402852
   rank: 7
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 85
-  rank: 8
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 9
 - slug: selective-memory
   title: Selective Memory
-  score: 75
+  score: 68.35935453733623
+  llm_score: 85
+  recency_score: 1.7967726866811407
+  rank: 8
+- slug: people-power
+  title: PEOPLE POWER
+  score: 68.26951882445587
+  llm_score: 85
+  recency_score: 1.347594122279338
+  rank: 9
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 68.23118391901212
+  llm_score: 85
+  recency_score: 1.155919595060642
   rank: 10
 ---
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.

@@ -9,43 +9,63 @@ authors:
 related_articles:
 - slug: obituary
   title: OBITUARY
-  score: 95
+  score: 91.80167323219754
+  llm_score: 95
+  recency_score: 79.0083661609877
   rank: 1
 - slug: carolyn-amick
   title: CAROLYN AMICK
-  score: 75
+  score: 76.25484884682434
+  llm_score: 85
+  recency_score: 41.27424423412174
   rank: 2
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 75
-  rank: 3
 - slug: celebration-of-life
   title: CELEBRATION OF LIFE
-  score: 71
-  rank: 4
+  score: 76.03175858967003
+  llm_score: 85
+  recency_score: 40.15879294835018
+  rank: 3
 - slug: never-forget
   title: Never Forget
-  score: 70
+  score: 74.27111348555951
+  llm_score: 70
+  recency_score: 91.35556742779755
+  rank: 4
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 68.65658305422905
+  llm_score: 85
+  recency_score: 3.2829152711452347
   rank: 5
 - slug: loss-of-a-friend
   title: LOSS OF A FRIEND
-  score: 65
+  score: 61.89566156796674
+  llm_score: 75
+  recency_score: 9.47830783983372
   rank: 6
-- slug: happy-thanksgiving-3
-  title: Happy Thanksgiving
-  score: 65
-  rank: 7
-- slug: memorial-day-3
-  title: Memorial Day
-  score: 65
-  rank: 8
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 60
-  rank: 9
 - slug: symbol
   title: Veterans Day
-  score: 50
+  score: 58.52312487593501
+  llm_score: 50
+  recency_score: 92.61562437967505
+  rank: 7
+- slug: combat
+  title: COMBAT
+  score: 55.121139086375585
+  llm_score: 65
+  recency_score: 15.605695431877937
+  rank: 8
+- slug: tonight
+  title: TONIGHT
+  score: 54.766685633998826
+  llm_score: 65
+  recency_score: 13.83342816999413
+  rank: 9
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 40.44012078313703
+  llm_score: 50
+  recency_score: 2.200603915685177
   rank: 10
 ---
 _**Frances J. Neumann**_

@@ -18,43 +18,63 @@ alttags: 'Emotional scene: people embrace amidst concerns over rising COVID-19 c
 related_articles:
 - slug: wear-a-mask
   title: WEAR A MASK
-  score: 85
+  score: 81.89249424486937
+  llm_score: 85
+  recency_score: 69.4624712243468
   rank: 1
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 85
+- slug: m-i-a
+  title: M.I.A
+  score: 73.72869172076295
+  llm_score: 70
+  recency_score: 88.64345860381478
   rank: 2
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 85
+  score: 71.51287958944485
+  llm_score: 65
+  recency_score: 97.56439794722424
   rank: 3
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 75
-  rank: 4
-- slug: honeymoon
-  title: HONEYMOON
-  score: 75
-  rank: 5
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 70
-  rank: 6
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
-  rank: 7
 - slug: dollars-and-lives
   title: DOLLARS AND LIVES
-  score: 65
+  score: 71.0898528806295
+  llm_score: 65
+  recency_score: 95.44926440314748
+  rank: 4
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 70.6795960873464
+  llm_score: 75
+  recency_score: 53.39798043673202
+  rank: 5
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 70.24960453479669
+  llm_score: 75
+  recency_score: 51.24802267398346
+  rank: 6
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 67.71532550649245
+  llm_score: 65
+  recency_score: 78.57662753246225
+  rank: 7
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 64.3824508821773
+  llm_score: 65
+  recency_score: 61.91225441088648
   rank: 8
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 60
+  score: 57.59733732681245
+  llm_score: 60
+  recency_score: 47.986686634062245
   rank: 9
-- slug: m-i-a
-  title: M.I.A
-  score: 60
+- slug: exposure-2
+  title: EXPOSURE
+  score: 55.053474793700985
+  llm_score: 65
+  recency_score: 15.267373968504938
   rank: 10
 ---
 1701 Covid deaths in one day, 250,000 total U.S. deaths, 11 million cases so far in the United States. One person is dying every 50 seconds. Statistics and data that would makes your head spin and yet there are people that still ignore basic health standards, some believe Covid is a hoax.

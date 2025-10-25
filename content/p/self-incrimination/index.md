@@ -14,45 +14,65 @@ authors:
 - ripp-report
 alttags: 'Fairhope’s growth presents a choice: support new leadership or face challenges due to rapid development'
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 100
-  rank: 1
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 2
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 85
-  rank: 3
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 83.84502484628416
+  llm_score: 85
+  recency_score: 79.22512423142078
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 80.00550814154474
+  llm_score: 100
+  recency_score: 0.02754070772367199
+  rank: 2
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 77.43964342023084
+  llm_score: 75
+  recency_score: 87.19821710115417
+  rank: 3
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 76.00553840598279
+  llm_score: 95
+  recency_score: 0.027692029913929227
   rank: 4
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 85
-  rank: 5
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+  score: 73.5182514327481
+  llm_score: 85
+  recency_score: 27.591257163740508
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 71.68887419261965
+  llm_score: 85
+  recency_score: 18.444370963098283
   rank: 6
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 68.83102978346773
+  llm_score: 85
+  recency_score: 4.155148917338647
   rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 85
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.03821444478741
+  llm_score: 85
+  recency_score: 0.19107222393707068
   rank: 8
 - slug: pedaling-forward
   title: PEDALING FORWARD
-  score: 65
+  score: 59.63868620757777
+  llm_score: 70
+  recency_score: 18.193431037888864
   rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 65
+  score: 52.0425237564477
+  llm_score: 65
+  recency_score: 0.2126187822384949
   rank: 10
 ---
 Fairhope you have two choices. Believe in Mayor Wilson and her ideas on infrastructure and growth or follow a city council who has demonstrated no leadership, has adopted the theme of no action, is in denial of facts, and refuses to adapt to changing demographics, or change period.

@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et...
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 95
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
   rank: 1
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 85
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 2
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 85
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 83.29061318606567
+  llm_score: 85
+  recency_score: 76.45306593032835
   rank: 3
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 83.12395966027418
+  llm_score: 85
+  recency_score: 75.61979830137088
   rank: 4
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 85
-  rank: 5
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 85
-  rank: 6
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 75
-  rank: 7
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 75
+  score: 81.44318114711444
+  llm_score: 85
+  recency_score: 67.21590573557219
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 75.39801503421995
+  llm_score: 85
+  recency_score: 36.990075171099754
+  rank: 7
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 69.61272299947794
+  llm_score: 85
+  recency_score: 8.063614997389708
   rank: 8
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 75
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 69.5777601996732
+  llm_score: 85
+  recency_score: 7.888800998365954
   rank: 9
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 70
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 69.47735425358857
+  llm_score: 85
+  recency_score: 7.3867712679428434
   rank: 10
 ---
 Alabama Attorney General 501 Washington ave. Montgomery Alabama 36104

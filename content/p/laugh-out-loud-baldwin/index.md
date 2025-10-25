@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: Emoji depicting a sad face with a long nose, symbolizing dishonesty related to the Baldwin County school lawsuit
 related_articles:
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 69.77989467527985
+  llm_score: 85
+  recency_score: 8.899473376399213
+  rank: 1
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 75
-  rank: 1
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 75
+  score: 69.59078153074029
+  llm_score: 85
+  recency_score: 7.953907653701443
   rank: 2
-- slug: the-good-the-bad-and-the-ugly
+- slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY
-  score: 75
+  score: 64.03396753993354
+  llm_score: 80
+  recency_score: 0.16983769966770007
   rank: 3
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 70
+- slug: joke
+  title: JOKE LLP
+  score: 63.42584690236102
+  llm_score: 75
+  recency_score: 17.129234511805123
   rank: 4
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 65
+  score: 60.1387334364297
+  llm_score: 70
+  recency_score: 20.693667182148534
   rank: 5
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 65
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 57.8698706546827
+  llm_score: 70
+  recency_score: 9.349353273413517
   rank: 6
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 65
+- slug: fire
+  title: FIRE
+  score: 57.652983089538786
+  llm_score: 70
+  recency_score: 8.264915447693923
   rank: 7
-- slug: repeat
-  title: REPEAT
-  score: 65
-  rank: 8
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 62
+  score: 54.3796779187427
+  llm_score: 65
+  recency_score: 11.898389593713517
+  rank: 8
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 53.652983089538786
+  llm_score: 65
+  recency_score: 8.264915447693923
   rank: 9
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 60
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 53.56056407438185
+  llm_score: 65
+  recency_score: 7.802820371909244
   rank: 10
 ---
 Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.

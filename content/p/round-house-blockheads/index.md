@@ -18,43 +18,63 @@ alttags: Montrose Hut facade features faces representing city officials debating
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 1
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 2
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 3
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 4
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 5
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 6
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 75
-  rank: 3
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 75
-  rank: 4
-- slug: honeymoon
-  title: HONEYMOON
-  score: 75
-  rank: 5
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 75
-  rank: 6
-- slug: selective-memory
-  title: Selective Memory
-  score: 65
+  score: 70.0
+  llm_score: 75
+  recency_score: 50
   rank: 7
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 65
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 70.0
+  llm_score: 75
+  recency_score: 50
   rank: 8
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 65
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 70.0
+  llm_score: 75
+  recency_score: 50
   rank: 9
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 65
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 70.0
+  llm_score: 75
+  recency_score: 50
   rank: 10
 ---
 You wonder why Fairhope is called FAUXHOPE? It is because nothing is what it seems. The Montrose Hut is a classic example. The city council and mayor are dancing around pretending to support Sonny Brewer who has proposed moving the hut. He is the author of The Poet Of Tolstoy Park, a novel he penned 20 years ago. Now you would think he would be the strongest advocate that it NOT be moved. The city will have to issues a permit to move the structure. The city is trying to figure a way around having to issue such a permit.

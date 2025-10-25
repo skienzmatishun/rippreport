@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t...
 related_articles:
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 95
-  rank: 1
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 95
-  rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85
-  rank: 3
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 85
-  rank: 4
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 85
+  score: 86.22156185864796
+  llm_score: 95
+  recency_score: 51.107809293239825
+  rank: 1
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 81.39861928254133
+  llm_score: 95
+  recency_score: 26.993096412706674
+  rank: 2
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 77.37201466601171
+  llm_score: 95
+  recency_score: 6.86007333005856
+  rank: 3
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 73.78927738411232
+  llm_score: 92
+  recency_score: 0.9463869205615951
+  rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 73.47331224721167
+  llm_score: 90
+  recency_score: 7.366561236058354
   rank: 5
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 72.30488233299182
+  llm_score: 90
+  recency_score: 1.5244116649590835
+  rank: 6
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 68.95303529257221
+  llm_score: 85
+  recency_score: 4.7651764628610165
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 68.39987771401807
+  llm_score: 85
+  recency_score: 1.9993885700904033
+  rank: 8
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 75
-  rank: 6
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 75
-  rank: 7
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 75
-  rank: 8
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 65
+  score: 65.44532616133364
+  llm_score: 80
+  recency_score: 7.226630806668228
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 65
+  score: 62.41568627566374
+  llm_score: 70
+  recency_score: 32.0784313783187
   rank: 10
 ---
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption. Many citizens resist any new taxes for education or infrastructure, claiming to be fiscally conservative or being fiscally responsible, all the while being robbed by elected officials.

@@ -13,43 +13,63 @@ alttags: Two figures in suits wear bags of money as heads, illustrating tax reve
 related_articles:
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX
-  score: 85
+  score: 72.7760154921098
+  llm_score: 90
+  recency_score: 3.880077460549066
   rank: 1
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 85
+  score: 68.91717268686067
+  llm_score: 85
+  recency_score: 4.5858634343033176
   rank: 2
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 85
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 68.64942690688356
+  llm_score: 85
+  recency_score: 3.247134534417837
   rank: 3
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 85
-  rank: 4
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 75
+  score: 68.33373153008193
+  llm_score: 85
+  recency_score: 1.6686576504096422
+  rank: 4
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 64.26536089038794
+  llm_score: 75
+  recency_score: 21.326804451939722
   rank: 5
 - slug: what-education-lottery
   title: WHAT EDUCATION LOTTERY?
-  score: 75
+  score: 60.732628122946025
+  llm_score: 75
+  recency_score: 3.663140614730139
   rank: 6
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 60.60147078469983
+  llm_score: 75
+  recency_score: 3.007353923499134
   rank: 7
-- slug: vote-smart
-  title: VOTE SMART
-  score: 75
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 56.637090813688154
+  llm_score: 70
+  recency_score: 3.1854540684407837
   rank: 8
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 75
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 56.04629316851118
+  llm_score: 70
+  recency_score: 0.2314658425558957
   rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 70
+  score: 48.705059413044964
+  llm_score: 60
+  recency_score: 3.5252970652248186
   rank: 10
 ---
 Do you really want to know what is going on with Baldwin County Schools. Well just check out the face book page below, they do an excellent job of breaking down your tax dollars that are pouring into the coffers of BCBOE.

@@ -19,45 +19,65 @@ authors:
 - admin
 alttags: Fairhope Mayor Sullivan dressed as a bee surrounded by money, referencing the article’s metaphor about rewards and politic...
 related_articles:
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 85
-  rank: 1
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 85
-  rank: 2
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 85
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 1
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 83.29061318606567
+  llm_score: 85
+  recency_score: 76.45306593032835
+  rank: 2
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 83.16545197903177
+  llm_score: 85
+  recency_score: 75.82725989515886
   rank: 3
-- slug: one-woman
-  title: ONE WOMAN
-  score: 80
-  rank: 4
 - slug: honey-bees
   title: HONEY BEES
-  score: 75
-  rank: 5
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 75
-  rank: 6
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 75
-  rank: 7
+  score: 74.92721807862874
+  llm_score: 85
+  recency_score: 34.63609039314372
+  rank: 4
 - slug: i-quit
   title: I QUIT
-  score: 70
+  score: 70.4753123573984
+  llm_score: 70
+  recency_score: 72.37656178699199
+  rank: 5
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 68.98219407616733
+  llm_score: 85
+  recency_score: 4.910970380836641
+  rank: 6
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 68.73665354209359
+  llm_score: 85
+  recency_score: 3.6832677104679425
+  rank: 7
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 64.07588902065244
+  llm_score: 70
+  recency_score: 40.37944510326223
   rank: 8
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 61.756405604592175
+  llm_score: 65
+  recency_score: 48.78202802296086
+  rank: 9
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 70
-  rank: 9
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 70
+  score: 56.48044868574292
+  llm_score: 70
+  recency_score: 2.402243428714602
   rank: 10
 ---
 Fairhope you made the biggest mistake voters could make, you let the bees eat the honey. Only 15% of the registered voters decided who would become Mayor of Fairhope.

@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Person reading a newspaper titled Lagniappe, referencing scrutiny of Fairhope City Council actions discussed in the article
 related_articles:
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 90
+- slug: documents
+  title: DOCUMENTS
+  score: 85.10837124125831
+  llm_score: 85
+  recency_score: 85.54185620629158
   rank: 1
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 85
+- slug: 100-voices
+  title: 100 VOICES
+  score: 78.6795960873464
+  llm_score: 85
+  recency_score: 53.39798043673202
   rank: 2
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 85
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 4
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 5
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 85
-  rank: 6
 - slug: communication
   title: COMMUNICATION
-  score: 75
+  score: 77.11053014836325
+  llm_score: 85
+  recency_score: 45.55265074181627
+  rank: 3
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 73.38713313277998
+  llm_score: 90
+  recency_score: 6.935665663899902
+  rank: 4
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 72.75711484285412
+  llm_score: 90
+  recency_score: 3.7855742142706434
+  rank: 5
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 72.06520004474959
+  llm_score: 90
+  recency_score: 0.3260002237479753
+  rank: 6
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 69.342270268423
+  llm_score: 85
+  recency_score: 6.711351342114945
   rank: 7
+- slug: back-stabber
+  title: BACK STABBER
+  score: 65.94192790244709
+  llm_score: 75
+  recency_score: 29.70963951223547
+  rank: 8
+- slug: hello-can-you-hear-me-now
+  title: HELLO CAN YOU HEAR ME NOW
+  score: 60.875434582915084
+  llm_score: 75
+  recency_score: 4.377172914575434
+  rank: 9
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
-  rank: 8
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 65
-  rank: 9
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 55
+  score: 58.34576123569309
+  llm_score: 65
+  recency_score: 31.72880617846543
   rank: 10
 ---
 The Fairhope City Council is really showing their colors.

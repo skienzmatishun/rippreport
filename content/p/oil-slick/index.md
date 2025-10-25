@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: Former BP executive gestures toward a fountain in Fairhope, Alabama, amid criticism over his role in the Mobile Bay cleanup
 related_articles:
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 90
-  rank: 1
-- slug: bp-catastrophe-alabama-disgrace
-  title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 75
-  rank: 2
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 75
-  rank: 3
 - slug: scary
   title: SCARY
-  score: 75
+  score: 79.83629014021759
+  llm_score: 75
+  recency_score: 99.18145070108791
+  rank: 1
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 77.0432153391477
+  llm_score: 95
+  recency_score: 5.216076695738494
+  rank: 2
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 75.66625449247667
+  llm_score: 85
+  recency_score: 38.33127246238332
+  rank: 3
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 74.98553700495827
+  llm_score: 70
+  recency_score: 94.92768502479139
   rank: 4
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 74.79608191931776
+  llm_score: 75
+  recency_score: 73.98040959658876
+  rank: 5
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 68.45984285557822
+  llm_score: 85
+  recency_score: 2.2992142778911093
+  rank: 6
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 70
-  rank: 5
-- slug: catalyst-shit-creek
-  title: CATALYST SHIT CREEK
-  score: 70
-  rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+  score: 64.62221429547445
+  llm_score: 65
+  recency_score: 63.11107147737226
   rank: 7
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 65
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 64.17289060320662
+  llm_score: 75
+  recency_score: 20.864453016033117
   rank: 8
-- slug: stepping-up
-  title: STEPPING UP
-  score: 65
+- slug: s-o-s
+  title: S.O.S
+  score: 61.23619065458043
+  llm_score: 65
+  recency_score: 46.18095327290216
   rank: 9
 - slug: state-of-the-city-2019
   title: STATE OF THE CITY - 2019
-  score: 45
+  score: 44.43214186633806
+  llm_score: 50
+  recency_score: 22.160709331690267
   rank: 10
 ---
 It defies logic that a former BP executive is going to lecture Fairhope citizens about contamination of the Mobile Bay.

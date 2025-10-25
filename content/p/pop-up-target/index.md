@@ -10,43 +10,63 @@ alttags: Target symbol representing Jack Burrell as a recurring focus of controv
 related_articles:
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 95
+  score: 88.62221429547445
+  llm_score: 95
+  recency_score: 63.11107147737226
   rank: 1
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 90
-  rank: 2
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 90
+  score: 86.08249514970656
+  llm_score: 95
+  recency_score: 50.412475748532785
+  rank: 2
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 84.96833078840773
+  llm_score: 85
+  recency_score: 84.8416539420386
   rank: 3
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
-  rank: 4
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
-  score: 85
+  score: 82.22156185864796
+  llm_score: 90
+  recency_score: 51.107809293239825
+  rank: 4
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 81.29666291996695
+  llm_score: 85
+  recency_score: 66.48331459983474
   rank: 5
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 79.33745863402393
+  llm_score: 90
+  recency_score: 36.68729317011966
+  rank: 6
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 78.19359590659946
+  llm_score: 85
+  recency_score: 50.96797953299731
+  rank: 7
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 77.06074595483393
+  llm_score: 85
+  recency_score: 45.30372977416965
+  rank: 8
 - slug: jack-ass
   title: JACK ASS
-  score: 85
-  rank: 6
-- slug: shut-up-2
-  title: SHUT UP
-  score: 75
-  rank: 7
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75
-  rank: 8
+  score: 74.66654767894059
+  llm_score: 85
+  recency_score: 33.33273839470296
+  rank: 9
 - slug: csb-railroad-nomination
   title: CSB / RAILROAD- NOMINATION
-  score: 70
-  rank: 9
-- slug: hate
-  title: HATE
-  score: 70
+  score: 57.59078153074029
+  llm_score: 70
+  recency_score: 7.953907653701443
   rank: 10
 ---
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.

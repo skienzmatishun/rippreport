@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Handshake graphic symbolizing a “favor for a favor” deal, referencing concerns about local council decisions
 related_articles:
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 85
-  rank: 1
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 85
-  rank: 2
-- slug: documents
-  title: DOCUMENTS
-  score: 75
-  rank: 3
 - slug: deliberate-distortion-or-twisting-of-meaning
   title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 75
+  score: 82.75560018832756
+  llm_score: 85
+  recency_score: 73.7780009416378
+  rank: 1
+- slug: back-stabber
+  title: BACK STABBER
+  score: 74.79563312750165
+  llm_score: 85
+  recency_score: 33.97816563750821
+  rank: 2
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 73.38384878757476
+  llm_score: 85
+  recency_score: 26.919243937873805
+  rank: 3
+- slug: documents
+  title: DOCUMENTS
+  score: 71.56641283325074
+  llm_score: 65
+  recency_score: 97.83206416625366
   rank: 4
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 75
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 70.25279266204939
+  llm_score: 85
+  recency_score: 11.263963310246938
   rank: 5
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 69.7129174484708
+  llm_score: 85
+  recency_score: 8.564587242354007
+  rank: 6
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 69.58642919000962
+  llm_score: 85
+  recency_score: 7.932145950048156
+  rank: 7
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 69.36078404958211
+  llm_score: 85
+  recency_score: 6.803920247910508
+  rank: 8
 - slug: talking-heads
   title: TALKING HEADS
-  score: 65
-  rank: 6
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 65
-  rank: 7
-- slug: communication
-  title: COMMUNICATION
-  score: 65
-  rank: 8
-- slug: honey-bees
-  title: HONEY BEES
-  score: 65
+  score: 57.44929138837351
+  llm_score: 70
+  recency_score: 7.246456941867555
   rank: 9
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 65
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 53.789674291816674
+  llm_score: 65
+  recency_score: 8.948371459083383
   rank: 10
 ---
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something. The Council and the Single tax Colony are willing to ignore the 2400 plus people who have already signed a petition opposing development of the gully.

@@ -9,45 +9,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 100
-  rank: 1
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 95
-  rank: 2
+  score: 92.41953853153237
+  llm_score: 95
+  recency_score: 82.09769265766185
+  rank: 1
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 92
-  rank: 3
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 90
-  rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 90
-  rank: 5
+  score: 90.61488310709093
+  llm_score: 92
+  recency_score: 85.07441553545459
+  rank: 2
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90
-  rank: 6
+  score: 82.08249514970656
+  llm_score: 90
+  recency_score: 50.412475748532785
+  rank: 3
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 85
+  score: 81.94532047544666
+  llm_score: 90
+  recency_score: 49.72660237723329
+  rank: 4
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 79.31205826488139
+  llm_score: 85
+  recency_score: 56.56029132440696
+  rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 78.8109206548946
+  llm_score: 87
+  recency_score: 46.05460327447295
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 78.36019908182247
+  llm_score: 95
+  recency_score: 11.800995409112343
   rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 78.29381805158769
+  llm_score: 90
+  recency_score: 31.469090257938433
+  rank: 8
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 68.07985399313023
+  llm_score: 85
+  recency_score: 0.3992699656511135
+  rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 85
-  rank: 8
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 85
-  rank: 9
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 85
+  score: 60.55705592271108
+  llm_score: 75
+  recency_score: 2.7852796135553795
   rank: 10
 ---
 The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.

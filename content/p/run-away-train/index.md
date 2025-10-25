@@ -10,43 +10,63 @@ alttags: Vintage steam train traveling through Baldwin County, illustrating inde
 related_articles:
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 85
+  score: 74.94622278024646
+  llm_score: 85
+  recency_score: 34.73111390123228
   rank: 1
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 75
-  rank: 2
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 75
-  rank: 3
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 70
-  rank: 4
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 70
-  rank: 5
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 65
-  rank: 6
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 65
-  rank: 7
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 65
-  rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
-  rank: 9
+  score: 67.88389745041349
+  llm_score: 70
+  recency_score: 59.41948725206741
+  rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 67.54404300965939
+  llm_score: 65
+  recency_score: 77.72021504829691
+  rank: 3
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 65
+  score: 61.676544614916764
+  llm_score: 65
+  recency_score: 48.38272307458382
+  rank: 4
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 60.6689665561533
+  llm_score: 70
+  recency_score: 23.3448327807665
+  rank: 5
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 59.645279801084776
+  llm_score: 65
+  recency_score: 38.22639900542388
+  rank: 6
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 59.618802726001995
+  llm_score: 70
+  recency_score: 18.094013630009982
+  rank: 7
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 56.060116734778454
+  llm_score: 65
+  recency_score: 20.300583673892284
+  rank: 8
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 52.92982314542264
+  llm_score: 65
+  recency_score: 4.649115727113186
+  rank: 9
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 52.025686185185684
+  llm_score: 65
+  recency_score: 0.1284309259284028
   rank: 10
 ---
 I apologize that The Ripp Report missed the last two Wonderful Wednesday’s, we should be back on schedule by the first of the new year.

@@ -19,43 +19,63 @@ alttags: A figure opens a box releasing shadowy figures representing negative co
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 90
+  score: 90.17127158449026
+  llm_score: 90
+  recency_score: 90.85635792245131
   rank: 1
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 85
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 87.19474191901475
+  llm_score: 85
+  recency_score: 95.97370959507373
   rank: 2
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 3
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
+  score: 84.62221429547445
+  llm_score: 90
+  recency_score: 63.11107147737226
+  rank: 3
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 81.29666291996695
+  llm_score: 85
+  recency_score: 66.48331459983474
   rank: 4
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 85
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 79.18876730389368
+  llm_score: 85
+  recency_score: 55.94383651946845
   rank: 5
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 6
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 85
+  score: 76.38383562381885
+  llm_score: 90
+  recency_score: 21.919178119094283
+  rank: 6
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 74.05698242024913
+  llm_score: 85
+  recency_score: 30.284912101245666
   rank: 7
-- slug: one-woman
-  title: ONE WOMAN
-  score: 85
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 73.76552754120547
+  llm_score: 85
+  recency_score: 28.827637706027392
   rank: 8
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 72.00556883670855
+  llm_score: 90
+  recency_score: 0.027844183542706274
+  rank: 9
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 65
-  rank: 9
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 65
+  score: 60.79104160648169
+  llm_score: 75
+  recency_score: 3.955208032408443
   rank: 10
 ---
 Today the phrase "to open Pandora's box" means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open all the evils fly out, only leaving the good.

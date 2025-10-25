@@ -15,43 +15,63 @@ alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusa
 related_articles:
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 100
+  score: 90.70889537238897
+  llm_score: 100
+  recency_score: 53.544476861944815
   rank: 1
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 92
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 85.74107892098586
+  llm_score: 90
+  recency_score: 68.70539460492927
   rank: 2
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 85
-  rank: 4
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 85
-  rank: 5
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 85
-  rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 82
-  rank: 7
+  score: 85.58357363897636
+  llm_score: 85
+  recency_score: 87.91786819488183
+  rank: 3
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 75
-  rank: 8
+  score: 83.15815510057
+  llm_score: 90
+  recency_score: 55.79077550285001
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 81.9916664395256
+  llm_score: 92
+  recency_score: 41.958332197627975
+  rank: 5
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 81.18782317885686
+  llm_score: 85
+  recency_score: 65.93911589428427
+  rank: 6
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 75
+  score: 79.00634582434073
+  llm_score: 85
+  recency_score: 55.031729121703655
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 8
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 75.94730185126139
+  llm_score: 92
+  recency_score: 11.736509256306908
   rank: 9
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 75
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 70.97095353988021
+  llm_score: 85
+  recency_score: 14.854767699401043
   rank: 10
 ---
 Alabama has earned it’s reputation as the most corrupt state in the United States. What solidifies Alabama’s position is a perfect puzzle, all tightly fit together with inept, lazy, hypocritical elected officials and oversight agencies. These agencies cost taxpayers millions for absolutely nothing.

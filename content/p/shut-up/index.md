@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Silenced emoji face symbolizes restricted public comment at Fairhope City Council meetings, limiting citizen participation
 related_articles:
-- slug: shut-up-2
-  title: SHUT UP
-  score: 85
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 87.51287958944485
+  llm_score: 85
+  recency_score: 97.56439794722424
   rank: 1
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
   rank: 2
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
+  score: 86.52312487593501
+  llm_score: 85
+  recency_score: 92.61562437967505
   rank: 3
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 85
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
   rank: 4
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
-  rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 6
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 85
-  rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
-  rank: 8
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
-  rank: 9
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
+  rank: 5
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 79.72221428196228
+  llm_score: 85
+  recency_score: 58.61107140981138
+  rank: 6
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION
-  score: 70
+  score: 79.46808419803509
+  llm_score: 85
+  recency_score: 57.34042099017541
+  rank: 7
+- slug: shut-up-2
+  title: SHUT UP
+  score: 74.4727263186165
+  llm_score: 90
+  recency_score: 12.36363159308245
+  rank: 8
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 73.97457577604462
+  llm_score: 85
+  recency_score: 29.872878880223098
+  rank: 9
+- slug: 100-voices
+  title: 100 VOICES
+  score: 70.41911919868473
+  llm_score: 85
+  recency_score: 12.09559599342363
   rank: 10
 ---
 Every Fairhope City council meeting begins with a prayer and the pledge of allegiance. What irony, when the council president then explains to attending citizens that their right to speak is a privilege— not a right. The council president then explained that the 3 minute limit on public participation was at his discretion. This is how our previous Mayor handled critics, complaints or investigations— absolutely no transparency. Make no mistake, as an American, it is your right.

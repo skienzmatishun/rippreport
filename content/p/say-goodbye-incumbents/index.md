@@ -17,45 +17,65 @@ authors:
 - ripp-report
 alttags: Multiple hands overlapping, symbolizing numerous candidates vying for Baldwin County Commissioner seats amid controversy
 related_articles:
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 95
+- slug: qualification
+  title: QUALIFICATION
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
   rank: 1
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 85
+  score: 82.79608191931776
+  llm_score: 85
+  recency_score: 73.98040959658876
   rank: 2
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 85
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 82.16149687375565
+  llm_score: 85
+  recency_score: 70.80748436877823
   rank: 3
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 85
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 80.62221429547445
+  llm_score: 85
+  recency_score: 63.11107147737226
   rank: 4
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 75
+  score: 78.05490968089218
+  llm_score: 85
+  recency_score: 50.274548404460894
   rank: 5
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 76.0080832087999
+  llm_score: 95
+  recency_score: 0.04041604399951511
+  rank: 6
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 76.00803903837023
+  llm_score: 95
+  recency_score: 0.040195191851133516
+  rank: 7
+- slug: last-chance
+  title: LAST CHANCE
+  score: 72.21062154449254
+  llm_score: 90
+  recency_score: 1.05310772246267
+  rank: 8
 - slug: win-for-baldwin
   title: WIN FOR BALDWIN
-  score: 75
-  rank: 6
+  score: 60.19400251330891
+  llm_score: 75
+  recency_score: 0.9700125665445367
+  rank: 9
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 75
-  rank: 7
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 75
-  rank: 8
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 75
-  rank: 9
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 65
+  score: 60.0356846430385
+  llm_score: 75
+  recency_score: 0.17842321519250345
   rank: 10
 ---
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.

@@ -15,43 +15,63 @@ authors:
 related_articles:
 - slug: trolls-for-tolls
   title: TROLLS FOR TOLLS
-  score: 95
+  score: 87.43670779028002
+  llm_score: 95
+  recency_score: 57.18353895140014
   rank: 1
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 90
-  rank: 2
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 85
-  rank: 3
-- slug: pied-piper
-  title: PIED PIPER
-  score: 85
-  rank: 4
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 75
-  rank: 5
+  score: 86.83013102490949
+  llm_score: 85
+  recency_score: 94.15065512454748
+  rank: 2
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 77.33796583595118
+  llm_score: 85
+  recency_score: 46.6898291797559
+  rank: 3
 - slug: no-mo-bridge
   title: NO MO BRIDGE
-  score: 75
+  score: 74.39813310940357
+  llm_score: 85
+  recency_score: 31.990665547017855
+  rank: 4
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 74.07359964556152
+  llm_score: 85
+  recency_score: 30.367998227807558
+  rank: 5
+- slug: pied-piper
+  title: PIED PIPER
+  score: 73.95822947770259
+  llm_score: 85
+  recency_score: 29.79114738851293
   rank: 6
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 75
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 72.59654744980851
+  llm_score: 90
+  recency_score: 2.9827372490425272
   rank: 7
 - slug: puzzle-pieces
   title: PUZZLE PIECES
-  score: 75
+  score: 69.00395926891434
+  llm_score: 85
+  recency_score: 5.0197963445716995
   rank: 8
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 75
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 68.90469434070803
+  llm_score: 85
+  recency_score: 4.5234717035402
   rank: 9
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 65
+  score: 60.98219407616733
+  llm_score: 75
+  recency_score: 4.910970380836641
   rank: 10
 ---
 The infrastructure failures in Fairhope are directly connected to Jack Burrell and his lackeys.

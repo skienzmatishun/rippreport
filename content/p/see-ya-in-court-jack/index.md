@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Gavel and legal documents representing a federal lawsuit filed by Francis Ripp against Jack Burrell
 related_articles:
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 90
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 86.35682478958158
+  llm_score: 90
+  recency_score: 71.78412394790789
   rank: 1
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 2
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 85
+- slug: police-report
+  title: POLICE REPORT
+  score: 81.44318114711444
+  llm_score: 85
+  recency_score: 67.21590573557219
   rank: 3
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 4
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 85
-  rank: 5
+  score: 79.18876730389368
+  llm_score: 85
+  recency_score: 55.94383651946845
+  rank: 4
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
+  score: 77.72869172076295
+  llm_score: 75
+  recency_score: 88.64345860381478
+  rank: 5
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 74.45093721071514
+  llm_score: 85
+  recency_score: 32.254686053575696
   rank: 6
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 72.00995433465955
+  llm_score: 90
+  recency_score: 0.04977167329776623
+  rank: 7
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 75
-  rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 75
+  score: 70.82689854161379
+  llm_score: 75
+  recency_score: 54.13449270806896
   rank: 8
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 69.41399241756758
+  llm_score: 85
+  recency_score: 7.069962087837917
   rank: 9
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 65
+  score: 53.413992417567584
+  llm_score: 65
+  recency_score: 7.069962087837917
   rank: 10
 ---
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION

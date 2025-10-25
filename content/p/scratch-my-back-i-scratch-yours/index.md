@@ -12,43 +12,63 @@ alttags: Two monkeys grooming each other, symbolizing divisive behavior and unci
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 85
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
   rank: 1
-- slug: jack-ass
-  title: JACK ASS
-  score: 85
+- slug: dont-throw-rocks-if-you-live-in-a-glass-house
+  title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
+  score: 77.8369256908693
+  llm_score: 85
+  recency_score: 49.18462845434644
   rank: 2
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 85
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 77.11053014836325
+  llm_score: 85
+  recency_score: 45.55265074181627
   rank: 3
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 85
+  score: 75.77199426882628
+  llm_score: 85
+  recency_score: 38.85997134413138
   rank: 4
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 75
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 70.25279266204939
+  llm_score: 85
+  recency_score: 11.263963310246938
   rank: 5
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 75
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 68.20775598975347
+  llm_score: 85
+  recency_score: 1.0387799487673255
   rank: 6
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 70
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 67.69014258029426
+  llm_score: 70
+  recency_score: 58.450712901471334
   rank: 7
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 70
-  rank: 8
 - slug: dont-let-the-door-hit-you-in-the-ass
   title: DON’T LET THE DOOR HIT YOU IN THE ASS
-  score: 70
+  score: 61.89329029325975
+  llm_score: 70
+  recency_score: 29.466451466298754
+  rank: 8
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 61.02743722240719
+  llm_score: 70
+  recency_score: 25.13718611203594
   rank: 9
-- slug: skunked
-  title: SKUNKED
-  score: 65
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 53.001212460044876
+  llm_score: 65
+  recency_score: 5.006062300224381
   rank: 10
 ---
 SENATE RACE:

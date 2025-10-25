@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal altered with a shocked emoji face, referencing controversy surrounding local figures and an oi...
 related_articles:
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 85
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 91.14222555805995
+  llm_score: 90
+  recency_score: 95.71112779029973
   rank: 1
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+  score: 87.03762349360866
+  llm_score: 85
+  recency_score: 95.18811746804333
   rank: 2
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 3
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 85
+  score: 84.51889524885166
+  llm_score: 90
+  recency_score: 62.594476244258324
+  rank: 3
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 74.98553700495827
+  llm_score: 70
+  recency_score: 94.92768502479139
   rank: 4
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 85
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 74.83013102490949
+  llm_score: 70
+  recency_score: 94.15065512454748
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 73.6097120870809
+  llm_score: 85
+  recency_score: 28.048560435404436
   rank: 6
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 75
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.16418860283414
+  llm_score: 85
+  recency_score: 15.820943014170737
   rank: 7
 - slug: skunked
   title: SKUNKED
-  score: 75
+  score: 70.88275366834506
+  llm_score: 85
+  recency_score: 14.41376834172532
   rank: 8
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 70
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 68.69166656076946
+  llm_score: 85
+  recency_score: 3.4583328038473358
   rank: 9
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 65
+  score: 59.41647386607539
+  llm_score: 70
+  recency_score: 17.082369330376963
   rank: 10
 ---
 Some really weird and scary things are going on in Fairhope. After the https://rippreport.com/ published the Oil “Slick”, seems the BP “good Vibes” guy on the paddle board, freaked out and forgot about his good vibes pledge. Some people have no sense of humor.

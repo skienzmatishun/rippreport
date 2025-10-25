@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Jack Burrell posing in a cardboard box labeled “Jack in the Box” next to a private jet, referencing controversy within Fai...
 related_articles:
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 90
-  rank: 1
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 90
-  rank: 2
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 89
-  rank: 3
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 85
-  rank: 4
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 5
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
-  score: 85
-  rank: 6
+  score: 86.35682478958158
+  llm_score: 90
+  recency_score: 71.78412394790789
+  rank: 1
 - slug: jack-ass
   title: JACK ASS
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 2
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 83.46808419803509
+  llm_score: 90
+  recency_score: 57.34042099017541
+  rank: 3
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 82.39621248724127
+  llm_score: 85
+  recency_score: 71.98106243620636
+  rank: 4
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 81.33796583595118
+  llm_score: 90
+  recency_score: 46.6898291797559
+  rank: 5
+- slug: pop-up-target
+  title: POP UP TARGET
+  score: 79.33745863402393
+  llm_score: 90
+  recency_score: 36.68729317011966
+  rank: 6
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 72.63074876314147
+  llm_score: 85
+  recency_score: 23.153743815707337
   rank: 7
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 71.26448942463207
+  llm_score: 89
+  recency_score: 0.32244712316035934
+  rank: 8
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 85
-  rank: 8
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
+  score: 68.25167663945837
+  llm_score: 85
+  recency_score: 1.2583831972918698
   rank: 9
-- slug: hate
-  title: HATE
-  score: 65
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 52.58361468387881
+  llm_score: 65
+  recency_score: 2.9180734193940348
   rank: 10
 ---
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the wrong road.

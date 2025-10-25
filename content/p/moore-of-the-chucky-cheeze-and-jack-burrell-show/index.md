@@ -16,43 +16,63 @@ alttags: 'Chucky doll riding a bucking horse labeled #MeToo, symbolizing attempt
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 90
+  score: 88.76545197903178
+  llm_score: 92
+  recency_score: 75.82725989515886
   rank: 1
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
-  rank: 2
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 85
-  rank: 3
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 85
-  rank: 4
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 85
-  rank: 5
-- slug: jack-ass
-  title: JACK ASS
-  score: 85
-  rank: 6
+  score: 87.78201851846809
+  llm_score: 85
+  recency_score: 98.91009259234048
+  rank: 2
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 85.97322154942498
+  llm_score: 85
+  recency_score: 89.86610774712484
+  rank: 3
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 85
+  score: 80.48464384685742
+  llm_score: 85
+  recency_score: 62.42321923428709
+  rank: 4
+- slug: pop-up-target
+  title: POP UP TARGET
+  score: 78.08249514970656
+  llm_score: 85
+  recency_score: 50.412475748532785
+  rank: 5
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 76.55415564363686
+  llm_score: 85
+  recency_score: 42.77077821818432
+  rank: 6
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 73.24956745472434
+  llm_score: 70
+  recency_score: 86.24783727362167
   rank: 7
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 75
+- slug: jack-ass
+  title: JACK ASS
+  score: 69.22400374104741
+  llm_score: 70
+  recency_score: 66.12001870523703
   rank: 8
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 65
+  score: 65.74107892098586
+  llm_score: 65
+  recency_score: 68.70539460492927
   rank: 9
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 65
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 64.72638603917497
+  llm_score: 65
+  recency_score: 63.63193019587483
   rank: 10
 ---
 We are talking super stupid, I mean extraordinary ignorance. But I get it, it is part of the moore factor, little m deliberate, the people that will believe fiction for truth.

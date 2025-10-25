@@ -16,43 +16,63 @@ alttags: Taser X26 device shown; highlights lack of non-lethal equipment acquisi
 related_articles:
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 85
+  score: 72.15008797921179
+  llm_score: 85
+  recency_score: 20.750439896058943
   rank: 1
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 85
+  score: 71.9939206577845
+  llm_score: 85
+  recency_score: 19.9696032889225
   rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 85
-  rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75
-  rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 75
-  rank: 5
-- slug: cameras
-  title: CAMERAS
-  score: 70
-  rank: 6
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 65
-  rank: 7
 - slug: rumors
   title: RUMORS
-  score: 65
-  rank: 8
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 65
-  rank: 9
+  score: 71.77061878848929
+  llm_score: 85
+  recency_score: 18.853093942446446
+  rank: 3
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 69.25685049662866
+  llm_score: 85
+  recency_score: 6.284252483143263
+  rank: 4
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 68.62498904893481
+  llm_score: 85
+  recency_score: 3.1249452446740595
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 65
+  score: 61.530920609266786
+  llm_score: 75
+  recency_score: 7.654603046333945
+  rank: 6
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 60.57883750997557
+  llm_score: 75
+  recency_score: 2.894187549877844
+  rank: 7
+- slug: cameras
+  title: CAMERAS
+  score: 60.33605587461524
+  llm_score: 70
+  recency_score: 21.680279373076186
+  rank: 8
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 57.47735425358857
+  llm_score: 70
+  recency_score: 7.3867712679428434
+  rank: 9
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 56.63360945180823
+  llm_score: 70
+  recency_score: 3.168047259041166
   rank: 10
 ---
 The citizens of Baldwin County have 14 municipalities, with police departments and a sheriff’s department. For the most part they do a very good job of protecting the citizens of Baldwin County. One disturbing trend among the police and sheriff’s department is the acquisition of military weapons and the lack of any acquisition of non-lethal weapons.

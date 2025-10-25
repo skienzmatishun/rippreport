@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Cartoon eyes suggesting someone is being manipulated or controlled, referencing the article’s claim about Governor Ivey
 related_articles:
-- slug: insanity-2
-  title: INSANITY
-  score: 95
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
   rank: 1
 - slug: insanity
   title: INSANITY
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 2
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 85
+- slug: fear
+  title: FEAR
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
   rank: 3
 - slug: ignorance-is-bliss
   title: IGNORANCE IS BLISS
-  score: 85
+  score: 83.20705813124003
+  llm_score: 85
+  recency_score: 76.03529065620016
   rank: 4
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
   rank: 5
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 70
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 79.25024389308274
+  llm_score: 85
+  recency_score: 56.25121946541366
   rank: 6
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 70.43241102906582
+  llm_score: 85
+  recency_score: 12.162055145329097
+  rank: 7
 - slug: total-darkness
   title: TOTAL DARKNESS
-  score: 65
-  rank: 7
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 65
+  score: 68.62157381675192
+  llm_score: 85
+  recency_score: 3.107869083759611
   rank: 8
 - slug: shadow-government-southern-style
   title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 65
+  score: 62.4592141866564
+  llm_score: 75
+  recency_score: 12.296070933282007
   rank: 9
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 50
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 59.112599723484344
+  llm_score: 70
+  recency_score: 15.562998617421716
   rank: 10
 ---
 Alabama has been electing only Republicans for years, regardless of that candidates credentials, just as long as he or she is a republican. The straight ticket voters, unwittingly, are responsible for electing corrupt officials who simply rode the straight ticket into office.

@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Leaking faucet symbolizing confidential information leaks at Fairhope City Hall, as reported by Gulf Coast News
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 91.89071065521195
+  llm_score: 90
+  recency_score: 99.45355327605971
   rank: 1
 - slug: investigations
   title: INVESTIGATIONS
-  score: 85
+  score: 85.82610187044024
+  llm_score: 85
+  recency_score: 89.13050935220119
   rank: 2
-- slug: shut-up
-  title: SHUT UP
-  score: 85
-  rank: 3
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
-  rank: 4
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 75
-  rank: 5
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 70
-  rank: 6
+  score: 83.91650071517822
+  llm_score: 90
+  recency_score: 59.582503575891096
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 73.42828195143117
+  llm_score: 85
+  recency_score: 27.14140975715586
+  rank: 4
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 70
+  score: 70.25897315930858
+  llm_score: 85
+  recency_score: 11.294865796542922
+  rank: 5
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 68.51592082096282
+  llm_score: 85
+  recency_score: 2.5796041048141145
+  rank: 6
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 65.14820290291419
+  llm_score: 80
+  recency_score: 5.741014514570984
   rank: 7
-- slug: nuff-said
-  title: NUFF SAID
-  score: 65
-  rank: 8
 - slug: in-the-dark
   title: IN THE DARK
-  score: 65
+  score: 64.2188724060802
+  llm_score: 75
+  recency_score: 21.094362030400973
+  rank: 8
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 60.782419985414975
+  llm_score: 75
+  recency_score: 3.9120999270748786
   rank: 9
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 65
+- slug: threesome
+  title: THREESOME
+  score: 56.17530043110514
+  llm_score: 70
+  recency_score: 0.8765021555257007
   rank: 10
 ---
 Fairhope City Hall has leaks of confidential city information and HR information coming from certain city employees to Gulf Coast News. Congratulations on the news scoop, however your information is coming from unnamed sources or disgruntled employees.

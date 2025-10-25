@@ -15,43 +15,63 @@ alttags: A skunk walks through dry grass, symbolizing how good intentions for Fa
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90
+  score: 90.57394274499862
+  llm_score: 90
+  recency_score: 92.86971372499306
   rank: 1
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 85
-  rank: 2
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 85
+  score: 88.87560790070712
+  llm_score: 90
+  recency_score: 84.37803950353559
+  rank: 2
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 84.3298145011407
+  llm_score: 85
+  recency_score: 81.64907250570349
   rank: 3
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 85
-  rank: 4
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 85
+  score: 76.74635098516816
+  llm_score: 90
+  recency_score: 23.73175492584083
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 76.60544418823137
+  llm_score: 90
+  recency_score: 23.027220941156877
   rank: 5
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 85
+- slug: gob-coup
+  title: GOB COUP
+  score: 73.73402200483869
+  llm_score: 85
+  recency_score: 28.67011002419343
   rank: 6
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 78
+- slug: scary
+  title: SCARY
+  score: 70.88275366834506
+  llm_score: 85
+  recency_score: 14.41376834172532
   rank: 7
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 75
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 70.6772050791888
+  llm_score: 85
+  recency_score: 13.386025395943985
   rank: 8
-- slug: catalyst
-  title: CATALYST
-  score: 75
-  rank: 9
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 70
+  score: 70.24048235035045
+  llm_score: 85
+  recency_score: 11.20241175175226
+  rank: 9
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 54.20395356266881
+  llm_score: 65
+  recency_score: 11.019767813344055
   rank: 10
 ---
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts

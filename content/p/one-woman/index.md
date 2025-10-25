@@ -21,45 +21,65 @@ authors:
 - admin
 alttags: 'Fairhope Council: Scales of Justice symbolize alleged bullying and intimidation of the Mayor by council members'
 related_articles:
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
-  rank: 1
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 85
-  rank: 2
 - slug: one-woman-2
   title: ONE WOMAN
-  score: 75
-  rank: 3
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 75
-  rank: 4
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 75
-  rank: 5
-- slug: selective-memory
-  title: Selective Memory
-  score: 75
-  rank: 6
+  score: 95.35315705036788
+  llm_score: 95
+  recency_score: 96.76578525183945
+  rank: 1
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
+  score: 79.46808419803509
+  llm_score: 85
+  recency_score: 57.34042099017541
+  rank: 2
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 73.20972355606835
+  llm_score: 85
+  recency_score: 26.048617780341775
+  rank: 3
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 71.34240690488217
+  llm_score: 85
+  recency_score: 16.712034524410825
+  rank: 4
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 71.03678918072447
+  llm_score: 85
+  recency_score: 15.18394590362233
+  rank: 5
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 66.7591160473893
+  llm_score: 80
+  recency_score: 13.795580236946487
+  rank: 6
+- slug: selective-memory
+  title: Selective Memory
+  score: 62.366674246715405
+  llm_score: 75
+  recency_score: 11.833371233577015
   rank: 7
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 70
+  score: 61.181255192369875
+  llm_score: 70
+  recency_score: 25.906275961849367
   rank: 8
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 60.56774635711682
+  llm_score: 70
+  recency_score: 22.8387317855841
+  rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 65
-  rank: 9
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 65
+  score: 56.26878142731196
+  llm_score: 70
+  recency_score: 1.3439071365597703
   rank: 10
 ---
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.

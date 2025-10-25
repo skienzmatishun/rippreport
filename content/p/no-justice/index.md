@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Scales of justice against a dark background, symbolizing questions about fairness in the Murray Lawrence case investigation
 related_articles:
+- slug: rule-32
+  title: RULE 32
+  score: 93.77733007636273
+  llm_score: 95
+  recency_score: 88.88665038181365
+  rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 100
-  rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 95
+  score: 93.5170445944745
+  llm_score: 100
+  recency_score: 67.58522297237245
   rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 95
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 3
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 95
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 85
+  score: 85.39861928254133
+  llm_score: 100
+  recency_score: 26.993096412706674
   rank: 5
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 84.64601135914225
+  llm_score: 85
+  recency_score: 83.23005679571122
+  rank: 6
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 85
-  rank: 6
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 85
+  score: 83.7193186493482
+  llm_score: 100
+  recency_score: 18.596593246741016
   rank: 7
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 80.42001563077638
+  llm_score: 95
+  recency_score: 22.100078153881906
   rank: 8
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 85
+- slug: innocent
+  title: INNOCENT
+  score: 79.42584690236103
+  llm_score: 95
+  recency_score: 17.129234511805123
   rank: 9
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 85
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 60.4636379608563
+  llm_score: 75
+  recency_score: 2.318189804281508
   rank: 10
 ---
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.

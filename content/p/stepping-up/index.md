@@ -18,43 +18,63 @@ alttags: 'Fairhope Municipal Pier fountain: a view highlighting the city’s pos
 related_articles:
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 85
+  score: 86.62490003199702
+  llm_score: 85
+  recency_score: 93.12450015998506
   rank: 1
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 85
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 83.62009294457451
+  llm_score: 80
+  recency_score: 98.10046472287257
   rank: 2
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 85
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 75
-  rank: 4
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 75
-  rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 70
-  rank: 6
 - slug: state-of-the-city-2019
   title: STATE OF THE CITY - 2019
-  score: 65
-  rank: 7
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 65
-  rank: 8
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 65
-  rank: 9
+  score: 75.78201851846809
+  llm_score: 70
+  recency_score: 98.91009259234048
+  rank: 3
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 65
+  score: 73.70268862944323
+  llm_score: 85
+  recency_score: 28.51344314721615
+  rank: 4
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 72.89156892444248
+  llm_score: 85
+  recency_score: 24.457844622212395
+  rank: 5
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 71.55980182540611
+  llm_score: 85
+  recency_score: 17.799009127030544
+  rank: 6
+- slug: survey
+  title: SURVEY
+  score: 63.17838723901061
+  llm_score: 70
+  recency_score: 35.89193619505306
+  rank: 7
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 60.99996495640719
+  llm_score: 70
+  recency_score: 24.99982478203595
+  rank: 8
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 57.749753193901086
+  llm_score: 65
+  recency_score: 28.748765969505406
+  rank: 9
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 56.4636379608563
+  llm_score: 70
+  recency_score: 2.318189804281508
   rank: 10
 ---
 I do not want the Ripp Report readers thinking I am getting soft for complimenting some of the Baldwin County Mayors, but they deserve it. Fairhope definitely is on the right track and may be debt free by 2020.

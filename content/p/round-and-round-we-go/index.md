@@ -8,7 +8,68 @@ tags:
 - roundabout
 authors:
 - ripp-report
-alttags: "Roundabout traffic sign: Yellow triangle with black circular arrows indicating a modern intersection improving safety and ..."
+alttags: 'Roundabout traffic sign: Yellow triangle with black circular arrows indicating a modern intersection improving safety and ...'
+related_articles:
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 78.08249514970656
+  llm_score: 85
+  recency_score: 50.412475748532785
+  rank: 1
+- slug: repeat
+  title: REPEAT
+  score: 65.41343030010246
+  llm_score: 75
+  recency_score: 27.067151500512303
+  rank: 2
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 60.656583054229046
+  llm_score: 75
+  recency_score: 3.2829152711452347
+  rank: 3
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 59.37777423965625
+  llm_score: 65
+  recency_score: 36.88887119828122
+  rank: 4
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 57.48748877687456
+  llm_score: 50
+  recency_score: 87.43744388437275
+  rank: 5
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 56.0259692257003
+  llm_score: 70
+  recency_score: 0.1298461285014998
+  rank: 6
+- slug: timeline
+  title: TIMELINE
+  score: 53.101972919605075
+  llm_score: 65
+  recency_score: 5.50986459802539
+  rank: 7
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 52.728624700569526
+  llm_score: 65
+  recency_score: 3.6431235028476214
+  rank: 8
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 43.92880384054972
+  llm_score: 50
+  recency_score: 19.644019202748584
+  rank: 9
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 40.79975823068125
+  llm_score: 50
+  recency_score: 3.998791153406251
+  rank: 10
 ---
 Baldwin County has recently been introduced to the traffic intersection known as a roundabout.” The modern roundabout is a beautiful thing. Traffic flow is improved, they look nice and they are safer than traditional intersections. In the Insurance Institute for Highway Safety Status Report about Roundabouts, they cite research from the University of Maine that found a 39% reduction in crashes, a 76% decrease in injury-producing crashes, and a 90% decrease in collisions involving fatal or incapacitating injuries when studying a sample of 25 intersections turned into roundabouts. Other research finds that while roundabouts are safer than traditional intersections, they also have the potential to reduce traffic delay by up to 75%.”
 

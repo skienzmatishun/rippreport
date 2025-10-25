@@ -15,43 +15,63 @@ alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizin
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 95
+  score: 94.77861223075729
+  llm_score: 95
+  recency_score: 93.89306115378648
   rank: 1
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 92
-  rank: 2
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90
-  rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 89
-  rank: 4
+  score: 90.98553700495827
+  llm_score: 90
+  recency_score: 94.92768502479139
+  rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 85
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 85
-  rank: 6
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 85
-  rank: 7
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 85
-  rank: 8
+  score: 89.34434506009411
+  llm_score: 90
+  recency_score: 86.72172530047058
+  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 85
-  rank: 9
-- slug: sheriff-huey-boss-mack-secret-police
+  score: 87.56641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+  score: 86.62123778439704
+  llm_score: 95
+  recency_score: 53.10618892198522
+  rank: 5
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 86.022530768332
+  llm_score: 85
+  recency_score: 90.11265384166002
+  rank: 6
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 82.63595596770666
+  llm_score: 92
+  recency_score: 45.179779838533264
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 80.71979115267374
+  llm_score: 90
+  recency_score: 43.598955763368686
+  rank: 8
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 73.90945843208527
+  llm_score: 85
+  recency_score: 29.54729216042639
+  rank: 9
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 69.6424074124535
+  llm_score: 87
+  recency_score: 0.21203706226742583
   rank: 10
 ---
 Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Federal investigation, the internal investigation, wrongful conviction, federal Lawsuit of Johnathan Victor and a myriad of internal problems within BCSO involving morals, accountability, transparency and of course the GOB, Good ole Boy culture that permeates the entire department.

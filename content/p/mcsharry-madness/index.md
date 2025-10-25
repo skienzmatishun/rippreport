@@ -9,43 +9,63 @@ authors:
 related_articles:
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 95
+  score: 86.02739968526954
+  llm_score: 95
+  recency_score: 50.13699842634772
   rank: 1
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 85
-  rank: 2
-- slug: on-vacation
-  title: ON VACATION
-  score: 75
-  rank: 3
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 70
-  rank: 4
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 70
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 2
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 74.27659831391288
+  llm_score: 85
+  recency_score: 31.3829915695644
+  rank: 3
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 68.19614691902797
+  llm_score: 65
+  recency_score: 80.98073459513984
+  rank: 4
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 68.14470836326659
+  llm_score: 85
+  recency_score: 0.7235418163329606
   rank: 5
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 65
+  score: 65.11575875113695
+  llm_score: 65
+  recency_score: 65.57879375568477
   rank: 6
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 55
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 63.93208520393644
+  llm_score: 60
+  recency_score: 79.6604260196822
   rank: 7
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 50
+  score: 54.70317696989249
+  llm_score: 60
+  recency_score: 33.51588484946244
   rank: 8
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 50
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 52.189277384112316
+  llm_score: 65
+  recency_score: 0.9463869205615951
   rank: 9
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 25
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 48.37752037428083
+  llm_score: 60
+  recency_score: 1.887601871404123
   rank: 10
 ---
 Ronan Mc Sharry should be banned from any club or bar serving alcohol. Because if he claims that your establishment “made him get drunk” and caused him to knock a woman off a bar stool. He then will sue the same establishment.

@@ -10,43 +10,63 @@ alttags: Eagle with blindfold against black background; symbolizes privacy conce
 related_articles:
 - slug: demand-the-truth
   title: DEMAND THE TRUTH
-  score: 75
+  score: 76.39586260016435
+  llm_score: 90
+  recency_score: 21.979313000821772
   rank: 1
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 59.92880384054972
+  llm_score: 70
+  recency_score: 19.644019202748584
+  rank: 2
 - slug: notice
   title: 'NOTICE:'
-  score: 65
-  rank: 2
-- slug: shut-up
-  title: SHUT UP
-  score: 55
+  score: 56.0006429309634
+  llm_score: 70
+  recency_score: 0.003214654817000775
   rank: 3
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 52.96883109900168
+  llm_score: 65
+  recency_score: 4.844155495008417
+  rank: 4
+- slug: exposure-2
+  title: EXPOSURE
+  score: 52.36431107360116
+  llm_score: 65
+  recency_score: 1.8215553680057956
+  rank: 5
+- slug: shut-up-2
+  title: SHUT UP
+  score: 40.28783622699583
+  llm_score: 50
+  recency_score: 1.4391811349791466
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 40.02512932517272
+  llm_score: 50
+  recency_score: 0.12564662586358874
+  rank: 7
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 40.01489086334444
+  llm_score: 50
+  recency_score: 0.07445431672220408
+  rank: 8
 - slug: newsletter
   title: NEWSLETTER
-  score: 50
-  rank: 4
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 40
-  rank: 5
+  score: 40.00047174958803
+  llm_score: 50
+  recency_score: 0.0023587479401556157
+  rank: 9
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 35
-  rank: 6
-- slug: combat
-  title: COMBAT
-  score: 35
-  rank: 7
-- slug: recovery
-  title: RECOVERY
-  score: 25
-  rank: 8
-- slug: christmas
-  title: MERRY CHRISTMAS
-  score: 25
-  rank: 9
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 25
+  score: 28.030525306035724
+  llm_score: 35
+  recency_score: 0.1526265301786136
   rank: 10
 ---
 The Ripp Report ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines the types of information we collect, how we use it, and your rights regarding that information. By using our website, you agree to the practices described in this policy.

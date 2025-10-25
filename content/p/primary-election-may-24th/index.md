@@ -9,43 +9,63 @@ alttags: Screenshot shows a social media post about Tim James For Governor along
 related_articles:
 - slug: last-chance
   title: LAST CHANCE
-  score: 85
+  score: 88.0
+  llm_score: 85
+  recency_score: 100.0
   rank: 1
-- slug: countdown
-  title: COUNTDOWN
-  score: 75
+- slug: press-release
+  title: PRESS RELEASE
+  score: 82.63481832643573
+  llm_score: 85
+  recency_score: 73.17409163217867
   rank: 2
 - slug: backstory-153
   title: No Boomers
-  score: 70
+  score: 63.83613691258604
+  llm_score: 70
+  recency_score: 39.1806845629302
   rank: 3
-- slug: election-ad
-  title: ELECTION AD
-  score: 70
-  rank: 4
-- slug: backstory-podcast-the-46th-president-of-the-united-states
-  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 65
-  rank: 5
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 65
-  rank: 6
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 65
-  rank: 7
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 65
-  rank: 8
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 65
-  rank: 9
+  score: 62.305920901937206
+  llm_score: 65
+  recency_score: 51.52960450968603
+  rank: 4
+- slug: countdown
+  title: COUNTDOWN
+  score: 60.164144613105805
+  llm_score: 75
+  recency_score: 0.8207230655290094
+  rank: 5
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 58.89859293447587
+  llm_score: 70
+  recency_score: 14.49296467237936
+  rank: 6
+- slug: election-ad
+  title: ELECTION AD
+  score: 58.10942881080481
+  llm_score: 70
+  recency_score: 10.547144054024043
+  rank: 7
+- slug: backstory-podcast-the-46th-president-of-the-united-states
+  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
+  score: 56.30056311965314
+  llm_score: 65
+  recency_score: 21.50281559826569
+  rank: 8
 - slug: the-180
   title: THE 180
-  score: 40
+  score: 54.092162096062914
+  llm_score: 65
+  recency_score: 10.460810480314583
+  rank: 9
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 52.1673229719854
+  llm_score: 65
+  recency_score: 0.836614859927013
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Pb41jaYTkI" frameborder="0" allowfullscreen></iframe>

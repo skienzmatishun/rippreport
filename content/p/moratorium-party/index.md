@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and...
 related_articles:
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 85
-  rank: 1
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 2
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 75
-  rank: 3
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 75
-  rank: 4
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 65
-  rank: 5
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 65
-  rank: 6
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 65
-  rank: 7
-- slug: s-o-s
-  title: S.O.S
-  score: 65
-  rank: 8
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 1
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 83.75844022710412
+  llm_score: 85
+  recency_score: 78.79220113552056
+  rank: 2
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 80.04781069641929
+  llm_score: 85
+  recency_score: 60.23905348209645
+  rank: 3
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 65
+  score: 78.37150396712644
+  llm_score: 75
+  recency_score: 91.85751983563217
+  rank: 4
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 72.70749976245517
+  llm_score: 85
+  recency_score: 23.53749881227582
+  rank: 5
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 71.50176287453081
+  llm_score: 85
+  recency_score: 17.508814372654022
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 62.73827503950749
+  llm_score: 65
+  recency_score: 53.69137519753745
+  rank: 7
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 60.36731775047243
+  llm_score: 75
+  recency_score: 1.8365887523621547
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 57.034676107302964
+  llm_score: 70
+  recency_score: 5.173380536514811
   rank: 9
-- slug: scary
-  title: SCARY
-  score: 65
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 55.07025208563967
+  llm_score: 65
+  recency_score: 15.35126042819837
   rank: 10
 ---
 Fairhope, aka Fauxhope, last municipal election fell prey to the political cabal, Catalyst, now branded as Scott Boone Consulting. They did a bang up good job for the special interests, developers and political candidates, they selected and supported.

@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc...
 related_articles:
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 90
-  rank: 1
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 85
-  rank: 2
 - slug: trolls-for-tolls
   title: TROLLS FOR TOLLS
-  score: 85
-  rank: 3
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 75
-  rank: 4
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
+  rank: 1
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 75
-  rank: 5
+  score: 78.83013102490949
+  llm_score: 75
+  recency_score: 94.15065512454748
+  rank: 2
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 78.45093721071514
+  llm_score: 90
+  recency_score: 32.254686053575696
+  rank: 3
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 74.79563312750165
+  llm_score: 85
+  recency_score: 33.97816563750821
+  rank: 4
 - slug: pied-piper
   title: PIED PIPER
-  score: 75
+  score: 74.32839938269227
+  llm_score: 85
+  recency_score: 31.641996913461323
+  rank: 5
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 68.96090073883316
+  llm_score: 85
+  recency_score: 4.804503694165815
   rank: 6
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 70
+- slug: bad-faith
+  title: Bad Faith
+  score: 68.91301970063262
+  llm_score: 75
+  recency_score: 44.565098503163114
   rank: 7
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 61.06633274891848
+  llm_score: 75
+  recency_score: 5.331663744592373
+  rank: 8
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 65
-  rank: 8
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 65
+  score: 61.0432153391477
+  llm_score: 75
+  recency_score: 5.216076695738494
   rank: 9
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 65
+  score: 52.503355042856754
+  llm_score: 65
+  recency_score: 2.5167752142837743
   rank: 10
 ---
 No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”

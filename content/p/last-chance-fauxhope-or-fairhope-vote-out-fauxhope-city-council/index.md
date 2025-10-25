@@ -21,43 +21,63 @@ alttags: Fairhope city flag with clock tower design, overlaid with lightning bol
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 100
+  score: 99.89071065521195
+  llm_score: 100
+  recency_score: 99.45355327605971
   rank: 1
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 100
-  rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 90
-  rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 90
-  rank: 4
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 90
+  score: 98.07197526621852
+  llm_score: 100
+  recency_score: 90.35987633109261
+  rank: 2
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 93.34434506009411
+  llm_score: 95
+  recency_score: 86.72172530047058
+  rank: 3
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 78.10365746335434
+  llm_score: 95
+  recency_score: 10.518287316771712
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 77.6097120870809
+  llm_score: 90
+  recency_score: 28.048560435404436
   rank: 5
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 74.88275366834506
+  llm_score: 90
+  recency_score: 14.41376834172532
+  rank: 6
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 90
-  rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 90
+  score: 72.13439024270181
+  llm_score: 90
+  recency_score: 0.6719512135090356
   rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 72.09833883933933
+  llm_score: 90
+  recency_score: 0.4916941966966383
   rank: 8
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 75
-  rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 75
+  score: 70.59061851767918
+  llm_score: 85
+  recency_score: 12.953092588395847
+  rank: 9
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 68.13256183242314
+  llm_score: 85
+  recency_score: 0.6628091621157032
   rank: 10
 ---
 I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell Fauxhope.s de facto Mayor Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all. Don’t believe Jack when he says if he wins it will be his last term.

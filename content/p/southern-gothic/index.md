@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Baldwin County historical marker details Alabama county history and its connection to early political figures
 related_articles:
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 95
-  rank: 1
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 95
-  rank: 2
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 85
-  rank: 3
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 75
-  rank: 4
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 75
-  rank: 5
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 75
-  rank: 6
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 75
-  rank: 7
+  score: 90.31754485573326
+  llm_score: 95
+  recency_score: 71.58772427866629
+  rank: 1
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 75
+  score: 82.1227513524759
+  llm_score: 85
+  recency_score: 70.6137567623795
+  rank: 2
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 80.15008797921179
+  llm_score: 95
+  recency_score: 20.750439896058943
+  rank: 3
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 79.59445300016145
+  llm_score: 85
+  recency_score: 57.97226500080723
+  rank: 4
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 77.94532047544666
+  llm_score: 85
+  recency_score: 49.72660237723329
+  rank: 5
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 69.94298494927645
+  llm_score: 85
+  recency_score: 9.714924746382225
+  rank: 6
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 68.91301970063262
+  llm_score: 75
+  recency_score: 44.565098503163114
+  rank: 7
+- slug: bad-faith
+  title: Bad Faith
+  score: 62.373167176109945
+  llm_score: 75
+  recency_score: 11.86583588054974
   rank: 8
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 60.515920820962826
+  llm_score: 75
+  recency_score: 2.5796041048141145
+  rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 70
-  rank: 9
-- slug: repeat
-  title: REPEAT
-  score: 65
+  score: 58.7742759876368
+  llm_score: 70
+  recency_score: 13.871379938184003
   rank: 10
 ---
 Several years ago I met Attorney Harry Still, the first attorney I have met in Baldwin County with the guts to confront corruption and he has paid the price for his candor. Harry, unlike myself, has deep roots in Baldwin County and is sickened by the blatant judicial and municipal corruption that stains the legacy of this proud county. At one time there were real good ole boys that put the county first but they changed colors like chameleons. In 2010 the county government eroded into the good ole boys of today, who put special interests, like CSB, Catalyst Scott Boone Consulting, first and constituents last. Harry and I share a weekly podcast, [https://www.facebook.com/BackstoryPodcast](https://www.facebook.com/BackstoryPodcast) where we speak candidly about consumer issues and judicial corruption. This podcast, over 75 episodes, has had a chilling effect on the status quo and that has resulted in further pressure on Mr. Still. The latest issue, The McSharry case prompted Mr. Still to reflect on his heritage and bare his soul, DAMN THE STATUS QUO and DAMN CSB.

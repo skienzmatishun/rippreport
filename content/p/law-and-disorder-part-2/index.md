@@ -7,45 +7,65 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 100
-  rank: 1
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 85
+  score: 68.35349562682318
+  llm_score: 85
+  recency_score: 1.7674781341158494
+  rank: 1
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 68.13040054647036
+  llm_score: 85
+  recency_score: 0.6520027323517801
   rank: 2
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 75
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 68.10705583986514
+  llm_score: 85
+  recency_score: 0.535279199325722
   rank: 3
-- slug: police-report
-  title: POLICE REPORT
-  score: 75
-  rank: 4
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75
-  rank: 5
+  score: 68.05323523181134
+  llm_score: 85
+  recency_score: 0.26617615905673986
+  rank: 4
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 75
-  rank: 6
-- slug: no-justice
-  title: NO JUSTICE
-  score: 65
-  rank: 7
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 65
-  rank: 8
-- slug: rumors
-  title: RUMORS
-  score: 65
-  rank: 9
+  score: 68.01755135909374
+  llm_score: 85
+  recency_score: 0.0877567954687319
+  rank: 5
 - slug: cooking-for-the-judge
   title: COOKING FOR THE JUDGE
-  score: 65
+  score: 62.91819469742386
+  llm_score: 60
+  recency_score: 74.59097348711927
+  rank: 6
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 60.343942280450115
+  llm_score: 75
+  recency_score: 1.7197114022505888
+  rank: 7
+- slug: rumors
+  title: RUMORS
+  score: 60.321173251946675
+  llm_score: 75
+  recency_score: 1.60586625973336
+  rank: 8
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 60.053089581473294
+  llm_score: 75
+  recency_score: 0.265447907366482
+  rank: 9
+- slug: cameras
+  title: CAMERAS
+  score: 52.3693359748071
+  llm_score: 65
+  recency_score: 1.8466798740354857
   rank: 10
 ---
 The Fairhope Police have responded and given further information about the recent “party” busted in Fairhope.

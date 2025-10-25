@@ -13,43 +13,63 @@ alttags: Hammer driving a nail into a coffin, symbolizing Fairhope City Council�
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 95
+  score: 95.24740235768714
+  llm_score: 95
+  recency_score: 96.23701178843567
   rank: 1
-- slug: back-stabber
-  title: BACK STABBER
-  score: 95
-  rank: 2
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 90
-  rank: 3
+  score: 91.56641283325074
+  llm_score: 90
+  recency_score: 97.83206416625366
+  rank: 2
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE
-  score: 85
-  rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 5
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
+  rank: 3
 - slug: disposal
   title: DISPOSAL
-  score: 85
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 76.05956387084417
+  llm_score: 95
+  recency_score: 0.2978193542208523
+  rank: 5
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 72.64942690688356
+  llm_score: 90
+  recency_score: 3.247134534417837
   rank: 6
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 69.47331224721167
+  llm_score: 85
+  recency_score: 7.366561236058354
   rank: 7
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 85
+  score: 68.41098472390323
+  llm_score: 85
+  recency_score: 2.0549236195161336
   rank: 8
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
+  score: 66.74000752017984
+  llm_score: 75
+  recency_score: 33.70003760089919
   rank: 9
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 70
+  score: 58.68454994448997
+  llm_score: 70
+  recency_score: 13.422749722449872
   rank: 10
 ---
 The Fairhope City council just put the final nail in their re-election coffin.

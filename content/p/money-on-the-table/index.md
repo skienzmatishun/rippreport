@@ -24,43 +24,63 @@ alttags: Stack of $100 bills representing the $6.2 million Fairhope Waterfront P
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 95
+  score: 93.39192896735389
+  llm_score: 95
+  recency_score: 86.95964483676948
   rank: 1
-- slug: invitation
-  title: INVITATION
-  score: 90
-  rank: 2
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 85
+  score: 93.01488310709092
+  llm_score: 95
+  recency_score: 85.07441553545459
+  rank: 2
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
   rank: 3
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 85
+- slug: pied-piper
+  title: PIED PIPER
+  score: 74.66654767894059
+  llm_score: 85
+  recency_score: 33.33273839470296
   rank: 4
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 85
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 73.71833385593835
+  llm_score: 85
+  recency_score: 28.59166927969179
   rank: 5
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 85
-  rank: 6
 - slug: water
   title: Water
-  score: 85
+  score: 70.2221428977794
+  llm_score: 85
+  recency_score: 11.110714488897043
+  rank: 6
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 69.0432153391477
+  llm_score: 85
+  recency_score: 5.216076695738494
   rank: 7
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 70
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 68.81748068743818
+  llm_score: 85
+  recency_score: 4.087403437190892
   rank: 8
 - slug: stepping-up
   title: STEPPING UP
-  score: 65
+  score: 65.74975319390109
+  llm_score: 75
+  recency_score: 28.748765969505406
   rank: 9
-- slug: pied-piper
-  title: PIED PIPER
-  score: 65
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 54.83575329957493
+  llm_score: 65
+  recency_score: 14.178766497874648
   rank: 10
 ---
 It is no secret that the Fairhope City Council is CATALYST through and through. It is also well documented that the council opposes, procrastinates or just refuses anything the Mayor may propose. Even projects that have been previously endorsed by the council, are delayed or canceled by the council.

@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake, referencing alleged questionable dealings in B...
 related_articles:
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 85.77733007636273
+  llm_score: 85
+  recency_score: 88.88665038181365
+  rank: 1
+- slug: fear
+  title: FEAR
+  score: 81.85448470843463
+  llm_score: 85
+  recency_score: 69.27242354217314
+  rank: 2
 - slug: shadow-government-southern-style
   title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 85
-  rank: 1
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 85
-  rank: 2
+  score: 74.15617326362458
+  llm_score: 90
+  recency_score: 10.780866318122923
+  rank: 3
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 75
-  rank: 3
+  score: 70.6772050791888
+  llm_score: 85
+  recency_score: 13.386025395943985
+  rank: 4
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 70.4592141866564
+  llm_score: 85
+  recency_score: 12.296070933282007
+  rank: 5
+- slug: skunked
+  title: SKUNKED
+  score: 68.73747273054873
+  llm_score: 65
+  recency_score: 83.68736365274363
+  rank: 6
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 58.63355597126228
+  llm_score: 70
+  recency_score: 13.167779856311412
+  rank: 7
 - slug: triangle-roaches
   title: TRIANGLE ROACHES
-  score: 65
-  rank: 4
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 65
-  rank: 5
+  score: 56.65619237382861
+  llm_score: 65
+  recency_score: 23.280961869143056
+  rank: 8
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
-  score: 65
-  rank: 6
-- slug: scary
-  title: SCARY
-  score: 65
-  rank: 7
-- slug: jack-ass
-  title: JACK ASS
-  score: 60
-  rank: 8
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 60
+  score: 55.70914268128782
+  llm_score: 65
+  recency_score: 18.545713406439127
   rank: 9
-- slug: sting
-  title: Sting
-  score: 50
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 54.72904423720288
+  llm_score: 65
+  recency_score: 13.645221186014394
   rank: 10
 ---
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County Superintendent Eddie Tyler into the Barrel. It is interesting that Jonathan Gray works for both. How can a school board consultant be drawing a pay check from the school system while he is lining his pockets with Elliott Campaign money?

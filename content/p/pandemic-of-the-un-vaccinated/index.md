@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 81.36972132414267
+  llm_score: 85
+  recency_score: 66.84860662071335
+  rank: 1
 - slug: backstory-podcast-no-76-a-plague-of-apathy
   title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 80
-  rank: 1
+  score: 77.44318114711444
+  llm_score: 80
+  recency_score: 67.21590573557219
+  rank: 2
 - slug: wear-a-mask
   title: WEAR A MASK
-  score: 75
-  rank: 2
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 65
+  score: 66.66654767894059
+  llm_score: 75
+  recency_score: 33.33273839470296
   rank: 3
 - slug: virus-vs-catalyst
   title: VIRUS vs. CATALYST
-  score: 65
+  score: 64.91844560934352
+  llm_score: 75
+  recency_score: 24.592228046717608
   rank: 4
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 65
-  rank: 5
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 65
-  rank: 6
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 65
-  rank: 7
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 55
+  score: 59.54126400432339
+  llm_score: 65
+  recency_score: 37.70632002161693
+  rank: 5
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 57.94192790244709
+  llm_score: 65
+  recency_score: 29.70963951223547
+  rank: 6
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 57.12478430821849
+  llm_score: 65
+  recency_score: 25.623921541092447
+  rank: 7
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 56.94546996796693
+  llm_score: 65
+  recency_score: 24.727349839834638
   rank: 8
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 40
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 56.6946201541873
+  llm_score: 65
+  recency_score: 23.473100770936487
   rank: 9
-- slug: on-vacation
-  title: ON VACATION
-  score: 25
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 55.55980182540611
+  llm_score: 65
+  recency_score: 17.799009127030544
   rank: 10
 ---
 Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.

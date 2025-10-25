@@ -10,43 +10,63 @@ alttags: Fairhope, Alabama city seal featuring a bird over hills, relevant to th
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 90
+  score: 87.29061318606567
+  llm_score: 90
+  recency_score: 76.45306593032835
   rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 85
-  rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 75
-  rank: 3
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 75
-  rank: 4
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 75
-  rank: 5
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 70
-  rank: 6
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 70
-  rank: 7
+  score: 86.6795960873464
+  llm_score: 95
+  recency_score: 53.39798043673202
+  rank: 2
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 78.71522921439812
+  llm_score: 80
+  recency_score: 73.57614607199059
+  rank: 3
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 65
+  score: 74.27111348555951
+  llm_score: 70
+  recency_score: 91.35556742779755
+  rank: 4
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 72.54647444894586
+  llm_score: 90
+  recency_score: 2.7323722447292558
+  rank: 5
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 71.91650071517822
+  llm_score: 75
+  recency_score: 59.582503575891096
+  rank: 6
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 71.55980182540611
+  llm_score: 85
+  recency_score: 17.799009127030544
+  rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.49109531710019
+  llm_score: 85
+  recency_score: 2.4554765855009273
   rank: 8
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 57.35706097653267
+  llm_score: 70
+  recency_score: 6.785304882663376
+  rank: 9
 - slug: s-o-s
   title: S.O.S
-  score: 65
-  rank: 9
-- slug: no-radar
-  title: NO RADAR
-  score: 65
+  score: 57.224016341508346
+  llm_score: 65
+  recency_score: 26.120081707541715
   rank: 10
 ---
 <div class="link-preview">

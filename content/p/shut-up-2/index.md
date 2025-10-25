@@ -12,43 +12,63 @@ authors:
 related_articles:
 - slug: 100-voices
   title: 100 VOICES
-  score: 95
+  score: 95.56641283325074
+  llm_score: 95
+  recency_score: 97.83206416625366
   rank: 1
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 90
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 84.7833916941887
+  llm_score: 85
+  recency_score: 83.91695847094347
   rank: 2
-- slug: shut-up
-  title: SHUT UP
-  score: 85
-  rank: 3
 - slug: re-run-doing-nothing
-  title: RE-RUN - DOING NOTHING
-  score: 85
-  rank: 4
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 75
-  rank: 5
+  title: DOING NOTHING
+  score: 79.72221428196228
+  llm_score: 85
+  recency_score: 58.61107140981138
+  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 75
-  rank: 6
+  score: 74.88179115997221
+  llm_score: 70
+  recency_score: 94.40895579986105
+  rank: 4
 - slug: timeline
   title: TIMELINE
-  score: 75
-  rank: 7
+  score: 73.85448470843463
+  llm_score: 75
+  recency_score: 69.27242354217314
+  rank: 5
+- slug: shut-up
+  title: SHUT UP
+  score: 70.4727263186165
+  llm_score: 85
+  recency_score: 12.36363159308245
+  rank: 6
 - slug: public-access
   title: PUBLIC ACCESS
-  score: 70
-  rank: 8
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 65
-  rank: 9
+  score: 68.27749588022975
+  llm_score: 75
+  recency_score: 41.38747940114875
+  rank: 7
 - slug: honeymoon
   title: HONEYMOON
-  score: 65
+  score: 58.88275366834506
+  llm_score: 70
+  recency_score: 14.41376834172532
+  rank: 8
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 56.31236163934018
+  llm_score: 65
+  recency_score: 21.56180819670091
+  rank: 9
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 54.82799474546216
+  llm_score: 65
+  recency_score: 14.139973727310823
   rank: 10
 ---
 Baldwin County’s legal system relies to much on shutting people up. Criminal acts, political misconduct, court proceedings and civil litigation are “sealed” or CONFIDENTIALITY agreements are required to settle issues. Often this allows the guilty party to go on their merry way, until the next incident. Of course money is also an ingredient to grease the wheel while keeping everything out of the eye of the public domain.

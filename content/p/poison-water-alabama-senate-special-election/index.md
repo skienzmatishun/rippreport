@@ -10,43 +10,63 @@ alttags: 'Alabama election button: red, white, and blue design with stars and VO
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 85
+  score: 84.73747273054873
+  llm_score: 85
+  recency_score: 83.68736365274363
   rank: 1
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 85
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 84.41953853153237
+  llm_score: 85
+  recency_score: 82.09769265766185
   rank: 2
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
-  score: 75
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
   rank: 3
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 79.91650071517822
+  llm_score: 85
+  recency_score: 59.582503575891096
   rank: 4
 - slug: who-not-to-vote-for
   title: WHO NOT TO VOTE FOR
-  score: 65
+  score: 78.98553700495827
+  llm_score: 75
+  recency_score: 94.92768502479139
   rank: 5
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 65
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 74.66654767894059
+  llm_score: 85
+  recency_score: 33.33273839470296
   rank: 6
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 65
-  rank: 7
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 65
+  score: 66.68483723587678
+  llm_score: 75
+  recency_score: 33.42418617938393
+  rank: 7
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 53.2776817998451
+  llm_score: 65
+  recency_score: 6.388408999225476
   rank: 8
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 65
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 52.55098452894464
+  llm_score: 65
+  recency_score: 2.7549226447232087
   rank: 9
-- slug: scary
-  title: SCARY
-  score: 50
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 48.174342507642315
+  llm_score: 60
+  recency_score: 0.8717125382115642
   rank: 10
 ---
 The primary for the race is Aug.15, 2017 and the special election is Dec. 12, 2017. This election replaces Jeff Sessions, who has become the US Attorney General. However Sessions, who has been saying NO to everything for 8 years, now works for a President that only wants YES for an answer.

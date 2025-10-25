@@ -15,43 +15,63 @@ alttags: Pile of U.S. dollar bills, referencing concerns about financial interes
 related_articles:
 - slug: goat-hill-piggy-bank
   title: GOAT HILL PIGGY-BANK
-  score: 90
+  score: 90.52312487593501
+  llm_score: 90
+  recency_score: 92.61562437967505
   rank: 1
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 85
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
   rank: 2
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 85
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 84.41953853153237
+  llm_score: 85
+  recency_score: 82.09769265766185
   rank: 3
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 85
-  rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 85
-  rank: 5
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 85
-  rank: 6
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX
-  score: 75
-  rank: 7
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 75
-  rank: 8
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 75
-  rank: 9
+  score: 83.50151487477555
+  llm_score: 85
+  recency_score: 77.50757437387774
+  rank: 4
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 81.11575875113695
+  llm_score: 85
+  recency_score: 65.57879375568477
+  rank: 5
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 79.09718172757076
+  llm_score: 85
+  recency_score: 55.48590863785381
+  rank: 6
 - slug: stepping-up
   title: STEPPING UP
-  score: 65
+  score: 71.24740235768714
+  llm_score: 65
+  recency_score: 96.23701178843567
+  rank: 7
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 68.60147078469983
+  llm_score: 85
+  recency_score: 3.007353923499134
+  rank: 8
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 67.66625449247667
+  llm_score: 75
+  recency_score: 38.33127246238332
+  rank: 9
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 61.425662165225894
+  llm_score: 75
+  recency_score: 7.128310826129476
   rank: 10
 ---
 For the last 15 years one complaint in Fairhope has been consistent. Why do I have to comply with Fairhope municipal regulations when I live outside the city limits and I cannot vote in Fairhope elections?

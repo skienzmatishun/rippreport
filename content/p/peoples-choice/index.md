@@ -10,43 +10,63 @@ alttags: Icon depicting a central figure surrounded by a group, representing sup
 related_articles:
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 90
+  score: 91.78201851846809
+  llm_score: 90
+  recency_score: 98.91009259234048
   rank: 1
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
   rank: 2
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 85.29689134128176
+  llm_score: 85
+  recency_score: 86.48445670640884
+  rank: 3
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 85
-  rank: 3
-- slug: countdown
-  title: COUNTDOWN
-  score: 85
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 4
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 75
-  rank: 5
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 75
-  rank: 6
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 70
-  rank: 7
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 65
-  rank: 8
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 65
-  rank: 9
+  score: 75.96601468604398
+  llm_score: 85
+  recency_score: 39.83007343021991
+  rank: 5
 - slug: poison-water-alabama-senate-special-election
   title: POISON WATER - Alabama Senate Special Election
-  score: 50
+  score: 74.66654767894059
+  llm_score: 85
+  recency_score: 33.33273839470296
+  rank: 6
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 68.2369552048455
+  llm_score: 85
+  recency_score: 1.1847760242275227
+  rank: 7
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 66.32839938269227
+  llm_score: 75
+  recency_score: 31.641996913461323
+  rank: 8
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 61.17043574274372
+  llm_score: 75
+  recency_score: 5.8521787137186125
+  rank: 9
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 59.833113813559756
+  llm_score: 70
+  recency_score: 19.165569067798774
   rank: 10
 ---
 The people’s choice or the Catalyst choice. The Ripp Report is going for the People’s Choice, David Northcutt. The Catalyst Choice Chris Elliott has raised over one half a million dollars, headed for 600,000 for a Senate Seat salary of 42,000. Damn people WAKE UP.

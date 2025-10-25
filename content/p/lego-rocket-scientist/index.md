@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: 'Satirical depiction: Jack Burrell’s face superimposed on a toy rocket, symbolizing developer influence in Fairhope politics'
 related_articles:
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 90
-  rank: 1
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 2
 - slug: pied-piper
   title: PIED PIPER
-  score: 85
-  rank: 3
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 85
-  rank: 4
+  score: 82.85660194836281
+  llm_score: 90
+  recency_score: 54.28300974181401
+  rank: 1
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 78.46863524410352
+  llm_score: 90
+  recency_score: 32.34317622051765
+  rank: 2
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 85
-  rank: 5
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 6
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 85
-  rank: 7
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 85
-  rank: 8
+  score: 76.11750739304847
+  llm_score: 95
+  recency_score: 0.587536965242325
+  rank: 3
 - slug: all-mouth
   title: ALL MOUTH
-  score: 82
+  score: 73.1247843082185
+  llm_score: 85
+  recency_score: 25.623921541092447
+  rank: 4
+- slug: jack-ass
+  title: JACK ASS
+  score: 72.2286642283535
+  llm_score: 90
+  recency_score: 1.1433211417674878
+  rank: 5
+- slug: the-jester
+  title: THE JESTER
+  score: 69.62603288021906
+  llm_score: 85
+  recency_score: 8.130164401095277
+  rank: 6
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 69.08698032362109
+  llm_score: 85
+  recency_score: 5.4349016181054575
+  rank: 7
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 68.34964285180067
+  llm_score: 85
+  recency_score: 1.7482142590033594
+  rank: 8
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 68.25167663945837
+  llm_score: 85
+  recency_score: 1.2583831972918698
   rank: 9
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
+  score: 60.310785819265064
+  llm_score: 75
+  recency_score: 1.5539290963253303
   rank: 10
 ---
 The good ole boys in Fairhope won the last election and were successful in electing a Mayor and Council that were willing to embrace development and return to the old “corrupt” way of doing business. The municipal attorney is old school and the municipal judge is a major developer in Fairhope. You can thank Catalyst, aka Scott Boone Consulting for this cast of characters. Jack Burrell has been the puppet for developers and special interest groups since first elected. For almost 9 years, Jack was president of the council. His involvement in the Fairhope Airport Authority has been a cluster f--- from day one. In March of last year, he canceled the video online broadcast of the Airport Authority meetings to the public. I knew then he was up to some kind of B.S.

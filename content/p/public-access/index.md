@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Red graphic depicting a blocked public access point, referencing county officials’ actions and citizen response
 related_articles:
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 75
-  rank: 1
-- slug: notice
-  title: 'NOTICE:'
-  score: 75
-  rank: 2
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 75
-  rank: 3
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 70
-  rank: 4
-- slug: shut-up
-  title: SHUT UP
-  score: 65
-  rank: 5
+  score: 81.96882643931993
+  llm_score: 85
+  recency_score: 69.84413219659965
+  rank: 1
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 78.41948362581483
+  llm_score: 85
+  recency_score: 52.09741812907417
+  rank: 2
 - slug: shut-up-2
   title: SHUT UP
-  score: 65
-  rank: 6
-- slug: court-of-public-opinion-2
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
+  rank: 3
+- slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 65
-  rank: 7
+  score: 70.08411183802811
+  llm_score: 70
+  recency_score: 70.42055919014051
+  rank: 4
+- slug: notice
+  title: 'NOTICE:'
+  score: 68.01848918899599
+  llm_score: 85
+  recency_score: 0.09244594497992151
+  rank: 5
+- slug: shut-up
+  title: SHUT UP
+  score: 65.97457577604462
+  llm_score: 75
+  recency_score: 29.872878880223098
+  rank: 6
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 65
+  score: 65.53339065902054
+  llm_score: 75
+  recency_score: 27.666953295102704
+  rank: 7
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 56.358371351801715
+  llm_score: 70
+  recency_score: 1.7918567590085734
   rank: 8
-- slug: repeat
-  title: REPEAT
-  score: 65
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 55.77061878848929
+  llm_score: 65
+  recency_score: 18.853093942446446
   rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 65
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 52.722660548191314
+  llm_score: 65
+  recency_score: 3.6133027409565597
   rank: 10
 ---
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.

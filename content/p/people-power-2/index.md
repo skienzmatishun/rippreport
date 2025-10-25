@@ -12,45 +12,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 85
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 91.50151487477555
+  llm_score: 95
+  recency_score: 77.50757437387774
   rank: 1
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 85
+  score: 89.58357363897636
+  llm_score: 90
+  recency_score: 87.91786819488183
   rank: 2
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
+  score: 85.24956745472434
+  llm_score: 85
+  recency_score: 86.24783727362167
   rank: 3
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 75
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 82.98553700495827
+  llm_score: 80
+  recency_score: 94.92768502479139
   rank: 4
-- slug: hallucinations
-  title: HALLUCINATIONS
-  score: 70
-  rank: 5
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 70
-  rank: 6
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
-  score: 65
+  score: 79.51811031330418
+  llm_score: 87
+  recency_score: 49.59055156652082
+  rank: 5
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 78.97623272188054
+  llm_score: 85
+  recency_score: 54.88116360940264
+  rank: 6
+- slug: pop-up-target
+  title: POP UP TARGET
+  score: 71.69014258029426
+  llm_score: 75
+  recency_score: 58.450712901471334
   rank: 7
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 60
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 65.89097459752321
+  llm_score: 70
+  recency_score: 49.45487298761609
   rank: 8
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 60
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 64.69156694727452
+  llm_score: 65
+  recency_score: 63.45783473637261
   rank: 9
-- slug: shut-up-2
-  title: SHUT UP
-  score: 45
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 63.85138338741181
+  llm_score: 65
+  recency_score: 59.25691693705903
   rank: 10
 ---
 Congratulations Fairhope citizens your 2276 signatures on a petition convinced the Fairhope Single Tax to back off the proposed Tuberville subdivision.

@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction
 related_articles:
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 90
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 85.43964342023084
+  llm_score: 85
+  recency_score: 87.19821710115417
   rank: 1
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 85
+  score: 76.24058076477368
+  llm_score: 75
+  recency_score: 81.20290382386844
   rank: 2
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 85
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 72.68977417738036
+  llm_score: 90
+  recency_score: 3.4488708869018017
   rank: 3
 - slug: straw-man
   title: STRAW MAN
-  score: 75
+  score: 69.01123380539919
+  llm_score: 75
+  recency_score: 45.05616902699594
   rank: 4
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 68.8682687192742
+  llm_score: 85
+  recency_score: 4.341343596371005
   rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
-  rank: 6
 - slug: watering-hole
   title: WATERING HOLE
-  score: 65
+  score: 66.76773530922881
+  llm_score: 70
+  recency_score: 53.838676546144015
+  rank: 6
+- slug: honey-bees
+  title: HONEY BEES
+  score: 66.33419501564546
+  llm_score: 70
+  recency_score: 51.67097507822733
   rank: 7
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 65
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 60.974154333442904
+  llm_score: 75
+  recency_score: 4.870771667214523
   rank: 8
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 60.676671673548505
+  llm_score: 75
+  recency_score: 3.3833583677425256
   rank: 9
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 55
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 56.66746539920652
+  llm_score: 70
+  recency_score: 3.337326996032608
   rank: 10
 ---
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.

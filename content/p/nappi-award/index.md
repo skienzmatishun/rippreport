@@ -13,43 +13,63 @@ alttags: Mayor Karin Wilson recognized as “Hardest Working Eastern Shore Publi
 related_articles:
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
-  score: 95
+  score: 83.08072362334784
+  llm_score: 95
+  recency_score: 35.40361811673922
   rank: 1
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 71.03762349360866
+  llm_score: 65
+  recency_score: 95.18811746804333
+  rank: 2
 - slug: hardest-working-elected-official-eastern-shore
   title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 85
-  rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 70
+  score: 68.95042781050037
+  llm_score: 85
+  recency_score: 4.7521390525018266
   rank: 3
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 65
+  score: 65.53339065902054
+  llm_score: 75
+  recency_score: 27.666953295102704
   rank: 4
-- slug: game-on
-  title: GAME ON
-  score: 65
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 64.33605587461524
+  llm_score: 75
+  recency_score: 21.680279373076186
   rank: 5
+- slug: people-power
+  title: PEOPLE POWER
+  score: 56.4830885070635
+  llm_score: 70
+  recency_score: 2.4154425353175037
+  rank: 6
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 50
-  rank: 6
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 50
+  score: 56.38588613814718
+  llm_score: 70
+  recency_score: 1.9294306907358856
   rank: 7
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 53.81435906578825
+  llm_score: 65
+  recency_score: 9.071795328941251
+  rank: 8
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 52.12792354208858
+  llm_score: 65
+  recency_score: 0.6396177104429235
+  rank: 9
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 50
-  rank: 8
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 50
-  rank: 9
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 35
+  score: 48.60809849524537
+  llm_score: 60
+  recency_score: 3.0404924762268615
   rank: 10
 ---
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/08/karin2.jpg)

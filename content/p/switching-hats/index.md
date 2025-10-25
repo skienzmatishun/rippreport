@@ -15,45 +15,65 @@ authors:
 - ripp-report
 alttags: Pile of hats symbolizing lack of leadership rotation within Fairhope’s City Council
 related_articles:
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 90
-  rank: 1
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 85
-  rank: 2
 - slug: broken-eggs
   title: BROKEN EGGS
-  score: 85
-  rank: 3
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 1
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 81.04408811712146
+  llm_score: 85
+  recency_score: 65.22044058560728
+  rank: 2
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 85
-  rank: 4
+  score: 76.93193927883213
+  llm_score: 90
+  recency_score: 24.659696394160648
+  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 85
-  rank: 5
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
-  rank: 7
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 75
-  rank: 8
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75
-  rank: 9
+  score: 76.74635098516816
+  llm_score: 90
+  recency_score: 23.73175492584083
+  rank: 4
 - slug: hell-yea
   title: HELL YEA
-  score: 75
+  score: 75.4590712093091
+  llm_score: 85
+  recency_score: 37.29535604654552
+  rank: 5
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 74.72156701864763
+  llm_score: 85
+  recency_score: 33.60783509323819
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 74.46863524410352
+  llm_score: 85
+  recency_score: 32.34317622051765
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 73.84505080688142
+  llm_score: 85
+  recency_score: 29.2252540344071
+  rank: 8
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 72.86483910630558
+  llm_score: 85
+  recency_score: 24.324195531527913
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 67.37777423965625
+  llm_score: 75
+  recency_score: 36.88887119828122
   rank: 10
 ---
 Two area’s lacking in leadership in Fairhope are the City Council and Planning and Zoning. The City Council President for the last 5 years has been Jack Burrell. All the previous councils rotated the position of City Council President every 6 months or after a short term in order to give other council members a chance of leadership. In fact, and it is a fact, this council has accomplished absolutely nothing, except to obstruct the Mayor at every opportunity. Mr. Burrell has not shown any leadership skills, he claimed that the council was the mediator for issues involving the city. The council has not mediated any issues with the Mayor and continues it’s game of obstruction at taxpayers expense.

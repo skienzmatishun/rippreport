@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: Question mark superimposed over a waterfront scene in Fairhope, referencing questions about mayoral candidate Sherry Sulli...
 related_articles:
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 95
-  rank: 1
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 90
-  rank: 2
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 85
-  rank: 3
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 5
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 85
-  rank: 6
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 75
-  rank: 7
+  score: 91.89071065521195
+  llm_score: 90
+  recency_score: 99.45355327605971
+  rank: 1
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 70
+  score: 87.83629014021759
+  llm_score: 85
+  recency_score: 99.18145070108791
+  rank: 2
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 77.01488310709092
+  llm_score: 75
+  recency_score: 85.07441553545459
+  rank: 3
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 76.15202355831354
+  llm_score: 95
+  recency_score: 0.7601177915677015
+  rank: 4
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 76.13292551349143
+  llm_score: 95
+  recency_score: 0.6646275674571428
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 73.36911870433389
+  llm_score: 85
+  recency_score: 26.845593521669393
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.0284805971847
+  llm_score: 85
+  recency_score: 15.142402985923455
+  rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.9146633240318
+  llm_score: 85
+  recency_score: 4.573316620159037
   rank: 8
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 68.14590264837193
+  llm_score: 85
+  recency_score: 0.729513241859674
+  rank: 9
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 70
-  rank: 9
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 65
+  score: 67.98197582956217
+  llm_score: 70
+  recency_score: 59.9098791478109
   rank: 10
 ---
 TOP 10 QUESTIONS for Sherry Sullivan and the general public.

@@ -19,45 +19,65 @@ authors:
 - ripp-report
 alttags: Podium with microphone against a town backdrop, symbolizing scrutiny of Fairhope’s Planning & Zoning Board and Mayor Kant
 related_articles:
-- slug: 100-voices
-  title: 100 VOICES
-  score: 92
-  rank: 1
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 90
+  score: 91.0898528806295
+  llm_score: 90
+  recency_score: 95.44926440314748
+  rank: 1
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 84.1518346432357
+  llm_score: 85
+  recency_score: 80.75917321617852
   rank: 2
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 3
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 85
-  rank: 4
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 85
-  rank: 5
-- slug: back-stabber
-  title: BACK STABBER
-  score: 85
-  rank: 6
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 75
-  rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
-  rank: 8
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
-  score: 65
-  rank: 9
+  score: 80.01484817064438
+  llm_score: 85
+  recency_score: 60.07424085322191
+  rank: 3
 - slug: shut-up
   title: SHUT UP
-  score: 65
+  score: 79.72221428196228
+  llm_score: 85
+  recency_score: 58.61107140981138
+  rank: 4
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 78.91625345775975
+  llm_score: 85
+  recency_score: 54.58126728879875
+  rank: 5
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 78.41948362581483
+  llm_score: 85
+  recency_score: 52.09741812907417
+  rank: 6
+- slug: fairness
+  title: FAIRNESS
+  score: 78.24960453479669
+  llm_score: 85
+  recency_score: 51.24802267398346
+  rank: 7
+- slug: 100-voices
+  title: 100 VOICES
+  score: 75.01787168102958
+  llm_score: 92
+  recency_score: 7.089358405147809
+  rank: 8
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 69.53512066317721
+  llm_score: 85
+  recency_score: 7.675603315886079
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 54.38620652348398
+  llm_score: 65
+  recency_score: 11.931032617419875
   rank: 10
 ---
 QUESTIONS FOR MAYOR KANT

@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Hand depositing a ballot into a voting box; Baldwin County commission election coverage
 related_articles:
-- slug: say-goodbye-incumbents
-  title: SAY GOODBYE INCUMBENTS
-  score: 85
-  rank: 1
 - slug: qualification
   title: QUALIFICATION
-  score: 85
+  score: 90.27111348555951
+  llm_score: 90
+  recency_score: 91.35556742779755
+  rank: 1
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 86.79608191931776
+  llm_score: 90
+  recency_score: 73.98040959658876
   rank: 2
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 86.71522921439812
+  llm_score: 90
+  recency_score: 73.57614607199059
   rank: 3
-- slug: last-chance
-  title: LAST CHANCE
-  score: 75
-  rank: 4
-- slug: win-for-baldwin
-  title: WIN FOR BALDWIN
-  score: 75
-  rank: 5
-- slug: runoff
-  title: RUNOFF
-  score: 75
-  rank: 6
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 70
-  rank: 7
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 70
-  rank: 8
 - slug: who-not-to-vote-for
   title: WHO NOT TO VOTE FOR
-  score: 65
-  rank: 9
+  score: 77.33796583595118
+  llm_score: 85
+  recency_score: 46.6898291797559
+  rank: 4
+- slug: runoff
+  title: RUNOFF
+  score: 70.61199901732306
+  llm_score: 85
+  recency_score: 13.05999508661529
+  rank: 5
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 68.26223498135086
+  llm_score: 85
+  recency_score: 1.3111749067543206
+  rank: 6
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 68.04823526016291
+  llm_score: 85
+  recency_score: 0.24117630081454786
+  rank: 7
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 68.01092614767069
+  llm_score: 85
+  recency_score: 0.054630738353439325
+  rank: 8
 - slug: vote-smart
   title: VOTE SMART
-  score: 65
+  score: 60.05053497317609
+  llm_score: 75
+  recency_score: 0.2526748658804697
+  rank: 9
+- slug: last-chance
+  title: LAST CHANCE
+  score: 56.284699078635875
+  llm_score: 70
+  recency_score: 1.42349539317937
   rank: 10
 ---
 Baldwin County will be voting for all four county commissioners seats. The Ripp Report will be posting meet and greets for many candidates, no charge. Any comments, such as this, is the sole responsibility of the Ripp Report. County commission seat three, presently held by Tucker Dorsey, has several candidates trying to unseat Mr Dorsey.

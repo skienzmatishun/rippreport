@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Crowd silhouette cheering, supporting Jerry Carl’s campaign for Alabama’s First Congressional District
 related_articles:
+- slug: runoff
+  title: RUNOFF
+  score: 91.89071065521195
+  llm_score: 90
+  recency_score: 99.45355327605971
+  rank: 1
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT
-  score: 95
-  rank: 1
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 90
+  score: 90.51502512362764
+  llm_score: 95
+  recency_score: 72.57512561813819
   rank: 2
 - slug: vote-jerry-carl-today
   title: VOTE JERRY CARL TODAY
-  score: 85
+  score: 90.04557804038006
+  llm_score: 95
+  recency_score: 70.22789020190031
   rank: 3
 - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
   title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 85
+  score: 87.20705813124003
+  llm_score: 90
+  recency_score: 76.03529065620016
   rank: 4
-- slug: runoff
-  title: RUNOFF
-  score: 85
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 86.31754485573326
+  llm_score: 90
+  recency_score: 71.58772427866629
   rank: 5
 - slug: congressional-catalyst
   title: CONGRESSIONAL CATALYST
-  score: 75
+  score: 85.68018643855639
+  llm_score: 85
+  recency_score: 88.40093219278197
   rank: 6
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 75
-  rank: 7
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 65
-  rank: 8
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 65
-  rank: 9
 - slug: alabama-suicide
   title: ALABAMA SUICIDE
-  score: 65
+  score: 60.624753502968304
+  llm_score: 65
+  recency_score: 43.12376751484153
+  rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 59.8226265046153
+  llm_score: 70
+  recency_score: 19.113132523076512
+  rank: 8
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 55.833113813559756
+  llm_score: 65
+  recency_score: 19.165569067798774
+  rank: 9
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 49.2776817998451
+  llm_score: 60
+  recency_score: 6.388408999225476
   rank: 10
 ---
 Today’s Freaky Friday is a post by Doug Snow with the Facebook group [Baldwin County Citizens for Accountability](https://www.facebook.com/groups/1593293237549165/).

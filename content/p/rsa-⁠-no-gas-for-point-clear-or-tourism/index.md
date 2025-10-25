@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management
 related_articles:
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 75
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 72.19614691902797
+  llm_score: 70
+  recency_score: 80.98073459513984
   rank: 1
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION
-  score: 70
+  score: 70.82799474546216
+  llm_score: 85
+  recency_score: 14.139973727310823
   rank: 2
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 68.64841536332693
+  llm_score: 75
+  recency_score: 43.242076816634636
+  rank: 3
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'
-  score: 70
-  rank: 3
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 70
+  score: 62.069359466397685
+  llm_score: 75
+  recency_score: 10.34679733198841
   rank: 4
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 65
+- slug: shut-up-2
+  title: SHUT UP
+  score: 61.11575875113695
+  llm_score: 60
+  recency_score: 65.57879375568477
   rank: 5
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 65
-  rank: 6
-- slug: no-radar
-  title: NO RADAR
-  score: 65
-  rank: 7
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 65
+  score: 57.74130770081151
+  llm_score: 70
+  recency_score: 8.706538504057539
+  rank: 6
+- slug: its-no-joke
+  title: IT’S NO JOKE
+  score: 55.21663252706894
+  llm_score: 65
+  recency_score: 16.083162635344685
+  rank: 7
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 54.60485264964664
+  llm_score: 65
+  recency_score: 13.024263248233176
   rank: 8
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 60
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 52.950427810500365
+  llm_score: 65
+  recency_score: 4.7521390525018266
   rank: 9
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 50
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 52.49786893895783
+  llm_score: 65
+  recency_score: 2.489344694789157
   rank: 10
 ---
 Several weeks ago Lagniappe published the story below:

@@ -9,45 +9,65 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
-  rank: 1
-- slug: runoff
-  title: RUNOFF
-  score: 75
-  rank: 2
 - slug: primary-election-may-24th
   title: Primary Election May 24th
-  score: 75
+  score: 82.63481832643573
+  llm_score: 85
+  recency_score: 73.17409163217867
+  rank: 1
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 78.47951020001508
+  llm_score: 95
+  recency_score: 12.39755100007539
+  rank: 2
+- slug: runoff
+  title: RUNOFF
+  score: 74.97910429894462
+  llm_score: 90
+  recency_score: 14.895521494723079
   rank: 3
+- slug: last-chance
+  title: LAST CHANCE
+  score: 74.63481832643573
+  llm_score: 75
+  recency_score: 73.17409163217867
+  rank: 4
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 68.38907087506732
+  llm_score: 85
+  recency_score: 1.9453543753365585
+  rank: 5
+- slug: election-ad
+  title: ELECTION AD
+  score: 66.88275366834506
+  llm_score: 80
+  recency_score: 14.41376834172532
+  rank: 6
 - slug: stealing-our-democracy
   title: STEALING OUR DEMOCRACY
-  score: 70
-  rank: 4
-- slug: game-on
-  title: GAME ON
-  score: 70
-  rank: 5
+  score: 63.9612284482411
+  llm_score: 75
+  recency_score: 19.806142241205503
+  rank: 7
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 65
-  rank: 6
-- slug: i-quit-and-will-quit-again
-  title: I QUIT AND WILL QUIT AGAIN
-  score: 65
-  rank: 7
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 65
+  score: 62.99547296281644
+  llm_score: 75
+  recency_score: 14.977364814082216
   rank: 8
 - slug: vote-jerry-carl-today
   title: VOTE JERRY CARL TODAY
-  score: 65
+  score: 60.265360890387946
+  llm_score: 70
+  recency_score: 21.326804451939722
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 65
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 60.228664228353495
+  llm_score: 75
+  recency_score: 1.1433211417674878
   rank: 10
 ---
 I’m Harry Still and I want to restore your faith in Alabama justice by serving as your Attorney General.

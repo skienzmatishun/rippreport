@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: A Redneck Repair Kit including WD-40 and duct tape, symbolizing a short-sighted fix for Fairhope’s waterfront park project
 related_articles:
-- slug: invitation
-  title: INVITATION
-  score: 90
-  rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90
-  rank: 2
 - slug: pied-piper
   title: PIED PIPER
-  score: 90
-  rank: 3
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 85
-  rank: 4
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 85
-  rank: 5
+  score: 85.96882643931993
+  llm_score: 90
+  recency_score: 69.84413219659965
+  rank: 1
 - slug: got-fleas
   title: GOT FLEAS
-  score: 85
-  rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 7
+  score: 84.64601135914225
+  llm_score: 85
+  recency_score: 83.23005679571122
+  rank: 2
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 79.21946349126168
+  llm_score: 85
+  recency_score: 56.097317456308396
+  rank: 3
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 78.97623272188054
+  llm_score: 85
+  recency_score: 54.88116360940264
+  rank: 4
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 78.36254669889007
+  llm_score: 85
+  recency_score: 51.81273349445037
+  rank: 5
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 85
-  rank: 8
+  score: 75.72952446075945
+  llm_score: 85
+  recency_score: 38.64762230379724
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 73.91655019046412
+  llm_score: 90
+  recency_score: 9.582750952320627
+  rank: 7
 - slug: catalyst-liar
   title: CATALYST LIAR
-  score: 75
+  score: 70.19359590659946
+  llm_score: 75
+  recency_score: 50.96797953299731
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 63.463596901562624
+  llm_score: 75
+  recency_score: 17.31798450781311
   rank: 9
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 65
+  score: 57.94192790244709
+  llm_score: 65
+  recency_score: 29.70963951223547
   rank: 10
 ---
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.

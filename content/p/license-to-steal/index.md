@@ -11,43 +11,63 @@ alttags: Alabama Attorney General depicted with a gavel and text License to Stea
 related_articles:
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 100
+  score: 98.62490003199702
+  llm_score: 100
+  recency_score: 93.12450015998506
   rank: 1
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 95
+  score: 94.98553700495827
+  llm_score: 95
+  recency_score: 94.92768502479139
   rank: 2
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 95
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 88.92190583576996
+  llm_score: 90
+  recency_score: 84.60952917884977
   rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 95
-  rank: 4
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 95
-  rank: 5
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 95
-  rank: 6
+  score: 86.85660194836281
+  llm_score: 95
+  recency_score: 54.28300974181401
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 90
+  score: 77.82905888579863
+  llm_score: 90
+  recency_score: 29.145294428993168
+  rank: 5
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 76.70120663898055
+  llm_score: 95
+  recency_score: 3.506033194902735
+  rank: 6
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 76.37034924159302
+  llm_score: 95
+  recency_score: 1.8517462079650837
   rank: 7
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 76.03793035989311
+  llm_score: 90
+  recency_score: 20.189651799465537
+  rank: 8
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 89
-  rank: 8
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 85
+  score: 73.9591160473893
+  llm_score: 89
+  recency_score: 13.795580236946487
   rank: 9
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 68.44012078313703
+  llm_score: 85
+  recency_score: 2.200603915685177
   rank: 10
 ---
 The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.

@@ -10,43 +10,63 @@ authors:
 related_articles:
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 90
+  score: 94.4219058668791
+  llm_score: 95
+  recency_score: 92.10952933439548
   rank: 1
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 85
+  score: 87.40625209818191
+  llm_score: 85
+  recency_score: 97.03126049090956
   rank: 2
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 70
-  rank: 3
 - slug: war
   title: WAR
-  score: 65
-  rank: 4
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 65
-  rank: 5
+  score: 79.4594928113308
+  llm_score: 75
+  recency_score: 97.29746405665401
+  rank: 3
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 65
+  score: 71.67392032634467
+  llm_score: 65
+  recency_score: 98.36960163172333
+  rank: 4
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 71.16545197903177
+  llm_score: 70
+  recency_score: 75.82725989515886
+  rank: 5
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 70.98553700495827
+  llm_score: 65
+  recency_score: 94.92768502479139
   rank: 6
-- slug: insanity-2
-  title: INSANITY
-  score: 65
-  rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 65
-  rank: 8
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 50
-  rank: 9
+  score: 54.05242073899351
+  llm_score: 65
+  recency_score: 10.262103694967568
+  rank: 7
+- slug: insanity-2
+  title: INSANITY
+  score: 52.37238412243051
+  llm_score: 65
+  recency_score: 1.8619206121525609
+  rank: 8
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 45
+  score: 44.383835623818854
+  llm_score: 50
+  recency_score: 21.919178119094283
+  rank: 9
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 40.13661765471506
+  llm_score: 50
+  recency_score: 0.6830882735752963
   rank: 10
 ---
 By <a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley - Alabamagazette.com

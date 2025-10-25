@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Letter regarding alleged election fraud in Fairhope, Alabama, supported by a witness observation
 related_articles:
+- slug: pay-off-and-election-fraud
+  title: PAY OFF AND ELECTION FRAUD
+  score: 91.9452804719372
+  llm_score: 90
+  recency_score: 99.72640235968593
+  rank: 1
 - slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
   title: As long as I count the Votes, what are you going to do about it?
-  score: 90
-  rank: 1
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 90
+  score: 91.72789538259508
+  llm_score: 90
+  recency_score: 98.63947691297537
   rank: 2
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 90
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 86.98553700495827
+  llm_score: 85
+  recency_score: 94.92768502479139
   rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 85.43964342023084
+  llm_score: 85
+  recency_score: 87.19821710115417
   rank: 4
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 85
-  rank: 5
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 85
-  rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75
-  rank: 7
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 70
-  rank: 8
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 65
+  score: 85.24956745472434
+  llm_score: 85
+  recency_score: 86.24783727362167
+  rank: 5
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 72.60046826485723
+  llm_score: 70
+  recency_score: 83.00234132428609
+  rank: 6
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 68.42355908995094
+  llm_score: 85
+  recency_score: 2.117795449754721
+  rank: 7
+- slug: scary
+  title: SCARY
+  score: 68.3744301839039
+  llm_score: 85
+  recency_score: 1.8721509195194928
+  rank: 8
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 68.35543790561404
+  llm_score: 85
+  recency_score: 1.7771895280701993
   rank: 9
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 65
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 55.77061878848929
+  llm_score: 65
+  recency_score: 18.853093942446446
   rank: 10
 ---
 This is another letter about election fraud in Fairhope. There are several filed with the Alabama Sec. of State, Election Division.

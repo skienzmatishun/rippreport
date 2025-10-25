@@ -13,43 +13,63 @@ alttags: Map outline of New Jersey, illustrating planning and growth management 
 related_articles:
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 90
+  score: 76.03793035989311
+  llm_score: 90
+  recency_score: 20.189651799465537
   rank: 1
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 85
-  rank: 2
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 82
-  rank: 3
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 75
-  rank: 4
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 75
-  rank: 5
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 65
-  rank: 6
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 65
-  rank: 7
+  score: 75.50151487477555
+  llm_score: 75
+  recency_score: 77.50757437387774
+  rank: 2
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 70.72904423720288
+  llm_score: 85
+  recency_score: 13.645221186014394
+  rank: 3
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 69.5829933851088
+  llm_score: 82
+  recency_score: 19.91496692554393
+  rank: 4
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 65
-  rank: 8
+  score: 61.65006981718641
+  llm_score: 65
+  recency_score: 48.25034908593207
+  rank: 5
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 60.94782746243795
+  llm_score: 75
+  recency_score: 4.7391373121897375
+  rank: 6
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 60.74273317932575
+  llm_score: 75
+  recency_score: 3.7136658966287337
+  rank: 7
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 50
+  score: 59.85763521712458
+  llm_score: 65
+  recency_score: 39.2881760856229
+  rank: 8
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 54.99547296281644
+  llm_score: 65
+  recency_score: 14.977364814082216
   rank: 9
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 45
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 52.110029424613586
+  llm_score: 65
+  recency_score: 0.5501471230679165
   rank: 10
 ---
 By Chris Warner

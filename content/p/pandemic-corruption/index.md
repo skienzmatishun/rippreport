@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Road sign pointing towards Corruption, illustrating the article’s claim about widespread corruption in Alabama leadership
 related_articles:
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 89
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
   rank: 1
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 85
-  rank: 2
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 85
-  rank: 3
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
-  rank: 4
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 82
-  rank: 5
+  score: 82.42943663570213
+  llm_score: 82
+  recency_score: 84.14718317851063
+  rank: 2
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 76.4636379608563
+  llm_score: 95
+  recency_score: 2.318189804281508
+  rank: 3
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 78
+  score: 75.77061878848929
+  llm_score: 90
+  recency_score: 18.853093942446446
+  rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 72.47261545821016
+  llm_score: 90
+  recency_score: 2.363077291050805
+  rank: 5
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 68.44012078313703
+  llm_score: 85
+  recency_score: 2.200603915685177
   rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 75
-  rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 70
-  rank: 8
+  score: 68.12827449808847
+  llm_score: 85
+  recency_score: 0.6413724904423975
+  rank: 7
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
-  score: 70
+  score: 68.08885885361245
+  llm_score: 85
+  recency_score: 0.44429426806224154
+  rank: 8
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 68.06071721577715
+  llm_score: 85
+  recency_score: 0.3035860788857349
   rank: 9
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 65
+  score: 60.810789205002415
+  llm_score: 75
+  recency_score: 4.053946025012058
   rank: 10
 ---
 WELCOME TO ALABAMA

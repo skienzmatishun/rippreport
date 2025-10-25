@@ -29,45 +29,65 @@ authors:
 - admin
 alttags: Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership
 related_articles:
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 90
-  rank: 1
 - slug: pied-piper
   title: PIED PIPER
-  score: 85
-  rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 3
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 85
-  rank: 4
+  score: 91.62009294457451
+  llm_score: 90
+  recency_score: 98.10046472287257
+  rank: 1
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 85
+  score: 77.36358438186879
+  llm_score: 85
+  recency_score: 46.817921909343944
+  rank: 2
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
+  rank: 3
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 72.30404818212301
+  llm_score: 90
+  recency_score: 1.5202409106150827
+  rank: 4
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 72.2249360905056
+  llm_score: 90
+  recency_score: 1.1246804525279486
   rank: 5
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 85
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 72.22066335011544
+  llm_score: 90
+  recency_score: 1.1033167505772241
   rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 69.03467610730296
+  llm_score: 85
+  recency_score: 5.173380536514811
   rank: 7
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 68.2762471046064
+  llm_score: 85
+  recency_score: 1.3812355230319726
+  rank: 8
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 75
-  rank: 8
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 65
+  score: 61.991489713622244
+  llm_score: 75
+  recency_score: 9.957448568111234
   rank: 9
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 65
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 60.39769259535006
+  llm_score: 75
+  recency_score: 1.9884629767503073
   rank: 10
 ---
 Only in Fairhope can someone with a high school education become the utility director with absolutely no experience at the job. Mayor Sullivan gets a $25,000 utility salary as well as her second check as Mayor.

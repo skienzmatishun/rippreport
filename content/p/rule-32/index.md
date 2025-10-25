@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Legal document filed as a Rule 32 petition seeking relief from conviction for Murray Lawrence, against backdrop of jail fe...
 related_articles:
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 95
-  rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 95
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 95
-  rank: 3
-- slug: innocent
-  title: INNOCENT
-  score: 95
-  rank: 4
 - slug: no-justice
   title: NO JUSTICE
-  score: 95
+  score: 97.77733007636273
+  llm_score: 100
+  recency_score: 88.88665038181365
+  rank: 1
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
+  rank: 2
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 92.01484817064438
+  llm_score: 100
+  recency_score: 60.07424085322191
+  rank: 3
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 4
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
   rank: 5
 - slug: advocates
   title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 95
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 6
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 95
-  rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 95
-  rank: 8
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 95
-  rank: 9
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 85
+  score: 82.07359964556152
+  llm_score: 95
+  recency_score: 30.367998227807558
+  rank: 7
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 80.72880384054973
+  llm_score: 96
+  recency_score: 19.644019202748584
+  rank: 8
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 80.10597776443174
+  llm_score: 96
+  recency_score: 16.529888822158654
+  rank: 9
+- slug: innocent
+  title: INNOCENT
+  score: 79.85417482562934
+  llm_score: 95
+  recency_score: 19.270874128146687
   rank: 10
 ---
 The wrongful conviction of Murray Lawrence has cost him over 7500 days in Jail. The Ripp Report is happy to announce that we are a step closer to Mr. Lawrence proving his innocence. A Rule 32 has been filed on his behalf.

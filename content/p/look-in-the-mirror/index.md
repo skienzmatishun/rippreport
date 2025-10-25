@@ -10,43 +10,63 @@ alttags: Illustration of an ornate hand mirror, symbolizing scrutiny of Alabama 
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 85
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 1
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 85
+- slug: countdown
+  title: COUNTDOWN
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
   rank: 2
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 85
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 84.41953853153237
+  llm_score: 85
+  recency_score: 82.09769265766185
   rank: 3
 - slug: qualification
   title: QUALIFICATION
-  score: 85
+  score: 81.11575875113695
+  llm_score: 85
+  recency_score: 65.57879375568477
   rank: 4
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 85
+  score: 79.25024389308274
+  llm_score: 85
+  recency_score: 56.25121946541366
   rank: 5
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 75
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
   rank: 6
-- slug: repeat
-  title: REPEAT
-  score: 75
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 76.14253972246432
+  llm_score: 85
+  recency_score: 40.71269861232158
   rank: 7
 - slug: congressional-catalyst
   title: CONGRESSIONAL CATALYST
-  score: 75
+  score: 61.76049547136543
+  llm_score: 75
+  recency_score: 8.80247735682715
   rank: 8
-- slug: countdown
-  title: COUNTDOWN
-  score: 72
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 60.120261925922016
+  llm_score: 65
+  recency_score: 40.601309629610085
   rank: 9
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 65
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 60.0297818310553
+  llm_score: 75
+  recency_score: 0.14890915527650286
   rank: 10
 ---
 Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote.

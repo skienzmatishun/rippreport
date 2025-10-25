@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: 'Alabama US Senate primary election button: red, white, and blue design with stars and VOTE text'
 related_articles:
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 85
+- slug: countdown
+  title: COUNTDOWN
+  score: 91.62009294457451
+  llm_score: 90
+  recency_score: 98.10046472287257
   rank: 1
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 85
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 2
-- slug: countdown
-  title: COUNTDOWN
-  score: 85
-  rank: 3
-- slug: election-ad
-  title: ELECTION AD
-  score: 85
-  rank: 4
 - slug: poison-water-alabama-senate-special-election
   title: POISON WATER - Alabama Senate Special Election
-  score: 75
+  score: 84.73747273054873
+  llm_score: 85
+  recency_score: 83.68736365274363
+  rank: 3
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 83.88849539476564
+  llm_score: 85
+  recency_score: 79.4424769738282
+  rank: 4
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 81.58357363897636
+  llm_score: 80
+  recency_score: 87.91786819488183
   rank: 5
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 75
+  score: 75.96601468604398
+  llm_score: 85
+  recency_score: 39.83007343021991
   rank: 6
 - slug: blind-voting-straight-ticket
   title: BLIND VOTING STRAIGHT TICKET
-  score: 75
+  score: 73.74975319390109
+  llm_score: 85
+  recency_score: 28.748765969505406
   rank: 7
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 65
+- slug: election-ad
+  title: ELECTION AD
+  score: 53.58642919000963
+  llm_score: 65
+  recency_score: 7.932145950048156
   rank: 8
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 65
-  rank: 9
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 65
+  score: 53.52673204660475
+  llm_score: 65
+  recency_score: 7.633660233023765
+  rank: 9
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 52.20832596467698
+  llm_score: 65
+  recency_score: 1.0416298233849144
   rank: 10
 ---
 The US Senate seat sought by a total of 19 candidates, 11 Republicans and 8 Democrats, primary is less than 4 days away.

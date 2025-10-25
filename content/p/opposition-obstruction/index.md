@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Warning sign reading Obstruction, symbolizing resistance from Fairhope City Council against the mayors recommendations
 related_articles:
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 90
-  rank: 1
 - slug: broken-eggs
   title: BROKEN EGGS
-  score: 85
+  score: 86.52312487593501
+  llm_score: 85
+  recency_score: 92.61562437967505
+  rank: 1
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 84.2139847791858
+  llm_score: 90
+  recency_score: 61.06992389592894
   rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 80.31478738498812
+  llm_score: 85
+  recency_score: 61.57393692494061
+  rank: 3
 - slug: three-strikes
   title: THREE STRIKES
-  score: 85
-  rank: 3
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 85
+  score: 75.618802726002
+  llm_score: 90
+  recency_score: 18.094013630009982
   rank: 4
 - slug: hell-yea
   title: HELL YEA
-  score: 85
+  score: 75.17838723901062
+  llm_score: 85
+  recency_score: 35.89193619505306
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 6
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 85
+  score: 72.56774635711682
+  llm_score: 85
+  recency_score: 22.8387317855841
+  rank: 6
+- slug: shut-up-2
+  title: SHUT UP
+  score: 72.31236163934018
+  llm_score: 85
+  recency_score: 21.56180819670091
   rank: 7
 - slug: shut-up
   title: SHUT UP
-  score: 75
+  score: 71.46808419803509
+  llm_score: 75
+  recency_score: 57.34042099017541
   rank: 8
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 68.07039853716508
+  llm_score: 85
+  recency_score: 0.3519926858253926
   rank: 9
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
+- slug: communication
+  title: COMMUNICATION
+  score: 56.94546996796693
+  llm_score: 65
+  recency_score: 24.727349839834638
   rank: 10
 ---
 Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is calling the shots. One thing that is perfectly clear is that any recommendations from the mayor will be meet with stiff resistance, regardless of it’s merit.

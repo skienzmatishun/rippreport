@@ -7,45 +7,65 @@ authors:
 - admin
 alttags: Aerial view of Fort Morgan sewage treatment plant; public hearing scheduled over expansion proposal
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 100
-  rank: 1
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 95
-  rank: 2
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 95
-  rank: 3
 - slug: troubled-waters
   title: Troubled Waters
-  score: 85
-  rank: 4
+  score: 82.20034869269523
+  llm_score: 85
+  recency_score: 71.00174346347615
+  rank: 1
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 82.10942881080481
+  llm_score: 100
+  recency_score: 10.547144054024043
+  rank: 2
 - slug: backstory-podcast-11
   title: 'BACKSTORY PODCAST #11'
-  score: 85
-  rank: 5
-- slug: water
-  title: Water
-  score: 75
-  rank: 6
+  score: 81.77502492544821
+  llm_score: 100
+  recency_score: 8.875124627241007
+  rank: 3
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 81.64846056681101
+  llm_score: 100
+  recency_score: 8.242302834055081
+  rank: 4
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 75
+  score: 79.35157673975544
+  llm_score: 95
+  recency_score: 16.757883698777256
+  rank: 5
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 77.63496710439854
+  llm_score: 95
+  recency_score: 8.17483552199271
+  rank: 6
+- slug: water
+  title: Water
+  score: 75.88849539476564
+  llm_score: 75
+  recency_score: 79.4424769738282
   rank: 7
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 75
-  rank: 8
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'
-  score: 75
+  score: 61.5520364231224
+  llm_score: 75
+  recency_score: 7.760182115612004
+  rank: 8
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 61.465261380703375
+  llm_score: 75
+  recency_score: 7.326306903516857
   rank: 9
-- slug: bsp-128
-  title: Big News
-  score: 70
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 57.44929138837351
+  llm_score: 70
+  recency_score: 7.246456941867555
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23UW-uRcHIM" frameborder="0" allowfullscreen></iframe>

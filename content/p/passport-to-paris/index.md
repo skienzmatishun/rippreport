@@ -12,43 +12,63 @@ alttags: State Senator Chris Elliott holds his passport, linked to a bill for tr
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 75
+  score: 75.60350242007569
+  llm_score: 85
+  recency_score: 38.0175121003784
   rank: 1
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 75
-  rank: 2
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 75
-  rank: 3
 - slug: state-senate-seat-district-32-bombs-away
   title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 65
+  score: 74.5758477586611
+  llm_score: 85
+  recency_score: 32.87923879330549
+  rank: 2
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 71.07867526852729
+  llm_score: 85
+  recency_score: 15.39337634263649
+  rank: 3
+- slug: runoff
+  title: RUNOFF
+  score: 70.13789333571614
+  llm_score: 75
+  recency_score: 50.689466678580686
   rank: 4
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 65
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 68.3916664395256
+  llm_score: 75
+  recency_score: 41.958332197627975
   rank: 5
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 67.58269941687313
+  llm_score: 75
+  recency_score: 37.913497084365645
+  rank: 6
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 67.5206312839577
+  llm_score: 75
+  recency_score: 37.60315641978851
+  rank: 7
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 65
-  rank: 6
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 65
-  rank: 7
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 65
+  score: 66.52202120293505
+  llm_score: 75
+  recency_score: 32.61010601467527
   rank: 8
 - slug: who-not-to-vote-for
   title: WHO NOT TO VOTE FOR
-  score: 55
+  score: 54.4059000010753
+  llm_score: 65
+  recency_score: 12.02950000537652
   rank: 9
 - slug: sunday-sermon
   title: SUNDAY SERMON
-  score: 50
+  score: 48.623279093644705
+  llm_score: 60
+  recency_score: 3.116395468223524
   rank: 10
 ---
 State Senator Chris Elliott, aka TAX MAN, needs tax money to travel, so he co-sponsored a bill for his travel expenses. The newly elected State Senator is rumored to have used the proposed travel expenditure to strong arm other legislators, by holding up other bills being considered. It is not nice to piss off Goat Hill, especially when your a lamb.

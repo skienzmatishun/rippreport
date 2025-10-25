@@ -10,43 +10,63 @@ alttags: Scrabble tiles spelling LOSER amidst a scattered pile, symbolizing chal
 related_articles:
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 85
+  score: 79.69014258029426
+  llm_score: 85
+  recency_score: 58.450712901471334
   rank: 1
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 75
+  score: 70.7141314643738
+  llm_score: 85
+  recency_score: 13.570657321869012
   rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 75
-  rank: 3
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 75
+  score: 69.08400637110499
+  llm_score: 85
+  recency_score: 5.420031855524929
+  rank: 3
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 68.08242501251668
+  llm_score: 80
+  recency_score: 20.412125062583367
   rank: 4
-- slug: hate
-  title: HATE
-  score: 65
+- slug: crazy
+  title: CRAZY
+  score: 67.96601468604398
+  llm_score: 75
+  recency_score: 39.83007343021991
   rank: 5
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 65
-  rank: 6
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 65
-  rank: 7
 - slug: criminal-enterprise
   title: CRIMINAL ENTERPRISE
-  score: 60
-  rank: 8
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 60
-  rank: 9
+  score: 66.09026245994085
+  llm_score: 75
+  recency_score: 30.451312299704224
+  rank: 6
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 60.230446808723606
+  llm_score: 70
+  recency_score: 21.152234043618023
+  rank: 7
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 55
+  score: 53.36451733681731
+  llm_score: 65
+  recency_score: 6.822586684086551
+  rank: 8
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 52.66563922962438
+  llm_score: 65
+  recency_score: 3.328196148121898
+  rank: 9
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 52.43532387411898
+  llm_score: 65
+  recency_score: 2.1766193705948793
   rank: 10
 ---
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys, we can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.

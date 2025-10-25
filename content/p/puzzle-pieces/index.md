@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras...
 related_articles:
-- slug: bad-faith
-  title: Bad Faith
-  score: 85
-  rank: 1
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 85
-  rank: 2
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 75
-  rank: 3
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 75
-  rank: 4
+  score: 87.56641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
+  rank: 1
 - slug: no-mo-bridge
   title: NO MO BRIDGE
-  score: 75
-  rank: 5
+  score: 71.1382881592094
+  llm_score: 85
+  recency_score: 15.691440796046965
+  rank: 2
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 75
-  rank: 6
+  score: 70.01895810475479
+  llm_score: 85
+  recency_score: 10.094790523773954
+  rank: 3
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 69.06633274891847
+  llm_score: 85
+  recency_score: 5.331663744592373
+  rank: 4
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 75
-  rank: 7
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 75
-  rank: 8
+  score: 69.00395926891434
+  llm_score: 85
+  recency_score: 5.0197963445716995
+  rank: 5
+- slug: bad-faith
+  title: Bad Faith
+  score: 68.475212239927
+  llm_score: 85
+  recency_score: 2.376061199635027
+  rank: 6
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 75
+  score: 64.30020504537512
+  llm_score: 70
+  recency_score: 41.50102522687563
+  rank: 7
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 63.30597776443173
+  llm_score: 75
+  recency_score: 16.529888822158654
+  rank: 8
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 61.75567879729794
+  llm_score: 75
+  recency_score: 8.77839398648969
   rank: 9
-- slug: s-o-s
-  title: S.O.S
-  score: 65
+- slug: pied-piper
+  title: PIED PIPER
+  score: 55.369991950365275
+  llm_score: 65
+  recency_score: 16.84995975182637
   rank: 10
 ---
 _**This is not a proven fact, it's just a collection of puzzle pieces that needs to be looked into.**_

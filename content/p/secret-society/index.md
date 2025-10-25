@@ -27,43 +27,63 @@ alttags: Emoji face with zipper over mouth, symbolizing secrecy and hidden infor
 related_articles:
 - slug: deja-vu
   title: Deja Vu
-  score: 100
+  score: 80.23825715325401
+  llm_score: 100
+  recency_score: 1.1912857662700727
   rank: 1
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 2
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 2
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 85
+  score: 69.90086228231678
+  llm_score: 85
+  recency_score: 9.504311411583915
   rank: 3
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 85
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 69.69424823431282
+  llm_score: 85
+  recency_score: 8.471241171564124
   rank: 4
 - slug: shadow-government
   title: SHADOW GOVERNMENT
-  score: 75
+  score: 69.66206539141994
+  llm_score: 85
+  recency_score: 8.310326957099722
   rank: 5
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75
-  rank: 6
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 75
-  rank: 7
 - slug: investigations
   title: INVESTIGATIONS
-  score: 75
+  score: 68.57883750997557
+  llm_score: 85
+  recency_score: 2.894187549877844
+  rank: 6
+- slug: leaks-and-collusion
+  title: LEAKS AND COLLUSION
+  score: 68.51592082096282
+  llm_score: 85
+  recency_score: 2.5796041048141145
+  rank: 7
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 68.35641304329026
+  llm_score: 85
+  recency_score: 1.782065216451268
   rank: 8
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 75
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 60.51310158853855
+  llm_score: 75
+  recency_score: 2.565507942692728
   rank: 9
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 65
+  score: 60.30739854159894
+  llm_score: 75
+  recency_score: 1.5369927079947032
   rank: 10
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.

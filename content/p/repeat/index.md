@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Recurring cycle symbol representing repeating issues in Baldwin County politics, referencing the article’s “Freaky Friday”...
 related_articles:
-- slug: re-run-doing-nothing
-  title: RE-RUN - DOING NOTHING
-  score: 90
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 83.24877842919904
+  llm_score: 85
+  recency_score: 76.2438921459952
   rank: 1
+- slug: re-run-doing-nothing
+  title: DOING NOTHING
+  score: 82.02739968526954
+  llm_score: 90
+  recency_score: 50.13699842634772
+  rank: 2
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 79.84502484628416
+  llm_score: 80
+  recency_score: 79.22512423142078
+  rank: 3
 - slug: chasing-your-tail
   title: CHASING YOUR TAIL
-  score: 90
-  rank: 2
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 85
-  rank: 3
-- slug: timeline
-  title: TIMELINE
-  score: 85
+  score: 79.83613691258604
+  llm_score: 90
+  recency_score: 39.1806845629302
   rank: 4
 - slug: in-the-dark
   title: IN THE DARK
-  score: 75
+  score: 75.66625449247667
+  llm_score: 85
+  recency_score: 38.33127246238332
   rank: 5
 - slug: shut-up-2
   title: SHUT UP
-  score: 75
+  score: 73.87716639008053
+  llm_score: 85
+  recency_score: 29.385831950402675
   rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 73.3106002818493
+  llm_score: 85
+  recency_score: 26.55300140924655
   rank: 7
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 75
+- slug: timeline
+  title: TIMELINE
+  score: 72.07125559401483
+  llm_score: 85
+  recency_score: 20.356277970074178
   rank: 8
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 75
-  rank: 9
 - slug: three-strikes
   title: THREE STRIKES
-  score: 65
+  score: 64.93193927883213
+  llm_score: 75
+  recency_score: 24.659696394160648
+  rank: 9
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 56.254449907852845
+  llm_score: 70
+  recency_score: 1.2722495392642252
   rank: 10
 ---
 Freaky Friday is a repeat of Jan 1st. Please read carefully the post it is not fiction or a conspiracy theory.

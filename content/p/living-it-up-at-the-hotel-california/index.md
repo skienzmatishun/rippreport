@@ -15,43 +15,63 @@ alttags: Mayor Kant and Jennifer Fidler appear in Southern California, reportedl
 related_articles:
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 85
+  score: 86.52312487593501
+  llm_score: 85
+  recency_score: 92.61562437967505
   rank: 1
 - slug: showing-your-true-colors
   title: SHOWING YOUR TRUE COLORS
-  score: 75
+  score: 78.17127158449026
+  llm_score: 75
+  recency_score: 90.85635792245131
   rank: 2
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 75
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 71.80167323219754
+  llm_score: 70
+  recency_score: 79.0083661609877
   rank: 3
 - slug: exit-and-enter
   title: EXIT AND ENTER
-  score: 75
+  score: 70.52312487593501
+  llm_score: 65
+  recency_score: 92.61562437967505
   rank: 4
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 70.43570824436047
+  llm_score: 70
+  recency_score: 72.17854122180232
+  rank: 5
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 69.8369256908693
+  llm_score: 75
+  recency_score: 49.18462845434644
+  rank: 6
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 69.48748877687456
+  llm_score: 65
+  recency_score: 87.43744388437275
+  rank: 7
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 75
-  rank: 5
-- slug: wonderful-wednesday
-  title: WONDERFUL WEDNESDAY
-  score: 65
-  rank: 6
+  score: 68.11945498517763
+  llm_score: 85
+  recency_score: 0.5972749258881307
+  rank: 8
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
-  score: 65
-  rank: 7
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 65
-  rank: 8
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 55
+  score: 54.82799474546216
+  llm_score: 65
+  recency_score: 14.139973727310823
   rank: 9
-- slug: hate
-  title: HATE
-  score: 55
+- slug: shut-up-2
+  title: SHUT UP
+  score: 53.68499007034101
+  llm_score: 65
+  recency_score: 8.424950351705032
   rank: 10
 ---
 **CORRECTION** Mayor Kant was not in California until Wednesday, he and Jennifer just skipped the planning and zoning meeting Monday night for no legitimate reason. Several employees have called the Eagle and informed us that the dynamic duo was in hiding. WOW what leadership. An America in Bloom vanity award in sunny Southern California was the reason Mayor Kant and Public Works Director Jennifer Fidler were conspicuously absent at this week’s planning commission meeting entertaining the controversial Fly Creek Apartment deal for the sixth time.  While Kant and Fidler, Sherry Sullivan did not make this trip, were wining and dining with the fawning politicians of coastal Arroyo Grande, the Fairhope Planning Commission sealed the fate of the dubious high-density project with a 4-2 vote.  Their two votes, in lieu of Commissioner Fogarty’s absence, were crucial.  However, the fact that the mayor turned his back on  the citizens, the developers, and property owner, at the eleventh hour of this costly, tortuous ordeal speaks volumes about his character and even more about the near future of Fairhope politics.  What is the mayor thinking? Fairhope came in second for the same award last year, out of three entries, think about it.

@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Cartoon figure sits slumped in a chair, questioning authority amid Fairhope City Council debate over mayoral hiring power
 related_articles:
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 85
-  rank: 1
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
+  rank: 1
+- slug: people-power
+  title: PEOPLE POWER
+  score: 79.00016259450726
+  llm_score: 80
+  recency_score: 75.00081297253628
   rank: 2
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 4
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 85
-  rank: 5
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 85
-  rank: 6
+  score: 72.0047506529563
+  llm_score: 90
+  recency_score: 0.02375326478151637
+  rank: 3
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 68.62157381675192
+  llm_score: 85
+  recency_score: 3.107869083759611
+  rank: 4
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 75
+  score: 68.61311716147212
+  llm_score: 85
+  recency_score: 3.0655858073605606
+  rank: 5
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 68.35935453733623
+  llm_score: 85
+  recency_score: 1.7967726866811407
+  rank: 6
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.02858272804912
+  llm_score: 85
+  recency_score: 0.14291364024554834
   rank: 7
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 75
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 60.624989048934815
+  llm_score: 75
+  recency_score: 3.1249452446740595
   rank: 8
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 70
-  rank: 9
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
+  score: 60.127409959408745
+  llm_score: 70
+  recency_score: 20.63704979704373
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 56.03180590410073
+  llm_score: 70
+  recency_score: 0.15902952050365238
   rank: 10
 ---
 The Fairhope City Council pounced on Mayor Wilson for exercising her rights and responsibilities as Mayor to hire and fire employees.

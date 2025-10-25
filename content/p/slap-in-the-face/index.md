@@ -19,43 +19,63 @@ alttags: Hand raised in a slapping gesture against a stark background, symbolizi
 related_articles:
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 90
+  score: 84.90191963447131
+  llm_score: 90
+  recency_score: 64.50959817235656
   rank: 1
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 85
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
   rank: 2
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 85
-  rank: 3
-- slug: loser
-  title: LOSER
-  score: 75
-  rank: 4
 - slug: bar-stool-continued
   title: BAR STOOL “CONTINUED”
-  score: 75
-  rank: 5
+  score: 77.65006981718642
+  llm_score: 85
+  recency_score: 48.25034908593207
+  rank: 3
 - slug: criminal-enterprise
   title: CRIMINAL ENTERPRISE
-  score: 75
+  score: 76.91301970063262
+  llm_score: 85
+  recency_score: 44.565098503163114
+  rank: 4
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 71.63868620757778
+  llm_score: 85
+  recency_score: 18.193431037888864
+  rank: 5
+- slug: loser
+  title: LOSER
+  score: 70.7141314643738
+  llm_score: 85
+  recency_score: 13.570657321869012
   rank: 6
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 65
+  score: 68.27749588022975
+  llm_score: 75
+  recency_score: 41.38747940114875
   rank: 7
+- slug: joke
+  title: JOKE LLP
+  score: 64.70893335614454
+  llm_score: 80
+  recency_score: 3.544666780722678
+  rank: 8
 - slug: laugh-out-loud-baldwin
   title: Laugh Out Loud Baldwin
-  score: 65
-  rank: 8
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 65
+  score: 60.1387334364297
+  llm_score: 70
+  recency_score: 20.693667182148534
   rank: 9
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 65
+  score: 59.987869307981995
+  llm_score: 65
+  recency_score: 39.93934653990996
   rank: 10
 ---
 Baldwin County citizens have just been slapped in the face. Want to know why Alabama is number one in corruption and the butt of jokes? It is because the judicial system stinks and people with power or money, WALK.

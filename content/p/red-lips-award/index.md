@@ -24,43 +24,63 @@ alttags: Red lips sculpture on a stand, referencing corruption & criticism of Al
 related_articles:
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 95
+  score: 90.39621248724127
+  llm_score: 95
+  recency_score: 71.98106243620636
   rank: 1
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 85
-  rank: 2
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 85
-  rank: 3
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 85
-  rank: 4
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 75
-  rank: 5
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 75
-  rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 75
-  rank: 7
-- slug: war
-  title: WAR
-  score: 65
-  rank: 8
+  score: 87.56641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
+  rank: 2
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 87.40625209818191
+  llm_score: 85
+  recency_score: 97.03126049090956
+  rank: 3
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 65
-  rank: 9
+  score: 86.98553700495827
+  llm_score: 85
+  recency_score: 94.92768502479139
+  rank: 4
 - slug: deaf-ears
   title: DEAF EARS
-  score: 65
+  score: 74.55785639436276
+  llm_score: 85
+  recency_score: 32.789281971813786
+  rank: 5
+- slug: war
+  title: WAR
+  score: 71.51287958944485
+  llm_score: 65
+  recency_score: 97.56439794722424
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 69.42957344443643
+  llm_score: 85
+  recency_score: 7.147867222182147
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 68.78671898553806
+  llm_score: 85
+  recency_score: 3.933594927690323
+  rank: 8
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 61.948315494495255
+  llm_score: 75
+  recency_score: 9.741577472476289
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 52.35349562682317
+  llm_score: 65
+  recency_score: 1.7674781341158494
   rank: 10
 ---
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!

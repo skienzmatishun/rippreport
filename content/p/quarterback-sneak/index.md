@@ -26,45 +26,65 @@ authors:
 - admin
 alttags: Football represents a distraction from political issues discussed in this article about Fairhope politics
 related_articles:
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 85
-  rank: 1
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 2
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 75
+  score: 68.94006902738927
+  llm_score: 85
+  recency_score: 4.7003451369463285
+  rank: 1
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 68.48707545982508
+  llm_score: 85
+  recency_score: 2.435377299125359
+  rank: 2
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 68.4020748388025
+  llm_score: 85
+  recency_score: 2.0103741940125253
   rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 68.36034042022305
+  llm_score: 85
+  recency_score: 1.8017021011152816
+  rank: 4
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 64.25030136070713
+  llm_score: 80
+  recency_score: 1.251506803535654
+  rank: 5
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 60.57883750997557
+  llm_score: 75
+  recency_score: 2.894187549877844
+  rank: 6
+- slug: gob-coup
+  title: GOB COUP
+  score: 60.528800291723115
+  llm_score: 75
+  recency_score: 2.644001458615577
+  rank: 7
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 75
-  rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 5
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 70
-  rank: 6
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 70
-  rank: 7
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 65
+  score: 56.20662071395367
+  llm_score: 70
+  recency_score: 1.0331035697683377
   rank: 8
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 65
+  score: 56.20325197320484
+  llm_score: 70
+  recency_score: 1.0162598660242268
   rank: 9
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 60
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 53.17686669222855
+  llm_score: 65
+  recency_score: 5.884333461142748
   rank: 10
 ---
 Fairhope are you distracted enough between Inciting Insurrection, and the championship football game today? How distracted and worried have you been over Covid-19 and your kids going back to school?

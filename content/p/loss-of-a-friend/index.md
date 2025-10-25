@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Floral tribute of white roses and lilies, a memento honoring the memory of dear friend Raymond Watkins
 related_articles:
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 75
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 74.92721807862874
+  llm_score: 85
+  recency_score: 34.63609039314372
   rank: 1
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 75
+- slug: obituary
+  title: OBITUARY
+  score: 70.39931751544404
+  llm_score: 85
+  recency_score: 11.996587577220225
   rank: 2
 - slug: celebration-of-life
   title: CELEBRATION OF LIFE
-  score: 75
+  score: 68.76127480408121
+  llm_score: 85
+  recency_score: 3.806374020406067
   rank: 3
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 75
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 61.89566156796674
+  llm_score: 75
+  recency_score: 9.47830783983372
   rank: 4
-- slug: memorial-day-3
-  title: Memorial Day
-  score: 65
+- slug: combat
+  title: COMBAT
+  score: 56.14724185949736
+  llm_score: 55
+  recency_score: 60.73620929748681
   rank: 5
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 48.480980403693685
+  llm_score: 55
+  recency_score: 22.404902018468416
+  rank: 6
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 44.643453141365335
+  llm_score: 50
+  recency_score: 23.21726570682666
+  rank: 7
 - slug: happy-days
   title: HAPPY DAYS
-  score: 50
-  rank: 6
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 50
-  rank: 7
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 45
+  score: 41.36451733681731
+  llm_score: 50
+  recency_score: 6.822586684086551
   rank: 8
 - slug: no-freaky-friday
   title: NO FREAKY FRIDAY
-  score: 40
+  score: 40.93747241426176
+  llm_score: 40
+  recency_score: 44.68736207130882
   rank: 9
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 30
+  score: 33.68499007034101
+  llm_score: 40
+  recency_score: 8.424950351705032
   rank: 10
 ---
 RAYMOND WATKINS

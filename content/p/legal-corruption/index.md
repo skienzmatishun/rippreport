@@ -17,45 +17,65 @@ authors:
 - admin
 alttags: Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials
 related_articles:
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
+  rank: 1
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 90
-  rank: 1
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 90
+  score: 78.24230004805162
+  llm_score: 90
+  recency_score: 31.21150024025806
   rank: 2
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 90
-  rank: 3
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 85
+  score: 74.17426475741956
+  llm_score: 85
+  recency_score: 30.871323787097815
+  rank: 3
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 69.9643950362927
+  llm_score: 85
+  recency_score: 9.821975181463475
   rank: 4
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 75
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 68.70313038712806
+  llm_score: 85
+  recency_score: 3.5156519356403035
   rank: 5
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 75
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 68.0505349731761
+  llm_score: 85
+  recency_score: 0.2526748658804697
   rank: 6
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 70
+  score: 66.22156185864796
+  llm_score: 70
+  recency_score: 51.107809293239825
   rank: 7
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 65
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 63.13916117711129
+  llm_score: 70
+  recency_score: 35.69580588555647
   rank: 8
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 65
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 61.379553189219216
+  llm_score: 75
+  recency_score: 6.897765946096069
   rank: 9
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 65
+- slug: threesome
+  title: THREESOME
+  score: 57.126392383720344
+  llm_score: 70
+  recency_score: 5.6319619186017045
   rank: 10
 ---
 Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama and our elected officials are more interested in special interests than their constituents.

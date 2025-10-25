@@ -16,43 +16,63 @@ alttags: City of Fairhope, Alabama seal depicting a ship, rising sun, and flames
 related_articles:
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 95
+  score: 84.46092326761413
+  llm_score: 95
+  recency_score: 42.3046163380707
   rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
   rank: 2
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 85
+  score: 80.76770197286933
+  llm_score: 90
+  recency_score: 43.83850986434665
   rank: 3
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 75
-  rank: 4
-- slug: survey
-  title: SURVEY
-  score: 75
-  rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
-  rank: 6
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 65
+  score: 74.83297167738046
+  llm_score: 85
+  recency_score: 34.164858386902274
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 73.44532616133364
+  llm_score: 90
+  recency_score: 7.226630806668228
+  rank: 5
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 71.54034940495241
+  llm_score: 85
+  recency_score: 17.701747024762053
+  rank: 6
+- slug: survey
+  title: SURVEY
+  score: 65.76552754120547
+  llm_score: 75
+  recency_score: 28.827637706027392
   rank: 7
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 65
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 61.718333855938354
+  llm_score: 70
+  recency_score: 28.59166927969179
   rank: 8
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 65
-  rank: 9
 - slug: rotten
   title: ROTTEN
-  score: 65
+  score: 57.224016341508346
+  llm_score: 65
+  recency_score: 26.120081707541715
+  rank: 9
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 41.92708065959618
+  llm_score: 50
+  recency_score: 9.635403297980877
   rank: 10
 ---
 I am reluctantly back from a three week vacation and trying to get back on the Ripp Report horse. Let’s review a few subjects that have been in the news in my absence.

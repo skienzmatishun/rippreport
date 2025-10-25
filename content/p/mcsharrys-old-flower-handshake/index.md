@@ -12,43 +12,63 @@ authors:
 related_articles:
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 95
+  score: 88.51889524885166
+  llm_score: 95
+  recency_score: 62.594476244258324
   rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 85
-  rank: 2
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 85
-  rank: 3
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 85
-  rank: 4
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
-  score: 85
+  score: 79.15553145748171
+  llm_score: 95
+  recency_score: 15.777657287408536
+  rank: 2
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 78.27659831391288
+  llm_score: 90
+  recency_score: 31.3829915695644
+  rank: 3
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 72.11611746315371
+  llm_score: 85
+  recency_score: 20.580587315768575
+  rank: 4
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 71.2078318963773
+  llm_score: 85
+  recency_score: 16.039159481886507
   rank: 5
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 75
-  rank: 6
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 75
-  rank: 7
 - slug: surrender
   title: SURRENDER
-  score: 55
+  score: 58.41568627566374
+  llm_score: 65
+  recency_score: 32.0784313783187
+  rank: 6
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 57.181255192369875
+  llm_score: 65
+  recency_score: 25.906275961849367
+  rank: 7
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 53.281187097511896
+  llm_score: 65
+  recency_score: 6.405935487559478
   rank: 8
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 45
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 52.77601549210981
+  llm_score: 65
+  recency_score: 3.880077460549066
   rank: 9
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 40
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 52.05940090549906
+  llm_score: 65
+  recency_score: 0.2970045274953057
   rank: 10
 ---
 Ronan McSharry is a public nuisance and the City Of Fairhope has failed to protect the general public, for the forth or fifth time. If you are not suspicious of how Mr McSharry has avoided prosecution then you have not been following his repeated domestic abuse charges and public drunkenness.

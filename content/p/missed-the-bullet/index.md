@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Hurricane Delta approaching a figure, symbolizing Lake Charles facing another direct hit after significant storm damage
 related_articles:
-- slug: horrible-hurricane-harvey
-  title: HORRIBLE HURRICANE HARVEY
-  score: 75
-  rank: 1
 - slug: m-i-a
   title: M.I.A
-  score: 70
-  rank: 2
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 70
-  rank: 3
+  score: 83.78201851846809
+  llm_score: 80
+  recency_score: 98.91009259234048
+  rank: 1
 - slug: howling-rains
   title: HOWLING RAINS
-  score: 70
-  rank: 4
+  score: 71.41680735458122
+  llm_score: 70
+  recency_score: 77.0840367729061
+  rank: 2
 - slug: howling-rains-passing-gas
   title: HOWLING RAINS PASSING GAS
-  score: 70
-  rank: 5
+  score: 69.77733007636273
+  llm_score: 65
+  recency_score: 88.88665038181365
+  rank: 3
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 65
-  rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 65
-  rank: 7
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 65
-  rank: 8
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 65
-  rank: 9
+  score: 69.53546539641724
+  llm_score: 65
+  recency_score: 87.6773269820862
+  rank: 4
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 65
+  score: 69.20237304520383
+  llm_score: 65
+  recency_score: 86.01186522601911
+  rank: 5
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 65.89249424486937
+  llm_score: 65
+  recency_score: 69.4624712243468
+  rank: 6
+- slug: catalyst-2
+  title: CATALYST
+  score: 63.25024389308273
+  llm_score: 65
+  recency_score: 56.25121946541366
+  rank: 7
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 60.89483401007199
+  llm_score: 75
+  recency_score: 4.474170050359933
+  rank: 8
+- slug: catalyst
+  title: CATALYST
+  score: 55.095591024265985
+  llm_score: 65
+  recency_score: 15.477955121329945
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 53.68499007034101
+  llm_score: 65
+  recency_score: 8.424950351705032
   rank: 10
 ---
 Sally kicked Baldwin County’s ass, however we missed the Delta bullet. Poor Lake Charles is getting what some of us expected last Monday, round two of a direct hit by a hurricane. In Lake Charles they have picked up 1.5 million cubic yards of debris, so far, and they are now facing the possibility of doing it all over again.

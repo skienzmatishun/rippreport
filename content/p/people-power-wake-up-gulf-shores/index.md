@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: 'Urgent: Red alarm clock rings, symbolizing last chance to oppose Regency Place Apartments development at Gulf Shores City ...'
 related_articles:
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 90
-  rank: 1
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 85
-  rank: 2
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 85
-  rank: 3
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 85
-  rank: 4
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
-  score: 85
+  score: 90.07197526621852
+  llm_score: 90
+  recency_score: 90.35987633109261
+  rank: 1
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 87.15815510057
+  llm_score: 95
+  recency_score: 55.79077550285001
+  rank: 2
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 86.83667471122875
+  llm_score: 90
+  recency_score: 74.18337355614374
+  rank: 3
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 86.55484684113631
+  llm_score: 90
+  recency_score: 72.77423420568157
+  rank: 4
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 85.97322154942498
+  llm_score: 85
+  recency_score: 89.86610774712484
   rank: 5
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 85
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 81.5170445944745
+  llm_score: 85
+  recency_score: 67.58522297237245
   rank: 6
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 75
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 72.2188724060802
+  llm_score: 85
+  recency_score: 21.094362030400973
   rank: 7
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 70.27772414553687
+  llm_score: 75
+  recency_score: 51.388620727684355
   rank: 8
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 70.19792359772774
+  llm_score: 85
+  recency_score: 10.989617988638654
   rank: 9
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 60
+- slug: rsa-⁠-no-gas-for-point-clear-or-tourism
+  title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
+  score: 68.64841536332693
+  llm_score: 75
+  recency_score: 43.242076816634636
   rank: 10
 ---
 ## BREAKING NEWS.....

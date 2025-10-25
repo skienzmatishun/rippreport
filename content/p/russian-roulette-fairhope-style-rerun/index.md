@@ -10,43 +10,63 @@ alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and r
 related_articles:
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 100
+  score: 80.0254062295506
+  llm_score: 100
+  recency_score: 0.12703114775298338
   rank: 1
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 90
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 72.01547311483151
+  llm_score: 90
+  recency_score: 0.07736557415756225
   rank: 2
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 90
-  rank: 3
 - slug: bar-stool-continued
   title: BAR STOOL “CONTINUED”
-  score: 85
+  score: 68.0792003488293
+  llm_score: 85
+  recency_score: 0.39600174414651
+  rank: 3
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 68.01931770048358
+  llm_score: 85
+  recency_score: 0.09658850241788805
   rank: 4
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
-  rank: 5
 - slug: police-report
   title: POLICE REPORT
-  score: 85
+  score: 68.01480949270953
+  llm_score: 85
+  recency_score: 0.07404746354764352
+  rank: 5
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 68.00995433465955
+  llm_score: 85
+  recency_score: 0.04977167329776623
   rank: 6
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 75
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 68.00556883670855
+  llm_score: 85
+  recency_score: 0.027844183542706274
   rank: 7
 - slug: fairhope-un-armed-robbery
   title: FAIRHOPE UN-ARMED ROBBERY
-  score: 75
+  score: 60.04358532143119
+  llm_score: 75
+  recency_score: 0.2179266071559293
   rank: 8
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 60.01517919755682
+  llm_score: 75
+  recency_score: 0.0758959877840872
+  rank: 9
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 70
-  rank: 9
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 65
+  score: 56.01838815542843
+  llm_score: 70
+  recency_score: 0.09194077714216314
   rank: 10
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.

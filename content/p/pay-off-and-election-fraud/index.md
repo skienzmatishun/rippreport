@@ -11,43 +11,63 @@ alttags: Suitcase filled with US currency, potentially representing financial in
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”
-  score: 90
+  score: 91.9452804719372
+  llm_score: 90
+  recency_score: 99.72640235968593
   rank: 1
-- slug: fraud
-  title: FRAUD
-  score: 85
-  rank: 2
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
-  rank: 3
 - slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
   title: As long as I count the Votes, what are you going to do about it?
-  score: 85
+  score: 91.78201851846809
+  llm_score: 90
+  recency_score: 98.91009259234048
+  rank: 2
+- slug: fraud
+  title: FRAUD
+  score: 86.67599711942087
+  llm_score: 85
+  recency_score: 93.37998559710435
+  rank: 3
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
   rank: 4
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 85
-  rank: 5
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 85
-  rank: 6
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 75
-  rank: 7
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 75
-  rank: 8
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 65
+  score: 77.29689134128176
+  llm_score: 75
+  recency_score: 86.48445670640884
+  rank: 5
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 72.4224002422755
+  llm_score: 90
+  recency_score: 2.112001211377513
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 69.37955318921921
+  llm_score: 85
+  recency_score: 6.897765946096069
+  rank: 7
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 68.43057924696764
+  llm_score: 85
+  recency_score: 2.1528962348382135
+  rank: 8
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 66.68483723587678
+  llm_score: 75
+  recency_score: 33.42418617938393
   rank: 9
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 65
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 60.33373153008193
+  llm_score: 75
+  recency_score: 1.6686576504096422
   rank: 10
 ---
 KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC

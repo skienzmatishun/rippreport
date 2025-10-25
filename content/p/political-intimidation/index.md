@@ -16,43 +16,63 @@ alttags: Cartoon bald eagle sleeping on a branch, symbolizing alleged corruption
 related_articles:
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 95
+  score: 95.67392032634467
+  llm_score: 95
+  recency_score: 98.36960163172333
   rank: 1
 - slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
   title: As long as I count the Votes, what are you going to do about it?
-  score: 95
+  score: 93.48748877687456
+  llm_score: 95
+  recency_score: 87.43744388437275
   rank: 2
-- slug: observations-of-a-poll-watcher
-  title: “Observations of a Poll Watcher”
-  score: 90
-  rank: 3
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 90
-  rank: 4
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 90
+  score: 90.88179115997221
+  llm_score: 90
+  recency_score: 94.40895579986105
+  rank: 3
+- slug: game-on
+  title: GAME ON
+  score: 90.27111348555951
+  llm_score: 90
+  recency_score: 91.35556742779755
+  rank: 4
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 89.24956745472434
+  llm_score: 90
+  recency_score: 86.24783727362167
   rank: 5
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 85
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
   rank: 6
 - slug: gob-coup
   title: GOB COUP
-  score: 85
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
   rank: 7
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 70
-  rank: 8
 - slug: skunked
   title: SKUNKED
-  score: 65
+  score: 62.240482350350455
+  llm_score: 75
+  recency_score: 11.20241175175226
+  rank: 8
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 60.29991153640955
+  llm_score: 75
+  recency_score: 1.4995576820477703
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 65
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 56.515920820962826
+  llm_score: 70
+  recency_score: 2.5796041048141145
   rank: 10
 ---
 Fairhope is the core of corruption in Baldwin County and Mayor Kant is the spokesman. Mayor Kant has raised over 50,000 dollars for a mayor’s election in a community of 16,000 people. That’s the first red flag. Over 50% of the mayor’s donations come from donors living outside Fairhope and unidentified PACs. That should alarm every citizen in Fairhope. The mayor is suspected of rigging the last two elections and he has now put in motion his FIX for the upcoming election. First we will see puppet candidates solicited by the mayor to run for Council seats. Former Mayor Jim Nix's son is going to run for Councilmen Ford's position. This is one good ole boy for another and most people in Fairhope don’t know that Jim Nix is a major player in the good ole boy club and management of Kant. Fairhope is a hand-me-down government. Nix handed it to Kant and Kant will pick his successor, NOT the citizens of Fairhope. It is rumored that Sherry Sullivan, a companion on many of Kant’s out of town trips, and Lee Turner are two of Kant’s choices for his replacement. Mr. Kant says this is his last term. But remember, if his lips are moving, he is lying. Mr. Jay Robinson is running for Mr. Mueller's seat. I suspect Mueller will not run for re-election but will wait until the last minute to announce it. Mr. Robinson voted for the apartments at Fly Creek and against the wishes of the community, a sign that he too may be in Kant’s pocket.

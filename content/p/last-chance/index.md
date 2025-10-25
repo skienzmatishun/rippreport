@@ -15,43 +15,63 @@ alttags: 'Don’t delay: Baldwin County primary election reminder—all affiliat
 related_articles:
 - slug: win-for-baldwin
   title: WIN FOR BALDWIN
-  score: 85
+  score: 90.4219058668791
+  llm_score: 90
+  recency_score: 92.10952933439548
   rank: 1
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 85
+  score: 72.30321631347131
+  llm_score: 90
+  recency_score: 1.5160815673565506
   rank: 2
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 85
-  rank: 3
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 75
+  score: 71.38850834319712
+  llm_score: 85
+  recency_score: 16.942541715985588
+  rank: 3
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 68.49650678128899
+  llm_score: 85
+  recency_score: 2.48253390644493
   rank: 4
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 75
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 68.3869448100167
+  llm_score: 85
+  recency_score: 1.9347240500835032
   rank: 5
-- slug: qualification
-  title: QUALIFICATION
-  score: 75
-  rank: 6
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 75
+  score: 68.37959465684742
+  llm_score: 85
+  recency_score: 1.8979732842370982
+  rank: 6
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 68.28469907863587
+  llm_score: 85
+  recency_score: 1.42349539317937
   rank: 7
-- slug: vote-smart
-  title: VOTE SMART
-  score: 75
+- slug: qualification
+  title: QUALIFICATION
+  score: 68.26008845874951
+  llm_score: 85
+  recency_score: 1.3004422937475715
   rank: 8
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 75
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 68.21062154449254
+  llm_score: 85
+  recency_score: 1.05310772246267
   rank: 9
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 70
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 68.13292551349143
+  llm_score: 85
+  recency_score: 0.6646275674571428
   rank: 10
 ---
 Tomorrow a very few people in Baldwin County will vote in the primary election. Everyone is encouraged to vote. In the primary all party affiliations can vote. So don’t use the excuse that you are Independent or Democrat. VOTE.

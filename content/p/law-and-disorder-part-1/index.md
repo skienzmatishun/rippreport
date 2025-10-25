@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Crime scene tape symbolizes concerns about accountability and transparency within Fairhope City Council leadership
 related_articles:
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 95
-  rank: 1
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 90
-  rank: 2
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
-  rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 5
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
-  rank: 6
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 75
-  rank: 7
-- slug: police-report
-  title: POLICE REPORT
-  score: 75
-  rank: 8
+  score: 87.03762349360866
+  llm_score: 85
+  recency_score: 95.18811746804333
+  rank: 1
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 86.37150396712644
+  llm_score: 85
+  recency_score: 91.85751983563217
+  rank: 2
+- slug: transparency
+  title: TRANSPARENCY
+  score: 79.21782882818184
+  llm_score: 90
+  recency_score: 36.08914414090915
+  rank: 3
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 77.76552754120547
+  llm_score: 90
+  recency_score: 28.827637706027392
+  rank: 4
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 69.77989467527985
+  llm_score: 85
+  recency_score: 8.899473376399213
+  rank: 5
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 68.37752037428082
+  llm_score: 85
+  recency_score: 1.887601871404123
+  rank: 6
 - slug: in-the-dark
   title: IN THE DARK
-  score: 65
+  score: 66.55484684113631
+  llm_score: 65
+  recency_score: 72.77423420568157
+  rank: 7
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 63.750730275901425
+  llm_score: 70
+  recency_score: 38.75365137950711
+  rank: 8
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 60.887509352556116
+  llm_score: 75
+  recency_score: 4.437546762780576
   rank: 9
 - slug: self-incrimination
   title: SELF INCRIMINATION
-  score: 65
+  score: 58.00740303311296
+  llm_score: 65
+  recency_score: 30.037015165564775
   rank: 10
 ---
 The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. In fact, Council President Jack Burrell has fully disgraced his position and the City of Fairhope and should immediately resign.

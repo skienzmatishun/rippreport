@@ -16,43 +16,63 @@ alttags: Gift box with red ribbon, symbolizing the deed of land donation discuss
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 85
+  score: 86.57394274499862
+  llm_score: 85
+  recency_score: 92.86971372499306
   rank: 1
 - slug: holes
   title: HOLES
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 2
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 77.28693882755796
+  llm_score: 85
+  recency_score: 46.434694137789805
+  rank: 3
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 76.12026192592202
+  llm_score: 85
+  recency_score: 40.601309629610085
+  rank: 4
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 85
-  rank: 3
+  score: 75.96601468604398
+  llm_score: 85
+  recency_score: 39.83007343021991
+  rank: 5
 - slug: deliberate-distortion-or-twisting-of-meaning
   title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 75
-  rank: 4
-- slug: wonderful-wednesday
-  title: WONDERFUL WEDNESDAY
-  score: 65
-  rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 65
+  score: 70.42575600988755
+  llm_score: 85
+  recency_score: 12.128780049437779
   rank: 6
-- slug: s-o-s
-  title: S.O.S
-  score: 65
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 69.78967429181668
+  llm_score: 85
+  recency_score: 8.948371459083383
   rank: 7
+- slug: full-plate
+  title: FULL PLATE
+  score: 65.22401634150835
+  llm_score: 75
+  recency_score: 26.120081707541715
+  rank: 8
+- slug: disposal
+  title: DISPOSAL
+  score: 62.43908430617278
+  llm_score: 75
+  recency_score: 12.195421530863895
+  rank: 9
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 65
-  rank: 8
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 65
-  rank: 9
-- slug: hate
-  title: HATE
-  score: 55
+  score: 52.0814002190059
+  llm_score: 65
+  recency_score: 0.407001095029494
   rank: 10
 ---
 ATTENTION FAIRHOPE TAXPAYERS

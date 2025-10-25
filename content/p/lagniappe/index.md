@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: 'Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep...'
 related_articles:
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 95
-  rank: 1
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 95
-  rank: 2
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 75
-  rank: 3
-- slug: wonderful-wednesday
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
+  rank: 1
+- slug: wonderful-wednesday-4
   title: WONDERFUL WEDNESDAY
-  score: 75
+  score: 78.87486652233241
+  llm_score: 95
+  recency_score: 14.374332611662021
+  rank: 2
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 75.9939206577845
+  llm_score: 90
+  recency_score: 19.9696032889225
+  rank: 3
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 71.9491934264295
+  llm_score: 75
+  recency_score: 59.74596713214747
   rank: 4
-- slug: exposure-2
-  title: EXPOSURE
-  score: 65
-  rank: 5
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 65
-  rank: 6
+  score: 69.08698032362109
+  llm_score: 85
+  recency_score: 5.4349016181054575
+  rank: 5
 - slug: equal-representation
   title: EQUAL REPRESENTATION
-  score: 65
+  score: 68.50975554986516
+  llm_score: 65
+  recency_score: 82.54877774932578
+  rank: 6
+- slug: exposure-2
+  title: EXPOSURE
+  score: 67.21946349126168
+  llm_score: 70
+  recency_score: 56.097317456308396
   rank: 7
+- slug: victory
+  title: VICTORY
+  score: 64.09804508090537
+  llm_score: 70
+  recency_score: 40.49022540452686
+  rank: 8
+- slug: survey
+  title: SURVEY
+  score: 51.85138338741181
+  llm_score: 50
+  recency_score: 59.25691693705903
+  rank: 9
 - slug: this-is-the-new-logo-for-fairhope
   title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 45
-  rank: 8
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 40
-  rank: 9
-- slug: happy-thanksgiving
-  title: Happy Thanksgiving!
-  score: 35
+  score: 36.78027930279753
+  llm_score: 45
+  recency_score: 3.9013965139876725
   rank: 10
 ---
 This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper. The Mobile paper has little to offer with more fluff stories than real investigative reporting. The Sunday Paper is $3.00, over $150.00 a year just for Sunday.

@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
 related_articles:
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 65
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 64.58027788934189
+  llm_score: 75
+  recency_score: 22.901389446709434
   rank: 1
-- slug: justified
-  title: JUSTIFIED
-  score: 65
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 64.4564942330773
+  llm_score: 75
+  recency_score: 22.28247116538646
   rank: 2
-- slug: no-justice
-  title: NO JUSTICE
-  score: 65
-  rank: 3
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 65
-  rank: 4
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 60
-  rank: 5
-- slug: repeat
-  title: REPEAT
-  score: 55
-  rank: 6
-- slug: police-report
-  title: POLICE REPORT
-  score: 50
-  rank: 7
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 50
-  rank: 8
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 50
-  rank: 9
 - slug: silence-the-eagle
   title: SILENCE THE EAGLE
-  score: 45
+  score: 63.49954668641593
+  llm_score: 65
+  recency_score: 57.49773343207967
+  rank: 3
+- slug: justified
+  title: JUSTIFIED
+  score: 63.41831135904946
+  llm_score: 70
+  recency_score: 37.09155679524731
+  rank: 4
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 60.63074876314147
+  llm_score: 70
+  recency_score: 23.153743815707337
+  rank: 5
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 60.06172355562083
+  llm_score: 75
+  recency_score: 0.30861777810415675
+  rank: 6
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 56.456494233077294
+  llm_score: 65
+  recency_score: 22.28247116538646
+  rank: 7
+- slug: cameras
+  title: CAMERAS
+  score: 56.265360890387946
+  llm_score: 65
+  recency_score: 21.326804451939722
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 52.409860279396575
+  llm_score: 65
+  recency_score: 2.049301396982881
+  rank: 9
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 52.29745661263092
+  llm_score: 65
+  recency_score: 1.487283063154587
   rank: 10
 ---
 Have you noticed how a lot of communities are now building Justice Centers? Sounds like a good idea until you look a little closer and see the fraternity atmosphere. It is the police domain just like the courthouses. The police are in charge and they are armed to the teeth, where no one is armed? The Judges feel secure with such protection as well as the District Attorney and their minions. Pay attention and you will see all the same people at lunch somewhere, or surly in Church.

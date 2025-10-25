@@ -10,43 +10,63 @@ alttags: Fran Neumann, a Daphne artist known for her sculpture & advertising wor
 related_articles:
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life
-  score: 95
+  score: 91.80167323219754
+  llm_score: 95
+  recency_score: 79.0083661609877
   rank: 1
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 90.4753123573984
+  llm_score: 95
+  recency_score: 72.37656178699199
+  rank: 2
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 95
-  rank: 2
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 75
+  score: 83.79331659914374
+  llm_score: 95
+  recency_score: 38.96658299571869
   rank: 3
-- slug: carolyn-amick
-  title: CAROLYN AMICK
-  score: 75
-  rank: 4
 - slug: tricia-lacy-hyde
   title: TRICIA LACY HYDE
-  score: 75
+  score: 76.83102978346773
+  llm_score: 95
+  recency_score: 4.155148917338647
+  rank: 4
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 70.39931751544404
+  llm_score: 85
+  recency_score: 11.996587577220225
   rank: 5
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 66.52202120293505
+  llm_score: 75
+  recency_score: 32.61010601467527
+  rank: 6
 - slug: celebration-of-life
   title: CELEBRATION OF LIFE
-  score: 71
-  rank: 6
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 65
+  score: 66.34576123569309
+  llm_score: 75
+  recency_score: 31.72880617846543
   rank: 7
-- slug: marble-mouth
-  title: MARBLE MOUTH
-  score: 50
+- slug: tonight
+  title: TONIGHT
+  score: 43.501762874530804
+  llm_score: 50
+  recency_score: 17.508814372654022
   rank: 8
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 45
+- slug: exposure-2
+  title: EXPOSURE
+  score: 37.564845454620254
+  llm_score: 45
+  recency_score: 7.82422727310126
   rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 35
+- slug: cover-up
+  title: COVER UP
+  score: 23.77061878848929
+  llm_score: 25
+  recency_score: 18.853093942446446
   rank: 10
 ---
 Frances (Fran) J. Neumann of Daphne, Alabama, passed away unexpectedly on Monday, June 28, 2021 from natural causes. She was ninety-three going on a hundred, her oft-expressed goal. [![](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)

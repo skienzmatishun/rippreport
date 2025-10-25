@@ -10,45 +10,65 @@ authors:
 summary: A terror attack was stopped from reaching a larger crowd by traffic. A vet built a car bomb with AI, blowing up a Tesla. Leaders waste tax money on shady deals. Sheriffs hide their mistakes. Scholarships for students went to insiders. The governor’s health rumors stir worry. Teens with rifles fight in streets. A body found in a sunken car. Politicians let state pick police chiefs, ignoring locals. And finally, a festival and a demand to punish corrupt leaders. Alabama’s rules break like melting snow.
 alttags: New Baldwin County Courthouse rendering; million-dollar contract amid questions of public access and insider deals
 related_articles:
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 92
-  rank: 1
-- slug: the-crime-of-the-century
-  title: THE CRIME OF THE CENTURY
-  score: 85
-  rank: 2
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 85
-  rank: 3
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 85
-  rank: 4
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 85
-  rank: 5
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 75
-  rank: 6
+  score: 79.12762665151226
+  llm_score: 85
+  recency_score: 55.63813325756129
+  rank: 1
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 76.6423487549181
+  llm_score: 95
+  recency_score: 3.2117437745905466
+  rank: 2
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 75
+  score: 74.32839938269227
+  llm_score: 85
+  recency_score: 31.641996913461323
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 69.69424823431282
+  llm_score: 85
+  recency_score: 8.471241171564124
+  rank: 4
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 69.61272299947794
+  llm_score: 85
+  recency_score: 8.063614997389708
+  rank: 5
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 68.7386745381997
+  llm_score: 85
+  recency_score: 3.6933726909985176
+  rank: 6
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 68.20158825560316
+  llm_score: 85
+  recency_score: 1.0079412780157604
   rank: 7
-- slug: what-the
-  title: What the
-  score: 75
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 68.067564087618
+  llm_score: 85
+  recency_score: 0.33782043808996237
   rank: 8
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 75
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 68.0629187188819
+  llm_score: 85
+  recency_score: 0.31459359440954926
   rank: 9
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 65
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 68.04287470706177
+  llm_score: 85
+  recency_score: 0.21437353530881836
   rank: 10
 ---
 A terrorist attack narrowly avoided a larger, more crowded event, saved only by traffic jams, while a flashy car explosion tied to a misguided vet sparks debates about safety and tech gone wrong.

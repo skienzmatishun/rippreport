@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: 'Baldwin County Sewer mascot: A cartoon water droplet character promoting Crystal Clean, associated with a controversial ...'
 related_articles:
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 95
-  rank: 1
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 90
+  score: 89.44502484628417
+  llm_score: 92
+  recency_score: 79.22512423142078
+  rank: 1
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 77.36078404958211
+  llm_score: 95
+  recency_score: 6.803920247910508
   rank: 2
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 75.16545197903177
+  llm_score: 75
+  recency_score: 75.82725989515886
+  rank: 3
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
-  score: 90
-  rank: 3
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 85
+  score: 72.19721795157331
+  llm_score: 90
+  recency_score: 0.986089757866536
   rank: 4
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 70
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 59.35157673975545
+  llm_score: 70
+  recency_score: 16.757883698777256
   rank: 5
 - slug: sting
   title: Sting
-  score: 70
+  score: 59.15553145748171
+  llm_score: 70
+  recency_score: 15.777657287408536
   rank: 6
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 70
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 56.50560111337152
+  llm_score: 65
+  recency_score: 22.528005566857594
   rank: 7
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 70
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 56.31680361570459
+  llm_score: 70
+  recency_score: 1.5840180785229494
   rank: 8
-- slug: straw-man
-  title: STRAW MAN
-  score: 65
+- slug: wetlands
+  title: WETLANDS
+  score: 56.19993815635022
+  llm_score: 70
+  recency_score: 0.9996907817511175
   rank: 9
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 50
+- slug: catalyst-shit-creek
+  title: CATALYST SHIT CREEK
+  score: 54.72904423720288
+  llm_score: 65
+  recency_score: 13.645221186014394
   rank: 10
 ---
 Baldwin County Sewer is the only, private, unregulated sewer utility in Alabama. The County commission has refused to tackle the issue of BCSS being unregulated. BCSS uses the county right of ways free and developments on farmland can use BCSS for subdivisions, which expands development sprawl. They have raised rates at will.

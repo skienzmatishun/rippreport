@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Former Governor Don Siegelman in a prison jumpsuit, overlaid with text about stolen democracy, referencing election fixing...
 related_articles:
-- slug: shadow-government-southern-style
-  title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 85
-  rank: 1
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 85
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
+  rank: 1
+- slug: shadow-government-southern-style
+  title: SHADOW GOVERNMENT SOUTHERN STYLE
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
   rank: 2
-- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
-  title: As long as I count the Votes, what are you going to do about it?
-  score: 85
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 69.63496710439854
+  llm_score: 85
+  recency_score: 8.17483552199271
   rank: 3
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 75
-  rank: 4
 - slug: Smell-Test
   title: SMELL TEST
-  score: 75
+  score: 68.50612072296659
+  llm_score: 85
+  recency_score: 2.530603614832943
+  rank: 4
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 68.42355908995094
+  llm_score: 85
+  recency_score: 2.117795449754721
   rank: 5
-- slug: scary
-  title: SCARY
-  score: 70
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 68.41779647074497
+  llm_score: 85
+  recency_score: 2.088982353724851
   rank: 6
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 65
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 68.10190443860724
+  llm_score: 85
+  recency_score: 0.5095221930361701
   rank: 7
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 65
+  score: 62.48631269287361
+  llm_score: 75
+  recency_score: 12.431563464368049
   rank: 8
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 65
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 55.60890176713603
+  llm_score: 65
+  recency_score: 18.044508835680173
   rank: 9
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 60
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 54.890662452604836
+  llm_score: 65
+  recency_score: 14.453312263024177
   rank: 10
 ---
 When elections are “fixed” you can be assured, politicians, any party, are STEALING OUR DEMOCRACY.

@@ -17,43 +17,63 @@ alttags: Vintage photo of a bomber dropping bombs over mountains, hinting at pot
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
+  score: 89.34434506009411
+  llm_score: 90
+  recency_score: 86.72172530047058
   rank: 1
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
   rank: 2
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 85
+  score: 85.29689134128176
+  llm_score: 85
+  recency_score: 86.48445670640884
   rank: 3
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 75
-  rank: 4
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
-  rank: 5
 - slug: countdown
   title: COUNTDOWN
-  score: 75
-  rank: 6
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 70
-  rank: 7
+  score: 81.03595596770666
+  llm_score: 90
+  recency_score: 45.179779838533264
+  rank: 4
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 70.54140880504006
+  llm_score: 85
+  recency_score: 12.707044025200286
+  rank: 5
 - slug: who-not-to-vote-for
   title: WHO NOT TO VOTE FOR
-  score: 65
+  score: 67.31738352034222
+  llm_score: 75
+  recency_score: 36.586917601711114
+  rank: 6
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 62.15027402445423
+  llm_score: 75
+  recency_score: 10.751370122271124
+  rank: 7
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 58.7591160473893
+  llm_score: 70
+  recency_score: 13.795580236946487
   rank: 8
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 65
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 56.204929421548194
+  llm_score: 70
+  recency_score: 1.0246471077409638
   rank: 9
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 65
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 56.06343799010516
+  llm_score: 70
+  recency_score: 0.3171899505257979
   rank: 10
 ---
 Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on [tips to the Rippster](https://rippreport.com/contact/) in the hopes of finding out who’s in hot water. Something tells me that the next couple of weeks leading up to the primary election June 5, is going to be very interesting. Stay Tuned.

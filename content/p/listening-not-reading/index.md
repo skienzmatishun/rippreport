@@ -20,43 +20,63 @@ alttags: Dismissed documents with a large red X symbolize rejection of complaint
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 90
+  score: 91.35315705036788
+  llm_score: 90
+  recency_score: 96.76578525183945
   rank: 1
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 85
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 2
 - slug: shut-up
   title: SHUT UP
-  score: 85
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
   rank: 3
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 85
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 86.77861223075729
+  llm_score: 85
+  recency_score: 93.89306115378648
   rank: 4
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
-  rank: 5
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 85
-  rank: 6
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 85
-  rank: 7
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 8
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75
-  rank: 9
+  score: 85.82610187044024
+  llm_score: 85
+  recency_score: 89.13050935220119
+  rank: 5
 - slug: fairhope-citizens-citizens-citizens
   title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 70
+  score: 72.82943663570212
+  llm_score: 70
+  recency_score: 84.14718317851063
+  rank: 6
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 69.342270268423
+  llm_score: 85
+  recency_score: 6.711351342114945
+  rank: 7
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 63.56195333019646
+  llm_score: 70
+  recency_score: 37.809766650982276
+  rank: 8
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 63.28110874039773
+  llm_score: 65
+  recency_score: 56.40554370198863
+  rank: 9
+- slug: documents
+  title: DOCUMENTS
+  score: 61.56913858075044
+  llm_score: 75
+  recency_score: 7.845692903752216
   rank: 10
 ---
 The Fairhope City Council needs to do more reading of facts than listening to unsubstantiated statements by Council President Burrell. One thing needs to be made perfectly clear the issue of the complaint against Mr. Burrell and Mr. Hix is not going to disappear because Mr. Burrell dismisses it.

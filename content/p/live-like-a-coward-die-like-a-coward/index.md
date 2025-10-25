@@ -10,45 +10,65 @@ authors:
 - admin
 alttags: John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ...
 related_articles:
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 70
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 75.88849539476564
+  llm_score: 75
+  recency_score: 79.4424769738282
   rank: 1
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 65
+  score: 73.11575875113695
+  llm_score: 75
+  recency_score: 65.57879375568477
   rank: 2
-- slug: notice
-  title: 'NOTICE:'
-  score: 65
-  rank: 3
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 65
-  rank: 4
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 65
-  rank: 5
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 55
+  score: 66.5758477586611
+  llm_score: 75
+  recency_score: 32.87923879330549
+  rank: 3
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 65.36972132414267
+  llm_score: 65
+  recency_score: 66.84860662071335
+  rank: 4
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 58.890662452604836
+  llm_score: 70
+  recency_score: 14.453312263024177
+  rank: 5
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 56.116117463153714
+  llm_score: 65
+  recency_score: 20.580587315768575
   rank: 6
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 50
-  rank: 7
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 50
+  score: 52.39586260016436
+  llm_score: 60
+  recency_score: 21.979313000821772
+  rank: 7
+- slug: cover-up
+  title: COVER UP
+  score: 51.521003281613005
+  llm_score: 60
+  recency_score: 17.605016408065044
   rank: 8
-- slug: loser
-  title: LOSER
-  score: 50
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 48.28862590064934
+  llm_score: 60
+  recency_score: 1.443129503246706
   rank: 9
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 45
+- slug: crazy
+  title: CRAZY
+  score: 43.42584690236102
+  llm_score: 50
+  recency_score: 17.129234511805123
   rank: 10
 ---
 All of us have experienced people that are narcissist or sociopaths. Maybe psychopaths and the very worst possible murderers.

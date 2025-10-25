@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: American football resting on a gray background, representing Super Bowl LV competition between Chiefs and Buccaneers
 related_articles:
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 70
-  rank: 1
 - slug: winner-and-loser
   title: WINNER AND LOSER
-  score: 70
+  score: 74.72723439081022
+  llm_score: 70
+  recency_score: 93.63617195405108
+  rank: 1
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 74.67599711942087
+  llm_score: 70
+  recency_score: 93.37998559710435
   rank: 2
 - slug: a-long-strange-day-jan-6-2021
   title: A long strange day Jan 6, 2021
-  score: 70
+  score: 74.52312487593501
+  llm_score: 70
+  recency_score: 92.61562437967505
   rank: 3
 - slug: backstory-podcast-the-46th-president-of-the-united-states
   title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 65
+  score: 67.67232874673901
+  llm_score: 65
+  recency_score: 78.36164373369505
   rank: 4
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 65
-  rank: 5
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 65
-  rank: 6
 - slug: election-ad
   title: ELECTION AD
-  score: 60
-  rank: 7
+  score: 63.68728672756747
+  llm_score: 70
+  recency_score: 38.436433637837325
+  rank: 5
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 60
+  score: 60.656843119587904
+  llm_score: 60
+  recency_score: 63.2842155979395
+  rank: 6
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 59.095591024265985
+  llm_score: 70
+  recency_score: 15.477955121329945
+  rank: 7
+- slug: bsp-tlp
+  title: Backstory Podcast No 56 The Lincoln Project
+  score: 54.75560018832756
+  llm_score: 50
+  recency_score: 73.7780009416378
   rank: 8
-- slug: countdown
-  title: COUNTDOWN
-  score: 60
-  rank: 9
 - slug: warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th
   title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
-  score: 50
+  score: 50.19359590659946
+  llm_score: 50
+  recency_score: 50.96797953299731
+  rank: 9
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 48.609766802829334
+  llm_score: 60
+  recency_score: 3.0488340141466597
   rank: 10
 ---
 Super Bowl LV, the 55th Super Bowl and the 51st modern-era National Football League championship game, will decide the league champion for the 2020 NFL season. The American Football Conference champion Kansas City Chiefs will play the National Football Conference champion Tampa Bay Buccaneers.

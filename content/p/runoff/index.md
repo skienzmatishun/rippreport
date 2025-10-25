@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Ballot being dropped into a voting box, reflecting the close First Congressional District race between Carl and Hightower
 related_articles:
-- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
-  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 95
-  rank: 1
-- slug: first-congressional-district
-  title: FIRST CONGRESSIONAL DISTRICT
-  score: 95
-  rank: 2
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 85
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
+  rank: 1
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 92.17733007636274
+  llm_score: 93
+  recency_score: 88.88665038181365
+  rank: 2
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 91.12395966027418
+  llm_score: 95
+  recency_score: 75.61979830137088
   rank: 3
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 90.43570824436047
+  llm_score: 95
+  recency_score: 72.17854122180232
+  rank: 4
 - slug: vote-jerry-carl-today
   title: VOTE JERRY CARL TODAY
-  score: 85
-  rank: 4
-- slug: vote
-  title: VOTE
-  score: 85
+  score: 89.96882643931993
+  llm_score: 95
+  recency_score: 69.84413219659965
   rank: 5
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 87.83930710092044
+  llm_score: 92
+  recency_score: 71.19653550460211
+  rank: 6
+- slug: press-release
+  title: PRESS RELEASE
+  score: 70.97910429894462
+  llm_score: 85
+  recency_score: 14.895521494723079
+  rank: 7
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 85
-  rank: 6
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
-  rank: 7
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
+  score: 70.61199901732306
+  llm_score: 85
+  recency_score: 13.05999508661529
   rank: 8
 - slug: who-not-to-vote-for
   title: WHO NOT TO VOTE FOR
-  score: 75
+  score: 61.219537879365035
+  llm_score: 75
+  recency_score: 6.09768939682519
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 54.00792557433363
+  llm_score: 65
+  recency_score: 10.039627871668154
   rank: 10
 ---
 The First Congressional District race is now down to two, Jerry Carl and Bill Hightower. Carl edged out Hightower overall by 1226 votes. Hightower the CATALYST candidate scored 3126 votes more than Carl in Baldwin County. CATALYST predicted 10,000 votes and fell short by more than 66%, this is a blow to their ego and evidence to their organization disintegrating.

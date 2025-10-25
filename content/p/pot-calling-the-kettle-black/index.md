@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics
 related_articles:
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 95
-  rank: 1
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 92
-  rank: 2
-- slug: black-hole
-  title: BLACK HOLE
-  score: 85
-  rank: 3
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 85
-  rank: 4
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
-  rank: 5
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 85
-  rank: 6
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 85
-  rank: 7
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 85
-  rank: 8
+  score: 81.62860141581517
+  llm_score: 85
+  recency_score: 68.14300707907584
+  rank: 1
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 81.44318114711444
+  llm_score: 85
+  recency_score: 67.21590573557219
+  rank: 2
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 80.97280912493756
+  llm_score: 85
+  recency_score: 64.86404562468779
+  rank: 3
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 85
+  score: 80.83141751730334
+  llm_score: 85
+  recency_score: 64.15708758651667
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 78.24960453479669
+  llm_score: 85
+  recency_score: 51.24802267398346
+  rank: 5
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 76.34019362805742
+  llm_score: 95
+  recency_score: 1.7009681402870933
+  rank: 6
+- slug: black-hole
+  title: BLACK HOLE
+  score: 68.27549129904675
+  llm_score: 85
+  recency_score: 1.3774564952337773
+  rank: 7
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 68.2200596203965
+  llm_score: 85
+  recency_score: 1.100298101982455
+  rank: 8
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 68.0946383604076
+  llm_score: 85
+  recency_score: 0.4731918020379976
   rank: 9
 - slug: alabama-moore-strange
   title: ALABAMA MOORE STRANGE
-  score: 70
+  score: 52.24220607718429
+  llm_score: 65
+  recency_score: 1.2110303859214708
   rank: 10
 ---
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.

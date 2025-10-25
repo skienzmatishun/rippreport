@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Ballot box graphic representing upcoming Baldwin County mid-term elections and candidate qualifications
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 95
-  rank: 1
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 90
+  score: 90.27111348555951
+  llm_score: 90
+  recency_score: 91.35556742779755
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 88.86662028679618
+  llm_score: 95
+  recency_score: 64.3331014339809
   rank: 2
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 85
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
   rank: 3
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
   rank: 4
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 78.47673339221254
+  llm_score: 85
+  recency_score: 52.383666961062694
   rank: 5
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 85
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 78.22156185864796
+  llm_score: 85
+  recency_score: 51.107809293239825
   rank: 6
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 75
+- slug: last-chance
+  title: LAST CHANCE
+  score: 68.26008845874951
+  llm_score: 85
+  recency_score: 1.3004422937475715
   rank: 7
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 75
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 68.23956625520727
+  llm_score: 85
+  recency_score: 1.1978312760363046
   rank: 8
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 65
-  rank: 9
 - slug: vote-smart
   title: VOTE SMART
-  score: 65
+  score: 56.046166511494505
+  llm_score: 70
+  recency_score: 0.23083255747252965
+  rank: 9
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 56.0440655956221
+  llm_score: 70
+  recency_score: 0.2203279781105022
   rank: 10
 ---
 Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide general information can be found on:

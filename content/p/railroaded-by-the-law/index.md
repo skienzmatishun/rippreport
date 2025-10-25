@@ -10,43 +10,63 @@ alttags: Man in Hawaiian shirt stands before a beach backdrop, featured in an ar
 related_articles:
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 95
+  score: 95.83629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
   rank: 1
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 90
-  rank: 2
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 90
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 3
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
+  rank: 6
 - slug: get-out-of-jail-card
   title: GET OUT OF JAIL CARD
-  score: 90
-  rank: 4
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85
-  rank: 5
+  score: 82.0
+  llm_score: 90
+  recency_score: 50
+  rank: 7
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 85
-  rank: 6
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 85
-  rank: 7
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 85
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 8
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 75
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 9
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 75
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
   rank: 10
 ---
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.

@@ -11,45 +11,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 85
-  rank: 1
 - slug: Smell-Test
   title: SMELL TEST
-  score: 85
-  rank: 2
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 85
-  rank: 3
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75
-  rank: 4
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 75
-  rank: 5
+  score: 74.1912037447723
+  llm_score: 85
+  recency_score: 30.95601872386148
+  rank: 1
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 75
+  score: 69.61272299947794
+  llm_score: 85
+  recency_score: 8.063614997389708
+  rank: 2
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 69.48547156428668
+  llm_score: 85
+  recency_score: 7.427357821433388
+  rank: 3
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 68.23891080758602
+  llm_score: 85
+  recency_score: 1.1945540379301263
+  rank: 4
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 68.2369552048455
+  llm_score: 85
+  recency_score: 1.1847760242275227
+  rank: 5
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 68.23630690099644
+  llm_score: 85
+  recency_score: 1.1815345049822292
   rank: 6
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 75
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 68.23437261251506
+  llm_score: 85
+  recency_score: 1.1718630625752924
   rank: 7
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 70
+  score: 68.20325197320484
+  llm_score: 85
+  recency_score: 1.0162598660242268
   rank: 8
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 70
+- slug: who-not-to-vote-for
+  title: WHO NOT TO VOTE FOR
+  score: 68.0749773586035
+  llm_score: 85
+  recency_score: 0.37488679301750244
   rank: 9
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 70
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 56.049008351198104
+  llm_score: 65
+  recency_score: 20.245041755990528
   rank: 10
 ---
 Everyone is in church today, including the members of the Baldwin County Legislative Delegation. They all profess to be God fearing Christians, this is a must to be elected in Alabama. This is a new delegation with some newly elected members. You would think the delegation members would be anxious to put the best foot forward after being elected by their constituents.

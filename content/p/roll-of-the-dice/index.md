@@ -13,43 +13,63 @@ alttags: Two dice against a dark background, representing Alabama’s ongoing de
 related_articles:
 - slug: what-education-lottery
   title: WHAT EDUCATION LOTTERY?
-  score: 85
+  score: 73.14820290291419
+  llm_score: 90
+  recency_score: 5.741014514570984
   rank: 1
-- slug: runoff
-  title: RUNOFF
-  score: 85
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 68.5230368581719
+  llm_score: 85
+  recency_score: 2.6151842908594998
   rank: 2
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 70
-  rank: 3
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 70
-  rank: 4
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 70
-  rank: 5
 - slug: tiny-steps
   title: TINY STEPS
-  score: 65
-  rank: 6
+  score: 61.11053014836325
+  llm_score: 65
+  recency_score: 45.55265074181627
+  rank: 3
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 61.06074595483393
+  llm_score: 65
+  recency_score: 45.30372977416965
+  rank: 4
 - slug: stealing-our-democracy
   title: STEALING OUR DEMOCRACY
-  score: 65
-  rank: 7
+  score: 59.60890176713603
+  llm_score: 70
+  recency_score: 18.044508835680173
+  rank: 5
 - slug: blind-voting-straight-ticket
   title: BLIND VOTING STRAIGHT TICKET
-  score: 65
+  score: 56.72464315476344
+  llm_score: 70
+  recency_score: 3.623215773817211
+  rank: 6
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 54.72904423720288
+  llm_score: 65
+  recency_score: 13.645221186014394
+  rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 52.52160584166997
+  llm_score: 65
+  recency_score: 2.6080292083498433
   rank: 8
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 65
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 52.20832596467698
+  llm_score: 65
+  recency_score: 1.0416298233849144
   rank: 9
 - slug: poison-water-alabama-senate-special-election
   title: POISON WATER - Alabama Senate Special Election
-  score: 60
+  score: 48.174342507642315
+  llm_score: 60
+  recency_score: 0.8717125382115642
   rank: 10
 ---
 Here we go again, for over 20 years Alabama has been discussing a lottery. All that time while they were discussing gambling, Alabama was exporting dollars to other state’s lottery.

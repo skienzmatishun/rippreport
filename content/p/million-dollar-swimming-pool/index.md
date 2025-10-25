@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Two men in suits stand before a pool backdrop; a life ring labeled Catalyst floats above them, referencing concerns abou...
 related_articles:
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 85
-  rank: 1
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 85
+  score: 88.19614691902797
+  llm_score: 90
+  recency_score: 80.98073459513984
+  rank: 1
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 87.4594928113308
+  llm_score: 85
+  recency_score: 97.29746405665401
   rank: 2
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 85
-  rank: 3
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85
-  rank: 4
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 85
-  rank: 5
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 75
+  score: 86.07197526621852
+  llm_score: 85
+  recency_score: 90.35987633109261
+  rank: 3
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 85.77733007636273
+  llm_score: 85
+  recency_score: 88.88665038181365
+  rank: 4
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
+  rank: 5
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 79.78201851846809
+  llm_score: 75
+  recency_score: 98.91009259234048
   rank: 6
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 75.83629014021759
+  llm_score: 70
+  recency_score: 99.18145070108791
+  rank: 7
 - slug: catalyst-2
   title: CATALYST
-  score: 65
-  rank: 7
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 65
+  score: 71.69899455443594
+  llm_score: 85
+  recency_score: 18.4949727721797
   rank: 8
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 65
+  score: 70.35682478958158
+  llm_score: 70
+  recency_score: 71.78412394790789
   rank: 9
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 63
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 54.419119198684726
+  llm_score: 65
+  recency_score: 12.09559599342363
   rank: 10
 ---
 Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what consumers should be aware of.

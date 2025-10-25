@@ -13,43 +13,63 @@ alttags: Illustration depicting a woman in judicial robes and a witch hat standi
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 85
+  score: 88.24058076477368
+  llm_score: 90
+  recency_score: 81.20290382386844
   rank: 1
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 85
-  rank: 2
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 85
-  rank: 3
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 78
-  rank: 4
-- slug: exposure
-  title: EXPOSURE
-  score: 70
-  rank: 5
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 65
-  rank: 6
+  score: 85.72869172076295
+  llm_score: 85
+  recency_score: 88.64345860381478
+  rank: 2
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 65
+  score: 76.93493205098632
+  llm_score: 95
+  recency_score: 4.674660254931597
+  rank: 3
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 76.91301970063262
+  llm_score: 85
+  recency_score: 44.565098503163114
+  rank: 4
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 71.63868620757778
+  llm_score: 85
+  recency_score: 18.193431037888864
+  rank: 5
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 64.57762382000341
+  llm_score: 70
+  recency_score: 42.88811910001705
+  rank: 6
+- slug: exposure
+  title: EXPOSURE
+  score: 59.68887419261966
+  llm_score: 70
+  recency_score: 18.444370963098283
   rank: 7
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 65
+  score: 55.181574210879226
+  llm_score: 65
+  recency_score: 15.90787105439613
   rank: 8
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 65
+  score: 52.88994421893924
+  llm_score: 65
+  recency_score: 4.449721094696223
   rank: 9
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 65
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 52.134390242701805
+  llm_score: 65
+  recency_score: 0.6719512135090356
   rank: 10
 ---
 ALABAMA BEWARE OF THE CATALYST QUEEN

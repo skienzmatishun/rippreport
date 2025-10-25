@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C...
 related_articles:
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 85
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 85.62860141581517
+  llm_score: 90
+  recency_score: 68.14300707907584
   rank: 1
 - slug: fairhope-council-asleep-at-the-wheel
   title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
   rank: 2
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 81.85448470843463
+  llm_score: 85
+  recency_score: 69.27242354217314
+  rank: 3
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 81.04408811712146
+  llm_score: 85
+  recency_score: 65.22044058560728
+  rank: 4
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 76.3916664395256
+  llm_score: 85
+  recency_score: 41.958332197627975
+  rank: 5
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 75
-  rank: 3
+  score: 76.27749588022975
+  llm_score: 85
+  recency_score: 41.38747940114875
+  rank: 6
 - slug: run-away-train
   title: RUN AWAY TRAIN
-  score: 75
-  rank: 4
+  score: 74.94622278024646
+  llm_score: 85
+  recency_score: 34.73111390123228
+  rank: 7
 - slug: wetlands
   title: WETLANDS
-  score: 75
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
-  rank: 6
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75
-  rank: 7
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
+  score: 70.10942881080481
+  llm_score: 85
+  recency_score: 10.547144054024043
   rank: 8
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 70
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 58.073599645561515
+  llm_score: 65
+  recency_score: 30.367998227807558
   rank: 9
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 70
+  score: 57.331283124551305
+  llm_score: 70
+  recency_score: 6.656415622756534
   rank: 10
 ---
 JANUARY 10 2020 BACKSTORY PODCAST TODAY
