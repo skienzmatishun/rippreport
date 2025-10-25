@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Composite portrait featuring men in suits and sunglasses, alongside an American flag, related to Alabama news coverage
 related_articles:
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 95
-  rank: 1
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 90
-  rank: 2
-- slug: flying-high
-  title: FLYING HIGH
-  score: 90
-  rank: 3
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 4
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 5
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 85
-  rank: 6
+  score: 94.52312487593501
+  llm_score: 95
+  recency_score: 92.61562437967505
+  rank: 1
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 93.82610187044024
+  llm_score: 95
+  recency_score: 89.13050935220119
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 90.52312487593501
+  llm_score: 90
+  recency_score: 92.61562437967505
+  rank: 3
 - slug: nuff-said
   title: NUFF SAID
-  score: 85
-  rank: 7
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 85
-  rank: 8
+  score: 87.84502484628416
+  llm_score: 90
+  recency_score: 79.22512423142078
+  rank: 4
+- slug: whos-on-first
+  title: ??? WHO’S ON FIRST ???
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
+  rank: 5
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 85
+  score: 80.2139847791858
+  llm_score: 85
+  recency_score: 61.06992389592894
+  rank: 6
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 76.74635098516816
+  llm_score: 90
+  recency_score: 23.73175492584083
+  rank: 7
+- slug: flying-high
+  title: FLYING HIGH
+  score: 72.93193927883213
+  llm_score: 85
+  recency_score: 24.659696394160648
+  rank: 8
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 70.20395356266881
+  llm_score: 85
+  recency_score: 11.019767813344055
   rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 75
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 58.61916499093419
+  llm_score: 70
+  recency_score: 13.095824954670931
   rank: 10
 ---
 The Ripp Report closes out 2016 with congratulations to John Sharp [Al.com](al.com).

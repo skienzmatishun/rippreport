@@ -10,43 +10,63 @@ alttags: Smiling yellow emoji face representing the “happy days” posts discu
 related_articles:
 - slug: on-vacation
   title: ON VACATION
-  score: 75
+  score: 73.4431743480055
+  llm_score: 85
+  recency_score: 27.215871740027474
   rank: 1
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 75
-  rank: 2
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 65
-  rank: 3
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 65
-  rank: 4
-- slug: gone-fishing
-  title: GONE FISHING
-  score: 65
-  rank: 5
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 65
-  rank: 6
-- slug: a-time-for-reflection-goobers-on-notice
-  title: A Time for Reflection - Goobers on Notice
-  score: 65
-  rank: 7
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 50
-  rank: 8
+  score: 68.19614691902797
+  llm_score: 65
+  recency_score: 80.98073459513984
+  rank: 2
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 68.11718589559389
+  llm_score: 85
+  recency_score: 0.585929477969449
+  rank: 3
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 50
+  score: 61.369721324142674
+  llm_score: 60
+  recency_score: 66.84860662071335
+  rank: 4
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 56.27749588022975
+  llm_score: 60
+  recency_score: 41.38747940114875
+  rank: 5
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 52.51310158853855
+  llm_score: 65
+  recency_score: 2.565507942692728
+  rank: 6
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 52.31680361570459
+  llm_score: 65
+  recency_score: 1.5840180785229494
+  rank: 7
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 52.305718772338935
+  llm_score: 65
+  recency_score: 1.5285938616946646
+  rank: 8
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 52.228038608420476
+  llm_score: 65
+  recency_score: 1.1401930421023998
   rank: 9
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 30
+- slug: a-time-for-reflection-goobers-on-notice
+  title: A Time for Reflection - Goobers on Notice
+  score: 52.11277620415708
+  llm_score: 65
+  recency_score: 0.5638810207853779
   rank: 10
 ---
 It is amazing how many Facebook pages, and some media, only publish “happy days’ posts. How great the flowers are and how beautiful the bay is. First Fridays are fun filled with wine and spirited conversations about anything other than reality.

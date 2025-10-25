@@ -15,45 +15,65 @@ authors:
 - admin
 alttags: Illustration depicting a wolf howling under a rainstorm, obscured by a “Catalyst” prohibition sign, referencing Baldwin Co...
 related_articles:
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 85
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 85.92404723937733
+  llm_score: 85
+  recency_score: 89.62023619688662
   rank: 1
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 85
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 82.83667471122875
+  llm_score: 85
+  recency_score: 74.18337355614374
   rank: 2
 - slug: howling-rains-passing-gas
   title: HOWLING RAINS PASSING GAS
-  score: 75
+  score: 81.70348365330435
+  llm_score: 85
+  recency_score: 68.51741826652172
   rank: 3
-- slug: scary
-  title: SCARY
-  score: 75
-  rank: 4
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75
-  rank: 5
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 75
-  rank: 6
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 75
-  rank: 7
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 70
-  rank: 8
+  score: 81.04408811712146
+  llm_score: 85
+  recency_score: 65.22044058560728
+  rank: 4
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 65
+  score: 77.58357363897636
+  llm_score: 75
+  recency_score: 87.91786819488183
+  rank: 5
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 74.16149687375565
+  llm_score: 75
+  recency_score: 70.80748436877823
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 72.01586522172649
+  llm_score: 85
+  recency_score: 20.079326108632408
+  rank: 7
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70.18591311623324
+  llm_score: 85
+  recency_score: 10.929565581166187
+  rank: 8
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 67.07867526852729
+  llm_score: 80
+  recency_score: 15.39337634263649
   rank: 9
-- slug: m-i-a
-  title: M.I.A
-  score: 65
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 54.43908430617278
+  llm_score: 65
+  recency_score: 12.195421530863895
   rank: 10
 ---
 Be sure to read the New York Times Article, the last link on this article.

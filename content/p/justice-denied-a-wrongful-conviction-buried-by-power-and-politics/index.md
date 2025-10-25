@@ -19,43 +19,63 @@ alttags: Four men in suits, likely involved in the wrongful conviction of Murray
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 100
+  score: 96.82943663570212
+  llm_score: 100
+  recency_score: 84.14718317851063
   rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 100
-  rank: 2
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 100
-  rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 95
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 95
-  rank: 5
-- slug: rule-32
-  title: RULE 32
-  score: 95
-  rank: 6
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 2
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 95
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 3
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 86.53991425401259
+  llm_score: 100
+  recency_score: 32.69957127006297
+  rank: 4
+- slug: earful
+  title: EARFUL
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 84.42001563077638
+  llm_score: 100
+  recency_score: 22.100078153881906
+  rank: 6
+- slug: rule-32
+  title: RULE 32
+  score: 83.92880384054972
+  llm_score: 100
+  recency_score: 19.644019202748584
   rank: 7
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 81.19309908067217
+  llm_score: 100
+  recency_score: 5.965495403360867
+  rank: 8
 - slug: innocent
   title: INNOCENT
-  score: 95
-  rank: 8
+  score: 80.75711484285412
+  llm_score: 100
+  recency_score: 3.7855742142706434
+  rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 90
-  rank: 9
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+  score: 79.85417482562934
+  llm_score: 95
+  recency_score: 19.270874128146687
   rank: 10
 ---
 FOR IMMEDIATE RELEASE

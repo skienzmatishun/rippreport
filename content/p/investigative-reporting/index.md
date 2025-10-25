@@ -10,45 +10,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 75
-  rank: 1
-- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
-  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 75
-  rank: 2
-- slug: pay-off-and-election-fraud
-  title: PAY OFF AND ELECTION FRAUD
-  score: 75
-  rank: 3
 - slug: demand-the-truth
   title: DEMAND THE TRUTH
-  score: 70
+  score: 87.14222555805995
+  llm_score: 85
+  recency_score: 95.71112779029973
+  rank: 1
+- slug: fraud
+  title: FRAUD
+  score: 86.72723439081022
+  llm_score: 85
+  recency_score: 93.63617195405108
+  rank: 2
+- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
+  title: As long as I count the Votes, what are you going to do about it?
+  score: 85.68018643855639
+  llm_score: 85
+  recency_score: 88.40093219278197
+  rank: 3
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 79.78201851846809
+  llm_score: 75
+  recency_score: 98.91009259234048
   rank: 4
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 70
+- slug: pay-off-and-election-fraud
+  title: PAY OFF AND ELECTION FRAUD
+  score: 77.48748877687456
+  llm_score: 75
+  recency_score: 87.43744388437275
   rank: 5
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”
-  score: 65
+  score: 73.43964342023084
+  llm_score: 70
+  recency_score: 87.19821710115417
   rank: 6
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 69.94532047544666
+  llm_score: 75
+  recency_score: 49.72660237723329
+  rank: 7
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 62.55785639436276
+  llm_score: 70
+  recency_score: 32.789281971813786
+  rank: 8
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 61.29607060479166
+  llm_score: 70
+  recency_score: 26.48035302395829
+  rank: 9
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 65
-  rank: 7
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 60
-  rank: 8
-- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
-  title: As long as I count the Votes, what are you going to do about it?
-  score: 60
-  rank: 9
-- slug: cut-the-head-off-the-snake
-  title: CUT THE HEAD OFF THE SNAKE
-  score: 50
+  score: 59.73975441483146
+  llm_score: 70
+  recency_score: 18.69877207415731
   rank: 10
 ---
 For those who don’t know the details how Mayor Kant and Senator Pittman got caught up in BP Fraud, please read the articles attached.

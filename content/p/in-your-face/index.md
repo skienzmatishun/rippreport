@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Sign pointing Right and Wrong, illustrating concerns over accountability for city school funds versus airport funding
 related_articles:
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 90
+- slug: flying-high
+  title: FLYING HIGH
+  score: 83.80167323219754
+  llm_score: 85
+  recency_score: 79.0083661609877
   rank: 1
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 90
-  rank: 2
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 85
+  score: 78.82689854161379
+  llm_score: 85
+  recency_score: 54.13449270806896
+  rank: 2
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 78.36317072063389
+  llm_score: 90
+  recency_score: 31.81585360316948
   rank: 3
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 85
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 78.09026245994085
+  llm_score: 90
+  recency_score: 30.451312299704224
   rank: 4
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 75.81469742690143
+  llm_score: 85
+  recency_score: 39.073487134507126
   rank: 5
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 75.41831135904945
+  llm_score: 85
+  recency_score: 37.09155679524731
+  rank: 6
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 75.10014946474215
+  llm_score: 85
+  recency_score: 35.500747323710755
+  rank: 7
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
-  rank: 6
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 85
-  rank: 7
+  score: 74.74000752017984
+  llm_score: 85
+  recency_score: 33.70003760089919
+  rank: 8
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 75
-  rank: 8
+  score: 70.22156185864796
+  llm_score: 75
+  recency_score: 51.107809293239825
+  rank: 9
 - slug: listening-not-reading
   title: LISTENING NOT READING
-  score: 65
-  rank: 9
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 65
+  score: 67.56195333019646
+  llm_score: 75
+  recency_score: 37.809766650982276
   rank: 10
 ---
 Well it seems Mr. Jack Burrell is now worried about the accountability of school funds donated by the city, approximately $350,000 a year. He is demanding accountability or he no longer will support school funds for Fairhope.

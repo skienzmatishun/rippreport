@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: Man in a bee costume waving, referencing Fairhope City Council members allegedly meeting secretly after a council session
 related_articles:
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 95
-  rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
-  rank: 2
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 3
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 85
-  rank: 4
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 85
-  rank: 5
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 85
-  rank: 6
-- slug: honey-bees
-  title: HONEY BEES
-  score: 75
-  rank: 7
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 75
-  rank: 8
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 75
+  score: 87.51287958944485
+  llm_score: 85
+  recency_score: 97.56439794722424
+  rank: 1
+- slug: leaks-and-collusion
+  title: LEAKS AND COLLUSION
+  score: 85.82610187044024
+  llm_score: 85
+  recency_score: 89.13050935220119
+  rank: 2
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 82.09026245994085
+  llm_score: 95
+  recency_score: 30.451312299704224
+  rank: 4
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 78.53445557051873
+  llm_score: 95
+  recency_score: 12.67227785259367
+  rank: 5
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 76.10764360478439
+  llm_score: 75
+  recency_score: 80.5382180239219
+  rank: 6
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 72.73336508087172
+  llm_score: 85
+  recency_score: 23.666825404358608
+  rank: 7
+- slug: honey-bees
+  title: HONEY BEES
+  score: 70.12683802857671
+  llm_score: 85
+  recency_score: 10.634190142883599
+  rank: 8
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 68.73665354209359
+  llm_score: 85
+  recency_score: 3.6832677104679425
   rank: 9
-- slug: hate
-  title: HATE
-  score: 65
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 68.57883750997557
+  llm_score: 85
+  recency_score: 2.894187549877844
   rank: 10
 ---
 The Fairhope City Council should be recognized for it’s political spin. City council members, Burrell, Boone and Brown, the busy bees, scurried to Bone and Barrel restaurant immediately after the council meeting Monday night. They know that they should not be meeting, as per open meetings rules, with a quorum of the council, but hell they had to get their stories straight over a drink. This is proof that council members are meeting in a quorum, discussing what? Read line 4, page 2, number 1. DELIBERATION

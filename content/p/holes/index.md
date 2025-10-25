@@ -15,43 +15,63 @@ alttags: Shovel in freshly dug earth, symbolizing Fairhope’s controversial dev
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 90
+  score: 88.87560790070712
+  llm_score: 90
+  recency_score: 84.37803950353559
   rank: 1
+- slug: fairness
+  title: FAIRNESS
+  score: 85.15530775847412
+  llm_score: 85
+  recency_score: 85.7765387923706
+  rank: 2
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 85
-  rank: 2
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
+  rank: 3
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 80.3916664395256
+  llm_score: 90
+  recency_score: 41.958332197627975
+  rank: 4
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 85
-  rank: 3
+  score: 76.20974049573465
+  llm_score: 85
+  recency_score: 41.04870247867326
+  rank: 5
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 70.30592090193721
+  llm_score: 75
+  recency_score: 51.52960450968603
+  rank: 6
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 85
-  rank: 4
-- slug: flying-high
-  title: FLYING HIGH
-  score: 85
-  rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 85
-  rank: 6
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+  score: 70.302714024536
+  llm_score: 85
+  recency_score: 11.51357012268003
   rank: 7
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 75
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 68.10793937687782
+  llm_score: 85
+  recency_score: 0.5396968843891398
   rank: 8
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 75
-  rank: 9
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 70
+  score: 64.93747241426176
+  llm_score: 70
+  recency_score: 44.68736207130882
+  rank: 9
+- slug: full-plate
+  title: FULL PLATE
+  score: 57.749753193901086
+  llm_score: 65
+  recency_score: 28.748765969505406
   rank: 10
 ---
 Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The developers now want to locate apartments over the already damaged Fly Creek over the objections of the vast majority of Fairhope citizens.

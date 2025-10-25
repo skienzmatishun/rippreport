@@ -12,43 +12,63 @@ alttags: Golden trophy on a pedestal, representing the 2017 Nappie Award winners
 related_articles:
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
-  score: 100
+  score: 82.68454994448997
+  llm_score: 100
+  recency_score: 13.422749722449872
   rank: 1
-- slug: nappi-award
-  title: NAPPI AWARD
-  score: 85
+- slug: people-power
+  title: PEOPLE POWER
+  score: 78.16570646873585
+  llm_score: 85
+  recency_score: 50.828532343679264
   rank: 2
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 3
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
-  rank: 4
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 75
-  rank: 5
+  score: 76.12026192592202
+  llm_score: 85
+  recency_score: 40.601309629610085
+  rank: 3
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 75
+  score: 72.00700989813092
+  llm_score: 90
+  recency_score: 0.03504949065457682
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 71.43524565340775
+  llm_score: 85
+  recency_score: 17.176228267038702
+  rank: 5
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 68.95042781050037
+  llm_score: 85
+  recency_score: 4.7521390525018266
   rank: 6
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 75
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 68.00611250619076
+  llm_score: 85
+  recency_score: 0.030562530953826647
   rank: 7
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 65
+  score: 68.00607910460093
+  llm_score: 85
+  recency_score: 0.03039552300467622
   rank: 8
-- slug: people-power
-  title: PEOPLE POWER
-  score: 65
-  rank: 9
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 65
+  score: 60.91466332403181
+  llm_score: 75
+  recency_score: 4.573316620159037
+  rank: 9
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 56.90469434070804
+  llm_score: 70
+  recency_score: 4.5234717035402
   rank: 10
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/news/complete-list-2017-nappie-award-winners/article_374dee96-bedd-5b49-83b5-3736908420f7.html" >}}

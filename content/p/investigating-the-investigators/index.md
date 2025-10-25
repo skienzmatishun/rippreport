@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: 'Investigation into Fairhope Airport Authority: Attorney examines details amid Ripp Report complaint and ethics inquiry'
 related_articles:
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 95
+- slug: nuff-said
+  title: NUFF SAID
+  score: 94.83013102490949
+  llm_score: 95
+  recency_score: 94.15065512454748
   rank: 1
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 92
-  rank: 2
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 90
-  rank: 3
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
+  score: 94.17127158449026
+  llm_score: 95
+  recency_score: 90.85635792245131
+  rank: 2
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 91.14222555805995
+  llm_score: 90
+  recency_score: 95.71112779029973
+  rank: 3
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 89.15530775847412
+  llm_score: 90
+  recency_score: 85.7765387923706
   rank: 4
 - slug: double-down-and-i-call
   title: DOUBLE DOWN AND I CALL
-  score: 85
+  score: 88.41953853153237
+  llm_score: 90
+  recency_score: 82.09769265766185
   rank: 5
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 88.11502512362765
+  llm_score: 92
+  recency_score: 72.57512561813819
   rank: 6
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 85
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 86.78782317885687
+  llm_score: 92
+  recency_score: 65.93911589428427
   rank: 7
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 85.70348365330435
+  llm_score: 90
+  recency_score: 68.51741826652172
   rank: 8
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 83.5206312839577
+  llm_score: 95
+  recency_score: 37.60315641978851
+  rank: 9
 - slug: in-your-face
   title: IN YOUR FACE
-  score: 85
-  rank: 9
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 85
+  score: 75.41831135904945
+  llm_score: 85
+  recency_score: 37.09155679524731
   rank: 10
 ---
 “The appropriation from city coffers to the airport is more than we spend on all 5 of our public schools and is 21% of our debt and accommodates less than 1% of the population.”

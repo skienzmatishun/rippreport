@@ -17,43 +17,63 @@ alttags: Fairhope City Council candidate Howell Gibbons campaign sign urging a s
 related_articles:
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 90
+  score: 95.4594928113308
+  llm_score: 95
+  recency_score: 97.29746405665401
   rank: 1
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 85
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
   rank: 2
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+  score: 87.51287958944485
+  llm_score: 85
+  recency_score: 97.56439794722424
   rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 4
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 75
+  score: 85.34434506009411
+  llm_score: 85
+  recency_score: 86.72172530047058
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 80.2139847791858
+  llm_score: 85
+  recency_score: 61.06992389592894
   rank: 5
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 75
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 73.47308182433314
+  llm_score: 85
+  recency_score: 27.365409121665678
   rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.08712156026982
+  llm_score: 85
+  recency_score: 15.435607801349112
+  rank: 7
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 7
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 70
+  score: 68.674820315817
+  llm_score: 85
+  recency_score: 3.374101579085013
   rank: 8
-- slug: i-quit
-  title: I QUIT
-  score: 65
-  rank: 9
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 65
+  score: 63.33326215846071
+  llm_score: 75
+  recency_score: 16.666310792303566
+  rank: 9
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 56.851775648651326
+  llm_score: 70
+  recency_score: 4.258878243256627
   rank: 10
 ---
 Where we should be…

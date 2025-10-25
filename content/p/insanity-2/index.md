@@ -13,45 +13,65 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: insanity
-  title: INSANITY
-  score: 95
-  rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 85
-  rank: 2
 - slug: tiny-steps
   title: TINY STEPS
-  score: 70
-  rank: 3
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 70
-  rank: 4
+  score: 83.5866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
+  rank: 1
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 65
+  score: 68.37855609482352
+  llm_score: 85
+  recency_score: 1.892780474117634
+  rank: 2
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 68.34300126248677
+  llm_score: 85
+  recency_score: 1.7150063124338188
+  rank: 3
+- slug: war
+  title: WAR
+  score: 60.362320307674516
+  llm_score: 75
+  recency_score: 1.811601538372569
+  rank: 4
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 60.35349562682317
+  llm_score: 75
+  recency_score: 1.7674781341158494
   rank: 5
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 65
+  score: 56.37238412243051
+  llm_score: 70
+  recency_score: 1.8619206121525609
   rank: 6
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 65
-  rank: 7
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 65
-  rank: 8
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 50
-  rank: 9
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 50
+  score: 52.36132900786234
+  llm_score: 65
+  recency_score: 1.8066450393116897
+  rank: 7
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 51.628730847975405
+  llm_score: 60
+  recency_score: 18.143654239877034
+  rank: 8
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 49.6988963747054
+  llm_score: 60
+  recency_score: 8.494481873527002
+  rank: 9
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 47.33745863402393
+  llm_score: 50
+  recency_score: 36.68729317011966
   rank: 10
 ---
 Alabama needs a psychiatrist and a financial advisor. The lives lost, hospitals closed and billions of dollars, left on the table, is the result of despicable political motives of several Alabama Republican Governors.

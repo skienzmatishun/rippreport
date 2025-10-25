@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 100
-  rank: 1
 - slug: backstory-podcast-7
   title: 'BACKSTORY PODCAST #7'
-  score: 95
+  score: 81.72705423883461
+  llm_score: 100
+  recency_score: 8.635271194173066
+  rank: 1
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 81.7129174484708
+  llm_score: 100
+  recency_score: 8.564587242354007
   rank: 2
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 75
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 78.21000007071322
+  llm_score: 95
+  recency_score: 11.05000035356611
   rank: 3
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'
-  score: 75
+  score: 77.62603288021906
+  llm_score: 95
+  recency_score: 8.130164401095277
   rank: 4
-- slug: backstory-alabama-the-ripp-report-podcast-5
-  title: 'BACKSTORY PODCAST #5'
-  score: 75
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 74.83013102490949
+  llm_score: 70
+  recency_score: 94.15065512454748
   rank: 5
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 75
-  rank: 6
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 70
-  rank: 7
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 70
-  rank: 8
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 70
+  score: 69.41503251862473
+  llm_score: 75
+  recency_score: 47.075162593123636
+  rank: 6
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 64.87818570729087
+  llm_score: 75
+  recency_score: 24.39092853645434
+  rank: 7
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 61.906077264735664
+  llm_score: 75
+  recency_score: 9.530386323678314
+  rank: 8
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 59.511369899719135
+  llm_score: 70
+  recency_score: 17.55684949859567
   rank: 9
 - slug: backstory-podcast-no-187-the-pardon
   title: The Pardon
-  score: 65
+  score: 57.35706097653267
+  llm_score: 70
+  recency_score: 6.785304882663376
   rank: 10
 ---
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.

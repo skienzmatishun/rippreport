@@ -15,43 +15,63 @@ alttags: Handshake between two figures in suits, symbolizing Ripp Report’s new
 related_articles:
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 90
+  score: 80.93747241426176
+  llm_score: 90
+  recency_score: 44.68736207130882
   rank: 1
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 85
+  score: 77.972605288193
+  llm_score: 85
+  recency_score: 49.86302644096496
   rank: 2
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 71.72789538259508
+  llm_score: 65
+  recency_score: 98.63947691297537
   rank: 3
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 75
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 69.65006981718642
+  llm_score: 75
+  recency_score: 48.25034908593207
   rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 65
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 68.73747273054873
+  llm_score: 65
+  recency_score: 83.68736365274363
   rank: 5
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 65
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 68.00821718159455
+  llm_score: 85
+  recency_score: 0.04108590797269358
   rank: 6
 - slug: zunk-the-skunk
   title: ZUNK THE SKUNK
-  score: 65
+  score: 66.22156185864796
+  llm_score: 70
+  recency_score: 51.107809293239825
   rank: 7
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 61.97518838853349
+  llm_score: 75
+  recency_score: 9.87594194266743
+  rank: 8
+- slug: election-ad
+  title: ELECTION AD
+  score: 61.92180821238457
+  llm_score: 75
+  recency_score: 9.609041061922857
+  rank: 9
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 50
-  rank: 8
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 50
-  rank: 9
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 45
+  score: 58.32839938269227
+  llm_score: 65
+  recency_score: 31.641996913461323
   rank: 10
 ---
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp Report/Baldwin County Legal Eagle to become more engaged in the election process by sponsoring or contributing to specific candidates.

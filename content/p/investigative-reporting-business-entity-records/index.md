@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Table listing North Ridge, LLC agents and associated details from Alabama business records
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
-  rank: 1
 - slug: a-spiders-web
   title: A SPIDER’S WEB
-  score: 85
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
+  rank: 1
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 79.91650071517822
+  llm_score: 85
+  recency_score: 59.582503575891096
   rank: 2
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 85
-  rank: 3
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 75
-  rank: 4
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 75
-  rank: 5
+  score: 70.0
+  llm_score: 75
+  recency_score: 50
+  rank: 3
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 65
-  rank: 6
+  score: 68.23245415713848
+  llm_score: 85
+  recency_score: 1.1622707856923733
+  rank: 4
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 65
+  score: 68.22066335011544
+  llm_score: 85
+  recency_score: 1.1033167505772241
+  rank: 5
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 68.01798951201773
+  llm_score: 85
+  recency_score: 0.08994756008867333
+  rank: 6
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 68.01684469040661
+  llm_score: 85
+  recency_score: 0.08422345203310352
   rank: 7
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 65
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 65.62366745387793
+  llm_score: 70
+  recency_score: 48.118337269389656
   rank: 8
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 65
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 60.17244233573682
+  llm_score: 75
+  recency_score: 0.8622116786841
   rank: 9
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 65
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 56.15327821607662
+  llm_score: 70
+  recency_score: 0.7663910803831024
   rank: 10
 ---
 Source: [http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL](http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL)

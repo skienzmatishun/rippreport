@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Peace symbol representing kindness and caring, encouraging acts of generosity as described in this article
 related_articles:
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 85
-  rank: 1
 - slug: wonderful-wednesday-5
   title: WONDERFUL WEDNESDAY
-  score: 85
+  score: 79.25748712883775
+  llm_score: 90
+  recency_score: 36.28743564418876
+  rank: 1
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 73.22401634150835
+  llm_score: 85
+  recency_score: 26.120081707541715
   rank: 2
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 70
+- slug: exposure-2
+  title: EXPOSURE
+  score: 71.62009294457451
+  llm_score: 65
+  recency_score: 98.10046472287257
   rank: 3
-- slug: happy-thanksgiving-3
-  title: Happy Thanksgiving
-  score: 65
-  rank: 4
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 65
-  rank: 5
 - slug: equal-representation
   title: EQUAL REPRESENTATION
-  score: 60
-  rank: 6
-- slug: happy-thanksgiving
-  title: Happy Thanksgiving!
-  score: 54
-  rank: 7
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 50
-  rank: 8
+  score: 65.33314208208326
+  llm_score: 65
+  recency_score: 66.66571041041625
+  rank: 4
 - slug: lagniappe
   title: LAGNIAPPE
-  score: 40
+  score: 59.006345824340734
+  llm_score: 60
+  recency_score: 55.031729121703655
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 52.87303941455374
+  llm_score: 65
+  recency_score: 4.365197072768688
+  rank: 6
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 52.48707545982507
+  llm_score: 65
+  recency_score: 2.435377299125359
+  rank: 7
+- slug: tonight
+  title: TONIGHT
+  score: 48.76770197286933
+  llm_score: 50
+  recency_score: 43.83850986434665
+  rank: 8
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 47.00355029206108
+  llm_score: 50
+  recency_score: 35.01775146030539
   rank: 9
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 40
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 37.968826439319926
+  llm_score: 30
+  recency_score: 69.84413219659965
   rank: 10
 ---
 ## RANDOM ACTS OF KINDNESS

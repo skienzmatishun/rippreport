@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Fairhope Council members Burrell, Boone, and Brown in bee costumes, referencing concerns about potential personal gain
 related_articles:
-- slug: queen-bee
-  title: QUEEN BEE
-  score: 75
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 73.15530775847412
+  llm_score: 70
+  recency_score: 85.7765387923706
   rank: 1
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 70
-  rank: 2
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 65
-  rank: 3
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65
-  rank: 4
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 65
-  rank: 5
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 65
-  rank: 6
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 65
-  rank: 7
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 65
-  rank: 8
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 65
+  score: 69.68037997726903
+  llm_score: 85
+  recency_score: 8.401899886345134
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 69.55629440789875
+  llm_score: 85
+  recency_score: 7.781472039493755
+  rank: 3
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 69.33493547651477
+  llm_score: 85
+  recency_score: 6.674677382573833
+  rank: 4
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 69.1355247284506
+  llm_score: 75
+  recency_score: 45.67762364225301
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 68.05638790447402
+  llm_score: 85
+  recency_score: 0.28193952237011366
+  rank: 6
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 66.92721807862874
+  llm_score: 75
+  recency_score: 34.63609039314372
+  rank: 7
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 66.20034869269523
+  llm_score: 65
+  recency_score: 71.00174346347615
+  rank: 8
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 62.12683802857672
+  llm_score: 75
+  recency_score: 10.634190142883599
   rank: 9
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 45
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 53.712917448470805
+  llm_score: 65
+  recency_score: 8.564587242354007
   rank: 10
 ---
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.

@@ -7,45 +7,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 100
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 72.58768021500666
+  llm_score: 75
+  recency_score: 62.93840107503325
   rank: 1
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 75
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 70.14439092546303
+  llm_score: 85
+  recency_score: 10.721954627315156
   rank: 2
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 70
-  rank: 3
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 70
-  rank: 4
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 70
-  rank: 5
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 70
-  rank: 6
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 65
-  rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 65
-  rank: 8
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 40
+  score: 60.39586260016436
+  llm_score: 70
+  recency_score: 21.979313000821772
+  rank: 3
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 59.520631283957705
+  llm_score: 65
+  recency_score: 37.60315641978851
+  rank: 4
+- slug: backstory-podcast-16-the-jack-wilson-complex
+  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
+  score: 58.677205079188795
+  llm_score: 70
+  recency_score: 13.386025395943985
+  rank: 5
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 58.61916499093419
+  llm_score: 70
+  recency_score: 13.095824954670931
+  rank: 6
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 58.38620652348398
+  llm_score: 70
+  recency_score: 11.931032617419875
+  rank: 7
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 58.16208868725441
+  llm_score: 70
+  recency_score: 10.810443436272047
+  rank: 8
+- slug: backstory-podcast-4
+  title: 'BACKSTORY PODCAST #4'
+  score: 58.03562066342376
+  llm_score: 70
+  recency_score: 10.178103317118776
   rank: 9
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 30
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 34.32808802841453
+  llm_score: 40
+  recency_score: 11.640440142072652
   rank: 10
 ---
 58.6 Million infected in the USA with SARS-COV-2 with 834,321 deaths, 2,000 new cases in Baldwin County this week alone. The Omicron variant is rampant in Alabama with UAB projecting a long January for our health care workers.

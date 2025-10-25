@@ -14,45 +14,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85
-  rank: 1
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 85
+  score: 82.41948362581483
+  llm_score: 90
+  recency_score: 52.09741812907417
+  rank: 1
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 82.16149687375565
+  llm_score: 85
+  recency_score: 70.80748436877823
   rank: 2
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 75
+  score: 81.65006981718642
+  llm_score: 90
+  recency_score: 48.25034908593207
   rank: 3
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
+  score: 80.72638603917497
+  llm_score: 85
+  recency_score: 63.63193019587483
   rank: 4
-- slug: halloween-characters
-  title: HALLOWEEN CHARACTERS
-  score: 75
-  rank: 5
-- slug: hallucinations
-  title: HALLUCINATIONS
-  score: 75
-  rank: 6
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
-  score: 65
+  score: 73.4431743480055
+  llm_score: 85
+  recency_score: 27.215871740027474
+  rank: 5
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 70.52312487593501
+  llm_score: 65
+  recency_score: 92.61562437967505
+  rank: 6
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 68.58768021500666
+  llm_score: 70
+  recency_score: 62.93840107503325
   rank: 7
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 65
-  rank: 8
-- slug: hate
-  title: HATE
-  score: 60
-  rank: 9
 - slug: people-power-2
   title: PEOPLE POWER
-  score: 54
+  score: 66.97623272188054
+  llm_score: 70
+  recency_score: 54.88116360940264
+  rank: 8
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 58.9652796209306
+  llm_score: 65
+  recency_score: 34.826398104653
+  rank: 9
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 57.428281951431174
+  llm_score: 65
+  recency_score: 27.14140975715586
   rank: 10
 ---
 Many people have been following the Ripp Report and the comments made by Jester 666. During public participation of the Fairhope city Council I asked Mr. Robert Brown if he was the Jester, he said no. I then made a comparison to Mr. Brown’s letter,

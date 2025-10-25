@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Fairhope Museum of History building facade, referenced in a letter regarding waterfront development controversy
 related_articles:
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 90
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 86.62490003199702
+  llm_score: 85
+  recency_score: 93.12450015998506
   rank: 1
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 86.27111348555951
+  llm_score: 85
+  recency_score: 91.35556742779755
   rank: 2
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
   rank: 3
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 75
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 80.13888198432126
+  llm_score: 100
+  recency_score: 0.6944099216063174
   rank: 4
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 75
+  score: 73.87716639008053
+  llm_score: 85
+  recency_score: 29.385831950402675
   rank: 5
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 72.8355958697232
+  llm_score: 90
+  recency_score: 4.177979348616061
   rank: 6
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 75
+  score: 72.12044085293493
+  llm_score: 90
+  recency_score: 0.6022042646746438
   rank: 7
-- slug: scary
-  title: SCARY
-  score: 65
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 70.56941302796523
+  llm_score: 85
+  recency_score: 12.847065139826096
   rank: 8
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 65
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 68.82875610558986
+  llm_score: 85
+  recency_score: 4.143780527949273
   rank: 9
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 65
+- slug: victory
+  title: VICTORY
+  score: 63.112599723484344
+  llm_score: 75
+  recency_score: 15.562998617421716
   rank: 10
 ---
 Posted by [Lagniappe](http://lagniappemobile.com/) | Jul 15, 2020 | Letters to the Editor

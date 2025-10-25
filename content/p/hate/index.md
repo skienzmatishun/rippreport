@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Jester’s hat illustration referencing “come fly with me” Burrell and an ethics investigation within city council conflict
 related_articles:
-- slug: honeymoon
-  title: HONEYMOON
-  score: 85
-  rank: 1
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 75
-  rank: 2
-- slug: the-jester
-  title: THE JESTER
-  score: 75
-  rank: 3
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 75
-  rank: 4
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 75
-  rank: 5
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 75
-  rank: 6
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 75
-  rank: 7
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 75
-  rank: 8
+  score: 79.89071065521195
+  llm_score: 75
+  recency_score: 99.45355327605971
+  rank: 1
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 65
-  rank: 9
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 2
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 76.86431479647436
+  llm_score: 85
+  recency_score: 44.32157398237182
+  rank: 3
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 73.27069994950746
+  llm_score: 90
+  recency_score: 6.3534997475373
+  rank: 4
+- slug: the-jester
+  title: THE JESTER
+  score: 70.66988030926576
+  llm_score: 85
+  recency_score: 13.34940154632884
+  rank: 5
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 69.78967429181668
+  llm_score: 85
+  recency_score: 8.948371459083383
+  rank: 6
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
-  score: 65
+  score: 62.24662907448485
+  llm_score: 75
+  recency_score: 11.233145372424257
+  rank: 7
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 60.94523422886647
+  llm_score: 75
+  recency_score: 4.726171144332342
+  rank: 8
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 57.36911870433388
+  llm_score: 65
+  recency_score: 26.845593521669393
+  rank: 9
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 52.04194521092376
+  llm_score: 65
+  recency_score: 0.20972605461878963
   rank: 10
 ---
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council's attorney. This is a common practice and is the way the city of Mobile handles similar situations. The threat of a lawsuit only arises if the council refuses and continues to obstruct the mayor. The council refused; however, when it came to “come fly with me” Burrell, when his plane was caught in an ethics investigation, the airport authority approved funds to hire an attorney for Jack. This is the council's definition of FAIRNESS. Take note.

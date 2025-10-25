@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: Donkey peering over a fence, possibly symbolizing political absurdity and unexpected events discussed in the city council ...
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 95
-  rank: 1
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 85
-  rank: 2
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 85
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 1
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
+  rank: 2
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 81.22400374104741
+  llm_score: 85
+  recency_score: 66.12001870523703
   rank: 3
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 81.07987434468455
+  llm_score: 85
+  recency_score: 65.39937172342279
   rank: 4
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 75
+  score: 78.88179115997221
+  llm_score: 75
+  recency_score: 94.40895579986105
   rank: 5
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
-  rank: 6
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 75
+  score: 78.27772414553687
+  llm_score: 85
+  recency_score: 51.388620727684355
+  rank: 6
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 76.05859274246585
+  llm_score: 95
+  recency_score: 0.29296371232922347
   rank: 7
-- slug: hate
-  title: HATE
-  score: 70
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 73.65600931164778
+  llm_score: 85
+  recency_score: 28.280046558238915
   rank: 8
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 72.2073296707293
+  llm_score: 85
+  recency_score: 21.03664835364649
+  rank: 9
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 65
-  rank: 9
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+  score: 68.70699373121073
+  llm_score: 85
+  recency_score: 3.5349686560536235
   rank: 10
 ---
 Well folks, as they often say, “You can’t make this stuff up!”

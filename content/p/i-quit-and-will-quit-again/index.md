@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: City council member Nix shown in news footage after resigning following a failed vote, related to an inaccurate report cor...
 related_articles:
-- slug: i-quit
-  title: I QUIT
-  score: 85
-  rank: 1
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 85
-  rank: 2
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 80
-  rank: 3
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
-  rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 75
-  rank: 5
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 70
-  rank: 6
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 65
-  rank: 7
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
-  score: 65
-  rank: 8
+  score: 82.43570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
+  rank: 1
+- slug: you-win-some-you-lose-some
+  title: YOU WIN SOME YOU LOSE SOME
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 2
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 76.19614691902797
+  llm_score: 75
+  recency_score: 80.98073459513984
+  rank: 3
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 65
+  score: 70.79608191931776
+  llm_score: 70
+  recency_score: 73.98040959658876
+  rank: 4
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 69.92708065959617
+  llm_score: 85
+  recency_score: 9.635403297980877
+  rank: 5
+- slug: i-quit
+  title: I QUIT
+  score: 69.05760428967814
+  llm_score: 85
+  recency_score: 5.288021448390664
+  rank: 6
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 66.33447509719417
+  llm_score: 80
+  recency_score: 11.672375485970868
+  rank: 7
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 62.99547296281644
+  llm_score: 75
+  recency_score: 14.977364814082216
+  rank: 8
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 60.0536745847485
+  llm_score: 75
+  recency_score: 0.2683729237425041
   rank: 9
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 65
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 52.173389818720864
+  llm_score: 65
+  recency_score: 0.866949093604331
   rank: 10
 ---
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the:

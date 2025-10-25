@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Door knocker on a weathered door, symbolizing persistent effort needed for success despite potential rejection
 related_articles:
-- slug: repeat
-  title: REPEAT
-  score: 75
-  rank: 1
 - slug: dont-let-the-door-hit-you-in-the-ass
   title: DON’T LET THE DOOR HIT YOU IN THE ASS
-  score: 75
+  score: 82.91819469742386
+  llm_score: 85
+  recency_score: 74.59097348711927
+  rank: 1
+- slug: repeat
+  title: REPEAT
+  score: 74.85171781564505
+  llm_score: 85
+  recency_score: 34.2585890782252
   rank: 2
 - slug: public-access
   title: PUBLIC ACCESS
-  score: 75
+  score: 69.65006981718642
+  llm_score: 75
+  recency_score: 48.25034908593207
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: fire
+  title: FIRE
+  score: 61.89047508264844
+  llm_score: 75
+  recency_score: 9.45237541324223
   rank: 4
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 70
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 61.81657916519468
+  llm_score: 60
+  recency_score: 69.0828958259734
   rank: 5
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 65
-  rank: 6
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 65
-  rank: 7
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 65
-  rank: 8
 - slug: laugh-out-loud-baldwin
   title: Laugh Out Loud Baldwin
-  score: 50
+  score: 57.48748877687456
+  llm_score: 50
+  recency_score: 87.43744388437275
+  rank: 6
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 53.81933672814583
+  llm_score: 65
+  recency_score: 9.096683640729124
+  rank: 7
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 52.74273317932575
+  llm_score: 65
+  recency_score: 3.7136658966287337
+  rank: 8
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 48.04322855408818
+  llm_score: 60
+  recency_score: 0.21614277044091165
   rank: 9
 - slug: notice
   title: 'NOTICE:'
-  score: 50
+  score: 40.03831928544819
+  llm_score: 50
+  recency_score: 0.19159642724092793
   rank: 10
 ---
 There are two types of salesman. The ones that put a sign up and wait for the phone to ring, they usually have the most bravado and produce the least. Then you have the ones that knock on doors, they are used to being turned down however they keep knocking on those doors and are the successful ones.

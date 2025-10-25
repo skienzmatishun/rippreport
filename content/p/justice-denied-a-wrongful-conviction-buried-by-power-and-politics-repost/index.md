@@ -18,43 +18,63 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 100
+  score: 96.82943663570212
+  llm_score: 100
+  recency_score: 84.14718317851063
   rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 100
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
   rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 100
-  rank: 3
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 95
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
+  rank: 3
+- slug: earful
+  title: EARFUL
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 85
-  rank: 5
-- slug: no-justice
-  title: NO JUSTICE
-  score: 85
-  rank: 6
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 85
+  score: 85.50315362704151
+  llm_score: 100
+  recency_score: 27.51576813520753
+  rank: 5
+- slug: innocent
+  title: INNOCENT
+  score: 80.63709081368816
+  llm_score: 100
+  recency_score: 3.1854540684407837
+  rank: 6
+- slug: no-justice
+  title: NO JUSTICE
+  score: 79.7193186493482
+  llm_score: 95
+  recency_score: 18.596593246741016
   rank: 7
 - slug: rule-32
   title: RULE 32
-  score: 85
+  score: 79.30597776443173
+  llm_score: 95
+  recency_score: 16.529888822158654
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 85
+  score: 79.24317955054237
+  llm_score: 95
+  recency_score: 16.215897752711804
   rank: 9
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 77.00395926891434
+  llm_score: 95
+  recency_score: 5.0197963445716995
   rank: 10
 ---
 FOR IMMEDIATE RELEASE

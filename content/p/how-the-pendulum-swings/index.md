@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Golden pendulum suspended from a chain, symbolizing balance and potential shifts in local politics discussed in The Ripp R...
 related_articles:
-- slug: boone-doggle
-  title: BOONE-DOGGLE
-  score: 85
-  rank: 1
 - slug: gob-coup
   title: GOB COUP
-  score: 85
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 1
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 86.43570824436047
+  llm_score: 90
+  recency_score: 72.17854122180232
   rank: 2
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 85
+  score: 78.82689854161379
+  llm_score: 85
+  recency_score: 54.13449270806896
   rank: 3
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 85
+  score: 75.4921821339367
+  llm_score: 90
+  recency_score: 17.460910669683468
   rank: 4
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 85
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 71.42584690236103
+  llm_score: 85
+  recency_score: 17.129234511805123
   rank: 5
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 75
-  rank: 6
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
-  rank: 7
 - slug: repeat
   title: REPEAT
-  score: 65
+  score: 70.3909761644817
+  llm_score: 75
+  recency_score: 51.95488082240847
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 68.00501822654617
+  llm_score: 85
+  recency_score: 0.025091132730875366
+  rank: 7
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 66.71522921439812
+  llm_score: 65
+  recency_score: 73.57614607199059
   rank: 8
 - slug: wonderful-wednesday
   title: WONDERFUL WEDNESDAY
-  score: 65
+  score: 64.71979115267374
+  llm_score: 70
+  recency_score: 43.598955763368686
   rank: 9
-- slug: jack-ass
-  title: JACK ASS
-  score: 52
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 64.16487863775171
+  llm_score: 70
+  recency_score: 40.82439318875856
   rank: 10
 ---
 Well, Wonderful Wednesday had some very interesting commentary.

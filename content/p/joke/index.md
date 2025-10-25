@@ -10,45 +10,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 75
-  rank: 1
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 70
-  rank: 2
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 65
-  rank: 3
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 65
-  rank: 4
+  score: 70.16149687375565
+  llm_score: 70
+  recency_score: 70.80748436877823
+  rank: 1
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 65
-  rank: 5
+  score: 68.28314334984758
+  llm_score: 85
+  recency_score: 1.4157167492379013
+  rank: 2
 - slug: shut-up-2
   title: SHUT UP
-  score: 65
-  rank: 6
+  score: 59.3607717319103
+  llm_score: 70
+  recency_score: 16.8038586595515
+  rank: 3
 - slug: pop-up-target
   title: POP UP TARGET
-  score: 65
-  rank: 7
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 65
-  rank: 8
+  score: 57.97457577604462
+  llm_score: 65
+  recency_score: 29.872878880223098
+  rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 56.708933356144534
+  llm_score: 70
+  recency_score: 3.544666780722678
+  rank: 5
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 60
+  score: 56.29340964674219
+  llm_score: 70
+  recency_score: 1.4670482337109607
+  rank: 6
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 55.42584690236102
+  llm_score: 65
+  recency_score: 17.129234511805123
+  rank: 7
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 52.23373137457767
+  llm_score: 65
+  recency_score: 1.1686568728883742
+  rank: 8
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 52.07833713836052
+  llm_score: 65
+  recency_score: 0.39168569180259616
   rank: 9
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 50
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 48.11718589559389
+  llm_score: 60
+  recency_score: 0.585929477969449
   rank: 10
 ---
 JOKE llp.

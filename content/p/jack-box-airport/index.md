@@ -14,43 +14,63 @@ authors:
 related_articles:
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 95
+  score: 93.82610187044024
+  llm_score: 95
+  recency_score: 89.13050935220119
   rank: 1
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 90
+  score: 92.50975554986516
+  llm_score: 95
+  recency_score: 82.54877774932578
   rank: 2
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
+  score: 91.24740235768714
+  llm_score: 90
+  recency_score: 96.23701178843567
   rank: 3
 - slug: fairhope-airport-authority-flying-without-a-compass
   title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 85
+  score: 89.06156314124607
+  llm_score: 90
+  recency_score: 85.30781570623031
   rank: 4
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 85
-  rank: 5
-- slug: captain-jack-at-the-controls
-  title: CAPTAIN JACK AT THE CONTROLS
-  score: 75
-  rank: 6
 - slug: whos-on-first
   title: ??? WHO’S ON FIRST ???
-  score: 75
-  rank: 7
-- slug: nuff-said
-  title: NUFF SAID
-  score: 75
-  rank: 8
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 5
 - slug: bushwhacked-hijacked-fairhope-style
   title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 75
+  score: 81.3251698208218
+  llm_score: 95
+  recency_score: 26.62584910410898
+  rank: 6
+- slug: flying-high
+  title: FLYING HIGH
+  score: 73.53339065902054
+  llm_score: 85
+  recency_score: 27.666953295102704
+  rank: 7
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 70.93857289717093
+  llm_score: 85
+  recency_score: 14.692864485854656
+  rank: 8
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 70.4727263186165
+  llm_score: 85
+  recency_score: 12.36363159308245
   rank: 9
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 65
+  score: 65.70348365330435
+  llm_score: 65
+  recency_score: 68.51741826652172
   rank: 10
 ---
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any investigation with the Attorney General’s office and the Ethics Commission. Your tax dollars are going to pay for the defense of the authority board members, Jack Burrell and Ray Hix, who are the focus of the complaint. Mr. Burrell is an elected official as well as a board member making him far more responsible for his actions. This will be an end run around the investigation and an attempt through judicial means to quash accountability by using attorneys to talk with attorneys who will confer with more attorneys, they are all getting paid, and come up with a very clever explanation, written by another attorney.

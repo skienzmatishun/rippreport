@@ -19,45 +19,65 @@ authors:
 - admin
 alttags: Mayor wearing a donkey mask, symbolizing criticism over Fairhope’s public gathering decision during health concerns
 related_articles:
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 82.5631983784823
+  llm_score: 90
+  recency_score: 52.81599189241148
+  rank: 1
 - slug: all-mouth
   title: ALL MOUTH
-  score: 95
-  rank: 1
+  score: 77.65751801972854
+  llm_score: 95
+  recency_score: 8.287590098642712
+  rank: 2
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 90
-  rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 90
+  score: 71.3607717319103
+  llm_score: 85
+  recency_score: 16.8038586595515
   rank: 3
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 85
+  score: 69.08104055525278
+  llm_score: 85
+  recency_score: 5.405202776263941
   rank: 4
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 85
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 68.62157381675192
+  llm_score: 85
+  recency_score: 3.107869083759611
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
-  rank: 6
-- slug: jack-ass
-  title: JACK ASS
-  score: 75
-  rank: 7
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 75
-  rank: 8
+  score: 68.36331432710038
+  llm_score: 85
+  recency_score: 1.8165716355019172
+  rank: 6
 - slug: fairhope-council-asleep-at-the-wheel
   title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 70
+  score: 65.8369256908693
+  llm_score: 70
+  recency_score: 49.18462845434644
+  rank: 7
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 63.60350242007568
+  llm_score: 70
+  recency_score: 38.0175121003784
+  rank: 8
+- slug: jack-ass
+  title: JACK ASS
+  score: 60.70699373121072
+  llm_score: 75
+  recency_score: 3.5349686560536235
   rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 56.66746539920652
+  llm_score: 70
+  recency_score: 3.337326996032608
   rank: 10
 ---
 The Mayor of Fairhope and the City Council got hammered by the public, medical professionals and first responders over the city’s decision to have a large public gathering for the lighting of the trees.

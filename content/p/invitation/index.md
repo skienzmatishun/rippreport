@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Fairhope residents encouraged to provide feedback on Waterfront park project through public participation
 related_articles:
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 95
-  rank: 1
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 90
-  rank: 2
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 85
-  rank: 3
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 85
-  rank: 4
+  score: 95.89071065521195
+  llm_score: 95
+  recency_score: 99.45355327605971
+  rank: 1
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 85
-  rank: 5
+  score: 87.67392032634467
+  llm_score: 85
+  recency_score: 98.36960163172333
+  rank: 2
 - slug: truth
   title: TRUTH
-  score: 85
+  score: 86.67599711942087
+  llm_score: 85
+  recency_score: 93.37998559710435
+  rank: 3
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 75.35758882342884
+  llm_score: 85
+  recency_score: 36.787944117144235
+  rank: 4
+- slug: 100-voices
+  title: 100 VOICES
+  score: 73.89329029325975
+  llm_score: 85
+  recency_score: 29.466451466298754
+  rank: 5
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 73.73402200483869
+  llm_score: 85
+  recency_score: 28.67011002419343
   rank: 6
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 85
+- slug: shut-up
+  title: SHUT UP
+  score: 68.71282858459234
+  llm_score: 85
+  recency_score: 3.5641429229617514
   rank: 7
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 60.80195235339659
+  llm_score: 75
+  recency_score: 4.009761766982932
+  rank: 8
+- slug: people-power
+  title: PEOPLE POWER
+  score: 60.54200128617527
+  llm_score: 75
+  recency_score: 2.7100064308763563
+  rank: 9
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 75
-  rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65
-  rank: 9
-- slug: survey
-  title: SURVEY
-  score: 65
+  score: 56.406505370953056
+  llm_score: 70
+  recency_score: 2.032526854765281
   rank: 10
 ---
 Fairhope Mayor Wilson is inviting the citizens of Fairhope, again, to participate in the next upcoming presentation of the Waterfront project.

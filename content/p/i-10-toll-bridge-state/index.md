@@ -11,45 +11,65 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 85
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
   rank: 1
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 85
+  score: 78.45093721071514
+  llm_score: 90
+  recency_score: 32.254686053575696
   rank: 2
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 85
-  rank: 3
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 85
-  rank: 4
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 75
-  rank: 5
 - slug: pied-piper
   title: PIED PIPER
-  score: 75
+  score: 75.62009294457451
+  llm_score: 70
+  recency_score: 98.10046472287257
+  rank: 3
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 74.98553700495827
+  llm_score: 70
+  recency_score: 94.92768502479139
+  rank: 4
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 74.97910429894462
+  llm_score: 90
+  recency_score: 14.895521494723079
+  rank: 5
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 74.07359964556152
+  llm_score: 85
+  recency_score: 30.367998227807558
   rank: 6
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 70
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 63.23430628782093
+  llm_score: 75
+  recency_score: 16.171531439104648
   rank: 7
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 70
+  score: 58.069359466397685
+  llm_score: 70
+  recency_score: 10.34679733198841
   rank: 8
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 65
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 55.30597776443173
+  llm_score: 65
+  recency_score: 16.529888822158654
   rank: 9
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 55
+  score: 53.56056407438185
+  llm_score: 65
+  recency_score: 7.802820371909244
   rank: 10
 ---
 Alabama is known to be last in almost every category. Be it obesity, drugs, education, prisons and much more. Alabama has no lottery and is not even considering the millions, maybe billions, in revenue from decriminalization of marijuana. I am sure Alabama will be last in that category.

@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and...
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90
-  rank: 1
-- slug: s-o-s
-  title: S.O.S
-  score: 85
-  rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 85
-  rank: 3
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 85
+  score: 80.36870703816402
+  llm_score: 90
+  recency_score: 41.84353519082013
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 80.16487863775171
+  llm_score: 90
+  recency_score: 40.82439318875856
+  rank: 2
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 78.36254669889007
+  llm_score: 85
+  recency_score: 51.81273349445037
+  rank: 3
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 77.1355247284506
+  llm_score: 85
+  recency_score: 45.67762364225301
   rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 76.55415564363686
+  llm_score: 85
+  recency_score: 42.77077821818432
   rank: 5
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 85
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 76.07588902065244
+  llm_score: 85
+  recency_score: 40.37944510326223
   rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 71.54034940495241
+  llm_score: 85
+  recency_score: 17.701747024762053
+  rank: 7
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 85
-  rank: 7
-- slug: water
-  title: Water
-  score: 75
+  score: 69.3947547242778
+  llm_score: 85
+  recency_score: 6.973773621388993
   rank: 8
 - slug: survey
   title: SURVEY
-  score: 75
+  score: 68.2810944172931
+  llm_score: 70
+  recency_score: 61.405472086465494
   rank: 9
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 70
+- slug: water
+  title: Water
+  score: 61.09295272799745
+  llm_score: 75
+  recency_score: 5.464763639987247
   rank: 10
 ---
 Long before Fairhope Mayor Wilson even thought about running for office, Fairhope had major infrastructure and sewer problems. Baykeeper was contacted time and time again through the years about various issues. I know because I called. Now the Director of Baykeeper is claiming that all you got to do, if you have an environmental problem, is to contact Baykeeper.

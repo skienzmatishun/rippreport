@@ -22,43 +22,63 @@ alttags: Jester in purple costume holding money and staff, circled by a no catal
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 92
+  score: 85.45138338741182
+  llm_score: 92
+  recency_score: 59.25691693705903
   rank: 1
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 90
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
   rank: 2
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 85
+  score: 79.0613509305972
+  llm_score: 90
+  recency_score: 35.306754652986015
   rank: 3
 - slug: catalyst-last-stand
   title: CATALYST LAST STAND
-  score: 85
+  score: 78.97623272188054
+  llm_score: 85
+  recency_score: 54.88116360940264
   rank: 4
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 85
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 77.06074595483393
+  llm_score: 85
+  recency_score: 45.30372977416965
   rank: 5
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 85
-  rank: 6
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 85
+  score: 74.85171781564505
+  llm_score: 85
+  recency_score: 34.2585890782252
+  rank: 6
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 69.31241738177069
+  llm_score: 75
+  recency_score: 46.562086908853416
   rank: 7
 - slug: i-quit-and-will-quit-again
   title: I QUIT AND WILL QUIT AGAIN
-  score: 75
+  score: 69.05760428967814
+  llm_score: 85
+  recency_score: 5.288021448390664
   rank: 8
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 75
-  rank: 9
 - slug: you-win-some-you-lose-some
   title: YOU WIN SOME YOU LOSE SOME
-  score: 65
+  score: 61.991489713622244
+  llm_score: 75
+  recency_score: 9.957448568111234
+  rank: 9
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 55.164188602834145
+  llm_score: 65
+  recency_score: 15.820943014170737
   rank: 10
 ---
 The Fairhope City Council that served during the last cycle, 2016/2020 was the least productive of any council in recent memory. Most of the council,3 B’s, used their public office for personal gain.

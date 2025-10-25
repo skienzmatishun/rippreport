@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Fairhope Council President Burrell depicted wearing a dunce cap, referencing criticism over K-1 Center deal decisions
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 90
+- slug: pop-up-target
+  title: POP UP TARGET
+  score: 88.62221429547445
+  llm_score: 95
+  recency_score: 63.11107147737226
   rank: 1
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 85
+  score: 75.3607717319103
+  llm_score: 90
+  recency_score: 16.8038586595515
   rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 85
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 74.43328759872848
+  llm_score: 85
+  recency_score: 32.1664379936424
   rank: 3
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 85
+  score: 72.63074876314147
+  llm_score: 85
+  recency_score: 23.153743815707337
   rank: 4
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 72.27852698529178
+  llm_score: 90
+  recency_score: 1.392634926458906
+  rank: 5
+- slug: jack-ass
+  title: JACK ASS
+  score: 72.2073296707293
+  llm_score: 85
+  recency_score: 21.03664835364649
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 72.0294572366725
+  llm_score: 90
+  recency_score: 0.147286183362461
+  rank: 7
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85
-  rank: 5
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 85
-  rank: 6
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 75
-  rank: 7
+  score: 72.02929626856773
+  llm_score: 90
+  recency_score: 0.14648134283866024
+  rank: 8
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 75
-  rank: 8
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 75
+  score: 69.08698032362109
+  llm_score: 85
+  recency_score: 5.4349016181054575
   rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 65
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 68.10444838563177
+  llm_score: 85
+  recency_score: 0.522241928158863
   rank: 10
 ---
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options or the best use for the K-1 Center. It was his plan or no plan.

@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Handcuffs with faux fur lining, symbolizing alleged cover-ups and internal affairs within the Baldwin County Sheriff’s Dep...
 related_articles:
-- slug: hanky-panky-at-the-po-po
-  title: Hanky Panky at the Po Po
-  score: 95
-  rank: 1
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 95
+  score: 95.19474191901475
+  llm_score: 95
+  recency_score: 95.97370959507373
+  rank: 1
+- slug: hanky-panky-at-the-po-po
+  title: Hanky Panky at the Po Po
+  score: 94.93359302371175
+  llm_score: 95
+  recency_score: 94.66796511855877
   rank: 2
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 90
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 87.7866218911497
+  llm_score: 95
+  recency_score: 58.93310945574846
   rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 85
+  score: 86.022530768332
+  llm_score: 85
+  recency_score: 90.11265384166002
   rank: 4
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 85
+  score: 85.10837124125831
+  llm_score: 85
+  recency_score: 85.54185620629158
   rank: 5
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 85
+  score: 83.62944962510568
+  llm_score: 85
+  recency_score: 78.14724812552835
   rank: 6
-- slug: no-justice
-  title: NO JUSTICE
-  score: 85
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 81.19546987535206
+  llm_score: 95
+  recency_score: 25.977349376760323
   rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 85
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 75.70914268128783
+  llm_score: 90
+  recency_score: 18.545713406439127
   rank: 8
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85
+  score: 73.390938708264
+  llm_score: 90
+  recency_score: 6.9546935413200295
   rank: 9
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 75
+  score: 69.67654461491676
+  llm_score: 75
+  recency_score: 48.38272307458382
   rank: 10
 ---
 It seems the Baldwin County Sheriff's Department has internal hanky panky problems. One of the top officers in the Sheriff's Department has been having a little extra curricular activity with a subordinate female employee, who is married to a fellow officer.  No official action by the sheriff has been taken, in fact, looks like it's covered up from the public.  Why should we care?  Because the Sheriff's Department is well known for cover ups.  The problem is that fellow officers are now wondering how this situation is not public and severe action has not been taken against the senior officer.  The Ripp Report has had 3 different people call us giving us dates, names and ranks of the individuals involved.  Let's see how Sheriff Hoss Mack is going to spin this sordid story. 

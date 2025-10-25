@@ -18,45 +18,65 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: fairness
-  title: FAIRNESS
-  score: 95
-  rank: 1
-- slug: hate
-  title: HATE
-  score: 85
-  rank: 2
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 75
-  rank: 3
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 75
-  rank: 4
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75
-  rank: 5
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 75
-  rank: 6
-- slug: fear
-  title: FEAR
-  score: 70
-  rank: 7
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 65
-  rank: 8
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 65
-  rank: 9
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 65
+  score: 86.52312487593501
+  llm_score: 85
+  recency_score: 92.61562437967505
+  rank: 1
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 86.27111348555951
+  llm_score: 85
+  recency_score: 91.35556742779755
+  rank: 2
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 75.88849539476564
+  llm_score: 75
+  recency_score: 79.4424769738282
+  rank: 3
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 70.52752135988298
+  llm_score: 85
+  recency_score: 12.637606799414936
+  rank: 4
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 67.08258086352161
+  llm_score: 65
+  recency_score: 75.41290431760807
+  rank: 5
+- slug: exposure
+  title: EXPOSURE
+  score: 64.31478738498812
+  llm_score: 65
+  recency_score: 61.57393692494061
+  rank: 6
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 62.621237784397046
+  llm_score: 65
+  recency_score: 53.10618892198522
+  rank: 7
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 61.53339065902054
+  llm_score: 70
+  recency_score: 27.666953295102704
+  rank: 8
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 60.00508744237422
+  llm_score: 75
+  recency_score: 0.025437211871076722
+  rank: 9
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 59.3607717319103
+  llm_score: 70
+  recency_score: 16.8038586595515
   rank: 10
 ---
 The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for "Fairness". First, the council implements a hiring freeze to punish the mayor for firing two employees. Then they side with the developer and reject overwhelming objections from the public. This was done to be “Fair” and because of “the threat of a lawsuit.” Now the Council has moved to remove the Director of Economic and Community Development, Sherry-Lea Bloodworth-Botop, by reducing funds in the budget, thus killing the director’s job.

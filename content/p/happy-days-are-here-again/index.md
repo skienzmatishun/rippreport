@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Fairhope pier at sunset; a symbol of hope for a new city council era after past challenges
 related_articles:
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
+- slug: victory
+  title: VICTORY
+  score: 81.3251698208218
+  llm_score: 95
+  recency_score: 26.62584910410898
   rank: 1
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 79.6287308479754
+  llm_score: 95
+  recency_score: 18.143654239877034
   rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 76.99996495640718
+  llm_score: 90
+  recency_score: 24.99982478203595
   rank: 3
 - slug: stepping-up
   title: STEPPING UP
-  score: 85
+  score: 75.55980182540611
+  llm_score: 90
+  recency_score: 17.799009127030544
   rank: 4
-- slug: victory
-  title: VICTORY
-  score: 85
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 74.82025741857038
+  llm_score: 90
+  recency_score: 14.10128709285187
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 74.45093721071514
+  llm_score: 85
+  recency_score: 32.254686053575696
   rank: 6
-- slug: tick-tock
-  title: TICK-TOCK
-  score: 85
-  rank: 7
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 8
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 85
+  score: 73.01502206964074
+  llm_score: 90
+  recency_score: 5.075110348203666
+  rank: 7
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 69.91655019046412
+  llm_score: 85
+  recency_score: 9.582750952320627
+  rank: 8
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 68.75297761359889
+  llm_score: 85
+  recency_score: 3.764888067994434
   rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 85
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.03462525894194
+  llm_score: 85
+  recency_score: 0.1731262947096943
   rank: 10
 ---
 Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite and cordial among council and mayor. They are going to have difficult times but as long as they put the city first then it will make solving issues easier.
