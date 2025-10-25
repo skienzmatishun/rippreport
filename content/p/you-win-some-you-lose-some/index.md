@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: 'Two hands: one giving a thumbs up labeled win some, the other a thumbs down labeled lose some, reflecting political ma...'
 related_articles:
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 85
-  rank: 1
 - slug: skunked
   title: SKUNKED
-  score: 85
-  rank: 2
+  score: 84.3298145011407
+  llm_score: 85
+  recency_score: 81.64907250570349
+  rank: 1
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
-  score: 85
-  rank: 3
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 75
-  rank: 4
-- slug: i-quit-and-will-quit-again
-  title: I QUIT AND WILL QUIT AGAIN
-  score: 75
-  rank: 5
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 70
-  rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 70
-  rank: 7
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
+  rank: 2
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 70
-  rank: 8
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 70
-  rank: 9
+  score: 81.11575875113695
+  llm_score: 85
+  recency_score: 65.57879375568477
+  rank: 3
+- slug: i-quit-and-will-quit-again
+  title: I QUIT AND WILL QUIT AGAIN
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 4
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 73.64053460363517
+  llm_score: 85
+  recency_score: 28.202673018175854
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 72.39586260016435
+  llm_score: 85
+  recency_score: 21.979313000821772
+  rank: 6
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 71.6287308479754
+  llm_score: 85
+  recency_score: 18.143654239877034
+  rank: 7
 - slug: i-quit
   title: I QUIT
-  score: 65
+  score: 69.99148971362224
+  llm_score: 85
+  recency_score: 9.957448568111234
+  rank: 8
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 56.101070300539455
+  llm_score: 70
+  recency_score: 0.5053515026972712
+  rank: 9
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 52.326496444652776
+  llm_score: 65
+  recency_score: 1.632482223263862
   rank: 10
 ---
 {{< socialpreview url="https://rippreport.com/p/skunked/" >}}

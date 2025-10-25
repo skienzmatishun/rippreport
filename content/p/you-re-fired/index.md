@@ -13,43 +13,63 @@ alttags: Donald Trump pointing while yelling Youre Fired! referencing potential 
 related_articles:
 - slug: fire
   title: FIRE
-  score: 85
+  score: 90.75530775847413
+  llm_score: 92
+  recency_score: 85.7765387923706
   rank: 1
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 85
-  rank: 2
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 85
-  rank: 3
 - slug: demand-the-truth
   title: DEMAND THE TRUTH
-  score: 75
+  score: 86.83013102490949
+  llm_score: 85
+  recency_score: 94.15065512454748
+  rank: 2
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 74.74000752017984
+  llm_score: 85
+  recency_score: 33.70003760089919
+  rank: 3
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 69.3167733711599
+  llm_score: 85
+  recency_score: 6.583866855799505
   rank: 4
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 75
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 68.11718589559389
+  llm_score: 85
+  recency_score: 0.585929477969449
   rank: 5
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 67.91650071517822
+  llm_score: 70
+  recency_score: 59.582503575891096
+  rank: 6
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 70
-  rank: 6
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 65
+  score: 61.87716639008053
+  llm_score: 70
+  recency_score: 29.385831950402675
   rank: 7
-- slug: hate
-  title: HATE
-  score: 65
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 60.15008797921179
+  llm_score: 70
+  recency_score: 20.750439896058943
   rank: 8
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 65
+  score: 56.29340964674219
+  llm_score: 70
+  recency_score: 1.4670482337109607
   rank: 9
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 62
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 52.02215377920075
+  llm_score: 65
+  recency_score: 0.11076889600373441
   rank: 10
 ---
 To Alabama Ethics Commission Statement of Facts: July 29, 2016

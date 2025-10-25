@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Murray Lawrence Jr., subject of a wrongful conviction case similar to Just Mercy, in black and white with blurred Alabama ...
 related_articles:
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 100
-  rank: 1
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 100
-  rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 100
-  rank: 3
+  score: 90.0
+  llm_score: 100
+  recency_score: 50
+  rank: 1
 - slug: no-justice
   title: NO JUSTICE
-  score: 100
-  rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 95
-  rank: 5
+  score: 89.5170445944745
+  llm_score: 95
+  recency_score: 67.58522297237245
+  rank: 2
+- slug: rule-32
+  title: RULE 32
+  score: 88.01484817064438
+  llm_score: 95
+  recency_score: 60.07424085322191
+  rank: 3
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 95
+  score: 87.7866218911497
+  llm_score: 95
+  recency_score: 58.93310945574846
+  rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.53991425401259
+  llm_score: 100
+  recency_score: 32.69957127006297
+  rank: 5
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 86.0
+  llm_score: 95
+  recency_score: 50
   rank: 6
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 95
+  score: 82.30315362704152
+  llm_score: 96
+  recency_score: 27.51576813520753
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 95
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 79.64866887953505
+  llm_score: 95
+  recency_score: 18.243344397675273
   rank: 8
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 95
+- slug: innocent
+  title: INNOCENT
+  score: 78.31536626765282
+  llm_score: 95
+  recency_score: 11.57683133826407
   rank: 9
 - slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
   title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 92
+  score: 74.1912037447723
+  llm_score: 85
+  recency_score: 30.95601872386148
   rank: 10
 ---
 Many people have seen the movie <a href="https://www.youtube.com/watch?v=6YzyVklCoAU">Just Mercy</a>, a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Alabama, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the

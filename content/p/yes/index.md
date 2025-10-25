@@ -10,43 +10,63 @@ alttags: Green checkmark inside a circle, symbolizing support for Fairhope gover
 related_articles:
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 95
+  score: 95.35315705036788
+  llm_score: 95
+  recency_score: 96.76578525183945
   rank: 1
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 90
-  rank: 2
-- slug: vote-yes-today
-  title: Vote YES Today
-  score: 85
-  rank: 3
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 85
-  rank: 4
 - slug: bury-the-body
   title: BURY THE BODY
-  score: 85
-  rank: 5
+  score: 87.40625209818191
+  llm_score: 85
+  recency_score: 97.03126049090956
+  rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 3
 - slug: fairhopes-blast-from-the-past
   title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
+  score: 82.91819469742386
+  llm_score: 85
+  recency_score: 74.59097348711927
+  rank: 4
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 75.14689799787467
+  llm_score: 90
+  recency_score: 15.734489989373342
+  rank: 5
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 71.72221428196228
+  llm_score: 75
+  recency_score: 58.61107140981138
   rank: 6
-- slug: vote-yes-on-nov-6th
-  title: VOTE "Yes" ON NOV 6TH
-  score: 75
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 71.12113908637559
+  llm_score: 85
+  recency_score: 15.605695431877937
   rank: 7
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 75
+- slug: people-power
+  title: PEOPLE POWER
+  score: 70.97910429894462
+  llm_score: 85
+  recency_score: 14.895521494723079
   rank: 8
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 70.3796779187427
+  llm_score: 85
+  recency_score: 11.898389593713517
+  rank: 9
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 70
-  rank: 9
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 65
+  score: 61.25271965598625
+  llm_score: 70
+  recency_score: 26.263598279931234
   rank: 10
 ---
 The amendment to Change the Government of Fairhope, is just that, a change, from doing business as usual, to doing business smarter and more efficient. Many different blog sites and organizations are in support of the Council-Manager from of Government

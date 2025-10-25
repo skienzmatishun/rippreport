@@ -14,45 +14,65 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 90
-  rank: 1
 - slug: skunked
   title: SKUNKED
-  score: 85
-  rank: 2
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 85
-  rank: 3
+  score: 84.7833916941887
+  llm_score: 85
+  recency_score: 83.91695847094347
+  rank: 1
 - slug: in-your-face
   title: IN YOUR FACE
-  score: 75
+  score: 82.63481832643573
+  llm_score: 85
+  recency_score: 73.17409163217867
+  rank: 2
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 78.36254669889007
+  llm_score: 85
+  recency_score: 51.81273349445037
+  rank: 3
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 77.09678009225722
+  llm_score: 90
+  recency_score: 25.48390046128612
   rank: 4
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 71.80167323219754
+  llm_score: 70
+  recency_score: 79.0083661609877
+  rank: 5
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 67.8647486868406
+  llm_score: 80
+  recency_score: 19.323743434203013
+  rank: 6
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 70
-  rank: 5
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 70
-  rank: 6
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 70
+  score: 66.22156185864796
+  llm_score: 70
+  recency_score: 51.107809293239825
   rank: 7
-- slug: shut-up-2
-  title: SHUT UP
-  score: 65
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 62.930533031065366
+  llm_score: 75
+  recency_score: 14.652665155326813
   rank: 8
-- slug: i-quit
-  title: I QUIT
-  score: 65
-  rank: 9
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 65
+  score: 59.01193156417621
+  llm_score: 70
+  recency_score: 15.05965782088104
+  rank: 9
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 56.01607813308411
+  llm_score: 70
+  recency_score: 0.08039066542053509
   rank: 10
 ---
 I could smell the skunk through my computer, the first time that I read, Chuck Zunk, was agreeing with the Mayor of Fairhope, on the Council-manager form of government.

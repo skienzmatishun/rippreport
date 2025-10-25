@@ -16,45 +16,65 @@ authors:
 - ripp-report
 alttags: Cover art for You Dont Know Jack, illustrating a lack of transparency and hidden information within Fairhope city counc...
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 95
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 92.19614691902797
+  llm_score: 95
+  recency_score: 80.98073459513984
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 95
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 91.62009294457451
+  llm_score: 90
+  recency_score: 98.10046472287257
   rank: 2
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 90
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 86.51502512362764
+  llm_score: 90
+  recency_score: 72.57512561813819
   rank: 3
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 84.82943663570212
+  llm_score: 85
+  recency_score: 84.14718317851063
+  rank: 4
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90
-  rank: 4
-- slug: shut-up
-  title: SHUT UP
-  score: 90
+  score: 79.23430628782093
+  llm_score: 95
+  recency_score: 16.171531439104648
   rank: 5
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 85
+  score: 78.16208868725441
+  llm_score: 95
+  recency_score: 10.810443436272047
   rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 76.03011000219972
+  llm_score: 95
+  recency_score: 0.15055001099860887
   rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.17286949891341
+  llm_score: 85
+  recency_score: 15.864347494567099
   rank: 8
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 85
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 69.21620125250436
+  llm_score: 85
+  recency_score: 6.0810062625217975
   rank: 9
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 75
+  score: 68.36331432710038
+  llm_score: 85
+  recency_score: 1.8165716355019172
   rank: 10
 ---
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer serving members. However, the newer members are usually kept in the dark as to the backstory involving long-term issues concerning the city. Another observation was the utter lack of transparency and accountability. I give our previous Mayor full credit for using the aforementioned tactics.

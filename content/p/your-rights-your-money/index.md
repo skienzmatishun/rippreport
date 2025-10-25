@@ -16,45 +16,65 @@ authors:
 - admin
 alttags: Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ...
 related_articles:
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 95
-  rank: 1
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 92
-  rank: 2
+  score: 89.35844022710413
+  llm_score: 92
+  recency_score: 78.79220113552056
+  rank: 1
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 90
-  rank: 3
+  score: 88.92190583576996
+  llm_score: 90
+  recency_score: 84.60952917884977
+  rank: 2
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 90
+  score: 88.0635734719715
+  llm_score: 90
+  recency_score: 80.31786735985746
+  rank: 3
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 82.78571979333161
+  llm_score: 92
+  recency_score: 45.928598966657994
   rank: 4
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 90
-  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 90
-  rank: 6
+  score: 78.88936452237787
+  llm_score: 90
+  recency_score: 34.44682261188939
+  rank: 5
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 90
+  score: 75.26099917369474
+  llm_score: 90
+  recency_score: 16.30499586847368
+  rank: 6
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 68.35156396155112
+  llm_score: 85
+  recency_score: 1.7578198077556138
   rank: 7
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 85
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 68.3133507496293
+  llm_score: 85
+  recency_score: 1.566753748146461
   rank: 8
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 75
+  score: 60.593287635812274
+  llm_score: 75
+  recency_score: 2.966438179061387
   rank: 9
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 65
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 60.37238412243051
+  llm_score: 75
+  recency_score: 1.8619206121525609
   rank: 10
 ---
 Corrupt politicians and elected officials in Alabama have been emboldened by the Alabama Supreme Court and the Ethics Commission’s recent rulings. While citizens of Alabama are distracted by national politics, their own state, keeps sinking deeper into the sewer of corruption.

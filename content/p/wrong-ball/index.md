@@ -13,43 +13,63 @@ alttags: Man in suit juggling red balls, symbolizing shifting political alliance
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 85
+  score: 82.71522921439812
+  llm_score: 85
+  recency_score: 73.57614607199059
   rank: 1
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
-  rank: 2
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 85
-  rank: 3
 - slug: say-goodbye-incumbents
   title: SAY GOODBYE INCUMBENTS
-  score: 85
-  rank: 4
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 85
-  rank: 5
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 75
-  rank: 6
+  score: 82.16149687375565
+  llm_score: 85
+  recency_score: 70.80748436877823
+  rank: 2
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 75
-  rank: 7
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
-  rank: 8
+  score: 79.62009294457451
+  llm_score: 75
+  recency_score: 98.10046472287257
+  rank: 3
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 73.767782019632
+  llm_score: 92
+  recency_score: 0.8389100981599352
+  rank: 4
 - slug: cross-the-line
   title: CROSS THE LINE
-  score: 75
-  rank: 9
+  score: 71.98197582956217
+  llm_score: 75
+  recency_score: 59.9098791478109
+  rank: 5
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 65
+  score: 71.67232874673901
+  llm_score: 70
+  recency_score: 78.36164373369505
+  rank: 6
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70.24662907448486
+  llm_score: 85
+  recency_score: 11.233145372424257
+  rank: 7
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 68.27398588586837
+  llm_score: 85
+  recency_score: 1.3699294293418693
+  rank: 8
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 68.01135337378794
+  llm_score: 85
+  recency_score: 0.05676686893971495
+  rank: 9
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 61.89047508264844
+  llm_score: 75
+  recency_score: 9.45237541324223
   rank: 10
 ---
 Place one in the County Commissioner’s race is a classic example of getting what you wished for and it backfiring. Mr Frank Burt has solidly held this position since 1988, wow, 29 years. Mr. Burt is intent on holding that position. I was hoping for change and that Mr. Burt would retire and the seat open for several new candidates.

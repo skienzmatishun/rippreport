@@ -12,45 +12,65 @@ authors:
 - ripp-report
 alttags: Ostrich burying its head in sand; symbolizes ignoring consumer complaints, a focus of The Ripp Report’s work
 related_articles:
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 92
-  rank: 1
 - slug: demand-the-truth
   title: DEMAND THE TRUTH
-  score: 90
+  score: 89.87500746908161
+  llm_score: 90
+  recency_score: 89.37503734540803
+  rank: 1
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 81.26625449247668
+  llm_score: 92
+  recency_score: 38.33127246238332
   rank: 2
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 85
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 76.04900835119811
+  llm_score: 90
+  recency_score: 20.245041755990528
   rank: 3
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 85
+  score: 74.1912037447723
+  llm_score: 85
+  recency_score: 30.95601872386148
   rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 85
-  rank: 5
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 75
-  rank: 6
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 75
-  rank: 7
+  score: 72.37184155299684
+  llm_score: 85
+  recency_score: 21.8592077649842
+  rank: 5
 - slug: fairhope-has-lost-its-moral-compass
   title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 75
+  score: 71.25207715690485
+  llm_score: 85
+  recency_score: 16.26038578452423
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 68.05426603427591
+  llm_score: 85
+  recency_score: 0.27133017137958537
+  rank: 7
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 68.01157321101385
+  llm_score: 85
+  recency_score: 0.05786605506923713
   rank: 8
+- slug: elliott-history-lesson
+  title: ELLIOTT HISTORY LESSON
+  score: 60.0199087390866
+  llm_score: 75
+  recency_score: 0.09954369543301661
+  rank: 9
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 70
-  rank: 9
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 70
+  score: 56.031545557095704
+  llm_score: 70
+  recency_score: 0.15772778547850655
   rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.
