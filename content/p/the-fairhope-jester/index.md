@@ -9,45 +9,65 @@ authors:
 - admin
 alttags: A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic
 related_articles:
-- slug: the-jester
-  title: THE JESTER
-  score: 95
-  rank: 1
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
-  score: 95
-  rank: 2
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 95
-  rank: 3
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 90
-  rank: 4
+  score: 87.31205826488139
+  llm_score: 95
+  recency_score: 56.56029132440696
+  rank: 1
 - slug: fairhope-council-asleep-at-the-wheel
   title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
-  rank: 5
+  score: 86.62490003199702
+  llm_score: 85
+  recency_score: 93.12450015998506
+  rank: 2
+- slug: the-jester
+  title: THE JESTER
+  score: 85.51877838940959
+  llm_score: 95
+  recency_score: 47.593891947047986
+  rank: 3
+- slug: april-fool
+  title: APRIL FOOL
+  score: 85.22009294457453
+  llm_score: 82
+  recency_score: 98.10046472287257
+  rank: 4
 - slug: blind-leading-the-blind
   title: BLIND LEADING THE BLIND
-  score: 85
+  score: 83.46808419803509
+  llm_score: 90
+  recency_score: 57.34042099017541
+  rank: 5
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 82.5631983784823
+  llm_score: 90
+  recency_score: 52.81599189241148
   rank: 6
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 85
+  score: 72.01586522172649
+  llm_score: 85
+  recency_score: 20.079326108632408
   rank: 7
-- slug: april-fool
-  title: APRIL FOOL
-  score: 82
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 68.66019064437701
+  llm_score: 85
+  recency_score: 3.300953221885028
   rank: 8
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 75
+  score: 57.263756251262265
+  llm_score: 70
+  recency_score: 6.318781256311327
   rank: 9
 - slug: hate
   title: HATE
-  score: 75
+  score: 53.27069994950746
+  llm_score: 65
+  recency_score: 6.3534997475373
   rank: 10
 ---
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic.

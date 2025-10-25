@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 95
+- slug: he-must-go
+  title: He Must Go
+  score: 82.27837239085707
+  llm_score: 85
+  recency_score: 71.39186195428532
   rank: 1
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 85
-  rank: 2
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 85
+  score: 70.06935946639769
+  llm_score: 85
+  recency_score: 10.34679733198841
+  rank: 2
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 69.90086228231678
+  llm_score: 85
+  recency_score: 9.504311411583915
   rank: 3
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 75
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 69.2534117833276
+  llm_score: 85
+  recency_score: 6.267058916638003
   rank: 4
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 75
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 62.46863524410353
+  llm_score: 70
+  recency_score: 32.34317622051765
   rank: 5
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 65
-  rank: 6
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 65
-  rank: 7
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
-  score: 65
-  rank: 8
+  score: 62.106970988459935
+  llm_score: 70
+  recency_score: 30.53485494229968
+  rank: 6
 - slug: backstory-podcast-16-the-jack-wilson-complex
   title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 65
+  score: 61.52673204660475
+  llm_score: 75
+  recency_score: 7.633660233023765
+  rank: 7
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 61.49363347548112
+  llm_score: 75
+  recency_score: 7.468167377405599
+  rank: 8
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 58.691914960300615
+  llm_score: 70
+  recency_score: 13.459574801503088
   rank: 9
 - slug: the-mug-shot
   title: The Mugshot
-  score: 50
+  score: 54.832971677380456
+  llm_score: 60
+  recency_score: 34.164858386902274
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" frameborder="0" allowfullscreen></iframe>

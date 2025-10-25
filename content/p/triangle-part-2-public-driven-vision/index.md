@@ -16,43 +16,63 @@ alttags: Two arrows pointing right, symbolizing Fairhope’s acquisition of valu
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 95
+  score: 95.62009294457451
+  llm_score: 95
+  recency_score: 98.10046472287257
   rank: 1
+- slug: victory
+  title: VICTORY
+  score: 81.18782317885686
+  llm_score: 85
+  recency_score: 65.93911589428427
+  rank: 2
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 85
-  rank: 2
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 85
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
   rank: 3
-- slug: exit-and-enter
-  title: EXIT AND ENTER
-  score: 85
+- slug: fairness
+  title: FAIRNESS
+  score: 75.5206312839577
+  llm_score: 85
+  recency_score: 37.60315641978851
   rank: 4
+- slug: big-heads
+  title: BIG HEADS
+  score: 73.39192896735389
+  llm_score: 70
+  recency_score: 86.95964483676948
+  rank: 5
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 71.85417482562934
+  llm_score: 85
+  recency_score: 19.270874128146687
+  rank: 6
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 85
-  rank: 5
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75
-  rank: 6
+  score: 71.67878151987449
+  llm_score: 85
+  recency_score: 18.393907599372476
+  rank: 7
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 75
-  rank: 7
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 70
+  score: 71.11259972348434
+  llm_score: 85
+  recency_score: 15.562998617421716
   rank: 8
 - slug: deja-vu
   title: Deja Vu
-  score: 65
+  score: 60.014291313942394
+  llm_score: 75
+  recency_score: 0.07145656971196458
   rank: 9
-- slug: big-heads
-  title: BIG HEADS
-  score: 55
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 59.9939206577845
+  llm_score: 70
+  recency_score: 19.9696032889225
   rank: 10
 ---
 Fairhope’s Triangle, is Fairhope’s most valuable land asset. This vacant piece of land has been the focus of litigation, on and off for over 25 years. Ultimately, Fairhope purchased the land as part of the legal settlement, for 11.25 Million which included the legal fees of approximately 3 million. Estimated land value today would be between 18 and 20 million.

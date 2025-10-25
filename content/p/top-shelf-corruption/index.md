@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: Alabama state-shaped shot glass labeled Sweet Home, symbolizing potential blind spots in reporting on local politics
 related_articles:
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 95
-  rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 95
-  rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 90
-  rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 90
-  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 90
-  rank: 5
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 85
-  rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 85
-  rank: 7
+  score: 91.04131527818056
+  llm_score: 95
+  recency_score: 75.2065763909028
+  rank: 1
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 82
+  score: 84.63762349360867
+  llm_score: 82
+  recency_score: 95.18811746804333
+  rank: 2
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 83.35758882342884
+  llm_score: 95
+  recency_score: 36.787944117144235
+  rank: 3
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 83.21782882818184
+  llm_score: 95
+  recency_score: 36.08914414090915
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 83.15815510057
+  llm_score: 90
+  recency_score: 55.79077550285001
+  rank: 5
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 83.11962860059249
+  llm_score: 95
+  recency_score: 35.59814300296249
+  rank: 6
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 82.41948362581483
+  llm_score: 90
+  recency_score: 52.09741812907417
+  rank: 7
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 72.2073296707293
+  llm_score: 85
+  recency_score: 21.03664835364649
   rank: 8
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 75
-  rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 75
+  score: 68.17056287394568
+  llm_score: 85
+  recency_score: 0.8528143697284161
+  rank: 9
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 68.1435238539736
+  llm_score: 85
+  recency_score: 0.7176192698680312
   rank: 10
 ---
 Read these articles and you will see why Alabama is head over heels, above any state, when it comes to political corruption. What makes it worse is the small minded press in the state. Journalist in Alabama appear to only cover certain news. They favor their own commentary and shy away from news “scoops” from another local news source. They are ignoring the elephants on Goat Hill.

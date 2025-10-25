@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Financial documents overlaid on a tree branch, symbolizing Fairhope City Council’s budget failures and lack of leadership
 related_articles:
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 90
-  rank: 1
 - slug: documents
   title: DOCUMENTS
-  score: 85
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
+  rank: 1
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 82.33419501564546
+  llm_score: 90
+  recency_score: 51.67097507822733
   rank: 2
 - slug: in-the-dark
   title: IN THE DARK
-  score: 85
+  score: 81.91811031330417
+  llm_score: 90
+  recency_score: 49.59055156652082
   rank: 3
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 79.8513833874118
+  llm_score: 85
+  recency_score: 59.25691693705903
+  rank: 4
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 76.6247535029683
+  llm_score: 85
+  recency_score: 43.12376751484153
+  rank: 5
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 4
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
-  rank: 5
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 85
+  score: 75.85763521712458
+  llm_score: 85
+  recency_score: 39.2881760856229
   rank: 6
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 85
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 75.21782882818184
+  llm_score: 85
+  recency_score: 36.08914414090915
   rank: 7
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 85
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 73.82905888579863
+  llm_score: 85
+  recency_score: 29.145294428993168
   rank: 8
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+  score: 73.71761680752583
+  llm_score: 90
+  recency_score: 8.588084037629146
   rank: 9
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 69.24656255570012
+  llm_score: 85
+  recency_score: 6.232812778500628
   rank: 10
 ---
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars, a perfect example of a lack of compassion and leadership.

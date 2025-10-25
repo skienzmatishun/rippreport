@@ -10,43 +10,63 @@ alttags: Two women in professional attire, likely representing political figures
 related_articles:
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 85
+  score: 87.0898528806295
+  llm_score: 85
+  recency_score: 95.44926440314748
   rank: 1
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 85
+- slug: win-for-baldwin
+  title: WIN FOR BALDWIN
+  score: 71.85417482562934
+  llm_score: 85
+  recency_score: 19.270874128146687
   rank: 2
 - slug: last-chance
   title: LAST CHANCE
-  score: 85
+  score: 71.55006229161194
+  llm_score: 85
+  recency_score: 17.750311458059702
   rank: 3
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 85
+- slug: election-ad
+  title: ELECTION AD
+  score: 68.3744301839039
+  llm_score: 85
+  recency_score: 1.8721509195194928
   rank: 4
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 85
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 68.04418648881283
+  llm_score: 85
+  recency_score: 0.22093244406414994
   rank: 5
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 75
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 68.0373859801452
+  llm_score: 85
+  recency_score: 0.1869299007260029
   rank: 6
 - slug: elected-or-selected
   title: ELECTED OR SELECTED
-  score: 75
+  score: 68.01034356166569
+  llm_score: 85
+  recency_score: 0.05171780832844504
   rank: 7
-- slug: qualification
-  title: QUALIFICATION
-  score: 70
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 60.09915043452601
+  llm_score: 75
+  recency_score: 0.4957521726300432
   rank: 8
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 70
+  score: 60.05053497317609
+  llm_score: 75
+  recency_score: 0.2526748658804697
   rank: 9
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 54
+- slug: qualification
+  title: QUALIFICATION
+  score: 60.046166511494505
+  llm_score: 75
+  recency_score: 0.23083255747252965
   rank: 10
 ---
 How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win. He represented the most hardened of the Baldwin County good ole boys, GOB. Then came Stacy Haygood and Elliott, Haygood became Mayor of Daphne and Elliott became a county commissioner. The name changed again to Catalyst. When that name began to stink the GOB changed the name again to Scott Boone Consulting, the stink remained.

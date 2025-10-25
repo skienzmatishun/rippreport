@@ -10,43 +10,63 @@ alttags: Man in a brown costume resembling a car, holding up a sign reading Keep
 related_articles:
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 85
+  score: 86.20034869269523
+  llm_score: 90
+  recency_score: 71.00174346347615
   rank: 1
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 83.93208520393644
+  llm_score: 85
+  recency_score: 79.6604260196822
+  rank: 2
+- slug: the-jester
+  title: THE JESTER
+  score: 81.40640092071278
+  llm_score: 85
+  recency_score: 67.03200460356393
+  rank: 3
 - slug: fly-on-the-wall
   title: FLY ON THE WALL
-  score: 75
-  rank: 2
-- slug: sting
-  title: Sting
-  score: 75
-  rank: 3
-- slug: hate
-  title: HATE
-  score: 75
+  score: 78.5631983784823
+  llm_score: 85
+  recency_score: 52.81599189241148
   rank: 4
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 75
+  score: 76.03793035989311
+  llm_score: 90
+  recency_score: 20.189651799465537
   rank: 5
-- slug: queen-bee
-  title: QUEEN BEE
-  score: 70
+- slug: hate
+  title: HATE
+  score: 69.78967429181668
+  llm_score: 85
+  recency_score: 8.948371459083383
   rank: 6
-- slug: the-jester
-  title: THE JESTER
-  score: 65
-  rank: 7
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 65
-  rank: 8
 - slug: honey-bees
   title: HONEY BEES
-  score: 65
+  score: 69.15530775847412
+  llm_score: 65
+  recency_score: 85.7765387923706
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 68.46874686769043
+  llm_score: 85
+  recency_score: 2.3437343384521583
+  rank: 8
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 64.07588902065244
+  llm_score: 70
+  recency_score: 40.37944510326223
   rank: 9
-- slug: jack-ass
-  title: JACK ASS
-  score: 65
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 57.824328046633
+  llm_score: 70
+  recency_score: 9.121640233165
   rank: 10
 ---
 A “TRIANGLE CONSERVANCY” has been formed and guess who one of the major players is?

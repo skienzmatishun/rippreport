@@ -20,45 +20,65 @@ authors:
 - admin
 alttags: Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis...
 related_articles:
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 85
-  rank: 1
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 75
-  rank: 2
-- slug: 4-20
-  title: 4-20
-  score: 75
-  rank: 3
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 75
-  rank: 4
-- slug: insanity-2
-  title: INSANITY
-  score: 70
-  rank: 5
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 65
-  rank: 6
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 65
+  score: 87.24740235768714
+  llm_score: 85
+  recency_score: 96.23701178843567
+  rank: 1
+- slug: insanity-2
+  title: INSANITY
+  score: 83.5866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
+  rank: 2
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 78.1799325095279
+  llm_score: 95
+  recency_score: 10.899662547639538
+  rank: 3
+- slug: 4-20
+  title: 4-20
+  score: 74.75849861290541
+  llm_score: 85
+  recency_score: 33.792493064527044
+  rank: 4
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 73.71833385593835
+  llm_score: 85
+  recency_score: 28.59166927969179
+  rank: 5
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 72.48574283286044
+  llm_score: 90
+  recency_score: 2.4287141643022077
+  rank: 6
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 69.11053014836325
+  llm_score: 75
+  recency_score: 45.55265074181627
   rank: 7
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
-  score: 65
+  score: 54.65529083578266
+  llm_score: 65
+  recency_score: 13.276454178913294
   rank: 8
-- slug: roll-of-the-dice
-  title: ROLL OF THE DICE
-  score: 65
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 54.60485264964664
+  llm_score: 65
+  recency_score: 13.024263248233176
   rank: 9
 - slug: what-education-lottery
   title: WHAT EDUCATION LOTTERY?
-  score: 50
+  score: 45.72060612108392
+  llm_score: 54
+  recency_score: 12.603030605419562
   rank: 10
 ---
 The last session of the Alabama Legislature took tiny steps when it comes to accomplishing any real serious issues plaguing the state. Prisons, health care’ medicaid” and the gambling bill all wound up in the trash can.

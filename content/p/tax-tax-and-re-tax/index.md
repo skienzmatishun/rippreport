@@ -14,45 +14,65 @@ authors:
 - ripp-report
 alttags: School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo...
 related_articles:
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 90
-  rank: 1
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 90
+  score: 91.24740235768714
+  llm_score: 90
+  recency_score: 96.23701178843567
+  rank: 1
+- slug: what-education-lottery
+  title: WHAT EDUCATION LOTTERY?
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
   rank: 2
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 85
+  score: 84.92190583576996
+  llm_score: 85
+  recency_score: 84.60952917884977
   rank: 3
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 85
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 84.73747273054873
+  llm_score: 85
+  recency_score: 83.68736365274363
   rank: 4
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 75
-  rank: 5
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 75
+  score: 84.41953853153237
+  llm_score: 85
+  recency_score: 82.09769265766185
+  rank: 5
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 73.15530775847412
+  llm_score: 70
+  recency_score: 85.7765387923706
   rank: 6
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 75
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 72.7760154921098
+  llm_score: 90
+  recency_score: 3.880077460549066
   rank: 7
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 70
-  rank: 8
 - slug: nothing-is-free
   title: NOTHING IS FREE
-  score: 70
+  score: 71.50151487477555
+  llm_score: 70
+  recency_score: 77.50757437387774
+  rank: 8
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 68.60115638090127
+  llm_score: 75
+  recency_score: 43.0057819045064
   rank: 9
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 70
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 58.392753039338146
+  llm_score: 70
+  recency_score: 11.96376519669074
   rank: 10
 ---
 Tax, tax and re-tax that is the bottom line for Baldwin County. The developers pay no or little impact fee for their projects which ends up costing you, the taxpayer, to make up the difference in the cost of Schools, Streets/Transportation and Education.

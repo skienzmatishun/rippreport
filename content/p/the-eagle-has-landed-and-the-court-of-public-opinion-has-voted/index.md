@@ -10,45 +10,65 @@ authors:
 - ripp-report
 alttags: Celebratory graphic announcing a victory, likely related to the Fairhope mayoral election discussed in the article
 related_articles:
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 95
+- slug: game-on
+  title: GAME ON
+  score: 90.07197526621852
+  llm_score: 90
+  recency_score: 90.35987633109261
   rank: 1
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 90
+  score: 88.24058076477368
+  llm_score: 90
+  recency_score: 81.20290382386844
   rank: 2
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
   rank: 3
+- slug: people-power
+  title: PEOPLE POWER
+  score: 83.97579460098616
+  llm_score: 85
+  recency_score: 79.87897300493081
+  rank: 4
 - slug: shut-up
   title: SHUT UP
-  score: 85
-  rank: 4
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 79.31205826488139
+  llm_score: 85
+  recency_score: 56.56029132440696
+  rank: 6
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 85
-  rank: 5
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 6
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 85
+  score: 73.15294239311218
+  llm_score: 85
+  recency_score: 25.764711965560906
   rank: 7
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75
+- slug: victory
+  title: VICTORY
+  score: 70.63355597126228
+  llm_score: 85
+  recency_score: 13.167779856311412
   rank: 8
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 70.4727263186165
+  llm_score: 85
+  recency_score: 12.36363159308245
   rank: 9
-- slug: hardest-working-elected-official-eastern-shore
-  title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 70
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 68.13111703119183
+  llm_score: 85
+  recency_score: 0.6555851559591579
   rank: 10
 ---
 It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhope. It is expected after an election to be gracious and heap accolades on the departing Mayor, I will reserve my comments until Nov. 7th. The transition period between now and Nov. 7th will be telling. I hope it is civil with no surprises or forced through agendas that may impact the city negatively.

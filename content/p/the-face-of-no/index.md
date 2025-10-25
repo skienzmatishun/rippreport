@@ -10,43 +10,63 @@ alttags: Man in suit hunched over, head resting on knees—symbolizing frustrati
 related_articles:
 - slug: hell-yea
   title: HELL YEA
-  score: 95
+  score: 94.022530768332
+  llm_score: 95
+  recency_score: 90.11265384166002
   rank: 1
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85
-  rank: 2
-- slug: shut-up
-  title: SHUT UP
-  score: 85
-  rank: 3
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 85
-  rank: 4
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
-  rank: 5
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
-  rank: 6
+  score: 86.22112415020392
+  llm_score: 85
+  recency_score: 91.10562075101957
+  rank: 2
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
-  score: 75
+  score: 85.67654461491676
+  llm_score: 95
+  recency_score: 48.38272307458382
+  rank: 3
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 85.39192896735389
+  llm_score: 85
+  recency_score: 86.95964483676948
+  rank: 4
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 74.72156701864763
+  llm_score: 85
+  recency_score: 33.60783509323819
+  rank: 5
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 73.11076301928001
+  llm_score: 85
+  recency_score: 25.553815096400097
+  rank: 6
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 72.38383562381885
+  llm_score: 85
+  recency_score: 21.919178119094283
   rank: 7
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 68.21766117429252
+  llm_score: 85
+  recency_score: 1.0883058714626104
+  rank: 8
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 68.1691667327368
+  llm_score: 85
+  recency_score: 0.8458336636839832
+  rank: 9
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 75
-  rank: 8
-- slug: fear
-  title: FEAR
-  score: 75
-  rank: 9
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 75
+  score: 61.312417381770686
+  llm_score: 65
+  recency_score: 46.562086908853416
   rank: 10
 ---
 ## FAIRHOPE

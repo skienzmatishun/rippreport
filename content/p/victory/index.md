@@ -8,45 +8,65 @@ authors:
 - ripp-report
 alttags: Confetti falling against a blue background; symbolizing ongoing efforts despite setbacks in Fairhope development disputes
 related_articles:
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 95
-  rank: 1
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
-  rank: 2
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 85
-  rank: 3
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 85
-  rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 5
+  score: 90.35682478958158
+  llm_score: 95
+  recency_score: 71.78412394790789
+  rank: 1
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+  score: 86.77861223075729
+  llm_score: 85
+  recency_score: 93.89306115378648
+  rank: 2
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  rank: 3
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 81.3251698208218
+  llm_score: 95
+  recency_score: 26.62584910410898
+  rank: 4
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 81.18782317885686
+  llm_score: 85
+  recency_score: 65.93911589428427
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 78.63355597126228
+  llm_score: 95
+  recency_score: 13.167779856311412
   rank: 6
-- slug: documents
-  title: DOCUMENTS
-  score: 85
-  rank: 7
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 85
+  score: 76.48413566258803
+  llm_score: 85
+  recency_score: 42.420678312940126
+  rank: 7
+- slug: history-repeating-itself
+  title: History repeating itself
+  score: 71.11259972348434
+  llm_score: 85
+  recency_score: 15.562998617421716
   rank: 8
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 70.54140880504006
+  llm_score: 85
+  recency_score: 12.707044025200286
   rank: 9
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 75
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 60.30993551659713
+  llm_score: 75
+  recency_score: 1.5496775829856302
   rank: 10
 ---
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused to take any action on behalf of the citizens, which they could have done, involving the Fly Creek Apartments. The council explained there was nothing they could do to stop the apartments or enforce any of the city’s ordinances that may amend the approved MOP Site Plan.

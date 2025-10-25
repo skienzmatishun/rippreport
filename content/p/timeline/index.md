@@ -16,43 +16,63 @@ alttags: Calendar icon representing repeated council meetings regarding stalled 
 related_articles:
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 90
+  score: 84.58768021500666
+  llm_score: 90
+  recency_score: 62.93840107503325
   rank: 1
-- slug: repeat
-  title: REPEAT
-  score: 85
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 84.50975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
   rank: 2
+- slug: going-down
+  title: GOING DOWN
+  score: 80.55504977540349
+  llm_score: 80
+  recency_score: 82.7752488770174
+  rank: 3
 - slug: in-the-dark
   title: IN THE DARK
-  score: 85
-  rank: 3
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 75
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
   rank: 4
 - slug: re-run-doing-nothing
   title: DOING NOTHING
-  score: 75
+  score: 76.12026192592202
+  llm_score: 85
+  recency_score: 40.601309629610085
   rank: 5
 - slug: shut-up-2
   title: SHUT UP
-  score: 75
+  score: 73.85448470843463
+  llm_score: 75
+  recency_score: 69.27242354217314
   rank: 6
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 75
+- slug: repeat
+  title: REPEAT
+  score: 72.07125559401483
+  llm_score: 85
+  recency_score: 20.356277970074178
   rank: 7
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 65
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 71.22545730213692
+  llm_score: 85
+  recency_score: 16.127286510684606
   rank: 8
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 64.08242501251668
+  llm_score: 75
+  recency_score: 20.412125062583367
+  rank: 9
 - slug: honeymoon
   title: HONEYMOON
-  score: 65
-  rank: 9
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 65
+  score: 60.16147367298336
+  llm_score: 70
+  recency_score: 20.807368364916808
   rank: 10
 ---
 This is a comment that the Ripp Report received. It accurately describes the Fairhope City council and their obstruction in infrastructure repairs.

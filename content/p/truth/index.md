@@ -17,43 +17,63 @@ alttags: Public viewing telescope overlooking water, likely related to discussio
 related_articles:
 - slug: invitation
   title: INVITATION
-  score: 85
+  score: 90.67599711942087
+  llm_score: 90
+  recency_score: 93.37998559710435
   rank: 1
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 85
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 86.77861223075729
+  llm_score: 85
+  recency_score: 93.89306115378648
   rank: 2
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 85
+  score: 86.37150396712644
+  llm_score: 85
+  recency_score: 91.85751983563217
   rank: 3
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 85
+  score: 81.33796583595118
+  llm_score: 90
+  recency_score: 46.6898291797559
   rank: 4
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+  score: 75.2078318963773
+  llm_score: 90
+  recency_score: 16.039159481886507
   rank: 5
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 75
-  rank: 6
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 70
+  score: 71.26994566788161
+  llm_score: 85
+  recency_score: 16.349728339408063
+  rank: 6
+- slug: water
+  title: Water
+  score: 70.7818871652772
+  llm_score: 85
+  recency_score: 13.909435826385996
   rank: 7
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 65
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 68.39013828420687
+  llm_score: 85
+  recency_score: 1.9506914210343174
   rank: 8
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 68.31507245272525
+  llm_score: 85
+  recency_score: 1.5753622636262385
   rank: 9
 - slug: survey
   title: SURVEY
-  score: 60
+  score: 60.796311061757145
+  llm_score: 60
+  recency_score: 63.98155530878573
   rank: 10
 ---
 In response to Councilman Brown about his position on the Waterfront,

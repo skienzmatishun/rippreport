@@ -11,45 +11,65 @@ authors:
 - admin
 alttags: Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field
 related_articles:
-- slug: winner-and-loser
-  title: WINNER AND LOSER
-  score: 65
-  rank: 1
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 65
-  rank: 2
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 54
-  rank: 3
-- slug: super-bowl-lv
-  title: Super Bowl LV
-  score: 50
-  rank: 4
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 50
+  score: 68.10764360478439
+  llm_score: 65
+  recency_score: 80.5382180239219
+  rank: 1
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 62.886386845888616
+  llm_score: 65
+  recency_score: 54.43193422944308
+  rank: 2
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 55.08258086352161
+  llm_score: 50
+  recency_score: 75.41290431760807
+  rank: 3
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 50.91625345775975
+  llm_score: 50
+  recency_score: 54.58126728879875
+  rank: 4
+- slug: super-bowl-lv
+  title: Super Bowl LV
+  score: 50.19359590659946
+  llm_score: 50
+  recency_score: 50.96797953299731
   rank: 5
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 45
-  rank: 6
 - slug: lagniappe
   title: LAGNIAPPE
-  score: 45
+  score: 44.60115638090128
+  llm_score: 45
+  recency_score: 43.0057819045064
+  rank: 6
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 42.52752135988299
+  llm_score: 50
+  recency_score: 12.637606799414936
   rank: 7
-- slug: game-on
-  title: GAME ON
-  score: 35
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 40.643453141365335
+  llm_score: 45
+  recency_score: 23.21726570682666
   rank: 8
 - slug: mega-mistake
   title: MEGA-MISTAKE
-  score: 25
+  score: 28.32297651271782
+  llm_score: 25
+  recency_score: 41.61488256358909
   rank: 9
 - slug: this-is-the-new-logo-for-fairhope
   title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 25
+  score: 21.81435906578825
+  llm_score: 25
+  recency_score: 9.071795328941251
   rank: 10
 ---
 “This is the book that will get SEC Football fans through the lockdowns! I call it the ‘Bible of SEC Football,’” said Dr. Warner, the “Professor of Tailgating,” and author of more than twenty tomes. “That’s because Southerner’s don’t think—they feel—and there’s nothing they feel more passionate about than SEC Football on Saturdays in the fall!”

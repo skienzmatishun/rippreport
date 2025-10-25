@@ -12,43 +12,63 @@ alttags: 'Prohibited handshake with money: Symbolizing concerns over potential c
 related_articles:
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 95
+  score: 86.5631983784823
+  llm_score: 95
+  recency_score: 52.81599189241148
   rank: 1
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 82.22156185864796
+  llm_score: 90
+  recency_score: 51.107809293239825
+  rank: 2
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 76.75297761359889
+  llm_score: 95
+  recency_score: 3.764888067994434
+  rank: 3
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 95
-  rank: 2
+  score: 76.70120663898055
+  llm_score: 95
+  recency_score: 3.506033194902735
+  rank: 4
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 90
-  rank: 3
+  score: 72.7386745381997
+  llm_score: 90
+  recency_score: 3.6933726909985176
+  rank: 5
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 72.27174317632048
+  llm_score: 90
+  recency_score: 1.3587158816024008
+  rank: 6
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 90
-  rank: 4
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 90
-  rank: 5
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 90
-  rank: 6
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 85
+  score: 72.20436873948653
+  llm_score: 90
+  recency_score: 1.0218436974326381
   rank: 7
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 72.15581868131424
+  llm_score: 90
+  recency_score: 0.7790934065711901
   rank: 8
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 75
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 72.09673552450735
+  llm_score: 90
+  recency_score: 0.48367762253678537
   rank: 9
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 65
+  score: 60.593287635812274
+  llm_score: 75
+  recency_score: 2.966438179061387
   rank: 10
 ---
 The Alabama Ethics Commission has become the facilitator for corruption in the state, they now want to expand on their role. They want to change existing Ethics laws which would allow things, illegal today, to become legal, all because of the Mike Hubbard conviction.

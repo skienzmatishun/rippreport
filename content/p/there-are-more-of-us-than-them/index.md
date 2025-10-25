@@ -15,43 +15,63 @@ alttags: A large fish swims before a school of smaller figures, symbolizing taxp
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 90
+  score: 91.62009294457451
+  llm_score: 90
+  recency_score: 98.10046472287257
   rank: 1
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
-  score: 75
+  score: 86.71522921439812
+  llm_score: 90
+  recency_score: 73.57614607199059
   rank: 2
-- slug: tax-tax-and-re-tax
-  title: TAX TAX AND RE-TAX
-  score: 75
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 79.3002072693518
+  llm_score: 75
+  recency_score: 96.50103634675902
   rank: 3
-- slug: loser
-  title: LOSER
-  score: 75
-  rank: 4
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 75
-  rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 75
-  rank: 6
-- slug: fear
-  title: FEAR
-  score: 70
-  rank: 7
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 65
-  rank: 8
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
-  score: 65
+  score: 77.67152647425112
+  llm_score: 90
+  recency_score: 28.357632371255608
+  rank: 4
+- slug: fear
+  title: FEAR
+  score: 61.89047508264844
+  llm_score: 75
+  recency_score: 9.45237541324223
+  rank: 5
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 61.425662165225894
+  llm_score: 75
+  recency_score: 7.128310826129476
+  rank: 6
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 60.33556521520711
+  llm_score: 75
+  recency_score: 1.6778260760355546
+  rank: 7
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 60.305718772338935
+  llm_score: 75
+  recency_score: 1.5285938616946646
+  rank: 8
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 60.03434183412762
+  llm_score: 75
+  recency_score: 0.17170917063811555
   rank: 9
-- slug: million-dollar-swimming-pool
-  title: MILLION DOLLAR SWIMMING POOL
-  score: 65
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 58.72904423720288
+  llm_score: 70
+  recency_score: 13.645221186014394
   rank: 10
 ---
 **US** are the taxpayers and honest citizens; **THEM** are the good ole boys. In the last Fairhope election, only 5500 people voted in the city elections, of those Mayor Kant “questionably” received 3026 votes. Only 30% to 35% of the registered voters voted, leaving 65 to 70% not voting at all. These are the voters who can stop the mayor’s corruption and end an era of good ole boys who are fleecing taxpayers right and left. The mayor’s base has shrunk and public confidence in the mayor is virtually nonexistent. Several mayoral candidates are planning to run against the mayor; however, they believe it to be prudent to announce their candidacy closer to the qualification date. Look closely at the statistics. They favor **US**. A neighborhood like Rock Creek can swing the election. If Sandy Ford, Plantation Pines and the Woodlands jump on board, a new Fairhope will be born.

@@ -13,45 +13,65 @@ authors:
 - admin
 alttags: Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations
 related_articles:
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 90
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 87.3002072693518
+  llm_score: 85
+  recency_score: 96.50103634675902
   rank: 1
+- slug: shut-up-2
+  title: SHUT UP
+  score: 84.7833916941887
+  llm_score: 85
+  recency_score: 83.91695847094347
+  rank: 2
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 85
-  rank: 2
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 85
+  score: 83.84502484628416
+  llm_score: 85
+  recency_score: 79.22512423142078
   rank: 3
-- slug: shut-up
-  title: SHUT UP
-  score: 85
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 78.19359590659946
+  llm_score: 85
+  recency_score: 50.96797953299731
   rank: 4
+- slug: hell-yea
+  title: HELL YEA
+  score: 78.08249514970656
+  llm_score: 85
+  recency_score: 50.412475748532785
+  rank: 5
+- slug: back-stabber
+  title: BACK STABBER
+  score: 77.54489299140458
+  llm_score: 85
+  recency_score: 47.72446495702292
+  rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 75.618802726002
+  llm_score: 90
+  recency_score: 18.094013630009982
+  rank: 7
 - slug: in-the-dark
   title: IN THE DARK
-  score: 75
-  rank: 5
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 75
-  rank: 6
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 75
-  rank: 7
+  score: 72.86662028679618
+  llm_score: 75
+  recency_score: 64.3331014339809
+  rank: 8
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 71.90733502067299
+  llm_score: 85
+  recency_score: 19.53667510336496
+  rank: 9
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 8
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 65
-  rank: 9
-- slug: repeat
-  title: REPEAT
-  score: 65
+  score: 70.2282393079465
+  llm_score: 85
+  recency_score: 11.141196539732507
   rank: 10
 ---
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is. It makes no difference what attorneys, city staff, citizens or the Mayor recommend to the council the council does the opposite and acts like a Dictatorship. It is all political and the Fairhope City Council is holding up the progress of the city.

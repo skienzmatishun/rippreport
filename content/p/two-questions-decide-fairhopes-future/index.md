@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: 'Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre...'
 related_articles:
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 95
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 95.14222555805995
+  llm_score: 95
+  recency_score: 95.71112779029973
   rank: 1
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 90
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 93.05949281133081
+  llm_score: 92
+  recency_score: 97.29746405665401
   rank: 2
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 90
+  score: 89.48748877687456
+  llm_score: 90
+  recency_score: 87.43744388437275
   rank: 3
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 85
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 77.59436404718222
+  llm_score: 90
+  recency_score: 27.971820235911103
   rank: 4
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 76.13292551349143
+  llm_score: 95
+  recency_score: 0.6646275674571428
+  rank: 5
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
-  score: 85
-  rank: 5
+  score: 68.23118391901212
+  llm_score: 85
+  recency_score: 1.155919595060642
+  rank: 6
+- slug: selective-memory
+  title: Selective Memory
+  score: 68.0041538495128
+  llm_score: 85
+  recency_score: 0.020769247564044847
+  rank: 7
 - slug: people-power
   title: PEOPLE POWER
-  score: 85
-  rank: 6
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 85
-  rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 85
+  score: 68.00311542090427
+  llm_score: 85
+  recency_score: 0.015577104521312337
   rank: 8
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
+  score: 60.00439984689759
+  llm_score: 75
+  recency_score: 0.02199923448795886
   rank: 9
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 75
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 56.1354993718602
+  llm_score: 70
+  recency_score: 0.6774968593009955
   rank: 10
 ---
 <a href="https://www.facebook.com/story.php?story_fbid=10163914426269993&id=775124992&rdid=HYqWtmxN4hd2hZQ2">From Facebook.</a>

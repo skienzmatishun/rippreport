@@ -13,43 +13,63 @@ authors:
 related_articles:
 - slug: pot-calling-the-kettle-black
   title: POT CALLING THE KETTLE BLACK
-  score: 95
+  score: 76.34019362805742
+  llm_score: 95
+  recency_score: 1.7009681402870933
   rank: 1
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 75
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 64.62221429547445
+  llm_score: 65
+  recency_score: 63.11107147737226
   rank: 2
-- slug: wonderful-wednesday
-  title: WONDERFUL WEDNESDAY
-  score: 75
-  rank: 3
 - slug: boiling-frog
   title: BOILING FROG
-  score: 75
+  score: 63.47953504068689
+  llm_score: 70
+  recency_score: 37.39767520343444
+  rank: 3
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 61.5187783894096
+  llm_score: 65
+  recency_score: 47.593891947047986
   rank: 4
-- slug: black-hole
-  title: BLACK HOLE
-  score: 70
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 61.33796583595118
+  llm_score: 65
+  recency_score: 46.6898291797559
   rank: 5
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 60
+  score: 60.81587603866927
+  llm_score: 65
+  recency_score: 44.079380193346374
   rank: 6
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 55
-  rank: 7
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 52
+  score: 59.56195333019646
+  llm_score: 65
+  recency_score: 37.809766650982276
+  rank: 7
+- slug: black-hole
+  title: BLACK HOLE
+  score: 56.19614691902797
+  llm_score: 50
+  recency_score: 80.98073459513984
   rank: 8
+- slug: cut-the-head-off-the-snake
+  title: CUT THE HEAD OFF THE SNAKE
+  score: 44.772429771305816
+  llm_score: 50
+  recency_score: 23.862148856529085
+  rank: 9
 - slug: hate
   title: HATE
-  score: 50
-  rank: 9
-- slug: fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 35
+  score: 39.53109549158327
+  llm_score: 35
+  recency_score: 57.65547745791634
   rank: 10
 ---
 Qualifications for the mid-term elections in Baldwin County are final on February 9th at 5:00 pm. Baldwin County residents need to reject the incumbents and Catalyst candidates.

@@ -15,43 +15,63 @@ authors:
 related_articles:
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 95
+  score: 87.43670779028002
+  llm_score: 95
+  recency_score: 57.18353895140014
   rank: 1
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 90
-  rank: 2
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 85
-  rank: 3
-- slug: pied-piper
-  title: PIED PIPER
-  score: 85
-  rank: 4
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 85
-  rank: 5
+  score: 80.14724185949737
+  llm_score: 85
+  recency_score: 60.73620929748681
+  rank: 2
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 79.18876730389368
+  llm_score: 85
+  recency_score: 55.94383651946845
+  rank: 3
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
-  score: 85
-  rank: 6
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
-  rank: 7
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 75
-  rank: 8
+  score: 78.62123778439704
+  llm_score: 85
+  recency_score: 53.10618892198522
+  rank: 4
+- slug: pied-piper
+  title: PIED PIPER
+  score: 78.41948362581483
+  llm_score: 85
+  recency_score: 52.09741812907417
+  rank: 5
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 75
+  score: 75.19474191901475
+  llm_score: 70
+  recency_score: 95.97370959507373
+  rank: 6
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 72.24154340707243
+  llm_score: 90
+  recency_score: 1.2077170353621032
+  rank: 7
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 69.71761680752583
+  llm_score: 85
+  recency_score: 8.588084037629146
+  rank: 8
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 69.0432153391477
+  llm_score: 85
+  recency_score: 5.216076695738494
   rank: 9
-- slug: shut-up-2
-  title: SHUT UP
-  score: 70
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 61.582088757180514
+  llm_score: 75
+  recency_score: 7.9104437859025545
   rank: 10
 ---
 The Bayway Bridge project started years ago with politicians biting their tongue’s and saying little about how they were going to finance the project. Then came the discussion about tolls, again they bit their tongue’s. Next, came Jim Zigler and his Facebook page:

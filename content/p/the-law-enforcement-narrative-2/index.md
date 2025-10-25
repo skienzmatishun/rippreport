@@ -9,45 +9,65 @@ summary: Hey Bay Minette Harry Still is not crazy. He just knows too much.
 authors:
 - admin
 related_articles:
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 81.5637938281211
+  llm_score: 95
+  recency_score: 27.818969140605503
+  rank: 1
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 100
-  rank: 1
+  score: 81.02059909998718
+  llm_score: 100
+  recency_score: 5.102995499935887
+  rank: 2
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 90
-  rank: 2
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 75
+  score: 75.27891670661879
+  llm_score: 90
+  recency_score: 16.39458353309393
   rank: 3
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 75
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 74.69191496030062
+  llm_score: 90
+  recency_score: 13.459574801503088
   rank: 4
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 75
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 72.3869448100167
+  llm_score: 90
+  recency_score: 1.9347240500835032
   rank: 5
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 75
+  score: 65.87716639008053
+  llm_score: 75
+  recency_score: 29.385831950402675
   rank: 6
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 70
-  rank: 7
 - slug: rumors
   title: RUMORS
-  score: 70
+  score: 61.09295272799745
+  llm_score: 75
+  recency_score: 5.464763639987247
+  rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 61.031845257888484
+  llm_score: 75
+  recency_score: 5.159226289442438
   rank: 8
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 65
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 60.99301704247256
+  llm_score: 75
+  recency_score: 4.965085212362791
   rank: 9
-- slug: no-justice
-  title: NO JUSTICE
-  score: 65
+- slug: police-report
+  title: POLICE REPORT
+  score: 56.01341855213961
+  llm_score: 70
+  recency_score: 0.06709276069805299
   rank: 10
 ---
 Hey Bay Minette Harry Still is not crazy. He just knows too much.

@@ -10,43 +10,63 @@ alttags: 'Baldwin County election graphic: An eagle flies over a ballot box agai
 related_articles:
 - slug: vote-smart
   title: VOTE SMART
-  score: 85
+  score: 87.0898528806295
+  llm_score: 85
+  recency_score: 95.44926440314748
   rank: 1
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 85
-  rank: 2
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 85
-  rank: 3
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 85
-  rank: 4
-- slug: last-chance
-  title: LAST CHANCE
-  score: 75
-  rank: 5
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 75
-  rank: 6
 - slug: win-for-baldwin
   title: WIN FOR BALDWIN
-  score: 75
-  rank: 7
+  score: 71.67878151987449
+  llm_score: 85
+  recency_score: 18.393907599372476
+  rank: 2
+- slug: last-chance
+  title: LAST CHANCE
+  score: 71.38850834319712
+  llm_score: 85
+  recency_score: 16.942541715985588
+  rank: 3
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 68.60976680282933
+  llm_score: 85
+  recency_score: 3.0488340141466597
+  rank: 4
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 68.06555828585492
+  llm_score: 85
+  recency_score: 0.32779142927460353
+  rank: 5
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 68.04823526016291
+  llm_score: 85
+  recency_score: 0.24117630081454786
+  rank: 6
 - slug: qualification
   title: QUALIFICATION
-  score: 70
+  score: 68.0440655956221
+  llm_score: 85
+  recency_score: 0.2203279781105022
+  rank: 7
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 68.04217567853742
+  llm_score: 85
+  recency_score: 0.2108783926871264
   rank: 8
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 70
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 68.03568464303851
+  llm_score: 85
+  recency_score: 0.17842321519250345
   rank: 9
-- slug: newsletter
-  title: NEWSLETTER
-  score: 70
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 52.009872853522985
+  llm_score: 65
+  recency_score: 0.04936426761493053
   rank: 10
 ---
 When will Baldwin County wake up and vote in new blood. The GOB, Good ole Boys, have a strangle hold on Baldwin County. They determine the candidates that will tow the line or raise their hand when told to do so. Sheriff Hoss Mack calls the shots and Mayors just bend over. The school system, Eddie and Gray, have job security guaranteed, as long as they go along. Their is no accountability or transparency as long as this cabal exists. NEVER vote for selected candidates.

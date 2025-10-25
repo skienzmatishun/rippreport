@@ -19,45 +19,65 @@ authors:
 - ripp-report
 alttags: Red die labeled Good, Bad, and Ugly, reflecting Fairhope’s progress despite challenges
 related_articles:
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 100
+- slug: catalyst
+  title: CATALYST
+  score: 84.41953853153237
+  llm_score: 85
+  recency_score: 82.09769265766185
   rank: 1
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 85
-  rank: 2
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 85
+  score: 80.43777438120516
+  llm_score: 90
+  recency_score: 42.18887190602582
+  rank: 2
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 80.03027544135718
+  llm_score: 100
+  recency_score: 0.15137720678588268
   rank: 3
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 85
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 76.60115638090127
+  llm_score: 85
+  recency_score: 43.0057819045064
   rank: 4
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 85
+  score: 73.42828195143117
+  llm_score: 85
+  recency_score: 27.14140975715586
   rank: 5
-- slug: gob-coup
-  title: GOB COUP
-  score: 85
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 71.67878151987449
+  llm_score: 85
+  recency_score: 18.393907599372476
   rank: 6
 - slug: three-strikes
   title: THREE STRIKES
-  score: 75
+  score: 66.67496869450072
+  llm_score: 65
+  recency_score: 73.37484347250358
   rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 59.112599723484344
+  llm_score: 70
+  recency_score: 15.562998617421716
   rank: 8
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 70
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 55.3607717319103
+  llm_score: 65
+  recency_score: 16.8038586595515
   rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 70
+- slug: deja-vu
+  title: Deja Vu
+  score: 52.03323114546348
+  llm_score: 65
+  recency_score: 0.1661557273173934
   rank: 10
 ---
 ## FAIRHOPE THE GOOD
