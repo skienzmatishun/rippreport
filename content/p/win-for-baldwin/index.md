@@ -15,43 +15,63 @@ alttags: Matt McKenzie, newly elected Baldwin County Commissioner, smiles agains
 related_articles:
 - slug: last-chance
   title: LAST CHANCE
-  score: 85
+  score: 90.4219058668791
+  llm_score: 90
+  recency_score: 92.10952933439548
   rank: 1
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 85
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 70.87486652233241
+  llm_score: 85
+  recency_score: 14.374332611662021
   rank: 2
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 85
-  rank: 3
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 75
-  rank: 4
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 75
-  rank: 5
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 75
-  rank: 6
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 75
-  rank: 7
-- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
-  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 75
-  rank: 8
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 70
-  rank: 9
+  score: 70.82025741857038
+  llm_score: 85
+  recency_score: 14.10128709285187
+  rank: 3
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 70.65529083578267
+  llm_score: 85
+  recency_score: 13.276454178913294
+  rank: 4
+- slug: runoff
+  title: RUNOFF
+  score: 70.00792557433363
+  llm_score: 85
+  recency_score: 10.039627871668154
+  rank: 5
+- slug: qualification
+  title: QUALIFICATION
+  score: 60.23956625520726
+  llm_score: 75
+  recency_score: 1.1978312760363046
+  rank: 6
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 60.19400251330891
+  llm_score: 75
+  recency_score: 0.9700125665445367
+  rank: 7
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 59.6787815198745
+  llm_score: 70
+  recency_score: 18.393907599372476
+  rank: 8
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 65
+  score: 58.01895810475479
+  llm_score: 70
+  recency_score: 10.094790523773954
+  rank: 9
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 56.262234981350865
+  llm_score: 70
+  recency_score: 1.3111749067543206
   rank: 10
 ---
 Baldwin County citizens are the winners. The election of Matt McKenzie, County Commission District 2, is one of the best decisions Baldwin voters have made in a long time. Matt and his family fought hard and covered the county, getting his message out.

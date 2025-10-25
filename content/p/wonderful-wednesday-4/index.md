@@ -9,43 +9,63 @@ authors:
 related_articles:
 - slug: wonderful-wednesday-5
   title: WONDERFUL WEDNESDAY
-  score: 95
+  score: 90.39621248724127
+  llm_score: 95
+  recency_score: 71.98106243620636
   rank: 1
-- slug: exposure-2
-  title: EXPOSURE
-  score: 95
-  rank: 2
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 95
-  rank: 3
 - slug: wonderful-wednesday
   title: WONDERFUL WEDNESDAY
-  score: 95
+  score: 86.5758477586611
+  llm_score: 100
+  recency_score: 32.87923879330549
+  rank: 2
+- slug: exposure-2
+  title: EXPOSURE
+  score: 81.1247843082185
+  llm_score: 95
+  recency_score: 25.623921541092447
+  rank: 3
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 78.87486652233241
+  llm_score: 95
+  recency_score: 14.374332611662021
   rank: 4
-- slug: no-wonderful-wednesday-today
-  title: NO WONDERFUL WEDNESDAY TODAY
-  score: 92
-  rank: 5
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 85
-  rank: 6
+  score: 76.15624616714062
+  llm_score: 95
+  recency_score: 0.7812308357030797
+  rank: 5
 - slug: kindness
   title: RANDOM ACTS OF KINDNESS
-  score: 85
-  rank: 7
+  score: 73.22401634150835
+  llm_score: 85
+  recency_score: 26.120081707541715
+  rank: 6
 - slug: from-the-tropics
   title: FROM THE TROPICS
-  score: 70
+  score: 70.91819469742386
+  llm_score: 70
+  recency_score: 74.59097348711927
+  rank: 7
+- slug: tonight
+  title: TONIGHT
+  score: 58.29013091918721
+  llm_score: 70
+  recency_score: 11.45065459593608
   rank: 8
-- slug: happy-thanksgiving
-  title: Happy Thanksgiving!
-  score: 65
-  rank: 9
 - slug: equal-representation
   title: EQUAL REPRESENTATION
-  score: 65
+  score: 55.482627606022774
+  llm_score: 65
+  recency_score: 17.413138030113867
+  rank: 9
+- slug: cover-up
+  title: COVER UP
+  score: 52.075596150362294
+  llm_score: 65
+  recency_score: 0.37798075181147806
   rank: 10
 ---
 The recent US Senate primary statistics indicate 84% of Fairhope eligible voters decided NOT to participate or vote.

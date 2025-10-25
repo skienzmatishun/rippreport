@@ -20,45 +20,65 @@ authors:
 - admin
 alttags: Scales of justice icon depicting a woman and man, symbolizing Paula DiNardi’s experience with legal proceedings after an a...
 related_articles:
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 85
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 82.31754485573326
+  llm_score: 85
+  recency_score: 71.58772427866629
   rank: 1
 - slug: watering-hole
   title: WATERING HOLE
-  score: 85
+  score: 76.74371374716179
+  llm_score: 85
+  recency_score: 43.718568735808944
   rank: 2
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 85
-  rank: 3
-- slug: one-woman
-  title: ONE WOMAN
-  score: 75
-  rank: 4
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75
-  rank: 5
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75
-  rank: 6
 - slug: strawman-spiderweb
   title: STRAWMAN SPIDERWEB
-  score: 70
-  rank: 7
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 65
-  rank: 8
-- slug: exposure
-  title: EXPOSURE
-  score: 65
-  rank: 9
+  score: 76.24058076477368
+  llm_score: 75
+  recency_score: 81.20290382386844
+  rank: 3
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 73.38384878757476
+  llm_score: 85
+  recency_score: 26.919243937873805
+  rank: 4
+- slug: one-woman
+  title: ONE WOMAN
+  score: 73.20972355606835
+  llm_score: 85
+  recency_score: 26.048617780341775
+  rank: 5
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 71.25024389308274
+  llm_score: 75
+  recency_score: 56.25121946541366
+  rank: 6
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 65
+  score: 66.43570824436047
+  llm_score: 65
+  recency_score: 72.17854122180232
+  rank: 7
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 64.38383562381885
+  llm_score: 75
+  recency_score: 21.919178119094283
+  rank: 8
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 57.413992417567584
+  llm_score: 70
+  recency_score: 7.069962087837917
+  rank: 9
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 52.79104160648169
+  llm_score: 65
+  recency_score: 3.955208032408443
   rank: 10
 ---
 Paula DiNardi

@@ -14,43 +14,63 @@ authors:
 related_articles:
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 100
+  score: 95.24877842919904
+  llm_score: 100
+  recency_score: 76.2438921459952
   rank: 1
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 95
-  rank: 2
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 95
-  rank: 3
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 92
-  rank: 4
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 90
-  rank: 5
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 85
-  rank: 6
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 85
-  rank: 7
+  score: 91.08258086352161
+  llm_score: 95
+  recency_score: 75.41290431760807
+  rank: 2
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 85
-  rank: 8
+  score: 87.9452804719372
+  llm_score: 85
+  recency_score: 99.72640235968593
+  rank: 3
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 87.51287958944485
+  llm_score: 85
+  recency_score: 97.56439794722424
+  rank: 4
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 83.17838723901062
+  llm_score: 95
+  recency_score: 35.89193619505306
+  rank: 5
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 85
+  score: 81.40640092071278
+  llm_score: 85
+  recency_score: 67.03200460356393
+  rank: 6
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 78.0
+  llm_score: 85
+  recency_score: 50
+  rank: 7
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 77.57344348499707
+  llm_score: 95
+  recency_score: 7.867217424985351
+  rank: 8
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 69.47331224721167
+  llm_score: 85
+  recency_score: 7.366561236058354
   rank: 9
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 70
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 63.17286949891342
+  llm_score: 75
+  recency_score: 15.864347494567099
   rank: 10
 ---
 I hope you will continue to follow the story of Alabama’s “self-dealing”, Alabama Ethics Director, Tom Albritton. First you need to read the below article.

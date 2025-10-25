@@ -15,43 +15,63 @@ authors:
 related_articles:
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 95
+  score: 95.83629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
   rank: 1
 - slug: watering-hole
   title: WATERING HOLE
-  score: 95
+  score: 88.11400729240654
+  llm_score: 95
+  recency_score: 60.57003646203266
   rank: 2
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 95
+  score: 78.0468053642823
+  llm_score: 95
+  recency_score: 10.234026821411552
   rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 85
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 75.987869307982
+  llm_score: 85
+  recency_score: 39.93934653990996
   rank: 4
 - slug: the-mcsharry-will-out
   title: The McSharry Will Out
-  score: 85
+  score: 70.06935946639769
+  llm_score: 85
+  recency_score: 10.34679733198841
   rank: 5
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 85
-  rank: 6
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 85
-  rank: 7
+  score: 69.80444456011274
+  llm_score: 85
+  recency_score: 9.02222280056368
+  rank: 6
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 65
+  score: 66.43570824436047
+  llm_score: 65
+  recency_score: 72.17854122180232
+  rank: 7
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 56.09208072470139
+  llm_score: 70
+  recency_score: 0.4604036235069545
   rank: 8
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 65
+- slug: surrender
+  title: SURRENDER
+  score: 55.9939206577845
+  llm_score: 65
+  recency_score: 19.9696032889225
   rank: 9
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 65
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 53.281187097511896
+  llm_score: 65
+  recency_score: 6.405935487559478
   rank: 10
 ---
 Is it just a coincidence that Fairhope City Council canceled public participation at the same time that justice slipped through the cracks?

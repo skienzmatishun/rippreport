@@ -16,43 +16,63 @@ alttags: Political campaign button with red, white, and blue design and VOTE pro
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 85
+  score: 83.88849539476564
+  llm_score: 85
+  recency_score: 79.4424769738282
   rank: 1
+- slug: qualification
+  title: QUALIFICATION
+  score: 78.22156185864796
+  llm_score: 85
+  recency_score: 51.107809293239825
+  rank: 2
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 85
-  rank: 2
+  score: 77.33796583595118
+  llm_score: 85
+  recency_score: 46.6898291797559
+  rank: 3
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85
-  rank: 3
+  score: 74.39813310940357
+  llm_score: 85
+  recency_score: 31.990665547017855
+  rank: 4
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 74.34576123569309
+  llm_score: 85
+  recency_score: 31.72880617846543
+  rank: 5
 - slug: cross-the-line
   title: CROSS THE LINE
-  score: 85
-  rank: 4
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 75
-  rank: 5
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 75
+  score: 73.35442892225316
+  llm_score: 85
+  recency_score: 26.772144611265798
   rank: 6
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 75
+  score: 68.92982314542263
+  llm_score: 85
+  recency_score: 4.649115727113186
   rank: 7
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 68.0749773586035
+  llm_score: 85
+  recency_score: 0.37488679301750244
+  rank: 8
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 66.32839938269227
+  llm_score: 75
+  recency_score: 31.641996913461323
+  rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 70
-  rank: 8
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 70
-  rank: 9
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 65
+  score: 56.023210005167954
+  llm_score: 70
+  recency_score: 0.11605002583978188
   rank: 10
 ---
 Mid term elections are 18 months away and already we are seeing the GOB "good ole boys", and Catalyst, placing their candidates in strategic elected positions.

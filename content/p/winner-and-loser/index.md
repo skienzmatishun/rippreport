@@ -14,45 +14,65 @@ authors:
 - admin
 alttags: Nick Saban, coach of the Alabama Crimson Tide football team, stands on the sidelines during a game
 related_articles:
-- slug: tides-end
-  title: Tide's End
-  score: 85
-  rank: 1
 - slug: lets-talk-about-the-bama-loss
   title: Let's Talk About The Bama Loss
-  score: 85
-  rank: 2
+  score: 77.31241738177069
+  llm_score: 85
+  recency_score: 46.562086908853416
+  rank: 1
 - slug: super-bowl-lv
   title: Super Bowl LV
-  score: 70
+  score: 74.72723439081022
+  llm_score: 70
+  recency_score: 93.63617195405108
+  rank: 2
+- slug: tides-end
+  title: Tide's End
+  score: 68.97950681635163
+  llm_score: 85
+  recency_score: 4.897534081758149
   rank: 3
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 70
-  rank: 4
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 70
-  rank: 5
 - slug: warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th
   title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
-  score: 65
+  score: 62.886386845888616
+  llm_score: 65
+  recency_score: 54.43193422944308
+  rank: 4
+- slug: insanity-2
+  title: INSANITY
+  score: 62.022530768332004
+  llm_score: 55
+  recency_score: 90.11265384166002
+  rank: 5
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 48.31854429054457
+  llm_score: 60
+  recency_score: 1.5927214527228477
   rank: 6
+- slug: war
+  title: WAR
+  score: 44.326496444652776
+  llm_score: 55
+  recency_score: 1.632482223263862
+  rank: 7
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 50
-  rank: 7
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 50
+  score: 43.269945667881615
+  llm_score: 50
+  recency_score: 16.349728339408063
   rank: 8
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 50
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 40.33556521520711
+  llm_score: 50
+  recency_score: 1.6778260760355546
   rank: 9
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 30
+  score: 40.309087540337224
+  llm_score: 50
+  recency_score: 1.5454377016861052
   rank: 10
 ---
 Congratulations Nick Saban and the Alabama Football team, you have made Alabama proud.

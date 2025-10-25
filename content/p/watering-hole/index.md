@@ -11,43 +11,63 @@ alttags: Scales of justice illustration atop a landscape, symbolizing legal issu
 related_articles:
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 95
+  score: 88.11400729240654
+  llm_score: 95
+  recency_score: 60.57003646203266
   rank: 1
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 95
+  score: 84.2139847791858
+  llm_score: 90
+  recency_score: 61.06992389592894
   rank: 2
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 95
-  rank: 3
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 85
-  rank: 4
 - slug: bar-stool-continued
   title: BAR STOOL “CONTINUED”
-  score: 85
-  rank: 5
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 85
-  rank: 6
+  score: 83.54404300965939
+  llm_score: 85
+  recency_score: 77.72021504829691
+  rank: 3
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 85
+  score: 83.28110874039773
+  llm_score: 90
+  recency_score: 56.40554370198863
+  rank: 4
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 76.83825535238421
+  llm_score: 90
+  recency_score: 24.19127676192105
+  rank: 5
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 76.7760154921098
+  llm_score: 95
+  recency_score: 3.880077460549066
+  rank: 6
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 76.74371374716179
+  llm_score: 85
+  recency_score: 43.718568735808944
   rank: 7
-- slug: no-justice
-  title: NO JUSTICE
-  score: 75
+- slug: surrender
+  title: SURRENDER
+  score: 70.41911919868473
+  llm_score: 85
+  recency_score: 12.09559599342363
   rank: 8
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 69.2534117833276
+  llm_score: 85
+  recency_score: 6.267058916638003
   rank: 9
 - slug: strawman-spiderweb
   title: STRAWMAN SPIDERWEB
-  score: 70
+  score: 66.76773530922881
+  llm_score: 70
+  recency_score: 53.838676546144015
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZvmfU5BegU" frameborder="0" allowfullscreen></iframe>

@@ -13,45 +13,65 @@ authors:
 - ripp-report
 alttags: Discolored water flows through a channel, illustrating concerns about sewer spills and sewage dumping into Mobile Bay
 related_articles:
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 85
-  rank: 1
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 85
-  rank: 2
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 85
-  rank: 3
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 85
-  rank: 4
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
-  score: 85
-  rank: 5
-- slug: catalyst-shit-creek
-  title: CATALYST SHIT CREEK
-  score: 75
-  rank: 6
+  score: 87.72789538259508
+  llm_score: 85
+  recency_score: 98.63947691297537
+  rank: 1
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 75
+  score: 85.58357363897636
+  llm_score: 85
+  recency_score: 87.91786819488183
+  rank: 2
+- slug: grinder-pumps
+  title: GRINDER PUMPS
+  score: 82.63481832643573
+  llm_score: 85
+  recency_score: 73.17409163217867
+  rank: 3
+- slug: catalyst-shit-creek
+  title: CATALYST SHIT CREEK
+  score: 73.46526138070337
+  llm_score: 90
+  recency_score: 7.326306903516857
+  rank: 4
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 71.23430628782093
+  llm_score: 85
+  recency_score: 16.171531439104648
+  rank: 5
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 70.93857289717093
+  llm_score: 85
+  recency_score: 14.692864485854656
+  rank: 6
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 70.10942881080481
+  llm_score: 85
+  recency_score: 10.547144054024043
   rank: 7
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 68.19993815635023
+  llm_score: 85
+  recency_score: 0.9996907817511175
+  rank: 8
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 68.15840125275447
+  llm_score: 85
+  recency_score: 0.7920062637723839
+  rank: 9
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 65
-  rank: 8
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 65
-  rank: 9
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 50
+  score: 68.15160762544528
+  llm_score: 85
+  recency_score: 0.7580381272263648
   rank: 10
 ---
 It seems as if the public has gotten the attention of elected officials and environmental groups about the

@@ -8,45 +8,65 @@ authors:
 - admin
 alttags: Milk carton labeled Missing, featuring a photographer and the question Have you seen me? referencing lack of media cov...
 related_articles:
-- slug: notice
-  title: 'NOTICE:'
-  score: 75
-  rank: 1
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 65
+  score: 86.47244604336203
+  llm_score: 85
+  recency_score: 92.36223021681012
+  rank: 1
+- slug: mia
+  title: M.I.A.
+  score: 68.63534774825524
+  llm_score: 85
+  recency_score: 3.1767387412762407
   rank: 2
+- slug: notice
+  title: 'NOTICE:'
+  score: 68.47261545821016
+  llm_score: 85
+  recency_score: 2.363077291050805
+  rank: 3
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 65
-  rank: 3
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 65
+  score: 66.71522921439812
+  llm_score: 65
+  recency_score: 73.57614607199059
   rank: 4
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 60
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 65.54857141949542
+  llm_score: 75
+  recency_score: 27.742857097477103
   rank: 5
-- slug: on-vacation
-  title: ON VACATION
-  score: 55
-  rank: 6
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 55
-  rank: 7
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 50
+  score: 61.82610187044024
+  llm_score: 55
+  recency_score: 89.13050935220119
+  rank: 6
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 60.21647177193631
+  llm_score: 75
+  recency_score: 1.082358859681554
+  rank: 7
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 56.93193927883213
+  llm_score: 65
+  recency_score: 24.659696394160648
   rank: 8
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 45
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 56.782419985414975
+  llm_score: 70
+  recency_score: 3.9120999270748786
   rank: 9
-- slug: memorial-day-2
-  title: MEMORIAL DAY
-  score: 30
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 55.9939206577845
+  llm_score: 65
+  recency_score: 19.9696032889225
   rank: 10
 ---
 Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.

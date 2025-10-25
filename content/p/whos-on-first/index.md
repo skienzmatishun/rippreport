@@ -11,45 +11,65 @@ authors:
 - ripp-report
 alttags: 'Vintage airport scene: two men in uniform and a bowler hat discuss ground lease agreements related to Fairhope Airport'
 related_articles:
-- slug: captain-jack
-  title: CAPTAIN JACK
-  score: 85
-  rank: 1
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 85
-  rank: 2
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 85
-  rank: 3
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 85
-  rank: 4
-- slug: nuff-said
-  title: NUFF SAID
-  score: 85
-  rank: 5
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 75
-  rank: 6
-- slug: captain-jack-at-the-controls
-  title: CAPTAIN JACK AT THE CONTROLS
-  score: 70
-  rank: 7
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 70
-  rank: 8
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 70
-  rank: 9
+  score: 87.80016259450726
+  llm_score: 91
+  recency_score: 75.00081297253628
+  rank: 1
 - slug: fairhope-airport-authority-flying-without-a-compass
   title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 70
+  score: 87.50151487477555
+  llm_score: 90
+  recency_score: 77.50757437387774
+  rank: 2
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 86.23930710092043
+  llm_score: 90
+  recency_score: 71.19653550460211
+  rank: 3
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 86.17127158449026
+  llm_score: 85
+  recency_score: 90.85635792245131
+  rank: 4
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 85.48748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
+  rank: 5
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 84.19614691902797
+  llm_score: 85
+  recency_score: 80.98073459513984
+  rank: 6
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 83.08258086352161
+  llm_score: 85
+  recency_score: 75.41290431760807
+  rank: 7
+- slug: flying-high
+  title: FLYING HIGH
+  score: 74.09026245994085
+  llm_score: 85
+  recency_score: 30.451312299704224
+  rank: 8
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 71.23430628782093
+  llm_score: 85
+  recency_score: 16.171531439104648
+  rank: 9
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 70.72157763656676
+  llm_score: 85
+  recency_score: 13.607888182833822
   rank: 10
 ---
 Open Letter to Fairhope Airport Authority

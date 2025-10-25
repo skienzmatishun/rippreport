@@ -16,43 +16,63 @@ alttags: Vote button with red, white, and blue stripes and stars, referencing po
 related_articles:
 - slug: game-on
   title: GAME ON
-  score: 85
+  score: 91.62009294457451
+  llm_score: 90
+  recency_score: 98.10046472287257
   rank: 1
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 85
-  rank: 2
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 75
-  rank: 3
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 75
-  rank: 4
 - slug: wonderful-wednesday-4
   title: WONDERFUL WEDNESDAY
-  score: 70
-  rank: 5
-- slug: jack-ass
-  title: JACK ASS
-  score: 70
-  rank: 6
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 70
-  rank: 7
+  score: 82.5758477586611
+  llm_score: 95
+  recency_score: 32.87923879330549
+  rank: 2
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 70
-  rank: 8
-- slug: communication
-  title: COMMUNICATION
-  score: 70
-  rank: 9
+  score: 78.07197526621852
+  llm_score: 75
+  recency_score: 90.35987633109261
+  rank: 3
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 77.06156314124607
+  llm_score: 75
+  recency_score: 85.30781570623031
+  rank: 4
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 76.11622667126709
+  llm_score: 95
+  recency_score: 0.5811333563354107
+  rank: 5
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 75.80167323219754
+  llm_score: 75
+  recency_score: 79.0083661609877
+  rank: 6
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 73.39192896735389
+  llm_score: 70
+  recency_score: 86.95964483676948
+  rank: 7
 - slug: re-gift-gift
   title: RE-GIFT GIFT ??
-  score: 65
+  score: 64.88863388905096
+  llm_score: 70
+  recency_score: 44.44316944525482
+  rank: 8
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 61.78317213269509
+  llm_score: 65
+  recency_score: 48.915860663475456
+  rank: 9
+- slug: shut-up-2
+  title: SHUT UP
+  score: 49.331283124551305
+  llm_score: 60
+  recency_score: 6.656415622756534
   rank: 10
 ---
 The article posted by Fairhope Times that was reposted on Ripp Report resulted in many people taking issue with my innuendo, ”The Governor had a special assistant, just saying” was radically misunderstood by some folks. Some took it as having a sexual connotation and even brought up adultery. My reference to the governor assistant was — look at the trouble he has heaped on himself and his assistant. He has yet to be charged with anything. Take your minds out of the gutter.

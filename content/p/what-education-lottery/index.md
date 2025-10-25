@@ -12,45 +12,65 @@ authors:
 - admin
 alttags: Scattered US hundred dollar bills against a dark background, symbolizing Alabama lottery negotiations and financial incent...
 related_articles:
-- slug: roll-of-the-dice
-  title: ROLL OF THE DICE
-  score: 90
-  rank: 1
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 75
-  rank: 2
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 75
-  rank: 3
+  score: 87.62009294457451
+  llm_score: 85
+  recency_score: 98.10046472287257
+  rank: 1
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX
-  score: 75
-  rank: 4
+  score: 86.88179115997221
+  llm_score: 85
+  recency_score: 94.40895579986105
+  rank: 2
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 78.98553700495827
+  llm_score: 75
+  recency_score: 94.92768502479139
+  rank: 3
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 70
+  score: 75.35315705036788
+  llm_score: 70
+  recency_score: 96.76578525183945
+  rank: 4
+- slug: roll-of-the-dice
+  title: ROLL OF THE DICE
+  score: 73.14820290291419
+  llm_score: 90
+  recency_score: 5.741014514570984
   rank: 5
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 70
+- slug: schools-and-taxes
+  title: SCHOOLS AND TAXES
+  score: 68.73262812294602
+  llm_score: 85
+  recency_score: 3.663140614730139
   rank: 6
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 65.11053014836325
+  llm_score: 70
+  recency_score: 45.55265074181627
+  rank: 7
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 65
-  rank: 7
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 60
+  score: 61.08560395285723
+  llm_score: 65
+  recency_score: 45.42801976428615
   rank: 8
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 59.03678918072447
+  llm_score: 70
+  recency_score: 15.18394590362233
+  rank: 9
 - slug: tiny-steps
   title: TINY STEPS
-  score: 54
-  rank: 9
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 50
+  score: 45.72060612108392
+  llm_score: 54
+  recency_score: 12.603030605419562
   rank: 10
 ---
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican legislators. Money, baby, is what it is all about. The supporters of this bill feel that they still have the moral high ground by preventing any additional gaming while stuffing their pockets full of Indian money.

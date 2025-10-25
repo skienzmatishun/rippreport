@@ -22,45 +22,65 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 95
-  rank: 1
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 90
+  score: 95.56641283325074
+  llm_score: 95
+  recency_score: 97.83206416625366
+  rank: 1
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 93.39192896735389
+  llm_score: 95
+  recency_score: 86.95964483676948
   rank: 2
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 85
-  rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
-  rank: 4
-- slug: invitation
-  title: INVITATION
-  score: 85
-  rank: 5
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 85
-  rank: 7
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 85
-  rank: 8
 - slug: truth
   title: TRUTH
-  score: 85
-  rank: 9
+  score: 86.37150396712644
+  llm_score: 85
+  recency_score: 91.85751983563217
+  rank: 3
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 84.92190583576996
+  llm_score: 85
+  recency_score: 84.60952917884977
+  rank: 4
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 84.87560790070712
+  llm_score: 85
+  recency_score: 84.37803950353559
+  rank: 5
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 78.97623272188054
+  llm_score: 85
+  recency_score: 54.88116360940264
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 74.31108503131156
+  llm_score: 85
+  recency_score: 31.555425156557842
+  rank: 7
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 70
+  score: 73.01488310709092
+  llm_score: 70
+  recency_score: 85.07441553545459
+  rank: 8
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 68.77814447703722
+  llm_score: 85
+  recency_score: 3.8907223851861064
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.55980182540611
+  llm_score: 75
+  recency_score: 17.799009127030544
   rank: 10
 ---
 Fairhope is closing in on another municipal election so get ready for CATALYST and the ill informed to try and convince voters that they know best.

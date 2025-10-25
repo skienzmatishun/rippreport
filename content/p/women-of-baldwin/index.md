@@ -10,43 +10,63 @@ alttags: Feminist symbol representing a call to vote candidate over party, chall
 related_articles:
 - slug: cross-the-line
   title: CROSS THE LINE
-  score: 85
+  score: 85.77733007636273
+  llm_score: 85
+  recency_score: 88.88665038181365
   rank: 1
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 85
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 81.5913138839337
+  llm_score: 85
+  recency_score: 67.95656941966844
   rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 85
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 78.85660194836281
+  llm_score: 85
+  recency_score: 54.28300974181401
   rank: 3
-- slug: vote-smart
-  title: VOTE SMART
-  score: 75
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 78.19359590659946
+  llm_score: 85
+  recency_score: 50.96797953299731
   rank: 4
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 75
+- slug: qualification
+  title: QUALIFICATION
+  score: 69.31241738177069
+  llm_score: 75
+  recency_score: 46.562086908853416
   rank: 5
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 70
+  score: 68.0946383604076
+  llm_score: 85
+  recency_score: 0.4731918020379976
   rank: 6
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 70
-  rank: 7
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 65
+  score: 66.4753123573984
+  llm_score: 65
+  recency_score: 72.37656178699199
+  rank: 7
+- slug: last-chance
+  title: LAST CHANCE
+  score: 60.5585841958902
+  llm_score: 75
+  recency_score: 2.792920979450993
   rank: 8
-- slug: carolyn-amick
-  title: CAROLYN AMICK
-  score: 65
+- slug: vote-smart
+  title: VOTE SMART
+  score: 60.09915043452601
+  llm_score: 75
+  recency_score: 0.4957521726300432
   rank: 9
-- slug: qualification
-  title: QUALIFICATION
-  score: 65
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 60.097533887459356
+  llm_score: 75
+  recency_score: 0.4876694372967864
   rank: 10
 ---
 Vote candidate not party. Straight ticket voting is voting blind and allows corruption to flourish and compromises elected officials. It strengthens the good ole boy network and Catalyst candidates, something all parties should be against.

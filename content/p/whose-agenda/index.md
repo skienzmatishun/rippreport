@@ -19,43 +19,63 @@ alttags: Question mark icon representing unanswered questions about Fairhope Cit
 related_articles:
 - slug: in-the-dark
   title: IN THE DARK
-  score: 95
+  score: 92.24058076477368
+  llm_score: 95
+  recency_score: 81.20290382386844
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 85
+- slug: 100-voices
+  title: 100 VOICES
+  score: 90.47244604336203
+  llm_score: 90
+  recency_score: 92.36223021681012
   rank: 2
 - slug: three-strikes
   title: THREE STRIKES
-  score: 85
+  score: 87.84502484628416
+  llm_score: 90
+  recency_score: 79.22512423142078
   rank: 3
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 85
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 84.86662028679618
+  llm_score: 90
+  recency_score: 64.3331014339809
   rank: 4
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+  score: 80.62221429547445
+  llm_score: 85
+  recency_score: 63.11107147737226
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85
+- slug: back-stabber
+  title: BACK STABBER
+  score: 80.04781069641929
+  llm_score: 85
+  recency_score: 60.23905348209645
   rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 77.53512066317721
+  llm_score: 95
+  recency_score: 7.675603315886079
+  rank: 7
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 85
-  rank: 7
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 85
+  score: 72.70749976245517
+  llm_score: 85
+  recency_score: 23.53749881227582
   rank: 8
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 75
+  score: 70.94663482050852
+  llm_score: 85
+  recency_score: 14.733174102542575
   rank: 9
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 75
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 70.81254126082239
+  llm_score: 85
+  recency_score: 14.062706304111916
   rank: 10
 ---
 Fairhope’s City Council agenda, March 8th, was loaded with resolutions that should catch the eye of the voters and raise many questions about the City Council, NOT informing the public about the facts surrounding each resolution.
