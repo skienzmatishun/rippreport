@@ -16,63 +16,73 @@ alttags: Ethics complaints against Fairhope officials prompt investigation; sign
 related_articles:
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
-  score: 84.1518346432357
+  score: 75.65183464323572
   llm_score: 85
   recency_score: 80.75917321617852
+  category_score: 0
   rank: 1
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 82.42943663570213
+  score: 74.22943663570214
   llm_score: 82
   recency_score: 84.14718317851063
+  category_score: 0
   rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 76.37034924159302
-  llm_score: 95
-  recency_score: 1.8517462079650837
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 63.90541722763622
+  llm_score: 75
+  recency_score: 57.02708613818104
+  category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 76.10793937687782
-  llm_score: 95
-  recency_score: 0.5396968843891398
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 63.082297182089796
+  llm_score: 90
+  recency_score: 0.41148591044895216
+  category_score: 0
   rank: 4
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
-  score: 76.0747722223196
-  llm_score: 95
+  score: 62.3747722223196
+  llm_score: 89
   recency_score: 0.37386111159795743
+  category_score: 0
   rank: 5
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 73.99769259535007
-  llm_score: 92
+  score: 59.897692595350065
+  llm_score: 85
   recency_score: 1.9884629767503073
+  category_score: 0
   rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 72.39013828420687
-  llm_score: 90
+  score: 59.89013828420687
+  llm_score: 85
   recency_score: 1.9506914210343174
+  category_score: 0
   rank: 7
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 72.05109182678089
-  llm_score: 90
+  score: 59.5510918267809
+  llm_score: 85
   recency_score: 0.2554591339044372
+  category_score: 0
   rank: 8
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 53.30793937687783
+  llm_score: 76
+  recency_score: 0.5396968843891398
+  category_score: 0
+  rank: 9
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 68.68225627752497
-  llm_score: 85
+  score: 49.68225627752498
+  llm_score: 70
   recency_score: 3.4112813876248462
-  rank: 9
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 68.08229718208979
-  llm_score: 85
-  recency_score: 0.41148591044895216
+  category_score: 0
   rank: 10
 ---
 In Fairhope, “come fly with me” Jack Burrell is facing ethics complaints as well as Fairhope Airport Authority board member Ray Hix, Fairhope Municipal Judge Snedeker’s partner. The airport authority authorized hiring an attorney to investigate those who filed the complaint. The city council has turned a blind eye to any facts or ethical violations refusing to conduct any internal investigation, despite compelling evidence of wrong doing. Instead the council members have issued false statements, “The ethics commission complaints against Airport board members have been ruled baseless.” Frequent flier Jack has been assured that if his bible buddy Pittman can get away with ethics violations, he should be able to as well.

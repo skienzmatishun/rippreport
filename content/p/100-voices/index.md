@@ -13,63 +13,73 @@ alttags: Community members encircling a central point, symbolizing citizen voice
 related_articles:
 - slug: shut-up-2
   title: SHUT UP
-  score: 95.56641283325074
+  score: 86.06641283325074
   llm_score: 95
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 1
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT
-  score: 95.4594928113308
+  score: 85.9594928113308
   llm_score: 95
   recency_score: 97.29746405665401
+  category_score: 0
   rank: 2
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 92.01962391400207
-  llm_score: 95
-  recency_score: 80.0981195700103
-  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 90.47244604336203
+  score: 81.47244604336203
   llm_score: 90
   recency_score: 92.36223021681012
+  category_score: 0
+  rank: 3
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 79.01962391400207
+  llm_score: 90
+  recency_score: 80.0981195700103
+  category_score: 0
   rank: 4
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 79.88389745041349
+  score: 71.38389745041349
   llm_score: 85
   recency_score: 59.41948725206741
+  category_score: 0
   rank: 5
-- slug: back-stabber
-  title: BACK STABBER
-  score: 79.12762665151226
-  llm_score: 85
-  recency_score: 55.63813325756129
-  rank: 6
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 78.6795960873464
+  score: 70.17959608734641
   llm_score: 85
   recency_score: 53.39798043673202
-  rank: 7
+  category_score: 0
+  rank: 6
 - slug: shut-up
   title: SHUT UP
-  score: 78.41911919868473
+  score: 68.91911919868473
   llm_score: 95
   recency_score: 12.09559599342363
+  category_score: 0
+  rank: 7
+- slug: people-power
+  title: PEOPLE POWER
+  score: 61.33938431403988
+  llm_score: 85
+  recency_score: 9.196921570199363
+  category_score: 0
   rank: 8
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 75.01787168102958
-  llm_score: 92
+  score: 53.91787168102957
+  llm_score: 75
   recency_score: 7.089358405147809
+  category_score: 0
   rank: 9
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 70.72157763656676
-  llm_score: 85
+  score: 51.72157763656677
+  llm_score: 70
   recency_score: 13.607888182833822
+  category_score: 0
   rank: 10
 ---
 First let me apologize for not getting out the Wonderful Wednesday and for the delay of Freaky Friday this week. The Ripp Report has been following many different issues throughout the County and this last week was especially busy.

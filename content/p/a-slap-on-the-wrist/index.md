@@ -18,65 +18,75 @@ authors:
 - admin
 alttags: A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption...
 related_articles:
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 88.90191963447131
-  llm_score: 95
-  recency_score: 64.50959817235656
-  rank: 1
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
-  score: 87.67392032634467
-  llm_score: 85
+  score: 81.27392032634468
+  llm_score: 88
   recency_score: 98.36960163172333
-  rank: 2
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 82.22156185864796
+  category_score: 0
+  rank: 1
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75.90191963447133
   llm_score: 90
-  recency_score: 51.107809293239825
-  rank: 3
+  recency_score: 64.50959817235656
+  category_score: 0
+  rank: 2
 - slug: surrender
   title: SURRENDER
-  score: 81.99996495634579
+  score: 72.99996495634579
   llm_score: 90
   recency_score: 49.99982478172893
+  category_score: 0
+  rank: 3
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 69.72156185864797
+  llm_score: 85
+  recency_score: 51.107809293239825
+  category_score: 0
   rank: 4
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 81.1247843082185
-  llm_score: 95
-  recency_score: 25.623921541092447
-  rank: 5
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 79.25024389308274
-  llm_score: 85
-  recency_score: 56.25121946541366
-  rank: 6
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 76.83825535238421
-  llm_score: 90
-  recency_score: 24.19127676192105
-  rank: 7
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 75.987869307982
-  llm_score: 85
-  recency_score: 39.93934653990996
-  rank: 8
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 74.17762382000342
-  llm_score: 82
+  score: 68.07762382000342
+  llm_score: 85
   recency_score: 42.88811910001705
+  category_score: 0
+  rank: 5
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 67.487869307982
+  llm_score: 85
+  recency_score: 39.93934653990996
+  category_score: 0
+  rank: 6
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 64.6247843082185
+  llm_score: 85
+  recency_score: 25.623921541092447
+  category_score: 0
+  rank: 7
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 64.33825535238422
+  llm_score: 85
+  recency_score: 24.19127676192105
+  category_score: 0
+  rank: 8
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 57.88245088217731
+  llm_score: 65
+  recency_score: 61.91225441088648
+  category_score: 0
   rank: 9
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 71.2078318963773
-  llm_score: 85
+  score: 52.9078318963773
+  llm_score: 71
   recency_score: 16.039159481886507
+  category_score: 0
   rank: 10
 ---
 <iframe src="https://giphy.com/embed/J7KNNBaqIJTt5EzfDo" width="480" height="350" frameborder="0" class="giphy-embed" allowfullscreen></iframe>

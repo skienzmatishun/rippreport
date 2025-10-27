@@ -10,63 +10,73 @@ authors:
 related_articles:
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
-  score: 89.85448470843463
-  llm_score: 95
+  score: 83.85448470843463
+  llm_score: 100
   recency_score: 69.27242354217314
+  category_score: 0
   rank: 1
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 87.04131527818056
-  llm_score: 90
+  score: 81.54131527818056
+  llm_score: 95
   recency_score: 75.2065763909028
+  category_score: 0
   rank: 2
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 79.64877842919906
+  llm_score: 92
+  recency_score: 76.2438921459952
+  category_score: 0
+  rank: 3
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 85.46676333674154
+  score: 75.96676333674154
   llm_score: 95
   recency_score: 47.33381668370766
-  rank: 3
+  category_score: 0
+  rank: 4
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 70.68038964044877
+  llm_score: 100
+  recency_score: 3.401948202243831
+  category_score: 0
+  rank: 5
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 81.42828195143117
-  llm_score: 95
+  score: 69.82828195143118
+  llm_score: 92
   recency_score: 27.14140975715586
-  rank: 4
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 80.10793937687782
-  llm_score: 100
-  recency_score: 0.5396968843891398
-  rank: 5
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 77.82905888579863
-  llm_score: 90
-  recency_score: 29.145294428993168
+  category_score: 0
   rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 77.53339065902054
+  score: 68.53339065902055
   llm_score: 90
   recency_score: 27.666953295102704
+  category_score: 0
   rank: 7
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65.32905888579864
+  llm_score: 85
+  recency_score: 29.145294428993168
+  category_score: 0
+  rank: 8
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 76.76418860283415
-  llm_score: 92
+  score: 62.66418860283416
+  llm_score: 85
   recency_score: 15.820943014170737
-  rank: 8
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 76.68038964044877
-  llm_score: 95
-  recency_score: 3.401948202243831
+  category_score: 0
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 56.12827449808848
-  llm_score: 70
+  score: 45.62827449808849
+  llm_score: 65
   recency_score: 0.6413724904423975
+  category_score: 0
   rank: 10
 ---
 Two months ago I appealed to the Special Prosecution Office for the Alabama Attorney General, Clark Morris. The letter below was accompanied with a 100 plus page bound copy of information and evidence relative to the complaint. Copies were also given to The Alabama Bar, Governor, Judiciary, and Ethics Commission to name a few others.

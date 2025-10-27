@@ -12,63 +12,73 @@ alttags: Sunset reflected in a car side mirror, symbolizing reflection on the pa
 related_articles:
 - slug: freaky-friday-merry-christmas
   title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 79.24740235768714
-  llm_score: 75
+  score: 78.74740235768715
+  llm_score: 85
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
 - slug: new-year-new-problems
   title: NEW YEAR NEW PROBLEMS
-  score: 74.70317696989248
-  llm_score: 85
+  score: 59.203176969892496
+  llm_score: 75
   recency_score: 33.51588484946244
+  category_score: 0
   rank: 2
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 65.18782317885686
-  llm_score: 65
-  recency_score: 65.93911589428427
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 56.895862600164364
+  llm_score: 75
+  recency_score: 21.979313000821772
+  category_score: 0
   rank: 3
 - slug: from-the-tropics
   title: FROM THE TROPICS
-  score: 59.37777423965625
+  score: 52.877774239656254
   llm_score: 65
   recency_score: 36.88887119828122
+  category_score: 0
   rank: 4
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 59.1196286005925
-  llm_score: 65
-  recency_score: 35.59814300296249
-  rank: 5
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 56.04667522826491
-  llm_score: 70
-  recency_score: 0.2333761413245356
-  rank: 6
 - slug: happy-days
   title: HAPPY DAYS
-  score: 52.11277620415708
+  score: 45.612776204157086
   llm_score: 65
   recency_score: 0.5638810207853779
-  rank: 7
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 52.06291871888191
-  llm_score: 65
-  recency_score: 0.31459359440954926
-  rank: 8
+  category_score: 0
+  rank: 5
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 52.04930414233205
+  score: 45.549304142332055
   llm_score: 65
   recency_score: 0.2465207116602366
+  category_score: 0
+  rank: 6
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 42.04667522826492
+  llm_score: 60
+  recency_score: 0.2333761413245356
+  category_score: 0
+  rank: 7
+- slug: on-vacation
+  title: ON VACATION
+  score: 38.91437660066281
+  llm_score: 55
+  recency_score: 2.071883003314039
+  category_score: 0
+  rank: 8
+- slug: no-freaky-friday
+  title: NO FREAKY FRIDAY
+  score: 35.19899455443594
+  llm_score: 45
+  recency_score: 18.4949727721797
+  category_score: 0
   rank: 9
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 40.13926300461572
+  score: 35.13926300461572
   llm_score: 50
   recency_score: 0.696315023078613
+  category_score: 0
   rank: 10
 ---
 Facebook is sending users a personalized “2016 Year in Review” on their news feeds. It has certainly been a year worth reflecting on. Much has happened in American politics this year. However, like former U.S. Speaker of the House Tip O’Neill said, “All politics are local.” In Baldwin County, nothing could be further from the truth.

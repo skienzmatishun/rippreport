@@ -11,65 +11,75 @@ authors:
 - admin
 alttags: Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values
 related_articles:
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 90.79608191931776
-  llm_score: 95
-  recency_score: 73.98040959658876
-  rank: 1
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 90.0
+  score: 80.0
   llm_score: 100
   recency_score: 50
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 86.72723439081022
+  score: 78.22723439081022
   llm_score: 85
   recency_score: 93.63617195405108
+  category_score: 0
+  rank: 2
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 68.78693882755798
+  llm_score: 85
+  recency_score: 46.434694137789805
+  category_score: 0
   rank: 3
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 61.69792359772774
+  llm_score: 85
+  recency_score: 10.989617988638654
+  category_score: 0
+  rank: 4
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 77.47735425358857
-  llm_score: 95
+  score: 60.97735425358857
+  llm_score: 85
   recency_score: 7.3867712679428434
-  rank: 4
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 73.95366066397163
-  llm_score: 90
-  recency_score: 9.768303319858143
+  category_score: 0
   rank: 5
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 73.47331224721167
-  llm_score: 90
+  score: 60.97331224721168
+  llm_score: 85
   recency_score: 7.366561236058354
+  category_score: 0
   rank: 6
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 72.10485586290197
-  llm_score: 85
+  score: 56.60485586290198
+  llm_score: 75
   recency_score: 20.524279314509858
+  category_score: 0
   rank: 7
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 69.93236757167448
-  llm_score: 85
-  recency_score: 9.661837858372358
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 54.45366066397163
+  llm_score: 75
+  recency_score: 9.768303319858143
+  category_score: 0
   rank: 8
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 68.03500680065547
-  llm_score: 85
-  recency_score: 0.1750340032773369
-  rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 56.05638790447402
+  score: 49.05638790447403
   llm_score: 70
   recency_score: 0.28193952237011366
+  category_score: 0
+  rank: 9
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 47.432367571674476
+  llm_score: 65
+  recency_score: 9.661837858372358
+  category_score: 0
   rank: 10
 ---
 Reference: Mabel Amos Trust

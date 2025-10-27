@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: Great blue heron perched atop a No Fishing sign, symbolizing unanswered legal complaints in Alabama
 related_articles:
-- slug: exposure
-  title: EXPOSURE
-  score: 84.82943663570212
-  llm_score: 85
-  recency_score: 84.14718317851063
-  rank: 1
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
-  score: 78.07232874673902
+  score: 70.27232874673902
   llm_score: 78
   recency_score: 78.36164373369505
-  rank: 2
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 73.71833385593835
-  llm_score: 85
-  recency_score: 28.59166927969179
-  rank: 3
-- slug: alabama-attorney-general
+  category_score: 0
+  rank: 1
+- slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 72.0112604408264
-  llm_score: 90
-  recency_score: 0.05630220413199461
-  rank: 4
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 69.59392065778451
-  llm_score: 82
-  recency_score: 19.9696032889225
-  rank: 5
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 69.2882265693973
+  score: 69.50000000000001
   llm_score: 85
-  recency_score: 6.441132846986479
-  rank: 6
+  recency_score: 50
+  category_score: 0
+  rank: 2
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 59.652440632286364
+  llm_score: 85
+  recency_score: 0.7622031614317782
+  category_score: 0
+  rank: 3
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
-  score: 65.65843243410507
-  llm_score: 82
+  score: 59.55843243410507
+  llm_score: 85
   recency_score: 0.2921621705253142
+  category_score: 0
+  rank: 4
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 59.511260440826405
+  llm_score: 85
+  recency_score: 0.05630220413199461
+  category_score: 0
+  rank: 5
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 56.81833385593836
+  llm_score: 73
+  recency_score: 28.59166927969179
+  category_score: 0
+  rank: 6
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 56.49392065778451
+  llm_score: 75
+  recency_score: 19.9696032889225
+  category_score: 0
   rank: 7
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 65.50408372408847
-  llm_score: 78
-  recency_score: 15.520418620442342
-  rank: 8
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 63.5419279024471
-  llm_score: 72
-  recency_score: 29.70963951223547
-  rank: 9
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 63.24053460363517
-  llm_score: 72
+  score: 51.14053460363518
+  llm_score: 65
   recency_score: 28.202673018175854
+  category_score: 0
+  rank: 8
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 49.05638790447403
+  llm_score: 70
+  recency_score: 0.28193952237011366
+  category_score: 0
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 46.96526138070338
+  llm_score: 65
+  recency_score: 7.326306903516857
+  category_score: 0
   rank: 10
 ---
 The Ripp Report made a complaint against Steven Patrick Johnson to the Alabama State Bar, CSP NO. 2016-296. On March 17, 2016 they responded “Two attorneys in the Office of the General Council of the Alabama State Bar have reviewed your complaint and the attorney’s response to the complaint. In view of the nature and content of the complaint and the response of the attorney, we will take no further action in this matter.” Of course we are not privileged to the response of the attorney.

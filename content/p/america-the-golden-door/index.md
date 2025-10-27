@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described in Emma Lazaruss “New Colossus” poem
 related_articles:
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 68.18056760504162
-  llm_score: 70
-  recency_score: 60.90283802520807
-  rank: 1
-- slug: kindness
-  title: RANDOM ACTS OF KINDNESS
-  score: 63.916500715178216
-  llm_score: 65
-  recency_score: 59.582503575891096
-  rank: 2
 - slug: wonderful-wednesday-4
   title: WONDERFUL WEDNESDAY
-  score: 60.76770197286933
-  llm_score: 65
+  score: 71.76770197286933
+  llm_score: 90
   recency_score: 43.83850986434665
+  category_score: 0
+  rank: 1
+- slug: wonderful-wednesday-5
+  title: WONDERFUL WEDNESDAY
+  score: 71.68056760504163
+  llm_score: 85
+  recency_score: 60.90283802520807
+  category_score: 0
+  rank: 2
+- slug: kindness
+  title: RANDOM ACTS OF KINDNESS
+  score: 57.41650071517823
+  llm_score: 65
+  recency_score: 59.582503575891096
+  category_score: 0
   rank: 3
-- slug: combat
-  title: COMBAT
-  score: 56.63074876314147
-  llm_score: 65
-  recency_score: 23.153743815707337
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 52.79021175326757
+  llm_score: 75
+  recency_score: 1.4510587663378074
+  category_score: 0
   rank: 4
-- slug: never-forget
-  title: Never Forget
-  score: 52.79104160648169
+- slug: wonderful-wednesday
+  title: WONDERFUL WEDNESDAY
+  score: 48.382753668345075
   llm_score: 65
-  recency_score: 3.955208032408443
+  recency_score: 14.41376834172532
+  category_score: 0
   rank: 5
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 47.75437397178276
-  llm_score: 45
-  recency_score: 58.77186985891382
+- slug: exposure-2
+  title: EXPOSURE
+  score: 46.69014258029427
+  llm_score: 50
+  recency_score: 58.450712901471334
+  category_score: 0
   rank: 6
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 47.6262621791403
-  llm_score: 45
+  score: 46.626262179140305
+  llm_score: 50
   recency_score: 58.1313108957015
+  category_score: 0
   rank: 7
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 45.890211753267565
-  llm_score: 57
-  recency_score: 1.4510587663378074
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 45.85641304329026
+  llm_score: 65
+  recency_score: 1.782065216451268
+  category_score: 0
   rank: 8
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 38.14689799787467
+  llm_score: 50
+  recency_score: 15.734489989373342
+  category_score: 0
+  rank: 9
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life
-  score: 40.722660548191314
-  llm_score: 50
+  score: 32.222660548191314
+  llm_score: 45
   recency_score: 3.6133027409565597
-  rank: 9
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 40.52017874039542
-  llm_score: 50
-  recency_score: 2.6008937019770966
+  category_score: 0
   rank: 10
 ---
 AMERICA

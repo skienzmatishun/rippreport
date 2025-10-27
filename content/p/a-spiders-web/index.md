@@ -15,65 +15,75 @@ authors:
 - ripp-report
 alttags: Complex web of interconnected LLCs, symbolizing hidden connections and obscured ownership within Baldwin County politics
 related_articles:
+- slug: investigative-reporting-business-entity-records
+  title: Investigative Reporting - Business Entity Records
+  score: 79.12009294457452
+  llm_score: 85
+  recency_score: 98.10046472287257
+  category_score: 0
+  rank: 1
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 83.69014258029426
-  llm_score: 90
+  score: 71.19014258029428
+  llm_score: 85
   recency_score: 58.450712901471334
-  rank: 1
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 76.28879688043754
-  llm_score: 90
-  recency_score: 21.44398440218775
+  category_score: 0
   rank: 2
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 62.33692569086929
+  llm_score: 75
+  recency_score: 49.18462845434644
+  category_score: 0
+  rank: 3
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 74.15027402445422
-  llm_score: 90
+  score: 61.650274024454234
+  llm_score: 85
   recency_score: 10.751370122271124
-  rank: 3
+  category_score: 0
+  rank: 4
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 72.67113278230873
-  llm_score: 90
-  recency_score: 3.355663911543685
-  rank: 4
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 72.22803860842048
-  llm_score: 90
-  recency_score: 1.1401930421023998
-  rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 72.0630913352865
-  llm_score: 90
-  recency_score: 0.31545667643248176
-  rank: 6
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 70.00243193734299
+  score: 60.171132782308746
   llm_score: 85
-  recency_score: 10.01215968671496
-  rank: 7
+  recency_score: 3.355663911543685
+  category_score: 0
+  rank: 5
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 68.35641304329026
+  score: 59.85641304329026
   llm_score: 85
   recency_score: 1.782065216451268
-  rank: 8
+  category_score: 0
+  rank: 6
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 68.08389071583125
+  score: 59.583890715831245
   llm_score: 85
   recency_score: 0.4194535791561977
+  category_score: 0
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 59.5630913352865
+  llm_score: 85
+  recency_score: 0.31545667643248176
+  category_score: 0
+  rank: 8
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 59.54810328962931
+  llm_score: 85
+  recency_score: 0.24051644814652245
+  category_score: 0
   rank: 9
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 68.02986353698782
+  score: 59.52986353698782
   llm_score: 85
   recency_score: 0.14931768493906777
+  category_score: 0
   rank: 10
 ---
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as city council members and county commissioners hide their business and personal connections to these LLC’S. By doing this, they are able to vote and promote their own interests without being discovered. Or so they thought.

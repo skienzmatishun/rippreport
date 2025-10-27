@@ -10,65 +10,75 @@ authors:
 - ripp-report
 alttags: A playing card floats above a magician’s hat, symbolizing misleading promises and empty development claims in Baldwin County
 related_articles:
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 89.43964342023084
-  llm_score: 90
-  recency_score: 87.19821710115417
-  rank: 1
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 83.67232874673901
+  score: 75.17232874673903
   llm_score: 85
   recency_score: 78.36164373369505
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: shovel-ready
   title: SHOVEL READY
-  score: 78.95471886159174
+  score: 69.45471886159174
   llm_score: 95
   recency_score: 14.773594307958726
+  category_score: 0
+  rank: 2
+- slug: dead-last
+  title: DEAD LAST
+  score: 67.50978388769299
+  llm_score: 85
+  recency_score: 40.048919438464885
+  category_score: 0
   rank: 3
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 78.5758477586611
-  llm_score: 90
-  recency_score: 32.87923879330549
-  rank: 4
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 75.10014946474215
+  score: 66.60014946474216
   llm_score: 85
   recency_score: 35.500747323710755
+  category_score: 0
+  rank: 4
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 61.27989467527985
+  llm_score: 85
+  recency_score: 8.899473376399213
+  category_score: 0
   rank: 5
 - slug: money-on-the-table
   title: MONEY ON THE TABLE
-  score: 68.81748068743818
+  score: 60.317480687438184
   llm_score: 85
   recency_score: 4.087403437190892
+  category_score: 0
   rank: 6
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 68.23373137457767
-  llm_score: 85
-  recency_score: 1.1686568728883742
-  rank: 7
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 68.14995524270496
+  score: 59.649955242704976
   llm_score: 85
   recency_score: 0.7497762135248415
+  category_score: 0
+  rank: 7
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 52.50408612521814
+  llm_score: 75
+  recency_score: 0.02043062609065734
+  category_score: 0
   rank: 8
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 60.74273317932575
-  llm_score: 75
+  score: 49.742733179325754
+  llm_score: 70
   recency_score: 3.7136658966287337
+  category_score: 0
   rank: 9
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 56.147915067007766
-  llm_score: 70
+  score: 45.64791506700777
+  llm_score: 65
   recency_score: 0.7395753350388166
+  category_score: 0
   rank: 10
 ---
 The Baldwin County Mega-Site and the Fairhope Airport Authority have a lot in common. They both are all smoke and mirrors. The Representative of each will give all kinds of useless data and tell you how Baldwin is the fastest growing county in Alabama and opportunity is right around the corner.

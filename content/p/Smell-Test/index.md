@@ -15,63 +15,73 @@ alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eag
 related_articles:
 - slug: sunday-sermon
   title: SUNDAY SERMON
-  score: 74.1912037447723
+  score: 65.69120374477231
   llm_score: 85
   recency_score: 30.95601872386148
+  category_score: 0
   rank: 1
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 72.05294432963113
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 63.07255242981377
   llm_score: 90
-  recency_score: 0.2647216481556642
+  recency_score: 0.3627621490688241
+  category_score: 0
   rank: 2
 - slug: shooting-yourself-in-the-foot
   title: SHOOTING YOURSELF IN THE FOOT
-  score: 71.43524565340775
+  score: 62.93524565340775
   llm_score: 85
   recency_score: 17.176228267038702
+  category_score: 0
   rank: 3
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 68.59004563496283
-  llm_score: 85
-  recency_score: 2.9502281748141934
-  rank: 4
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 68.49923483368241
+  score: 59.99923483368242
   llm_score: 85
   recency_score: 2.4961741684120615
-  rank: 5
+  category_score: 0
+  rank: 4
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 68.45984285557822
+  score: 59.95984285557823
   llm_score: 85
   recency_score: 2.2992142778911093
+  category_score: 0
+  rank: 5
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 59.560551094907524
+  llm_score: 85
+  recency_score: 0.30275547453758156
+  category_score: 0
   rank: 6
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 68.07255242981377
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 59.55294432963114
   llm_score: 85
-  recency_score: 0.3627621490688241
+  recency_score: 0.2647216481556642
+  category_score: 0
   rank: 7
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 68.06628068393901
-  llm_score: 85
-  recency_score: 0.3314034196950972
-  rank: 8
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 60.54947704827495
+  score: 53.04947704827496
   llm_score: 75
   recency_score: 2.7473852413747677
+  category_score: 0
+  rank: 8
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 52.56628068393903
+  llm_score: 75
+  recency_score: 0.3314034196950972
+  category_score: 0
   rank: 9
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 56.101070300539455
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 49.063437990105164
   llm_score: 70
-  recency_score: 0.5053515026972712
+  recency_score: 0.3171899505257979
+  category_score: 0
   rank: 10
 ---
 The one thing that the good ole boys, GOB, of Baldwin have down pat is walking the line of legal and illegal. They do not care if it is a conflict of interest, unethical or smells to high heaven, just as long as it is barely legal. It does not even matter if you change political parties, all they care about is that they get their rubber stamp candidate, Andrea Lindsey, elected.

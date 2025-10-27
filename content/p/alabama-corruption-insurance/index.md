@@ -12,65 +12,75 @@ authors:
 - admin
 alttags: Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti...
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 87.43670779028002
-  llm_score: 95
-  recency_score: 57.18353895140014
-  rank: 1
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 86.85660194836281
-  llm_score: 95
-  recency_score: 54.28300974181401
-  rank: 2
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 85.25815862604524
-  llm_score: 92
+  score: 78.15815862604524
+  llm_score: 95
   recency_score: 58.29079313022616
+  category_score: 0
+  rank: 1
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 77.93670779028002
+  llm_score: 95
+  recency_score: 57.18353895140014
+  category_score: 0
+  rank: 2
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 77.35660194836281
+  llm_score: 95
+  recency_score: 54.28300974181401
+  category_score: 0
   rank: 3
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 80.30056311965313
+  score: 70.80056311965313
   llm_score: 95
   recency_score: 21.50281559826569
+  category_score: 0
   rank: 4
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 78.19191013062844
-  llm_score: 95
-  recency_score: 10.959550653142209
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 69.12366745387794
+  llm_score: 85
+  recency_score: 48.118337269389656
+  category_score: 0
   rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 77.49773123279229
-  llm_score: 95
-  recency_score: 7.488656163961433
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 63.70732967072931
+  llm_score: 85
+  recency_score: 21.03664835364649
+  category_score: 0
   rank: 6
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 76.76545762218078
-  llm_score: 95
-  recency_score: 3.827288110903858
-  rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 76.76418860283415
-  llm_score: 92
-  recency_score: 15.820943014170737
-  rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 68.68225627752497
+  score: 62.66418860283416
   llm_score: 85
-  recency_score: 3.4112813876248462
+  recency_score: 15.820943014170737
+  category_score: 0
+  rank: 7
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 60.9977312327923
+  llm_score: 85
+  recency_score: 7.488656163961433
+  category_score: 0
+  rank: 8
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 56.79191013062845
+  llm_score: 78
+  recency_score: 10.959550653142209
+  category_score: 0
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 52.810789205002415
-  llm_score: 65
+  score: 53.31078920500242
+  llm_score: 75
   recency_score: 4.053946025012058
+  category_score: 0
   rank: 10
 ---
 Why is Alabama so corrupt?

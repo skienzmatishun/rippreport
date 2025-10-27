@@ -12,63 +12,73 @@ alttags: Roy Moore speaking into a microphone, despite past constitutional viola
 related_articles:
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 98.12789538259509
+  score: 88.32789538259509
   llm_score: 98
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
 - slug: alabama-moore-strange
   title: ALABAMA MOORE STRANGE
-  score: 94.90975554986517
-  llm_score: 98
+  score: 86.50975554986516
+  llm_score: 100
   recency_score: 82.54877774932578
+  category_score: 0
   rank: 2
-- slug: black-hole
-  title: BLACK HOLE
-  score: 86.77861223075729
-  llm_score: 85
-  recency_score: 93.89306115378648
-  rank: 3
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 79.24740235768714
+  score: 71.74740235768715
   llm_score: 75
   recency_score: 96.23701178843567
+  category_score: 0
+  rank: 3
+- slug: black-hole
+  title: BLACK HOLE
+  score: 67.7786122307573
+  llm_score: 70
+  recency_score: 93.89306115378648
+  category_score: 0
   rank: 4
+- slug: its-no-joke
+  title: IT’S NO JOKE
+  score: 63.9219058668791
+  llm_score: 65
+  recency_score: 92.10952933439548
+  category_score: 0
+  rank: 5
 - slug: above-the-law
   title: ABOVE THE LAW
-  score: 73.71833385593835
-  llm_score: 85
+  score: 58.21833385593837
+  llm_score: 75
   recency_score: 28.59166927969179
-  rank: 5
+  category_score: 0
+  rank: 6
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 55.50000000000001
+  llm_score: 65
+  recency_score: 50
+  category_score: 0
+  rank: 7
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 68.03938364254373
-  llm_score: 85
+  score: 52.53938364254373
+  llm_score: 75
   recency_score: 0.19691821271864365
-  rank: 6
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 65.96882643931993
-  llm_score: 65
-  recency_score: 69.84413219659965
-  rank: 7
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 56.89483401007199
-  llm_score: 70
-  recency_score: 4.474170050359933
+  category_score: 0
   rank: 8
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 56.480980403693685
-  llm_score: 65
-  recency_score: 22.404902018468416
-  rank: 9
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 56.19031736713009
-  llm_score: 70
+  score: 45.6903173671301
+  llm_score: 65
   recency_score: 0.9515868356504543
+  category_score: 0
+  rank: 9
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 43.68098040369369
+  llm_score: 56
+  recency_score: 22.404902018468416
+  category_score: 0
   rank: 10
 ---
 Roy Moore disqualified himself long before the sexual allegations were levied at him, by multiple and creditable sources. Moore violated his oath of office, twice, and was removed from office for violating the same constitutional rights he swore to protect. Yet he uses the same Constitution as his rally cry for votes. This is a fact not fake news, yet some voters are willing to overlook Moore’s defiance for the law, putting party first, at all costs.

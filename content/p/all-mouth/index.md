@@ -11,63 +11,73 @@ alttags: Councilman Jack Burrell depicted with a long nose, suggesting insinceri
 related_articles:
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 88.68258086352162
+  score: 79.48258086352162
   llm_score: 92
   recency_score: 75.41290431760807
+  category_score: 0
   rank: 1
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 78.64222555805995
+  llm_score: 85
+  recency_score: 95.71112779029973
+  category_score: 0
+  rank: 2
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 86.59477780883036
-  llm_score: 90
+  score: 74.09477780883037
+  llm_score: 85
   recency_score: 72.97388904415178
-  rank: 2
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 80.70749976245517
-  llm_score: 95
-  recency_score: 23.53749881227582
+  category_score: 0
   rank: 3
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 78.11521599184604
+  score: 68.61521599184604
   llm_score: 95
   recency_score: 10.576079959230228
+  category_score: 0
   rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 78.10365746335434
+  score: 68.60365746335434
   llm_score: 95
   recency_score: 10.518287316771712
+  category_score: 0
   rank: 5
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 76.99030017127643
-  llm_score: 95
-  recency_score: 4.951500856382183
-  rank: 6
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 75.50005501422807
+  score: 67.00005501422808
   llm_score: 85
   recency_score: 37.500275071140365
+  category_score: 0
+  rank: 6
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 64.20749976245517
+  llm_score: 85
+  recency_score: 23.53749881227582
+  category_score: 0
   rank: 7
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 61.82808802841454
+  llm_score: 85
+  recency_score: 11.640440142072652
+  category_score: 0
+  rank: 8
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 73.65751801972854
-  llm_score: 90
+  score: 61.15751801972855
+  llm_score: 85
   recency_score: 8.287590098642712
-  rank: 8
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 70.7247843082185
-  llm_score: 82
-  recency_score: 25.623921541092447
+  category_score: 0
   rank: 9
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 68.27852698529178
+  score: 59.77852698529179
   llm_score: 85
   recency_score: 1.392634926458906
+  category_score: 0
   rank: 10
 ---
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.

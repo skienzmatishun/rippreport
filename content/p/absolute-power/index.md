@@ -16,65 +16,75 @@ authors:
 - admin
 alttags: Skeleton reaching for a suit on a hanger behind open doors, symbolizing corruption and loss of power in Fairhope politics
 related_articles:
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 81.22112415020392
+  llm_score: 90
+  recency_score: 91.10562075101957
+  category_score: 0
+  rank: 1
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 88.10764360478439
+  score: 79.10764360478439
   llm_score: 90
   recency_score: 80.5382180239219
-  rank: 1
-- slug: i-quit
-  title: I QUIT
-  score: 84.14724185949737
-  llm_score: 90
-  recency_score: 60.73620929748681
+  category_score: 0
   rank: 2
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 83.24877842919904
+  score: 74.74877842919905
   llm_score: 85
   recency_score: 76.2438921459952
+  category_score: 0
   rank: 3
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 79.6262621791403
+  score: 71.12626217914031
   llm_score: 85
   recency_score: 58.1313108957015
+  category_score: 0
   rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 78.88275366834506
-  llm_score: 95
-  recency_score: 14.41376834172532
+- slug: i-quit
+  title: I QUIT
+  score: 70.94724185949737
+  llm_score: 84
+  recency_score: 60.73620929748681
+  category_score: 0
   rank: 5
-- slug: gob-coup
-  title: GOB COUP
-  score: 76.76755764177672
-  llm_score: 95
-  recency_score: 3.837788208883614
-  rank: 6
 - slug: threesome
   title: THREESOME
-  score: 72.48098040369368
+  score: 63.98098040369369
   llm_score: 85
   recency_score: 22.404902018468416
+  category_score: 0
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 62.382753668345075
+  llm_score: 85
+  recency_score: 14.41376834172532
+  category_score: 0
   rank: 7
 - slug: skunked
   title: SKUNKED
-  score: 70.6772050791888
+  score: 62.1772050791888
   llm_score: 85
   recency_score: 13.386025395943985
+  category_score: 0
   rank: 8
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 68.29991153640955
+- slug: gob-coup
+  title: GOB COUP
+  score: 60.26755764177673
   llm_score: 85
-  recency_score: 1.4995576820477703
+  recency_score: 3.837788208883614
+  category_score: 0
   rank: 9
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 68.29502178361366
+  score: 59.79502178361366
   llm_score: 85
   recency_score: 1.4751089180682964
+  category_score: 0
   rank: 10
 ---
 > Power corrupts absolute power corrupts absolutely

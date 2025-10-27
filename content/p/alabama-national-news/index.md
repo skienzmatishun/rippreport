@@ -12,63 +12,73 @@ alttags: Map of Alabama marked as “Last Place” in education rankings, overla
 related_articles:
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 90.88179115997221
+  score: 81.88179115997222
   llm_score: 90
   recency_score: 94.40895579986105
+  category_score: 0
   rank: 1
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 87.62009294457451
+  score: 79.12009294457452
   llm_score: 85
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 2
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 75.55366066397164
-  llm_score: 92
-  recency_score: 9.768303319858143
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 67.1423487549181
+  llm_score: 95
+  recency_score: 3.2117437745905466
+  category_score: 0
   rank: 3
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 74.45411248024291
-  llm_score: 92
-  recency_score: 4.270562401214489
-  rank: 4
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 73.90404818212302
-  llm_score: 92
+  score: 66.80404818212301
+  llm_score: 95
   recency_score: 1.5202409106150827
+  category_score: 0
+  rank: 4
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 64.95366066397163
+  llm_score: 90
+  recency_score: 9.768303319858143
+  category_score: 0
   rank: 5
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
-  score: 72.83825535238421
+  score: 64.33825535238422
   llm_score: 85
   recency_score: 24.19127676192105
+  category_score: 0
   rank: 6
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 72.06011673477846
-  llm_score: 85
-  recency_score: 20.300583673892284
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 63.854112480242904
+  llm_score: 90
+  recency_score: 4.270562401214489
+  category_score: 0
   rank: 7
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 71.9939206577845
-  llm_score: 85
-  recency_score: 19.9696032889225
-  rank: 8
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 68.81301359100283
+  score: 60.313013591002836
   llm_score: 85
   recency_score: 4.065067955014141
+  category_score: 0
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 56.49392065778451
+  llm_score: 75
+  recency_score: 19.9696032889225
+  category_score: 0
   rank: 9
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 68.6423487549181
-  llm_score: 85
-  recency_score: 3.2117437745905466
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 50.73834833895516
+  llm_score: 65
+  recency_score: 26.19174169477578
+  category_score: 0
   rank: 10
 ---
 In today's National news, Alabama is capturing the headlines.

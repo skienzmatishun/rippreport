@@ -10,63 +10,73 @@ alttags: 'Warning sign: Council decisions made without public hearing, mirroring
 related_articles:
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 90.72723439081022
-  llm_score: 90
+  score: 82.42723439081023
+  llm_score: 91
   recency_score: 93.63617195405108
+  category_score: 0
   rank: 1
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 85.34434506009411
+  score: 76.84434506009413
   llm_score: 85
   recency_score: 86.72172530047058
+  category_score: 0
   rank: 2
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 74.33667471122875
+  llm_score: 85
+  recency_score: 74.18337355614374
+  category_score: 0
+  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 81.6478106964193
-  llm_score: 87
+  score: 71.5478106964193
+  llm_score: 85
   recency_score: 60.23905348209645
-  rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 76.6689665561533
-  llm_score: 90
-  recency_score: 23.3448327807665
+  category_score: 0
   rank: 4
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 76.14838111563867
-  llm_score: 92
-  recency_score: 12.741905578193274
-  rank: 5
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 73.61969175226453
-  llm_score: 92
-  recency_score: 0.09845876132263415
-  rank: 6
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 73.61937069825693
+  score: 64.41937069825693
   llm_score: 92
   recency_score: 0.09685349128460453
+  category_score: 0
+  rank: 5
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 64.16896655615331
+  llm_score: 85
+  recency_score: 23.3448327807665
+  category_score: 0
+  rank: 6
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 63.019691752264535
+  llm_score: 90
+  recency_score: 0.09845876132263415
+  category_score: 0
   rank: 7
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 58.441927902447105
+  llm_score: 75
+  recency_score: 29.70963951223547
+  category_score: 0
+  rank: 8
 - slug: people-power
   title: PEOPLE POWER
-  score: 71.30597776443173
-  llm_score: 85
+  score: 55.80597776443174
+  llm_score: 75
   recency_score: 16.529888822158654
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 68.17869480190573
-  llm_score: 85
+  score: 45.67869480190574
+  llm_score: 65
   recency_score: 0.8934740095286622
-  rank: 9
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 68.06737923386856
-  llm_score: 85
-  recency_score: 0.33689616934284955
+  category_score: 0
   rank: 10
 ---
 As predicted Mr Jack Burrell plans to make decisions for the whole community without a single public hearing. This is the after hours e-mail, 5:05 pm on a Friday, before a three day vacation. This should prove to you how the entire council, led by Jack Burrell is about to pull off the most rotten trick on Fairhope citizens since the settlement of the triangle lawsuit, Jack was part of that as well.

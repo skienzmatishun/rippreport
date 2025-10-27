@@ -14,63 +14,73 @@ alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbol
 related_articles:
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 92.90020726935181
-  llm_score: 92
+  score: 84.40020726935182
+  llm_score: 93
   recency_score: 96.50103634675902
+  category_score: 0
   rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 90.61488310709093
+  score: 81.41488310709093
   llm_score: 92
   recency_score: 85.07441553545459
+  category_score: 0
   rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 83.22366745387794
-  llm_score: 92
-  recency_score: 48.118337269389656
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 71.57762382000342
+  llm_score: 90
+  recency_score: 42.88811910001705
+  category_score: 0
   rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 82.63595596770666
-  llm_score: 92
+  score: 68.53595596770666
+  llm_score: 85
   recency_score: 45.179779838533264
+  category_score: 0
   rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 82.17762382000342
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 67.39547296281646
   llm_score: 92
-  recency_score: 42.88811910001705
+  recency_score: 14.977364814082216
+  category_score: 0
   rank: 5
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.43613691258605
-  llm_score: 92
+  score: 64.53613691258604
+  llm_score: 81
   recency_score: 39.1806845629302
+  category_score: 0
   rank: 6
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 62.16988030926578
+  llm_score: 85
+  recency_score: 13.34940154632884
+  category_score: 0
+  rank: 7
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 76.46092326761413
-  llm_score: 85
+  score: 60.96092326761415
+  llm_score: 75
   recency_score: 42.3046163380707
-  rank: 7
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 62.49386369877199
-  llm_score: 78
-  recency_score: 0.4693184938599064
+  category_score: 0
   rank: 8
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 60.8400622403612
+  score: 54.340062240361206
   llm_score: 65
   recency_score: 44.200311201805995
+  category_score: 0
   rank: 9
-- slug: rumors
-  title: RUMORS
-  score: 59.83613691258604
-  llm_score: 65
-  recency_score: 39.1806845629302
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 49.09386369877199
+  llm_score: 70
+  recency_score: 0.4693184938599064
+  category_score: 0
   rank: 10
 ---
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.

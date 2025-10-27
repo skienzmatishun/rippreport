@@ -22,63 +22,73 @@ alttags: Scale balancing money bag against a person figure, symbolizing alleged 
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 90.93359302371175
-  llm_score: 90
+  score: 82.63359302371177
+  llm_score: 91
   recency_score: 94.66796511855877
+  category_score: 0
   rank: 1
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 84.10764360478439
+  score: 75.60764360478439
   llm_score: 85
   recency_score: 80.5382180239219
+  category_score: 0
   rank: 2
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 79.69014258029426
-  llm_score: 85
-  recency_score: 58.450712901471334
-  rank: 3
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 78.24230004805162
-  llm_score: 90
-  recency_score: 31.21150024025806
-  rank: 4
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 74.70317696989248
+  score: 65.74230004805162
   llm_score: 85
-  recency_score: 33.51588484946244
-  rank: 5
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 74.25279266204939
-  llm_score: 90
-  recency_score: 11.263963310246938
-  rank: 6
+  recency_score: 31.21150024025806
+  category_score: 0
+  rank: 3
 - slug: threesome
   title: THREESOME
-  score: 71.60890176713603
+  score: 63.10890176713604
   llm_score: 85
   recency_score: 18.044508835680173
-  rank: 7
+  category_score: 0
+  rank: 4
 - slug: shadow-government
   title: SHADOW GOVERNMENT
-  score: 71.12970187685954
+  score: 62.62970187685955
   llm_score: 85
   recency_score: 15.648509384297702
-  rank: 8
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 68.88994421893925
+  category_score: 0
+  rank: 5
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 62.57025208563968
   llm_score: 85
-  recency_score: 4.449721094696223
-  rank: 9
+  recency_score: 15.35126042819837
+  category_score: 0
+  rank: 6
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 61.427080659596186
+  llm_score: 85
+  recency_score: 9.635403297980877
+  category_score: 0
+  rank: 7
 - slug: a-spiders-web
   title: A SPIDER’S WEB
-  score: 68.67113278230873
+  score: 60.171132782308746
   llm_score: 85
   recency_score: 3.355663911543685
+  category_score: 0
+  rank: 8
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 57.19014258029428
+  llm_score: 65
+  recency_score: 58.450712901471334
+  category_score: 0
+  rank: 9
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 54.05279266204939
+  llm_score: 74
+  recency_score: 11.263963310246938
+  category_score: 0
   rank: 10
 ---
 Baldwin County is a cesspool of political and judicial corruption. In the last 10 years the citizens of Baldwin County, especially Fairhope, have been slapped in the face with blatant corruption. Complaints to the Attorney General do not even generate a response. The Judiciary, Bar and Ethics Commission have a repeated record of one paragraph responses dismissing any and all documented evidence.

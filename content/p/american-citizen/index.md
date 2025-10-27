@@ -19,63 +19,73 @@ alttags: American flag symbolizing justice system failings in Baldwin County’s
 related_articles:
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 95.83629014021759
+  score: 86.33629014021759
   llm_score: 95
   recency_score: 99.18145070108791
+  category_score: 0
   rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 82.0
+  score: 73.00000000000001
   llm_score: 90
   recency_score: 50
+  category_score: 0
   rank: 2
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 78.0
-  llm_score: 85
-  recency_score: 50
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 66.58622086571793
+  llm_score: 95
+  recency_score: 0.43110432858965353
+  category_score: 0
   rank: 3
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 77.71761680752583
-  llm_score: 95
+  score: 66.11761680752583
+  llm_score: 92
   recency_score: 8.588084037629146
+  category_score: 0
   rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 76.53170578054188
-  llm_score: 95
-  recency_score: 2.658528902709438
-  rank: 5
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 76.3133507496293
-  llm_score: 95
+  score: 64.7133507496293
+  llm_score: 92
   recency_score: 1.566753748146461
+  category_score: 0
+  rank: 5
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 64.60000000000001
+  llm_score: 78
+  recency_score: 50
+  category_score: 0
   rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 76.1024643517003
-  llm_score: 95
-  recency_score: 0.512321758501535
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 63.72464315476345
+  llm_score: 90
+  recency_score: 3.623215773817211
+  category_score: 0
   rank: 7
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 63.5317057805419
+  llm_score: 90
+  recency_score: 2.658528902709438
+  category_score: 0
+  rank: 8
 - slug: no-justice
   title: NO JUSTICE
-  score: 72.4636379608563
+  score: 63.46363796085631
   llm_score: 90
   recency_score: 2.318189804281508
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 68.55705592271107
-  llm_score: 85
-  recency_score: 2.7852796135553795
-  rank: 9
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 67.13916117711129
+  score: 53.057055922711086
   llm_score: 75
-  recency_score: 35.69580588555647
+  recency_score: 2.7852796135553795
+  category_score: 0
   rank: 10
 ---
 A good example of Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure, is all exposed in one incident, the McSharry assault case.

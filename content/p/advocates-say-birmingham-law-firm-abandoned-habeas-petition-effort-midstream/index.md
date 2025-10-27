@@ -7,65 +7,75 @@ categories:
 authors:
 - nancy-koerner
 related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 93.77733007636273
-  llm_score: 95
-  recency_score: 88.88665038181365
-  rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 92.53359302371176
-  llm_score: 92
-  recency_score: 94.66796511855877
-  rank: 2
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 86.0
+  score: 85.43359302371175
   llm_score: 95
-  recency_score: 50
-  rank: 3
+  recency_score: 94.66796511855877
+  category_score: 0
+  rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 84.27733007636273
+  llm_score: 95
+  recency_score: 88.88665038181365
+  category_score: 0
+  rank: 2
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 83.60000000000001
+  score: 74.4
   llm_score: 92
   recency_score: 50
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 82.0
-  llm_score: 90
-  recency_score: 50
-  rank: 5
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 79.7912037447723
-  llm_score: 92
-  recency_score: 30.95601872386148
-  rank: 6
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 79.64866887953505
-  llm_score: 95
-  recency_score: 18.243344397675273
-  rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 78.0
+  score: 69.50000000000001
   llm_score: 85
   recency_score: 50
-  rank: 8
+  category_score: 0
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 65.69120374477231
+  llm_score: 85
+  recency_score: 30.95601872386148
+  category_score: 0
+  rank: 5
 - slug: innocent
   title: INNOCENT
-  score: 76.71674521534058
-  llm_score: 95
+  score: 63.71674521534059
+  llm_score: 90
   recency_score: 3.583726076702889
-  rank: 9
+  category_score: 0
+  rank: 6
+- slug: no-justice
+  title: NO JUSTICE
+  score: 63.68433885557824
+  llm_score: 85
+  recency_score: 20.921694277891152
+  category_score: 0
+  rank: 7
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 62.50000000000001
+  llm_score: 75
+  recency_score: 50
+  category_score: 0
+  rank: 8
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 73.12948262152058
-  llm_score: 90
+  score: 60.62948262152059
+  llm_score: 85
   recency_score: 5.647413107602894
+  category_score: 0
+  rank: 9
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 55.1772050791888
+  llm_score: 75
+  recency_score: 13.386025395943985
+  category_score: 0
   rank: 10
 ---
 <a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>

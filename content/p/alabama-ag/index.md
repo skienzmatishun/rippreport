@@ -12,63 +12,73 @@ alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to S
 related_articles:
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 90.0
+  score: 80.0
   llm_score: 100
   recency_score: 50
+  category_score: 0
   rank: 1
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 86.0
-  llm_score: 95
+  score: 70.2
+  llm_score: 86
   recency_score: 50
+  category_score: 0
   rank: 2
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 83.60000000000001
-  llm_score: 92
-  recency_score: 50
-  rank: 3
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 83.60000000000001
-  llm_score: 92
-  recency_score: 50
-  rank: 4
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 83.60000000000001
-  llm_score: 92
+  score: 69.50000000000001
+  llm_score: 85
   recency_score: 50
+  category_score: 0
+  rank: 3
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 68.10000000000001
+  llm_score: 83
+  recency_score: 50
+  category_score: 0
+  rank: 4
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 68.10000000000001
+  llm_score: 83
+  recency_score: 50
+  category_score: 0
   rank: 5
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 82.0
-  llm_score: 90
-  recency_score: 50
-  rank: 6
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 81.2
-  llm_score: 89
+  score: 66.7
+  llm_score: 81
   recency_score: 50
-  rank: 7
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 78.0
-  llm_score: 85
-  recency_score: 50
-  rank: 8
+  category_score: 0
+  rank: 6
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 78.0
-  llm_score: 85
+  score: 64.60000000000001
+  llm_score: 78
   recency_score: 50
+  category_score: 0
+  rank: 7
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 55.50000000000001
+  llm_score: 65
+  recency_score: 50
+  category_score: 0
+  rank: 8
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 55.50000000000001
+  llm_score: 65
+  recency_score: 50
+  category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 62.0
-  llm_score: 65
+  score: 53.400000000000006
+  llm_score: 62
   recency_score: 50
+  category_score: 0
   rank: 10
 ---
 ### Mr Steve Marshall

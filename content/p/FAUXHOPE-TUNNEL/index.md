@@ -13,63 +13,73 @@ alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restr
 related_articles:
 - slug: all-mouth
   title: ALL MOUTH
-  score: 92.74222555805996
+  score: 83.54222555805995
   llm_score: 92
   recency_score: 95.71112779029973
+  category_score: 0
   rank: 1
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 73.93570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
+  category_score: 0
+  rank: 2
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 87.56882643931993
-  llm_score: 92
+  score: 73.46882643931994
+  llm_score: 85
   recency_score: 69.84413219659965
-  rank: 2
+  category_score: 0
+  rank: 3
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 76.77838723901063
-  llm_score: 87
+  score: 70.17838723901062
+  llm_score: 90
   recency_score: 35.89193619505306
-  rank: 3
+  category_score: 0
+  rank: 4
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 66.33297167738047
+  llm_score: 85
+  recency_score: 34.164858386902274
+  category_score: 0
+  rank: 5
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 76.2966427783578
-  llm_score: 95
+  score: 59.79664277835781
+  llm_score: 85
   recency_score: 1.4832138917890048
-  rank: 4
+  category_score: 0
+  rank: 6
 - slug: in-the-dark
   title: IN THE DARK
-  score: 68.25030136070713
+  score: 59.75030136070714
   llm_score: 85
   recency_score: 1.251506803535654
-  rank: 5
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 68.21766117429252
-  llm_score: 85
-  recency_score: 1.0883058714626104
-  rank: 6
+  category_score: 0
+  rank: 7
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION
-  score: 68.07039853716508
+  score: 59.57039853716508
   llm_score: 85
   recency_score: 0.3519926858253926
-  rank: 7
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 63.11282858459236
-  llm_score: 78
-  recency_score: 3.5641429229617514
+  category_score: 0
   rank: 8
 - slug: hell-yea
   title: HELL YEA
-  score: 60.196140260537916
+  score: 52.69614026053792
   llm_score: 75
   recency_score: 0.9807013026895641
+  category_score: 0
   rank: 9
 - slug: going-down
   title: GOING DOWN
-  score: 56.569400152657956
-  llm_score: 70
+  score: 46.06940015265796
+  llm_score: 65
   recency_score: 2.8470007632897696
+  category_score: 0
   rank: 10
 ---
 Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. The city attorney is put in place to protect “THEIR” agenda. The municipal judge is a major developer in Fauxhope and his developments must meet the approval of the council that “APPOINTED” him as municipal judge.

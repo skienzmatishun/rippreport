@@ -12,63 +12,73 @@ alttags: Bald eagle head against a blurred American flag background, symbolizing
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 95.67392032634467
+  score: 86.17392032634467
   llm_score: 95
   recency_score: 98.36960163172333
+  category_score: 0
   rank: 1
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 91.19474191901475
+  score: 82.19474191901476
   llm_score: 90
   recency_score: 95.97370959507373
+  category_score: 0
   rank: 2
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 88.24058076477368
-  llm_score: 90
-  recency_score: 81.20290382386844
-  rank: 3
 - slug: game-on
   title: GAME ON
-  score: 85.97322154942498
-  llm_score: 85
+  score: 80.97322154942498
+  llm_score: 90
   recency_score: 89.86610774712484
+  category_score: 0
+  rank: 3
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 75.7405807647737
+  llm_score: 85
+  recency_score: 81.20290382386844
+  category_score: 0
   rank: 4
 - slug: gob-coup
   title: GOB COUP
-  score: 79.68728672756747
-  llm_score: 90
+  score: 67.18728672756747
+  llm_score: 85
   recency_score: 38.436433637837325
+  category_score: 0
   rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 61.50792557433364
+  llm_score: 85
+  recency_score: 10.039627871668154
+  category_score: 0
+  rank: 6
 - slug: backseat-quarterbacks
   title: BACKSEAT QUARTERBACKS
-  score: 71.45412058216995
-  llm_score: 85
+  score: 55.95412058216996
+  llm_score: 75
   recency_score: 17.270602910849775
-  rank: 6
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 70.0468053642823
-  llm_score: 85
-  recency_score: 10.234026821411552
+  category_score: 0
   rank: 7
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 68.29502178361366
-  llm_score: 85
-  recency_score: 1.4751089180682964
-  rank: 8
 - slug: skunked
   title: SKUNKED
-  score: 64.60395356266882
-  llm_score: 78
+  score: 54.703953562668815
+  llm_score: 75
   recency_score: 11.019767813344055
+  category_score: 0
+  rank: 8
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 52.79502178361366
+  llm_score: 75
+  recency_score: 1.4751089180682964
+  category_score: 0
   rank: 9
 - slug: quarterback-sneak
   title: QUARTERBACK SNEAK
-  score: 52.20325197320484
-  llm_score: 65
+  score: 52.70325197320485
+  llm_score: 75
   recency_score: 1.0162598660242268
+  category_score: 0
   rank: 10
 ---
 Originally the Ripp Report was local information about Fairhope politics. The idea came about due to the lack of honest information coming from Fairhope city hall, the mayor in particular. That was over 10 years ago, nothing has changed. Facebook then became our social media site which spawned Baldwin County Legal Eagle. To expand our Gmail connection the blog site [The Ripp Report](https://rippreport.com) will be available. All of these forums will work together to maximize exposure.

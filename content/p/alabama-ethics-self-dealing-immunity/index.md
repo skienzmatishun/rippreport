@@ -11,63 +11,73 @@ alttags: Politician figure holds a bag of money while another stands empty-hande
 related_articles:
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 99.62009294457451
+  score: 89.62009294457452
   llm_score: 100
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 1
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 98.62490003199702
-  llm_score: 100
+  score: 87.22490003199702
+  llm_score: 98
   recency_score: 93.12450015998506
+  category_score: 0
   rank: 2
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 76.00975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  category_score: 0
+  rank: 3
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 75.25844022710412
+  llm_score: 85
+  recency_score: 78.79220113552056
+  category_score: 0
+  rank: 4
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 85.25815862604524
-  llm_score: 92
+  score: 71.15815862604524
+  llm_score: 85
   recency_score: 58.29079313022616
-  rank: 3
+  category_score: 0
+  rank: 5
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
-  score: 79.76030246445875
-  llm_score: 95
+  score: 66.76030246445875
+  llm_score: 90
   recency_score: 18.801512322293714
-  rank: 4
+  category_score: 0
+  rank: 6
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 79.02828195143118
-  llm_score: 92
+  score: 64.92828195143117
+  llm_score: 85
   recency_score: 27.14140975715586
-  rank: 5
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 78.5068323515118
-  llm_score: 95
-  recency_score: 12.534161757559053
-  rank: 6
+  category_score: 0
+  rank: 7
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 76.16941302796523
-  llm_score: 92
+  score: 62.069413027965226
+  llm_score: 85
   recency_score: 12.847065139826096
-  rank: 7
+  category_score: 0
+  rank: 8
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA
-  score: 74.04619131904495
-  llm_score: 92
+  score: 59.94619131904495
+  llm_score: 85
   recency_score: 2.230956595224708
-  rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 73.99769259535007
-  llm_score: 92
-  recency_score: 1.9884629767503073
+  category_score: 0
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 68.47261545821016
-  llm_score: 85
+  score: 42.47261545821017
+  llm_score: 60
   recency_score: 2.363077291050805
+  category_score: 0
   rank: 10
 ---
 Alabama Ethics Commission is an organization that doles out immunity from prosecution to politicians seeking legal graft.

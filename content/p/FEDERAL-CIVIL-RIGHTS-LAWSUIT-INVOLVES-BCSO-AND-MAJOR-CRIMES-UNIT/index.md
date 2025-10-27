@@ -17,63 +17,73 @@ alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal 
 related_articles:
 - slug: sheriff-mack-out-oj-french-lawsuit-in
   title: Sheriff Mack Out OJ French Lawsuit In
-  score: 93.54528047193719
-  llm_score: 92
+  score: 86.4452804719372
+  llm_score: 95
   recency_score: 99.72640235968593
+  category_score: 0
   rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 93.32789538259509
-  llm_score: 92
+  score: 82.02789538259508
+  llm_score: 89
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 89.94532047544666
-  llm_score: 100
-  recency_score: 49.72660237723329
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 78.02312487593503
+  llm_score: 85
+  recency_score: 92.61562437967505
+  category_score: 0
   rank: 3
 - slug: justified
   title: JUSTIFIED
-  score: 86.97623272188054
+  score: 77.47623272188054
   llm_score: 95
   recency_score: 54.88116360940264
+  category_score: 0
   rank: 4
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 86.52312487593501
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 69.44532047544666
   llm_score: 85
-  recency_score: 92.61562437967505
+  recency_score: 49.72660237723329
+  category_score: 0
   rank: 5
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 85.58357363897636
-  llm_score: 85
-  recency_score: 87.91786819488183
-  rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 79.31504765659547
-  llm_score: 95
-  recency_score: 16.575238282977313
-  rank: 7
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 79.14222555805995
-  llm_score: 75
-  recency_score: 95.71112779029973
-  rank: 8
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 76.46092326761413
-  llm_score: 85
-  recency_score: 42.3046163380707
-  rank: 9
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 76.16487863775171
+  score: 67.66487863775173
   llm_score: 85
   recency_score: 40.82439318875856
+  category_score: 0
+  rank: 6
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 61.660923267614145
+  llm_score: 76
+  recency_score: 42.3046163380707
+  category_score: 0
+  rank: 7
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 60.673646812728975
+  llm_score: 85
+  recency_score: 5.868234063644852
+  category_score: 0
+  rank: 8
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 59.55323523181136
+  llm_score: 85
+  recency_score: 0.26617615905673986
+  category_score: 0
+  rank: 9
+- slug: rumors
+  title: RUMORS
+  score: 55.81504765659547
+  llm_score: 75
+  recency_score: 16.575238282977313
+  category_score: 0
   rank: 10
 ---
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***

@@ -14,63 +14,73 @@ alttags: Gavel and legal documents represent a lawsuit filed against Fairhope Pl
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 91.0898528806295
-  llm_score: 90
+  score: 82.7898528806295
+  llm_score: 91
   recency_score: 95.44926440314748
+  category_score: 0
   rank: 1
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 88.92190583576996
-  llm_score: 90
+  score: 79.22190583576996
+  llm_score: 89
   recency_score: 84.60952917884977
+  category_score: 0
   rank: 2
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 82.79563312750165
-  llm_score: 95
-  recency_score: 33.97816563750821
-  rank: 3
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 81.94532047544666
-  llm_score: 90
+  score: 76.44532047544666
+  llm_score: 95
   recency_score: 49.72660237723329
+  category_score: 0
+  rank: 3
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 70.96808419803509
+  llm_score: 85
+  recency_score: 57.34042099017541
+  category_score: 0
   rank: 4
 - slug: fairness
   title: FAIRNESS
-  score: 77.78317213269509
+  score: 69.2831721326951
   llm_score: 85
   recency_score: 48.915860663475456
+  category_score: 0
   rank: 5
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 75.44467018976354
-  llm_score: 90
-  recency_score: 17.223350948817675
-  rank: 6
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 71.75001436564732
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 66.29563312750165
   llm_score: 85
-  recency_score: 18.75007182823656
-  rank: 7
+  recency_score: 33.97816563750821
+  category_score: 0
+  rank: 6
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 71.67878151987449
+  score: 63.178781519874505
   llm_score: 85
   recency_score: 18.393907599372476
+  category_score: 0
+  rank: 7
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 62.94467018976354
+  llm_score: 85
+  recency_score: 17.223350948817675
+  category_score: 0
   rank: 8
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER
-  score: 69.52673204660475
-  llm_score: 85
+  score: 57.526732046604764
+  llm_score: 80
   recency_score: 7.633660233023765
+  category_score: 0
   rank: 9
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 53.17043574274372
-  llm_score: 65
-  recency_score: 5.8521787137186125
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 56.25001436564732
+  llm_score: 75
+  recency_score: 18.75007182823656
+  category_score: 0
   rank: 10
 ---
 In June of this year, the Planning and Zoning Board expressed their frustration with citizens of Fairhope who defend themselves by legal means. Friends of Fly Creek, Plaintiffs — and certainly friends of the public, brought a lawsuit against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River group LLC, Defendants. The Defendants in turn moved to dismiss the lawsuit all together. Planning and Zoning doubled down on their decision, calling the lawsuit "frivolous."

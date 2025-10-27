@@ -14,63 +14,73 @@ alttags: John Merrill; one of few who acted on election tampering complaints, am
 related_articles:
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 82.98553700495827
-  llm_score: 80
-  recency_score: 94.92768502479139
-  rank: 1
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 78.0
+  score: 78.48553700495829
   llm_score: 85
-  recency_score: 50
-  rank: 2
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 76.41642191956065
-  llm_score: 80
-  recency_score: 62.08210959780326
-  rank: 3
+  recency_score: 94.92768502479139
+  category_score: 0
+  rank: 1
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 68.06022021543309
-  llm_score: 85
+  score: 63.06022021543309
+  llm_score: 90
   recency_score: 0.301101077165421
+  category_score: 0
+  rank: 2
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 62.50000000000001
+  llm_score: 75
+  recency_score: 50
+  category_score: 0
+  rank: 3
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 60.265457622180776
+  llm_score: 85
+  recency_score: 3.827288110903858
+  category_score: 0
   rank: 4
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 68.05638790447402
+  score: 59.55638790447403
   llm_score: 85
   recency_score: 0.28193952237011366
+  category_score: 0
   rank: 5
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 66.02739968526954
-  llm_score: 70
+  score: 55.52739968526956
+  llm_score: 65
   recency_score: 50.13699842634772
+  category_score: 0
   rank: 6
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 64.76545762218078
-  llm_score: 80
-  recency_score: 3.827288110903858
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 49.2823686763237
+  llm_score: 70
+  recency_score: 1.4118433816184552
+  category_score: 0
   rank: 7
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 48.93524565340775
+  llm_score: 65
+  recency_score: 17.176228267038702
+  category_score: 0
+  rank: 8
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 48.787912357243805
+  llm_score: 65
+  recency_score: 16.439561786218995
+  category_score: 0
+  rank: 9
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 60.76336334818888
-  llm_score: 75
+  score: 46.26336334818889
+  llm_score: 65
   recency_score: 3.816816740944404
-  rank: 8
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 60.27248869897099
-  llm_score: 75
-  recency_score: 1.3624434948549364
-  rank: 9
-- slug: observations-of-a-poll-watcher
-  title: “Observations of a Poll Watcher”
-  score: 59.77061878848929
-  llm_score: 70
-  recency_score: 18.853093942446446
+  category_score: 0
   rank: 10
 ---
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!

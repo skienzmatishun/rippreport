@@ -12,63 +12,73 @@ alttags: Fairhope Mayor Wilson facing challenges; a symbolic representation of o
 related_articles:
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION
-  score: 84.2139847791858
+  score: 75.2139847791858
   llm_score: 90
   recency_score: 61.06992389592894
+  category_score: 0
   rank: 1
 - slug: hell-yea
   title: HELL YEA
-  score: 79.75437397178277
+  score: 71.25437397178277
   llm_score: 85
   recency_score: 58.77186985891382
+  category_score: 0
   rank: 2
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 76.25369096364096
-  llm_score: 90
-  recency_score: 21.268454818204823
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 70.09217832844679
+  llm_score: 85
+  recency_score: 52.96089164223393
+  category_score: 0
   rank: 3
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 73.37199426882628
-  llm_score: 82
+  score: 67.27199426882629
+  llm_score: 85
   recency_score: 38.85997134413138
+  category_score: 0
   rank: 4
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 63.75369096364097
+  llm_score: 85
+  recency_score: 21.268454818204823
+  category_score: 0
+  rank: 5
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 72.01160496191581
+  score: 63.011604961915815
   llm_score: 90
   recency_score: 0.05802480957904213
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 71.45412058216995
+  score: 62.95412058216996
   llm_score: 85
   recency_score: 17.270602910849775
-  rank: 6
+  category_score: 0
+  rank: 7
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 69.75087530153704
+  score: 61.25087530153704
   llm_score: 85
   recency_score: 8.754376507685183
-  rank: 7
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 68.11527529866427
-  llm_score: 85
-  recency_score: 0.5763764933213827
+  category_score: 0
   rank: 8
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 53.17686669222855
-  llm_score: 65
-  recency_score: 5.884333461142748
-  rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 52.08959221001944
-  llm_score: 65
+  score: 52.58959221001945
+  llm_score: 75
   recency_score: 0.44796105009721165
+  category_score: 0
+  rank: 9
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 46.67686669222856
+  llm_score: 65
+  recency_score: 5.884333461142748
+  category_score: 0
   rank: 10
 ---
 Being a Mayor has challenges that most of us cannot relate to. From the mundane to serious issues, everyday brings something different Fairhope’s Mayor Wilson took office with no transition from the last administration. One day she is a businesswomen the next she is Mayor, now that is a learning curve. Her next experience was that the elected City Council went into obstruction mode and made it perfectly clear they would oppose the Mayor’s every effort. The sad thing is that the Council’s actions has hurt the city and they have the dubious reputation of being the worst council in recent history.

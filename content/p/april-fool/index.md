@@ -8,65 +8,75 @@ authors:
 - admin
 alttags: Skull wearing a jester’s hat, symbolizing April Fool’s Day disregard for serious health concerns in Alabama
 related_articles:
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 87.53109549158327
-  llm_score: 95
-  recency_score: 57.65547745791634
-  rank: 1
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 85.22009294457453
-  llm_score: 82
+  score: 82.62009294457452
+  llm_score: 90
   recency_score: 98.10046472287257
+  category_score: 0
+  rank: 1
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 78.03109549158327
+  llm_score: 95
+  recency_score: 57.65547745791634
+  category_score: 0
   rank: 2
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 79.3002072693518
-  llm_score: 75
-  recency_score: 96.50103634675902
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 71.19014258029428
+  llm_score: 85
+  recency_score: 58.450712901471334
+  category_score: 0
   rank: 3
 - slug: the-jester
   title: THE JESTER
-  score: 77.70309204579155
-  llm_score: 85
+  score: 65.70309204579156
+  llm_score: 80
   recency_score: 48.51546022895776
+  category_score: 0
   rank: 4
-- slug: blind-leading-the-blind
-  title: BLIND LEADING THE BLIND
-  score: 77.29014258029427
-  llm_score: 82
-  recency_score: 58.450712901471334
-  rank: 5
 - slug: wear-a-mask
   title: WEAR A MASK
-  score: 71.29061318606567
+  score: 64.29061318606568
   llm_score: 70
   recency_score: 76.45306593032835
-  rank: 6
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 69.5170445944745
-  llm_score: 70
-  recency_score: 67.58522297237245
-  rank: 7
+  category_score: 0
+  rank: 5
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 66.36254669889007
-  llm_score: 70
+  score: 62.862546698890085
+  llm_score: 75
   recency_score: 51.81273349445037
-  rank: 8
-- slug: hate
-  title: HATE
-  score: 57.295304719602605
-  llm_score: 70
-  recency_score: 6.47652359801304
-  rank: 9
+  category_score: 0
+  rank: 6
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 59.97531235739841
+  llm_score: 65
+  recency_score: 72.37656178699199
+  category_score: 0
+  rank: 7
 - slug: halloween-characters
   title: HALLOWEEN CHARACTERS
-  score: 56.83825535238421
+  score: 50.338255352384216
   llm_score: 65
   recency_score: 24.19127676192105
+  category_score: 0
+  rank: 8
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 46.813170710288134
+  llm_score: 65
+  recency_score: 6.565853551440616
+  category_score: 0
+  rank: 9
+- slug: hate
+  title: HATE
+  score: 46.79530471960261
+  llm_score: 65
+  recency_score: 6.47652359801304
+  category_score: 0
   rank: 10
 ---
 The month of April starts out with a day for fools, APRIL FOOL’S DAY. In Alabama some citizens are participating a 100%, at the potential risk of others.

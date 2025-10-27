@@ -12,63 +12,73 @@ alttags: Alabama welcome sign reads Sweet Home Alabama, reflecting state politic
 related_articles:
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA
-  score: 83.5866878197373
-  llm_score: 85
+  score: 78.5866878197373
+  llm_score: 90
   recency_score: 77.93343909868652
+  category_score: 0
   rank: 1
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 76.00975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  category_score: 0
+  rank: 2
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 76.56774635711682
-  llm_score: 90
+  score: 66.86774635711683
+  llm_score: 89
   recency_score: 22.8387317855841
-  rank: 2
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 76.47261545821016
-  llm_score: 95
-  recency_score: 2.363077291050805
+  category_score: 0
   rank: 3
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 72.93193927883213
+  score: 64.43193927883213
   llm_score: 85
   recency_score: 24.659696394160648
+  category_score: 0
   rank: 4
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
-  score: 72.83825535238421
+  score: 64.33825535238422
   llm_score: 85
   recency_score: 24.19127676192105
+  category_score: 0
   rank: 5
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 68.20662071395367
-  llm_score: 85
+  score: 63.206620713953676
+  llm_score: 90
   recency_score: 1.0331035697683377
+  category_score: 0
   rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 68.19667836791153
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 59.97261545821017
   llm_score: 85
-  recency_score: 0.9833918395576343
+  recency_score: 2.363077291050805
+  category_score: 0
   rank: 7
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 66.43570824436047
-  llm_score: 65
-  recency_score: 72.17854122180232
-  rank: 8
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 60.155392365078995
+  score: 52.655392365079
   llm_score: 75
   recency_score: 0.7769618253949687
+  category_score: 0
+  rank: 8
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 49.19667836791153
+  llm_score: 70
+  recency_score: 0.9833918395576343
+  category_score: 0
   rank: 9
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 52.924742157306035
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 46.76722334443014
   llm_score: 65
-  recency_score: 4.623710786530182
+  recency_score: 6.336116722150677
+  category_score: 0
   rank: 10
 ---
 Yesterday Alabama stood on the side of Country before party. Some think the party and straight ticket voting is the only answer, regardless of allegations. Truth is this is the core problem and bad politicians get elected this way. The party will cover up crimes hinder investigations and deny deny deny before admitting the party members guilt.

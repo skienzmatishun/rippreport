@@ -12,63 +12,73 @@ alttags: Eyeglasses resting on a document, symbolizing poll watcher observations
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”
-  score: 91.72789538259508
-  llm_score: 90
+  score: 86.22789538259508
+  llm_score: 95
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
-- slug: pay-off-and-election-fraud
-  title: PAY OFF AND ELECTION FRAUD
-  score: 87.78201851846809
-  llm_score: 85
-  recency_score: 98.91009259234048
-  rank: 2
 - slug: elected-or-selected
   title: ELECTED OR SELECTED
-  score: 87.24740235768714
-  llm_score: 85
+  score: 80.14740235768714
+  llm_score: 87
   recency_score: 96.23701178843567
+  category_score: 0
+  rank: 2
+- slug: pay-off-and-election-fraud
+  title: PAY OFF AND ELECTION FRAUD
+  score: 79.2820185184681
+  llm_score: 85
+  recency_score: 98.91009259234048
+  category_score: 0
   rank: 3
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 85.48748877687456
+- slug: fraud
+  title: FRAUD
+  score: 78.38179115997222
   llm_score: 85
-  recency_score: 87.43744388437275
+  recency_score: 94.40895579986105
+  category_score: 0
   rank: 4
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 75.23763081530716
-  llm_score: 85
-  recency_score: 36.18815407653578
-  rank: 5
 - slug: investigative-reporting
   title: INVESTIGATIVE REPORTING
-  score: 69.68018643855639
-  llm_score: 65
-  recency_score: 88.40093219278197
-  rank: 6
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 68.41779647074497
+  score: 77.1801864385564
   llm_score: 85
-  recency_score: 2.088982353724851
+  recency_score: 88.40093219278197
+  category_score: 0
+  rank: 5
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 76.98748877687456
+  llm_score: 85
+  recency_score: 87.43744388437275
+  category_score: 0
+  rank: 6
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 71.38179115997222
+  llm_score: 75
+  recency_score: 94.40895579986105
+  category_score: 0
   rank: 7
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 59.7193186493482
-  llm_score: 70
-  recency_score: 18.596593246741016
-  rank: 8
 - slug: vote
   title: VOTE
-  score: 58.851334322569194
-  llm_score: 70
+  score: 55.3513343225692
+  llm_score: 75
   recency_score: 14.25667161284597
+  category_score: 0
+  rank: 8
+- slug: stealing-our-democracy
+  title: STEALING OUR DEMOCRACY
+  score: 52.917796470744975
+  llm_score: 75
+  recency_score: 2.088982353724851
+  category_score: 0
   rank: 9
 - slug: election-ad
   title: ELECTION AD
-  score: 56.57409943959583
-  llm_score: 70
+  score: 46.074099439595834
+  llm_score: 65
   recency_score: 2.8704971979791183
+  category_score: 0
   rank: 10
 ---
 STOPVOTERFRAUDNOW.COM

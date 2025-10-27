@@ -18,65 +18,75 @@ authors:
 - admin
 alttags: Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections
 related_articles:
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 71.7810944172931
+  llm_score: 85
+  recency_score: 61.405472086465494
+  category_score: 0
+  rank: 1
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT
-  score: 79.88389745041349
+  score: 71.38389745041349
   llm_score: 85
   recency_score: 59.41948725206741
-  rank: 1
+  category_score: 0
+  rank: 2
 - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
   title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 79.34309269884407
+  score: 70.84309269884407
   llm_score: 85
   recency_score: 56.715463494220344
-  rank: 2
+  category_score: 0
+  rank: 3
+- slug: runoff
+  title: RUNOFF
+  score: 68.07762382000342
+  llm_score: 85
+  recency_score: 42.88811910001705
+  category_score: 0
+  rank: 4
 - slug: congressional-catalyst
   title: CONGRESSIONAL CATALYST
-  score: 73.22436249595361
-  llm_score: 82
+  score: 67.1243624959536
+  llm_score: 85
   recency_score: 38.121812479767996
-  rank: 3
+  category_score: 0
+  rank: 5
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 72.04900835119811
+  score: 63.54900835119811
   llm_score: 85
   recency_score: 20.245041755990528
-  rank: 4
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 65.80048668318457
-  llm_score: 82
-  recency_score: 1.002433415922802
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 64.25369096364096
+  score: 56.75369096364097
   llm_score: 75
   recency_score: 21.268454818204823
-  rank: 6
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 60.924742157306035
-  llm_score: 75
-  recency_score: 4.623710786530182
+  category_score: 0
   rank: 7
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 60.624753502968304
+  score: 54.12475350296832
   llm_score: 65
   recency_score: 43.12376751484153
+  category_score: 0
   rank: 8
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 60.55098452894464
-  llm_score: 75
-  recency_score: 2.7549226447232087
-  rank: 9
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
-  score: 55.8226265046153
+  score: 49.32262650461531
   llm_score: 65
   recency_score: 19.113132523076512
+  category_score: 0
+  rank: 9
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 46.42474215730604
+  llm_score: 65
+  recency_score: 4.623710786530182
+  category_score: 0
   rank: 10
 ---
 January 6th will go down in history for several reasons:
