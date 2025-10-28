@@ -13,63 +13,73 @@ alttags: Historic photo shows a stream flowing through Big Head Gulley in Fairho
 related_articles:
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
-  score: 87.83629014021759
-  llm_score: 85
+  score: 80.73629014021759
+  llm_score: 87
   recency_score: 99.18145070108791
+  category_score: 0
   rank: 1
 - slug: big-heads
   title: BIG HEADS
-  score: 87.56641283325074
+  score: 79.06641283325074
   llm_score: 85
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 2
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 80.72638603917497
+  score: 72.22638603917497
   llm_score: 85
   recency_score: 63.63193019587483
+  category_score: 0
   rank: 3
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 73.34434506009411
-  llm_score: 70
+  score: 69.84434506009413
+  llm_score: 75
   recency_score: 86.72172530047058
+  category_score: 0
   rank: 4
 - slug: holes
   title: HOLES
-  score: 70.30592090193721
+  score: 62.80592090193721
   llm_score: 75
   recency_score: 51.52960450968603
+  category_score: 0
   rank: 5
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 59.73975441483146
-  llm_score: 70
-  recency_score: 18.69877207415731
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 61.43208520393645
+  llm_score: 65
+  recency_score: 79.6604260196822
+  category_score: 0
   rank: 6
-- slug: water
-  title: Water
-  score: 56.23956625520726
+- slug: full-plate
+  title: FULL PLATE
+  score: 60.15815510057001
   llm_score: 70
-  recency_score: 1.1978312760363046
+  recency_score: 55.79077550285001
+  category_score: 0
   rank: 7
+- slug: fairness
+  title: FAIRNESS
+  score: 54.340062240361206
+  llm_score: 65
+  recency_score: 44.200311201805995
+  category_score: 0
+  rank: 8
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 56.20947060996274
-  llm_score: 70
+  score: 52.70947060996275
+  llm_score: 75
   recency_score: 1.0473530498137102
-  rank: 8
-- slug: survey
-  title: SURVEY
-  score: 50.691914960300615
-  llm_score: 60
-  recency_score: 13.459574801503088
+  category_score: 0
   rank: 9
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 41.770168499137185
+  score: 36.77016849913719
   llm_score: 50
   recency_score: 8.850842495685942
+  category_score: 0
   rank: 10
 ---
 FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION

@@ -10,63 +10,73 @@ alttags: Interior view of a church sanctuary with rows of pews, an organ loft, a
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 87.14222555805995
-  llm_score: 85
+  score: 80.04222555805995
+  llm_score: 87
   recency_score: 95.71112779029973
+  category_score: 0
   rank: 1
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 83.80167323219754
+  score: 75.30167323219754
   llm_score: 85
   recency_score: 79.0083661609877
+  category_score: 0
   rank: 2
-- slug: catalyst
-  title: CATALYST
-  score: 81.77877733062658
-  llm_score: 85
-  recency_score: 68.8938866531329
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 72.22789538259508
+  llm_score: 75
+  recency_score: 98.63947691297537
+  category_score: 0
   rank: 3
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 81.63181386565738
-  llm_score: 80
-  recency_score: 88.15906932828686
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 68.00151487477555
+  llm_score: 75
+  recency_score: 77.50757437387774
+  category_score: 0
   rank: 4
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 77.97322154942498
-  llm_score: 75
+  score: 66.97322154942498
+  llm_score: 70
   recency_score: 89.86610774712484
+  category_score: 0
   rank: 5
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 65.01962391400207
+  llm_score: 70
+  recency_score: 80.0981195700103
+  category_score: 0
+  rank: 6
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 63.13181386565738
+  llm_score: 65
+  recency_score: 88.15906932828686
+  category_score: 0
+  rank: 7
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 59.85682478958159
+  llm_score: 65
+  recency_score: 71.78412394790789
+  category_score: 0
+  rank: 8
 - slug: catalyst-2
   title: CATALYST
-  score: 71.79133642216175
-  llm_score: 85
+  score: 56.291336422161756
+  llm_score: 75
   recency_score: 18.956682110808735
-  rank: 6
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 64.24205296553819
-  llm_score: 75
-  recency_score: 21.21026482769095
-  rank: 7
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 60.4258863318591
-  llm_score: 75
-  recency_score: 2.1294316592954887
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 58.548381115638655
-  llm_score: 70
+  score: 55.04838111563866
+  llm_score: 75
   recency_score: 12.741905578193274
-  rank: 9
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 58.47951020001508
-  llm_score: 70
-  recency_score: 12.39755100007539
+  category_score: 0
   rank: 10
 ---
 FAIRHOPE MEMBER

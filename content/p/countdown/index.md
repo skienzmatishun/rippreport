@@ -10,63 +10,73 @@ alttags: US Senate primary deadline approaching; clock illustration symbolizes t
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 95.62009294457451
+  score: 86.12009294457452
   llm_score: 95
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 1
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 87.24740235768714
-  llm_score: 85
+  score: 80.14740235768714
+  llm_score: 87
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 2
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 84.19614691902797
-  llm_score: 85
-  recency_score: 80.98073459513984
-  rank: 3
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 78.82689854161379
+  score: 70.3268985416138
   llm_score: 85
   recency_score: 54.13449270806896
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: state-senate-seat-district-32-bombs-away
   title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 77.03595596770666
+  score: 68.53595596770666
   llm_score: 85
   recency_score: 45.179779838533264
-  rank: 5
+  category_score: 0
+  rank: 4
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 75.81469742690143
+  score: 67.31469742690143
   llm_score: 85
   recency_score: 39.073487134507126
-  rank: 6
-- slug: election-ad
-  title: ELECTION AD
-  score: 69.55629440789875
-  llm_score: 85
-  recency_score: 7.781472039493755
-  rank: 7
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 67.83613691258604
-  llm_score: 75
-  recency_score: 39.1806845629302
-  rank: 8
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 60.164144613105805
-  llm_score: 75
-  recency_score: 0.8207230655290094
-  rank: 9
+  category_score: 0
+  rank: 5
 - slug: last-chance
   title: LAST CHANCE
-  score: 60.164144613105805
-  llm_score: 75
+  score: 59.66414461310581
+  llm_score: 85
   recency_score: 0.8207230655290094
+  category_score: 0
+  rank: 6
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 52.592586661479864
+  llm_score: 75
+  recency_score: 0.46293330739926586
+  category_score: 0
+  rank: 7
+- slug: election-ad
+  title: ELECTION AD
+  score: 50.55629440789876
+  llm_score: 70
+  recency_score: 7.781472039493755
+  category_score: 0
+  rank: 8
+- slug: press-release
+  title: PRESS RELEASE
+  score: 45.72432067066976
+  llm_score: 65
+  recency_score: 1.1216033533487584
+  category_score: 0
+  rank: 9
+- slug: primary-election-may-24th
+  title: Primary Election May 24th
+  score: 45.66414461310581
+  llm_score: 65
+  recency_score: 0.8207230655290094
+  category_score: 0
   rank: 10
 ---
 The US Senate seat sought by a total of 19 candidates, 11 republicans and 8 democrats primary is less than two weeks away.

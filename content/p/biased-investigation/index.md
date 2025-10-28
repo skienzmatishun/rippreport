@@ -8,65 +8,75 @@ authors:
 - admin
 alttags: Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations
 related_articles:
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 82.7820185184681
+  llm_score: 90
+  recency_score: 98.91009259234048
+  category_score: 0
+  rank: 1
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 87.24740235768714
-  llm_score: 85
+  score: 82.24740235768715
+  llm_score: 90
   recency_score: 96.23701178843567
-  rank: 1
+  category_score: 0
+  rank: 2
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 83.66625449247667
-  llm_score: 95
+  score: 70.66625449247667
+  llm_score: 90
   recency_score: 38.33127246238332
-  rank: 2
+  category_score: 0
+  rank: 3
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.50005501422807
-  llm_score: 95
+  score: 70.50005501422808
+  llm_score: 90
   recency_score: 37.500275071140365
-  rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 81.23834833895515
-  llm_score: 95
-  recency_score: 26.19174169477578
+  category_score: 0
   rank: 4
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 79.55980182540611
-  llm_score: 95
-  recency_score: 17.799009127030544
-  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.29381805158769
+  score: 69.29381805158769
   llm_score: 90
   recency_score: 31.469090257938433
-  rank: 6
+  category_score: 0
+  rank: 5
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 76.96353695320067
+  score: 67.46353695320067
   llm_score: 95
   recency_score: 4.817684766003371
+  category_score: 0
+  rank: 6
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 66.89801503421995
+  llm_score: 85
+  recency_score: 36.990075171099754
+  category_score: 0
   rank: 7
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 75.70914268128783
-  llm_score: 90
+  score: 63.20914268128783
+  llm_score: 85
   recency_score: 18.545713406439127
+  category_score: 0
   rank: 8
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 75.64527980108477
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 63.05980182540612
   llm_score: 85
-  recency_score: 38.22639900542388
+  recency_score: 17.799009127030544
+  category_score: 0
   rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 69.03184525788849
+- slug: hanky-panky-at-the-po-po
+  title: Hanky Panky at the Po Po
+  score: 63.01136989971914
   llm_score: 85
-  recency_score: 5.159226289442438
+  recency_score: 17.55684949859567
+  category_score: 0
   rank: 10
 ---
 When police officers are fired from one department and rehired by another neighboring department, you can be guaranteed problems will follow the officer. When you have police investigating fellow officers then you can be assured their will be no accountability and a BIASED INVESTIGATION. When you have taxpayers paying for police cameras and then the police withhold the footage, you have no transparency. When all of these facts come together you have a police state where the police are no longer public servants. When you have a sheriff that is the most powerful POLITICIAN in the county, 10 to 1 he is also the head of the good ole boys that run the county. When you have a sheriff that eliminates any competition for his office by supporting legislation that disqualifies most candidates for his office, you have corruption, some would say fixing an election.

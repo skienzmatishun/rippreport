@@ -14,63 +14,73 @@ alttags: CATALYST logo obscured by sunglasses and a red circle, representing con
 related_articles:
 - slug: catalyst-signs
   title: CATALYST SIGNS
-  score: 95.89071065521195
+  score: 86.39071065521195
   llm_score: 95
   recency_score: 99.45355327605971
+  category_score: 0
   rank: 1
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 91.62009294457451
+  score: 82.62009294457452
   llm_score: 90
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 91.4594928113308
+  score: 82.45949281133082
   llm_score: 90
   recency_score: 97.29746405665401
+  category_score: 0
   rank: 3
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 78.29013091918722
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 68.93908430617277
   llm_score: 95
-  recency_score: 11.45065459593608
+  recency_score: 12.195421530863895
+  category_score: 0
   rank: 4
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 78.24662907448486
-  llm_score: 95
-  recency_score: 11.233145372424257
-  rank: 5
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 74.43908430617277
+  score: 65.24662907448486
   llm_score: 90
-  recency_score: 12.195421530863895
+  recency_score: 11.233145372424257
+  category_score: 0
+  rank: 5
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 62.18454994448998
+  llm_score: 85
+  recency_score: 13.422749722449872
+  category_score: 0
   rank: 6
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 73.04408811712146
-  llm_score: 75
-  recency_score: 65.22044058560728
-  rank: 7
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 70.58353064654526
+  score: 62.08353064654527
   llm_score: 85
   recency_score: 12.9176532327263
+  category_score: 0
+  rank: 7
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 61.79013091918722
+  llm_score: 85
+  recency_score: 11.45065459593608
+  category_score: 0
   rank: 8
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 70.0412053531038
+  score: 61.54120535310382
   llm_score: 85
   recency_score: 10.20602676551906
+  category_score: 0
   rank: 9
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 61.82933305871513
+  score: 54.329333058715136
   llm_score: 75
   recency_score: 9.146665293575648
+  category_score: 0
   rank: 10
 ---
 Some people new to Baldwin County politics want to know what the hell is CATALYST. CATALYST was the name of the good ole boys until it became so toxic, that they recently changed their name to Scott Boone Consulting. This is the same individual that was running CATALYST, they are just hiding under another name, the smell is the same.

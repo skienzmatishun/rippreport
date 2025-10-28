@@ -10,63 +10,73 @@ alttags: Blurred police car lights suggest investigation into State Representati
 related_articles:
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 87.24740235768714
-  llm_score: 85
+  score: 83.64740235768714
+  llm_score: 92
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 79.12009294457452
+  llm_score: 85
+  recency_score: 98.10046472287257
+  category_score: 0
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 78.02312487593503
+  llm_score: 85
+  recency_score: 92.61562437967505
+  category_score: 0
+  rank: 3
 - slug: consequences
   title: CONSEQUENCES
-  score: 80.69156694727452
+  score: 72.19156694727454
   llm_score: 85
   recency_score: 63.45783473637261
-  rank: 2
+  category_score: 0
+  rank: 4
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 80.55324061896812
+  score: 72.05324061896812
   llm_score: 85
   recency_score: 62.766203094840556
-  rank: 3
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 77.8369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
-  rank: 4
+  category_score: 0
+  rank: 5
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 77.15530775847412
+  score: 69.65530775847412
   llm_score: 75
   recency_score: 85.7765387923706
-  rank: 5
+  category_score: 0
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 69.3369256908693
+  llm_score: 85
+  recency_score: 49.18462845434644
+  category_score: 0
+  rank: 7
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 71.24317955054237
+  score: 62.743179550542365
   llm_score: 85
   recency_score: 16.215897752711804
-  rank: 6
+  category_score: 0
+  rank: 8
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 71.07025208563968
+  score: 62.57025208563968
   llm_score: 85
   recency_score: 15.35126042819837
-  rank: 7
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 68.50975554986516
-  llm_score: 65
-  recency_score: 82.54877774932578
-  rank: 8
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 64.83825535238421
-  llm_score: 75
-  recency_score: 24.19127676192105
+  category_score: 0
   rank: 9
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 62.47272631861649
+  score: 54.972726318616495
   llm_score: 75
   recency_score: 12.36363159308245
+  category_score: 0
   rank: 10
 ---
 Randy Davis, State Representative, Daphne, since 2002 is about as a good ole boy as they get. Originally Davis was going to run for the Probate Judge for Baldwin County then suddenly pulled out of the race. Catalyst Candidate Lynn Perry took his spot. Now we know why Randy got cold feet.

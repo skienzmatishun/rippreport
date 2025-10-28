@@ -14,63 +14,73 @@ alttags: 'Unrelated illustration: A great white shark swims through a school of 
 related_articles:
 - slug: black-hole
   title: BLACK HOLE
-  score: 85.82610187044024
+  score: 77.32610187044025
   llm_score: 85
   recency_score: 89.13050935220119
+  category_score: 0
   rank: 1
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 84.50975554986516
+  score: 76.00975554986516
   llm_score: 85
   recency_score: 82.54877774932578
+  category_score: 0
   rank: 2
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 81.8369256908693
-  llm_score: 90
-  recency_score: 49.18462845434644
+- slug: poison-water-alabama-senate-special-election
+  title: POISON WATER - Alabama Senate Special Election
+  score: 72.81522921439813
+  llm_score: 83
+  recency_score: 73.57614607199059
+  category_score: 0
   rank: 3
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 77.58357363897636
+  score: 70.08357363897638
   llm_score: 75
   recency_score: 87.91786819488183
+  category_score: 0
   rank: 4
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 74.71522921439812
-  llm_score: 75
-  recency_score: 73.57614607199059
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 69.3369256908693
+  llm_score: 85
+  recency_score: 49.18462845434644
+  category_score: 0
   rank: 5
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 73.06074595483393
-  llm_score: 80
-  recency_score: 45.30372977416965
+- slug: observations-of-a-poll-watcher
+  title: “Observations of a Poll Watcher”
+  score: 65.95093721071515
+  llm_score: 85
+  recency_score: 32.254686053575696
+  category_score: 0
   rank: 6
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 69.92404723937733
+  score: 63.42404723937733
   llm_score: 65
   recency_score: 89.62023619688662
+  category_score: 0
   rank: 7
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 57.101972919605075
-  llm_score: 70
-  recency_score: 5.50986459802539
-  rank: 8
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 53.73654352403148
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 54.56074595483394
   llm_score: 65
-  recency_score: 8.6827176201574
-  rank: 9
+  recency_score: 45.30372977416965
+  category_score: 0
+  rank: 8
 - slug: scary
   title: SCARY
-  score: 49.16085514917728
-  llm_score: 60
+  score: 41.060855149177286
+  llm_score: 57
   recency_score: 5.804275745886385
+  category_score: 0
+  rank: 9
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 41.00197291960508
+  llm_score: 57
+  recency_score: 5.50986459802539
+  category_score: 0
   rank: 10
 ---
 Here is the first post I saw this morning:

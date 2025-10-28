@@ -12,63 +12,73 @@ alttags: Artistic rendering of a black hole surrounded by swirling matter, symbo
 related_articles:
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 94.52312487593501
+  score: 85.02312487593501
   llm_score: 95
   recency_score: 92.61562437967505
+  category_score: 0
   rank: 1
 - slug: its-no-joke
   title: IT’S NO JOKE
-  score: 87.62009294457451
-  llm_score: 85
+  score: 80.52009294457453
+  llm_score: 87
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 2
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 86.77861223075729
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 79.01287958944485
   llm_score: 85
-  recency_score: 93.89306115378648
+  recency_score: 97.56439794722424
+  category_score: 0
   rank: 3
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
-  score: 86.17127158449026
-  llm_score: 85
+  score: 78.37127158449027
+  llm_score: 86
   recency_score: 90.85635792245131
+  category_score: 0
   rank: 4
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 78.2786122307573
+  llm_score: 85
+  recency_score: 93.89306115378648
+  category_score: 0
+  rank: 5
 - slug: alabama-moore-strange
   title: ALABAMA MOORE STRANGE
-  score: 85.58357363897636
+  score: 77.08357363897638
   llm_score: 85
   recency_score: 87.91786819488183
-  rank: 5
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 74.87051538361202
-  llm_score: 85
-  recency_score: 34.35257691806009
+  category_score: 0
   rank: 6
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
-  score: 73.82610187044024
-  llm_score: 70
+  score: 70.32610187044025
+  llm_score: 75
   recency_score: 89.13050935220119
+  category_score: 0
   rank: 7
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 71.51287958944485
-  llm_score: 65
-  recency_score: 97.56439794722424
-  rank: 8
 - slug: pot-calling-the-kettle-black
   title: POT CALLING THE KETTLE BLACK
-  score: 68.27549129904675
-  llm_score: 85
+  score: 63.27549129904676
+  llm_score: 90
   recency_score: 1.3774564952337773
+  category_score: 0
+  rank: 8
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 55.87051538361202
+  llm_score: 70
+  recency_score: 34.35257691806009
+  category_score: 0
   rank: 9
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 68.17869480190573
-  llm_score: 85
+  score: 45.67869480190574
+  llm_score: 65
   recency_score: 0.8934740095286622
+  category_score: 0
   rank: 10
 ---
 Alabamians have got to stop looking right and left, voting a straight party ticket, and putting party before country and that means Republican and Democrat. What is good for your state and community should come before party. Why vote for someone who will divide us? Why vote for someone so different in beliefs and convictions that there is not one Senator or Congressman remotely close to his thinking?

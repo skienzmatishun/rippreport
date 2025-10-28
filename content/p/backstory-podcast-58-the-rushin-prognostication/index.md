@@ -18,65 +18,75 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 89.39192896735389
-  llm_score: 90
-  recency_score: 86.95964483676948
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 79.88553700495828
+  llm_score: 87
+  recency_score: 94.92768502479139
+  category_score: 0
   rank: 1
 - slug: backstory-podcast-the-46th-president-of-the-united-states
   title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 87.56641283325074
+  score: 79.06641283325074
   llm_score: 85
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 2
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 87.24740235768714
-  llm_score: 85
-  recency_score: 96.23701178843567
-  rank: 3
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 86.98553700495827
-  llm_score: 85
-  recency_score: 94.92768502479139
-  rank: 4
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 86.52312487593501
-  llm_score: 85
-  recency_score: 92.61562437967505
-  rank: 5
 - slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
   title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 84.82943663570212
+  score: 76.32943663570214
   llm_score: 85
   recency_score: 84.14718317851063
-  rank: 6
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 81.66599124538808
+  score: 73.16599124538808
   llm_score: 85
   recency_score: 68.3299562269404
-  rank: 7
+  category_score: 0
+  rank: 4
 - slug: backstory-podcast-no-76-a-plague-of-apathy
   title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 81.5913138839337
+  score: 73.0913138839337
   llm_score: 85
   recency_score: 67.95656941966844
+  category_score: 0
+  rank: 5
+- slug: bsp-tlp
+  title: Backstory Podcast No 56 The Lincoln Project
+  score: 71.74740235768715
+  llm_score: 75
+  recency_score: 96.23701178843567
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 69.8919289673539
+  llm_score: 75
+  recency_score: 86.95964483676948
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 67.52312487593503
+  llm_score: 70
+  recency_score: 92.61562437967505
+  category_score: 0
   rank: 8
+- slug: backstory-podcast-no-79-ole-peg-gy
+  title: Backstory Podcast No 79 'Ole Peg-gy
+  score: 65.33141751730335
+  llm_score: 75
+  recency_score: 64.15708758651667
+  category_score: 0
+  rank: 9
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 69.48748877687456
-  llm_score: 65
+  score: 52.48748877687456
+  llm_score: 50
   recency_score: 87.43744388437275
-  rank: 9
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 68.08086365430704
-  llm_score: 70
-  recency_score: 60.404318271535175
+  category_score: 0
   rank: 10
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F458764898429834%2F&amp;show_text=true&amp;width=560" width="560" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>

@@ -19,63 +19,73 @@ alttags: Council denies knowledge of property purchase; graphic shows a speech b
 related_articles:
 - slug: honeymoon
   title: HONEYMOON
-  score: 91.62009294457451
-  llm_score: 90
+  score: 84.02009294457453
+  llm_score: 92
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 1
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 73.09678009225722
-  llm_score: 85
-  recency_score: 25.48390046128612
-  rank: 2
 - slug: all-mouth
   title: ALL MOUTH
-  score: 70.21000007071322
+  score: 61.71000007071323
   llm_score: 85
   recency_score: 11.05000035356611
+  category_score: 0
+  rank: 2
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 55.02060612108392
+  llm_score: 75
+  recency_score: 12.603030605419562
+  category_score: 0
   rank: 3
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
-  score: 68.81301359100283
-  llm_score: 85
+  score: 53.313013591002836
+  llm_score: 75
   recency_score: 4.065067955014141
+  category_score: 0
   rank: 4
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 68.5836146838788
-  llm_score: 85
+  score: 53.083614683878814
+  llm_score: 75
   recency_score: 2.9180734193940348
+  category_score: 0
   rank: 5
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 68.27248869897099
-  llm_score: 85
+  score: 52.772488698970996
+  llm_score: 75
   recency_score: 1.3624434948549364
+  category_score: 0
   rank: 6
 - slug: timeline
   title: TIMELINE
-  score: 64.08242501251668
-  llm_score: 75
+  score: 48.88242501251668
+  llm_score: 64
   recency_score: 20.412125062583367
+  category_score: 0
   rank: 7
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 62.520606121083915
-  llm_score: 75
-  recency_score: 12.603030605419562
+- slug: jack-ass
+  title: JACK ASS
+  score: 46.03025104607292
+  llm_score: 65
+  recency_score: 2.651255230364558
+  category_score: 0
   rank: 8
 - slug: pop-up-target
   title: POP UP TARGET
-  score: 57.59078153074029
-  llm_score: 70
+  score: 41.49078153074029
+  llm_score: 57
   recency_score: 7.953907653701443
+  category_score: 0
   rank: 9
 - slug: shut-up-2
   title: SHUT UP
-  score: 54.82799474546216
-  llm_score: 65
+  score: 40.62799474546217
+  llm_score: 54
   recency_score: 14.139973727310823
+  category_score: 0
   rank: 10
 ---
 https://www.youtube.com/watch?t=2040&v=6jG57XNm3Vk&feature=youtu.be

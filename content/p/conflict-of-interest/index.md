@@ -19,63 +19,73 @@ alttags: Scales of justice icon representing conflict of interest allegations ag
 related_articles:
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 95.35315705036788
+  score: 85.8531570503679
   llm_score: 95
   recency_score: 96.76578525183945
+  category_score: 0
   rank: 1
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 91.88849539476564
-  llm_score: 95
-  recency_score: 79.4424769738282
-  rank: 2
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 85.15530775847412
-  llm_score: 85
+  score: 83.65530775847412
+  llm_score: 95
   recency_score: 85.7765387923706
+  category_score: 0
+  rank: 2
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 82.38849539476564
+  llm_score: 95
+  recency_score: 79.4424769738282
+  category_score: 0
   rank: 3
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 83.5866878197373
+  score: 75.0866878197373
   llm_score: 85
   recency_score: 77.93343909868652
+  category_score: 0
   rank: 4
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 78.27772414553687
+  score: 69.77772414553688
   llm_score: 85
   recency_score: 51.388620727684355
+  category_score: 0
   rank: 5
 - slug: fairhope-has-lost-its-moral-compass
   title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 73.05506043454497
+  score: 64.55506043454497
   llm_score: 85
   recency_score: 25.27530217272481
+  category_score: 0
   rank: 6
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 69.31317071028812
-  llm_score: 85
-  recency_score: 6.565853551440616
-  rank: 7
 - slug: strawman-spiderweb
   title: STRAWMAN SPIDERWEB
-  score: 60.68977417738036
-  llm_score: 75
+  score: 60.189774177380365
+  llm_score: 85
   recency_score: 3.4488708869018017
+  category_score: 0
+  rank: 7
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 60.057055922711086
+  llm_score: 85
+  recency_score: 2.7852796135553795
+  category_score: 0
   rank: 8
 - slug: documents
   title: DOCUMENTS
-  score: 53.390938708264
-  llm_score: 65
+  score: 53.89093870826402
+  llm_score: 75
   recency_score: 6.9546935413200295
+  category_score: 0
   rank: 9
 - slug: honey-bees
   title: HONEY BEES
-  score: 53.334935476514765
-  llm_score: 65
+  score: 36.334935476514765
+  llm_score: 50
   recency_score: 6.674677382573833
+  category_score: 0
   rank: 10
 ---
 Dear Fairhope City Council:

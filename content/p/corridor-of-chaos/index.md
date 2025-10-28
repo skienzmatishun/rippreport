@@ -10,63 +10,73 @@ alttags: Map highlighting a planned unit development (Catalyst) near Fairhope Av
 related_articles:
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 86.62123778439704
+  score: 77.12123778439704
   llm_score: 95
   recency_score: 53.10618892198522
+  category_score: 0
   rank: 1
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 70.29727640268474
+  llm_score: 85
+  recency_score: 53.986382013423686
+  category_score: 0
+  rank: 2
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 82.9652796209306
-  llm_score: 95
-  recency_score: 34.826398104653
-  rank: 2
-- slug: eagles-eye-catalyst-kant-corte
-  title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 80.73336508087172
-  llm_score: 95
-  recency_score: 23.666825404358608
-  rank: 3
-- slug: catalyst
-  title: CATALYST
-  score: 80.3916664395256
+  score: 69.9652796209306
   llm_score: 90
-  recency_score: 41.958332197627975
-  rank: 4
+  recency_score: 34.826398104653
+  category_score: 0
+  rank: 3
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 77.81001209429962
+  score: 69.31001209429962
   llm_score: 85
   recency_score: 49.0500604714981
+  category_score: 0
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 67.89166643952561
+  llm_score: 85
+  recency_score: 41.958332197627975
+  category_score: 0
   rank: 5
-- slug: survey
-  title: SURVEY
-  score: 74.39621248724127
-  llm_score: 75
-  recency_score: 71.98106243620636
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 66.56135093059721
+  llm_score: 85
+  recency_score: 35.306754652986015
+  category_score: 0
   rank: 6
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 73.50315362704151
+  score: 65.00315362704151
   llm_score: 85
   recency_score: 27.51576813520753
+  category_score: 0
   rank: 7
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 72.31236163934018
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 64.06774635711683
   llm_score: 85
-  recency_score: 21.56180819670091
+  recency_score: 22.8387317855841
+  category_score: 0
   rank: 8
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 67.67232874673901
-  llm_score: 65
-  recency_score: 78.36164373369505
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 60.73336508087173
+  llm_score: 80
+  recency_score: 23.666825404358608
+  category_score: 0
   rank: 9
 - slug: misery-loves-company
   title: MISERY LOVES COMPANY
-  score: 49.996953330813525
-  llm_score: 60
+  score: 39.79695333081353
+  llm_score: 54
   recency_score: 9.984766654067629
+  category_score: 0
   rank: 10
 ---
 ## North is up

@@ -10,63 +10,73 @@ alttags: Carolyn, a strong woman described as part of the early women’s libera
 related_articles:
 - slug: celebration-of-life
   title: CELEBRATION OF LIFE
-  score: 95.4594928113308
-  llm_score: 95
+  score: 87.35949281133081
+  llm_score: 97
   recency_score: 97.29746405665401
+  category_score: 0
   rank: 1
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life
-  score: 68.25484884682434
-  llm_score: 75
+  score: 67.75484884682436
+  llm_score: 85
   recency_score: 41.27424423412174
+  category_score: 0
   rank: 2
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 52.92240024227551
+  llm_score: 75
+  recency_score: 2.112001211377513
+  category_score: 0
+  rank: 3
 - slug: obituary
   title: OBITUARY
-  score: 66.52202120293505
-  llm_score: 75
-  recency_score: 32.61010601467527
-  rank: 3
-- slug: vote-smart
-  title: VOTE SMART
-  score: 56.6946201541873
+  score: 52.022021202935065
   llm_score: 65
-  recency_score: 23.473100770936487
+  recency_score: 32.61010601467527
+  category_score: 0
   rank: 4
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 54.62635062426856
+  score: 48.12635062426857
   llm_score: 65
   recency_score: 13.13175312134279
+  category_score: 0
   rank: 5
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 52.4224002422755
-  llm_score: 65
-  recency_score: 2.112001211377513
-  rank: 6
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 52.174342507642315
+  score: 45.67434250764232
   llm_score: 65
   recency_score: 0.8717125382115642
+  category_score: 0
+  rank: 6
+- slug: vote-smart
+  title: VOTE SMART
+  score: 43.194620154187305
+  llm_score: 55
+  recency_score: 23.473100770936487
+  category_score: 0
   rank: 7
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 40.160199081822476
+  llm_score: 54
+  recency_score: 11.800995409112343
+  category_score: 0
+  rank: 8
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 42.31536626765281
-  llm_score: 50
+  score: 40.11536626765282
+  llm_score: 54
   recency_score: 11.57683133826407
-  rank: 8
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 41.65751801972854
-  llm_score: 50
-  recency_score: 8.287590098642712
+  category_score: 0
   rank: 9
 - slug: one-woman-2
   title: ONE WOMAN
-  score: 40.70699373121072
+  score: 35.70699373121072
   llm_score: 50
   recency_score: 3.5349686560536235
+  category_score: 0
   rank: 10
 ---
 Carolyn and I were together for 50 years. She was my best friend, fieriest critic and always had my back. We traveled the world together, dove in exotic places and lived a life many would envy. Anyone who knew Carolyn did not forget her. Carolyn, who some called CA, never understood the argument of women’s rights. She was part of women’s lib before there was a women's lib. She could curse like a sailor and do manual labor with the best of them.

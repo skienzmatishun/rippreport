@@ -19,63 +19,73 @@ alttags: Brown water in a creek, likely polluted, reflecting concerns about envi
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 87.9452804719372
-  llm_score: 85
+  score: 82.9452804719372
+  llm_score: 90
   recency_score: 99.72640235968593
+  category_score: 0
   rank: 1
 - slug: catalyst-liar
   title: CATALYST LIAR
-  score: 87.9452804719372
+  score: 79.4452804719372
   llm_score: 85
   recency_score: 99.72640235968593
+  category_score: 0
   rank: 2
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 84.92190583576996
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 79.12009294457452
   llm_score: 85
-  recency_score: 84.60952917884977
+  recency_score: 98.10046472287257
+  category_score: 0
   rank: 3
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 83.84502484628416
-  llm_score: 85
+  score: 71.84502484628416
+  llm_score: 80
   recency_score: 79.22512423142078
+  category_score: 0
   rank: 4
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 69.42190583576996
+  llm_score: 75
+  recency_score: 84.60952917884977
+  category_score: 0
+  rank: 5
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 68.69614691902798
+  llm_score: 75
+  recency_score: 80.98073459513984
+  category_score: 0
+  rank: 6
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 79.62009294457451
-  llm_score: 75
+  score: 65.12009294457452
+  llm_score: 65
   recency_score: 98.10046472287257
-  rank: 5
+  category_score: 0
+  rank: 7
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 75.51287958944485
-  llm_score: 70
+  score: 65.01287958944485
+  llm_score: 65
   recency_score: 97.56439794722424
-  rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 75.20705813124003
-  llm_score: 75
-  recency_score: 76.03529065620016
-  rank: 7
+  category_score: 0
+  rank: 8
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 70.06935946639769
+  score: 61.56935946639769
   llm_score: 85
   recency_score: 10.34679733198841
-  rank: 8
-- slug: wetlands
-  title: WETLANDS
-  score: 61.465261380703375
-  llm_score: 75
-  recency_score: 7.326306903516857
+  category_score: 0
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 52.47132239346874
+  score: 45.971322393468746
   llm_score: 65
   recency_score: 2.356611967343692
+  category_score: 0
   rank: 10
 ---
 The Ripp Report has written about CATALYST for years. We have filed numerous complaints with the Attorney General involving political corruption and have received no reply. It seems that political corruption is not as important as the sewer violations.

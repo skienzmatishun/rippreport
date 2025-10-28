@@ -8,65 +8,75 @@ authors:
 - admin
 alttags: Custom pillows reading The Real, The Boss, and featuring a man’s face, illustrating claims of labeling individuals as ...
 related_articles:
-- slug: loser
-  title: LOSER
-  score: 67.96601468604398
-  llm_score: 75
-  recency_score: 39.83007343021991
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 71.684990070341
+  llm_score: 100
+  recency_score: 8.424950351705032
+  category_score: 0
   rank: 1
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 54.721577636566764
-  llm_score: 65
-  recency_score: 13.607888182833822
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 68.74662907448486
+  llm_score: 95
+  recency_score: 11.233145372424257
+  category_score: 0
   rank: 2
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 53.78477778518496
-  llm_score: 65
+  score: 61.284777785184964
+  llm_score: 85
   recency_score: 8.92388892592479
+  category_score: 0
   rank: 3
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 53.68499007034101
-  llm_score: 65
-  recency_score: 8.424950351705032
-  rank: 4
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 53.126392383720344
-  llm_score: 65
+  score: 60.62639238372035
+  llm_score: 85
   recency_score: 5.6319619186017045
+  category_score: 0
+  rank: 4
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 60.20505941304497
+  llm_score: 85
+  recency_score: 3.5252970652248186
+  category_score: 0
   rank: 5
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 52.28879688043755
-  llm_score: 60
-  recency_score: 21.44398440218775
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 48.92584690236103
+  llm_score: 65
+  recency_score: 17.129234511805123
+  category_score: 0
   rank: 6
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 50.24662907448485
-  llm_score: 60
-  recency_score: 11.233145372424257
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 48.22157763656677
+  llm_score: 65
+  recency_score: 13.607888182833822
+  category_score: 0
   rank: 7
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 46.41250054564074
-  llm_score: 55
+  score: 47.91250054564075
+  llm_score: 65
   recency_score: 12.0625027282037
+  category_score: 0
   rank: 8
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 38.55297761359889
+  llm_score: 54
+  recency_score: 3.764888067994434
+  category_score: 0
+  rank: 9
 - slug: cover-up
   title: COVER UP
-  score: 44.603120909275844
-  llm_score: 55
+  score: 35.603120909275844
+  llm_score: 50
   recency_score: 3.015604546379232
-  rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 39.42584690236102
-  llm_score: 45
-  recency_score: 17.129234511805123
+  category_score: 0
   rank: 10
 ---
 CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger. While covering the Family Court in Baldwin County I interviewed over three dozen women and men entangled in a corrupt inept system. Every attorney defending his or her client would sooner or later say that the spouse was CRAZY. That was ultimately the main argument.

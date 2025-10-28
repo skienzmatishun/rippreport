@@ -14,63 +14,73 @@ alttags: Sign advertising the vacant South Alabama Mega Site, a 3000-acre indust
 related_articles:
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 83.67232874673901
+  score: 75.17232874673903
   llm_score: 85
   recency_score: 78.36164373369505
+  category_score: 0
   rank: 1
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 81.06074595483393
+  score: 72.06074595483393
   llm_score: 90
   recency_score: 45.30372977416965
+  category_score: 0
   rank: 2
 - slug: dead-last
   title: DEAD LAST
-  score: 78.22156185864796
+  score: 69.72156185864797
   llm_score: 85
   recency_score: 51.107809293239825
+  category_score: 0
   rank: 3
 - slug: mega-lost-opportunity
   title: MEGA — LOST OPPORTUNITY
-  score: 76.29827267964413
-  llm_score: 95
+  score: 63.298272679644136
+  llm_score: 90
   recency_score: 1.4913633982206251
+  category_score: 0
   rank: 4
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 73.14506144686581
-  llm_score: 90
-  recency_score: 5.7253072343290325
-  rank: 5
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 72.19136306432593
-  llm_score: 90
-  recency_score: 0.9568153216296585
-  rank: 6
 - slug: shovel-ready
   title: SHOVEL READY
-  score: 71.77061878848929
+  score: 63.270618788489294
   llm_score: 85
   recency_score: 18.853093942446446
+  category_score: 0
+  rank: 5
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 61.77138506860405
+  llm_score: 85
+  recency_score: 11.356925343020198
+  category_score: 0
+  rank: 6
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 59.69136306432594
+  llm_score: 85
+  recency_score: 0.9568153216296585
+  category_score: 0
   rank: 7
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 60.94782746243795
-  llm_score: 75
-  recency_score: 4.7391373121897375
-  rank: 8
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 60.18875952565574
-  llm_score: 75
+  score: 59.68875952565575
+  llm_score: 85
   recency_score: 0.9437976282786975
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 54.41250054564074
+  score: 47.91250054564075
   llm_score: 65
   recency_score: 12.0625027282037
+  category_score: 0
+  rank: 9
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 46.44782746243796
+  llm_score: 65
+  recency_score: 4.7391373121897375
+  category_score: 0
   rank: 10
 ---
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site.

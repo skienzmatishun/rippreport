@@ -19,65 +19,75 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring money bags and a sailboat, related to legal fee dispute discussed in the article
 related_articles:
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 87.89071065521195
-  llm_score: 85
-  recency_score: 99.45355327605971
-  rank: 1
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 87.83629014021759
+  score: 79.33629014021759
   llm_score: 85
   recency_score: 99.18145070108791
-  rank: 2
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 77.18983478974084
-  llm_score: 95
-  recency_score: 5.949173948704226
-  rank: 3
-- slug: russian-roulette-fairhope-style
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 74.80890176713604
-  llm_score: 89
-  recency_score: 18.044508835680173
-  rank: 4
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 73.41399241756758
-  llm_score: 90
-  recency_score: 7.069962087837917
-  rank: 5
+  category_score: 0
+  rank: 1
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 71.81895828211927
-  llm_score: 75
+  score: 71.31895828211928
+  llm_score: 85
   recency_score: 59.09479141059637
-  rank: 6
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 71.04512055871784
-  llm_score: 85
-  recency_score: 15.225602793589186
-  rank: 7
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 70.61199901732306
-  llm_score: 85
-  recency_score: 13.05999508661529
-  rank: 8
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 68.79104160648168
-  llm_score: 85
-  recency_score: 3.955208032408443
-  rank: 9
+  category_score: 0
+  rank: 2
 - slug: no-radar
   title: NO RADAR
-  score: 62.65037696445635
-  llm_score: 65
+  score: 68.05037696445636
+  llm_score: 82
   recency_score: 53.251884822281745
+  category_score: 0
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 64.79607060479167
+  llm_score: 85
+  recency_score: 26.48035302395829
+  category_score: 0
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 62.43053303106537
+  llm_score: 85
+  recency_score: 14.652665155326813
+  category_score: 0
+  rank: 5
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 60.91399241756759
+  llm_score: 85
+  recency_score: 7.069962087837917
+  category_score: 0
+  rank: 6
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 60.68983478974085
+  llm_score: 85
+  recency_score: 5.949173948704226
+  category_score: 0
+  rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 55.72545730213693
+  llm_score: 75
+  recency_score: 16.127286510684606
+  category_score: 0
+  rank: 8
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 55.54512055871785
+  llm_score: 75
+  recency_score: 15.225602793589186
+  category_score: 0
+  rank: 9
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 53.2910416064817
+  llm_score: 75
+  recency_score: 3.955208032408443
+  category_score: 0
   rank: 10
 ---
 When the triangle lawsuit was going on, Fairhope's insurance company, sued the city saying that the city's bad decisions led to the lawsuit and they were not going to cover the legal expenses.

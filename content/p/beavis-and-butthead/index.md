@@ -10,65 +10,75 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 86.88179115997221
-  llm_score: 85
-  recency_score: 94.40895579986105
-  rank: 1
 - slug: help-fairness-killing-us
   title: HELP - FAIRNESS IS KILLING US
-  score: 86.52312487593501
-  llm_score: 85
+  score: 78.72312487593501
+  llm_score: 86
   recency_score: 92.61562437967505
-  rank: 2
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 68.00471176651983
+  category_score: 0
+  rank: 1
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 78.38179115997222
   llm_score: 85
-  recency_score: 0.02355883259917855
+  recency_score: 94.40895579986105
+  category_score: 0
+  rank: 2
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 67.27111348555952
+  llm_score: 70
+  recency_score: 91.35556742779755
+  category_score: 0
   rank: 3
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 65.96882643931993
+  score: 59.46882643931994
   llm_score: 65
   recency_score: 69.84413219659965
+  category_score: 0
   rank: 4
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 63.112599723484344
-  llm_score: 75
-  recency_score: 15.562998617421716
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 54.31587603866929
+  llm_score: 65
+  recency_score: 44.079380193346374
+  category_score: 0
   rank: 5
-- slug: shut-up-2
-  title: SHUT UP
-  score: 54.721577636566764
-  llm_score: 65
-  recency_score: 13.607888182833822
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 49.00471176651984
+  llm_score: 70
+  recency_score: 0.02355883259917855
+  category_score: 0
   rank: 6
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 52.23760528730483
+- slug: crazy
+  title: CRAZY
+  score: 47.184990070341016
   llm_score: 65
-  recency_score: 1.1880264365241602
+  recency_score: 8.424950351705032
+  category_score: 0
   rank: 7
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 52.189277384112316
-  llm_score: 65
-  recency_score: 0.9463869205615951
-  rank: 8
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 48.22929156466386
-  llm_score: 60
+  score: 45.72929156466387
+  llm_score: 65
   recency_score: 1.1464578233192855
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 48.094897999093824
-  llm_score: 60
+  score: 45.59489799909383
+  llm_score: 65
   recency_score: 0.4744899954691276
+  category_score: 0
+  rank: 9
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 35.189277384112316
+  llm_score: 50
+  recency_score: 0.9463869205615951
+  category_score: 0
   rank: 10
 ---
 BEAVIS AND BUTTHEAD invade Fairhope

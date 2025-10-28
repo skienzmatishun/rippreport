@@ -10,63 +10,73 @@ alttags: Hand reaching from water, symbolizing a political exit after Billie Jo 
 related_articles:
 - slug: catalyst-exit-door
   title: CATALYST EXIT DOOR
-  score: 95.78201851846809
+  score: 86.2820185184681
   llm_score: 95
   recency_score: 98.91009259234048
+  category_score: 0
   rank: 1
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 89.82610187044024
-  llm_score: 90
+  score: 80.12610187044024
+  llm_score: 89
   recency_score: 89.13050935220119
+  category_score: 0
   rank: 2
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 79.06641283325074
+  llm_score: 85
+  recency_score: 97.83206416625366
+  category_score: 0
+  rank: 3
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 75.0866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
+  category_score: 0
+  rank: 4
 - slug: you-win-some-you-lose-some
   title: YOU WIN SOME YOU LOSE SOME
-  score: 82.71522921439812
+  score: 74.21522921439814
   llm_score: 85
   recency_score: 73.57614607199059
-  rank: 3
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 79.51287958944485
-  llm_score: 75
-  recency_score: 97.56439794722424
-  rank: 4
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 74.70670566473225
-  llm_score: 90
-  recency_score: 13.53352832366127
+  category_score: 0
   rank: 5
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 71.23430628782093
-  llm_score: 85
-  recency_score: 16.171531439104648
-  rank: 6
 - slug: i-quit-and-will-quit-again
   title: I QUIT AND WILL QUIT AGAIN
-  score: 70.43570824436047
-  llm_score: 70
+  score: 73.93570824436047
+  llm_score: 85
   recency_score: 72.17854122180232
+  category_score: 0
+  rank: 6
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 73.73930710092043
+  llm_score: 85
+  recency_score: 71.19653550460211
+  category_score: 0
   rank: 7
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 62.520606121083915
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 72.01287958944485
   llm_score: 75
-  recency_score: 12.603030605419562
+  recency_score: 97.56439794722424
+  category_score: 0
   rank: 8
-- slug: i-quit
-  title: I QUIT
-  score: 61.465261380703375
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 55.20670566473226
   llm_score: 75
-  recency_score: 7.326306903516857
+  recency_score: 13.53352832366127
+  category_score: 0
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 60.07436363196031
+  score: 52.57436363196032
   llm_score: 75
   recency_score: 0.37181815980154354
+  category_score: 0
   rank: 10
 ---
 The People’s Choice almost made a clean sweep of Catalyst. PEOPLE’S CHOICE 2 CATALYST ½

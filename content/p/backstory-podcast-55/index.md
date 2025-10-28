@@ -14,65 +14,75 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 88.97280912493756
-  llm_score: 95
-  recency_score: 64.86404562468779
-  rank: 1
 - slug: bsp-tlp
   title: Backstory Podcast No 56 The Lincoln Project
-  score: 87.72789538259508
+  score: 79.22789538259508
   llm_score: 85
   recency_score: 98.63947691297537
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: backstory-podcast-no-54-trump-positive
   title: Backstory Podcast No 54 Trump Positive
-  score: 87.51287958944485
+  score: 79.01287958944485
   llm_score: 85
   recency_score: 97.56439794722424
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: backstory-podcast-58-the-rushin-prognostication
   title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 86.98553700495827
+  score: 78.48553700495829
   llm_score: 85
   recency_score: 94.92768502479139
+  category_score: 0
+  rank: 3
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 75.97280912493757
+  llm_score: 90
+  recency_score: 64.86404562468779
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 84.50975554986516
-  llm_score: 85
-  recency_score: 82.54877774932578
-  rank: 5
 - slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
   title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 83.97579460098616
-  llm_score: 85
+  score: 74.77579460098617
+  llm_score: 84
   recency_score: 79.87897300493081
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 69.00975554986516
+  llm_score: 75
+  recency_score: 82.54877774932578
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 80.90191963447131
-  llm_score: 85
-  recency_score: 64.50959817235656
+- slug: backstory-podcast-no-79-ole-peg-gy
+  title: Backstory Podcast No 79 'Ole Peg-gy
+  score: 64.68056760504163
+  llm_score: 75
+  recency_score: 60.90283802520807
+  category_score: 0
   rank: 7
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 74.23930710092043
-  llm_score: 75
-  recency_score: 71.19653550460211
-  rank: 8
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 70.4219058668791
+  score: 59.73930710092043
   llm_score: 65
-  recency_score: 92.10952933439548
-  rank: 9
+  recency_score: 71.19653550460211
+  category_score: 0
+  rank: 8
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready
-  score: 63.468084198035086
+  score: 56.96808419803509
   llm_score: 65
   recency_score: 57.34042099017541
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-9-11-2001-remembered
+  title: Backstory Podcast 9/11, 2001 Remembered
+  score: 53.4219058668791
+  llm_score: 50
+  recency_score: 92.10952933439548
+  category_score: 0
   rank: 10
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F1004441039980745%2F&amp;show_text=false&amp;width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>

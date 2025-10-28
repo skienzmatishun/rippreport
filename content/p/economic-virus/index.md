@@ -10,63 +10,73 @@ alttags: Rolled US dollar bills radiating outwards, symbolizing potential econom
 related_articles:
 - slug: virus-vs-catalyst
   title: VIRUS vs. CATALYST
-  score: 87.89071065521195
-  llm_score: 85
+  score: 86.39071065521195
+  llm_score: 95
   recency_score: 99.45355327605971
+  category_score: 0
   rank: 1
 - slug: shelter-in-place
   title: SHELTER IN PLACE
-  score: 87.3002072693518
-  llm_score: 85
+  score: 80.20020726935181
+  llm_score: 87
   recency_score: 96.50103634675902
+  category_score: 0
   rank: 2
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 84.64601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
-  rank: 3
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 77.8369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
-  rank: 4
 - slug: catalyst-virus
   title: CATALYST VIRUS
-  score: 74.98553700495827
-  llm_score: 70
+  score: 78.48553700495829
+  llm_score: 85
   recency_score: 94.92768502479139
+  category_score: 0
+  rank: 3
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 76.14601135914225
+  llm_score: 85
+  recency_score: 83.23005679571122
+  category_score: 0
+  rank: 4
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 69.3369256908693
+  llm_score: 85
+  recency_score: 49.18462845434644
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 69.41503251862473
-  llm_score: 75
-  recency_score: 47.075162593123636
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 63.83667471122875
+  llm_score: 70
+  recency_score: 74.18337355614374
+  category_score: 0
   rank: 6
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 60.418194697423864
+  llm_score: 65
+  recency_score: 74.59097348711927
+  category_score: 0
+  rank: 7
 - slug: backstory-podcast-no-54-trump-positive
   title: Backstory Podcast No 54 Trump Positive
-  score: 63.690142580294264
+  score: 57.19014258029428
   llm_score: 65
   recency_score: 58.450712901471334
-  rank: 7
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 63.25024389308273
-  llm_score: 65
-  recency_score: 56.25121946541366
+  category_score: 0
   rank: 8
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 62.592178328446785
+- slug: backstory-podcast-no-64-300000-dead
+  title: Backstory Podcast No 64 - 300,000 Dead
+  score: 54.915032518624734
   llm_score: 65
-  recency_score: 52.96089164223393
+  recency_score: 47.075162593123636
+  category_score: 0
   rank: 9
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 56.94546996796693
-  llm_score: 65
+  score: 44.845469967966935
+  llm_score: 57
   recency_score: 24.727349839834638
+  category_score: 0
   rank: 10
 ---
 Again Alabama is dead last in response time for the corona virus, COVD-19. We have a Pandemic on our hands and most people are focused on medical issues.

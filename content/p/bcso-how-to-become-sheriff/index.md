@@ -16,63 +16,73 @@ alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear 
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 95.40625209818191
+  score: 85.90625209818191
   llm_score: 95
   recency_score: 97.03126049090956
+  category_score: 0
   rank: 1
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 87.56641283325074
+  score: 79.06641283325074
   llm_score: 85
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 2
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 86.37150396712644
+  score: 77.87150396712644
   llm_score: 85
   recency_score: 91.85751983563217
+  category_score: 0
   rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 85.72869172076295
+  score: 77.22869172076297
   llm_score: 85
   recency_score: 88.64345860381478
+  category_score: 0
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.3909761644817
-  llm_score: 85
-  recency_score: 51.95488082240847
-  rank: 5
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75.14222555805995
-  llm_score: 70
-  recency_score: 95.71112779029973
-  rank: 6
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 74.04041065927309
-  llm_score: 85
-  recency_score: 30.20205329636546
-  rank: 7
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 68.84006224036119
-  llm_score: 75
-  recency_score: 44.200311201805995
-  rank: 8
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 68.53075167564708
-  llm_score: 75
+  score: 71.53075167564708
+  llm_score: 90
   recency_score: 42.653758378235395
+  category_score: 0
+  rank: 5
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 71.1770404356204
+  llm_score: 92
+  recency_score: 33.88520217810198
+  category_score: 0
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 69.8909761644817
+  llm_score: 85
+  recency_score: 51.95488082240847
+  category_score: 0
+  rank: 7
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 65.5404106592731
+  llm_score: 85
+  recency_score: 30.20205329636546
+  category_score: 0
+  rank: 8
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 65.39329029325975
+  llm_score: 85
+  recency_score: 29.466451466298754
+  category_score: 0
   rank: 9
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 52.04148804696274
-  llm_score: 65
-  recency_score: 0.2074402348137073
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 61.340062240361206
+  llm_score: 75
+  recency_score: 44.200311201805995
+  category_score: 0
   rank: 10
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.

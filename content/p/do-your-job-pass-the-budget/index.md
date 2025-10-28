@@ -14,63 +14,73 @@ alttags: Exclamation point graphic representing a recent unexpected shoulder sur
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 82.79608191931776
+  score: 74.29608191931776
   llm_score: 85
   recency_score: 73.98040959658876
+  category_score: 0
   rank: 1
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 80.48413566258803
-  llm_score: 90
-  recency_score: 42.420678312940126
-  rank: 2
 - slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
   title: WHO’S RESPONSIBLE?
-  score: 78.6795960873464
+  score: 70.17959608734641
   llm_score: 85
   recency_score: 53.39798043673202
-  rank: 3
-- slug: 5000-00-cash-reward-rerun
+  category_score: 0
+  rank: 2
+- slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 72.00965881639365
-  llm_score: 90
-  recency_score: 0.048294081968240025
-  rank: 4
+  score: 67.98413566258803
+  llm_score: 85
+  recency_score: 42.420678312940126
+  category_score: 0
+  rank: 3
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 69.01488310709092
-  llm_score: 65
+  score: 66.01488310709092
+  llm_score: 70
   recency_score: 85.07441553545459
+  category_score: 0
+  rank: 4
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 63.00965881639365
+  llm_score: 90
+  recency_score: 0.048294081968240025
+  category_score: 0
   rank: 5
 - slug: bonus-money
   title: BONUS MONEY
-  score: 65.24956745472434
-  llm_score: 60
+  score: 62.74956745472434
+  llm_score: 65
   recency_score: 86.24783727362167
+  category_score: 0
   rank: 6
 - slug: zunk-the-skunk
   title: ZUNK THE SKUNK
-  score: 64.01484817064438
+  score: 57.51484817064439
   llm_score: 65
   recency_score: 60.07424085322191
+  category_score: 0
   rank: 7
+- slug: balls
+  title: BALLS
+  score: 55.15006981718642
+  llm_score: 65
+  recency_score: 48.25034908593207
+  category_score: 0
+  rank: 8
 - slug: shut-up-2
   title: SHUT UP
-  score: 57.57905799915855
+  score: 51.07905799915856
   llm_score: 65
   recency_score: 27.895289995792755
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: pay-executives-first-boy-scouts-come-last
   title: PAY EXECUTIVES FIRST — BOY SCOUTS COME LAST
-  score: 57.05506043454496
+  score: 50.55506043454497
   llm_score: 65
   recency_score: 25.27530217272481
-  rank: 9
-- slug: transparency
-  title: TRANSPARENCY
-  score: 55.60890176713603
-  llm_score: 65
-  recency_score: 18.044508835680173
+  category_score: 0
   rank: 10
 ---
 Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam, on Friday. The first three days of recovery are no fun and the drug fog does not allow you to think. I hope to recover fast enough that I may be able to give a special Christmas present to a well deserving recipient.

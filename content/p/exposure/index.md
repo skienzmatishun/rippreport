@@ -12,63 +12,73 @@ alttags: Statue of Justice holding scales against a dark background, representin
 related_articles:
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 87.72789538259508
-  llm_score: 85
+  score: 86.22789538259508
+  llm_score: 95
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 85.24956745472434
+  score: 76.74956745472434
   llm_score: 85
   recency_score: 86.24783727362167
+  category_score: 0
   rank: 2
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 80.27749588022975
-  llm_score: 90
+  score: 67.77749588022976
+  llm_score: 85
   recency_score: 41.38747940114875
+  category_score: 0
   rank: 3
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 72.54278605679045
+  score: 64.04278605679046
   llm_score: 85
   recency_score: 22.713930283952266
+  category_score: 0
   rank: 4
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 72.16147367298336
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 63.188874192619664
   llm_score: 85
-  recency_score: 20.807368364916808
+  recency_score: 18.444370963098283
+  category_score: 0
   rank: 5
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 63.172442335736825
+  llm_score: 90
+  recency_score: 0.8622116786841
+  category_score: 0
+  rank: 6
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 68.1641446131058
-  llm_score: 85
+  score: 63.16414461310581
+  llm_score: 90
   recency_score: 0.8207230655290094
-  rank: 6
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 68.00455937787216
-  llm_score: 85
-  recency_score: 0.022796889360761432
+  category_score: 0
   rank: 7
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 68.0043998468976
-  llm_score: 85
+  score: 63.0043998468976
+  llm_score: 90
   recency_score: 0.02199923448795886
+  category_score: 0
   rank: 8
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 63.68887419261966
-  llm_score: 75
-  recency_score: 18.444370963098283
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 59.50455937787216
+  llm_score: 85
+  recency_score: 0.022796889360761432
+  category_score: 0
   rank: 9
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 60.17244233573682
-  llm_score: 75
-  recency_score: 0.8622116786841
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 53.16147367298337
+  llm_score: 70
+  recency_score: 20.807368364916808
+  category_score: 0
   rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle had a record posting:

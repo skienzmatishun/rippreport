@@ -15,65 +15,75 @@ authors:
 - ripp-report
 alttags: New gas station under construction on a roundabout in Fairhope, Alabama; criticized for poor planning and safety concerns
 related_articles:
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 72.82943663570212
-  llm_score: 70
-  recency_score: 84.14718317851063
-  rank: 1
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 70.52312487593501
-  llm_score: 65
-  recency_score: 92.61562437967505
-  rank: 2
-- slug: misery-loves-company
-  title: MISERY LOVES COMPANY
-  score: 70.47244604336203
-  llm_score: 65
-  recency_score: 92.36223021681012
-  rank: 3
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 70.17127158449026
-  llm_score: 65
-  recency_score: 90.85635792245131
-  rank: 4
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 68.55415564363686
+  score: 71.02312487593503
   llm_score: 75
-  recency_score: 42.77077821818432
-  rank: 5
+  recency_score: 92.61562437967505
+  category_score: 0
+  rank: 1
+- slug: round-and-round-we-go
+  title: ROUND AND ROUND WE GO
+  score: 69.58249514970657
+  llm_score: 85
+  recency_score: 50.412475748532785
+  category_score: 0
+  rank: 2
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 69.32943663570214
+  llm_score: 75
+  recency_score: 84.14718317851063
+  category_score: 0
+  rank: 3
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
-  score: 67.29061318606567
-  llm_score: 65
+  score: 64.29061318606568
+  llm_score: 70
   recency_score: 76.45306593032835
+  category_score: 0
+  rank: 4
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 63.972446043362034
+  llm_score: 65
+  recency_score: 92.36223021681012
+  category_score: 0
+  rank: 5
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 61.054155643636875
+  llm_score: 75
+  recency_score: 42.77077821818432
+  category_score: 0
   rank: 6
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 63.793316599143736
-  llm_score: 70
+  score: 53.29331659914374
+  llm_score: 65
   recency_score: 38.96658299571869
+  category_score: 0
   rank: 7
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 61.84443063272825
-  llm_score: 75
-  recency_score: 9.22215316364123
-  rank: 8
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 61.44532616133365
-  llm_score: 75
-  recency_score: 7.226630806668228
-  rank: 9
 - slug: rsa-⁠-no-gas-for-point-clear-or-tourism
   title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
-  score: 58.069359466397685
-  llm_score: 70
+  score: 47.56935946639769
+  llm_score: 65
   recency_score: 10.34679733198841
+  category_score: 0
+  rank: 8
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 47.344430632728255
+  llm_score: 65
+  recency_score: 9.22215316364123
+  category_score: 0
+  rank: 9
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 46.945326161333654
+  llm_score: 65
+  recency_score: 7.226630806668228
+  category_score: 0
   rank: 10
 ---
 Fairhope has been cited for many national awards for its beauty. But, it deserves awards for more than just flowers. Placing a gas station located on a safety roundabout in a residential area on the city’s gateway, Fairhope Avenue and 13, only two blocks from three other filling stations/convenience stores, certainly will be an American oddity; and altogether deserving of an Onion American Planning award. This is so bad in terms of safety negligence that it even beats building a fire station on a dead end road (Parker); or having an open sewer line regularly discharge into Mobile Bay, along with all of Trip Pittman and Tim Kant’s expensive BP anchors.

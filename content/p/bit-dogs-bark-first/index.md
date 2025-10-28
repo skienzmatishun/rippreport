@@ -19,63 +19,73 @@ alttags: Labrador Retriever dog grinning mischievously, perhaps distracted like 
 related_articles:
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
-  score: 86.17127158449026
-  llm_score: 85
+  score: 78.37127158449027
+  llm_score: 86
   recency_score: 90.85635792245131
+  category_score: 0
   rank: 1
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 84.50975554986516
+  score: 76.00975554986516
   llm_score: 85
   recency_score: 82.54877774932578
+  category_score: 0
   rank: 2
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 71.72789538259508
-  llm_score: 65
-  recency_score: 98.63947691297537
-  rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 71.60890176713603
-  llm_score: 85
-  recency_score: 18.044508835680173
-  rank: 4
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 67.00016259450726
-  llm_score: 65
+  score: 74.50016259450726
+  llm_score: 85
   recency_score: 75.00081297253628
-  rank: 5
-- slug: comment-are-you-surprised-at-all
-  title: 'Comment: Are You Surprised at all??????'
-  score: 66.83667471122875
-  llm_score: 65
-  recency_score: 74.18337355614374
-  rank: 6
+  category_score: 0
+  rank: 3
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 65.22400374104741
-  llm_score: 65
+  score: 72.72400374104741
+  llm_score: 85
   recency_score: 66.12001870523703
+  category_score: 0
+  rank: 4
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 72.22789538259508
+  llm_score: 75
+  recency_score: 98.63947691297537
+  category_score: 0
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.10890176713604
+  llm_score: 85
+  recency_score: 18.044508835680173
+  category_score: 0
+  rank: 6
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 53.04200128617528
+  llm_score: 75
+  recency_score: 2.7100064308763563
+  category_score: 0
   rank: 7
 - slug: no-qualifications
   title: NO QUALIFICATIONS
-  score: 60.250988058111595
+  score: 52.7509880581116
   llm_score: 75
   recency_score: 1.2549402905579714
+  category_score: 0
   rank: 8
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 57.1450614468658
-  llm_score: 70
-  recency_score: 5.7253072343290325
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 45.7934096467422
+  llm_score: 65
+  recency_score: 1.4670482337109607
+  category_score: 0
   rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 52.027810269549995
+  score: 45.52781026955
   llm_score: 65
   recency_score: 0.1390513477499682
+  category_score: 0
   rank: 10
 ---
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple of councilmen were hoping you were distracted.

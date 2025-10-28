@@ -13,63 +13,73 @@ authors:
 related_articles:
 - slug: backstory-podcast-55
   title: BACKSTORY PODCAST 55
-  score: 87.72789538259508
-  llm_score: 85
+  score: 80.62789538259509
+  llm_score: 87
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
 - slug: backstory-podcast-no-54-trump-positive
   title: Backstory Podcast No 54 Trump Positive
-  score: 87.24740235768714
+  score: 78.74740235768715
   llm_score: 85
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 87.24740235768714
-  llm_score: 85
-  recency_score: 96.23701178843567
-  rank: 3
 - slug: backstory-podcast-the-46th-president-of-the-united-states
   title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 86.83013102490949
+  score: 78.3301310249095
   llm_score: 85
   recency_score: 94.15065512454748
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-no-64-300000-dead
   title: Backstory Podcast No 64 - 300,000 Dead
-  score: 84.73747273054873
+  score: 76.23747273054873
   llm_score: 85
   recency_score: 83.68736365274363
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-58-the-rushin-prognostication
+  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
+  score: 71.74740235768715
+  llm_score: 75
+  recency_score: 96.23701178843567
+  category_score: 0
   rank: 5
 - slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
   title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 84.19614691902797
-  llm_score: 85
+  score: 68.69614691902798
+  llm_score: 75
   recency_score: 80.98073459513984
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 81.15174160583071
-  llm_score: 85
-  recency_score: 65.75870802915355
-  rank: 7
 - slug: backstory-podcast-no-76-a-plague-of-apathy
   title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 69.07987434468455
-  llm_score: 70
+  score: 65.57987434468457
+  llm_score: 75
   recency_score: 65.39937172342279
+  category_score: 0
+  rank: 7
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 61.43208520393645
+  llm_score: 65
+  recency_score: 79.6604260196822
+  category_score: 0
   rank: 8
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 67.6262621791403
-  llm_score: 70
-  recency_score: 58.1313108957015
-  rank: 9
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 66.43570824436047
+  score: 59.93570824436047
   llm_score: 65
   recency_score: 72.17854122180232
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 58.65174160583072
+  llm_score: 65
+  recency_score: 65.75870802915355
+  category_score: 0
   rank: 10
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F635796027084010%2F&amp;show_text=false&amp;width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>

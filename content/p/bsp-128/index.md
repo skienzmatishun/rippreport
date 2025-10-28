@@ -7,65 +7,75 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: im-back-2
+  title: I'M BACK
+  score: 67.08269941687314
+  llm_score: 85
+  recency_score: 37.913497084365645
+  category_score: 0
+  rank: 1
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 83.10408372408847
-  llm_score: 100
+  score: 66.10408372408848
+  llm_score: 90
   recency_score: 15.520418620442342
-  rank: 1
+  category_score: 0
+  rank: 2
 - slug: backstory-podcast-35-contrarians
   title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 82.6625755797404
-  llm_score: 100
+  score: 60.06257557974041
+  llm_score: 82
   recency_score: 13.312877898702032
-  rank: 2
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 81.95366066397163
-  llm_score: 100
-  recency_score: 9.768303319858143
+  category_score: 0
   rank: 3
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 80.04395041759872
-  llm_score: 98
-  recency_score: 8.219752087993566
-  rank: 4
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 69.52673204660475
-  llm_score: 85
-  recency_score: 7.633660233023765
-  rank: 5
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 69.514234992141
-  llm_score: 85
-  recency_score: 7.57117496070502
-  rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 62.19191013062844
-  llm_score: 75
-  recency_score: 10.959550653142209
-  rank: 7
 - slug: backstory-podcast-12
   title: 'BACKSTORY PODCAST #12'
-  score: 61.68499007034101
-  llm_score: 75
+  score: 57.684990070341016
+  llm_score: 80
   recency_score: 8.424950351705032
+  category_score: 0
+  rank: 4
+- slug: big-mules
+  title: Big Mules
+  score: 56.10014946474216
+  llm_score: 70
+  recency_score: 35.500747323710755
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 54.45366066397163
+  llm_score: 75
+  recency_score: 9.768303319858143
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 54.143950417598724
+  llm_score: 75
+  recency_score: 8.219752087993566
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 54.026732046604764
+  llm_score: 75
+  recency_score: 7.633660233023765
+  category_score: 0
   rank: 8
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 61.342270268422986
-  llm_score: 75
+  score: 50.34227026842299
+  llm_score: 70
   recency_score: 6.711351342114945
+  category_score: 0
   rank: 9
-- slug: im-back-2
-  title: I'M BACK
-  score: 59.582699416873126
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 47.69191013062845
   llm_score: 65
-  recency_score: 37.913497084365645
+  recency_score: 10.959550653142209
+  category_score: 0
   rank: 10
 ---
 Novelis is Building a New, Low-Carbon, $2.5 Billion Aluminum Plant Recycling & Rolling facility in Bay Minette, Alabama, is the first of its kind and first fully integrated, U.S. mill built in 40 year and they are building it on the Baldwin County Megasite!

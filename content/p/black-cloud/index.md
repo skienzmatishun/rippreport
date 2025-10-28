@@ -8,65 +8,75 @@ authors:
 - admin
 alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues
 related_articles:
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 84.50741174036145
-  llm_score: 95
-  recency_score: 42.537058701807275
-  rank: 1
 - slug: total-darkness
   title: TOTAL DARKNESS
-  score: 82.79608191931776
+  score: 74.29608191931776
   llm_score: 85
   recency_score: 73.98040959658876
+  category_score: 0
+  rank: 1
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 71.50741174036146
+  llm_score: 90
+  recency_score: 42.537058701807275
+  category_score: 0
   rank: 2
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 82.0
-  llm_score: 90
+  score: 67.4
+  llm_score: 82
   recency_score: 50
+  category_score: 0
   rank: 3
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 76.16235558880828
-  llm_score: 95
-  recency_score: 0.8117779440414381
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 65.2964138533017
+  llm_score: 90
+  recency_score: 11.48206926650847
+  category_score: 0
   rank: 4
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 75.64527980108477
-  llm_score: 85
-  recency_score: 38.22639900542388
-  rank: 5
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 73.29607060479165
+  score: 64.79607060479167
   llm_score: 85
   recency_score: 26.48035302395829
-  rank: 6
+  category_score: 0
+  rank: 5
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 69.65298308953878
+  score: 61.15298308953879
   llm_score: 85
   recency_score: 8.264915447693923
-  rank: 7
+  category_score: 0
+  rank: 6
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 68.84480344505099
+  score: 60.34480344505099
   llm_score: 85
   recency_score: 4.224017225254928
+  category_score: 0
+  rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 60.14527980108478
+  llm_score: 75
+  recency_score: 38.22639900542388
+  category_score: 0
   rank: 8
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 68.5102977617175
-  llm_score: 85
-  recency_score: 2.5514888085874565
-  rank: 9
 - slug: law-and-disorder-part-1
   title: LAW and DisORDER Part 1
-  score: 56.887509352556116
-  llm_score: 70
+  score: 53.38750935255612
+  llm_score: 75
   recency_score: 4.437546762780576
+  category_score: 0
+  rank: 9
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 45.662355588808296
+  llm_score: 65
+  recency_score: 0.8117779440414381
+  category_score: 0
   rank: 10
 ---
 The most favorite words of a politician or elected official in Baldwin County are Transparency and Accountability, The most lacking quality of life issue, in Baldwin County, is Transparency and Accountability.

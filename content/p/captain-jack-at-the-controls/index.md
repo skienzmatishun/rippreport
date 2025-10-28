@@ -16,63 +16,73 @@ alttags: Aircraft cockpit view shows runway and fountain; Fairhope Airport expan
 related_articles:
 - slug: captain-jack
   title: CAPTAIN JACK
-  score: 84.82943663570212
+  score: 76.32943663570214
   llm_score: 85
   recency_score: 84.14718317851063
+  category_score: 0
   rank: 1
-- slug: flying-high
-  title: FLYING HIGH
-  score: 76.93747241426176
-  llm_score: 85
-  recency_score: 44.68736207130882
-  rank: 2
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 71.8226265046153
-  llm_score: 85
-  recency_score: 19.113132523076512
-  rank: 3
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 71.60890176713603
+  score: 63.10890176713604
   llm_score: 85
   recency_score: 18.044508835680173
-  rank: 4
+  category_score: 0
+  rank: 2
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 70.4727263186165
+  score: 61.972726318616495
   llm_score: 85
   recency_score: 12.36363159308245
-  rank: 5
+  category_score: 0
+  rank: 3
 - slug: fairhope-airport-authority-flying-without-a-compass
   title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 70.10942881080481
+  score: 61.609428810804815
   llm_score: 85
   recency_score: 10.547144054024043
-  rank: 6
+  category_score: 0
+  rank: 4
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 70.0412053531038
+  score: 61.54120535310382
   llm_score: 85
   recency_score: 10.20602676551906
-  rank: 7
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 62.20395356266881
+  category_score: 0
+  rank: 5
+- slug: flying-high
+  title: FLYING HIGH
+  score: 61.43747241426178
   llm_score: 75
-  recency_score: 11.019767813344055
-  rank: 8
+  recency_score: 44.68736207130882
+  category_score: 0
+  rank: 6
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 52.82262650461531
+  llm_score: 70
+  recency_score: 19.113132523076512
+  category_score: 0
+  rank: 7
 - slug: whos-on-first
   title: ??? WHO’S ON FIRST ???
-  score: 58.721577636566764
+  score: 51.72157763656677
   llm_score: 70
   recency_score: 13.607888182833822
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 54.3796779187427
+  score: 47.87967791874271
   llm_score: 65
   recency_score: 11.898389593713517
+  category_score: 0
+  rank: 9
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 47.703953562668815
+  llm_score: 65
+  recency_score: 11.019767813344055
+  category_score: 0
   rank: 10
 ---
 The Fairhope Airport Authority, under control of Fairhope Council President Jack Burrell, continues to raise eyebrows,”What the hell is really going on at the Airport.” Millions of development dollars from federal agencies have expanded the airport with additional runways. Hangers are being offered on long term leases and no specific long range plan has been presented to the public.

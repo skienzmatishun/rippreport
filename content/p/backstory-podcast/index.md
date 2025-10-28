@@ -10,63 +10,73 @@ alttags: 'Backstory Podcast logo: a lamp shining light on text promoting Baldwin
 related_articles:
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'
-  score: 98.88179115997221
+  score: 88.88179115997221
   llm_score: 100
   recency_score: 94.40895579986105
+  category_score: 0
   rank: 1
 - slug: backstory-alabama-the-ripp-report-podcast-5
   title: 'BACKSTORY PODCAST #5'
-  score: 98.47244604336203
+  score: 88.47244604336203
   llm_score: 100
   recency_score: 92.36223021681012
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 96.50975554986516
-  llm_score: 100
-  recency_score: 82.54877774932578
-  rank: 3
 - slug: backstory-podcast-6
   title: BACKSTORY PODCAST 6
-  score: 96.32404723937734
-  llm_score: 98
+  score: 87.92404723937733
+  llm_score: 100
   recency_score: 89.62023619688662
+  category_score: 0
+  rank: 3
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 87.77733007636273
+  llm_score: 100
+  recency_score: 88.88665038181365
+  category_score: 0
   rank: 4
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 86.50975554986516
+  llm_score: 100
+  recency_score: 82.54877774932578
+  category_score: 0
+  rank: 5
 - slug: backstory-podcast-12
   title: 'BACKSTORY PODCAST #12'
-  score: 96.10764360478439
+  score: 86.10764360478439
   llm_score: 100
   recency_score: 80.5382180239219
-  rank: 5
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 94.35682478958158
-  llm_score: 100
-  recency_score: 71.78412394790789
+  category_score: 0
   rank: 6
 - slug: backstory-podcast-2
   title: BACKSTORY PODCAST
-  score: 93.89249424486937
+  score: 83.89249424486937
   llm_score: 100
   recency_score: 69.4624712243468
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 93.77733007636273
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 83.56156314124607
   llm_score: 95
-  recency_score: 88.88665038181365
+  recency_score: 85.30781570623031
+  category_score: 0
   rank: 8
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 91.78201851846809
-  llm_score: 90
+  score: 79.2820185184681
+  llm_score: 85
   recency_score: 98.91009259234048
+  category_score: 0
   rank: 9
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 88.74371374716179
+  score: 78.74371374716179
   llm_score: 100
   recency_score: 43.718568735808944
+  category_score: 0
   rank: 10
 ---
 [Backstory Podcast](https://www.facebook.com/BackstoryPodcast/) @BackstoryPodcast

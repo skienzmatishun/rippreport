@@ -7,65 +7,75 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 78.22723439081022
+  llm_score: 85
+  recency_score: 93.63617195405108
+  category_score: 0
+  rank: 1
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 73.36972132414267
-  llm_score: 75
+  score: 72.86972132414269
+  llm_score: 85
   recency_score: 66.84860662071335
-  rank: 1
+  category_score: 0
+  rank: 2
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 65.33977933106958
-  llm_score: 75
+  score: 64.8397793310696
+  llm_score: 85
   recency_score: 26.69889665534791
-  rank: 2
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 60.93193927883213
-  llm_score: 70
-  recency_score: 24.659696394160648
+  category_score: 0
   rank: 3
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 60.04850028839997
-  llm_score: 75
-  recency_score: 0.24250144199986415
+- slug: notice
+  title: 'NOTICE:'
+  score: 61.416550190464136
+  llm_score: 85
+  recency_score: 9.582750952320627
+  category_score: 0
   rank: 4
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 58.70317696989249
-  llm_score: 65
+  score: 59.203176969892496
+  llm_score: 75
   recency_score: 33.51588484946244
+  category_score: 0
   rank: 5
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 56.12652929392722
-  llm_score: 70
-  recency_score: 0.632646469636104
+- slug: cover-up
+  title: COVER UP
+  score: 56.61962391400206
+  llm_score: 58
+  recency_score: 80.0981195700103
+  category_score: 0
   rank: 6
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 53.53339065902054
-  llm_score: 60
+  score: 54.53339065902055
+  llm_score: 70
   recency_score: 27.666953295102704
+  category_score: 0
   rank: 7
-- slug: election-ad
-  title: ELECTION AD
-  score: 53.1513529774923
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 50.43193927883214
   llm_score: 65
-  recency_score: 5.756764887461509
+  recency_score: 24.659696394160648
+  category_score: 0
   rank: 8
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 48.27749588022975
-  llm_score: 50
-  recency_score: 41.38747940114875
-  rank: 9
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 44.39586260016436
-  llm_score: 50
+  score: 49.895862600164364
+  llm_score: 65
   recency_score: 21.979313000821772
+  category_score: 0
+  rank: 9
+- slug: freaky-friday-merry-christmas
+  title: FREAKY FRIDAY - MERRY CHRISTMAS
+  score: 45.54850028839998
+  llm_score: 65
+  recency_score: 0.24250144199986415
+  category_score: 0
   rank: 10
 ---
 Let’s top off 2022 by the most audacious local political corruption this year. I say audacious however it could be an example of the mental capacity of our elected officials. You would think that Sunday’s Sermon would be hard to beat:

@@ -15,65 +15,75 @@ authors:
 - ripp-report
 alttags: An elephant’s head emerging from a yellow Volkswagen Beetle, symbolizing deceptive appearances and hidden agendas in Fairh...
 related_articles:
-- slug: jack-ass
-  title: JACK ASS
-  score: 80.04781069641929
-  llm_score: 85
-  recency_score: 60.23905348209645
-  rank: 1
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 78.4219058668791
-  llm_score: 75
+  score: 77.9219058668791
+  llm_score: 85
   recency_score: 92.10952933439548
+  category_score: 0
+  rank: 1
+- slug: jack-ass
+  title: JACK ASS
+  score: 71.5478106964193
+  llm_score: 85
+  recency_score: 60.23905348209645
+  category_score: 0
   rank: 2
 - slug: gob-coup
   title: GOB COUP
-  score: 78.19359590659946
+  score: 69.69359590659947
   llm_score: 85
   recency_score: 50.96797953299731
+  category_score: 0
   rank: 3
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 75.35758882342884
+  score: 66.85758882342886
   llm_score: 85
   recency_score: 36.787944117144235
+  category_score: 0
   rank: 4
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 71.37421227523342
-  llm_score: 75
-  recency_score: 56.8710613761671
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 60.673646812728975
+  llm_score: 85
+  recency_score: 5.868234063644852
+  category_score: 0
   rank: 5
-- slug: skunked
-  title: SKUNKED
-  score: 67.25024389308274
-  llm_score: 70
-  recency_score: 56.25121946541366
-  rank: 6
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 64.96199221348299
-  llm_score: 70
-  recency_score: 44.809961067414925
-  rank: 7
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 64.82501799990771
+  score: 57.32501799990772
   llm_score: 75
   recency_score: 24.12508999953858
-  rank: 8
+  category_score: 0
+  rank: 6
+- slug: skunked
+  title: SKUNKED
+  score: 56.75024389308274
+  llm_score: 65
+  recency_score: 56.25121946541366
+  category_score: 0
+  rank: 7
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 59.9180547259494
-  llm_score: 70
+  score: 56.41805472594941
+  llm_score: 75
   recency_score: 19.590273629747017
+  category_score: 0
+  rank: 8
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 52.446222780246465
+  llm_score: 65
+  recency_score: 34.73111390123228
+  category_score: 0
   rank: 9
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 55.982993385108784
+  score: 49.48299338510879
   llm_score: 65
   recency_score: 19.91496692554393
+  category_score: 0
   rank: 10
 ---
 Some people will believe anything they are told without question. The last Fairhope City Council meeting is a perfect example, items 5 and 13, smell like a pig pen. It was all smoke and mirrors orchestrated to smell like roses. You can go on the city site, the council agenda, and get details.

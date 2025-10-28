@@ -20,63 +20,73 @@ alttags: Crowd illustration representing Fairhope citizens encouraged by Council
 related_articles:
 - slug: 100-voices
   title: 100 VOICES
-  score: 95.4594928113308
+  score: 85.9594928113308
   llm_score: 95
   recency_score: 97.29746405665401
+  category_score: 0
   rank: 1
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 87.5866878197373
-  llm_score: 90
-  recency_score: 77.93343909868652
-  rank: 2
 - slug: pedaling-forward
   title: PEDALING FORWARD
-  score: 86.52312487593501
-  llm_score: 85
+  score: 78.72312487593501
+  llm_score: 86
   recency_score: 92.61562437967505
+  category_score: 0
+  rank: 2
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 76.48668781973731
+  llm_score: 87
+  recency_score: 77.93343909868652
+  category_score: 0
   rank: 3
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 76.27749588022975
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 72.68782317885686
   llm_score: 85
-  recency_score: 41.38747940114875
+  recency_score: 65.93911589428427
+  category_score: 0
   rank: 4
 - slug: invitation
   title: INVITATION
-  score: 73.73402200483869
+  score: 65.23402200483869
   llm_score: 85
   recency_score: 28.67011002419343
+  category_score: 0
   rank: 5
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 73.18782317885686
-  llm_score: 75
-  recency_score: 65.93911589428427
-  rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 70.66988030926576
-  llm_score: 85
-  recency_score: 13.34940154632884
-  rank: 7
 - slug: people-power
   title: PEOPLE POWER
-  score: 69.89047508264845
+  score: 61.39047508264845
   llm_score: 85
   recency_score: 9.45237541324223
+  category_score: 0
+  rank: 6
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 60.77749588022976
+  llm_score: 75
+  recency_score: 41.38747940114875
+  category_score: 0
+  rank: 7
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 52.446222780246465
+  llm_score: 65
+  recency_score: 34.73111390123228
+  category_score: 0
   rank: 8
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 62.79717222124315
-  llm_score: 75
-  recency_score: 13.985861106215753
-  rank: 9
-- slug: catalyst-party
-  title: CATALYST PARTY
-  score: 58.94622278024646
+  score: 48.29717222124316
   llm_score: 65
-  recency_score: 34.73111390123228
+  recency_score: 13.985861106215753
+  category_score: 0
+  rank: 9
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 48.16988030926578
+  llm_score: 65
+  recency_score: 13.34940154632884
+  category_score: 0
   rank: 10
 ---
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on the Triangle property 109 acres.

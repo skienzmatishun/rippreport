@@ -10,63 +10,73 @@ alttags: Illustration depicting a figure pushing a box downwards, while another 
 related_articles:
 - slug: catalyst-panic-and-confusion
   title: CATALYST PANIC and CONFUSION
-  score: 88.82943663570212
+  score: 79.82943663570214
   llm_score: 90
   recency_score: 84.14718317851063
+  category_score: 0
   rank: 1
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 85.24956745472434
+  score: 76.74956745472434
   llm_score: 85
   recency_score: 86.24783727362167
+  category_score: 0
   rank: 2
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 82.88638684588861
-  llm_score: 90
-  recency_score: 54.43193422944308
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 76.10046826485723
+  llm_score: 85
+  recency_score: 83.00234132428609
+  category_score: 0
   rank: 3
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 80.14724185949737
-  llm_score: 85
+  score: 75.14724185949737
+  llm_score: 90
   recency_score: 60.73620929748681
+  category_score: 0
   rank: 4
-- slug: catalyst-2
-  title: CATALYST
-  score: 77.50315362704151
-  llm_score: 90
-  recency_score: 27.51576813520753
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70.38638684588862
+  llm_score: 85
+  recency_score: 54.43193422944308
+  category_score: 0
   rank: 5
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 76.4564942330773
-  llm_score: 90
-  recency_score: 22.28247116538646
-  rank: 6
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 74.15737211473652
-  llm_score: 85
+  score: 69.15737211473653
+  llm_score: 90
   recency_score: 30.7868605736826
-  rank: 7
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 73.97457577604462
-  llm_score: 85
-  recency_score: 29.872878880223098
-  rank: 8
+  category_score: 0
+  rank: 6
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
-  score: 72.61817724699341
-  llm_score: 90
+  score: 67.11817724699341
+  llm_score: 95
   recency_score: 3.090886234967053
+  category_score: 0
+  rank: 7
+- slug: catalyst-2
+  title: CATALYST
+  score: 65.00315362704151
+  llm_score: 85
+  recency_score: 27.51576813520753
+  category_score: 0
+  rank: 8
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 63.9564942330773
+  llm_score: 85
+  recency_score: 22.28247116538646
+  category_score: 0
   rank: 9
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 71.5990278970599
+  score: 63.099027897059905
   llm_score: 85
   recency_score: 17.995139485299486
+  category_score: 0
   rank: 10
 ---
 Sorry for a repeat article. Eye procedures have prevented me from seeing, however this particular post has become more factual, since the General Election.

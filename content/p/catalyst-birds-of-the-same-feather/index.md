@@ -18,65 +18,75 @@ authors:
 - ripp-report
 alttags: Orange puppet bird with crossed-out Catalyst label, symbolizing the political group described in this article
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 88.19614691902797
-  llm_score: 90
-  recency_score: 80.98073459513984
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 85.02312487593501
+  llm_score: 95
+  recency_score: 92.61562437967505
+  category_score: 0
   rank: 1
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 86.88179115997221
-  llm_score: 85
+  score: 79.78179115997222
+  llm_score: 87
   recency_score: 94.40895579986105
+  category_score: 0
   rank: 2
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 86.52312487593501
-  llm_score: 85
-  recency_score: 92.61562437967505
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 79.19614691902798
+  llm_score: 90
+  recency_score: 80.98073459513984
+  category_score: 0
   rank: 3
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 86.17127158449026
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 78.8531570503679
   llm_score: 85
-  recency_score: 90.85635792245131
+  recency_score: 96.76578525183945
+  category_score: 0
   rank: 4
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 76.74956745472434
+  llm_score: 85
+  recency_score: 86.24783727362167
+  category_score: 0
+  rank: 5
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 74.79061318606568
+  llm_score: 85
+  recency_score: 76.45306593032835
+  category_score: 0
+  rank: 6
 - slug: catalyst-2
   title: CATALYST
-  score: 78.93857289717093
+  score: 69.43857289717093
   llm_score: 95
   recency_score: 14.692864485854656
-  rank: 5
+  category_score: 0
+  rank: 7
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 78.4727263186165
-  llm_score: 95
+  score: 61.972726318616495
+  llm_score: 85
   recency_score: 12.36363159308245
-  rank: 6
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 71.2879123572438
-  llm_score: 85
-  recency_score: 16.439561786218995
-  rank: 7
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 70.29013091918722
-  llm_score: 85
-  recency_score: 11.45065459593608
+  category_score: 0
   rank: 8
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 69.97518838853348
+  score: 61.475188388533496
   llm_score: 85
   recency_score: 9.87594194266743
+  category_score: 0
   rank: 9
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
-  score: 68.33009416541387
+  score: 59.830094165413875
   llm_score: 85
   recency_score: 1.6504708270693496
+  category_score: 0
   rank: 10
 ---
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate and all four Baldwin County commission races.

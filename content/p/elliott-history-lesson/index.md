@@ -13,63 +13,73 @@ authors:
 related_articles:
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 85.06156314124607
+  score: 76.56156314124607
   llm_score: 85
   recency_score: 85.30781570623031
+  category_score: 0
   rank: 1
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 84.7833916941887
+  score: 76.28339169418871
   llm_score: 85
   recency_score: 83.91695847094347
+  category_score: 0
   rank: 2
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 72.62221429547445
-  llm_score: 75
-  recency_score: 63.11107147737226
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 69.28951922405031
+  llm_score: 95
+  recency_score: 13.947596120251541
+  category_score: 0
   rank: 3
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 70.43241102906582
-  llm_score: 85
-  recency_score: 12.162055145329097
-  rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 70.41911919868473
-  llm_score: 85
+  score: 68.91911919868473
+  llm_score: 95
   recency_score: 12.09559599342363
+  category_score: 0
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 61.932411029065825
+  llm_score: 85
+  recency_score: 12.162055145329097
+  category_score: 0
   rank: 5
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 60.12243706484228
-  llm_score: 75
-  recency_score: 0.6121853242114159
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 61.622214295474464
+  llm_score: 70
+  recency_score: 63.11107147737226
+  category_score: 0
   rank: 6
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 60.051938633412554
-  llm_score: 75
-  recency_score: 0.25969316706275425
-  rank: 7
-- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
-  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 60.0199087390866
-  llm_score: 75
-  recency_score: 0.09954369543301661
-  rank: 8
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 52.09107713006184
-  llm_score: 65
+  score: 52.59107713006185
+  llm_score: 75
   recency_score: 0.4553856503092191
-  rank: 9
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 52.06431298308803
+  category_score: 0
+  rank: 7
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 49.12243706484229
+  llm_score: 70
+  recency_score: 0.6121853242114159
+  category_score: 0
+  rank: 8
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 45.55193863341256
   llm_score: 65
-  recency_score: 0.321564915440132
+  recency_score: 0.25969316706275425
+  category_score: 0
+  rank: 9
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 42.01990873908661
+  llm_score: 60
+  recency_score: 0.09954369543301661
+  category_score: 0
   rank: 10
 ---
 Senator Chris Elliott is a perfect example of a politician out of touch with his constituents. His grandstanding is political and an attempt to cater to a small base, who vote. He is shameless and uses his church to push his political aspirations, a common practice in the deep south. Professing to be a christian is at the top of criteria to be elected. Ethics, conflicts of interest and accountability are not on the list.

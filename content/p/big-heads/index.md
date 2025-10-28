@@ -18,65 +18,75 @@ authors:
 - ripp-report
 alttags: Blue stick figure icon representing public discussion regarding land transfer for Tatumville Subdivision in Fairhope
 related_articles:
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 91.72789538259508
-  llm_score: 90
-  recency_score: 98.63947691297537
-  rank: 1
 - slug: big-head-gully-and-the-fruit-nuts
   title: BIG HEAD GULLY AND THE FRUIT NUTS
-  score: 87.56641283325074
-  llm_score: 85
+  score: 86.06641283325074
+  llm_score: 95
   recency_score: 97.83206416625366
+  category_score: 0
+  rank: 1
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 82.72789538259508
+  llm_score: 90
+  recency_score: 98.63947691297537
+  category_score: 0
   rank: 2
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 85.72869172076295
-  llm_score: 85
+  score: 77.92869172076297
+  llm_score: 86
   recency_score: 88.64345860381478
+  category_score: 0
   rank: 3
-- slug: eagles-eye-catalyst-kant-corte
-  title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 76.1518346432357
-  llm_score: 75
-  recency_score: 80.75917321617852
-  rank: 4
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 73.39192896735389
-  llm_score: 70
+  score: 76.8919289673539
+  llm_score: 85
   recency_score: 86.95964483676948
-  rank: 5
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 63.8226265046153
+  category_score: 0
+  rank: 4
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 68.65183464323572
   llm_score: 75
-  recency_score: 19.113132523076512
+  recency_score: 80.75917321617852
+  category_score: 0
+  rank: 5
+- slug: catalyst
+  title: CATALYST
+  score: 65.11053014836327
+  llm_score: 80
+  recency_score: 45.55265074181627
+  category_score: 0
   rank: 6
 - slug: full-plate
   title: FULL PLATE
-  score: 59.40541722763621
-  llm_score: 60
-  recency_score: 57.02708613818104
-  rank: 7
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 56.93193927883213
+  score: 56.90541722763622
   llm_score: 65
-  recency_score: 24.659696394160648
+  recency_score: 57.02708613818104
+  category_score: 0
+  rank: 7
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 56.32262650461531
+  llm_score: 75
+  recency_score: 19.113132523076512
+  category_score: 0
   rank: 8
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 55.55006229161194
-  llm_score: 65
+  score: 56.05006229161195
+  llm_score: 75
   recency_score: 17.750311458059702
+  category_score: 0
   rank: 9
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 53.87500061211332
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 52.9795350406869
   llm_score: 65
-  recency_score: 9.375003060566598
+  recency_score: 37.39767520343444
+  category_score: 0
   rank: 10
 ---
 Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 - 6:00 P.M. - CITY COUNCIL CHAMBER

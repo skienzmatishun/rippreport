@@ -7,65 +7,75 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 78.34730185126138
-  llm_score: 95
-  recency_score: 11.736509256306908
+- slug: he-must-go
+  title: He Must Go
+  score: 78.3301310249095
+  llm_score: 85
+  recency_score: 94.15065512454748
+  category_score: 0
   rank: 1
 - slug: backstory-podcast-12
   title: 'BACKSTORY PODCAST #12'
-  score: 78.02449708099662
-  llm_score: 95
+  score: 72.02449708099662
+  llm_score: 100
   recency_score: 10.122485404983125
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 77.83435180196035
-  llm_score: 95
-  recency_score: 9.17175900980176
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 71.97518838853348
+  llm_score: 100
+  recency_score: 9.87594194266743
+  category_score: 0
   rank: 3
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 77.81933672814583
-  llm_score: 95
-  recency_score: 9.096683640729124
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 59.67959608734641
+  llm_score: 70
+  recency_score: 53.39798043673202
+  category_score: 0
   rank: 4
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 76.59284380160639
-  llm_score: 90
-  recency_score: 22.96421900803196
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 57.864314796474375
+  llm_score: 70
+  recency_score: 44.32157398237182
+  category_score: 0
   rank: 5
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 71.72952253499894
-  llm_score: 85
+  score: 56.22952253499895
+  llm_score: 75
   recency_score: 18.647612674994708
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 70.27138506860403
-  llm_score: 85
-  recency_score: 11.356925343020198
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 54.72214289777941
+  llm_score: 75
+  recency_score: 11.110714488897043
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 69.97518838853348
-  llm_score: 85
-  recency_score: 9.87594194266743
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 53.5928438016064
+  llm_score: 70
+  recency_score: 22.96421900803196
+  category_score: 0
   rank: 8
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 69.72705423883461
-  llm_score: 85
-  recency_score: 8.635271194173066
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 50.83435180196036
+  llm_score: 70
+  recency_score: 9.17175900980176
+  category_score: 0
   rank: 9
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 50.679596087346404
-  llm_score: 50
-  recency_score: 53.39798043673202
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 50.76532535989397
+  llm_score: 70
+  recency_score: 8.82662679946983
+  category_score: 0
   rank: 10
 ---
 For the Record: 1. Harry Still is a Republican 2. Francis Paul Ripp is an Independent 3. Raines Rushin is a Democrat. The purpose of Backstory Podcast was to create a space for honest debate with a range of opinions and learned debate. And to highlight the level of public corruption in Alabama that Mr. Ripp runs across in his Not For Profit Consumer Protection Agency and Mr. Still observes in his Law Practice.

@@ -15,63 +15,73 @@ alttags: Question mark icon representing ongoing debate over Fly Creek PUD sunse
 related_articles:
 - slug: fairness
   title: FAIRNESS
-  score: 91.67392032634467
+  score: 82.67392032634467
   llm_score: 90
   recency_score: 98.36960163172333
+  category_score: 0
   rank: 1
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 82.41948362581483
-  llm_score: 90
-  recency_score: 52.09741812907417
-  rank: 2
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 81.94532047544666
+  score: 72.94532047544666
   llm_score: 90
   recency_score: 49.72660237723329
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 76.41468882960316
+  score: 67.91468882960316
   llm_score: 85
   recency_score: 42.0734441480158
+  category_score: 0
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 67.81948362581484
+  llm_score: 82
+  recency_score: 52.09741812907417
+  category_score: 0
   rank: 4
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 75.54126400432338
+  score: 67.0412640043234
   llm_score: 85
   recency_score: 37.70632002161693
+  category_score: 0
   rank: 5
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 75.07025208563968
-  llm_score: 90
-  recency_score: 15.35126042819837
-  rank: 6
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 74.92721807862874
+  score: 66.42721807862875
   llm_score: 85
   recency_score: 34.63609039314372
-  rank: 7
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 70.79717222124314
+  category_score: 0
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 64.16896655615331
   llm_score: 85
-  recency_score: 13.985861106215753
+  recency_score: 23.3448327807665
+  category_score: 0
+  rank: 7
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 62.44663482050852
+  llm_score: 85
+  recency_score: 14.733174102542575
+  category_score: 0
   rank: 8
 - slug: 100-voices
   title: 100 VOICES
-  score: 70.72157763656676
+  score: 62.22157763656677
   llm_score: 85
   recency_score: 13.607888182833822
+  category_score: 0
   rank: 9
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 62.946634820508514
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 55.57025208563968
   llm_score: 75
-  recency_score: 14.733174102542575
+  recency_score: 15.35126042819837
+  category_score: 0
   rank: 10
 ---
 Sorry for the delay of the Ripp Report.

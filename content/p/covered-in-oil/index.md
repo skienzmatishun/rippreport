@@ -11,65 +11,75 @@ authors:
 - ripp-report
 alttags: Oil-covered hands symbolize failed Senate candidate Trip Pittman’s connection to a BP scandal and rejection by voters
 related_articles:
-- slug: dont-let-the-door-hit-you-in-the-ass
-  title: DON’T LET THE DOOR HIT YOU IN THE ASS
-  score: 82.2081892039405
-  llm_score: 95
-  recency_score: 31.040946019702552
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 73.82610187044025
+  llm_score: 80
+  recency_score: 89.13050935220119
+  category_score: 0
   rank: 1
 - slug: bp-catastrophe-alabama-disgrace
   title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 76.81587603866927
-  llm_score: 85
+  score: 71.81587603866929
+  llm_score: 90
   recency_score: 44.079380193346374
+  category_score: 0
   rank: 2
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 71.60890176713603
-  llm_score: 85
-  recency_score: 18.044508835680173
-  rank: 3
-- slug: oil-slick
-  title: OIL “SLICK”
-  score: 69.0432153391477
-  llm_score: 85
-  recency_score: 5.216076695738494
-  rank: 4
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
-  score: 68.64841536332693
-  llm_score: 75
+  score: 68.14841536332693
+  llm_score: 85
   recency_score: 43.242076816634636
+  category_score: 0
+  rank: 3
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 65.70818920394052
+  llm_score: 85
+  recency_score: 31.040946019702552
+  category_score: 0
+  rank: 4
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 64.04321533914771
+  llm_score: 90
+  recency_score: 5.216076695738494
+  category_score: 0
   rank: 5
 - slug: state-senate-seat-district-32-bombs-away
   title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 61.33796583595118
+  score: 54.83796583595119
   llm_score: 65
   recency_score: 46.6898291797559
+  category_score: 0
   rank: 6
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 60.09804508090537
-  llm_score: 65
-  recency_score: 40.49022540452686
-  rank: 7
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 60.07588902065245
-  llm_score: 65
-  recency_score: 40.37944510326223
-  rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 53.652983089538786
-  llm_score: 65
-  recency_score: 8.264915447693923
-  rank: 9
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 52.73747273054873
-  llm_score: 45
+  score: 54.53747273054873
+  llm_score: 54
   recency_score: 83.68736365274363
+  category_score: 0
+  rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 53.59804508090538
+  llm_score: 65
+  recency_score: 40.49022540452686
+  category_score: 0
+  rank: 8
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 53.575889020652454
+  llm_score: 65
+  recency_score: 40.37944510326223
+  category_score: 0
+  rank: 9
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 49.10890176713604
+  llm_score: 65
+  recency_score: 18.044508835680173
+  category_score: 0
   rank: 10
 ---
 Senate candidate, and BP contractor, Trip Pittman could not get the oil off him. He was rejected by his constituents and barely got 7% of the vote. Many in Baldwin County predicted he would receive less than 10%, they were right.

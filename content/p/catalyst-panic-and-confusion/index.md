@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: Red keyboard key labeled PANIC! symbolizing Catalyst Fairhope Councils concern over potential government changes
 related_articles:
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 76.74956745472434
+  llm_score: 85
+  recency_score: 86.24783727362167
+  category_score: 0
+  rank: 1
 - slug: catalyst
   title: CATALYST
-  score: 90.42943663570213
-  llm_score: 92
+  score: 76.32943663570214
+  llm_score: 85
   recency_score: 84.14718317851063
-  rank: 1
+  category_score: 0
+  rank: 2
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 84.60046826485723
+  score: 76.10046826485723
   llm_score: 85
   recency_score: 83.00234132428609
-  rank: 2
+  category_score: 0
+  rank: 3
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 83.67232874673901
+  score: 75.17232874673903
   llm_score: 85
   recency_score: 78.36164373369505
-  rank: 3
+  category_score: 0
+  rank: 4
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 74.21522921439814
+  llm_score: 85
+  recency_score: 73.57614607199059
+  category_score: 0
+  rank: 5
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 82.43570824436047
+  score: 73.93570824436047
   llm_score: 85
   recency_score: 72.17854122180232
-  rank: 4
+  category_score: 0
+  rank: 6
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 80.93731582528929
+  score: 72.43731582528929
   llm_score: 85
   recency_score: 64.6865791264464
-  rank: 5
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 73.18125519236987
-  llm_score: 85
-  recency_score: 25.906275961849367
-  rank: 6
+  category_score: 0
+  rank: 7
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 71.11259972348434
+  score: 62.61259972348435
   llm_score: 85
   recency_score: 15.562998617421716
-  rank: 7
+  category_score: 0
+  rank: 8
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 71.0284805971847
+  score: 62.528480597184696
   llm_score: 85
   recency_score: 15.142402985923455
-  rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 65.02743722240719
-  llm_score: 75
-  recency_score: 25.13718611203594
+  category_score: 0
   rank: 9
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 62.55785639436276
-  llm_score: 70
-  recency_score: 32.789281971813786
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 57.68125519236988
+  llm_score: 75
+  recency_score: 25.906275961849367
+  category_score: 0
   rank: 10
 ---
 The Catalyst Fairhope Council may be in it’s last days. The Council and the council’s legal representative has been asleep at the wheel. Instead of checking out all the legal ramifications of a change of government they selected to remain silent on the matter. They got bad advise and thought the decisions were that of the council and they were in control. WRONG the citizens are in control and Catalyst is worried.

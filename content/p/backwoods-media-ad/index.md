@@ -8,65 +8,75 @@ authors:
 - admin
 alttags: The Ripp Report podcast logo features a microphone and man seated in front of it, streaming facts
 related_articles:
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 90.1227513524759
-  llm_score: 95
-  recency_score: 70.6137567623795
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 71.74749363276266
+  llm_score: 85
+  recency_score: 61.23746816381321
+  category_score: 0
   rank: 1
 - slug: backstory-podcast-35-contrarians
   title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 84.46458524825911
-  llm_score: 85
+  score: 68.96458524825911
+  llm_score: 75
   recency_score: 82.32292624129552
+  category_score: 0
   rank: 2
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 80.24749363276264
-  llm_score: 85
-  recency_score: 61.23746816381321
-  rank: 3
 - slug: backstory-podcast-12
   title: 'BACKSTORY PODCAST #12'
-  score: 75.37462733344732
+  score: 67.87462733344734
   llm_score: 75
   recency_score: 76.87313666723661
-  rank: 4
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 75.00016259450726
-  llm_score: 75
-  recency_score: 75.00081297253628
-  rank: 5
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-2
   title: BACKSTORY PODCAST
-  score: 73.82610187044024
+  score: 66.82610187044025
   llm_score: 70
   recency_score: 89.13050935220119
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 66.62275135247592
+  llm_score: 75
+  recency_score: 70.6137567623795
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 66.3165791651947
+  llm_score: 75
+  recency_score: 69.0828958259734
+  category_score: 0
   rank: 6
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'
-  score: 73.11575875113695
+  score: 65.61575875113697
   llm_score: 75
   recency_score: 65.57879375568477
+  category_score: 0
   rank: 7
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 72.3824508821773
-  llm_score: 75
-  recency_score: 61.91225441088648
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 64.00016259450726
+  llm_score: 70
+  recency_score: 75.00081297253628
+  category_score: 0
   rank: 8
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 62.930608059802395
+  llm_score: 70
+  recency_score: 69.6530402990119
+  category_score: 0
+  rank: 9
 - slug: im-back-2
   title: I'M BACK
-  score: 56.83102978346773
-  llm_score: 70
+  score: 53.331029783467734
+  llm_score: 75
   recency_score: 4.155148917338647
-  rank: 9
-- slug: bsp-128
-  title: Big News
-  score: 54.19191013062844
-  llm_score: 65
-  recency_score: 10.959550653142209
+  category_score: 0
   rank: 10
 ---
 [![Backstory Podcast Backwoods Media LLC](https://cdn.rippreport.com/wp-content/uploads/2020/02/backwoods-ad-300x168.jpg)](https://drive.google.com/file/d/1553APxlxnKb7OGXZeaCiYTXEQhuHEsNd/view?usp=sharing)

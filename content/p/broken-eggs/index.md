@@ -18,63 +18,73 @@ alttags: Broken eggshells and yolk illustrate Fairhope City Council’s dysfunct
 related_articles:
 - slug: switching-hats
   title: SWITCHING HATS
-  score: 87.24740235768714
-  llm_score: 85
+  score: 80.14740235768714
+  llm_score: 87
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION
-  score: 86.52312487593501
-  llm_score: 85
+  score: 78.72312487593501
+  llm_score: 86
   recency_score: 92.61562437967505
+  category_score: 0
   rank: 2
 - slug: hell-yea
   title: HELL YEA
-  score: 83.75073027590142
+  score: 74.25073027590142
   llm_score: 95
   recency_score: 38.75365137950711
+  category_score: 0
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 82.07359964556152
-  llm_score: 95
-  recency_score: 30.367998227807558
-  rank: 4
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 80.55324061896812
-  llm_score: 85
-  recency_score: 62.766203094840556
-  rank: 5
-- slug: shut-up
-  title: SHUT UP
-  score: 78.62123778439704
-  llm_score: 85
-  recency_score: 53.10618892198522
-  rank: 6
 - slug: chasing-your-tail
   title: CHASING YOUR TAIL
-  score: 78.2081892039405
-  llm_score: 90
+  score: 65.70818920394052
+  llm_score: 85
   recency_score: 31.040946019702552
-  rank: 7
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 77.1247843082185
-  llm_score: 90
-  recency_score: 25.623921541092447
-  rank: 8
+  category_score: 0
+  rank: 4
+- slug: communication
+  title: COMMUNICATION
+  score: 64.8397793310696
+  llm_score: 85
+  recency_score: 26.69889665534791
+  category_score: 0
+  rank: 5
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 63.47359964556152
+  llm_score: 82
+  recency_score: 30.367998227807558
+  category_score: 0
+  rank: 6
 - slug: three-strikes
   title: THREE STRIKES
-  score: 71.90733502067299
+  score: 63.407335020673
   llm_score: 85
   recency_score: 19.53667510336496
-  rank: 9
+  category_score: 0
+  rank: 7
+- slug: going-down
+  title: GOING DOWN
+  score: 62.16988030926578
+  llm_score: 85
+  recency_score: 13.34940154632884
+  category_score: 0
+  rank: 8
 - slug: the-face-of-no
   title: THE FACE OF NO
-  score: 62.98438874372379
-  llm_score: 70
+  score: 59.4843887437238
+  llm_score: 75
   recency_score: 34.921943718618955
+  category_score: 0
+  rank: 9
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 59.0247843082185
+  llm_score: 77
+  recency_score: 25.623921541092447
+  category_score: 0
   rank: 10
 ---
 Fairhope City Council is as dysfunctional as a square bowling ball. Led by Council President Jack Burrell who has been president for going on 7 years. The council has achieved little in the last year other than obstruct the Mayor’s office. It was more of the same at the last council meeting when it came to light that not one of the council has discussed any issues related to the budget in the last two weeks, with the Mayor, as they said they would. Now the supreme commander and self proclaimed “mediator” of the council has said he wishes the budget be sent to the new “APPOINTED” finance committee.

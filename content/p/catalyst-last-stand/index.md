@@ -26,63 +26,73 @@ alttags: Three men in bee costumes, likely referencing council members Burrell, 
 related_articles:
 - slug: sting
   title: Sting
-  score: 95.56641283325074
+  score: 86.06641283325074
   llm_score: 95
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 1
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 92.60046826485723
-  llm_score: 95
-  recency_score: 83.00234132428609
-  rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 90.88179115997221
+  score: 81.88179115997222
   llm_score: 90
   recency_score: 94.40895579986105
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 87.72789538259508
+  score: 79.22789538259508
   llm_score: 85
   recency_score: 98.63947691297537
+  category_score: 0
+  rank: 3
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 78.64222555805995
+  llm_score: 85
+  recency_score: 95.71112779029973
+  category_score: 0
   rank: 4
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 86.72723439081022
+  score: 78.22723439081022
   llm_score: 85
   recency_score: 93.63617195405108
+  category_score: 0
   rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 76.10046826485723
+  llm_score: 85
+  recency_score: 83.00234132428609
+  category_score: 0
+  rank: 6
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 84.50975554986516
+  score: 76.00975554986516
   llm_score: 85
   recency_score: 82.54877774932578
-  rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 80.86662028679618
-  llm_score: 85
-  recency_score: 64.3331014339809
+  category_score: 0
   rank: 7
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 76.12176801151256
-  llm_score: 95
-  recency_score: 0.6088400575628192
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 61.62101904991724
+  llm_score: 85
+  recency_score: 10.605095249586157
+  category_score: 0
   rank: 8
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 63.628730847975405
-  llm_score: 75
-  recency_score: 18.143654239877034
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 61.400862282316794
+  llm_score: 85
+  recency_score: 9.504311411583915
+  category_score: 0
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 52.55705592271108
-  llm_score: 65
+  score: 53.057055922711086
+  llm_score: 75
   recency_score: 2.7852796135553795
+  category_score: 0
   rank: 10
 ---
 Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one of the last council will serve 4 more years. Place 2, Cory Martin, the first African American to be elected to council, he had no opposition. Congratulations to both.

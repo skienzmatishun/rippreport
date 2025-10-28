@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report
 related_articles:
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 78.74740235768715
+  llm_score: 85
+  recency_score: 96.23701178843567
+  category_score: 0
+  rank: 1
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 78.53762349360868
+  llm_score: 85
+  recency_score: 95.18811746804333
+  category_score: 0
+  rank: 2
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 85.92404723937733
+  score: 77.42404723937733
   llm_score: 85
   recency_score: 89.62023619688662
-  rank: 1
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 85.15530775847412
+  category_score: 0
+  rank: 3
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 77.32610187044025
   llm_score: 85
-  recency_score: 85.7765387923706
-  rank: 2
+  recency_score: 89.13050935220119
+  category_score: 0
+  rank: 4
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 84.50975554986516
+  score: 76.00975554986516
   llm_score: 85
   recency_score: 82.54877774932578
-  rank: 3
-- slug: letter-of-concern
-  title: Letter of Concern
-  score: 79.37777423965625
-  llm_score: 90
-  recency_score: 36.88887119828122
-  rank: 4
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 78.22156185864796
-  llm_score: 85
-  recency_score: 51.107809293239825
+  category_score: 0
   rank: 5
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 78.0
-  llm_score: 85
-  recency_score: 50
-  rank: 6
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 76.08086365430704
-  llm_score: 80
-  recency_score: 60.404318271535175
-  rank: 7
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 74.05698242024913
+  score: 71.58086365430705
   llm_score: 85
-  recency_score: 30.284912101245666
+  recency_score: 60.404318271535175
+  category_score: 0
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 69.72156185864797
+  llm_score: 85
+  recency_score: 51.107809293239825
+  category_score: 0
+  rank: 7
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 66.87777423965625
+  llm_score: 85
+  recency_score: 36.88887119828122
+  category_score: 0
   rank: 8
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 55.111999017323065
+  llm_score: 75
+  recency_score: 13.05999508661529
+  category_score: 0
+  rank: 9
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
-  score: 70.24662907448486
-  llm_score: 85
+  score: 51.24662907448486
+  llm_score: 70
   recency_score: 11.233145372424257
-  rank: 9
-- slug: threesome
-  title: THREESOME
-  score: 68.57567447136537
-  llm_score: 85
-  recency_score: 2.87837235682685
+  category_score: 0
   rank: 10
 ---
 Open letter to Baldwin County District Attorney

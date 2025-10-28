@@ -19,63 +19,73 @@ alttags: Vintage postcard depicting a figure head bowed in Fairhope, Alabama; sy
 related_articles:
 - slug: big-heads
   title: BIG HEADS
-  score: 87.72789538259508
-  llm_score: 85
+  score: 82.72789538259508
+  llm_score: 90
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 85.48748877687456
-  llm_score: 85
+  score: 80.48748877687456
+  llm_score: 90
   recency_score: 87.43744388437275
+  category_score: 0
   rank: 2
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 79.33629014021759
+  llm_score: 85
+  recency_score: 99.18145070108791
+  category_score: 0
+  rank: 3
 - slug: the-face-of-no
   title: THE FACE OF NO
-  score: 77.67654461491676
-  llm_score: 85
+  score: 76.17654461491676
+  llm_score: 95
   recency_score: 48.38272307458382
-  rank: 3
+  category_score: 0
+  rank: 4
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 68.56074595483393
+  llm_score: 85
+  recency_score: 45.30372977416965
+  category_score: 0
+  rank: 5
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 74.15617326362458
+  score: 65.1561732636246
   llm_score: 90
   recency_score: 10.780866318122923
-  rank: 4
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 73.78477778518496
-  llm_score: 90
-  recency_score: 8.92388892592479
-  rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 68.53316450604943
-  llm_score: 85
-  recency_score: 2.665822530247155
+  category_score: 0
   rank: 6
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 68.17530043110514
-  llm_score: 85
+  score: 63.17530043110515
+  llm_score: 90
   recency_score: 0.8765021555257007
+  category_score: 0
   rank: 7
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 65.06074595483393
-  llm_score: 70
-  recency_score: 45.30372977416965
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 61.284777785184964
+  llm_score: 85
+  recency_score: 8.92388892592479
+  category_score: 0
   rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 60.62026192592202
+  llm_score: 75
+  recency_score: 40.601309629610085
+  category_score: 0
+  rank: 9
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 56.081847471834365
-  llm_score: 70
+  score: 59.58184747183437
+  llm_score: 85
   recency_score: 0.4092373591718279
-  rank: 9
-- slug: rotten
-  title: ROTTEN
-  score: 54.99547296281644
-  llm_score: 65
-  recency_score: 14.977364814082216
+  category_score: 0
   rank: 10
 ---
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has been to obstruct the Mayor in any way possible. The Mayor’s office has been reduced to 2500 dollars for discretionary funds, the previous administration was allocated 15 thousand dollars, make no mistake you are the loser.

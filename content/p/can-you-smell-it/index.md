@@ -12,63 +12,73 @@ alttags: Gas mask against a white background, symbolizing environmental pollutio
 related_articles:
 - slug: wetlands
   title: WETLANDS
-  score: 87.72789538259508
+  score: 79.22789538259508
   llm_score: 85
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 75.19030280407003
-  llm_score: 90
-  recency_score: 15.95151402035018
-  rank: 2
-- slug: in-the-same-boat
-  title: IN THE SAME BOAT
-  score: 71.12970187685954
+- slug: grinder-pumps
+  title: GRINDER PUMPS
+  score: 73.93570824436047
   llm_score: 85
-  recency_score: 15.648509384297702
-  rank: 3
+  recency_score: 72.17854122180232
+  category_score: 0
+  rank: 2
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 70.89859293447587
-  llm_score: 85
+  score: 65.89859293447589
+  llm_score: 90
   recency_score: 14.49296467237936
+  category_score: 0
+  rank: 3
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 62.69030280407004
+  llm_score: 85
+  recency_score: 15.95151402035018
+  category_score: 0
   rank: 4
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 68.19721795157331
+  score: 59.697217951573315
   llm_score: 85
   recency_score: 0.986089757866536
+  category_score: 0
   rank: 5
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 68.15624616714062
+  score: 59.65624616714062
   llm_score: 85
   recency_score: 0.7812308357030797
+  category_score: 0
   rank: 6
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 68.1495449686994
+  score: 59.64954496869941
   llm_score: 85
   recency_score: 0.7477248434970013
+  category_score: 0
   rank: 7
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 55.62970187685955
+  llm_score: 75
+  recency_score: 15.648509384297702
+  category_score: 0
+  rank: 8
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 62.08072954482946
-  llm_score: 75
+  score: 51.08072954482947
+  llm_score: 70
   recency_score: 10.403647724147305
-  rank: 8
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 58.85171781564504
-  llm_score: 65
-  recency_score: 34.2585890782252
+  category_score: 0
   rank: 9
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 52.875434582915084
+- slug: catalyst-shit-creek
+  title: CATALYST SHIT CREEK
+  score: 46.945326161333654
   llm_score: 65
-  recency_score: 4.377172914575434
+  recency_score: 7.226630806668228
+  category_score: 0
   rank: 10
 ---
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For example:

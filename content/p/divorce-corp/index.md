@@ -12,63 +12,73 @@ alttags: 'Divorce dispute: A man and woman pull on a rope atop stacks of money, 
 related_articles:
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 95.24740235768714
+  score: 85.74740235768714
   llm_score: 95
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 82.5631983784823
-  llm_score: 90
-  recency_score: 52.81599189241148
-  rank: 2
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 80.48413566258803
-  llm_score: 90
+  score: 74.98413566258803
+  llm_score: 95
   recency_score: 42.420678312940126
-  rank: 3
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 77.67654461491676
+  category_score: 0
+  rank: 2
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 70.0631983784823
   llm_score: 85
-  recency_score: 48.38272307458382
-  rank: 4
+  recency_score: 52.81599189241148
+  category_score: 0
+  rank: 3
 - slug: exposure
   title: EXPOSURE
-  score: 76.60115638090127
+  score: 68.10115638090129
   llm_score: 85
   recency_score: 43.0057819045064
-  rank: 5
+  category_score: 0
+  rank: 4
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 72.40097477153124
-  llm_score: 90
+  score: 66.90097477153124
+  llm_score: 95
   recency_score: 2.0048738576562246
-  rank: 6
+  category_score: 0
+  rank: 5
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 68.38168033654237
-  llm_score: 85
+  score: 63.38168033654239
+  llm_score: 90
   recency_score: 1.908401682711899
+  category_score: 0
+  rank: 6
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 62.17654461491677
+  llm_score: 75
+  recency_score: 48.38272307458382
+  category_score: 0
   rank: 7
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 68.01023082642088
+  score: 59.51023082642089
   llm_score: 85
   recency_score: 0.051154132104394186
+  category_score: 0
   rank: 8
 - slug: a-gentlemans-race-judge-of-probate
   title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
-  score: 66.22156185864796
-  llm_score: 70
+  score: 55.72156185864797
+  llm_score: 65
   recency_score: 51.107809293239825
+  category_score: 0
   rank: 9
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 64.57762382000341
-  llm_score: 70
+  score: 54.07762382000342
+  llm_score: 65
   recency_score: 42.88811910001705
+  category_score: 0
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allowfullscreen></iframe>

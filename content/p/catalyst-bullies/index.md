@@ -20,63 +20,73 @@ alttags: Illustration depicting two figures crossed out with a red circle, label
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 91.4594928113308
-  llm_score: 90
+  score: 83.15949281133081
+  llm_score: 91
   recency_score: 97.29746405665401
+  category_score: 0
   rank: 1
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 87.83629014021759
-  llm_score: 85
+  score: 80.73629014021759
+  llm_score: 87
   recency_score: 99.18145070108791
+  category_score: 0
   rank: 2
 - slug: catalyst-signs
   title: CATALYST SIGNS
-  score: 87.56641283325074
-  llm_score: 85
+  score: 80.46641283325074
+  llm_score: 87
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 3
+- slug: catalyst-2
+  title: CATALYST
+  score: 79.57987434468455
+  llm_score: 95
+  recency_score: 65.39937172342279
+  category_score: 0
+  rank: 4
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 84.1518346432357
+  score: 75.65183464323572
   llm_score: 85
   recency_score: 80.75917321617852
-  rank: 4
+  category_score: 0
+  rank: 5
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 71.19014258029428
+  llm_score: 85
+  recency_score: 58.450712901471334
+  category_score: 0
+  rank: 6
 - slug: catalyst
   title: CATALYST
-  score: 71.5990278970599
+  score: 63.099027897059905
   llm_score: 85
   recency_score: 17.995139485299486
-  rank: 5
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 71.43524565340775
-  llm_score: 85
-  recency_score: 17.176228267038702
-  rank: 6
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 70.37316717610994
-  llm_score: 85
-  recency_score: 11.86583588054974
+  category_score: 0
   rank: 7
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 70.18591311623324
+  score: 61.685913116233245
   llm_score: 85
   recency_score: 10.929565581166187
+  category_score: 0
   rank: 8
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 69.95902049782696
-  llm_score: 85
-  recency_score: 9.795102489134761
-  rank: 9
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 63.10408372408847
+  score: 55.604083724088476
   llm_score: 75
   recency_score: 15.520418620442342
+  category_score: 0
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 54.45902049782696
+  llm_score: 75
+  recency_score: 9.795102489134761
+  category_score: 0
   rank: 10
 ---
 Fairhope pay attention: The last four years, Mayor Karin Wilson has been standing up to bullies with special interests that do not align with citizens values.

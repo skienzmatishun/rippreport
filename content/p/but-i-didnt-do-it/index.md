@@ -9,63 +9,73 @@ authors:
 related_articles:
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 90.67496869450072
+  score: 81.17496869450072
   llm_score: 95
   recency_score: 73.37484347250358
+  category_score: 0
   rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 88.79631106175715
+  score: 79.29631106175715
   llm_score: 95
   recency_score: 63.98155530878573
-  rank: 3
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 86.0
+  category_score: 0
+  rank: 2
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 76.5
   llm_score: 95
   recency_score: 50
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 84.64841536332693
-  llm_score: 95
-  recency_score: 43.242076816634636
-  rank: 5
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 84.43777438120516
-  llm_score: 95
-  recency_score: 42.18887190602582
-  rank: 6
+  category_score: 0
+  rank: 3
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 82.0
-  llm_score: 90
+  score: 76.5
+  llm_score: 95
   recency_score: 50
+  category_score: 0
+  rank: 4
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 76.5
+  llm_score: 95
+  recency_score: 50
+  category_score: 0
+  rank: 5
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 75.14841536332693
+  llm_score: 95
+  recency_score: 43.242076816634636
+  category_score: 0
+  rank: 6
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 74.93777438120516
+  llm_score: 95
+  recency_score: 42.18887190602582
+  category_score: 0
   rank: 7
 - slug: innocent
   title: INNOCENT
-  score: 81.35442892225316
+  score: 71.85442892225316
   llm_score: 95
   recency_score: 26.772144611265798
+  category_score: 0
   rank: 8
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 78.82799474546216
+  score: 69.32799474546216
   llm_score: 95
   recency_score: 14.139973727310823
+  category_score: 0
   rank: 9
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 78.3796779187427
+  score: 68.8796779187427
   llm_score: 95
   recency_score: 11.898389593713517
+  category_score: 0
   rank: 10
 ---
 by Nancy Koerner

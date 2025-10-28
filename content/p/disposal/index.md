@@ -10,63 +10,73 @@ alttags: Metallic trash can icon symbolizing disposal of land, referencing Fairh
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 90.16149687375565
+  score: 80.66149687375565
   llm_score: 95
   recency_score: 70.80748436877823
+  category_score: 0
   rank: 1
 - slug: deliberate-distortion-or-twisting-of-meaning
   title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 87.89071065521195
+  score: 79.39071065521195
   llm_score: 85
   recency_score: 99.45355327605971
+  category_score: 0
   rank: 2
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 81.62860141581517
+  score: 73.12860141581518
   llm_score: 85
   recency_score: 68.14300707907584
+  category_score: 0
   rank: 3
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 81.33314208208326
+  score: 72.83314208208326
   llm_score: 85
   recency_score: 66.66571041041625
+  category_score: 0
   rank: 4
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 78.52312487593501
-  llm_score: 75
-  recency_score: 92.61562437967505
-  rank: 5
 - slug: lost-opportunity
   title: LOST OPPORTUNITY
-  score: 77.08560395285723
+  score: 68.58560395285724
   llm_score: 85
   recency_score: 45.42801976428615
+  category_score: 0
+  rank: 5
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 67.70974049573466
+  llm_score: 85
+  recency_score: 41.04870247867326
+  category_score: 0
   rank: 6
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 67.52312487593503
+  llm_score: 70
+  recency_score: 92.61562437967505
+  category_score: 0
+  rank: 7
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 66.83745863402395
+  llm_score: 85
+  recency_score: 36.68729317011966
+  category_score: 0
+  rank: 8
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 74.12372535653473
+  score: 65.62372535653473
   llm_score: 85
   recency_score: 30.618626782673648
-  rank: 7
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 74.00740303311295
-  llm_score: 85
-  recency_score: 30.037015165564775
-  rank: 8
-- slug: big-heads
-  title: BIG HEADS
-  score: 61.3251698208218
-  llm_score: 70
-  recency_score: 26.62584910410898
+  category_score: 0
   rank: 9
 - slug: re-gift-gift
   title: RE-GIFT GIFT ??
-  score: 58.43908430617278
-  llm_score: 70
+  score: 47.93908430617279
+  llm_score: 65
   recency_score: 12.195421530863895
+  category_score: 0
   rank: 10
 ---
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members. Not Jack Burrell, he has to maintain “control”. His Control has been very costly for the City of Fairhope. His lack of leadership and his favoritism to special interests, CATALYST, is all to apparent.

@@ -7,65 +7,75 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 80.39586260016435
-  llm_score: 95
-  recency_score: 21.979313000821772
-  rank: 1
 - slug: wonderful-wednesday-5
   title: WONDERFUL WEDNESDAY
-  score: 75.11962860059249
+  score: 66.6196286005925
   llm_score: 85
   recency_score: 35.59814300296249
+  category_score: 0
+  rank: 1
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 63.895862600164364
+  llm_score: 85
+  recency_score: 21.979313000821772
+  category_score: 0
   rank: 2
 - slug: equal-representation
   title: EQUAL REPRESENTATION
-  score: 69.5913138839337
+  score: 62.591313883933694
   llm_score: 70
   recency_score: 67.95656941966844
+  category_score: 0
   rank: 3
-- slug: fact-and-fiction-a-b-c
-  title: FACT and FICTION A B C
-  score: 66.20034869269523
-  llm_score: 65
-  recency_score: 71.00174346347615
-  rank: 4
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 65.1247843082185
-  llm_score: 75
-  recency_score: 25.623921541092447
-  rank: 5
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 63.21946349126168
-  llm_score: 65
-  recency_score: 56.097317456308396
-  rank: 6
 - slug: take-a-chance
   title: “TAKE A CHANCE”
-  score: 63.053474793700985
+  score: 55.55347479370099
   llm_score: 75
   recency_score: 15.267373968504938
+  category_score: 0
+  rank: 4
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 51.458229477702595
+  llm_score: 65
+  recency_score: 29.79114738851293
+  category_score: 0
+  rank: 5
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 51.21833385593837
+  llm_score: 65
+  recency_score: 28.59166927969179
+  category_score: 0
+  rank: 6
+- slug: wonderful-wednesday-4
+  title: WONDERFUL WEDNESDAY
+  score: 50.624784308218494
+  llm_score: 65
+  recency_score: 25.623921541092447
+  category_score: 0
   rank: 7
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 52.609766802829334
+  score: 46.10976680282934
   llm_score: 65
   recency_score: 3.0488340141466597
+  category_score: 0
   rank: 8
-- slug: cover-up
-  title: COVER UP
-  score: 52.295021783613656
-  llm_score: 65
-  recency_score: 1.4751089180682964
-  rank: 9
 - slug: dark-wednesday
   title: DARK WEDNESDAY
-  score: 44.93193927883213
-  llm_score: 50
+  score: 36.43193927883213
+  llm_score: 45
   recency_score: 24.659696394160648
+  category_score: 0
+  rank: 9
+- slug: cover-up
+  title: COVER UP
+  score: 35.295021783613656
+  llm_score: 50
+  recency_score: 1.4751089180682964
+  category_score: 0
   rank: 10
 ---
 The Ripp Report is a non-profit organization, politically non-partisan. The focus of The Ripp Report is political corruption and exposing the elected officials involved.

@@ -25,63 +25,73 @@ alttags: Baldwin County, Alabama map highlighted within a circle, representing l
 related_articles:
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 74.33447509719417
+  score: 65.33447509719419
   llm_score: 90
   recency_score: 11.672375485970868
+  category_score: 0
   rank: 1
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 64.6388440643179
+  llm_score: 85
+  recency_score: 25.694220321589416
+  category_score: 0
+  rank: 2
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 70.81254126082239
+  score: 62.31254126082239
   llm_score: 85
   recency_score: 14.062706304111916
-  rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 69.38333796926068
-  llm_score: 85
-  recency_score: 6.916689846303398
+  category_score: 0
   rank: 3
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 68.60976680282933
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 61.02255494375133
   llm_score: 85
-  recency_score: 3.0488340141466597
+  recency_score: 7.612774718756618
+  category_score: 0
   rank: 4
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 68.3238239102941
-  llm_score: 85
-  recency_score: 1.6191195514704704
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 56.148668879535066
+  llm_score: 75
+  recency_score: 18.243344397675273
+  category_score: 0
   rank: 5
 - slug: win-for-baldwin
   title: WIN FOR BALDWIN
-  score: 63.31504765659546
+  score: 55.81504765659547
   llm_score: 75
   recency_score: 16.575238282977313
+  category_score: 0
   rank: 6
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 62.520606121083915
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 53.88333796926069
   llm_score: 75
-  recency_score: 12.603030605419562
+  recency_score: 6.916689846303398
+  category_score: 0
   rank: 7
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 62.090262459940845
-  llm_score: 70
-  recency_score: 30.451312299704224
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 52.8238239102941
+  llm_score: 75
+  recency_score: 1.6191195514704704
+  category_score: 0
   rank: 8
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 57.13884406431788
-  llm_score: 65
-  recency_score: 25.694220321589416
-  rank: 9
 - slug: newsletter
   title: NEWSLETTER
-  score: 56.138123068267795
-  llm_score: 70
+  score: 52.6381230682678
+  llm_score: 75
   recency_score: 0.6906153413389834
+  category_score: 0
+  rank: 9
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 51.59026245994085
+  llm_score: 65
+  recency_score: 30.451312299704224
+  category_score: 0
   rank: 10
 ---
 If you live in Baldwin County then you know that local news print is almost non existent. Citizens are at a disadvantage at knowing what the real truth is and politicians are fine with that.

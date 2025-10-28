@@ -26,63 +26,73 @@ authors:
 related_articles:
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 80.23825715325401
-  llm_score: 100
+  score: 66.73825715325401
+  llm_score: 95
   recency_score: 1.1912857662700727
+  category_score: 0
   rank: 1
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 72.00611250619076
-  llm_score: 90
-  recency_score: 0.030562530953826647
-  rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 71.33326215846071
-  llm_score: 85
-  recency_score: 16.666310792303566
-  rank: 3
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 68.02264470180563
-  llm_score: 85
+  score: 63.022644701805646
+  llm_score: 90
   recency_score: 0.11322350902818136
+  category_score: 0
+  rank: 2
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 63.0140198453925
+  llm_score: 90
+  recency_score: 0.07009922696246068
+  category_score: 0
+  rank: 3
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 59.652440632286364
+  llm_score: 85
+  recency_score: 0.7622031614317782
+  category_score: 0
   rank: 4
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 68.0142913139424
+  score: 59.5142913139424
   llm_score: 85
   recency_score: 0.07145656971196458
+  category_score: 0
   rank: 5
 - slug: history-repeating-itself
   title: History repeating itself
-  score: 60.13926300461572
+  score: 52.63926300461573
   llm_score: 75
   recency_score: 0.696315023078613
+  category_score: 0
   rank: 6
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 60.01401984539249
-  llm_score: 75
-  recency_score: 0.07009922696246068
-  rank: 7
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 56.201588255603156
-  llm_score: 70
-  recency_score: 1.0079412780157604
-  rank: 8
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 52.09915043452601
-  llm_score: 65
-  recency_score: 0.4957521726300432
-  rank: 9
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 52.03323114546348
-  llm_score: 65
+  score: 52.53323114546349
+  llm_score: 75
   recency_score: 0.1661557273173934
+  category_score: 0
+  rank: 7
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 52.506112506190775
+  llm_score: 75
+  recency_score: 0.030562530953826647
+  category_score: 0
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 45.8133507496293
+  llm_score: 65
+  recency_score: 1.566753748146461
+  category_score: 0
+  rank: 9
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 45.51789120891867
+  llm_score: 65
+  recency_score: 0.08945604459330453
+  category_score: 0
   rank: 10
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.

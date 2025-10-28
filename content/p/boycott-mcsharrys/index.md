@@ -18,63 +18,73 @@ alttags: Cartoon leprechaun raising a mug, possibly symbolizing unproductive or 
 related_articles:
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 87.67392032634467
-  llm_score: 85
+  score: 80.57392032634468
+  llm_score: 87
   recency_score: 98.36960163172333
+  category_score: 0
   rank: 1
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 74.67496869450072
-  llm_score: 75
+  score: 74.17496869450073
+  llm_score: 85
   recency_score: 73.37484347250358
+  category_score: 0
   rank: 2
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 70.46596099775734
-  llm_score: 85
-  recency_score: 12.329804988786655
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 69.4412299084796
+  llm_score: 92
+  recency_score: 25.20614954239798
+  category_score: 0
   rank: 3
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 70.25897315930858
-  llm_score: 85
-  recency_score: 11.294865796542922
-  rank: 4
 - slug: surrender
   title: SURRENDER
-  score: 69.8369256908693
-  llm_score: 75
-  recency_score: 49.18462845434644
-  rank: 5
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 68.23891080758602
+  score: 69.3369256908693
   llm_score: 85
-  recency_score: 1.1945540379301263
-  rank: 6
+  recency_score: 49.18462845434644
+  category_score: 0
+  rank: 4
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 62.655531457481715
+  llm_score: 85
+  recency_score: 15.777657287408536
+  category_score: 0
+  rank: 5
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 68.23760528730483
-  llm_score: 85
+  score: 62.537605287304835
+  llm_score: 89
   recency_score: 1.1880264365241602
+  category_score: 0
+  rank: 6
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 54.965960997757335
+  llm_score: 75
+  recency_score: 12.329804988786655
+  category_score: 0
   rank: 7
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 60.793211815291016
-  llm_score: 75
+  score: 46.29321181529102
+  llm_score: 65
   recency_score: 3.9660590764550863
+  category_score: 0
   rank: 8
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 56.78456654095773
-  llm_score: 70
-  recency_score: 3.9228327047886493
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 46.20505941304497
+  llm_score: 65
+  recency_score: 3.5252970652248186
+  category_score: 0
   rank: 9
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 52.489751691900906
+  score: 45.98975169190091
   llm_score: 65
   recency_score: 2.448758459504532
+  category_score: 0
   rank: 10
 ---
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.

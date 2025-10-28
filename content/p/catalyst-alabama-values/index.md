@@ -13,65 +13,75 @@ authors:
 - ripp-report
 alttags: Chris Elliott in striped prison uniform behind bars, related to his connection to former Governor Bentley and Senate race
 related_articles:
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 93.20237304520383
-  llm_score: 95
-  recency_score: 86.01186522601911
-  rank: 1
 - slug: elliotttuckercatalyst-selling-your-soul
   title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 91.67392032634467
-  llm_score: 90
+  score: 86.17392032634467
+  llm_score: 95
   recency_score: 98.36960163172333
+  category_score: 0
+  rank: 1
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 83.70237304520383
+  llm_score: 95
+  recency_score: 86.01186522601911
+  category_score: 0
   rank: 2
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 87.24740235768714
-  llm_score: 85
+  score: 80.14740235768714
+  llm_score: 87
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 3
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 86.17127158449026
-  llm_score: 85
-  recency_score: 90.85635792245131
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 79.59689134128178
+  llm_score: 89
+  recency_score: 86.48445670640884
+  category_score: 0
   rank: 4
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85.34434506009411
+  score: 76.84434506009413
   llm_score: 85
   recency_score: 86.72172530047058
+  category_score: 0
   rank: 5
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 85.15530775847412
+  score: 76.65530775847412
   llm_score: 85
   recency_score: 85.7765387923706
+  category_score: 0
   rank: 6
 - slug: ask-chris-elliott-catalyst-red-flags
   title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 85.01488310709092
+  score: 76.51488310709092
   llm_score: 85
   recency_score: 85.07441553545459
+  category_score: 0
   rank: 7
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 70.52060612108392
-  llm_score: 85
-  recency_score: 12.603030605419562
-  rank: 8
 - slug: weasel-contractor
   title: WEASEL CONTRACTOR
-  score: 69.00395926891434
+  score: 60.50395926891435
   llm_score: 85
   recency_score: 5.0197963445716995
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: sunday-sermon
   title: SUNDAY SERMON
-  score: 60.20325197320484
+  score: 52.70325197320485
   llm_score: 75
   recency_score: 1.0162598660242268
+  category_score: 0
+  rank: 9
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 51.52060612108392
+  llm_score: 70
+  recency_score: 12.603030605419562
+  category_score: 0
   rank: 10
 ---
 Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values.

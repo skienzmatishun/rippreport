@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: A frog sits on a pot handle, illustrating the boiling frog fable about gradual unnoticed danger
 related_articles:
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 77.53339065902054
-  llm_score: 90
-  recency_score: 27.666953295102704
-  rank: 1
 - slug: the-pot-and-the-kettle-are-black
   title: THE POT AND THE KETTLE ARE BLACK
-  score: 67.47953504068688
-  llm_score: 75
+  score: 66.9795350406869
+  llm_score: 85
   recency_score: 37.39767520343444
-  rank: 2
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 60.90966517626255
+  category_score: 0
+  rank: 1
+- slug: fact-and-fiction-a-b-c
+  title: FACT and FICTION A B C
+  score: 66.0913138839337
   llm_score: 75
-  recency_score: 4.548325881312761
-  rank: 3
+  recency_score: 67.95656941966844
+  category_score: 0
+  rank: 2
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 59.492182133936694
-  llm_score: 70
+  score: 62.9921821339367
+  llm_score: 85
   recency_score: 17.460910669683468
+  category_score: 0
+  rank: 3
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 60.40966517626256
+  llm_score: 85
+  recency_score: 4.548325881312761
+  category_score: 0
   rank: 4
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 56.72041470570301
-  llm_score: 65
-  recency_score: 23.60207352851503
-  rank: 5
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 54.82799474546216
-  llm_score: 65
+  score: 55.32799474546217
+  llm_score: 75
   recency_score: 14.139973727310823
-  rank: 6
+  category_score: 0
+  rank: 5
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 53.78477778518496
-  llm_score: 65
+  score: 50.784777785184964
+  llm_score: 70
   recency_score: 8.92388892592479
+  category_score: 0
+  rank: 6
+- slug: the-big-lie
+  title: THE BIG LIE
+  score: 48.22157763656677
+  llm_score: 65
+  recency_score: 13.607888182833822
+  category_score: 0
   rank: 7
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 53.750875301537036
+  score: 47.25087530153704
   llm_score: 65
   recency_score: 8.754376507685183
+  category_score: 0
   rank: 8
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 53.390938708264
-  llm_score: 65
-  recency_score: 6.9546935413200295
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 43.220414705703014
+  llm_score: 55
+  recency_score: 23.60207352851503
+  category_score: 0
   rank: 9
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 43.29693268727894
-  llm_score: 50
+  score: 34.79693268727894
+  llm_score: 45
   recency_score: 16.48466343639469
+  category_score: 0
   rank: 10
 ---
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.”

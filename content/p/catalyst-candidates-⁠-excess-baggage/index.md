@@ -17,65 +17,75 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: sting
-  title: Sting
-  score: 88.87560790070712
-  llm_score: 90
-  recency_score: 84.37803950353559
-  rank: 1
 - slug: catalyst-last-stand
   title: CATALYST LAST STAND
-  score: 88.50975554986516
+  score: 79.50975554986516
   llm_score: 90
   recency_score: 82.54877774932578
+  category_score: 0
+  rank: 1
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 79.39071065521195
+  llm_score: 85
+  recency_score: 99.45355327605971
+  category_score: 0
   rank: 2
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 87.5866878197373
-  llm_score: 90
-  recency_score: 77.93343909868652
-  rank: 3
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 86.4219058668791
-  llm_score: 85
+  score: 78.6219058668791
+  llm_score: 86
   recency_score: 92.10952933439548
+  category_score: 0
+  rank: 3
+- slug: sting
+  title: Sting
+  score: 76.37560790070712
+  llm_score: 85
+  recency_score: 84.37803950353559
+  category_score: 0
   rank: 4
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 84.73747273054873
+  score: 76.23747273054873
   llm_score: 85
   recency_score: 83.68736365274363
+  category_score: 0
   rank: 5
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 75.0866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
+  category_score: 0
+  rank: 6
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 78.302714024536
-  llm_score: 95
+  score: 65.30271402453602
+  llm_score: 90
   recency_score: 11.51357012268003
-  rank: 6
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 72.39586260016435
-  llm_score: 85
-  recency_score: 21.979313000821772
+  category_score: 0
   rank: 7
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 71.15553145748171
-  llm_score: 85
+  score: 55.655531457481715
+  llm_score: 75
   recency_score: 15.777657287408536
+  category_score: 0
   rank: 8
 - slug: sunday-sermon
   title: SUNDAY SERMON
-  score: 69.48547156428668
-  llm_score: 85
+  score: 46.985471564286684
+  llm_score: 65
   recency_score: 7.427357821433388
+  category_score: 0
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 68.45984285557822
-  llm_score: 85
+  score: 45.95984285557823
+  llm_score: 65
   recency_score: 2.2992142778911093
+  category_score: 0
   rank: 10
 ---
 Baldwin County, you want an example how CATALYST works?

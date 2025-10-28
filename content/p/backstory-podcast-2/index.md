@@ -9,63 +9,73 @@ authors:
 related_articles:
 - slug: backstory-podcast-16-the-jack-wilson-complex
   title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 97.75315705036789
+  score: 87.9531570503679
   llm_score: 98
   recency_score: 96.76578525183945
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 97.24956745472434
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 85.50151487477555
   llm_score: 100
-  recency_score: 86.24783727362167
+  recency_score: 77.50757437387774
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 96.82943663570212
-  llm_score: 100
-  recency_score: 84.14718317851063
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 85.43359302371175
+  llm_score: 95
+  recency_score: 94.66796511855877
+  category_score: 0
   rank: 3
 - slug: backstory-alabama-the-ripp-report-podcast-5
   title: 'BACKSTORY PODCAST #5'
-  score: 95.04131527818056
+  score: 85.04131527818056
   llm_score: 100
   recency_score: 75.2065763909028
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 94.71522921439812
-  llm_score: 100
-  recency_score: 73.57614607199059
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 83.74956745472434
+  llm_score: 95
+  recency_score: 86.24783727362167
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 94.67496869450072
-  llm_score: 100
-  recency_score: 73.37484347250358
+- slug: backstory-podcast-11
+  title: 'BACKSTORY PODCAST #11'
+  score: 83.32943663570214
+  llm_score: 95
+  recency_score: 84.14718317851063
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 93.90151487477556
-  llm_score: 98
-  recency_score: 77.50757437387774
-  rank: 7
 - slug: backstory-podcast-7
   title: 'BACKSTORY PODCAST #7'
-  score: 91.62944962510568
+  score: 82.12944962510568
   llm_score: 95
   recency_score: 78.14724812552835
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast
+  title: BACKSTORY PODCAST
+  score: 76.89249424486937
+  llm_score: 90
+  recency_score: 69.4624712243468
+  category_score: 0
   rank: 8
 - slug: backstory-podcast-43-mee-maw-and-the-extenders
   title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 90.98768021500666
-  llm_score: 98
+  score: 76.28768021500666
+  llm_score: 91
   recency_score: 62.93840107503325
+  category_score: 0
   rank: 9
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 89.74107892098586
-  llm_score: 95
+  score: 73.24107892098587
+  llm_score: 85
   recency_score: 68.70539460492927
+  category_score: 0
   rank: 10
 ---
 https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg

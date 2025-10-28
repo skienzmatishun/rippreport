@@ -15,63 +15,73 @@ alttags: 'BP oil spill funds misused: A hand holds a bag marked with dollar sign
 related_articles:
 - slug: covered-in-oil
   title: COVERED IN OIL
-  score: 84.81587603866927
-  llm_score: 95
+  score: 71.81587603866929
+  llm_score: 90
   recency_score: 44.079380193346374
+  category_score: 0
   rank: 1
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 72.83825535238421
+  score: 64.33825535238422
   llm_score: 85
   recency_score: 24.19127676192105
+  category_score: 0
   rank: 2
+- slug: oil-slick
+  title: OIL “SLICK”
+  score: 63.45984285557823
+  llm_score: 90
+  recency_score: 2.2992142778911093
+  category_score: 0
+  rank: 3
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 69.684990070341
+  score: 61.184990070341016
   llm_score: 85
   recency_score: 8.424950351705032
-  rank: 3
+  category_score: 0
+  rank: 4
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 69.59078153074029
+  score: 61.090781530740294
   llm_score: 85
   recency_score: 7.953907653701443
-  rank: 4
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 69.23975075545263
-  llm_score: 85
-  recency_score: 6.198753777263179
+  category_score: 0
   rank: 5
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 68.52591067985281
+  score: 60.025910679852814
   llm_score: 85
   recency_score: 2.629553399264038
+  category_score: 0
   rank: 6
-- slug: oil-slick
-  title: OIL “SLICK”
-  score: 68.45984285557822
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 59.56257490160384
   llm_score: 85
-  recency_score: 2.2992142778911093
+  recency_score: 0.3128745080191722
+  category_score: 0
   rank: 7
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 62.20395356266881
-  llm_score: 75
-  recency_score: 11.019767813344055
-  rank: 8
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 57.56913858075044
-  llm_score: 70
+  score: 54.06913858075045
+  llm_score: 75
   recency_score: 7.845692903752216
+  category_score: 0
+  rank: 8
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 47.03933223986208
+  llm_score: 65
+  recency_score: 7.696661199310357
+  category_score: 0
   rank: 9
 - slug: threesome
   title: THREESOME
-  score: 52.094897999093824
-  llm_score: 65
+  score: 36.49489799909383
+  llm_score: 52
   recency_score: 0.4744899954691276
+  category_score: 0
   rank: 10
 ---
 The BP oil spill was an accident that claimed eleven lives and adversely affected millions. BP has had to pay BILLIONS of dollars in damages spread among four states Alabama Louisiana, Texas and Florida. Three of the states used their funds to correct environmental damage done by the spill and to invest in future projects related to environmental issues. Alabama choose to rob and plunder their money on pet projects of Mayors Councils and even the Governor.

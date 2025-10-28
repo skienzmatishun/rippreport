@@ -7,65 +7,75 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 82.9843887437238
-  llm_score: 95
-  recency_score: 34.921943718618955
-  rank: 1
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 81.80712647419587
-  llm_score: 98
-  recency_score: 17.035632370979314
-  rank: 2
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 80.39586260016435
-  llm_score: 95
-  recency_score: 21.979313000821772
-  rank: 3
 - slug: backstory-podcast-16-the-jack-wilson-complex
   title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 80.25369096364096
-  llm_score: 95
+  score: 74.25369096364096
+  llm_score: 100
   recency_score: 21.268454818204823
-  rank: 4
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 80.16147367298336
-  llm_score: 95
-  recency_score: 20.807368364916808
-  rank: 5
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 79.79133642216175
-  llm_score: 95
-  recency_score: 18.956682110808735
-  rank: 6
+  category_score: 0
+  rank: 1
 - slug: backstory-podcast-11
   title: 'BACKSTORY PODCAST #11'
-  score: 79.69899455443594
-  llm_score: 95
+  score: 73.69899455443594
+  llm_score: 100
   recency_score: 18.4949727721797
-  rank: 7
+  category_score: 0
+  rank: 2
+- slug: backstory-podcast-43-mee-maw-and-the-extenders
+  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
+  score: 73.4843887437238
+  llm_score: 95
+  recency_score: 34.921943718618955
+  category_score: 0
+  rank: 3
+- slug: backstory-podcast-2
+  title: BACKSTORY PODCAST
+  score: 70.89586260016435
+  llm_score: 95
+  recency_score: 21.979313000821772
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-6
+  title: BACKSTORY PODCAST 6
+  score: 69.90712647419586
+  llm_score: 95
+  recency_score: 17.035632370979314
+  category_score: 0
+  rank: 5
 - slug: backstory-podcast-7
   title: 'BACKSTORY PODCAST #7'
-  score: 79.43524565340775
-  llm_score: 95
-  recency_score: 17.176228267038702
-  rank: 8
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 75.23430628782093
+  score: 66.43524565340775
   llm_score: 90
-  recency_score: 16.171531439104648
-  rank: 9
+  recency_score: 17.176228267038702
+  category_score: 0
+  rank: 6
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 72.73336508087172
+  score: 64.23336508087174
   llm_score: 85
   recency_score: 23.666825404358608
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-15-the-banquette
+  title: BACKSTORY PODCAST 15 - The Banquette
+  score: 56.66147367298337
+  llm_score: 75
+  recency_score: 20.807368364916808
+  category_score: 0
+  rank: 8
+- slug: backstory-podcast-12
+  title: 'BACKSTORY PODCAST #12'
+  score: 56.291336422161756
+  llm_score: 75
+  recency_score: 18.956682110808735
+  category_score: 0
+  rank: 9
+- slug: backstory-alabama-the-ripp-report-podcast-5
+  title: 'BACKSTORY PODCAST #5'
+  score: 48.80597776443174
+  llm_score: 65
+  recency_score: 16.529888822158654
+  category_score: 0
   rank: 10
 ---
 192,939,490 SARS-COV-2 cases confirmed worldwide with a total of 4,140,700 deaths; with 34,316,321cases in the USA with 610,387 deaths.

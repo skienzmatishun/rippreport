@@ -17,63 +17,73 @@ alttags: Vintage newspaper clipping featuring Blanche Weeks and a headline procl
 related_articles:
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 77.89097459752321
-  llm_score: 85
+  score: 72.89097459752323
+  llm_score: 90
   recency_score: 49.45487298761609
+  category_score: 0
   rank: 1
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 62.39097616448169
-  llm_score: 65
+  score: 69.8909761644817
+  llm_score: 85
   recency_score: 51.95488082240847
+  category_score: 0
   rank: 2
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 62.1739682656214
-  llm_score: 75
-  recency_score: 10.869841328106999
-  rank: 3
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 61.06925821416129
-  llm_score: 75
-  recency_score: 5.346291070806423
-  rank: 4
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 53.948315494495255
-  llm_score: 65
-  recency_score: 9.741577472476289
-  rank: 5
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 53.17686669222855
-  llm_score: 65
-  recency_score: 5.884333461142748
-  rank: 6
-- slug: exposure
-  title: EXPOSURE
-  score: 52.33190786506904
-  llm_score: 65
-  recency_score: 1.659539325345199
-  rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 52.2862633553631
-  llm_score: 65
-  recency_score: 1.431316776815486
-  rank: 8
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 52.17967663901331
-  llm_score: 65
+  score: 63.179676639013316
+  llm_score: 90
   recency_score: 0.8983831950665335
-  rank: 9
-- slug: newsletter
-  title: NEWSLETTER
-  score: 52.178694801905735
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 59.827392181937135
+  llm_score: 85
+  recency_score: 1.6369609096856257
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 59.765124593939746
+  llm_score: 85
+  recency_score: 1.3256229696987023
+  category_score: 0
+  rank: 5
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 53.301952353396594
+  llm_score: 75
+  recency_score: 4.009761766982932
+  category_score: 0
+  rank: 6
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 52.786263355363104
+  llm_score: 75
+  recency_score: 1.431316776815486
+  category_score: 0
+  rank: 7
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 52.7747375613533
+  llm_score: 75
+  recency_score: 1.3736878067664646
+  category_score: 0
+  rank: 8
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 46.993633475481126
   llm_score: 65
-  recency_score: 0.8934740095286622
+  recency_score: 7.468167377405599
+  category_score: 0
+  rank: 9
+- slug: exposure
+  title: EXPOSURE
+  score: 45.83190786506905
+  llm_score: 65
+  recency_score: 1.659539325345199
+  category_score: 0
   rank: 10
 ---
 All of us have read news articles that have driven us up the wall, but this article and story is insane and most likely a perfect example of someone with power who wants his own way. What the Ripp Report calls political corruption.

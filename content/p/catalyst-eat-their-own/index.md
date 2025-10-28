@@ -10,63 +10,73 @@ alttags: Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork an
 related_articles:
 - slug: catalyst-2
   title: CATALYST
-  score: 78.24662907448486
-  llm_score: 95
+  score: 66.64662907448486
+  llm_score: 92
   recency_score: 11.233145372424257
+  category_score: 0
   rank: 1
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 74.00792557433363
+  score: 65.00792557433364
   llm_score: 90
   recency_score: 10.039627871668154
+  category_score: 0
   rank: 2
-- slug: catalyst
-  title: CATALYST
-  score: 72.61817724699341
-  llm_score: 90
-  recency_score: 3.090886234967053
-  rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 72.40762061132708
-  llm_score: 90
-  recency_score: 2.038103056635405
-  rank: 4
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 68.53316450604943
-  llm_score: 85
-  recency_score: 2.665822530247155
-  rank: 5
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 68.37545742656336
-  llm_score: 85
-  recency_score: 1.8772871328167993
-  rank: 6
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 68.33648583250483
-  llm_score: 85
+  score: 63.33648583250484
+  llm_score: 90
   recency_score: 1.6824291625241752
-  rank: 7
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 68.33009416541387
+  category_score: 0
+  rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 62.16988030926578
   llm_score: 85
-  recency_score: 1.6504708270693496
-  rank: 8
+  recency_score: 13.34940154632884
+  category_score: 0
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 60.11817724699342
+  llm_score: 85
+  recency_score: 3.090886234967053
+  category_score: 0
+  rank: 5
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 60.03316450604944
+  llm_score: 85
+  recency_score: 2.665822530247155
+  category_score: 0
+  rank: 6
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 59.875457426563365
+  llm_score: 85
+  recency_score: 1.8772871328167993
+  category_score: 0
+  rank: 7
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 63.43524565340774
+  score: 55.93524565340775
   llm_score: 75
   recency_score: 17.176228267038702
+  category_score: 0
+  rank: 8
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 52.90762061132709
+  llm_score: 75
+  recency_score: 2.038103056635405
+  category_score: 0
   rank: 9
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 54.069359466397685
+  score: 47.56935946639769
   llm_score: 65
   recency_score: 10.34679733198841
+  category_score: 0
   rank: 10
 ---
 {{< socialpreview url="https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html" >}}

@@ -10,63 +10,73 @@ alttags: 'Gulf Shores beach scene: Buildings overlook a sandy shore with people 
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 96.0
+  score: 86.5
   llm_score: 95
   recency_score: 100.0
+  category_score: 0
   rank: 1
 - slug: people-power-wake-up-gulf-shores
   title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 86.07197526621852
-  llm_score: 85
+  score: 81.07197526621853
+  llm_score: 90
   recency_score: 90.35987633109261
+  category_score: 0
   rank: 2
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 78.08249514970656
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 74.45912250360541
   llm_score: 85
-  recency_score: 50.412475748532785
+  recency_score: 74.79561251802704
+  category_score: 0
   rank: 3
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 76.41953853153237
-  llm_score: 75
+  score: 69.61953853153238
+  llm_score: 76
   recency_score: 82.09769265766185
+  category_score: 0
   rank: 4
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 69.58249514970657
+  llm_score: 85
+  recency_score: 50.412475748532785
+  category_score: 0
+  rank: 5
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 72.2304468087236
+  score: 63.73044680872361
   llm_score: 85
   recency_score: 21.152234043618023
-  rank: 5
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 68.84480344505099
-  llm_score: 85
-  recency_score: 4.224017225254928
+  category_score: 0
   rank: 6
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 62.79693268727895
+  llm_score: 85
+  recency_score: 16.48466343639469
+  category_score: 0
+  rank: 7
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 61.400862282316794
+  llm_score: 85
+  recency_score: 9.504311411583915
+  category_score: 0
+  rank: 8
 - slug: s-o-s
   title: S.O.S
-  score: 61.44532616133365
-  llm_score: 75
+  score: 46.945326161333654
+  llm_score: 65
   recency_score: 7.226630806668228
-  rank: 7
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 57.749753193901086
-  llm_score: 65
-  recency_score: 28.748765969505406
-  rank: 8
-- slug: survey
-  title: SURVEY
-  score: 57.01368227279841
-  llm_score: 65
-  recency_score: 25.06841136399206
+  category_score: 0
   rank: 9
 - slug: threesome
   title: THREESOME
-  score: 52.64587813482652
-  llm_score: 65
+  score: 37.04587813482652
+  llm_score: 52
   recency_score: 3.229390674132577
+  category_score: 0
   rank: 10
 ---
 This is the early edition of FREAKY FRIDAY, The evening edition will feature the change of government in Fairhope. It is Fairhope’s dirty little secret.

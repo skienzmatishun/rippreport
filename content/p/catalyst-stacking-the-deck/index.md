@@ -20,65 +20,75 @@ authors:
 - admin
 alttags: Stack of playing cards, including a Jack of Clubs, symbolizing complex corporate structures and potential concealment
 related_articles:
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 86.17127158449026
-  llm_score: 85
-  recency_score: 90.85635792245131
-  rank: 1
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 85.77733007636273
-  llm_score: 85
+  score: 84.27733007636273
+  llm_score: 95
   recency_score: 88.88665038181365
+  category_score: 0
+  rank: 1
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 77.67127158449027
+  llm_score: 85
+  recency_score: 90.85635792245131
+  category_score: 0
   rank: 2
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 77.67127158449027
+  llm_score: 85
+  recency_score: 90.85635792245131
+  category_score: 0
+  rank: 3
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 85.77733007636273
+  score: 77.27733007636274
   llm_score: 85
   recency_score: 88.88665038181365
-  rank: 3
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 81.15530775847412
-  llm_score: 80
-  recency_score: 85.7765387923706
+  category_score: 0
   rank: 4
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 81.15174160583071
-  llm_score: 85
-  recency_score: 65.75870802915355
-  rank: 5
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 73.55412836985957
-  llm_score: 75
-  recency_score: 67.77064184929783
-  rank: 6
-- slug: catalyst
+- slug: catalyst-2
   title: CATALYST
-  score: 72.04900835119811
+  score: 74.21522921439814
   llm_score: 85
-  recency_score: 20.245041755990528
-  rank: 7
+  recency_score: 73.57614607199059
+  category_score: 0
+  rank: 5
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 71.3607717319103
-  llm_score: 85
+  score: 66.3607717319103
+  llm_score: 90
   recency_score: 16.8038586595515
-  rank: 8
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 71.05347479370099
+  category_score: 0
+  rank: 6
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 65.65174160583072
+  llm_score: 75
+  recency_score: 65.75870802915355
+  category_score: 0
+  rank: 7
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 61.95921418665641
   llm_score: 85
-  recency_score: 15.267373968504938
-  rank: 9
+  recency_score: 12.296070933282007
+  category_score: 0
+  rank: 8
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 70.20395356266881
+  score: 61.703953562668815
   llm_score: 85
   recency_score: 11.019767813344055
+  category_score: 0
+  rank: 9
+- slug: catalyst
+  title: CATALYST
+  score: 56.54900835119811
+  llm_score: 75
+  recency_score: 20.245041755990528
+  category_score: 0
   rank: 10
 ---
 Get ready Fairhope, CATALYST is now working under the Scott Boone Consulting banner. CATALYST can be best described as:

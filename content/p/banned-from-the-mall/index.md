@@ -10,63 +10,73 @@ alttags: Prohibited symbol representing Alabamas concerning political choices an
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”
-  score: 95.24740235768714
+  score: 85.74740235768714
   llm_score: 95
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 87.5866878197373
-  llm_score: 90
-  recency_score: 77.93343909868652
-  rank: 2
 - slug: its-no-joke
   title: IT’S NO JOKE
-  score: 87.14222555805995
-  llm_score: 85
+  score: 82.14222555805995
+  llm_score: 90
   recency_score: 95.71112779029973
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: protester-pride
   title: PROTESTER PRIDE
-  score: 86.98553700495827
+  score: 78.48553700495829
   llm_score: 85
   recency_score: 94.92768502479139
+  category_score: 0
+  rank: 3
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 76.48668781973731
+  llm_score: 87
+  recency_score: 77.93343909868652
+  category_score: 0
   rank: 4
-- slug: alabama-moore-strange
-  title: ALABAMA MOORE STRANGE
-  score: 77.15530775847412
-  llm_score: 75
-  recency_score: 85.7765387923706
-  rank: 5
 - slug: black-hole
   title: BLACK HOLE
-  score: 75.51287958944485
-  llm_score: 70
+  score: 72.01287958944485
+  llm_score: 75
   recency_score: 97.56439794722424
+  category_score: 0
+  rank: 5
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 69.65530775847412
+  llm_score: 75
+  recency_score: 85.7765387923706
+  category_score: 0
   rank: 6
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
-  score: 74.70317696989248
+  score: 66.2031769698925
   llm_score: 85
   recency_score: 33.51588484946244
+  category_score: 0
   rank: 7
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 60.28236867632369
-  llm_score: 75
-  recency_score: 1.4118433816184552
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 64.35152902130567
+  llm_score: 85
+  recency_score: 24.25764510652827
+  category_score: 0
   rank: 8
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
-  score: 60.196678367911524
+  score: 52.69667836791153
   llm_score: 75
   recency_score: 0.9833918395576343
+  category_score: 0
   rank: 9
-- slug: insanity
-  title: INSANITY
-  score: 60.16487863775171
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 45.7823686763237
   llm_score: 65
-  recency_score: 40.82439318875856
+  recency_score: 1.4118433816184552
+  category_score: 0
   rank: 10
 ---
 Alabama has now reached a new low. From the most political corrupt state to a state that is considering

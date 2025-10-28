@@ -10,63 +10,73 @@ alttags: Red circle with a slash through the word Catalyst, symbolizing the grou
 related_articles:
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 95.62009294457451
+  score: 86.12009294457452
   llm_score: 95
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 1
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 94.77861223075729
+  score: 85.2786122307573
   llm_score: 95
   recency_score: 93.89306115378648
+  category_score: 0
   rank: 2
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 93.82610187044024
+  score: 84.32610187044024
   llm_score: 95
   recency_score: 89.13050935220119
+  category_score: 0
   rank: 3
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 83.56156314124607
+  llm_score: 95
+  recency_score: 85.30781570623031
+  category_score: 0
+  rank: 4
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 91.97579460098616
+  score: 82.47579460098616
   llm_score: 95
   recency_score: 79.87897300493081
-  rank: 4
+  category_score: 0
+  rank: 5
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 89.72869172076295
-  llm_score: 90
+  score: 80.02869172076296
+  llm_score: 89
   recency_score: 88.64345860381478
-  rank: 5
+  category_score: 0
+  rank: 6
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 63.01136989971914
+  llm_score: 85
+  recency_score: 17.55684949859567
+  category_score: 0
+  rank: 7
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 78.29013091918722
-  llm_score: 95
+  score: 61.79013091918722
+  llm_score: 85
   recency_score: 11.45065459593608
-  rank: 6
+  category_score: 0
+  rank: 8
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 78.24662907448486
-  llm_score: 95
+  score: 61.74662907448486
+  llm_score: 85
   recency_score: 11.233145372424257
-  rank: 7
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 73.6144884324103
-  llm_score: 92
-  recency_score: 0.07244216205141384
-  rank: 8
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 63.81216788870066
-  llm_score: 75
-  recency_score: 19.060839443503276
+  category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 60.06628068393902
-  llm_score: 75
-  recency_score: 0.3314034196950972
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 59.884830362778914
+  llm_score: 85
+  recency_score: 1.9241518138945364
+  category_score: 0
   rank: 10
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.

@@ -11,65 +11,75 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 87.35315705036788
-  llm_score: 85
-  recency_score: 96.76578525183945
-  rank: 1
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 87.29061318606567
-  llm_score: 90
-  recency_score: 76.45306593032835
-  rank: 2
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 87.24740235768714
-  llm_score: 85
+  score: 82.24740235768715
+  llm_score: 90
   recency_score: 96.23701178843567
-  rank: 3
+  category_score: 0
+  rank: 1
 - slug: help-fairness-killing-us
   title: HELP - FAIRNESS IS KILLING US
-  score: 83.72789538259508
-  llm_score: 80
+  score: 79.22789538259508
+  llm_score: 85
   recency_score: 98.63947691297537
+  category_score: 0
+  rank: 2
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 78.8531570503679
+  llm_score: 85
+  recency_score: 96.76578525183945
+  category_score: 0
+  rank: 3
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 78.29061318606568
+  llm_score: 90
+  recency_score: 76.45306593032835
+  category_score: 0
   rank: 4
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 82.79608191931776
-  llm_score: 85
+  score: 77.79608191931776
+  llm_score: 90
   recency_score: 73.98040959658876
+  category_score: 0
   rank: 5
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 78.22156185864796
-  llm_score: 85
-  recency_score: 51.107809293239825
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 67.79061318606568
+  llm_score: 75
+  recency_score: 76.45306593032835
+  category_score: 0
   rank: 6
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 74.27111348555951
+  score: 67.27111348555952
   llm_score: 70
   recency_score: 91.35556742779755
+  category_score: 0
   rank: 7
-- slug: exposure-2
-  title: EXPOSURE
-  score: 59.77061878848929
-  llm_score: 70
-  recency_score: 18.853093942446446
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 55.15006981718642
+  llm_score: 65
+  recency_score: 48.25034908593207
+  category_score: 0
   rank: 8
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 58.721577636566764
-  llm_score: 70
-  recency_score: 13.607888182833822
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 51.30221911833981
+  llm_score: 72
+  recency_score: 4.511095591699039
+  category_score: 0
   rank: 9
 - slug: equal-representation
   title: EQUAL REPRESENTATION
-  score: 50.56238317455078
-  llm_score: 60
+  score: 48.06238317455079
+  llm_score: 65
   recency_score: 12.811915872753922
+  category_score: 0
   rank: 10
 ---
 The last two Ripp Report posts,

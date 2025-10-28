@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article
 related_articles:
-- slug: re-run-doing-nothing
-  title: DOING NOTHING
-  score: 95.62944962510568
-  llm_score: 100
-  recency_score: 78.14724812552835
-  rank: 1
 - slug: in-the-dark
   title: IN THE DARK
-  score: 95.56641283325074
+  score: 86.06641283325074
   llm_score: 95
   recency_score: 97.83206416625366
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: the-face-of-no
   title: THE FACE OF NO
-  score: 93.77733007636273
+  score: 84.27733007636273
   llm_score: 95
   recency_score: 88.88665038181365
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 92.50975554986516
+  score: 83.00975554986516
   llm_score: 95
   recency_score: 82.54877774932578
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: hell-yea
   title: HELL YEA
-  score: 92.01962391400207
+  score: 82.51962391400207
   llm_score: 95
   recency_score: 80.0981195700103
-  rank: 5
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 81.74975319390109
+  category_score: 0
+  rank: 4
+- slug: re-run-doing-nothing
+  title: DOING NOTHING
+  score: 82.12944962510568
   llm_score: 95
-  recency_score: 28.748765969505406
+  recency_score: 78.14724812552835
+  category_score: 0
+  rank: 5
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 75.78513651399793
+  llm_score: 85
+  recency_score: 81.42568256998956
+  category_score: 0
   rank: 6
-- slug: repeat
-  title: REPEAT
-  score: 79.83613691258604
-  llm_score: 90
-  recency_score: 39.1806845629302
-  rank: 7
 - slug: broken-eggs
   title: BROKEN EGGS
-  score: 78.2081892039405
+  score: 69.20818920394052
   llm_score: 90
   recency_score: 31.040946019702552
-  rank: 8
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 73.97457577604462
+  category_score: 0
+  rank: 7
+- slug: going-down
+  title: GOING DOWN
+  score: 68.10115638090129
   llm_score: 85
-  recency_score: 29.872878880223098
-  rank: 9
+  recency_score: 43.0057819045064
+  category_score: 0
+  rank: 8
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 68.244874987816
+  score: 59.74487498781601
   llm_score: 85
   recency_score: 1.2243749390800314
+  category_score: 0
+  rank: 9
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 58.47457577604463
+  llm_score: 75
+  recency_score: 29.872878880223098
+  category_score: 0
   rank: 10
 ---
 Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government.

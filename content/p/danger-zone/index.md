@@ -10,63 +10,73 @@ alttags: 'Warning sign: Red bar with white exclamation point, illustrating dange
 related_articles:
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 86.022530768332
-  llm_score: 85
+  score: 82.42253076833201
+  llm_score: 92
   recency_score: 90.11265384166002
+  category_score: 0
   rank: 1
-- slug: misery-loves-company
-  title: MISERY LOVES COMPANY
-  score: 69.4101237676789
-  llm_score: 85
-  recency_score: 7.050618838394492
-  rank: 2
 - slug: criminal-enterprise
   title: CRIMINAL ENTERPRISE
-  score: 65.43964342023084
-  llm_score: 60
+  score: 62.939643420230844
+  llm_score: 65
   recency_score: 87.19821710115417
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 63.43524565340774
-  llm_score: 75
+  score: 62.93524565340775
+  llm_score: 85
   recency_score: 17.176228267038702
-  rank: 4
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 63.41647386607539
-  llm_score: 75
-  recency_score: 17.082369330376963
-  rank: 5
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 61.413992417567584
-  llm_score: 75
-  recency_score: 7.069962087837917
-  rank: 6
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 56.91844560934352
-  llm_score: 65
-  recency_score: 24.592228046717608
-  rank: 7
+  category_score: 0
+  rank: 3
 - slug: no-freaky-friday
   title: NO FREAKY FRIDAY
-  score: 56.46872054704624
+  score: 49.968720547046246
   llm_score: 65
   recency_score: 22.343602735231208
+  category_score: 0
+  rank: 4
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 49.7101237676789
+  llm_score: 69
+  recency_score: 7.050618838394492
+  category_score: 0
+  rank: 5
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 48.9164738660754
+  llm_score: 65
+  recency_score: 17.082369330376963
+  category_score: 0
+  rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 47.27989467527985
+  llm_score: 65
+  recency_score: 8.899473376399213
+  category_score: 0
+  rank: 7
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 46.91399241756759
+  llm_score: 65
+  recency_score: 7.069962087837917
+  category_score: 0
   rank: 8
-- slug: notice
-  title: 'NOTICE:'
-  score: 56.108235506670056
-  llm_score: 70
-  recency_score: 0.5411775333502961
-  rank: 9
 - slug: follow-bouncing-ball
   title: FOLLOW THE BOUNCING BALL
-  score: 48.927279171237664
-  llm_score: 60
+  score: 46.42727917123767
+  llm_score: 65
   recency_score: 4.636395856188334
+  category_score: 0
+  rank: 9
+- slug: round-and-round-we-go
+  title: ROUND AND ROUND WE GO
+  score: 39.15658305422905
+  llm_score: 55
+  recency_score: 3.2829152711452347
+  category_score: 0
   rank: 10
 ---
 Highway 98 and Parker Road are becoming more dangerous with every passing day. You can thank the CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and property owner Angelo Corte, a CATALYST supporter.

@@ -12,63 +12,73 @@ alttags: Sign advertising the South Alabama Mega Site, a 3000-acre certified ind
 related_articles:
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 85.72869172076295
+  score: 77.22869172076297
   llm_score: 85
   recency_score: 88.64345860381478
+  category_score: 0
   rank: 1
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 78.22156185864796
+  score: 69.72156185864797
   llm_score: 85
   recency_score: 51.107809293239825
+  category_score: 0
   rank: 2
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 76.41953853153237
-  llm_score: 75
-  recency_score: 82.09769265766185
-  rank: 3
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 76.00978388769298
+  score: 67.50978388769299
   llm_score: 85
   recency_score: 40.048919438464885
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: shovel-ready
   title: SHOVEL READY
-  score: 75.37777423965625
+  score: 66.87777423965625
   llm_score: 85
   recency_score: 36.88887119828122
-  rank: 5
+  category_score: 0
+  rank: 4
 - slug: mega-mistake
   title: MEGA-MISTAKE
-  score: 72.44430137001486
+  score: 63.94430137001487
   llm_score: 85
   recency_score: 22.221506850074306
-  rank: 6
+  category_score: 0
+  rank: 5
 - slug: for-the-record-mega-money
   title: FOR THE RECORD — MEGA-MONEY
-  score: 72.28879688043754
+  score: 63.78879688043756
   llm_score: 85
   recency_score: 21.44398440218775
-  rank: 7
+  category_score: 0
+  rank: 6
 - slug: mega-lost-opportunity
   title: MEGA — LOST OPPORTUNITY
-  score: 68.5836146838788
-  llm_score: 85
+  score: 63.583614683878814
+  llm_score: 90
   recency_score: 2.9180734193940348
+  category_score: 0
+  rank: 7
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 57.7744301839039
+  llm_score: 82
+  recency_score: 1.8721509195194928
+  category_score: 0
   rank: 8
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 62.04120535310381
-  llm_score: 75
-  recency_score: 10.20602676551906
-  rank: 9
 - slug: lost-opportunity
   title: LOST OPPORTUNITY
-  score: 58.240482350350455
-  llm_score: 70
+  score: 54.74048235035046
+  llm_score: 75
   recency_score: 11.20241175175226
+  category_score: 0
+  rank: 9
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 51.04120535310382
+  llm_score: 70
+  recency_score: 10.20602676551906
+  category_score: 0
   rank: 10
 ---
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the mega site, will soon pay off. Never mind that this is the same story since the purchase in mid 2011.

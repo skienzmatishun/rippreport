@@ -19,63 +19,73 @@ authors:
 related_articles:
 - slug: dog-and-pony-show
   title: DOG AND PONY SHOW
-  score: 100.0
+  score: 90.0
   llm_score: 100
   recency_score: 100.0
+  category_score: 0
   rank: 1
-- slug: shut-up-2
-  title: SHUT UP
-  score: 85.82610187044024
-  llm_score: 85
-  recency_score: 89.13050935220119
-  rank: 2
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 83.88849539476564
+  score: 75.38849539476566
   llm_score: 85
   recency_score: 79.4424769738282
-  rank: 3
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 73.71761680752583
-  llm_score: 90
-  recency_score: 8.588084037629146
-  rank: 4
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 73.11076301928001
-  llm_score: 85
-  recency_score: 25.553815096400097
-  rank: 5
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 72.35060209084813
-  llm_score: 90
-  recency_score: 1.7530104542406209
-  rank: 6
+  category_score: 0
+  rank: 2
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 72.2304468087236
+  score: 63.73044680872361
   llm_score: 85
   recency_score: 21.152234043618023
-  rank: 7
+  category_score: 0
+  rank: 3
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 71.67878151987449
+  score: 63.178781519874505
   llm_score: 85
   recency_score: 18.393907599372476
-  rank: 8
+  category_score: 0
+  rank: 4
 - slug: jack-ass
   title: JACK ASS
-  score: 71.34240690488217
+  score: 62.842406904882175
   llm_score: 85
   recency_score: 16.712034524410825
-  rank: 9
+  category_score: 0
+  rank: 5
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 61.217616807525836
+  llm_score: 85
+  recency_score: 8.588084037629146
+  category_score: 0
+  rank: 6
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 57.61076301928003
+  llm_score: 75
+  recency_score: 25.553815096400097
+  category_score: 0
+  rank: 7
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 57.04278605679046
+  llm_score: 75
+  recency_score: 22.713930283952266
+  category_score: 0
+  rank: 8
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 68.13147674847322
-  llm_score: 85
+  score: 52.631476748473226
+  llm_score: 75
   recency_score: 0.6573837423660799
+  category_score: 0
+  rank: 9
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 50.36826086626075
+  llm_score: 70
+  recency_score: 6.841304331303704
+  category_score: 0
   rank: 10
 ---
 {{< socialpreview url="https://rippreport.com/p/dog-and-pony-show/" >}}

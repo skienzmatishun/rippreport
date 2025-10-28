@@ -10,63 +10,73 @@ alttags: Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 77.36078404958211
-  llm_score: 95
+  score: 63.660784049582105
+  llm_score: 89
   recency_score: 6.803920247910508
+  category_score: 0
   rank: 1
-- slug: wetlands
-  title: WETLANDS
-  score: 70.93857289717093
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 62.39859293447588
   llm_score: 85
-  recency_score: 14.692864485854656
+  recency_score: 14.49296467237936
+  category_score: 0
   rank: 2
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 65.65006981718642
-  llm_score: 70
-  recency_score: 48.25034908593207
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 61.78513651399793
+  llm_score: 65
+  recency_score: 81.42568256998956
+  category_score: 0
   rank: 3
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 65.07808285380278
-  llm_score: 80
+  score: 60.57808285380278
+  llm_score: 85
   recency_score: 5.390414269013892
+  category_score: 0
   rank: 4
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 64.28513651399791
-  llm_score: 60
-  recency_score: 81.42568256998956
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 55.17654461491677
+  llm_score: 65
+  recency_score: 48.38272307458382
+  category_score: 0
   rank: 5
-- slug: grinder-pumps
-  title: GRINDER PUMPS
-  score: 64.01586522172649
-  llm_score: 75
-  recency_score: 20.079326108632408
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 55.15006981718642
+  llm_score: 65
+  recency_score: 48.25034908593207
+  category_score: 0
   rank: 6
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 54.65600931164779
+  llm_score: 70
+  recency_score: 28.280046558238915
+  category_score: 0
+  rank: 7
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 54.20818920394051
+  score: 48.20818920394052
   llm_score: 60
   recency_score: 31.040946019702552
-  rank: 7
+  category_score: 0
+  rank: 8
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 53.92180821238457
+  score: 47.421808212384576
   llm_score: 65
   recency_score: 9.609041061922857
-  rank: 8
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 53.36451733681731
-  llm_score: 65
-  recency_score: 6.822586684086551
+  category_score: 0
   rank: 9
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 43.69899455443594
+  score: 38.69899455443594
   llm_score: 50
   recency_score: 18.4949727721797
+  category_score: 0
   rank: 10
 ---
 Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGET

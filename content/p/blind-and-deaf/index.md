@@ -13,63 +13,73 @@ alttags: Two figures cover their eyes and ears, symbolizing a refusal to listen 
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 83.88849539476564
+  score: 75.38849539476566
   llm_score: 85
   recency_score: 79.4424769738282
+  category_score: 0
   rank: 1
-- slug: shut-up-2
-  title: SHUT UP
-  score: 77.94192790244709
-  llm_score: 90
-  recency_score: 29.70963951223547
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 68.461992213483
+  llm_score: 85
+  recency_score: 44.809961067414925
+  category_score: 0
   rank: 2
 - slug: shut-up
   title: SHUT UP
-  score: 76.32297651271782
+  score: 67.82297651271783
   llm_score: 85
   recency_score: 41.61488256358909
+  category_score: 0
   rank: 3
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 68.55415564363686
-  llm_score: 75
-  recency_score: 42.77077821818432
+- slug: shut-up-2
+  title: SHUT UP
+  score: 65.4419279024471
+  llm_score: 85
+  recency_score: 29.70963951223547
+  category_score: 0
   rank: 4
 - slug: hallucinations
   title: HALLUCINATIONS
-  score: 67.46808419803509
-  llm_score: 70
+  score: 63.96808419803509
+  llm_score: 75
   recency_score: 57.34042099017541
+  category_score: 0
   rank: 5
 - slug: public-access
   title: PUBLIC ACCESS
-  score: 66.35682478958158
-  llm_score: 65
-  recency_score: 71.78412394790789
-  rank: 6
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 63.10408372408847
-  llm_score: 75
-  recency_score: 15.520418620442342
-  rank: 7
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 61.16058788073118
-  llm_score: 65
-  recency_score: 45.8029394036559
-  rank: 8
-- slug: notice
-  title: 'NOTICE:'
-  score: 56.01327230234584
+  score: 63.35682478958159
   llm_score: 70
-  recency_score: 0.06636151172920161
-  rank: 9
+  recency_score: 71.78412394790789
+  category_score: 0
+  rank: 6
 - slug: blind-leading-the-blind
   title: BLIND LEADING THE BLIND
-  score: 55.69899455443594
-  llm_score: 65
+  score: 63.19899455443595
+  llm_score: 85
   recency_score: 18.4949727721797
+  category_score: 0
+  rank: 7
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 61.054155643636875
+  llm_score: 75
+  recency_score: 42.77077821818432
+  category_score: 0
+  rank: 8
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 52.63850200648935
+  llm_score: 75
+  recency_score: 0.6925100324466957
+  category_score: 0
+  rank: 9
+- slug: notice
+  title: 'NOTICE:'
+  score: 49.01327230234585
+  llm_score: 70
+  recency_score: 0.06636151172920161
+  category_score: 0
   rank: 10
 ---
 You would think an editor of a newspaper would look at the video and be able to understand the subject at hand, Not Chuckee! Makes ya wonder what he knows about freedom of the press!

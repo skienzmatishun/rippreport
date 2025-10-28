@@ -15,65 +15,75 @@ authors:
 - admin
 alttags: Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr...
 related_articles:
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 78.94620200815808
-  llm_score: 85
-  recency_score: 54.731010040790416
-  rank: 1
 - slug: got-fleas
   title: GOT FLEAS
-  score: 78.51502512362764
-  llm_score: 80
+  score: 74.01502512362765
+  llm_score: 85
   recency_score: 72.57512561813819
+  category_score: 0
+  rank: 1
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 70.4462020081581
+  llm_score: 85
+  recency_score: 54.731010040790416
+  category_score: 0
   rank: 2
 - slug: economic-virus
   title: ECONOMIC VIRUS
-  score: 77.8369256908693
+  score: 69.3369256908693
   llm_score: 85
   recency_score: 49.18462845434644
+  category_score: 0
   rank: 3
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 72.58768021500666
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 64.22221428196228
   llm_score: 75
-  recency_score: 62.93840107503325
+  recency_score: 58.61107140981138
+  category_score: 0
   rank: 4
 - slug: for-the-record-mega-money
   title: FOR THE RECORD — MEGA-MONEY
-  score: 65.20972355606835
+  score: 57.70972355606836
   llm_score: 75
   recency_score: 26.048617780341775
+  category_score: 0
   rank: 5
 - slug: stepping-up
   title: STEPPING UP
-  score: 55.14689799787467
+  score: 48.646897997874675
   llm_score: 65
   recency_score: 15.734489989373342
+  category_score: 0
   rank: 6
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 55.0613509305972
-  llm_score: 60
-  recency_score: 35.306754652986015
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 48.43053303106537
+  llm_score: 65
+  recency_score: 14.652665155326813
+  category_score: 0
   rank: 7
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 54.946634820508514
-  llm_score: 65
+  score: 44.94663482050852
+  llm_score: 60
   recency_score: 14.733174102542575
+  category_score: 0
   rank: 8
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 54.930533031065366
-  llm_score: 65
-  recency_score: 14.652665155326813
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 42.06135093059721
+  llm_score: 50
+  recency_score: 35.306754652986015
+  category_score: 0
   rank: 9
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 54.66988030926577
-  llm_score: 65
+  score: 40.469880309265776
+  llm_score: 54
   recency_score: 13.34940154632884
+  category_score: 0
   rank: 10
 ---
 ## DOLLARS

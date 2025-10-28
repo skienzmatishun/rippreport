@@ -10,63 +10,73 @@ alttags: Rapid development in Bay Minette, Alabama, strains infrastructure as Ba
 related_articles:
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 87.72789538259508
-  llm_score: 85
+  score: 80.62789538259509
+  llm_score: 87
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 80.83141751730334
-  llm_score: 85
-  recency_score: 64.15708758651667
-  rank: 2
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 72.60477556093977
-  llm_score: 90
-  recency_score: 3.0238778046988695
-  rank: 3
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 72.03793035989311
+  score: 63.53793035989312
   llm_score: 85
   recency_score: 20.189651799465537
-  rank: 4
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 68.55098452894464
-  llm_score: 85
-  recency_score: 2.7549226447232087
-  rank: 5
+  category_score: 0
+  rank: 2
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 68.4224002422755
+  score: 59.92240024227551
   llm_score: 85
   recency_score: 2.112001211377513
+  category_score: 0
+  rank: 3
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 59.649955242704976
+  llm_score: 85
+  recency_score: 0.7497762135248415
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 54.08642919000964
+  llm_score: 75
+  recency_score: 7.932145950048156
+  category_score: 0
+  rank: 5
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 53.050984528944646
+  llm_score: 75
+  recency_score: 2.7549226447232087
+  category_score: 0
   rank: 6
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 68.19136306432593
-  llm_score: 85
+  score: 52.69136306432594
+  llm_score: 75
   recency_score: 0.9568153216296585
+  category_score: 0
   rank: 7
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 68.14995524270496
-  llm_score: 85
-  recency_score: 0.7497762135248415
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 51.00477556093978
+  llm_score: 72
+  recency_score: 3.0238778046988695
+  category_score: 0
   rank: 8
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 49.94264809032086
+  llm_score: 70
+  recency_score: 4.713240451604244
+  category_score: 0
+  rank: 9
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 61.948315494495255
-  llm_score: 75
-  recency_score: 9.741577472476289
-  rank: 9
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 53.58642919000963
+  score: 47.44831549449526
   llm_score: 65
-  recency_score: 7.932145950048156
+  recency_score: 9.741577472476289
+  category_score: 0
   rank: 10
 ---
 Baldwin County is spinning out of control. Development in Fairhope and Daphne are under a building moratorium. Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.

@@ -9,63 +9,73 @@ authors:
 related_articles:
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 91.72789538259508
-  llm_score: 90
+  score: 89.72789538259508
+  llm_score: 100
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 90.08411183802811
-  llm_score: 95
-  recency_score: 70.42055919014051
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 75.91953853153238
+  llm_score: 85
+  recency_score: 82.09769265766185
+  category_score: 0
   rank: 2
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 75.34502484628416
+  llm_score: 85
+  recency_score: 79.22512423142078
+  category_score: 0
+  rank: 3
 - slug: alabamas-ethics-director-should-resign
   title: Alabama's Ethics Director Should Resign
-  score: 80.15008797921179
-  llm_score: 95
+  score: 74.15008797921179
+  llm_score: 100
   recency_score: 20.750439896058943
-  rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 77.99096692017021
-  llm_score: 90
-  recency_score: 29.95483460085101
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 76.73062366968936
-  llm_score: 95
-  recency_score: 3.653118348446851
-  rank: 5
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 75.96601468604398
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 73.58411183802811
   llm_score: 85
-  recency_score: 39.83007343021991
-  rank: 6
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 74.1227513524759
-  llm_score: 75
-  recency_score: 70.6137567623795
-  rank: 7
+  recency_score: 70.42055919014051
+  category_score: 0
+  rank: 5
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 72.62221429547445
-  llm_score: 75
-  recency_score: 63.11107147737226
-  rank: 8
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 68.42822636077862
+  score: 72.12221429547446
   llm_score: 85
-  recency_score: 2.141131803893106
-  rank: 9
+  recency_score: 63.11107147737226
+  category_score: 0
+  rank: 6
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 71.02312487593503
+  llm_score: 75
+  recency_score: 92.61562437967505
+  category_score: 0
+  rank: 7
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 66.62275135247592
+  llm_score: 75
+  recency_score: 70.6137567623795
+  category_score: 0
+  rank: 8
 - slug: bad-faith
   title: Bad Faith
-  score: 63.3607717319103
-  llm_score: 75
+  score: 62.860771731910305
+  llm_score: 85
   recency_score: 16.8038586595515
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 53.23062366968938
+  llm_score: 75
+  recency_score: 3.653118348446851
+  category_score: 0
   rank: 10
 ---
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.

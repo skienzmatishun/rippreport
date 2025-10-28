@@ -9,63 +9,73 @@ authors:
 related_articles:
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 88.51889524885166
-  llm_score: 95
+  score: 72.01889524885168
+  llm_score: 85
   recency_score: 62.594476244258324
+  category_score: 0
   rank: 1
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 86.02739968526954
-  llm_score: 95
+  score: 70.22739968526955
+  llm_score: 86
   recency_score: 50.13699842634772
+  category_score: 0
   rank: 2
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 85.0412299084796
-  llm_score: 100
-  recency_score: 25.20614954239798
-  rank: 3
 - slug: surrender
   title: SURRENDER
-  score: 82.24960453479669
-  llm_score: 90
+  score: 69.7496045347967
+  llm_score: 85
   recency_score: 51.24802267398346
-  rank: 4
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 81.1247843082185
-  llm_score: 95
-  recency_score: 25.623921541092447
-  rank: 5
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 67.987869307982
-  llm_score: 75
-  recency_score: 39.93934653990996
-  rank: 6
+  category_score: 0
+  rank: 3
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 61.369721324142674
-  llm_score: 60
-  recency_score: 66.84860662071335
-  rank: 7
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 52.094897999093824
+  score: 58.86972132414268
   llm_score: 65
-  recency_score: 0.4744899954691276
+  recency_score: 66.84860662071335
+  category_score: 0
+  rank: 4
+- slug: cover-up
+  title: COVER UP
+  score: 56.20889537238897
+  llm_score: 65
+  recency_score: 53.544476861944815
+  category_score: 0
+  rank: 5
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 54.124784308218494
+  llm_score: 70
+  recency_score: 25.623921541092447
+  category_score: 0
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 53.487869307982
+  llm_score: 65
+  recency_score: 39.93934653990996
+  category_score: 0
+  rank: 7
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 52.075847758661105
+  llm_score: 65
+  recency_score: 32.87923879330549
+  category_score: 0
   rank: 8
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 48.27749588022975
+  score: 43.27749588022975
   llm_score: 50
   recency_score: 41.38747940114875
+  category_score: 0
   rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 46.5758477586611
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 35.094897999093824
   llm_score: 50
-  recency_score: 32.87923879330549
+  recency_score: 0.4744899954691276
+  category_score: 0
   rank: 10
 ---
 He has done it again. The Ripp Report has predicted numerous times that Ronan McSharry would continue his intoxication fueled assaults on women. The Paula DiNardi case ended up being an example of just how bad the municipal court and the municipal attorney are in Fairhope. Mr McSharry has assaulted yet another woman, racking up his ninth arrest, all involving alcohol.

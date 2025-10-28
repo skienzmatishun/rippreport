@@ -17,63 +17,73 @@ alttags: Group photo from political group “the machine,” including Elliott S
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 95.9452804719372
+  score: 86.4452804719372
   llm_score: 95
   recency_score: 99.72640235968593
+  category_score: 0
   rank: 1
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 86.33629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
+  category_score: 0
+  rank: 2
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 83.93964342023084
+  llm_score: 95
+  recency_score: 87.19821710115417
+  category_score: 0
+  rank: 3
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 88.0
-  llm_score: 85
+  score: 83.00000000000001
+  llm_score: 90
   recency_score: 100.0
-  rank: 2
+  category_score: 0
+  rank: 4
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 87.78201851846809
-  llm_score: 85
+  score: 82.7820185184681
+  llm_score: 90
   recency_score: 98.91009259234048
-  rank: 3
+  category_score: 0
+  rank: 5
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 85.15530775847412
+  score: 76.65530775847412
   llm_score: 85
   recency_score: 85.7765387923706
-  rank: 4
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 83.5866878197373
-  llm_score: 85
-  recency_score: 77.93343909868652
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 79.17286949891341
-  llm_score: 95
-  recency_score: 15.864347494567099
-  rank: 6
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 72.2369552048455
-  llm_score: 90
-  recency_score: 1.1847760242275227
-  rank: 7
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 71.19030280407003
+  score: 62.67286949891343
   llm_score: 85
-  recency_score: 15.95151402035018
-  rank: 8
+  recency_score: 15.864347494567099
+  category_score: 0
+  rank: 7
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 70.93857289717093
+  score: 62.43857289717094
   llm_score: 85
   recency_score: 14.692864485854656
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: weasel-contractor
   title: WEASEL CONTRACTOR
-  score: 61.17043574274372
+  score: 53.67043574274373
   llm_score: 75
   recency_score: 5.8521787137186125
+  category_score: 0
+  rank: 9
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 35.23695520484551
+  llm_score: 50
+  recency_score: 1.1847760242275227
+  category_score: 0
   rank: 10
 ---
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County Commission and Dane Haygood was elected as Mayor of Daphne, Mr Stacy retired. The group then morphed into CATALYST and Haygood and Elliott tried to stay in the shadows while maintaining status in Catalyst.

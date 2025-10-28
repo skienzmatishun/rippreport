@@ -10,63 +10,73 @@ alttags: Citizens raising fists in solidarity against local government overreach
 related_articles:
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85.92404723937733
-  llm_score: 85
+  score: 80.92404723937733
+  llm_score: 90
   recency_score: 89.62023619688662
+  category_score: 0
   rank: 1
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 84.60046826485723
+  score: 76.10046826485723
   llm_score: 85
   recency_score: 83.00234132428609
+  category_score: 0
   rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 81.8369256908693
-  llm_score: 90
-  recency_score: 49.18462845434644
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 73.46882643931994
+  llm_score: 85
+  recency_score: 69.84413219659965
+  category_score: 0
   rank: 3
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 78.82689854161379
+  score: 70.3268985416138
   llm_score: 85
   recency_score: 54.13449270806896
+  category_score: 0
   rank: 4
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 69.3369256908693
+  llm_score: 85
+  recency_score: 49.18462845434644
+  category_score: 0
+  rank: 5
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 77.23619065458043
-  llm_score: 85
+  score: 54.73619065458044
+  llm_score: 65
   recency_score: 46.18095327290216
-  rank: 5
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 77.11053014836325
-  llm_score: 85
-  recency_score: 45.55265074181627
+  category_score: 0
   rank: 6
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 62.812541260822385
-  llm_score: 75
-  recency_score: 14.062706304111916
-  rank: 7
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 60.722660548191314
-  llm_score: 75
+  score: 49.72266054819132
+  llm_score: 70
   recency_score: 3.6133027409565597
+  category_score: 0
+  rank: 7
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 48.31254126082239
+  llm_score: 65
+  recency_score: 14.062706304111916
+  category_score: 0
   rank: 8
-- slug: newsletter
-  title: NEWSLETTER
-  score: 60.019423841428726
-  llm_score: 75
-  recency_score: 0.09711920714364118
-  rank: 9
 - slug: talking-heads
   title: TALKING HEADS
-  score: 56.51310158853855
-  llm_score: 70
+  score: 46.013101588538554
+  llm_score: 65
   recency_score: 2.565507942692728
+  category_score: 0
+  rank: 9
+- slug: newsletter
+  title: NEWSLETTER
+  score: 45.51942384142873
+  llm_score: 65
+  recency_score: 0.09711920714364118
+  category_score: 0
   rank: 10
 ---
 Baldwin County is changing, for the better, when it comes to public participation and citizens standing up to local municipal governments who have traditionally run roughshod over it’s own citizens. In the past small municipalities in Baldwin County did “their own thing”, when it came down to running city government. Mayors and Councils, sometime just the Mayor or just the council, would bully issues and controversial projects, through the process of approval, crying all the time to the citizens, that their was nothing they could do.

@@ -10,63 +10,73 @@ alttags: Republican congressional candidate CATALYST speaking, one of five vying
 related_articles:
 - slug: runoff
   title: RUNOFF
-  score: 93.77733007636273
+  score: 84.27733007636273
   llm_score: 95
   recency_score: 88.88665038181365
+  category_score: 0
   rank: 1
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 86.25684311958791
-  llm_score: 92
-  recency_score: 63.2842155979395
-  rank: 2
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 85.68018643855639
-  llm_score: 85
-  recency_score: 88.40093219278197
-  rank: 3
-- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
-  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 81.44318114711444
-  llm_score: 85
-  recency_score: 67.21590573557219
-  rank: 4
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT
-  score: 80.83141751730334
-  llm_score: 85
+  score: 79.33141751730334
+  llm_score: 95
   recency_score: 64.15708758651667
-  rank: 5
+  category_score: 0
+  rank: 2
 - slug: vote-jerry-carl-today
   title: VOTE JERRY CARL TODAY
-  score: 80.41642191956065
-  llm_score: 85
+  score: 78.91642191956066
+  llm_score: 95
   recency_score: 62.08210959780326
+  category_score: 0
+  rank: 3
+- slug: public-servant
+  title: PUBLIC SERVANT
+  score: 77.1801864385564
+  llm_score: 85
+  recency_score: 88.40093219278197
+  category_score: 0
+  rank: 4
+- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+  score: 76.44318114711444
+  llm_score: 90
+  recency_score: 67.21590573557219
+  category_score: 0
+  rank: 5
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 72.1568431195879
+  llm_score: 85
+  recency_score: 63.2842155979395
+  category_score: 0
   rank: 6
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 72.32419252805958
+  score: 63.8241925280596
   llm_score: 85
   recency_score: 21.62096264029795
+  category_score: 0
   rank: 7
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 72.17289060320662
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 63.41805472594941
   llm_score: 85
-  recency_score: 20.864453016033117
+  recency_score: 19.590273629747017
+  category_score: 0
   rank: 8
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 71.7193186493482
-  llm_score: 85
-  recency_score: 18.596593246741016
-  rank: 9
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 71.12970187685954
+  score: 62.62970187685955
   llm_score: 85
   recency_score: 15.648509384297702
+  category_score: 0
+  rank: 9
+- slug: sunday-sermon
+  title: SUNDAY SERMON
+  score: 46.59295272799746
+  llm_score: 65
+  recency_score: 5.464763639987247
+  category_score: 0
   rank: 10
 ---
 Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat.  Only one is CATALYST. GUESS.

@@ -10,65 +10,75 @@ authors:
 - ripp-report
 alttags: Suitcase with a no catalyst tag, referencing candidates in Baldwin County’s June 9th primary election
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 91.00016259450726
-  llm_score: 95
-  recency_score: 75.00081297253628
-  rank: 1
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 87.97579460098616
-  llm_score: 90
-  recency_score: 79.87897300493081
-  rank: 2
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 85.92404723937733
-  llm_score: 85
-  recency_score: 89.62023619688662
-  rank: 3
-- slug: qualification
-  title: QUALIFICATION
-  score: 85.15530775847412
-  llm_score: 85
-  recency_score: 85.7765387923706
-  rank: 4
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 77.79458423192868
-  llm_score: 95
-  recency_score: 8.972921159643409
-  rank: 5
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 72.05294432963113
+  score: 80.92404723937733
   llm_score: 90
-  recency_score: 0.2647216481556642
-  rank: 6
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 70.302714024536
+  recency_score: 89.62023619688662
+  category_score: 0
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 78.70016259450726
+  llm_score: 91
+  recency_score: 75.00081297253628
+  category_score: 0
+  rank: 2
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 78.27579460098617
+  llm_score: 89
+  recency_score: 79.87897300493081
+  category_score: 0
+  rank: 3
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 78.02312487593503
   llm_score: 85
-  recency_score: 11.51357012268003
-  rank: 7
+  recency_score: 92.61562437967505
+  category_score: 0
+  rank: 4
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 76.46149687375565
+  llm_score: 89
+  recency_score: 70.80748436877823
+  category_score: 0
+  rank: 5
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 75.78513651399793
+  llm_score: 85
+  recency_score: 81.42568256998956
+  category_score: 0
+  rank: 6
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 70.29013091918722
+  score: 61.79013091918722
   llm_score: 85
   recency_score: 11.45065459593608
-  rank: 8
+  category_score: 0
+  rank: 7
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 70.12101904991724
+  score: 61.62101904991724
   llm_score: 85
   recency_score: 10.605095249586157
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 69.82933305871514
+  score: 61.329333058715136
   llm_score: 85
   recency_score: 9.146665293575648
+  category_score: 0
+  rank: 9
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 50.79458423192869
+  llm_score: 70
+  recency_score: 8.972921159643409
+  category_score: 0
   rank: 10
 ---
 Qualifications for Mid Term elections are over and now it is a race to the primary June 9 2018.

@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: 'Fairhope, Alabama: American flag waves over a fountain in downtown area, celebrating approved BP RESTORE project funding'
 related_articles:
-- slug: stepping-up
-  title: STEPPING UP
-  score: 86.62490003199702
-  llm_score: 85
-  recency_score: 93.12450015998506
-  rank: 1
 - slug: gold-star-2
   title: GOLD STAR
-  score: 85.01488310709092
-  llm_score: 85
+  score: 80.01488310709092
+  llm_score: 90
   recency_score: 85.07441553545459
+  category_score: 0
+  rank: 1
+- slug: stepping-up
+  title: STEPPING UP
+  score: 78.82490003199702
+  llm_score: 86
+  recency_score: 93.12450015998506
+  category_score: 0
   rank: 2
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 76.43176053359937
-  llm_score: 95
-  recency_score: 2.1588026679968904
-  rank: 3
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 74.74000752017984
-  llm_score: 85
-  recency_score: 33.70003760089919
-  rank: 4
 - slug: state-of-the-city-2019
   title: STATE OF THE CITY - 2019
-  score: 70.83013102490949
-  llm_score: 65
+  score: 78.3301310249095
+  llm_score: 85
   recency_score: 94.15065512454748
+  category_score: 0
+  rank: 3
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 66.93176053359937
+  llm_score: 95
+  recency_score: 2.1588026679968904
+  category_score: 0
+  rank: 4
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 60.11311716147212
+  llm_score: 85
+  recency_score: 3.0655858073605606
+  category_score: 0
   rank: 5
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 69.71761680752583
-  llm_score: 85
+  score: 50.717616807525836
+  llm_score: 70
   recency_score: 8.588084037629146
+  category_score: 0
   rank: 6
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 69.31317071028812
-  llm_score: 85
-  recency_score: 6.565853551440616
-  rank: 7
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 67.10014946474215
-  llm_score: 75
-  recency_score: 35.500747323710755
-  rank: 8
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 56.39586260016436
+  score: 49.895862600164364
   llm_score: 65
   recency_score: 21.979313000821772
+  category_score: 0
+  rank: 7
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 46.813170710288134
+  llm_score: 65
+  recency_score: 6.565853551440616
+  category_score: 0
+  rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 45.891208621764726
+  llm_score: 65
+  recency_score: 1.9560431088235848
+  category_score: 0
   rank: 9
 - slug: s-o-s
   title: S.O.S
-  score: 53.92708065959618
-  llm_score: 65
+  score: 41.827080659596184
+  llm_score: 57
   recency_score: 9.635403297980877
+  category_score: 0
   rank: 10
 ---
 After many years, countless meetings, most very boring, perseverance, and well written proposals, Fairhope will finally see serious BP money.

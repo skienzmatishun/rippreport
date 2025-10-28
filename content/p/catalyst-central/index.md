@@ -10,63 +10,73 @@ alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejec
 related_articles:
 - slug: catalyst-2
   title: CATALYST
-  score: 85.87500746908161
-  llm_score: 85
+  score: 84.37500746908161
+  llm_score: 95
   recency_score: 89.37503734540803
+  category_score: 0
   rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 79.69014258029426
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 78.90625209818192
   llm_score: 85
-  recency_score: 58.450712901471334
+  recency_score: 97.03126049090956
+  category_score: 0
   rank: 2
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 76.6568431195879
-  llm_score: 80
-  recency_score: 63.2842155979395
-  rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 76.06011673477846
-  llm_score: 90
-  recency_score: 20.300583673892284
-  rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 75.40625209818191
-  llm_score: 70
-  recency_score: 97.03126049090956
-  rank: 5
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 74.00792557433363
-  llm_score: 90
-  recency_score: 10.039627871668154
-  rank: 6
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 71.81216788870066
+  score: 72.1568431195879
   llm_score: 85
-  recency_score: 19.060839443503276
-  rank: 7
+  recency_score: 63.2842155979395
+  category_score: 0
+  rank: 3
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 71.19014258029428
+  llm_score: 85
+  recency_score: 58.450712901471334
+  category_score: 0
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 65.65737211473653
+  llm_score: 85
+  recency_score: 30.7868605736826
+  category_score: 0
+  rank: 5
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 71.35157673975544
+  score: 62.85157673975546
   llm_score: 85
   recency_score: 16.757883698777256
+  category_score: 0
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 57.260116734778464
+  llm_score: 76
+  recency_score: 20.300583673892284
+  category_score: 0
+  rank: 7
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 56.312167888700664
+  llm_score: 75
+  recency_score: 19.060839443503276
+  category_score: 0
   rank: 8
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 71.04512055871784
-  llm_score: 85
-  recency_score: 15.225602793589186
-  rank: 9
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 63.73975441483146
+  score: 56.23975441483147
   llm_score: 75
   recency_score: 18.69877207415731
+  category_score: 0
+  rank: 9
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 47.50792557433364
+  llm_score: 65
+  recency_score: 10.039627871668154
+  category_score: 0
   rank: 10
 ---
 In the last Fairhope municipal election the Ripp Report supported most of the City Council, even Jack Burell. The focus of the election was to elect a new mayor.

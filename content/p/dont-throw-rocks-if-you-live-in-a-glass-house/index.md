@@ -15,65 +15,75 @@ authors:
 - ripp-report
 alttags: Broken glass against a dark background, symbolizing former Mayor Kant’s lack of cooperation during the transition of power
 related_articles:
-- slug: showing-your-true-colors
-  title: SHOWING YOUR TRUE COLORS
-  score: 88.50975554986516
-  llm_score: 90
-  recency_score: 82.54877774932578
-  rank: 1
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 87.88849539476564
+  score: 78.88849539476566
   llm_score: 90
   recency_score: 79.4424769738282
+  category_score: 0
+  rank: 1
+- slug: showing-your-true-colors
+  title: SHOWING YOUR TRUE COLORS
+  score: 78.80975554986516
+  llm_score: 89
+  recency_score: 82.54877774932578
+  category_score: 0
   rank: 2
-- slug: exit-and-enter
-  title: EXIT AND ENTER
-  score: 87.62009294457451
-  llm_score: 85
-  recency_score: 98.10046472287257
-  rank: 3
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 85.15174160583071
+  score: 76.15174160583072
   llm_score: 90
   recency_score: 65.75870802915355
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 83.80167323219754
+  score: 75.30167323219754
   llm_score: 85
   recency_score: 79.0083661609877
-  rank: 5
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 76.60115638090127
-  llm_score: 85
-  recency_score: 43.0057819045064
-  rank: 6
+  category_score: 0
+  rank: 4
 - slug: scratch-my-back-i-scratch-yours
   title: SCRATCH MY BACK, I SCRATCH YOURS
-  score: 69.8369256908693
-  llm_score: 75
-  recency_score: 49.18462845434644
-  rank: 7
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 68.10218401165189
+  score: 69.3369256908693
   llm_score: 85
-  recency_score: 0.5109200582594592
+  recency_score: 49.18462845434644
+  category_score: 0
+  rank: 5
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 68.38849539476566
+  llm_score: 75
+  recency_score: 79.4424769738282
+  category_score: 0
+  rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 61.10115638090129
+  llm_score: 75
+  recency_score: 43.0057819045064
+  category_score: 0
+  rank: 7
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 58.507403033112965
+  llm_score: 75
+  recency_score: 30.037015165564775
+  category_score: 0
   rank: 8
 - slug: fly-on-the-wall
   title: FLY ON THE WALL
-  score: 60.4924426285117
+  score: 52.992442628511704
   llm_score: 75
   recency_score: 2.4622131425584706
+  category_score: 0
   rank: 9
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 60.44864291354821
+  score: 52.94864291354822
   llm_score: 75
   recency_score: 2.24321456774108
+  category_score: 0
   rank: 10
 ---
 Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and promised to represent them to the best of her abilities. She was humble and appreciated the trust the citizens had in her ability.

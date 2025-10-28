@@ -12,63 +12,73 @@ alttags: Family silhouettes holding hands, representing custody disputes and har
 related_articles:
 - slug: exposure
   title: EXPOSURE
-  score: 87.72789538259508
-  llm_score: 85
+  score: 82.72789538259508
+  llm_score: 90
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 79.78748877687455
+  llm_score: 89
+  recency_score: 87.43744388437275
+  category_score: 0
+  rank: 2
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 84.16487863775171
+  score: 74.66487863775171
   llm_score: 95
   recency_score: 40.82439318875856
-  rank: 2
+  category_score: 0
+  rank: 3
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 76.48413566258803
+  score: 67.98413566258803
   llm_score: 85
   recency_score: 42.420678312940126
-  rank: 3
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 76.17009621794732
-  llm_score: 95
-  recency_score: 0.8504810897365797
+  category_score: 0
   rank: 4
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 76.16191138774839
+  score: 66.66191138774839
   llm_score: 95
   recency_score: 0.8095569387419504
+  category_score: 0
   rank: 5
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 76.00449734648357
-  llm_score: 95
-  recency_score: 0.02248673241788482
-  rank: 6
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 72.48098040369368
-  llm_score: 85
-  recency_score: 22.404902018468416
-  rank: 7
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 72.10485586290197
+  score: 63.60485586290198
   llm_score: 85
   recency_score: 20.524279314509858
+  category_score: 0
+  rank: 6
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 63.170096217947325
+  llm_score: 90
+  recency_score: 0.8504810897365797
+  category_score: 0
+  rank: 7
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 63.00449734648358
+  llm_score: 90
+  recency_score: 0.02248673241788482
+  category_score: 0
   rank: 8
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 72.00433998596476
-  llm_score: 90
+  score: 59.50433998596476
+  llm_score: 85
   recency_score: 0.021699929823781466
+  category_score: 0
   rank: 9
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 71.63868620757778
-  llm_score: 85
+  score: 52.63868620757778
+  llm_score: 70
   recency_score: 18.193431037888864
+  category_score: 0
   rank: 10
 ---
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree.

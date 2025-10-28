@@ -10,63 +10,73 @@ authors:
 related_articles:
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 70.12155541422004
-  llm_score: 65
+  score: 67.12155541422004
+  llm_score: 70
   recency_score: 90.60777707110016
+  category_score: 0
   rank: 1
 - slug: daphne-decision
   title: DAPHNE DECISION
-  score: 69.84949079590366
+  score: 61.34949079590367
   llm_score: 85
   recency_score: 9.247453979518323
+  category_score: 0
   rank: 2
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 52.857588823428856
+  llm_score: 65
+  recency_score: 36.787944117144235
+  category_score: 0
+  rank: 3
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
-  score: 52.9875907333758
+  score: 46.487590733375804
   llm_score: 65
   recency_score: 4.937953666878992
-  rank: 3
+  category_score: 0
+  rank: 4
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 52.339262866318556
+  score: 45.83926286631856
   llm_score: 65
   recency_score: 1.6963143315927736
-  rank: 4
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 52.0024749675345
-  llm_score: 65
-  recency_score: 0.012374837672532692
+  category_score: 0
   rank: 5
 - slug: fairhope-voters-guide
   title: FAIRHOPE VOTERS GUIDE
-  score: 50.73648583250484
-  llm_score: 63
+  score: 45.83648583250484
+  llm_score: 65
   recency_score: 1.6824291625241752
+  category_score: 0
   rank: 6
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 50.402578797407074
-  llm_score: 63
-  recency_score: 0.012893987035349408
-  rank: 7
-- slug: qualified-daphne-district-6-city-council
-  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 50.402242513066255
-  llm_score: 63
-  recency_score: 0.01121256533123894
-  rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 40.56628868417764
-  llm_score: 50
-  recency_score: 2.8314434208882173
-  rank: 9
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 40.33281844849064
-  llm_score: 50
+  score: 45.83281844849065
+  llm_score: 65
   recency_score: 1.664092242453201
+  category_score: 0
+  rank: 7
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 45.502578797407075
+  llm_score: 65
+  recency_score: 0.012893987035349408
+  category_score: 0
+  rank: 8
+- slug: qualified-daphne-district-6-city-council
+  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
+  score: 45.50224251306626
+  llm_score: 65
+  recency_score: 0.01121256533123894
+  category_score: 0
+  rank: 9
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 35.008061093331364
+  llm_score: 50
+  recency_score: 0.040305466656824135
+  category_score: 0
   rank: 10
 ---
 By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://lagniappemobile.com)

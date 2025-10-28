@@ -10,63 +10,73 @@ alttags: Bald eagle portrait against a red background, symbolizing service and s
 related_articles:
 - slug: recovery
   title: RECOVERY
-  score: 73.09678009225722
+  score: 64.59678009225723
   llm_score: 85
   recency_score: 25.48390046128612
+  category_score: 0
   rank: 1
 - slug: symbol
   title: Veterans Day
-  score: 70.89066245260483
+  score: 62.39066245260484
   llm_score: 85
   recency_score: 14.453312263024177
+  category_score: 0
   rank: 2
-- slug: im-back
-  title: I'M BACK
-  score: 65.50315362704151
-  llm_score: 75
-  recency_score: 27.51576813520753
-  rank: 3
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 65.08400637110499
-  llm_score: 80
-  recency_score: 5.420031855524929
-  rank: 4
 - slug: war
   title: WAR
-  score: 64.10823550667006
-  llm_score: 80
+  score: 59.60823550667006
+  llm_score: 85
   recency_score: 0.5411775333502961
-  rank: 5
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 60.2073296707293
-  llm_score: 70
-  recency_score: 21.03664835364649
-  rank: 6
+  category_score: 0
+  rank: 3
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 59.60793937687784
+  llm_score: 85
+  recency_score: 0.5396968843891398
+  category_score: 0
+  rank: 4
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 60.102464351700306
-  llm_score: 75
+  score: 59.60246435170031
+  llm_score: 85
   recency_score: 0.512321758501535
+  category_score: 0
+  rank: 5
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 53.58400637110499
+  llm_score: 75
+  recency_score: 5.420031855524929
+  category_score: 0
+  rank: 6
+- slug: im-back
+  title: I'M BACK
+  score: 51.00315362704151
+  llm_score: 65
+  recency_score: 27.51576813520753
+  category_score: 0
   rank: 7
-- slug: never-forget
-  title: Never Forget
-  score: 59.41647386607539
-  llm_score: 70
-  recency_score: 17.082369330376963
-  rank: 8
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 59.121139086375585
-  llm_score: 70
-  recency_score: 15.605695431877937
-  rank: 9
 - slug: no-freaky-friday
   title: NO FREAKY FRIDAY
-  score: 57.428281951431174
+  score: 50.92828195143118
   llm_score: 65
   recency_score: 27.14140975715586
+  category_score: 0
+  rank: 8
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 45.60559932044778
+  llm_score: 65
+  recency_score: 0.527996602238855
+  category_score: 0
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 44.47457577604463
+  llm_score: 55
+  recency_score: 29.872878880223098
+  category_score: 0
   rank: 10
 ---
 My first visit to the Veterans Hospital in Birmingham Alabama was in December of 1968, 51 years ago. Since that time I have had 14 shoulder operations and a kidney removed as a result of my tour of duty as a young Marine in Vietnam.

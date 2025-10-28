@@ -20,65 +20,75 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 94.88179115997221
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 85.3301310249095
   llm_score: 95
-  recency_score: 94.40895579986105
+  recency_score: 94.15065512454748
+  category_score: 0
   rank: 1
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 86.77861223075729
+  score: 78.2786122307573
   llm_score: 85
   recency_score: 93.89306115378648
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 82.67496869450072
-  llm_score: 85
-  recency_score: 73.37484347250358
-  rank: 3
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 72.18056760504162
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 71.38179115997222
   llm_score: 75
-  recency_score: 60.90283802520807
-  rank: 4
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 71.24877842919904
-  llm_score: 70
-  recency_score: 76.2438921459952
-  rank: 5
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 70.83013102490949
-  llm_score: 65
-  recency_score: 94.15065512454748
-  rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 69.10837124125831
-  llm_score: 65
-  recency_score: 85.54185620629158
-  rank: 7
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 67.88389745041349
-  llm_score: 70
-  recency_score: 59.41948725206741
-  rank: 8
+  recency_score: 94.40895579986105
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-58-the-rushin-prognostication
   title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 64.83141751730334
-  llm_score: 65
+  score: 65.33141751730335
+  llm_score: 75
   recency_score: 64.15708758651667
-  rank: 9
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 64.68056760504163
+  llm_score: 75
+  recency_score: 60.90283802520807
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 62.608371241258325
+  llm_score: 65
+  recency_score: 85.54185620629158
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-54-trump-positive
+  title: Backstory Podcast No 54 Trump Positive
+  score: 60.88389745041349
+  llm_score: 70
+  recency_score: 59.41948725206741
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 60.74877842919905
+  llm_score: 65
+  recency_score: 76.2438921459952
+  category_score: 0
+  rank: 8
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 51.21946349126168
+  score: 46.21946349126168
   llm_score: 50
   recency_score: 56.097317456308396
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-7
+  title: 'BACKSTORY PODCAST #7'
+  score: 39.55524911086822
+  llm_score: 50
+  recency_score: 22.77624555434108
+  category_score: 0
   rank: 10
 ---
 134,200,000 SARS-COV-2 cases confirmed worldwide with a total of 2,906,785 deaths; with 31,280,000 cases in the USA with 560,000 deaths.

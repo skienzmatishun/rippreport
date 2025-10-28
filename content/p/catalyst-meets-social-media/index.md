@@ -10,63 +10,73 @@ alttags: Megaphone icon representing concerns about Catalyst group’s influence
 related_articles:
 - slug: shadow-government
   title: SHADOW GOVERNMENT
-  score: 95.24740235768714
+  score: 85.74740235768714
   llm_score: 95
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 94.88179115997221
+  score: 85.38179115997221
   llm_score: 95
   recency_score: 94.40895579986105
+  category_score: 0
   rank: 2
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 93.72869172076295
-  llm_score: 95
-  recency_score: 88.64345860381478
-  rank: 3
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 91.80167323219754
-  llm_score: 95
+  score: 78.80167323219754
+  llm_score: 90
   recency_score: 79.0083661609877
+  category_score: 0
+  rank: 3
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 77.22869172076297
+  llm_score: 85
+  recency_score: 88.64345860381478
+  category_score: 0
   rank: 4
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 74.79061318606568
+  llm_score: 85
+  recency_score: 76.45306593032835
+  category_score: 0
+  rank: 5
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 90.16149687375565
-  llm_score: 95
-  recency_score: 70.80748436877823
-  rank: 5
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 76.01634461542733
-  llm_score: 95
-  recency_score: 0.08172307713667694
-  rank: 6
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 71.9612284482411
+  score: 73.66149687375565
   llm_score: 85
-  recency_score: 19.806142241205503
-  rank: 7
+  recency_score: 70.80748436877823
+  category_score: 0
+  rank: 6
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 71.23430628782093
+  score: 62.734306287820935
   llm_score: 85
   recency_score: 16.171531439104648
-  rank: 8
+  category_score: 0
+  rank: 7
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 70.58353064654526
-  llm_score: 85
+  score: 55.08353064654527
+  llm_score: 75
   recency_score: 12.9176532327263
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 70.53445557051873
-  llm_score: 85
+  score: 55.034455570518745
+  llm_score: 75
   recency_score: 12.67227785259367
+  category_score: 0
+  rank: 9
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 52.96122844824111
+  llm_score: 70
+  recency_score: 19.806142241205503
+  category_score: 0
   rank: 10
 ---
 Today I enter V.A. for my 14th shoulder operation, so if ya do not see a Wonderful Wednesday next week, you will know why. One more operation in December and if I follow the instructions of the doctors, I should be swimming by next summer.

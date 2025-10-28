@@ -12,63 +12,73 @@ authors:
 related_articles:
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 97.15530775847412
-  llm_score: 100
+  score: 85.05530775847413
+  llm_score: 97
   recency_score: 85.7765387923706
+  category_score: 0
   rank: 1
-- slug: nuff-said
-  title: NUFF SAID
-  score: 93.10837124125831
-  llm_score: 95
-  recency_score: 85.54185620629158
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 82.24740235768715
+  llm_score: 90
+  recency_score: 96.23701178843567
+  category_score: 0
   rank: 2
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 90.52312487593501
+  score: 81.52312487593503
   llm_score: 90
   recency_score: 92.61562437967505
+  category_score: 0
   rank: 3
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 87.24740235768714
-  llm_score: 85
-  recency_score: 96.23701178843567
-  rank: 4
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 86.98553700495827
-  llm_score: 85
-  recency_score: 94.92768502479139
-  rank: 5
 - slug: whos-on-first
   title: ??? WHO’S ON FIRST ???
-  score: 85.48748877687456
+  score: 76.98748877687456
   llm_score: 85
   recency_score: 87.43744388437275
-  rank: 6
+  category_score: 0
+  rank: 4
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 71.95048615589081
+  llm_score: 85
+  recency_score: 62.252430779453995
+  category_score: 0
+  rank: 5
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 81.18782317885686
-  llm_score: 85
+  score: 69.88782317885686
+  llm_score: 81
   recency_score: 65.93911589428427
-  rank: 7
-- slug: captain-jack
-  title: CAPTAIN JACK
-  score: 62.82799474546216
-  llm_score: 75
-  recency_score: 14.139973727310823
-  rank: 8
+  category_score: 0
+  rank: 6
 - slug: flying-high
   title: FLYING HIGH
-  score: 57.3251698208218
-  llm_score: 65
+  score: 64.8251698208218
+  llm_score: 85
   recency_score: 26.62584910410898
+  category_score: 0
+  rank: 7
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 64.6247843082185
+  llm_score: 85
+  recency_score: 25.623921541092447
+  category_score: 0
+  rank: 8
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 55.32799474546217
+  llm_score: 75
+  recency_score: 14.139973727310823
+  category_score: 0
   rank: 9
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
-  score: 54.3796779187427
+  score: 47.87967791874271
   llm_score: 65
   recency_score: 11.898389593713517
+  category_score: 0
   rank: 10
 ---
 One year ago The Ripp Report had a couple of people contributing time to its publication. A few people would also step forward with information. Today we are very pleased to say that about 8 to 10 people are directly involved and every week we get unsolicited information in various forms from citizens. The Ripp Report is based on documents that are requested through freedom of information or obtained from the public domain.

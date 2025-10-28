@@ -17,65 +17,75 @@ authors:
 - admin
 alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
 related_articles:
-- slug: justified
-  title: JUSTIFIED
-  score: 88.62221429547445
-  llm_score: 95
-  recency_score: 63.11107147737226
-  rank: 1
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 87.89071065521195
-  llm_score: 85
+  score: 80.79071065521195
+  llm_score: 87
   recency_score: 99.45355327605971
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 87.78201851846809
+  score: 79.2820185184681
   llm_score: 85
   recency_score: 98.91009259234048
+  category_score: 0
+  rank: 2
+- slug: justified
+  title: JUSTIFIED
+  score: 79.12221429547445
+  llm_score: 95
+  recency_score: 63.11107147737226
+  category_score: 0
   rank: 3
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 80.52721807862875
-  llm_score: 92
+  score: 66.42721807862875
+  llm_score: 85
   recency_score: 34.63609039314372
+  category_score: 0
   rank: 4
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 75.9452804719372
-  llm_score: 70
-  recency_score: 99.72640235968593
-  rank: 5
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 74.83297167738046
-  llm_score: 85
+  score: 62.83297167738046
+  llm_score: 80
   recency_score: 34.164858386902274
-  rank: 6
+  category_score: 0
+  rank: 5
 - slug: rumors
   title: RUMORS
-  score: 69.14820290291419
+  score: 60.64820290291421
   llm_score: 85
   recency_score: 5.741014514570984
+  category_score: 0
+  rank: 6
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 52.50812762192365
+  llm_score: 75
+  recency_score: 0.040638109618195
+  category_score: 0
   rank: 7
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 63.444670189763535
-  llm_score: 75
+  score: 52.44467018976354
+  llm_score: 70
   recency_score: 17.223350948817675
+  category_score: 0
   rank: 8
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 60.01750333898942
-  llm_score: 75
-  recency_score: 0.0875166949471142
-  rank: 9
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 56.138881984321266
+  score: 49.13888198432127
   llm_score: 70
   recency_score: 0.6944099216063174
+  category_score: 0
+  rank: 9
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 45.509606036107904
+  llm_score: 65
+  recency_score: 0.04803018053946753
+  category_score: 0
   rank: 10
 ---
 Of all the Mayors in Baldwin County. <a href="https://www.google.com/search?q=mayor+wills&as_sitesearch=rippreport.com">Mayor Bob Wills</a> is the most disgusting. Every voter in Bay Minette should remember <a href="https://www.google.com/search?q=oj+french&as_sitesearch=rippreport.com">O. J. French </a>, every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the <a href="https://www.google.com/search?q=bcso&as_sitesearch=rippreport.com">Sheriff Department</a>. The <a href="https://www.google.com/search?q=BCMCU&as_sitesearch=rippreport.com">Baldwin County Major Crimes Unit</a> who investigates themselves.

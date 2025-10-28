@@ -11,65 +11,75 @@ authors:
 - ripp-report
 alttags: Judge Michelle Thomason depicted wearing a crown and black attire, linked to concerns about her court and Catalyst organiz...
 related_articles:
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 86.97623272188054
-  llm_score: 95
-  recency_score: 54.88116360940264
-  rank: 1
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 86.32123996578217
-  llm_score: 85
+  score: 84.82123996578217
+  llm_score: 95
   recency_score: 91.60619982891085
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 84.24058076477368
+  score: 75.7405807647737
   llm_score: 85
   recency_score: 81.20290382386844
+  category_score: 0
+  rank: 2
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 73.97623272188054
+  llm_score: 90
+  recency_score: 54.88116360940264
+  category_score: 0
   rank: 3
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 78.5631983784823
+  score: 70.0631983784823
   llm_score: 85
   recency_score: 52.81599189241148
+  category_score: 0
   rank: 4
-- slug: exposure
-  title: EXPOSURE
-  score: 72.54278605679045
-  llm_score: 85
-  recency_score: 22.713930283952266
-  rank: 5
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 72.48098040369368
-  llm_score: 85
-  recency_score: 22.404902018468416
-  rank: 6
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 68.75919197418094
-  llm_score: 85
-  recency_score: 3.795959870904708
-  rank: 7
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 68.72266054819131
-  llm_score: 85
+  score: 67.22266054819131
+  llm_score: 95
   recency_score: 3.6133027409565597
-  rank: 8
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 63.9180547259494
+  category_score: 0
+  rank: 5
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 60.25919197418095
+  llm_score: 85
+  recency_score: 3.795959870904708
+  category_score: 0
+  rank: 6
+- slug: exposure
+  title: EXPOSURE
+  score: 57.04278605679046
   llm_score: 75
-  recency_score: 19.590273629747017
-  rank: 9
+  recency_score: 22.713930283952266
+  category_score: 0
+  rank: 7
 - slug: moma-bear
   title: MOTHER BEAR
-  score: 52.10912877952981
-  llm_score: 65
+  score: 52.60912877952982
+  llm_score: 75
   recency_score: 0.5456438976490593
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 49.98098040369369
+  llm_score: 65
+  recency_score: 22.404902018468416
+  category_score: 0
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 49.41805472594941
+  llm_score: 65
+  recency_score: 19.590273629747017
+  category_score: 0
   rank: 10
 ---
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott “baby” Boone. The first client that Catalyst signed up was none other than Judge Michelle Thomason.

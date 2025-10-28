@@ -9,63 +9,73 @@ authors:
 related_articles:
 - slug: get-out-of-jail-card
   title: GET OUT OF JAIL CARD
-  score: 73.07987434468455
-  llm_score: 75
+  score: 72.57987434468457
+  llm_score: 85
   recency_score: 65.39937172342279
+  category_score: 0
   rank: 1
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 71.88389745041349
-  llm_score: 75
+  score: 71.38389745041349
+  llm_score: 85
   recency_score: 59.41948725206741
+  category_score: 0
   rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 70.6795960873464
-  llm_score: 75
-  recency_score: 53.39798043673202
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 69.50000000000001
+  llm_score: 85
+  recency_score: 50
+  category_score: 0
   rank: 3
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 65.50839979983253
+  llm_score: 75
+  recency_score: 65.04199899916262
+  category_score: 0
+  rank: 4
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 68.6064347521116
-  llm_score: 85
+  score: 63.6064347521116
+  llm_score: 90
   recency_score: 3.032173760557979
-  rank: 4
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 68.57883750997557
-  llm_score: 85
-  recency_score: 2.894187549877844
+  category_score: 0
   rank: 5
-- slug: consequences
-  title: CONSEQUENCES
-  score: 60.83330969914109
-  llm_score: 75
-  recency_score: 4.16654849570544
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 60.077253824207034
+  llm_score: 85
+  recency_score: 2.886269121035116
+  category_score: 0
   rank: 6
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 60.12077128030803
-  llm_score: 75
-  recency_score: 0.6038564015401426
-  rank: 7
-- slug: im-back-2
-  title: I'M BACK
-  score: 58.398133109403574
-  llm_score: 65
-  recency_score: 31.990665547017855
-  rank: 8
 - slug: criminal-enterprise
   title: CRIMINAL ENTERPRISE
-  score: 54.18591311623324
-  llm_score: 65
+  score: 54.685913116233245
+  llm_score: 75
   recency_score: 10.929565581166187
+  category_score: 0
+  rank: 7
+- slug: consequences
+  title: CONSEQUENCES
+  score: 49.8333096991411
+  llm_score: 70
+  recency_score: 4.16654849570544
+  category_score: 0
+  rank: 8
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 46.07883750997558
+  llm_score: 65
+  recency_score: 2.894187549877844
+  category_score: 0
   rank: 9
 - slug: loser
   title: LOSER
-  score: 52.66563922962438
-  llm_score: 65
+  score: 42.66563922962439
+  llm_score: 60
   recency_score: 3.328196148121898
+  category_score: 0
   rank: 10
 ---
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.

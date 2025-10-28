@@ -10,63 +10,73 @@ alttags: Chucky doll caricature representing Chuckee Cheeze, a local journalist 
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 87.28110874039773
+  score: 77.78110874039773
   llm_score: 95
   recency_score: 56.40554370198863
+  category_score: 0
   rank: 1
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 79.68728672756747
-  llm_score: 90
-  recency_score: 38.436433637837325
-  rank: 2
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 77.91811031330417
-  llm_score: 85
-  recency_score: 49.59055156652082
-  rank: 3
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 76.64841536332693
-  llm_score: 85
-  recency_score: 43.242076816634636
-  rank: 4
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 76.55415564363686
-  llm_score: 85
+  score: 75.05415564363686
+  llm_score: 95
   recency_score: 42.77077821818432
-  rank: 5
+  category_score: 0
+  rank: 2
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 74.18728672756747
+  llm_score: 95
+  recency_score: 38.436433637837325
+  category_score: 0
+  rank: 3
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 69.41811031330417
+  llm_score: 85
+  recency_score: 49.59055156652082
+  category_score: 0
+  rank: 4
 - slug: hallucinations
   title: HALLUCINATIONS
-  score: 75.62944962510568
-  llm_score: 75
+  score: 64.62944962510568
+  llm_score: 70
   recency_score: 78.14724812552835
+  category_score: 0
+  rank: 5
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 61.14841536332693
+  llm_score: 75
+  recency_score: 43.242076816634636
+  category_score: 0
   rank: 6
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 73.4431743480055
-  llm_score: 85
-  recency_score: 27.215871740027474
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 58.377166390080546
+  llm_score: 75
+  recency_score: 29.385831950402675
+  category_score: 0
   rank: 7
 - slug: jack-ass
   title: JACK ASS
-  score: 69.65600931164778
-  llm_score: 80
-  recency_score: 28.280046558238915
-  rank: 8
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 65.87716639008053
+  score: 58.15600931164779
   llm_score: 75
-  recency_score: 29.385831950402675
+  recency_score: 28.280046558238915
+  category_score: 0
+  rank: 8
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 50.9431743480055
+  llm_score: 65
+  recency_score: 27.215871740027474
+  category_score: 0
   rank: 9
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 61.33977933106958
-  llm_score: 70
+  score: 50.83977933106959
+  llm_score: 65
   recency_score: 26.69889665534791
+  category_score: 0
   rank: 10
 ---
 CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of Catalyst, the Good ole boys, special interest and elected officials and Judges who are more concerned with their interest than those of the city.

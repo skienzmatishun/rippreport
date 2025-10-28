@@ -10,63 +10,73 @@ alttags: Falling dominoes represent former State Rep. Randy Davis seeking lenien
 related_articles:
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 83.50151487477555
+  score: 75.00151487477555
   llm_score: 85
   recency_score: 77.50757437387774
+  category_score: 0
   rank: 1
 - slug: catalyst-busted
   title: CATALYST BUSTED
-  score: 80.69156694727452
+  score: 72.19156694727454
   llm_score: 85
   recency_score: 63.45783473637261
+  category_score: 0
   rank: 2
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA
-  score: 73.3251698208218
-  llm_score: 85
+  score: 68.3251698208218
+  llm_score: 90
   recency_score: 26.62584910410898
+  category_score: 0
   rank: 3
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65.14053460363517
+  llm_score: 85
+  recency_score: 28.202673018175854
+  category_score: 0
+  rank: 4
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 73.11076301928001
+  score: 64.61076301928003
   llm_score: 85
   recency_score: 25.553815096400097
-  rank: 4
+  category_score: 0
+  rank: 5
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 72.83825535238421
+  score: 64.33825535238422
   llm_score: 85
   recency_score: 24.19127676192105
-  rank: 5
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 70.53445557051873
-  llm_score: 85
-  recency_score: 12.67227785259367
+  category_score: 0
   rank: 6
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 68.54497930774862
-  llm_score: 85
-  recency_score: 2.7248965387430797
-  rank: 7
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 67.96601468604398
-  llm_score: 75
+  score: 53.46601468604399
+  llm_score: 65
   recency_score: 39.83007343021991
-  rank: 8
+  category_score: 0
+  rank: 7
 - slug: columbia-questions-and-documents
   title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 62.82799474546216
-  llm_score: 75
+  score: 48.32799474546217
+  llm_score: 65
   recency_score: 14.139973727310823
+  category_score: 0
+  rank: 8
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 48.034455570518745
+  llm_score: 65
+  recency_score: 12.67227785259367
+  category_score: 0
   rank: 9
 - slug: threesome
   title: THREESOME
-  score: 52.87303941455374
-  llm_score: 65
+  score: 35.87303941455374
+  llm_score: 50
   recency_score: 4.365197072768688
+  category_score: 0
   rank: 10
 ---
 “According to court records filed Friday, State Rep. Randy Davis of Daphne is attempting to avoid prosecution from federal conspiracy and bribery charges through pretrial diversion regarding an indictment unsealed in Montgomery last year.”

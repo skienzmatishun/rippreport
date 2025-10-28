@@ -10,63 +10,73 @@ alttags: Stack of documents representing bids and ethics letters related to a Fa
 related_articles:
 - slug: transparency
   title: TRANSPARENCY
-  score: 86.88179115997221
-  llm_score: 85
+  score: 81.88179115997222
+  llm_score: 90
   recency_score: 94.40895579986105
+  category_score: 0
   rank: 1
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 85.10837124125831
+  score: 76.60837124125833
   llm_score: 85
   recency_score: 85.54185620629158
+  category_score: 0
   rank: 2
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 75.0866878197373
+  llm_score: 85
+  recency_score: 77.93343909868652
+  category_score: 0
+  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 83.53109549158327
-  llm_score: 90
+  score: 71.03109549158327
+  llm_score: 85
   recency_score: 57.65547745791634
-  rank: 3
+  category_score: 0
+  rank: 4
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 69.75087530153704
+  score: 61.25087530153704
   llm_score: 85
   recency_score: 8.754376507685183
-  rank: 4
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 69.56913858075045
-  llm_score: 85
-  recency_score: 7.845692903752216
+  category_score: 0
   rank: 5
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 69.390938708264
-  llm_score: 85
-  recency_score: 6.9546935413200295
-  rank: 6
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 68.88508114790996
-  llm_score: 85
-  recency_score: 4.425405739549776
-  rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 67.41831135904945
-  llm_score: 75
-  recency_score: 37.09155679524731
-  rank: 8
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 65.74975319390109
-  llm_score: 75
-  recency_score: 28.748765969505406
-  rank: 9
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 57.62158409262805
-  llm_score: 70
+  score: 61.121584092628055
+  llm_score: 85
   recency_score: 8.107920463140223
+  category_score: 0
+  rank: 6
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 61.06913858075045
+  llm_score: 85
+  recency_score: 7.845692903752216
+  category_score: 0
+  rank: 7
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 60.89093870826402
+  llm_score: 85
+  recency_score: 6.9546935413200295
+  category_score: 0
+  rank: 8
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 60.21478421734435
+  llm_score: 85
+  recency_score: 3.573921086721709
+  category_score: 0
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 59.91831135904947
+  llm_score: 75
+  recency_score: 37.09155679524731
+  category_score: 0
   rank: 10
 ---
 Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of:

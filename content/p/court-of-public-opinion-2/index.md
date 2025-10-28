@@ -7,65 +7,75 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 80.19993815635023
-  llm_score: 100
-  recency_score: 0.9996907817511175
-  rank: 1
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 79.3002072693518
-  llm_score: 75
+  score: 78.80020726935182
+  llm_score: 85
   recency_score: 96.50103634675902
-  rank: 2
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 72.13111703119183
-  llm_score: 90
-  recency_score: 0.6555851559591579
-  rank: 3
+  category_score: 0
+  rank: 1
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 67.93208520393644
-  llm_score: 65
+  score: 64.93208520393645
+  llm_score: 70
   recency_score: 79.6604260196822
+  category_score: 0
+  rank: 2
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 63.972446043362034
+  llm_score: 65
+  recency_score: 92.36223021681012
+  category_score: 0
+  rank: 3
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 63.13111703119184
+  llm_score: 90
+  recency_score: 0.6555851559591579
+  category_score: 0
   rank: 4
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 60.508901599082854
-  llm_score: 75
-  recency_score: 2.5445079954142833
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 60.22266054819132
+  llm_score: 85
+  recency_score: 3.6133027409565597
+  category_score: 0
   rank: 5
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 59.987869307981995
+  score: 53.487869307982
   llm_score: 65
   recency_score: 39.93934653990996
+  category_score: 0
   rank: 6
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 56.722660548191314
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 49.50890159908286
   llm_score: 70
-  recency_score: 3.6133027409565597
+  recency_score: 2.5445079954142833
+  category_score: 0
   rank: 7
 - slug: election-ad
   title: ELECTION AD
-  score: 56.31236163934018
-  llm_score: 65
+  score: 43.512361639340185
+  llm_score: 56
   recency_score: 21.56180819670091
+  category_score: 0
   rank: 8
 - slug: shut-up-2
   title: SHUT UP
-  score: 53.74608494802719
-  llm_score: 65
+  score: 39.54608494802719
+  llm_score: 54
   recency_score: 8.730424740135948
+  category_score: 0
   rank: 9
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 53.33977933106958
-  llm_score: 60
+  score: 36.839779331069586
+  llm_score: 45
   recency_score: 26.69889665534791
+  category_score: 0
   rank: 10
 ---
 The Executive Director of the Alabama Ethics Commission, Mr Tom Albritton should resign his position. His failure to do so will only further erode the little trust Alabama citizens have in the Ethics Commission.

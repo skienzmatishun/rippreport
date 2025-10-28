@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: Red circle with a slash through the word CATALYST, symbolizing opposition to the political group discussed in the article
 related_articles:
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 94.77861223075729
-  llm_score: 95
-  recency_score: 93.89306115378648
-  rank: 1
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 92.50975554986516
-  llm_score: 95
-  recency_score: 82.54877774932578
-  rank: 2
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 91.00016259450726
-  llm_score: 95
-  recency_score: 75.00081297253628
-  rank: 3
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 90.88179115997221
-  llm_score: 90
+  score: 85.38179115997221
+  llm_score: 95
   recency_score: 94.40895579986105
+  category_score: 0
+  rank: 1
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 85.2786122307573
+  llm_score: 95
+  recency_score: 93.89306115378648
+  category_score: 0
+  rank: 2
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 84.67127158449027
+  llm_score: 95
+  recency_score: 90.85635792245131
+  category_score: 0
+  rank: 3
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 81.60975554986517
+  llm_score: 93
+  recency_score: 82.54877774932578
+  category_score: 0
   rank: 4
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 86.4219058668791
+  score: 77.9219058668791
   llm_score: 85
   recency_score: 92.10952933439548
+  category_score: 0
   rank: 5
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 84.73747273054873
+  score: 76.23747273054873
   llm_score: 85
   recency_score: 83.68736365274363
+  category_score: 0
   rank: 6
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 80.06011673477846
-  llm_score: 95
-  recency_score: 20.300583673892284
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 75.69614691902798
+  llm_score: 85
+  recency_score: 80.98073459513984
+  category_score: 0
   rank: 7
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 74.50016259450726
+  llm_score: 85
+  recency_score: 75.00081297253628
+  category_score: 0
+  rank: 8
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 78.43908430617277
-  llm_score: 95
-  recency_score: 12.195421530863895
-  rank: 8
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 71.05347479370099
+  score: 61.93908430617279
   llm_score: 85
-  recency_score: 15.267373968504938
+  recency_score: 12.195421530863895
+  category_score: 0
   rank: 9
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 70.39275303933815
+  score: 61.89275303933815
   llm_score: 85
   recency_score: 11.96376519669074
+  category_score: 0
   rank: 10
 ---
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business, in what he thought was a shoe in. He is bought and paid for, Goat Hill already owns his ass.

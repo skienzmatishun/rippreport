@@ -16,63 +16,73 @@ alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director
 related_articles:
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 91.56641283325074
-  llm_score: 90
+  score: 86.06641283325074
+  llm_score: 95
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 1
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 71.58086365430705
+  llm_score: 85
+  recency_score: 60.404318271535175
+  category_score: 0
+  rank: 2
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 75.50005501422807
-  llm_score: 85
+  score: 69.80005501422808
+  llm_score: 89
   recency_score: 37.500275071140365
-  rank: 2
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 69.61272299947794
-  llm_score: 85
-  recency_score: 8.063614997389708
+  category_score: 0
   rank: 3
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 69.63789333571614
+  llm_score: 85
+  recency_score: 50.689466678580686
+  category_score: 0
+  rank: 4
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 69.58208875718051
+  score: 61.08208875718052
   llm_score: 85
   recency_score: 7.9104437859025545
-  rank: 4
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 64.30056311965313
-  llm_score: 75
-  recency_score: 21.50281559826569
+  category_score: 0
   rank: 5
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 62.132672971502366
-  llm_score: 75
-  recency_score: 10.663364857511832
-  rank: 6
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 62.10942881080481
-  llm_score: 75
-  recency_score: 10.547144054024043
-  rank: 7
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 60.35988029766957
-  llm_score: 70
-  recency_score: 21.799401488347854
-  rank: 8
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 60.038214444787414
+  score: 56.85988029766958
   llm_score: 75
-  recency_score: 0.19107222393707068
-  rank: 9
+  recency_score: 21.799401488347854
+  category_score: 0
+  rank: 6
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 58.39931751544405
-  llm_score: 70
+  score: 54.899317515444054
+  llm_score: 75
   recency_score: 11.996587577220225
+  category_score: 0
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 53.30056311965315
+  llm_score: 70
+  recency_score: 21.50281559826569
+  category_score: 0
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 50.61272299947795
+  llm_score: 70
+  recency_score: 8.063614997389708
+  category_score: 0
+  rank: 9
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 47.609428810804815
+  llm_score: 65
+  recency_score: 10.547144054024043
+  category_score: 0
   rank: 10
 ---
 ### Mr Steve Marshall

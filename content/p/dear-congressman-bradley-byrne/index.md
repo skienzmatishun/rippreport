@@ -13,63 +13,73 @@ alttags: Baldwin County political commentary features a stylized eagle stamp ref
 related_articles:
 - slug: above-the-law
   title: ABOVE THE LAW
-  score: 78.07232874673902
+  score: 70.27232874673902
   llm_score: 78
   recency_score: 78.36164373369505
+  category_score: 0
   rank: 1
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 69.14820290291419
-  llm_score: 85
-  recency_score: 5.741014514570984
-  rank: 2
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 68.52591067985281
-  llm_score: 85
-  recency_score: 2.629553399264038
-  rank: 3
 - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
   title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 68.35349562682318
+  score: 59.853495626823175
   llm_score: 85
   recency_score: 1.7674781341158494
+  category_score: 0
+  rank: 2
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 53.64820290291421
+  llm_score: 75
+  recency_score: 5.741014514570984
+  category_score: 0
+  rank: 3
+- slug: vote-jerry-carl-today
+  title: VOTE JERRY CARL TODAY
+  score: 52.82649644465278
+  llm_score: 75
+  recency_score: 1.632482223263862
+  category_score: 0
   rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 52.71931864934821
+  llm_score: 70
+  recency_score: 18.596593246741016
+  category_score: 0
+  rank: 5
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 62.24662907448485
-  llm_score: 75
+  score: 51.24662907448486
+  llm_score: 70
   recency_score: 11.233145372424257
-  rank: 5
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 60.33281844849064
-  llm_score: 75
-  recency_score: 1.664092242453201
+  category_score: 0
   rank: 6
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 60.119454985177626
-  llm_score: 75
-  recency_score: 0.5972749258881307
+- slug: congressional-catalyst
+  title: CONGRESSIONAL CATALYST
+  score: 49.525910679852814
+  llm_score: 70
+  recency_score: 2.629553399264038
+  category_score: 0
   rank: 7
 - slug: public-servant
   title: PUBLIC SERVANT
-  score: 56.46490994349128
-  llm_score: 70
+  score: 45.964909943491286
+  llm_score: 65
   recency_score: 2.3245497174563954
+  category_score: 0
   rank: 8
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 55.12970187685954
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 45.83281844849065
   llm_score: 65
-  recency_score: 15.648509384297702
+  recency_score: 1.664092242453201
+  category_score: 0
   rank: 9
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 52.20048668318456
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 45.61945498517763
   llm_score: 65
-  recency_score: 1.002433415922802
+  recency_score: 0.5972749258881307
+  category_score: 0
   rank: 10
 ---
 The Ripp Report/Baldwin County Legal Eagle Face book

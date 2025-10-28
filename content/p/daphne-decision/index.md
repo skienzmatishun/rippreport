@@ -10,63 +10,73 @@ alttags: Daphne City Hall exterior; American flag flying, where the city council
 related_articles:
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 73.82610187044024
-  llm_score: 70
+  score: 68.92610187044025
+  llm_score: 73
   recency_score: 89.13050935220119
+  category_score: 0
   rank: 1
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 72.65619237382862
-  llm_score: 85
-  recency_score: 23.280961869143056
-  rank: 2
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 69.84949079590366
-  llm_score: 85
+  score: 68.34949079590366
+  llm_score: 95
   recency_score: 9.247453979518323
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 68.50975554986516
-  llm_score: 65
+  score: 65.50975554986516
+  llm_score: 70
   recency_score: 82.54877774932578
+  category_score: 0
+  rank: 3
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 64.15619237382862
+  llm_score: 85
+  recency_score: 23.280961869143056
+  category_score: 0
   rank: 4
 - slug: qualified-daphne-district-6-city-council
   title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 68.02425005921862
+  score: 59.52425005921862
   llm_score: 85
   recency_score: 0.12125029609309805
+  category_score: 0
   rank: 5
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 59.5990278970599
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 52.63868620757778
   llm_score: 70
-  recency_score: 17.995139485299486
+  recency_score: 18.193431037888864
+  category_score: 0
   rank: 6
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
-  score: 55.66871646044381
+  score: 49.16871646044382
   llm_score: 65
   recency_score: 18.34358230221904
+  category_score: 0
   rank: 7
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 55.63868620757777
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 49.099027897059905
   llm_score: 65
-  recency_score: 18.193431037888864
+  recency_score: 17.995139485299486
+  category_score: 0
   rank: 8
 - slug: selective-memory
   title: Selective Memory
-  score: 55.40712647419586
+  score: 48.90712647419587
   llm_score: 65
   recency_score: 17.035632370979314
+  category_score: 0
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 54.04120535310381
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 45.52506057193202
   llm_score: 65
-  recency_score: 10.20602676551906
+  recency_score: 0.1253028596600917
+  category_score: 0
   rank: 10
 ---
 ## NOTICE OF CITY COUNCIL VACANCY

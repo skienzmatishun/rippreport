@@ -20,63 +20,73 @@ alttags: 'Mask crossed out, fan checked: Illustration reflects attendees removin
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 87.62009294457451
-  llm_score: 85
+  score: 80.52009294457453
+  llm_score: 87
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 1
-- slug: m-i-a
-  title: M.I.A
-  score: 85.72869172076295
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 77.62155541422004
   llm_score: 85
-  recency_score: 88.64345860381478
+  recency_score: 90.60777707110016
+  category_score: 0
   rank: 2
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 83.84502484628416
+  score: 75.34502484628416
   llm_score: 85
   recency_score: 79.22512423142078
+  category_score: 0
   rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 74.74877842919905
+  llm_score: 85
+  recency_score: 76.2438921459952
+  category_score: 0
+  rank: 4
 - slug: catalyst-2
   title: CATALYST
-  score: 80.83141751730334
+  score: 72.33141751730335
   llm_score: 85
   recency_score: 64.15708758651667
-  rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 79.81895828211927
-  llm_score: 85
-  recency_score: 59.09479141059637
+  category_score: 0
   rank: 5
-- slug: catalyst-party
-  title: CATALYST PARTY
-  score: 74.08411183802811
-  llm_score: 75
-  recency_score: 70.42055919014051
-  rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 71.53066309252159
-  llm_score: 85
-  recency_score: 17.653315462607935
-  rank: 7
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 71.50176287453081
-  llm_score: 85
-  recency_score: 17.508814372654022
-  rank: 8
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 71.46808419803509
+  score: 63.96808419803509
   llm_score: 75
   recency_score: 57.34042099017541
-  rank: 9
+  category_score: 0
+  rank: 6
+- slug: m-i-a
+  title: M.I.A
+  score: 63.22869172076297
+  llm_score: 65
+  recency_score: 88.64345860381478
+  category_score: 0
+  rank: 7
 - slug: howling-rains
   title: HOWLING RAINS
-  score: 69.58357363897636
+  score: 63.083573638976375
   llm_score: 65
   recency_score: 87.91786819488183
+  category_score: 0
+  rank: 8
+- slug: catalyst
+  title: CATALYST
+  score: 56.03066309252159
+  llm_score: 75
+  recency_score: 17.653315462607935
+  category_score: 0
+  rank: 9
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 56.00176287453081
+  llm_score: 75
+  recency_score: 17.508814372654022
+  category_score: 0
   rank: 10
 ---
 Last night Spanish Fort played Fairhope in football. The stands were full, social distancing was all but impossible.

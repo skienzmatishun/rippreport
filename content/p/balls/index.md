@@ -12,65 +12,75 @@ authors:
 - ripp-report
 alttags: Pile of tennis balls on a court, symbolizing courage and accountability expected from City Council members
 related_articles:
-- slug: jack-ass
-  title: JACK ASS
-  score: 82.35682478958158
-  llm_score: 85
-  recency_score: 71.78412394790789
-  rank: 1
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 81.04408811712146
-  llm_score: 85
+  score: 79.54408811712146
+  llm_score: 95
   recency_score: 65.22044058560728
-  rank: 2
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 77.36358438186879
-  llm_score: 85
-  recency_score: 46.817921909343944
-  rank: 3
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 76.69167940010973
-  llm_score: 75
-  recency_score: 83.45839700054867
-  rank: 4
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 71.56273085034567
-  llm_score: 75
-  recency_score: 57.813654251728394
-  rank: 5
+  category_score: 0
+  rank: 1
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 71.20705813124003
-  llm_score: 70
+  score: 74.70705813124005
+  llm_score: 85
   recency_score: 76.03529065620016
-  rank: 6
+  category_score: 0
+  rank: 2
+- slug: jack-ass
+  title: JACK ASS
+  score: 73.8568247895816
+  llm_score: 85
+  recency_score: 71.78412394790789
+  category_score: 0
+  rank: 3
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 68.8635843818688
+  llm_score: 85
+  recency_score: 46.817921909343944
+  category_score: 0
+  rank: 4
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 71.02019474573342
+  score: 62.520194745733434
   llm_score: 85
   recency_score: 15.100973728667121
-  rank: 7
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 68.01577272327427
+  category_score: 0
+  rank: 5
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 60.007509256316254
   llm_score: 85
-  recency_score: 0.07886361637135456
-  rank: 8
+  recency_score: 2.537546281581227
+  category_score: 0
+  rank: 6
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 59.66414461310581
+  llm_score: 85
+  recency_score: 0.8207230655290094
+  category_score: 0
+  rank: 7
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 65.38927321181896
-  llm_score: 70
+  score: 54.889273211818974
+  llm_score: 65
   recency_score: 46.946366059094835
-  rank: 9
-- slug: shut-up-2
-  title: SHUT UP
-  score: 58.691914960300615
+  category_score: 0
+  rank: 8
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 49.01577272327428
   llm_score: 70
-  recency_score: 13.459574801503088
+  recency_score: 0.07886361637135456
+  category_score: 0
+  rank: 9
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 45.87238412243052
+  llm_score: 65
+  recency_score: 1.8619206121525609
+  category_score: 0
   rank: 10
 ---
 How many balls are on the City Council? Place your bets and take note how many council members have forgotten what our last election was about— and their promises. How many will stand up for citizens, and how many have no balls. PLEASE make your voice heard!

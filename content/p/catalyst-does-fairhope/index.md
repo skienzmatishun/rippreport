@@ -12,65 +12,75 @@ authors:
 - ripp-report
 alttags: 'No Catalyst symbol: Red circle with a diagonal line through it over the word CATALYST, referencing Facebooks action aga...'
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 92.50975554986516
-  llm_score: 95
-  recency_score: 82.54877774932578
-  rank: 1
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 85.92404723937733
-  llm_score: 85
+  score: 84.42404723937733
+  llm_score: 95
   recency_score: 89.62023619688662
+  category_score: 0
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 80.90975554986517
+  llm_score: 92
+  recency_score: 82.54877774932578
+  category_score: 0
   rank: 2
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 80.58357363897638
+  llm_score: 90
+  recency_score: 87.91786819488183
+  category_score: 0
+  rank: 3
 - slug: catalyst-panic-and-confusion
   title: CATALYST PANIC and CONFUSION
-  score: 80.93731582528929
+  score: 72.43731582528929
   llm_score: 85
   recency_score: 64.6865791264464
-  rank: 3
-- slug: catalyst-2
-  title: CATALYST
-  score: 78.99547296281645
-  llm_score: 95
-  recency_score: 14.977364814082216
+  category_score: 0
   rank: 4
 - slug: catalyst
   title: CATALYST
-  score: 78.88638684588861
+  score: 70.38638684588862
   llm_score: 85
   recency_score: 54.43193422944308
+  category_score: 0
   rank: 5
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 71.35157673975544
+  score: 62.85157673975546
   llm_score: 85
   recency_score: 16.757883698777256
+  category_score: 0
   rank: 6
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 70.01343428302125
+- slug: catalyst-2
+  title: CATALYST
+  score: 62.49547296281645
   llm_score: 85
-  recency_score: 10.067171415106259
+  recency_score: 14.977364814082216
+  category_score: 0
   rank: 7
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 62.00243193734299
-  llm_score: 75
-  recency_score: 10.01215968671496
-  rank: 8
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 61.959020497826955
-  llm_score: 75
+  score: 61.45902049782696
+  llm_score: 85
   recency_score: 9.795102489134761
+  category_score: 0
+  rank: 8
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 54.51343428302126
+  llm_score: 75
+  recency_score: 10.067171415106259
+  category_score: 0
   rank: 9
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
-  score: 60.336485832504835
+  score: 52.83648583250484
   llm_score: 75
   recency_score: 1.6824291625241752
+  category_score: 0
   rank: 10
 ---
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to Facebook who took us offline for three days to investigate the complaint. Catalyst has no sense of humor.

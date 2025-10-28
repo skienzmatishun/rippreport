@@ -14,63 +14,73 @@ alttags: Hand receiving a bag labeled with a dollar sign, symbolizing alleged co
 related_articles:
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 83.29061318606567
+  score: 74.79061318606568
   llm_score: 85
   recency_score: 76.45306593032835
+  category_score: 0
   rank: 1
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 73.93570824436047
+  llm_score: 85
+  recency_score: 72.17854122180232
+  category_score: 0
+  rank: 2
 - slug: in-your-face
   title: IN YOUR FACE
-  score: 82.16149687375565
+  score: 73.66149687375565
   llm_score: 85
   recency_score: 70.80748436877823
-  rank: 2
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 81.8369256908693
-  llm_score: 90
-  recency_score: 49.18462845434644
+  category_score: 0
   rank: 3
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 80.43777438120516
-  llm_score: 90
-  recency_score: 42.18887190602582
-  rank: 4
 - slug: flying-high
   title: FLYING HIGH
-  score: 79.18876730389368
+  score: 70.6887673038937
   llm_score: 85
   recency_score: 55.94383651946845
+  category_score: 0
+  rank: 4
+- slug: nuff-said
+  title: NUFF SAID
+  score: 70.62762665151227
+  llm_score: 85
+  recency_score: 55.63813325756129
+  category_score: 0
   rank: 5
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 76.81587603866927
+- slug: 5000-00-cash-reward
+  title: $5000.00 CASH REWARD
+  score: 69.3369256908693
   llm_score: 85
-  recency_score: 44.079380193346374
+  recency_score: 49.18462845434644
+  category_score: 0
   rank: 6
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 76.60115638090127
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 67.66487863775173
   llm_score: 85
-  recency_score: 43.0057819045064
+  recency_score: 40.82439318875856
+  category_score: 0
   rank: 7
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 69.89097459752321
-  llm_score: 75
-  recency_score: 49.45487298761609
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 64.43777438120517
+  llm_score: 80
+  recency_score: 42.18887190602582
+  category_score: 0
   rank: 8
 - slug: 5000-00-cash-reward-rerun
   title: $5000.00 CASH REWARD
-  score: 68.00833052024575
-  llm_score: 85
+  score: 60.908330520245755
+  llm_score: 87
   recency_score: 0.041652601228757115
+  category_score: 0
   rank: 9
-- slug: zunk-the-skunk
-  title: ZUNK THE SKUNK
-  score: 66.36254669889007
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 58.890974597523225
   llm_score: 70
-  recency_score: 51.81273349445037
+  recency_score: 49.45487298761609
+  category_score: 0
   rank: 10
 ---
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport. WRONG First off Chucky keeps calling me a blogger and ignoring that The Ripp Report has been around for over ten years and is a non profit corporation, consumer watchdog organization. But what the hell if I call him Chucky Cheeze he can call me a blogger.

@@ -12,63 +12,73 @@ authors:
 related_articles:
 - slug: dont-throw-rocks-if-you-live-in-a-glass-house
   title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
-  score: 83.88849539476564
-  llm_score: 85
+  score: 78.88849539476566
+  llm_score: 90
   recency_score: 79.4424769738282
+  category_score: 0
   rank: 1
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 80.62221429547445
-  llm_score: 85
-  recency_score: 63.11107147737226
-  rank: 2
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 79.02156185864797
-  llm_score: 86
-  recency_score: 51.107809293239825
-  rank: 3
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 75.56195333019646
-  llm_score: 85
-  recency_score: 37.809766650982276
-  rank: 4
 - slug: showing-your-true-colors
   title: SHOWING YOUR TRUE COLORS
-  score: 71.24740235768714
-  llm_score: 65
+  score: 75.24740235768715
+  llm_score: 80
   recency_score: 96.23701178843567
-  rank: 5
+  category_score: 0
+  rank: 2
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 68.62221429547446
+  llm_score: 80
+  recency_score: 63.11107147737226
+  category_score: 0
+  rank: 3
 - slug: wonderful-wednesday
   title: WONDERFUL WEDNESDAY
-  score: 70.07197526621852
-  llm_score: 65
+  score: 67.07197526621853
+  llm_score: 70
   recency_score: 90.35987633109261
-  rank: 6
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 62.826898541613794
-  llm_score: 65
-  recency_score: 54.13449270806896
-  rank: 7
+  category_score: 0
+  rank: 4
 - slug: the-pot-and-the-kettle-are-black
   title: THE POT AND THE KETTLE ARE BLACK
-  score: 52.772429771305816
-  llm_score: 60
+  score: 64.27242977130582
+  llm_score: 85
   recency_score: 23.862148856529085
+  category_score: 0
+  rank: 5
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 62.72156185864797
+  llm_score: 75
+  recency_score: 51.107809293239825
+  category_score: 0
+  rank: 6
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 60.06195333019647
+  llm_score: 75
+  recency_score: 37.809766650982276
+  category_score: 0
+  rank: 7
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 56.3268985416138
+  llm_score: 65
+  recency_score: 54.13449270806896
+  category_score: 0
   rank: 8
 - slug: fact-and-fiction-a-b-c
   title: FACT and FICTION A B C
-  score: 50.62635062426856
-  llm_score: 60
+  score: 55.12635062426857
+  llm_score: 75
   recency_score: 13.13175312134279
+  category_score: 0
   rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 48.156246167140615
-  llm_score: 60
-  recency_score: 0.7812308357030797
+- slug: boiling-frog
+  title: BOILING FROG
+  score: 54.284777785184964
+  llm_score: 75
+  recency_score: 8.92388892592479
+  category_score: 0
   rank: 10
 ---
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.

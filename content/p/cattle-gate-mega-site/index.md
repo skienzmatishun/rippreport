@@ -12,63 +12,73 @@ alttags: Cow with open mouth, symbolizing lack of progress on Baldwin County Meg
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 78.52312487593501
-  llm_score: 75
-  recency_score: 92.61562437967505
-  rank: 1
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 76.32297651271782
+  score: 78.02312487593503
   llm_score: 85
-  recency_score: 41.61488256358909
-  rank: 2
+  recency_score: 92.61562437967505
+  category_score: 0
+  rank: 1
 - slug: dead-last
   title: DEAD LAST
-  score: 74.52869172076296
-  llm_score: 71
+  score: 77.22869172076297
+  llm_score: 85
   recency_score: 88.64345860381478
+  category_score: 0
+  rank: 2
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 72.06074595483393
+  llm_score: 90
+  recency_score: 45.30372977416965
+  category_score: 0
   rank: 3
 - slug: mega-mistake
   title: MEGA-MISTAKE
-  score: 73.0136822727984
-  llm_score: 85
+  score: 68.01368227279842
+  llm_score: 90
   recency_score: 25.06841136399206
+  category_score: 0
   rank: 4
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 72.83825535238421
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 67.82297651271783
   llm_score: 85
-  recency_score: 24.19127676192105
+  recency_score: 41.61488256358909
+  category_score: 0
   rank: 5
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 69.06074595483393
-  llm_score: 75
-  recency_score: 45.30372977416965
-  rank: 6
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 68.65838437835241
-  llm_score: 85
-  recency_score: 3.2919218917620787
-  rank: 7
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 68.4224002422755
-  llm_score: 85
-  recency_score: 2.112001211377513
-  rank: 8
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 67.10014946474215
-  llm_score: 75
+  score: 66.60014946474216
+  llm_score: 85
   recency_score: 35.500747323710755
+  category_score: 0
+  rank: 6
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 64.33825535238422
+  llm_score: 85
+  recency_score: 24.19127676192105
+  category_score: 0
+  rank: 7
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 63.65838437835242
+  llm_score: 90
+  recency_score: 3.2919218917620787
+  category_score: 0
+  rank: 8
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 59.92240024227551
+  llm_score: 85
+  recency_score: 2.112001211377513
+  category_score: 0
   rank: 9
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 54.092162096062914
+  score: 47.59216209606292
   llm_score: 65
   recency_score: 10.460810480314583
+  category_score: 0
   rank: 10
 ---
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new.

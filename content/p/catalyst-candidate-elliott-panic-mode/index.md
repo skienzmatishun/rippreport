@@ -10,65 +10,75 @@ authors:
 - ripp-report
 alttags: Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election campaign photo
 related_articles:
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 95.83629014021759
-  llm_score: 95
-  recency_score: 99.18145070108791
-  rank: 1
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 93.20237304520383
-  llm_score: 95
-  recency_score: 86.01186522601911
-  rank: 2
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 87.9452804719372
-  llm_score: 85
+  score: 86.4452804719372
+  llm_score: 95
   recency_score: 99.72640235968593
+  category_score: 0
+  rank: 1
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 86.33629014021759
+  llm_score: 95
+  recency_score: 99.18145070108791
+  category_score: 0
+  rank: 2
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 86.2820185184681
+  llm_score: 95
+  recency_score: 98.91009259234048
+  category_score: 0
   rank: 3
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 86.4753123573984
-  llm_score: 90
-  recency_score: 72.37656178699199
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 83.98748877687456
+  llm_score: 95
+  recency_score: 87.43744388437275
+  category_score: 0
   rank: 4
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 79.50237304520383
+  llm_score: 89
+  recency_score: 86.01186522601911
+  category_score: 0
+  rank: 5
 - slug: state-senate-seat-district-32-bombs-away
   title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 85.34434506009411
+  score: 76.84434506009413
   llm_score: 85
   recency_score: 86.72172530047058
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: cross-the-line
   title: CROSS THE LINE
-  score: 84.87560790070712
+  score: 76.37560790070712
   llm_score: 85
   recency_score: 84.37803950353559
-  rank: 6
+  category_score: 0
+  rank: 7
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 84.55504977540349
+  score: 76.05504977540349
   llm_score: 85
   recency_score: 82.7752488770174
-  rank: 7
+  category_score: 0
+  rank: 8
 - slug: weasel-contractor
   title: WEASEL CONTRACTOR
-  score: 69.16723345817019
-  llm_score: 85
+  score: 53.66723345817019
+  llm_score: 75
   recency_score: 5.836167290850916
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: sunday-sermon
   title: SUNDAY SERMON
-  score: 68.23630690099644
-  llm_score: 85
+  score: 49.23630690099645
+  llm_score: 70
   recency_score: 1.1815345049822292
-  rank: 9
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 64.32419252805958
-  llm_score: 75
-  recency_score: 21.62096264029795
+  category_score: 0
   rank: 10
 ---
 <div class="link-preview">

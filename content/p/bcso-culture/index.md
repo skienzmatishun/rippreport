@@ -19,63 +19,73 @@ alttags: A skull sits atop scales of justice, symbolizing a flawed legal system 
 related_articles:
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 77.76552754120547
+  score: 68.76552754120549
   llm_score: 90
   recency_score: 28.827637706027392
+  category_score: 0
   rank: 1
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 74.6483081618006
+  score: 66.1483081618006
   llm_score: 85
   recency_score: 33.241540809002984
+  category_score: 0
   rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 65.57359964556152
+  llm_score: 85
+  recency_score: 30.367998227807558
+  category_score: 0
+  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 73.89329029325975
+  score: 65.39329029325975
   llm_score: 85
   recency_score: 29.466451466298754
-  rank: 3
+  category_score: 0
+  rank: 4
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 73.41343030010246
+  score: 64.91343030010248
   llm_score: 85
   recency_score: 27.067151500512303
-  rank: 4
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 73.19546987535206
-  llm_score: 85
-  recency_score: 25.977349376760323
+  category_score: 0
   rank: 5
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 71.06185194838167
+  score: 62.56185194838168
   llm_score: 85
   recency_score: 15.30925974190835
+  category_score: 0
   rank: 6
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 70.60485264964663
+  score: 62.104852649646645
   llm_score: 85
   recency_score: 13.024263248233176
+  category_score: 0
   rank: 7
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 70.51370980221502
+  score: 62.01370980221502
   llm_score: 85
   recency_score: 12.568549011075072
+  category_score: 0
   rank: 8
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 68.96353695320067
+  score: 60.46353695320068
   llm_score: 85
   recency_score: 4.817684766003371
+  category_score: 0
   rank: 9
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 68.36132900786234
-  llm_score: 85
+  score: 49.361329007862345
+  llm_score: 70
   recency_score: 1.8066450393116897
+  category_score: 0
   rank: 10
 ---
 Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop.

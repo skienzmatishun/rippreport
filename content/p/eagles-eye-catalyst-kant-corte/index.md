@@ -16,65 +16,75 @@ authors:
 - ripp-report
 alttags: Aerial view showing Highway 98 and Parker Road intersection in Fairhope, potentially impacted by new apartment development
 related_articles:
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 90.57394274499862
-  llm_score: 90
-  recency_score: 92.86971372499306
-  rank: 1
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 86.22112415020392
-  llm_score: 85
-  recency_score: 91.10562075101957
-  rank: 2
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 80.73336508087172
+  score: 84.72112415020392
   llm_score: 95
-  recency_score: 23.666825404358608
-  rank: 3
-- slug: fairness
-  title: FAIRNESS
-  score: 74.9843887437238
+  recency_score: 91.10562075101957
+  category_score: 0
+  rank: 1
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 82.27394274499862
+  llm_score: 91
+  recency_score: 92.86971372499306
+  category_score: 0
+  rank: 2
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 78.80020726935182
   llm_score: 85
-  recency_score: 34.921943718618955
-  rank: 4
+  recency_score: 96.50103634675902
+  category_score: 0
+  rank: 3
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 74.87051538361202
+  score: 66.37051538361203
   llm_score: 85
   recency_score: 34.35257691806009
+  category_score: 0
+  rank: 4
+- slug: big-heads
+  title: BIG HEADS
+  score: 61.651834643235716
+  llm_score: 65
+  recency_score: 80.75917321617852
+  category_score: 0
   rank: 5
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 74.32171843450436
-  llm_score: 90
-  recency_score: 11.608592172521774
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 60.73336508087173
+  llm_score: 80
+  recency_score: 23.666825404358608
+  category_score: 0
   rank: 6
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 71.70914268128783
-  llm_score: 85
+  score: 56.20914268128783
+  llm_score: 75
   recency_score: 18.545713406439127
+  category_score: 0
   rank: 7
+- slug: fairness
+  title: FAIRNESS
+  score: 55.9843887437238
+  llm_score: 70
+  recency_score: 34.921943718618955
+  category_score: 0
+  rank: 8
 - slug: misery-loves-company
   title: MISERY LOVES COMPANY
-  score: 64.43777438120516
-  llm_score: 70
+  score: 53.93777438120517
+  llm_score: 65
   recency_score: 42.18887190602582
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'
-  score: 63.793316599143736
-  llm_score: 70
+  score: 53.29331659914374
+  llm_score: 65
   recency_score: 38.96658299571869
-  rank: 9
-- slug: survey
-  title: SURVEY
-  score: 59.40712647419586
-  llm_score: 70
-  recency_score: 17.035632370979314
+  category_score: 0
   rank: 10
 ---
 The Ripp Report has called on the Baldwin county Legal Eagle to dispatch the Eagle for a bird’s eye view of what developers do not want you to see. The Kant Corte Apartments on Fly Creek are busy clearing the property for the Apartments and their entrance and exit.

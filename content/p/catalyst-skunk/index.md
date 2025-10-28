@@ -15,63 +15,73 @@ alttags: Person in a skunk costume, referencing County Commissioner Tucker Dorse
 related_articles:
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 95.14222555805995
+  score: 85.64222555805995
   llm_score: 95
   recency_score: 95.71112779029973
+  category_score: 0
   rank: 1
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 87.50151487477555
-  llm_score: 90
-  recency_score: 77.50757437387774
-  rank: 2
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 86.07197526621852
-  llm_score: 85
+  score: 78.27197526621853
+  llm_score: 86
   recency_score: 90.35987633109261
+  category_score: 0
+  rank: 2
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 76.32943663570214
+  llm_score: 85
+  recency_score: 84.14718317851063
+  category_score: 0
   rank: 3
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 76.00975554986516
+  llm_score: 85
+  recency_score: 82.54877774932578
+  category_score: 0
+  rank: 4
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 75.00151487477555
+  llm_score: 85
+  recency_score: 77.50757437387774
+  category_score: 0
+  rank: 5
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 79.35315705036788
+  score: 71.8531570503679
   llm_score: 75
   recency_score: 96.76578525183945
-  rank: 4
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 78.52312487593501
-  llm_score: 75
-  recency_score: 92.61562437967505
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 74.88179115997221
-  llm_score: 70
+  score: 71.38179115997222
+  llm_score: 75
   recency_score: 94.40895579986105
-  rank: 6
-- slug: catalyst-2
-  title: CATALYST
-  score: 70.81254126082239
-  llm_score: 85
-  recency_score: 14.062706304111916
+  category_score: 0
   rank: 7
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 70.3666742467154
-  llm_score: 85
-  recency_score: 11.833371233577015
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 71.02312487593503
+  llm_score: 75
+  recency_score: 92.61562437967505
+  category_score: 0
   rank: 8
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 57.89047508264844
-  llm_score: 70
-  recency_score: 9.45237541324223
-  rank: 9
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 56.31680361570459
-  llm_score: 70
+  score: 59.8168036157046
+  llm_score: 85
   recency_score: 1.5840180785229494
+  category_score: 0
+  rank: 9
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 47.39047508264845
+  llm_score: 65
+  recency_score: 9.45237541324223
+  category_score: 0
   rank: 10
 ---
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.

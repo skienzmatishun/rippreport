@@ -17,63 +17,73 @@ alttags: Fairhope Council President Jack Burrell wearing a hard hat, criticized 
 related_articles:
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 87.67392032634467
+  score: 79.17392032634467
   llm_score: 85
   recency_score: 98.36960163172333
+  category_score: 0
   rank: 1
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 83.71532550649245
-  llm_score: 85
-  recency_score: 78.57662753246225
-  rank: 2
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 81.85448470843463
+  score: 73.35448470843464
   llm_score: 85
   recency_score: 69.27242354217314
+  category_score: 0
+  rank: 2
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 70.37500746908162
+  llm_score: 75
+  recency_score: 89.37503734540803
+  category_score: 0
   rank: 3
-- slug: i-quit
-  title: I QUIT
-  score: 77.31241738177069
-  llm_score: 85
-  recency_score: 46.562086908853416
-  rank: 4
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 77.03595596770666
+  score: 68.53595596770666
   llm_score: 85
   recency_score: 45.179779838533264
+  category_score: 0
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 64.03035710133457
+  llm_score: 85
+  recency_score: 22.65178550667279
+  category_score: 0
   rank: 5
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 76.99030017127643
-  llm_score: 95
-  recency_score: 4.951500856382183
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 63.26030246445875
+  llm_score: 85
+  recency_score: 18.801512322293714
+  category_score: 0
   rank: 6
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 75.16545197903177
-  llm_score: 75
+  score: 60.665451979031786
+  llm_score: 65
   recency_score: 75.82725989515886
+  category_score: 0
   rank: 7
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 60.490300171276445
+  llm_score: 85
+  recency_score: 4.951500856382183
+  category_score: 0
+  rank: 8
 - slug: pied-piper
   title: PIED PIPER
-  score: 75.11962860059249
-  llm_score: 85
+  score: 59.619628600592506
+  llm_score: 75
   recency_score: 35.59814300296249
-  rank: 8
+  category_score: 0
+  rank: 9
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 70.19359590659946
-  llm_score: 75
+  score: 59.19359590659947
+  llm_score: 70
   recency_score: 50.96797953299731
-  rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 68.83788831237433
-  llm_score: 85
-  recency_score: 4.189441561871679
+  category_score: 0
   rank: 10
 ---
 Not only is Council Burrell a bald faced liar, he thinks a hard hat works better than a face mask. This is what you get with CATALYST. Jack Burrell was Council President under Mayor Cant for 4 years and did not do one damn thing about infrastructure repairs.

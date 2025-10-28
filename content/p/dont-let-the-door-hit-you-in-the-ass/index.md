@@ -10,63 +10,73 @@ alttags: State Sen. Tripp Pittman, departing Baldwin County politics after a con
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
-  score: 83.5866878197373
+  score: 75.0866878197373
   llm_score: 85
   recency_score: 77.93343909868652
+  category_score: 0
   rank: 1
-- slug: knock-on-doors
-  title: KNOCK ON DOORS
-  score: 82.91819469742386
-  llm_score: 85
-  recency_score: 74.59097348711927
-  rank: 2
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 82.2081892039405
-  llm_score: 95
-  recency_score: 31.040946019702552
-  rank: 3
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 79.19030280407003
-  llm_score: 95
-  recency_score: 15.95151402035018
-  rank: 4
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 78.17127158449026
-  llm_score: 75
-  recency_score: 90.85635792245131
-  rank: 5
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 75.33256271585593
-  llm_score: 75
-  recency_score: 76.66281357927963
-  rank: 6
-- slug: say-goodbye-incumbents
-  title: SAY GOODBYE INCUMBENTS
-  score: 67.70837666422732
-  llm_score: 75
-  recency_score: 38.54188332113655
-  rank: 7
 - slug: catalyst-exit-door
   title: CATALYST EXIT DOOR
-  score: 67.41680735458122
-  llm_score: 65
+  score: 74.91680735458124
+  llm_score: 85
   recency_score: 77.0840367729061
-  rank: 8
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 65.64053460363517
+  category_score: 0
+  rank: 2
+- slug: knock-on-doors
+  title: KNOCK ON DOORS
+  score: 74.41819469742387
+  llm_score: 85
+  recency_score: 74.59097348711927
+  category_score: 0
+  rank: 3
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 74.29608191931776
+  llm_score: 85
+  recency_score: 73.98040959658876
+  category_score: 0
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 70.59718172757077
+  llm_score: 85
+  recency_score: 55.48590863785381
+  category_score: 0
+  rank: 5
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 70.38638684588862
+  llm_score: 85
+  recency_score: 54.43193422944308
+  category_score: 0
+  rank: 6
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 67.83256271585594
   llm_score: 75
-  recency_score: 28.202673018175854
+  recency_score: 76.66281357927963
+  category_score: 0
+  rank: 7
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 67.17127158449027
+  llm_score: 70
+  recency_score: 90.85635792245131
+  category_score: 0
+  rank: 8
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 66.39249424486937
+  llm_score: 75
+  recency_score: 69.4624712243468
+  category_score: 0
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 53.864754732694564
-  llm_score: 65
-  recency_score: 9.323773663472833
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 52.29693268727895
+  llm_score: 70
+  recency_score: 16.48466343639469
+  category_score: 0
   rank: 10
 ---
 The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political life, covered in BP oil, and a legacy that is as dark as the oil.

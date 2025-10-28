@@ -11,65 +11,75 @@ authors:
 - ripp-report
 alttags: Scales of justice silhouette representing Judge Thomason’s run for Court of Appeals amidst concerns about her performance
 related_articles:
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 88.16487863775171
-  llm_score: 100
-  recency_score: 40.82439318875856
-  rank: 1
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 86.97623272188054
+  score: 77.47623272188054
   llm_score: 95
   recency_score: 54.88116360940264
+  category_score: 0
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 74.66487863775171
+  llm_score: 95
+  recency_score: 40.82439318875856
+  category_score: 0
   rank: 2
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 82.05490968089218
-  llm_score: 90
-  recency_score: 50.274548404460894
-  rank: 3
-- slug: exposure
-  title: EXPOSURE
-  score: 80.27749588022975
-  llm_score: 90
-  recency_score: 41.38747940114875
-  rank: 4
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 76.91301970063262
-  llm_score: 85
-  recency_score: 44.565098503163114
-  rank: 5
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 76.39660451779348
-  llm_score: 95
+  score: 70.39660451779348
+  llm_score: 100
   recency_score: 1.9830225889673994
-  rank: 6
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 76.01063086460266
-  llm_score: 95
-  recency_score: 0.05315432301332231
-  rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 63.13916117711129
-  llm_score: 70
-  recency_score: 35.69580588555647
-  rank: 8
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 60.01101632169468
-  llm_score: 75
-  recency_score: 0.055081608473428086
-  rank: 9
+  category_score: 0
+  rank: 3
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 69.5549096808922
+  llm_score: 85
+  recency_score: 50.274548404460894
+  category_score: 0
+  rank: 4
+- slug: exposure
+  title: EXPOSURE
+  score: 67.77749588022976
+  llm_score: 85
+  recency_score: 41.38747940114875
+  category_score: 0
+  rank: 5
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 52.4166533894597
-  llm_score: 65
+  score: 66.9166533894597
+  llm_score: 95
   recency_score: 2.083266947298482
+  category_score: 0
+  rank: 6
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 63.01101632169469
+  llm_score: 90
+  recency_score: 0.055081608473428086
+  category_score: 0
+  rank: 7
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 63.010630864602675
+  llm_score: 90
+  recency_score: 0.05315432301332231
+  category_score: 0
+  rank: 8
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 57.91301970063263
+  llm_score: 70
+  recency_score: 44.565098503163114
+  category_score: 0
+  rank: 9
+- slug: freaky-friday
+  title: FREAKY FRIDAY
+  score: 52.639161177111305
+  llm_score: 65
+  recency_score: 35.69580588555647
+  category_score: 0
   rank: 10
 ---
 Just when you thought there was no hope for the Baldwin County Family Court, Judge Thomason announces she is running for Court of Appeals position vacated by Craig Pittman who is retiring. Of course another court will inherit her incompetence but at least she won’t be making decisions about the welfare of children. It should be expected if she looses the election Nov. 2018, she probably will re run for her present position again. Judge Thomason will use the republican party to retaliate against any opponent or have them eliminated all together from running, she has a track record of dirty politics, and is loved by the good ole boys.

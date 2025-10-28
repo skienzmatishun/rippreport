@@ -10,63 +10,73 @@ alttags: Blindfold representing Alabama’s straight ticket voting system, which
 related_articles:
 - slug: ignorance-is-bliss
   title: IGNORANCE IS BLISS
-  score: 87.62009294457451
+  score: 79.12009294457452
   llm_score: 85
   recency_score: 98.10046472287257
+  category_score: 0
   rank: 1
 - slug: vote
   title: VOTE
-  score: 82.59477780883036
+  score: 74.09477780883037
   llm_score: 85
   recency_score: 72.97388904415178
+  category_score: 0
   rank: 2
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 76.27749588022975
+  score: 67.77749588022976
   llm_score: 85
   recency_score: 41.38747940114875
+  category_score: 0
   rank: 3
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 73.74975319390109
+  score: 65.24975319390109
   llm_score: 85
   recency_score: 28.748765969505406
+  category_score: 0
   rank: 4
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 71.19474191901475
-  llm_score: 65
-  recency_score: 95.97370959507373
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 54.502431937343
+  llm_score: 75
+  recency_score: 10.01215968671496
+  category_score: 0
   rank: 5
-- slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
-  title: As long as I count the Votes, what are you going to do about it?
-  score: 70.08072954482947
-  llm_score: 85
-  recency_score: 10.403647724147305
+- slug: election-ad
+  title: ELECTION AD
+  score: 51.01825143274811
+  llm_score: 65
+  recency_score: 27.591257163740508
+  category_score: 0
   rank: 6
 - slug: poison-water-alabama-senate-special-election
   title: POISON WATER - Alabama Senate Special Election
-  score: 64.81181686451524
-  llm_score: 75
+  score: 50.31181686451525
+  llm_score: 65
   recency_score: 24.0590843225762
+  category_score: 0
   rank: 7
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 62.43570824436046
-  llm_score: 60
-  recency_score: 72.17854122180232
+- slug: vote-smart
+  title: VOTE SMART
+  score: 45.6033099949396
+  llm_score: 65
+  recency_score: 0.5165499746979558
+  category_score: 0
   rank: 8
 - slug: roll-of-the-dice
   title: ROLL OF THE DICE
-  score: 52.72464315476344
-  llm_score: 65
+  score: 39.924643154763444
+  llm_score: 56
   recency_score: 3.623215773817211
+  category_score: 0
   rank: 9
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 48.09860863022477
-  llm_score: 60
+  score: 31.59860863022477
+  llm_score: 45
   recency_score: 0.49304315112384334
+  category_score: 0
   rank: 10
 ---
 Want to know why Alabama is the most corrupt state in the United States? Want to know why Alabama health care and education is rated as the worst in the United States?

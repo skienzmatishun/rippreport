@@ -19,63 +19,73 @@ alttags: Sign displaying a red prohibition symbol over the word CATALYST, refere
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 95.89071065521195
+  score: 86.39071065521195
   llm_score: 95
   recency_score: 99.45355327605971
+  category_score: 0
   rank: 1
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 87.72789538259508
-  llm_score: 85
+  score: 80.62789538259509
+  llm_score: 87
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 87.56641283325074
-  llm_score: 85
+  score: 80.46641283325074
+  llm_score: 87
   recency_score: 97.83206416625366
+  category_score: 0
   rank: 3
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 84.1518346432357
+  score: 75.65183464323572
   llm_score: 85
   recency_score: 80.75917321617852
+  category_score: 0
   rank: 4
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 79.9491934264295
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75.38849539476566
   llm_score: 85
-  recency_score: 59.74596713214747
+  recency_score: 79.4424769738282
+  category_score: 0
   rank: 5
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 70.42575600988755
-  llm_score: 85
-  recency_score: 12.128780049437779
-  rank: 6
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 70.27761657380537
+  score: 61.77761657380538
   llm_score: 85
   recency_score: 11.388082869026867
-  rank: 7
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 70.23435244350824
+  category_score: 0
+  rank: 6
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 61.319336728145835
   llm_score: 85
-  recency_score: 11.171762217541199
+  recency_score: 9.096683640729124
+  category_score: 0
+  rank: 7
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 54.925756009887564
+  llm_score: 75
+  recency_score: 12.128780049437779
+  category_score: 0
   rank: 8
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 70.03005125332288
-  llm_score: 85
-  recency_score: 10.150256266614415
-  rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 62.00243193734299
+  score: 54.53005125332289
   llm_score: 75
-  recency_score: 10.01215968671496
+  recency_score: 10.150256266614415
+  category_score: 0
+  rank: 9
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 51.23435244350825
+  llm_score: 70
+  recency_score: 11.171762217541199
+  category_score: 0
   rank: 10
 ---
 Just like tea leaves if you look close enough at the local political signs they are sending you a subliminal message. If however you do not allow your eyes to rule your brain, the subliminal message is much clearer.

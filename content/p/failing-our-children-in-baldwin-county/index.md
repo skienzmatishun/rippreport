@@ -10,63 +10,73 @@ alttags: Concerned parent, child in distress, and Baldwin County DHR building re
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 95.3002072693518
+  score: 85.8002072693518
   llm_score: 95
   recency_score: 96.50103634675902
+  category_score: 0
   rank: 1
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 76.00449734648357
+  score: 66.50449734648357
   llm_score: 95
   recency_score: 0.02248673241788482
+  category_score: 0
   rank: 2
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 72.55553183085131
+  score: 63.555531830851315
   llm_score: 90
   recency_score: 2.7776591542565425
+  category_score: 0
   rank: 3
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 72.52880029172312
-  llm_score: 90
-  recency_score: 2.644001458615577
-  rank: 4
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 68.02471961706514
-  llm_score: 85
-  recency_score: 0.12359808532571412
-  rank: 5
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 68.01101632169468
+  score: 59.51101632169469
   llm_score: 85
   recency_score: 0.055081608473428086
-  rank: 6
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 56.52880029172312
+  llm_score: 80
+  recency_score: 2.644001458615577
+  category_score: 0
+  rank: 5
 - slug: exposure
   title: EXPOSURE
-  score: 68.00455937787216
-  llm_score: 85
+  score: 52.50455937787216
+  llm_score: 75
   recency_score: 0.022796889360761432
-  rank: 7
+  category_score: 0
+  rank: 6
 - slug: moma-bear
   title: MOTHER BEAR
-  score: 63.6787815198745
-  llm_score: 75
+  score: 49.178781519874505
+  llm_score: 65
   recency_score: 18.393907599372476
+  category_score: 0
+  rank: 7
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 49.010601778807974
+  llm_score: 70
+  recency_score: 0.053008894039832936
+  category_score: 0
   rank: 8
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 56.02191232352016
-  llm_score: 70
+  score: 45.52191232352017
+  llm_score: 65
   recency_score: 0.10956161760080699
+  category_score: 0
   rank: 9
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 56.003932364807866
-  llm_score: 70
+  score: 35.003932364807866
+  llm_score: 50
   recency_score: 0.01966182403931709
+  category_score: 0
   rank: 10
 ---
 To all who have an interest in the safety of children in Baldwin County, Alabama and beyond,

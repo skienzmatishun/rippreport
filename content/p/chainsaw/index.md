@@ -13,65 +13,75 @@ authors:
 - ripp-report
 alttags: Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions
 related_articles:
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 84.64601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
-  rank: 1
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 79.83629014021759
-  llm_score: 75
+  score: 79.33629014021759
+  llm_score: 85
   recency_score: 99.18145070108791
+  category_score: 0
+  rank: 1
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 76.64740235768714
+  llm_score: 82
+  recency_score: 96.23701178843567
+  category_score: 0
   rank: 2
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 76.82943663570212
-  llm_score: 75
+  score: 76.32943663570214
+  llm_score: 85
   recency_score: 84.14718317851063
+  category_score: 0
   rank: 3
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 76.14601135914225
+  llm_score: 85
+  recency_score: 83.23005679571122
+  category_score: 0
+  rank: 4
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 69.00975554986516
+  llm_score: 75
+  recency_score: 82.54877774932578
+  category_score: 0
+  rank: 5
 - slug: who-not-to-vote-for
   title: WHO NOT TO VOTE FOR
-  score: 75.60350242007569
+  score: 67.10350242007569
   llm_score: 85
   recency_score: 38.0175121003784
-  rank: 4
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 70.65529083578267
-  llm_score: 85
-  recency_score: 13.276454178913294
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 70.44577589129874
+  score: 61.94577589129875
   llm_score: 85
   recency_score: 12.22887945649371
-  rank: 6
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 63.511369899719135
-  llm_score: 75
-  recency_score: 17.55684949859567
+  category_score: 0
   rank: 7
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 62.222142897779406
-  llm_score: 75
+  score: 47.72214289777941
+  llm_score: 65
   recency_score: 11.110714488897043
+  category_score: 0
   rank: 8
 - slug: sunday-sermon
   title: SUNDAY SERMON
-  score: 60.19721795157331
-  llm_score: 75
+  score: 45.697217951573315
+  llm_score: 65
   recency_score: 0.986089757866536
+  category_score: 0
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 60.06105082601585
-  llm_score: 75
+  score: 45.56105082601586
+  llm_score: 65
   recency_score: 0.3052541300792452
+  category_score: 0
   rank: 10
 ---
 It does not take a chain saw, it only takes a vote.

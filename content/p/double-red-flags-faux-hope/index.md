@@ -10,63 +10,73 @@ alttags: Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
-  score: 91.29061318606567
+  score: 81.79061318606567
   llm_score: 95
   recency_score: 76.45306593032835
+  category_score: 0
   rank: 1
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 84.7391611771113
-  llm_score: 97
-  recency_score: 35.69580588555647
-  rank: 2
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 76.60976680282933
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 72.96863524410352
   llm_score: 95
-  recency_score: 3.0488340141466597
+  recency_score: 32.34317622051765
+  category_score: 0
+  rank: 2
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 72.61575875113697
+  llm_score: 85
+  recency_score: 65.57879375568477
+  category_score: 0
   rank: 3
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 75.81469742690143
-  llm_score: 85
-  recency_score: 39.073487134507126
-  rank: 4
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 73.02743722240719
-  llm_score: 85
-  recency_score: 25.13718611203594
-  rank: 5
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 72.04781069641929
-  llm_score: 75
+  score: 71.5478106964193
+  llm_score: 85
   recency_score: 60.23905348209645
+  category_score: 0
+  rank: 4
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 66.6391611771113
+  llm_score: 85
+  recency_score: 35.69580588555647
+  category_score: 0
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 64.5274372224072
+  llm_score: 85
+  recency_score: 25.13718611203594
+  category_score: 0
   rank: 6
 - slug: s-o-s
   title: S.O.S
-  score: 65.82610187044024
-  llm_score: 60
-  recency_score: 89.13050935220119
-  rank: 7
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 65.11575875113695
+  score: 63.32610187044025
   llm_score: 65
-  recency_score: 65.57879375568477
+  recency_score: 89.13050935220119
+  category_score: 0
+  rank: 7
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 60.10976680282934
+  llm_score: 85
+  recency_score: 3.0488340141466597
+  category_score: 0
   rank: 8
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 50.055249110868225
+  llm_score: 65
+  recency_score: 22.77624555434108
+  category_score: 0
+  rank: 9
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 57.71761680752583
-  llm_score: 70
-  recency_score: 8.588084037629146
-  rank: 9
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 57.09678009225723
+  score: 47.217616807525836
   llm_score: 65
-  recency_score: 25.48390046128612
+  recency_score: 8.588084037629146
+  category_score: 0
   rank: 10
 ---
 DOUBLE RED FLAGS at the beach this weekend. Rip-currents rough seas and high water.

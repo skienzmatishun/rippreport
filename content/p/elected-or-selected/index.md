@@ -17,63 +17,73 @@ alttags: Vote counts matter as Baldwin County residents express concerns about l
 related_articles:
 - slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
   title: As long as I count the Votes, what are you going to do about it?
-  score: 91.24740235768714
+  score: 82.24740235768715
   llm_score: 90
   recency_score: 96.23701178843567
+  category_score: 0
   rank: 1
 - slug: freaky-friday
   title: FREAKY FRIDAY
-  score: 77.48748877687456
-  llm_score: 75
+  score: 76.98748877687456
+  llm_score: 85
   recency_score: 87.43744388437275
+  category_score: 0
   rank: 2
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 72.68177578422373
+  score: 64.18177578422375
   llm_score: 85
   recency_score: 23.408878921118657
+  category_score: 0
   rank: 3
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 72.25369096364096
-  llm_score: 85
-  recency_score: 21.268454818204823
-  rank: 4
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 70.7742759876368
-  llm_score: 85
-  recency_score: 13.871379938184003
-  rank: 5
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 70.56941302796523
-  llm_score: 85
-  recency_score: 12.847065139826096
-  rank: 6
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 69.31317071028812
+  score: 60.813170710288134
   llm_score: 85
   recency_score: 6.565853551440616
+  category_score: 0
+  rank: 4
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 59.69560362541338
+  llm_score: 85
+  recency_score: 0.9780181270668761
+  category_score: 0
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 56.75369096364097
+  llm_score: 75
+  recency_score: 21.268454818204823
+  category_score: 0
+  rank: 6
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 55.274275987636805
+  llm_score: 75
+  recency_score: 13.871379938184003
+  category_score: 0
   rank: 7
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 68.3238239102941
-  llm_score: 85
+  score: 49.3238239102941
+  llm_score: 70
   recency_score: 1.6191195514704704
+  category_score: 0
   rank: 8
 - slug: vote-smart
   title: VOTE SMART
-  score: 68.01034356166569
-  llm_score: 85
+  score: 45.5103435616657
+  llm_score: 65
   recency_score: 0.05171780832844504
+  category_score: 0
   rank: 9
 - slug: vote-march-5th
   title: VOTE MARCH 5th
-  score: 56.009872853522985
-  llm_score: 70
+  score: 45.50987285352299
+  llm_score: 65
   recency_score: 0.04936426761493053
+  category_score: 0
   rank: 10
 ---
 Stay tuned folks for some interesting stores that are in the works involving our corrupt Baldwin County family court system. We will share with you how Baldwin County Commissioners and their connections to local Mayors impact **YOUR** quality of life.

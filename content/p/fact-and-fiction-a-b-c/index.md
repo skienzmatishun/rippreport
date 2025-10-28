@@ -7,65 +7,75 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: exposure-2
-  title: EXPOSURE
-  score: 82.20034869269523
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 70.12123778439705
   llm_score: 85
-  recency_score: 71.00174346347615
+  recency_score: 53.10618892198522
+  category_score: 0
   rank: 1
 - slug: the-big-lie
   title: THE BIG LIE
-  score: 69.84949079590366
-  llm_score: 85
+  score: 68.34949079590366
+  llm_score: 95
   recency_score: 9.247453979518323
+  category_score: 0
   rank: 2
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 68.94523422886647
+  score: 60.445234228866475
   llm_score: 85
   recency_score: 4.726171144332342
+  category_score: 0
   rank: 3
-- slug: hallucinations
-  title: HALLUCINATIONS
-  score: 66.47244604336203
-  llm_score: 60
-  recency_score: 92.36223021681012
-  rank: 4
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 64.46872054704625
-  llm_score: 75
-  recency_score: 22.343602735231208
-  rank: 5
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 62.94622278024646
-  llm_score: 70
+  score: 59.446222780246465
+  llm_score: 75
   recency_score: 34.73111390123228
-  rank: 6
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 56.16147367298336
-  llm_score: 65
-  recency_score: 20.807368364916808
-  rank: 7
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 52.85152902130565
-  llm_score: 60
-  recency_score: 24.25764510652827
-  rank: 8
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 52.580425540558316
-  llm_score: 65
-  recency_score: 2.9021277027915833
-  rank: 9
+  category_score: 0
+  rank: 4
+- slug: crazy
+  title: CRAZY
+  score: 59.446222780246465
+  llm_score: 75
+  recency_score: 34.73111390123228
+  category_score: 0
+  rank: 5
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
-  score: 50.62635062426856
-  llm_score: 60
+  score: 55.12635062426857
+  llm_score: 75
   recency_score: 13.13175312134279
+  category_score: 0
+  rank: 6
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 53.00634582434074
+  llm_score: 60
+  recency_score: 55.031729121703655
+  category_score: 0
+  rank: 7
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 49.66147367298337
+  llm_score: 65
+  recency_score: 20.807368364916808
+  category_score: 0
+  rank: 8
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 47.979510200015085
+  llm_score: 65
+  recency_score: 12.39755100007539
+  category_score: 0
+  rank: 9
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 43.73834833895516
+  llm_score: 55
+  recency_score: 26.19174169477578
+  category_score: 0
   rank: 10
 ---
 Hard to tell what the truth is these days but some information leaking out, if true, will set Fairhope’s hair on fire.

@@ -9,63 +9,73 @@ authors:
 related_articles:
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 95.72789538259508
+  score: 86.22789538259508
   llm_score: 95
   recency_score: 98.63947691297537
+  category_score: 0
   rank: 1
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 82.31754485573326
-  llm_score: 85
-  recency_score: 71.58772427866629
-  rank: 2
 - slug: troubled-waters
   title: Troubled Waters
-  score: 81.89249424486937
-  llm_score: 85
+  score: 80.39249424486937
+  llm_score: 95
   recency_score: 69.4624712243468
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: lets-talk-about-the-bama-loss
   title: Let's Talk About The Bama Loss
-  score: 78.59614691902797
-  llm_score: 78
+  score: 75.69614691902798
+  llm_score: 85
   recency_score: 80.98073459513984
-  rank: 4
+  category_score: 0
+  rank: 3
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 72.4504861558908
-  llm_score: 75
+  score: 75.45048615589081
+  llm_score: 90
   recency_score: 62.252430779453995
-  rank: 5
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 70.97095353988021
+  category_score: 0
+  rank: 4
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 73.81754485573327
   llm_score: 85
-  recency_score: 14.854767699401043
+  recency_score: 71.58772427866629
+  category_score: 0
+  rank: 5
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 63.771113485559525
+  llm_score: 65
+  recency_score: 91.35556742779755
+  category_score: 0
   rank: 6
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 68.72068336598397
-  llm_score: 85
+  score: 63.72068336598399
+  llm_score: 90
   recency_score: 3.6034168299198996
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 59.34240690488217
-  llm_score: 70
-  recency_score: 16.712034524410825
-  rank: 8
 - slug: bad-faith
   title: Bad Faith
-  score: 59.31504765659546
-  llm_score: 70
+  score: 48.81504765659547
+  llm_score: 65
   recency_score: 16.575238282977313
-  rank: 9
+  category_score: 0
+  rank: 8
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 48.232263775167944
+  score: 43.232263775167944
   llm_score: 50
   recency_score: 41.16131887583971
+  category_score: 0
+  rank: 9
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 42.396604517793484
+  llm_score: 60
+  recency_score: 1.9830225889673994
+  category_score: 0
   rank: 10
 ---
 34,700,000 SARS-COV-2 cases in the USA with 612,125 deaths. The Delta variant of Covid-19 has hit Baldwin County hard as you will hear from a local business owner who was not vaccinated pleading with others on social media from her hospital bed before being life flighted to UAB.

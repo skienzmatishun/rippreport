@@ -10,63 +10,73 @@ alttags: Pigs stand in front of a Bay Minette water tower and American flag, ref
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
-  score: 73.95822947770259
+  score: 65.45822947770259
   llm_score: 85
   recency_score: 29.79114738851293
+  category_score: 0
   rank: 1
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 64.05524911086822
+  llm_score: 85
+  recency_score: 22.77624555434108
+  category_score: 0
+  rank: 2
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 70.12155541422004
+  score: 63.62155541422004
   llm_score: 65
   recency_score: 90.60777707110016
-  rank: 2
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 61.571079238353306
-  llm_score: 65
-  recency_score: 47.85539619176654
+  category_score: 0
   rank: 3
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 60.39120862176472
-  llm_score: 75
-  recency_score: 1.9560431088235848
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 61.27989467527985
+  llm_score: 85
+  recency_score: 8.899473376399213
+  category_score: 0
   rank: 4
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 60.138881984321266
-  llm_score: 75
+  score: 59.63888198432127
+  llm_score: 85
   recency_score: 0.6944099216063174
+  category_score: 0
   rank: 5
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 58.26130065664494
+  llm_score: 65
+  recency_score: 63.80650328322465
+  category_score: 0
+  rank: 6
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 55.07107923835332
+  llm_score: 65
+  recency_score: 47.85539619176654
+  category_score: 0
+  rank: 7
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 59.56195333019646
+  score: 53.06195333019647
   llm_score: 65
   recency_score: 37.809766650982276
-  rank: 6
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 57.77989467527984
-  llm_score: 70
-  recency_score: 8.899473376399213
-  rank: 7
+  category_score: 0
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 45.891208621764726
+  llm_score: 65
+  recency_score: 1.9560431088235848
+  category_score: 0
+  rank: 9
 - slug: new-year-new-problems
   title: NEW YEAR NEW PROBLEMS
-  score: 56.14710678996988
-  llm_score: 70
+  score: 45.64710678996989
+  llm_score: 65
   recency_score: 0.7355339498494264
-  rank: 8
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 53.38713313277998
-  llm_score: 65
-  recency_score: 6.935665663899902
-  rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 52.071958552408184
-  llm_score: 65
-  recency_score: 0.35979276204090305
+  category_score: 0
   rank: 10
 ---
 Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.

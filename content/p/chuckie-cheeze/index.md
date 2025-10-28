@@ -15,65 +15,75 @@ authors:
 - ripp-report
 alttags: Chucky doll portrait symbolizing poor journalism and political manipulation in Baldwin County media
 related_articles:
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 91.16545197903177
-  llm_score: 95
-  recency_score: 75.82725989515886
-  rank: 1
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 90.52312487593501
-  llm_score: 90
-  recency_score: 92.61562437967505
-  rank: 2
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 85.62860141581517
-  llm_score: 90
+  score: 83.62860141581517
+  llm_score: 100
   recency_score: 68.14300707907584
+  category_score: 0
+  rank: 1
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 81.66545197903177
+  llm_score: 95
+  recency_score: 75.82725989515886
+  category_score: 0
+  rank: 2
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 81.52312487593503
+  llm_score: 90
+  recency_score: 92.61562437967505
+  category_score: 0
   rank: 3
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 85.58357363897636
-  llm_score: 85
-  recency_score: 87.91786819488183
-  rank: 4
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
-  score: 84.88110874039774
-  llm_score: 92
+  score: 77.78110874039773
+  llm_score: 95
   recency_score: 56.40554370198863
-  rank: 5
-- slug: hallucinations
-  title: HALLUCINATIONS
-  score: 82.43570824436047
+  category_score: 0
+  rank: 4
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 77.08357363897638
   llm_score: 85
-  recency_score: 72.17854122180232
-  rank: 6
+  recency_score: 87.91786819488183
+  category_score: 0
+  rank: 5
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 78.41948362581483
+  score: 69.91948362581485
   llm_score: 85
   recency_score: 52.09741812907417
-  rank: 7
+  category_score: 0
+  rank: 6
 - slug: jester-clone-clown
   title: The Jester The Clone and the Clown
-  score: 77.65006981718642
+  score: 69.15006981718642
   llm_score: 85
   recency_score: 48.25034908593207
-  rank: 8
+  category_score: 0
+  rank: 7
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 67.33256271585593
-  llm_score: 65
+  score: 67.83256271585594
+  llm_score: 75
   recency_score: 76.66281357927963
+  category_score: 0
+  rank: 8
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 63.43570824436047
+  llm_score: 70
+  recency_score: 72.17854122180232
+  category_score: 0
   rank: 9
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 65.46676333674154
-  llm_score: 70
+  score: 61.96676333674154
+  llm_score: 75
   recency_score: 47.33381668370766
+  category_score: 0
   rank: 10
 ---
 April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good journalist, Connie Baggett and Mike Odom were two of the best. What we have been left with is more than embarrassing, it is a travesty of free speech and journalism.

@@ -14,63 +14,73 @@ alttags: Vintage U.S. postage stamp featuring an eagle head, referencing governm
 related_articles:
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 89.87500746908161
+  score: 80.87500746908162
   llm_score: 90
   recency_score: 89.37503734540803
+  category_score: 0
   rank: 1
 - slug: investigative-reporting
   title: INVESTIGATIVE REPORTING
-  score: 87.14222555805995
-  llm_score: 85
+  score: 80.04222555805995
+  llm_score: 87
   recency_score: 95.71112779029973
+  category_score: 0
   rank: 2
-- slug: investigating-the-investigators
-  title: Investigating the Investigators
-  score: 78.3909761644817
-  llm_score: 85
-  recency_score: 51.95488082240847
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 66.618802726002
+  llm_score: 90
+  recency_score: 18.094013630009982
+  category_score: 0
   rank: 3
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 78.05171781564505
-  llm_score: 89
-  recency_score: 34.2585890782252
-  rank: 4
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 77.21880272600201
-  llm_score: 92
-  recency_score: 18.094013630009982
-  rank: 5
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 73.53339065902054
+  score: 66.35171781564505
   llm_score: 85
-  recency_score: 27.666953295102704
+  recency_score: 34.2585890782252
+  category_score: 0
+  rank: 4
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 62.93524565340775
+  llm_score: 85
+  recency_score: 17.176228267038702
+  category_score: 0
+  rank: 5
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 59.5103435616657
+  llm_score: 85
+  recency_score: 0.05171780832844504
+  category_score: 0
   rank: 6
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 71.90733502067299
-  llm_score: 85
+  score: 56.407335020673
+  llm_score: 75
   recency_score: 19.53667510336496
+  category_score: 0
   rank: 7
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 69.03524565340774
-  llm_score: 82
-  recency_score: 17.176228267038702
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 54.53339065902055
+  llm_score: 70
+  recency_score: 27.666953295102704
+  category_score: 0
   rank: 8
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 68.13111703119183
-  llm_score: 85
+  score: 52.63111703119184
+  llm_score: 75
   recency_score: 0.6555851559591579
+  category_score: 0
   rank: 9
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 68.0281938534351
-  llm_score: 85
-  recency_score: 0.14096926717550023
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 45.520857928252354
+  llm_score: 65
+  recency_score: 0.10428964126174459
+  category_score: 0
   rank: 10
 ---
 Complaint Statement:
