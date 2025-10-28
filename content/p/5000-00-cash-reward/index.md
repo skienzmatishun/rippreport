@@ -14,72 +14,82 @@ alttags: '$5000 reward poster: Wanted information proving claims against Council
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 80.12610187044024
-  llm_score: 89
+  score: 86.86957640283018
+  llm_score: 90
   recency_score: 89.13050935220119
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: 5000-00-cash-reward-rerun
-  title: $5000.00 CASH REWARD
-  score: 70.00409733543118
-  llm_score: 100
-  recency_score: 0.020486677155934722
-  category_score: 0
-  rank: 2
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 69.5680841980351
-  llm_score: 83
+  score: 78.85106314852631
+  llm_score: 85
   recency_score: 57.34042099017541
+  length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: bonus-money
   title: BONUS MONEY
-  score: 69.3369256908693
+  score: 77.62769426815197
   llm_score: 85
   recency_score: 49.18462845434644
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 69.2831721326951
+  score: 77.58737909952131
   llm_score: 85
   recency_score: 48.915860663475456
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 77.45333511416963
+  llm_score: 75
+  recency_score: 91.35556742779755
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 62.155290835782665
-  llm_score: 85
-  recency_score: 13.276454178913294
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 72.85307300157339
+  llm_score: 89
+  recency_score: 0.020486677155934722
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 59.503910876529204
+  score: 70.2529331573969
   llm_score: 85
   recency_score: 0.019554382645987366
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 59.50388950567253
-  llm_score: 85
-  recency_score: 0.019447528362631618
-  category_score: 0
-  rank: 8
 - slug: job-with-benefits
   title: JOB WITH BENEFITS
-  score: 58.972605288193
+  score: 67.97945396614475
   llm_score: 70
   recency_score: 49.86302644096496
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: zunk-the-skunk
   title: ZUNK THE SKUNK
-  score: 57.596780092257234
-  llm_score: 75
+  score: 64.32258506919291
+  llm_score: 70
   recency_score: 25.48390046128612
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 60.50291712925439
+  llm_score: 70
+  recency_score: 0.019447528362631618
+  length_score: 100
   category_score: 0
   rank: 10
 ---

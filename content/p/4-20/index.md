@@ -19,72 +19,82 @@ alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats o
 related_articles:
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 83.42190583576996
-  llm_score: 95
+  score: 82.94142937682747
+  llm_score: 85
   recency_score: 84.60952917884977
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 71.42276440977103
-  llm_score: 92
+  score: 74.21707330732828
+  llm_score: 83
   recency_score: 35.11382204885514
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 67.487869307982
-  llm_score: 85
-  recency_score: 39.93934653990996
-  category_score: 0
-  rank: 3
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 66.25849861290541
-  llm_score: 85
-  recency_score: 33.792493064527044
-  category_score: 0
-  rank: 4
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 63.16414461310581
-  llm_score: 90
-  recency_score: 0.8207230655290094
-  category_score: 0
-  rank: 5
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 56.7366535420936
-  llm_score: 80
-  recency_score: 3.6832677104679425
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 55.390974597523225
-  llm_score: 65
-  recency_score: 49.45487298761609
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-no-79-ole-peg-gy
-  title: Backstory Podcast No 79 'Ole Peg-gy
-  score: 53.041264004323395
-  llm_score: 65
-  recency_score: 37.70632002161693
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 47.382450882177295
-  llm_score: 50
-  recency_score: 61.91225441088648
-  category_score: 0
-  rank: 9
 - slug: backstory-podcast-9-11-2001-remembered
   title: Backstory Podcast 9/11, 2001 Remembered
-  score: 44.943181147114444
-  llm_score: 45
+  score: 73.83238586033582
+  llm_score: 75
   recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: backstory-podcast-55
+  title: BACKSTORY PODCAST 55
+  score: 69.78683816163297
+  llm_score: 70
+  recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 69.77381894225252
+  llm_score: 75
+  recency_score: 40.15879294835018
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 69.07310845982936
+  llm_score: 83
+  recency_score: 0.8207230655290094
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 68.81887395967905
+  llm_score: 75
+  recency_score: 33.792493064527044
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-no-76-a-plague-of-apathy
+  title: Backstory Podcast No. 76 A Plague of Apathy
+  score: 66.4909019809865
+  llm_score: 70
+  recency_score: 39.93934653990996
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 64.3024901565702
+  llm_score: 75
+  recency_score: 3.6832677104679425
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
+  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
+  score: 54.918230948142416
+  llm_score: 50
+  recency_score: 49.45487298761609
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -13,72 +13,82 @@ alttags: Community members encircling a central point, symbolizing citizen voice
 related_articles:
 - slug: shut-up-2
   title: SHUT UP
-  score: 86.06641283325074
+  score: 91.42480962493805
   llm_score: 95
   recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT
-  score: 85.9594928113308
-  llm_score: 95
+  score: 85.4946196084981
+  llm_score: 86
   recency_score: 97.29746405665401
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 81.47244604336203
-  llm_score: 90
+  score: 84.10433453252152
+  llm_score: 85
   recency_score: 92.36223021681012
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: fairhope-petition
   title: FAIRHOPE PETITION
-  score: 79.01962391400207
-  llm_score: 90
+  score: 82.26471793550155
+  llm_score: 85
   recency_score: 80.0981195700103
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 71.38389745041349
+  score: 79.16292308781011
   llm_score: 85
   recency_score: 59.41948725206741
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 70.17959608734641
-  llm_score: 85
-  recency_score: 53.39798043673202
-  category_score: 0
-  rank: 6
 - slug: shut-up
   title: SHUT UP
-  score: 68.91911919868473
+  score: 78.56433939901355
   llm_score: 95
   recency_score: 12.09559599342363
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 78.25969706550981
+  llm_score: 85
+  recency_score: 53.39798043673202
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: people-power
-  title: PEOPLE POWER
-  score: 61.33938431403988
-  llm_score: 85
-  recency_score: 9.196921570199363
-  category_score: 0
-  rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 53.91787168102957
-  llm_score: 75
-  recency_score: 7.089358405147809
-  category_score: 0
-  rank: 9
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 51.72157763656677
-  llm_score: 70
+  score: 72.29118322742508
+  llm_score: 85
   recency_score: 13.607888182833822
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: people-power
+  title: PEOPLE POWER
+  score: 71.6295382355299
+  llm_score: 85
+  recency_score: 9.196921570199363
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 61.56340376077217
+  llm_score: 70
+  recency_score: 7.089358405147809
+  length_score: 100
   category_score: 0
   rank: 10
 ---

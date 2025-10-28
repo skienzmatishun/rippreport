@@ -8,65 +8,75 @@ authors:
 - ripp-report
 alttags: Fairhope pier at sunset; a view representing the city council’s connection to local power structures
 related_articles:
+- slug: skunked
+  title: SKUNKED
+  score: 81.57394274499862
+  llm_score: 90
+  recency_score: 92.86971372499306
+  category_score: 0
+  rank: 1
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 90.17127158449026
+  score: 81.17127158449027
   llm_score: 90
   recency_score: 90.85635792245131
-  rank: 1
+  category_score: 0
+  rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 87.62009294457451
+  score: 79.12009294457452
   llm_score: 85
   recency_score: 98.10046472287257
-  rank: 2
+  category_score: 0
+  rank: 3
+- slug: catalyst
+  title: CATALYST
+  score: 76.10046826485723
+  llm_score: 85
+  recency_score: 83.00234132428609
+  category_score: 0
+  rank: 4
 - slug: in-the-dark
   title: IN THE DARK
-  score: 83.54404300965939
+  score: 75.04404300965939
   llm_score: 85
   recency_score: 77.72021504829691
-  rank: 3
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 76.95903777831067
-  llm_score: 90
-  recency_score: 24.795188891553348
-  rank: 4
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 73.9643950362927
-  llm_score: 90
-  recency_score: 9.821975181463475
+  category_score: 0
   rank: 5
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 71.98299338510878
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 74.62395966027418
   llm_score: 85
-  recency_score: 19.91496692554393
+  recency_score: 75.61979830137088
+  category_score: 0
   rank: 6
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 71.69899455443594
-  llm_score: 85
-  recency_score: 18.4949727721797
-  rank: 7
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 71.41647386607539
-  llm_score: 85
-  recency_score: 17.082369330376963
-  rank: 8
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 63.06682010022276
-  llm_score: 65
+  score: 70.56682010022277
+  llm_score: 85
   recency_score: 55.33410050111382
+  category_score: 0
+  rank: 7
+- slug: catalyst-kiss
+  title: CATALYST KISS
+  score: 67.95903777831067
+  llm_score: 90
+  recency_score: 24.795188891553348
+  category_score: 0
+  rank: 8
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 64.9643950362927
+  llm_score: 90
+  recency_score: 9.821975181463475
+  category_score: 0
   rank: 9
-- slug: survey
-  title: SURVEY
-  score: 57.01368227279841
-  llm_score: 65
-  recency_score: 25.06841136399206
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 55.9164738660754
+  llm_score: 75
+  recency_score: 17.082369330376963
+  category_score: 0
   rank: 10
 ---
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was hand-picked for the last election by the former Mayor, Tim Kant. They were a slate of Catalyst candidates, who had pledged their loyalty to Tim; who lost to Mayor Karin Wilson when we demanded the head of the legal division for the Elections Department drove down and oversaw the election, allowing for the first legitimate election in decades.
