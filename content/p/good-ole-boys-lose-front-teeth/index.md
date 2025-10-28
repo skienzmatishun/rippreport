@@ -26,63 +26,83 @@ alttags: A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizi
 related_articles:
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 95.89071065521195
+  score: 88.71256852416955
   llm_score: 95
   recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 76.12652929392722
-  llm_score: 95
-  recency_score: 0.632646469636104
-  rank: 2
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 76.10107030053945
-  llm_score: 95
-  recency_score: 0.5053515026972712
-  rank: 3
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 76.01698371044944
-  llm_score: 95
-  recency_score: 0.08491855224716904
-  rank: 4
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 76.01543078075446
-  llm_score: 95
-  recency_score: 0.07715390377225172
-  rank: 5
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 73.72176801151257
-  llm_score: 92
-  recency_score: 0.6088400575628192
-  rank: 6
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 72.12897930125474
-  llm_score: 90
+  score: 72.9031834410038
+  llm_score: 95
   recency_score: 0.6448965062737357
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 72.90122343514179
+  llm_score: 95
+  recency_score: 0.632646469636104
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 72.89741440921006
+  llm_score: 95
+  recency_score: 0.6088400575628192
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 72.81358696835954
+  llm_score: 95
+  recency_score: 0.08491855224716904
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 72.01291361360444
-  llm_score: 90
+  score: 72.81033089088355
+  llm_score: 95
   recency_score: 0.06456806802217216
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 72.01157321101385
-  llm_score: 90
+  score: 72.80925856881109
+  llm_score: 95
   recency_score: 0.05786605506923713
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 72.80908269903036
+  llm_score: 95
+  recency_score: 0.05676686893971495
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 66.41234462460355
+  llm_score: 85
+  recency_score: 0.07715390377225172
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 68.01448843241029
+  score: 66.41159074592822
   llm_score: 85
   recency_score: 0.07244216205141384
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption.

@@ -16,63 +16,83 @@ alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest Firs
 related_articles:
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 79.89071065521195
-  llm_score: 75
+  score: 82.31256852416955
+  llm_score: 85
   recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 75.35315705036788
-  llm_score: 70
+  score: 75.48252564029431
+  llm_score: 75
   recency_score: 96.76578525183945
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 75.03762349360866
-  llm_score: 70
+  score: 75.23009879488694
+  llm_score: 75
   recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 61.5637938281211
-  llm_score: 70
-  recency_score: 27.818969140605503
-  rank: 4
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
-  score: 60.22992062206041
-  llm_score: 75
+  score: 66.58393649764832
+  llm_score: 85
   recency_score: 1.1496031103020492
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 64.45103506249689
+  llm_score: 75
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: questions-for-fairhope
+  title: QUESTIONS FOR FAIRHOPE
+  score: 60.10575931710214
+  llm_score: 75
+  recency_score: 0.6609957318883691
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: daphne-decision
   title: DAPHNE DECISION
-  score: 60.024250059218616
+  score: 60.019400047374894
   llm_score: 75
   recency_score: 0.12125029609309805
-  rank: 6
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 56.02161420129977
-  llm_score: 70
-  recency_score: 0.10807100649883039
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: people-power
   title: PEOPLE POWER
-  score: 56.00309839678879
-  llm_score: 70
+  score: 60.00247871743103
+  llm_score: 75
   recency_score: 0.01549198394397087
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 52.13219914637767
-  llm_score: 65
-  recency_score: 0.6609957318883691
-  rank: 9
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 52.00224251306625
-  llm_score: 65
+  score: 60.001794010453
+  llm_score: 75
   recency_score: 0.01121256533123894
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 30.001750321631345
+  llm_score: 75
+  recency_score: 0.021879020391807464
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Every now and then you get a candidate interested in public service that is highly skilled and over qualified. Someone who is willing to use his skills he learned in private business to a position of public servant. Dr. Byrian Ramsey is one of those candidates. He is the President of the Lake Forest property owners association and the strongest advocate of Lake Forest. Lake Forest needs someone who protects and promotes “Lake Forest First.” It is the second largest subdivision in Alabama. The Daphne Mayor and council have been stone deaf to some of the issues facing Lake Forest and Daphne, such as flooding and converting park property into commercial property. Lake Forest needs a councilman that will aggressively represent the Lake Forest community. Dr. Ramsey is that candidate, <a href="https://www.facebook.com/VoteForByrian">his Facebook page</a> and <a href="https://www.voteforbyrian.com/">VoteforByrian.com</a> have a wealth of information covering issues within Lake Forest and Daphne. He is articulate. does his research and comes with an impressive resume. Dr. Ramsey would be a breath of fresh air to a council that has ignored issues by kicking the can down the road.

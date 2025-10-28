@@ -24,72 +24,82 @@ alttags: Railway tracks diverging, symbolizing choices in Baldwin County politic
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 86.39071065521195
+  score: 88.71256852416955
   llm_score: 95
   recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 82.89071065521195
-  llm_score: 90
+  score: 82.31256852416955
+  llm_score: 85
   recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 64.03035710133457
-  llm_score: 85
-  recency_score: 22.65178550667279
-  category_score: 0
-  rank: 3
 - slug: vote-smart
   title: VOTE SMART
-  score: 63.8241925280596
+  score: 69.85935402244766
   llm_score: 85
   recency_score: 21.62096264029795
+  length_score: 100
   category_score: 0
-  rank: 4
-- slug: say-goodbye-incumbents
-  title: SAY GOODBYE INCUMBENTS
-  score: 63.00808320879991
-  llm_score: 90
-  recency_score: 0.04041604399951511
-  category_score: 0
-  rank: 5
+  rank: 3
 - slug: win-for-baldwin
   title: WIN FOR BALDWIN
-  score: 60.3333096991411
+  score: 67.06664775931287
   llm_score: 85
   recency_score: 4.16654849570544
+  length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: last-chance
   title: LAST CHANCE
-  score: 60.26755764177673
+  score: 67.01404611342139
   llm_score: 85
   recency_score: 3.837788208883614
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 59.510926147670695
-  llm_score: 85
-  recency_score: 0.054630738353439325
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 52.6381230682678
-  llm_score: 75
+  score: 66.51049845461424
+  llm_score: 85
   recency_score: 0.6906153413389834
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: mid-term-elections-vote-incumbents-out
+  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
+  score: 66.40874091813654
+  llm_score: 85
+  recency_score: 0.054630738353439325
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: say-goodbye-incumbents
+  title: SAY GOODBYE INCUMBENTS
+  score: 66.40646656703993
+  llm_score: 85
+  recency_score: 0.04041604399951511
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 60.42428568106765
+  llm_score: 70
+  recency_score: 22.65178550667279
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: missed-the-boat
   title: MISSED THE BOAT
-  score: 52.514850122293716
+  score: 60.01188009783497
   llm_score: 75
   recency_score: 0.07425061146854016
+  length_score: 100
   category_score: 0
   rank: 10
 ---
