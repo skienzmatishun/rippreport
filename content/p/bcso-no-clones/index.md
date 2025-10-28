@@ -26,28 +26,52 @@ related_articles:
   rank: 1
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 92.17392451572327
-  llm_score: 90
+  score: 95.25084759264634
+  llm_score: 95
   recency_score: 89.13050935220119
   length_score: 100
   category_score: 100
   rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 83.70328986777525
-  llm_score: 90
+  score: 86.78021294469832
+  llm_score: 95
   recency_score: 34.071384140539074
   length_score: 100
   category_score: 100
   rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 80.51529254558906
-  llm_score: 90
-  recency_score: 13.34940154632884
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 86.08419879391175
+  llm_score: 95
+  recency_score: 29.54729216042639
   length_score: 100
   category_score: 100
   rank: 4
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 84.33877743021007
+  llm_score: 92
+  recency_score: 30.20205329636546
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 82.72967032268879
+  llm_score: 90
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 80.87560627631493
+  llm_score: 90
+  recency_score: 15.691440796046965
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 80.17324712493756
@@ -55,36 +79,12 @@ related_articles:
   recency_score: 31.126106312094088
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.03108512251777
-  llm_score: 85
-  recency_score: 30.20205329636546
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 79.9303526400656
-  llm_score: 85
-  recency_score: 29.54729216042639
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 79.65274724576571
-  llm_score: 85
-  recency_score: 27.742857097477103
-  length_score: 100
-  category_score: 100
   rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 77.79868319939185
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 77.43836946866598
   llm_score: 85
-  recency_score: 15.691440796046965
+  recency_score: 13.34940154632884
   length_score: 100
   category_score: 100
   rank: 9

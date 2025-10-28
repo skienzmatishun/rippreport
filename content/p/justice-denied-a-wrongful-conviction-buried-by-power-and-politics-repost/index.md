@@ -24,11 +24,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 84.39947588411401
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 85.77165663618578
   llm_score: 95
-  recency_score: 18.596593246741016
+  recency_score: 27.51576813520753
   length_score: 100
   category_score: 100
   rank: 2
@@ -40,19 +40,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 82.6947335592627
-  llm_score: 90
-  recency_score: 27.51576813520753
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 82.31073789916488
+  llm_score: 95
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 100
   rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 79.23381482224181
+- slug: no-justice
+  title: NO JUSTICE
+  score: 81.32255280719093
   llm_score: 90
-  recency_score: 5.0197963445716995
+  recency_score: 18.596593246741016
   length_score: 100
   category_score: 100
   rank: 5
@@ -74,8 +74,8 @@ related_articles:
   rank: 7
 - slug: innocent
   title: INNOCENT
-  score: 67.41314677976014
-  llm_score: 90
+  score: 70.4900698566832
+  llm_score: 95
   recency_score: 3.1854540684407837
   length_score: 100
   category_score: 0
@@ -90,8 +90,8 @@ related_articles:
   rank: 9
 - slug: but-i-didnt-do-it
   title: But, I Didn’t Do It…
-  score: 65.67667532210979
-  llm_score: 85
+  score: 56.445906091340554
+  llm_score: 70
   recency_score: 11.898389593713517
   length_score: 100
   category_score: 0
