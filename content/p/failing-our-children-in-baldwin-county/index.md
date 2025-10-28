@@ -10,72 +10,82 @@ alttags: Concerned parent, child in distress, and Baldwin County DHR building re
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 85.8002072693518
+  score: 84.84631328411679
   llm_score: 95
   recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 66.50449734648357
-  llm_score: 95
-  recency_score: 0.02248673241788482
-  category_score: 0
-  rank: 2
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 63.555531830851315
-  llm_score: 90
-  recency_score: 2.7776591542565425
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 59.51101632169469
+  score: 64.27348602373179
   llm_score: 85
-  recency_score: 0.055081608473428086
+  recency_score: 2.7776591542565425
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 56.52880029172312
-  llm_score: 80
+  score: 64.25292330132548
+  llm_score: 85
   recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 63.86300947963091
+  llm_score: 85
+  recency_score: 0.10956161760080699
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 63.854309060621524
+  llm_score: 85
+  recency_score: 0.053008894039832936
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: exposure
   title: EXPOSURE
-  score: 52.50455937787216
-  llm_score: 75
+  score: 63.84966105990167
+  llm_score: 85
   recency_score: 0.022796889360761432
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 49.178781519874505
-  llm_score: 65
-  recency_score: 18.393907599372476
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 63.84961334344892
+  llm_score: 85
+  recency_score: 0.02248673241788482
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 49.010601778807974
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 57.445216553749624
   llm_score: 70
-  recency_score: 0.053008894039832936
+  recency_score: 18.393907599372476
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 45.52191232352017
-  llm_score: 65
-  recency_score: 0.10956161760080699
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 54.623858708995925
+  llm_score: 70
+  recency_score: 0.055081608473428086
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 35.003932364807866
-  llm_score: 50
-  recency_score: 0.01966182403931709
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 48.499568774910806
+  llm_score: 60
+  recency_score: 0.24719703692017655
+  length_score: 100
   category_score: 0
   rank: 10
 ---

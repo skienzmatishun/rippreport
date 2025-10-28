@@ -10,63 +10,83 @@ alttags: Bald eagle holding a key in its beak, symbolizing blocked access to Fac
 related_articles:
 - slug: mia
   title: M.I.A.
-  score: 86.87737886875425
-  llm_score: 90
+  score: 75.29029143750327
+  llm_score: 85
   recency_score: 74.38689434377122
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 80.42124456517996
-  llm_score: 100
-  recency_score: 2.10622282589978
-  rank: 2
-- slug: flying-high
-  title: FLYING HIGH
-  score: 72.01921213954215
-  llm_score: 90
-  recency_score: 0.0960606977107225
-  rank: 3
-- slug: shut-up-2
-  title: SHUT UP
-  score: 68.04467338737103
-  llm_score: 85
-  recency_score: 0.22336693685519682
-  rank: 4
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 68.01848918899599
-  llm_score: 85
-  recency_score: 0.09244594497992151
-  rank: 5
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 57.91655019046412
-  llm_score: 70
-  recency_score: 9.582750952320627
-  rank: 6
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 56.00521444551625
-  llm_score: 70
-  recency_score: 0.02607222758125002
-  rank: 7
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 52.64234875491811
-  llm_score: 65
+  score: 64.34026827301395
+  llm_score: 85
   recency_score: 3.2117437745905466
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 58.67783622885532
+  llm_score: 75
+  recency_score: 6.405935487559478
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 57.70653014538154
+  llm_score: 75
+  recency_score: 0.09244594497992151
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 56.08965399266472
+  llm_score: 70
+  recency_score: 9.582750952320627
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 55.02327003544071
+  llm_score: 70
+  recency_score: 2.651255230364558
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 52.51169775469989
-  llm_score: 65
+  score: 55.00899827284608
+  llm_score: 70
   recency_score: 2.5584887734994517
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 54.97893496785398
+  llm_score: 70
+  recency_score: 2.363077291050805
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 54.93941889629229
+  llm_score: 70
+  recency_score: 2.10622282589978
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 52.004737655281914
-  llm_score: 65
-  recency_score: 0.023688276409576606
+- slug: shut-up
+  title: SHUT UP
+  score: 54.61963327156517
+  llm_score: 70
+  recency_score: 0.027616265173529626
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Facebook really did a number on thousands of people that spent years building their sites. We were blocked out of our Facebook sites The Ripp Report and Francis Paul Ripp. To communicate or follow us please join the new sites <a href="https://www.facebook.com/rippreport" >Ripp Report</a> and Francis Ripp. Our .com site remains the same RippReport.com</a>

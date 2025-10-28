@@ -11,63 +11,83 @@ alttags: Bald eagle in a cage with bandages, symbolizing restricted access to on
 related_articles:
 - slug: notice
   title: 'NOTICE:'
-  score: 82.87737886875425
+  score: 75.29029143750327
   llm_score: 85
   recency_score: 74.38689434377122
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 63.628730847975405
-  llm_score: 75
-  recency_score: 18.143654239877034
+- slug: m-i-a
+  title: M.I.A
+  score: 64.05807023003598
+  llm_score: 85
+  recency_score: 1.3774564952337773
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 56.092333346558796
-  llm_score: 70
+  score: 63.91717949735294
+  llm_score: 85
   recency_score: 0.46166673279399395
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 52.63534774825525
-  llm_score: 65
-  recency_score: 3.1767387412762407
-  rank: 4
-- slug: m-i-a
-  title: M.I.A
-  score: 52.275491299046756
-  llm_score: 65
-  recency_score: 1.3774564952337773
-  rank: 5
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 52.15077917054278
-  llm_score: 65
-  recency_score: 0.7538958527139179
-  rank: 6
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 52.01170073822653
-  llm_score: 65
-  recency_score: 0.058503691132646064
-  rank: 7
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 52.00700989813092
-  llm_score: 65
-  recency_score: 0.03504949065457682
-  rank: 8
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 48.56628868417764
-  llm_score: 60
-  recency_score: 2.8314434208882173
-  rank: 9
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 48.00817227907491
-  llm_score: 60
+  score: 63.852440214673024
+  llm_score: 85
   recency_score: 0.04086139537457567
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: im-back-2
+  title: I'M BACK
+  score: 60.48363911382725
+  llm_score: 75
+  recency_score: 18.143654239877034
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 58.12791437244436
+  llm_score: 75
+  recency_score: 2.8314434208882173
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 57.80829166964831
+  llm_score: 75
+  recency_score: 0.7538958527139179
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 57.701308260174265
+  llm_score: 75
+  recency_score: 0.058503691132646064
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 55.10411365250405
+  llm_score: 70
+  recency_score: 3.1767387412762407
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: im-back
+  title: I'M BACK
+  score: 54.6407377939656
+  llm_score: 70
+  recency_score: 0.1647956607763347
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Ripp Report has been missing in action for about two months. I had my 14th shoulder operation on Nov.4th and that took me out for about 4 weeks. That operation has been very successful. Then quite unexpected I got vertigo which has taken me about 4 weeks to kick to the curb. At the same time Meta locked me out of my social media pages, The Ripp Report, Baldwin County Legal Eagle and F. Paul Ripp. This problem has affected thousands and locked out administrators on pages throughout the country.

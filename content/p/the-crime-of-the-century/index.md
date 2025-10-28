@@ -12,63 +12,83 @@ alttags: President Biden and Vice President Harris featured in Backstory Podcast
 related_articles:
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 76.69167940010973
+  score: 70.5320610770075
   llm_score: 75
   recency_score: 83.45839700054867
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-the-46th-president-of-the-united-states
-  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 72.28941774075871
-  llm_score: 90
-  recency_score: 1.4470887037935367
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 63.92671918303893
+  llm_score: 85
+  recency_score: 0.5236746897529492
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: delicately-censored
   title: Delicately Censored
-  score: 66.05698242024913
+  score: 62.35152493865319
   llm_score: 75
   recency_score: 30.284912101245666
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 64.73336508087172
+  score: 61.333357754516726
   llm_score: 75
   recency_score: 23.666825404358608
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 60.336485832504835
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 60.6489460725022
   llm_score: 75
-  recency_score: 1.6824291625241752
+  recency_score: 19.21814947126418
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 60.262234981350865
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 58.68054000915504
   llm_score: 75
-  recency_score: 1.3111749067543206
+  recency_score: 6.423510059507628
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 60.089347087846924
-  llm_score: 75
-  recency_score: 0.44673543923461945
+- slug: the-180
+  title: THE 180
+  score: 58.35893868215092
+  llm_score: 60
+  recency_score: 64.3331014339809
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 56.37752037428083
-  llm_score: 70
+  score: 57.982707980216034
+  llm_score: 75
   recency_score: 1.887601871404123
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 56.27248869897099
-  llm_score: 70
-  recency_score: 1.3624434948549364
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 57.95543293778952
+  llm_score: 75
+  recency_score: 1.7103140956317624
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 56.247573307635314
+- slug: backstory-153
+  title: No Boomers
+  score: 57.25788127185212
   llm_score: 70
-  recency_score: 1.2378665381765555
+  recency_score: 17.176228267038702
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Backstory Podcast breaks down hot topics like Trump’s plans for military rules and free speech, Biden’s pardons for his family and allies, and Alabama’s messy politics. Governor Kay Ivey is under fire for firing Admiral Kent Davis and trying to control the veterans’ board, upsetting veterans who usually support Republicans. A court case says people can’t sue over a wrong SWAT raid, raising questions about police accountability. Alabama lawmakers will debate new laws soon, and Ivey’s speech might hint at her future amid health rumors.

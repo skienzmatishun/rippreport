@@ -22,65 +22,85 @@ authors:
 - ripp-report
 alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
 related_articles:
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 90.39621248724127
-  llm_score: 95
-  recency_score: 71.98106243620636
-  rank: 1
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 87.56641283325074
+  score: 78.89724064096211
   llm_score: 85
   recency_score: 97.83206416625366
-  rank: 2
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 87.40625209818191
+  score: 78.77404007552455
   llm_score: 85
   recency_score: 97.03126049090956
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 86.98553700495827
+  score: 78.45041308073715
   llm_score: 85
   recency_score: 94.92768502479139
-  rank: 4
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 74.55785639436276
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 74.92016345172406
   llm_score: 85
-  recency_score: 32.789281971813786
-  rank: 5
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: war
   title: WAR
-  score: 71.51287958944485
-  llm_score: 65
+  score: 69.62529199188066
+  llm_score: 70
   recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 65.90461316878529
+  llm_score: 65
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 69.42957344443643
-  llm_score: 85
-  recency_score: 7.147867222182147
+- slug: symbol
+  title: Veterans Day
+  score: 58.25432589976107
+  llm_score: 75
+  recency_score: 3.653118348446851
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 68.78671898553806
-  llm_score: 85
-  recency_score: 3.933594927690323
-  rank: 8
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 61.948315494495255
-  llm_score: 75
+  score: 56.11408884191944
+  llm_score: 70
   recency_score: 9.741577472476289
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: insanity-2
   title: INSANITY
-  score: 52.35349562682317
-  llm_score: 65
+  score: 48.733458174479374
+  llm_score: 60
   recency_score: 1.7674781341158494
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 42.55272637734198
+  llm_score: 50
+  recency_score: 1.5927214527228477
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!

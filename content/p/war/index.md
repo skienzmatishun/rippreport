@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation
 related_articles:
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 90.93359302371175
-  llm_score: 90
-  recency_score: 94.66796511855877
-  rank: 1
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 87.9452804719372
-  llm_score: 85
-  recency_score: 99.72640235968593
-  rank: 2
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 87.4594928113308
-  llm_score: 85
+  score: 81.89191754717756
+  llm_score: 90
   recency_score: 97.29746405665401
-  rank: 3
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 82.75560018832756
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 81.48737924900905
+  llm_score: 90
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 79.18867728610554
   llm_score: 85
-  recency_score: 73.7780009416378
-  rank: 4
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 81.99695333081353
-  llm_score: 100
-  recency_score: 9.984766654067629
-  rank: 5
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 71.51287958944485
-  llm_score: 65
+  score: 69.62529199188066
+  llm_score: 70
   recency_score: 97.56439794722424
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 71.14222555805995
-  llm_score: 65
+  score: 69.34017350619997
+  llm_score: 70
   recency_score: 95.71112779029973
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: symbol
   title: Veterans Day
-  score: 60.74886299209737
-  llm_score: 75
+  score: 67.49912537853645
+  llm_score: 90
   recency_score: 3.7443149604868586
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 65.3822717929335
+  llm_score: 85
+  recency_score: 9.984766654067629
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 57.89643145414458
+  llm_score: 70
+  recency_score: 21.326804451939722
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: insanity-2
-  title: INSANITY
-  score: 52.362320307674516
-  llm_score: 65
-  recency_score: 1.811601538372569
-  rank: 9
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 48.13292551349143
-  llm_score: 60
+  score: 54.71763501037803
+  llm_score: 70
   recency_score: 0.6646275674571428
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 48.74024639051887
+  llm_score: 60
+  recency_score: 1.811601538372569
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama veterans are facing another war. This time with the state of Alabama and their efforts to strip the veterans representation by creating a cabinet position for the director of veterans affairs and the veterans board to an advisory position. This would strip veterans of their current representation, by the current veteran’s board, and limit it to a cabinet member subservient to the Governor.

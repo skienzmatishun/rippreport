@@ -16,7 +16,7 @@ alttags: New candidates taking root in Fauxhope elections, casting a ballot into
 related_articles:
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 91.14605643926106
+  score: 84.76518609154981
   llm_score: 95
   recency_score: 95.97370959507373
   length_score: 100
@@ -24,15 +24,15 @@ related_articles:
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 87.1284536883677
-  llm_score: 90
+  score: 81.51636275730021
+  llm_score: 91
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 87.0539814496639
+  score: 80.82459635862965
   llm_score: 90
   recency_score: 90.35987633109261
   length_score: 100
@@ -40,57 +40,57 @@ related_articles:
   rank: 3
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 78.15614190295538
+  score: 71.69860707995426
   llm_score: 90
   recency_score: 31.040946019702552
   length_score: 100
   category_score: 0
   rank: 4
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 73.60942698627895
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 71.64655822301944
   llm_score: 90
-  recency_score: 0.729513241859674
+  recency_score: 30.702628449626225
   length_score: 100
   category_score: 0
   rank: 5
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 72.64272710305252
-  llm_score: 85
+  score: 69.3771560031308
+  llm_score: 90
   recency_score: 15.95151402035018
   length_score: 100
   category_score: 0
   rank: 6
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 67.03748291162857
+  llm_score: 90
+  recency_score: 0.7436389255856242
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: all-mouth
   title: ALL MOUTH
-  score: 71.9960660213109
+  score: 65.63699079108811
   llm_score: 85
   recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 70.36154583883784
-  llm_score: 85
-  recency_score: 0.7436389255856242
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 70.36033009247741
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 63.95900331481831
   llm_score: 85
-  recency_score: 0.7355339498494264
+  recency_score: 0.7335215463189301
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 70.36002823194784
-  llm_score: 85
-  recency_score: 0.7335215463189301
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 27.364271842296116
+  llm_score: 70
+  recency_score: 0.7355339498494264
   length_score: 100
   category_score: 0
   rank: 10

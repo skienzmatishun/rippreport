@@ -28,65 +28,85 @@ authors:
 - ripp-report
 alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
 related_articles:
-- slug: war
-  title: WAR
-  score: 90.93359302371175
-  llm_score: 90
-  recency_score: 94.66796511855877
-  rank: 1
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 90.4219058668791
-  llm_score: 90
-  recency_score: 92.10952933439548
-  rank: 2
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 87.40625209818191
-  llm_score: 85
-  recency_score: 97.03126049090956
-  rank: 3
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 86.98553700495827
-  llm_score: 85
+  score: 81.52733615766023
+  llm_score: 90
   recency_score: 94.92768502479139
-  rank: 4
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 81.96882643931993
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: war
+  title: WAR
+  score: 81.48737924900905
+  llm_score: 90
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 81.09377374375316
+  llm_score: 90
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 78.77404007552455
   llm_score: 85
-  recency_score: 69.84413219659965
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 68.55504262632311
+  llm_score: 70
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 53.89047508264844
-  llm_score: 65
-  recency_score: 9.45237541324223
-  rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 52.708933356144534
-  llm_score: 65
-  recency_score: 3.544666780722678
-  rank: 7
-- slug: recovery
-  title: RECOVERY
-  score: 48.02611191339561
-  llm_score: 60
-  recency_score: 0.13055956697804186
-  rank: 8
 - slug: insanity-2
   title: INSANITY
-  score: 40.343001262486766
-  llm_score: 50
+  score: 67.18692404806676
+  llm_score: 90
   recency_score: 1.7150063124338188
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 65.30036544819113
+  llm_score: 85
+  recency_score: 9.45237541324223
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: symbol
+  title: Veterans Day
+  score: 55.16071796626504
+  llm_score: 70
+  recency_score: 3.544666780722678
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 54.85314426179787
+  llm_score: 70
+  recency_score: 1.5454377016861052
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 36.12583787874573
-  llm_score: 45
+  score: 42.404490675958264
+  llm_score: 50
   recency_score: 0.6291893937286536
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 It is official our Biden syndrome Governor aka mee ma has successfully got our elected officials to Cut the Throats of Alabama Veterans.

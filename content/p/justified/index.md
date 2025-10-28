@@ -21,65 +21,85 @@ authors:
 - ripp-report
 alttags: Traffic stop footage shows a man in a car and an officer; related to the O.J. French killing lawsuit
 related_articles:
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 88.62221429547445
-  llm_score: 95
-  recency_score: 63.11107147737226
-  rank: 1
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 87.00634582434073
-  llm_score: 95
-  recency_score: 55.031729121703655
-  rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 86.97623272188054
+  score: 89.98171747836965
   llm_score: 95
   recency_score: 54.88116360940264
-  rank: 3
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 84.42689854161381
-  llm_score: 92
-  recency_score: 54.13449270806896
-  rank: 4
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 80.48098040369368
+  score: 89.86684503201062
   llm_score: 95
-  recency_score: 22.404902018468416
-  rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 79.8513833874118
-  llm_score: 85
-  recency_score: 59.25691693705903
-  rank: 6
+  recency_score: 54.13449270806896
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 79.05810760160931
-  llm_score: 92
+  score: 79.58315969354562
+  llm_score: 85
   recency_score: 27.29053800804651
-  rank: 7
-- slug: no-justice
-  title: NO JUSTICE
-  score: 78.55785639436276
-  llm_score: 90
-  recency_score: 32.789281971813786
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: rumors
   title: RUMORS
-  score: 77.81933672814583
-  llm_score: 95
+  score: 79.24564363703526
+  llm_score: 89
   recency_score: 9.096683640729124
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 78.95650241643487
+  llm_score: 85
+  recency_score: 23.21726570682666
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 78.83152338745668
+  llm_score: 85
+  recency_score: 22.404902018468416
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 78.4664198648775
+  llm_score: 95
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 78.34162386730026
+  llm_score: 89
+  recency_score: 3.2205551374516284
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 76.01708791959574
+  llm_score: 89
+  recency_score: 63.11107147737226
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 73.65298308953878
-  llm_score: 90
-  recency_score: 8.264915447693923
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 65.15299721131186
+  llm_score: 85
+  recency_score: 8.494481873527002
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The killing of O.J. French of Bay Minette was over a traffic stop by an office who was fully aware who he was stopping. It was JUSTIFIED by the Baldwin County Major Crimes Unit, who investigates themselves. The Chief of police of Bay Minette, Al Tolbert, is on the major crimes unit and the police officer who killed Mr. French, works for him. Sheriff Mack at the time also was on the Major crimes unit. It is now a federal lawsuit as well as the Johnathan Victor case. Johnathan was killed by a sheriff deputy. He was unarmed and gunned down with an assault rifle, another pending federal lawsuit.

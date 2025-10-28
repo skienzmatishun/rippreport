@@ -14,72 +14,82 @@ alttags: Baldwin County Family Court Reform Project logo; highlights concerns ab
 related_articles:
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 85.8002072693518
+  score: 84.84631328411679
   llm_score: 95
   recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 66.51063086460266
-  llm_score: 95
-  recency_score: 0.05315432301332231
-  category_score: 0
-  rank: 2
-- slug: exposure
-  title: EXPOSURE
-  score: 66.5043998468976
-  llm_score: 95
-  recency_score: 0.02199923448795886
-  category_score: 0
-  rank: 3
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 63.53609397400764
-  llm_score: 90
+  score: 64.25853382615973
+  llm_score: 85
   recency_score: 2.6804698700381855
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 63.510297761717496
-  llm_score: 90
+  score: 64.23869058593654
+  llm_score: 85
   recency_score: 2.5514888085874565
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 63.854331434309756
+  llm_score: 85
+  recency_score: 0.05315432301332231
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: exposure
+  title: EXPOSURE
+  score: 63.84953834376739
+  llm_score: 85
+  recency_score: 0.02199923448795886
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 63.00433998596476
-  llm_score: 90
+  score: 63.84949229689598
+  llm_score: 85
   recency_score: 0.021699929823781466
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 59.50379477279253
-  llm_score: 85
-  recency_score: 0.018973863962617212
-  category_score: 0
-  rank: 7
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 47.65053497317609
-  llm_score: 68
-  recency_score: 0.2526748658804697
-  category_score: 0
-  rank: 8
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 45.52114561928462
-  llm_score: 65
-  recency_score: 0.10572809642305193
-  category_score: 0
-  rank: 9
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 45.51023082642089
-  llm_score: 65
+  score: 57.700177558785306
+  llm_score: 75
   recency_score: 0.051154132104394186
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 57.34620176277843
+  llm_score: 70
+  recency_score: 17.750311458059702
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 54.65425767167393
+  llm_score: 70
+  recency_score: 0.2526748658804697
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 54.63165047637279
+  llm_score: 70
+  recency_score: 0.10572809642305193
+  length_score: 100
   category_score: 0
   rank: 10
 ---
