@@ -25,6 +25,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 80.0566151119704
+  llm_score: 85
+  recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 79.91791561019981
@@ -32,7 +40,7 @@ related_articles:
   recency_score: 29.466451466298754
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
   score: 79.81963657015807
@@ -40,7 +48,7 @@ related_articles:
   recency_score: 28.827637706027392
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 4
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
   score: 79.54879253854035
@@ -48,7 +56,15 @@ related_articles:
   recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 5
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 78.8560612226499
+  llm_score: 85
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 77.73988611413975
@@ -56,7 +72,7 @@ related_articles:
   recency_score: 15.30925974190835
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 7
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 77.38834819203588
@@ -64,36 +80,20 @@ related_articles:
   recency_score: 13.024263248233176
   length_score: 100
   category_score: 100
-  rank: 6
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 76.12579765630822
-  llm_score: 85
-  recency_score: 4.817684766003371
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 75.66256077527872
-  llm_score: 85
-  recency_score: 1.8066450393116897
-  length_score: 100
-  category_score: 100
   rank: 8
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 73.90276895812426
-  llm_score: 75
-  recency_score: 30.367998227807558
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 77.31823830939616
+  llm_score: 85
+  recency_score: 12.568549011075072
   length_score: 100
   category_score: 100
   rank: 9
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 71.16439215555002
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 69.97195150246208
   llm_score: 75
-  recency_score: 12.568549011075072
+  recency_score: 4.817684766003371
   length_score: 100
   category_score: 100
   rank: 10
