@@ -8,74 +8,84 @@ authors:
 - admin
 rumble: v5wt0e5
 related_articles:
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 66.6024643517003
-  llm_score: 95
-  recency_score: 0.512321758501535
-  category_score: 0
-  rank: 1
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 59.71945754246781
-  llm_score: 85
-  recency_score: 1.0972877123390103
-  category_score: 0
-  rank: 2
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 59.51413555185309
-  llm_score: 85
-  recency_score: 0.07067775926541446
-  category_score: 0
-  rank: 3
-- slug: big-mules
-  title: Big Mules
-  score: 53.25369096364097
-  llm_score: 70
-  recency_score: 21.268454818204823
-  category_score: 0
-  rank: 4
-- slug: shadow-government-southern-style
-  title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 52.783143349847585
+  score: 57.86112118651371
   llm_score: 75
-  recency_score: 1.4157167492379013
+  recency_score: 1.0972877123390103
+  length_score: 100
   category_score: 0
-  rank: 5
+  rank: 1
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 52.70775598975347
+  score: 57.85211999211806
   llm_score: 75
   recency_score: 1.0387799487673255
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: consequences
-  title: CONSEQUENCES
-  score: 52.5530895814733
+  rank: 2
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 57.71822269144121
   llm_score: 75
-  recency_score: 0.265447907366482
+  recency_score: 0.16844749436778167
+  length_score: 100
   category_score: 0
-  rank: 7
+  rank: 3
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD
-  score: 52.50472469316887
+  score: 57.69594207166837
   llm_score: 75
   recency_score: 0.023623465844288906
+  length_score: 100
   category_score: 0
-  rank: 8
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 45.89228189577494
+  rank: 4
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 54.62690206236127
+  llm_score: 70
+  recency_score: 0.07486340534815925
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: big-mules
+  title: Big Mules
+  score: 51.733608433569984
+  llm_score: 60
+  recency_score: 21.268454818204823
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 51.729425015903004
   llm_score: 65
-  recency_score: 1.961409478874682
+  recency_score: 1.2412626033694756
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: saturday-apology
   title: SATURDAY APOLOGY
-  score: 45.62011132960333
+  score: 51.630854868925645
   llm_score: 65
   recency_score: 0.6005566480166232
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: consequences
+  title: CONSEQUENCES
+  score: 51.579299678056394
+  llm_score: 65
+  recency_score: 0.265447907366482
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 51.549335039887
+  llm_score: 65
+  recency_score: 0.07067775926541446
+  length_score: 100
   category_score: 0
   rank: 10
 ---

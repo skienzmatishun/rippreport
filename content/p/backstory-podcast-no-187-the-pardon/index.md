@@ -8,74 +8,84 @@ authors:
 - admin
 rumble: v5ujhsq
 related_articles:
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 66.62933315371144
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 74.27984140624702
   llm_score: 95
-  recency_score: 0.6466657685572273
+  recency_score: 27.818969140605503
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: the-pete-rose
   title: The Pete Rose
-  score: 62.28339169418871
-  llm_score: 65
+  score: 67.5256859186067
+  llm_score: 70
   recency_score: 83.91695847094347
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 56.14510536812977
-  llm_score: 80
-  recency_score: 0.725526840648821
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 57.771559493254806
+  llm_score: 75
+  recency_score: 0.5151367061561393
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 54.563793828121106
+- slug: im-back-2
+  title: I'M BACK
+  score: 57.73000642399855
   llm_score: 70
-  recency_score: 27.818969140605503
+  recency_score: 20.245041755990528
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 54.359652807748276
-  llm_score: 75
-  recency_score: 9.298264038741346
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 56.832887437188525
+  llm_score: 70
+  recency_score: 14.41376834172532
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 52.649955242704976
-  llm_score: 75
-  recency_score: 0.7497762135248415
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 50.84929517237576
+  llm_score: 60
+  recency_score: 15.520418620442342
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-alabama-the-ripp-report-podcast-5
-  title: 'BACKSTORY PODCAST #5'
-  score: 52.612776204157086
-  llm_score: 75
-  recency_score: 0.5638810207853779
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 49.89204062134483
+  llm_score: 60
+  recency_score: 9.298264038741346
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 50.526183112764734
-  llm_score: 72
-  recency_score: 0.6309155638236493
+- slug: he-must-go
+  title: He Must Go
+  score: 49.505431520409765
+  llm_score: 60
+  recency_score: 6.785304882663376
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 49.141959576857396
-  llm_score: 70
-  recency_score: 0.7097978842869476
+- slug: bsp-128
+  title: Big News
+  score: 49.02701589475171
+  llm_score: 59
+  recency_score: 7.675603315886079
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 49.1171858955939
-  llm_score: 70
-  recency_score: 0.585929477969449
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 48.98635098271153
+  llm_score: 60
+  recency_score: 3.4112813876248462
+  length_score: 100
   category_score: 0
   rank: 10
 ---

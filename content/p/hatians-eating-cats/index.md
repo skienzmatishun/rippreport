@@ -9,65 +9,85 @@ authors:
 rumble: v5dblkt
 alttags: Provocative illustration depicting a muscular figure labeled Haiti feeding a kitten to a plate, referencing false claims...
 related_articles:
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 60.295021783613656
-  llm_score: 75
-  recency_score: 1.4751089180682964
-  rank: 1
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 60.18568199342948
-  llm_score: 75
-  recency_score: 0.928409967147408
-  rank: 2
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 60.17578136477127
-  llm_score: 75
-  recency_score: 0.878906823856331
-  rank: 3
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 60.13661765471506
-  llm_score: 75
-  recency_score: 0.6830882735752963
-  rank: 4
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 60.12757354629603
-  llm_score: 75
-  recency_score: 0.6378677314801207
-  rank: 5
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 59.56956807944086
-  llm_score: 70
-  recency_score: 17.84784039720432
-  rank: 6
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 58.52312487593501
-  llm_score: 50
-  recency_score: 92.61562437967505
-  rank: 7
-- slug: backstory-alabama-the-ripp-report-podcast-5
-  title: 'BACKSTORY PODCAST #5'
-  score: 56.139645070232696
-  llm_score: 70
-  recency_score: 0.6982253511634711
-  rank: 8
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 55.27739791781717
-  llm_score: 60
-  recency_score: 36.386989589085836
-  rank: 9
 - slug: the-mug-shot
   title: The Mugshot
-  score: 54.889364522377875
-  llm_score: 60
+  score: 62.99181886336761
+  llm_score: 75
   recency_score: 34.44682261188939
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 62.710096058411565
+  llm_score: 60
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: bsp-128
+  title: Big News
+  score: 59.154509447936
+  llm_score: 75
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 57.80860986966118
+  llm_score: 75
+  recency_score: 0.7559641527975924
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 57.11338642899012
+  llm_score: 50
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 54.05953685985937
+  llm_score: 60
+  recency_score: 36.386989589085836
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: im-back-2
+  title: I'M BACK
+  score: 46.16437097907571
+  llm_score: 50
+  recency_score: 25.06841136399206
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 45.053513907262214
+  llm_score: 50
+  recency_score: 17.84784039720432
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 42.46794304975153
+  llm_score: 50
+  recency_score: 1.0416298233849144
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 42.405825804843104
+  llm_score: 50
+  recency_score: 0.6378677314801207
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Nowhere is the “Haitian Immigrant Eating Cats” debate more front and center than Sylacauga Alabama thanks to 1819 News and similar news outlets who tow the party line on whatever narrative their party demands. Yes not since a preacher being gay… or dressing in women's clothes ….or whatever….. has this storied news outlet covered a situation so completely and in an irresponsible and shallow manner. There are immigrants in Alabama and they are a strain on services. Why cant we all agree on that and now that we have identified the problem, then we can work to solve it. But it turns out there are contacts to be had and so now it’s a profit motive activity, I love this place. And in the end the debate did not “move the needle” as far as polling goes. Even Fairhope Alabama where the average price of a home is outside middle class ownership, we are begging for immigrants, or one City Councilman is. And it was shoots and ladders for the Trump Campaign as he got into a food fight with Taylor Swift and also avoided a second assassination attempt at the hands of an Oswaldian type figure who we are led to believe was a freedom fighter in Ukraine, native of North Carolina? The State of Alabama is showing the door to the best, most qualified public servant in the State today, Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner. What a damn shame. And it all has to do with a whistleblower Ethics Complaint. Israel has somehow caused all of the radios and pager utilized by their enemies to explode, injuring and killing hundreds, a new trick in an old game. The Renaissance School in Baldwin County for special needs kids has been robbed, an inside job possibly shuttering the school. The Director of the Alabama Department of Transportation had his harassment case thrown out this week. Brandon Moseley was a guest speaker for BamaCarry Inc of Tuscaloosa and he recaps his discussion of the five firearms related bills in the works for the 2025 session. And there is a new Most Corrupt Judge Award, this time it goes to Texas Federal Bankruptcy Judge David R. Jones. The Sheriff Department of Baldwin County has a new Command Staff. P Diddy has been denied bail in his sex crimes cases. And the Feds dropped interest rates by half a point. Finally, consider attending a rally in DC on September 29,2024 to “Rescue the Republic” will have several speakers such as RFK Jr, Tulsi Gabbards, and Russell Brand. And we end with good guys with guns.

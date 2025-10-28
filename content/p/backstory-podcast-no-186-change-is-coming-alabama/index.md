@@ -8,74 +8,84 @@ authors:
 - admin
 rumble: v5rjhyn
 related_articles:
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 66.52100328161302
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 67.52990564254806
   llm_score: 90
-  recency_score: 17.605016408065044
+  recency_score: 3.94438667656226
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: bad-faith
   title: Bad Faith
-  score: 63.847951768054635
+  score: 67.1907321292728
   llm_score: 85
   recency_score: 21.73975884027314
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 63.73062366968938
-  llm_score: 90
-  recency_score: 3.653118348446851
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 66.5546179089331
+  llm_score: 85
+  recency_score: 17.605016408065044
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 62.69905534400358
+  score: 66.30696564923353
   llm_score: 85
   recency_score: 15.995276720017856
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 61.93908430617279
+  score: 65.72237254320984
   llm_score: 85
   recency_score: 12.195421530863895
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 60.422212084584665
-  llm_score: 85
-  recency_score: 4.6110604229232885
-  category_score: 0
-  rank: 6
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 53.65767907688167
-  llm_score: 75
+  score: 64.73667621298591
+  llm_score: 85
   recency_score: 5.78839538440832
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 64.64424209469485
+  llm_score: 85
+  recency_score: 5.18757361551642
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 53.22068336598399
-  llm_score: 75
-  recency_score: 3.6034168299198996
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 64.55554775737282
+  llm_score: 85
+  recency_score: 4.6110604229232885
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 49.788877335312456
-  llm_score: 70
-  recency_score: 3.94438667656226
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 64.40817205360722
+  llm_score: 85
+  recency_score: 3.653118348446851
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 46.06784228727634
-  llm_score: 65
-  recency_score: 2.839211436381685
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 64.40052566614153
+  llm_score: 85
+  recency_score: 3.6034168299198996
+  length_score: 100
   category_score: 0
   rank: 10
 ---

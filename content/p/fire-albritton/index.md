@@ -18,63 +18,83 @@ authors:
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 90.39621248724127
-  llm_score: 95
-  recency_score: 71.98106243620636
-  rank: 1
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 86.50547612699977
-  llm_score: 95
-  recency_score: 52.527380634998835
-  rank: 2
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 75.76030246445875
+  score: 77.99708652864715
   llm_score: 90
-  recency_score: 18.801512322293714
-  rank: 3
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 75.35758882342884
+  score: 69.50583755648374
   llm_score: 85
   recency_score: 36.787944117144235
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 72.61807914379663
+  score: 67.39852241830512
   llm_score: 85
   recency_score: 23.090395718983192
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 66.73869420342982
+  llm_score: 85
+  recency_score: 18.801512322293714
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 66.47421066621185
+  llm_score: 85
+  recency_score: 17.082369330376963
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 71.16545197903177
-  llm_score: 70
-  recency_score: 75.82725989515886
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 65.84988665357434
+  llm_score: 85
+  recency_score: 13.024263248233176
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 69.95902049782696
+  score: 65.35309269063613
   llm_score: 85
   recency_score: 9.795102489134761
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 62.60485264964664
-  llm_score: 75
-  recency_score: 13.024263248233176
-  rank: 8
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 61.11053014836325
-  llm_score: 65
-  recency_score: 45.55265074181627
-  rank: 9
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 61.09295272799745
-  llm_score: 75
+  score: 64.6868867138442
+  llm_score: 85
   recency_score: 5.464763639987247
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 61.92550279003194
+  llm_score: 75
+  recency_score: 27.51576813520753
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 61.62348472951021
+  llm_score: 70
+  recency_score: 45.55265074181627
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The news lately has been focused on our Me Ma Governor firing one of the very few reputable individuals working in our corrupt alabama system. She used "extreme Executive Power" to fire Alabama Department of Veterans Affairs Director Kent Davis. Please read the article below:
