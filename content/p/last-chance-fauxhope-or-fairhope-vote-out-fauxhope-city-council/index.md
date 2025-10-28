@@ -21,7 +21,7 @@ alttags: Fairhope city flag with clock tower design, overlaid with lightning bol
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 88.71256852416955
+  score: 82.14126715200887
   llm_score: 95
   recency_score: 99.45355327605971
   length_score: 100
@@ -29,7 +29,7 @@ related_articles:
   rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 87.25758021297483
+  score: 80.79405575275447
   llm_score: 95
   recency_score: 90.35987633109261
   length_score: 100
@@ -37,65 +37,65 @@ related_articles:
   rank: 2
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 86.6754760480753
+  score: 80.25507041488454
   llm_score: 95
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 77.28776966966471
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 67.50695573533469
   llm_score: 95
-  recency_score: 28.048560435404436
+  recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
   rank: 4
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 75.10620293467605
-  llm_score: 95
-  recency_score: 14.41376834172532
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65.7708285316142
+  llm_score: 89
+  recency_score: 12.953092588395847
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 74.87249481414334
-  llm_score: 95
-  recency_score: 12.953092588395847
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 65.63682376820807
+  llm_score: 85
+  recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
   rank: 6
 - slug: all-mouth
   title: ALL MOUTH
-  score: 74.48292597068348
-  llm_score: 95
+  score: 65.41011663952175
+  llm_score: 89
   recency_score: 10.518287316771712
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 72.90751219416146
-  llm_score: 95
-  recency_score: 0.6719512135090356
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 72.90604946593851
-  llm_score: 95
+  score: 63.95004580179493
+  llm_score: 89
   recency_score: 0.6628091621157032
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 66.47867107147147
-  llm_score: 85
+  score: 63.92469543654766
+  llm_score: 89
   recency_score: 0.4916941966966383
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 63.6168545691445
+  llm_score: 85
+  recency_score: 14.41376834172532
   length_score: 100
   category_score: 0
   rank: 10

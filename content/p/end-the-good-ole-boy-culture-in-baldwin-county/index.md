@@ -24,7 +24,7 @@ alttags: Railway tracks diverging, symbolizing choices in Baldwin County politic
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 88.71256852416955
+  score: 82.14126715200887
   llm_score: 95
   recency_score: 99.45355327605971
   length_score: 100
@@ -32,73 +32,73 @@ related_articles:
   rank: 1
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 82.31256852416955
+  score: 76.21534122608293
   llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 2
+- slug: vote-march-5th
+  title: VOTE MARCH 5th
+  score: 64.83730155654412
+  llm_score: 85
+  recency_score: 22.65178550667279
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: vote-smart
   title: VOTE SMART
-  score: 69.85935402244766
+  score: 64.68458705782193
   llm_score: 85
   recency_score: 21.62096264029795
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: win-for-baldwin
   title: WIN FOR BALDWIN
-  score: 67.06664775931287
+  score: 62.0987479252897
   llm_score: 85
   recency_score: 4.16654849570544
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: last-chance
   title: LAST CHANCE
-  score: 67.01404611342139
+  score: 62.05004269761239
   llm_score: 85
   recency_score: 3.837788208883614
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 66.51049845461424
+  score: 61.58379486538356
   llm_score: 85
   recency_score: 0.6906153413389834
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 61.49248157206942
+  llm_score: 85
+  recency_score: 0.07425061146854016
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 66.40874091813654
+  score: 61.48957492420052
   llm_score: 85
   recency_score: 0.054630738353439325
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 9
 - slug: say-goodbye-incumbents
   title: SAY GOODBYE INCUMBENTS
-  score: 66.40646656703993
+  score: 61.48746904355549
   llm_score: 85
   recency_score: 0.04041604399951511
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 60.42428568106765
-  llm_score: 70
-  recency_score: 22.65178550667279
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 60.01188009783497
-  llm_score: 75
-  recency_score: 0.07425061146854016
   length_score: 100
   category_score: 0
   rank: 10

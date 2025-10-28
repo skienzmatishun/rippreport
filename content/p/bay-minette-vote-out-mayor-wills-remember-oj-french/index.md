@@ -17,65 +17,65 @@ authors:
 - admin
 alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
 related_articles:
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 88.62561481477448
-  llm_score: 95
-  recency_score: 98.91009259234048
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 82.31256852416955
-  llm_score: 85
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 79.941774462903
+  score: 81.42756894713241
   llm_score: 85
   recency_score: 34.63609039314372
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 81.3577567980596
+  llm_score: 85
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 76.21534122608293
+  llm_score: 85
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 76.1348285321986
+  llm_score: 85
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 72.92197791834337
+  llm_score: 75
+  recency_score: 17.223350948817675
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: rumors
+  title: RUMORS
+  score: 71.22089103919572
+  llm_score: 75
+  recency_score: 5.741014514570984
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: justified
   title: JUSTIFIED
-  score: 76.49777143637957
+  score: 70.8312698484996
   llm_score: 85
   recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: rumors
-  title: RUMORS
-  score: 75.31856232233136
-  llm_score: 85
-  recency_score: 5.741014514570984
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 73.31573615181082
-  llm_score: 79
-  recency_score: 17.223350948817675
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 70.26637734190436
-  llm_score: 70
-  recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 100
   rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 69.28712141370883
+  score: 64.1547420497304
   llm_score: 85
   recency_score: 18.044508835680173
   length_score: 100
@@ -83,16 +83,16 @@ related_articles:
   rank: 8
 - slug: baldwin-county
   title: BALDWIN COUNTY
-  score: 60.11110558745701
-  llm_score: 75
+  score: 61.58435702542317
+  llm_score: 85
   recency_score: 0.6944099216063174
   length_score: 100
   category_score: 0
   rank: 9
 - slug: say-goodbye-incumbents
   title: SAY GOODBYE INCUMBENTS
-  score: 56.80650209753892
-  llm_score: 70
+  score: 61.487501942165665
+  llm_score: 85
   recency_score: 0.040638109618195
   length_score: 100
   category_score: 0

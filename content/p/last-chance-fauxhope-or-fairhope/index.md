@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Fairhope City Council candidate Troy Vickers at a table with constituents, promoting strong values and local solutions
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 99.89071065521195
-  llm_score: 100
-  recency_score: 99.45355327605971
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 80.86760858110391
+  llm_score: 95
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 97.43964342023084
-  llm_score: 100
-  recency_score: 87.19821710115417
-  rank: 2
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 90.17127158449026
-  llm_score: 90
-  recency_score: 90.85635792245131
-  rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 81.64053460363517
+  score: 80.3256617927636
   llm_score: 95
-  recency_score: 28.202673018175854
-  rank: 4
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 79.1783041890459
+  llm_score: 90
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 78.89859293447587
+  score: 69.55451328479695
   llm_score: 95
   recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 68.62261822491494
+  llm_score: 90
+  recency_score: 28.202673018175854
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 76.09887916127678
-  llm_score: 95
-  recency_score: 0.4943958063839215
-  rank: 6
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 72.13329019231236
-  llm_score: 90
+  score: 67.50614088319435
+  llm_score: 95
   recency_score: 0.6664509615618259
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 67.4806512305754
+  llm_score: 95
+  recency_score: 0.4943958063839215
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 72.02007304687103
+- slug: fairhopes-golden-key
+  title: FAIRHOPE'S GOLDEN KEY
+  score: 64.54453973983419
   llm_score: 90
-  recency_score: 0.10036523435518244
+  recency_score: 0.6756432438807459
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 70.60485264964663
-  llm_score: 85
-  recency_score: 13.024263248233176
-  rank: 9
 - slug: catalyst-kiss
   title: CATALYST KISS
-  score: 56.079417633600826
-  llm_score: 70
+  score: 61.54030935822284
+  llm_score: 85
   recency_score: 0.3970881680041358
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 61.496350405089665
+  llm_score: 85
+  recency_score: 0.10036523435518244
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman <a href="https://www.google.com/search?q=site%3Arippreport.com+jack+burrell">Jack Burrell</a>. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all. But here is a few:

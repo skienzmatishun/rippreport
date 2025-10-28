@@ -26,81 +26,81 @@ alttags: A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizi
 related_articles:
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 88.71256852416955
+  score: 82.14126715200887
   llm_score: 95
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 72.9031834410038
-  llm_score: 95
-  recency_score: 0.6448965062737357
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 72.90122343514179
-  llm_score: 95
-  recency_score: 0.632646469636104
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 72.89741440921006
-  llm_score: 95
-  recency_score: 0.6088400575628192
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 72.81358696835954
-  llm_score: 95
-  recency_score: 0.08491855224716904
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 72.81033089088355
+  score: 67.41697304711441
   llm_score: 95
   recency_score: 0.06456806802217216
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 61.577021704633154
+  llm_score: 85
+  recency_score: 0.6448965062737357
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 61.57520688439054
+  llm_score: 85
+  recency_score: 0.632646469636104
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-last-stand
+  title: CATALYST LAST STAND
+  score: 61.571680008527835
+  llm_score: 85
+  recency_score: 0.6088400575628192
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 61.494062007740325
+  llm_score: 85
+  recency_score: 0.08491855224716904
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 72.80925856881109
-  llm_score: 95
-  recency_score: 0.05786605506923713
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 72.80908269903036
-  llm_score: 95
-  recency_score: 0.05676686893971495
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 66.41234462460355
+  score: 61.492911689447745
   llm_score: 85
   recency_score: 0.07715390377225172
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 66.41159074592822
+  score: 61.49221365363725
   llm_score: 85
   recency_score: 0.07244216205141384
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 61.490054230380636
+  llm_score: 85
+  recency_score: 0.05786605506923713
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: wrong-ball
+  title: WRONG BALL
+  score: 61.48989138799107
+  llm_score: 85
+  recency_score: 0.05676686893971495
   length_score: 100
   category_score: 0
   rank: 10
