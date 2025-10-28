@@ -1315,6 +1315,9 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+	blockquote {
+  display: inline-block;
+	}
 }
 
 .visually-hidden {
