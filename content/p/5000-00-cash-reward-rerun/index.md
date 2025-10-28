@@ -13,47 +13,47 @@ authors:
 related_articles:
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 64.44747950772681
+  score: 66.92622871956246
   llm_score: 90
   recency_score: 0.020486677155934722
   length_score: 100
   category_score: 0
   rank: 1
-- slug: flying-high
-  title: FLYING HIGH
-  score: 61.49251175062552
-  llm_score: 85
-  recency_score: 0.07445431672220408
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 66.9259015705317
+  llm_score: 90
+  recency_score: 0.018360208456042304
   length_score: 100
   category_score: 0
   rank: 2
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 66.92578042501201
+  llm_score: 90
+  recency_score: 0.017572762577928065
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 61.485935442955245
+  score: 63.85077911383814
   llm_score: 85
   recency_score: 0.030064239947851384
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 61.48408485371525
-  llm_score: 85
-  recency_score: 0.017572762577928065
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 61.484000655066524
-  llm_score: 85
-  recency_score: 0.01700442169897349
+- slug: flying-high
+  title: FLYING HIGH
+  score: 54.62683912564958
+  llm_score: 70
+  recency_score: 0.07445431672220408
   length_score: 100
   category_score: 0
   rank: 5
 - slug: bonus-money
   title: BONUS MONEY
-  score: 52.598763348330195
+  score: 54.62179270788136
   llm_score: 70
   recency_score: 0.041652601228757115
   length_score: 100
@@ -61,7 +61,7 @@ related_articles:
   rank: 6
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 52.59731032454506
+  score: 54.62028379856603
   llm_score: 70
   recency_score: 0.031844690679118465
   length_score: 100
@@ -69,7 +69,7 @@ related_articles:
   rank: 7
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 52.59564433200501
+  score: 54.61855372938982
   llm_score: 70
   recency_score: 0.020599241033720052
   length_score: 100
@@ -77,17 +77,17 @@ related_articles:
   rank: 8
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 52.595529495410666
+  score: 54.61843447600339
   llm_score: 70
   recency_score: 0.019824094021949453
   length_score: 100
   category_score: 0
   rank: 9
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 52.59531262347498
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 54.618000680261396
   llm_score: 70
-  recency_score: 0.018360208456042304
+  recency_score: 0.01700442169897349
   length_score: 100
   category_score: 0
   rank: 10

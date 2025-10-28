@@ -16,7 +16,7 @@ alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest Firs
 related_articles:
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 76.21534122608293
+  score: 79.14670050400919
   llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
@@ -24,7 +24,7 @@ related_articles:
   rank: 1
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 75.81715337064288
+  score: 78.73319773105223
   llm_score: 85
   recency_score: 96.76578525183945
   length_score: 100
@@ -32,7 +32,7 @@ related_articles:
   rank: 2
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 75.5834248100805
+  score: 78.49047961046821
   llm_score: 85
   recency_score: 95.18811746804333
   length_score: 100
@@ -40,31 +40,31 @@ related_articles:
   rank: 3
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 59.67688431712675
-  llm_score: 75
+  score: 68.12599525240086
+  llm_score: 85
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
   rank: 4
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 55.72586712745216
-  llm_score: 75
-  recency_score: 1.1496031103020492
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 63.862780154845986
+  llm_score: 85
+  recency_score: 0.10807100649883039
   length_score: 100
   category_score: 0
   rank: 5
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 55.65348084916866
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 57.86916970927725
   llm_score: 75
-  recency_score: 0.6609957318883691
+  recency_score: 1.1496031103020492
   length_score: 100
   category_score: 0
   rank: 6
 - slug: daphne-decision
   title: DAPHNE DECISION
-  score: 55.57351856238417
+  score: 57.710961584014335
   llm_score: 75
   recency_score: 0.12125029609309805
   length_score: 100
@@ -72,23 +72,23 @@ related_articles:
   rank: 7
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 55.55721667634538
+  score: 57.69403270235867
   llm_score: 75
   recency_score: 0.01121256533123894
   length_score: 100
   category_score: 0
   rank: 8
-- slug: people-power
-  title: PEOPLE POWER
-  score: 46.66896177539911
-  llm_score: 60
-  recency_score: 0.01549198394397087
+- slug: fairhope-voters-guide
+  title: FAIRHOPE VOTERS GUIDE
+  score: 31.97434238165861
+  llm_score: 85
+  recency_score: 0.6664509615618259
   length_score: 100
   category_score: 0
   rank: 9
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 27.779398445954953
+  score: 28.847836847722455
   llm_score: 75
   recency_score: 0.021879020391807464
   length_score: 100

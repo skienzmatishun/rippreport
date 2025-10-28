@@ -20,63 +20,83 @@ authors:
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 80.03027544135718
-  llm_score: 100
+  score: 70.02328880104399
+  llm_score: 95
   recency_score: 0.15137720678588268
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 72.00995433465955
-  llm_score: 90
-  recency_score: 0.04977167329776623
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 63.94953095592448
+  llm_score: 85
+  recency_score: 0.6719512135090356
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 63.93009906117679
+  llm_score: 85
+  recency_score: 0.5456438976490593
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 63.8577663471762
+  llm_score: 85
+  recency_score: 0.07548125664523891
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 63.85006726336479
+  llm_score: 85
+  recency_score: 0.025437211871076722
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 68.1381230682678
-  llm_score: 85
-  recency_score: 0.6906153413389834
-  rank: 3
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 64.03396753993354
+  score: 60.875479283282935
   llm_score: 80
-  recency_score: 0.16983769966770007
-  rank: 4
+  recency_score: 0.6906153413389834
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 60.01199283598599
-  llm_score: 75
+  score: 60.77845602768154
+  llm_score: 80
   recency_score: 0.059964179929950075
-  rank: 5
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 60.00556883670854
-  llm_score: 75
-  recency_score: 0.027844183542706274
-  rank: 6
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 60.004990804611616
-  llm_score: 75
-  recency_score: 0.024954023058067983
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 56.0067461164906
+  score: 54.62057393576202
   llm_score: 70
   recency_score: 0.03373058245303176
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 54.6192236958551
+  llm_score: 70
+  recency_score: 0.024954023058067983
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 56.00471176651983
-  llm_score: 70
+  score: 42.3113167434768
+  llm_score: 50
   recency_score: 0.02355883259917855
-  rank: 9
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 52.00508744237422
-  llm_score: 65
-  recency_score: 0.025437211871076722
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ## FAIRHOPE THE GOOD

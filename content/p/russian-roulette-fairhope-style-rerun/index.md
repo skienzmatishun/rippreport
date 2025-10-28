@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article
 related_articles:
-- slug: russian-roulette-fairhope-style
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 80.0254062295506
-  llm_score: 100
-  recency_score: 0.12703114775298338
-  rank: 1
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 72.01547311483151
-  llm_score: 90
-  recency_score: 0.07736557415756225
-  rank: 2
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 68.0792003488293
-  llm_score: 85
-  recency_score: 0.39600174414651
-  rank: 3
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 68.01931770048358
-  llm_score: 85
-  recency_score: 0.09658850241788805
-  rank: 4
 - slug: police-report
   title: POLICE REPORT
-  score: 68.01480949270953
-  llm_score: 85
+  score: 66.16523807131503
+  llm_score: 70
   recency_score: 0.07404746354764352
-  rank: 5
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 68.00995433465955
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 63.90707719140717
   llm_score: 85
-  recency_score: 0.04977167329776623
-  rank: 6
+  recency_score: 0.39600174414651
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 63.90242400655251
+  llm_score: 85
+  recency_score: 0.36575604259118294
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 63.86569709965432
+  llm_score: 85
+  recency_score: 0.12703114775298338
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 63.85259714786169
+  llm_score: 85
+  recency_score: 0.041881461100881215
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 68.00556883670855
+  score: 63.85043756669889
   llm_score: 85
   recency_score: 0.027844183542706274
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 60.78113316525502
+  llm_score: 80
+  recency_score: 0.07736557415756225
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 57.69996487281506
+  llm_score: 75
+  recency_score: 0.04977167329776623
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: fairhope-un-armed-robbery
   title: FAIRHOPE UN-ARMED ROBBERY
-  score: 60.04358532143119
-  llm_score: 75
-  recency_score: 0.2179266071559293
-  rank: 8
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 60.01517919755682
-  llm_score: 75
-  recency_score: 0.0758959877840872
-  rank: 9
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 56.01838815542843
+  score: 54.64891178571631
   llm_score: 70
-  recency_score: 0.09194077714216314
+  recency_score: 0.2179266071559293
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: barstool
+  title: BARSTOOL
+  score: 54.63460923599891
+  llm_score: 70
+  recency_score: 0.12496003399281562
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.

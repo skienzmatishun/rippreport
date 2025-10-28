@@ -16,7 +16,7 @@ alttags: 'Graphic promoting two key questions for Fairhope city council election
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 81.82184652691171
+  score: 84.96884062410062
   llm_score: 95
   recency_score: 97.29746405665401
   length_score: 100
@@ -24,7 +24,7 @@ related_articles:
   rank: 1
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 81.58683374671108
+  score: 84.72478889081535
   llm_score: 95
   recency_score: 95.71112779029973
   length_score: 100
@@ -32,7 +32,7 @@ related_articles:
   rank: 2
 - slug: qualified-daphne-district-6-city-council
   title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 76.21534122608293
+  score: 79.14670050400919
   llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
@@ -40,56 +40,56 @@ related_articles:
   rank: 3
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 71.55138077569055
-  llm_score: 95
+  score: 68.1495108055248
+  llm_score: 85
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 4
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 67.5786547548238
-  llm_score: 95
-  recency_score: 1.155919595060642
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 65.46879139292679
+  llm_score: 85
+  recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
   rank: 5
-- slug: selective-memory
-  title: Selective Memory
-  score: 67.41048433297246
-  llm_score: 95
-  recency_score: 0.020769247564044847
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 64.02398763000934
+  llm_score: 85
+  recency_score: 1.155919595060642
   length_score: 100
   category_score: 0
   rank: 6
-- slug: people-power
-  title: PEOPLE POWER
-  score: 67.40971512659576
-  llm_score: 95
-  recency_score: 0.015577104521312337
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
-  score: 61.581851386563116
+  score: 63.95038413220017
   llm_score: 85
   recency_score: 0.6774968593009955
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 61.57994482480847
+  rank: 7
+- slug: selective-memory
+  title: Selective Memory
+  score: 63.849349115009865
   llm_score: 85
-  recency_score: 0.6646275674571428
+  recency_score: 0.020769247564044847
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 54.630867782249226
+  llm_score: 70
+  recency_score: 0.10064058461990079
   length_score: 100
   category_score: 0
   rank: 9
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 33.70533327662874
-  llm_score: 95
+  score: 31.924769171883696
+  llm_score: 85
   recency_score: 0.02199923448795886
   length_score: 100
   category_score: 0

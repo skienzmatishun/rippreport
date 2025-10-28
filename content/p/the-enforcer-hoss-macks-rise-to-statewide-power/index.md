@@ -11,83 +11,83 @@ alttags: 'Hoss Macks rise: Silhouette against Alabama capitol building, highligh
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 89.17920664248439
-  llm_score: 85
+  score: 91.839945359503
+  llm_score: 90
   recency_score: 86.95964483676948
   length_score: 100
   category_score: 100
   rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 87.3958435138695
-  llm_score: 95
-  recency_score: 34.921943718618955
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 86.83349723142135
-  llm_score: 95
-  recency_score: 31.126106312094088
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 84.44109108356776
-  llm_score: 95
-  recency_score: 14.977364814082216
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 84.36345366859618
-  llm_score: 95
-  recency_score: 14.453312263024177
-  length_score: 100
-  category_score: 100
-  rank: 5
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.95946651932206
-  llm_score: 85
+  score: 84.34252292391137
+  llm_score: 90
   recency_score: 38.22639900542388
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 80.75722211055677
+  llm_score: 85
+  recency_score: 34.921943718618955
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 80.63546297726174
+  llm_score: 90
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 81.31632624860771
+  score: 80.5977234120157
   llm_score: 85
   recency_score: 33.88520217810198
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 5
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 81.20749522040674
+  score: 80.48470657503778
   llm_score: 85
   recency_score: 33.15059273774551
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 80.17324712493756
+  llm_score: 85
+  recency_score: 31.126106312094088
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 80.06974034815757
+  llm_score: 89
+  recency_score: 14.453312263024177
   length_score: 100
   category_score: 100
   rank: 8
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.90444687526889
+  score: 78.09307944739463
   llm_score: 85
   recency_score: 17.605016408065044
   length_score: 100
   category_score: 100
   rank: 9
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 74.68600138551129
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 77.68882535601266
   llm_score: 85
-  recency_score: 89.13050935220119
+  recency_score: 14.977364814082216
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 10
 ---
 > Baldwin County may not always make headlines, but it has quietly become one of the most politically influential regions in Alabama — where power is consolidated, narratives are controlled, and those in charge rarely face consequences. Which is why the recent promotion of former Baldwin County Sheriff Hoss Mack should give every Alabamian pause...
