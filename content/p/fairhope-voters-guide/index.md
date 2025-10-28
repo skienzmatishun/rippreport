@@ -3,7 +3,7 @@ title: FAIRHOPE VOTERS GUIDE
 date: 2020-08-20
 thumbnail: img/fairhope-voters-guide.png
 categories:
-- thursday-thunder
+- elections
 tags:
 - boone
 - brown

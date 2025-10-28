@@ -18,63 +18,83 @@ alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American f
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90.27111348555951
+  score: 92.5162411427381
   llm_score: 90
   recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 87.56195333019646
-  llm_score: 100
-  recency_score: 37.809766650982276
-  rank: 2
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 86.52312487593501
-  llm_score: 85
-  recency_score: 92.61562437967505
-  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 85.72869172076295
-  llm_score: 85
+  score: 92.09899363135612
+  llm_score: 90
   recency_score: 88.64345860381478
-  rank: 4
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 85.34434506009411
-  llm_score: 85
+  score: 91.80334235391857
+  llm_score: 90
   recency_score: 86.72172530047058
-  rank: 5
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 84.28513651399791
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 89.63317298148847
   llm_score: 85
-  recency_score: 81.42568256998956
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 85.54686204222662
+  llm_score: 90
+  recency_score: 46.05460327447295
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 84.48933608660465
+  llm_score: 90
+  recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 83.64527980108477
-  llm_score: 95
-  recency_score: 38.22639900542388
-  rank: 7
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 81.43613691258605
-  llm_score: 92
-  recency_score: 39.1806845629302
-  rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 81.2109206548946
+  score: 84.34252292391137
   llm_score: 90
-  recency_score: 46.05460327447295
-  rank: 9
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 69.08698032362109
+  recency_score: 38.22639900542388
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 84.27842563861267
+  llm_score: 90
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 80.49869858600047
   llm_score: 85
-  recency_score: 5.4349016181054575
+  recency_score: 33.241540809002984
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 72.16482832931372
+  llm_score: 90
+  recency_score: 34.071384140539074
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
  It is no surprise that Governor Kay Ivey believed all the BS Hoss Mack told her. Someone woke up Ivy and said, “sign here, say this.” She ignored all the letters to the appointment board and 2 pending federal lawsuits involving Baldwin County Sheriff Office, BCSO, and their Major Crimes Unit. She ignored the wrongful conviction of Murray Lawrence. She also ignored the clown show case of Steve Nodine which involved the same Prosecutor, Sheriff and Judge involved in the case of Murray Lawrence’s wrongful conviction. Mr. Nodine is lucky he was not wrongfully convicted. Ivy ignored the 10 innocent lives lost, that we know of, in the last 15 years in Baldwin County. People who just happen to come into contact with BCSO and then become victims of the BCSO. Their deaths were justified by the Major Crimes Unit of the Sheriff Department who investigated themselves. No accountability, No transparency, No camera footage, and certainly no justice.
