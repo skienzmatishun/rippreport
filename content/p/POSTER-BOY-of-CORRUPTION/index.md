@@ -13,74 +13,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 82.63359302371177
-  llm_score: 91
-  recency_score: 94.66796511855877
-  category_score: 0
-  rank: 1
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 80.50714967029312
+  score: 87.25536225271983
   llm_score: 95
   recency_score: 70.03574835146556
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 79.66448763734437
+  llm_score: 95
+  recency_score: 19.429917582295765
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 69.97673339221255
+  score: 78.10755004415941
   llm_score: 85
   recency_score: 52.383666961062694
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 68.58072954482947
-  llm_score: 95
-  recency_score: 10.403647724147305
-  category_score: 0
-  rank: 4
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 67.87201466601171
-  llm_score: 95
-  recency_score: 6.86007333005856
-  category_score: 0
-  rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 66.88598351645916
-  llm_score: 90
-  recency_score: 19.429917582295765
-  category_score: 0
-  rank: 6
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 66.00417710682305
+  score: 75.12813283011728
   llm_score: 85
   recency_score: 32.52088553411519
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 73.0471419012492
+  llm_score: 85
+  recency_score: 18.647612674994708
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 71.81054715862209
+  llm_score: 85
+  recency_score: 10.403647724147305
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 71.27901099950878
+  llm_score: 85
+  recency_score: 6.86007333005856
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 64.45903777831067
-  llm_score: 85
+  score: 64.219278333733
+  llm_score: 70
   recency_score: 24.795188891553348
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 63.280963415174355
-  llm_score: 85
+  score: 63.335722561380756
+  llm_score: 70
   recency_score: 18.90481707587172
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 63.22952253499895
-  llm_score: 85
-  recency_score: 18.647612674994708
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 61.572180083327325
+  llm_score: 70
+  recency_score: 7.147867222182147
+  length_score: 100
   category_score: 0
   rank: 10
 ---

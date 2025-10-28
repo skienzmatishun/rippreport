@@ -15,75 +15,85 @@ authors:
 - admin
 alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
 related_articles:
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 86.4452804719372
-  llm_score: 95
-  recency_score: 99.72640235968593
-  category_score: 0
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 91.74234365695126
+  llm_score: 89
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 82.02789538259508
-  llm_score: 89
-  recency_score: 98.63947691297537
-  category_score: 0
-  rank: 2
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 78.02312487593503
+  score: 90.04592153694631
   llm_score: 85
-  recency_score: 92.61562437967505
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 85.20896035395289
+  llm_score: 85
+  recency_score: 99.72640235968593
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: justified
-  title: JUSTIFIED
-  score: 77.47623272188054
-  llm_score: 95
-  recency_score: 54.88116360940264
-  category_score: 0
-  rank: 4
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 69.44532047544666
+  score: 82.70899035658499
   llm_score: 85
   recency_score: 49.72660237723329
-  category_score: 0
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 67.66487863775173
-  llm_score: 85
-  recency_score: 40.82439318875856
-  category_score: 0
-  rank: 6
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 61.660923267614145
-  llm_score: 76
+  score: 81.5956924507106
+  llm_score: 85
   recency_score: 42.3046163380707
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: justified
+  title: JUSTIFIED
+  score: 78.48217454141039
+  llm_score: 85
+  recency_score: 54.88116360940264
+  length_score: 100
   category_score: 0
+  rank: 6
+- slug: rumors
+  title: RUMORS
+  score: 77.7362857424466
+  llm_score: 85
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 100
   rank: 7
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 60.673646812728975
+  score: 76.13023510954673
   llm_score: 85
   recency_score: 5.868234063644852
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 8
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 74.87365897831378
+  llm_score: 75
+  recency_score: 40.82439318875856
+  length_score: 100
+  category_score: 100
+  rank: 9
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
-  score: 59.55323523181136
-  llm_score: 85
+  score: 65.5399264238585
+  llm_score: 70
   recency_score: 0.26617615905673986
-  category_score: 0
-  rank: 9
-- slug: rumors
-  title: RUMORS
-  score: 55.81504765659547
-  llm_score: 75
-  recency_score: 16.575238282977313
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***

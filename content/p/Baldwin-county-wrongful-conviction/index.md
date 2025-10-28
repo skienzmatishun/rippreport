@@ -10,74 +10,84 @@ authors:
 - admin
 alttags: Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption
 related_articles:
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 89.89071065521195
-  llm_score: 100
-  recency_score: 99.45355327605971
-  category_score: 0
-  rank: 1
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 89.72789538259508
-  llm_score: 100
+  score: 91.54592153694631
+  llm_score: 95
   recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 80.0
-  llm_score: 100
-  recency_score: 50
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 80.0
-  llm_score: 100
-  recency_score: 50
-  category_score: 0
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 76.5
+  rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 89.25
   llm_score: 95
   recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 87.76803299140896
+  llm_score: 89
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 86.0
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.0
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 100
   rank: 5
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 76.5
-  llm_score: 95
+  score: 85.35
+  llm_score: 89
   recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 6
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 85.35
+  llm_score: 89
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: but-i-didnt-do-it
   title: But, I Didn’t Do It…
-  score: 76.5
-  llm_score: 95
+  score: 80.35
+  llm_score: 89
   recency_score: 50
-  category_score: 0
-  rank: 7
-- slug: no-justice
-  title: NO JUSTICE
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 76.5
-  llm_score: 95
+- slug: innocent
+  title: INNOCENT
+  score: 80.35
+  llm_score: 89
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 76.5
-  llm_score: 95
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 77.75
+  llm_score: 85
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 10
 ---

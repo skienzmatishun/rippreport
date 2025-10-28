@@ -16,75 +16,85 @@ authors:
 - admin
 alttags: Sheriff candidates Lowery and Hoss Mack depicted in a grid within an old television set, suggesting a recurring pattern
 related_articles:
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 82.22610187044025
-  llm_score: 92
-  recency_score: 89.13050935220119
-  category_score: 0
-  rank: 1
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 79.01287958944485
+  score: 90.01030367155587
   llm_score: 85
   recency_score: 97.56439794722424
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 88.66088149635219
+  llm_score: 85
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 69.81427682810782
-  llm_score: 90
+  score: 79.85142146248626
+  llm_score: 85
   recency_score: 34.071384140539074
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 68.54857141949543
-  llm_score: 90
-  recency_score: 27.742857097477103
-  category_score: 0
-  rank: 4
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 65.72522126241883
+  score: 79.38017700993505
   llm_score: 85
   recency_score: 31.126106312094088
-  category_score: 0
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 65.57646216765953
-  llm_score: 90
-  recency_score: 12.882310838297602
-  category_score: 0
-  rank: 6
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 65.5404106592731
+  score: 79.23232852741847
   llm_score: 85
   recency_score: 30.20205329636546
-  category_score: 0
-  rank: 7
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 65.40945843208529
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 78.83885713559633
   llm_score: 85
-  recency_score: 29.54729216042639
-  category_score: 0
-  rank: 8
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 62.6382881592094
+  score: 76.91063052736752
   llm_score: 85
   recency_score: 15.691440796046965
-  category_score: 0
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 55.16988030926578
-  llm_score: 75
+  score: 76.53590424741262
+  llm_score: 85
   recency_score: 13.34940154632884
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 76.46116973412762
+  llm_score: 85
+  recency_score: 12.882310838297602
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 72.72756674566821
+  llm_score: 75
+  recency_score: 29.54729216042639
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 Lowery is a clone of Hoss Mack and the last thing Baldwin County needs is a clone Sheriff. Pay attention this race can break the mold of the good ole boys. Hoss Mack’s record is the same as Lowery’s, they are joined at the hip, or close to it. Lowery likes it under Hoss’s umbrella however he has rightfully inherited Hoss’s horrible record. Before election time you will see the onion peeled back involving Mack and Lowery and it ain’t “perty”.

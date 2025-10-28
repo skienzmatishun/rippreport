@@ -13,72 +13,82 @@ alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restr
 related_articles:
 - slug: all-mouth
   title: ALL MOUTH
-  score: 83.54222555805995
+  score: 89.15666916854497
   llm_score: 92
   recency_score: 95.71112779029973
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 73.93570824436047
-  llm_score: 85
-  recency_score: 72.17854122180232
-  category_score: 0
-  rank: 2
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 73.46882643931994
-  llm_score: 85
+  score: 87.22661982948995
+  llm_score: 95
   recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 81.07678118327034
+  llm_score: 85
+  recency_score: 72.17854122180232
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 70.17838723901062
-  llm_score: 90
-  recency_score: 35.89193619505306
-  category_score: 0
-  rank: 4
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 66.33297167738047
-  llm_score: 85
+  score: 78.62472875803533
+  llm_score: 90
   recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 75.63379042925796
+  llm_score: 85
+  recency_score: 35.89193619505306
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 59.79664277835781
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 71.99128882587826
   llm_score: 85
-  recency_score: 1.4832138917890048
+  recency_score: 11.608592172521774
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 59.75030136070714
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 70.47248208376834
   llm_score: 85
-  recency_score: 1.251506803535654
+  recency_score: 1.4832138917890048
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 59.57039853716508
-  llm_score: 85
-  recency_score: 0.3519926858253926
-  category_score: 0
-  rank: 8
 - slug: hell-yea
   title: HELL YEA
-  score: 52.69614026053792
-  llm_score: 75
+  score: 70.39710519540344
+  llm_score: 85
   recency_score: 0.9807013026895641
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 63.91643683315116
+  llm_score: 70
+  recency_score: 22.77624555434108
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: going-down
   title: GOING DOWN
-  score: 46.06940015265796
-  llm_score: 65
+  score: 47.92705011449347
+  llm_score: 50
   recency_score: 2.8470007632897696
+  length_score: 100
   category_score: 0
   rank: 10
 ---

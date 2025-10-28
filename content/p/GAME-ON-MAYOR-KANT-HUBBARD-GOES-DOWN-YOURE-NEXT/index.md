@@ -12,72 +12,82 @@ alttags: Bald eagle head against a blurred American flag background, symbolizing
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 86.17392032634467
+  score: 91.5054402447585
   llm_score: 95
   recency_score: 98.36960163172333
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 82.19474191901476
-  llm_score: 90
-  recency_score: 95.97370959507373
-  category_score: 0
-  rank: 2
 - slug: game-on
   title: GAME ON
-  score: 80.97322154942498
-  llm_score: 90
+  score: 90.22991616206872
+  llm_score: 95
   recency_score: 89.86610774712484
+  length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 75.7405807647737
-  llm_score: 85
+  score: 88.93043557358027
+  llm_score: 95
   recency_score: 81.20290382386844
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: gob-coup
   title: GOB COUP
-  score: 67.18728672756747
+  score: 76.0154650456756
   llm_score: 85
   recency_score: 38.436433637837325
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 72.84059043662747
+  llm_score: 85
+  recency_score: 17.270602910849775
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 61.50792557433364
+  score: 71.75594418075022
   llm_score: 85
   recency_score: 10.039627871668154
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 55.95412058216996
-  llm_score: 75
-  recency_score: 17.270602910849775
+- slug: fear
+  title: FEAR
+  score: 71.61824603497476
+  llm_score: 85
+  recency_score: 9.121640233165
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: skunked
-  title: SKUNKED
-  score: 54.703953562668815
-  llm_score: 75
-  recency_score: 11.019767813344055
-  category_score: 0
-  rank: 8
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 52.79502178361366
-  llm_score: 75
+  score: 70.47126633771025
+  llm_score: 85
   recency_score: 1.4751089180682964
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: skunked
+  title: SKUNKED
+  score: 65.40296517200161
+  llm_score: 75
+  recency_score: 11.019767813344055
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: quarterback-sneak
   title: QUARTERBACK SNEAK
-  score: 52.70325197320485
+  score: 63.902438979903636
   llm_score: 75
   recency_score: 1.0162598660242268
+  length_score: 100
   category_score: 0
   rank: 10
 ---

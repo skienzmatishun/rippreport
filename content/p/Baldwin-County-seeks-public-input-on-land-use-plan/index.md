@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Baldwin County seeks public input on land use planning; megaphone graphic represents outreach efforts
 related_articles:
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 61.38299338510879
-  llm_score: 82
-  recency_score: 19.91496692554393
+- slug: baldwin-county
+  title: BALDWIN COUNTY
+  score: 67.60413304823841
+  llm_score: 75
+  recency_score: 25.694220321589416
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 61.06484545462026
-  llm_score: 85
+  score: 64.92363409096518
+  llm_score: 75
   recency_score: 7.82422727310126
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: newsletter
-  title: NEWSLETTER
-  score: 60.037564738447195
-  llm_score: 85
-  recency_score: 2.6878236922359457
-  category_score: 0
-  rank: 3
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 57.95249614536118
-  llm_score: 82
+  score: 64.16437210902089
+  llm_score: 75
   recency_score: 2.76248072680588
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: newsletter
+  title: NEWSLETTER
+  score: 64.15317355383539
+  llm_score: 75
+  recency_score: 2.6878236922359457
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 57.638844064317894
-  llm_score: 75
-  recency_score: 25.694220321589416
-  category_score: 0
-  rank: 5
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 53.04348825722242
-  llm_score: 75
-  recency_score: 2.71744128611208
-  category_score: 0
-  rank: 6
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 49.59982517482572
-  llm_score: 70
-  recency_score: 2.999125874128549
-  category_score: 0
-  rank: 7
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 49.18875952565575
-  llm_score: 70
+  score: 63.891569644241805
+  llm_score: 75
   recency_score: 0.9437976282786975
+  length_score: 100
   category_score: 0
-  rank: 8
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 45.855437905614046
-  llm_score: 65
-  recency_score: 1.7771895280701993
+  rank: 5
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 63.48724503883159
+  llm_score: 70
+  recency_score: 19.91496692554393
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 43.921808212384576
-  llm_score: 60
+  score: 61.94135615928843
+  llm_score: 70
   recency_score: 9.609041061922857
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 60.90761619291681
+  llm_score: 70
+  recency_score: 2.71744128611208
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 57.69986888111928
+  llm_score: 65
+  recency_score: 2.999125874128549
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 54.26657842921053
+  llm_score: 60
+  recency_score: 1.7771895280701993
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -18,63 +18,83 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 96.82943663570212
+  score: 97.4635493085617
   llm_score: 100
   recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 2
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 3
-- slug: earful
-  title: EARFUL
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 4
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 85.50315362704151
-  llm_score: 100
+  score: 85.20252290163322
+  llm_score: 95
   recency_score: 27.51576813520753
-  rank: 5
-- slug: innocent
-  title: INNOCENT
-  score: 80.63709081368816
-  llm_score: 100
-  recency_score: 3.1854540684407837
-  rank: 6
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 79.7193186493482
+  score: 83.77545491947856
   llm_score: 95
   recency_score: 18.596593246741016
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: rule-32
   title: RULE 32
-  score: 79.30597776443173
+  score: 83.44478221154539
   llm_score: 95
   recency_score: 16.529888822158654
-  rank: 8
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 79.24317955054237
-  llm_score: 95
-  recency_score: 16.215897752711804
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 77.00395926891434
+  score: 81.60316741513148
   llm_score: 95
   recency_score: 5.0197963445716995
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.6
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 74.4
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 72.19454364043389
+  llm_score: 90
+  recency_score: 16.215897752711804
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: innocent
+  title: INNOCENT
+  score: 66.90967265095053
+  llm_score: 85
+  recency_score: 3.1854540684407837
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 61.90374233499416
+  llm_score: 75
+  recency_score: 11.898389593713517
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 FOR IMMEDIATE RELEASE

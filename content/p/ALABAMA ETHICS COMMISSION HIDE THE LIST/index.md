@@ -13,72 +13,82 @@ authors:
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS
-  score: 86.06641283325074
-  llm_score: 95
+  score: 88.17480962493805
+  llm_score: 90
   recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 67.38383562381887
-  llm_score: 90
-  recency_score: 21.919178119094283
-  category_score: 0
-  rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 65.34730185126139
-  llm_score: 90
-  recency_score: 11.736509256306908
-  category_score: 0
-  rank: 3
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 62.418110313304176
-  llm_score: 75
-  recency_score: 49.59055156652082
-  category_score: 0
-  rank: 4
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 61.58643798993655
-  llm_score: 85
-  recency_score: 10.432189949682714
-  category_score: 0
-  rank: 5
 - slug: striking-oil
   title: STRIKING OIL
-  score: 61.11272299947795
-  llm_score: 85
+  score: 77.95954224960846
+  llm_score: 95
   recency_score: 8.063614997389708
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 61.07344348499708
+  rank: 2
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 77.68858273497813
   llm_score: 85
-  recency_score: 7.867217424985351
+  recency_score: 49.59055156652082
+  length_score: 100
   category_score: 0
-  rank: 7
+  rank: 3
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 50.5777601996732
-  llm_score: 70
+  score: 74.68332014975489
+  llm_score: 90
   recency_score: 7.888800998365954
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 74.54542579310765
+  llm_score: 70
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 73.53787671786415
+  llm_score: 85
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 72.01047638844604
+  llm_score: 85
+  recency_score: 11.736509256306908
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 71.8148284924524
+  llm_score: 85
+  recency_score: 10.432189949682714
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 47.56369774772801
-  llm_score: 65
+  score: 71.797773310796
+  llm_score: 85
   recency_score: 10.318488738640012
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 39.93738598014521
-  llm_score: 57
-  recency_score: 0.1869299007260029
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 71.4300826137478
+  llm_score: 85
+  recency_score: 7.867217424985351
+  length_score: 100
   category_score: 0
   rank: 10
 ---

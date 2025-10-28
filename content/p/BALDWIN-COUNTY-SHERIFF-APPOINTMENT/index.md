@@ -18,72 +18,82 @@ alttags: Baldwin County Sheriffs Office seal, mailbox, phone, and envelope sugge
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 84.82789538259509
-  llm_score: 93
+  score: 90.04592153694631
+  llm_score: 85
   recency_score: 98.63947691297537
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 83.10625209818193
-  llm_score: 91
+  score: 89.80468907363644
+  llm_score: 85
   recency_score: 97.03126049090956
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 82.68553700495829
-  llm_score: 91
+  score: 89.48915275371871
+  llm_score: 85
   recency_score: 94.92768502479139
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.27111348555952
-  llm_score: 90
+  score: 88.95333511416963
+  llm_score: 85
   recency_score: 91.35556742779755
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 4
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 80.12610187044024
-  llm_score: 89
+  score: 88.61957640283018
+  llm_score: 85
   recency_score: 89.13050935220119
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 74.77749588022975
-  llm_score: 95
-  recency_score: 41.38747940114875
-  category_score: 0
-  rank: 6
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 73.4843887437238
-  llm_score: 95
-  recency_score: 34.921943718618955
-  category_score: 0
-  rank: 7
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 67.48249514970657
-  llm_score: 82
+  score: 82.81187136227992
+  llm_score: 85
   recency_score: 50.412475748532785
-  category_score: 0
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 65.97762382000342
-  llm_score: 82
+  score: 81.68321786500256
+  llm_score: 85
   recency_score: 42.88811910001705
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 81.45812191017231
+  llm_score: 85
+  recency_score: 41.38747940114875
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 80.48829155779285
+  llm_score: 85
+  recency_score: 34.921943718618955
+  length_score: 100
+  category_score: 100
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 65.72522126241883
+  score: 74.91891594681411
   llm_score: 85
   recency_score: 31.126106312094088
+  length_score: 100
   category_score: 0
   rank: 10
 ---

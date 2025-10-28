@@ -9,65 +9,85 @@ summary: Hey Bay Minette Harry Still is not crazy. He just knows too much.
 authors:
 - admin
 related_articles:
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 81.5637938281211
-  llm_score: 95
-  recency_score: 27.818969140605503
-  rank: 1
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 81.02059909998718
-  llm_score: 100
-  recency_score: 5.102995499935887
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 75.27891670661879
-  llm_score: 90
-  recency_score: 16.39458353309393
-  rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 74.69191496030062
-  llm_score: 90
-  recency_score: 13.459574801503088
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 72.3869448100167
-  llm_score: 90
-  recency_score: 1.9347240500835032
-  rank: 5
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 65.87716639008053
-  llm_score: 75
+  score: 79.10173311206442
+  llm_score: 85
   recency_score: 29.385831950402675
-  rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 61.09295272799745
-  llm_score: 75
-  recency_score: 5.464763639987247
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 79.0377649475845
+  llm_score: 85
+  recency_score: 28.986030922403184
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 78.85103506249688
+  llm_score: 85
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 77.02313336529502
+  llm_score: 85
+  recency_score: 16.39458353309393
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 76.55353196824049
+  llm_score: 85
+  recency_score: 13.459574801503088
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 61.031845257888484
-  llm_score: 75
+  score: 75.22547620631079
+  llm_score: 85
   recency_score: 5.159226289442438
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 74.70955584801337
+  llm_score: 85
+  recency_score: 1.9347240500835032
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 74.414041087275
+  llm_score: 85
+  recency_score: 0.0877567954687319
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 60.99301704247256
-  llm_score: 75
-  recency_score: 4.965085212362791
-  rank: 9
 - slug: police-report
   title: POLICE REPORT
-  score: 56.01341855213961
-  llm_score: 70
+  score: 74.41073484171169
+  llm_score: 85
   recency_score: 0.06709276069805299
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 73.61647927998975
+  llm_score: 95
+  recency_score: 5.102995499935887
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Hey Bay Minette Harry Still is not crazy. He just knows too much.
