@@ -9,72 +9,82 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 85.43359302371175
-  llm_score: 95
+  score: 90.32118001756427
+  llm_score: 85
   recency_score: 94.66796511855877
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.27733007636273
-  llm_score: 95
-  recency_score: 88.88665038181365
-  category_score: 0
-  rank: 2
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 74.4
-  llm_score: 92
-  recency_score: 50
-  category_score: 0
-  rank: 3
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 69.50000000000001
+  score: 89.46468894545387
   llm_score: 85
-  recency_score: 50
-  category_score: 0
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: rule-32
+  title: RULE 32
+  score: 79.05134714766535
+  llm_score: 85
+  recency_score: 18.596593246741016
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 77.13295009001524
+  llm_score: 85
+  recency_score: 5.647413107602894
+  length_score: 100
+  category_score: 100
   rank: 4
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 65.69120374477231
-  llm_score: 85
+  score: 74.95644721834987
+  llm_score: 75
   recency_score: 30.95601872386148
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 5
-- slug: innocent
-  title: INNOCENT
-  score: 63.71674521534059
-  llm_score: 90
-  recency_score: 3.583726076702889
-  category_score: 0
-  rank: 6
 - slug: no-justice
   title: NO JUSTICE
-  score: 63.68433885557824
-  llm_score: 85
+  score: 73.46988063376166
+  llm_score: 75
   recency_score: 20.921694277891152
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 68.8888888888889
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 62.50000000000001
-  llm_score: 75
-  recency_score: 50
-  category_score: 0
-  rank: 8
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 60.62948262152059
-  llm_score: 85
-  recency_score: 5.647413107602894
-  category_score: 0
-  rank: 9
 - slug: but-i-didnt-do-it
   title: But, I Didn’t Do It…
-  score: 55.1772050791888
-  llm_score: 75
+  score: 63.46459635495467
+  llm_score: 85
   recency_score: 13.386025395943985
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 62.962962962962976
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: innocent
+  title: INNOCENT
+  score: 62.01240386321525
+  llm_score: 85
+  recency_score: 3.583726076702889
+  length_score: 100
   category_score: 0
   rank: 10
 ---
