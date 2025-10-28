@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: 'Hoss Macks rise: Silhouette against Alabama capitol building, highlighting his career built on suppression and statewide ...'
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 83.64527980108477
-  llm_score: 95
-  recency_score: 38.22639900542388
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 89.17920664248439
+  llm_score: 85
+  recency_score: 86.95964483676948
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 82.9843887437238
+  score: 87.3958435138695
   llm_score: 95
   recency_score: 34.921943718618955
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 82.6301185475491
-  llm_score: 95
-  recency_score: 33.15059273774551
-  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 82.22522126241881
+  score: 86.83349723142135
   llm_score: 95
   recency_score: 31.126106312094088
-  rank: 4
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 81.97457577604462
-  llm_score: 95
-  recency_score: 29.872878880223098
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 79.521003281613
-  llm_score: 95
-  recency_score: 17.605016408065044
-  rank: 6
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 79.08072362334784
-  llm_score: 90
-  recency_score: 35.40361811673922
-  rank: 7
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 78.89066245260483
-  llm_score: 95
-  recency_score: 14.453312263024177
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 76.59547296281646
-  llm_score: 92
+  score: 84.44109108356776
+  llm_score: 95
   recency_score: 14.977364814082216
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 84.36345366859618
+  llm_score: 95
+  recency_score: 14.453312263024177
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 81.95946651932206
+  llm_score: 85
+  recency_score: 38.22639900542388
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 74.77704043562039
+  score: 81.31632624860771
   llm_score: 85
   recency_score: 33.88520217810198
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 81.20749522040674
+  llm_score: 85
+  recency_score: 33.15059273774551
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 78.90444687526889
+  llm_score: 85
+  recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 74.68600138551129
+  llm_score: 85
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 > Baldwin County may not always make headlines, but it has quietly become one of the most politically influential regions in Alabama — where power is consolidated, narratives are controlled, and those in charge rarely face consequences. Which is why the recent promotion of former Baldwin County Sheriff Hoss Mack should give every Alabamian pause...

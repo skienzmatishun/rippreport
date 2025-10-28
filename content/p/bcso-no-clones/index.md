@@ -18,79 +18,79 @@ alttags: Sheriff candidates Lowery and Hoss Mack depicted in a grid within an ol
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 93.71324414032952
-  llm_score: 90
+  score: 96.54836891495758
+  llm_score: 95
   recency_score: 97.56439794722424
   length_score: 100
   category_score: 100
   rank: 1
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 92.46377916328908
+  score: 92.17392451572327
   llm_score: 90
   recency_score: 89.13050935220119
   length_score: 100
   category_score: 100
   rank: 2
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 83.87053426845839
-  llm_score: 90
-  recency_score: 31.126106312094088
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 83.73363752538748
-  llm_score: 90
-  recency_score: 30.20205329636546
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.34390876156135
-  llm_score: 85
+  score: 83.70328986777525
+  llm_score: 90
   recency_score: 34.071384140539074
   length_score: 100
   category_score: 100
+  rank: 3
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 80.51529254558906
+  llm_score: 90
+  recency_score: 13.34940154632884
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 80.17324712493756
+  llm_score: 85
+  recency_score: 31.126106312094088
+  length_score: 100
+  category_score: 100
   rank: 5
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 80.03108512251777
+  llm_score: 85
+  recency_score: 30.20205329636546
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 80.67367291265577
+  score: 79.9303526400656
   llm_score: 85
   recency_score: 29.54729216042639
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 7
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 80.40634919962625
+  score: 79.65274724576571
   llm_score: 85
   recency_score: 27.742857097477103
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 8
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.62095419200696
+  score: 77.79868319939185
   llm_score: 85
   recency_score: 15.691440796046965
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 78.27398541427095
-  llm_score: 85
-  recency_score: 13.34940154632884
   length_score: 100
   category_score: 100
   rank: 9
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 78.20478679085892
+  score: 77.3665093597381
   llm_score: 85
   recency_score: 12.882310838297602
   length_score: 100

@@ -10,63 +10,83 @@ authors:
 related_articles:
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 99.67392032634467
-  llm_score: 100
+  score: 81.98068172321828
+  llm_score: 95
   recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 93.05949281133081
-  llm_score: 92
+  score: 81.82184652691171
+  llm_score: 95
   recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 81.74975319390109
-  llm_score: 95
-  recency_score: 28.748765969505406
-  rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 76.00452205711655
-  llm_score: 95
-  recency_score: 0.022610285582725168
-  rank: 4
-- slug: back-stabber
-  title: BACK STABBER
-  score: 73.61937069825693
-  llm_score: 92
-  recency_score: 0.09685349128460453
-  rank: 5
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 70.16802033974548
-  llm_score: 85
+  score: 69.01334839981148
+  llm_score: 95
   recency_score: 10.840101698727413
-  rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 68.02068719582687
-  llm_score: 85
-  recency_score: 0.10343597913435872
-  rank: 7
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 60.23760528730483
-  llm_score: 75
-  recency_score: 1.1880264365241602
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.70352088437119
+  llm_score: 90
+  recency_score: 28.748765969505406
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 60.022336615409586
-  llm_score: 75
+  score: 61.49802712252562
+  llm_score: 85
   recency_score: 0.11168307704791358
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: people-power
   title: PEOPLE POWER
-  score: 60.003201954885945
-  llm_score: 75
+  score: 61.48385329991552
+  llm_score: 85
   recency_score: 0.016009774429724236
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 55.73155947207766
+  llm_score: 75
+  recency_score: 1.1880264365241602
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 55.603851884999706
+  llm_score: 75
+  recency_score: 0.3260002237479753
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 55.58775264668166
+  llm_score: 75
+  recency_score: 0.21733036510113413
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-voters-important-notice
+  title: FAIRHOPE VOTERS IMPORTANT NOTICE
+  score: 33.7053785396728
+  llm_score: 95
+  recency_score: 0.022610285582725168
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Are you aware that the Fairhope City Council has ignored repeated concerns from their constituents?  Please watch this video before you vote!  Make your voice heard at the ballot box on August 26, 2025.

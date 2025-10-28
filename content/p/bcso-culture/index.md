@@ -19,55 +19,55 @@ alttags: A skull sits atop scales of justice, symbolizing a flawed legal system 
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.22096900874118
+  score: 80.49869858600047
   llm_score: 85
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
   rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 80.79525899671225
-  llm_score: 85
-  recency_score: 30.367998227807558
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.66169651352575
+  score: 79.91791561019981
   llm_score: 85
   recency_score: 29.466451466298754
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 80.56705743793
+  score: 79.81963657015807
   llm_score: 85
   recency_score: 28.827637706027392
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 80.30624466674257
+  score: 79.54879253854035
   llm_score: 85
   recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 78.15830355719632
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 77.73988611413975
   llm_score: 85
-  recency_score: 12.568549011075072
+  recency_score: 15.30925974190835
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 77.38834819203588
+  llm_score: 85
+  recency_score: 13.024263248233176
   length_score: 100
   category_score: 100
   rank: 6
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 77.01002737274125
+  score: 76.12579765630822
   llm_score: 85
   recency_score: 4.817684766003371
   length_score: 100
@@ -75,25 +75,25 @@ related_articles:
   rank: 7
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 76.56394741323138
+  score: 75.66256077527872
   llm_score: 85
   recency_score: 1.8066450393116897
   length_score: 100
   category_score: 100
   rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 75.00877922102347
-  llm_score: 79
-  recency_score: 15.30925974190835
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 73.90276895812426
+  llm_score: 75
+  recency_score: 30.367998227807558
   length_score: 100
   category_score: 100
   rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 74.67026122196049
-  llm_score: 79
-  recency_score: 13.024263248233176
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 71.16439215555002
+  llm_score: 75
+  recency_score: 12.568549011075072
   length_score: 100
   category_score: 100
   rank: 10

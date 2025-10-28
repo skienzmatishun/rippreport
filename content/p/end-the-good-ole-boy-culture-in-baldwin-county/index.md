@@ -24,7 +24,7 @@ alttags: Railway tracks diverging, symbolizing choices in Baldwin County politic
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 82.14126715200887
+  score: 85.30054665785535
   llm_score: 95
   recency_score: 99.45355327605971
   length_score: 100
@@ -32,73 +32,73 @@ related_articles:
   rank: 1
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 76.21534122608293
+  score: 79.14670050400919
   llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 2
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 64.83730155654412
-  llm_score: 85
-  recency_score: 22.65178550667279
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: vote-smart
-  title: VOTE SMART
-  score: 64.68458705782193
-  llm_score: 85
-  recency_score: 21.62096264029795
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: win-for-baldwin
-  title: WIN FOR BALDWIN
-  score: 62.0987479252897
-  llm_score: 85
-  recency_score: 4.16654849570544
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: last-chance
   title: LAST CHANCE
-  score: 62.05004269761239
+  score: 64.43658280136673
   llm_score: 85
   recency_score: 3.837788208883614
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 61.58379486538356
+  rank: 3
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 63.93654414849883
   llm_score: 85
-  recency_score: 0.6906153413389834
+  recency_score: 0.587536965242325
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 63.86264406031275
+  llm_score: 85
+  recency_score: 0.10718639203280696
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 57.699656572491
+  llm_score: 75
+  recency_score: 0.047767721191407035
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 54.6415851763732
+  llm_score: 70
+  recency_score: 0.17030364642568946
   length_score: 100
   category_score: 0
   rank: 7
 - slug: missed-the-boat
   title: MISSED THE BOAT
-  score: 61.49248157206942
-  llm_score: 85
+  score: 54.626807786379786
+  llm_score: 70
   recency_score: 0.07425061146854016
   length_score: 100
   category_score: 0
   rank: 8
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 61.48957492420052
-  llm_score: 85
-  recency_score: 0.054630738353439325
+- slug: qualification
+  title: QUALIFICATION
+  score: 54.62306280323275
+  llm_score: 70
+  recency_score: 0.04990822101277993
   length_score: 100
   category_score: 0
   rank: 9
-- slug: say-goodbye-incumbents
-  title: SAY GOODBYE INCUMBENTS
-  score: 61.48746904355549
-  llm_score: 85
-  recency_score: 0.04041604399951511
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 54.61710490584879
+  llm_score: 70
+  recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
   rank: 10

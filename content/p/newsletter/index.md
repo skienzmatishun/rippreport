@@ -10,81 +10,81 @@ alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and informati
 related_articles:
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 69.96999467505987
+  score: 72.66114831640833
   llm_score: 75
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 1
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 61.48927036890509
-  llm_score: 85
-  recency_score: 0.05257499010930886
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 57.77465833835782
+  llm_score: 75
+  recency_score: 0.535279199325722
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 55.58671132361198
-  llm_score: 75
-  recency_score: 0.21030143438080218
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 55.56994358624351
+  score: 57.707249108791345
   llm_score: 75
   recency_score: 0.09711920714364118
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 55.568450142642185
+  score: 57.705698225051506
   llm_score: 75
   recency_score: 0.08703846283467485
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 55.56749795789702
+  rank: 4
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 57.70039615232452
   llm_score: 75
-  recency_score: 0.08061121580480553
+  recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 55.56263225499133
+  score: 57.699656572491
   llm_score: 75
   recency_score: 0.047767721191407035
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 57.693811870316964
+  llm_score: 75
+  recency_score: 0.009777157060142481
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 52.99078869514607
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 54.64773868221244
   llm_score: 70
-  recency_score: 2.6878236922359457
+  recency_score: 0.21030143438080218
   length_score: 100
   category_score: 0
   rank: 8
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 45.56078210360382
-  llm_score: 58
-  recency_score: 0.535279199325722
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 54.62778634089306
+  llm_score: 70
+  recency_score: 0.08061121580480553
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 40.84305412464282
-  llm_score: 50
-  recency_score: 0.6906153413389834
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 51.951972875728615
+  llm_score: 65
+  recency_score: 2.6878236922359457
   length_score: 100
   category_score: 0
   rank: 10
