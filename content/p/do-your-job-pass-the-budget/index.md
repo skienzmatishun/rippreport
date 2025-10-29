@@ -3,7 +3,7 @@ title: DO YOUR JOB, PASS THE BUDGET
 date: 2017-12-18
 thumbnail: img/do-your-job-pass-the-budget.png
 categories:
-- monday-madness
+- citycouncil
 tags:
 - budget
 - burrell

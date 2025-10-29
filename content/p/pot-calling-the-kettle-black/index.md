@@ -3,7 +3,7 @@ title: POT CALLING THE KETTLE BLACK
 date: 2022-02-19
 thumbnail: img/pot-calling-the-kettle-black.png
 categories:
-- freaky-friday
+- alabama
 authors:
 - admin
 alttags: Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics

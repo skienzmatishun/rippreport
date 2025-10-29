@@ -22,20 +22,12 @@ related_articles:
   rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 85.78234199574962
-  llm_score: 85
+  score: 91.93618814959576
+  llm_score: 95
   recency_score: 67.58522297237245
   length_score: 100
   category_score: 100
   rank: 2
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 85.69124560195488
-  llm_score: 95
-  recency_score: 26.993096412706674
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 84.93847356213568
@@ -43,12 +35,20 @@ related_articles:
   recency_score: 22.100078153881906
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 84.39947588411401
   llm_score: 95
   recency_score: 18.596593246741016
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 79.53739944810873
+  llm_score: 85
+  recency_score: 26.993096412706674
   length_score: 100
   category_score: 100
   rank: 5
@@ -60,22 +60,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 73.68947004750551
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 75.22775532255213
   llm_score: 85
-  recency_score: 63.98155530878573
+  recency_score: 73.98040959658876
   length_score: 100
   category_score: 0
   rank: 7
-- slug: innocent
-  title: INNOCENT
-  score: 72.63526684797003
-  llm_score: 95
-  recency_score: 17.129234511805123
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 71.53846153846155
@@ -83,12 +75,20 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 58.04895227758178
+  rank: 8
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 67.53562389365936
   llm_score: 75
-  recency_score: 2.318189804281508
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: innocent
+  title: INNOCENT
+  score: 66.48142069412388
+  llm_score: 85
+  recency_score: 17.129234511805123
   length_score: 100
   category_score: 0
   rank: 10

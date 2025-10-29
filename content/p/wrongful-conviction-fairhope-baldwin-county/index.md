@@ -21,14 +21,22 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 82.87685711847124
-  llm_score: 89
-  recency_score: 32.69957127006297
+- slug: rule-32
+  title: RULE 32
+  score: 84.62680628511107
+  llm_score: 85
+  recency_score: 60.07424085322191
   length_score: 100
   category_score: 100
   rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.49224173385585
+  llm_score: 90
+  recency_score: 32.69957127006297
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 82.6947335592627
@@ -36,7 +44,7 @@ related_articles:
   recency_score: 27.51576813520753
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 81.26820683041159
@@ -44,14 +52,6 @@ related_articles:
   recency_score: 18.243344397675273
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
   rank: 5
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
@@ -61,16 +61,16 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
@@ -87,8 +87,8 @@ related_articles:
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 68.70412789819449
-  llm_score: 90
+  score: 56.39643559050218
+  llm_score: 70
   recency_score: 11.57683133826407
   length_score: 100
   category_score: 0

@@ -3,7 +3,7 @@ title: CONGRESSIONAL CATALYST
 date: 2020-01-22
 thumbnail: img/congressional-catalyst.jpg
 categories:
-- wonderful-wednesday
+- elections
 authors:
 - admin
 alttags: Republican congressional candidate CATALYST speaking, one of five vying for Alabama’s first district seat

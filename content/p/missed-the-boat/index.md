@@ -3,7 +3,7 @@ title: MISSED THE BOAT
 date: 2018-06-13
 thumbnail: img/missed-the-boat.jpg
 categories:
-- wonderful-wednesday
+- elections
 authors:
 - ripp-report
 alttags: Man gazes at a departing ship, symbolizing low voter turnout in Baldwin County and potential political consequences

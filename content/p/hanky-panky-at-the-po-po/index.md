@@ -34,29 +34,29 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.58506760056245
-  llm_score: 95
-  recency_score: 45.8029394036559
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.96781161582308
-  llm_score: 85
+  score: 90.12165776966924
+  llm_score: 95
   recency_score: 55.79077550285001
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 82.68671941257651
-  llm_score: 85
+  score: 88.84056556642265
+  llm_score: 95
   recency_score: 47.463676181747225
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 83.6748692895098
+  llm_score: 95
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
@@ -66,6 +66,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 82.4312214467163
+  llm_score: 85
+  recency_score: 45.8029394036559
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 78.0856691536301
@@ -73,19 +81,11 @@ related_articles:
   recency_score: 17.55684949859567
   length_score: 100
   category_score: 100
-  rank: 8
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 77.52102313566365
-  llm_score: 85
-  recency_score: 88.88665038181365
-  length_score: 100
-  category_score: 0
   rank: 9
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 68.36705106929273
-  llm_score: 85
+  score: 74.52089722313889
+  llm_score: 95
   recency_score: 29.385831950402675
   length_score: 100
   category_score: 0

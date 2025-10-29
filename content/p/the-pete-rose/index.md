@@ -16,6 +16,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 72.6424966564675
+  llm_score: 95
+  recency_score: 17.176228267038702
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: the-mug-shot
   title: The Mugshot
   score: 68.94624503657624
@@ -23,15 +31,23 @@ related_articles:
   recency_score: 33.15059273774551
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 63.940594591375266
-  llm_score: 85
+  score: 60.863671514452186
+  llm_score: 80
   recency_score: 0.6138648439391511
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 58.9330873776945
+  llm_score: 76
+  recency_score: 4.065067955014141
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: im-back-2
   title: I'M BACK
   score: 58.326936923005945
@@ -39,15 +55,15 @@ related_articles:
   recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 57.25788127185212
+  rank: 6
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 57.46076504187381
   llm_score: 70
-  recency_score: 17.176228267038702
+  recency_score: 18.4949727721797
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: bsp-131
   title: Welcome To The Party Pal
   score: 56.320048590189764
@@ -55,7 +71,7 @@ related_articles:
   recency_score: 11.080315836233387
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 8
 - slug: bsp-128
   title: Big News
   score: 56.022563891319344
@@ -63,28 +79,12 @@ related_articles:
   recency_score: 9.146665293575648
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: he-must-go
-  title: He Must Go
-  score: 55.85934421293455
-  llm_score: 70
-  recency_score: 8.08573738407453
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 45.1530727341815
-  llm_score: 50
-  recency_score: 18.4949727721797
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 42.93308737769449
-  llm_score: 50
-  recency_score: 4.065067955014141
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 55.786580725962565
+  llm_score: 70
+  recency_score: 7.612774718756618
   length_score: 100
   category_score: 0
   rank: 10

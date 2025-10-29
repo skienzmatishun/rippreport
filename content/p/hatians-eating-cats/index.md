@@ -9,6 +9,14 @@ authors:
 rumble: v5dblkt
 alttags: Provocative illustration depicting a muscular figure labeled Haiti feeding a kitten to a plate, referencing false claims...
 related_articles:
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 82.4244881871044
+  llm_score: 95
+  recency_score: 80.75917321617852
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
   score: 78.09471144302694
@@ -16,7 +24,7 @@ related_articles:
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
-  rank: 1
+  rank: 2
 - slug: the-pete-rose
   title: The Pete Rose
   score: 74.34415565975935
@@ -24,44 +32,36 @@ related_articles:
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 63.94428734330465
-  llm_score: 85
-  recency_score: 0.6378677314801207
-  length_score: 100
-  category_score: 0
   rank: 3
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 63.290306090628604
-  llm_score: 75
+  score: 69.44415224447475
+  llm_score: 85
   recency_score: 36.386989589085836
   length_score: 100
   category_score: 0
   rank: 4
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 57.36120621495452
-  llm_score: 70
+  score: 62.28428313803145
+  llm_score: 78
   recency_score: 17.84784039720432
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bsp-128
-  title: Big News
-  score: 56.07758637101292
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 54.775635357443846
   llm_score: 70
-  recency_score: 9.504311411583915
+  recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 54.73218049479671
-  llm_score: 50
-  recency_score: 80.75917321617852
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 51.63659503561234
+  llm_score: 65
+  recency_score: 0.6378677314801207
   length_score: 100
   category_score: 0
   rank: 7
@@ -81,11 +81,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 42.46794304975153
+- slug: bsp-128
+  title: Big News
+  score: 43.76989406332061
   llm_score: 50
-  recency_score: 1.0416298233849144
+  recency_score: 9.504311411583915
   length_score: 100
   category_score: 0
   rank: 10

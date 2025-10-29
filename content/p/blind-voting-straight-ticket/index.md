@@ -3,7 +3,7 @@ title: BLIND VOTING STRAIGHT TICKET
 date: 2018-11-09
 thumbnail: img/blind-voting-straight-ticket.jpg
 categories:
-- freaky-friday
+- elections
 authors:
 - ripp-report
 alttags: Blindfold representing Alabama’s straight ticket voting system, which encourages uninformed choices based on party affilia...

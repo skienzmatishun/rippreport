@@ -3,7 +3,7 @@ title: BLIND LEADING THE BLIND
 date: 2019-09-18
 thumbnail: img/blind-leading-the-blind.jpg
 categories:
-- wonderful-wednesday
+- citycouncil
 authors:
 - admin
 alttags: Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts

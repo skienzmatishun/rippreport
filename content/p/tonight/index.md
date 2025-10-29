@@ -3,7 +3,7 @@ title: TONIGHT
 date: 2019-10-23
 thumbnail: img/tonight.jpg
 categories:
-- event
+- holiday
 authors:
 - admin
 alttags: Night sky filled with stars, evoking a sense of wonder related to the Frank Brown Songwriters Festival documentary

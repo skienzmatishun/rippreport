@@ -37,14 +37,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 95.40194674487077
-  llm_score: 95
-  recency_score: 90.11265384166002
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 94.88026543084163
@@ -52,43 +44,51 @@ related_articles:
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 88.48919689823589
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 89.7086444495362
   llm_score: 95
-  recency_score: 45.179779838533264
+  recency_score: 53.10618892198522
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 86.63855272888394
+  llm_score: 95
+  recency_score: 33.15059273774551
   length_score: 100
   category_score: 100
   rank: 6
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 88.24599319436442
-  llm_score: 95
+  score: 84.55368550205672
+  llm_score: 89
   recency_score: 43.598955763368686
   length_score: 100
   category_score: 100
   rank: 7
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 85.97348272400421
-  llm_score: 95
-  recency_score: 28.827637706027392
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 82.33535074438974
+  llm_score: 85
+  recency_score: 45.179779838533264
   length_score: 100
   category_score: 100
   rank: 8
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.50262444871355
-  llm_score: 95
-  recency_score: 6.267058916638003
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 79.81963657015807
+  llm_score: 85
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 100
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 74.54573725545022
-  llm_score: 95
+  score: 62.23804494775792
+  llm_score: 75
   recency_score: 29.54729216042639
   length_score: 100
   category_score: 0

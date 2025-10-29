@@ -11,7 +11,7 @@ tags:
 - K1 Center
 - Matt Bowers
 categories:
-- wonderful-wednesday
+- citycouncil
 authors:
 - ripp-report
 alttags: Fairhope’s iconic downtown clock tower and patio, a popular tourist attraction and central landmark in the city

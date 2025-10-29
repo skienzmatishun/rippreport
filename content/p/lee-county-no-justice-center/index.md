@@ -19,6 +19,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: cameras
+  title: CAMERAS
+  score: 78.66566222337535
+  llm_score: 85
+  recency_score: 21.326804451939722
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 72.792883663955
@@ -26,7 +34,7 @@ related_articles:
   recency_score: 23.153743815707337
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: lethal-force
   title: LETHAL FORCE
   score: 72.65884171775178
@@ -34,28 +42,20 @@ related_articles:
   recency_score: 22.28247116538646
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: cameras
-  title: CAMERAS
-  score: 72.5118160695292
+  rank: 4
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 69.9421093517739
   llm_score: 75
-  recency_score: 21.326804451939722
+  recency_score: 4.623710786530182
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 5
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
   score: 69.27824888893912
   llm_score: 75
   recency_score: 0.30861777810415675
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: police-report
-  title: POLICE REPORT
-  score: 69.27709247341008
-  llm_score: 75
-  recency_score: 0.301101077165421
   length_score: 100
   category_score: 100
   rank: 6

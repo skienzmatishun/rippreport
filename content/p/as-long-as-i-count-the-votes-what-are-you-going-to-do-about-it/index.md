@@ -3,7 +3,7 @@ title: As long as I count the Votes, what are you going to do about it?
 date: 2016-08-05
 thumbnail: img/as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it.jpg
 categories:
-- freaky-friday
+- elections
 tags:
 - kant
 authors:

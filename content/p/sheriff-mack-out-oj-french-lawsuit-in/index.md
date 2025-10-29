@@ -11,8 +11,8 @@ alttags: Podcast cover art featuring a vintage photo of an Indigenous man and te
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 84.57329267072092
-  llm_score: 75
+  score: 90.72713882456708
+  llm_score: 85
   recency_score: 99.72640235968593
   length_score: 100
   category_score: 100
@@ -35,28 +35,36 @@ related_articles:
   rank: 3
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 81.64810747881872
-  llm_score: 85
+  score: 75.49426132497257
+  llm_score: 75
   recency_score: 40.71269861232158
   length_score: 100
   category_score: 100
   rank: 4
+- slug: justified
+  title: JUSTIFIED
+  score: 72.31257371103135
+  llm_score: 85
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: rumors
   title: RUMORS
-  score: 76.6969059726398
-  llm_score: 83
+  score: 71.77382904956288
+  llm_score: 75
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 76.28495057134133
-  llm_score: 85
+  score: 70.13110441749518
+  llm_score: 75
   recency_score: 5.8521787137186125
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 7
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
   score: 69.2716073703641
@@ -64,28 +72,20 @@ related_articles:
   recency_score: 0.265447907366482
   length_score: 100
   category_score: 100
-  rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 63.081804480262115
-  llm_score: 70
-  recency_score: 55.031729121703655
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 62.778445153579234
-  llm_score: 75
-  recency_score: 33.05989349826491
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
   score: 60.06701658482296
   llm_score: 75
   recency_score: 15.435607801349112
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 56.624598999733074
+  llm_score: 65
+  recency_score: 33.05989349826491
   length_score: 100
   category_score: 0
   rank: 10

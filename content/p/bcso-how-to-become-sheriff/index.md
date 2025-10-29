@@ -16,25 +16,25 @@ alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear 
 related_articles:
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 93.51262525634672
-  llm_score: 90
+  score: 96.5895483332698
+  llm_score: 95
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 100
   rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90.31250161398609
-  llm_score: 85
-  recency_score: 97.03126049090956
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 95.67038766702034
+  llm_score: 95
+  recency_score: 91.85751983563217
   length_score: 100
   category_score: 100
   rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 89.51654151317419
-  llm_score: 85
-  recency_score: 91.85751983563217
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 93.38942469090917
+  llm_score: 90
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
   rank: 3
@@ -46,11 +46,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 83.67464648893878
-  llm_score: 90
-  recency_score: 33.88520217810198
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 83.37767397267824
+  llm_score: 85
+  recency_score: 51.95488082240847
   length_score: 100
   category_score: 100
   rank: 5
@@ -70,19 +70,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 80.5977234120157
+  llm_score: 85
+  recency_score: 33.88520217810198
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: bcso-culture
   title: BCSO CULTURE
   score: 79.91791561019981
   llm_score: 85
   recency_score: 29.466451466298754
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 77.22382781883208
-  llm_score: 75
-  recency_score: 51.95488082240847
   length_score: 100
   category_score: 100
   rank: 9

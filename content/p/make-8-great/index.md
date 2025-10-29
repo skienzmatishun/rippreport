@@ -6,7 +6,7 @@ tags:
 - Elections
 - Zoning
 categories:
-- freaky-friday
+- elections
 authors:
 - admin
 alttags: Map highlighting proposed Planning District 8, potentially avoiding annexation issues faced by Fairhope’s African American...

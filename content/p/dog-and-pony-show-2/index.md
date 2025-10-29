@@ -4,7 +4,7 @@ date: 2019-05-10
 thumbnail: img/dog-and-pony-show-follow-up.jpg
 summary: Jack uses 'special meetings' to eliminate public participation and by passing council meetings. Monday night is a council meeting however Jack did not want any public input. Today’s “special” meeting, May 10 @ 3;30, was a true dog and pony show. Capt. Jack of course commanded the meeting with his typical bulling style. Jack wants to be Mayor and he says he needs to have all the finance people close to each other so he can find them.
 categories:
-- follow-up
+- citycouncil
 tags:
 - burrell
 - catalyst

@@ -22,12 +22,36 @@ related_articles:
   rank: 1
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 71.34596399530854
-  llm_score: 90
+  score: 74.42288707223162
+  llm_score: 95
   recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
   rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 70.05535273262169
+  llm_score: 95
+  recency_score: 0.35979276204090305
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 69.64712615717185
+  llm_score: 85
+  recency_score: 37.70632002161693
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 68.76779469954123
+  llm_score: 85
+  recency_score: 31.990665547017855
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
   score: 68.1495108055248
@@ -35,31 +59,15 @@ related_articles:
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.90150657877554
-  llm_score: 85
-  recency_score: 0.35979276204090305
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 62.613948545695074
-  llm_score: 75
-  recency_score: 31.990665547017855
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 60.41635692640262
-  llm_score: 70
-  recency_score: 37.70632002161693
-  length_score: 100
-  category_score: 0
   rank: 6
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 63.962456023507336
+  llm_score: 85
+  recency_score: 0.7559641527975924
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
   score: 58.32806819110848
@@ -67,28 +75,20 @@ related_articles:
   recency_score: 4.13244324220501
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 57.75207377712592
-  llm_score: 75
-  recency_score: 0.3884795513184073
-  length_score: 100
-  category_score: 0
   rank: 8
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 54.814359395297956
-  llm_score: 70
+  score: 57.275897856836416
+  llm_score: 74
   recency_score: 1.2933360694366538
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 54.7316867927381
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 54.67515070020284
   llm_score: 70
-  recency_score: 0.7559641527975924
+  recency_score: 0.3884795513184073
   length_score: 100
   category_score: 0
   rank: 10

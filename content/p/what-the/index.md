@@ -10,6 +10,14 @@ authors:
 rumble: v4kazef
 alttags: Senator Katie Britt appears on the Backstory Podcast discussing a bizarre Alabama love triangle story
 related_articles:
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 67.28045019096855
+  llm_score: 70
+  recency_score: 82.32292624129552
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
   score: 64.84358686151305
@@ -17,7 +25,7 @@ related_articles:
   recency_score: 66.48331459983474
   length_score: 100
   category_score: 0
-  rank: 1
+  rank: 2
 - slug: fire-albritton
   title: FIRE ALBRITTON
   score: 63.12832315401752
@@ -25,20 +33,12 @@ related_articles:
   recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 62.58657438376161
-  llm_score: 70
+  score: 59.50965130683853
+  llm_score: 65
   recency_score: 51.81273349445037
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 59.211683375795005
-  llm_score: 75
-  recency_score: 9.87594194266743
   length_score: 100
   category_score: 0
   rank: 4
@@ -50,22 +50,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 57.33873031150187
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 56.134760298871925
   llm_score: 70
-  recency_score: 17.701747024762053
+  recency_score: 9.87594194266743
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 56.4711542658775
-  llm_score: 70
-  recency_score: 12.0625027282037
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: threesome
   title: THREESOME
   score: 53.424989103593425
@@ -73,20 +65,28 @@ related_articles:
   recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 49.5462490520607
-  llm_score: 60
+  score: 52.623172128983775
+  llm_score: 65
   recency_score: 7.050618838394492
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 43.183695612386394
+  rank: 8
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 45.031038003809556
   llm_score: 50
-  recency_score: 5.694021480511523
+  recency_score: 17.701747024762053
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 44.163461958185195
+  llm_score: 50
+  recency_score: 12.0625027282037
   length_score: 100
   category_score: 0
   rank: 10

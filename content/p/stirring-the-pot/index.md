@@ -3,7 +3,7 @@ title: STIRRING THE POT
 date: 2017-06-28
 thumbnail: img/stirring-the-pot.gif
 categories:
-- wonderful-wednesday
+- alabama
 tags:
 - burrell
 - fairhope-airport

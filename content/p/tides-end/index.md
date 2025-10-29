@@ -18,14 +18,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 65.17465710679586
-  llm_score: 85
-  recency_score: 8.635271194173066
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bad-faith
   title: Bad Faith
   score: 62.521326265797605
@@ -33,7 +25,7 @@ related_articles:
   recency_score: 51.388620727684355
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
   score: 61.12378712893397
@@ -41,52 +33,60 @@ related_articles:
   recency_score: 42.3046163380707
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 56.72040870948249
-  llm_score: 70
-  recency_score: 13.682656611636107
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 56.501912180516506
-  llm_score: 70
-  recency_score: 12.262429173357202
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 55.042499316052485
-  llm_score: 65
-  recency_score: 22.77624555434108
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 3
 - slug: lets-talk-about-the-bama-loss
   title: Let's Talk About The Bama Loss
-  score: 53.156659587195655
-  llm_score: 65
+  score: 56.233582664118735
+  llm_score: 70
   recency_score: 10.518287316771712
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 55.92581328245373
+  llm_score: 70
+  recency_score: 8.517786335949154
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 55.48963947871326
+  llm_score: 68
+  recency_score: 13.682656611636107
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: winner-and-loser
   title: WINNER AND LOSER
-  score: 52.29192832027049
-  llm_score: 65
+  score: 55.36885139719357
+  llm_score: 70
   recency_score: 4.897534081758149
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 43.61812097476142
+  rank: 7
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 52.866964799103556
+  llm_score: 65
+  recency_score: 8.635271194173066
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 45.81173008528325
   llm_score: 50
-  recency_score: 8.517786335949154
+  recency_score: 22.77624555434108
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 44.19421987282419
+  llm_score: 50
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 10

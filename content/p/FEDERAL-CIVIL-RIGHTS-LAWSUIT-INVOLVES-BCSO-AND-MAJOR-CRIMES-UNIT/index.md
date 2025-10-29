@@ -15,38 +15,30 @@ authors:
 - admin
 alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 94.5562499045654
-  llm_score: 93
-  recency_score: 92.61562437967505
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 93.63684260199622
+  llm_score: 90
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 100
   rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90.55991952507314
-  llm_score: 85
-  recency_score: 98.63947691297537
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 92.71009605841155
+  llm_score: 90
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 100
   rank: 2
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 86.11178498111282
-  llm_score: 90
+  score: 89.1887080580359
+  llm_score: 95
   recency_score: 49.72660237723329
   length_score: 100
   category_score: 100
   rank: 3
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 82.26560036302862
-  llm_score: 90
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 81.89301789816473
@@ -54,7 +46,7 @@ related_articles:
   recency_score: 42.3046163380707
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 81.66529125980901
@@ -62,36 +54,44 @@ related_articles:
   recency_score: 40.82439318875856
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 79.18867728610554
+  llm_score: 85
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 79.36434370209922
-  llm_score: 90
-  recency_score: 5.868234063644852
+- slug: rumors
+  title: RUMORS
+  score: 77.93465204353498
+  llm_score: 85
+  recency_score: 16.575238282977313
   length_score: 100
   category_score: 100
   rank: 7
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 75.42556556293182
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 76.28742062517614
   llm_score: 85
-  recency_score: 0.26617615905673986
+  recency_score: 5.868234063644852
   length_score: 100
   category_score: 100
   rank: 8
 - slug: justified
   title: JUSTIFIED
-  score: 75.36633286298503
-  llm_score: 90
+  score: 72.28940978606195
+  llm_score: 85
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
   rank: 9
-- slug: rumors
-  title: RUMORS
-  score: 68.70388281276576
-  llm_score: 70
-  recency_score: 16.575238282977313
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 69.27171940908566
+  llm_score: 75
+  recency_score: 0.26617615905673986
   length_score: 100
   category_score: 100
   rank: 10

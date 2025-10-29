@@ -53,19 +53,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 88.98195739608983
+  llm_score: 95
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: bcso-culture
   title: BCSO CULTURE
   score: 85.5349768271939
   llm_score: 95
   recency_score: 25.977349376760323
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 82.82811124224366
-  llm_score: 85
-  recency_score: 48.38272307458382
   length_score: 100
   category_score: 100
   rank: 7

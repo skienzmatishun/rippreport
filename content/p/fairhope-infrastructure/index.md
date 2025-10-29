@@ -25,27 +25,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 68.03321103692731
-  llm_score: 85
-  recency_score: 27.215871740027474
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 64.12409923681719
-  llm_score: 85
-  recency_score: 1.8066450393116897
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: I-SEE-YOU
   title: I SEE YOU
   score: 63.60560517505191
   llm_score: 75
   recency_score: 38.436433637837325
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 61.879364883081166
+  llm_score: 75
+  recency_score: 27.215871740027474
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: water
+  title: Water
+  score: 60.17342869395149
+  llm_score: 75
+  recency_score: 16.127286510684606
   length_score: 100
   category_score: 0
   rank: 4
@@ -81,19 +81,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 54.93941889629229
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 54.89333000604796
   llm_score: 70
-  recency_score: 2.10622282589978
+  recency_score: 1.8066450393116897
   length_score: 100
   category_score: 0
   rank: 9
-- slug: water
-  title: Water
-  score: 54.01958254010533
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 51.86249581936921
   llm_score: 65
-  recency_score: 16.127286510684606
+  recency_score: 2.10622282589978
   length_score: 100
   category_score: 0
   rank: 10

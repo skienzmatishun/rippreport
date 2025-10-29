@@ -3,7 +3,7 @@ title: CELEBRATION OF LIFE
 date: 2022-09-12
 thumbnail: img/CAROLYN-AMICK.jpg
 categories:
-- none
+- holiday
 authors:
 - admin
 alttags: Carolyn Amick, smiling and wearing sunglasses, is featured in a photo celebrating her life with family and friends

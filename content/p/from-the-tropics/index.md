@@ -2,7 +2,7 @@
 title: FROM THE TROPICS
 date: 2017-12-08
 categories:
-- freaky-friday
+- holiday
 authors:
 - ripp-report
 related_articles:

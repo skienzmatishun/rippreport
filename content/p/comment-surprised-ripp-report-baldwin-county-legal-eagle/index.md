@@ -3,7 +3,7 @@ title: WHO’S RESPONSIBLE?
 date: 2017-05-03
 thumbnail: img/who-is-responsible.gif
 categories:
-- wonderful-wednesday
+- citycouncil
 tags:
 - boone
 - burrell

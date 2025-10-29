@@ -3,7 +3,7 @@ title: FAIRHOPE PETITION
 date: 2019-06-26
 thumbnail: img/fairhope-petition.png
 categories:
-- wonderful-wednesday
+- elections
 authors:
 - admin
 alttags: Petition form with a red pen, representing Fairhope residents urging city council for public participation in land use dec...

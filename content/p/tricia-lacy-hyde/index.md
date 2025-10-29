@@ -3,7 +3,7 @@ title: TRICIA LACY HYDE
 date: 2018-05-16
 thumbnail: img/tricia-lacy-hyde.png
 categories:
-- orbituary
+- holiday
 authors:
 - ripp-report
 alttags: Broken red heart symbolizing loss and remembrance for Tricia Lacy Hyde, October 23, 1972 – May 12, 2018

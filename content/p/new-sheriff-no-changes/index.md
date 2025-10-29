@@ -26,36 +26,28 @@ related_articles:
   rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 92.5162411427381
-  llm_score: 90
+  score: 93.74701037350732
+  llm_score: 92
   recency_score: 91.35556742779755
   length_score: 100
   category_score: 100
   rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 92.09899363135612
-  llm_score: 90
-  recency_score: 88.64345860381478
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 91.80334235391857
-  llm_score: 90
+  score: 93.6494962000724
+  llm_score: 93
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85.54686204222662
-  llm_score: 90
-  recency_score: 46.05460327447295
+  rank: 3
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 93.32976286212535
+  llm_score: 92
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
   score: 84.34252292391137
@@ -63,12 +55,20 @@ related_articles:
   recency_score: 38.22639900542388
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 84.27842563861267
   llm_score: 90
   recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 82.46993896530354
+  llm_score: 85
+  recency_score: 46.05460327447295
   length_score: 100
   category_score: 100
   rank: 7
@@ -90,8 +90,8 @@ related_articles:
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 72.16482832931372
-  llm_score: 90
+  score: 73.39559756008295
+  llm_score: 92
   recency_score: 34.071384140539074
   length_score: 100
   category_score: 0

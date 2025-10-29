@@ -22,6 +22,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 69.36799018385433
+  llm_score: 85
+  recency_score: 35.89193619505306
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 68.82202711084888
+  llm_score: 85
+  recency_score: 32.34317622051765
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
   score: 68.18502661818091
@@ -29,7 +45,7 @@ related_articles:
   recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
   score: 68.16131699006223
@@ -37,15 +53,15 @@ related_articles:
   recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 5
 - slug: pedaling-forward
   title: PEDALING FORWARD
-  score: 67.00610721298295
-  llm_score: 90
+  score: 63.92918413605988
+  llm_score: 85
   recency_score: 0.5396968843891398
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
   score: 63.92805448979649
@@ -53,7 +69,15 @@ related_articles:
   recency_score: 0.5323541836770731
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 62.467837849185024
+  llm_score: 75
+  recency_score: 31.040946019702552
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: all-mouth
   title: ALL MOUTH
   score: 60.38465770325238
@@ -61,36 +85,12 @@ related_articles:
   recency_score: 37.500275071140365
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 60.1372209530851
-  llm_score: 70
-  recency_score: 35.89193619505306
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 59.390914772261944
-  llm_score: 70
-  recency_score: 31.040946019702552
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 56.501912180516506
-  llm_score: 70
-  recency_score: 12.262429173357202
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: going-down
-  title: GOING DOWN
-  score: 54.77259133806657
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 54.97893496785398
   llm_score: 70
-  recency_score: 1.0218436974326381
+  recency_score: 2.363077291050805
   length_score: 100
   category_score: 0
   rank: 10

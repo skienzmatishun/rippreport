@@ -8,7 +8,7 @@ tags:
 - Ethics Commission
 - Mabel Amos Trust
 categories:
-- ethics
+- alabama
 authors:
 - admin
 alttags: Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns...

@@ -3,7 +3,7 @@ title: 'Comment: Are You Surprised at all??????'
 date: 2017-04-30
 thumbnail: img/comment-are-you-surprised-at-all.jpg
 categories:
-- featured-comment
+- citycouncil
 tags:
 - boy-scouts
 - bradley-byrne

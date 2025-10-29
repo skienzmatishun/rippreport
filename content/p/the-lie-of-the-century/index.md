@@ -66,16 +66,16 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: earful
-  title: EARFUL
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 77.69230769230771
   llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
+- slug: earful
+  title: EARFUL
   score: 77.69230769230771
   llm_score: 95
   recency_score: 50

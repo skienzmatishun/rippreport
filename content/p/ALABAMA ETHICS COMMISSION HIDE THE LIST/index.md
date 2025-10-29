@@ -13,8 +13,8 @@ authors:
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS
-  score: 69.66647141019288
-  llm_score: 70
+  score: 81.97416371788519
+  llm_score: 90
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
@@ -27,22 +27,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 65.08670999959843
-  llm_score: 85
-  recency_score: 8.063614997389708
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 65.05649498845929
-  llm_score: 85
-  recency_score: 7.867217424985351
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: hair-on-fire
   title: HAIR ON FIRE
   score: 62.244700241003216
@@ -50,7 +34,7 @@ related_articles:
   recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 57.98756586447605
@@ -58,7 +42,7 @@ related_articles:
   recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 56.421001424047226
@@ -66,7 +50,7 @@ related_articles:
   recency_score: 11.736509256306908
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
   score: 56.220336915335814
@@ -74,7 +58,7 @@ related_articles:
   recency_score: 10.432189949682714
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: this-is-a-test
   title: THIS IS A TEST
   score: 56.202844421329246
@@ -82,12 +66,28 @@ related_articles:
   recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 55.8559407688292
+  llm_score: 70
+  recency_score: 8.063614997389708
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 55.829046307440926
   llm_score: 70
   recency_score: 7.888800998365954
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 55.825725757690066
+  llm_score: 70
+  recency_score: 7.867217424985351
   length_score: 100
   category_score: 0
   rank: 10

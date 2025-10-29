@@ -3,7 +3,7 @@ title: A GENTLEMAN’S RACE - JUDGE OF PROBATE
 date: 2018-05-09
 thumbnail: img/a-gentlemans-race-judge-of-probate.png
 categories:
-- wonderful-wednesday
+- elections
 tags:
 - alan-lipscomb
 - catalyst

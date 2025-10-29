@@ -21,14 +21,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 63.90196340754906
-  llm_score: 85
-  recency_score: 0.3627621490688241
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 70.05001666074284
+  llm_score: 95
+  recency_score: 0.3251082948283822
   length_score: 100
   category_score: 0
   rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 64.30003510381758
+  llm_score: 85
+  recency_score: 2.9502281748141934
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: state-senate-seat-district-32-bombs-away
   title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
   score: 63.89495230008091
@@ -36,23 +44,7 @@ related_articles:
   recency_score: 0.3171899505257979
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 63.89273161146733
-  llm_score: 85
-  recency_score: 0.30275547453758156
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 57.73303409971627
-  llm_score: 75
-  recency_score: 0.2647216481556642
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: shooting-yourself-in-the-foot
   title: SHOOTING YOURSELF IN THE FOOT
   score: 57.25788127185212
@@ -60,15 +52,7 @@ related_articles:
   recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 55.06926587304835
-  llm_score: 70
-  recency_score: 2.9502281748141934
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 5
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
   score: 55.038059267903826
@@ -76,7 +60,7 @@ related_articles:
   recency_score: 2.7473852413747677
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: faux-candidates
   title: FAUX CANDIDATES
   score: 54.99941141052494
@@ -84,12 +68,28 @@ related_articles:
   recency_score: 2.4961741684120615
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
   score: 54.96910988890634
   llm_score: 70
   recency_score: 2.2992142778911093
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 54.67119417677983
+  llm_score: 70
+  recency_score: 0.3627621490688241
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 54.65611102279319
+  llm_score: 70
+  recency_score: 0.2647216481556642
   length_score: 100
   category_score: 0
   rank: 10

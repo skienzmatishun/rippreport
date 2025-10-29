@@ -2,7 +2,7 @@
 title: VACATION TIME
 date: 2019-04-10
 categories:
-- wonderful-wednesday
+- holiday
 authors:
 - admin
 alttags: 'Coastal view in Belize: turquoise water, sandy beach lined with palm trees, and a wooden pier. Author exploring before ret...'

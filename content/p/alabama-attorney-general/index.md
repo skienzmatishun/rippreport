@@ -43,14 +43,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 56.30609507517519
-  llm_score: 70
-  recency_score: 10.989617988638654
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
   score: 56.11820051074742
@@ -58,7 +50,7 @@ related_articles:
   recency_score: 9.768303319858143
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: this-is-a-test
   title: THIS IS A TEST
   score: 56.101821208980375
@@ -66,7 +58,7 @@ related_articles:
   recency_score: 9.661837858372358
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 55.75181096429891
@@ -74,7 +66,7 @@ related_articles:
   recency_score: 7.3867712679428434
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
   score: 55.748701728624376
@@ -82,12 +74,20 @@ related_articles:
   recency_score: 7.366561236058354
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
   score: 54.04337531113388
   llm_score: 69
   recency_score: 0.28193952237011366
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 43.99840276748288
+  llm_score: 50
+  recency_score: 10.989617988638654
   length_score: 100
   category_score: 0
   rank: 10

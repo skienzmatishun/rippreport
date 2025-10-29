@@ -37,14 +37,22 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 85.30054665785535
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 84.56061833888441
   llm_score: 95
-  recency_score: 99.45355327605971
+  recency_score: 19.644019202748584
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 84.08152135725518
+  llm_score: 95
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
   score: 82.80462412241712
@@ -52,23 +60,7 @@ related_articles:
   recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 78.40677218503825
-  llm_score: 85
-  recency_score: 19.644019202748584
-  length_score: 100
-  category_score: 100
   rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 77.92767520340902
-  llm_score: 85
-  recency_score: 16.529888822158654
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 77.69230769230771
@@ -76,7 +68,7 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: innocent
   title: INNOCENT
   score: 72.96474986586873
@@ -84,9 +76,17 @@ related_articles:
   recency_score: 19.270874128146687
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: earful
+  title: EARFUL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
