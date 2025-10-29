@@ -32,22 +32,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 70.01186983134959
-  llm_score: 95
-  recency_score: 0.07715390377225172
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 63.9453686932729
-  llm_score: 85
+  score: 70.09921484711904
+  llm_score: 95
   recency_score: 0.6448965062737357
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
   score: 63.94348407225172
@@ -55,7 +47,7 @@ related_articles:
   recency_score: 0.632646469636104
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: catalyst-players
   title: CATALYST PLAYERS
   score: 63.92390023118421
@@ -63,7 +55,7 @@ related_articles:
   recency_score: 0.5053515026972712
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: shadow-government
   title: SHADOW GOVERNMENT
   score: 63.85921823880727
@@ -71,12 +63,20 @@ related_articles:
   recency_score: 0.08491855224716904
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
   score: 63.85872662725181
   llm_score: 85
   recency_score: 0.08172307713667694
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 63.85802367750344
+  llm_score: 85
+  recency_score: 0.07715390377225172
   length_score: 100
   category_score: 0
   rank: 7
@@ -88,19 +88,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 63.85608739508035
-  llm_score: 85
-  recency_score: 0.06456806802217216
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
   score: 63.855056316164514
   llm_score: 85
   recency_score: 0.05786605506923713
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 57.7022412412342
+  llm_score: 75
+  recency_score: 0.06456806802217216
   length_score: 100
   category_score: 0
   rank: 10

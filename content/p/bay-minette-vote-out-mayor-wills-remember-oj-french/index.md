@@ -25,6 +25,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 80.64074744413882
+  llm_score: 85
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
   score: 79.14670050400919
@@ -32,7 +40,7 @@ related_articles:
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
   score: 79.0630911680524
@@ -40,39 +48,23 @@ related_articles:
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 77.55999595804782
-  llm_score: 85
-  recency_score: 14.139973727310823
-  length_score: 100
-  category_score: 100
   rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 76.94843975183113
-  llm_score: 79
-  recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: rumors
-  title: RUMORS
-  score: 76.26784838685708
-  llm_score: 85
-  recency_score: 5.741014514570984
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 74.34205399212581
-  llm_score: 79
+  score: 78.03436168443349
+  llm_score: 85
   recency_score: 17.223350948817675
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 73.86768826574014
+  llm_score: 79
+  recency_score: 14.139973727310823
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: justified
   title: JUSTIFIED
   score: 73.55554945805729
@@ -80,11 +72,19 @@ related_articles:
   recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: rumors
+  title: RUMORS
+  score: 67.03707915608786
+  llm_score: 70
+  recency_score: 5.741014514570984
+  length_score: 100
+  category_score: 100
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 66.6222321285662
-  llm_score: 85
+  score: 60.46838597472004
+  llm_score: 75
   recency_score: 18.044508835680173
   length_score: 100
   category_score: 0

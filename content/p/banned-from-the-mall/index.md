@@ -3,7 +3,7 @@ title: BANNED FROM THE MALL
 date: 2017-11-17
 thumbnail: img/banned-from-the-mall.png
 categories:
-- freaky-friday
+- alabama
 authors:
 - ripp-report
 alttags: Prohibited symbol representing Alabamas concerning political choices and disregard for ethical standards

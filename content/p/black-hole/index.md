@@ -3,7 +3,7 @@ title: BLACK HOLE
 date: 2017-11-08
 thumbnail: img/black-hole.jpg
 categories:
-- wonderful-wednesday
+- alabama
 tags:
 - moore
 authors:

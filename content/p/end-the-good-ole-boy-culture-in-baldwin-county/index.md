@@ -54,30 +54,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 63.85757701714902
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 63.853502726337155
   llm_score: 85
-  recency_score: 0.07425061146854016
+  recency_score: 0.047767721191407035
   length_score: 100
   category_score: 0
   rank: 5
-- slug: qualification
-  title: QUALIFICATION
-  score: 63.85383203400198
-  llm_score: 85
-  recency_score: 0.04990822101277993
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 63.847874136618024
-  llm_score: 85
-  recency_score: 0.011181888017074006
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: legal-corruption
   title: LEGAL CORRUPTION
   score: 57.71850825329628
@@ -85,20 +69,36 @@ related_articles:
   recency_score: 0.17030364642568946
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
-  score: 54.63187482954352
-  llm_score: 70
+  score: 57.7087979064666
+  llm_score: 75
   recency_score: 0.10718639203280696
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 54.62273349556792
+  rank: 7
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 57.69402798277187
+  llm_score: 75
+  recency_score: 0.011181888017074006
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: qualification
+  title: QUALIFICATION
+  score: 54.62306280323275
   llm_score: 70
-  recency_score: 0.047767721191407035
+  recency_score: 0.04990822101277993
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 52.120857571426264
+  llm_score: 65
+  recency_score: 3.7855742142706434
   length_score: 100
   category_score: 0
   rank: 10

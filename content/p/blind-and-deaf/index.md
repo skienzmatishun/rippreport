@@ -3,7 +3,7 @@ title: BLIND AND DEAF
 date: 2018-01-10
 thumbnail: img/blind-and-deaf.png
 categories:
-- wonderful-wednesday
+- citycouncil
 tags:
 - burrell
 - chucky

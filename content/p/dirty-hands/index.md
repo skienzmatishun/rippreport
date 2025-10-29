@@ -3,7 +3,7 @@ title: DIRTY HANDS
 date: 2019-05-03
 thumbnail: img/dirty-hands.jpg
 categories:
-- freaky-friday
+- citycouncil
 tags:
 - alabama
 - burrell

@@ -72,6 +72,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
+  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
+  score: 68.29025390489441
+  llm_score: 70
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 66.34090734657106
@@ -79,19 +87,11 @@ related_articles:
   recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 59.522829168263634
-  llm_score: 75
-  recency_score: 11.898389593713517
-  length_score: 100
-  category_score: 0
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 55.10545447206783
-  llm_score: 70
+  score: 64.33622370283706
+  llm_score: 85
   recency_score: 3.1854540684407837
   length_score: 100
   category_score: 0

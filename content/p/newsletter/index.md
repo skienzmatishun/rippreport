@@ -18,8 +18,8 @@ related_articles:
   rank: 1
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 63.854242306170676
-  llm_score: 85
+  score: 66.93116538309376
+  llm_score: 90
   recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
@@ -74,17 +74,17 @@ related_articles:
   rank: 8
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
-  score: 51.5399657164708
-  llm_score: 65
+  score: 54.61688879339388
+  llm_score: 70
   recency_score: 0.009777157060142481
   length_score: 100
   category_score: 0
   rank: 9
-- slug: letter-of-concern
-  title: Letter of Concern
-  score: 42.34399196205642
-  llm_score: 50
-  recency_score: 0.23594775336668541
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 54.039734474193715
+  llm_score: 69
+  recency_score: 0.25827408225904297
   length_score: 100
   category_score: 0
   rank: 10

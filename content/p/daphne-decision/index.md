@@ -3,7 +3,7 @@ title: DAPHNE DECISION
 date: 2018-12-07
 thumbnail: img/daphne-decision.jpg
 categories:
-- freaky-friday
+- daphne
 authors:
 - ripp-report
 alttags: Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat

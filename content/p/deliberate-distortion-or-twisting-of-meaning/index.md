@@ -3,7 +3,7 @@ title: DELIBERATE DISTORTION OR TWISTING OF MEANING
 date: 2019-06-14
 thumbnail: img/deliberate-distortion-or-twisting-of-meaning.png
 categories:
-- freaky-friday
+- citycouncil
 authors:
 - admin
 alttags: Fork in the road graphic representing Fairhope City Council’s decision on property management transfer to Weeks Bay

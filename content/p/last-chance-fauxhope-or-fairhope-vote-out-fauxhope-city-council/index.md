@@ -29,8 +29,8 @@ related_articles:
   rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 77.74767328170657
-  llm_score: 85
+  score: 83.90151943555271
+  llm_score: 95
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0

@@ -3,7 +3,7 @@ title: BALLS
 date: 2017-03-27
 thumbnail: img/balls.jpg
 categories:
-- monday-madness
+- citycouncil
 tags:
 - burrell
 - corte

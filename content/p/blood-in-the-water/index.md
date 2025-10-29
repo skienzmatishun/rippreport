@@ -3,7 +3,7 @@ title: BLOOD IN THE WATER
 date: 2017-09-27
 thumbnail: img/blood-in-the-water.jpg
 categories:
-- wonderful-wednesday
+- alabama
 tags:
 - doug-jones
 - moore

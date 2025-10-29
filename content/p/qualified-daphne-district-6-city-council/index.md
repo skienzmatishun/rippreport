@@ -16,12 +16,20 @@ alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest Firs
 related_articles:
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 82.22362358093228
-  llm_score: 90
+  score: 79.14670050400919
+  llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 78.73319773105223
+  llm_score: 85
+  recency_score: 96.76578525183945
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
   score: 78.49047961046821
@@ -29,23 +37,23 @@ related_articles:
   recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 75.04089003874455
-  llm_score: 79
-  recency_score: 96.76578525183945
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 64.43368756009316
-  llm_score: 79
-  recency_score: 27.818969140605503
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 73.03483113225938
+  llm_score: 75
+  recency_score: 99.72640235968593
   length_score: 100
   category_score: 0
   rank: 4
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.12599525240086
+  llm_score: 85
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
   score: 64.0230158631234
@@ -53,44 +61,36 @@ related_articles:
   recency_score: 1.1496031103020492
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
-  score: 60.188779856495714
-  llm_score: 79
+  score: 63.88108754880341
+  llm_score: 85
   recency_score: 0.22706906722204626
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 60.17047246253829
-  llm_score: 79
-  recency_score: 0.10807100649883039
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 60.16924471345268
-  llm_score: 79
-  recency_score: 0.10009063744229098
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 63.86480773786049
+  llm_score: 85
+  recency_score: 0.12125029609309805
   length_score: 100
   category_score: 0
   rank: 8
-- slug: challengers-emerge-in-daphne-mayoral-race
-  title: Challengers emerge in Daphne mayoral race
-  score: 57.69403270235867
-  llm_score: 75
-  recency_score: 0.01121256533123894
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 63.862780154845986
+  llm_score: 85
+  recency_score: 0.10807100649883039
   length_score: 100
   category_score: 0
   rank: 9
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 54.634038507091255
-  llm_score: 70
-  recency_score: 0.12125029609309805
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 57.70770625191422
+  llm_score: 75
+  recency_score: 0.10009063744229098
   length_score: 100
   category_score: 0
   rank: 10

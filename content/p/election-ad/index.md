@@ -2,7 +2,7 @@
 title: ELECTION AD
 date: 2020-02-22
 categories:
-- freaky-friday
+- elections
 authors:
 - admin
 related_articles:

@@ -73,6 +73,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 77.38834819203588
+  llm_score: 85
+  recency_score: 13.024263248233176
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 77.31823830939616
@@ -80,20 +88,12 @@ related_articles:
   recency_score: 12.568549011075072
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 9
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 76.12579765630822
   llm_score: 85
   recency_score: 4.817684766003371
-  length_score: 100
-  category_score: 100
-  rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 71.23450203818973
-  llm_score: 75
-  recency_score: 13.024263248233176
   length_score: 100
   category_score: 100
   rank: 10
