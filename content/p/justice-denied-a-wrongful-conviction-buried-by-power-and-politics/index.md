@@ -57,18 +57,18 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 78.30769230769232
-  llm_score: 96
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
@@ -91,8 +91,8 @@ related_articles:
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 69.88782678894566
-  llm_score: 90
+  score: 66.81090371202258
+  llm_score: 85
   recency_score: 19.270874128146687
   length_score: 100
   category_score: 0

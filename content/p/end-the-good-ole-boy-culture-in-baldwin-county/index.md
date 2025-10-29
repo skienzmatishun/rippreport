@@ -38,6 +38,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 79.10483856939815
+  llm_score: 85
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: last-chance
   title: LAST CHANCE
   score: 64.43658280136673
@@ -45,23 +53,23 @@ related_articles:
   recency_score: 3.837788208883614
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 63.93654414849883
-  llm_score: 85
-  recency_score: 0.587536965242325
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 63.86264406031275
+- slug: qualification
+  title: QUALIFICATION
+  score: 63.85383203400198
   llm_score: 85
-  recency_score: 0.10718639203280696
+  recency_score: 0.04990822101277993
   length_score: 100
   category_score: 0
   rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 57.71850825329628
+  llm_score: 75
+  recency_score: 0.17030364642568946
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
   score: 57.699656572491
@@ -69,36 +77,28 @@ related_articles:
   recency_score: 0.047767721191407035
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 54.6415851763732
-  llm_score: 70
-  recency_score: 0.17030364642568946
+  rank: 7
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 57.69402798277187
+  llm_score: 75
+  recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 54.63187482954352
+  llm_score: 70
+  recency_score: 0.10718639203280696
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: missed-the-boat
   title: MISSED THE BOAT
   score: 54.626807786379786
   llm_score: 70
   recency_score: 0.07425061146854016
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: qualification
-  title: QUALIFICATION
-  score: 54.62306280323275
-  llm_score: 70
-  recency_score: 0.04990822101277993
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 54.61710490584879
-  llm_score: 70
-  recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
   rank: 10

@@ -30,6 +30,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: war
+  title: WAR
+  score: 78.8560612226499
+  llm_score: 85
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.77404007552455
@@ -37,7 +45,7 @@ related_articles:
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
   score: 78.45041308073715
@@ -45,7 +53,7 @@ related_articles:
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: fire-albritton
   title: FIRE ALBRITTON
   score: 74.92016345172406
@@ -53,44 +61,36 @@ related_articles:
   recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: war
-  title: WAR
-  score: 69.62529199188066
-  llm_score: 70
-  recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
   rank: 5
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 65.90461316878529
-  llm_score: 65
+  score: 68.98153624570837
+  llm_score: 70
   recency_score: 93.37998559710435
   length_score: 100
   category_score: 0
   rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 58.25432589976107
-  llm_score: 75
-  recency_score: 3.653118348446851
+- slug: insanity-2
+  title: INSANITY
+  score: 64.11807355909475
+  llm_score: 85
+  recency_score: 1.7674781341158494
   length_score: 100
   category_score: 0
   rank: 7
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 56.11408884191944
-  llm_score: 70
+  score: 61.03716576499637
+  llm_score: 78
   recency_score: 9.741577472476289
   length_score: 100
   category_score: 0
   rank: 8
-- slug: insanity-2
-  title: INSANITY
-  score: 48.733458174479374
-  llm_score: 60
-  recency_score: 1.7674781341158494
+- slug: symbol
+  title: Veterans Day
+  score: 54.56201820745338
+  llm_score: 69
+  recency_score: 3.653118348446851
   length_score: 100
   category_score: 0
   rank: 9

@@ -16,6 +16,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 64.83168238270147
+  llm_score: 85
+  recency_score: 6.405935487559478
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
   score: 64.34026827301395
@@ -23,15 +31,39 @@ related_articles:
   recency_score: 3.2117437745905466
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 58.67783622885532
+  rank: 3
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 59.1665770695878
   llm_score: 75
-  recency_score: 6.405935487559478
+  recency_score: 9.582750952320627
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 58.10019311236379
+  llm_score: 75
+  recency_score: 2.651255230364558
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 58.05585804477706
+  llm_score: 75
+  recency_score: 2.363077291050805
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 58.01634197321537
+  llm_score: 75
+  recency_score: 2.10622282589978
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: public-access
   title: PUBLIC ACCESS
   score: 57.70653014538154
@@ -39,23 +71,7 @@ related_articles:
   recency_score: 0.09244594497992151
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 56.08965399266472
-  llm_score: 70
-  recency_score: 9.582750952320627
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 55.02327003544071
-  llm_score: 70
-  recency_score: 2.651255230364558
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 8
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
   score: 55.00899827284608
@@ -63,28 +79,12 @@ related_articles:
   recency_score: 2.5584887734994517
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 54.97893496785398
-  llm_score: 70
-  recency_score: 2.363077291050805
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 54.93941889629229
-  llm_score: 70
-  recency_score: 2.10622282589978
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: shut-up
-  title: SHUT UP
-  score: 54.61963327156517
-  llm_score: 70
-  recency_score: 0.027616265173529626
+- slug: beavis-and-butthead
+  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+  score: 42.312368542000726
+  llm_score: 50
+  recency_score: 0.03039552300467622
   length_score: 100
   category_score: 0
   rank: 10

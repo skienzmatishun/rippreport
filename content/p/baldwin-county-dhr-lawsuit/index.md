@@ -20,6 +20,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 66.92641537381905
+  llm_score: 90
+  recency_score: 0.021699929823781466
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
   score: 64.25853382615973
@@ -27,7 +35,7 @@ related_articles:
   recency_score: 2.6804698700381855
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
   score: 64.23869058593654
@@ -35,7 +43,23 @@ related_articles:
   recency_score: 2.5514888085874565
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 63.885026902443165
+  llm_score: 85
+  recency_score: 0.2526748658804697
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 63.862419707142024
+  llm_score: 85
+  recency_score: 0.10572809642305193
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
   score: 63.854331434309756
@@ -43,7 +67,15 @@ related_articles:
   recency_score: 0.05315432301332231
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 7
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 63.85402371263146
+  llm_score: 85
+  recency_score: 0.051154132104394186
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: exposure
   title: EXPOSURE
   score: 63.84953834376739
@@ -51,44 +83,12 @@ related_articles:
   recency_score: 0.02199923448795886
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 63.84949229689598
-  llm_score: 85
-  recency_score: 0.021699929823781466
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 57.700177558785306
-  llm_score: 75
-  recency_score: 0.051154132104394186
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 9
 - slug: moma-bear
   title: MOTHER BEAR
-  score: 57.34620176277843
-  llm_score: 70
+  score: 60.42312483970151
+  llm_score: 75
   recency_score: 17.750311458059702
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 54.65425767167393
-  llm_score: 70
-  recency_score: 0.2526748658804697
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 54.63165047637279
-  llm_score: 70
-  recency_score: 0.10572809642305193
   length_score: 100
   category_score: 0
   rank: 10

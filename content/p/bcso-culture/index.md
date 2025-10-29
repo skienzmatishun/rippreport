@@ -19,8 +19,8 @@ alttags: A skull sits atop scales of justice, symbolizing a flawed legal system 
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 80.49869858600047
-  llm_score: 85
+  score: 83.57562166292355
+  llm_score: 90
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
@@ -73,14 +73,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 77.38834819203588
-  llm_score: 85
-  recency_score: 13.024263248233176
-  length_score: 100
-  category_score: 100
-  rank: 8
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 77.31823830939616
@@ -88,12 +80,20 @@ related_articles:
   recency_score: 12.568549011075072
   length_score: 100
   category_score: 100
-  rank: 9
+  rank: 8
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 69.97195150246208
-  llm_score: 75
+  score: 76.12579765630822
+  llm_score: 85
   recency_score: 4.817684766003371
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 71.23450203818973
+  llm_score: 75
+  recency_score: 13.024263248233176
   length_score: 100
   category_score: 100
   rank: 10

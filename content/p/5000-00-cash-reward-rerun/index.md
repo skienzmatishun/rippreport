@@ -11,6 +11,14 @@ tags:
 authors:
 - ripp-report
 related_articles:
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 66.92948501557368
+  llm_score: 90
+  recency_score: 0.041652601228757115
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
   score: 66.92622871956246
@@ -18,44 +26,36 @@ related_articles:
   recency_score: 0.020486677155934722
   length_score: 100
   category_score: 0
-  rank: 1
+  rank: 2
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 66.9259015705317
-  llm_score: 90
+  score: 66.3105169551471
+  llm_score: 89
   recency_score: 0.018360208456042304
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 66.92578042501201
-  llm_score: 90
-  recency_score: 0.017572762577928065
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 63.85077911383814
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 63.84920370677262
   llm_score: 85
-  recency_score: 0.030064239947851384
+  recency_score: 0.019824094021949453
   length_score: 100
   category_score: 0
   rank: 4
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 63.84885734808893
+  llm_score: 85
+  recency_score: 0.017572762577928065
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: flying-high
   title: FLYING HIGH
   score: 54.62683912564958
   llm_score: 70
   recency_score: 0.07445431672220408
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 54.62179270788136
-  llm_score: 70
-  recency_score: 0.041652601228757115
   length_score: 100
   category_score: 0
   rank: 6
@@ -67,6 +67,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 54.62000988306891
+  llm_score: 70
+  recency_score: 0.030064239947851384
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
   score: 54.61855372938982
@@ -74,19 +82,11 @@ related_articles:
   recency_score: 0.020599241033720052
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 54.61843447600339
-  llm_score: 70
-  recency_score: 0.019824094021949453
-  length_score: 100
-  category_score: 0
   rank: 9
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 54.618000680261396
-  llm_score: 70
+  score: 48.46415452641524
+  llm_score: 60
   recency_score: 0.01700442169897349
   length_score: 100
   category_score: 0

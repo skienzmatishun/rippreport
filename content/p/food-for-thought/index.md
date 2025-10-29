@@ -25,14 +25,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 54.70002263431815
-  llm_score: 70
-  recency_score: 0.5501471230679165
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
   score: 54.656222754979474
@@ -40,7 +32,7 @@ related_articles:
   recency_score: 0.265447907366482
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
   score: 54.64863734929861
@@ -48,15 +40,7 @@ related_articles:
   recency_score: 0.21614277044091165
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 54.63514321937361
-  llm_score: 70
-  recency_score: 0.1284309259284028
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
   score: 54.62813081142239
@@ -64,28 +48,44 @@ related_articles:
   recency_score: 0.08285027424544954
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 54.61852778862934
-  llm_score: 70
-  recency_score: 0.02043062609065734
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 52.773241881166356
-  llm_score: 67
+  score: 54.6193957273202
+  llm_score: 70
   recency_score: 0.02607222758125002
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 54.019758603989
+  llm_score: 69
+  recency_score: 0.1284309259284028
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 11.54601454126027
-  llm_score: 0
+  score: 54.007553002798744
+  llm_score: 69
   recency_score: 0.04909451819175162
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 54.00314317324473
+  llm_score: 69
+  recency_score: 0.02043062609065734
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 42.39233032662584
+  llm_score: 50
+  recency_score: 0.5501471230679165
   length_score: 100
   category_score: 0
   rank: 10

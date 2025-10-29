@@ -27,20 +27,28 @@ related_articles:
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 83.4151103232545
-  llm_score: 95
+  score: 77.26126416940835
+  llm_score: 85
   recency_score: 87.19821710115417
   length_score: 100
   category_score: 0
   rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 83.3418038923801
-  llm_score: 95
+  score: 77.18795773853394
+  llm_score: 85
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
   rank: 3
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 72.55703263988438
+  llm_score: 95
+  recency_score: 16.62071215924841
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
   score: 72.47433271312997
@@ -48,28 +56,20 @@ related_articles:
   recency_score: 16.083162635344685
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 70.11920555018071
+  rank: 5
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 70.08722757851987
   llm_score: 95
-  recency_score: 0.7748360761745469
+  recency_score: 0.5669792603791407
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
   score: 68.76779469954123
   llm_score: 85
   recency_score: 31.990665547017855
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 66.40318648603822
-  llm_score: 85
-  recency_score: 16.62071215924841
   length_score: 100
   category_score: 0
   rank: 7
@@ -81,19 +81,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 63.933381424673726
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.863861553717996
   llm_score: 85
-  recency_score: 0.5669792603791407
+  recency_score: 0.11510009916688303
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 35.67433777541409
-  llm_score: 97
-  recency_score: 0.7663910803831024
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 63.85437636600008
+  llm_score: 85
+  recency_score: 0.05344637900043492
   length_score: 100
   category_score: 0
   rank: 10

@@ -19,20 +19,36 @@ related_articles:
   rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 84.72478889081535
-  llm_score: 95
+  score: 81.64786581389228
+  llm_score: 90
   recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 70.18580262082494
-  llm_score: 95
-  recency_score: 1.2077170353621032
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 71.41926985144727
+  llm_score: 90
+  recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
   rank: 3
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 70.05098514149157
+  llm_score: 95
+  recency_score: 0.3314034196950972
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 70.01617697672368
+  llm_score: 95
+  recency_score: 0.10515034870386371
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: I-SEE-YOU
   title: I SEE YOU
   score: 68.61842581743757
@@ -40,7 +56,7 @@ related_articles:
   recency_score: 11.019767813344055
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 66.94054371319147
@@ -48,23 +64,15 @@ related_articles:
   recency_score: 0.11353413574452939
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 66.49619292837033
-  llm_score: 82
-  recency_score: 29.2252540344071
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 63.89713898764541
-  llm_score: 85
-  recency_score: 0.3314034196950972
-  length_score: 100
-  category_score: 0
   rank: 7
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 64.0319564669788
+  llm_score: 85
+  recency_score: 1.2077170353621032
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: fairhope-petition
   title: FAIRHOPE PETITION
   score: 63.88014345293296
@@ -72,20 +80,12 @@ related_articles:
   recency_score: 0.22093244406414994
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: back-stabber
   title: BACK STABBER
-  score: 54.63053211712657
-  llm_score: 70
+  score: 63.861301347895804
+  llm_score: 85
   recency_score: 0.09845876132263415
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 31.00176807947607
-  llm_score: 82
-  recency_score: 0.022985033188782953
   length_score: 100
   category_score: 0
   rank: 10

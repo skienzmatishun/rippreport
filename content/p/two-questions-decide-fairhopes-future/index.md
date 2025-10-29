@@ -38,6 +38,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 70.01875638535996
+  llm_score: 95
+  recency_score: 0.1219165048397373
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
   score: 68.1495108055248
@@ -45,7 +53,7 @@ related_articles:
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: I-SEE-YOU
   title: I SEE YOU
   score: 65.46879139292679
@@ -53,7 +61,7 @@ related_articles:
   recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
   score: 64.02398763000934
@@ -61,15 +69,15 @@ related_articles:
   recency_score: 1.155919595060642
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 63.95038413220017
+  rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 63.86287150796125
   llm_score: 85
-  recency_score: 0.6774968593009955
+  recency_score: 0.1086648017480589
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: selective-memory
   title: Selective Memory
   score: 63.849349115009865
@@ -77,20 +85,12 @@ related_articles:
   recency_score: 0.020769247564044847
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
   score: 54.630867782249226
   llm_score: 70
   recency_score: 0.10064058461990079
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 31.924769171883696
-  llm_score: 85
-  recency_score: 0.02199923448795886
   length_score: 100
   category_score: 0
   rank: 10

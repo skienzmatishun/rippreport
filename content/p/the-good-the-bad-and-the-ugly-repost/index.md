@@ -26,50 +26,50 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 63.94953095592448
-  llm_score: 85
-  recency_score: 0.6719512135090356
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 54.72163312943678
+  llm_score: 70
+  recency_score: 0.6906153413389834
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 63.93009906117679
-  llm_score: 85
-  recency_score: 0.5456438976490593
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 54.7207634329699
+  llm_score: 70
+  recency_score: 0.6849623143042736
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 63.8577663471762
-  llm_score: 85
-  recency_score: 0.07548125664523891
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 54.71932972982782
+  llm_score: 70
+  recency_score: 0.6756432438807459
   length_score: 100
   category_score: 0
   rank: 4
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 63.85006726336479
-  llm_score: 85
-  recency_score: 0.025437211871076722
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 54.71876172515525
+  llm_score: 70
+  recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 60.875479283282935
-  llm_score: 80
-  recency_score: 0.6906153413389834
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 54.62699711640697
+  llm_score: 70
+  recency_score: 0.07548125664523891
   length_score: 100
   category_score: 0
   rank: 6
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 60.77845602768154
-  llm_score: 80
+  score: 54.62460987383539
+  llm_score: 70
   recency_score: 0.059964179929950075
   length_score: 100
   category_score: 0
@@ -92,8 +92,8 @@ related_articles:
   rank: 9
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 42.3113167434768
-  llm_score: 50
+  score: 54.619009051169115
+  llm_score: 70
   recency_score: 0.02355883259917855
   length_score: 100
   category_score: 0

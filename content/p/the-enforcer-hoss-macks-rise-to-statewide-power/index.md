@@ -25,6 +25,38 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 83.67464648893878
+  llm_score: 90
+  recency_score: 33.88520217810198
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 83.25017020186064
+  llm_score: 90
+  recency_score: 31.126106312094088
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 81.17000252431771
+  llm_score: 90
+  recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 80.76574843293574
+  llm_score: 90
+  recency_score: 14.977364814082216
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 80.75722211055677
@@ -32,7 +64,7 @@ related_articles:
   recency_score: 34.921943718618955
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 7
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
   score: 80.63546297726174
@@ -40,15 +72,7 @@ related_articles:
   recency_score: 89.13050935220119
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.5977234120157
-  llm_score: 85
-  recency_score: 33.88520217810198
-  length_score: 100
-  category_score: 100
-  rank: 5
+  rank: 8
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
   score: 80.48470657503778
@@ -56,36 +80,12 @@ related_articles:
   recency_score: 33.15059273774551
   length_score: 100
   category_score: 100
-  rank: 6
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 80.17324712493756
-  llm_score: 85
-  recency_score: 31.126106312094088
-  length_score: 100
-  category_score: 100
-  rank: 7
+  rank: 9
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 80.06974034815757
-  llm_score: 89
+  score: 77.60820188661911
+  llm_score: 85
   recency_score: 14.453312263024177
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.09307944739463
-  llm_score: 85
-  recency_score: 17.605016408065044
-  length_score: 100
-  category_score: 100
-  rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 77.68882535601266
-  llm_score: 85
-  recency_score: 14.977364814082216
   length_score: 100
   category_score: 100
   rank: 10

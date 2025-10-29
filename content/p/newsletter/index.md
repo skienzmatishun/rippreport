@@ -10,20 +10,28 @@ alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and informati
 related_articles:
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 72.66114831640833
-  llm_score: 75
+  score: 71.43037908563909
+  llm_score: 73
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 1
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 57.77465833835782
-  llm_score: 75
-  recency_score: 0.535279199325722
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 66.93116538309376
+  llm_score: 90
+  recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
   rank: 2
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 63.85954437889766
+  llm_score: 85
+  recency_score: 0.08703846283467485
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
   score: 57.707249108791345
@@ -31,23 +39,7 @@ related_articles:
   recency_score: 0.09711920714364118
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 57.705698225051506
-  llm_score: 75
-  recency_score: 0.08703846283467485
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 57.70039615232452
-  llm_score: 75
-  recency_score: 0.05257499010930886
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
   score: 57.699656572491
@@ -55,12 +47,20 @@ related_articles:
   recency_score: 0.047767721191407035
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 55.028895952651695
+  llm_score: 70
+  recency_score: 2.6878236922359457
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 57.693811870316964
-  llm_score: 75
-  recency_score: 0.009777157060142481
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 54.651684269748735
+  llm_score: 70
+  recency_score: 0.23594775336668541
   length_score: 100
   category_score: 0
   rank: 7
@@ -80,11 +80,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 51.951972875728615
-  llm_score: 65
-  recency_score: 2.6878236922359457
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 54.61688879339388
+  llm_score: 70
+  recency_score: 0.009777157060142481
   length_score: 100
   category_score: 0
   rank: 10

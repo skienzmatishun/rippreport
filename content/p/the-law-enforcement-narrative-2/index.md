@@ -17,14 +17,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 81.83611139232055
-  llm_score: 95
-  recency_score: 1.9347240500835032
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
   score: 79.90551260775426
@@ -32,7 +24,7 @@ related_articles:
   recency_score: 29.385831950402675
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
   score: 79.66445679086239
@@ -40,7 +32,7 @@ related_articles:
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 77.90685900509138
@@ -48,7 +40,7 @@ related_articles:
   recency_score: 16.39458353309393
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 77.45531920023124
@@ -56,7 +48,7 @@ related_articles:
   recency_score: 13.459574801503088
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 5
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 76.17834250606808
@@ -64,30 +56,38 @@ related_articles:
   recency_score: 5.159226289442438
   length_score: 100
   category_score: 100
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 75.68226523847439
+  llm_score: 85
+  recency_score: 1.9347240500835032
+  length_score: 100
+  category_score: 100
   rank: 7
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 72.00921438434847
+  llm_score: 90
+  recency_score: 33.05989349826491
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
-  score: 75.39811643007212
-  llm_score: 85
+  score: 69.24427027622598
+  llm_score: 75
   recency_score: 0.0877567954687319
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 9
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 70.78507623075937
-  llm_score: 95
+  score: 58.47738392306707
+  llm_score: 75
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: police-report
-  title: POLICE REPORT
-  score: 69.24109119395357
-  llm_score: 75
-  recency_score: 0.06709276069805299
-  length_score: 100
-  category_score: 100
   rank: 10
 ---
 Hey Bay Minette Harry Still is not crazy. He just knows too much.

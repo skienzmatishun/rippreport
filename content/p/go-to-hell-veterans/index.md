@@ -28,35 +28,35 @@ authors:
 - ripp-report
 alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
 related_articles:
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 81.52733615766023
-  llm_score: 90
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: war
-  title: WAR
-  score: 81.48737924900905
-  llm_score: 90
-  recency_score: 94.66796511855877
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 81.09377374375316
-  llm_score: 90
-  recency_score: 92.10952933439548
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: red-lips-award
   title: RED LIPS AWARD
   score: 78.77404007552455
   llm_score: 85
   recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 78.45041308073715
+  llm_score: 85
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: war
+  title: WAR
+  score: 78.41045617208597
+  llm_score: 85
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 78.01685066683008
+  llm_score: 85
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 4
@@ -70,33 +70,33 @@ related_articles:
   rank: 5
 - slug: insanity-2
   title: INSANITY
-  score: 67.18692404806676
-  llm_score: 90
+  score: 64.11000097114368
+  llm_score: 85
   recency_score: 1.7150063124338188
   length_score: 100
   category_score: 0
   rank: 6
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 65.30036544819113
-  llm_score: 85
-  recency_score: 9.45237541324223
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: symbol
   title: Veterans Day
-  score: 55.16071796626504
-  llm_score: 70
+  score: 61.31456412011119
+  llm_score: 80
   recency_score: 3.544666780722678
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: winner-and-loser
-  title: WINNER AND LOSER
-  score: 54.85314426179787
+  rank: 7
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 56.069596217421896
   llm_score: 70
-  recency_score: 1.5454377016861052
+  recency_score: 9.45237541324223
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 54.6445618153024
+  llm_score: 65
+  recency_score: 20.189651799465537
   length_score: 100
   category_score: 0
   rank: 9

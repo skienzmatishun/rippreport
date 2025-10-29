@@ -40,12 +40,20 @@ related_articles:
   rank: 3
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 68.12599525240086
-  llm_score: 85
+  score: 64.43368756009316
+  llm_score: 79
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
   rank: 4
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 64.0230158631234
+  llm_score: 85
+  recency_score: 1.1496031103020492
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 63.862780154845986
@@ -53,44 +61,36 @@ related_articles:
   recency_score: 0.10807100649883039
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 57.86916970927725
-  llm_score: 75
-  recency_score: 1.1496031103020492
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 57.710961584014335
-  llm_score: 75
-  recency_score: 0.12125029609309805
+- slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  score: 60.188779856495714
+  llm_score: 79
+  recency_score: 0.22706906722204626
   length_score: 100
   category_score: 0
   rank: 7
-- slug: challengers-emerge-in-daphne-mayoral-race
-  title: Challengers emerge in Daphne mayoral race
-  score: 57.69403270235867
-  llm_score: 75
-  recency_score: 0.01121256533123894
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 60.172500045552795
+  llm_score: 79
+  recency_score: 0.12125029609309805
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 31.97434238165861
-  llm_score: 85
-  recency_score: 0.6664509615618259
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 60.16924471345268
+  llm_score: 79
+  recency_score: 0.10009063744229098
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 28.847836847722455
-  llm_score: 75
-  recency_score: 0.021879020391807464
+- slug: challengers-emerge-in-daphne-mayoral-race
+  title: Challengers emerge in Daphne mayoral race
+  score: 54.61710962543559
+  llm_score: 70
+  recency_score: 0.01121256533123894
   length_score: 100
   category_score: 0
   rank: 10

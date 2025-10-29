@@ -51,14 +51,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 70.07564526103026
-  llm_score: 95
-  recency_score: 0.4916941966966383
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 68.16131699006223
@@ -66,12 +58,20 @@ related_articles:
   recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
   score: 66.06365666795776
   llm_score: 85
   recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 65.99193786465409
+  llm_score: 85
+  recency_score: 13.947596120251541
   length_score: 100
   category_score: 0
   rank: 7
@@ -91,11 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 57.79568480207833
-  llm_score: 75
-  recency_score: 0.6719512135090356
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 63.921799107184114
+  llm_score: 85
+  recency_score: 0.4916941966966383
   length_score: 100
   category_score: 0
   rank: 10

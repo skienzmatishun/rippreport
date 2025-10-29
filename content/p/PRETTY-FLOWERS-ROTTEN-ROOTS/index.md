@@ -24,57 +24,57 @@ related_articles:
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 81.51636275730021
-  llm_score: 91
+  score: 83.97790121883867
+  llm_score: 95
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 80.82459635862965
-  llm_score: 90
+  score: 77.74767328170657
+  llm_score: 85
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 71.69860707995426
-  llm_score: 90
-  recency_score: 31.040946019702552
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 71.64655822301944
-  llm_score: 90
-  recency_score: 30.702628449626225
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 69.3771560031308
-  llm_score: 90
+  score: 72.45407908005389
+  llm_score: 95
   recency_score: 15.95151402035018
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 71.45459584424864
+  llm_score: 85
+  recency_score: 49.45487298761609
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 68.62168400303118
+  llm_score: 85
+  recency_score: 31.040946019702552
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 67.03748291162857
-  llm_score: 90
-  recency_score: 0.7436389255856242
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.56963514609636
+  llm_score: 85
+  recency_score: 30.702628449626225
   length_score: 100
   category_score: 0
   rank: 7
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 65.63699079108811
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 66.22086273866911
   llm_score: 85
-  recency_score: 11.640440142072652
+  recency_score: 15.435607801349112
   length_score: 100
   category_score: 0
   rank: 8
@@ -86,11 +86,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 27.364271842296116
-  llm_score: 70
-  recency_score: 0.7355339498494264
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 59.48314463724196
+  llm_score: 75
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 10

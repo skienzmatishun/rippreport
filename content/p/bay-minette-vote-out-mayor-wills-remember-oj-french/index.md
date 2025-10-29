@@ -49,19 +49,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
+- slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 71.88051553058735
+  score: 69.54346566996391
   llm_score: 75
-  recency_score: 17.223350948817675
+  recency_score: 2.032526854765281
   length_score: 100
   category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 68.3292267272786
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 68.80359245366427
   llm_score: 70
-  recency_score: 14.139973727310823
+  recency_score: 17.223350948817675
   length_score: 100
   category_score: 100
   rank: 6
@@ -73,27 +73,27 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 63.91995668965363
-  llm_score: 85
-  recency_score: 0.4797184827485157
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 63.87249836590756
-  llm_score: 85
-  recency_score: 0.1712393783990468
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 60.46838597472004
   llm_score: 75
   recency_score: 18.044508835680173
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 57.76611053580748
+  llm_score: 75
+  recency_score: 0.4797184827485157
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 54.64172913513833
+  llm_score: 70
+  recency_score: 0.1712393783990468
   length_score: 100
   category_score: 0
   rank: 10

@@ -18,73 +18,73 @@ related_articles:
   rank: 1
 - slug: bar-stool-continued
   title: BAR STOOL “CONTINUED”
-  score: 63.90707719140717
-  llm_score: 85
+  score: 54.676307960637935
+  llm_score: 70
   recency_score: 0.39600174414651
   length_score: 100
   category_score: 0
   rank: 2
 - slug: criminal-enterprise
   title: CRIMINAL ENTERPRISE
-  score: 63.90242400655251
-  llm_score: 85
+  score: 54.671654775783274
+  llm_score: 70
   recency_score: 0.36575604259118294
   length_score: 100
   category_score: 0
   rank: 3
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 63.86569709965432
-  llm_score: 85
+  score: 54.634927868885086
+  llm_score: 70
   recency_score: 0.12703114775298338
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 63.85259714786169
-  llm_score: 85
-  recency_score: 0.041881461100881215
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 63.85043756669889
-  llm_score: 85
-  recency_score: 0.027844183542706274
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 60.78113316525502
-  llm_score: 80
-  recency_score: 0.07736557415756225
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 57.69996487281506
-  llm_score: 75
-  recency_score: 0.04977167329776623
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 54.64891178571631
-  llm_score: 70
-  recency_score: 0.2179266071559293
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: barstool
   title: BARSTOOL
   score: 54.63460923599891
   llm_score: 70
   recency_score: 0.12496003399281562
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 54.62728701140887
+  llm_score: 70
+  recency_score: 0.07736557415756225
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 54.62304179589198
+  llm_score: 70
+  recency_score: 0.04977167329776623
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 54.62182791709245
+  llm_score: 70
+  recency_score: 0.041881461100881215
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 54.61966833592966
+  llm_score: 70
+  recency_score: 0.027844183542706274
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 42.341219478023994
+  llm_score: 50
+  recency_score: 0.2179266071559293
   length_score: 100
   category_score: 0
   rank: 10

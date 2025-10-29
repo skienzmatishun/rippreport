@@ -24,14 +24,6 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 63.92242341117387
-  llm_score: 85
-  recency_score: 0.4957521726300432
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
   score: 63.85714716457109
@@ -39,7 +31,7 @@ related_articles:
   recency_score: 0.07145656971196458
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
   score: 63.856938342609624
@@ -47,44 +39,52 @@ related_articles:
   recency_score: 0.07009922696246068
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 57.72378737885037
-  llm_score: 75
-  recency_score: 0.20461796252728875
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 57.717870111894996
-  llm_score: 75
-  recency_score: 0.1661557273173934
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: victory
-  title: VICTORY
-  score: 57.70897961498688
-  llm_score: 75
-  recency_score: 0.10836749741462423
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 2
 - slug: s-o-s
   title: S.O.S
-  score: 54.85642365356101
-  llm_score: 70
+  score: 57.93334673048409
+  llm_score: 75
   recency_score: 1.566753748146461
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 3
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 54.79865934865695
-  llm_score: 70
+  score: 57.87558242558003
+  llm_score: 75
   recency_score: 1.1912857662700727
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 57.76857725732771
+  llm_score: 75
+  recency_score: 0.4957521726300432
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 57.69674673328302
+  llm_score: 75
+  recency_score: 0.028853766339517067
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: going-down
+  title: GOING DOWN
+  score: 54.66636975687618
+  llm_score: 70
+  recency_score: 0.3314034196950972
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 54.640947034971916
+  llm_score: 70
+  recency_score: 0.1661557273173934
   length_score: 100
   category_score: 0
   rank: 8
@@ -96,11 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 50.321454776091294
+- slug: victory
+  title: VICTORY
+  score: 50.32436423037149
   llm_score: 63
-  recency_score: 0.08945604459330453
+  recency_score: 0.10836749741462423
   length_score: 100
   category_score: 0
   rank: 10
