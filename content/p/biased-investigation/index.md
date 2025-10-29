@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations
 related_articles:
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 82.7820185184681
-  llm_score: 90
-  recency_score: 98.91009259234048
-  category_score: 0
-  rank: 1
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 82.24740235768715
-  llm_score: 90
+  score: 84.03646335206703
+  llm_score: 75
   recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 82.14001424497548
+  llm_score: 90
+  recency_score: 98.91009259234048
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 70.66625449247667
-  llm_score: 90
-  recency_score: 38.33127246238332
-  category_score: 0
-  rank: 3
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 70.50005501422808
-  llm_score: 90
-  recency_score: 37.500275071140365
-  category_score: 0
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 69.29381805158769
-  llm_score: 90
-  recency_score: 31.469090257938433
-  category_score: 0
-  rank: 5
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 67.46353695320067
-  llm_score: 95
-  recency_score: 4.817684766003371
-  category_score: 0
-  rank: 6
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 66.89801503421995
+  score: 81.15388847248315
   llm_score: 85
-  recency_score: 36.990075171099754
-  category_score: 0
-  rank: 7
+  recency_score: 37.500275071140365
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 63.20914268128783
+  score: 78.2378020625291
   llm_score: 85
   recency_score: 18.545713406439127
-  category_score: 0
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 76.12579765630822
+  llm_score: 85
+  recency_score: 4.817684766003371
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 72.05096499421283
+  llm_score: 70
+  recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 70.99524465506747
+  llm_score: 70
+  recency_score: 31.469090257938433
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 63.05980182540612
-  llm_score: 85
+  score: 68.8921552503124
+  llm_score: 70
   recency_score: 17.799009127030544
-  category_score: 0
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 63.01136989971914
-  llm_score: 85
+  score: 68.85489992286088
+  llm_score: 70
   recency_score: 17.55684949859567
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 55.40911173683731
+  llm_score: 70
+  recency_score: 5.159226289442438
+  length_score: 100
   category_score: 0
   rank: 10
 ---

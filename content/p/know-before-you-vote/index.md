@@ -11,16 +11,16 @@ alttags: 'YouTube video thumbnail: Watch This Before You Vote - Fairhope City Co
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 85.13378486641899
-  llm_score: 95
+  score: 78.97993871257283
+  llm_score: 85
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 74.2632504292769
-  llm_score: 78
+  score: 78.5709427369692
+  llm_score: 85
   recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
@@ -33,22 +33,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 64.0319564669788
-  llm_score: 85
-  recency_score: 1.2077170353621032
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 63.90430473104794
-  llm_score: 85
-  recency_score: 0.37798075181147806
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 63.8636206362684
@@ -56,36 +40,52 @@ related_articles:
   recency_score: 0.11353413574452939
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 61.573116005293414
+  llm_score: 74
+  recency_score: 29.2252540344071
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: back-stabber
+  title: BACK STABBER
+  score: 57.70745519404965
+  llm_score: 75
+  recency_score: 0.09845876132263415
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 59.572451145240656
-  llm_score: 78
-  recency_score: 0.22093244406414994
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 54.801187236209564
+  llm_score: 70
+  recency_score: 1.2077170353621032
   length_score: 100
   category_score: 0
   rank: 7
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 59.111577543754954
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 54.6735355002787
   llm_score: 70
-  recency_score: 29.2252540344071
+  recency_score: 0.37798075181147806
   length_score: 100
   category_score: 0
   rank: 8
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 52.82021591072233
-  llm_score: 67
+  score: 54.66636975687618
+  llm_score: 70
   recency_score: 0.3314034196950972
   length_score: 100
   category_score: 0
   rank: 9
-- slug: back-stabber
-  title: BACK STABBER
-  score: 51.55360904020349
-  llm_score: 65
-  recency_score: 0.09845876132263415
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 54.6315615921083
+  llm_score: 70
+  recency_score: 0.10515034870386371
   length_score: 100
   category_score: 0
   rank: 10

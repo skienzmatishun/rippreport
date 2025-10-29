@@ -8,14 +8,6 @@ authors:
 - admin
 alttags: A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat...
 related_articles:
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 66.0575896325634
-  llm_score: 85
-  recency_score: 14.374332611662021
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
   score: 60.522139630672704
@@ -23,7 +15,7 @@ related_articles:
   recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
   score: 57.79568480207833
@@ -31,7 +23,31 @@ related_articles:
   recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 57.73837780310671
+  llm_score: 75
+  recency_score: 0.2994557201935016
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 57.73664419026829
+  llm_score: 75
+  recency_score: 0.2881872367437651
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: exposure
+  title: EXPOSURE
+  score: 57.71137494992473
+  llm_score: 75
+  recency_score: 0.12393717451064709
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
   score: 57.71111553548279
@@ -39,52 +55,36 @@ related_articles:
   recency_score: 0.12225098063802377
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 14.269278685855339
-  llm_score: 0
-  recency_score: 17.750311458059702
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 13.86168826594879
-  llm_score: 0
+  score: 56.93861134287188
+  llm_score: 70
   recency_score: 15.100973728667121
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 11.630098583966879
-  llm_score: 0
-  recency_score: 0.5956407957847131
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 11.622406753484471
-  llm_score: 0
-  recency_score: 0.5456438976490593
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 56.82682040179417
+  llm_score: 70
+  recency_score: 14.374332611662021
   length_score: 100
   category_score: 0
   rank: 8
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 11.584531649260539
-  llm_score: 0
-  recency_score: 0.2994557201935016
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 51.63009858396689
+  llm_score: 65
+  recency_score: 0.5956407957847131
   length_score: 100
   category_score: 0
   rank: 9
-- slug: exposure
-  title: EXPOSURE
-  score: 11.55752879607856
-  llm_score: 0
-  recency_score: 0.12393717451064709
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 45.03850945508612
+  llm_score: 50
+  recency_score: 17.750311458059702
   length_score: 100
   category_score: 0
   rank: 10

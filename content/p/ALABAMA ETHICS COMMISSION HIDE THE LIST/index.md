@@ -13,8 +13,8 @@ authors:
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS
-  score: 81.97416371788519
-  llm_score: 90
+  score: 69.66647141019288
+  llm_score: 70
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
@@ -27,6 +27,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 62.37418306918197
+  llm_score: 80
+  recency_score: 10.432189949682714
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: hair-on-fire
   title: HAIR ON FIRE
   score: 62.244700241003216
@@ -34,7 +42,7 @@ related_articles:
   recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 57.98756586447605
@@ -42,20 +50,12 @@ related_articles:
   recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 56.421001424047226
   llm_score: 70
   recency_score: 11.736509256306908
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 56.220336915335814
-  llm_score: 70
-  recency_score: 10.432189949682714
   length_score: 100
   category_score: 0
   rank: 6

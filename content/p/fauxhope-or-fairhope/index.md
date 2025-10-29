@@ -17,14 +17,6 @@ authors:
 - ripp-report
 alttags: Fairhope city clocks representing a challenge to the status quo in the upcoming municipal election
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 83.3418038923801
-  llm_score: 95
-  recency_score: 86.72172530047058
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
   score: 78.61133993770366
@@ -32,39 +24,31 @@ related_articles:
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 77.26126416940835
-  llm_score: 85
+  score: 71.10741801556219
+  llm_score: 75
   recency_score: 87.19821710115417
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 71.03411158468779
+  llm_score: 75
+  recency_score: 86.72172530047058
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 72.47433271312997
-  llm_score: 95
-  recency_score: 16.083162635344685
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.76779469954123
+  llm_score: 85
+  recency_score: 31.990665547017855
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 70.08722757851987
-  llm_score: 95
-  recency_score: 0.5669792603791407
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 66.40318648603822
-  llm_score: 85
-  recency_score: 16.62071215924841
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
   score: 65.6320911034649
@@ -72,28 +56,44 @@ related_articles:
   recency_score: 11.608592172521774
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.863861553717996
-  llm_score: 85
-  recency_score: 0.11510009916688303
+  rank: 5
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 60.16664040543766
+  llm_score: 75
+  recency_score: 16.083162635344685
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 63.85437636600008
-  llm_score: 85
-  recency_score: 0.05344637900043492
-  length_score: 100
-  category_score: 0
-  rank: 9
+  rank: 6
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
   score: 57.80989142345718
   llm_score: 75
   recency_score: 0.7642942524715967
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 54.70261219390449
+  llm_score: 70
+  recency_score: 0.5669792603791407
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 54.62360713523085
+  llm_score: 70
+  recency_score: 0.05344637900043492
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 14.09549417834591
+  llm_score: 0
+  recency_score: 16.62071215924841
   length_score: 100
   category_score: 0
   rank: 10

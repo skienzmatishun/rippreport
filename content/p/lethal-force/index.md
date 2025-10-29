@@ -14,63 +14,83 @@ alttags: Sheriff’s SWAT vehicle against a solid background; highlights concern
 related_articles:
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 87.24740235768714
+  score: 90.19030950591318
   llm_score: 85
   recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: rumors
   title: RUMORS
-  score: 86.17127158449026
+  score: 89.36251660345405
   llm_score: 85
   recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 75.37777423965625
+  score: 81.05982633819711
   llm_score: 85
   recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 75.11962860059249
-  llm_score: 85
-  recency_score: 35.59814300296249
+- slug: cameras
+  title: CAMERAS
+  score: 80.87863504466151
+  llm_score: 70
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 75.01193156417621
-  llm_score: 90
-  recency_score: 15.05965782088104
-  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 74.05698242024913
+  score: 80.04383263096088
   llm_score: 85
   recency_score: 30.284912101245666
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 78.81499447025448
+  llm_score: 85
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: justified
-  title: JUSTIFIED
-  score: 73.65298308953878
-  llm_score: 90
-  recency_score: 8.264915447693923
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 69.50268894371014
+  llm_score: 75
+  recency_score: 1.7674781341158494
+  length_score: 100
+  category_score: 100
   rank: 7
 - slug: non-lethal
   title: NON-LETHAL
-  score: 72.15008797921179
-  llm_score: 85
+  score: 69.34622152247061
+  llm_score: 70
   recency_score: 20.750439896058943
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: cameras
-  title: CAMERAS
-  score: 71.14222555805995
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 65.39379351090479
   llm_score: 65
-  recency_score: 95.71112779029973
+  recency_score: 15.05965782088104
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 68.35349562682318
+- slug: justified
+  title: JUSTIFIED
+  score: 65.11767929964523
   llm_score: 85
-  recency_score: 1.7674781341158494
+  recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County has a serious problem that continues to escalate without any accountability. Police using excessive force when it is not necessary. The article below is the latest of a string of incidents dating back more than 5 years that has cost 7 lives, Mr. O J French’s death is number 8. Please show up and support the family and get involved.

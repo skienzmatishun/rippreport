@@ -20,52 +20,36 @@ related_articles:
   rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 87.50249278382162
-  llm_score: 89
+  score: 88.11787739920625
+  llm_score: 90
   recency_score: 62.766203094840556
   length_score: 100
   category_score: 100
   rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 87.2158212346474
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 86.40586665500943
   llm_score: 89
-  recency_score: 60.90283802520807
+  recency_score: 55.63813325756129
   length_score: 100
   category_score: 100
   rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 87.0126928578294
-  llm_score: 89
+  score: 84.55115439629094
+  llm_score: 85
   recency_score: 59.582503575891096
   length_score: 100
   category_score: 100
   rank: 4
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 83.94432819347098
-  llm_score: 85
-  recency_score: 55.63813325756129
-  length_score: 100
-  category_score: 100
-  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.71415337130175
-  llm_score: 89
+  score: 80.25261490976328
+  llm_score: 85
   recency_score: 31.641996913461323
   length_score: 100
   category_score: 100
-  rank: 6
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 82.45805375027084
-  llm_score: 90
-  recency_score: 25.977349376760323
-  length_score: 100
-  category_score: 100
-  rank: 7
+  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 78.42062624663217
@@ -73,20 +57,36 @@ related_articles:
   recency_score: 3.734070603109041
   length_score: 100
   category_score: 100
+  rank: 6
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 73.37219137505753
+  llm_score: 75
+  recency_score: 26.919243937873805
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 73.22728451950161
+  llm_score: 75
+  recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 71.47546947177244
-  llm_score: 85
-  recency_score: 49.59055156652082
+- slug: justified
+  title: JUSTIFIED
+  score: 70.96120573440335
+  llm_score: 75
+  recency_score: 86.24783727362167
   length_score: 100
   category_score: 0
   rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 70.29526829813445
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 66.1742651520877
   llm_score: 70
-  recency_score: 26.919243937873805
+  recency_score: 0.1327234885700072
   length_score: 100
   category_score: 100
   rank: 10

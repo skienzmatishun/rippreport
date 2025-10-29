@@ -37,38 +37,22 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 90.60509376242284
-  llm_score: 95
-  recency_score: 58.93310945574846
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 88.94754912742876
+  llm_score: 85
+  recency_score: 88.15906932828686
   length_score: 100
   category_score: 100
   rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 89.2518459117458
-  llm_score: 95
-  recency_score: 50.13699842634772
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 84.4512476085767
+  llm_score: 85
+  recency_score: 58.93310945574846
   length_score: 100
   category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.98195739608983
-  llm_score: 95
-  recency_score: 48.38272307458382
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 85.5349768271939
-  llm_score: 95
-  recency_score: 25.977349376760323
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 82.60841439097231
@@ -76,12 +60,28 @@ related_articles:
   recency_score: 6.9546935413200295
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 6
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 79.38113067334776
+  llm_score: 85
+  recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 78.2378020625291
   llm_score: 85
   recency_score: 18.545713406439127
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 76.67426508839752
+  llm_score: 75
+  recency_score: 48.38272307458382
   length_score: 100
   category_score: 100
   rank: 9

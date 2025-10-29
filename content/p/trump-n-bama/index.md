@@ -9,83 +9,83 @@ authors:
 rumble: v377p40
 alttags: Donald Trump speaks at an Alabama GOP dinner, endorsed by state congressmen, amid Space Command discussions
 related_articles:
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 70.185062126749
-  llm_score: 75
-  recency_score: 81.20290382386844
+- slug: what-the
+  title: What the
+  score: 63.03554000627546
+  llm_score: 70
+  recency_score: 54.731010040790416
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 66.26022166093031
-  llm_score: 85
-  recency_score: 15.691440796046965
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: backstory-153
-  title: No Boomers
-  score: 59.626942402790505
-  llm_score: 60
-  recency_score: 72.57512561813819
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 58.11614194534205
-  llm_score: 75
-  recency_score: 2.7549226447232087
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 54.206868388012815
-  llm_score: 63
-  recency_score: 25.34464452208322
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 50.97809728788549
-  llm_score: 57
-  recency_score: 28.357632371255608
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: the-crime-of-the-century
   title: THE CRIME OF THE CENTURY
-  score: 50.87181929297826
-  llm_score: 58
+  score: 58.256434677593646
+  llm_score: 70
   recency_score: 23.666825404358608
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: the-180
-  title: THE 180
-  score: 17.198145248791423
-  llm_score: 0
-  recency_score: 36.787944117144235
+  rank: 2
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 55.90117421096241
+  llm_score: 65
+  recency_score: 28.357632371255608
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 55.727173970256665
+  llm_score: 70
+  recency_score: 7.226630806668228
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 54.6651279617234
+  llm_score: 70
+  recency_score: 0.32333175120203433
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 54.62652956339254
+  llm_score: 70
+  recency_score: 0.07244216205141384
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 12.76549677849354
-  llm_score: 0
+  score: 52.76549677849355
+  llm_score: 65
   recency_score: 7.975729060208014
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 52.36071454185897
+  llm_score: 60
+  recency_score: 25.34464452208322
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 50.87560627631493
+  llm_score: 60
+  recency_score: 15.691440796046965
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 12.650250893333574
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 24.031215972902842
   llm_score: 0
-  recency_score: 7.226630806668228
+  recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 10

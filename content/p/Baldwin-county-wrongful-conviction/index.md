@@ -10,8 +10,8 @@ authors:
 - admin
 alttags: Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption
 related_articles:
-- slug: no-justice
-  title: NO JUSTICE
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
   score: 89.23076923076924
   llm_score: 95
   recency_score: 50
@@ -36,24 +36,24 @@ related_articles:
   rank: 3
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 86.15384615384616
-  llm_score: 90
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 86.15384615384616
-  llm_score: 90
+- slug: no-justice
+  title: NO JUSTICE
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 5
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 85.30054665785535
-  llm_score: 95
+  score: 79.14670050400919
+  llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
@@ -68,24 +68,24 @@ related_articles:
   rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 71.53846153846155
-  llm_score: 85
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
 - slug: innocent
   title: INNOCENT
-  score: 65.3846153846154
-  llm_score: 75
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: but-i-didnt-do-it
   title: But, I Didn’t Do It…
-  score: 65.3846153846154
-  llm_score: 75
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0

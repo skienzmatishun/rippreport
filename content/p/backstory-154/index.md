@@ -9,14 +9,30 @@ authors:
 - admin
 alttags: WHO official speaks at a podium about ending Covid-19 pandemic restrictions next week
 related_articles:
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 64.30882368053834
-  llm_score: 85
-  recency_score: 3.007353923499134
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 73.71442777353067
+  llm_score: 100
+  recency_score: 4.143780527949273
   length_score: 100
   category_score: 0
   rank: 1
+- slug: im-back-2
+  title: I'M BACK
+  score: 69.9579080553363
+  llm_score: 70
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 60.430616788773946
+  llm_score: 75
+  recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready
   score: 59.763011507923565
@@ -24,68 +40,52 @@ related_articles:
   recency_score: 13.459574801503088
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 59.20338079714824
-  llm_score: 75
-  recency_score: 9.821975181463475
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 58.329812388915286
-  llm_score: 75
-  recency_score: 4.143780527949273
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 51.81688717707421
-  llm_score: 56
-  recency_score: 37.809766650982276
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 58.08269942793559
+  llm_score: 75
+  recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 5
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 48.851930197166354
-  llm_score: 60
-  recency_score: 2.537546281581227
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 56.445906091340554
+  llm_score: 70
+  recency_score: 11.898389593713517
   length_score: 100
   category_score: 0
   rank: 6
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 27.360015645958065
-  llm_score: 23
+  score: 53.20616949211192
+  llm_score: 65
   recency_score: 10.840101698727413
   length_score: 100
   category_score: 0
   rank: 7
-- slug: im-back-2
-  title: I'M BACK
-  score: 26.880984978413224
-  llm_score: 0
-  recency_score: 99.72640235968593
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 48.92420829592296
+  llm_score: 60
+  recency_score: 3.007353923499134
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 14.276770634927777
+- slug: bsp-128
+  title: Big News
+  score: 17.355348715535737
   llm_score: 0
-  recency_score: 17.799009127030544
+  recency_score: 37.809766650982276
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 13.368983014417465
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 12.35200329975241
   llm_score: 0
-  recency_score: 11.898389593713517
+  recency_score: 5.288021448390664
   length_score: 100
   category_score: 0
   rank: 10

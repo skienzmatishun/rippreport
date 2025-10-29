@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: crazy
+  title: CRAZY
+  score: 69.80998277969147
+  llm_score: 75
+  recency_score: 3.764888067994434
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 78.22723439081022
-  llm_score: 85
+  score: 69.02094953139249
+  llm_score: 70
   recency_score: 93.63617195405108
-  category_score: 0
-  rank: 1
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 72.86972132414269
-  llm_score: 85
-  recency_score: 66.84860662071335
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 64.8397793310696
-  llm_score: 85
-  recency_score: 26.69889665534791
-  category_score: 0
-  rank: 3
-- slug: notice
-  title: 'NOTICE:'
-  score: 61.416550190464136
-  llm_score: 85
-  recency_score: 9.582750952320627
-  category_score: 0
-  rank: 4
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 59.203176969892496
-  llm_score: 75
-  recency_score: 33.51588484946244
-  category_score: 0
-  rank: 5
-- slug: cover-up
-  title: COVER UP
-  score: 56.61962391400206
-  llm_score: 58
-  recency_score: 80.0981195700103
-  category_score: 0
-  rank: 6
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 54.53339065902055
-  llm_score: 70
+  score: 68.10260819924657
+  llm_score: 85
   recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: cover-up
+  title: COVER UP
+  score: 66.93817224154006
+  llm_score: 70
+  recency_score: 80.0981195700103
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 64.89978563395591
+  llm_score: 70
+  recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 61.799830254668926
+  llm_score: 75
+  recency_score: 26.69889665534791
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 60.982689138638285
+  llm_score: 70
+  recency_score: 41.38747940114875
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 50.43193927883214
-  llm_score: 65
-  recency_score: 24.659696394160648
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 59.771674592225004
+  llm_score: 70
+  recency_score: 33.51588484946244
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 49.895862600164364
-  llm_score: 65
-  recency_score: 21.979313000821772
+- slug: notice
+  title: 'NOTICE:'
+  score: 59.1665770695878
+  llm_score: 75
+  recency_score: 9.582750952320627
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 45.54850028839998
-  llm_score: 65
-  recency_score: 0.24250144199986415
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 14.919894307818735
+  llm_score: 0
+  recency_score: 21.979313000821772
+  length_score: 100
   category_score: 0
   rank: 10
 ---

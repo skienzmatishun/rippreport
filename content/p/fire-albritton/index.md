@@ -18,17 +18,17 @@ authors:
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 74.92016345172406
-  llm_score: 85
+  score: 68.76631729787792
+  llm_score: 75
   recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 69.50583755648374
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 67.39852241830512
   llm_score: 85
-  recency_score: 36.787944117144235
+  recency_score: 23.090395718983192
   length_score: 100
   category_score: 0
   rank: 2
@@ -40,22 +40,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 64.70040780643329
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 63.351991402637594
   llm_score: 75
-  recency_score: 45.55265074181627
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 4
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 61.92550279003194
-  llm_score: 75
-  recency_score: 27.51576813520753
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
   score: 60.3203645123657
@@ -63,7 +55,7 @@ related_articles:
   recency_score: 17.082369330376963
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 59.6960404997282
@@ -71,15 +63,15 @@ related_articles:
   recency_score: 13.024263248233176
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 59.22003157289131
-  llm_score: 75
-  recency_score: 9.930205223793392
+  rank: 6
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 58.84857971310886
+  llm_score: 70
+  recency_score: 27.51576813520753
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 58.53304055999806
@@ -87,12 +79,20 @@ related_articles:
   recency_score: 5.464763639987247
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 57.75207377712592
+  llm_score: 75
+  recency_score: 0.3884795513184073
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 55.090830110612806
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 53.06618541904515
   llm_score: 65
-  recency_score: 23.090395718983192
+  recency_score: 9.930205223793392
   length_score: 100
   category_score: 0
   rank: 10

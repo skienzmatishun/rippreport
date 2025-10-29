@@ -7,82 +7,82 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 91.2680118179438
-  llm_score: 100
-  recency_score: 43.242076816634636
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 88.02905721631167
-  llm_score: 95
+  score: 84.95213413938859
+  llm_score: 90
   recency_score: 42.18887190602582
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 1
 - slug: no-justice
   title: NO JUSTICE
-  score: 83.3817777398132
-  llm_score: 82
+  score: 79.0740854321209
+  llm_score: 75
   recency_score: 63.98155530878573
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: innocent
-  title: INNOCENT
-  score: 63.04186840173321
-  llm_score: 77
-  recency_score: 26.772144611265798
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 24.907444552879003
-  llm_score: 0
-  recency_score: 11.898389593713517
-  length_score: 100
-  category_score: 100
-  rank: 5
+  rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 24.02153441958628
-  llm_score: -2
+  score: 77.55999595804782
+  llm_score: 85
   recency_score: 14.139973727310823
   length_score: 100
   category_score: 100
+  rank: 3
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 75.88339643332841
+  llm_score: 75
+  recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 22.826898995769785
-  llm_score: 0
+  score: 68.98074514961596
+  llm_score: 75
   recency_score: 73.37484347250358
   length_score: 100
   category_score: 0
   rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
+- slug: innocent
+  title: INNOCENT
+  score: 63.65725301711783
+  llm_score: 78
+  recency_score: 26.772144611265798
   length_score: 100
   category_score: 0
   rank: 8
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
+- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
+  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
+  score: 59.75169621476063
+  llm_score: 75
+  recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
   rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 12.095879349818032
-  llm_score: 0
+  score: 58.2497255036642
+  llm_score: 75
   recency_score: 3.623215773817211
   length_score: 100
   category_score: 0

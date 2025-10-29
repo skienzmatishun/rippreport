@@ -11,62 +11,70 @@ thumbnail: img/chris-fire.jpg
 authors:
 - ripp-report
 related_articles:
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 71.64453333516627
-  llm_score: 85
-  recency_score: 50.689466678580686
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 67.04728744075645
-  llm_score: 85
-  recency_score: 20.807368364916808
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 66.29351862375326
-  llm_score: 85
-  recency_score: 15.90787105439613
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 65.3216233179263
-  llm_score: 75
+  score: 62.244700241003216
+  llm_score: 70
   recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 1
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 61.75918371350614
+  llm_score: 70
+  recency_score: 46.434694137789805
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 61.24467626445897
-  llm_score: 75
+  score: 58.16775318753589
+  llm_score: 70
   recency_score: 23.090395718983192
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 60.92871513133024
-  llm_score: 75
+  score: 57.85179205440716
+  llm_score: 70
   recency_score: 21.03664835364649
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 57.816518209987215
+  llm_score: 70
+  recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 57.06274939298403
+  llm_score: 70
+  recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
   rank: 6
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 28.13297653762571
-  llm_score: 23
+  score: 57.05605346070264
+  llm_score: 70
   recency_score: 15.864347494567099
   length_score: 100
   category_score: 0
   rank: 7
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 54.87421987115758
+  llm_score: 70
+  recency_score: 1.6824291625241752
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
   score: 22.920063014859814
@@ -74,20 +82,12 @@ related_articles:
   recency_score: 73.98040959658876
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 18.68226063658305
-  llm_score: 0
-  recency_score: 46.434694137789805
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 14.040059351465267
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 19.33684102747395
   llm_score: 0
-  recency_score: 16.26038578452423
+  recency_score: 50.689466678580686
   length_score: 100
   category_score: 0
   rank: 10

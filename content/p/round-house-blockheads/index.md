@@ -24,24 +24,24 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
   score: 67.23076923076924
   llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
   score: 67.23076923076924
   llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
   score: 67.23076923076924
   llm_score: 78
   recency_score: 50
@@ -56,8 +56,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
+- slug: moratorium-party
+  title: MORATORIUM PARTY
   score: 67.23076923076924
   llm_score: 78
   recency_score: 50
@@ -72,26 +72,26 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 67.23076923076924
-  llm_score: 78
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 67.23076923076924
-  llm_score: 78
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 67.23076923076924
-  llm_score: 78
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0

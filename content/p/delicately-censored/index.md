@@ -10,27 +10,27 @@ authors:
 rumble: v3uuabg
 alttags: The Guardian webpage announcing removal of a document related to Osama bin Laden’s letter, sparking free speech debate
 related_articles:
+- slug: its-no-joke
+  title: IT’S NO JOKE
+  score: 73.11272886610907
+  llm_score: 100
+  recency_score: 0.2327376297088158
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: rumors
   title: RUMORS
-  score: 71.2399836151177
-  llm_score: 70
+  score: 68.16306053819461
+  llm_score: 65
   recency_score: 33.05989349826491
   length_score: 100
   category_score: 100
-  rank: 1
+  rank: 2
 - slug: sheriff-mack-out-oj-french-lawsuit-in
   title: Sheriff Mack Out OJ French Lawsuit In
   score: 62.30766535103523
   llm_score: 70
   recency_score: 49.99982478172893
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 61.30120534405734
-  llm_score: 65
-  recency_score: 63.45783473637261
   length_score: 100
   category_score: 0
   rank: 3
@@ -42,51 +42,51 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: the-crime-of-the-century
-  title: THE CRIME OF THE CENTURY
-  score: 59.27460186173011
+- slug: notice
+  title: 'NOTICE:'
+  score: 58.23653827881168
   llm_score: 70
-  recency_score: 30.284912101245666
+  recency_score: 23.53749881227582
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 55.870626050505685
-  llm_score: 50
-  recency_score: 88.15906932828686
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 58.224282267134264
+  llm_score: 60
+  recency_score: 63.45783473637261
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 51.57733459475085
+- slug: the-crime-of-the-century
+  title: THE CRIME OF THE CENTURY
+  score: 56.19767878480703
   llm_score: 65
-  recency_score: 0.2526748658804697
+  recency_score: 30.284912101245666
   length_score: 100
   category_score: 0
   rank: 7
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 51.549575994154694
-  llm_score: 65
-  recency_score: 0.07224396200544873
+- slug: ayatollah-of-alabama
+  title: “Ayatollah of Alabama”
+  score: 54.65425767167393
+  llm_score: 70
+  recency_score: 0.2526748658804697
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 24.34308566087865
-  llm_score: 0
-  recency_score: 83.23005679571122
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 51.57587180622521
+  llm_score: 65
+  recency_score: 0.24316674046380174
   length_score: 100
   category_score: 0
   rank: 9
-- slug: its-no-joke
-  title: IT’S NO JOKE
-  score: 11.57426732764751
-  llm_score: 0
-  recency_score: 0.2327376297088158
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 42.31880676338546
+  llm_score: 50
+  recency_score: 0.07224396200544873
   length_score: 100
   category_score: 0
   rank: 10

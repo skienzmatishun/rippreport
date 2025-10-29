@@ -53,14 +53,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 82.80462412241712
-  llm_score: 95
-  recency_score: 83.23005679571122
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 77.69230769230771
@@ -68,7 +60,23 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: earful
+  title: EARFUL
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: innocent
   title: INNOCENT
   score: 72.96474986586873
@@ -76,20 +84,12 @@ related_articles:
   recency_score: 19.270874128146687
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: earful
-  title: EARFUL
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 70.49693181472482
+  llm_score: 75
+  recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
   rank: 10

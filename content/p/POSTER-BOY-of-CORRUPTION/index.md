@@ -39,56 +39,56 @@ related_articles:
   rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 67.66079829100822
-  llm_score: 85
+  score: 61.50695213716207
+  llm_score: 75
   recency_score: 24.795188891553348
   length_score: 100
   category_score: 0
   rank: 4
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 66.83537193573783
-  llm_score: 85
-  recency_score: 19.429917582295765
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 60.56117118076843
+  llm_score: 75
+  recency_score: 18.647612674994708
   length_score: 100
   category_score: 0
   rank: 5
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 66.71501733461459
-  llm_score: 85
-  recency_score: 18.647612674994708
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 57.60460270496859
+  llm_score: 70
+  recency_score: 19.429917582295765
   length_score: 100
   category_score: 0
   rank: 6
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 65.44671503448421
-  llm_score: 85
+  score: 56.21594580371498
+  llm_score: 70
   recency_score: 10.403647724147305
   length_score: 100
   category_score: 0
   rank: 7
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 64.94582572648957
-  llm_score: 85
-  recency_score: 7.147867222182147
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 55.727173970256665
+  llm_score: 70
+  recency_score: 7.226630806668228
   length_score: 100
   category_score: 0
   rank: 8
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 64.90154974308594
-  llm_score: 85
+  score: 55.67078051231671
+  llm_score: 70
   recency_score: 6.86007333005856
   length_score: 100
   category_score: 0
   rank: 9
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 57.52381801167258
-  llm_score: 70
+  score: 54.4468949347495
+  llm_score: 65
   recency_score: 18.90481707587172
   length_score: 100
   category_score: 0

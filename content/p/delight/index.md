@@ -7,83 +7,83 @@ thumbnail: /img/fairhope-tax-payers-delight.png
 authors:
 - admin
 related_articles:
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 62.135267506662395
-  llm_score: 74
-  recency_score: 32.87923879330549
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: this-is-the-new-logo-for-fairhope
   title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 58.63084072659579
-  llm_score: 52
+  score: 69.70776380351887
+  llm_score: 70
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 58.08269942793559
-  llm_score: 75
-  recency_score: 2.537546281581227
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 57.88911383135539
-  llm_score: 75
-  recency_score: 1.2792399038099316
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 48.00343495068578
-  llm_score: 65
-  recency_score: 1.7723271794574902
-  length_score: 67.0
-  category_score: 0
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 27.176995511856827
-  llm_score: 25
-  recency_score: 1.6504708270693496
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 26.02443117969183
-  llm_score: 23
-  recency_score: 2.1588026679968904
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 1
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 25.478119549400027
-  llm_score: 0
+  score: 63.63196570324619
+  llm_score: 62
   recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 2
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 22.37239372156008
-  llm_score: 0
+  score: 62.37239372156009
+  llm_score: 65
   recency_score: 70.42055919014051
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 59.20338079714824
+  llm_score: 75
+  recency_score: 9.821975181463475
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 54.75065212204701
+  llm_score: 62
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 51.870585025845685
+  llm_score: 65
+  recency_score: 2.1588026679968904
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 51.792380127241444
+  llm_score: 65
+  recency_score: 1.6504708270693496
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 51.73526767750923
+  llm_score: 65
+  recency_score: 1.2792399038099316
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 44.926511873762706
+  llm_score: 60
+  recency_score: 1.7723271794574902
+  length_score: 67.0
+  category_score: 0
   rank: 9
-- slug: stepping-up
-  title: STEPPING UP
-  score: 11.895106123735616
-  llm_score: 0
-  recency_score: 2.318189804281508
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 42.69808404332019
+  llm_score: 50
+  recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 10

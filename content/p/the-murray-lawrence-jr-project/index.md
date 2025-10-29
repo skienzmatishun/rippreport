@@ -19,19 +19,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: no-justice
+  title: NO JUSTICE
+  score: 86.76621686101366
+  llm_score: 85
+  recency_score: 73.98040959658876
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 84.05380435990894
   llm_score: 95
   recency_score: 16.349728339408063
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 83.6550516699924
-  llm_score: 95
-  recency_score: 13.757835854950565
   length_score: 100
   category_score: 100
   rank: 3
@@ -43,51 +43,51 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: no-justice
-  title: NO JUSTICE
-  score: 80.61237070716751
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 74.84412563976758
   llm_score: 75
-  recency_score: 73.98040959658876
+  recency_score: 36.486816658489175
   length_score: 100
   category_score: 100
   rank: 5
-- slug: earful
-  title: EARFUL
-  score: 77.69230769230771
-  llm_score: 95
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: innocent
-  title: INNOCENT
-  score: 73.56211443318576
-  llm_score: 95
-  recency_score: 23.153743815707337
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 74.42428243922318
+  llm_score: 80
+  recency_score: 13.757835854950565
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 59.404016355706794
+- slug: earful
+  title: EARFUL
+  score: 62.30769230769232
   llm_score: 70
-  recency_score: 31.126106312094088
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 59.313054606507656
+- slug: innocent
+  title: INNOCENT
+  score: 58.177499048570375
   llm_score: 70
-  recency_score: 30.53485494229968
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
   rank: 10

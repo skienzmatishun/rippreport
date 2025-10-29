@@ -10,14 +10,6 @@ authors:
 rumble: v4kazef
 alttags: Senator Katie Britt appears on the Backstory Podcast discussing a bizarre Alabama love triangle story
 related_articles:
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 67.28045019096855
-  llm_score: 70
-  recency_score: 82.32292624129552
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
   score: 64.84358686151305
@@ -25,28 +17,36 @@ related_articles:
   recency_score: 66.48331459983474
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 62.58657438376161
+  llm_score: 70
+  recency_score: 51.81273349445037
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 63.12832315401752
-  llm_score: 70
+  score: 60.05140007709444
+  llm_score: 65
   recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 59.50965130683853
-  llm_score: 65
-  recency_score: 51.81273349445037
+- slug: threesome
+  title: THREESOME
+  score: 56.501912180516506
+  llm_score: 70
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 57.47639896103709
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 56.4711542658775
   llm_score: 70
-  recency_score: 18.596593246741016
+  recency_score: 12.0625027282037
   length_score: 100
   category_score: 0
   rank: 5
@@ -58,11 +58,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: threesome
-  title: THREESOME
-  score: 53.424989103593425
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 54.26180723457879
   llm_score: 65
-  recency_score: 12.262429173357202
+  recency_score: 17.701747024762053
   length_score: 100
   category_score: 0
   rank: 7
@@ -74,19 +74,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 45.031038003809556
-  llm_score: 50
-  recency_score: 17.701747024762053
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 51.32255280719094
+  llm_score: 60
+  recency_score: 18.596593246741016
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 44.163461958185195
-  llm_score: 50
-  recency_score: 12.0625027282037
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 24.203527114045468
+  llm_score: 0
+  recency_score: 82.32292624129552
   length_score: 100
   category_score: 0
   rank: 10

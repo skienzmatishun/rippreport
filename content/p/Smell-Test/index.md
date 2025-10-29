@@ -13,43 +13,43 @@ authors:
 - ripp-report
 alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices
 related_articles:
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 70.05098514149157
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 70.38402679514033
   llm_score: 95
-  recency_score: 0.3314034196950972
+  recency_score: 2.4961741684120615
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 70.05001666074284
-  llm_score: 95
-  recency_score: 0.3251082948283822
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 63.89713898764541
+  llm_score: 85
+  recency_score: 0.3314034196950972
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 64.30003510381758
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 63.886880253562424
   llm_score: 85
-  recency_score: 2.9502281748141934
+  recency_score: 0.2647216481556642
   length_score: 100
   category_score: 0
   rank: 3
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 63.89495230008091
-  llm_score: 85
-  recency_score: 0.3171899505257979
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: shooting-yourself-in-the-foot
   title: SHOOTING YOURSELF IN THE FOOT
   score: 57.25788127185212
   llm_score: 70
   recency_score: 17.176228267038702
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 55.06926587304835
+  llm_score: 70
+  recency_score: 2.9502281748141934
   length_score: 100
   category_score: 0
   rank: 5
@@ -61,14 +61,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 54.99941141052494
-  llm_score: 70
-  recency_score: 2.4961741684120615
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
   score: 54.96910988890634
@@ -76,7 +68,7 @@ related_articles:
   recency_score: 2.2992142778911093
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
   score: 54.67119417677983
@@ -84,12 +76,20 @@ related_articles:
   recency_score: 0.3627621490688241
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 54.65611102279319
+  rank: 8
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 54.665401276127454
   llm_score: 70
-  recency_score: 0.2647216481556642
+  recency_score: 0.3251082948283822
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 54.664183069311676
+  llm_score: 70
+  recency_score: 0.3171899505257979
   length_score: 100
   category_score: 0
   rank: 10

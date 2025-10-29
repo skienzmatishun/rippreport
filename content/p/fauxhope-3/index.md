@@ -12,22 +12,14 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 71.77378530918249
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 68.80841323901166
   llm_score: 85
-  recency_score: 51.52960450968603
+  recency_score: 32.254686053575696
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 67.31200085643964
-  llm_score: 85
-  recency_score: 22.528005566857594
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 64.2717235530524
@@ -35,15 +27,31 @@ related_articles:
   recency_score: 62.766203094840556
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 59.57764400824243
+  rank: 2
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 62.54301607841325
   llm_score: 70
-  recency_score: 32.254686053575696
+  recency_score: 51.52960450968603
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 62.22382661347941
+  llm_score: 70
+  recency_score: 49.45487298761609
   length_score: 100
   category_score: 0
   rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 61.49036339558599
+  llm_score: 70
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
   score: 59.41715388311664
@@ -51,20 +59,12 @@ related_articles:
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 59.14690353655633
-  llm_score: 65
-  recency_score: 49.45487298761609
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 58.41344031866291
-  llm_score: 65
-  recency_score: 44.68736207130882
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 58.37688016841482
+  llm_score: 75
+  recency_score: 4.449721094696223
   length_score: 100
   category_score: 0
   rank: 7
@@ -76,19 +76,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 58.08123162567041
+  llm_score: 70
+  recency_score: 22.528005566857594
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
   score: 55.79948633835545
   llm_score: 70
   recency_score: 7.696661199310357
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 55.29995709149174
-  llm_score: 70
-  recency_score: 4.449721094696223
   length_score: 100
   category_score: 0
   rank: 10

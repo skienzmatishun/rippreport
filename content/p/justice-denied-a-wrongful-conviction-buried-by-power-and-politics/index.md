@@ -19,20 +19,12 @@ alttags: Four men in suits, likely involved in the wrongful conviction of Murray
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 94.48418202746318
-  llm_score: 95
+  score: 97.56110510438626
+  llm_score: 100
   recency_score: 84.14718317851063
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 86.56916481077893
-  llm_score: 95
-  recency_score: 32.69957127006297
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: no-justice
   title: NO JUSTICE
   score: 84.93847356213568
@@ -40,7 +32,7 @@ related_articles:
   recency_score: 22.100078153881906
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: rule-32
   title: RULE 32
   score: 84.56061833888441
@@ -48,7 +40,7 @@ related_articles:
   recency_score: 19.644019202748584
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 82.45623006205552
@@ -56,44 +48,52 @@ related_articles:
   recency_score: 5.965495403360867
   length_score: 100
   category_score: 100
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 80.41531865693277
+  llm_score: 85
+  recency_score: 32.69957127006297
+  length_score: 100
+  category_score: 100
   rank: 5
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 72.5153428214474
-  llm_score: 95
-  recency_score: 16.349728339408063
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 71.53846153846155
-  llm_score: 85
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: innocent
-  title: INNOCENT
-  score: 70.58239603296472
-  llm_score: 95
-  recency_score: 3.7855742142706434
-  length_score: 100
-  category_score: 0
-  rank: 9
+  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 66.81090371202258
   llm_score: 85
   recency_score: 19.270874128146687
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 66.36149666760126
+  llm_score: 85
+  recency_score: 16.349728339408063
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: innocent
+  title: INNOCENT
+  score: 58.274703725272424
+  llm_score: 75
+  recency_score: 3.7855742142706434
   length_score: 100
   category_score: 0
   rank: 10

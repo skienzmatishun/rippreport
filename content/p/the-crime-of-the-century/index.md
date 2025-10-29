@@ -26,6 +26,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 71.44231343775509
+  llm_score: 75
+  recency_score: 89.37503734540803
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
   score: 70.5320610770075
@@ -33,23 +41,23 @@ related_articles:
   recency_score: 83.45839700054867
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: war
   title: WAR
-  score: 68.52445473844017
-  llm_score: 69
+  score: 66.0629162769017
+  llm_score: 65
   recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 68.36539036083201
-  llm_score: 70
-  recency_score: 89.37503734540803
+  rank: 5
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 62.35152493865319
+  llm_score: 75
+  recency_score: 30.284912101245666
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: trump-n-bama
   title: Trump N Bama
   score: 61.333357754516726
@@ -57,36 +65,28 @@ related_articles:
   recency_score: 23.666825404358608
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 60.6489460725022
-  llm_score: 75
-  recency_score: 19.21814947126418
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 59.27460186173011
-  llm_score: 70
-  recency_score: 30.284912101245666
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 54.905784903292954
-  llm_score: 70
+  score: 57.982707980216034
+  llm_score: 75
   recency_score: 1.887601871404123
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 52.52669385530888
+  rank: 8
+- slug: symbol
+  title: Veterans Day
+  score: 52.14862447330079
   llm_score: 65
-  recency_score: 6.423510059507628
+  recency_score: 3.9660590764550863
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: insanity-2
+  title: INSANITY
+  score: 51.833674981528574
+  llm_score: 65
+  recency_score: 1.9188873799356607
   length_score: 100
   category_score: 0
   rank: 10

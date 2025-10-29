@@ -8,82 +8,82 @@ authors:
 - admin
 alttags: Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics
 related_articles:
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 85.23205633245966
-  llm_score: 100
-  recency_score: 79.0083661609877
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 72.33663345662207
+  llm_score: 75
+  recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 69.59964233898992
-  llm_score: 85
-  recency_score: 37.39767520343444
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 69.84744094784428
+  llm_score: 75
+  recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
   rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 68.32402906492081
-  llm_score: 79
-  recency_score: 53.10618892198522
+- slug: threesome
+  title: THREESOME
+  score: 64.75986398373605
+  llm_score: 70
+  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
   rank: 3
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 63.97104276062178
-  llm_score: 85
-  recency_score: 0.8117779440414381
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 64.59446855764429
+  llm_score: 70
+  recency_score: 64.86404562468779
   length_score: 100
   category_score: 0
   rank: 4
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 58.354739624430714
-  llm_score: 75
+  score: 64.50858577827687
+  llm_score: 85
   recency_score: 4.305807558799547
   length_score: 100
   category_score: 0
   rank: 5
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 26.384774822578315
-  llm_score: 0
-  recency_score: 96.50103634675902
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 63.44579618514378
+  llm_score: 75
+  recency_score: 37.39767520343444
   length_score: 100
   category_score: 0
   rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 26.1827873027759
-  llm_score: 0
-  recency_score: 95.18811746804333
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 62.78556752645928
+  llm_score: 70
+  recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 14.619136853262805
-  llm_score: 0
-  recency_score: 20.024389546208226
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 57.817196606775624
+  llm_score: 75
+  recency_score: 0.8117779440414381
   length_score: 100
   category_score: 0
   rank: 8
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
-  score: 12.163856608463714
-  llm_score: 0
+  score: 52.163856608463725
+  llm_score: 65
   recency_score: 4.065067955014141
   length_score: 100
   category_score: 0
   rank: 9
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 12.151977008487608
-  llm_score: 0
+  score: 30.613515470026073
+  llm_score: 30
   recency_score: 3.9878505551694436
   length_score: 100
   category_score: 0

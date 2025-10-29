@@ -10,63 +10,83 @@ alttags: Muddy wave cresting near a “Fly Creek” sign, illustrating infrastru
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 75.14222555805995
-  llm_score: 70
+  score: 72.41709658312305
+  llm_score: 75
   recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-shit-creek
-  title: CATALYST SHIT CREEK
-  score: 70.06935946639769
-  llm_score: 85
-  recency_score: 10.34679733198841
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 63.20419383002445
+  llm_score: 65
+  recency_score: 75.82725989515886
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 68.1495449686994
-  llm_score: 85
-  recency_score: 0.7477248434970013
-  rank: 3
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 68.13329019231236
-  llm_score: 85
-  recency_score: 0.6664509615618259
-  rank: 4
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 60.937497020713
+  score: 58.413459246702324
   llm_score: 75
   recency_score: 4.687485103565025
-  rank: 5
-- slug: wetlands
-  title: WETLANDS
-  score: 60.15160762544527
-  llm_score: 75
-  recency_score: 0.7580381272263648
-  rank: 6
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 57.43742822387479
-  llm_score: 70
-  recency_score: 7.1871411193739325
-  rank: 7
-- slug: big-head-gully-and-the-fruit-nuts
-  title: BIG HEAD GULLY AND THE FRUIT NUTS
-  score: 52.20947060996274
-  llm_score: 65
-  recency_score: 1.0473530498137102
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: grinder-pumps
   title: GRINDER PUMPS
-  score: 52.20718757426789
-  llm_score: 65
+  score: 57.851682749436854
+  llm_score: 75
   recency_score: 1.0359378713394423
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: wetlands
+  title: WETLANDS
+  score: 57.808928942650226
+  llm_score: 75
+  recency_score: 0.7580381272263648
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 57.794838609471064
+  llm_score: 75
+  recency_score: 0.6664509615618259
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: holes
   title: HOLES
-  score: 52.10793937687783
-  llm_score: 65
+  score: 57.77533798221373
+  llm_score: 75
   recency_score: 0.5396968843891398
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 56.21156670607193
+  llm_score: 70
+  recency_score: 10.375183589467447
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 54.77651585381751
+  llm_score: 70
+  recency_score: 1.0473530498137102
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 54.730419206691856
+  llm_score: 70
+  recency_score: 0.7477248434970013
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fly Creek residents are now seeing more mud coming into the creek due to infrastructure failures. The Publix project started the damage by dumping tons of mud into the creek. Then came the fly creek apartments that no one wanted except Mayor Kant, Jack Burrell and the City Council. Now all the predictions are coming true AGAIN.

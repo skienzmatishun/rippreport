@@ -8,83 +8,83 @@ rumble: v2zy9vi
 thumbnail: img/not-a-hard-liquor.jpg
 alttags: Alabama Governor Kay Ivey’s likeness on a beverage can, resembling Colonel Sanders, alongside Baldwin County seal & podcas...
 related_articles:
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 60.697950015902315
-  llm_score: 75
-  recency_score: 19.53667510336496
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 60.27044364596575
-  llm_score: 75
-  recency_score: 16.757883698777256
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 57.9561422686742
-  llm_score: 73
-  recency_score: 9.714924746382225
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 57.46969252449948
-  llm_score: 68
-  recency_score: 26.55300140924655
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 54.857024203364475
-  llm_score: 67
-  recency_score: 13.570657321869012
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 50.58452330589968
-  llm_score: 58
-  recency_score: 21.799401488347854
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: bad-faith
   title: Bad Faith
-  score: 24.134319278122803
-  llm_score: 0
+  score: 67.21124235504588
+  llm_score: 70
   recency_score: 81.87307530779819
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 15.70263869238651
-  llm_score: 0
-  recency_score: 27.067151500512303
+  rank: 1
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 61.04606176743815
+  llm_score: 75
+  recency_score: 21.799401488347854
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 2
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 13.655051669992396
-  llm_score: 0
+  score: 59.808897823838564
+  llm_score: 75
   recency_score: 13.757835854950565
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 56.70317804951832
+  llm_score: 70
+  recency_score: 13.570657321869012
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 55.62353867834563
+  llm_score: 65
+  recency_score: 26.55300140924655
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 51.46718078513308
+  llm_score: 60
+  recency_score: 19.53667510336496
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 40.31802330777113
+  llm_score: 40
+  recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 13.183479940378351
-  llm_score: 0
+  score: 39.0296337865322
+  llm_score: 42
   recency_score: 10.692619612459277
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 14.116597492119578
+  llm_score: 0
+  recency_score: 16.757883698777256
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 13.033065345597265
+  llm_score: 0
+  recency_score: 9.714924746382225
   length_score: 100
   category_score: 0
   rank: 10

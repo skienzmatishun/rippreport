@@ -49,6 +49,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 58.01634197321537
+  llm_score: 75
+  recency_score: 2.10622282589978
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 57.97025308297104
+  llm_score: 75
+  recency_score: 1.8066450393116897
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
   score: 57.8253195602064
@@ -56,7 +72,7 @@ related_articles:
   recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
   score: 57.70522969517782
@@ -64,15 +80,7 @@ related_articles:
   recency_score: 0.08399301865574989
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 57.6990397221736
-  llm_score: 75
-  recency_score: 0.0437581941283173
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 8
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
   score: 57.69774442396807
@@ -80,20 +88,12 @@ related_articles:
   recency_score: 0.03533875579235944
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 54.89333000604796
-  llm_score: 70
-  recency_score: 1.8066450393116897
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 51.86249581936921
-  llm_score: 65
-  recency_score: 2.10622282589978
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 56.46827049140437
+  llm_score: 73
+  recency_score: 0.0437581941283173
   length_score: 100
   category_score: 0
   rank: 10

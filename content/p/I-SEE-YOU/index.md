@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Fairhope city clock tower under surveillance cameras, symbolizing a council ignoring public input
 related_articles:
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 79.15594800324254
-  llm_score: 90
-  recency_score: 37.70632002161693
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 78.37601525480912
-  llm_score: 95
+  score: 68.59078487672731
+  llm_score: 90
   recency_score: 10.840101698727413
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 71.90296517200161
+  score: 65.54150274051449
   llm_score: 85
   recency_score: 11.019767813344055
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: people-power
-  title: PEOPLE POWER
-  score: 63.7721535390645
-  llm_score: 75
-  recency_score: 0.1476902604299711
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 2
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 63.38207160810361
-  llm_score: 72
+  score: 65.46879139292679
+  llm_score: 85
   recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 60.41635692640262
+  llm_score: 70
+  recency_score: 37.70632002161693
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: truth
+  title: TRUTH
+  score: 55.51325650628477
+  llm_score: 70
+  recency_score: 5.836167290850916
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 62.314503696739116
-  llm_score: 72
-  recency_score: 3.4300246449273972
+- slug: invitation
+  title: INVITATION
+  score: 55.45381725778763
+  llm_score: 70
+  recency_score: 5.449812175619502
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 62.10073107864844
-  llm_score: 72
-  recency_score: 2.0048738576562246
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 55.143080714604224
+  llm_score: 70
+  recency_score: 3.4300246449273972
   length_score: 100
   category_score: 0
   rank: 7
-- slug: back-stabber
-  title: BACK STABBER
-  score: 61.9340211014293
-  llm_score: 72
-  recency_score: 0.8934740095286622
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 60.95110308852487
+  score: 55.07805444976911
   llm_score: 70
   recency_score: 3.007353923499134
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 60.53128700201961
+  rank: 8
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 54.76218423038271
   llm_score: 70
-  recency_score: 0.208580013464076
+  recency_score: 0.9541974974875161
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: back-stabber
+  title: BACK STABBER
+  score: 54.752842155312116
+  llm_score: 70
+  recency_score: 0.8934740095286622
   length_score: 100
   category_score: 0
   rank: 10

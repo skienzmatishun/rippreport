@@ -22,75 +22,75 @@ related_articles:
   rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 86.81609482124166
-  llm_score: 93
+  score: 81.89301789816473
+  llm_score: 85
   recency_score: 42.3046163380707
   length_score: 100
   category_score: 100
   rank: 2
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 74.61190227908958
-  llm_score: 80
-  recency_score: 14.977364814082216
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 81.00015943796294
+  llm_score: 70
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 100
   rank: 3
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 69.30297207597846
-  llm_score: 75
-  recency_score: 0.4693184938599064
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 80.76574843293574
+  llm_score: 90
+  recency_score: 14.977364814082216
   length_score: 100
   category_score: 100
   rank: 4
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 65.89990793020445
-  llm_score: 85
-  recency_score: 13.34940154632884
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 76.18150459054358
+  llm_score: 75
+  recency_score: 45.179779838533264
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 29.876970954123998
-  llm_score: 0
-  recency_score: 44.200311201805995
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 75.82894140000263
+  llm_score: 75
+  recency_score: 42.88811910001705
   length_score: 100
   category_score: 100
   rank: 6
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 29.675095246156474
-  llm_score: 0
-  recency_score: 42.88811910001705
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 72.95389403104708
+  llm_score: 70
+  recency_score: 44.200311201805995
   length_score: 100
   category_score: 100
   rank: 7
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 29.104720701989265
-  llm_score: 0
+  score: 72.18164377891235
+  llm_score: 70
   recency_score: 39.1806845629302
   length_score: 100
   category_score: 100
   rank: 8
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 28.796889205928196
-  llm_score: -2
-  recency_score: 45.179779838533264
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 66.22604899905538
+  llm_score: 70
+  recency_score: 0.4693184938599064
   length_score: 100
   category_score: 100
   rank: 9
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 23.769390207193695
-  llm_score: -23
-  recency_score: 96.50103634675902
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 59.746061776358296
+  llm_score: 75
+  recency_score: 13.34940154632884
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 10
 ---
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.

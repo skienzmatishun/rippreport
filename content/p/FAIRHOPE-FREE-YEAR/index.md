@@ -12,22 +12,6 @@ authors:
 - admin
 alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
 related_articles:
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 74.49619292837033
-  llm_score: 95
-  recency_score: 29.2252540344071
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 74.42288707223162
-  llm_score: 95
-  recency_score: 28.748765969505406
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
   score: 70.05535273262169
@@ -35,23 +19,15 @@ related_articles:
   recency_score: 0.35979276204090305
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 69.64712615717185
+  rank: 1
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 68.34234677452419
   llm_score: 85
-  recency_score: 37.70632002161693
+  recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 68.76779469954123
-  llm_score: 85
-  recency_score: 31.990665547017855
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
   score: 68.1495108055248
@@ -59,28 +35,52 @@ related_articles:
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 63.962456023507336
-  llm_score: 85
-  recency_score: 0.7559641527975924
+  rank: 3
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 63.4932800033257
+  llm_score: 75
+  recency_score: 37.70632002161693
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 62.11519476453931
+  llm_score: 75
+  recency_score: 28.748765969505406
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 59.53702546877199
+  llm_score: 70
+  recency_score: 31.990665547017855
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
-  score: 58.32806819110848
-  llm_score: 75
+  score: 55.2511451141854
+  llm_score: 70
   recency_score: 4.13244324220501
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 57.275897856836416
-  llm_score: 74
+  score: 54.814359395297956
+  llm_score: 70
   recency_score: 1.2933360694366538
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 54.789840383781126
+  llm_score: 70
+  recency_score: 1.1339624945772369
   length_score: 100
   category_score: 0
   rank: 9

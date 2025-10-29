@@ -12,8 +12,8 @@ alttags: Judge Wilters, new Alabama football coach, appears on a podcast discuss
 related_articles:
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 68.5932858342233
-  llm_score: 70
+  score: 67.36251660345405
+  llm_score: 68
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
@@ -42,22 +42,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 55.92581328245373
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 55.943887876026636
   llm_score: 70
-  recency_score: 8.517786335949154
+  recency_score: 8.635271194173066
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 55.48963947871326
-  llm_score: 68
-  recency_score: 13.682656611636107
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: winner-and-loser
   title: WINNER AND LOSER
   score: 55.36885139719357
@@ -65,28 +57,36 @@ related_articles:
   recency_score: 4.897534081758149
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 50.56656255563634
+  llm_score: 60
+  recency_score: 13.682656611636107
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 52.866964799103556
-  llm_score: 65
-  recency_score: 8.635271194173066
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 50.34806602667035
+  llm_score: 60
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 8
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 49.77196712860758
+  llm_score: 60
+  recency_score: 8.517786335949154
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
   score: 45.81173008528325
   llm_score: 50
   recency_score: 22.77624555434108
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 44.19421987282419
-  llm_score: 50
-  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 10

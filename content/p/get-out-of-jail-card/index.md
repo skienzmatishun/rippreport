@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Get Out of Jail Free Monopoly card symbolizing how some avoid accountability in Baldwin County politics
 related_articles:
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 84.50741174036145
-  llm_score: 95
-  recency_score: 42.537058701807275
-  rank: 1
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 82.0
-  llm_score: 90
-  recency_score: 50
-  rank: 2
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 78.19359590659946
+  score: 71.53846153846155
   llm_score: 85
-  recency_score: 50.96797953299731
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 71.07586098657028
+  llm_score: 90
+  recency_score: 26.993096412706674
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 69.52116951867757
+  llm_score: 75
+  recency_score: 1.887601871404123
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 77.94831549449526
-  llm_score: 95
-  recency_score: 9.741577472476289
-  rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 76.21706565845578
-  llm_score: 95
-  recency_score: 1.0853282922788892
-  rank: 5
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 74.25279266204939
-  llm_score: 90
+  score: 65.57907127849954
+  llm_score: 85
   recency_score: 11.263963310246938
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 65.53353531276883
+  llm_score: 75
+  recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 64.23647056950882
+  llm_score: 75
+  recency_score: 42.537058701807275
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 57.85928127573523
+  llm_score: 75
+  recency_score: 1.0853282922788892
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 72.06906129211704
-  llm_score: 90
+  score: 57.74543176316698
+  llm_score: 75
   recency_score: 0.34530646058523073
-  rank: 7
-- slug: consequences
-  title: CONSEQUENCES
-  score: 68.54497930774862
-  llm_score: 85
-  recency_score: 2.7248965387430797
-  rank: 8
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 68.35935453733623
-  llm_score: 85
-  recency_score: 1.7967726866811407
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 60.70313038712806
-  llm_score: 75
+  score: 55.15625414394467
+  llm_score: 70
   recency_score: 3.5156519356403035
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Here are “some examples” of how a Baldwin County, Get Out of Jail Card, has helped, mostly politicians, AVOID any transparency or accountability.

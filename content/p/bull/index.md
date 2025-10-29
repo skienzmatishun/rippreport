@@ -13,72 +13,82 @@ authors:
 related_articles:
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 84.47322154942498
+  score: 83.82555503801922
   llm_score: 95
   recency_score: 89.86610774712484
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 81.57394274499862
-  llm_score: 90
-  recency_score: 92.86971372499306
-  category_score: 0
-  rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 70.15412040196408
-  llm_score: 100
-  recency_score: 0.7706020098203834
-  category_score: 0
-  rank: 3
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 69.10485264964663
-  llm_score: 95
+  score: 65.84988665357434
+  llm_score: 85
   recency_score: 13.024263248233176
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 69.09061851767918
-  llm_score: 95
+  score: 65.83893732129168
+  llm_score: 85
   recency_score: 12.953092588395847
+  length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 67.52339909576419
-  llm_score: 95
+  score: 64.63338391981861
+  llm_score: 85
   recency_score: 5.11699547882092
+  length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 67.25919197418094
-  llm_score: 95
+  score: 64.43014767244689
+  llm_score: 85
   recency_score: 3.795959870904708
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.96470800151084
+  llm_score: 85
+  recency_score: 0.7706020098203834
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 63.87579217726493
+  llm_score: 85
+  recency_score: 0.19264915222194337
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 59.73055140526493
-  llm_score: 85
-  recency_score: 1.152757026324628
-  category_score: 0
-  rank: 8
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 45.90207483880251
-  llm_score: 65
-  recency_score: 2.0103741940125253
-  category_score: 0
-  rank: 9
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 45.53707995746684
-  llm_score: 65
+  score: 63.87467689035911
+  llm_score: 85
   recency_score: 0.18539978733415308
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: going-down
+  title: GOING DOWN
+  score: 58.03272232548547
+  llm_score: 75
+  recency_score: 2.212695115655463
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 54.7927318502038
+  llm_score: 70
+  recency_score: 1.152757026324628
+  length_score: 100
   category_score: 0
   rank: 10
 ---

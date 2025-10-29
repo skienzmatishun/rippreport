@@ -8,14 +8,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 78.77404007552455
-  llm_score: 85
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.01685066683008
@@ -23,28 +15,36 @@ related_articles:
   recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 75.28763102026514
+  rank: 1
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 75.08173238321687
   llm_score: 79
-  recency_score: 98.36960163172333
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: war
-  title: WAR
-  score: 72.66114831640833
-  llm_score: 75
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 2
 - slug: red-lips-award
   title: RED LIPS AWARD
   score: 72.296566926891
   llm_score: 75
   recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 69.7491694818036
+  llm_score: 70
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: war
+  title: WAR
+  score: 66.50730216256217
+  llm_score: 65
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 5
@@ -56,14 +56,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 57.797398195934676
-  llm_score: 75
-  recency_score: 0.6830882735752963
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: symbol
   title: Veterans Day
   score: 55.207433402107476
@@ -71,12 +63,20 @@ related_articles:
   recency_score: 3.848317113698496
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: insanity-2
   title: INSANITY
   score: 54.90183394033117
   llm_score: 70
   recency_score: 1.8619206121525609
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 54.720475119011596
+  llm_score: 70
+  recency_score: 0.6830882735752963
   length_score: 100
   category_score: 0
   rank: 9

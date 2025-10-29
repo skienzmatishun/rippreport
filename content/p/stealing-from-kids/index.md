@@ -22,46 +22,38 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 75.35317115661955
-  llm_score: 85
-  recency_score: 74.79561251802704
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 74.09628447755524
+  llm_score: 95
+  recency_score: 26.62584910410898
   length_score: 100
   category_score: 0
   rank: 2
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 71.01936140063216
-  llm_score: 90
-  recency_score: 26.62584910410898
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 72.27624807969647
+  llm_score: 80
+  recency_score: 74.79561251802704
   length_score: 100
   category_score: 0
   rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 69.2928643256522
-  llm_score: 85
+  score: 66.21594124872912
+  llm_score: 80
   recency_score: 35.40361811673922
   length_score: 100
   category_score: 0
   rank: 4
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 68.51053672902155
-  llm_score: 90
+  score: 65.43361365209847
+  llm_score: 85
   recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
   rank: 5
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 66.13150272298479
-  llm_score: 85
-  recency_score: 14.854767699401043
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 65.35309269063613
@@ -69,7 +61,7 @@ related_articles:
   recency_score: 9.795102489134761
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
   score: 63.901810713906016
@@ -77,20 +69,28 @@ related_articles:
   recency_score: 0.36176964038901915
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 58.76816867887796
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 56.90073349221556
   llm_score: 70
-  recency_score: 26.993096412706674
+  recency_score: 14.854767699401043
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
   score: 54.650318318034174
   llm_score: 70
   recency_score: 0.22706906722204626
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 52.61432252503181
+  llm_score: 60
+  recency_score: 26.993096412706674
   length_score: 100
   category_score: 0
   rank: 10

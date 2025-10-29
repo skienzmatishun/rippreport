@@ -10,81 +10,81 @@ alttags: Pigs stand in front of a Bay Minette water tower and American flag, ref
 related_articles:
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 71.6319657032462
-  llm_score: 75
+  score: 68.55504262632311
+  llm_score: 70
   recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 1
 - slug: fauxhope
   title: FAUXHOPE
-  score: 69.6601765213097
-  llm_score: 87
+  score: 62.275561136694314
+  llm_score: 75
   recency_score: 29.79114738851293
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 67.5086928128038
-  llm_score: 75
-  recency_score: 63.80650328322465
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 55.042499316052485
-  llm_score: 65
-  recency_score: 22.77624555434108
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 25.993237401357476
-  llm_score: 23
-  recency_score: 1.9560431088235848
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 18.9008301833487
-  llm_score: 0
+  score: 61.97775326027179
+  llm_score: 70
   recency_score: 47.85539619176654
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 61.35484665895765
+  llm_score: 65
+  recency_score: 63.80650328322465
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 17.355348715535737
-  llm_score: 0
+  score: 60.43227179245883
+  llm_score: 70
   recency_score: 37.809766650982276
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 58.119422392975565
+  llm_score: 70
+  recency_score: 22.77624555434108
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 54.91631432443441
+  llm_score: 70
+  recency_score: 1.9560431088235848
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 12.907611288676803
-  llm_score: 0
-  recency_score: 8.899473376399213
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 54.72221691101637
+  llm_score: 70
+  recency_score: 0.6944099216063174
   length_score: 100
   category_score: 0
   rank: 8
 - slug: new-year-new-problems
   title: NEW YEAR NEW PROBLEMS
-  score: 11.651620607669143
-  llm_score: 0
+  score: 47.95931291536146
+  llm_score: 59
   recency_score: 0.7355339498494264
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 11.64529383409328
-  llm_score: 0
-  recency_score: 0.6944099216063174
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 43.67684205790758
+  llm_score: 50
+  recency_score: 8.899473376399213
   length_score: 100
   category_score: 0
   rank: 10

@@ -13,19 +13,19 @@ authors:
 - admin
 alttags: Murray Lawrence Jr., subject of a wrongful conviction case similar to Just Mercy, in black and white with blurred Alabama ...
 related_articles:
-- slug: no-justice
-  title: NO JUSTICE
-  score: 88.85926507267268
+- slug: rule-32
+  title: RULE 32
+  score: 87.70372936203415
   llm_score: 90
-  recency_score: 67.58522297237245
+  recency_score: 60.07424085322191
   length_score: 100
   category_score: 100
   rank: 1
-- slug: rule-32
-  title: RULE 32
-  score: 84.62680628511107
+- slug: no-justice
+  title: NO JUSTICE
+  score: 85.78234199574962
   llm_score: 85
-  recency_score: 60.07424085322191
+  recency_score: 67.58522297237245
   length_score: 100
   category_score: 100
   rank: 2
@@ -53,14 +53,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 72.91278607011516
-  llm_score: 85
-  recency_score: 58.93310945574846
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
@@ -68,7 +60,7 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 71.53846153846155
@@ -76,19 +68,27 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 66.758939916269
+  llm_score: 75
+  recency_score: 58.93310945574846
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: but-i-didnt-do-it
   title: But, I Didn’t Do It…
-  score: 70.49878104871303
-  llm_score: 85
+  score: 64.34493489486688
+  llm_score: 75
   recency_score: 43.242076816634636
   length_score: 100
   category_score: 0
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 56.39643559050218
-  llm_score: 70
+  score: 59.47335866742526
+  llm_score: 75
   recency_score: 11.57683133826407
   length_score: 100
   category_score: 0

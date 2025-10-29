@@ -11,28 +11,52 @@ alttags: 'Podcast cover art: Alien Indictment, featuring a vintage photo resembl
 related_articles:
 - slug: im-back-2
   title: I'M BACK
-  score: 71.59382712786042
-  llm_score: 75
+  score: 68.51690405093734
+  llm_score: 70
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 1
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 69.42213725323005
-  llm_score: 75
+  score: 66.34521417630697
+  llm_score: 70
   recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bsp-128
-  title: Big News
-  score: 62.96285985818851
-  llm_score: 75
-  recency_score: 34.2585890782252
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 63.92895661906492
+  llm_score: 65
+  recency_score: 80.5382180239219
   length_score: 100
   category_score: 0
   rank: 3
+- slug: bsp-128
+  title: Big News
+  score: 59.88593678126543
+  llm_score: 70
+  recency_score: 34.2585890782252
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: balloonapaloosa
+  title: Balloonapaloosa
+  score: 59.65757449318179
+  llm_score: 60
+  recency_score: 72.77423420568157
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 59.49673941207162
+  llm_score: 70
+  recency_score: 31.72880617846543
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
   score: 58.269936526627696
@@ -40,51 +64,27 @@ related_articles:
   recency_score: 3.7545874230799345
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 50.72690715980664
-  llm_score: 63
-  recency_score: 2.7248965387430797
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 23.928956619064913
-  llm_score: 0
-  recency_score: 80.5382180239219
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: balloonapaloosa
-  title: Balloonapaloosa
-  score: 22.734497570104857
-  llm_score: 0
-  recency_score: 72.77423420568157
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 22.61247114403175
-  llm_score: 0
-  recency_score: 71.98106243620636
+- slug: big-mules
+  title: Big Mules
+  score: 57.154005591809096
+  llm_score: 50
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 8
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 16.41981633514853
-  llm_score: 0
-  recency_score: 31.72880617846543
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 55.03459946749895
+  llm_score: 70
+  recency_score: 2.7248965387430797
   length_score: 100
   category_score: 0
   rank: 9
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 11.892186811983247
-  llm_score: 0
+  score: 54.96910988890634
+  llm_score: 70
   recency_score: 2.2992142778911093
   length_score: 100
   category_score: 0

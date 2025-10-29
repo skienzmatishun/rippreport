@@ -8,14 +8,6 @@ rumble: v3fo50k
 thumbnail: img/pure-kafka.jpg
 alttags: Stephen Nodine discusses legal rulings while a scene from Congo & Baldwin County logo are displayed in the podcast backdrop
 related_articles:
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 76.73797885851222
-  llm_score: 100
-  recency_score: 23.79686258032939
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
   score: 72.21676243074786
@@ -23,15 +15,7 @@ related_articles:
   recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 70.24844347132141
-  llm_score: 85
-  recency_score: 41.61488256358909
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: alien-indictment
   title: Alien Indictment
   score: 69.42213725323005
@@ -39,52 +23,68 @@ related_articles:
   recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: im-back-2
   title: I'M BACK
-  score: 68.29136717740508
-  llm_score: 75
+  score: 65.214444100482
+  llm_score: 70
   recency_score: 68.8938866531329
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 67.9489177105475
-  llm_score: 68
-  recency_score: 94.66796511855877
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 62.66818095700273
-  llm_score: 75
-  recency_score: 32.34317622051765
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 51.97886824390465
-  llm_score: 65
-  recency_score: 2.862643585380166
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 3
 - slug: stephen-nodine
   title: STEPHEN NODINE
-  score: 19.663998752678694
-  llm_score: 0
+  score: 62.74092182960178
+  llm_score: 70
   recency_score: 52.81599189241148
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 62.21320491544658
+  llm_score: 75
+  recency_score: 29.385831950402675
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 58.27644039697376
+  llm_score: 70
+  recency_score: 23.79686258032939
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 57.9407511636291
+  llm_score: 65
+  recency_score: 41.61488256358909
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 11.808155454498557
-  llm_score: 0
+  score: 51.80815545449857
+  llm_score: 65
   recency_score: 1.7530104542406209
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 19.084624687922787
+  llm_score: 0
+  recency_score: 49.0500604714981
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 11.97886824390464
+  llm_score: 0
+  recency_score: 2.862643585380166
   length_score: 100
   category_score: 0
   rank: 10

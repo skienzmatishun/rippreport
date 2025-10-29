@@ -16,16 +16,16 @@ alttags: New candidates taking root in Fauxhope elections, casting a ballot into
 related_articles:
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 84.76518609154981
-  llm_score: 95
+  score: 78.61133993770366
+  llm_score: 85
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 83.97790121883867
-  llm_score: 95
+  score: 77.82405506499252
+  llm_score: 85
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
@@ -38,14 +38,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 74.77553015687732
-  llm_score: 95
-  recency_score: 31.040946019702552
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
   score: 66.30023292620773
@@ -53,44 +45,52 @@ related_articles:
   recency_score: 15.95151402035018
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 62.467837849185024
+  llm_score: 75
+  recency_score: 31.040946019702552
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 66.22086273866911
-  llm_score: 85
-  recency_score: 15.435607801349112
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 62.22382661347941
+  llm_score: 70
+  recency_score: 49.45487298761609
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 65.30074969040248
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 60.06701658482296
   llm_score: 75
-  recency_score: 49.45487298761609
+  recency_score: 15.435607801349112
   length_score: 100
   category_score: 0
   rank: 7
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 63.95900331481831
-  llm_score: 85
+  score: 57.80515716097216
+  llm_score: 75
   recency_score: 0.7335215463189301
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 63.85404530347247
-  llm_score: 85
-  recency_score: 0.051294472570959884
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: all-mouth
   title: ALL MOUTH
   score: 56.40622156031888
   llm_score: 70
   recency_score: 11.640440142072652
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 54.623276072703234
+  llm_score: 70
+  recency_score: 0.051294472570959884
   length_score: 100
   category_score: 0
   rank: 10

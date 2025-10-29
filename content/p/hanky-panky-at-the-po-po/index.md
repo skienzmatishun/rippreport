@@ -42,22 +42,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 88.84056556642265
-  llm_score: 95
-  recency_score: 47.463676181747225
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 83.6748692895098
-  llm_score: 95
-  recency_score: 88.88665038181365
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 82.55136413166147
@@ -65,7 +49,7 @@ related_articles:
   recency_score: 6.583866855799505
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 82.4312214467163
@@ -73,7 +57,7 @@ related_articles:
   recency_score: 45.8029394036559
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 6
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 78.0856691536301
@@ -81,11 +65,27 @@ related_articles:
   recency_score: 17.55684949859567
   length_score: 100
   category_score: 100
+  rank: 7
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 77.52102313566365
+  llm_score: 85
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 76.53287325873035
+  llm_score: 75
+  recency_score: 47.463676181747225
+  length_score: 100
+  category_score: 100
   rank: 9
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 74.52089722313889
-  llm_score: 95
+  score: 68.36705106929273
+  llm_score: 85
   recency_score: 29.385831950402675
   length_score: 100
   category_score: 0

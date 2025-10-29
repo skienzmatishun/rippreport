@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents
 related_articles:
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 84.69796118899157
-  llm_score: 100
-  recency_score: 0.5367477284451874
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: lee-county-no-justice-center
-  title: LEE COUNTY NO-JUSTICE CENTER
-  score: 81.92272822031997
-  llm_score: 100
-  recency_score: 57.49773343207967
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 81.57984121450582
-  llm_score: 85
+  score: 72.3490719837366
+  llm_score: 70
   recency_score: 40.26896789428779
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 1
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 70.26979251992418
-  llm_score: 67
+  score: 72.11594636607803
+  llm_score: 70
   recency_score: 38.75365137950711
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 2
 - slug: cameras
   title: CAMERAS
-  score: 68.78331643003806
-  llm_score: 65
+  score: 71.86023950696114
+  llm_score: 70
   recency_score: 37.09155679524731
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: police-report
-  title: POLICE REPORT
-  score: 60.69594995226969
-  llm_score: 61
-  recency_score: 0.5236746897529492
-  length_score: 100
-  category_score: 100
-  rank: 6
+  rank: 3
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 56.43539591234154
-  llm_score: 63
+  score: 69.97385745080308
+  llm_score: 85
   recency_score: 39.83007343021991
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
 - slug: non-lethal
   title: NON-LETHAL
-  score: 24.31408509800505
-  llm_score: 0
+  score: 67.39100817492815
+  llm_score: 70
   recency_score: 8.041553137032842
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 66.23642272745312
+  llm_score: 70
+  recency_score: 0.5367477284451874
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: lee-county-no-justice-center
+  title: LEE COUNTY NO-JUSTICE CENTER
+  score: 63.4611897587815
+  llm_score: 70
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: police-report
+  title: POLICE REPORT
+  score: 60.08056533688508
+  llm_score: 60
+  recency_score: 0.5236746897529492
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 13.50952551888522
-  llm_score: 0
-  recency_score: 12.811915872753922
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 54.62972444705002
+  llm_score: 70
+  recency_score: 0.09320890582507632
   length_score: 100
   category_score: 0
   rank: 9
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 11.552801370126934
-  llm_score: 0
-  recency_score: 0.09320890582507632
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 53.509525518885226
+  llm_score: 65
+  recency_score: 12.811915872753922
   length_score: 100
   category_score: 0
   rank: 10

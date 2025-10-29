@@ -32,38 +32,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 63.856938342609624
-  llm_score: 85
-  recency_score: 0.07009922696246068
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: s-o-s
-  title: S.O.S
-  score: 57.93334673048409
-  llm_score: 75
-  recency_score: 1.566753748146461
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: secret-society
-  title: SECRET SOCIETY
-  score: 57.87558242558003
-  llm_score: 75
-  recency_score: 1.1912857662700727
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 57.76857725732771
-  llm_score: 75
-  recency_score: 0.4957521726300432
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
   score: 57.70972669369666
@@ -71,36 +39,68 @@ related_articles:
   recency_score: 0.11322350902818136
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 54.71735525571012
-  llm_score: 70
-  recency_score: 0.6628091621157032
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: victory
-  title: VICTORY
-  score: 54.6320565380638
-  llm_score: 70
-  recency_score: 0.10836749741462423
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 2
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 54.626377933801855
-  llm_score: 70
+  score: 57.703301010724935
+  llm_score: 75
   recency_score: 0.07145656971196458
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 57.70309218876347
+  llm_score: 75
+  recency_score: 0.07009922696246068
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 54.69165418040463
+  llm_score: 70
+  recency_score: 0.4957521726300432
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: happy-days-are-here-again
   title: HAPPY DAYS ARE HERE AGAIN
   score: 54.61982365635994
   llm_score: 70
   recency_score: 0.028853766339517067
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: s-o-s
+  title: S.O.S
+  score: 51.77950057663793
+  llm_score: 65
+  recency_score: 1.566753748146461
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 51.72173627173387
+  llm_score: 65
+  recency_score: 1.1912857662700727
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 50.40966294801781
+  llm_score: 63
+  recency_score: 0.6628091621157032
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: victory
+  title: VICTORY
+  score: 11.555133461140711
+  llm_score: 0
+  recency_score: 0.10836749741462423
   length_score: 100
   category_score: 0
   rank: 10

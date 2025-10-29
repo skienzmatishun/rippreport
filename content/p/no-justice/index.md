@@ -22,8 +22,8 @@ related_articles:
   rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 91.93618814959576
-  llm_score: 95
+  score: 85.78234199574962
+  llm_score: 85
   recency_score: 67.58522297237245
   length_score: 100
   category_score: 100
@@ -44,6 +44,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 81.38160147639827
+  llm_score: 95
+  recency_score: 73.98040959658876
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 79.53739944810873
@@ -51,27 +59,19 @@ related_articles:
   recency_score: 26.993096412706674
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  rank: 6
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 77.69230769230771
   llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 75.22775532255213
-  llm_score: 85
-  recency_score: 73.98040959658876
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 71.53846153846155
-  llm_score: 85
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0

@@ -53,19 +53,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 88.24599319436442
+  llm_score: 95
+  recency_score: 43.598955763368686
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
   score: 86.63855272888394
   llm_score: 95
   recency_score: 33.15059273774551
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 84.55368550205672
-  llm_score: 89
-  recency_score: 43.598955763368686
   length_score: 100
   category_score: 100
   rank: 7
@@ -87,8 +87,8 @@ related_articles:
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 62.23804494775792
-  llm_score: 75
+  score: 74.54573725545022
+  llm_score: 95
   recency_score: 29.54729216042639
   length_score: 100
   category_score: 0

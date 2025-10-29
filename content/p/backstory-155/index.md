@@ -11,20 +11,36 @@ alttags: Alabama Attorney General Steve Marshall testifies against ESG investing
 related_articles:
 - slug: bad-faith
   title: Bad Faith
-  score: 72.78468688044195
-  llm_score: 75
+  score: 71.55391764967271
+  llm_score: 73
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 1
 - slug: im-back-2
   title: I'M BACK
-  score: 72.70221506880374
-  llm_score: 75
+  score: 71.47144583803451
+  llm_score: 73
   recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 2
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 65.3845884279583
+  llm_score: 75
+  recency_score: 49.99982478172893
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 61.161350422973214
+  llm_score: 60
+  recency_score: 82.54877774932578
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: ethical-recusal
   title: Ethical Recusal
   score: 61.01860963696893
@@ -32,52 +48,36 @@ related_articles:
   recency_score: 21.62096264029795
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: bsp-128
-  title: Big News
-  score: 54.76770387247689
-  llm_score: 61
-  recency_score: 36.990075171099754
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 54.20412376183689
-  llm_score: 64
-  recency_score: 21.326804451939722
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 53.3051112648133
-  llm_score: 63
-  recency_score: 19.483223221286327
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 50.68962060099154
-  llm_score: 63
+  score: 58.074235985606926
+  llm_score: 75
   recency_score: 2.48253390644493
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 57.89643145414458
+  llm_score: 70
+  recency_score: 21.326804451939722
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 19.230742274112146
+- slug: bsp-128
+  title: Big News
+  score: 17.229242334015346
   llm_score: 0
-  recency_score: 49.99982478172893
+  recency_score: 36.990075171099754
   length_score: 100
   category_score: 0
   rank: 8
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 14.383841964950724
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 15.71406303956244
   llm_score: 0
-  recency_score: 18.4949727721797
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 9

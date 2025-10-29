@@ -18,16 +18,16 @@ alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American f
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 93.94086528918078
-  llm_score: 92
+  score: 94.5562499045654
+  llm_score: 93
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 100
   rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 93.74701037350732
-  llm_score: 92
+  score: 94.36239498889194
+  llm_score: 93
   recency_score: 91.35556742779755
   length_score: 100
   category_score: 100
@@ -42,36 +42,44 @@ related_articles:
   rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 93.32976286212535
-  llm_score: 92
+  score: 92.09899363135612
+  llm_score: 90
   recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
   rank: 4
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 84.34252292391137
-  llm_score: 90
-  recency_score: 38.22639900542388
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 84.27842563861267
-  llm_score: 90
-  recency_score: 37.809766650982276
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.46993896530354
-  llm_score: 85
+  score: 86.77763127299585
+  llm_score: 92
   recency_score: 46.05460327447295
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 86.18867677006523
+  llm_score: 93
+  recency_score: 38.22639900542388
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 86.12457948476651
+  llm_score: 93
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 100
   rank: 7
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 84.80639089369278
+  llm_score: 92
+  recency_score: 33.241540809002984
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 81.41241300968157
@@ -79,19 +87,11 @@ related_articles:
   recency_score: 39.1806845629302
   length_score: 100
   category_score: 100
-  rank: 8
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 80.49869858600047
-  llm_score: 85
-  recency_score: 33.241540809002984
-  length_score: 100
-  category_score: 100
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 73.39559756008295
-  llm_score: 92
+  score: 72.16482832931372
+  llm_score: 90
   recency_score: 34.071384140539074
   length_score: 100
   category_score: 0

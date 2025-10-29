@@ -10,22 +10,14 @@ authors:
 - admin
 alttags: Portrait of Murray Lawrence Jr. alongside Baldwin County Courthouse; advocates found a hidden autopsy in his murder trial
 related_articles:
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 86.89724064096211
-  llm_score: 98
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.30769230769232
-  llm_score: 87
+- slug: no-justice
+  title: NO JUSTICE
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 1
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 83.07692307692308
@@ -33,59 +25,67 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 68.46153846153847
-  llm_score: 80
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: no-justice
-  title: NO JUSTICE
-  score: 30.769230769230774
-  llm_score: 0
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
+  rank: 3
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 82.18176164632123
+  llm_score: 90
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 81.97416371788519
+  llm_score: 90
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: rule-32
   title: RULE 32
-  score: 30.769230769230774
-  llm_score: 0
+  score: 73.84615384615385
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 6
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 30.769230769230774
-  llm_score: 0
+  score: 73.84615384615385
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 30.769230769230774
-  llm_score: 0
+  score: 73.84615384615385
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 8
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 28.027915492475067
-  llm_score: 2
-  recency_score: 99.18145070108791
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 19.230769230769234
-  llm_score: 0
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0

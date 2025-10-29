@@ -10,6 +10,22 @@ thumbnail: img/lucky-charms.jpg
 authors:
 - admin
 related_articles:
+- slug: cover-up
+  title: COVER UP
+  score: 70.85259326250642
+  llm_score: 75
+  recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 69.02094953139249
+  llm_score: 70
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
   score: 68.67430639531761
@@ -17,76 +33,60 @@ related_articles:
   recency_score: 31.3829915695644
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: surrender
-  title: SURRENDER
-  score: 65.70437405820289
-  llm_score: 80
-  recency_score: 32.0784313783187
-  length_score: 100
-  category_score: 0
-  rank: 2
+  rank: 3
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 53.168380960655135
-  llm_score: 52
+  score: 61.168380960655135
+  llm_score: 65
   recency_score: 62.594476244258324
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 25.9440264544694
-  llm_score: 0
-  recency_score: 93.63617195405108
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: cover-up
-  title: COVER UP
-  score: 24.698747108660246
-  llm_score: 0
-  recency_score: 85.54185620629158
+- slug: surrender
+  title: SURRENDER
+  score: 56.473604827433654
+  llm_score: 65
+  recency_score: 32.0784313783187
   length_score: 100
   category_score: 0
   rank: 5
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 14.704705740887473
-  llm_score: 0
+  score: 54.70470574088748
+  llm_score: 65
   recency_score: 20.580587315768575
   length_score: 100
   category_score: 0
   rank: 6
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 14.293273224899902
-  llm_score: -2
+  score: 52.44711937874607
+  llm_score: 60
   recency_score: 25.906275961849367
   length_score: 100
   category_score: 0
   rank: 7
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 14.006024535674847
-  llm_score: 0
-  recency_score: 16.039159481886507
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 49.447066998086086
+  llm_score: 60
+  recency_score: 6.405935487559478
   length_score: 100
   category_score: 0
   rank: 8
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 13.965793428832082
-  llm_score: 0
-  recency_score: 15.777657287408536
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 41.69833222798255
+  llm_score: 45
+  recency_score: 16.039159481886507
   length_score: 100
   category_score: 0
   rank: 9
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 12.52399007500915
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 21.063423755521
   llm_score: 0
-  recency_score: 6.405935487559478
+  recency_score: 61.91225441088648
   length_score: 100
   category_score: 0
   rank: 10

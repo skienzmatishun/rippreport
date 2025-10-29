@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference
 related_articles:
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 65.09790190617431
-  llm_score: 90
-  recency_score: 10.489509530871569
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 59.36917885348302
+  llm_score: 75
+  recency_score: 10.899662547639538
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 60.12327909364471
-  llm_score: 85
-  recency_score: 3.116395468223524
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 58.7412187552837
+  llm_score: 65
+  recency_score: 46.817921909343944
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 53.4564942330773
+  score: 58.043457102367164
   llm_score: 70
   recency_score: 22.28247116538646
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 49.263584381868796
-  llm_score: 57
-  recency_score: 46.817921909343944
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 56.22915531244179
+  llm_score: 70
+  recency_score: 10.489509530871569
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 47.679932509527916
-  llm_score: 65
-  recency_score: 10.899662547639538
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 55.0948300720344
+  llm_score: 70
+  recency_score: 3.116395468223524
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 46.38383562381887
-  llm_score: 60
+  score: 54.91064278755297
+  llm_score: 65
   recency_score: 21.919178119094283
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: 4-20
-  title: 4-20
-  score: 46.2366535420936
+- slug: war
+  title: WAR
+  score: 54.8195083772215
   llm_score: 65
-  recency_score: 3.6832677104679425
+  recency_score: 21.326804451939722
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 42.05369096364097
-  llm_score: 54
-  recency_score: 21.268454818204823
-  category_score: 0
-  rank: 8
-- slug: symbol
-  title: Veterans Day
-  score: 41.31136989971914
-  llm_score: 54
-  recency_score: 17.55684949859567
-  category_score: 0
-  rank: 9
 - slug: insanity-2
   title: INSANITY
-  score: 36.6988963747054
-  llm_score: 50
+  score: 52.84530490361955
+  llm_score: 65
   recency_score: 8.494481873527002
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 45.57976227972383
+  llm_score: 50
+  recency_score: 21.268454818204823
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: symbol
+  title: Veterans Day
+  score: 14.239515307476257
+  llm_score: 0
+  recency_score: 17.55684949859567
+  length_score: 100
   category_score: 0
   rank: 10
 ---

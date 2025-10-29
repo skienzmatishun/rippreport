@@ -14,14 +14,6 @@ authors:
 - admin
 alttags: 'Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre...'
 related_articles:
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 84.72478889081535
-  llm_score: 95
-  recency_score: 95.71112779029973
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: qualified-daphne-district-6-city-council
   title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
   score: 79.14670050400919
@@ -29,7 +21,7 @@ related_articles:
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
   score: 78.81499447025448
@@ -37,47 +29,31 @@ related_articles:
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 78.5709427369692
+  llm_score: 85
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
-  score: 70.17783378385549
-  llm_score: 95
+  score: 64.02398763000934
+  llm_score: 85
   recency_score: 1.155919595060642
   length_score: 100
   category_score: 0
   rank: 4
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 68.54571446984987
-  llm_score: 90
-  recency_score: 10.547144054024043
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.86163701301846
+  llm_score: 85
+  recency_score: 0.10064058461990079
   length_score: 100
   category_score: 0
   rank: 5
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 68.1495108055248
-  llm_score: 85
-  recency_score: 27.971820235911103
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 63.86491023151382
-  llm_score: 85
-  recency_score: 0.1219165048397373
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 63.86287150796125
-  llm_score: 85
-  recency_score: 0.1086648017480589
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: selective-memory
   title: Selective Memory
   score: 63.849349115009865
@@ -85,12 +61,36 @@ related_articles:
   recency_score: 0.020769247564044847
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 54.630867782249226
+  rank: 6
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 59.314945239080636
+  llm_score: 75
+  recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 58.918741574755565
   llm_score: 70
-  recency_score: 0.10064058461990079
+  recency_score: 27.971820235911103
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 57.711064077667665
+  llm_score: 75
+  recency_score: 0.1219165048397373
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 54.63210227719202
+  llm_score: 70
+  recency_score: 0.1086648017480589
   length_score: 100
   category_score: 0
   rank: 10

@@ -15,14 +15,6 @@ authors:
 - admin
 alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 93.63684260199622
-  llm_score: 90
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 92.71009605841155
@@ -30,23 +22,23 @@ related_articles:
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90.55991952507314
+  llm_score: 85
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 89.1887080580359
-  llm_score: 95
+  score: 83.03486190418974
+  llm_score: 85
   recency_score: 49.72660237723329
   length_score: 100
   category_score: 100
   rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 81.89301789816473
-  llm_score: 85
-  recency_score: 42.3046163380707
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 81.66529125980901
@@ -54,23 +46,7 @@ related_articles:
   recency_score: 40.82439318875856
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 79.18867728610554
-  llm_score: 85
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 77.93465204353498
-  llm_score: 85
-  recency_score: 16.575238282977313
-  length_score: 100
-  category_score: 100
-  rank: 7
+  rank: 4
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 76.28742062517614
@@ -78,20 +54,44 @@ related_articles:
   recency_score: 5.868234063644852
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 72.6622486673955
+  llm_score: 70
+  recency_score: 42.3046163380707
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 69.9579080553363
+  llm_score: 70
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 66.19479633216258
+  llm_score: 70
+  recency_score: 0.26617615905673986
+  length_score: 100
+  category_score: 100
   rank: 8
 - slug: justified
   title: JUSTIFIED
-  score: 72.28940978606195
-  llm_score: 85
+  score: 59.981717478369646
+  llm_score: 65
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
   rank: 9
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.27171940908566
-  llm_score: 75
-  recency_score: 0.26617615905673986
+- slug: rumors
+  title: RUMORS
+  score: 25.626959735842664
+  llm_score: 0
+  recency_score: 16.575238282977313
   length_score: 100
   category_score: 100
   rank: 10

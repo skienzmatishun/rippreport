@@ -10,44 +10,36 @@ alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues 
 related_articles:
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 82.60188529398255
-  llm_score: 100
+  score: 73.37111606321332
+  llm_score: 85
   recency_score: 61.91225441088648
   length_score: 100
   category_score: 0
   rank: 1
-- slug: surrender
-  title: SURRENDER
-  score: 65.66349746068468
-  llm_score: 75
-  recency_score: 51.81273349445037
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 69.83232193728315
+  llm_score: 70
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 2
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 64.81031675640585
-  llm_score: 85
-  recency_score: 6.267058916638003
+- slug: surrender
+  title: SURRENDER
+  score: 62.58657438376161
+  llm_score: 70
+  recency_score: 51.81273349445037
   length_score: 100
   category_score: 0
   rank: 3
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 62.66818095700273
-  llm_score: 75
-  recency_score: 32.34317622051765
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 62.361045743382846
+  llm_score: 80
+  recency_score: 10.34679733198841
   length_score: 100
   category_score: 0
   rank: 4
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 59.763011507923565
-  llm_score: 75
-  recency_score: 13.459574801503088
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
   score: 59.313054606507656
@@ -55,28 +47,36 @@ related_articles:
   recency_score: 30.53485494229968
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 59.28412266645977
+  rank: 5
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 58.65647060255971
   llm_score: 75
-  recency_score: 10.34679733198841
+  recency_score: 6.267058916638003
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 56.686088431000485
+  llm_score: 70
+  recency_score: 13.459574801503088
   length_score: 100
   category_score: 0
   rank: 7
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 55.52404245566914
+  llm_score: 65
+  recency_score: 25.906275961849367
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: the-mug-shot
   title: The Mugshot
   score: 16.794593597984967
   llm_score: 0
   recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 15.524042455669134
-  llm_score: 0
-  recency_score: 25.906275961849367
   length_score: 100
   category_score: 0
   rank: 9

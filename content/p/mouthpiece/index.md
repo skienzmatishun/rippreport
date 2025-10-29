@@ -15,36 +15,28 @@ authors:
 related_articles:
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 77.71548540377655
-  llm_score: 84
+  score: 69.10010078839193
+  llm_score: 70
   recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 72.28940978606195
-  llm_score: 85
-  recency_score: 54.88116360940264
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 66.48977522329234
+  llm_score: 75
+  recency_score: 57.18353895140014
   length_score: 100
   category_score: 0
   rank: 2
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 71.02920448919323
-  llm_score: 85
-  recency_score: 46.6898291797559
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 63.058640555292726
+  llm_score: 70
+  recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
   rank: 3
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 62.613948545695074
-  llm_score: 75
-  recency_score: 31.990665547017855
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
   score: 62.364307419662715
@@ -52,44 +44,52 @@ related_articles:
   recency_score: 30.367998227807558
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 61.798435258424
+  llm_score: 70
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 54.69591872362158
-  llm_score: 69
-  recency_score: 4.5234717035402
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 59.53702546877199
+  llm_score: 70
+  recency_score: 31.990665547017855
   length_score: 100
   category_score: 0
   rank: 6
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 26.464584053011034
-  llm_score: 23
-  recency_score: 5.0197963445716995
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 20.335929069446177
-  llm_score: 0
-  recency_score: 57.18353895140014
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: pied-piper
   title: PIED PIPER
-  score: 16.121714982848143
-  llm_score: 0
+  score: 59.198638059771234
+  llm_score: 70
   recency_score: 29.79114738851293
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 12.293995443205636
-  llm_score: 0
+  score: 55.370918520128726
+  llm_score: 70
   recency_score: 4.910970380836641
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 55.311303339006194
+  llm_score: 70
+  recency_score: 4.5234717035402
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 12.310737899164877
+  llm_score: 0
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 0
   rank: 10

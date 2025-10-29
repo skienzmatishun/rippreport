@@ -8,51 +8,51 @@ authors:
 - admin
 alttags: Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait
 related_articles:
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 65.86642355712966
-  llm_score: 85
-  recency_score: 13.13175312134279
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 57.88834526678797
+  llm_score: 65
+  recency_score: 41.27424423412174
   length_score: 100
   category_score: 0
   rank: 1
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 65.40184634021193
-  llm_score: 87
-  recency_score: 2.112001211377513
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 56.635654326360445
+  llm_score: 70
+  recency_score: 13.13175312134279
   length_score: 100
   category_score: 0
   rank: 2
-- slug: obituary
-  title: OBITUARY
-  score: 49.7861701561039
-  llm_score: 54
-  recency_score: 32.61010601467527
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 56.07358582151289
+  llm_score: 70
+  recency_score: 9.47830783983372
   length_score: 100
   category_score: 0
   rank: 3
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 26.50730216256216
-  llm_score: 0
-  recency_score: 97.29746405665401
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 54.94030787867347
+  llm_score: 70
+  recency_score: 2.112001211377513
   length_score: 100
   category_score: 0
   rank: 4
 - slug: one-woman-2
   title: ONE WOMAN
-  score: 26.236149024008252
-  llm_score: 23
+  score: 52.0823028701621
+  llm_score: 65
   recency_score: 3.5349686560536235
   length_score: 100
   category_score: 0
   rank: 5
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 25.90076899492489
-  llm_score: 23
-  recency_score: 1.3549984670117639
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 51.67257115972487
+  llm_score: 65
+  recency_score: 0.8717125382115642
   length_score: 100
   category_score: 0
   rank: 6
@@ -64,11 +64,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 17.88834526678796
+- slug: obituary
+  title: OBITUARY
+  score: 16.55540092533466
   llm_score: 0
-  recency_score: 41.27424423412174
+  recency_score: 32.61010601467527
   length_score: 100
   category_score: 0
   rank: 8
@@ -80,11 +80,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 11.672571159724855
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 12.140323065703827
   llm_score: 0
-  recency_score: 0.8717125382115642
+  recency_score: 3.9120999270748786
   length_score: 100
   category_score: 0
   rank: 10

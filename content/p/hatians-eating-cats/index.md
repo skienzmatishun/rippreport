@@ -9,83 +9,83 @@ authors:
 rumble: v5dblkt
 alttags: Provocative illustration depicting a muscular figure labeled Haiti feeding a kitten to a plate, referencing false claims...
 related_articles:
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 82.4244881871044
-  llm_score: 95
-  recency_score: 80.75917321617852
+- slug: bsp-128
+  title: Big News
+  score: 74.53912483255138
+  llm_score: 100
+  recency_score: 9.504311411583915
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 78.09471144302694
-  llm_score: 85
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: the-pete-rose
   title: The Pete Rose
-  score: 74.34415565975935
-  llm_score: 78
+  score: 69.42107873668242
+  llm_score: 70
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 68.86394221225771
+  llm_score: 70
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 69.44415224447475
-  llm_score: 85
-  recency_score: 36.386989589085836
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 67.03987280248901
+  llm_score: 70
+  recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
   rank: 4
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 62.28428313803145
-  llm_score: 78
+  score: 54.28428313803144
+  llm_score: 65
   recency_score: 17.84784039720432
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 54.775635357443846
-  llm_score: 70
-  recency_score: 1.0416298233849144
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 47.607203478752226
+  llm_score: 50
+  recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.63659503561234
-  llm_score: 65
-  recency_score: 0.6378677314801207
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 44.82876762909014
+  llm_score: 45
+  recency_score: 36.386989589085836
   length_score: 100
   category_score: 0
   rank: 7
 - slug: im-back-2
   title: I'M BACK
-  score: 46.16437097907571
-  llm_score: 50
+  score: 27.702832517537246
+  llm_score: 20
   recency_score: 25.06841136399206
   length_score: 100
   category_score: 0
   rank: 8
 - slug: stephen-nodine
   title: STEPHEN NODINE
-  score: 45.264330687886805
-  llm_score: 50
+  score: 14.495099918656027
+  llm_score: 0
   recency_score: 19.21814947126418
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bsp-128
-  title: Big News
-  score: 43.76989406332061
-  llm_score: 50
-  recency_score: 9.504311411583915
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 11.636595035612325
+  llm_score: 0
+  recency_score: 0.6378677314801207
   length_score: 100
   category_score: 0
   rank: 10

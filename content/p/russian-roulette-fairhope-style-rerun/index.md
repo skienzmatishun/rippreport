@@ -82,8 +82,8 @@ related_articles:
   rank: 9
 - slug: barstool
   title: BARSTOOL
-  score: 44.78845538984506
-  llm_score: 54
+  score: 42.326916928306595
+  llm_score: 50
   recency_score: 0.12496003399281562
   length_score: 100
   category_score: 0

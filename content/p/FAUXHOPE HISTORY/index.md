@@ -11,47 +11,47 @@ authors:
 related_articles:
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 91.26486778777591
-  llm_score: 95
+  score: 78.73319773105223
+  llm_score: 85
   recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 1
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 87.22661982948995
-  llm_score: 95
+  score: 77.66832803024612
+  llm_score: 90
   recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 2
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 81.19608335662276
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 71.75209549656684
   llm_score: 85
-  recency_score: 72.97388904415178
+  recency_score: 51.388620727684355
   length_score: 100
   category_score: 0
   rank: 3
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 79.24310682388726
-  llm_score: 95
+  score: 69.4801095629613
+  llm_score: 90
   recency_score: 16.62071215924841
   length_score: 100
   category_score: 0
   rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 77.95829310915265
-  llm_score: 85
-  recency_score: 51.388620727684355
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 69.3771560031308
+  llm_score: 90
+  recency_score: 15.95151402035018
   length_score: 100
   category_score: 0
   rank: 5
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 75.08820290803635
+  score: 68.80841323901166
   llm_score: 85
   recency_score: 32.254686053575696
   length_score: 100
@@ -59,33 +59,33 @@ related_articles:
   rank: 6
 - slug: elliott-history-lesson
   title: ELLIOTT HISTORY LESSON
-  score: 73.08754377064152
+  score: 67.5256859186067
   llm_score: 70
   recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 7
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 72.64272710305252
-  llm_score: 85
-  recency_score: 15.95151402035018
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 72.42394470085691
+  score: 66.0758407188276
   llm_score: 85
   recency_score: 14.49296467237936
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 72.4120652512588
+  score: 66.06365666795776
   llm_score: 85
   recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 65.84213677602337
+  llm_score: 70
+  recency_score: 72.97388904415178
   length_score: 100
   category_score: 0
   rank: 10

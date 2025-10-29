@@ -18,27 +18,27 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 70.10537881758529
-  llm_score: 95
-  recency_score: 0.6849623143042736
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 63.8577663471762
+  llm_score: 85
+  recency_score: 0.07548125664523891
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 66.93362761856955
-  llm_score: 90
-  recency_score: 0.06857952070196233
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
   score: 54.72163312943678
   llm_score: 70
   recency_score: 0.6906153413389834
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 54.7207634329699
+  llm_score: 70
+  recency_score: 0.6849623143042736
   length_score: 100
   category_score: 0
   rank: 3
@@ -66,11 +66,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 54.62699711640697
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 54.62593531087724
   llm_score: 70
-  recency_score: 0.07548125664523891
+  recency_score: 0.06857952070196233
   length_score: 100
   category_score: 0
   rank: 7
@@ -92,8 +92,8 @@ related_articles:
   rank: 9
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 54.62057393576202
-  llm_score: 70
+  score: 42.312881628069704
+  llm_score: 50
   recency_score: 0.03373058245303176
   length_score: 100
   category_score: 0

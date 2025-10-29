@@ -9,74 +9,84 @@ authors:
 - admin
 alttags: 'Podcast cover art: Three men in costumes referencing corporate influence and power dynamics discussed in the article'
 related_articles:
-- slug: im-back-2
-  title: I'M BACK
-  score: 67.72723439081022
+- slug: backstory-155
+  title: What the hell is ESG?
+  score: 69.38057070693444
   llm_score: 70
-  recency_score: 93.63617195405108
+  recency_score: 95.97370959507373
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 63.945234228866475
-  llm_score: 90
-  recency_score: 4.726171144332342
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 67.61554405334755
+  llm_score: 67
+  recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: bsp-128
-  title: Big News
-  score: 56.10014946474216
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 66.57234077666108
   llm_score: 70
-  recency_score: 35.500747323710755
+  recency_score: 77.72021504829691
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 53.60197291960509
-  llm_score: 75
-  recency_score: 5.50986459802539
+- slug: backstory-153
+  title: No Boomers
+  score: 65.78701913533463
+  llm_score: 65
+  recency_score: 92.61562437967505
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 53.25369096364097
-  llm_score: 70
-  recency_score: 21.268454818204823
+- slug: im-back-2
+  title: I'M BACK
+  score: 62.867103377546336
+  llm_score: 60
+  recency_score: 93.63617195405108
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 52.98176678830755
-  llm_score: 75
-  recency_score: 2.4088339415377336
+- slug: bsp-128
+  title: Big News
+  score: 60.077038049801665
+  llm_score: 70
+  recency_score: 35.500747323710755
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 49.693564135879306
-  llm_score: 70
-  recency_score: 3.467820679396488
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 49.54200128617528
-  llm_score: 70
-  recency_score: 2.7100064308763563
-  category_score: 0
-  rank: 8
 - slug: saturday-apology
   title: SATURDAY APOLOGY
-  score: 46.06473933170037
-  llm_score: 65
+  score: 55.04979948592337
+  llm_score: 70
   recency_score: 2.82369665850184
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 45.97651597639415
-  llm_score: 65
+  score: 54.981935366457044
+  llm_score: 70
   recency_score: 2.382579881970696
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 49.06011113618249
+  llm_score: 60
+  recency_score: 3.8907223851861064
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 14.81053151049305
+  llm_score: 0
+  recency_score: 21.268454818204823
+  length_score: 100
   category_score: 0
   rank: 10
 ---

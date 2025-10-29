@@ -30,20 +30,12 @@ alttags: Veterans in military uniform salute against a fiery red landscape, symb
 related_articles:
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 78.45041308073715
-  llm_score: 85
+  score: 74.14272077304484
+  llm_score: 78
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 78.01685066683008
-  llm_score: 85
-  recency_score: 92.10952933439548
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: red-lips-award
   title: RED LIPS AWARD
   score: 72.6201939216784
@@ -51,27 +43,35 @@ related_articles:
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: war
   title: WAR
-  score: 69.17968694131675
-  llm_score: 70
+  score: 72.25661001823983
+  llm_score: 75
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 68.55504262632311
-  llm_score: 70
+  score: 71.6319657032462
+  llm_score: 75
   recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 68.78608143606085
+  llm_score: 70
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 5
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 65.30036544819113
-  llm_score: 85
+  score: 56.069596217421896
+  llm_score: 70
   recency_score: 9.45237541324223
   length_score: 100
   category_score: 0
@@ -86,8 +86,8 @@ related_articles:
   rank: 7
 - slug: insanity-2
   title: INSANITY
-  score: 54.87923174037444
-  llm_score: 70
+  score: 51.80230866345136
+  llm_score: 65
   recency_score: 1.7150063124338188
   length_score: 100
   category_score: 0
@@ -102,8 +102,8 @@ related_articles:
   rank: 9
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 36.250644522112104
-  llm_score: 40
+  score: 39.327567599035184
+  llm_score: 45
   recency_score: 0.6291893937286536
   length_score: 100
   category_score: 0

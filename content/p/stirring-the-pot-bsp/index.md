@@ -19,8 +19,8 @@ related_articles:
   rank: 1
 - slug: the-180
   title: THE 180
-  score: 67.84797926554141
-  llm_score: 70
+  score: 61.694133111695265
+  llm_score: 60
   recency_score: 86.01186522601911
   length_score: 100
   category_score: 0
@@ -41,19 +41,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 55.93662831348142
+- slug: priorities
+  title: Priorities
+  score: 55.86961067152386
   llm_score: 70
-  recency_score: 8.588084037629146
+  recency_score: 8.152469364904984
   length_score: 100
   category_score: 0
   rank: 5
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 55.68827286482909
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 55.00364306816264
   llm_score: 70
-  recency_score: 6.973773621388993
+  recency_score: 2.5236799430570582
   length_score: 100
   category_score: 0
   rank: 6
@@ -65,6 +65,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 54.72309860310771
+  llm_score: 70
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
   score: 54.70627156649644
@@ -72,20 +80,12 @@ related_articles:
   recency_score: 0.5907651822267828
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 48.849796914316485
-  llm_score: 60
-  recency_score: 2.5236799430570582
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 48.569252449261555
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 49.78278215963527
   llm_score: 60
-  recency_score: 0.700140920200011
+  recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
   rank: 10

@@ -11,24 +11,24 @@ alttags: Podcast cover art featuring a vintage photo of an Indigenous man and te
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 90.72713882456708
-  llm_score: 85
+  score: 93.80406190149016
+  llm_score: 90
   recency_score: 99.72640235968593
   length_score: 100
   category_score: 100
   rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.01393101023397
-  llm_score: 85
+  score: 76.86008485638783
+  llm_score: 75
   recency_score: 49.59055156652082
   length_score: 100
   category_score: 100
   rank: 2
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 81.87521106246551
-  llm_score: 85
+  score: 75.72136490861936
+  llm_score: 75
   recency_score: 42.18887190602582
   length_score: 100
   category_score: 100
@@ -41,51 +41,51 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: justified
-  title: JUSTIFIED
-  score: 72.31257371103135
-  llm_score: 85
-  recency_score: 55.031729121703655
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: rumors
   title: RUMORS
-  score: 71.77382904956288
-  llm_score: 75
+  score: 68.6969059726398
+  llm_score: 70
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 70.13110441749518
-  llm_score: 75
+  score: 67.0541813405721
+  llm_score: 70
   recency_score: 5.8521787137186125
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 6
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
-  score: 69.2716073703641
-  llm_score: 75
+  score: 66.19468429344101
+  llm_score: 70
   recency_score: 0.265447907366482
   length_score: 100
   category_score: 100
+  rank: 7
+- slug: justified
+  title: JUSTIFIED
+  score: 63.081804480262115
+  llm_score: 70
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 62.778445153579234
+  llm_score: 75
+  recency_score: 33.05989349826491
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
   score: 60.06701658482296
   llm_score: 75
   recency_score: 15.435607801349112
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 56.624598999733074
-  llm_score: 65
-  recency_score: 33.05989349826491
   length_score: 100
   category_score: 0
   rank: 10

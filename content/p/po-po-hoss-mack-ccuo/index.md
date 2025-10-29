@@ -86,8 +86,8 @@ related_articles:
   rank: 9
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 68.8921552503124
-  llm_score: 70
+  score: 71.96907832723548
+  llm_score: 75
   recency_score: 17.799009127030544
   length_score: 100
   category_score: 100

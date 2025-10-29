@@ -9,75 +9,75 @@ authors:
 - admin
 alttags: Political figure speaks at a podium with American flags behind him, referencing a podcast about older politicians
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 59.28173422498206
+- slug: primary-election-may-24th
+  title: Primary Election May 24th
+  score: 59.41241300968158
   llm_score: 68
-  recency_score: 38.33127246238332
+  recency_score: 39.1806845629302
   length_score: 100
   category_score: 0
   rank: 1
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 56.91757215508185
-  llm_score: 68
+  score: 58.14834138585108
+  llm_score: 70
   recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
   rank: 2
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 48.76268439509405
-  llm_score: 58
-  recency_score: 9.957448568111234
+- slug: im-back-2
+  title: I'M BACK
+  score: 57.524629629590855
+  llm_score: 50
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 3
 - slug: the-180
   title: THE 180
-  score: 47.645984100822766
-  llm_score: 52
+  score: 57.49213794697661
+  llm_score: 68
   recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 4
-- slug: im-back-2
-  title: I'M BACK
-  score: 26.755398860360074
-  llm_score: 0
-  recency_score: 98.91009259234048
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 54.15932805707375
+  llm_score: 65
+  recency_score: 17.035632370979314
   length_score: 100
   category_score: 0
   rank: 5
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 17.566259163527725
-  llm_score: 0
-  recency_score: 39.1806845629302
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 53.85366677140719
+  llm_score: 68
+  recency_score: 3.0488340141466597
   length_score: 100
   category_score: 0
   rank: 6
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 14.64456181530239
-  llm_score: 0
+  score: 51.56763873837933
+  llm_score: 60
   recency_score: 20.189651799465537
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 12.92855882630451
-  llm_score: -2
-  recency_score: 17.035632370979314
+- slug: bsp-128
+  title: Big News
+  score: 17.435580378828206
+  llm_score: 0
+  recency_score: 38.33127246238332
   length_score: 100
   category_score: 0
   rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 12.007512925253332
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 13.070376702786344
   llm_score: 0
-  recency_score: 3.0488340141466597
+  recency_score: 9.957448568111234
   length_score: 100
   category_score: 0
   rank: 9

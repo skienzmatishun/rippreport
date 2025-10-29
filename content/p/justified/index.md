@@ -47,24 +47,24 @@ related_articles:
   rank: 3
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 81.29306184899515
-  llm_score: 89
+  score: 83.75460031053362
+  llm_score: 93
   recency_score: 22.404902018468416
   length_score: 100
   category_score: 100
   rank: 4
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 79.58315969354562
-  llm_score: 85
+  score: 82.04469815508408
+  llm_score: 89
   recency_score: 27.29053800804651
   length_score: 100
   category_score: 100
   rank: 5
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 78.95650241643487
-  llm_score: 85
+  score: 81.41804087797334
+  llm_score: 89
   recency_score: 23.21726570682666
   length_score: 100
   category_score: 100
@@ -85,19 +85,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 8
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 76.01708791959574
-  llm_score: 89
-  recency_score: 63.11107147737226
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 72.31257371103135
+  llm_score: 85
+  recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
   rank: 9
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 74.7741121725698
-  llm_score: 89
-  recency_score: 55.031729121703655
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 67.40170330421113
+  llm_score: 75
+  recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
   rank: 10

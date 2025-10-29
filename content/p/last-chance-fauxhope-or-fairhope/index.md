@@ -13,22 +13,6 @@ authors:
 - admin
 alttags: Fairhope City Council candidate Troy Vickers at a table with constituents, promoting strong values and local solutions
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85.30054665785535
-  llm_score: 95
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 83.97790121883867
-  llm_score: 95
-  recency_score: 90.85635792245131
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
   score: 83.4151103232545
@@ -36,47 +20,31 @@ related_articles:
   recency_score: 87.19821710115417
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 79.14670050400919
+  llm_score: 85
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 71.67020891114637
+  llm_score: 75
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 70.00371491636372
-  llm_score: 95
-  recency_score: 0.024146956364064574
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 68.18502661818091
-  llm_score: 85
-  recency_score: 28.202673018175854
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 66.0758407188276
-  llm_score: 85
-  recency_score: 14.49296467237936
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 63.94868476331722
-  llm_score: 85
+  score: 70.10253091716336
+  llm_score: 95
   recency_score: 0.6664509615618259
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 63.922214739443696
-  llm_score: 85
-  recency_score: 0.4943958063839215
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 4
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
   score: 63.861594651439276
@@ -84,12 +52,44 @@ related_articles:
   recency_score: 0.10036523435518244
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
   score: 63.85332373686055
   llm_score: 85
   recency_score: 0.046604289593504926
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 63.849868762517566
+  llm_score: 85
+  recency_score: 0.024146956364064574
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 62.03118046433476
+  llm_score: 75
+  recency_score: 28.202673018175854
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 59.92199456498145
+  llm_score: 75
+  recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 57.76836858559754
+  llm_score: 75
+  recency_score: 0.4943958063839215
   length_score: 100
   category_score: 0
   rank: 10

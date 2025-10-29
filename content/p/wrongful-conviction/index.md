@@ -16,65 +16,85 @@ authors:
 - admin
 alttags: Jail cell bars viewed from within, referencing Baldwin County’s history of withholding information in cases like Murray Bu...
 related_articles:
-- slug: innocent
-  title: INNOCENT
-  score: 92.69156694727452
-  llm_score: 100
-  recency_score: 63.45783473637261
-  rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 2
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 86.1912037447723
-  llm_score: 100
-  recency_score: 30.95601872386148
-  rank: 3
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 4
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 5
-- slug: no-justice
-  title: NO JUSTICE
-  score: 85.39861928254133
-  llm_score: 100
-  recency_score: 26.993096412706674
-  rank: 6
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 83.64866887953505
-  llm_score: 100
-  recency_score: 18.243344397675273
-  rank: 7
 - slug: rule-32
   title: RULE 32
-  score: 82.07359964556152
-  llm_score: 95
+  score: 83.13353818889348
+  llm_score: 90
   recency_score: 30.367998227807558
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 81.19309908067217
-  llm_score: 100
+  score: 82.45623006205552
+  llm_score: 95
   recency_score: 5.965495403360867
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 81.26820683041159
+  llm_score: 90
+  recency_score: 18.243344397675273
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 79.53739944810873
+  llm_score: 85
+  recency_score: 26.993096412706674
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 81.00395926891434
-  llm_score: 100
+  score: 79.23381482224181
+  llm_score: 90
   recency_score: 5.0197963445716995
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: innocent
+  title: INNOCENT
+  score: 76.68582072867272
+  llm_score: 90
+  recency_score: 63.45783473637261
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 76.49059567785014
+  llm_score: 95
+  recency_score: 42.18887190602582
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 71.68554134213255
+  llm_score: 90
+  recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Jonathan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.

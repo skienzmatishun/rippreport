@@ -15,63 +15,83 @@ alttags: A single track in sand, symbolizing a trail of corruption stemming from
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 95.19474191901475
+  score: 84.76518609154981
   llm_score: 95
   recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 90.70889537238897
-  llm_score: 100
-  recency_score: 53.544476861944815
-  rank: 2
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 85.41503251862473
+  score: 78.2376118249146
   llm_score: 95
-  recency_score: 47.075162593123636
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 73.37218124909144
+  llm_score: 95
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 83.67232874673901
-  llm_score: 85
+  score: 72.82486826672232
+  llm_score: 80
   recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 71.08848655278827
+  llm_score: 85
+  recency_score: 47.075162593123636
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 69.55254719926883
+  llm_score: 85
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: striking-oil
   title: STRIKING OIL
-  score: 83.35758882342884
-  llm_score: 95
+  score: 69.50583755648374
+  llm_score: 85
   recency_score: 36.787944117144235
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 83.17838723901062
-  llm_score: 95
-  recency_score: 35.89193619505306
-  rank: 6
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 80.38383562381885
-  llm_score: 95
-  recency_score: 21.919178119094283
-  rank: 7
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 75.0613509305972
+  score: 69.36799018385433
   llm_score: 85
-  recency_score: 35.306754652986015
+  recency_score: 35.89193619505306
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 60.51029776171749
-  llm_score: 75
+  score: 64.23869058593654
+  llm_score: 85
   recency_score: 2.5514888085874565
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 60.13774516681229
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 61.96043955345803
   llm_score: 75
-  recency_score: 0.6887258340614327
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Mabel Amos Charitable Trust was set up to help kids, who may have had the smarts, but not the money, to go to college, in Alabama. What started as a small well intended trust turned out to be a flush vehicle of greed and political corruption.

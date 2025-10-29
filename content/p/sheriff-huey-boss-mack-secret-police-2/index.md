@@ -25,6 +25,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 83.35399929370959
+  llm_score: 95
+  recency_score: 11.800995409112343
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 83.14038088438967
@@ -32,7 +40,7 @@ related_articles:
   recency_score: 50.412475748532785
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 4
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 83.03486190418974
@@ -40,28 +48,20 @@ related_articles:
   recency_score: 49.72660237723329
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 81.50784544755575
-  llm_score: 92
-  recency_score: 11.800995409112343
-  length_score: 100
-  category_score: 100
   rank: 5
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 78.5306560620227
-  llm_score: 85
-  recency_score: 95.44926440314748
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 76.31609281145738
-  llm_score: 75
+  score: 82.46993896530354
+  llm_score: 85
   recency_score: 46.05460327447295
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 77.73988611413975
+  llm_score: 85
+  recency_score: 15.30925974190835
   length_score: 100
   category_score: 100
   rank: 7
@@ -73,18 +73,18 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 66.36839746662984
-  llm_score: 85
-  recency_score: 16.39458353309393
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 69.31311987681936
+  llm_score: 75
+  recency_score: 0.535279199325722
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 9
 - slug: justified
   title: JUSTIFIED
-  score: 61.89085200123794
-  llm_score: 75
+  score: 68.04469815508409
+  llm_score: 85
   recency_score: 27.29053800804651
   length_score: 100
   category_score: 0

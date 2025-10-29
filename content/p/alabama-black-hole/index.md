@@ -8,74 +8,84 @@ thumbnail: /img/alabama-blackhole.png
 authors:
 - admin
 related_articles:
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 83.85448470843463
-  llm_score: 100
-  recency_score: 69.27242354217314
-  category_score: 0
-  rank: 1
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 81.54131527818056
-  llm_score: 95
+  score: 75.41639636783121
+  llm_score: 85
   recency_score: 75.2065763909028
+  length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 79.64877842919906
-  llm_score: 92
+  score: 72.49906033015311
+  llm_score: 80
   recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 65.27268054494972
+  llm_score: 70
+  recency_score: 69.27242354217314
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 75.96676333674154
-  llm_score: 95
+  score: 64.97443333595504
+  llm_score: 75
   recency_score: 47.33381668370766
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 70.68038964044877
-  llm_score: 100
-  recency_score: 3.401948202243831
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 62.176199142922044
+  llm_score: 75
+  recency_score: 29.145294428993168
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 69.82828195143118
-  llm_score: 92
+  score: 61.86790919340861
+  llm_score: 75
   recency_score: 27.14140975715586
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 68.53339065902055
-  llm_score: 90
+  score: 58.871838968477356
+  llm_score: 70
   recency_score: 27.666953295102704
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65.32905888579864
-  llm_score: 85
-  recency_score: 29.145294428993168
-  category_score: 0
-  rank: 8
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 62.66418860283416
-  llm_score: 85
-  recency_score: 15.820943014170737
-  category_score: 0
-  rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 45.62827449808849
-  llm_score: 65
+  score: 54.71405730622192
+  llm_score: 70
   recency_score: 0.6413724904423975
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 54.69841490529065
+  llm_score: 70
+  recency_score: 0.5396968843891398
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 53.97245277141089
+  llm_score: 65
+  recency_score: 15.820943014170737
+  length_score: 100
   category_score: 0
   rank: 10
 ---

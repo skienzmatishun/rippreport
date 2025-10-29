@@ -7,6 +7,14 @@ categories:
 authors:
 - nancy-koerner
 related_articles:
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 99.17968694131675
+  llm_score: 100
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 95.21333082797133
@@ -14,39 +22,23 @@ related_articles:
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 100
-  rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 93.02584078747059
-  llm_score: 90
-  recency_score: 94.66796511855877
-  length_score: 100
-  category_score: 100
   rank: 2
-- slug: no-justice
-  title: NO JUSTICE
-  score: 78.60333758121403
-  llm_score: 85
-  recency_score: 20.921694277891152
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 76.25344817040045
-  llm_score: 85
-  recency_score: 5.647413107602894
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 71.53846153846155
-  llm_score: 85
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 72.44949142736789
+  llm_score: 75
+  recency_score: 20.921694277891152
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
@@ -54,12 +46,20 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
   score: 70.91631057290178
   llm_score: 70
   recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 70.0996020165543
+  llm_score: 75
+  recency_score: 5.647413107602894
   length_score: 100
   category_score: 100
   rank: 7

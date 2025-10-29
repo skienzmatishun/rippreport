@@ -9,19 +9,19 @@ authors:
 - admin
 alttags: Cartoon water droplet mascot labeled Crystal Clean, representing Baldwin County Sewer Service, a privately operated, unr...
 related_articles:
-- slug: stinky-business
-  title: STINKY BUSINESS
-  score: 76.03463449714167
-  llm_score: 85
-  recency_score: 79.22512423142078
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 70.5709427369692
+  llm_score: 72
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fly-creek-mud
-  title: FLY CREEK MUD
-  score: 71.80171196773843
-  llm_score: 74
-  recency_score: 95.71112779029973
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 66.80386526637244
+  llm_score: 70
+  recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 2
@@ -33,59 +33,59 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: wetlands
-  title: WETLANDS
-  score: 63.9680009636573
-  llm_score: 85
-  recency_score: 0.7920062637723839
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: catalyst-skunk
   title: CATALYST SKUNK
-  score: 62.808452352393545
-  llm_score: 83
+  score: 57.885375429316625
+  llm_score: 75
   recency_score: 1.2549402905579714
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 55.44467911830984
+  llm_score: 70
+  recency_score: 5.390414269013892
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 12.291928320270484
-  llm_score: 0
-  recency_score: 4.897534081758149
+- slug: timeline
+  title: TIMELINE
+  score: 55.37506979490447
+  llm_score: 70
+  recency_score: 4.937953666878992
   length_score: 100
   category_score: 0
   rank: 6
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 11.93969680128459
-  llm_score: 0
-  recency_score: 2.6080292083498433
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 55.36885139719357
+  llm_score: 70
+  recency_score: 4.897534081758149
   length_score: 100
   category_score: 0
   rank: 7
 - slug: grinder-pumps
   title: GRINDER PUMPS
-  score: 11.704978286104854
-  llm_score: 0
+  score: 54.78190136302794
+  llm_score: 70
   recency_score: 1.082358859681554
   length_score: 100
   category_score: 0
   rank: 8
+- slug: wetlands
+  title: WETLANDS
+  score: 51.66030865596499
+  llm_score: 65
+  recency_score: 0.7920062637723839
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
   score: 11.658650897800474
   llm_score: 0
   recency_score: 0.7812308357030797
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 11.136986810617522
-  llm_score: -2
-  recency_score: 5.390414269013892
   length_score: 100
   category_score: 0
   rank: 10

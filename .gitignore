@@ -29,3 +29,4 @@ archive_link_verifier/*
 *.log
 recent_placement/*
 audit/*
+bsp_transcript_generator/*

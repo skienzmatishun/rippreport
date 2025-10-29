@@ -18,8 +18,8 @@ related_articles:
   rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 84.96884062410062
-  llm_score: 95
+  score: 78.81499447025448
+  llm_score: 85
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
@@ -40,50 +40,50 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 64.02892714408065
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.86206707371299
   llm_score: 85
-  recency_score: 1.1880264365241602
+  recency_score: 0.10343597913435872
   length_score: 100
   category_score: 0
   rank: 5
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 63.86333585800739
-  llm_score: 85
-  recency_score: 0.11168307704791358
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 57.8750809902345
+  llm_score: 75
+  recency_score: 1.1880264365241602
   length_score: 100
   category_score: 0
   rank: 6
-- slug: back-stabber
-  title: BACK STABBER
-  score: 63.86105438327457
-  llm_score: 85
-  recency_score: 0.09685349128460453
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 57.74246157288432
-  llm_score: 75
+  score: 54.665538495961236
+  llm_score: 70
   recency_score: 0.3260002237479753
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 54.632566627238155
+  llm_score: 70
+  recency_score: 0.11168307704791358
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 57.7257431330925
-  llm_score: 75
-  recency_score: 0.21733036510113413
+- slug: back-stabber
+  title: BACK STABBER
+  score: 54.63028515250534
+  llm_score: 70
+  recency_score: 0.09685349128460453
   length_score: 100
   category_score: 0
   rank: 9
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 54.67258740920025
-  llm_score: 70
+  score: 51.59566433227717
+  llm_score: 65
   recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0

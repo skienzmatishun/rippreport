@@ -50,22 +50,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 82.87497902349902
-  llm_score: 95
-  recency_score: 83.68736365274363
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 77.69230769230771
@@ -73,20 +57,36 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: earful
-  title: EARFUL
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
+  rank: 6
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 76.72113286965288
+  llm_score: 85
+  recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: innocent
   title: INNOCENT
   score: 72.98103965942703
   llm_score: 95
   recency_score: 19.376757786275636
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: earful
+  title: EARFUL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 56.15384615384617
+  llm_score: 60
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

@@ -16,22 +16,30 @@ authors:
 - admin
 alttags: Baldwin County Sheriffs Office seal, mailbox, phone, and envelope suggest potential replacement controversy and public sc...
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 93.74701037350732
-  llm_score: 92
-  recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 93.63684260199622
-  llm_score: 90
+  score: 95.48299644815006
+  llm_score: 93
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 94.9119515422756
+  llm_score: 93
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 100
   rank: 2
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 94.36239498889194
+  llm_score: 93
+  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 93.38942469090917
@@ -39,28 +47,20 @@ related_articles:
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 93.06579769612176
-  llm_score: 90
-  recency_score: 94.92768502479139
+  rank: 4
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 85.06491441824907
+  llm_score: 92
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 84.82884298479213
   llm_score: 90
   recency_score: 41.38747940114875
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 83.83414518747985
-  llm_score: 90
-  recency_score: 34.921943718618955
   length_score: 100
   category_score: 100
   rank: 6
@@ -80,6 +80,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 73.55786250955295
+  llm_score: 93
+  recency_score: 31.126106312094088
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 72.75201832307955
@@ -87,14 +95,6 @@ related_articles:
   recency_score: 42.88811910001705
   length_score: 100
   category_score: 100
-  rank: 9
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 71.71170866339911
-  llm_score: 90
-  recency_score: 31.126106312094088
-  length_score: 100
-  category_score: 0
   rank: 10
 ---
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.

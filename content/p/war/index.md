@@ -11,28 +11,12 @@ alttags: Alabama State Capitol building with Department of Veterans Affairs seal
 related_articles:
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 82.26560036302862
-  llm_score: 90
+  score: 79.18867728610554
+  llm_score: 85
   recency_score: 99.72640235968593
   length_score: 100
   category_score: 0
   rank: 1
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 78.8560612226499
-  llm_score: 85
-  recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 78.81499447025448
-  llm_score: 85
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.41045617208597
@@ -40,11 +24,27 @@ related_articles:
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 72.70221506880374
+  llm_score: 75
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 69.58422523948525
+  llm_score: 70
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 75.49401966004612
-  llm_score: 80
+  score: 57.03248119850766
+  llm_score: 50
   recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
@@ -57,35 +57,35 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 55.19143307084414
-  llm_score: 70
-  recency_score: 3.7443149604868586
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 51.64071193345495
+  llm_score: 65
+  recency_score: 0.6646275674571428
   length_score: 100
   category_score: 0
   rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 48.74024639051887
-  llm_score: 60
-  recency_score: 1.811601538372569
+- slug: symbol
+  title: Veterans Day
+  score: 42.883740763151835
+  llm_score: 50
+  recency_score: 3.7443149604868586
   length_score: 100
   category_score: 0
   rank: 8
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 45.588739146452276
+- slug: insanity-2
+  title: INSANITY
+  score: 42.58640023667271
   llm_score: 50
-  recency_score: 21.326804451939722
+  recency_score: 1.811601538372569
   length_score: 100
   category_score: 0
   rank: 9
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 42.409942702685726
-  llm_score: 50
-  recency_score: 0.6646275674571428
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 40.66566222337535
+  llm_score: 42
+  recency_score: 21.326804451939722
   length_score: 100
   category_score: 0
   rank: 10
