@@ -32,19 +32,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 54.64891178571631
+  llm_score: 70
+  recency_score: 0.2179266071559293
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
   score: 54.634927868885086
   llm_score: 70
   recency_score: 0.12703114775298338
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: barstool
-  title: BARSTOOL
-  score: 54.63460923599891
-  llm_score: 70
-  recency_score: 0.12496003399281562
   length_score: 100
   category_score: 0
   rank: 5
@@ -80,11 +80,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 42.341219478023994
-  llm_score: 50
-  recency_score: 0.2179266071559293
+- slug: barstool
+  title: BARSTOOL
+  score: 44.78845538984506
+  llm_score: 54
+  recency_score: 0.12496003399281562
   length_score: 100
   category_score: 0
   rank: 10

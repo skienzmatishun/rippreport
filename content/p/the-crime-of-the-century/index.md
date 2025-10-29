@@ -10,6 +10,22 @@ authors:
 - admin
 alttags: President Biden and Vice President Harris featured in Backstory Podcast episode discussing current events and Alabama poli...
 related_articles:
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 72.6201939216784
+  llm_score: 75
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 72.17702386531501
+  llm_score: 75
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
   score: 70.5320610770075
@@ -17,15 +33,39 @@ related_articles:
   recency_score: 83.45839700054867
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: what-the
-  title: What the
-  score: 61.2680118179438
-  llm_score: 70
-  recency_score: 43.242076816634636
+  rank: 3
+- slug: war
+  title: WAR
+  score: 68.52445473844017
+  llm_score: 69
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 4
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 68.36539036083201
+  llm_score: 70
+  recency_score: 89.37503734540803
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 61.333357754516726
+  llm_score: 75
+  recency_score: 23.666825404358608
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 60.6489460725022
+  llm_score: 75
+  recency_score: 19.21814947126418
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: delicately-censored
   title: Delicately Censored
   score: 59.27460186173011
@@ -33,31 +73,7 @@ related_articles:
   recency_score: 30.284912101245666
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 58.256434677593646
-  llm_score: 70
-  recency_score: 23.666825404358608
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 57.95543293778952
-  llm_score: 75
-  recency_score: 1.7103140956317624
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 55.60361693223196
-  llm_score: 70
-  recency_score: 6.423510059507628
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 8
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
   score: 54.905784903292954
@@ -65,28 +81,12 @@ related_articles:
   recency_score: 1.887601871404123
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 54.49509991865604
-  llm_score: 65
-  recency_score: 19.21814947126418
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 42.388257644577386
-  llm_score: 50
-  recency_score: 0.5236746897529492
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 26.466347767832243
-  llm_score: 0
-  recency_score: 97.03126049090956
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 52.52669385530888
+  llm_score: 65
+  recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
   rank: 10

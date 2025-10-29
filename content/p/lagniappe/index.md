@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: 'Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep...'
 related_articles:
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 82.71522921439812
-  llm_score: 85
-  recency_score: 73.57614607199059
-  rank: 1
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 78.87486652233241
-  llm_score: 95
-  recency_score: 14.374332611662021
-  rank: 2
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 75.9939206577845
-  llm_score: 90
-  recency_score: 19.9696032889225
-  rank: 3
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 71.9491934264295
-  llm_score: 75
-  recency_score: 59.74596713214747
-  rank: 4
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 69.08698032362109
-  llm_score: 85
-  recency_score: 5.4349016181054575
-  rank: 5
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 68.50975554986516
-  llm_score: 65
-  recency_score: 82.54877774932578
-  rank: 6
-- slug: exposure-2
-  title: EXPOSURE
-  score: 67.21946349126168
-  llm_score: 70
-  recency_score: 56.097317456308396
-  rank: 7
 - slug: victory
   title: VICTORY
-  score: 64.09804508090537
-  llm_score: 70
+  score: 70.07541929300415
+  llm_score: 85
   recency_score: 40.49022540452686
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 69.01171478030626
+  llm_score: 75
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 66.88399494340732
+  llm_score: 75
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 65.50474866432661
+  llm_score: 85
+  recency_score: 10.780866318122923
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 62.8344901814437
+  llm_score: 75
+  recency_score: 33.42418617938393
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 58.52844640278547
+  llm_score: 75
+  recency_score: 5.4349016181054575
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 24.238273499896277
+  llm_score: 0
+  recency_score: 82.54877774932578
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: survey
   title: SURVEY
-  score: 51.85138338741181
-  llm_score: 50
+  score: 20.654910298009085
+  llm_score: 0
   recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 18.17288730997562
+  llm_score: 0
+  recency_score: 43.12376751484153
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: this-is-the-new-logo-for-fairhope
   title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 36.78027930279753
-  llm_score: 45
+  score: 12.138676386767335
+  llm_score: 0
   recency_score: 3.9013965139876725
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper. The Mobile paper has little to offer with more fluff stories than real investigative reporting. The Sunday Paper is $3.00, over $150.00 a year just for Sunday.

@@ -15,74 +15,84 @@ authors:
 - admin
 alttags: Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama
 related_articles:
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 79.17392032634467
-  llm_score: 85
-  recency_score: 98.36960163172333
-  category_score: 0
-  rank: 1
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 71.19014258029428
+  score: 72.83857121561098
   llm_score: 85
   recency_score: 58.450712901471334
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 66.21663252706894
-  llm_score: 90
-  recency_score: 16.083162635344685
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 63.77706283337481
-  llm_score: 85
+  score: 68.36697141028833
+  llm_score: 87
   recency_score: 21.385314166874046
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 65.69043854694915
+  llm_score: 87
+  recency_score: 3.9878505551694436
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 55.74702521716058
+  llm_score: 71
+  recency_score: 3.355663911543685
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 63.73044680872361
-  llm_score: 85
-  recency_score: 21.152234043618023
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 28.824042764626803
+  llm_score: 23
+  recency_score: 20.356277970074178
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 60.252977613598894
-  llm_score: 85
-  recency_score: 3.764888067994434
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: threesome
   title: THREESOME
-  score: 58.67426475741957
-  llm_score: 75
+  score: 16.287895967245817
+  llm_score: 0
   recency_score: 30.871323787097815
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 56.41805472594941
-  llm_score: 75
-  recency_score: 19.590273629747017
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 14.792651391325851
+  llm_score: 0
+  recency_score: 21.152234043618023
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 53.171132782308746
-  llm_score: 75
-  recency_score: 3.355663911543685
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 14.55234978919185
+  llm_score: 0
+  recency_score: 19.590273629747017
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 46.2975701110339
-  llm_score: 65
-  recency_score: 3.9878505551694436
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 14.01279425159149
+  llm_score: 0
+  recency_score: 16.083162635344685
+  length_score: 100
   category_score: 0
   rank: 10
 ---

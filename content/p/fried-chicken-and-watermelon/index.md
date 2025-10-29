@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu...
 related_articles:
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 82.91819469742386
-  llm_score: 85
-  recency_score: 74.59097348711927
-  rank: 1
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 68.45607881510779
-  llm_score: 85
-  recency_score: 2.2803940755389456
-  rank: 2
-- slug: black-hole
-  title: BLACK HOLE
-  score: 68.3693359748071
-  llm_score: 85
-  recency_score: 1.8466798740354857
-  rank: 3
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 68.12687642483168
-  llm_score: 85
-  recency_score: 0.6343821241583751
-  rank: 4
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 61.5637938281211
-  llm_score: 70
-  recency_score: 27.818969140605503
-  rank: 5
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 60.37855609482353
-  llm_score: 75
-  recency_score: 1.892780474117634
-  rank: 6
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 56.552496145361175
-  llm_score: 70
+  score: 64.27115088104706
+  llm_score: 85
   recency_score: 2.76248072680588
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: black-hole
+  title: BLACK HOLE
+  score: 64.13025844215932
+  llm_score: 85
+  recency_score: 1.8466798740354857
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 63.94375109602438
+  llm_score: 85
+  recency_score: 0.6343821241583751
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 58.445774474116654
+  llm_score: 75
+  recency_score: 4.897534081758149
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-moore-strange
   title: ALABAMA MOORE STRANGE
-  score: 52.32471231552719
-  llm_score: 65
+  score: 57.94208639655939
+  llm_score: 75
   recency_score: 1.6235615776359285
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: boiling-frog
+  title: BOILING FROG
+  score: 46.32272144566542
+  llm_score: 55
+  recency_score: 6.09768939682519
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 23.013995921095272
+  llm_score: 0
+  recency_score: 74.59097348711927
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 11.88929139623676
+  llm_score: 0
+  recency_score: 2.2803940755389456
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: snakes-in-the-schools
-  title: SNAKES IN THE SCHOOLS
-  score: 48.68412803568734
-  llm_score: 60
-  recency_score: 3.4206401784366847
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 11.829658534479636
+  llm_score: 0
+  recency_score: 1.892780474117634
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: jack-ass
-  title: JACK ASS
-  score: 48.27700498370537
-  llm_score: 60
-  recency_score: 1.3850249185268229
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 11.759874020766022
+  llm_score: 0
+  recency_score: 1.4391811349791466
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Tonight the Fairhope Rotary Youth Club will be hosting Fairhope Council and members of the so called the Fairhope Comprehensive Plan.

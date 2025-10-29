@@ -17,74 +17,84 @@ authors:
 - admin
 alttags: 'Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city name, related to Fairhope City Council discussion'
 related_articles:
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 79.15183464323572
-  llm_score: 90
-  recency_score: 80.75917321617852
-  category_score: 0
-  rank: 1
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 77.67127158449027
-  llm_score: 85
-  recency_score: 90.85635792245131
-  category_score: 0
-  rank: 2
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 74.41819469742387
-  llm_score: 85
-  recency_score: 74.59097348711927
-  category_score: 0
-  rank: 3
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 70.12123778439705
-  llm_score: 85
-  recency_score: 53.10618892198522
-  category_score: 0
-  rank: 4
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 69.2742759876368
-  llm_score: 95
-  recency_score: 13.871379938184003
-  category_score: 0
-  rank: 5
 - slug: catalyst
   title: CATALYST
-  score: 67.4564942330773
-  llm_score: 90
+  score: 66.65884171775178
+  llm_score: 84
   recency_score: 22.28247116538646
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: corridor-of-chaos
+  title: CORRIDOR OF CHAOS
+  score: 65.86249060338235
+  llm_score: 75
+  recency_score: 53.10618892198522
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 30.834490181443684
+  llm_score: 23
+  recency_score: 33.42418617938393
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 23.962949725565927
+  llm_score: 0
+  recency_score: 80.75917321617852
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 22.67331719799877
+  llm_score: 0
+  recency_score: 72.37656178699199
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 63.34362989425284
-  llm_score: 85
+  score: 14.495099918656027
+  llm_score: 0
   recency_score: 19.21814947126418
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 63.19899455443595
-  llm_score: 85
+  score: 14.383841964950724
+  llm_score: 0
   recency_score: 18.4949727721797
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 61.925756009887564
-  llm_score: 85
-  recency_score: 12.128780049437779
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 13.672519990489846
+  llm_score: 0
+  recency_score: 13.871379938184003
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 59.18483723587679
-  llm_score: 75
-  recency_score: 33.42418617938393
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 13.404427699913505
+  llm_score: 0
+  recency_score: 12.128780049437779
+  length_score: 100
   category_score: 0
   rank: 10
 ---

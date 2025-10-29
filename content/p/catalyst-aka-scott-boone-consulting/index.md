@@ -12,74 +12,84 @@ authors:
 - admin
 alttags: CATALYST logo obscured by sunglasses and a red circle, representing controversial Baldwin County political group now calle...
 related_articles:
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 86.39071065521195
-  llm_score: 95
-  recency_score: 99.45355327605971
-  category_score: 0
-  rank: 1
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 82.62009294457452
-  llm_score: 90
-  recency_score: 98.10046472287257
-  category_score: 0
-  rank: 2
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 82.45949281133082
-  llm_score: 90
-  recency_score: 97.29746405665401
-  category_score: 0
-  rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 68.93908430617277
-  llm_score: 95
-  recency_score: 12.195421530863895
-  category_score: 0
-  rank: 4
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 65.24662907448486
-  llm_score: 90
-  recency_score: 11.233145372424257
-  category_score: 0
-  rank: 5
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 62.18454994448998
-  llm_score: 85
-  recency_score: 13.422749722449872
-  category_score: 0
-  rank: 6
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 62.08353064654527
-  llm_score: 85
-  recency_score: 12.9176532327263
-  category_score: 0
-  rank: 7
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 61.79013091918722
-  llm_score: 85
+  score: 74.83856224552864
+  llm_score: 100
   recency_score: 11.45065459593608
+  length_score: 100
   category_score: 0
-  rank: 8
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 61.54120535310382
-  llm_score: 85
-  recency_score: 10.20602676551906
+  rank: 1
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 67.14196149576154
+  llm_score: 87
+  recency_score: 13.422749722449872
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 2
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 54.329333058715136
-  llm_score: 75
+  score: 66.4841023528578
+  llm_score: 87
   recency_score: 9.146665293575648
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 65.57433005729605
+  llm_score: 85
+  recency_score: 11.233145372424257
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 59.56852638936369
+  llm_score: 75
+  recency_score: 12.195421530863895
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 26.839008196316883
+  llm_score: 0
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 26.50730216256216
+  llm_score: 0
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 13.525792805034815
+  llm_score: 0
+  recency_score: 12.9176532327263
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 12.493234887002933
+  llm_score: -1
+  recency_score: 10.20602676551906
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -11,8 +11,8 @@ alttags: Kamala Harris on a Time magazine cover titled “Her Moment,” discuss
 related_articles:
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 64.77105618861833
-  llm_score: 65
+  score: 67.84797926554141
+  llm_score: 70
   recency_score: 86.01186522601911
   length_score: 100
   category_score: 0
@@ -25,11 +25,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 58.76816867887796
-  llm_score: 70
-  recency_score: 26.993096412706674
+- slug: bsp-128
+  title: Big News
+  score: 59.26677335714025
+  llm_score: 75
+  recency_score: 10.234026821411552
   length_score: 100
   category_score: 0
   rank: 3
@@ -41,11 +41,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 56.18985028021717
-  llm_score: 70
-  recency_score: 10.234026821411552
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 57.797975614835586
+  llm_score: 75
+  recency_score: 0.6868414964312073
   length_score: 100
   category_score: 0
   rank: 5
@@ -57,35 +57,35 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.721052537912506
-  llm_score: 70
-  recency_score: 0.6868414964312073
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: saturday-apology
   title: SATURDAY APOLOGY
-  score: 51.66369308348156
-  llm_score: 65
+  score: 54.74061616040464
+  llm_score: 70
   recency_score: 0.8140050426301118
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 47.639773677339925
+  llm_score: 58
+  recency_score: 2.658528902709438
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: im-back-2
+  title: I'M BACK
+  score: 46.460476371185656
+  llm_score: 50
+  recency_score: 26.993096412706674
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: primary-election-may-24th
   title: Primary Election May 24th
   score: 43.91704776620225
   llm_score: 50
   recency_score: 10.460810480314583
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 39.639773677339925
-  llm_score: 45
-  recency_score: 2.658528902709438
   length_score: 100
   category_score: 0
   rank: 10

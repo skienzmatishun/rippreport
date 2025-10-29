@@ -11,63 +11,83 @@ alttags: Cartoon water droplet mascot labeled Crystal Clean, representing Baldwi
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 91.84502484628416
-  llm_score: 95
+  score: 76.03463449714167
+  llm_score: 85
   recency_score: 79.22512423142078
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 87.14222555805995
-  llm_score: 85
+  score: 71.80171196773843
+  llm_score: 74
   recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 69.50184023222896
+  score: 65.00141556325305
   llm_score: 85
   recency_score: 7.509201161144759
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 69.07808285380278
+- slug: wetlands
+  title: WETLANDS
+  score: 63.9680009636573
   llm_score: 85
-  recency_score: 5.390414269013892
+  recency_score: 0.7920062637723839
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: catalyst-skunk
   title: CATALYST SKUNK
-  score: 68.25098805811159
-  llm_score: 85
+  score: 62.808452352393545
+  llm_score: 83
   recency_score: 1.2549402905579714
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: wetlands
-  title: WETLANDS
-  score: 68.15840125275447
-  llm_score: 85
-  recency_score: 0.7920062637723839
-  rank: 6
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 68.15624616714062
-  llm_score: 85
-  recency_score: 0.7812308357030797
-  rank: 7
-- slug: timeline
-  title: TIMELINE
-  score: 60.9875907333758
-  llm_score: 75
-  recency_score: 4.937953666878992
-  rank: 8
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 60.97950681635163
-  llm_score: 75
+  score: 12.291928320270484
+  llm_score: 0
   recency_score: 4.897534081758149
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 11.93969680128459
+  llm_score: 0
+  recency_score: 2.6080292083498433
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: grinder-pumps
   title: GRINDER PUMPS
-  score: 52.21647177193631
-  llm_score: 65
+  score: 11.704978286104854
+  llm_score: 0
   recency_score: 1.082358859681554
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 11.658650897800474
+  llm_score: 0
+  recency_score: 0.7812308357030797
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 11.136986810617522
+  llm_score: -2
+  recency_score: 5.390414269013892
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The article below omitted some issues, that may have been problematic for Al.com to print. So let me fill ya in on some details. Baldwin County Sewer Service is the only privately operated sewer service in Alabama. They are unregulated and have been given permission to use county right of ways at no charge.

@@ -11,65 +11,85 @@ authors:
 - admin
 alttags: Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field
 related_articles:
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 68.10764360478439
-  llm_score: 65
-  recency_score: 80.5382180239219
-  rank: 1
-- slug: winner-and-loser
-  title: WINNER AND LOSER
-  score: 62.886386845888616
-  llm_score: 65
-  recency_score: 54.43193422944308
-  rank: 2
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 55.08258086352161
-  llm_score: 50
-  recency_score: 75.41290431760807
-  rank: 3
 - slug: quarterback-sneak
   title: QUARTERBACK SNEAK
-  score: 50.91625345775975
-  llm_score: 50
+  score: 51.32019496750751
+  llm_score: 51
   recency_score: 54.58126728879875
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 48.70998193285987
+  llm_score: 50
+  recency_score: 41.61488256358909
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 45.26419472412719
+  llm_score: 49
+  recency_score: 23.21726570682666
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 39.3135720036803
+  llm_score: 25
+  recency_score: 80.5382180239219
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: super-bowl-lv
   title: Super Bowl LV
-  score: 50.19359590659946
-  llm_score: 50
+  score: 33.53353531276882
+  llm_score: 23
   recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: lagniappe
   title: LAGNIAPPE
-  score: 44.60115638090128
-  llm_score: 45
+  score: 32.308581831462526
+  llm_score: 23
   recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 42.52752135988299
-  llm_score: 50
+  score: 27.63655489221769
+  llm_score: 23
   recency_score: 12.637606799414936
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 40.643453141365335
-  llm_score: 45
-  recency_score: 23.21726570682666
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 19.91260526606817
+  llm_score: 0
+  recency_score: 54.43193422944308
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 28.32297651271782
-  llm_score: 25
-  recency_score: 41.61488256358909
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 13.868061997834378
+  llm_score: 0
+  recency_score: 15.142402985923455
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: this-is-the-new-logo-for-fairhope
   title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 21.81435906578825
-  llm_score: 25
+  score: 12.934122358298655
+  llm_score: 0
   recency_score: 9.071795328941251
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 “This is the book that will get SEC Football fans through the lockdowns! I call it the ‘Bible of SEC Football,’” said Dr. Warner, the “Professor of Tailgating,” and author of more than twenty tomes. “That’s because Southerner’s don’t think—they feel—and there’s nothing they feel more passionate about than SEC Football on Saturdays in the fall!”

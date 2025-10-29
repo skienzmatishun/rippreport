@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: 'Politicians united against Poison Ivy: a hand gesture with a green marking on the index finger, symbolizing opposition'
 related_articles:
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 74.17127158449026
-  llm_score: 70
-  recency_score: 90.85635792245131
+- slug: insanity
+  title: INSANITY
+  score: 64.04219142063413
+  llm_score: 75
+  recency_score: 41.27424423412174
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
-  score: 60.60115638090128
-  llm_score: 65
+  score: 50.77012029300099
+  llm_score: 53
   recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: insanity
-  title: INSANITY
-  score: 60.254848846824345
-  llm_score: 65
-  recency_score: 41.27424423412174
-  rank: 3
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 58.55785639436276
-  llm_score: 65
-  recency_score: 32.789281971813786
-  rank: 4
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 56.1387334364297
-  llm_score: 65
-  recency_score: 20.693667182148534
-  rank: 5
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 54.61199901732306
-  llm_score: 65
-  recency_score: 13.05999508661529
-  rank: 6
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 54.57646216765952
-  llm_score: 65
-  recency_score: 12.882310838297602
-  rank: 7
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 52.66381805639912
-  llm_score: 65
-  recency_score: 3.3190902819956127
-  rank: 8
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 49.316773371159904
-  llm_score: 60
-  recency_score: 6.583866855799505
-  rank: 9
 - slug: catalyst-signs
   title: CATALYST SIGNS
-  score: 47.793316599143736
-  llm_score: 50
+  score: 49.53332046087981
+  llm_score: 52
   recency_score: 38.96658299571869
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 44.664475427999335
+  llm_score: 53
+  recency_score: 3.3190902819956127
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 32.04219142063412
+  llm_score: 23
+  recency_score: 41.27424423412174
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 25.516362757300204
+  llm_score: 0
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 18.961592167066474
+  llm_score: 0
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 15.94924769602976
+  llm_score: 0
+  recency_score: 28.67011002419343
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 14.722102643407467
+  llm_score: 0
+  recency_score: 20.693667182148534
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 13.547691551786968
+  llm_score: 0
+  recency_score: 13.05999508661529
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy.

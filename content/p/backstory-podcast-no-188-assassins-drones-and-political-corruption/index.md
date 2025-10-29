@@ -24,6 +24,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 57.883271169749165
+  llm_score: 75
+  recency_score: 1.2412626033694756
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
   score: 57.86112118651371
@@ -31,7 +39,7 @@ related_articles:
   recency_score: 1.0972877123390103
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: catalyst-justice
   title: CATALYST JUSTICE
   score: 57.85211999211806
@@ -39,7 +47,23 @@ related_articles:
   recency_score: 1.0387799487673255
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 57.784701022771806
+  llm_score: 75
+  recency_score: 0.6005566480166232
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: consequences
+  title: CONSEQUENCES
+  score: 57.733145831902554
+  llm_score: 75
+  recency_score: 0.265447907366482
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: catalyst-busted
   title: CATALYST BUSTED
   score: 57.71822269144121
@@ -47,15 +71,7 @@ related_articles:
   recency_score: 0.16844749436778167
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 57.70318119373316
-  llm_score: 75
-  recency_score: 0.07067775926541446
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 8
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD
   score: 57.69594207166837
@@ -63,28 +79,12 @@ related_articles:
   recency_score: 0.023623465844288906
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 54.806348092826084
-  llm_score: 70
-  recency_score: 1.2412626033694756
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 54.707777945848726
-  llm_score: 70
-  recency_score: 0.6005566480166232
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: consequences
-  title: CONSEQUENCES
-  score: 11.579299678056381
-  llm_score: 0
-  recency_score: 0.265447907366482
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 48.472411962963925
+  llm_score: 60
+  recency_score: 0.07067775926541446
   length_score: 100
   category_score: 0
   rank: 10

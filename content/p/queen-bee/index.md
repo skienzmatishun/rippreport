@@ -21,63 +21,83 @@ alttags: Fairhope Mayor Sullivan dressed as a bee surrounded by money, referenci
 related_articles:
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 84.50975554986516
-  llm_score: 85
+  score: 85.77673503835783
+  llm_score: 100
   recency_score: 82.54877774932578
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 83.29061318606567
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 76.75645514937592
   llm_score: 85
-  recency_score: 76.45306593032835
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 83.16545197903177
+- slug: sting
+  title: Sting
+  score: 75.25898054709904
   llm_score: 85
-  recency_score: 75.82725989515886
+  recency_score: 74.18337355614374
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: honey-bees
-  title: HONEY BEES
-  score: 74.92721807862874
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 70.05837616973267
   llm_score: 85
-  recency_score: 34.63609039314372
+  recency_score: 40.37944510326223
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: i-quit
-  title: I QUIT
-  score: 70.4753123573984
-  llm_score: 70
-  recency_score: 72.37656178699199
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 65.77977677093463
+  llm_score: 85
+  recency_score: 12.568549011075072
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 68.98219407616733
+  score: 64.60168775089795
   llm_score: 85
   recency_score: 4.910970380836641
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: honey-bees
+  title: HONEY BEES
+  score: 63.02093698356059
+  llm_score: 75
+  recency_score: 34.63609039314372
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 23.997036091559977
+  llm_score: 0
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 23.30047168158898
+  llm_score: 0
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: investigations
   title: INVESTIGATIONS
-  score: 68.73665354209359
-  llm_score: 85
+  score: 12.10511810930276
+  llm_score: 0
   recency_score: 3.6832677104679425
-  rank: 7
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 64.07588902065244
-  llm_score: 70
-  recency_score: 40.37944510326223
-  rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 61.756405604592175
-  llm_score: 65
-  recency_score: 48.78202802296086
-  rank: 9
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 56.48044868574292
-  llm_score: 70
-  recency_score: 2.402243428714602
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope you made the biggest mistake voters could make, you let the bees eat the honey. Only 15% of the registered voters decided who would become Mayor of Fairhope.

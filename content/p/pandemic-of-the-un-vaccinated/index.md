@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 81.36972132414267
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 66.58446294262009
   llm_score: 85
-  recency_score: 66.84860662071335
+  recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 77.44318114711444
-  llm_score: 80
-  recency_score: 67.21590573557219
-  rank: 2
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 66.66654767894059
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 61.49651535997457
   llm_score: 75
-  recency_score: 33.33273839470296
+  recency_score: 24.727349839834638
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: exposure-2
+  title: EXPOSURE
+  score: 47.742508754387224
+  llm_score: 57
+  recency_score: 7.326306903516857
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: virus-vs-catalyst
   title: VIRUS vs. CATALYST
-  score: 64.91844560934352
-  llm_score: 75
+  score: 29.475727391802714
+  llm_score: 23
   recency_score: 24.592228046717608
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 59.54126400432339
-  llm_score: 65
-  recency_score: 37.70632002161693
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 23.17227666174937
+  llm_score: 0
+  recency_score: 75.61979830137088
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 21.822862557032828
+  llm_score: 0
+  recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 20.90812892695509
+  llm_score: 0
+  recency_score: 60.90283802520807
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 16.66657513764661
+  llm_score: 0
+  recency_score: 33.33273839470296
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: dark-wednesday
   title: DARK WEDNESDAY
-  score: 57.94192790244709
-  llm_score: 65
+  score: 16.109175309574688
+  llm_score: 0
   recency_score: 29.70963951223547
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: shelter-in-place
   title: SHELTER IN PLACE
-  score: 57.12478430821849
-  llm_score: 65
+  score: 15.480603314014223
+  llm_score: 0
   recency_score: 25.623921541092447
-  rank: 7
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 56.94546996796693
-  llm_score: 65
-  recency_score: 24.727349839834638
-  rank: 8
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 56.6946201541873
-  llm_score: 65
-  recency_score: 23.473100770936487
-  rank: 9
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 55.55980182540611
-  llm_score: 65
-  recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.

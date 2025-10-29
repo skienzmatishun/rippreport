@@ -6,65 +6,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 83.37777423965625
-  llm_score: 95
-  recency_score: 36.88887119828122
-  rank: 1
 - slug: symbol
   title: Veterans Day
-  score: 72.92190583576996
-  llm_score: 70
+  score: 72.55531218136151
+  llm_score: 78
   recency_score: 84.60952917884977
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 72.02581228558638
+  llm_score: 95
+  recency_score: 13.167779856311412
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 71.22545730213692
-  llm_score: 85
-  recency_score: 16.127286510684606
+- slug: he-must-go
+  title: He Must Go
+  score: 66.56238114737175
+  llm_score: 75
+  recency_score: 57.65547745791634
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 70.99547296281645
-  llm_score: 85
-  recency_score: 14.977364814082216
-  rank: 4
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 70.27111348555951
-  llm_score: 65
-  recency_score: 91.35556742779755
-  rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 69.43964342023084
-  llm_score: 65
-  recency_score: 87.19821710115417
-  rank: 6
 - slug: im-back-2
   title: I'M BACK
-  score: 59.8647486868406
-  llm_score: 70
+  score: 60.66519129756971
+  llm_score: 75
   recency_score: 19.323743434203013
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 53.84122762046113
+  llm_score: 56
+  recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 31.098678424177827
+  llm_score: 25
+  recency_score: 27.14140975715586
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 25.593164219661166
+  llm_score: 0
+  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: combat
-  title: COMBAT
-  score: 55.41647386607539
-  llm_score: 65
-  recency_score: 17.082369330376963
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 24.95357186171603
+  llm_score: 0
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 54.07503671789349
-  llm_score: 65
-  recency_score: 10.375183589467447
+- slug: bsp-128
+  title: Big News
+  score: 19.379689158922666
+  llm_score: 0
+  recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 52.71871159330051
-  llm_score: 65
-  recency_score: 3.5935579665025585
+- slug: backstory-153
+  title: No Boomers
+  score: 14.544103862056149
+  llm_score: 0
+  recency_score: 19.53667510336496
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Remembering 9/11.

@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 83.70914268128783
-  llm_score: 100
-  recency_score: 18.545713406439127
+- slug: primary-election-may-24th
+  title: Primary Election May 24th
+  score: 71.77378530918249
+  llm_score: 85
+  recency_score: 51.52960450968603
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-153
-  title: No Boomers
-  score: 80.03793035989311
-  llm_score: 95
-  recency_score: 20.189651799465537
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 66.06645141991433
+  llm_score: 75
+  recency_score: 54.43193422944308
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 79.12113908637559
-  llm_score: 95
-  recency_score: 15.605695431877937
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 65.27993317263103
+  llm_score: 75
+  recency_score: 49.31956562210165
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 78.57646216765951
-  llm_score: 95
-  recency_score: 12.882310838297602
+- slug: bsp-128
+  title: Big News
+  score: 63.33407516690546
+  llm_score: 71
+  recency_score: 52.671488584885374
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 65.89329029325975
+- slug: im-back-2
+  title: I'M BACK
+  score: 60.764554352141936
   llm_score: 75
-  recency_score: 29.466451466298754
+  recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 62.874866522332404
-  llm_score: 75
-  recency_score: 14.374332611662021
-  rank: 6
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 59.19905534400357
-  llm_score: 70
-  recency_score: 15.995276720017856
-  rank: 7
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 58.89859293447587
-  llm_score: 70
-  recency_score: 14.49296467237936
-  rank: 8
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 58.72904423720288
-  llm_score: 70
-  recency_score: 13.645221186014394
-  rank: 9
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 58.548381115638655
-  llm_score: 70
+  score: 59.6526008581836
+  llm_score: 75
   recency_score: 12.741905578193274
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 58.40559936249053
+  llm_score: 75
+  recency_score: 4.636395856188334
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 28.015534419794946
+  llm_score: 23
+  recency_score: 15.100973728667121
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 24.519698385159323
+  llm_score: 0
+  recency_score: 84.37803950353559
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-153
+  title: No Boomers
+  score: 14.64456181530239
+  llm_score: 0
+  recency_score: 20.189651799465537
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 This week for our 100th Episode we have a special guest: Alabama State Auditor Jim Zeigler(R). He is poised to announce that he will challenge Alabama Governor Kay Ivey for the Republican nomination (we talk prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).

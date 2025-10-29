@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: City of Fairhope, Alabama seal depicting buildings and a For Sale sign, highlighting concerns about municipal spending a...
 related_articles:
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 91.29061318606567
-  llm_score: 95
-  recency_score: 76.45306593032835
-  rank: 1
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 85.15530775847412
-  llm_score: 85
-  recency_score: 85.7765387923706
-  rank: 2
-- slug: s-o-s
-  title: S.O.S
-  score: 81.62860141581517
-  llm_score: 85
-  recency_score: 68.14300707907584
-  rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 78.7591160473893
-  llm_score: 95
-  recency_score: 13.795580236946487
-  rank: 4
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 75.75844022710412
-  llm_score: 75
+  score: 85.19880017469548
+  llm_score: 100
   recency_score: 78.79220113552056
-  rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 74.5758477586611
-  llm_score: 85
-  recency_score: 32.87923879330549
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: s-o-s
+  title: S.O.S
+  score: 68.17584724293476
+  llm_score: 75
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 66.72151218150093
+  llm_score: 78
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 73.97457577604462
-  llm_score: 85
+  score: 62.288135212342034
+  llm_score: 75
   recency_score: 29.872878880223098
-  rank: 7
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 72.65619237382862
-  llm_score: 85
-  recency_score: 23.280961869143056
-  rank: 8
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 69.31317071028812
-  llm_score: 85
-  recency_score: 6.565853551440616
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 62.11189997535919
+  llm_score: 76
+  recency_score: 24.727349839834638
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 63.896644644257265
+  score: 60.689726649428685
   llm_score: 75
   recency_score: 19.483223221286327
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 59.885641786591705
+  llm_score: 75
+  recency_score: 14.25667161284597
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 58.66044979721248
+  llm_score: 76
+  recency_score: 2.292923681881036
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 24.734852121903174
+  llm_score: 0
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 23.30047168158898
+  llm_score: 0
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 FAUXHOPE is living up to it’s name. Fairhope is not what you think when it comes to municipal government. The waste of taxpayer money is staggering, yet few people are even interested. The delay of the waterfront project is just one example. For close to a year the council has tried to get around any ADA compliance for the project. From day one the then Mayor Wilson explained that the grant, 6.2 million, required ADA compliance.

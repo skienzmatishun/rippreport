@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Crash test dummy head with painted markings, symbolizing legal scrutiny and a status review hearing in Ripp Report case
 related_articles:
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 95.78201851846809
-  llm_score: 95
-  recency_score: 98.91009259234048
-  rank: 1
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 91.08258086352161
-  llm_score: 95
-  recency_score: 75.41290431760807
-  rank: 2
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 86.32395966027418
-  llm_score: 89
+  score: 76.71073820021091
+  llm_score: 87
   recency_score: 75.61979830137088
-  rank: 3
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85.77733007636273
-  llm_score: 85
-  recency_score: 88.88665038181365
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: striking-oil
   title: STRIKING OIL
-  score: 83.45910309586523
+  score: 75.73777161220403
   llm_score: 85
   recency_score: 77.29551547932614
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 75.44813912578587
+  llm_score: 85
+  recency_score: 75.41290431760807
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 58.13634909554388
+  llm_score: 75
+  recency_score: 2.886269121035116
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 77.95366066397163
-  llm_score: 95
+  score: 53.04127743382434
+  llm_score: 65
   recency_score: 9.768303319858143
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 26.755398860360074
+  llm_score: 0
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 75.68643798993655
-  llm_score: 92
-  recency_score: 10.432189949682714
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 25.213330827971333
+  llm_score: 0
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 72.2073296707293
-  llm_score: 85
+  score: 14.774868977484076
+  llm_score: 0
   recency_score: 21.03664835364649
-  rank: 8
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 70.13267297150237
-  llm_score: 85
-  recency_score: 10.663364857511832
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 60.358371351801715
-  llm_score: 75
-  recency_score: 1.7918567590085734
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 13.143413838412725
+  llm_score: 0
+  recency_score: 10.432189949682714
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Ripp Report is a consumer organization first. We also maintain a blog site, Facebook pages and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.

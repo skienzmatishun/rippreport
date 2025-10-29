@@ -24,11 +24,11 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 63.85714716457109
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 63.87171626574115
   llm_score: 85
-  recency_score: 0.07145656971196458
+  recency_score: 0.1661557273173934
   length_score: 100
   category_score: 0
   rank: 1
@@ -64,43 +64,43 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 57.69674673328302
-  llm_score: 75
-  recency_score: 0.028853766339517067
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: going-down
-  title: GOING DOWN
-  score: 54.66636975687618
-  llm_score: 70
-  recency_score: 0.3314034196950972
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 54.640947034971916
-  llm_score: 70
-  recency_score: 0.1661557273173934
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 54.63280361677358
-  llm_score: 70
+  score: 57.70972669369666
+  llm_score: 75
   recency_score: 0.11322350902818136
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 54.71735525571012
+  llm_score: 70
+  recency_score: 0.6628091621157032
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: victory
   title: VICTORY
-  score: 50.32436423037149
-  llm_score: 63
+  score: 54.6320565380638
+  llm_score: 70
   recency_score: 0.10836749741462423
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 54.626377933801855
+  llm_score: 70
+  recency_score: 0.07145656971196458
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 54.61982365635994
+  llm_score: 70
+  recency_score: 0.028853766339517067
   length_score: 100
   category_score: 0
   rank: 10

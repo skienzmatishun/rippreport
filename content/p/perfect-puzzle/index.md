@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns
 related_articles:
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 90.70889537238897
-  llm_score: 100
-  recency_score: 53.544476861944815
-  rank: 1
 - slug: striking-oil
   title: STRIKING OIL
-  score: 85.74107892098586
-  llm_score: 90
-  recency_score: 68.70539460492927
-  rank: 2
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 85.58357363897636
+  score: 74.41621455460452
   llm_score: 85
-  recency_score: 87.91786819488183
+  recency_score: 68.70539460492927
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 72.0163367572285
+  llm_score: 85
+  recency_score: 53.10618892198522
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 35.389496787954414
+  llm_score: 25
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 83.15815510057
-  llm_score: 90
+  score: 34.275503923515394
+  llm_score: 23
   recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 25.06428741459721
+  llm_score: 0
+  recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 81.9916664395256
-  llm_score: 92
+  score: 17.993589568865843
+  llm_score: 0
   recency_score: 41.958332197627975
-  rank: 5
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 81.18782317885686
-  llm_score: 85
-  recency_score: 65.93911589428427
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 79.00634582434073
-  llm_score: 85
-  recency_score: 55.031729121703655
-  rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 78.62123778439704
-  llm_score: 85
-  recency_score: 53.10618892198522
-  rank: 8
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 75.94730185126139
-  llm_score: 92
-  recency_score: 11.736509256306908
-  rank: 9
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 70.97095353988021
-  llm_score: 85
+  score: 13.823810415292469
+  llm_score: 0
   recency_score: 14.854767699401043
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 13.34407834712414
+  llm_score: 0
+  recency_score: 11.736509256306908
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 9.375248599120656
+  llm_score: -20
+  recency_score: 65.93911589428427
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 5.622227209529971
+  llm_score: -23
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama has earned it’s reputation as the most corrupt state in the United States. What solidifies Alabama’s position is a perfect puzzle, all tightly fit together with inept, lazy, hypocritical elected officials and oversight agencies. These agencies cost taxpayers millions for absolutely nothing.

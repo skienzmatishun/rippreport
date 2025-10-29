@@ -10,63 +10,83 @@ alttags: 'Fairhope facing crises: Car crash icon symbolizes issues like COVID, f
 related_articles:
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 86.62490003199702
-  llm_score: 85
+  score: 79.40376925538233
+  llm_score: 87
   recency_score: 93.12450015998506
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-party
-  title: CATALYST PARTY
-  score: 86.22112415020392
-  llm_score: 85
-  recency_score: 91.10562075101957
-  rank: 2
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
-  score: 84.73747273054873
+  score: 76.72113286965288
   llm_score: 85
   recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 68.82202711084888
+  llm_score: 85
+  recency_score: 32.34317622051765
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 39.7085570386184
+  llm_score: 23
+  recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 24.95357186171603
+  llm_score: 0
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: going-down
   title: GOING DOWN
-  score: 77.36972132414267
-  llm_score: 80
+  score: 21.822862557032828
+  llm_score: 0
   recency_score: 66.84860662071335
-  rank: 4
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 74.9652796209306
-  llm_score: 85
-  recency_score: 34.826398104653
-  rank: 5
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 73.11076301928001
-  llm_score: 85
-  recency_score: 25.553815096400097
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 72.65619237382862
-  llm_score: 85
-  recency_score: 23.280961869143056
-  rank: 7
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 69.01780676493254
-  llm_score: 85
-  recency_score: 5.089033824662729
-  rank: 8
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 68.61479923767907
-  llm_score: 85
-  recency_score: 3.073996188395355
-  rank: 9
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 64.25484884682434
-  llm_score: 70
+  score: 17.88834526678796
+  llm_score: 0
   recency_score: 41.27424423412174
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 16.059358761600414
+  llm_score: 0
+  recency_score: 29.385831950402675
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 15.120147979868163
+  llm_score: 0
+  recency_score: 23.280961869143056
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 12.011384028983901
+  llm_score: 0
+  recency_score: 3.073996188395355
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope is facing many major issues at one time and the CATALYST council is asleep at the wheel. Coronavirus and the Arts and Craft Festival, HB 203, and Fly Creek Apartments.

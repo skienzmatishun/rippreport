@@ -20,65 +20,85 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring radar design with question marks, referencing legal challenges over public speech ac...
 related_articles:
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 78.65037696445634
-  llm_score: 85
-  recency_score: 53.251884822281745
-  rank: 1
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 68.63360945180823
-  llm_score: 85
-  recency_score: 3.168047259041166
-  rank: 2
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 68.45483099423168
-  llm_score: 85
-  recency_score: 2.274154971158409
-  rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 68.34773223989151
-  llm_score: 85
-  recency_score: 1.7386611994575782
-  rank: 4
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 68.3159368484876
-  llm_score: 85
-  recency_score: 1.579684242437962
-  rank: 5
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 68.29991153640955
-  llm_score: 85
-  recency_score: 1.4995576820477703
-  rank: 6
 - slug: fairhope-citizens-citizens-citizens
   title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 68.28314334984758
-  llm_score: 85
+  score: 65.29472565372892
+  llm_score: 87
   recency_score: 1.4157167492379013
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 65.26952074188951
+  llm_score: 74
+  recency_score: 53.251884822281745
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 64.33354573216019
+  llm_score: 85
+  recency_score: 3.168047259041166
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 64.08918219114432
+  llm_score: 85
+  recency_score: 1.579684242437962
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 64.07685502800736
+  llm_score: 85
+  recency_score: 1.4995576820477703
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 57.42679307248592
+  llm_score: 74
+  recency_score: 2.274154971158409
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 68.25725373537114
-  llm_score: 85
+  score: 55.42865671951627
+  llm_score: 71
   recency_score: 1.2862686768556788
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 11.74296304509636
+  llm_score: 0
+  recency_score: 1.32925979312634
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 11.732590084550795
+  llm_score: 0
+  recency_score: 1.2618355495801652
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 68.18979666330452
-  llm_score: 85
+  score: 11.684458971772704
+  llm_score: 0
   recency_score: 0.9489833165225753
-  rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 60.382727469868776
-  llm_score: 75
-  recency_score: 1.9136373493438719
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 One thing you can say about Fairhope City Council, is that they are consistent. Council President Jack Burrell, who has stained the seat as President of Fairhope Council for two terms, is now beginning his third term, as President. For 9 years Jack has monopolize a position that is normally shared by the whole council, but they do things different in Fairhope.

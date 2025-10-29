@@ -10,72 +10,82 @@ alttags: Gold medal with a number one, symbolizing Alabama’s ranking as first 
 related_articles:
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 80.82312487593502
-  llm_score: 89
+  score: 84.2485575968731
+  llm_score: 95
   recency_score: 92.61562437967505
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 77.68179115997222
-  llm_score: 84
-  recency_score: 94.40895579986105
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 73.77284180054465
+  llm_score: 100
+  recency_score: 4.5234717035402
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 67.30056311965315
-  llm_score: 90
-  recency_score: 21.50281559826569
-  category_score: 0
-  rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 67.18038964044877
-  llm_score: 95
+  score: 63.7541458772683
+  llm_score: 84
   recency_score: 3.401948202243831
+  length_score: 100
   category_score: 0
-  rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 65.50683235151182
-  llm_score: 90
-  recency_score: 12.534161757559053
-  category_score: 0
-  rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 63.322054385144966
-  llm_score: 90
-  recency_score: 1.6102719257247833
-  category_score: 0
-  rank: 6
+  rank: 3
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 61.56935946639769
-  llm_score: 85
+  score: 62.976430358767466
+  llm_score: 81
   recency_score: 10.34679733198841
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 56.270618788489294
-  llm_score: 75
-  recency_score: 18.853093942446446
+  rank: 4
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 62.892155250312406
+  llm_score: 79
+  recency_score: 17.799009127030544
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 40.21676243074786
+  llm_score: 23
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: alabama-the-beautiful
   title: ALABAMA THE BEAUTIFUL
-  score: 50.067746357116825
-  llm_score: 65
+  score: 15.052112582397555
+  llm_score: 0
   recency_score: 22.8387317855841
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 14.8465870151178
+  llm_score: 0
+  recency_score: 21.50281559826569
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 14.438937529607145
+  llm_score: 0
+  recency_score: 18.853093942446446
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 46.36116151175992
-  llm_score: 65
+  score: 13.431662701353776
+  llm_score: 2
   recency_score: 4.305807558799547
+  length_score: 100
   category_score: 0
   rank: 10
 ---

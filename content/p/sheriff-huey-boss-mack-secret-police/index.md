@@ -15,65 +15,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.36019908182247
-  llm_score: 100
-  recency_score: 11.800995409112343
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 83.74989732487109
+  llm_score: 95
+  recency_score: 14.374332611662021
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 79.50005501422807
-  llm_score: 90
+  score: 75.000042318637
+  llm_score: 75
   recency_score: 37.500275071140365
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 78.87486652233241
-  llm_score: 95
-  recency_score: 14.374332611662021
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 71.0463069860173
+  llm_score: 75
+  recency_score: 11.800995409112343
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 77.390938708264
-  llm_score: 95
-  recency_score: 6.9546935413200295
-  rank: 4
 - slug: rumors
   title: RUMORS
-  score: 75.08072362334784
-  llm_score: 85
+  score: 28.523633556421423
+  llm_score: 0
   recency_score: 35.40361811673922
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 26.592642879033633
+  llm_score: 23
+  recency_score: 5.8521787137186125
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: no-justice
-  title: NO JUSTICE
-  score: 73.9643950362927
-  llm_score: 90
-  recency_score: 9.821975181463475
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 25.210981528951386
+  llm_score: 0
+  recency_score: 13.871379938184003
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 73.33493547651477
-  llm_score: 90
+  score: 24.103796520395974
+  llm_score: 0
   recency_score: 6.674677382573833
+  length_score: 100
+  category_score: 100
   rank: 7
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 73.17364681272898
-  llm_score: 90
+  score: 23.979728317483826
+  llm_score: 0
   recency_score: 5.868234063644852
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 69.18983478974084
-  llm_score: 85
-  recency_score: 5.949173948704226
-  rank: 9
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 69.08698032362109
-  llm_score: 85
+  score: 23.913061787400842
+  llm_score: 0
   recency_score: 5.4349016181054575
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 11.83611139232054
+  llm_score: 0
+  recency_score: 1.9347240500835032
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County. This is not bashing police. This is pointing out serious existing and reoccurring situations that are resulting in major lawsuits where the taxpayer will be the loser.

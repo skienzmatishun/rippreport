@@ -21,22 +21,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: rule-32
-  title: RULE 32
-  score: 87.70372936203415
-  llm_score: 90
-  recency_score: 60.07424085322191
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 83.49224173385585
-  llm_score: 90
+  score: 82.87685711847124
+  llm_score: 89
   recency_score: 32.69957127006297
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 82.6947335592627
@@ -44,7 +36,7 @@ related_articles:
   recency_score: 27.51576813520753
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 81.26820683041159
@@ -52,7 +44,7 @@ related_articles:
   recency_score: 18.243344397675273
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 74.61538461538463
@@ -60,23 +52,7 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 72.91278607011516
@@ -84,11 +60,35 @@ related_articles:
   recency_score: 58.93310945574846
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 70.49878104871303
+  llm_score: 85
+  recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 65.6272048212714
-  llm_score: 85
+  score: 68.70412789819449
+  llm_score: 90
   recency_score: 11.57683133826407
   length_score: 100
   category_score: 0

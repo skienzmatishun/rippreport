@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: An open book sheltered by an umbrella, symbolizing reading as protection from corruption and deceptive narratives in politics
 related_articles:
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 75.4590712093091
-  llm_score: 85
-  recency_score: 37.29535604654552
-  rank: 1
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 73.54857141949542
-  llm_score: 85
+  score: 77.34505493807342
+  llm_score: 100
   recency_score: 27.742857097477103
-  rank: 2
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 71.10408372408847
-  llm_score: 85
-  recency_score: 15.520418620442342
-  rank: 3
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 70.93857289717093
-  llm_score: 85
-  recency_score: 14.692864485854656
-  rank: 4
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 68.9875907333758
-  llm_score: 85
-  recency_score: 4.937953666878992
-  rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 66.45248583467144
-  llm_score: 80
-  recency_score: 12.262429173357202
-  rank: 6
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 65.13884406431788
-  llm_score: 75
-  recency_score: 25.694220321589416
-  rank: 7
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 61.267223344430136
-  llm_score: 75
-  recency_score: 6.336116722150677
-  rank: 8
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 61.238348338955156
-  llm_score: 70
-  recency_score: 26.19174169477578
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 61.0460773821812
-  llm_score: 75
+  score: 64.65082875552402
+  llm_score: 85
   recency_score: 5.23038691090603
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 63.430054776391636
+  llm_score: 75
+  recency_score: 37.29535604654552
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 60.298146717981396
+  llm_score: 78
+  recency_score: 4.937953666878992
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 29.645264664859916
+  llm_score: 23
+  recency_score: 25.694220321589416
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 23.462703749827348
+  llm_score: 0
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 15.567960260734736
+  llm_score: 0
+  recency_score: 26.19174169477578
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 13.926218249298822
+  llm_score: 0
+  recency_score: 15.520418620442342
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 13.424989103593417
+  llm_score: 0
+  recency_score: 12.262429173357202
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 12.51324872648472
+  llm_score: 0
+  recency_score: 6.336116722150677
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 You're stuck inside. How about doing a little reading? It may educate you on why Alabama is number one, in corruption and religion, in the United States. That combination labels us as hypocrites. You see religion is the tool of crooked politicians and they use the church to lure you into false narratives for their personal gain.

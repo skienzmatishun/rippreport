@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry
 related_articles:
-- slug: he-must-go
-  title: He Must Go
-  score: 82.27837239085707
-  llm_score: 85
-  recency_score: 71.39186195428532
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 82.60188529398255
+  llm_score: 100
+  recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 70.06935946639769
-  llm_score: 85
-  recency_score: 10.34679733198841
+- slug: surrender
+  title: SURRENDER
+  score: 65.66349746068468
+  llm_score: 75
+  recency_score: 51.81273349445037
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 69.90086228231678
-  llm_score: 85
-  recency_score: 9.504311411583915
-  rank: 3
 - slug: watering-hole
   title: WATERING HOLE
-  score: 69.2534117833276
+  score: 64.81031675640585
   llm_score: 85
   recency_score: 6.267058916638003
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 62.46863524410353
-  llm_score: 70
+  score: 62.66818095700273
+  llm_score: 75
   recency_score: 32.34317622051765
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 59.763011507923565
+  llm_score: 75
+  recency_score: 13.459574801503088
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
-  score: 62.106970988459935
+  score: 59.313054606507656
   llm_score: 70
   recency_score: 30.53485494229968
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 61.52673204660475
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 59.28412266645977
   llm_score: 75
-  recency_score: 7.633660233023765
+  recency_score: 10.34679733198841
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 61.49363347548112
-  llm_score: 75
-  recency_score: 7.468167377405599
-  rank: 8
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 58.691914960300615
-  llm_score: 70
-  recency_score: 13.459574801503088
-  rank: 9
 - slug: the-mug-shot
   title: The Mugshot
-  score: 54.832971677380456
-  llm_score: 60
+  score: 16.794593597984967
+  llm_score: 0
   recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 15.524042455669134
+  llm_score: 0
+  recency_score: 25.906275961849367
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 13.000663294089833
+  llm_score: 0
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" frameborder="0" allowfullscreen></iframe>

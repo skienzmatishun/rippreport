@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Allegorical depiction of a figure resembling the Wicked Witch of the West holding scales, symbolizing complaints against B...
 related_articles:
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 85.53762349360866
-  llm_score: 95
-  recency_score: 95.18811746804333
-  category_score: 0
-  rank: 1
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 63.75919197418095
-  llm_score: 90
-  recency_score: 3.795959870904708
-  category_score: 0
-  rank: 2
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 63.52880029172312
-  llm_score: 90
-  recency_score: 2.644001458615577
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 63.510297761717496
-  llm_score: 90
-  recency_score: 2.5514888085874565
-  category_score: 0
-  rank: 4
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 63.170096217947325
-  llm_score: 90
-  recency_score: 0.8504810897365797
-  category_score: 0
-  rank: 5
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 60.32875610558986
-  llm_score: 85
-  recency_score: 4.143780527949273
-  category_score: 0
-  rank: 6
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 52.916653389459704
-  llm_score: 75
-  recency_score: 2.083266947298482
-  category_score: 0
-  rank: 7
 - slug: exposure
   title: EXPOSURE
-  score: 52.672442335736825
-  llm_score: 75
+  score: 63.978801796720646
+  llm_score: 85
   recency_score: 0.8622116786841
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 1
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 47.022154070556255
+  llm_score: 57
+  recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 27.90374347871724
+  llm_score: 23
+  recency_score: 14.374332611662021
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 26.329812388915276
+  llm_score: 23
+  recency_score: 4.143780527949273
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 26.1827873027759
+  llm_score: 0
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 26.08484443209038
+  llm_score: 23
+  recency_score: 2.5514888085874565
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 46.434932050986326
-  llm_score: 65
+  score: 12.257640039220245
+  llm_score: 0
   recency_score: 4.674660254931597
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 12.12245536475457
+  llm_score: 0
+  recency_score: 3.795959870904708
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 11.858964145738227
+  llm_score: 0
+  recency_score: 2.083266947298482
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 45.64872778511713
-  llm_score: 65
-  recency_score: 0.7436389255856242
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 11.669304783036397
+  llm_score: 0
+  recency_score: 0.8504810897365797
+  length_score: 100
   category_score: 0
   rank: 10
 ---

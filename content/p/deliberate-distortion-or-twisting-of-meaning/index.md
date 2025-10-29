@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Fork in the road graphic representing Fairhope City Council’s decision on property management transfer to Weeks Bay
 related_articles:
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 76.19061318606568
-  llm_score: 87
-  recency_score: 76.45306593032835
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 65.25917360836101
+  llm_score: 75
+  recency_score: 49.18462845434644
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: three-strikes
   title: THREE STRIKES
-  score: 75.30020726935182
-  llm_score: 80
+  score: 26.384774822578315
+  llm_score: 0
   recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 74.25560018832758
-  llm_score: 85
-  recency_score: 73.7780009416378
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 23.30047168158898
+  llm_score: 0
+  recency_score: 76.45306593032835
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 69.3369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 22.888923221790435
+  llm_score: 0
+  recency_score: 73.7780009416378
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 69.15006981718642
-  llm_score: 85
+  score: 18.961592167066474
+  llm_score: 0
   recency_score: 48.25034908593207
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 62.9921821339367
-  llm_score: 85
-  recency_score: 17.460910669683468
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 17.151817947459875
+  llm_score: 0
+  recency_score: 36.486816658489175
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 61.82171843450436
-  llm_score: 85
-  recency_score: 11.608592172521774
+- slug: re-gift-gift
+  title: RE-GIFT GIFT ??
+  score: 13.404427699913505
+  llm_score: 0
+  recency_score: 12.128780049437779
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 60.44782746243796
-  llm_score: 85
-  recency_score: 4.7391373121897375
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 13.32439879577258
+  llm_score: 0
+  recency_score: 11.608592172521774
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 54.752792662049394
-  llm_score: 75
+  score: 13.271378970807222
+  llm_score: 0
   recency_score: 11.263963310246938
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: re-gift-gift
-  title: RE-GIFT GIFT ??
-  score: 51.425756009887564
-  llm_score: 70
-  recency_score: 12.128780049437779
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 12.267559586490728
+  llm_score: 0
+  recency_score: 4.7391373121897375
+  length_score: 100
   category_score: 0
   rank: 10
 ---

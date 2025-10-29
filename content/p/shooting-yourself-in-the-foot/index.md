@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic
 related_articles:
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 79.09718172757076
-  llm_score: 85
-  recency_score: 55.48590863785381
+- slug: sting
+  title: Sting
+  score: 72.44066884531803
+  llm_score: 95
+  recency_score: 15.864347494567099
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 75.19905534400357
-  llm_score: 90
-  recency_score: 15.995276720017856
-  rank: 2
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 72.4224002422755
-  llm_score: 90
+  score: 65.40184634021193
+  llm_score: 87
   recency_score: 2.112001211377513
-  rank: 3
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 72.38588613814717
-  llm_score: 90
-  recency_score: 1.9294306907358856
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: Smell-Test
   title: SMELL TEST
-  score: 71.43524565340775
-  llm_score: 85
+  score: 60.3348043487752
+  llm_score: 75
   recency_score: 17.176228267038702
-  rank: 5
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 71.43524565340775
-  llm_score: 85
-  recency_score: 17.176228267038702
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 58.922350264618146
+  llm_score: 73
+  recency_score: 15.995276720017856
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 70.90654517348518
-  llm_score: 85
+  score: 58.69734244114247
+  llm_score: 73
   recency_score: 14.532725867425949
-  rank: 7
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 70.6772050791888
-  llm_score: 85
-  recency_score: 13.386025395943985
-  rank: 8
-- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
-  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
-  score: 68.42705474356033
-  llm_score: 85
-  recency_score: 2.13527371780164
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 68.30824188412035
-  llm_score: 85
+  score: 55.46787837240028
+  llm_score: 71
   recency_score: 1.541209420601768
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 13.59785006091446
+  llm_score: 0
+  recency_score: 13.386025395943985
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 11.864276223039187
+  llm_score: 0
+  recency_score: 2.117795449754721
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 11.835297029343982
+  llm_score: 0
+  recency_score: 1.9294306907358856
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 11.822566134466998
+  llm_score: 0
+  recency_score: 1.8466798740354857
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The most important race in Baldwin County is District two. This commission seat is being sought after by three candidates, Steve Carney, Jonathan Armstrong and Matt McKenzie.

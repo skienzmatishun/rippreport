@@ -11,82 +11,82 @@ authors:
 - admin
 alttags: Murray Bubba Lawrence’s face superimposed over a jail cell, illustrating wrongful imprisonment after decades in custody
 related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 89.25
+  score: 89.23076923076924
   llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 87.6459215369463
-  llm_score: 89
-  recency_score: 98.63947691297537
+- slug: rule-32
+  title: RULE 32
+  score: 86.15384615384616
+  llm_score: 90
+  recency_score: 50
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 87.52480962493804
-  llm_score: 89
-  recency_score: 97.83206416625366
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 86.15384615384616
+  llm_score: 90
+  recency_score: 50
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 86.0
+  score: 86.15384615384616
   llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 85.35
-  llm_score: 89
+- slug: no-justice
+  title: NO JUSTICE
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 5
-- slug: rule-32
-  title: RULE 32
-  score: 82.75
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 83.07692307692308
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 6
-- slug: no-justice
-  title: NO JUSTICE
-  score: 82.75
-  llm_score: 85
-  recency_score: 50
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 82.09838106353469
+  llm_score: 90
+  recency_score: 98.63947691297537
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 82.75
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 78.89724064096211
   llm_score: 85
-  recency_score: 50
+  recency_score: 97.83206416625366
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
 - slug: innocent
   title: INNOCENT
-  score: 77.75
-  llm_score: 85
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
   title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 77.75
-  llm_score: 85
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0

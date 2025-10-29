@@ -10,30 +10,22 @@ authors:
 rumble: v44nbji
 alttags: Judge Wilters, new Alabama football coach, appears on a podcast discussing his appointment after Nick Saban’s departure
 related_articles:
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 65.73268141128574
-  llm_score: 85
-  recency_score: 12.262429173357202
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 65.51636275730021
-  llm_score: 65
+  score: 68.5932858342233
+  llm_score: 70
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: winner-and-loser
-  title: WINNER AND LOSER
-  score: 64.5996206279628
+  rank: 1
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 65.17465710679586
   llm_score: 85
-  recency_score: 4.897534081758149
+  recency_score: 8.635271194173066
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: bad-faith
   title: Bad Faith
   score: 62.521326265797605
@@ -41,51 +33,59 @@ related_articles:
   recency_score: 51.388620727684355
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 61.12378712893397
+  llm_score: 70
+  recency_score: 42.3046163380707
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 59.36917885348302
-  llm_score: 75
-  recency_score: 10.899662547639538
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 56.72040870948249
+  llm_score: 70
+  recency_score: 13.682656611636107
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 59.02081095294972
-  llm_score: 75
-  recency_score: 8.635271194173066
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 56.501912180516506
+  llm_score: 70
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 58.04686405201089
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 55.042499316052485
   llm_score: 65
-  recency_score: 42.3046163380707
+  recency_score: 22.77624555434108
   length_score: 100
   category_score: 0
   rank: 7
 - slug: lets-talk-about-the-bama-loss
   title: Let's Talk About The Bama Loss
-  score: 56.233582664118735
-  llm_score: 70
+  score: 53.156659587195655
+  llm_score: 65
   recency_score: 10.518287316771712
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 53.64348563255941
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 52.29192832027049
   llm_score: 65
-  recency_score: 13.682656611636107
+  recency_score: 4.897534081758149
   length_score: 100
   category_score: 0
   rank: 9
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 52.84889020553065
-  llm_score: 65
+  score: 43.61812097476142
+  llm_score: 50
   recency_score: 8.517786335949154
   length_score: 100
   category_score: 0

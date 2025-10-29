@@ -11,11 +11,11 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 66.92948501557368
+- slug: stirring-the-pot
+  title: STIRRING THE POT
+  score: 66.92770219076122
   llm_score: 90
-  recency_score: 0.041652601228757115
+  recency_score: 0.030064239947851384
   length_score: 100
   category_score: 0
   rank: 1
@@ -27,11 +27,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 66.3105169551471
-  llm_score: 89
-  recency_score: 0.018360208456042304
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 63.852561938650595
+  llm_score: 85
+  recency_score: 0.041652601228757115
   length_score: 100
   category_score: 0
   rank: 3
@@ -43,11 +43,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 63.84885734808893
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 63.848978493608634
   llm_score: 85
-  recency_score: 0.017572762577928065
+  recency_score: 0.018360208456042304
   length_score: 100
   category_score: 0
   rank: 5
@@ -67,14 +67,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 54.62000988306891
-  llm_score: 70
-  recency_score: 0.030064239947851384
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
   score: 54.61855372938982
@@ -82,11 +74,19 @@ related_articles:
   recency_score: 0.020599241033720052
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: fairhope-airport-authority-flying-without-a-compass
+  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
+  score: 54.618088117319694
+  llm_score: 70
+  recency_score: 0.017572762577928065
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 48.46415452641524
-  llm_score: 60
+  score: 54.618000680261396
+  llm_score: 70
   recency_score: 0.01700442169897349
   length_score: 100
   category_score: 0

@@ -16,74 +16,84 @@ authors:
 - admin
 alttags: Skeleton reaching for a suit on a hanger behind open doors, symbolizing corruption and loss of power in Fairhope politics
 related_articles:
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 81.22112415020392
-  llm_score: 90
-  recency_score: 91.10562075101957
-  category_score: 0
-  rank: 1
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 79.10764360478439
-  llm_score: 90
+  score: 77.46741815752647
+  llm_score: 87
   recency_score: 80.5382180239219
+  length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 74.74877842919905
+  score: 75.5759834070762
   llm_score: 85
   recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 74.17009550015688
+  llm_score: 79
+  recency_score: 91.10562075101957
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 71.12626217914031
-  llm_score: 85
-  recency_score: 58.1313108957015
-  category_score: 0
-  rank: 4
-- slug: i-quit
-  title: I QUIT
-  score: 70.94724185949737
-  llm_score: 84
-  recency_score: 60.73620929748681
-  category_score: 0
-  rank: 5
-- slug: threesome
-  title: THREESOME
-  score: 63.98098040369369
-  llm_score: 85
-  recency_score: 22.404902018468416
-  category_score: 0
-  rank: 6
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 62.382753668345075
-  llm_score: 85
-  recency_score: 14.41376834172532
-  category_score: 0
-  rank: 7
-- slug: skunked
-  title: SKUNKED
-  score: 62.1772050791888
-  llm_score: 85
-  recency_score: 13.386025395943985
-  category_score: 0
-  rank: 8
 - slug: gob-coup
   title: GOB COUP
-  score: 60.26755764177673
+  score: 64.43658280136673
   llm_score: 85
   recency_score: 3.837788208883614
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: skunked
+  title: SKUNKED
+  score: 60.982465445529854
+  llm_score: 77
+  recency_score: 13.386025395943985
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 59.909810514111605
+  llm_score: 75
+  recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 58.51776863005522
+  llm_score: 72
+  recency_score: 17.365496095358843
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 37.68206755364409
+  llm_score: 23
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 23.332740550658407
+  llm_score: 0
+  recency_score: 76.66281357927963
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 59.79502178361366
-  llm_score: 85
-  recency_score: 1.4751089180682964
+- slug: threesome
+  title: THREESOME
+  score: 14.985369541302834
+  llm_score: 0
+  recency_score: 22.404902018468416
+  length_score: 100
   category_score: 0
   rank: 10
 ---

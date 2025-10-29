@@ -22,74 +22,84 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 67.22112415020392
-  llm_score: 70
-  recency_score: 91.10562075101957
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 77.46741815752647
+  llm_score: 87
+  recency_score: 80.5382180239219
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 67.12155541422004
-  llm_score: 70
-  recency_score: 90.60777707110016
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 75.49890109191956
+  llm_score: 97
+  recency_score: 27.742857097477103
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 66.24956745472434
-  llm_score: 70
-  recency_score: 86.24783727362167
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 71.6319657032462
+  llm_score: 75
+  recency_score: 90.60777707110016
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 63.32610187044025
-  llm_score: 65
-  recency_score: 89.13050935220119
+- slug: im-back-2
+  title: I'M BACK
+  score: 59.36459097355494
+  llm_score: 75
+  recency_score: 10.869841328106999
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 59.93570824436047
-  llm_score: 65
-  recency_score: 72.17854122180232
+- slug: bsp-128
+  title: Big News
+  score: 48.56463231141438
+  llm_score: 53
+  recency_score: 28.67011002419343
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 59.73930710092043
-  llm_score: 65
-  recency_score: 71.19653550460211
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 25.554710884772245
+  llm_score: 0
+  recency_score: 91.10562075101957
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 59.39249424486937
-  llm_score: 65
-  recency_score: 69.4624712243468
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 20.90812892695509
+  llm_score: 0
+  recency_score: 60.90283802520807
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 50.00016259450726
-  llm_score: 50
-  recency_score: 75.00081297253628
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 19.91260526606817
+  llm_score: 0
+  recency_score: 54.43193422944308
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 48.11575875113696
-  llm_score: 50
-  recency_score: 65.57879375568477
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 15.139827526325949
+  llm_score: 0
+  recency_score: 23.408878921118657
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 39.73336508087172
-  llm_score: 50
-  recency_score: 23.666825404358608
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 13.20616949211191
+  llm_score: 0
+  recency_score: 10.840101698727413
+  length_score: 100
   category_score: 0
   rank: 10
 ---

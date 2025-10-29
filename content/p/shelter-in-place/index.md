@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Stay home icon representing public health guidance amid rising COVID-19 cases and debate over shelter-in-place orders
 related_articles:
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 87.3002072693518
-  llm_score: 85
-  recency_score: 96.50103634675902
-  rank: 1
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 85.24956745472434
-  llm_score: 85
-  recency_score: 86.24783727362167
-  rank: 2
 - slug: wear-a-mask
   title: WEAR A MASK
-  score: 83.37462733344732
-  llm_score: 85
+  score: 81.82663641034411
+  llm_score: 95
   recency_score: 76.87313666723661
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 78.69246713027063
+  llm_score: 85
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: virus-vs-catalyst
   title: VIRUS vs. CATALYST
-  score: 79.19474191901475
-  llm_score: 75
+  score: 78.61133993770366
+  llm_score: 85
   recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 69.73043650363411
+  llm_score: 73
+  recency_score: 86.24783727362167
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: take-a-chance
-  title: “TAKE A CHANCE”
-  score: 70.6795960873464
-  llm_score: 75
-  recency_score: 53.39798043673202
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 63.17018458906322
+  llm_score: 61
+  recency_score: 91.60619982891085
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 69.5913138839337
-  llm_score: 70
-  recency_score: 67.95656941966844
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 59.12238699681942
+  llm_score: 58
+  recency_score: 77.29551547932614
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: exposure-2
-  title: EXPOSURE
-  score: 57.718333855938354
-  llm_score: 65
-  recency_score: 28.59166927969179
-  rank: 7
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 57.12478430821849
-  llm_score: 65
+  score: 57.32675716016808
+  llm_score: 68
   recency_score: 25.623921541092447
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: exposure-2
+  title: EXPOSURE
+  score: 51.01410296610644
+  llm_score: 57
+  recency_score: 28.59166927969179
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 52.825017999907715
-  llm_score: 60
-  recency_score: 24.12508999953858
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 21.993318372256688
+  llm_score: 0
+  recency_score: 67.95656941966844
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 43.9180547259494
-  llm_score: 50
-  recency_score: 19.590273629747017
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 19.75353545180493
+  llm_score: 0
+  recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.

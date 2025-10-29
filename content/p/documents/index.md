@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Stack of documents representing bids and ethics letters related to a Fairhope city council contract dispute
 related_articles:
-- slug: transparency
-  title: TRANSPARENCY
-  score: 81.88179115997222
-  llm_score: 90
-  recency_score: 94.40895579986105
-  category_score: 0
-  rank: 1
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 76.60837124125833
+  score: 77.00643941635256
   llm_score: 85
   recency_score: 85.54185620629158
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 75.0866878197373
-  llm_score: 85
-  recency_score: 77.93343909868652
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 71.03109549158327
-  llm_score: 85
+  score: 73.94699653198714
+  llm_score: 87
   recency_score: 57.65547745791634
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 69.55254719926883
+  llm_score: 85
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 68.07934894387809
+  llm_score: 85
+  recency_score: 27.51576813520753
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 61.25087530153704
+  score: 65.19298100118235
   llm_score: 85
   recency_score: 8.754376507685183
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 61.121584092628055
-  llm_score: 85
-  recency_score: 8.107920463140223
-  category_score: 0
-  rank: 6
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 61.06913858075045
-  llm_score: 85
-  recency_score: 7.845692903752216
-  category_score: 0
-  rank: 7
 - slug: conflict-of-interest
   title: CONFLICT OF INTEREST
-  score: 60.89093870826402
+  score: 64.91610669866463
   llm_score: 85
   recency_score: 6.9546935413200295
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 60.21478421734435
-  llm_score: 85
+  score: 58.24214170564951
+  llm_score: 75
   recency_score: 3.573921086721709
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: transparency
+  title: TRANSPARENCY
+  score: 26.062916276901703
+  llm_score: 0
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 23.52822139979793
+  llm_score: 0
+  recency_score: 77.93343909868652
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 59.91831135904947
-  llm_score: 75
-  recency_score: 37.09155679524731
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 12.745491215961879
+  llm_score: 0
+  recency_score: 7.845692903752216
+  length_score: 100
   category_score: 0
   rank: 10
 ---

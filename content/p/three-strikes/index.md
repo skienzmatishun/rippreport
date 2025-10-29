@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations
 related_articles:
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 87.3002072693518
-  llm_score: 85
-  recency_score: 96.50103634675902
-  rank: 1
 - slug: shut-up-2
   title: SHUT UP
-  score: 84.7833916941887
+  score: 76.75645514937592
   llm_score: 85
   recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 72.53862097642448
+  llm_score: 75
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 83.84502484628416
-  llm_score: 85
-  recency_score: 79.22512423142078
-  rank: 3
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 78.19359590659946
+  score: 71.68738146661498
   llm_score: 85
   recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 68.03463449714167
+  llm_score: 72
+  recency_score: 79.22512423142078
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: hell-yea
-  title: HELL YEA
-  score: 78.08249514970656
-  llm_score: 85
-  recency_score: 50.412475748532785
-  rank: 5
-- slug: back-stabber
-  title: BACK STABBER
-  score: 77.54489299140458
-  llm_score: 85
-  recency_score: 47.72446495702292
-  rank: 6
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 75.618802726002
-  llm_score: 90
-  recency_score: 18.094013630009982
-  rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 72.86662028679618
-  llm_score: 75
-  recency_score: 64.3331014339809
-  rank: 8
 - slug: broken-eggs
   title: BROKEN EGGS
-  score: 71.90733502067299
+  score: 66.85179616974847
   llm_score: 85
   recency_score: 19.53667510336496
-  rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 70.2282393079465
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 66.62984825077078
   llm_score: 85
-  recency_score: 11.141196539732507
+  recency_score: 18.094013630009982
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 65.69684615467332
+  llm_score: 85
+  recency_score: 12.02950000537652
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: hell-yea
+  title: HELL YEA
+  score: 65.44807319208198
+  llm_score: 75
+  recency_score: 50.412475748532785
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: back-stabber
+  title: BACK STABBER
+  score: 33.03453307031122
+  llm_score: 23
+  recency_score: 47.72446495702292
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 21.435861759073987
+  llm_score: 0
+  recency_score: 64.3331014339809
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is. It makes no difference what attorneys, city staff, citizens or the Mayor recommend to the council the council does the opposite and acts like a Dictatorship. It is all political and the Fairhope City Council is holding up the progress of the city.

@@ -15,65 +15,85 @@ authors:
 - admin
 alttags: Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects
 related_articles:
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 86.98553700495827
-  llm_score: 85
-  recency_score: 94.92768502479139
-  rank: 1
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 74.79563312750165
-  llm_score: 85
-  recency_score: 33.97816563750821
-  rank: 2
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 74.39813310940357
-  llm_score: 85
-  recency_score: 31.990665547017855
-  rank: 3
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 71.18876730389368
-  llm_score: 75
-  recency_score: 55.94383651946845
-  rank: 4
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 71.07025208563968
-  llm_score: 85
-  recency_score: 15.35126042819837
-  rank: 5
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 69.92404723937733
-  llm_score: 65
-  recency_score: 89.62023619688662
-  rank: 6
 - slug: puzzle-pieces
   title: PUZZLE PIECES
-  score: 63.138288159209395
+  score: 60.10637550708417
   llm_score: 75
   recency_score: 15.691440796046965
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 59.488057767072455
+  llm_score: 75
+  recency_score: 11.672375485970868
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 59.20338079714824
+  llm_score: 75
+  recency_score: 9.821975181463475
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 26.142720773044832
+  llm_score: 0
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 20.145205618379762
+  llm_score: 0
+  recency_score: 55.94383651946845
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 16.76587163653973
+  llm_score: 0
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 16.460102391848903
+  llm_score: 0
+  recency_score: 31.990665547017855
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 13.900193912030518
+  llm_score: 0
+  recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 62.82799474546216
-  llm_score: 75
+  score: 13.713842111893973
+  llm_score: 0
   recency_score: 14.139973727310823
-  rank: 8
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 58.25897315930858
-  llm_score: 70
-  recency_score: 11.294865796542922
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 53.48140734913925
-  llm_score: 65
+  score: 12.67800565318404
+  llm_score: 0
   recency_score: 7.407036745696262
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Talk about shooting yourself in the foot!

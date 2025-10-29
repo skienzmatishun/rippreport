@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Sign advertising the South Alabama Mega Site in Baldwin County; includes QR code & contact info, alongside a humorous OOP...
 related_articles:
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 87.3002072693518
-  llm_score: 85
-  recency_score: 96.50103634675902
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 67.08744790215263
+  llm_score: 84
+  recency_score: 25.06841136399206
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: shovel-ready
   title: SHOVEL READY
-  score: 80.04781069641929
-  llm_score: 85
-  recency_score: 60.23905348209645
-  rank: 2
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 78.62635062426855
-  llm_score: 95
-  recency_score: 13.13175312134279
-  rank: 3
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 77.0136822727984
-  llm_score: 90
-  recency_score: 25.06841136399206
-  rank: 4
-- slug: dead-last
-  title: DEAD LAST
-  score: 72.44430137001486
-  llm_score: 85
-  recency_score: 22.221506850074306
-  rank: 5
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 70.27138506860403
-  llm_score: 85
-  recency_score: 11.356925343020198
-  rank: 6
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 64.74371374716179
-  llm_score: 70
-  recency_score: 43.718568735808944
-  rank: 7
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 61.93236757167447
+  score: 66.959854381861
   llm_score: 75
-  recency_score: 9.661837858372358
-  rank: 8
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 58.890662452604836
-  llm_score: 70
-  recency_score: 14.453312263024177
-  rank: 9
+  recency_score: 60.23905348209645
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 59.21978445640894
+  llm_score: 66
+  recency_score: 45.928598966657994
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 57.41343030010246
+  score: 55.70263869238652
   llm_score: 65
   recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 26.384774822578315
+  llm_score: 0
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 19.294227038235814
+  llm_score: 0
+  recency_score: 50.412475748532785
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: dead-last
+  title: DEAD LAST
+  score: 14.957154900011432
+  llm_score: 0
+  recency_score: 22.221506850074306
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 13.558731249437352
+  llm_score: 0
+  recency_score: 13.13175312134279
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 13.285680822003108
+  llm_score: 0
+  recency_score: 11.356925343020198
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 12.907611288676803
+  llm_score: 0
+  recency_score: 8.899473376399213
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources willing to report news. There is other media but the articles published are “fluff” or so mundane and lacking of any back story, that the reader can make little sense out of the content.

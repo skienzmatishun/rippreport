@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: 'Backstory Podcast logo: Eagle head within radiating sound waves, representing political corruption and consumer issues cov...'
 related_articles:
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 97.06156314124607
-  llm_score: 100
-  recency_score: 85.30781570623031
-  rank: 1
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 94.88179115997221
-  llm_score: 95
-  recency_score: 94.40895579986105
-  rank: 2
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 94.07197526621852
-  llm_score: 95
-  recency_score: 90.35987633109261
-  rank: 3
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 92.28513651399791
-  llm_score: 95
-  recency_score: 81.42568256998956
-  rank: 4
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 91.9491934264295
-  llm_score: 100
-  recency_score: 59.74596713214747
-  rank: 5
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 86.24960453479669
-  llm_score: 95
-  recency_score: 51.24802267398346
-  rank: 6
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 80.87560790070712
-  llm_score: 80
+  score: 82.9812368466978
+  llm_score: 95
   recency_score: 84.37803950353559
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: im-back-2
+  title: I'M BACK
+  score: 70.46393916098143
+  llm_score: 95
+  recency_score: 3.015604546379232
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: bsp-128
   title: Big News
-  score: 69.59078153074029
-  llm_score: 85
+  score: 58.91598579287716
+  llm_score: 75
   recency_score: 7.953907653701443
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 58.78476518902573
+  llm_score: 73
+  recency_score: 15.100973728667121
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 30.402865658872877
+  llm_score: 23
+  recency_score: 30.618626782673648
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 29.960439553458023
+  llm_score: 23
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 22.70386547971357
+  llm_score: 0
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backstory-153
+  title: No Boomers
+  score: 12.007512925253332
+  llm_score: 0
+  recency_score: 3.0488340141466597
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 64.12011132960332
-  llm_score: 80
-  recency_score: 0.6005566480166232
-  rank: 9
 - slug: big-mules
   title: Big Mules
-  score: 56.564739331700366
-  llm_score: 70
+  score: 11.972876409000284
+  llm_score: 0
   recency_score: 2.82369665850184
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 11.630854868925635
+  llm_score: 0
+  recency_score: 0.6005566480166232
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 @BackstoryPodcast

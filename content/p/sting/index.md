@@ -20,65 +20,85 @@ authors:
 - admin
 alttags: 'Political campaign graphic: Two people in bee costumes flank a red circle with CATALYST crossed out, referencing Baldwin...'
 related_articles:
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 95.56641283325074
-  llm_score: 95
-  recency_score: 97.83206416625366
-  rank: 1
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 94.83013102490949
+  score: 84.48471617300731
   llm_score: 95
   recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 84.40556491600786
+  llm_score: 95
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 91.83629014021759
-  llm_score: 90
-  recency_score: 99.18145070108791
-  rank: 3
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 90.47244604336203
-  llm_score: 90
-  recency_score: 92.36223021681012
-  rank: 4
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 84.87560790070712
-  llm_score: 85
+  score: 71.2889291543901
+  llm_score: 76
   recency_score: 84.37803950353559
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 70.41921485211434
+  llm_score: 95
+  recency_score: 2.7248965387430797
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 26.797146261705834
+  llm_score: 0
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 78.59061851767918
-  llm_score: 95
-  recency_score: 12.953092588395847
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 25.74803541797079
+  llm_score: 0
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 77.94298494927645
-  llm_score: 95
-  recency_score: 9.714924746382225
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 25.63172305060167
+  llm_score: 0
+  recency_score: 91.60619982891085
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 74.43241102906582
-  llm_score: 90
+  score: 13.409546945435245
+  llm_score: 0
   recency_score: 12.162055145329097
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 74.16802033974548
-  llm_score: 90
+  score: 13.20616949211191
+  llm_score: 0
   recency_score: 10.840101698727413
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 72.54497930774862
-  llm_score: 90
-  recency_score: 2.7248965387430797
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 13.033065345597265
+  llm_score: 0
+  recency_score: 9.714924746382225
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Please vote today. JERRY CARL. Mr. Carl’s opposition is CATALYST and CATALYST home base is Fairhope.

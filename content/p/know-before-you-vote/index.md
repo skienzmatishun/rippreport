@@ -19,52 +19,20 @@ related_articles:
   rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 81.64786581389228
-  llm_score: 90
+  score: 74.2632504292769
+  llm_score: 78
   recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 71.41926985144727
-  llm_score: 90
-  recency_score: 29.2252540344071
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 70.05098514149157
-  llm_score: 95
-  recency_score: 0.3314034196950972
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 70.01617697672368
-  llm_score: 95
-  recency_score: 0.10515034870386371
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 68.61842581743757
-  llm_score: 90
+  score: 65.54150274051449
+  llm_score: 85
   recency_score: 11.019767813344055
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 66.94054371319147
-  llm_score: 90
-  recency_score: 0.11353413574452939
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 3
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
   score: 64.0319564669788
@@ -72,19 +40,51 @@ related_articles:
   recency_score: 1.2077170353621032
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 63.90430473104794
+  llm_score: 85
+  recency_score: 0.37798075181147806
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 63.8636206362684
+  llm_score: 85
+  recency_score: 0.11353413574452939
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-petition
   title: FAIRHOPE PETITION
-  score: 63.88014345293296
-  llm_score: 85
+  score: 59.572451145240656
+  llm_score: 78
   recency_score: 0.22093244406414994
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 59.111577543754954
+  llm_score: 70
+  recency_score: 29.2252540344071
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 52.82021591072233
+  llm_score: 67
+  recency_score: 0.3314034196950972
   length_score: 100
   category_score: 0
   rank: 9
 - slug: back-stabber
   title: BACK STABBER
-  score: 63.861301347895804
-  llm_score: 85
+  score: 51.55360904020349
+  llm_score: 65
   recency_score: 0.09845876132263415
   length_score: 100
   category_score: 0

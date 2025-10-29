@@ -9,11 +9,11 @@ authors:
 rumble: v5gydsy
 alttags: Political cartoon depicting officials in a boat overlooking people struggling in water, referencing FEMA’s response challe...
 related_articles:
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 70.09088695111183
-  llm_score: 95
-  recency_score: 0.5907651822267828
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 68.86394221225771
+  llm_score: 70
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 1
@@ -41,51 +41,51 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 55.32867628556745
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 55.93662831348142
   llm_score: 70
-  recency_score: 4.636395856188334
+  recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
   rank: 5
-- slug: im-back-2
-  title: I'M BACK
-  score: 55.11034857028103
-  llm_score: 65
-  recency_score: 23.21726570682666
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 55.68827286482909
+  llm_score: 70
+  recency_score: 6.973773621388993
   length_score: 100
   category_score: 0
   rank: 6
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 54.72309860310771
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 54.96717696873743
   llm_score: 70
-  recency_score: 0.700140920200011
+  recency_score: 2.2866502967932067
   length_score: 100
   category_score: 0
   rank: 7
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 52.85970523655834
-  llm_score: 65
-  recency_score: 8.588084037629146
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 54.70627156649644
+  llm_score: 70
+  recency_score: 0.5907651822267828
   length_score: 100
   category_score: 0
   rank: 8
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 51.92671999123956
-  llm_score: 65
+  score: 48.849796914316485
+  llm_score: 60
   recency_score: 2.5236799430570582
   length_score: 100
   category_score: 0
   rank: 9
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 25.787019135334628
-  llm_score: 0
-  recency_score: 92.61562437967505
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 48.569252449261555
+  llm_score: 60
+  recency_score: 0.700140920200011
   length_score: 100
   category_score: 0
   rank: 10

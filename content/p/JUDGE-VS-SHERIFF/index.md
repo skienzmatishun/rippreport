@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw...
 related_articles:
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 89.72515545201385
-  llm_score: 85
-  recency_score: 96.50103634675902
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 88.01116233031819
+  score: 88.47298700545456
   llm_score: 85
   recency_score: 85.07441553545459
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 82.02696697578
-  llm_score: 85
-  recency_score: 45.179779838533264
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 81.88004668027091
-  llm_score: 85
-  recency_score: 44.200311201805995
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 81.68321786500256
-  llm_score: 85
-  recency_score: 42.88811910001705
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 81.12710268443954
-  llm_score: 85
-  recency_score: 39.1806845629302
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 77.49660472211232
-  llm_score: 85
-  recency_score: 14.977364814082216
-  length_score: 100
-  category_score: 100
-  rank: 7
+  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 71.8456924507106
-  llm_score: 70
+  score: 86.81609482124166
+  llm_score: 93
   recency_score: 42.3046163380707
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 2
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 74.61190227908958
+  llm_score: 80
+  recency_score: 14.977364814082216
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 69.30297207597846
+  llm_score: 75
+  recency_score: 0.4693184938599064
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 65.75241023194933
-  llm_score: 75
+  score: 65.89990793020445
+  llm_score: 85
   recency_score: 13.34940154632884
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 29.876970954123998
+  llm_score: 0
+  recency_score: 44.200311201805995
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 29.675095246156474
+  llm_score: 0
+  recency_score: 42.88811910001705
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 29.104720701989265
+  llm_score: 0
+  recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 28.796889205928196
+  llm_score: -2
+  recency_score: 45.179779838533264
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 65.57039777407898
-  llm_score: 70
-  recency_score: 0.4693184938599064
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 23.769390207193695
+  llm_score: -23
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 100
   rank: 10

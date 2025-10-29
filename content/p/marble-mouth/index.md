@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Fairhope Councilman Robinson depicted with marbles in his mouth, referencing criticism about his speaking style
 related_articles:
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 83.88849539476564
-  llm_score: 85
-  recency_score: 79.4424769738282
-  rank: 1
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 68.69546691695325
-  llm_score: 85
-  recency_score: 3.4773345847662327
-  rank: 2
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 68.3916664395256
-  llm_score: 75
-  recency_score: 41.958332197627975
-  rank: 3
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 65.95822947770259
-  llm_score: 75
-  recency_score: 29.79114738851293
-  rank: 4
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 63.190302804070036
-  llm_score: 75
-  recency_score: 15.95151402035018
-  rank: 5
-- slug: communication
-  title: COMMUNICATION
-  score: 59.83613691258604
-  llm_score: 65
-  recency_score: 39.1806845629302
-  rank: 6
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 58.57646216765952
-  llm_score: 70
-  recency_score: 12.882310838297602
-  rank: 7
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 54.29013091918721
-  llm_score: 65
+  score: 59.453946860913256
+  llm_score: 75
   recency_score: 11.45065459593608
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 57.35248421361739
+  llm_score: 67
+  recency_score: 29.79114738851293
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 54.534974551502515
+  llm_score: 69
+  recency_score: 3.4773345847662327
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 53.520355513584256
+  llm_score: 65
+  recency_score: 12.882310838297602
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 53.59078153074029
-  llm_score: 65
+  score: 47.83906271595408
+  llm_score: 57
   recency_score: 7.953907653701443
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 36.64562084686187
+  llm_score: 23
+  recency_score: 71.19653550460211
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 33.37820495348123
+  llm_score: 25
+  recency_score: 41.958332197627975
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 52.52447180064257
-  llm_score: 65
+  score: 26.711132154340444
+  llm_score: 24
   recency_score: 2.6223590032128543
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 23.76038107289665
+  llm_score: 0
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 13.992540618515413
+  llm_score: 0
+  recency_score: 15.95151402035018
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope’s City Council started out, day one, as being obstructionist. They have stayed the course for over 3 years and the taxpayers have paid dearly.

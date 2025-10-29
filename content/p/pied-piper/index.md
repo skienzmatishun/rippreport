@@ -23,65 +23,85 @@ authors:
 - admin
 alttags: Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and...
 related_articles:
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 91.62009294457451
-  llm_score: 90
-  recency_score: 98.10046472287257
-  rank: 1
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 85.96882643931993
-  llm_score: 90
+  score: 77.05294341486149
+  llm_score: 89
   recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 76.0277976250662
+  llm_score: 95
+  recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 82.85660194836281
-  llm_score: 90
-  recency_score: 54.28300974181401
-  rank: 3
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 81.06074595483393
-  llm_score: 90
-  recency_score: 45.30372977416965
-  rank: 4
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 79.83613691258604
-  llm_score: 90
-  recency_score: 39.1806845629302
-  rank: 5
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 75.66625449247667
+  score: 72.19738611412525
   llm_score: 85
-  recency_score: 38.33127246238332
-  rank: 6
+  recency_score: 54.28300974181401
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-liar
   title: CATALYST LIAR
-  score: 75.11962860059249
+  score: 69.32279123122501
   llm_score: 85
   recency_score: 35.59814300296249
-  rank: 7
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 74.66654767894059
-  llm_score: 85
-  recency_score: 33.33273839470296
-  rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 72.29827267964413
-  llm_score: 90
-  recency_score: 1.4913633982206251
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 63.43134304217996
+  llm_score: 73
+  recency_score: 45.30372977416965
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 69.33859784864194
-  llm_score: 85
+  score: 58.721998345109206
+  llm_score: 75
   recency_score: 6.69298924320973
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 17.435580378828206
+  llm_score: 0
+  recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 13.399322460526713
+  llm_score: 0
+  recency_score: 12.09559599342363
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 11.76354375759404
+  llm_score: 0
+  recency_score: 1.463034424361258
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope City Council President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack Burrell considers himself a genius. He is the only one, because he leaves a trail of poor decisions, confusion, and corruption that affects his own constituents in a negative way.

@@ -13,12 +13,20 @@ alttags: Bodycam footage shows a police officer in uniform near a brick building
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 82.83091264504338
-  llm_score: 75
+  score: 88.98475879888954
+  llm_score: 85
   recency_score: 88.40093219278197
   length_score: 100
   category_score: 100
   rank: 1
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 72.792883663955
+  llm_score: 75
+  recency_score: 23.153743815707337
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: lethal-force
   title: LETHAL FORCE
   score: 72.65884171775178
@@ -26,20 +34,12 @@ related_articles:
   recency_score: 22.28247116538646
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: cameras
   title: CAMERAS
   score: 72.5118160695292
   llm_score: 75
   recency_score: 21.326804451939722
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 69.71596058703192
-  llm_score: 70
-  recency_score: 23.153743815707337
   length_score: 100
   category_score: 100
   rank: 4
@@ -77,8 +77,8 @@ related_articles:
   rank: 8
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 58.043457102367164
-  llm_score: 70
+  score: 61.120380179290244
+  llm_score: 75
   recency_score: 22.28247116538646
   length_score: 100
   category_score: 0

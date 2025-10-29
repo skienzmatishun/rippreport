@@ -9,72 +9,82 @@ authors:
 related_articles:
 - slug: im-back-2
   title: I'M BACK
-  score: 67.08269941687314
+  score: 69.67899955144088
   llm_score: 85
   recency_score: 37.913497084365645
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 66.10408372408848
-  llm_score: 90
-  recency_score: 15.520418620442342
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 65.88490535727412
+  llm_score: 75
+  recency_score: 53.251884822281745
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 60.06257557974041
-  llm_score: 82
-  recency_score: 13.312877898702032
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 63.33407516690546
+  llm_score: 71
+  recency_score: 52.671488584885374
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 57.684990070341016
-  llm_score: 80
-  recency_score: 8.424950351705032
-  category_score: 0
-  rank: 4
 - slug: big-mules
   title: Big Mules
-  score: 56.10014946474216
-  llm_score: 70
+  score: 63.153961126724745
+  llm_score: 75
   recency_score: 35.500747323710755
+  length_score: 100
   category_score: 0
-  rank: 5
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 54.45366066397163
-  llm_score: 75
-  recency_score: 9.768303319858143
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 54.143950417598724
-  llm_score: 75
-  recency_score: 8.219752087993566
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 54.026732046604764
-  llm_score: 75
-  recency_score: 7.633660233023765
-  category_score: 0
-  rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 50.34227026842299
-  llm_score: 70
-  recency_score: 6.711351342114945
-  category_score: 0
-  rank: 9
+  rank: 4
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
-  score: 47.69191013062845
-  llm_score: 65
+  score: 61.22454625432959
+  llm_score: 78
   recency_score: 10.959550653142209
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 29.937116486729316
+  llm_score: 23
+  recency_score: 27.591257163740508
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: he-must-go
+  title: He Must Go
+  score: 25.13860495273569
+  llm_score: 0
+  recency_score: 88.40093219278197
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 18.375872222346896
+  llm_score: 0
+  recency_score: 44.44316944525482
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 12.762139639030991
+  llm_score: 0
+  recency_score: 7.953907653701443
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 12.570977129556145
+  llm_score: 0
+  recency_score: 6.711351342114945
+  length_score: 100
   category_score: 0
   rank: 10
 ---

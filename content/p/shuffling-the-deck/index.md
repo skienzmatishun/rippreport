@@ -21,6 +21,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 96.14272077304483
+  llm_score: 95
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
   score: 95.98354786981331
@@ -28,7 +36,7 @@ related_articles:
   recency_score: 93.89306115378648
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
   score: 95.40194674487077
@@ -36,7 +44,7 @@ related_articles:
   recency_score: 90.11265384166002
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 4
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 94.88026543084163
@@ -44,15 +52,15 @@ related_articles:
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 89.98887461919868
-  llm_score: 85
-  recency_score: 94.92768502479139
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 88.48919689823589
+  llm_score: 95
+  recency_score: 45.179779838533264
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 6
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 88.24599319436442
@@ -60,7 +68,15 @@ related_articles:
   recency_score: 43.598955763368686
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 7
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 85.97348272400421
+  llm_score: 95
+  recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 82.50262444871355
@@ -68,27 +84,11 @@ related_articles:
   recency_score: 6.267058916638003
   length_score: 100
   category_score: 100
-  rank: 7
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 82.33535074438974
-  llm_score: 85
-  recency_score: 45.179779838533264
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 79.81963657015807
-  llm_score: 85
-  recency_score: 28.827637706027392
-  length_score: 100
-  category_score: 100
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 68.39189110160407
-  llm_score: 85
+  score: 74.54573725545022
+  llm_score: 95
   recency_score: 29.54729216042639
   length_score: 100
   category_score: 0

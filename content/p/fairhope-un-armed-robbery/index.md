@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 79.91650071517822
-  llm_score: 85
-  recency_score: 59.582503575891096
+- slug: barstool
+  title: BARSTOOL
+  score: 81.89852630618084
+  llm_score: 100
+  recency_score: 57.34042099017541
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: bushwhacked-hijacked-fairhope-style
   title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 75.10014946474215
-  llm_score: 85
+  score: 69.92319189595551
+  llm_score: 86
   recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: bar-stool-continued
   title: BAR STOOL “CONTINUED”
-  score: 71.00634582434073
-  llm_score: 75
+  score: 58.77411217256981
+  llm_score: 63
   recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 68.68412803568734
-  llm_score: 85
-  recency_score: 3.4206401784366847
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 57.757684669493095
+  llm_score: 73
+  recency_score: 8.424950351705032
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: russian-roulette-fairhope-style-rerun
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 68.04358532143118
-  llm_score: 85
+  score: 57.72583486263939
+  llm_score: 75
   recency_score: 0.2179266071559293
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 65.56056407438184
-  llm_score: 80
-  recency_score: 7.802820371909244
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 20.705000550137093
+  llm_score: 0
+  recency_score: 59.582503575891096
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 57.89047508264844
-  llm_score: 70
-  recency_score: 9.45237541324223
-  rank: 7
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 57.78477778518496
-  llm_score: 70
-  recency_score: 8.92388892592479
-  rank: 8
 - slug: stirring-the-pot
   title: STIRRING THE POT
-  score: 54.7591160473893
-  llm_score: 65
+  score: 13.660858497991768
+  llm_score: 0
   recency_score: 13.795580236946487
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 12.992673140498805
+  llm_score: 0
+  recency_score: 9.45237541324223
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 12.738895441832192
+  llm_score: 0
+  recency_score: 7.802820371909244
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 49.68499007034101
-  llm_score: 60
-  recency_score: 8.424950351705032
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 11.70718209857371
+  llm_score: -2
+  recency_score: 9.096683640729124
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council.

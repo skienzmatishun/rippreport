@@ -18,25 +18,25 @@ related_articles:
   rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 78.81499447025448
-  llm_score: 85
+  score: 84.96884062410062
+  llm_score: 95
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 2
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 71.66770795365038
-  llm_score: 95
-  recency_score: 10.840101698727413
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.26904091838546
+  llm_score: 85
+  recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 70.01591322755914
-  llm_score: 95
-  recency_score: 0.10343597913435872
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 65.51386179980423
+  llm_score: 85
+  recency_score: 10.840101698727413
   length_score: 100
   category_score: 0
   rank: 4
@@ -48,14 +48,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 63.89630772673047
-  llm_score: 85
-  recency_score: 0.3260002237479753
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 63.86333585800739
@@ -63,7 +55,7 @@ related_articles:
   recency_score: 0.11168307704791358
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: back-stabber
   title: BACK STABBER
   score: 63.86105438327457
@@ -71,20 +63,28 @@ related_articles:
   recency_score: 0.09685349128460453
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 62.11519476453931
+  rank: 7
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 57.74246157288432
   llm_score: 75
-  recency_score: 28.748765969505406
+  recency_score: 0.3260002237479753
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: fairhope-petition
   title: FAIRHOPE PETITION
   score: 57.7257431330925
   llm_score: 75
   recency_score: 0.21733036510113413
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 54.67258740920025
+  llm_score: 70
+  recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0
   rank: 10

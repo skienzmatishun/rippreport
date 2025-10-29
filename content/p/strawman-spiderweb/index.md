@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction
 related_articles:
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 85.43964342023084
-  llm_score: 85
-  recency_score: 87.19821710115417
+- slug: recuse-yourself
+  title: RECUSE YOURSELF
+  score: 70.66789901482632
+  llm_score: 95
+  recency_score: 4.341343596371005
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 76.24058076477368
+  score: 70.185062126749
   llm_score: 75
   recency_score: 81.20290382386844
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: conflict-of-interest
   title: CONFLICT OF INTEREST
-  score: 72.68977417738036
-  llm_score: 90
-  recency_score: 3.4488708869018017
-  rank: 3
-- slug: straw-man
-  title: STRAW MAN
-  score: 69.01123380539919
-  llm_score: 75
-  recency_score: 45.05616902699594
-  rank: 4
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 68.8682687192742
+  score: 64.37674936721567
   llm_score: 85
-  recency_score: 4.341343596371005
-  rank: 5
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 66.76773530922881
-  llm_score: 70
-  recency_score: 53.838676546144015
-  rank: 6
-- slug: honey-bees
-  title: HONEY BEES
-  score: 66.33419501564546
-  llm_score: 70
-  recency_score: 51.67097507822733
-  rank: 7
+  recency_score: 3.4488708869018017
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 59.00170701410756
+  llm_score: 76
+  recency_score: 4.511095591699039
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 60.974154333442904
+  score: 58.44165717957148
   llm_score: 75
   recency_score: 4.870771667214523
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: straw-man
+  title: STRAW MAN
+  score: 32.62402600415323
+  llm_score: 23
+  recency_score: 45.05616902699594
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 24.95357186171603
+  llm_score: 0
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: conflict-on-interest
+  title: CONFLICT OF INTEREST
+  score: 20.168818070201294
+  llm_score: 0
+  recency_score: 56.097317456308396
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: a-spiders-web
   title: A SPIDER’S WEB
-  score: 60.676671673548505
-  llm_score: 75
+  score: 12.058978210421927
+  llm_score: 0
   recency_score: 3.3833583677425256
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 56.66746539920652
-  llm_score: 70
+  score: 12.051896460928093
+  llm_score: 0
   recency_score: 3.337326996032608
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.

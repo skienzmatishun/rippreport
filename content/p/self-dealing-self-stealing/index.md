@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ...
 related_articles:
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 99.62009294457451
-  llm_score: 100
-  recency_score: 98.10046472287257
-  rank: 1
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 94.98553700495827
-  llm_score: 95
-  recency_score: 94.92768502479139
-  rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85.18782317885686
-  llm_score: 90
-  recency_score: 65.93911589428427
-  rank: 3
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 83.43670779028002
-  llm_score: 90
+  score: 81.87439060790773
+  llm_score: 100
   recency_score: 57.18353895140014
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 74.18871243179512
+  llm_score: 100
+  recency_score: 7.226630806668228
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 72.01474230071861
+  llm_score: 95
+  recency_score: 13.095824954670931
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 70.37160654389501
+  llm_score: 95
+  recency_score: 2.4154425353175037
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 83.35758882342884
-  llm_score: 95
+  score: 68.89045294109913
+  llm_score: 84
   recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 82.61916499093418
-  llm_score: 100
-  recency_score: 13.095824954670931
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 60.93759415852324
+  llm_score: 75
+  recency_score: 21.094362030400973
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 40.29656692689099
+  llm_score: 23
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 77.53339065902054
-  llm_score: 90
+  score: 15.794915891554263
+  llm_score: 0
   recency_score: 27.666953295102704
-  rank: 7
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 75.83311381355975
-  llm_score: 90
-  recency_score: 19.165569067798774
-  rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 72.39013828420687
-  llm_score: 90
-  recency_score: 1.9506914210343174
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 56.4636379608563
-  llm_score: 70
+  score: 11.895106123735616
+  llm_score: 0
   recency_score: 2.318189804281508
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The state of Alabama is number one in the nation for political corruption. The Alabama Ethics Commission is the main reason for our infamous reputation for corruption.

@@ -17,74 +17,84 @@ authors:
 - admin
 alttags: American flag symbolizing justice system failings in Baldwin County’s McSharry assault case investigation
 related_articles:
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 86.33629014021759
-  llm_score: 95
-  recency_score: 99.18145070108791
-  category_score: 0
-  rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 73.00000000000001
-  llm_score: 90
-  recency_score: 50
-  category_score: 0
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 66.58622086571793
-  llm_score: 95
-  recency_score: 0.43110432858965353
-  category_score: 0
-  rank: 3
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 66.11761680752583
-  llm_score: 92
-  recency_score: 8.588084037629146
-  category_score: 0
-  rank: 4
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 64.7133507496293
-  llm_score: 92
+  score: 84.85642365356101
+  llm_score: 100
   recency_score: 1.566753748146461
-  category_score: 0
-  rank: 5
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 64.60000000000001
-  llm_score: 78
-  recency_score: 50
-  category_score: 0
-  rank: 6
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 63.72464315476345
-  llm_score: 90
-  recency_score: 3.623215773817211
-  category_score: 0
-  rank: 7
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 63.5317057805419
-  llm_score: 90
-  recency_score: 2.658528902709438
-  category_score: 0
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 76.70585908271218
+  llm_score: 85
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 63.46363796085631
-  llm_score: 90
+  score: 75.74125996988947
+  llm_score: 85
   recency_score: 2.318189804281508
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 72.950992415552
+  llm_score: 75
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 64.25515829272454
+  llm_score: 85
+  recency_score: 2.658528902709438
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 59.48049473443343
+  llm_score: 77
+  recency_score: 3.623215773817211
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 23.155741809000236
+  llm_score: 0
+  recency_score: 0.512321758501535
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 23.143246819783023
+  llm_score: 0
+  recency_score: 0.43110432858965353
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 53.057055922711086
-  llm_score: 75
-  recency_score: 2.7852796135553795
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 4.461538461538459
+  llm_score: -24
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and...
 related_articles:
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 80.36870703816402
-  llm_score: 90
-  recency_score: 41.84353519082013
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 81.04811284530007
+  llm_score: 100
+  recency_score: 51.81273349445037
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 80.16487863775171
-  llm_score: 90
+  score: 70.12682972134748
+  llm_score: 85
   recency_score: 40.82439318875856
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 78.36254669889007
-  llm_score: 85
-  recency_score: 51.81273349445037
-  rank: 3
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 77.1355247284506
-  llm_score: 85
-  recency_score: 45.67762364225301
-  rank: 4
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 76.55415564363686
-  llm_score: 85
-  recency_score: 42.77077821818432
-  rank: 5
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 76.07588902065244
-  llm_score: 85
-  recency_score: 40.37944510326223
-  rank: 6
-- slug: s-o-s
-  title: S.O.S
-  score: 71.54034940495241
-  llm_score: 85
-  recency_score: 17.701747024762053
-  rank: 7
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 69.3947547242778
+  score: 64.91904209559831
   llm_score: 85
   recency_score: 6.973773621388993
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 64.27242741818222
+  llm_score: 75
+  recency_score: 42.77077821818432
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 60.697950015902315
+  llm_score: 75
+  recency_score: 19.53667510336496
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: survey
   title: SURVEY
-  score: 68.2810944172931
-  llm_score: 70
+  score: 35.13930339791777
+  llm_score: 23
   recency_score: 61.405472086465494
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 33.36054387551079
+  llm_score: 25
+  recency_score: 41.84353519082013
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 17.750683862040344
+  llm_score: 0
+  recency_score: 40.37944510326223
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: s-o-s
+  title: S.O.S
+  score: 14.261807234578779
+  llm_score: 0
+  recency_score: 17.701747024762053
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: water
   title: Water
-  score: 61.09295272799745
-  llm_score: 75
+  score: 12.379194406151884
+  llm_score: 0
   recency_score: 5.464763639987247
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Long before Fairhope Mayor Wilson even thought about running for office, Fairhope had major infrastructure and sewer problems. Baykeeper was contacted time and time again through the years about various issues. I know because I called. Now the Director of Baykeeper is claiming that all you got to do, if you have an environmental problem, is to contact Baykeeper.

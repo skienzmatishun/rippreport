@@ -10,36 +10,28 @@ rumble: v5ujhsq
 related_articles:
 - slug: the-pete-rose
   title: The Pete Rose
-  score: 67.5256859186067
-  llm_score: 70
+  score: 79.833378226299
+  llm_score: 90
   recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 59.404016355706794
-  llm_score: 70
-  recency_score: 31.126106312094088
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 59.1362818385235
-  llm_score: 70
-  recency_score: 29.385831950402675
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: the-mug-shot
   title: The Mugshot
-  score: 58.89522602163163
-  llm_score: 70
+  score: 68.12599525240086
+  llm_score: 85
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 62.480939432629874
+  llm_score: 75
+  recency_score: 31.126106312094088
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: im-back-2
   title: I'M BACK
   score: 57.73000642399855
@@ -47,44 +39,52 @@ related_articles:
   recency_score: 20.245041755990528
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 56.832887437188525
+  rank: 4
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 56.07758637101292
   llm_score: 70
-  recency_score: 14.41376834172532
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 55.14019713655768
+  llm_score: 70
+  recency_score: 3.4112813876248462
   length_score: 100
   category_score: 0
   rank: 6
-- slug: he-must-go
-  title: He Must Go
-  score: 55.65927767425592
-  llm_score: 70
-  recency_score: 6.785304882663376
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bsp-128
-  title: Big News
-  score: 49.64240051013633
-  llm_score: 60
-  recency_score: 7.675603315886079
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 42.38694410863941
-  llm_score: 50
+  score: 54.694636416331726
+  llm_score: 70
   recency_score: 0.5151367061561393
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 50.67904128334237
+  llm_score: 60
+  recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bsp-128
+  title: Big News
+  score: 47.79624666398249
+  llm_score: 57
+  recency_score: 7.675603315886079
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 13.000663294089833
-  llm_score: 0
-  recency_score: 9.504311411583915
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 44.6954490185296
+  llm_score: 50
+  recency_score: 15.520418620442342
   length_score: 100
   category_score: 0
   rank: 10

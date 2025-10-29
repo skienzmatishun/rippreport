@@ -59,22 +59,22 @@ related_articles:
   rank: 5
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 72.5153428214474
+  llm_score: 95
+  recency_score: 16.349728339408063
   length_score: 100
   category_score: 0
   rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50

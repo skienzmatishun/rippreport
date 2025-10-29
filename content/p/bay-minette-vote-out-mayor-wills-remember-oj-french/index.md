@@ -17,6 +17,14 @@ authors:
 - admin
 alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
 related_articles:
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 80.71324467586827
+  llm_score: 85
+  recency_score: 34.63609039314372
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
   score: 79.14670050400919
@@ -24,23 +32,31 @@ related_articles:
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 77.63632159894519
-  llm_score: 80
-  recency_score: 34.63609039314372
+  rank: 2
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 79.0630911680524
+  llm_score: 85
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 77.55999595804782
+  llm_score: 85
+  recency_score: 14.139973727310823
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 4
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 77.56382436721574
-  llm_score: 80
+  score: 76.94843975183113
+  llm_score: 79
   recency_score: 34.164858386902274
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 5
 - slug: rumors
   title: RUMORS
   score: 76.26784838685708
@@ -48,7 +64,15 @@ related_articles:
   recency_score: 5.741014514570984
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 74.34205399212581
+  llm_score: 79
+  recency_score: 17.223350948817675
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: justified
   title: JUSTIFIED
   score: 73.55554945805729
@@ -56,43 +80,19 @@ related_articles:
   recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 68.80359245366427
-  llm_score: 70
-  recency_score: 17.223350948817675
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 68.3292267272786
-  llm_score: 70
-  recency_score: 14.139973727310823
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 63.38961951611775
-  llm_score: 65
-  recency_score: 2.032526854765281
-  length_score: 100
-  category_score: 100
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 60.46838597472004
-  llm_score: 75
+  score: 66.6222321285662
+  llm_score: 85
   recency_score: 18.044508835680173
   length_score: 100
   category_score: 0
   rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 57.71865221206141
-  llm_score: 75
+  score: 54.64172913513833
+  llm_score: 70
   recency_score: 0.1712393783990468
   length_score: 100
   category_score: 0

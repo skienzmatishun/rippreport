@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: Alabama Attorney General depicted with a gavel and text License to Steal, referencing claims of pursuing corruption
 related_articles:
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 98.62490003199702
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 74.13231897385518
   llm_score: 100
-  recency_score: 93.12450015998506
+  recency_score: 6.86007333005856
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 94.98553700495827
-  llm_score: 95
-  recency_score: 94.92768502479139
-  rank: 2
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 88.92190583576996
-  llm_score: 90
-  recency_score: 84.60952917884977
-  rank: 3
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 86.85660194836281
-  llm_score: 95
-  recency_score: 54.28300974181401
-  rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 77.82905888579863
-  llm_score: 90
-  recency_score: 29.145294428993168
-  rank: 5
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 76.70120663898055
-  llm_score: 95
-  recency_score: 3.506033194902735
-  rank: 6
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 76.37034924159302
-  llm_score: 95
-  recency_score: 1.8517462079650837
-  rank: 7
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 76.03793035989311
-  llm_score: 90
-  recency_score: 20.189651799465537
-  rank: 8
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 73.9591160473893
-  llm_score: 89
-  recency_score: 13.795580236946487
-  rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 68.44012078313703
-  llm_score: 85
+  score: 73.41547752549005
+  llm_score: 100
   recency_score: 2.200603915685177
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 67.26484720770375
+  llm_score: 85
+  recency_score: 22.221506850074306
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 64.73778157491485
+  llm_score: 83
+  recency_score: 13.795580236946487
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 64.19891133567401
+  llm_score: 85
+  recency_score: 2.292923681881036
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 36.09377371982305
+  llm_score: 0
+  recency_score: 84.60952917884977
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 26.142720773044832
+  llm_score: 0
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 25.865307716920782
+  llm_score: 0
+  recency_score: 93.12450015998506
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 19.889693806432927
+  llm_score: 0
+  recency_score: 54.28300974181401
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 16.022352989075873
+  llm_score: 0
+  recency_score: 29.145294428993168
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.

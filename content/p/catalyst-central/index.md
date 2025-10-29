@@ -10,72 +10,82 @@ alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejec
 related_articles:
 - slug: catalyst-2
   title: CATALYST
-  score: 84.37500746908161
-  llm_score: 95
+  score: 86.82692882237048
+  llm_score: 100
   recency_score: 89.37503734540803
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 78.90625209818192
-  llm_score: 85
-  recency_score: 97.03126049090956
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 68.82716335184493
+  llm_score: 75
+  recency_score: 72.37656178699199
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 72.1568431195879
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 65.39071198025665
   llm_score: 85
-  recency_score: 63.2842155979395
+  recency_score: 10.039627871668154
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 71.19014258029428
-  llm_score: 85
-  recency_score: 58.450712901471334
-  category_score: 0
-  rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 65.65737211473653
-  llm_score: 85
-  recency_score: 30.7868605736826
-  category_score: 0
-  rank: 5
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 62.85157673975546
-  llm_score: 85
-  recency_score: 16.757883698777256
-  category_score: 0
-  rank: 6
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 57.260116734778464
-  llm_score: 76
-  recency_score: 20.300583673892284
-  category_score: 0
-  rank: 7
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 56.312167888700664
-  llm_score: 75
+  score: 61.855513760538976
+  llm_score: 77
   recency_score: 19.060839443503276
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 21.27449470737531
+  llm_score: 0
+  recency_score: 63.2842155979395
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 20.53087890791867
+  llm_score: 0
+  recency_score: 58.450712901471334
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 16.2749016267204
+  llm_score: 0
+  recency_score: 30.7868605736826
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 14.66162825752189
+  llm_score: 0
+  recency_score: 20.300583673892284
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 56.23975441483147
-  llm_score: 75
+  score: 14.41519570371651
+  llm_score: 0
   recency_score: 18.69877207415731
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 47.50792557433364
-  llm_score: 65
-  recency_score: 10.039627871668154
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 14.116597492119578
+  llm_score: 0
+  recency_score: 16.757883698777256
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -10,72 +10,82 @@ alttags: Carolyn Amick, smiling and wearing sunglasses, is featured in a photo c
 related_articles:
 - slug: carolyn-amick
   title: CAROLYN AMICK
-  score: 87.35949281133081
-  llm_score: 97
+  score: 72.66114831640833
+  llm_score: 75
   recency_score: 97.29746405665401
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 71.03175858967005
-  llm_score: 90
-  recency_score: 40.15879294835018
+- slug: tonight
+  title: TONIGHT
+  score: 72.08543658099181
+  llm_score: 97
+  recency_score: 5.5553377764466925
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 63.65815510057001
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 63.87058353051543
   llm_score: 75
-  recency_score: 55.79077550285001
+  recency_score: 40.15879294835018
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 60.26127480408122
-  llm_score: 85
-  recency_score: 3.806374020406067
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 60.12165776966924
+  llm_score: 65
+  recency_score: 55.79077550285001
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 59.7636758292818
-  llm_score: 85
-  recency_score: 1.3183791464089836
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 24.065489626152242
+  llm_score: 0
+  recency_score: 81.42568256998956
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 59.67674719402267
-  llm_score: 85
-  recency_score: 0.8837359701132972
-  category_score: 0
-  rank: 6
 - slug: obituary
   title: OBITUARY
-  score: 55.3457612356931
-  llm_score: 70
+  score: 16.41981633514853
+  llm_score: 0
   recency_score: 31.72880617846543
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 12.124057541600934
+  llm_score: 0
+  recency_score: 3.806374020406067
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: kindness
   title: RANDOM ACTS OF KINDNESS
-  score: 45.98707545982508
-  llm_score: 65
+  score: 11.913134969096209
+  llm_score: 0
   recency_score: 2.435377299125359
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 45.6272245080837
-  llm_score: 65
-  recency_score: 0.636122540418466
+- slug: america-the-golden-door
+  title: AMERICA - THE GOLDEN DOOR
+  score: 11.761701348667355
+  llm_score: 0
+  recency_score: 1.4510587663378074
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: tonight
-  title: TONIGHT
-  score: 43.111067555289345
-  llm_score: 60
-  recency_score: 5.5553377764466925
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 11.741289099447537
+  llm_score: 0
+  recency_score: 1.3183791464089836
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -10,72 +10,82 @@ alttags: Map of Alabama highlighting political issues and Attorney General Steve
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 78.80167323219754
-  llm_score: 90
+  score: 85.23205633245966
+  llm_score: 100
   recency_score: 79.0083661609877
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 77.83762349360867
-  llm_score: 84
-  recency_score: 95.18811746804333
-  category_score: 0
-  rank: 2
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 70.4462020081581
-  llm_score: 85
-  recency_score: 54.731010040790416
-  category_score: 0
-  rank: 3
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 70.12123778439705
-  llm_score: 85
-  recency_score: 53.10618892198522
-  category_score: 0
-  rank: 4
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 67.12297651271783
-  llm_score: 84
-  recency_score: 41.61488256358909
-  category_score: 0
-  rank: 5
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 66.9795350406869
+  score: 69.59964233898992
   llm_score: 85
   recency_score: 37.39767520343444
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 60.36116151175992
-  llm_score: 85
-  recency_score: 4.305807558799547
+  rank: 2
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 68.32402906492081
+  llm_score: 79
+  recency_score: 53.10618892198522
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 60.2975701110339
-  llm_score: 85
-  recency_score: 3.9878505551694436
-  category_score: 0
-  rank: 8
+  rank: 3
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 49.162355588808296
-  llm_score: 70
+  score: 63.97104276062178
+  llm_score: 85
   recency_score: 0.8117779440414381
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 58.354739624430714
+  llm_score: 75
+  recency_score: 4.305807558799547
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 26.384774822578315
+  llm_score: 0
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 26.1827873027759
+  llm_score: 0
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 14.619136853262805
+  llm_score: 0
+  recency_score: 20.024389546208226
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
-  score: 46.313013591002836
-  llm_score: 65
+  score: 12.163856608463714
+  llm_score: 0
   recency_score: 4.065067955014141
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 12.151977008487608
+  llm_score: 0
+  recency_score: 3.9878505551694436
+  length_score: 100
   category_score: 0
   rank: 10
 ---

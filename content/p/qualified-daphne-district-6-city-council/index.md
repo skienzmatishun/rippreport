@@ -16,8 +16,8 @@ alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest Firs
 related_articles:
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 79.14670050400919
-  llm_score: 85
+  score: 82.22362358093228
+  llm_score: 90
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
@@ -38,14 +38,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 66.94173081478357
-  llm_score: 90
-  recency_score: 0.12125029609309805
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
   score: 64.43368756009316
@@ -53,7 +45,7 @@ related_articles:
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
   score: 64.0230158631234
@@ -61,15 +53,7 @@ related_articles:
   recency_score: 1.1496031103020492
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.86155240576037
-  llm_score: 85
-  recency_score: 0.10009063744229098
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 5
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
   score: 60.188779856495714
@@ -77,7 +61,7 @@ related_articles:
   recency_score: 0.22706906722204626
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 60.17047246253829
@@ -85,12 +69,28 @@ related_articles:
   recency_score: 0.10807100649883039
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 60.16924471345268
+  llm_score: 79
+  recency_score: 0.10009063744229098
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 60.15557116389713
-  llm_score: 79
+  score: 57.69403270235867
+  llm_score: 75
   recency_score: 0.01121256533123894
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 54.634038507091255
+  llm_score: 70
+  recency_score: 0.12125029609309805
   length_score: 100
   category_score: 0
   rank: 10

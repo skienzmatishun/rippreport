@@ -19,65 +19,85 @@ authors:
 - admin
 alttags: Hand casting a ballot, symbolizing CATALYST’s manipulation of “faux” candidates in upcoming elections
 related_articles:
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 94.52312487593501
-  llm_score: 95
-  recency_score: 92.61562437967505
-  rank: 1
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 86.4219058668791
-  llm_score: 85
+  score: 87.24761989759932
+  llm_score: 100
   recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 79.20462668157231
+  llm_score: 100
+  recency_score: 39.83007343021991
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 86.17127158449026
-  llm_score: 85
-  recency_score: 90.85635792245131
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75.63317298148849
+  llm_score: 81
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 78.12101904991724
-  llm_score: 95
+  score: 63.01616849993635
+  llm_score: 81
   recency_score: 10.605095249586157
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
-  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
-  score: 74.93857289717093
-  llm_score: 90
-  recency_score: 14.692864485854656
-  rank: 5
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 70.90654517348518
-  llm_score: 85
-  recency_score: 14.532725867425949
-  rank: 6
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 70.52060612108392
-  llm_score: 85
-  recency_score: 12.603030605419562
-  rank: 7
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 70.42575600988755
-  llm_score: 85
+  score: 62.635196930682746
+  llm_score: 80
   recency_score: 12.128780049437779
-  rank: 8
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 69.61272299947794
-  llm_score: 85
-  recency_score: 8.063614997389708
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: Smell-Test
   title: SMELL TEST
-  score: 68.49923483368241
-  llm_score: 85
+  score: 59.92248833360187
+  llm_score: 78
   recency_score: 2.4961741684120615
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-2
+  title: CATALYST
+  score: 37.68206755364409
+  llm_score: 23
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 25.516362757300204
+  llm_score: 0
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 13.774265518065532
+  llm_score: 0
+  recency_score: 14.532725867425949
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 13.477389323910701
+  llm_score: 0
+  recency_score: 12.603030605419562
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 It is election time and CATALYST is at work stroking FAUX candidates that are willing to fall on the sword for CATALYST.

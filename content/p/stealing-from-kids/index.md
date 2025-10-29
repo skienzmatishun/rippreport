@@ -16,63 +16,83 @@ alttags: Man in striped prisoner clothing holds money and a bag, symbolizing cor
 related_articles:
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 90.00714967029312
+  score: 80.7747305156101
   llm_score: 95
   recency_score: 70.03574835146556
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 86.95912250360541
-  llm_score: 90
+  score: 75.35317115661955
+  llm_score: 85
   recency_score: 74.79561251802704
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 71.01936140063216
+  llm_score: 90
+  recency_score: 26.62584910410898
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 83.08072362334784
-  llm_score: 95
+  score: 69.2928643256522
+  llm_score: 85
   recency_score: 35.40361811673922
-  rank: 3
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 81.95902049782696
-  llm_score: 100
-  recency_score: 9.795102489134761
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 78.063697747728
-  llm_score: 95
+  score: 68.51053672902155
+  llm_score: 90
   recency_score: 10.318488738640012
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 77.54857141949542
-  llm_score: 90
-  recency_score: 27.742857097477103
-  rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 77.3251698208218
-  llm_score: 90
-  recency_score: 26.62584910410898
-  rank: 7
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 74.17095353988022
-  llm_score: 89
+  score: 66.13150272298479
+  llm_score: 85
   recency_score: 14.854767699401043
-  rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 73.63821444478742
-  llm_score: 92
-  recency_score: 0.19107222393707068
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 65.35309269063613
+  llm_score: 85
+  recency_score: 9.795102489134761
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 68.0723539280778
+  score: 63.901810713906016
   llm_score: 85
   recency_score: 0.36176964038901915
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 58.76816867887796
+  llm_score: 70
+  recency_score: 26.993096412706674
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 54.650318318034174
+  llm_score: 70
+  recency_score: 0.22706906722204626
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 NO state is as corrupt as Alabama! The case below involves the Executive Director of the Alabama Ethics Commission Tom Albritton who has been able to maintain his position despite his criminal behavior. How do politicians in Alabama keep a straight face when they accuse Washington of corruption when they proudly wear the United States gold star of corruption?

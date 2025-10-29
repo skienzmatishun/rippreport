@@ -26,65 +26,85 @@ authors:
 - admin
 alttags: Football represents a distraction from political issues discussed in this article about Fairhope politics
 related_articles:
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 68.94006902738927
-  llm_score: 85
-  recency_score: 4.7003451369463285
-  rank: 1
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 68.48707545982508
-  llm_score: 85
+  score: 73.45159650755777
+  llm_score: 100
   recency_score: 2.435377299125359
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 64.7514359170989
+  llm_score: 85
+  recency_score: 5.884333461142748
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 68.4020748388025
-  llm_score: 85
-  recency_score: 2.0103741940125253
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 63.70361340530881
+  llm_score: 75
+  recency_score: 39.073487134507126
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 68.36034042022305
-  llm_score: 85
-  recency_score: 1.8017021011152816
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 57.23327074861912
+  llm_score: 74
+  recency_score: 1.0162598660242268
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 64.25030136070713
-  llm_score: 80
+  score: 36.63473129257967
+  llm_score: 100
   recency_score: 1.251506803535654
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 60.57883750997557
-  llm_score: 75
-  recency_score: 2.894187549877844
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 12.261591559530205
+  llm_score: 0
+  recency_score: 4.7003451369463285
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: gob-coup
   title: GOB COUP
-  score: 60.528800291723115
-  llm_score: 75
+  score: 11.945230993633166
+  llm_score: 0
   recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 11.847749876001927
+  llm_score: 0
+  recency_score: 2.0103741940125253
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 11.815646477094658
+  llm_score: 0
+  recency_score: 1.8017021011152816
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 56.20662071395367
-  llm_score: 70
+  score: 11.697400549195129
+  llm_score: 0
   recency_score: 1.0331035697683377
-  rank: 8
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 56.20325197320484
-  llm_score: 70
-  recency_score: 1.0162598660242268
-  rank: 9
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 53.17686669222855
-  llm_score: 65
-  recency_score: 5.884333461142748
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope are you distracted enough between Inciting Insurrection, and the championship football game today? How distracted and worried have you been over Covid-19 and your kids going back to school?

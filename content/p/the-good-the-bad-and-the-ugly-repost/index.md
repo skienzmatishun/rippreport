@@ -18,27 +18,27 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 70.02328880104399
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 70.10537881758529
   llm_score: 95
-  recency_score: 0.15137720678588268
+  recency_score: 0.6849623143042736
   length_score: 100
   category_score: 0
   rank: 1
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 66.93362761856955
+  llm_score: 90
+  recency_score: 0.06857952070196233
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
   score: 54.72163312943678
   llm_score: 70
   recency_score: 0.6906153413389834
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 54.7207634329699
-  llm_score: 70
-  recency_score: 0.6849623143042736
   length_score: 100
   category_score: 0
   rank: 3
@@ -58,6 +58,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 54.63867341642861
+  llm_score: 70
+  recency_score: 0.15137720678588268
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
   score: 54.62699711640697
@@ -65,7 +73,15 @@ related_articles:
   recency_score: 0.07548125664523891
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 54.62579176622922
+  llm_score: 70
+  recency_score: 0.06764648048984126
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: catalyst-the-three-bs-and-chuckee-cheeze
   title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
   score: 54.62460987383539
@@ -73,28 +89,12 @@ related_articles:
   recency_score: 0.059964179929950075
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 9
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
   score: 54.62057393576202
   llm_score: 70
   recency_score: 0.03373058245303176
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 54.6192236958551
-  llm_score: 70
-  recency_score: 0.024954023058067983
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 54.619009051169115
-  llm_score: 70
-  recency_score: 0.02355883259917855
   length_score: 100
   category_score: 0
   rank: 10

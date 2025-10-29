@@ -21,28 +21,20 @@ related_articles:
   rank: 1
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 68.46153846153847
-  llm_score: 80
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 59.1951235876705
-  llm_score: 75
-  recency_score: 9.768303319858143
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 61.75918371350614
+  llm_score: 70
+  recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
   rank: 3
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 58.825624805547456
-  llm_score: 75
-  recency_score: 7.366561236058354
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 57.772966048386145
@@ -50,12 +42,20 @@ related_articles:
   recency_score: 20.524279314509858
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 56.30609507517519
   llm_score: 70
   recency_score: 10.989617988638654
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 56.11820051074742
+  llm_score: 70
+  recency_score: 9.768303319858143
   length_score: 100
   category_score: 0
   rank: 6
@@ -75,18 +75,18 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 55.605337559659986
-  llm_score: 60
-  recency_score: 46.434694137789805
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 55.748701728624376
+  llm_score: 70
+  recency_score: 7.366561236058354
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 54.65875992651849
-  llm_score: 70
+  score: 54.04337531113388
+  llm_score: 69
   recency_score: 0.28193952237011366
   length_score: 100
   category_score: 0

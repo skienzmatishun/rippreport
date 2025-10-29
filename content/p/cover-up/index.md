@@ -7,74 +7,84 @@ thumbnail: img/bob-wills.jpg
 authors:
 - admin
 related_articles:
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 70.20889537238898
-  llm_score: 85
-  recency_score: 53.544476861944815
-  category_score: 0
-  rank: 1
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 68.90837124125832
-  llm_score: 74
+  score: 70.85259326250642
+  llm_score: 75
   recency_score: 85.54185620629158
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: exposure-2
-  title: EXPOSURE
-  score: 66.79502178361366
-  llm_score: 95
-  recency_score: 1.4751089180682964
-  category_score: 0
-  rank: 3
-- slug: surrender
-  title: SURRENDER
-  score: 57.98809712857507
-  llm_score: 75
-  recency_score: 27.440485642875306
-  category_score: 0
-  rank: 4
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 56.02100328161302
-  llm_score: 75
-  recency_score: 17.605016408065044
-  category_score: 0
-  rank: 5
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 50.869118704333886
-  llm_score: 65
-  recency_score: 26.845593521669393
-  category_score: 0
-  rank: 6
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 45.5755961503623
-  llm_score: 65
-  recency_score: 0.37798075181147806
-  category_score: 0
-  rank: 7
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 44.33214186633806
-  llm_score: 57
-  recency_score: 22.160709331690267
-  category_score: 0
-  rank: 8
-- slug: crazy
-  title: CRAZY
-  score: 35.603120909275844
-  llm_score: 50
-  recency_score: 3.015604546379232
-  category_score: 0
-  rank: 9
+  rank: 1
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 33.51962391400206
-  llm_score: 25
+  score: 70.01509531846314
+  llm_score: 75
   recency_score: 80.0981195700103
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 68.48626297410621
+  llm_score: 87
+  recency_score: 22.160709331690267
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 66.74547592641069
+  llm_score: 83
+  recency_score: 26.845593521669393
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 65.92991951722229
+  llm_score: 75
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: surrender
+  title: SURRENDER
+  score: 61.29853625275006
+  llm_score: 74
+  recency_score: 27.440485642875306
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 59.76869244761794
+  llm_score: 75
+  recency_score: 13.496500909516493
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: crazy
+  title: CRAZY
+  score: 56.15624685328912
+  llm_score: 53
+  recency_score: 3.015604546379232
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 14.246925601240775
+  llm_score: 0
+  recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 13.649260729337406
+  llm_score: 0
+  recency_score: 13.72019474069314
+  length_score: 100
   category_score: 0
   rank: 10
 ---

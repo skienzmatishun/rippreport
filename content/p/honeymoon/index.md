@@ -20,65 +20,85 @@ authors:
 - admin
 alttags: Silhouettes of figures holding hands, with CSB prominently displayed, referencing consulting firm involved in Baldwin Co...
 related_articles:
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 92.42009294457452
-  llm_score: 91
-  recency_score: 98.10046472287257
-  rank: 1
 - slug: queen-bee
   title: QUEEN BEE
-  score: 82.20034869269523
-  llm_score: 85
+  score: 70.46180668668865
+  llm_score: 78
   recency_score: 71.00174346347615
-  rank: 2
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 67.49954668641594
-  llm_score: 70
-  recency_score: 57.49773343207967
-  rank: 3
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 63.15553145748171
-  llm_score: 75
-  recency_score: 15.777657287408536
-  rank: 4
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 62.56941302796522
-  llm_score: 75
-  recency_score: 12.847065139826096
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: timeline
   title: TIMELINE
-  score: 60.16147367298336
-  llm_score: 70
+  score: 67.04728744075645
+  llm_score: 85
   recency_score: 20.807368364916808
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 66.3463414562175
+  llm_score: 75
+  recency_score: 56.25121946541366
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 66.29905177222592
+  llm_score: 75
+  recency_score: 55.94383651946845
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: honey-bees
+  title: HONEY BEES
+  score: 61.47572739180273
+  llm_score: 75
+  recency_score: 24.592228046717608
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: shut-up-2
   title: SHUT UP
-  score: 58.88275366834506
-  llm_score: 70
+  score: 59.909810514111605
+  llm_score: 75
   recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 28.11963958267824
+  llm_score: 23
+  recency_score: 15.777657287408536
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: pop-up-target
-  title: POP UP TARGET
-  score: 57.62158409262805
-  llm_score: 70
-  recency_score: 8.107920463140223
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: hate
-  title: HATE
-  score: 56.51310158853855
-  llm_score: 70
-  recency_score: 2.565507942692728
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 20.705000550137093
+  llm_score: 0
+  recency_score: 59.582503575891096
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 52.51029776171749
-  llm_score: 65
-  recency_score: 2.5514888085874565
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 20.384266681858414
+  llm_score: 0
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Catalyst/Scott Boone Consulting, CSB, and “acting” Mayor Burrell along with the “actual” mayor are going through their honeymoon, and I mean honey. Since Robert Brown quit, Burrell has been on fire to replace him with Jay Marblemouth Robinson who did not seek re-election.

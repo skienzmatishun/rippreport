@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 70.89728897152487
-  llm_score: 100
-  recency_score: 4.486444857624386
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 71.97995595769126
+  llm_score: 75
+  recency_score: 92.86971372499306
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 65.40191963447133
+- slug: im-back-2
+  title: I'M BACK
+  score: 68.64562084686187
   llm_score: 75
-  recency_score: 64.50959817235656
+  recency_score: 71.19653550460211
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 60.5403611265964
-  llm_score: 85
-  recency_score: 5.201805632981981
+- slug: bsp-128
+  title: Big News
+  score: 65.88490535727412
+  llm_score: 75
+  recency_score: 53.251884822281745
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 53.48488870843333
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 65.66349746068468
   llm_score: 75
-  recency_score: 4.924443542166608
+  recency_score: 51.81273349445037
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 53.313013591002836
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 58.24214170564951
   llm_score: 75
-  recency_score: 4.065067955014141
+  recency_score: 3.573921086721709
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 50.65298308953879
-  llm_score: 70
-  recency_score: 8.264915447693923
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 21.463015103439474
+  llm_score: 0
+  recency_score: 64.50959817235656
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 50.23336508087173
-  llm_score: 65
-  recency_score: 23.666825404358608
+- slug: he-must-go
+  title: He Must Go
+  score: 18.780794245095947
+  llm_score: 0
+  recency_score: 47.075162593123636
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 50.006713613605896
-  llm_score: 70
-  recency_score: 5.033568068029432
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 15.179511600670555
+  llm_score: 0
+  recency_score: 23.666825404358608
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 49.87543458291509
-  llm_score: 70
-  recency_score: 4.377172914575434
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 14.180958194929032
+  llm_score: 0
+  recency_score: 17.176228267038702
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-alabama-the-ripp-report-podcast-5
-  title: 'BACKSTORY PODCAST #5'
-  score: 49.78241998541498
-  llm_score: 70
-  recency_score: 3.9120999270748786
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 12.43633342936168
+  llm_score: 0
+  recency_score: 5.836167290850916
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc...
 related_articles:
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 80.14724185949737
-  llm_score: 85
-  recency_score: 60.73620929748681
-  rank: 1
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 78.83013102490949
-  llm_score: 75
-  recency_score: 94.15065512454748
-  rank: 2
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 78.45093721071514
-  llm_score: 90
-  recency_score: 32.254686053575696
-  rank: 3
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 74.79563312750165
-  llm_score: 85
-  recency_score: 33.97816563750821
-  rank: 4
-- slug: pied-piper
-  title: PIED PIPER
-  score: 74.32839938269227
-  llm_score: 85
-  recency_score: 31.641996913461323
-  rank: 5
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 68.96090073883316
-  llm_score: 85
-  recency_score: 4.804503694165815
-  rank: 6
-- slug: bad-faith
-  title: Bad Faith
-  score: 68.91301970063262
-  llm_score: 75
-  recency_score: 44.565098503163114
-  rank: 7
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 61.06633274891848
-  llm_score: 75
-  recency_score: 5.331663744592373
-  rank: 8
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 61.0432153391477
-  llm_score: 75
+  score: 73.87939641472902
+  llm_score: 100
   recency_score: 5.216076695738494
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: bad-faith
+  title: Bad Faith
+  score: 70.70232284664048
+  llm_score: 85
+  recency_score: 44.565098503163114
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 67.03633989192106
+  llm_score: 75
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 64.5853082606409
+  llm_score: 85
+  recency_score: 4.804503694165815
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 52.503355042856754
-  llm_score: 65
+  score: 64.23335003296674
+  llm_score: 85
   recency_score: 2.5167752142837743
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 62.919717790385896
+  llm_score: 75
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 52.358717499168066
+  llm_score: 65
+  recency_score: 5.331663744592373
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 24.792408480699613
+  llm_score: -2
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 16.50072093131934
+  llm_score: 0
+  recency_score: 32.254686053575696
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pied-piper
+  title: PIED PIPER
+  score: 16.406461063609434
+  llm_score: 0
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”

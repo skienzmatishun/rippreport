@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 95.03762349360866
-  llm_score: 95
-  recency_score: 95.18811746804333
-  rank: 1
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 76.72266054819131
-  llm_score: 95
-  recency_score: 3.6133027409565597
-  rank: 2
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 76.55553183085131
-  llm_score: 95
-  recency_score: 2.7776591542565425
-  rank: 3
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 76.39660451779348
+  score: 70.30508039830269
   llm_score: 95
   recency_score: 1.9830225889673994
-  rank: 4
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 76.16191138774839
-  llm_score: 95
-  recency_score: 0.8095569387419504
-  rank: 5
-- slug: exposure
-  title: EXPOSURE
-  score: 72.1641446131058
-  llm_score: 90
-  recency_score: 0.8207230655290094
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 58.11963986988564
+  llm_score: 75
+  recency_score: 2.7776591542565425
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: catalyst-judges
   title: CATALYST JUDGES
-  score: 68.78887733531245
-  llm_score: 85
+  score: 26.29913641177881
+  llm_score: 23
   recency_score: 3.94438667656226
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 26.1827873027759
+  llm_score: 0
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 68.53609397400764
-  llm_score: 85
+  score: 26.10468767231357
+  llm_score: 23
   recency_score: 2.6804698700381855
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 13.86168826594879
+  llm_score: 0
+  recency_score: 15.100973728667121
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 56.88994421893924
-  llm_score: 70
+  score: 12.22303401456865
+  llm_score: 0
   recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: exposure
+  title: EXPOSURE
+  score: 11.664726625466
+  llm_score: 0
+  recency_score: 0.8207230655290094
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 11.663008759806454
+  llm_score: 0
+  recency_score: 0.8095569387419504
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 56.14157117880491
-  llm_score: 70
-  recency_score: 0.7078558940245392
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 10.601292566571061
+  llm_score: -2
+  recency_score: 1.908401682711899
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 https://rippreport.com/baldwin-county-un-family-court/

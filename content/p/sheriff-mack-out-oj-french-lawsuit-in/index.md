@@ -9,6 +9,14 @@ authors:
 rumble: v5755ut
 alttags: Podcast cover art featuring a vintage photo of an Indigenous man and text referencing silence over falsehoods, related to ...
 related_articles:
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 84.57329267072092
+  llm_score: 75
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 83.01393101023397
@@ -16,62 +24,54 @@ related_articles:
   recency_score: 49.59055156652082
   length_score: 100
   category_score: 100
-  rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 81.49636959379784
-  llm_score: 70
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 100
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 79.3618736482644
-  llm_score: 90
-  recency_score: 5.8521787137186125
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 75.72136490861936
-  llm_score: 75
+  score: 81.87521106246551
+  llm_score: 85
   recency_score: 42.18887190602582
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 72.41733824804949
-  llm_score: 70
+  score: 81.64810747881872
+  llm_score: 85
   recency_score: 40.71269861232158
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: justified
-  title: JUSTIFIED
-  score: 72.31257371103135
-  llm_score: 85
-  recency_score: 55.031729121703655
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: rumors
   title: RUMORS
-  score: 68.6969059726398
-  llm_score: 70
+  score: 76.6969059726398
+  llm_score: 83
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 5
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 76.28495057134133
+  llm_score: 85
+  recency_score: 5.8521787137186125
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
-  score: 66.19468429344101
-  llm_score: 70
+  score: 69.2716073703641
+  llm_score: 75
   recency_score: 0.265447907366482
   length_score: 100
   category_score: 100
+  rank: 7
+- slug: justified
+  title: JUSTIFIED
+  score: 63.081804480262115
+  llm_score: 70
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative

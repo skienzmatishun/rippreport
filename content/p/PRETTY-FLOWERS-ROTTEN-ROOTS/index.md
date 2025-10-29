@@ -38,38 +38,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 72.45407908005389
-  llm_score: 95
-  recency_score: 15.95151402035018
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 71.45459584424864
-  llm_score: 85
-  recency_score: 49.45487298761609
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 68.62168400303118
-  llm_score: 85
+  score: 74.77553015687732
+  llm_score: 95
   recency_score: 31.040946019702552
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 68.56963514609636
+  rank: 4
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 66.30023292620773
   llm_score: 85
-  recency_score: 30.702628449626225
+  recency_score: 15.95151402035018
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
   score: 66.22086273866911
@@ -77,7 +61,15 @@ related_articles:
   recency_score: 15.435607801349112
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 65.30074969040248
+  llm_score: 75
+  recency_score: 49.45487298761609
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
   score: 63.95900331481831
@@ -85,11 +77,19 @@ related_articles:
   recency_score: 0.7335215463189301
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 63.85404530347247
+  llm_score: 85
+  recency_score: 0.051294472570959884
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: all-mouth
   title: ALL MOUTH
-  score: 59.48314463724196
-  llm_score: 75
+  score: 56.40622156031888
+  llm_score: 70
   recency_score: 11.640440142072652
   length_score: 100
   category_score: 0

@@ -36,19 +36,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 95.25084759264634
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 95.67038766702034
   llm_score: 95
-  recency_score: 89.13050935220119
+  recency_score: 91.85751983563217
   length_score: 100
   category_score: 100
   rank: 4
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 89.51654151317419
-  llm_score: 85
-  recency_score: 91.85751983563217
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 94.06548962615224
+  llm_score: 95
+  recency_score: 81.42568256998956
   length_score: 100
   category_score: 100
   rank: 5
@@ -60,14 +60,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 6
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 87.9116434723061
-  llm_score: 85
-  recency_score: 81.42568256998956
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: bcso-culture
   title: BCSO CULTURE
   score: 85.70263869238651
@@ -75,7 +67,7 @@ related_articles:
   recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 7
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 82.56533498193444
@@ -83,7 +75,7 @@ related_articles:
   recency_score: 6.674677382573833
   length_score: 100
   category_score: 100
-  rank: 9
+  rank: 8
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 78.12292448108163
@@ -91,6 +83,14 @@ related_articles:
   recency_score: 17.799009127030544
   length_score: 100
   category_score: 100
+  rank: 9
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 68.11428570730418
+  llm_score: 85
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.

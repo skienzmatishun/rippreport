@@ -9,74 +9,84 @@ authors:
 - admin
 alttags: Alabama Attorney General Steve Marshall testifies against ESG investing before Congress, per Backstory Podcast
 related_articles:
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 53.3241925280596
-  llm_score: 70
-  recency_score: 21.62096264029795
+- slug: bad-faith
+  title: Bad Faith
+  score: 72.78468688044195
+  llm_score: 75
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 53.001977875337104
+- slug: im-back-2
+  title: I'M BACK
+  score: 72.70221506880374
   llm_score: 75
-  recency_score: 2.5098893766854844
+  recency_score: 97.56439794722424
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 49.98488870843333
-  llm_score: 70
-  recency_score: 4.924443542166608
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 61.01860963696893
+  llm_score: 75
+  recency_score: 21.62096264029795
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 49.76536089038795
-  llm_score: 65
-  recency_score: 21.326804451939722
+- slug: bsp-128
+  title: Big News
+  score: 54.76770387247689
+  llm_score: 61
+  recency_score: 36.990075171099754
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 49.72266054819132
-  llm_score: 70
-  recency_score: 3.6133027409565597
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 54.20412376183689
+  llm_score: 64
+  recency_score: 21.326804451939722
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 49.49650678128899
-  llm_score: 70
-  recency_score: 2.48253390644493
-  category_score: 0
-  rank: 6
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 49.39664464425727
-  llm_score: 65
+  score: 53.3051112648133
+  llm_score: 63
   recency_score: 19.483223221286327
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 50.68962060099154
+  llm_score: 63
+  recency_score: 2.48253390644493
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 46.088431284028815
-  llm_score: 65
-  recency_score: 2.9421564201440202
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 19.230742274112146
+  llm_score: 0
+  recency_score: 49.99982478172893
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 46.06473933170037
-  llm_score: 65
-  recency_score: 2.82369665850184
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 14.383841964950724
+  llm_score: 0
+  recency_score: 18.4949727721797
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 46.060116661860064
-  llm_score: 65
-  recency_score: 2.8005833093002686
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 11.991100987714464
+  llm_score: 0
+  recency_score: 2.9421564201440202
+  length_score: 100
   category_score: 0
   rank: 10
 ---

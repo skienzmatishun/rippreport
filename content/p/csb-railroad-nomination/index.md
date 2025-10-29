@@ -17,74 +17,84 @@ authors:
 - admin
 alttags: Council denies knowledge of property purchase; graphic shows a speech bubble crossed out
 related_articles:
-- slug: honeymoon
-  title: HONEYMOON
-  score: 84.02009294457453
-  llm_score: 92
-  recency_score: 98.10046472287257
+- slug: shut-up-2
+  title: SHUT UP
+  score: 75.25230365035553
+  llm_score: 100
+  recency_score: 14.139973727310823
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 61.71000007071323
-  llm_score: 85
-  recency_score: 11.05000035356611
+- slug: honeymoon
+  title: HONEYMOON
+  score: 72.78468688044195
+  llm_score: 75
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 55.02060612108392
-  llm_score: 75
-  recency_score: 12.603030605419562
+- slug: timeline
+  title: TIMELINE
+  score: 66.98648077885899
+  llm_score: 85
+  recency_score: 20.412125062583367
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
-  score: 53.313013591002836
-  llm_score: 75
+  score: 65.08693353154065
+  llm_score: 86
   recency_score: 4.065067955014141
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 53.083614683878814
-  llm_score: 75
-  recency_score: 2.9180734193940348
-  category_score: 0
-  rank: 5
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 52.772488698970996
-  llm_score: 75
-  recency_score: 1.3624434948549364
-  category_score: 0
-  rank: 6
-- slug: timeline
-  title: TIMELINE
-  score: 48.88242501251668
-  llm_score: 64
-  recency_score: 20.412125062583367
-  category_score: 0
-  rank: 7
 - slug: jack-ass
   title: JACK ASS
-  score: 46.03025104607292
-  llm_score: 65
+  score: 59.94634695851764
+  llm_score: 78
   recency_score: 2.651255230364558
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 59.631235477756874
+  llm_score: 75
+  recency_score: 12.603030605419562
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 58.141242064522174
+  llm_score: 75
+  recency_score: 2.9180734193940348
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 51.74806822997769
+  llm_score: 65
+  recency_score: 1.3624434948549364
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: pop-up-target
-  title: POP UP TARGET
-  score: 41.49078153074029
-  llm_score: 57
-  recency_score: 7.953907653701443
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 17.905766061715195
+  llm_score: 0
+  recency_score: 41.38747940114875
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: shut-up-2
-  title: SHUT UP
-  score: 40.62799474546217
-  llm_score: 54
-  recency_score: 14.139973727310823
+- slug: pop-up-target
+  title: POP UP TARGET
+  score: 12.762139639030991
+  llm_score: 0
+  recency_score: 7.953907653701443
+  length_score: 100
   category_score: 0
   rank: 10
 ---

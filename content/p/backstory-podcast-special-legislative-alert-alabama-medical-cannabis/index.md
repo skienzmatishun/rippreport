@@ -12,74 +12,84 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 78.74740235768715
-  llm_score: 85
-  recency_score: 96.23701178843567
+- slug: 4-20
+  title: 4-20
+  score: 62.47904954597772
+  llm_score: 74
+  recency_score: 35.11382204885514
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-79-ole-peg-gy
-  title: Backstory Podcast No 79 'Ole Peg-gy
-  score: 78.12490003199702
-  llm_score: 85
-  recency_score: 93.12450015998506
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 58.05189568255493
+  llm_score: 75
+  recency_score: 2.337321936606922
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 72.44192790244709
-  llm_score: 95
-  recency_score: 29.70963951223547
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 51.952710709609136
+  llm_score: 63
+  recency_score: 10.692619612459277
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 65.09790190617431
-  llm_score: 90
+  score: 27.30607838936486
+  llm_score: 23
   recency_score: 10.489509530871569
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 59.896212487241286
-  llm_score: 65
-  recency_score: 71.98106243620636
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 26.344155659759338
+  llm_score: 0
+  recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 55.31001209429963
-  llm_score: 65
-  recency_score: 49.0500604714981
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 22.61247114403175
+  llm_score: 0
+  recency_score: 71.98106243620636
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 52.96746438732139
-  llm_score: 75
-  recency_score: 2.337321936606922
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 19.084624687922787
+  llm_score: 0
+  recency_score: 49.0500604714981
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: 4-20
-  title: 4-20
-  score: 52.522764409771035
-  llm_score: 65
-  recency_score: 35.11382204885514
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 17.61600686821549
+  llm_score: 0
+  recency_score: 39.504044643400675
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 46.06784228727634
-  llm_score: 65
-  recency_score: 2.839211436381685
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 16.109175309574688
+  llm_score: 0
+  recency_score: 29.70963951223547
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 41.948069296869456
-  llm_score: 45
-  recency_score: 52.24034648434724
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 11.975263297904874
+  llm_score: 0
+  recency_score: 2.839211436381685
+  length_score: 100
   category_score: 0
   rank: 10
 ---

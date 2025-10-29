@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Burning pants symbolize corruption and deceit by Alabama legislators detailed in this article
 related_articles:
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 91.67392032634467
-  llm_score: 90
-  recency_score: 98.36960163172333
-  rank: 1
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 78.85171781564505
-  llm_score: 90
-  recency_score: 34.2585890782252
-  rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 74.0468053642823
-  llm_score: 90
-  recency_score: 10.234026821411552
-  rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 73.8823686763237
-  llm_score: 92
-  recency_score: 1.4118433816184552
-  rank: 4
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 73.81435906578825
-  llm_score: 90
-  recency_score: 9.071795328941251
-  rank: 5
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 70.15617326362458
-  llm_score: 85
-  recency_score: 10.780866318122923
-  rank: 6
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 68.81078920500241
-  llm_score: 85
-  recency_score: 4.053946025012058
-  rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 68.59654744980851
-  llm_score: 85
+  score: 70.45888265369886
+  llm_score: 95
   recency_score: 2.9827372490425272
-  rank: 8
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 64.33648583250483
-  llm_score: 80
-  recency_score: 1.6824291625241752
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65.4206195109864
+  llm_score: 85
+  recency_score: 10.234026821411552
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 65.24181466599097
+  llm_score: 85
+  recency_score: 9.071795328941251
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 64.1960238417167
+  llm_score: 85
+  recency_score: 2.274154971158409
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 56.30056311965314
-  llm_score: 65
+  score: 61.000433168963966
+  llm_score: 75
   recency_score: 21.50281559826569
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 58.31599169615572
+  llm_score: 75
+  recency_score: 4.053946025012058
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 16.80901370434234
+  llm_score: 0
+  recency_score: 34.2585890782252
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 11.755668212556685
+  llm_score: 0
+  recency_score: 1.4118433816184552
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 11.700922600781038
+  llm_score: 0
+  recency_score: 1.0559969050767497
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County legislators are having a field day under, puppet Governor, Poison Ivy. Goat Hill is throwing one bill after another in the pot of corruption. The whole time they are playing the Alabama citizens as patsies. Your elected officials are testing the gullibility of the citizens of the State.

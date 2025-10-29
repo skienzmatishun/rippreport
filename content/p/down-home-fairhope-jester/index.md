@@ -10,72 +10,82 @@ authors:
 related_articles:
 - slug: the-jester
   title: THE JESTER
-  score: 83.32943663570214
-  llm_score: 95
+  score: 86.02264356592472
+  llm_score: 100
   recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 77.81205826488139
-  llm_score: 95
-  recency_score: 56.56029132440696
-  category_score: 0
-  rank: 2
 - slug: going-down
   title: GOING DOWN
-  score: 77.67127158449027
-  llm_score: 85
+  score: 74.74713198806944
+  llm_score: 80
   recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 73.36415827058164
+  llm_score: 100
+  recency_score: 1.867028758780569
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 77.09217832844679
-  llm_score: 95
-  recency_score: 52.96089164223393
-  category_score: 0
-  rank: 4
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 64.56892890441665
-  llm_score: 85
-  recency_score: 25.34464452208322
-  category_score: 0
-  rank: 5
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 60.02063128395771
+  score: 63.47740867996748
   llm_score: 75
   recency_score: 37.60315641978851
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 20.240044819139534
+  llm_score: 0
+  recency_score: 56.56029132440696
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 19.686291021882145
+  llm_score: 0
+  recency_score: 52.96089164223393
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 53.166254492476675
-  llm_score: 65
+  score: 17.435580378828206
+  llm_score: 0
   recency_score: 38.33127246238332
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 50.916550190464136
-  llm_score: 70
-  recency_score: 9.582750952320627
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 15.913143236860472
+  llm_score: 0
+  recency_score: 28.435431039593066
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 45.873405751756124
-  llm_score: 65
-  recency_score: 1.867028758780569
+- slug: fairhope-jester-and-fly-creek
+  title: FAIRHOPE JESTER AND FLY CREEK
+  score: 15.437637618782034
+  llm_score: 0
+  recency_score: 25.34464452208322
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: hate
   title: HATE
-  score: 45.646629074484856
-  llm_score: 62
+  score: 13.266637749603731
+  llm_score: 0
   recency_score: 11.233145372424257
+  length_score: 100
   category_score: 0
   rank: 10
 ---

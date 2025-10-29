@@ -15,65 +15,85 @@ authors:
 - admin
 alttags: Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions
 related_articles:
-- slug: s-o-s
-  title: S.O.S
-  score: 86.12155541422004
-  llm_score: 85
-  recency_score: 90.60777707110016
-  rank: 1
-- slug: invitation
-  title: INVITATION
-  score: 85.28693882755796
-  llm_score: 95
-  recency_score: 46.434694137789805
-  rank: 2
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 84.64601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
-  rank: 3
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 82.20034869269523
-  llm_score: 85
-  recency_score: 71.00174346347615
-  rank: 4
 - slug: howling-rains-passing-gas
   title: HOWLING RAINS PASSING GAS
-  score: 81.96882643931993
+  score: 74.59140495332304
   llm_score: 85
   recency_score: 69.84413219659965
-  rank: 5
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 77.67654461491676
-  llm_score: 85
-  recency_score: 48.38272307458382
-  rank: 6
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 77.33796583595118
-  llm_score: 85
-  recency_score: 46.6898291797559
-  rank: 7
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 77.1355247284506
-  llm_score: 85
-  recency_score: 45.67762364225301
-  rank: 8
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 60.406505370953056
-  llm_score: 75
-  recency_score: 2.032526854765281
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 59.13916117711129
-  llm_score: 65
+  score: 70.56858552085485
+  llm_score: 87
   recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 65.48218309890518
+  llm_score: 85
+  recency_score: 10.634190142883599
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65.13580354993599
+  llm_score: 75
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 54.80426676773953
+  llm_score: 70
+  recency_score: 1.2277339903068436
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: s-o-s
+  title: S.O.S
+  score: 25.478119549400027
+  llm_score: 0
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 24.34308566087865
+  llm_score: 0
+  recency_score: 83.23005679571122
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 22.70386547971357
+  llm_score: 0
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 18.72151218150091
+  llm_score: 0
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: survey
+  title: SURVEY
+  score: 16.43320824664146
+  llm_score: 0
+  recency_score: 31.81585360316948
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope is seeing the results of a Council and Mayor more dedicated to special interests than the majority of their constitutes.

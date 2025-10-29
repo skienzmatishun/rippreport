@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: 'I-10 bridge project: School buses framed by stacks of $100 bills, illustrating rising costs for Baldwin County residents'
 related_articles:
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 86.4219058668791
-  llm_score: 85
-  recency_score: 92.10952933439548
-  rank: 1
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX
-  score: 84.92190583576996
+  score: 76.86300448905382
   llm_score: 85
   recency_score: 84.60952917884977
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 73.93519903933613
+  llm_score: 85
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 81.89249424486937
-  llm_score: 85
+  score: 67.76345711143797
+  llm_score: 74
   recency_score: 69.4624712243468
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
-  score: 74.97910429894462
-  llm_score: 90
+  score: 59.98392638380356
+  llm_score: 75
   recency_score: 14.895521494723079
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 73.11575875113695
-  llm_score: 75
-  recency_score: 65.57879375568477
-  rank: 5
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 68.91717268686067
-  llm_score: 85
-  recency_score: 4.5858634343033176
-  rank: 6
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 67.27739791781717
-  llm_score: 75
-  recency_score: 36.386989589085836
-  rank: 7
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 61.582088757180514
-  llm_score: 75
-  recency_score: 7.9104437859025545
-  rank: 8
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 56.90469434070804
-  llm_score: 70
-  recency_score: 4.5234717035402
-  rank: 9
 - slug: no-mo-bridge
   title: NO MO BRIDGE
-  score: 54.82799474546216
-  llm_score: 65
+  score: 56.79076518881706
+  llm_score: 70
   recency_score: 14.139973727310823
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 54.69591872362158
+  llm_score: 69
+  recency_score: 4.5234717035402
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 25.709158359137767
+  llm_score: 0
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 21.816536056735117
+  llm_score: -1
+  recency_score: 70.80748436877823
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 12.755452890138855
+  llm_score: 0
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 12.277615952948587
+  llm_score: 0
+  recency_score: 4.804503694165815
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Get ready Baldwin County it is going to get a lot more expensive to live in Baldwin County.

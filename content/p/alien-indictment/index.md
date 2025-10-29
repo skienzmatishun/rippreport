@@ -9,74 +9,84 @@ authors:
 - admin
 alttags: 'Podcast cover art: Alien Indictment, featuring a vintage photo resembling recovered aerial vehicles & government insignia'
 related_articles:
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 68.60764360478439
+- slug: im-back-2
+  title: I'M BACK
+  score: 71.59382712786042
   llm_score: 75
-  recency_score: 80.5382180239219
+  recency_score: 90.35987633109261
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 60.74877842919905
-  llm_score: 65
+  score: 69.42213725323005
+  llm_score: 75
   recency_score: 76.2438921459952
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 60.16929657885297
-  llm_score: 85
-  recency_score: 3.346482894264831
+- slug: bsp-128
+  title: Big News
+  score: 62.96285985818851
+  llm_score: 75
+  recency_score: 34.2585890782252
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 59.964909943491286
-  llm_score: 85
-  recency_score: 2.3245497174563954
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 58.269936526627696
+  llm_score: 75
+  recency_score: 3.7545874230799345
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 53.01875554363629
-  llm_score: 75
-  recency_score: 2.5937777181814097
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 50.72690715980664
+  llm_score: 63
+  recency_score: 2.7248965387430797
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 51.8457612356931
-  llm_score: 65
-  recency_score: 31.72880617846543
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 23.928956619064913
+  llm_score: 0
+  recency_score: 80.5382180239219
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 50.06341528767955
-  llm_score: 70
-  recency_score: 5.31707643839769
+- slug: balloonapaloosa
+  title: Balloonapaloosa
+  score: 22.734497570104857
+  llm_score: 0
+  recency_score: 72.77423420568157
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 49.577253824207034
-  llm_score: 70
-  recency_score: 2.886269121035116
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 22.61247114403175
+  llm_score: 0
+  recency_score: 71.98106243620636
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 49.56319421821492
-  llm_score: 70
-  recency_score: 2.8159710910745517
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 16.41981633514853
+  llm_score: 0
+  recency_score: 31.72880617846543
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
-  score: 49.45984285557823
-  llm_score: 70
+  score: 11.892186811983247
+  llm_score: 0
   recency_score: 2.2992142778911093
+  length_score: 100
   category_score: 0
   rank: 10
 ---

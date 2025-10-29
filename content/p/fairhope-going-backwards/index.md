@@ -21,65 +21,85 @@ authors:
 - admin
 alttags: Fairhope city seal depicting a seagull, sun, water, and islands; referenced in discussion of local politics and elected of...
 related_articles:
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 95.72789538259508
-  llm_score: 95
-  recency_score: 98.63947691297537
+- slug: going-down
+  title: GOING DOWN
+  score: 79.72955027948227
+  llm_score: 100
+  recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 87.9452804719372
-  llm_score: 85
-  recency_score: 99.72640235968593
-  rank: 2
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 87.89071065521195
-  llm_score: 85
-  recency_score: 99.45355327605971
-  rank: 3
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 79.91650071517822
-  llm_score: 85
-  recency_score: 59.582503575891096
-  rank: 4
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 73.33977933106958
-  llm_score: 85
+  score: 77.1844456392843
+  llm_score: 100
   recency_score: 26.69889665534791
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 76.54277008720886
+  llm_score: 100
+  recency_score: 22.528005566857594
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 69.1051343932529
+  llm_score: 75
+  recency_score: 74.18337355614374
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 64.40357165751035
+  llm_score: 85
+  recency_score: 3.623215773817211
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 72.13256183242314
-  llm_score: 90
-  recency_score: 0.6628091621157032
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 63.963737577303334
+  llm_score: 85
+  recency_score: 0.7642942524715967
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 71.01193156417621
-  llm_score: 85
+  score: 63.08610120321248
+  llm_score: 80
   recency_score: 15.05965782088104
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 68.91968893408254
-  llm_score: 85
-  recency_score: 4.598444670412715
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 60.25581679417166
+  llm_score: 79
+  recency_score: 0.6628091621157032
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 68.15285885049433
-  llm_score: 85
-  recency_score: 0.7642942524715967
-  rank: 9
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 68.13329019231236
-  llm_score: 85
+  score: 57.794838609471064
+  llm_score: 75
   recency_score: 0.6664509615618259
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 13.81132220122442
+  llm_score: 0
+  recency_score: 14.773594307958726
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 In 2016 I backed Karin Wilson and the current city council, which includes Burrell Boone and Brown. I got one out of four right, Karin Wilson. I was wrong in trusting Burrell, Boone or Brown but I wanted to believe them when they said that they were independent individuals with only Fairhope’s best interest at heart. What total BS that turned out to be, all three have betrayed Fairhope and used their elected office for personal gain.

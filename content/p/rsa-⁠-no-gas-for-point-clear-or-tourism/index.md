@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management
 related_articles:
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 72.19614691902797
-  llm_score: 70
-  recency_score: 80.98073459513984
+- slug: hell-yea
+  title: HELL YEA
+  score: 77.90707115529658
+  llm_score: 98
+  recency_score: 39.39596250942772
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 70.82799474546216
-  llm_score: 85
-  recency_score: 14.139973727310823
-  rank: 2
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 68.64841536332693
-  llm_score: 75
-  recency_score: 43.242076816634636
-  rank: 3
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'
-  score: 62.069359466397685
-  llm_score: 75
+  score: 74.66873805107515
+  llm_score: 100
   recency_score: 10.34679733198841
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 66.6355862916464
+  llm_score: 75
+  recency_score: 58.1313108957015
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 59.86768826574014
+  llm_score: 75
+  recency_score: 14.139973727310823
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 52.74308822003385
+  llm_score: 57
+  recency_score: 39.83007343021991
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 38.15088224540614
+  llm_score: 23
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 37.71496125008129
+  llm_score: 23
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: shut-up-2
   title: SHUT UP
-  score: 61.11575875113695
-  llm_score: 60
+  score: 35.78135288548997
+  llm_score: 23
   recency_score: 65.57879375568477
-  rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 57.74130770081151
-  llm_score: 70
-  recency_score: 8.706538504057539
-  rank: 6
-- slug: its-no-joke
-  title: IT’S NO JOKE
-  score: 55.21663252706894
-  llm_score: 65
-  recency_score: 16.083162635344685
-  rank: 7
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 54.60485264964664
-  llm_score: 65
-  recency_score: 13.024263248233176
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 52.950427810500365
-  llm_score: 65
-  recency_score: 4.7521390525018266
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 18.191088741020714
+  llm_score: 0
+  recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 52.49786893895783
-  llm_score: 65
-  recency_score: 2.489344694789157
+- slug: shut-up
+  title: SHUT UP
+  score: 12.785833917406189
+  llm_score: 0
+  recency_score: 8.107920463140223
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Several weeks ago Lagniappe published the story below:

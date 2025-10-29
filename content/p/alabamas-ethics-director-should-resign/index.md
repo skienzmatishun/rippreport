@@ -7,74 +7,84 @@ youtube: ZpyCDG50Lhk
 authors:
 - admin
 related_articles:
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 81.17127158449027
-  llm_score: 90
-  recency_score: 90.85635792245131
-  category_score: 0
-  rank: 1
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 76.85448470843464
-  llm_score: 90
+  score: 80.65729592956511
+  llm_score: 95
   recency_score: 69.27242354217314
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 78.43943968037713
+  llm_score: 86
+  recency_score: 90.85635792245131
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 76.66599124538808
-  llm_score: 90
-  recency_score: 68.3299562269404
-  category_score: 0
-  rank: 3
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 74.15008797921179
-  llm_score: 100
-  recency_score: 20.750439896058943
-  category_score: 0
-  rank: 4
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 73.41948362581485
-  llm_score: 90
-  recency_score: 52.09741812907417
-  category_score: 0
-  rank: 5
 - slug: ethical-recusal
   title: Ethical Recusal
-  score: 68.23834833895516
-  llm_score: 90
+  score: 72.18334487611936
+  llm_score: 92
   recency_score: 26.19174169477578
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 66.83311381355976
-  llm_score: 90
-  recency_score: 19.165569067798774
+  rank: 3
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 69.39960278908835
+  llm_score: 81
+  recency_score: 52.09741812907417
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 66.76030246445875
-  llm_score: 90
-  recency_score: 18.801512322293714
+  rank: 4
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 61.500067676316775
+  llm_score: 76
+  recency_score: 20.750439896058943
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 61.69191013062845
-  llm_score: 85
+  score: 59.37839240817574
+  llm_score: 75
   recency_score: 10.959550653142209
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 49.32384867816386
+  llm_score: 57
+  recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 20.819993265683138
+  llm_score: -2
+  recency_score: 68.3299562269404
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 14.487010625815197
+  llm_score: 0
+  recency_score: 19.165569067798774
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 45.58885885361246
-  llm_score: 65
+  score: 11.606814502778807
+  llm_score: 0
   recency_score: 0.44429426806224154
+  length_score: 100
   category_score: 0
   rank: 10
 ---

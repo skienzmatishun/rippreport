@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: 'Don’t delay: Baldwin County primary election reminder—all affiliations can vote tomorrow despite local apathy'
 related_articles:
-- slug: win-for-baldwin
-  title: WIN FOR BALDWIN
-  score: 90.4219058668791
-  llm_score: 90
-  recency_score: 92.10952933439548
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 73.38791079666989
+  llm_score: 100
+  recency_score: 2.02142017835421
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 72.30321631347131
-  llm_score: 90
-  recency_score: 1.5160815673565506
-  rank: 2
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 71.38850834319712
-  llm_score: 85
-  recency_score: 16.942541715985588
-  rank: 3
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 68.49650678128899
-  llm_score: 85
-  recency_score: 2.48253390644493
-  rank: 4
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 68.3869448100167
-  llm_score: 85
-  recency_score: 1.9347240500835032
-  rank: 5
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 68.37959465684742
-  llm_score: 85
+  score: 65.36891896680572
+  llm_score: 87
   recency_score: 1.8979732842370982
-  rank: 6
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 68.28469907863587
-  llm_score: 85
-  recency_score: 1.42349539317937
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: press-release
+  title: PRESS RELEASE
+  score: 65.25755255879673
+  llm_score: 69
+  recency_score: 73.17409163217867
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: qualification
   title: QUALIFICATION
-  score: 68.26008845874951
+  score: 64.0462218913458
   llm_score: 85
   recency_score: 1.3004422937475715
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 59.15632024113179
+  llm_score: 77
+  recency_score: 1.5160815673565506
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 55.61269752406846
+  llm_score: 71
+  recency_score: 2.48253390644493
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 51.968141689146314
+  llm_score: 65
+  recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 14.22475548764361
+  llm_score: 0
+  recency_score: 17.460910669683468
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: say-goodbye-incumbents
-  title: SAY GOODBYE INCUMBENTS
-  score: 68.21062154449254
-  llm_score: 85
-  recency_score: 1.05310772246267
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 14.137874972560219
+  llm_score: 0
+  recency_score: 16.896187321641428
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 68.13292551349143
-  llm_score: 85
-  recency_score: 0.6646275674571428
+- slug: missed-the-boat
+  title: MISSED THE BOAT
+  score: 11.83611139232054
+  llm_score: 0
+  recency_score: 1.9347240500835032
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Tomorrow a very few people in Baldwin County will vote in the primary election. Everyone is encouraged to vote. In the primary all party affiliations can vote. So don’t use the excuse that you are Independent or Democrat. VOTE.

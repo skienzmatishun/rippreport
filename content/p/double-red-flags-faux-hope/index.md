@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX and HOPE, referencing financial concerns in ...
 related_articles:
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 81.79061318606567
-  llm_score: 95
-  recency_score: 76.45306593032835
-  category_score: 0
-  rank: 1
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 72.96863524410352
-  llm_score: 95
-  recency_score: 32.34317622051765
-  category_score: 0
-  rank: 2
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 72.61575875113697
+  score: 73.93519903933613
   llm_score: 85
   recency_score: 65.57879375568477
+  length_score: 100
   category_score: 0
-  rank: 3
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 71.5478106964193
-  llm_score: 85
-  recency_score: 60.23905348209645
-  category_score: 0
-  rank: 4
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 66.6391611771113
-  llm_score: 85
-  recency_score: 35.69580588555647
-  category_score: 0
-  rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 64.5274372224072
-  llm_score: 85
-  recency_score: 25.13718611203594
-  category_score: 0
-  rank: 6
+  rank: 1
 - slug: s-o-s
   title: S.O.S
-  score: 63.32610187044025
-  llm_score: 65
+  score: 68.94315528495403
+  llm_score: 71
   recency_score: 89.13050935220119
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 60.10976680282934
+  rank: 2
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 68.82202711084888
   llm_score: 85
-  recency_score: 3.0488340141466597
+  recency_score: 32.34317622051765
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 50.055249110868225
-  llm_score: 65
+  score: 61.81173008528326
+  llm_score: 76
   recency_score: 22.77624555434108
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 23.30047168158898
+  llm_score: 0
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 20.80600822801484
+  llm_score: 0
+  recency_score: 60.23905348209645
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 17.030123982393306
+  llm_score: 0
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 15.480603314014223
+  llm_score: 0
+  recency_score: 25.623921541092447
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 47.217616807525836
-  llm_score: 65
+  score: 12.85970523655833
+  llm_score: 0
   recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 12.007512925253332
+  llm_score: 0
+  recency_score: 3.0488340141466597
+  length_score: 100
   category_score: 0
   rank: 10
 ---

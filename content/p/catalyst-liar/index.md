@@ -15,74 +15,84 @@ authors:
 - admin
 alttags: Fairhope Council President Jack Burrell wearing a hard hat, criticized for neglecting infrastructure repairs despite sewer...
 related_articles:
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 79.17392032634467
-  llm_score: 85
-  recency_score: 98.36960163172333
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 80.91815069738422
+  llm_score: 100
+  recency_score: 50.96797953299731
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 73.35448470843464
-  llm_score: 85
-  recency_score: 69.27242354217314
-  category_score: 0
-  rank: 2
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 70.37500746908162
-  llm_score: 75
-  recency_score: 89.37503734540803
-  category_score: 0
-  rank: 3
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 68.53595596770666
-  llm_score: 85
+  score: 80.02765843669744
+  llm_score: 100
   recency_score: 45.179779838533264
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 74.73869420342982
+  llm_score: 98
+  recency_score: 18.801512322293714
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 67.03633989192106
+  llm_score: 75
+  recency_score: 60.73620929748681
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: catalyst
   title: CATALYST
-  score: 64.03035710133457
-  llm_score: 85
+  score: 63.02335161641121
+  llm_score: 78
   recency_score: 22.65178550667279
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 63.26030246445875
-  llm_score: 85
-  recency_score: 18.801512322293714
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 60.665451979031786
-  llm_score: 65
-  recency_score: 75.82725989515886
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 25.28846728390893
+  llm_score: 0
+  recency_score: 89.37503734540803
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 60.490300171276445
-  llm_score: 85
-  recency_score: 4.951500856382183
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 23.332740550658407
+  llm_score: 0
+  recency_score: 76.66281357927963
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: pied-piper
-  title: PIED PIPER
-  score: 59.619628600592506
-  llm_score: 75
-  recency_score: 35.59814300296249
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 22.195757468026642
+  llm_score: 0
+  recency_score: 69.27242354217314
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 59.19359590659947
-  llm_score: 70
-  recency_score: 50.96797953299731
+- slug: pied-piper
+  title: PIED PIPER
+  score: 15.78432969276346
+  llm_score: -2
+  recency_score: 35.59814300296249
+  length_score: 100
   category_score: 0
   rank: 10
 ---

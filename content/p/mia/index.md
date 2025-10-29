@@ -11,8 +11,8 @@ alttags: Bald eagle in a cage with bandages, symbolizing restricted access to on
 related_articles:
 - slug: notice
   title: 'NOTICE:'
-  score: 69.13644528365712
-  llm_score: 75
+  score: 75.29029143750327
+  llm_score: 85
   recency_score: 74.38689434377122
   length_score: 100
   category_score: 0
@@ -33,59 +33,59 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 58.12791437244436
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 57.70712680593147
   llm_score: 75
-  recency_score: 2.8314434208882173
+  recency_score: 0.096324238554458
   length_score: 100
   category_score: 0
   rank: 4
-- slug: m-i-a
-  title: M.I.A
-  score: 57.90422407618983
-  llm_score: 75
-  recency_score: 1.3774564952337773
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
-  score: 57.80829166964831
-  llm_score: 75
+  score: 54.11598397734062
+  llm_score: 69
   recency_score: 0.7538958527139179
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 54.00900056786657
+  llm_score: 69
+  recency_score: 0.058503691132646064
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: im-back
-  title: I'M BACK
-  score: 57.71766087088868
-  llm_score: 75
-  recency_score: 0.1647956607763347
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.609487189660626
-  llm_score: 65
-  recency_score: 0.46166673279399395
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 51.54474790698071
-  llm_score: 65
+  score: 54.00628636851918
+  llm_score: 69
   recency_score: 0.04086139537457567
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: im-back
+  title: I'M BACK
+  score: 48.486891640119445
+  llm_score: 60
+  recency_score: 0.1647956607763347
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: m-i-a
+  title: M.I.A
+  score: 42.51960869157443
+  llm_score: 50
+  recency_score: 1.3774564952337773
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 11.5474621063281
-  llm_score: 0
-  recency_score: 0.058503691132646064
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 42.37871795889139
+  llm_score: 50
+  recency_score: 0.46166673279399395
   length_score: 100
   category_score: 0
   rank: 10

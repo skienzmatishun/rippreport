@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Handshake graphic symbolizing a “favor for a favor” deal, referencing concerns about local council decisions
 related_articles:
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 82.75560018832756
-  llm_score: 85
-  recency_score: 73.7780009416378
+- slug: honey-bees
+  title: HONEY BEES
+  score: 80.16930226505734
+  llm_score: 87
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: back-stabber
-  title: BACK STABBER
-  score: 74.79563312750165
-  llm_score: 85
-  recency_score: 33.97816563750821
-  rank: 2
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 73.38384878757476
-  llm_score: 85
-  recency_score: 26.919243937873805
-  rank: 3
 - slug: documents
   title: DOCUMENTS
-  score: 71.56641283325074
-  llm_score: 65
+  score: 78.89724064096211
+  llm_score: 85
   recency_score: 97.83206416625366
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: scratch-my-back-i-scratch-yours
   title: SCRATCH MY BACK, I SCRATCH YOURS
-  score: 70.25279266204939
-  llm_score: 85
+  score: 74.80984050926877
+  llm_score: 100
   recency_score: 11.263963310246938
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 69.0427693756366
+  llm_score: 75
+  recency_score: 73.7780009416378
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 22.491774693015714
+  llm_score: 0
+  recency_score: 71.19653550460211
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: back-stabber
+  title: BACK STABBER
+  score: 16.76587163653973
+  llm_score: 0
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 15.064499067365201
+  llm_score: -1
+  recency_score: 26.919243937873805
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: recuse-yourself
   title: RECUSE YOURSELF
-  score: 69.7129174484708
-  llm_score: 85
+  score: 12.85609034497754
+  llm_score: 0
   recency_score: 8.564587242354007
-  rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 69.58642919000962
-  llm_score: 85
-  recency_score: 7.932145950048156
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: conflict-of-interest
   title: CONFLICT OF INTEREST
-  score: 69.36078404958211
-  llm_score: 85
+  score: 12.58521849967854
+  llm_score: 0
   recency_score: 6.803920247910508
-  rank: 8
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 57.44929138837351
-  llm_score: 70
-  recency_score: 7.246456941867555
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: re-gift-gift
-  title: RE-GIFT GIFT ??
-  score: 53.789674291816674
-  llm_score: 65
-  recency_score: 8.948371459083383
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 12.076375503201977
+  llm_score: 0
+  recency_score: 3.4964407708128533
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something. The Council and the Single tax Colony are willing to ignore the 2400 plus people who have already signed a petition opposing development of the gully.

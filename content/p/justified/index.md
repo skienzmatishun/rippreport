@@ -21,6 +21,14 @@ authors:
 - ripp-report
 alttags: Traffic stop footage shows a man in a car and an officer; related to the O.J. French killing lawsuit
 related_articles:
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 86.96260260570139
+  llm_score: 89
+  recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 86.28940978606195
@@ -28,20 +36,12 @@ related_articles:
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 100
-  rank: 1
+  rank: 2
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 86.17453733970292
   llm_score: 89
   recency_score: 54.13449270806896
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.04469815508408
-  llm_score: 89
-  recency_score: 27.29053800804651
   length_score: 100
   category_score: 100
   rank: 3
@@ -53,11 +53,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: rumors
-  title: RUMORS
-  score: 79.24564363703526
-  llm_score: 89
-  recency_score: 9.096683640729124
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 79.58315969354562
+  llm_score: 85
+  recency_score: 27.29053800804651
   length_score: 100
   category_score: 100
   rank: 5
@@ -69,27 +69,27 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 78.34162386730026
+  llm_score: 89
+  recency_score: 3.2205551374516284
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: rumors
+  title: RUMORS
+  score: 76.78410517549679
+  llm_score: 85
+  recency_score: 9.096683640729124
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
   score: 76.01708791959574
   llm_score: 89
   recency_score: 63.11107147737226
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 75.88008540576179
-  llm_score: 85
-  recency_score: 3.2205551374516284
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 75.54988320818799
-  llm_score: 89
-  recency_score: 60.07424085322191
   length_score: 100
   category_score: 0
   rank: 9

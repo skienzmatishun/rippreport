@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations
 related_articles:
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 95.83629014021759
-  llm_score: 95
-  recency_score: 99.18145070108791
-  rank: 1
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 2
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 3
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 86.0
-  llm_score: 95
+  score: 92.30769230769232
+  llm_score: 100
   recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: no-justice
+  title: NO JUSTICE
+  score: 83.07692307692308
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 68.46153846153847
+  llm_score: 80
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 67.23076923076924
+  llm_score: 78
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 86.0
-  llm_score: 95
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 63.384615384615394
+  llm_score: 53
   recency_score: 50
+  length_score: 100
+  category_score: 100
   rank: 5
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 82.0
-  llm_score: 90
+  score: 54.30769230769232
+  llm_score: 57
   recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 82.0
-  llm_score: 90
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 44.92307692307693
+  llm_score: 23
   recency_score: 50
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 78.0
-  llm_score: 85
-  recency_score: 50
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 40.950992415551994
+  llm_score: 23
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.0
-  llm_score: 85
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 30.769230769230774
+  llm_score: 0
   recency_score: 50
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 78.0
-  llm_score: 85
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 19.230769230769234
+  llm_score: 0
   recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.

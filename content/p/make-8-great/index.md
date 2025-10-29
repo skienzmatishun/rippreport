@@ -11,45 +11,85 @@ authors:
 - admin
 alttags: Map highlighting proposed Planning District 8, potentially avoiding annexation issues faced by Fairhope’s African American...
 related_articles:
-- slug: vote-yes-today
-  title: Vote YES Today
-  score: 85
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 75.69061896658458
+  llm_score: 100
+  recency_score: 16.989023282799735
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 75
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 74.24811918750103
+  llm_score: 100
+  recency_score: 7.612774718756618
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75
+  score: 73.8040263298973
+  llm_score: 100
+  recency_score: 4.726171144332342
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 70
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 63.932904772428536
+  llm_score: 85
+  recency_score: 0.5638810207853779
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 65
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 55.40046084614399
+  llm_score: 70
+  recency_score: 5.102995499935887
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 65
+  score: 48.51155543818519
+  llm_score: 65
+  recency_score: 5.075110348203666
+  length_score: 67.0
+  category_score: 0
   rank: 6
-- slug: skunked
-  title: SKUNKED
-  score: 65
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 27.656180994286316
+  llm_score: 25
+  recency_score: 4.7651764628610165
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 65
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 26.034592730865192
+  llm_score: 23
+  recency_score: 2.224852750623742
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 65
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 11.87516596733554
+  llm_score: 0
+  recency_score: 2.1885787876810134
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 65
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 11.866066409122382
+  llm_score: 0
+  recency_score: 2.1294316592954887
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The new proposed planning district 8, is long overdue. For many years Fairhope has had a policy of annexing property, only if a property owner made a request. This was a clever way for Fairhope to avoid any annexation of the African American community. Don’t believe me! Look very carefully at the map, it is clear as day.

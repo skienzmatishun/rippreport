@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring a pelican, sun, water drops, and a reference to alleged corruption within its council
 related_articles:
-- slug: rotten
-  title: ROTTEN
-  score: 87.29061318606567
-  llm_score: 90
-  recency_score: 76.45306593032835
+- slug: survey
+  title: SURVEY
+  score: 76.82739069285164
+  llm_score: 85
+  recency_score: 84.37803950353559
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 84.65619237382862
-  llm_score: 100
-  recency_score: 23.280961869143056
-  rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 83.5866878197373
-  llm_score: 85
-  recency_score: 77.93343909868652
-  rank: 3
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 79.25024389308274
-  llm_score: 85
-  recency_score: 56.25121946541366
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 76.2304468087236
-  llm_score: 90
-  recency_score: 21.152234043618023
-  rank: 5
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 76.2304468087236
-  llm_score: 90
-  recency_score: 21.152234043618023
-  rank: 6
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 68.73747273054873
-  llm_score: 65
+  score: 76.72113286965288
+  llm_score: 85
   recency_score: 83.68736365274363
-  rank: 7
-- slug: s-o-s
-  title: S.O.S
-  score: 58.832971677380456
-  llm_score: 65
-  recency_score: 34.164858386902274
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: rotten
+  title: ROTTEN
+  score: 74.99277937389668
+  llm_score: 84
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 60.94649754517202
+  llm_score: 75
+  recency_score: 21.152234043618023
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 60.65860951832971
+  llm_score: 74
+  recency_score: 23.280961869143056
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 55.9939206577845
-  llm_score: 65
+  score: 60.14916973675732
+  llm_score: 74
   recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 28.946497545172008
+  llm_score: 23
+  recency_score: 21.152234043618023
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 23.52822139979793
+  llm_score: 0
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 20.192495302371334
+  llm_score: 0
+  recency_score: 56.25121946541366
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: threesome
-  title: THREESOME
-  score: 55.053474793700985
-  llm_score: 65
-  recency_score: 15.267373968504938
+- slug: s-o-s
+  title: S.O.S
+  score: 16.794593597984967
+  llm_score: 0
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope. Yet people get riled up over a curfew meant to mitigate a virus that we know little about.

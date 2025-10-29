@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 81.17496869450072
-  llm_score: 95
-  recency_score: 73.37484347250358
-  category_score: 0
-  rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 79.29631106175715
-  llm_score: 95
-  recency_score: 63.98155530878573
-  category_score: 0
-  rank: 2
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
-  category_score: 0
-  rank: 3
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
-  category_score: 0
-  rank: 4
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
-  category_score: 0
-  rank: 5
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 75.14841536332693
-  llm_score: 95
+  score: 91.2680118179438
+  llm_score: 100
   recency_score: 43.242076816634636
-  category_score: 0
-  rank: 6
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 74.93777438120516
+  score: 88.02905721631167
   llm_score: 95
   recency_score: 42.18887190602582
-  category_score: 0
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: no-justice
+  title: NO JUSTICE
+  score: 83.3817777398132
+  llm_score: 82
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: innocent
   title: INNOCENT
-  score: 71.85442892225316
-  llm_score: 95
+  score: 63.04186840173321
+  llm_score: 77
   recency_score: 26.772144611265798
+  length_score: 100
   category_score: 0
-  rank: 8
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 69.32799474546216
-  llm_score: 95
-  recency_score: 14.139973727310823
-  category_score: 0
-  rank: 9
+  rank: 4
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 68.8796779187427
-  llm_score: 95
+  score: 24.907444552879003
+  llm_score: 0
   recency_score: 11.898389593713517
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 24.02153441958628
+  llm_score: -2
+  recency_score: 14.139973727310823
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 22.826898995769785
+  llm_score: 0
+  recency_score: 73.37484347250358
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 12.095879349818032
+  llm_score: 0
+  recency_score: 3.623215773817211
+  length_score: 100
   category_score: 0
   rank: 10
 ---

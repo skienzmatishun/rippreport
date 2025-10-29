@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: Diagram illustrating Alabama Port Authoritys proposed spoil disposal plan & timeline affecting wetlands habitat
 related_articles:
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 85.92404723937733
-  llm_score: 85
-  recency_score: 89.62023619688662
-  rank: 1
-- slug: priorities
-  title: Priorities
-  score: 82.20034869269523
-  llm_score: 85
-  recency_score: 71.00174346347615
-  rank: 2
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 82.08411183802811
-  llm_score: 85
-  recency_score: 70.42055919014051
-  rank: 3
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 81.89249424486937
+  score: 74.53268788066875
   llm_score: 85
   recency_score: 69.4624712243468
-  rank: 4
-- slug: water
-  title: Water
-  score: 79.28110874039773
-  llm_score: 85
-  recency_score: 56.40554370198863
-  rank: 5
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 77.94532047544666
-  llm_score: 85
-  recency_score: 49.72660237723329
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: lets-talk-about-the-bama-loss
   title: Let's Talk About The Bama Loss
-  score: 77.15530775847412
+  score: 70.88869827574933
   llm_score: 75
   recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 69.3900447163385
+  llm_score: 75
+  recency_score: 76.03529065620016
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: priorities
+  title: Priorities
+  score: 36.6156528405348
+  llm_score: 23
+  recency_score: 71.00174346347615
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 25.326190184136408
+  llm_score: 0
+  recency_score: 89.62023619688662
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 22.37239372156008
+  llm_score: 0
+  recency_score: 70.42055919014051
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 19.188708058035893
+  llm_score: 0
+  recency_score: 49.72660237723329
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 69.03751472310329
-  llm_score: 85
-  recency_score: 5.18757361551642
-  rank: 8
-- slug: wetlands
-  title: WETLANDS
-  score: 68.30739854159894
-  llm_score: 85
-  recency_score: 1.5369927079947032
-  rank: 9
 - slug: bad-faith
   title: Bad Faith
-  score: 64.77242977130582
-  llm_score: 75
+  score: 16.44033059331217
+  llm_score: 2
   recency_score: 23.862148856529085
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 12.336549787002527
+  llm_score: 0
+  recency_score: 5.18757361551642
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 11.750377922343658
+  llm_score: 0
+  recency_score: 1.3774564952337773
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 From the ill fated Alabama Port Authority "wetlands habitat/spoilage disposal" to allegations of a boat accident coverup by the City of Fairhope Police Department for a prominent Judge, Gambling America's Amazon (Alabama Power Company's cap-in-place of million of tons of Coal Ash in the Delta), the amphibious boat landing assault caught on video related to a local football coach (not guilty btw), a bridge battle at the beach, a mullet bonanza, and an initiative to protect a 10,000 year old cypress forest 30 miles offshore in 50 feet of water...this podcast has it all.

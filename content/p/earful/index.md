@@ -11,72 +11,82 @@ alttags: 'Podcast artwork: stylized ear graphic representing the Verbal Lynching
 related_articles:
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 89.40625209818191
-  llm_score: 100
+  score: 84.92788622937071
+  llm_score: 95
   recency_score: 97.03126049090956
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 89.14222555805995
-  llm_score: 100
+  score: 84.72478889081535
+  llm_score: 95
   recency_score: 95.71112779029973
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 80.0
-  llm_score: 100
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 80.0
-  llm_score: 100
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.07692307692308
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 80.0
-  llm_score: 100
+  llm_score: 80
   recency_score: 50
-  category_score: 0
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.0
-  llm_score: 100
-  recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 80.0
-  llm_score: 100
+- slug: rule-32
+  title: RULE 32
+  score: 76.92307692307693
+  llm_score: 75
   recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: no-justice
-  title: NO JUSTICE
-  score: 76.5
-  llm_score: 95
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 76.5
-  llm_score: 95
+- slug: no-justice
+  title: NO JUSTICE
+  score: 73.84615384615385
+  llm_score: 70
   recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 76.5
-  llm_score: 95
+- slug: innocent
+  title: INNOCENT
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 10
 ---

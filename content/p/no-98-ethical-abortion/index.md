@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 74.52312487593501
-  llm_score: 70
-  recency_score: 92.61562437967505
-  rank: 1
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 70.27111348555951
-  llm_score: 65
+  score: 77.90085652735348
+  llm_score: 85
   recency_score: 91.35556742779755
-  rank: 2
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 69.62860141581517
-  llm_score: 70
-  recency_score: 68.14300707907584
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: ethical-recusal
   title: Ethical Recusal
-  score: 69.10837124125831
-  llm_score: 65
+  score: 72.69874710866026
+  llm_score: 78
   recency_score: 85.54185620629158
-  rank: 4
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 60.78887733531245
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 71.94086528918079
   llm_score: 75
-  recency_score: 3.94438667656226
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 25.1759167082792
+  llm_score: 0
+  recency_score: 88.64345860381478
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 23.236198562492334
+  llm_score: 0
+  recency_score: 76.03529065620016
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 59.90733502067299
-  llm_score: 70
-  recency_score: 19.53667510336496
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 22.022001089088594
+  llm_score: 0
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 59.369991950365275
-  llm_score: 70
-  recency_score: 16.84995975182637
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 21.599903342065048
+  llm_score: 0
+  recency_score: 65.39937172342279
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 58.7141314643738
-  llm_score: 70
-  recency_score: 13.570657321869012
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 14.985369541302834
+  llm_score: 0
+  recency_score: 22.404902018468416
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.68454994448997
-  llm_score: 65
-  recency_score: 13.422749722449872
-  rank: 9
 - slug: bad-faith
   title: Bad Faith
-  score: 51.628730847975405
-  llm_score: 60
+  score: 14.329792959981082
+  llm_score: 0
   recency_score: 18.143654239877034
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 12.145290257932656
+  llm_score: 0
+  recency_score: 3.94438667656226
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 39.5 Million SARS-COV-2 infected in the USA with 643,00 deaths. The Delta variant has Gulf Coastal Hospitals are out of ICU beds and the Feds are in Foley helping out.

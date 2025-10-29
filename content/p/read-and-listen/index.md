@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Person reading a newspaper titled Lagniappe, referencing scrutiny of Fairhope City Council actions discussed in the article
 related_articles:
-- slug: documents
-  title: DOCUMENTS
-  score: 85.10837124125831
-  llm_score: 85
-  recency_score: 85.54185620629158
-  rank: 1
 - slug: 100-voices
   title: 100 VOICES
-  score: 78.6795960873464
+  score: 72.06122775949724
   llm_score: 85
   recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 65.12790821841465
+  llm_score: 87
+  recency_score: 0.3314034196950972
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: communication
-  title: COMMUNICATION
-  score: 77.11053014836325
-  llm_score: 85
-  recency_score: 45.55265074181627
-  rank: 3
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 73.38713313277998
-  llm_score: 90
-  recency_score: 6.935665663899902
-  rank: 4
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 72.75711484285412
-  llm_score: 90
-  recency_score: 3.7855742142706434
-  rank: 5
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 72.06520004474959
-  llm_score: 90
+  score: 57.74246157288432
+  llm_score: 75
   recency_score: 0.3260002237479753
-  rank: 6
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 69.342270268423
-  llm_score: 85
-  recency_score: 6.711351342114945
-  rank: 7
-- slug: back-stabber
-  title: BACK STABBER
-  score: 65.94192790244709
-  llm_score: 75
-  recency_score: 29.70963951223547
-  rank: 8
-- slug: hello-can-you-hear-me-now
-  title: HELLO CAN YOU HEAR ME NOW
-  score: 60.875434582915084
-  llm_score: 75
-  recency_score: 4.377172914575434
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: documents
+  title: DOCUMENTS
+  score: 24.698747108660246
+  llm_score: 0
+  recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 21.79472467852558
+  llm_score: 0
+  recency_score: 66.66571041041625
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 58.34576123569309
-  llm_score: 65
+  score: 16.41981633514853
+  llm_score: 0
   recency_score: 31.72880617846543
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: back-stabber
+  title: BACK STABBER
+  score: 16.109175309574688
+  llm_score: 0
+  recency_score: 29.70963951223547
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 12.570977129556145
+  llm_score: 0
+  recency_score: 6.711351342114945
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: shut-up
+  title: SHUT UP
+  score: 12.532123689580692
+  llm_score: 0
+  recency_score: 6.458803982274494
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: hello-can-you-hear-me-now
+  title: HELLO CAN YOU HEAR ME NOW
+  score: 12.211872756088528
+  llm_score: 0
+  recency_score: 4.377172914575434
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope City Council is really showing their colors.

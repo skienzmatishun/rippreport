@@ -10,74 +10,84 @@ authors:
 - admin
 alttags: Close-up portrait of a man, potentially related to concerns about Baldwin County Sheriff’s Office accountability
 related_articles:
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.7898528806295
-  llm_score: 91
-  recency_score: 95.44926440314748
-  category_score: 0
-  rank: 1
 - slug: no-justice
   title: NO JUSTICE
-  score: 81.83964342023084
-  llm_score: 92
+  score: 88.79972570786988
+  llm_score: 85
   recency_score: 87.19821710115417
-  category_score: 0
-  rank: 2
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 78.2866218911497
-  llm_score: 95
+  score: 84.4512476085767
+  llm_score: 85
   recency_score: 58.93310945574846
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 83.91527144663809
+  llm_score: 75
+  recency_score: 95.44926440314748
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 77.67496869450073
-  llm_score: 90
-  recency_score: 73.37484347250358
-  category_score: 0
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 82.1870611927249
+  llm_score: 92
+  recency_score: 16.215897752711804
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
-  category_score: 0
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 80.147079803671
+  llm_score: 85
+  recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 100
   rank: 5
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 76.5
+  score: 77.69230769230771
   llm_score: 95
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 70.35417482562934
-  llm_score: 95
-  recency_score: 19.270874128146687
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 75.1345913034621
+  llm_score: 85
+  recency_score: 73.37484347250358
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 69.74317955054237
-  llm_score: 95
-  recency_score: 16.215897752711804
-  category_score: 0
+  score: 72.19551909663797
+  llm_score: 75
+  recency_score: 19.270874128146687
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 69.19120374477231
-  llm_score: 90
-  recency_score: 30.95601872386148
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 60.0317057805419
-  llm_score: 85
+  score: 55.02438906195531
+  llm_score: 70
   recency_score: 2.658528902709438
+  length_score: 100
   category_score: 0
   rank: 10
 ---

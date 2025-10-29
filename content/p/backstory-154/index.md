@@ -9,74 +9,84 @@ authors:
 - admin
 alttags: WHO official speaks at a podium about ending Covid-19 pandemic restrictions next week
 related_articles:
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 63.05980182540612
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 64.30882368053834
   llm_score: 85
-  recency_score: 17.799009127030544
+  recency_score: 3.007353923499134
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 61.89275303933815
-  llm_score: 85
-  recency_score: 11.96376519669074
-  category_score: 0
-  rank: 2
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 61.87967791874271
-  llm_score: 85
-  recency_score: 11.898389593713517
-  category_score: 0
-  rank: 3
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 54.369870654682714
-  llm_score: 75
-  recency_score: 9.349353273413517
-  category_score: 0
-  rank: 4
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 54.126032880219064
-  llm_score: 75
-  recency_score: 8.130164401095277
-  category_score: 0
-  rank: 5
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 54.043555370933895
-  llm_score: 75
-  recency_score: 7.717776854669439
-  category_score: 0
-  rank: 6
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready
-  score: 51.69191496030062
-  llm_score: 70
+  score: 59.763011507923565
+  llm_score: 75
   recency_score: 13.459574801503088
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 50.56484545462026
-  llm_score: 70
-  recency_score: 7.82422727310126
+  rank: 2
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 59.20338079714824
+  llm_score: 75
+  recency_score: 9.821975181463475
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 58.329812388915286
+  llm_score: 75
+  recency_score: 4.143780527949273
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: bsp-128
+  title: Big News
+  score: 51.81688717707421
+  llm_score: 56
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 48.851930197166354
+  llm_score: 60
+  recency_score: 2.537546281581227
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 47.66802033974549
-  llm_score: 65
+  score: 27.360015645958065
+  llm_score: 23
   recency_score: 10.840101698727413
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: im-back-2
+  title: I'M BACK
+  score: 26.880984978413224
+  llm_score: 0
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 14.276770634927777
+  llm_score: 0
+  recency_score: 17.799009127030544
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 43.932367571674476
-  llm_score: 60
-  recency_score: 9.661837858372358
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 13.368983014417465
+  llm_score: 0
+  recency_score: 11.898389593713517
+  length_score: 100
   category_score: 0
   rank: 10
 ---

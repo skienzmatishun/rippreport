@@ -19,74 +19,84 @@ authors:
 - admin
 alttags: 'Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis'
 related_articles:
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 80.62789538259509
-  llm_score: 87
-  recency_score: 98.63947691297537
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 73.44753166151709
+  llm_score: 77
+  recency_score: 94.40895579986105
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 78.37127158449027
-  llm_score: 86
-  recency_score: 90.85635792245131
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 58.114982344826906
+  llm_score: 75
+  recency_score: 2.7473852413747677
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 78.12490003199702
-  llm_score: 85
+  score: 25.865307716920782
+  llm_score: 0
   recency_score: 93.12450015998506
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 76.23747273054873
-  llm_score: 85
-  recency_score: 83.68736365274363
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 25.516362757300204
+  llm_score: 0
+  recency_score: 90.85635792245131
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 65.1568431195879
-  llm_score: 75
-  recency_score: 63.2842155979395
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 24.413440561960563
+  llm_score: 0
+  recency_score: 83.68736365274363
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 61.91250054564075
-  llm_score: 85
-  recency_score: 12.0625027282037
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 21.27449470737531
+  llm_score: 0
+  recency_score: 63.2842155979395
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 61.427080659596186
-  llm_score: 85
-  recency_score: 9.635403297980877
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 13.620542819024811
+  llm_score: 0
+  recency_score: 13.53352832366127
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 55.14078108599944
-  llm_score: 75
-  recency_score: 13.203905429997187
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 13.394231188954416
+  llm_score: 0
+  recency_score: 12.0625027282037
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 54.27502492544821
-  llm_score: 75
-  recency_score: 8.875124627241007
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 13.358980189781079
+  llm_score: 0
+  recency_score: 11.833371233577015
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 46.04947704827496
-  llm_score: 65
-  recency_score: 2.7473852413747677
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 13.020831276612443
+  llm_score: 0
+  recency_score: 9.635403297980877
+  length_score: 100
   category_score: 0
   rank: 10
 ---

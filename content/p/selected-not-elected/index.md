@@ -18,65 +18,85 @@ authors:
 - admin
 alttags: Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials
 related_articles:
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 79.72221428196228
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 65.46879139292679
   llm_score: 85
-  recency_score: 58.61107140981138
+  recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 79.49954668641594
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 64.02398763000934
   llm_score: 85
-  recency_score: 57.49773343207967
+  recency_score: 1.155919595060642
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 76.24154340707243
-  llm_score: 95
-  recency_score: 1.2077170353621032
-  rank: 3
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 76.23760528730483
-  llm_score: 95
-  recency_score: 1.1880264365241602
-  rank: 4
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 70.19191013062844
-  llm_score: 85
-  recency_score: 10.959550653142209
-  rank: 5
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 68.826488648441
-  llm_score: 85
+  score: 60.174222037262325
+  llm_score: 78
   recency_score: 4.13244324220501
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 59.13857280268648
+  llm_score: 75
+  recency_score: 9.400723217462033
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 57.8750809902345
+  llm_score: 75
+  recency_score: 1.1880264365241602
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: qualified-daphne-district-6-city-council
+  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
+  score: 57.86916970927725
+  llm_score: 75
+  recency_score: 1.1496031103020492
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 68.38063606814806
-  llm_score: 85
-  recency_score: 1.9031803407402852
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 14.352829952906324
+  llm_score: 0
+  recency_score: 18.293394693891102
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: selective-memory
   title: Selective Memory
-  score: 68.35935453733623
-  llm_score: 85
+  score: 11.814888105643252
+  llm_score: 0
   recency_score: 1.7967726866811407
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: people-power
-  title: PEOPLE POWER
-  score: 68.26951882445587
-  llm_score: 85
-  recency_score: 1.347594122279338
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 11.724264159286477
+  llm_score: 0
+  recency_score: 1.2077170353621032
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 68.23118391901212
-  llm_score: 85
-  recency_score: 1.155919595060642
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 11.647159769855005
+  llm_score: -2
+  recency_score: 8.706538504057539
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.

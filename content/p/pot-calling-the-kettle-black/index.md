@@ -10,63 +10,83 @@ alttags: Silhouette of a teapot against a white background; symbolizing deflecti
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 81.62860141581517
+  score: 74.32969339678091
   llm_score: 85
   recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 81.44318114711444
+  score: 74.18706242085727
   llm_score: 85
   recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 80.97280912493756
+  score: 73.82523778841352
   llm_score: 85
   recency_score: 64.86404562468779
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 80.83141751730334
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 63.91895258492894
   llm_score: 85
-  recency_score: 64.15708758651667
+  recency_score: 0.4731918020379976
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 78.24960453479669
-  llm_score: 85
+  score: 59.42277271907439
+  llm_score: 65
   recency_score: 51.24802267398346
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 56.741569180747454
+  llm_score: 72
+  recency_score: 5.820199674858366
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: the-pot-and-the-kettle-are-black
   title: THE POT AND THE KETTLE ARE BLACK
-  score: 76.34019362805742
-  llm_score: 95
+  score: 56.72322586773649
+  llm_score: 73
   recency_score: 1.7009681402870933
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: black-hole
   title: BLACK HOLE
-  score: 68.27549129904675
-  llm_score: 85
+  score: 56.67345484542059
+  llm_score: 73
   recency_score: 1.3774564952337773
-  rank: 7
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 68.2200596203965
-  llm_score: 85
-  recency_score: 1.100298101982455
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 68.0946383604076
-  llm_score: 85
-  recency_score: 0.4731918020379976
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 26.71356981948972
+  llm_score: 23
+  recency_score: 6.638203826683174
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-moore-strange
-  title: ALABAMA MOORE STRANGE
-  score: 52.24220607718429
-  llm_score: 65
-  recency_score: 1.2110303859214708
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 21.408782705617952
+  llm_score: 0
+  recency_score: 64.15708758651667
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.

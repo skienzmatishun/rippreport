@@ -12,83 +12,83 @@ alttags: New Baldwin County Courthouse rendering; million-dollar contract amid q
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 89.03159916998912
-  llm_score: 90
+  score: 88.41621455460451
+  llm_score: 89
   recency_score: 68.70539460492927
   length_score: 100
   category_score: 100
   rank: 1
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 83.99135946453362
-  llm_score: 85
-  recency_score: 55.94383651946845
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 80.25261490976328
-  llm_score: 85
-  recency_score: 31.641996913461323
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 79.52603752890367
-  llm_score: 85
-  recency_score: 26.919243937873805
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 79.38113067334776
-  llm_score: 85
-  recency_score: 25.977349376760323
-  length_score: 100
-  category_score: 100
-  rank: 5
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 78.88710816843701
-  llm_score: 75
+  score: 87.50249278382162
+  llm_score: 89
   recency_score: 62.766203094840556
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 2
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 87.2158212346474
+  llm_score: 89
+  recency_score: 60.90283802520807
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 87.0126928578294
+  llm_score: 89
+  recency_score: 59.582503575891096
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 77.79048203962482
-  llm_score: 75
+  score: 83.94432819347098
+  llm_score: 85
   recency_score: 55.63813325756129
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 82.71415337130175
+  llm_score: 89
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 82.45805375027084
+  llm_score: 90
+  recency_score: 25.977349376760323
   length_score: 100
   category_score: 100
   rank: 7
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 72.88216470817063
-  llm_score: 80
+  score: 78.42062624663217
+  llm_score: 89
   recency_score: 3.734070603109041
   length_score: 100
   category_score: 100
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 71.81734361453084
-  llm_score: 85
-  recency_score: 51.81273349445037
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 59.167777164080135
-  llm_score: 65
+  score: 71.47546947177244
+  llm_score: 85
   recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
+  rank: 9
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 70.29526829813445
+  llm_score: 70
+  recency_score: 26.919243937873805
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 A terrorist attack narrowly avoided a larger, more crowded event, saved only by traffic jams, while a flashy car explosion tied to a misguided vet sparks debates about safety and tech gone wrong.

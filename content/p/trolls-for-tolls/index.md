@@ -13,65 +13,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 87.43670779028002
-  llm_score: 95
-  recency_score: 57.18353895140014
-  rank: 1
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 80.14724185949737
+  score: 73.19018604576722
   llm_score: 85
   recency_score: 60.73620929748681
-  rank: 2
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: no-mo-bridge
   title: NO MO BRIDGE
-  score: 79.18876730389368
-  llm_score: 85
-  recency_score: 55.94383651946845
-  rank: 3
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 78.62123778439704
-  llm_score: 85
-  recency_score: 53.10618892198522
-  rank: 4
-- slug: pied-piper
-  title: PIED PIPER
-  score: 78.41948362581483
-  llm_score: 85
-  recency_score: 52.09741812907417
-  rank: 5
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 75.19474191901475
+  score: 63.22212869530285
   llm_score: 70
-  recency_score: 95.97370959507373
-  rank: 6
+  recency_score: 55.94383651946845
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 72.24154340707243
-  llm_score: 90
+  score: 57.878110313132645
+  llm_score: 75
   recency_score: 1.2077170353621032
-  rank: 7
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 69.71761680752583
-  llm_score: 85
-  recency_score: 8.588084037629146
-  rank: 8
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 69.0432153391477
-  llm_score: 85
-  recency_score: 5.216076695738494
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 61.582088757180514
-  llm_score: 75
+  score: 54.60160673629271
+  llm_score: 68
   recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 40.4574937838575
+  llm_score: 23
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 22.785567526459268
+  llm_score: 5
+  recency_score: 53.10618892198522
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 20.335929069446177
+  llm_score: 0
+  recency_score: 57.18353895140014
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: pied-piper
+  title: PIED PIPER
+  score: 19.553448942934487
+  llm_score: 0
+  recency_score: 52.09741812907417
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 15.645984100822755
+  llm_score: 0
+  recency_score: 26.69889665534791
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 12.85970523655833
+  llm_score: 0
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Bayway Bridge project started years ago with politicians biting their tongue’s and saying little about how they were going to finance the project. Then came the discussion about tolls, again they bit their tongue’s. Next, came Jim Zigler and his Facebook page:

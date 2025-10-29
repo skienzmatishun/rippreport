@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 81.36972132414267
-  llm_score: 85
-  recency_score: 66.84860662071335
-  rank: 1
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 78.41948362581483
-  llm_score: 85
-  recency_score: 52.09741812907417
-  rank: 2
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 78.17127158449026
-  llm_score: 75
-  recency_score: 90.85635792245131
-  rank: 3
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 69.67654461491676
-  llm_score: 75
-  recency_score: 48.38272307458382
-  rank: 4
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 68.79175600985447
-  llm_score: 75
-  recency_score: 43.95878004927231
-  rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 68.39769259535007
-  llm_score: 85
-  recency_score: 1.9884629767503073
-  rank: 6
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 66.9652796209306
-  llm_score: 75
+  score: 78.43483047763894
+  llm_score: 100
   recency_score: 34.826398104653
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 74.74713198806944
+  llm_score: 80
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 68.27938336806332
+  llm_score: 79
+  recency_score: 52.81599189241148
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 66.6601220200348
+  llm_score: 75
+  recency_score: 58.29079313022616
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 65.13580354993599
+  llm_score: 75
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 21.822862557032828
+  llm_score: 0
+  recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 19.553448942934487
+  llm_score: 0
+  recency_score: 52.09741812907417
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 60.83102978346773
-  llm_score: 75
-  recency_score: 4.155148917338647
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 18.301350776811127
+  llm_score: 0
+  recency_score: 43.95878004927231
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 60.569400152657956
-  llm_score: 75
-  recency_score: 2.8470007632897696
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 18.191088741020714
+  llm_score: 0
+  recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 60.410984723903226
-  llm_score: 75
+  score: 11.854603633771713
+  llm_score: 0
   recency_score: 2.0549236195161336
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County is the only county in Alabama where sewer regulations do not exist. It is also the fastest growing county in Alabama. Baldwin County also has regular sewer spills throughout the county, most spills end up in the Bay.

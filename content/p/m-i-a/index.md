@@ -24,65 +24,85 @@ authors:
 - admin
 alttags: Men in a car looking somber, reflecting grief and loss described in the author’s recent experiences
 related_articles:
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 74.53912483255138
+  llm_score: 100
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 85.72869172076295
-  llm_score: 85
+  score: 71.32976286212536
+  llm_score: 75
   recency_score: 88.64345860381478
-  rank: 1
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 65.9897598613364
+  llm_score: 69
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 61.30355396475947
+  llm_score: 75
+  recency_score: 23.473100770936487
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: missed-the-bullet
   title: MISSED THE BULLET
-  score: 83.78201851846809
-  llm_score: 80
+  score: 25.524629629590844
+  llm_score: -2
   recency_score: 98.91009259234048
-  rank: 2
-- slug: i-quit
-  title: I QUIT
-  score: 81.4800622794238
-  llm_score: 85
-  recency_score: 67.40031139711904
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
-  score: 74.04557804038006
-  llm_score: 75
+  score: 22.342752338753897
+  llm_score: 0
   recency_score: 70.22789020190031
-  rank: 4
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 70.95471886159174
-  llm_score: 85
-  recency_score: 14.773594307958726
-  rank: 5
-- slug: backstory-podcast-58-the-rushin-prognostication
-  title: BACKSTORY PODCAST 58 - The Rushin Prognostication
-  score: 70.62490003199702
-  llm_score: 65
-  recency_score: 93.12450015998506
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 70.47673339221254
-  llm_score: 75
-  recency_score: 52.383666961062694
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 21.936188149595765
+  llm_score: 0
+  recency_score: 67.58522297237245
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 69.44318114711444
-  llm_score: 70
+  score: 21.879370113164953
+  llm_score: 0
   recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 67.5866878197373
-  llm_score: 65
-  recency_score: 77.93343909868652
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 20.02810887813135
+  llm_score: 0
+  recency_score: 55.18270770785375
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 62.6993001819033
-  llm_score: 75
-  recency_score: 13.496500909516493
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 13.028976144848897
+  llm_score: 0
+  recency_score: 9.688344941517835
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I have been Missing In Action from social media since September 15th and it feels like a year. Right before the storm, I received news of my best friend’s grandson was killed on a motorcycle. Needless to say his daughter was as devastated as he was. While sitting there trying to comprehend the loss, I got a call from the father of a gentleman I was advocating for in a property dispute. He informed me his son had become stressed out over the issue, and he had committed suicide.

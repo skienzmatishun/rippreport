@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case
 related_articles:
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 73.6440430096594
-  llm_score: 83
-  recency_score: 77.72021504829691
-  category_score: 0
-  rank: 1
-- slug: barstool
-  title: BARSTOOL
-  score: 72.81108503131156
-  llm_score: 95
-  recency_score: 31.555425156557842
-  category_score: 0
-  rank: 2
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 70.50634582434074
-  llm_score: 85
-  recency_score: 55.031729121703655
-  category_score: 0
-  rank: 3
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 69.15006981718642
-  llm_score: 85
-  recency_score: 48.25034908593207
-  category_score: 0
-  rank: 4
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 68.21532550649246
-  llm_score: 75
+  score: 63.62717346653267
+  llm_score: 65
   recency_score: 78.57662753246225
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 49.005642323594614
+  llm_score: 56
+  recency_score: 19.53667510336496
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 37.649263853584145
+  llm_score: 23
+  recency_score: 77.72021504829691
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 25.74803541797079
+  llm_score: 0
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 20.004881403339027
+  llm_score: 0
+  recency_score: 55.031729121703655
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: russian-roulette-fairhope-style
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 65.91568627566375
-  llm_score: 85
-  recency_score: 32.0784313783187
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 18.961592167066474
+  llm_score: 0
+  recency_score: 48.25034908593207
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 59.57920034882931
-  llm_score: 85
-  recency_score: 0.39600174414651
+- slug: barstool
+  title: BARSTOOL
+  score: 16.39314233177813
+  llm_score: 0
+  recency_score: 31.555425156557842
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: broken-eggs
   title: BROKEN EGGS
-  score: 54.535620663423764
-  llm_score: 75
+  score: 13.104323587249043
+  llm_score: 0
   recency_score: 10.178103317118776
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 53.90626570232503
-  llm_score: 75
-  recency_score: 7.031328511625108
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 11.599384883714848
+  llm_score: 0
+  recency_score: 0.39600174414651
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 52.907335020673
-  llm_score: 70
-  recency_score: 19.53667510336496
+- slug: pandoras-box
+  title: PANDORA'S BOX
+  score: 11.389435155634631
+  llm_score: -2
+  recency_score: 7.031328511625108
+  length_score: 100
   category_score: 0
   rank: 10
 ---

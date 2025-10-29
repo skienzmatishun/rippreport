@@ -11,75 +11,85 @@ authors:
 - admin
 alttags: Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology
 related_articles:
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 78.64222555805995
-  llm_score: 85
-  recency_score: 95.71112779029973
-  category_score: 0
-  rank: 1
 - slug: rumors
   title: RUMORS
-  score: 69.8919289673539
-  llm_score: 75
+  score: 94.91686843642609
+  llm_score: 95
   recency_score: 86.95964483676948
-  category_score: 0
-  rank: 2
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 63.83605587461525
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 90.10940427543073
   llm_score: 85
-  recency_score: 21.680279373076186
-  category_score: 0
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 77.70148581859709
+  llm_score: 85
+  recency_score: 15.05965782088104
+  length_score: 100
+  category_score: 100
   rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 62.42251516184375
-  llm_score: 85
+  score: 69.01731935526442
+  llm_score: 71
   recency_score: 14.612575809218715
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 59.561350930597214
-  llm_score: 75
-  recency_score: 35.306754652986015
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 64.54589628943275
+  llm_score: 85
+  recency_score: 4.548325881312761
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 52.31427682810782
-  llm_score: 65
+  score: 62.78021294469833
+  llm_score: 56
   recency_score: 34.071384140539074
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 48.511931564176216
-  llm_score: 65
-  recency_score: 15.05965782088104
-  category_score: 0
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 28.508731485074776
+  llm_score: 0
+  recency_score: 35.306754652986015
+  length_score: 100
+  category_score: 100
   rank: 7
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 26.412350672780953
+  llm_score: 0
+  recency_score: 21.680279373076186
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 48.16988030926578
-  llm_score: 65
+  score: 25.13067716097367
+  llm_score: 0
   recency_score: 13.34940154632884
-  category_score: 0
-  rank: 8
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 46.40966517626256
-  llm_score: 65
-  recency_score: 4.548325881312761
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 9
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
-  score: 42.36933597480711
-  llm_score: 60
+  score: 23.361027672928536
+  llm_score: 0
   recency_score: 1.8466798740354857
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 Let me make one thing perfectly clear, I am pro police. Police are a necessary. Police are responsible to the public, they work for the public. What gives police a bad name are a few officers that think they must use lethal force, when it is not necessary. Firearm training for police teaches how to kill not wound and to many officers are to damn quick on the draw.

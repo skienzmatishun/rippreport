@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 89.15666916854497
-  llm_score: 92
-  recency_score: 95.71112779029973
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 87.22661982948995
-  llm_score: 95
-  recency_score: 69.84413219659965
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 81.07678118327034
-  llm_score: 85
-  recency_score: 72.17854122180232
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 78.62472875803533
-  llm_score: 90
-  recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 75.63379042925796
-  llm_score: 85
-  recency_score: 35.89193619505306
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 71.99128882587826
-  llm_score: 85
+  score: 74.86286033423413
+  llm_score: 100
   recency_score: 11.608592172521774
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 70.47248208376834
+  rank: 1
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 69.10228590567729
   llm_score: 85
-  recency_score: 1.4832138917890048
+  recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: hell-yea
-  title: HELL YEA
-  score: 70.39710519540344
+  rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 67.31200085643964
   llm_score: 85
-  recency_score: 0.9807013026895641
+  recency_score: 22.528005566857594
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 63.91643683315116
-  llm_score: 70
+  score: 60.580960854514025
+  llm_score: 74
   recency_score: 22.77624555434108
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
 - slug: going-down
   title: GOING DOWN
-  score: 47.92705011449347
-  llm_score: 50
+  score: 58.74569242512152
+  llm_score: 76
   recency_score: 2.8470007632897696
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 57.92049444489063
+  llm_score: 75
+  recency_score: 1.4832138917890048
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 45.95555812158458
+  llm_score: 32
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 36.79669864950806
+  llm_score: 23
+  recency_score: 72.17854122180232
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 22.283712645630715
+  llm_score: 0
+  recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 17.06029787616201
+  llm_score: 0
+  recency_score: 35.89193619505306
   length_score: 100
   category_score: 0
   rank: 10

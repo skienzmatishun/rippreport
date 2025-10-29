@@ -25,65 +25,85 @@ authors:
 - admin
 alttags: Emoji face with zipper over mouth, symbolizing secrecy and hidden information related to Baldwin County’s political cabal
 related_articles:
-- slug: deja-vu
-  title: Deja Vu
-  score: 80.23825715325401
-  llm_score: 100
-  recency_score: 1.1912857662700727
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 76.75376513483066
+  llm_score: 85
+  recency_score: 8.899473376399213
+  length_score: 100
+  category_score: 100
   rank: 1
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 67.20969637553308
+  llm_score: 78
+  recency_score: 49.86302644096496
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 78.62123778439704
-  llm_score: 85
+  score: 65.24710598799773
+  llm_score: 74
   recency_score: 53.10618892198522
-  rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 69.90086228231678
-  llm_score: 85
-  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 69.69424823431282
-  llm_score: 85
-  recency_score: 8.471241171564124
-  rank: 4
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 69.66206539141994
-  llm_score: 85
-  recency_score: 8.310326957099722
-  rank: 5
 - slug: investigations
   title: INVESTIGATIONS
-  score: 68.57883750997557
+  score: 64.29141346921199
   llm_score: 85
   recency_score: 2.894187549877844
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: leaks-and-collusion
   title: LEAKS AND COLLUSION
-  score: 68.51592082096282
+  score: 64.24301601612525
   llm_score: 85
   recency_score: 2.5796041048141145
-  rank: 7
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 68.35641304329026
-  llm_score: 85
-  recency_score: 1.782065216451268
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 60.51310158853855
-  llm_score: 75
+  score: 64.2408473757989
+  llm_score: 85
   recency_score: 2.565507942692728
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 13.000663294089833
+  llm_score: 0
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 12.816973378015343
+  llm_score: 0
+  recency_score: 8.310326957099722
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 11.81262541791558
+  llm_score: 0
+  recency_score: 1.782065216451268
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 60.30739854159894
-  llm_score: 75
-  recency_score: 1.5369927079947032
+- slug: deja-vu
+  title: Deja Vu
+  score: 11.721736271733857
+  llm_score: 0
+  recency_score: 1.1912857662700727
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.

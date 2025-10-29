@@ -18,74 +18,84 @@ authors:
 - admin
 alttags: Illustration depicting two figures crossed out with a red circle, labeled “CATALYST,” referencing Fairhope councilmen and ...
 related_articles:
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 83.15949281133081
-  llm_score: 91
-  recency_score: 97.29746405665401
-  category_score: 0
-  rank: 1
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 80.73629014021759
-  llm_score: 87
-  recency_score: 99.18145070108791
-  category_score: 0
-  rank: 2
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 80.46641283325074
-  llm_score: 87
-  recency_score: 97.83206416625366
-  category_score: 0
-  rank: 3
-- slug: catalyst-2
-  title: CATALYST
-  score: 79.57987434468455
-  llm_score: 95
-  recency_score: 65.39937172342279
-  category_score: 0
-  rank: 4
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 75.65183464323572
-  llm_score: 85
-  recency_score: 80.75917321617852
-  category_score: 0
-  rank: 5
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 71.19014258029428
-  llm_score: 85
-  recency_score: 58.450712901471334
-  category_score: 0
-  rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 63.099027897059905
-  llm_score: 85
-  recency_score: 17.995139485299486
-  category_score: 0
-  rank: 7
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 61.685913116233245
-  llm_score: 85
-  recency_score: 10.929565581166187
-  category_score: 0
-  rank: 8
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 55.604083724088476
-  llm_score: 75
+  score: 75.46467978776037
+  llm_score: 100
   recency_score: 15.520418620442342
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 1
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 54.45902049782696
-  llm_score: 75
+  score: 64.12232345986689
+  llm_score: 83
   recency_score: 9.795102489134761
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 28.334804348775187
+  llm_score: 23
+  recency_score: 17.176228267038702
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 26.797146261705834
+  llm_score: 0
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 26.50730216256216
+  llm_score: 0
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 23.962949725565927
+  llm_score: 0
+  recency_score: 80.75917321617852
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-2
+  title: CATALYST
+  score: 21.599903342065048
+  llm_score: 0
+  recency_score: 65.39937172342279
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst
+  title: CATALYST
+  score: 14.306944536199921
+  llm_score: 0
+  recency_score: 17.995139485299486
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 13.21993316633326
+  llm_score: 0
+  recency_score: 10.929565581166187
+  length_score: 100
   category_score: 0
   rank: 10
 ---

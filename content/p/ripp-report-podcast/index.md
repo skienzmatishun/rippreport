@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 98.67599711942087
+- slug: big-mules
+  title: Big Mules
+  score: 73.4434738279955
   llm_score: 100
-  recency_score: 93.37998559710435
+  recency_score: 2.382579881970696
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 93.72869172076295
-  llm_score: 95
-  recency_score: 88.64345860381478
-  rank: 2
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 82.08249514970656
-  llm_score: 90
-  recency_score: 50.412475748532785
-  rank: 3
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 80.64841536332693
-  llm_score: 90
-  recency_score: 43.242076816634636
-  rank: 4
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 76.3298145011407
-  llm_score: 75
-  recency_score: 81.64907250570349
-  rank: 5
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 73.74107892098586
-  llm_score: 75
-  recency_score: 68.70539460492927
-  rank: 6
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 71.93208520393644
-  llm_score: 70
-  recency_score: 79.6604260196822
-  rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 68.24749363276264
-  llm_score: 70
-  recency_score: 61.23746816381321
-  rank: 8
 - slug: im-back-2
   title: I'M BACK
-  score: 60.508901599082854
+  score: 58.08377046083298
   llm_score: 75
   recency_score: 2.5445079954142833
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 56.39598785949566
+  llm_score: 72
+  recency_score: 3.573921086721709
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 24.519698385159323
+  llm_score: 0
+  recency_score: 84.37803950353559
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 20.959610486740495
+  llm_score: 0
+  recency_score: 61.23746816381321
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 13.86168826594879
+  llm_score: 0
+  recency_score: 15.100973728667121
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 13.498754704337427
+  llm_score: 0
+  recency_score: 12.741905578193274
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: bsp-128
   title: Big News
-  score: 53.342270268422986
-  llm_score: 65
+  score: 12.570977129556145
+  llm_score: 0
   recency_score: 6.711351342114945
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 11.823345570456167
+  llm_score: 0
+  recency_score: 1.8517462079650837
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 11.629348489573351
+  llm_score: 0
+  recency_score: 0.5907651822267828
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUgy5-YSTQw" frameborder="0" allowfullscreen></iframe>

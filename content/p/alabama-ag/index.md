@@ -10,74 +10,84 @@ authors:
 - admin
 alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to Steve Marshall’s office regarding ethics commissio...
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 80.0
-  llm_score: 100
-  recency_score: 50
-  category_score: 0
-  rank: 1
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 70.2
-  llm_score: 86
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 69.50000000000001
-  llm_score: 85
-  recency_score: 50
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 68.10000000000001
-  llm_score: 83
+  score: 68.46153846153847
+  llm_score: 80
   recency_score: 50
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 62.30769230769232
+  llm_score: 70
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 68.10000000000001
-  llm_score: 83
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 62.30769230769232
+  llm_score: 70
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 66.7
-  llm_score: 81
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 64.60000000000001
-  llm_score: 78
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 55.50000000000001
-  llm_score: 65
+- slug: above-the-law
+  title: ABOVE THE LAW
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 55.50000000000001
-  llm_score: 65
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 53.400000000000006
-  llm_score: 62
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait
 related_articles:
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 87.35949281133081
-  llm_score: 97
-  recency_score: 97.29746405665401
-  category_score: 0
-  rank: 1
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 67.75484884682436
-  llm_score: 85
-  recency_score: 41.27424423412174
-  category_score: 0
-  rank: 2
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 52.92240024227551
-  llm_score: 75
-  recency_score: 2.112001211377513
-  category_score: 0
-  rank: 3
-- slug: obituary
-  title: OBITUARY
-  score: 52.022021202935065
-  llm_score: 65
-  recency_score: 32.61010601467527
-  category_score: 0
-  rank: 4
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 48.12635062426857
-  llm_score: 65
+  score: 65.86642355712966
+  llm_score: 85
   recency_score: 13.13175312134279
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 65.40184634021193
+  llm_score: 87
+  recency_score: 2.112001211377513
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: obituary
+  title: OBITUARY
+  score: 49.7861701561039
+  llm_score: 54
+  recency_score: 32.61010601467527
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 26.50730216256216
+  llm_score: 0
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 26.236149024008252
+  llm_score: 23
+  recency_score: 3.5349686560536235
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 45.67434250764232
-  llm_score: 65
-  recency_score: 0.8717125382115642
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 25.90076899492489
+  llm_score: 23
+  recency_score: 1.3549984670117639
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: vote-smart
-  title: VOTE SMART
-  score: 43.194620154187305
-  llm_score: 55
-  recency_score: 23.473100770936487
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 23.013995921095272
+  llm_score: 0
+  recency_score: 74.59097348711927
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 40.160199081822476
-  llm_score: 54
-  recency_score: 11.800995409112343
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 17.88834526678796
+  llm_score: 0
+  recency_score: 41.27424423412174
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 40.11536626765282
-  llm_score: 54
+  score: 13.319512513579088
+  llm_score: 0
   recency_score: 11.57683133826407
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 35.70699373121072
-  llm_score: 50
-  recency_score: 3.5349686560536235
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 11.672571159724855
+  llm_score: 0
+  recency_score: 0.8717125382115642
+  length_score: 100
   category_score: 0
   rank: 10
 ---

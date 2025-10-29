@@ -9,72 +9,82 @@ authors:
 related_articles:
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 86.22789538259508
-  llm_score: 95
+  score: 82.7137656789193
+  llm_score: 91
   recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 80.39249424486937
-  llm_score: 95
-  recency_score: 69.4624712243468
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 56.176499711619755
+  llm_score: 53
+  recency_score: 78.14724812552835
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 75.69614691902798
-  llm_score: 85
-  recency_score: 80.98073459513984
-  category_score: 0
-  rank: 3
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 75.45048615589081
-  llm_score: 90
-  recency_score: 62.252430779453995
-  category_score: 0
-  rank: 4
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 73.81754485573327
-  llm_score: 85
-  recency_score: 71.58772427866629
-  category_score: 0
-  rank: 5
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 63.771113485559525
-  llm_score: 65
-  recency_score: 91.35556742779755
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 63.72068336598399
-  llm_score: 90
-  recency_score: 3.6034168299198996
-  category_score: 0
-  rank: 7
-- slug: bad-faith
-  title: Bad Faith
-  score: 48.81504765659547
-  llm_score: 65
-  recency_score: 16.575238282977313
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 43.232263775167944
-  llm_score: 50
-  recency_score: 41.16131887583971
-  category_score: 0
-  rank: 9
 - slug: horrible-hurricane-harvey
   title: HORRIBLE HURRICANE HARVEY
-  score: 42.396604517793484
-  llm_score: 60
+  score: 50.612772705995
+  llm_score: 63
   recency_score: 1.9830225889673994
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 36.70580373517944
+  llm_score: 23
+  recency_score: 71.58772427866629
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 25.593164219661166
+  llm_score: 0
+  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 23.997036091559977
+  llm_score: 0
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 22.224995572976432
+  llm_score: 0
+  recency_score: 69.4624712243468
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 21.115758581454465
+  llm_score: 0
+  recency_score: 62.252430779453995
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bad-faith
+  title: Bad Faith
+  score: 14.088498197381126
+  llm_score: 0
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 12.092833358449216
+  llm_score: 0
+  recency_score: 3.6034168299198996
+  length_score: 100
   category_score: 0
   rank: 10
 ---

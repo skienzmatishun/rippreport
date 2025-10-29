@@ -20,63 +20,83 @@ alttags: Illustration depicting a wolf howling under a rain cloud with a crossed
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 83.29061318606567
+  score: 75.6081639892813
   llm_score: 85
   recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 81.96882643931993
-  llm_score: 85
-  recency_score: 69.84413219659965
-  rank: 2
 - slug: howling-rains
   title: HOWLING RAINS
-  score: 81.70348365330435
+  score: 74.38729511792643
   llm_score: 85
   recency_score: 68.51741826652172
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 80.7833916941887
-  llm_score: 80
+  score: 68.75645514937594
+  llm_score: 72
   recency_score: 83.91695847094347
-  rank: 4
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 80.3485727887506
-  llm_score: 85
-  recency_score: 61.74286394375304
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
-  score: 72.49327389504337
+  score: 67.30251838080261
   llm_score: 85
   recency_score: 22.466369475216847
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 61.49036339558599
+  llm_score: 70
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 59.44912705771711
+  llm_score: 75
+  recency_score: 11.419325875161082
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 70.75156717099011
-  llm_score: 85
-  recency_score: 13.757835854950565
-  rank: 7
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 69.49773123279229
-  llm_score: 85
+  score: 58.229024025224845
+  llm_score: 74
   recency_score: 7.488656163961433
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 53.03736368365433
+  llm_score: 52
+  recency_score: 61.74286394375304
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 69.36972132414267
-  llm_score: 70
-  recency_score: 66.84860662071335
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 35.03633989192105
+  llm_score: 23
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 61.21092065489459
-  llm_score: 65
-  recency_score: 46.05460327447295
+- slug: catalyst
+  title: CATALYST
+  score: 13.655051669992396
+  llm_score: 0
+  recency_score: 13.757835854950565
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope City Council President Jack Burrell said he heard birds, and the sky was blue, that he felt Fairhope was going to have peace and calm in the next 4 years. CSB, Catalyst Scott/Boone, owns Fairhope, the council, the municipal judge, the city attorney and the Mayor. Complete total control, everyone is in bed with one another. They will make the decisions not the citizens of Fairhope. Just watch and see.

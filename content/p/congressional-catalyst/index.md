@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Republican congressional candidate CATALYST speaking, one of five vying for Alabama’s first district seat
 related_articles:
-- slug: runoff
-  title: RUNOFF
-  score: 84.27733007636273
-  llm_score: 95
-  recency_score: 88.88665038181365
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 82.54983644999088
+  llm_score: 100
+  recency_score: 61.57393692494061
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT
-  score: 79.33141751730334
-  llm_score: 95
+  score: 73.71647501331027
+  llm_score: 85
   recency_score: 64.15708758651667
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 78.91642191956066
-  llm_score: 95
-  recency_score: 62.08210959780326
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 66.70716819180632
+  llm_score: 85
+  recency_score: 18.596593246741016
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 77.1801864385564
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 66.2536168283535
   llm_score: 85
-  recency_score: 88.40093219278197
+  recency_score: 15.648509384297702
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
-  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 76.44318114711444
-  llm_score: 90
-  recency_score: 67.21590573557219
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 59.79696605739635
+  llm_score: 73
+  recency_score: 21.680279373076186
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 72.1568431195879
-  llm_score: 85
-  recency_score: 63.2842155979395
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 58.86004209688417
+  llm_score: 72
+  recency_score: 19.590273629747017
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 63.8241925280596
-  llm_score: 85
+  score: 29.018609636968918
+  llm_score: 23
   recency_score: 21.62096264029795
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 63.41805472594941
-  llm_score: 85
-  recency_score: 19.590273629747017
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 22.857868626460096
+  llm_score: 0
+  recency_score: 73.57614607199059
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 62.62970187685955
-  llm_score: 85
-  recency_score: 15.648509384297702
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 21.27449470737531
+  llm_score: 0
+  recency_score: 63.2842155979395
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 46.59295272799746
-  llm_score: 65
-  recency_score: 5.464763639987247
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 14.837536061875038
+  llm_score: 0
+  recency_score: 21.44398440218775
+  length_score: 100
   category_score: 0
   rank: 10
 ---

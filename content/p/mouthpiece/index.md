@@ -13,65 +13,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 87.43670779028002
-  llm_score: 95
-  recency_score: 57.18353895140014
-  rank: 1
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 86.83013102490949
-  llm_score: 85
+  score: 77.71548540377655
+  llm_score: 84
   recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 72.28940978606195
+  llm_score: 85
+  recency_score: 54.88116360940264
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: all-mouth
   title: ALL MOUTH
-  score: 77.33796583595118
+  score: 71.02920448919323
   llm_score: 85
   recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: no-mo-bridge
   title: NO MO BRIDGE
-  score: 74.39813310940357
-  llm_score: 85
+  score: 62.613948545695074
+  llm_score: 75
   recency_score: 31.990665547017855
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
-  score: 74.07359964556152
-  llm_score: 85
+  score: 62.364307419662715
+  llm_score: 75
   recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: pied-piper
-  title: PIED PIPER
-  score: 73.95822947770259
-  llm_score: 85
-  recency_score: 29.79114738851293
-  rank: 6
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 72.59654744980851
-  llm_score: 90
-  recency_score: 2.9827372490425272
-  rank: 7
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 69.00395926891434
-  llm_score: 85
-  recency_score: 5.0197963445716995
-  rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 68.90469434070803
-  llm_score: 85
+  score: 54.69591872362158
+  llm_score: 69
   recency_score: 4.5234717035402
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: puzzle-pieces
+  title: PUZZLE PIECES
+  score: 26.464584053011034
+  llm_score: 23
+  recency_score: 5.0197963445716995
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 20.335929069446177
+  llm_score: 0
+  recency_score: 57.18353895140014
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pied-piper
+  title: PIED PIPER
+  score: 16.121714982848143
+  llm_score: 0
+  recency_score: 29.79114738851293
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 60.98219407616733
-  llm_score: 75
+  score: 12.293995443205636
+  llm_score: 0
   recency_score: 4.910970380836641
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The infrastructure failures in Fairhope are directly connected to Jack Burrell and his lackeys.

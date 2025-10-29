@@ -12,65 +12,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 95.24877842919904
-  llm_score: 100
-  recency_score: 76.2438921459952
-  rank: 1
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 91.08258086352161
-  llm_score: 95
-  recency_score: 75.41290431760807
-  rank: 2
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 87.9452804719372
+  score: 79.18867728610554
   llm_score: 85
   recency_score: 99.72640235968593
-  rank: 3
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 87.51287958944485
-  llm_score: 85
-  recency_score: 97.56439794722424
-  rank: 4
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 83.17838723901062
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 78.65290648399927
+  llm_score: 90
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 71.13331711323976
   llm_score: 95
-  recency_score: 35.89193619505306
+  recency_score: 7.366561236058354
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 65.05649498845929
+  llm_score: 85
+  recency_score: 7.867217424985351
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 38.52506220270894
+  llm_score: 25
+  recency_score: 75.41290431760807
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 81.40640092071278
-  llm_score: 85
+  score: 36.00492378516369
+  llm_score: 23
   recency_score: 67.03200460356393
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 26.548368914957578
+  llm_score: 0
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 78.0
-  llm_score: 85
+  score: 19.230769230769234
+  llm_score: 0
   recency_score: 50
-  rank: 7
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 77.57344348499707
-  llm_score: 95
-  recency_score: 7.867217424985351
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 69.47331224721167
-  llm_score: 85
-  recency_score: 7.366561236058354
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 17.06029787616201
+  llm_score: 0
+  recency_score: 35.89193619505306
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 63.17286949891342
-  llm_score: 75
+  score: 13.979130383779554
+  llm_score: 0
   recency_score: 15.864347494567099
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I hope you will continue to follow the story of Alabama’s “self-dealing”, Alabama Ethics Director, Tom Albritton. First you need to read the below article.

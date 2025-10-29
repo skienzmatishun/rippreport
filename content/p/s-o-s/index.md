@@ -14,65 +14,85 @@ authors:
 - admin
 alttags: City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions
 related_articles:
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 84.46092326761413
-  llm_score: 95
-  recency_score: 42.3046163380707
-  rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 81.62860141581517
-  llm_score: 85
-  recency_score: 68.14300707907584
-  rank: 2
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 80.76770197286933
-  llm_score: 90
+  score: 69.35977074836103
+  llm_score: 83
   recency_score: 43.83850986434665
-  rank: 3
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 74.83297167738046
-  llm_score: 85
-  recency_score: 34.164858386902274
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 73.44532616133364
-  llm_score: 90
-  recency_score: 7.226630806668228
-  rank: 5
-- slug: in-the-same-boat
-  title: IN THE SAME BOAT
-  score: 71.54034940495241
-  llm_score: 85
-  recency_score: 17.701747024762053
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: survey
   title: SURVEY
-  score: 65.76552754120547
-  llm_score: 75
+  score: 68.28117503169653
+  llm_score: 85
   recency_score: 28.827637706027392
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 68.17584724293476
+  llm_score: 75
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 66.5694995422711
+  llm_score: 85
+  recency_score: 17.701747024762053
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 61.718333855938354
-  llm_score: 70
+  score: 62.09102604302952
+  llm_score: 75
   recency_score: 28.59166927969179
-  rank: 8
-- slug: rotten
-  title: ROTTEN
-  score: 57.224016341508346
-  llm_score: 65
-  recency_score: 26.120081707541715
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 41.92708065959618
-  llm_score: 50
+  score: 59.174677430458615
+  llm_score: 75
   recency_score: 9.635403297980877
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 25.478119549400027
+  llm_score: 0
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 18.04686405201088
+  llm_score: 0
+  recency_score: 42.3046163380707
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 16.794593597984967
+  llm_score: 0
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 12.650250893333574
+  llm_score: 0
+  recency_score: 7.226630806668228
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I am reluctantly back from a three week vacation and trying to get back on the Ripp Report horse. Let’s review a few subjects that have been in the news in my absence.

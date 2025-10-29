@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: Will Smith striking Chris Rock onstage at the 2022 Oscars, referenced in an article about rising violence
 related_articles:
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 62.063697747728
-  llm_score: 75
-  recency_score: 10.318488738640012
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 74.22902402522485
+  llm_score: 100
+  recency_score: 7.488656163961433
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 61.88014464349241
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 69.07390916870598
   llm_score: 75
-  recency_score: 9.400723217462033
+  recency_score: 73.98040959658876
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 61.83435180196035
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 65.03453307031123
   llm_score: 75
-  recency_score: 9.17175900980176
+  recency_score: 47.72446495702292
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 61.60391032748106
-  llm_score: 75
-  recency_score: 8.019551637405318
-  rank: 4
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 60.94546996796693
-  llm_score: 70
-  recency_score: 24.727349839834638
-  rank: 5
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 60.618079143796635
-  llm_score: 70
+  score: 61.24467626445897
+  llm_score: 75
   recency_score: 23.090395718983192
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: im-back-2
+  title: I'M BACK
+  score: 53.07356394423204
+  llm_score: 59
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 52.26574612920534
+  llm_score: 60
+  recency_score: 24.727349839834638
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 58.10942881080481
-  llm_score: 70
-  recency_score: 10.547144054024043
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 19.167777164080128
+  llm_score: 0
+  recency_score: 49.59055156652082
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 57.70355726718983
-  llm_score: 70
-  recency_score: 8.517786335949154
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 13.41982760869134
+  llm_score: 0
+  recency_score: 12.22887945649371
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: the-pete-rose
   title: The Pete Rose
-  score: 53.63945260804823
-  llm_score: 65
+  score: 12.79957892926787
+  llm_score: 0
   recency_score: 8.197263040241149
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 49.54489299140458
-  llm_score: 50
-  recency_score: 47.72446495702292
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 12.596752895574333
+  llm_score: 0
+  recency_score: 6.878893821233162
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 From the Oscars in LA to the Streets of Mobile, Alabama to beaches of Panama City and Miami, violence is on the rise. All the while Alabama Republicans all seem to be running against Joe Biden. The US House of Representatives passed the MORE ACT (removing marijuana from the Federal Schedule of Controlled Substances, but —spoiler alert- we wont get it without some social justice woven in) but it is expected to be submarined in the Senate.

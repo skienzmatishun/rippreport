@@ -10,65 +10,85 @@ authors:
 - admin
 alttags: John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ...
 related_articles:
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 75.88849539476564
-  llm_score: 75
-  recency_score: 79.4424769738282
-  rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 73.11575875113695
-  llm_score: 75
-  recency_score: 65.57879375568477
-  rank: 2
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 66.5758477586611
-  llm_score: 75
-  recency_score: 32.87923879330549
-  rank: 3
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 65.36972132414267
-  llm_score: 65
-  recency_score: 66.84860662071335
-  rank: 4
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 58.890662452604836
-  llm_score: 70
-  recency_score: 14.453312263024177
-  rank: 5
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 56.116117463153714
-  llm_score: 65
+  score: 62.70470574088749
+  llm_score: 78
   recency_score: 20.580587315768575
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 52.39586260016436
-  llm_score: 60
+  score: 61.073740461664904
+  llm_score: 75
   recency_score: 21.979313000821772
-  rank: 7
-- slug: cover-up
-  title: COVER UP
-  score: 51.521003281613005
-  llm_score: 60
-  recency_score: 17.605016408065044
-  rank: 8
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 48.28862590064934
-  llm_score: 60
-  recency_score: 1.443129503246706
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 58.66506557558394
+  llm_score: 56
+  recency_score: 82.32292624129552
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 37.91422722674281
+  llm_score: 23
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: crazy
   title: CRAZY
-  score: 43.42584690236102
-  llm_score: 50
+  score: 25.712189924893096
+  llm_score: 0
   recency_score: 17.129234511805123
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 21.627506731643813
+  llm_score: 0
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: surrender
+  title: SURRENDER
+  score: 21.408782705617952
+  llm_score: 0
+  recency_score: 64.15708758651667
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 16.596805968200847
+  llm_score: 0
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: cover-up
+  title: COVER UP
+  score: 14.246925601240775
+  llm_score: 0
+  recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: notice
+  title: 'NOTICE:'
+  score: 11.862495819369197
+  llm_score: 0
+  recency_score: 2.10622282589978
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 All of us have experienced people that are narcissist or sociopaths. Maybe psychopaths and the very worst possible murderers.

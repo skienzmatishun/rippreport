@@ -7,65 +7,85 @@ authors:
 - admin
 alttags: Aerial view of Fort Morgan sewage treatment plant; public hearing scheduled over expansion proposal
 related_articles:
+- slug: bsp-128
+  title: Big News
+  score: 87.32548067379618
+  llm_score: 100
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: troubled-waters
   title: Troubled Waters
-  score: 82.20034869269523
+  score: 74.76949899438095
   llm_score: 85
   recency_score: 71.00174346347615
-  rank: 1
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 82.10942881080481
-  llm_score: 100
-  recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 81.77502492544821
-  llm_score: 100
-  recency_score: 8.875124627241007
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 65.10037990229308
+  llm_score: 85
+  recency_score: 8.152469364904984
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 81.64846056681101
-  llm_score: 100
-  recency_score: 8.242302834055081
+- slug: im-back-2
+  title: I'M BACK
+  score: 63.094434161362344
+  llm_score: 75
+  recency_score: 35.11382204885514
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 79.35157673975544
-  llm_score: 95
-  recency_score: 16.757883698777256
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 59.0135513904045
+  llm_score: 75
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 77.63496710439854
-  llm_score: 95
-  recency_score: 8.17483552199271
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 58.807147221825794
+  llm_score: 75
+  recency_score: 7.246456941867555
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: water
   title: Water
-  score: 75.88849539476564
-  llm_score: 75
+  score: 23.76038107289665
+  llm_score: 0
   recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 61.5520364231224
-  llm_score: 75
-  recency_score: 7.760182115612004
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 19.126087018784872
+  llm_score: 0
+  recency_score: 49.31956562210165
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 61.465261380703375
-  llm_score: 75
-  recency_score: 7.326306903516857
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 16.30092595751715
+  llm_score: 0
+  recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 57.44929138837351
-  llm_score: 70
-  recency_score: 7.246456941867555
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 11.704068360792546
+  llm_score: 0
+  recency_score: 1.0764443451515464
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/23UW-uRcHIM" frameborder="0" allowfullscreen></iframe>

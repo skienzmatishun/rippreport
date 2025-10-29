@@ -25,14 +25,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 54.656222754979474
-  llm_score: 70
-  recency_score: 0.265447907366482
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
   score: 54.64863734929861
@@ -40,15 +32,15 @@ related_articles:
   recency_score: 0.21614277044091165
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 54.62813081142239
+  rank: 3
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 54.62293761818336
   llm_score: 70
-  recency_score: 0.08285027424544954
+  recency_score: 0.04909451819175162
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
   score: 54.6193957273202
@@ -56,7 +48,23 @@ related_articles:
   recency_score: 0.02607222758125002
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 54.08463801893354
+  llm_score: 69
+  recency_score: 0.5501471230679165
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 54.04083813959486
+  llm_score: 69
+  recency_score: 0.265447907366482
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: run-away-train
   title: RUN AWAY TRAIN
   score: 54.019758603989
@@ -64,28 +72,20 @@ related_articles:
   recency_score: 0.1284309259284028
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 54.007553002798744
+  rank: 8
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 54.012746196037774
   llm_score: 69
-  recency_score: 0.04909451819175162
+  recency_score: 0.08285027424544954
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
   score: 54.00314317324473
   llm_score: 69
   recency_score: 0.02043062609065734
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 42.39233032662584
-  llm_score: 50
-  recency_score: 0.5501471230679165
   length_score: 100
   category_score: 0
   rank: 10

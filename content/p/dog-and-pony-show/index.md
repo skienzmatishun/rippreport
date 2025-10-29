@@ -14,74 +14,84 @@ authors:
 - ripp-report
 alttags: 'Group in animal costumes: dog, horse, kangaroo, and others, referencing a “dog and pony show” meeting about local council ...'
 related_articles:
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 90.0
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 81.24710598799774
   llm_score: 100
-  recency_score: 100.0
+  recency_score: 53.10618892198522
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 72.29631106175715
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 78.61133993770366
   llm_score: 85
-  recency_score: 63.98155530878573
+  recency_score: 95.97370959507373
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 71.19014258029428
+  score: 72.83857121561098
   llm_score: 85
   recency_score: 58.450712901471334
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 70.26773530922881
-  llm_score: 85
-  recency_score: 53.838676546144015
-  category_score: 0
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 70.12123778439705
-  llm_score: 85
-  recency_score: 53.10618892198522
-  category_score: 0
-  rank: 5
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 68.8379658359512
-  llm_score: 85
-  recency_score: 46.6898291797559
-  category_score: 0
-  rank: 6
 - slug: catalyst-party
   title: CATALYST PARTY
-  score: 67.33613691258606
-  llm_score: 85
+  score: 63.72010531737389
+  llm_score: 75
   recency_score: 39.1806845629302
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 66.4652796209306
-  llm_score: 85
-  recency_score: 34.826398104653
+  rank: 4
+- slug: catalyst
+  title: CATALYST
+  score: 52.15100850904397
+  llm_score: 50
+  recency_score: 63.98155530878573
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 65.12510223405853
-  llm_score: 85
+  score: 50.327001718506565
+  llm_score: 56
   recency_score: 28.125511170292626
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 44.28167723075092
+  llm_score: 52
+  recency_score: 4.830901999880929
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 26.923076923076927
+  llm_score: 0
+  recency_score: 100.0
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 16.896368939177385
+  llm_score: 0
+  recency_score: 34.826398104653
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 64.69474191901476
-  llm_score: 65
-  recency_score: 95.97370959507373
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 16.896368939177385
+  llm_score: 0
+  recency_score: 34.826398104653
+  length_score: 100
   category_score: 0
   rank: 10
 ---

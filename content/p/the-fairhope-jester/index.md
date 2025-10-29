@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic
 related_articles:
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 87.31205826488139
-  llm_score: 95
-  recency_score: 56.56029132440696
-  rank: 1
 - slug: fairhope-council-asleep-at-the-wheel
   title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 86.62490003199702
-  llm_score: 85
+  score: 79.40376925538233
+  llm_score: 87
   recency_score: 93.12450015998506
-  rank: 2
-- slug: the-jester
-  title: THE JESTER
-  score: 85.51877838940959
-  llm_score: 95
-  recency_score: 47.593891947047986
-  rank: 3
-- slug: april-fool
-  title: APRIL FOOL
-  score: 85.22009294457453
-  llm_score: 82
-  recency_score: 98.10046472287257
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: blind-leading-the-blind
   title: BLIND LEADING THE BLIND
-  score: 83.46808419803509
-  llm_score: 90
+  score: 69.59083399848853
+  llm_score: 80
   recency_score: 57.34042099017541
-  rank: 5
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 82.5631983784823
-  llm_score: 90
-  recency_score: 52.81599189241148
-  rank: 6
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 72.01586522172649
-  llm_score: 85
-  recency_score: 20.079326108632408
-  rank: 7
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 68.66019064437701
-  llm_score: 85
-  recency_score: 3.300953221885028
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
-  score: 57.263756251262265
-  llm_score: 70
+  score: 64.81827403943252
+  llm_score: 85
   recency_score: 6.318781256311327
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 60.78143478594346
+  llm_score: 75
+  recency_score: 20.079326108632408
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: hate
   title: HATE
-  score: 53.27069994950746
-  llm_score: 65
+  score: 59.900538422698055
+  llm_score: 77
   recency_score: 6.3534997475373
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: april-fool
+  title: APRIL FOOL
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 20.240044819139534
+  llm_score: 0
+  recency_score: 56.56029132440696
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 19.663998752678694
+  llm_score: 0
+  recency_score: 52.81599189241148
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: the-jester
+  title: THE JESTER
+  score: 18.860598761084308
+  llm_score: 0
+  recency_score: 47.593891947047986
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 12.04630049567462
+  llm_score: 0
+  recency_score: 3.300953221885028
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic.

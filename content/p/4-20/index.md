@@ -19,81 +19,81 @@ alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats o
 related_articles:
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 82.94142937682747
-  llm_score: 85
+  score: 86.09377371982306
+  llm_score: 100
   recency_score: 84.60952917884977
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 74.21707330732828
-  llm_score: 83
-  recency_score: 35.11382204885514
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 79.85836618359176
+  llm_score: 100
+  recency_score: 44.079380193346374
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-9-11-2001-remembered
-  title: Backstory Podcast 9/11, 2001 Remembered
-  score: 73.83238586033582
-  llm_score: 75
-  recency_score: 67.21590573557219
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 73.20318816392755
+  llm_score: 100
+  recency_score: 0.8207230655290094
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-55
-  title: BACKSTORY PODCAST 55
-  score: 69.78683816163297
-  llm_score: 70
-  recency_score: 61.91225441088648
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 69.77381894225252
+  score: 63.87058353051543
   llm_score: 75
   recency_score: 40.15879294835018
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 63.094434161362344
+  llm_score: 75
+  recency_score: 35.11382204885514
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 69.07310845982936
-  llm_score: 83
-  recency_score: 0.8207230655290094
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 61.139215695149005
+  llm_score: 75
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
   rank: 6
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 68.81887395967905
-  llm_score: 75
-  recency_score: 33.792493064527044
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-no-76-a-plague-of-apathy
-  title: Backstory Podcast No. 76 A Plague of Apathy
-  score: 66.4909019809865
-  llm_score: 70
-  recency_score: 39.93934653990996
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 64.3024901565702
+  score: 58.25896426314893
   llm_score: 75
   recency_score: 3.6832677104679425
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 33.176701776214266
+  llm_score: 23
+  recency_score: 48.648561545392695
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: insanity-2
+  title: INSANITY
+  score: 32.36318626121963
+  llm_score: 23
+  recency_score: 43.36071069792758
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: backstory-podcast-no-65-happy-new-year-goodbye-2020
-  title: Backstory Podcast No 65 Happy New Year Goodbye 2020
-  score: 54.918230948142416
-  llm_score: 50
-  recency_score: 49.45487298761609
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 16.737306625311852
+  llm_score: 0
+  recency_score: 33.792493064527044
   length_score: 100
   category_score: 0
   rank: 10

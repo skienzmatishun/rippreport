@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 78.80020726935182
-  llm_score: 85
-  recency_score: 96.50103634675902
-  category_score: 0
-  rank: 1
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 64.93208520393645
-  llm_score: 70
+  score: 85.33237323379727
+  llm_score: 100
   recency_score: 79.6604260196822
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 63.972446043362034
-  llm_score: 65
-  recency_score: 92.36223021681012
-  category_score: 0
-  rank: 3
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 63.13111703119184
-  llm_score: 90
-  recency_score: 0.6555851559591579
-  category_score: 0
-  rank: 4
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 60.22266054819132
-  llm_score: 85
-  recency_score: 3.6133027409565597
-  category_score: 0
-  rank: 5
+  rank: 1
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 53.487869307982
-  llm_score: 65
+  score: 69.99066869844769
+  llm_score: 85
   recency_score: 39.93934653990996
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 61.799830254668926
+  llm_score: 75
+  recency_score: 26.69889665534791
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: notice
+  title: 'NOTICE:'
+  score: 58.08592134976916
+  llm_score: 75
+  recency_score: 2.5584887734994517
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 39.90188157181695
+  llm_score: 23
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 32.588891165843016
+  llm_score: 87
+  recency_score: 0.6555851559591579
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 49.50890159908286
-  llm_score: 70
-  recency_score: 2.5445079954142833
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 26.384774822578315
+  llm_score: 0
+  recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: election-ad
   title: ELECTION AD
-  score: 43.512361639340185
-  llm_score: 56
+  score: 14.855662799492448
+  llm_score: 0
   recency_score: 21.56180819670091
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: shut-up-2
-  title: SHUT UP
-  score: 39.54608494802719
-  llm_score: 54
-  recency_score: 8.730424740135948
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 12.09435426783947
+  llm_score: 0
+  recency_score: 3.6133027409565597
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 36.839779331069586
-  llm_score: 45
-  recency_score: 26.69889665534791
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 11.929924306986813
+  llm_score: 0
+  recency_score: 2.5445079954142833
+  length_score: 100
   category_score: 0
   rank: 10
 ---

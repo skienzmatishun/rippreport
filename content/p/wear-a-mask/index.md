@@ -10,65 +10,85 @@ authors:
 - admin
 alttags: Medical professionals in masks work under bright lights, illustrating concerns about public health safety and responsibili...
 related_articles:
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 93.82610187044024
-  llm_score: 95
-  recency_score: 89.13050935220119
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 77.91593127323996
+  llm_score: 83
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 83.37462733344732
-  llm_score: 85
-  recency_score: 76.87313666723661
-  rank: 2
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 82.75560018832756
-  llm_score: 85
-  recency_score: 73.7780009416378
-  rank: 3
 - slug: catalyst-virus
   title: CATALYST VIRUS
-  score: 82.08411183802811
+  score: 74.6800860292524
   llm_score: 85
   recency_score: 70.42055919014051
-  rank: 4
-- slug: take-a-chance
-  title: “TAKE A CHANCE”
-  score: 81.89249424486937
-  llm_score: 85
-  recency_score: 69.4624712243468
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 74.66654767894059
-  llm_score: 85
+  score: 30.820421291492764
+  llm_score: 23
   recency_score: 33.33273839470296
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 25.250847592646338
+  llm_score: 0
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 73.68018643855639
-  llm_score: 70
+  score: 25.13860495273569
+  llm_score: 0
   recency_score: 88.40093219278197
-  rank: 7
-- slug: april-fool
-  title: APRIL FOOL
-  score: 71.29061318606567
-  llm_score: 70
-  recency_score: 76.45306593032835
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 23.365097948805634
+  llm_score: 0
+  recency_score: 76.87313666723661
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: economic-virus
   title: ECONOMIC VIRUS
-  score: 70.83667471122875
-  llm_score: 70
+  score: 22.95128823940673
+  llm_score: 0
   recency_score: 74.18337355614374
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 22.888923221790435
+  llm_score: 0
+  recency_score: 73.7780009416378
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 22.224995572976432
+  llm_score: 0
+  recency_score: 69.4624712243468
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: exposure-2
   title: EXPOSURE
-  score: 60.39586260016436
-  llm_score: 70
+  score: 14.919894307818735
+  llm_score: 0
   recency_score: 21.979313000821772
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/stop-being-selfish/article_ec890f30-e390-5d2c-b8ee-4b10b95cbe5e.html" >}}

@@ -22,65 +22,85 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 95.56641283325074
-  llm_score: 95
-  recency_score: 97.83206416625366
-  rank: 1
 - slug: money-on-the-table
   title: MONEY ON THE TABLE
-  score: 93.39192896735389
-  llm_score: 95
+  score: 77.22456074411839
+  llm_score: 85
   recency_score: 86.95964483676948
-  rank: 2
-- slug: truth
-  title: TRUTH
-  score: 86.37150396712644
-  llm_score: 85
-  recency_score: 91.85751983563217
-  rank: 3
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 84.92190583576996
-  llm_score: 85
-  recency_score: 84.60952917884977
-  rank: 4
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 84.87560790070712
-  llm_score: 85
-  recency_score: 84.37803950353559
-  rank: 5
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 78.97623272188054
-  llm_score: 85
-  recency_score: 54.88116360940264
-  rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 74.31108503131156
-  llm_score: 85
-  recency_score: 31.555425156557842
-  rank: 7
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 73.01488310709092
-  llm_score: 70
-  recency_score: 85.07441553545459
-  rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 68.77814447703722
-  llm_score: 85
-  recency_score: 3.8907223851861064
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.55980182540611
-  llm_score: 75
+  score: 75.81523217338932
+  llm_score: 100
   recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 73.73573517145468
+  llm_score: 100
+  recency_score: 4.282278614455312
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: truth
+  title: TRUTH
+  score: 71.20884920548188
+  llm_score: 74
+  recency_score: 91.85751983563217
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 68.70083463947044
+  llm_score: 85
+  recency_score: 31.555425156557842
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: going-down
+  title: GOING DOWN
+  score: 67.40120142972921
+  llm_score: 78
+  recency_score: 51.107809293239825
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 66.1355636322158
+  llm_score: 75
+  recency_score: 54.88116360940264
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 24.555312181361508
+  llm_score: 0
+  recency_score: 84.60952917884977
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 11.84944925820834
+  llm_score: 0
+  recency_score: 2.02142017835421
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope is closing in on another municipal election so get ready for CATALYST and the ill informed to try and convince voters that they know best.

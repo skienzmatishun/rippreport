@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability
 related_articles:
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 71.93747241426178
-  llm_score: 90
-  recency_score: 44.68736207130882
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 75.64097089112364
+  llm_score: 100
+  recency_score: 16.666310792303566
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 63.13868620757778
-  llm_score: 85
-  recency_score: 18.193431037888864
-  category_score: 0
-  rank: 2
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 60.34480344505099
-  llm_score: 85
-  recency_score: 4.224017225254928
-  category_score: 0
-  rank: 3
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 60.31078920500242
-  llm_score: 85
-  recency_score: 4.053946025012058
-  category_score: 0
-  rank: 4
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 60.2975701110339
-  llm_score: 85
-  recency_score: 3.9878505551694436
-  category_score: 0
-  rank: 5
 - slug: threesome
   title: THREESOME
-  score: 59.66149687375565
-  llm_score: 65
-  recency_score: 70.80748436877823
-  category_score: 0
-  rank: 6
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 52.8764874874451
+  score: 68.58576682596589
   llm_score: 75
-  recency_score: 1.8824374372254367
+  recency_score: 70.80748436877823
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 51.21000007071323
-  llm_score: 70
-  recency_score: 11.05000035356611
-  category_score: 0
-  rank: 8
+  rank: 2
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 45.69667836791153
-  llm_score: 65
+  score: 63.997444898393496
+  llm_score: 85
   recency_score: 0.9833918395576343
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 61.69978735082183
+  llm_score: 75
+  recency_score: 26.048617780341775
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 58.342156496193084
+  llm_score: 75
+  recency_score: 4.224017225254928
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: above-the-law
   title: ABOVE THE LAW
-  score: 45.55843243410507
-  llm_score: 65
+  score: 57.73725571854237
+  llm_score: 75
   recency_score: 0.2921621705253142
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 56.183604775059834
+  llm_score: 68
+  recency_score: 18.193431037888864
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 42.92120777771839
+  llm_score: 50
+  recency_score: 3.9878505551694436
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 18.413440318662897
+  llm_score: 0
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 12.162145542309547
+  llm_score: 0
+  recency_score: 4.053946025012058
+  length_score: 100
   category_score: 0
   rank: 10
 ---

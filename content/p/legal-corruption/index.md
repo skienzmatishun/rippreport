@@ -17,65 +17,85 @@ authors:
 - admin
 alttags: Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials
 related_articles:
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 82.0
-  llm_score: 90
-  recency_score: 50
-  rank: 1
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 78.24230004805162
-  llm_score: 90
-  recency_score: 31.21150024025806
-  rank: 2
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 74.17426475741956
-  llm_score: 85
-  recency_score: 30.871323787097815
-  rank: 3
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 69.9643950362927
-  llm_score: 85
-  recency_score: 9.821975181463475
-  rank: 4
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 68.70313038712806
-  llm_score: 85
-  recency_score: 3.5156519356403035
-  rank: 5
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 68.0505349731761
-  llm_score: 85
-  recency_score: 0.2526748658804697
-  rank: 6
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 66.22156185864796
-  llm_score: 70
+  score: 80.93966296819076
+  llm_score: 100
   recency_score: 51.107809293239825
-  rank: 7
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 63.13916117711129
-  llm_score: 70
-  recency_score: 35.69580588555647
-  rank: 8
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 61.379553189219216
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 6.897765946096069
-  rank: 9
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 59.68445897177272
+  llm_score: 78
+  recency_score: 0.9489833165225753
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: threesome
   title: THREESOME
-  score: 57.126392383720344
-  llm_score: 70
+  score: 26.55876337209257
+  llm_score: 23
   recency_score: 5.6319619186017045
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 16.34023080619355
+  llm_score: 0
+  recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 16.287895967245817
+  llm_score: 0
+  recency_score: 30.871323787097815
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 13.049534643302074
+  llm_score: 0
+  recency_score: 9.821975181463475
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 12.809986991952911
+  llm_score: 0
+  recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 12.079331067021585
+  llm_score: 0
+  recency_score: 3.5156519356403035
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama and our elected officials are more interested in special interests than their constituents.

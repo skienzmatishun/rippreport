@@ -45,22 +45,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.56061833888441
-  llm_score: 95
-  recency_score: 19.644019202748584
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.08152135725518
-  llm_score: 95
-  recency_score: 16.529888822158654
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
   score: 82.80462412241712
@@ -68,9 +52,25 @@ related_articles:
   recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 78.40677218503825
+  llm_score: 85
+  recency_score: 19.644019202748584
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 77.92767520340902
+  llm_score: 85
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 77.69230769230771
   llm_score: 95
   recency_score: 50
@@ -85,8 +85,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50

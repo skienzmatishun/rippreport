@@ -13,30 +13,46 @@ authors:
 - ripp-report
 alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices
 related_articles:
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 63.886880253562424
-  llm_score: 85
-  recency_score: 0.2647216481556642
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 70.05098514149157
+  llm_score: 95
+  recency_score: 0.3314034196950972
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 58.04603296582942
-  llm_score: 75
-  recency_score: 2.2992142778911093
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 63.90196340754906
+  llm_score: 85
+  recency_score: 0.3627621490688241
   length_score: 100
   category_score: 0
   rank: 2
 - slug: state-senate-seat-district-32-bombs-away
   title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 57.741106146234756
-  llm_score: 75
+  score: 63.89495230008091
+  llm_score: 85
   recency_score: 0.3171899505257979
   length_score: 100
   category_score: 0
   rank: 3
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 63.89273161146733
+  llm_score: 85
+  recency_score: 0.30275547453758156
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 57.73303409971627
+  llm_score: 75
+  recency_score: 0.2647216481556642
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: shooting-yourself-in-the-foot
   title: SHOOTING YOURSELF IN THE FOOT
   score: 57.25788127185212
@@ -44,7 +60,7 @@ related_articles:
   recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
 - slug: catalyst-attack
   title: CATALYST ATTACK
   score: 55.06926587304835
@@ -52,7 +68,7 @@ related_articles:
   recency_score: 2.9502281748141934
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
   score: 55.038059267903826
@@ -60,7 +76,7 @@ related_articles:
   recency_score: 2.7473852413747677
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 8
 - slug: faux-candidates
   title: FAUX CANDIDATES
   score: 54.99941141052494
@@ -68,28 +84,12 @@ related_articles:
   recency_score: 2.4961741684120615
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 54.67119417677983
-  llm_score: 70
-  recency_score: 0.3627621490688241
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 54.66636975687618
-  llm_score: 70
-  recency_score: 0.3314034196950972
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 54.6619623806981
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 54.96910988890634
   llm_score: 70
-  recency_score: 0.30275547453758156
+  recency_score: 2.2992142778911093
   length_score: 100
   category_score: 0
   rank: 10

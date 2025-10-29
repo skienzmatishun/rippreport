@@ -12,81 +12,81 @@ alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electron
 related_articles:
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 78.97993871257283
-  llm_score: 85
+  score: 75.28763102026514
+  llm_score: 79
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 78.5306560620227
-  llm_score: 85
-  recency_score: 95.44926440314748
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 77.78581185709234
-  llm_score: 85
+  score: 74.09350416478465
+  llm_score: 79
   recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 69.29988683125347
+  llm_score: 70
+  recency_score: 95.44926440314748
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: war
-  title: WAR
-  score: 74.87863504466151
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 60.51343414409339
   llm_score: 79
-  recency_score: 95.71112779029973
+  recency_score: 2.337321936606922
   length_score: 100
   category_score: 0
   rank: 4
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 63.9529861417856
-  llm_score: 85
-  recency_score: 0.6944099216063174
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 58.043457102367164
+  llm_score: 70
+  recency_score: 22.28247116538646
   length_score: 100
   category_score: 0
   rank: 5
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 60.504995563905624
-  llm_score: 74
-  recency_score: 22.28247116538646
+- slug: war
+  title: WAR
+  score: 57.03248119850766
+  llm_score: 50
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 6
 - slug: veterans-day-in-alabama
   title: Veterans Day In Alabama
-  score: 59.297259992258894
-  llm_score: 75
+  score: 56.220336915335814
+  llm_score: 70
   recency_score: 10.432189949682714
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 58.05189568255493
-  llm_score: 75
-  recency_score: 2.337321936606922
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 54.72221691101637
+  llm_score: 70
+  recency_score: 0.6944099216063174
   length_score: 100
   category_score: 0
   rank: 8
-- slug: insanity-2
-  title: INSANITY
-  score: 57.98350468832581
-  llm_score: 75
-  recency_score: 1.892780474117634
+- slug: symbol
+  title: Veterans Day
+  score: 49.063399988780766
+  llm_score: 60
+  recency_score: 3.9120999270748786
   length_score: 100
   category_score: 0
   rank: 9
-- slug: symbol
-  title: Veterans Day
-  score: 57.67878460416538
-  llm_score: 74
-  recency_score: 3.9120999270748786
+- slug: insanity-2
+  title: INSANITY
+  score: 42.598889303710415
+  llm_score: 50
+  recency_score: 1.892780474117634
   length_score: 100
   category_score: 0
   rank: 10

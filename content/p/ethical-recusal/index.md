@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 78.84502484628416
-  llm_score: 90
-  recency_score: 79.22512423142078
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 81.25755255879673
+  llm_score: 95
+  recency_score: 73.17409163217867
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 71.73834833895516
-  llm_score: 95
-  recency_score: 26.19174169477578
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 69.51194426246576
+  llm_score: 87
+  recency_score: 28.827637706027392
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 69.5549096808922
-  llm_score: 85
+  score: 66.65762283145553
+  llm_score: 77
   recency_score: 50.274548404460894
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 67.13481832643575
-  llm_score: 75
-  recency_score: 73.17409163217867
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 55.56796026073474
+  llm_score: 65
+  recency_score: 26.19174169477578
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 67.06195333019646
-  llm_score: 85
-  recency_score: 37.809766650982276
-  category_score: 0
-  rank: 5
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 65.26552754120549
-  llm_score: 85
-  recency_score: 28.827637706027392
-  category_score: 0
-  rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 63.07936112702272
-  llm_score: 85
-  recency_score: 17.896805635113584
-  category_score: 0
-  rank: 7
 - slug: no-98-ethical-abortion
   title: No 98 - Ethical Abortion
-  score: 62.608371241258325
-  llm_score: 65
+  score: 24.698747108660246
+  llm_score: 0
   recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 23.726942189449353
+  llm_score: 0
+  recency_score: 79.22512423142078
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 17.355348715535737
+  llm_score: 0
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 14.291816251555936
+  llm_score: 0
+  recency_score: 17.896805635113584
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 59.78548014557775
-  llm_score: 85
-  recency_score: 1.4274007278886993
-  category_score: 0
-  rank: 9
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 53.422212084584665
-  llm_score: 75
+  score: 12.247855449680506
+  llm_score: 0
   recency_score: 4.6110604229232885
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 11.758061650444414
+  llm_score: 0
+  recency_score: 1.4274007278886993
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -21,6 +21,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 71.9051795324712
+  llm_score: 85
+  recency_score: 52.383666961062694
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 71.09967188033572
+  llm_score: 95
+  recency_score: 7.147867222182147
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 71.0553958969321
@@ -28,7 +44,7 @@ related_articles:
   recency_score: 6.86007333005856
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 4
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
   score: 68.8493670052485
@@ -36,7 +52,15 @@ related_articles:
   recency_score: 32.52088553411519
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 67.66079829100822
+  llm_score: 85
+  recency_score: 24.795188891553348
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 66.83537193573783
@@ -44,52 +68,28 @@ related_articles:
   recency_score: 19.429917582295765
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 62.67441030170197
-  llm_score: 70
-  recency_score: 52.383666961062694
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 58.43002906023899
-  llm_score: 70
-  recency_score: 24.795188891553348
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 57.52381801167258
-  llm_score: 70
-  recency_score: 18.90481707587172
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 57.48424810384535
-  llm_score: 70
-  recency_score: 18.647612674994708
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 56.21594580371498
-  llm_score: 70
+  score: 65.44671503448421
+  llm_score: 85
   recency_score: 10.403647724147305
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 60.60074108859566
+  llm_score: 75
+  recency_score: 18.90481707587172
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 55.71505649572034
-  llm_score: 70
-  recency_score: 7.147867222182147
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 60.56117118076843
+  llm_score: 75
+  recency_score: 18.647612674994708
   length_score: 100
   category_score: 0
   rank: 10

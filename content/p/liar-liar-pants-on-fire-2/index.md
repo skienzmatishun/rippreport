@@ -9,63 +9,83 @@ authors:
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 84.50975554986516
+  score: 76.54596580758859
   llm_score: 85
   recency_score: 82.54877774932578
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 79.3002072693518
-  llm_score: 75
-  recency_score: 96.50103634675902
-  rank: 2
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 67.88849539476564
-  llm_score: 65
+  score: 76.06807338058897
+  llm_score: 85
   recency_score: 79.4424769738282
-  rank: 3
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 57.181255192369875
-  llm_score: 65
-  recency_score: 25.906275961849367
-  rank: 4
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 53.652983089538786
-  llm_score: 65
-  recency_score: 8.264915447693923
-  rank: 5
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 53.53339065902054
-  llm_score: 60
-  recency_score: 27.666953295102704
-  rank: 6
-- slug: cover-up
-  title: COVER UP
-  score: 52.43214186633806
-  llm_score: 60
-  recency_score: 22.160709331690267
-  rank: 7
-- slug: joke
-  title: JOKE LLP
-  score: 52.28314334984758
-  llm_score: 65
-  recency_score: 1.4157167492379013
-  rank: 8
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 52.22929156466386
-  llm_score: 65
-  recency_score: 1.1464578233192855
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 48.27749588022975
-  llm_score: 50
+  score: 70.21345836940752
+  llm_score: 85
   recency_score: 41.38747940114875
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 56.50229468426061
+  llm_score: 71
+  recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: joke
+  title: JOKE LLP
+  score: 43.75626411526738
+  llm_score: 52
+  recency_score: 1.4157167492379013
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 29.461697899501395
+  llm_score: 5
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: crazy
+  title: CRAZY
+  score: 25.17044433582059
+  llm_score: 0
+  recency_score: 13.607888182833822
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 18.87183896847734
+  llm_score: 5
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 15.524042455669134
+  llm_score: 0
+  recency_score: 25.906275961849367
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: cover-up
+  title: COVER UP
+  score: 0.7939552817985014
+  llm_score: -23
+  recency_score: 22.160709331690267
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fly Creek apartments, aka, Fairhope Village Apartments at Publix was one of the most blatant acts of corruption in Fairhope. Over 5 lawsuits, resulting from polluting Fly Creek, drainage issues and multiple violations, has cost taxpayers hundreds of thousands of dollars.

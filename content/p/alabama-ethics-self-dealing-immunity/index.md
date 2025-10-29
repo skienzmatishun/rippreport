@@ -9,74 +9,84 @@ authors:
 - admin
 alttags: Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct...
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 89.62009294457452
-  llm_score: 100
-  recency_score: 98.10046472287257
-  category_score: 0
-  rank: 1
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 87.22490003199702
-  llm_score: 98
-  recency_score: 93.12450015998506
-  category_score: 0
-  rank: 2
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 76.00975554986516
-  llm_score: 85
-  recency_score: 82.54877774932578
-  category_score: 0
-  rank: 3
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 75.25844022710412
-  llm_score: 85
+  score: 86.89110786700317
+  llm_score: 84
   recency_score: 78.79220113552056
-  category_score: 0
-  rank: 4
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 71.15815862604524
+  score: 72.81396817388097
   llm_score: 85
   recency_score: 58.29079313022616
+  length_score: 100
   category_score: 0
-  rank: 5
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 66.76030246445875
-  llm_score: 90
-  recency_score: 18.801512322293714
-  category_score: 0
-  rank: 6
+  rank: 2
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 64.92828195143117
-  llm_score: 85
+  score: 68.63713996263937
+  llm_score: 86
   recency_score: 27.14140975715586
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 62.069413027965226
+  rank: 3
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 66.73869420342982
   llm_score: 85
-  recency_score: 12.847065139826096
+  recency_score: 18.801512322293714
+  length_score: 100
   category_score: 0
-  rank: 8
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 59.94619131904495
+  rank: 4
+- slug: ethics-comedians
+  title: ETHICS COMEDIANS
+  score: 64.22495586808593
   llm_score: 85
-  recency_score: 2.230956595224708
+  recency_score: 2.4622131425584706
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 42.47261545821017
-  llm_score: 60
+  score: 64.20970419862321
+  llm_score: 85
   recency_score: 2.363077291050805
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 63.97647155997326
+  llm_score: 82
+  recency_score: 12.847065139826096
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 25.865307716920782
+  llm_score: 0
+  recency_score: 93.12450015998506
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 14.722102643407467
+  llm_score: 0
+  recency_score: 20.693667182148534
+  length_score: 100
   category_score: 0
   rank: 10
 ---

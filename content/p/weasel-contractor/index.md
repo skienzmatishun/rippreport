@@ -17,63 +17,83 @@ alttags: Chris Elliott’s face emerging from a ballot box, symbolizing his elec
 related_articles:
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 75.96601468604398
+  score: 69.97385745080308
   llm_score: 85
   recency_score: 39.83007343021991
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 75.37777423965625
+  score: 69.52136479973558
   llm_score: 85
   recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 69.17043574274372
-  llm_score: 85
-  recency_score: 5.8521787137186125
-  rank: 3
-- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
-  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
-  score: 69.17043574274372
-  llm_score: 85
-  recency_score: 5.8521787137186125
-  rank: 4
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 69.16723345817019
+  score: 64.744025737054
   llm_score: 85
   recency_score: 5.836167290850916
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 64.58936953844324
+  llm_score: 85
+  recency_score: 4.830901999880929
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 12.43879672518748
+  llm_score: 0
+  recency_score: 5.8521787137186125
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 69.15767907688166
-  llm_score: 85
+  score: 12.428983905293588
+  llm_score: 0
   recency_score: 5.78839538440832
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 12.3171115332381
+  llm_score: 0
+  recency_score: 5.061224966047647
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 69.00395926891434
-  llm_score: 85
+  score: 12.310737899164877
+  llm_score: 0
   recency_score: 5.0197963445716995
-  rank: 7
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 68.96618039997618
-  llm_score: 85
-  recency_score: 4.830901999880929
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 68.84480344505099
-  llm_score: 85
+  score: 12.188310342346913
+  llm_score: 0
   recency_score: 4.224017225254928
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 60.049008351198104
-  llm_score: 70
-  recency_score: 20.245041755990528
+- slug: ask-chris-elliott-catalyst-red-flags
+  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
+  score: 0.1385349272393892
+  llm_score: -20
+  recency_score: 5.9004770270560485
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County really made a mistake when they elected [Chris Elliott](https://rippreport.com/tag/elliott/) to replace [Tripp Boom Boom Pittman](https://rippreport.com/tag/pittman/) as State Senator.

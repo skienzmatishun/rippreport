@@ -9,74 +9,84 @@ authors:
 - admin
 alttags: Political figure speaks at a podium with American flags behind him, referencing a podcast about older politicians
 related_articles:
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 67.0852158205546
-  llm_score: 95
-  recency_score: 2.9260791027729454
-  category_score: 0
-  rank: 1
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 67.02017874039542
-  llm_score: 95
-  recency_score: 2.6008937019770966
-  category_score: 0
-  rank: 2
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 62.90712647419587
-  llm_score: 85
-  recency_score: 17.035632370979314
-  category_score: 0
-  rank: 3
 - slug: bsp-128
   title: Big News
-  score: 60.166254492476675
-  llm_score: 75
+  score: 59.28173422498206
+  llm_score: 68
   recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 56.91757215508185
+  llm_score: 68
+  recency_score: 22.96421900803196
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 48.76268439509405
+  llm_score: 58
+  recency_score: 9.957448568111234
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: the-180
+  title: THE 180
+  score: 47.645984100822766
+  llm_score: 52
+  recency_score: 26.69889665534791
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 57.889834789740846
-  llm_score: 81
-  recency_score: 5.949173948704226
+- slug: im-back-2
+  title: I'M BACK
+  score: 26.755398860360074
+  llm_score: 0
+  recency_score: 98.91009259234048
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: primary-election-may-24th
   title: Primary Election May 24th
-  score: 52.636136912586046
-  llm_score: 64
+  score: 17.566259163527725
+  llm_score: 0
   recency_score: 39.1806845629302
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: the-180
-  title: THE 180
-  score: 50.83977933106959
-  llm_score: 65
-  recency_score: 26.69889665534791
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-the-46th-president-of-the-united-states
-  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 50.684990070341016
-  llm_score: 70
-  recency_score: 8.424950351705032
-  category_score: 0
-  rank: 8
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 50.0928438016064
-  llm_score: 65
-  recency_score: 22.96421900803196
-  category_score: 0
-  rank: 9
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 49.53793035989312
-  llm_score: 65
+  score: 14.64456181530239
+  llm_score: 0
   recency_score: 20.189651799465537
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 12.92855882630451
+  llm_score: -2
+  recency_score: 17.035632370979314
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 12.007512925253332
+  llm_score: 0
+  recency_score: 3.0488340141466597
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 11.9342379029006
+  llm_score: 0
+  recency_score: 2.572546368853898
+  length_score: 100
   category_score: 0
   rank: 10
 ---

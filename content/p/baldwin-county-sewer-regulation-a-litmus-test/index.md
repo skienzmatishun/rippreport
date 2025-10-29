@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale graphic, illustrating Baldwin County’s emerging se...
 related_articles:
-- slug: stinky-business
-  title: STINKY BUSINESS
-  score: 63.660784049582105
-  llm_score: 89
-  recency_score: 6.803920247910508
-  category_score: 0
-  rank: 1
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 62.39859293447588
-  llm_score: 85
-  recency_score: 14.49296467237936
-  category_score: 0
-  rank: 2
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 61.78513651399793
-  llm_score: 65
-  recency_score: 81.42568256998956
-  category_score: 0
-  rank: 3
-- slug: stinking-ticking-time-bomb
-  title: STINKING TICKING TIME BOMB
-  score: 60.57808285380278
-  llm_score: 85
-  recency_score: 5.390414269013892
-  category_score: 0
-  rank: 4
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 55.17654461491677
-  llm_score: 65
-  recency_score: 48.38272307458382
-  category_score: 0
-  rank: 5
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 55.15006981718642
-  llm_score: 65
+  score: 65.73082293629726
+  llm_score: 76
   recency_score: 48.25034908593207
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 54.65600931164779
-  llm_score: 70
-  recency_score: 28.280046558238915
-  category_score: 0
-  rank: 7
+  rank: 1
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 48.20818920394052
-  llm_score: 60
+  score: 62.467837849185024
+  llm_score: 75
   recency_score: 31.040946019702552
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 2
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 58.98195739608983
+  llm_score: 65
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 39.45010501076763
+  llm_score: 25
+  recency_score: 81.42568256998956
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 27.921994564981446
+  llm_score: 23
+  recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 47.421808212384576
-  llm_score: 65
+  score: 27.17062170183429
+  llm_score: 23
   recency_score: 9.609041061922857
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 38.69899455443594
-  llm_score: 50
+  score: 14.383841964950724
+  llm_score: 0
   recency_score: 18.4949727721797
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 12.58521849967854
+  llm_score: 0
+  recency_score: 6.803920247910508
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 12.367756041386752
+  llm_score: 0
+  recency_score: 5.390414269013892
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 11.579299678056381
+  llm_score: 0
+  recency_score: 0.265447907366482
+  length_score: 100
   category_score: 0
   rank: 10
 ---

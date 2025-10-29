@@ -11,65 +11,85 @@ authors:
 - admin
 alttags: Dangerous Highway 98/Parker Road intersection in Fairhope, marked with warning signs, highlighted as a source of frequent ...
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 84.73747273054873
-  llm_score: 85
-  recency_score: 83.68736365274363
+- slug: going-down
+  title: GOING DOWN
+  score: 69.98138046229707
+  llm_score: 75
+  recency_score: 79.87897300493081
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 82.17127158449026
-  llm_score: 80
-  recency_score: 90.85635792245131
-  rank: 2
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 73.67436363196032
-  llm_score: 92
+  score: 63.90335663996948
+  llm_score: 85
   recency_score: 0.37181815980154354
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 63.901810713906016
+  llm_score: 85
+  recency_score: 0.36176964038901915
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 73.5637938281211
-  llm_score: 85
-  recency_score: 27.818969140605503
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 63.43377932647719
+  llm_score: 72
+  recency_score: 49.31956562210165
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 68.71282858459234
-  llm_score: 85
-  recency_score: 3.5641429229617514
-  rank: 5
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 68.25866721388734
-  llm_score: 85
+  score: 59.12205170299026
+  llm_score: 77
   recency_score: 1.2933360694366538
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 29.972149098554695
+  llm_score: 23
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 66.88638684588861
-  llm_score: 70
-  recency_score: 54.43193422944308
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 24.413440561960563
+  llm_score: 0
+  recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 66.00740303311295
-  llm_score: 75
+  score: 16.159540794702274
+  llm_score: 0
   recency_score: 30.037015165564775
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: eagles-eye-catalyst-kant-corte
-  title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 63.70914268128782
-  llm_score: 75
-  recency_score: 18.545713406439127
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 12.066157637681139
+  llm_score: 0
+  recency_score: 3.4300246449273972
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 61.21620125250436
-  llm_score: 75
-  recency_score: 6.0810062625217975
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 11.596612423355612
+  llm_score: 0
+  recency_score: 0.37798075181147806
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Highway 98 and Parker Road is Fairhope’s Malfunction Junction, compliments of a Catalyst City Council. Fairhope’s City Council supported the developer, and the developer supported them. A good ole boy deal that will impact every citizen in Fairhope and everyone else that goes through that intersection.

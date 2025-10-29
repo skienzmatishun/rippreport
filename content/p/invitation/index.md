@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Fairhope residents encouraged to provide feedback on Waterfront park project through public participation
 related_articles:
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 95.89071065521195
-  llm_score: 95
-  recency_score: 99.45355327605971
-  rank: 1
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 87.67392032634467
+  score: 78.97993871257283
   llm_score: 85
   recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 73.1678100280349
+  llm_score: 100
+  recency_score: 0.5907651822267828
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: truth
-  title: TRUTH
-  score: 86.67599711942087
-  llm_score: 85
-  recency_score: 93.37998559710435
-  rank: 3
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 75.35758882342884
-  llm_score: 85
-  recency_score: 36.787944117144235
-  rank: 4
-- slug: 100-voices
-  title: 100 VOICES
-  score: 73.89329029325975
-  llm_score: 85
-  recency_score: 29.466451466298754
-  rank: 5
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 73.73402200483869
-  llm_score: 85
-  recency_score: 28.67011002419343
-  rank: 6
-- slug: shut-up
-  title: SHUT UP
-  score: 68.71282858459234
-  llm_score: 85
-  recency_score: 3.5641429229617514
-  rank: 7
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 60.80195235339659
-  llm_score: 75
+  score: 64.46304027184354
+  llm_score: 85
   recency_score: 4.009761766982932
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: shut-up
+  title: SHUT UP
+  score: 55.77909891122489
+  llm_score: 71
+  recency_score: 3.5641429229617514
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 54.71847846526054
+  llm_score: 63
+  recency_score: 28.67011002419343
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 26.839008196316883
+  llm_score: 0
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: truth
+  title: TRUTH
+  score: 25.90461316878529
+  llm_score: 0
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: survey
+  title: SURVEY
+  score: 22.079602810234114
+  llm_score: 0
+  recency_score: 68.51741826652172
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: people-power
-  title: PEOPLE POWER
-  score: 60.54200128617527
-  llm_score: 75
-  recency_score: 2.7100064308763563
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 18.428914479560653
+  llm_score: 2
+  recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 56.406505370953056
-  llm_score: 70
-  recency_score: 2.032526854765281
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 14.088498197381126
+  llm_score: 0
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope Mayor Wilson is inviting the citizens of Fairhope, again, to participate in the next upcoming presentation of the Waterfront project.

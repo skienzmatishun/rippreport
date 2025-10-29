@@ -30,19 +30,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 85.2586847232443
+  llm_score: 95
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
   score: 79.14670050400919
   llm_score: 85
   recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 79.10483856939815
-  llm_score: 85
-  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 3
@@ -70,11 +70,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 63.853502726337155
+- slug: elected-or-selected
+  title: ELECTED OR SELECTED
+  score: 63.847874136618024
   llm_score: 85
-  recency_score: 0.047767721191407035
+  recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
   rank: 7
@@ -88,17 +88,17 @@ related_articles:
   rank: 8
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
-  score: 57.7087979064666
-  llm_score: 75
+  score: 54.63187482954352
+  llm_score: 70
   recency_score: 0.10718639203280696
   length_score: 100
   category_score: 0
   rank: 9
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 54.61710490584879
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 54.62273349556792
   llm_score: 70
-  recency_score: 0.011181888017074006
+  recency_score: 0.047767721191407035
   length_score: 100
   category_score: 0
   rank: 10

@@ -37,14 +37,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 94.69874710866024
-  llm_score: 95
-  recency_score: 85.54185620629158
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 90.60509376242284
@@ -52,20 +44,28 @@ related_articles:
   recency_score: 58.93310945574846
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.98195739608983
+  rank: 4
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 89.2518459117458
   llm_score: 95
-  recency_score: 48.38272307458382
+  recency_score: 50.13699842634772
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 5
 - slug: bcso-culture
   title: BCSO CULTURE
   score: 85.5349768271939
   llm_score: 95
   recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 82.82811124224366
+  llm_score: 85
+  recency_score: 48.38272307458382
   length_score: 100
   category_score: 100
   rank: 7
@@ -77,21 +77,21 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 74.27984140624702
-  llm_score: 95
-  recency_score: 27.818969140605503
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 69.00703283175987
-  llm_score: 70
+  score: 78.2378020625291
+  llm_score: 85
   recency_score: 18.545713406439127
   length_score: 100
   category_score: 100
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 68.12599525240086
+  llm_score: 85
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 It seems the Baldwin County Sheriff's Department has internal hanky panky problems. One of the top officers in the Sheriff's Department has been having a little extra curricular activity with a subordinate female employee, who is married to a fellow officer.  No official action by the sheriff has been taken, in fact, looks like it's covered up from the public.  Why should we care?  Because the Sheriff's Department is well known for cover ups.  The problem is that fellow officers are now wondering how this situation is not public and severe action has not been taken against the senior officer.  The Ripp Report has had 3 different people call us giving us dates, names and ranks of the individuals involved.  Let's see how Sheriff Hoss Mack is going to spin this sordid story. 

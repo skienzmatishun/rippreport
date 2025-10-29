@@ -19,74 +19,84 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring money bags and a sailboat, related to legal fee dispute discussed in the article
 related_articles:
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 79.33629014021759
-  llm_score: 85
-  recency_score: 99.18145070108791
-  category_score: 0
-  rank: 1
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 71.31895828211928
-  llm_score: 85
-  recency_score: 59.09479141059637
-  category_score: 0
-  rank: 2
-- slug: no-radar
-  title: NO RADAR
-  score: 68.05037696445636
-  llm_score: 82
-  recency_score: 53.251884822281745
-  category_score: 0
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 64.79607060479167
-  llm_score: 85
-  recency_score: 26.48035302395829
-  category_score: 0
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 62.43053303106537
-  llm_score: 85
-  recency_score: 14.652665155326813
-  category_score: 0
-  rank: 5
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 60.91399241756759
-  llm_score: 85
-  recency_score: 7.069962087837917
-  category_score: 0
-  rank: 6
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 60.68983478974085
-  llm_score: 85
-  recency_score: 5.949173948704226
-  category_score: 0
-  rank: 7
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 55.72545730213693
-  llm_score: 75
+  score: 75.55804407856688
+  llm_score: 100
   recency_score: 16.127286510684606
+  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 1
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 72.33560780016738
+  llm_score: 74
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 55.54512055871785
-  llm_score: 75
+  score: 66.18855427593681
+  llm_score: 85
   recency_score: 15.225602793589186
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 64.76141137672374
+  llm_score: 85
+  recency_score: 5.949173948704226
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 61.15082354214744
+  llm_score: 74
+  recency_score: 26.48035302395829
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 59.701537705633136
+  llm_score: 75
+  recency_score: 13.05999508661529
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-radar
+  title: NO RADAR
+  score: 19.73105920342796
+  llm_score: 0
+  recency_score: 53.251884822281745
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 12.626148013513525
+  llm_score: 0
+  recency_score: 7.069962087837917
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 12.561948485434895
+  llm_score: -2
+  recency_score: 14.652665155326813
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: pandoras-box
   title: PANDORA'S BOX
-  score: 53.2910416064817
-  llm_score: 75
+  score: 12.146955081908992
+  llm_score: 0
   recency_score: 3.955208032408443
+  length_score: 100
   category_score: 0
   rank: 10
 ---

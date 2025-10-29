@@ -18,63 +18,83 @@ alttags: Illustration of a fly, symbolizing corruption and harmful relationships
 related_articles:
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 91.82112415020393
-  llm_score: 92
+  score: 71.70855703861841
+  llm_score: 75
   recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 85.68018643855639
-  llm_score: 85
-  recency_score: 88.40093219278197
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 65.42775293469832
+  llm_score: 87
+  recency_score: 2.2803940755389456
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 84.73747273054873
-  llm_score: 85
-  recency_score: 83.68736365274363
+- slug: hate
+  title: HATE
+  score: 63.34248786835884
+  llm_score: 83
+  recency_score: 4.726171144332342
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: queen-bee
   title: QUEEN BEE
-  score: 83.29061318606567
-  llm_score: 85
+  score: 37.454317835435134
+  llm_score: 23
   recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 69.09595122468718
-  llm_score: 85
-  recency_score: 5.4797561234359335
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 25.13860495273569
+  llm_score: 0
+  recency_score: 88.40093219278197
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 24.413440561960563
+  llm_score: 0
+  recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: triangle-roaches
   title: TRIANGLE ROACHES
-  score: 66.5631983784823
-  llm_score: 70
+  score: 19.663998752678694
+  llm_score: 0
   recency_score: 52.81599189241148
-  rank: 6
-- slug: skunked
-  title: SKUNKED
-  score: 62.93857289717093
-  llm_score: 75
-  recency_score: 14.692864485854656
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: hate
-  title: HATE
-  score: 60.94523422886647
-  llm_score: 75
-  recency_score: 4.726171144332342
+- slug: honey-bees
+  title: HONEY BEES
+  score: 18.508266119103027
+  llm_score: 0
+  recency_score: 45.30372977416965
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 60.45607881510779
-  llm_score: 75
-  recency_score: 2.2803940755389456
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 12.381500942067067
+  llm_score: 0
+  recency_score: 5.4797561234359335
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 60.32919103556648
-  llm_score: 75
+  score: 11.791685411974218
+  llm_score: 0
   recency_score: 1.6459551778324155
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Comment:

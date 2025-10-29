@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 72.57987434468457
-  llm_score: 85
-  recency_score: 65.39937172342279
-  category_score: 0
-  rank: 1
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 71.38389745041349
-  llm_score: 85
+  score: 82.21838265416423
+  llm_score: 100
   recency_score: 59.41948725206741
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 75.1383648805266
+  llm_score: 87
+  recency_score: 65.39937172342279
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 69.50000000000001
-  llm_score: 85
-  recency_score: 50
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 73.70139758808865
+  llm_score: 95
+  recency_score: 24.0590843225762
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 65.50839979983253
-  llm_score: 75
-  recency_score: 65.04199899916262
-  category_score: 0
+- slug: no-justice
+  title: NO JUSTICE
+  score: 25.445134821944073
+  llm_score: 0
+  recency_score: 15.39337634263649
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 63.6064347521116
-  llm_score: 90
-  recency_score: 3.032173760557979
-  category_score: 0
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 23.522182699981208
+  llm_score: 0
+  recency_score: 2.894187549877844
+  length_score: 100
+  category_score: 100
   rank: 5
 - slug: law-and-disorder-part-1
   title: LAW and DisORDER Part 1
-  score: 60.077253824207034
-  llm_score: 85
+  score: 23.52096448015925
+  llm_score: 0
   recency_score: 2.886269121035116
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 54.685913116233245
-  llm_score: 75
-  recency_score: 10.929565581166187
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 21.544922922948096
+  llm_score: 0
+  recency_score: 65.04199899916262
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: consequences
-  title: CONSEQUENCES
-  score: 49.8333096991411
-  llm_score: 70
-  recency_score: 4.16654849570544
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 46.07883750997558
-  llm_score: 65
-  recency_score: 2.894187549877844
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 13.21993316633326
+  llm_score: 0
+  recency_score: 10.929565581166187
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: loser
-  title: LOSER
-  score: 42.66563922962439
-  llm_score: 60
-  recency_score: 3.328196148121898
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 12.004949809316612
+  llm_score: 0
+  recency_score: 3.032173760557979
+  length_score: 100
   category_score: 0
   rank: 10
 ---

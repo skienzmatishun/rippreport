@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Community members encircling a central point, symbolizing citizen voices needing to be heard by Fairhope City Council
 related_articles:
-- slug: shut-up-2
-  title: SHUT UP
-  score: 91.42480962493805
-  llm_score: 95
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 85.4946196084981
-  llm_score: 86
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 84.10433453252152
+  score: 78.0557277256631
   llm_score: 85
   recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
 - slug: fairhope-petition
   title: FAIRHOPE PETITION
-  score: 82.26471793550155
+  score: 76.16894147230929
   llm_score: 85
   recency_score: 80.0981195700103
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: shut-up-2
+  title: SHUT UP
+  score: 72.74339448711596
+  llm_score: 75
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 79.16292308781011
-  llm_score: 85
+  score: 66.21838265416423
+  llm_score: 74
   recency_score: 59.41948725206741
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: shut-up
   title: SHUT UP
-  score: 78.56433939901355
-  llm_score: 95
+  score: 65.70701476821903
+  llm_score: 85
   recency_score: 12.09559599342363
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 78.25969706550981
+  rank: 5
+- slug: hello-can-you-hear-me-now
+  title: HELLO CAN YOU HEAR ME NOW
+  score: 65.10727123696019
   llm_score: 85
-  recency_score: 53.39798043673202
+  recency_score: 8.197263040241149
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 58.7829782161766
+  llm_score: 75
+  recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
   rank: 7
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 72.29118322742508
-  llm_score: 85
+  score: 57.93967510505137
+  llm_score: 72
   recency_score: 13.607888182833822
   length_score: 100
   category_score: 0
   rank: 8
-- slug: people-power
-  title: PEOPLE POWER
-  score: 71.6295382355299
-  llm_score: 85
-  recency_score: 9.196921570199363
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 40.661148316408315
+  llm_score: 23
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 9
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 61.56340376077217
-  llm_score: 70
-  recency_score: 7.089358405147809
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 19.75353545180493
+  llm_score: 0
+  recency_score: 53.39798043673202
   length_score: 100
   category_score: 0
   rank: 10

@@ -24,6 +24,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 69.50583755648374
+  llm_score: 85
+  recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 65.35309269063613
@@ -31,31 +39,47 @@ related_articles:
   recency_score: 9.795102489134761
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 63.351991402637594
-  llm_score: 75
-  recency_score: 36.787944117144235
-  length_score: 100
-  category_score: 0
   rank: 3
 - slug: deaf-ears
   title: DEAF EARS
-  score: 61.62348472951021
-  llm_score: 70
+  score: 64.70040780643329
+  llm_score: 75
   recency_score: 45.55265074181627
   length_score: 100
   category_score: 0
   rank: 4
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 58.84857971310886
-  llm_score: 70
+  score: 61.92550279003194
+  llm_score: 75
   recency_score: 27.51576813520753
   length_score: 100
   category_score: 0
   rank: 5
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 60.3203645123657
+  llm_score: 75
+  recency_score: 17.082369330376963
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 59.6960404997282
+  llm_score: 75
+  recency_score: 13.024263248233176
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 59.22003157289131
+  llm_score: 75
+  recency_score: 9.930205223793392
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 58.53304055999806
@@ -63,36 +87,12 @@ related_articles:
   recency_score: 5.464763639987247
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 9
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 58.16775318753589
-  llm_score: 70
-  recency_score: 23.090395718983192
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 57.50792497266058
-  llm_score: 70
-  recency_score: 18.801512322293714
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 57.24344143544262
-  llm_score: 70
-  recency_score: 17.082369330376963
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 53.54219434588204
+  score: 55.090830110612806
   llm_score: 65
-  recency_score: 13.024263248233176
+  recency_score: 23.090395718983192
   length_score: 100
   category_score: 0
   rank: 10

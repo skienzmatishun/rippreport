@@ -12,72 +12,82 @@ alttags: Portrait of Murray Lawrence Jr. alongside Baldwin County Courthouse; ad
 related_articles:
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 89.56641283325074
-  llm_score: 100
+  score: 86.89724064096211
+  llm_score: 98
   recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 86.33629014021759
-  llm_score: 95
-  recency_score: 99.18145070108791
-  category_score: 0
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 84.30769230769232
+  llm_score: 87
+  recency_score: 50
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 80.0
-  llm_score: 100
-  recency_score: 50
-  category_score: 0
-  rank: 3
-- slug: innocent
-  title: INNOCENT
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
-  category_score: 0
-  rank: 4
-- slug: rule-32
-  title: RULE 32
-  score: 76.5
-  llm_score: 95
-  recency_score: 50
-  category_score: 0
-  rank: 5
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 76.5
-  llm_score: 95
+  score: 83.07692307692308
+  llm_score: 85
   recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 68.46153846153847
+  llm_score: 80
+  recency_score: 50
+  length_score: 100
   category_score: 0
+  rank: 4
+- slug: no-justice
+  title: NO JUSTICE
+  score: 30.769230769230774
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: rule-32
+  title: RULE 32
+  score: 30.769230769230774
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 73.00000000000001
-  llm_score: 90
+  score: 30.769230769230774
+  llm_score: 0
   recency_score: 50
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: no-justice
-  title: NO JUSTICE
-  score: 73.00000000000001
-  llm_score: 90
-  recency_score: 50
-  category_score: 0
-  rank: 8
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 73.00000000000001
-  llm_score: 90
+  score: 30.769230769230774
+  llm_score: 0
   recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 28.027915492475067
+  llm_score: 2
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
-  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 69.50000000000001
-  llm_score: 85
+- slug: innocent
+  title: INNOCENT
+  score: 19.230769230769234
+  llm_score: 0
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 10
 ---

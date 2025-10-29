@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Smiling yellow emoji face representing the “happy days” posts discussed in the article
 related_articles:
-- slug: on-vacation
-  title: ON VACATION
-  score: 73.4431743480055
-  llm_score: 85
-  recency_score: 27.215871740027474
+- slug: celebration-of-life
+  title: CELEBRATION OF LIFE
+  score: 81.66011930813079
+  llm_score: 100
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 68.19614691902797
-  llm_score: 65
-  recency_score: 80.98073459513984
-  rank: 2
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 68.11718589559389
+- slug: from-the-tropics
+  title: FROM THE TROPICS
+  score: 64.08132213256842
   llm_score: 85
-  recency_score: 0.585929477969449
+  recency_score: 1.5285938616946646
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 62.29419298629024
+  llm_score: 67
+  recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 61.369721324142674
-  llm_score: 60
+  score: 53.822862557032835
+  llm_score: 52
   recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 56.27749588022975
-  llm_score: 60
-  recency_score: 41.38747940114875
-  rank: 5
 - slug: gone-fishing
   title: GONE FISHING
-  score: 52.51310158853855
+  score: 51.93315506810658
   llm_score: 65
   recency_score: 2.565507942692728
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 38.15088224540614
+  llm_score: 23
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 52.31680361570459
-  llm_score: 65
-  recency_score: 1.5840180785229494
-  rank: 7
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 52.305718772338935
-  llm_score: 65
-  recency_score: 1.5285938616946646
-  rank: 8
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 52.228038608420476
-  llm_score: 65
-  recency_score: 1.1401930421023998
-  rank: 9
 - slug: a-time-for-reflection-goobers-on-notice
   title: A Time for Reflection - Goobers on Notice
-  score: 52.11277620415708
-  llm_score: 65
+  score: 25.77905861858237
+  llm_score: 23
   recency_score: 0.5638810207853779
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 17.905766061715195
+  llm_score: 0
+  recency_score: 41.38747940114875
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: on-vacation
+  title: ON VACATION
+  score: 15.725518729234997
+  llm_score: 0
+  recency_score: 27.215871740027474
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: notice
+  title: 'NOTICE:'
+  score: 12.148624473300783
+  llm_score: 0
+  recency_score: 3.9660590764550863
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 It is amazing how many Facebook pages, and some media, only publish “happy days’ posts. How great the flowers are and how beautiful the bay is. First Fridays are fun filled with wine and spirited conversations about anything other than reality.

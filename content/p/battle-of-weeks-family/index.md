@@ -17,72 +17,82 @@ alttags: Vintage newspaper clipping featuring Blanche Weeks and a headline procl
 related_articles:
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 72.89097459752323
-  llm_score: 90
+  score: 80.68536507501787
+  llm_score: 100
   recency_score: 49.45487298761609
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 69.8909761644817
-  llm_score: 85
-  recency_score: 51.95488082240847
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 58.30919411799739
+  llm_score: 75
+  recency_score: 4.009761766982932
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 63.179676639013316
-  llm_score: 90
-  recency_score: 0.8983831950665335
-  category_score: 0
-  rank: 3
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 59.827392181937135
-  llm_score: 85
+  score: 57.94414783225934
+  llm_score: 75
   recency_score: 1.6369609096856257
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 46.75359741462563
+  llm_score: 57
+  recency_score: 0.8983831950665335
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 59.765124593939746
-  llm_score: 85
+  score: 27.12701891841519
+  llm_score: 25
   recency_score: 1.3256229696987023
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 53.301952353396594
-  llm_score: 75
-  recency_score: 4.009761766982932
-  category_score: 0
-  rank: 6
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 52.786263355363104
-  llm_score: 75
-  recency_score: 1.431316776815486
-  category_score: 0
-  rank: 7
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 52.7747375613533
-  llm_score: 75
-  recency_score: 1.3736878067664646
-  category_score: 0
-  rank: 8
 - slug: moma-bear
   title: MOTHER BEAR
-  score: 46.993633475481126
-  llm_score: 65
+  score: 26.841256519600865
+  llm_score: 23
   recency_score: 7.468167377405599
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 19.53152012652438
+  llm_score: 0
+  recency_score: 51.95488082240847
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 12.132134600673776
+  llm_score: 0
+  recency_score: 3.858874904379551
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: exposure
   title: EXPOSURE
-  score: 45.83190786506905
-  llm_score: 65
+  score: 11.793775280822338
+  llm_score: 0
   recency_score: 1.659539325345199
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 11.749798124117918
+  llm_score: 0
+  recency_score: 1.3736878067664646
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -17,74 +17,84 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 79.50975554986516
-  llm_score: 90
-  recency_score: 82.54877774932578
-  category_score: 0
-  rank: 1
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 79.39071065521195
-  llm_score: 85
+  score: 88.37746973477843
+  llm_score: 100
   recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: faux-candidates
   title: FAUX CANDIDATES
-  score: 78.6219058668791
-  llm_score: 86
-  recency_score: 92.10952933439548
-  category_score: 0
-  rank: 3
-- slug: sting
-  title: Sting
-  score: 76.37560790070712
+  score: 78.01685066683008
   llm_score: 85
-  recency_score: 84.37803950353559
+  recency_score: 92.10952933439548
+  length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 76.23747273054873
-  llm_score: 85
+  score: 77.95190210042212
+  llm_score: 87
   recency_score: 83.68736365274363
+  length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 75.0866878197373
-  llm_score: 85
+  rank: 3
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 69.06668293825948
+  llm_score: 74
   recency_score: 77.93343909868652
+  length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 65.30271402453602
-  llm_score: 90
+  score: 65.61747232656617
+  llm_score: 85
   recency_score: 11.51357012268003
+  length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 55.655531457481715
+  score: 60.11963958267825
   llm_score: 75
   recency_score: 15.777657287408536
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 59.294425898726985
+  llm_score: 74
+  recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: sting
+  title: Sting
+  score: 38.67354453900548
+  llm_score: 23
+  recency_score: 84.37803950353559
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 46.985471564286684
-  llm_score: 65
-  recency_score: 7.427357821433388
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 13.660858497991768
+  llm_score: 0
+  recency_score: 13.795580236946487
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: Smell-Test
   title: SMELL TEST
-  score: 45.95984285557823
-  llm_score: 65
+  score: 11.892186811983247
+  llm_score: 0
   recency_score: 2.2992142778911093
+  length_score: 100
   category_score: 0
   rank: 10
 ---

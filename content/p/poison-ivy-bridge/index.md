@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Mobile River Bridge overlaid with green leaves, representing local opposition to proposed toll increases for Mobile and Ba...
 related_articles:
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 86.4219058668791
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 73.1391258879285
   llm_score: 85
-  recency_score: 92.10952933439548
+  recency_score: 60.404318271535175
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: puzzle-pieces
   title: PUZZLE PIECES
-  score: 79.56641283325074
-  llm_score: 75
+  score: 70.89724064096211
+  llm_score: 72
   recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 76.79631106175715
-  llm_score: 80
-  recency_score: 63.98155530878573
-  rank: 3
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 71.23430628782093
-  llm_score: 85
-  recency_score: 16.171531439104648
-  rank: 4
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 69.71761680752583
-  llm_score: 85
-  recency_score: 8.588084037629146
-  rank: 5
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 69.0432153391477
-  llm_score: 85
-  recency_score: 5.216076695738494
-  rank: 6
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 63.07025208563967
-  llm_score: 75
-  recency_score: 15.35126042819837
-  rank: 7
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 62.93857289717093
-  llm_score: 75
-  recency_score: 14.692864485854656
-  rank: 8
-- slug: pied-piper
-  title: PIED PIPER
-  score: 55.29693268727894
-  llm_score: 65
-  recency_score: 16.48466343639469
-  rank: 9
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 52.98219407616733
-  llm_score: 65
+  score: 58.447841597051806
+  llm_score: 75
   recency_score: 4.910970380836641
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 25.709158359137767
+  llm_score: 0
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 21.38177773981319
+  llm_score: 0
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: pied-piper
+  title: PIED PIPER
+  score: 14.074563605599185
+  llm_score: 0
+  recency_score: 16.48466343639469
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 14.026389452169946
+  llm_score: 0
+  recency_score: 16.171531439104648
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 13.900193912030518
+  llm_score: 0
+  recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 12.85970523655833
+  llm_score: 0
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 12.340934876267461
+  llm_score: 0
+  recency_score: 5.216076695738494
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Last nights meeting opposing the Mobile Bridge Toll, is just one of many springing up around Mobile and Baldwin County.

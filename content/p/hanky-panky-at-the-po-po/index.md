@@ -18,6 +18,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 96.1827873027759
+  llm_score: 95
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
   score: 96.10276386439367
@@ -25,15 +33,15 @@ related_articles:
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 90.02894114892975
-  llm_score: 85
-  recency_score: 95.18811746804333
+  rank: 3
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 88.58506760056245
+  llm_score: 95
+  recency_score: 45.8029394036559
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 4
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 83.96781161582308
@@ -41,15 +49,15 @@ related_articles:
   recency_score: 55.79077550285001
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 83.13228866632195
-  llm_score: 75
-  recency_score: 90.35987633109261
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 82.68671941257651
+  llm_score: 85
+  recency_score: 47.463676181747225
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 82.55136413166147
@@ -57,7 +65,15 @@ related_articles:
   recency_score: 6.583866855799505
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 78.0856691536301
+  llm_score: 85
+  recency_score: 17.55684949859567
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: sheriff-mack-out-oj-french-lawsuit-in
   title: Sheriff Mack Out OJ French Lawsuit In
   score: 77.52102313566365
@@ -65,22 +81,6 @@ related_articles:
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 76.27737529287015
-  llm_score: 75
-  recency_score: 45.8029394036559
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 71.93182299978396
-  llm_score: 75
-  recency_score: 17.55684949859567
-  length_score: 100
-  category_score: 100
   rank: 9
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative

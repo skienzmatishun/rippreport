@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C...
 related_articles:
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 85.62860141581517
-  llm_score: 90
-  recency_score: 68.14300707907584
-  rank: 1
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 84.82943663570212
-  llm_score: 85
-  recency_score: 84.14718317851063
-  rank: 2
 - slug: catalyst-liar
   title: CATALYST LIAR
-  score: 81.85448470843463
+  score: 74.50344977571896
   llm_score: 85
   recency_score: 69.27242354217314
-  rank: 3
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 81.04408811712146
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 74.32969339678091
   llm_score: 85
-  recency_score: 65.22044058560728
-  rank: 4
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 76.3916664395256
-  llm_score: 85
-  recency_score: 41.958332197627975
-  rank: 5
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 76.27749588022975
-  llm_score: 85
-  recency_score: 41.38747940114875
-  rank: 6
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: run-away-train
   title: RUN AWAY TRAIN
-  score: 74.94622278024646
+  score: 69.18940213865113
   llm_score: 85
   recency_score: 34.73111390123228
-  rank: 7
-- slug: wetlands
-  title: WETLANDS
-  score: 70.10942881080481
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 68.02175534725475
   llm_score: 85
-  recency_score: 10.547144054024043
+  recency_score: 27.14140975715586
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 67.72622162855498
+  llm_score: 75
+  recency_score: 65.22044058560728
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 63.1241161004594
+  llm_score: 75
+  recency_score: 35.306754652986015
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 24.484182027463177
+  llm_score: 0
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: going-down
+  title: GOING DOWN
+  score: 23.76038107289665
+  llm_score: 0
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 58.073599645561515
-  llm_score: 65
-  recency_score: 30.367998227807558
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 17.993589568865843
+  llm_score: 0
+  recency_score: 41.958332197627975
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 57.331283124551305
-  llm_score: 70
-  recency_score: 6.656415622756534
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 17.905766061715195
+  llm_score: 0
+  recency_score: 41.38747940114875
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 JANUARY 10 2020 BACKSTORY PODCAST TODAY

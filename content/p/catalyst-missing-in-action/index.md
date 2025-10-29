@@ -18,74 +18,84 @@ authors:
 - admin
 alttags: 'Mask crossed out, fan checked: Illustration reflects attendees removing masks at crowded football game'
 related_articles:
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 80.52009294457453
-  llm_score: 87
-  recency_score: 98.10046472287257
-  category_score: 0
-  rank: 1
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 77.62155541422004
-  llm_score: 85
-  recency_score: 90.60777707110016
-  category_score: 0
-  rank: 2
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 75.34502484628416
-  llm_score: 85
-  recency_score: 79.22512423142078
-  category_score: 0
-  rank: 3
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 74.74877842919905
-  llm_score: 85
-  recency_score: 76.2438921459952
-  category_score: 0
-  rank: 4
 - slug: catalyst-2
   title: CATALYST
-  score: 72.33141751730335
+  score: 73.71647501331027
   llm_score: 85
   recency_score: 64.15708758651667
+  length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 63.96808419803509
+  rank: 1
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 72.78468688044195
   llm_score: 75
-  recency_score: 57.34042099017541
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: m-i-a
-  title: M.I.A
-  score: 63.22869172076297
-  llm_score: 65
-  recency_score: 88.64345860381478
+  rank: 2
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 71.26829109938389
+  llm_score: 78
+  recency_score: 76.2438921459952
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 63.083573638976375
-  llm_score: 65
-  recency_score: 87.91786819488183
-  category_score: 0
-  rank: 8
+  rank: 3
 - slug: catalyst
   title: CATALYST
-  score: 56.03066309252159
-  llm_score: 75
+  score: 61.02358699424739
+  llm_score: 76
   recency_score: 17.653315462607935
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
-  score: 56.00176287453081
-  llm_score: 75
+  score: 61.0013560573314
+  llm_score: 76
   recency_score: 17.508814372654022
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 59.1706217018343
+  llm_score: 75
+  recency_score: 9.609041061922857
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 25.478119549400027
+  llm_score: 0
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: m-i-a
+  title: M.I.A
+  score: 25.1759167082792
+  llm_score: 0
+  recency_score: 88.64345860381478
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 25.06428741459721
+  llm_score: 0
+  recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 20.360064767719294
+  llm_score: 0
+  recency_score: 57.34042099017541
+  length_score: 100
   category_score: 0
   rank: 10
 ---

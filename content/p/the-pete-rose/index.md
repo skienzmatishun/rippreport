@@ -8,6 +8,14 @@ authors:
 - admin
 rumble: v5f4bf1
 related_articles:
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 82.91030130322208
+  llm_score: 95
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: the-mug-shot
   title: The Mugshot
   score: 68.94624503657624
@@ -15,20 +23,12 @@ related_articles:
   recency_score: 33.15059273774551
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 60.3348043487752
-  llm_score: 75
-  recency_score: 17.176228267038702
-  length_score: 100
-  category_score: 0
   rank: 2
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 59.525685918606705
-  llm_score: 57
-  recency_score: 83.91695847094347
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 63.940594591375266
+  llm_score: 85
+  recency_score: 0.6138648439391511
   length_score: 100
   category_score: 0
   rank: 3
@@ -40,51 +40,51 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 57.46076504187381
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 57.25788127185212
   llm_score: 70
-  recency_score: 18.4949727721797
+  recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 55.240779685386805
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 56.320048590189764
   llm_score: 70
-  recency_score: 4.065067955014141
+  recency_score: 11.080315836233387
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.63290228368295
-  llm_score: 65
-  recency_score: 0.6138648439391511
+- slug: bsp-128
+  title: Big News
+  score: 56.022563891319344
+  llm_score: 70
+  recency_score: 9.146665293575648
   length_score: 100
   category_score: 0
   rank: 7
 - slug: he-must-go
   title: He Must Go
-  score: 49.705498059088406
-  llm_score: 60
+  score: 55.85934421293455
+  llm_score: 70
   recency_score: 8.08573738407453
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 13.243125513266675
-  llm_score: 0
-  recency_score: 11.080315836233387
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 45.1530727341815
+  llm_score: 50
+  recency_score: 18.4949727721797
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bsp-128
-  title: Big News
-  score: 12.945640814396254
-  llm_score: 0
-  recency_score: 9.146665293575648
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 42.93308737769449
+  llm_score: 50
+  recency_score: 4.065067955014141
   length_score: 100
   category_score: 0
   rank: 10

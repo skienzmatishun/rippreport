@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring a bird over hills, relevant to the article about Fairhope City Council President Jac...
 related_articles:
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 87.29061318606567
-  llm_score: 90
-  recency_score: 76.45306593032835
-  rank: 1
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 86.6795960873464
-  llm_score: 95
-  recency_score: 53.39798043673202
-  rank: 2
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 78.71522921439812
-  llm_score: 80
-  recency_score: 73.57614607199059
-  rank: 3
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 74.27111348555951
-  llm_score: 70
+  score: 71.74701037350734
+  llm_score: 75
   recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: going-down
+  title: GOING DOWN
+  score: 70.15088224540614
+  llm_score: 75
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 68.76631729787792
+  llm_score: 75
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 67.0648760427525
+  llm_score: 85
+  recency_score: 20.921694277891152
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 72.54647444894586
-  llm_score: 90
-  recency_score: 2.7323722447292558
-  rank: 5
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 71.91650071517822
+  score: 66.85884670398326
   llm_score: 75
   recency_score: 59.582503575891096
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 23.30047168158898
+  llm_score: 0
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 71.55980182540611
-  llm_score: 85
-  recency_score: 17.799009127030544
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 19.75353545180493
+  llm_score: 0
+  recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 68.49109531710019
-  llm_score: 85
-  recency_score: 2.4554765855009273
+- slug: s-o-s
+  title: S.O.S
+  score: 16.787704878083343
+  llm_score: 2
+  recency_score: 26.120081707541715
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
-  score: 57.35706097653267
-  llm_score: 70
+  score: 12.582354597332827
+  llm_score: 0
   recency_score: 6.785304882663376
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: s-o-s
-  title: S.O.S
-  score: 57.224016341508346
-  llm_score: 65
-  recency_score: 26.120081707541715
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 11.592911801033756
+  llm_score: 0
+  recency_score: 0.35392670671941034
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 <div class="link-preview">

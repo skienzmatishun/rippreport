@@ -13,63 +13,83 @@ alttags: Dejected yellow smiley face with a long nose symbolizing deception rela
 related_articles:
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 83.62944962510568
-  llm_score: 85
+  score: 85.09957663469667
+  llm_score: 100
   recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 78.22156185864796
-  llm_score: 85
-  recency_score: 51.107809293239825
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 67.5648509906315
+  llm_score: 87
+  recency_score: 16.171531439104648
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 70.59217832844679
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 64.18290337015783
   llm_score: 75
-  recency_score: 52.96089164223393
+  recency_score: 42.18887190602582
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: demand-the-truth
-  title: DEMAND THE TRUTH
-  score: 68.21587951027635
-  llm_score: 85
-  recency_score: 1.0793975513817347
-  rank: 4
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 63.482627606022774
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 58.47523597302505
   llm_score: 75
-  recency_score: 17.413138030113867
-  rank: 5
+  recency_score: 5.089033824662729
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fact-and-fiction-a-b-c
   title: FACT and FICTION A B C
-  score: 61.84949079590366
-  llm_score: 75
+  score: 57.88422368915668
+  llm_score: 73
   recency_score: 9.247453979518323
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 52.371252004632915
+  llm_score: 62
+  recency_score: 17.413138030113867
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 52.38483036277891
-  llm_score: 65
-  recency_score: 1.9241518138945364
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 33.555047583575366
+  llm_score: 23
+  recency_score: 51.107809293239825
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: you-re-fired
   title: YOU'RE FIRED
-  score: 52.22929156466386
-  llm_score: 65
+  score: 25.868685818972203
+  llm_score: 23
   recency_score: 1.1464578233192855
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 51.23430628782093
-  llm_score: 60
-  recency_score: 16.171531439104648
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 19.686291021882145
+  llm_score: 0
+  recency_score: 52.96089164223393
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: combat
   title: COMBAT
-  score: 46.5758477586611
-  llm_score: 50
+  score: 16.596805968200847
+  llm_score: 0
   recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Vietnam Veterans were lied to by our politicians. 1968 was the year Martin Luther King was assassinated. The same year Robert Kennedy was assassinated. In Vietnam the Tet Offensive and the battle of Khe Sanh claimed the lives of thousands of young men and women serving in our armed forces.

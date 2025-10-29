@@ -11,65 +11,85 @@ authors:
 - admin
 alttags: Gulf Shores skyline along the beach, reflecting citizen concerns over city development approvals and a pending lawsuit
 related_articles:
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 87.15815510057
-  llm_score: 95
-  recency_score: 55.79077550285001
-  rank: 1
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 83.68249514970657
-  llm_score: 92
-  recency_score: 50.412475748532785
-  rank: 2
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER
-  score: 83.33256271585593
+  score: 75.64043285835072
   llm_score: 85
   recency_score: 76.66281357927963
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 73.66011930813079
+  llm_score: 87
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 76.27749588022975
-  llm_score: 85
+  score: 71.44422760017675
+  llm_score: 87
   recency_score: 41.38747940114875
-  rank: 4
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 71.44467018976354
-  llm_score: 85
-  recency_score: 17.223350948817675
-  rank: 5
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 68.98657928234444
-  llm_score: 75
-  recency_score: 44.932896411722155
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 61.81311071823457
-  llm_score: 70
+  score: 68.31777747556507
+  llm_score: 85
   recency_score: 29.065553591172854
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 65.44807319208198
+  llm_score: 75
+  recency_score: 50.412475748532785
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 61.17043574274372
-  llm_score: 75
+  score: 64.7464890328798
+  llm_score: 85
   recency_score: 5.8521787137186125
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 63.4932800033257
+  llm_score: 75
+  recency_score: 37.70632002161693
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 63.37429175564957
+  llm_score: 73
+  recency_score: 44.932896411722155
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 58.721577636566764
-  llm_score: 70
-  recency_score: 13.607888182833822
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 54.57980125602146
+  llm_score: 67
+  recency_score: 11.76870816413944
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 56.09362507412278
-  llm_score: 65
+  score: 14.687403903171369
+  llm_score: 0
   recency_score: 20.468125370613887
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope set the stage for citizens to fight back against City Government and elected officials who stop listening to the citizens. Now Gulf Shores citizens are filing a lawsuit and fighting back about an apartment complex the City of Gulf Shores approved over the objections of the area residents.

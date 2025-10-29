@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: 'Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca...'
 related_articles:
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 79.28513651399793
-  llm_score: 90
-  recency_score: 81.42568256998956
-  category_score: 0
-  rank: 1
 - slug: fairhope-council-asleep-at-the-wheel
   title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 78.42112415020392
-  llm_score: 86
+  score: 71.70855703861841
+  llm_score: 75
   recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 70.2193357799984
+  llm_score: 75
+  recency_score: 81.42568256998956
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 76.28339169418871
-  llm_score: 85
-  recency_score: 83.91695847094347
-  category_score: 0
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 67.02063128395771
-  llm_score: 85
-  recency_score: 37.60315641978851
-  category_score: 0
-  rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 64.51368227279842
-  llm_score: 85
-  recency_score: 25.06841136399206
-  category_score: 0
-  rank: 5
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 59.58411183802811
-  llm_score: 65
-  recency_score: 70.42055919014051
-  category_score: 0
-  rank: 6
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 59.446222780246465
-  llm_score: 75
-  recency_score: 34.73111390123228
-  category_score: 0
-  rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 57.08027788934189
-  llm_score: 75
-  recency_score: 22.901389446709434
-  category_score: 0
-  rank: 8
 - slug: catalyst-panic-and-confusion
   title: CATALYST PANIC and CONFUSION
-  score: 56.7188724060802
-  llm_score: 75
+  score: 68.32220954313863
+  llm_score: 87
   recency_score: 21.094362030400973
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 63.03555598480498
+  llm_score: 75
+  recency_score: 34.73111390123228
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 62.86202406458286
+  llm_score: 74
+  recency_score: 37.60315641978851
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst
+  title: CATALYST
+  score: 61.5489863636911
+  llm_score: 75
+  recency_score: 25.06841136399206
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 22.37239372156008
+  llm_score: 0
+  recency_score: 70.42055919014051
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: dog-and-pony-show
   title: DOG AND PONY SHOW
-  score: 53.33613691258605
-  llm_score: 65
+  score: 16.95087454814311
+  llm_score: -1
   recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 15.061752222570682
+  llm_score: 0
+  recency_score: 22.901389446709434
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 13.637726336309907
+  llm_score: 0
+  recency_score: 13.645221186014394
+  length_score: 100
   category_score: 0
   rank: 10
 ---

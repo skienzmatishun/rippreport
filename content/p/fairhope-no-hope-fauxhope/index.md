@@ -14,65 +14,85 @@ authors:
 - admin
 alttags: Silhouettes of families and glasses of wine amidst flowers; illustration representing Fairhope’s wealth gap explored in “A...
 related_articles:
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 82.83667471122875
-  llm_score: 85
-  recency_score: 74.18337355614374
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 76.20008979598344
+  llm_score: 100
+  recency_score: 20.300583673892284
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 79.59445300016145
-  llm_score: 85
+  score: 66.61111769243189
+  llm_score: 75
   recency_score: 57.97226500080723
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 76.09887916127678
-  llm_score: 95
-  recency_score: 0.4943958063839215
-  rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 72.68225627752497
-  llm_score: 90
-  recency_score: 3.4112813876248462
-  rank: 4
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 72.39120862176472
-  llm_score: 90
-  recency_score: 1.9560431088235848
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 72.06011673477846
-  llm_score: 85
-  recency_score: 20.300583673892284
-  rank: 6
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 71.98299338510878
-  llm_score: 85
-  recency_score: 19.91496692554393
-  rank: 7
 - slug: fairhope-has-lost-its-moral-compass
   title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 71.01193156417621
-  llm_score: 85
+  score: 64.93225504936632
+  llm_score: 83
   recency_score: 15.05965782088104
-  rank: 8
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 70.59217832844679
-  llm_score: 75
-  recency_score: 52.96089164223393
-  rank: 9
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 68.75919197418094
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 63.933381424673726
   llm_score: 85
-  recency_score: 3.795959870904708
+  recency_score: 0.5669792603791407
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 60.22949141487642
+  llm_score: 79
+  recency_score: 0.4916941966966383
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 22.95128823940673
+  llm_score: 0
+  recency_score: 74.18337355614374
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: going-down
+  title: GOING DOWN
+  score: 20.506275866188645
+  llm_score: 0
+  recency_score: 58.29079313022616
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 14.602302603929836
+  llm_score: 0
+  recency_score: 19.91496692554393
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 11.83939124751132
+  llm_score: 0
+  recency_score: 1.9560431088235848
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 11.614522431751372
+  llm_score: 0
+  recency_score: 0.4943958063839215
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Sorry about no FREAKY FRIDAY, but after 6 weeks confinement and absolutely beautiful weather, I had to have a “beach fix” on Friday and it took all day.

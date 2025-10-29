@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005
 related_articles:
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 92.69156694727452
-  llm_score: 100
-  recency_score: 63.45783473637261
-  rank: 1
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 2
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 3
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 4
-- slug: earful
-  title: EARFUL
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 5
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 82.31536626765282
-  llm_score: 100
-  recency_score: 11.57683133826407
-  rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.75711484285412
-  llm_score: 100
-  recency_score: 3.7855742142706434
-  rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.63709081368816
-  llm_score: 100
-  recency_score: 3.1854540684407837
-  rank: 8
 - slug: rule-32
   title: RULE 32
-  score: 79.85417482562934
+  score: 84.50321140433026
   llm_score: 95
   recency_score: 19.270874128146687
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 82.02853139514474
+  llm_score: 95
+  recency_score: 3.1854540684407837
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 79.42584690236103
-  llm_score: 95
+  score: 80.48142069412387
+  llm_score: 89
   recency_score: 17.129234511805123
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: earful
+  title: EARFUL
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 77.16566635973294
+  llm_score: 85
+  recency_score: 11.57683133826407
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 72.76923076923079
+  llm_score: 87
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 32.83966688251886
+  llm_score: 0
+  recency_score: 63.45783473637261
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 23.65931910988779
+  llm_score: 0
+  recency_score: 3.7855742142706434
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 19.230769230769234
+  llm_score: 0
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.

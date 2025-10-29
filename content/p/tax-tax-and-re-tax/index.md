@@ -14,65 +14,85 @@ authors:
 - ripp-report
 alttags: School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo...
 related_articles:
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 91.24740235768714
-  llm_score: 90
-  recency_score: 96.23701178843567
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 85.06668293825948
+  llm_score: 100
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 86.88179115997221
-  llm_score: 85
-  recency_score: 94.40895579986105
-  rank: 2
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 84.92190583576996
+  score: 76.86300448905382
   llm_score: 85
   recency_score: 84.60952917884977
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 72.4980018136055
+  llm_score: 75
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: goat-hill-piggy-bank
-  title: GOAT HILL PIGGY-BANK
-  score: 84.73747273054873
-  llm_score: 85
-  recency_score: 83.68736365274363
-  rank: 4
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 84.41953853153237
-  llm_score: 85
-  recency_score: 82.09769265766185
-  rank: 5
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 73.15530775847412
-  llm_score: 70
-  recency_score: 85.7765387923706
-  rank: 6
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 72.7760154921098
-  llm_score: 90
-  recency_score: 3.880077460549066
-  rank: 7
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 71.50151487477555
-  llm_score: 70
-  recency_score: 77.50757437387774
-  rank: 8
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 68.60115638090127
-  llm_score: 75
+  score: 70.4624279853087
+  llm_score: 85
   recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 65.02882517734518
+  llm_score: 66
+  recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 62.43943968037714
+  llm_score: 60
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 24.734852121903174
+  llm_score: 0
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 24.168875793486443
+  llm_score: 0
+  recency_score: 82.09769265766185
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: nothing-is-free
+  title: NOTHING IS FREE
+  score: 23.462703749827348
+  llm_score: 0
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 58.392753039338146
-  llm_score: 70
-  recency_score: 11.96376519669074
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 12.016595243655324
+  llm_score: 0
+  recency_score: 3.107869083759611
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Tax, tax and re-tax that is the bottom line for Baldwin County. The developers pay no or little impact fee for their projects which ends up costing you, the taxpayer, to make up the difference in the cost of Schools, Streets/Transportation and Education.

@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Aerial view highlights Fairhope City Hall and surrounding area, featured in the State of the City report
 related_articles:
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 93.62860141581517
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 83.19364738910056
   llm_score: 100
-  recency_score: 68.14300707907584
+  recency_score: 65.75870802915355
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 87.83629014021759
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 70.81595842679535
   llm_score: 85
-  recency_score: 99.18145070108791
+  recency_score: 45.30372977416965
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: s-o-s
   title: S.O.S
-  score: 73.76552754120547
+  score: 68.28117503169653
   llm_score: 85
   recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 73.15174160583071
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 68.17584724293476
   llm_score: 75
-  recency_score: 65.75870802915355
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 73.0136822727984
-  llm_score: 85
-  recency_score: 25.06841136399206
+- slug: truth
+  title: TRUTH
+  score: 67.53562389365936
+  llm_score: 75
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: state-of-the-city-2019
   title: STATE OF THE CITY - 2019
-  score: 67.10014946474215
+  score: 63.153961126724745
   llm_score: 75
   recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: tick-tock
   title: TICK-TOCK
-  score: 67.0420312410768
+  score: 63.10925480082832
   llm_score: 75
   recency_score: 35.21015620538397
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 65.33314208208326
-  llm_score: 65
-  recency_score: 66.66571041041625
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 62.16437097907571
+  llm_score: 76
+  recency_score: 25.06841136399206
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 57.11076301928002
-  llm_score: 65
-  recency_score: 25.553815096400097
-  rank: 9
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
-  score: 57.015022069640736
-  llm_score: 70
+  score: 59.08847851510827
+  llm_score: 76
   recency_score: 5.075110348203666
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 26.797146261705834
+  llm_score: 0
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Last night’s, State of the City of Fairhope, was a success and the employees represented the city proudly. A 35 page report was presented and I encourage citizens of Fairhope to drop by City Hall and get a copy.

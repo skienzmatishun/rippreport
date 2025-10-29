@@ -16,65 +16,85 @@ authors:
 - ripp-report
 alttags: Alabama prison complex, symbolizing state decisions that cost billions and reflect political corruption
 related_articles:
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 90.52312487593501
-  llm_score: 90
-  recency_score: 92.61562437967505
-  rank: 1
 - slug: alabama-national-news
   title: ALABAMA NATIONAL NEWS
-  score: 87.62009294457451
-  llm_score: 85
+  score: 85.09237918813425
+  llm_score: 95
   recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 73.48299644815008
+  llm_score: 76
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 74.70317696989248
-  llm_score: 85
-  recency_score: 33.51588484946244
-  rank: 3
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 73.91655019046412
-  llm_score: 90
-  recency_score: 9.582750952320627
-  rank: 4
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 72.83788831237433
-  llm_score: 90
+  score: 70.6445294710572
+  llm_score: 95
   recency_score: 4.189441561871679
-  rank: 5
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 72.07125559401483
-  llm_score: 85
-  recency_score: 20.356277970074178
-  rank: 6
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 71.98299338510878
-  llm_score: 85
-  recency_score: 19.91496692554393
-  rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 68.79757011103389
-  llm_score: 85
-  recency_score: 3.9878505551694436
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 68.87072252217858
+  llm_score: 87
+  recency_score: 24.659696394160648
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 68.63014711371625
-  llm_score: 85
+  score: 60.63857470285867
+  llm_score: 79
   recency_score: 3.150735568581256
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 25.787019135334628
+  llm_score: 0
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 14.670196610780643
+  llm_score: 0
+  recency_score: 20.356277970074178
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 14.602302603929836
+  llm_score: 0
+  recency_score: 19.91496692554393
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 13.321580558422617
+  llm_score: -2
+  recency_score: 19.590273629747017
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 68.29827267964413
-  llm_score: 85
-  recency_score: 1.4913633982206251
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 12.151977008487608
+  llm_score: 0
+  recency_score: 3.9878505551694436
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama is the most political corrupt state in the United States. Why? because it is so easy for lobbyist to buy the needed politicians to keep it corrupt.

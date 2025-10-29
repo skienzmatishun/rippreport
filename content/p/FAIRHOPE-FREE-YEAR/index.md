@@ -12,14 +12,22 @@ authors:
 - admin
 alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
 related_articles:
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 68.26904091838546
-  llm_score: 85
-  recency_score: 28.748765969505406
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 74.49619292837033
+  llm_score: 95
+  recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
   rank: 1
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 71.34596399530854
+  llm_score: 90
+  recency_score: 28.748765969505406
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
   score: 68.1495108055248
@@ -27,20 +35,12 @@ related_articles:
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 68.11428570730418
-  llm_score: 85
-  recency_score: 27.742857097477103
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 63.4932800033257
-  llm_score: 75
-  recency_score: 37.70632002161693
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.90150657877554
+  llm_score: 85
+  recency_score: 0.35979276204090305
   length_score: 100
   category_score: 0
   rank: 4
@@ -52,27 +52,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 62.188500620678035
-  llm_score: 75
-  recency_score: 29.2252540344071
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 60.41635692640262
+  llm_score: 70
+  recency_score: 37.70632002161693
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 60.82458350185246
-  llm_score: 80
-  recency_score: 0.35979276204090305
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 58.32806819110848
+  llm_score: 75
+  recency_score: 4.13244324220501
   length_score: 100
   category_score: 0
   rank: 7
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 55.2511451141854
-  llm_score: 70
-  recency_score: 4.13244324220501
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 57.75207377712592
+  llm_score: 75
+  recency_score: 0.3884795513184073
   length_score: 100
   category_score: 0
   rank: 8
@@ -84,11 +84,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 54.67515070020284
+- slug: fairhope-petition
+  title: FAIRHOPE PETITION
+  score: 54.7316867927381
   llm_score: 70
-  recency_score: 0.3884795513184073
+  recency_score: 0.7559641527975924
   length_score: 100
   category_score: 0
   rank: 10

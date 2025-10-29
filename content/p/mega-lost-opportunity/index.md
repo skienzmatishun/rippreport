@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011
 related_articles:
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 82.62635062426855
-  llm_score: 100
-  recency_score: 13.13175312134279
-  rank: 1
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 81.20972355606835
-  llm_score: 95
-  recency_score: 26.048617780341775
-  rank: 2
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 77.58208875718051
-  llm_score: 95
-  recency_score: 7.9104437859025545
-  rank: 3
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 76.29827267964413
-  llm_score: 95
-  recency_score: 1.4913633982206251
-  rank: 4
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 74.72157763656676
-  llm_score: 90
-  recency_score: 13.607888182833822
-  rank: 5
 - slug: money-on-the-table
   title: MONEY ON THE TABLE
-  score: 73.71833385593835
-  llm_score: 85
+  score: 74.39871835072182
+  llm_score: 95
   recency_score: 28.59166927969179
-  rank: 6
-- slug: dead-last
-  title: DEAD LAST
-  score: 72.5836146838788
-  llm_score: 90
-  recency_score: 2.9180734193940348
-  rank: 7
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 68.71087830240542
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 65.93967510505136
   llm_score: 85
-  recency_score: 3.554391512027108
-  rank: 8
+  recency_score: 13.607888182833822
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 59.712577403283525
+  llm_score: 75
+  recency_score: 13.13175312134279
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 68.23373137457767
-  llm_score: 85
+  score: 25.872101057367445
+  llm_score: 23
   recency_score: 1.1686568728883742
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: lost-opportunity
+  title: LOST OPPORTUNITY
+  score: 15.545941196975658
+  llm_score: 0
+  recency_score: 26.048617780341775
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 12.755452890138855
+  llm_score: 0
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 12.085291001850324
+  llm_score: 0
+  recency_score: 3.554391512027108
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 57.45838437835242
-  llm_score: 71
+  score: 12.044911060271088
+  llm_score: 0
   recency_score: 3.2919218917620787
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: dead-last
+  title: DEAD LAST
+  score: 11.987395910676005
+  llm_score: 0
+  recency_score: 2.9180734193940348
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 11.767902061264712
+  llm_score: 0
+  recency_score: 1.4913633982206251
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 This post is a little long, however I wanted everyone to get a clear picture of the B.S. the citizens of Baldwin County are being forced fed by what is called Baldwin County Economic Development Alliance.

@@ -17,65 +17,85 @@ authors:
 - admin
 alttags: Hand raised in a slapping gesture against a stark background, symbolizing corruption and injustice in the judicial system
 related_articles:
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 84.90191963447131
-  llm_score: 90
-  recency_score: 64.50959817235656
-  rank: 1
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 80.14724185949737
-  llm_score: 85
-  recency_score: 60.73620929748681
-  rank: 2
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 77.65006981718642
-  llm_score: 85
-  recency_score: 48.25034908593207
-  rank: 3
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 76.91301970063262
-  llm_score: 85
-  recency_score: 44.565098503163114
-  rank: 4
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 71.63868620757778
-  llm_score: 85
-  recency_score: 18.193431037888864
-  rank: 5
-- slug: loser
-  title: LOSER
-  score: 70.7141314643738
-  llm_score: 85
-  recency_score: 13.570657321869012
-  rank: 6
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 68.27749588022975
-  llm_score: 75
-  recency_score: 41.38747940114875
-  rank: 7
-- slug: joke
-  title: JOKE LLP
-  score: 64.70893335614454
-  llm_score: 80
-  recency_score: 3.544666780722678
-  rank: 8
 - slug: laugh-out-loud-baldwin
   title: Laugh Out Loud Baldwin
-  score: 60.1387334364297
-  llm_score: 70
+  score: 76.26056418186901
+  llm_score: 100
   recency_score: 20.693667182148534
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 70.21345836940752
+  llm_score: 85
+  recency_score: 41.38747940114875
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: the-big-lie
+  title: THE BIG LIE
+  score: 68.48419201931206
+  llm_score: 73
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 56.183604775059834
+  llm_score: 68
+  recency_score: 18.193431037888864
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: bar-stool-continued
+  title: BAR STOOL “CONTINUED”
+  score: 34.346207551681864
+  llm_score: 25
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 28.84763048805486
+  llm_score: 12
+  recency_score: 64.50959817235656
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 20.882493738074896
+  llm_score: 0
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 59.987869307981995
-  llm_score: 65
+  score: 17.68297639075538
+  llm_score: 0
   recency_score: 39.93934653990996
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: loser
+  title: LOSER
+  score: 13.626254972595234
+  llm_score: 0
+  recency_score: 13.570657321869012
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: joke
+  title: JOKE LLP
+  score: 12.08379488934195
+  llm_score: 0
+  recency_score: 3.544666780722678
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County citizens have just been slapped in the face. Want to know why Alabama is number one in corruption and the butt of jokes? It is because the judicial system stinks and people with power or money, WALK.

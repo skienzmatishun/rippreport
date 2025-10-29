@@ -10,63 +10,83 @@ alttags: Fran Neumann, a Daphne artist known for her sculpture & advertising wor
 related_articles:
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life
-  score: 91.80167323219754
-  llm_score: 95
+  score: 69.84744094784428
+  llm_score: 75
   recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 90.4753123573984
-  llm_score: 95
+  score: 68.82716335184493
+  llm_score: 75
   recency_score: 72.37656178699199
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 83.79331659914374
-  llm_score: 95
-  recency_score: 38.96658299571869
-  rank: 3
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 76.83102978346773
-  llm_score: 95
-  recency_score: 4.155148917338647
-  rank: 4
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 70.39931751544404
-  llm_score: 85
-  recency_score: 11.996587577220225
-  rank: 5
-- slug: carolyn-amick
-  title: CAROLYN AMICK
-  score: 66.52202120293505
+  score: 63.68716661472597
   llm_score: 75
-  recency_score: 32.61010601467527
-  rank: 6
+  recency_score: 38.96658299571869
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: celebration-of-life
   title: CELEBRATION OF LIFE
-  score: 66.34576123569309
-  llm_score: 75
+  score: 56.41981633514854
+  llm_score: 65
   recency_score: 31.72880617846543
-  rank: 7
-- slug: tonight
-  title: TONIGHT
-  score: 43.501762874530804
-  llm_score: 50
-  recency_score: 17.508814372654022
-  rank: 8
-- slug: exposure-2
-  title: EXPOSURE
-  score: 37.564845454620254
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: tricia-lacy-hyde
+  title: TRICIA LACY HYDE
+  score: 39.8700229103598
   llm_score: 45
-  recency_score: 7.82422727310126
+  recency_score: 4.155148917338647
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 29.995664651678638
+  llm_score: 23
+  recency_score: 27.971820235911103
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 29.517417547465186
+  llm_score: 23
+  recency_score: 24.863214058523702
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 27.537936550341577
+  llm_score: 23
+  recency_score: 11.996587577220225
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 22.551957581333276
+  llm_score: 0
+  recency_score: 71.58772427866629
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 23.77061878848929
-  llm_score: 25
-  recency_score: 18.853093942446446
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 16.55540092533466
+  llm_score: 0
+  recency_score: 32.61010601467527
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Frances (Fran) J. Neumann of Daphne, Alabama, passed away unexpectedly on Monday, June 28, 2021 from natural causes. She was ninety-three going on a hundred, her oft-expressed goal. [![](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)](https://cdn.rippreport.com/eb5ab9e4-5555.jpg)

@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor
 related_articles:
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 75.60890176713603
-  llm_score: 90
-  recency_score: 18.044508835680173
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 74.08153456304771
+  llm_score: 100
+  recency_score: 6.529974659810053
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 73.18782317885686
-  llm_score: 75
-  recency_score: 65.93911589428427
-  rank: 2
 - slug: absolute-power
   title: ABSOLUTE POWER
-  score: 72.48098040369368
+  score: 67.29306184899515
   llm_score: 85
   recency_score: 22.404902018468416
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 64.7765810466181
+  llm_score: 85
+  recency_score: 6.047776803017642
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 68.64587813482652
-  llm_score: 85
-  recency_score: 3.229390674132577
-  rank: 4
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 68.57567447136537
-  llm_score: 85
-  recency_score: 2.87837235682685
-  rank: 5
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 68.11063398037491
-  llm_score: 85
-  recency_score: 0.5531699018745336
-  rank: 6
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 63.053474793700985
-  llm_score: 75
-  recency_score: 15.267373968504938
-  rank: 7
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 61.126392383720344
-  llm_score: 75
-  recency_score: 5.6319619186017045
-  rank: 8
 - slug: columbia-questions-and-documents
   title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 58.174264757419564
-  llm_score: 65
+  score: 61.82635750570737
+  llm_score: 74
   recency_score: 30.871323787097815
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 58.558763372092585
+  llm_score: 75
+  recency_score: 5.6319619186017045
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 21.682940906812966
+  llm_score: 0
+  recency_score: 65.93911589428427
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 19.553448942934487
+  llm_score: 0
+  recency_score: 52.09741812907417
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 14.314539820873874
+  llm_score: 0
+  recency_score: 18.044508835680173
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 53.19309908067218
-  llm_score: 65
+  score: 12.456230062055518
+  llm_score: 0
   recency_score: 5.965495403360867
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 12.41927803605062
+  llm_score: 0
+  recency_score: 5.7253072343290325
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County has 14 municipalities and at any given time several are embroiled in some sort of corruption, that they are pulling a blanket over. It truly is amazing how elected officials use the legal system to wash their dirty laundry.

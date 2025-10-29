@@ -10,36 +10,20 @@ alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and informati
 related_articles:
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 70.19960985486986
-  llm_score: 71
+  score: 69.58422523948525
+  llm_score: 70
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 1
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 66.93116538309376
-  llm_score: 90
+  score: 63.854242306170676
+  llm_score: 85
   recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
   rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 63.853502726337155
-  llm_score: 85
-  recency_score: 0.047767721191407035
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 56.47394018704691
-  llm_score: 73
-  recency_score: 0.08061121580480553
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
   score: 55.028895952651695
@@ -47,7 +31,7 @@ related_articles:
   recency_score: 2.6878236922359457
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
   score: 54.64773868221244
@@ -55,7 +39,7 @@ related_articles:
   recency_score: 0.21030143438080218
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
   score: 54.630326031868265
@@ -63,7 +47,7 @@ related_articles:
   recency_score: 0.09711920714364118
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
   score: 54.628775148128426
@@ -71,11 +55,27 @@ related_articles:
   recency_score: 0.08703846283467485
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 54.62778634089306
+  llm_score: 70
+  recency_score: 0.08061121580480553
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 54.62273349556792
+  llm_score: 70
+  recency_score: 0.047767721191407035
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
-  score: 54.61688879339388
-  llm_score: 70
+  score: 51.5399657164708
+  llm_score: 65
   recency_score: 0.009777157060142481
   length_score: 100
   category_score: 0

@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: The Ripp Report podcast logo features a microphone and man seated in front of it, streaming facts
 related_articles:
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 71.74749363276266
-  llm_score: 85
-  recency_score: 61.23746816381321
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 76.87072252217857
+  llm_score: 100
+  recency_score: 24.659696394160648
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-35-contrarians
-  title: 'BACKSTORY PODCAST #35 Contrarians'
-  score: 68.96458524825911
-  llm_score: 75
-  recency_score: 82.32292624129552
+- slug: bsp-128
+  title: Big News
+  score: 74.76300779279113
+  llm_score: 100
+  recency_score: 10.959550653142209
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 67.87462733344734
-  llm_score: 75
-  recency_score: 76.87313666723661
-  category_score: 0
-  rank: 3
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 66.82610187044025
-  llm_score: 70
-  recency_score: 89.13050935220119
-  category_score: 0
-  rank: 4
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 66.62275135247592
-  llm_score: 75
-  recency_score: 70.6137567623795
-  category_score: 0
-  rank: 5
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 66.3165791651947
-  llm_score: 75
-  recency_score: 69.0828958259734
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 65.61575875113697
-  llm_score: 75
-  recency_score: 65.57879375568477
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 64.00016259450726
-  llm_score: 70
-  recency_score: 75.00081297253628
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 62.930608059802395
-  llm_score: 70
-  recency_score: 69.6530402990119
-  category_score: 0
-  rank: 9
 - slug: im-back-2
   title: I'M BACK
-  score: 53.331029783467734
-  llm_score: 75
+  score: 73.71617675651365
+  llm_score: 100
   recency_score: 4.155148917338647
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 68.85771163355973
+  llm_score: 75
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 67.11345664058666
+  llm_score: 75
+  recency_score: 61.23746816381321
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 58.15751966226138
+  llm_score: 75
+  recency_score: 3.0238778046988695
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 54.739595133064135
+  llm_score: 65
+  recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 54.282487275515535
+  llm_score: 68
+  recency_score: 5.836167290850916
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 12.930303863228792
+  llm_score: 0
+  recency_score: 9.046975110987145
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 11.97886824390464
+  llm_score: 0
+  recency_score: 2.862643585380166
+  length_score: 100
   category_score: 0
   rank: 10
 ---

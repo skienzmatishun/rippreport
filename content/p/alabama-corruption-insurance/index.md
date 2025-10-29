@@ -12,74 +12,84 @@ authors:
 - admin
 alttags: Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti...
 related_articles:
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 78.15815862604524
-  llm_score: 95
-  recency_score: 58.29079313022616
-  category_score: 0
-  rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 77.93670779028002
-  llm_score: 95
-  recency_score: 57.18353895140014
-  category_score: 0
-  rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 77.35660194836281
-  llm_score: 95
-  recency_score: 54.28300974181401
-  category_score: 0
-  rank: 3
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 70.80056311965313
-  llm_score: 95
-  recency_score: 21.50281559826569
-  category_score: 0
-  rank: 4
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 69.12366745387794
-  llm_score: 85
-  recency_score: 48.118337269389656
-  category_score: 0
-  rank: 5
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 63.70732967072931
+  score: 67.0825612851764
   llm_score: 85
   recency_score: 21.03664835364649
+  length_score: 100
   category_score: 0
-  rank: 6
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 62.66418860283416
-  llm_score: 85
-  recency_score: 15.820943014170737
-  category_score: 0
-  rank: 7
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 60.9977312327923
-  llm_score: 85
-  recency_score: 7.488656163961433
-  category_score: 0
-  rank: 8
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 56.79191013062845
-  llm_score: 78
-  recency_score: 10.959550653142209
-  category_score: 0
-  rank: 9
+  rank: 1
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 53.31078920500242
-  llm_score: 75
+  score: 64.46983785000187
+  llm_score: 85
   recency_score: 4.053946025012058
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 59.54807734280058
+  llm_score: 75
+  recency_score: 12.0625027282037
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 34.6601220200348
+  llm_score: 23
+  recency_score: 58.29079313022616
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 30.142861379485844
+  llm_score: 0
+  recency_score: 45.928598966657994
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 19.889693806432927
+  llm_score: 0
+  recency_score: 54.28300974181401
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 14.8465870151178
+  llm_score: 0
+  recency_score: 21.50281559826569
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 13.972452771410882
+  llm_score: 0
+  recency_score: 15.820943014170737
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 12.690562486763298
+  llm_score: 0
+  recency_score: 7.488656163961433
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 6.18208291560002
+  llm_score: -23
+  recency_score: 57.18353895140014
+  length_score: 100
   category_score: 0
   rank: 10
 ---

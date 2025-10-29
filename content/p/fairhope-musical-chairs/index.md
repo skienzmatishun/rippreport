@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Council members celebrating, possibly masking criticism after a controversial president’s departure
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 75.18157421087923
-  llm_score: 90
-  recency_score: 15.90787105439613
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 73.59601562755155
+  llm_score: 100
+  recency_score: 3.374101579085013
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 73.63496710439854
-  llm_score: 90
-  recency_score: 8.17483552199271
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 60.580960854514025
+  llm_score: 74
+  recency_score: 22.77624555434108
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 72.01586522172649
-  llm_score: 85
-  recency_score: 20.079326108632408
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 60.56904185756268
+  llm_score: 75
+  recency_score: 18.69877207415731
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 70.27138506860403
-  llm_score: 85
-  recency_score: 11.356925343020198
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 58.099077147479335
+  llm_score: 75
+  recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 70.17127158449026
-  llm_score: 65
+  score: 25.516362757300204
+  llm_score: 0
   recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 68.87065079931651
-  llm_score: 85
-  recency_score: 4.353253996582533
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 14.627588632097295
+  llm_score: 0
+  recency_score: 20.079326108632408
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 68.25375373890918
-  llm_score: 85
-  recency_score: 1.2687686945458914
-  rank: 7
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 68.10764405728972
-  llm_score: 85
-  recency_score: 0.5382202864486024
-  rank: 8
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 67.60350242007569
-  llm_score: 75
-  recency_score: 38.0175121003784
-  rank: 9
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 63.2879123572438
-  llm_score: 75
+  score: 14.067624890187538
+  llm_score: 0
   recency_score: 16.439561786218995
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 13.985826316060944
+  llm_score: 0
+  recency_score: 15.90787105439613
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 13.285680822003108
+  llm_score: 0
+  recency_score: 11.356925343020198
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 12.20819292255116
+  llm_score: 0
+  recency_score: 4.353253996582533
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 After 9 years of Jack Burrell tenaciously holding on to, the position of President of the Fairhope Council, it may come to an end tonight. Jack has soiled the seat of council president to a point that a new chair is necessary. Jack’s legacy is infamous and it has cost the taxpayers millions. If you think he is relinquishing the seat out of courtesy, then have another drink.

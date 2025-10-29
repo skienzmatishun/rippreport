@@ -10,65 +10,85 @@ authors:
 - admin
 alttags: Logos for City of Faux and Mobile Baykeeper, referenced in a mayoral dispute over news releases and transparency
 related_articles:
-- slug: communication
-  title: COMMUNICATION
-  score: 84.11400729240654
-  llm_score: 90
-  recency_score: 60.57003646203266
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 76.50499556390562
+  llm_score: 100
+  recency_score: 22.28247116538646
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: catalyst-open-letter-to-baldwin-county-district-attorney
   title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 79.37777423965625
-  llm_score: 90
+  score: 65.21367249204327
+  llm_score: 78
   recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 75.75073027590142
-  llm_score: 85
-  recency_score: 38.75365137950711
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 64.18290337015783
+  llm_score: 75
+  recency_score: 42.18887190602582
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 63.88387286266271
+  llm_score: 85
+  recency_score: 0.2451736073075349
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: read-and-listen
   title: READ and LISTEN
-  score: 71.04131527818056
-  llm_score: 70
+  score: 63.724088675523525
+  llm_score: 66
   recency_score: 75.2065763909028
-  rank: 4
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 70.99547296281645
-  llm_score: 85
-  recency_score: 14.977364814082216
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 61.84443063272825
-  llm_score: 75
-  recency_score: 9.22215316364123
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 29.03902328915494
+  llm_score: 0
+  recency_score: 38.75365137950711
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 60.456494233077294
-  llm_score: 70
-  recency_score: 22.28247116538646
+- slug: documents
+  title: DOCUMENTS
+  score: 25.06428741459721
+  llm_score: 0
+  recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 57.0432153391477
-  llm_score: 70
-  recency_score: 5.216076695738494
+- slug: communication
+  title: COMMUNICATION
+  score: 20.856928686466567
+  llm_score: 0
+  recency_score: 60.57003646203266
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 57.00671361360589
-  llm_score: 70
-  recency_score: 5.033568068029432
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 11.669663749188986
+  llm_score: 0
+  recency_score: 0.8528143697284161
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: newsletter
   title: NEWSLETTER
-  score: 56.04718955067334
-  llm_score: 70
+  score: 11.574761192825644
+  llm_score: 0
   recency_score: 0.23594775336668541
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 August 7, 2019

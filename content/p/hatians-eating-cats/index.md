@@ -17,6 +17,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 74.34415565975935
+  llm_score: 78
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 63.94428734330465
+  llm_score: 85
+  recency_score: 0.6378677314801207
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: pure-kafka
   title: PURE KAFKA
   score: 63.290306090628604
@@ -24,68 +40,52 @@ related_articles:
   recency_score: 36.386989589085836
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 4
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 57.36120621495452
+  llm_score: 70
+  recency_score: 17.84784039720432
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bsp-128
+  title: Big News
+  score: 56.07758637101292
+  llm_score: 70
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 54.73218049479671
+  llm_score: 50
+  recency_score: 80.75917321617852
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: im-back-2
   title: I'M BACK
-  score: 52.318217132921866
-  llm_score: 60
+  score: 46.16437097907571
+  llm_score: 50
   recency_score: 25.06841136399206
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 44.805694121297805
-  llm_score: 30
-  recency_score: 96.23701178843567
+  rank: 8
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 45.264330687886805
+  llm_score: 50
+  recency_score: 19.21814947126418
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 9
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
   score: 42.46794304975153
   llm_score: 50
   recency_score: 1.0416298233849144
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 42.405825804843104
-  llm_score: 50
-  recency_score: 0.6378677314801207
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 35.82274467649298
-  llm_score: 35
-  recency_score: 17.84784039720432
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 29.14566501721376
-  llm_score: 20
-  recency_score: 34.44682261188939
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 23.962949725565927
-  llm_score: 0
-  recency_score: 80.75917321617852
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: bsp-128
-  title: Big News
-  score: 13.000663294089833
-  llm_score: 0
-  recency_score: 9.504311411583915
   length_score: 100
   category_score: 0
   rank: 10

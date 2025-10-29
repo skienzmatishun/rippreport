@@ -16,8 +16,8 @@ alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director
 related_articles:
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 78.89724064096211
-  llm_score: 85
+  score: 81.97416371788519
+  llm_score: 90
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
@@ -30,14 +30,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 68.24487219687568
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 71.64453333516627
   llm_score: 85
-  recency_score: 28.59166927969179
+  recency_score: 50.689466678580686
   length_score: 100
   category_score: 0
   rank: 3
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 71.32179527379876
+  llm_score: 90
+  recency_score: 28.59166927969179
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 69.61542693402161
+  llm_score: 85
+  recency_score: 37.500275071140365
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 67.15427932281011
@@ -45,52 +61,36 @@ related_articles:
   recency_score: 21.50281559826569
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 62.41376410439704
-  llm_score: 70
-  recency_score: 50.689466678580686
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 60.38465770325238
-  llm_score: 70
-  recency_score: 37.500275071140365
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 58.90929904398502
-  llm_score: 75
-  recency_score: 7.9104437859025545
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 57.96913869051507
-  llm_score: 70
-  recency_score: 21.799401488347854
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 56.46101347341851
-  llm_score: 70
+  score: 65.69178270418774
+  llm_score: 85
   recency_score: 11.996587577220225
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 55.8559407688292
-  llm_score: 70
+  score: 65.08670999959843
+  llm_score: 85
   recency_score: 8.063614997389708
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 65.06314519783118
+  llm_score: 85
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 61.04606176743815
+  llm_score: 75
+  recency_score: 21.799401488347854
   length_score: 100
   category_score: 0
   rank: 10

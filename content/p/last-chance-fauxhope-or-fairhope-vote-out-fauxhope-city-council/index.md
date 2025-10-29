@@ -29,8 +29,8 @@ related_articles:
   rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 83.90151943555271
-  llm_score: 95
+  score: 77.74767328170657
+  llm_score: 85
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
@@ -43,14 +43,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 71.99278347513783
-  llm_score: 95
-  recency_score: 12.953092588395847
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 68.16131699006223
@@ -58,15 +50,7 @@ related_articles:
   recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 68.11428570730418
-  llm_score: 85
-  recency_score: 27.742857097477103
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
   score: 66.06365666795776
@@ -74,7 +58,15 @@ related_articles:
   recency_score: 14.41376834172532
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65.83893732129168
+  llm_score: 85
+  recency_score: 12.953092588395847
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: all-mouth
   title: ALL MOUTH
   score: 65.46435189488797
@@ -82,7 +74,7 @@ related_articles:
   recency_score: 10.518287316771712
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
   score: 63.94812448647935
@@ -90,12 +82,20 @@ related_articles:
   recency_score: 0.6628091621157032
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
   score: 63.921799107184114
   llm_score: 85
   recency_score: 0.4916941966966383
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 63.86868943735981
+  llm_score: 85
+  recency_score: 0.14648134283866024
   length_score: 100
   category_score: 0
   rank: 10

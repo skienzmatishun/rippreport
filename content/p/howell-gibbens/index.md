@@ -15,65 +15,85 @@ authors:
 - admin
 alttags: Fairhope City Council candidate Howell Gibbons campaign sign urging a slowdown in growth for infrastructure and community ...
 related_articles:
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 95.4594928113308
-  llm_score: 95
-  recency_score: 97.29746405665401
-  rank: 1
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 87.62009294457451
-  llm_score: 85
-  recency_score: 98.10046472287257
-  rank: 2
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
-  score: 87.51287958944485
+  score: 78.8560612226499
   llm_score: 85
   recency_score: 97.56439794722424
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 85.34434506009411
-  llm_score: 85
+  score: 78.41872696930318
+  llm_score: 87
   recency_score: 86.72172530047058
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 72.38244748274676
+  llm_score: 85
+  recency_score: 55.48590863785381
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 67.7346618727269
+  llm_score: 85
+  recency_score: 25.27530217272481
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 80.2139847791858
-  llm_score: 85
-  recency_score: 61.06992389592894
-  rank: 5
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 73.47308182433314
-  llm_score: 85
-  recency_score: 27.365409121665678
-  rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 71.08712156026982
-  llm_score: 85
-  recency_score: 15.435607801349112
-  rank: 7
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 68.674820315817
-  llm_score: 85
-  recency_score: 3.374101579085013
-  rank: 8
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 63.33326215846071
-  llm_score: 75
+  score: 66.4102016603544
+  llm_score: 85
   recency_score: 16.666310792303566
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 66.22086273866911
+  llm_score: 85
+  recency_score: 15.435607801349112
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: self-incrimination
   title: SELF INCRIMINATION
-  score: 56.851775648651326
-  llm_score: 70
+  score: 65.73213511434719
+  llm_score: 87
   recency_score: 4.258878243256627
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 60.67160140333319
+  llm_score: 73
+  recency_score: 27.365409121665678
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 13.959152306057437
+  llm_score: 0
+  recency_score: 15.734489989373342
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 13.868061997834378
+  llm_score: 0
+  recency_score: 15.142402985923455
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Where we should be…

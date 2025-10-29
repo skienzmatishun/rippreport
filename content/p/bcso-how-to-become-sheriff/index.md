@@ -16,8 +16,8 @@ alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear 
 related_articles:
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 90.43570217942364
-  llm_score: 85
+  score: 93.51262525634672
+  llm_score: 90
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 100
@@ -46,14 +46,22 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.37767397267824
-  llm_score: 85
-  recency_score: 51.95488082240847
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 83.67464648893878
+  llm_score: 90
+  recency_score: 33.88520217810198
   length_score: 100
   category_score: 100
   rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 82.18466326181631
+  llm_score: 85
+  recency_score: 44.200311201805995
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 81.94673205819007
@@ -61,38 +69,30 @@ related_articles:
   recency_score: 42.653758378235395
   length_score: 100
   category_score: 100
-  rank: 6
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 80.5977234120157
-  llm_score: 85
-  recency_score: 33.88520217810198
-  length_score: 100
-  category_score: 100
   rank: 7
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 74.6464697379024
-  llm_score: 95
-  recency_score: 30.20205329636546
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 72.95389403104708
-  llm_score: 70
-  recency_score: 44.200311201805995
-  length_score: 100
-  category_score: 100
-  rank: 9
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 70.68714637943059
-  llm_score: 70
+  score: 79.91791561019981
+  llm_score: 85
   recency_score: 29.466451466298754
   length_score: 100
   category_score: 100
+  rank: 8
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 77.22382781883208
+  llm_score: 75
+  recency_score: 51.95488082240847
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: bcso-no-clones
+  title: BCSO - NO CLONES
+  score: 68.49262358405623
+  llm_score: 85
+  recency_score: 30.20205329636546
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.

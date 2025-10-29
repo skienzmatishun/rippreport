@@ -22,8 +22,8 @@ related_articles:
   rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 91.93618814959576
-  llm_score: 95
+  score: 85.78234199574962
+  llm_score: 85
   recency_score: 67.58522297237245
   length_score: 100
   category_score: 100
@@ -52,14 +52,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 77.69230769230771
@@ -67,27 +59,35 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 77.26126416940835
+  rank: 6
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 73.68947004750551
   llm_score: 85
-  recency_score: 87.19821710115417
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: innocent
+  title: INNOCENT
+  score: 72.63526684797003
+  llm_score: 95
+  recency_score: 17.129234511805123
   length_score: 100
   category_score: 0
   rank: 8
-- slug: innocent
-  title: INNOCENT
-  score: 69.55834377104696
-  llm_score: 90
-  recency_score: 17.129234511805123
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 54.9720292006587
-  llm_score: 70
+  score: 58.04895227758178
+  llm_score: 75
   recency_score: 2.318189804281508
   length_score: 100
   category_score: 0
