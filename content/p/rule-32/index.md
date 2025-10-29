@@ -15,63 +15,83 @@ alttags: Legal document filed as a Rule 32 petition seeking relief from convicti
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 97.77733007636273
-  llm_score: 100
-  recency_score: 88.88665038181365
-  rank: 1
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 95.89071065521195
+  score: 95.21333082797133
   llm_score: 95
-  recency_score: 99.45355327605971
-  rank: 2
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 92.01484817064438
-  llm_score: 100
+  score: 87.70372936203415
+  llm_score: 90
   recency_score: 60.07424085322191
-  rank: 3
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 90.0
-  llm_score: 100
-  recency_score: 50
-  rank: 5
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 6
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 82.07359964556152
+  score: 86.21046126581655
   llm_score: 95
   recency_score: 30.367998227807558
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 85.30054665785535
+  llm_score: 95
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.72880384054973
-  llm_score: 96
+  score: 84.56061833888441
+  llm_score: 95
   recency_score: 19.644019202748584
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.10597776443174
-  llm_score: 96
+  score: 84.08152135725518
+  llm_score: 95
   recency_score: 16.529888822158654
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 82.80462412241712
+  llm_score: 95
+  recency_score: 83.23005679571122
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: innocent
   title: INNOCENT
-  score: 79.85417482562934
+  score: 72.96474986586873
   llm_score: 95
   recency_score: 19.270874128146687
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The wrongful conviction of Murray Lawrence has cost him over 7500 days in Jail. The Ripp Report is happy to announce that we are a step closer to Mr. Lawrence proving his innocence. A Rule 32 has been filed on his behalf.

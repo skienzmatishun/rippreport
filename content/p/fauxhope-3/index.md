@@ -14,80 +14,80 @@ authors:
 related_articles:
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 76.57941586074472
-  llm_score: 90
+  score: 64.2717235530524
+  llm_score: 70
   recency_score: 62.766203094840556
   length_score: 100
   category_score: 0
   rank: 1
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 74.53151892117172
-  llm_score: 90
-  recency_score: 49.45487298761609
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 71.88533631593474
-  llm_score: 90
-  recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 71.77378530918249
-  llm_score: 85
+  score: 62.54301607841325
+  llm_score: 70
   recency_score: 51.52960450968603
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 62.22382661347941
+  llm_score: 70
+  recency_score: 49.45487298761609
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 70.72113262635521
-  llm_score: 85
+  score: 61.49036339558599
+  llm_score: 70
   recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 59.57764400824243
+  llm_score: 70
+  recency_score: 32.254686053575696
   length_score: 100
   category_score: 0
   rank: 5
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 68.64792311388587
-  llm_score: 85
+  score: 59.41715388311664
+  llm_score: 70
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
   rank: 6
 - slug: all-mouth
   title: ALL MOUTH
-  score: 67.4673075095809
-  llm_score: 85
+  score: 58.23653827881168
+  llm_score: 70
   recency_score: 23.53749881227582
   length_score: 100
   category_score: 0
   rank: 7
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 67.31200085643964
-  llm_score: 85
+  score: 58.08123162567041
+  llm_score: 70
   recency_score: 22.528005566857594
   length_score: 100
   category_score: 0
   rank: 8
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 65.03025556912468
-  llm_score: 85
+  score: 55.79948633835545
+  llm_score: 70
   recency_score: 7.696661199310357
   length_score: 100
   category_score: 0
   rank: 9
 - slug: fauxhope
   title: FAUXHOPE
-  score: 64.53072632226097
-  llm_score: 85
+  score: 12.22303401456865
+  llm_score: 0
   recency_score: 4.449721094696223
   length_score: 100
   category_score: 0

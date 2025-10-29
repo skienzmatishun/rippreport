@@ -13,81 +13,81 @@ authors:
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS
-  score: 88.17480962493805
-  llm_score: 90
+  score: 69.66647141019288
+  llm_score: 70
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 1
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 77.95954224960846
-  llm_score: 95
-  recency_score: 8.063614997389708
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 69.02094953139249
+  llm_score: 70
+  recency_score: 93.63617195405108
   length_score: 100
   category_score: 0
   rank: 2
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 77.68858273497813
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 65.45110614610505
   llm_score: 85
-  recency_score: 49.59055156652082
+  recency_score: 10.432189949682714
   length_score: 100
   category_score: 0
   rank: 3
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 74.68332014975489
-  llm_score: 90
-  recency_score: 7.888800998365954
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 65.08670999959843
+  llm_score: 85
+  recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 74.54542579310765
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 62.244700241003216
   llm_score: 70
-  recency_score: 93.63617195405108
+  recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
   rank: 5
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 73.53787671786415
-  llm_score: 85
+  score: 57.98756586447605
+  llm_score: 70
   recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
   rank: 6
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 72.01047638844604
-  llm_score: 85
+  score: 56.421001424047226
+  llm_score: 70
   recency_score: 11.736509256306908
   length_score: 100
   category_score: 0
   rank: 7
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 71.8148284924524
-  llm_score: 85
-  recency_score: 10.432189949682714
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 55.829046307440926
+  llm_score: 70
+  recency_score: 7.888800998365954
   length_score: 100
   category_score: 0
   rank: 8
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 71.797773310796
-  llm_score: 85
-  recency_score: 10.318488738640012
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 55.825725757690066
+  llm_score: 70
+  recency_score: 7.867217424985351
   length_score: 100
   category_score: 0
   rank: 9
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 71.4300826137478
-  llm_score: 85
-  recency_score: 7.867217424985351
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 53.125921344406166
+  llm_score: 65
+  recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
   rank: 10

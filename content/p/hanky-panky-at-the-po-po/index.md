@@ -12,63 +12,83 @@ alttags: Handcuffs against a black background symbolize allegations against Capt
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 95.72789538259508
+  score: 96.71376567891929
   llm_score: 95
   recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 94.93359302371175
+  score: 96.10276386439367
   llm_score: 95
   recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 87.03762349360866
+  score: 90.02894114892975
   llm_score: 85
   recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 86.07197526621852
-  llm_score: 85
-  recency_score: 90.35987633109261
-  rank: 4
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 85.77733007636273
-  llm_score: 85
-  recency_score: 88.88665038181365
-  rank: 5
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 79.51136989971913
-  llm_score: 95
-  recency_score: 17.55684949859567
-  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 79.15815510057
+  score: 83.96781161582308
   llm_score: 85
   recency_score: 55.79077550285001
-  rank: 7
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 73.87716639008053
-  llm_score: 85
-  recency_score: 29.385831950402675
-  rank: 8
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 83.13228866632195
+  llm_score: 75
+  recency_score: 90.35987633109261
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 69.3167733711599
-  llm_score: 85
+  score: 82.55136413166147
+  llm_score: 95
   recency_score: 6.583866855799505
-  rank: 9
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 77.52102313566365
+  llm_score: 85
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 69.16058788073119
+  score: 76.27737529287015
   llm_score: 75
   recency_score: 45.8029394036559
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 71.93182299978396
+  llm_score: 75
+  recency_score: 17.55684949859567
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 68.36705106929273
+  llm_score: 85
+  recency_score: 29.385831950402675
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin Countian of the Year 2023 (Nappie Awards), Commander of the Major Crimes Unit, and supervisor over Criminal Investigations CID, Public Relations, and Forensics... Captain Andre Reid was accused of having an affair with a subordinate. He has denied the allegations but the Ripp Report is awash with anonymous sources who seem to know a lot about the details of this and other instances of cover given to people in the "Sheriff's Circle of Protection". The Sheriff Department stated that they investigated and while there was no evidence of an affair but that certain policies had been violated. He never lost any pay, and is now Captain in charge of the Baldwin County Correction Center where he is in charge of several hundred women. On top of this there is a Federal Investigation ongoing as to what happened to item of evidence in the possession of Baldwin County Sheriff's Deputies who were working as Federal Agents under the Organized Crime Drug Enforcement Taskforce (OCDEFT). The toll plaza at the beach express has been demolished. New laws go into effect related to cell phones and squatting in Alabama. RSA and David Bronner want a special session to save the State's economy through casino gaming. AG Marshall is accused of ignoring complaints against the ALGOP Party Chairman John Wahl. The Alabama Political Reporter gets outed for all of the State funds it receives to presumably influence their content. Trump Bannon and Hunter Biden are all going to jail (news since the last podcast). Anthony Fauci gets his day of grilling on the hill (beagles). And the Alabama Police Officers Standards and Training Commission soils the bed again, this time by failing to stop former FBI agent Christopher Bauer (who raped a co-worker at knife point) to become an Alabama State Trooper in 2019, he was convicted of raping a child this week. The Supreme Court has ended the ATF bump stock ban. But no one can tell you when you need a Federal Firearms License which may cost you your life (like the Little Rock Ark Airport Manager) there is a 350+ page publication you can read online. Finally the Alabama Attorney General has forwarded a complaint they received related to a murder for hire in Choctaw County Alabama to the local Sheriff for further investigation. The reason the complaint was made to the AG and not the local Sheriff is his family connection to one of the alleged participants. Hanky Panky at the Po Po indeed.

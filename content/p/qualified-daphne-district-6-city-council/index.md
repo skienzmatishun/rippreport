@@ -22,14 +22,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 78.73319773105223
-  llm_score: 85
-  recency_score: 96.76578525183945
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
   score: 78.49047961046821
@@ -37,7 +29,23 @@ related_articles:
   recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 75.04089003874455
+  llm_score: 79
+  recency_score: 96.76578525183945
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 66.94173081478357
+  llm_score: 90
+  recency_score: 0.12125029609309805
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
   score: 64.43368756009316
@@ -45,7 +53,7 @@ related_articles:
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
   score: 64.0230158631234
@@ -53,15 +61,15 @@ related_articles:
   recency_score: 1.1496031103020492
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 63.862780154845986
+  rank: 6
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.86155240576037
   llm_score: 85
-  recency_score: 0.10807100649883039
+  recency_score: 0.10009063744229098
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
   score: 60.188779856495714
@@ -69,27 +77,19 @@ related_articles:
   recency_score: 0.22706906722204626
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 60.172500045552795
-  llm_score: 79
-  recency_score: 0.12125029609309805
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 60.16924471345268
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 60.17047246253829
   llm_score: 79
-  recency_score: 0.10009063744229098
+  recency_score: 0.10807100649883039
   length_score: 100
   category_score: 0
   rank: 9
 - slug: challengers-emerge-in-daphne-mayoral-race
   title: Challengers emerge in Daphne mayoral race
-  score: 54.61710962543559
-  llm_score: 70
+  score: 60.15557116389713
+  llm_score: 79
   recency_score: 0.01121256533123894
   length_score: 100
   category_score: 0

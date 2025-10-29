@@ -40,26 +40,26 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: rule-32
-  title: RULE 32
-  score: 84.08152135725518
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 82.31073789916488
   llm_score: 95
-  recency_score: 16.529888822158654
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 100
   rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 76.15689174531873
+- slug: rule-32
+  title: RULE 32
+  score: 77.92767520340902
   llm_score: 85
-  recency_score: 5.0197963445716995
+  recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
   rank: 5
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
@@ -72,6 +72,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: innocent
+  title: INNOCENT
+  score: 70.4900698566832
+  llm_score: 95
+  recency_score: 3.1854540684407837
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 66.34090734657106
@@ -79,20 +87,12 @@ related_articles:
   recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: but-i-didnt-do-it
   title: But, I Didn’t Do It…
-  score: 65.67667532210979
-  llm_score: 85
+  score: 59.522829168263634
+  llm_score: 75
   recency_score: 11.898389593713517
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: innocent
-  title: INNOCENT
-  score: 64.33622370283706
-  llm_score: 85
-  recency_score: 3.1854540684407837
   length_score: 100
   category_score: 0
   rank: 10

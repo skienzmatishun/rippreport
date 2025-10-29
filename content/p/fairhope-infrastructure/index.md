@@ -17,65 +17,85 @@ authors:
 - admin
 alttags: Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru...
 related_articles:
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 80.18056760504162
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 68.03321103692731
   llm_score: 85
-  recency_score: 60.90283802520807
+  recency_score: 27.215871740027474
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 72.1729154282683
-  llm_score: 90
-  recency_score: 0.8645771413415052
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 63.60560517505191
+  llm_score: 75
+  recency_score: 38.436433637837325
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: water
   title: Water
-  score: 63.225457302136924
+  score: 60.17342869395149
   llm_score: 75
   recency_score: 16.127286510684606
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: fairhope-no-hope-fauxhope
   title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 60.36132900786234
+  score: 57.97025308297104
   llm_score: 75
   recency_score: 1.8066450393116897
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairness
-  title: FAIRNESS
-  score: 60.01707702730569
-  llm_score: 75
-  recency_score: 0.08538513652846078
-  rank: 5
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 60.008751638825665
-  llm_score: 75
-  recency_score: 0.0437581941283173
-  rank: 6
-- slug: truth
-  title: TRUTH
-  score: 56.44864291354821
-  llm_score: 70
-  recency_score: 2.24321456774108
-  rank: 7
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 56.00706775115847
-  llm_score: 70
-  recency_score: 0.03533875579235944
-  rank: 8
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 52.41211225330371
-  llm_score: 65
-  recency_score: 2.0605612665185533
-  rank: 9
 - slug: fairhope-jester-and-fly-creek
   title: FAIRHOPE JESTER AND FLY CREEK
-  score: 40.04850028839997
-  llm_score: 50
+  score: 57.729615606461536
+  llm_score: 75
   recency_score: 0.24250144199986415
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 57.70522969517782
+  llm_score: 75
+  recency_score: 0.08399301865574989
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 57.6990397221736
+  llm_score: 75
+  recency_score: 0.0437581941283173
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 54.93941889629229
+  llm_score: 70
+  recency_score: 2.10622282589978
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 54.74839648328332
+  llm_score: 70
+  recency_score: 0.8645771413415052
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 54.62082134704499
+  llm_score: 70
+  recency_score: 0.03533875579235944
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope has had a water shortage for the last three years running. The sewer and infrastructure projects that were approved in 2020 have yet to be completed and we are in year 5. The sewer plant is beyond capacity and still discharges into the Bay. Growth has exploded with over a 1000 homes, condo and townhouses already approved for the future. Schools are bursting at the seams and municipalities are abandoning the public schools. Traffic has increased without any new roads. Lawsuits against the city are now in vogue again, costing taxpayers hundreds of thousands of dollars.

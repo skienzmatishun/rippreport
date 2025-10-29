@@ -27,19 +27,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 83.3418038923801
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 83.90151943555271
   llm_score: 95
-  recency_score: 86.72172530047058
+  recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 2
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 77.74767328170657
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 77.18795773853394
   llm_score: 85
-  recency_score: 90.35987633109261
+  recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
   rank: 3
@@ -59,19 +59,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.11428570730418
+  llm_score: 85
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
   score: 66.06365666795776
   llm_score: 85
   recency_score: 14.41376834172532
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 65.99193786465409
-  llm_score: 85
-  recency_score: 13.947596120251541
   length_score: 100
   category_score: 0
   rank: 7

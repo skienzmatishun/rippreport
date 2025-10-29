@@ -14,75 +14,85 @@ authors:
 - admin
 alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar...
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 85.90625209818191
-  llm_score: 95
-  recency_score: 97.03126049090956
-  category_score: 0
-  rank: 1
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 79.06641283325074
+  score: 90.43570217942364
   llm_score: 85
   recency_score: 97.83206416625366
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90.31250161398609
+  llm_score: 85
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 77.87150396712644
+  score: 89.51654151317419
   llm_score: 85
   recency_score: 91.85751983563217
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 77.22869172076297
+  score: 89.02207055443304
   llm_score: 85
   recency_score: 88.64345860381478
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 71.53075167564708
-  llm_score: 90
-  recency_score: 42.653758378235395
-  category_score: 0
-  rank: 5
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 71.1770404356204
-  llm_score: 92
-  recency_score: 33.88520217810198
-  category_score: 0
-  rank: 6
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 69.8909761644817
+  score: 83.37767397267824
   llm_score: 85
   recency_score: 51.95488082240847
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 81.94673205819007
+  llm_score: 85
+  recency_score: 42.653758378235395
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 80.5977234120157
+  llm_score: 85
+  recency_score: 33.88520217810198
+  length_score: 100
+  category_score: 100
   rank: 7
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 65.5404106592731
-  llm_score: 85
+  score: 74.6464697379024
+  llm_score: 95
   recency_score: 30.20205329636546
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 65.39329029325975
-  llm_score: 85
-  recency_score: 29.466451466298754
-  category_score: 0
-  rank: 9
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 61.340062240361206
-  llm_score: 75
+  score: 72.95389403104708
+  llm_score: 70
   recency_score: 44.200311201805995
-  category_score: 0
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 70.68714637943059
+  llm_score: 70
+  recency_score: 29.466451466298754
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.

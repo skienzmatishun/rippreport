@@ -14,63 +14,83 @@ alttags: Scales of justice against a dark background, symbolizing questions abou
 related_articles:
 - slug: rule-32
   title: RULE 32
-  score: 93.77733007636273
+  score: 95.21333082797133
   llm_score: 95
   recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 93.5170445944745
-  llm_score: 100
+  score: 91.93618814959576
+  llm_score: 95
   recency_score: 67.58522297237245
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 3
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 86.0
-  llm_score: 95
-  recency_score: 50
-  rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 85.39861928254133
-  llm_score: 100
+  score: 85.69124560195488
+  llm_score: 95
   recency_score: 26.993096412706674
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 84.64601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
-  rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 83.7193186493482
-  llm_score: 100
-  recency_score: 18.596593246741016
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.42001563077638
+  score: 84.93847356213568
   llm_score: 95
   recency_score: 22.100078153881906
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 84.39947588411401
+  llm_score: 95
+  recency_score: 18.596593246741016
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 77.26126416940835
+  llm_score: 85
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: innocent
   title: INNOCENT
-  score: 79.42584690236103
-  llm_score: 95
+  score: 69.55834377104696
+  llm_score: 90
   recency_score: 17.129234511805123
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 60.4636379608563
-  llm_score: 75
+  score: 54.9720292006587
+  llm_score: 70
   recency_score: 2.318189804281508
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.

@@ -16,19 +16,19 @@ authors:
 - admin
 alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article
 related_articles:
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 93.94086528918078
+  llm_score: 92
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 92.5162411427381
   llm_score: 90
   recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 92.09899363135612
-  llm_score: 90
-  recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
   rank: 2
@@ -40,30 +40,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 89.63317298148847
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 89.02207055443304
   llm_score: 85
-  recency_score: 92.61562437967505
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 85.54686204222662
-  llm_score: 90
-  recency_score: 46.05460327447295
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 84.48933608660465
-  llm_score: 90
-  recency_score: 39.1806845629302
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
   score: 84.34252292391137
@@ -71,7 +55,7 @@ related_articles:
   recency_score: 38.22639900542388
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 84.27842563861267
@@ -79,12 +63,28 @@ related_articles:
   recency_score: 37.809766650982276
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 6
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 80.49869858600047
-  llm_score: 85
+  score: 83.57562166292355
+  llm_score: 90
   recency_score: 33.241540809002984
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 82.46993896530354
+  llm_score: 85
+  recency_score: 46.05460327447295
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 81.41241300968157
+  llm_score: 85
+  recency_score: 39.1806845629302
   length_score: 100
   category_score: 100
   rank: 9

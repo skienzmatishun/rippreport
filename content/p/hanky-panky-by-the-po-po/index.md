@@ -15,63 +15,83 @@ alttags: Handcuffs with faux fur lining, symbolizing alleged cover-ups and inter
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 95.19474191901475
+  score: 96.30364763001134
   llm_score: 95
   recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 94.93359302371175
+  score: 96.10276386439367
   llm_score: 95
   recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 87.7866218911497
-  llm_score: 95
-  recency_score: 58.93310945574846
-  rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 86.022530768332
-  llm_score: 85
+  score: 95.40194674487077
+  llm_score: 95
   recency_score: 90.11265384166002
-  rank: 4
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 85.10837124125831
-  llm_score: 85
+  score: 94.69874710866024
+  llm_score: 95
   recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 90.60509376242284
+  llm_score: 95
+  recency_score: 58.93310945574846
+  length_score: 100
+  category_score: 100
   rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 83.62944962510568
-  llm_score: 85
-  recency_score: 78.14724812552835
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 88.98195739608983
+  llm_score: 95
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 81.19546987535206
+  score: 85.5349768271939
   llm_score: 95
   recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 75.70914268128783
-  llm_score: 90
-  recency_score: 18.545713406439127
-  rank: 8
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 73.390938708264
-  llm_score: 90
+  score: 82.60841439097231
+  llm_score: 95
   recency_score: 6.9546935413200295
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 74.27984140624702
+  llm_score: 95
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 69.67654461491676
-  llm_score: 75
-  recency_score: 48.38272307458382
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 69.00703283175987
+  llm_score: 70
+  recency_score: 18.545713406439127
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 It seems the Baldwin County Sheriff's Department has internal hanky panky problems. One of the top officers in the Sheriff's Department has been having a little extra curricular activity with a subordinate female employee, who is married to a fellow officer.  No official action by the sheriff has been taken, in fact, looks like it's covered up from the public.  Why should we care?  Because the Sheriff's Department is well known for cover ups.  The problem is that fellow officers are now wondering how this situation is not public and severe action has not been taken against the senior officer.  The Ripp Report has had 3 different people call us giving us dates, names and ranks of the individuals involved.  Let's see how Sheriff Hoss Mack is going to spin this sordid story. 

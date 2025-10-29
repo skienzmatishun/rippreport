@@ -11,74 +11,84 @@ authors:
 - admin
 alttags: Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values
 related_articles:
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 80.0
-  llm_score: 100
-  recency_score: 50
-  category_score: 0
-  rank: 1
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 78.22723439081022
-  llm_score: 85
+  score: 69.02094953139249
+  llm_score: 70
   recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 68.46153846153847
+  llm_score: 80
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 68.78693882755798
-  llm_score: 85
-  recency_score: 46.434694137789805
-  category_score: 0
-  rank: 3
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 61.69792359772774
-  llm_score: 85
-  recency_score: 10.989617988638654
-  category_score: 0
-  rank: 4
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 60.97735425358857
-  llm_score: 85
-  recency_score: 7.3867712679428434
-  category_score: 0
-  rank: 5
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 60.97331224721168
-  llm_score: 85
-  recency_score: 7.366561236058354
-  category_score: 0
-  rank: 6
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 56.60485586290198
-  llm_score: 75
-  recency_score: 20.524279314509858
-  category_score: 0
-  rank: 7
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 54.45366066397163
+  score: 59.1951235876705
   llm_score: 75
   recency_score: 9.768303319858143
+  length_score: 100
   category_score: 0
-  rank: 8
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 49.05638790447403
+  rank: 3
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 58.825624805547456
+  llm_score: 75
+  recency_score: 7.366561236058354
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 57.772966048386145
   llm_score: 70
-  recency_score: 0.28193952237011366
+  recency_score: 20.524279314509858
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 56.30609507517519
+  llm_score: 70
+  recency_score: 10.989617988638654
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 47.432367571674476
-  llm_score: 65
+  score: 56.101821208980375
+  llm_score: 70
   recency_score: 9.661837858372358
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 55.75181096429891
+  llm_score: 70
+  recency_score: 7.3867712679428434
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 55.605337559659986
+  llm_score: 60
+  recency_score: 46.434694137789805
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 54.65875992651849
+  llm_score: 70
+  recency_score: 0.28193952237011366
+  length_score: 100
   category_score: 0
   rank: 10
 ---

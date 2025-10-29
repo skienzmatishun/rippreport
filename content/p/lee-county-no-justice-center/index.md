@@ -11,65 +11,85 @@ authors:
 - admin
 alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
 related_articles:
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 64.58027788934189
+- slug: no-justice
+  title: NO JUSTICE
+  score: 82.83091264504338
   llm_score: 75
-  recency_score: 22.901389446709434
+  recency_score: 88.40093219278197
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 64.4564942330773
-  llm_score: 75
-  recency_score: 22.28247116538646
-  rank: 2
-- slug: silence-the-eagle
-  title: SILENCE THE EAGLE
-  score: 63.49954668641593
-  llm_score: 65
-  recency_score: 57.49773343207967
-  rank: 3
-- slug: justified
-  title: JUSTIFIED
-  score: 63.41831135904946
-  llm_score: 70
-  recency_score: 37.09155679524731
-  rank: 4
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 60.63074876314147
-  llm_score: 70
-  recency_score: 23.153743815707337
-  rank: 5
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 60.06172355562083
-  llm_score: 75
-  recency_score: 0.30861777810415675
-  rank: 6
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 56.456494233077294
-  llm_score: 65
+  score: 72.65884171775178
+  llm_score: 75
   recency_score: 22.28247116538646
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: cameras
   title: CAMERAS
-  score: 56.265360890387946
-  llm_score: 65
+  score: 72.5118160695292
+  llm_score: 75
   recency_score: 21.326804451939722
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 69.71596058703192
+  llm_score: 70
+  recency_score: 23.153743815707337
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 69.27824888893912
+  llm_score: 75
+  recency_score: 0.30861777810415675
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: police-report
+  title: POLICE REPORT
+  score: 69.27709247341008
+  llm_score: 75
+  recency_score: 0.301101077165421
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 66.53811283570458
+  llm_score: 75
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 61.21559837641685
+  llm_score: 75
+  recency_score: 22.901389446709434
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 58.043457102367164
+  llm_score: 70
+  recency_score: 22.28247116538646
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 52.409860279396575
-  llm_score: 65
+  score: 58.00758483030507
+  llm_score: 75
   recency_score: 2.049301396982881
-  rank: 9
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 52.29745661263092
-  llm_score: 65
-  recency_score: 1.487283063154587
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Have you noticed how a lot of communities are now building Justice Centers? Sounds like a good idea until you look a little closer and see the fraternity atmosphere. It is the police domain just like the courthouses. The police are in charge and they are armed to the teeth, where no one is armed? The Judges feel secure with such protection as well as the District Attorney and their minions. Pay attention and you will see all the same people at lunch somewhere, or surly in Church.

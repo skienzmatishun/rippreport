@@ -19,8 +19,8 @@ alttags: A skull sits atop scales of justice, symbolizing a flawed legal system 
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 83.57562166292355
-  llm_score: 90
+  score: 80.49869858600047
+  llm_score: 85
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
@@ -33,14 +33,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 79.91791561019981
-  llm_score: 85
-  recency_score: 29.466451466298754
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
   score: 79.81963657015807
@@ -48,7 +40,7 @@ related_articles:
   recency_score: 28.827637706027392
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
   score: 79.54879253854035
@@ -56,7 +48,7 @@ related_articles:
   recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
   score: 78.8560612226499
@@ -64,12 +56,20 @@ related_articles:
   recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
   score: 77.73988611413975
   llm_score: 85
   recency_score: 15.30925974190835
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 77.38834819203588
+  llm_score: 85
+  recency_score: 13.024263248233176
   length_score: 100
   category_score: 100
   rank: 7
@@ -89,11 +89,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 71.23450203818973
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 73.76406945635367
   llm_score: 75
-  recency_score: 13.024263248233176
+  recency_score: 29.466451466298754
   length_score: 100
   category_score: 100
   rank: 10

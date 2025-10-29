@@ -10,8 +10,8 @@ alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and informati
 related_articles:
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 71.43037908563909
-  llm_score: 73
+  score: 70.19960985486986
+  llm_score: 71
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
@@ -24,30 +24,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 63.85954437889766
-  llm_score: 85
-  recency_score: 0.08703846283467485
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 57.707249108791345
-  llm_score: 75
-  recency_score: 0.09711920714364118
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 57.699656572491
-  llm_score: 75
+  score: 63.853502726337155
+  llm_score: 85
   recency_score: 0.047767721191407035
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 56.47394018704691
+  llm_score: 73
+  recency_score: 0.08061121580480553
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
   score: 55.028895952651695
@@ -55,15 +47,7 @@ related_articles:
   recency_score: 2.6878236922359457
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: letter-of-concern
-  title: Letter of Concern
-  score: 54.651684269748735
-  llm_score: 70
-  recency_score: 0.23594775336668541
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 5
 - slug: baldwin-county-municipal-alert-municipal-conservation-easement
   title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
   score: 54.64773868221244
@@ -71,20 +55,36 @@ related_articles:
   recency_score: 0.21030143438080218
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 54.62778634089306
+  rank: 6
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 54.630326031868265
   llm_score: 70
-  recency_score: 0.08061121580480553
+  recency_score: 0.09711920714364118
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 54.628775148128426
+  llm_score: 70
+  recency_score: 0.08703846283467485
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
   score: 54.61688879339388
   llm_score: 70
   recency_score: 0.009777157060142481
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 42.34399196205642
+  llm_score: 50
+  recency_score: 0.23594775336668541
   length_score: 100
   category_score: 0
   rank: 10

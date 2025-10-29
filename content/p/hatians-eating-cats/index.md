@@ -9,70 +9,38 @@ authors:
 rumble: v5dblkt
 alttags: Provocative illustration depicting a muscular figure labeled Haiti feeding a kitten to a plate, referencing false claims...
 related_articles:
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 62.99181886336761
-  llm_score: 75
-  recency_score: 34.44682261188939
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 62.710096058411565
-  llm_score: 60
+  score: 78.09471144302694
+  llm_score: 85
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: bsp-128
-  title: Big News
-  score: 59.154509447936
-  llm_score: 75
-  recency_score: 9.504311411583915
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 57.80860986966118
-  llm_score: 75
-  recency_score: 0.7559641527975924
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 57.11338642899012
-  llm_score: 50
-  recency_score: 96.23701178843567
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 1
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 54.05953685985937
-  llm_score: 60
+  score: 63.290306090628604
+  llm_score: 75
   recency_score: 36.386989589085836
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: im-back-2
   title: I'M BACK
-  score: 46.16437097907571
-  llm_score: 50
+  score: 52.318217132921866
+  llm_score: 60
   recency_score: 25.06841136399206
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 45.053513907262214
-  llm_score: 50
-  recency_score: 17.84784039720432
+  rank: 3
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 44.805694121297805
+  llm_score: 30
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
   score: 42.46794304975153
@@ -80,12 +48,44 @@ related_articles:
   recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
   score: 42.405825804843104
   llm_score: 50
   recency_score: 0.6378677314801207
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 35.82274467649298
+  llm_score: 35
+  recency_score: 17.84784039720432
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 29.14566501721376
+  llm_score: 20
+  recency_score: 34.44682261188939
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 23.962949725565927
+  llm_score: 0
+  recency_score: 80.75917321617852
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bsp-128
+  title: Big News
+  score: 13.000663294089833
+  llm_score: 0
+  recency_score: 9.504311411583915
   length_score: 100
   category_score: 0
   rank: 10

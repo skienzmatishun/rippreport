@@ -9,46 +9,30 @@ authors:
 rumble: v5gydsy
 alttags: Political cartoon depicting officials in a boat overlooking people struggling in water, referencing FEMA’s response challe...
 related_articles:
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 78.09471144302694
-  llm_score: 85
-  recency_score: 92.61562437967505
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 70.09088695111183
+  llm_score: 95
+  recency_score: 0.5907651822267828
   length_score: 100
   category_score: 0
   rank: 1
 - slug: the-180
   title: THE 180
-  score: 71.5402869578491
-  llm_score: 76
+  score: 67.84797926554141
+  llm_score: 70
   recency_score: 86.01186522601911
   length_score: 100
   category_score: 0
   rank: 2
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 70.10771398772309
-  llm_score: 95
-  recency_score: 0.700140920200011
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: backstory-153
   title: No Boomers
-  score: 61.840649078158776
-  llm_score: 76
+  score: 58.14834138585108
+  llm_score: 70
   recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: im-back-2
-  title: I'M BACK
-  score: 58.18727164720411
-  llm_score: 70
-  recency_score: 23.21726570682666
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 3
 - slug: bsp-128
   title: Big News
   score: 55.96961190105034
@@ -56,15 +40,7 @@ related_articles:
   recency_score: 8.80247735682715
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 55.93662831348142
-  llm_score: 70
-  recency_score: 8.588084037629146
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
   score: 55.32867628556745
@@ -72,20 +48,44 @@ related_articles:
   recency_score: 4.636395856188334
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: im-back-2
+  title: I'M BACK
+  score: 55.11034857028103
+  llm_score: 65
+  recency_score: 23.21726570682666
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 54.72309860310771
+  llm_score: 70
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 52.85970523655834
+  llm_score: 65
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 55.00364306816264
-  llm_score: 70
+  score: 51.92671999123956
+  llm_score: 65
   recency_score: 2.5236799430570582
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.70627156649644
-  llm_score: 70
-  recency_score: 0.5907651822267828
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 25.787019135334628
+  llm_score: 0
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 10

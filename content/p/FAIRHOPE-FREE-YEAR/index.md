@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
 related_articles:
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 82.40594800324254
-  llm_score: 95
-  recency_score: 37.70632002161693
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 81.13378810516106
-  llm_score: 95
-  recency_score: 29.2252540344071
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 81.06231489542581
-  llm_score: 95
+  score: 68.26904091838546
+  llm_score: 85
   recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 77.1133103889488
-  llm_score: 95
-  recency_score: 2.422069259658703
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 76.76179717710669
-  llm_score: 95
-  recency_score: 0.07864784737789618
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 75.04859983205267
-  llm_score: 85
-  recency_score: 31.990665547017855
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 1
 - slug: two-questions-decide-fairhopes-future
   title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 65.99577303538666
-  llm_score: 72
+  score: 68.1495108055248
+  llm_score: 85
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 63.808271932697764
-  llm_score: 75
-  recency_score: 0.3884795513184073
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 68.11428570730418
+  llm_score: 85
+  recency_score: 27.742857097477103
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 63.4932800033257
+  llm_score: 75
+  recency_score: 37.70632002161693
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 62.613948545695074
+  llm_score: 75
+  recency_score: 31.990665547017855
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  score: 62.188500620678035
+  llm_score: 75
+  recency_score: 29.2252540344071
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.80396891430613
-  llm_score: 75
+  score: 60.82458350185246
+  llm_score: 80
   recency_score: 0.35979276204090305
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 55.2511451141854
+  llm_score: 70
+  recency_score: 4.13244324220501
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 54.814359395297956
+  llm_score: 70
+  recency_score: 1.2933360694366538
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: people-power
-  title: PEOPLE POWER
-  score: 63.758353284335776
-  llm_score: 75
-  recency_score: 0.05568856223848439
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 54.67515070020284
+  llm_score: 70
+  recency_score: 0.3884795513184073
   length_score: 100
   category_score: 0
   rank: 10

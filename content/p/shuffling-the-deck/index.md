@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership
 related_articles:
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 94.77861223075729
-  llm_score: 95
-  recency_score: 93.89306115378648
-  rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90.98553700495827
-  llm_score: 90
-  recency_score: 94.92768502479139
-  rank: 2
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 89.34434506009411
-  llm_score: 90
-  recency_score: 86.72172530047058
-  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 87.56641283325074
-  llm_score: 85
-  recency_score: 97.83206416625366
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 86.62123778439704
+  score: 96.5895483332698
   llm_score: 95
-  recency_score: 53.10618892198522
-  rank: 5
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 95.98354786981331
+  llm_score: 95
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 86.022530768332
-  llm_score: 85
+  score: 95.40194674487077
+  llm_score: 95
   recency_score: 90.11265384166002
-  rank: 6
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 82.63595596770666
-  llm_score: 92
-  recency_score: 45.179779838533264
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 94.88026543084163
+  llm_score: 95
+  recency_score: 86.72172530047058
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 89.98887461919868
+  llm_score: 85
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 80.71979115267374
-  llm_score: 90
+  score: 88.24599319436442
+  llm_score: 95
   recency_score: 43.598955763368686
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 82.50262444871355
+  llm_score: 95
+  recency_score: 6.267058916638003
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 82.33535074438974
+  llm_score: 85
+  recency_score: 45.179779838533264
+  length_score: 100
+  category_score: 100
   rank: 8
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 79.81963657015807
+  llm_score: 85
+  recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 100
+  rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 73.90945843208527
+  score: 68.39189110160407
   llm_score: 85
   recency_score: 29.54729216042639
-  rank: 9
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 69.6424074124535
-  llm_score: 87
-  recency_score: 0.21203706226742583
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Federal investigation, the internal investigation, wrongful conviction, federal Lawsuit of Johnathan Victor and a myriad of internal problems within BCSO involving morals, accountability, transparency and of course the GOB, Good ole Boy culture that permeates the entire department.

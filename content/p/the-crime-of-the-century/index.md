@@ -18,62 +18,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 63.92671918303893
-  llm_score: 85
-  recency_score: 0.5236746897529492
+- slug: what-the
+  title: What the
+  score: 61.2680118179438
+  llm_score: 70
+  recency_score: 43.242076816634636
   length_score: 100
   category_score: 0
   rank: 2
 - slug: delicately-censored
   title: Delicately Censored
-  score: 62.35152493865319
-  llm_score: 75
+  score: 59.27460186173011
+  llm_score: 70
   recency_score: 30.284912101245666
   length_score: 100
   category_score: 0
   rank: 3
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 61.333357754516726
-  llm_score: 75
+  score: 58.256434677593646
+  llm_score: 70
   recency_score: 23.666825404358608
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 60.6489460725022
-  llm_score: 75
-  recency_score: 19.21814947126418
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 58.68054000915504
-  llm_score: 75
-  recency_score: 6.423510059507628
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: the-180
-  title: THE 180
-  score: 58.35893868215092
-  llm_score: 60
-  recency_score: 64.3331014339809
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 57.982707980216034
-  llm_score: 75
-  recency_score: 1.887601871404123
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: a-long-strange-day-jan-6-2021
   title: A long strange day Jan 6, 2021
   score: 57.95543293778952
@@ -81,12 +49,44 @@ related_articles:
   recency_score: 1.7103140956317624
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: backstory-153
-  title: No Boomers
-  score: 57.25788127185212
+  rank: 5
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 55.60361693223196
   llm_score: 70
-  recency_score: 17.176228267038702
+  recency_score: 6.423510059507628
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 54.905784903292954
+  llm_score: 70
+  recency_score: 1.887601871404123
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 54.49509991865604
+  llm_score: 65
+  recency_score: 19.21814947126418
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 42.388257644577386
+  llm_score: 50
+  recency_score: 0.5236746897529492
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 26.466347767832243
+  llm_score: 0
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
   rank: 10

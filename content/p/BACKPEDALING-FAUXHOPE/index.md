@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: Councilman Jack Burrell cycling through town after a public backlash over council meeting participation rules
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 81.20829310915265
-  llm_score: 90
-  recency_score: 51.388620727684355
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 63.92918413605988
+  llm_score: 85
+  recency_score: 0.5396968843891398
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 78.88379042925796
-  llm_score: 90
-  recency_score: 35.89193619505306
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 62.521326265797605
+  llm_score: 70
+  recency_score: 51.388620727684355
   length_score: 100
   category_score: 0
   rank: 2
 - slug: all-mouth
   title: ALL MOUTH
-  score: 75.87504126067105
-  llm_score: 85
+  score: 60.38465770325238
+  llm_score: 70
   recency_score: 37.500275071140365
   length_score: 100
   category_score: 0
   rank: 3
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 74.90614190295538
-  llm_score: 85
-  recency_score: 31.040946019702552
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 60.1372209530851
+  llm_score: 70
+  recency_score: 35.89193619505306
   length_score: 100
   category_score: 0
   rank: 4
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 74.48040095272637
-  llm_score: 85
-  recency_score: 28.202673018175854
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 59.390914772261944
+  llm_score: 70
+  recency_score: 31.040946019702552
   length_score: 100
   category_score: 0
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 74.45728406531066
-  llm_score: 85
-  recency_score: 28.048560435404436
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 58.95425738741168
+  llm_score: 70
+  recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 73.57985312755156
-  llm_score: 90
-  recency_score: 0.5323541836770731
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 58.930547759293006
+  llm_score: 70
+  recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
   rank: 7
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 70.33095453265838
-  llm_score: 85
-  recency_score: 0.5396968843891398
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 56.501912180516506
+  llm_score: 70
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 8
 - slug: going-down
   title: GOING DOWN
-  score: 62.6032765546149
-  llm_score: 73
+  score: 54.77259133806657
+  llm_score: 70
   recency_score: 1.0218436974326381
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 55.83936437600358
-  llm_score: 60
-  recency_score: 12.262429173357202
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 54.697285259027254
+  llm_score: 70
+  recency_score: 0.5323541836770731
   length_score: 100
   category_score: 0
   rank: 10

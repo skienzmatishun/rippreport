@@ -14,63 +14,83 @@ alttags: Sheriff Mack partially obscured by a blanket, symbolizing alleged cover
 related_articles:
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 95.72789538259508
+  score: 96.71376567891929
   llm_score: 95
   recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 95.19474191901475
+  score: 96.30364763001134
   llm_score: 95
   recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 94.77861223075729
+  score: 95.98354786981331
   llm_score: 95
   recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 100
   rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 93.82610187044024
+  score: 95.25084759264634
   llm_score: 95
   recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 87.31205826488139
-  llm_score: 95
-  recency_score: 56.56029132440696
-  rank: 5
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 86.37150396712644
+  score: 89.51654151317419
   llm_score: 85
   recency_score: 91.85751983563217
-  rank: 6
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 85.28693882755796
+  score: 88.68226063658305
   llm_score: 95
   recency_score: 46.434694137789805
-  rank: 7
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 84.28513651399791
+  score: 87.9116434723061
   llm_score: 85
   recency_score: 81.42568256998956
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 85.70263869238651
+  llm_score: 95
+  recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 83.22366745387794
-  llm_score: 92
-  recency_score: 48.118337269389656
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 82.56533498193444
+  llm_score: 95
+  recency_score: 6.674677382573833
+  length_score: 100
+  category_score: 100
   rank: 9
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 79.55980182540611
-  llm_score: 95
+  score: 78.12292448108163
+  llm_score: 85
   recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.
