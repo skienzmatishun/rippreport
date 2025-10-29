@@ -10,72 +10,82 @@ alttags: Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork an
 related_articles:
 - slug: catalyst-2
   title: CATALYST
-  score: 66.64662907448486
-  llm_score: 92
+  score: 68.65125313421913
+  llm_score: 90
   recency_score: 11.233145372424257
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 65.00792557433364
-  llm_score: 90
-  recency_score: 10.039627871668154
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 66.48865050262135
+  llm_score: 85
+  recency_score: 17.176228267038702
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 63.33648583250484
-  llm_score: 90
-  recency_score: 1.6824291625241752
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 59.2368658264105
+  llm_score: 75
+  recency_score: 10.039627871668154
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 62.16988030926578
-  llm_score: 85
-  recency_score: 13.34940154632884
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 57.95114294808066
+  llm_score: 75
+  recency_score: 1.6824291625241752
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: catalyst
   title: CATALYST
-  score: 60.11817724699342
-  llm_score: 85
+  score: 55.090905574610325
+  llm_score: 70
   recency_score: 3.090886234967053
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: raising-eyebrows
   title: RAISING EYEBROWS
-  score: 60.03316450604944
-  llm_score: 85
+  score: 55.025511158499576
+  llm_score: 70
   recency_score: 2.665822530247155
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
-  score: 59.875457426563365
-  llm_score: 85
+  score: 54.90419802043336
+  llm_score: 70
   recency_score: 1.8772871328167993
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 55.93524565340775
-  llm_score: 75
-  recency_score: 17.176228267038702
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 53.67251999048985
+  llm_score: 65
+  recency_score: 13.871379938184003
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 52.90762061132709
-  llm_score: 75
+  score: 51.85201585486699
+  llm_score: 65
   recency_score: 2.038103056635405
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 47.56935946639769
-  llm_score: 65
-  recency_score: 10.34679733198841
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 11.933155068106574
+  llm_score: 0
+  recency_score: 2.565507942692728
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: 'Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission'
 related_articles:
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 71.64866887953505
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 64.19315998332091
   llm_score: 85
-  recency_score: 18.243344397675273
+  recency_score: 2.255539891585818
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 71.3607717319103
-  llm_score: 85
+  score: 60.277516716854095
+  llm_score: 75
   recency_score: 16.8038586595515
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 58.08700122195274
+  llm_score: 75
+  recency_score: 2.565507942692728
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 68.43413283827167
-  llm_score: 85
+  score: 58.02625602943976
+  llm_score: 75
   recency_score: 2.1706641913583127
-  rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 68.40986027939658
-  llm_score: 85
-  recency_score: 2.049301396982881
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
-  score: 68.38483036277891
-  llm_score: 85
+  score: 57.988331048291485
+  llm_score: 75
   recency_score: 1.9241518138945364
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 64.4258863318591
-  llm_score: 80
-  recency_score: 2.1294316592954887
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 57.92876810892228
+  llm_score: 75
+  recency_score: 1.5369927079947032
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 63.10408372408847
-  llm_score: 75
-  recency_score: 15.520418620442342
-  rank: 7
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 60.51310158853855
-  llm_score: 75
-  recency_score: 2.565507942692728
-  rank: 8
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 60.30155939785989
-  llm_score: 75
-  recency_score: 1.5077969892994678
-  rank: 9
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 60.25236710991603
+  score: 57.88643623839696
   llm_score: 75
   recency_score: 1.2618355495801652
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 56.30146933125266
+  llm_score: 70
+  recency_score: 10.959550653142209
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 54.93066175338199
+  llm_score: 70
+  recency_score: 2.049301396982881
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 54.905784903292954
+  llm_score: 70
+  recency_score: 1.887601871404123
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County needs more representation on the county commission. People will say “just more talking heads.” The population of the county is topping 250,000 and the county only has 4 commissioners. The Commission should be an odd number so as to never tie or have a possible deadlock in voting on issues.

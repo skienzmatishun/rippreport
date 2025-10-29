@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-7
-  title: 'BACKSTORY PODCAST #7'
-  score: 81.72705423883461
-  llm_score: 100
-  recency_score: 8.635271194173066
+- slug: bsp-128
+  title: Big News
+  score: 71.29245110658185
+  llm_score: 75
+  recency_score: 88.40093219278197
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-6
-  title: BACKSTORY PODCAST 6
-  score: 81.7129174484708
-  llm_score: 100
-  recency_score: 8.564587242354007
-  rank: 2
-- slug: backstory-podcast-2
-  title: BACKSTORY PODCAST
-  score: 78.21000007071322
-  llm_score: 95
-  recency_score: 11.05000035356611
-  rank: 3
-- slug: backstory-podcast-4
-  title: 'BACKSTORY PODCAST #4'
-  score: 77.62603288021906
-  llm_score: 95
-  recency_score: 8.130164401095277
-  rank: 4
 - slug: bsp118
   title: The Smokey and The Bandit Run
-  score: 74.83013102490949
+  score: 69.10010078839193
   llm_score: 70
   recency_score: 94.15065512454748
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 65.84213677602337
+  llm_score: 70
+  recency_score: 72.97388904415178
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 65.4268536006863
+  llm_score: 75
+  recency_score: 50.274548404460894
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 69.41503251862473
+  score: 64.93464039894211
   llm_score: 75
   recency_score: 47.075162593123636
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: im-back-2
+  title: I'M BACK
+  score: 62.848597669148084
+  llm_score: 75
+  recency_score: 33.51588484946244
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 61.34131826704754
+  llm_score: 70
+  recency_score: 43.718568735808944
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: the-mug-shot
   title: The Mugshot
-  score: 64.87818570729087
-  llm_score: 75
-  recency_score: 24.39092853645434
-  rank: 7
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 61.906077264735664
-  llm_score: 75
-  recency_score: 9.530386323678314
-  rank: 8
-- slug: backstory-podcast-43-mee-maw-and-the-extenders
-  title: 'Backstory Podcast #43 Mee-Maw and the Extenders'
-  score: 59.511369899719135
+  score: 58.36783515945453
   llm_score: 70
-  recency_score: 17.55684949859567
+  recency_score: 24.39092853645434
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 55.783376361040574
+  llm_score: 70
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: backstory-podcast-no-187-the-pardon
   title: The Pardon
-  score: 57.35706097653267
-  llm_score: 70
+  score: 12.582354597332827
+  llm_score: 0
   recency_score: 6.785304882663376
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.

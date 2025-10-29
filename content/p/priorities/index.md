@@ -7,46 +7,30 @@ authors:
 - admin
 alttags: Aerial view of Fort Morgan sewage treatment plant; public hearing scheduled over expansion proposal
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 87.32548067379618
-  llm_score: 100
-  recency_score: 92.61562437967505
+- slug: im-back-2
+  title: I'M BACK
+  score: 72.32520339213157
+  llm_score: 90
+  recency_score: 35.11382204885514
   length_score: 100
   category_score: 0
   rank: 1
 - slug: troubled-waters
   title: Troubled Waters
-  score: 74.76949899438095
-  llm_score: 85
+  score: 68.6156528405348
+  llm_score: 75
   recency_score: 71.00174346347615
   length_score: 100
   category_score: 0
   rank: 2
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 65.10037990229308
-  llm_score: 85
-  recency_score: 8.152469364904984
+- slug: water
+  title: Water
+  score: 66.83730414981973
+  llm_score: 70
+  recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 3
-- slug: im-back-2
-  title: I'M BACK
-  score: 63.094434161362344
-  llm_score: 75
-  recency_score: 35.11382204885514
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 59.0135513904045
-  llm_score: 75
-  recency_score: 8.588084037629146
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: ripp-report-podcast
   title: RIPP REPORT PODCAST
   score: 58.807147221825794
@@ -54,28 +38,44 @@ related_articles:
   recency_score: 7.246456941867555
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: water
-  title: Water
-  score: 23.76038107289665
-  llm_score: 0
-  recency_score: 79.4424769738282
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 19.126087018784872
-  llm_score: 0
+  score: 28.356856249554106
+  llm_score: 15
   recency_score: 49.31956562210165
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: bsp-128
+  title: Big News
+  score: 25.787019135334628
+  llm_score: 0
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
   score: 16.30092595751715
   llm_score: 0
   recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 13.358980189781079
+  llm_score: 0
+  recency_score: 11.833371233577015
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 12.85970523655833
+  llm_score: 0
+  recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
   rank: 9

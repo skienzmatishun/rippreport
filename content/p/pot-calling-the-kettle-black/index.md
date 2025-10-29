@@ -10,81 +10,81 @@ alttags: Silhouette of a teapot against a white background; symbolizing deflecti
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 74.32969339678091
-  llm_score: 85
+  score: 68.17584724293476
+  llm_score: 75
   recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 1
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 74.18706242085727
-  llm_score: 85
-  recency_score: 67.21590573557219
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 67.56262885946411
+  llm_score: 75
+  recency_score: 64.15708758651667
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 73.82523778841352
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 66.6374852676734
   llm_score: 85
-  recency_score: 64.86404562468779
+  recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
   rank: 3
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 63.91895258492894
-  llm_score: 85
-  recency_score: 0.4731918020379976
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 59.42277271907439
-  llm_score: 65
+  score: 65.57661887292055
+  llm_score: 75
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 64.95629319008803
+  llm_score: 70
+  recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 56.741569180747454
-  llm_score: 72
-  recency_score: 5.820199674858366
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 64.59446855764429
+  llm_score: 70
+  recency_score: 64.86404562468779
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 56.72322586773649
-  llm_score: 73
-  recency_score: 1.7009681402870933
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: black-hole
-  title: BLACK HOLE
-  score: 56.67345484542059
-  llm_score: 73
-  recency_score: 1.3774564952337773
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 26.71356981948972
-  llm_score: 23
+  score: 55.636646742566654
+  llm_score: 70
   recency_score: 6.638203826683174
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 55.51079994997822
+  llm_score: 70
+  recency_score: 5.820199674858366
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 54.84862793343948
+  llm_score: 70
+  recency_score: 1.5160815673565506
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 21.408782705617952
-  llm_score: 0
-  recency_score: 64.15708758651667
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 52.50262444871355
+  llm_score: 65
+  recency_score: 6.267058916638003
   length_score: 100
   category_score: 0
   rank: 10

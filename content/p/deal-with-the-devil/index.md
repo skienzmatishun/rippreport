@@ -7,85 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 82.21838265416423
-  llm_score: 100
-  recency_score: 59.41948725206741
+- slug: innocent
+  title: INNOCENT
+  score: 71.51786273032691
+  llm_score: 75
+  recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
   rank: 1
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 69.67481063400541
+  llm_score: 75
+  recency_score: 2.886269121035116
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: get-out-of-jail-card
   title: GET OUT OF JAIL CARD
-  score: 75.1383648805266
-  llm_score: 87
+  score: 67.75374949591121
+  llm_score: 75
   recency_score: 65.39937172342279
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 73.70139758808865
-  llm_score: 95
-  recency_score: 24.0590843225762
   length_score: 100
   category_score: 0
   rank: 3
 - slug: no-justice
   title: NO JUSTICE
-  score: 25.445134821944073
-  llm_score: 0
+  score: 65.44513482194408
+  llm_score: 65
   recency_score: 15.39337634263649
   length_score: 100
   category_score: 100
   rank: 4
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 23.522182699981208
-  llm_score: 0
-  recency_score: 2.894187549877844
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 63.75684419262577
+  llm_score: 70
+  recency_score: 59.41948725206741
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 5
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 23.52096448015925
-  llm_score: 0
-  recency_score: 2.886269121035116
+- slug: but-i-didnt-do-it
+  title: But, I Didn’t Do It…
+  score: 61.393705280396354
+  llm_score: 75
+  recency_score: 24.0590843225762
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 21.544922922948096
-  llm_score: 0
-  recency_score: 65.04199899916262
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: criminal-enterprise
   title: CRIMINAL ENTERPRISE
-  score: 13.21993316633326
-  llm_score: 0
+  score: 56.29685624325635
+  llm_score: 70
   recency_score: 10.929565581166187
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 12.004949809316612
-  llm_score: 0
+  score: 55.0818728862397
+  llm_score: 70
   recency_score: 3.032173760557979
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 54.29141346921199
+  llm_score: 50
+  recency_score: 2.894187549877844
+  length_score: 100
+  category_score: 100
+  rank: 9
+- slug: police-report
+  title: POLICE REPORT
+  score: 54.18656847933162
+  llm_score: 50
+  recency_score: 2.212695115655463
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.

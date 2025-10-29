@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: 'Baldwin County Sewer mascot: A cartoon water droplet character promoting Crystal Clean, associated with a controversial ...'
 related_articles:
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 75.65505903058113
-  llm_score: 100
-  recency_score: 16.757883698777256
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 66.80386526637244
+  llm_score: 70
+  recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 1
 - slug: fly-creek-mud
   title: FLY CREEK MUD
-  score: 66.89650152233214
-  llm_score: 71
+  score: 66.28111690694753
+  llm_score: 70
   recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 61.81598773044778
-  llm_score: 80
-  recency_score: 6.803920247910508
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: grinder-pumps
-  title: GRINDER PUMPS
-  score: 57.90248943611528
-  llm_score: 75
-  recency_score: 1.366181334749222
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: stinking-ticking-time-bomb
-  title: STINKING TICKING TIME BOMB
-  score: 23.726942189449353
-  llm_score: 0
-  recency_score: 79.22512423142078
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 15.004308548747323
-  llm_score: 0
-  recency_score: 22.528005566857594
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: sting
-  title: Sting
-  score: 13.965793428832082
-  llm_score: 0
-  recency_score: 15.777657287408536
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: catalyst-skunk
   title: CATALYST SKUNK
-  score: 11.782156627465069
-  llm_score: 0
+  score: 57.93600278131124
+  llm_score: 75
   recency_score: 1.5840180785229494
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 57.19352056904267
+  llm_score: 70
+  recency_score: 16.757883698777256
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: sting
+  title: Sting
+  score: 57.04271650575517
+  llm_score: 70
+  recency_score: 15.777657287408536
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 55.66214157660163
+  llm_score: 70
+  recency_score: 6.803920247910508
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 54.87850986086644
+  llm_score: 70
+  recency_score: 1.7103140956317624
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: grinder-pumps
+  title: GRINDER PUMPS
+  score: 54.8255663591922
+  llm_score: 70
+  recency_score: 1.366181334749222
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: wetlands
-  title: WETLANDS
-  score: 11.692260120269403
-  llm_score: 0
-  recency_score: 0.9996907817511175
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 54.76709073197948
+  llm_score: 70
+  recency_score: 0.986089757866536
   length_score: 100
   category_score: 0
   rank: 9
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 11.69016765505639
-  llm_score: 0
-  recency_score: 0.986089757866536
+- slug: wetlands
+  title: WETLANDS
+  score: 42.46149088950018
+  llm_score: 50
+  recency_score: 0.9996907817511175
   length_score: 100
   category_score: 0
   rank: 10

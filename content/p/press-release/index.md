@@ -9,65 +9,85 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 82.63481832643573
-  llm_score: 85
-  recency_score: 73.17409163217867
-  rank: 1
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 78.47951020001508
-  llm_score: 95
-  recency_score: 12.39755100007539
-  rank: 2
-- slug: runoff
-  title: RUNOFF
-  score: 74.97910429894462
-  llm_score: 90
-  recency_score: 14.895521494723079
-  rank: 3
 - slug: last-chance
   title: LAST CHANCE
-  score: 74.63481832643573
+  score: 68.94986025110443
   llm_score: 75
   recency_score: 73.17409163217867
-  rank: 4
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 68.38907087506732
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: primary-election-may-24th
+  title: Primary Election May 24th
+  score: 65.87293717418135
+  llm_score: 70
+  recency_score: 73.17409163217867
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 65.81182504203802
   llm_score: 85
-  recency_score: 1.9453543753365585
+  recency_score: 12.776862773247046
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 65.44931679848317
+  llm_score: 70
+  recency_score: 70.42055919014051
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: qualification
+  title: QUALIFICATION
+  score: 61.04264454278004
+  llm_score: 80
+  recency_score: 1.7771895280701993
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: election-ad
   title: ELECTION AD
-  score: 66.88275366834506
-  llm_score: 80
+  score: 59.909810514111605
+  llm_score: 75
   recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 63.9612284482411
+- slug: countdown
+  title: COUNTDOWN
+  score: 57.86486205436136
   llm_score: 75
-  recency_score: 19.806142241205503
+  recency_score: 1.1216033533487584
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 62.99547296281644
+- slug: game-on
+  title: GAME ON
+  score: 57.753231037561015
   llm_score: 75
-  recency_score: 14.977364814082216
+  recency_score: 0.39600174414651
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 60.265360890387946
-  llm_score: 70
-  recency_score: 21.326804451939722
-  rank: 9
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 60.228664228353495
-  llm_score: 75
+  score: 54.791280175656546
+  llm_score: 70
   recency_score: 1.1433211417674878
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 54.470211387754794
+  llm_score: 75
+  recency_score: 3.806374020406067
+  length_score: 67.0
+  category_score: 0
   rank: 10
 ---
 I’m Harry Still and I want to restore your faith in Alabama justice by serving as your Attorney General.

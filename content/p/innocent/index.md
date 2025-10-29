@@ -12,32 +12,32 @@ authors:
 - admin
 alttags: Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005
 related_articles:
-- slug: rule-32
-  title: RULE 32
-  score: 84.50321140433026
-  llm_score: 95
-  recency_score: 19.270874128146687
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85.14735919021118
+  llm_score: 85
+  recency_score: 63.45783473637261
   length_score: 100
   category_score: 100
   rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 82.02853139514474
-  llm_score: 95
-  recency_score: 3.1854540684407837
+- slug: rule-32
+  title: RULE 32
+  score: 78.34936525048411
+  llm_score: 85
+  recency_score: 19.270874128146687
   length_score: 100
   category_score: 100
   rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 80.48142069412387
-  llm_score: 89
+  score: 78.01988223258542
+  llm_score: 85
   recency_score: 17.129234511805123
   length_score: 100
   category_score: 100
   rank: 3
-- slug: earful
-  title: EARFUL
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
   score: 77.69230769230771
   llm_score: 95
   recency_score: 50
@@ -52,43 +52,43 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 72.76923076923079
-  llm_score: 87
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 32.83966688251886
-  llm_score: 0
-  recency_score: 63.45783473637261
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 23.65931910988779
-  llm_score: 0
+  score: 75.96701141758011
+  llm_score: 85
   recency_score: 3.7855742142706434
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 75.8746852412986
+  llm_score: 85
+  recency_score: 3.1854540684407837
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 19.230769230769234
-  llm_score: 0
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 68.46153846153847
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 66.82719350558088
+  llm_score: 85
+  recency_score: 19.376757786275636
   length_score: 100
   category_score: 0
   rank: 10

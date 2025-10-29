@@ -9,12 +9,20 @@ authors:
 related_articles:
 - slug: he-must-go
   title: He Must Go
-  score: 78.33087001916117
-  llm_score: 85
+  score: 72.17702386531501
+  llm_score: 75
   recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
   rank: 1
+- slug: bsp-128
+  title: Big News
+  score: 67.42000873780174
+  llm_score: 70
+  recency_score: 83.23005679571122
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
   score: 64.51101138190337
@@ -22,68 +30,60 @@ related_articles:
   recency_score: 44.32157398237182
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: bsp-128
-  title: Big News
-  score: 63.72770104549405
-  llm_score: 64
-  recency_score: 83.23005679571122
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 56.57006070845067
-  llm_score: 56
-  recency_score: 68.70539460492927
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: im-back-2
   title: I'M BACK
-  score: 55.77775771639352
-  llm_score: 64
+  score: 62.5469884856243
+  llm_score: 75
   recency_score: 31.555425156557842
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 51.47888841827026
-  llm_score: 63
-  recency_score: 7.612774718756618
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 50.93286384575227
-  llm_score: 62
-  recency_score: 8.063614997389708
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
-  score: 19.75353545180493
-  llm_score: 0
+  score: 59.753535451804936
+  llm_score: 65
   recency_score: 53.39798043673202
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 58.93286384575228
+  llm_score: 75
+  recency_score: 8.063614997389708
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 57.870972134744584
+  llm_score: 65
+  recency_score: 41.16131887583971
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 55.786580725962565
+  llm_score: 70
+  recency_score: 7.612774718756618
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 15.071418308927996
-  llm_score: 0
-  recency_score: 22.96421900803196
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 52.52129369218854
+  llm_score: 65
+  recency_score: 6.388408999225476
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 13.564273824047909
-  llm_score: 0
-  recency_score: 13.167779856311412
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 45.840649078158776
+  llm_score: 50
+  recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,22 +9,30 @@ authors:
 - admin
 alttags: Man in a red boat waves enthusiastically near waterfront development delays impacting Fauxhope city projects
 related_articles:
-- slug: fauxhope
+- slug: fauxhope-2
   title: FAUXHOPE
-  score: 81.97133142334285
-  llm_score: 100
-  recency_score: 57.813654251728394
+  score: 70.1167958794121
+  llm_score: 75
+  recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 72.56404781420056
-  llm_score: 95
-  recency_score: 16.666310792303566
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 66.58671603872746
+  llm_score: 75
+  recency_score: 57.813654251728394
   length_score: 100
   category_score: 0
   rank: 2
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 62.94843975183114
+  llm_score: 75
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
   score: 61.486107137563195
@@ -32,60 +40,52 @@ related_articles:
   recency_score: 24.659696394160648
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 60.10717864604776
-  llm_score: 77
-  recency_score: 7.696661199310357
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 59.578835257439586
-  llm_score: 75
-  recency_score: 12.262429173357202
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 58.28648443946603
+  llm_score: 70
+  recency_score: 23.862148856529085
   length_score: 100
   category_score: 0
   rank: 5
-- slug: going-down
-  title: GOING DOWN
-  score: 58.974327106727735
-  llm_score: 75
-  recency_score: 8.333126193730163
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 57.17943242958518
+  llm_score: 70
+  recency_score: 16.666310792303566
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 23.962949725565927
-  llm_score: 0
-  recency_score: 80.75917321617852
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 56.501912180516506
+  llm_score: 70
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 7
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 16.794593597984967
-  llm_score: 0
-  recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 16.109175309574688
-  llm_score: 0
+  score: 56.109175309574695
+  llm_score: 65
   recency_score: 29.70963951223547
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 55.79948633835545
+  llm_score: 70
+  recency_score: 7.696661199310357
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 15.209561362542937
-  llm_score: 0
-  recency_score: 23.862148856529085
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 55.144528439621205
+  llm_score: 70
+  recency_score: 3.439434857537759
   length_score: 100
   category_score: 0
   rank: 10

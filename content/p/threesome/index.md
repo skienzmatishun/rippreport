@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor
 related_articles:
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 74.08153456304771
-  llm_score: 100
-  recency_score: 6.529974659810053
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 67.29306184899515
-  llm_score: 85
-  recency_score: 22.404902018468416
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 64.7765810466181
-  llm_score: 85
-  recency_score: 6.047776803017642
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 61.82635750570737
-  llm_score: 74
-  recency_score: 30.871323787097815
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 58.558763372092585
-  llm_score: 75
-  recency_score: 5.6319619186017045
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 21.682940906812966
-  llm_score: 0
-  recency_score: 65.93911589428427
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 19.553448942934487
-  llm_score: 0
+  score: 65.70729509678065
+  llm_score: 75
   recency_score: 52.09741812907417
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 14.314539820873874
-  llm_score: 0
-  recency_score: 18.044508835680173
+  rank: 1
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 64.75986398373605
+  llm_score: 70
+  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 2
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 59.364819044168904
+  llm_score: 70
+  recency_score: 30.871323787097815
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 55.61999610150925
+  llm_score: 70
+  recency_score: 6.529974659810053
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 55.56382782928035
+  llm_score: 70
+  recency_score: 6.164880890322198
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 55.54581181584888
+  llm_score: 70
+  recency_score: 6.047776803017642
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 12.456230062055518
-  llm_score: 0
+  score: 55.533153138978605
+  llm_score: 70
   recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: liar-liar-pants-on-fire
   title: LIAR LIAR PANTS ON FIRE
-  score: 12.41927803605062
-  llm_score: 0
+  score: 55.49620111297371
+  llm_score: 70
   recency_score: 5.7253072343290325
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 55.481840295169505
+  llm_score: 70
+  recency_score: 5.6319619186017045
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 54.80478496262031
+  llm_score: 70
+  recency_score: 1.2311022570319363
   length_score: 100
   category_score: 0
   rank: 10

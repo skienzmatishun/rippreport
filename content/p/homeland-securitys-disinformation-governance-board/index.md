@@ -10,12 +10,28 @@ alttags: Graphic depicting Biden’s Ministry of Truth, referencing criticism of
 related_articles:
 - slug: bsp-128
   title: Big News
-  score: 64.70221506880374
-  llm_score: 62
+  score: 88.08683045341913
+  llm_score: 100
   recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 1
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 77.17320755447831
+  llm_score: 100
+  recency_score: 26.62584910410898
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: the-crime-of-the-century
+  title: THE CRIME OF THE CENTURY
+  score: 74.06515539377043
+  llm_score: 100
+  recency_score: 6.423510059507628
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
   score: 62.21320491544658
@@ -23,39 +39,39 @@ related_articles:
   recency_score: 29.385831950402675
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 61.78859216986294
-  llm_score: 75
-  recency_score: 26.62584910410898
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: im-back-2
-  title: I'M BACK
-  score: 52.30616541093844
-  llm_score: 57
-  recency_score: 36.990075171099754
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 50.33114913306232
-  llm_score: 61
-  recency_score: 8.152469364904984
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 27.013551390404487
-  llm_score: 23
+  score: 59.0135513904045
+  llm_score: 75
   recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: backstory-153
+  title: No Boomers
+  score: 48.06118080052838
+  llm_score: 50
+  recency_score: 37.39767520343444
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 41.29602864298215
+  llm_score: 40
+  recency_score: 33.42418617938393
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 40.484995286908465
+  llm_score: 45
+  recency_score: 8.152469364904984
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
   score: 19.844058771295956
@@ -63,28 +79,12 @@ related_articles:
   recency_score: 53.986382013423686
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 9
 - slug: balloonapaloosa
   title: Balloonapaloosa
   score: 18.604399841024307
   llm_score: 0
   recency_score: 45.928598966657994
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 12.596752895574333
-  llm_score: 0
-  recency_score: 6.878893821233162
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: the-crime-of-the-century
-  title: THE CRIME OF THE CENTURY
-  score: 12.526693855308865
-  llm_score: 0
-  recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
   rank: 10

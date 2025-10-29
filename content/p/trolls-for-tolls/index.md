@@ -13,14 +13,30 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 73.19018604576722
-  llm_score: 85
-  recency_score: 60.73620929748681
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 65.86249060338235
+  llm_score: 75
+  recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
   rank: 1
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 63.95941681499799
+  llm_score: 70
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 63.41285214636927
+  llm_score: 70
+  recency_score: 57.18353895140014
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: no-mo-bridge
   title: NO MO BRIDGE
   score: 63.22212869530285
@@ -28,68 +44,52 @@ related_articles:
   recency_score: 55.94383651946845
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 57.878110313132645
-  llm_score: 75
-  recency_score: 1.2077170353621032
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 54.60160673629271
-  llm_score: 68
-  recency_score: 7.9104437859025545
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 40.4574937838575
-  llm_score: 23
-  recency_score: 95.97370959507373
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 22.785567526459268
-  llm_score: 5
-  recency_score: 53.10618892198522
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 20.335929069446177
-  llm_score: 0
-  recency_score: 57.18353895140014
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: pied-piper
   title: PIED PIPER
-  score: 19.553448942934487
-  llm_score: 0
+  score: 62.63037201985758
+  llm_score: 70
   recency_score: 52.09741812907417
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: all-mouth
   title: ALL MOUTH
-  score: 15.645984100822755
-  llm_score: 0
+  score: 58.722907177745846
+  llm_score: 70
   recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 57.07287839924212
+  llm_score: 50
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 12.85970523655833
-  llm_score: 0
+  score: 55.93662831348142
+  llm_score: 70
   recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 55.83237596706194
+  llm_score: 70
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 42.52115067709981
+  llm_score: 40
+  recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,22 +9,14 @@ authors:
 - admin
 alttags: Will Smith striking Chris Rock onstage at the 2022 Oscars, referenced in an article about rising violence
 related_articles:
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 74.22902402522485
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 76.88113074458995
   llm_score: 100
-  recency_score: 7.488656163961433
+  recency_score: 24.727349839834638
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 69.07390916870598
-  llm_score: 75
-  recency_score: 73.98040959658876
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
   score: 65.03453307031123
@@ -32,39 +24,55 @@ related_articles:
   recency_score: 47.72446495702292
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 61.24467626445897
+  rank: 2
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 64.51101138190337
   llm_score: 75
-  recency_score: 23.090395718983192
+  recency_score: 44.32157398237182
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: im-back-2
   title: I'M BACK
-  score: 53.07356394423204
-  llm_score: 59
+  score: 62.919717790385896
+  llm_score: 75
   recency_score: 33.97816563750821
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 58.844408640609466
+  llm_score: 75
+  recency_score: 7.488656163961433
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 52.26574612920534
-  llm_score: 60
-  recency_score: 24.727349839834638
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 58.16775318753589
+  llm_score: 70
+  recency_score: 23.090395718983192
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 19.167777164080128
-  llm_score: 0
-  recency_score: 49.59055156652082
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 53.68929378409059
+  llm_score: 50
+  recency_score: 73.98040959658876
   length_score: 100
   category_score: 0
   rank: 7
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 24.904445203266643
+  llm_score: 20
+  recency_score: 6.878893821233162
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
   score: 13.41982760869134
@@ -72,20 +80,12 @@ related_articles:
   recency_score: 12.22887945649371
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: the-pete-rose
   title: The Pete Rose
   score: 12.79957892926787
   llm_score: 0
   recency_score: 8.197263040241149
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 12.596752895574333
-  llm_score: 0
-  recency_score: 6.878893821233162
   length_score: 100
   category_score: 0
   rank: 10

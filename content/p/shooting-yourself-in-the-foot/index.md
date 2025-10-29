@@ -12,62 +12,70 @@ authors:
 - admin
 alttags: Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic
 related_articles:
-- slug: sting
-  title: Sting
-  score: 72.44066884531803
-  llm_score: 95
-  recency_score: 15.864347494567099
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 65.40184634021193
-  llm_score: 87
-  recency_score: 2.112001211377513
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: Smell-Test
   title: SMELL TEST
-  score: 60.3348043487752
-  llm_score: 75
+  score: 57.25788127185212
+  llm_score: 70
   recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 58.922350264618146
-  llm_score: 73
+  score: 57.0761964184643
+  llm_score: 70
   recency_score: 15.995276720017856
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: sting
+  title: Sting
+  score: 57.05605346070264
+  llm_score: 70
+  recency_score: 15.864347494567099
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 54.94030787867347
+  llm_score: 70
+  recency_score: 2.112001211377513
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 58.69734244114247
-  llm_score: 73
-  recency_score: 14.532725867425949
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 54.91222010626707
+  llm_score: 70
+  recency_score: 1.9294306907358856
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 55.46787837240028
-  llm_score: 71
-  recency_score: 1.541209420601768
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 54.89948921139009
+  llm_score: 70
+  recency_score: 1.8466798740354857
   length_score: 100
   category_score: 0
   rank: 6
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 13.59785006091446
-  llm_score: 0
+  score: 53.59785006091447
+  llm_score: 65
   recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
   rank: 7
+- slug: faux-candidates
+  title: FAUX CANDIDATES
+  score: 13.774265518065532
+  llm_score: 0
+  recency_score: 14.532725867425949
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
   score: 11.864276223039187
@@ -75,20 +83,12 @@ related_articles:
   recency_score: 2.117795449754721
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 11.835297029343982
-  llm_score: 0
-  recency_score: 1.9294306907358856
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 11.822566134466998
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 11.77557068009258
   llm_score: 0
-  recency_score: 1.8466798740354857
+  recency_score: 1.541209420601768
   length_score: 100
   category_score: 0
   rank: 10

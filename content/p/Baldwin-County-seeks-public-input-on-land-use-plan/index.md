@@ -10,25 +10,25 @@ alttags: Baldwin County seeks public input on land use planning; megaphone graph
 related_articles:
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 79.02145798661161
-  llm_score: 85
+  score: 72.86761183276546
+  llm_score: 75
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 65.04988111893867
-  llm_score: 85
-  recency_score: 7.82422727310126
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 63.21768721931446
+  llm_score: 79
+  recency_score: 19.91496692554393
   length_score: 100
   category_score: 0
   rank: 2
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 60.756148757776
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 59.1706217018343
   llm_score: 75
-  recency_score: 19.91496692554393
+  recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 3
@@ -48,43 +48,43 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 27.17062170183429
-  llm_score: 23
-  recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 26.153711672942855
-  llm_score: 23
-  recency_score: 2.999125874128549
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 25.837507327427495
-  llm_score: 23
+  score: 57.83750732742751
+  llm_score: 75
   recency_score: 0.9437976282786975
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 55.81911188816944
+  llm_score: 70
+  recency_score: 7.82422727310126
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 12.09435426783947
-  llm_score: 0
+  score: 55.17127734476256
+  llm_score: 70
   recency_score: 3.6133027409565597
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 11.963458573354751
-  llm_score: 0
+  score: 55.04038165027784
+  llm_score: 70
   recency_score: 2.76248072680588
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 51.99986551909671
+  llm_score: 65
+  recency_score: 2.999125874128549
   length_score: 100
   category_score: 0
   rank: 10

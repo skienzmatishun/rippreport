@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 71.70239781651702
-  llm_score: 97
-  recency_score: 3.0655858073605606
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 68.52623987540625
+  llm_score: 75
+  recency_score: 70.42055919014051
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 71.02920448919323
-  llm_score: 85
-  recency_score: 46.6898291797559
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 70.83613871047777
-  llm_score: 95
-  recency_score: 5.4349016181054575
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 66.06645141991433
-  llm_score: 75
-  recency_score: 54.43193422944308
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 63.93629684276455
-  llm_score: 85
-  recency_score: 0.585929477969449
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 63.18397013623947
-  llm_score: 75
-  recency_score: 35.69580588555647
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 59.09179748318911
-  llm_score: 75
-  recency_score: 9.096683640729124
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: this-is-the-new-logo-for-fairhope
   title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 37.96678829967814
-  llm_score: 25
+  score: 65.65909599198584
+  llm_score: 70
   recency_score: 71.78412394790789
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 2
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65.24564363703526
+  llm_score: 85
+  recency_score: 9.096683640729124
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 21.35484665895764
-  llm_score: 0
+  score: 64.43176973588072
+  llm_score: 70
   recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: get-zoned-or-get-screwed
+  title: GET ZONED or GET SCREWED
+  score: 62.98952834299126
+  llm_score: 70
+  recency_score: 54.43193422944308
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 61.798435258424
+  llm_score: 70
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 60.10704705931639
+  llm_score: 70
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 55.08701320113241
+  llm_score: 70
+  recency_score: 3.0655858073605606
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: victory
+  title: VICTORY
+  score: 54.95393906395158
+  llm_score: 70
+  recency_score: 2.200603915685177
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 13.314639600138376
-  llm_score: 0
-  recency_score: 11.545157400899438
+- slug: happy-days-are-here-again
+  title: HAPPY DAYS ARE HERE AGAIN
+  score: 54.705527611995315
+  llm_score: 70
+  recency_score: 0.585929477969449
   length_score: 100
   category_score: 0
   rank: 10

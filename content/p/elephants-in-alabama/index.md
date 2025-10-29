@@ -13,81 +13,81 @@ alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing ov
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 85.17530414045775
-  llm_score: 95
+  score: 69.79068875584238
+  llm_score: 70
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 78.65960548372136
-  llm_score: 100
+  score: 69.42883625295212
+  llm_score: 85
   recency_score: 36.28743564418876
   length_score: 100
   category_score: 0
   rank: 2
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 74.18706242085727
-  llm_score: 85
-  recency_score: 67.21590573557219
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 23.26829109938388
-  llm_score: 0
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 20.481740137800234
-  llm_score: 0
+  score: 63.558663214723325
+  llm_score: 70
   recency_score: 58.1313108957015
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 20.004881403339027
-  llm_score: 0
-  recency_score: 55.031729121703655
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 17.09063756013987
-  llm_score: 0
-  recency_score: 36.08914414090915
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 3
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
-  score: 15.691245601954874
-  llm_score: 0
+  score: 58.76816867887796
+  llm_score: 70
   recency_score: 26.993096412706674
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
+  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
+  score: 57.89849695974557
+  llm_score: 75
+  recency_score: 1.3402302383461302
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 57.09063756013988
+  llm_score: 65
+  recency_score: 36.08914414090915
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 54.03752186861466
+  llm_score: 50
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 50.77411217256981
+  llm_score: 50
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 21.879370113164953
+  llm_score: 0
+  recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: no-guardrails
   title: NO GUARDRAILS
   score: 11.94190138510967
   llm_score: 0
   recency_score: 2.6223590032128543
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 11.744650805899404
-  llm_score: 0
-  recency_score: 1.3402302383461302
   length_score: 100
   category_score: 0
   rank: 10

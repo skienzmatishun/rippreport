@@ -7,11 +7,11 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: im-back-2
-  title: I'M BACK
-  score: 69.67899955144088
-  llm_score: 85
-  recency_score: 37.913497084365645
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 75.02638285921314
+  llm_score: 90
+  recency_score: 52.671488584885374
   length_score: 100
   category_score: 0
   rank: 1
@@ -23,59 +23,59 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 63.33407516690546
-  llm_score: 71
-  recency_score: 52.671488584885374
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: big-mules
-  title: Big Mules
-  score: 63.153961126724745
-  llm_score: 75
-  recency_score: 35.500747323710755
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
-  score: 61.22454625432959
-  llm_score: 78
+  score: 65.53223856202189
+  llm_score: 85
   recency_score: 10.959550653142209
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 29.937116486729316
-  llm_score: 23
-  recency_score: 27.591257163740508
+  rank: 3
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 62.22382661347941
+  llm_score: 70
+  recency_score: 49.45487298761609
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: he-must-go
-  title: He Must Go
-  score: 25.13860495273569
-  llm_score: 0
-  recency_score: 88.40093219278197
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
-  score: 18.375872222346896
-  llm_score: 0
+  score: 61.45279529926999
+  llm_score: 70
   recency_score: 44.44316944525482
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: saturday-apology
   title: SATURDAY APOLOGY
-  score: 12.762139639030991
-  llm_score: 0
+  score: 52.762139639031
+  llm_score: 65
   recency_score: 7.953907653701443
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-153
+  title: No Boomers
+  score: 17.435580378828206
+  llm_score: 0
+  recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: im-back-2
+  title: I'M BACK
+  score: 17.37130724374856
+  llm_score: 0
+  recency_score: 37.913497084365645
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: big-mules
+  title: Big Mules
+  score: 17.000114972878578
+  llm_score: 0
+  recency_score: 35.500747323710755
   length_score: 100
   category_score: 0
   rank: 9

@@ -8,14 +8,6 @@ authors:
 - admin
 alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability
 related_articles:
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 75.64097089112364
-  llm_score: 100
-  recency_score: 16.666310792303566
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: threesome
   title: THREESOME
   score: 68.58576682596589
@@ -23,15 +15,7 @@ related_articles:
   recency_score: 70.80748436877823
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 63.997444898393496
-  llm_score: 85
-  recency_score: 0.9833918395576343
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
   score: 61.69978735082183
@@ -39,7 +23,15 @@ related_articles:
   recency_score: 26.048617780341775
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 60.25635550650826
+  llm_score: 75
+  recency_score: 16.666310792303566
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: dirty-hands
   title: DIRTY HANDS
   score: 58.342156496193084
@@ -47,7 +39,31 @@ related_articles:
   recency_score: 4.224017225254928
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 58.31599169615572
+  llm_score: 75
+  recency_score: 4.053946025012058
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 58.30582316233377
+  llm_score: 75
+  recency_score: 3.9878505551694436
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 57.84359874454734
+  llm_score: 75
+  recency_score: 0.9833918395576343
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: above-the-law
   title: ABOVE THE LAW
   score: 57.73725571854237
@@ -55,36 +71,20 @@ related_articles:
   recency_score: 0.2921621705253142
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 56.183604775059834
-  llm_score: 68
-  recency_score: 18.193431037888864
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 42.92120777771839
-  llm_score: 50
-  recency_score: 3.9878505551694436
-  length_score: 100
-  category_score: 0
   rank: 8
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 18.961592167066474
+  llm_score: 0
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: alabama-ugly
   title: ALABAMA UGLY
   score: 18.413440318662897
   llm_score: 0
   recency_score: 44.68736207130882
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 12.162145542309547
-  llm_score: 0
-  recency_score: 4.053946025012058
   length_score: 100
   category_score: 0
   rank: 10

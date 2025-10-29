@@ -15,22 +15,6 @@ authors:
 - admin
 alttags: Black void representing Alabama Attorney General Steve Marshall’s lack of transparency and responsiveness to public compla...
 related_articles:
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 75.18772226779896
-  llm_score: 100
-  recency_score: 13.72019474069314
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 73.66253896664996
-  llm_score: 85
-  recency_score: 63.80650328322465
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
   score: 73.19018604576722
@@ -38,23 +22,23 @@ related_articles:
   recency_score: 60.73620929748681
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 69.02094953139249
+  llm_score: 70
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 66.83652982836504
-  llm_score: 68
+  score: 68.06729905913429
+  llm_score: 70
   recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 65.07487486677881
@@ -62,38 +46,54 @@ related_articles:
   recency_score: 47.986686634062245
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 64.78683358477166
-  llm_score: 85
-  recency_score: 6.114418301015702
+  rank: 4
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 64.43176973588072
+  llm_score: 70
+  recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: black-cloud
   title: BLACK CLOUD
-  score: 22.920063014859814
-  llm_score: 0
+  score: 62.92006301485982
+  llm_score: 65
   recency_score: 73.98040959658876
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 15.032912351377272
-  llm_score: 0
+  score: 61.186758505223445
+  llm_score: 75
   recency_score: 22.713930283952266
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 11.883571471960167
-  llm_score: 0
-  recency_score: 2.24321456774108
+  rank: 7
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 56.726183806260494
+  llm_score: 70
+  recency_score: 13.72019474069314
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 55.55606435400243
+  llm_score: 70
+  recency_score: 6.114418301015702
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: police-report
+  title: POLICE REPORT
+  score: 54.23335003296675
+  llm_score: 50
+  recency_score: 2.5167752142837743
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 In Alabama politicians and elected officials will always go dark, rather than being transparent, when they have something to hide.

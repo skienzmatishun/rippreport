@@ -8,75 +8,75 @@ authors:
 - admin
 alttags: Smiling yellow emoji face representing the “happy days” posts discussed in the article
 related_articles:
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 81.66011930813079
-  llm_score: 100
-  recency_score: 55.79077550285001
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 76.3047283992523
+  llm_score: 85
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 1
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 64.08132213256842
-  llm_score: 85
-  recency_score: 1.5285938616946646
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 74.1265517975518
+  llm_score: 100
+  recency_score: 6.822586684086551
   length_score: 100
   category_score: 0
   rank: 2
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 62.29419298629024
-  llm_score: 67
+  score: 64.14034683244408
+  llm_score: 70
   recency_score: 61.91225441088648
   length_score: 100
   category_score: 0
   rank: 3
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 53.822862557032835
-  llm_score: 52
-  recency_score: 66.84860662071335
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 62.78556752645928
+  llm_score: 70
+  recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
   rank: 4
-- slug: gone-fishing
-  title: GONE FISHING
-  score: 51.93315506810658
-  llm_score: 65
-  recency_score: 2.565507942692728
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 38.15088224540614
-  llm_score: 23
-  recency_score: 80.98073459513984
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: a-time-for-reflection-goobers-on-notice
-  title: A Time for Reflection - Goobers on Notice
-  score: 25.77905861858237
-  llm_score: 23
-  recency_score: 0.5638810207853779
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 17.905766061715195
-  llm_score: 0
+  score: 60.982689138638285
+  llm_score: 70
   recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 55.01007814502966
+  llm_score: 70
+  recency_score: 2.565507942692728
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: joke
+  title: JOKE LLP
+  score: 54.760982603163335
+  llm_score: 70
+  recency_score: 0.9463869205615951
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-time-for-reflection-goobers-on-notice
+  title: A Time for Reflection - Goobers on Notice
+  score: 54.7021355416593
+  llm_score: 70
+  recency_score: 0.5638810207853779
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: on-vacation
-  title: ON VACATION
-  score: 15.725518729234997
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 21.822862557032828
   llm_score: 0
-  recency_score: 27.215871740027474
+  recency_score: 66.84860662071335
   length_score: 100
   category_score: 0
   rank: 9

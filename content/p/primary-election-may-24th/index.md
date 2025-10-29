@@ -7,65 +7,85 @@ authors:
 - admin
 alttags: Screenshot shows a social media post about Tim James For Governor alongside a man speaking into a microphone
 related_articles:
-- slug: last-chance
-  title: LAST CHANCE
-  score: 88.0
-  llm_score: 85
-  recency_score: 100.0
-  rank: 1
 - slug: press-release
   title: PRESS RELEASE
-  score: 82.63481832643573
+  score: 75.10370640495057
   llm_score: 85
   recency_score: 73.17409163217867
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: last-chance
+  title: LAST CHANCE
+  score: 73.0769230769231
+  llm_score: 75
+  recency_score: 100.0
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-153
-  title: No Boomers
-  score: 63.83613691258604
-  llm_score: 70
-  recency_score: 39.1806845629302
+- slug: bsp-128
+  title: Big News
+  score: 72.74339448711596
+  llm_score: 75
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 62.305920901937206
-  llm_score: 65
+  score: 62.54301607841325
+  llm_score: 70
   recency_score: 51.52960450968603
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: countdown
-  title: COUNTDOWN
-  score: 60.164144613105805
-  llm_score: 75
-  recency_score: 0.8207230655290094
+- slug: backstory-153
+  title: No Boomers
+  score: 60.64318224045081
+  llm_score: 70
+  recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 58.89859293447587
-  llm_score: 70
-  recency_score: 14.49296467237936
-  rank: 6
-- slug: election-ad
-  title: ELECTION AD
-  score: 58.10942881080481
-  llm_score: 70
-  recency_score: 10.547144054024043
-  rank: 7
-- slug: backstory-podcast-the-46th-president-of-the-united-states
-  title: BACKSTORY PODCAST - THE 46TH PRESIDENT OF THE UNITED STATES
-  score: 56.30056311965314
-  llm_score: 65
-  recency_score: 21.50281559826569
-  rank: 8
 - slug: the-180
   title: THE 180
-  score: 54.092162096062914
-  llm_score: 65
+  score: 59.301663150817646
+  llm_score: 75
   recency_score: 10.460810480314583
-  rank: 9
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: little-choice
   title: LITTLE CHOICE
-  score: 52.1673229719854
-  llm_score: 65
+  score: 57.82101767075802
+  llm_score: 75
   recency_score: 0.836614859927013
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: countdown
+  title: COUNTDOWN
+  score: 57.81857277931217
+  llm_score: 75
+  recency_score: 0.8207230655290094
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: election-ad
+  title: ELECTION AD
+  score: 56.238022162157556
+  llm_score: 70
+  recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 55.81253415992213
+  llm_score: 70
+  recency_score: 7.781472039493755
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Pb41jaYTkI" frameborder="0" allowfullscreen></iframe>

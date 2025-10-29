@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: 'Don’t delay: Baldwin County primary election reminder—all affiliations can vote tomorrow despite local apathy'
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 73.38791079666989
-  llm_score: 100
-  recency_score: 2.02142017835421
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 59.06095189563715
+  llm_score: 73
+  recency_score: 16.896187321641428
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 65.36891896680572
-  llm_score: 87
-  recency_score: 1.8979732842370982
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 56.77252618128528
+  llm_score: 73
+  recency_score: 2.02142017835421
   length_score: 100
   category_score: 0
   rank: 2
-- slug: press-release
-  title: PRESS RELEASE
-  score: 65.25755255879673
-  llm_score: 69
-  recency_score: 73.17409163217867
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 56.7535343514211
+  llm_score: 73
+  recency_score: 1.8979732842370982
   length_score: 100
   category_score: 0
   rank: 3
-- slug: qualification
-  title: QUALIFICATION
-  score: 64.0462218913458
-  llm_score: 85
-  recency_score: 1.3004422937475715
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
-  score: 59.15632024113179
-  llm_score: 77
+  score: 56.69478177959333
+  llm_score: 73
   recency_score: 1.5160815673565506
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 56.652327709778845
+  llm_score: 70
+  recency_score: 13.240130113562406
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 55.61269752406846
-  llm_score: 71
-  recency_score: 2.48253390644493
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 55.202587190914535
+  llm_score: 70
+  recency_score: 3.816816740944404
   length_score: 100
   category_score: 0
   rank: 6
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
-  score: 51.968141689146314
-  llm_score: 65
+  score: 55.045064766069395
+  llm_score: 70
   recency_score: 2.792920979450993
   length_score: 100
   category_score: 0
   rank: 7
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 14.22475548764361
-  llm_score: 0
-  recency_score: 17.460910669683468
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 54.997312908683845
+  llm_score: 70
+  recency_score: 2.48253390644493
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 14.137874972560219
-  llm_score: 0
-  recency_score: 16.896187321641428
+- slug: qualification
+  title: QUALIFICATION
+  score: 54.81545266057656
+  llm_score: 70
+  recency_score: 1.3004422937475715
   length_score: 100
   category_score: 0
   rank: 9
-- slug: missed-the-boat
-  title: MISSED THE BOAT
-  score: 11.83611139232054
-  llm_score: 0
-  recency_score: 1.9347240500835032
+- slug: Smell-Test
+  title: SMELL TEST
+  score: 44.993986256874386
+  llm_score: 50
+  recency_score: 17.460910669683468
   length_score: 100
   category_score: 0
   rank: 10
