@@ -16,82 +16,82 @@ authors:
 - admin
 alttags: Montrose Hut facade features faces representing city officials debating its relocation, as discussed in the article
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 67.23076923076924
-  llm_score: 78
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 67.23076923076924
-  llm_score: 78
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 67.23076923076924
-  llm_score: 78
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 67.23076923076924
-  llm_score: 78
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 67.23076923076924
-  llm_score: 78
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 67.23076923076924
-  llm_score: 78
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 67.23076923076924
-  llm_score: 78
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 62.30769230769232
-  llm_score: 70
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 62.30769230769232
-  llm_score: 70
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 62.30769230769232
-  llm_score: 70
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0

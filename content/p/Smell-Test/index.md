@@ -13,83 +13,83 @@ authors:
 - ripp-report
 alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices
 related_articles:
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 70.38402679514033
-  llm_score: 95
-  recency_score: 2.4961741684120615
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 66.99810299035336
+  llm_score: 90
+  recency_score: 0.4876694372967864
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 63.89713898764541
-  llm_score: 85
-  recency_score: 0.3314034196950972
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 66.9696546883904
+  llm_score: 90
+  recency_score: 0.30275547453758156
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 63.886880253562424
-  llm_score: 85
-  recency_score: 0.2647216481556642
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 66.96281139727064
+  llm_score: 90
+  recency_score: 0.25827408225904297
   length_score: 100
   category_score: 0
   rank: 3
-- slug: shooting-yourself-in-the-foot
-  title: SHOOTING YOURSELF IN THE FOOT
-  score: 57.25788127185212
-  llm_score: 70
-  recency_score: 17.176228267038702
+- slug: last-chance
+  title: LAST CHANCE
+  score: 66.53244779533593
+  llm_score: 85
+  recency_score: 17.460910669683468
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 55.06926587304835
-  llm_score: 70
-  recency_score: 2.9502281748141934
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 64.29385994451938
+  llm_score: 85
+  recency_score: 2.9100896393759403
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 55.038059267903826
-  llm_score: 70
-  recency_score: 2.7473852413747677
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 63.90335663996948
+  llm_score: 85
+  recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 54.96910988890634
-  llm_score: 70
-  recency_score: 2.2992142778911093
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 63.9025783827532
+  llm_score: 85
+  recency_score: 0.36675948789569357
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 54.67119417677983
-  llm_score: 70
-  recency_score: 0.3627621490688241
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 63.90211652010445
+  llm_score: 85
+  recency_score: 0.3637573806788297
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 54.665401276127454
-  llm_score: 70
-  recency_score: 0.3251082948283822
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 63.89927791701313
+  llm_score: 85
+  recency_score: 0.34530646058523073
   length_score: 100
   category_score: 0
   rank: 9
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 54.664183069311676
-  llm_score: 70
-  recency_score: 0.3171899505257979
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 63.89535503607607
+  llm_score: 85
+  recency_score: 0.3198077344943682
   length_score: 100
   category_score: 0
   rank: 10

@@ -12,22 +12,6 @@ authors:
 - admin
 alttags: Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office
 related_articles:
-- slug: hanky-panky-at-the-po-po
-  title: Hanky Panky at the Po Po
-  score: 96.71376567891929
-  llm_score: 95
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 96.30364763001134
-  llm_score: 95
-  recency_score: 95.97370959507373
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
   score: 95.98354786981331
@@ -35,15 +19,7 @@ related_articles:
   recency_score: 93.89306115378648
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 95.67038766702034
-  llm_score: 95
-  recency_score: 91.85751983563217
-  length_score: 100
-  category_score: 100
-  rank: 4
+  rank: 1
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 94.06548962615224
@@ -51,46 +27,70 @@ related_articles:
   recency_score: 81.42568256998956
   length_score: 100
   category_score: 100
+  rank: 2
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 93.22672455308827
+  llm_score: 90
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 91.98736433767414
+  llm_score: 90
+  recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 89.51654151317419
+  llm_score: 85
+  recency_score: 91.85751983563217
+  length_score: 100
+  category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.68226063658305
-  llm_score: 95
-  recency_score: 46.434694137789805
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 89.09700143880019
+  llm_score: 85
+  recency_score: 89.13050935220119
   length_score: 100
   category_score: 100
   rank: 6
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 85.70263869238651
-  llm_score: 95
-  recency_score: 27.067151500512303
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 81.28362804649525
+  llm_score: 90
+  recency_score: 18.34358230221904
   length_score: 100
   category_score: 100
   rank: 7
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.56533498193444
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 79.11644875954755
   llm_score: 95
-  recency_score: 6.674677382573833
+  recency_score: 59.25691693705903
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 74.26813186115034
-  llm_score: 95
-  recency_score: 27.742857097477103
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 71.96907832723548
-  llm_score: 75
-  recency_score: 17.799009127030544
+- slug: justified
+  title: JUSTIFIED
+  score: 74.34620755168187
+  llm_score: 90
+  recency_score: 48.25034908593207
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 10
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.

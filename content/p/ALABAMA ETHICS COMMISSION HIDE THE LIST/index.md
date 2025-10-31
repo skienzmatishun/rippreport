@@ -11,83 +11,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 69.66647141019288
-  llm_score: 70
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 69.02094953139249
-  llm_score: 70
+  score: 81.3286418390848
+  llm_score: 90
   recency_score: 93.63617195405108
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 79.09150637086098
+  llm_score: 95
+  recency_score: 59.09479141059637
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 62.37418306918197
-  llm_score: 80
-  recency_score: 10.432189949682714
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 77.48360901597151
+  llm_score: 85
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
   rank: 3
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 62.244700241003216
-  llm_score: 70
-  recency_score: 49.59055156652082
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 71.22643388244788
+  llm_score: 90
+  recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 4
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 57.98756586447605
-  llm_score: 70
-  recency_score: 21.919178119094283
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 56.421001424047226
-  llm_score: 70
-  recency_score: 11.736509256306908
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 56.202844421329246
-  llm_score: 70
+  score: 68.51053672902155
+  llm_score: 90
   recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 68.33798793387685
+  llm_score: 90
+  recency_score: 9.196921570199363
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 67.21833509524528
+  llm_score: 85
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 55.8559407688292
-  llm_score: 70
-  recency_score: 8.063614997389708
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 67.0123980485798
+  llm_score: 85
+  recency_score: 20.580587315768575
   length_score: 100
   category_score: 0
   rank: 8
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 55.829046307440926
-  llm_score: 70
-  recency_score: 7.888800998365954
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 65.08670999959843
+  llm_score: 85
+  recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
   rank: 9
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 55.825725757690066
-  llm_score: 70
-  recency_score: 7.867217424985351
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 65.01414559180981
+  llm_score: 85
+  recency_score: 7.591946346763673
   length_score: 100
   category_score: 0
   rank: 10

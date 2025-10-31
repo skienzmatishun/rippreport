@@ -17,62 +17,70 @@ authors:
 - admin
 alttags: Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru...
 related_articles:
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 72.78468688044195
-  llm_score: 75
-  recency_score: 98.10046472287257
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 66.9285136547373
+  llm_score: 90
+  recency_score: 0.03533875579235944
   length_score: 100
   category_score: 0
   rank: 1
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 63.60560517505191
-  llm_score: 75
-  recency_score: 38.436433637837325
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 63.9158303400526
+  llm_score: 85
+  recency_score: 0.45289721034181013
   length_score: 100
   category_score: 0
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 61.879364883081166
-  llm_score: 75
-  recency_score: 27.215871740027474
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 63.852885876019755
+  llm_score: 85
+  recency_score: 0.0437581941283173
   length_score: 100
   category_score: 0
   rank: 3
-- slug: water
-  title: Water
-  score: 60.17342869395149
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 63.38308848786152
   llm_score: 75
-  recency_score: 16.127286510684606
+  recency_score: 36.990075171099754
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 58.01634197321537
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 61.1110010538576
   llm_score: 75
-  recency_score: 2.10622282589978
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 57.97025308297104
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 58.81634804626258
   llm_score: 75
-  recency_score: 1.8066450393116897
+  recency_score: 7.306262300706669
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 57.8253195602064
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 58.79499650321006
   llm_score: 75
-  recency_score: 0.8645771413415052
+  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 7
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 57.72992351047744
+  llm_score: 75
+  recency_score: 0.24450281810326882
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
   score: 57.70522969517782
@@ -80,20 +88,12 @@ related_articles:
   recency_score: 0.08399301865574989
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 57.69774442396807
-  llm_score: 75
-  recency_score: 0.03533875579235944
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 56.46827049140437
-  llm_score: 73
-  recency_score: 0.0437581941283173
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 57.698066395615356
+  llm_score: 75
+  recency_score: 0.03743157149971514
   length_score: 100
   category_score: 0
   rank: 10

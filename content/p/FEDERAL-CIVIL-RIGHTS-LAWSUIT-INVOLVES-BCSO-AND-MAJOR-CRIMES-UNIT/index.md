@@ -15,14 +15,6 @@ authors:
 - admin
 alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 92.71009605841155
-  llm_score: 90
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 90.55991952507314
@@ -30,70 +22,78 @@ related_articles:
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.03486190418974
+  rank: 1
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 89.63317298148847
   llm_score: 85
-  recency_score: 49.72660237723329
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 88.91044126075106
+  llm_score: 85
+  recency_score: 87.91786819488183
   length_score: 100
   category_score: 100
   rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 81.66529125980901
-  llm_score: 85
-  recency_score: 40.82439318875856
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 76.28742062517614
-  llm_score: 85
-  recency_score: 5.868234063644852
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 72.6622486673955
-  llm_score: 70
-  recency_score: 42.3046163380707
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 69.9579080553363
-  llm_score: 70
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 66.19479633216258
-  llm_score: 70
-  recency_score: 0.26617615905673986
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: justified
-  title: JUSTIFIED
-  score: 59.981717478369646
-  llm_score: 65
-  recency_score: 54.88116360940264
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: rumors
   title: RUMORS
-  score: 25.626959735842664
-  llm_score: 0
+  score: 81.01157512045806
+  llm_score: 90
   recency_score: 16.575238282977313
   length_score: 100
   category_score: 100
+  rank: 4
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 80.12105547287425
+  llm_score: 85
+  recency_score: 30.7868605736826
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 77.79207836681503
+  llm_score: 85
+  recency_score: 15.648509384297702
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 77.70148581859709
+  llm_score: 85
+  recency_score: 15.05965782088104
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: justified
+  title: JUSTIFIED
+  score: 72.28940978606195
+  llm_score: 85
+  recency_score: 54.88116360940264
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 69.17478313740673
+  llm_score: 85
+  recency_score: 34.63609039314372
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: cover-up
+  title: COVER UP
+  score: 67.76675391712095
+  llm_score: 85
+  recency_score: 25.48390046128612
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***

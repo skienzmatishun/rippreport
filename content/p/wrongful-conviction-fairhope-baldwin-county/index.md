@@ -15,81 +15,81 @@ alttags: Murray Lawrence Jr., subject of a wrongful conviction case similar to J
 related_articles:
 - slug: rule-32
   title: RULE 32
-  score: 87.70372936203415
-  llm_score: 90
+  score: 90.78065243895722
+  llm_score: 95
   recency_score: 60.07424085322191
   length_score: 100
   category_score: 100
   rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 85.78234199574962
-  llm_score: 85
-  recency_score: 67.58522297237245
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 83.44034311027849
+  llm_score: 75
+  recency_score: 92.36223021681012
   length_score: 100
   category_score: 100
   rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 83.49224173385585
-  llm_score: 90
+  score: 80.41531865693277
+  llm_score: 85
   recency_score: 32.69957127006297
   length_score: 100
   category_score: 100
   rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 82.6947335592627
-  llm_score: 90
-  recency_score: 27.51576813520753
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 81.26820683041159
-  llm_score: 90
+  score: 78.1912837534885
+  llm_score: 85
   recency_score: 18.243344397675273
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: earful
+  title: EARFUL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 66.758939916269
-  llm_score: 75
-  recency_score: 58.93310945574846
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 65.44671503448421
+  llm_score: 85
+  recency_score: 10.403647724147305
   length_score: 100
   category_score: 0
   rank: 8
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 64.34493489486688
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 43.242076816634636
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: innocent
-  title: INNOCENT
-  score: 59.47335866742526
+- slug: justified
+  title: JUSTIFIED
+  score: 65.1562246506089
   llm_score: 75
-  recency_score: 11.57683133826407
+  recency_score: 48.51546022895776
   length_score: 100
   category_score: 0
   rank: 10

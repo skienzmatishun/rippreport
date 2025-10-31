@@ -13,14 +13,6 @@ authors:
 - admin
 alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership
 related_articles:
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 96.5895483332698
-  llm_score: 95
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 96.14272077304483
@@ -28,52 +20,60 @@ related_articles:
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 95.98354786981331
-  llm_score: 95
-  recency_score: 93.89306115378648
+  rank: 1
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 92.3250236679477
+  llm_score: 90
+  recency_score: 90.11265384166002
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 94.88026543084163
-  llm_score: 95
+  score: 91.80334235391857
+  llm_score: 90
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 89.82970171596716
+  llm_score: 85
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 89.7086444495362
-  llm_score: 95
-  recency_score: 53.10618892198522
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 89.79018030062325
+  llm_score: 85
+  recency_score: 93.63617195405108
   length_score: 100
   category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.24599319436442
-  llm_score: 95
-  recency_score: 43.598955763368686
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 84.2818560255775
+  llm_score: 75
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 100
   rank: 6
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 86.63855272888394
-  llm_score: 95
-  recency_score: 33.15059273774551
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 82.33535074438974
   llm_score: 85
   recency_score: 45.179779838533264
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 82.09214704051827
+  llm_score: 85
+  recency_score: 43.598955763368686
   length_score: 100
   category_score: 100
   rank: 8
@@ -87,8 +87,8 @@ related_articles:
   rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 74.54573725545022
-  llm_score: 95
+  score: 68.39189110160407
+  llm_score: 85
   recency_score: 29.54729216042639
   length_score: 100
   category_score: 0

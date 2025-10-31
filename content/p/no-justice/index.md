@@ -14,20 +14,12 @@ alttags: Scales of justice against a dark background, symbolizing questions abou
 related_articles:
 - slug: rule-32
   title: RULE 32
-  score: 95.21333082797133
-  llm_score: 95
+  score: 89.05948467412519
+  llm_score: 85
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 85.78234199574962
-  llm_score: 85
-  recency_score: 67.58522297237245
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 84.93847356213568
@@ -35,31 +27,31 @@ related_articles:
   recency_score: 22.100078153881906
   length_score: 100
   category_score: 100
+  rank: 2
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 80.33818724633143
+  llm_score: 90
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.39947588411401
-  llm_score: 95
-  recency_score: 18.596593246741016
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 79.62849584190346
+  llm_score: 75
+  recency_score: 67.58522297237245
   length_score: 100
   category_score: 100
   rank: 4
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 81.38160147639827
-  llm_score: 95
-  recency_score: 73.98040959658876
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 79.53739944810873
-  llm_score: 85
-  recency_score: 26.993096412706674
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 78.83434142065956
+  llm_score: 75
+  recency_score: 62.42321923428709
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 5
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 77.69230769230771
@@ -67,28 +59,36 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+  rank: 6
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 67.53562389365936
-  llm_score: 75
-  recency_score: 63.98155530878573
-  length_score: 100
-  category_score: 0
-  rank: 9
+  rank: 7
 - slug: innocent
   title: INNOCENT
   score: 66.48142069412388
   llm_score: 85
   recency_score: 17.129234511805123
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 66.21436559117485
+  llm_score: 85
+  recency_score: 15.39337634263649
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

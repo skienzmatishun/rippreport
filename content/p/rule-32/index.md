@@ -15,28 +15,12 @@ alttags: Legal document filed as a Rule 32 petition seeking relief from convicti
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 95.21333082797133
-  llm_score: 95
+  score: 91.52102313566364
+  llm_score: 89
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 87.70372936203415
-  llm_score: 90
-  recency_score: 60.07424085322191
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 86.21046126581655
-  llm_score: 95
-  recency_score: 30.367998227807558
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 84.56061833888441
@@ -44,52 +28,68 @@ related_articles:
   recency_score: 19.644019202748584
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 2
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 83.92090902120829
+  llm_score: 85
+  recency_score: 55.48590863785381
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.08152135725518
-  llm_score: 95
+  score: 81.0045982803321
+  llm_score: 90
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
+  rank: 4
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 78.9385330342881
+  llm_score: 85
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 78.47296013126491
+  llm_score: 75
+  recency_score: 60.07424085322191
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: earful
-  title: EARFUL
-  score: 77.69230769230771
-  llm_score: 95
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: innocent
-  title: INNOCENT
-  score: 72.96474986586873
-  llm_score: 95
-  recency_score: 19.270874128146687
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 66.51045915504818
+  llm_score: 85
+  recency_score: 17.31798450781311
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 70.49693181472482
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 83.23005679571122
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

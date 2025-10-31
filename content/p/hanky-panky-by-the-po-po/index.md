@@ -15,25 +15,25 @@ alttags: Handcuffs with faux fur lining, symbolizing alleged cover-ups and inter
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 96.30364763001134
-  llm_score: 95
+  score: 93.22672455308827
+  llm_score: 90
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 100
   rank: 1
-- slug: hanky-panky-at-the-po-po
-  title: Hanky Panky at the Po Po
-  score: 96.10276386439367
-  llm_score: 95
-  recency_score: 94.66796511855877
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 92.3250236679477
+  llm_score: 90
+  recency_score: 90.11265384166002
   length_score: 100
   category_score: 100
   rank: 2
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 95.40194674487077
-  llm_score: 95
-  recency_score: 90.11265384166002
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 90.48419201931206
+  llm_score: 90
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 100
   rank: 3
@@ -45,51 +45,51 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 84.4512476085767
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 83.09799975789966
   llm_score: 85
-  recency_score: 58.93310945574846
+  recency_score: 50.13699842634772
   length_score: 100
   category_score: 100
   rank: 5
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.60841439097231
-  llm_score: 95
-  recency_score: 6.9546935413200295
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 78.32509731124254
+  llm_score: 85
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 100
   rank: 6
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 79.38113067334776
-  llm_score: 85
-  recency_score: 25.977349376760323
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 76.4219790682697
+  llm_score: 90
+  recency_score: 61.74286394375304
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 78.2378020625291
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 74.59140495332304
   llm_score: 85
-  recency_score: 18.545713406439127
+  recency_score: 69.84413219659965
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 76.67426508839752
-  llm_score: 75
-  recency_score: 48.38272307458382
-  length_score: 100
-  category_score: 100
-  rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 68.12599525240086
+- slug: justified
+  title: JUSTIFIED
+  score: 70.97040767851414
   llm_score: 85
-  recency_score: 27.818969140605503
+  recency_score: 46.30764991034176
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

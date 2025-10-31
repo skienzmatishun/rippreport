@@ -10,83 +10,83 @@ authors:
 rumble: v4kazef
 alttags: Senator Katie Britt appears on the Backstory Podcast discussing a bizarre Alabama love triangle story
 related_articles:
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 64.84358686151305
-  llm_score: 70
-  recency_score: 66.48331459983474
+- slug: the-180
+  title: THE 180
+  score: 68.03321626701111
+  llm_score: 75
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 62.58657438376161
-  llm_score: 70
-  recency_score: 51.81273349445037
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 66.11246308319853
+  llm_score: 75
+  recency_score: 54.731010040790416
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 60.05140007709444
-  llm_score: 65
-  recency_score: 55.33410050111382
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 62.09102604302952
+  llm_score: 75
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 3
-- slug: threesome
-  title: THREESOME
-  score: 56.501912180516506
+- slug: offensive
+  title: Offensive
+  score: 61.359770748361036
   llm_score: 70
-  recency_score: 12.262429173357202
+  recency_score: 43.83850986434665
   length_score: 100
   category_score: 0
   rank: 4
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 56.4711542658775
-  llm_score: 70
-  recency_score: 12.0625027282037
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 61.14203372835187
+  llm_score: 65
+  recency_score: 62.42321923428709
   length_score: 100
   category_score: 0
   rank: 5
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 56.134760298871925
-  llm_score: 70
-  recency_score: 9.87594194266743
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 59.64188890039904
+  llm_score: 75
+  recency_score: 12.67227785259367
   length_score: 100
   category_score: 0
   rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 54.26180723457879
-  llm_score: 65
-  recency_score: 17.701747024762053
+- slug: press-release
+  title: PRESS RELEASE
+  score: 59.44432044138876
+  llm_score: 75
+  recency_score: 11.388082869026867
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 52.623172128983775
-  llm_score: 65
-  recency_score: 7.050618838394492
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 44.44175075972063
+  llm_score: 50
+  recency_score: 13.871379938184003
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 51.32255280719094
-  llm_score: 60
-  recency_score: 18.596593246741016
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 43.54146948267775
+  llm_score: 50
+  recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 24.203527114045468
-  llm_score: 0
-  recency_score: 82.32292624129552
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 42.5644088692938
+  llm_score: 50
+  recency_score: 1.6686576504096422
   length_score: 100
   category_score: 0
   rank: 10

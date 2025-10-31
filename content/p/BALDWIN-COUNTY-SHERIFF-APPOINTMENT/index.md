@@ -16,85 +16,85 @@ authors:
 - admin
 alttags: Baldwin County Sheriffs Office seal, mailbox, phone, and envelope suggest potential replacement controversy and public sc...
 related_articles:
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 95.48299644815006
-  llm_score: 93
-  recency_score: 98.63947691297537
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 96.14272077304483
+  llm_score: 95
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 100
   rank: 1
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 94.9119515422756
-  llm_score: 93
-  recency_score: 94.92768502479139
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 90.31250161398609
+  llm_score: 85
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
   rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 94.36239498889194
-  llm_score: 93
+  score: 89.43931806581502
+  llm_score: 85
   recency_score: 91.35556742779755
   length_score: 100
   category_score: 100
   rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 93.38942469090917
-  llm_score: 90
-  recency_score: 97.03126049090956
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 89.09700143880019
+  llm_score: 85
+  recency_score: 89.13050935220119
   length_score: 100
   category_score: 100
   rank: 4
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 85.06491441824907
-  llm_score: 92
-  recency_score: 34.921943718618955
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 84.406073371227
+  llm_score: 75
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 84.82884298479213
-  llm_score: 90
-  recency_score: 41.38747940114875
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 82.51815357350885
+  llm_score: 89
+  recency_score: 30.367998227807558
   length_score: 100
   category_score: 100
   rank: 6
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.14038088438967
-  llm_score: 85
-  recency_score: 50.412475748532785
+- slug: rumors
+  title: RUMORS
+  score: 71.81597825531563
+  llm_score: 75
+  recency_score: 16.8038586595515
   length_score: 100
   category_score: 100
   rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 75.251460416626
-  llm_score: 90
-  recency_score: 54.13449270806896
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 68.8493670052485
+  llm_score: 85
+  recency_score: 32.52088553411519
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 73.55786250955295
-  llm_score: 93
-  recency_score: 31.126106312094088
+- slug: justified
+  title: JUSTIFIED
+  score: 66.02069118585678
+  llm_score: 75
+  recency_score: 54.13449270806896
   length_score: 100
   category_score: 0
   rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 72.75201832307955
-  llm_score: 70
-  recency_score: 42.88811910001705
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 10
 ---
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.

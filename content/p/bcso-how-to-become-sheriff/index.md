@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar...
 related_articles:
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 96.5895483332698
-  llm_score: 95
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 96.46634776783225
-  llm_score: 95
+  score: 90.31250161398609
+  llm_score: 85
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 1
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 95.67038766702034
-  llm_score: 95
+  score: 89.51654151317419
+  llm_score: 85
   recency_score: 91.85751983563217
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 95.1759167082792
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.98517201795988
   llm_score: 95
-  recency_score: 88.64345860381478
+  recency_score: 35.40361811673922
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: no-justice
+  title: NO JUSTICE
+  score: 84.98818757450572
+  llm_score: 85
+  recency_score: 62.42321923428709
   length_score: 100
   category_score: 100
   rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 88.33850941566246
-  llm_score: 95
-  recency_score: 44.200311201805995
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 82.8682244005869
+  llm_score: 75
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
   rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.10057821203621
-  llm_score: 95
-  recency_score: 42.653758378235395
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 74.68183603529894
+  llm_score: 89
+  recency_score: 54.43193422944308
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 86.75156956586184
-  llm_score: 95
-  recency_score: 33.88520217810198
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 71.82307073105022
+  llm_score: 75
+  recency_score: 16.84995975182637
   length_score: 100
   category_score: 100
   rank: 7
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 86.45459704960132
-  llm_score: 90
-  recency_score: 51.95488082240847
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 86.07176176404597
-  llm_score: 95
-  recency_score: 29.466451466298754
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 65.32446785568045
+  llm_score: 85
+  recency_score: 9.609041061922857
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 9
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 74.6464697379024
-  llm_score: 95
-  recency_score: 30.20205329636546
+- slug: justified
+  title: JUSTIFIED
+  score: 62.696520097692144
+  llm_score: 70
+  recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
   rank: 10

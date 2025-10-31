@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: Councilman Jack Burrell cycling through town after a public backlash over council meeting participation rules
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 62.521326265797605
-  llm_score: 70
-  recency_score: 51.388620727684355
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 79.0630911680524
+  llm_score: 85
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 62.007470836216086
-  llm_score: 75
-  recency_score: 28.048560435404436
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 60.38465770325238
-  llm_score: 70
-  recency_score: 37.500275071140365
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 60.1372209530851
-  llm_score: 70
+  score: 69.36799018385433
+  llm_score: 85
   recency_score: 35.89193619505306
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 68.16131699006223
+  llm_score: 85
+  recency_score: 28.048560435404436
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 65.32446785568045
+  llm_score: 85
+  recency_score: 9.609041061922857
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 59.59125788007965
-  llm_score: 70
-  recency_score: 32.34317622051765
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 64.93682437002275
+  llm_score: 85
+  recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
   rank: 5
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 59.390914772261944
-  llm_score: 70
-  recency_score: 31.040946019702552
+- slug: no-radar
+  title: NO RADAR
+  score: 64.53448770005538
+  llm_score: 85
+  recency_score: 4.474170050359933
   length_score: 100
   category_score: 0
   rank: 6
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 58.95425738741168
-  llm_score: 70
-  recency_score: 28.202673018175854
+- slug: honey-bees
+  title: HONEY BEES
+  score: 63.99995242796172
+  llm_score: 85
+  recency_score: 0.9996907817511175
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 54.97893496785398
-  llm_score: 70
-  recency_score: 2.363077291050805
+- slug: disposal
+  title: DISPOSAL
+  score: 63.95685969935098
+  llm_score: 85
+  recency_score: 0.7195880457812709
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 54.697285259027254
-  llm_score: 70
-  recency_score: 0.5323541836770731
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 63.94728980651787
+  llm_score: 85
+  recency_score: 0.6573837423660799
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 48.544568751444494
-  llm_score: 60
-  recency_score: 0.5396968843891398
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 53.874453215941905
+  llm_score: 65
+  recency_score: 15.18394590362233
   length_score: 100
   category_score: 0
   rank: 10

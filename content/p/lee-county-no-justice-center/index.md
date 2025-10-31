@@ -11,22 +11,54 @@ authors:
 - admin
 alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
 related_articles:
-- slug: no-justice
-  title: NO JUSTICE
-  score: 82.83091264504338
-  llm_score: 75
-  recency_score: 88.40093219278197
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 87.14662552774283
+  llm_score: 85
+  recency_score: 76.45306593032835
   length_score: 100
   category_score: 100
   rank: 1
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 81.85908258044711
+  llm_score: 95
+  recency_score: 77.0840367729061
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 81.66267205614106
+  llm_score: 90
+  recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 80.09442411728917
+  llm_score: 75
+  recency_score: 70.6137567623795
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 79.05571520869678
+  llm_score: 85
+  recency_score: 23.862148856529085
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 72.792883663955
-  llm_score: 75
+  score: 78.94672981780114
+  llm_score: 85
   recency_score: 23.153743815707337
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 6
 - slug: silence-the-eagle
   title: SILENCE THE EAGLE
   score: 72.69195898955073
@@ -34,60 +66,28 @@ related_articles:
   recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 72.65884171775178
-  llm_score: 75
-  recency_score: 22.28247116538646
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: cameras
-  title: CAMERAS
-  score: 72.5118160695292
-  llm_score: 75
-  recency_score: 21.326804451939722
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 69.9421093517739
-  llm_score: 75
-  recency_score: 4.623710786530182
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 69.27824888893912
-  llm_score: 75
-  recency_score: 0.30861777810415675
-  length_score: 100
-  category_score: 100
   rank: 7
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 67.369444530263
+- slug: justified
+  title: JUSTIFIED
+  score: 69.55254719926883
   llm_score: 85
-  recency_score: 22.901389446709434
+  recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 61.120380179290244
-  llm_score: 75
-  recency_score: 22.28247116538646
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 65.93967510505136
+  llm_score: 85
+  recency_score: 13.607888182833822
   length_score: 100
   category_score: 0
   rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 58.00758483030507
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 2.049301396982881
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

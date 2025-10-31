@@ -10,53 +10,53 @@ authors:
 - admin
 alttags: Close-up portrait of a man, potentially related to concerns about Baldwin County Sheriff’s Office accountability
 related_articles:
-- slug: no-justice
-  title: NO JUSTICE
-  score: 91.87664878479296
-  llm_score: 90
-  recency_score: 87.19821710115417
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 90.65491029800909
+  llm_score: 95
+  recency_score: 59.25691693705903
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 87.52817068549977
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85.8846690901434
   llm_score: 90
-  recency_score: 58.93310945574846
+  recency_score: 48.25034908593207
   length_score: 100
   category_score: 100
   rank: 2
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 83.22400288059409
-  llm_score: 90
-  recency_score: 30.95601872386148
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 84.88351752980817
+  llm_score: 85
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 100
   rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 81.42628832740719
-  llm_score: 90
+  score: 84.50321140433026
+  llm_score: 95
   recency_score: 19.270874128146687
   length_score: 100
   category_score: 100
   rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.95629196195567
-  llm_score: 90
-  recency_score: 16.215897752711804
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 83.75875911222202
+  llm_score: 85
+  recency_score: 54.43193422944308
   length_score: 100
   category_score: 100
   rank: 5
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 80.147079803671
+  llm_score: 85
+  recency_score: 30.95601872386148
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
@@ -66,27 +66,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 65.90382207269288
-  llm_score: 70
-  recency_score: 73.37484347250358
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 64.25515829272454
+- slug: justified
+  title: JUSTIFIED
+  score: 68.24487219687568
   llm_score: 85
-  recency_score: 2.658528902709438
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 9
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 54.76138204869579
-  llm_score: 70
-  recency_score: 0.9489833165225753
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 66.56204853270893
+  llm_score: 85
+  recency_score: 17.653315462607935
   length_score: 100
   category_score: 0
   rank: 10

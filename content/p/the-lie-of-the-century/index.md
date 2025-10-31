@@ -10,83 +10,83 @@ authors:
 rumble: v3yczga
 alttags: Podcast graphic promoting a documentary questioning George Floyd’s death cause, featuring a police officer and trial exhib...
 related_articles:
-- slug: rule-32
-  title: RULE 32
-  score: 96.83900819631688
-  llm_score: 95
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: no-justice
   title: NO JUSTICE
-  score: 95.13860495273569
-  llm_score: 95
+  score: 82.83091264504338
+  llm_score: 75
   recency_score: 88.40093219278197
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 77.72041657043904
+  llm_score: 75
+  recency_score: 55.18270770785375
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 86.23613152958457
-  llm_score: 95
-  recency_score: 30.53485494229968
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 77.35630644498639
+  llm_score: 75
+  recency_score: 52.81599189241148
   length_score: 100
   category_score: 100
   rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.54410386205615
-  llm_score: 95
-  recency_score: 19.53667510336496
+- slug: rumors
+  title: RUMORS
+  score: 74.058921779933
+  llm_score: 75
+  recency_score: 31.3829915695644
   length_score: 100
   category_score: 100
   rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 84.06762489018755
-  llm_score: 95
-  recency_score: 16.439561786218995
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 73.92843922189228
+  llm_score: 75
+  recency_score: 30.53485494229968
   length_score: 100
   category_score: 100
   rank: 5
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 76.72113286965288
-  llm_score: 85
-  recency_score: 83.68736365274363
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 63.69359479399812
+  llm_score: 65
+  recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
   rank: 7
-- slug: innocent
-  title: INNOCENT
-  score: 72.98103965942703
-  llm_score: 95
-  recency_score: 19.376757786275636
+- slug: backstory-153
+  title: No Boomers
+  score: 50.5905656224837
+  llm_score: 50
+  recency_score: 53.838676546144015
   length_score: 100
   category_score: 0
   rank: 8
-- slug: earful
-  title: EARFUL
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: the-180
+  title: THE 180
+  score: 49.93700793331091
+  llm_score: 50
+  recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
   rank: 9
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 56.15384615384617
-  llm_score: 60
-  recency_score: 50
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 46.81622046270766
+  llm_score: 50
+  recency_score: 29.305433007599714
   length_score: 100
   category_score: 0
   rank: 10

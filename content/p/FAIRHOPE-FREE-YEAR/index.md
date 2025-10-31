@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 70.05535273262169
-  llm_score: 95
-  recency_score: 0.35979276204090305
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 79.0630911680524
+  llm_score: 85
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 68.34234677452419
-  llm_score: 85
-  recency_score: 29.2252540344071
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 76.47417070735436
+  llm_score: 90
+  recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
   rank: 2
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 68.1495108055248
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 71.02920448919323
   llm_score: 85
-  recency_score: 27.971820235911103
+  recency_score: 46.6898291797559
   length_score: 100
   category_score: 0
   rank: 3
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 63.4932800033257
-  llm_score: 75
-  recency_score: 37.70632002161693
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 63.979165714052556
+  llm_score: 85
+  recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
   rank: 4
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 62.11519476453931
-  llm_score: 75
-  recency_score: 28.748765969505406
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 63.87611876715866
+  llm_score: 85
+  recency_score: 0.19477198653119254
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 59.53702546877199
-  llm_score: 70
-  recency_score: 31.990665547017855
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 63.85929002100439
+  llm_score: 85
+  recency_score: 0.08538513652846078
   length_score: 100
   category_score: 0
   rank: 6
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 55.2511451141854
-  llm_score: 70
-  recency_score: 4.13244324220501
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 58.79499650321006
+  llm_score: 75
+  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 7
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 54.814359395297956
-  llm_score: 70
-  recency_score: 1.2933360694366538
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 57.71111553548279
+  llm_score: 75
+  recency_score: 0.12225098063802377
   length_score: 100
   category_score: 0
   rank: 8
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 54.789840383781126
-  llm_score: 70
-  recency_score: 1.1339624945772369
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 57.707580207112514
+  llm_score: 75
+  recency_score: 0.0992713462312305
   length_score: 100
   category_score: 0
   rank: 9
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 54.67515070020284
-  llm_score: 70
-  recency_score: 0.3884795513184073
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.698066395615356
+  llm_score: 75
+  recency_score: 0.03743157149971514
   length_score: 100
   category_score: 0
   rank: 10

@@ -13,82 +13,82 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 74.62088436176394
-  llm_score: 85
-  recency_score: 70.03574835146556
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 81.48737924900905
+  llm_score: 90
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 1
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 71.9051795324712
-  llm_score: 85
-  recency_score: 52.383666961062694
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 80.56053209289459
+  llm_score: 90
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
   rank: 2
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 68.8493670052485
-  llm_score: 85
-  recency_score: 32.52088553411519
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 75.00421240538445
+  llm_score: 90
+  recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 61.50695213716207
-  llm_score: 75
-  recency_score: 24.795188891553348
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 74.98210260939427
+  llm_score: 90
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 4
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 60.56117118076843
-  llm_score: 75
-  recency_score: 18.647612674994708
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 57.60460270496859
-  llm_score: 70
+  score: 69.9122950126609
+  llm_score: 90
   recency_score: 19.429917582295765
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 68.15685409806237
+  llm_score: 90
+  recency_score: 8.019551637405318
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 56.21594580371498
-  llm_score: 70
-  recency_score: 10.403647724147305
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 67.99890862266523
+  llm_score: 90
+  recency_score: 6.992906047323852
   length_score: 100
   category_score: 0
   rank: 7
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 55.727173970256665
-  llm_score: 70
-  recency_score: 7.226630806668228
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 67.95842520263345
+  llm_score: 90
+  recency_score: 6.729763817117284
   length_score: 100
   category_score: 0
   rank: 8
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 55.67078051231671
-  llm_score: 70
-  recency_score: 6.86007333005856
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 67.66079829100822
+  llm_score: 85
+  recency_score: 24.795188891553348
   length_score: 100
   category_score: 0
   rank: 9
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 54.4468949347495
-  llm_score: 65
+  score: 66.75458724244181
+  llm_score: 85
   recency_score: 18.90481707587172
   length_score: 100
   category_score: 0
