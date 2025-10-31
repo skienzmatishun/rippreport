@@ -9,84 +9,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 88.47298700545456
-  llm_score: 85
-  recency_score: 85.07441553545459
+- slug: cameras
+  title: CAMERAS
+  score: 82.92092783421589
+  llm_score: 90
+  recency_score: 28.986030922403184
   length_score: 100
   category_score: 100
   rank: 1
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 88.01502963964029
-  llm_score: 85
-  recency_score: 82.09769265766185
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.35399929370959
-  llm_score: 95
+  score: 79.6616916014019
+  llm_score: 89
   recency_score: 11.800995409112343
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 83.14038088438967
+  rank: 2
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65.46879139292679
   llm_score: 85
-  recency_score: 50.412475748532785
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 83.03486190418974
-  llm_score: 85
-  recency_score: 49.72660237723329
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 82.46993896530354
-  llm_score: 85
-  recency_score: 46.05460327447295
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 77.73988611413975
-  llm_score: 85
-  recency_score: 15.30925974190835
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 71.47546947177244
-  llm_score: 85
-  recency_score: 49.59055156652082
+  recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.31311987681936
+  rank: 3
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 58.79499650321006
   llm_score: 75
-  recency_score: 0.535279199325722
+  recency_score: 7.167477270865283
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 4
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 54.82850987182679
+  llm_score: 65
+  recency_score: 21.385314166874046
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 49.498064996455916
+  llm_score: 75
+  recency_score: 1.1124224769633473
+  length_score: 27.500000000000004
+  category_score: 0
+  rank: 6
+- slug: comment-are-you-surprised-at-all
+  title: 'Comment: Are You Surprised at all??????'
+  score: 48.483285540599084
+  llm_score: 60
+  recency_score: 0.14135601389395616
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 37.092896441097096
+  llm_score: 50
+  recency_score: 34.541326867131026
+  length_score: 8.75
+  category_score: 0
+  rank: 8
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 34.54362662382715
+  llm_score: 50
+  recency_score: 1.4710730548763988
+  length_score: 30.75
+  category_score: 0
   rank: 9
-- slug: justified
-  title: JUSTIFIED
-  score: 68.04469815508409
-  llm_score: 85
-  recency_score: 27.29053800804651
-  length_score: 100
+- slug: vote
+  title: VOTE
+  score: 24.209676288497793
+  llm_score: 75
+  recency_score: 0.47579175047122596
+  length_score: 19.0
   category_score: 0
   rank: 10
 ---

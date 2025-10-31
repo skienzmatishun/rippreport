@@ -10,82 +10,82 @@ authors:
 - admin
 alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to Steve Marshall’s office regarding ethics commissio...
 related_articles:
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 62.30769230769232
-  llm_score: 70
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 62.30769230769232
-  llm_score: 70
-  recency_score: 50
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 62.30769230769232
-  llm_score: 70
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 62.30769230769232
-  llm_score: 70
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 62.30769230769232
-  llm_score: 70
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 62.30769230769232
-  llm_score: 70
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 62.30769230769232
-  llm_score: 70
+- slug: cover-up
+  title: COVER UP
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 59.23076923076924
-  llm_score: 65
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 19.230769230769234
-  llm_score: 0
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0

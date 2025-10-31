@@ -9,7 +9,7 @@ authors:
 - admin
 alttags: 'Podcast artwork: stylized ear graphic representing the Verbal Lynching in Alabama podcast about Murray Lawrence Jr.s wr...'
 related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
   score: 89.23076923076924
   llm_score: 95
@@ -17,72 +17,72 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 83.07692307692308
-  llm_score: 85
-  recency_score: 50
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 84.92788622937071
+  llm_score: 95
+  recency_score: 97.03126049090956
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
-- slug: rule-32
-  title: RULE 32
-  score: 83.07692307692308
-  llm_score: 85
-  recency_score: 50
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 84.6042592345833
+  llm_score: 95
+  recency_score: 94.92768502479139
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
   score: 83.07692307692308
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 4
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 78.77404007552455
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.07692307692308
   llm_score: 85
-  recency_score: 97.03126049090956
+  recency_score: 50
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 78.5709427369692
-  llm_score: 85
+  score: 81.64786581389228
+  llm_score: 90
   recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 6
-- slug: innocent
-  title: INNOCENT
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 81.5674026873913
+  llm_score: 90
+  recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
   rank: 7
-- slug: no-justice
-  title: NO JUSTICE
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
   score: 76.92307692307693
   llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 8
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 76.92307692307693
-  llm_score: 75
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 9
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
+- slug: innocent
+  title: INNOCENT
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50

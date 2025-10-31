@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: Man in striped prisoner clothing holds money and a bag, symbolizing corruption within Alabama politics discussed in the ar...
 related_articles:
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 80.7747305156101
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 81.50701731046571
   llm_score: 95
-  recency_score: 70.03574835146556
+  recency_score: 74.79561251802704
   length_score: 100
   category_score: 0
   rank: 1
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 74.09628447755524
-  llm_score: 95
-  recency_score: 26.62584910410898
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 71.22643388244788
+  llm_score: 90
+  recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 2
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 72.27624807969647
-  llm_score: 80
-  recency_score: 74.79561251802704
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 71.01936140063216
+  llm_score: 90
+  recency_score: 26.62584910410898
   length_score: 100
   category_score: 0
   rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 66.21594124872912
-  llm_score: 80
+  score: 69.2928643256522
+  llm_score: 85
   recency_score: 35.40361811673922
   length_score: 100
   category_score: 0
   rank: 4
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65.43361365209847
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 68.11428570730418
   llm_score: 85
-  recency_score: 10.318488738640012
+  recency_score: 27.742857097477103
   length_score: 100
   category_score: 0
   rank: 5
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 65.35309269063613
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 67.9989379096472
   llm_score: 85
-  recency_score: 9.795102489134761
+  recency_score: 26.993096412706674
   length_score: 100
   category_score: 0
   rank: 6
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 63.901810713906016
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 67.85363350466798
   llm_score: 85
-  recency_score: 0.36176964038901915
+  recency_score: 26.048617780341775
   length_score: 100
   category_score: 0
   rank: 7
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 56.90073349221556
-  llm_score: 70
+  score: 66.13150272298479
+  llm_score: 85
   recency_score: 14.854767699401043
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 54.650318318034174
-  llm_score: 70
-  recency_score: 0.22706906722204626
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 65.63699079108811
+  llm_score: 85
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 9
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 52.61432252503181
-  llm_score: 60
-  recency_score: 26.993096412706674
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 65.3822717929335
+  llm_score: 85
+  recency_score: 9.984766654067629
   length_score: 100
   category_score: 0
   rank: 10
