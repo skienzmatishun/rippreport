@@ -8,22 +8,38 @@ authors:
 - admin
 alttags: Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations
 related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 86.15384615384616
-  llm_score: 90
+- slug: no-justice
+  title: NO JUSTICE
+  score: 89.23076923076924
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 1
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
+  score: 86.15384615384616
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 85.3846153846154
+  llm_score: 95
+  recency_score: 100.0
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
   score: 83.07692307692308
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 83.07692307692308
@@ -31,15 +47,23 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 5
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 82.18176164632123
-  llm_score: 90
+  score: 79.10483856939815
+  llm_score: 85
   recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 76.92307692307693
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 74.61538461538463
@@ -47,43 +71,19 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 73.84615384615385
-  llm_score: 70
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: no-justice
-  title: NO JUSTICE
-  score: 73.84615384615385
-  llm_score: 70
-  recency_score: 50
-  length_score: 100
-  category_score: 100
   rank: 8
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 62.30769230769232
-  llm_score: 70
-  recency_score: 50
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 72.01915387076694
+  llm_score: 75
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 62.30769230769232
-  llm_score: 70
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0

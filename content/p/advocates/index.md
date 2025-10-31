@@ -12,36 +12,20 @@ alttags: Portrait of Murray Lawrence Jr. alongside Baldwin County Courthouse; ad
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 83.07692307692308
-  llm_score: 85
+  score: 89.23076923076924
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
   score: 83.07692307692308
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 83.07692307692308
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 82.18176164632123
-  llm_score: 90
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 81.97416371788519
@@ -49,43 +33,59 @@ related_articles:
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: rule-32
-  title: RULE 32
-  score: 73.84615384615385
-  llm_score: 70
-  recency_score: 50
+  rank: 3
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 81.650215747644
+  llm_score: 89
+  recency_score: 99.72640235968593
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 4
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 79.10483856939815
+  llm_score: 85
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: earful
+  title: EARFUL
+  score: 78.45041308073715
+  llm_score: 85
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
   score: 73.84615384615385
   llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 73.84615384615385
-  llm_score: 70
+- slug: innocent
+  title: INNOCENT
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: innocent
-  title: INNOCENT
-  score: 62.30769230769232
-  llm_score: 70
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0

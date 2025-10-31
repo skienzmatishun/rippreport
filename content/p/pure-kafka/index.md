@@ -8,83 +8,83 @@ rumble: v3fo50k
 thumbnail: img/pure-kafka.jpg
 alttags: Stephen Nodine discusses legal rulings while a scene from Congo & Baldwin County logo are displayed in the podcast backdrop
 related_articles:
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 72.21676243074786
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 70.49693181472482
   llm_score: 75
-  recency_score: 94.40895579986105
+  recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 69.42213725323005
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 69.84744094784428
   llm_score: 75
-  recency_score: 76.2438921459952
+  recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 65.214444100482
-  llm_score: 70
-  recency_score: 68.8938866531329
+- slug: offensive
+  title: Offensive
+  score: 69.26255021398507
+  llm_score: 75
+  recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
   rank: 3
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 62.74092182960178
-  llm_score: 70
-  recency_score: 52.81599189241148
+- slug: tides-end
+  title: Tide's End
+  score: 68.67567106989006
+  llm_score: 75
+  recency_score: 71.39186195428532
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 62.21320491544658
+- slug: backstory-153
+  title: No Boomers
+  score: 68.17584724293476
   llm_score: 75
-  recency_score: 29.385831950402675
+  recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 5
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 58.27644039697376
+- slug: lee-county-no-justice-center
+  title: LEE COUNTY NO-JUSTICE CENTER
+  score: 64.1142867605774
   llm_score: 70
-  recency_score: 23.79686258032939
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
   rank: 6
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 57.9407511636291
-  llm_score: 65
-  recency_score: 41.61488256358909
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 61.5174175474652
+  llm_score: 75
+  recency_score: 24.863214058523702
   length_score: 100
   category_score: 0
   rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.80815545449857
-  llm_score: 65
-  recency_score: 1.7530104542406209
+- slug: the-slap
+  title: The Slap
+  score: 61.29367368017212
+  llm_score: 75
+  recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 19.084624687922787
-  llm_score: 0
-  recency_score: 49.0500604714981
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 60.64085677966137
+  llm_score: 75
+  recency_score: 19.165569067798774
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 11.97886824390464
-  llm_score: 0
-  recency_score: 2.862643585380166
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 50.718148479778286
+  llm_score: 40
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 10

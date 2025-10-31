@@ -17,38 +17,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 77.66832803024612
-  llm_score: 90
-  recency_score: 69.84413219659965
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 75.01155778740589
+  llm_score: 85
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 71.75209549656684
-  llm_score: 85
-  recency_score: 51.388620727684355
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 69.4801095629613
-  llm_score: 90
-  recency_score: 16.62071215924841
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 69.3771560031308
-  llm_score: 90
-  recency_score: 15.95151402035018
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope-3
   title: FAUXHOPE
   score: 68.80841323901166
@@ -56,36 +32,60 @@ related_articles:
   recency_score: 32.254686053575696
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 68.43755879947688
+  llm_score: 75
+  recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 66.53981759579294
+  llm_score: 85
+  recency_score: 17.508814372654022
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: round-house-blockheads
+  title: ROUND HOUSE SQUARE HEADS
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: elliott-history-lesson
-  title: ELLIOTT HISTORY LESSON
-  score: 67.5256859186067
-  llm_score: 70
-  recency_score: 83.91695847094347
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 60.13967246990711
+  llm_score: 75
+  recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 66.0758407188276
-  llm_score: 85
-  recency_score: 14.49296467237936
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 57.901340904861925
+  llm_score: 75
+  recency_score: 1.3587158816024008
   length_score: 100
   category_score: 0
   rank: 8
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 66.06365666795776
-  llm_score: 85
-  recency_score: 14.41376834172532
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 57.74888702863615
+  llm_score: 75
+  recency_score: 0.36776568613484334
   length_score: 100
   category_score: 0
   rank: 9
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 65.84213677602337
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 56.737781574914855
   llm_score: 70
-  recency_score: 72.97388904415178
+  recency_score: 13.795580236946487
   length_score: 100
   category_score: 0
   rank: 10

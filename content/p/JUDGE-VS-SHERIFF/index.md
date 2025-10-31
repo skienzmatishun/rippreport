@@ -12,30 +12,38 @@ authors:
 - admin
 alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw...
 related_articles:
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 88.47298700545456
-  llm_score: 85
-  recency_score: 85.07441553545459
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 81.89301789816473
-  llm_score: 85
-  recency_score: 42.3046163380707
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 81.00015943796294
-  llm_score: 70
+  score: 90.23092866873216
+  llm_score: 85
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 85.86435957990611
+  llm_score: 90
+  recency_score: 48.118337269389656
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 83.09799975789966
+  llm_score: 85
+  recency_score: 50.13699842634772
+  length_score: 100
+  category_score: 100
   rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 81.41241300968157
+  llm_score: 85
+  recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
   score: 80.76574843293574
@@ -43,52 +51,44 @@ related_articles:
   recency_score: 14.977364814082216
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 76.18150459054358
-  llm_score: 75
-  recency_score: 45.179779838533264
-  length_score: 100
-  category_score: 100
   rank: 5
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 75.82894140000263
-  llm_score: 75
-  recency_score: 42.88811910001705
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 77.49541457549125
+  llm_score: 85
+  recency_score: 13.72019474069314
   length_score: 100
   category_score: 100
   rank: 6
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 72.95389403104708
-  llm_score: 70
-  recency_score: 44.200311201805995
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 76.33890828059516
+  llm_score: 85
+  recency_score: 81.20290382386844
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 72.18164377891235
-  llm_score: 70
-  recency_score: 39.1806845629302
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 75.46046817709599
+  llm_score: 85
+  recency_score: 0.49304315112384334
   length_score: 100
   category_score: 100
   rank: 8
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 66.22604899905538
-  llm_score: 70
-  recency_score: 0.4693184938599064
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 74.7074066158404
+  llm_score: 75
+  recency_score: 35.59814300296249
   length_score: 100
   category_score: 100
   rank: 9
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 59.746061776358296
-  llm_score: 75
-  recency_score: 13.34940154632884
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 66.91840050598809
+  llm_score: 85
+  recency_score: 19.9696032889225
   length_score: 100
   category_score: 0
   rank: 10

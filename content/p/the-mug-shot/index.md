@@ -8,83 +8,83 @@ authors:
 - admin
 rumble: v39h1qo
 related_articles:
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 68.12599525240086
-  llm_score: 85
-  recency_score: 27.818969140605503
+- slug: the-180
+  title: THE 180
+  score: 63.398701045422676
+  llm_score: 75
+  recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 63.19858084659232
-  llm_score: 70
-  recency_score: 55.79077550285001
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 59.75756710452062
-  llm_score: 70
-  recency_score: 33.42418617938393
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 59.50965130683853
-  llm_score: 65
-  recency_score: 51.81273349445037
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 58.86019340980624
-  llm_score: 70
-  recency_score: 27.591257163740508
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: he-must-go
   title: He Must Go
-  score: 58.36783515945453
-  llm_score: 70
+  score: 61.44475823637761
+  llm_score: 75
   recency_score: 24.39092853645434
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: bsp118
   title: The Smokey and The Bandit Run
-  score: 58.14834138585108
-  llm_score: 70
+  score: 61.22526446277416
+  llm_score: 75
   recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 56.83797270952145
+  llm_score: 65
+  recency_score: 34.44682261188939
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 55.40572094031323
+  llm_score: 65
+  recency_score: 25.13718611203594
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 47.21586766784008
+  llm_score: 50
+  recency_score: 31.903139840960442
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 45.25868472324431
+  llm_score: 30
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 56.501912180516506
-  llm_score: 70
-  recency_score: 12.262429173357202
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 44.54349628729631
+  llm_score: 50
+  recency_score: 14.532725867425949
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.90026864737926
-  llm_score: 70
-  recency_score: 1.8517462079650837
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 37.370837505523475
+  llm_score: 40
+  recency_score: 7.9104437859025545
   length_score: 100
   category_score: 0
   rank: 9
-- slug: im-back-2
-  title: I'M BACK
-  score: 22.734497570104857
-  llm_score: 0
-  recency_score: 72.77423420568157
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 31.938927785449167
+  llm_score: 30
+  recency_score: 12.603030605419562
   length_score: 100
   category_score: 0
   rank: 10

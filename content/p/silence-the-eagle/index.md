@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents
 related_articles:
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 72.3490719837366
-  llm_score: 70
-  recency_score: 40.26896789428779
+- slug: rumors
+  title: RUMORS
+  score: 75.79288590434392
+  llm_score: 75
+  recency_score: 42.653758378235395
   length_score: 100
   category_score: 100
   rank: 1
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 72.11594636607803
-  llm_score: 70
-  recency_score: 38.75365137950711
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 75.61554234259626
+  llm_score: 75
+  recency_score: 41.50102522687563
   length_score: 100
   category_score: 100
   rank: 2
-- slug: cameras
-  title: CAMERAS
-  score: 71.86023950696114
-  llm_score: 70
-  recency_score: 37.09155679524731
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 75.42599506065967
+  llm_score: 75
+  recency_score: 40.26896789428779
   length_score: 100
   category_score: 100
   rank: 3
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 69.97385745080308
-  llm_score: 85
-  recency_score: 39.83007343021991
+- slug: crazy
+  title: CRAZY
+  score: 69.53501493630111
+  llm_score: 75
+  recency_score: 1.9775970859570902
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 69.16784207494143
+  llm_score: 75
+  recency_score: 74.59097348711927
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 67.39100817492815
-  llm_score: 70
-  recency_score: 8.041553137032842
-  length_score: 100
-  category_score: 100
   rank: 5
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 66.23642272745312
-  llm_score: 70
-  recency_score: 0.5367477284451874
+- slug: justified
+  title: JUSTIFIED
+  score: 67.12720068491382
+  llm_score: 85
+  recency_score: 21.326804451939722
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
 - slug: lee-county-no-justice-center
   title: LEE COUNTY NO-JUSTICE CENTER
-  score: 63.4611897587815
-  llm_score: 70
+  score: 66.53811283570458
+  llm_score: 75
   recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
   rank: 7
-- slug: police-report
-  title: POLICE REPORT
-  score: 60.08056533688508
-  llm_score: 60
-  recency_score: 0.5236746897529492
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 54.62972444705002
-  llm_score: 70
-  recency_score: 0.09320890582507632
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 60.49129708275215
+  llm_score: 75
+  recency_score: 18.193431037888864
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 53.509525518885226
-  llm_score: 65
-  recency_score: 12.811915872753922
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 58.23466108695768
+  llm_score: 75
+  recency_score: 3.5252970652248186
   length_score: 100
   category_score: 0
   rank: 10

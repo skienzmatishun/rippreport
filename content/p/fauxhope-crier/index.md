@@ -12,22 +12,46 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 78.73319773105223
-  llm_score: 85
-  recency_score: 96.76578525183945
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 80.59534057307586
+  llm_score: 89
+  recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 1
 - slug: all-mouth
   title: ALL MOUTH
-  score: 69.29429297193971
-  llm_score: 75
+  score: 75.44813912578587
+  llm_score: 85
   recency_score: 75.41290431760807
   length_score: 100
   category_score: 0
   rank: 2
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 75.38474045731328
+  llm_score: 85
+  recency_score: 75.00081297253628
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 71.4964003657282
+  llm_score: 85
+  recency_score: 49.72660237723329
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 69.70677132769386
+  llm_score: 90
+  recency_score: 18.094013630009982
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
   score: 68.79669864950806
@@ -35,7 +59,7 @@ related_articles:
   recency_score: 72.17854122180232
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 6
 - slug: fauxhope-3
   title: FAUXHOPE
   score: 68.64792311388587
@@ -43,52 +67,28 @@ related_articles:
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.95625475084297
-  llm_score: 85
-  recency_score: 0.7156558804792337
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 60.221471044033706
-  llm_score: 75
-  recency_score: 16.439561786218995
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 60.16664040543766
-  llm_score: 75
-  recency_score: 16.083162635344685
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 57.979542885966254
-  llm_score: 75
-  recency_score: 1.867028758780569
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 68.54382383727689
+  llm_score: 85
+  recency_score: 30.53485494229968
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 55.1577380100346
-  llm_score: 70
-  recency_score: 3.5252970652248186
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 66.37531719787985
+  llm_score: 85
+  recency_score: 16.439561786218995
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 13.731795632745534
-  llm_score: 0
-  recency_score: 14.25667161284597
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 64.24410480054608
+  llm_score: 85
+  recency_score: 2.5866812035494737
   length_score: 100
   category_score: 0
   rank: 10

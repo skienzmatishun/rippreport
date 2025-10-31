@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 84.95213413938859
-  llm_score: 90
-  recency_score: 42.18887190602582
+- slug: rule-32
+  title: RULE 32
+  score: 86.4586249901856
+  llm_score: 85
+  recency_score: 71.98106243620636
   length_score: 100
   category_score: 100
   rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 79.0740854321209
-  llm_score: 75
-  recency_score: 63.98155530878573
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 77.55999595804782
-  llm_score: 85
-  recency_score: 14.139973727310823
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 75.88339643332841
-  llm_score: 75
+  score: 82.03724258717456
+  llm_score: 85
   recency_score: 43.242076816634636
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
+  rank: 2
+- slug: lee-county-no-justice-center
+  title: LEE COUNTY NO-JUSTICE CENTER
+  score: 72.54773712683185
+  llm_score: 85
+  recency_score: 56.56029132440696
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
+  rank: 3
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 68.98074514961596
-  llm_score: 75
-  recency_score: 73.37484347250358
+  rank: 4
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 71.40614980420168
+  llm_score: 75
+  recency_score: 14.139973727310823
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 71.06129070672517
+  llm_score: 75
+  recency_score: 11.898389593713517
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: innocent
-  title: INNOCENT
-  score: 63.65725301711783
-  llm_score: 78
-  recency_score: 26.772144611265798
+- slug: earful
+  title: EARFUL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
-  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 59.75169621476063
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 61.393705280396354
   llm_score: 75
-  recency_score: 13.386025395943985
+  recency_score: 24.0590843225762
   length_score: 100
   category_score: 0
   rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 58.2497255036642
+- slug: justified
+  title: JUSTIFIED
+  score: 60.91986039694613
   llm_score: 75
-  recency_score: 3.623215773817211
+  recency_score: 20.979092580149743
   length_score: 100
   category_score: 0
   rank: 10

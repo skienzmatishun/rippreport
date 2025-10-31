@@ -9,59 +9,59 @@ authors:
 rumble: v377p40
 alttags: Donald Trump speaks at an Alabama GOP dinner, endorsed by state congressmen, amid Space Command discussions
 related_articles:
-- slug: what-the
-  title: What the
-  score: 63.03554000627546
-  llm_score: 70
-  recency_score: 54.731010040790416
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 62.5603072174556
+  llm_score: 75
+  recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-crime-of-the-century
-  title: THE CRIME OF THE CENTURY
-  score: 58.256434677593646
-  llm_score: 70
-  recency_score: 23.666825404358608
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 61.00950895333862
+  llm_score: 75
+  recency_score: 21.56180819670091
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 55.90117421096241
-  llm_score: 65
-  recency_score: 28.357632371255608
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 58.161359079099505
+  llm_score: 75
+  recency_score: 3.0488340141466597
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 55.727173970256665
-  llm_score: 70
-  recency_score: 7.226630806668228
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 56.79459359798498
+  llm_score: 65
+  recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ayatollah-of-alabama
-  title: “Ayatollah of Alabama”
-  score: 54.6651279617234
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 54.6564471397989
   llm_score: 70
-  recency_score: 0.32333175120203433
+  recency_score: 0.2669064086927704
   length_score: 100
   category_score: 0
   rank: 5
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 54.62652956339254
-  llm_score: 70
-  recency_score: 0.07244216205141384
+- slug: backstory-153
+  title: No Boomers
+  score: 53.47309624894435
+  llm_score: 50
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 52.76549677849355
-  llm_score: 65
-  recency_score: 7.975729060208014
+- slug: tides-end
+  title: Tide's End
+  score: 52.62030840054831
+  llm_score: 50
+  recency_score: 67.03200460356393
   length_score: 100
   category_score: 0
   rank: 7
@@ -73,19 +73,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 50.87560627631493
-  llm_score: 60
-  recency_score: 15.691440796046965
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 37.38088139387816
+  llm_score: 40
+  recency_score: 7.975729060208014
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 24.031215972902842
-  llm_score: 0
-  recency_score: 81.20290382386844
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 32.501597813003734
+  llm_score: 30
+  recency_score: 16.26038578452423
   length_score: 100
   category_score: 0
   rank: 10
