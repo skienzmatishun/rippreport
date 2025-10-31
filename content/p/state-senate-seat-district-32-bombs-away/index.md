@@ -3,7 +3,8 @@ title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
 date: 2018-05-21
 thumbnail: img/state-senate-seat-district-32-bombs-away.jpg
 categories:
-- monday-madness
+- elections
+- alabama
 tags:
 - bill-roberts
 - catalyst
