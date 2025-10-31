@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Fairhope City Council candidate Troy Vickers at a table with constituents, promoting strong values and local solutions
 related_articles:
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 83.4151103232545
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 83.97790121883867
   llm_score: 95
-  recency_score: 87.19821710115417
+  recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 79.14670050400919
-  llm_score: 85
+  score: 82.22362358093228
+  llm_score: 90
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 2
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 71.67020891114637
-  llm_score: 75
-  recency_score: 90.85635792245131
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 70.02852304420526
+  llm_score: 95
+  recency_score: 0.18539978733415308
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 70.10253091716336
-  llm_score: 95
-  recency_score: 0.6664509615618259
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 67.3400009893656
+  llm_score: 90
+  recency_score: 2.7100064308763563
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.861594651439276
-  llm_score: 85
-  recency_score: 0.10036523435518244
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 67.27777263569868
+  llm_score: 90
+  recency_score: 2.3055221320412933
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 63.85332373686055
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 64.06817376973028
   llm_score: 85
-  recency_score: 0.046604289593504926
+  recency_score: 1.443129503246706
   length_score: 100
   category_score: 0
   rank: 6
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 63.849868762517566
+- slug: no-radar
+  title: NO RADAR
+  score: 64.04028239224311
   llm_score: 85
-  recency_score: 0.024146956364064574
+  recency_score: 1.2618355495801652
   length_score: 100
   category_score: 0
   rank: 7
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 62.03118046433476
-  llm_score: 75
-  recency_score: 28.202673018175854
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 63.84912128319318
+  llm_score: 85
+  recency_score: 0.019288340755563543
   length_score: 100
   category_score: 0
   rank: 8
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 59.92199456498145
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 58.35111978683929
   llm_score: 75
-  recency_score: 14.49296467237936
+  recency_score: 4.282278614455312
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 57.76836858559754
+- slug: pied-piper
+  title: PIED PIPER
+  score: 57.91862662382715
   llm_score: 75
-  recency_score: 0.4943958063839215
+  recency_score: 1.4710730548763988
   length_score: 100
   category_score: 0
   rank: 10

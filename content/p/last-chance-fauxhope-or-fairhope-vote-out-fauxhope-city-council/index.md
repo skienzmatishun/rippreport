@@ -35,14 +35,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 77.18795773853394
-  llm_score: 85
-  recency_score: 86.72172530047058
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 70.35275748952017
+  llm_score: 95
+  recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
   rank: 3
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 70.02836718096464
+  llm_score: 95
+  recency_score: 0.1843866762700733
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 68.16131699006223
@@ -50,52 +58,44 @@ related_articles:
   recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 66.06365666795776
-  llm_score: 85
-  recency_score: 14.41376834172532
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 65.83893732129168
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 64.50136588357796
   llm_score: 85
-  recency_score: 12.953092588395847
+  recency_score: 4.258878243256627
   length_score: 100
   category_score: 0
   rank: 6
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 65.46435189488797
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 64.26079964454098
   llm_score: 85
-  recency_score: 10.518287316771712
+  recency_score: 2.695197689516261
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 63.94812448647935
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 64.0669605491314
   llm_score: 85
-  recency_score: 0.6628091621157032
+  recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 63.921799107184114
+- slug: no-radar
+  title: NO RADAR
+  score: 64.03922158316277
   llm_score: 85
-  recency_score: 0.4916941966966383
+  recency_score: 1.2549402905579714
   length_score: 100
   category_score: 0
   rank: 9
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 63.86868943735981
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 63.85039087811135
   llm_score: 85
-  recency_score: 0.14648134283866024
+  recency_score: 0.02754070772367199
   length_score: 100
   category_score: 0
   rank: 10

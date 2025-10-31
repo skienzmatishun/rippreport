@@ -11,83 +11,83 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: flying-high
-  title: FLYING HIGH
-  score: 63.857608356418815
+- slug: police-report
+  title: POLICE REPORT
+  score: 75.39600730208427
   llm_score: 85
-  recency_score: 0.07445431672220408
+  recency_score: 0.07404746354764352
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 63.85077911383814
-  llm_score: 85
-  recency_score: 0.030064239947851384
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 63.84885734808893
-  llm_score: 85
-  recency_score: 0.017572762577928065
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 57.08007487340861
-  llm_score: 74
+  score: 66.92622871956246
+  llm_score: 90
   recency_score: 0.020486677155934722
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 64.2829556055972
+  llm_score: 85
+  recency_score: 2.839211436381685
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: bonus-money
   title: BONUS MONEY
-  score: 54.62179270788136
-  llm_score: 70
+  score: 63.852561938650595
+  llm_score: 85
   recency_score: 0.041652601228757115
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 54.62028379856603
-  llm_score: 70
+  score: 63.85105302933526
+  llm_score: 85
   recency_score: 0.031844690679118465
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 63.84957563813163
+  llm_score: 85
+  recency_score: 0.022241647855521705
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 54.6182092628394
-  llm_score: 70
-  recency_score: 0.018360208456042304
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 54.618000680261396
-  llm_score: 70
-  recency_score: 0.01700442169897349
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 52.77239988323597
-  llm_score: 67
+  score: 63.84932296015905
+  llm_score: 85
   recency_score: 0.020599241033720052
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 52.77228062984954
-  llm_score: 67
+  score: 63.84920370677262
+  llm_score: 85
   recency_score: 0.019824094021949453
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: no-radar
+  title: NO RADAR
+  score: 57.895691707159116
+  llm_score: 75
+  recency_score: 1.3219960965341453
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 57.69541660787439
+  llm_score: 75
+  recency_score: 0.020207951183464034
   length_score: 100
   category_score: 0
   rank: 10

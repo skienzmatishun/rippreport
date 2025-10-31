@@ -18,83 +18,83 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 63.8577663471762
-  llm_score: 85
-  recency_score: 0.07548125664523891
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 73.0769230769231
+  llm_score: 75
+  recency_score: 100.0
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 54.72163312943678
-  llm_score: 70
-  recency_score: 0.6906153413389834
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 63.954459667489466
+  llm_score: 85
+  recency_score: 0.7039878386814237
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 54.7207634329699
-  llm_score: 70
-  recency_score: 0.6849623143042736
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 63.874833609989025
+  llm_score: 85
+  recency_score: 0.18641846492857508
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 54.71932972982782
-  llm_score: 70
-  recency_score: 0.6756432438807459
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 63.86613017361563
+  llm_score: 85
+  recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 54.71876172515525
-  llm_score: 70
-  recency_score: 0.6719512135090356
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 59.323860807628655
+  llm_score: 75
+  recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 54.63867341642861
-  llm_score: 70
-  recency_score: 0.15137720678588268
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 58.672450840453855
+  llm_score: 75
+  recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 54.62593531087724
-  llm_score: 70
-  recency_score: 0.06857952070196233
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 57.71559649335169
+  llm_score: 75
+  recency_score: 0.15137720678588268
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 54.62579176622922
-  llm_score: 70
-  recency_score: 0.06764648048984126
+- slug: communication
+  title: COMMUNICATION
+  score: 57.71553277574158
+  llm_score: 75
+  recency_score: 0.15096304232014315
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 54.62460987383539
-  llm_score: 70
-  recency_score: 0.059964179929950075
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 57.712726690549246
+  llm_score: 75
+  recency_score: 0.1327234885700072
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 42.312881628069704
-  llm_score: 50
-  recency_score: 0.03373058245303176
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 57.711850945808166
+  llm_score: 75
+  recency_score: 0.12703114775298338
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,14 +9,62 @@ authors:
 - admin
 alttags: Group of men in suits eating cake, possibly symbolizing a hidden deal related to land ownership in Baldwin County
 related_articles:
-- slug: newsletter
-  title: NEWSLETTER
-  score: 69.58422523948525
-  llm_score: 70
-  recency_score: 97.29746405665401
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 63.882753083317176
+  llm_score: 85
+  recency_score: 0.23789504156153407
   length_score: 100
   category_score: 0
   rank: 1
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 58.449914391102574
+  llm_score: 75
+  recency_score: 4.924443542166608
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 58.11152254442203
+  llm_score: 75
+  recency_score: 2.7248965387430797
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 57.72762633546531
+  llm_score: 75
+  recency_score: 0.22957118052443337
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 57.713583308648566
+  llm_score: 75
+  recency_score: 0.1382915062155936
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 57.70774849759312
+  llm_score: 75
+  recency_score: 0.10036523435518244
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 57.70116151506264
+  llm_score: 75
+  recency_score: 0.05754984790703779
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
   score: 55.04038165027784
@@ -24,67 +72,19 @@ related_articles:
   recency_score: 2.76248072680588
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 54.70002263431815
-  llm_score: 70
-  recency_score: 0.5501471230679165
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 54.656222754979474
-  llm_score: 70
-  recency_score: 0.265447907366482
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 54.64863734929861
-  llm_score: 70
-  recency_score: 0.21614277044091165
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 54.62813081142239
-  llm_score: 70
-  recency_score: 0.08285027424544954
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 54.62293761818336
-  llm_score: 70
-  recency_score: 0.04909451819175162
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 54.6193957273202
-  llm_score: 70
-  recency_score: 0.02607222758125002
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 54.61852778862934
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 54.96239075255168
   llm_score: 70
-  recency_score: 0.02043062609065734
+  recency_score: 2.255539891585818
   length_score: 100
   category_score: 0
   rank: 9
 - slug: run-away-train
   title: RUN AWAY TRAIN
-  score: 48.48129706552746
-  llm_score: 60
+  score: 54.63514321937361
+  llm_score: 70
   recency_score: 0.1284309259284028
   length_score: 100
   category_score: 0

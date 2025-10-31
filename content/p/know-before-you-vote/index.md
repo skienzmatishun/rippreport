@@ -11,81 +11,81 @@ alttags: 'YouTube video thumbnail: Watch This Before You Vote - Fairhope City Co
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 78.97993871257283
-  llm_score: 85
+  score: 85.13378486641899
+  llm_score: 95
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 78.5709427369692
-  llm_score: 85
-  recency_score: 95.71112779029973
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 71.74701037350734
+  llm_score: 75
+  recency_score: 91.35556742779755
   length_score: 100
   category_score: 0
   rank: 2
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 65.54150274051449
-  llm_score: 85
-  recency_score: 11.019767813344055
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 63.8636206362684
-  llm_score: 85
-  recency_score: 0.11353413574452939
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 61.573116005293414
-  llm_score: 74
+  score: 68.34234677452419
+  llm_score: 85
   recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 66.32356199703635
+  llm_score: 89
+  recency_score: 0.10315298073621133
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 63.86255395007771
+  llm_score: 85
+  recency_score: 0.10660067550503395
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: back-stabber
-  title: BACK STABBER
-  score: 57.70745519404965
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 57.70977448242225
   llm_score: 75
-  recency_score: 0.09845876132263415
+  recency_score: 0.11353413574452939
   length_score: 100
   category_score: 0
   rank: 6
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 54.801187236209564
-  llm_score: 70
-  recency_score: 1.2077170353621032
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 57.70861817840095
+  llm_score: 75
+  recency_score: 0.10601815960603846
   length_score: 100
   category_score: 0
   rank: 7
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 54.6735355002787
-  llm_score: 70
-  recency_score: 0.37798075181147806
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 57.70848466903138
+  llm_score: 75
+  recency_score: 0.10515034870386371
   length_score: 100
   category_score: 0
   rank: 8
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 54.66636975687618
-  llm_score: 70
-  recency_score: 0.3314034196950972
+- slug: hell-yea
+  title: HELL YEA
+  score: 57.708308354963734
+  llm_score: 75
+  recency_score: 0.10400430726416052
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 54.6315615921083
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 54.632755958796814
   llm_score: 70
-  recency_score: 0.10515034870386371
+  recency_score: 0.11291373217919946
   length_score: 100
   category_score: 0
   rank: 10

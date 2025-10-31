@@ -10,81 +10,81 @@ authors:
 related_articles:
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 85.13378486641899
-  llm_score: 95
+  score: 78.97993871257283
+  llm_score: 85
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 78.81499447025448
-  llm_score: 85
-  recency_score: 97.29746405665401
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 66.32360553525145
+  llm_score: 89
+  recency_score: 0.10343597913435872
   length_score: 100
   category_score: 0
   rank: 2
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 68.26904091838546
-  llm_score: 85
+  score: 65.19211784146238
+  llm_score: 80
   recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
   rank: 3
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 65.51386179980423
+- slug: 100-voices
+  title: 100 VOICES
+  score: 63.87293500549242
   llm_score: 85
-  recency_score: 10.840101698727413
+  recency_score: 0.17407753570064635
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.86206707371299
-  llm_score: 85
-  recency_score: 0.10343597913435872
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 57.8750809902345
-  llm_score: 75
-  recency_score: 1.1880264365241602
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 54.665538495961236
-  llm_score: 70
-  recency_score: 0.3260002237479753
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 54.632566627238155
-  llm_score: 70
+  score: 63.86333585800739
+  llm_score: 85
   recency_score: 0.11168307704791358
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 63.862286563050944
+  llm_score: 85
+  recency_score: 0.10486265983102791
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: hell-yea
+  title: HELL YEA
+  score: 57.70804748042087
+  llm_score: 75
+  recency_score: 0.10230862273558813
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 57.70791864249563
+  llm_score: 75
+  recency_score: 0.10147117622145942
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: back-stabber
-  title: BACK STABBER
-  score: 54.63028515250534
-  llm_score: 70
-  recency_score: 0.09685349128460453
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 56.47758302173259
+  llm_score: 73
+  recency_score: 0.10428964126174459
   length_score: 100
   category_score: 0
   rank: 9
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 51.59566433227717
-  llm_score: 65
-  recency_score: 0.37181815980154354
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 54.632472736697274
+  llm_score: 70
+  recency_score: 0.11107278853218952
   length_score: 100
   category_score: 0
   rank: 10

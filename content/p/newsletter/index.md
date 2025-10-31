@@ -8,83 +8,83 @@ authors:
 - ripp-report
 alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and information from The Ripp Report consumer group'
 related_articles:
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 69.58422523948525
-  llm_score: 70
-  recency_score: 97.29746405665401
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 70.0015375102448
+  llm_score: 95
+  recency_score: 0.009993816591181603
   length_score: 100
   category_score: 0
   rank: 1
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 66.93116538309376
+- slug: exposure-2
+  title: EXPOSURE
+  score: 66.94299859577815
   llm_score: 90
-  recency_score: 0.05257499010930886
+  recency_score: 0.12949087255788053
   length_score: 100
   category_score: 0
   rank: 2
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 55.028895952651695
-  llm_score: 70
-  recency_score: 2.6878236922359457
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 64.03144811539258
+  llm_score: 85
+  recency_score: 1.2044127500516812
   length_score: 100
   category_score: 0
   rank: 3
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 54.64773868221244
-  llm_score: 70
-  recency_score: 0.21030143438080218
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 63.93729014402612
+  llm_score: 85
+  recency_score: 0.5923859361696956
   length_score: 100
   category_score: 0
   rank: 4
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 54.630326031868265
-  llm_score: 70
-  recency_score: 0.09711920714364118
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 63.855766122775954
+  llm_score: 85
+  recency_score: 0.06247979804359676
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 54.628775148128426
-  llm_score: 70
-  recency_score: 0.08703846283467485
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 63.854242306170676
+  llm_score: 85
+  recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
   rank: 6
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 54.62778634089306
-  llm_score: 70
-  recency_score: 0.08061121580480553
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 63.85156086897218
+  llm_score: 85
+  recency_score: 0.03514564831905083
   length_score: 100
   category_score: 0
   rank: 7
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 54.62273349556792
-  llm_score: 70
-  recency_score: 0.047767721191407035
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 63.84774710390839
+  llm_score: 85
+  recency_score: 0.010356175404449166
   length_score: 100
   category_score: 0
   rank: 8
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 54.61688879339388
-  llm_score: 70
-  recency_score: 0.009777157060142481
+- slug: fear
+  title: FEAR
+  score: 57.70916332578476
+  llm_score: 75
+  recency_score: 0.10956161760080699
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 54.039734474193715
-  llm_score: 69
-  recency_score: 0.25827408225904297
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 57.705698225051506
+  llm_score: 75
+  recency_score: 0.08703846283467485
   length_score: 100
   category_score: 0
   rank: 10

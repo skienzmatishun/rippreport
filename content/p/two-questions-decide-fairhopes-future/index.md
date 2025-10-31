@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: 'Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre...'
 related_articles:
-- slug: qualified-daphne-district-6-city-council
-  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 79.14670050400919
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 79.10483856939815
   llm_score: 85
-  recency_score: 99.45355327605971
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 78.81499447025448
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 77.86240319246455
   llm_score: 85
-  recency_score: 97.29746405665401
+  recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 2
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 78.5709427369692
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 70.77787215799938
   llm_score: 85
-  recency_score: 95.71112779029973
+  recency_score: 45.05616902699594
   length_score: 100
   category_score: 0
   rank: 3
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 64.02398763000934
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 65.85538385947929
   llm_score: 85
-  recency_score: 1.155919595060642
+  recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.86163701301846
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 64.0687828775067
   llm_score: 85
-  recency_score: 0.10064058461990079
+  recency_score: 1.4470887037935367
   length_score: 100
   category_score: 0
   rank: 5
-- slug: selective-memory
-  title: Selective Memory
-  score: 63.849349115009865
+- slug: skunked
+  title: SKUNKED
+  score: 63.86025988143777
   llm_score: 85
-  recency_score: 0.020769247564044847
+  recency_score: 0.09168922934541576
   length_score: 100
   category_score: 0
   rank: 6
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 59.314945239080636
-  llm_score: 75
-  recency_score: 10.547144054024043
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 63.850868673649686
+  llm_score: 85
+  recency_score: 0.030646378722854063
   length_score: 100
   category_score: 0
   rank: 7
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 58.918741574755565
-  llm_score: 70
-  recency_score: 27.971820235911103
+- slug: game-on
+  title: GAME ON
+  score: 63.84788358873972
+  llm_score: 85
+  recency_score: 0.011243326808078654
   length_score: 100
   category_score: 0
   rank: 8
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 57.711064077667665
-  llm_score: 75
-  recency_score: 0.1219165048397373
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 63.847764660291
+  llm_score: 85
+  recency_score: 0.010470291891376842
   length_score: 100
   category_score: 0
   rank: 9
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 54.63210227719202
-  llm_score: 70
-  recency_score: 0.1086648017480589
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 57.701308260174265
+  llm_score: 75
+  recency_score: 0.058503691132646064
   length_score: 100
   category_score: 0
   rank: 10

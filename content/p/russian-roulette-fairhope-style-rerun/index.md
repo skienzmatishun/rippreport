@@ -8,83 +8,83 @@ authors:
 - ripp-report
 alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article
 related_articles:
-- slug: police-report
-  title: POLICE REPORT
-  score: 66.16523807131503
-  llm_score: 70
-  recency_score: 0.07404746354764352
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 73.0769230769231
+  llm_score: 75
+  recency_score: 100.0
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 54.676307960637935
-  llm_score: 70
-  recency_score: 0.39600174414651
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 54.671654775783274
-  llm_score: 70
-  recency_score: 0.36575604259118294
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 54.64891178571631
-  llm_score: 70
-  recency_score: 0.2179266071559293
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 54.634927868885086
-  llm_score: 70
+  score: 70.01954325350047
+  llm_score: 95
   recency_score: 0.12703114775298338
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 64.82629699430001
+  llm_score: 85
+  recency_score: 6.370930462949982
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 63.954459667489466
+  llm_score: 85
+  recency_score: 0.7039878386814237
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 63.86944264719784
+  llm_score: 85
+  recency_score: 0.15137720678588268
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 54.62728701140887
-  llm_score: 70
-  recency_score: 0.07736557415756225
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 63.86613017361563
+  llm_score: 85
+  recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
   rank: 6
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 54.62304179589198
-  llm_score: 70
-  recency_score: 0.04977167329776623
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 54.62182791709245
-  llm_score: 70
+  score: 63.85259714786169
+  llm_score: 85
   recency_score: 0.041881461100881215
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: fraud
+  title: FRAUD
+  score: 63.84793651142803
+  llm_score: 85
+  recency_score: 0.011587324282087415
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 54.61966833592966
-  llm_score: 70
-  recency_score: 0.027844183542706274
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 59.323860807628655
+  llm_score: 75
+  recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
   rank: 9
-- slug: barstool
-  title: BARSTOOL
-  score: 42.326916928306595
-  llm_score: 50
-  recency_score: 0.12496003399281562
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 57.712726690549246
+  llm_score: 75
+  recency_score: 0.1327234885700072
   length_score: 100
   category_score: 0
   rank: 10
