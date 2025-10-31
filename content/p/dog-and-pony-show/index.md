@@ -14,83 +14,83 @@ authors:
 - ripp-report
 alttags: 'Group in animal costumes: dog, horse, kangaroo, and others, referencing a “dog and pony show” meeting about local council ...'
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 81.24710598799774
+- slug: do-your-job-pass-the-budget
+  title: DO YOUR JOB, PASS THE BUDGET
+  score: 76.90203293208059
   llm_score: 100
-  recency_score: 53.10618892198522
+  recency_score: 24.863214058523702
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 78.61133993770366
-  llm_score: 85
-  recency_score: 95.97370959507373
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 72.83857121561098
-  llm_score: 85
-  recency_score: 58.450712901471334
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: catalyst-party
-  title: CATALYST PARTY
-  score: 63.72010531737389
-  llm_score: 75
-  recency_score: 39.1806845629302
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 52.15100850904397
-  llm_score: 50
-  recency_score: 63.98155530878573
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 50.327001718506565
-  llm_score: 56
-  recency_score: 28.125511170292626
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 44.28167723075092
-  llm_score: 52
-  recency_score: 4.830901999880929
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
-  score: 26.923076923076927
-  llm_score: 0
+  score: 74.30769230769232
+  llm_score: 77
   recency_score: 100.0
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 16.896368939177385
+  rank: 2
+- slug: transparency
+  title: TRANSPARENCY
+  score: 68.24232701817512
+  llm_score: 74
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 65.60299803877962
+  llm_score: 73
+  recency_score: 59.41948725206741
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: flying-high
+  title: FLYING HIGH
+  score: 62.35865730190514
+  llm_score: 73
+  recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 60.88442553377008
+  llm_score: 73
+  recency_score: 28.748765969505406
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst
+  title: CATALYST
+  score: 20.15100850904396
+  llm_score: -2
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 18.860598761084308
   llm_score: 0
-  recency_score: 34.826398104653
+  recency_score: 47.593891947047986
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 14.074563605599185
+  llm_score: 0
+  recency_score: 16.48466343639469
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 16.896368939177385
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 13.542194345882027
   llm_score: 0
-  recency_score: 34.826398104653
+  recency_score: 13.024263248233176
   length_score: 100
   category_score: 0
   rank: 10

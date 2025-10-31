@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Fairhope Council members Burrell, Boone, and Brown in bee costumes, referencing concerns about potential personal gain
 related_articles:
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 73.15530775847412
-  llm_score: 70
-  recency_score: 85.7765387923706
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 87.36457134230663
+  llm_score: 100
+  recency_score: 92.86971372499306
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 69.68037997726903
-  llm_score: 85
-  recency_score: 8.401899886345134
+- slug: disposal
+  title: DISPOSAL
+  score: 84.15093268249329
+  llm_score: 100
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 69.55629440789875
-  llm_score: 85
-  recency_score: 7.781472039493755
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 77.70776380351886
+  llm_score: 83
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 69.33493547651477
-  llm_score: 85
-  recency_score: 6.674677382573833
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 77.47932682764232
+  llm_score: 84
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 69.1355247284506
-  llm_score: 75
-  recency_score: 45.67762364225301
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 76.56430232593213
+  llm_score: 82
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 68.05638790447402
-  llm_score: 85
-  recency_score: 0.28193952237011366
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 72.73507706794429
+  llm_score: 81
+  recency_score: 73.7780009416378
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: queen-bee
-  title: QUEEN BEE
-  score: 66.92721807862874
-  llm_score: 75
-  recency_score: 34.63609039314372
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 23.332740550658407
+  llm_score: 0
+  recency_score: 76.66281357927963
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 66.20034869269523
-  llm_score: 65
-  recency_score: 71.00174346347615
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 22.283712645630715
+  llm_score: 0
+  recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 62.12683802857672
-  llm_score: 75
-  recency_score: 10.634190142883599
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 21.877934829369664
+  llm_score: -2
+  recency_score: 75.2065763909028
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 53.712917448470805
-  llm_score: 65
-  recency_score: 8.564587242354007
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 11.692260120269403
+  llm_score: 0
+  recency_score: 0.9996907817511175
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 he Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.

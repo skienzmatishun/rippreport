@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology
 related_articles:
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 83.95555812158459
+- slug: rumors
+  title: RUMORS
+  score: 82.60917612873378
   llm_score: 75
-  recency_score: 95.71112779029973
+  recency_score: 86.95964483676948
   length_score: 100
   category_score: 100
   rank: 1
 - slug: non-lethal
   title: NON-LETHAL
-  score: 81.79696605739635
-  llm_score: 90
+  score: 72.56619682662712
+  llm_score: 75
   recency_score: 21.680279373076186
   length_score: 100
   category_score: 100
   rank: 2
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 80.81642379276708
-  llm_score: 85
-  recency_score: 35.306754652986015
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: rumors
-  title: RUMORS
-  score: 79.5322530518107
-  llm_score: 70
-  recency_score: 86.95964483676948
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 77.63270397064903
-  llm_score: 85
+  score: 71.47885781680289
+  llm_score: 75
   recency_score: 14.612575809218715
   length_score: 100
   category_score: 100
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 71.44827205257315
+  llm_score: 75
+  recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: cover-up
+  title: COVER UP
+  score: 66.3938909729857
+  llm_score: 75
+  recency_score: 56.56029132440696
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 71.59898097579024
-  llm_score: 75
-  recency_score: 15.39337634263649
+- slug: justified
+  title: JUSTIFIED
+  score: 65.06314519783118
+  llm_score: 85
+  recency_score: 7.9104437859025545
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 71.54763966475095
-  llm_score: 75
-  recency_score: 15.05965782088104
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 60.5555494476633
+  llm_score: 65
+  recency_score: 58.61107140981138
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.5148738267747
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 58.46036397413822
   llm_score: 75
-  recency_score: 1.8466798740354857
+  recency_score: 4.992365831898315
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 68.20760023789676
-  llm_score: 70
-  recency_score: 13.34940154632884
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 58.42340600807722
+  llm_score: 75
+  recency_score: 4.7521390525018266
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 9
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 55.31512705866351
-  llm_score: 70
-  recency_score: 4.548325881312761
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 55.34266920612841
+  llm_score: 65
+  recency_score: 24.727349839834638
   length_score: 100
   category_score: 0
   rank: 10

@@ -19,83 +19,83 @@ authors:
 - admin
 alttags: Mayor wearing a donkey mask, symbolizing criticism over Fairhope’s public gathering decision during health concerns
 related_articles:
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 72.5852090245464
-  llm_score: 95
-  recency_score: 16.8038586595515
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 71.41301976220716
+  llm_score: 85
+  recency_score: 49.18462845434644
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 68.82202711084888
-  llm_score: 85
-  recency_score: 32.34317622051765
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 69.48658670450457
+  llm_score: 75
+  recency_score: 76.66281357927963
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 64.67772350404061
-  llm_score: 85
-  recency_score: 5.405202776263941
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 66.54836891495758
+  llm_score: 65
+  recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 3
-- slug: jack-ass
-  title: JACK ASS
-  score: 64.38999517785442
-  llm_score: 85
-  recency_score: 3.5349686560536235
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 57.80557066115183
+  llm_score: 60
+  recency_score: 60.73620929748681
   length_score: 100
   category_score: 0
   rank: 4
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 58.205742614774266
-  llm_score: 75
-  recency_score: 3.337326996032608
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 57.35877910250058
+  llm_score: 50
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 57.82641731357103
-  llm_score: 75
-  recency_score: 0.8717125382115642
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 48.947596854845614
+  llm_score: 60
+  recency_score: 3.1593795564963942
   length_score: 100
   category_score: 0
   rank: 6
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 26.514814010893296
-  llm_score: 23
-  recency_score: 5.346291070806423
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 39.708902935963025
+  llm_score: 45
+  recency_score: 3.107869083759611
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 18.43322952190946
-  llm_score: -2
-  recency_score: 52.81599189241148
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 30.17726677594124
+  llm_score: 25
+  recency_score: 21.152234043618023
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 12.277615952948587
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 26.672246404880518
   llm_score: 0
-  recency_score: 4.804503694165815
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 9
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 11.817934097769525
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 11.672571159724855
   llm_score: 0
-  recency_score: 1.8165716355019172
+  recency_score: 0.8717125382115642
   length_score: 100
   category_score: 0
   rank: 10

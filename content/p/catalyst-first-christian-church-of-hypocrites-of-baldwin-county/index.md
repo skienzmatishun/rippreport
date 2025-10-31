@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Interior view of a church sanctuary with rows of pews, an organ loft, and arched windows, reflecting the congregation’s fo...
 related_articles:
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 80.04222555805995
-  llm_score: 87
-  recency_score: 95.71112779029973
-  category_score: 0
-  rank: 1
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 75.30167323219754
-  llm_score: 85
-  recency_score: 79.0083661609877
-  category_score: 0
-  rank: 2
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 72.22789538259508
-  llm_score: 75
+  score: 71.63684260199622
+  llm_score: 73
   recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 68.00151487477555
-  llm_score: 75
-  recency_score: 77.50757437387774
+  rank: 1
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 69.95555812158459
+  llm_score: 71
+  recency_score: 95.71112779029973
+  length_score: 100
   category_score: 0
-  rank: 4
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 66.97322154942498
-  llm_score: 70
-  recency_score: 89.86610774712484
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 65.01962391400207
-  llm_score: 70
+  score: 68.16894147230929
+  llm_score: 72
   recency_score: 80.0981195700103
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 67.23626897714855
+  llm_score: 73
+  recency_score: 70.03574835146556
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 66.70630361340297
+  llm_score: 71
+  recency_score: 74.59097348711927
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 57.684848310823114
+  llm_score: 71
+  recency_score: 15.95151402035018
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 63.13181386565738
-  llm_score: 65
-  recency_score: 88.15906932828686
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 25.48299644815006
+  llm_score: -2
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 59.85682478958159
-  llm_score: 65
-  recency_score: 71.78412394790789
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 14.006024535674847
+  llm_score: 0
+  recency_score: 16.039159481886507
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-2
-  title: CATALYST
-  score: 56.291336422161756
-  llm_score: 75
-  recency_score: 18.956682110808735
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 13.684245556961777
+  llm_score: 0
+  recency_score: 13.947596120251541
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 55.04838111563866
-  llm_score: 75
-  recency_score: 12.741905578193274
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 0
+  llm_score: -2350
+  recency_score: 12.39755100007539
+  length_score: 100
   category_score: 0
   rank: 10
 ---

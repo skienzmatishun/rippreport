@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described in Emma Lazaruss “New Colossus” poem
 related_articles:
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 71.76770197286933
-  llm_score: 90
-  recency_score: 43.83850986434665
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 58.63856232685347
+  llm_score: 53
+  recency_score: 94.15065512454748
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 71.68056760504163
-  llm_score: 85
-  recency_score: 60.90283802520807
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 49.93117703720251
+  llm_score: 51
+  recency_score: 45.55265074181627
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: kindness
-  title: RANDOM ACTS OF KINDNESS
-  score: 57.41650071517823
-  llm_score: 65
-  recency_score: 59.582503575891096
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 48.35904872057042
+  llm_score: 48
+  recency_score: 47.33381668370766
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 52.79021175326757
-  llm_score: 75
-  recency_score: 1.4510587663378074
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 44.25117637994402
+  llm_score: 53
+  recency_score: 0.632646469636104
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: wonderful-wednesday
-  title: WONDERFUL WEDNESDAY
-  score: 48.382753668345075
-  llm_score: 65
-  recency_score: 14.41376834172532
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 43.43442206680047
+  llm_score: 47
+  recency_score: 19.323743434203013
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: exposure-2
-  title: EXPOSURE
-  score: 46.69014258029427
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 42.9522217787495
   llm_score: 50
-  recency_score: 58.450712901471334
+  recency_score: 4.189441561871679
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 46.626262179140305
-  llm_score: 50
-  recency_score: 58.1313108957015
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 42.940353341352136
+  llm_score: 51
+  recency_score: 0.1122967187888275
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 45.85641304329026
-  llm_score: 65
-  recency_score: 1.782065216451268
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 42.36941896228692
+  llm_score: 49
+  recency_score: 4.401223254864941
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 38.14689799787467
-  llm_score: 50
-  recency_score: 15.734489989373342
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 42.31258359534894
+  llm_score: 49
+  recency_score: 4.031793369768071
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 32.222660548191314
-  llm_score: 45
-  recency_score: 3.6133027409565597
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 41.7102105241624
+  llm_score: 49
+  recency_score: 0.11636840705555697
+  length_score: 100
   category_score: 0
   rank: 10
 ---

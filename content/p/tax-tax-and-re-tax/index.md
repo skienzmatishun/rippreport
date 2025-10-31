@@ -14,83 +14,83 @@ authors:
 - ripp-report
 alttags: School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo...
 related_articles:
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 85.06668293825948
-  llm_score: 100
-  recency_score: 77.93343909868652
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 76.86300448905382
-  llm_score: 85
-  recency_score: 84.60952917884977
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 72.4980018136055
-  llm_score: 75
-  recency_score: 96.23701178843567
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 70.4624279853087
-  llm_score: 85
-  recency_score: 43.0057819045064
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: goat-hill-piggy-bank
   title: GOAT HILL PIGGY-BANK
-  score: 65.02882517734518
-  llm_score: 66
+  score: 68.72113286965288
+  llm_score: 72
   recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 67.79216500087747
+  llm_score: 71
+  recency_score: 81.64907250570349
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 62.58217291506276
+  llm_score: 65
+  recency_score: 71.78412394790789
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 61.24981038689871
+  llm_score: 70
+  recency_score: 43.12376751484153
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 58.861377809749044
+  llm_score: 66
+  recency_score: 43.598955763368686
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 62.43943968037714
-  llm_score: 60
-  recency_score: 90.85635792245131
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 24.555312181361508
+  llm_score: 0
+  recency_score: 84.60952917884977
   length_score: 100
   category_score: 0
   rank: 6
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 24.734852121903174
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 23.928956619064913
   llm_score: 0
-  recency_score: 85.7765387923706
+  recency_score: 80.5382180239219
   length_score: 100
   category_score: 0
   rank: 7
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 24.168875793486443
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 13.620542819024811
   llm_score: 0
-  recency_score: 82.09769265766185
+  recency_score: 13.53352832366127
   length_score: 100
   category_score: 0
   rank: 8
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 23.462703749827348
-  llm_score: 0
-  recency_score: 77.50757437387774
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 3.6138808314656696
+  llm_score: -23
+  recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 9
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 12.016595243655324
-  llm_score: 0
-  recency_score: 3.107869083759611
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 0
+  llm_score: -23456789100
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 10

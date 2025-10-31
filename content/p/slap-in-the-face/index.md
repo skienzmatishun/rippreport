@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: Hand raised in a slapping gesture against a stark background, symbolizing corruption and injustice in the judicial system
 related_articles:
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 76.26056418186901
-  llm_score: 100
-  recency_score: 20.693667182148534
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 67.92050993843613
+  llm_score: 75
+  recency_score: 66.48331459983474
   length_score: 100
   category_score: 0
   rank: 1
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 70.21345836940752
-  llm_score: 85
-  recency_score: 41.38747940114875
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 67.78135288548998
+  llm_score: 75
+  recency_score: 65.57879375568477
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-big-lie
-  title: THE BIG LIE
-  score: 68.48419201931206
-  llm_score: 73
-  recency_score: 78.14724812552835
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 62.342752338753904
+  llm_score: 65
+  recency_score: 70.22789020190031
   length_score: 100
   category_score: 0
   rank: 3
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 56.183604775059834
-  llm_score: 68
-  recency_score: 18.193431037888864
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 61.799830254668926
+  llm_score: 75
+  recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 34.346207551681864
-  llm_score: 25
-  recency_score: 48.25034908593207
+- slug: threesome
+  title: THREESOME
+  score: 61.64526466485993
+  llm_score: 75
+  recency_score: 25.694220321589416
   length_score: 100
   category_score: 0
   rank: 5
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 28.84763048805486
-  llm_score: 12
-  recency_score: 64.50959817235656
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 61.064488941399134
+  llm_score: 75
+  recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
   rank: 6
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 20.882493738074896
-  llm_score: 0
-  recency_score: 60.73620929748681
+- slug: barstool
+  title: BARSTOOL
+  score: 60.03470812209066
+  llm_score: 75
+  recency_score: 15.225602793589186
   length_score: 100
   category_score: 0
   rank: 7
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 17.68297639075538
-  llm_score: 0
-  recency_score: 39.93934653990996
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 58.929469713389686
+  llm_score: 75
+  recency_score: 8.041553137032842
   length_score: 100
   category_score: 0
   rank: 8
-- slug: loser
-  title: LOSER
-  score: 13.626254972595234
-  llm_score: 0
-  recency_score: 13.570657321869012
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.897370245248545
+  llm_score: 75
+  recency_score: 1.3329065941154306
   length_score: 100
   category_score: 0
   rank: 9
-- slug: joke
-  title: JOKE LLP
-  score: 12.08379488934195
-  llm_score: 0
-  recency_score: 3.544666780722678
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 57.80557066115183
+  llm_score: 60
+  recency_score: 60.73620929748681
   length_score: 100
   category_score: 0
   rank: 10

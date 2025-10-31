@@ -19,81 +19,81 @@ authors:
 related_articles:
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 88.37746973477843
-  llm_score: 100
+  score: 72.99285435016304
+  llm_score: 75
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 78.01685066683008
-  llm_score: 85
-  recency_score: 92.10952933439548
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 72.66114831640833
+  llm_score: 75
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 77.95190210042212
-  llm_score: 87
-  recency_score: 83.68736365274363
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 70.96120573440335
+  llm_score: 75
+  recency_score: 86.24783727362167
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 69.06668293825948
-  llm_score: 74
-  recency_score: 77.93343909868652
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 69.58392545835788
+  llm_score: 75
+  recency_score: 77.29551547932614
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 65.61747232656617
-  llm_score: 85
-  recency_score: 11.51357012268003
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 69.32612281559554
+  llm_score: 75
+  recency_score: 75.61979830137088
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 60.11963958267825
-  llm_score: 75
-  recency_score: 15.777657287408536
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 61.3365174850375
+  llm_score: 60
+  recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 59.294425898726985
-  llm_score: 74
-  recency_score: 14.41376834172532
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 59.73483910444821
+  llm_score: 75
+  recency_score: 13.276454178913294
   length_score: 100
   category_score: 0
   rank: 7
-- slug: sting
-  title: Sting
-  score: 38.67354453900548
-  llm_score: 23
-  recency_score: 84.37803950353559
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 55.68609920565686
+  llm_score: 50
+  recency_score: 86.95964483676948
   length_score: 100
   category_score: 0
   rank: 8
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 13.660858497991768
-  llm_score: 0
-  recency_score: 13.795580236946487
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 37.88202236498835
+  llm_score: 40
+  recency_score: 11.233145372424257
   length_score: 100
   category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 11.892186811983247
-  llm_score: 0
-  recency_score: 2.2992142778911093
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 32.501597813003734
+  llm_score: 30
+  recency_score: 16.26038578452423
   length_score: 100
   category_score: 0
   rank: 10

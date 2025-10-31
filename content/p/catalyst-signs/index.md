@@ -17,74 +17,84 @@ authors:
 - admin
 alttags: Sign displaying a red prohibition symbol over the word CATALYST, referencing a political consulting firm rebranding due ...
 related_articles:
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 86.39071065521195
-  llm_score: 95
-  recency_score: 99.45355327605971
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 71.67020891114637
+  llm_score: 75
+  recency_score: 90.85635792245131
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 80.62789538259509
-  llm_score: 87
-  recency_score: 98.63947691297537
-  category_score: 0
-  rank: 2
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 80.46641283325074
-  llm_score: 87
-  recency_score: 97.83206416625366
-  category_score: 0
-  rank: 3
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 75.65183464323572
-  llm_score: 85
-  recency_score: 80.75917321617852
-  category_score: 0
-  rank: 4
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 75.38849539476566
-  llm_score: 85
+  score: 69.91422722674281
+  llm_score: 75
   recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 66.88399494340732
+  llm_score: 75
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 63.76208511939382
+  llm_score: 60
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 62.98599319997864
+  llm_score: 60
+  recency_score: 94.40895579986105
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 61.77761657380538
-  llm_score: 85
-  recency_score: 11.388082869026867
-  category_score: 0
-  rank: 6
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 61.319336728145835
-  llm_score: 85
-  recency_score: 9.096683640729124
-  category_score: 0
-  rank: 7
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 54.925756009887564
-  llm_score: 75
-  recency_score: 12.128780049437779
-  category_score: 0
-  rank: 8
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 54.53005125332289
+  score: 59.25388557947915
   llm_score: 75
   recency_score: 10.150256266614415
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 57.35877910250058
+  llm_score: 50
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 53.04953464330208
+  llm_score: 65
+  recency_score: 9.821975181463475
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 52.90386532726786
+  llm_score: 65
+  recency_score: 8.875124627241007
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 51.23435244350825
-  llm_score: 70
-  recency_score: 11.171762217541199
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 45.17530414045776
+  llm_score: 30
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 10
 ---

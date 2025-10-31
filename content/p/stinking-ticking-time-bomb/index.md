@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Cartoon water droplet mascot labeled Crystal Clean, representing Baldwin County Sewer Service, a privately operated, unr...
 related_articles:
-- slug: fly-creek-mud
-  title: FLY CREEK MUD
-  score: 70.5709427369692
-  llm_score: 72
-  recency_score: 95.71112779029973
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 66.80386526637244
-  llm_score: 70
+  score: 76.03463449714167
+  llm_score: 85
   recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 67.03633989192106
+  llm_score: 75
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 65.00141556325305
-  llm_score: 85
-  recency_score: 7.509201161144759
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 66.2052462309406
+  llm_score: 75
+  recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 57.885375429316625
-  llm_score: 75
-  recency_score: 1.2549402905579714
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 55.44467911830984
-  llm_score: 70
+  score: 64.67544834907908
+  llm_score: 85
   recency_score: 5.390414269013892
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 64.30858183146253
+  llm_score: 75
+  recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: timeline
-  title: TIMELINE
-  score: 55.37506979490447
-  llm_score: 70
-  recency_score: 4.937953666878992
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 61.63444946786039
+  llm_score: 75
+  recency_score: 25.623921541092447
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 55.36885139719357
-  llm_score: 70
-  recency_score: 4.897534081758149
+- slug: going-down
+  title: GOING DOWN
+  score: 58.610076215901685
+  llm_score: 75
+  recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
   rank: 7
-- slug: grinder-pumps
-  title: GRINDER PUMPS
-  score: 54.78190136302794
-  llm_score: 70
-  recency_score: 1.082358859681554
+- slug: straw-man
+  title: STRAW MAN
+  score: 58.47523597302505
+  llm_score: 75
+  recency_score: 5.089033824662729
   length_score: 100
   category_score: 0
   rank: 8
-- slug: wetlands
-  title: WETLANDS
-  score: 51.66030865596499
-  llm_score: 65
-  recency_score: 0.7920062637723839
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 57.72370125117081
+  llm_score: 75
+  recency_score: 0.20405813261015537
   length_score: 100
   category_score: 0
   rank: 9
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 11.658650897800474
-  llm_score: 0
-  recency_score: 0.7812308357030797
+- slug: priorities
+  title: Priorities
+  score: 47.31925009509819
+  llm_score: 40
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 10

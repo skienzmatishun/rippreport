@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Political figure speaks at a podium with American flags behind him, referencing a podcast about older politicians
 related_articles:
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 59.41241300968158
-  llm_score: 68
-  recency_score: 39.1806845629302
+- slug: offensive
+  title: Offensive
+  score: 71.6319657032462
+  llm_score: 75
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 58.14834138585108
-  llm_score: 70
-  recency_score: 22.96421900803196
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 68.85771163355973
+  llm_score: 75
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 57.524629629590855
-  llm_score: 50
-  recency_score: 98.91009259234048
+- slug: tides-end
+  title: Tide's End
+  score: 65.17670177621427
+  llm_score: 75
+  recency_score: 48.648561545392695
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-180
-  title: THE 180
-  score: 57.49213794697661
-  llm_score: 68
-  recency_score: 26.69889665534791
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 63.80707186648424
+  llm_score: 70
+  recency_score: 59.74596713214747
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 54.15932805707375
-  llm_score: 65
-  recency_score: 17.035632370979314
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 63.14032693270515
+  llm_score: 60
+  recency_score: 20.412125062583367
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 53.85366677140719
-  llm_score: 68
-  recency_score: 3.0488340141466597
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 63.06491441824909
+  llm_score: 75
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 0
   rank: 6
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 51.56763873837933
-  llm_score: 60
-  recency_score: 20.189651799465537
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 62.61247114403176
+  llm_score: 65
+  recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp-128
-  title: Big News
-  score: 17.435580378828206
-  llm_score: 0
-  recency_score: 38.33127246238332
+- slug: he-must-go
+  title: He Must Go
+  score: 56.75156956586185
+  llm_score: 65
+  recency_score: 33.88520217810198
   length_score: 100
   category_score: 0
   rank: 8
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 13.070376702786344
-  llm_score: 0
-  recency_score: 9.957448568111234
+- slug: the-180
+  title: THE 180
+  score: 55.645984100822766
+  llm_score: 65
+  recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 11.9342379029006
-  llm_score: 0
-  recency_score: 2.572546368853898
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 54.77486897748408
+  llm_score: 65
+  recency_score: 21.03664835364649
   length_score: 100
   category_score: 0
   rank: 10

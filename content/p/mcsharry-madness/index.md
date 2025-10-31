@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: crazy
-  title: CRAZY
-  score: 77.11279159575759
-  llm_score: 85
-  recency_score: 11.233145372424257
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 76.54596580758859
-  llm_score: 85
-  recency_score: 82.54877774932578
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 76.10160400302804
-  llm_score: 85
-  recency_score: 79.6604260196822
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 68.67430639531761
-  llm_score: 85
+  score: 62.52046024147146
+  llm_score: 75
   recency_score: 31.3829915695644
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 67.07395916848306
-  llm_score: 70
-  recency_score: 80.98073459513984
+  rank: 1
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 60.77298300710898
+  llm_score: 75
+  recency_score: 20.024389546208226
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 2
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 59.27300744684015
+  llm_score: 65
+  recency_score: 50.274548404460894
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 65.40569206559196
-  llm_score: 75
+  score: 56.174922834822745
+  llm_score: 60
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 61.62750673164382
+  rank: 4
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 54.91064278755297
   llm_score: 65
-  recency_score: 65.57879375568477
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 54.67878847116668
+  llm_score: 65
+  recency_score: 20.412125062583367
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 40.40196534134718
+  llm_score: 45
+  recency_score: 7.612774718756618
   length_score: 100
   category_score: 0
   rank: 7
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 59.771674592225004
-  llm_score: 70
-  recency_score: 33.51588484946244
+- slug: surrender
+  title: SURRENDER
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 8
-- slug: joke
-  title: JOKE LLP
-  score: 54.79517798044438
-  llm_score: 70
-  recency_score: 1.1686568728883742
+- slug: barstool
+  title: BARSTOOL
+  score: 15.387660976087954
+  llm_score: 5
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 15.6685528494876
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 14.653083347075466
   llm_score: 0
-  recency_score: 26.845593521669393
+  recency_score: 20.245041755990528
   length_score: 100
   category_score: 0
   rank: 10

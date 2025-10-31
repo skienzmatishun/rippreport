@@ -22,65 +22,85 @@ authors:
 - admin
 alttags: Stack of $100 bills representing the $6.2 million Fairhope Waterfront Project budget finally on the drawing board
 related_articles:
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 93.39192896735389
-  llm_score: 95
-  recency_score: 86.95964483676948
-  rank: 1
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 93.01488310709092
-  llm_score: 95
-  recency_score: 85.07441553545459
-  rank: 2
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 86.22112415020392
-  llm_score: 85
-  recency_score: 91.10562075101957
-  rank: 3
-- slug: pied-piper
-  title: PIED PIPER
-  score: 74.66654767894059
-  llm_score: 85
-  recency_score: 33.33273839470296
-  rank: 4
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 73.71833385593835
-  llm_score: 85
-  recency_score: 28.59166927969179
-  rank: 5
-- slug: water
-  title: Water
-  score: 70.2221428977794
-  llm_score: 85
-  recency_score: 11.110714488897043
-  rank: 6
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 69.0432153391477
-  llm_score: 85
-  recency_score: 5.216076695738494
-  rank: 7
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 68.81748068743818
-  llm_score: 85
-  recency_score: 4.087403437190892
-  rank: 8
-- slug: stepping-up
-  title: STEPPING UP
-  score: 65.74975319390109
+  score: 70.78067931314688
   llm_score: 75
-  recency_score: 28.748765969505406
+  recency_score: 85.07441553545459
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 66.68472506176484
+  llm_score: 75
+  recency_score: 58.450712901471334
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 62.98599319997864
+  llm_score: 60
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 60.68345799597358
+  llm_score: 60
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 57.80557066115183
+  llm_score: 60
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 54.03646335206704
+  llm_score: 45
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 50.22317763014402
+  llm_score: 60
+  recency_score: 11.45065459593608
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 47.90854518492134
+  llm_score: 45
+  recency_score: 56.40554370198863
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 24.91686843642608
+  llm_score: 0
+  recency_score: 86.95964483676948
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 54.83575329957493
-  llm_score: 65
-  recency_score: 14.178766497874648
+- slug: survey
+  title: SURVEY
+  score: 23.86124916461697
+  llm_score: 0
+  recency_score: 80.0981195700103
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 It is no secret that the Fairhope City Council is CATALYST through and through. It is also well documented that the council opposes, procrastinates or just refuses anything the Mayor may propose. Even projects that have been previously endorsed by the council, are delayed or canceled by the council.

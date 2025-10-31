@@ -8,45 +8,85 @@ authors:
 - ripp-report
 alttags: Man holding his head in frustration, symbolizing Fairhope City Council’s deadlock over government change
 related_articles:
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 95
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 80.950992415552
+  llm_score: 88
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 95
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 79.14670050400919
+  llm_score: 85
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 95
-  rank: 3
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 95
-  rank: 4
 - slug: bury-the-body
   title: BURY THE BODY
-  score: 90
+  score: 75.2462253419804
+  llm_score: 79
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 75.1637535303422
+  llm_score: 79
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 74.75539886036009
+  llm_score: 78
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 85
-  rank: 6
 - slug: fairhopes-blast-from-the-past
   title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
+  score: 74.05563749749156
+  llm_score: 82
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 73.01633843521707
+  llm_score: 77
+  recency_score: 91.60619982891085
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 75
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 71.55579289871694
+  llm_score: 75
+  recency_score: 90.11265384166002
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: skunked
+  title: SKUNKED
+  score: 26.939927589907
+  llm_score: 2
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 75
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 0
+  llm_score: -100
+  recency_score: 86.48445670640884
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 FAIRHOPE CHANGE OF GOVERNMENT

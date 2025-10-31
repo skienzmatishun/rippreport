@@ -8,43 +8,43 @@ authors:
 - admin
 alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry
 related_articles:
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 73.37111606321332
-  llm_score: 85
-  recency_score: 61.91225441088648
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 69.83232193728315
-  llm_score: 70
+  score: 72.90924501420623
+  llm_score: 75
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: barstool
+  title: BARSTOOL
+  score: 64.23761661467913
+  llm_score: 85
+  recency_score: 2.5445079954142833
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: surrender
-  title: SURRENDER
-  score: 62.58657438376161
-  llm_score: 70
-  recency_score: 51.81273349445037
+- slug: bsp-128
+  title: Big News
+  score: 63.96294972556594
+  llm_score: 65
+  recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
   rank: 3
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 62.361045743382846
-  llm_score: 80
-  recency_score: 10.34679733198841
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 59.27109287614887
+  llm_score: 75
+  recency_score: 10.262103694967568
   length_score: 100
   category_score: 0
   rank: 4
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 59.313054606507656
-  llm_score: 70
-  recency_score: 30.53485494229968
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 59.25388557947915
+  llm_score: 75
+  recency_score: 10.150256266614415
   length_score: 100
   category_score: 0
   rank: 5
@@ -56,35 +56,35 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 56.686088431000485
-  llm_score: 70
-  recency_score: 13.459574801503088
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 56.83797270952145
+  llm_score: 65
+  recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
   rank: 7
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 55.52404245566914
-  llm_score: 65
-  recency_score: 25.906275961849367
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 50.272108948329155
+  llm_score: 60
+  recency_score: 11.76870816413944
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 16.794593597984967
-  llm_score: 0
-  recency_score: 34.164858386902274
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 48.00416709818171
+  llm_score: 45
+  recency_score: 57.02708613818104
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 13.000663294089833
-  llm_score: 0
-  recency_score: 9.504311411583915
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 40.907640391944554
+  llm_score: 45
+  recency_score: 10.899662547639538
   length_score: 100
   category_score: 0
   rank: 10

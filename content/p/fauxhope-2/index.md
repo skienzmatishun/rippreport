@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 68.52623987540625
-  llm_score: 75
-  recency_score: 70.42055919014051
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 73.58218701506763
+  llm_score: 85
+  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 1
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 65.65909599198584
-  llm_score: 70
-  recency_score: 71.78412394790789
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 71.03411158468779
+  llm_score: 75
+  recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 65.24564363703526
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 69.03077501552296
   llm_score: 85
-  recency_score: 9.096683640729124
+  recency_score: 33.70003760089919
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 64.43176973588072
-  llm_score: 70
-  recency_score: 63.80650328322465
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 63.945640887470354
+  llm_score: 85
+  recency_score: 0.6466657685572273
   length_score: 100
   category_score: 0
   rank: 4
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 62.98952834299126
-  llm_score: 70
-  recency_score: 54.43193422944308
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 63.92157313915799
+  llm_score: 75
+  recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 61.798435258424
-  llm_score: 70
-  recency_score: 46.6898291797559
+- slug: pied-piper
+  title: PIED PIPER
+  score: 62.977319525855414
+  llm_score: 75
+  recency_score: 34.35257691806009
   length_score: 100
   category_score: 0
   rank: 6
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 60.10704705931639
-  llm_score: 70
-  recency_score: 35.69580588555647
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 60.028299369788066
+  llm_score: 75
+  recency_score: 15.18394590362233
   length_score: 100
   category_score: 0
   rank: 7
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 55.08701320113241
-  llm_score: 70
-  recency_score: 3.0655858073605606
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 59.57367376253751
+  llm_score: 75
+  recency_score: 12.22887945649371
   length_score: 100
   category_score: 0
   rank: 8
-- slug: victory
-  title: VICTORY
-  score: 54.95393906395158
-  llm_score: 70
-  recency_score: 2.200603915685177
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 58.35111978683929
+  llm_score: 75
+  recency_score: 4.282278614455312
   length_score: 100
   category_score: 0
   rank: 9
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 54.705527611995315
-  llm_score: 70
-  recency_score: 0.585929477969449
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 58.34751972973181
+  llm_score: 75
+  recency_score: 4.258878243256627
   length_score: 100
   category_score: 0
   rank: 10

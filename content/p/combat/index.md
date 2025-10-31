@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Bald eagle portrait against a red background, symbolizing service and sacrifice for a Vietnam veteran’s healthcare journey
 related_articles:
-- slug: recovery
-  title: RECOVERY
-  score: 64.59678009225723
-  llm_score: 85
-  recency_score: 25.48390046128612
-  category_score: 0
-  rank: 1
-- slug: symbol
-  title: Veterans Day
-  score: 62.39066245260484
-  llm_score: 85
-  recency_score: 14.453312263024177
-  category_score: 0
-  rank: 2
-- slug: war
-  title: WAR
-  score: 59.60823550667006
-  llm_score: 85
-  recency_score: 0.5411775333502961
-  category_score: 0
-  rank: 3
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 59.60793937687784
-  llm_score: 85
-  recency_score: 0.5396968843891398
-  category_score: 0
-  rank: 4
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 59.60246435170031
-  llm_score: 85
-  recency_score: 0.512321758501535
-  category_score: 0
-  rank: 5
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 53.58400637110499
-  llm_score: 75
-  recency_score: 5.420031855524929
-  category_score: 0
-  rank: 6
 - slug: im-back
   title: I'M BACK
-  score: 51.00315362704151
-  llm_score: 65
+  score: 100
+  llm_score: 502
   recency_score: 27.51576813520753
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 61.8742627242852
+  llm_score: 68
+  recency_score: 55.18270770785375
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 56.94483227033168
+  llm_score: 67
+  recency_score: 27.14140975715586
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 52.624184374912296
+  llm_score: 66
+  recency_score: 3.0571984369298186
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 52.02585342446788
+  llm_score: 65
+  recency_score: 3.168047259041166
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 22.582172915062756
+  llm_score: 0
+  recency_score: 71.78412394790789
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 22.43192067211973
+  llm_score: 0
+  recency_score: 70.80748436877823
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 50.92828195143118
-  llm_score: 65
-  recency_score: 27.14140975715586
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 20.121657769669234
+  llm_score: 0
+  recency_score: 55.79077550285001
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 45.60559932044778
-  llm_score: 65
-  recency_score: 0.527996602238855
+- slug: m-i-a
+  title: M.I.A
+  score: 18.227641546030544
+  llm_score: 0
+  recency_score: 43.47967004919853
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: insanity-2
-  title: INSANITY
-  score: 44.47457577604463
-  llm_score: 55
-  recency_score: 29.872878880223098
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 15.783270332883156
+  llm_score: 0
+  recency_score: 27.591257163740508
+  length_score: 100
   category_score: 0
   rank: 10
 ---

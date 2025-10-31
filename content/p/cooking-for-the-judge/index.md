@@ -14,74 +14,84 @@ authors:
 - ripp-report
 alttags: Man in cowboy hat & tactical gear holds spatula next to a grill, symbolizing control and influence over Baldwin County gov...
 related_articles:
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 78.53762349360868
-  llm_score: 85
-  recency_score: 95.18811746804333
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 75.37349000381407
+  llm_score: 80
+  recency_score: 94.92768502479139
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 66.59386369877198
-  llm_score: 95
-  recency_score: 0.4693184938599064
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 73.53882174219787
+  llm_score: 80
+  recency_score: 83.00234132428609
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 63.040256374921015
-  llm_score: 90
-  recency_score: 0.20128187460504293
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 65.3014730463851
+  llm_score: 84
+  recency_score: 13.459574801503088
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 59.597267037044766
-  llm_score: 85
-  recency_score: 0.4863351852238095
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 62.39186831600371
+  llm_score: 80
+  recency_score: 10.547144054024043
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 59.53677643973496
-  llm_score: 85
-  recency_score: 0.1838821986747448
+- slug: last-chance
+  title: LAST CHANCE
+  score: 61.658779264069445
+  llm_score: 81
+  recency_score: 1.782065216451268
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 59.51253024205531
-  llm_score: 85
-  recency_score: 0.06265121027654154
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 59.54898336750026
+  llm_score: 78
+  recency_score: 0.06839188875158306
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 49.04240741245349
-  llm_score: 70
-  recency_score: 0.21203706226742583
-  category_score: 0
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 37.72124884123744
+  llm_score: 0
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 49.03970867764622
-  llm_score: 70
-  recency_score: 0.19854338823104525
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 26.90115689778957
+  llm_score: 2
+  recency_score: 91.85751983563217
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 45.57985399313023
-  llm_score: 65
-  recency_score: 0.3992699656511135
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 25.101395281274904
+  llm_score: 0
+  recency_score: 88.15906932828686
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 45.54148804696275
-  llm_score: 65
-  recency_score: 0.2074402348137073
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 14.291816251555936
+  llm_score: 0
+  recency_score: 17.896805635113584
+  length_score: 100
   category_score: 0
   rank: 10
 ---

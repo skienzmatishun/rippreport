@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts
 related_articles:
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 79.22789538259508
-  llm_score: 85
-  recency_score: 98.63947691297537
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 87.8421091684729
+  llm_score: 100
+  recency_score: 95.97370959507373
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: the-jester
-  title: THE JESTER
-  score: 76.10046826485723
-  llm_score: 85
-  recency_score: 83.00234132428609
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 73.06414745706824
+  llm_score: 79
+  recency_score: 83.91695847094347
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 70.96808419803509
-  llm_score: 85
-  recency_score: 57.34042099017541
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 65.14510299157767
+  llm_score: 76
+  recency_score: 44.44316944525482
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 66.55183464323571
-  llm_score: 72
-  recency_score: 80.75917321617852
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 61.561882160556635
+  llm_score: 76
+  recency_score: 21.152234043618023
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 64.4999649564072
-  llm_score: 85
-  recency_score: 24.99982478203595
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 60.349665262729424
+  llm_score: 77
+  recency_score: 9.272824207741175
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 61.14841536332693
-  llm_score: 75
-  recency_score: 43.242076816634636
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 26.71376567891929
+  llm_score: 0
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: april-fool
-  title: APRIL FOOL
-  score: 57.19014258029428
-  llm_score: 65
-  recency_score: 58.450712901471334
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 24.95357186171603
+  llm_score: 0
+  recency_score: 87.19821710115417
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 51.302714024536016
-  llm_score: 70
-  recency_score: 11.51357012268003
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 13.517608156312788
+  llm_score: -2
+  recency_score: 20.864453016033117
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: hate
-  title: HATE
-  score: 47.71606316724669
-  llm_score: 65
-  recency_score: 11.080315836233387
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 13.266637749603731
+  llm_score: 0
+  recency_score: 11.233145372424257
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 47.703953562668815
-  llm_score: 65
-  recency_score: 11.019767813344055
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 12.945640814396254
+  llm_score: 0
+  recency_score: 9.146665293575648
+  length_score: 100
   category_score: 0
   rank: 10
 ---

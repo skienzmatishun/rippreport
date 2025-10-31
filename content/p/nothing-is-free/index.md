@@ -13,65 +13,85 @@ authors:
 - ripp-report
 alttags: Pile of U.S. dollar bills, referencing concerns about financial interests influencing local politics and gas tax debates
 related_articles:
-- slug: goat-hill-piggy-bank
-  title: GOAT HILL PIGGY-BANK
-  score: 90.52312487593501
-  llm_score: 90
-  recency_score: 92.61562437967505
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 81.29199699026647
+  llm_score: 100
+  recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 86.88179115997221
-  llm_score: 85
-  recency_score: 94.40895579986105
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 73.15682894680792
+  llm_score: 100
+  recency_score: 0.5193881542513967
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 84.41953853153237
-  llm_score: 85
-  recency_score: 82.09769265766185
-  rank: 3
-- slug: tax-tax-and-re-tax
-  title: TAX TAX AND RE-TAX
-  score: 83.50151487477555
-  llm_score: 85
-  recency_score: 77.50757437387774
-  rank: 4
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 81.11575875113695
-  llm_score: 85
-  recency_score: 65.57879375568477
-  rank: 5
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 79.09718172757076
-  llm_score: 85
-  recency_score: 55.48590863785381
-  rank: 6
 - slug: stepping-up
   title: STEPPING UP
-  score: 71.24740235768714
-  llm_score: 65
+  score: 64.4980018136055
+  llm_score: 62
   recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 60.64860088239573
+  llm_score: 63
+  recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 57.381256251924356
+  llm_score: 66
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 52.85001713570823
+  llm_score: 67
+  recency_score: 0.5251113821034047
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 25.43998097401425
+  llm_score: 0
+  recency_score: 90.35987633109261
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 68.60147078469983
-  llm_score: 85
-  recency_score: 3.007353923499134
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 22.166599357842063
+  llm_score: 0
+  recency_score: 69.0828958259734
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: in-your-face
-  title: IN YOUR FACE
-  score: 67.66625449247667
-  llm_score: 75
-  recency_score: 38.33127246238332
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 11.755668212556685
+  llm_score: 0
+  recency_score: 1.4118433816184552
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
-  score: 61.425662165225894
-  llm_score: 75
+  score: 11.404355511712227
+  llm_score: -2
   recency_score: 7.128310826129476
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 For the last 15 years one complaint in Fairhope has been consistent. Why do I have to comply with Fairhope municipal regulations when I live outside the city limits and I cannot vote in Fairhope elections?

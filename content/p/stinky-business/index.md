@@ -13,81 +13,81 @@ alttags: 'Baldwin County Sewer mascot: A cartoon water droplet character promoti
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 66.80386526637244
-  llm_score: 70
+  score: 76.03463449714167
+  llm_score: 85
   recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fly-creek-mud
-  title: FLY CREEK MUD
-  score: 66.28111690694753
-  llm_score: 70
-  recency_score: 75.82725989515886
+- slug: shooting-yourself-in-the-foot
+  title: SHOOTING YOURSELF IN THE FOOT
+  score: 72.99285435016304
+  llm_score: 75
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 57.93600278131124
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 68.43755879947688
   llm_score: 75
-  recency_score: 1.5840180785229494
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 57.19352056904267
-  llm_score: 70
-  recency_score: 16.757883698777256
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 66.04353996027909
+  llm_score: 75
+  recency_score: 54.28300974181401
   length_score: 100
   category_score: 0
   rank: 4
-- slug: sting
-  title: Sting
-  score: 57.04271650575517
-  llm_score: 70
-  recency_score: 15.777657287408536
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 55.66214157660163
-  llm_score: 70
+  score: 64.89291080737085
+  llm_score: 85
   recency_score: 6.803920247910508
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 63.332740550658414
+  llm_score: 65
+  recency_score: 76.66281357927963
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 54.87850986086644
-  llm_score: 70
-  recency_score: 1.7103140956317624
+- slug: going-down
+  title: GOING DOWN
+  score: 58.85073884971824
+  llm_score: 75
+  recency_score: 7.529802523168458
   length_score: 100
   category_score: 0
   rank: 7
-- slug: grinder-pumps
-  title: GRINDER PUMPS
-  score: 54.8255663591922
-  llm_score: 70
-  recency_score: 1.366181334749222
+- slug: straw-man
+  title: STRAW MAN
+  score: 58.68054000915504
+  llm_score: 75
+  recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
   rank: 8
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 54.76709073197948
-  llm_score: 70
-  recency_score: 0.986089757866536
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 58.59758976325275
+  llm_score: 75
+  recency_score: 5.884333461142748
   length_score: 100
   category_score: 0
   rank: 9
-- slug: wetlands
-  title: WETLANDS
-  score: 42.46149088950018
-  llm_score: 50
-  recency_score: 0.9996907817511175
+- slug: priorities
+  title: Priorities
+  score: 50.24710766598629
+  llm_score: 40
+  recency_score: 91.60619982891085
   length_score: 100
   category_score: 0
   rank: 10

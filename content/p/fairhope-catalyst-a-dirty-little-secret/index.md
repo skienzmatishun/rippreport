@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Fairhope pier at sunset; a view representing the city council’s connection to local power structures
 related_articles:
-- slug: skunked
-  title: SKUNKED
-  score: 81.57394274499862
-  llm_score: 90
-  recency_score: 92.86971372499306
+- slug: hell-yea
+  title: HELL YEA
+  score: 80.950992415552
+  llm_score: 88
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 81.17127158449027
-  llm_score: 90
-  recency_score: 90.85635792245131
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 78.81499447025448
+  llm_score: 85
+  recency_score: 97.29746405665401
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 79.12009294457452
-  llm_score: 85
+  score: 76.47699457274963
+  llm_score: 81
   recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst
-  title: CATALYST
-  score: 76.10046826485723
-  llm_score: 85
-  recency_score: 83.00234132428609
+- slug: skunked
+  title: SKUNKED
+  score: 75.67226364999894
+  llm_score: 81
+  recency_score: 92.86971372499306
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75.04404300965939
-  llm_score: 85
-  recency_score: 77.72021504829691
+- slug: raising-eyebrows
+  title: RAISING EYEBROWS
+  score: 75.57492489052858
+  llm_score: 80
+  recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 74.62395966027418
-  llm_score: 85
-  recency_score: 75.61979830137088
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 75.19639058344164
+  llm_score: 82
+  recency_score: 85.7765387923706
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 70.56682010022277
-  llm_score: 85
-  recency_score: 55.33410050111382
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 74.74713198806944
+  llm_score: 80
+  recency_score: 90.85635792245131
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 67.95903777831067
-  llm_score: 90
-  recency_score: 24.795188891553348
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 71.69359479399812
+  llm_score: 78
+  recency_score: 79.0083661609877
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 64.9643950362927
-  llm_score: 90
-  recency_score: 9.821975181463475
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 26.71376567891929
+  llm_score: 0
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 55.9164738660754
-  llm_score: 75
-  recency_score: 17.082369330376963
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 24.579351577206072
+  llm_score: -3
+  recency_score: 96.76578525183945
+  length_score: 100
   category_score: 0
   rank: 10
 ---

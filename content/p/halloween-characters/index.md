@@ -14,65 +14,85 @@ authors:
 - admin
 alttags: Silhouettes of five jack-o-lanterns against an orange sunset; symbolizing empty promises from indicted Alabama politicians
 related_articles:
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 87.9452804719372
-  llm_score: 85
-  recency_score: 99.72640235968593
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 70.36455409718822
+  llm_score: 71
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: the-jester
-  title: THE JESTER
-  score: 77.972605288193
-  llm_score: 85
-  recency_score: 49.86302644096496
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 69.42107873668242
+  llm_score: 70
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 68.53075167564708
-  llm_score: 75
-  recency_score: 42.653758378235395
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 65.82663641034411
+  llm_score: 69
+  recency_score: 76.87313666723661
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: hallucinations
-  title: HALLUCINATIONS
-  score: 67.5866878197373
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 62.826898995769795
   llm_score: 65
-  recency_score: 77.93343909868652
+  recency_score: 73.37484347250358
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 67.25024389308274
-  llm_score: 70
-  recency_score: 56.25121946541366
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 61.99716235519782
+  llm_score: 66
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 65.42828195143117
-  llm_score: 75
-  recency_score: 27.14140975715586
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 56.15954079470228
+  llm_score: 65
+  recency_score: 30.037015165564775
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 64.74635098516816
-  llm_score: 75
-  recency_score: 23.73175492584083
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 56.134289058495874
+  llm_score: 65
+  recency_score: 29.872878880223098
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 61.89097459752322
-  llm_score: 65
-  recency_score: 49.45487298761609
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 54.51557852741515
+  llm_score: 66
+  recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: april-fool
-  title: APRIL FOOL
-  score: 60.83825535238421
-  llm_score: 70
-  recency_score: 24.19127676192105
-  rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 59.66625449247667
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 53.525792805034826
   llm_score: 65
-  recency_score: 38.33127246238332
+  recency_score: 12.9176532327263
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 20.68582072867271
+  llm_score: -1
+  recency_score: 63.45783473637261
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Sen. Tripp Pittman and the State Representatives Faust, and Randy Davis, INDICTED, did very little in the last 11 years, as far as representing their constituents.

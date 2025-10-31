@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: 'Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep...'
 related_articles:
-- slug: victory
-  title: VICTORY
-  score: 70.07541929300415
-  llm_score: 85
-  recency_score: 40.49022540452686
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 77.16200021680717
+  llm_score: 100
+  recency_score: 26.55300140924655
   length_score: 100
   category_score: 0
   rank: 1
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 69.01171478030626
-  llm_score: 75
-  recency_score: 73.57614607199059
+- slug: repeat
+  title: REPEAT
+  score: 76.28683892554356
+  llm_score: 100
+  recency_score: 20.864453016033117
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 66.88399494340732
-  llm_score: 75
-  recency_score: 59.74596713214747
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 63.34858234643686
+  llm_score: 60
+  recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 3
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 65.50474866432661
-  llm_score: 85
-  recency_score: 10.780866318122923
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 50.119422392975565
+  llm_score: 57
+  recency_score: 22.77624555434108
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 62.8344901814437
-  llm_score: 75
-  recency_score: 33.42418617938393
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 49.74299473580515
+  llm_score: 61
+  recency_score: 4.329465782733408
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 58.52844640278547
-  llm_score: 75
-  recency_score: 5.4349016181054575
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 49.183641104945934
+  llm_score: 56
+  recency_score: 20.693667182148534
   length_score: 100
   category_score: 0
   rank: 6
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 24.238273499896277
+- slug: exposure-2
+  title: EXPOSURE
+  score: 20.168818070201294
   llm_score: 0
-  recency_score: 82.54877774932578
+  recency_score: 56.097317456308396
   length_score: 100
   category_score: 0
   rank: 7
-- slug: survey
-  title: SURVEY
-  score: 20.654910298009085
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 18.780794245095947
   llm_score: 0
-  recency_score: 59.25691693705903
+  recency_score: 47.075162593123636
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 18.17288730997562
-  llm_score: 0
-  recency_score: 43.12376751484153
+- slug: hallucinations
+  title: HALLUCINATIONS
+  score: 15.967376018022192
+  llm_score: -2
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 9
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 12.138676386767335
+- slug: newsletter
+  title: NEWSLETTER
+  score: 11.57397423961116
   llm_score: 0
-  recency_score: 3.9013965139876725
+  recency_score: 0.23083255747252965
   length_score: 100
   category_score: 0
   rank: 10

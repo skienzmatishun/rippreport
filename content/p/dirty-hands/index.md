@@ -18,74 +18,84 @@ authors:
 - ripp-report
 alttags: Dirty hand raised against a stark background, symbolizing alleged corruption and misuse of lottery funds discussed in the ...
 related_articles:
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 80.62789538259509
-  llm_score: 87
-  recency_score: 98.63947691297537
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 77.32173187134471
+  llm_score: 100
+  recency_score: 27.591257163740508
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 79.12009294457452
-  llm_score: 85
-  recency_score: 98.10046472287257
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 68.90355948726717
+  llm_score: 74
+  recency_score: 76.87313666723661
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 78.8531570503679
-  llm_score: 85
-  recency_score: 96.76578525183945
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 64.41473936700869
+  llm_score: 77
+  recency_score: 35.69580588555647
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 78.69474191901476
-  llm_score: 85
-  recency_score: 95.97370959507373
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 62.37712496918528
+  llm_score: 75
+  recency_score: 30.451312299704224
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 77.77111348555952
-  llm_score: 85
-  recency_score: 91.35556742779755
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 58.50406987367898
+  llm_score: 73
+  recency_score: 13.276454178913294
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 67.88179115997222
-  llm_score: 70
-  recency_score: 94.40895579986105
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 18.800663458183145
+  llm_score: 0
+  recency_score: 47.204312478190445
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 66.07584775866111
-  llm_score: 85
-  recency_score: 32.87923879330549
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 16.2749016267204
+  llm_score: 0
+  recency_score: 30.7868605736826
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: bp-catastrophe-alabama-disgrace
-  title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 57.590781530740294
-  llm_score: 80
-  recency_score: 7.953907653701443
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 15.73700584739177
+  llm_score: 0
+  recency_score: 27.29053800804651
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: threesome
-  title: THREESOME
-  score: 46.693099080672184
-  llm_score: 65
-  recency_score: 5.965495403360867
+- slug: help-fairness-killing-us
+  title: HELP - FAIRNESS IS KILLING US
+  score: 13.59221562251213
+  llm_score: 0
+  recency_score: 13.34940154632884
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 46.28671898553807
-  llm_score: 65
-  recency_score: 3.933594927690323
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 4.392715498740963
+  llm_score: -23
+  recency_score: 45.55265074181627
+  length_score: 100
   category_score: 0
   rank: 10
 ---

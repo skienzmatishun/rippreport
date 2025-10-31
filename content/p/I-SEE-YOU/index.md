@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Fairhope city clock tower under surveillance cameras, symbolizing a council ignoring public input
 related_articles:
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 68.59078487672731
-  llm_score: 90
-  recency_score: 10.840101698727413
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 78.65184796745164
+  llm_score: 85
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 65.54150274051449
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 75.38474045731328
   llm_score: 85
-  recency_score: 11.019767813344055
+  recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 2
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 65.46879139292679
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 69.58390093023779
   llm_score: 85
-  recency_score: 10.547144054024043
+  recency_score: 37.29535604654552
   length_score: 100
   category_score: 0
   rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 60.41635692640262
-  llm_score: 70
-  recency_score: 37.70632002161693
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 67.55770615377517
+  llm_score: 85
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
   rank: 4
-- slug: truth
-  title: TRUTH
-  score: 55.51325650628477
-  llm_score: 70
-  recency_score: 5.836167290850916
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 67.44751983401827
+  llm_score: 85
+  recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
   rank: 5
-- slug: invitation
-  title: INVITATION
-  score: 55.45381725778763
-  llm_score: 70
-  recency_score: 5.449812175619502
+- slug: conflict-on-interest
+  title: CONFLICT OF INTEREST
+  score: 64.29385994451938
+  llm_score: 85
+  recency_score: 2.9100896393759403
   length_score: 100
   category_score: 0
   rank: 6
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 55.143080714604224
-  llm_score: 70
-  recency_score: 3.4300246449273972
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 64.29141346921199
+  llm_score: 85
+  recency_score: 2.894187549877844
   length_score: 100
   category_score: 0
   rank: 7
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 55.07805444976911
-  llm_score: 70
-  recency_score: 3.007353923499134
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 64.28176052629051
+  llm_score: 85
+  recency_score: 2.8314434208882173
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 54.76218423038271
-  llm_score: 70
-  recency_score: 0.9541974974875161
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 64.25070052296371
+  llm_score: 85
+  recency_score: 2.629553399264038
   length_score: 100
   category_score: 0
   rank: 9
-- slug: back-stabber
-  title: BACK STABBER
-  score: 54.752842155312116
-  llm_score: 70
-  recency_score: 0.8934740095286622
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 57.770267373185334
+  llm_score: 75
+  recency_score: 0.5067379257045754
   length_score: 100
   category_score: 0
   rank: 10

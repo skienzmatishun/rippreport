@@ -14,65 +14,85 @@ authors:
 - ripp-report
 alttags: Gas pump icon representing Governor Ivey’s announced special session for a gas tax increase
 related_articles:
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 86.88179115997221
-  llm_score: 85
-  recency_score: 94.40895579986105
-  rank: 1
-- slug: tax-tax-and-re-tax
-  title: TAX TAX AND RE-TAX
-  score: 84.41953853153237
-  llm_score: 85
-  recency_score: 82.09769265766185
-  rank: 2
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 81.89249424486937
-  llm_score: 85
-  recency_score: 69.4624712243468
-  rank: 3
 - slug: stepping-up
   title: STEPPING UP
-  score: 78.17127158449026
-  llm_score: 75
+  score: 67.36251660345405
+  llm_score: 68
   recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 66.33033587361703
+  llm_score: 68
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 66.05536558939887
+  llm_score: 66
+  recency_score: 90.35987633109261
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 53.633994252353546
+  llm_score: 63
+  recency_score: 21.62096264029795
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: what-education-lottery
-  title: WHAT EDUCATION LOTTERY?
-  score: 77.39192896735389
-  llm_score: 75
-  recency_score: 86.95964483676948
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 51.736618684367805
+  llm_score: 64
+  recency_score: 5.288021448390664
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 68.79631106175715
-  llm_score: 70
-  recency_score: 63.98155530878573
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 27.2462253419804
+  llm_score: 1
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 68.63709081368816
-  llm_score: 85
-  recency_score: 3.1854540684407837
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 18.27888207606929
+  llm_score: -2
+  recency_score: 51.81273349445037
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 66.47673339221254
-  llm_score: 70
-  recency_score: 52.383666961062694
-  rank: 8
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
-  score: 54.069359466397685
-  llm_score: 65
+  score: 13.130276512613602
+  llm_score: 0
   recency_score: 10.34679733198841
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 12.383813805923184
+  llm_score: 0
+  recency_score: 5.494789738500692
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 52.51029776171749
-  llm_score: 65
-  recency_score: 2.5514888085874565
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 0
+  llm_score: -50
+  recency_score: 69.4624712243468
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money for infrastructure two paragraphs later we find out the State Docks are going to get between 400,000 and 600,000 for dredging the ship channel.

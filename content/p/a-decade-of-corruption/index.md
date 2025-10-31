@@ -20,74 +20,84 @@ authors:
 - admin
 alttags: Scale balancing money bag against a person figure, symbolizing alleged corruption and imbalance in Baldwin County politics
 related_articles:
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 82.63359302371177
-  llm_score: 91
-  recency_score: 94.66796511855877
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 78.01685066683008
+  llm_score: 85
+  recency_score: 92.10952933439548
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 75.60764360478439
-  llm_score: 85
-  recency_score: 80.5382180239219
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 70.63802818130934
+  llm_score: 75
+  recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 65.74230004805162
-  llm_score: 85
-  recency_score: 31.21150024025806
-  category_score: 0
-  rank: 3
-- slug: threesome
-  title: THREESOME
-  score: 63.10890176713604
-  llm_score: 85
-  recency_score: 18.044508835680173
-  category_score: 0
-  rank: 4
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 62.62970187685955
-  llm_score: 85
-  recency_score: 15.648509384297702
-  category_score: 0
-  rank: 5
 - slug: catalyst-busted
   title: CATALYST BUSTED
-  score: 62.57025208563968
-  llm_score: 85
+  score: 50.82327083510746
+  llm_score: 60
   recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 48.933167047286254
+  llm_score: 60
+  recency_score: 3.0655858073605606
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 48.80009291010543
+  llm_score: 60
+  recency_score: 2.200603915685177
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 45.19231874280563
+  llm_score: 50
+  recency_score: 18.75007182823656
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 61.427080659596186
-  llm_score: 85
-  recency_score: 9.635403297980877
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 29.879715303271418
+  llm_score: 25
+  recency_score: 19.21814947126418
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 60.171132782308746
-  llm_score: 85
-  recency_score: 3.355663911543685
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 16.34023080619355
+  llm_score: 0
+  recency_score: 31.21150024025806
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 57.19014258029428
-  llm_score: 65
-  recency_score: 58.450712901471334
+- slug: last-chance
+  title: LAST CHANCE
+  score: 13.72579472241937
+  llm_score: 0
+  recency_score: 14.217665695725898
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 54.05279266204939
-  llm_score: 74
-  recency_score: 11.263963310246938
+- slug: jack-ass
+  title: JACK ASS
+  score: 12.404917218246416
+  llm_score: 0
+  recency_score: 5.6319619186017045
+  length_score: 100
   category_score: 0
   rank: 10
 ---

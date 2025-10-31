@@ -8,62 +8,70 @@ authors:
 - admin
 alttags: Blurred police car with flashing red and blue lights against a dark background; related to allegations of criminal activit...
 related_articles:
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 81.03852921477831
-  llm_score: 89
-  recency_score: 20.750439896058943
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 84.61550968808253
+  llm_score: 100
+  recency_score: 75.00081297253628
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: police-report
-  title: POLICE REPORT
-  score: 72.34539103938317
-  llm_score: 75
-  recency_score: 20.245041755990528
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 82.24346208859865
+  llm_score: 100
+  recency_score: 59.582503575891096
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
-- slug: barstool
-  title: BARSTOOL
-  score: 62.94843975183114
-  llm_score: 75
-  recency_score: 34.164858386902274
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 58.344155659759345
+  llm_score: 52
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 60.94649754517202
-  llm_score: 75
-  recency_score: 21.152234043618023
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 55.60780198484176
+  llm_score: 57
+  recency_score: 58.450712901471334
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 57.99664086730897
-  llm_score: 67
-  recency_score: 33.97816563750821
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 48.576733226077764
+  llm_score: 53
+  recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 25.74803541797079
-  llm_score: 0
-  recency_score: 92.36223021681012
+- slug: free-speech
+  title: FREE SPEECH
+  score: 45.07879379795616
+  llm_score: 52
+  recency_score: 10.01215968671496
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 21.627506731643813
-  llm_score: 0
-  recency_score: 65.57879375568477
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 34.06645141991432
+  llm_score: 23
+  recency_score: 54.43193422944308
   length_score: 100
   category_score: 0
   rank: 7
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 25.478119549400027
+  llm_score: 0
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: fairhope-un-armed-robbery
   title: FAIRHOPE UN-ARMED ROBBERY
   score: 20.705000550137093
@@ -71,20 +79,12 @@ related_articles:
   recency_score: 59.582503575891096
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: catalyst-busted
-  title: CATALYST BUSTED
-  score: 15.260196424910932
-  llm_score: 0
-  recency_score: 24.19127676192105
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 10.36396246809095
-  llm_score: -2
-  recency_score: 0.36575604259118294
+- slug: fact-and-fiction-a-b-c
+  title: FACT and FICTION A B C
+  score: 15.623538678345625
+  llm_score: 0
+  recency_score: 26.55300140924655
   length_score: 100
   category_score: 0
   rank: 10

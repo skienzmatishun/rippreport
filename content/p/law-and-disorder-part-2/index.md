@@ -7,65 +7,85 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 68.35349562682318
-  llm_score: 85
-  recency_score: 1.7674781341158494
+- slug: police-report
+  title: POLICE REPORT
+  score: 74.22354860466591
+  llm_score: 64
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 68.13040054647036
-  llm_score: 85
-  recency_score: 0.6520027323517801
+- slug: fact-and-fiction-a-b-c
+  title: FACT and FICTION A B C
+  score: 64.41944651687477
+  llm_score: 61
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 68.10705583986514
-  llm_score: 85
-  recency_score: 0.535279199325722
+- slug: barstool
+  title: BARSTOOL
+  score: 61.001165288288895
+  llm_score: 61
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 68.05323523181134
-  llm_score: 85
-  recency_score: 0.26617615905673986
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 60.303675237561826
+  llm_score: 61
+  recency_score: 72.97388904415178
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 68.01755135909374
-  llm_score: 85
-  recency_score: 0.0877567954687319
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 52.113684683147646
+  llm_score: 64
+  recency_score: 7.738950440459613
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 62.91819469742386
-  llm_score: 60
-  recency_score: 74.59097348711927
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 50.248119187501025
+  llm_score: 61
+  recency_score: 7.612774718756618
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 60.343942280450115
-  llm_score: 75
-  recency_score: 1.7197114022505888
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 49.37702944938991
+  llm_score: 61
+  recency_score: 1.9506914210343174
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: rumors
-  title: RUMORS
-  score: 60.321173251946675
-  llm_score: 75
-  recency_score: 1.60586625973336
+- slug: law-and-disorder-part-1
+  title: LAW and DisORDER Part 1
+  score: 38.419446516874764
+  llm_score: 0
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 60.053089581473294
-  llm_score: 75
-  recency_score: 0.265447907366482
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 15.209304622456356
+  llm_score: 1
+  recency_score: 19.860480045966312
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: cameras
-  title: CAMERAS
-  score: 52.3693359748071
-  llm_score: 65
-  recency_score: 1.8466798740354857
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 14.470898375923582
+  llm_score: 0
+  recency_score: 19.060839443503276
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope Police have responded and given further information about the recent “party” busted in Fairhope.

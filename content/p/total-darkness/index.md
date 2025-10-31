@@ -15,85 +15,85 @@ authors:
 - admin
 alttags: Black void representing Alabama Attorney General Steve Marshall’s lack of transparency and responsiveness to public compla...
 related_articles:
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 73.19018604576722
-  llm_score: 85
-  recency_score: 60.73620929748681
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 72.53862097642448
+  llm_score: 75
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 69.02094953139249
-  llm_score: 70
-  recency_score: 93.63617195405108
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 72.41709658312305
+  llm_score: 75
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 68.06729905913429
-  llm_score: 70
-  recency_score: 87.43744388437275
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 72.22029757376049
+  llm_score: 85
+  recency_score: 54.43193422944308
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 65.07487486677881
-  llm_score: 75
-  recency_score: 47.986686634062245
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 64.43176973588072
-  llm_score: 70
-  recency_score: 63.80650328322465
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 62.92006301485982
-  llm_score: 65
-  recency_score: 73.98040959658876
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 61.186758505223445
-  llm_score: 75
-  recency_score: 22.713930283952266
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 56.726183806260494
-  llm_score: 70
-  recency_score: 13.72019474069314
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 55.55606435400243
-  llm_score: 70
-  recency_score: 6.114418301015702
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: police-report
   title: POLICE REPORT
-  score: 54.23335003296675
-  llm_score: 50
+  score: 69.61796541758213
+  llm_score: 75
   recency_score: 2.5167752142837743
   length_score: 100
   category_score: 100
+  rank: 4
+- slug: no-radar
+  title: NO RADAR
+  score: 64.6050609864188
+  llm_score: 75
+  recency_score: 44.932896411722155
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 58.563524105641676
+  llm_score: 75
+  recency_score: 5.66290668667081
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 57.84401380890256
+  llm_score: 75
+  recency_score: 0.986089757866536
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 57.80002168003079
+  llm_score: 75
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 57.79596841537056
+  llm_score: 75
+  recency_score: 0.6737946999085467
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: im-back
+  title: I'M BACK
+  score: 52.035290872943484
+  llm_score: 65
+  recency_score: 3.229390674132577
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 In Alabama politicians and elected officials will always go dark, rather than being transparent, when they have something to hide.

@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring a seagull over waves and mountains, promoting the State of the City Expo
 related_articles:
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 85.95190210042212
-  llm_score: 100
-  recency_score: 83.68736365274363
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 100
+  llm_score: 2359846789000000
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 1
-- slug: survey
-  title: SURVEY
-  score: 72.950992415552
-  llm_score: 75
-  recency_score: 99.18145070108791
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 76.83893322005052
+  llm_score: 87
+  recency_score: 76.45306593032835
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 61.92049588019791
-  llm_score: 77
-  recency_score: 19.483223221286327
+- slug: survey
+  title: SURVEY
+  score: 76.02791549247507
+  llm_score: 80
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 3
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 61.64615963090758
-  llm_score: 73
-  recency_score: 33.70003760089919
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 75.78094554953702
+  llm_score: 86
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 4
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 35.726221628554974
-  llm_score: 23
-  recency_score: 65.22044058560728
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 71.69257591745787
+  llm_score: 80
+  recency_score: 71.00174346347615
   length_score: 100
   category_score: 0
   rank: 5
-- slug: s-o-s
-  title: S.O.S
-  score: 30.09102604302951
-  llm_score: 23
-  recency_score: 28.59166927969179
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 71.1101393439342
+  llm_score: 80
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 6
-- slug: rotten
-  title: ROTTEN
-  score: 25.593164219661166
-  llm_score: 0
-  recency_score: 91.35556742779755
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 67.31550484520929
+  llm_score: 78
+  recency_score: 50.550781493860306
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 20.53087890791867
-  llm_score: 0
-  recency_score: 58.450712901471334
+- slug: honey-bees
+  title: HONEY BEES
+  score: 36.82716335184493
+  llm_score: 23
+  recency_score: 72.37656178699199
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 12.937951329342942
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 26.062916276901703
   llm_score: 0
-  recency_score: 9.096683640729124
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 9
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 12.543073024586162
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 23.561115096235135
   llm_score: 0
-  recency_score: 6.529974659810053
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 0
   rank: 10

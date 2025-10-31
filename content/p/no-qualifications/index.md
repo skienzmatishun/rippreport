@@ -29,14 +29,6 @@ authors:
 - admin
 alttags: Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership
 related_articles:
-- slug: no-radar
-  title: NO RADAR
-  score: 77.29806828990351
-  llm_score: 85
-  recency_score: 87.43744388437275
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: pied-piper
   title: PIED PIPER
   score: 72.78468688044195
@@ -44,68 +36,76 @@ related_articles:
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 59.73105920342797
+  llm_score: 65
+  recency_score: 53.251884822281745
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 68.38454733569966
-  llm_score: 92
-  recency_score: 1.4995576820477703
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 57.987521135374735
+  llm_score: 75
+  recency_score: 1.9188873799356607
   length_score: 100
   category_score: 0
   rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 58.488212390233066
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 57.91311439528525
   llm_score: 75
-  recency_score: 5.173380536514811
+  recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 57.90480546508186
-  llm_score: 75
-  recency_score: 1.3812355230319726
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 53.64615963090758
+  llm_score: 60
+  recency_score: 33.70003760089919
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 57.871118582414226
-  llm_score: 75
-  recency_score: 1.1622707856923733
+- slug: no-radar
+  title: NO RADAR
+  score: 46.528837520672745
+  llm_score: 35
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 6
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 56.15207122719237
-  llm_score: 72
-  recency_score: 1.9884629767503073
+- slug: disposal
+  title: DISPOSAL
+  score: 44.471185585247994
+  llm_score: 50
+  recency_score: 14.062706304111916
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 16.80901370434234
-  llm_score: 0
-  recency_score: 34.2585890782252
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 27.145096846653345
+  llm_score: 25
+  recency_score: 1.443129503246706
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 11.711489300388916
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 26.062916276901703
   llm_score: 0
-  recency_score: 1.1246804525279486
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 9
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 11.70820257701188
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 13.514933098434785
   llm_score: 0
-  recency_score: 1.1033167505772241
+  recency_score: 12.847065139826096
   length_score: 100
   category_score: 0
   rank: 10

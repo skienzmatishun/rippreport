@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Aerial view of recreation land in Fairhope, purchased for $2.6 million but leased back for $9,000 annually
 related_articles:
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 88.83141751730334
-  llm_score: 95
-  recency_score: 64.15708758651667
-  rank: 1
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 86.22112415020392
-  llm_score: 85
-  recency_score: 91.10562075101957
-  rank: 2
-- slug: disposal
-  title: DISPOSAL
-  score: 85.08560395285723
-  llm_score: 95
-  recency_score: 45.42801976428615
-  rank: 3
-- slug: truth
-  title: TRUTH
-  score: 82.55484684113631
-  llm_score: 85
-  recency_score: 72.77423420568157
-  rank: 4
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 81.33314208208326
-  llm_score: 85
+  score: 83.33318621698713
+  llm_score: 100
   recency_score: 66.66571041041625
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 72.33818724633142
+  llm_score: 77
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 71.84210916847289
+  llm_score: 74
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 70.63955193638719
+  llm_score: 80
+  recency_score: 64.15708758651667
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 70.47778780784918
+  llm_score: 73
+  recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 81.20972355606835
-  llm_score: 95
-  recency_score: 26.048617780341775
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 70.07708251488602
+  llm_score: 71
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 69.81001209429962
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 68.17584724293476
   llm_score: 75
-  recency_score: 49.0500604714981
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 69.14506144686581
-  llm_score: 85
-  recency_score: 5.7253072343290325
+- slug: do-your-job-pass-the-budget
+  title: DO YOUR JOB, PASS THE BUDGET
+  score: 57.43361365209848
+  llm_score: 72
+  recency_score: 10.318488738640012
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 68.89728897152487
-  llm_score: 85
-  recency_score: 4.486444857624386
+- slug: survey
+  title: SURVEY
+  score: 25.06428741459721
+  llm_score: 0
+  recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: dead-last
-  title: DEAD LAST
-  score: 62.240482350350455
-  llm_score: 75
-  recency_score: 11.20241175175226
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 24.031215972902842
+  llm_score: 0
+  recency_score: 81.20290382386844
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19.

@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Skull wearing a jester’s hat, symbolizing April Fool’s Day disregard for serious health concerns in Alabama
 related_articles:
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 82.62009294457452
-  llm_score: 90
-  recency_score: 98.10046472287257
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 78.9418173045797
+  llm_score: 100
+  recency_score: 38.121812479767996
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 78.03109549158327
-  llm_score: 95
-  recency_score: 57.65547745791634
+- slug: 4-20
+  title: 4-20
+  score: 66.75810538842946
+  llm_score: 66
+  recency_score: 94.92768502479139
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: blind-leading-the-blind
-  title: BLIND LEADING THE BLIND
-  score: 71.19014258029428
-  llm_score: 85
-  recency_score: 58.450712901471334
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 65.23557853706302
+  llm_score: 63
+  recency_score: 97.03126049090956
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: the-jester
-  title: THE JESTER
-  score: 65.70309204579156
-  llm_score: 80
-  recency_score: 48.51546022895776
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 64.53862097642447
+  llm_score: 62
+  recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 64.29061318606568
-  llm_score: 70
-  recency_score: 76.45306593032835
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 53.32339592746386
+  llm_score: 62
+  recency_score: 23.60207352851503
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 62.862546698890085
-  llm_score: 75
-  recency_score: 51.81273349445037
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 52.02190815168054
+  llm_score: 62
+  recency_score: 15.142402985923455
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 59.97531235739841
-  llm_score: 65
-  recency_score: 72.37656178699199
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 50.19482114918801
+  llm_score: 61
+  recency_score: 7.266337469721972
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: halloween-characters
-  title: HALLOWEEN CHARACTERS
-  score: 50.338255352384216
-  llm_score: 65
-  recency_score: 24.19127676192105
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 13.153072734181492
+  llm_score: -2
+  recency_score: 18.4949727721797
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 46.813170710288134
-  llm_score: 65
-  recency_score: 6.565853551440616
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 12.809986991952911
+  llm_score: 0
+  recency_score: 8.264915447693923
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: hate
-  title: HATE
-  score: 46.79530471960261
-  llm_score: 65
-  recency_score: 6.47652359801304
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 11.65038727859141
+  llm_score: 0
+  recency_score: 0.7275173108441672
+  length_score: 100
   category_score: 0
   rank: 10
 ---

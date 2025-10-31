@@ -19,83 +19,83 @@ authors:
 - admin
 alttags: Group gathered around a table, possibly members of CATALYST, a Baldwin County political group discussed in the article
 related_articles:
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 87.32548067379618
-  llm_score: 100
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: catalyst-2
-  title: CATALYST
-  score: 76.7918743351555
-  llm_score: 85
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 75.56110510438626
+  llm_score: 83
   recency_score: 84.14718317851063
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 69.74794518979925
+  llm_score: 75
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 72.5852090245464
-  llm_score: 95
-  recency_score: 16.8038586595515
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 69.26255021398507
+  llm_score: 75
+  recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 66.19498061053923
-  llm_score: 85
-  recency_score: 15.267373968504938
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 63.76208511939382
+  llm_score: 60
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 65.86089614687246
-  llm_score: 85
-  recency_score: 13.095824954670931
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 62.07070381561587
+  llm_score: 60
+  recency_score: 13.459574801503088
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 65.60779301475941
-  llm_score: 85
-  recency_score: 11.45065459593608
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 62.35923150412703
-  llm_score: 79
-  recency_score: 14.335004776825622
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 44.795620221400725
-  llm_score: 50
+  score: 60.18023560601612
+  llm_score: 75
   recency_score: 16.171531439104648
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 59.65797888819187
+  llm_score: 75
+  recency_score: 12.776862773247046
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 59.59440486047424
+  llm_score: 75
+  recency_score: 12.36363159308245
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 23.827534308450897
-  llm_score: 0
-  recency_score: 79.87897300493081
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 50.51529254558906
+  llm_score: 60
+  recency_score: 13.34940154632884
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 13.44055870662807
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 24.990375982211198
   llm_score: 0
-  recency_score: 12.36363159308245
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 10

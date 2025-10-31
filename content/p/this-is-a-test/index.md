@@ -14,81 +14,81 @@ alttags: Abstract mask resembling a face, overlaid with black and yellow target 
 related_articles:
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 85.21693732189854
-  llm_score: 95
+  score: 72.90924501420623
+  llm_score: 75
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 83.52582587613567
-  llm_score: 95
-  recency_score: 87.91786819488183
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 69.52136479973558
+  llm_score: 85
+  recency_score: 36.88887119828122
   length_score: 100
   category_score: 0
   rank: 2
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 81.72982956092235
-  llm_score: 95
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 75.6081639892813
-  llm_score: 85
+  score: 69.45431783543515
+  llm_score: 75
   recency_score: 76.45306593032835
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 69.01171478030626
+  llm_score: 75
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 71.58745980594463
-  llm_score: 95
-  recency_score: 10.318488738640012
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 60.37860164148978
+  llm_score: 75
+  recency_score: 17.460910669683468
   length_score: 100
   category_score: 0
   rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 71.08848655278827
-  llm_score: 85
-  recency_score: 47.075162593123636
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 60.191368022460814
+  llm_score: 60
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 6
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 69.7149612500813
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 59.178744285903456
   llm_score: 75
-  recency_score: 78.14724812552835
+  recency_score: 9.661837858372358
   length_score: 100
   category_score: 0
   rank: 7
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 67.04728744075645
-  llm_score: 85
-  recency_score: 20.807368364916808
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 58.780794245095954
+  llm_score: 65
+  recency_score: 47.075162593123636
   length_score: 100
   category_score: 0
   rank: 8
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 59.314945239080636
-  llm_score: 75
-  recency_score: 10.547144054024043
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 37.74130595979078
+  llm_score: 40
+  recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 56.101821208980375
-  llm_score: 70
-  recency_score: 9.661837858372358
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 12.945640814396254
+  llm_score: 0
+  recency_score: 9.146665293575648
   length_score: 100
   category_score: 0
   rank: 10

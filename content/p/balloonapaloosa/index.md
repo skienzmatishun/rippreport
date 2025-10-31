@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Chinese spy balloon illustration from Backstory Podcast episode, discussed alongside concerns about FBI weaponization
 related_articles:
-- slug: big-mules
-  title: Big Mules
-  score: 66.21736989501663
-  llm_score: 70
-  recency_score: 75.41290431760807
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 60.159870689521014
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 79.62849584190346
   llm_score: 75
-  recency_score: 16.039159481886507
+  recency_score: 67.58522297237245
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 1
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 79.2372306152558
+  llm_score: 75
+  recency_score: 65.04199899916262
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 58.60439984102432
-  llm_score: 65
-  recency_score: 45.928598966657994
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 73.0126928578294
+  llm_score: 85
+  recency_score: 59.582503575891096
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-crime-of-the-century
-  title: THE CRIME OF THE CENTURY
-  score: 56.76705555480243
-  llm_score: 70
-  recency_score: 13.985861106215753
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 64.43669382528411
+  llm_score: 75
+  recency_score: 43.83850986434665
   length_score: 100
   category_score: 0
   rank: 4
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 55.19143307084414
-  llm_score: 70
-  recency_score: 3.7443149604868586
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 63.21551506056099
+  llm_score: 65
+  recency_score: 0.9008478936463692
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: im-back-2
-  title: I'M BACK
-  score: 54.698187388295686
-  llm_score: 50
-  recency_score: 80.5382180239219
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: bsp-128
-  title: Big News
-  score: 49.55002501432673
-  llm_score: 50
-  recency_score: 47.075162593123636
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 45.18442647294729
-  llm_score: 50
-  recency_score: 18.69877207415731
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: alien-indictment
   title: Alien Indictment
-  score: 22.734497570104857
-  llm_score: 0
+  score: 62.73449757010487
+  llm_score: 65
   recency_score: 72.77423420568157
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 62.5716097683416
+  llm_score: 50
+  recency_score: 56.715463494220344
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: press-release
+  title: PRESS RELEASE
+  score: 56.95540864698216
+  llm_score: 65
+  recency_score: 35.21015620538397
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: the-180
+  title: THE 180
+  score: 54.88303982158049
+  llm_score: 65
+  recency_score: 21.73975884027314
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 13.61484629377177
-  llm_score: 0
-  recency_score: 13.496500909516493
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 49.373630610255084
+  llm_score: 50
+  recency_score: 45.928598966657994
   length_score: 100
   category_score: 0
   rank: 10

@@ -13,12 +13,52 @@ alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing ov
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 69.79068875584238
-  llm_score: 70
+  score: 79.02145798661161
+  llm_score: 85
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.69246713027063
+  llm_score: 85
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 78.69246713027063
+  llm_score: 85
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 75.5759834070762
+  llm_score: 85
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 72.31257371103135
+  llm_score: 85
+  recency_score: 55.031729121703655
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.53693464170766
+  llm_score: 85
+  recency_score: 36.990075171099754
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 69.42883625295212
@@ -26,68 +66,28 @@ related_articles:
   recency_score: 36.28743564418876
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 63.558663214723325
-  llm_score: 70
-  recency_score: 58.1313108957015
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 58.76816867887796
-  llm_score: 70
-  recency_score: 26.993096412706674
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 57.89849695974557
-  llm_score: 75
-  recency_score: 1.3402302383461302
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 57.09063756013988
-  llm_score: 65
-  recency_score: 36.08914414090915
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 54.03752186861466
-  llm_score: 50
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 50.77411217256981
-  llm_score: 50
-  recency_score: 55.031729121703655
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 67.1999079212843
+  llm_score: 85
+  recency_score: 21.799401488347854
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 21.879370113164953
-  llm_score: 0
-  recency_score: 67.21590573557219
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 66.75458724244181
+  llm_score: 85
+  recency_score: 18.90481707587172
   length_score: 100
   category_score: 0
   rank: 9
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 11.94190138510967
-  llm_score: 0
-  recency_score: 2.6223590032128543
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 63.573292154680615
+  llm_score: 75
+  recency_score: 38.22639900542388
   length_score: 100
   category_score: 0
   rank: 10

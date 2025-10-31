@@ -13,22 +13,14 @@ authors:
 - admin
 alttags: An open book sheltered by an umbrella, symbolizing reading as protection from corruption and deceptive narratives in politics
 related_articles:
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 77.34505493807342
-  llm_score: 100
-  recency_score: 27.742857097477103
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 71.78556920444784
+  llm_score: 75
+  recency_score: 91.60619982891085
   length_score: 100
   category_score: 0
   rank: 1
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 64.65082875552402
-  llm_score: 85
-  recency_score: 5.23038691090603
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: alabama-ugly
   title: ALABAMA UGLY
   score: 63.430054776391636
@@ -36,60 +28,68 @@ related_articles:
   recency_score: 37.29535604654552
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 61.45505301880193
+  llm_score: 75
+  recency_score: 24.457844622212395
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 60.298146717981396
-  llm_score: 78
-  recency_score: 4.937953666878992
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 61.37347911453624
+  llm_score: 75
+  recency_score: 23.927614244485454
   length_score: 100
   category_score: 0
   rank: 4
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 29.645264664859916
-  llm_score: 23
-  recency_score: 25.694220321589416
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 61.08301736331468
+  llm_score: 75
+  recency_score: 22.03961286154532
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 23.462703749827348
-  llm_score: 0
-  recency_score: 77.50757437387774
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 58.496982601677864
+  llm_score: 75
+  recency_score: 5.23038691090603
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 15.567960260734736
-  llm_score: 0
-  recency_score: 26.19174169477578
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 52.9577313899088
+  llm_score: 60
+  recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 13.926218249298822
-  llm_score: 0
-  recency_score: 15.520418620442342
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 52.41449543409069
+  llm_score: 60
+  recency_score: 25.694220321589416
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 13.424989103593417
-  llm_score: 0
-  recency_score: 12.262429173357202
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 49.16899148775582
+  llm_score: 60
+  recency_score: 4.598444670412715
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 12.51324872648472
-  llm_score: 0
-  recency_score: 6.336116722150677
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 35.58538397976519
+  llm_score: 35
+  recency_score: 16.30499586847368
   length_score: 100
   category_score: 0
   rank: 10

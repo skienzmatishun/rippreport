@@ -13,74 +13,84 @@ authors:
 - ripp-report
 alttags: Chris Elliott in striped prison uniform behind bars, related to his connection to former Governor Bentley and Senate race
 related_articles:
-- slug: elliotttuckercatalyst-selling-your-soul
-  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 86.17392032634467
-  llm_score: 95
-  recency_score: 98.36960163172333
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 100
+  llm_score: 19387
+  recency_score: 43.0057819045064
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 83.70237304520383
-  llm_score: 95
-  recency_score: 86.01186522601911
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 77.13378486641899
+  llm_score: 82
+  recency_score: 98.36960163172333
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
-  score: 80.14740235768714
-  llm_score: 87
+  score: 74.34415565975935
+  llm_score: 78
   recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 79.59689134128178
-  llm_score: 89
-  recency_score: 86.48445670640884
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 73.55471088477226
+  llm_score: 78
+  recency_score: 91.10562075101957
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 76.84434506009413
-  llm_score: 85
-  recency_score: 86.72172530047058
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 72.48418202746319
+  llm_score: 78
+  recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 76.65530775847412
-  llm_score: 85
-  recency_score: 85.7765387923706
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 70.29832552219759
+  llm_score: 79
+  recency_score: 65.93911589428427
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 76.51488310709092
-  llm_score: 85
-  recency_score: 85.07441553545459
-  category_score: 0
-  rank: 7
 - slug: weasel-contractor
   title: WEASEL CONTRACTOR
-  score: 60.50395926891435
-  llm_score: 85
+  score: 60.926122514549505
+  llm_score: 79
   recency_score: 5.0197963445716995
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 25.250847592646338
+  llm_score: 0
+  recency_score: 89.13050935220119
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 52.70325197320485
-  llm_score: 75
-  recency_score: 1.0162598660242268
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 24.734852121903174
+  llm_score: 0
+  recency_score: 85.7765387923706
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 51.52060612108392
-  llm_score: 70
-  recency_score: 12.603030605419562
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 24.555312181361508
+  llm_score: 0
+  recency_score: 84.60952917884977
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -7,84 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: big-mules
-  title: Big Mules
-  score: 73.4434738279955
+- slug: scalped
+  title: Scalped
+  score: 73.14853490624905
   llm_score: 100
-  recency_score: 2.382579881970696
+  recency_score: 0.46547689061875125
   length_score: 100
   category_score: 0
   rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 58.08377046083298
-  llm_score: 75
-  recency_score: 2.5445079954142833
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 41.67740612937854
+  llm_score: 41
+  recency_score: 31.903139840960442
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 56.39598785949566
-  llm_score: 72
-  recency_score: 3.573921086721709
-  length_score: 100
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 40.38194344173164
+  llm_score: 50
+  recency_score: 28.357632371255608
+  length_score: 45.5
   category_score: 0
   rank: 3
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 24.519698385159323
-  llm_score: 0
-  recency_score: 84.37803950353559
-  length_score: 100
+- slug: gone-fishing
+  title: GONE FISHING
+  score: 31.500516098397576
+  llm_score: 42
+  recency_score: 29.62835463958417
+  length_score: 9.5
   category_score: 0
   rank: 4
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 20.959610486740495
+- slug: cameras
+  title: CAMERAS
+  score: 23.857709284339023
   llm_score: 0
-  recency_score: 61.23746816381321
+  recency_score: 5.075110348203666
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 13.86168826594879
-  llm_score: 0
-  recency_score: 15.100973728667121
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 17.449335125067712
+  llm_score: -1
+  recency_score: 42.420678312940126
   length_score: 100
   category_score: 0
   rank: 6
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 13.498754704337427
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 14.696042971463056
   llm_score: 0
-  recency_score: 12.741905578193274
+  recency_score: 20.524279314509858
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp-128
-  title: Big News
-  score: 12.570977129556145
-  llm_score: 0
-  recency_score: 6.711351342114945
-  length_score: 100
+- slug: veterans-day-in-alabama
+  title: Veterans Day In Alabama
+  score: 0
+  llm_score: -100
+  recency_score: 4.177979348616061
+  length_score: 38.75
   category_score: 0
   rank: 8
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 11.823345570456167
-  llm_score: 0
-  recency_score: 1.8517462079650837
-  length_score: 100
+- slug: vote
+  title: VOTE
+  score: 0
+  llm_score: -100
+  recency_score: 32.34317622051765
+  length_score: 19.0
   category_score: 0
   rank: 9
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 11.629348489573351
-  llm_score: 0
-  recency_score: 0.5907651822267828
-  length_score: 100
+- slug: criminal-enterprise
+  title: CRIMINAL ENTERPRISE
+  score: 0
+  llm_score: -23475698
+  recency_score: 72.77423420568157
+  length_score: 33.75
   category_score: 0
   rank: 10
 ---

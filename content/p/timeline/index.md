@@ -14,65 +14,85 @@ authors:
 - admin
 alttags: Calendar icon representing repeated council meetings regarding stalled infrastructure funding requests
 related_articles:
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 84.58768021500666
-  llm_score: 90
-  recency_score: 62.93840107503325
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 76.51440042080482
+  llm_score: 100
+  recency_score: 22.343602735231208
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 84.50975554986516
-  llm_score: 85
-  recency_score: 82.54877774932578
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 70.48945395401353
+  llm_score: 71
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: going-down
-  title: GOING DOWN
-  score: 80.55504977540349
-  llm_score: 80
-  recency_score: 82.7752488770174
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 69.65518585063903
+  llm_score: 78
+  recency_score: 65.75870802915355
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 78.62123778439704
-  llm_score: 85
-  recency_score: 53.10618892198522
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 63.04249931605249
+  llm_score: 78
+  recency_score: 22.77624555434108
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: re-run-doing-nothing
-  title: DOING NOTHING
-  score: 76.12026192592202
-  llm_score: 85
-  recency_score: 40.601309629610085
-  rank: 5
-- slug: shut-up-2
-  title: SHUT UP
-  score: 73.85448470843463
-  llm_score: 75
-  recency_score: 69.27242354217314
-  rank: 6
-- slug: repeat
-  title: REPEAT
-  score: 72.07125559401483
-  llm_score: 85
-  recency_score: 20.356277970074178
-  rank: 7
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 71.22545730213692
-  llm_score: 85
-  recency_score: 16.127286510684606
-  rank: 8
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 64.08242501251668
-  llm_score: 75
-  recency_score: 20.412125062583367
-  rank: 9
-- slug: honeymoon
-  title: HONEYMOON
-  score: 60.16147367298336
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 55.47239673053144
   llm_score: 70
-  recency_score: 20.807368364916808
+  recency_score: 5.570578748454301
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 54.89716367521131
+  llm_score: 70
+  recency_score: 1.8315638888734178
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 18.54656165258712
+  llm_score: 0
+  recency_score: 45.55265074181627
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 15.301206864955754
+  llm_score: 0
+  recency_score: 24.457844622212395
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 12.265564791435745
+  llm_score: 0
+  recency_score: 4.726171144332342
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 0
+  llm_score: -200
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 This is a comment that the Ripp Report received. It accurately describes the Fairhope City council and their obstruction in infrastructure repairs.

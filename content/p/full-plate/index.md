@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Bowl of food on grass, possibly representing community discussions around repurposing the former K-1 school site in Fairhope
 related_articles:
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 85.11575875113695
-  llm_score: 90
-  recency_score: 65.57879375568477
-  rank: 1
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 80.86662028679618
-  llm_score: 85
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 100
+  llm_score: 123800001
   recency_score: 64.3331014339809
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 68.83893322005052
+  llm_score: 74
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 79.25024389308274
-  llm_score: 85
-  recency_score: 56.25121946541366
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 65.55554945805729
+  llm_score: 72
+  recency_score: 63.11107147737226
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: holes
-  title: HOLES
-  score: 73.74975319390109
-  llm_score: 85
-  recency_score: 28.748765969505406
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 64.71622730121791
+  llm_score: 72
+  recency_score: 57.65547745791634
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 72.85152902130565
-  llm_score: 85
-  recency_score: 24.25764510652827
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 59.43442206680048
+  llm_score: 73
+  recency_score: 19.323743434203013
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 72.2810944172931
-  llm_score: 75
-  recency_score: 61.405472086465494
-  rank: 6
-- slug: re-gift-gift
-  title: RE-GIFT GIFT ??
-  score: 69.22401634150835
-  llm_score: 80
-  recency_score: 26.120081707541715
-  rank: 7
-- slug: big-heads
-  title: BIG HEADS
-  score: 63.40541722763621
-  llm_score: 65
-  recency_score: 57.02708613818104
-  rank: 8
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 58.52752135988299
-  llm_score: 70
+  score: 57.79040104606385
+  llm_score: 72
   recency_score: 12.637606799414936
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 55.470491119018085
+  llm_score: 71
+  recency_score: 1.558192273617504
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 22.079602810234114
+  llm_score: 0
+  recency_score: 68.51741826652172
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 0
+  llm_score: -100
+  recency_score: 0.9360721794092739
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: survey
-  title: SURVEY
-  score: 52.825017999907715
-  llm_score: 60
-  recency_score: 24.12508999953858
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 0
+  llm_score: -200
+  recency_score: 6.198753777263179
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope always has some political drama going on but the plate is getting full.

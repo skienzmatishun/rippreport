@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: American football resting on a gray background, representing Super Bowl LV competition between Chiefs and Buccaneers
 related_articles:
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 72.05845932263145
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 71.94086528918079
   llm_score: 75
-  recency_score: 93.37998559710435
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 66.51391092156545
-  llm_score: 75
-  recency_score: 57.34042099017541
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 62.710096058411565
-  llm_score: 60
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.84359874454734
+  llm_score: 75
+  recency_score: 0.9833918395576343
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: open-your-eyes
+  title: OPEN YOUR EYES
+  score: 49.726115705845174
+  llm_score: 60
+  recency_score: 8.219752087993566
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 51.02882493404752
-  llm_score: 53
-  recency_score: 44.68736207130882
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 48.99504933529178
+  llm_score: 60
+  recency_score: 3.467820679396488
   length_score: 100
   category_score: 0
   rank: 4
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 46.469051386791804
-  llm_score: 56
-  recency_score: 3.0488340141466597
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 48.98779079668258
+  llm_score: 60
+  recency_score: 3.4206401784366847
   length_score: 100
   category_score: 0
   rank: 5
-- slug: winner-and-loser
-  title: WINNER AND LOSER
-  score: 25.9440264544694
-  llm_score: 0
-  recency_score: 93.63617195405108
+- slug: the-big-lie
+  title: THE BIG LIE
+  score: 44.52445473844017
+  llm_score: 30
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 21.27449470737531
-  llm_score: 0
-  recency_score: 63.2842155979395
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 44.40556491600787
+  llm_score: 30
+  recency_score: 93.63617195405108
   length_score: 100
   category_score: 0
   rank: 7
-- slug: warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th
-  title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
-  score: 19.379689158922666
-  llm_score: 0
-  recency_score: 50.96797953299731
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 43.80409267342051
+  llm_score: 40
+  recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
   rank: 8
-- slug: election-ad
-  title: ELECTION AD
-  score: 17.451759021205746
-  llm_score: 0
-  recency_score: 38.436433637837325
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 39.73603316891378
+  llm_score: 30
+  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 9
-- slug: countdown
-  title: COUNTDOWN
-  score: 11.998603128693366
+- slug: he-must-go
+  title: He Must Go
+  score: 16.41981633514853
   llm_score: 0
-  recency_score: 2.990920336506884
+  recency_score: 31.72880617846543
   length_score: 100
   category_score: 0
   rank: 10

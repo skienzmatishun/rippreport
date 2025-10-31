@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: ALDOT bridge construction over Pleasure Island in Alabama, central to a dispute detailed in this Bad Faith podcast episode
 related_articles:
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 67.07395916848306
-  llm_score: 70
-  recency_score: 80.98073459513984
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 57.07287839924212
+  llm_score: 50
+  recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 1
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 60.48363911382725
-  llm_score: 75
-  recency_score: 18.143654239877034
+- slug: scalped
+  title: Scalped
+  score: 45.24817423431947
+  llm_score: 50
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 58.71166909293986
-  llm_score: 70
-  recency_score: 26.62584910410898
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 45.24817423431947
+  llm_score: 50
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 57.95996289850357
-  llm_score: 70
-  recency_score: 21.73975884027314
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 31.450232913408925
+  llm_score: 30
+  recency_score: 9.426513937157974
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 57.87850228118324
-  llm_score: 70
-  recency_score: 21.21026482769095
+- slug: offensive
+  title: Offensive
+  score: 26.263250429276884
+  llm_score: 0
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 57.165421274304215
-  llm_score: 70
-  recency_score: 16.575238282977313
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 24.134319278122803
+  llm_score: 0
+  recency_score: 81.87307530779819
   length_score: 100
   category_score: 0
   rank: 6
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 56.440897827776894
-  llm_score: 70
-  recency_score: 11.86583588054974
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 24.074966625100707
+  llm_score: 20
+  recency_score: 1.487283063154587
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 54.123670563007934
-  llm_score: 65
-  recency_score: 16.8038586595515
+- slug: the-180
+  title: THE 180
+  score: 15.877334310488594
+  llm_score: 0
+  recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
   rank: 8
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 45.978792131773716
-  llm_score: 50
-  recency_score: 23.862148856529085
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 15.567960260734736
+  llm_score: 0
+  recency_score: 26.19174169477578
   length_score: 100
   category_score: 0
   rank: 9
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 14.687403903171369
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 15.416330698830459
   llm_score: 0
-  recency_score: 20.468125370613887
+  recency_score: 25.20614954239798
   length_score: 100
   category_score: 0
   rank: 10

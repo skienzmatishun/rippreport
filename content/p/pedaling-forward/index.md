@@ -16,65 +16,85 @@ authors:
 - ripp-report
 alttags: Cyclist silhouette blurred in motion, symbolizing Fairhope City Council’s past inaction & potential for progress on educat...
 related_articles:
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 77.8524532338004
+  llm_score: 100
+  recency_score: 31.040946019702552
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 75.32915029430391
+  llm_score: 79
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: pedaling-backwards
   title: PEDALING BACKWARDS
-  score: 87.72789538259508
-  llm_score: 85
+  score: 69.17530414045777
+  llm_score: 69
   recency_score: 98.63947691297537
-  rank: 1
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 67.005879695988
+  llm_score: 70
+  recency_score: 80.5382180239219
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: stepping-up
+  title: STEPPING UP
+  score: 66.40240375071926
+  llm_score: 66
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: full-plate
+  title: FULL PLATE
+  score: 62.346527812223705
+  llm_score: 67
+  recency_score: 62.252430779453995
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 54.78397306994938
+  llm_score: 67
+  recency_score: 13.095824954670931
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 87.51287958944485
-  llm_score: 85
+  score: 26.548368914957578
+  llm_score: 0
   recency_score: 97.56439794722424
-  rank: 2
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 86.52312487593501
-  llm_score: 85
-  recency_score: 92.61562437967505
-  rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 84.64601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
-  rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 81.18782317885686
-  llm_score: 85
-  recency_score: 65.93911589428427
-  rank: 5
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 75.0613509305972
-  llm_score: 85
-  recency_score: 35.306754652986015
-  rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 72.56774635711682
-  llm_score: 85
-  recency_score: 22.8387317855841
-  rank: 7
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 68.10793937687782
-  llm_score: 85
-  recency_score: 0.5396968843891398
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 59.66625449247667
-  llm_score: 65
-  recency_score: 38.33127246238332
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 22.022001089088594
+  llm_score: 0
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 55.63868620757777
-  llm_score: 65
-  recency_score: 18.193431037888864
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 17.549767251462637
+  llm_score: 0
+  recency_score: 39.073487134507126
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.

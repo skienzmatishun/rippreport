@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX and HOPE, referencing financial concerns in ...
 related_articles:
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 73.93519903933613
+- slug: no-radar
+  title: NO RADAR
+  score: 76.54596580758859
   llm_score: 85
-  recency_score: 65.57879375568477
+  recency_score: 82.54877774932578
   length_score: 100
   category_score: 0
   rank: 1
-- slug: s-o-s
-  title: S.O.S
-  score: 68.94315528495403
-  llm_score: 71
-  recency_score: 89.13050935220119
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 66.3700836464598
+  llm_score: 75
+  recency_score: 56.40554370198863
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 68.82202711084888
-  llm_score: 85
-  recency_score: 32.34317622051765
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 57.9710156212881
+  llm_score: 75
+  recency_score: 1.811601538372569
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 61.81173008528326
-  llm_score: 76
-  recency_score: 22.77624555434108
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 57.882748698181025
+  llm_score: 75
+  recency_score: 1.2378665381765555
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 23.30047168158898
-  llm_score: 0
-  recency_score: 76.45306593032835
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 57.87210105736746
+  llm_score: 75
+  recency_score: 1.1686568728883742
   length_score: 100
   category_score: 0
   rank: 5
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 20.80600822801484
-  llm_score: 0
-  recency_score: 60.23905348209645
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 17.030123982393306
-  llm_score: 0
+  score: 57.03012398239331
+  llm_score: 65
   recency_score: 35.69580588555647
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 56.21594580371498
+  llm_score: 70
+  recency_score: 10.403647724147305
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 15.480603314014223
-  llm_score: 0
-  recency_score: 25.623921541092447
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 39.39101997282846
+  llm_score: 45
+  recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
   rank: 8
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 12.85970523655833
-  llm_score: 0
-  recency_score: 8.588084037629146
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 27.756927977773067
+  llm_score: 25
+  recency_score: 5.420031855524929
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 12.007512925253332
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 26.062916276901703
   llm_score: 0
-  recency_score: 3.0488340141466597
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 10

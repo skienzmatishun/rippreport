@@ -8,14 +8,22 @@ authors:
 - admin
 alttags: Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork and knife crossed out with catalyst in red
 related_articles:
-- slug: catalyst-2
-  title: CATALYST
-  score: 68.65125313421913
-  llm_score: 90
-  recency_score: 11.233145372424257
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 74.01846441619033
+  llm_score: 85
+  recency_score: 66.12001870523703
   length_score: 100
   category_score: 0
   rank: 1
+- slug: last-chance
+  title: LAST CHANCE
+  score: 72.950992415552
+  llm_score: 75
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
   score: 66.48865050262135
@@ -23,7 +31,47 @@ related_articles:
   recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 66.46702036476606
+  llm_score: 85
+  recency_score: 17.035632370979314
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 65.89990793020445
+  llm_score: 85
+  recency_score: 13.34940154632884
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 65.88868525829436
+  llm_score: 85
+  recency_score: 13.276454178913294
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 64.07559436895703
+  llm_score: 85
+  recency_score: 1.4913633982206251
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 60.04113445669309
+  llm_score: 75
+  recency_score: 15.267373968504938
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: catalyst-central
   title: CATALYST CENTRAL
   score: 59.2368658264105
@@ -31,60 +79,12 @@ related_articles:
   recency_score: 10.039627871668154
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 57.95114294808066
-  llm_score: 75
-  recency_score: 1.6824291625241752
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 55.090905574610325
-  llm_score: 70
-  recency_score: 3.090886234967053
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 55.025511158499576
-  llm_score: 70
-  recency_score: 2.665822530247155
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 54.90419802043336
-  llm_score: 70
-  recency_score: 1.8772871328167993
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 53.67251999048985
-  llm_score: 65
-  recency_score: 13.871379938184003
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 51.85201585486699
-  llm_score: 65
-  recency_score: 2.038103056635405
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 11.933155068106574
-  llm_score: 0
-  recency_score: 2.565507942692728
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 57.946226281087604
+  llm_score: 75
+  recency_score: 1.6504708270693496
   length_score: 100
   category_score: 0
   rank: 10

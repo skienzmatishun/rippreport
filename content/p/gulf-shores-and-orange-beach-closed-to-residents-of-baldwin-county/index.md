@@ -13,65 +13,85 @@ authors:
 - ripp-report
 alttags: Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid development discussed in the article
 related_articles:
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 86.22112415020392
-  llm_score: 85
-  recency_score: 91.10562075101957
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 72.70221506880374
+  llm_score: 75
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 82.83667471122875
-  llm_score: 85
-  recency_score: 74.18337355614374
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 69.33497338185943
+  llm_score: 72
+  recency_score: 87.6773269820862
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 76.41953853153237
-  llm_score: 75
-  recency_score: 82.09769265766185
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 67.35003828877191
+  llm_score: 70
+  recency_score: 82.7752488770174
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 76.27749588022975
-  llm_score: 85
-  recency_score: 41.38747940114875
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 67.26889804209566
+  llm_score: 69
+  recency_score: 86.24783727362167
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 75.6243624959536
-  llm_score: 85
-  recency_score: 38.121812479767996
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 58.74547592641069
+  llm_score: 70
+  recency_score: 26.845593521669393
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 74.32839938269227
-  llm_score: 85
-  recency_score: 31.641996913461323
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 58.45832193540766
+  llm_score: 71
+  recency_score: 20.979092580149743
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 72.60477556093977
-  llm_score: 90
-  recency_score: 3.0238778046988695
+- slug: going-down
+  title: GOING DOWN
+  score: 58.31516314390839
+  llm_score: 69
+  recency_score: 28.048560435404436
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 62.99547296281644
-  llm_score: 75
-  recency_score: 14.977364814082216
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 24.308052511428635
+  llm_score: 0
+  recency_score: 83.00234132428609
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 58.20818920394051
-  llm_score: 65
-  recency_score: 31.040946019702552
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 19.20969637553307
+  llm_score: 0
+  recency_score: 49.86302644096496
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 52.596547449808504
-  llm_score: 65
-  recency_score: 2.9827372490425272
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 13.44055870662807
+  llm_score: 0
+  recency_score: 12.36363159308245
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey,

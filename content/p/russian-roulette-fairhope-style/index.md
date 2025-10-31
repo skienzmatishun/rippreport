@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Revolver cylinder graphic symbolizing Fairhope city council’s legal risks and potential consequences for taxpayers
 related_articles:
-- slug: back-stabber
-  title: BACK STABBER
-  score: 86.70151487477555
-  llm_score: 89
-  recency_score: 77.50757437387774
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 87.80171196773843
+  llm_score: 100
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 84.55504977540349
-  llm_score: 85
-  recency_score: 82.7752488770174
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 78.2818560255775
+  llm_score: 84
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 80.14253972246432
-  llm_score: 90
-  recency_score: 40.71269861232158
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 59.72274327323637
+  llm_score: 78
+  recency_score: 1.1978312760363046
+  length_score: 100
+  category_score: 0
   rank: 3
 - slug: russian-roulette-fairhope-style-rerun
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 80.0254062295506
-  llm_score: 100
+  score: 26.942620176577385
+  llm_score: 25
   recency_score: 0.12703114775298338
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 79.618802726002
-  llm_score: 95
-  recency_score: 18.094013630009982
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 24.448762841683614
+  llm_score: 0
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 78.59388848195266
-  llm_score: 90
+  score: 16.610683447655894
+  llm_score: 0
   recency_score: 32.96944240976332
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 76.38383562381885
-  llm_score: 90
-  recency_score: 21.919178119094283
-  rank: 7
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 74.80890176713604
-  llm_score: 89
+  score: 14.314539820873874
+  llm_score: 0
   recency_score: 18.044508835680173
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 10.327235561192767
+  llm_score: -2
+  recency_score: 0.12703114775298338
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 74.10697098845993
-  llm_score: 85
-  recency_score: 30.53485494229968
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 0
+  llm_score: -100
+  recency_score: 1.9939182901419266
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 72.56774635711682
-  llm_score: 85
-  recency_score: 22.8387317855841
+- slug: fraud
+  title: FRAUD
+  score: 0
+  llm_score: -23
+  recency_score: 9.121640233165
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.

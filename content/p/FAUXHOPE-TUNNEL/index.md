@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction
 related_articles:
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 69.34017350619997
-  llm_score: 70
-  recency_score: 95.71112779029973
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 78.65184796745164
+  llm_score: 85
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 68.79669864950806
-  llm_score: 75
-  recency_score: 72.17854122180232
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 73.08834474664954
+  llm_score: 85
+  recency_score: 60.07424085322191
   length_score: 100
   category_score: 0
   rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 65.3606357225538
-  llm_score: 70
-  recency_score: 69.84413219659965
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 66.40033911764226
+  llm_score: 89
+  recency_score: 0.6022042646746438
   length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 60.1372209530851
-  llm_score: 70
-  recency_score: 35.89193619505306
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 65.47770696147481
+  llm_score: 85
+  recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 59.87151667490806
-  llm_score: 70
-  recency_score: 34.164858386902274
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 64.34571300529507
+  llm_score: 85
+  recency_score: 3.247134534417837
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 58.119422392975565
-  llm_score: 70
-  recency_score: 22.77624555434108
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 63.86085165802695
+  llm_score: 85
+  recency_score: 0.09553577717508804
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 58.08123162567041
-  llm_score: 70
-  recency_score: 22.528005566857594
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 63.21414403000818
+  llm_score: 75
+  recency_score: 35.89193619505306
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 56.40132187269567
-  llm_score: 70
-  recency_score: 11.608592172521774
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 58.15497752669219
+  llm_score: 75
+  recency_score: 3.007353923499134
   length_score: 100
   category_score: 0
   rank: 8
-- slug: going-down
-  title: GOING DOWN
-  score: 55.053384732813825
-  llm_score: 70
-  recency_score: 2.8470007632897696
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 57.911907804290585
+  llm_score: 75
+  recency_score: 1.4274007278886993
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 11.766648291044461
-  llm_score: 0
-  recency_score: 1.4832138917890048
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 57.71050724944501
+  llm_score: 75
+  recency_score: 0.11829712139245786
   length_score: 100
   category_score: 0
   rank: 10

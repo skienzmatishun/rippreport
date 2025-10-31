@@ -18,83 +18,83 @@ authors:
 - admin
 alttags: Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections
 related_articles:
-- slug: first-congressional-district
-  title: FIRST CONGRESSIONAL DISTRICT
-  score: 66.83376726954884
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 63.85367991361
   llm_score: 75
-  recency_score: 59.41948725206741
+  recency_score: 40.048919438464885
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 64.5574939671585
-  llm_score: 85
-  recency_score: 4.623710786530182
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 60.80692950092163
+  llm_score: 75
+  recency_score: 20.245041755990528
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 60.632789618934865
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 58.279510267837615
   llm_score: 75
-  recency_score: 19.113132523076512
+  recency_score: 3.816816740944404
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 56.6566853566469
-  llm_score: 68
-  recency_score: 21.268454818204823
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 50.2920599374944
+  llm_score: 60
+  recency_score: 11.898389593713517
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 53.50828594762332
-  llm_score: 64
-  recency_score: 16.8038586595515
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 42.82112723015887
+  llm_score: 50
+  recency_score: 3.337326996032608
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 52.52399007500916
-  llm_score: 65
-  recency_score: 6.405935487559478
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 36.729894609305674
+  llm_score: 40
+  recency_score: 3.7443149604868586
   length_score: 100
   category_score: 0
   rank: 6
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 42.4619128332189
-  llm_score: 50
-  recency_score: 1.002433415922802
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 36.7220573370767
+  llm_score: 40
+  recency_score: 3.6933726909985176
   length_score: 100
   category_score: 0
   rank: 7
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 20.80600822801484
-  llm_score: 0
-  recency_score: 60.23905348209645
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 30.516255986391343
+  llm_score: 30
+  recency_score: 3.355663911543685
   length_score: 100
   category_score: 0
   rank: 8
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 17.403355766118153
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 12.650250893333574
   llm_score: 0
-  recency_score: 38.121812479767996
+  recency_score: 7.226630806668228
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 14.653083347075466
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 12.200893470584546
   llm_score: 0
-  recency_score: 20.245041755990528
+  recency_score: 4.305807558799547
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Person reading a newspaper titled Lagniappe, referencing scrutiny of Fairhope City Council actions discussed in the article
 related_articles:
-- slug: 100-voices
-  title: 100 VOICES
-  score: 72.06122775949724
-  llm_score: 85
-  recency_score: 53.39798043673202
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 73.06414745706824
+  llm_score: 79
+  recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 65.12790821841465
-  llm_score: 87
-  recency_score: 0.3314034196950972
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 69.81157675031038
+  llm_score: 74
+  recency_score: 82.7752488770174
   length_score: 100
   category_score: 0
   rank: 2
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 57.74246157288432
-  llm_score: 75
-  recency_score: 0.3260002237479753
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 68.6826836745189
+  llm_score: 71
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 3
-- slug: documents
-  title: DOCUMENTS
-  score: 24.698747108660246
-  llm_score: 0
-  recency_score: 85.54185620629158
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 57.138084769242376
+  llm_score: 71
+  recency_score: 12.39755100007539
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 21.79472467852558
-  llm_score: 0
-  recency_score: 66.66571041041625
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 56.57759638579773
+  llm_score: 71
+  recency_score: 8.754376507685183
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 16.41981633514853
-  llm_score: 0
-  recency_score: 31.72880617846543
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 56.005164318158386
+  llm_score: 71
+  recency_score: 5.033568068029432
   length_score: 100
   category_score: 0
   rank: 6
-- slug: back-stabber
-  title: BACK STABBER
-  score: 16.109175309574688
-  llm_score: 0
-  recency_score: 29.70963951223547
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 43.504841852229816
+  llm_score: 50
+  recency_score: 7.781472039493755
   length_score: 100
   category_score: 0
   rank: 7
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 12.570977129556145
+- slug: police-report
+  title: POLICE REPORT
+  score: 26.514400420804805
   llm_score: 0
-  recency_score: 6.711351342114945
+  recency_score: 22.343602735231208
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
-- slug: shut-up
-  title: SHUT UP
-  score: 12.532123689580692
+- slug: nuff-said
+  title: NUFF SAID
+  score: 12.614293238049823
   llm_score: 0
-  recency_score: 6.458803982274494
+  recency_score: 6.992906047323852
   length_score: 100
   category_score: 0
   rank: 9
-- slug: hello-can-you-hear-me-now
-  title: HELLO CAN YOU HEAR ME NOW
-  score: 12.211872756088528
-  llm_score: 0
-  recency_score: 4.377172914575434
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 12.04060974003799
+  llm_score: -2
+  recency_score: 11.263963310246938
   length_score: 100
   category_score: 0
   rank: 10

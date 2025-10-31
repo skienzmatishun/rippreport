@@ -8,45 +8,85 @@ authors:
 - ripp-report
 alttags: Silhouette of a man gesturing emphatically, representing Gary Thorson’s opposition to Fairhopes proposed government change
 related_articles:
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 95
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 74.01545611121118
+  llm_score: 77
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 73.11338642899011
+  llm_score: 76
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: the-face-of-no
   title: THE FACE OF NO
-  score: 85
+  score: 71.18867728610554
+  llm_score: 72
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 85
-  rank: 4
-- slug: bury-the-body
-  title: BURY THE BODY
-  score: 85
-  rank: 5
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
-  rank: 6
 - slug: hell-yea
   title: HELL YEA
-  score: 75
+  score: 69.67170888417307
+  llm_score: 72
+  recency_score: 89.86610774712484
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 69.55853990033866
+  llm_score: 72
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 64.79828798554244
+  llm_score: 76
+  recency_score: 42.18887190602582
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 61.07356394423205
+  llm_score: 72
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 75
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 59.14651929434498
+  llm_score: 75
+  recency_score: 9.45237541324223
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 75
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 58.69153427264305
+  llm_score: 72
+  recency_score: 18.4949727721797
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: shut-up
-  title: SHUT UP
-  score: 65
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 57.82262540612711
+  llm_score: 72
+  recency_score: 12.847065139826096
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 {{< socialpreview url="https://rippreport.com/p/the-face-of-no/" >}}

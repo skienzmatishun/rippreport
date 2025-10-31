@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction
 related_articles:
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 70.66789901482632
-  llm_score: 95
-  recency_score: 4.341343596371005
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 72.01915387076694
+  llm_score: 75
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 1
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 70.185062126749
-  llm_score: 75
-  recency_score: 81.20290382386844
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 67.35003828877191
+  llm_score: 70
+  recency_score: 82.7752488770174
   length_score: 100
   category_score: 0
   rank: 2
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 64.37674936721567
-  llm_score: 85
-  recency_score: 3.4488708869018017
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 61.54991008237764
+  llm_score: 60
+  recency_score: 85.07441553545459
   length_score: 100
   category_score: 0
   rank: 3
-- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
-  title: WHO’S RESPONSIBLE?
-  score: 59.00170701410756
-  llm_score: 76
-  recency_score: 4.511095591699039
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 58.44165717957148
-  llm_score: 75
-  recency_score: 4.870771667214523
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: straw-man
-  title: STRAW MAN
-  score: 32.62402600415323
-  llm_score: 23
-  recency_score: 45.05616902699594
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 24.95357186171603
-  llm_score: 0
-  recency_score: 87.19821710115417
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: conflict-on-interest
-  title: CONFLICT OF INTEREST
-  score: 20.168818070201294
-  llm_score: 0
-  recency_score: 56.097317456308396
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: a-spiders-web
   title: A SPIDER’S WEB
-  score: 12.058978210421927
-  llm_score: 0
+  score: 58.212824364268094
+  llm_score: 75
   recency_score: 3.3833583677425256
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: straw-man
+  title: STRAW MAN
+  score: 55.393256773384
+  llm_score: 60
+  recency_score: 45.05616902699594
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 53.15223223551871
+  llm_score: 65
+  recency_score: 10.489509530871569
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 52.502092043066355
+  llm_score: 60
+  recency_score: 26.263598279931234
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 52.07052261546904
+  llm_score: 45
+  recency_score: 83.45839700054867
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 48.98491510803753
+  llm_score: 60
+  recency_score: 3.401948202243831
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: boone-doggle
-  title: BOONE-DOGGLE
-  score: 12.051896460928093
-  llm_score: 0
-  recency_score: 3.337326996032608
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 41.705101943899194
+  llm_score: 45
+  recency_score: 16.083162635344685
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: 'Backstory Podcast logo: Eagle head within radiating sound waves, representing political corruption and consumer issues cov...'
 related_articles:
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 82.9812368466978
-  llm_score: 95
-  recency_score: 84.37803950353559
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 75.53773488000276
+  llm_score: 100
+  recency_score: 15.995276720017856
   length_score: 100
   category_score: 0
   rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 70.46393916098143
-  llm_score: 95
-  recency_score: 3.015604546379232
+- slug: going-down
+  title: GOING DOWN
+  score: 73.03248119850767
+  llm_score: 76
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bsp-128
-  title: Big News
-  score: 58.91598579287716
-  llm_score: 75
-  recency_score: 7.953907653701443
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 62.355023063129515
+  llm_score: 71
+  recency_score: 46.30764991034176
   length_score: 100
   category_score: 0
   rank: 3
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 58.78476518902573
-  llm_score: 73
-  recency_score: 15.100973728667121
+- slug: repeat
+  title: REPEAT
+  score: 58.327274847797646
+  llm_score: 72
+  recency_score: 16.127286510684606
   length_score: 100
   category_score: 0
   rank: 4
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 30.402865658872877
-  llm_score: 23
-  recency_score: 30.618626782673648
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 57.020563112772905
+  llm_score: 72
+  recency_score: 7.633660233023765
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 29.960439553458023
-  llm_score: 23
-  recency_score: 27.742857097477103
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 23.561115096235135
+  llm_score: 0
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 22.70386547971357
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 18.623785119149687
   llm_score: 0
-  recency_score: 72.57512561813819
+  recency_score: 46.05460327447295
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-153
-  title: No Boomers
-  score: 12.007512925253332
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 14.957154900011432
   llm_score: 0
-  recency_score: 3.0488340141466597
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 8
-- slug: big-mules
-  title: Big Mules
-  score: 11.972876409000284
-  llm_score: 0
-  recency_score: 2.82369665850184
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 0
+  llm_score: -100
+  recency_score: 10.262103694967568
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 11.630854868925635
-  llm_score: 0
-  recency_score: 0.6005566480166232
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 0
+  llm_score: -100
+  recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 10

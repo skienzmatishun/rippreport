@@ -12,46 +12,62 @@ authors:
 - admin
 alttags: 'Satirical depiction: Jack Burrell’s face superimposed on a toy rocket, symbolizing developer influence in Fairhope politics'
 related_articles:
-- slug: pied-piper
-  title: PIED PIPER
-  score: 72.19738611412525
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 76.93452546699302
   llm_score: 85
-  recency_score: 54.28300974181401
+  recency_score: 85.07441553545459
   length_score: 100
   category_score: 0
   rank: 1
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 68.82202711084888
+- slug: police-report
+  title: POLICE REPORT
+  score: 75.78585064743844
   llm_score: 85
-  recency_score: 32.34317622051765
+  recency_score: 2.6080292083498433
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 67.78829562170654
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 72.52392980030595
   llm_score: 85
-  recency_score: 25.623921541092447
+  recency_score: 56.40554370198863
   length_score: 100
   category_score: 0
   rank: 3
-- slug: jack-ass
-  title: JACK ASS
-  score: 67.09897248334886
-  llm_score: 90
-  recency_score: 1.1433211417674878
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 64.89866220481596
+  llm_score: 85
+  recency_score: 6.841304331303704
   length_score: 100
   category_score: 0
   rank: 4
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 64.68229255663162
-  llm_score: 85
-  recency_score: 5.4349016181054575
+- slug: no-radar
+  title: NO RADAR
+  score: 64.85570567828515
+  llm_score: 75
+  recency_score: 46.562086908853416
   length_score: 100
   category_score: 0
   rank: 5
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 64.7489590867146
+  llm_score: 85
+  recency_score: 5.868234063644852
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 64.26307791244253
+  llm_score: 85
+  recency_score: 2.7100064308763563
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
   score: 64.26079964454098
@@ -59,36 +75,20 @@ related_articles:
   recency_score: 2.695197689516261
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 64.11510988600052
-  llm_score: 85
-  recency_score: 1.7482142590033594
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 64.08521986097314
-  llm_score: 85
-  recency_score: 1.5539290963253303
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 64.03975126112184
-  llm_score: 85
-  recency_score: 1.2583831972918698
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 61.27449470737532
+  llm_score: 65
+  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 9
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 57.78269799465268
-  llm_score: 75
-  recency_score: 0.587536965242325
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 60.878730031133195
+  llm_score: 80
+  recency_score: 0.7117452023656687
   length_score: 100
   category_score: 0
   rank: 10

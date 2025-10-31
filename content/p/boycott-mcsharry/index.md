@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 83.36132409549437
-  llm_score: 100
-  recency_score: 66.84860662071335
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: cover-up
-  title: COVER UP
-  score: 72.08376567106845
-  llm_score: 85
-  recency_score: 53.544476861944815
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: crazy
-  title: CRAZY
-  score: 67.02030183363104
-  llm_score: 70
-  recency_score: 5.6319619186017045
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 64.24530403757821
-  llm_score: 70
+  score: 73.47607326834745
+  llm_score: 85
   recency_score: 62.594476244258324
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 63.83682254460155
-  llm_score: 75
-  recency_score: 39.93934653990996
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 1
 - slug: surrender
   title: SURRENDER
-  score: 62.49969579599747
-  llm_score: 70
+  score: 71.7304650267667
+  llm_score: 85
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 62.32876898866889
-  llm_score: 70
+  score: 71.55953821943812
+  llm_score: 85
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 60.982689138638285
-  llm_score: 70
-  recency_score: 41.38747940114875
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 3
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 58.55752639093731
-  llm_score: 70
+  score: 67.78829562170654
+  llm_score: 85
   recency_score: 25.623921541092447
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 65.4206195109864
+  llm_score: 85
+  recency_score: 10.234026821411552
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 64.43335642168377
+  llm_score: 85
+  recency_score: 3.816816740944404
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: one-woman
+  title: ONE WOMAN
+  score: 64.4143650293844
+  llm_score: 85
+  recency_score: 3.6933726909985176
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: barstool
+  title: BARSTOOL
+  score: 64.23335003296674
+  llm_score: 85
+  recency_score: 2.5167752142837743
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 61.57017685267663
+  llm_score: 75
+  recency_score: 25.20614954239798
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 16.596805968200847
-  llm_score: 0
-  recency_score: 32.87923879330549
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 59.38301815209827
+  llm_score: 75
+  recency_score: 10.989617988638654
   length_score: 100
   category_score: 0
   rank: 10

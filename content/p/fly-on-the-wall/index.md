@@ -16,83 +16,83 @@ authors:
 - admin
 alttags: Illustration of a fly, symbolizing corruption and harmful relationships within city government
 related_articles:
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 71.70855703861841
-  llm_score: 75
-  recency_score: 91.10562075101957
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 70.73511532940424
+  llm_score: 95
+  recency_score: 4.778249641127455
   length_score: 100
   category_score: 0
   rank: 1
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 65.42775293469832
-  llm_score: 87
-  recency_score: 2.2803940755389456
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 68.79669864950806
+  llm_score: 75
+  recency_score: 72.17854122180232
   length_score: 100
   category_score: 0
   rank: 2
-- slug: hate
-  title: HATE
-  score: 63.34248786835884
-  llm_score: 83
-  recency_score: 4.726171144332342
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 62.98599319997864
+  llm_score: 60
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 3
-- slug: queen-bee
-  title: QUEEN BEE
-  score: 37.454317835435134
-  llm_score: 23
-  recency_score: 76.45306593032835
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 61.46537604478173
+  llm_score: 75
+  recency_score: 24.524944291081134
   length_score: 100
   category_score: 0
   rank: 4
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 25.13860495273569
-  llm_score: 0
-  recency_score: 88.40093219278197
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 43.750000470856406
+  llm_score: 50
+  recency_score: 9.375003060566598
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 24.413440561960563
-  llm_score: 0
-  recency_score: 83.68736365274363
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 33.448529620818086
+  llm_score: 35
+  recency_score: 2.4154425353175037
   length_score: 100
   category_score: 0
   rank: 6
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 19.663998752678694
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 25.554710884772245
   llm_score: 0
-  recency_score: 52.81599189241148
+  recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 7
-- slug: honey-bees
-  title: HONEY BEES
-  score: 18.508266119103027
-  llm_score: 0
-  recency_score: 45.30372977416965
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 15.370918520128715
+  llm_score: 5
+  recency_score: 4.910970380836641
   length_score: 100
   category_score: 0
   rank: 8
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 12.381500942067067
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 13.363974750853806
   llm_score: 0
-  recency_score: 5.4797561234359335
+  recency_score: 11.86583588054974
   length_score: 100
   category_score: 0
   rank: 9
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 11.791685411974218
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 12.22303401456865
   llm_score: 0
-  recency_score: 1.6459551778324155
+  recency_score: 4.449721094696223
   length_score: 100
   category_score: 0
   rank: 10

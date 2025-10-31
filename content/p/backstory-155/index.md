@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Alabama Attorney General Steve Marshall testifies against ESG investing before Congress, per Backstory Podcast
 related_articles:
-- slug: bad-faith
-  title: Bad Faith
-  score: 71.55391764967271
-  llm_score: 73
-  recency_score: 98.10046472287257
+- slug: offensive
+  title: Offensive
+  score: 69.06047094673639
+  llm_score: 70
+  recency_score: 93.89306115378648
   length_score: 100
   category_score: 0
   rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 71.47144583803451
-  llm_score: 73
-  recency_score: 97.56439794722424
+- slug: what-the
+  title: What the
+  score: 60.947895211667664
+  llm_score: 70
+  recency_score: 41.16131887583971
   length_score: 100
   category_score: 0
   rank: 2
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 65.3845884279583
-  llm_score: 75
-  recency_score: 49.99982478172893
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 54.535880495582525
+  llm_score: 65
+  recency_score: 19.483223221286327
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 61.161350422973214
-  llm_score: 60
-  recency_score: 82.54877774932578
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 53.170014653782495
+  llm_score: 65
+  recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 61.01860963696893
-  llm_score: 75
-  recency_score: 21.62096264029795
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.074235985606926
-  llm_score: 75
-  recency_score: 2.48253390644493
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 57.89643145414458
-  llm_score: 70
-  recency_score: 21.326804451939722
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: bsp-128
   title: Big News
-  score: 17.229242334015346
-  llm_score: 0
+  score: 47.99847310324613
+  llm_score: 50
   recency_score: 36.990075171099754
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: the-180
+  title: THE 180
+  score: 46.56414666078504
+  llm_score: 50
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 46.260649280244536
+  llm_score: 50
+  recency_score: 25.694220321589416
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 41.570242521677365
+  llm_score: 30
+  recency_score: 75.2065763909028
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 15.71406303956244
-  llm_score: 0
-  recency_score: 27.14140975715586
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 35.184621169369116
+  llm_score: 30
+  recency_score: 33.70003760089919
   length_score: 100
   category_score: 0
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 11.991100987714464
+- slug: he-must-go
+  title: He Must Go
+  score: 16.56916481077892
   llm_score: 0
-  recency_score: 2.9421564201440202
+  recency_score: 32.69957127006297
   length_score: 100
   category_score: 0
   rank: 10

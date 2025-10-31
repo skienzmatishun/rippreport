@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: Council denies knowledge of property purchase; graphic shows a speech bubble crossed out
 related_articles:
-- slug: shut-up-2
-  title: SHUT UP
-  score: 75.25230365035553
-  llm_score: 100
-  recency_score: 14.139973727310823
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 72.86761183276546
+  llm_score: 75
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
-- slug: honeymoon
-  title: HONEYMOON
-  score: 72.78468688044195
+- slug: no-radar
+  title: NO RADAR
+  score: 71.94086528918079
   llm_score: 75
-  recency_score: 98.10046472287257
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 2
-- slug: timeline
-  title: TIMELINE
-  score: 66.98648077885899
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 67.85363350466798
   llm_score: 85
-  recency_score: 20.412125062583367
+  recency_score: 26.048617780341775
   length_score: 100
   category_score: 0
   rank: 3
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 65.08693353154065
-  llm_score: 86
-  recency_score: 4.065067955014141
+- slug: honey-bees
+  title: HONEY BEES
+  score: 61.403859999929026
+  llm_score: 75
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
   rank: 4
-- slug: jack-ass
-  title: JACK ASS
-  score: 59.94634695851764
-  llm_score: 78
-  recency_score: 2.651255230364558
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 58.161359079099505
+  llm_score: 75
+  recency_score: 3.0488340141466597
   length_score: 100
   category_score: 0
   rank: 5
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 59.631235477756874
-  llm_score: 75
-  recency_score: 12.603030605419562
+- slug: documents
+  title: DOCUMENTS
+  score: 55.100575971647295
+  llm_score: 65
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
   rank: 6
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 58.141242064522174
-  llm_score: 75
-  recency_score: 2.9180734193940348
+- slug: disposal
+  title: DISPOSAL
+  score: 54.21007632236291
+  llm_score: 65
+  recency_score: 17.365496095358843
   length_score: 100
   category_score: 0
   rank: 7
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 51.74806822997769
-  llm_score: 65
-  recency_score: 1.3624434948549364
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 50.90220730685649
+  llm_score: 60
+  recency_score: 15.864347494567099
   length_score: 100
   category_score: 0
   rank: 8
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 17.905766061715195
-  llm_score: 0
-  recency_score: 41.38747940114875
+- slug: honeymoon
+  title: HONEYMOON
+  score: 45.09237918813425
+  llm_score: 30
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pop-up-target
-  title: POP UP TARGET
-  score: 12.762139639030991
-  llm_score: 0
-  recency_score: 7.953907653701443
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 33.446908002841305
+  llm_score: 30
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
   rank: 10

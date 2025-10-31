@@ -10,74 +10,84 @@ authors:
 - admin
 alttags: COVID-19 case, death, and testing data graph showing rising numbers from March to May, reflecting a serious public health ...
 related_articles:
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 84.32610187044024
-  llm_score: 95
-  recency_score: 89.13050935220119
-  category_score: 0
-  rank: 1
 - slug: shelter-in-place
   title: SHELTER IN PLACE
-  score: 76.74956745472434
-  llm_score: 85
+  score: 70.96120573440335
+  llm_score: 75
   recency_score: 86.24783727362167
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 68.49262358405623
+  llm_score: 85
+  recency_score: 30.20205329636546
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 76.05504977540349
-  llm_score: 85
-  recency_score: 82.7752488770174
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 66.78381406316869
+  llm_score: 75
+  recency_score: 59.09479141059637
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 69.14601135914225
-  llm_score: 75
-  recency_score: 83.23005679571122
-  category_score: 0
-  rank: 4
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 68.38863388905096
-  llm_score: 85
-  recency_score: 44.44316944525482
-  category_score: 0
-  rank: 5
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 66.6120582648814
-  llm_score: 79
-  recency_score: 56.56029132440696
-  category_score: 0
-  rank: 6
 - slug: take-a-chance
   title: “TAKE A CHANCE”
-  score: 62.7824508821773
-  llm_score: 72
+  score: 64.14034683244408
+  llm_score: 70
   recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 63.73664247471123
+  llm_score: 75
+  recency_score: 39.2881760856229
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 53.17209642810365
+  llm_score: 60
+  recency_score: 30.618626782673648
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 49.14510299157767
+  llm_score: 50
+  recency_score: 44.44316944525482
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp-tlp
-  title: Backstory Podcast No 56 The Lincoln Project
-  score: 59.0170445944745
-  llm_score: 65
-  recency_score: 67.58522297237245
+- slug: 4-20
+  title: 4-20
+  score: 40.82459635862964
+  llm_score: 25
+  recency_score: 90.35987633109261
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 51.441927902447105
-  llm_score: 65
-  recency_score: 29.70963951223547
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 37.91832157814438
+  llm_score: 35
+  recency_score: 31.469090257938433
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: exposure-2
-  title: EXPOSURE
-  score: 44.83193927883214
-  llm_score: 57
-  recency_score: 24.659696394160648
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 15.841818497832477
+  llm_score: 0
+  recency_score: 27.971820235911103
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Man in suit hunched over, head resting on knees—symbolizing frustration with Fairhope’s governance issues detailed in this...
 related_articles:
-- slug: hell-yea
-  title: HELL YEA
-  score: 94.022530768332
-  llm_score: 95
-  recency_score: 90.11265384166002
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 74.8390081963169
+  llm_score: 78
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 86.22112415020392
-  llm_score: 85
-  recency_score: 91.10562075101957
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 72.67308266852432
+  llm_score: 77
+  recency_score: 89.37503734540803
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 85.67654461491676
-  llm_score: 95
-  recency_score: 48.38272307458382
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 63.48014809850739
+  llm_score: 79
+  recency_score: 21.62096264029795
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 85.39192896735389
-  llm_score: 85
-  recency_score: 86.95964483676948
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 62.174951709544004
+  llm_score: 76
+  recency_score: 25.13718611203594
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 74.72156701864763
-  llm_score: 85
-  recency_score: 33.60783509323819
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 60.755057085291725
+  llm_score: 76
+  recency_score: 15.90787105439613
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 73.11076301928001
-  llm_score: 85
-  recency_score: 25.553815096400097
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 60.26338992683245
+  llm_score: 75
+  recency_score: 16.712034524410825
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 72.38383562381885
-  llm_score: 85
-  recency_score: 21.919178119094283
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 58.9330873776945
+  llm_score: 76
+  recency_score: 4.065067955014141
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 68.21766117429252
-  llm_score: 85
-  recency_score: 1.0883058714626104
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 58.088084056746766
+  llm_score: 75
+  recency_score: 2.572546368853898
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 68.1691667327368
-  llm_score: 85
-  recency_score: 0.8458336636839832
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 14.407325026922264
+  llm_score: 0
+  recency_score: 18.647612674994708
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 61.312417381770686
-  llm_score: 65
-  recency_score: 46.562086908853416
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 0
+  llm_score: -2983
+  recency_score: 70.6137567623795
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ## FAIRHOPE

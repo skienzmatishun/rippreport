@@ -8,22 +8,14 @@ authors:
 - admin
 alttags: South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011
 related_articles:
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 74.39871835072182
-  llm_score: 95
-  recency_score: 28.59166927969179
+- slug: repeat
+  title: REPEAT
+  score: 64.28176052629051
+  llm_score: 85
+  recency_score: 2.8314434208882173
   length_score: 100
   category_score: 0
   rank: 1
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 65.93967510505136
-  llm_score: 85
-  recency_score: 13.607888182833822
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: mega-mistake
   title: MEGA-MISTAKE
   score: 59.712577403283525
@@ -31,60 +23,68 @@ related_articles:
   recency_score: 13.13175312134279
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 58.42340600807722
+  llm_score: 75
+  recency_score: 4.7521390525018266
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 25.872101057367445
-  llm_score: 23
-  recency_score: 1.1686568728883742
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 15.545941196975658
-  llm_score: 0
-  recency_score: 26.048617780341775
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 12.755452890138855
-  llm_score: 0
-  recency_score: 7.9104437859025545
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 12.085291001850324
-  llm_score: 0
-  recency_score: 3.554391512027108
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
-  score: 12.044911060271088
-  llm_score: 0
+  score: 58.19875721411726
+  llm_score: 75
   recency_score: 3.2919218917620787
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
 - slug: dead-last
   title: DEAD LAST
-  score: 11.987395910676005
-  llm_score: 0
+  score: 58.141242064522174
+  llm_score: 75
   recency_score: 2.9180734193940348
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 53.63198279735906
+  llm_score: 65
+  recency_score: 13.607888182833822
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 52.75545289013886
+  llm_score: 65
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 11.767902061264712
-  llm_score: 0
+  score: 42.53713283049549
+  llm_score: 50
   recency_score: 1.4913633982206251
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 42.487485672752065
+  llm_score: 50
+  recency_score: 1.1686568728883742
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fire
+  title: FIRE
+  score: 42.42788166703125
+  llm_score: 50
+  recency_score: 0.7812308357030797
   length_score: 100
   category_score: 0
   rank: 10

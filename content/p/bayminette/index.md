@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Pigs stand in front of a Bay Minette water tower and American flag, referencing concerns about Mayor Wills’ leadership
 related_articles:
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 68.55504262632311
-  llm_score: 70
-  recency_score: 90.60777707110016
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 84.56430232593213
+  llm_score: 95
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 62.275561136694314
-  llm_score: 75
-  recency_score: 29.79114738851293
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 80.37499136682659
+  llm_score: 90
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 61.97775326027179
-  llm_score: 70
-  recency_score: 47.85539619176654
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 78.37060858459402
+  llm_score: 85
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 61.35484665895765
-  llm_score: 65
-  recency_score: 63.80650328322465
+- slug: cover-up
+  title: COVER UP
+  score: 75.51188613771676
+  llm_score: 85
+  recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 4
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 60.43227179245883
-  llm_score: 70
-  recency_score: 37.809766650982276
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 67.95276757587844
+  llm_score: 90
+  recency_score: 6.69298924320973
   length_score: 100
   category_score: 0
   rank: 5
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 58.119422392975565
-  llm_score: 70
-  recency_score: 22.77624555434108
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 64.41824134397062
+  llm_score: 75
+  recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
   rank: 6
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 54.91631432443441
-  llm_score: 70
-  recency_score: 1.9560431088235848
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 64.23976750361531
+  llm_score: 85
+  recency_score: 2.5584887734994517
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 54.72221691101637
-  llm_score: 70
-  recency_score: 0.6944099216063174
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 63.88481448190058
+  llm_score: 85
+  recency_score: 0.25129413235364534
   length_score: 100
   category_score: 0
   rank: 8
-- slug: new-year-new-problems
-  title: NEW YEAR NEW PROBLEMS
-  score: 47.95931291536146
-  llm_score: 59
-  recency_score: 0.7355339498494264
+- slug: fire
+  title: FIRE
+  score: 63.87686681280488
+  llm_score: 85
+  recency_score: 0.1996342832316262
   length_score: 100
   category_score: 0
   rank: 9
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 43.67684205790758
-  llm_score: 50
-  recency_score: 8.899473376399213
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 54.6431368140681
+  llm_score: 70
+  recency_score: 0.18038929144256055
   length_score: 100
   category_score: 0
   rank: 10

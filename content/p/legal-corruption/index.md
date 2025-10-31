@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials
 related_articles:
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 80.93966296819076
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 73.97725826364903
   llm_score: 100
-  recency_score: 51.107809293239825
+  recency_score: 5.8521787137186125
   length_score: 100
   category_score: 0
   rank: 1
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 70.24214414229857
+  llm_score: 80
+  recency_score: 61.57393692494061
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 59.68445897177272
-  llm_score: 78
-  recency_score: 0.9489833165225753
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 67.72071206989946
+  llm_score: 79
+  recency_score: 49.18462845434644
   length_score: 100
   category_score: 0
   rank: 3
-- slug: threesome
-  title: THREESOME
-  score: 26.55876337209257
-  llm_score: 23
-  recency_score: 5.6319619186017045
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 62.65614083810677
+  llm_score: 81
+  recency_score: 8.264915447693923
   length_score: 100
   category_score: 0
   rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
+- slug: fire
+  title: FIRE
+  score: 62.58504928798605
+  llm_score: 81
+  recency_score: 7.802820371909244
   length_score: 100
   category_score: 0
   rank: 5
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 24.387351743992177
+  llm_score: 0
+  recency_score: 8.517786335949154
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 16.34023080619355
-  llm_score: 0
+  score: 15.10946157542432
+  llm_score: -2
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 16.287895967245817
+  rank: 7
+- slug: jack-ass
+  title: JACK ASS
+  score: 14.314539820873874
   llm_score: 0
-  recency_score: 30.871323787097815
+  recency_score: 18.044508835680173
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 13.670647348459108
+  llm_score: -2
+  recency_score: 21.8592077649842
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
   score: 13.049534643302074
   llm_score: 0
   recency_score: 9.821975181463475
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 12.809986991952911
-  llm_score: 0
-  recency_score: 8.264915447693923
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 12.079331067021585
-  llm_score: 0
-  recency_score: 3.5156519356403035
   length_score: 100
   category_score: 0
   rank: 10

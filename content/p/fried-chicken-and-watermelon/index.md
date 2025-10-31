@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu...
 related_articles:
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 69.16784207494143
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 71.44231343775509
   llm_score: 75
-  recency_score: 74.59097348711927
+  recency_score: 89.37503734540803
   length_score: 100
   category_score: 0
   rank: 1
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 58.11730472720092
-  llm_score: 75
-  recency_score: 2.76248072680588
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 62.05076249645238
+  llm_score: 65
+  recency_score: 68.3299562269404
   length_score: 100
   category_score: 0
   rank: 2
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 55.36885139719357
-  llm_score: 70
-  recency_score: 4.897534081758149
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 59.740442753646484
+  llm_score: 75
+  recency_score: 13.312877898702032
   length_score: 100
   category_score: 0
   rank: 3
-- slug: black-hole
-  title: BLACK HOLE
-  score: 54.89948921139009
-  llm_score: 70
-  recency_score: 1.8466798740354857
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 59.66337167273139
+  llm_score: 75
+  recency_score: 12.811915872753922
   length_score: 100
   category_score: 0
   rank: 4
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 52.338739328151085
-  llm_score: 65
-  recency_score: 5.201805632981981
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 59.59440486047424
+  llm_score: 75
+  recency_score: 12.36363159308245
   length_score: 100
   category_score: 0
   rank: 5
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 51.87608971004604
-  llm_score: 65
-  recency_score: 2.1945831152992037
+- slug: disposal
+  title: DISPOSAL
+  score: 59.087968512144826
+  llm_score: 75
+  recency_score: 9.071795328941251
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 51.27390678085216
-  llm_score: 64
-  recency_score: 2.2803940755389456
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 59.04653497797342
+  llm_score: 75
+  recency_score: 8.80247735682715
   length_score: 100
   category_score: 0
   rank: 7
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 51.214273919095035
-  llm_score: 64
-  recency_score: 1.892780474117634
+- slug: holes
+  title: HOLES
+  score: 54.80272067420565
+  llm_score: 70
+  recency_score: 1.2176843823366823
   length_score: 100
   category_score: 0
   rank: 8
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 51.02067417294745
-  llm_score: 64
-  recency_score: 0.6343821241583751
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 54.21740585078676
+  llm_score: 65
+  recency_score: 17.413138030113867
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 11.759874020766022
-  llm_score: 0
-  recency_score: 1.4391811349791466
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 51.86155048521261
+  llm_score: 60
+  recency_score: 22.100078153881906
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: 'Gulf Shores beach scene: Buildings overlook a sandy shore with people enjoying the water, hinting at planning & zoning con...'
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 86.5
-  llm_score: 95
-  recency_score: 100.0
+- slug: victory
+  title: VICTORY
+  score: 71.18632735235381
+  llm_score: 73
+  recency_score: 95.71112779029973
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 81.07197526621853
-  llm_score: 90
-  recency_score: 90.35987633109261
-  category_score: 0
-  rank: 2
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 74.45912250360541
-  llm_score: 85
-  recency_score: 74.79561251802704
-  category_score: 0
-  rank: 3
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 69.61953853153238
-  llm_score: 76
-  recency_score: 82.09769265766185
-  category_score: 0
-  rank: 4
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020
-  score: 69.58249514970657
-  llm_score: 85
+  score: 61.14038088438967
+  llm_score: 68
   recency_score: 50.412475748532785
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 58.02536282875421
+  llm_score: 67
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 57.93894714150594
+  llm_score: 66
+  recency_score: 37.60315641978851
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 56.57673322607777
+  llm_score: 66
+  recency_score: 28.748765969505406
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 63.73044680872361
-  llm_score: 85
-  recency_score: 21.152234043618023
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 54.02493156081987
+  llm_score: 66
+  recency_score: 12.162055145329097
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 62.79693268727895
-  llm_score: 85
-  recency_score: 16.48466343639469
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 53.52683746802564
+  llm_score: 67
+  recency_score: 4.924443542166608
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: secret-society
-  title: SECRET SOCIETY
-  score: 61.400862282316794
-  llm_score: 85
-  recency_score: 9.504311411583915
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 52.83095742382539
+  llm_score: 66
+  recency_score: 4.401223254864941
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: s-o-s
-  title: S.O.S
-  score: 46.945326161333654
-  llm_score: 65
-  recency_score: 7.226630806668228
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 25.43998097401425
+  llm_score: 0
+  recency_score: 90.35987633109261
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: threesome
-  title: THREESOME
-  score: 37.04587813482652
-  llm_score: 52
-  recency_score: 3.229390674132577
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 22.88595508140824
+  llm_score: 2
+  recency_score: 65.75870802915355
+  length_score: 100
   category_score: 0
   rank: 10
 ---

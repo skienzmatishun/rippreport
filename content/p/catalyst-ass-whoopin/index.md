@@ -19,46 +19,62 @@ authors:
 - admin
 alttags: 'Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis'
 related_articles:
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 73.44753166151709
-  llm_score: 77
-  recency_score: 94.40895579986105
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 58.114982344826906
-  llm_score: 75
-  recency_score: 2.7473852413747677
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 25.865307716920782
-  llm_score: 0
+  score: 72.63453848615156
+  llm_score: 76
   recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 25.516362757300204
-  llm_score: 0
-  recency_score: 90.85635792245131
+  rank: 1
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 72.4980018136055
+  llm_score: 75
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 24.413440561960563
-  llm_score: 0
+  score: 64.41344056196057
+  llm_score: 65
   recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 60.40121356658983
+  llm_score: 76
+  recency_score: 13.607888182833822
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 59.54807734280058
+  llm_score: 75
+  recency_score: 12.0625027282037
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 59.29286888063806
+  llm_score: 75
+  recency_score: 10.403647724147305
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 24.484182027463177
+  llm_score: 0
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: catalyst-central
   title: CATALYST CENTRAL
   score: 21.27449470737531
@@ -66,36 +82,20 @@ related_articles:
   recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 13.620542819024811
-  llm_score: 0
-  recency_score: 13.53352832366127
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 13.394231188954416
-  llm_score: 0
-  recency_score: 12.0625027282037
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 13.358980189781079
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 13.979130383779554
   llm_score: 0
-  recency_score: 11.833371233577015
+  recency_score: 15.864347494567099
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 13.020831276612443
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 13.514933098434785
   llm_score: 0
-  recency_score: 9.635403297980877
+  recency_score: 12.847065139826096
   length_score: 100
   category_score: 0
   rank: 10

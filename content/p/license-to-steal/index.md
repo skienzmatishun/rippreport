@@ -9,70 +9,62 @@ authors:
 - admin
 alttags: Alabama Attorney General depicted with a gavel and text License to Steal, referencing claims of pursuing corruption
 related_articles:
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 74.13231897385518
-  llm_score: 100
-  recency_score: 6.86007333005856
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 72.57935157720608
+  llm_score: 75
+  recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 1
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 73.41547752549005
-  llm_score: 100
-  recency_score: 2.200603915685177
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 67.26484720770375
-  llm_score: 85
-  recency_score: 22.221506850074306
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 64.73778157491485
-  llm_score: 83
-  recency_score: 13.795580236946487
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 64.19891133567401
-  llm_score: 85
-  recency_score: 2.292923681881036
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 36.09377371982305
-  llm_score: 0
-  recency_score: 84.60952917884977
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 26.142720773044832
-  llm_score: 0
+  score: 72.296566926891
+  llm_score: 75
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 63.573292154680615
+  llm_score: 75
+  recency_score: 38.22639900542388
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 63.36751864588943
+  llm_score: 75
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 25.865307716920782
-  llm_score: 0
+  score: 56.63453848615156
+  llm_score: 50
   recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 52.94542991215281
+  llm_score: 60
+  recency_score: 29.145294428993168
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 45.32498819981808
+  llm_score: 45
+  recency_score: 39.61242329881746
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
   score: 19.889693806432927
@@ -80,12 +72,20 @@ related_articles:
   recency_score: 54.28300974181401
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 16.022352989075873
+  rank: 8
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 17.500561750693404
   llm_score: 0
-  recency_score: 29.145294428993168
+  recency_score: 38.75365137950711
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 12.820480952881564
+  llm_score: 0
+  recency_score: 8.333126193730163
   length_score: 100
   category_score: 0
   rank: 10

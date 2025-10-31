@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article
 related_articles:
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 86.06641283325074
-  llm_score: 95
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 78.2818560255775
+  llm_score: 84
   recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 84.27733007636273
-  llm_score: 95
-  recency_score: 88.88665038181365
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 77.04254442959548
+  llm_score: 85
+  recency_score: 85.7765387923706
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 83.00975554986516
-  llm_score: 95
-  recency_score: 82.54877774932578
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65.80195363266488
+  llm_score: 78
+  recency_score: 40.71269861232158
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: hell-yea
-  title: HELL YEA
-  score: 82.51962391400207
-  llm_score: 95
-  recency_score: 80.0981195700103
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 64.22221091739975
+  llm_score: 81
+  recency_score: 18.444370963098283
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: re-run-doing-nothing
-  title: DOING NOTHING
-  score: 82.12944962510568
-  llm_score: 95
-  recency_score: 78.14724812552835
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 63.25074555823102
+  llm_score: 84
+  recency_score: 0.1298461285014998
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 75.78513651399793
-  llm_score: 85
-  recency_score: 81.42568256998956
-  category_score: 0
-  rank: 6
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 69.20818920394052
-  llm_score: 90
-  recency_score: 31.040946019702552
-  category_score: 0
-  rank: 7
-- slug: going-down
-  title: GOING DOWN
-  score: 68.10115638090129
-  llm_score: 85
-  recency_score: 43.0057819045064
-  category_score: 0
-  rank: 8
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 59.74487498781601
-  llm_score: 85
+  score: 60.34221152908925
+  llm_score: 79
   recency_score: 1.2243749390800314
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 59.60606951875737
+  llm_score: 78
+  recency_score: 0.43945187192282475
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 11.852015854866986
+  llm_score: 0
+  recency_score: 2.038103056635405
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 58.47457577604463
-  llm_score: 75
-  recency_score: 29.872878880223098
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 11.558437865923308
+  llm_score: 0
+  recency_score: 0.1298461285014998
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -15,65 +15,85 @@ authors:
 - ripp-report
 alttags: American flag waving above a civic center fountain and landscaped grounds, setting for the State of the City event
 related_articles:
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 83.67232874673901
-  llm_score: 85
-  recency_score: 78.36164373369505
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 74.39816677501989
+  llm_score: 100
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 82.39621248724127
-  llm_score: 85
-  recency_score: 71.98106243620636
+- slug: dog-and-pony-show
+  title: DOG AND PONY SHOW
+  score: 65.57024252167737
+  llm_score: 69
+  recency_score: 75.2065763909028
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 78.83013102490949
-  llm_score: 75
-  recency_score: 94.15065512454748
-  rank: 3
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 78.65037696445634
-  llm_score: 85
-  recency_score: 53.251884822281745
-  rank: 4
-- slug: stepping-up
-  title: STEPPING UP
-  score: 75.78201851846809
+- slug: transparency
+  title: TRANSPARENCY
+  score: 63.012502659815205
   llm_score: 70
-  recency_score: 98.91009259234048
-  rank: 5
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 72.19884560084495
-  llm_score: 90
-  recency_score: 0.9942280042247051
-  rank: 6
+  recency_score: 54.58126728879875
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: survey
   title: SURVEY
-  score: 67.10014946474215
-  llm_score: 75
+  score: 60.69242266518628
+  llm_score: 71
   recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 58.69866567186632
+  llm_score: 68
+  recency_score: 34.541326867131026
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 58.56619682662711
+  llm_score: 71
+  recency_score: 21.680279373076186
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 57.85700956158347
+  llm_score: 75
+  recency_score: 1.0705621502924252
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 58.46863524410353
-  llm_score: 65
-  recency_score: 32.34317622051765
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 17.04519026224006
+  llm_score: 0
+  recency_score: 35.79373670456037
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 56.09996872784693
-  llm_score: 70
-  recency_score: 0.4998436392346548
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 13.197056356634295
+  llm_score: 0
+  recency_score: 10.780866318122923
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 55.5990278970599
-  llm_score: 65
-  recency_score: 17.995139485299486
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 0
+  llm_score: -256
+  recency_score: 3.2560429912093984
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Congratulations to the Mayor, Department heads, employees and the production staff who produced the 2019 State of the City booklet. The State of the City was presented by the Mayor last night in the civic center. It was not just a speech but an expo. Tables lined the walls representing different departments, with department heads and employees present to answer questions. The atmosphere was positive, the employees moral was high and their sense of pride was obvious.

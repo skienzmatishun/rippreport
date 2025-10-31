@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections
 related_articles:
-- slug: catalyst-2
-  title: CATALYST
-  score: 86.82692882237048
-  llm_score: 100
-  recency_score: 89.37503734540803
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 76.0953535848263
+  llm_score: 86
+  recency_score: 75.61979830137088
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 68.82716335184493
-  llm_score: 75
-  recency_score: 72.37656178699199
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 74.14355530088439
+  llm_score: 87
+  recency_score: 58.93310945574846
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 65.39071198025665
-  llm_score: 85
-  recency_score: 10.039627871668154
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 61.855513760538976
-  llm_score: 77
-  recency_score: 19.060839443503276
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 21.27449470737531
-  llm_score: 0
-  recency_score: 63.2842155979395
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 20.53087890791867
-  llm_score: 0
+  score: 71.60780198484176
+  llm_score: 83
   recency_score: 58.450712901471334
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 16.2749016267204
+  rank: 3
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 66.5388947074255
+  llm_score: 84
+  recency_score: 21.50281559826569
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 64.61369588966151
+  llm_score: 82
+  recency_score: 16.989023282799735
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 23.108704060138894
   llm_score: 0
-  recency_score: 30.7868605736826
+  recency_score: 75.2065763909028
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 21.65518585063901
+  llm_score: 0
+  recency_score: 65.75870802915355
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 14.66162825752189
-  llm_score: 0
-  recency_score: 20.300583673892284
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 12.593041184523237
+  llm_score: -2
+  recency_score: 14.854767699401043
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 14.41519570371651
-  llm_score: 0
-  recency_score: 18.69877207415731
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 11.8522504417951
+  llm_score: -2
+  recency_score: 10.039627871668154
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 14.116597492119578
-  llm_score: 0
-  recency_score: 16.757883698777256
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 1.759932582495228
+  llm_score: -20
+  recency_score: 16.439561786218995
   length_score: 100
   category_score: 0
   rank: 10

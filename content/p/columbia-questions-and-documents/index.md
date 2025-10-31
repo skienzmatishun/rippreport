@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama
 related_articles:
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 72.83857121561098
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 68.36705106929273
   llm_score: 85
-  recency_score: 58.450712901471334
+  recency_score: 29.385831950402675
   length_score: 100
   category_score: 0
   rank: 1
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 68.36697141028833
-  llm_score: 87
-  recency_score: 21.385314166874046
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 66.18195503197751
+  llm_score: 75
+  recency_score: 55.18270770785375
   length_score: 100
   category_score: 0
   rank: 2
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 65.69043854694915
-  llm_score: 87
-  recency_score: 3.9878505551694436
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 55.74702521716058
-  llm_score: 71
-  recency_score: 3.355663911543685
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 28.824042764626803
-  llm_score: 23
-  recency_score: 20.356277970074178
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 26.672246404880518
-  llm_score: 0
+  score: 63.59532332795745
+  llm_score: 60
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: cover-up
+  title: COVER UP
+  score: 59.32833694505903
+  llm_score: 75
+  recency_score: 10.634190142883599
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: how-the-pendulum-swings
+  title: HOW THE PENDULUM SWINGS
+  score: 58.10468767231358
+  llm_score: 75
+  recency_score: 2.6804698700381855
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 58.09464373705532
+  llm_score: 75
+  recency_score: 2.6151842908594998
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: threesome
-  title: THREESOME
-  score: 16.287895967245817
-  llm_score: 0
-  recency_score: 30.871323787097815
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 57.890195181054736
+  llm_score: 75
+  recency_score: 1.2862686768556788
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 14.792651391325851
-  llm_score: 0
-  recency_score: 21.152234043618023
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 55.56903904265589
+  llm_score: 70
+  recency_score: 6.198753777263179
   length_score: 100
   category_score: 0
   rank: 8
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 14.55234978919185
-  llm_score: 0
-  recency_score: 19.590273629747017
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 48.63221214081787
+  llm_score: 60
+  recency_score: 1.1093789153160531
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 14.01279425159149
-  llm_score: 0
-  recency_score: 16.083162635344685
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 48.62897013407118
+  llm_score: 60
+  recency_score: 1.0883058714626104
   length_score: 100
   category_score: 0
   rank: 10

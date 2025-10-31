@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case
 related_articles:
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 63.62717346653267
-  llm_score: 65
-  recency_score: 78.57662753246225
+- slug: surrender
+  title: SURRENDER
+  score: 75.47123055652644
+  llm_score: 100
+  recency_score: 15.562998617421716
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 49.005642323594614
-  llm_score: 56
-  recency_score: 19.53667510336496
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 70.2974521690287
+  llm_score: 76
+  recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
   rank: 2
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 37.649263853584145
-  llm_score: 23
-  recency_score: 77.72021504829691
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 67.93486577422497
+  llm_score: 72
+  recency_score: 78.57662753246225
   length_score: 100
   category_score: 0
   rank: 3
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 25.74803541797079
-  llm_score: 0
-  recency_score: 92.36223021681012
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 60.746984029502556
+  llm_score: 68
+  recency_score: 47.85539619176654
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 20.004881403339027
-  llm_score: 0
-  recency_score: 55.031729121703655
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 57.678134008368644
+  llm_score: 71
+  recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
   rank: 5
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 18.961592167066474
-  llm_score: 0
-  recency_score: 48.25034908593207
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 55.227035240032016
+  llm_score: 69
+  recency_score: 7.975729060208014
   length_score: 100
   category_score: 0
   rank: 6
-- slug: barstool
-  title: BARSTOOL
-  score: 16.39314233177813
-  llm_score: 0
-  recency_score: 31.555425156557842
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 43.075748589522824
+  llm_score: 50
+  recency_score: 4.992365831898315
   length_score: 100
   category_score: 0
   rank: 7
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 13.104323587249043
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 23.76038107289665
   llm_score: 0
-  recency_score: 10.178103317118776
+  recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 8
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 11.599384883714848
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 23.495417699737988
   llm_score: 0
-  recency_score: 0.39600174414651
+  recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 11.389435155634631
-  llm_score: -2
-  recency_score: 7.031328511625108
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 22.70386547971357
+  llm_score: 0
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 10

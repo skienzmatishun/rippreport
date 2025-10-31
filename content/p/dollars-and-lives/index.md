@@ -15,74 +15,84 @@ authors:
 - admin
 alttags: Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr...
 related_articles:
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 74.01502512362765
-  llm_score: 85
-  recency_score: 72.57512561813819
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 72.74339448711596
+  llm_score: 75
+  recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 70.4462020081581
-  llm_score: 85
-  recency_score: 54.731010040790416
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 71.10741801556219
+  llm_score: 75
+  recency_score: 87.19821710115417
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 69.3369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 67.58970791292015
+  llm_score: 75
+  recency_score: 64.3331014339809
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 64.22221428196228
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 67.3751386269282
   llm_score: 75
-  recency_score: 58.61107140981138
+  recency_score: 62.93840107503325
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 57.70972355606836
-  llm_score: 75
-  recency_score: 26.048617780341775
+- slug: invitation
+  title: INVITATION
+  score: 61.3817777398132
+  llm_score: 65
+  recency_score: 63.98155530878573
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: stepping-up
-  title: STEPPING UP
-  score: 48.646897997874675
-  llm_score: 65
-  recency_score: 15.734489989373342
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 58.18103672942713
+  llm_score: 75
+  recency_score: 3.1767387412762407
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 48.43053303106537
-  llm_score: 65
-  recency_score: 14.652665155326813
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 53.47309624894435
+  llm_score: 50
+  recency_score: 72.57512561813819
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 44.94663482050852
-  llm_score: 60
-  recency_score: 14.733174102542575
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 47.88261719822088
+  llm_score: 35
+  recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 42.06135093059721
-  llm_score: 50
-  recency_score: 35.306754652986015
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 43.04768631806384
+  llm_score: 40
+  recency_score: 44.809961067414925
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 40.469880309265776
-  llm_score: 54
-  recency_score: 13.34940154632884
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 19.27300744684014
+  llm_score: 0
+  recency_score: 50.274548404460894
+  length_score: 100
   category_score: 0
   rank: 10
 ---

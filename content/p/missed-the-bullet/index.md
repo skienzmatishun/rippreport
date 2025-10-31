@@ -15,14 +15,6 @@ authors:
 - admin
 alttags: Hurricane Delta approaching a figure, symbolizing Lake Charles facing another direct hit after significant storm damage
 related_articles:
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 74.37306928487772
-  llm_score: 100
-  recency_score: 8.424950351705032
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: m-i-a
   title: M.I.A
   score: 72.90924501420623
@@ -30,68 +22,76 @@ related_articles:
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 71.3671769818175
+  rank: 1
+- slug: stepping-up
+  title: STEPPING UP
+  score: 60.522139630672704
   llm_score: 75
-  recency_score: 88.88665038181365
+  recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 25.02728107416711
-  llm_score: 0
-  recency_score: 87.6773269820862
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 24.771056188618328
-  llm_score: 0
-  recency_score: 86.01186522601911
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: howling-rains
   title: HOWLING RAINS
-  score: 23.397544118908634
-  llm_score: 0
+  score: 54.166774888139415
+  llm_score: 50
   recency_score: 77.0840367729061
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 52.48001257039105
+  llm_score: 60
+  recency_score: 26.120081707541715
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: repeat
+  title: REPEAT
+  score: 30.974787188023186
+  llm_score: 30
+  recency_score: 6.336116722150677
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 30.96680807432974
+  llm_score: 30
+  recency_score: 6.284252483143263
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 22.224995572976432
-  llm_score: 0
-  recency_score: 69.4624712243468
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 25.509298990195703
+  llm_score: 20
+  recency_score: 10.810443436272047
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-2
-  title: CATALYST
-  score: 20.192495302371334
-  llm_score: 0
-  recency_score: 56.25121946541366
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 24.84358686151304
+  llm_score: 5
+  recency_score: 66.48331459983474
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst
-  title: CATALYST
-  score: 13.91968540328153
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 19.27300744684014
   llm_score: 0
-  recency_score: 15.477955121329945
+  recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 12.984726648840313
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 11.654763715815013
   llm_score: 0
-  recency_score: 9.400723217462033
+  recency_score: 0.7559641527975924
   length_score: 100
   category_score: 0
   rank: 10

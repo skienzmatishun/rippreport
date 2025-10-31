@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Smiling yellow emoji face representing the “happy days” posts discussed in the article
 related_articles:
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 76.3047283992523
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 85.95467609306606
   llm_score: 85
-  recency_score: 80.98073459513984
+  recency_score: 68.70539460492927
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 74.1265517975518
-  llm_score: 100
-  recency_score: 6.822586684086551
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 68.58576682596589
+  llm_score: 75
+  recency_score: 70.80748436877823
   length_score: 100
   category_score: 0
   rank: 2
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 64.14034683244408
-  llm_score: 70
-  recency_score: 61.91225441088648
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 67.95367640851508
+  llm_score: 85
+  recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 3
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 62.78556752645928
-  llm_score: 70
-  recency_score: 53.10618892198522
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 64.18290337015783
+  llm_score: 75
+  recency_score: 42.18887190602582
   length_score: 100
   category_score: 0
   rank: 4
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 60.982689138638285
-  llm_score: 70
-  recency_score: 41.38747940114875
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 64.04295998520153
+  llm_score: 85
+  recency_score: 1.2792399038099316
   length_score: 100
   category_score: 0
   rank: 5
-- slug: gone-fishing
-  title: GONE FISHING
-  score: 55.01007814502966
-  llm_score: 70
-  recency_score: 2.565507942692728
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 60.82404276462681
+  llm_score: 75
+  recency_score: 20.356277970074178
   length_score: 100
   category_score: 0
   rank: 6
-- slug: joke
-  title: JOKE LLP
-  score: 54.760982603163335
-  llm_score: 70
-  recency_score: 0.9463869205615951
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 60.576934127421026
+  llm_score: 75
+  recency_score: 18.75007182823656
   length_score: 100
   category_score: 0
   rank: 7
-- slug: a-time-for-reflection-goobers-on-notice
-  title: A Time for Reflection - Goobers on Notice
-  score: 54.7021355416593
-  llm_score: 70
-  recency_score: 0.5638810207853779
+- slug: rotten
+  title: ROTTEN
+  score: 59.55827385375967
+  llm_score: 75
+  recency_score: 12.128780049437779
   length_score: 100
   category_score: 0
   rank: 8
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 21.822862557032828
-  llm_score: 0
-  recency_score: 66.84860662071335
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 58.59264287903365
+  llm_score: 75
+  recency_score: 5.8521787137186125
   length_score: 100
   category_score: 0
   rank: 9
-- slug: notice
-  title: 'NOTICE:'
-  score: 12.148624473300783
-  llm_score: 0
-  recency_score: 3.9660590764550863
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 57.78073839089791
+  llm_score: 75
+  recency_score: 0.5747995408363309
   length_score: 100
   category_score: 0
   rank: 10

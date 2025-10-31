@@ -16,83 +16,83 @@ authors:
 - admin
 alttags: Jail cell bars viewed from within, referencing Baldwin County’s history of withholding information in cases like Murray Bu...
 related_articles:
-- slug: rule-32
-  title: RULE 32
-  score: 83.13353818889348
-  llm_score: 90
-  recency_score: 30.367998227807558
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 90.31250161398609
+  llm_score: 85
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
   rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 82.45623006205552
-  llm_score: 95
-  recency_score: 5.965495403360867
+- slug: rumors
+  title: RUMORS
+  score: 84.19960985486986
+  llm_score: 75
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 100
   rank: 2
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 81.26820683041159
-  llm_score: 90
-  recency_score: 18.243344397675273
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 78.32509731124254
+  llm_score: 85
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 100
   rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 79.53739944810873
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 78.20670496957217
   llm_score: 85
-  recency_score: 26.993096412706674
+  recency_score: 18.34358230221904
   length_score: 100
   category_score: 100
   rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 79.23381482224181
-  llm_score: 90
-  recency_score: 5.0197963445716995
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 77.68252109190303
+  llm_score: 85
+  recency_score: 14.93638709736966
   length_score: 100
   category_score: 100
   rank: 5
-- slug: innocent
-  title: INNOCENT
-  score: 76.68582072867272
-  llm_score: 90
-  recency_score: 63.45783473637261
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 76.30238390820936
+  llm_score: 85
+  recency_score: 5.965495403360867
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 76.49059567785014
-  llm_score: 95
-  recency_score: 42.18887190602582
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 75.6964747904894
+  llm_score: 90
+  recency_score: 57.02708613818104
   length_score: 100
   category_score: 0
   rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 71.82307073105022
+  llm_score: 75
+  recency_score: 16.84995975182637
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 68.60861826520947
+  llm_score: 85
+  recency_score: 30.95601872386148
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 71.68554134213255
-  llm_score: 90
-  recency_score: 30.95601872386148
+- slug: justified
+  title: JUSTIFIED
+  score: 65.20782192241323
+  llm_score: 85
+  recency_score: 8.850842495685942
   length_score: 100
   category_score: 0
   rank: 10

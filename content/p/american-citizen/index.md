@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: American flag symbolizing justice system failings in Baldwin County’s McSharry assault case investigation
 related_articles:
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 84.85642365356101
-  llm_score: 100
-  recency_score: 1.566753748146461
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 76.70585908271218
-  llm_score: 85
-  recency_score: 8.588084037629146
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: no-justice
-  title: NO JUSTICE
-  score: 75.74125996988947
-  llm_score: 85
-  recency_score: 2.318189804281508
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 72.950992415552
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 72.90924501420623
   llm_score: 75
-  recency_score: 99.18145070108791
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 71.90188157181696
+  llm_score: 75
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: one-woman
+  title: ONE WOMAN
+  score: 63.290306090628604
+  llm_score: 75
+  recency_score: 36.386989589085836
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: surrender
+  title: SURRENDER
+  score: 60.739406498647014
+  llm_score: 75
+  recency_score: 19.806142241205503
   length_score: 100
   category_score: 0
   rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 64.25515829272454
-  llm_score: 85
-  recency_score: 2.658528902709438
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 57.32356252612132
+  llm_score: 65
+  recency_score: 37.60315641978851
   length_score: 100
   category_score: 0
   rank: 5
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 59.48049473443343
-  llm_score: 77
-  recency_score: 3.623215773817211
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 56.17696250255607
+  llm_score: 70
+  recency_score: 10.150256266614415
   length_score: 100
   category_score: 0
   rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 23.155741809000236
-  llm_score: 0
-  recency_score: 0.512321758501535
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 54.489453954013534
+  llm_score: 45
+  recency_score: 99.18145070108791
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 23.143246819783023
-  llm_score: 0
-  recency_score: 0.43110432858965353
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 51.5761602701524
+  llm_score: 60
+  recency_score: 20.245041755990528
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 49.438999961159595
+  llm_score: 60
+  recency_score: 6.3534997475373
   length_score: 100
   category_score: 0
   rank: 9
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 4.461538461538459
-  llm_score: -24
-  recency_score: 50
+- slug: barstool
+  title: BARSTOOL
+  score: 15.353105983315901
+  llm_score: 0
+  recency_score: 24.795188891553348
   length_score: 100
   category_score: 0
   rank: 10

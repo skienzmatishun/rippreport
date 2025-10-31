@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats on a red barrier in water, symbolizing impact
 related_articles:
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 86.09377371982306
-  llm_score: 100
-  recency_score: 84.60952917884977
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 69.3078072805709
+  llm_score: 85
+  recency_score: 35.500747323710755
   length_score: 100
   category_score: 0
   rank: 1
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 79.85836618359176
-  llm_score: 100
+  score: 57.70452002974561
+  llm_score: 64
   recency_score: 44.079380193346374
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 73.20318816392755
-  llm_score: 100
-  recency_score: 0.8207230655290094
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 49.24806499645591
+  llm_score: 61
+  recency_score: 1.1124224769633473
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 63.87058353051543
-  llm_score: 75
-  recency_score: 40.15879294835018
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 48.58780354854294
+  llm_score: 60
+  recency_score: 0.8207230655290094
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 63.094434161362344
-  llm_score: 75
-  recency_score: 35.11382204885514
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 26.222963754330387
+  llm_score: 0
+  recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 5
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 61.139215695149005
-  llm_score: 75
-  recency_score: 22.404902018468416
+- slug: april-fool
+  title: APRIL FOOL
+  score: 26.142720773044832
+  llm_score: 0
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 6
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 58.25896426314893
-  llm_score: 75
-  recency_score: 3.6832677104679425
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 25.63172305060167
+  llm_score: 0
+  recency_score: 91.60619982891085
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 33.176701776214266
-  llm_score: 23
-  recency_score: 48.648561545392695
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 17.71673737666926
+  llm_score: 0
+  recency_score: 40.15879294835018
   length_score: 100
   category_score: 0
   rank: 8
-- slug: insanity-2
-  title: INSANITY
-  score: 32.36318626121963
-  llm_score: 23
-  recency_score: 43.36071069792758
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 15.794915891554263
+  llm_score: 0
+  recency_score: 27.666953295102704
   length_score: 100
   category_score: 0
   rank: 9
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 16.737306625311852
-  llm_score: 0
-  recency_score: 33.792493064527044
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 0
+  llm_score: -100
+  recency_score: 28.435431039593066
   length_score: 100
   category_score: 0
   rank: 10

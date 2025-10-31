@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C...
 related_articles:
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 74.50344977571896
-  llm_score: 85
-  recency_score: 69.27242354217314
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 74.48069233230541
+  llm_score: 79
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 74.32969339678091
-  llm_score: 85
-  recency_score: 68.14300707907584
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 73.67953207245286
+  llm_score: 80
+  recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 2
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 69.18940213865113
-  llm_score: 85
-  recency_score: 34.73111390123228
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 71.69359479399812
+  llm_score: 78
+  recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 68.02175534725475
-  llm_score: 85
-  recency_score: 27.14140975715586
+- slug: timeline
+  title: TIMELINE
+  score: 69.65518585063903
+  llm_score: 78
+  recency_score: 65.75870802915355
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 67.72622162855498
-  llm_score: 75
-  recency_score: 65.22044058560728
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 68.82047714368937
+  llm_score: 77
+  recency_score: 64.3331014339809
   length_score: 100
   category_score: 0
   rank: 5
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 63.1241161004594
-  llm_score: 75
-  recency_score: 35.306754652986015
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 63.073440740628044
+  llm_score: 80
+  recency_score: 14.977364814082216
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 24.484182027463177
-  llm_score: 0
-  recency_score: 84.14718317851063
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 59.12096441182396
+  llm_score: 77
+  recency_score: 1.2862686768556788
   length_score: 100
   category_score: 0
   rank: 7
-- slug: going-down
-  title: GOING DOWN
-  score: 23.76038107289665
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 22.195757468026642
   llm_score: 0
-  recency_score: 79.4424769738282
+  recency_score: 69.27242354217314
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 17.993589568865843
-  llm_score: 0
-  recency_score: 41.958332197627975
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 21.70733733194798
+  llm_score: -4
+  recency_score: 82.09769265766185
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 17.905766061715195
-  llm_score: 0
-  recency_score: 41.38747940114875
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 18.336639088697815
+  llm_score: 2
+  recency_score: 36.18815407653578
   length_score: 100
   category_score: 0
   rank: 10

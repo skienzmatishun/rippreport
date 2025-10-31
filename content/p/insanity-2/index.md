@@ -15,63 +15,83 @@ authors:
 related_articles:
 - slug: tiny-steps
   title: TINY STEPS
-  score: 83.5866878197373
-  llm_score: 85
+  score: 69.68206755364409
+  llm_score: 75
   recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
   rank: 1
+- slug: april-fool
+  title: APRIL FOOL
+  score: 64.02481828859074
+  llm_score: 75
+  recency_score: 41.16131887583971
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 61.5449229229481
+  llm_score: 65
+  recency_score: 65.04199899916262
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 60.26338992683245
+  llm_score: 75
+  recency_score: 16.712034524410825
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 59.85580096986339
+  llm_score: 75
+  recency_score: 14.062706304111916
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 55.37429175564957
+  llm_score: 60
+  recency_score: 44.932896411722155
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 54.15932805707375
+  llm_score: 65
+  recency_score: 17.035632370979314
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 68.37855609482352
-  llm_score: 85
+  score: 51.82965853447965
+  llm_score: 65
   recency_score: 1.892780474117634
-  rank: 2
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 68.34300126248677
-  llm_score: 85
-  recency_score: 1.7150063124338188
-  rank: 3
-- slug: war
-  title: WAR
-  score: 60.362320307674516
-  llm_score: 75
-  recency_score: 1.811601538372569
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 60.35349562682317
-  llm_score: 75
-  recency_score: 1.7674781341158494
-  rank: 5
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 56.37238412243051
-  llm_score: 70
-  recency_score: 1.8619206121525609
-  rank: 6
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 52.36132900786234
+  score: 51.81038125140245
   llm_score: 65
-  recency_score: 1.8066450393116897
-  rank: 7
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 51.628730847975405
-  llm_score: 60
-  recency_score: 18.143654239877034
-  rank: 8
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 49.6988963747054
-  llm_score: 60
-  recency_score: 8.494481873527002
+  recency_score: 1.7674781341158494
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 47.33745863402393
-  llm_score: 50
-  recency_score: 36.68729317011966
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 17.198145248791423
+  llm_score: 0
+  recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama needs a psychiatrist and a financial advisor. The lives lost, hospitals closed and billions of dollars, left on the table, is the result of despicable political motives of several Alabama Republican Governors.

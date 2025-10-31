@@ -14,65 +14,85 @@ authors:
 - ripp-report
 alttags: Community voices raised in protest against development decisions, mirroring a past controversy
 related_articles:
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 87.33256271585593
-  llm_score: 90
-  recency_score: 76.66281357927963
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 83.19364738910056
+  llm_score: 100
+  recency_score: 65.75870802915355
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 86.55484684113631
-  llm_score: 90
-  recency_score: 72.77423420568157
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 67.75374949591121
+  llm_score: 75
+  recency_score: 65.39937172342279
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 76.86431479647436
-  llm_score: 85
-  recency_score: 44.32157398237182
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 63.336517241739834
+  llm_score: 73
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 61.83151031936489
+  llm_score: 77
+  recency_score: 18.90481707587172
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 76.49327389504337
-  llm_score: 90
+  score: 60.533287611571836
+  llm_score: 74
   recency_score: 22.466369475216847
-  rank: 4
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 76.14253972246432
-  llm_score: 85
-  recency_score: 40.71269861232158
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 75.07025208563968
-  llm_score: 90
-  recency_score: 15.35126042819837
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 59.36201445268408
+  llm_score: 73
+  recency_score: 18.853093942446446
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 73.52673204660475
-  llm_score: 90
-  recency_score: 7.633660233023765
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 23.332740550658407
+  llm_score: 0
+  recency_score: 76.66281357927963
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 73.2917607964549
-  llm_score: 90
-  recency_score: 6.458803982274494
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 22.734497570104857
+  llm_score: 0
+  recency_score: 72.77423420568157
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairness
-  title: FAIRNESS
-  score: 71.12113908637559
-  llm_score: 85
-  recency_score: 15.605695431877937
+- slug: victory
+  title: VICTORY
+  score: 21.22129247308204
+  llm_score: 0
+  recency_score: 62.93840107503325
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 69.59952206667232
-  llm_score: 85
-  recency_score: 7.997610333361606
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 13.850341683254904
+  llm_score: -2
+  recency_score: 23.027220941156877
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Gulf Shores Mayor and Council are acting the same way the previous Mayor of Fairhope, Tim Kant, acted involving the controversy of the Fairhope Fly Creek Apartments. The Mayor and his buddy developer ignored the sentiments of the community. It cost the Mayor his job as well as a few councilman. The collateral effect in Fairhope resulted in firings, retirements and resignations of over a dozen employees, who needed to go.

@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns
 related_articles:
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 68.26236840075836
-  llm_score: 75
-  recency_score: 68.70539460492927
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 82.05563749749156
+  llm_score: 95
+  recency_score: 78.36164373369505
   length_score: 100
   category_score: 0
   rank: 1
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 68.1412104915203
-  llm_score: 70
-  recency_score: 87.91786819488183
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.77339786741247
+  llm_score: 95
+  recency_score: 57.02708613818104
   length_score: 100
   category_score: 0
   rank: 2
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 64.75986398373605
-  llm_score: 70
-  recency_score: 65.93911589428427
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 76.44201158581511
+  llm_score: 85
+  recency_score: 81.87307530779819
   length_score: 100
   category_score: 0
   rank: 3
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 63.19858084659232
-  llm_score: 70
-  recency_score: 55.79077550285001
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 74.18706242085727
+  llm_score: 85
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 4
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 63.081804480262115
-  llm_score: 70
-  recency_score: 55.031729121703655
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 73.99063321450528
+  llm_score: 85
+  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
   rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 62.852996440299215
-  llm_score: 70
-  recency_score: 53.544476861944815
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 72.42935007736155
+  llm_score: 85
+  recency_score: 55.79077550285001
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 62.78556752645928
-  llm_score: 70
-  recency_score: 53.10618892198522
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 72.31257371103135
+  llm_score: 85
+  recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
   rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 61.07051264578893
-  llm_score: 70
+  score: 64.147435722712
+  llm_score: 75
   recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
   rank: 8
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 56.90073349221556
-  llm_score: 70
-  recency_score: 14.854767699401043
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 64.08132213256842
+  llm_score: 85
+  recency_score: 1.5285938616946646
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 56.421001424047226
-  llm_score: 70
-  recency_score: 11.736509256306908
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 58.4254117635171
+  llm_score: 75
+  recency_score: 4.7651764628610165
   length_score: 100
   category_score: 0
   rank: 10

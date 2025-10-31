@@ -24,83 +24,83 @@ authors:
 - admin
 alttags: Men in a car looking somber, reflecting grief and loss described in the author’s recent experiences
 related_articles:
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 74.53912483255138
-  llm_score: 100
-  recency_score: 9.504311411583915
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 71.32976286212536
-  llm_score: 75
-  recency_score: 88.64345860381478
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 65.9897598613364
-  llm_score: 69
-  recency_score: 77.93343909868652
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 61.30355396475947
-  llm_score: 75
-  recency_score: 23.473100770936487
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: missed-the-bullet
   title: MISSED THE BULLET
-  score: 25.524629629590844
-  llm_score: -2
+  score: 72.90924501420623
+  llm_score: 75
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 60.45129832287486
+  llm_score: 60
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 59.37377932017943
+  llm_score: 75
+  recency_score: 10.929565581166187
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: free-speech
+  title: FREE SPEECH
+  score: 58.401701603526675
+  llm_score: 75
+  recency_score: 4.6110604229232885
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: im-back
+  title: I'M BACK
+  score: 53.379040799490895
+  llm_score: 65
+  recency_score: 11.96376519669074
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 22.342752338753897
-  llm_score: 0
-  recency_score: 70.22789020190031
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 51.35264632854164
+  llm_score: 45
+  recency_score: 78.79220113552056
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 21.936188149595765
-  llm_score: 0
-  recency_score: 67.58522297237245
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 47.05054343748913
+  llm_score: 45
+  recency_score: 50.828532343679264
   length_score: 100
   category_score: 0
   rank: 7
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 21.879370113164953
-  llm_score: 0
+  score: 37.26398549778035
+  llm_score: 25
   recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 20.02810887813135
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 12.234380262083107
   llm_score: 0
-  recency_score: 55.18270770785375
+  recency_score: 4.5234717035402
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 13.028976144848897
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 11.750377922343658
   llm_score: 0
-  recency_score: 9.688344941517835
+  recency_score: 1.3774564952337773
   length_score: 100
   category_score: 0
   rank: 10

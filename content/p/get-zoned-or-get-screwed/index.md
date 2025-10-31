@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: 'Seal of Faux Hope, Alabama: a circular design featuring mountains, water, a screw, and text highlighting concerns about un...'
 related_articles:
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 80.08904519318229
-  llm_score: 95
-  recency_score: 65.57879375568477
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 60.53768811879689
+  llm_score: 75
+  recency_score: 18.4949727721797
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 75.29722065068357
-  llm_score: 90
-  recency_score: 54.43193422944308
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 59.13857280268648
+  llm_score: 75
+  recency_score: 9.400723217462033
   length_score: 100
   category_score: 0
   rank: 2
-- slug: s-o-s
-  title: S.O.S
-  score: 72.83857121561098
-  llm_score: 85
-  recency_score: 58.450712901471334
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 58.411486193066416
+  llm_score: 75
+  recency_score: 4.674660254931597
   length_score: 100
   category_score: 0
   rank: 3
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 71.8242338208665
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 57.879131204092346
   llm_score: 75
-  recency_score: 91.85751983563217
+  recency_score: 1.214352826600136
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 67.81177519882625
-  llm_score: 70
-  recency_score: 85.7765387923706
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 55.83004461473735
+  llm_score: 65
+  recency_score: 27.895289995792755
   length_score: 100
   category_score: 0
   rank: 5
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 61.63444946786039
-  llm_score: 75
-  recency_score: 25.623921541092447
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 50.91903224539597
+  llm_score: 40
+  recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 60.764554352141936
-  llm_score: 75
-  recency_score: 19.9696032889225
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 49.449770778385805
+  llm_score: 60
+  recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 60.26338992683245
-  llm_score: 75
-  recency_score: 16.712034524410825
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 48.787353146116125
+  llm_score: 60
+  recency_score: 2.117795449754721
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 59.9586329078819
-  llm_score: 70
-  recency_score: 34.73111390123228
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 48.64785082860332
+  llm_score: 60
+  recency_score: 1.2110303859214708
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 54.922982856937
-  llm_score: 70
-  recency_score: 1.9993885700904033
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 15.91508677778668
+  llm_score: 5
+  recency_score: 8.448064055613413
   length_score: 100
   category_score: 0
   rank: 10

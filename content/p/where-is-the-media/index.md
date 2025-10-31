@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Milk carton labeled Missing, featuring a photographer and the question Have you seen me? referencing lack of media cov...
 related_articles:
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 78.0557277256631
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 78.09471144302694
   llm_score: 85
-  recency_score: 92.36223021681012
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 69.01171478030626
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 72.53862097642448
   llm_score: 75
-  recency_score: 73.57614607199059
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 2
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 68.32777066956942
-  llm_score: 70
-  recency_score: 89.13050935220119
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 71.90188157181696
+  llm_score: 75
+  recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
   rank: 3
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 58.409184060640115
-  llm_score: 70
-  recency_score: 24.659696394160648
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 71.67020891114637
+  llm_score: 75
+  recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 4
-- slug: mia
-  title: M.I.A.
-  score: 58.18103672942713
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 71.67020891114637
   llm_score: 75
-  recency_score: 3.1767387412762407
+  recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 5
-- slug: notice
-  title: 'NOTICE:'
-  score: 58.05585804477706
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 58.89603496509252
   llm_score: 75
-  recency_score: 2.363077291050805
+  recency_score: 7.82422727310126
   length_score: 100
   category_score: 0
   rank: 6
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 55.80659339961187
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 57.40335576611816
   llm_score: 65
-  recency_score: 27.742857097477103
+  recency_score: 38.121812479767996
   length_score: 100
   category_score: 0
   rank: 7
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 55.21724614262692
-  llm_score: 70
-  recency_score: 3.9120999270748786
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 31.518904443111253
+  llm_score: 25
+  recency_score: 29.872878880223098
   length_score: 100
   category_score: 0
   rank: 8
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 53.22917199825211
-  llm_score: 65
-  recency_score: 10.989617988638654
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 22.491774693015714
+  llm_score: 0
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 9
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 17.213672492043266
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 12.823998150718072
   llm_score: 0
-  recency_score: 36.88887119828122
+  recency_score: 8.355987979667463
   length_score: 100
   category_score: 0
   rank: 10

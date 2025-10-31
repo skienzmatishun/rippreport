@@ -17,63 +17,83 @@ alttags: Public viewing telescope overlooking water, likely related to discussio
 related_articles:
 - slug: invitation
   title: INVITATION
-  score: 90.67599711942087
-  llm_score: 90
+  score: 78.2123054764776
+  llm_score: 85
   recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
   rank: 1
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 66.88399494340732
+  llm_score: 75
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 66.34415565975934
+  llm_score: 65
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 86.77861223075729
-  llm_score: 85
+  score: 65.98354786981331
+  llm_score: 65
   recency_score: 93.89306115378648
-  rank: 2
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 65.34255421188206
+  llm_score: 75
+  recency_score: 49.72660237723329
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 53.18501976148097
+  llm_score: 60
+  recency_score: 30.702628449626225
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 49.22749335950561
+  llm_score: 60
+  recency_score: 4.978706836786395
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 86.37150396712644
-  llm_score: 85
+  score: 44.13192612855881
+  llm_score: 30
   recency_score: 91.85751983563217
-  rank: 3
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 81.33796583595118
-  llm_score: 90
-  recency_score: 46.6898291797559
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75.2078318963773
-  llm_score: 90
-  recency_score: 16.039159481886507
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 71.26994566788161
-  llm_score: 85
-  recency_score: 16.349728339408063
-  rank: 6
-- slug: water
-  title: Water
-  score: 70.7818871652772
-  llm_score: 85
-  recency_score: 13.909435826385996
-  rank: 7
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 68.39013828420687
-  llm_score: 85
-  recency_score: 1.9506914210343174
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 68.31507245272525
-  llm_score: 85
-  recency_score: 1.5753622636262385
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 22.491774693015714
+  llm_score: 0
+  recency_score: 71.19653550460211
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: survey
-  title: SURVEY
-  score: 60.796311061757145
-  llm_score: 60
-  recency_score: 63.98155530878573
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 18.47017985030707
+  llm_score: 0
+  recency_score: 45.05616902699594
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 In response to Councilman Brown about his position on the Waterfront,

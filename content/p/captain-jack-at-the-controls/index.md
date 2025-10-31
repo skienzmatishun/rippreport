@@ -14,74 +14,84 @@ authors:
 - ripp-report
 alttags: Aircraft cockpit view shows runway and fountain; Fairhope Airport expansion raises questions about future development plans
 related_articles:
-- slug: captain-jack
-  title: CAPTAIN JACK
-  score: 76.32943663570214
-  llm_score: 85
-  recency_score: 84.14718317851063
-  category_score: 0
+- slug: police-report
+  title: POLICE REPORT
+  score: 91.45279529926998
+  llm_score: 100
+  recency_score: 44.44316944525482
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 63.10890176713604
-  llm_score: 85
-  recency_score: 18.044508835680173
+- slug: no-radar
+  title: NO RADAR
+  score: 64.5543124008338
+  llm_score: 83
+  recency_score: 12.603030605419562
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 61.972726318616495
-  llm_score: 85
-  recency_score: 12.36363159308245
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 63.60056118833037
+  llm_score: 82
+  recency_score: 10.403647724147305
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 61.609428810804815
-  llm_score: 85
-  recency_score: 10.547144054024043
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 63.399357685334
+  llm_score: 81
+  recency_score: 13.095824954670931
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 61.54120535310382
-  llm_score: 85
-  recency_score: 10.20602676551906
-  category_score: 0
-  rank: 5
-- slug: flying-high
-  title: FLYING HIGH
-  score: 61.43747241426178
-  llm_score: 75
-  recency_score: 44.68736207130882
-  category_score: 0
-  rank: 6
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 52.82262650461531
-  llm_score: 70
-  recency_score: 19.113132523076512
-  category_score: 0
-  rank: 7
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 51.72157763656677
-  llm_score: 70
-  recency_score: 13.607888182833822
-  category_score: 0
-  rank: 8
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 47.87967791874271
-  llm_score: 65
+  score: 13.368983014417465
+  llm_score: 0
   recency_score: 11.898389593713517
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
 - slug: hi-jack-ed
   title: Hi-JACK-ed
-  score: 47.703953562668815
-  llm_score: 65
+  score: 13.233810432822162
+  llm_score: 0
   recency_score: 11.019767813344055
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 13.078793797956148
+  llm_score: 0
+  recency_score: 10.01215968671496
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 12.441266779022286
+  llm_score: 0
+  recency_score: 5.868234063644852
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: captain-jack
+  title: CAPTAIN JACK
+  score: 9.099566642847789
+  llm_score: -25
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 0
+  llm_score: -25
+  recency_score: 11.233145372424257
+  length_score: 100
   category_score: 0
   rank: 10
 ---

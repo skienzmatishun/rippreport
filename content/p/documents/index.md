@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Stack of documents representing bids and ethics letters related to a Fairhope city council contract dispute
 related_articles:
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 77.00643941635256
-  llm_score: 85
-  recency_score: 85.54185620629158
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 84.39633016492165
+  llm_score: 100
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 1
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 73.94699653198714
-  llm_score: 87
-  recency_score: 57.65547745791634
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 77.502428500283
+  llm_score: 83
+  recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 69.55254719926883
-  llm_score: 85
-  recency_score: 37.09155679524731
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 76.26929844554753
+  llm_score: 100
+  recency_score: 20.750439896058943
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 68.07934894387809
-  llm_score: 85
-  recency_score: 27.51576813520753
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 72.16930226505733
+  llm_score: 74
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 4
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 65.19298100118235
-  llm_score: 85
-  recency_score: 8.754376507685183
+- slug: fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 62.072019287786766
+  llm_score: 77
+  recency_score: 20.468125370613887
   length_score: 100
   category_score: 0
   rank: 5
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 64.91610669866463
-  llm_score: 85
-  recency_score: 6.9546935413200295
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 61.254422125493456
+  llm_score: 75
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 58.24214170564951
-  llm_score: 75
-  recency_score: 3.573921086721709
+- slug: honey-bees
+  title: HONEY BEES
+  score: 31.842109168472888
+  llm_score: 9
+  recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 7
-- slug: transparency
-  title: TRANSPARENCY
-  score: 26.062916276901703
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 26.589548333269796
   llm_score: 0
-  recency_score: 94.40895579986105
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 23.52822139979793
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 20.481740137800234
   llm_score: 0
-  recency_score: 77.93343909868652
+  recency_score: 58.1313108957015
   length_score: 100
   category_score: 0
   rank: 9
-- slug: listening-not-reading
-  title: LISTENING NOT READING
-  score: 12.745491215961879
-  llm_score: 0
-  recency_score: 7.845692903752216
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 0
+  llm_score: -100
+  recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
   rank: 10

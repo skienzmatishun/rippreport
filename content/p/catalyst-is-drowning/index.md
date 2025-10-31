@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Hand reaching from water, symbolizing a political exit after Billie Jo Underwood defeated Tucker Dorsey in an election
 related_articles:
-- slug: catalyst-exit-door
-  title: CATALYST EXIT DOOR
-  score: 86.2820185184681
-  llm_score: 95
-  recency_score: 98.91009259234048
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 78.406073371227
+  llm_score: 84
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 80.12610187044024
-  llm_score: 89
-  recency_score: 89.13050935220119
-  category_score: 0
-  rank: 2
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
-  score: 79.06641283325074
-  llm_score: 85
+  score: 77.66647141019288
+  llm_score: 83
   recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 75.67226364999894
+  llm_score: 81
+  recency_score: 92.86971372499306
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: dont-let-the-door-hit-you-in-the-ass
-  title: DON’T LET THE DOOR HIT YOU IN THE ASS
-  score: 75.0866878197373
-  llm_score: 85
-  recency_score: 77.93343909868652
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 74.75810538842946
+  llm_score: 79
+  recency_score: 94.92768502479139
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 74.21522921439814
-  llm_score: 85
-  recency_score: 73.57614607199059
-  category_score: 0
-  rank: 5
-- slug: i-quit-and-will-quit-again
-  title: I QUIT AND WILL QUIT AGAIN
-  score: 73.93570824436047
-  llm_score: 85
-  recency_score: 72.17854122180232
-  category_score: 0
-  rank: 6
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 73.73930710092043
-  llm_score: 85
-  recency_score: 71.19653550460211
-  category_score: 0
-  rank: 7
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 72.01287958944485
-  llm_score: 75
+  score: 74.54836891495759
+  llm_score: 78
   recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 73.25084759264635
+  llm_score: 78
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 71.45010501076763
+  llm_score: 77
+  recency_score: 81.42568256998956
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 67.97362036056606
+  llm_score: 79
+  recency_score: 50.828532343679264
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 55.20670566473226
-  llm_score: 75
-  recency_score: 13.53352832366127
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 24.771056188618328
+  llm_score: 0
+  recency_score: 86.01186522601911
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 52.57436363196032
-  llm_score: 75
-  recency_score: 0.37181815980154354
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 24.555312181361508
+  llm_score: 0
+  recency_score: 84.60952917884977
+  length_score: 100
   category_score: 0
   rank: 10
 ---

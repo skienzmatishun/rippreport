@@ -20,74 +20,84 @@ authors:
 - admin
 alttags: Stack of playing cards, including a Jack of Clubs, symbolizing complex corporate structures and potential concealment
 related_articles:
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 84.27733007636273
-  llm_score: 95
-  recency_score: 88.88665038181365
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 71.74701037350734
+  llm_score: 75
+  recency_score: 91.35556742779755
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 77.67127158449027
-  llm_score: 85
-  recency_score: 90.85635792245131
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 71.14422213605737
+  llm_score: 75
+  recency_score: 87.43744388437275
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 77.67127158449027
-  llm_score: 85
-  recency_score: 90.85635792245131
-  category_score: 0
-  rank: 3
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 77.27733007636274
-  llm_score: 85
-  recency_score: 88.88665038181365
-  category_score: 0
-  rank: 4
-- slug: catalyst-2
-  title: CATALYST
-  score: 74.21522921439814
-  llm_score: 85
-  recency_score: 73.57614607199059
-  category_score: 0
-  rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 66.3607717319103
-  llm_score: 90
-  recency_score: 16.8038586595515
-  category_score: 0
-  rank: 6
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 65.65174160583072
+  score: 67.80903200448518
   llm_score: 75
   recency_score: 65.75870802915355
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 65.50929899019572
+  llm_score: 85
+  recency_score: 10.810443436272047
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 62.24926710721334
+  llm_score: 60
+  recency_score: 89.62023619688662
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 61.83994535950301
+  llm_score: 60
+  recency_score: 86.95964483676948
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 59.1951235876705
+  llm_score: 75
+  recency_score: 9.768303319858143
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 61.95921418665641
-  llm_score: 85
-  recency_score: 12.296070933282007
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 50.18027111039097
+  llm_score: 60
+  recency_score: 11.171762217541199
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 61.703953562668815
-  llm_score: 85
-  recency_score: 11.019767813344055
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 32.34882676438538
+  llm_score: 30
+  recency_score: 15.267373968504938
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst
-  title: CATALYST
-  score: 56.54900835119811
-  llm_score: 75
-  recency_score: 20.245041755990528
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 25.213330827971333
+  llm_score: 0
+  recency_score: 88.88665038181365
+  length_score: 100
   category_score: 0
   rank: 10
 ---

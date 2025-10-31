@@ -8,82 +8,82 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring a bird over hills, relevant to the article about Fairhope City Council President Jac...
 related_articles:
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 71.74701037350734
-  llm_score: 75
-  recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: going-down
-  title: GOING DOWN
-  score: 70.15088224540614
-  llm_score: 75
-  recency_score: 80.98073459513984
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 68.76631729787792
-  llm_score: 75
-  recency_score: 71.98106243620636
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 67.0648760427525
-  llm_score: 85
-  recency_score: 20.921694277891152
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 66.85884670398326
-  llm_score: 75
+  score: 82.24346208859865
+  llm_score: 100
   recency_score: 59.582503575891096
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 74.94288923837506
+  llm_score: 100
+  recency_score: 12.128780049437779
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 73.52832411532373
+  llm_score: 100
+  recency_score: 2.9341067496041573
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: repeat
+  title: REPEAT
+  score: 61.022341720925304
+  llm_score: 77
+  recency_score: 13.645221186014394
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 59.593210977550044
+  llm_score: 78
+  recency_score: 0.3558713540751963
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 23.30047168158898
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 22.283712645630715
   llm_score: 0
-  recency_score: 76.45306593032835
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 19.75353545180493
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 18.961592167066474
   llm_score: 0
-  recency_score: 53.39798043673202
+  recency_score: 48.25034908593207
   length_score: 100
   category_score: 0
   rank: 7
-- slug: s-o-s
-  title: S.O.S
-  score: 16.787704878083343
-  llm_score: 2
-  recency_score: 26.120081707541715
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 14.675643952585016
+  llm_score: 5
+  recency_score: 0.39168569180259616
   length_score: 100
   category_score: 0
   rank: 8
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 12.582354597332827
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 13.558731249437352
   llm_score: 0
-  recency_score: 6.785304882663376
+  recency_score: 13.13175312134279
   length_score: 100
   category_score: 0
   rank: 9
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 11.592911801033756
-  llm_score: 0
+  score: 0
+  llm_score: -50
   recency_score: 0.35392670671941034
   length_score: 100
   category_score: 0

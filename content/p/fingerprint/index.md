@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: 'Politicians united against Poison Ivy: a hand gesture with a green marking on the index finger, symbolizing opposition'
 related_articles:
-- slug: insanity
-  title: INSANITY
-  score: 64.04219142063413
-  llm_score: 75
-  recency_score: 41.27424423412174
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 82.75975401154359
+  llm_score: 100
+  recency_score: 62.93840107503325
   length_score: 100
   category_score: 0
   rank: 1
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 50.77012029300099
-  llm_score: 53
-  recency_score: 43.0057819045064
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 73.76939020719371
+  llm_score: 77
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 49.53332046087981
-  llm_score: 52
-  recency_score: 38.96658299571869
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 67.05948467412519
+  llm_score: 68
+  recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
   rank: 3
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 44.664475427999335
-  llm_score: 53
-  recency_score: 3.3190902819956127
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 60.2922266732922
+  llm_score: 77
+  recency_score: 8.899473376399213
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 32.04219142063412
-  llm_score: 23
-  recency_score: 41.27424423412174
+- slug: chainsaw
+  title: CHAINSAW
+  score: 58.14142214428829
+  llm_score: 69
+  recency_score: 26.919243937873805
   length_score: 100
   category_score: 0
   rank: 5
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 25.516362757300204
-  llm_score: 0
-  recency_score: 90.85635792245131
+- slug: stepping-up
+  title: STEPPING UP
+  score: 18.938048839432064
+  llm_score: -2
+  recency_score: 56.097317456308396
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 18.961592167066474
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 15.725518729234997
   llm_score: 0
-  recency_score: 48.25034908593207
+  recency_score: 27.215871740027474
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 15.94924769602976
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 12.370031196348299
   llm_score: 0
-  recency_score: 28.67011002419343
+  recency_score: 5.405202776263941
   length_score: 100
   category_score: 0
   rank: 8
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 14.722102643407467
+- slug: fire
+  title: FIRE
+  score: 12.358717499168058
   llm_score: 0
-  recency_score: 20.693667182148534
+  recency_score: 5.331663744592373
   length_score: 100
   category_score: 0
   rank: 9
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 13.547691551786968
-  llm_score: 0
-  recency_score: 13.05999508661529
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 0
+  llm_score: -24
+  recency_score: 5.089033824662729
   length_score: 100
   category_score: 0
   rank: 10

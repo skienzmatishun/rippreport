@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 67.31519657681936
-  llm_score: 70
-  recency_score: 82.54877774932578
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.29124017750563
+  llm_score: 85
+  recency_score: 93.89306115378648
   length_score: 100
   category_score: 0
   rank: 1
-- slug: he-must-go
-  title: He Must Go
-  score: 65.84213677602337
-  llm_score: 70
-  recency_score: 72.97388904415178
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 69.74794518979925
+  llm_score: 75
+  recency_score: 78.36164373369505
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 65.550817820959
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 69.17478313740673
   llm_score: 85
-  recency_score: 11.080315836233387
+  recency_score: 34.63609039314372
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 64.53993818036255
-  llm_score: 70
-  recency_score: 64.50959817235656
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 66.30364763001135
+  llm_score: 65
+  recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 4
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 63.83228909966323
-  llm_score: 70
-  recency_score: 59.9098791478109
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 65.92991951722229
+  llm_score: 75
+  recency_score: 53.544476861944815
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 63.33650664155689
+- slug: offensive
+  title: Offensive
+  score: 64.1651452535409
   llm_score: 75
-  recency_score: 36.68729317011966
+  recency_score: 42.0734441480158
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.54463669282753
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 64.147435722712
   llm_score: 75
-  recency_score: 5.5401385033788575
+  recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 56.68064402759754
-  llm_score: 65
-  recency_score: 33.42418617938393
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 61.139215695149005
+  llm_score: 75
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 40.622611555536494
-  llm_score: 45
-  recency_score: 9.046975110987145
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 58.508266119103034
+  llm_score: 65
+  recency_score: 45.30372977416965
   length_score: 100
   category_score: 0
   rank: 9
-- slug: im-back-2
-  title: I'M BACK
-  score: 18.604399841024307
-  llm_score: 0
-  recency_score: 45.928598966657994
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 58.227641546030554
+  llm_score: 65
+  recency_score: 43.47967004919853
   length_score: 100
   category_score: 0
   rank: 10

@@ -17,74 +17,84 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: dog-and-pony-show
-  title: DOG AND PONY SHOW
-  score: 90.0
-  llm_score: 100
-  recency_score: 100.0
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 100
+  llm_score: 25000
+  recency_score: 0.1843866762700733
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 75.38849539476566
-  llm_score: 85
-  recency_score: 79.4424769738282
-  category_score: 0
-  rank: 2
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 63.73044680872361
-  llm_score: 85
-  recency_score: 21.152234043618023
-  category_score: 0
-  rank: 3
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 63.178781519874505
-  llm_score: 85
-  recency_score: 18.393907599372476
-  category_score: 0
-  rank: 4
-- slug: jack-ass
-  title: JACK ASS
-  score: 62.842406904882175
-  llm_score: 85
-  recency_score: 16.712034524410825
-  category_score: 0
-  rank: 5
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 61.217616807525836
-  llm_score: 85
-  recency_score: 8.588084037629146
-  category_score: 0
-  rank: 6
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 57.61076301928003
-  llm_score: 75
-  recency_score: 25.553815096400097
-  category_score: 0
-  rank: 7
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 57.04278605679046
-  llm_score: 75
-  recency_score: 22.713930283952266
-  category_score: 0
-  rank: 8
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 52.631476748473226
-  llm_score: 75
-  recency_score: 0.6573837423660799
-  category_score: 0
-  rank: 9
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 50.36826086626075
-  llm_score: 70
+  score: 74.1294314355852
+  llm_score: 100
   recency_score: 6.841304331303704
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 73.1780590372871
+  llm_score: 100
+  recency_score: 0.6573837423660799
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: flying-high
+  title: FLYING HIGH
+  score: 66.05096499421283
+  llm_score: 79
+  recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-special-meeting
+  title: Fairhope Special Meeting
+  score: 64.70058693790772
+  llm_score: 80
+  recency_score: 25.553815096400097
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 63.961606137855235
+  llm_score: 80
+  recency_score: 20.750439896058943
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 62.130317713819416
+  llm_score: 79
+  recency_score: 12.847065139826096
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 62.028523044205265
+  llm_score: 82
+  recency_score: 0.18539978733415308
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: no-radar
+  title: NO RADAR
+  score: 12.568132997823794
+  llm_score: -2
+  recency_score: 14.692864485854656
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 11.56985509732464
+  llm_score: 0
+  recency_score: 0.20405813261015537
+  length_score: 100
   category_score: 0
   rank: 10
 ---

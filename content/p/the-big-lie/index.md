@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Dejected yellow smiley face with a long nose symbolizing deception related to Vietnam War era political lies
 related_articles:
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 85.09957663469667
-  llm_score: 100
-  recency_score: 78.14724812552835
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 57.83870566702316
+  llm_score: 75
+  recency_score: 0.9515868356504543
   length_score: 100
   category_score: 0
   rank: 1
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 67.5648509906315
-  llm_score: 87
-  recency_score: 16.171531439104648
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 55.71406303956245
+  llm_score: 65
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 2
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 64.18290337015783
-  llm_score: 75
-  recency_score: 42.18887190602582
+- slug: combat
+  title: COMBAT
+  score: 53.51988289127778
+  llm_score: 60
+  recency_score: 32.87923879330549
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 58.47523597302505
-  llm_score: 75
-  recency_score: 5.089033824662729
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 49.67187960384391
+  llm_score: 60
+  recency_score: 7.867217424985351
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fact-and-fiction-a-b-c
-  title: FACT and FICTION A B C
-  score: 57.88422368915668
-  llm_score: 73
-  recency_score: 9.247453979518323
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 31.540332259494612
+  llm_score: 30
+  recency_score: 10.01215968671496
   length_score: 100
   category_score: 0
   rank: 5
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 52.371252004632915
-  llm_score: 62
-  recency_score: 17.413138030113867
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 30.387196186812893
+  llm_score: 30
+  recency_score: 2.5167752142837743
   length_score: 100
   category_score: 0
   rank: 6
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 33.555047583575366
-  llm_score: 23
-  recency_score: 51.107809293239825
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 7
-- slug: you-re-fired
-  title: YOU'RE FIRED
-  score: 25.868685818972203
-  llm_score: 23
-  recency_score: 1.1464578233192855
+- slug: im-back
+  title: I'M BACK
+  score: 12.930303863228792
+  llm_score: 0
+  recency_score: 9.046975110987145
   length_score: 100
   category_score: 0
   rank: 8
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 19.686291021882145
+- slug: war
+  title: WAR
+  score: 11.791685411974218
   llm_score: 0
-  recency_score: 52.96089164223393
+  recency_score: 1.6459551778324155
   length_score: 100
   category_score: 0
   rank: 9
-- slug: combat
-  title: COMBAT
-  score: 16.596805968200847
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 11.778183426710385
   llm_score: 0
-  recency_score: 32.87923879330549
+  recency_score: 1.558192273617504
   length_score: 100
   category_score: 0
   rank: 10

@@ -16,83 +16,83 @@ authors:
 - admin
 alttags: Skeleton reaching for a suit on a hanger behind open doors, symbolizing corruption and loss of power in Fairhope politics
 related_articles:
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 77.46741815752647
-  llm_score: 87
-  recency_score: 80.5382180239219
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 72.53862097642448
+  llm_score: 75
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 75.5759834070762
-  llm_score: 85
-  recency_score: 76.2438921459952
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 71.14422213605737
+  llm_score: 75
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 74.17009550015688
-  llm_score: 79
-  recency_score: 91.10562075101957
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 70.60260899552978
+  llm_score: 75
+  recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 3
-- slug: gob-coup
-  title: GOB COUP
-  score: 64.43658280136673
-  llm_score: 85
-  recency_score: 3.837788208883614
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.92747597872227
+  llm_score: 75
+  recency_score: 1.5285938616946646
   length_score: 100
   category_score: 0
   rank: 4
-- slug: skunked
-  title: SKUNKED
-  score: 60.982465445529854
-  llm_score: 77
-  recency_score: 13.386025395943985
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 55.9294084205779
+  llm_score: 70
+  recency_score: 8.541154733756285
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 59.909810514111605
-  llm_score: 75
-  recency_score: 14.41376834172532
+- slug: selective-memory
+  title: Selective Memory
+  score: 48.92802673239355
+  llm_score: 60
+  recency_score: 3.032173760557979
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 58.51776863005522
-  llm_score: 72
-  recency_score: 17.365496095358843
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 44.55245745955682
+  llm_score: 35
+  recency_score: 74.59097348711927
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 37.68206755364409
-  llm_score: 23
-  recency_score: 77.93343909868652
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 42.844134552518305
+  llm_score: 50
+  recency_score: 3.4868745913689296
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 23.332740550658407
-  llm_score: 0
-  recency_score: 76.66281357927963
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 28.67508967215798
+  llm_score: 25
+  recency_score: 11.388082869026867
   length_score: 100
   category_score: 0
   rank: 9
-- slug: threesome
-  title: THREESOME
-  score: 14.985369541302834
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 12.162145542309547
   llm_score: 0
-  recency_score: 22.404902018468416
+  recency_score: 4.053946025012058
   length_score: 100
   category_score: 0
   rank: 10

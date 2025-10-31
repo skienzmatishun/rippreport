@@ -11,83 +11,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 68.93781922379554
-  llm_score: 90
-  recency_score: 13.095824954670931
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 78.05902568631734
+  llm_score: 95
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 68.20460865029854
-  llm_score: 75
-  recency_score: 68.3299562269404
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 76.01458329393792
+  llm_score: 90
+  recency_score: 59.09479141059637
   length_score: 100
   category_score: 0
   rank: 2
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 66.12240192585033
-  llm_score: 70
-  recency_score: 74.79561251802704
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 74.35845480414469
+  llm_score: 85
+  recency_score: 68.3299562269404
   length_score: 100
   category_score: 0
   rank: 3
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 64.16647839966205
-  llm_score: 70
-  recency_score: 62.08210959780326
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 63.89285939675167
-  llm_score: 85
-  recency_score: 0.3035860788857349
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 61.89751025903196
-  llm_score: 70
+  score: 74.20520256672427
+  llm_score: 90
   recency_score: 47.33381668370766
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 72.62947027619191
+  llm_score: 90
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 72.35909238478675
+  llm_score: 85
+  recency_score: 55.33410050111382
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 60.09202200045578
-  llm_score: 70
-  recency_score: 35.59814300296249
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 69.31738440268028
+  llm_score: 90
+  recency_score: 15.562998617421716
   length_score: 100
   category_score: 0
   rank: 7
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 58.5839354210687
-  llm_score: 73
-  recency_score: 13.795580236946487
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 66.53244779533593
+  llm_score: 85
+  recency_score: 17.460910669683468
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 56.591856175357876
-  llm_score: 70
-  recency_score: 12.847065139826096
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 65.94541864400223
+  llm_score: 85
+  recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 55.767485563686385
-  llm_score: 70
-  recency_score: 7.488656163961433
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 65.8226254061271
+  llm_score: 85
+  recency_score: 12.847065139826096
   length_score: 100
   category_score: 0
   rank: 10

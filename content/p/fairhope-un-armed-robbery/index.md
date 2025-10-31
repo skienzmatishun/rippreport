@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: barstool
-  title: BARSTOOL
-  score: 81.89852630618084
-  llm_score: 100
-  recency_score: 57.34042099017541
+- slug: disposal
+  title: DISPOSAL
+  score: 77.00990737649605
+  llm_score: 82
+  recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 69.92319189595551
-  llm_score: 86
-  recency_score: 35.500747323710755
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 75.98887461919868
+  llm_score: 81
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 58.77411217256981
-  llm_score: 63
-  recency_score: 55.031729121703655
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 75.94891771054752
+  llm_score: 81
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 3
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 57.757684669493095
-  llm_score: 73
-  recency_score: 8.424950351705032
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 71.2815317272216
+  llm_score: 80
+  recency_score: 68.3299562269404
   length_score: 100
   category_score: 0
   rank: 4
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 57.72583486263939
-  llm_score: 75
-  recency_score: 0.2179266071559293
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 69.6683280302461
+  llm_score: 77
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 5
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 20.705000550137093
-  llm_score: 0
-  recency_score: 59.582503575891096
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 32.28098432379277
+  llm_score: 25
+  recency_score: 34.826398104653
   length_score: 100
   category_score: 0
   rank: 6
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 13.660858497991768
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 26.630840726595785
   llm_score: 0
-  recency_score: 13.795580236946487
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 7
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 12.992673140498805
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 26.630840726595785
   llm_score: 0
-  recency_score: 9.45237541324223
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 12.738895441832192
-  llm_score: 0
-  recency_score: 7.802820371909244
+- slug: honey-bees
+  title: HONEY BEES
+  score: 23.50430783717505
+  llm_score: 1
+  recency_score: 73.7780009416378
   length_score: 100
   category_score: 0
   rank: 9
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 11.70718209857371
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 21.877934829369664
   llm_score: -2
-  recency_score: 9.096683640729124
+  recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
   rank: 10

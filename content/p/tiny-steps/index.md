@@ -20,83 +20,83 @@ authors:
 - admin
 alttags: Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis...
 related_articles:
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 65.84988665357434
-  llm_score: 85
-  recency_score: 13.024263248233176
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 58.06595602527728
+  llm_score: 75
+  recency_score: 2.4287141643022077
   length_score: 100
   category_score: 0
   rank: 1
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 59.36917885348302
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 58.03086214087466
   llm_score: 75
-  recency_score: 10.899662547639538
+  recency_score: 2.200603915685177
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 54.19637756598667
-  llm_score: 66
-  recency_score: 13.276454178913294
-  length_score: 100
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 54.158333735337216
+  llm_score: 75
+  recency_score: 28.59166927969179
+  length_score: 31.25
   category_score: 0
   rank: 3
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 26.344155659759338
-  llm_score: 0
-  recency_score: 96.23701178843567
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 48.81045122104928
+  llm_score: 60
+  recency_score: 2.2679329368202343
   length_score: 100
   category_score: 0
   rank: 4
 - slug: insanity-2
   title: INSANITY
-  score: 23.52822139979793
-  llm_score: 0
+  score: 45.066682938259476
+  llm_score: 35
   recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
   rank: 5
-- slug: 4-20
-  title: 4-20
-  score: 16.737306625311852
-  llm_score: 0
-  recency_score: 33.792493064527044
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 40.6623743088615
+  llm_score: 40
+  recency_score: 29.305433007599714
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 16.249019505026716
-  llm_score: 0
-  recency_score: 30.618626782673648
+- slug: offensive
+  title: Offensive
+  score: 31.998250641741194
+  llm_score: 30
+  recency_score: 12.988629171317715
   length_score: 100
   category_score: 0
   rank: 7
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 15.937179889183353
-  llm_score: 0
-  recency_score: 28.59166927969179
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 28.965608335217432
+  llm_score: 25
+  recency_score: 13.276454178913294
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 11.99234279612526
-  llm_score: 0
-  recency_score: 2.9502281748141934
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 28.926809730497418
+  llm_score: 25
+  recency_score: 13.024263248233176
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 11.91210987143111
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 26.630840726595785
   llm_score: 0
-  recency_score: 2.4287141643022077
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 10

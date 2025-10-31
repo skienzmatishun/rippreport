@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Stylized white eyes scattered across a black background, illustrating Fairhope City Council’s perceived lack of progress
 related_articles:
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 92.87560790070712
-  llm_score: 95
-  recency_score: 84.37803950353559
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 75.97739906806869
+  llm_score: 100
+  recency_score: 18.853093942446446
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 92.24058076477368
-  llm_score: 95
-  recency_score: 81.20290382386844
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 73.64786581389228
+  llm_score: 77
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 85.39192896735389
-  llm_score: 85
-  recency_score: 86.95964483676948
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 73.64266568955173
+  llm_score: 79
+  recency_score: 87.6773269820862
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 84.64601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 73.26946258515935
+  llm_score: 100
+  recency_score: 1.251506803535654
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 83.54404300965939
-  llm_score: 85
-  recency_score: 77.72021504829691
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 59.85896414573824
+  llm_score: 78
+  recency_score: 2.083266947298482
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 82.07359964556152
-  llm_score: 95
-  recency_score: 30.367998227807558
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 59.76190390972959
+  llm_score: 76
+  recency_score: 9.45237541324223
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: going-down
-  title: GOING DOWN
-  score: 76.79175600985447
-  llm_score: 85
-  recency_score: 43.95878004927231
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 72.18066387081673
-  llm_score: 90
-  recency_score: 0.9033193540836424
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 25.712726690549236
+  llm_score: 23
+  recency_score: 0.1327234885700072
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: survey
-  title: SURVEY
-  score: 66.45093721071514
-  llm_score: 75
-  recency_score: 32.254686053575696
+- slug: honey-bees
+  title: HONEY BEES
+  score: 18.45121483257264
+  llm_score: 0
+  recency_score: 44.932896411722155
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 55.845024846284154
-  llm_score: 50
-  recency_score: 79.22512423142078
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 0
+  llm_score: -25
+  recency_score: 0.1327234885700072
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope in 2018 is IN THE DARK, refusing to look forward and recognize the lighting speed of change. The last city council meeting in Fairhope for 2018 was more of the same:

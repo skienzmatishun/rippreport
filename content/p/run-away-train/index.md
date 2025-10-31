@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Vintage steam train traveling through Baldwin County, illustrating independent municipal systems
 related_articles:
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 74.94622278024646
-  llm_score: 85
-  recency_score: 34.73111390123228
-  rank: 1
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 67.88389745041349
-  llm_score: 70
-  recency_score: 59.41948725206741
-  rank: 2
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 67.54404300965939
-  llm_score: 65
+  score: 85.03387923819953
+  llm_score: 100
   recency_score: 77.72021504829691
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: going-down
+  title: GOING DOWN
+  score: 63.18747211320139
+  llm_score: 73
+  recency_score: 43.718568735808944
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: paradise-lost
+  title: PARADISE LOST
+  score: 59.30010967714945
+  llm_score: 63
+  recency_score: 58.450712901471334
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 61.676544614916764
-  llm_score: 65
-  recency_score: 48.38272307458382
+- slug: priorities
+  title: Priorities
+  score: 50.86054737946195
+  llm_score: 63
+  recency_score: 3.5935579665025585
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 50.09354295513075
+  llm_score: 62
+  recency_score: 2.6080292083498433
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 24.59534057307586
+  llm_score: -2
+  recency_score: 92.86971372499306
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 19.206697721664636
+  llm_score: 2
+  recency_score: 41.84353519082013
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 60.6689665561533
-  llm_score: 70
+  score: 15.129974273964077
+  llm_score: 0
   recency_score: 23.3448327807665
-  rank: 5
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 59.645279801084776
-  llm_score: 65
-  recency_score: 38.22639900542388
-  rank: 6
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 59.618802726001995
-  llm_score: 70
-  recency_score: 18.094013630009982
-  rank: 7
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 56.060116734778454
-  llm_score: 65
-  recency_score: 20.300583673892284
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 12.26357545409296
+  llm_score: 0
+  recency_score: 4.713240451604244
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: Baldwin-County-seeks-public-input-on-land-use-plan
   title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 52.92982314542264
-  llm_score: 65
+  score: 0
+  llm_score: -100
   recency_score: 4.649115727113186
-  rank: 9
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 52.025686185185684
-  llm_score: 65
-  recency_score: 0.1284309259284028
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I apologize that The Ripp Report missed the last two Wonderful Wednesday’s, we should be back on schedule by the first of the new year.

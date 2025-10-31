@@ -12,63 +12,83 @@ alttags: Chucky doll depicted in a hallucination after surgery, referencing an i
 related_articles:
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
-  score: 83.62944962510568
-  llm_score: 85
+  score: 73.407268942389
+  llm_score: 81
   recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
-  score: 82.43570824436047
-  llm_score: 85
+  score: 73.10439095720037
+  llm_score: 82
   recency_score: 72.17854122180232
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 79.46808419803509
-  llm_score: 85
-  recency_score: 57.34042099017541
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 69.00990737649605
+  llm_score: 69
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 66.37739475851207
+  llm_score: 70
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 75.5206312839577
-  llm_score: 85
+  score: 62.86202406458286
+  llm_score: 74
   recency_score: 37.60315641978851
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 70.94620200815808
-  llm_score: 75
+  score: 61.80477077550623
+  llm_score: 68
   recency_score: 54.731010040790416
-  rank: 5
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 69.8369256908693
-  llm_score: 75
-  recency_score: 49.18462845434644
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: halloween-characters
-  title: HALLOWEEN CHARACTERS
-  score: 67.5866878197373
-  llm_score: 65
-  recency_score: 77.93343909868652
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 61.75918371350614
+  llm_score: 70
+  recency_score: 46.434694137789805
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 66.9652796209306
-  llm_score: 75
-  recency_score: 34.826398104653
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 58.84626881903243
+  llm_score: 68
+  recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 65.36972132414267
-  llm_score: 65
-  recency_score: 66.84860662071335
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 56.22968687267376
+  llm_score: 69
+  recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 64.69156694727452
-  llm_score: 65
-  recency_score: 63.45783473637261
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 55.35443979377717
+  llm_score: 67
+  recency_score: 16.8038586595515
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations.

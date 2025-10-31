@@ -8,6 +8,30 @@ authors:
 - admin
 alttags: Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics
 related_articles:
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 78.69246713027063
+  llm_score: 85
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.1730000246131
+  llm_score: 85
+  recency_score: 93.12450015998506
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 76.00128710169042
+  llm_score: 85
+  recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 72.33663345662207
@@ -15,76 +39,52 @@ related_articles:
   recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 69.84744094784428
-  llm_score: 75
-  recency_score: 79.0083661609877
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: threesome
-  title: THREESOME
-  score: 64.75986398373605
-  llm_score: 70
-  recency_score: 65.93911589428427
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 64.59446855764429
-  llm_score: 70
-  recency_score: 64.86404562468779
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 64.50858577827687
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 71.53846153846155
   llm_score: 85
-  recency_score: 4.305807558799547
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 63.44579618514378
-  llm_score: 75
-  recency_score: 37.39767520343444
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.33781629008563
+  llm_score: 85
+  recency_score: 35.69580588555647
   length_score: 100
   category_score: 0
   rank: 6
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 62.78556752645928
-  llm_score: 70
-  recency_score: 53.10618892198522
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 68.1495108055248
+  llm_score: 85
+  recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 7
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 57.817196606775624
-  llm_score: 75
-  recency_score: 0.8117779440414381
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 67.32150934708271
+  llm_score: 85
+  recency_score: 22.589810756037526
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 52.163856608463725
-  llm_score: 65
-  recency_score: 4.065067955014141
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 63.36751864588943
+  llm_score: 75
+  recency_score: 36.88887119828122
   length_score: 100
   category_score: 0
   rank: 9
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 30.613515470026073
-  llm_score: 30
-  recency_score: 3.9878505551694436
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 58.08163132535893
+  llm_score: 75
+  recency_score: 2.530603614832943
   length_score: 100
   category_score: 0
   rank: 10

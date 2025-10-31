@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et...
 related_articles:
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 87.9452804719372
-  llm_score: 85
-  recency_score: 99.72640235968593
-  rank: 1
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 87.62009294457451
+  score: 78.9385330342881
   llm_score: 85
   recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 72.57935157720608
+  llm_score: 75
+  recency_score: 96.76578525183945
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 83.29061318606567
-  llm_score: 85
-  recency_score: 76.45306593032835
-  rank: 3
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 83.12395966027418
-  llm_score: 85
-  recency_score: 75.61979830137088
-  rank: 4
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 81.44318114711444
-  llm_score: 85
-  recency_score: 67.21590573557219
-  rank: 5
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 78.0
+  score: 71.53846153846155
   llm_score: 85
   recency_score: 50
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 69.45431783543515
+  llm_score: 75
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 63.58942653267437
+  llm_score: 75
+  recency_score: 38.33127246238332
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 75.39801503421995
-  llm_score: 85
+  score: 63.38308848786152
+  llm_score: 75
   recency_score: 36.990075171099754
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 57.3077346263293
+  llm_score: 65
+  recency_score: 37.500275071140365
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: deaf-ears
   title: DEAF EARS
-  score: 69.61272299947794
-  llm_score: 85
+  score: 49.70209461498305
+  llm_score: 60
   recency_score: 8.063614997389708
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 69.5777601996732
-  llm_score: 85
-  recency_score: 7.888800998365954
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 44.805694121297805
+  llm_score: 30
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 69.47735425358857
-  llm_score: 85
-  recency_score: 7.3867712679428434
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 34.33887277202706
+  llm_score: 30
+  recency_score: 28.202673018175854
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama Attorney General 501 Washington ave. Montgomery Alabama 36104

@@ -16,75 +16,75 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: s-o-s
-  title: S.O.S
-  score: 68.17584724293476
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 66.58671603872746
   llm_score: 75
-  recency_score: 68.14300707907584
+  recency_score: 57.813654251728394
   length_score: 100
   category_score: 0
   rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 62.288135212342034
-  llm_score: 75
-  recency_score: 29.872878880223098
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 62.521326265797605
+  llm_score: 70
+  recency_score: 51.388620727684355
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 61.798435258424
-  llm_score: 70
-  recency_score: 46.6898291797559
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 60.73106970821483
+  llm_score: 75
+  recency_score: 19.751953103396314
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 60.689726649428685
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 58.37688016841482
   llm_score: 75
-  recency_score: 19.483223221286327
+  recency_score: 4.449721094696223
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 59.885641786591705
-  llm_score: 75
-  recency_score: 14.25667161284597
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 52.6411503493639
+  llm_score: 65
+  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 6
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 59.814704651837936
-  llm_score: 75
-  recency_score: 13.795580236946487
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 51.80659445288509
+  llm_score: 50
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 58.045065181827866
-  llm_score: 75
-  recency_score: 2.292923681881036
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 34.167593600791974
+  llm_score: 35
+  recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
   rank: 8
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 24.734852121903174
+- slug: pied-piper
+  title: PIED PIPER
+  score: 22.857868626460096
   llm_score: 0
-  recency_score: 85.7765387923706
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 9
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 23.30047168158898
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 18.17288730997562
   llm_score: 0
-  recency_score: 76.45306593032835
+  recency_score: 43.12376751484153
   length_score: 100
   category_score: 0
   rank: 10

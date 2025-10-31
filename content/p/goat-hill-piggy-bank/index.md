@@ -13,65 +13,85 @@ authors:
 - ripp-report
 alttags: Piggy bank receiving coins, symbolizing Baldwin County funds allegedly diverted for Goat Hill and tax increases
 related_articles:
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 90.52312487593501
-  llm_score: 90
-  recency_score: 92.61562437967505
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 76.28683892554356
+  llm_score: 100
+  recency_score: 20.864453016033117
+  length_score: 100
+  category_score: 0
   rank: 1
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 74.63084072659579
+  llm_score: 78
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 69.20702967750036
+  llm_score: 73
+  recency_score: 7.845692903752216
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 68.72113286965288
+  llm_score: 72
+  recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 57.9062175798483
+  llm_score: 74
+  recency_score: 5.390414269013892
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 86.4219058668791
-  llm_score: 85
+  score: 25.709158359137767
+  llm_score: 0
   recency_score: 92.10952933439548
-  rank: 2
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 82.27772414553687
-  llm_score: 90
-  recency_score: 51.388620727684355
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: stepping-up
+  title: STEPPING UP
+  score: 25.250847592646338
+  llm_score: 0
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 22.920063014859814
+  llm_score: 0
+  recency_score: 73.98040959658876
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 82.16149687375565
-  llm_score: 85
+  score: 21.201151441350497
+  llm_score: -2
   recency_score: 70.80748436877823
-  rank: 4
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 80.3824508821773
-  llm_score: 85
-  recency_score: 61.91225441088648
-  rank: 5
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 79.09718172757076
-  llm_score: 85
-  recency_score: 55.48590863785381
-  rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 74.70317696989248
-  llm_score: 85
-  recency_score: 33.51588484946244
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 73.74975319390109
-  llm_score: 85
+  score: 15.96134861069314
+  llm_score: 0
   recency_score: 28.748765969505406
-  rank: 8
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 68.64765009019077
-  llm_score: 85
-  recency_score: 3.2382504509538466
-  rank: 9
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 60.64942690688357
-  llm_score: 75
-  recency_score: 3.247134534417837
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County is the piggy-Bank for Goat Hill supported by the same elected officials, we elected, to represent us. The Tax Man Chris Elliott, as a county commissioner, taxed the citizens of Baldwin County without any vote of his constituents. Mr Elliott then raided the 1% school tax to the tune of 200,000 dollars a year, for the county. He is living up to his reputation as the Tax Man by supporting the gas tax, again without any vote by the public. Over 80% of the voters opposed the gas tax. Did our elected officials listen? Hell NO. This is the political plan, tax them right after being elected, because the voters will forget in 4 years.

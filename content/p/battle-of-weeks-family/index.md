@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Vintage newspaper clipping featuring Blanche Weeks and a headline proclaiming her gumbo is now famous; related to politica...
 related_articles:
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 80.68536507501787
-  llm_score: 100
-  recency_score: 49.45487298761609
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 58.860299437963654
+  llm_score: 75
+  recency_score: 7.591946346763673
   length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 58.30919411799739
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 58.009317117925946
   llm_score: 75
-  recency_score: 4.009761766982932
+  recency_score: 2.0605612665185533
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 57.94414783225934
-  llm_score: 75
-  recency_score: 1.6369609096856257
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 52.87426424925499
+  llm_score: 65
+  recency_score: 8.6827176201574
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 46.75359741462563
-  llm_score: 57
-  recency_score: 0.8983831950665335
+- slug: chainsaw
+  title: CHAINSAW
+  score: 49.61680017863767
+  llm_score: 60
+  recency_score: 7.509201161144759
   length_score: 100
   category_score: 0
   rank: 4
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 27.12701891841519
-  llm_score: 25
-  recency_score: 1.3256229696987023
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 49.304577865144005
+  llm_score: 60
+  recency_score: 5.4797561234359335
   length_score: 100
   category_score: 0
   rank: 5
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 26.841256519600865
-  llm_score: 23
-  recency_score: 7.468167377405599
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 47.449874796828304
+  llm_score: 50
+  recency_score: 33.42418617938393
   length_score: 100
   category_score: 0
   rank: 6
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 19.53152012652438
-  llm_score: 0
-  recency_score: 51.95488082240847
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 42.514447251778435
+  llm_score: 50
+  recency_score: 1.3439071365597703
   length_score: 100
   category_score: 0
   rank: 7
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 12.132134600673776
-  llm_score: 0
-  recency_score: 3.858874904379551
+- slug: newsletter
+  title: NEWSLETTER
+  score: 27.060534463004416
+  llm_score: 25
+  recency_score: 0.8934740095286622
   length_score: 100
   category_score: 0
   rank: 8
-- slug: exposure
-  title: EXPOSURE
-  score: 11.793775280822338
-  llm_score: 0
-  recency_score: 1.659539325345199
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 24.75143591709889
+  llm_score: 20
+  recency_score: 5.884333461142748
   length_score: 100
   category_score: 0
   rank: 9
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 11.749798124117918
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 15.159615201888588
   llm_score: 0
-  recency_score: 1.3736878067664646
+  recency_score: 23.53749881227582
   length_score: 100
   category_score: 0
   rank: 10

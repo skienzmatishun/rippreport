@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Feminist symbol representing a call to vote candidate over party, challenging established political networks
 related_articles:
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 85.77733007636273
-  llm_score: 85
-  recency_score: 88.88665038181365
-  rank: 1
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 81.5913138839337
-  llm_score: 85
-  recency_score: 67.95656941966844
-  rank: 2
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 78.85660194836281
-  llm_score: 85
-  recency_score: 54.28300974181401
-  rank: 3
-- slug: mid-term-elections-vote-incumbents-out
-  title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
-  score: 78.19359590659946
-  llm_score: 85
-  recency_score: 50.96797953299731
-  rank: 4
-- slug: qualification
-  title: QUALIFICATION
-  score: 69.31241738177069
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 69.16784207494143
   llm_score: 75
-  recency_score: 46.562086908853416
+  recency_score: 74.59097348711927
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 66.09401098612483
+  llm_score: 74
+  recency_score: 58.61107140981138
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 62.6228554516007
+  llm_score: 76
+  recency_score: 28.048560435404436
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 60.93759415852324
+  llm_score: 75
+  recency_score: 21.094362030400973
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 59.712577403283525
+  llm_score: 75
+  recency_score: 13.13175312134279
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: vote-march-5th
-  title: VOTE MARCH 5th
-  score: 68.0946383604076
-  llm_score: 85
-  recency_score: 0.4731918020379976
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 59.59916669739908
+  llm_score: 74
+  recency_score: 16.39458353309393
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 66.4753123573984
-  llm_score: 65
-  recency_score: 72.37656178699199
-  rank: 7
 - slug: last-chance
   title: LAST CHANCE
-  score: 60.5585841958902
-  llm_score: 75
+  score: 59.3527570737617
+  llm_score: 77
   recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 58.32418252185121
+  llm_score: 76
+  recency_score: 0.10718639203280696
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: vote-smart
-  title: VOTE SMART
-  score: 60.09915043452601
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 58.125534014011485
   llm_score: 75
-  recency_score: 0.4957521726300432
+  recency_score: 2.8159710910745517
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 60.097533887459356
-  llm_score: 75
-  recency_score: 0.4876694372967864
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 14.801579204260147
+  llm_score: 0
+  recency_score: 21.21026482769095
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Vote candidate not party. Straight ticket voting is voting blind and allows corruption to flourish and compromises elected officials. It strengthens the good ole boy network and Catalyst candidates, something all parties should be against.

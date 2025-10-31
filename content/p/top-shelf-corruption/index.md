@@ -16,52 +16,60 @@ alttags: Alabama state-shaped shot glass labeled Sweet Home, symbolizing potenti
 related_articles:
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 72.86761183276546
-  llm_score: 75
+  score: 85.17530414045775
+  llm_score: 95
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 72.66775707541161
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.89724064096211
   llm_score: 85
-  recency_score: 57.34042099017541
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 72.33663345662207
-  llm_score: 75
-  recency_score: 95.18811746804333
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 69.50583755648374
-  llm_score: 85
-  recency_score: 36.787944117144235
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 69.32279123122501
-  llm_score: 85
-  recency_score: 35.59814300296249
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 69.26255021398507
-  llm_score: 75
+  score: 75.41639636783121
+  llm_score: 85
   recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 72.45749378385752
+  llm_score: 75
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 72.42935007736155
+  llm_score: 85
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 70.57208749781677
+  llm_score: 85
+  recency_score: 43.718568735808944
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.61542693402161
+  llm_score: 85
+  recency_score: 37.500275071140365
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
   score: 63.97735605688131
@@ -69,28 +77,20 @@ related_articles:
   recency_score: 0.8528143697284161
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 63.24448371398604
-  llm_score: 75
-  recency_score: 36.08914414090915
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 63.19858084659232
-  llm_score: 70
-  recency_score: 55.79077550285001
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 63.654407904539575
+  llm_score: 75
+  recency_score: 38.75365137950711
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 60.92871513133024
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 63.351991402637594
   llm_score: 75
-  recency_score: 21.03664835364649
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: COVID-19 mask crossed out by a red no symbol; emphasizes precautions and warnings related to the virus
 related_articles:
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 95.0898528806295
-  llm_score: 95
-  recency_score: 95.44926440314748
-  rank: 1
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 87.89071065521195
-  llm_score: 85
-  recency_score: 99.45355327605971
-  rank: 2
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 87.19474191901475
-  llm_score: 85
-  recency_score: 95.97370959507373
-  rank: 3
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 82.75560018832756
-  llm_score: 85
-  recency_score: 73.7780009416378
-  rank: 4
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 73.04408811712146
-  llm_score: 75
-  recency_score: 65.22044058560728
-  rank: 5
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 72.55504977540349
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 68.1412104915203
   llm_score: 70
-  recency_score: 82.7752488770174
+  recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 64.92800070824062
+  llm_score: 70
+  recency_score: 67.03200460356393
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 57.36120621495452
+  llm_score: 70
+  recency_score: 17.84784039720432
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 56.82983193836501
+  llm_score: 69
+  recency_score: 18.393907599372476
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 56.00923001332544
+  llm_score: 69
+  recency_score: 13.05999508661529
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 23.07704814962097
+  llm_score: 0
+  recency_score: 75.00081297253628
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 66.83667471122875
-  llm_score: 65
-  recency_score: 74.18337355614374
+- slug: sting
+  title: Sting
+  score: 22.70386547971357
+  llm_score: 0
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: take-a-chance
-  title: “TAKE A CHANCE”
-  score: 62.249604534796696
-  llm_score: 65
-  recency_score: 51.24802267398346
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 21.381701913262518
+  llm_score: -2
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 56.91844560934352
-  llm_score: 65
-  recency_score: 24.592228046717608
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 13.762048040465258
+  llm_score: 0
+  recency_score: 14.453312263024177
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 55.2879123572438
-  llm_score: 65
-  recency_score: 16.439561786218995
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 0
+  llm_score: -100
+  recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I do hope people are heeding the warnings related to COVD-19. May I suggest, Dr Sanjay Gupta’s

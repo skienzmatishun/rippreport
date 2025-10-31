@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: 'Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city name, related to Fairhope City Council discussion'
 related_articles:
-- slug: catalyst
-  title: CATALYST
-  score: 66.65884171775178
-  llm_score: 84
-  recency_score: 22.28247116538646
+- slug: communication
+  title: COMMUNICATION
+  score: 61.85648484623268
+  llm_score: 75
+  recency_score: 27.067151500512303
   length_score: 100
   category_score: 0
   rank: 1
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 65.86249060338235
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 59.4204839034499
   llm_score: 75
-  recency_score: 53.10618892198522
+  recency_score: 11.233145372424257
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 30.834490181443684
-  llm_score: 23
-  recency_score: 33.42418617938393
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 55.317707462025105
+  llm_score: 60
+  recency_score: 44.565098503163114
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 26.672246404880518
-  llm_score: 0
-  recency_score: 98.36960163172333
+- slug: women-stand-together
+  title: WOMEN STAND TOGETHER
+  score: 54.496172958680134
+  llm_score: 50
+  recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 23.962949725565927
-  llm_score: 0
-  recency_score: 80.75917321617852
+- slug: one-woman
+  title: ONE WOMAN
+  score: 53.51988289127778
+  llm_score: 60
+  recency_score: 32.87923879330549
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 22.67331719799877
-  llm_score: 0
-  recency_score: 72.37656178699199
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 52.637139962639374
+  llm_score: 60
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 6
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 14.495099918656027
-  llm_score: 0
-  recency_score: 19.21814947126418
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 51.20493294865442
+  llm_score: 40
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 14.383841964950724
-  llm_score: 0
-  recency_score: 18.4949727721797
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 48.547343883041464
+  llm_score: 60
+  recency_score: 0.5577352397694522
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 13.672519990489846
-  llm_score: 0
-  recency_score: 13.871379938184003
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 44.016249346310715
+  llm_score: 30
+  recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 13.404427699913505
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 16.76587163653973
   llm_score: 0
-  recency_score: 12.128780049437779
+  recency_score: 33.97816563750821
   length_score: 100
   category_score: 0
   rank: 10

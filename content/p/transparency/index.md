@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Financial documents overlaid on a tree branch, symbolizing Fairhope City Council’s budget failures and lack of leadership
 related_articles:
-- slug: documents
-  title: DOCUMENTS
-  score: 86.88179115997221
-  llm_score: 85
-  recency_score: 94.40895579986105
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 74.51134979438045
+  llm_score: 100
+  recency_score: 9.323773663472833
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 82.33419501564546
-  llm_score: 90
-  recency_score: 51.67097507822733
+- slug: dog-and-pony-show
+  title: DOG AND PONY SHOW
+  score: 68.24232701817512
+  llm_score: 74
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 81.91811031330417
-  llm_score: 90
-  recency_score: 49.59055156652082
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 64.7044298085669
+  llm_score: 70
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 79.8513833874118
-  llm_score: 85
-  recency_score: 59.25691693705903
+- slug: state-of-the-city-2019
+  title: STATE OF THE CITY - 2019
+  score: 63.012502659815205
+  llm_score: 70
+  recency_score: 54.58126728879875
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 76.6247535029683
-  llm_score: 85
-  recency_score: 43.12376751484153
+- slug: flying-high
+  title: FLYING HIGH
+  score: 61.97214909855471
+  llm_score: 75
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75.85763521712458
-  llm_score: 85
-  recency_score: 39.2881760856229
+- slug: do-your-job-pass-the-budget
+  title: DO YOUR JOB, PASS THE BUDGET
+  score: 61.69915520548927
+  llm_score: 77
+  recency_score: 18.044508835680173
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 75.21782882818184
-  llm_score: 85
-  recency_score: 36.08914414090915
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 58.30211772256782
+  llm_score: 73
+  recency_score: 11.96376519669074
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 73.82905888579863
-  llm_score: 85
-  recency_score: 29.145294428993168
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 16.418630659873767
+  llm_score: -2
+  recency_score: 39.72109928917947
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 73.71761680752583
-  llm_score: 90
-  recency_score: 8.588084037629146
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 13.20616949211191
+  llm_score: 0
+  recency_score: 10.840101698727413
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 69.24656255570012
-  llm_score: 85
-  recency_score: 6.232812778500628
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 11.840216842903796
+  llm_score: 0
+  recency_score: 1.961409478874682
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars, a perfect example of a lack of compassion and leadership.

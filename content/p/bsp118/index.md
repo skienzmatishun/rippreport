@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: he-must-go
-  title: He Must Go
-  score: 72.17702386531501
-  llm_score: 75
-  recency_score: 94.15065512454748
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 71.9051795324712
+  llm_score: 85
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bsp-128
-  title: Big News
-  score: 67.42000873780174
-  llm_score: 70
-  recency_score: 83.23005679571122
+- slug: press-release
+  title: PRESS RELEASE
+  score: 71.51786273032691
+  llm_score: 75
+  recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 64.51101138190337
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 68.94986025110443
   llm_score: 75
-  recency_score: 44.32157398237182
+  recency_score: 73.17409163217867
   length_score: 100
   category_score: 0
   rank: 3
-- slug: im-back-2
-  title: I'M BACK
-  score: 62.5469884856243
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 68.17584724293476
   llm_score: 75
-  recency_score: 31.555425156557842
+  recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 59.753535451804936
-  llm_score: 65
-  recency_score: 53.39798043673202
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 66.02069118585678
+  llm_score: 75
+  recency_score: 54.13449270806896
   length_score: 100
   category_score: 0
   rank: 5
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.93286384575228
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 8.063614997389708
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 57.870972134744584
-  llm_score: 65
-  recency_score: 41.16131887583971
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 60.06051943732871
+  llm_score: 75
+  recency_score: 15.39337634263649
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 55.786580725962565
-  llm_score: 70
-  recency_score: 7.612774718756618
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 58.26364090717367
+  llm_score: 75
+  recency_score: 3.7136658966287337
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 52.52129369218854
-  llm_score: 65
-  recency_score: 6.388408999225476
+- slug: little-choice
+  title: LITTLE CHOICE
+  score: 57.85037818602408
+  llm_score: 75
+  recency_score: 1.0274582091564293
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 45.840649078158776
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 42.46882354612519
   llm_score: 50
-  recency_score: 22.96421900803196
+  recency_score: 1.0473530498137102
   length_score: 100
   category_score: 0
   rank: 10

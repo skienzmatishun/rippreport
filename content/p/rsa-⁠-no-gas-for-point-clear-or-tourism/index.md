@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management
 related_articles:
-- slug: hell-yea
-  title: HELL YEA
-  score: 77.90707115529658
-  llm_score: 98
-  recency_score: 39.39596250942772
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 60.38578067290428
+  llm_score: 60
+  recency_score: 77.50757437387774
   length_score: 100
   category_score: 0
   rank: 1
-- slug: boycott-the-gas-station-on-the-new-roundabout
-  title: 'BOYCOTT: The Gas Station on the New Roundabout'
-  score: 74.66873805107515
-  llm_score: 100
-  recency_score: 10.34679733198841
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 59.449151884933464
+  llm_score: 63
+  recency_score: 59.41948725206741
   length_score: 100
   category_score: 0
   rank: 2
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 66.6355862916464
-  llm_score: 75
-  recency_score: 58.1313108957015
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 59.86768826574014
-  llm_score: 75
-  recency_score: 14.139973727310823
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 52.74308822003385
-  llm_score: 57
-  recency_score: 39.83007343021991
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 38.15088224540614
-  llm_score: 23
-  recency_score: 80.98073459513984
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 37.71496125008129
-  llm_score: 23
-  recency_score: 78.14724812552835
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: shut-up-2
-  title: SHUT UP
-  score: 35.78135288548997
-  llm_score: 23
-  recency_score: 65.57879375568477
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: people-power-wake-up-gulf-shores
   title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 18.191088741020714
-  llm_score: 0
+  score: 58.80647335640534
+  llm_score: 66
   recency_score: 43.242076816634636
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: shut-up
-  title: SHUT UP
-  score: 12.785833917406189
+  rank: 3
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 55.75209549656683
+  llm_score: 59
+  recency_score: 51.388620727684355
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: battle-of-weeks-family
+  title: BATTLE OF WEEKS “FAMILY”
+  score: 53.99566465167864
+  llm_score: 62
+  recency_score: 27.971820235911103
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 51.14254060571662
+  llm_score: 62
+  recency_score: 9.426513937157974
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 50.80509928806528
+  llm_score: 61
+  recency_score: 11.233145372424257
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 19.98171747836964
   llm_score: 0
-  recency_score: 8.107920463140223
+  recency_score: 54.88116360940264
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 14.766014243099962
+  llm_score: 0
+  recency_score: 20.979092580149743
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 0
+  llm_score: -25
+  recency_score: 11.20241175175226
   length_score: 100
   category_score: 0
   rank: 10

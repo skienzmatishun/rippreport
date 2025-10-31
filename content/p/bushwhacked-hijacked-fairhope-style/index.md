@@ -7,74 +7,84 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: flying-high
-  title: FLYING HIGH
-  score: 78.74740235768715
-  llm_score: 85
-  recency_score: 96.23701178843567
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 77.2586847232443
+  llm_score: 82
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: captain-jack
-  title: CAPTAIN JACK
-  score: 70.53654154157076
-  llm_score: 85
-  recency_score: 55.18270770785375
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 68.31185940587402
+  llm_score: 78
+  recency_score: 57.02708613818104
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 66.60014946474216
-  llm_score: 85
+- slug: gob-coup
+  title: GOB COUP
+  score: 68.07703804980166
+  llm_score: 83
   recency_score: 35.500747323710755
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 64.8251698208218
-  llm_score: 85
-  recency_score: 26.62584910410898
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 65.73149016208858
+  llm_score: 80
+  recency_score: 32.254686053575696
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 64.24635098516818
-  llm_score: 85
-  recency_score: 23.73175492584083
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 63.55693564731413
+  llm_score: 78
+  recency_score: 26.120081707541715
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: captain-jack-at-the-controls
-  title: CAPTAIN JACK AT THE CONTROLS
-  score: 58.28693882755797
-  llm_score: 70
-  recency_score: 46.434694137789805
+- slug: no-radar
+  title: NO RADAR
+  score: 61.05418134057211
+  llm_score: 79
+  recency_score: 5.8521787137186125
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 56.895862600164364
-  llm_score: 75
-  recency_score: 21.979313000821772
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 59.54976020746985
+  llm_score: 78
+  recency_score: 0.07344134855391207
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 54.86108660151995
-  llm_score: 70
-  recency_score: 29.305433007599714
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 18.643223580446488
+  llm_score: 0
+  recency_score: 46.18095327290216
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 53.27199426882628
-  llm_score: 65
-  recency_score: 38.85997134413138
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 16.56916481077892
+  llm_score: 0
+  recency_score: 32.69957127006297
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 50.624784308218494
-  llm_score: 65
-  recency_score: 25.623921541092447
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 0
+  llm_score: -250
+  recency_score: 37.500275071140365
+  length_score: 100
   category_score: 0
   rank: 10
 ---

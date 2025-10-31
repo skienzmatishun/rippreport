@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 71.29245110658185
-  llm_score: 75
-  recency_score: 88.40093219278197
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: bsp118
   title: The Smokey and The Bandit Run
-  score: 69.10010078839193
-  llm_score: 70
+  score: 72.17702386531501
+  llm_score: 75
   recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 66.46634776783225
+  llm_score: 65
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 65.84213677602337
-  llm_score: 70
-  recency_score: 72.97388904415178
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 52.12407742818842
+  llm_score: 50
+  recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 65.4268536006863
-  llm_score: 75
-  recency_score: 50.274548404460894
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 51.5198420007586
+  llm_score: 45
+  recency_score: 79.87897300493081
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 64.93464039894211
-  llm_score: 75
-  recency_score: 47.075162593123636
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 44.220293716720725
+  llm_score: 45
+  recency_score: 32.43190915868462
   length_score: 100
   category_score: 0
   rank: 5
-- slug: im-back-2
-  title: I'M BACK
-  score: 62.848597669148084
-  llm_score: 75
-  recency_score: 33.51588484946244
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 41.77850635760108
+  llm_score: 35
+  recency_score: 56.56029132440696
   length_score: 100
   category_score: 0
   rank: 6
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 61.34131826704754
-  llm_score: 70
-  recency_score: 43.718568735808944
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 41.026303858188825
+  llm_score: 35
+  recency_score: 51.67097507822733
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 58.36783515945453
-  llm_score: 70
-  recency_score: 24.39092853645434
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 38.05902568631735
+  llm_score: 30
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 55.783376361040574
-  llm_score: 70
-  recency_score: 7.591946346763673
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 25.426853600686293
+  llm_score: 10
+  recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 12.582354597332827
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 17.01509892353269
   llm_score: 0
-  recency_score: 6.785304882663376
+  recency_score: 35.59814300296249
   length_score: 100
   category_score: 0
   rank: 10

@@ -11,65 +11,85 @@ authors:
 - ripp-report
 alttags: Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t...
 related_articles:
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 86.22156185864796
-  llm_score: 95
-  recency_score: 51.107809293239825
-  rank: 1
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 81.39861928254133
-  llm_score: 95
-  recency_score: 26.993096412706674
-  rank: 2
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 77.37201466601171
-  llm_score: 95
-  recency_score: 6.86007333005856
-  rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 73.78927738411232
-  llm_score: 92
-  recency_score: 0.9463869205615951
-  rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 73.47331224721167
-  llm_score: 90
-  recency_score: 7.366561236058354
-  rank: 5
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 72.30488233299182
-  llm_score: 90
-  recency_score: 1.5244116649590835
-  rank: 6
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 68.95303529257221
-  llm_score: 85
-  recency_score: 4.7651764628610165
-  rank: 7
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 68.39987771401807
-  llm_score: 85
-  recency_score: 1.9993885700904033
-  rank: 8
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 65.44532616133364
-  llm_score: 80
-  recency_score: 7.226630806668228
-  rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 62.41568627566374
-  llm_score: 70
+  score: 66.93514328897211
+  llm_score: 82
   recency_score: 32.0784313783187
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 63.877334310488614
+  llm_score: 78
+  recency_score: 28.202673018175854
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 60.86732412298692
+  llm_score: 77
+  recency_score: 12.637606799414936
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 60.59385743539364
+  llm_score: 78
+  recency_score: 6.86007333005856
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 60.54316978689739
+  llm_score: 79
+  recency_score: 2.530603614832943
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 20.580287670602125
+  llm_score: 0
+  recency_score: 58.77186985891382
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 12.629132062330433
+  llm_score: 0
+  recency_score: 7.089358405147809
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 12.474000963464892
+  llm_score: 0
+  recency_score: 6.0810062625217975
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 12.271565609670926
+  llm_score: 0
+  recency_score: 4.7651764628610165
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 11.94746598503222
+  llm_score: 0
+  recency_score: 2.658528902709438
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption. Many citizens resist any new taxes for education or infrastructure, claiming to be fiscally conservative or being fiscally responsible, all the while being robbed by elected officials.

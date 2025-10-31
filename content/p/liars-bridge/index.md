@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc...
 related_articles:
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 73.65455191124308
-  llm_score: 100
-  recency_score: 3.7545874230799345
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 73.19018604576722
-  llm_score: 85
-  recency_score: 60.73620929748681
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 69.10010078839193
-  llm_score: 70
+  score: 78.33087001916117
+  llm_score: 85
   recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 71.86300451298393
+  llm_score: 75
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 69.45917899021458
+  llm_score: 90
+  recency_score: 16.48466343639469
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 59.842794713462816
-  llm_score: 70
-  recency_score: 33.97816563750821
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 67.03633989192106
+  llm_score: 75
+  recency_score: 60.73620929748681
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bad-faith
-  title: Bad Faith
-  score: 58.394630538948185
-  llm_score: 65
-  recency_score: 44.565098503163114
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 58.079503879120594
-  llm_score: 75
-  recency_score: 2.5167752142837743
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 56.50072093131935
-  llm_score: 65
-  recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 55.435640576091146
-  llm_score: 70
-  recency_score: 5.331663744592373
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 55.41785795319055
-  llm_score: 70
+  score: 64.64862718395977
+  llm_score: 85
   recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 62.65456708516551
+  llm_score: 75
+  recency_score: 32.254686053575696
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pied-piper
+  title: PIED PIPER
+  score: 62.5603072174556
+  llm_score: 75
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 58.52387735019447
+  llm_score: 75
+  recency_score: 5.405202776263941
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 12.277615952948587
-  llm_score: 0
+  score: 58.431462106794754
+  llm_score: 75
   recency_score: 4.804503694165815
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 57.9597940306858
+  llm_score: 75
+  recency_score: 1.7386611994575782
   length_score: 100
   category_score: 0
   rank: 10

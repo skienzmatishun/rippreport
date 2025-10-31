@@ -19,75 +19,75 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 73.66011930813079
-  llm_score: 87
-  recency_score: 55.79077550285001
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 75.30660994959683
+  llm_score: 100
+  recency_score: 14.49296467237936
   length_score: 100
   category_score: 0
   rank: 2
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 71.44422760017675
-  llm_score: 87
-  recency_score: 41.38747940114875
+- slug: victory
+  title: VICTORY
+  score: 65.73082293629726
+  llm_score: 76
+  recency_score: 48.25034908593207
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 68.31777747556507
-  llm_score: 85
-  recency_score: 29.065553591172854
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 64.17492283482274
+  llm_score: 73
+  recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
   rank: 4
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 65.44807319208198
-  llm_score: 75
-  recency_score: 50.412475748532785
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.75209549656684
+  llm_score: 72
+  recency_score: 51.388620727684355
   length_score: 100
   category_score: 0
   rank: 5
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 64.7464890328798
-  llm_score: 85
+  score: 57.97725826364903
+  llm_score: 74
   recency_score: 5.8521787137186125
   length_score: 100
   category_score: 0
   rank: 6
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 63.4932800033257
-  llm_score: 75
-  recency_score: 37.70632002161693
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 57.888508026573064
+  llm_score: 69
+  recency_score: 25.27530217272481
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 63.37429175564957
-  llm_score: 73
-  recency_score: 44.932896411722155
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 56.64974629981812
+  llm_score: 69
+  recency_score: 17.223350948817675
   length_score: 100
   category_score: 0
   rank: 8
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 54.57980125602146
-  llm_score: 67
-  recency_score: 11.76870816413944
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 54.107713987723095
+  llm_score: 69
+  recency_score: 0.700140920200011
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 14.687403903171369
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 20.121657769669234
   llm_score: 0
-  recency_score: 20.468125370613887
+  recency_score: 55.79077550285001
   length_score: 100
   category_score: 0
   rank: 10

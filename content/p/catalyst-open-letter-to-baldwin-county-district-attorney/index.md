@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report
 related_articles:
-- slug: catalyst-busted
-  title: CATALYST BUSTED
-  score: 78.74740235768715
-  llm_score: 85
-  recency_score: 96.23701178843567
-  category_score: 0
+- slug: police-report
+  title: POLICE REPORT
+  score: 82.85203354214184
+  llm_score: 77
+  recency_score: 80.5382180239219
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 78.53762349360868
-  llm_score: 85
-  recency_score: 95.18811746804333
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 73.40007149582657
+  llm_score: 76
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 77.42404723937733
-  llm_score: 85
-  recency_score: 89.62023619688662
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 69.57237547470882
+  llm_score: 78
+  recency_score: 65.22044058560728
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 77.32610187044025
-  llm_score: 85
-  recency_score: 89.13050935220119
+- slug: gob-coup
+  title: GOB COUP
+  score: 63.51890444311126
+  llm_score: 77
+  recency_score: 29.872878880223098
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 76.00975554986516
-  llm_score: 85
-  recency_score: 82.54877774932578
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 62.81736583056956
+  llm_score: 80
+  recency_score: 13.312877898702032
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 71.58086365430705
-  llm_score: 85
-  recency_score: 60.404318271535175
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 62.42711470066787
+  llm_score: 77
+  recency_score: 22.77624555434108
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 69.72156185864797
-  llm_score: 85
-  recency_score: 51.107809293239825
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 23.013995921095272
+  llm_score: 0
+  recency_score: 74.59097348711927
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: letter-of-concern
-  title: Letter of Concern
-  score: 66.87777423965625
-  llm_score: 85
-  recency_score: 36.88887119828122
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 15.223309849284643
+  llm_score: 2
+  recency_score: 15.95151402035018
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 55.111999017323065
-  llm_score: 75
-  recency_score: 13.05999508661529
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 14.188207838279643
+  llm_score: 0
+  recency_score: 17.223350948817675
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 51.24662907448486
-  llm_score: 70
-  recency_score: 11.233145372424257
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 13.842671509858803
+  llm_score: 0
+  recency_score: 14.977364814082216
+  length_score: 100
   category_score: 0
   rank: 10
 ---

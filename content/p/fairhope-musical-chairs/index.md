@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Council members celebrating, possibly masking criticism after a controversial president’s departure
 related_articles:
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 70.01220401671269
-  llm_score: 90
-  recency_score: 20.079326108632408
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 70.78067931314688
+  llm_score: 75
+  recency_score: 85.07441553545459
   length_score: 100
   category_score: 0
   rank: 1
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 68.5932858342233
-  llm_score: 70
-  recency_score: 90.85635792245131
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 64.19891133567401
+  llm_score: 85
+  recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
   rank: 2
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 58.119422392975565
-  llm_score: 70
-  recency_score: 22.77624555434108
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 59.36251660345406
+  llm_score: 55
+  recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 57.4921187806396
-  llm_score: 70
-  recency_score: 18.69877207415731
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 49.69870048262045
+  llm_score: 60
+  recency_score: 8.041553137032842
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 57.144547967110626
-  llm_score: 70
-  recency_score: 16.439561786218995
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 42.69808404332019
+  llm_score: 50
+  recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 57.06274939298403
-  llm_score: 70
-  recency_score: 15.90787105439613
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 19.821334853252928
+  llm_score: 0
+  recency_score: 53.838676546144015
   length_score: 100
   category_score: 0
   rank: 6
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 56.362603898926196
-  llm_score: 70
-  recency_score: 11.356925343020198
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 18.154735677616372
+  llm_score: 0
+  recency_score: 43.0057819045064
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 55.28511599947425
-  llm_score: 70
-  recency_score: 4.353253996582533
+- slug: disposal
+  title: DISPOSAL
+  score: 15.969611901050332
+  llm_score: 5
+  recency_score: 8.80247735682715
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 55.13447716601309
-  llm_score: 70
-  recency_score: 3.374101579085013
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 14.938473562135679
+  llm_score: 0
+  recency_score: 22.100078153881906
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 55.022154070556255
-  llm_score: 70
-  recency_score: 2.644001458615577
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 11.893157251083275
+  llm_score: 0
+  recency_score: 2.3055221320412933
   length_score: 100
   category_score: 0
   rank: 10

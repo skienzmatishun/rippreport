@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Jerry Carl, congressional candidate, smiles at the camera; part of an article asking if he is a catalyst for change
 related_articles:
-- slug: vote-jerry-carl-today
-  title: VOTE JERRY CARL TODAY
-  score: 86.12009294457452
-  llm_score: 95
-  recency_score: 98.10046472287257
-  category_score: 0
-  rank: 1
-- slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
-  title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
-  score: 85.3301310249095
-  llm_score: 95
-  recency_score: 94.15065512454748
-  category_score: 0
-  rank: 2
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT
-  score: 84.12789538259509
-  llm_score: 92
+  score: 72.86761183276546
+  llm_score: 75
   recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: sting
+  title: Sting
+  score: 72.78468688044195
+  llm_score: 75
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 70.92490234246449
+  llm_score: 75
+  recency_score: 86.01186522601911
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: congressional-catalyst
-  title: CONGRESSIONAL CATALYST
-  score: 79.1568431195879
-  llm_score: 95
-  recency_score: 63.2842155979395
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 66.50730216256217
+  llm_score: 65
+  recency_score: 97.29746405665401
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: runoff
-  title: RUNOFF
-  score: 75.13930710092043
-  llm_score: 87
-  recency_score: 71.19653550460211
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 61.76683949329368
+  llm_score: 60
+  recency_score: 86.48445670640884
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 73.81754485573327
-  llm_score: 85
-  recency_score: 71.58772427866629
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 59.84313993793675
+  llm_score: 60
+  recency_score: 73.98040959658876
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: win-for-baldwin
-  title: WIN FOR BALDWIN
-  score: 62.32025741857038
-  llm_score: 85
-  recency_score: 14.10128709285187
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 56.26040301730144
+  llm_score: 70
+  recency_score: 10.692619612459277
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 62.14078108599944
-  llm_score: 85
-  recency_score: 13.203905429997187
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 50.95629196195568
+  llm_score: 60
+  recency_score: 16.215897752711804
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 52.104083724088476
-  llm_score: 70
-  recency_score: 15.520418620442342
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 50.555059720435985
+  llm_score: 60
+  recency_score: 13.607888182833822
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 42.33281844849065
-  llm_score: 60
-  recency_score: 1.664092242453201
+- slug: catalyst-signs
+  title: CATALYST SIGNS
+  score: 28.747310743943416
+  llm_score: 5
+  recency_score: 91.85751983563217
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -12,74 +12,84 @@ authors:
 - ripp-report
 alttags: 'Satirical depiction of Alabama judicial appointments: a woman in robes balances scales against a figure labeled “Scully,” ...'
 related_articles:
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 81.32123996578218
-  llm_score: 90
-  recency_score: 91.60619982891085
-  category_score: 0
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 80.91903224539597
+  llm_score: 70
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 100
   rank: 1
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 79.56637703093661
+  llm_score: 67
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 77.92869172076297
-  llm_score: 86
+  score: 65.79130132366383
+  llm_score: 66
   recency_score: 88.64345860381478
-  category_score: 0
-  rank: 2
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 69.5549096808922
-  llm_score: 85
-  recency_score: 50.274548404460894
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 63.60485586290198
-  llm_score: 85
-  recency_score: 20.524279314509858
-  category_score: 0
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 62.53677036151801
+  llm_score: 64
+  recency_score: 0.4890073498669849
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 60.288877335312456
-  llm_score: 85
-  recency_score: 3.94438667656226
-  category_score: 0
-  rank: 5
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 58.67654461491677
-  llm_score: 70
-  recency_score: 48.38272307458382
-  category_score: 0
-  rank: 6
 - slug: exposure
   title: EXPOSURE
-  score: 56.66147367298337
-  llm_score: 75
+  score: 54.12421051767952
+  llm_score: 64
   recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 53.8616882659488
+  llm_score: 65
+  recency_score: 15.100973728667121
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 53.3760594887019
+  llm_score: 67
+  recency_score: 3.94438667656226
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 53.32875610558986
-  llm_score: 75
-  recency_score: 4.143780527949273
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 52.59788755708234
+  llm_score: 66
+  recency_score: 2.886269121035116
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 49.0891810416593
-  llm_score: 65
-  recency_score: 17.945905208296484
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 24.400953819832438
+  llm_score: -2
+  recency_score: 91.60619982891085
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 45.61912815915695
-  llm_score: 65
-  recency_score: 0.5956407957847131
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 18.98195739608982
+  llm_score: 0
+  recency_score: 48.38272307458382
+  length_score: 100
   category_score: 0
   rank: 10
 ---

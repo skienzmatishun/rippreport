@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Fairhope Councilman Robinson depicted with marbles in his mouth, referencing criticism about his speaking style
 related_articles:
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 59.453946860913256
-  llm_score: 75
-  recency_score: 11.45065459593608
+- slug: disposal
+  title: DISPOSAL
+  score: 69.8742627242852
+  llm_score: 81
+  recency_score: 55.18270770785375
   length_score: 100
   category_score: 0
   rank: 1
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 57.35248421361739
-  llm_score: 67
-  recency_score: 29.79114738851293
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 24.83214704613247
+  llm_score: -2
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 2
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 54.534974551502515
-  llm_score: 69
-  recency_score: 3.4773345847662327
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 24.273115211848832
+  llm_score: 0
+  recency_score: 82.7752488770174
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 53.520355513584256
-  llm_score: 65
-  recency_score: 12.882310838297602
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 23.997036091559977
+  llm_score: 0
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 4
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 47.83906271595408
-  llm_score: 57
-  recency_score: 7.953907653701443
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 23.52822139979793
+  llm_score: 0
+  recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
   rank: 5
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 36.64562084686187
-  llm_score: 23
-  recency_score: 71.19653550460211
+- slug: honey-bees
+  title: HONEY BEES
+  score: 23.332740550658407
+  llm_score: 0
+  recency_score: 76.66281357927963
   length_score: 100
   category_score: 0
   rank: 6
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 33.37820495348123
-  llm_score: 25
-  recency_score: 41.958332197627975
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 21.26100546224648
+  llm_score: -2
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 26.711132154340444
-  llm_score: 24
-  recency_score: 2.6223590032128543
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 17.819137413655163
+  llm_score: 0
+  recency_score: 40.82439318875856
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 23.76038107289665
-  llm_score: 0
-  recency_score: 79.4424769738282
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 9.539748640151954
+  llm_score: -23
+  recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 13.992540618515413
-  llm_score: 0
-  recency_score: 15.95151402035018
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 0
+  llm_score: -100
+  recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
   rank: 10

@@ -18,74 +18,84 @@ authors:
 - ripp-report
 alttags: Crowd illustration representing Fairhope citizens encouraged by Councilman Conyers to participate in public discussions ab...
 related_articles:
-- slug: 100-voices
-  title: 100 VOICES
-  score: 85.9594928113308
-  llm_score: 95
-  recency_score: 97.29746405665401
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 79.56751875477322
+  llm_score: 100
+  recency_score: 42.18887190602582
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 78.72312487593501
-  llm_score: 86
-  recency_score: 92.61562437967505
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 72.7108055687518
+  llm_score: 77
+  recency_score: 89.62023619688662
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 76.48668781973731
-  llm_score: 87
-  recency_score: 77.93343909868652
+- slug: back-stabber
+  title: BACK STABBER
+  score: 69.56669830021542
+  llm_score: 80
+  recency_score: 57.18353895140014
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 72.68782317885686
-  llm_score: 85
-  recency_score: 65.93911589428427
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 68.02810887813136
+  llm_score: 78
+  recency_score: 55.18270770785375
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: invitation
-  title: INVITATION
-  score: 65.23402200483869
-  llm_score: 85
-  recency_score: 28.67011002419343
+- slug: honey-bees
+  title: HONEY BEES
+  score: 67.89089125080403
+  llm_score: 77
+  recency_score: 58.29079313022616
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: people-power
-  title: PEOPLE POWER
-  score: 61.39047508264845
-  llm_score: 85
-  recency_score: 9.45237541324223
+- slug: disposal
+  title: DISPOSAL
+  score: 39.381651476175364
+  llm_score: 25
+  recency_score: 80.98073459513984
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 60.77749588022976
-  llm_score: 75
-  recency_score: 41.38747940114875
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 24.378214923161337
+  llm_score: 0
+  recency_score: 83.45839700054867
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-party
-  title: CATALYST PARTY
-  score: 52.446222780246465
-  llm_score: 65
-  recency_score: 34.73111390123228
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 21.846278918851738
+  llm_score: -2
+  recency_score: 75.00081297253628
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 48.29717222124316
-  llm_score: 65
-  recency_score: 13.985861106215753
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 20.679921115702683
+  llm_score: 0
+  recency_score: 59.41948725206741
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 48.16988030926578
-  llm_score: 65
-  recency_score: 13.34940154632884
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 0
+  llm_score: -23
+  recency_score: 1.6235615776359285
+  length_score: 100
   category_score: 0
   rank: 10
 ---

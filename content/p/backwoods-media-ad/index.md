@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: The Ripp Report podcast logo features a microphone and man seated in front of it, streaming facts
 related_articles:
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 76.87072252217857
-  llm_score: 100
-  recency_score: 24.659696394160648
-  length_score: 100
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 59.2310612226499
+  llm_score: 66
+  recency_score: 97.56439794722424
+  length_score: 31.25
   category_score: 0
   rank: 1
-- slug: bsp-128
-  title: Big News
-  score: 74.76300779279113
-  llm_score: 100
-  recency_score: 10.959550653142209
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 56.80406138544984
+  llm_score: 64
+  recency_score: 38.22639900542388
   length_score: 100
   category_score: 0
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 73.71617675651365
-  llm_score: 100
-  recency_score: 4.155148917338647
+- slug: s-o-s
+  title: S.O.S
+  score: 55.60789419995451
+  llm_score: 64
+  recency_score: 30.451312299704224
   length_score: 100
   category_score: 0
   rank: 3
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 68.85771163355973
-  llm_score: 75
-  recency_score: 72.57512561813819
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 51.698712280520766
+  llm_score: 65
+  recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 67.11345664058666
-  llm_score: 75
-  recency_score: 61.23746816381321
+- slug: offensive
+  title: Offensive
+  score: 51.50867292621633
+  llm_score: 64
+  recency_score: 3.806374020406067
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 58.15751966226138
-  llm_score: 75
-  recency_score: 3.0238778046988695
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 51.05608879097563
+  llm_score: 64
+  recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
   rank: 6
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 54.739595133064135
-  llm_score: 65
-  recency_score: 20.807368364916808
+- slug: bsp-128
+  title: Big News
+  score: 10.147623177406494
+  llm_score: -5
+  recency_score: 10.959550653142209
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 54.282487275515535
-  llm_score: 68
-  recency_score: 5.836167290850916
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 1.8931435396307226
+  llm_score: -23
+  recency_score: 29.305433007599714
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 12.930303863228792
-  llm_score: 0
-  recency_score: 9.046975110987145
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 0
+  llm_score: -100
+  recency_score: 3.0488340141466597
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 11.97886824390464
-  llm_score: 0
-  recency_score: 2.862643585380166
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 0
+  llm_score: -23
+  recency_score: 0.9647119646528448
   length_score: 100
   category_score: 0
   rank: 10

@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 61.08642919000964
-  llm_score: 85
-  recency_score: 7.932145950048156
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 87.88261719822088
+  llm_score: 100
+  recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 61.06484545462026
-  llm_score: 85
-  recency_score: 7.82422727310126
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 84.03023623147726
+  llm_score: 100
+  recency_score: 71.19653550460211
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 60.166254492476675
-  llm_score: 75
-  recency_score: 38.33127246238332
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 77.5184174961528
+  llm_score: 84
+  recency_score: 92.86971372499306
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 60.124362495953605
-  llm_score: 75
-  recency_score: 38.121812479767996
+- slug: disposal
+  title: DISPOSAL
+  score: 77.34017350619996
+  llm_score: 83
+  recency_score: 95.71112779029973
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 58.28513651399793
-  llm_score: 60
-  recency_score: 81.42568256998956
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 57.38389745041349
-  llm_score: 65
-  recency_score: 59.41948725206741
+- slug: honey-bees
+  title: HONEY BEES
+  score: 23.108704060138894
+  llm_score: 0
+  recency_score: 75.2065763909028
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 54.73619065458044
-  llm_score: 65
-  recency_score: 46.18095327290216
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 0
+  llm_score: -100
+  recency_score: 96.76578525183945
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 53.35763521712459
-  llm_score: 65
-  recency_score: 39.2881760856229
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 0
+  llm_score: -100
+  recency_score: 69.6530402990119
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 51.59026245994085
-  llm_score: 65
-  recency_score: 30.451312299704224
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 0
+  llm_score: -234567890
+  recency_score: 76.66281357927963
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 47.91250054564075
-  llm_score: 65
-  recency_score: 12.0625027282037
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 0
+  llm_score: -25
+  recency_score: 4.560804133802191
+  length_score: 100
   category_score: 0
   rank: 10
 ---

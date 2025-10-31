@@ -9,14 +9,6 @@ authors:
 - admin
 alttags: Man in a red boat waves enthusiastically near waterfront development delays impacting Fauxhope city projects
 related_articles:
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 70.1167958794121
-  llm_score: 75
-  recency_score: 80.75917321617852
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: fauxhope
   title: FAUXHOPE
   score: 66.58671603872746
@@ -24,68 +16,76 @@ related_articles:
   recency_score: 57.813654251728394
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 62.94843975183114
+  rank: 1
+- slug: pied-piper
+  title: PIED PIPER
+  score: 64.23647056950882
   llm_score: 75
-  recency_score: 34.164858386902274
+  recency_score: 42.537058701807275
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 63.18397013623947
+  llm_score: 75
+  recency_score: 35.69580588555647
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 61.486107137563195
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 62.263021463420856
   llm_score: 75
-  recency_score: 24.659696394160648
+  recency_score: 29.70963951223547
   length_score: 100
   category_score: 0
   rank: 4
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 58.28648443946603
-  llm_score: 70
-  recency_score: 23.862148856529085
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 61.527911669438424
+  llm_score: 75
+  recency_score: 24.93142585134965
   length_score: 100
   category_score: 0
   rank: 5
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 57.17943242958518
-  llm_score: 70
+  score: 60.25635550650826
+  llm_score: 75
   recency_score: 16.666310792303566
   length_score: 100
   category_score: 0
   rank: 6
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 56.501912180516506
-  llm_score: 70
-  recency_score: 12.262429173357202
+- slug: invitation
+  title: INVITATION
+  score: 60.242344351227295
+  llm_score: 75
+  recency_score: 16.575238282977313
   length_score: 100
   category_score: 0
   rank: 7
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 56.109175309574695
-  llm_score: 65
-  recency_score: 29.70963951223547
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 60.20076859514981
+  llm_score: 75
+  recency_score: 16.30499586847368
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 55.79948633835545
-  llm_score: 70
-  recency_score: 7.696661199310357
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 59.578835257439586
+  llm_score: 75
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 9
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 55.144528439621205
-  llm_score: 70
-  recency_score: 3.439434857537759
+- slug: truth
+  title: TRUTH
+  score: 54.26927868585535
+  llm_score: 65
+  recency_score: 17.750311458059702
   length_score: 100
   category_score: 0
   rank: 10

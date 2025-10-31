@@ -18,74 +18,84 @@ authors:
 - admin
 alttags: A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption...
 related_articles:
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 81.27392032634468
-  llm_score: 88
-  recency_score: 98.36960163172333
-  category_score: 0
-  rank: 1
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 75.90191963447133
-  llm_score: 90
-  recency_score: 64.50959817235656
-  category_score: 0
-  rank: 2
-- slug: surrender
-  title: SURRENDER
-  score: 72.99996495634579
-  llm_score: 90
-  recency_score: 49.99982478172893
-  category_score: 0
-  rank: 3
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 69.72156185864797
-  llm_score: 85
-  recency_score: 51.107809293239825
-  category_score: 0
-  rank: 4
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 68.07762382000342
-  llm_score: 85
-  recency_score: 42.88811910001705
-  category_score: 0
-  rank: 5
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 67.487869307982
-  llm_score: 85
+  score: 63.83682254460155
+  llm_score: 75
   recency_score: 39.93934653990996
+  length_score: 100
   category_score: 0
-  rank: 6
+  rank: 1
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 63.72010531737389
+  llm_score: 75
+  recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 63.59532332795745
+  llm_score: 60
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 64.6247843082185
-  llm_score: 85
+  score: 61.63444946786039
+  llm_score: 75
   recency_score: 25.623921541092447
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 64.33825535238422
-  llm_score: 85
-  recency_score: 24.19127676192105
-  category_score: 0
-  rank: 8
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 57.88245088217731
-  llm_score: 65
-  recency_score: 61.91225441088648
-  category_score: 0
-  rank: 9
+  rank: 4
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 52.9078318963773
-  llm_score: 71
+  score: 60.159870689521014
+  llm_score: 75
   recency_score: 16.039159481886507
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 55.05971063077187
+  llm_score: 60
+  recency_score: 42.88811910001705
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 53.8300802299574
+  llm_score: 65
+  recency_score: 14.895521494723079
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 44.561948485434904
+  llm_score: 50
+  recency_score: 14.652665155326813
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: one-woman
+  title: ONE WOMAN
+  score: 41.44827205257314
+  llm_score: 45
+  recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: barstool
+  title: BARSTOOL
+  score: 25.35722695099438
+  llm_score: 20
+  recency_score: 9.821975181463475
+  length_score: 100
   category_score: 0
   rank: 10
 ---

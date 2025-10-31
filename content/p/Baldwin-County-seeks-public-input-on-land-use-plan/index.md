@@ -18,73 +18,73 @@ related_articles:
   rank: 1
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 63.21768721931446
-  llm_score: 79
+  score: 60.756148757776
+  llm_score: 75
   recency_score: 19.91496692554393
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 59.1706217018343
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 58.97081953186151
   llm_score: 75
-  recency_score: 9.609041061922857
+  recency_score: 8.310326957099722
   length_score: 100
   category_score: 0
   rank: 3
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 58.110375582478795
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 58.93626728985763
   llm_score: 75
-  recency_score: 2.71744128611208
+  recency_score: 8.08573738407453
   length_score: 100
   category_score: 0
   rank: 4
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 57.965721465856966
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 58.62528750352004
   llm_score: 75
-  recency_score: 1.7771895280701993
+  recency_score: 6.0643687728801865
   length_score: 100
   category_score: 0
   rank: 5
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 57.83750732742751
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 58.462471123111456
   llm_score: 75
-  recency_score: 0.9437976282786975
+  recency_score: 5.006062300224381
   length_score: 100
   category_score: 0
   rank: 6
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 55.81911188816944
-  llm_score: 70
-  recency_score: 7.82422727310126
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 55.17127734476256
-  llm_score: 70
+  score: 58.24820042168564
+  llm_score: 75
   recency_score: 3.6133027409565597
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: food-for-thought
   title: FOOD FOR THOUGHT
-  score: 55.04038165027784
-  llm_score: 70
+  score: 58.11730472720092
+  llm_score: 75
   recency_score: 2.76248072680588
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 58.045065181827866
+  llm_score: 75
+  recency_score: 2.292923681881036
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 51.99986551909671
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 52.253710111863576
   llm_score: 65
-  recency_score: 2.999125874128549
+  recency_score: 4.649115727113186
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: 'Urgent: Red alarm clock rings, symbolizing last chance to oppose Regency Place Apartments development at Gulf Shores City ...'
 related_articles:
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 100
+  llm_score: 645
+  recency_score: 30.871323787097815
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
-  score: 90.07197526621852
-  llm_score: 90
+  score: 72.20921174324504
+  llm_score: 76
   recency_score: 90.35987633109261
-  rank: 1
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 87.15815510057
-  llm_score: 95
-  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 86.83667471122875
-  llm_score: 90
-  recency_score: 74.18337355614374
-  rank: 3
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER
-  score: 86.55484684113631
-  llm_score: 90
+  score: 70.11911295472025
+  llm_score: 77
   recency_score: 72.77423420568157
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
-  score: 85.97322154942498
-  llm_score: 85
+  score: 69.05632426878844
+  llm_score: 71
   recency_score: 89.86610774712484
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: victory
+  title: VICTORY
+  score: 67.30530103175522
+  llm_score: 69
+  recency_score: 86.48445670640884
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 81.5170445944745
-  llm_score: 85
-  recency_score: 67.58522297237245
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 63.19858084659232
+  llm_score: 70
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 72.2188724060802
-  llm_score: 85
-  recency_score: 21.094362030400973
-  rank: 7
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 70.27772414553687
-  llm_score: 75
-  recency_score: 51.388620727684355
-  rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 70.19792359772774
-  llm_score: 85
-  recency_score: 10.989617988638654
-  rank: 9
 - slug: rsa-⁠-no-gas-for-point-clear-or-tourism
   title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
-  score: 68.64841536332693
-  llm_score: 75
+  score: 58.80647335640534
+  llm_score: 66
   recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 58.61189990411699
+  llm_score: 70
+  recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 57.37019630182299
+  llm_score: 68
+  recency_score: 25.906275961849367
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 21.28216930786367
+  llm_score: 2
+  recency_score: 55.33410050111382
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ## BREAKING NEWS.....

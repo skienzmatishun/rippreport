@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Political cartoon depicting Kay Ivey wearing a shirt reading No Medicaid Expansion, symbolizing opposition to healthcare...
 related_articles:
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 86.07197526621852
-  llm_score: 85
-  recency_score: 90.35987633109261
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 68.51717595903001
+  llm_score: 73
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: open-your-eyes
-  title: OPEN YOUR EYES
-  score: 84.82943663570212
-  llm_score: 85
-  recency_score: 84.14718317851063
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 68.38578067290427
+  llm_score: 73
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: insanity-2
-  title: INSANITY
-  score: 77.8801446434924
-  llm_score: 95
-  recency_score: 9.400723217462033
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 67.63317298148849
+  llm_score: 68
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 76.16487863775171
-  llm_score: 85
-  recency_score: 40.82439318875856
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 67.58922403491391
+  llm_score: 74
+  recency_score: 68.3299562269404
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 70.73653132232722
-  llm_score: 85
-  recency_score: 13.682656611636107
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 67.25342278854284
+  llm_score: 71
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: black-hole
-  title: BLACK HOLE
-  score: 67.96601468604398
-  llm_score: 75
-  recency_score: 39.83007343021991
-  rank: 6
-- slug: its-no-joke
-  title: IT’S NO JOKE
-  score: 67.81469742690143
-  llm_score: 75
-  recency_score: 39.073487134507126
-  rank: 7
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 64.60115638090127
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 66.83730414981973
   llm_score: 70
-  recency_score: 43.0057819045064
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 66.21736989501663
+  llm_score: 70
+  recency_score: 75.41290431760807
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 64.73507706794429
+  llm_score: 68
+  recency_score: 73.7780009416378
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 60.481766788307546
-  llm_score: 75
-  recency_score: 2.4088339415377336
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 63.725523959318814
+  llm_score: 68
+  recency_score: 67.21590573557219
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 54.890662452604836
-  llm_score: 65
-  recency_score: 14.453312263024177
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 54.53356421190856
+  llm_score: 68
+  recency_score: 7.468167377405599
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Eastern Shore was blessed that Hurricane Michael spared us. Please pray for those in the storm’s path and if you have the opportunity to donate time or items for those impacted from the storm, it will be greatly appreciated.

@@ -16,65 +16,85 @@ authors:
 - ripp-report
 alttags: Emoji depicting a sad face with a long nose, symbolizing dishonesty related to the Baldwin County school lawsuit
 related_articles:
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 69.77989467527985
-  llm_score: 85
-  recency_score: 8.899473376399213
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 80.93966296819076
+  llm_score: 100
+  recency_score: 51.107809293239825
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 69.59078153074029
-  llm_score: 85
-  recency_score: 7.953907653701443
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 80.50005370552802
+  llm_score: 100
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 64.03396753993354
-  llm_score: 80
-  recency_score: 0.16983769966770007
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 77.971669785103
+  llm_score: 100
+  recency_score: 31.81585360316948
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: joke
-  title: JOKE LLP
-  score: 63.42584690236102
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 65.34255421188206
   llm_score: 75
-  recency_score: 17.129234511805123
+  recency_score: 49.72660237723329
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 60.1387334364297
-  llm_score: 70
-  recency_score: 20.693667182148534
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 19.358235745181428
+  llm_score: 0
+  recency_score: 50.828532343679264
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 57.8698706546827
-  llm_score: 70
-  recency_score: 9.349353273413517
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 18.154735677616372
+  llm_score: 0
+  recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fire
-  title: FIRE
-  score: 57.652983089538786
-  llm_score: 70
-  recency_score: 8.264915447693923
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 17.999973043342912
+  llm_score: -2
+  recency_score: 49.99982478172893
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 54.3796779187427
-  llm_score: 65
-  recency_score: 11.898389593713517
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 16.970269946613236
+  llm_score: 0
+  recency_score: 35.306754652986015
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 53.652983089538786
-  llm_score: 65
-  recency_score: 8.264915447693923
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 0
+  llm_score: -100
+  recency_score: 47.204312478190445
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 53.56056407438185
-  llm_score: 65
-  recency_score: 7.802820371909244
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 0
+  llm_score: -50
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 100
   rank: 10
 ---
 Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.

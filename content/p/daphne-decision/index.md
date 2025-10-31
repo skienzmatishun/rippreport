@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat
 related_articles:
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 68.92610187044025
-  llm_score: 73
-  recency_score: 89.13050935220119
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 90.0917835764217
+  llm_score: 123
+  recency_score: 18.596593246741016
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: challengers-emerge-in-daphne-mayoral-race
-  title: Challengers emerge in Daphne mayoral race
-  score: 68.34949079590366
-  llm_score: 95
-  recency_score: 9.247453979518323
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 83.56046262755014
+  llm_score: 100
+  recency_score: 68.14300707907584
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 65.50975554986516
-  llm_score: 70
-  recency_score: 82.54877774932578
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 67.89252581844417
+  llm_score: 75
+  recency_score: 66.301417819887
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 64.15619237382862
-  llm_score: 85
-  recency_score: 23.280961869143056
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 65.09191048139603
+  llm_score: 74
+  recency_score: 52.09741812907417
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: qualified-daphne-district-6-city-council
-  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 59.52425005921862
-  llm_score: 85
-  recency_score: 0.12125029609309805
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 61.93160387023968
+  llm_score: 74
+  recency_score: 31.555425156557842
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-voters-guide
-  title: FAIRHOPE VOTERS GUIDE
-  score: 52.63868620757778
-  llm_score: 70
-  recency_score: 18.193431037888864
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 59.49719306551399
+  llm_score: 72
+  recency_score: 23.73175492584083
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 49.16871646044382
-  llm_score: 65
-  recency_score: 18.34358230221904
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 57.80775998400908
+  llm_score: 70
+  recency_score: 20.750439896058943
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 49.099027897059905
-  llm_score: 65
-  recency_score: 17.995139485299486
-  category_score: 0
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 31.80237899911082
+  llm_score: 0
+  recency_score: 56.715463494220344
+  length_score: 100
+  category_score: 100
   rank: 8
-- slug: selective-memory
-  title: Selective Memory
-  score: 48.90712647419587
-  llm_score: 65
-  recency_score: 17.035632370979314
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 18.780794245095947
+  llm_score: 0
+  recency_score: 47.075162593123636
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 45.52506057193202
-  llm_score: 65
-  recency_score: 0.1253028596600917
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 17.055715208696782
+  llm_score: 3
+  recency_score: 23.862148856529085
+  length_score: 100
   category_score: 0
   rank: 10
 ---

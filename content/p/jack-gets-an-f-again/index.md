@@ -13,65 +13,85 @@ authors:
 - ripp-report
 alttags: Fairhope Council President Burrell depicted wearing a dunce cap, referencing criticism over K-1 Center deal decisions
 related_articles:
-- slug: pop-up-target
-  title: POP UP TARGET
-  score: 88.62221429547445
-  llm_score: 95
-  recency_score: 63.11107147737226
+- slug: full-plate
+  title: FULL PLATE
+  score: 69.435861759074
+  llm_score: 78
+  recency_score: 64.3331014339809
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 75.3607717319103
-  llm_score: 90
-  recency_score: 16.8038586595515
+- slug: back-stabber
+  title: BACK STABBER
+  score: 68.73946204357303
+  llm_score: 77
+  recency_score: 63.80650328322465
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 74.43328759872848
-  llm_score: 85
-  recency_score: 32.1664379936424
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65.7511881653206
+  llm_score: 76
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 72.63074876314147
-  llm_score: 85
-  recency_score: 23.153743815707337
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 64.12457948476651
+  llm_score: 76
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 72.27852698529178
-  llm_score: 90
-  recency_score: 1.392634926458906
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 50.2136339581053
+  llm_score: 50
+  recency_score: 51.388620727684355
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: jack-ass
-  title: JACK ASS
-  score: 72.2073296707293
-  llm_score: 85
-  recency_score: 21.03664835364649
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 26.630840726595785
+  llm_score: 0
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 72.0294572366725
-  llm_score: 90
-  recency_score: 0.147286183362461
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 26.062916276901703
+  llm_score: 0
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 72.02929626856773
-  llm_score: 90
-  recency_score: 0.14648134283866024
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 19.146903536556323
+  llm_score: 0
+  recency_score: 49.45487298761609
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 69.08698032362109
-  llm_score: 85
-  recency_score: 5.4349016181054575
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 9.941574799521018
+  llm_score: -25
+  recency_score: 89.62023619688662
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 68.10444838563177
-  llm_score: 85
-  recency_score: 0.522241928158863
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 0
+  llm_score: -256
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options or the best use for the K-1 Center. It was his plan or no plan.

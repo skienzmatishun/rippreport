@@ -11,83 +11,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 69.42379785439627
-  llm_score: 86
-  recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 62.026389452169965
-  llm_score: 78
-  recency_score: 16.171531439104648
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 61.13027651261362
-  llm_score: 78
-  recency_score: 10.34679733198841
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 59.98392638380356
-  llm_score: 75
-  recency_score: 14.895521494723079
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: pied-piper
-  title: PIED PIPER
-  score: 26.630840726595785
-  llm_score: 0
-  recency_score: 98.10046472287257
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: no-mo-bridge
   title: NO MO BRIDGE
-  score: 26.142720773044832
-  llm_score: 0
+  score: 72.296566926891
+  llm_score: 75
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 1
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 60.27044364596575
+  llm_score: 75
+  recency_score: 16.757883698777256
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 59.387656586668335
+  llm_score: 75
+  recency_score: 11.019767813344055
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 59.28412266645977
+  llm_score: 75
+  recency_score: 10.34679733198841
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 53.8300802299574
+  llm_score: 65
+  recency_score: 14.895521494723079
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: trolls-for-tolls
   title: TROLLS FOR TOLLS
-  score: 19.708644449536187
-  llm_score: 0
+  score: 47.400952141843895
+  llm_score: 45
   recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 16.50708783588954
+  llm_score: 5
+  recency_score: 12.296070933282007
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 16.210461265816548
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 16.50072093131934
   llm_score: 0
-  recency_score: 30.367998227807558
+  recency_score: 32.254686053575696
   length_score: 100
   category_score: 0
   rank: 8
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 14.081521357255177
-  llm_score: 0
-  recency_score: 16.529888822158654
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 14.988010655332108
+  llm_score: 5
+  recency_score: 2.422069259658703
   length_score: 100
   category_score: 0
   rank: 9
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 12.738895441832192
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 14.026389452169946
   llm_score: 0
-  recency_score: 7.802820371909244
+  recency_score: 16.171531439104648
   length_score: 100
   category_score: 0
   rank: 10

@@ -12,65 +12,85 @@ authors:
 - ripp-report
 alttags: 'Fairhope, Alabama: American flag flies over a fountain in a public square, representing local government concerns'
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 90.52312487593501
-  llm_score: 90
-  recency_score: 92.61562437967505
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 77.67585556212101
+  llm_score: 84
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90.17127158449026
-  llm_score: 90
+  score: 74.74713198806944
+  llm_score: 80
   recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 80.18056760504162
-  llm_score: 85
-  recency_score: 60.90283802520807
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 74.51999778416992
+  llm_score: 79
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 77.4581076016093
-  llm_score: 90
-  recency_score: 27.29053800804651
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 74.06291627690172
+  llm_score: 78
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 76.02270682714891
-  llm_score: 95
-  recency_score: 0.11353413574452939
+- slug: fear
+  title: FEAR
+  score: 74.01545611121118
+  llm_score: 77
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 72.07769591026369
-  llm_score: 90
-  recency_score: 0.3884795513184073
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 73.09377374375316
+  llm_score: 77
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 72.04900835119811
-  llm_score: 85
-  recency_score: 20.245041755990528
+- slug: hell-yea
+  title: HELL YEA
+  score: 73.01633843521707
+  llm_score: 77
+  recency_score: 91.60619982891085
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 72.02233661540959
-  llm_score: 90
-  recency_score: 0.11168307704791358
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 71.32548067379618
+  llm_score: 74
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: scary
-  title: SCARY
-  score: 71.41647386607539
-  llm_score: 85
-  recency_score: 17.082369330376963
+- slug: skunked
+  title: SKUNKED
+  score: 68.82739069285164
+  llm_score: 72
+  recency_score: 84.37803950353559
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: people-power
-  title: PEOPLE POWER
-  score: 70.86700095536513
-  llm_score: 85
-  recency_score: 14.335004776825622
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 55.865273414458606
+  llm_score: 72
+  recency_score: 0.12427719398082719
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 It is easy to see that people with special interests, Catalyst connections, or are from the Tim Can’t Club, do not want to see any change in Fairhope Government. They represent about 30% of the City’s population. They know a change of Government will cut off their access to slate candidates and greatly reduce their ability to “control” Fairhope, not Govern but “control.” The current Fairhope City Council is an “at Large Catalyst council” that has the most dismal record of any Fairhope Council in 20 years, they cannot even deliver a budget on time. WHY ? Would the citizens of Fairhope want to go backwards rather than forward?

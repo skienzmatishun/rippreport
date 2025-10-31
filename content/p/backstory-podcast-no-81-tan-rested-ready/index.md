@@ -17,83 +17,83 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 85.39971070307853
-  llm_score: 100
-  recency_score: 80.0981195700103
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 68.64562084686187
+  llm_score: 75
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 71.90783572196646
-  llm_score: 76
-  recency_score: 88.40093219278197
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 62.90541571970801
+  llm_score: 75
+  recency_score: 33.88520217810198
   length_score: 100
   category_score: 0
   rank: 2
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 69.32612281559554
-  llm_score: 75
-  recency_score: 75.61979830137088
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 67.92050993843613
-  llm_score: 75
-  recency_score: 66.48331459983474
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 57.3014730463851
-  llm_score: 71
-  recency_score: 13.459574801503088
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 23.928956619064913
-  llm_score: 0
+  score: 60.85203354214185
+  llm_score: 60
   recency_score: 80.5382180239219
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 16.460102391848903
+  rank: 3
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 54.07318093624969
+  llm_score: 60
+  recency_score: 39.2881760856229
+  length_score: 96.25
+  category_score: 0
+  rank: 4
+- slug: 4-20
+  title: 4-20
+  score: 53.92319189595551
+  llm_score: 60
+  recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 25.13860495273569
   llm_score: 0
-  recency_score: 31.990665547017855
+  recency_score: 88.40093219278197
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 23.86124916461697
+  llm_score: 0
+  recency_score: 80.0981195700103
   length_score: 100
   category_score: 0
   rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 15.669706760376377
-  llm_score: 2
-  recency_score: 18.853093942446446
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 23.52822139979793
+  llm_score: 0
+  recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 14.454874170893653
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 23.365097948805634
   llm_score: 0
-  recency_score: 18.956682110808735
+  recency_score: 76.87313666723661
   length_score: 100
   category_score: 0
   rank: 9
-- slug: im-back-2
-  title: I'M BACK
-  score: 13.61484629377177
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 17.151817947459875
   llm_score: 0
-  recency_score: 13.496500909516493
+  recency_score: 36.486816658489175
   length_score: 100
   category_score: 0
   rank: 10

@@ -7,83 +7,83 @@ thumbnail: img/bob-wills.jpg
 authors:
 - admin
 related_articles:
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 70.01509531846314
-  llm_score: 75
-  recency_score: 80.0981195700103
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: crazy
-  title: CRAZY
-  score: 69.69470839175067
-  llm_score: 75
-  recency_score: 3.015604546379232
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 79.30521545558248
+  llm_score: 85
+  recency_score: 25.48390046128612
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 78.58880921463984
+  llm_score: 90
+  recency_score: 75.82725989515886
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 67.77567018558334
-  llm_score: 70
-  recency_score: 85.54185620629158
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 76.20274882459347
+  llm_score: 85
+  recency_score: 80.31786735985746
   length_score: 100
   category_score: 0
   rank: 3
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 65.92991951722229
-  llm_score: 75
-  recency_score: 53.544476861944815
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 76.16894147230929
+  llm_score: 85
+  recency_score: 80.0981195700103
   length_score: 100
   category_score: 0
   rank: 4
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 61.82239900333377
-  llm_score: 75
-  recency_score: 26.845593521669393
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 61.101647589490824
-  llm_score: 75
-  recency_score: 22.160709331690267
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 74.01846441619033
+  llm_score: 85
+  recency_score: 66.12001870523703
   length_score: 100
   category_score: 0
   rank: 6
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 60.40077175508694
-  llm_score: 75
-  recency_score: 17.605016408065044
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 70.49878104871303
+  llm_score: 85
+  recency_score: 43.242076816634636
   length_score: 100
   category_score: 0
   rank: 7
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 59.803106883183574
-  llm_score: 75
-  recency_score: 13.72019474069314
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.79194041153767
+  llm_score: 90
+  recency_score: 18.647612674994708
   length_score: 100
   category_score: 0
   rank: 8
-- slug: surrender
-  title: SURRENDER
-  score: 55.76007471428852
-  llm_score: 65
-  recency_score: 27.440485642875306
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 68.28101950761076
+  llm_score: 90
+  recency_score: 8.82662679946983
   length_score: 100
   category_score: 0
   rank: 9
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 52.38150094206708
-  llm_score: 65
-  recency_score: 5.4797561234359335
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 60.657057558176426
+  llm_score: 75
+  recency_score: 19.270874128146687
   length_score: 100
   category_score: 0
   rank: 10

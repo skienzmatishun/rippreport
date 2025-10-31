@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: Silhouettes of families and glasses of wine amidst flowers; illustration representing Fairhope’s wealth gap explored in “A...
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 76.20008979598344
-  llm_score: 100
-  recency_score: 20.300583673892284
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 70.56728671580673
+  llm_score: 75
+  recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 66.61111769243189
-  llm_score: 75
-  recency_score: 57.97226500080723
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 61.95035799724405
+  llm_score: 60
+  recency_score: 87.6773269820862
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 64.93225504936632
-  llm_score: 83
-  recency_score: 15.05965782088104
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 61.196192134925774
+  llm_score: 60
+  recency_score: 82.7752488770174
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 63.933381424673726
-  llm_score: 85
-  recency_score: 0.5669792603791407
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 61.09231971598185
+  llm_score: 75
+  recency_score: 22.100078153881906
   length_score: 100
   category_score: 0
   rank: 4
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 60.22949141487642
-  llm_score: 79
-  recency_score: 0.4916941966966383
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 60.689726649428685
+  llm_score: 75
+  recency_score: 19.483223221286327
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 22.95128823940673
-  llm_score: 0
-  recency_score: 74.18337355614374
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 58.47696893876655
+  llm_score: 76
+  recency_score: 1.100298101982455
   length_score: 100
   category_score: 0
   rank: 6
-- slug: going-down
-  title: GOING DOWN
-  score: 20.506275866188645
-  llm_score: 0
-  recency_score: 58.29079313022616
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 58.23466108695768
+  llm_score: 75
+  recency_score: 3.5252970652248186
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 14.602302603929836
-  llm_score: 0
-  recency_score: 19.91496692554393
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 49.2027207332313
+  llm_score: 60
+  recency_score: 4.817684766003371
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 11.83939124751132
-  llm_score: 0
-  recency_score: 1.9560431088235848
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 40.09249019187754
+  llm_score: 45
+  recency_score: 5.601186247203939
   length_score: 100
   category_score: 0
   rank: 9
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 11.614522431751372
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 12.12245536475457
   llm_score: 0
-  recency_score: 0.4943958063839215
+  recency_score: 3.795959870904708
   length_score: 100
   category_score: 0
   rank: 10

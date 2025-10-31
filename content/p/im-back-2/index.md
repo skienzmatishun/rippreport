@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 75.04218987779717
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 65.753469384627
   llm_score: 85
-  recency_score: 72.77423420568157
+  recency_score: 12.39755100007539
   length_score: 100
   category_score: 0
   rank: 1
-- slug: he-must-go
-  title: He Must Go
-  score: 72.07936689991732
-  llm_score: 90
-  recency_score: 33.51588484946244
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 64.34584964215131
+  llm_score: 73
+  recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 71.72254392378495
-  llm_score: 80
-  recency_score: 71.19653550460211
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 64.31009300713528
+  llm_score: 85
+  recency_score: 3.015604546379232
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 68.51690405093734
-  llm_score: 70
-  recency_score: 90.35987633109261
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 63.8616794908159
+  llm_score: 85
+  recency_score: 0.10091669030325356
   length_score: 100
   category_score: 0
   rank: 4
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 66.4096636275815
-  llm_score: 70
-  recency_score: 76.66281357927963
+- slug: mia
+  title: M.I.A.
+  score: 60.48363911382725
+  llm_score: 75
+  recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 61.6813229179474
-  llm_score: 70
-  recency_score: 45.928598966657994
+- slug: s-o-s
+  title: S.O.S
+  score: 59.79157249015608
+  llm_score: 75
+  recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
   rank: 6
+- slug: notice
+  title: 'NOTICE:'
+  score: 59.1052309091564
+  llm_score: 75
+  recency_score: 13.496500909516493
+  length_score: 94.25
+  category_score: 0
+  rank: 7
 - slug: im-back
   title: I'M BACK
-  score: 60.908966559197786
-  llm_score: 80
+  score: 54.75512040535163
+  llm_score: 70
   recency_score: 0.9082826347855467
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: bsp-128
-  title: Big News
-  score: 60.44823032067165
-  llm_score: 70
-  recency_score: 37.913497084365645
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 55.25463829497519
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 54.63057367403262
   llm_score: 70
-  recency_score: 4.155148917338647
+  recency_score: 0.09872888121193853
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 55.0068473839099
-  llm_score: 70
-  recency_score: 2.5445079954142833
+- slug: m-i-a
+  title: M.I.A
+  score: 43.47568405334827
+  llm_score: 50
+  recency_score: 7.591946346763673
   length_score: 100
   category_score: 0
   rank: 10

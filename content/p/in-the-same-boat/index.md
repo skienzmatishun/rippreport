@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and...
 related_articles:
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 81.04811284530007
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 76.54277008720886
   llm_score: 100
-  recency_score: 51.81273349445037
+  recency_score: 22.528005566857594
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 70.12682972134748
-  llm_score: 85
-  recency_score: 40.82439318875856
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 73.48299644815008
+  llm_score: 76
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 64.91904209559831
-  llm_score: 85
-  recency_score: 6.973773621388993
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 60.68954911792439
+  llm_score: 77
+  recency_score: 11.48206926650847
   length_score: 100
   category_score: 0
   rank: 3
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 64.27242741818222
-  llm_score: 75
-  recency_score: 42.77077821818432
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 57.40007149582656
+  llm_score: 50
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 4
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 60.697950015902315
-  llm_score: 75
-  recency_score: 19.53667510336496
+- slug: disposal
+  title: DISPOSAL
+  score: 24.484182027463177
+  llm_score: 0
+  recency_score: 84.14718317851063
   length_score: 100
   category_score: 0
   rank: 5
-- slug: survey
-  title: SURVEY
-  score: 35.13930339791777
-  llm_score: 23
-  recency_score: 61.405472086465494
+- slug: no-radar
+  title: NO RADAR
+  score: 14.478943465088694
+  llm_score: 0
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 33.36054387551079
-  llm_score: 25
-  recency_score: 41.84353519082013
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 14.309563028725378
+  llm_score: 2
+  recency_score: 10.01215968671496
   length_score: 100
   category_score: 0
   rank: 7
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 17.750683862040344
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 13.713842111893973
   llm_score: 0
-  recency_score: 40.37944510326223
+  recency_score: 14.139973727310823
   length_score: 100
   category_score: 0
   rank: 8
-- slug: s-o-s
-  title: S.O.S
-  score: 14.261807234578779
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 11.670023700158938
   llm_score: 0
-  recency_score: 17.701747024762053
+  recency_score: 0.8551540510330928
   length_score: 100
   category_score: 0
   rank: 9
-- slug: water
-  title: Water
-  score: 12.379194406151884
-  llm_score: 0
-  recency_score: 5.464763639987247
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 10.344593600126126
+  llm_score: -2
+  recency_score: 0.23985840081982632
   length_score: 100
   category_score: 0
   rank: 10

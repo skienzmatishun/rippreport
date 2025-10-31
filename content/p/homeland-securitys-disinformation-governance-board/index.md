@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Graphic depicting Biden’s Ministry of Truth, referencing criticism of the Disinformation Governance Board. Fox News logo...
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 88.08683045341913
-  llm_score: 100
-  recency_score: 97.56439794722424
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 62.67331719799878
+  llm_score: 65
+  recency_score: 72.37656178699199
   length_score: 100
   category_score: 0
   rank: 1
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 77.17320755447831
-  llm_score: 100
-  recency_score: 26.62584910410898
+- slug: offensive
+  title: Offensive
+  score: 56.75156956586185
+  llm_score: 65
+  recency_score: 33.88520217810198
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-crime-of-the-century
-  title: THE CRIME OF THE CENTURY
-  score: 74.06515539377043
-  llm_score: 100
-  recency_score: 6.423510059507628
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 54.42956940546471
+  llm_score: 50
+  recency_score: 78.79220113552056
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 62.21320491544658
-  llm_score: 75
-  recency_score: 29.385831950402675
+- slug: he-must-go
+  title: He Must Go
+  score: 53.17042724170773
+  llm_score: 45
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 4
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 59.0135513904045
-  llm_score: 75
-  recency_score: 8.588084037629146
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 52.96504987811404
+  llm_score: 65
+  recency_score: 9.272824207741175
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-153
-  title: No Boomers
-  score: 48.06118080052838
-  llm_score: 50
-  recency_score: 37.39767520343444
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 47.223827818832085
+  llm_score: 45
+  recency_score: 51.95488082240847
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 41.29602864298215
-  llm_score: 40
-  recency_score: 33.42418617938393
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 43.40637073187014
+  llm_score: 45
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 7
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 40.484995286908465
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 40.552012928866034
   llm_score: 45
-  recency_score: 8.152469364904984
+  recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
   rank: 8
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 19.844058771295956
-  llm_score: 0
-  recency_score: 53.986382013423686
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 34.96225939285781
+  llm_score: 30
+  recency_score: 32.254686053575696
   length_score: 100
   category_score: 0
   rank: 9
-- slug: balloonapaloosa
-  title: Balloonapaloosa
-  score: 18.604399841024307
-  llm_score: 0
-  recency_score: 45.928598966657994
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 34.52089722313888
+  llm_score: 30
+  recency_score: 29.385831950402675
   length_score: 100
   category_score: 0
   rank: 10

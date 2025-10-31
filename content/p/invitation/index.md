@@ -15,80 +15,80 @@ alttags: Fairhope residents encouraged to provide feedback on Waterfront park pr
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
-  score: 78.97993871257283
-  llm_score: 85
+  score: 72.82609255872669
+  llm_score: 75
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 73.1678100280349
-  llm_score: 100
-  recency_score: 0.5907651822267828
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 64.83610679042921
+  llm_score: 75
+  recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
   rank: 2
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 64.46304027184354
-  llm_score: 85
-  recency_score: 4.009761766982932
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: shut-up
-  title: SHUT UP
-  score: 55.77909891122489
-  llm_score: 71
-  recency_score: 3.5641429229617514
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 54.71847846526054
-  llm_score: 63
-  recency_score: 28.67011002419343
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 26.839008196316883
-  llm_score: 0
+  score: 63.76208511939382
+  llm_score: 60
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: truth
-  title: TRUTH
-  score: 25.90461316878529
-  llm_score: 0
-  recency_score: 93.37998559710435
+  rank: 3
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 62.103093849875926
+  llm_score: 75
+  recency_score: 28.67011002419343
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
 - slug: survey
   title: SURVEY
-  score: 22.079602810234114
-  llm_score: 0
+  score: 59.00267973331105
+  llm_score: 60
   recency_score: 68.51741826652172
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 58.00500413150237
+  llm_score: 75
+  recency_score: 2.032526854765281
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 57.04473469274617
+  llm_score: 60
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: truth
+  title: TRUTH
+  score: 53.59692086109299
+  llm_score: 45
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 18.428914479560653
-  llm_score: 2
-  recency_score: 36.787944117144235
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 46.382048399974586
+  llm_score: 40
+  recency_score: 66.48331459983474
   length_score: 100
   category_score: 0
   rank: 9
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
-  score: 14.088498197381126
-  llm_score: 0
+  score: 35.62695973584267
+  llm_score: 35
   recency_score: 16.575238282977313
   length_score: 100
   category_score: 0

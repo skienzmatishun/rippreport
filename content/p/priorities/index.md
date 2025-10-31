@@ -7,83 +7,83 @@ authors:
 - admin
 alttags: Aerial view of Fort Morgan sewage treatment plant; public hearing scheduled over expansion proposal
 related_articles:
-- slug: im-back-2
-  title: I'M BACK
-  score: 72.32520339213157
-  llm_score: 90
-  recency_score: 35.11382204885514
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 68.6156528405348
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 78.07657437416611
   llm_score: 75
-  recency_score: 71.00174346347615
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 77.93941535829399
+  llm_score: 85
+  recency_score: 91.60619982891085
   length_score: 100
   category_score: 0
   rank: 2
-- slug: water
-  title: Water
-  score: 66.83730414981973
-  llm_score: 70
-  recency_score: 79.4424769738282
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 75.01155778740589
+  llm_score: 85
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 3
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.807147221825794
-  llm_score: 75
-  recency_score: 7.246456941867555
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 28.356856249554106
-  llm_score: 15
-  recency_score: 49.31956562210165
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: bsp-128
   title: Big News
-  score: 25.787019135334628
-  llm_score: 0
+  score: 65.78701913533463
+  llm_score: 65
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 64.98882428022053
+  llm_score: 85
+  recency_score: 7.427357821433388
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 64.41344056196057
+  llm_score: 65
+  recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 16.30092595751715
-  llm_score: 0
-  recency_score: 30.95601872386148
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 63.26829109938389
+  llm_score: 65
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 13.358980189781079
-  llm_score: 0
-  recency_score: 11.833371233577015
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 63.26829109938389
+  llm_score: 65
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 12.85970523655833
-  llm_score: 0
-  recency_score: 8.588084037629146
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 61.24785715036497
+  llm_score: 65
+  recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
   rank: 9
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 11.704068360792546
-  llm_score: 0
-  recency_score: 1.0764443451515464
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 58.445774474116654
+  llm_score: 75
+  recency_score: 4.897534081758149
   length_score: 100
   category_score: 0
   rank: 10

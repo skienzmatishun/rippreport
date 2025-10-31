@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 65.47903950190455
-  llm_score: 70
-  recency_score: 70.6137567623795
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 80.83275451040124
+  llm_score: 75
+  recency_score: 75.41290431760807
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 64.29821555000512
-  llm_score: 70
-  recency_score: 62.93840107503325
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 71.70855703861841
+  llm_score: 75
+  recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 63.47740867996748
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 67.78135288548998
   llm_score: 75
-  recency_score: 37.60315641978851
+  recency_score: 65.57879375568477
   length_score: 100
   category_score: 0
   rank: 3
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 59.98799134132601
-  llm_score: 70
-  recency_score: 34.921943718618955
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 64.27311521184883
+  llm_score: 65
+  recency_score: 82.7752488770174
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 56.07758637101292
-  llm_score: 70
-  recency_score: 9.504311411583915
+- slug: he-must-go
+  title: He Must Go
+  score: 63.82753430845091
+  llm_score: 65
+  recency_score: 79.87897300493081
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 55.60904676650378
-  llm_score: 70
-  recency_score: 6.458803982274494
+- slug: priorities
+  title: Priorities
+  score: 63.26829109938389
+  llm_score: 65
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 6
-- slug: im-back-2
-  title: I'M BACK
-  score: 46.42648378634859
-  llm_score: 50
-  recency_score: 26.772144611265798
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 61.49024294253022
+  llm_score: 65
+  recency_score: 64.6865791264464
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 45.121660481573265
-  llm_score: 40
-  recency_score: 58.29079313022616
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 61.22129247308205
+  llm_score: 65
+  recency_score: 62.93840107503325
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 36.9876972085423
-  llm_score: 40
-  recency_score: 5.420031855524929
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 58.394630538948185
+  llm_score: 65
+  recency_score: 44.565098503163114
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 14.535880495582512
-  llm_score: 0
-  recency_score: 19.483223221286327
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 45.47712455840156
+  llm_score: 45
+  recency_score: 40.601309629610085
   length_score: 100
   category_score: 0
   rank: 10

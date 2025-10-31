@@ -13,65 +13,85 @@ authors:
 - ripp-report
 alttags: A skunk walks through dry grass, symbolizing how good intentions for Fairhope’s government could be spoiled by politics
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 90.57394274499862
-  llm_score: 90
-  recency_score: 92.86971372499306
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 100
+  llm_score: 2356
+  recency_score: 89.86610774712484
+  length_score: 100
+  category_score: 0
   rank: 1
+- slug: hell-yea
+  title: HELL YEA
+  score: 74.939927589907
+  llm_score: 80
+  recency_score: 92.10952933439548
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 74.47298700545457
+  llm_score: 81
+  recency_score: 85.07441553545459
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 71.78556920444784
+  llm_score: 75
+  recency_score: 91.60619982891085
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 69.9477578491819
+  llm_score: 75
+  recency_score: 79.6604260196822
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 69.23112943450556
+  llm_score: 73
+  recency_score: 83.00234132428609
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 69.13228866632195
+  llm_score: 71
+  recency_score: 90.35987633109261
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 88.87560790070712
-  llm_score: 90
+  score: 68.82739069285164
+  llm_score: 72
   recency_score: 84.37803950353559
-  rank: 2
-- slug: you-win-some-you-lose-some
-  title: YOU WIN SOME YOU LOSE SOME
-  score: 84.3298145011407
-  llm_score: 85
-  recency_score: 81.64907250570349
-  rank: 3
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 76.74635098516816
-  llm_score: 90
-  recency_score: 23.73175492584083
-  rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 76.60544418823137
-  llm_score: 90
-  recency_score: 23.027220941156877
-  rank: 5
-- slug: gob-coup
-  title: GOB COUP
-  score: 73.73402200483869
-  llm_score: 85
-  recency_score: 28.67011002419343
-  rank: 6
-- slug: scary
-  title: SCARY
-  score: 70.88275366834506
-  llm_score: 85
-  recency_score: 14.41376834172532
-  rank: 7
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 70.6772050791888
-  llm_score: 85
-  recency_score: 13.386025395943985
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 70.24048235035045
-  llm_score: 85
-  recency_score: 11.20241175175226
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 55.24487526605315
+  llm_score: 71
+  recency_score: 0.09168922934541576
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 54.20395356266881
-  llm_score: 65
-  recency_score: 11.019767813344055
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 25.82610980384509
+  llm_score: 0
+  recency_score: 92.86971372499306
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts

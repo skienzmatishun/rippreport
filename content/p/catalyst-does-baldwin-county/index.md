@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Red circle with a slash through the word CATALYST, symbolizing opposition to the political group discussed in the article
 related_articles:
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 85.38179115997221
-  llm_score: 95
-  recency_score: 94.40895579986105
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 100
+  llm_score: 29583647
+  recency_score: 89.13050935220119
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 85.2786122307573
-  llm_score: 95
-  recency_score: 93.89306115378648
-  category_score: 0
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 85.94086528918079
+  llm_score: 79
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 84.67127158449027
-  llm_score: 95
-  recency_score: 90.85635792245131
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 76.52445473844017
+  llm_score: 82
+  recency_score: 94.40895579986105
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 81.60975554986517
-  llm_score: 93
-  recency_score: 82.54877774932578
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 76.19030950591319
+  llm_score: 81
+  recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 77.9219058668791
-  llm_score: 85
-  recency_score: 92.10952933439548
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 75.69711699860147
+  llm_score: 80
+  recency_score: 97.03126049090956
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 76.23747273054873
-  llm_score: 85
-  recency_score: 83.68736365274363
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 62.661628257521905
+  llm_score: 78
+  recency_score: 20.300583673892284
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 75.69614691902798
-  llm_score: 85
-  recency_score: 80.98073459513984
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 59.55039658850107
+  llm_score: 78
+  recency_score: 0.07757782525687204
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 74.50016259450726
-  llm_score: 85
-  recency_score: 75.00081297253628
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 36.30472839925229
+  llm_score: 20
+  recency_score: 80.98073459513984
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 61.93908430617279
-  llm_score: 85
-  recency_score: 12.195421530863895
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 26.142720773044832
+  llm_score: 0
+  recency_score: 94.92768502479139
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 61.89275303933815
-  llm_score: 85
-  recency_score: 11.96376519669074
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 13.887288302846914
+  llm_score: 0
+  recency_score: 15.267373968504938
+  length_score: 100
   category_score: 0
   rank: 10
 ---

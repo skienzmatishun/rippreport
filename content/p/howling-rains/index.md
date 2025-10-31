@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Illustration depicting a wolf howling under a rainstorm, obscured by a “Catalyst” prohibition sign, referencing Baldwin Co...
 related_articles:
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 77.63388249182871
-  llm_score: 85
-  recency_score: 89.62023619688662
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 72.37680990817655
+  llm_score: 75
+  recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-2
-  title: CATALYST
-  score: 75.07290600679259
-  llm_score: 85
-  recency_score: 72.97388904415178
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 70.96120573440335
+  llm_score: 75
+  recency_score: 86.24783727362167
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 74.73961297981205
-  llm_score: 85
-  recency_score: 70.80748436877823
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 74.38729511792643
-  llm_score: 85
-  recency_score: 68.51741826652172
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 66.75839470479481
-  llm_score: 87
-  recency_score: 10.929565581166187
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 25.06428741459721
-  llm_score: 0
-  recency_score: 87.91786819488183
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 22.95128823940673
-  llm_score: 0
-  recency_score: 74.18337355614374
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 21.572375474708814
-  llm_score: 0
+  score: 67.72622162855498
+  llm_score: 75
   recency_score: 65.22044058560728
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 13.451009763748932
+  rank: 3
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 63.678475783437015
+  llm_score: 60
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 62.24926710721334
+  llm_score: 60
+  recency_score: 89.62023619688662
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 60.06051943732871
+  llm_score: 75
+  recency_score: 15.39337634263649
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 52.0432249029451
+  llm_score: 60
+  recency_score: 23.280961869143056
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 22.079602810234114
   llm_score: 0
-  recency_score: 12.431563464368049
+  recency_score: 68.51741826652172
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 17.69983375976383
+  llm_score: 0
+  recency_score: 40.048919438464885
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 13.414680235517523
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 11.810381251402438
   llm_score: 0
-  recency_score: 12.195421530863895
+  recency_score: 1.7674781341158494
   length_score: 100
   category_score: 0
   rank: 10

@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic
 related_articles:
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 57.25788127185212
-  llm_score: 70
-  recency_score: 17.176228267038702
+- slug: last-chance
+  title: LAST CHANCE
+  score: 78.97993871257283
+  llm_score: 85
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 57.0761964184643
-  llm_score: 70
-  recency_score: 15.995276720017856
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 69.50947715974964
+  llm_score: 75
+  recency_score: 1.811601538372569
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: sting
-  title: Sting
-  score: 57.05605346070264
-  llm_score: 70
-  recency_score: 15.864347494567099
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 66.43845534643484
+  llm_score: 85
+  recency_score: 16.84995975182637
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 54.94030787867347
-  llm_score: 70
-  recency_score: 2.112001211377513
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 65.40345929307433
+  llm_score: 85
+  recency_score: 10.122485404983125
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 54.91222010626707
-  llm_score: 70
-  recency_score: 1.9294306907358856
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 64.1021680373005
+  llm_score: 85
+  recency_score: 1.664092242453201
   length_score: 100
   category_score: 0
   rank: 5
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 54.89948921139009
-  llm_score: 70
-  recency_score: 1.8466798740354857
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 64.07748795266401
+  llm_score: 85
+  recency_score: 1.5036716923160176
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 53.59785006091447
-  llm_score: 65
-  recency_score: 13.386025395943985
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 60.3348043487752
+  llm_score: 75
+  recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
   rank: 7
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 13.774265518065532
-  llm_score: 0
-  recency_score: 14.532725867425949
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 57.96348343933045
+  llm_score: 75
+  recency_score: 1.7626423556478428
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 11.864276223039187
-  llm_score: 0
-  recency_score: 2.117795449754721
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 57.93734176195738
+  llm_score: 75
+  recency_score: 1.5927214527228477
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 11.77557068009258
-  llm_score: 0
-  recency_score: 1.541209420601768
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 57.89849695974557
+  llm_score: 75
+  recency_score: 1.3402302383461302
   length_score: 100
   category_score: 0
   rank: 10

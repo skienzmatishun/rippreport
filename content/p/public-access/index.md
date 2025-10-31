@@ -12,65 +12,85 @@ authors:
 - ripp-report
 alttags: Red graphic depicting a blocked public access point, referencing county officials’ actions and citizen response
 related_articles:
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 81.96882643931993
-  llm_score: 85
-  recency_score: 69.84413219659965
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 71.55391764967271
+  llm_score: 73
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 78.41948362581483
-  llm_score: 85
-  recency_score: 52.09741812907417
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 66.29491668783747
+  llm_score: 68
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: shut-up-2
-  title: SHUT UP
-  score: 76.27749588022975
-  llm_score: 85
-  recency_score: 41.38747940114875
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 57.212190583585475
+  llm_score: 66
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 70.08411183802811
-  llm_score: 70
-  recency_score: 70.42055919014051
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 56.95628796000424
+  llm_score: 67
+  recency_score: 27.215871740027474
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: notice
-  title: 'NOTICE:'
-  score: 68.01848918899599
-  llm_score: 85
-  recency_score: 0.09244594497992151
+- slug: fire
+  title: FIRE
+  score: 55.16773440457648
+  llm_score: 66
+  recency_score: 19.590273629747017
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: shut-up
-  title: SHUT UP
-  score: 65.97457577604462
-  llm_score: 75
-  recency_score: 29.872878880223098
+- slug: battle-of-weeks-family
+  title: BATTLE OF WEEKS “FAMILY”
+  score: 53.93722251488673
+  llm_score: 67
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 65.53339065902054
-  llm_score: 75
-  recency_score: 27.666953295102704
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 52.87064419433283
+  llm_score: 67
+  recency_score: 0.6591872631633457
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 56.358371351801715
-  llm_score: 70
-  recency_score: 1.7918567590085734
+- slug: chainsaw
+  title: CHAINSAW
+  score: 26.755398860360074
+  llm_score: 0
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 55.77061878848929
-  llm_score: 65
-  recency_score: 18.853093942446446
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 26.384774822578315
+  llm_score: 0
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 52.722660548191314
-  llm_score: 65
-  recency_score: 3.6133027409565597
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 13.271903687462299
+  llm_score: -1
+  recency_score: 15.267373968504938
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.

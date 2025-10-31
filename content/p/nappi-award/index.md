@@ -11,65 +11,85 @@ authors:
 - admin
 alttags: Mayor Karin Wilson recognized as “Hardest Working Eastern Shore Public Official” for four consecutive years with a celebra...
 related_articles:
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 63.351991402637594
+  llm_score: 75
+  recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
-  score: 83.08072362334784
-  llm_score: 95
-  recency_score: 35.40361811673922
-  rank: 1
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 71.03762349360866
-  llm_score: 65
-  recency_score: 95.18811746804333
-  rank: 2
-- slug: hardest-working-elected-official-eastern-shore
-  title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 68.95042781050037
-  llm_score: 85
-  recency_score: 4.7521390525018266
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 65.53339065902054
+  score: 63.13901817180605
   llm_score: 75
-  recency_score: 27.666953295102704
-  rank: 4
+  recency_score: 35.40361811673922
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: state-of-the-city-2019
   title: STATE OF THE CITY - 2019
-  score: 64.33605587461524
+  score: 61.02773528816558
   llm_score: 75
   recency_score: 21.680279373076186
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 58.45199287182755
+  llm_score: 75
+  recency_score: 4.937953666878992
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: transparency
+  title: TRANSPARENCY
+  score: 54.57247681371993
+  llm_score: 60
+  recency_score: 39.72109928917947
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: people-power
-  title: PEOPLE POWER
-  score: 56.4830885070635
-  llm_score: 70
-  recency_score: 2.4154425353175037
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 54.077082514886015
+  llm_score: 45
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 56.38588613814718
-  llm_score: 70
-  recency_score: 1.9294306907358856
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 49.39707788654183
+  llm_score: 60
+  recency_score: 6.0810062625217975
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 48.74798778648502
+  llm_score: 60
+  recency_score: 1.8619206121525609
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 43.03879062346183
+  llm_score: 50
+  recency_score: 4.7521390525018266
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: backseat-quarterbacks
   title: BACKSEAT QUARTERBACKS
-  score: 53.81435906578825
-  llm_score: 65
+  score: 28.318737742914045
+  llm_score: 25
   recency_score: 9.071795328941251
-  rank: 8
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 52.12792354208858
-  llm_score: 65
-  recency_score: 0.6396177104429235
-  rank: 9
-- slug: 5000-00-cash-reward
-  title: $5000.00 CASH REWARD
-  score: 48.60809849524537
-  llm_score: 60
-  recency_score: 3.0404924762268615
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/08/karin2.jpg)

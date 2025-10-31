@@ -10,83 +10,83 @@ authors:
 - ripp-report
 alttags: Scales of justice silhouette against a gradient background symbolize equal representation and fairness discussed in this o...
 related_articles:
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 67.70283251753725
-  llm_score: 85
-  recency_score: 25.06841136399206
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 52.168818070201304
+  llm_score: 52
+  recency_score: 56.097317456308396
   length_score: 100
   category_score: 0
   rank: 1
-- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
-  title: WHO’S RESPONSIBLE?
-  score: 59.66337167273139
-  llm_score: 75
-  recency_score: 12.811915872753922
+- slug: fairhope-no-hope-fauxhope
+  title: FAIRHOPE — NO HOPE — FAUXHOPE
+  score: 48.286149437558684
+  llm_score: 50
+  recency_score: 38.85997134413138
   length_score: 100
   category_score: 0
   rank: 2
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 55.16788571749855
-  llm_score: 64
-  recency_score: 27.591257163740508
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 46.742713493234994
+  llm_score: 50
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 0
   rank: 3
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 27.253885579479146
-  llm_score: 23
-  recency_score: 10.150256266614415
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 46.49496395489642
+  llm_score: 51
+  recency_score: 23.21726570682666
   length_score: 100
   category_score: 0
   rank: 4
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 24.238273499896277
-  llm_score: 0
-  recency_score: 82.54877774932578
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 44.52519512949621
+  llm_score: 50
+  recency_score: 14.41376834172532
   length_score: 100
   category_score: 0
   rank: 5
-- slug: exposure-2
-  title: EXPOSURE
-  score: 21.993318372256688
-  llm_score: 0
-  recency_score: 67.95656941966844
-  length_score: 100
+- slug: re-run-doing-nothing
+  title: DOING NOTHING
+  score: 41.553842422851204
+  llm_score: 50
+  recency_score: 50.412475748532785
+  length_score: 26.25
   category_score: 0
   rank: 6
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 13.482708738371528
-  llm_score: 0
-  recency_score: 12.637606799414936
+- slug: fly-on-the-wall
+  title: FLY ON THE WALL
+  score: 31.67251135186121
+  llm_score: 25
+  recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 7
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 13.2291719982521
-  llm_score: 0
-  recency_score: 10.989617988638654
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 21.650677229405733
+  llm_score: 50
+  recency_score: 6.458803982274494
   length_score: 100
   category_score: 0
   rank: 8
-- slug: exposure
-  title: EXPOSURE
-  score: 12.73561108299904
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 20.192495302371334
   llm_score: 0
-  recency_score: 7.781472039493755
+  recency_score: 56.25121946541366
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 6.266061844790346
-  llm_score: 0
-  recency_score: 6.458803982274494
+- slug: fear
+  title: FEAR
+  score: 8.076574374166103
+  llm_score: -20
+  recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
   rank: 10

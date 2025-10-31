@@ -19,65 +19,85 @@ authors:
 - ripp-report
 alttags: Red die labeled Good, Bad, and Ugly, reflecting Fairhope’s progress despite challenges
 related_articles:
-- slug: catalyst
-  title: CATALYST
-  score: 84.41953853153237
-  llm_score: 85
-  recency_score: 82.09769265766185
+- slug: communication
+  title: COMMUNICATION
+  score: 88.41944651687477
+  llm_score: 100
+  recency_score: 99.72640235968593
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 80.43777438120516
-  llm_score: 90
-  recency_score: 42.18887190602582
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 86.56574261262865
+  llm_score: 100
+  recency_score: 87.6773269820862
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 85.98722438014516
+  llm_score: 100
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 77.04254442959548
+  llm_score: 85
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 65.92351009204089
+  llm_score: 83
+  recency_score: 21.50281559826569
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 61.75016326148233
+  llm_score: 81
+  recency_score: 2.376061199635027
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 24.031215972902842
+  llm_score: 0
+  recency_score: 81.20290382386844
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 11.758061650444414
+  llm_score: 0
+  recency_score: 1.4274007278886993
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY
-  score: 80.03027544135718
-  llm_score: 100
+  score: 0
+  llm_score: -25
   recency_score: 0.15137720678588268
-  rank: 3
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 76.60115638090127
-  llm_score: 85
-  recency_score: 43.0057819045064
-  rank: 4
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 73.42828195143117
-  llm_score: 85
-  recency_score: 27.14140975715586
-  rank: 5
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 71.67878151987449
-  llm_score: 85
-  recency_score: 18.393907599372476
-  rank: 6
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 66.67496869450072
-  llm_score: 65
-  recency_score: 73.37484347250358
-  rank: 7
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 59.112599723484344
-  llm_score: 70
-  recency_score: 15.562998617421716
-  rank: 8
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 55.3607717319103
-  llm_score: 65
-  recency_score: 16.8038586595515
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: deja-vu
-  title: Deja Vu
-  score: 52.03323114546348
-  llm_score: 65
-  recency_score: 0.1661557273173934
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 0
+  llm_score: -25
+  recency_score: 0.15137720678588268
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ## FAIRHOPE THE GOOD

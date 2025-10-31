@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 78.43483047763894
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 85.0011652882889
   llm_score: 100
-  recency_score: 34.826398104653
+  recency_score: 77.50757437387774
   length_score: 100
   category_score: 0
   rank: 1
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 74.74713198806944
-  llm_score: 80
-  recency_score: 90.85635792245131
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 73.03248119850767
+  llm_score: 76
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: pedaling-forward
-  title: PEDALING FORWARD
-  score: 68.27938336806332
-  llm_score: 79
-  recency_score: 52.81599189241148
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 63.65859481817277
+  llm_score: 82
+  recency_score: 10.780866318122923
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 66.6601220200348
-  llm_score: 75
-  recency_score: 58.29079313022616
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 62.049472920364906
+  llm_score: 71
+  recency_score: 44.32157398237182
   length_score: 100
   category_score: 0
   rank: 4
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 65.13580354993599
-  llm_score: 75
-  recency_score: 48.38272307458382
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 58.31516314390839
+  llm_score: 69
+  recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 21.822862557032828
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 18.780794245095947
   llm_score: 0
-  recency_score: 66.84860662071335
+  recency_score: 47.075162593123636
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 19.553448942934487
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 15.110348570281026
   llm_score: 0
-  recency_score: 52.09741812907417
+  recency_score: 23.21726570682666
   length_score: 100
   category_score: 0
   rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 18.301350776811127
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 12.43633342936168
   llm_score: 0
-  recency_score: 43.95878004927231
+  recency_score: 5.836167290850916
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 18.191088741020714
-  llm_score: 0
-  recency_score: 43.242076816634636
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 11.840845446670903
+  llm_score: -1
+  recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 11.854603633771713
-  llm_score: 0
-  recency_score: 2.0549236195161336
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 0
+  llm_score: -100
+  recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
   rank: 10

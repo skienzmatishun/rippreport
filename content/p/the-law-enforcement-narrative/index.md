@@ -9,14 +9,6 @@ authors:
 - admin
 alttags: 'Protesters hold signs reading #SayHisName and #JusticeForOtis outside Baldwin County Courthouse, challenging law enfor...'
 related_articles:
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 90.60155270651393
-  llm_score: 85
-  recency_score: 98.91009259234048
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: lethal-force
   title: LETHAL FORCE
   score: 90.35345600871601
@@ -24,60 +16,68 @@ related_articles:
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 81.21746108990241
+  rank: 1
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 90.1498014761652
   llm_score: 85
-  recency_score: 37.913497084365645
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: rumors
+  title: RUMORS
+  score: 89.75076701493913
+  llm_score: 85
+  recency_score: 93.37998559710435
   length_score: 100
   category_score: 100
   rank: 3
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 80.17324712493756
-  llm_score: 85
-  recency_score: 31.126106312094088
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 84.44770655266777
+  llm_score: 75
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 100
   rank: 4
-- slug: no-justice
-  title: NO JUSTICE
-  score: 73.21635014797684
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 71.6448370455457
   llm_score: 75
-  recency_score: 25.906275961849367
+  recency_score: 15.691440796046965
   length_score: 100
   category_score: 100
   rank: 5
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.49534021573088
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 71.61199309558924
   llm_score: 75
-  recency_score: 1.7197114022505888
+  recency_score: 15.477955121329945
   length_score: 100
   category_score: 100
   rank: 6
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 66.83376726954884
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 69.96387330197864
   llm_score: 75
-  recency_score: 59.41948725206741
+  recency_score: 4.7651764628610165
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 7
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 60.06701658482296
-  llm_score: 75
-  recency_score: 15.435607801349112
+- slug: justified
+  title: JUSTIFIED
+  score: 65.15299721131186
+  llm_score: 85
+  recency_score: 8.494481873527002
   length_score: 100
   category_score: 0
   rank: 8
-- slug: justified
-  title: JUSTIFIED
-  score: 58.99915105746571
-  llm_score: 75
-  recency_score: 8.494481873527002
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 59.48784231972729
+  llm_score: 65
+  recency_score: 51.67097507822733
   length_score: 100
   category_score: 0
   rank: 9

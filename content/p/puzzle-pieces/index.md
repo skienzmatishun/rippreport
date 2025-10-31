@@ -12,65 +12,85 @@ authors:
 - admin
 alttags: Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras...
 related_articles:
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 87.56641283325074
-  llm_score: 85
-  recency_score: 97.83206416625366
+- slug: fairhope-citizens-citizens-citizens
+  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
+  score: 74.18567060235493
+  llm_score: 100
+  recency_score: 7.206858915306978
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 71.1382881592094
-  llm_score: 85
-  recency_score: 15.691440796046965
+- slug: hate
+  title: HATE
+  score: 36.7485901354692
+  llm_score: 38
+  recency_score: 11.86583588054974
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 70.01895810475479
-  llm_score: 85
-  recency_score: 10.094790523773954
+- slug: rsa-⁠-no-gas-for-point-clear-or-tourism
+  title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
+  score: 33.441477174111284
+  llm_score: 11
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 69.06633274891847
-  llm_score: 85
-  recency_score: 5.331663744592373
+- slug: shut-up
+  title: SHUT UP
+  score: 33.11420043600848
+  llm_score: 33
+  recency_score: 8.242302834055081
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 69.00395926891434
-  llm_score: 85
-  recency_score: 5.0197963445716995
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 19.92589035642642
+  llm_score: 11
+  recency_score: 10.518287316771712
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: bad-faith
-  title: Bad Faith
-  score: 68.475212239927
-  llm_score: 85
-  recency_score: 2.376061199635027
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 19.19821467452436
+  llm_score: 11
+  recency_score: 5.78839538440832
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 64.30020504537512
-  llm_score: 70
-  recency_score: 41.50102522687563
+- slug: round-and-round-we-go
+  title: ROUND AND ROUND WE GO
+  score: 18.50808139118901
+  llm_score: 10
+  recency_score: 5.302529042728538
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 63.30597776443173
-  llm_score: 75
-  recency_score: 16.529888822158654
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 13.371533373160604
+  llm_score: -2
+  recency_score: 19.91496692554393
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 61.75567879729794
-  llm_score: 75
-  recency_score: 8.77839398648969
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 0
+  llm_score: -100
+  recency_score: 67.40031139711904
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: pied-piper
-  title: PIED PIPER
-  score: 55.369991950365275
-  llm_score: 65
-  recency_score: 16.84995975182637
+- slug: battle-of-weeks-family
+  title: BATTLE OF WEEKS “FAMILY”
+  score: 0
+  llm_score: -100
+  recency_score: 27.51576813520753
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 _**This is not a proven fact, it's just a collection of puzzle pieces that needs to be looked into.**_

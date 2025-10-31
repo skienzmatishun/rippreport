@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: insanity-2
-  title: INSANITY
-  score: 69.49035279540304
-  llm_score: 85
-  recency_score: 36.68729317011966
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 88.08683045341913
+  llm_score: 100
+  recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 1
-- slug: war
-  title: WAR
-  score: 63.948404241147266
-  llm_score: 85
-  recency_score: 0.6646275674571428
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 63.335859734396216
-  llm_score: 84
-  recency_score: 0.6830882735752963
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 62.263021463420856
-  llm_score: 75
-  recency_score: 29.70963951223547
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 59.645293834093295
-  llm_score: 78
-  recency_score: 0.6944099216063174
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: 4-20
-  title: 4-20
-  score: 38.70915833520766
-  llm_score: 23
-  recency_score: 84.60952917884977
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 14.269278685855339
-  llm_score: 0
-  recency_score: 17.750311458059702
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 12.562525480424082
-  llm_score: 0
-  recency_score: 6.656415622756534
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 12.01790699511131
-  llm_score: 0
+  score: 73.55636853357286
+  llm_score: 100
   recency_score: 3.116395468223524
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 11.640432178787032
+  rank: 2
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 59.186098386497775
+  llm_score: 70
+  recency_score: 29.70963951223547
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 54.106832295631754
+  llm_score: 69
+  recency_score: 0.6944099216063174
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 46.71218298365057
+  llm_score: 57
+  recency_score: 0.6291893937286536
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 44.25360613612013
+  llm_score: 53
+  recency_score: 0.6484398847808431
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 18.68226063658305
   llm_score: 0
-  recency_score: 0.6628091621157032
+  recency_score: 46.434694137789805
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: insanity-2
+  title: INSANITY
+  score: 17.18266048771072
+  llm_score: 0
+  recency_score: 36.68729317011966
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 15.937179889183353
+  llm_score: 0
+  recency_score: 28.59166927969179
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: war
+  title: WAR
+  score: 11.640711933454945
+  llm_score: 0
+  recency_score: 0.6646275674571428
   length_score: 100
   category_score: 0
   rank: 10

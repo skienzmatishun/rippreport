@@ -9,72 +9,82 @@ authors:
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 86.2820185184681
-  llm_score: 95
+  score: 66.75539886036007
+  llm_score: 65
   recency_score: 98.91009259234048
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 86.12009294457452
-  llm_score: 95
-  recency_score: 98.10046472287257
+- slug: million-dollar-swimming-pool
+  title: MILLION DOLLAR SWIMMING POOL
+  score: 65.89191754717756
+  llm_score: 64
+  recency_score: 97.29746405665401
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 84.07392032634468
-  llm_score: 92
-  recency_score: 98.36960163172333
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 65.60823896554766
+  llm_score: 63
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: elliotttuckercatalyst-selling-your-soul
-  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 83.79689134128176
-  llm_score: 95
-  recency_score: 86.48445670640884
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 64.16930226505733
+  llm_score: 61
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 4
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 82.83629014021759
-  llm_score: 90
+  score: 63.10483856939815
+  llm_score: 59
   recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: million-dollar-swimming-pool
-  title: MILLION DOLLAR SWIMMING POOL
-  score: 80.35949281133081
-  llm_score: 87
-  recency_score: 97.29746405665401
-  category_score: 0
-  rank: 6
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 80.01488310709092
-  llm_score: 90
+  score: 62.78067931314687
+  llm_score: 62
   recency_score: 85.07441553545459
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: straw-man
+  title: STRAW MAN
+  score: 56.051190522262004
+  llm_score: 64
+  recency_score: 33.33273839470296
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 78.67461506155965
-  llm_score: 89
-  recency_score: 81.87307530779819
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 27.83084261954709
+  llm_score: 25
+  recency_score: 5.9004770270560485
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 62.46282508110028
-  llm_score: 85
-  recency_score: 14.814125405501343
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 20.54627407597851
+  llm_score: 2
+  recency_score: 50.550781493860306
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 59.73891080758603
-  llm_score: 85
-  recency_score: 1.1945540379301263
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 0
+  llm_score: -58
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 10
 ---

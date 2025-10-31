@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: 'Podcast cover art: Alien Indictment, featuring a vintage photo resembling recovered aerial vehicles & government insignia'
 related_articles:
-- slug: im-back-2
-  title: I'M BACK
-  score: 68.51690405093734
-  llm_score: 70
-  recency_score: 90.35987633109261
+- slug: backstory-153
+  title: No Boomers
+  score: 56.05769805313971
+  llm_score: 50
+  recency_score: 89.37503734540803
   length_score: 100
   category_score: 0
   rank: 1
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 66.34521417630697
-  llm_score: 70
-  recency_score: 76.2438921459952
+- slug: he-must-go
+  title: He Must Go
+  score: 53.120755707883966
+  llm_score: 60
+  recency_score: 30.284912101245666
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 63.92895661906492
-  llm_score: 65
-  recency_score: 80.5382180239219
+- slug: the-180
+  title: THE 180
+  score: 46.90351982772664
+  llm_score: 50
+  recency_score: 29.872878880223098
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bsp-128
-  title: Big News
-  score: 59.88593678126543
-  llm_score: 70
-  recency_score: 34.2585890782252
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 46.575824168842644
+  llm_score: 50
+  recency_score: 27.742857097477103
   length_score: 100
   category_score: 0
   rank: 4
-- slug: balloonapaloosa
-  title: Balloonapaloosa
-  score: 59.65757449318179
-  llm_score: 60
-  recency_score: 72.77423420568157
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 42.49275443444131
+  llm_score: 30
+  recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 5
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 59.49673941207162
-  llm_score: 70
-  recency_score: 31.72880617846543
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 32.89254035727596
+  llm_score: 30
+  recency_score: 18.801512322293714
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 58.269936526627696
-  llm_score: 75
-  recency_score: 3.7545874230799345
+- slug: offensive
+  title: Offensive
+  score: 26.71376567891929
+  llm_score: 0
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 7
-- slug: big-mules
-  title: Big Mules
-  score: 57.154005591809096
-  llm_score: 50
-  recency_score: 96.50103634675902
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 25.478119549400027
+  llm_score: 0
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 55.03459946749895
-  llm_score: 70
-  recency_score: 2.7248965387430797
+- slug: what-the
+  title: What the
+  score: 18.375872222346896
+  llm_score: 0
+  recency_score: 44.44316944525482
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.96910988890634
-  llm_score: 70
-  recency_score: 2.2992142778911093
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 16.34023080619355
+  llm_score: 0
+  recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
   rank: 10

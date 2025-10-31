@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 71.94086528918079
-  llm_score: 75
-  recency_score: 92.61562437967505
+- slug: he-must-go
+  title: He Must Go
+  score: 71.9051795324712
+  llm_score: 85
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 1
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 69.88078834329552
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 67.78135288548998
   llm_score: 75
-  recency_score: 79.22512423142078
+  recency_score: 65.57879375568477
   length_score: 100
   category_score: 0
   rank: 2
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 67.22456074411839
+  llm_score: 50
+  recency_score: 86.95964483676948
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 69.79068875584238
-  llm_score: 70
+  score: 66.7137656789193
+  llm_score: 65
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 68.52623987540625
-  llm_score: 75
-  recency_score: 70.42055919014051
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 67.24579887040953
-  llm_score: 70
-  recency_score: 82.09769265766185
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 62.710096058411565
+  llm_score: 60
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 67.03852921477831
-  llm_score: 85
-  recency_score: 20.750439896058943
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 51.49937955879193
+  llm_score: 50
+  recency_score: 59.74596713214747
   length_score: 100
   category_score: 0
   rank: 6
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 65.47903950190455
-  llm_score: 70
-  recency_score: 70.6137567623795
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 26.303647630011348
+  llm_score: 0
+  recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 64.32478022728804
-  llm_score: 70
-  recency_score: 63.11107147737226
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 24.519698385159323
+  llm_score: 0
+  recency_score: 84.37803950353559
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bad-faith
-  title: Bad Faith
-  score: 57.200593639931014
-  llm_score: 70
-  recency_score: 16.8038586595515
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 23.726942189449353
+  llm_score: 0
+  recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 55.17740282283799
-  llm_score: 70
-  recency_score: 3.653118348446851
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 21.993318372256688
+  llm_score: 0
+  recency_score: 67.95656941966844
   length_score: 100
   category_score: 0
   rank: 10

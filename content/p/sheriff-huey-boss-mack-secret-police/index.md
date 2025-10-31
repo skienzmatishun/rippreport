@@ -15,84 +15,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 83.74989732487109
-  llm_score: 95
-  recency_score: 14.374332611662021
+- slug: cameras
+  title: CAMERAS
+  score: 75.49426132497257
+  llm_score: 75
+  recency_score: 40.71269861232158
   length_score: 100
   category_score: 100
   rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 83.35399929370959
-  llm_score: 95
+  score: 71.0463069860173
+  llm_score: 75
   recency_score: 11.800995409112343
   length_score: 100
   category_score: 100
   rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 76.41148882808828
-  llm_score: 85
-  recency_score: 6.674677382573833
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 60.882493738074906
+  llm_score: 65
+  recency_score: 60.73620929748681
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 75.000042318637
+- slug: comment-are-you-surprised-at-all
+  title: 'Comment: Are You Surprised at all??????'
+  score: 57.87658942708252
   llm_score: 75
-  recency_score: 37.500275071140365
+  recency_score: 1.1978312760363046
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 4
-- slug: rumors
-  title: RUMORS
-  score: 74.67747971026759
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 51.61971834480947
   llm_score: 75
-  recency_score: 35.40361811673922
-  length_score: 100
-  category_score: 100
+  recency_score: 12.465669241261498
+  length_score: 30.75
+  category_score: 0
   rank: 5
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 71.36482768279755
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 50.77715599033201
   llm_score: 75
-  recency_score: 13.871379938184003
-  length_score: 100
-  category_score: 100
+  recency_score: 9.426513937157974
+  length_score: 27.500000000000004
+  category_score: 0
   rank: 6
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 70.13357447133
-  llm_score: 75
-  recency_score: 5.868234063644852
-  length_score: 100
-  category_score: 100
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 46.265747444138825
+  llm_score: 65
+  recency_score: 34.164858386902274
+  length_score: 8.75
+  category_score: 0
   rank: 7
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 70.06690794124701
-  llm_score: 75
-  recency_score: 5.4349016181054575
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 25.28846728390893
+  llm_score: 0
+  recency_score: 89.37503734540803
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.92859719523504
-  llm_score: 75
-  recency_score: 4.5358817690276965
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 20.02810887813135
+  llm_score: 0
+  recency_score: 55.18270770785375
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 9
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 58.59264287903365
-  llm_score: 75
-  recency_score: 5.8521787137186125
-  length_score: 100
+- slug: vote
+  title: VOTE
+  score: 1.406291797674467
+  llm_score: 0
+  recency_score: 4.031793369768071
+  length_score: 19.0
   category_score: 0
   rank: 10
 ---

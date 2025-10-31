@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: press-release
-  title: PRESS RELEASE
-  score: 68.52623987540625
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 60.893441286910296
   llm_score: 75
-  recency_score: 70.42055919014051
+  recency_score: 20.807368364916808
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-180
-  title: THE 180
-  score: 58.52160219523292
-  llm_score: 75
-  recency_score: 5.390414269013892
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 53.09425443717848
+  llm_score: 45
+  recency_score: 90.11265384166002
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-153
-  title: No Boomers
-  score: 57.72148489222548
-  llm_score: 70
-  recency_score: 20.189651799465537
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 52.17771521805211
+  llm_score: 65
+  recency_score: 4.155148917338647
   length_score: 100
   category_score: 0
   rank: 3
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 56.3891699245671
-  llm_score: 60
-  recency_score: 51.52960450968603
+- slug: press-release
+  title: PRESS RELEASE
+  score: 50.06470141386778
+  llm_score: 45
+  recency_score: 70.42055919014051
   length_score: 100
   category_score: 0
   rank: 4
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 44.630919035179566
-  llm_score: 50
-  recency_score: 15.100973728667121
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 48.96680239968301
+  llm_score: 45
+  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 24.519698385159323
-  llm_score: 0
-  recency_score: 84.37803950353559
+- slug: offensive
+  title: Offensive
+  score: 42.04513764521403
+  llm_score: 45
+  recency_score: 18.293394693891102
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 19.91260526606817
-  llm_score: 0
-  recency_score: 54.43193422944308
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 39.94406090095206
+  llm_score: 45
+  recency_score: 4.636395856188334
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp-128
-  title: Big News
-  score: 19.64176747459775
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 18.227641546030544
   llm_score: 0
-  recency_score: 52.671488584885374
+  recency_score: 43.47967004919853
   length_score: 100
   category_score: 0
   rank: 8
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 19.126087018784872
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 13.792717716204125
   llm_score: 0
-  recency_score: 49.31956562210165
+  recency_score: 14.652665155326813
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 13.498754704337427
+- slug: what-the
+  title: What the
+  score: 12.772238713446972
   llm_score: 0
-  recency_score: 12.741905578193274
+  recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
   rank: 10

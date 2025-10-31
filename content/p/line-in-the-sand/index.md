@@ -13,43 +13,43 @@ authors:
 - admin
 alttags: A single track in sand, symbolizing a trail of corruption stemming from misused charitable funds in Alabama
 related_articles:
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 84.76518609154981
-  llm_score: 95
-  recency_score: 95.97370959507373
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 78.2376118249146
-  llm_score: 95
-  recency_score: 53.544476861944815
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 73.37218124909144
-  llm_score: 95
-  recency_score: 21.919178119094283
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 72.82486826672232
-  llm_score: 80
+  score: 75.9017913436454
+  llm_score: 85
   recency_score: 78.36164373369505
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 1
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 75.3286292912529
+  llm_score: 95
+  recency_score: 34.63609039314372
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: this-is-a-test
   title: THIS IS A TEST
   score: 71.08848655278827
   llm_score: 85
   recency_score: 47.075162593123636
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 70.30128187655816
+  llm_score: 85
+  recency_score: 41.958332197627975
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 69.71104807381047
+  llm_score: 85
+  recency_score: 38.121812479767996
   length_score: 100
   category_score: 0
   rank: 5
@@ -69,27 +69,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 69.36799018385433
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 67.21833509524528
   llm_score: 85
-  recency_score: 35.89193619505306
+  recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
   rank: 8
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 64.23869058593654
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 67.00373527915538
   llm_score: 85
-  recency_score: 2.5514888085874565
+  recency_score: 20.524279314509858
   length_score: 100
   category_score: 0
   rank: 9
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 61.96043955345803
-  llm_score: 75
-  recency_score: 27.742857097477103
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 66.83537193573783
+  llm_score: 85
+  recency_score: 19.429917582295765
   length_score: 100
   category_score: 0
   rank: 10

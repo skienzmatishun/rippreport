@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 75.02638285921314
-  llm_score: 90
-  recency_score: 52.671488584885374
+- slug: water
+  title: Water
+  score: 64.73485212190317
+  llm_score: 65
+  recency_score: 85.7765387923706
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 65.88490535727412
-  llm_score: 75
-  recency_score: 53.251884822281745
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 58.56578825265432
+  llm_score: 65
+  recency_score: 45.67762364225301
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 65.53223856202189
-  llm_score: 85
-  recency_score: 10.959550653142209
+- slug: dead-last
+  title: DEAD LAST
+  score: 57.895691707159116
+  llm_score: 75
+  recency_score: 1.3219960965341453
   length_score: 100
   category_score: 0
   rank: 3
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 62.22382661347941
-  llm_score: 70
-  recency_score: 49.45487298761609
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 51.655257417873635
+  llm_score: 45
+  recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 61.45279529926999
-  llm_score: 70
-  recency_score: 44.44316944525482
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 51.15501144213505
+  llm_score: 45
+  recency_score: 77.50757437387774
   length_score: 100
   category_score: 0
   rank: 5
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 52.762139639031
-  llm_score: 65
-  recency_score: 7.953907653701443
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 48.22318660022637
+  llm_score: 45
+  recency_score: 58.450712901471334
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-153
-  title: No Boomers
-  score: 17.435580378828206
-  llm_score: 0
-  recency_score: 38.33127246238332
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 43.94057796344301
+  llm_score: 35
+  recency_score: 70.6137567623795
   length_score: 100
   category_score: 0
   rank: 7
-- slug: im-back-2
-  title: I'M BACK
-  score: 17.37130724374856
-  llm_score: 0
-  recency_score: 37.913497084365645
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 43.51061063701624
+  llm_score: 45
+  recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
   rank: 8
-- slug: big-mules
-  title: Big Mules
-  score: 17.000114972878578
-  llm_score: 0
-  recency_score: 35.500747323710755
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 40.916853946637275
+  llm_score: 45
+  recency_score: 10.959550653142209
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 12.570977129556145
+- slug: priorities
+  title: Priorities
+  score: 25.787019135334628
   llm_score: 0
-  recency_score: 6.711351342114945
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: 'Podcast cover art: Three men in costumes referencing corporate influence and power dynamics discussed in the article'
 related_articles:
-- slug: backstory-155
-  title: What the hell is ESG?
-  score: 69.38057070693444
-  llm_score: 70
-  recency_score: 95.97370959507373
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 65.98354786981331
+  llm_score: 65
+  recency_score: 93.89306115378648
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 67.61554405334755
-  llm_score: 67
-  recency_score: 96.50103634675902
+- slug: hanky-panky-at-the-po-po
+  title: Hanky Panky at the Po Po
+  score: 59.145665017213766
+  llm_score: 50
+  recency_score: 34.44682261188939
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 66.57234077666108
-  llm_score: 70
-  recency_score: 77.72021504829691
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 54.81053151049306
+  llm_score: 65
+  recency_score: 21.268454818204823
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-153
-  title: No Boomers
-  score: 65.78701913533463
-  llm_score: 65
-  recency_score: 92.61562437967505
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 42.35414263733898
+  llm_score: 50
+  recency_score: 0.301927142703325
   length_score: 100
   category_score: 0
   rank: 4
-- slug: im-back-2
-  title: I'M BACK
-  score: 62.867103377546336
-  llm_score: 60
-  recency_score: 93.63617195405108
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 41.95695616127646
+  llm_score: 30
+  recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bsp-128
-  title: Big News
-  score: 60.077038049801665
-  llm_score: 70
-  recency_score: 35.500747323710755
+- slug: the-180
+  title: THE 180
+  score: 34.43502118554268
+  llm_score: 30
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 0
   rank: 6
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 55.04979948592337
-  llm_score: 70
-  recency_score: 2.82369665850184
+- slug: scalped
+  title: Scalped
+  score: 33.005642323594614
+  llm_score: 30
+  recency_score: 19.53667510336496
   length_score: 100
   category_score: 0
   rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.981935366457044
-  llm_score: 70
-  recency_score: 2.382579881970696
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 14.957154900011432
+  llm_score: 0
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 49.06011113618249
-  llm_score: 60
-  recency_score: 3.8907223851861064
+- slug: fact-and-fiction-a-b-c
+  title: FACT and FICTION A B C
+  score: 11.672204238965646
+  llm_score: 0
+  recency_score: 0.8693275532766961
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 14.81053151049305
+- slug: privacy-policy
+  title: Privacy Policy
+  score: 11.541892718065743
   llm_score: 0
-  recency_score: 21.268454818204823
+  recency_score: 0.02230266742733
   length_score: 100
   category_score: 0
   rank: 10

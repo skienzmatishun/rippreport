@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: 'Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca...'
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 71.70855703861841
+- slug: disposal
+  title: DISPOSAL
+  score: 64.2904798615411
   llm_score: 75
-  recency_score: 91.10562075101957
+  recency_score: 42.88811910001705
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 70.2193357799984
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 62.76452960150207
   llm_score: 75
-  recency_score: 81.42568256998956
+  recency_score: 32.96944240976332
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 68.32220954313863
-  llm_score: 87
-  recency_score: 21.094362030400973
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 51.99052324231282
+  llm_score: 50
+  recency_score: 62.93840107503325
   length_score: 100
   category_score: 0
   rank: 3
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 63.03555598480498
-  llm_score: 75
-  recency_score: 34.73111390123228
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 62.86202406458286
-  llm_score: 74
-  recency_score: 37.60315641978851
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst
-  title: CATALYST
-  score: 61.5489863636911
-  llm_score: 75
-  recency_score: 25.06841136399206
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 21.435861759073987
+  llm_score: 0
+  recency_score: 64.3331014339809
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 22.37239372156008
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 20.53087890791867
   llm_score: 0
-  recency_score: 70.42055919014051
+  recency_score: 58.450712901471334
   length_score: 100
   category_score: 0
   rank: 7
-- slug: dog-and-pony-show
-  title: DOG AND PONY SHOW
-  score: 16.95087454814311
-  llm_score: -1
-  recency_score: 39.1806845629302
+- slug: no-radar
+  title: NO RADAR
+  score: 17.30773462632929
+  llm_score: 0
+  recency_score: 37.500275071140365
   length_score: 100
   category_score: 0
   rank: 8
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 15.061752222570682
-  llm_score: 0
-  recency_score: 22.901389446709434
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 10.565819396313161
+  llm_score: -2
+  recency_score: 1.6778260760355546
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 13.637726336309907
-  llm_score: 0
-  recency_score: 13.645221186014394
+- slug: back-stabber
+  title: BACK STABBER
+  score: 0
+  llm_score: -25
+  recency_score: 19.860480045966312
   length_score: 100
   category_score: 0
   rank: 10

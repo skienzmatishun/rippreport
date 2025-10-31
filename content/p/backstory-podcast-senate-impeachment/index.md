@@ -22,46 +22,38 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 77.46741815752647
-  llm_score: 87
-  recency_score: 80.5382180239219
+- slug: he-must-go
+  title: He Must Go
+  score: 38.066447562874565
+  llm_score: 35
+  recency_score: 32.43190915868462
   length_score: 100
   category_score: 0
   rank: 1
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 75.49890109191956
-  llm_score: 97
-  recency_score: 27.742857097477103
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 33.50249278382163
+  llm_score: 20
+  recency_score: 62.766203094840556
   length_score: 100
   category_score: 0
   rank: 2
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 71.6319657032462
-  llm_score: 75
-  recency_score: 90.60777707110016
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 33.37111606321331
+  llm_score: 20
+  recency_score: 61.91225441088648
   length_score: 100
   category_score: 0
   rank: 3
-- slug: im-back-2
-  title: I'M BACK
-  score: 59.36459097355494
-  llm_score: 75
-  recency_score: 10.869841328106999
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 31.22703524003201
+  llm_score: 30
+  recency_score: 7.975729060208014
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 48.56463231141438
-  llm_score: 53
-  recency_score: 28.67011002419343
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
   score: 25.554710884772245
@@ -69,36 +61,44 @@ related_articles:
   recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 20.90812892695509
+  rank: 5
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 21.463015103439474
   llm_score: 0
-  recency_score: 60.90283802520807
+  recency_score: 64.50959817235656
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 20.360064767719294
+  llm_score: 0
+  recency_score: 57.34042099017541
   length_score: 100
   category_score: 0
   rank: 7
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 19.91260526606817
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 19.358235745181428
   llm_score: 0
-  recency_score: 54.43193422944308
+  recency_score: 50.828532343679264
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 15.139827526325949
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 19.084624687922787
   llm_score: 0
-  recency_score: 23.408878921118657
+  recency_score: 49.0500604714981
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 13.20616949211191
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 17.784816866093863
   llm_score: 0
-  recency_score: 10.840101698727413
+  recency_score: 40.601309629610085
   length_score: 100
   category_score: 0
   rank: 10

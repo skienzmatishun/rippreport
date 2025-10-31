@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Man dressed as a scarecrow, symbolizing a straw man lawsuit revealing complex Baldwin County business partnerships
 related_articles:
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 78.33419501564546
-  llm_score: 85
-  recency_score: 51.67097507822733
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 100
+  llm_score: 2380
+  recency_score: 12.195421530863895
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 78.0
-  llm_score: 85
-  recency_score: 50
-  rank: 2
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 74.6993001819033
-  llm_score: 90
-  recency_score: 13.496500909516493
-  rank: 3
-- slug: exposure
-  title: EXPOSURE
-  score: 69.21620125250436
-  llm_score: 85
-  recency_score: 6.0810062625217975
-  rank: 4
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 69.18782317885686
-  llm_score: 70
-  recency_score: 65.93911589428427
-  rank: 5
 - slug: strawman-spiderweb
   title: STRAWMAN SPIDERWEB
-  score: 69.01123380539919
-  llm_score: 75
+  score: 80.00864138876862
+  llm_score: 100
   recency_score: 45.05616902699594
-  rank: 6
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 67.8647486868406
-  llm_score: 80
-  recency_score: 19.323743434203013
-  rank: 7
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 66.59388848195266
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 64.56728647250907
   llm_score: 75
-  recency_score: 32.96944240976332
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 61.35898018978109
+  llm_score: 78
+  recency_score: 11.833371233577015
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 59.51699693014868
+  llm_score: 73
+  recency_score: 19.860480045966312
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 57.24446674225582
+  llm_score: 73
+  recency_score: 5.089033824662729
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 24.413440561960563
+  llm_score: 0
+  recency_score: 83.68736365274363
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 22.283712645630715
+  llm_score: 0
+  recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 59.42584690236102
-  llm_score: 70
-  recency_score: 17.129234511805123
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 12.827524997925314
+  llm_score: 0
+  recency_score: 8.378912486514544
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 58.83575329957493
-  llm_score: 70
-  recency_score: 14.178766497874648
+- slug: fire
+  title: FIRE
+  score: 12.37689418086454
+  llm_score: 0
+  recency_score: 5.449812175619502
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Well folks you are going to have to get a Lagniappe paper or go on line to read this article, this is called investigative reporting. The article is a little long but tells a big story.

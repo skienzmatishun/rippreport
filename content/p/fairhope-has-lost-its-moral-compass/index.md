@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope City Council
 related_articles:
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 87.12395966027418
-  llm_score: 90
-  recency_score: 75.61979830137088
+- slug: police-report
+  title: POLICE REPORT
+  score: 87.52733615766022
+  llm_score: 81
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 85.82610187044024
-  llm_score: 85
-  recency_score: 89.13050935220119
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 67.64176747459776
+  llm_score: 78
+  recency_score: 52.671488584885374
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 82.87737886875425
-  llm_score: 85
-  recency_score: 74.38689434377122
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 67.20045221594707
+  llm_score: 79
+  recency_score: 45.8029394036559
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 82.83667471122875
-  llm_score: 85
-  recency_score: 74.18337355614374
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 65.9855809172076
+  llm_score: 82
+  recency_score: 25.906275961849367
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 77.19546987535206
-  llm_score: 90
-  recency_score: 25.977349376760323
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 65.26051028191624
+  llm_score: 78
+  recency_score: 37.193316832455444
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 74.59772583426354
-  llm_score: 90
-  recency_score: 12.988629171317715
+- slug: no-radar
+  title: NO RADAR
+  score: 61.676996465700945
+  llm_score: 80
+  recency_score: 5.9004770270560485
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 74.48638183173692
-  llm_score: 85
-  recency_score: 32.43190915868462
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 60.576520806365366
+  llm_score: 79
+  recency_score: 2.7473852413747677
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 74.36317072063389
-  llm_score: 85
-  recency_score: 31.81585360316948
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 58.93453143334189
+  llm_score: 77
+  recency_score: 0.07445431672220408
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 71.01193156417621
-  llm_score: 85
-  recency_score: 15.05965782088104
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 26.797146261705834
+  llm_score: 0
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: elliott-history-lesson
-  title: ELLIOTT HISTORY LESSON
-  score: 60.12243706484228
-  llm_score: 75
-  recency_score: 0.6121853242114159
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 15.925145099571717
+  llm_score: 0
+  recency_score: 28.51344314721615
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 “(ethics) An inner sense which distinguishes what is right from what is wrong, functioning as a guide (like the needle of a compass) for morally appropriate behavior.”

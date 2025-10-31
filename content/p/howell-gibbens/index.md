@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Fairhope City Council candidate Howell Gibbons campaign sign urging a slowdown in growth for infrastructure and community ...
 related_articles:
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 78.8560612226499
-  llm_score: 85
-  recency_score: 97.56439794722424
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 64.23647056950882
+  llm_score: 75
+  recency_score: 42.537058701807275
   length_score: 100
   category_score: 0
   rank: 1
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 78.41872696930318
-  llm_score: 87
-  recency_score: 86.72172530047058
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 62.16393132171892
+  llm_score: 75
+  recency_score: 29.065553591172854
   length_score: 100
   category_score: 0
   rank: 2
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 72.38244748274676
-  llm_score: 85
-  recency_score: 55.48590863785381
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 62.03118046433476
+  llm_score: 75
+  recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
   rank: 3
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 67.7346618727269
-  llm_score: 85
-  recency_score: 25.27530217272481
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 66.4102016603544
-  llm_score: 85
-  recency_score: 16.666310792303566
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 66.22086273866911
-  llm_score: 85
-  recency_score: 15.435607801349112
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: self-incrimination
   title: SELF INCRIMINATION
-  score: 65.73213511434719
-  llm_score: 87
+  score: 58.34751972973181
+  llm_score: 75
   recency_score: 4.258878243256627
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: disposal
+  title: DISPOSAL
+  score: 56.34023080619356
+  llm_score: 65
+  recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 53.261005462246494
+  llm_score: 50
+  recency_score: 71.19653550460211
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 35.016939386873126
+  llm_score: 30
+  recency_score: 32.61010601467527
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 60.67160140333319
-  llm_score: 73
-  recency_score: 27.365409121665678
+- slug: fairhope-infrastructure
+  title: Fairhope Infrastructure
+  score: 27.288624799943854
+  llm_score: 25
+  recency_score: 2.376061199635027
   length_score: 100
   category_score: 0
   rank: 8
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 13.959152306057437
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 17.73368736835197
   llm_score: 0
-  recency_score: 15.734489989373342
+  recency_score: 40.26896789428779
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 13.868061997834378
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 15.081110914024135
   llm_score: 0
-  recency_score: 15.142402985923455
+  recency_score: 23.027220941156877
   length_score: 100
   category_score: 0
   rank: 10

@@ -22,54 +22,14 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 77.22456074411839
-  llm_score: 85
-  recency_score: 86.95964483676948
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 66.2229637543304
+  llm_score: 65
+  recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 75.81523217338932
-  llm_score: 100
-  recency_score: 17.799009127030544
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 73.73573517145468
-  llm_score: 100
-  recency_score: 4.282278614455312
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: truth
-  title: TRUTH
-  score: 71.20884920548188
-  llm_score: 74
-  recency_score: 91.85751983563217
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 68.70083463947044
-  llm_score: 85
-  recency_score: 31.555425156557842
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: going-down
-  title: GOING DOWN
-  score: 67.40120142972921
-  llm_score: 78
-  recency_score: 51.107809293239825
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
   score: 66.1355636322158
@@ -77,28 +37,68 @@ related_articles:
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 64.71963440650048
+  llm_score: 75
+  recency_score: 45.67762364225301
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 64.147435722712
+  llm_score: 75
+  recency_score: 41.958332197627975
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
-  score: 26.589548333269796
-  llm_score: 0
+  score: 63.51262525634673
+  llm_score: 60
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 24.555312181361508
+  rank: 5
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 61.27399413371433
+  llm_score: 75
+  recency_score: 23.280961869143056
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: invitation
+  title: INVITATION
+  score: 57.44147717411129
+  llm_score: 50
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 26.062916276901703
   llm_score: 0
-  recency_score: 84.60952917884977
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 21.599903342065048
+  llm_score: 0
+  recency_score: 65.39937172342279
   length_score: 100
   category_score: 0
   rank: 9
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 11.84944925820834
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 11.846059780013908
   llm_score: 0
-  recency_score: 2.02142017835421
+  recency_score: 1.9993885700904033
   length_score: 100
   category_score: 0
   rank: 10

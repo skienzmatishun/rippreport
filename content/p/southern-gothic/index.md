@@ -11,65 +11,85 @@ authors:
 - admin
 alttags: Baldwin County historical marker details Alabama county history and its connection to early political figures
 related_articles:
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 90.31754485573326
-  llm_score: 95
-  recency_score: 71.58772427866629
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 67.42834086122147
+  llm_score: 75
+  recency_score: 63.2842155979395
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 82.1227513524759
-  llm_score: 85
-  recency_score: 70.6137567623795
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 66.85884670398326
+  llm_score: 75
+  recency_score: 59.582503575891096
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast
-  title: BACKSTORY PODCAST
-  score: 80.15008797921179
-  llm_score: 95
-  recency_score: 20.750439896058943
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 66.63084072659579
+  llm_score: 65
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 79.59445300016145
-  llm_score: 85
-  recency_score: 57.97226500080723
+- slug: straw-man
+  title: STRAW MAN
+  score: 60.74776616091791
+  llm_score: 75
+  recency_score: 19.860480045966312
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 77.94532047544666
-  llm_score: 85
-  recency_score: 49.72660237723329
-  rank: 5
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 69.94298494927645
-  llm_score: 85
-  recency_score: 9.714924746382225
-  rank: 6
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 68.91301970063262
-  llm_score: 75
-  recency_score: 44.565098503163114
-  rank: 7
-- slug: bad-faith
-  title: Bad Faith
-  score: 62.373167176109945
-  llm_score: 75
-  recency_score: 11.86583588054974
-  rank: 8
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 60.515920820962826
-  llm_score: 75
-  recency_score: 2.5796041048141145
-  rank: 9
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 58.7742759876368
-  llm_score: 70
+  score: 59.82636614433601
+  llm_score: 75
   recency_score: 13.871379938184003
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 57.88118984466261
+  llm_score: 75
+  recency_score: 1.2277339903068436
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: barstool
+  title: BARSTOOL
+  score: 49.94390819968938
+  llm_score: 60
+  recency_score: 9.635403297980877
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 33.760487606962286
+  llm_score: 25
+  recency_score: 44.44316944525482
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 18.029057216311664
+  llm_score: 0
+  recency_score: 42.18887190602582
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 15.189500757821666
+  llm_score: 0
+  recency_score: 23.73175492584083
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Several years ago I met Attorney Harry Still, the first attorney I have met in Baldwin County with the guts to confront corruption and he has paid the price for his candor. Harry, unlike myself, has deep roots in Baldwin County and is sickened by the blatant judicial and municipal corruption that stains the legacy of this proud county. At one time there were real good ole boys that put the county first but they changed colors like chameleons. In 2010 the county government eroded into the good ole boys of today, who put special interests, like CSB, Catalyst Scott Boone Consulting, first and constituents last. Harry and I share a weekly podcast, [https://www.facebook.com/BackstoryPodcast](https://www.facebook.com/BackstoryPodcast) where we speak candidly about consumer issues and judicial corruption. This podcast, over 75 episodes, has had a chilling effect on the status quo and that has resulted in further pressure on Mr. Still. The latest issue, The McSharry case prompted Mr. Still to reflect on his heritage and bare his soul, DAMN THE STATUS QUO and DAMN CSB.

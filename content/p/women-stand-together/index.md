@@ -20,65 +20,85 @@ authors:
 - admin
 alttags: Scales of justice icon depicting a woman and man, symbolizing Paula DiNardi’s experience with legal proceedings after an a...
 related_articles:
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 82.31754485573326
-  llm_score: 85
-  recency_score: 71.58772427866629
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 69.88078834329552
+  llm_score: 75
+  recency_score: 79.22512423142078
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 76.74371374716179
-  llm_score: 85
-  recency_score: 43.718568735808944
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 69.61654990367352
+  llm_score: 75
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: strawman-spiderweb
-  title: STRAWMAN SPIDERWEB
-  score: 76.24058076477368
-  llm_score: 75
-  recency_score: 81.20290382386844
-  rank: 3
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 73.38384878757476
-  llm_score: 85
-  recency_score: 26.919243937873805
-  rank: 4
-- slug: one-woman
-  title: ONE WOMAN
-  score: 73.20972355606835
-  llm_score: 85
-  recency_score: 26.048617780341775
-  rank: 5
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 71.25024389308274
-  llm_score: 75
-  recency_score: 56.25121946541366
-  rank: 6
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 66.43570824436047
+  score: 62.642852495661906
   llm_score: 65
   recency_score: 72.17854122180232
-  rank: 7
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 64.38383562381885
-  llm_score: 75
-  recency_score: 21.919178119094283
-  rank: 8
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 57.413992417567584
-  llm_score: 70
-  recency_score: 7.069962087837917
-  rank: 9
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 52.79104160648169
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 62.43192067211974
   llm_score: 65
-  recency_score: 3.955208032408443
+  recency_score: 70.80748436877823
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 61.833729836595985
+  llm_score: 75
+  recency_score: 26.919243937873805
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: one-woman
+  title: ONE WOMAN
+  score: 61.69978735082183
+  llm_score: 75
+  recency_score: 26.048617780341775
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 59.873656384288424
+  llm_score: 75
+  recency_score: 14.178766497874648
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: surrender
+  title: SURRENDER
+  score: 52.717992814631195
+  llm_score: 60
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 22.551957581333276
+  llm_score: 0
+  recency_score: 71.58772427866629
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 20.192495302371334
+  llm_score: 0
+  recency_score: 56.25121946541366
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Paula DiNardi

@@ -10,83 +10,83 @@ authors:
 - admin
 alttags: Medical professionals in masks work under bright lights, illustrating concerns about public health safety and responsibili...
 related_articles:
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 77.91593127323996
-  llm_score: 83
-  recency_score: 99.45355327605971
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 71.29245110658185
+  llm_score: 75
+  recency_score: 88.40093219278197
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 74.6800860292524
-  llm_score: 85
-  recency_score: 70.42055919014051
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 69.0427693756366
+  llm_score: 75
+  recency_score: 73.7780009416378
   length_score: 100
   category_score: 0
   rank: 2
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 30.820421291492764
-  llm_score: 23
+  score: 62.82042129149278
+  llm_score: 75
   recency_score: 33.33273839470296
   length_score: 100
   category_score: 0
   rank: 3
 - slug: dark-wednesday
   title: DARK WEDNESDAY
-  score: 25.250847592646338
-  llm_score: 0
+  score: 61.74123220803097
+  llm_score: 60
   recency_score: 89.13050935220119
-  length_score: 100
+  length_score: 96.25
   category_score: 0
   rank: 4
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 25.13860495273569
-  llm_score: 0
-  recency_score: 88.40093219278197
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 58.88779105373814
+  llm_score: 60
+  recency_score: 67.77064184929783
   length_score: 100
   category_score: 0
   rank: 5
 - slug: shelter-in-place
   title: SHELTER IN PLACE
-  score: 23.365097948805634
-  llm_score: 0
+  score: 54.134328718036414
+  llm_score: 50
   recency_score: 76.87313666723661
   length_score: 100
   category_score: 0
   rank: 6
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 43.76345711143798
+  llm_score: 35
+  recency_score: 69.4624712243468
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 40.20021812613647
+  llm_score: 30
+  recency_score: 66.301417819887
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: sting
+  title: Sting
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: economic-virus
   title: ECONOMIC VIRUS
   score: 22.95128823940673
   llm_score: 0
   recency_score: 74.18337355614374
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 22.888923221790435
-  llm_score: 0
-  recency_score: 73.7780009416378
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: take-a-chance
-  title: “TAKE A CHANCE”
-  score: 22.224995572976432
-  llm_score: 0
-  recency_score: 69.4624712243468
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: exposure-2
-  title: EXPOSURE
-  score: 14.919894307818735
-  llm_score: 0
-  recency_score: 21.979313000821772
   length_score: 100
   category_score: 0
   rank: 10

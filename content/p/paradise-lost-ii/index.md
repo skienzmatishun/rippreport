@@ -11,14 +11,54 @@ authors:
 - admin
 alttags: Map outline of New Jersey, illustrating planning and growth management discussions in Baldwin County
 related_articles:
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 60.10979475332751
-  llm_score: 78
-  recency_score: 3.7136658966287337
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 70.4618986652748
+  llm_score: 75
+  recency_score: 83.00234132428609
   length_score: 100
   category_score: 0
   rank: 1
+- slug: knock-on-doors
+  title: KNOCK ON DOORS
+  score: 67.88670742768174
+  llm_score: 85
+  recency_score: 26.263598279931234
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 66.2755039235154
+  llm_score: 75
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: going-down
+  title: GOING DOWN
+  score: 65.9073816056511
+  llm_score: 75
+  recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 61.28382042781025
+  llm_score: 75
+  recency_score: 23.3448327807665
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: Baldwin-County-seeks-public-input-on-land-use-plan
+  title: Baldwin County seeks public input on land use plan - Lagniappe
+  score: 60.756148757776
+  llm_score: 75
+  recency_score: 19.91496692554393
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: paradise-lost
   title: PARADISE LOST
   score: 59.79157249015608
@@ -26,68 +66,28 @@ related_articles:
   recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 58.961592167066485
-  llm_score: 65
-  recency_score: 48.25034908593207
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 28.756148757775996
-  llm_score: 23
-  recency_score: 19.91496692554393
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 17.582796320865064
-  llm_score: 0
-  recency_score: 39.2881760856229
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 15.129974273964077
-  llm_score: 0
-  recency_score: 23.3448327807665
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 7
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 14.64456181530239
-  llm_score: 0
+  score: 54.6445618153024
+  llm_score: 65
   recency_score: 20.189651799465537
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 13.842671509858803
-  llm_score: 0
-  recency_score: 14.977364814082216
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 12.267559586490728
-  llm_score: 0
-  recency_score: 4.7391373121897375
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 52.32879786339016
+  llm_score: 60
+  recency_score: 25.13718611203594
   length_score: 100
   category_score: 0
   rank: 9
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 11.623099557395063
-  llm_score: 0
-  recency_score: 0.5501471230679165
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 51.25286988305802
+  llm_score: 60
+  recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
   rank: 10

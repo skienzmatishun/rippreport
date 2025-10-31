@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Silhouettes of five men in suits, representing a shadowy group controlling Baldwin County politics, known as Catalyst or G...
 related_articles:
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 85.25341279669395
+  llm_score: 80
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
-  score: 95.24740235768714
-  llm_score: 95
+  score: 73.11338642899011
+  llm_score: 76
   recency_score: 96.23701178843567
-  rank: 1
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 94.17127158449026
-  llm_score: 95
+  score: 71.67020891114637
+  llm_score: 75
   recency_score: 90.85635792245131
-  rank: 2
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 93.06156314124607
-  llm_score: 95
-  recency_score: 85.30781570623031
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 91.20705813124003
-  llm_score: 95
-  recency_score: 76.03529065620016
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 70.88869827574933
+  llm_score: 75
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: gob-coup
+  title: GOB COUP
+  score: 62.37712496918528
+  llm_score: 75
+  recency_score: 30.451312299704224
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-players
   title: CATALYST PLAYERS
-  score: 79.3607717319103
-  llm_score: 95
+  score: 60.89290133223871
+  llm_score: 76
   recency_score: 16.8038586595515
-  rank: 5
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 78.63355597126228
-  llm_score: 95
-  recency_score: 13.167779856311412
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 74.68454994448997
-  llm_score: 90
-  recency_score: 13.422749722449872
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 14.975938882343264
+  llm_score: 0
+  recency_score: 22.343602735231208
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 72.01698371044944
-  llm_score: 90
-  recency_score: 0.08491855224716904
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 13.114340702729397
+  llm_score: 2
+  recency_score: 2.24321456774108
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 71.12970187685954
-  llm_score: 85
-  recency_score: 15.648509384297702
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 0
+  llm_score: -23701
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: secret-society
-  title: SECRET SOCIETY
-  score: 69.66206539141994
-  llm_score: 85
-  recency_score: 8.310326957099722
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 0
+  llm_score: -207
+  recency_score: 0.08538513652846078
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Baldwin County, especially Fairhope has been run by a shadow government, for many years. Good ole boys that only answer to each other, all connected by the bond to rule within. Call it Catalyst or Gumbo, referred to as the South Baldwin arm of Catalyst. Gumbo convinced Jeff Boyd to throw David Northcutt under the bus, after he had spent weeks telling us what a poor choice Elliott was. Elliott was the choice of CATAYST, the Shadow Government.

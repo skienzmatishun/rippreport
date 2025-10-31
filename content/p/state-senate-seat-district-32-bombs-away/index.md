@@ -15,65 +15,85 @@ authors:
 - ripp-report
 alttags: Vintage photo of a bomber dropping bombs over mountains, hinting at potential political fallout ahead of an election
 related_articles:
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 89.34434506009411
-  llm_score: 90
-  recency_score: 86.72172530047058
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 73.57385489164788
+  llm_score: 80
+  recency_score: 83.23005679571122
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 85.48748877687456
-  llm_score: 85
-  recency_score: 87.43744388437275
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 72.33560780016738
+  llm_score: 74
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 71.61281763074382
+  llm_score: 81
+  recency_score: 66.48331459983474
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 67.58793445882644
+  llm_score: 80
+  recency_score: 44.32157398237182
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 64.25997371996246
+  llm_score: 74
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 63.990214491894186
+  llm_score: 75
+  recency_score: 40.936394197312076
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 60.27336350357648
+  llm_score: 76
+  recency_score: 12.776862773247046
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 32.950992415551994
+  llm_score: 10
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 26.306655267013614
+  llm_score: 18
+  recency_score: 23.99325923558846
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 85.29689134128176
-  llm_score: 85
+  score: 24.228377954832133
+  llm_score: -1
   recency_score: 86.48445670640884
-  rank: 3
-- slug: countdown
-  title: COUNTDOWN
-  score: 81.03595596770666
-  llm_score: 90
-  recency_score: 45.179779838533264
-  rank: 4
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 70.54140880504006
-  llm_score: 85
-  recency_score: 12.707044025200286
-  rank: 5
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 67.31738352034222
-  llm_score: 75
-  recency_score: 36.586917601711114
-  rank: 6
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 62.15027402445423
-  llm_score: 75
-  recency_score: 10.751370122271124
-  rank: 7
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 58.7591160473893
-  llm_score: 70
-  recency_score: 13.795580236946487
-  rank: 8
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 56.204929421548194
-  llm_score: 70
-  recency_score: 1.0246471077409638
-  rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 56.06343799010516
-  llm_score: 70
-  recency_score: 0.3171899505257979
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on [tips to the Rippster](https://rippreport.com/contact/) in the hopes of finding out who’s in hot water. Something tells me that the next couple of weeks leading up to the primary election June 5, is going to be very interesting. Stay Tuned.

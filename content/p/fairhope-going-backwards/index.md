@@ -21,83 +21,83 @@ authors:
 - admin
 alttags: Fairhope city seal depicting a seagull, sun, water, and islands; referenced in discussion of local politics and elected of...
 related_articles:
-- slug: going-down
-  title: GOING DOWN
-  score: 79.72955027948227
-  llm_score: 100
-  recency_score: 43.242076816634636
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 71.48003633798257
+  llm_score: 75
+  recency_score: 89.62023619688662
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 77.1844456392843
-  llm_score: 100
-  recency_score: 26.69889665534791
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 64.55531218136151
+  llm_score: 65
+  recency_score: 84.60952917884977
   length_score: 100
   category_score: 0
   rank: 2
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 76.54277008720886
-  llm_score: 100
-  recency_score: 22.528005566857594
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 63.678475783437015
+  llm_score: 60
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 69.1051343932529
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 61.73286127383559
   llm_score: 75
-  recency_score: 74.18337355614374
+  recency_score: 26.263598279931234
   length_score: 100
   category_score: 0
   rank: 4
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 64.40357165751035
-  llm_score: 85
-  recency_score: 3.623215773817211
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 61.05739620119974
+  llm_score: 60
+  recency_score: 81.87307530779819
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 63.963737577303334
-  llm_score: 85
-  recency_score: 0.7642942524715967
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 40.56053209289459
+  llm_score: 25
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.08610120321248
-  llm_score: 80
-  recency_score: 15.05965782088104
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 38.538576511340125
+  llm_score: 35
+  recency_score: 35.500747323710755
   length_score: 100
   category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 60.25581679417166
-  llm_score: 79
-  recency_score: 0.6628091621157032
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 35.74853786082444
+  llm_score: 35
+  recency_score: 17.365496095358843
   length_score: 100
   category_score: 0
   rank: 8
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 57.794838609471064
-  llm_score: 75
-  recency_score: 0.6664509615618259
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 23.30047168158898
+  llm_score: 0
+  recency_score: 76.45306593032835
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 13.81132220122442
-  llm_score: 0
-  recency_score: 14.773594307958726
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 18.81392892431485
+  llm_score: 5
+  recency_score: 27.29053800804651
   length_score: 100
   category_score: 0
   rank: 10

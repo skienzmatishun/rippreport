@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: Man in a brown costume resembling a car, holding up a sign reading Keep Cant’t Out, referencing local political controversy
 related_articles:
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 86.20034869269523
-  llm_score: 90
-  recency_score: 71.00174346347615
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 65.68596616142652
+  llm_score: 77
+  recency_score: 43.95878004927231
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 83.93208520393644
-  llm_score: 85
-  recency_score: 79.6604260196822
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 64.85318667791373
+  llm_score: 82
+  recency_score: 18.545713406439127
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: the-jester
-  title: THE JESTER
-  score: 81.40640092071278
-  llm_score: 85
-  recency_score: 67.03200460356393
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 64.59828787665866
+  llm_score: 77
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 78.5631983784823
-  llm_score: 85
-  recency_score: 52.81599189241148
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 60.606485603099095
+  llm_score: 79
+  recency_score: 2.9421564201440202
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 76.03793035989311
-  llm_score: 90
-  recency_score: 20.189651799465537
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 58.86817284659195
+  llm_score: 76
+  recency_score: 3.6431235028476214
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: hate
-  title: HATE
-  score: 69.78967429181668
-  llm_score: 85
-  recency_score: 8.948371459083383
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 19.06397856361161
+  llm_score: 0
+  recency_score: 48.915860663475456
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: honey-bees
-  title: HONEY BEES
-  score: 69.15530775847412
-  llm_score: 65
-  recency_score: 85.7765387923706
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 12.370031196348299
+  llm_score: 0
+  recency_score: 5.405202776263941
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 68.46874686769043
-  llm_score: 85
-  recency_score: 2.3437343384521583
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 12.038020697602745
+  llm_score: 0
+  recency_score: 3.247134534417837
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: queen-bee
-  title: QUEEN BEE
-  score: 64.07588902065244
-  llm_score: 70
-  recency_score: 40.37944510326223
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 11.591440263116494
+  llm_score: 0
+  recency_score: 0.3443617102572178
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 57.824328046633
-  llm_score: 70
-  recency_score: 9.121640233165
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 11.591440263116494
+  llm_score: 0
+  recency_score: 0.3443617102572178
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 A “TRIANGLE CONSERVANCY” has been formed and guess who one of the major players is?

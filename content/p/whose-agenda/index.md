@@ -17,65 +17,85 @@ authors:
 - ripp-report
 alttags: Question mark icon representing unanswered questions about Fairhope City Council resolutions
 related_articles:
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 92.24058076477368
-  llm_score: 95
-  recency_score: 81.20290382386844
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 75.29368550767094
+  llm_score: 80
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: 100-voices
-  title: 100 VOICES
-  score: 90.47244604336203
-  llm_score: 90
-  recency_score: 92.36223021681012
-  rank: 2
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 87.84502484628416
-  llm_score: 90
-  recency_score: 79.22512423142078
-  rank: 3
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 84.86662028679618
-  llm_score: 90
-  recency_score: 64.3331014339809
-  rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 80.62221429547445
-  llm_score: 85
-  recency_score: 63.11107147737226
-  rank: 5
 - slug: back-stabber
   title: BACK STABBER
-  score: 80.04781069641929
-  llm_score: 85
+  score: 69.42139284339946
+  llm_score: 79
   recency_score: 60.23905348209645
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 63.85367991361
+  llm_score: 75
+  recency_score: 40.048919438464885
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 20.216237492613637
+  llm_score: 0
+  recency_score: 56.40554370198863
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 19.597487224778877
+  llm_score: 0
+  recency_score: 52.383666961062694
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 16.92396644684714
+  llm_score: -2
+  recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 77.53512066317721
-  llm_score: 95
-  recency_score: 7.675603315886079
+- slug: how-the-pendulum-swings
+  title: HOW THE PENDULUM SWINGS
+  score: 13.411004836785331
+  llm_score: -1
+  recency_score: 16.171531439104648
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: questions-for-fairhope
-  title: QUESTIONS FOR FAIRHOPE
-  score: 72.70749976245517
-  llm_score: 85
-  recency_score: 23.53749881227582
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 13.108619502387548
+  llm_score: 0
+  recency_score: 10.20602676551906
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 70.94663482050852
-  llm_score: 85
-  recency_score: 14.733174102542575
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 10.392795369519158
+  llm_score: -2
+  recency_score: 0.5531699018745336
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 70.81254126082239
-  llm_score: 85
-  recency_score: 14.062706304111916
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 0
+  llm_score: -256
+  recency_score: 51.24802267398346
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope’s City Council agenda, March 8th, was loaded with resolutions that should catch the eye of the voters and raise many questions about the City Council, NOT informing the public about the facts surrounding each resolution.

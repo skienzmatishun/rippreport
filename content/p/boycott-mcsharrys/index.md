@@ -18,72 +18,82 @@ alttags: Cartoon leprechaun raising a mug, possibly symbolizing unproductive or 
 related_articles:
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 80.57392032634468
-  llm_score: 87
+  score: 72.82609255872669
+  llm_score: 75
   recency_score: 98.36960163172333
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 74.17496869450073
-  llm_score: 85
-  recency_score: 73.37484347250358
+- slug: one-woman
+  title: ONE WOMAN
+  score: 59.9465638700503
+  llm_score: 75
+  recency_score: 14.652665155326813
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 69.4412299084796
-  llm_score: 92
-  recency_score: 25.20614954239798
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 57.78481686609387
+  llm_score: 65
+  recency_score: 40.601309629610085
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: surrender
-  title: SURRENDER
-  score: 69.3369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 57.66616514311077
+  llm_score: 65
+  recency_score: 39.83007343021991
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 62.655531457481715
-  llm_score: 85
-  recency_score: 15.777657287408536
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 50.791138920911315
+  llm_score: 60
+  recency_score: 15.142402985923455
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 62.537605287304835
-  llm_score: 89
-  recency_score: 1.1880264365241602
+- slug: barstool
+  title: BARSTOOL
+  score: 40.766887177548874
+  llm_score: 45
+  recency_score: 9.984766654067629
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 54.965960997757335
-  llm_score: 75
-  recency_score: 12.329804988786655
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 38.581178044216706
+  llm_score: 40
+  recency_score: 15.777657287408536
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 46.29321181529102
-  llm_score: 65
-  recency_score: 3.9660590764550863
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 33.6306085789798
+  llm_score: 25
+  recency_score: 43.598955763368686
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 46.20505941304497
-  llm_score: 65
-  recency_score: 3.5252970652248186
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 31.580699754532446
+  llm_score: 20
+  recency_score: 50.274548404460894
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 45.98975169190091
-  llm_score: 65
-  recency_score: 2.448758459504532
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 15.416330698830459
+  llm_score: 0
+  recency_score: 25.20614954239798
+  length_score: 100
   category_score: 0
   rank: 10
 ---

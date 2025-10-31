@@ -9,27 +9,27 @@ authors:
 - admin
 alttags: Councilman Jack Burrell depicted with a long nose, suggesting insincerity regarding Fauxhope sewer upgrades
 related_articles:
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 78.5709427369692
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 76.33890828059516
   llm_score: 85
-  recency_score: 95.71112779029973
+  recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 75.07290600679259
-  llm_score: 85
-  recency_score: 72.97388904415178
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 70.76176936252034
+  llm_score: 95
+  recency_score: 4.951500856382183
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 69.29429297193971
-  llm_score: 75
-  recency_score: 75.41290431760807
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 67.4673075095809
+  llm_score: 85
+  recency_score: 23.53749881227582
   length_score: 100
   category_score: 0
   rank: 3
@@ -41,51 +41,51 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 65.12116770748351
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 64.37384994537345
   llm_score: 85
-  recency_score: 8.287590098642712
+  recency_score: 3.4300246449273972
   length_score: 100
   category_score: 0
   rank: 5
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 64.06040537330138
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 64.11584776219088
   llm_score: 85
-  recency_score: 1.392634926458906
+  recency_score: 1.7530104542406209
   length_score: 100
   category_score: 0
   rank: 6
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 60.38465770325238
-  llm_score: 70
-  recency_score: 37.500275071140365
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 63.92157313915799
+  llm_score: 75
+  recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 59.31939691680466
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 59.79157249015608
   llm_score: 75
-  recency_score: 10.576079959230228
+  recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 58.23653827881168
-  llm_score: 70
-  recency_score: 23.53749881227582
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 59.48314463724196
+  llm_score: 75
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 9
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 56.40622156031888
-  llm_score: 70
-  recency_score: 11.640440142072652
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 57.77134266219751
+  llm_score: 75
+  recency_score: 0.5137273042837044
   length_score: 100
   category_score: 0
   rank: 10

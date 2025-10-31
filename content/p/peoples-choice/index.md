@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Icon depicting a central figure surrounded by a group, representing support for Senate candidate Chris Elliott
 related_articles:
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 78.48945395401354
+  llm_score: 84
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 78.406073371227
+  llm_score: 84
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 75.4151103232545
+  llm_score: 82
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 91.78201851846809
-  llm_score: 90
+  score: 75.3707834757447
+  llm_score: 79
   recency_score: 98.91009259234048
-  rank: 1
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 87.9452804719372
-  llm_score: 85
-  recency_score: 99.72640235968593
-  rank: 2
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 85.29689134128176
-  llm_score: 85
-  recency_score: 86.48445670640884
-  rank: 3
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 73.40779309608423
+  llm_score: 77
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 72.82459635862965
+  llm_score: 77
+  recency_score: 90.35987633109261
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 72.2382734998963
+  llm_score: 78
+  recency_score: 82.54877774932578
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 85.15530775847412
-  llm_score: 85
+  score: 72.11946750651856
+  llm_score: 77
   recency_score: 85.7765387923706
-  rank: 4
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 75.96601468604398
-  llm_score: 85
-  recency_score: 39.83007343021991
-  rank: 5
-- slug: poison-water-alabama-senate-special-election
-  title: POISON WATER - Alabama Senate Special Election
-  score: 74.66654767894059
-  llm_score: 85
-  recency_score: 33.33273839470296
-  rank: 6
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 68.2369552048455
-  llm_score: 85
-  recency_score: 1.1847760242275227
-  rank: 7
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 66.32839938269227
-  llm_score: 75
-  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 61.17043574274372
-  llm_score: 75
-  recency_score: 5.8521787137186125
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 25.113386428990104
+  llm_score: -2
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: public-servant
-  title: PUBLIC SERVANT
-  score: 59.833113813559756
-  llm_score: 70
-  recency_score: 19.165569067798774
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 24.555312181361508
+  llm_score: 0
+  recency_score: 84.60952917884977
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The people’s choice or the Catalyst choice. The Ripp Report is going for the People’s Choice, David Northcutt. The Catalyst Choice Chris Elliott has raised over one half a million dollars, headed for 600,000 for a Senate Seat salary of 42,000. Damn people WAKE UP.

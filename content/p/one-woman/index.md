@@ -21,65 +21,85 @@ authors:
 - admin
 alttags: 'Fairhope Council: Scales of Justice symbolize alleged bullying and intimidation of the Mayor by council members'
 related_articles:
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 95.35315705036788
-  llm_score: 95
-  recency_score: 96.76578525183945
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 67.1704361681905
+  llm_score: 82
+  recency_score: 33.60783509323819
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 79.46808419803509
-  llm_score: 85
-  recency_score: 57.34042099017541
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 63.63887156235799
+  llm_score: 81
+  recency_score: 14.652665155326813
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: surrender
+  title: SURRENDER
+  score: 61.877978294662626
+  llm_score: 80
+  recency_score: 7.206858915306978
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 27.27874573718139
+  llm_score: 25
+  recency_score: 2.3118472916789923
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 17.136459936782437
+  llm_score: 0
+  recency_score: 36.386989589085836
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 15.85986832937064
+  llm_score: -2
+  recency_score: 36.08914414090915
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 73.20972355606835
-  llm_score: 85
+  score: 15.545941196975658
+  llm_score: 0
   recency_score: 26.048617780341775
-  rank: 3
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 71.34240690488217
-  llm_score: 85
-  recency_score: 16.712034524410825
-  rank: 4
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 71.03678918072447
-  llm_score: 85
-  recency_score: 15.18394590362233
-  rank: 5
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 66.7591160473893
-  llm_score: 80
-  recency_score: 13.795580236946487
-  rank: 6
-- slug: selective-memory
-  title: Selective Memory
-  score: 62.366674246715405
-  llm_score: 75
-  recency_score: 11.833371233577015
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 61.181255192369875
-  llm_score: 70
-  recency_score: 25.906275961849367
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 13.755964360265434
+  llm_score: 0
+  recency_score: 14.41376834172532
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 60.56774635711682
-  llm_score: 70
-  recency_score: 22.8387317855841
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 10.875903490922848
+  llm_score: -2
+  recency_score: 3.6933726909985176
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 56.26878142731196
-  llm_score: 70
-  recency_score: 1.3439071365597703
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 0
+  llm_score: -23456789
+  recency_score: 96.76578525183945
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.

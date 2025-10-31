@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor
 related_articles:
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 65.70729509678065
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 72.4980018136055
   llm_score: 75
-  recency_score: 52.09741812907417
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 64.75986398373605
-  llm_score: 70
-  recency_score: 65.93911589428427
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 65.40569206559196
+  llm_score: 75
+  recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
   rank: 2
 - slug: columbia-questions-and-documents
   title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 59.364819044168904
-  llm_score: 70
+  score: 62.441742121091984
+  llm_score: 75
   recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 55.61999610150925
-  llm_score: 70
-  recency_score: 6.529974659810053
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 61.64526466485993
+  llm_score: 75
+  recency_score: 25.694220321589416
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 55.56382782928035
-  llm_score: 70
-  recency_score: 6.164880890322198
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 60.46838597472004
+  llm_score: 75
+  recency_score: 18.044508835680173
   length_score: 100
   category_score: 0
   rank: 5
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 55.54581181584888
-  llm_score: 70
-  recency_score: 6.047776803017642
+- slug: shut-up-2
+  title: SHUT UP
+  score: 58.52615874700385
+  llm_score: 75
+  recency_score: 5.420031855524929
   length_score: 100
   category_score: 0
   rank: 6
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 55.533153138978605
-  llm_score: 70
-  recency_score: 5.965495403360867
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 58.16007576557338
+  llm_score: 75
+  recency_score: 3.0404924762268615
   length_score: 100
   category_score: 0
   rank: 7
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 55.49620111297371
-  llm_score: 70
-  recency_score: 5.7253072343290325
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 57.752732349945575
+  llm_score: 75
+  recency_score: 0.392760274646119
   length_score: 100
   category_score: 0
   rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 55.481840295169505
-  llm_score: 70
-  recency_score: 5.6319619186017045
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.7449969164574
+  llm_score: 75
+  recency_score: 0.3424799569730124
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 54.80478496262031
-  llm_score: 70
-  recency_score: 1.2311022570319363
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 57.743996066057434
+  llm_score: 75
+  recency_score: 0.33597442937321925
   length_score: 100
   category_score: 0
   rank: 10

@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field
 related_articles:
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 51.32019496750751
-  llm_score: 51
-  recency_score: 54.58126728879875
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 48.70998193285987
-  llm_score: 50
-  recency_score: 41.61488256358909
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 45.26419472412719
-  llm_score: 49
-  recency_score: 23.21726570682666
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 39.3135720036803
-  llm_score: 25
-  recency_score: 80.5382180239219
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: super-bowl-lv
-  title: Super Bowl LV
-  score: 33.53353531276882
-  llm_score: 23
-  recency_score: 50.96797953299731
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 32.308581831462526
-  llm_score: 23
-  recency_score: 43.0057819045064
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 27.63655489221769
-  llm_score: 23
-  recency_score: 12.637606799414936
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: winner-and-loser
   title: WINNER AND LOSER
-  score: 19.91260526606817
-  llm_score: 0
+  score: 66.06645141991433
+  llm_score: 75
   recency_score: 54.43193422944308
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 64.41824134397062
+  llm_score: 75
+  recency_score: 43.718568735808944
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 61.5914837726282
+  llm_score: 75
+  recency_score: 25.34464452208322
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: open-your-eyes
+  title: OPEN YOUR EYES
+  score: 60.17342869395149
+  llm_score: 75
+  recency_score: 16.127286510684606
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 60.063523741170485
+  llm_score: 60
+  recency_score: 75.41290431760807
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 50.87560627631493
+  llm_score: 60
+  recency_score: 15.691440796046965
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: super-bowl-lv
+  title: Super Bowl LV
+  score: 43.995073774307286
+  llm_score: 40
+  recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: elliott-history-lesson
+  title: ELLIOTT HISTORY LESSON
+  score: 39.91534170687635
+  llm_score: 45
+  recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 13.868061997834378
+- slug: paradise-lost-ii
+  title: Paradise Lost II
+  score: 26.880984978413224
   llm_score: 0
-  recency_score: 15.142402985923455
+  recency_score: 99.72640235968593
   length_score: 100
   category_score: 0
   rank: 9
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 12.934122358298655
-  llm_score: 0
-  recency_score: 9.071795328941251
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 24.055187058708064
+  llm_score: 20
+  recency_score: 1.3587158816024008
   length_score: 100
   category_score: 0
   rank: 10

@@ -16,85 +16,85 @@ authors:
 - admin
 alttags: Confused faces on phones arranged in a circle, symbolizing confusion surrounding O.J. French’s shooting by Bay Minette Police
 related_articles:
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 81.63097071224772
-  llm_score: 85
-  recency_score: 40.601309629610085
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 80.51272898380046
-  llm_score: 85
-  recency_score: 33.33273839470296
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 80.13174737268483
-  llm_score: 70
+  score: 89.36251660345405
+  llm_score: 85
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 84.19960985486986
+  llm_score: 75
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 83.7552239692094
+  llm_score: 75
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 74.67747971026759
-  llm_score: 75
-  recency_score: 35.40361811673922
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 72.18164377891235
-  llm_score: 70
-  recency_score: 39.1806845629302
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.47782557842054
-  llm_score: 75
-  recency_score: 1.60586625973336
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 69.46613674187057
-  llm_score: 90
-  recency_score: 16.529888822158654
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 68.70388281276576
-  llm_score: 70
+  score: 81.01157512045806
+  llm_score: 90
   recency_score: 16.575238282977313
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 4
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 78.285091375761
+  llm_score: 85
+  recency_score: 18.853093942446446
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: cover-up
+  title: COVER UP
+  score: 76.31415369217888
+  llm_score: 89
+  recency_score: 65.04199899916262
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 76.16969161537476
+  llm_score: 85
+  recency_score: 5.102995499935887
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: justified
   title: JUSTIFIED
-  score: 65.24564363703526
-  llm_score: 85
+  score: 68.32256671395834
+  llm_score: 90
   recency_score: 9.096683640729124
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 62.5852090245464
-  llm_score: 60
-  recency_score: 16.8038586595515
+  rank: 8
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 64.72938684839555
+  llm_score: 85
+  recency_score: 5.741014514570984
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 9
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 55.456117483074976
+  llm_score: 70
+  recency_score: 5.464763639987247
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 O.J. French was only 32 years old when he was shot and killed after being pulled over for a vehicle equipment violation by Bay Minette Police, August 20th of this year. Our deepest condolences to his family and friends.

@@ -13,74 +13,84 @@ authors:
 - ripp-report
 alttags: Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions
 related_articles:
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 79.33629014021759
-  llm_score: 85
-  recency_score: 99.18145070108791
+- slug: public-access
+  title: PUBLIC ACCESS
+  score: 77.21693732189854
+  llm_score: 82
+  recency_score: 98.91009259234048
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 76.64740235768714
-  llm_score: 82
-  recency_score: 96.23701178843567
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 64.37680990817654
+  llm_score: 62
+  recency_score: 95.44926440314748
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 76.32943663570214
-  llm_score: 85
-  recency_score: 84.14718317851063
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 64.33560780016738
+  llm_score: 61
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 76.14601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 58.143555300884394
+  llm_score: 61
+  recency_score: 58.93310945574846
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 69.00975554986516
-  llm_score: 75
-  recency_score: 82.54877774932578
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 58.14142214428829
+  llm_score: 69
+  recency_score: 26.919243937873805
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: who-not-to-vote-for
-  title: WHO NOT TO VOTE FOR
-  score: 67.10350242007569
-  llm_score: 85
-  recency_score: 38.0175121003784
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 55.6363215989452
+  llm_score: 63
+  recency_score: 34.63609039314372
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 61.94577589129875
-  llm_score: 85
-  recency_score: 12.22887945649371
+- slug: battle-of-weeks-family
+  title: BATTLE OF WEEKS “FAMILY”
+  score: 52.07833864017613
+  llm_score: 64
+  recency_score: 7.509201161144759
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 47.72214289777941
-  llm_score: 65
-  recency_score: 11.110714488897043
+- slug: newsletter
+  title: NEWSLETTER
+  score: 49.087245040107405
+  llm_score: 61
+  recency_score: 0.06709276069805299
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 45.697217951573315
-  llm_score: 65
-  recency_score: 0.986089757866536
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 11.638769651131042
+  llm_score: 0
+  recency_score: 0.6520027323517801
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 45.56105082601586
-  llm_score: 65
-  recency_score: 0.3052541300792452
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 0
+  llm_score: -95
+  recency_score: 67.40031139711904
+  length_score: 100
   category_score: 0
   rank: 10
 ---

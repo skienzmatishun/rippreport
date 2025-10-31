@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Falling dominoes represent former State Rep. Randy Davis seeking leniency in a corruption case indictment
 related_articles:
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 75.00151487477555
-  llm_score: 85
-  recency_score: 77.50757437387774
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 80.35904872057043
+  llm_score: 100
+  recency_score: 47.33381668370766
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-busted
-  title: CATALYST BUSTED
-  score: 72.19156694727454
-  llm_score: 85
-  recency_score: 63.45783473637261
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 59.83678706065913
+  llm_score: 62
+  recency_score: 65.93911589428427
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 68.3251698208218
-  llm_score: 90
-  recency_score: 26.62584910410898
-  category_score: 0
-  rank: 3
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 65.14053460363517
-  llm_score: 85
-  recency_score: 28.202673018175854
-  category_score: 0
-  rank: 4
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 64.61076301928003
-  llm_score: 85
-  recency_score: 25.553815096400097
-  category_score: 0
-  rank: 5
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 64.33825535238422
-  llm_score: 85
+  score: 55.87558104029556
+  llm_score: 66
   recency_score: 24.19127676192105
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 54.854433091753876
+  llm_score: 64
+  recency_score: 25.553815096400097
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 52.92138819735382
+  llm_score: 63
+  recency_score: 16.989023282799735
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 35.45505149790348
+  llm_score: 23
+  recency_score: 63.45783473637261
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 53.46601468604399
-  llm_score: 65
-  recency_score: 39.83007343021991
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 24.375765688281263
+  llm_score: 1
+  recency_score: 79.4424769738282
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 48.32799474546217
-  llm_score: 65
-  recency_score: 14.139973727310823
+- slug: rotten
+  title: ROTTEN
+  score: 17.291950031297606
+  llm_score: 0
+  recency_score: 37.39767520343444
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 48.034455570518745
-  llm_score: 65
+  score: 1.1803504388605628
+  llm_score: -20
   recency_score: 12.67227785259367
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: threesome
-  title: THREESOME
-  score: 35.87303941455374
-  llm_score: 50
-  recency_score: 4.365197072768688
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 0
+  llm_score: -100
+  recency_score: 77.50757437387774
+  length_score: 100
   category_score: 0
   rank: 10
 ---

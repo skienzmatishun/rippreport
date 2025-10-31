@@ -13,41 +13,41 @@ alttags: 'Satirical depiction: a man’s face superimposed on an Irish leprechau
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 69.66647141019288
-  llm_score: 70
+  score: 78.89724064096211
+  llm_score: 85
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 1
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 67.03987280248901
-  llm_score: 70
-  recency_score: 80.75917321617852
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 71.7304650267667
+  llm_score: 85
+  recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 2
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 64.48570578254103
-  llm_score: 70
-  recency_score: 64.15708758651667
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 68.78129713512597
+  llm_score: 85
+  recency_score: 32.0784313783187
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 62.58657438376161
-  llm_score: 70
-  recency_score: 51.81273349445037
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 66.91840050598809
+  llm_score: 85
+  recency_score: 19.9696032889225
   length_score: 100
   category_score: 0
   rank: 4
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 62.49969579599747
-  llm_score: 70
-  recency_score: 51.24802267398346
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 66.89325265249316
+  llm_score: 85
+  recency_score: 19.806142241205503
   length_score: 100
   category_score: 0
   rank: 5
@@ -67,27 +67,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 59.550527904356734
-  llm_score: 70
-  recency_score: 32.0784313783187
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 58.83811302272099
+  llm_score: 75
+  recency_score: 7.447734647686312
   length_score: 100
   category_score: 0
   rank: 8
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 57.687631275218855
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 57.91445913879813
   llm_score: 70
-  recency_score: 19.9696032889225
+  recency_score: 21.44398440218775
   length_score: 100
   category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 55.76007471428852
-  llm_score: 65
-  recency_score: 27.440485642875306
+- slug: one-woman
+  title: ONE WOMAN
+  score: 37.262593679278005
+  llm_score: 40
+  recency_score: 7.206858915306978
   length_score: 100
   category_score: 0
   rank: 10

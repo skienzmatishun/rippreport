@@ -12,62 +12,46 @@ authors:
 - admin
 alttags: Burning pants symbolize corruption and deceit by Alabama legislators detailed in this article
 related_articles:
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 70.45888265369886
-  llm_score: 95
-  recency_score: 2.9827372490425272
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65.4206195109864
-  llm_score: 85
-  recency_score: 10.234026821411552
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 65.24181466599097
-  llm_score: 85
-  recency_score: 9.071795328941251
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 64.1960238417167
-  llm_score: 85
-  recency_score: 2.274154971158409
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 61.000433168963966
-  llm_score: 75
-  recency_score: 21.50281559826569
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 58.31599169615572
-  llm_score: 75
-  recency_score: 4.053946025012058
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 26.672246404880518
-  llm_score: 0
+  score: 88.21070794334206
+  llm_score: 100
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 1
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 74.17058583629462
+  llm_score: 100
+  recency_score: 7.108807935914934
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 58.629848250770785
+  llm_score: 72
+  recency_score: 18.094013630009982
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 58.131245221914845
+  llm_score: 71
+  recency_score: 18.853093942446446
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 55.840932165608486
+  llm_score: 71
+  recency_score: 3.9660590764550863
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
   score: 16.80901370434234
@@ -75,20 +59,36 @@ related_articles:
   recency_score: 34.2585890782252
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 11.755668212556685
+  rank: 6
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 12.934122358298655
   llm_score: 0
-  recency_score: 1.4118433816184552
+  recency_score: 9.071795328941251
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 11.769663938194721
+  llm_score: -5
+  recency_score: 21.50281559826569
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 0
+  llm_score: -235678945
+  recency_score: 4.053946025012058
   length_score: 100
   category_score: 0
   rank: 9
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 11.700922600781038
-  llm_score: 0
-  recency_score: 1.0559969050767497
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 0
+  llm_score: -25
+  recency_score: 10.576079959230228
   length_score: 100
   category_score: 0
   rank: 10

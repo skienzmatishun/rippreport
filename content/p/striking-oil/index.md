@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns...
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 95.19474191901475
-  llm_score: 95
-  recency_score: 95.97370959507373
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 66.02317771146885
+  llm_score: 65
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 87.51287958944485
-  llm_score: 85
-  recency_score: 97.56439794722424
-  rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 85.74107892098586
-  llm_score: 90
-  recency_score: 68.70539460492927
-  rank: 3
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 83.45910309586523
-  llm_score: 85
-  recency_score: 77.29551547932614
-  rank: 4
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 83.35758882342884
-  llm_score: 95
-  recency_score: 36.787944117144235
-  rank: 5
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 79.66625449247667
-  llm_score: 90
-  recency_score: 38.33127246238332
-  rank: 6
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 75.62944962510568
+  score: 63.351991402637594
   llm_score: 75
-  recency_score: 78.14724812552835
+  recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 63.30785174565525
+  llm_score: 60
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 59.79157249015608
+  llm_score: 75
+  recency_score: 13.645221186014394
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 58.93286384575228
+  llm_score: 75
+  recency_score: 8.063614997389708
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 58.853916985333626
+  llm_score: 75
+  recency_score: 7.550460404668479
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 52.63813341879726
+  llm_score: 65
+  recency_score: 7.147867222182147
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 73.76552754120547
-  llm_score: 85
+  score: 43.665790416311914
+  llm_score: 45
   recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 69.61272299947794
-  llm_score: 85
-  recency_score: 8.063614997389708
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 38.94573048085052
+  llm_score: 25
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 68.3744301839039
-  llm_score: 85
-  recency_score: 1.8721509195194928
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 25.02728107416711
+  llm_score: 0
+  recency_score: 87.6773269820862
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to tell the citizens of the county or the relatives of Mabel Amos.

@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Shovel illustration symbolizing empty promises and lack of progress from Baldwin County Economic Development Alliance init...
 related_articles:
-- slug: mega-mistake
-  title: MEGA-MISTAKE
-  score: 85.6478106964193
-  llm_score: 92
-  recency_score: 60.23905348209645
-  rank: 1
-- slug: for-the-record-mega-money
-  title: FOR THE RECORD — MEGA-MONEY
-  score: 85.2262621791403
-  llm_score: 92
-  recency_score: 58.1313108957015
-  rank: 2
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 83.77061878848929
-  llm_score: 100
-  recency_score: 18.853093942446446
-  rank: 3
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 78.95471886159174
-  llm_score: 95
+  score: 75.34978373968598
+  llm_score: 100
   recency_score: 14.773594307958726
-  rank: 4
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 76.32297651271782
-  llm_score: 85
-  recency_score: 41.61488256358909
-  rank: 5
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: dead-last
   title: DEAD LAST
-  score: 75.37777423965625
-  llm_score: 85
+  score: 67.67521095358174
+  llm_score: 82
   recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 65.9407511636291
+  llm_score: 78
+  recency_score: 41.61488256358909
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 64.47296013126491
+  llm_score: 71
+  recency_score: 60.07424085322191
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 63.05432214499177
+  llm_score: 79
+  recency_score: 18.853093942446446
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 20.80600822801484
+  llm_score: 0
+  recency_score: 60.23905348209645
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: mega-lost-opportunity
   title: MEGA — LOST OPPORTUNITY
-  score: 73.58208875718051
-  llm_score: 90
+  score: 12.755452890138855
+  llm_score: 0
   recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 73.53339065902054
-  llm_score: 85
-  recency_score: 27.666953295102704
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 12.319247745877487
+  llm_score: 0
+  recency_score: 5.075110348203666
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 68.71087830240542
-  llm_score: 85
-  recency_score: 3.554391512027108
+- slug: for-the-record-mega-money
+  title: FOR THE RECORD — MEGA-MONEY
+  score: 0
+  llm_score: -100
+  recency_score: 58.1313108957015
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 66.07359964556152
-  llm_score: 75
-  recency_score: 30.367998227807558
+- slug: knock-on-doors
+  title: KNOCK ON DOORS
+  score: 0
+  llm_score: -100
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Here we go again, a lot of hot air and no results. Baldwin County Economic Development Alliance, BCEDA, sounds important doesn’t it? The CEO Lee Lawson sure can blow smoke when it comes to the mega site or when he is recruited by politicians that want a “third party” to back up one of their schemes.

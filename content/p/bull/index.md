@@ -11,83 +11,83 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 83.82555503801922
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 74.45938937267742
   llm_score: 95
-  recency_score: 89.86610774712484
+  recency_score: 28.986030922403184
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 65.84988665357434
-  llm_score: 85
-  recency_score: 13.024263248233176
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 65.83893732129168
-  llm_score: 85
+  score: 71.99278347513783
+  llm_score: 95
   recency_score: 12.953092588395847
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 71.98142135281624
+  llm_score: 90
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 64.63338391981861
-  llm_score: 85
-  recency_score: 5.11699547882092
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 69.9204958801979
+  llm_score: 90
+  recency_score: 19.483223221286327
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 64.43014767244689
-  llm_score: 85
-  recency_score: 3.795959870904708
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 67.20254948238492
+  llm_score: 90
+  recency_score: 1.8165716355019172
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 63.96470800151084
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 65.550817820959
   llm_score: 85
-  recency_score: 0.7706020098203834
+  recency_score: 11.080315836233387
   length_score: 100
   category_score: 0
   rank: 6
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 63.87579217726493
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 64.8646218242545
   llm_score: 85
-  recency_score: 0.19264915222194337
+  recency_score: 6.620041857654132
   length_score: 100
   category_score: 0
   rank: 7
-- slug: good-ole-boys-alive-and-well
-  title: GOOD OLE BOYS ALIVE AND WELL
-  score: 63.87467689035911
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 64.6058390256737
   llm_score: 85
-  recency_score: 0.18539978733415308
+  recency_score: 4.937953666878992
   length_score: 100
   category_score: 0
   rank: 8
-- slug: going-down
-  title: GOING DOWN
-  score: 58.03272232548547
-  llm_score: 75
-  recency_score: 2.212695115655463
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 63.87886442803671
+  llm_score: 85
+  recency_score: 0.2126187822384949
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 54.7927318502038
-  llm_score: 70
-  recency_score: 1.152757026324628
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 63.85848780283954
+  llm_score: 85
+  recency_score: 0.0801707184569117
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Capital Police blocking a school choir from singing the National Anthem, referenced in recent events discussed
 related_articles:
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 81.10666412807008
-  llm_score: 85
-  recency_score: 37.193316832455444
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 70.01509531846314
+  llm_score: 75
+  recency_score: 80.0981195700103
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 74.46495735393289
-  llm_score: 100
-  recency_score: 9.02222280056368
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 64.1651452535409
+  llm_score: 75
+  recency_score: 42.0734441480158
   length_score: 100
   category_score: 0
   rank: 2
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 73.8250809909177
-  llm_score: 70
-  recency_score: 49.86302644096496
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 60.37860164148978
+  llm_score: 75
+  recency_score: 17.460910669683468
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 71.64550859777793
-  llm_score: 70
-  recency_score: 35.69580588555647
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 59.690558334048895
+  llm_score: 75
+  recency_score: 12.988629171317715
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 4
-- slug: hanky-panky-at-the-po-po
-  title: Hanky Panky at the Po Po
-  score: 71.57079326236678
-  llm_score: 70
-  recency_score: 35.21015620538397
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 58.2779036954471
+  llm_score: 75
+  recency_score: 3.806374020406067
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 5
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 66.18562713706199
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 57.42975302982941
   llm_score: 70
-  recency_score: 75.2065763909028
+  recency_score: 18.293394693891102
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 59.12608701878488
-  llm_score: 65
-  recency_score: 49.31956562210165
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 57.221929494767025
+  llm_score: 70
+  recency_score: 16.942541715985588
   length_score: 100
   category_score: 0
   rank: 7
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 56.35340437618003
-  llm_score: 65
-  recency_score: 31.297128445170113
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 53.32953798668637
+  llm_score: 60
+  recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 56.20719958953669
-  llm_score: 70
-  recency_score: 10.34679733198841
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 46.51775524948704
+  llm_score: 50
+  recency_score: 27.365409121665678
   length_score: 100
   category_score: 0
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 48.886535496431684
-  llm_score: 60
-  recency_score: 2.76248072680588
+- slug: what-the
+  title: What the
+  score: 18.28284767143795
+  llm_score: 0
+  recency_score: 43.83850986434665
   length_score: 100
   category_score: 0
   rank: 10

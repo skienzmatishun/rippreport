@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: 'Fairhope facing crises: Car crash icon symbolizes issues like COVID, festival concerns, and council inaction'
 related_articles:
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 79.40376925538233
-  llm_score: 87
-  recency_score: 93.12450015998506
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 83.30512532305151
+  llm_score: 100
+  recency_score: 66.48331459983474
   length_score: 100
   category_score: 0
   rank: 1
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 76.72113286965288
-  llm_score: 85
-  recency_score: 83.68736365274363
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 71.40376925538233
+  llm_score: 74
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 2
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 68.82202711084888
-  llm_score: 85
-  recency_score: 32.34317622051765
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: catalyst-party
   title: CATALYST PARTY
-  score: 39.7085570386184
-  llm_score: 23
+  score: 68.63163396169533
+  llm_score: 70
   recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: tick-tock
+  title: TICK-TOCK
+  score: 58.93514328897212
+  llm_score: 69
+  recency_score: 32.0784313783187
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 24.95357186171603
-  llm_score: 0
-  recency_score: 87.19821710115417
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 54.23775964641326
+  llm_score: 69
+  recency_score: 1.5454377016861052
   length_score: 100
   category_score: 0
   rank: 5
-- slug: going-down
-  title: GOING DOWN
-  score: 21.822862557032828
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 16.881709830958812
   llm_score: 0
-  recency_score: 66.84860662071335
+  recency_score: 34.73111390123228
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 17.88834526678796
+- slug: free-speech
+  title: FREE SPEECH
+  score: 12.785833917406189
   llm_score: 0
-  recency_score: 41.27424423412174
+  recency_score: 8.107920463140223
   length_score: 100
   category_score: 0
   rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 16.059358761600414
-  llm_score: 0
-  recency_score: 29.385831950402675
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 12.695449018529592
+  llm_score: -2
+  recency_score: 15.520418620442342
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 15.120147979868163
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 12.526693855308865
   llm_score: 0
-  recency_score: 23.280961869143056
+  recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 12.011384028983901
-  llm_score: 0
-  recency_score: 3.073996188395355
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 0
+  llm_score: -100
+  recency_score: 14.977364814082216
   length_score: 100
   category_score: 0
   rank: 10

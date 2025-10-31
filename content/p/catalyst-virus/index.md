@@ -8,85 +8,85 @@ authors:
 - admin
 alttags: Mask with a red no symbol over the word CATALYST, representing the political virus impacting Baldwin County
 related_articles:
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 78.5306560620227
-  llm_score: 85
-  recency_score: 95.44926440314748
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 85.63831884703131
+  llm_score: 100
+  recency_score: 81.64907250570349
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 76.1240218832624
-  llm_score: 100
-  recency_score: 19.806142241205503
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 70.01685066683008
+  llm_score: 72
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 2
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 68.58576682596589
-  llm_score: 75
-  recency_score: 70.80748436877823
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 58.1757543055267
+  llm_score: 72
+  recency_score: 15.142402985923455
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 66.54720761516857
-  llm_score: 85
-  recency_score: 17.55684949859567
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 57.335793324867105
+  llm_score: 71
+  recency_score: 13.682656611636107
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 65.4921187806396
-  llm_score: 83
-  recency_score: 18.69877207415731
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 24.992194523561153
+  llm_score: -2
+  recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 61.3817777398132
-  llm_score: 65
-  recency_score: 63.98155530878573
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 22.61247114403175
+  llm_score: 0
+  recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 59.84988170330764
-  llm_score: 75
-  recency_score: 14.024231071499566
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 21.38177773981319
+  llm_score: 0
+  recency_score: 63.98155530878573
   length_score: 100
   category_score: 0
   rank: 7
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 21.572375474708814
-  llm_score: 0
+  score: 20.34160624393958
+  llm_score: -2
   recency_score: 65.22044058560728
   length_score: 100
   category_score: 0
   rank: 8
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 14.704705740887473
+- slug: last-chance
+  title: LAST CHANCE
+  score: 13.201606682503392
   llm_score: 0
-  recency_score: 20.580587315768575
+  recency_score: 10.810443436272047
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 14.188207838279643
-  llm_score: 0
-  recency_score: 17.223350948817675
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 0
+  llm_score: -50
+  recency_score: 16.48466343639469
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 10
 ---
 Beware of the Baldwin County CATALYST VIRUS. It is a political Virus spread by politicians that support unbridled development, low or no impact fees, no school impact fees, increased traffic and no planning or county sewer regulation. This virus will effect your quality of life, schools and property values.

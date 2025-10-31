@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct...
 related_articles:
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 86.89110786700317
-  llm_score: 84
-  recency_score: 78.79220113552056
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 72.81396817388097
-  llm_score: 85
-  recency_score: 58.29079313022616
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 68.63713996263937
-  llm_score: 86
-  recency_score: 27.14140975715586
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 66.73869420342982
-  llm_score: 85
-  recency_score: 18.801512322293714
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 64.22495586808593
-  llm_score: 85
-  recency_score: 2.4622131425584706
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 64.20970419862321
-  llm_score: 85
-  recency_score: 2.363077291050805
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 63.97647155997326
-  llm_score: 82
-  recency_score: 12.847065139826096
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 26.630840726595785
-  llm_score: 0
+  score: 72.78468688044195
+  llm_score: 75
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 72.4980018136055
+  llm_score: 75
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 71.67020891114637
+  llm_score: 75
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 64.44876284168362
+  llm_score: 65
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 63.36751864588943
+  llm_score: 75
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 63.30785174565525
+  llm_score: 60
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 49.62953020719442
+  llm_score: 60
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 37.25252457802399
+  llm_score: 35
+  recency_score: 27.14140975715586
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 25.865307716920782
-  llm_score: 0
-  recency_score: 93.12450015998506
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 34.17058583629461
+  llm_score: 35
+  recency_score: 7.108807935914934
   length_score: 100
   category_score: 0
   rank: 9
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 14.722102643407467
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 16.86709082971442
   llm_score: 0
-  recency_score: 20.693667182148534
+  recency_score: 34.63609039314372
   length_score: 100
   category_score: 0
   rank: 10

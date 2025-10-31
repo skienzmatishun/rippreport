@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Metallic trash can icon symbolizing disposal of land, referencing Fairhope council’s controversial sale of 106 acres
 related_articles:
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 80.66149687375565
-  llm_score: 95
-  recency_score: 70.80748436877823
+- slug: honey-bees
+  title: HONEY BEES
+  score: 84.15093268249329
+  llm_score: 100
+  recency_score: 71.98106243620636
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 79.39071065521195
-  llm_score: 85
-  recency_score: 99.45355327605971
-  category_score: 0
-  rank: 2
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 73.12860141581518
-  llm_score: 85
-  recency_score: 68.14300707907584
-  category_score: 0
-  rank: 3
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 72.83314208208326
-  llm_score: 85
+  score: 83.33318621698713
+  llm_score: 100
   recency_score: 66.66571041041625
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 80.0048093062938
+  llm_score: 87
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 77.34017350619996
+  llm_score: 83
+  recency_score: 95.71112779029973
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 68.58560395285724
-  llm_score: 85
-  recency_score: 45.42801976428615
-  category_score: 0
-  rank: 5
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 67.70974049573466
-  llm_score: 85
-  recency_score: 41.04870247867326
-  category_score: 0
-  rank: 6
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE
-  score: 67.52312487593503
-  llm_score: 70
+  score: 75.01778836610387
+  llm_score: 80
   recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 64.19128375348852
+  llm_score: 81
+  recency_score: 18.243344397675273
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 25.317599684188345
+  llm_score: -2
+  recency_score: 97.56439794722424
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 66.83745863402395
-  llm_score: 85
-  recency_score: 36.68729317011966
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 23.462703749827348
+  llm_score: 0
+  recency_score: 77.50757437387774
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 65.62372535653473
-  llm_score: 85
-  recency_score: 30.618626782673648
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 22.022001089088594
+  llm_score: 0
+  recency_score: 68.14300707907584
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: re-gift-gift
-  title: RE-GIFT GIFT ??
-  score: 47.93908430617279
-  llm_score: 65
-  recency_score: 12.195421530863895
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 20.02810887813135
+  llm_score: 0
+  recency_score: 55.18270770785375
+  length_score: 100
   category_score: 0
   rank: 10
 ---

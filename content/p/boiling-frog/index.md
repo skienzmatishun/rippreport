@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: A frog sits on a pot handle, illustrating the boiling frog fable about gradual unnoticed danger
 related_articles:
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 66.9795350406869
-  llm_score: 85
-  recency_score: 37.39767520343444
+- slug: going-down
+  title: GOING DOWN
+  score: 100
+  llm_score: 256
+  recency_score: 47.33381668370766
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: fact-and-fiction-a-b-c
-  title: FACT and FICTION A B C
-  score: 66.0913138839337
-  llm_score: 75
-  recency_score: 67.95656941966844
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 78.31867448315987
+  llm_score: 100
+  recency_score: 34.071384140539074
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 62.9921821339367
-  llm_score: 85
-  recency_score: 17.460910669683468
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 76.26056418186901
+  llm_score: 100
+  recency_score: 20.693667182148534
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: pot-calling-the-kettle-black
-  title: POT CALLING THE KETTLE BLACK
-  score: 60.40966517626256
-  llm_score: 85
-  recency_score: 4.548325881312761
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 64.73996410015113
+  llm_score: 77
+  recency_score: 37.809766650982276
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 55.32799474546217
-  llm_score: 75
-  recency_score: 14.139973727310823
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 62.16154776484588
+  llm_score: 70
+  recency_score: 49.0500604714981
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: cut-the-head-off-the-snake
-  title: CUT THE HEAD OFF THE SNAKE
-  score: 50.784777785184964
-  llm_score: 70
-  recency_score: 8.92388892592479
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 55.79107644822483
+  llm_score: 64
+  recency_score: 31.641996913461323
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: the-big-lie
-  title: THE BIG LIE
-  score: 48.22157763656677
-  llm_score: 65
-  recency_score: 13.607888182833822
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 51.33886029495834
+  llm_score: 64
+  recency_score: 2.7025919172291193
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 47.25087530153704
-  llm_score: 65
-  recency_score: 8.754376507685183
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 24.323941654003015
+  llm_score: -2
+  recency_score: 91.10562075101957
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 43.220414705703014
-  llm_score: 55
-  recency_score: 23.60207352851503
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 18.820587182108873
+  llm_score: 0
+  recency_score: 47.33381668370766
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 34.79693268727894
-  llm_score: 45
-  recency_score: 16.48466343639469
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 0
+  llm_score: -100
+  recency_score: 20.750439896058943
+  length_score: 100
   category_score: 0
   rank: 10
 ---

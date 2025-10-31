@@ -13,72 +13,82 @@ alttags: American flag waving against a dark background; reflects the upcoming m
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 80.68513651399792
-  llm_score: 92
+  score: 100
+  llm_score: 2348
   recency_score: 81.42568256998956
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 79.17560790070712
-  llm_score: 89
-  recency_score: 84.37803950353559
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 72.11946750651856
+  llm_score: 77
+  recency_score: 85.7765387923706
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 74.79061318606568
-  llm_score: 85
-  recency_score: 76.45306593032835
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 71.9399275659769
+  llm_score: 77
+  recency_score: 84.60952917884977
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 72.68782317885686
-  llm_score: 85
-  recency_score: 65.93911589428427
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 70.60260899552978
+  llm_score: 75
+  recency_score: 83.91695847094347
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 68.2139847791858
-  llm_score: 80
-  recency_score: 61.06992389592894
+- slug: catalyst-held-back
+  title: CATALYST HELD BACK
+  score: 70.06970245081976
+  llm_score: 76
+  recency_score: 76.45306593032835
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 64.48197582956219
-  llm_score: 75
-  recency_score: 59.9098791478109
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 65.99063321450528
+  llm_score: 72
+  recency_score: 65.93911589428427
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 63.277330076362745
-  llm_score: 65
-  recency_score: 88.88665038181365
+- slug: last-chance
+  title: LAST CHANCE
+  score: 58.074235985606926
+  llm_score: 75
+  recency_score: 2.48253390644493
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: qualification
-  title: QUALIFICATION
-  score: 62.97673339221255
-  llm_score: 75
-  recency_score: 52.383666961062694
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 24.807359580557183
+  llm_score: 0
+  recency_score: 86.24783727362167
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 62.43857289717094
-  llm_score: 85
-  recency_score: 14.692864485854656
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 22.70386547971357
+  llm_score: 0
+  recency_score: 72.57512561813819
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 55.49547296281645
-  llm_score: 75
-  recency_score: 14.977364814082216
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 13.192318742805625
+  llm_score: -2
+  recency_score: 18.75007182823656
+  length_score: 100
   category_score: 0
   rank: 10
 ---

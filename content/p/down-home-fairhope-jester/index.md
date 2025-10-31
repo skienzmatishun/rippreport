@@ -8,83 +8,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: the-jester
-  title: THE JESTER
-  score: 86.02264356592472
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 86.60274895305876
   llm_score: 100
-  recency_score: 84.14718317851063
+  recency_score: 87.91786819488183
   length_score: 100
   category_score: 0
   rank: 1
-- slug: going-down
-  title: GOING DOWN
-  score: 74.74713198806944
-  llm_score: 80
-  recency_score: 90.85635792245131
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 77.17530414045775
+  llm_score: 82
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 73.36415827058164
-  llm_score: 100
-  recency_score: 1.867028758780569
+- slug: honey-bees
+  title: HONEY BEES
+  score: 76.90303288076817
+  llm_score: 83
+  recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 63.47740867996748
-  llm_score: 75
-  recency_score: 37.60315641978851
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 76.05470268119963
+  llm_score: 82
+  recency_score: 91.35556742779755
   length_score: 100
   category_score: 0
   rank: 4
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 20.240044819139534
-  llm_score: 0
-  recency_score: 56.56029132440696
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 73.5686977699388
+  llm_score: 83
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 19.686291021882145
+- slug: documents
+  title: DOCUMENTS
+  score: 26.42550542335992
   llm_score: 0
-  recency_score: 52.96089164223393
+  recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 17.435580378828206
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 26.10276386439366
   llm_score: 0
-  recency_score: 38.33127246238332
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 15.913143236860472
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 24.771056188618328
   llm_score: 0
-  recency_score: 28.435431039593066
+  recency_score: 86.01186522601911
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 15.437637618782034
+- slug: disposal
+  title: DISPOSAL
+  score: 23.462703749827348
   llm_score: 0
-  recency_score: 25.34464452208322
+  recency_score: 77.50757437387774
   length_score: 100
   category_score: 0
   rank: 9
-- slug: hate
-  title: HATE
-  score: 13.266637749603731
+- slug: in-your-face
+  title: IN YOUR FACE
+  score: 14.837536061875038
   llm_score: 0
-  recency_score: 11.233145372424257
+  recency_score: 21.44398440218775
   length_score: 100
   category_score: 0
   rank: 10

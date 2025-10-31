@@ -12,72 +12,82 @@ alttags: Map of Alabama marked as “Last Place” in education rankings, overla
 related_articles:
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 81.88179115997222
-  llm_score: 90
+  score: 68.52445473844017
+  llm_score: 69
   recency_score: 94.40895579986105
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 79.12009294457452
-  llm_score: 85
-  recency_score: 98.10046472287257
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 54.85489992286089
+  llm_score: 66
+  recency_score: 17.55684949859567
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 67.1423487549181
-  llm_score: 95
-  recency_score: 3.2117437745905466
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 53.58099295060205
+  llm_score: 65
+  recency_score: 13.276454178913294
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 66.80404818212301
-  llm_score: 95
-  recency_score: 1.5202409106150827
-  category_score: 0
-  rank: 4
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 64.95366066397163
-  llm_score: 90
-  recency_score: 9.768303319858143
-  category_score: 0
-  rank: 5
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 64.33825535238422
-  llm_score: 85
-  recency_score: 24.19127676192105
-  category_score: 0
-  rank: 6
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 63.854112480242904
-  llm_score: 90
+  score: 51.58008652326378
+  llm_score: 64
   recency_score: 4.270562401214489
+  length_score: 100
   category_score: 0
-  rank: 7
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 60.313013591002836
-  llm_score: 85
-  recency_score: 4.065067955014141
-  category_score: 0
-  rank: 8
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 56.49392065778451
-  llm_score: 75
-  recency_score: 19.9696032889225
-  category_score: 0
-  rank: 9
+  rank: 4
 - slug: reading-in-the-rain
   title: READING IN THE RAIN
-  score: 50.73834833895516
-  llm_score: 65
+  score: 15.567960260734736
+  llm_score: 0
   recency_score: 26.19174169477578
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 13.28057591295431
+  llm_score: -2
+  recency_score: 19.323743434203013
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 12.71609277635907
+  llm_score: 0
+  recency_score: 7.654603046333945
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 12.685162042470724
+  llm_score: -23
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 11.750959311235688
+  llm_score: 0
+  recency_score: 1.3812355230319726
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 11.246225341980395
+  llm_score: -25
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 10
 ---

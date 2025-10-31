@@ -16,65 +16,85 @@ authors:
 - ripp-report
 alttags: Fairhope’s iconic downtown clock tower and patio, a popular tourist attraction and central landmark in the city
 related_articles:
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 79.6287308479754
-  llm_score: 95
-  recency_score: 18.143654239877034
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 78.86202406458285
+  llm_score: 100
+  recency_score: 37.60315641978851
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: stepping-up
-  title: STEPPING UP
-  score: 79.62009294457451
-  llm_score: 75
-  recency_score: 98.10046472287257
+- slug: full-plate
+  title: FULL PLATE
+  score: 66.38729511792643
+  llm_score: 72
+  recency_score: 68.51741826652172
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 72.7986518471177
-  llm_score: 85
-  recency_score: 23.99325923558846
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 54.71676337071286
+  llm_score: 68
+  recency_score: 8.658961909633518
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 70.5631983784823
-  llm_score: 75
-  recency_score: 52.81599189241148
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 30.195146895108437
+  llm_score: 25
+  recency_score: 21.268454818204823
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 70.23930710092043
-  llm_score: 70
-  recency_score: 71.19653550460211
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 22.342752338753897
+  llm_score: 0
+  recency_score: 70.22789020190031
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 67.10014946474215
-  llm_score: 75
-  recency_score: 35.500747323710755
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 16.473604827433647
+  llm_score: 0
+  recency_score: 32.0784313783187
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: survey
-  title: SURVEY
-  score: 67.0420312410768
-  llm_score: 75
-  recency_score: 35.21015620538397
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 16.331345202416514
+  llm_score: 2
+  recency_score: 23.153743815707337
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 61.39858120946477
-  llm_score: 75
-  recency_score: 6.992906047323852
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 12.86472494757668
+  llm_score: -2
+  recency_score: 16.62071215924841
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: s-o-s
-  title: S.O.S
-  score: 58.03005125332288
-  llm_score: 70
-  recency_score: 10.150256266614415
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 10.247107665986283
+  llm_score: -25
+  recency_score: 91.60619982891085
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 52.19721795157331
-  llm_score: 65
-  recency_score: 0.986089757866536
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 3.5973420114744314
+  llm_score: -25
+  recency_score: 48.38272307458382
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The two most photographed places in Fairhope, are the Pier and the Downtown Clock. The Clock and adjoining patio are subjects of photography by tourists and locals daily. It is not only an iconic location, it is the soul of downtown. Change it and you have changed Fairhope. It is a TOURIST ATTRACTION.

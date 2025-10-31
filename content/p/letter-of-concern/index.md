@@ -10,83 +10,83 @@ authors:
 - admin
 alttags: Logos for City of Faux and Mobile Baykeeper, referenced in a mayoral dispute over news releases and transparency
 related_articles:
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 76.50499556390562
+- slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  score: 87.80171196773843
   llm_score: 100
-  recency_score: 22.28247116538646
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 65.21367249204327
-  llm_score: 78
-  recency_score: 36.88887119828122
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 73.48299644815008
+  llm_score: 76
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 64.18290337015783
-  llm_score: 75
-  recency_score: 42.18887190602582
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 61.3217318713447
+  llm_score: 74
+  recency_score: 27.591257163740508
   length_score: 100
   category_score: 0
   rank: 3
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 63.88387286266271
-  llm_score: 85
-  recency_score: 0.2451736073075349
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 61.20595873624372
+  llm_score: 75
+  recency_score: 22.8387317855841
   length_score: 100
   category_score: 0
   rank: 4
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 63.724088675523525
-  llm_score: 66
-  recency_score: 75.2065763909028
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 59.48314463724196
+  llm_score: 75
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 5
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 29.03902328915494
-  llm_score: 0
-  recency_score: 38.75365137950711
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 54.696837715643184
+  llm_score: 70
+  recency_score: 0.5294451516806106
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
-- slug: documents
-  title: DOCUMENTS
-  score: 25.06428741459721
-  llm_score: 0
-  recency_score: 87.91786819488183
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 32.37746973477842
+  llm_score: 9
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 7
-- slug: communication
-  title: COMMUNICATION
-  score: 20.856928686466567
+- slug: wetlands
+  title: WETLANDS
+  score: 14.01279425159149
   llm_score: 0
-  recency_score: 60.57003646203266
+  recency_score: 16.083162635344685
   length_score: 100
   category_score: 0
   rank: 8
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 11.669663749188986
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 13.979130383779554
   llm_score: 0
-  recency_score: 0.8528143697284161
+  recency_score: 15.864347494567099
   length_score: 100
   category_score: 0
   rank: 9
-- slug: newsletter
-  title: NEWSLETTER
-  score: 11.574761192825644
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 11.819469657429632
   llm_score: 0
-  recency_score: 0.23594775336668541
+  recency_score: 1.8265527732926155
   length_score: 100
   category_score: 0
   rank: 10

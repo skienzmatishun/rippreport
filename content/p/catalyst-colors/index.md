@@ -10,72 +10,82 @@ alttags: 'Controversial land purchase: Glasses obscuring CATALYST, suggesting qu
 related_articles:
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 86.06641283325074
-  llm_score: 95
+  score: 81.97416371788519
+  llm_score: 90
   recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 79.03013102490951
-  llm_score: 86
-  recency_score: 94.15065512454748
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 80.66454855724642
+  llm_score: 100
+  recency_score: 49.31956562210165
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 75.30167323219754
-  llm_score: 85
-  recency_score: 79.0083661609877
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 77.20867044960791
+  llm_score: 84
+  recency_score: 90.85635792245131
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 69.46863524410354
-  llm_score: 90
-  recency_score: 32.34317622051765
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 76.58080751954115
+  llm_score: 85
+  recency_score: 82.7752488770174
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 68.73619065458044
-  llm_score: 85
-  recency_score: 46.18095327290216
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 71.95178140406868
+  llm_score: 82
+  recency_score: 64.6865791264464
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst
-  title: CATALYST
-  score: 67.29331659914375
-  llm_score: 85
-  recency_score: 38.96658299571869
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 26.023177711468847
+  llm_score: 0
+  recency_score: 94.15065512454748
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 66.22156701864765
-  llm_score: 85
-  recency_score: 33.60783509323819
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 24.771056188618328
+  llm_score: 0
+  recency_score: 86.01186522601911
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 66.05785639436277
-  llm_score: 85
-  recency_score: 32.789281971813786
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 23.561115096235135
+  llm_score: 0
+  recency_score: 78.14724812552835
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 64.23336508087174
-  llm_score: 85
-  recency_score: 23.666825404358608
+- slug: disposal
+  title: DISPOSAL
+  score: 21.79472467852558
+  llm_score: 0
+  recency_score: 66.66571041041625
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 63.7420529655382
-  llm_score: 85
-  recency_score: 21.21026482769095
+- slug: honey-bees
+  title: HONEY BEES
+  score: 10.40240375071924
+  llm_score: -25
+  recency_score: 92.61562437967505
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -20,75 +20,75 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 78.65290648399927
-  llm_score: 90
-  recency_score: 76.2438921459952
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 72.82609255872669
+  llm_score: 75
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 71.13331711323976
-  llm_score: 95
-  recency_score: 7.366561236058354
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 72.53862097642448
+  llm_score: 75
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 3
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 65.05649498845929
-  llm_score: 85
-  recency_score: 7.867217424985351
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 71.07071459027225
+  llm_score: 75
+  recency_score: 86.95964483676948
   length_score: 100
   category_score: 0
   rank: 4
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 38.52506220270894
-  llm_score: 25
-  recency_score: 75.41290431760807
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 69.42213725323005
+  llm_score: 75
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 5
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 36.00492378516369
-  llm_score: 23
-  recency_score: 67.03200460356393
+- slug: writ-of-mandamus-update
+  title: 'WRIT OF MANDAMUS: UPDATE'
+  score: 69.29429297193971
+  llm_score: 75
+  recency_score: 75.41290431760807
   length_score: 100
   category_score: 0
   rank: 6
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 26.548368914957578
-  llm_score: 0
-  recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 19.230769230769234
-  llm_score: 0
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 17.06029787616201
-  llm_score: 0
+  score: 53.983374799238945
+  llm_score: 60
   recency_score: 35.89193619505306
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 13.979130383779554
+  rank: 7
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 44.35582736903109
+  llm_score: 50
+  recency_score: 13.312877898702032
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 15.865463256968098
   llm_score: 0
-  recency_score: 15.864347494567099
+  recency_score: 28.125511170292626
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 12.671778651701285
+  llm_score: 0
+  recency_score: 7.366561236058354
   length_score: 100
   category_score: 0
   rank: 10

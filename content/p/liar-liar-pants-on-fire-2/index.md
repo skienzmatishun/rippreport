@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 82.69981196143475
-  llm_score: 95
-  recency_score: 82.54877774932578
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 58.19875721411726
+  llm_score: 75
+  recency_score: 3.2919218917620787
   length_score: 100
   category_score: 0
   rank: 1
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 78.69246713027063
-  llm_score: 85
-  recency_score: 96.50103634675902
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 57.78623236917079
+  llm_score: 75
+  recency_score: 0.6105103996100243
   length_score: 100
   category_score: 0
   rank: 2
-- slug: crazy
-  title: CRAZY
-  score: 77.4781366435129
-  llm_score: 85
-  recency_score: 13.607888182833822
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 57.769629234764075
+  llm_score: 75
+  recency_score: 0.5025900259663989
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 77.33337743001582
-  llm_score: 100
-  recency_score: 27.666953295102704
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 54.439995591404845
+  llm_score: 60
+  recency_score: 38.85997134413138
   length_score: 100
   category_score: 0
   rank: 4
-- slug: cover-up
-  title: COVER UP
-  score: 76.48626297410621
-  llm_score: 100
-  recency_score: 22.160709331690267
+- slug: fairness
+  title: FAIRNESS
+  score: 51.72173627173387
+  llm_score: 65
+  recency_score: 1.1912857662700727
   length_score: 100
   category_score: 0
   rank: 5
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 70.21345836940752
-  llm_score: 85
-  recency_score: 41.38747940114875
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 48.64182508655006
+  llm_score: 60
+  recency_score: 1.1718630625752924
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-big-lie
-  title: THE BIG LIE
-  score: 65.55504758357537
-  llm_score: 75
-  recency_score: 51.107809293239825
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 48.53739125401906
+  llm_score: 60
+  recency_score: 0.49304315112384334
   length_score: 100
   category_score: 0
   rank: 7
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 58.60096553259222
-  llm_score: 70
-  recency_score: 25.906275961849367
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 39.49461635575906
+  llm_score: 45
+  recency_score: 1.7150063124338188
   length_score: 100
   category_score: 0
   rank: 8
-- slug: joke
-  title: JOKE LLP
-  score: 42.525494884498144
-  llm_score: 50
-  recency_score: 1.4157167492379013
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 36.678658675019214
+  llm_score: 40
+  recency_score: 3.4112813876248462
   length_score: 100
   category_score: 0
   rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 23.76038107289665
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 11.618806450485978
   llm_score: 0
-  recency_score: 79.4424769738282
+  recency_score: 0.522241928158863
   length_score: 100
   category_score: 0
   rank: 10

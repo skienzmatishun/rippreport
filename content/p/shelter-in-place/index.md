@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Stay home icon representing public health guidance amid rising COVID-19 cases and debate over shelter-in-place orders
 related_articles:
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 81.82663641034411
-  llm_score: 95
-  recency_score: 76.87313666723661
+- slug: 4-20
+  title: 4-20
+  score: 63.761425292791934
+  llm_score: 61
+  recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 1
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 78.69246713027063
-  llm_score: 85
-  recency_score: 96.50103634675902
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 62.90541571970801
+  llm_score: 75
+  recency_score: 33.88520217810198
   length_score: 100
   category_score: 0
   rank: 2
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 78.61133993770366
-  llm_score: 85
-  recency_score: 95.97370959507373
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 54.37044667737508
+  llm_score: 63
+  recency_score: 26.407903402937905
   length_score: 100
   category_score: 0
   rank: 3
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 69.73043650363411
-  llm_score: 73
-  recency_score: 86.24783727362167
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 54.35865730190514
+  llm_score: 60
+  recency_score: 38.33127246238332
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 63.17018458906322
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 52.25185381492982
   llm_score: 61
-  recency_score: 91.60619982891085
+  recency_score: 20.63704979704373
   length_score: 100
   category_score: 0
   rank: 5
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 59.12238699681942
-  llm_score: 58
-  recency_score: 77.29551547932614
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 51.70497989698108
+  llm_score: 61
+  recency_score: 17.082369330376963
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 57.32675716016808
-  llm_score: 68
-  recency_score: 25.623921541092447
+- slug: april-fool
+  title: APRIL FOOL
+  score: 26.839008196316883
+  llm_score: 0
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 7
-- slug: exposure-2
-  title: EXPOSURE
-  score: 51.01410296610644
-  llm_score: 57
-  recency_score: 28.59166927969179
-  length_score: 100
+- slug: dark-wednesday
+  title: DARK WEDNESDAY
+  score: 24.374667272864876
+  llm_score: 0
+  recency_score: 86.24783727362167
+  length_score: 96.25
   category_score: 0
   rank: 8
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 21.993318372256688
-  llm_score: 0
-  recency_score: 67.95656941966844
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: take-a-chance
   title: “TAKE A CHANCE”
   score: 19.75353545180493
   llm_score: 0
   recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 15.545941196975658
+  llm_score: 0
+  recency_score: 26.048617780341775
   length_score: 100
   category_score: 0
   rank: 10

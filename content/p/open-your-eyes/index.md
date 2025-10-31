@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Cartoon eyes suggesting someone is being manipulated or controlled, referencing the article’s claim about Governor Ivey
 related_articles:
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 87.72789538259508
-  llm_score: 85
-  recency_score: 98.63947691297537
+- slug: banned-from-the-mall
+  title: BANNED FROM THE MALL
+  score: 100
+  llm_score: 200000100367
+  recency_score: 48.51546022895776
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: insanity
-  title: INSANITY
-  score: 84.82943663570212
-  llm_score: 85
-  recency_score: 84.14718317851063
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 84.55245745955682
+  llm_score: 100
+  recency_score: 74.59097348711927
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fear
-  title: FEAR
-  score: 83.80167323219754
-  llm_score: 85
-  recency_score: 79.0083661609877
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 59.753535451804936
+  llm_score: 65
+  recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 83.20705813124003
-  llm_score: 85
-  recency_score: 76.03529065620016
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 59.171520394398335
+  llm_score: 67
+  recency_score: 41.61488256358909
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 80.14724185949737
-  llm_score: 85
-  recency_score: 60.73620929748681
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 57.70729509678065
+  llm_score: 62
+  recency_score: 52.09741812907417
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 79.25024389308274
-  llm_score: 85
-  recency_score: 56.25121946541366
+- slug: blood-in-the-water
+  title: BLOOD IN THE WATER
+  score: 57.413672600927065
+  llm_score: 64
+  recency_score: 42.18887190602582
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 70.43241102906582
-  llm_score: 85
-  recency_score: 12.162055145329097
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 56.12457948476652
+  llm_score: 63
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 68.62157381675192
-  llm_score: 85
-  recency_score: 3.107869083759611
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 51.67309609649863
+  llm_score: 63
+  recency_score: 8.875124627241007
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: shadow-government-southern-style
-  title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 62.4592141866564
-  llm_score: 75
-  recency_score: 12.296070933282007
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 14.040059351465267
+  llm_score: 0
+  recency_score: 16.26038578452423
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: stealing-our-democracy
-  title: STEALING OUR DEMOCRACY
-  score: 59.112599723484344
-  llm_score: 70
-  recency_score: 15.562998617421716
+- slug: winner-and-loser
+  title: WINNER AND LOSER
+  score: 0
+  llm_score: -156
+  recency_score: 8.77839398648969
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama has been electing only Republicans for years, regardless of that candidates credentials, just as long as he or she is a republican. The straight ticket voters, unwittingly, are responsible for electing corrupt officials who simply rode the straight ticket into office.

@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions
 related_articles:
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 69.35977074836103
-  llm_score: 83
-  recency_score: 43.83850986434665
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 71.6319657032462
+  llm_score: 75
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 1
-- slug: survey
-  title: SURVEY
-  score: 68.28117503169653
-  llm_score: 85
-  recency_score: 28.827637706027392
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 64.05961221556136
+  llm_score: 75
+  recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
   rank: 2
 - slug: fauxhope
   title: FAUXHOPE
-  score: 68.17584724293476
-  llm_score: 75
+  score: 62.022001089088604
+  llm_score: 65
   recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 3
-- slug: in-the-same-boat
-  title: IN THE SAME BOAT
-  score: 66.5694995422711
-  llm_score: 85
-  recency_score: 17.701747024762053
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 61.27449470737532
+  llm_score: 65
+  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 62.09102604302952
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 58.43552338459708
   llm_score: 75
-  recency_score: 28.59166927969179
+  recency_score: 4.830901999880929
   length_score: 100
   category_score: 0
   rank: 5
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 59.174677430458615
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 57.95185305807695
   llm_score: 75
-  recency_score: 9.635403297980877
+  recency_score: 1.687044877500055
   length_score: 100
   category_score: 0
   rank: 6
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 25.478119549400027
-  llm_score: 0
-  recency_score: 90.60777707110016
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 48.57285258712816
+  llm_score: 60
+  recency_score: 0.7235418163329606
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 18.04686405201088
-  llm_score: 0
-  recency_score: 42.3046163380707
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 46.37456832889075
+  llm_score: 45
+  recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 16.794593597984967
-  llm_score: 0
-  recency_score: 34.164858386902274
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 45.90164779968118
+  llm_score: 45
+  recency_score: 43.36071069792758
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 12.650250893333574
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 23.14044681809355
   llm_score: 0
-  recency_score: 7.226630806668228
+  recency_score: 75.41290431760807
   length_score: 100
   category_score: 0
   rank: 10

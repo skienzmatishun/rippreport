@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: 'Fairhope, Alabama: American flag waves over a fountain in downtown area, celebrating approved BP RESTORE project funding'
 related_articles:
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 80.01488310709092
-  llm_score: 90
-  recency_score: 85.07441553545459
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 100
+  llm_score: 200
+  recency_score: 6.565853551440616
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: stepping-up
   title: STEPPING UP
-  score: 78.82490003199702
-  llm_score: 86
+  score: 70.1730000246131
+  llm_score: 72
   recency_score: 93.12450015998506
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 78.3301310249095
-  llm_score: 85
-  recency_score: 94.15065512454748
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 64.49048524254397
+  llm_score: 77
+  recency_score: 36.18815407653578
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 66.93176053359937
-  llm_score: 95
-  recency_score: 2.1588026679968904
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 63.73553259525279
+  llm_score: 79
+  recency_score: 23.280961869143056
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 60.11311716147212
-  llm_score: 85
-  recency_score: 3.0655858073605606
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 60.03470812209066
+  llm_score: 75
+  recency_score: 15.225602793589186
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 50.717616807525836
-  llm_score: 70
-  recency_score: 8.588084037629146
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 59.095636958948475
+  llm_score: 75
+  recency_score: 9.121640233165
+  length_score: 100
   category_score: 0
   rank: 6
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 49.895862600164364
-  llm_score: 65
+  score: 14.919894307818735
+  llm_score: 0
   recency_score: 21.979313000821772
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 46.813170710288134
-  llm_score: 65
-  recency_score: 6.565853551440616
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 13.233810432822162
+  llm_score: 0
+  recency_score: 11.019767813344055
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 45.891208621764726
-  llm_score: 65
-  recency_score: 1.9560431088235848
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 11.943721560443631
+  llm_score: -2
+  recency_score: 10.634190142883599
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: s-o-s
-  title: S.O.S
-  score: 41.827080659596184
-  llm_score: 57
-  recency_score: 9.635403297980877
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 0
+  llm_score: -25
+  recency_score: 0.46547689061875125
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -16,74 +16,84 @@ authors:
 - ripp-report
 alttags: 'Communication breakdown: Three figures surrounded by speech bubbles illustrate issues between Fairhope’s Mayor and City Co...'
 related_articles:
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 78.67244604336203
-  llm_score: 86
-  recency_score: 92.36223021681012
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 76.72713882456708
+  llm_score: 81
+  recency_score: 99.72640235968593
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: community-engagement
-  title: COMMUNITY ENGAGEMENT
-  score: 77.03546539641725
-  llm_score: 85
-  recency_score: 87.6773269820862
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 71.38165147617536
+  llm_score: 77
+  recency_score: 80.98073459513984
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: shut-up-2
-  title: SHUT UP
-  score: 76.93964342023085
-  llm_score: 85
-  recency_score: 87.19821710115417
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 62.87840607880547
+  llm_score: 76
+  recency_score: 29.70963951223547
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: 100-voices
-  title: 100 VOICES
-  score: 76.56156314124607
-  llm_score: 85
-  recency_score: 85.30781570623031
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 62.56414666078505
+  llm_score: 76
+  recency_score: 27.666953295102704
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 68.61053014836327
-  llm_score: 85
-  recency_score: 45.55265074181627
+- slug: catalyst-train-wreck
+  title: CATALYST TRAIN WRECK
+  score: 62.471869461617295
+  llm_score: 76
+  recency_score: 27.067151500512303
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: letter-of-concern
-  title: Letter of Concern
-  score: 68.11400729240654
-  llm_score: 80
-  recency_score: 60.57003646203266
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 61.43085902675267
+  llm_score: 76
+  recency_score: 20.300583673892284
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 64.44546996796693
-  llm_score: 85
-  recency_score: 24.727349839834638
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 60.77884657356981
+  llm_score: 77
+  recency_score: 12.0625027282037
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: documents
-  title: DOCUMENTS
-  score: 56.150376964456356
-  llm_score: 65
-  recency_score: 53.251884822281745
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 60.62161422711184
+  llm_score: 79
+  recency_score: 3.0404924762268615
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: shut-up
-  title: SHUT UP
-  score: 51.83575329957494
-  llm_score: 70
-  recency_score: 14.178766497874648
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 11.561686621895406
+  llm_score: 0
+  recency_score: 0.15096304232014315
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 50.83977933106959
-  llm_score: 65
-  recency_score: 26.69889665534791
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 0
+  llm_score: -100
+  recency_score: 1.9031803407402852
+  length_score: 100
   category_score: 0
   rank: 10
 ---

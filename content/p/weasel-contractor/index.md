@@ -15,38 +15,62 @@ authors:
 - admin
 alttags: Chris Elliott’s face emerging from a ballot box, symbolizing his election as State Senator in Baldwin County amid politica...
 related_articles:
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 69.97385745080308
-  llm_score: 85
-  recency_score: 39.83007343021991
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 59.75169621476063
+  llm_score: 75
+  recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 69.52136479973558
-  llm_score: 85
-  recency_score: 36.88887119828122
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 58.464584053011045
+  llm_score: 75
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 64.744025737054
-  llm_score: 85
-  recency_score: 5.836167290850916
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 30.917768523593985
+  llm_score: 30
+  recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 64.58936953844324
-  llm_score: 85
-  recency_score: 4.830901999880929
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 28.094273033654865
+  llm_score: 25
+  recency_score: 7.612774718756618
   length_score: 100
   category_score: 0
   rank: 4
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 24.589369538443222
+  llm_score: 20
+  recency_score: 4.830901999880929
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: elliott-history-lesson
+  title: ELLIOTT HISTORY LESSON
+  score: 13.295280903870935
+  llm_score: 0
+  recency_score: 11.419325875161082
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 12.451214946024983
+  llm_score: 0
+  recency_score: 5.932897149162394
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
   score: 12.43879672518748
@@ -54,44 +78,20 @@ related_articles:
   recency_score: 5.8521787137186125
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 12.428983905293588
-  llm_score: 0
-  recency_score: 5.78839538440832
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: state-senate-seat-district-32-bombs-away
-  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
-  score: 12.3171115332381
-  llm_score: 0
-  recency_score: 5.061224966047647
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 12.310737899164877
-  llm_score: 0
-  recency_score: 5.0197963445716995
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 12.188310342346913
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 12.43633342936168
   llm_score: 0
-  recency_score: 4.224017225254928
+  recency_score: 5.836167290850916
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 0.1385349272393892
-  llm_score: -20
-  recency_score: 5.9004770270560485
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 12.404917218246416
+  llm_score: 0
+  recency_score: 5.6319619186017045
   length_score: 100
   category_score: 0
   rank: 10

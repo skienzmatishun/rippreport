@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 67.976708710879
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 65.4268536006863
   llm_score: 75
-  recency_score: 66.84860662071335
+  recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 63.17227666174938
-  llm_score: 65
-  recency_score: 75.61979830137088
+- slug: sting
+  title: Sting
+  score: 62.90541571970801
+  llm_score: 75
+  recency_score: 33.88520217810198
   length_score: 100
   category_score: 0
   rank: 2
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 62.82042129149278
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 61.68882298104007
   llm_score: 75
-  recency_score: 33.33273839470296
+  recency_score: 25.977349376760323
   length_score: 100
   category_score: 0
   rank: 3
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 61.63444946786039
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 57.93137370712699
   llm_score: 75
-  recency_score: 25.623921541092447
+  recency_score: 1.5539290963253303
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 60.430616788773946
-  llm_score: 75
-  recency_score: 17.799009127030544
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 56.02840437759178
+  llm_score: 60
+  recency_score: 49.18462845434644
   length_score: 100
   category_score: 0
   rank: 5
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 58.39880431487965
-  llm_score: 70
-  recency_score: 24.592228046717608
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 54.86382808670603
+  llm_score: 60
+  recency_score: 41.61488256358909
   length_score: 100
   category_score: 0
   rank: 6
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 55.34266920612841
-  llm_score: 65
-  recency_score: 24.727349839834638
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 54.26251077255647
+  llm_score: 60
+  recency_score: 37.70632002161693
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 51.67735969618587
-  llm_score: 50
-  recency_score: 60.90283802520807
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 52.48001257039105
+  llm_score: 60
+  recency_score: 26.120081707541715
   length_score: 100
   category_score: 0
   rank: 8
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 16.109175309574688
-  llm_score: 0
-  recency_score: 29.70963951223547
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 49.43365865481714
+  llm_score: 60
+  recency_score: 6.318781256311327
   length_score: 100
   category_score: 0
   rank: 9
-- slug: exposure-2
-  title: EXPOSURE
-  score: 12.665585677464133
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 11.744086676929113
   llm_score: 0
-  recency_score: 7.326306903516857
+  recency_score: 1.3365634000392395
   length_score: 100
   category_score: 0
   rank: 10

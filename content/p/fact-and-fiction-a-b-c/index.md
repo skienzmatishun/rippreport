@@ -7,74 +7,84 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 70.12123778439705
-  llm_score: 85
-  recency_score: 53.10618892198522
+- slug: no-radar
+  title: NO RADAR
+  score: 100
+  llm_score: 209548637
+  recency_score: 7.346406498344206
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: the-big-lie
-  title: THE BIG LIE
-  score: 68.34949079590366
-  llm_score: 95
-  recency_score: 9.247453979518323
-  category_score: 0
+- slug: police-report
+  title: POLICE REPORT
+  score: 79.11444494553773
+  llm_score: 72
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 60.445234228866475
-  llm_score: 85
-  recency_score: 4.726171144332342
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 66.70012022982468
+  llm_score: 77
+  recency_score: 50.550781493860306
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 59.446222780246465
-  llm_score: 75
-  recency_score: 34.73111390123228
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 62.30766535103523
+  llm_score: 70
+  recency_score: 49.99982478172893
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: crazy
-  title: CRAZY
-  score: 59.446222780246465
-  llm_score: 75
-  recency_score: 34.73111390123228
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 60.275274149509826
+  llm_score: 71
+  recency_score: 32.789281971813786
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: cut-the-head-off-the-snake
-  title: CUT THE HEAD OFF THE SNAKE
-  score: 55.12635062426857
-  llm_score: 75
-  recency_score: 13.13175312134279
-  category_score: 0
-  rank: 6
-- slug: the-pot-and-the-kettle-are-black
-  title: THE POT AND THE KETTLE ARE BLACK
-  score: 53.00634582434074
-  llm_score: 60
-  recency_score: 55.031729121703655
-  category_score: 0
-  rank: 7
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 49.66147367298337
-  llm_score: 65
+  score: 59.66267205614106
+  llm_score: 73
   recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 56.98779079668258
+  llm_score: 73
+  recency_score: 3.4206401784366847
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 55.24503070289428
+  llm_score: 71
+  recency_score: 0.0926995688127746
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: you-re-fired
-  title: YOU'RE FIRED
-  score: 47.979510200015085
-  llm_score: 65
-  recency_score: 12.39755100007539
+- slug: gob-coup
+  title: GOB COUP
+  score: 15.889237932036757
+  llm_score: 0
+  recency_score: 28.280046558238915
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: help-fairness-killing-us
-  title: HELP - FAIRNESS IS KILLING US
-  score: 43.73834833895516
-  llm_score: 55
-  recency_score: 26.19174169477578
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 12.04630049567462
+  llm_score: 0
+  recency_score: 3.300953221885028
+  length_score: 100
   category_score: 0
   rank: 10
 ---

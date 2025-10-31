@@ -12,83 +12,83 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 77.82405506499252
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 78.0557277256631
   llm_score: 85
-  recency_score: 90.85635792245131
+  recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 75.5759834070762
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 77.29806828990351
   llm_score: 85
-  recency_score: 76.2438921459952
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 2
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 73.39724763043128
-  llm_score: 85
-  recency_score: 62.08210959780326
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 67.001680008963
+  llm_score: 90
+  recency_score: 0.5109200582594592
   length_score: 100
   category_score: 0
   rank: 3
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 67.04293744716482
-  llm_score: 90
-  recency_score: 0.7790934065711901
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 63.88556307408762
+  llm_score: 85
+  recency_score: 0.25615998156944014
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 67.02979495109979
-  llm_score: 85
-  recency_score: 20.693667182148534
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 66.98638244776139
-  llm_score: 90
+  score: 57.75561321699216
+  llm_score: 75
   recency_score: 0.41148591044895216
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 57.72931022279179
+  llm_score: 75
+  recency_score: 0.24051644814652245
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 63.921385746133396
-  llm_score: 85
-  recency_score: 0.4890073498669849
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 57.72611156399408
+  llm_score: 75
+  recency_score: 0.21972516596144012
   length_score: 100
   category_score: 0
   rank: 7
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 63.43698784464238
-  llm_score: 70
-  recency_score: 57.34042099017541
+- slug: fairhope-airport-un_authorized
+  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
+  score: 57.724839528287475
+  llm_score: 75
+  recency_score: 0.21145693386847106
   length_score: 100
   category_score: 0
   rank: 8
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 60.93759415852324
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 57.71534266698396
   llm_score: 75
-  recency_score: 21.094362030400973
+  recency_score: 0.14972733539561534
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 54.6937726450825
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 54.64965474002874
   llm_score: 70
-  recency_score: 0.5095221930361701
+  recency_score: 0.22275581018671914
   length_score: 100
   category_score: 0
   rank: 10

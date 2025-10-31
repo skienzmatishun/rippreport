@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Blurred police car lights suggest investigation into State Representative Randy Davis’ bribery indictment
 related_articles:
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 83.64740235768714
-  llm_score: 92
-  recency_score: 96.23701178843567
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 74.90445738537399
+  llm_score: 83
+  recency_score: 79.87897300493081
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 79.12009294457452
-  llm_score: 85
-  recency_score: 98.10046472287257
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 68.11856028450737
+  llm_score: 75
+  recency_score: 67.77064184929783
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 78.02312487593503
-  llm_score: 85
-  recency_score: 92.61562437967505
-  category_score: 0
-  rank: 3
-- slug: consequences
-  title: CONSEQUENCES
-  score: 72.19156694727454
-  llm_score: 85
-  recency_score: 63.45783473637261
-  category_score: 0
-  rank: 4
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 72.05324061896812
-  llm_score: 85
-  recency_score: 62.766203094840556
-  category_score: 0
-  rank: 5
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 69.65530775847412
-  llm_score: 75
-  recency_score: 85.7765387923706
-  category_score: 0
-  rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 69.3369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
-  category_score: 0
-  rank: 7
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 62.743179550542365
-  llm_score: 85
-  recency_score: 16.215897752711804
-  category_score: 0
-  rank: 8
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 62.57025208563968
-  llm_score: 85
+  score: 64.97711698895361
+  llm_score: 83
   recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 63.36751864588943
+  llm_score: 75
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 62.29525817216836
+  llm_score: 77
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 61.47311358199652
+  llm_score: 77
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 24.34308566087865
+  llm_score: 0
+  recency_score: 83.23005679571122
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 19.10532745451484
+  llm_score: 0
+  recency_score: 49.18462845434644
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 14.756562035804047
+  llm_score: 2
+  recency_score: 12.9176532327263
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 54.972726318616495
-  llm_score: 75
-  recency_score: 12.36363159308245
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 14.61070819829577
+  llm_score: 0
+  recency_score: 19.9696032889225
+  length_score: 100
   category_score: 0
   rank: 10
 ---

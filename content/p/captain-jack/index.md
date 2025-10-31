@@ -10,72 +10,82 @@ alttags: Man in pilot attire discussing Fairhope Airport Authority’s lease & b
 related_articles:
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
-  score: 83.32943663570214
-  llm_score: 95
+  score: 75.56110510438626
+  llm_score: 83
   recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: flying-high
-  title: FLYING HIGH
-  score: 70.12123778439705
-  llm_score: 85
-  recency_score: 53.10618892198522
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 74.90744455287901
+  llm_score: 100
+  recency_score: 11.898389593713517
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 65.42575600988756
-  llm_score: 90
-  recency_score: 12.128780049437779
+- slug: no-radar
+  title: NO RADAR
+  score: 61.785399269167115
+  llm_score: 79
+  recency_score: 10.605095249586157
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: whos-on-first
-  title: ??? WHO’S ON FIRST ???
-  score: 62.734306287820935
-  llm_score: 85
-  recency_score: 16.171531439104648
-  category_score: 0
-  rank: 4
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 62.43857289717094
-  llm_score: 85
-  recency_score: 14.692864485854656
-  category_score: 0
-  rank: 5
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 60.54278605679046
-  llm_score: 80
-  recency_score: 22.713930283952266
-  category_score: 0
-  rank: 6
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 53.28879688043756
-  llm_score: 70
-  recency_score: 21.44398440218775
-  category_score: 0
-  rank: 7
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 51.82799474546217
-  llm_score: 70
+  score: 60.483072881124755
+  llm_score: 76
   recency_score: 14.139973727310823
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 59.682762102596776
+  llm_score: 77
+  recency_score: 4.937953666878992
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 58.90220730685649
+  llm_score: 73
+  recency_score: 15.864347494567099
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: investigating-the-investigators
+  title: Investigating the Investigators
+  score: 58.2404613257572
+  llm_score: 72
+  recency_score: 15.562998617421716
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 57.81182504203802
+  llm_score: 72
+  recency_score: 12.776862773247046
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 51.619164990934195
-  llm_score: 70
-  recency_score: 13.095824954670931
+- slug: free-speech
+  title: FREE SPEECH
+  score: 15.556935647314111
+  llm_score: 0
+  recency_score: 26.120081707541715
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 51.50683235151182
-  llm_score: 70
-  recency_score: 12.534161757559053
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 0
+  llm_score: -50
+  recency_score: 8.754376507685183
+  length_score: 100
   category_score: 0
   rank: 10
 ---

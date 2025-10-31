@@ -20,59 +20,59 @@ authors:
 - admin
 alttags: Silhouettes of figures holding hands, with CSB prominently displayed, referencing consulting firm involved in Baldwin Co...
 related_articles:
-- slug: queen-bee
-  title: QUEEN BEE
-  score: 70.46180668668865
-  llm_score: 78
-  recency_score: 71.00174346347615
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 72.99285435016304
+  llm_score: 75
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
-- slug: timeline
-  title: TIMELINE
-  score: 67.04728744075645
-  llm_score: 85
-  recency_score: 20.807368364916808
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 64.52971837619306
+  llm_score: 75
+  recency_score: 44.44316944525482
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 66.3463414562175
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 61.77738483219179
   llm_score: 75
-  recency_score: 56.25121946541366
+  recency_score: 26.55300140924655
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 66.29905177222592
-  llm_score: 75
-  recency_score: 55.94383651946845
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 56.11178498111283
+  llm_score: 60
+  recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
   rank: 4
-- slug: honey-bees
-  title: HONEY BEES
-  score: 61.47572739180273
-  llm_score: 75
-  recency_score: 24.592228046717608
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 51.97518950547449
+  llm_score: 60
+  recency_score: 22.8387317855841
   length_score: 100
   category_score: 0
   rank: 5
-- slug: shut-up-2
-  title: SHUT UP
-  score: 59.909810514111605
-  llm_score: 75
-  recency_score: 14.41376834172532
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 40.27466228964053
+  llm_score: 45
+  recency_score: 6.785304882663376
   length_score: 100
   category_score: 0
   rank: 6
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 28.11963958267824
-  llm_score: 23
-  recency_score: 15.777657287408536
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 30.634629230698245
+  llm_score: 25
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
   rank: 7
@@ -84,19 +84,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 20.705000550137093
-  llm_score: 0
-  recency_score: 59.582503575891096
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 23.461189758781494
+  llm_score: 5
+  recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 20.384266681858414
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 17.750683862040344
   llm_score: 0
-  recency_score: 57.49773343207967
+  recency_score: 40.37944510326223
   length_score: 100
   category_score: 0
   rank: 10

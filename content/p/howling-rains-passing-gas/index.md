@@ -18,83 +18,83 @@ authors:
 - admin
 alttags: Illustration depicting a wolf howling under a rain cloud with a crossed-out Catalyst symbol, representing concerns about...
 related_articles:
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 75.6081639892813
-  llm_score: 85
-  recency_score: 76.45306593032835
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 64.32673346382178
+  llm_score: 75
+  recency_score: 43.12376751484153
   length_score: 100
   category_score: 0
   rank: 1
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 74.38729511792643
-  llm_score: 85
-  recency_score: 68.51741826652172
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
-  score: 68.75645514937594
-  llm_score: 72
+  score: 61.37183976476055
+  llm_score: 60
   recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: truth
+  title: TRUTH
+  score: 59.41485161609265
+  llm_score: 60
+  recency_score: 71.19653550460211
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 67.30251838080261
-  llm_score: 85
-  recency_score: 22.466369475216847
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 59.206789568707656
+  llm_score: 60
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 61.49036339558599
-  llm_score: 70
-  recency_score: 44.68736207130882
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 58.52298026514198
+  llm_score: 60
+  recency_score: 65.39937172342279
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 59.44912705771711
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 58.186422119167794
   llm_score: 75
-  recency_score: 11.419325875161082
+  recency_score: 3.2117437745905466
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 58.229024025224845
-  llm_score: 74
-  recency_score: 7.488656163961433
+- slug: pied-piper
+  title: PIED PIPER
+  score: 57.47862637074022
+  llm_score: 60
+  recency_score: 58.61107140981138
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 53.03736368365433
-  llm_score: 52
-  recency_score: 61.74286394375304
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 40.54114127177258
+  llm_score: 30
+  recency_score: 68.51741826652172
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 35.03633989192105
-  llm_score: 23
-  recency_score: 60.73620929748681
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 21.822862557032828
+  llm_score: 0
+  recency_score: 66.84860662071335
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst
-  title: CATALYST
-  score: 13.655051669992396
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 12.556929516562175
   llm_score: 0
-  recency_score: 13.757835854950565
+  recency_score: 6.620041857654132
   length_score: 100
   category_score: 0
   rank: 10

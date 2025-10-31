@@ -18,83 +18,83 @@ authors:
 - admin
 alttags: Illustration depicting two figures crossed out with a red circle, labeled “CATALYST,” referencing Fairhope councilmen and ...
 related_articles:
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 75.46467978776037
-  llm_score: 100
-  recency_score: 15.520418620442342
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 72.90924501420623
+  llm_score: 75
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 64.12232345986689
-  llm_score: 83
-  recency_score: 9.795102489134761
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 69.64926385358416
+  llm_score: 75
+  recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 28.334804348775187
-  llm_score: 23
-  recency_score: 17.176228267038702
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 66.68472506176484
+  llm_score: 75
+  recency_score: 58.450712901471334
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 26.797146261705834
-  llm_score: 0
-  recency_score: 99.18145070108791
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 65.32619018413641
+  llm_score: 65
+  recency_score: 89.62023619688662
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 26.589548333269796
-  llm_score: 0
-  recency_score: 97.83206416625366
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 65.21333082797133
+  llm_score: 65
+  recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 26.50730216256216
-  llm_score: 0
-  recency_score: 97.29746405665401
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 63.43007930451173
+  llm_score: 65
+  recency_score: 77.29551547932614
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 23.962949725565927
-  llm_score: 0
-  recency_score: 80.75917321617852
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 60.3348043487752
+  llm_score: 75
+  recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-2
-  title: CATALYST
-  score: 21.599903342065048
-  llm_score: 0
-  recency_score: 65.39937172342279
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 57.566377030936614
+  llm_score: 50
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst
-  title: CATALYST
-  score: 14.306944536199921
-  llm_score: 0
-  recency_score: 17.995139485299486
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 49.79734117233192
+  llm_score: 60
+  recency_score: 8.6827176201574
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 13.21993316633326
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 13.586596599800313
   llm_score: 0
-  recency_score: 10.929565581166187
+  recency_score: 13.312877898702032
   length_score: 100
   category_score: 0
   rank: 10

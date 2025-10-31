@@ -8,6 +8,30 @@ thumbnail: /img/alabama-blackhole.png
 authors:
 - admin
 related_articles:
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 81.72982956092235
+  llm_score: 95
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 78.97871442056848
+  llm_score: 90
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.24248401107549
+  llm_score: 90
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 75.41639636783121
@@ -15,76 +39,52 @@ related_articles:
   recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 72.49906033015311
-  llm_score: 80
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 65.27268054494972
-  llm_score: 70
-  recency_score: 69.27242354217314
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 64.97443333595504
-  llm_score: 75
-  recency_score: 47.33381668370766
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 62.176199142922044
-  llm_score: 75
-  recency_score: 29.145294428993168
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 74.17560150110091
+  llm_score: 95
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 61.86790919340861
-  llm_score: 75
-  recency_score: 27.14140975715586
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 71.22643388244788
+  llm_score: 90
+  recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 6
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 58.871838968477356
-  llm_score: 70
+  score: 71.17953127616966
+  llm_score: 90
   recency_score: 27.666953295102704
   length_score: 100
   category_score: 0
   rank: 7
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 54.71405730622192
-  llm_score: 70
-  recency_score: 0.6413724904423975
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 70.7377213679313
+  llm_score: 90
+  recency_score: 24.795188891553348
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 54.69841490529065
-  llm_score: 70
-  recency_score: 0.5396968843891398
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 69.52136479973558
+  llm_score: 85
+  recency_score: 36.88887119828122
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 53.97245277141089
-  llm_score: 65
-  recency_score: 15.820943014170737
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 68.18502661818091
+  llm_score: 85
+  recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
   rank: 10

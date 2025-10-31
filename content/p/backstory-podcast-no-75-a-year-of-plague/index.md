@@ -23,81 +23,81 @@ authors:
 related_articles:
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 71.70855703861841
-  llm_score: 75
+  score: 62.47778780784918
+  llm_score: 60
   recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 71.29245110658185
-  llm_score: 75
-  recency_score: 88.40093219278197
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 68.58576682596589
-  llm_score: 75
-  recency_score: 70.80748436877823
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 65.67667532210979
-  llm_score: 85
-  recency_score: 11.898389593713517
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 61.58081571888076
-  llm_score: 75
-  recency_score: 25.27530217272481
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: 4-20
   title: 4-20
-  score: 57.10135276128466
-  llm_score: 64
+  score: 57.71673737666927
+  llm_score: 65
   recency_score: 40.15879294835018
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 57.04473469274617
+  llm_score: 60
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 24.298215550005118
+  llm_score: 5
+  recency_score: 62.93840107503325
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 22.43192067211973
+  llm_score: 0
+  recency_score: 70.80748436877823
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 22.13752102355891
+  llm_score: 0
+  recency_score: 68.8938866531329
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: im-back-2
-  title: I'M BACK
-  score: 50.91246655652615
-  llm_score: 61
-  recency_score: 11.931032617419875
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 21.993318372256688
+  llm_score: 0
+  recency_score: 67.95656941966844
   length_score: 100
   category_score: 0
   rank: 7
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 35.97670871087898
-  llm_score: 23
-  recency_score: 66.84860662071335
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 19.821334853252928
+  llm_score: 0
+  recency_score: 53.838676546144015
   length_score: 100
   category_score: 0
   rank: 8
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 25.469042730665507
-  llm_score: 2
-  recency_score: 82.54877774932578
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 18.39463053894817
+  llm_score: 0
+  recency_score: 44.565098503163114
   length_score: 100
   category_score: 0
   rank: 9
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 20.73014878956115
+- slug: he-must-go
+  title: He Must Go
+  score: 17.01509892353269
   llm_score: 0
-  recency_score: 59.74596713214747
+  recency_score: 35.59814300296249
   length_score: 100
   category_score: 0
   rank: 10

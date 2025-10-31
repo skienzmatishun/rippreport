@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Close-up of a modern bar stool with silver legs and a red circular seat, likely from the Irish pub in Fairhope where the o...
 related_articles:
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 72.81108503131156
-  llm_score: 95
-  recency_score: 31.555425156557842
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 62.77227636070335
+  llm_score: 82
+  recency_score: 5.0197963445716995
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 71.88245088217731
-  llm_score: 85
-  recency_score: 61.91225441088648
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 17.169432250709246
+  llm_score: -1
+  recency_score: 40.601309629610085
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 70.96808419803509
-  llm_score: 85
-  recency_score: 57.34042099017541
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 15.395140209844932
+  llm_score: 0
+  recency_score: 25.06841136399206
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: hi-jack-ed
-  title: Hi-JACK-ed
-  score: 62.43857289717094
-  llm_score: 85
-  recency_score: 14.692864485854656
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 15.321881237956555
+  llm_score: 0
+  recency_score: 24.592228046717608
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 59.52499200679857
-  llm_score: 85
-  recency_score: 0.12496003399281562
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 15.061752222570682
+  llm_score: 0
+  recency_score: 22.901389446709434
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 54.61053014836327
-  llm_score: 65
-  recency_score: 45.55265074181627
-  category_score: 0
-  rank: 6
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
-  score: 50.99695333081353
-  llm_score: 70
+  score: 13.074579485241173
+  llm_score: 0
   recency_score: 9.984766654067629
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 13.011594194404037
+  llm_score: 2
+  recency_score: 1.5753622636262385
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 48.67286949891343
-  llm_score: 65
-  recency_score: 15.864347494567099
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 11.925657725274426
+  llm_score: 0
+  recency_score: 2.5167752142837743
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 46.81181686451525
-  llm_score: 60
-  recency_score: 24.0590843225762
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 1.199259829469744
+  llm_score: -23
+  recency_score: 24.795188891553348
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 45.29693268727895
-  llm_score: 60
-  recency_score: 16.48466343639469
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 0
+  llm_score: -100
+  recency_score: 9.821975181463475
+  length_score: 100
   category_score: 0
   rank: 10
 ---

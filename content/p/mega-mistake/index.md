@@ -8,38 +8,54 @@ authors:
 - admin
 alttags: Sign advertising the South Alabama Mega Site in Baldwin County; includes QR code & contact info, alongside a humorous OOP...
 related_articles:
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 67.08744790215263
-  llm_score: 84
-  recency_score: 25.06841136399206
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: shovel-ready
   title: SHOVEL READY
-  score: 66.959854381861
-  llm_score: 75
+  score: 71.88293130493793
+  llm_score: 83
   recency_score: 60.23905348209645
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 65.25103894174505
+  llm_score: 84
+  recency_score: 13.13175312134279
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 59.21978445640894
-  llm_score: 66
-  recency_score: 45.928598966657994
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 65.2412940559988
+  llm_score: 81
+  recency_score: 25.06841136399206
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 55.70263869238652
-  llm_score: 65
-  recency_score: 27.067151500512303
+- slug: dead-last
+  title: DEAD LAST
+  score: 63.57253951539606
+  llm_score: 79
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 4
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 61.241100230848055
+  llm_score: 74
+  recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: repeat
+  title: REPEAT
+  score: 60.394124337954
+  llm_score: 74
+  recency_score: 21.56180819670091
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: for-the-record-mega-money
   title: FOR THE RECORD — MEGA-MONEY
   score: 26.384774822578315
@@ -47,44 +63,28 @@ related_articles:
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 19.294227038235814
-  llm_score: 0
-  recency_score: 50.412475748532785
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: dead-last
-  title: DEAD LAST
-  score: 14.957154900011432
-  llm_score: 0
-  recency_score: 22.221506850074306
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 13.558731249437352
-  llm_score: 0
-  recency_score: 13.13175312134279
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 13.285680822003108
-  llm_score: 0
-  recency_score: 11.356925343020198
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
   score: 12.907611288676803
   llm_score: 0
   recency_score: 8.899473376399213
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 12.108231599133294
+  llm_score: 0
+  recency_score: 3.703505394366409
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 0
+  llm_score: -98
+  recency_score: 11.356925343020198
   length_score: 100
   category_score: 0
   rank: 10

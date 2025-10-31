@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Scrabble tiles spelling LOSER amidst a scattered pile, symbolizing challenges to injustice and corruption investigated b...
 related_articles:
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 79.69014258029426
-  llm_score: 85
-  recency_score: 58.450712901471334
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 70.1057480109706
+  llm_score: 84
+  recency_score: 44.68736207130882
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 70.7141314643738
-  llm_score: 85
-  recency_score: 13.570657321869012
+- slug: im-back
+  title: I'M BACK
+  score: 68.97043318557391
+  llm_score: 72
+  recency_score: 85.30781570623031
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 69.08400637110499
-  llm_score: 85
-  recency_score: 5.420031855524929
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 64.47360482743366
+  llm_score: 78
+  recency_score: 32.0784313783187
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 68.08242501251668
-  llm_score: 80
-  recency_score: 20.412125062583367
+- slug: mimes-whitewashing
+  title: MIME'S WHITEWASHING
+  score: 59.463964328493475
+  llm_score: 71
+  recency_score: 27.51576813520753
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: crazy
-  title: CRAZY
-  score: 67.96601468604398
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 59.06145744252297
   llm_score: 75
-  recency_score: 39.83007343021991
+  recency_score: 8.899473376399213
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 66.09026245994085
-  llm_score: 75
-  recency_score: 30.451312299704224
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 58.42375023195158
+  llm_score: 74
+  recency_score: 8.754376507685183
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 60.230446808723606
-  llm_score: 70
-  recency_score: 21.152234043618023
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 57.304355052282126
+  llm_score: 72
+  recency_score: 9.47830783983372
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 53.36451733681731
-  llm_score: 65
-  recency_score: 6.822586684086551
+- slug: no-radar
+  title: NO RADAR
+  score: 57.14230005410848
+  llm_score: 72
+  recency_score: 8.424950351705032
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 52.66563922962438
-  llm_score: 65
-  recency_score: 3.328196148121898
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 56.519530246983656
+  llm_score: 73
+  recency_score: 0.3769466053936804
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 52.43532387411898
-  llm_score: 65
-  recency_score: 2.1766193705948793
+- slug: honey-bees
+  title: HONEY BEES
+  score: 17.33943384947953
+  llm_score: 0
+  recency_score: 37.70632002161693
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys, we can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.

@@ -13,65 +13,85 @@ authors:
 - admin
 alttags: Fairhope Waterfront proposal rendering showing parkland, pier, and surrounding area; a citizen-driven plan facing council ...
 related_articles:
-- slug: invitation
-  title: INVITATION
-  score: 95.89071065521195
-  llm_score: 95
-  recency_score: 99.45355327605971
-  rank: 1
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 91.56641283325074
-  llm_score: 90
-  recency_score: 97.83206416625366
-  rank: 2
-- slug: s-o-s
-  title: S.O.S
-  score: 84.46092326761413
-  llm_score: 95
-  recency_score: 42.3046163380707
-  rank: 3
-- slug: pied-piper
-  title: PIED PIPER
-  score: 79.83613691258604
-  llm_score: 90
-  recency_score: 39.1806845629302
-  rank: 4
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 79.21946349126168
-  llm_score: 85
-  recency_score: 56.097317456308396
-  rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 75.41647386607539
-  llm_score: 90
-  recency_score: 17.082369330376963
-  rank: 6
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 74.17426475741956
-  llm_score: 85
-  recency_score: 30.871323787097815
-  rank: 7
-- slug: truth
-  title: TRUTH
-  score: 70.77861223075729
-  llm_score: 65
-  recency_score: 93.89306115378648
-  rank: 8
-- slug: corridor-of-chaos
-  title: CORRIDOR OF CHAOS
-  score: 69.81001209429962
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 70.78067931314688
   llm_score: 75
-  recency_score: 49.0500604714981
-  rank: 9
+  recency_score: 85.07441553545459
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: survey
   title: SURVEY
-  score: 65.62860141581517
-  llm_score: 65
+  score: 68.17584724293476
+  llm_score: 75
   recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 67.976708710879
+  llm_score: 75
+  recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: invitation
+  title: INVITATION
+  score: 66.83900819631688
+  llm_score: 65
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: truth
+  title: TRUTH
+  score: 65.98354786981331
+  llm_score: 65
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 64.87535833534707
+  llm_score: 75
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 63.51262525634673
+  llm_score: 60
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 58.00672223949506
+  llm_score: 75
+  recency_score: 2.043694556717812
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 57.09189499327823
+  llm_score: 60
+  recency_score: 56.097317456308396
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 54.102509352662096
+  llm_score: 65
+  recency_score: 16.666310792303566
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope Waterfront project started off with, City Council approval, of $500,000.00 for engineering and conceptual plans based on community input. Now the Council is saying this is the Mayor’s plan. Nothing could be further from the truth, 493 people filled out the questionnaire and dozens attended numerous meetings, this is the citizens plan.

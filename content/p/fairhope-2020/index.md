@@ -18,83 +18,83 @@ authors:
 - ripp-report
 alttags: Fairhope waterfront scene at sunset; overlaid with 2020, referencing local politics and recent events discussed in the a...
 related_articles:
-- slug: catalyst
-  title: CATALYST
-  score: 74.1024169862179
-  llm_score: 85
-  recency_score: 66.66571041041625
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 100
+  llm_score: 200
+  recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 1
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 73.21582123464741
-  llm_score: 85
-  recency_score: 60.90283802520807
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 78.72112202617227
+  llm_score: 100
+  recency_score: 36.68729317011966
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 72.52392980030595
-  llm_score: 85
-  recency_score: 56.40554370198863
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 73.10560284075825
+  llm_score: 100
+  recency_score: 0.18641846492857508
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 70.19603757448029
-  llm_score: 85
-  recency_score: 41.27424423412174
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 61.21469561457279
+  llm_score: 77
+  recency_score: 14.895521494723079
   length_score: 100
   category_score: 0
   rank: 4
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 68.70083463947044
-  llm_score: 85
-  recency_score: 31.555425156557842
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 32.17920898260036
+  llm_score: 25
+  recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 64.55944551633668
-  llm_score: 85
-  recency_score: 4.636395856188334
+- slug: communication
+  title: COMMUNICATION
+  score: 22.766266860790743
+  llm_score: -2
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 61.799830254668926
-  llm_score: 75
-  recency_score: 26.69889665534791
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 15.650940600189582
+  llm_score: -2
+  recency_score: 34.73111390123228
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 20.051400077094435
+- slug: gob-coup
+  title: GOB COUP
+  score: 13.805103708083474
   llm_score: 0
-  recency_score: 55.33410050111382
+  recency_score: 14.733174102542575
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 16.68064402759753
-  llm_score: 0
-  recency_score: 33.42418617938393
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 1.526452879787529
+  llm_score: -25
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 16.287895967245817
-  llm_score: 0
-  recency_score: 30.871323787097815
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 0
+  llm_score: -100
+  recency_score: 14.652665155326813
   length_score: 100
   category_score: 0
   rank: 10

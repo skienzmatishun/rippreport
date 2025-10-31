@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Dangerous Highway 98/Parker Road intersection in Fairhope, marked with warning signs, highlighted as a source of frequent ...
 related_articles:
-- slug: going-down
-  title: GOING DOWN
-  score: 69.98138046229707
-  llm_score: 75
-  recency_score: 79.87897300493081
+- slug: danger-zone
+  title: DANGER ZONE
+  score: 86.94040828333233
+  llm_score: 100
+  recency_score: 90.11265384166002
   length_score: 100
   category_score: 0
   rank: 1
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 63.90335663996948
-  llm_score: 85
-  recency_score: 0.37181815980154354
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 74.37306928487772
+  llm_score: 100
+  recency_score: 8.424950351705032
   length_score: 100
   category_score: 0
   rank: 2
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 63.901810713906016
-  llm_score: 85
-  recency_score: 0.36176964038901915
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 63.43377932647719
-  llm_score: 72
-  recency_score: 49.31956562210165
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 59.12205170299026
-  llm_score: 77
-  recency_score: 1.2933360694366538
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 29.972149098554695
-  llm_score: 23
-  recency_score: 27.818969140605503
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: fairhope-council-asleep-at-the-wheel
   title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 24.413440561960563
-  llm_score: 0
+  score: 66.87497902349904
+  llm_score: 69
   recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 63.62241744714449
+  llm_score: 80
+  recency_score: 18.545713406439127
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 58.59950855924826
+  llm_score: 72
+  recency_score: 17.896805635113584
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 55.11178935487205
+  llm_score: 69
+  recency_score: 7.226630806668228
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 54.588342657400204
+  llm_score: 68
+  recency_score: 7.82422727310126
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 16.159540794702274
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 17.92323465028856
   llm_score: 0
-  recency_score: 30.037015165564775
+  recency_score: 41.50102522687563
   length_score: 100
   category_score: 0
   rank: 8
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 12.066157637681139
-  llm_score: 0
-  recency_score: 3.4300246449273972
+- slug: boiling-frog
+  title: BOILING FROG
+  score: 1.970733330920348
+  llm_score: -25
+  recency_score: 37.809766650982276
   length_score: 100
   category_score: 0
   rank: 9
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 11.596612423355612
-  llm_score: 0
-  recency_score: 0.37798075181147806
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 0
+  llm_score: -256897432
+  recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 10

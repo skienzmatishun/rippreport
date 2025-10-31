@@ -13,83 +13,83 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 63.258237111046526
-  llm_score: 66
-  recency_score: 72.17854122180232
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: surrender
-  title: SURRENDER
-  score: 60.764554352141936
-  llm_score: 75
-  recency_score: 19.9696032889225
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 26.797146261705834
-  llm_score: 0
+  score: 72.950992415552
+  llm_score: 75
   recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 72.78468688044195
+  llm_score: 75
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 71.93866301994002
+  llm_score: 88
+  recency_score: 40.601309629610085
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: cover-up
-  title: COVER UP
-  score: 26.535347095913224
-  llm_score: 23
-  recency_score: 5.4797561234359335
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 62.788384639997716
+  llm_score: 60
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 4
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 20.856928686466567
-  llm_score: 0
-  recency_score: 60.57003646203266
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 17.68297639075538
-  llm_score: 0
-  recency_score: 39.93934653990996
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 13.130276512613602
-  llm_score: 0
-  recency_score: 10.34679733198841
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 13.112927203294085
-  llm_score: 0
+  score: 59.26677335714025
+  llm_score: 75
   recency_score: 10.234026821411552
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: surrender
+  title: SURRENDER
+  score: 54.610708198295775
+  llm_score: 65
+  recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 52.52399007500916
+  llm_score: 65
+  recency_score: 6.405935487559478
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 45.375284083063086
+  llm_score: 45
+  recency_score: 39.93934653990996
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 12.926495815471336
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 17.276208622545468
   llm_score: 0
-  recency_score: 9.02222280056368
+  recency_score: 37.29535604654552
   length_score: 100
   category_score: 0
   rank: 9
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 12.52399007500915
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 14.678788471166673
   llm_score: 0
-  recency_score: 6.405935487559478
+  recency_score: 20.412125062583367
   length_score: 100
   category_score: 0
   rank: 10

@@ -15,54 +15,70 @@ authors:
 - admin
 alttags: Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions
 related_articles:
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 74.59140495332304
+- slug: invitation
+  title: INVITATION
+  score: 70.98995294427537
   llm_score: 85
-  recency_score: 69.84413219659965
+  recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 70.56858552085485
-  llm_score: 87
-  recency_score: 35.69580588555647
+- slug: truth
+  title: TRUTH
+  score: 65.34255421188206
+  llm_score: 75
+  recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
   rank: 2
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 65.48218309890518
-  llm_score: 85
+  score: 59.32833694505903
+  llm_score: 75
   recency_score: 10.634190142883599
   length_score: 100
   category_score: 0
   rank: 3
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 65.13580354993599
-  llm_score: 75
-  recency_score: 48.38272307458382
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 58.90083018334871
+  llm_score: 65
+  recency_score: 47.85539619176654
   length_score: 100
   category_score: 0
   rank: 4
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 54.80426676773953
-  llm_score: 70
-  recency_score: 1.2277339903068436
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 58.72151218150092
+  llm_score: 65
+  recency_score: 46.6898291797559
   length_score: 100
   category_score: 0
   rank: 5
-- slug: s-o-s
-  title: S.O.S
-  score: 25.478119549400027
-  llm_score: 0
-  recency_score: 90.60777707110016
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 58.3657189099347
+  llm_score: 75
+  recency_score: 4.377172914575434
   length_score: 100
   category_score: 0
   rank: 6
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 57.960440606731254
+  llm_score: 60
+  recency_score: 61.74286394375304
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 55.48886517573125
+  llm_score: 60
+  recency_score: 45.67762364225301
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
   score: 24.34308566087865
@@ -70,28 +86,12 @@ related_articles:
   recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 22.70386547971357
-  llm_score: 0
-  recency_score: 72.57512561813819
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 18.72151218150091
-  llm_score: 0
-  recency_score: 46.6898291797559
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: survey
-  title: SURVEY
-  score: 16.43320824664146
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 22.283712645630715
   llm_score: 0
-  recency_score: 31.81585360316948
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 10

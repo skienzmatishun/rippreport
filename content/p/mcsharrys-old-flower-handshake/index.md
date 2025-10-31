@@ -10,83 +10,83 @@ thumbnail: img/lucky-charms.jpg
 authors:
 - admin
 related_articles:
-- slug: cover-up
-  title: COVER UP
-  score: 70.85259326250642
-  llm_score: 75
-  recency_score: 85.54185620629158
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 69.02094953139249
-  llm_score: 70
-  recency_score: 93.63617195405108
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 68.67430639531761
-  llm_score: 85
+  score: 74.82815254916376
+  llm_score: 95
   recency_score: 31.3829915695644
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 61.168380960655135
-  llm_score: 65
+  score: 73.47607326834745
+  llm_score: 85
   recency_score: 62.594476244258324
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: surrender
   title: SURRENDER
-  score: 56.473604827433654
-  llm_score: 65
+  score: 71.85822021204905
+  llm_score: 90
   recency_score: 32.0784313783187
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 67.88988499740667
+  llm_score: 90
+  recency_score: 6.284252483143263
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: barstool
+  title: BARSTOOL
+  score: 67.1654403482502
+  llm_score: 90
+  recency_score: 1.5753622636262385
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 54.70470574088748
-  llm_score: 65
-  recency_score: 20.580587315768575
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 66.2734857365244
+  llm_score: 85
+  recency_score: 15.777657287408536
   length_score: 100
   category_score: 0
   rank: 6
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 52.44711937874607
-  llm_score: 60
-  recency_score: 25.906275961849367
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 64.90444520326665
+  llm_score: 85
+  recency_score: 6.878893821233162
   length_score: 100
   category_score: 0
   rank: 7
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 49.447066998086086
-  llm_score: 60
+  score: 64.83168238270147
+  llm_score: 85
   recency_score: 6.405935487559478
   length_score: 100
   category_score: 0
   rank: 8
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 41.69833222798255
-  llm_score: 45
-  recency_score: 16.039159481886507
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 64.2137102227996
+  llm_score: 85
+  recency_score: 2.3891164481973193
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 21.063423755521
-  llm_score: 0
-  recency_score: 61.91225441088648
+- slug: one-woman
+  title: ONE WOMAN
+  score: 58.04797650641217
+  llm_score: 75
+  recency_score: 2.3118472916789923
   length_score: 100
   category_score: 0
   rank: 10

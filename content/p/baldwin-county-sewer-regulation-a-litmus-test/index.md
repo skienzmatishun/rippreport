@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale graphic, illustrating Baldwin County’s emerging se...
 related_articles:
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 65.73082293629726
-  llm_score: 76
-  recency_score: 48.25034908593207
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 62.467837849185024
-  llm_score: 75
-  recency_score: 31.040946019702552
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 58.98195739608983
-  llm_score: 65
-  recency_score: 48.38272307458382
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 39.45010501076763
-  llm_score: 25
-  recency_score: 81.42568256998956
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 27.921994564981446
-  llm_score: 23
-  recency_score: 14.49296467237936
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 27.17062170183429
-  llm_score: 23
-  recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 14.383841964950724
-  llm_score: 0
-  recency_score: 18.4949727721797
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: stinky-business
-  title: STINKY BUSINESS
-  score: 12.58521849967854
-  llm_score: 0
-  recency_score: 6.803920247910508
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
-  score: 12.367756041386752
-  llm_score: 0
+  score: 62.213909887540616
+  llm_score: 81
   recency_score: 5.390414269013892
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 11.579299678056381
+  rank: 1
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 61.81598773044778
+  llm_score: 80
+  recency_score: 6.803920247910508
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 52.90386532726786
+  llm_score: 65
+  recency_score: 8.875124627241007
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 40.538620976424475
+  llm_score: 23
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: going-down
+  title: GOING DOWN
+  score: 25.43998097401425
   llm_score: 0
-  recency_score: 0.265447907366482
+  recency_score: 90.35987633109261
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 18.55433175689054
+  llm_score: 2
+  recency_score: 37.60315641978851
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 15.122635145410786
+  llm_score: -2
+  recency_score: 31.297128445170113
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: repeat
+  title: REPEAT
+  score: 14.407325026922264
+  llm_score: 0
+  recency_score: 18.647612674994708
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 13.037165764996352
+  llm_score: 0
+  recency_score: 9.741577472476289
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: priorities
+  title: Priorities
+  score: 11.450362741758983
+  llm_score: -2
+  recency_score: 7.427357821433388
   length_score: 100
   category_score: 0
   rank: 10

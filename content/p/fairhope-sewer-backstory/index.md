@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Manhole cover in grass, symbolizing Fairhope infrastructure issues investigated by The Ripp Report due to past mayoral cor...
 related_articles:
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 78.2376118249146
-  llm_score: 95
-  recency_score: 53.544476861944815
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 76.60987984738955
+  llm_score: 100
+  recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
   rank: 1
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 75.11083701317037
-  llm_score: 87
-  recency_score: 65.22044058560728
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 74.63084072659579
+  llm_score: 78
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 68.68755234737516
-  llm_score: 85
-  recency_score: 31.469090257938433
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 74.22362358093227
+  llm_score: 77
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 3
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 65.79573505424518
-  llm_score: 85
-  recency_score: 12.67227785259367
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 65.67568249154664
+  llm_score: 79
+  recency_score: 35.89193619505306
   length_score: 100
   category_score: 0
   rank: 4
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 64.85570567828515
-  llm_score: 75
-  recency_score: 46.562086908853416
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 60.97288825591891
+  llm_score: 78
+  recency_score: 9.323773663472833
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 60.16131699006224
-  llm_score: 72
-  recency_score: 28.048560435404436
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 60.43331871315416
+  llm_score: 79
+  recency_score: 1.8165716355019172
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 32.64304305208204
-  llm_score: 23
-  recency_score: 45.179779838533264
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 18.68226063658305
+  llm_score: 0
+  recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
   rank: 7
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 25.43998097401425
-  llm_score: 0
-  recency_score: 90.35987633109261
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 17.873812282851272
+  llm_score: -1
+  recency_score: 45.179779838533264
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 17.94075116362909
-  llm_score: 0
-  recency_score: 41.61488256358909
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 16.4690645289946
+  llm_score: -2
+  recency_score: 40.048919438464885
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 11.798006904230778
-  llm_score: 0
-  recency_score: 1.687044877500055
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 2.608974184250455
+  llm_score: -25
+  recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
   rank: 10

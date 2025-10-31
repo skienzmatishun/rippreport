@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Red keyboard key labeled PANIC! symbolizing Catalyst Fairhope Councils concern over potential government changes
 related_articles:
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 76.74956745472434
-  llm_score: 85
-  recency_score: 86.24783727362167
+- slug: hell-yea
+  title: HELL YEA
+  score: 88.37746973477843
+  llm_score: 100
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 76.32943663570214
-  llm_score: 85
-  recency_score: 84.14718317851063
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 80.86761183276545
+  llm_score: 88
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 76.10046826485723
-  llm_score: 85
-  recency_score: 83.00234132428609
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 77.79068875584237
+  llm_score: 83
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 75.17232874673903
-  llm_score: 85
-  recency_score: 78.36164373369505
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 76.47699457274963
+  llm_score: 81
+  recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 74.21522921439814
-  llm_score: 85
-  recency_score: 73.57614607199059
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 75.45439281170151
+  llm_score: 79
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 73.93570824436047
-  llm_score: 85
-  recency_score: 72.17854122180232
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 73.09377374375316
+  llm_score: 77
+  recency_score: 92.10952933439548
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 72.43731582528929
-  llm_score: 85
-  recency_score: 64.6865791264464
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 72.91686843642609
+  llm_score: 78
+  recency_score: 86.95964483676948
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 62.61259972348435
-  llm_score: 85
-  recency_score: 15.562998617421716
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 71.6319657032462
+  llm_score: 75
+  recency_score: 90.60777707110016
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 62.528480597184696
-  llm_score: 85
-  recency_score: 15.142402985923455
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 70.2974521690287
+  llm_score: 76
+  recency_score: 77.93343909868652
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 57.68125519236988
-  llm_score: 75
-  recency_score: 25.906275961849367
+- slug: catalyst
+  title: CATALYST
+  score: 24.484182027463177
+  llm_score: 0
+  recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 10
 ---

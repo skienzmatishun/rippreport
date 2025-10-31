@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: 'Prohibition signs: one displays CATALYST, the other a scales of justice, symbolizing corruption among elected officials'
 related_articles:
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 77.52102313566365
-  llm_score: 85
-  recency_score: 88.88665038181365
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 71.90188157181696
+  llm_score: 75
+  recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 76.27064203325824
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 70.44432601538725
   llm_score: 85
-  recency_score: 80.75917321617852
+  recency_score: 42.88811910001705
   length_score: 100
   category_score: 0
   rank: 2
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 69.42213725323005
-  llm_score: 75
-  recency_score: 76.2438921459952
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 65.86530771692078
+  llm_score: 65
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-busted
-  title: CATALYST BUSTED
-  score: 66.34090734657106
-  llm_score: 85
-  recency_score: 16.215897752711804
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 63.03555598480498
+  llm_score: 75
+  recency_score: 34.73111390123228
   length_score: 100
   category_score: 0
   rank: 4
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 60.235367511101344
+- slug: one-woman
+  title: ONE WOMAN
+  score: 62.8627438604982
   llm_score: 75
-  recency_score: 16.529888822158654
+  recency_score: 33.60783509323819
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 26.672246404880518
-  llm_score: 0
-  recency_score: 98.36960163172333
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 62.5162411427381
+  llm_score: 60
+  recency_score: 91.35556742779755
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 26.589548333269796
-  llm_score: 0
-  recency_score: 97.83206416625366
+- slug: barstool
+  title: BARSTOOL
+  score: 61.21559837641685
+  llm_score: 75
+  recency_score: 22.901389446709434
   length_score: 100
   category_score: 0
   rank: 7
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 26.10276386439366
-  llm_score: 0
-  recency_score: 94.66796511855877
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 40.289060587882034
+  llm_score: 45
+  recency_score: 6.878893821233162
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 24.031215972902842
-  llm_score: 0
-  recency_score: 81.20290382386844
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 39.78445473282596
+  llm_score: 35
+  recency_score: 43.598955763368686
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 23.69359479399811
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 13.2291719982521
   llm_score: 0
-  recency_score: 79.0083661609877
+  recency_score: 10.989617988638654
   length_score: 100
   category_score: 0
   rank: 10

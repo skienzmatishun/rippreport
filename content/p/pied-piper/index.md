@@ -23,83 +23,83 @@ authors:
 - admin
 alttags: Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and...
 related_articles:
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 77.05294341486149
-  llm_score: 89
-  recency_score: 69.84413219659965
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 66.70939560150946
+  llm_score: 75
+  recency_score: 58.61107140981138
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 76.0277976250662
-  llm_score: 95
-  recency_score: 39.1806845629302
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 63.55391764967272
+  llm_score: 60
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 2
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 72.19738611412525
-  llm_score: 85
+  score: 56.812770729509865
+  llm_score: 60
   recency_score: 54.28300974181401
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 69.32279123122501
-  llm_score: 85
-  recency_score: 35.59814300296249
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 54.03646335206704
+  llm_score: 45
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 63.43134304217996
-  llm_score: 73
-  recency_score: 45.30372977416965
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 52.34093487626747
+  llm_score: 65
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 58.721998345109206
-  llm_score: 75
-  recency_score: 6.69298924320973
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 48.68662068067098
+  llm_score: 60
+  recency_score: 1.463034424361258
   length_score: 100
   category_score: 0
   rank: 6
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 26.630840726595785
-  llm_score: 0
-  recency_score: 98.10046472287257
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 42.534011239211765
+  llm_score: 50
+  recency_score: 1.4710730548763988
   length_score: 100
   category_score: 0
   rank: 7
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 17.435580378828206
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 22.857868626460096
   llm_score: 0
-  recency_score: 38.33127246238332
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 13.399322460526713
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 16.823473372009246
   llm_score: 0
-  recency_score: 12.09559599342363
+  recency_score: 34.35257691806009
   length_score: 100
   category_score: 0
   rank: 9
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 11.76354375759404
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 16.121714982848143
   llm_score: 0
-  recency_score: 1.463034424361258
+  recency_score: 29.79114738851293
   length_score: 100
   category_score: 0
   rank: 10

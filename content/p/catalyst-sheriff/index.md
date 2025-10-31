@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Satirical depiction of a police chief in uniform and another figure in handcuffs, referencing Fairhope’s recent events and...
 related_articles:
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 79.50975554986516
-  llm_score: 90
-  recency_score: 82.54877774932578
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 100
+  llm_score: 2359
+  recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 1
 - slug: cooking-for-the-judge
   title: COOKING FOR THE JUDGE
-  score: 78.53762349360868
-  llm_score: 85
+  score: 89.41355653354513
+  llm_score: 84
   recency_score: 95.18811746804333
-  category_score: 0
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 78.02312487593503
-  llm_score: 85
+  score: 74.40240375071926
+  llm_score: 79
   recency_score: 92.61562437967505
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 73.66149687375565
-  llm_score: 85
-  recency_score: 70.80748436877823
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 73.60576059759582
+  llm_score: 79
+  recency_score: 87.43744388437275
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 71.7139847791858
-  llm_score: 85
-  recency_score: 61.06992389592894
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 73.43998097401426
+  llm_score: 78
+  recency_score: 90.35987633109261
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 70.32610187044025
-  llm_score: 75
-  recency_score: 89.13050935220119
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 72.9903759822112
+  llm_score: 78
+  recency_score: 87.43744388437275
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 59.6021840116519
-  llm_score: 85
-  recency_score: 0.5109200582594592
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 72.30897940938273
+  llm_score: 79
+  recency_score: 79.0083661609877
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 59.583890715831245
-  llm_score: 85
-  recency_score: 0.4194535791561977
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 63.661771126506736
+  llm_score: 80
+  recency_score: 18.801512322293714
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 54.69792359772774
-  llm_score: 75
-  recency_score: 10.989617988638654
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 62.944611342663215
+  llm_score: 80
+  recency_score: 14.139973727310823
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 52.877520374280834
-  llm_score: 75
-  recency_score: 1.887601871404123
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 58.93413064419106
+  llm_score: 77
+  recency_score: 0.07184918724182528
+  length_score: 100
   category_score: 0
   rank: 10
 ---

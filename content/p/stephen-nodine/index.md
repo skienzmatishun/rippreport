@@ -9,83 +9,83 @@ youtube: ky_vilKcvq0
 authors:
 - admin
 related_articles:
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 72.42935007736155
-  llm_score: 85
-  recency_score: 55.79077550285001
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 80.48832178956596
+  llm_score: 75
+  recency_score: 73.17409163217867
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 71.97995595769126
-  llm_score: 75
-  recency_score: 92.86971372499306
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 76.63884144075462
+  llm_score: 85
+  recency_score: 8.152469364904984
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 66.4096636275815
-  llm_score: 70
-  recency_score: 76.66281357927963
+- slug: no-justice
+  title: NO JUSTICE
+  score: 74.90598018435097
+  llm_score: 75
+  recency_score: 36.88887119828122
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 3
-- slug: he-must-go
-  title: He Must Go
-  score: 64.41824134397062
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 72.77341860633184
   llm_score: 75
-  recency_score: 43.718568735808944
+  recency_score: 23.027220941156877
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 4
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 60.080064403144995
-  llm_score: 75
-  recency_score: 15.520418620442342
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 70.3545563597032
+  llm_score: 85
+  recency_score: 42.3046163380707
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 57.46076504187381
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 65.41967541567698
   llm_score: 70
-  recency_score: 18.4949727721797
+  recency_score: 70.22789020190031
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 19.663998752678694
-  llm_score: 0
-  recency_score: 52.81599189241148
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 65.36354252937923
+  llm_score: 75
+  recency_score: 49.86302644096496
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp-128
-  title: Big News
-  score: 19.146903536556323
-  llm_score: 0
-  recency_score: 49.45487298761609
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 64.1121618870637
+  llm_score: 75
+  recency_score: 41.72905226591405
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 14.919894307818735
-  llm_score: 0
-  recency_score: 21.979313000821772
+- slug: justified
+  title: JUSTIFIED
+  score: 59.55316861437288
+  llm_score: 75
+  recency_score: 12.09559599342363
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 12.04909081261471
-  llm_score: 0
-  recency_score: 3.3190902819956127
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 58.81020576457263
+  llm_score: 75
+  recency_score: 7.266337469721972
   length_score: 100
   category_score: 0
   rank: 10

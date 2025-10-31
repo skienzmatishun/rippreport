@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Question mark against a black background; prompts inquiry about city council inaction as detailed in the article
 related_articles:
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 95.62944962510568
-  llm_score: 100
-  recency_score: 78.14724812552835
+- slug: victory
+  title: VICTORY
+  score: 65.89191754717756
+  llm_score: 64
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: hell-yea
-  title: HELL YEA
-  score: 95.51287958944485
-  llm_score: 95
-  recency_score: 97.56439794722424
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 61.39958730097054
+  llm_score: 67
+  recency_score: 56.097317456308396
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 84.41642191956065
-  llm_score: 90
+  score: 60.47417070735436
+  llm_score: 64
   recency_score: 62.08210959780326
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 83.29061318606567
-  llm_score: 85
-  recency_score: 76.45306593032835
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 57.22098372266341
+  llm_score: 64
+  recency_score: 40.936394197312076
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: repeat
-  title: REPEAT
-  score: 82.02739968526954
-  llm_score: 90
-  recency_score: 50.13699842634772
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 57.10135276128466
+  llm_score: 64
+  recency_score: 40.15879294835018
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 79.94421985783589
-  llm_score: 90
-  recency_score: 39.72109928917947
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 56.92580791697007
+  llm_score: 65
+  recency_score: 35.01775146030539
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: shut-up-2
-  title: SHUT UP
-  score: 79.72221428196228
-  llm_score: 85
-  recency_score: 58.61107140981138
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 55.63363488964211
+  llm_score: 64
+  recency_score: 30.618626782673648
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 77.8369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
+- slug: nuff-said
+  title: NUFF SAID
+  score: 55.05211258239756
+  llm_score: 65
+  recency_score: 22.8387317855841
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: timeline
-  title: TIMELINE
-  score: 76.12026192592202
-  llm_score: 85
-  recency_score: 40.601309629610085
+- slug: loser
+  title: LOSER
+  score: 25.554710884772245
+  llm_score: 0
+  recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 75.35758882342884
-  llm_score: 85
-  recency_score: 36.787944117144235
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 12.822064545345201
+  llm_score: 2
+  recency_score: 0.34341954474380887
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 {{< socialpreview url="https://rippreport.com/p/victory/" >}}

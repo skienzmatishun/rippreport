@@ -8,83 +8,83 @@ rumble: v2zy9vi
 thumbnail: img/not-a-hard-liquor.jpg
 alttags: Alabama Governor Kay Ivey’s likeness on a beverage can, resembling Colonel Sanders, alongside Baldwin County seal & podcas...
 related_articles:
-- slug: bad-faith
-  title: Bad Faith
-  score: 67.21124235504588
+- slug: the-big-lie
+  title: THE BIG LIE
+  score: 55.825725757690066
   llm_score: 70
-  recency_score: 81.87307530779819
+  recency_score: 7.867217424985351
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 61.04606176743815
-  llm_score: 75
-  recency_score: 21.799401488347854
+- slug: war
+  title: WAR
+  score: 54.75718373506019
+  llm_score: 65
+  recency_score: 20.921694277891152
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 59.808897823838564
-  llm_score: 75
-  recency_score: 13.757835854950565
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 52.371411863225255
+  llm_score: 60
+  recency_score: 25.414177110964058
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 56.70317804951832
-  llm_score: 70
-  recency_score: 13.570657321869012
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 51.31948115884036
+  llm_score: 45
+  recency_score: 78.57662753246225
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 55.62353867834563
-  llm_score: 65
-  recency_score: 26.55300140924655
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 48.50271364027015
+  llm_score: 60
+  recency_score: 0.26763866175590273
   length_score: 100
   category_score: 0
   rank: 5
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 51.46718078513308
-  llm_score: 60
-  recency_score: 19.53667510336496
+- slug: combat
+  title: COMBAT
+  score: 42.70564326208454
+  llm_score: 50
+  recency_score: 2.5866812035494737
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 40.31802330777113
-  llm_score: 40
-  recency_score: 27.067151500512303
+- slug: im-back
+  title: I'M BACK
+  score: 42.41719156959473
+  llm_score: 50
+  recency_score: 0.7117452023656687
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 39.0296337865322
-  llm_score: 42
-  recency_score: 10.692619612459277
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 35.61335640899834
+  llm_score: 30
+  recency_score: 36.486816658489175
   length_score: 100
   category_score: 0
   rank: 8
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 14.116597492119578
-  llm_score: 0
-  recency_score: 16.757883698777256
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 31.310428667069104
+  llm_score: 30
+  recency_score: 8.517786335949154
   length_score: 100
   category_score: 0
   rank: 9
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 13.033065345597265
+- slug: the-180
+  title: THE 180
+  score: 16.837972709521445
   llm_score: 0
-  recency_score: 9.714924746382225
+  recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
   rank: 10

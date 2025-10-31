@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Muddy wave cresting near a “Fly Creek” sign, illustrating infrastructure failures impacting the creek with sediment runoff
 related_articles:
-- slug: stinking-ticking-time-bomb
-  title: STINKING TICKING TIME BOMB
-  score: 72.41709658312305
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 70.74486983723672
   llm_score: 75
-  recency_score: 95.71112779029973
+  recency_score: 84.8416539420386
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stinky-business
-  title: STINKY BUSINESS
-  score: 63.20419383002445
-  llm_score: 65
-  recency_score: 75.82725989515886
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 69.82461097602022
+  llm_score: 85
+  recency_score: 38.85997134413138
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 58.413459246702324
-  llm_score: 75
-  recency_score: 4.687485103565025
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 64.04295998520153
+  llm_score: 85
+  recency_score: 1.2792399038099316
   length_score: 100
   category_score: 0
   rank: 3
-- slug: grinder-pumps
-  title: GRINDER PUMPS
-  score: 57.851682749436854
-  llm_score: 75
-  recency_score: 1.0359378713394423
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: wetlands
-  title: WETLANDS
-  score: 57.808928942650226
-  llm_score: 75
-  recency_score: 0.7580381272263648
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 57.794838609471064
-  llm_score: 75
+  score: 63.94868476331722
+  llm_score: 85
   recency_score: 0.6664509615618259
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: holes
-  title: HOLES
-  score: 57.77533798221373
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 63.916213176970665
+  llm_score: 85
+  recency_score: 0.4553856503092191
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 58.79802171067293
   llm_score: 75
-  recency_score: 0.5396968843891398
+  recency_score: 7.1871411193739325
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 57.89624968764597
+  llm_score: 75
+  recency_score: 1.3256229696987023
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 56.21156670607193
-  llm_score: 70
-  recency_score: 10.375183589467447
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 57.857914514638715
+  llm_score: 75
+  recency_score: 1.0764443451515464
   length_score: 100
   category_score: 0
   rank: 8
-- slug: big-head-gully-and-the-fruit-nuts
-  title: BIG HEAD GULLY AND THE FRUIT NUTS
-  score: 54.77651585381751
-  llm_score: 70
-  recency_score: 1.0473530498137102
+- slug: balls
+  title: BALLS
+  score: 57.76010115391477
+  llm_score: 75
+  recency_score: 0.4406575004459113
   length_score: 100
   category_score: 0
   rank: 9
-- slug: can-you-smell-it
-  title: CAN YOU SMELL IT?
-  score: 54.730419206691856
-  llm_score: 70
-  recency_score: 0.7477248434970013
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 57.7223548215491
+  llm_score: 75
+  recency_score: 0.1953063400690051
   length_score: 100
   category_score: 0
   rank: 10

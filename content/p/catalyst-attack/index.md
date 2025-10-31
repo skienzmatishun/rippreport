@@ -15,72 +15,82 @@ alttags: Political campaign signs for Boone, Sherry, and Jack Burrell in a Baldw
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 86.12009294457452
-  llm_score: 95
+  score: 78.9385330342881
+  llm_score: 85
   recency_score: 98.10046472287257
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-last-stand
-  title: CATALYST LAST STAND
-  score: 81.88179115997222
-  llm_score: 90
-  recency_score: 94.40895579986105
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 75.9017913436454
+  llm_score: 85
+  recency_score: 78.36164373369505
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 80.73629014021759
-  llm_score: 87
+  score: 72.950992415552
+  llm_score: 75
   recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: catalyst-signs
   title: CATALYST SIGNS
-  score: 80.62789538259509
-  llm_score: 87
+  score: 72.86761183276546
+  llm_score: 75
   recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 61.89275303933815
-  llm_score: 85
-  recency_score: 11.96376519669074
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 71.48003633798257
+  llm_score: 75
+  recency_score: 89.62023619688662
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 61.74662907448486
-  llm_score: 85
-  recency_score: 11.233145372424257
+- slug: last-chance
+  title: LAST CHANCE
+  score: 60.29172112640639
+  llm_score: 75
+  recency_score: 16.896187321641428
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 61.703953562668815
-  llm_score: 85
-  recency_score: 11.019767813344055
-  category_score: 0
-  rank: 7
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 61.29458423192869
-  llm_score: 85
-  recency_score: 8.972921159643409
-  category_score: 0
-  rank: 8
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 55.034455570518745
-  llm_score: 75
-  recency_score: 12.67227785259367
-  category_score: 0
-  rank: 9
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
-  score: 51.002431937343
-  llm_score: 70
+  score: 53.07879379795616
+  llm_score: 65
   recency_score: 10.01215968671496
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 49.95205306792583
+  llm_score: 60
+  recency_score: 9.688344941517835
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 49.80836561656697
+  llm_score: 60
+  recency_score: 8.754376507685183
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 20.60509376242284
+  llm_score: 0
+  recency_score: 58.93310945574846
+  length_score: 100
   category_score: 0
   rank: 10
 ---

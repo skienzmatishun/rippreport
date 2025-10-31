@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Diagram illustrating Alabama Port Authoritys proposed spoil disposal plan & timeline affecting wetlands habitat
 related_articles:
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 68.40311326105949
-  llm_score: 70
-  recency_score: 89.62023619688662
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 71.32976286212536
+  llm_score: 75
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 67.81177519882625
-  llm_score: 70
-  recency_score: 85.7765387923706
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 65.3216233179263
+  llm_score: 75
+  recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 65.44931679848317
-  llm_score: 70
-  recency_score: 70.42055919014051
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 64.59102368339056
+  llm_score: 65
+  recency_score: 84.8416539420386
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 65.30191864989952
-  llm_score: 70
-  recency_score: 69.4624712243468
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 63.89505651690116
+  llm_score: 65
+  recency_score: 80.31786735985746
   length_score: 100
   category_score: 0
   rank: 4
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 62.26563113495898
-  llm_score: 70
-  recency_score: 49.72660237723329
+- slug: s-o-s
+  title: S.O.S
+  score: 59.95861692935238
+  llm_score: 65
+  recency_score: 54.731010040790416
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bad-faith
-  title: Bad Faith
-  score: 58.28648443946603
-  llm_score: 70
-  recency_score: 23.862148856529085
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 58.503623622536715
+  llm_score: 75
+  recency_score: 5.273553546488564
   length_score: 100
   category_score: 0
   rank: 6
-- slug: horrible-hurricane-harvey
-  title: HORRIBLE HURRICANE HARVEY
-  score: 54.82730099926675
-  llm_score: 70
-  recency_score: 1.3774564952337773
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 57.92555101036256
+  llm_score: 75
+  recency_score: 1.5160815673565506
   length_score: 100
   category_score: 0
   rank: 7
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 54.544103862056154
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 55.02335161641121
   llm_score: 65
-  recency_score: 19.53667510336496
+  recency_score: 22.65178550667279
   length_score: 100
   category_score: 0
   rank: 8
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 54.005429331723114
-  llm_score: 50
-  recency_score: 76.03529065620016
+- slug: tides-end
+  title: Tide's End
+  score: 53.424989103593425
+  llm_score: 65
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 52.33654978700253
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 51.599384883714855
   llm_score: 65
-  recency_score: 5.18757361551642
+  recency_score: 0.39600174414651
   length_score: 100
   category_score: 0
   rank: 10

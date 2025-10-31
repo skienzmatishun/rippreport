@@ -19,75 +19,75 @@ authors:
 - admin
 alttags: Fairhope Mayor Sullivan dressed as a bee surrounded by money, referencing the article’s metaphor about rewards and politic...
 related_articles:
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 85.77673503835783
-  llm_score: 100
-  recency_score: 82.54877774932578
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 64.64304305208205
+  llm_score: 75
+  recency_score: 45.179779838533264
   length_score: 100
   category_score: 0
   rank: 1
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 76.75645514937592
-  llm_score: 85
-  recency_score: 83.91695847094347
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 59.16254350335969
+  llm_score: 75
+  recency_score: 9.556532771837906
   length_score: 100
   category_score: 0
   rank: 2
-- slug: sting
-  title: Sting
-  score: 75.25898054709904
-  llm_score: 85
-  recency_score: 74.18337355614374
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 57.8750809902345
+  llm_score: 75
+  recency_score: 1.1880264365241602
   length_score: 100
   category_score: 0
   rank: 3
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 70.05837616973267
-  llm_score: 85
-  recency_score: 40.37944510326223
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 65.77977677093463
-  llm_score: 85
-  recency_score: 12.568549011075072
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 64.60168775089795
-  llm_score: 85
-  recency_score: 4.910970380836641
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: honey-bees
-  title: HONEY BEES
-  score: 63.02093698356059
-  llm_score: 75
-  recency_score: 34.63609039314372
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 23.997036091559977
-  llm_score: 0
+  score: 54.76626686079076
+  llm_score: 50
   recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 44.36536053423133
+  llm_score: 35
+  recency_score: 73.37484347250358
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 41.585654561997856
+  llm_score: 40
+  recency_score: 35.306754652986015
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 39.51893466273819
+  llm_score: 25
+  recency_score: 81.87307530779819
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 39.42811530401658
+  llm_score: 45
+  recency_score: 1.2827494761077036
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 23.30047168158898
-  llm_score: 0
-  recency_score: 76.45306593032835
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 36.347443568814136
+  llm_score: 40
+  recency_score: 1.2583831972918698
   length_score: 100
   category_score: 0
   rank: 9

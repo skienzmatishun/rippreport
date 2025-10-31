@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Red circle with a slash through the word Catalyst, symbolizing the group’s limited success in Baldwin County elections
 related_articles:
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 86.12009294457452
-  llm_score: 95
-  recency_score: 98.10046472287257
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 100
+  llm_score: 1000
+  recency_score: 90.35987633109261
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 85.2786122307573
-  llm_score: 95
-  recency_score: 93.89306115378648
+- slug: last-chance
+  title: LAST CHANCE
+  score: 73.36891896680572
+  llm_score: 100
+  recency_score: 1.8979732842370982
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 84.32610187044024
-  llm_score: 95
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 73.25084759264635
+  llm_score: 78
   recency_score: 89.13050935220119
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 83.56156314124607
-  llm_score: 95
-  recency_score: 85.30781570623031
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 72.32394165400302
+  llm_score: 76
+  recency_score: 91.10562075101957
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 82.47579460098616
-  llm_score: 95
-  recency_score: 79.87897300493081
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 70.90662479289024
+  llm_score: 73
+  recency_score: 93.89306115378648
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 80.02869172076296
-  llm_score: 89
-  recency_score: 88.64345860381478
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 60.77884657356981
+  llm_score: 77
+  recency_score: 12.0625027282037
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 63.01136989971914
-  llm_score: 85
-  recency_score: 17.55684949859567
-  category_score: 0
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 37.52200940827485
+  llm_score: 0
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 100
   rank: 7
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 61.79013091918722
-  llm_score: 85
-  recency_score: 11.45065459593608
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 28.83893322005052
+  llm_score: 9
+  recency_score: 76.45306593032835
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 61.74662907448486
-  llm_score: 85
-  recency_score: 11.233145372424257
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 13.743846888742404
+  llm_score: 0
+  recency_score: 14.335004776825622
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 59.884830362778914
-  llm_score: 85
-  recency_score: 1.9241518138945364
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 0
+  llm_score: -259
+  recency_score: 86.24783727362167
+  length_score: 100
   category_score: 0
   rank: 10
 ---

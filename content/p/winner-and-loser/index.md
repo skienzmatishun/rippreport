@@ -14,70 +14,54 @@ authors:
 - admin
 alttags: Nick Saban, coach of the Alabama Crimson Tide football team, stands on the sidelines during a game
 related_articles:
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 66.36149666760126
-  llm_score: 85
-  recency_score: 16.349728339408063
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 48.97216773569165
+  llm_score: 60
+  recency_score: 3.3190902819956127
   length_score: 100
   category_score: 0
   rank: 1
-- slug: tides-end
-  title: Tide's End
-  score: 58.445774474116654
-  llm_score: 75
-  recency_score: 4.897534081758149
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 42.14001424497547
+  llm_score: 25
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 2
-- slug: insanity-2
-  title: INSANITY
-  score: 58.0173313602554
-  llm_score: 53
-  recency_score: 90.11265384166002
+- slug: fauxhope-party-before-country-or-city
+  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
+  score: 33.798074631317704
+  llm_score: 35
+  recency_score: 4.687485103565025
   length_score: 100
   category_score: 0
   rank: 3
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 57.95043478092856
-  llm_score: 75
-  recency_score: 1.6778260760355546
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 31.20852249104101
+  llm_score: 20
+  recency_score: 47.85539619176654
   length_score: 100
   category_score: 0
   rank: 4
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 57.93734176195738
-  llm_score: 75
-  recency_score: 1.5927214527228477
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 30.56201820745337
+  llm_score: 30
+  recency_score: 3.653118348446851
   length_score: 100
   category_score: 0
   rank: 5
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 57.93006733872095
-  llm_score: 75
-  recency_score: 1.5454377016861052
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 24.494224679046184
+  llm_score: 20
+  recency_score: 4.212460413800172
   length_score: 100
   category_score: 0
   rank: 6
-- slug: war
-  title: WAR
-  score: 52.40499726511753
-  llm_score: 66
-  recency_score: 1.632482223263862
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: super-bowl-lv
-  title: Super Bowl LV
-  score: 40.097872608315555
-  llm_score: 23
-  recency_score: 93.63617195405108
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: lets-talk-about-the-bama-loss
   title: Let's Talk About The Bama Loss
   score: 18.701859524438987
@@ -85,12 +69,28 @@ related_articles:
   recency_score: 46.562086908853416
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 11.78892550621884
+  rank: 7
+- slug: open-your-eyes
+  title: OPEN YOUR EYES
+  score: 12.888983690229184
   llm_score: 0
-  recency_score: 1.628015790422465
+  recency_score: 8.77839398648969
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 12.26955985423105
+  llm_score: 0
+  recency_score: 4.7521390525018266
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 11.758061650444414
+  llm_score: 0
+  recency_score: 1.4274007278886993
   length_score: 100
   category_score: 0
   rank: 10

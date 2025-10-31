@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Aerial view highlights Fairhope City Hall and surrounding area, featured in the State of the City report
 related_articles:
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 83.19364738910056
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 84.30367523756182
   llm_score: 100
-  recency_score: 65.75870802915355
+  recency_score: 72.97388904415178
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 70.81595842679535
-  llm_score: 85
-  recency_score: 45.30372977416965
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 76.02791549247507
+  llm_score: 80
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 2
-- slug: s-o-s
-  title: S.O.S
-  score: 68.28117503169653
-  llm_score: 85
-  recency_score: 28.827637706027392
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 69.97342459925522
+  llm_score: 76
+  recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 68.17584724293476
-  llm_score: 75
-  recency_score: 68.14300707907584
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 64.08502319104866
+  llm_score: 74
+  recency_score: 45.55265074181627
   length_score: 100
   category_score: 0
   rank: 4
-- slug: truth
-  title: TRUTH
-  score: 67.53562389365936
-  llm_score: 75
-  recency_score: 63.98155530878573
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 41.13265080258618
+  llm_score: 25
+  recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
   rank: 5
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 63.153961126724745
-  llm_score: 75
-  recency_score: 35.500747323710755
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 23.86124916461697
+  llm_score: 0
+  recency_score: 80.0981195700103
   length_score: 100
   category_score: 0
   rank: 6
-- slug: tick-tock
-  title: TICK-TOCK
-  score: 63.10925480082832
-  llm_score: 75
-  recency_score: 35.21015620538397
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 22.25431389215568
+  llm_score: 0
+  recency_score: 69.6530402990119
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 62.16437097907571
-  llm_score: 76
-  recency_score: 25.06841136399206
+- slug: invitation
+  title: INVITATION
+  score: 22.079602810234114
+  llm_score: 0
+  recency_score: 68.51741826652172
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 59.08847851510827
-  llm_score: 76
-  recency_score: 5.075110348203666
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 2.279362092795303
+  llm_score: -23
+  recency_score: 31.81585360316948
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 26.797146261705834
-  llm_score: 0
-  recency_score: 99.18145070108791
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 0
+  llm_score: -78
+  recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 10

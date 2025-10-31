@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake, referencing alleged questionable dealings in B...
 related_articles:
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 85.77733007636273
-  llm_score: 85
-  recency_score: 88.88665038181365
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 76.64432576431437
+  llm_score: 82
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fear
-  title: FEAR
-  score: 81.85448470843463
-  llm_score: 85
-  recency_score: 69.27242354217314
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 75.67226364999894
+  llm_score: 81
+  recency_score: 92.86971372499306
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: shadow-government-southern-style
-  title: SHADOW GOVERNMENT SOUTHERN STYLE
-  score: 74.15617326362458
-  llm_score: 90
-  recency_score: 10.780866318122923
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 74.02317771146886
+  llm_score: 78
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 70.6772050791888
-  llm_score: 85
-  recency_score: 13.386025395943985
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 73.55471088477226
+  llm_score: 78
+  recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 70.4592141866564
-  llm_score: 85
-  recency_score: 12.296070933282007
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 73.40779309608423
+  llm_score: 77
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: skunked
-  title: SKUNKED
-  score: 68.73747273054873
-  llm_score: 65
-  recency_score: 83.68736365274363
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 73.17163451995002
+  llm_score: 77
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 58.63355597126228
-  llm_score: 70
-  recency_score: 13.167779856311412
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 72.74339448711596
+  llm_score: 75
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 56.65619237382861
-  llm_score: 65
-  recency_score: 23.280961869143056
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 72.296566926891
+  llm_score: 75
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 55.70914268128782
-  llm_score: 65
-  recency_score: 18.545713406439127
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 26.062916276901703
+  llm_score: 0
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 54.72904423720288
-  llm_score: 65
-  recency_score: 13.645221186014394
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 7.1083557658754515
+  llm_score: -19
+  recency_score: 47.204312478190445
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County Superintendent Eddie Tyler into the Barrel. It is interesting that Jonathan Gray works for both. How can a school board consultant be drawing a pay check from the school system while he is lining his pockets with Elliott Campaign money?

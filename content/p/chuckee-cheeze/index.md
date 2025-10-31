@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Chucky doll caricature representing Chuckee Cheeze, a local journalist criticized in an article about Fairhope politics
 related_articles:
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 77.78110874039773
-  llm_score: 95
-  recency_score: 56.40554370198863
-  category_score: 0
-  rank: 1
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 75.05415564363686
-  llm_score: 95
-  recency_score: 42.77077821818432
-  category_score: 0
-  rank: 2
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 74.18728672756747
-  llm_score: 95
-  recency_score: 38.436433637837325
-  category_score: 0
-  rank: 3
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 69.41811031330417
-  llm_score: 85
-  recency_score: 49.59055156652082
-  category_score: 0
-  rank: 4
 - slug: hallucinations
   title: HALLUCINATIONS
-  score: 64.62944962510568
-  llm_score: 70
+  score: 73.407268942389
+  llm_score: 81
   recency_score: 78.14724812552835
+  length_score: 100
   category_score: 0
-  rank: 5
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 61.14841536332693
-  llm_score: 75
-  recency_score: 43.242076816634636
+  rank: 1
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 63.89037471449059
+  llm_score: 76
+  recency_score: 36.28743564418876
+  length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: fake-news-and-retaliation
   title: FAKE NEWS AND RETALIATION
-  score: 58.377166390080546
-  llm_score: 75
+  score: 63.44397414621581
+  llm_score: 77
   recency_score: 29.385831950402675
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 61.776263600990646
+  llm_score: 77
+  recency_score: 18.545713406439127
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 21.011374911529327
+  llm_score: 0
+  recency_score: 61.57393692494061
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 20.216237492613637
+  llm_score: 0
+  recency_score: 56.40554370198863
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 15.806593399611863
+  llm_score: 0
+  recency_score: 27.742857097477103
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: jack-ass
-  title: JACK ASS
-  score: 58.15600931164779
-  llm_score: 75
-  recency_score: 28.280046558238915
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 14.09549417834591
+  llm_score: 0
+  recency_score: 16.62071215924841
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: jester-clone-clown
-  title: The Jester The Clone and the Clown
-  score: 50.9431743480055
-  llm_score: 65
-  recency_score: 27.215871740027474
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 0
+  llm_score: -9000000
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 50.83977933106959
-  llm_score: 65
-  recency_score: 26.69889665534791
+- slug: gob-coup
+  title: GOB COUP
+  score: 0
+  llm_score: -10097
+  recency_score: 23.927614244485454
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Bathroom interior; likely a recovery space after multiple surgeries related to Agent Orange exposure and recent shoulder i...
 related_articles:
-- slug: exposure-2
-  title: EXPOSURE
-  score: 89.89249424486937
-  llm_score: 95
-  recency_score: 69.4624712243468
+- slug: police-report
+  title: POLICE REPORT
+  score: 79.9897598613364
+  llm_score: 73
+  recency_score: 77.93343909868652
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: recovery
-  title: RECOVERY
-  score: 86.52312487593501
-  llm_score: 85
-  recency_score: 92.61562437967505
-  rank: 2
-- slug: do-your-job-pass-the-budget
-  title: DO YOUR JOB, PASS THE BUDGET
-  score: 66.16570646873585
-  llm_score: 70
-  recency_score: 50.828532343679264
-  rank: 3
-- slug: backstory-podcast-11
-  title: 'BACKSTORY PODCAST #11'
-  score: 65.82905888579863
-  llm_score: 75
-  recency_score: 29.145294428993168
-  rank: 4
-- slug: backstory-podcast-16-the-jack-wilson-complex
-  title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
-  score: 61.068928904416644
-  llm_score: 70
-  recency_score: 25.34464452208322
-  rank: 5
-- slug: im-back-2
-  title: I'M BACK
-  score: 60.18165652695711
-  llm_score: 75
-  recency_score: 0.9082826347855467
-  rank: 6
-- slug: backstory-podcast-12
-  title: 'BACKSTORY PODCAST #12'
-  score: 57.68708620791861
-  llm_score: 65
-  recency_score: 28.435431039593066
-  rank: 7
 - slug: combat
   title: COMBAT
-  score: 57.503153627041506
-  llm_score: 65
+  score: 61.92550279003194
+  llm_score: 75
   recency_score: 27.51576813520753
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 60.28683892554357
+  llm_score: 74
+  recency_score: 20.864453016033117
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 58.244914822579034
+  llm_score: 74
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: no-radar
+  title: NO RADAR
+  score: 58.18263709528831
+  llm_score: 74
+  recency_score: 7.1871411193739325
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 57.74177921776003
+  llm_score: 75
+  recency_score: 0.321564915440132
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 57.61048728883164
+  llm_score: 73
+  recency_score: 7.468167377405599
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 57.591766599117676
+  llm_score: 74
+  recency_score: 3.346482894264831
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: backstory-podcast-15-the-banquette
-  title: BACKSTORY PODCAST 15 - The Banquette
-  score: 57.181255192369875
-  llm_score: 65
-  recency_score: 25.906275961849367
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 57.30636359972626
+  llm_score: 74
+  recency_score: 1.4913633982206251
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 52.204929421548194
-  llm_score: 65
-  recency_score: 1.0246471077409638
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 56.476155957700094
+  llm_score: 73
+  recency_score: 0.09501372505052386
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Ripp Report is back. Sorry for missing a week but some old injuries caught up with me, I suffered a body concussion in Vietnam, 50 years ago, as a result I have had 14 surgeries, two infections, a muscle tear and my kidney removed, Agent Orange. My operation Dec. 2017, a total reverse shoulder, went well for 4 months, then I discovered slippage in the shoulder. July 20th I had surgery to correct that and discovered that the shoulder was infected. Now I am having to deal with recovery and daily infusions for a month. My other shoulder is scheduled for a total reverse Dec. of this year, providing all current conditions are cleared up. That is my excuse for missing last week posts, it is the first weeks posts that The Ripp Report has missed in several years. So I am back, not quite 100%, but getting better every week.

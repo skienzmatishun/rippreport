@@ -8,45 +8,85 @@ authors:
 - ripp-report
 alttags: Comic book style explosion representing a blast from the past reshaping Fairhope’s government
 related_articles:
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 85
+- slug: skunked
+  title: SKUNKED
+  score: 74.47298700545457
+  llm_score: 81
+  recency_score: 85.07441553545459
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 85
-  rank: 2
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 85
-  rank: 3
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 85
-  rank: 4
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 75
-  rank: 5
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 75
-  rank: 6
 - slug: hell-yea
   title: HELL YEA
-  score: 75
+  score: 74.05563749749156
+  llm_score: 82
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 71.69359479399812
+  llm_score: 78
+  recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 71.01750104036608
+  llm_score: 79
+  recency_score: 70.6137567623795
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: queen-bee
+  title: QUEEN BEE
+  score: 61.00869734951354
+  llm_score: 78
+  recency_score: 9.556532771837906
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 60.6565190720777
+  llm_score: 76
+  recency_score: 15.267373968504938
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 60.12323006294037
+  llm_score: 76
+  recency_score: 11.800995409112343
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: bury-the-body
-  title: BURY THE BODY
-  score: 70
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 59.4421694737054
+  llm_score: 77
+  recency_score: 3.374101579085013
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 65
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 58.31959470371656
+  llm_score: 76
+  recency_score: 0.07736557415756225
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 50
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 16.313991695338856
+  llm_score: 0
+  recency_score: 31.040946019702552
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired employees, employees who quit, a skunk, W.A.C.O am radio, and of course Chucky Cheeze. This blast from the past now wants to reshape Fairhope’s government. They have all failed at their former positions however have united their wisdom to bless the City of Fairhope with their version of “new” government. Uniting their wisdom was necessary.

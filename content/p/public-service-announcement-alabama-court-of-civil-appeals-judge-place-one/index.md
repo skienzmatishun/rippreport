@@ -13,63 +13,83 @@ alttags: Illustration depicting a woman in judicial robes and a witch hat standi
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 88.24058076477368
-  llm_score: 90
-  recency_score: 81.20290382386844
-  rank: 1
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 85.72869172076295
+  score: 76.33890828059516
   llm_score: 85
-  recency_score: 88.64345860381478
-  rank: 2
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 76.93493205098632
-  llm_score: 95
-  recency_score: 4.674660254931597
-  rank: 3
+  recency_score: 81.20290382386844
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 76.91301970063262
-  llm_score: 85
+  score: 65.16386130817895
+  llm_score: 76
   recency_score: 44.565098503163114
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 62.069187860722515
+  llm_score: 81
+  recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 61.48840926998949
+  llm_score: 80
+  recency_score: 4.674660254931597
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 71.63868620757778
-  llm_score: 85
+  score: 60.49129708275215
+  llm_score: 75
   recency_score: 18.193431037888864
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 64.57762382000341
-  llm_score: 70
-  recency_score: 42.88811910001705
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 55.864503605114486
+  llm_score: 72
+  recency_score: 0.11927343324406557
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 52.78824585928089
+  llm_score: 67
+  recency_score: 0.12359808532571412
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 26.672246404880518
+  llm_score: 0
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: exposure
   title: EXPOSURE
-  score: 59.68887419261966
-  llm_score: 70
+  score: 14.37605707124589
+  llm_score: 0
   recency_score: 18.444370963098283
-  rank: 7
-- slug: freaky-friday
-  title: FREAKY FRIDAY
-  score: 55.181574210879226
-  llm_score: 65
-  recency_score: 15.90787105439613
-  rank: 8
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 52.88994421893924
-  llm_score: 65
-  recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 52.134390242701805
-  llm_score: 65
-  recency_score: 0.6719512135090356
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 11.982787553848777
+  llm_score: -10
+  recency_score: 42.88811910001705
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ALABAMA BEWARE OF THE CATALYST QUEEN

@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: State Sen. Tripp Pittman, departing Baldwin County politics after a controversial career marked by accusations of self-int...
 related_articles:
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 75.0866878197373
-  llm_score: 85
-  recency_score: 77.93343909868652
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 100
+  llm_score: 324579
+  recency_score: 15.95151402035018
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-exit-door
-  title: CATALYST EXIT DOOR
-  score: 74.91680735458124
-  llm_score: 85
-  recency_score: 77.0840367729061
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 74.90445738537399
+  llm_score: 83
+  recency_score: 79.87897300493081
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: knock-on-doors
-  title: KNOCK ON DOORS
-  score: 74.41819469742387
-  llm_score: 85
-  recency_score: 74.59097348711927
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 71.61281763074382
+  llm_score: 81
+  recency_score: 66.48331459983474
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 74.29608191931776
-  llm_score: 85
-  recency_score: 73.98040959658876
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 65.7417806126726
+  llm_score: 77
+  recency_score: 44.32157398237182
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 70.59718172757077
-  llm_score: 85
-  recency_score: 55.48590863785381
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 63.45637714866136
+  llm_score: 77
+  recency_score: 29.466451466298754
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: wrong-ball
-  title: WRONG BALL
-  score: 70.38638684588862
-  llm_score: 85
-  recency_score: 54.43193422944308
+- slug: jack-ass
+  title: JACK ASS
+  score: 63.431605078092275
+  llm_score: 77
+  recency_score: 29.305433007599714
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 67.83256271585594
-  llm_score: 75
-  recency_score: 76.66281357927963
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 63.08322246456964
+  llm_score: 76
+  recency_score: 31.040946019702552
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 67.17127158449027
-  llm_score: 70
-  recency_score: 90.85635792245131
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 62.495099918656045
+  llm_score: 78
+  recency_score: 19.21814947126418
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 66.39249424486937
-  llm_score: 75
-  recency_score: 69.4624712243468
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 21.682940906812966
+  llm_score: 0
+  recency_score: 65.93911589428427
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 52.29693268727895
-  llm_score: 70
-  recency_score: 16.48466343639469
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 21.011374911529327
+  llm_score: 0
+  recency_score: 61.57393692494061
+  length_score: 100
   category_score: 0
   rank: 10
 ---

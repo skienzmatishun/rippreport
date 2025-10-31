@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring a pelican, sun, water drops, and a reference to alleged corruption within its council
 related_articles:
-- slug: survey
-  title: SURVEY
-  score: 76.82739069285164
-  llm_score: 85
-  recency_score: 84.37803950353559
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 76.72113286965288
-  llm_score: 85
-  recency_score: 83.68736365274363
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: rotten
-  title: ROTTEN
-  score: 74.99277937389668
-  llm_score: 84
-  recency_score: 76.45306593032835
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 60.94649754517202
-  llm_score: 75
-  recency_score: 21.152234043618023
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 60.65860951832971
-  llm_score: 74
-  recency_score: 23.280961869143056
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 60.14916973675732
-  llm_score: 74
-  recency_score: 19.9696032889225
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: dirty-little-secrets
-  title: DIRTY LITTLE SECRETS
-  score: 28.946497545172008
-  llm_score: 23
-  recency_score: 21.152234043618023
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
-  score: 23.52822139979793
-  llm_score: 0
+  score: 81.9897598613364
+  llm_score: 95
   recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 1
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 77.91593127323996
+  llm_score: 83
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 74.92023927827475
+  llm_score: 87
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
-  score: 20.192495302371334
-  llm_score: 0
+  score: 69.42326453314057
+  llm_score: 80
   recency_score: 56.25121946541366
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: s-o-s
-  title: S.O.S
-  score: 16.794593597984967
+  rank: 4
+- slug: disposal
+  title: DISPOSAL
+  score: 64.39983934821058
+  llm_score: 75
+  recency_score: 43.598955763368686
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 25.213330827971333
   llm_score: 0
-  recency_score: 34.164858386902274
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 23.69359479399811
+  llm_score: 0
+  recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 20.369134111295814
+  llm_score: -2
+  recency_score: 65.39937172342279
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: flying-high
+  title: FLYING HIGH
+  score: 13.887288302846914
+  llm_score: 0
+  recency_score: 15.267373968504938
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 12.325691612126295
+  llm_score: 0
+  recency_score: 5.11699547882092
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Illustration depicting a mine entrance with a For Sale sign, symbolizing property development concerns in Fairhope
 related_articles:
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 75.6081639892813
-  llm_score: 85
-  recency_score: 76.45306593032835
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 87.68118231150638
+  llm_score: 100
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 73.75589198982648
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 84.61550968808253
   llm_score: 100
-  recency_score: 4.413297933872045
+  recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 2
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 71.3923169956151
-  llm_score: 85
-  recency_score: 49.0500604714981
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 68.12599525240086
-  llm_score: 85
-  recency_score: 27.818969140605503
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: disposal
   title: DISPOSAL
-  score: 25.787019135334628
-  llm_score: 0
+  score: 75.01778836610387
+  llm_score: 80
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 22.857868626460096
-  llm_score: 0
-  recency_score: 73.57614607199059
+  rank: 3
+- slug: honey-bees
+  title: HONEY BEES
+  score: 71.495417699738
+  llm_score: 78
+  recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 68.65001911252628
+  llm_score: 73
+  recency_score: 79.22512423142078
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 22.61247114403175
-  llm_score: 0
+  score: 68.15093268249329
+  llm_score: 74
   recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: back-stabber
+  title: BACK STABBER
+  score: 48.905864476925714
+  llm_score: 50
+  recency_score: 42.88811910001705
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 18.357165228057205
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 25.865307716920782
   llm_score: 0
-  recency_score: 44.32157398237182
+  recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 16.76587163653973
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 25.36401657648075
   llm_score: 0
-  recency_score: 33.97816563750821
+  recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 16.596805968200847
-  llm_score: 0
-  recency_score: 32.87923879330549
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 0
+  llm_score: -123
+  recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 10

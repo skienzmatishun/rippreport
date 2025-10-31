@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and...
 related_articles:
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 77.97807997471266
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 74.01846441619033
   llm_score: 85
-  recency_score: 91.85751983563217
+  recency_score: 66.12001870523703
   length_score: 100
   category_score: 0
   rank: 1
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 77.82405506499252
-  llm_score: 85
+  score: 71.67020891114637
+  llm_score: 75
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 2
 - slug: fauxhope
   title: FAUXHOPE
-  score: 75.96803094392625
-  llm_score: 85
+  score: 69.8141847900801
+  llm_score: 75
   recency_score: 78.79220113552056
   length_score: 100
   category_score: 0
   rank: 3
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 73.11370053570715
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 67.84266913488622
   llm_score: 85
-  recency_score: 60.23905348209645
+  recency_score: 25.977349376760323
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 66.80875645185525
-  llm_score: 75
-  recency_score: 59.25691693705903
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 67.39852241830512
+  llm_score: 85
+  recency_score: 23.090395718983192
   length_score: 100
   category_score: 0
   rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 66.53981759579294
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 65.28058056361121
   llm_score: 85
-  recency_score: 17.508814372654022
+  recency_score: 9.323773663472833
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 64.12870596190189
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 64.71498663193891
   llm_score: 85
-  recency_score: 1.8365887523621547
+  recency_score: 5.647413107602894
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 63.50919486938191
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 61.27399413371433
   llm_score: 75
-  recency_score: 37.809766650982276
+  recency_score: 23.280961869143056
   length_score: 100
   category_score: 0
   rank: 8
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 58.47206328676802
-  llm_score: 70
-  recency_score: 25.06841136399206
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 60.47600209692463
+  llm_score: 75
+  recency_score: 18.094013630009982
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 58.14001379067324
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 60.028299369788066
   llm_score: 75
-  recency_score: 2.9100896393759403
+  recency_score: 15.18394590362233
   length_score: 100
   category_score: 0
   rank: 10

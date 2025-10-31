@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal depicting a pelican over Mobile Bay; referenced in discussion of local politics and community ...
 related_articles:
-- slug: s-o-s
-  title: S.O.S
-  score: 69.35977074836103
-  llm_score: 83
-  recency_score: 43.83850986434665
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 84.17069682067624
+  llm_score: 95
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 1
-- slug: survey
-  title: SURVEY
-  score: 67.80903200448518
-  llm_score: 75
-  recency_score: 65.75870802915355
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 81.4475316615171
+  llm_score: 90
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 67.72622162855498
-  llm_score: 75
-  recency_score: 65.22044058560728
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 79.0630911680524
+  llm_score: 85
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 60.228409759445356
-  llm_score: 75
-  recency_score: 16.48466343639469
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 76.97043318557391
+  llm_score: 85
+  recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 25.326190184136408
-  llm_score: 0
-  recency_score: 89.62023619688662
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 74.70888878016926
+  llm_score: 80
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 5
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
-  score: 23.52822139979793
-  llm_score: 0
+  score: 72.75899063056717
+  llm_score: 80
   recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
   rank: 6
 - slug: rotten
   title: ROTTEN
-  score: 20.705000550137093
-  llm_score: 0
+  score: 66.85884670398326
+  llm_score: 75
   recency_score: 59.582503575891096
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 16.134289058495863
-  llm_score: 0
-  recency_score: 29.872878880223098
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 60.82404276462681
+  llm_score: 75
+  recency_score: 20.356277970074178
   length_score: 100
   category_score: 0
   rank: 8
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 14.919894307818735
-  llm_score: 0
-  recency_score: 21.979313000821772
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.96126373215438
+  llm_score: 75
+  recency_score: 1.7482142590033594
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 12.911367527065353
-  llm_score: 0
-  recency_score: 8.92388892592479
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 57.956154817297524
+  llm_score: 75
+  recency_score: 1.7150063124338188
   length_score: 100
   category_score: 0
   rank: 10

@@ -16,65 +16,85 @@ authors:
 - admin
 alttags: 'Emotional scene: people embrace amidst concerns over rising COVID-19 cases and calls for safety measures like masking'
 related_articles:
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 81.89249424486937
-  llm_score: 85
-  recency_score: 69.4624712243468
-  rank: 1
-- slug: m-i-a
-  title: M.I.A
-  score: 73.72869172076295
-  llm_score: 70
-  recency_score: 88.64345860381478
-  rank: 2
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 71.51287958944485
-  llm_score: 65
-  recency_score: 97.56439794722424
-  rank: 3
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 71.0898528806295
-  llm_score: 65
-  recency_score: 95.44926440314748
-  rank: 4
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 70.6795960873464
-  llm_score: 75
-  recency_score: 53.39798043673202
-  rank: 5
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 70.24960453479669
-  llm_score: 75
-  recency_score: 51.24802267398346
-  rank: 6
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
-  score: 67.71532550649245
-  llm_score: 65
+  score: 69.78101962037883
+  llm_score: 75
   recency_score: 78.57662753246225
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: dark-wednesday
   title: DARK WEDNESDAY
-  score: 64.3824508821773
-  llm_score: 65
+  score: 66.78457760167485
+  llm_score: 75
   recency_score: 61.91225441088648
+  length_score: 96.25
+  category_score: 0
+  rank: 2
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 65.30074969040248
+  llm_score: 75
+  recency_score: 49.45487298761609
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 63.47144583803451
+  llm_score: 60
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 56.97447700017137
+  llm_score: 60
+  recency_score: 55.33410050111382
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 56.67661237488186
+  llm_score: 60
+  recency_score: 53.39798043673202
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 55.9664658496863
+  llm_score: 60
+  recency_score: 48.78202802296086
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 26.222963754330387
+  llm_score: 0
+  recency_score: 95.44926440314748
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 19.86684503201061
+  llm_score: 0
+  recency_score: 54.13449270806896
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 57.59733732681245
-  llm_score: 60
+  score: 18.921028712932653
+  llm_score: 0
   recency_score: 47.986686634062245
-  rank: 9
-- slug: exposure-2
-  title: EXPOSURE
-  score: 55.053474793700985
-  llm_score: 65
-  recency_score: 15.267373968504938
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 1701 Covid deaths in one day, 250,000 total U.S. deaths, 11 million cases so far in the United States. One person is dying every 50 seconds. Statistics and data that would makes your head spin and yet there are people that still ignore basic health standards, some believe Covid is a hoax.

@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Hammer driving a nail into a coffin, symbolizing Fairhope City Council’s controversial land purchase decisions
 related_articles:
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 72.4980018136055
-  llm_score: 75
-  recency_score: 96.23701178843567
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 86.60274895305876
+  llm_score: 100
+  recency_score: 87.91786819488183
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 57.29580764960768
-  llm_score: 71
-  recency_score: 13.422749722449872
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 84.83893322005052
+  llm_score: 100
+  recency_score: 76.45306593032835
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 26.589548333269796
-  llm_score: 0
-  recency_score: 97.83206416625366
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 82.34415565975935
+  llm_score: 91
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 3
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 22.857868626460096
-  llm_score: 0
-  recency_score: 73.57614607199059
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 81.97416371788519
+  llm_score: 90
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 4
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 75.68934378386768
+  llm_score: 84
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 69.14038088438967
+  llm_score: 81
+  recency_score: 50.412475748532785
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 25.82610980384509
+  llm_score: 0
+  recency_score: 92.86971372499306
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: honey-bees
+  title: HONEY BEES
+  score: 24.87199463362443
+  llm_score: -2
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 24.168875793486443
+  llm_score: 0
+  recency_score: 82.09769265766185
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: disposal
   title: DISPOSAL
   score: 22.022001089088594
   llm_score: 0
   recency_score: 68.14300707907584
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 20.80600822801484
-  llm_score: 0
-  recency_score: 60.23905348209645
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 18.413440318662897
-  llm_score: 0
-  recency_score: 44.68736207130882
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 16.723082707830645
-  llm_score: 0
-  recency_score: 33.70003760089919
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 15.384588428005532
-  llm_score: 0
-  recency_score: 24.99982478203595
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 12.038020697602745
-  llm_score: 0
-  recency_score: 3.247134534417837
   length_score: 100
   category_score: 0
   rank: 10

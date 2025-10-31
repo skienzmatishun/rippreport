@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Rolled US dollar bills radiating outwards, symbolizing potential economic bailout costs amid the COVID-19 pandemic
 related_articles:
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 86.39071065521195
-  llm_score: 95
-  recency_score: 99.45355327605971
+- slug: its-no-joke
+  title: IT’S NO JOKE
+  score: 74.49183408772299
+  llm_score: 100
+  recency_score: 9.196921570199363
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 80.20020726935181
-  llm_score: 87
-  recency_score: 96.50103634675902
+- slug: 4-20
+  title: 4-20
+  score: 60.170696820676234
+  llm_score: 56
+  recency_score: 92.10952933439548
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 78.48553700495829
-  llm_score: 85
-  recency_score: 94.92768502479139
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 57.154005591809096
+  llm_score: 50
+  recency_score: 96.50103634675902
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 76.14601135914225
-  llm_score: 85
-  recency_score: 83.23005679571122
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 55.72124884123745
+  llm_score: 48
+  recency_score: 95.18811746804333
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 69.3369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 48.61385771863074
+  llm_score: 51
+  recency_score: 36.990075171099754
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 63.83667471122875
-  llm_score: 70
-  recency_score: 74.18337355614374
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 44.25185381492982
+  llm_score: 48
+  recency_score: 20.63704979704373
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 60.418194697423864
-  llm_score: 65
-  recency_score: 74.59097348711927
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 26.839008196316883
+  llm_score: 0
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-54-trump-positive
-  title: Backstory Podcast No 54 Trump Positive
-  score: 57.19014258029428
-  llm_score: 65
-  recency_score: 58.450712901471334
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-no-64-300000-dead
-  title: Backstory Podcast No 64 - 300,000 Dead
-  score: 54.915032518624734
-  llm_score: 65
-  recency_score: 47.075162593123636
-  category_score: 0
-  rank: 9
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
-  score: 44.845469967966935
-  llm_score: 57
+  score: 16.57343843689764
+  llm_score: 2
   recency_score: 24.727349839834638
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 16.56916481077892
+  llm_score: 0
+  recency_score: 32.69957127006297
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: april-fool
+  title: APRIL FOOL
+  score: 0
+  llm_score: -100
+  recency_score: 97.03126049090956
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait
 related_articles:
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 57.88834526678797
-  llm_score: 65
-  recency_score: 41.27424423412174
+- slug: im-back-2
+  title: I'M BACK
+  score: 65.57661887292055
+  llm_score: 75
+  recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 1
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 56.635654326360445
-  llm_score: 70
-  recency_score: 13.13175312134279
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 58.29416921955
+  llm_score: 75
+  recency_score: 3.9120999270748786
   length_score: 100
   category_score: 0
   rank: 2
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 56.07358582151289
-  llm_score: 70
-  recency_score: 9.47830783983372
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 54.94030787867347
-  llm_score: 70
-  recency_score: 2.112001211377513
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 52.0823028701621
-  llm_score: 65
-  recency_score: 3.5349686560536235
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 51.67257115972487
-  llm_score: 65
-  recency_score: 0.8717125382115642
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 23.013995921095272
-  llm_score: 0
-  recency_score: 74.59097348711927
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: obituary
   title: OBITUARY
-  score: 16.55540092533466
-  llm_score: 0
+  score: 56.555400925334666
+  llm_score: 65
   recency_score: 32.61010601467527
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 56.22327881533912
+  llm_score: 65
+  recency_score: 30.451312299704224
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: m-i-a
+  title: M.I.A
+  score: 53.81755775469252
+  llm_score: 65
+  recency_score: 14.814125405501343
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: rsa-⁠-no-gas-for-point-clear-or-tourism
+  title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
+  score: 52.296068237256414
+  llm_score: 65
+  recency_score: 4.924443542166608
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 36.70067561723494
+  llm_score: 40
+  recency_score: 3.554391512027108
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 31.443013449704615
+  llm_score: 45
+  recency_score: 3.7545874230799345
+  length_score: 27.500000000000004
+  category_score: 0
   rank: 8
-- slug: attention-baldwin-county
-  title: ATTENTION BALDWIN COUNTY
-  score: 13.319512513579088
-  llm_score: 0
-  recency_score: 11.57683133826407
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 30.324923263288852
+  llm_score: 30
+  recency_score: 2.112001211377513
   length_score: 100
   category_score: 0
   rank: 9
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 12.140323065703827
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 15.260196424910932
   llm_score: 0
-  recency_score: 3.9120999270748786
+  recency_score: 24.19127676192105
   length_score: 100
   category_score: 0
   rank: 10

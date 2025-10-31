@@ -8,70 +8,54 @@ authors:
 - admin
 alttags: South Alabama Mega Site advertisement placed on US currency, questioning its “shovel ready” status and value
 related_articles:
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 72.78943244549255
-  llm_score: 85
-  recency_score: 58.1313108957015
+- slug: repeat
+  title: REPEAT
+  score: 76.27805667152568
+  llm_score: 100
+  recency_score: 20.807368364916808
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lost-opportunity
-  title: LOST OPPORTUNITY
-  score: 71.88313022836113
-  llm_score: 85
-  recency_score: 52.24034648434724
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 64.49096565568017
+  llm_score: 80
+  recency_score: 24.19127676192105
   length_score: 100
   category_score: 0
   rank: 2
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 71.16829106877663
-  llm_score: 85
-  recency_score: 47.593891947047986
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 64.09352125889752
+  llm_score: 82
+  recency_score: 13.607888182833822
   length_score: 100
   category_score: 0
   rank: 3
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 65.53223856202189
-  llm_score: 85
+  score: 59.37839240817574
+  llm_score: 75
   recency_score: 10.959550653142209
   length_score: 100
   category_score: 0
   rank: 4
-- slug: dead-last
-  title: DEAD LAST
-  score: 64.6836899080289
-  llm_score: 81
-  recency_score: 21.44398440218775
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 56.295683649018315
+  llm_score: 64
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 0
   rank: 5
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 61.4140425787571
-  llm_score: 75
-  recency_score: 24.19127676192105
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: bp-catastrophe-alabama-disgrace
-  title: BP CATASTROPHE/ ALABAMA DISGRACE
-  score: 52.49211596573281
-  llm_score: 65
-  recency_score: 6.198753777263179
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
-  score: 32.55201292886603
-  llm_score: 32
+  score: 55.93662831348142
+  llm_score: 70
   recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: mega-mistake
   title: MEGA-MISTAKE
   score: 26.384774822578315
@@ -79,12 +63,28 @@ related_articles:
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 13.63198279735905
+  rank: 7
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 12.88160380617476
   llm_score: 0
-  recency_score: 13.607888182833822
+  recency_score: 8.730424740135948
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 0
+  llm_score: -58
+  recency_score: 58.1313108957015
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: dead-last
+  title: DEAD LAST
+  score: 0
+  llm_score: -100
+  recency_score: 21.44398440218775
   length_score: 100
   category_score: 0
   rank: 10

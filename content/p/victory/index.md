@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Confetti falling against a blue background; symbolizing ongoing efforts despite setbacks in Fairhope development disputes
 related_articles:
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 90.35682478958158
-  llm_score: 95
-  recency_score: 71.78412394790789
+- slug: dirty-little-secrets
+  title: DIRTY LITTLE SECRETS
+  score: 71.18632735235381
+  llm_score: 73
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 86.77861223075729
-  llm_score: 85
-  recency_score: 93.89306115378648
-  rank: 2
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 84.50975554986516
-  llm_score: 85
-  recency_score: 82.54877774932578
-  rank: 3
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 81.3251698208218
-  llm_score: 95
-  recency_score: 26.62584910410898
-  rank: 4
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 81.18782317885686
-  llm_score: 85
-  recency_score: 65.93911589428427
-  rank: 5
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 78.63355597126228
-  llm_score: 95
-  recency_score: 13.167779856311412
-  rank: 6
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 76.48413566258803
-  llm_score: 85
-  recency_score: 42.420678312940126
-  rank: 7
-- slug: history-repeating-itself
-  title: History repeating itself
-  score: 71.11259972348434
-  llm_score: 85
-  recency_score: 15.562998617421716
-  rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 70.54140880504006
-  llm_score: 85
-  recency_score: 12.707044025200286
-  rank: 9
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 60.30993551659713
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 69.3900447163385
   llm_score: 75
-  recency_score: 1.5496775829856302
+  recency_score: 76.03529065620016
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 64.54773712683185
+  llm_score: 72
+  recency_score: 56.56029132440696
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 63.20852249104102
+  llm_score: 72
+  recency_score: 47.85539619176654
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 61.44475823637761
+  llm_score: 75
+  recency_score: 24.39092853645434
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairness
+  title: FAIRNESS
+  score: 60.27618290639283
+  llm_score: 73
+  recency_score: 24.795188891553348
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 29.337816290085613
+  llm_score: 20
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 21.22129247308204
+  llm_score: 0
+  recency_score: 62.93840107503325
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 18.961592167066474
+  llm_score: 0
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 13.404427699913505
+  llm_score: 0
+  recency_score: 12.128780049437779
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused to take any action on behalf of the citizens, which they could have done, involving the Fly Creek Apartments. The council explained there was nothing they could do to stop the apartments or enforce any of the city’s ordinances that may amend the approved MOP Site Plan.

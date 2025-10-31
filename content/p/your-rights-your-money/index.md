@@ -16,83 +16,83 @@ authors:
 - admin
 alttags: Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ...
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 76.20274882459347
-  llm_score: 85
-  recency_score: 80.31786735985746
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 70.70915833520768
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 71.3415684216451
   llm_score: 75
-  recency_score: 84.60952917884977
+  recency_score: 13.72019474069314
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 70.32272194733261
+  llm_score: 75
+  recency_score: 82.09769265766185
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 69.8141847900801
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 68.26236840075836
   llm_score: 75
-  recency_score: 78.79220113552056
+  recency_score: 68.70539460492927
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 69.14566501721376
-  llm_score: 85
-  recency_score: 34.44682261188939
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 66.46634776783225
+  llm_score: 65
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
   rank: 4
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 66.35461474899596
-  llm_score: 85
-  recency_score: 16.30499586847368
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 58.17306849918064
+  llm_score: 75
+  recency_score: 3.1249452446740595
   length_score: 100
   category_score: 0
   rank: 5
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 64.1326031711004
-  llm_score: 85
-  recency_score: 1.8619206121525609
+- slug: fire
+  title: FIRE
+  score: 57.79455808730111
+  llm_score: 75
+  recency_score: 0.6646275674571428
   length_score: 100
   category_score: 0
   rank: 6
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 64.11658766273165
-  llm_score: 85
-  recency_score: 1.7578198077556138
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 49.77196712860758
+  llm_score: 60
+  recency_score: 8.517786335949154
   length_score: 100
   category_score: 0
   rank: 7
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 61.73286127383559
-  llm_score: 75
-  recency_score: 26.263598279931234
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 48.713378601490106
+  llm_score: 60
+  recency_score: 1.6369609096856257
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 61.6813229179474
-  llm_score: 70
-  recency_score: 45.928598966657994
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 48.590248439988784
+  llm_score: 60
+  recency_score: 0.836614859927013
   length_score: 100
   category_score: 0
   rank: 9
-- slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
-  score: 58.148682796778694
-  llm_score: 75
-  recency_score: 2.966438179061387
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 31.714030236881932
+  llm_score: 30
+  recency_score: 11.141196539732507
   length_score: 100
   category_score: 0
   rank: 10

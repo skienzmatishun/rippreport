@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability
 related_articles:
-- slug: threesome
-  title: THREESOME
-  score: 68.58576682596589
-  llm_score: 75
-  recency_score: 70.80748436877823
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 84.84631328411679
+  llm_score: 95
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 61.69978735082183
-  llm_score: 75
-  recency_score: 26.048617780341775
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 78.89724064096211
+  llm_score: 85
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 2
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 60.25635550650826
-  llm_score: 75
-  recency_score: 16.666310792303566
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 78.77339786741247
+  llm_score: 95
+  recency_score: 57.02708613818104
   length_score: 100
   category_score: 0
   rank: 3
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 58.342156496193084
-  llm_score: 75
-  recency_score: 4.224017225254928
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 78.29124017750563
+  llm_score: 85
+  recency_score: 93.89306115378648
   length_score: 100
   category_score: 0
   rank: 4
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 58.31599169615572
-  llm_score: 75
-  recency_score: 4.053946025012058
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 75.16556093415241
+  llm_score: 85
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 58.30582316233377
-  llm_score: 75
-  recency_score: 3.9878505551694436
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 70.72113262635521
+  llm_score: 85
+  recency_score: 44.68736207130882
   length_score: 100
   category_score: 0
   rank: 6
-- slug: banned-from-the-mall
-  title: BANNED FROM THE MALL
-  score: 57.84359874454734
-  llm_score: 75
-  recency_score: 0.9833918395576343
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.74327268652053
+  llm_score: 85
+  recency_score: 38.33127246238332
   length_score: 100
   category_score: 0
   rank: 7
-- slug: above-the-law
-  title: ABOVE THE LAW
-  score: 57.73725571854237
-  llm_score: 75
-  recency_score: 0.2921621705253142
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 69.63125483381363
+  llm_score: 85
+  recency_score: 37.60315641978851
   length_score: 100
   category_score: 0
   rank: 8
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 18.961592167066474
-  llm_score: 0
-  recency_score: 48.25034908593207
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 69.52136479973558
+  llm_score: 85
+  recency_score: 36.88887119828122
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 18.413440318662897
-  llm_score: 0
-  recency_score: 44.68736207130882
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 63.78652666135655
+  llm_score: 75
+  recency_score: 39.61242329881746
   length_score: 100
   category_score: 0
   rank: 10

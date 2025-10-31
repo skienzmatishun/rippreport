@@ -13,75 +13,75 @@ authors:
 - admin
 alttags: Mobile River Bridge overlaid with green leaves, representing local opposition to proposed toll increases for Mobile and Ba...
 related_articles:
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 73.1391258879285
-  llm_score: 85
-  recency_score: 60.404318271535175
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 81.40530657047216
+  llm_score: 100
+  recency_score: 54.13449270806896
   length_score: 100
   category_score: 0
   rank: 1
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 70.89724064096211
-  llm_score: 72
-  recency_score: 97.83206416625366
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 73.76939020719371
+  llm_score: 77
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 2
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 58.447841597051806
-  llm_score: 75
-  recency_score: 4.910970380836641
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 25.709158359137767
-  llm_score: 0
+  score: 72.47838912836855
+  llm_score: 76
   recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 62.803144705478054
+  llm_score: 67
+  recency_score: 65.22044058560728
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 21.38177773981319
-  llm_score: 0
-  recency_score: 63.98155530878573
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 56.60168775089796
+  llm_score: 72
+  recency_score: 4.910970380836641
   length_score: 100
   category_score: 0
   rank: 5
-- slug: pied-piper
-  title: PIED PIPER
-  score: 14.074563605599185
-  llm_score: 0
-  recency_score: 16.48466343639469
+- slug: bp-catastrophe-alabama-disgrace
+  title: BP CATASTROPHE/ ALABAMA DISGRACE
+  score: 53.071614677440145
+  llm_score: 66
+  recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
   rank: 6
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 14.026389452169946
+- slug: stepping-up
+  title: STEPPING UP
+  score: 20.481740137800234
   llm_score: 0
-  recency_score: 16.171531439104648
+  recency_score: 58.1313108957015
   length_score: 100
   category_score: 0
   rank: 7
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 13.900193912030518
-  llm_score: 0
-  recency_score: 15.35126042819837
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: trolls-for-tolls
   title: TROLLS FOR TOLLS
   score: 12.85970523655833
   llm_score: 0
   recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 12.409677951795508
+  llm_score: 0
+  recency_score: 5.66290668667081
   length_score: 100
   category_score: 0
   rank: 9

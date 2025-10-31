@@ -13,74 +13,84 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 86.17392032634467
-  llm_score: 95
-  recency_score: 98.36960163172333
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 77.17968694131675
+  llm_score: 83
+  recency_score: 94.66796511855877
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 83.98748877687456
-  llm_score: 95
-  recency_score: 87.43744388437275
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 77.13378486641899
+  llm_score: 82
+  recency_score: 98.36960163172333
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
-  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
-  score: 83.93964342023084
-  llm_score: 95
-  recency_score: 87.19821710115417
-  category_score: 0
-  rank: 3
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 83.79689134128176
-  llm_score: 95
-  recency_score: 86.48445670640884
-  category_score: 0
-  rank: 4
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 80.63181386565738
-  llm_score: 90
-  recency_score: 88.15906932828686
-  category_score: 0
-  rank: 5
-- slug: million-dollar-swimming-pool
-  title: MILLION DOLLAR SWIMMING POOL
-  score: 77.27733007636274
-  llm_score: 85
-  recency_score: 88.88665038181365
-  category_score: 0
-  rank: 6
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 76.93964342023085
-  llm_score: 85
+  score: 75.4151103232545
+  llm_score: 82
   recency_score: 87.19821710115417
+  length_score: 100
   category_score: 0
-  rank: 7
+  rank: 3
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 74.00182541938757
+  llm_score: 80
+  recency_score: 86.01186522601911
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
-  score: 73.58357363897638
-  llm_score: 80
+  score: 73.67967202998183
+  llm_score: 79
   recency_score: 87.91786819488183
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 73.17163451995002
+  llm_score: 77
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 71.87062605050568
+  llm_score: 76
+  recency_score: 88.15906932828686
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 71.14422213605737
+  llm_score: 75
+  recency_score: 87.43744388437275
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 62.06238317455079
-  llm_score: 85
-  recency_score: 12.811915872753922
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 71.07071459027225
+  llm_score: 75
+  recency_score: 86.95964483676948
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 45.706620713953676
-  llm_score: 65
-  recency_score: 1.0331035697683377
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 25.478119549400027
+  llm_score: 0
+  recency_score: 90.60777707110016
+  length_score: 100
   category_score: 0
   rank: 10
 ---

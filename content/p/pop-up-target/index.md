@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Target symbol representing Jack Burrell as a recurring focus of controversy surrounding projects like the K-1 Center
 related_articles:
+- slug: back-stabber
+  title: BACK STABBER
+  score: 72.90924501420623
+  llm_score: 75
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: full-plate
+  title: FULL PLATE
+  score: 69.09237918813426
+  llm_score: 69
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 88.62221429547445
-  llm_score: 95
+  score: 65.55554945805729
+  llm_score: 72
   recency_score: 63.11107147737226
-  rank: 1
-- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
-  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 86.08249514970656
-  llm_score: 95
-  recency_score: 50.412475748532785
-  rank: 2
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 84.96833078840773
-  llm_score: 85
-  recency_score: 84.8416539420386
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 82.22156185864796
-  llm_score: 90
-  recency_score: 51.107809293239825
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 63.932352511447235
+  llm_score: 71
+  recency_score: 56.56029132440696
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 81.29666291996695
-  llm_score: 85
-  recency_score: 66.48331459983474
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 62.944153604053504
+  llm_score: 71
+  recency_score: 50.13699842634772
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 79.33745863402393
-  llm_score: 90
-  recency_score: 36.68729317011966
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 60.34988372832644
+  llm_score: 69
+  recency_score: 41.27424423412174
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhope-special-meeting
-  title: Fairhope Special Meeting
-  score: 78.19359590659946
-  llm_score: 85
-  recency_score: 50.96797953299731
+- slug: no-radar
+  title: NO RADAR
+  score: 56.97947095939361
+  llm_score: 72
+  recency_score: 7.366561236058354
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 77.06074595483393
-  llm_score: 85
-  recency_score: 45.30372977416965
+- slug: money-on-the-table
+  title: MONEY ON THE TABLE
+  score: 56.91641263243213
+  llm_score: 69
+  recency_score: 18.956682110808735
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: jack-ass
-  title: JACK ASS
-  score: 74.66654767894059
-  llm_score: 85
-  recency_score: 33.33273839470296
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 56.166308655772596
+  llm_score: 71
+  recency_score: 6.0810062625217975
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 57.59078153074029
-  llm_score: 70
-  recency_score: 7.953907653701443
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 54.05070653485619
+  llm_score: 69
+  recency_score: 0.3295924765651472
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.

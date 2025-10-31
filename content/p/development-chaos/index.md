@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Rapid development in Bay Minette, Alabama, strains infrastructure as Baldwin County communities face building moratoriums
 related_articles:
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 79.02145798661161
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 74.59140495332304
   llm_score: 85
-  recency_score: 98.63947691297537
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 1
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 61.094154032519626
-  llm_score: 80
-  recency_score: 2.112001211377513
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 71.70855703861841
+  llm_score: 75
+  recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 2
-- slug: paradise-lost
-  title: PARADISE LOST
-  score: 58.11614194534205
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 66.2052462309406
   llm_score: 75
-  recency_score: 2.7549226447232087
+  recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
   rank: 3
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 57.839510049481504
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 66.02069118585678
   llm_score: 75
-  recency_score: 0.9568153216296585
+  recency_score: 54.13449270806896
   length_score: 100
   category_score: 0
   rank: 4
-- slug: paradise-lost-ii
-  title: Paradise Lost II
-  score: 57.72148489222548
-  llm_score: 70
-  recency_score: 20.189651799465537
+- slug: going-down
+  title: GOING DOWN
+  score: 65.50474866432661
+  llm_score: 85
+  recency_score: 10.780866318122923
   length_score: 100
   category_score: 0
   rank: 5
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 55.83571476154588
-  llm_score: 70
-  recency_score: 7.932145950048156
+- slug: priorities
+  title: Priorities
+  score: 63.26829109938389
+  llm_score: 65
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 6
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 55.34049853101605
-  llm_score: 70
-  recency_score: 4.713240451604244
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 59.42522512465339
+  llm_score: 75
+  recency_score: 11.263963310246938
   length_score: 100
   category_score: 0
   rank: 7
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 54.730734802080754
-  llm_score: 70
-  recency_score: 0.7497762135248415
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 59.19101191884252
+  llm_score: 75
+  recency_score: 9.741577472476289
   length_score: 100
   category_score: 0
   rank: 8
-- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
-  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 52.00367350841522
-  llm_score: 65
-  recency_score: 3.0238778046988695
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 58.47309389972366
+  llm_score: 75
+  recency_score: 5.075110348203666
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 49.960242688073286
-  llm_score: 60
-  recency_score: 9.741577472476289
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 58.41742160793913
+  llm_score: 75
+  recency_score: 4.713240451604244
   length_score: 100
   category_score: 0
   rank: 10

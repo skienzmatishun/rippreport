@@ -12,54 +12,30 @@ authors:
 - admin
 alttags: 'I-10 bridge project: School buses framed by stacks of $100 bills, illustrating rising costs for Baldwin County residents'
 related_articles:
-- slug: tax-tax-and-re-tax
-  title: TAX TAX AND RE-TAX
-  score: 76.86300448905382
-  llm_score: 85
-  recency_score: 84.60952917884977
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: nothing-is-free
-  title: NOTHING IS FREE
-  score: 73.93519903933613
-  llm_score: 85
-  recency_score: 65.57879375568477
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 67.76345711143797
-  llm_score: 74
+  score: 65.30191864989952
+  llm_score: 70
   recency_score: 69.4624712243468
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 59.98392638380356
-  llm_score: 75
-  recency_score: 14.895521494723079
+  rank: 1
+- slug: stepping-up
+  title: STEPPING UP
+  score: 63.70939561190344
+  llm_score: 69
+  recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 56.79076518881706
-  llm_score: 70
-  recency_score: 14.139973727310823
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 54.69591872362158
-  llm_score: 69
+  score: 56.54207256977543
+  llm_score: 72
   recency_score: 4.5234717035402
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
   score: 25.709158359137767
@@ -67,28 +43,52 @@ related_articles:
   recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: goat-hill-piggy-bank
-  title: GOAT HILL PIGGY-BANK
-  score: 21.816536056735117
-  llm_score: -1
-  recency_score: 70.80748436877823
+  rank: 4
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 25.213330827971333
+  llm_score: 0
+  recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: going-down
+  title: GOING DOWN
+  score: 23.462703749827348
+  llm_score: 0
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 11.59322891994884
+  llm_score: -2
+  recency_score: 8.355987979667463
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: trolls-for-tolls
   title: TROLLS FOR TOLLS
-  score: 12.755452890138855
-  llm_score: 0
+  score: 11.524683659369623
+  llm_score: -2
   recency_score: 7.9104437859025545
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 7.047305287504342
+  llm_score: -25
+  recency_score: 70.80748436877823
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 12.277615952948587
-  llm_score: 0
-  recency_score: 4.804503694165815
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 0
+  llm_score: -100
+  recency_score: 84.60952917884977
   length_score: 100
   category_score: 0
   rank: 10

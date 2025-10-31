@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Map highlighting a planned unit development (Catalyst) near Fairhope Avenue and Hwy 181 in Fairhope, Alabama
 related_articles:
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 77.12123778439704
-  llm_score: 95
-  recency_score: 53.10618892198522
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 72.25966518342092
+  llm_score: 98
+  recency_score: 2.6878236922359457
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 70.29727640268474
-  llm_score: 85
-  recency_score: 53.986382013423686
-  category_score: 0
-  rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 69.9652796209306
-  llm_score: 90
-  recency_score: 34.826398104653
-  category_score: 0
-  rank: 3
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 69.31001209429962
-  llm_score: 85
-  recency_score: 49.0500604714981
-  category_score: 0
-  rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 67.89166643952561
-  llm_score: 85
-  recency_score: 41.958332197627975
-  category_score: 0
-  rank: 5
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 66.56135093059721
-  llm_score: 85
-  recency_score: 35.306754652986015
-  category_score: 0
-  rank: 6
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 65.00315362704151
-  llm_score: 85
-  recency_score: 27.51576813520753
-  category_score: 0
-  rank: 7
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 64.06774635711683
-  llm_score: 85
-  recency_score: 22.8387317855841
-  category_score: 0
-  rank: 8
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 60.73336508087173
-  llm_score: 80
+  score: 55.179511600670565
+  llm_score: 65
   recency_score: 23.666825404358608
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 53.205958736243716
+  llm_score: 62
+  recency_score: 22.8387317855841
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 51.63655489221769
+  llm_score: 62
+  recency_score: 12.637606799414936
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-infrastructure
+  title: Fairhope Infrastructure
+  score: 25.851246703041284
+  llm_score: 23
+  recency_score: 1.0331035697683377
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 17.467982049405624
+  llm_score: 0
+  recency_score: 38.54188332113655
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 14.33745092890598
+  llm_score: 0
+  recency_score: 18.193431037888864
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 12.789256061706965
+  llm_score: 0
+  recency_score: 8.130164401095277
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: conflict-on-interest
+  title: CONFLICT OF INTEREST
+  score: 0
+  llm_score: -2015
+  recency_score: 92.36223021681012
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: misery-loves-company
-  title: MISERY LOVES COMPANY
-  score: 39.79695333081353
-  llm_score: 54
-  recency_score: 9.984766654067629
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 0
+  llm_score: -2023
+  recency_score: 2.792920979450993
+  length_score: 100
   category_score: 0
   rank: 10
 ---

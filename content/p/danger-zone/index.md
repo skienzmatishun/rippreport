@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: 'Warning sign: Red bar with white exclamation point, illustrating dangerous intersection concerns detailed in article'
 related_articles:
-- slug: malfunction-junction
-  title: MALFUNCTION JUNCTION
-  score: 82.42253076833201
-  llm_score: 92
-  recency_score: 90.11265384166002
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 59.55804407856687
+  llm_score: 74
+  recency_score: 16.127286510684606
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 62.939643420230844
-  llm_score: 65
-  recency_score: 87.19821710115417
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 57.11338642899012
+  llm_score: 50
+  recency_score: 96.23701178843567
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: get-zoned-or-get-screwed
-  title: GET ZONED or GET SCREWED
-  score: 62.93524565340775
-  llm_score: 85
-  recency_score: 17.176228267038702
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 54.386478277419656
+  llm_score: 68
+  recency_score: 6.512108803227705
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 49.968720547046246
-  llm_score: 65
-  recency_score: 22.343602735231208
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 53.65246377147247
+  llm_score: 67
+  recency_score: 5.741014514570984
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: misery-loves-company
-  title: MISERY LOVES COMPANY
-  score: 49.7101237676789
-  llm_score: 69
-  recency_score: 7.050618838394492
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 52.7587916846228
+  llm_score: 65
+  recency_score: 7.932145950048156
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 48.9164738660754
+- slug: misery-loves-company
+  title: MISERY LOVES COMPANY
+  score: 52.623172128983775
   llm_score: 65
-  recency_score: 17.082369330376963
+  recency_score: 7.050618838394492
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 47.27989467527985
-  llm_score: 65
-  recency_score: 8.899473376399213
+- slug: malfunction-junction
+  title: MALFUNCTION JUNCTION
+  score: 24.171177514101544
+  llm_score: -2
+  recency_score: 90.11265384166002
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 46.91399241756759
-  llm_score: 65
-  recency_score: 7.069962087837917
+- slug: boiling-frog
+  title: BOILING FROG
+  score: 16.78021294469832
+  llm_score: 0
+  recency_score: 34.071384140539074
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 46.42727917123767
-  llm_score: 65
-  recency_score: 4.636395856188334
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 14.109543772986282
+  llm_score: 0
+  recency_score: 16.712034524410825
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: round-and-round-we-go
-  title: ROUND AND ROUND WE GO
-  score: 39.15658305422905
-  llm_score: 55
-  recency_score: 3.2829152711452347
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 12.976823580525156
+  llm_score: 0
+  recency_score: 9.349353273413517
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -7,14 +7,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: carolyn-amick
-  title: CAROLYN AMICK
-  score: 70.19603757448029
-  llm_score: 85
-  recency_score: 41.27424423412174
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: obituary
   title: OBITUARY
   score: 69.84744094784428
@@ -22,68 +14,76 @@ related_articles:
   recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 67.99478740257528
+  llm_score: 100
+  recency_score: 35.40361811673922
+  length_score: 8.75
+  category_score: 0
   rank: 2
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 65.68939422095484
-  llm_score: 70
-  recency_score: 71.98106243620636
+- slug: the-jester
+  title: THE JESTER
+  score: 59.297259992258894
+  llm_score: 75
+  recency_score: 10.432189949682714
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 59.12608701878488
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 56.43320824664147
   llm_score: 65
-  recency_score: 49.31956562210165
+  recency_score: 31.81585360316948
   length_score: 100
   category_score: 0
   rank: 4
-- slug: combat
-  title: COMBAT
-  score: 57.01626083567354
-  llm_score: 70
-  recency_score: 15.605695431877937
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 45.44801924039745
+  llm_score: 50
+  recency_score: 20.412125062583367
   length_score: 100
   category_score: 0
   rank: 5
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 56.07358582151289
-  llm_score: 70
-  recency_score: 9.47830783983372
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 40.015845461528606
+  llm_score: 45
+  recency_score: 5.102995499935887
   length_score: 100
   category_score: 0
   rank: 6
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 55.57165537689439
-  llm_score: 70
-  recency_score: 6.215759949813457
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 17.88834526678796
+  llm_score: 0
+  recency_score: 41.27424423412174
   length_score: 100
   category_score: 0
   rank: 7
-- slug: kindness
-  title: RANDOM ACTS OF KINDNESS
-  score: 55.54836442659696
-  llm_score: 70
-  recency_score: 6.0643687728801865
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 17.767726985311825
+  llm_score: 0
+  recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 8
-- slug: victory
-  title: VICTORY
-  score: 55.3018352041044
-  llm_score: 70
-  recency_score: 4.461928826678509
+- slug: im-back-2
+  title: I'M BACK
+  score: 14.792651391325851
+  llm_score: 0
+  recency_score: 21.152234043618023
   length_score: 100
   category_score: 0
   rank: 9
-- slug: america-the-golden-door
-  title: AMERICA - THE GOLDEN DOOR
-  score: 52.09435426783948
-  llm_score: 65
-  recency_score: 3.6133027409565597
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 12.996662744589804
+  llm_score: 0
+  recency_score: 9.47830783983372
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Man speaks at a podium with cameras present; inset shows individuals watching remotely, related to Alabama court system is...
 related_articles:
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 64.14034683244408
-  llm_score: 70
-  recency_score: 61.91225441088648
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 63.006357979558636
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 78.22318660022637
   llm_score: 75
-  recency_score: 34.541326867131026
+  recency_score: 58.450712901471334
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 66.959854381861
+  llm_score: 75
+  recency_score: 60.23905348209645
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 61.55956709415939
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 65.1562246506089
   llm_score: 75
-  recency_score: 25.13718611203594
+  recency_score: 48.51546022895776
   length_score: 100
   category_score: 0
   rank: 3
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 61.35336347389684
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 60.90222354092819
   llm_score: 75
-  recency_score: 23.79686258032939
+  recency_score: 20.864453016033117
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.825624805547456
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 57.839510049481504
   llm_score: 75
-  recency_score: 7.366561236058354
+  recency_score: 0.9568153216296585
   length_score: 100
   category_score: 0
   rank: 5
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 58.7795617693096
-  llm_score: 70
-  recency_score: 27.067151500512303
+- slug: backstory-153
+  title: No Boomers
+  score: 56.91106826440293
+  llm_score: 65
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 55.72109863374985
-  llm_score: 70
-  recency_score: 7.1871411193739325
+- slug: offensive
+  title: Offensive
+  score: 56.40646106360944
+  llm_score: 65
+  recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
   rank: 7
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 54.97694835886304
-  llm_score: 70
-  recency_score: 2.350164332609681
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 55.43763761878204
+  llm_score: 65
+  recency_score: 25.34464452208322
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 54.698187388295686
-  llm_score: 50
-  recency_score: 80.5382180239219
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 52.870609524559015
+  llm_score: 65
+  recency_score: 8.658961909633518
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 48.38523763744627
-  llm_score: 50
-  recency_score: 39.504044643400675
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 51.700478111148115
+  llm_score: 65
+  recency_score: 1.05310772246267
   length_score: 100
   category_score: 0
   rank: 10

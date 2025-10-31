@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Bald eagle head superimposed on an American flag with We the People text, referencing voter decisions about local taxes
 related_articles:
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 76.10046826485723
-  llm_score: 85
-  recency_score: 83.00234132428609
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 74.02317771146886
+  llm_score: 78
+  recency_score: 94.15065512454748
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 72.54408811712146
-  llm_score: 85
-  recency_score: 65.22044058560728
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 73.52462962959085
+  llm_score: 76
+  recency_score: 98.91009259234048
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 71.35138338741181
-  llm_score: 85
-  recency_score: 59.25691693705903
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 71.02145798661161
+  llm_score: 72
+  recency_score: 98.63947691297537
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 67.16625449247667
-  llm_score: 85
-  recency_score: 38.33127246238332
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 70.61538461538463
+  llm_score: 71
+  recency_score: 100.0
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 62.274275987636805
-  llm_score: 85
-  recency_score: 13.871379938184003
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 69.9579080553363
+  llm_score: 70
+  recency_score: 99.72640235968593
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 61.83447509719418
-  llm_score: 85
-  recency_score: 11.672375485970868
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 69.26126416940835
+  llm_score: 72
+  recency_score: 87.19821710115417
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: newsletter
-  title: NEWSLETTER
-  score: 59.51612224316097
-  llm_score: 85
-  recency_score: 0.08061121580480553
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 67.41253087709046
+  llm_score: 66
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: schools-and-taxes
-  title: SCHOOLS AND TAXES
-  score: 52.833731530081934
-  llm_score: 75
-  recency_score: 1.6686576504096422
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 64.23827349989628
+  llm_score: 65
+  recency_score: 82.54877774932578
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 46.09982517482572
-  llm_score: 65
-  recency_score: 2.999125874128549
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 58.93528926051484
+  llm_score: 66
+  recency_score: 44.079380193346374
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 45.925886331859104
-  llm_score: 65
-  recency_score: 2.1294316592954887
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 24.734852121903174
+  llm_score: 0
+  recency_score: 85.7765387923706
+  length_score: 100
   category_score: 0
   rank: 10
 ---

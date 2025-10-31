@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics
 related_articles:
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 68.17584724293476
-  llm_score: 75
-  recency_score: 68.14300707907584
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 76.44201158581511
+  llm_score: 85
+  recency_score: 81.87307530779819
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 67.56262885946411
-  llm_score: 75
-  recency_score: 64.15708758651667
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 74.562006199848
+  llm_score: 85
+  recency_score: 69.6530402990119
   length_score: 100
   category_score: 0
   rank: 2
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 66.6374852676734
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 74.32969339678091
   llm_score: 85
-  recency_score: 18.143654239877034
+  recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 65.57661887292055
-  llm_score: 75
-  recency_score: 51.24802267398346
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 73.71647501331027
+  llm_score: 85
+  recency_score: 64.15708758651667
   length_score: 100
   category_score: 0
   rank: 4
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 64.95629319008803
-  llm_score: 70
-  recency_score: 67.21590573557219
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 72.81396817388097
+  llm_score: 85
+  recency_score: 58.29079313022616
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 64.59446855764429
-  llm_score: 70
-  recency_score: 64.86404562468779
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 72.31257371103135
+  llm_score: 85
+  recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-first-in-political-corruption
-  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 55.636646742566654
-  llm_score: 70
-  recency_score: 6.638203826683174
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 71.7304650267667
+  llm_score: 85
+  recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 7
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 55.51079994997822
-  llm_score: 70
-  recency_score: 5.820199674858366
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 68.59558827493814
+  llm_score: 85
+  recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 54.84862793343948
-  llm_score: 70
-  recency_score: 1.5160815673565506
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 64.72697034374293
+  llm_score: 85
+  recency_score: 5.7253072343290325
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 52.50262444871355
-  llm_score: 65
-  recency_score: 6.267058916638003
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 64.0386933543901
+  llm_score: 85
+  recency_score: 1.251506803535654
   length_score: 100
   category_score: 0
   rank: 10

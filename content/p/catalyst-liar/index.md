@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Fairhope Council President Jack Burrell wearing a hard hat, criticized for neglecting infrastructure repairs despite sewer...
 related_articles:
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 80.91815069738422
-  llm_score: 100
-  recency_score: 50.96797953299731
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 71.3671769818175
+  llm_score: 75
+  recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 80.02765843669744
-  llm_score: 100
-  recency_score: 45.179779838533264
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 66.44170175017956
+  llm_score: 75
+  recency_score: 56.8710613761671
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 74.73869420342982
-  llm_score: 98
-  recency_score: 18.801512322293714
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 63.430379085639096
+  llm_score: 60
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 3
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 67.03633989192106
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 59.57367376253751
   llm_score: 75
-  recency_score: 60.73620929748681
+  recency_score: 12.22887945649371
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst
-  title: CATALYST
-  score: 63.02335161641121
-  llm_score: 78
-  recency_score: 22.65178550667279
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 26.672246404880518
-  llm_score: 0
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 25.28846728390893
-  llm_score: 0
-  recency_score: 89.37503734540803
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 23.332740550658407
-  llm_score: 0
-  recency_score: 76.66281357927963
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 22.195757468026642
-  llm_score: 0
+  score: 59.118834391103576
+  llm_score: 60
   recency_score: 69.27242354217314
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 57.97797329866051
+  llm_score: 75
+  recency_score: 1.8568264412931899
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 57.77287302919277
+  llm_score: 75
+  recency_score: 0.5236746897529492
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 55.41227382131282
+  llm_score: 60
+  recency_score: 45.179779838533264
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 52.30023090098188
+  llm_score: 65
+  recency_score: 4.951500856382183
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: pied-piper
-  title: PIED PIPER
-  score: 15.78432969276346
-  llm_score: -2
-  recency_score: 35.59814300296249
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 48.5416635517795
+  llm_score: 60
+  recency_score: 0.52081308656669
   length_score: 100
   category_score: 0
   rank: 10

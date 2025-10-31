@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Custom pillows reading The Real, The Boss, and featuring a man’s face, illustrating claims of labeling individuals as ...
 related_articles:
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 71.684990070341
+- slug: straw-man
+  title: STRAW MAN
+  score: 87.24761989759932
   llm_score: 100
-  recency_score: 8.424950351705032
+  recency_score: 92.10952933439548
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 68.74662907448486
-  llm_score: 95
-  recency_score: 11.233145372424257
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 74.4764128678045
+  llm_score: 100
+  recency_score: 9.096683640729124
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 61.284777785184964
-  llm_score: 85
-  recency_score: 8.92388892592479
-  category_score: 0
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 63.72870693413856
+  llm_score: 66
+  recency_score: 0.2365950719005046
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 60.62639238372035
-  llm_score: 85
-  recency_score: 5.6319619186017045
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 60.461538461538474
+  llm_score: 67
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 60.20505941304497
-  llm_score: 85
-  recency_score: 3.5252970652248186
+- slug: strawman-spiderweb
+  title: STRAWMAN SPIDERWEB
+  score: 59.67936317899624
+  llm_score: 66
+  recency_score: 48.915860663475456
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 48.92584690236103
-  llm_score: 65
-  recency_score: 17.129234511805123
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 58.01098217546756
+  llm_score: 67
+  recency_score: 34.071384140539074
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 48.22157763656677
-  llm_score: 65
-  recency_score: 13.607888182833822
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 55.02348694697337
+  llm_score: 67
+  recency_score: 14.652665155326813
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 47.91250054564075
-  llm_score: 65
-  recency_score: 12.0625027282037
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 13.514933098434785
+  llm_score: 0
+  recency_score: 12.847065139826096
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 38.55297761359889
-  llm_score: 54
-  recency_score: 3.764888067994434
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 0
+  llm_score: -123457896543210
+  recency_score: 56.097317456308396
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 35.603120909275844
-  llm_score: 50
-  recency_score: 3.015604546379232
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 0
+  llm_score: -256
+  recency_score: 28.827637706027392
+  length_score: 100
   category_score: 0
   rank: 10
 ---

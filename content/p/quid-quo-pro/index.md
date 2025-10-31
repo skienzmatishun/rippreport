@@ -10,36 +10,68 @@ alttags: Handshake graphic symbolizing a “favor for a favor” deal, referenci
 related_articles:
 - slug: honey-bees
   title: HONEY BEES
-  score: 80.16930226505734
-  llm_score: 87
+  score: 88.16930226505734
+  llm_score: 100
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 1
-- slug: documents
-  title: DOCUMENTS
-  score: 78.89724064096211
-  llm_score: 85
-  recency_score: 97.83206416625366
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 87.36457134230663
+  llm_score: 100
+  recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 2
-- slug: scratch-my-back-i-scratch-yours
-  title: SCRATCH MY BACK, I SCRATCH YOURS
-  score: 74.80984050926877
-  llm_score: 100
-  recency_score: 11.263963310246938
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 84.56430232593213
+  llm_score: 95
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 3
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 69.0427693756366
-  llm_score: 75
-  recency_score: 73.7780009416378
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 71.69257591745787
+  llm_score: 80
+  recency_score: 71.00174346347615
   length_score: 100
   category_score: 0
   rank: 4
+- slug: holes
+  title: HOLES
+  score: 28.438295630546698
+  llm_score: 25
+  recency_score: 9.848921598553503
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 25.15400559180908
+  llm_score: -2
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 24.285593526530974
+  llm_score: -2
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 23.108704060138894
+  llm_score: 0
+  recency_score: 75.2065763909028
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: three-strikes
   title: THREE STRIKES
   score: 22.491774693015714
@@ -47,44 +79,12 @@ related_articles:
   recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: back-stabber
-  title: BACK STABBER
-  score: 16.76587163653973
-  llm_score: 0
-  recency_score: 33.97816563750821
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 15.064499067365201
-  llm_score: -1
-  recency_score: 26.919243937873805
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 12.85609034497754
-  llm_score: 0
-  recency_score: 8.564587242354007
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 12.58521849967854
-  llm_score: 0
-  recency_score: 6.803920247910508
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 12.076375503201977
-  llm_score: 0
-  recency_score: 3.4964407708128533
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 7.9481251660430186
+  llm_score: -25
+  recency_score: 76.66281357927963
   length_score: 100
   category_score: 0
   rank: 10

@@ -18,83 +18,83 @@ authors:
 - admin
 alttags: Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials
 related_articles:
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 65.46879139292679
-  llm_score: 85
-  recency_score: 10.547144054024043
+- slug: csb-railroad-nomination
+  title: CSB / RAILROAD- NOMINATION
+  score: 72.86761183276546
+  llm_score: 75
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 64.02398763000934
-  llm_score: 85
-  recency_score: 1.155919595060642
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 66.48977522329234
+  llm_score: 75
+  recency_score: 57.18353895140014
   length_score: 100
   category_score: 0
   rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 60.174222037262325
-  llm_score: 78
-  recency_score: 4.13244324220501
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 65.57661887292055
+  llm_score: 75
+  recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 3
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 59.13857280268648
-  llm_score: 75
-  recency_score: 9.400723217462033
+- slug: honeymoon
+  title: HONEYMOON
+  score: 63.76208511939382
+  llm_score: 60
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 4
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 57.8750809902345
-  llm_score: 75
-  recency_score: 1.1880264365241602
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 59.50965130683853
+  llm_score: 65
+  recency_score: 51.81273349445037
   length_score: 100
   category_score: 0
   rank: 5
-- slug: qualified-daphne-district-6-city-council
-  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 57.86916970927725
-  llm_score: 75
-  recency_score: 1.1496031103020492
+- slug: rotten
+  title: ROTTEN
+  score: 56.287895967245824
+  llm_score: 65
+  recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-petition
-  title: FAIRHOPE PETITION
-  score: 14.352829952906324
-  llm_score: 0
-  recency_score: 18.293394693891102
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 49.77556226673175
+  llm_score: 60
+  recency_score: 8.541154733756285
   length_score: 100
   category_score: 0
   rank: 7
-- slug: selective-memory
-  title: Selective Memory
-  score: 11.814888105643252
-  llm_score: 0
-  recency_score: 1.7967726866811407
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 49.49972720098812
+  llm_score: 60
+  recency_score: 6.7482268064227
   length_score: 100
   category_score: 0
   rank: 8
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 11.724264159286477
-  llm_score: 0
-  recency_score: 1.2077170353621032
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 49.10774018489324
+  llm_score: 50
+  recency_score: 44.200311201805995
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 11.647159769855005
-  llm_score: -2
-  recency_score: 8.706538504057539
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 33.216276553066066
+  llm_score: 35
+  recency_score: 0.9057975949293908
   length_score: 100
   category_score: 0
   rank: 10

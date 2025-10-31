@@ -24,63 +24,83 @@ authors:
 related_articles:
 - slug: one-woman
   title: ONE WOMAN
-  score: 95.35315705036788
-  llm_score: 95
+  score: 86.73319773105223
+  llm_score: 98
   recency_score: 96.76578525183945
+  length_score: 100
+  category_score: 0
   rank: 1
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 73.44447945356883
+  llm_score: 100
+  recency_score: 2.3891164481973193
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 68.35313169946855
+  llm_score: 83
+  recency_score: 37.29535604654552
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: women-stand-together
   title: WOMEN STAND TOGETHER
-  score: 73.38384878757476
-  llm_score: 85
+  score: 64.29526829813445
+  llm_score: 79
   recency_score: 26.919243937873805
-  rank: 2
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 73.25271965598625
-  llm_score: 85
-  recency_score: 26.263598279931234
-  rank: 3
-- slug: shut-up-2
-  title: SHUT UP
-  score: 70.27111348555951
-  llm_score: 65
-  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: jack-gets-an-f-again
-  title: JACK GETS AN F - AGAIN
-  score: 68.28513651399791
-  llm_score: 65
-  recency_score: 81.42568256998956
+- slug: surrender
+  title: SURRENDER
+  score: 61.91503609964406
+  llm_score: 80
+  recency_score: 7.447734647686312
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: communication
-  title: COMMUNICATION
-  score: 67.93208520393644
-  llm_score: 65
-  recency_score: 79.6604260196822
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 61.325042264424106
+  llm_score: 79
+  recency_score: 7.612774718756618
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: honeymoon
-  title: HONEYMOON
-  score: 63.15553145748171
-  llm_score: 75
-  recency_score: 15.777657287408536
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 16.881709830958812
+  llm_score: 0
+  recency_score: 34.73111390123228
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: fairhopes-golden-key
-  title: FAIRHOPE'S GOLDEN KEY
-  score: 61.35442892225316
-  llm_score: 70
-  recency_score: 26.772144611265798
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 13.868061997834378
+  llm_score: 0
+  recency_score: 15.142402985923455
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
-  title: WHO’S RESPONSIBLE?
-  score: 58.721577636566764
-  llm_score: 70
-  recency_score: 13.607888182833822
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 13.830080229957398
+  llm_score: 0
+  recency_score: 14.895521494723079
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 52.277764942032384
-  llm_score: 65
-  recency_score: 1.3888247101619247
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 12.125664113991446
+  llm_score: 0
+  recency_score: 3.816816740944404
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-restaurateur-found-guilty-of-assault/article_0e5c5049-1acc-5ee1-9c28-6e7bd4dc1cea.html" >}}

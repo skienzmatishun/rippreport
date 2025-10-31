@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Citizens raising fists in solidarity against local government overreach in Baldwin County
 related_articles:
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 80.92404723937733
-  llm_score: 90
-  recency_score: 89.62023619688662
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 69.05632426878844
+  llm_score: 71
+  recency_score: 89.86610774712484
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 76.10046826485723
-  llm_score: 85
-  recency_score: 83.00234132428609
-  category_score: 0
-  rank: 2
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 73.46882643931994
-  llm_score: 85
-  recency_score: 69.84413219659965
-  category_score: 0
-  rank: 3
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 70.3268985416138
-  llm_score: 85
-  recency_score: 54.13449270806896
-  category_score: 0
-  rank: 4
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
-  score: 69.3369256908693
-  llm_score: 85
+  score: 60.951481300668696
+  llm_score: 68
   recency_score: 49.18462845434644
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 59.45841077679979
+  llm_score: 67
+  recency_score: 43.47967004919853
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 57.83180397319675
+  llm_score: 68
+  recency_score: 28.906725825778786
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 55.91817313394061
+  llm_score: 67
+  recency_score: 20.468125370613887
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 54.73619065458044
-  llm_score: 65
-  recency_score: 46.18095327290216
+- slug: repeat
+  title: REPEAT
+  score: 31.475469471772442
+  llm_score: 20
+  recency_score: 49.59055156652082
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 49.72266054819132
-  llm_score: 70
-  recency_score: 3.6133027409565597
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 23.495417699737988
+  llm_score: 0
+  recency_score: 77.72021504829691
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 48.31254126082239
-  llm_score: 65
-  recency_score: 14.062706304111916
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 22.328768988668884
+  llm_score: 5
+  recency_score: 50.13699842634772
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 46.013101588538554
-  llm_score: 65
-  recency_score: 2.565507942692728
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 21.599903342065048
+  llm_score: 0
+  recency_score: 65.39937172342279
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: newsletter
-  title: NEWSLETTER
-  score: 45.51942384142873
-  llm_score: 65
-  recency_score: 0.09711920714364118
+- slug: going-down
+  title: GOING DOWN
+  score: 16.76587163653973
+  llm_score: 0
+  recency_score: 33.97816563750821
+  length_score: 100
   category_score: 0
   rank: 10
 ---

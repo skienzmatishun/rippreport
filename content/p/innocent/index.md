@@ -12,62 +12,14 @@ authors:
 - admin
 alttags: Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005
 related_articles:
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 85.14735919021118
-  llm_score: 85
-  recency_score: 63.45783473637261
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: rule-32
-  title: RULE 32
-  score: 78.34936525048411
-  llm_score: 85
-  recency_score: 19.270874128146687
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 78.01988223258542
-  llm_score: 85
+  score: 71.86603607873927
+  llm_score: 75
   recency_score: 17.129234511805123
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 77.16566635973294
-  llm_score: 85
-  recency_score: 11.57683133826407
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 75.96701141758011
-  llm_score: 85
-  recency_score: 3.7855742142706434
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 75.8746852412986
-  llm_score: 85
-  recency_score: 3.1854540684407837
-  length_score: 100
-  category_score: 100
-  rank: 7
+  rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
@@ -75,20 +27,68 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 2
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 71.51786273032691
+  llm_score: 75
+  recency_score: 89.86610774712484
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 71.01182020588679
+  llm_score: 75
+  recency_score: 11.57683133826407
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 70.87578763268606
+  llm_score: 75
+  recency_score: 10.692619612459277
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 69.81316526373396
+  llm_score: 75
+  recency_score: 3.7855742142706434
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 69.72083908745245
+  llm_score: 75
+  recency_score: 3.1854540684407837
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 68.46153846153847
-  llm_score: 80
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: earful
+  title: EARFUL
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 66.82719350558088
-  llm_score: 85
-  recency_score: 19.376757786275636
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 61.254422125493456
+  llm_score: 75
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
   rank: 10

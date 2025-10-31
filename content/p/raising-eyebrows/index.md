@@ -10,63 +10,83 @@ alttags: Fairhope City Council Attorney Marcus McDowell, linked to Catalyst and 
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 95.24740235768714
-  llm_score: 95
+  score: 87.88261719822088
+  llm_score: 100
   recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: catalyst
-  title: CATALYST
-  score: 89.24956745472434
-  llm_score: 90
-  recency_score: 86.24783727362167
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 73.52462962959085
+  llm_score: 76
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 85.15530775847412
-  llm_score: 85
-  recency_score: 85.7765387923706
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 67.1534974510892
+  llm_score: 76
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 84.62221429547445
-  llm_score: 90
-  recency_score: 63.11107147737226
-  rank: 4
-- slug: catalyst-kiss
-  title: CATALYST KISS
-  score: 77.15294239311218
-  llm_score: 90
-  recency_score: 25.764711965560906
-  rank: 5
-- slug: catalyst-2
-  title: CATALYST
-  score: 76.74635098516816
-  llm_score: 90
-  recency_score: 23.73175492584083
-  rank: 6
 - slug: catalyst-central
   title: CATALYST CENTRAL
-  score: 73.3106002818493
-  llm_score: 85
+  score: 63.00815406296102
+  llm_score: 77
   recency_score: 26.55300140924655
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 62.62758863209731
+  llm_score: 78
+  recency_score: 20.079326108632408
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 61.99532358291116
+  llm_score: 77
+  recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 25.932984299572965
+  llm_score: -1
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 71.84362989425284
-  llm_score: 85
-  recency_score: 19.21814947126418
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 25.250847592646338
+  llm_score: 0
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 71.10408372408847
-  llm_score: 85
+  score: 13.926218249298822
+  llm_score: 0
   recency_score: 15.520418620442342
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 68.53316450604943
-  llm_score: 85
-  recency_score: 2.665822530247155
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 12.99398625687438
+  llm_score: -2
+  recency_score: 17.460910669683468
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Fairhope Special Election, Oct. 3, was canceled due to a technicality, and a lot of help from people related to Catalyst, Tim Can’t and the good ole boys. The Fairhope City Council Attorney, Marcus McDowell is working overtime to assist the Council, not the Mayor and not the city. Marcus is a direct descendant of the same law firm that has been on the Fairhope payroll for over 20 years. He is a Jack Burrell appointment, backed by the council and approved by Catalyst. The council refused to even consider any other law firm, they knew Marcus would have their back.

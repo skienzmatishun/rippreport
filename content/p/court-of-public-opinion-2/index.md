@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 76.10160400302804
-  llm_score: 85
-  recency_score: 79.6604260196822
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 73.46838584544837
-  llm_score: 100
-  recency_score: 2.5445079954142833
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: where-is-the-media
   title: WHERE IS THE MEDIA?
-  score: 71.90188157181696
-  llm_score: 75
+  score: 78.0557277256631
+  llm_score: 85
   recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 71.10741801556219
+  llm_score: 75
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 71.07071459027225
+  llm_score: 75
+  recency_score: 86.95964483676948
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 69.99066869844769
-  llm_score: 85
-  recency_score: 39.93934653990996
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 70.85259326250642
+  llm_score: 75
+  recency_score: 85.54185620629158
   length_score: 100
   category_score: 0
   rank: 4
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 69.4616978995014
-  llm_score: 70
-  recency_score: 96.50103634675902
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 70.60260899552978
+  llm_score: 75
+  recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 5
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 67.95367640851508
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 70.19603757448029
   llm_score: 85
-  recency_score: 26.69889665534791
+  recency_score: 41.27424423412174
   length_score: 100
   category_score: 0
   rank: 6
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 67.56262885946411
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 64.4551969306573
   llm_score: 75
-  recency_score: 64.15708758651667
+  recency_score: 43.95878004927231
   length_score: 100
   category_score: 0
   rank: 7
-- slug: notice
-  title: 'NOTICE:'
-  score: 55.00899827284608
-  llm_score: 70
-  recency_score: 2.5584887734994517
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 62.66818095700273
+  llm_score: 75
+  recency_score: 32.34317622051765
   length_score: 100
   category_score: 0
   rank: 8
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 42.86358503707025
-  llm_score: 50
-  recency_score: 3.6133027409565597
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 58.92608486729314
+  llm_score: 75
+  recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 33.51196808891994
-  llm_score: 90
-  recency_score: 0.6555851559591579
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 52.84172941100987
+  llm_score: 65
+  recency_score: 8.471241171564124
   length_score: 100
   category_score: 0
   rank: 10

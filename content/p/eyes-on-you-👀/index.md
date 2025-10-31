@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: crazy
-  title: CRAZY
-  score: 69.80998277969147
-  llm_score: 75
-  recency_score: 3.764888067994434
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 80.51726618720157
+  llm_score: 89
+  recency_score: 92.36223021681012
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 69.02094953139249
-  llm_score: 70
-  recency_score: 93.63617195405108
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 78.41045617208597
+  llm_score: 85
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 2
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 68.10260819924657
-  llm_score: 85
-  recency_score: 27.666953295102704
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: cover-up
   title: COVER UP
-  score: 66.93817224154006
-  llm_score: 70
+  score: 76.16894147230929
+  llm_score: 85
   recency_score: 80.0981195700103
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 64.89978563395591
-  llm_score: 70
-  recency_score: 66.84860662071335
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 61.799830254668926
-  llm_score: 75
-  recency_score: 26.69889665534791
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 3
 - slug: happy-days
   title: HAPPY DAYS
-  score: 60.982689138638285
-  llm_score: 70
+  score: 73.2903814463306
+  llm_score: 90
   recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 68.3546820011692
+  llm_score: 85
+  recency_score: 29.305433007599714
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 68.01076339812893
+  llm_score: 90
+  recency_score: 7.069962087837917
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 66.95967616024025
+  llm_score: 90
+  recency_score: 0.23789504156153407
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 59.771674592225004
-  llm_score: 70
-  recency_score: 33.51588484946244
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 65.85538385947929
+  llm_score: 85
+  recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
   rank: 8
-- slug: notice
-  title: 'NOTICE:'
-  score: 59.1665770695878
-  llm_score: 75
-  recency_score: 9.582750952320627
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 64.21877988610134
+  llm_score: 85
+  recency_score: 2.422069259658703
   length_score: 100
   category_score: 0
   rank: 9
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 14.919894307818735
-  llm_score: 0
-  recency_score: 21.979313000821772
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 63.92760694641242
+  llm_score: 85
+  recency_score: 0.5294451516806106
   length_score: 100
   category_score: 0
   rank: 10

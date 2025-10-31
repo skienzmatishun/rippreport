@@ -12,14 +12,38 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: 4-20
-  title: 4-20
-  score: 62.47904954597772
-  llm_score: 74
-  recency_score: 35.11382204885514
+- slug: insanity-2
+  title: INSANITY
+  score: 70.15088224540614
+  llm_score: 75
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 1
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 62.37712496918528
+  llm_score: 75
+  recency_score: 30.451312299704224
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: offensive
+  title: Offensive
+  score: 59.615364397962665
+  llm_score: 75
+  recency_score: 12.499868586757227
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 59.13857280268648
+  llm_score: 75
+  recency_score: 9.400723217462033
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
   score: 58.05189568255493
@@ -27,68 +51,44 @@ related_articles:
   recency_score: 2.337321936606922
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 51.952710709609136
-  llm_score: 63
-  recency_score: 10.692619612459277
-  length_score: 100
+  rank: 5
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 54.33032915572855
+  llm_score: 75
+  recency_score: 29.70963951223547
+  length_score: 31.25
   category_score: 0
-  rank: 3
+  rank: 6
 - slug: cannabis-conference
   title: Inaugural Alabama Medical Cannabis Conference
-  score: 27.30607838936486
-  llm_score: 23
+  score: 50.07530915859564
+  llm_score: 60
   recency_score: 10.489509530871569
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 7
 - slug: tiny-steps
   title: TINY STEPS
-  score: 26.344155659759338
-  llm_score: 0
+  score: 44.805694121297805
+  llm_score: 30
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 22.61247114403175
-  llm_score: 0
-  recency_score: 71.98106243620636
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 19.084624687922787
-  llm_score: 0
-  recency_score: 49.0500604714981
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 17.61600686821549
-  llm_score: 0
-  recency_score: 39.504044643400675
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 16.109175309574688
-  llm_score: 0
-  recency_score: 29.70963951223547
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 36.48962936734793
+  llm_score: 40
+  recency_score: 2.182590887761505
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 11.975263297904874
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 24.990375982211198
   llm_score: 0
-  recency_score: 2.839211436381685
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 10

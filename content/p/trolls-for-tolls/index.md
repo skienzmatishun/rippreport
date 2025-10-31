@@ -13,6 +13,30 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 67.03633989192106
+  llm_score: 75
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 66.48977522329234
+  llm_score: 75
+  recency_score: 57.18353895140014
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 66.29905177222592
+  llm_score: 75
+  recency_score: 55.94383651946845
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
   score: 65.86249060338235
@@ -20,76 +44,52 @@ related_articles:
   recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 63.95941681499799
-  llm_score: 70
-  recency_score: 60.73620929748681
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 63.41285214636927
-  llm_score: 70
-  recency_score: 57.18353895140014
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 63.22212869530285
-  llm_score: 70
-  recency_score: 55.94383651946845
-  length_score: 100
-  category_score: 0
   rank: 4
 - slug: pied-piper
   title: PIED PIPER
-  score: 62.63037201985758
-  llm_score: 70
+  score: 65.70729509678065
+  llm_score: 75
   recency_score: 52.09741812907417
   length_score: 100
   category_score: 0
   rank: 5
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 58.722907177745846
-  llm_score: 70
-  recency_score: 26.69889665534791
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 61.68294090681297
+  llm_score: 65
+  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
   rank: 6
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 57.07287839924212
-  llm_score: 50
-  recency_score: 95.97370959507373
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 59.06145744252297
+  llm_score: 75
+  recency_score: 8.899473376399213
   length_score: 100
   category_score: 0
   rank: 7
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 55.93662831348142
-  llm_score: 70
+  score: 59.0135513904045
+  llm_score: 75
   recency_score: 8.588084037629146
   length_score: 100
   category_score: 0
   rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 55.83237596706194
-  llm_score: 70
+  score: 58.90929904398502
+  llm_score: 75
   recency_score: 7.9104437859025545
   length_score: 100
   category_score: 0
   rank: 9
-- slug: csb-railroad-nomination
-  title: CSB / RAILROAD- NOMINATION
-  score: 42.52115067709981
-  llm_score: 40
-  recency_score: 41.38747940114875
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 40.07612149823088
+  llm_score: 45
+  recency_score: 5.494789738500692
   length_score: 100
   category_score: 0
   rank: 10

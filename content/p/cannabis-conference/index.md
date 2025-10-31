@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference
 related_articles:
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 59.36917885348302
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 72.37680990817655
   llm_score: 75
-  recency_score: 10.899662547639538
+  recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 1
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 58.7412187552837
-  llm_score: 65
-  recency_score: 46.817921909343944
+- slug: offensive
+  title: Offensive
+  score: 70.60260899552978
+  llm_score: 75
+  recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 58.043457102367164
-  llm_score: 70
-  recency_score: 22.28247116538646
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 65.45992454321102
+  llm_score: 85
+  recency_score: 10.489509530871569
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 56.22915531244179
-  llm_score: 70
-  recency_score: 10.489509530871569
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 61.120380179290244
+  llm_score: 75
+  recency_score: 22.28247116538646
   length_score: 100
   category_score: 0
   rank: 4
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 55.0948300720344
-  llm_score: 70
+  score: 56.392906995111325
+  llm_score: 85
   recency_score: 3.116395468223524
-  length_score: 100
+  length_score: 31.25
   category_score: 0
   rank: 5
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 54.91064278755297
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 53.21533269963686
   llm_score: 65
-  recency_score: 21.919178119094283
+  recency_score: 10.899662547639538
   length_score: 100
   category_score: 0
   rank: 6
-- slug: war
-  title: WAR
-  score: 54.8195083772215
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 52.02987589322354
   llm_score: 65
-  recency_score: 21.326804451939722
+  recency_score: 3.19419330595294
   length_score: 100
   category_score: 0
   rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 52.84530490361955
-  llm_score: 65
-  recency_score: 8.494481873527002
+- slug: 4-20
+  title: 4-20
+  score: 47.18204118622585
+  llm_score: 57
+  recency_score: 3.6832677104679425
   length_score: 100
   category_score: 0
   rank: 8
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 45.57976227972383
-  llm_score: 50
-  recency_score: 21.268454818204823
+- slug: bsp-128
+  title: Big News
+  score: 34.48389145061434
+  llm_score: 30
+  recency_score: 29.145294428993168
   length_score: 100
   category_score: 0
   rank: 9
-- slug: symbol
-  title: Veterans Day
-  score: 14.239515307476257
-  llm_score: 0
-  recency_score: 17.55684949859567
+- slug: war
+  title: WAR
+  score: 33.28104683875996
+  llm_score: 30
+  recency_score: 21.326804451939722
   length_score: 100
   category_score: 0
   rank: 10

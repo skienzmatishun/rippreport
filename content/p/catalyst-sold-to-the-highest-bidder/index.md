@@ -15,74 +15,84 @@ authors:
 - ripp-report
 alttags: Chris Elliott and David Northcutt, candidates in a runoff election, pose for a photo amid campaign activity
 related_articles:
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 86.4452804719372
-  llm_score: 95
-  recency_score: 99.72640235968593
-  category_score: 0
-  rank: 1
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 86.33629014021759
-  llm_score: 95
+  score: 77.2586847232443
+  llm_score: 82
   recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
-  title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
-  score: 86.2820185184681
-  llm_score: 95
-  recency_score: 98.91009259234048
-  category_score: 0
-  rank: 3
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 86.12009294457452
-  llm_score: 95
-  recency_score: 98.10046472287257
-  category_score: 0
-  rank: 4
+  rank: 1
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
-  score: 84.18201851846811
-  llm_score: 92
+  score: 75.3707834757447
+  llm_score: 79
   recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 74.54836891495759
+  llm_score: 78
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-citizens-for-government-accountability-cga
+  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
+  score: 73.52462962959085
+  llm_score: 76
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 73.03483113225938
+  llm_score: 75
+  recency_score: 99.72640235968593
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: elliotttuckercatalyst-selling-your-soul
-  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 84.13181386565738
-  llm_score: 95
-  recency_score: 88.15906932828686
-  category_score: 0
-  rank: 6
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 83.19167940010973
-  llm_score: 95
-  recency_score: 83.45839700054867
-  category_score: 0
-  rank: 7
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 76.84434506009413
-  llm_score: 85
+  score: 71.03411158468779
+  llm_score: 75
   recency_score: 86.72172530047058
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 39.255241435121064
+  llm_score: 23
+  recency_score: 88.15906932828686
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 26.50730216256216
+  llm_score: 0
+  recency_score: 97.29746405665401
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 62.4065451734852
-  llm_score: 85
-  recency_score: 14.532725867425949
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 26.1827873027759
+  llm_score: 0
+  recency_score: 95.18811746804333
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 45.73437261251507
-  llm_score: 65
-  recency_score: 1.1718630625752924
+- slug: insanity
+  title: INSANITY
+  score: 23.462703749827348
+  llm_score: 0
+  recency_score: 77.50757437387774
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: A person dressed as a jester in colorful patchwork clothing, symbolizing controversy over land deals and local politics in...
 related_articles:
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 78.02264356592472
-  llm_score: 87
-  recency_score: 84.14718317851063
+- slug: deliberate-distortion-or-twisting-of-meaning
+  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
+  score: 87.32548067379618
+  llm_score: 100
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 1
-- slug: blind-leading-the-blind
-  title: BLIND LEADING THE BLIND
-  score: 76.61574481912095
-  llm_score: 85
-  recency_score: 83.00234132428609
+- slug: disposal
+  title: DISPOSAL
+  score: 87.24761989759932
+  llm_score: 100
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-jester-and-fly-creek
-  title: FAIRHOPE JESTER AND FLY CREEK
-  score: 73.40298787557235
-  llm_score: 93
-  recency_score: 30.119421191220212
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 85.33237323379727
+  llm_score: 100
+  recency_score: 79.6604260196822
   length_score: 100
   category_score: 0
   rank: 3
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 69.85107763131754
-  llm_score: 78
-  recency_score: 67.03200460356393
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 71.26723258283627
+  llm_score: 73
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 4
-- slug: hate
-  title: HATE
-  score: 65.89990793020445
-  llm_score: 85
-  recency_score: 13.34940154632884
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 68.36539036083201
+  llm_score: 70
+  recency_score: 89.37503734540803
   length_score: 100
   category_score: 0
   rank: 5
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 61.55956709415939
-  llm_score: 75
-  recency_score: 25.13718611203594
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65.75024027492185
+  llm_score: 70
+  recency_score: 72.37656178699199
   length_score: 100
   category_score: 0
   rank: 6
-- slug: april-fool
-  title: APRIL FOOL
-  score: 19.002378496762734
-  llm_score: 0
-  recency_score: 48.51546022895776
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 40.992854350163036
+  llm_score: 23
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 18.860598761084308
-  llm_score: 0
-  recency_score: 47.593891947047986
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 40.21676243074786
+  llm_score: 23
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 15.405720940313223
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 24.308052511428635
   llm_score: 0
-  recency_score: 25.13718611203594
+  recency_score: 83.00234132428609
   length_score: 100
   category_score: 0
   rank: 9
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 12.789256061706965
+- slug: honey-bees
+  title: HONEY BEES
+  score: 23.561115096235135
   llm_score: 0
-  recency_score: 8.130164401095277
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 0
   rank: 10

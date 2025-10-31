@@ -9,84 +9,84 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: last-chance
-  title: LAST CHANCE
-  score: 68.94986025110443
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 80.1840823853234
   llm_score: 75
-  recency_score: 73.17409163217867
+  recency_score: 71.19653550460211
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 65.87293717418135
-  llm_score: 70
-  recency_score: 73.17409163217867
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 73.26730279443281
+  llm_score: 85
+  recency_score: 61.23746816381321
   length_score: 100
   category_score: 0
   rank: 2
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 65.81182504203802
-  llm_score: 85
-  recency_score: 12.776862773247046
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 71.51786273032691
+  llm_score: 75
+  recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
   rank: 3
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 65.44931679848317
-  llm_score: 70
-  recency_score: 70.42055919014051
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 66.959854381861
+  llm_score: 75
+  recency_score: 60.23905348209645
   length_score: 100
   category_score: 0
   rank: 4
-- slug: qualification
-  title: QUALIFICATION
-  score: 61.04264454278004
-  llm_score: 80
-  recency_score: 1.7771895280701993
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 66.6601220200348
+  llm_score: 75
+  recency_score: 58.29079313022616
   length_score: 100
   category_score: 0
   rank: 5
-- slug: election-ad
-  title: ELECTION AD
-  score: 59.909810514111605
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 14.41376834172532
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: countdown
-  title: COUNTDOWN
-  score: 57.86486205436136
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 59.82052741076834
   llm_score: 75
-  recency_score: 1.1216033533487584
+  recency_score: 13.83342816999413
   length_score: 100
   category_score: 0
   rank: 7
-- slug: game-on
-  title: GAME ON
-  score: 57.753231037561015
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 58.32806819110848
   llm_score: 75
-  recency_score: 0.39600174414651
+  recency_score: 4.13244324220501
   length_score: 100
   category_score: 0
   rank: 8
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 54.791280175656546
-  llm_score: 70
-  recency_score: 1.1433211417674878
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 58.03459273086521
+  llm_score: 75
+  recency_score: 2.224852750623742
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 54.470211387754794
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 57.871609146963216
   llm_score: 75
-  recency_score: 3.806374020406067
-  length_score: 67.0
+  recency_score: 1.1654594552607842
+  length_score: 100
   category_score: 0
   rank: 10
 ---

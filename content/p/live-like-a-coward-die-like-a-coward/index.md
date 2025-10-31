@@ -10,83 +10,83 @@ authors:
 - admin
 alttags: John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ...
 related_articles:
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 62.70470574088749
-  llm_score: 78
-  recency_score: 20.580587315768575
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 61.073740461664904
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 69.9209915165576
   llm_score: 75
-  recency_score: 21.979313000821772
+  recency_score: 4.486444857624386
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 62.441742121091984
+  llm_score: 75
+  recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 58.66506557558394
-  llm_score: 56
-  recency_score: 82.32292624129552
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 42.25961309285616
+  llm_score: 30
+  recency_score: 4.687485103565025
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 3
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 37.91422722674281
-  llm_score: 23
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 39.144996457512036
+  llm_score: 25
   recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 4
-- slug: crazy
-  title: CRAZY
-  score: 25.712189924893096
-  llm_score: 0
-  recency_score: 17.129234511805123
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 37.761740353800654
+  llm_score: 35
+  recency_score: 30.451312299704224
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 36.08435782789427
+  llm_score: 20
+  recency_score: 4.548325881312761
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 21.627506731643813
-  llm_score: 0
-  recency_score: 65.57879375568477
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: surrender
-  title: SURRENDER
-  score: 21.408782705617952
-  llm_score: 0
-  recency_score: 64.15708758651667
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 16.596805968200847
-  llm_score: 0
+  score: 35.058344429739314
+  llm_score: 30
   recency_score: 32.87923879330549
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: barstool
+  title: BARSTOOL
+  score: 34.25455431482061
+  llm_score: 35
+  recency_score: 7.654603046333945
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: cover-up
-  title: COVER UP
-  score: 14.246925601240775
-  llm_score: 0
-  recency_score: 17.605016408065044
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 14.842947054396964
+  llm_score: 5
+  recency_score: 1.4791558535802596
   length_score: 100
   category_score: 0
   rank: 9
-- slug: notice
-  title: 'NOTICE:'
-  score: 11.862495819369197
+- slug: justified
+  title: JUSTIFIED
+  score: 11.91726356039361
   llm_score: 0
-  recency_score: 2.10622282589978
+  recency_score: 2.4622131425584706
   length_score: 100
   category_score: 0
   rank: 10

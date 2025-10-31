@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Exit sign depicting a figure running through a doorway, referencing calls for Tucker Dorsey’s removal from office
 related_articles:
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 86.2820185184681
-  llm_score: 95
-  recency_score: 98.91009259234048
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 72.20352711404549
+  llm_score: 78
+  recency_score: 82.32292624129552
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 79.39071065521195
-  llm_score: 85
-  recency_score: 99.45355327605971
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 71.67847578343701
+  llm_score: 73
+  recency_score: 98.91009259234048
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 79.2820185184681
-  llm_score: 85
-  recency_score: 98.91009259234048
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 71.07071459027225
+  llm_score: 75
+  recency_score: 86.95964483676948
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 77.1801864385564
-  llm_score: 85
-  recency_score: 88.40093219278197
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 64.47296013126491
+  llm_score: 71
+  recency_score: 60.07424085322191
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: i-quit-and-will-quit-again
-  title: I QUIT AND WILL QUIT AGAIN
-  score: 74.09477780883037
-  llm_score: 85
-  recency_score: 72.97388904415178
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 63.75122947224069
+  llm_score: 77
+  recency_score: 31.3829915695644
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 68.34502484628416
-  llm_score: 75
-  recency_score: 79.22512423142078
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 62.96531513914784
+  llm_score: 71
+  recency_score: 50.274548404460894
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst
-  title: CATALYST
-  score: 66.24107892098587
-  llm_score: 75
-  recency_score: 68.70539460492927
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.20183321119292
+  llm_score: 71
+  recency_score: 12.811915872753922
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: dont-let-the-door-hit-you-in-the-ass
-  title: DON’T LET THE DOOR HIT YOU IN THE ASS
-  score: 62.31680735458123
-  llm_score: 67
-  recency_score: 77.0840367729061
+- slug: mega-lost-opportunity
+  title: MEGA — LOST OPPORTUNITY
+  score: 55.961867546538755
+  llm_score: 71
+  recency_score: 4.7521390525018266
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 62.1772050791888
-  llm_score: 85
-  recency_score: 13.386025395943985
+- slug: fire
+  title: FIRE
+  score: 14.067624890187538
+  llm_score: 0
+  recency_score: 16.439561786218995
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 55.027521359882996
-  llm_score: 75
-  recency_score: 12.637606799414936
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 0
+  llm_score: -239
+  recency_score: 74.38689434377122
+  length_score: 100
   category_score: 0
   rank: 10
 ---

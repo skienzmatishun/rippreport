@@ -16,46 +16,38 @@ authors:
 - ripp-report
 alttags: Alabama prison complex, symbolizing state decisions that cost billions and reflect political corruption
 related_articles:
-- slug: alabama-national-news
-  title: ALABAMA NATIONAL NEWS
-  score: 85.09237918813425
-  llm_score: 95
-  recency_score: 98.10046472287257
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 86.02264356592472
+  llm_score: 100
+  recency_score: 84.14718317851063
   length_score: 100
   category_score: 0
   rank: 1
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 73.48299644815008
-  llm_score: 76
-  recency_score: 98.63947691297537
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 70.32314841890349
+  llm_score: 71
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 2
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 70.6445294710572
-  llm_score: 95
-  recency_score: 4.189441561871679
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 59.799110818706076
+  llm_score: 72
+  recency_score: 25.694220321589416
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 68.87072252217858
-  llm_score: 87
-  recency_score: 24.659696394160648
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 29.95352495781377
+  llm_score: 25
+  recency_score: 19.697912225789477
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 60.63857470285867
-  llm_score: 79
-  recency_score: 3.150735568581256
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
   score: 25.787019135334628
@@ -63,36 +55,44 @@ related_articles:
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 14.670196610780643
+  rank: 5
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 13.012730915741635
   llm_score: 0
-  recency_score: 20.356277970074178
+  recency_score: 9.582750952320627
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 12.693723255560732
+  llm_score: 0
+  recency_score: 7.509201161144759
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 14.602302603929836
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 12.197273632993126
   llm_score: 0
-  recency_score: 19.91496692554393
+  recency_score: 4.282278614455312
   length_score: 100
   category_score: 0
   rank: 8
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 13.321580558422617
-  llm_score: -2
-  recency_score: 19.590273629747017
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 0
+  llm_score: -45
+  recency_score: 17.896805635113584
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 12.151977008487608
-  llm_score: 0
-  recency_score: 3.9878505551694436
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 0
+  llm_score: -100
+  recency_score: 41.50102522687563
   length_score: 100
   category_score: 0
   rank: 10

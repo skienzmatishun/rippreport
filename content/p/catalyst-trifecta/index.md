@@ -13,74 +13,84 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 86.4452804719372
-  llm_score: 95
-  recency_score: 99.72640235968593
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 100
+  llm_score: 239
+  recency_score: 15.820943014170737
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: ask-chris-elliott-catalyst-red-flags
-  title: ASK CHRIS ELLIOTT - CATALYST RED FLAGS
-  score: 84.07392032634468
-  llm_score: 92
-  recency_score: 98.36960163172333
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 78.48945395401354
+  llm_score: 84
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 80.87500746908162
-  llm_score: 90
-  recency_score: 89.37503734540803
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 75.69711699860147
+  llm_score: 80
+  recency_score: 97.03126049090956
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: elliotttuckercatalyst-selling-your-soul
-  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 80.58357363897638
-  llm_score: 90
-  recency_score: 87.91786819488183
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 72.95847027626327
+  llm_score: 79
+  recency_score: 83.23005679571122
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 79.39071065521195
-  llm_score: 85
-  recency_score: 99.45355327605971
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 71.62717346653267
+  llm_score: 78
+  recency_score: 78.57662753246225
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 77.20034869269524
-  llm_score: 90
-  recency_score: 71.00174346347615
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 62.757183735060195
+  llm_score: 78
+  recency_score: 20.921694277891152
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 76.79689134128178
-  llm_score: 85
-  recency_score: 86.48445670640884
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 62.05073922904411
+  llm_score: 79
+  recency_score: 12.329804988786655
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: million-dollar-swimming-pool
-  title: MILLION DOLLAR SWIMMING POOL
-  score: 72.2820185184681
-  llm_score: 75
-  recency_score: 98.91009259234048
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 26.589548333269796
+  llm_score: 0
+  recency_score: 97.83206416625366
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 55.414519229323126
-  llm_score: 75
-  recency_score: 14.572596146615592
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 25.06428741459721
+  llm_score: 0
+  recency_score: 87.91786819488183
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 45.73501560967751
-  llm_score: 65
-  recency_score: 1.1750780483875294
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 22.46180668668864
+  llm_score: 0
+  recency_score: 71.00174346347615
+  length_score: 100
   category_score: 0
   rank: 10
 ---

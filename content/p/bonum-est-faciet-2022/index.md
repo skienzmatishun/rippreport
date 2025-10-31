@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: im-back-2
-  title: I'M BACK
-  score: 74.79946700070803
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 76.51121942173778
   llm_score: 85
-  recency_score: 71.19653550460211
+  recency_score: 82.32292624129552
   length_score: 100
   category_score: 0
   rank: 1
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 71.97995595769126
-  llm_score: 75
-  recency_score: 92.86971372499306
+- slug: cover-up
+  title: COVER UP
+  score: 76.20274882459347
+  llm_score: 85
+  recency_score: 80.31786735985746
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 67.61686125728563
-  llm_score: 75
-  recency_score: 64.50959817235656
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 69.07356394423205
+  llm_score: 85
+  recency_score: 33.97816563750821
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bsp-128
-  title: Big News
-  score: 65.88490535727412
-  llm_score: 75
-  recency_score: 53.251884822281745
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 68.51815357350887
+  llm_score: 85
+  recency_score: 30.367998227807558
   length_score: 100
   category_score: 0
   rank: 4
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 65.66349746068468
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 66.53811283570458
   llm_score: 75
-  recency_score: 51.81273349445037
+  recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 61.333357754516726
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 23.666825404358608
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 59.909810514111605
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 63.03555598480498
   llm_score: 75
-  recency_score: 14.41376834172532
+  recency_score: 34.73111390123228
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 58.59017958320785
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 62.188500620678035
   llm_score: 75
-  recency_score: 5.836167290850916
+  recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.24214170564951
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 61.264194724127194
   llm_score: 75
-  recency_score: 3.573921086721709
+  recency_score: 23.21726570682666
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 57.25788127185212
-  llm_score: 70
-  recency_score: 17.176228267038702
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 61.12978503618943
+  llm_score: 75
+  recency_score: 22.343602735231208
   length_score: 100
   category_score: 0
   rank: 10

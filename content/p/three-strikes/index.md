@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations
 related_articles:
-- slug: shut-up-2
-  title: SHUT UP
-  score: 76.75645514937592
-  llm_score: 85
-  recency_score: 83.91695847094347
+- slug: gold-mine-for-sale
+  title: GOLD MINE FOR SALE
+  score: 86.9024781149423
+  llm_score: 100
+  recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
   rank: 1
-- slug: deliberate-distortion-or-twisting-of-meaning
-  title: DELIBERATE DISTORTION OR TWISTING OF MEANING
-  score: 72.53862097642448
-  llm_score: 75
-  recency_score: 96.50103634675902
+- slug: baldwin-county-municipal-alert-municipal-conservation-easement
+  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
+  score: 77.5184174961528
+  llm_score: 84
+  recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 71.68738146661498
-  llm_score: 85
-  recency_score: 50.96797953299731
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 75.94891771054752
+  llm_score: 81
+  recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 3
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 68.03463449714167
-  llm_score: 72
-  recency_score: 79.22512423142078
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 71.95178140406868
+  llm_score: 82
+  recency_score: 64.6865791264464
   length_score: 100
   category_score: 0
   rank: 4
-- slug: broken-eggs
-  title: BROKEN EGGS
-  score: 66.85179616974847
-  llm_score: 85
-  recency_score: 19.53667510336496
+- slug: down-home-fairhope-jester
+  title: “DOWN HOME” FAIRHOPE JESTER
+  score: 71.1087040601389
+  llm_score: 78
+  recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
   rank: 5
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 66.62984825077078
-  llm_score: 85
-  recency_score: 18.094013630009982
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 70.94154133926725
+  llm_score: 80
+  recency_score: 66.12001870523703
   length_score: 100
   category_score: 0
   rank: 6
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 65.69684615467332
-  llm_score: 85
-  recency_score: 12.02950000537652
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 70.72390686229683
+  llm_score: 79
+  recency_score: 68.70539460492927
   length_score: 100
   category_score: 0
   rank: 7
-- slug: hell-yea
-  title: HELL YEA
-  score: 65.44807319208198
-  llm_score: 75
-  recency_score: 50.412475748532785
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 22.491774693015714
+  llm_score: 0
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 8
-- slug: back-stabber
-  title: BACK STABBER
-  score: 33.03453307031122
-  llm_score: 23
-  recency_score: 47.72446495702292
+- slug: honey-bees
+  title: HONEY BEES
+  score: 22.283712645630715
+  llm_score: 0
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 21.435861759073987
-  llm_score: 0
-  recency_score: 64.3331014339809
+- slug: disposal
+  title: DISPOSAL
+  score: 12.312501613986086
+  llm_score: -23
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
   rank: 10

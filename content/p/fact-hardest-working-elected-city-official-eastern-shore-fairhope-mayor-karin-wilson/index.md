@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Nappie Award winner Mayor Wilson recognized as “Hardest Working Elected City Official” on Eastern Shore
 related_articles:
-- slug: nappi-award
-  title: NAPPI AWARD
-  score: 78.52363355642143
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 74.82893582600414
   llm_score: 100
-  recency_score: 35.40361811673922
+  recency_score: 11.388082869026867
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 70.62759695282253
-  llm_score: 85
-  recency_score: 44.079380193346374
+- slug: letter-of-concern
+  title: Letter of Concern
+  score: 73.03248119850767
+  llm_score: 76
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 57.72743333789684
-  llm_score: 75
-  recency_score: 0.2283166963293465
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 64.88710816843701
+  llm_score: 71
+  recency_score: 62.766203094840556
   length_score: 100
   category_score: 0
   rank: 3
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 57.72714581717113
-  llm_score: 75
-  recency_score: 0.22644781161224353
+- slug: wetlands
+  title: WETLANDS
+  score: 61.50828594762332
+  llm_score: 77
+  recency_score: 16.8038586595515
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 37.71496125008129
-  llm_score: 23
-  recency_score: 78.14724812552835
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 61.36340751638911
+  llm_score: 75
+  recency_score: 23.862148856529085
   length_score: 100
   category_score: 0
   rank: 5
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 20.959610486740495
-  llm_score: 0
-  recency_score: 61.23746816381321
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 60.67747971026758
+  llm_score: 71
+  recency_score: 35.40361811673922
   length_score: 100
   category_score: 0
   rank: 6
-- slug: hardest-working-elected-official-eastern-shore
-  title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 13.60349995729998
-  llm_score: 0
-  recency_score: 13.422749722449872
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 40.83214704613248
+  llm_score: 24
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 7
-- slug: challengers-emerge-in-daphne-mayoral-race
-  title: Challengers emerge in Daphne mayoral race
-  score: 12.298146717981384
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 26.344155659759338
   llm_score: 0
-  recency_score: 4.937953666878992
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 8
-- slug: qualified-daphne-district-6-city-council
-  title: QUALIFIED DAPHNE DISTRICT 6 CITY COUNCIL
-  score: 12.1887798564957
-  llm_score: 1
-  recency_score: 0.22706906722204626
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 14.088498197381126
+  llm_score: 0
+  recency_score: 16.575238282977313
   length_score: 100
   category_score: 0
   rank: 9
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 11.664036654034586
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 11.80741757830821
   llm_score: 0
-  recency_score: 0.8162382512248036
+  recency_score: 1.7482142590033594
   length_score: 100
   category_score: 0
   rank: 10

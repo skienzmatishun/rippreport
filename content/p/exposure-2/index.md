@@ -7,74 +7,84 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 66.6196286005925
-  llm_score: 85
-  recency_score: 35.59814300296249
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 71.48003633798257
+  llm_score: 75
+  recency_score: 89.62023619688662
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 63.895862600164364
-  llm_score: 85
-  recency_score: 21.979313000821772
+- slug: catalyst-open-letter-to-baldwin-county-district-attorney
+  title: CATALYST - Open letter to Baldwin County District Attorney
+  score: 68.03321626701111
+  llm_score: 75
+  recency_score: 67.21590573557219
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 62.591313883933694
-  llm_score: 70
-  recency_score: 67.95656941966844
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 61.986222120908096
+  llm_score: 80
+  recency_score: 7.9104437859025545
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: take-a-chance
-  title: “TAKE A CHANCE”
-  score: 55.55347479370099
-  llm_score: 75
-  recency_score: 15.267373968504938
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 61.95658105456454
+  llm_score: 80
+  recency_score: 7.717776854669439
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 51.458229477702595
-  llm_score: 65
-  recency_score: 29.79114738851293
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 60.47712109120799
+  llm_score: 76
+  recency_score: 14.10128709285187
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 51.21833385593837
-  llm_score: 65
-  recency_score: 28.59166927969179
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 58.510319452061196
+  llm_score: 75
+  recency_score: 5.31707643839769
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 50.624784308218494
-  llm_score: 65
-  recency_score: 25.623921541092447
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 30.09250917378617
+  llm_score: 20
+  recency_score: 40.601309629610085
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 46.10976680282934
-  llm_score: 65
-  recency_score: 3.0488340141466597
+- slug: newsletter
+  title: NEWSLETTER
+  score: 11.55838321116275
+  llm_score: 0
+  recency_score: 0.12949087255788053
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 36.43193927883213
-  llm_score: 45
-  recency_score: 24.659696394160648
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 4.807746013220317
+  llm_score: -23
+  recency_score: 48.25034908593207
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 35.295021783613656
-  llm_score: 50
-  recency_score: 1.4751089180682964
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 0
+  llm_score: -200
+  recency_score: 6.047776803017642
+  length_score: 100
   category_score: 0
   rank: 10
 ---

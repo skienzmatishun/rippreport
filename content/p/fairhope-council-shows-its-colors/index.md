@@ -7,45 +7,85 @@ categories:
 authors:
 - ripp-report
 related_articles:
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 92
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 76.64330010785969
+  llm_score: 81
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 85
+  score: 76.47699457274963
+  llm_score: 81
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 85
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 75.45439281170151
+  llm_score: 79
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: hell-yea
+  title: HELL YEA
+  score: 74.75539886036009
+  llm_score: 78
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 74.09838106353469
+  llm_score: 77
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 71.32548067379618
+  llm_score: 74
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 71.14422213605737
+  llm_score: 75
+  recency_score: 87.43744388437275
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: gulf-shores-lawsuit-2020
+  title: GULF SHORES LAWSUIT & 2020
+  score: 63.75209549656684
+  llm_score: 72
+  recency_score: 51.388620727684355
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 58.88180845012937
+  llm_score: 71
+  recency_score: 23.73175492584083
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 85
-  rank: 4
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 75
-  rank: 5
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 75
-  rank: 6
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 75
-  rank: 7
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 65
-  rank: 8
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 50
-  rank: 9
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 50
+  score: 55.90150657877554
+  llm_score: 72
+  recency_score: 0.35979276204090305
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The present Fairhope City Council is going to try and pull every dirty trick they can to derail the Oct. 2nd election. The City Attorney is carrying out the Catalyst Council’s instructions as we speak. The City Attorney is and has been representing the City Council, not the citizens of Fairhope and not the Mayor.

@@ -9,46 +9,38 @@ authors:
 - admin
 alttags: WHO official speaks at a podium about ending Covid-19 pandemic restrictions next week
 related_articles:
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 73.71442777353067
-  llm_score: 100
-  recency_score: 4.143780527949273
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 65.47811954940003
+  llm_score: 65
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 69.9579080553363
-  llm_score: 70
-  recency_score: 99.72640235968593
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 62.8578686264601
+  llm_score: 65
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 2
-- slug: pandemic-of-the-un-vaccinated
-  title: PANDEMIC OF THE UN-VACCINATED
-  score: 60.430616788773946
+- slug: the-180
+  title: THE 180
+  score: 61.85648484623268
   llm_score: 75
-  recency_score: 17.799009127030544
+  recency_score: 27.067151500512303
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 59.763011507923565
-  llm_score: 75
-  recency_score: 13.459574801503088
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 58.58506760056245
+  llm_score: 65
+  recency_score: 45.8029394036559
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 58.08269942793559
-  llm_score: 75
-  recency_score: 2.537546281581227
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
   score: 56.445906091340554
@@ -56,36 +48,44 @@ related_articles:
   recency_score: 11.898389593713517
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 55.40572094031323
+  llm_score: 65
+  recency_score: 25.13718611203594
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 53.20616949211192
-  llm_score: 65
+  score: 50.129246415188845
+  llm_score: 60
   recency_score: 10.840101698727413
   length_score: 100
   category_score: 0
   rank: 7
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 48.92420829592296
-  llm_score: 60
-  recency_score: 3.007353923499134
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 38.397118044430584
+  llm_score: 30
+  recency_score: 54.58126728879875
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bsp-128
-  title: Big News
-  score: 17.355348715535737
-  llm_score: 0
-  recency_score: 37.809766650982276
+- slug: he-must-go
+  title: He Must Go
+  score: 35.142182489136
+  llm_score: 30
+  recency_score: 33.42418617938393
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dark-wednesday
-  title: DARK WEDNESDAY
-  score: 12.35200329975241
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 14.602302603929836
   llm_score: 0
-  recency_score: 5.288021448390664
+  recency_score: 19.91496692554393
   length_score: 100
   category_score: 0
   rank: 10

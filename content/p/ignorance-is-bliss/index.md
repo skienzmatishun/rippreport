@@ -8,45 +8,85 @@ authors:
 - ripp-report
 alttags: Cartoon ostrich head in sand, symbolizing Fairhope voters rejecting a new government system
 related_articles:
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 100
+  llm_score: 2009
+  recency_score: 29.79114738851293
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 86.27331366036472
+  llm_score: 100
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 76.54277008720886
+  llm_score: 100
+  recency_score: 22.528005566857594
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 76.0908113276534
+  llm_score: 100
+  recency_score: 19.590273629747017
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 74.06291627690172
+  llm_score: 78
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: fear
   title: FEAR
-  score: 85
-  rank: 1
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 85
-  rank: 2
+  score: 73.11338642899011
+  llm_score: 76
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: hell-yea
   title: HELL YEA
-  score: 85
-  rank: 3
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 85
-  rank: 4
-- slug: blind-voting-straight-ticket
-  title: BLIND VOTING STRAIGHT TICKET
-  score: 85
-  rank: 5
+  score: 72.84376257021675
+  llm_score: 78
+  recency_score: 86.48445670640884
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: bury-the-body
   title: BURY THE BODY
-  score: 85
-  rank: 6
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 85
-  rank: 7
-- slug: skunked
-  title: SKUNKED
-  score: 85
+  score: 71.87062605050568
+  llm_score: 76
+  recency_score: 88.15906932828686
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 75
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 0
+  llm_score: -205876134
+  recency_score: 86.95964483676948
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 75
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 0
+  llm_score: -100
+  recency_score: 67.77064184929783
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done.

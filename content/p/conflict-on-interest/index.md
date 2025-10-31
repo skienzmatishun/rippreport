@@ -10,74 +10,84 @@ authors:
 - admin
 alttags: Gavel resting on a sign reading Conflict of Interest, illustrating concerns about a judges role in approving a Fairhope...
 related_articles:
-- slug: documents
-  title: DOCUMENTS
-  score: 77.1801864385564
-  llm_score: 85
-  recency_score: 88.40093219278197
+- slug: fairness
+  title: FAIRNESS
+  score: 74.25133234354213
+  llm_score: 100
+  recency_score: 7.633660233023765
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 65.76668563399883
-  llm_score: 90
-  recency_score: 13.83342816999413
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 74.23218479402229
+  llm_score: 100
+  recency_score: 7.509201161144759
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 64.54779008809193
-  llm_score: 90
-  recency_score: 7.738950440459613
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 72.37746973477843
+  llm_score: 74
+  recency_score: 99.45355327605971
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 64.22960278433563
-  llm_score: 90
-  recency_score: 6.148013921678106
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 58.50406987367898
+  llm_score: 73
+  recency_score: 13.276454178913294
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
-  title: WHO’S RESPONSIBLE?
-  score: 54.108310627406574
-  llm_score: 75
-  recency_score: 8.041553137032842
+- slug: fairhope-infrastructure
+  title: Fairhope Infrastructure
+  score: 54.172082257390834
+  llm_score: 69
+  recency_score: 1.1185346730403125
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 53.73635882663995
-  llm_score: 75
-  recency_score: 6.181794133199707
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 16.287895967245817
+  llm_score: 0
+  recency_score: 30.871323787097815
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 53.13187591129929
-  llm_score: 75
-  recency_score: 3.1593795564963942
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 14.90141657922834
+  llm_score: 0
+  recency_score: 21.8592077649842
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 49.56011673477846
-  llm_score: 65
-  recency_score: 20.300583673892284
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 12.892901332238692
+  llm_score: -2
+  recency_score: 16.8038586595515
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 48.734306287820935
-  llm_score: 65
-  recency_score: 16.171531439104648
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 11.986167636827068
+  llm_score: 0
+  recency_score: 2.9100896393759403
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 35.810789205002415
-  llm_score: 50
-  recency_score: 4.053946025012058
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 0
+  llm_score: -100
+  recency_score: 6.0643687728801865
+  length_score: 100
   category_score: 0
   rank: 10
 ---

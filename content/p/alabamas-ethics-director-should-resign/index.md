@@ -7,6 +7,14 @@ youtube: ZpyCDG50Lhk
 authors:
 - admin
 related_articles:
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 75.27430919104833
+  llm_score: 90
+  recency_score: 54.28300974181401
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 74.50344977571896
@@ -14,76 +22,68 @@ related_articles:
   recency_score: 69.27242354217314
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 71.8611412506268
-  llm_score: 85
-  recency_score: 52.09741812907417
-  length_score: 100
-  category_score: 0
   rank: 2
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 68.5932858342233
-  llm_score: 70
-  recency_score: 90.85635792245131
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 68.20460865029854
-  llm_score: 75
+  score: 74.35845480414469
+  llm_score: 85
   recency_score: 68.3299562269404
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 72.42980564685546
+  llm_score: 90
+  recency_score: 35.79373670456037
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 67.03852921477831
-  llm_score: 85
-  recency_score: 20.750439896058943
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 70.85443309175388
+  llm_score: 90
+  recency_score: 25.553815096400097
   length_score: 100
   category_score: 0
   rank: 5
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 58.644883337657824
-  llm_score: 70
-  recency_score: 26.19174169477578
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 70.05837616973267
+  llm_score: 85
+  recency_score: 40.37944510326223
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 57.7498247863997
-  llm_score: 75
-  recency_score: 0.37386111159795743
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 69.66304102322806
+  llm_score: 85
+  recency_score: 37.809766650982276
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 57.32384867816386
-  llm_score: 70
-  recency_score: 17.605016408065044
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 67.29306184899515
+  llm_score: 85
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 54.6837375797019
-  llm_score: 70
-  recency_score: 0.44429426806224154
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 66.91840050598809
+  llm_score: 85
+  recency_score: 19.9696032889225
   length_score: 100
   category_score: 0
   rank: 9
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 51.90844646437977
-  llm_score: 60
-  recency_score: 22.404902018468416
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 60.58484804958366
+  llm_score: 75
+  recency_score: 18.801512322293714
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,14 +8,6 @@ authors:
 - admin
 alttags: Floral tribute of white roses and lilies, a memento honoring the memory of dear friend Raymond Watkins
 related_articles:
-- slug: obituary
-  title: OBITUARY
-  score: 74.92255193495697
-  llm_score: 100
-  recency_score: 11.996587577220225
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life
   score: 74.53512428305136
@@ -23,68 +15,76 @@ related_articles:
   recency_score: 9.47830783983372
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: combat
+  title: COMBAT
+  score: 49.805570661151826
+  llm_score: 47
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 69.17478313740673
-  llm_score: 85
-  recency_score: 34.63609039314372
+- slug: kindness
+  title: RANDOM ACTS OF KINDNESS
+  score: 48.458700816736275
+  llm_score: 44
+  recency_score: 63.98155530878573
   length_score: 100
   category_score: 0
   rank: 3
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 64.49600265003923
-  llm_score: 85
-  recency_score: 4.224017225254928
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 47.782204059806745
+  llm_score: 40
+  recency_score: 0.58432638874382
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 4
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 48.83152338745669
-  llm_score: 55
-  recency_score: 22.404902018468416
+- slug: recovery
+  title: RECOVERY
+  score: 47.53205110732739
+  llm_score: 48
+  recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
   rank: 5
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 43.603838515646935
-  llm_score: 50
-  recency_score: 8.424950351705032
+- slug: im-back
+  title: I'M BACK
+  score: 44.35441996525688
+  llm_score: 42
+  recency_score: 45.30372977416965
   length_score: 100
   category_score: 0
   rank: 6
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 26.12672256284644
-  llm_score: 23
-  recency_score: 2.82369665850184
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 43.52493845031922
+  llm_score: 51
+  recency_score: 3.9120999270748786
   length_score: 100
   category_score: 0
   rank: 7
-- slug: on-vacation
-  title: ON VACATION
-  score: 15.395140209844932
-  llm_score: 0
-  recency_score: 25.06841136399206
+- slug: im-back-2
+  title: I'M BACK
+  score: 42.00074982425481
+  llm_score: 49
+  recency_score: 2.0048738576562246
   length_score: 100
   category_score: 0
   rank: 8
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 12.588090259090238
-  llm_score: 0
-  recency_score: 6.822586684086551
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 39.257158682939185
+  llm_score: 41
+  recency_score: 16.171531439104648
   length_score: 100
   category_score: 0
   rank: 9
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 12.124057541600934
+- slug: m-i-a
+  title: M.I.A
+  score: 15.601215908144294
   llm_score: 0
-  recency_score: 3.806374020406067
+  recency_score: 26.407903402937905
   length_score: 100
   category_score: 0
   rank: 10

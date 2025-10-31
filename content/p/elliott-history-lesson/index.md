@@ -11,83 +11,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 70.60260899552978
-  llm_score: 75
-  recency_score: 83.91695847094347
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 76.97043318557391
+  llm_score: 85
+  recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 1
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 64.32478022728804
-  llm_score: 70
-  recency_score: 63.11107147737226
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 65.60297321156325
+  llm_score: 85
+  recency_score: 11.419325875161082
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 59.838091710807944
-  llm_score: 75
-  recency_score: 13.947596120251541
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 63.94868476331722
+  llm_score: 85
+  recency_score: 0.6664509615618259
   length_score: 100
   category_score: 0
   rank: 3
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 59.56339309928141
-  llm_score: 75
-  recency_score: 12.162055145329097
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 63.94784549721361
+  llm_score: 85
+  recency_score: 0.6609957318883691
   length_score: 100
   category_score: 0
   rank: 4
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 59.55316861437288
-  llm_score: 75
-  recency_score: 12.09559599342363
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 63.94509724379234
+  llm_score: 85
+  recency_score: 0.643132084650103
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 55.45842401899016
-  llm_score: 70
-  recency_score: 5.4797561234359335
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 63.942952214419805
+  llm_score: 85
+  recency_score: 0.6291893937286536
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 55.240779685386805
-  llm_score: 70
-  recency_score: 4.065067955014141
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 63.93434260043941
+  llm_score: 85
+  recency_score: 0.5732269028560665
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 54.68544394620143
-  llm_score: 70
-  recency_score: 0.4553856503092191
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 63.931024068011716
+  llm_score: 85
+  recency_score: 0.5516564420760771
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 54.65533741031736
-  llm_score: 70
-  recency_score: 0.25969316706275425
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 57.897370245248545
+  llm_score: 75
+  recency_score: 1.3329065941154306
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 48.55572081910946
-  llm_score: 60
-  recency_score: 0.6121853242114159
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 57.78195810546655
+  llm_score: 75
+  recency_score: 0.5827276855324844
   length_score: 100
   category_score: 0
   rank: 10

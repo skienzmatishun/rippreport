@@ -10,65 +10,85 @@ authors:
 - ripp-report
 alttags: Blurred police car lights suggest investigation into allegations surrounding Jack Burrell and legal incidents in Fairhope
 related_articles:
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 85.44318114711444
-  llm_score: 90
-  recency_score: 67.21590573557219
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 81.73095684083289
+  llm_score: 100
+  recency_score: 56.25121946541366
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 83.33256271585593
-  llm_score: 85
-  recency_score: 76.66281357927963
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 67.34956070942552
+  llm_score: 84
+  recency_score: 26.772144611265798
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 75.5206312839577
-  llm_score: 85
-  recency_score: 37.60315641978851
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 66.770120293001
+  llm_score: 79
+  recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 72.04900835119811
-  llm_score: 85
-  recency_score: 20.245041755990528
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 65.58315969354562
+  llm_score: 81
+  recency_score: 27.29053800804651
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 68.26008845874951
-  llm_score: 85
-  recency_score: 1.3004422937475715
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 65.04907217547778
+  llm_score: 80
+  recency_score: 27.818969140605503
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 68.08184747183437
-  llm_score: 85
-  recency_score: 0.4092373591718279
+- slug: listening-not-reading
+  title: LISTENING NOT READING
+  score: 64.7749254100869
+  llm_score: 79
+  recency_score: 30.037015165564775
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: no-justice
-  title: NO JUSTICE
-  score: 68.06812169729359
-  llm_score: 85
-  recency_score: 0.3406084864679812
+- slug: no-radar
+  title: NO RADAR
+  score: 64.09249019187754
+  llm_score: 84
+  recency_score: 5.601186247203939
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: rumors
-  title: RUMORS
-  score: 60.24554679806137
-  llm_score: 75
-  recency_score: 1.2277339903068436
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 61.78585064743845
+  llm_score: 81
+  recency_score: 2.6080292083498433
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 56.6935641358793
-  llm_score: 70
-  recency_score: 3.467820679396488
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 20.690139790439048
+  llm_score: 1
+  recency_score: 55.48590863785381
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 56.01341855213961
-  llm_score: 70
-  recency_score: 0.06709276069805299
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 0
+  llm_score: -197
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 A DOCUMENT FOR CATALYST

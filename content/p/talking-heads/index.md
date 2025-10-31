@@ -8,35 +8,35 @@ authors:
 - admin
 alttags: 'Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission'
 related_articles:
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 64.19315998332091
+- slug: shooting-yourself-in-the-foot
+  title: SHOOTING YOURSELF IN THE FOOT
+  score: 79.18867728610554
   llm_score: 85
-  recency_score: 2.255539891585818
+  recency_score: 99.72640235968593
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 60.277516716854095
+- slug: last-chance
+  title: LAST CHANCE
+  score: 72.86761183276546
   llm_score: 75
-  recency_score: 16.8038586595515
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 2
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 58.08700122195274
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 63.351991402637594
   llm_score: 75
-  recency_score: 2.565507942692728
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 58.02625602943976
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 58.12791437244436
   llm_score: 75
-  recency_score: 2.1706641913583127
+  recency_score: 2.8314434208882173
   length_score: 100
   category_score: 0
   rank: 4
@@ -48,14 +48,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 57.92876810892228
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 57.93667135452485
   llm_score: 75
-  recency_score: 1.5369927079947032
+  recency_score: 1.588363804411422
   length_score: 100
   category_score: 0
   rank: 6
+- slug: the-pot-and-the-kettle-are-black
+  title: THE POT AND THE KETTLE ARE BLACK
+  score: 57.89793283077528
+  llm_score: 75
+  recency_score: 1.3365634000392395
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
   score: 57.88643623839696
@@ -63,28 +71,20 @@ related_articles:
   recency_score: 1.2618355495801652
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 56.30146933125266
-  llm_score: 70
-  recency_score: 10.959550653142209
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 54.93066175338199
-  llm_score: 70
-  recency_score: 2.049301396982881
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 57.74951048612333
+  llm_score: 75
+  recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 54.905784903292954
-  llm_score: 70
-  recency_score: 1.887601871404123
+- slug: fire
+  title: FIRE
+  score: 57.74631225263738
+  llm_score: 75
+  recency_score: 0.3510296421428962
   length_score: 100
   category_score: 0
   rank: 10

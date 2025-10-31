@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Illustration depicting a magician’s hat and wand crossed out by a red circle, symbolizing lack of accountability in Baldwi...
 related_articles:
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 73.34505599134664
-  llm_score: 85
-  recency_score: 61.74286394375304
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 76.67008729658424
+  llm_score: 83
+  recency_score: 91.35556742779755
   length_score: 100
   category_score: 0
   rank: 1
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 67.03633989192106
-  llm_score: 75
-  recency_score: 60.73620929748681
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 76.60155270651393
+  llm_score: 81
+  recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 2
-- slug: blind-leading-the-blind
-  title: BLIND LEADING THE BLIND
-  score: 66.2755039235154
-  llm_score: 75
-  recency_score: 55.79077550285001
+- slug: watering-hole
+  title: WATERING HOLE
+  score: 70.26813291442356
+  llm_score: 80
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
   rank: 3
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 61.21559837641685
-  llm_score: 75
-  recency_score: 22.901389446709434
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 69.97385745080308
+  llm_score: 85
+  recency_score: 39.83007343021991
   length_score: 100
   category_score: 0
   rank: 4
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 59.19101191884252
-  llm_score: 75
-  recency_score: 9.741577472476289
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 61.08301967256435
+  llm_score: 78
+  recency_score: 10.039627871668154
   length_score: 100
   category_score: 0
   rank: 5
-- slug: strawman-spiderweb
-  title: STRAWMAN SPIDERWEB
-  score: 39.10741801556219
-  llm_score: 23
-  recency_score: 87.19821710115417
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 43.27450038202205
+  llm_score: 50
+  recency_score: 6.284252483143263
   length_score: 100
   category_score: 0
   rank: 6
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 23.76038107289665
-  llm_score: 0
-  recency_score: 79.4424769738282
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 25.400071495826552
+  llm_score: -2
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 7
-- slug: straw-man
-  title: STRAW MAN
-  score: 19.487842319727285
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 17.566259163527725
   llm_score: 0
-  recency_score: 51.67097507822733
+  recency_score: 39.1806845629302
   length_score: 100
   category_score: 0
   rank: 8
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 14.478943465088694
-  llm_score: 0
-  recency_score: 19.113132523076512
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 0
+  llm_score: -100
+  recency_score: 20.024389546208226
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 13.238461592856325
-  llm_score: 0
-  recency_score: 11.05000035356611
+- slug: barstool
+  title: BARSTOOL
+  score: 0
+  llm_score: -100
+  recency_score: 25.06841136399206
   length_score: 100
   category_score: 0
   rank: 10

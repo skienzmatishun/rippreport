@@ -9,65 +9,85 @@ authors:
 - admin
 alttags: Scales of justice illustration atop a landscape, symbolizing legal issues surrounding bar owner Ronan McSharry and associates
 related_articles:
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 88.11400729240654
-  llm_score: 95
-  recency_score: 60.57003646203266
-  rank: 1
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 84.2139847791858
-  llm_score: 90
-  recency_score: 61.06992389592894
-  rank: 2
-- slug: bar-stool-continued
-  title: BAR STOOL “CONTINUED”
-  score: 83.54404300965939
-  llm_score: 85
-  recency_score: 77.72021504829691
-  rank: 3
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 83.28110874039773
-  llm_score: 90
+  score: 81.75469903107519
+  llm_score: 100
   recency_score: 56.40554370198863
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 68.85692868646657
+  llm_score: 78
+  recency_score: 60.57003646203266
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 76.83825535238421
-  llm_score: 90
+  score: 63.260196424910944
+  llm_score: 78
   recency_score: 24.19127676192105
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 62.706496622571954
+  llm_score: 77
+  recency_score: 24.592228046717608
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 58.64596211957897
+  llm_score: 75
+  recency_score: 6.198753777263179
+  length_score: 100
+  category_score: 0
   rank: 5
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 25.74825101432038
+  llm_score: 20
+  recency_score: 12.36363159308245
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 20.93383444552753
+  llm_score: 0
+  recency_score: 61.06992389592894
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 5.652748299038928
+  llm_score: -25
+  recency_score: 61.74286394375304
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: barstool
+  title: BARSTOOL
+  score: 1.1694322507092405
+  llm_score: -27
+  recency_score: 40.601309629610085
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 76.7760154921098
-  llm_score: 95
+  score: 0
+  llm_score: -200
   recency_score: 3.880077460549066
-  rank: 6
-- slug: women-stand-together
-  title: WOMEN STAND TOGETHER
-  score: 76.74371374716179
-  llm_score: 85
-  recency_score: 43.718568735808944
-  rank: 7
-- slug: surrender
-  title: SURRENDER
-  score: 70.41911919868473
-  llm_score: 85
-  recency_score: 12.09559599342363
-  rank: 8
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 69.2534117833276
-  llm_score: 85
-  recency_score: 6.267058916638003
-  rank: 9
-- slug: strawman-spiderweb
-  title: STRAWMAN SPIDERWEB
-  score: 66.76773530922881
-  llm_score: 70
-  recency_score: 53.838676546144015
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZvmfU5BegU" frameborder="0" allowfullscreen></iframe>

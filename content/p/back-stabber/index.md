@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: 'Warning sign: Council decisions made without public hearing, mirroring a potentially problematic situation for Fairhope ci...'
 related_articles:
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 82.42723439081023
-  llm_score: 91
-  recency_score: 93.63617195405108
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 78.30433317500128
+  llm_score: 100
+  recency_score: 33.97816563750821
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 76.84434506009413
-  llm_score: 85
-  recency_score: 86.72172530047058
+- slug: community-engagement
+  title: COMMUNITY ENGAGEMENT
+  score: 69.56669830021542
+  llm_score: 80
+  recency_score: 57.18353895140014
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 74.33667471122875
-  llm_score: 85
-  recency_score: 74.18337355614374
-  category_score: 0
-  rank: 3
 - slug: whose-agenda
   title: WHOSE AGENDA?
-  score: 71.5478106964193
-  llm_score: 85
+  score: 69.42139284339946
+  llm_score: 79
   recency_score: 60.23905348209645
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: jack-gets-an-f-again
+  title: JACK GETS AN F - AGAIN
+  score: 68.73946204357303
+  llm_score: 77
+  recency_score: 63.80650328322465
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 64.41937069825693
-  llm_score: 92
-  recency_score: 0.09685349128460453
+- slug: disposal
+  title: DISPOSAL
+  score: 65.43194614005259
+  llm_score: 76
+  recency_score: 46.30764991034176
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhope-voters-important-notice
-  title: FAIRHOPE VOTERS IMPORTANT NOTICE
-  score: 64.16896655615331
-  llm_score: 85
-  recency_score: 23.3448327807665
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 63.77775771639352
+  llm_score: 77
+  recency_score: 31.555425156557842
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 63.019691752264535
-  llm_score: 90
-  recency_score: 0.09845876132263415
+- slug: honey-bees
+  title: HONEY BEES
+  score: 63.43580590687739
+  llm_score: 76
+  recency_score: 33.33273839470296
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: read-and-listen
-  title: READ and LISTEN
-  score: 58.441927902447105
-  llm_score: 75
-  recency_score: 29.70963951223547
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 61.97853539168714
+  llm_score: 77
+  recency_score: 19.860480045966312
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: people-power
-  title: PEOPLE POWER
-  score: 55.80597776443174
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 61.403859999929026
   llm_score: 75
-  recency_score: 16.529888822158654
+  recency_score: 24.12508999953858
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 45.67869480190574
-  llm_score: 65
-  recency_score: 0.8934740095286622
+- slug: no-radar
+  title: NO RADAR
+  score: 58.83811302272099
+  llm_score: 75
+  recency_score: 7.447734647686312
+  length_score: 100
   category_score: 0
   rank: 10
 ---

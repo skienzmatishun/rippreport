@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ...
 related_articles:
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 81.87439060790773
-  llm_score: 100
-  recency_score: 57.18353895140014
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 73.92951633942948
+  llm_score: 80
+  recency_score: 85.54185620629158
   length_score: 100
   category_score: 0
   rank: 1
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 74.18871243179512
-  llm_score: 100
-  recency_score: 7.226630806668228
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 72.78468688044195
+  llm_score: 75
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 2
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 72.01474230071861
-  llm_score: 95
-  recency_score: 13.095824954670931
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 67.83678706065913
+  llm_score: 75
+  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
   rank: 3
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 70.37160654389501
-  llm_score: 95
-  recency_score: 2.4154425353175037
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 63.47740867996748
+  llm_score: 75
+  recency_score: 37.60315641978851
   length_score: 100
   category_score: 0
   rank: 4
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 68.89045294109913
-  llm_score: 84
+  score: 63.351991402637594
+  llm_score: 75
   recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 5
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 60.93759415852324
-  llm_score: 75
-  recency_score: 21.094362030400973
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 40.29656692689099
-  llm_score: 23
+  score: 63.06579769612177
+  llm_score: 60
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 61.948762045400436
+  llm_score: 75
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 26.630840726595785
-  llm_score: 0
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 48.16930226505733
+  llm_score: 35
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 15.794915891554263
-  llm_score: 0
-  recency_score: 27.666953295102704
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 47.89037471449059
+  llm_score: 50
+  recency_score: 36.28743564418876
   length_score: 100
   category_score: 0
   rank: 9
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 11.895106123735616
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 25.787019135334628
   llm_score: 0
-  recency_score: 2.318189804281508
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 10

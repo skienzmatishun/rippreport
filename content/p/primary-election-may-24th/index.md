@@ -7,83 +7,83 @@ authors:
 - admin
 alttags: Screenshot shows a social media post about Tim James For Governor alongside a man speaking into a microphone
 related_articles:
-- slug: press-release
-  title: PRESS RELEASE
-  score: 75.10370640495057
-  llm_score: 85
-  recency_score: 73.17409163217867
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 70.2193357799984
+  llm_score: 75
+  recency_score: 81.42568256998956
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance
-  title: LAST CHANCE
-  score: 73.0769230769231
-  llm_score: 75
-  recency_score: 100.0
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 64.43335642168377
+  llm_score: 85
+  recency_score: 3.816816740944404
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bsp-128
-  title: Big News
-  score: 72.74339448711596
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 58.28273664752057
   llm_score: 75
-  recency_score: 97.83206416625366
+  recency_score: 3.837788208883614
   length_score: 100
   category_score: 0
   rank: 3
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 62.54301607841325
-  llm_score: 70
-  recency_score: 51.52960450968603
+- slug: cross-the-line
+  title: CROSS THE LINE
+  score: 58.074235985606926
+  llm_score: 75
+  recency_score: 2.48253390644493
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-153
-  title: No Boomers
-  score: 60.64318224045081
-  llm_score: 70
-  recency_score: 39.1806845629302
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 58.02171258521434
+  llm_score: 75
+  recency_score: 2.141131803893106
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-180
-  title: THE 180
-  score: 59.301663150817646
+- slug: catalyst-candidates
+  title: CATALYST CANDIDATES
+  score: 57.92555101036256
   llm_score: 75
-  recency_score: 10.460810480314583
+  recency_score: 1.5160815673565506
   length_score: 100
   category_score: 0
   rank: 6
-- slug: little-choice
-  title: LITTLE CHOICE
-  score: 57.82101767075802
-  llm_score: 75
-  recency_score: 0.836614859927013
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 51.968141689146314
+  llm_score: 65
+  recency_score: 2.792920979450993
   length_score: 100
   category_score: 0
   rank: 7
-- slug: countdown
-  title: COUNTDOWN
-  score: 57.81857277931217
-  llm_score: 75
-  recency_score: 0.8207230655290094
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 51.66894679900674
+  llm_score: 65
+  recency_score: 0.8481541935437437
   length_score: 100
   category_score: 0
   rank: 8
-- slug: election-ad
-  title: ELECTION AD
-  score: 56.238022162157556
-  llm_score: 70
-  recency_score: 10.547144054024043
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 51.57997653793032
+  llm_score: 65
+  recency_score: 0.2698474965470202
   length_score: 100
   category_score: 0
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 55.81253415992213
-  llm_score: 70
-  recency_score: 7.781472039493755
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 39.354635867903355
+  llm_score: 45
+  recency_score: 0.8051331413717644
   length_score: 100
   category_score: 0
   rank: 10

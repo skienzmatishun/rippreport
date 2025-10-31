@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: 'Don’t delay: Baldwin County primary election reminder—all affiliations can vote tomorrow despite local apathy'
 related_articles:
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 59.06095189563715
-  llm_score: 73
-  recency_score: 16.896187321641428
+- slug: shooting-yourself-in-the-foot
+  title: SHOOTING YOURSELF IN THE FOOT
+  score: 78.97993871257283
+  llm_score: 85
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 56.77252618128528
-  llm_score: 73
-  recency_score: 2.02142017835421
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 75.65877926406944
+  llm_score: 85
+  recency_score: 1.782065216451268
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 56.7535343514211
-  llm_score: 73
-  recency_score: 1.8979732842370982
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 72.950992415552
+  llm_score: 75
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 56.69478177959333
-  llm_score: 73
-  recency_score: 1.5160815673565506
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 70.25184013995164
+  llm_score: 95
+  recency_score: 1.6369609096856257
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 56.652327709778845
-  llm_score: 70
-  recency_score: 13.240130113562406
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 69.52249035717561
+  llm_score: 90
+  recency_score: 16.896187321641428
   length_score: 100
   category_score: 0
   rank: 5
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 55.202587190914535
-  llm_score: 70
-  recency_score: 3.816816740944404
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 66.03348703011169
+  llm_score: 85
+  recency_score: 14.217665695725898
   length_score: 100
   category_score: 0
   rank: 6
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 55.045064766069395
-  llm_score: 70
-  recency_score: 2.792920979450993
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 65.88309694054807
+  llm_score: 85
+  recency_score: 13.240130113562406
   length_score: 100
   category_score: 0
   rank: 7
-- slug: cross-the-line
-  title: CROSS THE LINE
-  score: 54.997312908683845
-  llm_score: 70
-  recency_score: 2.48253390644493
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 64.43658280136673
+  llm_score: 85
+  recency_score: 3.837788208883614
   length_score: 100
   category_score: 0
   rank: 8
-- slug: qualification
-  title: QUALIFICATION
-  score: 54.81545266057656
-  llm_score: 70
-  recency_score: 1.3004422937475715
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 64.0737162851662
+  llm_score: 85
+  recency_score: 1.4791558535802596
   length_score: 100
   category_score: 0
   rank: 9
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 44.993986256874386
-  llm_score: 50
-  recency_score: 17.460910669683468
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 57.748732228907045
+  llm_score: 75
+  recency_score: 0.36675948789569357
   length_score: 100
   category_score: 0
   rank: 10

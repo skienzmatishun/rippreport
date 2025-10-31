@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 79.40376925538233
-  llm_score: 87
-  recency_score: 93.12450015998506
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 77.91593127323996
+  llm_score: 83
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
-- slug: blind-leading-the-blind
-  title: BLIND LEADING THE BLIND
-  score: 69.59083399848853
-  llm_score: 80
-  recency_score: 57.34042099017541
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 72.74339448711596
+  llm_score: 75
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 2
-- slug: mimes-whitewashing
-  title: MIME'S WHITEWASHING
-  score: 64.81827403943252
-  llm_score: 85
-  recency_score: 6.318781256311327
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 69.88154719934019
+  llm_score: 74
+  recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 60.78143478594346
-  llm_score: 75
-  recency_score: 20.079326108632408
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 68.03023623147726
+  llm_score: 74
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 4
-- slug: hate
-  title: HATE
-  score: 59.900538422698055
-  llm_score: 77
-  recency_score: 6.3534997475373
+- slug: honeymoon
+  title: HONEYMOON
+  score: 63.904530015886515
+  llm_score: 75
+  recency_score: 40.37944510326223
   length_score: 100
   category_score: 0
   rank: 5
-- slug: april-fool
-  title: APRIL FOOL
-  score: 26.630840726595785
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 25.516362757300204
   llm_score: 0
-  recency_score: 98.10046472287257
+  recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 6
+- slug: sting
+  title: Sting
+  score: 23.332740550658407
+  llm_score: 0
+  recency_score: 76.66281357927963
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 21.65518585063901
+  llm_score: 0
+  recency_score: 65.75870802915355
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 20.73014878956115
+  llm_score: 0
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
   score: 20.240044819139534
   llm_score: 0
   recency_score: 56.56029132440696
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 19.663998752678694
-  llm_score: 0
-  recency_score: 52.81599189241148
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: the-jester
-  title: THE JESTER
-  score: 18.860598761084308
-  llm_score: 0
-  recency_score: 47.593891947047986
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 12.04630049567462
-  llm_score: 0
-  recency_score: 3.300953221885028
   length_score: 100
   category_score: 0
   rank: 10

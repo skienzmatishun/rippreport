@@ -16,65 +16,85 @@ authors:
 - ripp-report
 alttags: 'Fairhope Municipal Pier fountain: a view highlighting the city’s positive financial outlook in The Ripp Reports 2019 Stat...'
 related_articles:
+- slug: catalyst-busted
+  title: CATALYST BUSTED
+  score: 82.2938275612017
+  llm_score: 100
+  recency_score: 59.9098791478109
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
-  score: 86.62490003199702
-  llm_score: 85
+  score: 70.1730000246131
+  llm_score: 72
   recency_score: 93.12450015998506
-  rank: 1
-- slug: tick-tock
-  title: TICK-TOCK
-  score: 83.62009294457451
-  llm_score: 80
-  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: state-of-the-city-2019
-  title: STATE OF THE CITY - 2019
-  score: 75.78201851846809
-  llm_score: 70
-  recency_score: 98.91009259234048
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 65.40481706087716
+  llm_score: 73
+  recency_score: 58.1313108957015
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 73.70268862944323
-  llm_score: 85
-  recency_score: 28.51344314721615
+- slug: state-senate-seat-district-32-bombs-away
+  title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+  score: 63.5173886832254
+  llm_score: 72
+  recency_score: 49.86302644096496
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 72.89156892444248
-  llm_score: 85
-  recency_score: 24.457844622212395
+- slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+  title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
+  score: 62.82160322925777
+  llm_score: 69
+  recency_score: 57.34042099017541
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 71.55980182540611
-  llm_score: 85
-  recency_score: 17.799009127030544
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 56.370313345491745
+  llm_score: 71
+  recency_score: 7.407036745696262
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: survey
-  title: SURVEY
-  score: 63.17838723901061
-  llm_score: 70
-  recency_score: 35.89193619505306
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 28.59328583422328
+  llm_score: 5
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: where-hell-were-you
-  title: WHERE HELL WERE YOU?
-  score: 60.99996495640719
-  llm_score: 70
-  recency_score: 24.99982478203595
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 25.250847592646338
+  llm_score: 0
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: money-on-the-table
-  title: MONEY ON THE TABLE
-  score: 57.749753193901086
-  llm_score: 65
-  recency_score: 28.748765969505406
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 24.168875793486443
+  llm_score: 0
+  recency_score: 82.09769265766185
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 56.4636379608563
-  llm_score: 70
-  recency_score: 2.318189804281508
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 20.017087919595735
+  llm_score: -2
+  recency_score: 63.11107147737226
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 I do not want the Ripp Report readers thinking I am getting soft for complimenting some of the Baldwin County Mayors, but they deserve it. Fairhope definitely is on the right track and may be debt free by 2020.

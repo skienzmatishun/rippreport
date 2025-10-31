@@ -25,83 +25,83 @@ authors:
 - admin
 alttags: Emoji face with zipper over mouth, symbolizing secrecy and hidden information related to Baldwin County’s political cabal
 related_articles:
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 76.75376513483066
-  llm_score: 85
-  recency_score: 8.899473376399213
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 67.21726990936716
+  llm_score: 75
+  recency_score: 61.91225441088648
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 67.20969637553308
-  llm_score: 78
-  recency_score: 49.86302644096496
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 64.66274087788159
+  llm_score: 65
+  recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 2
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 65.24710598799773
-  llm_score: 74
-  recency_score: 53.10618892198522
+- slug: deja-vu
+  title: Deja Vu
+  score: 64.02942857942618
+  llm_score: 85
+  recency_score: 1.1912857662700727
   length_score: 100
   category_score: 0
   rank: 3
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 64.29141346921199
-  llm_score: 85
-  recency_score: 2.894187549877844
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 63.41435643576239
+  llm_score: 75
+  recency_score: 37.193316832455444
   length_score: 100
   category_score: 0
   rank: 4
-- slug: leaks-and-collusion
-  title: LEAKS AND COLLUSION
-  score: 64.24301601612525
-  llm_score: 85
-  recency_score: 2.5796041048141145
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 61.32798926090383
+  llm_score: 65
+  recency_score: 63.63193019587483
   length_score: 100
   category_score: 0
   rank: 5
-- slug: pandoras-box
-  title: PANDORA'S BOX
-  score: 64.2408473757989
-  llm_score: 85
-  recency_score: 2.565507942692728
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 59.14690353655633
+  llm_score: 65
+  recency_score: 49.45487298761609
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 13.000663294089833
-  llm_score: 0
-  recency_score: 9.504311411583915
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 58.170934073441906
+  llm_score: 60
+  recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
   rank: 7
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 12.816973378015343
-  llm_score: 0
-  recency_score: 8.310326957099722
+- slug: honeymoon
+  title: HONEYMOON
+  score: 40.82459635862964
+  llm_score: 25
+  recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 8
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 11.81262541791558
-  llm_score: 0
-  recency_score: 1.782065216451268
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 38.701583280678
+  llm_score: 30
+  recency_score: 56.56029132440696
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deja-vu
-  title: Deja Vu
-  score: 11.721736271733857
-  llm_score: 0
-  recency_score: 1.1912857662700727
+- slug: bit-dogs-bark-first
+  title: BIT DOGS BARK FIRST
+  score: 27.192032962923598
+  llm_score: 25
+  recency_score: 1.7482142590033594
   length_score: 100
   category_score: 0
   rank: 10

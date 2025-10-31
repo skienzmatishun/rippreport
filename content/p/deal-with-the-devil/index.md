@@ -7,85 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 84.15801325202786
+  llm_score: 85
+  recency_score: 57.02708613818104
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: innocent
   title: INNOCENT
-  score: 71.51786273032691
-  llm_score: 75
+  score: 77.67170888417307
+  llm_score: 85
   recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 69.67481063400541
-  llm_score: 75
-  recency_score: 2.886269121035116
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 75.90799203111445
+  llm_score: 85
+  recency_score: 3.401948202243831
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 67.75374949591121
-  llm_score: 75
-  recency_score: 65.39937172342279
-  length_score: 100
-  category_score: 0
   rank: 3
 - slug: no-justice
   title: NO JUSTICE
-  score: 65.44513482194408
-  llm_score: 65
+  score: 71.59898097579024
+  llm_score: 75
   recency_score: 15.39337634263649
   length_score: 100
   category_score: 100
   rank: 4
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 63.75684419262577
-  llm_score: 70
-  recency_score: 59.41948725206741
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 61.393705280396354
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 70.8313304190996
   llm_score: 75
-  recency_score: 24.0590843225762
+  recency_score: 10.403647724147305
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 56.29685624325635
-  llm_score: 70
-  recency_score: 10.929565581166187
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 70.70908324029584
+  llm_score: 75
+  recency_score: 9.609041061922857
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 7
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 55.0818728862397
-  llm_score: 70
-  recency_score: 3.032173760557979
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 66.56204853270893
+  llm_score: 85
+  recency_score: 17.653315462607935
   length_score: 100
   category_score: 0
   rank: 8
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 54.29141346921199
-  llm_score: 50
-  recency_score: 2.894187549877844
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 9
-- slug: police-report
-  title: POLICE REPORT
-  score: 54.18656847933162
-  llm_score: 50
-  recency_score: 2.212695115655463
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 59.23076923076924
+  llm_score: 65
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 10
 ---
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.

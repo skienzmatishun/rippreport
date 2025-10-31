@@ -10,63 +10,83 @@ alttags: Map outline of Florida highlighting coastal areas impacted by populatio
 related_articles:
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 86.22112415020392
-  llm_score: 85
+  score: 63.70855703861841
+  llm_score: 62
   recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 81.5170445944745
-  llm_score: 85
-  recency_score: 67.58522297237245
-  rank: 2
-- slug: gulf-shores-lawsuit-2020
-  title: GULF SHORES LAWSUIT & 2020
-  score: 75.54126400432338
-  llm_score: 85
-  recency_score: 37.70632002161693
-  rank: 3
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 74.94622278024646
-  llm_score: 85
-  recency_score: 34.73111390123228
-  rank: 4
 - slug: paradise-lost-ii
   title: Paradise Lost II
-  score: 70.72904423720288
-  llm_score: 85
+  score: 61.637726336309925
+  llm_score: 78
   recency_score: 13.645221186014394
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 59.41639636783121
+  llm_score: 59
+  recency_score: 75.2065763909028
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 59.30010967714945
+  llm_score: 63
+  recency_score: 58.450712901471334
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 51.07222190919436
+  llm_score: 56
+  recency_score: 32.96944240976332
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 68.55098452894464
-  llm_score: 85
+  score: 50.731526560726664
+  llm_score: 63
   recency_score: 2.7549226447232087
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 66.94622278024646
-  llm_score: 75
-  recency_score: 34.73111390123228
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 19.10532745451484
+  llm_score: 0
+  recency_score: 49.18462845434644
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: mega-lost-opportunity
-  title: MEGA — LOST OPPORTUNITY
-  score: 60.858805394184444
-  llm_score: 75
-  recency_score: 4.294026970922205
+- slug: going-down
+  title: GOING DOWN
+  score: 15.469817707138477
+  llm_score: 0
+  recency_score: 25.553815096400097
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 60.543488257222414
-  llm_score: 75
-  recency_score: 2.71744128611208
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 13.280900471272226
+  llm_score: 0
+  recency_score: 11.325853063269467
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: horrible-hurricane-harvey
-  title: HORRIBLE HURRICANE HARVEY
-  score: 57.312417381770686
-  llm_score: 60
-  recency_score: 46.562086908853416
+- slug: mouthpiece
+  title: MOUTHPIECE
+  score: 11.767902061264712
+  llm_score: 0
+  recency_score: 1.4913633982206251
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Submitted by: <a href="#">Chris Warner</a>

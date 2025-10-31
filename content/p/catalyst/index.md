@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Illustration depicting a figure pushing a box downwards, while another falls backward, symbolizing Fairhope council dysfun...
 related_articles:
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 79.82943663570214
-  llm_score: 90
-  recency_score: 84.14718317851063
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 79.44422760017675
+  llm_score: 100
+  recency_score: 41.38747940114875
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: raising-eyebrows
-  title: RAISING EYEBROWS
-  score: 76.74956745472434
-  llm_score: 85
-  recency_score: 86.24783727362167
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 71.97995595769126
+  llm_score: 75
+  recency_score: 92.86971372499306
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 76.10046826485723
-  llm_score: 85
-  recency_score: 83.00234132428609
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 71.25341279669395
+  llm_score: 76
+  recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 75.14724185949737
-  llm_score: 90
-  recency_score: 60.73620929748681
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 70.4618986652748
+  llm_score: 75
+  recency_score: 83.00234132428609
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 70.38638684588862
-  llm_score: 85
-  recency_score: 54.43193422944308
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 61.27399413371433
+  llm_score: 75
+  recency_score: 23.280961869143056
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 69.15737211473653
-  llm_score: 90
-  recency_score: 30.7868605736826
-  category_score: 0
-  rank: 6
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 67.11817724699341
-  llm_score: 95
-  recency_score: 3.090886234967053
-  category_score: 0
-  rank: 7
-- slug: catalyst-2
-  title: CATALYST
-  score: 65.00315362704151
-  llm_score: 85
-  recency_score: 27.51576813520753
-  category_score: 0
-  rank: 8
-- slug: catalyst-train-wreck
-  title: CATALYST TRAIN WRECK
-  score: 63.9564942330773
-  llm_score: 85
-  recency_score: 22.28247116538646
-  category_score: 0
-  rank: 9
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 63.099027897059905
-  llm_score: 85
+  score: 59.84540607466147
+  llm_score: 74
   recency_score: 17.995139485299486
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: flying-high
+  title: FLYING HIGH
+  score: 19.52459679197091
+  llm_score: -2
+  recency_score: 59.9098791478109
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 15.100575971647283
+  llm_score: 0
+  recency_score: 23.153743815707337
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 14.653083347075466
+  llm_score: 0
+  recency_score: 20.245041755990528
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 1.505670857489628
+  llm_score: -24
+  recency_score: 30.7868605736826
+  length_score: 100
   category_score: 0
   rank: 10
 ---

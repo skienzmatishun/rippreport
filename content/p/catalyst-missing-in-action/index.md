@@ -18,83 +18,83 @@ authors:
 - admin
 alttags: 'Mask crossed out, fan checked: Illustration reflects attendees removing masks at crowded football game'
 related_articles:
-- slug: catalyst-2
-  title: CATALYST
-  score: 73.71647501331027
-  llm_score: 85
-  recency_score: 64.15708758651667
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 69.48658670450457
+  llm_score: 75
+  recency_score: 76.66281357927963
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 72.78468688044195
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 68.29136717740508
   llm_score: 75
-  recency_score: 98.10046472287257
+  recency_score: 68.8938866531329
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 71.26829109938389
-  llm_score: 78
-  recency_score: 76.2438921459952
+- slug: catalyst-party
+  title: CATALYST PARTY
+  score: 62.37239372156009
+  llm_score: 65
+  recency_score: 70.42055919014051
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst
-  title: CATALYST
-  score: 61.02358699424739
-  llm_score: 76
-  recency_score: 17.653315462607935
+- slug: sting
+  title: Sting
+  score: 62.287093499557685
+  llm_score: 60
+  recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 61.0013560573314
-  llm_score: 76
-  recency_score: 17.508814372654022
+- slug: pandemic-of-the-un-vaccinated
+  title: PANDEMIC OF THE UN-VACCINATED
+  score: 41.95481846486415
+  llm_score: 40
+  recency_score: 37.70632002161693
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 59.1706217018343
-  llm_score: 75
-  recency_score: 9.609041061922857
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 41.53858661115944
+  llm_score: 30
+  recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-ass-whoopin
-  title: CATALYST ASS WHOOPIN
-  score: 25.478119549400027
-  llm_score: 0
-  recency_score: 90.60777707110016
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 30.366550751072417
+  llm_score: 30
+  recency_score: 2.382579881970696
   length_score: 100
   category_score: 0
   rank: 7
-- slug: m-i-a
-  title: M.I.A
-  score: 25.1759167082792
-  llm_score: 0
-  recency_score: 88.64345860381478
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 27.55709799615493
+  llm_score: 25
+  recency_score: 4.12113697500702
   length_score: 100
   category_score: 0
   rank: 8
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 25.06428741459721
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 23.627173466532657
   llm_score: 0
-  recency_score: 87.91786819488183
+  recency_score: 78.57662753246225
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 20.360064767719294
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 12.782421136011466
   llm_score: 0
-  recency_score: 57.34042099017541
+  recency_score: 8.08573738407453
   length_score: 100
   category_score: 0
   rank: 10

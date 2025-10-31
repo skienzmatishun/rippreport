@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 70.32272194733261
-  llm_score: 75
-  recency_score: 82.09769265766185
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 69.5189441026518
-  llm_score: 75
-  recency_score: 76.87313666723661
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: no-98-ethical-abortion
   title: No 98 - Ethical Abortion
-  score: 68.25283978520228
-  llm_score: 70
+  score: 28.252839785202276
+  llm_score: 5
   recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 26.73726171315701
+  llm_score: 5
+  recency_score: 78.79220113552056
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 26.384774822578315
+  llm_score: 0
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 67.07395916848306
-  llm_score: 70
-  recency_score: 80.98073459513984
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 24.168875793486443
+  llm_score: 0
+  recency_score: 82.09769265766185
   length_score: 100
   category_score: 0
   rank: 4
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 66.4242897998119
-  llm_score: 85
-  recency_score: 16.757883698777256
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 23.997036091559977
+  llm_score: 0
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 5
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 64.73485212190317
-  llm_score: 65
-  recency_score: 85.7765387923706
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 23.827534308450897
+  llm_score: 0
+  recency_score: 79.87897300493081
   length_score: 100
   category_score: 0
   rank: 6
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 63.53419461550882
-  llm_score: 70
-  recency_score: 57.97226500080723
+- slug: he-must-go
+  title: He Must Go
+  score: 21.35484665895764
+  llm_score: 0
+  recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bad-faith
-  title: Bad Faith
-  score: 57.76432698009446
-  llm_score: 70
-  recency_score: 20.468125370613887
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 20.121657769669234
+  llm_score: 0
+  recency_score: 55.79077550285001
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 52.22303401456866
-  llm_score: 65
-  recency_score: 4.449721094696223
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 19.358235745181428
+  llm_score: 0
+  recency_score: 50.828532343679264
   length_score: 100
   category_score: 0
   rank: 9
-- slug: horrible-hurricane-harvey
-  title: HORRIBLE HURRICANE HARVEY
-  score: 51.785517886112835
-  llm_score: 65
-  recency_score: 1.60586625973336
+- slug: offensive
+  title: Offensive
+  score: 14.55234978919185
+  llm_score: 0
+  recency_score: 19.590273629747017
   length_score: 100
   category_score: 0
   rank: 10

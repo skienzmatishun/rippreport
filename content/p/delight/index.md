@@ -7,83 +7,83 @@ thumbnail: /img/fairhope-tax-payers-delight.png
 authors:
 - admin
 related_articles:
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 69.70776380351887
-  llm_score: 70
-  recency_score: 98.10046472287257
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 73.08834474664954
+  llm_score: 85
+  recency_score: 60.07424085322191
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 63.63196570324619
-  llm_score: 62
-  recency_score: 90.60777707110016
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 71.70000005439479
+  llm_score: 95
+  recency_score: 11.05000035356611
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 62.37239372156009
-  llm_score: 65
-  recency_score: 70.42055919014051
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 70.1542205255266
+  llm_score: 95
+  recency_score: 1.002433415922802
   length_score: 100
   category_score: 0
   rank: 3
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 59.20338079714824
-  llm_score: 75
-  recency_score: 9.821975181463475
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 67.28783545583846
+  llm_score: 89
+  recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 54.75065212204701
-  llm_score: 62
-  recency_score: 32.87923879330549
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 64.1597081625593
+  llm_score: 85
+  recency_score: 2.038103056635405
   length_score: 100
   category_score: 0
   rank: 5
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 51.870585025845685
-  llm_score: 65
-  recency_score: 2.1588026679968904
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 64.15291050617569
+  llm_score: 85
+  recency_score: 1.9939182901419266
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 51.792380127241444
-  llm_score: 65
-  recency_score: 1.6504708270693496
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 63.876448955802886
+  llm_score: 85
+  recency_score: 0.19691821271864365
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 51.73526767750923
-  llm_score: 65
-  recency_score: 1.2792399038099316
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 63.87061992623135
+  llm_score: 85
+  recency_score: 0.15902952050365238
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 44.926511873762706
-  llm_score: 60
-  recency_score: 1.7723271794574902
-  length_score: 67.0
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 58.672450840453855
+  llm_score: 75
+  recency_score: 6.370930462949982
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: gold-star-2
-  title: GOLD STAR
-  score: 42.69808404332019
-  llm_score: 50
-  recency_score: 2.537546281581227
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 58.057855569174635
+  llm_score: 75
+  recency_score: 2.376061199635027
   length_score: 100
   category_score: 0
   rank: 10

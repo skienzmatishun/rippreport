@@ -14,74 +14,84 @@ authors:
 - ripp-report
 alttags: 'Political satire: Candidates Dorsey & Elliott in dog costumes, referencing calls to remove them from Baldwin County elections'
 related_articles:
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 79.78179115997222
-  llm_score: 87
-  recency_score: 94.40895579986105
-  category_score: 0
-  rank: 1
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 78.74740235768715
-  llm_score: 85
+  score: 74.34415565975935
+  llm_score: 78
   recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 72.95847027626327
+  llm_score: 79
+  recency_score: 83.23005679571122
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-skunk
   title: CATALYST SKUNK
-  score: 78.27197526621853
-  llm_score: 86
+  score: 72.82459635862965
+  llm_score: 77
   recency_score: 90.35987633109261
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 76.98748877687456
-  llm_score: 85
-  recency_score: 87.43744388437275
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 72.20352711404549
+  llm_score: 78
+  recency_score: 82.32292624129552
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 76.05504977540349
-  llm_score: 85
-  recency_score: 82.7752488770174
+- slug: million-dollar-swimming-pool
+  title: MILLION DOLLAR SWIMMING POOL
+  score: 71.86879741207856
+  llm_score: 77
+  recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 75.49167940010975
-  llm_score: 84
-  recency_score: 83.45839700054867
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 71.43197164711236
+  llm_score: 76
+  recency_score: 85.30781570623031
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 58.619164990934195
-  llm_score: 80
-  recency_score: 13.095824954670931
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 24.734852121903174
+  llm_score: 0
+  recency_score: 85.7765387923706
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: sunday-sermon
-  title: SUNDAY SERMON
-  score: 52.69560362541338
-  llm_score: 75
-  recency_score: 0.9780181270668761
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 24.238273499896277
+  llm_score: 0
+  recency_score: 82.54877774932578
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: faux-candidates
-  title: FAUX CANDIDATES
-  score: 51.425756009887564
-  llm_score: 70
-  recency_score: 12.128780049437779
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 24.065489626152242
+  llm_score: 0
+  recency_score: 81.42568256998956
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 49.966180399976196
-  llm_score: 70
-  recency_score: 4.830901999880929
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 0
+  llm_score: -178
+  recency_score: 94.66796511855877
+  length_score: 100
   category_score: 0
   rank: 10
 ---

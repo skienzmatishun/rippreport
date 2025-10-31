@@ -11,83 +11,83 @@ thumbnail: img/chris-fire.jpg
 authors:
 - ripp-report
 related_articles:
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 62.244700241003216
-  llm_score: 70
-  recency_score: 49.59055156652082
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 75.49203466940978
+  llm_score: 85
+  recency_score: 0.6982253511634711
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 61.75918371350614
+- slug: elliott-history-lesson
+  title: ELLIOTT HISTORY LESSON
+  score: 67.73966395480467
   llm_score: 70
-  recency_score: 46.434694137789805
+  recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 58.16775318753589
-  llm_score: 70
-  recency_score: 23.090395718983192
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 67.04228247325764
+  llm_score: 90
+  recency_score: 0.7748360761745469
   length_score: 100
   category_score: 0
   rank: 3
-- slug: writ-of-mandamus-update
-  title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 57.85179205440716
-  llm_score: 70
-  recency_score: 21.03664835364649
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 65.90554236860677
+  llm_score: 85
+  recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
   rank: 4
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 57.816518209987215
-  llm_score: 70
-  recency_score: 20.807368364916808
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 63.94953095592448
+  llm_score: 85
+  recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
   rank: 5
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 57.06274939298403
-  llm_score: 70
-  recency_score: 15.90787105439613
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 63.945640887470354
+  llm_score: 85
+  recency_score: 0.6466657685572273
   length_score: 100
   category_score: 0
   rank: 6
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 57.05605346070264
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 60.275068325714514
   llm_score: 70
-  recency_score: 15.864347494567099
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 7
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 54.87421987115758
-  llm_score: 70
-  recency_score: 1.6824291625241752
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 57.9326872533634
+  llm_score: 75
+  recency_score: 1.5624671468620013
   length_score: 100
   category_score: 0
   rank: 8
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 22.920063014859814
-  llm_score: 0
-  recency_score: 73.98040959658876
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 57.80829166964831
+  llm_score: 75
+  recency_score: 0.7538958527139179
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 19.33684102747395
-  llm_score: 0
-  recency_score: 50.689466678580686
+- slug: catalyst-candidate-elliott-panic-mode
+  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
+  score: 54.735573974723565
+  llm_score: 70
+  recency_score: 0.7812308357030797
   length_score: 100
   category_score: 0
   rank: 10

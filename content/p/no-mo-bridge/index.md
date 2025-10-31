@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects
 related_articles:
-- slug: puzzle-pieces
-  title: PUZZLE PIECES
-  score: 60.10637550708417
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 66.29905177222592
   llm_score: 75
-  recency_score: 15.691440796046965
+  recency_score: 55.94383651946845
   length_score: 100
   category_score: 0
   rank: 1
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 59.488057767072455
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 59.47824494961875
   llm_score: 75
-  recency_score: 11.672375485970868
+  recency_score: 11.608592172521774
   length_score: 100
   category_score: 0
   rank: 2
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 59.20338079714824
-  llm_score: 75
+  score: 56.12645772022516
+  llm_score: 70
   recency_score: 9.821975181463475
   length_score: 100
   category_score: 0
   rank: 3
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 26.142720773044832
-  llm_score: 0
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 20.145205618379762
-  llm_score: 0
-  recency_score: 55.94383651946845
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 16.76587163653973
-  llm_score: 0
+  score: 53.68894855961666
+  llm_score: 60
   recency_score: 33.97816563750821
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 16.460102391848903
-  llm_score: 0
-  recency_score: 31.990665547017855
+  rank: 4
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 50.90890323913788
+  llm_score: 60
+  recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 13.900193912030518
-  llm_score: 0
+  score: 50.82327083510746
+  llm_score: 60
   recency_score: 15.35126042819837
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 50.001870721033086
+  llm_score: 60
+  recency_score: 10.01215968671496
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 38.45041308073714
+  llm_score: 20
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 13.713842111893973
-  llm_score: 0
-  recency_score: 14.139973727310823
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 33.96968298517783
+  llm_score: 25
+  recency_score: 45.8029394036559
   length_score: 100
   category_score: 0
   rank: 9
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 12.67800565318404
-  llm_score: 0
-  recency_score: 7.407036745696262
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 32.17538057343244
+  llm_score: 30
+  recency_score: 14.139973727310823
   length_score: 100
   category_score: 0
   rank: 10

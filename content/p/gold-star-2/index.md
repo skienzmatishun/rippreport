@@ -11,65 +11,85 @@ authors:
 - ripp-report
 alttags: Gold star graphic representing Fairhope, Alabama receiving recognition and increased tourism due to a travel article and f...
 related_articles:
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 93.01488310709092
-  llm_score: 95
-  recency_score: 85.07441553545459
+- slug: full-plate
+  title: FULL PLATE
+  score: 82.52391878253316
+  llm_score: 100
+  recency_score: 61.405472086465494
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 77.54355537093389
-  llm_score: 95
-  recency_score: 7.717776854669439
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 77.8786923446551
+  llm_score: 100
+  recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 77.1670794004249
-  llm_score: 90
-  recency_score: 25.835397002124495
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 75.67633651102177
+  llm_score: 100
+  recency_score: 16.896187321641428
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 72.2200596203965
-  llm_score: 90
-  recency_score: 1.100298101982455
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 75.32915029430391
+  llm_score: 79
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: down-home-fairhope-jester
-  title: “DOWN HOME” FAIRHOPE JESTER
-  score: 71.7866218911497
-  llm_score: 75
-  recency_score: 58.93310945574846
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 73.16202613874994
+  llm_score: 100
+  recency_score: 0.5531699018745336
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: tick-tock
-  title: TICK-TOCK
-  score: 69.92404723937733
-  llm_score: 65
-  recency_score: 89.62023619688662
+- slug: repeat
+  title: REPEAT
+  score: 58.84139850122131
+  llm_score: 69
+  recency_score: 31.469090257938433
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 68.50750925631624
-  llm_score: 85
-  recency_score: 2.537546281581227
-  rank: 7
-- slug: survey
-  title: SURVEY
-  score: 67.85763521712458
-  llm_score: 75
-  recency_score: 39.2881760856229
-  rank: 8
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 63.92248465976349
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 56.602715881957906
   llm_score: 70
-  recency_score: 39.61242329881746
+  recency_score: 12.9176532327263
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 25.524629629590844
+  llm_score: -2
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 24.09985730856977
+  llm_score: 0
+  recency_score: 81.64907250570349
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: s-o-s
-  title: S.O.S
-  score: 54.26517061265389
-  llm_score: 65
-  recency_score: 11.325853063269467
+- slug: going-down
+  title: GOING DOWN
+  score: 19.776073363376128
+  llm_score: 0
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Sorry for the delay of Freaky Friday - technical difficulties.

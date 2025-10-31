@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues
 related_articles:
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 74.92788622937071
+  llm_score: 60
+  recency_score: 97.03126049090956
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: canons-no-powder
-  title: CANONS — NO POWDER
-  score: 70.5320610770075
-  llm_score: 75
-  recency_score: 83.45839700054867
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 71.00955183213131
+  llm_score: 85
+  recency_score: 46.562086908853416
   length_score: 100
   category_score: 0
   rank: 2
-- slug: law-and-disorder-part-1
-  title: LAW and DisORDER Part 1
-  score: 69.91346873273548
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 70.70915833520768
   llm_score: 75
-  recency_score: 4.437546762780576
+  recency_score: 84.60952917884977
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 65.9969860917829
-  llm_score: 70
-  recency_score: 73.98040959658876
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.91422722674281
+  llm_score: 75
+  recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 4
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 64.23647056950882
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 68.58576682596589
   llm_score: 75
-  recency_score: 42.537058701807275
+  recency_score: 70.80748436877823
   length_score: 100
   category_score: 0
   rank: 5
-- slug: secret-society
-  title: SECRET SOCIETY
-  score: 62.28661945245616
-  llm_score: 70
-  recency_score: 49.86302644096496
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 58.96383314579908
-  llm_score: 75
+  score: 65.11767929964523
+  llm_score: 85
   recency_score: 8.264915447693923
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 61.235719040085854
+  llm_score: 80
+  recency_score: 3.032173760557979
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 58.68928508060898
-  llm_score: 70
-  recency_score: 26.48035302395829
+- slug: straw-man
+  title: STRAW MAN
+  score: 59.512826343627246
+  llm_score: 75
+  recency_score: 11.833371233577015
   length_score: 100
   category_score: 0
   rank: 8
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 56.38185681023209
-  llm_score: 70
-  recency_score: 11.48206926650847
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 53.92319189595551
+  llm_score: 60
+  recency_score: 35.500747323710755
   length_score: 100
   category_score: 0
   rank: 9
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 54.740273529852544
-  llm_score: 70
-  recency_score: 0.8117779440414381
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 50.40240375071925
+  llm_score: 40
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 10

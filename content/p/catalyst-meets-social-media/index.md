@@ -8,74 +8,84 @@ authors:
 - ripp-report
 alttags: Megaphone icon representing concerns about Catalyst group’s influence in Baldwin County politics
 related_articles:
-- slug: shadow-government
-  title: SHADOW GOVERNMENT
-  score: 85.74740235768714
-  llm_score: 95
-  recency_score: 96.23701178843567
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 100
+  llm_score: 900
+  recency_score: 51.107809293239825
+  length_score: 100
   category_score: 0
   rank: 1
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 84.52883752067274
+  llm_score: 78
+  recency_score: 87.43744388437275
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 85.38179115997221
-  llm_score: 95
+  score: 76.52445473844017
+  llm_score: 82
   recency_score: 94.40895579986105
-  category_score: 0
-  rank: 2
-- slug: catalyst-intimidation-a-pig-pen
-  title: CATALYST INTIMIDATION - A PIG PEN
-  score: 78.80167323219754
-  llm_score: 90
-  recency_score: 79.0083661609877
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-held-back
-  title: CATALYST HELD BACK
-  score: 77.22869172076297
-  llm_score: 85
-  recency_score: 88.64345860381478
-  category_score: 0
-  rank: 4
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 74.79061318606568
-  llm_score: 85
+  score: 72.53124091235821
+  llm_score: 80
   recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 70.16659935784207
+  llm_score: 78
+  recency_score: 69.0828958259734
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 73.66149687375565
-  llm_score: 85
-  recency_score: 70.80748436877823
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 66.5388947074255
+  llm_score: 84
+  recency_score: 21.50281559826569
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 62.734306287820935
-  llm_score: 85
-  recency_score: 16.171531439104648
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 64.50159781300374
+  llm_score: 82
+  recency_score: 16.26038578452423
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 55.08353064654527
-  llm_score: 75
-  recency_score: 12.9176532327263
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 63.87254329832381
+  llm_score: 81
+  recency_score: 16.171531439104648
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 55.034455570518745
-  llm_score: 75
-  recency_score: 12.67227785259367
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 59.87058502584569
+  llm_score: 78
+  recency_score: 2.1588026679968904
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-virus
-  title: CATALYST VIRUS
-  score: 52.96122844824111
-  llm_score: 70
-  recency_score: 19.806142241205503
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 13.47208446324232
+  llm_score: 0
+  recency_score: 12.568549011075072
+  length_score: 100
   category_score: 0
   rank: 10
 ---

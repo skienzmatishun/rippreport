@@ -12,14 +12,6 @@ authors:
 - admin
 alttags: Sheriff’s SWAT vehicle against a solid background; highlights concerns about excessive police force in Baldwin County
 related_articles:
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 90.19030950591318
-  llm_score: 85
-  recency_score: 96.23701178843567
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: rumors
   title: RUMORS
   score: 89.36251660345405
@@ -27,68 +19,76 @@ related_articles:
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 81.05982633819711
-  llm_score: 85
-  recency_score: 36.88887119828122
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: cameras
-  title: CAMERAS
-  score: 80.87863504466151
-  llm_score: 70
-  recency_score: 95.71112779029973
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 80.04383263096088
-  llm_score: 85
-  recency_score: 30.284912101245666
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 78.81499447025448
-  llm_score: 85
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 69.50268894371014
+  rank: 1
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 84.03646335206703
   llm_score: 75
-  recency_score: 1.7674781341158494
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 100
-  rank: 7
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 69.34622152247061
-  llm_score: 70
-  recency_score: 20.750439896058943
-  length_score: 100
-  category_score: 100
-  rank: 8
+  rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 65.39379351090479
-  llm_score: 65
+  score: 77.70148581859709
+  llm_score: 85
   recency_score: 15.05965782088104
   length_score: 100
   category_score: 100
-  rank: 9
+  rank: 3
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 74.90598018435097
+  llm_score: 75
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 74.7074066158404
+  llm_score: 75
+  recency_score: 35.59814300296249
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 72.4231445993937
+  llm_score: 75
+  recency_score: 20.750439896058943
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 71.37655324926948
+  llm_score: 75
+  recency_score: 13.947596120251541
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: justified
   title: JUSTIFIED
   score: 65.11767929964523
   llm_score: 85
   recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 62.13949628088906
+  llm_score: 75
+  recency_score: 28.906725825778786
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 58.49478103011363
+  llm_score: 75
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 10

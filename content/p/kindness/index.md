@@ -8,65 +8,85 @@ authors:
 - ripp-report
 alttags: Peace symbol representing kindness and caring, encouraging acts of generosity as described in this article
 related_articles:
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 79.25748712883775
-  llm_score: 90
-  recency_score: 36.28743564418876
+- slug: catalyst-trifecta
+  title: CATALYST TRIFECTA
+  score: 82.75975401154359
+  llm_score: 100
+  recency_score: 62.93840107503325
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: wonderful-wednesday-4
-  title: WONDERFUL WEDNESDAY
-  score: 73.22401634150835
-  llm_score: 85
-  recency_score: 26.120081707541715
+- slug: chainsaw
+  title: CHAINSAW
+  score: 81.20246029114024
+  llm_score: 100
+  recency_score: 52.81599189241148
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: exposure-2
-  title: EXPOSURE
-  score: 71.62009294457451
-  llm_score: 65
-  recency_score: 98.10046472287257
+- slug: catalyst-first-christian-church-of-hypocrites-of-baldwin-county
+  title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
+  score: 44.739462043573035
+  llm_score: 38
+  recency_score: 63.80650328322465
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 65.33314208208326
-  llm_score: 65
-  recency_score: 66.66571041041625
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 37.9040337639098
+  llm_score: 39
+  recency_score: 56.25121946541366
+  length_score: 45.5
+  category_score: 0
   rank: 4
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 59.006345824340734
-  llm_score: 60
-  recency_score: 55.031729121703655
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 35.85605673428927
+  llm_score: 38
+  recency_score: 6.0643687728801865
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 52.87303941455374
-  llm_score: 65
-  recency_score: 4.365197072768688
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 21.38177773981319
+  llm_score: 0
+  recency_score: 63.98155530878573
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 52.48707545982507
-  llm_score: 65
-  recency_score: 2.435377299125359
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 14.458056125243418
+  llm_score: 1
+  recency_score: 14.977364814082216
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: tonight
-  title: TONIGHT
-  score: 48.76770197286933
-  llm_score: 50
-  recency_score: 43.83850986434665
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 14.426483786348584
+  llm_score: -2
+  recency_score: 26.772144611265798
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 47.00355029206108
-  llm_score: 50
-  recency_score: 35.01775146030539
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 13.786550124495188
+  llm_score: 0
+  recency_score: 14.612575809218715
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: no-freaky-friday
-  title: NO FREAKY FRIDAY
-  score: 37.968826439319926
-  llm_score: 30
-  recency_score: 69.84413219659965
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 13.624893568723216
+  llm_score: -2
+  recency_score: 21.56180819670091
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 ## RANDOM ACTS OF KINDNESS

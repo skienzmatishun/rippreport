@@ -20,83 +20,83 @@ authors:
 - admin
 alttags: Fairhope, Alabama city seal featuring radar design with question marks, referencing legal challenges over public speech ac...
 related_articles:
-- slug: fairhope-citizens-citizens-citizens
-  title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
-  score: 65.29472565372892
-  llm_score: 87
-  recency_score: 1.4157167492379013
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 76.54596580758859
+  llm_score: 85
+  recency_score: 82.54877774932578
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 65.26952074188951
-  llm_score: 74
-  recency_score: 53.251884822281745
+- slug: police-report
+  title: POLICE REPORT
+  score: 70.09249019187754
+  llm_score: 75
+  recency_score: 5.601186247203939
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 64.33354573216019
-  llm_score: 85
-  recency_score: 3.168047259041166
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 57.92747597872227
+  llm_score: 75
+  recency_score: 1.5285938616946646
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 64.08918219114432
-  llm_score: 85
-  recency_score: 1.579684242437962
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 64.07685502800736
-  llm_score: 85
+  score: 57.92300887416121
+  llm_score: 75
   recency_score: 1.4995576820477703
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: stirring-the-pot
-  title: STIRRING THE POT
-  score: 57.42679307248592
-  llm_score: 74
-  recency_score: 2.274154971158409
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhope-airport-un_authorized
-  title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 55.42865671951627
-  llm_score: 71
-  recency_score: 1.2862686768556788
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-airport-authority-flying-without-a-compass
-  title: Fairhope Airport Authority - FLYING WITHOUT A COMPASS
-  score: 11.74296304509636
-  llm_score: 0
-  recency_score: 1.32925979312634
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 4
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 11.732590084550795
-  llm_score: 0
+  score: 57.88643623839696
+  llm_score: 75
   recency_score: 1.2618355495801652
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 50.40046624698764
+  llm_score: 60
+  recency_score: 12.603030605419562
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 48.799166633122965
+  llm_score: 60
+  recency_score: 2.1945831152992037
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 34.08647490905438
+  llm_score: 25
+  recency_score: 46.562086908853416
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 32.26044069013149
+  llm_score: 30
+  recency_score: 14.692864485854656
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 11.684458971772704
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 11.954244910342942
   llm_score: 0
-  recency_score: 0.9489833165225753
+  recency_score: 2.7025919172291193
   length_score: 100
   category_score: 0
   rank: 10
