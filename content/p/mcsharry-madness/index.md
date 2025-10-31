@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 86.02739968526954
-  llm_score: 95
-  recency_score: 50.13699842634772
+- slug: crazy
+  title: CRAZY
+  score: 77.11279159575759
+  llm_score: 85
+  recency_score: 11.233145372424257
+  length_score: 100
+  category_score: 100
   rank: 1
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 84.50975554986516
+  score: 76.54596580758859
   llm_score: 85
   recency_score: 82.54877774932578
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 74.27659831391288
-  llm_score: 85
-  recency_score: 31.3829915695644
-  rank: 3
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 68.19614691902797
-  llm_score: 65
-  recency_score: 80.98073459513984
-  rank: 4
-- slug: freaky-friday-merry-christmas
-  title: FREAKY FRIDAY - MERRY CHRISTMAS
-  score: 68.14470836326659
-  llm_score: 85
-  recency_score: 0.7235418163329606
-  rank: 5
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 65.11575875113695
-  llm_score: 65
-  recency_score: 65.57879375568477
-  rank: 6
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 63.93208520393644
-  llm_score: 60
+  score: 76.10160400302804
+  llm_score: 85
   recency_score: 79.6604260196822
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 68.67430639531761
+  llm_score: 85
+  recency_score: 31.3829915695644
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 67.07395916848306
+  llm_score: 70
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 65.40569206559196
+  llm_score: 75
+  recency_score: 50.13699842634772
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 61.62750673164382
+  llm_score: 65
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 54.70317696989249
-  llm_score: 60
+  score: 59.771674592225004
+  llm_score: 70
   recency_score: 33.51588484946244
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: beavis-and-butthead
-  title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
-  score: 52.189277384112316
-  llm_score: 65
-  recency_score: 0.9463869205615951
+- slug: joke
+  title: JOKE LLP
+  score: 54.79517798044438
+  llm_score: 70
+  recency_score: 1.1686568728883742
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: from-the-tropics
-  title: FROM THE TROPICS
-  score: 48.37752037428083
-  llm_score: 60
-  recency_score: 1.887601871404123
+- slug: cover-up
+  title: COVER UP
+  score: 15.6685528494876
+  llm_score: 0
+  recency_score: 26.845593521669393
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Ronan Mc Sharry should be banned from any club or bar serving alcohol. Because if he claims that your establishment “made him get drunk” and caused him to knock a woman off a bar stool. He then will sue the same establishment.

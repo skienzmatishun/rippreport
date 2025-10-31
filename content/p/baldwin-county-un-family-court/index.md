@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Allegorical depiction of a figure resembling the Wicked Witch of the West holding scales, symbolizing complaints against B...
 related_articles:
-- slug: exposure
-  title: EXPOSURE
-  score: 63.978801796720646
-  llm_score: 85
-  recency_score: 0.8622116786841
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 47.022154070556255
-  llm_score: 57
-  recency_score: 2.644001458615577
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 27.90374347871724
-  llm_score: 23
-  recency_score: 14.374332611662021
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 26.329812388915276
-  llm_score: 23
-  recency_score: 4.143780527949273
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 26.1827873027759
-  llm_score: 0
+  score: 69.25971037969899
+  llm_score: 70
   recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 26.08484443209038
-  llm_score: 23
-  recency_score: 2.5514888085874565
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 12.257640039220245
-  llm_score: 0
-  recency_score: 4.674660254931597
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 12.12245536475457
-  llm_score: 0
-  recency_score: 3.795959870904708
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 1
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 11.858964145738227
-  llm_score: 0
+  score: 64.16665645343055
+  llm_score: 85
   recency_score: 2.083266947298482
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 2
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 55.252889311992206
+  llm_score: 70
+  recency_score: 4.143780527949273
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 55.19937844167766
+  llm_score: 70
+  recency_score: 3.795959870904708
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 55.022154070556255
+  llm_score: 70
+  recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: exposure
+  title: EXPOSURE
+  score: 54.74803256595141
+  llm_score: 70
+  recency_score: 0.8622116786841
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 11.669304783036397
-  llm_score: 0
+  score: 54.74622785995948
+  llm_score: 70
   recency_score: 0.8504810897365797
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 52.257640039220256
+  llm_score: 65
+  recency_score: 4.674660254931597
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 51.93099827824423
+  llm_score: 65
+  recency_score: 2.5514888085874565
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 50.67297424794802
+  llm_score: 60
+  recency_score: 14.374332611662021
   length_score: 100
   category_score: 0
   rank: 10

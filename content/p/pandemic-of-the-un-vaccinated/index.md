@@ -7,67 +7,67 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 66.58446294262009
-  llm_score: 85
-  recency_score: 17.799009127030544
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: economic-virus
-  title: ECONOMIC VIRUS
-  score: 61.49651535997457
-  llm_score: 75
-  recency_score: 24.727349839834638
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: exposure-2
-  title: EXPOSURE
-  score: 47.742508754387224
-  llm_score: 57
-  recency_score: 7.326306903516857
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: virus-vs-catalyst
-  title: VIRUS vs. CATALYST
-  score: 29.475727391802714
-  llm_score: 23
-  recency_score: 24.592228046717608
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: backstory-podcast-no-81-tan-rested-ready
-  title: Tan Rested & Ready
-  score: 23.17227666174937
-  llm_score: 0
-  recency_score: 75.61979830137088
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 21.822862557032828
-  llm_score: 0
+  score: 67.976708710879
+  llm_score: 75
   recency_score: 66.84860662071335
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 63.17227666174938
+  llm_score: 65
+  recency_score: 75.61979830137088
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 62.82042129149278
+  llm_score: 75
+  recency_score: 33.33273839470296
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: shelter-in-place
+  title: SHELTER IN PLACE
+  score: 61.63444946786039
+  llm_score: 75
+  recency_score: 25.623921541092447
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 60.430616788773946
+  llm_score: 75
+  recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 58.39880431487965
+  llm_score: 70
+  recency_score: 24.592228046717608
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 20.90812892695509
-  llm_score: 0
-  recency_score: 60.90283802520807
+- slug: economic-virus
+  title: ECONOMIC VIRUS
+  score: 55.34266920612841
+  llm_score: 65
+  recency_score: 24.727349839834638
   length_score: 100
   category_score: 0
   rank: 7
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 16.66657513764661
-  llm_score: 0
-  recency_score: 33.33273839470296
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 51.67735969618587
+  llm_score: 50
+  recency_score: 60.90283802520807
   length_score: 100
   category_score: 0
   rank: 8
@@ -79,11 +79,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: shelter-in-place
-  title: SHELTER IN PLACE
-  score: 15.480603314014223
+- slug: exposure-2
+  title: EXPOSURE
+  score: 12.665585677464133
   llm_score: 0
-  recency_score: 25.623921541092447
+  recency_score: 7.326306903516857
   length_score: 100
   category_score: 0
   rank: 10

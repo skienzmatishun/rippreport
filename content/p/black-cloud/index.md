@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues
 related_articles:
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 74.29608191931776
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.53846153846155
   llm_score: 85
-  recency_score: 73.98040959658876
+  recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 71.50741174036146
-  llm_score: 90
-  recency_score: 42.537058701807275
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 70.5320610770075
+  llm_score: 75
+  recency_score: 83.45839700054867
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 67.4
-  llm_score: 82
-  recency_score: 50
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 65.2964138533017
-  llm_score: 90
-  recency_score: 11.48206926650847
-  category_score: 0
-  rank: 4
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 64.79607060479167
-  llm_score: 85
-  recency_score: 26.48035302395829
-  category_score: 0
-  rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 61.15298308953879
-  llm_score: 85
-  recency_score: 8.264915447693923
-  category_score: 0
-  rank: 6
-- slug: catalyst-open-letter-to-baldwin-county-district-attorney
-  title: CATALYST - Open letter to Baldwin County District Attorney
-  score: 60.34480344505099
-  llm_score: 85
-  recency_score: 4.224017225254928
-  category_score: 0
-  rank: 7
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 60.14527980108478
-  llm_score: 75
-  recency_score: 38.22639900542388
-  category_score: 0
-  rank: 8
 - slug: law-and-disorder-part-1
   title: LAW and DisORDER Part 1
-  score: 53.38750935255612
+  score: 69.91346873273548
   llm_score: 75
   recency_score: 4.437546762780576
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65.9969860917829
+  llm_score: 70
+  recency_score: 73.98040959658876
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 64.23647056950882
+  llm_score: 75
+  recency_score: 42.537058701807275
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 62.28661945245616
+  llm_score: 70
+  recency_score: 49.86302644096496
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 58.96383314579908
+  llm_score: 75
+  recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 58.68928508060898
+  llm_score: 70
+  recency_score: 26.48035302395829
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 56.38185681023209
+  llm_score: 70
+  recency_score: 11.48206926650847
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 45.662355588808296
-  llm_score: 65
+  score: 54.740273529852544
+  llm_score: 70
   recency_score: 0.8117779440414381
+  length_score: 100
   category_score: 0
   rank: 10
 ---

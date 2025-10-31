@@ -15,75 +15,75 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 69.51194426246576
-  llm_score: 87
-  recency_score: 28.827637706027392
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 74.88986522275508
+  llm_score: 85
+  recency_score: 71.78412394790789
   length_score: 100
   category_score: 0
   rank: 2
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 66.65762283145553
-  llm_score: 77
-  recency_score: 50.274548404460894
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 55.56796026073474
-  llm_score: 65
-  recency_score: 26.19174169477578
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 24.698747108660246
-  llm_score: 0
-  recency_score: 85.54185620629158
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 23.726942189449353
-  llm_score: 0
+  score: 69.88078834329552
+  llm_score: 75
   recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 64.69874710866026
+  llm_score: 65
+  recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 17.355348715535737
-  llm_score: 0
+  score: 60.43227179245883
+  llm_score: 70
   recency_score: 37.809766650982276
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 58.644883337657824
+  llm_score: 70
+  recency_score: 26.19174169477578
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
-  score: 14.291816251555936
-  llm_score: 0
+  score: 57.36873932847902
+  llm_score: 70
   recency_score: 17.896805635113584
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 12.247855449680506
-  llm_score: 0
+  score: 55.324778526603595
+  llm_score: 70
   recency_score: 4.6110604229232885
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 54.876356051014284
+  llm_score: 70
+  recency_score: 1.6963143315927736
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 11.758061650444414
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 15.973482724004215
   llm_score: 0
-  recency_score: 1.4274007278886993
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 0
   rank: 10

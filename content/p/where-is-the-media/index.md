@@ -10,63 +10,83 @@ alttags: Milk carton labeled Missing, featuring a photographer and the question 
 related_articles:
 - slug: court-of-public-opinion-2
   title: COURT OF PUBLIC OPINION
-  score: 86.47244604336203
+  score: 78.0557277256631
   llm_score: 85
   recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: mia
-  title: M.I.A.
-  score: 68.63534774825524
-  llm_score: 85
-  recency_score: 3.1767387412762407
-  rank: 2
-- slug: notice
-  title: 'NOTICE:'
-  score: 68.47261545821016
-  llm_score: 85
-  recency_score: 2.363077291050805
-  rank: 3
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 66.71522921439812
-  llm_score: 65
-  recency_score: 73.57614607199059
-  rank: 4
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 65.54857141949542
+  score: 69.01171478030626
   llm_score: 75
-  recency_score: 27.742857097477103
-  rank: 5
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 61.82610187044024
-  llm_score: 55
+  score: 68.32777066956942
+  llm_score: 70
   recency_score: 89.13050935220119
-  rank: 6
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 60.21647177193631
-  llm_score: 75
-  recency_score: 1.082358859681554
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 56.93193927883213
-  llm_score: 65
+  score: 58.409184060640115
+  llm_score: 70
   recency_score: 24.659696394160648
-  rank: 8
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: mia
+  title: M.I.A.
+  score: 58.18103672942713
+  llm_score: 75
+  recency_score: 3.1767387412762407
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: notice
+  title: 'NOTICE:'
+  score: 58.05585804477706
+  llm_score: 75
+  recency_score: 2.363077291050805
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 55.80659339961187
+  llm_score: 65
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: public-access
   title: PUBLIC ACCESS
-  score: 56.782419985414975
+  score: 55.21724614262692
   llm_score: 70
   recency_score: 3.9120999270748786
-  rank: 9
-- slug: criminal-enterprise
-  title: CRIMINAL ENTERPRISE
-  score: 55.9939206577845
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 53.22917199825211
   llm_score: 65
-  recency_score: 19.9696032889225
+  recency_score: 10.989617988638654
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 17.213672492043266
+  llm_score: 0
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.

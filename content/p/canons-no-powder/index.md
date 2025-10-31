@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: 'Lack of accountability in Baldwin County judicial ethics: a judge/developer facing approval conflicts'
 related_articles:
-- slug: get-out-of-jail-card
-  title: GET OUT OF JAIL CARD
-  score: 76.69359590659947
-  llm_score: 95
-  recency_score: 50.96797953299731
-  category_score: 0
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 76.06817991465459
+  llm_score: 75
+  recency_score: 44.44316944525482
+  length_score: 100
+  category_score: 100
   rank: 1
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 76.19167940010975
-  llm_score: 85
-  recency_score: 83.45839700054867
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 72.11659013153087
+  llm_score: 95
+  recency_score: 13.757835854950565
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 73.00000000000001
-  llm_score: 90
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 3
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 69.50000000000001
-  llm_score: 85
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 67.15156717099012
-  llm_score: 92
-  recency_score: 13.757835854950565
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 64.37821492316134
+  llm_score: 65
+  recency_score: 83.45839700054867
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 63.92001563077639
-  llm_score: 85
-  recency_score: 22.100078153881906
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 62.45661223584575
+  llm_score: 70
+  recency_score: 50.96797953299731
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: but-i-didnt-do-it
-  title: But, I Didn’t Do It…
-  score: 63.25001436564732
-  llm_score: 85
-  recency_score: 18.75007182823656
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 61.09231971598185
+  llm_score: 75
+  recency_score: 22.100078153881906
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: legal-corruption
   title: LEGAL CORRUPTION
-  score: 60.87955318921922
-  llm_score: 85
+  score: 58.75350245324557
+  llm_score: 75
   recency_score: 6.897765946096069
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 53.23262812294603
-  llm_score: 75
+  score: 55.17894470995849
+  llm_score: 70
   recency_score: 3.663140614730139
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 52.635499371860206
-  llm_score: 75
+  score: 54.71961490143094
+  llm_score: 70
   recency_score: 0.6774968593009955
+  length_score: 100
   category_score: 0
   rank: 10
 ---

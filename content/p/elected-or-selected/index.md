@@ -3,7 +3,7 @@ title: ELECTED OR SELECTED
 date: 2016-07-22
 thumbnail: img/elected-or-selected.png
 categories:
-- freaky-friday
+- elections
 tags:
 - kant
 - mike-ford

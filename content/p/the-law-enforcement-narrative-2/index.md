@@ -9,54 +9,30 @@ summary: Hey Bay Minette Harry Still is not crazy. He just knows too much.
 authors:
 - admin
 related_articles:
-- slug: hanky-panky-at-the-po-po
-  title: Hanky Panky at the Po Po
-  score: 86.05935876160042
-  llm_score: 95
-  recency_score: 29.385831950402675
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 89.75076701493913
+  llm_score: 85
+  recency_score: 93.37998559710435
   length_score: 100
   category_score: 100
   rank: 1
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 85.99785091113895
-  llm_score: 95
-  recency_score: 28.986030922403184
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 80.45683729380974
+  llm_score: 85
+  recency_score: 32.96944240976332
   length_score: 100
   category_score: 100
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 84.06070515893754
-  llm_score: 95
-  recency_score: 16.39458353309393
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 78.49047961046821
+  llm_score: 85
+  recency_score: 95.18811746804333
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 81.83611139232055
-  llm_score: 95
-  recency_score: 1.9347240500835032
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 79.66445679086239
-  llm_score: 85
-  recency_score: 27.818969140605503
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 77.45531920023124
-  llm_score: 85
-  recency_score: 13.459574801503088
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 76.17834250606808
@@ -64,28 +40,52 @@ related_articles:
   recency_score: 5.159226289442438
   length_score: 100
   category_score: 100
-  rank: 7
-- slug: law-and-disorder-part-2
-  title: LAW and DisORDER - Part 2
-  score: 75.39811643007212
+  rank: 4
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 76.14847464805582
   llm_score: 85
-  recency_score: 0.0877567954687319
+  recency_score: 4.965085212362791
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 74.2339823898639
+  llm_score: 75
+  recency_score: 32.52088553411519
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: justified
+  title: JUSTIFIED
+  score: 73.08834474664954
+  llm_score: 85
+  recency_score: 60.07424085322191
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: rumors
+  title: RUMORS
+  score: 70.07150209845959
+  llm_score: 75
+  recency_score: 5.464763639987247
   length_score: 100
   category_score: 100
   rank: 8
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 70.78507623075937
-  llm_score: 95
-  recency_score: 5.102995499935887
+- slug: cover-up
+  title: COVER UP
+  score: 65.1387538286685
+  llm_score: 85
+  recency_score: 8.401899886345134
   length_score: 100
   category_score: 0
   rank: 9
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 68.93229130742539
-  llm_score: 85
-  recency_score: 33.05989349826491
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 57.87308893052117
+  llm_score: 75
+  recency_score: 1.1750780483875294
   length_score: 100
   category_score: 0
   rank: 10

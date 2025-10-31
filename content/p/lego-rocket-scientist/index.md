@@ -14,63 +14,83 @@ alttags: 'Satirical depiction: Jack Burrell’s face superimposed on a toy rocke
 related_articles:
 - slug: pied-piper
   title: PIED PIPER
-  score: 82.85660194836281
-  llm_score: 90
+  score: 72.19738611412525
+  llm_score: 85
   recency_score: 54.28300974181401
+  length_score: 100
+  category_score: 0
   rank: 1
 - slug: jackass-jack
   title: JACKASS JACK
-  score: 78.46863524410352
-  llm_score: 90
+  score: 68.82202711084888
+  llm_score: 85
   recency_score: 32.34317622051765
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 76.11750739304847
-  llm_score: 95
-  recency_score: 0.587536965242325
-  rank: 3
 - slug: all-mouth
   title: ALL MOUTH
-  score: 73.1247843082185
+  score: 67.78829562170654
   llm_score: 85
   recency_score: 25.623921541092447
-  rank: 4
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: jack-ass
   title: JACK ASS
-  score: 72.2286642283535
+  score: 67.09897248334886
   llm_score: 90
   recency_score: 1.1433211417674878
-  rank: 5
-- slug: the-jester
-  title: THE JESTER
-  score: 69.62603288021906
-  llm_score: 85
-  recency_score: 8.130164401095277
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
-  score: 69.08698032362109
+  score: 64.68229255663162
   llm_score: 85
   recency_score: 5.4349016181054575
-  rank: 7
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 64.26079964454098
+  llm_score: 85
+  recency_score: 2.695197689516261
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
-  score: 68.34964285180067
+  score: 64.11510988600052
   llm_score: 85
   recency_score: 1.7482142590033594
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-chucky-cheeze-and-jack-burrell-show
+  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 64.08521986097314
+  llm_score: 85
+  recency_score: 1.5539290963253303
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 68.25167663945837
+  score: 64.03975126112184
   llm_score: 85
   recency_score: 1.2583831972918698
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: the-chucky-cheeze-and-jack-burrell-show
-  title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
-  score: 60.310785819265064
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 57.78269799465268
   llm_score: 75
-  recency_score: 1.5539290963253303
+  recency_score: 0.587536965242325
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The good ole boys in Fairhope won the last election and were successful in electing a Mayor and Council that were willing to embrace development and return to the old “corrupt” way of doing business. The municipal attorney is old school and the municipal judge is a major developer in Fairhope. You can thank Catalyst, aka Scott Boone Consulting for this cast of characters. Jack Burrell has been the puppet for developers and special interest groups since first elected. For almost 9 years, Jack was president of the council. His involvement in the Fairhope Airport Authority has been a cluster f--- from day one. In March of last year, he canceled the video online broadcast of the Airport Authority meetings to the public. I knew then he was up to some kind of B.S.

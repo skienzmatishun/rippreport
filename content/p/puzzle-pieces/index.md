@@ -7,7 +7,7 @@ tags:
 - Gulftainer
 - Toll Bridge
 categories:
-- freaky-friday
+- alabama
 authors:
 - admin
 alttags: Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras...

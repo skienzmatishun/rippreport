@@ -7,74 +7,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 89.72789538259508
-  llm_score: 100
-  recency_score: 98.63947691297537
-  category_score: 0
-  rank: 1
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 75.91953853153238
-  llm_score: 85
-  recency_score: 82.09769265766185
-  category_score: 0
-  rank: 2
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 75.34502484628416
-  llm_score: 85
-  recency_score: 79.22512423142078
-  category_score: 0
-  rank: 3
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 74.15008797921179
-  llm_score: 100
-  recency_score: 20.750439896058943
-  category_score: 0
-  rank: 4
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 73.58411183802811
-  llm_score: 85
-  recency_score: 70.42055919014051
-  category_score: 0
-  rank: 5
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 72.12221429547446
-  llm_score: 85
-  recency_score: 63.11107147737226
-  category_score: 0
-  rank: 6
 - slug: no-98-ethical-abortion
   title: No 98 - Ethical Abortion
-  score: 71.02312487593503
+  score: 71.94086528918079
   llm_score: 75
   recency_score: 92.61562437967505
+  length_score: 100
   category_score: 0
-  rank: 7
+  rank: 1
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 69.88078834329552
+  llm_score: 75
+  recency_score: 79.22512423142078
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 69.79068875584238
+  llm_score: 70
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 68.52623987540625
+  llm_score: 75
+  recency_score: 70.42055919014051
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 67.24579887040953
+  llm_score: 70
+  recency_score: 82.09769265766185
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 67.03852921477831
+  llm_score: 85
+  recency_score: 20.750439896058943
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
-  score: 66.62275135247592
-  llm_score: 75
+  score: 65.47903950190455
+  llm_score: 70
   recency_score: 70.6137567623795
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 64.32478022728804
+  llm_score: 70
+  recency_score: 63.11107147737226
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: bad-faith
   title: Bad Faith
-  score: 62.860771731910305
-  llm_score: 85
+  score: 57.200593639931014
+  llm_score: 70
   recency_score: 16.8038586595515
+  length_score: 100
   category_score: 0
   rank: 9
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 53.23062366968938
-  llm_score: 75
+  score: 55.17740282283799
+  llm_score: 70
   recency_score: 3.653118348446851
+  length_score: 100
   category_score: 0
   rank: 10
 ---

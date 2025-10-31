@@ -9,12 +9,28 @@ authors:
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 85.33237323379727
-  llm_score: 100
+  score: 76.10160400302804
+  llm_score: 85
   recency_score: 79.6604260196822
   length_score: 100
   category_score: 0
   rank: 1
+- slug: court-of-public-opinion
+  title: COURT OF PUBLIC OPINION
+  score: 73.46838584544837
+  llm_score: 100
+  recency_score: 2.5445079954142833
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 71.90188157181696
+  llm_score: 75
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
   score: 69.99066869844769
@@ -22,68 +38,52 @@ related_articles:
   recency_score: 39.93934653990996
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 61.799830254668926
-  llm_score: 75
-  recency_score: 26.69889665534791
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: notice
-  title: 'NOTICE:'
-  score: 58.08592134976916
-  llm_score: 75
-  recency_score: 2.5584887734994517
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 39.90188157181695
-  llm_score: 23
-  recency_score: 92.36223021681012
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 32.588891165843016
-  llm_score: 87
-  recency_score: 0.6555851559591579
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 26.384774822578315
-  llm_score: 0
+  score: 69.4616978995014
+  llm_score: 70
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 67.95367640851508
+  llm_score: 85
+  recency_score: 26.69889665534791
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 67.56262885946411
+  llm_score: 75
+  recency_score: 64.15708758651667
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: election-ad
-  title: ELECTION AD
-  score: 14.855662799492448
-  llm_score: 0
-  recency_score: 21.56180819670091
+- slug: notice
+  title: 'NOTICE:'
+  score: 55.00899827284608
+  llm_score: 70
+  recency_score: 2.5584887734994517
   length_score: 100
   category_score: 0
   rank: 8
 - slug: public-access
   title: PUBLIC ACCESS
-  score: 12.09435426783947
-  llm_score: 0
+  score: 42.86358503707025
+  llm_score: 50
   recency_score: 3.6133027409565597
   length_score: 100
   category_score: 0
   rank: 9
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 11.929924306986813
-  llm_score: 0
-  recency_score: 2.5445079954142833
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 33.51196808891994
+  llm_score: 90
+  recency_score: 0.6555851559591579
   length_score: 100
   category_score: 0
   rank: 10

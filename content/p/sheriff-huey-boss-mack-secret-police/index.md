@@ -23,6 +23,22 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 83.35399929370959
+  llm_score: 95
+  recency_score: 11.800995409112343
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 76.41148882808828
+  llm_score: 85
+  recency_score: 6.674677382573833
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: biased-investigation
   title: BIASED INVESTIGATION
   score: 75.000042318637
@@ -30,68 +46,52 @@ related_articles:
   recency_score: 37.500275071140365
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 71.0463069860173
-  llm_score: 75
-  recency_score: 11.800995409112343
-  length_score: 100
-  category_score: 100
-  rank: 3
+  rank: 4
 - slug: rumors
   title: RUMORS
-  score: 28.523633556421423
-  llm_score: 0
+  score: 74.67747971026759
+  llm_score: 75
   recency_score: 35.40361811673922
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 26.592642879033633
-  llm_score: 23
-  recency_score: 5.8521787137186125
-  length_score: 100
-  category_score: 0
   rank: 5
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 25.210981528951386
-  llm_score: 0
+  score: 71.36482768279755
+  llm_score: 75
   recency_score: 13.871379938184003
   length_score: 100
   category_score: 100
   rank: 6
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 24.103796520395974
-  llm_score: 0
-  recency_score: 6.674677382573833
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 23.979728317483826
-  llm_score: 0
+  score: 70.13357447133
+  llm_score: 75
   recency_score: 5.868234063644852
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 7
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 23.913061787400842
-  llm_score: 0
+  score: 70.06690794124701
+  llm_score: 75
   recency_score: 5.4349016181054575
   length_score: 100
   category_score: 100
+  rank: 8
+- slug: law-and-disorder-part-2
+  title: LAW and DisORDER - Part 2
+  score: 69.92859719523504
+  llm_score: 75
+  recency_score: 4.5358817690276965
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 11.83611139232054
-  llm_score: 0
-  recency_score: 1.9347240500835032
+- slug: sheriff-mack-out-oj-french-lawsuit-in
+  title: Sheriff Mack Out OJ French Lawsuit In
+  score: 58.59264287903365
+  llm_score: 75
+  recency_score: 5.8521787137186125
   length_score: 100
   category_score: 0
   rank: 10

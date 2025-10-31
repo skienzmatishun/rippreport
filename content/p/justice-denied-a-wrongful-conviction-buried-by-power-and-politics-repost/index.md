@@ -18,20 +18,12 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 94.48418202746318
-  llm_score: 95
+  score: 97.56110510438626
+  llm_score: 100
   recency_score: 84.14718317851063
   length_score: 100
   category_score: 100
   rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 84.39947588411401
-  llm_score: 95
-  recency_score: 18.596593246741016
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: rule-32
   title: RULE 32
   score: 84.08152135725518
@@ -39,12 +31,20 @@ related_articles:
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
+  rank: 2
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 83.04479190592508
+  llm_score: 90
+  recency_score: 29.79114738851293
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 82.31073789916488
-  llm_score: 95
-  recency_score: 5.0197963445716995
+- slug: no-justice
+  title: NO JUSTICE
+  score: 81.32255280719093
+  llm_score: 90
+  recency_score: 18.596593246741016
   length_score: 100
   category_score: 100
   rank: 4
@@ -56,43 +56,43 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 77.69230769230771
   llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
-  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 68.29025390489441
-  llm_score: 70
-  recency_score: 88.88665038181365
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 70.00304559147258
+  llm_score: 75
+  recency_score: 5.0197963445716995
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 66.34090734657106
-  llm_score: 85
+  score: 68.80244580810952
+  llm_score: 89
   recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
   rank: 9
-- slug: innocent
-  title: INNOCENT
-  score: 64.33622370283706
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 64.28656055159696
   llm_score: 85
-  recency_score: 3.1854540684407837
+  recency_score: 2.862643585380166
   length_score: 100
   category_score: 0
   rank: 10

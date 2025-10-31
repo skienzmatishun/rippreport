@@ -15,81 +15,81 @@ alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusa
 related_articles:
 - slug: striking-oil
   title: STRIKING OIL
-  score: 74.41621455460452
-  llm_score: 85
+  score: 68.26236840075836
+  llm_score: 75
   recency_score: 68.70539460492927
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 72.0163367572285
-  llm_score: 85
-  recency_score: 53.10618892198522
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 68.1412104915203
+  llm_score: 70
+  recency_score: 87.91786819488183
   length_score: 100
   category_score: 0
   rank: 2
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 35.389496787954414
-  llm_score: 25
-  recency_score: 55.031729121703655
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 64.75986398373605
+  llm_score: 70
+  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
   rank: 3
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 34.275503923515394
-  llm_score: 23
+  score: 63.19858084659232
+  llm_score: 70
   recency_score: 55.79077550285001
   length_score: 100
   category_score: 0
   rank: 4
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 25.06428741459721
-  llm_score: 0
-  recency_score: 87.91786819488183
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 63.081804480262115
+  llm_score: 70
+  recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 17.993589568865843
-  llm_score: 0
-  recency_score: 41.958332197627975
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 62.852996440299215
+  llm_score: 70
+  recency_score: 53.544476861944815
   length_score: 100
   category_score: 0
   rank: 6
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 13.823810415292469
-  llm_score: 0
-  recency_score: 14.854767699401043
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 62.78556752645928
+  llm_score: 70
+  recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
   rank: 7
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 13.34407834712414
-  llm_score: 0
-  recency_score: 11.736509256306908
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 61.07051264578893
+  llm_score: 70
+  recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
   rank: 8
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 9.375248599120656
-  llm_score: -20
-  recency_score: 65.93911589428427
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 56.90073349221556
+  llm_score: 70
+  recency_score: 14.854767699401043
   length_score: 100
   category_score: 0
   rank: 9
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 5.622227209529971
-  llm_score: -23
-  recency_score: 53.544476861944815
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 56.421001424047226
+  llm_score: 70
+  recency_score: 11.736509256306908
   length_score: 100
   category_score: 0
   rank: 10

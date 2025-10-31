@@ -9,20 +9,44 @@ authors:
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 76.54596580758859
-  llm_score: 85
+  score: 82.69981196143475
+  llm_score: 95
   recency_score: 82.54877774932578
   length_score: 100
   category_score: 0
   rank: 1
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 76.06807338058897
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 78.69246713027063
   llm_score: 85
-  recency_score: 79.4424769738282
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 2
+- slug: crazy
+  title: CRAZY
+  score: 77.4781366435129
+  llm_score: 85
+  recency_score: 13.607888182833822
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 77.33337743001582
+  llm_score: 100
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: cover-up
+  title: COVER UP
+  score: 76.48626297410621
+  llm_score: 100
+  recency_score: 22.160709331690267
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
   score: 70.21345836940752
@@ -30,60 +54,36 @@ related_articles:
   recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 56.50229468426061
-  llm_score: 71
-  recency_score: 8.264915447693923
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: joke
-  title: JOKE LLP
-  score: 43.75626411526738
-  llm_score: 52
-  recency_score: 1.4157167492379013
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 29.461697899501395
-  llm_score: 5
-  recency_score: 96.50103634675902
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: crazy
-  title: CRAZY
-  score: 25.17044433582059
-  llm_score: 0
-  recency_score: 13.607888182833822
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 18.87183896847734
-  llm_score: 5
-  recency_score: 27.666953295102704
+- slug: the-big-lie
+  title: THE BIG LIE
+  score: 65.55504758357537
+  llm_score: 75
+  recency_score: 51.107809293239825
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 15.524042455669134
-  llm_score: 0
+  score: 58.60096553259222
+  llm_score: 70
   recency_score: 25.906275961849367
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: joke
+  title: JOKE LLP
+  score: 42.525494884498144
+  llm_score: 50
+  recency_score: 1.4157167492379013
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: cover-up
-  title: COVER UP
-  score: 0.7939552817985014
-  llm_score: -23
-  recency_score: 22.160709331690267
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 23.76038107289665
+  llm_score: 0
+  recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 10

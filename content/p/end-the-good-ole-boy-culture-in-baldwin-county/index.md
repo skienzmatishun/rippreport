@@ -24,81 +24,81 @@ alttags: Railway tracks diverging, symbolizing choices in Baldwin County politic
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 85.30054665785535
-  llm_score: 95
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85.2586847232443
-  llm_score: 95
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
   score: 79.14670050400919
   llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 78.47206029057718
+  llm_score: 90
+  recency_score: 0.06839188875158306
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 70.09975998227398
+  llm_score: 95
+  recency_score: 0.6484398847808431
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: last-chance
-  title: LAST CHANCE
-  score: 64.43658280136673
-  llm_score: 85
-  recency_score: 3.837788208883614
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 70.08940513174392
+  llm_score: 95
+  recency_score: 0.5811333563354107
   length_score: 100
   category_score: 0
   rank: 4
-- slug: court-of-public-opinion
-  title: COURT OF PUBLIC OPINION
-  score: 63.853502726337155
-  llm_score: 85
-  recency_score: 0.047767721191407035
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70.07817356189834
+  llm_score: 95
+  recency_score: 0.508128152339147
   length_score: 100
   category_score: 0
   rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 57.71850825329628
-  llm_score: 75
-  recency_score: 0.17030364642568946
+- slug: last-chance
+  title: LAST CHANCE
+  score: 67.5135058782898
+  llm_score: 90
+  recency_score: 3.837788208883614
   length_score: 100
   category_score: 0
   rank: 6
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 57.7087979064666
-  llm_score: 75
-  recency_score: 0.10718639203280696
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 67.50867292621633
+  llm_score: 90
+  recency_score: 3.806374020406067
   length_score: 100
   category_score: 0
   rank: 7
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 57.69402798277187
-  llm_score: 75
-  recency_score: 0.011181888017074006
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 66.98186858262349
+  llm_score: 90
+  recency_score: 0.3821457870526232
   length_score: 100
   category_score: 0
   rank: 8
-- slug: qualification
-  title: QUALIFICATION
-  score: 54.62306280323275
-  llm_score: 70
-  recency_score: 0.04990822101277993
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 63.85808889619338
+  llm_score: 85
+  recency_score: 0.07757782525687204
   length_score: 100
   category_score: 0
   rank: 9
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 52.120857571426264
-  llm_score: 65
-  recency_score: 3.7855742142706434
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 63.85581893735016
+  llm_score: 85
+  recency_score: 0.06282309277594886
   length_score: 100
   category_score: 0
   rank: 10

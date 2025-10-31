@@ -14,63 +14,83 @@ alttags: Abstract mask resembling a face, overlaid with black and yellow target 
 related_articles:
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
-  score: 95.78201851846809
+  score: 85.21693732189854
   llm_score: 95
   recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
   rank: 1
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 95.24877842919904
-  llm_score: 100
-  recency_score: 76.2438921459952
-  rank: 2
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 93.58357363897636
+  score: 83.52582587613567
   llm_score: 95
   recency_score: 87.91786819488183
-  rank: 3
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 85.41503251862473
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 81.72982956092235
   llm_score: 95
-  recency_score: 47.075162593123636
-  rank: 4
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 83.62944962510568
-  llm_score: 85
-  recency_score: 78.14724812552835
-  rank: 5
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 83.29061318606567
+  score: 75.6081639892813
   llm_score: 85
   recency_score: 76.45306593032835
-  rank: 6
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 75.66369774772801
-  llm_score: 92
+  score: 71.58745980594463
+  llm_score: 95
   recency_score: 10.318488738640012
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 71.08848655278827
+  llm_score: 85
+  recency_score: 47.075162593123636
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 69.7149612500813
+  llm_score: 75
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 72.16147367298336
+  score: 67.04728744075645
   llm_score: 85
   recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: deaf-ears
   title: DEAF EARS
-  score: 70.10942881080481
-  llm_score: 85
+  score: 59.314945239080636
+  llm_score: 75
   recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: ethics-comedians
-  title: ETHICS COMEDIANS
-  score: 56.362320307674516
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 56.101821208980375
   llm_score: 70
-  recency_score: 1.811601538372569
+  recency_score: 9.661837858372358
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 The Ripp Report is a consumer organization first, we also maintain a blog site, Face Book sites and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.

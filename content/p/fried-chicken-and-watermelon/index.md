@@ -8,75 +8,75 @@ authors:
 - admin
 alttags: Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu...
 related_articles:
-- slug: chuckie-cheeze
-  title: CHUCKIE CHEEZE
-  score: 64.27115088104706
-  llm_score: 85
-  recency_score: 2.76248072680588
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: black-hole
-  title: BLACK HOLE
-  score: 64.13025844215932
-  llm_score: 85
-  recency_score: 1.8466798740354857
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 63.94375109602438
-  llm_score: 85
-  recency_score: 0.6343821241583751
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: chuckee-cheeze
-  title: CHUCKEE CHEEZE
-  score: 58.445774474116654
-  llm_score: 75
-  recency_score: 4.897534081758149
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: alabama-moore-strange
-  title: ALABAMA MOORE STRANGE
-  score: 57.94208639655939
-  llm_score: 75
-  recency_score: 1.6235615776359285
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: boiling-frog
-  title: BOILING FROG
-  score: 46.32272144566542
-  llm_score: 55
-  recency_score: 6.09768939682519
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: pot-calling-the-kettle-black
   title: POT CALLING THE KETTLE BLACK
-  score: 23.013995921095272
-  llm_score: 0
+  score: 69.16784207494143
+  llm_score: 75
   recency_score: 74.59097348711927
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 1
+- slug: chuckie-cheeze
+  title: CHUCKIE CHEEZE
+  score: 58.11730472720092
+  llm_score: 75
+  recency_score: 2.76248072680588
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: chuckee-cheeze
+  title: CHUCKEE CHEEZE
+  score: 55.36885139719357
+  llm_score: 70
+  recency_score: 4.897534081758149
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: black-hole
+  title: BLACK HOLE
+  score: 54.89948921139009
+  llm_score: 70
+  recency_score: 1.8466798740354857
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 52.338739328151085
+  llm_score: 65
+  recency_score: 5.201805632981981
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 51.87608971004604
+  llm_score: 65
+  recency_score: 2.1945831152992037
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: the-pot-and-the-kettle-are-black
   title: THE POT AND THE KETTLE ARE BLACK
-  score: 11.88929139623676
-  llm_score: 0
+  score: 51.27390678085216
+  llm_score: 64
   recency_score: 2.2803940755389456
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
-  score: 11.829658534479636
-  llm_score: 0
+  score: 51.214273919095035
+  llm_score: 64
   recency_score: 1.892780474117634
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 51.02067417294745
+  llm_score: 64
+  recency_score: 0.6343821241583751
   length_score: 100
   category_score: 0
   rank: 9

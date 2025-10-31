@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: 'Satirical depiction: a man’s face superimposed on an Irish leprechaun mascot holding money and waving a flag, referencing ...'
 related_articles:
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 70.30766535103523
-  llm_score: 83
-  recency_score: 49.99982478172893
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 70.2818560255775
-  llm_score: 71
+  score: 69.66647141019288
+  llm_score: 70
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: watering-hole
-  title: WATERING HOLE
-  score: 65.70701476821903
-  llm_score: 85
-  recency_score: 12.09559599342363
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 55.96294972556594
-  llm_score: 52
+  score: 67.03987280248901
+  llm_score: 70
   recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 33.259173608360996
-  llm_score: 23
-  recency_score: 49.18462845434644
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: cover-up
-  title: COVER UP
-  score: 29.913920868134667
-  llm_score: 23
-  recency_score: 27.440485642875306
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 2
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 21.408782705617952
-  llm_score: 0
+  score: 64.48570578254103
+  llm_score: 70
   recency_score: 64.15708758651667
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 3
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 62.58657438376161
+  llm_score: 70
+  recency_score: 51.81273349445037
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
-  score: 19.42277271907438
-  llm_score: 0
+  score: 62.49969579599747
+  llm_score: 70
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 62.30766535103523
+  llm_score: 70
+  recency_score: 49.99982478172893
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 62.18225053143793
+  llm_score: 70
+  recency_score: 49.18462845434644
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 16.473604827433647
-  llm_score: 0
+  score: 59.550527904356734
+  llm_score: 70
   recency_score: 32.0784313783187
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
-  score: 14.61070819829577
-  llm_score: 0
+  score: 57.687631275218855
+  llm_score: 70
   recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: cover-up
+  title: COVER UP
+  score: 55.76007471428852
+  llm_score: 65
+  recency_score: 27.440485642875306
   length_score: 100
   category_score: 0
   rank: 10

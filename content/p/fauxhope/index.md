@@ -10,8 +10,8 @@ alttags: City of Fairhope, Alabama seal depicting buildings and a For Sale sign,
 related_articles:
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 85.19880017469548
-  llm_score: 100
+  score: 69.8141847900801
+  llm_score: 75
   recency_score: 78.79220113552056
   length_score: 100
   category_score: 0
@@ -24,14 +24,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 66.72151218150093
-  llm_score: 78
-  recency_score: 46.6898291797559
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
   score: 62.288135212342034
@@ -39,15 +31,15 @@ related_articles:
   recency_score: 29.872878880223098
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 62.11189997535919
-  llm_score: 76
-  recency_score: 24.727349839834638
+  rank: 3
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 61.798435258424
+  llm_score: 70
+  recency_score: 46.6898291797559
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
   score: 60.689726649428685
@@ -55,7 +47,7 @@ related_articles:
   recency_score: 19.483223221286327
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
   score: 59.885641786591705
@@ -63,11 +55,19 @@ related_articles:
   recency_score: 14.25667161284597
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: FAUXHOPE HISTORY
+  title: FAUXHOPE HISTORY
+  score: 59.814704651837936
+  llm_score: 75
+  recency_score: 13.795580236946487
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 58.66044979721248
-  llm_score: 76
+  score: 58.045065181827866
+  llm_score: 75
   recency_score: 2.292923681881036
   length_score: 100
   category_score: 0

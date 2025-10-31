@@ -9,81 +9,81 @@ authors:
 related_articles:
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 82.7137656789193
-  llm_score: 91
+  score: 79.02145798661161
+  llm_score: 85
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 1
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 56.176499711619755
-  llm_score: 53
-  recency_score: 78.14724812552835
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 71.74701037350734
+  llm_score: 75
+  recency_score: 91.35556742779755
   length_score: 100
   category_score: 0
   rank: 2
-- slug: horrible-hurricane-harvey
-  title: HORRIBLE HURRICANE HARVEY
-  score: 50.612772705995
-  llm_score: 63
-  recency_score: 1.9830225889673994
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 67.07395916848306
+  llm_score: 70
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 3
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
-  score: 36.70580373517944
-  llm_score: 23
+  score: 65.62888065825636
+  llm_score: 70
   recency_score: 71.58772427866629
   length_score: 100
   category_score: 0
   rank: 4
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 25.593164219661166
-  llm_score: 0
-  recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 23.997036091559977
-  llm_score: 0
-  recency_score: 80.98073459513984
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: troubled-waters
   title: Troubled Waters
-  score: 22.224995572976432
-  llm_score: 0
+  score: 65.30191864989952
+  llm_score: 70
   recency_score: 69.4624712243468
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 21.115758581454465
-  llm_score: 0
+  score: 61.11575858145447
+  llm_score: 65
   recency_score: 62.252430779453995
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 60.84125005701754
+  llm_score: 75
+  recency_score: 20.468125370613887
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: bad-faith
   title: Bad Faith
-  score: 14.088498197381126
-  llm_score: 0
+  score: 57.165421274304215
+  llm_score: 70
   recency_score: 16.575238282977313
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: backstory-podcast-no-186-change-is-coming-alabama
   title: Change Is Coming Alabama
-  score: 12.092833358449216
-  llm_score: 0
+  score: 55.16975643537231
+  llm_score: 70
   recency_score: 3.6034168299198996
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: horrible-hurricane-harvey
+  title: HORRIBLE HURRICANE HARVEY
+  score: 51.843541936764225
+  llm_score: 65
+  recency_score: 1.9830225889673994
   length_score: 100
   category_score: 0
   rank: 10

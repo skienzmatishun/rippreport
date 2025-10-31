@@ -8,74 +8,84 @@ authors:
 - admin
 alttags: An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th...
 related_articles:
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 84.22869172076295
-  llm_score: 95
-  recency_score: 88.64345860381478
-  category_score: 0
-  rank: 1
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 83.32943663570214
-  llm_score: 95
+  score: 70.63802818130934
+  llm_score: 75
   recency_score: 84.14718317851063
+  length_score: 100
   category_score: 0
-  rank: 2
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 79.50975554986516
-  llm_score: 90
-  recency_score: 82.54877774932578
-  category_score: 0
-  rank: 3
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 76.12366745387793
-  llm_score: 95
-  recency_score: 48.118337269389656
-  category_score: 0
-  rank: 4
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 68.24371374716179
-  llm_score: 85
-  recency_score: 43.718568735808944
-  category_score: 0
-  rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 66.11259972348435
-  llm_score: 90
-  recency_score: 15.562998617421716
-  category_score: 0
-  rank: 6
+  rank: 1
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 66.07584775866111
+  score: 68.90449827589316
   llm_score: 85
   recency_score: 32.87923879330549
+  length_score: 100
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 68.25283978520228
+  llm_score: 70
+  recency_score: 88.64345860381478
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
-  score: 64.36935946639768
-  llm_score: 89
-  recency_score: 10.34679733198841
-  category_score: 0
-  rank: 8
-- slug: alabama-the-beautiful
-  title: ALABAMA THE BEAUTIFUL
-  score: 59.97261545821017
+  score: 65.43796882030593
   llm_score: 85
-  recency_score: 2.363077291050805
+  recency_score: 10.34679733198841
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 64.48570578254103
+  llm_score: 70
+  recency_score: 64.15708758651667
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 64.41824134397062
+  llm_score: 75
+  recency_score: 43.718568735808944
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 59.89013828420687
+  score: 64.14626021862068
   llm_score: 85
   recency_score: 1.9506914210343174
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-corruption-insurance
+  title: ALABAMA CORRUPTION INSURANCE
+  score: 62.01820573375227
+  llm_score: 70
+  recency_score: 48.118337269389656
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 59.48314463724196
+  llm_score: 75
+  recency_score: 11.640440142072652
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-the-beautiful
+  title: ALABAMA THE BEAUTIFUL
+  score: 51.9020118909309
+  llm_score: 65
+  recency_score: 2.363077291050805
+  length_score: 100
   category_score: 0
   rank: 10
 ---

@@ -7,65 +7,85 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: obituary
-  title: OBITUARY
-  score: 91.80167323219754
-  llm_score: 95
-  recency_score: 79.0083661609877
-  rank: 1
 - slug: carolyn-amick
   title: CAROLYN AMICK
-  score: 76.25484884682434
+  score: 70.19603757448029
   llm_score: 85
   recency_score: 41.27424423412174
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: obituary
+  title: OBITUARY
+  score: 69.84744094784428
+  llm_score: 75
+  recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: celebration-of-life
-  title: CELEBRATION OF LIFE
-  score: 76.03175858967003
-  llm_score: 85
-  recency_score: 40.15879294835018
-  rank: 3
-- slug: never-forget
-  title: Never Forget
-  score: 74.27111348555951
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 65.68939422095484
   llm_score: 70
-  recency_score: 91.35556742779755
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 59.12608701878488
+  llm_score: 65
+  recency_score: 49.31956562210165
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: tricia-lacy-hyde
-  title: TRICIA LACY HYDE
-  score: 68.65658305422905
-  llm_score: 85
-  recency_score: 3.2829152711452347
+- slug: combat
+  title: COMBAT
+  score: 57.01626083567354
+  llm_score: 70
+  recency_score: 15.605695431877937
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: loss-of-a-friend
   title: LOSS OF A FRIEND
-  score: 61.89566156796674
-  llm_score: 75
+  score: 56.07358582151289
+  llm_score: 70
   recency_score: 9.47830783983372
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 58.52312487593501
-  llm_score: 50
-  recency_score: 92.61562437967505
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 55.57165537689439
+  llm_score: 70
+  recency_score: 6.215759949813457
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: combat
-  title: COMBAT
-  score: 55.121139086375585
-  llm_score: 65
-  recency_score: 15.605695431877937
+- slug: kindness
+  title: RANDOM ACTS OF KINDNESS
+  score: 55.54836442659696
+  llm_score: 70
+  recency_score: 6.0643687728801865
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: tonight
-  title: TONIGHT
-  score: 54.766685633998826
-  llm_score: 65
-  recency_score: 13.83342816999413
+- slug: victory
+  title: VICTORY
+  score: 55.3018352041044
+  llm_score: 70
+  recency_score: 4.461928826678509
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: wonderful-wednesday-5
-  title: WONDERFUL WEDNESDAY
-  score: 40.44012078313703
-  llm_score: 50
-  recency_score: 2.200603915685177
+- slug: america-the-golden-door
+  title: AMERICA - THE GOLDEN DOOR
+  score: 52.09435426783948
+  llm_score: 65
+  recency_score: 3.6133027409565597
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 _**Frances J. Neumann**_

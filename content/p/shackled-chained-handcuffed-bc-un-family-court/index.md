@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 70.30508039830269
-  llm_score: 95
-  recency_score: 1.9830225889673994
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 69.25971037969899
+  llm_score: 70
+  recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
   rank: 1
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 58.11963986988564
-  llm_score: 75
+  score: 64.27348602373179
+  llm_score: 85
   recency_score: 2.7776591542565425
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 26.29913641177881
-  llm_score: 23
-  recency_score: 3.94438667656226
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 26.1827873027759
-  llm_score: 0
-  recency_score: 95.18811746804333
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 26.10468767231357
-  llm_score: 23
-  recency_score: 2.6804698700381855
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 13.86168826594879
-  llm_score: 0
-  recency_score: 15.100973728667121
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 12.22303401456865
-  llm_score: 0
-  recency_score: 4.449721094696223
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: exposure
-  title: EXPOSURE
-  score: 11.664726625466
-  llm_score: 0
-  recency_score: 0.8207230655290094
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 11.663008759806454
-  llm_score: 0
+  score: 63.97070106749878
+  llm_score: 85
   recency_score: 0.8095569387419504
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: moma-bear
+  title: MOTHER BEAR
+  score: 56.93861134287188
+  llm_score: 70
+  recency_score: 15.100973728667121
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 55.29995709149174
+  llm_score: 70
+  recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 55.0277645953905
+  llm_score: 70
+  recency_score: 2.6804698700381855
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 54.920465013687306
+  llm_score: 70
+  recency_score: 1.9830225889673994
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 10.601292566571061
-  llm_score: -2
+  score: 54.90898487426338
+  llm_score: 70
   recency_score: 1.908401682711899
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: exposure
+  title: EXPOSURE
+  score: 54.74164970238909
+  llm_score: 70
+  recency_score: 0.8207230655290094
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-judges
+  title: CATALYST JUDGES
+  score: 49.06836718100959
+  llm_score: 60
+  recency_score: 3.94438667656226
   length_score: 100
   category_score: 0
   rank: 10

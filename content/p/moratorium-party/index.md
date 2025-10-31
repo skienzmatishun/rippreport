@@ -8,65 +8,85 @@ authors:
 - admin
 alttags: City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and...
 related_articles:
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 86.17127158449026
-  llm_score: 85
-  recency_score: 90.85635792245131
-  rank: 1
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 83.75844022710412
-  llm_score: 85
-  recency_score: 78.79220113552056
-  rank: 2
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 80.04781069641929
-  llm_score: 85
-  recency_score: 60.23905348209645
-  rank: 3
 - slug: get-zoned-or-get-screwed
   title: GET ZONED or GET SCREWED
-  score: 78.37150396712644
-  llm_score: 75
-  recency_score: 91.85751983563217
-  rank: 4
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 72.70749976245517
+  score: 77.97807997471266
   llm_score: 85
-  recency_score: 23.53749881227582
+  recency_score: 91.85751983563217
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 77.82405506499252
+  llm_score: 85
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 75.96803094392625
+  llm_score: 85
+  recency_score: 78.79220113552056
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 73.11370053570715
+  llm_score: 85
+  recency_score: 60.23905348209645
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 66.80875645185525
+  llm_score: 75
+  recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 0
   rank: 5
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 71.50176287453081
+  score: 66.53981759579294
   llm_score: 85
   recency_score: 17.508814372654022
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: s-o-s
-  title: S.O.S
-  score: 62.73827503950749
-  llm_score: 65
-  recency_score: 53.69137519753745
-  rank: 7
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 60.36731775047243
-  llm_score: 75
+  score: 64.12870596190189
+  llm_score: 85
   recency_score: 1.8365887523621547
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 63.50919486938191
+  llm_score: 75
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 57.034676107302964
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 58.47206328676802
   llm_score: 70
-  recency_score: 5.173380536514811
+  recency_score: 25.06841136399206
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 55.07025208563967
-  llm_score: 65
-  recency_score: 15.35126042819837
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 58.14001379067324
+  llm_score: 75
+  recency_score: 2.9100896393759403
+  length_score: 100
+  category_score: 0
   rank: 10
 ---
 Fairhope, aka Fauxhope, last municipal election fell prey to the political cabal, Catalyst, now branded as Scott Boone Consulting. They did a bang up good job for the special interests, developers and political candidates, they selected and supported.

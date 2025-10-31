@@ -13,22 +13,6 @@ authors:
 - admin
 alttags: Crash test dummy head with painted markings, symbolizing legal scrutiny and a status review hearing in Ripp Report case
 related_articles:
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 76.71073820021091
-  llm_score: 87
-  recency_score: 75.61979830137088
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 75.73777161220403
-  llm_score: 85
-  recency_score: 77.29551547932614
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
   score: 75.44813912578587
@@ -36,60 +20,76 @@ related_articles:
   recency_score: 75.41290431760807
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 58.13634909554388
-  llm_score: 75
-  recency_score: 2.886269121035116
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 53.04127743382434
-  llm_score: 65
-  recency_score: 9.768303319858143
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 1
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 26.755398860360074
-  llm_score: 0
+  score: 72.90924501420623
+  llm_score: 75
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
-  score: 25.213330827971333
-  llm_score: 0
+  score: 71.3671769818175
+  llm_score: 75
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 3
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 69.58392545835788
+  llm_score: 75
+  recency_score: 77.29551547932614
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 69.32612281559554
+  llm_score: 75
+  recency_score: 75.61979830137088
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 19.230769230769234
-  llm_score: 0
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 59.1951235876705
+  llm_score: 75
+  recency_score: 9.768303319858143
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 14.774868977484076
-  llm_score: 0
+  score: 57.85179205440716
+  llm_score: 70
   recency_score: 21.03664835364649
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 13.143413838412725
-  llm_score: 0
+  score: 56.220336915335814
+  llm_score: 70
   recency_score: 10.432189949682714
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 55.0594260186208
+  llm_score: 70
+  recency_score: 2.886269121035116
   length_score: 100
   category_score: 0
   rank: 10

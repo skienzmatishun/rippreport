@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Council members celebrating, possibly masking criticism after a controversial president’s departure
 related_articles:
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 73.59601562755155
-  llm_score: 100
-  recency_score: 3.374101579085013
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 60.580960854514025
-  llm_score: 74
-  recency_score: 22.77624555434108
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 60.56904185756268
-  llm_score: 75
-  recency_score: 18.69877207415731
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 58.099077147479335
-  llm_score: 75
-  recency_score: 2.644001458615577
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 25.516362757300204
-  llm_score: 0
-  recency_score: 90.85635792245131
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: the-fairhope-jester
   title: THE FAIRHOPE JESTER
-  score: 14.627588632097295
-  llm_score: 0
+  score: 70.01220401671269
+  llm_score: 90
   recency_score: 20.079326108632408
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 1
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 68.5932858342233
+  llm_score: 70
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 58.119422392975565
+  llm_score: 70
+  recency_score: 22.77624555434108
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 57.4921187806396
+  llm_score: 70
+  recency_score: 18.69877207415731
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 14.067624890187538
-  llm_score: 0
+  score: 57.144547967110626
+  llm_score: 70
   recency_score: 16.439561786218995
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: FAUXHOPE HISTORY
   title: FAUXHOPE HISTORY
-  score: 13.985826316060944
-  llm_score: 0
+  score: 57.06274939298403
+  llm_score: 70
   recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
-  score: 13.285680822003108
-  llm_score: 0
+  score: 56.362603898926196
+  llm_score: 70
   recency_score: 11.356925343020198
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 12.20819292255116
-  llm_score: 0
+  score: 55.28511599947425
+  llm_score: 70
   recency_score: 4.353253996582533
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 55.13447716601309
+  llm_score: 70
+  recency_score: 3.374101579085013
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-or-fairhope
+  title: FAUXHOPE OR FAIRHOPE
+  score: 55.022154070556255
+  llm_score: 70
+  recency_score: 2.644001458615577
   length_score: 100
   category_score: 0
   rank: 10

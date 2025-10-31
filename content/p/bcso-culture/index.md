@@ -57,45 +57,45 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 78.8560612226499
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 79.38113067334776
   llm_score: 85
-  recency_score: 97.56439794722424
+  recency_score: 25.977349376760323
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 77.73988611413975
+- slug: rumors
+  title: RUMORS
+  score: 76.16969161537476
   llm_score: 85
-  recency_score: 15.30925974190835
+  recency_score: 5.102995499935887
   length_score: 100
   category_score: 100
   rank: 7
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 77.38834819203588
+- slug: justified
+  title: JUSTIFIED
+  score: 72.47651037789362
   llm_score: 85
-  recency_score: 13.024263248233176
+  recency_score: 56.097317456308396
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 77.31823830939616
-  llm_score: 85
-  recency_score: 12.568549011075072
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 64.73644008825887
+  llm_score: 60
+  recency_score: 30.7868605736826
   length_score: 100
   category_score: 100
   rank: 9
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 76.12579765630822
-  llm_score: 85
-  recency_score: 4.817684766003371
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 63.23679376644409
+  llm_score: 80
+  recency_score: 16.039159481886507
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 10
 ---
 Antony Lowery, Baldwin County’s “appointed” sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop.
