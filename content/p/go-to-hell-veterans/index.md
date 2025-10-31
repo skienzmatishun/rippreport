@@ -28,83 +28,83 @@ authors:
 - ripp-report
 alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
 related_articles:
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 74.14272077304484
-  llm_score: 78
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 72.6201939216784
-  llm_score: 75
+  score: 84.92788622937071
+  llm_score: 95
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: war
   title: WAR
-  score: 72.25661001823983
-  llm_score: 75
+  score: 78.41045617208597
+  llm_score: 85
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 71.6319657032462
-  llm_score: 75
-  recency_score: 90.60777707110016
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 2
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 68.78608143606085
-  llm_score: 70
+  score: 78.01685066683008
+  llm_score: 85
   recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 74.59140495332304
+  llm_score: 85
+  recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 67.21726990936716
+  llm_score: 75
+  recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 56.069596217421896
-  llm_score: 70
-  recency_score: 9.45237541324223
+- slug: offensive
+  title: Offensive
+  score: 60.298852571690105
+  llm_score: 75
+  recency_score: 16.942541715985588
   length_score: 100
   category_score: 0
   rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 55.16071796626504
-  llm_score: 70
-  recency_score: 3.544666780722678
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 58.51707054258987
+  llm_score: 75
+  recency_score: 5.360958526834057
   length_score: 100
   category_score: 0
   rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 51.80230866345136
-  llm_score: 65
-  recency_score: 1.7150063124338188
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 57.707372421022626
+  llm_score: 75
+  recency_score: 0.09792073664695441
   length_score: 100
   category_score: 0
   rank: 8
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 45.41379258453317
-  llm_score: 50
-  recency_score: 20.189651799465537
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 54.95393906395158
+  llm_score: 70
+  recency_score: 2.200603915685177
   length_score: 100
   category_score: 0
   rank: 9
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 39.327567599035184
-  llm_score: 45
-  recency_score: 0.6291893937286536
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 54.623276072703234
+  llm_score: 70
+  recency_score: 0.051294472570959884
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,83 +9,83 @@ authors:
 rumble: v5gydsy
 alttags: Political cartoon depicting officials in a boat overlooking people struggling in water, referencing FEMA’s response challe...
 related_articles:
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 68.86394221225771
-  llm_score: 70
-  recency_score: 92.61562437967505
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 81.65525741787363
+  llm_score: 75
+  recency_score: 80.75917321617852
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: the-180
-  title: THE 180
-  score: 61.694133111695265
-  llm_score: 60
-  recency_score: 86.01186522601911
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 60.235367511101344
+  llm_score: 75
+  recency_score: 16.529888822158654
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-153
-  title: No Boomers
-  score: 58.14834138585108
-  llm_score: 70
-  recency_score: 22.96421900803196
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: bsp-128
-  title: Big News
-  score: 55.96961190105034
-  llm_score: 70
-  recency_score: 8.80247735682715
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: priorities
   title: Priorities
-  score: 55.86961067152386
-  llm_score: 70
+  score: 58.94653374844694
+  llm_score: 75
   recency_score: 8.152469364904984
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 58.92608486729314
+  llm_score: 75
+  recency_score: 8.019551637405318
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 58.64857845381747
+  llm_score: 75
+  recency_score: 6.215759949813457
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 55.00364306816264
-  llm_score: 70
-  recency_score: 2.5236799430570582
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 58.48386319508556
+  llm_score: 75
+  recency_score: 5.1451107680560595
   length_score: 100
   category_score: 0
   rank: 6
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 54.96717696873743
-  llm_score: 70
-  recency_score: 2.2866502967932067
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 56.556249904565405
+  llm_score: 50
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 7
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 54.72309860310771
-  llm_score: 70
-  recency_score: 0.700140920200011
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 56.40646106360944
+  llm_score: 65
+  recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.70627156649644
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 55.66501333601333
   llm_score: 70
-  recency_score: 0.5907651822267828
+  recency_score: 6.822586684086551
   length_score: 100
   category_score: 0
   rank: 9
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 49.78278215963527
-  llm_score: 60
-  recency_score: 8.588084037629146
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 42.9262711504994
+  llm_score: 50
+  recency_score: 4.020762478246048
   length_score: 100
   category_score: 0
   rank: 10

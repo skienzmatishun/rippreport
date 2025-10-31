@@ -14,22 +14,14 @@ authors:
 - admin
 alttags: New candidates taking root in Fauxhope elections, casting a ballot into a marked voting box
 related_articles:
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 78.61133993770366
-  llm_score: 85
-  recency_score: 95.97370959507373
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 77.82405506499252
-  llm_score: 85
+  score: 83.97790121883867
+  llm_score: 95
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
   score: 77.74767328170657
@@ -37,60 +29,68 @@ related_articles:
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 67.35275707376171
+  llm_score: 90
+  recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 66.30023292620773
-  llm_score: 85
-  recency_score: 15.95151402035018
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 62.467837849185024
-  llm_score: 75
-  recency_score: 31.040946019702552
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 62.22382661347941
-  llm_score: 70
-  recency_score: 49.45487298761609
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 60.06701658482296
-  llm_score: 75
-  recency_score: 15.435607801349112
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 57.80515716097216
-  llm_score: 75
-  recency_score: 0.7335215463189301
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: all-mouth
   title: ALL MOUTH
-  score: 56.40622156031888
-  llm_score: 70
+  score: 65.63699079108811
+  llm_score: 85
   recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 64.3050364998527
+  llm_score: 85
+  recency_score: 2.9827372490425272
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 64.23654558178174
+  llm_score: 85
+  recency_score: 2.537546281581227
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-candidates-⁠-excess-baggage
+  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
+  score: 63.93243072483392
+  llm_score: 85
+  recency_score: 0.5607997114203755
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: rotten
+  title: ROTTEN
+  score: 63.90641318335426
+  llm_score: 85
+  recency_score: 0.39168569180259616
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 63.858657923701394
+  llm_score: 85
+  recency_score: 0.08127650405896042
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 54.623276072703234
-  llm_score: 70
-  recency_score: 0.051294472570959884
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 57.72370125117081
+  llm_score: 75
+  recency_score: 0.20405813261015537
   length_score: 100
   category_score: 0
   rank: 10

@@ -12,83 +12,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 68.80841323901166
-  llm_score: 85
-  recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 64.2717235530524
-  llm_score: 70
+  score: 79.65633893766778
+  llm_score: 95
   recency_score: 62.766203094840556
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 74.45938937267742
+  llm_score: 95
+  recency_score: 28.986030922403184
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: fauxhope-or-fairhope
-  title: FAUXHOPE OR FAIRHOPE
-  score: 62.54301607841325
-  llm_score: 70
-  recency_score: 51.52960450968603
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 73.39724763043128
+  llm_score: 85
+  recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
   rank: 3
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 62.22382661347941
-  llm_score: 70
-  recency_score: 49.45487298761609
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 70.52444291094135
+  llm_score: 90
+  recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
   rank: 4
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 61.49036339558599
-  llm_score: 70
-  recency_score: 44.68736207130882
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 59.41715388311664
-  llm_score: 70
+  score: 68.64792311388587
+  llm_score: 85
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 58.37688016841482
-  llm_score: 75
-  recency_score: 4.449721094696223
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 58.23653827881168
-  llm_score: 70
-  recency_score: 23.53749881227582
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 58.08123162567041
-  llm_score: 70
+  score: 67.31200085643964
+  llm_score: 85
   recency_score: 22.528005566857594
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 64.71498663193891
+  llm_score: 85
+  recency_score: 5.647413107602894
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 64.53072632226097
+  llm_score: 85
+  recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 63.84972897065273
+  llm_score: 85
+  recency_score: 0.02323830924263325
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 55.79948633835545
-  llm_score: 70
-  recency_score: 7.696661199310357
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 61.31346135573476
+  llm_score: 75
+  recency_score: 23.53749881227582
   length_score: 100
   category_score: 0
   rank: 10

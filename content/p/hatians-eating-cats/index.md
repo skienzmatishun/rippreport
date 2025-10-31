@@ -9,83 +9,83 @@ authors:
 rumble: v5dblkt
 alttags: Provocative illustration depicting a muscular figure labeled Haiti feeding a kitten to a plate, referencing false claims...
 related_articles:
-- slug: bsp-128
-  title: Big News
-  score: 74.53912483255138
-  llm_score: 100
-  recency_score: 9.504311411583915
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 67.5086928128038
+  llm_score: 75
+  recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 69.42107873668242
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 59.87151667490806
   llm_score: 70
-  recency_score: 96.23701178843567
+  recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
   rank: 2
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 68.86394221225771
-  llm_score: 70
-  recency_score: 92.61562437967505
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 58.825624805547456
+  llm_score: 75
+  recency_score: 7.366561236058354
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 67.03987280248901
-  llm_score: 70
-  recency_score: 80.75917321617852
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 57.85255843436693
+  llm_score: 75
+  recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 54.28428313803144
-  llm_score: 65
-  recency_score: 17.84784039720432
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 56.556249904565405
+  llm_score: 50
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 47.607203478752226
-  llm_score: 50
-  recency_score: 34.44682261188939
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 52.870609524559015
+  llm_score: 65
+  recency_score: 8.658961909633518
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 44.82876762909014
-  llm_score: 45
-  recency_score: 36.386989589085836
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 45.053513907262214
+  llm_score: 50
+  recency_score: 17.84784039720432
   length_score: 100
   category_score: 0
   rank: 7
-- slug: im-back-2
-  title: I'M BACK
-  score: 27.702832517537246
-  llm_score: 20
-  recency_score: 25.06841136399206
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 43.734280647344804
+  llm_score: 50
+  recency_score: 9.272824207741175
   length_score: 100
   category_score: 0
   rank: 8
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 14.495099918656027
-  llm_score: 0
-  recency_score: 19.21814947126418
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 30.802473337805928
+  llm_score: 30
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 9
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 11.636595035612325
-  llm_score: 0
-  recency_score: 0.6378677314801207
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 30.419214852114322
+  llm_score: 30
+  recency_score: 2.7248965387430797
   length_score: 100
   category_score: 0
   rank: 10

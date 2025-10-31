@@ -10,36 +10,20 @@ alttags: Concerned parent, child in distress, and Baldwin County DHR building re
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 78.69246713027063
-  llm_score: 85
+  score: 84.84631328411679
+  llm_score: 95
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 64.27348602373179
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 63.86516893620397
   llm_score: 85
-  recency_score: 2.7776591542565425
+  recency_score: 0.12359808532571412
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 64.25292330132548
-  llm_score: 85
-  recency_score: 2.644001458615577
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 63.85462793976516
-  llm_score: 85
-  recency_score: 0.055081608473428086
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: exposure
   title: EXPOSURE
   score: 63.84966105990167
@@ -47,44 +31,60 @@ related_articles:
   recency_score: 0.022796889360761432
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 58.11963986988564
+  llm_score: 75
+  recency_score: 2.7776591542565425
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 58.099077147479335
+  llm_score: 75
+  recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 63.84961334344892
-  llm_score: 85
-  recency_score: 0.02248673241788482
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 54.63224024886168
-  llm_score: 70
-  recency_score: 0.10956161760080699
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 54.62353982985229
-  llm_score: 70
+  score: 57.70046290677537
+  llm_score: 75
   recency_score: 0.053008894039832936
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 55.30371846928615
+  llm_score: 70
+  recency_score: 4.474170050359933
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 54.79916215968157
+  llm_score: 70
+  recency_score: 1.1945540379301263
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 51.57874406573889
-  llm_score: 65
-  recency_score: 0.2618364273027374
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 48.94893034754481
+  llm_score: 60
+  recency_score: 3.168047259041166
   length_score: 100
   category_score: 0
   rank: 9
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 51.29137039990347
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 48.47631703041705
   llm_score: 60
-  recency_score: 18.393907599372476
+  recency_score: 0.0960606977107225
   length_score: 100
   category_score: 0
   rank: 10

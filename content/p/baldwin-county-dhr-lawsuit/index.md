@@ -14,12 +14,44 @@ alttags: Baldwin County Family Court Reform Project logo; highlights concerns ab
 related_articles:
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 78.69246713027063
-  llm_score: 85
+  score: 84.84631328411679
+  llm_score: 95
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 77.0935091220369
+  llm_score: 75
+  recency_score: 51.107809293239825
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: exposure
+  title: EXPOSURE
+  score: 70.00338449761354
+  llm_score: 95
+  recency_score: 0.02199923448795886
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 64.25853382615973
+  llm_score: 85
+  recency_score: 2.6804698700381855
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 63.864503605114486
+  llm_score: 85
+  recency_score: 0.11927343324406557
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: divorce-corp
   title: DIVORCE CORP
   score: 63.85402371263146
@@ -27,68 +59,36 @@ related_articles:
   recency_score: 0.051154132104394186
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 60.16202374200206
-  llm_score: 79
-  recency_score: 0.05315432301332231
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: moma-bear
-  title: MOTHER BEAR
-  score: 57.34620176277843
-  llm_score: 70
-  recency_score: 17.750311458059702
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 55.0277645953905
-  llm_score: 70
-  recency_score: 2.6804698700381855
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 55.00792135516731
-  llm_score: 70
+  score: 58.08484443209039
+  llm_score: 75
   recency_score: 2.5514888085874565
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 54.65425767167393
-  llm_score: 70
-  recency_score: 0.2526748658804697
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: catalyst-judges
-  title: CATALYST JUDGES
-  score: 54.63165047637279
-  llm_score: 70
-  recency_score: 0.10572809642305193
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 57.86965492712688
+  llm_score: 75
+  recency_score: 1.152757026324628
   length_score: 100
   category_score: 0
   rank: 8
-- slug: exposure
-  title: EXPOSURE
-  score: 54.61876911299816
-  llm_score: 70
-  recency_score: 0.02199923448795886
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 57.7004852804636
+  llm_score: 75
+  recency_score: 0.05315432301332231
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 54.61872306612675
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 55.27963391792519
   llm_score: 70
-  recency_score: 0.021699929823781466
+  recency_score: 4.317620466513645
   length_score: 100
   category_score: 0
   rank: 10

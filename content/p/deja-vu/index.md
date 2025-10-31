@@ -24,83 +24,83 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 63.87171626574115
-  llm_score: 85
-  recency_score: 0.1661557273173934
+- slug: honeymoon
+  title: HONEYMOON
+  score: 70.20282756098601
+  llm_score: 95
+  recency_score: 1.3183791464089836
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 57.70972669369666
-  llm_score: 75
-  recency_score: 0.11322350902818136
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 70.11662125034253
+  llm_score: 95
+  recency_score: 0.7580381272263648
   length_score: 100
   category_score: 0
   rank: 2
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 57.703301010724935
-  llm_score: 75
-  recency_score: 0.07145656971196458
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 70.10366072306286
+  llm_score: 95
+  recency_score: 0.6737946999085467
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 57.70309218876347
-  llm_score: 75
-  recency_score: 0.07009922696246068
+- slug: catalyst-central
+  title: CATALYST CENTRAL
+  score: 70.06816595221983
+  llm_score: 95
+  recency_score: 0.44307868942877254
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 54.69165418040463
-  llm_score: 70
-  recency_score: 0.4957521726300432
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 67.0387435709924
+  llm_score: 90
+  recency_score: 0.7518332114504676
   length_score: 100
   category_score: 0
   rank: 5
-- slug: happy-days-are-here-again
-  title: HAPPY DAYS ARE HERE AGAIN
-  score: 54.61982365635994
-  llm_score: 70
-  recency_score: 0.028853766339517067
+- slug: catalyst-aka-scott-boone-consulting
+  title: CATALYST AKA SCOTT BOONE CONSULTING
+  score: 67.03654644221137
+  llm_score: 90
+  recency_score: 0.7375518743738054
   length_score: 100
   category_score: 0
   rank: 6
-- slug: s-o-s
-  title: S.O.S
-  score: 51.77950057663793
-  llm_score: 65
-  recency_score: 1.566753748146461
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 67.01371520963515
+  llm_score: 90
+  recency_score: 0.5891488626284136
   length_score: 100
   category_score: 0
   rank: 7
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 51.72173627173387
-  llm_score: 65
+  score: 66.49096704096463
+  llm_score: 89
   recency_score: 1.1912857662700727
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 50.40966294801781
-  llm_score: 63
-  recency_score: 0.6628091621157032
+- slug: bit-dogs-bark-first
+  title: BIT DOGS BARK FIRST
+  score: 63.84935788117408
+  llm_score: 85
+  recency_score: 0.020826227631410843
   length_score: 100
   category_score: 0
   rank: 9
-- slug: victory
-  title: VICTORY
-  score: 11.555133461140711
-  llm_score: 0
-  recency_score: 0.10836749741462423
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 54.83022393784888
+  llm_score: 70
+  recency_score: 1.3964555960176444
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,83 +8,83 @@ authors:
 - admin
 rumble: v5wt0e5
 related_articles:
-- slug: absolute-power
-  title: ABSOLUTE POWER
-  score: 57.90191438382385
-  llm_score: 75
-  recency_score: 1.3624434948549364
+- slug: hanky-panky-at-the-po-po
+  title: Hanky Panky at the Po Po
+  score: 72.57582522211587
+  llm_score: 65
+  recency_score: 61.74286394375304
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: fly-on-the-wall
-  title: FLY ON THE WALL
-  score: 57.883271169749165
-  llm_score: 75
-  recency_score: 1.2412626033694756
+- slug: the-180
+  title: THE 180
+  score: 59.81200014486737
+  llm_score: 60
+  recency_score: 73.7780009416378
   length_score: 100
   category_score: 0
   rank: 2
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 57.86112118651371
+- slug: fear
+  title: FEAR
+  score: 57.72620430432471
   llm_score: 75
-  recency_score: 1.0972877123390103
+  recency_score: 0.2203279781105022
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 57.85211999211806
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 57.702772025156335
   llm_score: 75
-  recency_score: 1.0387799487673255
+  recency_score: 0.06801816351605912
   length_score: 100
   category_score: 0
   rank: 4
-- slug: consequences
-  title: CONSEQUENCES
-  score: 57.733145831902554
-  llm_score: 75
-  recency_score: 0.265447907366482
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 57.44147717411129
+  llm_score: 50
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-busted
-  title: CATALYST BUSTED
-  score: 57.71822269144121
-  llm_score: 75
-  recency_score: 0.16844749436778167
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 52.371411863225255
+  llm_score: 60
+  recency_score: 25.414177110964058
   length_score: 100
   category_score: 0
   rank: 6
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 57.70318119373316
-  llm_score: 75
-  recency_score: 0.07067775926541446
+- slug: read-and-listen
+  title: READ and LISTEN
+  score: 51.6355254713575
+  llm_score: 65
+  recency_score: 0.6309155638236493
   length_score: 100
   category_score: 0
   rank: 7
-- slug: pay-off-and-election-fraud
-  title: PAY OFF AND ELECTION FRAUD
-  score: 57.69594207166837
-  llm_score: 75
-  recency_score: 0.023623465844288906
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 48.763293765980734
+  llm_score: 60
+  recency_score: 1.961409478874682
   length_score: 100
   category_score: 0
   rank: 8
 - slug: big-mules
   title: Big Mules
-  score: 14.81053151049305
-  llm_score: 0
+  score: 45.57976227972383
+  llm_score: 50
   recency_score: 21.268454818204823
   length_score: 100
   category_score: 0
   rank: 9
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 11.630854868925635
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 14.61070819829577
   llm_score: 0
-  recency_score: 0.6005566480166232
+  recency_score: 19.9696032889225
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,83 +8,83 @@ authors:
 - admin
 rumble: v5rjhyn
 related_articles:
-- slug: bad-faith
-  title: Bad Faith
-  score: 57.95996289850357
+- slug: the-180
+  title: THE 180
+  score: 66.47446719583172
   llm_score: 70
-  recency_score: 21.73975884027314
+  recency_score: 77.0840367729061
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 57.32384867816386
-  llm_score: 70
-  recency_score: 17.605016408065044
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 62.09102604302952
+  llm_score: 75
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 56.49160331244061
-  llm_score: 70
-  recency_score: 12.195421530863895
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 61.23112943450557
+  llm_score: 60
+  recency_score: 83.00234132428609
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 55.50590698221668
-  llm_score: 70
-  recency_score: 5.78839538440832
+- slug: backstory-155
+  title: What the hell is ESG?
+  score: 60.97335453106766
+  llm_score: 75
+  recency_score: 21.326804451939722
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 55.324778526603595
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 58.97809728788549
   llm_score: 70
-  recency_score: 4.6110604229232885
+  recency_score: 28.357632371255608
   length_score: 100
   category_score: 0
   rank: 5
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 55.222213334855745
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 55.25463829497519
   llm_score: 70
-  recency_score: 3.94438667656226
+  recency_score: 4.155148917338647
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 55.17740282283799
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 54.74839648328332
   llm_score: 70
-  recency_score: 3.653118348446851
+  recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 55.16975643537231
-  llm_score: 70
-  recency_score: 3.6034168299198996
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 43.787728645674875
+  llm_score: 30
+  recency_score: 89.62023619688662
   length_score: 100
   category_score: 0
   rank: 8
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 55.01224678535603
-  llm_score: 70
-  recency_score: 2.5796041048141145
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 43.41340632605753
+  llm_score: 50
+  recency_score: 7.1871411193739325
   length_score: 100
   category_score: 0
   rank: 9
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 12.22303401456865
-  llm_score: 0
-  recency_score: 4.449721094696223
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 43.27103506551096
+  llm_score: 51
+  recency_score: 2.2617279258211895
   length_score: 100
   category_score: 0
   rank: 10

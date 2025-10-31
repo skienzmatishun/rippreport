@@ -18,81 +18,81 @@ authors:
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 68.76631729787792
-  llm_score: 75
+  score: 74.92016345172406
+  llm_score: 85
   recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 1
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 67.39852241830512
-  llm_score: 85
-  recency_score: 23.090395718983192
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 74.08647490905439
+  llm_score: 90
+  recency_score: 46.562086908853416
   length_score: 100
   category_score: 0
   rank: 2
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 65.35309269063613
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 71.92728932846137
   llm_score: 85
-  recency_score: 9.795102489134761
+  recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
   rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 63.351991402637594
-  llm_score: 75
-  recency_score: 36.787944117144235
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 71.4964003657282
+  llm_score: 85
+  recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
   rank: 4
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 60.3203645123657
-  llm_score: 75
-  recency_score: 17.082369330376963
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 59.6960404997282
-  llm_score: 75
+  score: 68.92680973049742
+  llm_score: 90
   recency_score: 13.024263248233176
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 68.49323488700294
+  llm_score: 90
+  recency_score: 10.20602676551906
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 58.84857971310886
-  llm_score: 70
-  recency_score: 27.51576813520753
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 68.45080080366054
+  llm_score: 90
+  recency_score: 9.930205223793392
   length_score: 100
   category_score: 0
   rank: 7
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 58.53304055999806
-  llm_score: 75
-  recency_score: 5.464763639987247
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 67.58188901760852
+  llm_score: 90
+  recency_score: 4.282278614455312
   length_score: 100
   category_score: 0
   rank: 8
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 57.75207377712592
-  llm_score: 75
-  recency_score: 0.3884795513184073
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 67.48818313491165
+  llm_score: 90
+  recency_score: 3.6731903769256515
   length_score: 100
   category_score: 0
   rank: 9
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 53.06618541904515
-  llm_score: 65
-  recency_score: 9.930205223793392
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 64.38999517785442
+  llm_score: 85
+  recency_score: 3.5349686560536235
   length_score: 100
   category_score: 0
   rank: 10

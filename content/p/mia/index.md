@@ -11,36 +11,44 @@ alttags: Bald eagle in a cage with bandages, symbolizing restricted access to on
 related_articles:
 - slug: notice
   title: 'NOTICE:'
-  score: 69.13644528365712
-  llm_score: 75
+  score: 77.70375297596482
+  llm_score: 90
   recency_score: 74.38689434377122
-  length_score: 100
+  length_score: 94.25
   category_score: 0
   rank: 1
-- slug: im-back-2
-  title: I'M BACK
-  score: 60.48363911382725
-  llm_score: 75
-  recency_score: 18.143654239877034
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 63.911217746121075
+  llm_score: 85
+  recency_score: 0.4229153497868698
   length_score: 100
   category_score: 0
   rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 58.221451516544285
-  llm_score: 75
-  recency_score: 3.439434857537759
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 63.84897076543985
+  llm_score: 85
+  recency_score: 0.01830997535894984
   length_score: 100
   category_score: 0
   rank: 3
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 58.18103672942713
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 62.5603072174556
   llm_score: 75
-  recency_score: 3.1767387412762407
+  recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
   rank: 4
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 58.03179095908181
+  llm_score: 75
+  recency_score: 2.2066412340316854
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: m-i-a
   title: M.I.A
   score: 57.90422407618983
@@ -48,15 +56,23 @@ related_articles:
   recency_score: 1.3774564952337773
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 57.80829166964831
+  rank: 6
+- slug: exposure-2
+  title: EXPOSURE
+  score: 57.72880679482177
   llm_score: 75
-  recency_score: 0.7538958527139179
+  recency_score: 0.23724416634139747
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
+- slug: loser
+  title: LOSER
+  score: 57.7220273356617
+  llm_score: 75
+  recency_score: 0.19317768180096426
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: im-back
   title: I'M BACK
   score: 57.71766087088868
@@ -64,28 +80,12 @@ related_articles:
   recency_score: 0.1647956607763347
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 48.53256411273755
-  llm_score: 60
-  recency_score: 0.46166673279399395
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 42.32251142131608
-  llm_score: 50
-  recency_score: 0.096324238554458
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 42.31669287555888
-  llm_score: 50
-  recency_score: 0.058503691132646064
+- slug: im-back-2
+  title: I'M BACK
+  score: 57.40671603690417
+  llm_score: 70
+  recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
   rank: 10

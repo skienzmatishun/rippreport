@@ -8,83 +8,83 @@ authors:
 - admin
 rumble: v5ujhsq
 related_articles:
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 67.5256859186067
-  llm_score: 70
-  recency_score: 83.91695847094347
+- slug: the-180
+  title: THE 180
+  score: 69.23089430346714
+  llm_score: 75
+  recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 58.89522602163163
-  llm_score: 70
-  recency_score: 27.818969140605503
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 66.50730216256217
+  llm_score: 65
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 57.73000642399855
-  llm_score: 70
-  recency_score: 20.245041755990528
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 51.55822014245053
+  llm_score: 65
+  recency_score: 0.1284309259284028
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 56.327093278783714
-  llm_score: 65
-  recency_score: 31.126106312094088
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 49.44437061526547
+  llm_score: 60
+  recency_score: 6.388408999225476
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 55.79624666398249
-  llm_score: 70
-  recency_score: 7.675603315886079
+- slug: peoples-choice
+  title: PEOPLE'S CHOICE
+  score: 48.486891640119445
+  llm_score: 60
+  recency_score: 0.1647956607763347
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 52.0632740596346
-  llm_score: 65
-  recency_score: 3.4112813876248462
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 46.587533713939315
+  llm_score: 50
+  recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.617713339408645
-  llm_score: 65
-  recency_score: 0.5151367061561393
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 45.133784866418985
+  llm_score: 30
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 44.52519512949621
-  llm_score: 50
-  recency_score: 14.41376834172532
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 36.77582377297662
+  llm_score: 40
+  recency_score: 4.0428545243480185
   length_score: 100
   category_score: 0
   rank: 8
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 13.926218249298822
-  llm_score: 0
-  recency_score: 15.520418620442342
+- slug: virus-vs-catalyst
+  title: VIRUS vs. CATALYST
+  score: 33.21362948462683
+  llm_score: 35
+  recency_score: 0.8885916500743355
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 13.000663294089833
+- slug: first-congressional-district
+  title: FIRST CONGRESSIONAL DISTRICT
+  score: 11.72073477295808
   llm_score: 0
-  recency_score: 9.504311411583915
+  recency_score: 1.1847760242275227
   length_score: 100
   category_score: 0
   rank: 10

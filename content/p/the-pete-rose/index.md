@@ -8,83 +8,83 @@ authors:
 - admin
 rumble: v5f4bf1
 related_articles:
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 79.833378226299
-  llm_score: 90
-  recency_score: 83.91695847094347
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 66.34415565975934
-  llm_score: 65
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 69.42107873668242
+  llm_score: 70
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: tides-end
+  title: Tide's End
+  score: 59.0846246879228
+  llm_score: 65
+  recency_score: 49.0500604714981
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 59.71547580580702
-  llm_score: 70
-  recency_score: 33.15059273774551
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 58.724823283402316
+  llm_score: 75
+  recency_score: 6.711351342114945
   length_score: 100
   category_score: 0
   rank: 3
-- slug: im-back-2
-  title: I'M BACK
-  score: 58.326936923005945
-  llm_score: 70
-  recency_score: 24.12508999953858
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 57.58279632086507
+  llm_score: 65
+  recency_score: 39.2881760856229
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 54.18095819492904
-  llm_score: 65
-  recency_score: 17.176228267038702
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 57.11338642899012
+  llm_score: 50
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 53.24312551326668
-  llm_score: 65
-  recency_score: 11.080315836233387
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 55.70605513925352
+  llm_score: 70
+  recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
   rank: 6
-- slug: bsp-128
-  title: Big News
-  score: 52.94564081439626
+- slug: offensive
+  title: Offensive
+  score: 55.590100308057096
   llm_score: 65
-  recency_score: 9.146665293575648
+  recency_score: 26.335652002371052
   length_score: 100
   category_score: 0
   rank: 7
-- slug: bsp118
-  title: The Smokey and The Bandit Run
-  score: 52.709657649039485
+- slug: the-slap
+  title: The Slap
+  score: 52.79957892926788
   llm_score: 65
-  recency_score: 7.612774718756618
+  recency_score: 8.197263040241149
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 52.163856608463725
-  llm_score: 65
-  recency_score: 4.065067955014141
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 47.36603673743162
+  llm_score: 50
+  recency_score: 32.87923879330549
   length_score: 100
   category_score: 0
   rank: 9
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 42.076149657258426
-  llm_score: 45
-  recency_score: 18.4949727721797
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 31.742438932810693
+  llm_score: 30
+  recency_score: 11.325853063269467
   length_score: 100
   category_score: 0
   rank: 10

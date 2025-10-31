@@ -10,83 +10,83 @@ authors:
 - admin
 alttags: President Biden and Vice President Harris featured in Backstory Podcast episode discussing current events and Alabama poli...
 related_articles:
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 72.6201939216784
-  llm_score: 75
-  recency_score: 97.03126049090956
+- slug: hanky-panky-at-the-po-po
+  title: Hanky Panky at the Po Po
+  score: 49.821334853252935
+  llm_score: 30
+  recency_score: 53.838676546144015
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 72.17702386531501
-  llm_score: 75
-  recency_score: 94.15065512454748
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 45.71703220487544
+  llm_score: 50
+  recency_score: 22.160709331690267
   length_score: 100
   category_score: 0
   rank: 2
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 71.44231343775509
-  llm_score: 75
-  recency_score: 89.37503734540803
+- slug: protester-pride
+  title: PROTESTER PRIDE
+  score: 42.31962735773183
+  llm_score: 50
+  recency_score: 0.07757782525687204
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 70.5320610770075
-  llm_score: 75
-  recency_score: 83.45839700054867
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 36.20740866022587
+  llm_score: 40
+  recency_score: 0.34815629146816185
   length_score: 100
   category_score: 0
   rank: 4
-- slug: war
-  title: WAR
-  score: 66.0629162769017
-  llm_score: 65
-  recency_score: 94.40895579986105
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 32.26044069013149
+  llm_score: 30
+  recency_score: 14.692864485854656
   length_score: 100
   category_score: 0
   rank: 5
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 62.35152493865319
-  llm_score: 75
-  recency_score: 30.284912101245666
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 30.263125245481817
+  llm_score: 30
+  recency_score: 1.7103140956317624
   length_score: 100
   category_score: 0
   rank: 6
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 61.333357754516726
-  llm_score: 75
-  recency_score: 23.666825404358608
+- slug: catalyst-first-christian-church-of-hypocrites-of-baldwin-county
+  title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
+  score: 30.021866568206214
+  llm_score: 30
+  recency_score: 0.1421326933403627
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 57.982707980216034
-  llm_score: 75
-  recency_score: 1.887601871404123
+- slug: america-the-golden-door
+  title: AMERICA - THE GOLDEN DOOR
+  score: 30.020418998241546
+  llm_score: 30
+  recency_score: 0.1327234885700072
   length_score: 100
   category_score: 0
   rank: 8
-- slug: symbol
-  title: Veterans Day
-  score: 52.14862447330079
-  llm_score: 65
-  recency_score: 3.9660590764550863
+- slug: scalped
+  title: Scalped
+  score: 26.142720773044832
+  llm_score: 0
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 9
-- slug: insanity-2
-  title: INSANITY
-  score: 51.833674981528574
-  llm_score: 65
-  recency_score: 1.9188873799356607
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 24.95357186171603
+  llm_score: 0
+  recency_score: 87.19821710115417
   length_score: 100
   category_score: 0
   rank: 10

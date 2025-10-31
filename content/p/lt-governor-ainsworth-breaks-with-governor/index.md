@@ -8,6 +8,22 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: war
+  title: WAR
+  score: 81.89191754717756
+  llm_score: 90
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 78.45041308073715
+  llm_score: 85
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.01685066683008
@@ -15,76 +31,60 @@ related_articles:
   recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 75.08173238321687
-  llm_score: 79
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 72.296566926891
-  llm_score: 75
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 69.7491694818036
-  llm_score: 70
-  recency_score: 98.36960163172333
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 75.51188613771676
+  llm_score: 85
+  recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 4
-- slug: war
-  title: WAR
-  score: 66.50730216256217
-  llm_score: 65
-  recency_score: 97.29746405665401
-  length_score: 100
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 73.98557853706302
+  llm_score: 85
+  recency_score: 97.03126049090956
+  length_score: 58.5
   category_score: 0
   rank: 5
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 59.27109287614887
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 68.03321626701111
   llm_score: 75
-  recency_score: 10.262103694967568
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 55.207433402107476
-  llm_score: 70
-  recency_score: 3.848317113698496
+- slug: press-release
+  title: PRESS RELEASE
+  score: 64.58126917555808
+  llm_score: 85
+  recency_score: 4.778249641127455
   length_score: 100
   category_score: 0
   rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 54.90183394033117
-  llm_score: 70
-  recency_score: 1.8619206121525609
+- slug: offensive
+  title: Offensive
+  score: 63.59906270759578
+  llm_score: 80
+  recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
   rank: 8
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 54.720475119011596
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 54.72309860310771
   llm_score: 70
-  recency_score: 0.6830882735752963
+  recency_score: 0.700140920200011
   length_score: 100
   category_score: 0
   rank: 9
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 45.67987355678375
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 45.0013560573314
   llm_score: 50
-  recency_score: 21.919178119094283
+  recency_score: 17.508814372654022
   length_score: 100
   category_score: 0
   rank: 10

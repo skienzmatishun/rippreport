@@ -23,60 +23,44 @@ alttags: Traffic stop footage shows a man in a car and an officer; related to th
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 86.96260260570139
-  llm_score: 89
+  score: 84.50106414416294
+  llm_score: 85
   recency_score: 59.25691693705903
   length_score: 100
   category_score: 100
   rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 86.28940978606195
-  llm_score: 89
-  recency_score: 54.88116360940264
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 84.01497191635515
+  llm_score: 85
+  recency_score: 56.097317456308396
   length_score: 100
   category_score: 100
   rank: 2
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 86.17453733970292
-  llm_score: 89
-  recency_score: 54.13449270806896
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 82.80774601322032
+  llm_score: 85
+  recency_score: 48.25034908593207
   length_score: 100
   category_score: 100
   rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 83.75460031053362
-  llm_score: 93
-  recency_score: 22.404902018468416
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 77.67402517067734
+  llm_score: 75
+  recency_score: 54.88116360940264
   length_score: 100
   category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 82.04469815508408
-  llm_score: 89
-  recency_score: 27.29053800804651
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 77.31190471307676
+  llm_score: 75
+  recency_score: 52.527380634998835
   length_score: 100
   category_score: 100
   rank: 5
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 81.41804087797334
-  llm_score: 89
-  recency_score: 23.21726570682666
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 78.34162386730026
-  llm_score: 89
-  recency_score: 3.2205551374516284
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: rumors
   title: RUMORS
   score: 76.78410517549679
@@ -84,20 +68,36 @@ related_articles:
   recency_score: 9.096683640729124
   length_score: 100
   category_score: 100
-  rank: 8
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 72.31257371103135
+  rank: 6
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 76.74628346087476
   llm_score: 85
-  recency_score: 55.031729121703655
+  recency_score: 8.850842495685942
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 76.70585908271218
+  llm_score: 85
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 76.65614083810677
+  llm_score: 85
+  recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 67.40170330421113
-  llm_score: 75
-  recency_score: 63.11107147737226
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 68.24487219687568
+  llm_score: 85
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 10

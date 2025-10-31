@@ -9,62 +9,54 @@ authors:
 rumble: v59wyw1
 alttags: Kamala Harris on a Time magazine cover titled “Her Moment,” discussed in a podcast amid shifting political dynamics
 related_articles:
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 70.92490234246449
-  llm_score: 75
-  recency_score: 86.01186522601911
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 65.8261098038451
+  llm_score: 65
+  recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 60.321777968499596
-  llm_score: 70
-  recency_score: 37.09155679524731
+- slug: backstory-155
+  title: What the hell is ESG?
+  score: 61.948762045400436
+  llm_score: 75
+  recency_score: 27.666953295102704
   length_score: 100
   category_score: 0
   rank: 2
-- slug: im-back-2
-  title: I'M BACK
-  score: 58.76816867887796
-  llm_score: 70
-  recency_score: 26.993096412706674
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 57.198145248791434
+  llm_score: 65
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 3
-- slug: primary-election-may-24th
-  title: Primary Election May 24th
-  score: 56.224740073894566
-  llm_score: 70
-  recency_score: 10.460810480314583
+- slug: offensive
+  title: Offensive
+  score: 56.071761764045974
+  llm_score: 65
+  recency_score: 29.466451466298754
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 56.18985028021717
-  llm_score: 70
-  recency_score: 10.234026821411552
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 52.9728882559189
+  llm_score: 65
+  recency_score: 9.323773663472833
   length_score: 100
   category_score: 0
   rank: 5
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 55.44467911830984
-  llm_score: 70
-  recency_score: 5.390414269013892
+- slug: what-the
+  title: What the
+  score: 52.64860088239573
+  llm_score: 50
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 54.721052537912506
-  llm_score: 70
-  recency_score: 0.6868414964312073
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: backstory-153
   title: No Boomers
   score: 52.56906102389969
@@ -72,20 +64,28 @@ related_articles:
   recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 48.01408566080729
+  llm_score: 50
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 48.58677000655849
-  llm_score: 60
-  recency_score: 0.8140050426301118
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 37.629315625618595
+  llm_score: 30
+  recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
   rank: 9
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 39.639773677339925
-  llm_score: 45
-  recency_score: 2.658528902709438
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 31.518904443111253
+  llm_score: 25
+  recency_score: 29.872878880223098
   length_score: 100
   category_score: 0
   rank: 10

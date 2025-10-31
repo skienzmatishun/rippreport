@@ -10,82 +10,82 @@ alttags: Bald eagle holding a key in its beak, symbolizing blocked access to Fac
 related_articles:
 - slug: mia
   title: M.I.A.
-  score: 69.13644528365712
-  llm_score: 75
+  score: 75.29029143750327
+  llm_score: 85
   recency_score: 74.38689434377122
   length_score: 100
   category_score: 0
   rank: 1
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 58.186422119167794
-  llm_score: 75
-  recency_score: 3.2117437745905466
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 63.84824926492688
+  llm_score: 85
+  recency_score: 0.013620222024632561
   length_score: 100
   category_score: 0
   rank: 2
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 58.08592134976916
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 57.740706706832256
   llm_score: 75
-  recency_score: 2.5584887734994517
+  recency_score: 0.31459359440954926
   length_score: 100
   category_score: 0
   rank: 3
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 58.05585804477706
+- slug: loser
+  title: LOSER
+  score: 57.71441521200879
   llm_score: 75
-  recency_score: 2.363077291050805
+  recency_score: 0.14369887805702983
   length_score: 100
   category_score: 0
   rank: 4
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 58.01634197321537
+- slug: privacy-policy
+  title: Privacy Policy
+  score: 57.69280225458725
   llm_score: 75
-  recency_score: 2.10622282589978
+  recency_score: 0.003214654817000775
   length_score: 100
   category_score: 0
   rank: 5
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 56.08965399266472
-  llm_score: 70
-  recency_score: 9.582750952320627
-  length_score: 100
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 57.5726747156907
+  llm_score: 85
+  recency_score: 0.09738565198948891
+  length_score: 45.5
   category_score: 0
   rank: 6
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 54.985528536547626
-  llm_score: 69
-  recency_score: 6.405935487559478
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 54.62526388275844
+  llm_score: 70
+  recency_score: 0.06421523792975346
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 51.62473841714161
-  llm_score: 65
-  recency_score: 0.5607997114203755
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 54.622079858293866
+  llm_score: 70
+  recency_score: 0.04351907891004767
   length_score: 100
   category_score: 0
   rank: 8
-- slug: public-access
-  title: PUBLIC ACCESS
-  score: 51.55268399153538
-  llm_score: 65
-  recency_score: 0.09244594497992151
+- slug: im-back-2
+  title: I'M BACK
+  score: 50.537923216848704
+  llm_score: 60
+  recency_score: 13.496500909516493
   length_score: 100
   category_score: 0
   rank: 9
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 39.63865465082532
-  llm_score: 45
-  recency_score: 2.651255230364558
-  length_score: 100
+- slug: re-run-doing-nothing
+  title: DOING NOTHING
+  score: 33.81821811613326
+  llm_score: 50
+  recency_score: 0.1309177548661077
+  length_score: 26.25
   category_score: 0
   rank: 10
 ---

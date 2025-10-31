@@ -22,6 +22,22 @@ authors:
 - ripp-report
 alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
 related_articles:
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 81.85096315244763
+  llm_score: 90
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: war
+  title: WAR
+  score: 78.8560612226499
+  llm_score: 85
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
   score: 78.45041308073715
@@ -29,76 +45,60 @@ related_articles:
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 75.20493294865442
-  llm_score: 79
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 72.6201939216784
-  llm_score: 75
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 72.05845932263145
-  llm_score: 75
-  recency_score: 93.37998559710435
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 68.76631729787792
-  llm_score: 75
+  score: 74.92016345172406
+  llm_score: 85
   recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 65.28846200931795
+  llm_score: 85
+  recency_score: 9.375003060566598
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: war
-  title: WAR
-  score: 66.54836891495758
-  llm_score: 65
-  recency_score: 97.56439794722424
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 64.93086443667609
+  llm_score: 85
+  recency_score: 7.050618838394492
   length_score: 100
   category_score: 0
   rank: 6
-- slug: symbol
-  title: Veterans Day
-  score: 64.40817205360722
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 64.32037379125592
   llm_score: 85
-  recency_score: 3.653118348446851
+  recency_score: 3.0824296431633904
   length_score: 100
   category_score: 0
   rank: 7
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 56.11408884191944
-  llm_score: 70
-  recency_score: 9.741577472476289
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 64.25292330132548
+  llm_score: 85
+  recency_score: 2.644001458615577
   length_score: 100
   category_score: 0
   rank: 8
-- slug: insanity-2
-  title: INSANITY
-  score: 54.88730432832553
-  llm_score: 70
-  recency_score: 1.7674781341158494
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 64.24519657202792
+  llm_score: 85
+  recency_score: 2.5937777181814097
   length_score: 100
   category_score: 0
   rank: 9
-- slug: winner-and-loser
-  title: WINNER AND LOSER
-  score: 54.8604186850343
-  llm_score: 70
-  recency_score: 1.5927214527228477
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 58.08377046083298
+  llm_score: 75
+  recency_score: 2.5445079954142833
   length_score: 100
   category_score: 0
   rank: 10

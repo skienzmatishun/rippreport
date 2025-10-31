@@ -16,83 +16,83 @@ authors:
 - admin
 alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article
 related_articles:
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 94.5562499045654
-  llm_score: 93
-  recency_score: 92.61562437967505
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 94.06548962615224
+  llm_score: 95
+  recency_score: 81.42568256998956
   length_score: 100
   category_score: 100
   rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 94.36239498889194
-  llm_score: 93
-  recency_score: 91.35556742779755
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 92.71009605841155
+  llm_score: 90
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 100
   rank: 2
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 93.6494962000724
-  llm_score: 93
-  recency_score: 86.72172530047058
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 92.5162411427381
+  llm_score: 90
+  recency_score: 91.35556742779755
   length_score: 100
   category_score: 100
   rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 92.09899363135612
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 91.80334235391857
   llm_score: 90
-  recency_score: 88.64345860381478
+  recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
   rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 86.77763127299585
-  llm_score: 92
-  recency_score: 46.05460327447295
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 89.02207055443304
+  llm_score: 85
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
   rank: 5
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 86.18867677006523
-  llm_score: 93
-  recency_score: 38.22639900542388
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 87.40726894238898
+  llm_score: 85
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 100
   rank: 6
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 86.12457948476651
-  llm_score: 93
-  recency_score: 37.809766650982276
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 84.48933608660465
+  llm_score: 90
+  recency_score: 39.1806845629302
   length_score: 100
   category_score: 100
   rank: 7
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 84.80639089369278
-  llm_score: 92
+  score: 80.49869858600047
+  llm_score: 85
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
   rank: 8
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 81.41241300968157
-  llm_score: 85
-  recency_score: 39.1806845629302
-  length_score: 100
-  category_score: 100
-  rank: 9
-- slug: bcso-no-clones
-  title: BCSO - NO CLONES
-  score: 72.16482832931372
+- slug: justified
+  title: JUSTIFIED
+  score: 76.03952568262447
   llm_score: 90
-  recency_score: 34.071384140539074
+  recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 74.34620755168187
+  llm_score: 90
+  recency_score: 48.25034908593207
   length_score: 100
   category_score: 0
   rank: 10

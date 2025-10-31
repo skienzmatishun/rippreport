@@ -10,83 +10,83 @@ authors:
 - admin
 alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electronic display showing delay information, referencing...
 related_articles:
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 69.7491694818036
-  llm_score: 70
-  recency_score: 98.36960163172333
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 65.90461316878529
+  llm_score: 65
+  recency_score: 93.37998559710435
   length_score: 100
   category_score: 0
   rank: 1
-- slug: war
-  title: WAR
-  score: 69.34017350619997
-  llm_score: 70
-  recency_score: 95.71112779029973
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 64.21980217912343
+  llm_score: 85
+  recency_score: 2.4287141643022077
   length_score: 100
   category_score: 0
   rank: 2
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 69.29988683125347
-  llm_score: 70
-  recency_score: 95.44926440314748
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 65.47811954940003
-  llm_score: 65
-  recency_score: 90.60777707110016
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 58.05189568255493
-  llm_score: 75
+  score: 64.20574183640107
+  llm_score: 85
   recency_score: 2.337321936606922
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: insanity-2
-  title: INSANITY
-  score: 57.98350468832581
+  rank: 3
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 62.17413998793945
+  llm_score: 95
+  recency_score: 0.6944099216063174
+  length_score: 31.25
+  category_score: 0
+  rank: 4
+- slug: offensive
+  title: Offensive
+  score: 60.56904185756268
   llm_score: 75
-  recency_score: 1.892780474117634
+  recency_score: 18.69877207415731
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 57.80180695421012
+  llm_score: 75
+  recency_score: 0.7117452023656687
   length_score: 100
   category_score: 0
   rank: 6
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 54.96653402544408
-  llm_score: 65
-  recency_score: 22.28247116538646
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 56.24735031863081
+  llm_score: 50
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 7
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 54.72221691101637
+- slug: insanity-2
+  title: INSANITY
+  score: 54.90658161140273
   llm_score: 70
-  recency_score: 0.6944099216063174
+  recency_score: 1.892780474117634
   length_score: 100
   category_score: 0
   rank: 8
-- slug: symbol
-  title: Veterans Day
-  score: 42.909553834934606
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 42.62210685487967
   llm_score: 50
-  recency_score: 3.9120999270748786
+  recency_score: 2.043694556717812
   length_score: 100
   category_score: 0
   rank: 9
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 13.143413838412725
-  llm_score: 0
-  recency_score: 10.432189949682714
+- slug: 4-20
+  title: 4-20
+  score: 42.433957394696776
+  llm_score: 50
+  recency_score: 0.8207230655290094
   length_score: 100
   category_score: 0
   rank: 10

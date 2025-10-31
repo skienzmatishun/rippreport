@@ -9,14 +9,30 @@ authors:
 - admin
 alttags: Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation
 related_articles:
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 79.18867728610554
-  llm_score: 85
-  recency_score: 99.72640235968593
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 81.93298429957298
+  llm_score: 90
+  recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 1
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 81.89191754717756
+  llm_score: 90
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 80.55406190149016
+  llm_score: 95
+  recency_score: 99.72640235968593
+  length_score: 58.5
+  category_score: 0
+  rank: 3
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.41045617208597
@@ -24,68 +40,52 @@ related_articles:
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 72.70221506880374
-  llm_score: 75
-  recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 69.58422523948525
-  llm_score: 70
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 57.03248119850766
-  llm_score: 50
-  recency_score: 95.71112779029973
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 75.19661552948276
+  llm_score: 85
+  recency_score: 73.7780009416378
   length_score: 100
   category_score: 0
   rank: 5
-- slug: veterans-day-in-alabama
-  title: Veterans Day In Alabama
-  score: 56.15150256216426
-  llm_score: 70
-  recency_score: 9.984766654067629
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 67.75374949591121
+  llm_score: 75
+  recency_score: 65.39937172342279
   length_score: 100
   category_score: 0
   rank: 6
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 51.64071193345495
-  llm_score: 65
-  recency_score: 0.6646275674571428
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 63.85563534553332
+  llm_score: 85
+  recency_score: 0.06162974596648724
   length_score: 100
   category_score: 0
   rank: 7
-- slug: symbol
-  title: Veterans Day
-  score: 42.883740763151835
-  llm_score: 50
-  recency_score: 3.7443149604868586
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 57.94072148901291
+  llm_score: 75
+  recency_score: 1.6146896785837832
   length_score: 100
   category_score: 0
   rank: 8
-- slug: insanity-2
-  title: INSANITY
-  score: 42.58640023667271
-  llm_score: 50
-  recency_score: 1.811601538372569
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 57.72186493364423
+  llm_score: 75
+  recency_score: 0.19212206868737905
   length_score: 100
   category_score: 0
   rank: 9
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 40.66566222337535
-  llm_score: 42
-  recency_score: 21.326804451939722
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 54.97593888234327
+  llm_score: 65
+  recency_score: 22.343602735231208
   length_score: 100
   category_score: 0
   rank: 10

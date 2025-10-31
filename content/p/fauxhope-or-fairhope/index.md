@@ -19,81 +19,81 @@ alttags: Fairhope city clocks representing a challenge to the status quo in the 
 related_articles:
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 78.61133993770366
-  llm_score: 85
+  score: 84.76518609154981
+  llm_score: 95
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 71.10741801556219
-  llm_score: 75
-  recency_score: 87.19821710115417
+- slug: game-on
+  title: GAME ON
+  score: 66.92505518606018
+  llm_score: 90
+  recency_score: 0.012858709391078301
   length_score: 100
   category_score: 0
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 71.03411158468779
-  llm_score: 75
-  recency_score: 86.72172530047058
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 66.32530325206858
+  llm_score: 89
+  recency_score: 0.11447113844573364
   length_score: 100
   category_score: 0
   rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 68.76779469954123
-  llm_score: 85
-  recency_score: 31.990665547017855
+- slug: hell-yea
+  title: HELL YEA
+  score: 66.32520701763998
+  llm_score: 89
+  recency_score: 0.11384561465983976
   length_score: 100
   category_score: 0
   rank: 4
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 65.6320911034649
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 63.865273414458606
   llm_score: 85
-  recency_score: 11.608592172521774
+  recency_score: 0.12427719398082719
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 60.16664040543766
-  llm_score: 75
-  recency_score: 16.083162635344685
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 63.86410579411457
+  llm_score: 85
+  recency_score: 0.11668766174462795
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 57.80989142345718
-  llm_score: 75
-  recency_score: 0.7642942524715967
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 63.86400769628306
+  llm_score: 85
+  recency_score: 0.11605002583978188
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 54.70261219390449
-  llm_score: 70
-  recency_score: 0.5669792603791407
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 57.895691707159116
+  llm_score: 75
+  recency_score: 1.3219960965341453
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-party-before-country-or-city
-  title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
-  score: 54.62360713523085
-  llm_score: 70
-  recency_score: 0.05344637900043492
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 57.709679035719894
+  llm_score: 75
+  recency_score: 0.11291373217919946
   length_score: 100
   category_score: 0
   rank: 9
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 14.09549417834591
-  llm_score: 0
-  recency_score: 16.62071215924841
+- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+  score: 33.46263311940187
+  llm_score: 90
+  recency_score: 0.014230552224265986
   length_score: 100
   category_score: 0
   rank: 10
