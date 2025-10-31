@@ -3,7 +3,7 @@ title: CATALYST CENTRAL
 date: 2020-02-01
 thumbnail: img/catalyst-central.jpg
 categories:
-- freaky-friday
+- elections
 authors:
 - admin
 alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections

@@ -3,7 +3,7 @@ title: CATALYST CANDIDATES
 date: 2018-03-16
 thumbnail: img/catalyst.jpg
 categories:
-- freaky-friday
+- elections
 tags:
 - catalyst
 authors:

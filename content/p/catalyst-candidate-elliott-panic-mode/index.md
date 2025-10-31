@@ -3,7 +3,7 @@ title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
 date: 2018-07-12
 thumbnail: img/catalyst-candidate-elliott-panic-mode.jpg
 categories:
-- thursday-thunder
+- elections
 tags:
 - chris-elliott
 authors:

@@ -3,7 +3,7 @@ title: CATALYST TRIFECTA
 date: 2018-07-10
 thumbnail: img/catalyst.jpg
 categories:
-- terrible-tuesday
+- elections
 tags:
 - billy-jo-underwood
 - chris-elliott

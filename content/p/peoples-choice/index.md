@@ -3,7 +3,7 @@ title: PEOPLE'S CHOICE
 date: 2018-07-13
 thumbnail: img/peoples-choice.jpg
 categories:
-- Special-Report
+- elections
 authors:
 - ripp-report
 alttags: Icon depicting a central figure surrounded by a group, representing support for Senate candidate Chris Elliott

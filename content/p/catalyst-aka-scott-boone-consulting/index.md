@@ -3,7 +3,7 @@ title: CATALYST AKA SCOTT BOONE CONSULTING
 date: 2020-08-05
 thumbnail: img/catalyst-aka-scott-boone-consulting.jpg
 categories:
-- wonderful-wednesday
+- elections
 tags:
 - catalyst
 - csb

@@ -8,7 +8,7 @@ tags:
 - Matt McKenzie
 - Johnathan Armstrong
 categories:
-- monday-madness
+- elections
 authors:
 - admin
 alttags: 'Don’t delay: Baldwin County primary election reminder—all affiliations can vote tomorrow despite local apathy'

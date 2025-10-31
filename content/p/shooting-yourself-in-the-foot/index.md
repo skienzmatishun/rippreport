@@ -7,7 +7,7 @@ tags:
 - Catalyst
 - Steve Carney
 categories:
-- terrific-tuesday
+- elections
 authors:
 - admin
 alttags: Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic

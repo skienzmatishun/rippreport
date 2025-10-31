@@ -3,7 +3,7 @@ title: INSANITY
 date: 2018-10-10
 thumbnail: img/insanity.jpg
 categories:
-- wonderful-wednesday
+- alabama
 authors:
 - ripp-report
 alttags: Political cartoon depicting Kay Ivey wearing a shirt reading No Medicaid Expansion, symbolizing opposition to healthcare...
