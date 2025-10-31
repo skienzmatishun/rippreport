@@ -6,7 +6,7 @@ tags:
 - Albritton
 - Ethics Commission
 categories:
-- ethics
+- alabama
 authors:
 - admin
 alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence

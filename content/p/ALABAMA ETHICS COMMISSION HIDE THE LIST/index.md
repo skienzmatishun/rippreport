@@ -7,7 +7,7 @@ tags:
 - Mabel Amos Trust
 - Ethics Commission
 categories:
-- ethics
+- alabama
 authors:
 - admin
 related_articles:

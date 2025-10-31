@@ -3,7 +3,7 @@ title: DIRTY UNDERWEAR
 date: 2022-07-01
 thumbnail: img/dirty-underwear.png
 categories:
-- freaky-friday
+- alabama
 authors:
 - admin
 alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability

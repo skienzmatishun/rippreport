@@ -8,7 +8,7 @@ tags:
 - Alabama AG
 - Albritton
 categories:
-- ethics
+- alabama
 authors:
 - admin
 alttags: A single track in sand, symbolizing a trail of corruption stemming from misused charitable funds in Alabama

@@ -6,7 +6,7 @@ tags:
 - Alabama AG
 - Ethics Commission
 categories:
-- ethics
+- alabama
 authors:
 - ripp-report
 alttags: Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t...

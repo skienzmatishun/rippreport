@@ -7,7 +7,7 @@ tags:
 - Mabel Amos Trust
 - Albritton
 categories:
-- ethics
+- alabama
 authors:
 - admin
 alttags: Abstract mask resembling a face, overlaid with black and yellow target markings, symbolizing legal scrutiny and ongoing mo...

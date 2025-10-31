@@ -3,7 +3,7 @@ title: COURT OF PUBLIC OPINION
 date: 2021-09-04
 thumbnail: img/court-of-public-opinion.png
 categories:
-- freaky-friday
+- alabama
 authors:
 - admin
 related_articles:

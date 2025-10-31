@@ -10,7 +10,7 @@ tags:
 - Lottery
 - Marijuana
 categories:
-- other
+- alabama
 authors:
 - admin
 alttags: Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects

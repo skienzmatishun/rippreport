@@ -3,7 +3,7 @@ title: PANDEMIC CORRUPTION
 date: 2017-10-04
 thumbnail: img/pandemic-corruption.jpg
 categories:
-- wonderful-wednesday
+- alabama
 tags:
 - ethics-commission
 authors:

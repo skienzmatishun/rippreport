@@ -8,7 +8,7 @@ tags:
 - Albritton
 - Mabel Amos Trust
 categories:
-- ethics
+- alabama
 authors:
 - admin
 alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns

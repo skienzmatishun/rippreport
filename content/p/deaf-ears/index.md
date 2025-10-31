@@ -10,6 +10,7 @@ tags:
 - Ethics Commission
 categories:
 - dwtd
+- alabama
 authors:
 - admin
 alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director, hands covering ears against a wooden door background
