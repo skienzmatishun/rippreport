@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: Political figure speaks at a podium with American flags behind him, referencing a podcast about older politicians
 related_articles:
-- slug: offensive
-  title: Offensive
-  score: 71.6319657032462
-  llm_score: 75
-  recency_score: 90.60777707110016
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 68.85771163355973
-  llm_score: 75
-  recency_score: 72.57512561813819
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: tides-end
-  title: Tide's End
-  score: 65.17670177621427
-  llm_score: 75
-  recency_score: 48.648561545392695
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 63.80707186648424
-  llm_score: 70
-  recency_score: 59.74596713214747
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 63.14032693270515
-  llm_score: 60
+  score: 66.21725000962822
+  llm_score: 65
   recency_score: 20.412125062583367
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: offensive
+  title: Offensive
+  score: 64.24735031863081
+  llm_score: 63
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 63.3192500950982
+  llm_score: 66
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 61.38170191326253
+  llm_score: 63
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 59.49937955879194
+  llm_score: 63
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 63.06491441824909
-  llm_score: 75
-  recency_score: 34.921943718618955
+- slug: tides-end
+  title: Tide's End
+  score: 58.407471006983506
+  llm_score: 64
+  recency_score: 48.648561545392695
   length_score: 100
   category_score: 0
   rank: 6
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 62.61247114403176
-  llm_score: 65
-  recency_score: 71.98106243620636
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 58.14183749517216
+  llm_score: 67
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 0
   rank: 7
 - slug: he-must-go
   title: He Must Go
-  score: 56.75156956586185
-  llm_score: 65
+  score: 57.36695418124647
+  llm_score: 66
   recency_score: 33.88520217810198
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-180
-  title: THE 180
-  score: 55.645984100822766
-  llm_score: 65
-  recency_score: 26.69889665534791
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 55.3902535928687
+  llm_score: 66
+  recency_score: 21.03664835364649
   length_score: 100
   category_score: 0
   rank: 9
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 54.77486897748408
-  llm_score: 65
-  recency_score: 21.03664835364649
+- slug: the-180
+  title: THE 180
+  score: 54.41521487005354
+  llm_score: 63
+  recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 10

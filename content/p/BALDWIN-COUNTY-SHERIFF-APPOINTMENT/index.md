@@ -24,6 +24,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 90.55991952507314
+  llm_score: 85
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 90.31250161398609
@@ -31,7 +39,7 @@ related_articles:
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 89.43931806581502
@@ -39,7 +47,7 @@ related_articles:
   recency_score: 91.35556742779755
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 4
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
   score: 89.09700143880019
@@ -47,19 +55,11 @@ related_articles:
   recency_score: 89.13050935220119
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 84.406073371227
-  llm_score: 75
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 100
   rank: 5
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 82.51815357350885
-  llm_score: 89
+  score: 80.0566151119704
+  llm_score: 85
   recency_score: 30.367998227807558
   length_score: 100
   category_score: 100
@@ -72,11 +72,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 68.8493670052485
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 71.53846153846155
   llm_score: 85
-  recency_score: 32.52088553411519
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
@@ -88,11 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 62.69552085140236
   llm_score: 75
-  recency_score: 50
+  recency_score: 32.52088553411519
   length_score: 100
   category_score: 0
   rank: 10

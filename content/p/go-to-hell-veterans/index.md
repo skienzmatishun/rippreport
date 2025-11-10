@@ -30,8 +30,8 @@ alttags: Veterans in military uniform salute against a fiery red landscape, symb
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 84.92788622937071
-  llm_score: 95
+  score: 81.85096315244763
+  llm_score: 90
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
@@ -60,14 +60,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 67.21726990936716
-  llm_score: 75
-  recency_score: 61.91225441088648
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: offensive
   title: Offensive
   score: 60.298852571690105
@@ -75,12 +67,20 @@ related_articles:
   recency_score: 16.942541715985588
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
   score: 58.51707054258987
   llm_score: 75
   recency_score: 5.360958526834057
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 57.986500678597935
+  llm_score: 60
+  recency_score: 61.91225441088648
   length_score: 100
   category_score: 0
   rank: 7
@@ -92,19 +92,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 54.95393906395158
-  llm_score: 70
-  recency_score: 2.200603915685177
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
   score: 54.623276072703234
   llm_score: 70
   recency_score: 0.051294472570959884
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 48.80009291010543
+  llm_score: 60
+  recency_score: 2.200603915685177
   length_score: 100
   category_score: 0
   rank: 10

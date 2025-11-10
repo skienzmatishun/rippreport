@@ -16,19 +16,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: the-180
-  title: THE 180
-  score: 59.81200014486737
+- slug: backstory-podcast-no-187-the-pardon
+  title: The Pardon
+  score: 63.59532332795745
   llm_score: 60
-  recency_score: 73.7780009416378
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fear
-  title: FEAR
-  score: 57.72620430432471
-  llm_score: 75
-  recency_score: 0.2203279781105022
+- slug: the-180
+  title: THE 180
+  score: 62.88892322179044
+  llm_score: 65
+  recency_score: 73.7780009416378
   length_score: 100
   category_score: 0
   rank: 3
@@ -40,11 +40,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-187-the-pardon
-  title: The Pardon
-  score: 57.44147717411129
-  llm_score: 50
-  recency_score: 98.36960163172333
+- slug: fear
+  title: FEAR
+  score: 54.64928122740163
+  llm_score: 70
+  recency_score: 0.2203279781105022
   length_score: 100
   category_score: 0
   rank: 5
@@ -56,6 +56,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
+- slug: big-mules
+  title: Big Mules
+  score: 51.733608433569984
+  llm_score: 60
+  recency_score: 21.268454818204823
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: read-and-listen
   title: READ and LISTEN
   score: 51.6355254713575
@@ -63,28 +71,20 @@ related_articles:
   recency_score: 0.6309155638236493
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 48.763293765980734
-  llm_score: 60
-  recency_score: 1.961409478874682
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: big-mules
-  title: Big Mules
-  score: 45.57976227972383
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 45.37993896752655
   llm_score: 50
-  recency_score: 21.268454818204823
+  recency_score: 19.9696032889225
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 14.61070819829577
-  llm_score: 0
-  recency_score: 19.9696032889225
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 42.60944761213457
+  llm_score: 50
+  recency_score: 1.961409478874682
   length_score: 100
   category_score: 0
   rank: 10

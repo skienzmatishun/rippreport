@@ -10,46 +10,30 @@ thumbnail: img/lucky-charms.jpg
 authors:
 - admin
 related_articles:
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 74.82815254916376
-  llm_score: 95
-  recency_score: 31.3829915695644
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 76.55299634527053
+  llm_score: 90
+  recency_score: 62.594476244258324
   length_score: 100
   category_score: 0
   rank: 1
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 73.47607326834745
-  llm_score: 85
-  recency_score: 62.594476244258324
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 69.90507562608684
+  llm_score: 87
+  recency_score: 31.3829915695644
   length_score: 100
   category_score: 0
   rank: 2
 - slug: surrender
   title: SURRENDER
-  score: 71.85822021204905
-  llm_score: 90
+  score: 66.3197586735875
+  llm_score: 81
   recency_score: 32.0784313783187
   length_score: 100
   category_score: 0
   rank: 3
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 67.88988499740667
-  llm_score: 90
-  recency_score: 6.284252483143263
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: barstool
-  title: BARSTOOL
-  score: 67.1654403482502
-  llm_score: 90
-  recency_score: 1.5753622636262385
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
   score: 66.2734857365244
@@ -57,15 +41,15 @@ related_articles:
   recency_score: 15.777657287408536
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 64.90444520326665
-  llm_score: 85
-  recency_score: 6.878893821233162
+  rank: 4
+- slug: barstool
+  title: BARSTOOL
+  score: 65.31928650209636
+  llm_score: 87
+  recency_score: 1.5753622636262385
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: where-is-justice
   title: WHERE IS JUSTICE?
   score: 64.83168238270147
@@ -73,20 +57,36 @@ related_articles:
   recency_score: 6.405935487559478
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 62.442906741728194
+  llm_score: 81
+  recency_score: 6.878893821233162
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: one-woman-2
   title: ONE WOMAN
-  score: 64.2137102227996
-  llm_score: 85
+  score: 61.752171761261145
+  llm_score: 81
   recency_score: 2.3891164481973193
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: one-woman
   title: ONE WOMAN
-  score: 58.04797650641217
-  llm_score: 75
+  score: 61.74028419871986
+  llm_score: 81
   recency_score: 2.3118472916789923
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 61.736038843560515
+  llm_score: 80
+  recency_score: 6.284252483143263
   length_score: 100
   category_score: 0
   rank: 10

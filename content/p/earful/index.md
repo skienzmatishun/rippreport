@@ -9,82 +9,82 @@ authors:
 - admin
 alttags: 'Podcast artwork: stylized ear graphic representing the Verbal Lynching in Alabama podcast about Murray Lawrence Jr.s wr...'
 related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 89.23076923076924
-  llm_score: 95
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 79.80171196773843
+  llm_score: 87
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 78.76923076923077
+  llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 100
-  rank: 1
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 84.92788622937071
-  llm_score: 95
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
   rank: 2
 - slug: advocates
   title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 84.6042592345833
-  llm_score: 95
+  score: 73.52733615766023
+  llm_score: 77
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 3
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 83.07692307692308
-  llm_score: 85
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 73.23076923076924
+  llm_score: 69
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 83.07692307692308
-  llm_score: 85
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 73.23076923076924
+  llm_score: 69
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 5
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 81.64786581389228
-  llm_score: 90
-  recency_score: 95.71112779029973
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 81.5674026873913
-  llm_score: 90
-  recency_score: 95.18811746804333
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 76.92307692307693
-  llm_score: 75
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 72.61538461538463
+  llm_score: 68
   recency_score: 50
   length_score: 100
   category_score: 100
+  rank: 6
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 68.92788622937071
+  llm_score: 69
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 68.64432576431437
+  llm_score: 69
+  recency_score: 95.18811746804333
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 71.53846153846155
-  llm_score: 85
+  score: 62.923076923076934
+  llm_score: 71
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 71.53846153846155
-  llm_score: 85
+  score: 62.30769230769232
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0

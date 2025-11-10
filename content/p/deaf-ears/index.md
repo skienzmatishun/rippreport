@@ -15,54 +15,38 @@ authors:
 - admin
 alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director, hands covering ears against a wooden door background
 related_articles:
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 83.3418038923801
-  llm_score: 95
-  recency_score: 86.72172530047058
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 80.15384615384616
+  llm_score: 99
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 72.26488081545702
+  llm_score: 77
+  recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
   rank: 2
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 70.70641065841413
-  llm_score: 89
+  score: 67.01410296610644
+  llm_score: 83
   recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 3
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 67.32150934708271
-  llm_score: 85
+  score: 65.47535550092886
+  llm_score: 82
   recency_score: 22.589810756037526
   length_score: 100
   category_score: 0
   rank: 4
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 67.1999079212843
-  llm_score: 85
-  recency_score: 21.799401488347854
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 65.46879139292679
-  llm_score: 85
-  recency_score: 10.547144054024043
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 65.08670999959843
@@ -70,27 +54,43 @@ related_articles:
   recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 64.12298484436121
+  llm_score: 80
+  recency_score: 21.799401488347854
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 61.000433168963966
-  llm_score: 75
+  score: 62.84658701511781
+  llm_score: 78
   recency_score: 21.50281559826569
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 58.974327106727735
-  llm_score: 75
+  score: 62.05125018365081
+  llm_score: 80
   recency_score: 8.333126193730163
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 61.16109908523448
+  llm_score: 78
+  recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 57.739657447253194
-  llm_score: 75
+  score: 58.97042667802242
+  llm_score: 77
   recency_score: 0.3077734071456741
   length_score: 100
   category_score: 0

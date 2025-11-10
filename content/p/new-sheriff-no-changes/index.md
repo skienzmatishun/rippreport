@@ -16,14 +16,6 @@ authors:
 - admin
 alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article
 related_articles:
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 94.06548962615224
-  llm_score: 95
-  recency_score: 81.42568256998956
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 92.71009605841155
@@ -31,7 +23,7 @@ related_articles:
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
   score: 92.5162411427381
@@ -39,12 +31,20 @@ related_articles:
   recency_score: 91.35556742779755
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
   score: 91.80334235391857
   llm_score: 90
   recency_score: 86.72172530047058
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 90.98856654922918
+  llm_score: 90
+  recency_score: 81.42568256998956
   length_score: 100
   category_score: 100
   rank: 4
@@ -64,6 +64,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 6
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 86.65254473984662
+  llm_score: 95
+  recency_score: 33.241540809002984
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 84.48933608660465
@@ -71,28 +79,20 @@ related_articles:
   recency_score: 39.1806845629302
   length_score: 100
   category_score: 100
-  rank: 7
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 80.49869858600047
-  llm_score: 85
-  recency_score: 33.241540809002984
-  length_score: 100
-  category_score: 100
   rank: 8
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 77.42313062860494
+  llm_score: 95
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: justified
   title: JUSTIFIED
   score: 76.03952568262447
   llm_score: 90
   recency_score: 59.25691693705903
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 74.34620755168187
-  llm_score: 90
-  recency_score: 48.25034908593207
   length_score: 100
   category_score: 0
   rank: 10

@@ -14,22 +14,14 @@ authors:
 - admin
 alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest First” in City Council District 6
 related_articles:
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 63.876366069097756
+- slug: m-i-a
+  title: M.I.A
+  score: 63.962456023507336
   llm_score: 85
-  recency_score: 0.19637944913529695
+  recency_score: 0.7559641527975924
   length_score: 100
   category_score: 0
   rank: 1
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 63.85183420097349
-  llm_score: 85
-  recency_score: 0.03692230632762536
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
   score: 63.847755858049915
@@ -37,15 +29,7 @@ related_articles:
   recency_score: 0.010413077324349426
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: m-i-a
-  title: M.I.A
-  score: 57.80860986966118
-  llm_score: 75
-  recency_score: 0.7559641527975924
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 2
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
   score: 57.79455808730111
@@ -53,7 +37,7 @@ related_articles:
   recency_score: 0.6646275674571428
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: rotten
   title: ROTTEN
   score: 57.74690733822277
@@ -61,15 +45,23 @@ related_articles:
   recency_score: 0.35489769844789276
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 57.72021237521676
+  rank: 4
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 57.7225199152516
   llm_score: 75
-  recency_score: 0.18138043890884648
+  recency_score: 0.19637944913529695
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 57.69798804712734
+  llm_score: 75
+  recency_score: 0.03692230632762536
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: game-on
   title: GAME ON
   score: 57.69402798277187
@@ -77,12 +69,20 @@ related_articles:
   recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: disposal
   title: DISPOSAL
   score: 51.56959812556867
   llm_score: 65
   recency_score: 0.20238781619630178
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 51.5663662213706
+  llm_score: 65
+  recency_score: 0.18138043890884648
   length_score: 100
   category_score: 0
   rank: 9

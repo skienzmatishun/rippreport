@@ -18,80 +18,80 @@ alttags: Jail cell bars viewed from within, referencing Baldwin County’s histo
 related_articles:
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 90.31250161398609
-  llm_score: 85
+  score: 87.235578537063
+  llm_score: 80
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
   rank: 1
 - slug: rumors
   title: RUMORS
-  score: 84.19960985486986
-  llm_score: 75
+  score: 85.43037908563909
+  llm_score: 77
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 100
   rank: 2
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 78.32509731124254
-  llm_score: 85
-  recency_score: 19.113132523076512
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 78.20670496957217
-  llm_score: 85
-  recency_score: 18.34358230221904
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 77.68252109190303
-  llm_score: 85
-  recency_score: 14.93638709736966
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 76.30238390820936
-  llm_score: 85
-  recency_score: 5.965495403360867
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 75.6964747904894
-  llm_score: 90
-  recency_score: 57.02708613818104
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 71.82307073105022
-  llm_score: 75
+  score: 72.43845534643484
+  llm_score: 76
   recency_score: 16.84995975182637
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 3
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 72.1712511573964
+  llm_score: 75
+  recency_score: 19.113132523076512
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 72.05285881572603
+  llm_score: 75
+  recency_score: 18.34358230221904
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 70.29790570728765
+  llm_score: 73
+  recency_score: 14.93638709736966
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 69.5331531389786
+  llm_score: 74
+  recency_score: 5.965495403360867
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 68.60861826520947
-  llm_score: 85
+  score: 66.76246441905562
+  llm_score: 82
   recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 66.46570555972018
+  llm_score: 75
+  recency_score: 57.02708613818104
   length_score: 100
   category_score: 0
   rank: 9
 - slug: justified
   title: JUSTIFIED
-  score: 65.20782192241323
-  llm_score: 85
+  score: 60.90012961472093
+  llm_score: 78
   recency_score: 8.850842495685942
   length_score: 100
   category_score: 0

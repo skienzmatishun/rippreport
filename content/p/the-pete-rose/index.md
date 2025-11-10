@@ -10,16 +10,16 @@ rumble: v5f4bf1
 related_articles:
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 69.42107873668242
-  llm_score: 70
+  score: 66.34415565975934
+  llm_score: 65
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
 - slug: tides-end
   title: Tide's End
-  score: 59.0846246879228
-  llm_score: 65
+  score: 65.23847084176896
+  llm_score: 75
   recency_score: 49.0500604714981
   length_score: 100
   category_score: 0
@@ -48,14 +48,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 55.70605513925352
-  llm_score: 70
-  recency_score: 7.089358405147809
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: offensive
   title: Offensive
   score: 55.590100308057096
@@ -63,12 +55,20 @@ related_articles:
   recency_score: 26.335652002371052
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: the-slap
-  title: The Slap
-  score: 52.79957892926788
+  rank: 6
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 53.28090047127223
   llm_score: 65
-  recency_score: 8.197263040241149
+  recency_score: 11.325853063269467
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 49.55220898540737
+  llm_score: 60
+  recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
   rank: 8
@@ -80,11 +80,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 31.742438932810693
-  llm_score: 30
-  recency_score: 11.325853063269467
+- slug: the-slap
+  title: The Slap
+  score: 43.56880969849865
+  llm_score: 50
+  recency_score: 8.197263040241149
   length_score: 100
   category_score: 0
   rank: 10

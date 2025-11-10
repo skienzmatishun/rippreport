@@ -17,14 +17,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 78.77768055684865
-  llm_score: 90
-  recency_score: 2.0549236195161336
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 77.68882535601266
@@ -32,20 +24,28 @@ related_articles:
   recency_score: 14.977364814082216
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 77.60820188661911
+  rank: 2
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 75.70075747992557
   llm_score: 85
-  recency_score: 14.453312263024177
+  recency_score: 2.0549236195161336
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
   score: 75.39597613406688
   llm_score: 85
   recency_score: 0.07384487143466474
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 71.45435573277297
+  llm_score: 75
+  recency_score: 14.453312263024177
   length_score: 100
   category_score: 100
   rank: 5

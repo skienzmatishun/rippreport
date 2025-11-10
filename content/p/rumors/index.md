@@ -24,74 +24,74 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 84.19960985486986
-  llm_score: 75
-  recency_score: 97.29746405665401
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 88.0629162769017
+  llm_score: 82
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 100
   rank: 2
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 83.7552239692094
-  llm_score: 75
-  recency_score: 94.40895579986105
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85.43037908563909
+  llm_score: 77
+  recency_score: 97.29746405665401
   length_score: 100
   category_score: 100
   rank: 3
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 81.01157512045806
-  llm_score: 90
+  score: 77.31926742815037
+  llm_score: 84
   recency_score: 16.575238282977313
   length_score: 100
   category_score: 100
   rank: 4
 - slug: non-lethal
   title: NON-LETHAL
-  score: 78.285091375761
-  llm_score: 85
+  score: 70.285091375761
+  llm_score: 72
   recency_score: 18.853093942446446
   length_score: 100
   category_score: 100
   rank: 5
-- slug: cover-up
-  title: COVER UP
-  score: 76.31415369217888
-  llm_score: 89
-  recency_score: 65.04199899916262
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 76.16969161537476
-  llm_score: 85
+  score: 69.40046084614399
+  llm_score: 74
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 100
+  rank: 6
+- slug: cover-up
+  title: COVER UP
+  score: 66.46799984602502
+  llm_score: 73
+  recency_score: 65.04199899916262
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: justified
   title: JUSTIFIED
-  score: 68.32256671395834
-  llm_score: 90
+  score: 62.168720560112185
+  llm_score: 80
   recency_score: 9.096683640729124
   length_score: 100
   category_score: 0
   rank: 8
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 64.72938684839555
-  llm_score: 85
+  score: 57.960156079164776
+  llm_score: 74
   recency_score: 5.741014514570984
   length_score: 100
   category_score: 0
   rank: 9
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 55.456117483074976
-  llm_score: 70
+  score: 56.07150209845959
+  llm_score: 71
   recency_score: 5.464763639987247
   length_score: 100
   category_score: 0

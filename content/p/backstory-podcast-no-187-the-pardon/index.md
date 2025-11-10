@@ -8,6 +8,14 @@ authors:
 - admin
 rumble: v5ujhsq
 related_articles:
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 72.66114831640833
+  llm_score: 75
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: the-180
   title: THE 180
   score: 69.23089430346714
@@ -15,39 +23,15 @@ related_articles:
   recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 66.50730216256217
-  llm_score: 65
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
   rank: 2
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 51.55822014245053
-  llm_score: 65
-  recency_score: 0.1284309259284028
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 57.44147717411129
+  llm_score: 50
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bsp118
-  title: The Smokey and The Bandit Run
-  score: 49.44437061526547
-  llm_score: 60
-  recency_score: 6.388408999225476
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 48.486891640119445
-  llm_score: 60
-  recency_score: 0.1647956607763347
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: the-mug-shot
   title: The Mugshot
   score: 46.587533713939315
@@ -55,27 +39,43 @@ related_articles:
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 43.29052446141931
+  llm_score: 50
+  recency_score: 6.388408999225476
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-ass-whoopin
+  title: CATALYST ASS WHOOPIN
+  score: 42.497612271467375
+  llm_score: 50
+  recency_score: 1.234479764537867
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 45.133784866418985
-  llm_score: 30
-  recency_score: 98.36960163172333
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 42.327450911681304
+  llm_score: 50
+  recency_score: 0.1284309259284028
   length_score: 100
   category_score: 0
   rank: 7
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 36.77582377297662
-  llm_score: 40
+  score: 30.62197761913047
+  llm_score: 30
   recency_score: 4.0428545243480185
   length_score: 100
   category_score: 0
   rank: 8
 - slug: virus-vs-catalyst
   title: VIRUS vs. CATALYST
-  score: 33.21362948462683
-  llm_score: 35
+  score: 30.13670640770375
+  llm_score: 30
   recency_score: 0.8885916500743355
   length_score: 100
   category_score: 0

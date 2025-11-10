@@ -10,82 +10,82 @@ alttags: Carolyn, a strong woman described as part of the early women’s libera
 related_articles:
 - slug: im-back-2
   title: I'M BACK
-  score: 65.57661887292055
-  llm_score: 75
+  score: 54.49969579599747
+  llm_score: 57
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 1
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 58.29416921955
-  llm_score: 75
-  recency_score: 3.9120999270748786
+- slug: live-like-a-coward-die-like-a-coward
+  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
+  score: 46.992509584569895
+  llm_score: 50
+  recency_score: 30.451312299704224
   length_score: 100
   category_score: 0
   rank: 2
 - slug: obituary
   title: OBITUARY
-  score: 56.555400925334666
-  llm_score: 65
+  score: 43.63232400225774
+  llm_score: 44
   recency_score: 32.61010601467527
   length_score: 100
   category_score: 0
   rank: 3
-- slug: live-like-a-coward-die-like-a-coward
-  title: LIVE LIKE A COWARD - DIE LIKE A COWARD
-  score: 56.22327881533912
-  llm_score: 65
-  recency_score: 30.451312299704224
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 43.52493845031922
+  llm_score: 51
+  recency_score: 3.9120999270748786
   length_score: 100
   category_score: 0
   rank: 4
-- slug: m-i-a
-  title: M.I.A
-  score: 53.81755775469252
-  llm_score: 65
-  recency_score: 14.814125405501343
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 42.33711950183402
+  llm_score: 44
+  recency_score: 24.19127676192105
   length_score: 100
   category_score: 0
   rank: 5
-- slug: rsa-⁠-no-gas-for-point-clear-or-tourism
-  title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
-  score: 52.296068237256414
-  llm_score: 65
-  recency_score: 4.924443542166608
+- slug: m-i-a
+  title: M.I.A
+  score: 40.27909621623098
+  llm_score: 43
+  recency_score: 14.814125405501343
   length_score: 100
   category_score: 0
   rank: 6
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 36.70067561723494
-  llm_score: 40
-  recency_score: 3.554391512027108
+- slug: rsa-⁠-no-gas-for-point-clear-or-tourism
+  title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
+  score: 39.9883759295641
+  llm_score: 45
+  recency_score: 4.924443542166608
   length_score: 100
   category_score: 0
   rank: 7
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 31.443013449704615
-  llm_score: 45
-  recency_score: 3.7545874230799345
-  length_score: 27.500000000000004
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 39.16221407877341
+  llm_score: 44
+  recency_score: 3.554391512027108
+  length_score: 100
   category_score: 0
   rank: 8
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
-  score: 30.324923263288852
-  llm_score: 30
+  score: 37.70953864790424
+  llm_score: 42
   recency_score: 2.112001211377513
   length_score: 100
   category_score: 0
   rank: 9
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 15.260196424910932
-  llm_score: 0
-  recency_score: 24.19127676192105
-  length_score: 100
+- slug: equal-representation
+  title: EQUAL REPRESENTATION
+  score: 29.59685960355077
+  llm_score: 42
+  recency_score: 3.7545874230799345
+  length_score: 27.500000000000004
   category_score: 0
   rank: 10
 ---

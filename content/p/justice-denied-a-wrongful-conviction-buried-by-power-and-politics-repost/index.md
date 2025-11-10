@@ -24,27 +24,27 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: rule-32
-  title: RULE 32
-  score: 84.08152135725518
-  llm_score: 95
-  recency_score: 16.529888822158654
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 83.04479190592508
-  llm_score: 90
-  recency_score: 29.79114738851293
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: no-justice
   title: NO JUSTICE
   score: 81.32255280719093
   llm_score: 90
   recency_score: 18.596593246741016
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: rule-32
+  title: RULE 32
+  score: 81.0045982803321
+  llm_score: 90
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 79.967868829002
+  llm_score: 85
+  recency_score: 29.79114738851293
   length_score: 100
   category_score: 100
   rank: 4
@@ -64,6 +64,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 76.15689174531873
+  llm_score: 85
+  recency_score: 5.0197963445716995
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
@@ -71,14 +79,6 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 70.00304559147258
-  llm_score: 75
-  recency_score: 5.0197963445716995
-  length_score: 100
-  category_score: 100
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption

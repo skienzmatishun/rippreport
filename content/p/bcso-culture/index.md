@@ -17,6 +17,30 @@ authors:
 - admin
 alttags: A skull sits atop scales of justice, symbolizing a flawed legal system lacking accountability and transparency within law ...
 related_articles:
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 85.97348272400421
+  llm_score: 95
+  recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 82.62571561546343
+  llm_score: 90
+  recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 82.51815357350885
+  llm_score: 89
+  recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 80.49869858600047
@@ -24,36 +48,12 @@ related_articles:
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
-  rank: 1
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 80.0566151119704
-  llm_score: 85
-  recency_score: 30.367998227807558
-  length_score: 100
-  category_score: 100
-  rank: 2
+  rank: 4
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 79.91791561019981
   llm_score: 85
   recency_score: 29.466451466298754
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 79.81963657015807
-  llm_score: 85
-  recency_score: 28.827637706027392
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 79.54879253854035
-  llm_score: 85
-  recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
   rank: 5
@@ -65,11 +65,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 76.16969161537476
-  llm_score: 85
-  recency_score: 5.102995499935887
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 73.9672093190281
+  llm_score: 75
+  recency_score: 30.7868605736826
   length_score: 100
   category_score: 100
   rank: 7
@@ -81,18 +81,18 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 64.73644008825887
-  llm_score: 60
-  recency_score: 30.7868605736826
+- slug: rumors
+  title: RUMORS
+  score: 70.01584546152861
+  llm_score: 75
+  recency_score: 5.102995499935887
   length_score: 100
   category_score: 100
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 63.23679376644409
-  llm_score: 80
+  score: 66.31371684336716
+  llm_score: 85
   recency_score: 16.039159481886507
   length_score: 100
   category_score: 0

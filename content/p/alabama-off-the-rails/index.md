@@ -12,17 +12,17 @@ alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electron
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 65.90461316878529
-  llm_score: 65
+  score: 72.05845932263145
+  llm_score: 75
   recency_score: 93.37998559710435
   length_score: 100
   category_score: 0
   rank: 1
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 64.21980217912343
-  llm_score: 85
-  recency_score: 2.4287141643022077
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 65.47811954940003
+  llm_score: 65
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 2
@@ -36,41 +36,41 @@ related_articles:
   rank: 3
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 62.17413998793945
-  llm_score: 95
+  score: 59.097216911016375
+  llm_score: 90
   recency_score: 0.6944099216063174
   length_score: 31.25
   category_score: 0
   rank: 4
-- slug: offensive
-  title: Offensive
-  score: 60.56904185756268
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 58.06595602527728
   llm_score: 75
-  recency_score: 18.69877207415731
+  recency_score: 2.4287141643022077
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 57.80180695421012
+- slug: insanity-2
+  title: INSANITY
+  score: 57.98350468832581
   llm_score: 75
-  recency_score: 0.7117452023656687
+  recency_score: 1.892780474117634
   length_score: 100
   category_score: 0
   rank: 6
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 56.24735031863081
-  llm_score: 50
-  recency_score: 90.60777707110016
+- slug: offensive
+  title: Offensive
+  score: 57.4921187806396
+  llm_score: 70
+  recency_score: 18.69877207415731
   length_score: 100
   category_score: 0
   rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 54.90658161140273
-  llm_score: 70
-  recency_score: 1.892780474117634
+- slug: 4-20
+  title: 4-20
+  score: 48.58780354854294
+  llm_score: 60
+  recency_score: 0.8207230655290094
   length_score: 100
   category_score: 0
   rank: 8
@@ -82,11 +82,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: 4-20
-  title: 4-20
-  score: 42.433957394696776
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 42.41719156959473
   llm_score: 50
-  recency_score: 0.8207230655290094
+  recency_score: 0.7117452023656687
   length_score: 100
   category_score: 0
   rank: 10

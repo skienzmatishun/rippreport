@@ -15,25 +15,25 @@ alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizin
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 96.14272077304483
-  llm_score: 95
+  score: 93.06579769612176
+  llm_score: 90
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 100
   rank: 1
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 92.86710337754633
+  llm_score: 90
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
   score: 92.3250236679477
   llm_score: 90
   recency_score: 90.11265384166002
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 91.80334235391857
-  llm_score: 90
-  recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
   rank: 3
@@ -45,11 +45,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 89.79018030062325
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 88.72641927699547
   llm_score: 85
-  recency_score: 93.63617195405108
+  recency_score: 86.72172530047058
   length_score: 100
   category_score: 100
   rank: 5

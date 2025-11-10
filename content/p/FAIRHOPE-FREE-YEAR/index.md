@@ -20,30 +20,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 76.47417070735436
-  llm_score: 90
-  recency_score: 62.08210959780326
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 71.02920448919323
-  llm_score: 85
+  score: 74.10612756611631
+  llm_score: 90
   recency_score: 46.6898291797559
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: in-the-same-boat
-  title: IN THE SAME BOAT
-  score: 63.979165714052556
+  rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 73.39724763043128
   llm_score: 85
-  recency_score: 0.8645771413415052
+  recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: people-power-2
   title: PEOPLE POWER
   score: 63.87611876715866
@@ -51,44 +43,52 @@ related_articles:
   recency_score: 0.19477198653119254
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 63.85929002100439
-  llm_score: 85
-  recency_score: 0.08538513652846078
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 58.79499650321006
-  llm_score: 75
-  recency_score: 7.167477270865283
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
-  score: 57.71111553548279
-  llm_score: 75
+  score: 63.86496168932894
+  llm_score: 85
   recency_score: 0.12225098063802377
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: self-incrimination
   title: SELF INCRIMINATION
-  score: 57.707580207112514
-  llm_score: 75
+  score: 63.86142636095867
+  llm_score: 85
   recency_score: 0.0992713462312305
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 57.8253195602064
+  llm_score: 75
+  recency_score: 0.8645771413415052
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 57.70544386715824
+  llm_score: 75
+  recency_score: 0.08538513652846078
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
   score: 57.698066395615356
   llm_score: 75
   recency_score: 0.03743157149971514
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 55.71807342628698
+  llm_score: 70
+  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 10

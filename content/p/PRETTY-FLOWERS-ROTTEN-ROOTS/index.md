@@ -24,20 +24,36 @@ related_articles:
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 77.74767328170657
-  llm_score: 85
+  score: 80.82459635862965
+  llm_score: 90
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 2
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 67.35275707376171
-  llm_score: 90
-  recency_score: 2.792920979450993
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 71.45459584424864
+  llm_score: 85
+  recency_score: 49.45487298761609
   length_score: 100
   category_score: 0
   rank: 3
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 70.45888265369886
+  llm_score: 95
+  recency_score: 2.9827372490425272
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 70.42968015068477
+  llm_score: 95
+  recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: all-mouth
   title: ALL MOUTH
   score: 65.63699079108811
@@ -45,28 +61,12 @@ related_articles:
   recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 64.3050364998527
-  llm_score: 85
-  recency_score: 2.9827372490425272
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
   score: 64.23654558178174
   llm_score: 85
   recency_score: 2.537546281581227
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 63.93243072483392
-  llm_score: 85
-  recency_score: 0.5607997114203755
   length_score: 100
   category_score: 0
   rank: 7
@@ -78,19 +78,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 63.858657923701394
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 63.87754740501696
   llm_score: 85
-  recency_score: 0.08127650405896042
+  recency_score: 0.20405813261015537
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 57.72370125117081
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 57.70481176985524
   llm_score: 75
-  recency_score: 0.20405813261015537
+  recency_score: 0.08127650405896042
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat...
 related_articles:
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 66.57697099354766
-  llm_score: 85
-  recency_score: 17.750311458059702
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 52.01553441979495
+  llm_score: 62
+  recency_score: 15.100973728667121
   length_score: 100
   category_score: 0
   rank: 1
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 64.45966931617993
-  llm_score: 85
-  recency_score: 3.9878505551694436
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 50.576970993547654
+  llm_score: 59
+  recency_score: 17.750311458059702
   length_score: 100
   category_score: 0
   rank: 2
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 63.86496168932894
-  llm_score: 85
+  score: 50.3265001508674
+  llm_score: 63
   recency_score: 0.12225098063802377
   length_score: 100
   category_score: 0
   rank: 3
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 60.522139630672704
-  llm_score: 75
-  recency_score: 18.393907599372476
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 60.01553441979496
-  llm_score: 75
-  recency_score: 15.100973728667121
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 59.90374347871725
-  llm_score: 75
+  score: 50.0575896325634
+  llm_score: 59
   recency_score: 14.374332611662021
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 57.79568480207833
-  llm_score: 75
+  score: 49.79568480207832
+  llm_score: 62
   recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: catalyst-queen-remember-family-court
-  title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 57.77625290733064
-  llm_score: 75
-  recency_score: 0.5456438976490593
+  rank: 5
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 49.445216553749624
+  llm_score: 57
+  recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 57.73837780310671
-  llm_score: 75
+  score: 49.12299318772209
+  llm_score: 61
   recency_score: 0.2994557201935016
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 57.73664419026829
-  llm_score: 75
+  score: 49.121259574883666
+  llm_score: 61
   recency_score: 0.2881872367437651
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 47.93009906117678
+  llm_score: 59
+  recency_score: 0.5456438976490593
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 45.99813085464146
+  llm_score: 55
+  recency_score: 3.9878505551694436
   length_score: 100
   category_score: 0
   rank: 10

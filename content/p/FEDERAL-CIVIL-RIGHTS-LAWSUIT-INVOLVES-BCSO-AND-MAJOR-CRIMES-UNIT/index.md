@@ -39,14 +39,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: rumors
-  title: RUMORS
-  score: 81.01157512045806
-  llm_score: 90
-  recency_score: 16.575238282977313
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: bcso-culture
   title: BCSO CULTURE
   score: 80.12105547287425
@@ -54,15 +46,15 @@ related_articles:
   recency_score: 30.7868605736826
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 77.79207836681503
+  rank: 4
+- slug: rumors
+  title: RUMORS
+  score: 77.93465204353498
   llm_score: 85
-  recency_score: 15.648509384297702
+  recency_score: 16.575238282977313
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 5
 - slug: lethal-force
   title: LETHAL FORCE
   score: 77.70148581859709
@@ -70,7 +62,7 @@ related_articles:
   recency_score: 15.05965782088104
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 6
 - slug: justified
   title: JUSTIFIED
   score: 72.28940978606195
@@ -78,6 +70,14 @@ related_articles:
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 71.63823221296889
+  llm_score: 75
+  recency_score: 15.648509384297702
+  length_score: 100
+  category_score: 100
   rank: 8
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH

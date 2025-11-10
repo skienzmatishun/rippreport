@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: 'Podcast cover art: Alien Indictment, featuring a vintage photo resembling recovered aerial vehicles & government insignia'
 related_articles:
-- slug: backstory-153
-  title: No Boomers
-  score: 56.05769805313971
-  llm_score: 50
-  recency_score: 89.37503734540803
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: he-must-go
-  title: He Must Go
-  score: 53.120755707883966
-  llm_score: 60
-  recency_score: 30.284912101245666
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: the-180
-  title: THE 180
-  score: 46.90351982772664
-  llm_score: 50
-  recency_score: 29.872878880223098
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 46.575824168842644
-  llm_score: 50
-  recency_score: 27.742857097477103
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 42.49275443444131
-  llm_score: 30
-  recency_score: 81.20290382386844
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 32.89254035727596
-  llm_score: 30
-  recency_score: 18.801512322293714
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: offensive
   title: Offensive
-  score: 26.71376567891929
-  llm_score: 0
+  score: 63.63684260199623
+  llm_score: 60
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 1
+- slug: backstory-153
+  title: No Boomers
+  score: 63.4423134377551
+  llm_score: 62
+  recency_score: 89.37503734540803
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: backstory-154
   title: W.H.O. Calls The Plague
-  score: 25.478119549400027
-  llm_score: 0
+  score: 62.40119647247696
+  llm_score: 60
   recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 62.185062126749
+  llm_score: 62
+  recency_score: 81.20290382386844
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: the-180
+  title: THE 180
+  score: 55.51890444311126
+  llm_score: 64
+  recency_score: 29.872878880223098
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: what-the
   title: What the
-  score: 18.375872222346896
-  llm_score: 0
+  score: 54.68356453003921
+  llm_score: 59
   recency_score: 44.44316944525482
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
-  score: 16.34023080619355
-  llm_score: 0
+  score: 53.8786923446551
+  llm_score: 61
   recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 52.7296703226888
+  llm_score: 60
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: he-must-go
+  title: He Must Go
+  score: 52.50537109249934
+  llm_score: 59
+  recency_score: 30.284912101245666
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 50.73869420342981
+  llm_score: 59
+  recency_score: 18.801512322293714
   length_score: 100
   category_score: 0
   rank: 10

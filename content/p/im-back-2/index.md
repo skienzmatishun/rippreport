@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 65.753469384627
-  llm_score: 85
-  recency_score: 12.39755100007539
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: carolyn-amick
   title: CAROLYN AMICK
-  score: 64.34584964215131
-  llm_score: 73
+  score: 54.49969579599747
+  llm_score: 57
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 64.31009300713528
-  llm_score: 85
-  recency_score: 3.015604546379232
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 63.8616794908159
-  llm_score: 85
-  recency_score: 0.10091669030325356
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 1
 - slug: mia
   title: M.I.A.
-  score: 60.48363911382725
-  llm_score: 75
+  score: 52.483639113827245
+  llm_score: 62
   recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 2
+- slug: notice
+  title: 'NOTICE:'
+  score: 48.64369244761793
+  llm_score: 58
+  recency_score: 13.496500909516493
+  length_score: 94.25
+  category_score: 0
+  rank: 3
+- slug: m-i-a
+  title: M.I.A
+  score: 47.783376361040574
+  llm_score: 57
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: s-o-s
   title: S.O.S
-  score: 59.79157249015608
-  llm_score: 75
+  score: 47.483880182463764
+  llm_score: 55
   recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 46.061161692319295
+  llm_score: 53
+  recency_score: 12.39755100007539
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: notice
-  title: 'NOTICE:'
-  score: 59.1052309091564
-  llm_score: 75
-  recency_score: 13.496500909516493
-  length_score: 94.25
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 46.01552564466205
+  llm_score: 56
+  recency_score: 0.10091669030325356
+  length_score: 100
   category_score: 0
   rank: 7
 - slug: im-back
   title: I'M BACK
-  score: 54.75512040535163
-  llm_score: 70
+  score: 45.5243511745824
+  llm_score: 55
   recency_score: 0.9082826347855467
   length_score: 100
   category_score: 0
   rank: 8
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 54.63057367403262
-  llm_score: 70
-  recency_score: 0.09872888121193853
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 44.61778531482758
+  llm_score: 53
+  recency_score: 3.015604546379232
   length_score: 100
   category_score: 0
   rank: 9
-- slug: m-i-a
-  title: M.I.A
-  score: 43.47568405334827
-  llm_score: 50
-  recency_score: 7.591946346763673
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 44.16903521249415
+  llm_score: 53
+  recency_score: 0.09872888121193853
   length_score: 100
   category_score: 0
   rank: 10

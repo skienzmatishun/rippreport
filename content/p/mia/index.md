@@ -17,22 +17,6 @@ related_articles:
   length_score: 94.25
   category_score: 0
   rank: 1
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 63.911217746121075
-  llm_score: 85
-  recency_score: 0.4229153497868698
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 63.84897076543985
-  llm_score: 85
-  recency_score: 0.01830997535894984
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: delicately-censored
   title: Delicately Censored
   score: 62.5603072174556
@@ -40,15 +24,15 @@ related_articles:
   recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 58.03179095908181
+  rank: 2
+- slug: im-back-2
+  title: I'M BACK
+  score: 60.48363911382725
   llm_score: 75
-  recency_score: 2.2066412340316854
+  recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: m-i-a
   title: M.I.A
   score: 57.90422407618983
@@ -56,7 +40,7 @@ related_articles:
   recency_score: 1.3774564952337773
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: exposure-2
   title: EXPOSURE
   score: 57.72880679482177
@@ -64,7 +48,7 @@ related_articles:
   recency_score: 0.23724416634139747
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: loser
   title: LOSER
   score: 57.7220273356617
@@ -72,7 +56,7 @@ related_articles:
   recency_score: 0.19317768180096426
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: im-back
   title: I'M BACK
   score: 57.71766087088868
@@ -80,12 +64,28 @@ related_articles:
   recency_score: 0.1647956607763347
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 57.6951246115937
+  llm_score: 75
+  recency_score: 0.01830997535894984
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 51.87794480523565
+  llm_score: 65
+  recency_score: 2.2066412340316854
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: im-back-2
-  title: I'M BACK
-  score: 57.40671603690417
-  llm_score: 70
-  recency_score: 18.143654239877034
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 51.60352543842876
+  llm_score: 65
+  recency_score: 0.4229153497868698
   length_score: 100
   category_score: 0
   rank: 10

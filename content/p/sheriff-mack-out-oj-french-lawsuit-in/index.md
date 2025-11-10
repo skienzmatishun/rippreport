@@ -9,22 +9,6 @@ authors:
 rumble: v5755ut
 alttags: Podcast cover art featuring a vintage photo of an Indigenous man and text referencing silence over falsehoods, related to ...
 related_articles:
-- slug: the-180
-  title: THE 180
-  score: 72.17702386531501
-  llm_score: 75
-  recency_score: 94.15065512454748
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: stephen-nodine
   title: STEPHEN NODINE
   score: 61.073740461664904
@@ -32,23 +16,15 @@ related_articles:
   recency_score: 21.979313000821772
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: backstory-153
-  title: No Boomers
-  score: 58.97809728788549
-  llm_score: 70
-  recency_score: 28.357632371255608
+  rank: 1
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 59.23076923076924
+  llm_score: 65
+  recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 56.56484439767468
-  llm_score: 60
-  recency_score: 52.671488584885374
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: delicately-censored
   title: Delicately Censored
   score: 56.15381919718908
@@ -56,12 +32,36 @@ related_articles:
   recency_score: 49.99982478172893
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
 - slug: a-long-strange-day-jan-6-2021
   title: A long strange day Jan 6, 2021
-  score: 51.97287640900029
-  llm_score: 65
+  score: 55.04979948592337
+  llm_score: 70
   recency_score: 2.82369665850184
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-153
+  title: No Boomers
+  score: 52.824251134039336
+  llm_score: 60
+  recency_score: 28.357632371255608
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 50.41099824382853
+  llm_score: 50
+  recency_score: 52.671488584885374
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: he-must-go
+  title: He Must Go
+  score: 49.939852471065066
+  llm_score: 60
+  recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 7
@@ -73,19 +73,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: he-must-go
-  title: He Must Go
-  score: 43.78600631721891
-  llm_score: 50
-  recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: alien-indictment
   title: Alien Indictment
   score: 34.881354796687
   llm_score: 30
   recency_score: 31.72880617846543
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: the-180
+  title: THE 180
+  score: 26.023177711468847
+  llm_score: 0
+  recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
   rank: 10

@@ -25,30 +25,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: game-on
-  title: GAME ON
-  score: 66.92505518606018
-  llm_score: 90
-  recency_score: 0.012858709391078301
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 70.01795194796073
+  llm_score: 95
+  recency_score: 0.11668766174462795
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-panic-and-confusion
-  title: CATALYST PANIC and CONFUSION
-  score: 66.32530325206858
-  llm_score: 89
-  recency_score: 0.11447113844573364
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 64.04953786100526
+  llm_score: 85
+  recency_score: 1.3219960965341453
   length_score: 100
   category_score: 0
   rank: 3
-- slug: hell-yea
-  title: HELL YEA
-  score: 66.32520701763998
-  llm_score: 89
-  recency_score: 0.11384561465983976
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 63.865273414458606
@@ -56,15 +48,7 @@ related_articles:
   recency_score: 0.12427719398082719
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 63.86410579411457
-  llm_score: 85
-  recency_score: 0.11668766174462795
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: bury-the-body
   title: BURY THE BODY
   score: 63.86400769628306
@@ -72,12 +56,28 @@ related_articles:
   recency_score: 0.11605002583978188
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: catalyst-panic-and-confusion
+  title: CATALYST PANIC and CONFUSION
+  score: 63.863764790530126
+  llm_score: 85
+  recency_score: 0.11447113844573364
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: hell-yea
+  title: HELL YEA
+  score: 63.86366855610153
+  llm_score: 85
+  recency_score: 0.11384561465983976
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 57.895691707159116
-  llm_score: 75
-  recency_score: 1.3219960965341453
+- slug: game-on
+  title: GAME ON
+  score: 63.848132109137104
+  llm_score: 85
+  recency_score: 0.012858709391078301
   length_score: 100
   category_score: 0
   rank: 8
@@ -91,8 +91,8 @@ related_articles:
   rank: 9
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 33.46263311940187
-  llm_score: 90
+  score: 35.00109465786341
+  llm_score: 95
   recency_score: 0.014230552224265986
   length_score: 100
   category_score: 0

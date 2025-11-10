@@ -12,83 +12,83 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 78.0557277256631
-  llm_score: 85
-  recency_score: 92.36223021681012
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 77.29806828990351
-  llm_score: 85
+  score: 74.22114521298043
+  llm_score: 80
   recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 70.67111234104772
+  llm_score: 73
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: job-with-benefits
-  title: JOB WITH BENEFITS
-  score: 67.001680008963
-  llm_score: 90
-  recency_score: 0.5109200582594592
+- slug: you-re-fired
+  title: YOU'RE FIRED
+  score: 57.09995805159934
+  llm_score: 74
+  recency_score: 0.14972733539561534
   length_score: 100
   category_score: 0
   rank: 3
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 63.88556307408762
-  llm_score: 85
+  score: 54.65479384331839
+  llm_score: 70
   recency_score: 0.25615998156944014
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-ethics-a-political-tool
-  title: ALABAMA ETHICS, A POLITICAL TOOL
-  score: 57.75561321699216
-  llm_score: 75
-  recency_score: 0.41148591044895216
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: a-spiders-web
-  title: A SPIDER’S WEB
-  score: 57.72931022279179
-  llm_score: 75
-  recency_score: 0.24051644814652245
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 57.72611156399408
-  llm_score: 75
-  recency_score: 0.21972516596144012
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
-  score: 57.724839528287475
-  llm_score: 75
+  score: 54.647916451364395
+  llm_score: 70
   recency_score: 0.21145693386847106
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: job-with-benefits
+  title: JOB WITH BENEFITS
+  score: 54.07860308588609
+  llm_score: 69
+  recency_score: 0.5109200582594592
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 54.063305524684466
+  llm_score: 69
+  recency_score: 0.41148591044895216
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 54.037002530484095
+  llm_score: 69
+  recency_score: 0.24051644814652245
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: you-re-fired
-  title: YOU'RE FIRED
-  score: 57.71534266698396
-  llm_score: 75
-  recency_score: 0.14972733539561534
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 54.034270124644124
+  llm_score: 69
+  recency_score: 0.22275581018671914
   length_score: 100
   category_score: 0
   rank: 9
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 54.64965474002874
-  llm_score: 70
-  recency_score: 0.22275581018671914
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 54.03380387168639
+  llm_score: 69
+  recency_score: 0.21972516596144012
   length_score: 100
   category_score: 0
   rank: 10

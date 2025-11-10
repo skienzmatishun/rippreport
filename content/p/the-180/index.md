@@ -11,8 +11,8 @@ alttags: Kamala Harris on a Time magazine cover titled “Her Moment,” discuss
 related_articles:
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 65.8261098038451
-  llm_score: 65
+  score: 71.97995595769126
+  llm_score: 75
   recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
@@ -25,27 +25,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 57.198145248791434
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 57.244854891576516
   llm_score: 65
-  recency_score: 36.787944117144235
+  recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 3
-- slug: offensive
-  title: Offensive
-  score: 56.071761764045974
+- slug: backstory-153
+  title: No Boomers
+  score: 55.645984100822766
   llm_score: 65
-  recency_score: 29.466451466298754
+  recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 52.9728882559189
-  llm_score: 65
-  recency_score: 9.323773663472833
+- slug: offensive
+  title: Offensive
+  score: 52.9948386871229
+  llm_score: 60
+  recency_score: 29.466451466298754
   length_score: 100
   category_score: 0
   rank: 5
@@ -57,34 +57,34 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-153
-  title: No Boomers
-  score: 52.56906102389969
-  llm_score: 60
-  recency_score: 26.69889665534791
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 49.93700793331091
+  llm_score: 50
+  recency_score: 49.59055156652082
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 48.01408566080729
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 47.9673760180222
   llm_score: 50
-  recency_score: 37.09155679524731
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 37.629315625618595
-  llm_score: 30
-  recency_score: 49.59055156652082
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 43.74211902514968
+  llm_score: 50
+  recency_score: 9.323773663472833
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alien-indictment
   title: Alien Indictment
-  score: 31.518904443111253
-  llm_score: 25
+  score: 34.59582752003433
+  llm_score: 30
   recency_score: 29.872878880223098
   length_score: 100
   category_score: 0

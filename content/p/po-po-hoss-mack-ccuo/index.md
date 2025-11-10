@@ -12,22 +12,6 @@ authors:
 - admin
 alttags: Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office
 related_articles:
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 95.98354786981331
-  llm_score: 95
-  recency_score: 93.89306115378648
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 94.06548962615224
-  llm_score: 95
-  recency_score: 81.42568256998956
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
   score: 93.22672455308827
@@ -35,12 +19,28 @@ related_articles:
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 91.98736433767414
+  rank: 1
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 92.90662479289024
   llm_score: 90
-  recency_score: 87.91786819488183
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 92.17392451572327
+  llm_score: 90
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 90.98856654922918
+  llm_score: 90
+  recency_score: 81.42568256998956
   length_score: 100
   category_score: 100
   rank: 4
@@ -52,18 +52,18 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 89.09700143880019
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 88.91044126075106
   llm_score: 85
-  recency_score: 89.13050935220119
+  recency_score: 87.91786819488183
   length_score: 100
   category_score: 100
   rank: 6
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 81.28362804649525
-  llm_score: 90
+  score: 84.36055112341832
+  llm_score: 95
   recency_score: 18.34358230221904
   length_score: 100
   category_score: 100
@@ -78,8 +78,8 @@ related_articles:
   rank: 8
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 74.61538461538463
-  llm_score: 90
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0

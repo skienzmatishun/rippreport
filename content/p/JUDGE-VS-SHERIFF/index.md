@@ -14,80 +14,80 @@ alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbol
 related_articles:
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 90.23092866873216
-  llm_score: 85
+  score: 89.00015943796294
+  llm_score: 83
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 100
   rank: 1
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 85.86435957990611
-  llm_score: 90
-  recency_score: 48.118337269389656
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 83.09799975789966
-  llm_score: 85
+  score: 76.9441536040535
+  llm_score: 75
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.41241300968157
-  llm_score: 85
+  score: 75.87395147122004
+  llm_score: 76
   recency_score: 39.1806845629302
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: the-enforcer-hoss-macks-rise-to-statewide-power
-  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 80.76574843293574
-  llm_score: 90
-  recency_score: 14.977364814082216
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 75.40282111836765
+  llm_score: 73
+  recency_score: 48.118337269389656
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 77.49541457549125
-  llm_score: 85
+  score: 74.41849149856819
+  llm_score: 80
   recency_score: 13.72019474069314
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 73.47663738507116
+  llm_score: 73
+  recency_score: 35.59814300296249
+  length_score: 100
+  category_score: 100
   rank: 6
+- slug: the-enforcer-hoss-macks-rise-to-statewide-power
+  title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
+  score: 72.76574843293574
+  llm_score: 77
+  recency_score: 14.977364814082216
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 76.33890828059516
-  llm_score: 85
+  score: 70.185062126749
+  llm_score: 75
   recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 75.46046817709599
-  llm_score: 85
+  score: 68.0758527924806
+  llm_score: 73
   recency_score: 0.49304315112384334
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 74.7074066158404
-  llm_score: 75
-  recency_score: 35.59814300296249
   length_score: 100
   category_score: 100
   rank: 9
 - slug: happy-days
   title: HAPPY DAYS
-  score: 66.91840050598809
-  llm_score: 85
+  score: 59.53378512137271
+  llm_score: 73
   recency_score: 19.9696032889225
   length_score: 100
   category_score: 0

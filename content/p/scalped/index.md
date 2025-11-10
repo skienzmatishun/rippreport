@@ -12,8 +12,8 @@ alttags: New Baldwin County Courthouse rendering; million-dollar contract amid q
 related_articles:
 - slug: the-lie-of-the-century
   title: The Lie of The Century
-  score: 53.631974629728965
-  llm_score: 60
+  score: 56.70889770665204
+  llm_score: 65
   recency_score: 33.60783509323819
   length_score: 100
   category_score: 0
@@ -34,14 +34,6 @@ related_articles:
   length_score: 45.5
   category_score: 0
   rank: 3
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 46.696611829325974
-  llm_score: 70
-  recency_score: 0.46547689061875125
-  length_score: 30.75
-  category_score: 0
-  rank: 4
 - slug: the-180
   title: THE 180
   score: 40.426252592199674
@@ -49,21 +41,29 @@ related_articles:
   recency_score: 67.77064184929783
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: notice
-  title: 'NOTICE:'
-  score: 34.53315399102121
-  llm_score: 20
-  recency_score: 73.7780009416378
-  length_score: 94.25
+  rank: 4
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 34.38891952163367
+  llm_score: 50
+  recency_score: 0.46547689061875125
+  length_score: 30.75
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: im-back-2
   title: I'M BACK
   score: 32.81436841444479
   llm_score: 30
   recency_score: 18.293394693891102
   length_score: 100
+  category_score: 0
+  rank: 6
+- slug: notice
+  title: 'NOTICE:'
+  score: 28.37930783717505
+  llm_score: 10
+  recency_score: 73.7780009416378
+  length_score: 94.25
   category_score: 0
   rank: 7
 - slug: mia

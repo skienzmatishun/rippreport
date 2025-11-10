@@ -19,14 +19,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 79.09150637086098
-  llm_score: 95
-  recency_score: 59.09479141059637
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
   score: 77.48360901597151
@@ -34,60 +26,68 @@ related_articles:
   recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 72.93766021701484
+  llm_score: 85
+  recency_score: 59.09479141059637
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 71.22643388244788
-  llm_score: 90
-  recency_score: 27.971820235911103
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 68.51053672902155
-  llm_score: 90
-  recency_score: 10.318488738640012
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 68.33798793387685
-  llm_score: 90
-  recency_score: 9.196921570199363
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 67.21833509524528
-  llm_score: 85
+  score: 69.67987355678375
+  llm_score: 89
   recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 68.1495108055248
+  llm_score: 85
+  recency_score: 27.971820235911103
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
-  score: 67.0123980485798
-  llm_score: 85
+  score: 64.55085958704133
+  llm_score: 81
   recency_score: 20.580587315768575
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 63.58745980594463
+  llm_score: 82
+  recency_score: 10.318488738640012
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 63.16799174565596
+  llm_score: 82
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 65.08670999959843
-  llm_score: 85
-  recency_score: 8.063614997389708
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 62.799526395415306
+  llm_score: 81
+  recency_score: 9.196921570199363
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 65.01414559180981
-  llm_score: 85
-  recency_score: 7.591946346763673
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 62.62517153805997
+  llm_score: 81
+  recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
   rank: 10

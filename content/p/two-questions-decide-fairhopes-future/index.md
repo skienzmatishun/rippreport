@@ -62,22 +62,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: hardest-working-elected-official-eastern-shore
-  title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 63.850868673649686
-  llm_score: 85
-  recency_score: 0.030646378722854063
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: game-on
-  title: GAME ON
-  score: 63.84788358873972
-  llm_score: 85
-  recency_score: 0.011243326808078654
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
   score: 63.847764660291
@@ -85,11 +69,27 @@ related_articles:
   recency_score: 0.010470291891376842
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: hardest-working-elected-official-eastern-shore
+  title: “Hardest Working Elected Official- Eastern Shore.”
+  score: 57.69702251980353
+  llm_score: 75
+  recency_score: 0.030646378722854063
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: game-on
+  title: GAME ON
+  score: 57.694037434893566
+  llm_score: 75
+  recency_score: 0.011243326808078654
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: backseat-quarterbacks
   title: BACKSEAT QUARTERBACKS
-  score: 57.701308260174265
-  llm_score: 75
+  score: 51.547462106328105
+  llm_score: 65
   recency_score: 0.058503691132646064
   length_score: 100
   category_score: 0

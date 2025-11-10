@@ -10,81 +10,81 @@ alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s firs
 related_articles:
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 72.37680990817655
-  llm_score: 75
+  score: 53.91527144663809
+  llm_score: 45
   recency_score: 95.44926440314748
   length_score: 100
   category_score: 0
   rank: 1
 - slug: offensive
   title: Offensive
-  score: 70.60260899552978
-  llm_score: 75
+  score: 50.29491668783747
+  llm_score: 42
   recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 65.45992454321102
-  llm_score: 85
-  recency_score: 10.489509530871569
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 61.120380179290244
-  llm_score: 75
+  score: 48.81268787159793
+  llm_score: 55
   recency_score: 22.28247116538646
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 45.15223223551871
+  llm_score: 52
+  recency_score: 10.489509530871569
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 56.392906995111325
-  llm_score: 85
-  recency_score: 3.116395468223524
-  length_score: 31.25
-  category_score: 0
-  rank: 5
-- slug: tiny-steps
-  title: TINY STEPS
-  score: 53.21533269963686
-  llm_score: 65
-  recency_score: 10.899662547639538
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 52.02987589322354
-  llm_score: 65
-  recency_score: 3.19419330595294
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: 4-20
-  title: 4-20
-  score: 47.18204118622585
-  llm_score: 57
-  recency_score: 3.6832677104679425
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: bsp-128
   title: Big News
-  score: 34.48389145061434
-  llm_score: 30
+  score: 43.09927606599896
+  llm_score: 44
   recency_score: 29.145294428993168
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 42.183722047069686
+  llm_score: 49
+  recency_score: 3.19419330595294
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 41.52302500732917
+  llm_score: 46
+  recency_score: 10.899662547639538
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: war
   title: WAR
-  score: 33.28104683875996
-  llm_score: 30
+  score: 40.66566222337535
+  llm_score: 42
   recency_score: 21.326804451939722
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 39.777522379726705
+  llm_score: 58
+  recency_score: 3.116395468223524
+  length_score: 31.25
+  category_score: 0
+  rank: 9
+- slug: 4-20
+  title: 4-20
+  score: 39.182041186225845
+  llm_score: 44
+  recency_score: 3.6832677104679425
   length_score: 100
   category_score: 0
   rank: 10

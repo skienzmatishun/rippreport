@@ -7,82 +7,82 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: go-to-hell-ethics
-  title: GO TO HELL ETHICS
-  score: 80.51726618720157
-  llm_score: 89
-  recency_score: 92.36223021681012
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 78.41045617208597
-  llm_score: 85
+  score: 76.56430232593213
+  llm_score: 82
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: cover-up
   title: COVER UP
-  score: 76.16894147230929
-  llm_score: 85
+  score: 72.47663378000159
+  llm_score: 79
   recency_score: 80.0981195700103
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: go-to-hell-ethics
+  title: GO TO HELL ETHICS
+  score: 70.67111234104772
+  llm_score: 73
+  recency_score: 92.36223021681012
   length_score: 100
   category_score: 0
   rank: 3
 - slug: happy-days
   title: HAPPY DAYS
-  score: 73.2903814463306
-  llm_score: 90
+  score: 64.05961221556136
+  llm_score: 75
   recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
   rank: 4
 - slug: black-cloud
   title: BLACK CLOUD
-  score: 68.3546820011692
-  llm_score: 85
+  score: 60.3546820011692
+  llm_score: 72
   recency_score: 29.305433007599714
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 68.01076339812893
-  llm_score: 90
-  recency_score: 7.069962087837917
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 59.295702963024425
+  llm_score: 77
+  recency_score: 2.422069259658703
   length_score: 100
   category_score: 0
   rank: 6
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 66.95967616024025
-  llm_score: 90
-  recency_score: 0.23789504156153407
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: alabama-corruption-insurance
   title: ALABAMA CORRUPTION INSURANCE
-  score: 65.85538385947929
-  llm_score: 85
+  score: 57.85538385947929
+  llm_score: 72
   recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 57.1135223140864
+  llm_score: 74
+  recency_score: 0.23789504156153407
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 64.21877988610134
-  llm_score: 85
-  recency_score: 2.422069259658703
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 56.93384032120585
+  llm_score: 72
+  recency_score: 7.069962087837917
   length_score: 100
   category_score: 0
   rank: 9
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 63.92760694641242
-  llm_score: 85
+  score: 55.92760694641242
+  llm_score: 72
   recency_score: 0.5294451516806106
   length_score: 100
   category_score: 0

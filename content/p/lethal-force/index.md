@@ -22,64 +22,64 @@ related_articles:
   rank: 1
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 84.03646335206703
-  llm_score: 75
+  score: 85.88261719822088
+  llm_score: 78
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 100
   rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 77.70148581859709
-  llm_score: 85
+  score: 75.23994735705864
+  llm_score: 81
   recency_score: 15.05965782088104
   length_score: 100
   category_score: 100
   rank: 3
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 74.90598018435097
-  llm_score: 75
+  score: 74.29059556896635
+  llm_score: 74
   recency_score: 36.88887119828122
   length_score: 100
   category_score: 100
   rank: 4
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 74.7074066158404
-  llm_score: 75
+  score: 73.47663738507116
+  llm_score: 73
   recency_score: 35.59814300296249
   length_score: 100
   category_score: 100
   rank: 5
 - slug: non-lethal
   title: NON-LETHAL
-  score: 72.4231445993937
-  llm_score: 75
+  score: 71.19237536862447
+  llm_score: 73
   recency_score: 20.750439896058943
   length_score: 100
   category_score: 100
   rank: 6
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 71.37655324926948
-  llm_score: 75
+  score: 70.76116863388486
+  llm_score: 74
   recency_score: 13.947596120251541
   length_score: 100
   category_score: 100
   rank: 7
 - slug: justified
   title: JUSTIFIED
-  score: 65.11767929964523
-  llm_score: 85
+  score: 62.65614083810677
+  llm_score: 81
   recency_score: 8.264915447693923
   length_score: 100
   category_score: 0
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 62.13949628088906
-  llm_score: 75
+  score: 60.293342434735216
+  llm_score: 72
   recency_score: 28.906725825778786
   length_score: 100
   category_score: 0

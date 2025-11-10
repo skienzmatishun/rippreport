@@ -19,25 +19,25 @@ related_articles:
   rank: 1
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 59.87151667490806
-  llm_score: 70
+  score: 62.94843975183114
+  llm_score: 75
   recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
   rank: 2
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 58.825624805547456
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 58.49478103011363
   llm_score: 75
-  recency_score: 7.366561236058354
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 57.85255843436693
-  llm_score: 75
-  recency_score: 1.0416298233849144
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 57.36120621495452
+  llm_score: 70
+  recency_score: 17.84784039720432
   length_score: 100
   category_score: 0
   rank: 4
@@ -57,27 +57,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 45.053513907262214
-  llm_score: 50
-  recency_score: 17.84784039720432
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 52.671778651701295
+  llm_score: 65
+  recency_score: 7.366561236058354
   length_score: 100
   category_score: 0
   rank: 7
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 48.62178920359769
+  llm_score: 60
+  recency_score: 1.0416298233849144
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: homeland-securitys-disinformation-governance-board
   title: Homeland Security’s Disinformation Governance Board
   score: 43.734280647344804
   llm_score: 50
   recency_score: 9.272824207741175
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 30.802473337805928
-  llm_score: 30
-  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 9

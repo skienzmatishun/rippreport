@@ -21,8 +21,8 @@ related_articles:
   rank: 1
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 66.92622871956246
-  llm_score: 90
+  score: 70.00315179648554
+  llm_score: 95
   recency_score: 0.020486677155934722
   length_score: 100
   category_score: 0
@@ -67,6 +67,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 63.849262761720546
+  llm_score: 85
+  recency_score: 0.020207951183464034
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
   score: 63.84920370677262
@@ -74,20 +82,12 @@ related_articles:
   recency_score: 0.019824094021949453
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: no-radar
   title: NO RADAR
   score: 57.895691707159116
   llm_score: 75
   recency_score: 1.3219960965341453
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 57.69541660787439
-  llm_score: 75
-  recency_score: 0.020207951183464034
   length_score: 100
   category_score: 0
   rank: 10

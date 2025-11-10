@@ -12,81 +12,81 @@ alttags: Judge Wilters, new Alabama football coach, appears on a podcast discuss
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 93.51262525634672
-  llm_score: 90
+  score: 77.51262525634672
+  llm_score: 64
   recency_score: 97.83206416625366
   length_score: 100
   category_score: 100
   rank: 1
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 75.54921906091215
-  llm_score: 70
+  score: 70.62614213783523
+  llm_score: 62
   recency_score: 61.06992389592894
   length_score: 100
   category_score: 100
   rank: 2
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
-  score: 69.32612281559554
-  llm_score: 75
+  score: 63.787661277134
+  llm_score: 66
   recency_score: 75.61979830137088
   length_score: 100
   category_score: 0
   rank: 3
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 63.08184686208677
+  llm_score: 67
+  recency_score: 67.03200460356393
   length_score: 100
   category_score: 0
   rank: 4
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 65.3846153846154
-  llm_score: 75
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 59.71811997789408
-  llm_score: 75
-  recency_score: 13.167779856311412
+- slug: backstory-153
+  title: No Boomers
+  score: 58.407471006983506
+  llm_score: 64
+  recency_score: 48.648561545392695
   length_score: 100
   category_score: 0
   rank: 6
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 59.578835257439586
-  llm_score: 75
-  recency_score: 12.262429173357202
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 57.384615384615394
+  llm_score: 62
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 53.76204804046527
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 53.424989103593425
   llm_score: 65
-  recency_score: 14.453312263024177
+  recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
   rank: 8
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 52.62030840054831
-  llm_score: 50
-  recency_score: 67.03200460356393
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 52.53127880969604
+  llm_score: 63
+  recency_score: 14.453312263024177
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-153
-  title: No Boomers
-  score: 49.792086391598886
-  llm_score: 50
-  recency_score: 48.648561545392695
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 51.71811997789407
+  llm_score: 62
+  recency_score: 13.167779856311412
   length_score: 100
   category_score: 0
   rank: 10

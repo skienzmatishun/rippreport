@@ -9,81 +9,81 @@ authors:
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 79.30521545558248
-  llm_score: 85
+  score: 73.76675391712095
+  llm_score: 76
   recency_score: 25.48390046128612
   length_score: 100
   category_score: 100
   rank: 1
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 78.58880921463984
-  llm_score: 90
-  recency_score: 75.82725989515886
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 76.20274882459347
-  llm_score: 85
+  score: 72.51044113228578
+  llm_score: 79
   recency_score: 80.31786735985746
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 76.16894147230929
-  llm_score: 85
+  score: 72.47663378000159
+  llm_score: 79
   recency_score: 80.0981195700103
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
+  rank: 3
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 71.20419383002445
+  llm_score: 78
+  recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 74.01846441619033
-  llm_score: 85
+  score: 69.71077210849802
+  llm_score: 78
   recency_score: 66.12001870523703
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 66.61538461538463
+  llm_score: 77
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 70.49878104871303
-  llm_score: 85
-  recency_score: 43.242076816634636
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 69.79194041153767
-  llm_score: 90
-  recency_score: 18.647612674994708
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 68.28101950761076
-  llm_score: 90
+  score: 65.8194810460723
+  llm_score: 86
   recency_score: 8.82662679946983
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 64.9603195102515
+  llm_score: 76
+  recency_score: 43.242076816634636
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: license-to-steal
   title: LICENSE TO STEAL
-  score: 60.657057558176426
-  llm_score: 75
+  score: 61.27244217356104
+  llm_score: 76
   recency_score: 19.270874128146687
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 61.176555796153046
+  llm_score: 76
+  recency_score: 18.647612674994708
   length_score: 100
   category_score: 0
   rank: 10

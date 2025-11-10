@@ -23,25 +23,25 @@ related_articles:
   rank: 1
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 92.3250236679477
-  llm_score: 90
+  score: 89.24810059102462
+  llm_score: 85
   recency_score: 90.11265384166002
   length_score: 100
   category_score: 100
   rank: 2
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 90.48419201931206
-  llm_score: 90
-  recency_score: 78.14724812552835
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 88.94754912742876
   llm_score: 85
   recency_score: 88.15906932828686
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 87.40726894238898
+  llm_score: 85
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 100
   rank: 4
@@ -69,19 +69,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 74.59140495332304
-  llm_score: 85
-  recency_score: 69.84413219659965
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: justified
   title: JUSTIFIED
   score: 70.97040767851414
   llm_score: 85
   recency_score: 46.30764991034176
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 68.43755879947688
+  llm_score: 75
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 9

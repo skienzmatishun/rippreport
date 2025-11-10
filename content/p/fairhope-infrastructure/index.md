@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru...
 related_articles:
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 66.9285136547373
-  llm_score: 90
-  recency_score: 0.03533875579235944
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 62.15231925709228
+  llm_score: 73
+  recency_score: 36.990075171099754
   length_score: 100
   category_score: 0
   rank: 1
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 63.9158303400526
-  llm_score: 85
-  recency_score: 0.45289721034181013
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 60.49561643847298
+  llm_score: 74
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 2
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 63.852885876019755
-  llm_score: 85
+  score: 57.08365510678898
+  llm_score: 74
   recency_score: 0.0437581941283173
   length_score: 100
   category_score: 0
   rank: 3
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 63.38308848786152
-  llm_score: 75
-  recency_score: 36.990075171099754
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 61.1110010538576
-  llm_score: 75
-  recency_score: 22.221506850074306
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope
   title: FAUXHOPE
-  score: 58.81634804626258
-  llm_score: 75
+  score: 56.970194200108736
+  llm_score: 72
   recency_score: 7.306262300706669
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 58.79499650321006
-  llm_score: 75
+  score: 56.94884265705621
+  llm_score: 72
   recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 57.72992351047744
-  llm_score: 75
+  score: 56.49915427970821
+  llm_score: 73
   recency_score: 0.24450281810326882
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 56.46729716484612
+  llm_score: 73
+  recency_score: 0.03743157149971514
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 55.9158303400526
+  llm_score: 72
+  recency_score: 0.45289721034181013
   length_score: 100
   category_score: 0
   rank: 8
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 57.70522969517782
-  llm_score: 75
+  score: 55.859075849023974
+  llm_score: 72
   recency_score: 0.08399301865574989
   length_score: 100
   category_score: 0
   rank: 9
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 57.698066395615356
-  llm_score: 75
-  recency_score: 0.03743157149971514
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 55.2362059624296
+  llm_score: 71
+  recency_score: 0.03533875579235944
   length_score: 100
   category_score: 0
   rank: 10

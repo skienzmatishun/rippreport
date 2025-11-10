@@ -44,6 +44,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 64.23869058593654
+  llm_score: 85
+  recency_score: 2.5514888085874565
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 64.02350108097303
+  llm_score: 85
+  recency_score: 1.152757026324628
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
   score: 63.864503605114486
@@ -51,36 +67,20 @@ related_articles:
   recency_score: 0.11927343324406557
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 63.85402371263146
-  llm_score: 85
-  recency_score: 0.051154132104394186
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 58.08484443209039
-  llm_score: 75
-  recency_score: 2.5514888085874565
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 57.86965492712688
-  llm_score: 75
-  recency_score: 1.152757026324628
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 63.854331434309756
+  llm_score: 85
+  recency_score: 0.05315432301332231
   length_score: 100
   category_score: 0
   rank: 8
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 57.7004852804636
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 57.700177558785306
   llm_score: 75
-  recency_score: 0.05315432301332231
+  recency_score: 0.051154132104394186
   length_score: 100
   category_score: 0
   rank: 9

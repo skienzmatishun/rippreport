@@ -8,27 +8,27 @@ thumbnail: /img/alabama-blackhole.png
 authors:
 - admin
 related_articles:
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 81.72982956092235
-  llm_score: 95
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 78.97871442056848
-  llm_score: 90
+  score: 77.13256057441464
+  llm_score: 87
   recency_score: 78.36164373369505
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
-  score: 78.24248401107549
-  llm_score: 90
+  score: 76.39633016492165
+  llm_score: 87
   recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 75.5759834070762
+  llm_score: 85
+  recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
   rank: 3
@@ -40,51 +40,51 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 74.17560150110091
-  llm_score: 95
-  recency_score: 27.14140975715586
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 71.8773343104886
+  llm_score: 91
+  recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
   rank: 5
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 71.22643388244788
-  llm_score: 90
-  recency_score: 27.971820235911103
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 70.75213403050482
+  llm_score: 87
+  recency_score: 36.88887119828122
   length_score: 100
   category_score: 0
   rank: 6
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 71.17953127616966
-  llm_score: 90
-  recency_score: 27.666953295102704
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 68.63713996263937
+  llm_score: 86
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 7
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 70.7377213679313
-  llm_score: 90
+  score: 68.27618290639283
+  llm_score: 86
   recency_score: 24.795188891553348
   length_score: 100
   category_score: 0
   rank: 8
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 69.52136479973558
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 68.1495108055248
   llm_score: 85
-  recency_score: 36.88887119828122
+  recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 9
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 68.18502661818091
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 68.10260819924657
   llm_score: 85
-  recency_score: 28.202673018175854
+  recency_score: 27.666953295102704
   length_score: 100
   category_score: 0
   rank: 10

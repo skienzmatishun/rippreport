@@ -4,6 +4,7 @@ date: 2020-07-02
 thumbnail: img/first-congressional-district.jpg
 categories:
 - alabama
+- elections
 tags:
 - catalyst
 - election

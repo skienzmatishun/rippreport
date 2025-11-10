@@ -9,16 +9,16 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 89.9489177105475
-  llm_score: 85
+  score: 93.02584078747059
+  llm_score: 90
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 100
   rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 89.05948467412519
-  llm_score: 85
+  score: 92.13640775104827
+  llm_score: 90
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 100
@@ -39,14 +39,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.61538461538463
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: no-justice
   title: NO JUSTICE
   score: 72.44949142736789
@@ -54,15 +46,15 @@ related_articles:
   recency_score: 20.921694277891152
   length_score: 100
   category_score: 100
-  rank: 6
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+  rank: 5
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: earful
   title: EARFUL
   score: 65.3846153846154
@@ -70,20 +62,28 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 64.34162386730026
+  llm_score: 85
+  recency_score: 3.2205551374516284
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 60.86723843031444
-  llm_score: 75
-  recency_score: 20.63704979704373
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 59.23076923076924
+  llm_score: 65
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 58.18777771345411
-  llm_score: 75
-  recency_score: 3.2205551374516284
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 54.71339227646828
+  llm_score: 65
+  recency_score: 20.63704979704373
   length_score: 100
   category_score: 0
   rank: 10

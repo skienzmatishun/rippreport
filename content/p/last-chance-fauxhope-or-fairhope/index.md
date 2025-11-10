@@ -23,36 +23,28 @@ related_articles:
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 82.22362358093228
-  llm_score: 90
+  score: 79.14670050400919
+  llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 2
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 70.02852304420526
-  llm_score: 95
-  recency_score: 0.18539978733415308
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 67.3400009893656
-  llm_score: 90
+  score: 64.26307791244253
+  llm_score: 85
   recency_score: 2.7100064308763563
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 67.27777263569868
-  llm_score: 90
+  score: 64.2008495587756
+  llm_score: 85
   recency_score: 2.3055221320412933
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: no-qualifications
   title: NO QUALIFICATIONS
   score: 64.06817376973028
@@ -60,23 +52,15 @@ related_articles:
   recency_score: 1.443129503246706
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 63.87467689035911
+  llm_score: 85
+  recency_score: 0.18539978733415308
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: no-radar
-  title: NO RADAR
-  score: 64.04028239224311
-  llm_score: 85
-  recency_score: 1.2618355495801652
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 63.84912128319318
-  llm_score: 85
-  recency_score: 0.019288340755563543
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: fauxhope-2
   title: FAUXHOPE
   score: 58.35111978683929
@@ -84,12 +68,28 @@ related_articles:
   recency_score: 4.282278614455312
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: pied-piper
   title: PIED PIPER
   score: 57.91862662382715
   llm_score: 75
   recency_score: 1.4710730548763988
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: no-radar
+  title: NO RADAR
+  score: 57.88643623839696
+  llm_score: 75
+  recency_score: 1.2618355495801652
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 57.695275129347024
+  llm_score: 75
+  recency_score: 0.019288340755563543
   length_score: 100
   category_score: 0
   rank: 10

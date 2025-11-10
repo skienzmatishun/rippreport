@@ -9,82 +9,82 @@ authors:
 - admin
 alttags: 'Protesters hold signs reading #SayHisName and #JusticeForOtis outside Baldwin County Courthouse, challenging law enfor...'
 related_articles:
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 90.35345600871601
-  llm_score: 85
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 90.1498014761652
-  llm_score: 85
-  recency_score: 95.97370959507373
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: rumors
-  title: RUMORS
-  score: 89.75076701493913
-  llm_score: 85
-  recency_score: 93.37998559710435
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 84.44770655266777
-  llm_score: 75
+  score: 81.37078347574469
+  llm_score: 70
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: rumors
+  title: RUMORS
+  score: 80.5199977841699
+  llm_score: 70
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 78.0457637010237
+  llm_score: 65
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 77.22672455308827
+  llm_score: 64
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 71.6448370455457
-  llm_score: 75
-  recency_score: 15.691440796046965
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 66.0735315571277
+  llm_score: 66
+  recency_score: 15.477955121329945
   length_score: 100
   category_score: 100
   rank: 5
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 71.61199309558924
-  llm_score: 75
-  recency_score: 15.477955121329945
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 64.26022166093031
+  llm_score: 63
+  recency_score: 15.691440796046965
   length_score: 100
   category_score: 100
   rank: 6
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 69.96387330197864
-  llm_score: 75
+  score: 62.57925791736325
+  llm_score: 63
   recency_score: 4.7651764628610165
   length_score: 100
   category_score: 100
   rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 65.15299721131186
-  llm_score: 85
-  recency_score: 8.494481873527002
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 58.257073088958066
+  llm_score: 63
+  recency_score: 51.67097507822733
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 59.48784231972729
-  llm_score: 65
-  recency_score: 51.67097507822733
+- slug: justified
+  title: JUSTIFIED
+  score: 54.691458749773396
+  llm_score: 68
+  recency_score: 8.494481873527002
   length_score: 100
   category_score: 0
   rank: 9
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 58.47738392306707
-  llm_score: 75
+  score: 54.16969161537476
+  llm_score: 68
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 0

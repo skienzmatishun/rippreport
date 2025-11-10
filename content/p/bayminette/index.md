@@ -10,72 +10,72 @@ alttags: Pigs stand in front of a Bay Minette water tower and American flag, ref
 related_articles:
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 84.56430232593213
-  llm_score: 95
+  score: 76.56430232593213
+  llm_score: 82
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 1
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 80.37499136682659
-  llm_score: 90
+  score: 74.22114521298043
+  llm_score: 80
   recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 78.37060858459402
-  llm_score: 85
-  recency_score: 94.40895579986105
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: cover-up
   title: COVER UP
-  score: 75.51188613771676
-  llm_score: 85
+  score: 71.20419383002445
+  llm_score: 78
   recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 67.95276757587844
-  llm_score: 90
-  recency_score: 6.69298924320973
+  rank: 3
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 69.13983935382478
+  llm_score: 70
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: happy-days
   title: HAPPY DAYS
-  score: 64.41824134397062
-  llm_score: 75
+  score: 61.34131826704754
+  llm_score: 70
   recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 59.33738296049382
+  llm_score: 76
+  recency_score: 6.69298924320973
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 64.23976750361531
-  llm_score: 85
-  recency_score: 2.5584887734994517
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 55.26942986651596
+  llm_score: 71
+  recency_score: 0.25129413235364534
   length_score: 100
   category_score: 0
   rank: 7
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 63.88481448190058
-  llm_score: 85
-  recency_score: 0.25129413235364534
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 55.00899827284608
+  llm_score: 70
+  recency_score: 2.5584887734994517
   length_score: 100
   category_score: 0
   rank: 8
 - slug: fire
   title: FIRE
-  score: 63.87686681280488
-  llm_score: 85
+  score: 54.646097582035644
+  llm_score: 70
   recency_score: 0.1996342832316262
   length_score: 100
   category_score: 0

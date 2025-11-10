@@ -9,19 +9,19 @@ authors:
 - admin
 alttags: Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation
 related_articles:
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 84.96884062410062
+  llm_score: 95
+  recency_score: 97.29746405665401
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: red-lips-award
   title: RED LIPS AWARD
   score: 81.93298429957298
   llm_score: 90
   recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 81.89191754717756
-  llm_score: 90
-  recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 2
@@ -57,14 +57,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 63.85563534553332
-  llm_score: 85
-  recency_score: 0.06162974596648724
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: alabama-suicide
   title: ALABAMA SUICIDE
   score: 57.94072148901291
@@ -72,12 +64,20 @@ related_articles:
   recency_score: 1.6146896785837832
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: no-guardrails
   title: NO GUARDRAILS
   score: 57.72186493364423
   llm_score: 75
   recency_score: 0.19212206868737905
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 57.70178919168717
+  llm_score: 75
+  recency_score: 0.06162974596648724
   length_score: 100
   category_score: 0
   rank: 9

@@ -10,25 +10,25 @@ authors:
 related_articles:
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 78.97993871257283
-  llm_score: 85
+  score: 81.44147717411128
+  llm_score: 89
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 68.26904091838546
+  llm_score: 85
+  recency_score: 28.748765969505406
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
   score: 66.32360553525145
   llm_score: 89
   recency_score: 0.10343597913435872
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 65.19211784146238
-  llm_score: 80
-  recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
   rank: 3
@@ -58,8 +58,8 @@ related_articles:
   rank: 6
 - slug: hell-yea
   title: HELL YEA
-  score: 57.70804748042087
-  llm_score: 75
+  score: 63.86189363426703
+  llm_score: 85
   recency_score: 0.10230862273558813
   length_score: 100
   category_score: 0
@@ -72,19 +72,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bury-the-body
-  title: BURY THE BODY
-  score: 56.47758302173259
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 56.47862658285112
   llm_score: 73
-  recency_score: 0.10428964126174459
+  recency_score: 0.11107278853218952
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 54.632472736697274
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 54.631429175578745
   llm_score: 70
-  recency_score: 0.11107278853218952
+  recency_score: 0.10428964126174459
   length_score: 100
   category_score: 0
   rank: 10

@@ -13,83 +13,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: liars-bridge
-  title: LIARS BRIDGE
-  score: 78.33087001916117
-  llm_score: 85
-  recency_score: 94.15065512454748
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 74.72641927699549
+  llm_score: 81
+  recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
   rank: 1
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 72.6436213771385
-  llm_score: 85
-  recency_score: 57.18353895140014
+- slug: liars-bridge
+  title: LIARS BRIDGE
+  score: 73.40779309608423
+  llm_score: 77
+  recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
   rank: 2
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 72.28940978606195
-  llm_score: 85
+  score: 64.28940978606195
+  llm_score: 72
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 71.03411158468779
-  llm_score: 75
-  recency_score: 86.72172530047058
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 64.02823676175387
+  llm_score: 71
+  recency_score: 57.18353895140014
   length_score: 100
   category_score: 0
   rank: 4
 - slug: pied-piper
   title: PIED PIPER
-  score: 68.42940729054047
-  llm_score: 85
+  score: 63.50633036746354
+  llm_score: 77
   recency_score: 29.79114738851293
   length_score: 100
   category_score: 0
   rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 64.60168775089795
-  llm_score: 85
-  recency_score: 4.910970380836641
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: going-down
-  title: GOING DOWN
-  score: 58.59017958320785
-  llm_score: 75
-  recency_score: 5.836167290850916
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 58.45199287182755
-  llm_score: 75
+  score: 57.83660825644293
+  llm_score: 74
   recency_score: 4.937953666878992
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 58.447841597051806
-  llm_score: 75
+  score: 56.60168775089796
+  llm_score: 72
   recency_score: 4.910970380836641
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 56.60168775089796
+  llm_score: 72
+  recency_score: 4.910970380836641
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 58.388226415929275
-  llm_score: 75
+  score: 56.54207256977543
+  llm_score: 72
   recency_score: 4.5234717035402
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: going-down
+  title: GOING DOWN
+  score: 56.12864112166938
+  llm_score: 71
+  recency_score: 5.836167290850916
   length_score: 100
   category_score: 0
   rank: 10

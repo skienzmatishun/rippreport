@@ -9,14 +9,6 @@ authors:
 - admin
 alttags: Alabama State House where veterans are rallying against VA control under the governor
 related_articles:
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 84.92788622937071
-  llm_score: 95
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: war
   title: WAR
   score: 79.18867728610554
@@ -24,12 +16,20 @@ related_articles:
   recency_score: 99.72640235968593
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: red-lips-award
   title: RED LIPS AWARD
   score: 78.89724064096211
   llm_score: 85
   recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 78.77404007552455
+  llm_score: 85
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
   rank: 3
@@ -43,17 +43,17 @@ related_articles:
   rank: 4
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 62.37239372156009
-  llm_score: 65
+  score: 65.44931679848317
+  llm_score: 70
   recency_score: 70.42055919014051
   length_score: 100
   category_score: 0
   rank: 5
-- slug: combat
-  title: COMBAT
-  score: 57.77533798221373
-  llm_score: 75
-  recency_score: 0.5396968843891398
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 58.49545239778575
+  llm_score: 60
+  recency_score: 65.22044058560728
   length_score: 100
   category_score: 0
   rank: 6
@@ -73,11 +73,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 52.341606243939594
-  llm_score: 50
-  recency_score: 65.22044058560728
+- slug: combat
+  title: COMBAT
+  score: 54.69841490529065
+  llm_score: 70
+  recency_score: 0.5396968843891398
   length_score: 100
   category_score: 0
   rank: 9

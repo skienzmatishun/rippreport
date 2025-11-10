@@ -16,14 +16,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 63.86516893620397
-  llm_score: 85
-  recency_score: 0.12359808532571412
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: exposure
   title: EXPOSURE
   score: 63.84966105990167
@@ -31,7 +23,7 @@ related_articles:
   recency_score: 0.022796889360761432
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
   score: 58.11963986988564
@@ -39,12 +31,20 @@ related_articles:
   recency_score: 2.7776591542565425
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
   score: 58.099077147479335
   llm_score: 75
   recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 57.71132278235782
+  llm_score: 75
+  recency_score: 0.12359808532571412
   length_score: 100
   category_score: 0
   rank: 5
@@ -58,20 +58,12 @@ related_articles:
   rank: 6
 - slug: happy-days
   title: HAPPY DAYS
-  score: 55.30371846928615
-  llm_score: 70
+  score: 52.22679539236307
+  llm_score: 65
   recency_score: 4.474170050359933
   length_score: 100
   category_score: 0
   rank: 7
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 54.79916215968157
-  llm_score: 70
-  recency_score: 1.1945540379301263
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: black-cloud
   title: BLACK CLOUD
   score: 48.94893034754481
@@ -79,11 +71,19 @@ related_articles:
   recency_score: 3.168047259041166
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 42.49146985198926
+  llm_score: 50
+  recency_score: 1.1945540379301263
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 48.47631703041705
-  llm_score: 60
+  score: 36.16862472272473
+  llm_score: 40
   recency_score: 0.0960606977107225
   length_score: 100
   category_score: 0

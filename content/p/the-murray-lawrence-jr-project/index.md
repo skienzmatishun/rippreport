@@ -13,81 +13,81 @@ alttags: Magazine cover featuring Murray Lawrence Jr., linked to a podcast episo
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 86.76621686101366
-  llm_score: 85
+  score: 75.07390916870598
+  llm_score: 66
   recency_score: 73.98040959658876
   length_score: 100
   category_score: 100
   rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 77.89995820606279
-  llm_score: 85
-  recency_score: 16.349728339408063
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 76.33553127275418
-  llm_score: 75
+  score: 72.6432235804465
+  llm_score: 69
   recency_score: 46.18095327290216
   length_score: 100
   category_score: 100
-  rank: 3
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 68.05380435990895
+  llm_score: 69
+  recency_score: 16.349728339408063
   length_score: 100
-  category_score: 0
-  rank: 4
+  category_score: 100
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 71.3473593623001
-  llm_score: 75
+  score: 67.03966705460779
+  llm_score: 68
   recency_score: 13.757835854950565
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: tides-end
   title: Tide's End
-  score: 69.32612281559554
-  llm_score: 75
+  score: 63.787661277134
+  llm_score: 66
   recency_score: 75.61979830137088
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 61.07692307692309
+  llm_score: 68
+  recency_score: 50
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 65.3846153846154
-  llm_score: 75
+- slug: earful
+  title: EARFUL
+  score: 59.84615384615386
+  llm_score: 66
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: earful
-  title: EARFUL
-  score: 62.30769230769232
-  llm_score: 70
-  recency_score: 50
+- slug: innocent
+  title: INNOCENT
+  score: 58.79288366395499
+  llm_score: 71
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
   rank: 8
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 62.30769230769232
-  llm_score: 70
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 56.76923076923078
+  llm_score: 61
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: innocent
-  title: INNOCENT
-  score: 61.254422125493456
-  llm_score: 75
-  recency_score: 23.153743815707337
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 56.76923076923078
+  llm_score: 61
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

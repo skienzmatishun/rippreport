@@ -21,19 +21,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.49224173385585
+  llm_score: 90
+  recency_score: 32.69957127006297
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 83.44034311027849
   llm_score: 75
   recency_score: 92.36223021681012
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.41531865693277
-  llm_score: 85
-  recency_score: 32.69957127006297
   length_score: 100
   category_score: 100
   rank: 3
@@ -47,12 +47,20 @@ related_articles:
   rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+  score: 74.61538461538463
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 74.61538461538463
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: earful
   title: EARFUL
   score: 71.53846153846155
@@ -60,20 +68,12 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 65.44671503448421
+- slug: justified
+  title: JUSTIFIED
+  score: 71.31007080445505
   llm_score: 85
-  recency_score: 10.403647724147305
+  recency_score: 48.51546022895776
   length_score: 100
   category_score: 0
   rank: 8
@@ -85,11 +85,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: justified
-  title: JUSTIFIED
-  score: 65.1562246506089
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 59.29286888063806
   llm_score: 75
-  recency_score: 48.51546022895776
+  recency_score: 10.403647724147305
   length_score: 100
   category_score: 0
   rank: 10

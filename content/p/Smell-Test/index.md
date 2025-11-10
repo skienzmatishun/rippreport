@@ -15,81 +15,81 @@ alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eag
 related_articles:
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
-  score: 66.99810299035336
-  llm_score: 90
+  score: 53.45964145189182
+  llm_score: 68
   recency_score: 0.4876694372967864
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 66.9696546883904
-  llm_score: 90
-  recency_score: 0.30275547453758156
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 52.458355846280284
+  llm_score: 61
+  recency_score: 21.979313000821772
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 66.96281139727064
-  llm_score: 90
-  recency_score: 0.25827408225904297
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: last-chance
-  title: LAST CHANCE
-  score: 66.53244779533593
-  llm_score: 85
-  recency_score: 17.460910669683468
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-signs
-  title: CATALYST SIGNS
-  score: 64.29385994451938
-  llm_score: 85
-  recency_score: 2.9100896393759403
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
-  score: 63.90335663996948
-  llm_score: 85
+  score: 52.21104894766179
+  llm_score: 66
   recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 63.9025783827532
-  llm_score: 85
-  recency_score: 0.36675948789569357
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-trifecta
-  title: CATALYST TRIFECTA
-  score: 63.90211652010445
-  llm_score: 85
-  recency_score: 0.3637573806788297
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 3
 - slug: snakes-in-the-schools
   title: SNAKES IN THE SCHOOLS
-  score: 63.89927791701313
-  llm_score: 85
+  score: 51.591585609320816
+  llm_score: 65
   recency_score: 0.34530646058523073
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 49.73888545762117
+  llm_score: 62
+  recency_score: 0.30275547453758156
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 49.53455023850961
+  llm_score: 61
+  recency_score: 2.9745765503123778
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: elliotttuckercatalyst-selling-your-soul
   title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 63.89535503607607
-  llm_score: 85
+  score: 49.126124266845295
+  llm_score: 61
   recency_score: 0.3198077344943682
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 49.11665755111679
+  llm_score: 61
+  recency_score: 0.25827408225904297
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 48.50551204340584
+  llm_score: 60
+  recency_score: 0.28582828213784484
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 48.50362607267352
+  llm_score: 60
+  recency_score: 0.2735694723777712
   length_score: 100
   category_score: 0
   rank: 10

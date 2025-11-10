@@ -8,14 +8,30 @@ authors:
 - admin
 rumble: v5rjhyn
 related_articles:
-- slug: the-180
-  title: THE 180
-  score: 66.47446719583172
-  llm_score: 70
-  recency_score: 77.0840367729061
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 70.4618986652748
+  llm_score: 75
+  recency_score: 83.00234132428609
   length_score: 100
   category_score: 0
   rank: 1
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 65.32619018413641
+  llm_score: 65
+  recency_score: 89.62023619688662
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: the-180
+  title: THE 180
+  score: 63.39754411890864
+  llm_score: 65
+  recency_score: 77.0840367729061
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: the-mug-shot
   title: The Mugshot
   score: 62.09102604302952
@@ -23,15 +39,7 @@ related_articles:
   recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 61.23112943450557
-  llm_score: 60
-  recency_score: 83.00234132428609
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 4
 - slug: backstory-155
   title: What the hell is ESG?
   score: 60.97335453106766
@@ -39,19 +47,11 @@ related_articles:
   recency_score: 21.326804451939722
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 58.97809728788549
-  llm_score: 70
-  recency_score: 28.357632371255608
-  length_score: 100
-  category_score: 0
   rank: 5
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 55.25463829497519
-  llm_score: 70
+  score: 58.33156137189827
+  llm_score: 75
   recency_score: 4.155148917338647
   length_score: 100
   category_score: 0
@@ -64,19 +64,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 43.787728645674875
-  llm_score: 30
-  recency_score: 89.62023619688662
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 52.64417555682677
+  llm_score: 65
+  recency_score: 7.1871411193739325
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 43.41340632605753
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 46.67040498019318
   llm_score: 50
-  recency_score: 7.1871411193739325
+  recency_score: 28.357632371255608
   length_score: 100
   category_score: 0
   rank: 9

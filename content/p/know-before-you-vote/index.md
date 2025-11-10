@@ -11,16 +11,16 @@ alttags: 'YouTube video thumbnail: Watch This Before You Vote - Fairhope City Co
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 85.13378486641899
-  llm_score: 95
+  score: 82.05686178949591
+  llm_score: 90
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
-  score: 71.74701037350734
-  llm_score: 75
+  score: 80.97777960427656
+  llm_score: 90
   recency_score: 91.35556742779755
   length_score: 100
   category_score: 0
@@ -33,11 +33,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 66.32356199703635
-  llm_score: 89
-  recency_score: 0.10315298073621133
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 63.8636206362684
+  llm_score: 85
+  recency_score: 0.11353413574452939
   length_score: 100
   category_score: 0
   rank: 4
@@ -49,27 +49,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 57.70977448242225
-  llm_score: 75
-  recency_score: 0.11353413574452939
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 63.86233082287753
+  llm_score: 85
+  recency_score: 0.10515034870386371
   length_score: 100
   category_score: 0
   rank: 6
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 63.86202353549789
+  llm_score: 85
+  recency_score: 0.10315298073621133
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: bury-the-body
   title: BURY THE BODY
   score: 57.70861817840095
   llm_score: 75
   recency_score: 0.10601815960603846
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 57.70848466903138
-  llm_score: 75
-  recency_score: 0.10515034870386371
   length_score: 100
   category_score: 0
   rank: 8

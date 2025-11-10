@@ -12,11 +12,11 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 79.65633893766778
-  llm_score: 95
-  recency_score: 62.766203094840556
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 75.85878609196975
+  llm_score: 89
+  recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
   rank: 1
@@ -28,14 +28,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 73.39724763043128
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 73.50249278382164
   llm_score: 85
-  recency_score: 62.08210959780326
+  recency_score: 62.766203094840556
   length_score: 100
   category_score: 0
   rank: 3
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 71.72484619080895
+  llm_score: 90
+  recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 70.86883278578507
+  llm_score: 95
+  recency_score: 5.647413107602894
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: I-SEE-YOU
   title: I SEE YOU
   score: 70.52444291094135
@@ -43,28 +59,12 @@ related_articles:
   recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 68.64792311388587
-  llm_score: 85
-  recency_score: 31.21150024025806
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
   score: 67.31200085643964
   llm_score: 85
   recency_score: 22.528005566857594
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 64.71498663193891
-  llm_score: 85
-  recency_score: 5.647413107602894
   length_score: 100
   category_score: 0
   rank: 7

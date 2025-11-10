@@ -12,80 +12,80 @@ alttags: Podcast graphic promoting a documentary questioning George Floyd’s de
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 82.83091264504338
-  llm_score: 75
+  score: 72.98475879888954
+  llm_score: 59
   recency_score: 88.40093219278197
   length_score: 100
   category_score: 100
   rank: 1
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 77.72041657043904
-  llm_score: 75
+  score: 68.48964733966982
+  llm_score: 60
   recency_score: 55.18270770785375
   length_score: 100
   category_score: 100
   rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 77.35630644498639
-  llm_score: 75
+  score: 68.12553721421716
+  llm_score: 60
   recency_score: 52.81599189241148
   length_score: 100
   category_score: 100
   rank: 3
 - slug: rumors
   title: RUMORS
-  score: 74.058921779933
-  llm_score: 75
+  score: 65.44353716454837
+  llm_score: 61
   recency_score: 31.3829915695644
   length_score: 100
   category_score: 100
   rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 73.92843922189228
-  llm_score: 75
+  score: 64.69766999112304
+  llm_score: 60
   recency_score: 30.53485494229968
   length_score: 100
   category_score: 100
   rank: 5
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 63.69359479399812
-  llm_score: 65
+  score: 60.00128710169043
+  llm_score: 59
   recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: the-180
+  title: THE 180
+  score: 57.93700793331091
+  llm_score: 63
+  recency_score: 49.59055156652082
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: backstory-153
-  title: No Boomers
-  score: 50.5905656224837
-  llm_score: 50
-  recency_score: 53.838676546144015
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 56.76923076923078
+  llm_score: 61
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-180
-  title: THE 180
-  score: 49.93700793331091
-  llm_score: 50
-  recency_score: 49.59055156652082
+- slug: backstory-153
+  title: No Boomers
+  score: 56.12902716094524
+  llm_score: 59
+  recency_score: 53.838676546144015
   length_score: 100
   category_score: 0
   rank: 9
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
-  score: 46.81622046270766
-  llm_score: 50
+  score: 52.354682001169195
+  llm_score: 59
   recency_score: 29.305433007599714
   length_score: 100
   category_score: 0

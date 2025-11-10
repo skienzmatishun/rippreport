@@ -8,70 +8,46 @@ authors:
 - admin
 alttags: Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations
 related_articles:
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 90.31250161398609
-  llm_score: 85
-  recency_score: 97.03126049090956
+- slug: rumors
+  title: RUMORS
+  score: 88.0629162769017
+  llm_score: 82
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 100
   rank: 1
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 90.19030950591318
-  llm_score: 85
-  recency_score: 96.23701178843567
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 87.235578537063
+  llm_score: 80
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 100
   rank: 2
-- slug: rumors
-  title: RUMORS
-  score: 89.90907012305556
-  llm_score: 85
-  recency_score: 94.40895579986105
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 85.88261719822088
+  llm_score: 78
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 100
   rank: 3
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 81.09100873773036
-  llm_score: 85
+  score: 72.47562412234575
+  llm_score: 71
   recency_score: 37.09155679524731
   length_score: 100
   category_score: 100
   rank: 4
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 81.0753961801692
-  llm_score: 85
+  score: 72.4600115647846
+  llm_score: 71
   recency_score: 36.990075171099754
   length_score: 100
   category_score: 100
   rank: 5
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 79.0630911680524
-  llm_score: 85
-  recency_score: 98.91009259234048
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 78.45686204444962
-  llm_score: 85
-  recency_score: 19.9696032889225
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: cover-up
-  title: COVER UP
-  score: 73.29314955176393
-  llm_score: 85
-  recency_score: 61.405472086465494
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 71.63823221296889
@@ -79,11 +55,35 @@ related_articles:
   recency_score: 15.648509384297702
   length_score: 100
   category_score: 100
+  rank: 6
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 71.07224665983425
+  llm_score: 73
+  recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 69.83232193728315
+  llm_score: 70
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: cover-up
+  title: COVER UP
+  score: 64.67776493637932
+  llm_score: 71
+  recency_score: 61.405472086465494
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: justified
   title: JUSTIFIED
-  score: 65.16739754425065
-  llm_score: 85
+  score: 59.628936005789114
+  llm_score: 76
   recency_score: 8.588084037629146
   length_score: 100
   category_score: 0

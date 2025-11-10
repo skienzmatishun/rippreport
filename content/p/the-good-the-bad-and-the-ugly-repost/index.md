@@ -26,11 +26,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 63.954459667489466
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 64.82629699430001
   llm_score: 85
-  recency_score: 0.7039878386814237
+  recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
   rank: 2
@@ -42,11 +42,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 63.86613017361563
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 63.86569709965432
   llm_score: 85
-  recency_score: 0.1298461285014998
+  recency_score: 0.12703114775298338
   length_score: 100
   category_score: 0
   rank: 4
@@ -58,11 +58,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 58.672450840453855
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 57.80061351364331
   llm_score: 75
-  recency_score: 6.370930462949982
+  recency_score: 0.7039878386814237
   length_score: 100
   category_score: 0
   rank: 6
@@ -90,11 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: russian-roulette-fairhope-style
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 57.711850945808166
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 57.71228401976948
   llm_score: 75
-  recency_score: 0.12703114775298338
+  recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
   rank: 10

@@ -16,25 +16,25 @@ alttags: Councilman Jack Burrell cycling through town after a public backlash ov
 related_articles:
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 79.0630911680524
-  llm_score: 85
+  score: 82.14001424497548
+  llm_score: 90
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 69.36799018385433
-  llm_score: 85
-  recency_score: 35.89193619505306
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 71.23824006698531
+  llm_score: 90
+  recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
   rank: 2
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 68.16131699006223
-  llm_score: 85
-  recency_score: 28.048560435404436
+- slug: honey-bees
+  title: HONEY BEES
+  score: 67.0768755048848
+  llm_score: 90
+  recency_score: 0.9996907817511175
   length_score: 100
   category_score: 0
   rank: 3
@@ -62,14 +62,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: honey-bees
-  title: HONEY BEES
-  score: 63.99995242796172
-  llm_score: 85
-  recency_score: 0.9996907817511175
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: disposal
   title: DISPOSAL
   score: 63.95685969935098
@@ -77,7 +69,7 @@ related_articles:
   recency_score: 0.7195880457812709
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
   score: 63.94728980651787
@@ -85,11 +77,19 @@ related_articles:
   recency_score: 0.6573837423660799
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 63.21414403000818
+  llm_score: 75
+  recency_score: 35.89193619505306
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 53.874453215941905
-  llm_score: 65
+  score: 60.028299369788066
+  llm_score: 75
   recency_score: 15.18394590362233
   length_score: 100
   category_score: 0

@@ -30,11 +30,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 86.98517201795988
-  llm_score: 95
-  recency_score: 35.40361811673922
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 89.02207055443304
+  llm_score: 85
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 100
   rank: 3
@@ -46,22 +46,30 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 82.8682244005869
-  llm_score: 75
-  recency_score: 88.64345860381478
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 80.83132586411374
+  llm_score: 85
+  recency_score: 35.40361811673922
   length_score: 100
   category_score: 100
   rank: 5
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 74.68183603529894
-  llm_score: 89
+  score: 72.22029757376049
+  llm_score: 85
   recency_score: 54.43193422944308
   length_score: 100
   category_score: 0
   rank: 6
+- slug: justified
+  title: JUSTIFIED
+  score: 71.92728932846137
+  llm_score: 85
+  recency_score: 52.527380634998835
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 71.82307073105022
@@ -69,7 +77,7 @@ related_articles:
   recency_score: 16.84995975182637
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 8
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
   score: 71.53846153846155
@@ -77,20 +85,12 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
   score: 65.32446785568045
   llm_score: 85
   recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: justified
-  title: JUSTIFIED
-  score: 62.696520097692144
-  llm_score: 70
-  recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
   rank: 10

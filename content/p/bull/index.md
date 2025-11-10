@@ -13,81 +13,81 @@ authors:
 related_articles:
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 74.45938937267742
-  llm_score: 95
+  score: 65.2286201419082
+  llm_score: 80
   recency_score: 28.986030922403184
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 71.99278347513783
-  llm_score: 95
-  recency_score: 12.953092588395847
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 71.98142135281624
-  llm_score: 90
+  score: 64.59680596820085
+  llm_score: 78
   recency_score: 32.87923879330549
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 69.9204958801979
-  llm_score: 90
+  score: 61.92049588019791
+  llm_score: 77
   recency_score: 19.483223221286327
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 61.172314131946806
+  llm_score: 79
+  recency_score: 6.620041857654132
   length_score: 100
   category_score: 0
   rank: 4
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
-  score: 67.20254948238492
-  llm_score: 90
+  score: 60.43331871315416
+  llm_score: 79
   recency_score: 1.8165716355019172
   length_score: 100
   category_score: 0
   rank: 5
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 65.550817820959
-  llm_score: 85
-  recency_score: 11.080315836233387
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 60.30047578283014
+  llm_score: 76
+  recency_score: 12.953092588395847
   length_score: 100
   category_score: 0
   rank: 6
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 64.8646218242545
-  llm_score: 85
-  recency_score: 6.620041857654132
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 60.01235628249746
+  llm_score: 76
+  recency_score: 11.080315836233387
   length_score: 100
   category_score: 0
   rank: 7
 - slug: nappi-award
   title: NAPPI AWARD
-  score: 64.6058390256737
-  llm_score: 85
+  score: 59.682762102596776
+  llm_score: 77
   recency_score: 4.937953666878992
   length_score: 100
   category_score: 0
   rank: 8
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 63.87886442803671
-  llm_score: 85
-  recency_score: 0.2126187822384949
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 58.935410879762614
+  llm_score: 77
+  recency_score: 0.0801707184569117
   length_score: 100
   category_score: 0
   rank: 9
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 63.85848780283954
-  llm_score: 85
-  recency_score: 0.0801707184569117
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 58.34040288957517
+  llm_score: 76
+  recency_score: 0.2126187822384949
   length_score: 100
   category_score: 0
   rank: 10

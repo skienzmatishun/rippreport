@@ -626,6 +626,10 @@ class CommentSystem {
         form.querySelector(".character-counter")
       );
 
+      // Clear frontend cache since new comment was added
+      this.orderingCache.clear();
+      console.log("🗑️ Cleared frontend cache after new comment posted");
+
       // Refresh comments to show the new comment
       setTimeout(() => {
         this.loadComments();
@@ -2568,6 +2572,27 @@ class CommentSystem {
     this.loadComments();
   }
 
+  /**
+   * Show AI processing banner (disabled - no banners)
+   */
+  showAIProcessingBanner() {
+    // No-op: banners disabled
+  }
+
+  /**
+   * Hide AI processing banner (disabled - no banners)
+   */
+  hideAIProcessingBanner() {
+    // No-op: banners disabled
+  }
+
+  /**
+   * Update AI status indicator (disabled - no visual indicators)
+   */
+  updateAIStatusIndicator(status) {
+    // No-op: status indicators disabled
+  }
+
   // Notification system for user feedback
   showNotification(message, type = "info", duration = 5000) {
     // Remove existing notifications
@@ -2665,6 +2690,48 @@ class CommentSystem {
     // Remove notifications
     const notifications = document.querySelectorAll(".comment-notification");
     notifications.forEach((notification) => notification.remove());
+  }
+
+  /**
+   * Show AI processing banner
+   */
+  showAIProcessingBanner() {
+    // Remove existing banner
+    this.hideAIProcessingBanner();
+
+    const banner = document.createElement("div");
+    banner.className = "ai-processing-banner";
+    banner.innerHTML = `
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1rem; border-radius: 8px; margin-bottom: 1rem; display: flex; align-items: center; gap: 1rem;">
+        <div class="loading-spinner" style="width: 20px; height: 20px; border: 2px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; animation: spin 1s linear infinite;"></div>
+        <div style="flex: 1;">
+          <div style="font-weight: 600; margin-bottom: 0.25rem;">AI Analysis in Progress</div>
+          <div style="font-size: 0.875rem; opacity: 0.9;">Analyzing comments for relevance. Showing recent comments for now...</div>
+        </div>
+      </div>
+    `;
+
+    const commentsContainer = this.container.querySelector(".comments-container");
+    if (commentsContainer) {
+      commentsContainer.insertBefore(banner, commentsContainer.firstChild);
+    }
+  }
+
+  /**
+   * Hide AI processing banner
+   */
+  hideAIProcessingBanner() {
+    const banner = this.container.querySelector(".ai-processing-banner");
+    if (banner) {
+      banner.remove();
+    }
+  }
+
+  /**
+   * Update AI status indicator (disabled - no visual indicators)
+   */
+  updateAIStatusIndicator(status) {
+    // No-op: status indicators disabled
   }
 
   /**

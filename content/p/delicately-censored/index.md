@@ -12,81 +12,81 @@ alttags: The Guardian webpage announcing removal of a document related to Osama 
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 91.44277530823625
-  llm_score: 90
+  score: 74.21200607746702
+  llm_score: 62
   recency_score: 84.37803950353559
   length_score: 100
   category_score: 100
   rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 83.09799975789966
-  llm_score: 85
+  score: 69.55953821943812
+  llm_score: 63
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 100
   rank: 2
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 62.330345865465915
+  llm_score: 63
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 0
   rank: 3
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 63.97298356750134
-  llm_score: 75
+  score: 57.81913741365518
+  llm_score: 65
   recency_score: 40.82439318875856
   length_score: 100
   category_score: 0
   rank: 4
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 60.48419201931207
-  llm_score: 60
-  recency_score: 78.14724812552835
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 57.76772698531183
+  llm_score: 65
+  recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 5
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 58.11267265303528
-  llm_score: 75
-  recency_score: 2.7323722447292558
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 57.384615384615394
+  llm_score: 62
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 54.585560344800854
-  llm_score: 65
-  recency_score: 19.806142241205503
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 52.49735581207703
-  llm_score: 65
-  recency_score: 6.232812778500628
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 49.033625959355234
-  llm_score: 50
+  score: 57.033625959355234
+  llm_score: 63
   recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 52.73940649864701
+  llm_score: 62
+  recency_score: 19.806142241205503
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 51.266586581307806
+  llm_score: 63
+  recency_score: 6.232812778500628
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 17.767726985311825
-  llm_score: 0
-  recency_score: 40.49022540452686
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 50.112672653035276
+  llm_score: 62
+  recency_score: 2.7323722447292558
   length_score: 100
   category_score: 0
   rank: 10

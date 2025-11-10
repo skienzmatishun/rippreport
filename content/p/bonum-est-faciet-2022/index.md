@@ -7,38 +7,22 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 76.51121942173778
-  llm_score: 85
-  recency_score: 82.32292624129552
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: cover-up
   title: COVER UP
-  score: 76.20274882459347
-  llm_score: 85
+  score: 72.51044113228578
+  llm_score: 79
   recency_score: 80.31786735985746
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 70.97275788327624
+  llm_score: 76
+  recency_score: 82.32292624129552
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 69.07356394423205
-  llm_score: 85
-  recency_score: 33.97816563750821
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 68.51815357350887
-  llm_score: 85
-  recency_score: 30.367998227807558
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
   score: 66.53811283570458
@@ -46,15 +30,15 @@ related_articles:
   recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 64.76923076923077
+  llm_score: 74
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: deaf-ears
   title: DEAF EARS
   score: 63.03555598480498
@@ -62,27 +46,43 @@ related_articles:
   recency_score: 34.73111390123228
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 62.919717790385896
+  llm_score: 75
+  recency_score: 33.97816563750821
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 61.748922804278095
+  llm_score: 74
+  recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: black-cloud
   title: BLACK CLOUD
-  score: 62.188500620678035
-  llm_score: 75
+  score: 61.573116005293414
+  llm_score: 74
   recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
   rank: 8
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 61.264194724127194
-  llm_score: 75
+  score: 60.03342549335796
+  llm_score: 73
   recency_score: 23.21726570682666
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 61.12978503618943
-  llm_score: 75
+  score: 59.8990158054202
+  llm_score: 73
   recency_score: 22.343602735231208
   length_score: 100
   category_score: 0

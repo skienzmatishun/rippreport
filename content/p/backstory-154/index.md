@@ -11,81 +11,81 @@ alttags: WHO official speaks at a podium about ending Covid-19 pandemic restrict
 related_articles:
 - slug: alien-indictment
   title: Alien Indictment
-  score: 65.47811954940003
-  llm_score: 65
+  score: 62.40119647247696
+  llm_score: 60
   recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 1
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 62.8578686264601
-  llm_score: 65
+  score: 58.5501763187678
+  llm_score: 58
   recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-180
-  title: THE 180
-  score: 61.85648484623268
-  llm_score: 75
-  recency_score: 27.067151500512303
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 55.012502659815205
+  llm_score: 57
+  recency_score: 54.58126728879875
   length_score: 100
   category_score: 0
   rank: 3
 - slug: bsp-131
   title: Welcome To The Party Pal
-  score: 58.58506760056245
-  llm_score: 65
+  score: 54.27737529287015
+  llm_score: 58
   recency_score: 45.8029394036559
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 56.445906091340554
-  llm_score: 70
-  recency_score: 11.898389593713517
+- slug: the-180
+  title: THE 180
+  score: 52.01033100007883
+  llm_score: 59
+  recency_score: 27.067151500512303
   length_score: 100
   category_score: 0
   rank: 5
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 55.40572094031323
-  llm_score: 65
-  recency_score: 25.13718611203594
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 50.129246415188845
-  llm_score: 60
-  recency_score: 10.840101698727413
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 38.397118044430584
-  llm_score: 30
-  recency_score: 54.58126728879875
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: he-must-go
   title: He Must Go
-  score: 35.142182489136
-  llm_score: 30
+  score: 51.75756710452062
+  llm_score: 57
   recency_score: 33.42418617938393
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 49.86725940185169
+  llm_score: 56
+  recency_score: 25.13718611203594
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 49.513861799804225
+  llm_score: 59
+  recency_score: 10.840101698727413
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
-  score: 14.602302603929836
-  llm_score: 0
+  score: 49.0638410654683
+  llm_score: 56
   recency_score: 19.91496692554393
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 49.06129070672517
+  llm_score: 58
+  recency_score: 11.898389593713517
   length_score: 100
   category_score: 0
   rank: 10

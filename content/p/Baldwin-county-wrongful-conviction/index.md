@@ -10,82 +10,82 @@ authors:
 - admin
 alttags: Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption
 related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 89.23076923076924
-  llm_score: 95
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 81.23076923076924
+  llm_score: 82
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 1
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 85.30054665785535
-  llm_score: 95
-  recency_score: 99.45355327605971
+- slug: earful
+  title: EARFUL
+  score: 79.80171196773843
+  llm_score: 87
+  recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 83.07692307692308
-  llm_score: 85
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 76.92307692307693
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 83.07692307692308
-  llm_score: 85
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 76.3076923076923
+  llm_score: 74
   recency_score: 50
   length_score: 100
   category_score: 100
   rank: 4
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 79.10483856939815
-  llm_score: 85
-  recency_score: 99.18145070108791
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 73.60823896554766
+  llm_score: 76
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 5
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 79.02145798661161
-  llm_score: 85
-  recency_score: 98.63947691297537
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 71.10483856939815
+  llm_score: 72
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 6
-- slug: earful
-  title: EARFUL
-  score: 78.5709427369692
-  llm_score: 85
-  recency_score: 95.71112779029973
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.02145798661161
+  llm_score: 72
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 7
-- slug: innocent
-  title: INNOCENT
-  score: 77.69230769230771
-  llm_score: 95
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 68.46153846153847
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 71.53846153846155
-  llm_score: 85
+- slug: innocent
+  title: INNOCENT
+  score: 67.23076923076924
+  llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 71.53846153846155
-  llm_score: 85
+  score: 63.538461538461554
+  llm_score: 72
   recency_score: 50
   length_score: 100
   category_score: 0

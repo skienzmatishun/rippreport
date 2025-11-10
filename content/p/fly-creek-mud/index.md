@@ -10,81 +10,81 @@ alttags: Muddy wave cresting near a “Fly Creek” sign, illustrating infrastru
 related_articles:
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 70.74486983723672
-  llm_score: 75
+  score: 71.36025445262133
+  llm_score: 76
   recency_score: 84.8416539420386
   length_score: 100
   category_score: 0
   rank: 1
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 69.82461097602022
-  llm_score: 85
+  score: 66.74768789909714
+  llm_score: 80
   recency_score: 38.85997134413138
   length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 64.04295998520153
-  llm_score: 85
+  score: 62.81219075443231
+  llm_score: 83
   recency_score: 1.2792399038099316
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 63.94868476331722
-  llm_score: 85
-  recency_score: 0.6664509615618259
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 59.56850866770294
+  llm_score: 78
+  recency_score: 0.1953063400690051
   length_score: 100
   category_score: 0
   rank: 4
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 63.916213176970665
-  llm_score: 85
-  recency_score: 0.4553856503092191
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 58.79802171067293
-  llm_score: 75
+  score: 59.41340632605754
+  llm_score: 76
   recency_score: 7.1871411193739325
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 59.02560784024029
+  llm_score: 77
+  recency_score: 0.6664509615618259
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: eagles-eye-catalyst-kant-corte
-  title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 57.89624968764597
-  llm_score: 75
-  recency_score: 1.3256229696987023
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 58.377751638509125
+  llm_score: 76
+  recency_score: 0.4553856503092191
   length_score: 100
   category_score: 0
   rank: 7
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 57.857914514638715
-  llm_score: 75
-  recency_score: 1.0764443451515464
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 57.28086507226135
+  llm_score: 74
+  recency_score: 1.3256229696987023
   length_score: 100
   category_score: 0
   rank: 8
-- slug: balls
-  title: BALLS
-  score: 57.76010115391477
-  llm_score: 75
-  recency_score: 0.4406575004459113
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 57.242529899254095
+  llm_score: 74
+  recency_score: 1.0764443451515464
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 57.7223548215491
-  llm_score: 75
-  recency_score: 0.1953063400690051
+- slug: balls
+  title: BALLS
+  score: 57.14471653853015
+  llm_score: 74
+  recency_score: 0.4406575004459113
   length_score: 100
   category_score: 0
   rank: 10

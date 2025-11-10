@@ -32,19 +32,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 82.72967032268879
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 82.5578229390937
   llm_score: 90
-  recency_score: 27.742857097477103
+  recency_score: 26.62584910410898
   length_score: 100
   category_score: 100
   rank: 3
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 80.62636679085217
-  llm_score: 85
-  recency_score: 34.071384140539074
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 80.51529254558906
+  llm_score: 90
+  recency_score: 13.34940154632884
   length_score: 100
   category_score: 100
   rank: 4
@@ -56,22 +56,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 79.48089986217062
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 79.65274724576571
   llm_score: 85
-  recency_score: 26.62584910410898
+  recency_score: 27.742857097477103
   length_score: 100
   category_score: 100
   rank: 6
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 77.43836946866598
-  llm_score: 85
-  recency_score: 13.34940154632884
-  length_score: 100
-  category_score: 100
-  rank: 7
 - slug: boss-sheriff
   title: BOSS SHERIFF
   score: 77.3665093597381
@@ -79,11 +71,19 @@ related_articles:
   recency_score: 12.882310838297602
   length_score: 100
   category_score: 100
+  rank: 7
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 74.47252063700603
+  llm_score: 75
+  recency_score: 34.071384140539074
+  length_score: 100
+  category_score: 100
   rank: 8
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 70.80031589174854
-  llm_score: 70
+  score: 73.87723896867162
+  llm_score: 75
   recency_score: 30.20205329636546
   length_score: 100
   category_score: 100

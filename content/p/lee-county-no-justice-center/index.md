@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
 related_articles:
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 87.14662552774283
-  llm_score: 85
-  recency_score: 76.45306593032835
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 81.85908258044711
-  llm_score: 95
-  recency_score: 77.0840367729061
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 81.66267205614106
-  llm_score: 90
-  recency_score: 20.807368364916808
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.09442411728917
-  llm_score: 75
+  score: 75.78673180959684
+  llm_score: 68
   recency_score: 70.6137567623795
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 1
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 75.45431783543515
+  llm_score: 66
+  recency_score: 76.45306593032835
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 79.05571520869678
-  llm_score: 85
+  score: 69.20956136254296
+  llm_score: 69
   recency_score: 23.862148856529085
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 3
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 68.38426668185842
+  llm_score: 78
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 78.94672981780114
-  llm_score: 85
+  score: 67.86980674087806
+  llm_score: 67
   recency_score: 23.153743815707337
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 67.5088259022949
+  llm_score: 67
+  recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: silence-the-eagle
-  title: SILENCE THE EAGLE
-  score: 72.69195898955073
-  llm_score: 85
-  recency_score: 57.49773343207967
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 64.01292873429325
+  llm_score: 66
+  recency_score: 77.0840367729061
   length_score: 100
   category_score: 0
   rank: 7
 - slug: justified
   title: JUSTIFIED
-  score: 69.55254719926883
-  llm_score: 85
+  score: 60.93716258388421
+  llm_score: 71
   recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 8
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 65.93967510505136
-  llm_score: 85
-  recency_score: 13.607888182833822
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 60.461538461538474
+  llm_score: 67
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 55.478136643512904
+  llm_score: 68
+  recency_score: 13.607888182833822
   length_score: 100
   category_score: 0
   rank: 10

@@ -32,14 +32,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 70.11662125034253
-  llm_score: 95
-  recency_score: 0.7580381272263648
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK
   score: 70.10366072306286
@@ -47,15 +39,39 @@ related_articles:
   recency_score: 0.6737946999085467
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 70.06816595221983
+  rank: 2
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 70.09063828655823
   llm_score: 95
-  recency_score: 0.44307868942877254
+  recency_score: 0.5891488626284136
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 67.3720112952914
+  llm_score: 90
+  recency_score: 2.9180734193940348
   length_score: 100
   category_score: 0
   rank: 4
+- slug: secret-society
+  title: SECRET SOCIETY
+  score: 67.10635165634926
+  llm_score: 90
+  recency_score: 1.1912857662700727
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 67.03969817341945
+  llm_score: 90
+  recency_score: 0.7580381272263648
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: catalyst-attack
   title: CATALYST ATTACK
   score: 67.0387435709924
@@ -63,28 +79,12 @@ related_articles:
   recency_score: 0.7518332114504676
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-aka-scott-boone-consulting
-  title: CATALYST AKA SCOTT BOONE CONSULTING
-  score: 67.03654644221137
-  llm_score: 90
-  recency_score: 0.7375518743738054
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 67.01371520963515
-  llm_score: 90
-  recency_score: 0.5891488626284136
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: secret-society
-  title: SECRET SOCIETY
-  score: 66.49096704096463
-  llm_score: 89
-  recency_score: 1.1912857662700727
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 63.85022028290019
+  llm_score: 85
+  recency_score: 0.026431838851144984
   length_score: 100
   category_score: 0
   rank: 8
@@ -98,8 +98,8 @@ related_articles:
   rank: 9
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
-  score: 54.83022393784888
-  llm_score: 70
+  score: 57.90714701477196
+  llm_score: 75
   recency_score: 1.3964555960176444
   length_score: 100
   category_score: 0

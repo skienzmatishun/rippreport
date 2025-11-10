@@ -12,8 +12,8 @@ alttags: President Biden and Vice President Harris featured in Backstory Podcast
 related_articles:
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 49.821334853252935
-  llm_score: 30
+  score: 68.2828733147914
+  llm_score: 60
   recency_score: 53.838676546144015
   length_score: 100
   category_score: 100
@@ -26,6 +26,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: scalped
+  title: Scalped
+  score: 44.6042592345833
+  llm_score: 30
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-first-christian-church-of-hypocrites-of-baldwin-county
+  title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
+  score: 42.32955887589853
+  llm_score: 50
+  recency_score: 0.1421326933403627
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: america-the-golden-door
+  title: AMERICA - THE GOLDEN DOOR
+  score: 42.32811130593385
+  llm_score: 50
+  recency_score: 0.1327234885700072
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: protester-pride
   title: PROTESTER PRIDE
   score: 42.31962735773183
@@ -33,52 +57,28 @@ related_articles:
   recency_score: 0.07757782525687204
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 36.20740866022587
-  llm_score: 40
-  recency_score: 0.34815629146816185
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 32.26044069013149
-  llm_score: 30
-  recency_score: 14.692864485854656
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: a-long-strange-day-jan-6-2021
   title: A long strange day Jan 6, 2021
-  score: 30.263125245481817
-  llm_score: 30
+  score: 39.49389447625105
+  llm_score: 45
   recency_score: 1.7103140956317624
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-first-christian-church-of-hypocrites-of-baldwin-county
-  title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
-  score: 30.021866568206214
-  llm_score: 30
-  recency_score: 0.1421326933403627
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: america-the-golden-door
-  title: AMERICA - THE GOLDEN DOOR
-  score: 30.020418998241546
-  llm_score: 30
-  recency_score: 0.1327234885700072
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 38.41428684397764
+  llm_score: 40
+  recency_score: 14.692864485854656
   length_score: 100
   category_score: 0
   rank: 8
-- slug: scalped
-  title: Scalped
-  score: 26.142720773044832
-  llm_score: 0
-  recency_score: 94.92768502479139
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 30.05356250637972
+  llm_score: 30
+  recency_score: 0.34815629146816185
   length_score: 100
   category_score: 0
   rank: 9

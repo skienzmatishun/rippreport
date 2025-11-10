@@ -16,6 +16,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: see-ya-in-court-jack
+  title: SEE YA IN COURT JACK
+  score: 63.85603311352767
+  llm_score: 85
+  recency_score: 0.06421523792975346
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
   score: 63.84824926492688
@@ -23,7 +31,7 @@ related_articles:
   recency_score: 0.013620222024632561
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: lagniappe
   title: LAGNIAPPE
   score: 57.740706706832256
@@ -31,7 +39,7 @@ related_articles:
   recency_score: 0.31459359440954926
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: loser
   title: LOSER
   score: 57.71441521200879
@@ -39,7 +47,7 @@ related_articles:
   recency_score: 0.14369887805702983
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: privacy-policy
   title: Privacy Policy
   score: 57.69280225458725
@@ -47,20 +55,12 @@ related_articles:
   recency_score: 0.003214654817000775
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 57.5726747156907
-  llm_score: 85
-  recency_score: 0.09738565198948891
-  length_score: 45.5
-  category_score: 0
   rank: 6
-- slug: see-ya-in-court-jack
-  title: SEE YA IN COURT JACK
-  score: 54.62526388275844
+- slug: im-back-2
+  title: I'M BACK
+  score: 56.69176937069486
   llm_score: 70
-  recency_score: 0.06421523792975346
+  recency_score: 13.496500909516493
   length_score: 100
   category_score: 0
   rank: 7
@@ -72,18 +72,18 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: im-back-2
-  title: I'M BACK
-  score: 50.537923216848704
-  llm_score: 60
-  recency_score: 13.496500909516493
-  length_score: 100
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 48.34190548492147
+  llm_score: 70
+  recency_score: 0.09738565198948891
+  length_score: 45.5
   category_score: 0
   rank: 9
 - slug: re-run-doing-nothing
   title: DOING NOTHING
-  score: 33.81821811613326
-  llm_score: 50
+  score: 43.048987346902486
+  llm_score: 65
   recency_score: 0.1309177548661077
   length_score: 26.25
   category_score: 0

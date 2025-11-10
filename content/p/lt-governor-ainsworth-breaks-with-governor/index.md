@@ -32,11 +32,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 75.51188613771676
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 74.18706242085727
   llm_score: 85
-  recency_score: 75.82725989515886
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 4
@@ -48,11 +48,11 @@ related_articles:
   length_score: 58.5
   category_score: 0
   rank: 5
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 68.03321626701111
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 69.35803998387061
   llm_score: 75
-  recency_score: 67.21590573557219
+  recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 6
@@ -66,25 +66,25 @@ related_articles:
   rank: 7
 - slug: offensive
   title: Offensive
-  score: 63.59906270759578
-  llm_score: 80
+  score: 57.445216553749624
+  llm_score: 70
   recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 54.72309860310771
-  llm_score: 70
-  recency_score: 0.700140920200011
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: hair-on-fire
   title: HAIR ON FIRE
   score: 45.0013560573314
   llm_score: 50
   recency_score: 17.508814372654022
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 42.415406295415394
+  llm_score: 50
+  recency_score: 0.700140920200011
   length_score: 100
   category_score: 0
   rank: 10

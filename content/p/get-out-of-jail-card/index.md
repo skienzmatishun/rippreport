@@ -10,81 +10,81 @@ alttags: Get Out of Jail Free Monopoly card symbolizing how some avoid accountab
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 75.58065295909566
-  llm_score: 75
+  score: 55.88834526678797
+  llm_score: 43
   recency_score: 41.27424423412174
   length_score: 100
   category_score: 100
   rank: 1
 - slug: happy-days
   title: HAPPY DAYS
-  score: 66.93449859280338
-  llm_score: 75
+  score: 52.16526782357261
+  llm_score: 51
   recency_score: 60.07424085322191
   length_score: 100
   category_score: 0
   rank: 2
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 64.23647056950882
-  llm_score: 75
-  recency_score: 42.537058701807275
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 63.84287797489023
-  llm_score: 65
+  score: 49.68903182104407
+  llm_score: 42
   recency_score: 4.978706836786395
   length_score: 100
   category_score: 100
+  rank: 3
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 45.774932107970365
+  llm_score: 45
+  recency_score: 42.537058701807275
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
-  score: 61.5914837726282
-  llm_score: 75
+  score: 43.129945311089735
+  llm_score: 45
   recency_score: 25.34464452208322
   length_score: 100
   category_score: 0
   rank: 5
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 60.159870689521014
-  llm_score: 75
+  score: 41.082947612597934
+  llm_score: 44
   recency_score: 16.039159481886507
   length_score: 100
   category_score: 0
   rank: 6
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 59.42522512465339
-  llm_score: 75
-  recency_score: 11.263963310246938
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 41.00240799009852
+  llm_score: 47
+  recency_score: 3.5156519356403035
   length_score: 100
   category_score: 0
   rank: 7
-- slug: rotten
-  title: ROTTEN
-  score: 58.81327269837798
-  llm_score: 75
-  recency_score: 7.286272539456778
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: straw-man
   title: STRAW MAN
-  score: 58.46670277969685
-  llm_score: 75
+  score: 40.620548933543
+  llm_score: 46
   recency_score: 5.033568068029432
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 40.34830204773031
+  llm_score: 44
+  recency_score: 11.263963310246938
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 58.23317722086775
-  llm_score: 75
-  recency_score: 3.5156519356403035
+- slug: rotten
+  title: ROTTEN
+  score: 39.12096500607028
+  llm_score: 43
+  recency_score: 7.286272539456778
   length_score: 100
   category_score: 0
   rank: 10

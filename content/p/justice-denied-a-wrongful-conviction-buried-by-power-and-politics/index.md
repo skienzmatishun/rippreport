@@ -25,22 +25,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 86.56916481077893
-  llm_score: 95
-  recency_score: 32.69957127006297
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: rule-32
-  title: RULE 32
-  score: 84.56061833888441
-  llm_score: 95
-  recency_score: 19.644019202748584
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 83.90824894103682
@@ -48,12 +32,28 @@ related_articles:
   recency_score: 35.40361811673922
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 2
 - slug: no-justice
   title: NO JUSTICE
   score: 81.8615504852126
   llm_score: 90
   recency_score: 22.100078153881906
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: rule-32
+  title: RULE 32
+  score: 80.86831064657672
+  llm_score: 89
+  recency_score: 19.644019202748584
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 80.41531865693277
+  llm_score: 85
+  recency_score: 32.69957127006297
   length_score: 100
   category_score: 100
   rank: 5
@@ -67,24 +67,24 @@ related_articles:
   rank: 6
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 77.69230769230771
-  llm_score: 95
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 76.30238390820936
-  llm_score: 85
+  score: 70.14853775436322
+  llm_score: 75
   recency_score: 5.965495403360867
   length_score: 100
   category_score: 100
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 72.96474986586873
-  llm_score: 95
+  score: 69.27244217356103
+  llm_score: 89
   recency_score: 19.270874128146687
   length_score: 100
   category_score: 0

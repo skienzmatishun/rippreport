@@ -24,12 +24,20 @@ alttags: Railway tracks diverging, symbolizing choices in Baldwin County politic
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 79.14670050400919
-  llm_score: 85
+  score: 82.22362358093228
+  llm_score: 90
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 78.47259218265259
+  llm_score: 90
+  recency_score: 0.07184918724182528
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: cooking-for-the-judge
   title: COOKING FOR THE JUDGE
   score: 78.47206029057718
@@ -37,7 +45,7 @@ related_articles:
   recency_score: 0.06839188875158306
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: catalyst-attack
   title: CATALYST ATTACK
   score: 70.09975998227398
@@ -45,7 +53,7 @@ related_articles:
   recency_score: 0.6484398847808431
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK
   score: 70.08940513174392
@@ -53,23 +61,7 @@ related_articles:
   recency_score: 0.5811333563354107
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 70.07817356189834
-  llm_score: 95
-  recency_score: 0.508128152339147
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: last-chance
-  title: LAST CHANCE
-  score: 67.5135058782898
-  llm_score: 90
-  recency_score: 3.837788208883614
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
   score: 67.50867292621633
@@ -77,12 +69,20 @@ related_articles:
   recency_score: 3.806374020406067
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 66.98186858262349
+  rank: 6
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 66.93274201427323
   llm_score: 90
-  recency_score: 0.3821457870526232
+  recency_score: 0.06282309277594886
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 63.92432740805219
+  llm_score: 85
+  recency_score: 0.508128152339147
   length_score: 100
   category_score: 0
   rank: 8
@@ -94,11 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 63.85581893735016
-  llm_score: 85
-  recency_score: 0.06282309277594886
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 54.62802647752408
+  llm_score: 70
+  recency_score: 0.08217210390646663
   length_score: 100
   category_score: 0
   rank: 10

@@ -12,28 +12,20 @@ alttags: Handcuffs against a black background symbolize allegations against Capt
 related_articles:
 - slug: crazy
   title: CRAZY
-  score: 69.36341718133603
-  llm_score: 75
+  score: 75.51726333518218
+  llm_score: 85
   recency_score: 0.8622116786841
   length_score: 100
   category_score: 100
   rank: 1
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 51.80659445288509
-  llm_score: 50
-  recency_score: 61.74286394375304
-  length_score: 100
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 48.36272886610906
+  llm_score: 70
+  recency_score: 0.2327376297088158
+  length_score: 45.5
   category_score: 0
   rank: 2
-- slug: scalped
-  title: Scalped
-  score: 51.03314822988006
-  llm_score: 50
-  recency_score: 56.715463494220344
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: big-mules
   title: Big Mules
   score: 47.607203478752226
@@ -41,13 +33,21 @@ related_articles:
   recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 45.65274829903894
+  llm_score: 40
+  recency_score: 61.74286394375304
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 42.208882712262906
-  llm_score: 60
-  recency_score: 0.2327376297088158
-  length_score: 45.5
+- slug: scalped
+  title: Scalped
+  score: 38.725455922187756
+  llm_score: 30
+  recency_score: 56.715463494220344
+  length_score: 100
   category_score: 0
   rank: 5
 - slug: not-a-hard-liquor
@@ -60,8 +60,8 @@ related_articles:
   rank: 6
 - slug: backstory-154
   title: W.H.O. Calls The Plague
-  score: 16.51433480315656
-  llm_score: 0
+  score: 28.82202711084887
+  llm_score: 20
   recency_score: 32.34317622051765
   length_score: 100
   category_score: 0

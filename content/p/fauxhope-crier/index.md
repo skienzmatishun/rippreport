@@ -14,80 +14,80 @@ authors:
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 80.59534057307586
-  llm_score: 89
+  score: 72.59534057307587
+  llm_score: 76
   recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 1
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 75.44813912578587
-  llm_score: 85
-  recency_score: 75.41290431760807
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 75.38474045731328
-  llm_score: 85
+  score: 71.69243276500559
+  llm_score: 79
   recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 71.4964003657282
-  llm_score: 85
-  recency_score: 49.72660237723329
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 69.70677132769386
-  llm_score: 90
-  recency_score: 18.094013630009982
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 68.79669864950806
-  llm_score: 75
+  score: 69.41208326489267
+  llm_score: 76
   recency_score: 72.17854122180232
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 68.6789083565551
+  llm_score: 74
+  recency_score: 75.41290431760807
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 68.64792311388587
-  llm_score: 85
+  score: 66.80176926773203
+  llm_score: 82
   recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 65.34255421188206
+  llm_score: 75
+  recency_score: 49.72660237723329
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 62.32215594307848
+  llm_score: 78
+  recency_score: 18.094013630009982
   length_score: 100
   category_score: 0
   rank: 7
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 68.54382383727689
-  llm_score: 85
+  score: 61.774593068046116
+  llm_score: 74
   recency_score: 30.53485494229968
   length_score: 100
   category_score: 0
   rank: 8
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 66.37531719787985
-  llm_score: 85
+  score: 60.221471044033706
+  llm_score: 75
   recency_score: 16.439561786218995
   length_score: 100
   category_score: 0
   rank: 9
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 64.24410480054608
-  llm_score: 85
+  score: 57.474874031315316
+  llm_score: 74
   recency_score: 2.5866812035494737
   length_score: 100
   category_score: 0

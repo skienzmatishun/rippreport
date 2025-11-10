@@ -37,19 +37,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 83.82787132452349
+  llm_score: 85
+  recency_score: 54.88116360940264
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
   score: 82.80774601322032
   llm_score: 85
   recency_score: 48.25034908593207
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 77.67402517067734
-  llm_score: 75
-  recency_score: 54.88116360940264
   length_score: 100
   category_score: 100
   rank: 4

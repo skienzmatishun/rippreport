@@ -22,11 +22,11 @@ authors:
 - ripp-report
 alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
 related_articles:
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 81.85096315244763
-  llm_score: 90
-  recency_score: 97.03126049090956
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 81.07400960557023
+  llm_score: 95
+  recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 1
@@ -38,19 +38,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 78.77404007552455
+  llm_score: 85
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
   score: 78.45041308073715
   llm_score: 85
   recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 74.92016345172406
-  llm_score: 85
-  recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
   rank: 4
@@ -78,19 +78,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 64.25292330132548
-  llm_score: 85
-  recency_score: 2.644001458615577
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 64.24519657202792
   llm_score: 85
   recency_score: 2.5937777181814097
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 58.099077147479335
+  llm_score: 75
+  recency_score: 2.644001458615577
   length_score: 100
   category_score: 0
   rank: 9

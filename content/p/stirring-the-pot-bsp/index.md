@@ -17,6 +17,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 65.78701913533463
+  llm_score: 65
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
   score: 60.235367511101344
@@ -24,7 +32,7 @@ related_articles:
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: priorities
   title: Priorities
   score: 58.94653374844694
@@ -32,7 +40,7 @@ related_articles:
   recency_score: 8.152469364904984
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
   score: 58.92608486729314
@@ -40,7 +48,15 @@ related_articles:
   recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 58.74193641293641
+  llm_score: 75
+  recency_score: 6.822586684086551
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: january-22nd-qualifying-deadline
   title: January 22nd Qualifying Deadline
   score: 58.64857845381747
@@ -48,7 +64,7 @@ related_articles:
   recency_score: 6.215759949813457
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: ethical-recusal
   title: Ethical Recusal
   score: 58.48386319508556
@@ -56,28 +72,12 @@ related_articles:
   recency_score: 5.1451107680560595
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 56.556249904565405
-  llm_score: 50
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 8
 - slug: trump-n-bama
   title: Trump N Bama
   score: 56.40646106360944
   llm_score: 65
   recency_score: 31.641996913461323
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 55.66501333601333
-  llm_score: 70
-  recency_score: 6.822586684086551
   length_score: 100
   category_score: 0
   rank: 9

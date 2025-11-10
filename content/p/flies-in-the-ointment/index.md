@@ -3,7 +3,7 @@ title: FLIES IN THE OINTMENT
 date: 2016-10-14
 thumbnail: img/flies-in-the-ointment.png
 categories:
-- freaky-friday
+- alabama
 tags:
 - boone
 - catalyst

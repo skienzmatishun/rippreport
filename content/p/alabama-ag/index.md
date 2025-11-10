@@ -12,80 +12,80 @@ alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to S
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS
-  score: 77.69230769230771
-  llm_score: 95
+  score: 80.15384615384616
+  llm_score: 99
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 74.61538461538463
-  llm_score: 90
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 70.92307692307693
+  llm_score: 84
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 71.53846153846155
-  llm_score: 85
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 70.30769230769232
+  llm_score: 83
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 71.53846153846155
-  llm_score: 85
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 69.0769230769231
+  llm_score: 81
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 71.53846153846155
-  llm_score: 85
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 68.46153846153847
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 71.53846153846155
-  llm_score: 85
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 67.84615384615385
+  llm_score: 79
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 71.53846153846155
-  llm_score: 85
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 67.23076923076924
+  llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: cover-up
-  title: COVER UP
-  score: 71.53846153846155
-  llm_score: 85
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 67.23076923076924
+  llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65.3846153846154
-  llm_score: 75
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 67.23076923076924
+  llm_score: 78
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 65.3846153846154
-  llm_score: 75
+- slug: cover-up
+  title: COVER UP
+  score: 66.61538461538463
+  llm_score: 77
   recency_score: 50
   length_score: 100
   category_score: 0

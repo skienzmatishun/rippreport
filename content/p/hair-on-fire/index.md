@@ -11,54 +11,22 @@ thumbnail: img/chris-fire.jpg
 authors:
 - ripp-report
 related_articles:
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 75.49203466940978
-  llm_score: 85
-  recency_score: 0.6982253511634711
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: elliott-history-lesson
   title: ELLIOTT HISTORY LESSON
-  score: 67.73966395480467
-  llm_score: 70
+  score: 70.20120241634314
+  llm_score: 74
   recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 67.49203466940978
+  llm_score: 72
+  recency_score: 0.6982253511634711
+  length_score: 100
+  category_score: 100
   rank: 2
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 67.04228247325764
-  llm_score: 90
-  recency_score: 0.7748360761745469
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 65.90554236860677
-  llm_score: 85
-  recency_score: 13.386025395943985
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 63.94953095592448
-  llm_score: 85
-  recency_score: 0.6719512135090356
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 63.945640887470354
-  llm_score: 85
-  recency_score: 0.6466657685572273
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: talking-heads
   title: TALKING HEADS
   score: 60.275068325714514
@@ -66,28 +34,60 @@ related_articles:
   recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 57.9326872533634
-  llm_score: 75
-  recency_score: 1.5624671468620013
+  rank: 3
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 58.520926983991394
+  llm_score: 73
+  recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 57.80829166964831
-  llm_score: 75
+  score: 56.57752243887908
+  llm_score: 73
   recency_score: 0.7538958527139179
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 54.735573974723565
+  rank: 5
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 56.56491557130909
+  llm_score: 73
+  recency_score: 0.6719512135090356
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 56.08653340720955
+  llm_score: 72
+  recency_score: 1.5624671468620013
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 54.73756601832341
   llm_score: 70
-  recency_score: 0.7812308357030797
+  recency_score: 0.7941791191021144
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 54.73459016556533
+  llm_score: 70
+  recency_score: 0.7748360761745469
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 54.71487165670112
+  llm_score: 70
+  recency_score: 0.6466657685572273
   length_score: 100
   category_score: 0
   rank: 10

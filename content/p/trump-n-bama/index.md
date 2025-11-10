@@ -9,83 +9,83 @@ authors:
 rumble: v377p40
 alttags: Donald Trump speaks at an Alabama GOP dinner, endorsed by state congressmen, amid Space Command discussions
 related_articles:
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 62.5603072174556
-  llm_score: 75
-  recency_score: 31.641996913461323
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 61.00950895333862
-  llm_score: 75
-  recency_score: 21.56180819670091
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 58.161359079099505
-  llm_score: 75
-  recency_score: 3.0488340141466597
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 56.79459359798498
-  llm_score: 65
-  recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: alabama-moore-strange
-  title: ALABAMA MOORE STRANGE
-  score: 54.6564471397989
-  llm_score: 70
-  recency_score: 0.2669064086927704
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: backstory-153
   title: No Boomers
-  score: 53.47309624894435
-  llm_score: 50
+  score: 63.3192500950982
+  llm_score: 66
   recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 1
 - slug: tides-end
   title: Tide's End
-  score: 52.62030840054831
-  llm_score: 50
+  score: 63.08184686208677
+  llm_score: 67
   recency_score: 67.03200460356393
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 59.87151667490806
+  llm_score: 70
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 57.637230294378675
+  llm_score: 67
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
-  score: 52.36071454185897
-  llm_score: 60
+  score: 57.28379146493589
+  llm_score: 68
   recency_score: 25.34464452208322
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 56.08643203026169
+  llm_score: 67
+  recency_score: 21.56180819670091
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 55.27082858223451
+  llm_score: 67
+  recency_score: 16.26038578452423
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 37.38088139387816
-  llm_score: 40
+  score: 53.99626600926278
+  llm_score: 67
   recency_score: 7.975729060208014
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 53.85366677140719
+  llm_score: 68
+  recency_score: 3.0488340141466597
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 32.501597813003734
-  llm_score: 30
-  recency_score: 16.26038578452423
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 52.81029329364505
+  llm_score: 67
+  recency_score: 0.2669064086927704
   length_score: 100
   category_score: 0
   rank: 10

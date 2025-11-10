@@ -15,72 +15,72 @@ alttags: Fairhope city clock tower under surveillance cameras, symbolizing a cou
 related_articles:
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 78.65184796745164
-  llm_score: 85
+  score: 75.57492489052858
+  llm_score: 80
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 75.38474045731328
-  llm_score: 85
+  score: 71.69243276500559
+  llm_score: 79
   recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 2
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 69.58390093023779
-  llm_score: 85
+  score: 65.27620862254548
+  llm_score: 78
   recency_score: 37.29535604654552
   length_score: 100
   category_score: 0
   rank: 3
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 67.55770615377517
-  llm_score: 85
-  recency_score: 24.12508999953858
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 67.44751983401827
-  llm_score: 85
+  score: 63.139827526325966
+  llm_score: 78
   recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: conflict-on-interest
-  title: CONFLICT OF INTEREST
-  score: 64.29385994451938
-  llm_score: 85
-  recency_score: 2.9100896393759403
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 62.63462923069825
+  llm_score: 77
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 64.29141346921199
-  llm_score: 85
+  score: 61.82987500767353
+  llm_score: 81
   recency_score: 2.894187549877844
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
-  score: 64.28176052629051
-  llm_score: 85
+  score: 59.358683603213585
+  llm_score: 77
   recency_score: 2.8314434208882173
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: conflict-on-interest
+  title: CONFLICT OF INTEREST
+  score: 58.75539840605785
+  llm_score: 76
+  recency_score: 2.9100896393759403
   length_score: 100
   category_score: 0
   rank: 8
 - slug: quid-quo-pro
   title: QUID QUO PRO
-  score: 64.25070052296371
-  llm_score: 85
+  score: 58.71223898450217
+  llm_score: 76
   recency_score: 2.629553399264038
   length_score: 100
   category_score: 0

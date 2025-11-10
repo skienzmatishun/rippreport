@@ -29,12 +29,20 @@ related_articles:
   rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 83.90151943555271
-  llm_score: 95
+  score: 77.74767328170657
+  llm_score: 85
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 71.23824006698531
+  llm_score: 90
+  recency_score: 28.048560435404436
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
   score: 70.35275748952017
@@ -42,23 +50,7 @@ related_articles:
   recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 70.02836718096464
-  llm_score: 95
-  recency_score: 0.1843866762700733
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 68.16131699006223
-  llm_score: 85
-  recency_score: 28.048560435404436
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope-2
   title: FAUXHOPE
   score: 64.50136588357796
@@ -66,7 +58,7 @@ related_articles:
   recency_score: 4.258878243256627
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
   score: 64.26079964454098
@@ -74,7 +66,7 @@ related_articles:
   recency_score: 2.695197689516261
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: no-qualifications
   title: NO QUALIFICATIONS
   score: 64.0669605491314
@@ -82,12 +74,20 @@ related_articles:
   recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: no-radar
   title: NO RADAR
   score: 64.03922158316277
   llm_score: 85
   recency_score: 1.2549402905579714
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 63.87452102711849
+  llm_score: 85
+  recency_score: 0.1843866762700733
   length_score: 100
   category_score: 0
   rank: 9

@@ -9,60 +9,52 @@ authors:
 related_articles:
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 73.47607326834745
-  llm_score: 85
+  score: 76.55299634527053
+  llm_score: 90
   recency_score: 62.594476244258324
   length_score: 100
   category_score: 0
   rank: 1
-- slug: surrender
-  title: SURRENDER
-  score: 71.7304650267667
-  llm_score: 85
-  recency_score: 51.24802267398346
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
-  score: 71.55953821943812
-  llm_score: 85
+  score: 74.02107668097658
+  llm_score: 89
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: surrender
+  title: SURRENDER
+  score: 71.11508041138208
+  llm_score: 84
+  recency_score: 51.24802267398346
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 67.78829562170654
-  llm_score: 85
-  recency_score: 25.623921541092447
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 67.10863839113817
+  llm_score: 84
+  recency_score: 25.20614954239798
   length_score: 100
   category_score: 0
   rank: 4
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 65.4206195109864
-  llm_score: 85
-  recency_score: 10.234026821411552
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 65.32675716016809
+  llm_score: 81
+  recency_score: 25.623921541092447
   length_score: 100
   category_score: 0
   rank: 5
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 64.43335642168377
-  llm_score: 85
-  recency_score: 3.816816740944404
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 64.80523489560179
+  llm_score: 84
+  recency_score: 10.234026821411552
   length_score: 100
   category_score: 0
   rank: 6
-- slug: one-woman
-  title: ONE WOMAN
-  score: 64.4143650293844
-  llm_score: 85
-  recency_score: 3.6933726909985176
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: barstool
   title: BARSTOOL
   score: 64.23335003296674
@@ -70,19 +62,27 @@ related_articles:
   recency_score: 2.5167752142837743
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 63.817971806299155
+  llm_score: 84
+  recency_score: 3.816816740944404
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 61.57017685267663
-  llm_score: 75
-  recency_score: 25.20614954239798
+- slug: one-woman
+  title: ONE WOMAN
+  score: 63.183595798615166
+  llm_score: 83
+  recency_score: 3.6933726909985176
   length_score: 100
   category_score: 0
   rank: 9
 - slug: catalyst-justice
   title: CATALYST JUSTICE
-  score: 59.38301815209827
-  llm_score: 75
+  score: 63.07532584440597
+  llm_score: 81
   recency_score: 10.989617988638654
   length_score: 100
   category_score: 0

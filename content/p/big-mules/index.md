@@ -9,82 +9,82 @@ authors:
 - admin
 alttags: 'Podcast cover art: Three men in costumes referencing corporate influence and power dynamics discussed in the article'
 related_articles:
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 65.98354786981331
-  llm_score: 65
-  recency_score: 93.89306115378648
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po
-  score: 59.145665017213766
-  llm_score: 50
+  score: 48.068741940290685
+  llm_score: 32
   recency_score: 34.44682261188939
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 42.59893248519793
+  llm_score: 27
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 54.81053151049306
-  llm_score: 65
-  recency_score: 21.268454818204823
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 40.726186930507225
+  llm_score: 28
+  recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 42.35414263733898
-  llm_score: 50
-  recency_score: 0.301927142703325
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 38.195146895108444
+  llm_score: 38
+  recency_score: 21.268454818204823
   length_score: 100
   category_score: 0
   rank: 4
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 41.95695616127646
-  llm_score: 30
-  recency_score: 77.72021504829691
+- slug: backstory-podcast-no-186-change-is-coming-alabama
+  title: Change Is Coming Alabama
+  score: 34.03407797693451
+  llm_score: 31
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 5
 - slug: the-180
   title: THE 180
-  score: 34.43502118554268
-  llm_score: 30
+  score: 33.20425195477345
+  llm_score: 28
   recency_score: 28.827637706027392
   length_score: 100
   category_score: 0
   rank: 6
 - slug: scalped
   title: Scalped
-  score: 33.005642323594614
-  llm_score: 30
+  score: 31.77487309282538
+  llm_score: 28
   recency_score: 19.53667510336496
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 14.957154900011432
-  llm_score: 0
-  recency_score: 22.221506850074306
+- slug: fact-and-fiction-a-b-c
+  title: FACT and FICTION A B C
+  score: 28.90297346973488
+  llm_score: 28
+  recency_score: 0.8693275532766961
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fact-and-fiction-a-b-c
-  title: FACT and FICTION A B C
-  score: 11.672204238965646
-  llm_score: 0
-  recency_score: 0.8693275532766961
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 28.815681098877434
+  llm_score: 28
+  recency_score: 0.301927142703325
   length_score: 100
   category_score: 0
   rank: 9
 - slug: privacy-policy
   title: Privacy Policy
-  score: 11.541892718065743
-  llm_score: 0
+  score: 28.77266194883498
+  llm_score: 28
   recency_score: 0.02230266742733
   length_score: 100
   category_score: 0
