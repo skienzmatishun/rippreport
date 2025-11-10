@@ -9,7 +9,7 @@ authors:
 - admin
 ---
 
-[The United States Marine Corps](https://en.wikipedia.org/wiki/United_States_Marine_Corps_birthday) birthday is celebrated every year on November 10. This date marks the establishment of the Continental Marines in 1775. In 2025, the Marine Corps will celebrate its 250th birthday, with various events and ceremonies planned across the nation.
+[The United States Marine Corps birthday](https://en.wikipedia.org/wiki/United_States_Marine_Corps_birthday) is celebrated every year on November 10. This date marks the establishment of the Continental Marines in 1775. In 2025, the Marine Corps will celebrate its 250th birthday, with various events and ceremonies planned across the nation.
 
 Happy Birthday Marines and a special salute to those who served in Vietnam.
 
